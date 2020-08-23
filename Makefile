@@ -10,7 +10,7 @@ SUBJECT=$(firstword $(subst /, ,$1))
 INDEXFILES=$(PDF)
 
 .PHONY = all tar clean cleanindx cleanassets
-all: $(HTML) $(PDF) cleanassets
+all: cleanindx $(HTML) $(PDF)
 
 html: $(HTML)
 
@@ -29,7 +29,7 @@ tar: $(MARKDOWN)
 	tar --exclude=notes.tar.gz --exclude=.git/ -czvf notes.tar.gz ./
 
 cleanindx:
-	rm tags.html indxtable.html 
+	rm -f tags.html indxtable.html 
 
 cleanassets:
 	rm $(HTML) $(PDF)
