@@ -13,8 +13,6 @@ INDEXFILES=$(PDF)
 all: $(HTML) $(PDF)
 	echo $$RANDOM > buildID.txt
 
-run: cleanindx all
-
 html: $(HTML)
 
 pdf: $(PDF)
