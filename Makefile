@@ -10,7 +10,8 @@ SUBJECT=$(firstword $(subst /, ,$1))
 INDEXFILES=$(PDF)
 
 .PHONY = all tar clean cleanindx cleanassets
-all: cleanindx $(HTML) $(PDF)
+all: $(HTML) $(PDF)
+	echo $$RANDOM > buildID.txt
 
 html: $(HTML)
 

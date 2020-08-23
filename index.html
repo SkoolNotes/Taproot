@@ -33,8 +33,10 @@
             </div>
         </div>
     </div>
+    <div style="position: absolute; z-index: 1000; bottom: 10px; font-size: 10px">(c)2020-2021 Houjun Liu, Huxley Marvit, Zachary Sayyah, Albert Huang. Build <span id="buildid"></span></div>
     <script>
         $(document).ready(function() {
+            $("#buildid").load("./buildID.txt");
             $('#select').load("./indxtable.html", function() {
                 $('#select').select2({
                     width: "200px",
