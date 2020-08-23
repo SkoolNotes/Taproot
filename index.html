@@ -40,9 +40,10 @@
     </div>
     <div style="position: absolute; z-index: 1000; bottom: 10px; font-size: 10px">(c)2020-2021 Houjun Liu, Huxley Marvit, Zachary Sayyah, Albert Huang. Build <span id="buildid"></span></div>
     <script>
+        let r = Math.random().toString(36).substring(7);
         $(document).ready(function() {
-            $("#buildid").load("./buildID.txt");
-            $('#select').load("./indxtable.html", function() {
+            $("#buildid").load("./buildID.txt?"+r);
+            $('#select').load("./indxtable.html?"+r, function() {
                 $('#select').select2({
                     width: "200px",
                     placeholder: "Select an index",
@@ -56,7 +57,7 @@
                         window.location.href = selection.id;
                 });
             }); 
-            $('#ids').load("./tags.html", function() {
+            $('#ids').load("./tags.html?"+r, function() {
                 $('#ids').select2({
                     width: "200px",
                     placeholder: "Select an ID",
