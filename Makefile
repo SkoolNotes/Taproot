@@ -23,8 +23,7 @@ pdf: $(PDF)
 	pandoc -f markdown -t pdf $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.latex
 	echo "<option value='$@'>$(call TAG,$@)</option>" >> tags.html
 	[[ $@ == *"Topic"* ]] && (while read line; do [[ $$line == *"title"* ]] && echo "<option value='$@'>$${line}</option>" >> indxtable.html || :; done < $<) || :
-	sed -i -e 's/title: //g' indxtable.html
-	sed -i -e 's/00-Topic-//g' tags.html
+	perl -pi -e 's/title: //g' indxtable.html
 
 tar: $(MARKDOWN)
 	tar --exclude=notes.tar.gz --exclude=.git/ -czvf notes.tar.gz ./
@@ -36,6 +35,7 @@ cleanassets:
 	rm $(HTML) $(PDF)
 
 clean: cleanindx cleanassets
+
 
 
 
