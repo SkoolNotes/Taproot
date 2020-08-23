@@ -10,7 +10,7 @@ SUBJECT=$(firstword $(subst /, ,$1))
 INDEXFILES=$(PDF)
 
 .PHONY = all tar clean cleanindx cleanassets
-all: $(HTML) $(PDF)
+all: $(HTML) $(PDF) cleanassets
 
 html: $(HTML)
 
