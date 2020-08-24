@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Taproot</title>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/css/select2.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js"></script>
+    <!--<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/randomColor.js"></script>-->
+    <style>
+        html, body {
+            height: 100%;
+            width: 100%;
+            background-color: #fafafa
+        }
+
+        * {
+            font-family: "Courier New", Courier, monospace;
+        }
+
+        #backtrack {
+            display: none
+        }
+
+        a {
+            color: inherit; /* blue colors for links too */
+              text-decoration: inherit; /* no underline */
+        }
+
+        .master-index {
+            margin-top: 5px;
+        }
+
+    </style>
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate, post-check=0, pre-check=0" />
+    <meta http-equiv="cache-control" content="max-age=0" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body id="home" style="width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+    <select id="backtrack"></select>
+    <div style="padding-left: 20px; padding-right: 20px;">
+        <h1 style="color: #BF3C3C">Taproot.</h1>
+        <div style="margin-top: 40px"><b>Redirecting...</b> Zomming through the roots!</div>
+        <div id="master-indexes" style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap">
+        </div>
+    </div>
+    <div style="position: absolute; z-index: 1000; bottom: 10px; font-size: 10px">(c)2020-2021 Houjun Liu, Huxley Marvit, Zachary Sayyah, Albert Huang. Build <span id="buildid"></span></div>
+    <script>
+        let r = Math.random().toString(36).substring(7);
+        $(document).ready(function() {
+            const queryString = window.location.search;
+            const urlParams = new URLSearchParams(queryString);
+            const request = urlParams.get("request");
+
+            $("#buildid").load("./buildID.txt?"+r);
+            $('#backtrack').load("./backtrack.html?"+r, function() {
+                var btDup = {};
+                $('#backtrack option').each(function () {
+                    if (btDup[this.value]) {
+                        $(this).remove()
+                    }
+                    btDup[this.value] = true;
+                })
+                $('#backtrack').on('change', function() {
+                    if ($('#backtrack :selected').text() === "") {
+                        $('#backtrack').val("00-Topic-"+request);
+                        $('#backtrack').trigger('change');
+                    } else 
+                        window.location.href = $('#backtrack :selected').text();
+                });
+                if (request) {
+                    $('#backtrack').val(request);
+                    $('#backtrack').trigger('change');
+                }
+            });
+
+            $("select[data-use-select2]").each(function() {
+                $(this).select2({
+                    theme: "bootstrap4",
+                    dropdownParent: $(this).parent()
+                });
+            });
+        });
+    </script>
+</body>
+</html>
+

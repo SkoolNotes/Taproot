@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 # Find all markdown files
-MARKDOWN=$(shell find . -iname "*.md")
+MARKDOWN=$(shell find . -iname "*.md" | grep -v ".stversions")
 # Form all 'html' counterparts
 PDF=$(MARKDOWN:.md=.pdf)
 HTML=$(MARKDOWN:.md=.html)
