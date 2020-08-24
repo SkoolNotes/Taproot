@@ -104,7 +104,11 @@
                     btDup[this.value] = true;
                 })
                 $('#backtrack').on('change', function() {
-                    window.location.href = $('#backtrack :selected').text();
+                    if ($('#backtrack :selected').text() === "") {
+                        $('#backtrack').val("00-Topic-"+request);
+                        $('#backtrack').trigger('change');
+                    } else 
+                        window.location.href = $('#backtrack :selected').text();
                 });
                 if (request) {
                     $('#backtrack').val(request);
