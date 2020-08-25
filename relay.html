@@ -69,7 +69,7 @@
                         $('#backtrack').val("00-Topic-"+request);
                         $('#backtrack').trigger('change');
                     } else 
-                        window.location.href = $('#backtrack :selected').text();
+                        window.location.href = $('#backtrack :selected').text()+"?"+r;
                 });
                 if (request) {
                     $('#backtrack').val(request);

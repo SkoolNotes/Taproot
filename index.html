@@ -27,6 +27,10 @@
               text-decoration: inherit; /* no underline */
         }
 
+        #master-indexes {
+            max-width: 900px;
+        }
+
         .master-index {
             margin-top: 5px;
         }
@@ -74,7 +78,7 @@
                         return;
                     }
                     if (this.text.includes("Master Index")) {
-                        $("#master-indexes").append(`<div class="master-index"><a href="${this.value}" style="color: DarkBlue !important; border-bottom: solid 1px grey; margin-right: 40px; margin-bottom: 25px">${this.text}</a></div>`);
+                        $("#master-indexes").append(`<div class="master-index"><a href="${this.value}?${r}" style="color: DarkBlue !important; border-bottom: solid 1px grey; margin-right: 40px; margin-bottom: 25px">${this.text}</a></div>`);
                         $(this).remove()
                     };
 
@@ -90,7 +94,7 @@
                 $('#select').on('change', function() {
                     let selection = $(this).select2("data")[0];
                     if (selection)
-                        window.location.href = selection.id;
+                        window.location.href = selection.id+`?{r}`;
                 });
             }); 
             $('#ids').load("./tags.html?"+r, function() {
@@ -111,7 +115,7 @@
                 $('#ids').on('change', function() {
                     let selection = $(this).select2("data")[0];
                     if (selection)
-                        window.location.href = selection.id;
+                        window.location.href = selection.id+`?{r}`;
                 });
             });
             $('#backtrack').load("./backtrack.html?"+r, function() {
@@ -127,7 +131,7 @@
                         $('#backtrack').val("00-Topic-"+request);
                         $('#backtrack').trigger('change');
                     } else 
-                        window.location.href = $('#backtrack :selected').text();
+                        window.location.href = $('#backtrack :selected').text()+`?{r}`;
                 });
                 if (request) {
                     $('#backtrack').val(request);
