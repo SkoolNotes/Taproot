@@ -94,7 +94,7 @@
                 $('#select').on('change', function() {
                     let selection = $(this).select2("data")[0];
                     if (selection)
-                        window.location.href = selection.id;
+                        window.location.href = selection.id+`?{r}`;
                 });
             }); 
             $('#ids').load("./tags.html?"+r, function() {
@@ -115,7 +115,7 @@
                 $('#ids').on('change', function() {
                     let selection = $(this).select2("data")[0];
                     if (selection)
-                        window.location.href = selection.id;
+                        window.location.href = selection.id+`?{r}`;
                 });
             });
             $('#backtrack').load("./backtrack.html?"+r, function() {
@@ -131,7 +131,7 @@
                         $('#backtrack').val("00-Topic-"+request);
                         $('#backtrack').trigger('change');
                     } else 
-                        window.location.href = $('#backtrack :selected').text();
+                        window.location.href = $('#backtrack :selected').text()+`?{r}`;
                 });
                 if (request) {
                     $('#backtrack').val(request);
