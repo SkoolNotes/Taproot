@@ -18,15 +18,15 @@
     --text-mark: var(--purple-paley);
     --pre-code: #283136;
     --text-highlight-bg: var(--purple-paley);
-    /* --interactive-accent: #ff7171; */
     --interactive-accent: #00ba00;
     --interactive-before: #2ac7c7;
     --background-modifier-border: rgba(146, 161, 161, 0.5);
-    /* --blockquote-border: rgba(77, 60, 166, .6); */
+     --blockquote-border: rgba(77, 60, 166, .6); 
     --text-accent: rgb(0, 186, 0);
     --interactive-accent-rgb: var(--green-light);
     --font-family-editor: courier, arial;
-    --font-family-preview: inter;
+    /*--font-family-preview: inter;*/
+    --font-family-preview: avenir light;
 
     /* Hulk color palette */
     --purple: #3c0a96;
@@ -74,9 +74,11 @@ mark {
 
 /*Make folder title uppercase*/
 .nav-folder-title {
-    /*text-transform: uppercase;*/
+    font-family: avenir;
+    text-transform: uppercase;
     font-size: 14px;
     font-weight: bold;
+    color: #BE8A59;
 }
 
 /***************************************/
@@ -308,7 +310,8 @@ code,
     font-weight: 700 !important;
     font-size: 32px;
     font-weight: normal;
-    color: var(--text-normal);
+    /*color: var(--purple-pale);*/
+    color: #BE6259;
 }
 
 .markdown-preview-view h2 {
@@ -316,7 +319,7 @@ code,
     font-weight: 700 !important;
     font-size: 26px;
     font-weight: normal;
-    color: var(--text-normal);
+    color: #BE6259;
 }
 
 .markdown-preview-view h3 {
@@ -324,7 +327,7 @@ code,
     font-weight: 500;
     font-size: 22px;
     font-weight: bold;
-    color: var(--text-normal);
+    color: #BE6259;
 }
 
 .markdown-preview-view h4 {
@@ -332,7 +335,7 @@ code,
     font-weight: 500;
     font-size: 20px;
     font-weight: bold;
-    color: var(--text-normal);
+    color: #BE6259;
 }
 
 .markdown-preview-view h5 {
@@ -340,7 +343,7 @@ code,
     font-weight: 500;
     font-size: 18px;
     font-weight: bold;
-    color: var(--text-normal);
+    color: #BE6259;
 }
 
 .markdown-preview-view h6 {
@@ -348,7 +351,7 @@ code,
     font-weight: 500;
     font-size: 16px;
     font-weight: bold;
-    color: var(--text-normal);
+    color: #BE6259;
 }
 
 /*************************************************/
