@@ -1,4 +1,4 @@
-SHELL := /bin/bash
+SHELL := /bin/zsh
 # Find all markdown files
 MARKDOWN=$(shell find . -iname "*.md" | grep -v ".stversions")
 # Form all 'html' counterparts
@@ -6,26 +6,34 @@ PDF=$(MARKDOWN:.md=.pdf)
 HTML=$(MARKDOWN:.md=.html)
 TAG=$(firstword $(subst ., ,$(lastword $(subst /, ,$1))))
 SUBJECT=$(firstword $(subst /, ,$1))
-
-INDEXFILES=$(PDF)
+TARGET=$(subst md,pdf,$1)
 
 .PHONY = all tar clean cleanindx cleanassets
-all: $(HTML) $(PDF)
+
+all: $(MARKDOWN) $(PDF) $(HTML)
 	echo $$RANDOM > buildID.txt
+	make flush
 
 html: $(HTML)
 
 pdf: $(PDF)
+
+indx: $(MARKDOWN)
+
+flush:
+	make cleanindx indx -B
+
+%.md:
+	echo "<option value='$(call TARGET,$@)'>$(call TAG,$@)</option>" >> tags.html
+	echo "<option value='$(call TAG,$@)'>$(call TARGET,$@)</option>" >> backtrack.html
+	while read line; do [[ $$line == *"title"* ]] && echo "<option value='$(call TARGET,$@)'>$${line}</option>" >> indxtable.html || :; done < $@ 
+	perl -pi -e 's/title: //g' indxtable.html
 
 %.html: %.md
 	pandoc -f markdown -t html $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.html
 
 %.pdf: %.md
 	pandoc -f markdown -t pdf $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.latex
-	echo "<option value='$@'>$(call TAG,$@)</option>" >> tags.html
-	echo "<option value='$(call TAG,$@)'>$@</option>" >> backtrack.html
-	while read line; do [[ $$line == *"title"* ]] && echo "<option value='$@'>$${line}</option>" >> indxtable.html || :; done < $<
-	perl -pi -e 's/title: //g' indxtable.html
 
 tar: $(MARKDOWN)
 	tar --exclude=notes.tar.gz --exclude=.git/ -czvf notes.tar.gz ./
