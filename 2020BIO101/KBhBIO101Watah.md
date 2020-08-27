@@ -43,5 +43,5 @@ See also [[KBhBIO101PropsOfWater]] Properties of Water
 
 * Liquid at Earth temperatures
 * Sticky => strong bonds that help water hold together + resist change in temperature (hence why AlcaholLand cannot exist).
-    * Varing te 
+    * Varing te (incomplete #todo-houjun @jemoka)
 * Is universal solvent

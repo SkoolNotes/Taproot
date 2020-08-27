@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ 20bio101 }
+\newcommand{\thelesson}{ DNA Index }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -166,6 +166,8 @@
 {\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
 
 {[}{[}KBe20bio101srcDNADiagram.png{]}{]}
+
+(incomplete, will be filled when we talk about DNA in class)
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -164,6 +165,8 @@
 {}
 {\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
 
+\#source
+
 Everyone has calculus!
 
 \begin{itemize}
@@ -177,11 +180,11 @@ Everyone has calculus!
     {[}{[}KB20200824094500{]}{]}
   \end{itemize}
 \item
-  \textbf{Houjun Liu}{[}{[}KB20200824125824{]}{]}
+  \textbf{Houjun Liu} {[}{[}KBhMATH401SubIndex{]}{]}
 \item
   \textbf{Zachary Sayyah}{[}{[}KB20200823154725{]}{]}
 \item
-  \textbf{Albert Huang}{[}{[}KBe2020math401index{]}{]}
+  \textbf{Albert Huang}{[}{[}KBe-2020math401-index{]}{]}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}

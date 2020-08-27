@@ -5,8 +5,8 @@ author: Exr0n
 source: KBe2020math401index
 ---
 
-| HW | Due Date | Link |
-|---:|----------|------|
-   0 | 2020-08-27 | [[KBe2020math401ret0MyIntro]]
+| HW | Due Date   | Link                          |
+|---:|------------|-------------------------------|
+|  0 | 2020-08-27 | [[KBe2020math401ret0MyIntro]] |
 
 ---

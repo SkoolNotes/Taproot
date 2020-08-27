@@ -17,7 +17,7 @@ source: KBe2020bio101refMacromolecules
 		- Get nitrogen from eating things
 			- Plant fertilizer
 			- Manure?
-			- Bacteria!
+			- Bacteria! [[KBe20bio101refBactera]]
 - Phosphorus
 - Sulfur	
 	- In amino acids

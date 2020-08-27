@@ -1,6 +1,6 @@
 ---
-title:  
-course: 
+title:  Lipids Index
+course: 20bio101
 author: Exr0n
 source: #index
 ---

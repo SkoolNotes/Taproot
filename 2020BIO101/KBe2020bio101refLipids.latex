@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ 20bio101 }
+\newcommand{\thelesson}{ Lipids Index }
 
 \title{\textbf{\thecourse}\thelesson}
 

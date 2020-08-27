@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -163,8 +164,6 @@
 \ifthenelse{ \equal{KBCalculusMasterIndex}{} }
 {}
 {\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBCalculusMasterIndex}{\tiny\textulf{[[}\textbf{KBCalculusMasterIndex}\textulf{]]}}}
-
-\#source
 
 \begin{itemize}
 \tightlist

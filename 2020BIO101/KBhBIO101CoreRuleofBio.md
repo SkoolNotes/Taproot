@@ -11,7 +11,7 @@ Here it is:
 
 Think!
 
-* DNAs! (A-G/T-C)
+* DNAs! (A-G/T-C) [[KBe20bio101refDNA]]
 * Cell receptors!
 * Drugs!
 * Reproduction!
