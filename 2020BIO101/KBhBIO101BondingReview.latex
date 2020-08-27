@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -176,6 +177,30 @@
   Concentrated electron cloud
 \item
   ``Sharing'' or electron cloud
+\item
+  Might get disrupted
+
+  \begin{itemize}
+  \tightlist
+  \item
+    by temperature
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Molecules move around more and bonds may be loosened or broken
+    \end{itemize}
+  \item
+    pH
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Acids donate charge and bases accept them
+    \item
+      Changed pH might screw up the amino acid charges
+    \end{itemize}
+  \end{itemize}
 \end{itemize}
 
 \hypertarget{hydrogen-bond}{%

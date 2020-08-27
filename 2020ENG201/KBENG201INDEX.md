@@ -21,7 +21,8 @@ source: #index
         * [[KBhENG201TheIIsNeverAlone]] The I is Never Alone, Jack's Thoughts
     * Zach
     * Hux
-
+* **Close Reading + Assessment 1** [[KBhENG201CloseReading]]
+  [[KBWhatIsCloseReading]]
 ## Annotated Docs
 | | |
 |-|-|

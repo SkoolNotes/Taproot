@@ -8,8 +8,9 @@ legacy-name: 00-Topic-KB20200825085410
 
 | | |
 |-|-|
-Intro | [[KBe2020math530floIntro]]
-Homework | [[KBe-2020math530-ref-exr0n_ret_index]]
+Intro | [[KBe2020math530flo1]]
+
+Homework | [[KBe2020math530refExr0nRetIndex]]
 Etymology | [[KBe2020math530floLinalgEtymology]]
 Numbers | [[KBe2020math530floNumbers]]
 Groups | [[KBe2020math530floGroups]]

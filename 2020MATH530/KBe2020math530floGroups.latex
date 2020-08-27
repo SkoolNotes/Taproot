@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -227,11 +228,14 @@ Number System & Multiplication & Addition\tabularnewline
 Natural Numbers & No inverse & No identity\tabularnewline
 Whole Numbers & No inverse & No inverse\tabularnewline
 Integers & No inverse & Yes\tabularnewline
-Rationals & Yes & Yes\tabularnewline
-Reals & Yes & Yes\tabularnewline
-Complex Numbers & Yes & Yes\tabularnewline
+Rationals & Yes* & Yes\tabularnewline
+Reals & Yes* & Yes\tabularnewline
+Complex Numbers & Yes* & Yes\tabularnewline
 \bottomrule
 \end{longtable}
+
+*Zero doesn't have an inverse, so it usually gets dropped. For example,
+Q* is Q w/o zero \#todo-exr0n: rewrite in latex say \$\$
 
 \begin{itemize}
 \tightlist

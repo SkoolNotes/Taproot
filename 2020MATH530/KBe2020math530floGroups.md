@@ -25,9 +25,11 @@ legacy-name: KB20200825134500
 | Natural Numbers | No inverse     | No identity |
 | Whole Numbers   | No inverse     | No inverse  |
 | Integers        | No inverse     | Yes         |
-| Rationals       | Yes            | Yes         |
-| Reals           | Yes            | Yes         |
-| Complex Numbers | Yes            | Yes         |
+| Rationals       | Yes*           | Yes         |
+| Reals           | Yes*           | Yes         |
+| Complex Numbers | Yes*           | Yes         |
+
+\*Zero doesn't have an inverse, so it usually gets dropped. For example, Q* is Q w/o zero #todo-exr0n: rewrite in latex say $$
 
 - ![[SRC20200825135700.png]]
 $$

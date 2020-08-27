@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -167,7 +168,8 @@
 \begin{longtable}[]{@{}ll@{}}
 \toprule
 \endhead
-Intro & {[}{[}KBe2020math530floIntro{]}{]}\tabularnewline
+Intro & {[}{[}KBe2020math530flo1{]}{]}\tabularnewline
+Flows & {[}{[}KBe2020math520floIndex{]}{]}\tabularnewline
 Homework & {[}{[}KBe2020math530refExr0nRetIndex{]}{]}\tabularnewline
 Etymology & {[}{[}KBe2020math530floLinalgEtymology{]}{]}\tabularnewline
 Numbers & {[}{[}KBe2020math530floNumbers{]}{]}\tabularnewline
