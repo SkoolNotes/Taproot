@@ -4,6 +4,8 @@
 \setlength\parindent{0pt}
 
 \usepackage{amsmath}
+\usepackage{amssymb}
+
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -33,7 +35,7 @@
 \makeatother
 
 
-\UndoBoundary{[, ]}
+\UndoBoundary{[, ], \_}
 \SearchList{startbrac}{}{*[?}
 \SearchList{endbrac}{}{*]?}
 \SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
@@ -104,7 +106,7 @@
 
 
 \newcommand{\thecourse}{ 2020BIO101 }
-\newcommand{\thelesson}{ Bio I guess }
+\newcommand{\thelesson}{ Bio }
 
 \title{\textbf{\thecourse}\thelesson}
 

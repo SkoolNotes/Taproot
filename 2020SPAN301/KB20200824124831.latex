@@ -4,6 +4,8 @@
 \setlength\parindent{0pt}
 
 \usepackage{amsmath}
+\usepackage{amssymb}
+
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -33,7 +35,7 @@
 \makeatother
 
 
-\UndoBoundary{[, ]}
+\UndoBoundary{[, ], \_}
 \SearchList{startbrac}{}{*[?}
 \SearchList{endbrac}{}{*]?}
 \SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
@@ -171,7 +173,7 @@
   Class expectations and future topics for semester 1.
   {[}{[}KB20200824175405{]}{]}
 \item
-  Getting started with William, Sem. 1 {[}{[}KB20200825085924{]}{]}
+  Getting started with William, Sem. 1 {[}{[}KBhSPAN301SpanD1{]}{]}
 \end{itemize}
 
 \end{document}

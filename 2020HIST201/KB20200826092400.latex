@@ -4,6 +4,8 @@
 \setlength\parindent{0pt}
 
 \usepackage{amsmath}
+\usepackage{amssymb}
+
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -33,7 +35,7 @@
 \makeatother
 
 
-\UndoBoundary{[, ]}
+\UndoBoundary{[, ], \_}
 \SearchList{startbrac}{}{*[?}
 \SearchList{endbrac}{}{*]?}
 \SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
@@ -217,7 +219,7 @@ Contents:
 \item
   commoners can't afford food and revolt
 \item
-  little ice age causes, see {[}{[}KB20200822170249{]}{]}
+  little ice age causes, see {[}{[}KBhHIST201LittleIceAge{]}{]}
 \item
   how slave trade started
 

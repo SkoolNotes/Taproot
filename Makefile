@@ -48,7 +48,7 @@ cleanindx:
 	rm -f tags.html indxtable.html backtrack.html
 
 cleanassets:
-	rm $(HTML) $(PDF)
+	rm -f $(HTML) $(PDF) $(LATEX)
 
 clean: cleanindx cleanassets
 

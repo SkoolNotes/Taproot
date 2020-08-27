@@ -1,0 +1,41 @@
+---
+title: Critical Listening Journal
+author: Houjun Liu
+course: MUS201
+source: KBhMUS150D1
+---
+
+# 08252020
+
+**Electric — Alina Baraz**
+
+ - Interesting EQ choice on vocals
+ - Syncth panning automation?
+ - Vocal filtering action
+ - Drum machine being filtered too
+ - A LOT of filtering on vocals during chorus + backing vocals being synthesized instead of sung?
+ - Male chorus seems to be eqed for bases w/ a pretty low HP
+ - Filter and gain automation on synth create "wobbly" effect
+ - Ending rain SFX + a mids-only sonud effect
+ - More wobbly filtering synth
+ 
+ **Film — Aphox Twin**
+ 
+ - Already, lot's of drum machine action
+ - Simple sound texture — but sounds very clean 
+ - Feels randomized at times
+ - Dropouts!
+ 
+ **Every single thing**
+ 
+ - Filter action
+ - Simple drum motif
+ - Interesting chorus
+ - Not quite sure how to describe the high chorus, but it's slightly off-putting
+ 
+ **Black Qualls**
+ 
+ - Funky filters + funky vocals
+ - Syncth cutoff
+ - Various EQ effects on the vocals
+ - Radio effects 
