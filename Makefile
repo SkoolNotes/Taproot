@@ -4,6 +4,7 @@ MARKDOWN=$(shell find . -iname "*.md" | grep -v ".stversions")
 # Form all 'html' counterparts
 PDF=$(MARKDOWN:.md=.pdf)
 HTML=$(MARKDOWN:.md=.html)
+LATEX=$(MARKDOWN:.md=.latex)
 TAG=$(firstword $(subst ., ,$(lastword $(subst /, ,$1))))
 SUBJECT=$(firstword $(subst /, ,$1))
 TARGET=$(subst md,pdf,$1)
@@ -18,6 +19,8 @@ html: $(HTML)
 
 pdf: $(PDF)
 
+latex: $(LATEX)
+
 indx: $(MARKDOWN)
 
 flush:
@@ -29,8 +32,11 @@ flush:
 	while read line; do [[ $$line == *"title"* ]] && echo "<option value='$(call TARGET,$@)'>$${line}</option>" >> indxtable.html || :; done < $@ 
 	perl -pi -e 's/title: //g' indxtable.html
 
-%.html: %.md
-	pandoc -f markdown -t html $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.html
+%.latex: %.md
+	pandoc -f markdown -t latex $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.latex
+
+%.html: %.latex
+	pandoc -f latex -t html $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.html
 
 %.pdf: %.md
 	pandoc -f markdown -t pdf $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.latex
