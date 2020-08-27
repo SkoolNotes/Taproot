@@ -2,7 +2,7 @@
 title: Groups
 course: 2020math530
 author: Exr0n
-source: KBe2020math530index
+source: KBe-2020math530-index
 legacy-name: KB20200825134500
 ---
 

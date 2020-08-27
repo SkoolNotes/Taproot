@@ -9,7 +9,7 @@ Everyone has calculus!
 
 - **Huxley Marvit**
     - [[KB20200824094500]]
-- **Houjun Liu**[[KB20200824125824]]
+- **Houjun Liu** [[KBhMATH401SubIndex]]
 - **Zachary Sayyah**[[KB20200823154725]]
 - **Albert Huang**[[KBe-2020math401-index]]
 

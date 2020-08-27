@@ -105,8 +105,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 2020MATH401 }
-\newcommand{\thelesson}{ Calculus Master Index }
+\newcommand{\thecourse}{ 2020MATH530 }
+\newcommand{\thelesson}{ Etymology }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -160,28 +160,41 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{}{} }
+\ifthenelse{ \equal{KBe2020math530index}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
-
-Everyone has calculus!
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBe2020math530index}{\tiny\textulf{[[}\textbf{KBe2020math530index}\textulf{]]}}}
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{Huxley Marvit}
+  Do algebra with matrices with vectors - Works because linear
+  operations
+\item
+  Only linear transformations
+\item
+  Linear
 
   \begin{itemize}
   \tightlist
   \item
-    {[}{[}KB20200824094500{]}{]}
+    transformations
+  \item
+    combinations
+  \item
+    independence
   \end{itemize}
 \item
-  \textbf{Houjun Liu} {[}{[}KBhMATH401SubIndex{]}{]}
-\item
-  \textbf{Zachary Sayyah}{[}{[}KB20200823154725{]}{]}
-\item
-  \textbf{Albert Huang}{[}{[}KBe-2020math401-index{]}{]}
+  Algebra
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Do stuff to things, maybe not add/multiply, numbers
+  \item
+    Add and multiply
+  \item
+    abs(x) \textless= 2
+  \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
