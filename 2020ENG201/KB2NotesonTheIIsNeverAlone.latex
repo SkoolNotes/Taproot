@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -160,9 +161,9 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{KB20200823220525}{} }
+\ifthenelse{ \equal{KBENG201INDEX}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KB20200823220525}{\tiny\textulf{[[}\textbf{KB20200823220525}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBENG201INDEX}{\tiny\textulf{[[}\textbf{KBENG201INDEX}\textulf{]]}}}
 
 \begin{itemize}
 \tightlist

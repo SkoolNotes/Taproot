@@ -5,18 +5,16 @@ author: Houjun Liu
 source: KBhENG201AlexaD1
 ---
 
-**Homework**: analyzing the specific _language_ in the text
+# The I is Never Alone, Reflection
 
+## Initial Reaction
 * Tragic, hey?
 * Examining national identity + colonialism
 * So, what's up with the birds?
     * Birds taken on human behaviors
     * Similar to Wild Animal Imprinting!!
 
-***
-
-And now, the homework.
-
+## Thoughts on Composition
 Thoughts on the composition of the text...
 
 - Crappy stuff happening to Siriak – but very often at dawn or dusk… #why?
@@ -36,3 +34,4 @@ Thoughts on the composition of the text...
     - But, obviously, it does not really work, for it decomposes with him
     - Mirrors="The (non-actual) Way Out"?
     - Simply creating an _image_ of control
+    

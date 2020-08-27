@@ -106,8 +106,9 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ ENG201 }
-\newcommand{\thelesson}{ The I is Never Alone --- Jack's Thoughts }
+\newcommand{\thecourse}{ 2020-ENG201 }
+\newcommand{\thelesson}{ Globalization/Colonialism/Imperialism
+ThinkPairShare }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -121,7 +122,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -161,101 +162,27 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{KBhENG201AlexaD1}{} }
+\ifthenelse{ \equal{KB20200823220525}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhENG201AlexaD1}{\tiny\textulf{[[}\textbf{KBhENG201AlexaD1}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KB20200823220525}{\tiny\textulf{[[}\textbf{KB20200823220525}\textulf{]]}}}
 
-\hypertarget{the-i-is-never-alone-reflection}{%
-\section{The I is Never Alone,
-Reflection}\label{the-i-is-never-alone-reflection}}
-
-\hypertarget{initial-reaction}{%
-\subsection{Initial Reaction}\label{initial-reaction}}
-
-\begin{itemize}
-\tightlist
-\item
-  Tragic, hey?
-\item
-  Examining national identity + colonialism
-\item
-  So, what's up with the birds?
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Birds taken on human behaviors
-  \item
-    Similar to Wild Animal Imprinting!!
-  \end{itemize}
-\end{itemize}
-
-\hypertarget{thoughts-on-composition}{%
-\subsection{Thoughts on Composition}\label{thoughts-on-composition}}
-
-Thoughts on the composition of the text\ldots{}
+\begin{figure}
+\centering
+\includegraphics{e0f2c85fa0ee768ed57edb70f96ce954.png}
+\caption{e0f2c85fa0ee768ed57edb70f96ce954.png}
+\end{figure}
 
 \begin{itemize}
 \tightlist
 \item
-  Crappy stuff happening to Siriak -- but very often at dawn or
-  dusk\ldots{} \#why?
-
-  \begin{itemize}
-  \tightlist
-  \item
-    ``Died together before sunset''
-  \item
-    ``At down he set food on the isle''
-  \end{itemize}
+  Colonialism is more about gaining and asserting power, while
+  imperialism is more about ruling a colony afterwards.
 \item
-  Shift in tone and pride:
-
-  \begin{itemize}
-  \tightlist
-  \item
-    ``\textbf{Condemned}'' =\textgreater{} Walking about
-
-    \begin{itemize}
-    \tightlist
-    \item
-      (Also, Condemned used a lot!)
-    \item
-      Perhaps a demonstration of the involuntary nature of events?
-    \end{itemize}
-  \item
-    ``Stared at + pronounced'' =\textgreater{} Proclaimed
-  \end{itemize}
+  Globalization is the creation of a global economy and bringing people
+  closer in interaction (like the UN).
 \item
-  ``Bones mixed with the sand on the beach''
-
-  \begin{itemize}
-  \tightlist
-  \item
-    So, he \emph{became} part of the island?
-  \item
-    Assimilation or giving in?
-  \end{itemize}
-\item
-  ``The outcome was everything Siriak might have hoped for, if not
-  forseen'' --- so, in some ways, is Siriak loosing track of his larger
-  ``mission''
-\item
-  Symbolism of mirrors
-
-  \begin{itemize}
-  \tightlist
-  \item
-    That one wants to ``see'' themselves changing the area
-  \item
-    But, obviously, it does not really work, for it decomposes with him
-  \item
-    Mirrors=``The (non-actual) Way Out''?
-  \item
-    Simply creating an \emph{image} of control
-  \end{itemize}
+  Globalization is more like working together, while imperalism is more
+  like taking over.
 \end{itemize}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}

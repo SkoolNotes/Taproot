@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -105,7 +106,7 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ ENG201 }
+\newcommand{\thecourse}{ 2020eng201 }
 \newcommand{\thelesson}{ English Master Index }
 
 \title{\textbf{\thecourse}\thelesson}
@@ -120,7 +121,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu, Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -169,10 +170,11 @@
 \begin{itemize}
 \tightlist
 \item
-  \textbf{Topics for English 10} {[}{[}KB20200824143902{]}{]}
+  \textbf{Topics for English 10}
+  {[}{[}KBe2020eng201refEnglishTopics{]}{]}
 \item
   \textbf{Cololianlism, imperialsim, globalization Think-Pair-Share}
-  {[}{[}KB20200824144641{]}{]}
+  {[}{[}KBe-2020eng201floD1Breakout{]}{]}
 \item
   \textbf{Alexa, Day 1}
 
@@ -183,21 +185,62 @@
   \item
     Zach's take: {[}{[}KBDayoneEnglishZachary{]}{]}
   \item
-    Huxley's take:
+    Huxley's take: \emph{is missing}
+  \end{itemize}
+\item
+  \textbf{The I Is Never Alone}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Albert:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      {[}{[}KB2NotesonTheIIsNeverAlone{]}{]} The I is Never Along, notes
+    \item
+      {[}{[}KBe2020eng201floImperalismNotes{]}{]} The I Is Never Alone +
+      Imperialism
+    \end{itemize}
+  \item
+    Jack:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      {[}{[}KBhENG201TheIIsNeverAlone{]}{]} The I is Never Alone, Jack's
+      Thoughts
+    \end{itemize}
+  \item
+    Zach
+  \item
+    Hux
   \end{itemize}
 \end{itemize}
 
 \hypertarget{annotated-docs}{%
 \subsection{Annotated Docs}\label{annotated-docs}}
 
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Notes on
-  \texttt{The\ I\ Is\ Never\ Alone}}{[}{[}KB2NotesonTheIIsNeverAlone{]}{]}
-\item
-  \textbf{\emph{The I Is Never Alone} + imperialism notes} !
-  {[}{[}KB20200826152300{]}{]}
-\end{itemize}
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\endhead
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Notes on \texttt{The\ I\ Is\ Never\ Alone}\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KB2NotesonTheIIsNeverAlone{]}{]}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\emph{The I Is Never Alone} + imperialism notes\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBe2020eng201floImperalismNotes{]}{]}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\emph{The Bird-Dreaming Baobab} pass 0\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBe2020eng201floBirdDreamingBaobab0.pdf{]}{]}\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
 
 \end{document}
