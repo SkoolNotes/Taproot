@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -183,7 +184,15 @@ things.
 At the moment, Taproot is organized by the course that each concept
 falls into. The project was started with Zettelkasten style IDs prefixed
 with ``KB'', but was soon moved to semantic naming. Some files are named
-according to the convention outlined here: {[}{[}KBeMetaIndex{]}{]}.
+according to the convention outlined here:
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBeMetaIndex{]}{]} @Exr0n
+\item
+  {[}{[}KBhMETAindex{]}{]} @Jemoka
+\end{itemize}
 
 \hypertarget{epilogue}{%
 \subsection{Epilogue}\label{epilogue}}

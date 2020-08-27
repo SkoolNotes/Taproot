@@ -43,4 +43,7 @@ See [[KBhMUS150StartingASong]], starting a song
 # Class structure
 1. Critical Listening
 2. Techniques + Guest Presentations
-3. Project Creation and Workshop
+3. Project Creation and Workshopo
+
+# Resources
+[[KBhMUS150MusicVideos]] Music Videos

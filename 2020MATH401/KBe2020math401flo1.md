@@ -40,6 +40,7 @@ You should advocate for yourself and schedule 1 on 1 meetings even when you aren
 Nas is free from blocks 1-4 + tutorial times.
 
 #### For Next Class
+- Reccomended reading [[]]
 - Math/Calculus books, videos
 
 ---

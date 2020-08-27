@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -172,6 +173,8 @@
   {[}{[}KBhPHYS201IntroToElectrostaticsLN{]}{]} Intro to Electrostatics
 \item
   {[}{[}KB20200825090600{]}{]} Physics day 1
+\item
+  {[}{[}KBRemoteRollingBall{]}{]}
 \end{itemize}
 
 \end{document}

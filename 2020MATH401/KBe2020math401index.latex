@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -169,7 +170,8 @@
 \endhead
 Concepts and Notation &
 {[}{[}KBe2020math401refCalcConceptsNotation{]}{]}\tabularnewline
-Introduction & {[}{[}KBe2020math401floCalcIntro{]}{]}\tabularnewline
+Introduction & {[}{[}KBe2020math401flo1{]}{]}\tabularnewline
+Flow Index & {[}{[}KBe2020math401floDailyIndex{]}{]}\tabularnewline
 Assignments & {[}{[}KBe2020math401refExr0nRetIndex{]}{]}\tabularnewline
 \bottomrule
 \end{longtable}

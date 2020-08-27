@@ -8,7 +8,8 @@ source: KBCalculusMasterIndex
 | | |
 |-|-|
 Concepts and Notation | [[KBe2020math401refCalcConceptsNotation]]
-Introduction | [[KBe2020math401floCalcIntro]]
+Introduction | [[KBe2020math401flo1]]
+Flow Index | [[KBe2020math401floDailyIndex]]
 Assignments | [[KBe2020math401refExr0nRetIndex]]
 
 ---
