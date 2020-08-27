@@ -2,7 +2,7 @@
 title: Numbers
 course: 2020math530
 author: Exr0n
-source: KBe-2020math530-index
+source: KBe2020math530index
 legacy-name: KB20200825132400
 ---
 

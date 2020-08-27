@@ -3,6 +3,7 @@ title:  My Intro
 course: 2020math401
 author: Exr0n
 source: KBe-2020math401-ref-exr0n-ret-index
+export: https://docs.google.com/document/d/1Wv-GXR4nemXuJG4L6yJNSLMyTJOf1E30ZPY-V2yOJaA/edit
 ---
 
 I think a good math problem is one that takes you somewhere and reveals something useful and elegant. 

@@ -1,6 +1,6 @@
 ---
 title: Calculus Introduction with Nas
-course: 2020MATH401
+course: 2020math401
 author: Exr0n
 source: KBe-2020math401-index
 ---

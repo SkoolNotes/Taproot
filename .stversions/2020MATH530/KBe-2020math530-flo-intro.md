@@ -2,7 +2,7 @@
 title: Linear Algebra Day 1
 course: 2020math530
 author: Exr0n
-source: KBe-2020math530-index
+source: KBe2020math530index
 legacy-name: KB20200825125900
 ---
 
@@ -22,7 +22,7 @@ legacy-name: KB20200825125900
 		- Good for understanding data
 		- **Study of Matrices**
 			- Many applications, including systems of equations
-	- Why is it called that [[KBe-2020math530-flo-linalg_etymology]]
+	- Why is it called that [[KBe2020math530-flo-linalg_etymology]]
 	- What is a number? [[KBe-2020math530-flo-numbers]]
 
 - Math as a game

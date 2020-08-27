@@ -22,8 +22,8 @@ legacy-name: KB20200825125900
 		- Good for understanding data
 		- **Study of Matrices**
 			- Many applications, including systems of equations
-	- Why is it called that [[KBe2020math530-flo-linalg_etymology]]
-	- What is a number? [[KBe-2020math530-flo-numbers]]
+	- Why is it called that [[KBe2020math530floLinalgEtymology]]
+	- What is a number? [[KBe2020math530floNumbers]]
 
 - Math as a game
 	- Rules

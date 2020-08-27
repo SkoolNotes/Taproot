@@ -15,7 +15,7 @@ Zettelkasten, maybe. But basically, create a repository of knowledge that should
 
 At the moment, Taproot is organized by the course that each concept falls into.
 The project was started with Zettelkasten style IDs prefixed with "KB", but was soon moved to semantic naming.
-Some files are named according to [the convention outlined here]([[KBe-meta-index]]).
+Some files are named according to the convention outlined here: [[KBe-meta-index]].
 
 ## Epilogue
 

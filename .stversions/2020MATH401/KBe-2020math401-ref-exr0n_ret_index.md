@@ -7,6 +7,6 @@ source: KBe-2020math401-index
 
 | HW | Due Date | Link |
 |---:|----------|------|
-   0 | 2020-08-27 | [[KBe-2020math401-ret-0_my_intro]]
+   0 | 2020-08-27 | [[KBe2020math401ret0MyIntro]]
 
 ---

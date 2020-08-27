@@ -47,7 +47,7 @@ Treat as expression (linear combination/transformation?)\* | $\begin{bmatrix} a 
 
 > Which of the number systems we discussed today form a group under addition? Under multiplication?
 
-Source: [[KBe-2020math530-flo-groups]]
+Source: [[KBe2020math530floGroups]]
 
 | Number System   | Multiplication | Addition    |
 |-----------------|:--------------:|:-----------:|

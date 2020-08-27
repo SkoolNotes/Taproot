@@ -7,6 +7,6 @@ source: #index
 
 | Due Date | Link |
 |----------|------|
-2020-08-27 | [[KBe-2020-math530-ret-practice_multiply_matrix_identfy_groups]]
+2020-08-27 | [[KBe2020math530retPracticeMultiplyMatrixIdentfyGroups]]
 
 ---
