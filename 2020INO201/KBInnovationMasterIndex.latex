@@ -103,8 +103,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Free Association Bio Review }
+\newcommand{\thecourse}{ Innovation! }
+\newcommand{\thelesson}{ Innovation Master Index }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -118,7 +118,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -158,76 +158,13 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{00-Topic-KB20200823182634}{} }
+\ifthenelse{ \equal{}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=00-Topic-KB20200823182634}{\tiny\textulf{[[}\textbf{00-Topic-KB20200823182634}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+aoenuthaoenu
 
-Others: {[}{[}KB20200825153500{]}{]} - Exr0n
-
-Free associate: atoms, 2nd law of thermodynamics, energy,
-electronegativity, polarity, types of chemical bonds, lipid(s),
-carbohydrate(s), protein(s), amino acid(s), fold, enzyme.
-
-Never done a free associate before, so lets see how this goes.
-
-\begin{itemize}
-\tightlist
-\item
-  Atoms
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Exhibit eletronegativty, which allows them to
-  \item
-    Form molecules, which exhibits the property of polarity
-  \item
-    Depending upon polarity, different types of bonds can be formed.
-  \item
-    Covalent bonds are the bonds which peptides exhibit, the bond which
-    joins amino acids, which form proteins when chained together.
-  \item
-    These proteins then fold, and the way they fold is critical to their
-    function.
-  \item
-    Some of these functions are turning carbohydrates into ATP.
-  \item
-    ATP is biological energy (along with some lipids which form fats),
-    which is fundamental for reactions to occur.
-  \item
-    A way of lowering the activation energy for reactions to take place
-    is with enzymes.
-  \item
-    This increases reaction rate, just like heat does.
-  \item
-    Each of these reactions contributes to the inevitable heat death of
-    the universe, due to the second law of thermodynamics
-  \item
-  \end{itemize}
-\end{itemize}
-
-****2nd law of thermodynamics
-
-****Energy
-
-****Electronegativity
-
-****Polarity
-
-****Types of chemical bonds
-
-****Lipids
-
-****Carbohydrates
-
-****Protein
-
-****Amino acids
-
-****fold
-
-****enzyme
+My id is: KBInnovationMasterIndex Here's another one:
+{[}{[}KBWhatThisworks{]}{]}
 
 \end{document}
