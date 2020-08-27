@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -106,7 +107,7 @@
 
 
 \newcommand{\thecourse}{ 2020-ENG201 }
-\newcommand{\thelesson}{ Globalization/Colonialism/Imperialism
+\newcommand{\thelesson}{ Globalization Colonialism Imperialism
 ThinkPairShare }
 
 \title{\textbf{\thecourse}\thelesson}
