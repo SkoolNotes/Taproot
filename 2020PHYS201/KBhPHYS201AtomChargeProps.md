@@ -12,3 +12,5 @@ source: KBhPHYS201IntroToElectrostaticsLN
 * Steel, Wood, Polyester => meh
 * Plastics => negative when rubbed
 * Silicon/Teflon => very negative when rubbed
+
+
