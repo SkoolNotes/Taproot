@@ -4,7 +4,7 @@ author: Huxley
 course: HIST201
 source: #index
 ---
---- 
+
 Other Notes: [[KBe20hist201floKennedyCH1pt1]]
 Annotations [[KBe20hist201srcKennedyChap1Part1.pdf]]
 
