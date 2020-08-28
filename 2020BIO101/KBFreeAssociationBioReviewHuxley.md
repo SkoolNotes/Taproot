@@ -19,7 +19,7 @@ Free associate: atoms, 2nd law of thermodynamics, energy, electronegativity, pol
 	- Form molecules, which exhibits the property of polarity 
 	- Depending upon polarity, different types of bonds can be formed. 
 	- Covalent bonds are the bonds which peptides exhibit, the bond which joins amino acids, which form proteins when chained together.
-	- These proteins then fold, and the way they fold is critical to their function.
+	- These proteins then fold, and the way they fold is critical to their function. [[KBe2020bio101refProtienFolding]]
 	- Some of these functions are turning carbohydrates into ATP. 
 	- ATP is biological energy (along with some lipids which form fats), which is fundamental for reactions to occur. 
 	- A way of lowering the activation energy for reactions to take place is with enzymes.

@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ ENG201 }
+\newcommand{\thelesson}{ Thoughts on Imperialism + Colonialism }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -161,12 +161,117 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{}{} }
+\ifthenelse{ \equal{KBENG201INDEX}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBENG201INDEX}{\tiny\textulf{[[}\textbf{KBENG201INDEX}\textulf{]]}}}
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{so-what-is-colonialism}{%
+\section{\texorpdfstring{So, what \emph{is}
+Colonialism?}{So, what is Colonialism?}}\label{so-what-is-colonialism}}
 
-anotuehaoe
+\begin{quote}
+Colonialism is a practice of domination
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  Not very modern
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Acient Greek Mediterranean Colonies
+  \item
+    Roman Europe Colonies.+ African Colonies
+  \item
+    Moors
+  \item
+    Ottomans
+  \end{itemize}
+\item
+  Time, space irrelevant, but TECHNOLOGY makes it easier
+\item
+  Colonialism, a synonym of imperialism?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    NO!
+  \item
+    Similarities
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Both were forms of conquest
+    \item
+      Both involve mostly European settlers
+    \end{itemize}
+  \item
+    Differences
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Colonialism =\textgreater{} Europeans take over + Bring their
+      families
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Europeans go there
+      \item
+        They integrate into and change the society
+      \end{itemize}
+    \item
+      Imperialism =\textgreater{} Europeans take over + Assimilate then
+      leave
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Europeans go there
+      \item
+        They setup their rule, and, (potentially) through local
+        councils, exercise power
+      \end{itemize}
+    \item
+      Rapid Imperialism brings forth ``Empires'', but the U.S., a large
+      colonist, is a ``Republic'', for they bring the colonies under
+      their own care and bring their people there
+    \end{itemize}
+  \item
+    Usually, Colonialism is a Consequence of Imperialism, as in\ldots{}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      People go there and establish their rule (``Imperialists'')
+    \item
+      When society is somewhat assimilated, bring their own people
+      (``Colonists'')
+    \item
+      Profit!
+    \end{itemize}
+  \item
+    i p.p1 \{margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px `Times New
+    Roman'; color: \#000000\} span.s1 \{font: 15.0px `Times New Roman'\}
+    span.s2 \{font: 12.0px `Times New Roman'\} span.s3 \{font: 16.0px
+    `Times New Roman'\} span.s4 \{font: 13.0px `Times New Roman'\}
+    span.s5 \{font: 17.0px `Times New Roman'\}
+  \end{itemize}
+\end{itemize}
+
+\begin{quote}
+Neither imperialism nor colonialism is a simple act of accumulation and
+acquisition. Both are supported and perhaps even impelled by impressive
+ideological formations that include notions that certain territories and
+people \emph{require} and beseech domination, as well as forms of
+knowledge affiliated with domination: the vocabulary of classic
+nineteenth-century imperial culture is plentiful with words and concepts
+like ``inferior'' or ``subject races,'' ``subordinate peoples,''
+``dependency,'' ``expansion,'' and ``authority.''
+\end{quote}
 
 \end{document}

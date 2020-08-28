@@ -53,8 +53,6 @@ Printing only allowed for scholarly activities,
 
 Problems with the Ottoman Turks (more specifically, their *massive* army) 
 
-Took over a bunch of stuff, had  super strong navy, yatta yatta, 
-
 
 
 

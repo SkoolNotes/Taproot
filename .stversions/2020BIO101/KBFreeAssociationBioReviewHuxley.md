@@ -8,7 +8,7 @@ source: KB20200823182634
 
 ---
 
-Others: [[KBe2020bio101]] - Exr0n 
+Others: [[KBe2020bio101retFreeAssociation]] - Exr0n 
 
 
 Free associate: atoms, 2nd law of thermodynamics, energy, electronegativity, polarity, types of chemical bonds, lipid(s), carbohydrate(s), protein(s), amino acid(s), fold, enzyme.  
