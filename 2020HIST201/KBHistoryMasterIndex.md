@@ -9,12 +9,14 @@ source: #index
 
 # The History Index
 
+* [[GHMW Unit 1.pdf]] Readings 
 * [[KBhHIST201GHIntro]] Global History, Intro. Non-Sushu people will not find this helpful
 * The Homogenoscene
     * [[KBhHIST201HomogenosceneLN]] The Homogenocene Jack
     * [[KBhHIST201HomogenosceneRedux]] The Homogenocene R0n
 * [[KB20200824141300]] Day One
 * [[KB20200825121700]] Watson 
+* [[KBKennedyNotes]] 
 
 
 

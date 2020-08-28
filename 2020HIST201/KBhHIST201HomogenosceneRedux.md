@@ -10,5 +10,5 @@ Note: this page didn't exist, so I'm creating it with what I assume was the cont
 - **Problems with Silver**[[KBhHIST201ProblemsWithSilver]]
 - **The Little Ice Age**[[KBhHIST201LittleIceAge]]
 
-Exr0n's Annotations: [[KB20200826092100]]
+Exr0n's Annotations: [[KBe2020hist201refClassResources]]
 
