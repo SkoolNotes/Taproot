@@ -56,7 +56,11 @@ Problems with the Ottoman Turks (more specifically, their *massive* army)
 Took over a bunch of stuff, had  super strong navy, yatta yatta, 
 
 
+> Without clear directives from above, the arteries of the bureaucracy hardened, preferring conservatism to change, and stifling innovation. 
 
+> The printing press was forbidden because it might disseminate dangerous opinions. 
+
+#### Two Outsiders -- Japan and Russia
 
 
 
