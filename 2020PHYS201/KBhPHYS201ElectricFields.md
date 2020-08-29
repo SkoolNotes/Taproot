@@ -69,4 +69,4 @@ So, the conductor has a net electric field of 0. It's static.
 
 Because of the fact that the neutral conductor had both 1) and 2) going on, there is no tangent changes to the conductor (**think!** rule 2 aforementioned), and only field lines that are perpendicular (emitted by the red, positive charge), will be passed out. 
 
-Annotated document: ![[SRC20200825222500.pdf]]
+Annotated document: ![[SRCelectrostaticsPacket1annotatedExr0n.pdf]]

@@ -319,7 +319,6 @@ code,
     font-weight: 700 !important;
     font-size: 26px;
     font-weight: normal;
-    /*color: var(--text-normal);*/
     color: #BE6259;
 }
 
@@ -328,7 +327,7 @@ code,
     font-weight: 500;
     font-size: 22px;
     font-weight: bold;
-    color: var(--text-normal);
+    color: #BE6259;
 }
 
 .markdown-preview-view h4 {
@@ -336,7 +335,7 @@ code,
     font-weight: 500;
     font-size: 20px;
     font-weight: bold;
-    color: var(--text-normal);
+    color: #9bb3eb;
 }
 
 .markdown-preview-view h5 {
@@ -344,7 +343,7 @@ code,
     font-weight: 500;
     font-size: 18px;
     font-weight: bold;
-    color: var(--text-normal);
+    color: #BE6259;
 }
 
 .markdown-preview-view h6 {
@@ -352,7 +351,7 @@ code,
     font-weight: 500;
     font-size: 16px;
     font-weight: bold;
-    color: var(--text-normal);
+    color: #BE6259;
 }
 
 /*************************************************/

@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -120,7 +121,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
