@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 2020eng201 }
-\newcommand{\thelesson}{ English Master Index }
+\newcommand{\thecourse}{ ENG201 }
+\newcommand{\thelesson}{ Baobab Notes }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -121,7 +121,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu, Exr0n \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -165,125 +165,17 @@
 {}
 {\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
 
-\#source
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Topics for English 10}
-  {[}{[}KBe2020eng201refEnglishTopics{]}{]}
-\item
-  \textbf{Cololianlism, imperialsim, globalization Think-Pair-Share}
-  {[}{[}KBe-2020eng201floD1Breakout{]}{]}
-\item
-  \textbf{Alexa, Day 1}
+\#flo
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Jack's take: {[}{[}KBhENG201AlexaD1{]}{]}
-  \item
-    Zach's take: {[}{[}KBDayoneEnglishZachary{]}{]}
-  \item
-    Huxley's take: {[}{[}KBEngDayOne{]}{]}
-  \end{itemize}
-\item
-  Short Stories
+readings: {[}{[}KBFall2020English10Short StoriesPacket.pdf{]}{]}
+annotated: {[}{[}KBe2020eng201floBirdDreamingBaobab0.pdf{]}{]}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Readings: {[}{[}KBFall2020English10Short StoriesPacket.pdf{]}{]}
-  \item
-    \textbf{The I Is Never Alone}
+\begin{verbatim}
+\end{verbatim}
 
-    \begin{itemize}
-    \tightlist
-    \item
-      Albert:
-
-      \begin{itemize}
-      \tightlist
-      \item
-        {[}{[}KB2NotesonTheIIsNeverAlone{]}{]} The I is Never Along,
-        notes
-      \item
-        {[}{[}KBe2020eng201floImperalismNotes{]}{]} The I Is Never Alone
-        + Imperialism
-      \end{itemize}
-    \item
-      Jack:
-
-      \begin{itemize}
-      \tightlist
-      \item
-        {[}{[}KBhENG201TheIIsNeverAlone{]}{]} The I is Never Alone,
-        Jack's Thoughts
-      \end{itemize}
-    \item
-      Zach
-    \item
-      Hux:
-
-      \begin{itemize}
-      \tightlist
-      \item
-        {[}{[}KBTheIIsNeverAloneEnglishReadingNotes{]}{]}
-      \end{itemize}
-    \end{itemize}
-  \item
-    \textbf{Baobab + Colonialism}
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Huxley: {[}{[}KBColonialismShortStory{]}{]}
-    \item
-      Huxley: {[}{[}KBBaobabNotes{]}{]}
-    \end{itemize}
-  \end{itemize}
-\item
-  \textbf{Close Reading + Assessment 1}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    {[}{[}KBhENG201CloseReading{]}{]}
-  \item
-    {[}{[}KBWhatIsCloseReading{]}{]}
-  \end{itemize}
-\item
-  Thoughts on Imperialism and Colonialism
-
-  \begin{itemize}
-  \tightlist
-  \item
-    {[}{[}KBhENG201ImperialismColonialism{]}{]}
-  \end{itemize}
-\end{itemize}
-
-\hypertarget{annotated-docs}{%
-\subsection{Annotated Docs}\label{annotated-docs}}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\endhead
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Notes on \texttt{The\ I\ Is\ Never\ Alone}\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KB2NotesonTheIIsNeverAlone{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-\emph{The I Is Never Alone} + imperialism notes\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe2020eng201floImperalismNotes{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-\emph{The Bird-Dreaming Baobab} pass 0\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe2020eng201floBirdDreamingBaobab0.pdf{]}{]}\strut
-\end{minipage}\tabularnewline
-\bottomrule
-\end{longtable}
+\hypertarget{baobab}{%
+\section{\texorpdfstring{\[Baobab\]}{Baobab}}\label{baobab}}
 
 \end{document}

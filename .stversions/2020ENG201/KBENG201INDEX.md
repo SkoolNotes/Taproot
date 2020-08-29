@@ -22,7 +22,9 @@ source: #index
     * Zach
     * Hux
 * **Close Reading + Assessment 1** [[KBhENG201CloseReading]]
-
+  [[KBWhatIsCloseReading]]
+* Thoughts on Imperialism and Colonialism [[KBhENG201ImperialismColonialism]]  
+  
 ## Annotated Docs
 | | |
 |-|-|

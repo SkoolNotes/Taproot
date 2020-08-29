@@ -77,10 +77,12 @@ But I think therefore I am and whatnot rendered that definition useless.
 Given that we cannot know whether or perception is true or not, it means that any useful definition of knowledge must ignore truth. 
 
 
-Remembrance of perception is knowledge. 
+```Record of perception is knowledge.```
+
+Record being memory, or some other form of storage (writing, bits, ect.)
 
 
-
+Soc disproves D2 by saying that perception is bodily, and therefore knowledge is bodily. This would make abstractions such as math fall apart. 
 
 
 
