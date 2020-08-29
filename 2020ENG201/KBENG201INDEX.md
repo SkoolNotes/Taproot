@@ -30,6 +30,7 @@ source: #index
 * **Close Reading + Assessment 1** 
 	* [[KBhENG201CloseReading]]
 	* [[KBWhatIsCloseReading]]
+	* [[KBhENG201CloseReadingAss1]]
 * Thoughts on Imperialism and Colonialism 
 	* [[KBhENG201ImperialismColonialism]]
   

@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -105,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 2020math401 }
-\newcommand{\thelesson}{ Calculus Index with Nas }
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -120,7 +121,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -160,22 +161,10 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{KB202008250910}{} }
+\ifthenelse{ \equal{}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KB202008250910}{\tiny\textulf{[[}\textbf{KB202008250910}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
 
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\endhead
-Concepts and Notation &
-{[}{[}KBe-2020math401-ref-calc\_concepts\_and\_notation{]}{]}\tabularnewline
-Introduction &
-{[}{[}KBe-2020math401-flo-calc\_intro{]}{]}\tabularnewline
-Assignments &
-{[}{[}KBe-2020math401-ref-exr0n\_ret\_index{]}{]}\tabularnewline
-\bottomrule
-\end{longtable}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+{[}{[}KBe2020math401refExr0nRetIndex{]}{]}
 
 \end{document}
