@@ -29,7 +29,7 @@ legacy-name: KB20200825134500
 | Reals           | Yes*           | Yes         |
 | Complex Numbers | Yes*           | Yes         |
 
-\*Zero doesn't have an inverse, so it usually gets dropped. For example,  say $$
+\*Zero doesn't have an inverse, so it usually gets dropped. For example, Q* is Q w/o zero #todo-exr0n: rewrite in latex say $$
 
 - ![[SRC20200825135700.png]]
 $$

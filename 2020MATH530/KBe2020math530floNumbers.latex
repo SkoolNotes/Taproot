@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -327,7 +328,7 @@
     \end{itemize}
   \item
     That's all we need to get to a group:
-    {[}{[}KBe2020math530floGroups{]}{]}
+    {[}{[}KBe2020math530refGroups{]}{]}
   \end{itemize}
 \end{itemize}
 

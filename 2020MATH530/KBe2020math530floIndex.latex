@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 2020math530 }
-\newcommand{\thelesson}{ Exr0n's Homework }
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{ Flo Index }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -165,16 +165,7 @@
 {}
 {\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
 
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Due Date & Link\tabularnewline
-\midrule
-\endhead
-2020-08-27 &
-{[}{[}KBe2020math530retPracticeMultiplyMatrixIdentfyGroups{]}{]}\tabularnewline
-2020-09-01 & {[}{[}retSolvingWithMatrices{]}{]}\tabularnewline
-\bottomrule
-\end{longtable}
+{[}{[}KBe2020math530flo1{]}{]} {[}{[}KBe2020math530flo2{]}{]}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

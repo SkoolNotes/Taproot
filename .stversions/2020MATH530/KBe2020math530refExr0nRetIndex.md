@@ -8,6 +8,5 @@ source: #index
 | Due Date | Link |
 |----------|------|
 2020-08-27 | [[KBe2020math530retPracticeMultiplyMatrixIdentfyGroups]]
-2020-09-01 | [[retSolvingWithMatrices]]
 
 ---

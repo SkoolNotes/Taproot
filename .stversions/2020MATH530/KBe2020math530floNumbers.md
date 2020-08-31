@@ -49,6 +49,6 @@ legacy-name: KB20200825132400
 				- Undo each other, undo a $+5$
 				- Inverse
 					- $-a$ and $a$ are additive _inverses_
-	- That's all we need to get to a group: [[KBe2020math530refGroups]]
+	- That's all we need to get to a group: [[KBe2020math530floGroups]]
 
 ---

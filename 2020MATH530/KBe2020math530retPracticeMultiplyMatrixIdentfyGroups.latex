@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -248,7 +249,7 @@ Which of the number systems we discussed today form a group under
 addition? Under multiplication?
 \end{quote}
 
-Source: {[}{[}KBe2020math530floGroups{]}{]}
+Source: {[}{[}KBe2020math530refGroups{]}{]}
 
 \begin{longtable}[]{@{}lcc@{}}
 \toprule

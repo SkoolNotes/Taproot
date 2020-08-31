@@ -107,7 +107,7 @@
 
 
 \newcommand{\thecourse}{ 2020math530 }
-\newcommand{\thelesson}{ Exr0n's Homework }
+\newcommand{\thelesson}{ Groups }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -161,20 +161,92 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{}{} }
+\ifthenelse{ \equal{KBe2020math530index}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBe2020math530index}{\tiny\textulf{[[}\textbf{KBe2020math530index}\textulf{]]}}}
 
-\begin{longtable}[]{@{}ll@{}}
+\hypertarget{groups}{%
+\section{Groups}\label{groups}}
+
+\begin{itemize}
+\tightlist
+\item
+  definition
+
+  \begin{itemize}
+  \tightlist
+  \item
+    closed
+
+    \begin{itemize}
+    \tightlist
+    \item
+      if \(a, b \in S\) then \(a + b \in S\)
+    \end{itemize}
+  \item
+    has an identity \(e\)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \(e + a = a + e = a\)
+    \end{itemize}
+  \item
+    each element has an inverse
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \(-a + a = a + -a = e\)
+    \end{itemize}
+  \item
+    needs to be associative
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \((a + b) + c\) = \(a + (b + c)\)
+    \end{itemize}
+  \end{itemize}
+\item
+  communitivity is nice but not required
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \(a + b\) = \(b + a\)
+  \end{itemize}
+\item
+  Which number systems are groups under addition and multiplication?
+\end{itemize}
+
+\begin{longtable}[]{@{}lcc@{}}
 \toprule
-Due Date & Link\tabularnewline
+Number System & Multiplication & Addition\tabularnewline
 \midrule
 \endhead
-2020-08-27 &
-{[}{[}KBe2020math530retPracticeMultiplyMatrixIdentfyGroups{]}{]}\tabularnewline
-2020-09-01 & {[}{[}retSolvingWithMatrices{]}{]}\tabularnewline
+Natural Numbers & No inverse & No identity\tabularnewline
+Whole Numbers & No inverse & No inverse\tabularnewline
+Integers & No inverse & Yes\tabularnewline
+Rationals & Yes* & Yes\tabularnewline
+Reals & Yes* & Yes\tabularnewline
+Complex Numbers & Yes* & Yes\tabularnewline
 \bottomrule
 \end{longtable}
+
+*Zero doesn't have an inverse, so it usually gets dropped. For example,
+Q* is Q w/o zero \#todo-exr0n: rewrite in latex say \$\$
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}SRC20200825135700.png{]}{]} \[
+  \begin{bmatrix}
+  8 &2 \\
+  -2 &0
+  \end{bmatrix}
+  \]
+\end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
