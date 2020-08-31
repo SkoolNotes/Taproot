@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -173,5 +174,6 @@
 
 {[}{[}KBML\_Day\_One{]}{]} Day one
 {[}{[}KBTypes\_of\_Machine\_Learning{]}{]} Types of ML
+{[}{[}KBLinierRegression{]}{]}
 
 \end{document}

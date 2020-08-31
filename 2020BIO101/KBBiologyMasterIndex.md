@@ -13,4 +13,4 @@ source: #index
 * [[KBhBIO101LetsDoBio]] Biology, day 1
 * [[KBhBIO101WhatsBio]] What... is... biology?
 * [[KBFreeAssociationBioReviewHuxley]] Free Associate 
-* [[KB20200826090938]] Emergent Properties 
+* [[KB20200826090938]] Emergent Properties i

@@ -1,5 +1,5 @@
 ---
-title:  
+title: Missing Title Still
 course: 
 author: Huxley Marvit
 source: #index
