@@ -165,6 +165,8 @@
 {}
 {\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhPHYS201IntroToElectrostaticsLN}{\tiny\textulf{[[}\textbf{KBhPHYS201IntroToElectrostaticsLN}\textulf{]]}}}
 
+\#disorganized
+
 \hypertarget{electric-fields}{%
 \section{Electric Fields}\label{electric-fields}}
 
@@ -178,6 +180,10 @@ Force of Gravity, \(F_{grav} = G\frac{M_2M_2}{R^2}\).
 And so, by the some token, we could also redefined electric force as:
 
 \definition[where $E$ is $Q_2$'s electric field]{Electric Force}{$F_{attraction} = E Q_1$}
+
+where, the electric field is defined as
+
+\definition{Electric Field}{$E = \frac{k \times Q_2}{R^2}$}
 
 Unsurprisingly, the units for \emph{Electric Field} is \(\frac{N}{C}\),
 and no, before you get excited, there is nothing it equals.
@@ -241,44 +247,13 @@ Interactions.
 \subsection{Conductors and Electric
 field}\label{conductors-and-electric-field}}
 
-If the charges on a conductor are stationary\ldots{}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi})}
-\tightlist
-\item
-  E-field \emph{in} the conducting material must be zero
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Because, uhh\ldots., the conductor is stationary, meaning no
-    electron flow
-  \item
-    So, without electric flow, you know that there is no motivation for
-    electrons to flow, which means no electric field
-  \end{itemize}
-\item
-  At the surface of the conductor, if any E-field is present, it must be
-  perpendicular to the surface
-
-  \begin{itemize}
-  \tightlist
-  \item
-    If you have a horizontal component, the conductor would be, well,
-    \emph{conducing} electricity, making it rather not static
-  \item
-    If the E-Field is perpendicular, because we are in the Physics
-    Vacuum, no charges will flow because it can't flow out of the
-    conductor into something else
-  \end{itemize}
-\end{enumerate}
+See {[}{[}KBhPHYS201ConductorsEquilibrium{]}{]}
 
 \hypertarget{an-now-something-interesting}{%
 \subsubsection{An now, something
 interesting}\label{an-now-something-interesting}}
 
-Take, a neutral conductor.!
+Take, a neutral conductor.
 
 \begin{figure}
 \centering

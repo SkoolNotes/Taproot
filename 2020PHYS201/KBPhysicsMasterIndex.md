@@ -11,4 +11,5 @@ source: #index
 * [[KBRemoteRollingBall]]
 * [[KBVectorIntro]]
 - [[physQuestions]]
- 
+ * PHET Simulation w/ Eletric Field
+     * Jack [[KBhPHYS201PHETElectricFields]]

@@ -5,6 +5,8 @@ course: PHYS201
 source: KBhPHYS201IntroToElectrostaticsLN
 ---
 
+#disorganized
+
 # Electric Fields
 
 You will notice that the _Electric Field_ works very similarly to the _Gravitational Field_ [[KBhPHYS201GravitationalFields]]
@@ -14,6 +16,10 @@ To recall, Coulomb's Law [[KBhPHYS201ColoumbsLaw]] looks like $F_{attraction} = 
 And so, by the some token, we could also redefined electric force as:
 
 \definition[where $E$ is $Q_2$'s electric field]{Electric Force}{$F_{attraction} = E Q_1$}
+
+where, the electric field is defined as
+
+\definition{Electric Field}{$E = \frac{k \times Q_2}{R^2}$}
 
 Unsurprisingly, the units for *Electric Field* is $\frac{N}{C}$, and no, before you get excited, there is nothing it equals.
 
@@ -45,17 +51,11 @@ See [[KBhPHYS201ElectricFieldInteractions]] Electric Field Interactions.
 
 ## Conductors and Electric field
 
-If the charges on a conductor are stationary…
+See [[KBhPHYS201ConductorsEquilibrium]]
 
-1) E-field _in_ the conducting material must be zero
-   * Because, uhh...., the conductor is stationary, meaning no electron flow
-   * So, without electric flow, you know that there is no motivation for electrons to flow, which means no electric field
-2) At the surface of the conductor, if any E-field is present, it must be perpendicular to the surface
-    * If you have a horizontal component, the conductor would be, well, _conducing_ electricity, making it rather not static
-    * If the E-Field is perpendicular, because we are in the Physics Vacuum, no charges will flow because it can't flow out of the conductor into something else
     
 ### An now, something interesting
-Take, a neutral conductor.!
+Take, a neutral conductor.
 
 
 ![Screen Shot 2020-08-24 at 9.44.46 PM.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/Screen Shot 2020-08-24 at 9.44.46 PM.png)
