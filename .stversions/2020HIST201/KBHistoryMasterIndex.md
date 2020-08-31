@@ -16,7 +16,11 @@ source: #index
     * [[KBhHIST201HomogenosceneRedux]] The Homogenocene R0n
 * [[KB20200824141300]] Day One
 * [[KB20200825121700]] Watson 
-* [[KBKennedyCh1]] 
+* Kennedy, Chapter 1
+    * Huxley — [[KBKennedyNotes]] 
+    * Jack — [[KBhHIST201KennedyCh1]] 
+	* Alb - [[KBe20hist201floKennedyCH1pt1]] and [[retExr0nKennedyCh1Pt2]]
+	
 
 
 

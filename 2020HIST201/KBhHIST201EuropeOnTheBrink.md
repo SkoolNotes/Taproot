@@ -1,5 +1,5 @@
 ---
-title: Europe on the Brink of Transformation
+title: Europe in the 1500s
 course: HIST201
 author: Houjun Liu
 source: KBhHIST201KennedyCh1

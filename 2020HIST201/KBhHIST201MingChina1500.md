@@ -25,34 +25,10 @@ source: KBhHIST201KennedyCh1
 * Larger cities then medieval Europe
 
 ## Zheng He + Seafaring
-Famous official overseas official expedition
 
-* Seeked tribute and coordination from other nations
-* Forced others to acknowledge Beijing
-* Ships returned with great gifts/weird things
-    * Giraffs — as… entertainment
-    * A chief — for he did not acknowledge the emperor
-* Apparently never plundered/murdered + killed only on Emperor's orders
+See Zheng He + Seafaring [[KBhHIST201ZhengHeSeafaring]]
 
-### Decline in Seafaring
-* China never had a free market?? #why
-    * Banned overseas trade 
-* Order in 1433 from new emperor apparently banned these missions
+Also the link above details **some reasons why China closed its trade route**.
 
-### Why China stopped seafaring
-* Seafaring was costly, and did not help the Northern Mongol invasions (duh)
-* Japanese pirates did show up, but so did the Portuguese, but apparently they didn't care, so why?
-* The answer… CONFUCIANISM!
-    * China is a conservative, Confucian country
-        * Merchants are disliked
-        * So are private capital
-        * Armies are too!
-        * A side note about tech
-            * Confucianism actually does encourage tech
-            * Simply requires building for knowledge or state purposes, and not for armies/private property
-    * China attempted to emulate their "old ways", especially after the mongol clearing
-    
-## Germs + Steel
-* Intensive farming caused depletion of land => but pop. is growing
-* Per Malthus, this results in **Plague! Floods! War!**
-
+## China's Woes
+See [[KBhHIST201ChinaWoes1500]]China's Woes in the 1500s

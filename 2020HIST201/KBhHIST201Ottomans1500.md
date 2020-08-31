@@ -5,6 +5,8 @@ author: Houjun Liu
 source: KBhHIST201KennedyCh1
 ---
 
+#disorganized
+
 # The Ottomans
 
  When China was failing [[KBhHIST201MingChina1500]], the Ottomans grow w/ Muslimdom — Ottomans were the largest muslim nation in Europe + a serious threat to Christendom.
@@ -44,7 +46,6 @@ source: KBhHIST201KennedyCh1
 ## The Ottoman's Downfall
 * "Natural consequences of earlier Turkish successes"
 * Got Romanitus — expanded too much to the point of unmanagability => "Strategical Overextension"
-* Ottoman imperialism did not bring in the dough
 * Switched to an "Iron Fist" management style of crushing dissidents, encouraging the Persians to ally with the Europeans to crush the Ottomans
 * Suffered from being centralized, despotic, and severly orthodox
     * Emperor had to much power

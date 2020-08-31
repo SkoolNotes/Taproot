@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -212,7 +213,7 @@ capitals}\label{original-pre-globalized-capitals}}
   \begin{itemize}
   \tightlist
   \item
-    Beijing\\
+    Beijing
   \item
     Viayanagar (Hindu capital) -- Cairo
   \end{itemize}

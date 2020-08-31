@@ -22,7 +22,7 @@ See [[KBhHIST201LittleIceAge]] The Little Ice Age
 ## Capital Movement  
 ### Original, pre-globalized capitals
 * All located within the tropics
-    * Beijing  
+    * Beijing
     * Viayanagar (Hindu capital) – Cairo
 * Decidedly not western  
 * Decidedly hot (maybe, but Beijing was definitely not hot #why)

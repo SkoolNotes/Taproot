@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -160,9 +161,9 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{00-Topic-KB20200823163139}{} }
+\ifthenelse{ \equal{KBHistoryMasterIndex}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=00-Topic-KB20200823163139}{\tiny\textulf{[[}\textbf{00-Topic-KB20200823163139}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
