@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ SPAN301 }
+\newcommand{\thelesson}{ El Preterito }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -161,24 +161,39 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{}{} }
+\ifthenelse{ \equal{KB20200824124831}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KB20200824124831}{\tiny\textulf{[[}\textbf{KB20200824124831}\textulf{]]}}}
 
-{[}{[}KBe2020math401refExr0nRetIndex{]}{]}
+\hypertarget{preterito}{%
+\section{Preterito}\label{preterito}}
 
-\hypertarget{questions}{%
-\subsection{Questions}\label{questions}}
+\hypertarget{preterito-simple}{%
+\subsection{Preterito Simple}\label{preterito-simple}}
 
-{[}{[}eRefCalcQuestions{]}{]}
-
-\hypertarget{flows}{%
-\subsection{Flows}\label{flows}}
+\textbf{Estornudar} Sneeze
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
+S & P\tabularnewline
+\midrule
 \endhead
-2020-09-1 & {[}{[}eFloCalcD3{]}{]}\tabularnewline
+Estornude & Estornudamos\tabularnewline
+Estornudaste &\tabularnewline
+Estornudó & Estornudaron\tabularnewline
+\bottomrule
+\end{longtable}
+
+\textbf{Torser} Cough
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+S & P\tabularnewline
+\midrule
+\endhead
+Torsí & Torsiamos\tabularnewline
+Torsiste &\tabularnewline
+Torsió &\tabularnewline
 \bottomrule
 \end{longtable}
 
