@@ -205,6 +205,34 @@ charge would feel if it were placed there. What does ``electric
 potential'' or ``voltage'' appear to represent? The units mentioned in
 \#1 may be of interest as you consider this question.
 
-Volts is a unit for Jouls / meter
+Volts is a unit for Jouls / coulumb
+
+\hypertarget{question-5}{%
+\section{Question 5}\label{question-5}}
+
+Does electric potential~appear to be a scalar or a vector?
+
+A scalar, it seems. This makes sense given that energy is a scalar.
+
+\hypertarget{question-6}{%
+\section{Question 6}\label{question-6}}
+
+What or where is the zero-point for~electric potential?
+
+When a position and negative charge is present, it seems like the point
+between the two would have an electric potential of 0 volts.
+
+\hypertarget{question-7}{%
+\section{Question 7}\label{question-7}}
+
+What is the relationship between the local E-field vector and a~line of
+constant~electric potential? (You can explore this first by moving the
+voltage sensor drag the little box, not the crosshairs and observing the
+voltage values, then by plotting lines of constant potential).
+
+It seems like the local e-field vector and the line of constant electric
+potential are always perpendicular to each other. That is, the vector of
+the charge does not have a component tangent to the constant field line
+when the test charge is dropped on it.
 
 \end{document}
