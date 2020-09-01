@@ -63,21 +63,60 @@ Took over a bunch of stuff, had  super strong navy, yatta yatta,
 #### Two Outsiders -- Japan and Russia
 
 
+```
+```
+## $$Deleted\ stuff\ was\ here...$$ 
+```
+```
 
 
 
+#### Gunpowder Revolution 
+Free market led to better weapons and armor 
+Experimentation from this led to gunpowder
+
+Europe improved greatly on the design on the canon, and later countries copied it. 
 
 
+China and Japan didn't produce canons until late because they 
+> clung to their traditional fighting style. 
+
+Heavy fortified bases which allow for retreat means that winning battles doesn't "stick" as well
+
+##### Sea
+
+People armed with crossbows on the edges of the ship got replace with canons. 
+
+Weight and recoil of cannons made three-masted sailing vessel's superior
+
+^ less maneuverable
+
+China left maritime trade. 
+
+Culture of Europe led to many more sailors / explorers.
+led to a massive increase in resources:
+-	Fish for food
+-	Seal / whale oil 
+-	Sugar
+-	indigo
+-	tobacco,
+-	rice,
+-	furs, 
+-	timber,
+-	potato,
+-	maize,
+-	ect.
+
+> Beginnings of a modern world system.
+
+``` ```II``` ``` 
+
+> The inquiring, rationalist mind was observing more, and experimenting more
 
 
+This *'explosion of knowledge'* was what ultimately led to Europe's rise to the top. 
 
-
-
-
-
-
-
-
+> ##### This lack of economic and political rigidity would imply a similar lack of cultural and ideological orthodoxy is, a freedom to inquire to dispute, to experiment, a belief in the possibilities to improvement, a concern for the practical rather then the abstract, a rationalism which defied mandarin codes, religious dogma, and traditional folklore. 
 
 
 

@@ -311,7 +311,7 @@ code,
     font-size: 32px;
     font-weight: normal;
     /*color: var(--purple-pale);*/
-    color: #BE6259;
+    color: #fadcac;
 }
 
 .markdown-preview-view h2 {
@@ -319,7 +319,7 @@ code,
     font-weight: 700 !important;
     font-size: 26px;
     font-weight: normal;
-    color: #BE6259;
+    color: #056676;
 }
 
 .markdown-preview-view h3 {
@@ -327,7 +327,8 @@ code,
     font-weight: 500;
     font-size: 22px;
     font-weight: bold;
-    color: #BE6259;
+    /*color: #197163;*/
+    color: #776d8a;
 }
 
 .markdown-preview-view h4 {
@@ -335,7 +336,7 @@ code,
     font-weight: 500;
     font-size: 20px;
     font-weight: bold;
-    color: #9bb3eb;
+    color: #158467;
 }
 
 .markdown-preview-view h5 {
@@ -343,7 +344,7 @@ code,
     font-weight: 500;
     font-size: 18px;
     font-weight: bold;
-    color: #BE6259;
+    color: #5eaaa8;
 }
 
 .markdown-preview-view h6 {
@@ -351,7 +352,7 @@ code,
     font-weight: 500;
     font-size: 16px;
     font-weight: bold;
-    color: #BE6259;
+    color: #a3d2ca;
 }
 
 /*************************************************/

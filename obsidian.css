@@ -11,7 +11,7 @@
     --text-title-h3: var(--purple-pale);
     --text-title-h4: var(--purple-pale);
     --text-title-h5: var(--purple-pale);
-    --text-title-h6: var(--purple-pale);
+    --text-title-h6: #A00E3C;
     --text-link: #3fce4a;
     --text-a: #3fce4a;
     --text-a-hover: rgba(63, 206, 74, 0.6);
@@ -165,6 +165,7 @@ pre code {
 code,
 .cm-inline-code {
     background-color: var(--pre-code) !important;
+    /*color: red !important;*/ 
     color: #bd93f9 !important;
     bottom: 0px !important;
     font-size: 0.85em !important;
@@ -352,7 +353,7 @@ code,
     font-weight: 500;
     font-size: 16px;
     font-weight: bold;
-    color: #a3d2ca;
+    color: var(--text-title-h6);
 }
 
 /*************************************************/
