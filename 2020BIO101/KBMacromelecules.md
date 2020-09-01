@@ -7,6 +7,8 @@ source: #index
 
 ### Macro-molecules 
 
+Exr0n: [[KBe2020bio101refMacromolecules]]
+
 - Lipids
 	- [[KBe2020bio101refLipids]]
 - Carbohydrates
@@ -15,32 +17,8 @@ source: #index
 	- RNA / DNA 
 - Proteins
 	- [[KBe20bio101refProteinsIndex]]
-
+- Amino Acid
+	- [[KBe20bio101refAminoAcids]]
 
 Super important: [[KBNitrogen|Nitrogen.]] 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -1,12 +1,13 @@
 ---
-title:  
+title: Missing Title Still
 course: 
 author: Huxley Marvit
 source: #index
 ---
 
+
 - Dehydration reaction
 	- Squeezing water out
-	![[Pasted image.png]]
+	![[KBe2020bio101srcDehydrationDiagram.png]]
 
 ---

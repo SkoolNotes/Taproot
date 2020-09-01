@@ -15,9 +15,10 @@ source: #index
 	- RNA / DNA 
 - Proteins
 	- [[KBe20bio101refProteinsIndex]]
+- Amino Acid
+	- [[KBe20bio101refAminoAcids]]
 
-
-Super important: [[KBNitrogen|Nitrogen.]] Nitrogen. 
+Super important: [[KBNitrogen|Nitrogen.]] 
 
 
 

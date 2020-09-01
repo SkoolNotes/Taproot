@@ -106,7 +106,7 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
+\newcommand{\thecourse}{ 20bio201 }
 \newcommand{\thelesson}{ Proteins! }
 
 \title{\textbf{\thecourse}\thelesson}
@@ -161,9 +161,9 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{}{} }
+\ifthenelse{ \equal{KBMacromelecules}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBMacromelecules}{\tiny\textulf{[[}\textbf{KBMacromelecules}\textulf{]]}}}
 
 \begin{itemize}
 \tightlist
@@ -181,6 +181,36 @@
     \tightlist
     \item
       because it has all the amino acids
+    \end{itemize}
+  \end{itemize}
+\item
+  Active site
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How \{R groups and cofactors (like metal elemetns (like magnesium)),
+    polarity / electroneg difference\} facilatate new bond formation
+
+    \begin{itemize}
+    \tightlist
+    \item
+      DNA Polymerase's active site:
+      {[}{[}bioSRCdnaPolymeraseAciveSite.png{]}{]}
+
+      \begin{itemize}
+      \tightlist
+      \item
+        R groups (Asp) have the negative charges that create weak (pink)
+        bonds with magnesium which holds the DNA monomer
+
+        \begin{itemize}
+        \tightlist
+        \item
+          DNA monomer comes with a triple phosphate attached (brings its
+          own energy)
+        \end{itemize}
+      \end{itemize}
     \end{itemize}
   \end{itemize}
 \end{itemize}

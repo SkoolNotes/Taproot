@@ -74,9 +74,10 @@ $$
    
 See [[KBe2020math530refGroups]]
 I'll assume that our matrices have real numbers in them.
+
 | Operation \ Property | Closed | Identity | Inverse | Associative? | Final |
 |----------------------|--------|----------|---------|--------------|-------|
-| Addition             | Yes    | $e=\left[\begin{matrix}0&0\\0&0\end{matrix}\right]$ | $\left[\begin{matrix}a&b\\c&d\end{matrix}\right] + \left[\begin{matrix}-a&-b\\-c&-d\end{matrix}\right]=e$| Presumably | Yes |
+| Addition             | Yes    | $e=\left[\begin{matrix}0&0\\0&0\end{matrix}\right]$ | $\left[\begin{matrix}a&b\\c&d\end{matrix}\right] + \left[\begin{matrix}-a&-b\\-c&-d\end{matrix}\right]=e$| "Inherits from addition" | Yes |
 | Multiplication       | Yes    | $e=\left[\begin{matrix}1&0\\0&1\end{matrix}\right]$ | Maybe? | Yes, see below | Undecided |
 
 Associativity of 2x2 matrices under multiplication:

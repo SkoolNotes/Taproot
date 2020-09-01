@@ -20,6 +20,7 @@ source: KBISOSMasterIndex
         * Crazy people are not muses
     * Knowledge, in one case, could be contestable
     * Classification of things are often done as comparison
+    * Knowledge is correction judgemen
     
 > Then knowledge is to be found not in the experiences but in the process of reasoning about them; it is here, seemingly, not in the experiences, that it is possible to grasp being and truth.
 

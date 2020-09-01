@@ -106,7 +106,7 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
+\newcommand{\thecourse}{ 20bio201 }
 \newcommand{\thelesson}{ Macromolecules index }
 
 \title{\textbf{\thecourse}\thelesson}
@@ -180,7 +180,9 @@
 \item
   Peptide backbone has nitrogen.
 \item
-  {[}{[}KBe20bio101refProteinsIndex{]}{]} \#\# Nucleic Acids
+  {[}{[}KBe20bio101refProteinsIndex{]}{]}
+\item
+  {[}{[}KBe20bio101refAminoAcids{]}{]} \#\# Nucleic Acids
 \item
   {[}{[}KBe20bio101refDNA{]}{]} \#\# Hydrocarbons \#\# Lipids
 \item

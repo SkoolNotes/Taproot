@@ -8,6 +8,6 @@ source: #index
 - Uses lots of water
 - Greenhouse gasses
 	- Manure has lots of nitrogen
-	![[Pasted image.png]]
+	![[KBe20bio101srcGreenhouseGasses.png]]
 
 ---

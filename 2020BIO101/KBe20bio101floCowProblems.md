@@ -9,5 +9,6 @@ source: #index
 - Greenhouse gasses
 	- Manure has lots of nitrogen
 	![[KBe20bio101srcGreenhouseGasses.png]]
+- Energy conversion factor: 49x?
 
 ---

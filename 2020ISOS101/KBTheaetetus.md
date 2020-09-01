@@ -55,7 +55,8 @@ breaks.
 
 1. Knowledge is arts and sciences
 2. Knowledge is perception
-3. Knowledge is true opinion 
+3. Knowledge is true opinion (Judgment
+4. True judgment with an account 
 
 
 
@@ -97,7 +98,7 @@ What is funneled into record *through* sight and perception is knowledge, not th
 Perception is one thing, and knowledge is another. Perception is the avenue to knowledge. 
 
 
-# $Discussion\ point,\ begin.$$
+# $$Discussion\ point,\ begin.$$
 
 
 
