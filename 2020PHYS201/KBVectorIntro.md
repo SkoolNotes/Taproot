@@ -24,7 +24,7 @@ source: [[KBPhysicsMasterIndex]]
 
 
 calculate uncertainty: $u_v = \frac{maxv - minv}{x}$
-I was messing with late
+I was messing with latex, didn't catch it...
 
 
 

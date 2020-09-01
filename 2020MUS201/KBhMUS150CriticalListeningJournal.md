@@ -65,4 +65,33 @@ source: KBhMUS150D1
  - "Streetside-guitar" vibe
  - Not a large emphasis on percussion — percussion comes behind vocals  + constant "ping" of synth
  
- 
+# 09012020
+
+**St8 Otta Mumbai**
+
+- Synthesized Indian music style + mixing traditional Indian precussive instruments w/ electronic music techniques
+- Vocals textured and filtered heavily
+- Using vocals as instrumental + baseline
+- Sudden cuts + pauses — harsh transitions
+- Lots of variations
+
+**New Chapter**
+
+- Spontaneous, but programmatic drum beats
+- Background vocal-based sequences
+- Percussive + programming focused sound texture
+
+**Synth Grass**
+
+- Unique, distorted baseline punch
+- Lyrics as part of the music
+- Automated effects + filter + EQ on vocals
+
+**Plastic 100ºC**
+
+- Synth keys + echos
+- Very traditional keyboard techniques => no percussion!
+    - Simple melody but varied synth techniques
+    - Simple vocals =>
+- Heavy echos + flatter/natural vocals => simple melody too
+- Transition to synth as atmosphere

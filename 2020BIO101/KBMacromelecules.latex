@@ -107,7 +107,7 @@
 
 
 \newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Biology Master Index }
+\newcommand{\thelesson}{ Macromolecules }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -121,7 +121,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -165,34 +165,45 @@
 {}
 {\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
 
-\#source
+\hypertarget{macro-molecules}{%
+\subsubsection{Macro-molecules}\label{macro-molecules}}
 
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBhBIO101Watah{]}{]} Alright! Let's talk about Water.
+  Lipids
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBe2020bio101refLipids{]}{]}
+  \end{itemize}
 \item
-  {[}{[}00-Topic-KB202008251020{]}{]} Day one, but not broken
-\item
-  Exr0n's notes {[}{[}KB20200825142200{]}{]}
-\item
-  {[}{[}KBhBIO101LetsDoBio{]}{]} Biology, day 1
-\item
-  {[}{[}KBhBIO101WhatsBio{]}{]} What\ldots{} is\ldots{} biology?
-\item
-  {[}{[}KBFreeAssociationBioReviewHuxley{]}{]} Free Associate
-\item
-  {[}{[}KB20200826090938{]}{]} Emergent Properties i
-\item
-  60Symbols
+  Carbohydrates
 
   \begin{itemize}
   \tightlist
   \item
     {[}{[}KBhBIO101Carbs{]}{]}
   \end{itemize}
+\item
+  Nucleic acids
+
+  \begin{itemize}
+  \tightlist
+  \item
+    RNA / DNA
+  \end{itemize}
+\item
+  Proteins
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBe20bio101refProteinsIndex{]}{]}
+  \end{itemize}
 \end{itemize}
 
-{[}{[}KBMacromelecules{]}{]}
+Super important: {[}{[}KBNitrogen\textbar Nitrogen.{]}{]}
 
 \end{document}

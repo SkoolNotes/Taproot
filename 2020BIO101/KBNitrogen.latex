@@ -107,7 +107,7 @@
 
 
 \newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Biology Master Index }
+\newcommand{\thelesson}{ Nitrogen! }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -121,7 +121,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -165,34 +165,71 @@
 {}
 {\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
 
-\#source
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+In amino acids, RNA and DNA,
+
+Hard to get.
+
+\hypertarget{used-in}{%
+\paragraph{Used in:}\label{used-in}}
+
+\begin{itemize}
+\item
+  Heme
+\item
+  Nucleic Acid
+\item
+  Chlorophyll
+\item
+  Amino Acids
+\end{itemize}
+
+\hypertarget{nitrogen-fixing}{%
+\subsection{\texorpdfstring{\[Nitrogen\ Fixing\]}{Nitrogen\textbackslash{} Fixing}}\label{nitrogen-fixing}}
+
+Cannot use \(N_2\) \emph{(nonreactive nitrogen)} in the air. We need to
+somehow ``fix'' it.
+
+\hypertarget{half-from-bacteria-biological}{%
+\paragraph{Half from Bacteria \textbar{}
+Biological}\label{half-from-bacteria-biological}}
 
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBhBIO101Watah{]}{]} Alright! Let's talk about Water.
-\item
-  {[}{[}00-Topic-KB202008251020{]}{]} Day one, but not broken
-\item
-  Exr0n's notes {[}{[}KB20200825142200{]}{]}
-\item
-  {[}{[}KBhBIO101LetsDoBio{]}{]} Biology, day 1
-\item
-  {[}{[}KBhBIO101WhatsBio{]}{]} What\ldots{} is\ldots{} biology?
-\item
-  {[}{[}KBFreeAssociationBioReviewHuxley{]}{]} Free Associate
-\item
-  {[}{[}KB20200826090938{]}{]} Emergent Properties i
-\item
-  60Symbols
+  Diazotrophs
 
   \begin{itemize}
   \tightlist
   \item
-    {[}{[}KBhBIO101Carbs{]}{]}
+    Symbiotic bacteria in the soil
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Nitrogenase!
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 
-{[}{[}KBMacromelecules{]}{]}
+\hypertarget{half-from-industrial-nitrogen-fixation-industrial}{%
+\paragraph{Half from industrial nitrogen fixation \textbar{}
+Industrial}\label{half-from-industrial-nitrogen-fixation-industrial}}
+
+\begin{itemize}
+\tightlist
+\item
+  Haber-Bosch process
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Invented by the same guy who invented poison gas / chemical weapons
+  \item
+    Without it, we wouldn't be able to feed around a third of the
+    current population.
+  \end{itemize}
+\end{itemize}
 
 \end{document}

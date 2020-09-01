@@ -106,8 +106,9 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Bio Scientific writing guides and
+electronegativity }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -121,7 +122,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 

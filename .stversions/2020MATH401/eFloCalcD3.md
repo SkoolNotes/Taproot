@@ -24,7 +24,10 @@ source: KBe-2020math401-index
 1. Eq $\frac{x^3-1}{x-1} \Rightarrow \{x^2+x+1 : x \neq 1\}$
 ### Limits Practice
 1. $\lim_{x\to 10}2x+5 = 25$
-1. $\lim_{x\to -2} \frac{x^2-x-6}{x-2}$
-3. $\lim_{x\to 4} \frac{x-4}{\sqrt{x}-2}$
+2. $\lim_{x\to -2} \frac{x^2-x-6}{x-2} = -5$
+3. $\lim_{x\to 4} \frac{x-4}{\sqrt{x}-2} \Rightarrow *\frac{\sqrt{x}+2}{\sqrt{x}+2} \Rightarrow \sqrt{x}+2 = 4$ 
+4. Hacks. #todo
+5. Hacks. #todo
+6. $\lim_{x\to 2}\lfloor x \rfloor$
 
 ---
