@@ -107,7 +107,7 @@
 
 
 \newcommand{\thecourse}{ MATH401 }
-\newcommand{\thelesson}{ Computing Limits Algebraically }
+\newcommand{\thelesson}{ Limit Laws }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -161,42 +161,19 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{KBhMATH401Limits}{} }
+\ifthenelse{ \equal{KBMATH401ComputingLimits}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhMATH401Limits}{\tiny\textulf{[[}\textbf{KBhMATH401Limits}\textulf{]]}}}
-
-\hypertarget{computing-limits-algebraically}{%
-\section{Computing Limits
-Algebraically}\label{computing-limits-algebraically}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBMATH401ComputingLimits}{\tiny\textulf{[[}\textbf{KBMATH401ComputingLimits}\textulf{]]}}}
 
 \hypertarget{limit-laws}{%
-\subsection{Limit Laws}\label{limit-laws}}
+\section{Limit Laws}\label{limit-laws}}
 
-True statements that make your life better.
+Here 'em:
 
-{[}{[}KBhMATH401LimitLaws{]}{]}
-
-\hypertarget{solving-limits}{%
-\subsection{Solving Limits}\label{solving-limits}}
-
-There are many, many ways of solving limits! Here's a list of 'em.
-
-\hypertarget{via-eliminationfactorization}{%
-\subsubsection{Via
-Elimination/Factorization}\label{via-eliminationfactorization}}
-
-Are you dealing with a rational function with holes? Start here.
-
-See {[}{[}KBhMATH401LimitsEliminationMethod{]}{]}
-
-\hypertarget{via-thinking-good}{%
-\subsubsection{Via ``Thinking Good''}\label{via-thinking-good}}
-
-Are you dealing with a function that goes increases quickly or decreases
-dramatically? Start here.
-
-Missing Content
-
-\#disorganized
+\begin{figure}
+\centering
+\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020MATH401/Screen Shot 2020-09-02 at 1.55.13 PM.png}
+\caption{Screen Shot 2020-09-02 at 1.55.13 PM.png}
+\end{figure}
 
 \end{document}

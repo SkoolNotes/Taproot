@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ MATH401 }
-\newcommand{\thelesson}{ Computing Limits Algebraically }
+\newcommand{\thecourse}{ 20phys201 }
+\newcommand{\thelesson}{ Voltage }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -121,7 +121,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -161,42 +161,80 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{KBhMATH401Limits}{} }
+\ifthenelse{ \equal{KBhPHYS201ElectricFields}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhMATH401Limits}{\tiny\textulf{[[}\textbf{KBhMATH401Limits}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhPHYS201ElectricFields}{\tiny\textulf{[[}\textbf{KBhPHYS201ElectricFields}\textulf{]]}}}
 
-\hypertarget{computing-limits-algebraically}{%
-\section{Computing Limits
-Algebraically}\label{computing-limits-algebraically}}
+\#ref \#incomplete
 
-\hypertarget{limit-laws}{%
-\subsection{Limit Laws}\label{limit-laws}}
+\hypertarget{voltage}{%
+\section{Voltage}\label{voltage}}
 
-True statements that make your life better.
+\begin{itemize}
+\tightlist
+\item
+  Units: \(\frac{Nm}{C} = \frac{J/C} = V\)
+\item
+  Amount of energy per unit of charge it takes to bring that charge to
+  that point
 
-{[}{[}KBhMATH401LimitLaws{]}{]}
+  \begin{itemize}
+  \tightlist
+  \item
+    If you have a ball and you are taking it up the hill, then it takes
+    energy to do that
+  \item
+    When you let go, it will roll back down the hill
+  \item
+    Voltage = energy per charge is similar to energy per kilogram of
+    raising the ball.
+  \item
+    Field is the amount that it is resisting--the amount of force
+    required to move the charge.
+  \item
+    \textbf{Analogous to gravitational potential energy}.
+  \end{itemize}
+\end{itemize}
 
-\hypertarget{solving-limits}{%
-\subsection{Solving Limits}\label{solving-limits}}
+\hypertarget{zero-point}{%
+\subsection{Zero Point}\label{zero-point}}
 
-There are many, many ways of solving limits! Here's a list of 'em.
+\begin{itemize}
+\tightlist
+\item
+  If you have one positive and one negative, then the zero point of the
+  voltage is between the two charges
+\item
+  The zero can be defined anywhere, just like zero gravitational energy
+  can be anywhere
 
-\hypertarget{via-eliminationfactorization}{%
-\subsubsection{Via
-Elimination/Factorization}\label{via-eliminationfactorization}}
+  \begin{itemize}
+  \tightlist
+  \item
+    However, conventionally, we define zero to be between two opposite
+    charges
+  \item
+    We also define the voltage infinity distance away to be zero
+  \end{itemize}
+\end{itemize}
 
-Are you dealing with a rational function with holes? Start here.
+\hypertarget{equipotential}{%
+\subsection{Equipotential}\label{equipotential}}
 
-See {[}{[}KBhMATH401LimitsEliminationMethod{]}{]}
+\begin{itemize}
+\tightlist
+\item
+  A line that shows where voltage is the same
+  {[}{[}srcPhETChargesFieldsEquipotentialLines.png{]}{]}
+\item
+  Joules of electric potential energy
+\item
+  Scalar, while electric field is a vector \#\#\# Relationship with
+  Electric Field
+\item
+  Perpendicular to the electric field
+\end{itemize}
 
-\hypertarget{via-thinking-good}{%
-\subsubsection{Via ``Thinking Good''}\label{via-thinking-good}}
-
-Are you dealing with a function that goes increases quickly or decreases
-dramatically? Start here.
-
-Missing Content
-
-\#disorganized
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}

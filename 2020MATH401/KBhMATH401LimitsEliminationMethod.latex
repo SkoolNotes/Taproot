@@ -174,6 +174,39 @@ rational function that needs factoring of a term out of the polynomials
 on the top and/or the bottom to get out of the indeterminate form
 \((\frac{0}{0})\).
 
+\begin{itemize}
+\tightlist
+\item
+  Try factoring both the top and bottom
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \((x\pm1)\)
+  \item
+    \((x\pm2)\)
+  \end{itemize}
+\item
+  Rationalize all of the square roots
+\end{itemize}
+
+Tip for picking factors
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Tip!} If you plug in a value to an expression, and out pops 0,
+that value is a \textbf{zero} of the expression. It is helpful like this
+
+Factor: \((x^6-1)\)
+
+As you could see, plugging \(x=1\) yields \(0\), meaning that \((x-1)\)
+is a \textbf{zero} of \((x^6-1)\), and hence would be able to be
+factored out.
+
+To factor it out, either do synthetic division or long division.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
 Let's do a problem solve for \(\lim_{x\to 2} \frac{(x^2-4)}{(x-2)}\)
 
 \begin{enumerate}
@@ -201,5 +234,27 @@ Let's do a problem solve for \(\lim_{x\to 2} \frac{(x^2-4)}{(x-2)}\)
     Evaluating\\
   \end{itemize}
 \end{enumerate}
+
+Here's another one! \(\lim_{x\to0} \frac{\sqrt{x+4}-2}{x}\)
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  First, notice that if we are going to solve this problem, we have to
+  divide the top thing (\(\sqrt{x+4}-2\)) by \(x\), somehow
+\item
+  The only thing we could do here is rationalize the top by multiplying
+  the whole faction by a fancy one
+  \(\frac{\sqrt{x+4}+2}{\sqrt{x+4}+2}\).
+\item
+  This results in \(\frac{x+4-4}{x\times(\sqrt{x+4}+2)}\), which
+  simplifies to \(\frac{\cancel{x}}{\cancel{x}\times(\sqrt{x+4}+2)}\)
+\item
+  Plugging in \(x=0\), you get \(\frac{1}{4}\).
+\end{enumerate}
+
+\textbf{If there is no factors, you got yourself a vertical asymtote.
+Refer to \#missing \#disorganized for solution!}
 
 \end{document}

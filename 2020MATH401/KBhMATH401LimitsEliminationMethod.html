@@ -45,6 +45,21 @@
       <p><span><strong>Source</strong>: <a href="http://taproot.shabang.cf/relay?request=KBMATH401ComputingLimits"><span><strong>[[</strong></span><strong>KBMATH401ComputingLimits</strong><span><strong>]]</strong></span></a></span></p>
       <h1 id="solving-limits-with-elimination">Solving Limits with Elimination</h1>
       <p>With solving limits via elimination, we are tipically analyzing a rational function that needs factoring of a term out of the polynomials on the top and/or the bottom to get out of the indeterminate form <span class="math inline">\((\frac{0}{0})\)</span>.</p>
+      <ul>
+      <li><p>Try factoring both the top and bottom</p>
+      <ul>
+      <li><p><span class="math inline">\((x\pm1)\)</span></p></li>
+      <li><p><span class="math inline">\((x\pm2)\)</span></p></li>
+      </ul></li>
+      <li><p>Rationalize all of the square roots</p></li>
+      </ul>
+      <p>Tip for picking factors</p>
+      <hr />
+      <p><strong>Tip!</strong> If you plug in a value to an expression, and out pops 0, that value is a <strong>zero</strong> of the expression. It is helpful like this</p>
+      <p>Factor: <span class="math inline">\((x^6-1)\)</span></p>
+      <p>As you could see, plugging <span class="math inline">\(x=1\)</span> yields <span class="math inline">\(0\)</span>, meaning that <span class="math inline">\((x-1)\)</span> is a <strong>zero</strong> of <span class="math inline">\((x^6-1)\)</span>, and hence would be able to be factored out.</p>
+      <p>To factor it out, either do synthetic division or long division.</p>
+      <hr />
       <p>Let’s do a problem solve for <span class="math inline">\(\lim_{x\to 2} \frac{(x^2-4)}{(x-2)}\)</span></p>
       <ol>
       <li><p>First, notice the fact this function will have a hole at <span class="math inline">\(x=2\)</span>. This is especially important because after we simplify we will loose this hole.</p></li>
@@ -57,6 +72,14 @@
       </p></li>
       </ul></li>
       </ol>
+      <p>Here’s another one! <span class="math inline">\(\lim_{x\to0} \frac{\sqrt{x+4}-2}{x}\)</span></p>
+      <ol>
+      <li><p>First, notice that if we are going to solve this problem, we have to divide the top thing (<span class="math inline">\(\sqrt{x+4}-2\)</span>) by <span class="math inline">\(x\)</span>, somehow</p></li>
+      <li><p>The only thing we could do here is rationalize the top by multiplying the whole faction by a fancy one <span class="math inline">\(\frac{\sqrt{x+4}+2}{\sqrt{x+4}+2}\)</span>.</p></li>
+      <li><p>This results in <span class="math inline">\(\frac{x+4-4}{x\times(\sqrt{x+4}+2)}\)</span>, which simplifies to <span class="math inline">\(\frac{\cancel{x}}{\cancel{x}\times(\sqrt{x+4}+2)}\)</span></p></li>
+      <li><p>Plugging in <span class="math inline">\(x=0\)</span>, you get <span class="math inline">\(\frac{1}{4}\)</span>.</p></li>
+      </ol>
+      <p><strong>If there is no factors, you got yourself a vertical asymtote. Refer to #missing #disorganized for solution!</strong></p>
   </div>
 
 
