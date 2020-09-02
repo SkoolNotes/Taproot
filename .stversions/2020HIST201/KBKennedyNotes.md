@@ -109,9 +109,39 @@ led to a massive increase in resources:
 
 > Beginnings of a modern world system.
 
-``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ```
+``` ```II``` ``` 
 
 > The inquiring, rationalist mind was observing more, and experimenting more
+
+
+This *'explosion of knowledge'* was what ultimately led to Europe's rise to the top. 
+
+> ##### This lack of economic and political rigidity would imply a similar lack of cultural and ideological orthodoxy is, a freedom to inquire to dispute, to experiment, a belief in the possibilities to improvement, a concern for the practical rather then the abstract, a rationalism which defied mandarin codes, religious dogma, and traditional folklore. 
+
+
+```
+```
+### $$The\ European\ Miracle$$
+
+Explotation
+
+Cultural 
+
+Coal allows for a lot more land because you can remove forests
+
+Environmental 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

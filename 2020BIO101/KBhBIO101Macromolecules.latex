@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Biology Master Index }
+\newcommand{\thecourse}{ CHEM201 }
+\newcommand{\thelesson}{ Macromolecules }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -161,40 +161,46 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{}{} }
+\ifthenelse{ \equal{KBBiologyMasterIndex}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}
 
-\#source
+\hypertarget{macromolecules}{%
+\section{Macromolecules}\label{macromolecules}}
+
+\hypertarget{scales}{%
+\subsection{Scales}\label{scales}}
+
+\textbf{Macromolecules}: Measured on the scale of picometres. Extremely
+small + at atomic scales.
+
+\textbf{Macromolecule Structure}: Measured on the scale of nanometres.
+
+\textbf{Organelles + Viruses}: Measured on the scales of hundreds of
+nanometers
+
+\textbf{Cells + Bacteria}: Measured on the scales of micrometers
+
+\hypertarget{small-molecules-vs.-macromelecules}{%
+\subsection{``Small Molecules''
+vs.~``Macromelecules''}\label{small-molecules-vs.-macromelecules}}
 
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBhBIO101Watah{]}{]} Alright! Let's talk about Water.
+  Small molecules --- \textless{} 30-40 atoms
 \item
-  {[}{[}00-Topic-KB202008251020{]}{]} Day one, but not broken
-\item
-  Exr0n's notes {[}{[}KB20200825142200{]}{]}
-\item
-  {[}{[}KBhBIO101LetsDoBio{]}{]} Biology, day 1
-\item
-  {[}{[}KBhBIO101WhatsBio{]}{]} What\ldots{} is\ldots{} biology?
-\item
-  {[}{[}KBFreeAssociationBioReviewHuxley{]}{]} Free Associate
-\item
-  {[}{[}KB20200826090938{]}{]} Emergent Properties i
-\item
-  Macromolecules
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Jack --- {[}{[}KBhBIO101Macromolecules{]}{]}
-  \item
-    Hux ---{[}{[}KBMacromelecules{]}{]}
-  \end{itemize}
+  Macromolecules --- \textgreater{} 30-40 atoms, joined by
+  polymerization or just, are, big
 \end{itemize}
 
-Exr0n's Flows {[}{[}20bio201floD3{]}{]}
+\hypertarget{some-macromolecules}{%
+\subsection{Some Macromolecules!}\label{some-macromolecules}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBhBIO101Carbs{]}{]}
+\end{itemize}
 
 \end{document}
