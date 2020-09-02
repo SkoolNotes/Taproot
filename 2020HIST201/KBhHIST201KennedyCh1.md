@@ -35,17 +35,20 @@ Guiding question: so, how did scattered Europeans become the number 1 world play
 
 See [[KBhHIST201RiseOfEurope1500]]
 
-# Why Kennedy is Frustrating
+Based on the [[KBhHIST201HistModHist]] Models of History Systems, there are two theories under which Kennedy's analysis could be evaluated.
+
+* Kennedy deux. Arrigi
+    * War as a form of trade strength
+    * Europe lead the world to transformation from territorialist to capitalist model
+* Kennedy deux. Predatory Theory
+    * War as an end in and of itself
+    * Growth in expansion correlated to success with mil. tech.
+ 
+* Growth through Exploitation
+* Protestant Work Ethic
+* Geol, Geog, Luck
+
+## Why Kennedy is Frustrating
 Kennedy's arguments is very frustrating.
 
-![Screen Shot 2020-08-31 at 9.30.01 AM.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020HIST201/Screen Shot 2020-08-31 at 9.30.01 AM.png)
-
-His arguments are not very well supported. For instance, his argument that orthodox Confucianism stopped trade (and ???, then) decline for China. 
-
-Missing was pieces of evidence could have caused tremendous difficulty.
-
-> "I don't need arguments to support his claims, I just need to claim harder" — Kennedy
-
-* "These people failed because they cared about their own people" — Both Empires
-* "These people failed because they used a strategy that have worked for them and is working" — Ming w.r.t. Confusianism
-* "These people failed because they are too good and managing an empire" — Ottomans w.r.t. to the Romanitus
+[[KBhHIST201KennedyIsFrustrating]]

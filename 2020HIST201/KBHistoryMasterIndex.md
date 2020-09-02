@@ -24,6 +24,7 @@ source: #index
     * Huxley — [[KBKennedyNotes]] 
     * Jack — [[KBhHIST201KennedyCh1]] 
 	* Alb - [[KBe20hist201floKennedyCH1pt1]] and [[retExr0nKennedyCh1Pt2]]
-	
+* Textbook models of History [[KBhHIST201HistModHist]]
+
 ## Meta References
 - [[20hist201refTechniques]]

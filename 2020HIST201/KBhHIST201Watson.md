@@ -6,6 +6,8 @@ course: HIST201
 ---
 
 # Watson's Model
+
+
 ## Types of States
 * Community
     * Ethic group, locale, etc.

@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -195,6 +196,17 @@
   \item
     This is because it demonstrates a multi-level organization system.
   \end{itemize}
+\end{itemize}
+
+\hypertarget{measure-by-proxy}{%
+\subsection{Measure by proxy}\label{measure-by-proxy}}
+
+\begin{itemize}
+\tightlist
+\item
+  has potential for error
+\item
+  when you try to quantify a concept, the definition will change
 \end{itemize}
 
 \end{document}
