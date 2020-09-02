@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS201 }
-\newcommand{\thelesson}{ Conductors and Equlibrium }
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ The Rise of Europe in the 1500s }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -161,97 +161,26 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{KBhPHYS201ElectricFields}{} }
+\ifthenelse{ \equal{KBhHIST201KennedyCh1}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhPHYS201ElectricFields}{\tiny\textulf{[[}\textbf{KBhPHYS201ElectricFields}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhHIST201KennedyCh1}{\tiny\textulf{[[}\textbf{KBhHIST201KennedyCh1}\textulf{]]}}}
 
-\hypertarget{conductors-at-equilibrium}{%
-\section{Conductors at Equilibrium}\label{conductors-at-equilibrium}}
+\hypertarget{the-rise-of-europe-in-the-1500s}{%
+\section{The Rise of Europe in the
+1500s}\label{the-rise-of-europe-in-the-1500s}}
 
-If the charges on a conductor are \textbf{stationary}, no electron flow
-within the conductor (so, it's \textbf{at equilibrium})\ldots{} This
-means that:
+According to Kennedy {[}{[}KBhHIST201KennedyCh1{]}{]}, there are two
+major reasons that caused the rise of Europe in the 1500s:
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi})}
-\tightlist
-\item
-  Net E-field \emph{in} the conducting material must be zero
+\hypertarget{the-political-fragmentation-and-why-thats-good}{%
+\subsection{The Political Fragmentation (and why that's
+good)}\label{the-political-fragmentation-and-why-thats-good}}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Because, uhh\ldots., the conductor is stationary, meaning no
-    electron flow
-  \item
-    So, without electric flow, you know that there is no electrons
-    flowing, which means no electric field
-  \end{itemize}
-\item
-  Any electrons that would exist would cluster at the surface of the
-  conductor
+See {[}{[}KBhHIST201PoliticalFragmentationofEurope{]}{]}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    At equilibrium, the electrons would want to be as far away from each
-    other as possible, meaning that they would stick to the surface ---
-    to take advantage of the biggest perimeter/circumference
-  \end{itemize}
-\item
-  At the surface of the conductor, if any E-\emph{field} is present, it
-  must be perpendicular to the surface
+\hypertarget{the-take-over-of-the-west}{%
+\subsection{The Take Over of the West}\label{the-take-over-of-the-west}}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    If you have a horizontal component, the conductor would be, well,
-    \emph{conducting} electricity, making it rather not static
-  \item
-    If the E-Field is perpendicular, because we are in the Physics
-    Vacuum, no charges will flow because it can't flow out of the
-    conductor into something else
-  \end{itemize}
-\end{enumerate}
-
-\begin{quote}
-The net electric field inside a neutral conductor must be 0 equilibrium
-(at which point it is stationary)
-\end{quote}
-
-\begin{itemize}
-\tightlist
-\item
-  A conductor at equlibirium would see electrons cluster at curves to
-  maintain perpendicularity of e-Fields
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Because there are more electrons towards the center and across the
-    conductor to push all electrons towards the extremities before
-    achieving equlibirium
-  \end{itemize}
-\end{itemize}
-
-\begin{figure}
-\centering
-\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/20phys201srcPhETChargesAndFieldsConstantVoltage.png}
-\caption{20phys201srcPhETChargesAndFieldsConstantVoltage.png}
-\end{figure}
-
-\begin{itemize}
-\tightlist
-\item
-  PhET Exploration:
-
-  \begin{itemize}
-  \tightlist
-  \item
-    r0N: {[}{[}KBe20phys201retFieldsVoltagePhET{]}{]}
-  \item
-    'Moka: {[}{[}KBhPHYS201PHETElectricFields{]}{]}
-  \end{itemize}
-\end{itemize}
+See {[}{[}KBhHIST201EuropesWesternTakeover{]}{]}
 
 \end{document}

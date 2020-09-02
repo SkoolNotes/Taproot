@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS201 }
-\newcommand{\thelesson}{ Conductors and Equlibrium }
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ The Ottomans' Fall in the 1500s }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -161,96 +161,51 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{KBhPHYS201ElectricFields}{} }
+\ifthenelse{ \equal{KBhHIST201Ottomans1500}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhPHYS201ElectricFields}{\tiny\textulf{[[}\textbf{KBhPHYS201ElectricFields}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhHIST201Ottomans1500}{\tiny\textulf{[[}\textbf{KBhHIST201Ottomans1500}\textulf{]]}}}
 
-\hypertarget{conductors-at-equilibrium}{%
-\section{Conductors at Equilibrium}\label{conductors-at-equilibrium}}
-
-If the charges on a conductor are \textbf{stationary}, no electron flow
-within the conductor (so, it's \textbf{at equilibrium})\ldots{} This
-means that:
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi})}
-\tightlist
-\item
-  Net E-field \emph{in} the conducting material must be zero
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Because, uhh\ldots., the conductor is stationary, meaning no
-    electron flow
-  \item
-    So, without electric flow, you know that there is no electrons
-    flowing, which means no electric field
-  \end{itemize}
-\item
-  Any electrons that would exist would cluster at the surface of the
-  conductor
-
-  \begin{itemize}
-  \tightlist
-  \item
-    At equilibrium, the electrons would want to be as far away from each
-    other as possible, meaning that they would stick to the surface ---
-    to take advantage of the biggest perimeter/circumference
-  \end{itemize}
-\item
-  At the surface of the conductor, if any E-\emph{field} is present, it
-  must be perpendicular to the surface
-
-  \begin{itemize}
-  \tightlist
-  \item
-    If you have a horizontal component, the conductor would be, well,
-    \emph{conducting} electricity, making it rather not static
-  \item
-    If the E-Field is perpendicular, because we are in the Physics
-    Vacuum, no charges will flow because it can't flow out of the
-    conductor into something else
-  \end{itemize}
-\end{enumerate}
-
-\begin{quote}
-The net electric field inside a neutral conductor must be 0 equilibrium
-(at which point it is stationary)
-\end{quote}
+\hypertarget{the-ottomans-fall}{%
+\section{The Ottomans' Fall}\label{the-ottomans-fall}}
 
 \begin{itemize}
 \tightlist
 \item
-  A conductor at equlibirium would see electrons cluster at curves to
-  maintain perpendicularity of e-Fields
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Because there are more electrons towards the center and across the
-    conductor to push all electrons towards the extremities before
-    achieving equlibirium
-  \end{itemize}
-\end{itemize}
-
-\begin{figure}
-\centering
-\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/20phys201srcPhETChargesAndFieldsConstantVoltage.png}
-\caption{20phys201srcPhETChargesAndFieldsConstantVoltage.png}
-\end{figure}
-
-\begin{itemize}
-\tightlist
+  ``Natural consequences of earlier Turkish successes''
 \item
-  PhET Exploration:
+  Got Romanitus --- expanded too much to the point of unmanagability
+  =\textgreater{} ``Strategical Overextension''
+\item
+  Switched to an ``Iron Fist'' management style of crushing dissidents,
+  encouraging the Persians to ally with the Europeans to crush the
+  Ottomans
+\item
+  Suffered from being centralized, despotic, and severly orthodox
 
   \begin{itemize}
   \tightlist
   \item
-    r0N: {[}{[}KBe20phys201retFieldsVoltagePhET{]}{]}
+    Emperor had to much power
   \item
-    'Moka: {[}{[}KBhPHYS201PHETElectricFields{]}{]}
+    Country became over-conservative
+  \item
+    Bureaucracy became too heavy
+  \item
+    Heavy internal plundering
+
+    \begin{itemize}
+    \tightlist
+    \item
+      High taxes
+    \item
+      Seizures of property
+    \item
+      Depopulated towns
+    \item
+      Unorderly soldiers
+    \item
+      Bribery
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 

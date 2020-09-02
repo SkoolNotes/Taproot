@@ -31,27 +31,11 @@ See [[KBhHIST201Ottomans1500]]
 
 ## The Europeans' Rise
 
-#disorganized
-
 Guiding question: so, how did scattered Europeans become the number 1 world player from futal tribes?
 
-* Europe is politically fragmented, but Mr. Kennedy thinks this is mucho bueno
-    * Causes
-        * Geographical — no big plains but lots of rivers
-        * Harsher climate makes difficult central control
-    * Effects
-        * Hard to be fully unified, and hence hard to be assimilated
-        * Diversity encouraged inter-dependence and trade (which, #why is this a good thing necessarily?)
-            * Trade included _bulk_ items primarily and not luxury-focused trade of the east
-            * Easy access to sea encouraged shipbuilding
-            * Quick, common day trade encouraged building on an economy — credit, banks, common currency
-            * Need for long-range fishing encourages the building of bigger ships, and that's good because #why?
-* Advantages of political fragmentation
-    * Economic development could not have been suppressed #why
-    * No central authority made trading and merchants less stigmatized (although they are, like in strict Confuciansim (see [[KBhHIST201ChinasDecline1500]] China's Govermental Decline in the 1500s) , disliked)
-    * 
+See [[KBhHIST201RiseOfEurope1500]]
 
-## Why Kennedy is Frustrating
+# Why Kennedy is Frustrating
 Kennedy's arguments is very frustrating.
 
 ![Screen Shot 2020-08-31 at 9.30.01 AM.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020HIST201/Screen Shot 2020-08-31 at 9.30.01 AM.png)

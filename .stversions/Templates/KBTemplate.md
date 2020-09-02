@@ -1,7 +1,7 @@
 ---
 title:  
 course: 
-author: Huxley Marvit
+author: 
 source: #index
 ---
 

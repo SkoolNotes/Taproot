@@ -5,25 +5,25 @@ course: PHYS201
 source: KBhPHYS201IntroToElectrostaticsLN
 ---
 
-#disorganized
-
 # Electric Fields
 
-You will notice that the _Electric Field_ works very similarly to the _Gravitational Field_ [[KBhPHYS201GravitationalFields]]
+***
+
+## **Calculation CheatSheet!**
 
 To recall, Coulomb's Law [[KBhPHYS201ColoumbsLaw]] looks like $F_{attraction} = k\frac{Q_1Q_2}{R^2}$, which is eerily similar to the Force of Gravity, $F_{grav} = G\frac{M_2M_2}{R^2}$.
 
-And so, by the some token, we could also redefined electric force as:
-
-\definition[where $E$ is $Q_2$'s electric field]{Electric Force}{$F_{attraction} = E Q_1$}
-
-where, the electric field is defined as
+And so, by the some token, we could also redefine electric force by splitting the function in the same way as with gravity fields:
 
 \definition{Electric Field}{$E = \frac{k \times Q_2}{R^2}$}
+
+\definition[where $E$ is $Q_2$'s electric field]{Electric Force}{$F_{attraction} = E Q_1$}
 
 Unsurprisingly, the units for *Electric Field* is $\frac{N}{C}$, and no, before you get excited, there is nothing it equals.
 
 ***
+
+## Directionality of Electric Fields
 
 With masses (and w.r.t. [[KBh_PHYS201_GravitationalFields]] gravitational fields), it's easy. Masses always *attracts* because negative mass doesn't exist (_yet_). But, with an electric field,  figuring out directions is harder.
 
@@ -41,7 +41,7 @@ In this manner, when we say, "this atom has a electric field vector in this dire
 
 ## Illustrating Electric Fields
 
-There are two ways of illustrating electric fields — either drawing an infinite amount of vectors (that's a lot of vectors), or drawing lines originating from the main particle lining up all the vectors (think! original Japanese flags.)
+There are two ways of illustrating electric fields — either drawing an infinite amount of vectors (that's a lot of vectors), or drawing lines originating from the main particle lining up all the vectors (Think! The original Japanese flag.)
 
 See [[KBhPHYS201IllustratingElectricFields]] illustrating electric fields.
 
@@ -49,14 +49,14 @@ See [[KBhPHYS201IllustratingElectricFields]] illustrating electric fields.
 
 See [[KBhPHYS201ElectricFieldInteractions]] Electric Field Interactions.
 
-## Conductors and Electric field
+## Conductors + Electric Field Interactions
+
+To get our modern world, **Conductors** — metals and other elements in which electrons could move freely — are an important item to study and model. Lots of problems involve interactions between electrons + electric fields being placed in and around conductors.
 
 See [[KBhPHYS201ConductorsEquilibrium]]
 
-    
-### An now, something interesting
+## An now, something interesting
 Take, a neutral conductor.
-
 
 ![Screen Shot 2020-08-24 at 9.44.46 PM.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/Screen Shot 2020-08-24 at 9.44.46 PM.png)
 

@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS201 }
-\newcommand{\thelesson}{ Conductors and Equlibrium }
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Europe Political Fragmentation }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -161,97 +161,128 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{KBhPHYS201ElectricFields}{} }
+\ifthenelse{ \equal{KBhHIST201RiseOfEurope1500}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhPHYS201ElectricFields}{\tiny\textulf{[[}\textbf{KBhPHYS201ElectricFields}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhHIST201RiseOfEurope1500}{\tiny\textulf{[[}\textbf{KBhHIST201RiseOfEurope1500}\textulf{]]}}}
 
-\hypertarget{conductors-at-equilibrium}{%
-\section{Conductors at Equilibrium}\label{conductors-at-equilibrium}}
+\hypertarget{political-fragmentation-of-europe}{%
+\section{Political Fragmentation of
+Europe}\label{political-fragmentation-of-europe}}
 
-If the charges on a conductor are \textbf{stationary}, no electron flow
-within the conductor (so, it's \textbf{at equilibrium})\ldots{} This
-means that:
+Europe is politically fragmented, but Mr.~Kennedy thinks this is mucho
+bueno
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi})}
-\tightlist
-\item
-  Net E-field \emph{in} the conducting material must be zero
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Because, uhh\ldots., the conductor is stationary, meaning no
-    electron flow
-  \item
-    So, without electric flow, you know that there is no electrons
-    flowing, which means no electric field
-  \end{itemize}
-\item
-  Any electrons that would exist would cluster at the surface of the
-  conductor
-
-  \begin{itemize}
-  \tightlist
-  \item
-    At equilibrium, the electrons would want to be as far away from each
-    other as possible, meaning that they would stick to the surface ---
-    to take advantage of the biggest perimeter/circumference
-  \end{itemize}
-\item
-  At the surface of the conductor, if any E-\emph{field} is present, it
-  must be perpendicular to the surface
-
-  \begin{itemize}
-  \tightlist
-  \item
-    If you have a horizontal component, the conductor would be, well,
-    \emph{conducting} electricity, making it rather not static
-  \item
-    If the E-Field is perpendicular, because we are in the Physics
-    Vacuum, no charges will flow because it can't flow out of the
-    conductor into something else
-  \end{itemize}
-\end{enumerate}
-
-\begin{quote}
-The net electric field inside a neutral conductor must be 0 equilibrium
-(at which point it is stationary)
-\end{quote}
+\hypertarget{causes}{%
+\subsection{Causes}\label{causes}}
 
 \begin{itemize}
 \tightlist
 \item
-  A conductor at equlibirium would see electrons cluster at curves to
-  maintain perpendicularity of e-Fields
+  Geographical --- no big plains but lots of rivers
+\item
+  Harsher climate makes difficult central control
+\end{itemize}
+
+\hypertarget{effects}{%
+\subsection{Effects}\label{effects}}
+
+\begin{itemize}
+\tightlist
+\item
+  Hard to be fully unified, and hence hard to be assimilated
+\item
+  Diversity encouraged inter-dependence and trade (which, \#why is this
+  a good thing necessarily?)
 
   \begin{itemize}
   \tightlist
   \item
-    Because there are more electrons towards the center and across the
-    conductor to push all electrons towards the extremities before
-    achieving equlibirium
+    Trade included \emph{bulk} items primarily and not luxury-focused
+    trade of the east
+  \item
+    Easy access to sea encouraged shipbuilding
+  \item
+    Quick, common day trade encouraged building on an economy ---
+    credit, banks, common currency
+  \item
+    Need for long-range fishing encourages the building of bigger ships,
+    and that's good because \#why?
   \end{itemize}
 \end{itemize}
 
-\begin{figure}
-\centering
-\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/20phys201srcPhETChargesAndFieldsConstantVoltage.png}
-\caption{20phys201srcPhETChargesAndFieldsConstantVoltage.png}
-\end{figure}
+\hypertarget{development-of-strong-military-technology}{%
+\subsubsection{Development of strong military
+technology}\label{development-of-strong-military-technology}}
 
 \begin{itemize}
 \tightlist
 \item
-  PhET Exploration:
+  Beginning around 14-1600s with the establishment of ``gunpowder
+  empires''
+\item
+  Military powers begin concentrating
 
   \begin{itemize}
   \tightlist
   \item
-    r0N: {[}{[}KBe20phys201retFieldsVoltagePhET{]}{]}
+    Italy's use of the crossbowmen + pikes
   \item
-    'Moka: {[}{[}KBhPHYS201PHETElectricFields{]}{]}
+    France and England gained monopoly with artilirary
   \end{itemize}
+\item
+  \textbf{Notice!} However, that there is nevertheless a \emph{variety}
+  of powers that made individual control difficult --- no single
+  individual ever gained an edge
+\item
+  Varied political entities caused difficulty in controlling the whole
+  continent
+\item
+  Lean army of smaller nations encouraged fighting with artillery, and
+  not direct combat --- driving technological innovation
+\end{itemize}
+
+\begin{quote}
+To most European statesmen the loss of Hungary was of far greater import
+than the establishment of factories in the Orient, and the threat to
+Vienna more significant than their own challenges at Aden, Goa and
+Malacca; only goverments bordering the Atlantic could, like the later
+historians, ignore this fact
+\end{quote}
+
+Meaning\ldots{} Generally weaker individual states originally caused
+less inter-continental fighting against the status-quo big nations
+({[}{[}KBhHIST201MingChina1500{]}{]}/{[}{[}KBhHIST201Ottomans1500{]}{]})
+
+\hypertarget{advantages}{%
+\subsection{Advantages}\label{advantages}}
+
+Fragmentation also encourage competition:
+
+\begin{itemize}
+\tightlist
+\item
+  Trading and merchants less stigmatized
+  (unlike{[}{[}KBhHIST201ChinasDecline1500{]}{]} China's Governmental
+  Decline in the 1500s) =\textgreater{} making supressing economic
+  development difficult \#why
+\item
+  Encouraged small millitia (\emph{condottieri}) to compete for
+  contracts
+\item
+  Created genuine innovation
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Experimentation with gunpowder
+  \item
+    Innovation by hired army
+  \end{itemize}
+\item
+  Self-perpetuating cycle made attack and monopolization harder\\
+\item
+  Innovative techniques often drive other innovation (experiments with
+  cannons =\textgreater{} more sturdy ships)
 \end{itemize}
 
 \end{document}

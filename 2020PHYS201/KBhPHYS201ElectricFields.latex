@@ -165,30 +165,34 @@
 {}
 {\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhPHYS201IntroToElectrostaticsLN}{\tiny\textulf{[[}\textbf{KBhPHYS201IntroToElectrostaticsLN}\textulf{]]}}}
 
-\#disorganized
-
 \hypertarget{electric-fields}{%
 \section{Electric Fields}\label{electric-fields}}
 
-You will notice that the \emph{Electric Field} works very similarly to
-the \emph{Gravitational Field} {[}{[}KBhPHYS201GravitationalFields{]}{]}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{calculation-cheatsheet}{%
+\subsection{\texorpdfstring{\textbf{Calculation
+CheatSheet!}}{Calculation CheatSheet!}}\label{calculation-cheatsheet}}
 
 To recall, Coulomb's Law {[}{[}KBhPHYS201ColoumbsLaw{]}{]} looks like
 \(F_{attraction} = k\frac{Q_1Q_2}{R^2}\), which is eerily similar to the
 Force of Gravity, \(F_{grav} = G\frac{M_2M_2}{R^2}\).
 
-And so, by the some token, we could also redefined electric force as:
-
-\definition[where $E$ is $Q_2$'s electric field]{Electric Force}{$F_{attraction} = E Q_1$}
-
-where, the electric field is defined as
+And so, by the some token, we could also redefine electric force by
+splitting the function in the same way as with gravity fields:
 
 \definition{Electric Field}{$E = \frac{k \times Q_2}{R^2}$}
+
+\definition[where $E$ is $Q_2$'s electric field]{Electric Force}{$F_{attraction} = E Q_1$}
 
 Unsurprisingly, the units for \emph{Electric Field} is \(\frac{N}{C}\),
 and no, before you get excited, there is nothing it equals.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{directionality-of-electric-fields}{%
+\subsection{Directionality of Electric
+Fields}\label{directionality-of-electric-fields}}
 
 With masses (and w.r.t. {[}{[}KBh\_PHYS201\_GravitationalFields{]}{]}
 gravitational fields), it's easy. Masses always \emph{attracts} because
@@ -230,8 +234,8 @@ Fields}\label{illustrating-electric-fields}}
 
 There are two ways of illustrating electric fields --- either drawing an
 infinite amount of vectors (that's a lot of vectors), or drawing lines
-originating from the main particle lining up all the vectors (think!
-original Japanese flags.)
+originating from the main particle lining up all the vectors (Think! The
+original Japanese flag.)
 
 See {[}{[}KBhPHYS201IllustratingElectricFields{]}{]} illustrating
 electric fields.
@@ -243,14 +247,19 @@ Interactions}\label{electric-field-interactions}}
 See {[}{[}KBhPHYS201ElectricFieldInteractions{]}{]} Electric Field
 Interactions.
 
-\hypertarget{conductors-and-electric-field}{%
-\subsection{Conductors and Electric
-field}\label{conductors-and-electric-field}}
+\hypertarget{conductors-electric-field-interactions}{%
+\subsection{Conductors + Electric Field
+Interactions}\label{conductors-electric-field-interactions}}
+
+To get our modern world, \textbf{Conductors} --- metals and other
+elements in which electrons could move freely --- are an important item
+to study and model. Lots of problems involve interactions between
+electrons + electric fields being placed in and around conductors.
 
 See {[}{[}KBhPHYS201ConductorsEquilibrium{]}{]}
 
 \hypertarget{an-now-something-interesting}{%
-\subsubsection{An now, something
+\subsection{An now, something
 interesting}\label{an-now-something-interesting}}
 
 Take, a neutral conductor.

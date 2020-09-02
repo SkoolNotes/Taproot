@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS201 }
-\newcommand{\thelesson}{ Conductors and Equlibrium }
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Europe's Western Takeover }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -161,97 +161,72 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{KBhPHYS201ElectricFields}{} }
+\ifthenelse{ \equal{KBhHIST201RiseOfEurope1500}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhPHYS201ElectricFields}{\tiny\textulf{[[}\textbf{KBhPHYS201ElectricFields}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhHIST201RiseOfEurope1500}{\tiny\textulf{[[}\textbf{KBhHIST201RiseOfEurope1500}\textulf{]]}}}
 
-\hypertarget{conductors-at-equilibrium}{%
-\section{Conductors at Equilibrium}\label{conductors-at-equilibrium}}
+\hypertarget{europes-western-takeover}{%
+\section{Europe's Western Takeover}\label{europes-western-takeover}}
 
-If the charges on a conductor are \textbf{stationary}, no electron flow
-within the conductor (so, it's \textbf{at equilibrium})\ldots{} This
-means that:
+\hypertarget{the-takeover}{%
+\subsection{The Takeover}\label{the-takeover}}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi})}
+\begin{itemize}
 \tightlist
 \item
-  Net E-field \emph{in} the conducting material must be zero
+  Expanded towards Mexico, Peru, and Cuba --- generally weaker nations
+  to whom having artilirary is like gods \#why \#really?
+\item
+  Capitalized upon the lands with absolute control, and discovered
+  silver from the Potosí mines\ldots{} Bringing rapid growth and
+  {[}{[}KBhHIST201ProblemsWithSilver{]}{]} Problems with Silver
+\item
+  Unlike {[}{[}KBhHIST201ZhengHeSeafaring{]}{]} Zheng He + Africa,
+  Europeans came to the Americas and \emph{stayed there} with a
+  government and army and all
+\item
+  Colonies are less influenced by internal wars then are actual
+  countries themselves
+\end{itemize}
+
+\hypertarget{the-impact}{%
+\subsection{The Impact}\label{the-impact}}
+
+\begin{itemize}
+\tightlist
+\item
+  Switch to emphasis on trade of staples instead of valuables
+\item
+  Many American crops (Maize, Indigo) and American-Grown crops (tobacco,
+  rice, sugar) helped spark the economy and increase overall value
+\item
+  Growth in employment and growth for large trade city (London, Bristol,
+  Antwerp, Amsterdam)
+\item
+  Expansion into Russian regions also added additional value
+\item
+  Increased rivalry between European states brought increased
+  competition and development
 
   \begin{itemize}
   \tightlist
   \item
-    Because, uhh\ldots., the conductor is stationary, meaning no
-    electron flow
+    Added technology
   \item
-    So, without electric flow, you know that there is no electrons
-    flowing, which means no electric field
+    Novel skills and industries
+  \item
+    Increased emphasis on reasoning + science
   \end{itemize}
 \item
-  Any electrons that would exist would cluster at the surface of the
-  conductor
-
-  \begin{itemize}
-  \tightlist
-  \item
-    At equilibrium, the electrons would want to be as far away from each
-    other as possible, meaning that they would stick to the surface ---
-    to take advantage of the biggest perimeter/circumference
-  \end{itemize}
-\item
-  At the surface of the conductor, if any E-\emph{field} is present, it
-  must be perpendicular to the surface
-
-  \begin{itemize}
-  \tightlist
-  \item
-    If you have a horizontal component, the conductor would be, well,
-    \emph{conducting} electricity, making it rather not static
-  \item
-    If the E-Field is perpendicular, because we are in the Physics
-    Vacuum, no charges will flow because it can't flow out of the
-    conductor into something else
-  \end{itemize}
-\end{enumerate}
+  After a while, it became generally difficult for old-world powers to
+  expand and regain control
+\end{itemize}
 
 \begin{quote}
-The net electric field inside a neutral conductor must be 0 equilibrium
-(at which point it is stationary)
+The lack of economic and political rigidity would imply a similar lack
+of cultural and ideological orthodoxy---that is, a freedom to in quire,
+to dispute, to experiment, a belief in the possibilities of improvement,
+a concern for the practical rather than the abstract,
 \end{quote}
-
-\begin{itemize}
-\tightlist
-\item
-  A conductor at equlibirium would see electrons cluster at curves to
-  maintain perpendicularity of e-Fields
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Because there are more electrons towards the center and across the
-    conductor to push all electrons towards the extremities before
-    achieving equlibirium
-  \end{itemize}
-\end{itemize}
-
-\begin{figure}
-\centering
-\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/20phys201srcPhETChargesAndFieldsConstantVoltage.png}
-\caption{20phys201srcPhETChargesAndFieldsConstantVoltage.png}
-\end{figure}
-
-\begin{itemize}
-\tightlist
-\item
-  PhET Exploration:
-
-  \begin{itemize}
-  \tightlist
-  \item
-    r0N: {[}{[}KBe20phys201retFieldsVoltagePhET{]}{]}
-  \item
-    'Moka: {[}{[}KBhPHYS201PHETElectricFields{]}{]}
-  \end{itemize}
-\end{itemize}
 
 \end{document}

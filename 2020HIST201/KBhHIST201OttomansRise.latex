@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS201 }
-\newcommand{\thelesson}{ Conductors and Equlibrium }
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Ottomans' Success + Effective Governments }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -161,97 +161,90 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{KBhPHYS201ElectricFields}{} }
+\ifthenelse{ \equal{KBhHIST201Ottomans1500}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhPHYS201ElectricFields}{\tiny\textulf{[[}\textbf{KBhPHYS201ElectricFields}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhHIST201Ottomans1500}{\tiny\textulf{[[}\textbf{KBhHIST201Ottomans1500}\textulf{]]}}}
 
-\hypertarget{conductors-at-equilibrium}{%
-\section{Conductors at Equilibrium}\label{conductors-at-equilibrium}}
+\hypertarget{the-ottomans-successes-in-the-1500s}{%
+\section{The Ottomans' Successes in the
+1500s}\label{the-ottomans-successes-in-the-1500s}}
 
-If the charges on a conductor are \textbf{stationary}, no electron flow
-within the conductor (so, it's \textbf{at equilibrium})\ldots{} This
-means that:
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi})}
-\tightlist
-\item
-  Net E-field \emph{in} the conducting material must be zero
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Because, uhh\ldots., the conductor is stationary, meaning no
-    electron flow
-  \item
-    So, without electric flow, you know that there is no electrons
-    flowing, which means no electric field
-  \end{itemize}
-\item
-  Any electrons that would exist would cluster at the surface of the
-  conductor
-
-  \begin{itemize}
-  \tightlist
-  \item
-    At equilibrium, the electrons would want to be as far away from each
-    other as possible, meaning that they would stick to the surface ---
-    to take advantage of the biggest perimeter/circumference
-  \end{itemize}
-\item
-  At the surface of the conductor, if any E-\emph{field} is present, it
-  must be perpendicular to the surface
-
-  \begin{itemize}
-  \tightlist
-  \item
-    If you have a horizontal component, the conductor would be, well,
-    \emph{conducting} electricity, making it rather not static
-  \item
-    If the E-Field is perpendicular, because we are in the Physics
-    Vacuum, no charges will flow because it can't flow out of the
-    conductor into something else
-  \end{itemize}
-\end{enumerate}
-
-\begin{quote}
-The net electric field inside a neutral conductor must be 0 equilibrium
-(at which point it is stationary)
-\end{quote}
+\hypertarget{the-ottomans-battlings}{%
+\subsection{The Ottomans' Battlings}\label{the-ottomans-battlings}}
 
 \begin{itemize}
 \tightlist
 \item
-  A conductor at equlibirium would see electrons cluster at curves to
-  maintain perpendicularity of e-Fields
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Because there are more electrons towards the center and across the
-    conductor to push all electrons towards the extremities before
-    achieving equlibirium
-  \end{itemize}
+  Seized Damascus in the year 1516
+\item
+  Entered Egypt 1517
+\item
+  Worked around, and all the way to the Black Sea --- attacking Arabia
+  along the way
+\item
+  Overran Hungary (although, Northern Hungary was kept, and so was the
+  HRE) the same year
 \end{itemize}
 
-\begin{figure}
-\centering
-\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/20phys201srcPhETChargesAndFieldsConstantVoltage.png}
-\caption{20phys201srcPhETChargesAndFieldsConstantVoltage.png}
-\end{figure}
+\hypertarget{ottomans-governmental-effectiveness}{%
+\subsection{Ottomans' Governmental
+Effectiveness}\label{ottomans-governmental-effectiveness}}
 
 \begin{itemize}
 \tightlist
 \item
-  PhET Exploration:
+  Established official unity
 
   \begin{itemize}
   \tightlist
   \item
-    r0N: {[}{[}KBe20phys201retFieldsVoltagePhET{]}{]}
+    Faith
   \item
-    'Moka: {[}{[}KBhPHYS201PHETElectricFields{]}{]}
+    Culture
+  \item
+    and Language
   \end{itemize}
+\item
+  High Tech.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Well drained cities
+  \item
+    Libraries and universities \emph{libraries are a strong
+    through-line!}
+  \item
+    Strength in\ldots{}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Math
+    \item
+      Cartography
+    \item
+      Medicine
+    \item
+      Industry
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Mills
+      \item
+        Gun casting
+      \item
+        Lighthouses
+      \item
+        Hoursebreeding
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  Recruited army from Christian youth
+\item
+  Higher tolerance for other races
 \end{itemize}
 
 \end{document}
