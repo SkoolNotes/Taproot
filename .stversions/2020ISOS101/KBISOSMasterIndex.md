@@ -12,3 +12,11 @@ source: #index
 * [[KBhISOS101D1]] ISOS Day 1
 * Thoughts on Theaetetus
     * Jack's Take: [[KBhISOS101Thaetetus]]
+    * Huxley's Take [[KBTheaetetus]]
+	
+* Thoughts on [[]]
+	
+	
+	
+	
+	

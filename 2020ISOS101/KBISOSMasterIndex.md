@@ -13,3 +13,11 @@ source: #index
 * Thoughts on Theaetetus
     * Jack's Take: [[KBhISOS101Thaetetus]]
     * Huxley's Take [[KBTheaetetus]]
+	
+* Thoughts on [[KBPatternsofDiscoveryObservationhighlights]]
+	* Huxley's Take: [[KBPatternsOfDiscoveryNotes]]
+	
+	
+	
+	
+	
