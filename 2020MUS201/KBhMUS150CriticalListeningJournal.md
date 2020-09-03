@@ -95,3 +95,26 @@ source: KBhMUS150D1
     - Simple vocals =>
 - Heavy echos + flatter/natural vocals => simple melody too
 - Transition to synth as atmosphere
+
+# 09032020
+
+**Similar** (Tora)
+
+- Musical vocal texture
+- Simple background guitar riff
+- Chrorus with space-filling EQ on chorus
+- White noise adds texture to vocals
+- Innovative shift between falsetto + modal voice
+- Chill and traditional vibe
+
+**Atlantis**
+
+- Heavy noisy into — tap vibes?
+- Shifts into piano + synth rythem
+- Random sampling and synth patterns
+
+**Them Changes**
+
+- Simple drum pattern + white noice
+- Simple bass riff
+- Guitar "wobble"

@@ -28,6 +28,8 @@ Will be keeping as a listening journal + listening for analysis.
     - Audio Track
     - Recorded sound
 
+- Tamber — Sound signature + "flavor"
+
 ## Ableton
 Two views: arrangement view and track view
 
