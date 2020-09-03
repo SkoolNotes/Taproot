@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS201 }
-\newcommand{\thelesson}{ Electrostatics Index }
+\newcommand{\thecourse}{ 2020eng201 }
+\newcommand{\thelesson}{ English Master Index }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -121,7 +121,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu, Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -161,114 +161,141 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{KBPhysicsMasterIndex}{} }
+\ifthenelse{ \equal{}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBPhysicsMasterIndex}{\tiny\textulf{[[}\textbf{KBPhysicsMasterIndex}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
 
-First, let's begin with\ldots{}
-
-\hypertarget{electrostatics-cheat-sheet}{%
-\section{Electrostatics Cheat Sheet}\label{electrostatics-cheat-sheet}}
-
-{[}{[}KB20200825215200{]}{]}
-
-\hypertarget{an-atom}{%
-\section{An atom}\label{an-atom}}
-
-We begin by recognizing the fact that \textbf{it's the electron that can
-move around in an atom.}.
-
-For now, materials could be either \textbf{Conductors} or
-\textbf{Insulators.}
+\#source
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{Conductors}
+  \textbf{Topics for English 10}
+  {[}{[}KBe2020eng201refEnglishTopics{]}{]}
+\item
+  \textbf{Cololianlism, imperialsim, globalization Think-Pair-Share}
+  {[}{[}KBe-2020eng201floD1Breakout{]}{]}
+\item
+  \textbf{Alexa, Day 1}
 
   \begin{itemize}
   \tightlist
   \item
-    \(e^-\) move freely
+    Jack's take: {[}{[}KBhENG201AlexaD1{]}{]}
   \item
-    Think! Metal
+    Zach's take: {[}{[}KBDayoneEnglishZachary{]}{]}
+  \item
+    Huxley's take: {[}{[}KBEngDayOne{]}{]}
   \end{itemize}
 \item
-  \textbf{Insulators}
+  Short Stories
 
   \begin{itemize}
   \tightlist
   \item
-    \(e^-\) cannot move freely
+    Readings: {[}{[}KBFall2020English10Short StoriesPacket.pdf{]}{]}
   \item
-    Think! Wood/Glass/Plastic
+    \textbf{The I Is Never Alone}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Albert:
+
+      \begin{itemize}
+      \tightlist
+      \item
+        {[}{[}KB2NotesonTheIIsNeverAlone{]}{]} The I is Never Along,
+        notes
+      \item
+        {[}{[}KBe2020eng201floImperalismNotes{]}{]} The I Is Never Alone
+        + Imperialism
+      \end{itemize}
+    \item
+      Jack:
+
+      \begin{itemize}
+      \tightlist
+      \item
+        {[}{[}KBhENG201TheIIsNeverAlone{]}{]} The I is Never Alone,
+        Jack's Thoughts
+      \end{itemize}
+    \item
+      Zach
+    \item
+      Hux:
+
+      \begin{itemize}
+      \tightlist
+      \item
+        {[}{[}KBTheIIsNeverAloneEnglishReadingNotes{]}{]}
+      \end{itemize}
+    \end{itemize}
+  \item
+    \textbf{Baobab + Colonialism}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Huxley: {[}{[}KBColonialismShortStory{]}{]}
+    \item
+      Huxley: {[}{[}KBBaobabNotes{]}{]}
+    \item
+      Exr0n
+    \end{itemize}
+  \item
+    Elizabeth Bishop Poems
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Huxley: {[}{[}KBElizabethBishop{]}{]}
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{Close Reading + Assessment 1}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBhENG201CloseReading{]}{]}
+  \item
+    {[}{[}KBWhatIsCloseReading{]}{]}
+  \item
+    {[}{[}KBhENG201CloseReadingAss1{]}{]}
+  \end{itemize}
+\item
+  Thoughts on Imperialism and Colonialism
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBhENG201ImperialismColonialism{]}{]}
   \end{itemize}
 \end{itemize}
 
-Objects have different charge properties
-{[}{[}KBhPHYS201AtomChargeProps{]}{]}, and they interact with each other
-in specific ways:
+\hypertarget{annotated-docs}{%
+\subsection{Annotated Docs}\label{annotated-docs}}
 
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Like changes tend to repel}
-\item
-  \textbf{Different changes tend to attract}
-\end{itemize}
-
-{[}{[}KBhPHYS201AtomInteractions{]}{]}
-
-\hypertarget{the-rods-and-paper-experiment}{%
-\subsubsection{The Rods and Paper
-Experiment}\label{the-rods-and-paper-experiment}}
-
-Recall the day one at-home experiment
-{[}{[}KBhPHYS201D1AtHomeActivity{]}{]}. Let's see how the interactions
-we saw relates to the physical world:
-
-See {[}{[}KBhPHYS201ElectrostaticPolarization{]}{]}, the analysis of the
-Rods and Paper Experiment
-
-\hypertarget{the-electroscope}{%
-\subsubsection{The Electroscope}\label{the-electroscope}}
-
-See {[}{[}KBhPHYS201Electroscope{]}{]}, the electroscope.
-
-\hypertarget{quantifying-electrical-force}{%
-\section{Quantifying electrical
-force!}\label{quantifying-electrical-force}}
-
-See {[}{[}KBhPHYS201ColoumbsLaw{]}{]}, Coulomb's Law
-
-\hypertarget{gravity-gravitational-fields}{%
-\section{Gravity + Gravitational
-Fields!}\label{gravity-gravitational-fields}}
-
-Each object has what's called \textbf{gravitational field.} Surrounding
-each object has what is effectively many tiny vectors getting weaker and
-weaker as you move away from the Earth. You could calculate the force of
-gravity just by knowing\ldots{}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  The mass of what you are calculating.
-\item
-  How far away is the other object's mass.
-\end{enumerate}
-
-Then, out pops a value that tells you the magnitude of force that an
-object would exert on another object w.r.t. their mass that was dropped
-right where that vector was.
-
-To see how we could do this, and how it relates to electrostatics, see
-{[}{[}KBhPHYS201GravitationalFields{]}{]} Newton's Law of Gravitation.
-
-\hypertarget{electric-fields}{%
-\section{Electric Fields}\label{electric-fields}}
-
-See {[}{[}KBhPHYS201ElectricFields{]}{]} Electric Fields.
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\endhead
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Notes on \texttt{The\ I\ Is\ Never\ Alone}\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KB2NotesonTheIIsNeverAlone{]}{]}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\emph{The I Is Never Alone} + imperialism notes\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBe2020eng201floImperalismNotes{]}{]}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\emph{The Bird-Dreaming Baobab} pass 0\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBe2020eng201floBirdDreamingBaobab0.pdf{]}{]}\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
 
 \end{document}

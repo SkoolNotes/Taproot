@@ -106,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS201 }
-\newcommand{\thelesson}{ Electrostatics Index }
+\newcommand{\thecourse}{ ENG201 }
+\newcommand{\thelesson}{ Elizabeth Bishop Poems }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -121,7 +121,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -161,114 +161,21 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{KBPhysicsMasterIndex}{} }
+\ifthenelse{ \equal{}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBPhysicsMasterIndex}{\tiny\textulf{[[}\textbf{KBPhysicsMasterIndex}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
 
-First, let's begin with\ldots{}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{electrostatics-cheat-sheet}{%
-\section{Electrostatics Cheat Sheet}\label{electrostatics-cheat-sheet}}
+\#flo
 
-{[}{[}KB20200825215200{]}{]}
+\begin{verbatim}
+\end{verbatim}
 
-\hypertarget{an-atom}{%
-\section{An atom}\label{an-atom}}
+\hypertarget{in-the-waiting-room}{%
+\section{\texorpdfstring{\[In\ the\ Waiting\ Room\]}{In\textbackslash{} the\textbackslash{} Waiting\textbackslash{} Room}}\label{in-the-waiting-room}}
 
-We begin by recognizing the fact that \textbf{it's the electron that can
-move around in an atom.}.
-
-For now, materials could be either \textbf{Conductors} or
-\textbf{Insulators.}
-
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Conductors}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    \(e^-\) move freely
-  \item
-    Think! Metal
-  \end{itemize}
-\item
-  \textbf{Insulators}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    \(e^-\) cannot move freely
-  \item
-    Think! Wood/Glass/Plastic
-  \end{itemize}
-\end{itemize}
-
-Objects have different charge properties
-{[}{[}KBhPHYS201AtomChargeProps{]}{]}, and they interact with each other
-in specific ways:
-
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Like changes tend to repel}
-\item
-  \textbf{Different changes tend to attract}
-\end{itemize}
-
-{[}{[}KBhPHYS201AtomInteractions{]}{]}
-
-\hypertarget{the-rods-and-paper-experiment}{%
-\subsubsection{The Rods and Paper
-Experiment}\label{the-rods-and-paper-experiment}}
-
-Recall the day one at-home experiment
-{[}{[}KBhPHYS201D1AtHomeActivity{]}{]}. Let's see how the interactions
-we saw relates to the physical world:
-
-See {[}{[}KBhPHYS201ElectrostaticPolarization{]}{]}, the analysis of the
-Rods and Paper Experiment
-
-\hypertarget{the-electroscope}{%
-\subsubsection{The Electroscope}\label{the-electroscope}}
-
-See {[}{[}KBhPHYS201Electroscope{]}{]}, the electroscope.
-
-\hypertarget{quantifying-electrical-force}{%
-\section{Quantifying electrical
-force!}\label{quantifying-electrical-force}}
-
-See {[}{[}KBhPHYS201ColoumbsLaw{]}{]}, Coulomb's Law
-
-\hypertarget{gravity-gravitational-fields}{%
-\section{Gravity + Gravitational
-Fields!}\label{gravity-gravitational-fields}}
-
-Each object has what's called \textbf{gravitational field.} Surrounding
-each object has what is effectively many tiny vectors getting weaker and
-weaker as you move away from the Earth. You could calculate the force of
-gravity just by knowing\ldots{}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  The mass of what you are calculating.
-\item
-  How far away is the other object's mass.
-\end{enumerate}
-
-Then, out pops a value that tells you the magnitude of force that an
-object would exert on another object w.r.t. their mass that was dropped
-right where that vector was.
-
-To see how we could do this, and how it relates to electrostatics, see
-{[}{[}KBhPHYS201GravitationalFields{]}{]} Newton's Law of Gravitation.
-
-\hypertarget{electric-fields}{%
-\section{Electric Fields}\label{electric-fields}}
-
-See {[}{[}KBhPHYS201ElectricFields{]}{]} Electric Fields.
+\hypertarget{elizabeth-bishop}{%
+\paragraph{\texorpdfstring{\emph{\(Elizabeth\ Bishop\)}}{Elizabeth\textbackslash{} Bishop}}\label{elizabeth-bishop}}
 
 \end{document}

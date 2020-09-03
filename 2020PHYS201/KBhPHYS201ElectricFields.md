@@ -55,6 +55,12 @@ To get our modern world, **Conductors** — metals and other elements in which e
 
 See [[KBhPHYS201ConductorsEquilibrium]]
 
+## Gravity and Voltage
+
+In addition to the measurements of field strength with $\frac{N}{C}$, there is a unit called Volts ($V$), measuring the amount of energy in an electric field.
+
+See [[KBhPHYS201Voltage]]
+
 ## An now, something interesting
 Take, a neutral conductor.
 

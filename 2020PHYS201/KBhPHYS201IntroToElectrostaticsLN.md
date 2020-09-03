@@ -1,5 +1,5 @@
 ---
-title: Introduction to Electrostatics
+title: Electrostatics Index
 course: PHYS201
 author: Houjun Liu
 source: KBPhysicsMasterIndex
