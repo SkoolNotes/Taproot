@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ Span301 }
-\newcommand{\thelesson}{ Spanish 3 Master Index }
+\newcommand{\thecourse}{ SPAN301 }
+\newcommand{\thelesson}{ Pains and Feelings }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -163,24 +163,82 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{}{} }
+\ifthenelse{ \equal{KB20200824124831}{} }
 {}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KB20200824124831}{\tiny\textulf{[[}\textbf{KB20200824124831}\textulf{]]}}}
 
-\hypertarget{day-1}{%
-\section{Day 1}\label{day-1}}
+\hypertarget{pains-and-feelings}{%
+\section{Pains and feelings}\label{pains-and-feelings}}
+
+\textbf{¿Como te sientes?}
+
+\hypertarget{to-feel}{%
+\subsection{To Feel\ldots{}}\label{to-feel}}
 
 \begin{itemize}
 \tightlist
 \item
-  Class expectations and future topics for semester 1.
-  {[}{[}KB20200824175405{]}{]}
+  Sentir (to feel) e=\textgreater ie
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Siento
+  \end{itemize}
 \item
-  Getting started with William, Sem. 1 {[}{[}KBhSPAN301SpanD1{]}{]}
+  Doler (to hurt) --- \textbf{notice! follows \emph{gustar} rules}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A mí, me duele \emph{la} muela (``to me, my teeth hurts me'')
+  \item
+    A mí, me duele \emph{la} cabeza (``to me, my heads hurts me'')
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{these-things}{%
+\subsection{These things\ldots{}}\label{these-things}}
+
+Estar\ldots{}
+
+\begin{itemize}
+\tightlist
 \item
-  El Preterito {[}{[}KBhSPAN301Preterito{]}{]}
+  Mareado =\textgreater{} dizzy
 \item
-  Feeling. Pains, etc. {[}{[}KBhSPAN301PainsAndFeeling{]}{]}
+  Resfriado =\textgreater{} cold
+\item
+  Cansado =\textgreater{} tired
+\item
+  Pálido =\textgreater{} pale
+\item
+  Enfermo =\textgreater{} sick
+\end{itemize}
+
+\hypertarget{colloquial-expressions-for-to-not-look-well}{%
+\subsubsection{Colloquial expressions for ``to not look
+well''}\label{colloquial-expressions-for-to-not-look-well}}
+
+\begin{itemize}
+\tightlist
+\item
+  Tener mala cara
+\item
+  Tener mala pinta
+\item
+  Tener mal aspecto
+\end{itemize}
+
+\hypertarget{express-what-to-do}{%
+\subsection{Express what to do}\label{express-what-to-do}}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Deber + inf} =\textgreater{} You gotta
+\item
+  \emph{Necesitas + inf} =\textgreater{} You need to
 \end{itemize}
 
 \end{document}

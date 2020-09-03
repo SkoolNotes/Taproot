@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -182,7 +184,7 @@ close reading paragraph.
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \hypertarget{going-to-the-bakery}{%
-\section{\texorpdfstring{\[Going\ to\ the\ Bakery\]}{Going\textbackslash{} to\textbackslash{} the\textbackslash{} Bakery}}\label{going-to-the-bakery}}
+\section{\texorpdfstring{\(Going\ to\ the\ Bakery\)}{Going\textbackslash{} to\textbackslash{} the\textbackslash{} Bakery}}\label{going-to-the-bakery}}
 
 \hypertarget{elizabeth-bishop}{%
 \paragraph{\texorpdfstring{\emph{\(Elizabeth\ Bishop\)}}{Elizabeth\textbackslash{} Bishop}}\label{elizabeth-bishop}}
@@ -238,7 +240,7 @@ Cachaca = strong alcoholic beverage
   \end{itemize}
 \end{itemize}
 
-Doesn't acknowledge humanity though lack of true communication
+Doesn't acknowledge humanity through lack of true communication
 
 Excuse -- gives money, yet still doesn't recognize humanity.
 
@@ -252,29 +254,52 @@ Invisible Side
 Dying, flaccid toy balloons
 \end{quote}
 
-= Dying promise. Irridesacne reflects idea?
+= Dying promise. Figurative: Iridescence reflects idea?
 
 \begin{verbatim}
 \end{verbatim}
 
 \hypertarget{thesisbrainstorming}{%
-\subsection{\texorpdfstring{\[Thesis/Brainstorming:\]}{Thesis/Brainstorming:}}\label{thesisbrainstorming}}
+\subsection{\texorpdfstring{\(Thesis/Brainstorming:\)}{Thesis/Brainstorming:}}\label{thesisbrainstorming}}
 
-\begin{verbatim}
-\end{verbatim}
+\sout{The ``black man'' is not recognized by the speaker or the society
+as human, only}
 
-The ``black man'' is not recognized by the speaker or the society as
-human, only
-
-The speakers offhanded treatment of the ``black man'' represents the
-colonialism relationship to the colonialize
+\sout{The speakers offhanded treatment of the ``black man'' represents
+the colonialists relationship to the colonized}
 
 The speakers off-handed treatment of the ``black man'' represents the
 dismissal of the colonized persons humanity.
 
-Theme: false promises
+\begin{quote}
+Black, invisible side
+\end{quote}
+
+Not recognized by the society or the speaker
+
+\begin{quote}
+He speaks in perfect gibberish
+\end{quote}
+
+Speaks, but his words are viewed as holding no meaning.
+
+Giving the money isn't actually helpful but a \emph{symbol} of
+helpfulness. It's habit. The speaker is not engaging in true
+interaction, not acknowledging the humanity of the ``black man.''
+
+\begin{quote}
+Say `Good Night' from force of habit. Oh, mean habit! Not one word more
+apt or bright? ``Good Night'' is completely incorrect. Said out of
+habit, again, not acknowledging the humanity of the black man.
+\end{quote}
+
+\hypertarget{theme-false-promises}{%
+\paragraph{Theme: false promises}\label{theme-false-promises}}
 
 Reflected in flaccid balloons, government to people, and colonialists to
 colonized
+
+\#todo : ask Alexa how this relates and whether or not to incorporate
+it.
 
 \end{document}

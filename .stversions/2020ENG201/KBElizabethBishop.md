@@ -59,7 +59,7 @@ Excuse --  gives money, yet still doesn't recognize humanity.
 
 > Dying, flaccid toy balloons
 
-= Dying promise. Irridescane reflects idea? 
+= Dying promise. Irridesacne reflects idea? 
 
 ```
 ```
