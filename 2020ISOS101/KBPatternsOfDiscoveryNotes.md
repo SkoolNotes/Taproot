@@ -49,6 +49,37 @@ Disability to prove / disprove via experiment
 
 
 
+```
+```
+## $$Discussion\ Point:$$ 
+```
+```
+
+
+I may be interpreting this paper incorrectly, but it seems to me that they are defining 'seeing' as a synonym to 'perception.' If not, where does the line between 'seeing' and 'perception' fall? If so, what is the point of their definition of 'seeing?' Doesn't defining it this way just reduce meaning? Isn't the point of having both the words 'seeing' and 'perception' to be able to draw a distinction between them? 
+
+Also, on page 15, the author practically equates seeing to knowledge. I wonder if they have ever read Theaetetus...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
