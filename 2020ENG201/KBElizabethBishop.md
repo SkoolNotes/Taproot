@@ -140,7 +140,7 @@ Author uses x and y to convey the overarching theme of false promises, which was
 
 - Topic Sentence / Thesis
 	- Elizabeth Bishop uses symbolism to convey the overarching themes of false promises and deflated optimism, two immensely prominent cultural feelings at the time of writing. 
-	- Elizabeth Bishop ... 
+	- Elizabeth Bishop conveys 
 false promises, deflated optimism 
 - Context
 	- Coup
