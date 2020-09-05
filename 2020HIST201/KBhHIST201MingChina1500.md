@@ -30,5 +30,8 @@ See Zheng He + Seafaring [[KBhHIST201ZhengHeSeafaring]]
 
 Also the link above details **some reasons why China closed its trade route**.
 
+## Economic Corruption
+See [[KBhHIST201ChinasDecline1500]] China's Economic Decline in the 1500s
+
 ## China's Woes
 See [[KBhHIST201ChinaWoes1500]]China's Woes in the 1500s

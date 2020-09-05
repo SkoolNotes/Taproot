@@ -14,3 +14,5 @@ From this sudden decrease in price, other things kept happening:
 
 1. "The cost of living doubled in Europe in the last half of the 16th century."
 2. Wages did not keep pace with the boom, so people started mutinies
+
+Oh, right, this decrease in the price of silver also coincided with China's increased demand for silver, leading to [[KBhHIST201ChinasDeclineWRTCurrency]] China's Decline w.r.t. Currency.

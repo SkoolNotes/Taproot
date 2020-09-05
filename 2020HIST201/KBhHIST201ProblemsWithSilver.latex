@@ -6,6 +6,9 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -160,10 +163,6 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{KBhHIST201HomogenosceneLN}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhHIST201HomogenosceneLN}{\tiny\textulf{[[}\textbf{KBhHIST201HomogenosceneLN}\textulf{]]}}}
-
 Silver, given it's original value, is a highly valuable metal. However,
 the wonderféul ``American Silver'', in Mann's words
 
@@ -188,5 +187,10 @@ From this sudden decrease in price, other things kept happening:
 \item
   Wages did not keep pace with the boom, so people started mutinies
 \end{enumerate}
+
+Oh, right, this decrease in the price of silver also coincided with
+China's increased demand for silver, leading to
+{[}{[}KBhHIST201ChinasDeclineWRTCurrency{]}{]} China's Decline w.r.t.
+Currency.
 
 \end{document}
