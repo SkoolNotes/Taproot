@@ -6,7 +6,7 @@ source: #index
 ---
 
 * [[KBhPHYS201GettingStarted]] Getting started with Physics
-* [[KBhPHYS201IntroToElectrostaticsLN]] Intro to Electrostatics
+* [[KBhPHYS201IntroToElectrostaticsLN]] Heart of Electrostatics
 * [[KB20200825090600]] Physics day 1
 * [[KBRemoteRollingBall]]
 * [[KBVectorIntro]]
