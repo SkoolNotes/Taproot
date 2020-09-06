@@ -88,11 +88,14 @@
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
               let docPointer = x.match(/KB(\w)*/)[0];
-              console.log(docPointer);
               let url = `https://taproot.shabang.cf/relay?request=${docPointer}`;
               return `<a href="${url}"><span>[[</span><span>${docPointer}</span><span>]]</span></a>`;
           })
           $("#center-viewport").html(content);
+          $("img").each(function() {  
+              let src = this.src;
+              $(this).attr("src", src.replace(/\/Users\/houliu\/Documents\/School Work\/2020-2021\/KnowledgeBase\//, "https://taproot.shabang.cf/"));
+          });
       });
   </script>
 </body>
