@@ -7,7 +7,7 @@ HTML=$(MARKDOWN:.md=.html)
 LATEX=$(MARKDOWN:.md=.latex)
 TAG=$(firstword $(subst ., ,$(lastword $(subst /, ,$1))))
 SUBJECT=$(firstword $(subst /, ,$1))
-TARGET=$(subst md,pdf,$1)
+TARGET=$(subst md,html,$1)
 
 .PHONY = all tar clean cleanindx cleanassets
 
