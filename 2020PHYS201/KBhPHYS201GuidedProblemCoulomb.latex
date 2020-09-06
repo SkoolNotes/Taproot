@@ -6,6 +6,9 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -160,10 +163,8 @@ Coloumb's law }
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBhPHYS201ColoumbsLaw}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhPHYS201ColoumbsLaw}{\tiny\textulf{[[}\textbf{KBhPHYS201ColoumbsLaw}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhPHYS201ColoumbsLaw}{\tiny\textulf{[[}\textbf{KBhPHYS201ColoumbsLaw}\textulf{]]}}}\thinspace
 
 \hypertarget{and-now-a-guided-problem-solve}{%
 \section{And now, a Guided Problem

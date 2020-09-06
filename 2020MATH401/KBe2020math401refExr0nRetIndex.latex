@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -160,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBe2020math401index}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBe2020math401index}{\tiny\textulf{[[}\textbf{KBe2020math401index}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBe2020math401index}{\tiny\textulf{[[}\textbf{KBe2020math401index}\textulf{]]}}}\thinspace
 
 \begin{longtable}[]{@{}rll@{}}
 \toprule

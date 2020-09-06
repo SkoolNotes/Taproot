@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -160,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBe2020bio101refMacromolecules}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBe2020bio101refMacromolecules}{\tiny\textulf{[[}\textbf{KBe2020bio101refMacromolecules}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBe2020bio101refMacromolecules}{\tiny\textulf{[[}\textbf{KBe2020bio101refMacromolecules}\textulf{]]}}}\thinspace
 
 \hypertarget{chonps}{%
 \subsection{CHONPS}\label{chonps}}

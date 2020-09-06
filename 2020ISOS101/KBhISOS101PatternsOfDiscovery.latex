@@ -162,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBISOSMasterIndex}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBISOSMasterIndex}{\tiny\textulf{[[}\textbf{KBISOSMasterIndex}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBISOSMasterIndex}{\tiny\textulf{[[}\textbf{KBISOSMasterIndex}\textulf{]]}}}\thinspace
 
 \hypertarget{patterns-of-discovery}{%
 \section{Patterns of Discovery}\label{patterns-of-discovery}}

@@ -6,6 +6,9 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -159,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{00-Topic-KB20200823220525}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=00-Topic-KB20200823220525}{\tiny\textulf{[[}\textbf{00-Topic-KB20200823220525}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=00-Topic-KB20200823220525}{\tiny\textulf{[[}\textbf{00-Topic-KB20200823220525}\textulf{]]}}}\thinspace
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

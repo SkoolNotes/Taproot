@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -160,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBhHIST201LittleIceAge}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhHIST201LittleIceAge}{\tiny\textulf{[[}\textbf{KBhHIST201LittleIceAge}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201LittleIceAge}{\tiny\textulf{[[}\textbf{KBhHIST201LittleIceAge}\textulf{]]}}}\thinspace
 
 \hypertarget{why-the-little-ice-age-happened}{%
 \section{Why the Little Ice Age

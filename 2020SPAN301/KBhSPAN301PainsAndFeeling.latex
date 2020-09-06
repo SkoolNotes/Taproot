@@ -162,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KB20200824124831}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KB20200824124831}{\tiny\textulf{[[}\textbf{KB20200824124831}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KB20200824124831}{\tiny\textulf{[[}\textbf{KB20200824124831}\textulf{]]}}}\thinspace
 
 \hypertarget{pains-and-feelings}{%
 \section{Pains and feelings}\label{pains-and-feelings}}

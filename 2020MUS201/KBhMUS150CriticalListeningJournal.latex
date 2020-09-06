@@ -162,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBhMUS150D1}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhMUS150D1}{\tiny\textulf{[[}\textbf{KBhMUS150D1}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhMUS150D1}{\tiny\textulf{[[}\textbf{KBhMUS150D1}\textulf{]]}}}\thinspace
 
 \hypertarget{section}{%
 \section{08252020}\label{section}}

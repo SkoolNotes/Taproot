@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -160,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KB20200825141913}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KB20200825141913}{\tiny\textulf{[[}\textbf{KB20200825141913}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KB20200825141913}{\tiny\textulf{[[}\textbf{KB20200825141913}\textulf{]]}}}\thinspace
 
 \hypertarget{documents}{%
 \section{Documents}\label{documents}}

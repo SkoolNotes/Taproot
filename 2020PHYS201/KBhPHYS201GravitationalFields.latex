@@ -6,6 +6,9 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -160,10 +163,8 @@ Gravitation }
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBhPHYS201IntroToElectrostaticsLN}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhPHYS201IntroToElectrostaticsLN}{\tiny\textulf{[[}\textbf{KBhPHYS201IntroToElectrostaticsLN}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhPHYS201IntroToElectrostaticsLN}{\tiny\textulf{[[}\textbf{KBhPHYS201IntroToElectrostaticsLN}\textulf{]]}}}\thinspace
 
 \hypertarget{lets-talk-about-gravitational-fields}{%
 \section{Let's talk about Gravitational

@@ -6,6 +6,9 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -159,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KB20200823163139}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KB20200823163139}{\tiny\textulf{[[}\textbf{KB20200823163139}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KB20200823163139}{\tiny\textulf{[[}\textbf{KB20200823163139}\textulf{]]}}}\thinspace
 
 \hypertarget{intro}{%
 \section{Intro}\label{intro}}
@@ -293,11 +294,11 @@ we are. Be critical of why stuff matters.
   \end{itemize}
 \end{itemize}
 
-My in Class stuff dw about it Guedlines: - Military power - Relative
+My in Class stuff dw about it Guidelines: - Military power - Relative
 power of allies - Power over people of the country - Economic power -
 Other countries economic dependence
 
-Machievelle stuff - Fear and love of a government are comparable when it
+Machevellie stuff - Fear and love of a government are comparable when it
 comes to power over one's people. However, he argues that fear might be
 even stronger.
 

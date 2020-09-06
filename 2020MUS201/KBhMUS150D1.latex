@@ -162,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KbMUS150INDEX}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KbMUS150INDEX}{\tiny\textulf{[[}\textbf{KbMUS150INDEX}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KbMUS150INDEX}{\tiny\textulf{[[}\textbf{KbMUS150INDEX}\textulf{]]}}}\thinspace
 
 \hypertarget{critical-listening}{%
 \section{Critical Listening}\label{critical-listening}}

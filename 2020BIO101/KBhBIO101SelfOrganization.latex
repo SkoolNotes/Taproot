@@ -6,6 +6,9 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -159,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBhBIO101WhatsLife}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhBIO101WhatsLife}{\tiny\textulf{[[}\textbf{KBhBIO101WhatsLife}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101WhatsLife}{\tiny\textulf{[[}\textbf{KBhBIO101WhatsLife}\textulf{]]}}}\thinspace
 
 Very simple structures, or ``automations'', to life causes complicated
 effects and massive systems.

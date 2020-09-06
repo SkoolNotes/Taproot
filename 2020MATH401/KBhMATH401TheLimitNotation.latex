@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -161,10 +163,8 @@ Limits }
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBhMATH401Limits}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhMATH401Limits}{\tiny\textulf{[[}\textbf{KBhMATH401Limits}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhMATH401Limits}{\tiny\textulf{[[}\textbf{KBhMATH401Limits}\textulf{]]}}}\thinspace
 
 \hypertarget{the-limit-notation}{%
 \section{The Limit Notation}\label{the-limit-notation}}

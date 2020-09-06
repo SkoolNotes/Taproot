@@ -6,6 +6,9 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -160,10 +163,8 @@ Imperialism }
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBhENG201AlexaD1}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhENG201AlexaD1}{\tiny\textulf{[[}\textbf{KBhENG201AlexaD1}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhENG201AlexaD1}{\tiny\textulf{[[}\textbf{KBhENG201AlexaD1}\textulf{]]}}}\thinspace
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi})}
