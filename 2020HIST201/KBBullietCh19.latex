@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Bio Day One }
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Bulliet Chapter 19 }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -163,19 +163,32 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-Tripp talking about his life \textbar{} \textbar{} \textbar{} \textbar{}
-\textbar{} \textbar{} Still goin\ldots. \textbar{} \textbar{} \textbar{}
-\textbar{} \textbar{} uhm. \textbar{} \textbar{} \textbar{} \textbar{}
-talking about English\ldots.
+\#flo
 
-jesus
+\begin{verbatim}
+\end{verbatim}
 
-art bio food and hobby
+\hypertarget{southwest-asia-and-the-indian-ocean}{%
+\section{\texorpdfstring{\[Southwest\ Asia\ and\ the\ Indian\ Ocean\]}{Southwest\textbackslash{} Asia\textbackslash{} and\textbackslash{} the\textbackslash{} Indian\textbackslash{} Ocean}}\label{southwest-asia-and-the-indian-ocean}}
 
-ok now I understand why the other day one note didn't have any content
+\begin{itemize}
+\tightlist
+\item
+  The Ottoman Empire
+\item
+  The Safavid Empire
+\item
+  The Mughal Empire
+\item
+  Trade empires in the Indian ocean
+\end{itemize}
+
+Yeah!
+
+Sorry\ldots{} not much here\ldots{}
 
 \end{document}

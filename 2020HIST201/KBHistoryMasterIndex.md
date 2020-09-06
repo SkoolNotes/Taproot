@@ -27,6 +27,8 @@ source: #index
 * Textbook models of History [[KBhHIST201HistModHist]]
 * Mann, Ming
     * Jack — [[KBhHIST201MannMing]]
+* Bulliet 19 
+	* Huxley: [[KBBullietCh19]]
 
 ## Meta References
 - [[20hist201refTechniques]]
