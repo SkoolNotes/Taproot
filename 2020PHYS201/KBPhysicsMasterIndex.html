@@ -26,6 +26,8 @@
     }
 
     img {
+        max-height: 40vh;
+        width: auto;
         max-width: 100%;
     }
 
@@ -93,8 +95,9 @@
           })
           $("#center-viewport").html(content);
           $("img").each(function() {  
-              let src = this.src;
-              $(this).attr("src", src.replace(/\/Users\/houliu\/Documents\/School Work\/2020-2021\/KnowledgeBase\//, "https://taproot.shabang.cf/"));
+              let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+              console.log(src);
+              $(this).attr("src", src);
           });
       });
   </script>
