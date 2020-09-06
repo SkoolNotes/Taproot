@@ -120,9 +120,14 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/KB(\w)*/)[0];
-              let url = `https://taproot.shabang.cf/relay?request=${docPointer}`;
-              return `<a href="${url}"><span>[[</span><span>${docPointer}</span><span>]]</span></a>`;
+              let docPointer = x.match(/KB(\w)*/);
+              if (docPointer) {
+                  let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                  return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+              } else {
+                  console.log(`Cannot parse , returning...`);
+                  return x;
+              }
           })
           $("#center-viewport").html(content);
           $("img").each(function() {  
