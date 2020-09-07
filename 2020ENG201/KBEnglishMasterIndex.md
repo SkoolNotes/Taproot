@@ -44,3 +44,8 @@ Notes on `The I Is Never Alone` | [[KB2NotesonTheIIsNeverAlone]]
 _The I Is Never Alone_ + imperialism notes | [[KBe2020eng201floImperalismNotes]]
 _The Bird-Dreaming Baobab_ pass 0 | [[KBe2020eng201floBirdDreamingBaobab0.pdf]]
 
+## `module.exports` (ret index)
+| Author | Assignment | Link |
+|--------|------------|------|
+Exr0n | Csoe Reading Paragraph (Assessment #1) | [[exr0n20eng201retA1Index]]
+

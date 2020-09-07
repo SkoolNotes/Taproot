@@ -29,8 +29,7 @@ source: #index
 		* Huxley: [[KBBaobabNotes]]
 		- Exr0n
 	* Elizabeth Bishop Poems
-		* Huxley: [[KBElizabethBishop
-		* ]]
+		* Huxley: [[KBElizabethBishop]]
 * **Close Reading + Assessment 1** 
 	* [[KBhENG201CloseReading]]
 	* [[KBWhatIsCloseReading]]

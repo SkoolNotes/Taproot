@@ -18,7 +18,7 @@ source: KBe-2020math401-index
 4. [Demos Graph](20math401Marginal Cost)
 
 ## Terminology
-**(slide 13 is confusing)**, see questions.
+**(slide 13 is confusing**, see questions.**)**
 
 ## Limits
 1. Eq $\frac{x^3-1}{x-1} \Rightarrow \{x^2+x+1 : x \neq 1\}$

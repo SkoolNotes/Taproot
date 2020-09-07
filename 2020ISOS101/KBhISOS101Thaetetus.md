@@ -25,3 +25,18 @@ source: KBISOSMasterIndex
 > Then knowledge is to be found not in the experiences but in the process of reasoning about them; it is here, seemingly, not in the experiences, that it is possible to grasp being and truth.
 
 * So… True judgments with evidence to support it => knowledge
+
+## Definitions of Knowledge
+
+### Perception
+- Objection:
+	- Crazy people + dreams
+	- If people mis-see things then it's not quite knowledge
+
+### True judgement is knowledge
+- Objection
+	- to decide whether judgement is true comes from knowledge and therefore this is a circular definition
+
+### A true judgement with an account
+- account: an argument or line of reasoning
+	- Objection: same as above

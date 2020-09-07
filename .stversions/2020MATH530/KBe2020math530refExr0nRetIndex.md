@@ -5,6 +5,8 @@ author: Exr0n
 source: #index
 ---
 
+Flow index: [[KBe2020math530floIndex]]
+
 | Due Date | Link |
 |----------|------|
 2020-08-27 | [[KBe2020math530retPracticeMultiplyMatrixIdentfyGroups]]
