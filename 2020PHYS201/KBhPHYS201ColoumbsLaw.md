@@ -1,7 +1,7 @@
 ---
 title: Coloumb's Law
 author: Houjun Liu
-course: HIST201
+course: PHYS201
 source: KBhPHYS201IntroToElectrostaticsLN
 ---
 
