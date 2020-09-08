@@ -36,7 +36,7 @@ source: KBe2020math530floIndex
 4. Determinant geometric interpretation?
 	- It's the perpendicular! IF you crossproduct-ify
 	- $\begin{bmatrix}x\\y\end{bmatrix}\Rightarrow\left|\begin{bmatrix}i&j\\x&y\end{bmatrix}\right| = iy-jx = \begin{bmatrix}y\\-x\end{bmatrix}$
-## Taking the Determinant
+## Taking the Determinant (why +-+-?)
 - We take the sub-matrices on a torus
 	- But if you wrap everything around properly then you have a plus in front of every coefficient
 	- But if you don't wrap it, then the determinant ends up being the negative, so that's why there's the whole plus minus thing.
