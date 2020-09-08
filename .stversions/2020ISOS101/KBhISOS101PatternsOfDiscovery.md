@@ -25,5 +25,3 @@ Existence of two perspectives possible (_duh_) even when presented to the same i
 * One could be "blind" to a geometric image if background knowledge not introduced
 
 Seeing: *observation of x … shaped by prior knowledge of x*.
-
-

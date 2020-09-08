@@ -83,7 +83,10 @@
       <li><p>View through the Colonizer</p></li>
       <li><p>“Written by the victors”</p></li>
       </ul>
-      <p><a href="https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/literary_theory_and_schools_of_criticism/">The Various Lit Theories</a> ## Congo’s Colonial History ### A timeline! <span>[</span>Timeline<span>]</span><span>[</span>./Screen Shot 2020-09-08 at 2.00.47 PM<span>]</span></p>
+      <p><a href="https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/literary_theory_and_schools_of_criticism/">The Various Lit Theories</a></p>
+      <h2 id="congos-colonial-history">Congo’s Colonial History</h2>
+      <h3 id="a-timeline">A timeline!</h3>
+      <p><img src="Screen Shot 2020-09-08 at 2.00.47 PM.png" alt="image" /></p>
       <h3 id="some-background-on-the-congo-free-state">Some background on the Congo Free State</h3>
       <p>Copypasta in 3… 2… 1…</p>
       <p>#disorganized</p>
@@ -94,6 +97,7 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+              <!--let docPointer = x.match(/(\w)*/);-->
               let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
