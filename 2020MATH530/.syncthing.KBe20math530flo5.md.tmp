@@ -26,4 +26,10 @@ source: KBe2020math530floIndex
 	- A has no inverse
 	$\begin{matrix}$
 
+## Proof Attempt Discussion Page?
+
+## Small Groups
+1. Calculate cross products
+2. Graph cross products
+
 ---
