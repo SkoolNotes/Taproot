@@ -32,8 +32,9 @@ source: KBe2020math530floIndex
 2. Graph cross products
 3. Cross Product geometry?
 	- It's the perpendicular!
-1. Determinant geometric interpretation?
+4. Determinant geometric interpretation?
 	- It's the perpendicular! IF you crossproduct-ify
 	- $\begin{bmatrix}x\\y\end{bmatrix}\Rightarrow\left|\begin{bmatrix}i&j\\x&y\end{bmatrix}\right| = iy-jx = \begin{bmatrix}y\\-x\end{bmatrix}$
+	- $\begin{sketch}$
 
 ---
