@@ -27,14 +27,13 @@ source: #index
 	* **Baobab + Colonialism**
 		* Huxley: [[KBColonialismShortStory]]
 		* Huxley: [[KBBaobabNotes]]
-		- Exr0n [[20eng201floBaobabDebrief]]
+		- Exr0n
 	* Elizabeth Bishop Poems
 		* Huxley: [[KBElizabethBishop]]
 * **Close Reading + Assessment 1** 
 	* [[KBhENG201CloseReading]]
 	* [[KBWhatIsCloseReading]]
 	* [[KBhENG201CloseReadingAss1]]
-	- Exr0n [[KBe20eng201retA1index]]
 * Thoughts on Imperialism and Colonialism 
 	* [[KBhENG201ImperialismColonialism]]
   
@@ -44,4 +43,9 @@ source: #index
 Notes on `The I Is Never Alone` | [[KB2NotesonTheIIsNeverAlone]]
 _The I Is Never Alone_ + imperialism notes | [[KBe2020eng201floImperalismNotes]]
 _The Bird-Dreaming Baobab_ pass 0 | [[KBe2020eng201floBirdDreamingBaobab0.pdf]]
+
+## `module.exports` (ret index)
+| Author | Assignment | Link |
+|--------|------------|------|
+Exr0n | Csoe Reading Paragraph (Assessment #1) | [[exr0n20eng201retA1Index]]
 
