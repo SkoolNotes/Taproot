@@ -8,4 +8,8 @@ source: KBe2020math530floIndex
 ## Participation
 - Unmute yourself
 
+## Is Dot Product Nice?
+- From homework [[20math530retReadingTheTextbook]]
+- Nice = group properties
+
 ---
