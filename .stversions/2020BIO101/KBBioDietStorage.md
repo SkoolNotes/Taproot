@@ -4,7 +4,9 @@ author: Huxley
 course: BIO101
 source: #index
 ---
-### One
+
+
+# Tustard 
 > Phenylalanine 78.88388243566993%
 Valine 100.18798061274833%
 Leucine 94.51699130818912%
@@ -20,10 +22,7 @@ Histidine 98.34293136523347%
 > 1. 150.891598g Turkey Sausage
 > 2. 75.102569g Mustard
 
-
-
-
-
+### 
 > Phenylalanine 81.2080685572291%
 Valine 124.11991193514258%
 Leucine 94.13009551708133%
