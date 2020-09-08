@@ -35,13 +35,17 @@ Methionine 76.60724610188446%
 Histidine 93.59079200960244%
 ```
 ```
-Diet 
-> 205.162743g broccoli
-90.416268g mustard
-369.057053g butter stick
-16.536808g whole milk
-161.597425g whole eggs
+> Diet List:
+> 1. 205.162743g broccoli
+> 2. 90.416268g mustard
+> 3. 369.057053g butter stick
+> 4 16.536808g whole milk
+> 5. 161.597425g whole eggs
 
+
+hello
+there
+my 
 
 
 
