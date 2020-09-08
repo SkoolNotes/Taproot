@@ -37,6 +37,8 @@ source: #index
 	- Exr0n [[KBe20eng201retA1index]]
 * Thoughts on Imperialism and Colonialism 
 	* [[KBhENG201ImperialismColonialism]]
+* **Heart of Darkness**
+    * [[KBhENG201HeartOfHardness]] Heart of Darkness Index 
   
 ## Annotated Docs
 | | |

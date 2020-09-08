@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -160,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
 \#source
 
@@ -241,7 +241,7 @@
     \item
       Huxley: {[}{[}KBBaobabNotes{]}{]}
     \item
-      Exr0n
+      Exr0n {[}{[}20eng201floBaobabDebrief{]}{]}
     \end{itemize}
   \item
     Elizabeth Bishop Poems
@@ -263,6 +263,8 @@
     {[}{[}KBWhatIsCloseReading{]}{]}
   \item
     {[}{[}KBhENG201CloseReadingAss1{]}{]}
+  \item
+    Exr0n {[}{[}KBe20eng201retA1index{]}{]}
   \end{itemize}
 \item
   Thoughts on Imperialism and Colonialism

@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 20math530 }
-\newcommand{\thelesson}{ Flo Index }
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,15 +162,18 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-Homework index: {[}{[}KBe2020math530refExr0nRetIndex{]}{]}
+\begin{longtable}[]{@{}l@{}}
+\toprule
+\endhead
+title: Heart of Darkness (index)\tabularnewline
+source: KBEnglishMasterIndex\tabularnewline
+author: Houjun Liu\tabularnewline
+course: ENG201\tabularnewline
+\bottomrule
+\end{longtable}
 
-{[}{[}KBe2020math530flo1{]}{]} {[}{[}KBe2020math530flo2{]}{]}
-{[}{[}KBe2020math530flo3{]}{]} {[}{[}KBe20math530flo4{]}{]}
-{[}{[}KBe20math530flo5{]}{]}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{heart-of-darkness}{%
+\section{Heart of Darkness}\label{heart-of-darkness}}
 
 \end{document}
