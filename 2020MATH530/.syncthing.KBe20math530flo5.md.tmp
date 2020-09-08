@@ -31,6 +31,9 @@ source: KBe2020math530floIndex
 1. Calculate cross products
 2. Graph cross products
 3. Cross Product geometry?
-4. Determinant geometric interpretation?
+	- It's the perpendicular!
+1. Determinant geometric interpretation?
+	- It's the perpendicular! IF you crossproduct-ify
+	- $\
 
 ---
