@@ -2,7 +2,7 @@
 title: Bio Diet Storage 
 author: Huxley 
 course: BIO101
-source: #index
+source: KBe20bio201retDietFinderIndex
 ---
 
 > Phenylalanine 78.88388243566993%
@@ -24,7 +24,21 @@ Histidine 98.34293136523347%
 
 
 
+Phenylalanine 81.2080685572291%
+Valine 124.11991193514258%
+Leucine 94.13009551708133%
+Isoleucine 121.33660481656196%
+Lysine 98.99885464164082%
+Threonine 117.22718754701687%
+Tryptophan 136.44759141786292%
+Methionine 76.60724610188446%
+Histidine 93.59079200960244%
 
+205.162743g broccoli
+90.416268g mustard
+369.057053g butter stick
+16.536808g whole milk
+161.597425g whole eggs
 
 
 
