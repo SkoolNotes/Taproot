@@ -42,7 +42,7 @@ Histidine 93.59079200960244%
 > 5. 161.597425g whole eggs
 
 
-# 
+# The Magic School Bus
 > Phenylalanine 87.91268936156915 %
 Valine 105.08684737010394 %
 Leucine 89.98724371665506 %
