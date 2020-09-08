@@ -73,29 +73,29 @@
       <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhPHYS201ElectricFields"><span><strong>[[</strong></span><strong>KBhPHYS201ElectricFields</strong><span><strong>]]</strong></span></a></span></p>
       <p>From this note, I am assuming that you have read <span>[</span><span>[</span>KBhPHYS201IllustratingElectricFields<span>]</span><span>]</span> Illustrating electric fields.</p>
       <p>Imagine if we had… Well… Lot’s of vectors:</p>
-      <p><img src="./2020PHYS201/Screen Shot 2020-08-24 at 9.01.47 PM.png" alt="image" /></p>
+      <p><img src="./Screen Shot 2020-08-24 at 9.01.47 PM.png" alt="image" /></p>
       <p>In this diagram, A + B are both positive. The diagram, now, shows <em>both</em> electric field vectors for A and B. Take, for instance,</p>
-      <p>This tidbit: <img src="./2020PHYS201/Screen Shot 2020-08-24 at 9.04.52 PM.png" alt="image" /></p>
+      <p>This tidbit: <img src="./Screen Shot 2020-08-24 at 9.04.52 PM.png" alt="image" /></p>
       <p>If we connected it back to A and B, you will get:</p>
-      <p><img src="./2020PHYS201/Screen Shot 2020-08-24 at 9.05.26 PM.png" alt="image" /></p>
+      <p><img src="./Screen Shot 2020-08-24 at 9.05.26 PM.png" alt="image" /></p>
       <p>As you could see, the force from B is smaller because the point is farther away from B.</p>
       <p>Ok, now, let’s see the <em>net</em> electric field by adding all of these vectors up:</p>
-      <p><img src="./2020PHYS201/Screen Shot 2020-08-24 at 9.07.26 PM.png" alt="image" /></p>
+      <p><img src="./Screen Shot 2020-08-24 at 9.07.26 PM.png" alt="image" /></p>
       <p>Nice! You are, at this point, hopefully seeing something of a symmetry. Remember how we had two ways of drawing an electric field? That</p>
       <ol>
       <li><p>You choose to draw an infinite amount of vectors, or</p></li>
       <li><p>You draw lines from the center of each element outwards, connecting all the vectors</p></li>
       </ol>
       <p>If we do option 2, you see this lovely image:</p>
-      <p><img src="./2020PHYS201/Screen Shot 2020-08-24 at 9.10.52 PM.png" alt="image" /></p>
+      <p><img src="./Screen Shot 2020-08-24 at 9.10.52 PM.png" alt="image" /></p>
       <p>Please, be also reminded of the fact that the world is 3D, making the diagram more like this:</p>
-      <p><img src="./2020PHYS201/Screen Shot 2020-08-24 at 9.24.48 PM.png" alt="image" /></p>
+      <p><img src="./Screen Shot 2020-08-24 at 9.24.48 PM.png" alt="image" /></p>
       <p>Great. Lastly there are other possible configurations of charges apart from positive-positive, and they are as follows:</p>
-      <p><img src="./2020PHYS201/Screen Shot 2020-08-24 at 9.25.58 PM.png" alt="image" /></p>
+      <p><img src="./Screen Shot 2020-08-24 at 9.25.58 PM.png" alt="image" /></p>
       <p>As you could see. There is a lovely point (yes, it’s actually a point, but people are lazy and don’t to draw, say <em>infinite</em> field lines) in the middle of Neg-Neg and Pos-Pos electric field graphs with a lovely hole. At that hole, the field value is 0.</p>
       <p>(Thanks Mr. Valdez!)</p>
       <p>Here’s a gallery of electric fields with unequal changes:</p>
-      <p><img src="./2020PHYS201/Screen Shot 2020-08-24 at 9.28.56 PM.png" alt="image" /></p>
+      <p><img src="./Screen Shot 2020-08-24 at 9.28.56 PM.png" alt="image" /></p>
       <p>As you could see, the higher amount of field lines, the higher is the strengths. If each charge’s field “bends” towards the other, (i.e. particles that go <em>AAAAA I AM GOING TO OVERTAKE THE OTHER PARTICLE’S FIELD LINES</em>)</p>
       <p>However, here’s something that you should probably remember:</p>
       <p><strong>Whenever we are analyzing charge fields of multiple changes “together”, remember that we are analyzing the NET electric field.</strong> <em>Each individual change does NOT feel its own field.</em></p>
@@ -106,7 +106,6 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              <!--let docPointer = x.match(/(\w)*/);-->
               let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
