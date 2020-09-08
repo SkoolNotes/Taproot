@@ -1,6 +1,6 @@
 SHELL := /bin/zsh
 # Find all markdown files
-MARKDOWN=$(shell find . -iname "KB*.md" | grep -v ".stversions")
+MARKDOWN=$(shell find . -iname "KB*.md" | grep -v ".stversions" | grep -v "sync-conflict")
 # Form all 'html' counterparts
 PDF=$(MARKDOWN:.md=.pdf)
 HTML=$(MARKDOWN:.md=.html)
@@ -33,13 +33,13 @@ flush:
 	perl -pi -e 's/title: //g' indxtable.html
 
 %.latex: %.md
-	pandoc -f markdown -t latex $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.latex
+	pandoc --filter pandoc-img-glob -f markdown -t latex $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.latex
 
 %.html: %.latex
-	pandoc -f latex -t html $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.html
+	pandoc --filter pandoc-img-glob -f latex -t html $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.html
 
 %.pdf: %.md
-	pandoc -f markdown -t pdf $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.latex
+	pandoc --filter pandoc-img-glob -f markdown -t pdf $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.latex
 
 tar: $(MARKDOWN)
 	tar --exclude=notes.tar.gz --exclude=.git/ -czvf notes.tar.gz ./

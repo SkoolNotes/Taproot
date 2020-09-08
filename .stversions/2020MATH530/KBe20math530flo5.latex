@@ -247,6 +247,8 @@ Page?}\label{proof-attempt-discussion-page}}
   \tightlist
   \item
     It's the perpendicular!
+  \item
+    \#bonushw its perpendicular
   \end{itemize}
 \item
   Determinant geometric interpretation?
@@ -256,9 +258,26 @@ Page?}\label{proof-attempt-discussion-page}}
   \item
     It's the perpendicular! IF you crossproduct-ify
   \item
-    \(\begin{bmatrix}x\\y\end|\begin{bmatrix}i&j\\x&y\end{bmatrix}\right| = iy-jx = \begin{bmatrix}y\\-x\end{bmatrix}\)
+    \(\begin{bmatrix}x\\y\end{bmatrix}\Rightarrow\left|\begin{bmatrix}i&j\\x&y\end{bmatrix}\right| = iy-jx = \begin{bmatrix}y\\-x\end{bmatrix}\)
+    \#\# Taking the Determinant
   \end{itemize}
 \end{enumerate}
+
+\begin{itemize}
+\tightlist
+\item
+  We take the sub-matrices on a torus
+
+  \begin{itemize}
+  \tightlist
+  \item
+    But if you wrap everything around properly then you have a plus in
+    front of every coefficient
+  \item
+    But if you don't wrap it, then the determinant ends up being the
+    negative, so that's why there's the whole plus minus thing.
+  \end{itemize}
+\end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

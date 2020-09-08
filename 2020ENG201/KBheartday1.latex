@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 20math530 }
-\newcommand{\thelesson}{ linalg flow 5 }
+\newcommand{\thecourse}{ ENG201 }
+\newcommand{\thelesson}{ Heart of Darkness Day One }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -163,122 +163,8 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBe2020math530floIndex}{\tiny\textulf{[[}\textbf{KBe2020math530floIndex}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\hypertarget{participation}{%
-\subsection{Participation}\label{participation}}
 
-\begin{itemize}
-\tightlist
-\item
-  Unmute yourself
-\end{itemize}
-
-\hypertarget{homework-review}{%
-\subsection{Homework Review}\label{homework-review}}
-
-\begin{itemize}
-\tightlist
-\item
-  From homework {[}{[}20math530retReadingTheTextbook{]}{]}
-\end{itemize}
-
-\hypertarget{is-dot-product-nice}{%
-\subsubsection{Is Dot Product Nice?}\label{is-dot-product-nice}}
-
-\begin{itemize}
-\tightlist
-\item
-  Nice = group properties
-
-  \begin{itemize}
-  \tightlist
-  \item
-    They aren't because its not closed
-  \item
-    However, we still like dot product because it can easily tell us if
-    the thing is perpendicular
-  \end{itemize}
-\end{itemize}
-
-\hypertarget{inverse-of-a-matrix}{%
-\subsubsection{Inverse of a matrix}\label{inverse-of-a-matrix}}
-
-\begin{itemize}
-\tightlist
-\item
-  Use 2 systems of equations (2 variables, 2 equations, twice)
-  {[}{[}KBe20math530srcMatrixInverse.png{]}{]}
-\item
-  \(y = \frac{c}{bc-ad} = \frac{-c}{ad-bc}\)
-\item
-  Determinant determines whether its possible to have an inverse
-  (because if it's zero, then it's not possible!)
-
-  \begin{itemize}
-  \tightlist
-  \item
-    A matrix with no inverse is \textbf{SINGULAR}
-  \item
-    Determinant of \(A\) is zero
-  \item
-    A has no inverse
-  \end{itemize}
-\end{itemize}
-
-\hypertarget{proof-attempt-discussion-page}{%
-\subsection{Proof Attempt Discussion
-Page?}\label{proof-attempt-discussion-page}}
-
-\hypertarget{small-groups}{%
-\subsection{Small Groups}\label{small-groups}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  Calculate cross products
-\item
-  Graph cross products
-\item
-  Cross Product geometry?
-
-  \begin{itemize}
-  \tightlist
-  \item
-    It's the perpendicular!
-  \item
-    \#bonushw its perpendicular
-  \end{itemize}
-\item
-  Determinant geometric interpretation?
-
-  \begin{itemize}
-  \tightlist
-  \item
-    It's the perpendicular! IF you crossproduct-ify
-  \item
-    \(\begin{bmatrix}x\\y\end{bmatrix}\Rightarrow\left|\begin{bmatrix}i&j\\x&y\end{bmatrix}\right| = iy-jx = \begin{bmatrix}y\\-x\end{bmatrix}\)
-    \#\# Taking the Determinant (why +-+-?)
-  \end{itemize}
-\end{enumerate}
-
-\begin{itemize}
-\tightlist
-\item
-  We take the sub-matrices on a torus
-
-  \begin{itemize}
-  \tightlist
-  \item
-    But if you wrap everything around properly then you have a plus in
-    front of every coefficient
-  \item
-    But if you don't wrap it, then the determinant ends up being the
-    negative, so that's why there's the whole plus minus thing.
-  \end{itemize}
-\end{itemize}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}

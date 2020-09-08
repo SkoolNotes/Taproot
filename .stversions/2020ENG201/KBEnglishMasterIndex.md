@@ -27,15 +27,19 @@ source: #index
 	* **Baobab + Colonialism**
 		* Huxley: [[KBColonialismShortStory]]
 		* Huxley: [[KBBaobabNotes]]
-		- Exr0n
+		- Exr0n [[20eng201floBaobabDebrief]]
 	* Elizabeth Bishop Poems
 		* Huxley: [[KBElizabethBishop]]
 * **Close Reading + Assessment 1** 
 	* [[KBhENG201CloseReading]]
 	* [[KBWhatIsCloseReading]]
 	* [[KBhENG201CloseReadingAss1]]
+	- Exr0n [[KBe20eng201retA1index]]
 * Thoughts on Imperialism and Colonialism 
 	* [[KBhENG201ImperialismColonialism]]
+* **Heart of Darkness**
+    * [[KBhENG201HeartOfHardness]] Heart of Darkness Index 
+	* 
   
 ## Annotated Docs
 | | |
