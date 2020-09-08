@@ -10,7 +10,7 @@ while true; do
         git commit -m "automated compilation" >> log.txt) && \
         printf "Synced and commited at $(date)\r" || printf "Nothing to sync at $(date)        \r"
     git push --quiet
-    make >> log.txt
+    make >> log.txt 2>recent_erros.txt
     sleep 18
 done
 
