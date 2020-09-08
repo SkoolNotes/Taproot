@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 20bio201 }
-\newcommand{\thelesson}{ Diet Finder }
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Bio Diet Storage }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Exr0n, Huxley, Zachary, Abi \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -163,87 +163,21 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\hypertarget{script}{%
-\subsection{Script}\label{script}}
+\begin{quote}
+Phenylalanine 78.88388243566993\% Valine 100.18798061274833\% Leucine
+94.51699130818912\% Isoleucine 115.95896183749683\% Lysine
+112.10357982590932\% Threonine 119.19645104929056\% Tryptophan
+93.25468414954841\% Methionine 71.62966397360115\% Histidine
+98.34293136523347\%
+\end{quote}
 
-\href{https://github.com/SkoolNotes/diet-finder8000superplus}{GitHub
-Repo} \href{}{Data Download}
+\begin{verbatim}
+\end{verbatim}
 
-\hypertarget{scriptable-foods}{%
-\subsubsection{Scriptable foods}\label{scriptable-foods}}
-
-\begin{itemize}
-\tightlist
-\item
-  dry white cheese
-\item
-  dark chicken meat
-\item
-  raw chicken skin
-\item
-  greek yogurt
-\item
-  ground turkey
-\item
-  pollock
-\item
-  some corn biscuit thing
-\item
-  sweet and sour pork
-\item
-  tamale pork
-\item
-  beef breakfast sausage
-\item
-  broccoli
-\item
-  butter stick salted
-\item
-  cantaloupe
-\item
-  carrots
-\item
-  ricotta cheese
-\item
-  egg whites
-\item
-  egg yolk
-\item
-  egg whole
-\item
-  figs
-\item
-  mission figs?
-\item
-  kiwi
-\item
-  milk (1\%, 2\%, skim, whole)
-\item
-  mustard
-\item
-  nectarines
-\item
-  oranges
-\item
-  pears
-\item
-  romaine lettuce
-\item
-  strawberries
-\end{itemize}
-
-\hypertarget{exr0ns-plan}{%
-\subsubsection{Exr0n's Plan}\label{exr0ns-plan}}
-
-{[}{[}KBe20bio101retFoodDataProteinAminos{]}{]}
-
-\hypertarget{huxleys-plan}{%
-\subsubsection{Huxley's Plan}\label{huxleys-plan}}
-
-{[}{[}kbbi{]}{]}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\begin{quote}
+Diet List: 1. 150.891598g Turkey Sausage 2. 75.102569g Mustard
+\end{quote}
 
 \end{document}
