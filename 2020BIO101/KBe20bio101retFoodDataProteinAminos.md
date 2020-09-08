@@ -7,6 +7,8 @@ source: KBe20bio201retDietFinderIndex
 
 1. > How many grams of protein do you want/need per day? What sources are you using for this determination?
 
+It seems like 0.8 g per kg of human male is the accepted RDI.
+
 2.  > What is your preferred animal:plant protein ration and why? (essential amino acids, environmental)
 
 3.  > Using  https://www.myfooddata.com (Links to an external site.), build a single day meal plan that achieves your goals. 
