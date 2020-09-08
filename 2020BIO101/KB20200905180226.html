@@ -103,7 +103,6 @@
       <li><p>Inside mitochondria</p></li>
       </ul></li>
       <li><p>Pubmed is a very good source and we should go directly to the research and read their conclusions instead of getting our scientific information through the news</p></li>
-      <li></li>
       </ul>
   </div>
 
@@ -111,7 +110,8 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/(\w)*/);
+              <!--let docPointer = x.match(/(\w)*/);-->
+              let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
