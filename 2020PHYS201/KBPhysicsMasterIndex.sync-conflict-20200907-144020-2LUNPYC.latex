@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
-\newcommand{\thelesson}{ Macromolecules }
+\newcommand{\thecourse}{ PHYS201 }
+\newcommand{\thelesson}{ Physics Master Index }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -165,24 +165,28 @@
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\hypertarget{macromolecules}{%
-\section{Macromolecules}\label{macromolecules}}
-
 \begin{itemize}
 \tightlist
 \item
-  Made up of the common elements {[}{[}KBe2020bio101refElements{]}{]}
-  \#\# Amino Acids
+  {[}{[}KBhPHYS201GettingStarted{]}{]} Getting started with Physics
 \item
-  2/20 amino acids have sulfur.
+  {[}{[}KBhPHYS201IntroToElectrostaticsLN{]}{]} Heart of Electrostatics
 \item
-  Peptide backbone has nitrogen. \#\# Nucleic Acids
+  {[}{[}KB20200825090600{]}{]} Physics day 1
 \item
-  {[}{[}KBe20bio101refDNA{]}{]} \#\# Hydrocarbons \#\# Lipids
+  {[}{[}KBRemoteRollingBall{]}{]}
 \item
-  {[}{[}KBe2020bio101refLipids{]}{]} {[}{[}Hithere{]}{]}
-\end{itemize}
+  {[}{[}KBVectorIntro{]}{]}
+\item
+  {[}{[}physQuestions{]}{]}
+\item
+  PHET Simulation w/ Eletric Field
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+  \begin{itemize}
+  \tightlist
+  \item
+    Jack {[}{[}KBhPHYS201PHETElectricFields{]}{]}
+  \end{itemize}
+\end{itemize}
 
 \end{document}
