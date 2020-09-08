@@ -24,7 +24,6 @@ source: KBe2020math530floIndex
 	- A matrix with no inverse is **SINGULAR**
 	- Determinant of $A$ is zero
 	- A has no inverse
-	$\begin{matrix}$
 
 ## Proof Attempt Discussion Page?
 
