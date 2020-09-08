@@ -22,9 +22,10 @@ And, here's the rub: **History is Written by the Victors** — an important part
 * "Written by the victors"
 
 [The Various Lit Theories](https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/literary_theory_and_schools_of_criticism/)
+
 ## Congo's Colonial History
 ### A timeline!
-![Timeline][./Screen Shot 2020-09-08 at 2.00.47 PM]
+![Timeline](Screen Shot 2020-09-08 at 2.00.47 PM.png)
 
 ### Some background on the Congo Free State
 
