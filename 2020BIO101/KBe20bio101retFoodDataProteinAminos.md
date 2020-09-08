@@ -11,6 +11,8 @@ It seems like 0.8 g per kg of human male is the accepted RDI. [Harvard Health Bl
 
 2.  > What is your preferred animal:plant protein ration and why? (essential amino acids, environmental)
 
+I don't think 
+
 3.  > Using  https://www.myfooddata.com (Links to an external site.), build a single day meal plan that achieves your goals. 
 
 4. > Cross check the https://www.myfooddata.com (Links to an external site.) essential amino acid values/food with the tables in the slides (Links to an external site.). Do they seem consistent? Provide evidence for you answer.
