@@ -37,5 +37,6 @@ source: KBe2020math530floIndex
 	- $\begin{bmatrix}x\\y\end{bmatrix}\Rightarrow\left|\begin{bmatrix}i&j\\x&y\end{bmatrix}\right| = iy-jx = \begin{bmatrix}y\\-x\end{bmatrix}$
 ## Taking the Determinant
 - We take the sub-matrices on a torus
+	- But if 
 
 ---
