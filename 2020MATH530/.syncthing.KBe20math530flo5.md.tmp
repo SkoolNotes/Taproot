@@ -38,6 +38,6 @@ source: KBe2020math530floIndex
 ## Taking the Determinant
 - We take the sub-matrices on a torus
 	- But if you wrap everything around properly then you have a plus in front of every coefficient
-	- But if you don't wrap it, then the determinant ends up being the negative, so thats why there's the whole 
+	- But if you don't wrap it, then the determinant ends up being the negative, so that's why there's the whole plus minus thing.
 
 ---
