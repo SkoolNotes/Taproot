@@ -43,7 +43,4 @@ source: KBBiologyMasterIndex
 ### Exr0n's Plan
 [[KBe20bio101retFoodDataProteinAminos]]
 
-### Huxley's Plan
-[[kbbi]]
-
 ---
