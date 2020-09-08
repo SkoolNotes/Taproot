@@ -6,6 +6,6 @@ source: KBBiologyMasterIndex
 ---
 
 - Free association intro [[KBe2020bio101retFreeAssociation]]
-- Food 
+- Food Protein Essential Amino Acids
 
 ---
