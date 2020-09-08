@@ -15,7 +15,7 @@ while true; do
         git push --quiet) && \
         printf "Synced and commited at $(date)\r" || printf "Sync Failed!!! $(date)"
     else
-        echo "Nothing to sync at $(date)      \r"
+        echo "Nothing to sync at $(date)        \r"
     fi
 
     sleep 18
