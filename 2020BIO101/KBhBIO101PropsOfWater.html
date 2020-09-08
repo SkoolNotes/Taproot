@@ -109,7 +109,7 @@
       <li><p>Quite versatile — could dissolve stuff easily</p></li>
       </ul>
       <h2 id="hydrophillic-hydrophobic-effects-of-water">Hydrophillic + Hydrophobic Effects of Water</h2>
-      <p><img src="/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020BIO101/Screen Shot 2020-08-26 at 3.07.53 PM.png" alt="image" /></p>
+      <p><img src="./2020BIO101/Screen Shot 2020-08-26 at 3.07.53 PM.png" alt="image" /></p>
       <ul>
       <li><p>In hydrophillic senarios, water will to “puddle out” (“Wetting”) — adheses to the surface</p></li>
       <li><p>In hydrophobic senarios, water leverage its cohesion properties to create spheres</p></li>
@@ -120,7 +120,7 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/KB(\w)*/);
+              let docPointer = x.match(/(\w)*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;

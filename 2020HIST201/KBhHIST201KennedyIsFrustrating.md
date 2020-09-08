@@ -6,7 +6,7 @@ author: Houjun Liu
 ---
 # Kennedy Is Frustrating
 
-![Screen Shot 2020-08-31 at 9.30.01 AM.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020HIST201/Screen Shot 2020-08-31 at 9.30.01 AM.png)
+![Screen Shot 2020-08-31 at 9.30.01 AM.png](./2020HIST201/Screen Shot 2020-08-31 at 9.30.01 AM.png)
 
 His arguments are not very well supported. For instance, his argument that orthodox Confucianism stopped trade (and ???, then) decline for China. 
 

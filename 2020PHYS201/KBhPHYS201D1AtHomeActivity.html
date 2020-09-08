@@ -71,7 +71,7 @@
     </div>
   <div id="center-viewport">
       <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhPHYS201GettingStarted"><span><strong>[[</strong></span><strong>KBhPHYS201GettingStarted</strong><span><strong>]]</strong></span></a></span></p>
-      <p><img src="/Users/houliu/Desktop/Screen Shot 2020-08-24 at 11.18.55 AM.png" alt="image" /></p>
+      <p><span>[</span>Screen Shot 2020-08-24 at 11.18.55 AM.png<span>]</span> #brokelink (/Users/houliu/Desktop/Screen Shot 2020-08-24 at 11.18.55 AM.png)</p>
       <p><em>Disclaimer</em> — because of material differences, nothing happened… I am noting here the supposed responses.</p>
       <p><strong>Senario 1</strong>: the non-charged pen spins towards (“gets attracted”) towards the charged pen <strong>Senario 2</strong>: the pens repelled, spinning away from each other - When both pens are rubbed, they have similar charges. This (should) cause them to repel each other. <strong>Senario 3</strong>: the pen was able to pick up chips of paper through charge, and the paper stuck to the pen. Occasionally, pieces of paper starts bouncing towards and away from the charged pen when the pen is not very close <strong>Senario 4 (extra)</strong>: only the rubbed “charged” end of the pen was attracting <strong>Senario 5</strong>: Scotch tape 2. Take a strip of scotch tape, fold over a tab, and stick it on top of the first strip of scotch tape. Mark this piece of tape <code>B</code> 3. Take a second strip, fold a tab over, and mark this <code>T</code>. 4. Grab the top two tabs labeled <code>B</code> and <code>T</code>, and pull them up off the table quickly. 5. Grab the two tabs separately, and pull them apart quickly. 6. Take the two pieces, sticky side facing away from each other, and bring them together. They should attract 7. Repeat with two more pieces of tape. <code>B</code> with <code>B</code> should repel, opposites should attract.</p>
       <hr />
@@ -83,7 +83,7 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/KB(\w)*/);
+              let docPointer = x.match(/(\w)*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;

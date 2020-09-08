@@ -6,7 +6,7 @@ source: KBhPHYS201GettingStarted
 ---
 
 
-![Screen Shot 2020-08-24 at 11.18.55 AM.png](/Users/houliu/Desktop/Screen Shot 2020-08-24 at 11.18.55 AM.png)
+![Screen Shot 2020-08-24 at 11.18.55 AM.png] #brokelink (/Users/houliu/Desktop/Screen Shot 2020-08-24 at 11.18.55 AM.png)
 
 *Disclaimer* — because of material differences, nothing happened… I am noting here the supposed responses.
 

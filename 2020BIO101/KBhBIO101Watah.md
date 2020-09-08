@@ -7,7 +7,7 @@ source: KBBiologyMasterIndex
 
 # Alright, let's talk about water.
 
-![Watah!](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020BIO101/Screen Shot 2020-08-24 at 10.08.34 PM.png)
+![Watah!](./2020BIO101/Screen Shot 2020-08-24 at 10.08.34 PM.png)
 
 ## Intra-Molecular water bonds
 

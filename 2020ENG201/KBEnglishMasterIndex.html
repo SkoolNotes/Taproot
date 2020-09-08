@@ -140,13 +140,30 @@
       </tr>
       </tbody>
       </table>
+      <h2 id="module.exports-ret-index"><code>module.exports</code> (ret index)</h2>
+      <table>
+      <thead>
+      <tr class="header">
+      <th style="text-align: left;">Author</th>
+      <th style="text-align: left;">Assignment</th>
+      <th style="text-align: left;">Link</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr class="odd">
+      <td style="text-align: left;">Exr0n</td>
+      <td style="text-align: left;">Csoe Reading Paragraph (Assessment #1)</td>
+      <td style="text-align: left;"><span>[</span><span>[</span>exr0n20eng201retA1Index<span>]</span><span>]</span></td>
+      </tr>
+      </tbody>
+      </table>
   </div>
 
   <script>
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/KB(\w)*/);
+              let docPointer = x.match(/(\w)*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;

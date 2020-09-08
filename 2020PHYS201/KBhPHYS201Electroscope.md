@@ -7,7 +7,7 @@ source: KBhPHYS201IntroToElectrostaticsLN
 
 # The Electroscope
 
-![Screen Shot 2020-08-24 at 7.31.10 PM.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/Screen Shot 2020-08-24 at 7.31.10 PM.png)
+![Screen Shot 2020-08-24 at 7.31.10 PM.png](./2020PHYS201/Screen Shot 2020-08-24 at 7.31.10 PM.png)
 
 About how this works…
 

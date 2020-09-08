@@ -109,7 +109,7 @@
       <p>See <span>[</span><span>[</span>KBhPHYS201Voltage<span>]</span><span>]</span></p>
       <h2 id="an-now-something-interesting">An now, something interesting</h2>
       <p>Take, a neutral conductor.</p>
-      <p><img src="/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/Screen Shot 2020-08-24 at 9.44.46 PM.png" alt="image" /></p>
+      <p><img src="./2020PHYS201/Screen Shot 2020-08-24 at 9.44.46 PM.png" alt="image" /></p>
       <p>At the point of the cursor, there would be an electric field cause by the central charge going outwards; at which point the following will happen…</p>
       <ol>
       <li><p>The red (positive) charge attracts electrons to the inside of the tube</p></li>
@@ -126,7 +126,7 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/KB(\w)*/);
+              let docPointer = x.match(/(\w)*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
