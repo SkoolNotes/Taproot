@@ -4,7 +4,7 @@ author: Huxley
 course: BIO101
 source: #index
 ---
-
+### One
 > Phenylalanine 78.88388243566993%
 Valine 100.18798061274833%
 Leucine 94.51699130818912%
@@ -39,9 +39,13 @@ Histidine 93.59079200960244%
 > 1. 205.162743g broccoli
 > 2. 90.416268g mustard
 > 3. 369.057053g butter stick
-> 4. 16.536808g whole milk
+> 4 16.536808g whole milk
 > 5. 161.597425g whole eggs
 
+
+hello
+there
+my 
 
 
 
