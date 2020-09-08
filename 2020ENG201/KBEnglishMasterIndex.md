@@ -39,7 +39,7 @@ source: #index
 	* [[KBhENG201ImperialismColonialism]]
 * **Heart of Darkness**
     * [[KBhENG201HeartOfHardness]] Heart of Darkness Index 
-	* 
+	* [[KBheartday1]]
   
 ## Annotated Docs
 | | |
