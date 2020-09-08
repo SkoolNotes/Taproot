@@ -7,7 +7,7 @@ source: KBhPHYS201IntroToElectrostaticsLN
 
 # The Rods and Paper Experiment
 
-![Screen Shot 2020-08-24 at 4.46.46 PM.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/Screen Shot 2020-08-24 at 4.46.46 PM.png){width=70%}
+![Screen Shot 2020-08-24 at 4.46.46 PM.png](./2020PHYS201/Screen Shot 2020-08-24 at 4.46.46 PM.png){width=70%}
 
 **Scenario 1** 
 

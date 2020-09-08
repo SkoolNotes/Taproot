@@ -80,7 +80,7 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/KB(\w)*/);
+              let docPointer = x.match(/(\w)*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;

@@ -15,7 +15,7 @@ Epistomology: study of acquaintance
 
 # Aftercare
 ## The Semester
-![Screen Shot 2020-08-25 at 2.23.23 PM.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020ISOS101/Screen Shot 2020-08-25 at 2.23.23 PM.png)
+![Screen Shot 2020-08-25 at 2.23.23 PM.png](./2020ISOS101/Screen Shot 2020-08-25 at 2.23.23 PM.png)
 
 ## FaQ
 

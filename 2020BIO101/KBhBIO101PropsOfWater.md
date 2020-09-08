@@ -37,7 +37,7 @@ Water has high solubility
 
 ## Hydrophillic + Hydrophobic Effects of Water
 
-![Screen Shot 2020-08-26 at 3.07.53 PM.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020BIO101/Screen Shot 2020-08-26 at 3.07.53 PM.png)
+![Screen Shot 2020-08-26 at 3.07.53 PM.png](./2020BIO101/Screen Shot 2020-08-26 at 3.07.53 PM.png)
 
 - In hydrophillic senarios, water will to "puddle out" ("Wetting") — adheses to the surface
 - In hydrophobic senarios, water leverage its cohesion properties to create spheres

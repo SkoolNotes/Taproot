@@ -24,7 +24,7 @@ If the charges on a conductor are **stationary**, no electron flow within the co
     * Because there are more electrons towards the center and across the conductor to push all electrons towards the extremities before achieving equlibirium
     * If charges are evenly distributed instead of being concentrated on sharper corners, the now-unbalanced electrons will create horizonal components
     
-![20phys201srcPhETChargesAndFieldsConstantVoltage.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/20phys201srcPhETChargesAndFieldsConstantVoltage.png)
+![20phys201srcPhETChargesAndFieldsConstantVoltage.png](./2020PHYS201/20phys201srcPhETChargesAndFieldsConstantVoltage.png)
 
 - PhET Exploration: 
     - r0N: [[KBe20phys201retFieldsVoltagePhET]]

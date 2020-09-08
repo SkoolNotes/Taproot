@@ -74,7 +74,7 @@
       <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhPHYS201ElectricFields"><span><strong>[[</strong></span><strong>KBhPHYS201ElectricFields</strong><span><strong>]]</strong></span></a></span></p>
       <h1 id="voltage">Voltage</h1>
       <h2 id="first-a-geography-thing.">First, a geography thing.</h2>
-      <p><img src="/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/Screen Shot 2020-09-02 at 8.37.26 PM.png" alt="image" /></p>
+      <p><img src="./2020PHYS201/Screen Shot 2020-09-02 at 8.37.26 PM.png" alt="image" /></p>
       <p>In a topological map, you could probably guess that the <strong>steepest path downwards/upwards is perpendicular to the lines.</strong></p>
       <p>The constant voltage lines works in a similar way.</p>
       <h2 id="then-a-energy-thing.">Then, a Energy Thing.</h2>
@@ -102,7 +102,7 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/KB(\w)*/);
+              let docPointer = x.match(/(\w)*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;

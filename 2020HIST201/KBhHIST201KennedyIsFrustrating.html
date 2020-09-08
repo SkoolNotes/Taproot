@@ -72,7 +72,7 @@
   <div id="center-viewport">
       <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhHIST201HistModHist"><span><strong>[[</strong></span><strong>KBhHIST201HistModHist</strong><span><strong>]]</strong></span></a></span></p>
       <h1 id="kennedy-is-frustrating">Kennedy Is Frustrating</h1>
-      <p><img src="/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020HIST201/Screen Shot 2020-08-31 at 9.30.01 AM.png" alt="image" /></p>
+      <p><img src="./2020HIST201/Screen Shot 2020-08-31 at 9.30.01 AM.png" alt="image" /></p>
       <p>His arguments are not very well supported. For instance, his argument that orthodox Confucianism stopped trade (and ???, then) decline for China.</p>
       <p>Missing was pieces of evidence could have caused tremendous difficulty.</p>
       <blockquote>
@@ -94,7 +94,7 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/KB(\w)*/);
+              let docPointer = x.match(/(\w)*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;

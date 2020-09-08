@@ -2,7 +2,7 @@
 title: Jack's Meta 
 course: meta
 author: Houjun Liu
-source: #index
+source: README
 ---
 
 I guess now that @Exr0n started a trend I will also create a naming convention that should be almost compatible with R0n's.

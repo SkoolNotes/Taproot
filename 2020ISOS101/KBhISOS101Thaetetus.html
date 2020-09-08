@@ -100,13 +100,36 @@
       <ul>
       <li><p>So… True judgments with evidence to support it =&gt; knowledge</p></li>
       </ul>
+      <h2 id="definitions-of-knowledge">Definitions of Knowledge</h2>
+      <h3 id="perception">Perception</h3>
+      <ul>
+      <li><p>Objection:</p>
+      <ul>
+      <li><p>Crazy people + dreams</p></li>
+      <li><p>If people mis-see things then it’s not quite knowledge</p></li>
+      </ul></li>
+      </ul>
+      <h3 id="true-judgement-is-knowledge">True judgement is knowledge</h3>
+      <ul>
+      <li><p>Objection</p>
+      <ul>
+      <li><p>to decide whether judgement is true comes from knowledge and therefore this is a circular definition</p></li>
+      </ul></li>
+      </ul>
+      <h3 id="a-true-judgement-with-an-account">A true judgement with an account</h3>
+      <ul>
+      <li><p>account: an argument or line of reasoning</p>
+      <ul>
+      <li><p>Objection: same as above</p></li>
+      </ul></li>
+      </ul>
   </div>
 
   <script>
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/KB(\w)*/);
+              let docPointer = x.match(/(\w)*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;

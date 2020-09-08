@@ -72,7 +72,7 @@
   <div id="center-viewport">
       <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhPHYS201IntroToElectrostaticsLN"><span><strong>[[</strong></span><strong>KBhPHYS201IntroToElectrostaticsLN</strong><span><strong>]]</strong></span></a></span></p>
       <h1 id="the-rods-and-paper-experiment">The Rods and Paper Experiment</h1>
-      <p><img src="/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/Screen Shot 2020-08-24 at 4.46.46 PM.png" style="width:70.0%" alt="image" /></p>
+      <p><img src="./2020PHYS201/Screen Shot 2020-08-24 at 4.46.46 PM.png" style="width:70.0%" alt="image" /></p>
       <p><strong>Scenario 1</strong></p>
       <ul>
       <li><p>Taking neutral rod + close, positively charged, rod</p>
@@ -105,7 +105,7 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/KB(\w)*/);
+              let docPointer = x.match(/(\w)*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;

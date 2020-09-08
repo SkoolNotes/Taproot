@@ -72,7 +72,7 @@
   <div id="center-viewport">
       <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex"><span><strong>[[</strong></span><strong>KBBiologyMasterIndex</strong><span><strong>]]</strong></span></a></span></p>
       <h1 id="alright-lets-talk-about-water.">Alright, let’s talk about water.</h1>
-      <p><img src="/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020BIO101/Screen Shot 2020-08-24 at 10.08.34 PM.png" alt="image" /></p>
+      <p><img src="./2020BIO101/Screen Shot 2020-08-24 at 10.08.34 PM.png" alt="image" /></p>
       <h2 id="intra-molecular-water-bonds">Intra-Molecular water bonds</h2>
       <ul>
       <li><p>As we know (or looked up from the PTable)</p></li>
@@ -121,7 +121,7 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/KB(\w)*/);
+              let docPointer = x.match(/(\w)*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;

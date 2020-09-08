@@ -99,7 +99,7 @@
       <li><p>If charges are evenly distributed instead of being concentrated on sharper corners, the now-unbalanced electrons will create horizonal components</p></li>
       </ul></li>
       </ul>
-      <p><img src="/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/20phys201srcPhETChargesAndFieldsConstantVoltage.png" alt="image" /></p>
+      <p><img src="./2020PHYS201/20phys201srcPhETChargesAndFieldsConstantVoltage.png" alt="image" /></p>
       <ul>
       <li><p>PhET Exploration:</p>
       <ul>
@@ -113,7 +113,7 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/KB(\w)*/);
+              let docPointer = x.match(/(\w)*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;

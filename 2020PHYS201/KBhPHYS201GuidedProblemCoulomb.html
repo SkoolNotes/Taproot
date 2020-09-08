@@ -73,7 +73,7 @@
   <div id="center-viewport">
       <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhPHYS201ColoumbsLaw"><span><strong>[[</strong></span><strong>KBhPHYS201ColoumbsLaw</strong><span><strong>]]</strong></span></a></span></p>
       <h1 id="and-now-a-guided-problem-solve">And now, a Guided Problem Solve</h1>
-      <p><img src="/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/Screen Shot 2020-08-24 at 8.06.36 PM.png" alt="image" /></p>
+      <p><img src="./2020PHYS201/Screen Shot 2020-08-24 at 8.06.36 PM.png" alt="image" /></p>
       <p><strong>Notice! This one is a little different because there are three charges.</strong></p>
       <p>We could see that, because of the fact that <span class="math inline">\(Q_2\)</span> is closer to <span class="math inline">\(Q3\)</span> then <span class="math inline">\(Q1\)</span> is and the two particles are pulling in different directions, we could infer that <span class="math inline">\(||F_{32}||\)</span> is larger then <span class="math inline">\(||F_{31}||\)</span>. Because of this, we could find that <span class="math inline">\(Q_3\)</span> will have a net force “to the left” — in <span class="math inline">\(F_{32}\)</span>’s direction.</p>
       <p>And, because of that, we know that <span class="math inline">\(Q_3\)</span> will be accelerating towards the left. But <strong>Notice</strong>!, whenever <span class="math inline">\(Q_3\)</span> moves towards the left, the distances between the particles changed, meaning the force acting upon <span class="math inline">\(Q_3\)</span> changes! Meaning, <span class="math inline">\(Q_3\)</span>’s acceleration “to the left” is not constant. Unfortunately, then, no equation of kinematics for us :(.</p>
@@ -83,7 +83,7 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/KB(\w)*/);
+              let docPointer = x.match(/(\w)*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;

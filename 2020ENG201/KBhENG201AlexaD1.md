@@ -14,7 +14,7 @@ _"Nice and Broad and Vague"_
 
 ## Essential Questions of English 10
 
-![Screen Shot 2020-08-25 at 1.29.30 PM.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020ENG201/Screen Shot 2020-08-25 at 1.29.30 PM.png)
+![Screen Shot 2020-08-25 at 1.29.30 PM.png](./2020ENG201/Screen Shot 2020-08-25 at 1.29.30 PM.png)
 
 And now, an **assignment** to begin the year:
 

@@ -7,7 +7,7 @@ source: KBhPHYS201ColoumbsLaw
 
 # And now, a Guided Problem Solve
 
-![Screen Shot 2020-08-24 at 8.06.36 PM.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/Screen Shot 2020-08-24 at 8.06.36 PM.png)
+![Screen Shot 2020-08-24 at 8.06.36 PM.png](./2020PHYS201/Screen Shot 2020-08-24 at 8.06.36 PM.png)
 
 **Notice! This one is a little different because there are three charges.**
 

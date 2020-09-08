@@ -2,7 +2,7 @@
 title:  Exr0n's Meta
 course: meta
 author: Exr0n
-source: #index
+source: README
 ---
 
 # Howdy
