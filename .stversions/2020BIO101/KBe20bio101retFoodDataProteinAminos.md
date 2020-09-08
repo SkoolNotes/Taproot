@@ -34,6 +34,8 @@ You better goddamn eat 16.536808g o' whole milk
 You better goddamn eat 161.597425g o' whole eggs
 ```
 
+![[Pasted image.png]]
+
 4. > Cross check the https://www.myfooddata.com (Links to an external site.) essential amino acid values/food with the tables in the slides (Links to an external site.). Do they seem consistent? Provide evidence for you answer.
 #todo-exr0n
 
