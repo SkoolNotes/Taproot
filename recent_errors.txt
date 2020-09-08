@@ -1,26 +1,3 @@
-Log for attempt at Tue Sep  8 14:43:56 PDT 2020
-Traceback (most recent call last):
-  File "/Library/Frameworks/Python.framework/Versions/3.8/bin/pandoc-img-glob", line 11, in <module>
-    load_entry_point('pandoc-img-glob==0.1.3', 'console_scripts', 'pandoc-img-glob')()
-  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/pandoc_img_glob/pandoc_img_glob.py", line 26, in main
-    return pf.run_filter(action,
-  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/panflute/io.py", line 266, in run_filter
-    return run_filters([action], *args, **kwargs)
-  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/panflute/io.py", line 239, in run_filters
-    doc = load(input_stream=input_stream)
-  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/panflute/io.py", line 59, in load
-    doc = json.load(input_stream, object_pairs_hook=from_json)
-  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 293, in load
-    return loads(fp.read(),
-  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 370, in loads
-    return cls(**kw).decode(s)
-  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 337, in decode
-    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
-  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 353, in raw_decode
-    obj, end = self.scan_once(s, idx)
-  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/panflute/elements.py", line 1532, in from_json
-    raise Exception('unknown tag: ' + tag)
-Exception: unknown tag: Caption
-Error running filter pandoc-img-glob:
-Filter returned error status 1
-make: *** [2020ENG201/KBEnglishMasterIndex.pdf] Error 83
+Log for attempt at Tue Sep  8 14:44:41 PDT 2020
+[WARNING] Could not fetch resource 'Screen%20Shot%202020-09-08%20at%202.00.47%20PM.png': replacing image with description
+make: *** [2020ENG201/KBhENG201HeartOfHardness.pdf] Interrupt: 2
