@@ -10,6 +10,6 @@ while true; do
         git commit -m "automated backup commit" >> log.txt) && \
         printf "Synced and commited at $(date)\r" || printf "Nothing to sync at $(date)        \r"
     git push --quiet
-    sleep 26
+    sleep 18
 done
 
