@@ -34,6 +34,6 @@ source: KBe2020math530floIndex
 	- It's the perpendicular!
 1. Determinant geometric interpretation?
 	- It's the perpendicular! IF you crossproduct-ify
-	- $\left|\begin{bmatrix}i&j\\x&y\end{bmatrix}\right$
+	- $\left|\begin{bmatrix}i&j\\x&y\end{bmatrix}\right| = iy-jx = \begin{bmatrix}y\\-x\end{bmatrix}$
 
 ---
