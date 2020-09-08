@@ -40,5 +40,6 @@ source: KBBiologyMasterIndex
 - strawberries
 
 ### Exr0n's Plan
+[[KBe20bio101retFoodDataProteinAminos]]
 
 ---

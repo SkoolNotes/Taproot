@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ meta }
-\newcommand{\thelesson}{ Jack's Meta }
+\newcommand{\thecourse}{ 20bio101 }
+\newcommand{\thelesson}{ Exr0n's Bio Ret Index }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -163,54 +163,17 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=README}{\tiny\textulf{[[}\textbf{README}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
 
-I guess now that @Exr0n started a trend I will also create a naming
-convention that should be almost compatible with R0n's.
+\begin{itemize}
+\tightlist
+\item
+  Free association intro {[}{[}KBe2020bio101retFreeAssociation{]}{]}
+\item
+  Food Protein Essential Amino Acids
+  {[}{[}KBe20bio201retDietFinderIndex{]}{]}
+\end{itemize}
 
-\hypertarget{general-naming}{%
-\section{General Naming}\label{general-naming}}
-
-General note file names will be named roughly
-\texttt{KBhCOURSE\#\#UpperCamelCaseName{[}Tag{]}}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\begin{minipage}[b]{0.10\columnwidth}\raggedright
-Item\strut
-\end{minipage} & \begin{minipage}[b]{0.84\columnwidth}\raggedright
-Note\strut
-\end{minipage}\tabularnewline
-\midrule
-\endhead
-\begin{minipage}[t]{0.10\columnwidth}\raggedright
-\texttt{Course\#\#}\strut
-\end{minipage} & \begin{minipage}[t]{0.84\columnwidth}\raggedright
-This is the course number. It should be all caps, with 3-4 letter course
-+ level. Like \texttt{MATH401}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.10\columnwidth}\raggedright
-\texttt{{[}Tag{]}}\strut
-\end{minipage} & \begin{minipage}[t]{0.84\columnwidth}\raggedright
-Optional information about the note\strut
-\end{minipage}\tabularnewline
-\bottomrule
-\end{longtable}
-
-\hypertarget{tags}{%
-\subsection{Tags}\label{tags}}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Tag & Meaning\tabularnewline
-\midrule
-\endhead
-index & Master Index\tabularnewline
-read & Reading Note\tabularnewline
-ln & Large Note (the old 00-index)\tabularnewline
-\bottomrule
-\end{longtable}
-
-Yeah. That's it.
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}

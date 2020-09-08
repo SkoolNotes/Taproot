@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ meta }
-\newcommand{\thelesson}{ Jack's Meta }
+\newcommand{\thecourse}{ 20bio101 }
+\newcommand{\thelesson}{ Food Data Protein Amino Acids }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -163,54 +163,64 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=README}{\tiny\textulf{[[}\textbf{README}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBe20bio201retDietFinderIndex}{\tiny\textulf{[[}\textbf{KBe20bio201retDietFinderIndex}\textulf{]]}}}\thinspace
 
-I guess now that @Exr0n started a trend I will also create a naming
-convention that should be almost compatible with R0n's.
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \begin{quote}
+  How many grams of protein do you want/need per day? What sources are
+  you using for this determination?
+  \end{quote}
+\end{enumerate}
 
-\hypertarget{general-naming}{%
-\section{General Naming}\label{general-naming}}
+It seems like 0.8 g per kg of human male is the accepted RDI.
+\href{https://www.health.harvard.edu/blog/how-much-protein-do-you-need-every-day-201506188096}{Harvard
+Health Blog},
+\href{https://www.verywellfit.com/how-to-calculate-how-much-protein-you-need-3955709}{verywell
+fit},
+\href{https://www.healthline.com/nutrition/how-much-protein-per-day}{healthline}
 
-General note file names will be named roughly
-\texttt{KBhCOURSE\#\#UpperCamelCaseName{[}Tag{]}}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\item
+  \begin{quote}
+  What is your preferred animal:plant protein ration and why? (essential
+  amino acids, environmental)
+  \end{quote}
+\end{enumerate}
 
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\begin{minipage}[b]{0.10\columnwidth}\raggedright
-Item\strut
-\end{minipage} & \begin{minipage}[b]{0.84\columnwidth}\raggedright
-Note\strut
-\end{minipage}\tabularnewline
-\midrule
-\endhead
-\begin{minipage}[t]{0.10\columnwidth}\raggedright
-\texttt{Course\#\#}\strut
-\end{minipage} & \begin{minipage}[t]{0.84\columnwidth}\raggedright
-This is the course number. It should be all caps, with 3-4 letter course
-+ level. Like \texttt{MATH401}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.10\columnwidth}\raggedright
-\texttt{{[}Tag{]}}\strut
-\end{minipage} & \begin{minipage}[t]{0.84\columnwidth}\raggedright
-Optional information about the note\strut
-\end{minipage}\tabularnewline
-\bottomrule
-\end{longtable}
+I don't have a strong preference on what my preferred ratio is,
+especially because I don't pay too much attention to what I eat. I don't
+particularly like eating food, and I don't particularly like eating
+meat, so I think I could go for a more environmentally friendly ratio,
+because even ``overdosing'' on some amino acids to hit the rarer ones
+RDI would be less environmentally impactful than eating more meat.
 
-\hypertarget{tags}{%
-\subsection{Tags}\label{tags}}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\item
+  \begin{quote}
+  Using https://www.myfooddata.com (Links to an external site.), build a
+  single day meal plan that achieves your goals. \#todo-exr0n
+  \end{quote}
+\item
+  \begin{quote}
+  Cross check the https://www.myfooddata.com (Links to an external
+  site.) essential amino acid values/food with the tables in the slides
+  (Links to an external site.). Do they seem consistent? Provide
+  evidence for you answer. \#todo-exr0n
+  \end{quote}
+\item
+  \begin{quote}
+  Were there any essential amino acids, vitamins, or minerals needs that
+  were challenging to satisfy during your meal planning? What are some
+  foods particularly high in that vitamin or mineral? \#todo-exr0n
+  \end{quote}
+\end{enumerate}
 
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Tag & Meaning\tabularnewline
-\midrule
-\endhead
-index & Master Index\tabularnewline
-read & Reading Note\tabularnewline
-ln & Large Note (the old 00-index)\tabularnewline
-\bottomrule
-\end{longtable}
-
-Yeah. That's it.
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}
