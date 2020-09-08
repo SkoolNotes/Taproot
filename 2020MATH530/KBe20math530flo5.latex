@@ -256,7 +256,7 @@ Page?}\label{proof-attempt-discussion-page}}
   \item
     It's the perpendicular! IF you crossproduct-ify
   \item
-    \(\begin{bmatrix}i&j\\x&y\end{bmatrix}\)
+    \(\begin{bmatrix}x\\y\end|\begin{bmatrix}i&j\\x&y\end{bmatrix}\right| = iy-jx = \begin{bmatrix}y\\-x\end{bmatrix}\)
   \end{itemize}
 \end{enumerate}
 
