@@ -3,6 +3,7 @@
 taproot_path="../materials/Taproot"
 while true; do
     (echo "\n\n\nLog for attempt at $(date)" >> log.txt && \
+        git pull >> log.txt && \
         #rsync -av --exclude '.git*' "$taproot_path" . >> log.txt && \
         #make >> log.txt && \
         git add -A >> log.txt && \
