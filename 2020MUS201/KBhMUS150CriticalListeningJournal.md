@@ -118,3 +118,42 @@ source: KBhMUS150D1
 - Simple drum pattern + white noice
 - Simple bass riff
 - Guitar "wobble"
+
+# 09082020
+
+**Multi-Love**
+
+- Synth filled intro
+- Drum sequence enteres after the intro music
+- Complicated drum sequence emphasizes music
+- Filtered and EQed music texture
+
+**Fake Love**
+
+- Most of melody from the vocals
+- Background "walla-walla" limited to the background music
+- Drum beat seems to be limited to the kick machine
+- Baseline very subtle in the background
+- Synth tinge in the background
+
+**Beautiful Now**
+
+- EDM! + vocal machine intro
+- Baseline actually supplied by... a high-pitched synth?
+- EDM + Trap style interlude
+- Vocals never clear, used as mostly texture and melody
+
+**Lying has to Stop**
+
+- Background filter wobble creates interesting, melodic effect
+- Vocals come in, with a similar wobble as the one noted above
+- Vocals heavily filtered, and as vocals as well
+- Guitar with creative filters + EQ creates a similar unbalanced effect
+
+**Coffee**
+ 
+- Interesting video?
+- Close up vocals
+- Retro flavor
+
+
