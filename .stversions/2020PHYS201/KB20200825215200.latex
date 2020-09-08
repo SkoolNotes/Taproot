@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 20bio101 }
-\newcommand{\thelesson}{ Food Data Protein Amino Acids }
+\newcommand{\thecourse}{ 2020PHYS201 }
+\newcommand{\thelesson}{ Electrostatics Cheat Sheet }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -163,87 +163,92 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBe20bio201retDietFinderIndex}{\tiny\textulf{[[}\textbf{KBe20bio201retDietFinderIndex}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KB20200824163718}{\tiny\textulf{[[}\textbf{KB20200824163718}\textulf{]]}}}\thinspace
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
+\hypertarget{electrostatics}{%
+\section{Electrostatics}\label{electrostatics}}
+
+\hypertarget{conduction-vs-insulation}{%
+\subsection{Conduction vs Insulation}\label{conduction-vs-insulation}}
+
+\begin{itemize}
+\tightlist
 \item
-  \begin{quote}
-  How many grams of protein do you want/need per day? What sources are
-  you using for this determination?
-  \end{quote}
-\end{enumerate}
+  Charge can flow through or over the surface of conductors:
 
-It seems like 0.8 g per kg of human male is the accepted RDI.
-\href{https://www.health.harvard.edu/blog/how-much-protein-do-you-need-every-day-201506188096}{Harvard
-Health Blog},
-\href{https://www.verywellfit.com/how-to-calculate-how-much-protein-you-need-3955709}{verywell
-fit},
-\href{https://www.healthline.com/nutrition/how-much-protein-per-day}{healthline}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{1}
+  \begin{itemize}
+  \tightlist
+  \item
+    Metals, graphite, plasma
+  \end{itemize}
 \item
-  \begin{quote}
-  What is your preferred animal:plant protein ration and why? (essential
-  amino acids, environmental)
-  \end{quote}
-\end{enumerate}
+  Insulators do not allow charge to flow along or through them.
+\end{itemize}
 
-I don't have a strong preference on what my preferred ratio is,
-especially because I don't pay too much attention to what I eat. I don't
-particularly like eating food, and I don't particularly like eating
-meat, so I think I could go for a more environmentally friendly ratio,
-because even ``overdosing'' on some amino acids to hit the rarer ones
-RDI would be less environmentally impactful than eating more meat.
+\hypertarget{transferred-and-induced-charges}{%
+\subsection{Transferred and Induced
+Charges}\label{transferred-and-induced-charges}}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{2}
+\begin{itemize}
+\tightlist
 \item
-  \begin{quote}
-  Using https://www.myfooddata.com (Links to an external site.), build a
-  single day meal plan that achieves your goals. \#todo-exr0n
-  \end{quote}
-\end{enumerate}
-
-From the script
-
-\begin{verbatim}
-Phenylalanine 81.2080685572291 %
-Valine 124.11991193514258 %
-Leucine 94.13009551708133 %
-Isoleucine 121.33660481656196 %
-Lysine 98.99885464164082 %
-Threonine 117.22718754701687 %
-Tryptophan 136.44759141786292 %
-Methionine 76.60724610188446 %
-Histidine 93.59079200960244 %
-You better goddamn eat 205.162743g o' broccoli
-You better goddamn eat 90.416268g o' mustard
-You better goddamn eat 369.057053g o' butter stick
-You better goddamn eat 16.536808g o' whole milk
-You better goddamn eat 161.597425g o' whole eggs
-\end{verbatim}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{3}
+  Charge can jump from a charged object to an uncharged object,
+  sometimes through insulators depending on voltage.
 \item
-  \begin{quote}
-  Cross check the https://www.myfooddata.com (Links to an external
-  site.) essential amino acid values/food with the tables in the slides
-  (Links to an external site.). Do they seem consistent? Provide
-  evidence for you answer. \#todo-exr0n
-  \end{quote}
-\item
-  \begin{quote}
-  Were there any essential amino acids, vitamins, or minerals needs that
-  were challenging to satisfy during your meal planning? What are some
-  foods particularly high in that vitamin or mineral? \#todo-exr0n
-  \end{quote}
-\end{enumerate}
+  A charged object can induce a temporary charge \textbf{migration} in
+  an uncharged object, but the entire object is still neutral.
+\end{itemize}
+
+\hypertarget{coulombs-law}{%
+\subsection{Coulomb's Law}\label{coulombs-law}}
+
+\(F\vec{F} = \frac{1}{4\pi\epsilon_0}\left(\frac{q_1 q_2}{r^2}\right) = k\frac{q_1 q_2}{r^2}\)
+
+\(k = 8.99_{x10^5} \frac{N m^2}{C^2}\)
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Variable & Units & Description\tabularnewline
+\midrule
+\endhead
+\(q_1\), \(q_2\) & Coulomb (\(C\)) & The charge of each
+particle\tabularnewline
+\(r\) & Meters (\(m\)) & Distance between centers of
+charges\tabularnewline
+\bottomrule
+\end{longtable}
+
+\(\epsilon_0\) and \(k\) are different ways of representing the
+constant.
+
+\hypertarget{signs}{%
+\subsubsection{Signs}\label{signs}}
+
+\textbf{Be very careful with signs:}
+
+If \(\vec{F} < 0\), charges repel each other.
+
+If \(\vec{F} > 0\), charges attract each other.
+
+\hypertarget{multiple-charges}{%
+\subsubsection{Multiple Charges}\label{multiple-charges}}
+
+You have to calculate each pairwise charge, and then add them up for
+each particle. This is normal (vector) addition, so you can actually add
+them (to get a vector field) and then apply it to a test particle
+directly.
+
+\hypertarget{fields}{%
+\subsubsection{Fields}\label{fields}}
+
+\(F_{elec} = k \frac{Q_1 Q_2}{R^2}\)
+
+\(F_{grav} = G \frac{M_1 M_2}{R^2}\)
+
+\(F_{elec} = \bf{E} Q_1\)
+
+You can add fields together component-wise to get a combined field from
+multiple charged particles.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
