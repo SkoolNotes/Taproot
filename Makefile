@@ -33,13 +33,13 @@ flush:
 	perl -pi -e 's/title: //g' indxtable.html
 
 %.latex: %.md
-	pandoc --filter pandoc-img-glob -f markdown -t latex $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.latex
+	pandoc -f markdown -t latex $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.latex
 
 %.html: %.latex
-	pandoc --filter pandoc-img-glob -f latex -t html $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.html
+	pandoc -f latex -t html $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.html
 
 %.pdf: %.md
-	pandoc --filter pandoc-img-glob -f markdown -t pdf $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.latex
+	pandoc -f markdown -t pdf $< --pdf-engine=xelatex --mathjax -o $@ --template=~/.pandoc/templates/default.latex
 
 tar: $(MARKDOWN)
 	tar --exclude=notes.tar.gz --exclude=.git/ -czvf notes.tar.gz ./
