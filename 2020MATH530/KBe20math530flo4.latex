@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 2020eng201 }
-\newcommand{\thelesson}{ English Master Index }
+\newcommand{\thecourse}{ 20math530 }
+\newcommand{\thelesson}{ LinAlg Flo 4 }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu, Exr0n \(\cdot\) \textbf{2020-2021}}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -163,149 +163,250 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
-
-\#source
+{\href{http://taproot.shabang.cf/relay?request=KBe2020math530floIndex}{\tiny\textulf{[[}\textbf{KBe2020math530floIndex}\textulf{]]}}}\thinspace
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{Topics for English 10}
-  {[}{[}KBe2020eng201refEnglishTopics{]}{]}
-\item
-  \textbf{Cololianlism, imperialsim, globalization Think-Pair-Share}
-  {[}{[}KBe-2020eng201floD1Breakout{]}{]}
-\item
-  \textbf{Alexa, Day 1}
+  Vector spaces and fields are like groups
 
   \begin{itemize}
   \tightlist
   \item
-    Jack's take: {[}{[}KBhENG201AlexaD1{]}{]}
-  \item
-    Zach's take: {[}{[}KBDayoneEnglishZachary{]}{]}
-  \item
-    Huxley's take: {[}{[}KBEngDayOne{]}{]}
+    With 2 operations
   \end{itemize}
 \item
-  Short Stories
+  Vector
 
   \begin{itemize}
   \tightlist
   \item
-    Readings: {[}{[}KBFall2020English10Short StoriesPacket.pdf{]}{]}
+    direction and magnitude
   \item
-    \textbf{The I Is Never Alone}
+    numbers with an order
 
     \begin{itemize}
     \tightlist
     \item
-      Albert:
-
-      \begin{itemize}
-      \tightlist
-      \item
-        {[}{[}KB2NotesonTheIIsNeverAlone{]}{]} The I is Never Along,
-        notes
-      \item
-        {[}{[}KBe2020eng201floImperalismNotes{]}{]} The I Is Never Alone
-        + Imperialism
-      \end{itemize}
+      list = ordered set
     \item
-      Jack:
-
-      \begin{itemize}
-      \tightlist
-      \item
-        {[}{[}KBhENG201TheIIsNeverAlone{]}{]} The I is Never Alone,
-        Jack's Thoughts
-      \end{itemize}
-    \item
-      Zach
-    \item
-      Hux:
-
-      \begin{itemize}
-      \tightlist
-      \item
-        {[}{[}KBTheIIsNeverAloneEnglishReadingNotes{]}{]}
-      \end{itemize}
+      \(N\)x\(1\) matrix
     \end{itemize}
   \item
-    \textbf{Baobab + Colonialism}
+    A vector is not just an \(N\)x\(1\) matrix. \textbf{A vector exists
+    in a vector space}
 
     \begin{itemize}
     \tightlist
     \item
-      Huxley: {[}{[}KBColonialismShortStory{]}{]}
-    \item
-      Huxley: {[}{[}KBBaobabNotes{]}{]}
-    \item
-      Exr0n {[}{[}20eng201floBaobabDebrief{]}{]}
+      might be full of physics vectors, matrices, or polynomials
     \end{itemize}
+  \end{itemize}
+\item
+  Field
+
+  \begin{itemize}
+  \tightlist
   \item
-    Elizabeth Bishop Poems
+    Addition and multiplication might be different
 
     \begin{itemize}
     \tightlist
     \item
-      Huxley: {[}{[}KBElizabethBishop{]}{]}
+      might be related to normal addition/multiplication
+    \item
+      might by any binary operation
+    \item
+      Addition is ``primary'' operation, multiplication is ``secondary''
+
+      \begin{itemize}
+      \tightlist
+      \item
+        addition is really good (more group like)
+      \item
+        multiplication needs to exclude the additive identity (because
+        it can't have an inverse)
+      \end{itemize}
+    \item
+      questions
+
+      \begin{itemize}
+      \tightlist
+      \item
+        multiplication is repeated addition?
+
+        \begin{itemize}
+        \tightlist
+        \item
+          not nessacarily
+        \end{itemize}
+      \item
+        binary expressions?
+      \item
+        associative?
+
+        \begin{itemize}
+        \tightlist
+        \item
+          both yes
+        \end{itemize}
+      \end{itemize}
+    \item
+      1.3 demonstrates that the complex numbers are a field
+
+      \begin{itemize}
+      \tightlist
+      \item
+        communativity
+      \item
+        associativity
+      \item
+        identities
+      \item
+        additive inverse
+      \item
+        multiplicitive inverse except additive identity
+      \item
+        distributive
+      \end{itemize}
+    \end{itemize}
+  \item
+    usually means Reals or Complex
+
+    \begin{itemize}
+    \tightlist
+    \item
+      ints mod 3 are a field
+
+      \begin{itemize}
+      \tightlist
+      \item
+        \#bonushw show ints mod 3 are a field
+      \end{itemize}
+    \end{itemize}
+  \item
+    higher dimensions
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \(R^2\) is a cartesian plane, \(R^4\) is a space
+    \end{itemize}
+  \item
+    operations
+
+    \begin{itemize}
+    \tightlist
+    \item
+      addition is really nice (element wise)
+    \item
+      scalar multiplication is easy enough
+    \item
+      vector vector multiplication is hard to find
     \end{itemize}
   \end{itemize}
 \item
-  \textbf{Close Reading + Assessment 1}
+  two square roots of \(i\)
 
   \begin{itemize}
   \tightlist
   \item
-    {[}{[}KBhENG201CloseReading{]}{]}
+    fundamental theorem of algebra
+
+    \begin{itemize}
+    \tightlist
+    \item
+      (important)
+    \end{itemize}
   \item
-    {[}{[}KBWhatIsCloseReading{]}{]}
+    So, \(i\) should have two square roots
   \item
-    {[}{[}KBhENG201CloseReadingAss1{]}{]}
+    Powers of \(i\) go in a circle (90 degrees rotation)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Complex number rotation gives a preferred direction
+    \item
+      So that's why the quadrants are numbered in that direction
+    \end{itemize}
   \item
-    Exr0n {[}{[}KBe20eng201retA1index{]}{]}
+    One can be found geometrically
+    {[}{[}20math530srcSquareRootI.png{]}{]}
+  \item
+    We could also try it algebraically
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \((a+bi)^2=i=a^2-b^2+2abi\)
+    \item
+      so \(a^2-b^2 = 0\) and \(2ab = 1\)
+    \end{itemize}
   \end{itemize}
 \item
-  Thoughts on Imperialism and Colonialism
+  dot product
 
   \begin{itemize}
   \tightlist
   \item
-    {[}{[}KBhENG201ImperialismColonialism{]}{]}
+    How much of \(\vec{A}\) is in the direction of \(\vec{B}\)
+    multiplied by the magnitude of \(\vec{B}\)
+  \item
+    \(\vec{A} \cdot \vec{B} = |A||B| cos \theta\)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \#bonushw prove that \^{}\^{}
+    \end{itemize}
+  \item
+    Identity: \(\frac{\vec{A}\cdot\vec{B}}{|A||B|} = cos \theta\)
   \end{itemize}
 \item
-  \textbf{Heart of Darkness}
+  cross product
 
   \begin{itemize}
   \tightlist
   \item
-    {[}{[}KBhENG201HeartOfHardness{]}{]} Heart of Darkness Index
+    only works on 3x1 matrices
+  \item
+    steps
+
+    \begin{itemize}
+    \tightlist
+    \item
+      determinant
+    \item
+      \(i\), \(j\), \(k\) are the unit vectors
+    \item
+      \[\begin{bmatrix}2\\1\\0\end{bmatrix}\begin{bmatrix}1\\2\\-1\end{bmatrix} =
+        \left|\begin{bmatrix}i &j &k\\2 &1 &0\\1 &2 &-1\end{bmatrix}\right| = i\left|\begin{bmatrix}1&0\\2&-1\end{bmatrix}\right|-j\begin{bmatrix}2&0\\1&-1\end{bmatrix} + k\begin{bmatrix}2&1\\1&2\end{bmatrix} = \begin{bmatrix}-1\\2\\3\end{bmatrix}\]
+    \end{itemize}
   \end{itemize}
+\item
+  dropping zero: \(0a = (0+0)a = 0a+0a \Rightarrow 0a = 0\), so the
+  additive identity can't have a multiplicative inverse (everything
+  multiplied it will just be the additive identity)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}20math530srcFieldsMultiplyCannotBeGroup.png{]}{]}
+  \end{itemize}
+\item
+  determinant
+
+  \begin{itemize}
+  \tightlist
+  \item
+    measures the ``size'' of a matrix, denoted absolute value (relevant
+    to inverse of a matrix multiplication)
+  \end{itemize}
+\item
+  \#todo \#exr0n \#future prove identities are unique
 \end{itemize}
 
-\hypertarget{annotated-docs}{%
-\subsection{Annotated Docs}\label{annotated-docs}}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\endhead
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Notes on \texttt{The\ I\ Is\ Never\ Alone}\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KB2NotesonTheIIsNeverAlone{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-\emph{The I Is Never Alone} + imperialism notes\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe2020eng201floImperalismNotes{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-\emph{The Bird-Dreaming Baobab} pass 0\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe2020eng201floBirdDreamingBaobab0.pdf{]}{]}\strut
-\end{minipage}\tabularnewline
-\bottomrule
-\end{longtable}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}

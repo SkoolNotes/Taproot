@@ -11,5 +11,7 @@ source: KBe2020math530floIndex
 ## Is Dot Product Nice?
 - From homework [[20math530retReadingTheTextbook]]
 - Nice = group properties
+	- They aren't because its not closed
+	- However, we still like dot product because it can easily tell us if the thing is perpendicular
 
 ---
