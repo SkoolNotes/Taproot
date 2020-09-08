@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -161,12 +163,6 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
-
-{[}{[}KBe2020math401refExr0nRetIndex{]}{]}
-
 \hypertarget{questions}{%
 \subsection{Questions}\label{questions}}
 
@@ -177,9 +173,30 @@
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
+Day & Link\tabularnewline
+\midrule
 \endhead
-2020-09-1 & {[}{[}eFloCalcD3{]}{]}\tabularnewline
+1 & {[}{[}KBe2020math401flo1{]}{]}\tabularnewline
+2 & {[}{[}KBe2020math401flo2{]}{]}\tabularnewline
+3 & {[}{[}eFloCalcD3{]}{]}\tabularnewline
 \bottomrule
 \end{longtable}
+
+\hypertarget{homework}{%
+\subsection{Homework}\label{homework}}
+
+\begin{longtable}[]{@{}rll@{}}
+\toprule
+HW & Due Date & Link\tabularnewline
+\midrule
+\endhead
+0 & 2020-08-27 & {[}{[}KBe2020math401ret0MyIntro{]}{]}\tabularnewline
+1\_1 & 2020-09-01 & {[}{[}RETcalc1\_1.pdf{]}{]}\tabularnewline
+Easy\_1 & 2020-09-03 & {[}{[}eFloCalcD3{]}{]} (continued
+classwork)\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}

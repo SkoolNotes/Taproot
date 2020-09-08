@@ -105,13 +105,19 @@
       <li><p><em>Deber + inf</em> =&gt; You gotta</p></li>
       <li><p><em>Necesitas + inf</em> =&gt; You need to</p></li>
       </ul>
+      <p>“Recibe una examinen medico <strong>una vez cada</strong> seis meses.”</p>
+      <h2 id="verbs-that-are-special">Verbs that are Special</h2>
+      <p>Poder =&gt; Pud*</p>
+      <p>Estar =&gt; Estu*</p>
+      <p>Poner =&gt; Pus*</p>
+      <p>Querer =&gt; Quis*</p>
+      <p>Tener =&gt; Tuv*</p>
   </div>
 
   <script>
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              <!--let docPointer = x.match(/(\w)*/);-->
               let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;

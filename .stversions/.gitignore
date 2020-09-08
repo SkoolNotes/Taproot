@@ -1,6 +1,7 @@
 # Logs
 logs
 *.log
+syncthing.log.txt.tmp
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -133,4 +134,4 @@ dist.zip
 $VIMCONFIG
 
 # syncthing sync conflicts
-*.sync
+*.sync-conflict*

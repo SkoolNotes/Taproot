@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 2020math401 }
-\newcommand{\thelesson}{ Calculus Index with Nas }
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,19 +162,46 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBCalculusMasterIndex}{\tiny\textulf{[[}\textbf{KBCalculusMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{questions}{%
+\subsection{Questions}\label{questions}}
+
+{[}{[}eRefCalcQuestions{]}{]}
+
+\hypertarget{flows}{%
+\subsection{Flows}\label{flows}}
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
+Day & Link\tabularnewline
+\midrule
 \endhead
-Concepts and Notation &
-{[}{[}KBe2020math401refCalcConceptsNotation{]}{]}\tabularnewline
-Introduction & {[}{[}KBe2020math401flo1{]}{]}\tabularnewline
-Flow Index & {[}{[}KBe2020math401floDailyIndex{]}{]}\tabularnewline
-Assignments & {[}{[}KBe2020math401refExr0nRetIndex{]}{]}\tabularnewline
+1 & {[}{[}KBe2020math401flo1{]}{]}\tabularnewline
+2 & {[}{[}KBe2020math401flo2{]}{]}\tabularnewline
+3 & {[}{[}eFloCalcD3{]}{]}\tabularnewline
+5 & {[}{[}KBe20math401flo5{]}{]}\tabularnewline
 \bottomrule
 \end{longtable}
+
+\hypertarget{homework}{%
+\subsection{Homework}\label{homework}}
+
+\begin{longtable}[]{@{}rll@{}}
+\toprule
+HW & Due Date & Link\tabularnewline
+\midrule
+\endhead
+0 & 2020-08-27 & {[}{[}KBe2020math401ret0MyIntro{]}{]}\tabularnewline
+1\_1 & 2020-09-01 & {[}{[}RETcalc1\_1.pdf{]}{]}\tabularnewline
+Easy\_1 & 2020-09-03 & {[}{[}eFloCalcD3{]}{]} (continued
+classwork)\tabularnewline
+1\_2 & 2020-09-08 & {[}{[}20math401retHW1\_2.pdf{]}{]}\tabularnewline
+\bottomrule
+\end{longtable}
+
+Concepts and Notation \textbar{}
+{[}{[}KBe2020math401refCalcConceptsNotation{]}{]} Introduction
+\textbar{} {[}{[}KBe2020math401flo1{]}{]}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
