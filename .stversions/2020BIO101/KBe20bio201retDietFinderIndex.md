@@ -8,6 +8,7 @@ source: KBBiologyMasterIndex
 
 ## Script
 [GitHub Repo](https://github.com/SkoolNotes/diet-finder8000superplus)
+[Data Download]()
 
 ### Scriptable foods
 - dry white cheese
@@ -41,5 +42,8 @@ source: KBBiologyMasterIndex
 
 ### Exr0n's Plan
 [[KBe20bio101retFoodDataProteinAminos]]
+
+### Huxley's Plan
+[[kbbi]]
 
 ---

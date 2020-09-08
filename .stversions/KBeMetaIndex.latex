@@ -6,6 +6,9 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -159,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=README}{\tiny\textulf{[[}\textbf{README}\textulf{]]}}}\thinspace
 
 \hypertarget{howdy}{%
 \section{Howdy}\label{howdy}}
@@ -256,6 +257,8 @@ The ``default'' file for any topic. Should link to everything else.
 \end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
+
+Don't forget to
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

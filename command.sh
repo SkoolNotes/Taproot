@@ -7,9 +7,9 @@ while true; do
         make >> log.txt && \
         git add -A >> log.txt && \
         git reset -- log.txt >> log.txt && \
-        git commit -m "automated backup commit" >> log.txt) && \
+        git commit -m "automated compilation" >> log.txt) && \
         printf "Synced and commited at $(date)\r" || printf "Nothing to sync at $(date)        \r"
     git push --quiet
-    sleep 26
+    sleep 18
 done
 

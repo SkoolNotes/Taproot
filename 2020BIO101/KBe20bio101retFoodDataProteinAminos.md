@@ -16,6 +16,26 @@ I don't have a strong preference on what my preferred ratio is, especially becau
 3.  > Using  https://www.myfooddata.com (Links to an external site.), build a single day meal plan that achieves your goals. 
 #todo-exr0n
 
+From the script
+```
+Phenylalanine 81.2080685572291 %
+Valine 124.11991193514258 %
+Leucine 94.13009551708133 %
+Isoleucine 121.33660481656196 %
+Lysine 98.99885464164082 %
+Threonine 117.22718754701687 %
+Tryptophan 136.44759141786292 %
+Methionine 76.60724610188446 %
+Histidine 93.59079200960244 %
+You better goddamn eat 205.162743g o' broccoli
+You better goddamn eat 90.416268g o' mustard
+You better goddamn eat 369.057053g o' butter stick
+You better goddamn eat 16.536808g o' whole milk
+You better goddamn eat 161.597425g o' whole eggs
+```
+
+![[KBe20bio201retFoodDataProteinAminosDiet1.png]]
+
 4. > Cross check the https://www.myfooddata.com (Links to an external site.) essential amino acid values/food with the tables in the slides (Links to an external site.). Do they seem consistent? Provide evidence for you answer.
 #todo-exr0n
 
