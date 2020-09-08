@@ -37,6 +37,7 @@ source: KBe2020math530floIndex
 	- $\begin{bmatrix}x\\y\end{bmatrix}\Rightarrow\left|\begin{bmatrix}i&j\\x&y\end{bmatrix}\right| = iy-jx = \begin{bmatrix}y\\-x\end{bmatrix}$
 ## Taking the Determinant
 - We take the sub-matrices on a torus
-	- But if 
+	- But if you wrap everything around properly then you have a plus in front of every coefficient
+	- But if you don't wrap it, then the determinant ends up being the negative, so thats why there's the whole 
 
 ---
