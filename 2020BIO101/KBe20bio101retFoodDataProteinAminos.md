@@ -11,7 +11,7 @@ It seems like 0.8 g per kg of human male is the accepted RDI. [Harvard Health Bl
 
 2.  > What is your preferred animal:plant protein ration and why? (essential amino acids, environmental)
 
-I don't have a strong preference on what my preffered ratio is, especially because we don't usually 
+I don't have a strong preference on what my preffered ratio is, especially because I don't pay too much attention to what I eat. I don't particularly like eating food, and I don't particularly like eating meat, so I think I could go for a more environmentally friendly ratio, because even ovordosing on some amino acids to hit the rarer ones RDI would be less environmentally impactful 
 
 3.  > Using  https://www.myfooddata.com (Links to an external site.), build a single day meal plan that achieves your goals. 
 
