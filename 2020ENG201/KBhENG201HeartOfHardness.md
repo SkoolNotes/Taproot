@@ -11,4 +11,14 @@ course: ENG201
 
 Ok. Now that that's out of the way, let's deal with this "Bloody Racist" book. To understand this work fully, one must understand Congo, its govermental systems, and the Scramble for Africa (Africa's cakeification by Europeans). 
 
+## Critical Theory
+An approach to contentualize a text + see through to something. Think: "a feminist lens" — Critical Race Theory, Queer Theory, Maxist Theory, Feminist Theory, Post-Colonial Theory, Colonial Theory, Cultral Studies, etc. etc.
+
+And, here's the rub: **History is Written by the Victors** — an important part of the analysis of the _Heart of Darkness_ is to recognize its story in a Colonial Lens.
+
+## Colonial Theory
+* View through the Colonizer
+* "Written by the victors"
+
+[The Various Lit Theories](https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/literary_theory_and_schools_of_criticism/)
 

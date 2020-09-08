@@ -19,5 +19,21 @@ source: KBe2020math530floIndex
 ### Inverse of a matrix
 - Use 2 systems of equations (2 variables, 2 equations, twice)
 ![[KBe20math530srcMatrixInverse.png]]
+- $y = \frac{c}{bc-ad} = \frac{-c}{ad-bc}$
+- Determinant determines whether its possible to have an inverse (because if it's zero, then it's not possible!)
+	- A matrix with no inverse is **SINGULAR**
+	- Determinant of $A$ is zero
+	- A has no inverse
+
+## Proof Attempt Discussion Page?
+
+## Small Groups
+1. Calculate cross products
+2. Graph cross products
+3. Cross Product geometry?
+	- It's the perpendicular!
+4. Determinant geometric interpretation?
+	- It's the perpendicular! IF you crossproduct-ify
+	- $\begin{bmatrix}x\\y\end{bmatrix}\Rightarrow\left|\begin{bmatrix}i&j\\x&y\end{bmatrix}\right| = iy-jx = \begin{bmatrix}y\\-x\end{bmatrix}$
 
 ---

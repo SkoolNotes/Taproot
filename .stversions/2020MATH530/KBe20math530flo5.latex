@@ -174,13 +174,20 @@
   Unmute yourself
 \end{itemize}
 
-\hypertarget{is-dot-product-nice}{%
-\subsection{Is Dot Product Nice?}\label{is-dot-product-nice}}
+\hypertarget{homework-review}{%
+\subsection{Homework Review}\label{homework-review}}
 
 \begin{itemize}
 \tightlist
 \item
   From homework {[}{[}20math530retReadingTheTextbook{]}{]}
+\end{itemize}
+
+\hypertarget{is-dot-product-nice}{%
+\subsubsection{Is Dot Product Nice?}\label{is-dot-product-nice}}
+
+\begin{itemize}
+\tightlist
 \item
   Nice = group properties
 
@@ -193,6 +200,65 @@
     the thing is perpendicular
   \end{itemize}
 \end{itemize}
+
+\hypertarget{inverse-of-a-matrix}{%
+\subsubsection{Inverse of a matrix}\label{inverse-of-a-matrix}}
+
+\begin{itemize}
+\tightlist
+\item
+  Use 2 systems of equations (2 variables, 2 equations, twice)
+  {[}{[}KBe20math530srcMatrixInverse.png{]}{]}
+\item
+  \(y = \frac{c}{bc-ad} = \frac{-c}{ad-bc}\)
+\item
+  Determinant determines whether its possible to have an inverse
+  (because if it's zero, then it's not possible!)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A matrix with no inverse is \textbf{SINGULAR}
+  \item
+    Determinant of \(A\) is zero
+  \item
+    A has no inverse
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{proof-attempt-discussion-page}{%
+\subsection{Proof Attempt Discussion
+Page?}\label{proof-attempt-discussion-page}}
+
+\hypertarget{small-groups}{%
+\subsection{Small Groups}\label{small-groups}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Calculate cross products
+\item
+  Graph cross products
+\item
+  Cross Product geometry?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    It's the perpendicular!
+  \end{itemize}
+\item
+  Determinant geometric interpretation?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    It's the perpendicular! IF you crossproduct-ify
+  \item
+    \(\begin{bmatrix}x\\y\end|\begin{bmatrix}i&j\\x&y\end{bmatrix}\right| = iy-jx = \begin{bmatrix}y\\-x\end{bmatrix}\)
+  \end{itemize}
+\end{enumerate}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

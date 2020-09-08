@@ -67,8 +67,7 @@ source: KBe2020math530floIndex
 		- determinant
 		- $i$, $j$, $k$ are the unit vectors
 		- $$\begin{bmatrix}2\\1\\0\end{bmatrix}\begin{bmatrix}1\\2\\-1\end{bmatrix} =
-		$$ $$
-		\left|\begin{bmatrix}i &j &k\\2 &1 &0\\1 &2 &-1\end{bmatrix}\right| = i\left|\begin{bmatrix}1&0\\2&-1\end{bmatrix}\right|-j\begin{bmatrix}2&0\\1&-1\end{bmatrix} + k\begin{bmatrix}2&1\\1&2\end{matrix} =$$ $$ \begin{bmatrix}-1\\2\\3\end{bmatrix}$$
+		\left|\begin{bmatrix}i &j &k\\2 &1 &0\\1 &2 &-1\end{bmatrix}\right| = i\left|\begin{bmatrix}1&0\\2&-1\end{bmatrix}\right|-j\left|\begin{bmatrix}2&0\\1&-1\end{bmatrix} + k\left|\begin{bmatrix}2&1\\1&2\end{bmatrix}\right| = \begin{bmatrix}-1\\2\\3\end{bmatrix}$$
 - dropping zero: $0a = (0+0)a = 0a+0a \Rightarrow 0a = 0$, so the additive identity can't have a multiplicative inverse (everything multiplied it will just be the additive identity)
 	- ![[20math530srcFieldsMultiplyCannotBeGroup.png]]
 - determinant
