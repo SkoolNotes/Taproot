@@ -44,6 +44,6 @@ source: KBBiologyMasterIndex
 [[KBe20bio101retFoodDataProteinAminos]]
 
 ### Huxley's Plan
-[[kbbi]]
+[[KBBioDietStorage]]
 
 ---
