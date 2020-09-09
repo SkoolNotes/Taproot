@@ -18,6 +18,7 @@ Safavid's started to copy Ottoman war tactics after they lost. They even kept a 
 
 > Had a big scary navy - *Arta, 2020*
 
+But couldn't take over the Medaterainian --  too many competing earopoean forces. 
 
 
 
