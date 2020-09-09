@@ -14,8 +14,8 @@ Nothing. Matrix multiplication is not commutative.
 2. > Use matrices to solve the system:
    > $\begin{aligned}2x-y=3\\x+3y=5\end{aligned}$
    
-$-$
-\begin{split}
+$$
+\begin{aligned}
 &&\left[\begin{matrix}2&-1\\1&3\end{matrix}\right]
 &\left[\begin{matrix}x\\y\end{matrix}\right] &=
 &&\left[\begin{matrix}3\\5\end{matrix}\right]
@@ -59,17 +59,17 @@ $-$
 \\
 &&& x + 3 y &= 5&&
 \\
-\end{split}
-$-$
+\end{aligned}
+$$
 I'm not sure how to solve the rest of it with matrices, so I'll just do it normally:
 $-$
-\begin{split}
+\begin{aligned}
 x &= 2\\
 x + 3y &= 5\\
 2 + 3y &= 5\\
 3y &= 3\\
 y &= 1\\
-\end{split}
+\end{aligned}
 $-$
 3. > Do 2x2 matrices form a group under
    > a. addition?
