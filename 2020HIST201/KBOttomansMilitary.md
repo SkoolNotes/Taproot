@@ -32,7 +32,7 @@ Kennedy argues that the ottomans seemed to have a good grand strategy,
 
 - delta Grand strategy / delta time
 
-
+1. c
 
 
 
