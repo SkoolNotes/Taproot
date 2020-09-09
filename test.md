@@ -84,7 +84,7 @@ I'll assume that our matrices have real numbers in them.
 
 Associativity of 2x2 matrices under multiplication:
 $$
-\begin{align}
+\begin{aligned}
 \left(\left[\begin{matrix}a&b\\c&d\end{matrix}\right]
 \left[\begin{matrix}e&f\\g&h\end{matrix}\right]\right)
 \left[\begin{matrix}i&j\\k&l\end{matrix}\right]
@@ -100,7 +100,7 @@ $$
 \left[\begin{matrix}a&b\\c&d\end{matrix}\right]
 \left(\left[\begin{matrix}e&f\\g&h\end{matrix}\right]
 \left[\begin{matrix}i&j\\k&l\end{matrix}\right]\right)
-\end{align}
+\end{aligned}
 $$
 
 I can't figure out if 2x2 matrices have multiplicative inverses... I tried to work it out using algebra but kept proving identities. Not sure what the right way to go about this is...
