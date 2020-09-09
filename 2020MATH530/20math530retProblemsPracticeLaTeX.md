@@ -29,6 +29,6 @@ $$
 - **A scalar is anything in $F$, which means it might be complex!**
 - Vector space definition
 	- communativity(!): $u +v = v+u. \forall u, v \in V$
-	- associativity: $(u+v)+w = u+(v+w)
+	- associativity: $(u+v)+w = u+(v+w) and (ab)v = a(bv). \forall u, v, w \in V 
 
 ---
