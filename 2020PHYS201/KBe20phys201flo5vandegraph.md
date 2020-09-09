@@ -1,3 +1,4 @@
+Steve video
 corona discharge
 - charges ground off a point easier than 
 
