@@ -192,15 +192,13 @@
 \begin{verbatim}
 \end{verbatim}
 
-Diet List: 1. 150.891598g Turkey Sausage
+Diet List: - 150.891598g Turkey Sausage
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{1}
+\begin{itemize}
 \tightlist
 \item
   75.102569g Mustard
-\end{enumerate}
+\end{itemize}
 
 \hypertarget{aatsb}{%
 \section{AATSB}\label{aatsb}}
@@ -231,12 +229,16 @@ Diet List: 1. 150.891598g Turkey Sausage
 
 Diet List:
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
+\begin{itemize}
 \item
   205.162743g broccoli
 \item
   90.416268g mustard
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
 \item
   369.057053g butter stick
 \item

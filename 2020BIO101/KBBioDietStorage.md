@@ -27,9 +27,9 @@ source: #index
 ```
 ```
  Diet List:
- 1. 150.891598g Turkey Sausage
+ - 150.891598g Turkey Sausage
  
- 2. 75.102569g Mustard
+ - 75.102569g Mustard
 
 # AATSB
 - Phenylalanine 81.2080685572291%
@@ -53,9 +53,9 @@ source: #index
 ```
  Diet List:
  
- 1. 205.162743g broccoli
+ - 205.162743g broccoli
  
- 2. 90.416268g mustard
+ - 90.416268g mustard
  
  3. 369.057053g butter stick
  
