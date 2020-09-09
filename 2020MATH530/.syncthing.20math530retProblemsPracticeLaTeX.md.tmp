@@ -51,10 +51,11 @@ We need an expresion for $\theta$:
 $\theta = \frac{\pi}{2} - \alpha - \beta$
 $$
 \begin{split}
-cos\theta &= cos\left(\frac{\pi}{2}-\alpha-\beta\right)\\
-&= sin(\alpha + \beta)\\
-&= sin\alpha\ cos\beta + cos\alpha\ sin\beta\\
-&= \left(\frac{y}{|A|}\right)\left(\frac{z}{|B|}\right)+\left(\frac{x}{|A|}\right)\left(\frac{w}{|B|}\right)
+|A||B|cos\theta &= |A||B| cos\left(\frac{\pi}{2}-\alpha-\beta\right)\\
+&= |A||B| sin(\alpha + \beta)\\
+&= |A||B| sin\alpha\ cos\beta + cos\alpha\ sin\beta\\
+&= |A||B| \left(\frac{y}{|A|}\right)\left(\frac{z}{|B|}\right)+\left(\frac{x}{|A|}\right)\left(\frac{w}{|B|}\right)\\
+&= |A||B| \frac{yz}{|A||B|}
 \end{split}
 $$
 
