@@ -48,7 +48,8 @@ $$
 Suppose $a = \begin{bmatrix}x\\y\end{bmatrix}$ and $b = \begin{bmatrix}w\\z\end{bmatrix}$
 $$
 \begin{split}
-a\bullet b = a^T\cdot b = \begin{bmatrix}x&y\end{bmatrix} \cdot \begin{bmatrix}w\\z\end{bmatrix}
+a\bullet b = a^T\cdot b = \begin{bmatrix}x&y\end{bmatrix} \begin{bmatrix}w\\z\end{bmatrix} = xw+yz
+
 
 \end{split}
 $$
