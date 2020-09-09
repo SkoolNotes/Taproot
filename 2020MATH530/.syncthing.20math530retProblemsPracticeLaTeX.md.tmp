@@ -54,7 +54,7 @@ $$
 cos\theta &= cos(\frac{\pi}{2}-\alpha-\beta)\\
 &= sin(\alpha + \beta)\\
 &= sin(\alpha)cos(\beta) + cos(\alpha)sin(\beta)\\
-&= (\frac{y}{|A|})(\frac{z}{|B|})+(\frac{})
+&= \left(\frac{y}{|A|}\right)\left(\frac{z}{|B|}\right)+\left(\frac{x}{|A|}\right)\left(\frac{w}{|B|}\right)
 \end{split}
 $$
 
