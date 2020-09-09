@@ -51,7 +51,7 @@ We need an expresion for $\theta$:
 $\theta = \frac{\pi}{2} - \alpha - \beta$
 $$
 \begin{split}
-cos\theta &= cos(\frac{\pi}{2}-\alpha-\beta)\\
+cos\theta &= cos\left(\frac{\pi}{2}-\alpha-\beta\right)\\
 &= sin(\alpha + \beta)\\
 &= sin\alpha\ cos\beta + cos\alpha\ sin\beta\\
 &= \left(\frac{y}{|A|}\right)\left(\frac{z}{|B|}\right)+\left(\frac{x}{|A|}\right)\left(\frac{w}{|B|}\right)
