@@ -27,6 +27,7 @@ source: #index
 * Textbook models of History [[KBhHIST201HistModHist]]
 * Mann, Ming
     * Jack — [[KBhHIST201MannMing]]
+	- Alb - [[retExr0nMannMingTrade]]
 * Bulliet 19 
 	* Huxley: [[KBBullietCh19]]
 
