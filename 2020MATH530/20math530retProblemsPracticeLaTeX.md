@@ -38,5 +38,6 @@ $$
 - Vector spaces with other sets? $F^S$
 	- $F^S$ is the set of functions from $S$ to $F$
 		- meaning that it's all functions whose domains are subsets of $S$ and ranges are subsets of $F$?
+	- $f, g \in F^S, x \in F: (f + g)(x) = f(x)+g(x)$
 
 ---
