@@ -30,9 +30,8 @@ But couldn't take over the Mediterranean --  too many competing European forces.
 Kennedy argues that the ottomans seemed to have a good grand strategy, 
 
 
-- delta Grand strategy / delta time
+- $$\Delta$$ Grand strategy / $$\Delta time$$
 
-1. $$\Delta$$
 
 
 
