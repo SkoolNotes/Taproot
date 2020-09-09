@@ -234,18 +234,13 @@ Diet List:
   205.162743g broccoli
 \item
   90.416268g mustard
-\end{itemize}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{2}
 \item
   369.057053g butter stick
 \item
   16.536808g whole milk
 \item
   161.597425g whole eggs
-\end{enumerate}
+\end{itemize}
 
 \hypertarget{the-magic-school-bus}{%
 \section{The Magic School Bus}\label{the-magic-school-bus}}
@@ -274,14 +269,13 @@ Diet List:
 \begin{verbatim}
 \end{verbatim}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
+\begin{itemize}
 \item
   127.386725g Turkey sausage
 \item
   362.514000g Broccoli
 \item
   84.627282g Mustard
-\end{enumerate}
+\end{itemize}
 
 \end{document}
