@@ -185,12 +185,12 @@ Nothing. Matrix multiplication is not commutative.
 \item
   \begin{quote}
   Use matrices to solve the system:
-  \(\begin{align*}2x-y=3\\x+3y=5\end{align*}\)
+  \(\begin{aligned}2x-y=3\\x+3y=5\end{aligned}\)
   \end{quote}
 \end{enumerate}
 
 \[
-\begin{equation}\begin{split}
+\begin{aligned}
 &&\left[\begin{matrix}2&-1\\1&3\end{matrix}\right]
 &\left[\begin{matrix}x\\y\end{matrix}\right] &=
 &&\left[\begin{matrix}3\\5\end{matrix}\right]
@@ -230,18 +230,20 @@ Nothing. Matrix multiplication is not commutative.
 &&\left[\begin{matrix}x\\x+3y\end{matrix}\right]&&=
 &&\left[\begin{matrix}2\\5\end{matrix}\right]
 \\
-&&& x &= 2 \\
-&&& x + 3 y &= 5 \\
-\end{split}\end{equation}
+&&& x &= 2 &&
+\\
+&&& x + 3 y &= 5&&
+\\
+\end{aligned}
 \] I'm not sure how to solve the rest of it with matrices, so I'll just
 do it normally: \[
-\begin{equation}\begin{split}
+\begin{aligned}
 x &= 2\\
 x + 3y &= 5\\
 2 + 3y &= 5\\
 3y &= 3\\
 y &= 1\\
-\end{split}\end{equation}
+\end{aligned}
 \] 3. \textgreater{} Do 2x2 matrices form a group under \textgreater{}
 a. addition? \textgreater{} b. multiplication?
 
@@ -295,7 +297,7 @@ Undecided\strut
 \end{longtable}
 
 Associativity of 2x2 matrices under multiplication: \[
-\begin{multline}
+\begin{aligned}
 \left(\left[\begin{matrix}a&b\\c&d\end{matrix}\right]
 \left[\begin{matrix}e&f\\g&h\end{matrix}\right]\right)
 \left[\begin{matrix}i&j\\k&l\end{matrix}\right]
@@ -311,7 +313,7 @@ Associativity of 2x2 matrices under multiplication: \[
 \left[\begin{matrix}a&b\\c&d\end{matrix}\right]
 \left(\left[\begin{matrix}e&f\\g&h\end{matrix}\right]
 \left[\begin{matrix}i&j\\k&l\end{matrix}\right]\right)
-\end{multline}
+\end{aligned}
 \]
 
 I can't figure out if 2x2 matrices have multiplicative inverses\ldots{}
