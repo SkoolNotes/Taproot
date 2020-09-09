@@ -2,6 +2,7 @@
 #taproot_path="../../Taproot/"
 taproot_path="../materials/Taproot"
 while true; do
+    printf "working...                                \r"
     echo "\n\n\nLog for attempt at $(date)" >> log.txt
     git pull >> log.txt
 
