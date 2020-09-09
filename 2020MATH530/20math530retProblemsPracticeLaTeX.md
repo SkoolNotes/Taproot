@@ -17,7 +17,8 @@ $$
 \Rightarrow&\begin{bmatrix}i&j&k\\1&3&0\\2&2&-1\end{bmatrix}\\
 \Rightarrow&i\left|\begin{matrix}3&0\\2&-1\end{matrix}\right|
 +j\left|\begin{matrix}0&1\\-1&2\end{matrix}\right|
-+k\left|\begin{matrix}1&3\\2&2\end{matrix}\right|
++k\left|\begin{matrix}1&3\\2&2\end{matrix}\right|\\
+\Rightarrow& -5i + 
 \end{split}
 $$
 
