@@ -57,11 +57,11 @@ source: #index
  
  - 90.416268g mustard
  
- 3. 369.057053g butter stick
+ - 369.057053g butter stick
  
- 4. 16.536808g whole milk
+ - 16.536808g whole milk
  
- 5. 161.597425g whole eggs
+ - 161.597425g whole eggs
  
 
 
@@ -85,8 +85,8 @@ source: #index
 - Histidine 106.99994166721545%
 ```
 ```
- 1. 127.386725g Turkey sausage
+ - 127.386725g Turkey sausage
 
- 2. 362.514000g Broccoli
+ - 362.514000g Broccoli
 
- 3. 84.627282g Mustard
+ - 84.627282g Mustard
