@@ -41,5 +41,6 @@ $$
 	- addition $f, g \in F^S, x \in F: (f + g)(x) = f(x)+g(x)$
 	- multiplication: $\lambda \in F and f \in F^S : \lambda F \in F^S = (\lambda f)(x) = \lambda f(x)$
 	- functions can be elements in fields or something?
+	- lists are just functions on a set of numbers..?
 
 ---
