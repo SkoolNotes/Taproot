@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ CHEM201 }
-\newcommand{\thelesson}{ Macromolecules }
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Lipids }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -163,46 +163,104 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101Macromolecules}{\tiny\textulf{[[}\textbf{KBhBIO101Macromolecules}\textulf{]]}}}\thinspace
 
-\hypertarget{macromolecules}{%
-\section{Macromolecules}\label{macromolecules}}
+\#disorganized
 
-\hypertarget{scales}{%
-\subsection{Scales}\label{scales}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\textbf{Macromolecules}: Measured on the scale of picometres. Extremely
-small + at atomic scales.
+Firstly, LDF.
 
-\textbf{Macromolecule Structure}: Measured on the scale of nanometres.
+Pentaine =\textgreater{} Carbon-Carbon bonds has 0 EN difference w/ even
+distribution of electrons
 
-\textbf{Organelles + Viruses}: Measured on the scales of hundreds of
-nanometers
+\begin{itemize}
+\item
+  Electrons are randomly within their 3D shape
+\item
+  So, when electrons are accidentally concentrated, a dipole moment will
+  temporarily form ***
+\item
+  Pentaine!
 
-\textbf{Cells + Bacteria}: Measured on the scales of micrometers
+  \begin{itemize}
+  \tightlist
+  \item
+    Non polar
+  \item
+    Only have LDF
+  \item
+    So, water's dipole moment isn't very attractive anymore
+  \item
+    Larger surface area of pentain makes it happier bonding with each
+    other instead of water (more LDF opportunities with bigger surface
+    area of pentain)
+  \end{itemize}
+\item
+  Definition: lipids --- dominantly hydrophobic biological molecules
+  (``fats'')
+\end{itemize}
 
-\hypertarget{small-molecules-vs.-macromelecules}{%
-\subsection{``Small Molecules''
-vs.~``Macromelecules''}\label{small-molecules-vs.-macromelecules}}
+Single fatty acids
+\includegraphics{./Screen Shot 2020-09-09 at 2.58.49 PM.png}
 
 \begin{itemize}
 \tightlist
 \item
-  Small molecules --- \textless{} 30-40 atoms
+  Fatty acids --- Glycerol
 \item
-  Macromolecules --- \textgreater{} 30-40 atoms, joined by
-  polymerization or just, are, big
+  Fat (a.k.a. adapose tissue) -- Trglycerol (3) --- 3 gl
+\item
+  Saturated vs.~unsaturated fats
+
+  \begin{itemize}
+  \tightlist
+  \item
+    No Double bonds in left carbon chain: saturated fats, (butter)
+  \item
+    Double bonds in left carbon chain: unsaturated fats, (olive oil)
+  \end{itemize}
+\item
+  A question: given that saturated fats have no double bonds, why does
+  it melt later then the unsaturated fats?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Double bonds, due to their caused VESPR geometry (and hence the -1
+    hydrogen), are curved. This makes it harder to stack together,
+    causing a lower melting point
+  \item
+    Single bonds, due to their caused VESPR geometry, is flat. This
+    makes them easier to stack together, causing a higher melting point.
+  \end{itemize}
 \end{itemize}
 
-\hypertarget{some-macromolecules}{%
-\subsection{Some Macromolecules!}\label{some-macromolecules}}
+Phosolipids = 2 fatty acids + phosphate group
+
+\begin{figure}
+\centering
+\includegraphics{./Screen Shot 2020-09-09 at 3.15.41 PM.png}
+\caption{Screen Shot 2020-09-09 at 3.15.41 PM.png}
+\end{figure}
+
+Many of these will end up with membrane
+\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020BIO101/Screen Shot 2020-09-09 at 3.08.10 PM.png}
 
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBhBIO101Carbs{]}{]}
+  Head hydrophobic
 \item
-  {[}{[}KBhBIO101Lipids{]}{]}
+  Tail hydrophillic
+\item
+  Causes a string
 \end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020BIO101/Screen Shot 2020-09-09 at 3.11.54 PM.png}
+\caption{Screen Shot 2020-09-09 at 3.11.54 PM.png}
+\end{figure}
 
 \end{document}
