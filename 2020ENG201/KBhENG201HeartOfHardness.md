@@ -17,11 +17,11 @@ An approach to contentualize a text + see through to something. Think: "a femini
 
 And, here's the rub: **History is Written by the Victors** — an important part of the analysis of the _Heart of Darkness_ is to recognize its story in a Colonial Lens.
 
-## Colonial Theory
+[The Various Lit Theories](https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/literary_theory_and_schools_of_criticism/)
+
+### Colonial Theory
 * View through the Colonizer
 * "Written by the victors"
-
-[The Various Lit Theories](https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/literary_theory_and_schools_of_criticism/)
 
 ## Congo's Colonial History
 ### A timeline!
@@ -29,4 +29,4 @@ And, here's the rub: **History is Written by the Victors** — an important part
 
 ### Some background on the Congo Free State
 
-See The [[KBhENG201CongoFreeState]]
+The [[KBhENG201CongoFreeState]]
