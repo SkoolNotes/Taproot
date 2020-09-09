@@ -45,7 +45,7 @@ $$
 	- subtraction (additive inverses and identity are unique)
 	- **When you see $xy$, one of them has to be a vector because there is no scalar scalar multiplication defined**
 ## Show that $a\cdot b = |a||b|cos\theta$
-Suppose $a = \begin{bmatrix}x\\y\end{bmatrix}
+Suppose $a = \begin{bmatrix}x\\y\end{bmatrix}$ and $b = \begin{bmatrix}w\\z\end{bmatrix}$
 $$
 \begin{split}
 
