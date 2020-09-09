@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Lipids }
+\newcommand{\thelesson}{ Structure of lipids }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -163,70 +163,83 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBhBIO101Macromolecules}{\tiny\textulf{[[}\textbf{KBhBIO101Macromolecules}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101Lipids}{\tiny\textulf{[[}\textbf{KBhBIO101Lipids}\textulf{]]}}}\thinspace
 
-\hypertarget{lipids}{%
-\section{Lipids}\label{lipids}}
+\hypertarget{structure-of-lipids}{%
+\section{Structure of Lipids}\label{structure-of-lipids}}
 
-\hypertarget{pentaine}{%
-\subsection{Pentaine}\label{pentaine}}
+\hypertarget{fatty-acids}{%
+\subsection{Fatty acids}\label{fatty-acids}}
 
 \begin{figure}
 \centering
-\includegraphics{./pentane-plus-market-400x225.png}
-\caption{pentane-plus-market-400x225.png}
+\includegraphics{./Screen Shot 2020-09-09 at 2.58.49 PM.png}
+\caption{Screen Shot 2020-09-09 at 2.58.49 PM.png}
 \end{figure}
 
-A non-polar molecule that build up the fundamentals of lipids.
+A single penteine and embellishments. \textbf{Single Fatty acids =
+Glycerol}
+
+\hypertarget{trygricerol}{%
+\subsection{Trygricerol}\label{trygricerol}}
+
+\textbf{Fat! (a.k.a. adapose tissue) = Triglycerol: three gcycerals
+together.}
+
+\hypertarget{saturated-vs.-unsaturated-fats}{%
+\subsubsection{Saturated vs.~Unsaturated
+fats}\label{saturated-vs.-unsaturated-fats}}
+
+\textbf{Saturate Fats} \emph{No double bonds} in the carbon chain ---
+think! butter
+
+\textbf{Unsaturated Fats} \emph{Double bonds} in the carbon chain ---
+think! olive oils
+
+Saturated fats has a higher melting point then the unsaturated fats, but
+unsaturated fats have double bonds whereas saturated fats have single
+bonds only. Why?
 
 \begin{itemize}
 \tightlist
 \item
-  Non polar
+  Double bonds, due to their caused VESPR geometry (and hence the -1
+  hydrogen), are curved. This makes it harder to stack together, causing
+  a lower melting point
 \item
-  Will only have LDF
-\item
-  Hydrophobic
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Because it is non polar, will only have LDF
-  \item
-    So, water's dipole moment makes it not attractive to pentaine
-  \item
-    Large surface area of pentaine will result in more LDF (bigger
-    surface area =\textgreater{} more opportunities to LDF), so
-    pentaines will more likely to LDF with other pentains if given the
-    choice between pentain vs.~water
-  \end{itemize}
+  Single bonds, due to their caused VESPR geometry, is flat. This makes
+  them easier to stack together, causing a higher melting point.
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{phosophilids}{%
+\subsection{Phosophilids}\label{phosophilids}}
 
-\textbf{and now, a note on LDF}
+\textbf{2 fatty acids (hydrophobic) + phosphate group (hydrophillic)}
 
-Pentaine =\textgreater{} Carbon-Carbon bonds has 0 EN difference w/ even
-distribution of electrons
+\begin{figure}
+\centering
+\includegraphics{./Screen Shot 2020-09-09 at 3.15.41 PM.png}
+\caption{Screen Shot 2020-09-09 at 3.15.41 PM.png}
+\end{figure}
 
-\begin{itemize}
-\tightlist
-\item
-  Electrons are randomly within their 3D shape
-\item
-  So, when electrons are accidentally concentrated, a dipole moment will
-  temporarily form
-\end{itemize}
+A combination of many of these will end up with membrane:
+\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020BIO101/Screen Shot 2020-09-09 at 3.08.10 PM.png}
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+The hydrophobic tail stays inside, and the hydrophillic head pokes
+outside and attracts water.
 
-\hypertarget{and-now-actually-lipids}{%
-\subsection{And now, actually lipids}\label{and-now-actually-lipids}}
+\hypertarget{liposomes-micelles}{%
+\subsection{Liposomes + micelles}\label{liposomes-micelles}}
 
-Lipids are built up from peintaine molecules. You could also take many
-of these lipids + other elements to build up more complicated,
-hydrophobic/phillic structures.
+\textbf{Lots of phosophillids}
 
-{[}{[}KBhBIO101StructuresOfLipids{]}{]}
+\begin{figure}
+\centering
+\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020BIO101/Screen Shot 2020-09-09 at 3.11.54 PM.png}
+\caption{Screen Shot 2020-09-09 at 3.11.54 PM.png}
+\end{figure}
+
+A same idea as phosophilids, but instead in a big wad of balls. this
+arrangement is also how basic cells form membraines.
 
 \end{document}
