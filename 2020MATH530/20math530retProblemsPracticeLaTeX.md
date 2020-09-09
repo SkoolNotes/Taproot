@@ -27,23 +27,23 @@ $$
 ### Vector Space Addition/scalarmult
 - Every pair of elements is in $V$ can be added together to form another element in $V$ (closed)
 - **A scalar is anything in $F$, which means it might be complex!**
-- Vector space definition
-	- communativity(!): $u +v = v+u. \forall u, v \in V$
-	- associativity: $(u+v)+w = u+(v+w) and (ab)v = a(bv). \forall u, v, w \in V. \forall a, b \in F$
-	- additive identity: $\exists 0\in V \mid v + 0 = v. \forall v \in V$
-	- Additive inverse
-	- Multiplicative identity (denoted $1$)
-	- distributive property (both front and back)
-	- A vector space depneds on $F$ so $V$ is a **vector space over $F$**
-- Vector spaces with other sets? $F^S$
-	- $F^S$ is the set of functions from $S$ to $F$
-		- meaning that it's all functions whose domains are subsets of $S$ and ranges are subsets of $F$?
-	- addition $f, g \in F^S, x \in F: (f + g)(x) = f(x)+g(x)$
-	- multiplication: $\lambda \in F$ and $f \in F^S : \lambda F \in F^S = (\lambda f)(x) = \lambda f(x)$
-	- functions can be elements in fields or something?
-	- lists are just functions on a set of numbers..?
-	- subtraction (additive inverses and identity are unique)
-	- **When you see $xy$, one of them has to be a vector because there is no scalar scalar multiplication defined**
+### Vector space definition
+- communativity(!): $u +v = v+u. \forall u, v \in V$
+- associativity: $(u+v)+w = u+(v+w) and (ab)v = a(bv). \forall u, v, w \in V. \forall a, b \in F$
+- additive identity: $\exists 0\in V \mid v + 0 = v. \forall v \in V$
+- Additive inverse
+- Multiplicative identity (denoted $1$)
+- distributive property (both front and back)
+ A vector space depneds on $F$ so $V$ is a **vector space over $F$**
+### Vector spaces with other sets? $F^S$
+- $F^S$ is the set of functions from $S$ to $F$
+	- meaning that it's all functions whose domains are subsets of $S$ and ranges are subsets of $F$?
+- addition $f, g \in F^S, x \in F: (f + g)(x) = f(x)+g(x)$
+- multiplication: $\lambda \in F$ and $f \in F^S : \lambda F \in F^S = (\lambda f)(x) = \lambda f(x)$
+- functions can be elements in fields or something?
+- lists are just functions on a set of numbers..?
+- subtraction (additive inverses and identity are unique)
+- **When you see $xy$, one of them has to be a vector because there is no scalar scalar multiplication defined**
 ## Show that $a\bullet b = |a||b|cos\theta$
 Suppose $a = \begin{bmatrix}x\\y\end{bmatrix}$ and $b = \begin{bmatrix}w\\z\end{bmatrix}$. We have $a\bullet b = a^T\cdot b = \begin{bmatrix}x&y\end{bmatrix} \begin{bmatrix}w\\z\end{bmatrix} = xw+yz$.
 We need an expresion for $\theta$:
