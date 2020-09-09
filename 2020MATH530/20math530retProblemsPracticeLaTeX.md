@@ -7,7 +7,7 @@ source: KBe2020math530refExr0nRetIndex
 #ret
 
 ## Square roots of $i$
-[[20math530retSquareRootsi.pdf]]
+![[20math530retSquareRootsi.pdf]]
 Didn't figure it out. How did I get $a = \pm\frac{\sqrt{2}i}{2}$??
 
 ## Cross product
