@@ -45,5 +45,11 @@ $$
 	- subtraction (additive inverses and identity are unique)
 	- **When you see $xy$, one of them has to be a vector because there is no scalar scalar multiplication defined**
 ## Show that $a\cdot b = |a||b|cos\theta$
+$$
+\begin{split}
+
+
+\end{split}
+$$
 
 ---
