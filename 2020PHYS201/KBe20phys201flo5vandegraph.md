@@ -9,4 +9,5 @@ current = which way and how much
 
 ## Vandegraph demo
 - See annotated pdf last page [[SRCelectrostaticsPacket1annotatedExr0n.pdf]]
-- #question How does the comb keep 
+- #question How does the comb keep depositing charge onto the rubber belt?
+	- something about 
