@@ -105,7 +105,7 @@
       <ul>
       <li><p>Huxley: <span>[</span><span>[</span>KBColonialismShortStory<span>]</span><span>]</span></p></li>
       <li><p>Huxley: <span>[</span><span>[</span>KBBaobabNotes<span>]</span><span>]</span></p></li>
-      <li><p>Exr0n</p></li>
+      <li><p>Exr0n <span>[</span><span>[</span>20eng201floBaobabDebrief<span>]</span><span>]</span></p></li>
       </ul></li>
       <li><p>Elizabeth Bishop Poems</p>
       <ul>
@@ -117,10 +117,16 @@
       <li><p><span>[</span><span>[</span>KBhENG201CloseReading<span>]</span><span>]</span></p></li>
       <li><p><span>[</span><span>[</span>KBWhatIsCloseReading<span>]</span><span>]</span></p></li>
       <li><p><span>[</span><span>[</span>KBhENG201CloseReadingAss1<span>]</span><span>]</span></p></li>
+      <li><p>Exr0n <span>[</span><span>[</span>KBe20eng201retA1index<span>]</span><span>]</span></p></li>
       </ul></li>
       <li><p>Thoughts on Imperialism and Colonialism</p>
       <ul>
       <li><p><span>[</span><span>[</span>KBhENG201ImperialismColonialism<span>]</span><span>]</span></p></li>
+      </ul></li>
+      <li><p><strong>Heart of Darkness</strong></p>
+      <ul>
+      <li><p><span>[</span><span>[</span>KBhENG201HeartOfHardness<span>]</span><span>]</span> Heart of Darkness Index</p></li>
+      <li><p><span>[</span><span>[</span>KBheartday1<span>]</span><span>]</span></p></li>
       </ul></li>
       </ul>
       <h2 id="annotated-docs">Annotated Docs</h2>
@@ -140,30 +146,14 @@
       </tr>
       </tbody>
       </table>
-      <h2 id="module.exports-ret-index"><code>module.exports</code> (ret index)</h2>
-      <table>
-      <thead>
-      <tr class="header">
-      <th style="text-align: left;">Author</th>
-      <th style="text-align: left;">Assignment</th>
-      <th style="text-align: left;">Link</th>
-      </tr>
-      </thead>
-      <tbody>
-      <tr class="odd">
-      <td style="text-align: left;">Exr0n</td>
-      <td style="text-align: left;">Csoe Reading Paragraph (Assessment #1)</td>
-      <td style="text-align: left;"><span>[</span><span>[</span>exr0n20eng201retA1Index<span>]</span><span>]</span></td>
-      </tr>
-      </tbody>
-      </table>
   </div>
 
   <script>
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/(\w)*/);
+              <!--let docPointer = x.match(/(\w)*/);-->
+              let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;

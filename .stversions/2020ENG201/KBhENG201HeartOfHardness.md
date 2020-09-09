@@ -25,7 +25,7 @@ And, here's the rub: **History is Written by the Victors** — an important part
 
 ## Congo's Colonial History
 ### A timeline!
-![Timeline](Screen Shot 2020-09-08 at 2.00.47 PM.png)
+![Timeline](Screen Shot 2020-09-08 at 2.00.47 PM.png) 
 
 ### Some background on the Congo Free State
 

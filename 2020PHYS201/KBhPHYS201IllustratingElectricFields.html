@@ -72,9 +72,9 @@
   <div id="center-viewport">
       <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhPHYS201ElectricFields"><span><strong>[[</strong></span><strong>KBhPHYS201ElectricFields</strong><span><strong>]]</strong></span></a></span></p>
       <p>Yes, you could do this.</p>
-      <p><img src="./2020PHYS201/Screen Shot 2020-08-24 at 8.54.03 PM.png" alt="image" /></p>
+      <p><img src="./Screen Shot 2020-08-24 at 8.54.03 PM.png" alt="image" /></p>
       <p>And theoretically draw infinite metric tonnes of these around an object. But that’s inefficient. We could instead think about electric fields as infinitely expanding in lines that travel from the center of the object outwards:</p>
-      <p><img src="./2020PHYS201/Screen Shot 2020-08-24 at 8.57.21 PM.png" alt="image" /></p>
+      <p><img src="./Screen Shot 2020-08-24 at 8.57.21 PM.png" alt="image" /></p>
       <p>Well, here’s a problem. This diagram does not show the magnitude of the charge.</p>
       <p>Well, fear not! Notice that there are shaded circles behind the red arrows? The density of these circles dictate the magnitude of the charge — the denser the circles, the higher the magnitude.</p>
   </div>
@@ -83,7 +83,6 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              <!--let docPointer = x.match(/(\w)*/);-->
               let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;

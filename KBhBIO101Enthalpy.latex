@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 2020eng201 }
-\newcommand{\thelesson}{ English Master Index }
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Enthalpy }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu, Exr0n \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -163,141 +163,32 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101StructuresofCarbs}{\tiny\textulf{[[}\textbf{KBhBIO101StructuresofCarbs}\textulf{]]}}}\thinspace
 
-\#source
+\hypertarget{enthalpy}{%
+\section{Enthalpy}\label{enthalpy}}
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{Topics for English 10}
-  {[}{[}KBe2020eng201refEnglishTopics{]}{]}
+  To do a reaction, a system needs to break some bonds and form new
+  bonds
 \item
-  \textbf{Cololianlism, imperialsim, globalization Think-Pair-Share}
-  {[}{[}KBe-2020eng201floD1Breakout{]}{]}
+  Break all of the bonds. Breaking bonds require energy (high heat
+  states called ``transition phrase'')
 \item
-  \textbf{Alexa, Day 1}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Jack's take: {[}{[}KBhENG201AlexaD1{]}{]}
-  \item
-    Zach's take: {[}{[}KBDayoneEnglishZachary{]}{]}
-  \item
-    Huxley's take: {[}{[}KBEngDayOne{]}{]}
-  \end{itemize}
+  Form new bonds
 \item
-  Short Stories
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Readings: {[}{[}KBFall2020English10Short StoriesPacket.pdf{]}{]}
-  \item
-    \textbf{The I Is Never Alone}
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Albert:
-
-      \begin{itemize}
-      \tightlist
-      \item
-        {[}{[}KB2NotesonTheIIsNeverAlone{]}{]} The I is Never Along,
-        notes
-      \item
-        {[}{[}KBe2020eng201floImperalismNotes{]}{]} The I Is Never Alone
-        + Imperialism
-      \end{itemize}
-    \item
-      Jack:
-
-      \begin{itemize}
-      \tightlist
-      \item
-        {[}{[}KBhENG201TheIIsNeverAlone{]}{]} The I is Never Alone,
-        Jack's Thoughts
-      \end{itemize}
-    \item
-      Zach
-    \item
-      Hux:
-
-      \begin{itemize}
-      \tightlist
-      \item
-        {[}{[}KBTheIIsNeverAloneEnglishReadingNotes{]}{]}
-      \end{itemize}
-    \end{itemize}
-  \item
-    \textbf{Baobab + Colonialism}
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Huxley: {[}{[}KBColonialismShortStory{]}{]}
-    \item
-      Huxley: {[}{[}KBBaobabNotes{]}{]}
-    \item
-      Exr0n {[}{[}20eng201floBaobabDebrief{]}{]}
-    \end{itemize}
-  \item
-    Elizabeth Bishop Poems
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Huxley: {[}{[}KBElizabethBishop{]}{]}
-    \end{itemize}
-  \end{itemize}
-\item
-  \textbf{Close Reading + Assessment 1}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    {[}{[}KBhENG201CloseReading{]}{]}
-  \item
-    {[}{[}KBWhatIsCloseReading{]}{]}
-  \item
-    {[}{[}KBhENG201CloseReadingAss1{]}{]}
-  \item
-    Exr0n {[}{[}KBe20eng201retA1index{]}{]}
-  \end{itemize}
-\item
-  Thoughts on Imperialism and Colonialism
-
-  \begin{itemize}
-  \tightlist
-  \item
-    {[}{[}KBhENG201ImperialismColonialism{]}{]}
-  \end{itemize}
+  End up with product --- either cause negative pre-post reaction
+  potential energy difference (extothermic --- release heat) or positive
+  pre-post reaction potential energy (endothermic --- take in heat)
 \end{itemize}
 
-\hypertarget{annotated-docs}{%
-\subsection{Annotated Docs}\label{annotated-docs}}
+\definition["The heat difference after a reaction is equal to the heat needed to break bonds and the head used to form bonds. Both values could be negative."]{Enthalpy Equation}{$\Delta H_{rxn} = \sum{\Delta H_{breaking}}  + \sum{\Delta H_{Forming}}$}
 
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\endhead
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Notes on \texttt{The\ I\ Is\ Never\ Alone}\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KB2NotesonTheIIsNeverAlone{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-\emph{The I Is Never Alone} + imperialism notes\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe2020eng201floImperalismNotes{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-\emph{The Bird-Dreaming Baobab} pass 0\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe2020eng201floBirdDreamingBaobab0.pdf{]}{]}\strut
-\end{minipage}\tabularnewline
-\bottomrule
-\end{longtable}
+With a positive delta H, you have an endothemic reaction. With an
+negative delta H, you have an extothermic reaction. Extothermic
+reactions are favorable =\textgreater{} they give out energy instead of
+needing it
 
 \end{document}
