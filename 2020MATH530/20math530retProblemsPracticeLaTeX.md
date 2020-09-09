@@ -23,4 +23,6 @@ $$
 \end{split}
 $$
 
+## Read Chapter 1.2
+
 ---
