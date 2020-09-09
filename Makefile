@@ -15,10 +15,9 @@ BUILDNUMBER_FILE=buildID.txt
 all: $(MARKDOWN) $(PDF) $(HTML)
 # https://www.linuxjournal.com/content/add-auto-incrementing-build-number-your-build-process
 	@if ! test -f $(BUILD_NUMBER_FILE); then echo 0 > $(BUILD_NUMBER_FILE); fi
-    @echo $$(($$(cat $(BUILD_NUMBER_FILE)) + 1)) > $(BUILD_NUMBER_FILE)
+	@echo $$(($$(cat $(BUILD_NUMBER_FILE)) + 1)) > $(BUILD_NUMBER_FILE)
 	echo $$RANDOM > $(BUILDNUMBER_FILE)
 	make flush
-	
 
 html: $(HTML)
 
