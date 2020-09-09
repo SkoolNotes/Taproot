@@ -51,7 +51,8 @@ We need an expresion for $\theta$:
 $\theta = \frac{\pi}{2} - \alpha - \beta$
 $$
 \begin{split}
-cos\theta = cos(\frac{\pi}{2}-\alpha-\beta)\\
+cos\theta &= cos(\frac{\pi}{2}-\alpha-\beta)\\
+&= sin(\alpha + \beta) 
 \end{split}
 $$
 
