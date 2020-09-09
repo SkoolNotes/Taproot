@@ -18,7 +18,7 @@ $$
 \Rightarrow&i\left|\begin{matrix}3&0\\2&-1\end{matrix}\right|
 +j\left|\begin{matrix}0&1\\-1&2\end{matrix}\right|
 +k\left|\begin{matrix}1&3\\2&2\end{matrix}\right|\\
-\Rightarrow& -5i + 3j -4k\\
+\Rightarrow& -3i + 1j -4k\\
 \Rightarrow& \begin{bmatrix}-3\\1\\-4\end{bmatrix}
 \end{split}
 $$
