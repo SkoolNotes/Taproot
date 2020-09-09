@@ -34,5 +34,6 @@ $$
 	- Additive inverse
 	- Multiplicative identity (denoted $1$)
 	- distributive property (both front and back)
+	- A vector space depneds on $F$ so $V$ is a **vector space over $F$**
 
 ---
