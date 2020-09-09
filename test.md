@@ -13,7 +13,7 @@ Nothing. Matrix multiplication is not commutative.
 
 2. > Use matrices to solve the system: $2x-y=3$ and $x+3y=5$
    
-$-$
+$$
 \begin{align}
 &&\left[\begin{matrix}2&-1\\1&3\end{matrix}\right]
 &\left[\begin{matrix}x\\y\end{matrix}\right] &=
@@ -59,9 +59,9 @@ $-$
 &&& x + 3 y &= 5&&
 \\
 \end{align}
-$-$
+$$
 I'm not sure how to solve the rest of it with matrices, so I'll just do it normally:
-$-$
+$$
 \begin{align}
 x &= 2\\
 x + 3y &= 5\\
@@ -69,7 +69,7 @@ x + 3y &= 5\\
 3y &= 3\\
 y &= 1\\
 \end{align}
-$-$
+$$
 3. > Do 2x2 matrices form a group under
    > a. addition?
    > b. multiplication?
@@ -83,7 +83,7 @@ I'll assume that our matrices have real numbers in them.
 | Multiplication       | Yes    | $e=\left[\begin{matrix}1&0\\0&1\end{matrix}\right]$ | Maybe? | Yes, see below | Undecided |
 
 Associativity of 2x2 matrices under multiplication:
-$-$
+$$
 \begin{multline}
 \left(\left[\begin{matrix}a&b\\c&d\end{matrix}\right]
 \left[\begin{matrix}e&f\\g&h\end{matrix}\right]\right)
@@ -101,7 +101,7 @@ $-$
 \left(\left[\begin{matrix}e&f\\g&h\end{matrix}\right]
 \left[\begin{matrix}i&j\\k&l\end{matrix}\right]\right)
 \end{multline}
-$-$
+$$
 
 I can't figure out if 2x2 matrices have multiplicative inverses... I tried to work it out using algebra but kept proving identities. Not sure what the right way to go about this is...
 
