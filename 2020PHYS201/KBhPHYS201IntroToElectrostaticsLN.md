@@ -80,6 +80,35 @@ See [[KBhPHYS201ElectricFields]] Electric Fields.
  * Let's talk about the sparks!
      * One dome that's positive, one dome is negative
      * So, what happens when Spark! happens?
-         * Enough charge to overcome the electric field resistance of air (like 3.4 million Volts/metre), and **air ionizes** — air atoms becomes so attracted that their electrons ditch their nuclei
+         * Enough charge to overcome the electric field resistance of air (like 3.4 million Volts/metre), and **air ionizes** — air atoms becomes so attracted that their electrons ditch their nuclei and air suddenly becomes a conductors
          * Neutral air has high resistance, but when it ionizes, the air looses its resistance (drops) and becomes nicely conductive
          * So then, current (Coulomb/s) that flow in the air suddenly spark up because of sudden loss of resistance, discharging the negative dom
+* Photo copiers, too
+
+
+![Screen Shot 2020-09-09 at 10.46.29 AM.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/Screen Shot 2020-09-09 at 10.46.29 AM.png)
+1. LED light cause original to reflect into mirror
+2. Scanning drum (yellow thing) does electrostatics!
+    3. Drum plated with plastic
+    4. Positively charged drum gets positively charged by a smaller roller
+    5. Light reflecting off of the original (the parts of the original without black ink, anyway) disturbs the positively charged roller
+    6. Plastic becomes conducting where it experiences light 
+    7. Drum under the positive is **grounded** — meaning it could absorb + apply an infinite amount of electrons, so any grounded conductor becomes neutral
+    8. You could see from the figure above, where you have dark on the original, positive charge contributed by (4) is left on the plastic. Where you have light, the plastic becomes a conductor and the ground draws the electrons away, making light parts neutral
+    9. Now, the toner powder next to the drum will only stick to the positive parts of the plastic printing drums, which, remember, is where light paper_did not_ affect
+    10. And then, a copy!
+3. Lazer printing
+    4. Same as above, except plastic becomes conducting where it experiences light from a computer-controlled laser drawing a negative of the print
+    
+***
+
+* Use the variable $I$, a unit Coulombs/Second, to measure current. This also equals $\frac{\Delta V}{Resistance}$. Big resistance, little current.
+* So let's figure out resistance
+    * $V$ = $\frac{J}{C}$
+    * Resistance = $\Omega$ = $\frac{\Delta V}{I}$ = $\frac{Js}{C^2}$
+* $I$ = $\frac{C}{s}$ = Amps 
+* Calculating resistance
+    * So, let's think. With a wire of length L and with a wire of area A, if we increase L, the resistance in the wire would increase; if we increase area A, the resistance in the the wire would decrease.
+    * $Resistance = \frac{L}{A}*ResistivityOfMaterial$ with units $\frac{m}{m^2} * (\Omega * m)$.
+    
+   
