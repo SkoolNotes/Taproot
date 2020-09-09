@@ -48,7 +48,7 @@ $$
 Suppose $a = \begin{bmatrix}x\\y\end{bmatrix}$ and $b = \begin{bmatrix}w\\z\end{bmatrix}$
 $$
 \begin{split}
-
+a\cdot b = a^T\cdot b = \begin{bmatrix}x&y\end{bmatrix} = 
 
 \end{split}
 $$
