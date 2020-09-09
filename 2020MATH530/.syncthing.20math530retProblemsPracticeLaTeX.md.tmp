@@ -27,5 +27,7 @@ $$
 ### Vector Space Addition/scalarmult
 - Every pair of elements is in $V$ can be added together to form another element in $V$ (closed)
 - **A scalar is anything in $F$, which means it might be complex!**
+- Vector space definition
+	- communativity: $u +v = v+u \forall u, v \in V$
 
 ---
