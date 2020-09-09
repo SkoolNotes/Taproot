@@ -18,6 +18,7 @@ I don't have a strong preference on what my preferred ratio is, especially becau
 
 From the script
 ```
+
 Phenylalanine 81.2080685572291 %
 Valine 124.11991193514258 %
 Leucine 94.13009551708133 %
@@ -32,6 +33,7 @@ You better goddamn eat 90.416268g o' mustard
 You better goddamn eat 369.057053g o' butter stick
 You better goddamn eat 16.536808g o' whole milk
 You better goddamn eat 161.597425g o' whole eggs
+
 ```
 
 ![](KBe20bio201retFoodDataProteinAminosDiet1.png)
