@@ -60,3 +60,49 @@ $-$
 \\
 \end{align}
 $-$
+I'm not sure how to solve the rest of it with matrices, so I'll just do it normally:
+$-$
+\begin{align}
+x &= 2\\
+x + 3y &= 5\\
+2 + 3y &= 5\\
+3y &= 3\\
+y &= 1\\
+\end{align}
+$-$
+3. > Do 2x2 matrices form a group under
+   > a. addition?
+   > b. multiplication?
+   
+See [[KBe2020math530refGroups]]
+I'll assume that our matrices have real numbers in them.
+
+| Operation \ Property | Closed | Identity | Inverse | Associative? | Final |
+|----------------------|--------|----------|---------|--------------|-------|
+| Addition             | Yes    | $e=\left[\begin{matrix}0&0\\0&0\end{matrix}\right]$ | $\left[\begin{matrix}a&b\\c&d\end{matrix}\right] + \left[\begin{matrix}-a&-b\\-c&-d\end{matrix}\right]=e$| "Inherits from addition" | Yes |
+| Multiplication       | Yes    | $e=\left[\begin{matrix}1&0\\0&1\end{matrix}\right]$ | Maybe? | Yes, see below | Undecided |
+
+Associativity of 2x2 matrices under multiplication:
+$-$
+\begin{multline}
+\left(\left[\begin{matrix}a&b\\c&d\end{matrix}\right]
+\left[\begin{matrix}e&f\\g&h\end{matrix}\right]\right)
+\left[\begin{matrix}i&j\\k&l\end{matrix}\right]
+= 
+\left[\begin{matrix}ae+bg&af+bh \\ ce+dg&cf+dh \end{matrix}\right]
+\left[\begin{matrix}i&j\\k&l\end{matrix}\right]
+\\=
+\left[\begin{matrix}aei+bgi+afk+bhk&aej+bgj+afl+bhl\\cei+dgi+cfk+dhk&cej+dgj+cfl+dhl\end{matrix}\right]
+\\=
+\left[\begin{matrix}a&b\\c&d\end{matrix}\right]
+\left[\begin{matrix}ei+fk&ej+fl\\gi+hk&gj+hl\end{matrix}\right]
+=
+\left[\begin{matrix}a&b\\c&d\end{matrix}\right]
+\left(\left[\begin{matrix}e&f\\g&h\end{matrix}\right]
+\left[\begin{matrix}i&j\\k&l\end{matrix}\right]\right)
+\end{multline}
+$-$
+
+I can't figure out if 2x2 matrices have multiplicative inverses... I tried to work it out using algebra but kept proving identities. Not sure what the right way to go about this is...
+
+I spent far too long on this assignment (1.6h), so I probably won't spend as much time LaTeXing my homework in the future.
