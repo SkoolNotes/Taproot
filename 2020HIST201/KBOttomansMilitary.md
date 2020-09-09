@@ -27,10 +27,10 @@ But couldn't take over the Mediterranean --  too many competing European forces.
 
 > Alignment of potentially unlimited aspirations with necessarily limited capabilities 
 
+Kennedy argues that the ottomans seemed to have a good grand strategy, 
 
 
-
-
+- delta Grand strategy / delta time
 
 
 
