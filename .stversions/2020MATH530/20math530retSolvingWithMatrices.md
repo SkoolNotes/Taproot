@@ -18,13 +18,13 @@ $$
 \begin{split}
 &&\left[\begin{matrix}2&-1\\1&3\end{matrix}\right]
 &\left[\begin{matrix}x\\y\end{matrix}\right] &=
-&&\left[\begin{matrix}3\\5\end{matrix}\right]&a
+&&\left[\begin{matrix}3\\5\end{matrix}\right]
 \\
 &\left[\begin{matrix}3&0\\0&1\end{matrix}\right]
 &\left[\begin{matrix}2&-1\\1&3\end{matrix}\right]
 &\left[\begin{matrix}x\\y\end{matrix}\right] &=
 &\left[\begin{matrix}3&0\\0&1\end{matrix}\right]
-&\left[\begin{matrix}3\\5\end{matrix}\right]&a
+&\left[\begin{matrix}3\\5\end{matrix}\right]
 \\
 \left[\begin{matrix}1&1\\0&1\end{matrix}\right]
 &\left[\begin{matrix}3&0\\0&1\end{matrix}\right]
@@ -32,31 +32,33 @@ $$
 &\left[\begin{matrix}x\\y\end{matrix}\right] &=
 \left[\begin{matrix}1&1\\0&1\end{matrix}\right]
 &\left[\begin{matrix}3&0\\0&1\end{matrix}\right]
-&\left[\begin{matrix}3\\5\end{matrix}\right]&a
+&\left[\begin{matrix}3\\5\end{matrix}\right]
 \\
 \left[\begin{matrix}1&1\\0&1\end{matrix}\right]
 &&\left[\begin{matrix}6&-3\\1&3\end{matrix}\right]
 &\left[\begin{matrix}x\\y\end{matrix}\right] &=
 \left[\begin{matrix}1&1\\0&1\end{matrix}\right]
-&&\left[\begin{matrix}9\\5\end{matrix}\right]&a
+&&\left[\begin{matrix}9\\5\end{matrix}\right]
 \\
 &&\left[\begin{matrix}7&0\\1&3\end{matrix}\right]
 &\left[\begin{matrix}x\\y\end{matrix}\right] &=
-&&\left[\begin{matrix}14\\5\end{matrix}\right]&a
+&&\left[\begin{matrix}14\\5\end{matrix}\right]
 \\
 &&\left[\begin{matrix}7x\\x+3y\end{matrix}\right]&&=
-&&\left[\begin{matrix}14\\5\end{matrix}\right]&a
+&&\left[\begin{matrix}14\\5\end{matrix}\right]
 \\
 &\left[\begin{matrix}\frac{1}{7}&0\\0&1\end{matrix}\right]
 &\left[\begin{matrix}7x\\x+3y\end{matrix}\right]&&=
 &\left[\begin{matrix}\frac{1}{7}&0\\0&1\end{matrix}\right]
-&\left[\begin{matrix}14\\5\end{matrix}\right]&a
+&\left[\begin{matrix}14\\5\end{matrix}\right]
 \\
 &&\left[\begin{matrix}x\\x+3y\end{matrix}\right]&&=
-&&\left[\begin{matrix}2\\5\end{matrix}\right]&a
+&&\left[\begin{matrix}2\\5\end{matrix}\right]
 \\
-&&& x &= 2 \\&a
-&&& x + 3 y &= 5 \\&a
+&&& x &= 2 &&
+\\
+&&& x + 3 y &= 5&&
+\\
 \end{split}
 $$
 I'm not sure how to solve the rest of it with matrices, so I'll just do it normally:

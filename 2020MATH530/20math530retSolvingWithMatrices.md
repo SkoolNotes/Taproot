@@ -63,13 +63,13 @@ $$
 $$
 I'm not sure how to solve the rest of it with matrices, so I'll just do it normally:
 $$
-\begin{equation}\begin{split}
+\begin{split}
 x &= 2\\
 x + 3y &= 5\\
 2 + 3y &= 5\\
 3y &= 3\\
 y &= 1\\
-\end{split}\end{equation}
+\end{split}
 $$
 3. > Do 2x2 matrices form a group under
    > a. addition?
