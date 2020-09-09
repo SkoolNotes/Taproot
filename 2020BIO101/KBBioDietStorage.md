@@ -8,6 +8,7 @@ source: #index
 
 # Tustard 
 - Phenylalanine 78.88388243566993%
+
 - Valine 100.18798061274833%
 - Leucine 94.51699130818912%
 - Isoleucine 115.95896183749683%
