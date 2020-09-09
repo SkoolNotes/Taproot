@@ -24,7 +24,8 @@ $$
 $$
 
 ## Read Chapter 1.B
-### Vector Space Addition
+### Vector Space Addition/scalarmult
 - Every pair of elements is in $V$ can be added together to form another element in $V$ (closed)
+- **A scalar is anything in $F$, which means it might be complex!**
 
 ---
