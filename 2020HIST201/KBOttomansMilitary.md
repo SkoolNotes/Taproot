@@ -30,7 +30,7 @@ But couldn't take over the Mediterranean --  too many competing European forces.
 Kennedy argues that the ottomans seemed to have a good grand strategy, 
 
 
-- 
+- Change in grand strategy over time 
 
 
 
