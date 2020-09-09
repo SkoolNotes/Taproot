@@ -30,6 +30,6 @@ $$
 - Vector space definition
 	- communativity(!): $u +v = v+u. \forall u, v \in V$
 	- associativity: $(u+v)+w = u+(v+w) and (ab)v = a(bv). \forall u, v, w \in V. \forall a, b \in F$
-	- additive identity: $\exists 0\inV :
+	- additive identity: $\exists 0\inV \mid 
 
 ---
