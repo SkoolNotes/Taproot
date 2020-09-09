@@ -24,5 +24,7 @@ $$
 $$
 
 ## Read Chapter 1.B
+### Vector Space Addition
+- Every pair of elements is in $V$ can be added together to form another element in $V$ (closed)
 
 ---
