@@ -6,6 +6,11 @@ source: [[KBBiologyMasterIndex]]
 ---
 
 
+
+These are lists I compiled with code I wrote with a few peers, which can be found here: [Repository](https://github.com/SkoolNotes/diet-finder8000superplus)
+
+---
+
 # Tustard 
 - Phenylalanine 78.88388243566993%
 
