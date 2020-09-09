@@ -37,9 +37,11 @@ You better goddamn eat 161.597425g o' whole eggs
 ![[KBe20bio201retFoodDataProteinAminosDiet1.png]]
 
 4. > Cross check the https://www.myfooddata.com (Links to an external site.) essential amino acid values/food with the tables in the slides (Links to an external site.). Do they seem consistent? Provide evidence for you answer.
+
 Well, we used the RDI from an external dataset. The my food data website said that this was the data they used, but the RDI values were somewhat different. However, the values the script comes up with are pretty similar to the website, although our RDI seems to be higher than the website.
 
  5. > Were there any essential amino acids, vitamins, or minerals needs that were challenging to satisfy during your meal planning?   What are some foods particularly high in that vitamin or mineral?
+ 
  Tryptophan and Methionine, which seems to be mostly taken care of by milk and eggs.
 
 ---
