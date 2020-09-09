@@ -19,7 +19,7 @@ $$
 +j\left|\begin{matrix}0&1\\-1&2\end{matrix}\right|
 +k\left|\begin{matrix}1&3\\2&2\end{matrix}\right|\\
 \Rightarrow& -5i + 3j -4k\\
-\Rightarrow& \begin{bmatrix}-5\\3\\-4\end{bmatrix}
+\Rightarrow& \begin{bmatrix}-3\\1\\-4\end{bmatrix}
 \end{split}
 $$
 
