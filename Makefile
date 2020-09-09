@@ -8,11 +8,12 @@ LATEX=$(MARKDOWN:.md=.latex)
 TAG=$(firstword $(subst ., ,$(lastword $(subst /, ,$1))))
 SUBJECT=$(firstword $(subst /, ,$1))
 TARGET=$(subst md,html,$1)
+BUILDNUMBER_FILE=buildID.txt
 
 .PHONY = all tar clean cleanindx cleanassets
 
 all: $(MARKDOWN) $(PDF) $(HTML)
-	echo $$RANDOM > buildID.txt
+	echo $$RANDOM > $(BUILDNUMBER_FILE)
 	make flush
 
 html: $(HTML)
