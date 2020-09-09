@@ -53,7 +53,8 @@ $$
 \begin{split}
 cos\theta &= cos(\frac{\pi}{2}-\alpha-\beta)\\
 &= sin(\alpha + \beta)\\
-&= sin(\alpha) cos(\beta) + sin(\)
+&= sin(\alpha)cos(\beta) + cos(\alpha)sin(\beta)\\
+&= (\frac{y}{})
 \end{split}
 $$
 

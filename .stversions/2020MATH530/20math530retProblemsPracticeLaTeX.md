@@ -52,7 +52,9 @@ $\theta = \frac{\pi}{2} - \alpha - \beta$
 $$
 \begin{split}
 cos\theta &= cos(\frac{\pi}{2}-\alpha-\beta)\\
-&= sin(\)
+&= sin(\alpha + \beta)\\
+&= sin(\alpha)cos(\beta) + cos(\alpha)sin(\beta)\\
+&= 
 \end{split}
 $$
 
