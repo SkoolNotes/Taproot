@@ -30,6 +30,9 @@ $$
 - Vector space definition
 	- communativity(!): $u +v = v+u. \forall u, v \in V$
 	- associativity: $(u+v)+w = u+(v+w) and (ab)v = a(bv). \forall u, v, w \in V. \forall a, b \in F$
-	- additive identity: $\exists 0\inV \mid 
+	- additive identity: $\exists 0\inV \mid v + 0 = v. \forall v \in V$
+	- Additive inverse
+	- Multiplicative identity (denoted $1$)
+	- distributive prop
 
 ---
