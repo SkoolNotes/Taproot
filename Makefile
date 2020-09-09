@@ -9,15 +9,14 @@ TAG=$(firstword $(subst ., ,$(lastword $(subst /, ,$1))))
 SUBJECT=$(firstword $(subst /, ,$1))
 TARGET=$(subst md,html,$1)
 BUILDNUMBER_FILE=buildID.txt
+SHELL:=/bin/zsh
 
 .PHONY = all tar clean cleanindx cleanassets
 
 all: $(MARKDOWN) $(PDF) $(HTML)
 # https://www.linuxjournal.com/content/add-auto-incrementing-build-number-your-build-process
-	shell [[ -f $(BUILDNUMBER_FILE) ]] || echo 0 > $(BUILDNUMBER_FILE)
-	shell (( cat $(BUILDNUMBER_FILE) + 1 )) > $(BUILDNUMBER_FILE)
-	@echo $$(($$(cat $(BUILDNUMBER_FILE)) + 1)) > $(BUILDNUMBER_FILE)
-#	echo $$RANDOM > $(BUILDNUMBER_FILE)
+	zsh -c '[[ -f $(BUILDNUMBER_FILE) ]] || echo 0 > $(BUILDNUMBER_FILE)'
+	zsh -c 'echo $$(( $$(cat $(BUILDNUMBER_FILE)) + 1 )) > $(BUILDNUMBER_FILE)'
 	make flush
 
 html: $(HTML)
