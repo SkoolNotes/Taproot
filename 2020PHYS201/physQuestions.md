@@ -18,5 +18,6 @@ source: KBPhysicsMasterIndex
 	- Vandegraph
 		- How does the ground comb keep depositing charge onto the rubber belt?
 		- How does a spark / lightning create sound?
+			- plasma is much harder so the air expands and then contracts. we hear the air particles slamming into each other.
 
 ---
