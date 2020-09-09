@@ -140,10 +140,27 @@
       <li><p>One dome that’s positive, one dome is negative</p></li>
       <li><p>So, what happens when Spark! happens?</p>
       <ul>
-      <li><p>Enough charge to overcome the electric field resistance of air (like 3.4 million Volts/metre), and <strong>air ionizes</strong> — air atoms becomes so attracted that their electrons ditch their nuclei</p></li>
+      <li><p>Enough charge to overcome the electric field resistance of air (like 3.4 million Volts/metre), and <strong>air ionizes</strong> — air atoms becomes so attracted that their electrons ditch their nuclei and air suddenly becomes a conductors</p></li>
       <li><p>Neutral air has high resistance, but when it ionizes, the air looses its resistance (drops) and becomes nicely conductive</p></li>
       <li><p>So then, current (Coulomb/s) that flow in the air suddenly spark up because of sudden loss of resistance, discharging the negative dom</p></li>
       </ul></li>
+      </ul></li>
+      <li><p>Photo copiers, too</p></li>
+      </ul>
+      <p><img src="/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/Screen Shot 2020-09-09 at 10.46.29 AM.png" alt="image" /> 1. LED light cause original to reflect into mirror 2. Scanning drum (yellow thing) does electrostatics! 3. Drum plated with plastic 4. Positively charged drum gets positively charged by a smaller roller 5. Light reflecting off of the original (the parts of the original without black ink, anyway) disturbs the positively charged roller 6. Plastic becomes conducting where it experiences light 7. Drum under the positive is <strong>grounded</strong> — meaning it could absorb + apply an infinite amount of electrons, so any grounded conductor becomes neutral 8. You could see from the figure above, where you have dark on the original, positive charge contributed by (4) is left on the plastic. Where you have light, the plastic becomes a conductor and the ground draws the electrons away, making light parts neutral 9. Now, the toner powder next to the drum will only stick to the positive parts of the plastic printing drums, which, remember, is where light paper_did not_ affect 10. And then, a copy! 3. Lazer printing 4. Same as above, except plastic becomes conducting where it experiences light from a computer-controlled laser drawing a negative of the print</p>
+      <hr />
+      <ul>
+      <li><p>Use the variable <span class="math inline">\(I\)</span>, a unit Coulombs/Second, to measure current. This also equals <span class="math inline">\(\frac{\Delta V}{Resistance}\)</span>. Big resistance, little current.</p></li>
+      <li><p>So let’s figure out resistance</p>
+      <ul>
+      <li><p><span class="math inline">\(V\)</span> = <span class="math inline">\(\frac{J}{C}\)</span></p></li>
+      <li><p>Resistance = <span class="math inline">\(\Omega\)</span> = <span class="math inline">\(\frac{\Delta V}{I}\)</span> = <span class="math inline">\(\frac{Js}{C^2}\)</span></p></li>
+      </ul></li>
+      <li><p><span class="math inline">\(I\)</span> = <span class="math inline">\(\frac{C}{s}\)</span> = Amps</p></li>
+      <li><p>Calculating resistance</p>
+      <ul>
+      <li><p>So, let’s think. With a wire of length L and with a wire of area A, if we increase L, the resistance in the wire would increase; if we increase area A, the resistance in the the wire would decrease.</p></li>
+      <li><p><span class="math inline">\(Resistance = \frac{L}{A}*ResistivityOfMaterial\)</span> with units <span class="math inline">\(\frac{m}{m^2} * (\Omega * m)\)</span>.</p></li>
       </ul></li>
       </ul>
   </div>
@@ -152,7 +169,6 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              <!--let docPointer = x.match(/(\w)*/);-->
               let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
