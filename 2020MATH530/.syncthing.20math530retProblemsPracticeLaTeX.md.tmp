@@ -48,7 +48,7 @@ $$
 Suppose $a = \begin{bmatrix}x\\y\end{bmatrix}$ and $b = \begin{bmatrix}w\\z\end{bmatrix}$. We have $a\bullet b = a^T\cdot b = \begin{bmatrix}x&y\end{bmatrix} \begin{bmatrix}w\\z\end{bmatrix} = xw+yz$.
 $$
 \begin{split}
-
+cos\theta = 
 \end{split}
 $$
 
