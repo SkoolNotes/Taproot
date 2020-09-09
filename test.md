@@ -14,7 +14,7 @@ Nothing. Matrix multiplication is not commutative.
 2. > Use matrices to solve the system: $2x-y=3$ and $x+3y=5$
    
 $$
-\begin{aligned}
+\begin{equation}\begin{aligned}
 &&\left[\begin{matrix}2&-1\\1&3\end{matrix}\right]
 &\left[\begin{matrix}x\\y\end{matrix}\right] &=
 &&\left[\begin{matrix}3\\5\end{matrix}\right]
@@ -58,7 +58,7 @@ $$
 \\
 &&& x + 3 y &= 5&&
 \\
-\end{aligned}
+\end{aligned}\end{equation}
 $$
 I'm not sure how to solve the rest of it with matrices, so I'll just do it normally:
 $-$
