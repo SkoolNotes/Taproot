@@ -16,7 +16,7 @@ I don't have a strong preference on what my preferred ratio is, especially becau
 3.  > Using  https://www.myfooddata.com (Links to an external site.), build a single day meal plan that achieves your goals. 
 #todo-exr0n
 
-From the [script]()
+From the [script](https://github.com/SkoolNotes/diet-finder8000superplus)
 ```
 
 Phenylalanine 81.2080685572291 %
