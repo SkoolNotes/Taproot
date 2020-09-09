@@ -63,6 +63,6 @@ $$
 
 ## Epilogue
 
-That was two hours... I'll save the 
+That was two hours... I'll save the proving integers mod 3 are a field 
 
 ---
