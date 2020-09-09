@@ -35,5 +35,8 @@ $$
 	- Multiplicative identity (denoted $1$)
 	- distributive property (both front and back)
 	- A vector space depneds on $F$ so $V$ is a **vector space over $F$**
+- Vector spaces with other sets? $F^S$
+	- $F^S$ is the set of functions from $S$ to $F$
+		- meaning that it's all functions whose domains are subsets of $S$ and ranges are subsets of $F$?
 
 ---
