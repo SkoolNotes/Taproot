@@ -11,8 +11,7 @@ source: KBe2020math530refExr0nRetIndex
 
 Nothing. Matrix multiplication is not commutative.
 
-2. > Use matrices to solve the system:
-   > $\begin{aligned}2x-y=3\\x+3y=5\end{aligned}$
+2. > Use matrices to solve the system: $2x-y=3$ and $x+3y=5$
    
 $$
 \begin{aligned}
