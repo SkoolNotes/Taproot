@@ -2,7 +2,7 @@
 #taproot_path="../../Taproot/"
 taproot_path="../materials/Taproot"
 while true; do
-    printf "working...                                \r"
+    printf "working...                                    \r"
     echo "\n\n\nLog for attempt at $(date)" >> log.txt
     git pull >> log.txt
 
@@ -18,7 +18,7 @@ while true; do
         git push --quiet) && \
         printf "Synced and commited at $(date)\r" || printf "Sync Failed!!! $(date)"
     else
-        printf "Nothing to sync at $(date)        \r"
+        printf "Nothing to sync at $(date)         \r"
     fi
 
     sleep 20
