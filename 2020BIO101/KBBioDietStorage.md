@@ -4,14 +4,16 @@ author: Huxley
 course: BIO101
 source: [[KBBiologyMasterIndex]]
 ---
-
-
+# Context
 
 These are lists compiled from code I wrote with a few peers, which can be found here: [Repository](https://github.com/SkoolNotes/diet-finder8000superplus)
 
 I spent *well* over 30 minutes working on this, and I learned a lot about coding as well as data collection/management and nutrition.
 
-The code is not currently functioning at full capacity, as we ran it on a limited dateset. However, we are currently working on making it function with a larger dateset, which will make it much more powerful
+The code is not currently functioning at full capacity, as we ran it on a limited dateset. However, we are currently working on making it function with a larger dateset, which will make it much more powerful. 
+
+
+My apologies for the lack of a myfooddata link -- instead you are seeing this on a website my friends and I made for note-taking and knowledge sharing. 
 
 ---
 
