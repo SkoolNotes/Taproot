@@ -33,6 +33,26 @@ Kennedy argues that the ottomans seemed to have a good grand strategy,
 - Change in grand strategy over time 
 
 
+```
+In groups:
+Look at the three major periods of the early-to-mid Ottoman Empire that Bulliet discusses: the period of expansion until 1585, the period of crisis from 1585 to roughly 1650, and the period of economic change and decline from 1650 to 1750. 
+For each era: what do you think the grand strategy of the Ottoman leaders was? If successful, why so? If not successful, what went wrong? Find specific actions that you think best illustrate Ottoman strategy in each period. 
+
+Pick a specific moment where you think Ottoman strategy was at its best (meaning aspirations and capabilities were best aligned) and when it was at its weakest. (Find a specific policy or decision the Ottomans made that you think was strategically wise or unsound).
+
+
+On the whiteboard: For the moment you selected as being strategically weak or unsound, propose a better alternative strategy. What would be some of the benefits and risks/drawbacks of your proposed strategy?
+```
+
+
+
+
+
+
+
+
+
+
 
 
 
