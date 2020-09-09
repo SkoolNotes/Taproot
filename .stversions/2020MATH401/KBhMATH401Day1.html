@@ -85,7 +85,7 @@
       <li><p>Tests are take home, duh (COVID NOISES!!), and are Assigned Wednesday, Due on Monday)</p></li>
       </ul>
       <p><strong>Expectations</strong> * A notebook should be maintained + some solved sample problems * Homework assigned each class * HW graded for Habits of Mind rubric * One graded assignments every two weeks or so</p>
-      <p>Textbooks: <span>[</span>Screen Shot 2020-08-24 at 1.11.22 PM.png<span>]</span> #brokelink (/Users/houliu/Downloads/Screen Shot 2020-08-24 at 1.11.22 PM.png)</p>
+      <p>Textbooks: <img src="./Screen Shot 2020-08-24 at 1.11.22 PM.png" alt="image" /></p>
       <hr />
       <h1 id="knowledge-points-this-semester">Knowledge Points This Semester</h1>
       <ul>
@@ -142,7 +142,6 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              <!--let docPointer = x.match(/(\w)*/);-->
               let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
