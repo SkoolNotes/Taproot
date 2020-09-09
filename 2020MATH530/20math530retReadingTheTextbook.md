@@ -28,7 +28,6 @@ Not sure how to do this with matrices?
 
 ### 1.A.15
 $$
-\begin{equation}
 \begin{split}
 \lambda(x+y)\\
 &=\lambda(x_1+y_1, x_2+y_2, x_3+y_3\ ...\ x_n+y_n)\\
@@ -37,7 +36,6 @@ $$
 &=(\lambda x_1, \lambda x_2, \lambda x_3\ ...\ \lambda x_n) + (\lambda y_1, \lambda y_2, \lambda y_3\ ...\ \lambda y_n)\\
 &= \lambda(x) + \lambda(y) = \lambda x + \lambda y
 \end{split}
-\end{equation}
 $$
 
 ## Matrices for Solving Systems
