@@ -2,7 +2,7 @@
 title: Bio Diet Storage 
 author: Huxley 
 course: BIO101
-source: #index
+source: [[KBBiologyMasterIndex]]
 ---
 
 
