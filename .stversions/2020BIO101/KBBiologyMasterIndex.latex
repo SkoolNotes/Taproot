@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -160,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
 \#source
 
@@ -193,8 +193,12 @@
   \item
     Hux ---{[}{[}KBMacromelecules{]}{]}
   \end{itemize}
+\item
+  Diet Finder {[}{[}KBe20bio201retDietFinderIndex{]}{]}
 \end{itemize}
 
-Exr0n's Flows {[}{[}20bio201floD3{]}{]}
+Exr0n's Flows {[}{[}20bio201floD3{]}{]} {[}{[}20bio201flo4{]}{]}
+
+Exr0n's ret index {[}{[}KBe20bio101retIndex{]}{]}
 
 \end{document}

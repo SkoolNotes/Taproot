@@ -6,6 +6,9 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
@@ -159,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBhMATH401SubIndex}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhMATH401SubIndex}{\tiny\textulf{[[}\textbf{KBhMATH401SubIndex}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhMATH401SubIndex}{\tiny\textulf{[[}\textbf{KBhMATH401SubIndex}\textulf{]]}}}\thinspace
 
 \hypertarget{general-aftercare}{%
 \section{General Aftercare}\label{general-aftercare}}
@@ -191,12 +192,21 @@
   Due on Monday)
 \end{itemize}
 
-\textbf{Expectations} * A notebook should be maintained + some solved
-sample problems * Homework assigned each class * HW graded for Habits of
-Mind rubric * One graded assignments every two weeks or so
+\textbf{Expectations}
 
-Textbooks:
-\includegraphics{/Users/houliu/Downloads/Screen Shot 2020-08-24 at 1.11.22 PM.png}
+\begin{itemize}
+\tightlist
+\item
+  A notebook should be maintained + some solved sample problems
+\item
+  Homework assigned each class
+\item
+  HW graded for Habits of Mind rubric
+\item
+  One graded assignments every two weeks or so
+\end{itemize}
+
+Textbooks: \includegraphics{./Screen Shot 2020-08-24 at 1.11.22 PM.png}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

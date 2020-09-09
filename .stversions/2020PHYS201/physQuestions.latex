@@ -6,8 +6,6 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
-\usepackage[normalem]{ulem}
-
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -108,8 +106,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ MATH401 }
-\newcommand{\thelesson}{ Day 1 with Veena }
+\newcommand{\thecourse}{ 20phys201 }
+\newcommand{\thelesson}{ Physics Questions }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +121,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,152 +160,41 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBhMATH401SubIndex}{\tiny\textulf{[[}\textbf{KBhMATH401SubIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{general-aftercare}{%
-\section{General Aftercare}\label{general-aftercare}}
+\ifthenelse{ \equal{KBPhysicsMasterIndex}{} }
+{}
+{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBPhysicsMasterIndex}{\tiny\textulf{[[}\textbf{KBPhysicsMasterIndex}\textulf{]]}}}
 
-\begin{itemize}
-\tightlist
-\item
-  Assignments on Canvas (preferably a PDF)
-\item
-  Collaborate as much as possible
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Learn and share ideas together
-  \item
-    Collaborate well together
-  \end{itemize}
-\item
-  Nikhil TAing!! ;)
-\item
-  \textasciitilde30 mins of HW/class period. \emph{time} the assignments
-  and write it down on top.
-\item
-  Tests are take home, duh (COVID NOISES!!), and are Assigned Wednesday,
-  Due on Monday)
-\end{itemize}
-
-\textbf{Expectations}
+\#ret
 
 \begin{itemize}
 \tightlist
 \item
-  A notebook should be maintained + some solved sample problems
-\item
-  Homework assigned each class
-\item
-  HW graded for Habits of Mind rubric
-\item
-  One graded assignments every two weeks or so
-\end{itemize}
-
-Textbooks: \includegraphics{./Screen Shot 2020-08-24 at 1.11.22 PM.png}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{knowledge-points-this-semester}{%
-\section{Knowledge Points This
-Semester}\label{knowledge-points-this-semester}}
-
-\begin{itemize}
-\item
-  Limits
+  Electrostatics
 
   \begin{itemize}
   \tightlist
   \item
-    Eplison delta proofs
-  \item
-    Limit laws
-  \item
-    Evaluating functions
-  \item
-    Prove limit laws
-  \end{itemize}
-\item
-  Continuity
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Types of continuity + discontinuity
-  \item
-    Define continuity
-  \item
-    Immediate value theorem
+    Charged plates
 
     \begin{itemize}
     \tightlist
     \item
-      Application +
+      Q: Charges are applied to plates, but no charge flows. It just
+      creates electrostatic fields which causes charges to flow in the
+      neutral conductor.
     \item
-      Boundedness
+      Q: With the charged plates, if there was no neutral conductor,
+      would the field stay uniform? (Because there is no equilibrium to
+      be reached)
+    \item
+      Q: Where exactly is the \(E_net = 0\) range in the central neutral
+      conductor with hole? Does it extend outside, since the charges
+      have flowed within the conductor to make it neutral?
     \end{itemize}
   \end{itemize}
-\item
-  Derivatives
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Limit definition of derivatives
-  \item
-    Define differentialibity
-  \item
-    Understand how the first and second order derivatives
-  \item
-    Talor Series approximations
-  \item
-    L'Hospital rules for limits w/ indeterminate rations, indeterminate
-    products, indeterminate products
-  \end{itemize}
-\item
-  \begin{itemize}
-  \tightlist
-  \item
-    a final project
-  \end{itemize}
 \end{itemize}
-
-\textbf{Everything you use on tests must be derived by you.}
-
-=\textgreater{} Make test corrections + consider reassessing
-(immediately) if necessary + meet with instructors \& TAs during
-\emph{Wednesday lunch} or \emph{Friday tutorial}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{so-what-is-calculus}{%
-\section{\texorpdfstring{So, what \emph{is}
-Calculus?}{So, what is Calculus?}}\label{so-what-is-calculus}}
-
-\begin{itemize}
-\tightlist
-\item
-  The analysis of change
-\item
-  Study of curves
-\item
-  Study of rate-of-change
-\end{itemize}
-
-\hypertarget{rate-of-change}{%
-\subsection{Rate of change}\label{rate-of-change}}
-
-We have seen this before: \textbf{Slopes!}
-
-\begin{quote}
-The rate of change tells you the relation in the trend of the graph.
-Think! Negative and positive functions!
-\end{quote}
-
-\definition{First order rate of change}{How much is the function changing over a period of time?}
-
-\definition{Second order difference}{How much is the rate of change changing over time?}
 
 \end{document}

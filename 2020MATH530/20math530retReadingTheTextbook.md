@@ -18,17 +18,16 @@ $$
 
 ### 1.A.10
 $$
-\begin{align*}
+\begin{aligned}
 (4, -3, 1, 7) + 2(x_1, x_2, x_3, x_4) = (5, 9, -6, 8)\\
 4+2x_1 &= 5,\\-3+2x_2 &= 9,\\1+2x_3 &= -6,\\7+2x_4 &= 8\\
 x &= (\frac{1}{2}, 6, \frac{-7}{2}, \frac{1}{2})\\
-\end{align*}
+\end{aligned}
 $$
 Not sure how to do this with matrices?
 
 ### 1.A.15
 $$
-\begin{equation}
 \begin{split}
 \lambda(x+y)\\
 &=\lambda(x_1+y_1, x_2+y_2, x_3+y_3\ ...\ x_n+y_n)\\
@@ -37,7 +36,6 @@ $$
 &=(\lambda x_1, \lambda x_2, \lambda x_3\ ...\ \lambda x_n) + (\lambda y_1, \lambda y_2, \lambda y_3\ ...\ \lambda y_n)\\
 &= \lambda(x) + \lambda(y) = \lambda x + \lambda y
 \end{split}
-\end{equation}
 $$
 
 ## Matrices for Solving Systems

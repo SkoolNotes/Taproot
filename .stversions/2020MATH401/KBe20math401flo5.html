@@ -72,9 +72,10 @@
     </div>
   <div id="center-viewport">
       <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBe2020math401index"><span><strong>[[</strong></span><strong>KBe2020math401index</strong><span><strong>]]</strong></span></a></span></p>
+      <p>Response to homework: <span>[</span><span>[</span>20math401retHW1_2.pdf<span>]</span><span>]</span></p>
       <p><span>[</span><span>[</span>KBe20math401srcDeltaEpsilonReview1.png<span>]</span><span>]</span> <span class="math inline">\(|x-2||x+4| &lt; \epsilon\)</span> so near <span class="math inline">\(x=2\)</span>, <span class="math inline">\(|x-2|\)</span> is smol, so the primary term contributing to the value of the total function is <span class="math inline">\(|x+4|\)</span>. Using the above condition, <span class="math inline">\(|x-2| &lt; 1 \Rightarrow 1 &lt; x &lt; 3 \Rightarrow 5 &lt; x+4 &lt; 7\)</span></p>
       <p>So, <span class="math inline">\(|x+4|\)</span> is at most <span class="math inline">\(7\)</span>, we could try substituting it in and getting <span class="math inline">\(7|x-2| &lt; \epsilon\)</span>. Also do the other side: <span class="math inline">\(5|x-2| &lt; \epsilon\)</span></p>
-      <p>You also need to do this: <span>[</span><span>[</span>Pasted image.png<span>]</span><span>]</span> For the actual proof.</p>
+      <p>You also need to do this: <span>[</span><span>[</span>KBe20math401srcDeltaEpsilonProof2.png<span>]</span><span>]</span> for the actual proof.</p>
       <hr />
   </div>
 
@@ -82,7 +83,6 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              <!--let docPointer = x.match(/(\w)*/);-->
               let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;

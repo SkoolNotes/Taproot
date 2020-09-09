@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -160,15 +162,15 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
 \begin{itemize}
 \tightlist
 \item
   Day 1: {[}{[}KBhMUS150D1{]}{]}
+\item
+  Project 1: {[}{[}KBhMUS150Project1{]}{]}
 \end{itemize}
 
 \end{document}

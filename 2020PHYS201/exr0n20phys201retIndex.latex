@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ MUS201 }
-\newcommand{\thelesson}{ Music Prod. Master Index }
+\newcommand{\thecourse}{ 20phys201 }
+\newcommand{\thelesson}{ physics ret index }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -163,14 +163,17 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBPhysicsMasterIndex}{\tiny\textulf{[[}\textbf{KBPhysicsMasterIndex}\textulf{]]}}}\thinspace
 
 \begin{itemize}
 \tightlist
 \item
-  Day 1: {[}{[}KBhMUS150D1{]}{]}
-\item
-  Project 1: {[}{[}KBhMUS150Project1{]}{]}
+  Annotations for
+  \href{https://nuevaschool.instructure.com/courses/2851/assignments/51288}{``Intro
+  to voltage with gravity''}:
+  {[}{[}exr0n20phys201retIntroVoltageWithGravity.pdf{]}{]}
 \end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}

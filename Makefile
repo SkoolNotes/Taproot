@@ -1,6 +1,6 @@
 SHELL := /bin/zsh
 # Find all markdown files
-MARKDOWN=$(shell find . -iname "KB*.md" | grep -v ".stversions" | grep -v "sync-conflict")
+MARKDOWN=$(shell find . -iname "*.md" | grep -v ".stversions" | grep -v "sync-conflict")
 # Form all 'html' counterparts
 PDF=$(MARKDOWN:.md=.pdf)
 HTML=$(MARKDOWN:.md=.html)
@@ -8,11 +8,15 @@ LATEX=$(MARKDOWN:.md=.latex)
 TAG=$(firstword $(subst ., ,$(lastword $(subst /, ,$1))))
 SUBJECT=$(firstword $(subst /, ,$1))
 TARGET=$(subst md,html,$1)
+BUILDNUMBER_FILE=buildID.txt
+SHELL:=/bin/zsh
 
 .PHONY = all tar clean cleanindx cleanassets
 
 all: $(MARKDOWN) $(PDF) $(HTML)
-	echo $$RANDOM > buildID.txt
+# https://www.linuxjournal.com/content/add-auto-incrementing-build-number-your-build-process
+	zsh -c '[[ -f $(BUILDNUMBER_FILE) ]] || echo 0 > $(BUILDNUMBER_FILE)'
+	zsh -c 'echo $$(( $$(cat $(BUILDNUMBER_FILE)) + 1 )) > $(BUILDNUMBER_FILE)'
 	make flush
 
 html: $(HTML)

@@ -126,6 +126,7 @@
       <li><p><strong>Heart of Darkness</strong></p>
       <ul>
       <li><p><span>[</span><span>[</span>KBhENG201HeartOfHardness<span>]</span><span>]</span> Heart of Darkness Index</p></li>
+      <li><p><span>[</span><span>[</span>KBheartday1<span>]</span><span>]</span> Huxley, I am assuming?</p></li>
       </ul></li>
       </ul>
       <h2 id="annotated-docs">Annotated Docs</h2>
@@ -151,7 +152,6 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              <!--let docPointer = x.match(/(\w)*/);-->
               let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;

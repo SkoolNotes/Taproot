@@ -37,10 +37,10 @@ My apologies for the lack of a myfooddata link -- instead you are seeing this on
 - Histidine 98.34293136523347%
 ```
 ```
- Diet List:
- - 150.891598g Turkey Sausage
- 
- - 75.102569g Mustard
+Diet List:
+- 150.891598g Turkey Sausage
+
+- 75.102569g Mustard
 
 # AATSB
 - Phenylalanine 81.2080685572291%
@@ -96,8 +96,9 @@ My apologies for the lack of a myfooddata link -- instead you are seeing this on
 - Histidine 106.99994166721545%
 ```
 ```
- - 127.386725g Turkey sausage
+Diet List: 
+- 127.386725g Turkey sausage
 
- - 362.514000g Broccoli
+- 362.514000g Broccoli
 
- - 84.627282g Mustard
+- 84.627282g Mustard
