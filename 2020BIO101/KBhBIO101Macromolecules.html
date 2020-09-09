@@ -85,6 +85,7 @@
       <h2 id="some-macromolecules">Some Macromolecules!</h2>
       <ul>
       <li><p><span>[</span><span>[</span>KBhBIO101Carbs<span>]</span><span>]</span></p></li>
+      <li><p><span>[</span><span>[</span>KBhBIO101Lipids<span>]</span><span>]</span></p></li>
       </ul>
   </div>
 
@@ -92,7 +93,6 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              <!--let docPointer = x.match(/(\w)*/);-->
               let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;

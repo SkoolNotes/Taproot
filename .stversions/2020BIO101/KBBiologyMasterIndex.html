@@ -85,15 +85,17 @@
       <li><p>Jack — <span>[</span><span>[</span>KBhBIO101Macromolecules<span>]</span><span>]</span></p></li>
       <li><p>Hux —<span>[</span><span>[</span>KBMacromelecules<span>]</span><span>]</span></p></li>
       </ul></li>
+      <li><p><span>[</span><span>[</span>KBBioDietStorage<span>]</span><span>]</span></p></li>
       </ul>
-      <p>Exr0n’s Flows <span>[</span><span>[</span>20bio201floD3<span>]</span><span>]</span> <span>[</span><span>[</span>20bio201flo4<span>]</span><span>]</span></p>
+      <p>Exr0n’s Flows <span>[</span><span>[</span>20bio201floD3<span>]</span><span>]</span></p>
   </div>
 
   <script>
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/(\w)*/);
+              <!--let docPointer = x.match(/(\w)*/);-->
+              let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
