@@ -22,5 +22,6 @@ course: CHEM201
 
 ## Some Macromolecules!
 * [[KBhBIO101Carbs]]
+* [[KBhBIO101Lipids]]
 
 
