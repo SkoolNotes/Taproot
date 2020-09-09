@@ -1,0 +1,250 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ 20math401 }
+\newcommand{\thelesson}{ Day 3 }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBe-2020math401-index}{\tiny\textulf{[[}\textbf{KBe-2020math401-index}\textulf{]]}}}\thinspace
+
+\hypertarget{rate-of-change-1-chemical-reaction}{%
+\subsection{Rate of Change (1, chemical
+reaction)}\label{rate-of-change-1-chemical-reaction}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Average rate of change (slope) between \(t=20\) and \(t=30\) is
+  \(0.615\)
+\item
+  \(f\left(x\right)\ =\ \frac{\left(A_{0}\left(1-\exp\left(-k\left(x+p\right)\right)\right)-A_{0}\left(1-\exp\left(-k\left(x\right)\right)\right)\right)}{p}\)
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Show that it looks like the tangent at \(x=25\):
+    \(y=f\left(25\right)\left(x-25\right)+51.444\)
+  \end{enumerate}
+\item
+  \href{https://www.desmos.com/calculator/ocjzjtyqjb}{Desmos Graph}
+\end{enumerate}
+
+\hypertarget{rate-of-change-2-washing-machines}{%
+\subsection{Rate of Change (2, washing
+machines)}\label{rate-of-change-2-washing-machines}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Average cost for \(100\) machines = \(\frac{11000}{100} = 110\)
+\item
+  Derivative is \(y = -0.2x + 100\), so we get \(80\)
+\item
+  By hard coding the numbers, we get
+  \(\left(2000+100\cdot101-0.1\left(101\right)^{2}\right)-\left(\left(2000+100\cdot100-0.1\left(100\right)^{2}\right)\right) = 79.9\)
+  which is roughly \(80\)
+\item
+  \href{20math401Marginal\%20Cost}{Demos Graph}
+\end{enumerate}
+
+\hypertarget{terminology}{%
+\subsection{Terminology}\label{terminology}}
+
+\textbf{(slide 13 is confusing}, see questions.\textbf{)}
+
+\hypertarget{limits}{%
+\subsection{Limits}\label{limits}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Eq \(\frac{x^3-1}{x-1} \Rightarrow \{x^2+x+1 : x \neq 1\}\)
+\end{enumerate}
+
+\hypertarget{limits-practice}{%
+\subsubsection{Limits Practice}\label{limits-practice}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \(\lim_{x\to 10}2x+5 = 25\)
+\item
+  \(\lim_{x\to -2} \frac{x^2-x-6}{x-2} = -5\)
+\item
+  \(\lim_{x\to 4} \frac{x-4}{\sqrt{x}-2} \Rightarrow *\frac{\sqrt{x}+2}{\sqrt{x}+2} \Rightarrow \sqrt{x}+2 = 4\)
+\item
+  \(\lim_{x\to 0} \frac{sin x}{x}\): \(sin x = x\) for small \(x\)
+  (SHM), so we can treat it like \(\frac{x}{x}\) \#todo
+\item
+  \(\lim_{x\to 0} sin\frac{1}{x}\) Keeps changing\ldots{} Not sure how
+  to evaluate. \#todo
+\item
+  \(\lim_{x\to 2}\lfloor x \rfloor\)
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

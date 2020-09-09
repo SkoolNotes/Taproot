@@ -18,11 +18,11 @@ $$
 
 ### 1.A.10
 $$
-\begin{align*}
+\begin{align}
 (4, -3, 1, 7) + 2(x_1, x_2, x_3, x_4) = (5, 9, -6, 8)\\
 4+2x_1 &= 5,\\-3+2x_2 &= 9,\\1+2x_3 &= -6,\\7+2x_4 &= 8\\
 x &= (\frac{1}{2}, 6, \frac{-7}{2}, \frac{1}{2})\\
-\end{align*}
+\end{align}
 $$
 Not sure how to do this with matrices?
 
