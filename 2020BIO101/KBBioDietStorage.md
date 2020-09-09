@@ -67,31 +67,26 @@ source: #index
 
 # The Magic School Bus
 - Phenylalanine 87.91268936156915%
+
 - Valine 105.08684737010394%
-Leucine 89.98724371665506%
-Isoleucine 109.94987379700649%
-Lysine 111.43108802230324%
-Threonine 118.2740710353724%
-Tryptophan 114.84947167949286%
-Methionine 68.9427795131111%
-Histidine 106.99994166721545%
+
+- Leucine 89.98724371665506%
+
+- Isoleucine 109.94987379700649%
+
+- Lysine 111.43108802230324%
+
+- Threonine 118.2740710353724%
+
+- Tryptophan 114.84947167949286%
+
+- Methionine 68.9427795131111%
+
+- Histidine 106.99994166721545%
 ```
 ```
-> 1. 127.386725g Turkey sausage
-> 2. 362.514000g Broccoli
-> 3. 84.627282g Mustard
+ 1. 127.386725g Turkey sausage
 
+ 2. 362.514000g Broccoli
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 3. 84.627282g Mustard
