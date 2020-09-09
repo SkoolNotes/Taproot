@@ -43,5 +43,6 @@ $$
 	- functions can be elements in fields or something?
 	- lists are just functions on a set of numbers..?
 	- subtraction (additive inverses and identity are unique)
+	- **When you see $xy$, 
 
 ---
