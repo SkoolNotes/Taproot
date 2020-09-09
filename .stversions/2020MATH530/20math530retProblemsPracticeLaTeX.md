@@ -48,9 +48,10 @@ $$
 Suppose $a = \begin{bmatrix}x\\y\end{bmatrix}$ and $b = \begin{bmatrix}w\\z\end{bmatrix}$. We have $a\bullet b = a^T\cdot b = \begin{bmatrix}x&y\end{bmatrix} \begin{bmatrix}w\\z\end{bmatrix} = xw+yz$.
 We need an expresion for $\theta$:
 ![[KBe20math530retDotProductProofFig.png]]
+$\theta = \frac{\pi}{2} - \alpha - \beta$
 $$
 \begin{split}
-cos\theta = 
+cos\theta = cos{\frac{\pi}{2}}
 \end{split}
 $$
 
