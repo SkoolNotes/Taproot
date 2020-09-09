@@ -9,7 +9,9 @@ source: [[KBBiologyMasterIndex]]
 
 These are lists compiled from code I wrote with a few peers, which can be found here: [Repository](https://github.com/SkoolNotes/diet-finder8000superplus)
 
-I spent *well* over 30 minutes working on this, and I learned a lot about coding as well as nutrition and 
+I spent *well* over 30 minutes working on this, and I learned a lot about coding as well as data collection/management and nutrition.
+
+The code is not currently function at full capacity, as we ran it on a limited dateset and we are currently working on making it function with the larger dateset making it much more powerful
 
 ---
 
