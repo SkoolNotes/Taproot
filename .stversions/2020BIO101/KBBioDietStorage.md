@@ -9,6 +9,8 @@ source: [[KBBiologyMasterIndex]]
 
 These are lists compiled from code I wrote with a few peers, which can be found here: [Repository](https://github.com/SkoolNotes/diet-finder8000superplus)
 
+I spent *well* over 30 minutes working on this, and I learned a lot about coding as well as nutrition and 
+
 ---
 
 # Tustard 
