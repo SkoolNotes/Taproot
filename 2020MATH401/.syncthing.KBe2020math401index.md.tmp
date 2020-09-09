@@ -16,6 +16,7 @@
 | 1_1 | 2020-09-01 | [[RETcalc1_1.pdf]]
 | Easy_1 | 2020-09-03 | [[eFloCalcD3]] (continued classwork)
 | 1_2 | 2020-09-08 | [[20math401retHW1_2.pdf]]
+| 1_3 | AbiW | [[KBe20math401ret1_3t.pdf]]
 
 
 Concepts and Notation | [[KBe2020math401refCalcConceptsNotation]]
