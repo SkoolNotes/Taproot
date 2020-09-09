@@ -8,3 +8,5 @@ current = which way and how much
 - current kills not voltage
 
 ## Vandegraph demo
+- See annotated pdf last page [[SRCelectrostaticsPacket1annotatedExr0n.pdf]]
+- #question How does the comb keep 
