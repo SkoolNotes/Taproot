@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Carbohydrates }
+\newcommand{\thelesson}{ Enthalpy }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -163,90 +163,32 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101StructuresofCarbs}{\tiny\textulf{[[}\textbf{KBhBIO101StructuresofCarbs}\textulf{]]}}}\thinspace
 
-\hypertarget{carbohydrates}{%
-\section{Carbohydrates}\label{carbohydrates}}
-
-Glucose, Cellulose, Lactose, etc. etc.
-
-\hypertarget{structures-of-carbs}{%
-\subsection{Structures of Carbs}\label{structures-of-carbs}}
+\hypertarget{enthalpy}{%
+\section{Enthalpy}\label{enthalpy}}
 
 \begin{itemize}
 \tightlist
 \item
-  Carbs have \textbf{6 carbons.}
+  To do a reaction, a system needs to break some bonds and form new
+  bonds
 \item
-  Carbon chain with Hydrogen and Hydroxide
+  Break all of the bonds. Breaking bonds require energy (high heat
+  states called ``transition phrase'')
 \item
-  Dissolves well in water because of the slightly positive hydrogen and
-  the slightly negative OH
+  Form new bonds
+\item
+  End up with product --- either cause negative pre-post reaction
+  potential energy difference (extothermic --- release heat) or positive
+  pre-post reaction potential energy (endothermic --- take in heat)
 \end{itemize}
 
-\begin{quote}
-So, if you see a hexagon carbon ring, you are probably looking at a
-carbohydrate
-\end{quote}
+\definition["The heat difference after a reaction is equal to the heat needed to break bonds and the head used to form bonds. Both values could be negative."]{Enthalpy Equation}{$\Delta H_{rxn} = \sum{\Delta H_{breaking}}  + \sum{\Delta H_{Forming}}$}
 
-You could take many ``simple sugars'' (glucose, for instance) and chain
-them to build wonderfully complicated things (fiber!). To see how that
-happens: {[}{[}KBhBIO101StructuresofCarbs{]}{]}
-
-\hypertarget{uses-of-carbs}{%
-\subsection{Uses of Carbs}\label{uses-of-carbs}}
-
-\begin{itemize}
-\tightlist
-\item
-  Mitocondria
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Actually not strictly part of a cell!
-  \item
-    Another organism (technically an organelle)
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Could move
-    \item
-      Could replicate
-    \end{itemize}
-  \item
-    Breaks down stored carbs (glycogen) into glucose and then eventually
-    smaller elements
-  \end{itemize}
-\item
-  Cell tagging
-
-  \begin{itemize}
-  \tightlist
-  \item
-    As an authentication systems
-  \item
-  \end{itemize}
-\end{itemize}
-
-\hypertarget{the-carbs-debate}{%
-\subsection{The Carbs Debate}\label{the-carbs-debate}}
-
-\begin{itemize}
-\tightlist
-\item
-  Fructose worse? Better? No difference?
-\item
-  Experiments differ
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Generally found no differences
-  \item
-    Some found fructose to be a bit more obesity causing
-  \end{itemize}
-\end{itemize}
+With a positive delta H, you have an endothemic reaction. With an
+negative delta H, you have an extothermic reaction. Extothermic
+reactions are favorable =\textgreater{} they give out energy instead of
+needing it
 
 \end{document}
