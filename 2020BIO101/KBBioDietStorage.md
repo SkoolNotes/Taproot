@@ -26,9 +26,10 @@ source: #index
 - Histidine 98.34293136523347%
 ```
 ```
-> Diet List:
-> 1. 150.891598g Turkey Sausage
-> 2. 75.102569g Mustard
+ Diet List:
+ 1. 150.891598g Turkey Sausage
+ 
+ 2. 75.102569g Mustard
 
 # AATSB
 - Phenylalanine 81.2080685572291%
@@ -50,17 +51,23 @@ source: #index
 - Histidine 93.59079200960244%
 ```
 ```
-> Diet List:
-> 1. 205.162743g broccoli
-> 2. 90.416268g mustard
-> 3. 369.057053g butter stick
-> 4 16.536808g whole milk
-> 5. 161.597425g whole eggs
+ Diet List:
+ 
+ 1. 205.162743g broccoli
+ 
+ 2. 90.416268g mustard
+ 
+ 3. 369.057053g butter stick
+ 
+ 4. 16.536808g whole milk
+ 
+ 5. 161.597425g whole eggs
+ 
 
 
 # The Magic School Bus
-> Phenylalanine 87.91268936156915%
-Valine 105.08684737010394%
+- Phenylalanine 87.91268936156915%
+- Valine 105.08684737010394%
 Leucine 89.98724371665506%
 Isoleucine 109.94987379700649%
 Lysine 111.43108802230324%

@@ -26,34 +26,50 @@ source: #index
 - Histidine 98.34293136523347%
 ```
 ```
-> Diet List:
-> 1. 150.891598g Turkey Sausage
-> 2. 75.102569g Mustard
+ Diet List:
+ 1. 150.891598g Turkey Sausage
+ 
+ 2. 75.102569g Mustard
 
 # AATSB
-> Phenylalanine 81.2080685572291%
-Valine 124.11991193514258%
-Leucine 94.13009551708133%
-Isoleucine 121.33660481656196%
-Lysine 98.99885464164082%
-Threonine 117.22718754701687%
-Tryptophan 136.44759141786292%
-Methionine 76.60724610188446%
-Histidine 93.59079200960244%
+- Phenylalanine 81.2080685572291%
+
+- Valine 124.11991193514258%
+
+- Leucine 94.13009551708133%
+
+- Isoleucine 121.33660481656196%
+
+- Lysine 98.99885464164082%
+
+- Threonine 117.22718754701687%
+
+- Tryptophan 136.44759141786292%
+
+- Methionine 76.60724610188446%
+
+- Histidine 93.59079200960244%
 ```
 ```
-> Diet List:
-> 1. 205.162743g broccoli
-> 2. 90.416268g mustard
-> 3. 369.057053g butter stick
-> 4 16.536808g whole milk
-> 5. 161.597425g whole eggs
+ Diet List:
+ 
+ 1. 205.162743g broccoli
+ 
+ 2. 90.416268g mustard
+ 
+ 3. 369.057053g butter stick
+ 
+ 4. 16.536808g whole milk
+ 
+ 5. 161.597425g whole eggs
+ 
 
 
 # The Magic School Bus
-> Phenylalanine 87.91268936156915%
-Valine 105.08684737010394%
+- Phenylalanine 87.91268936156915%
+- Valine 105.08684737010394%
 Leucine 89.98724371665506%
+- Valine 105.08684737010394%
 Isoleucine 109.94987379700649%
 Lysine 111.43108802230324%
 Threonine 118.2740710353724%
