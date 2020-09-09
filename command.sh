@@ -13,7 +13,7 @@ while true; do
 
         (git add -A >> log.txt && \
         git reset -- log.txt >> log.txt && \
-        git commit -m "$changes$(echo)(automated compilation $(cat buildID.txt))" >> log.txt && \
+        git commit -m "$changes$(printf '\n')(automated compilation $(cat buildID.txt))" >> log.txt && \
         git push --quiet) && \
         printf "Synced and commited at $(date)\r" || printf "Sync Failed!!! $(date)"
     else
