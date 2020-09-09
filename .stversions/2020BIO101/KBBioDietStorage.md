@@ -11,7 +11,7 @@ These are lists compiled from code I wrote with a few peers, which can be found 
 
 I spent *well* over 30 minutes working on this, and I learned a lot about coding as well as data collection/management and nutrition.
 
-The code is not currently function at full capacity, as we ran it on a limited dateset and we are currently working on making it function with the larger dateset making it much more powerful
+The code is not currently functioning at full capacity, as we ran it on a limited dateset and we are currently working on making it function with the larger dateset making it much more powerful
 
 ---
 
