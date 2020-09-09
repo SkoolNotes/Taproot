@@ -55,7 +55,9 @@ $$
 &= |A||B| sin(\alpha + \beta)\\
 &= |A||B| \left(sin\alpha\ cos\beta + cos\alpha\ sin\beta\right)\\
 &= |A||B| \left(\left(\frac{y}{|A|}\right)\left(\frac{z}{|B|}\right)+\left(\frac{x}{|A|}\right)\left(\frac{w}{|B|}\right)\right)\\
-&= |A||B| \left(\frac{yz}{|A||B|}+\frac{xw}{|A||B|}\right)
+&= |A||B| \left(\frac{yz}{|A||B|}+\frac{xw}{|A||B|}\right)\\
+&= yz+wz\\
+&= xw+yz
 \end{split}
 $$
 
