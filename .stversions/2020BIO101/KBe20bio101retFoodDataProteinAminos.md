@@ -16,8 +16,9 @@ I don't have a strong preference on what my preferred ratio is, especially becau
 3.  > Using  https://www.myfooddata.com (Links to an external site.), build a single day meal plan that achieves your goals. 
 #todo-exr0n
 
-From the script
+From the [script]()
 ```
+
 Phenylalanine 81.2080685572291 %
 Valine 124.11991193514258 %
 Leucine 94.13009551708133 %
@@ -32,14 +33,17 @@ You better goddamn eat 90.416268g o' mustard
 You better goddamn eat 369.057053g o' butter stick
 You better goddamn eat 16.536808g o' whole milk
 You better goddamn eat 161.597425g o' whole eggs
+
 ```
 
-![[KBe20bio201retFoodDataProteinAminosDiet1.png]]
+![](KBe20bio201retFoodDataProteinAminosDiet1.png)
 
 4. > Cross check the https://www.myfooddata.com (Links to an external site.) essential amino acid values/food with the tables in the slides (Links to an external site.). Do they seem consistent? Provide evidence for you answer.
+
 Well, we used the RDI from an external dataset. The my food data website said that this was the data they used, but the RDI values were somewhat different. However, the values the script comes up with are pretty similar to the website, although our RDI seems to be higher than the website.
 
  5. > Were there any essential amino acids, vitamins, or minerals needs that were challenging to satisfy during your meal planning?   What are some foods particularly high in that vitamin or mineral?
- Tryptophan and Methionine, which seems tobe mostly 
+ 
+ Tryptophan and Methionine, which seems to be mostly taken care of by milk and eggs.
 
 ---

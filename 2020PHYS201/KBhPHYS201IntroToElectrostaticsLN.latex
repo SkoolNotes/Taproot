@@ -271,4 +271,141 @@ To see how we could do this, and how it relates to electrostatics, see
 
 See {[}{[}KBhPHYS201ElectricFields{]}{]} Electric Fields.
 
+\hypertarget{cn-090902020}{%
+\section{CN 090902020}\label{cn-090902020}}
+
+\#disorganized
+
+\begin{itemize}
+\tightlist
+\item
+  A van de graff generator!
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Electrostatics zap happen after crank turned
+  \item
+    But, how does it work?
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Cranks connects to a white roller, and next to it some metal teeth
+    \item
+      Roller connnects to transparent belt, and on the other end, under
+      the globe, there is a similar roller
+    \item
+      Metal combs next to rollers
+    \end{itemize}
+  \item
+    When cranks are turned, the bottom roller becomes negative, and the
+    top roller becomes positive
+  \item
+    So, electron flow between handle (connected to bottom) and globe
+    (connected to top)
+  \end{itemize}
+
+  \includegraphics{./Screen Shot 2020-09-09 at 10.25.51 AM.png}
+\item
+  Van de graff generator so exciting because, unlike normal statics,
+  charges are added from the inside (see, wire B)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    When you add additional changes, because conductor wants to stay 0,
+    the additional charges can't do anything but accept it
+  \item
+    Sphere slightly curved to make up for gaping hole
+  \item
+    Normal door-handle statics would much rater simply eject the added
+    change as their electric field is pointed at one direction against
+    charge introduction
+  \end{itemize}
+\item
+  Let's talk about the sparks!
+
+  \begin{itemize}
+  \tightlist
+  \item
+    One dome that's positive, one dome is negative
+  \item
+    So, what happens when Spark! happens?
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Enough charge to overcome the electric field resistance of air
+      (like 3.4 million Volts/metre), and \textbf{air ionizes} --- air
+      atoms becomes so attracted that their electrons ditch their nuclei
+      and air suddenly becomes a conductors
+    \item
+      Neutral air has high resistance, but when it ionizes, the air
+      looses its resistance (drops) and becomes nicely conductive
+    \item
+      So then, current (Coulomb/s) that flow in the air suddenly spark
+      up because of sudden loss of resistance, discharging the negative
+      dom
+    \end{itemize}
+  \end{itemize}
+\item
+  Photo copiers, too
+\end{itemize}
+
+\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020PHYS201/Screen Shot 2020-09-09 at 10.46.29 AM.png}
+1. LED light cause original to reflect into mirror 2. Scanning drum
+(yellow thing) does electrostatics! 3. Drum plated with plastic 4.
+Positively charged drum gets positively charged by a smaller roller 5.
+Light reflecting off of the original (the parts of the original without
+black ink, anyway) disturbs the positively charged roller 6. Plastic
+becomes conducting where it experiences light 7. Drum under the positive
+is \textbf{grounded} --- meaning it could absorb + apply an infinite
+amount of electrons, so any grounded conductor becomes neutral 8. You
+could see from the figure above, where you have dark on the original,
+positive charge contributed by (4) is left on the plastic. Where you
+have light, the plastic becomes a conductor and the ground draws the
+electrons away, making light parts neutral 9. Now, the toner powder next
+to the drum will only stick to the positive parts of the plastic
+printing drums, which, remember, is where light paper\_did not\_ affect
+10. And then, a copy! 3. Lazer printing 4. Same as above, except plastic
+becomes conducting where it experiences light from a computer-controlled
+laser drawing a negative of the print
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\tightlist
+\item
+  Use the variable \(I\), a unit Coulombs/Second, to measure current.
+  This also equals \(\frac{\Delta V}{Resistance}\). Big resistance,
+  little current.
+\item
+  So let's figure out resistance
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \(V\) = \(\frac{J}{C}\)
+  \item
+    Resistance = \(\Omega\) = \(\frac{\Delta V}{I}\) =
+    \(\frac{Js}{C^2}\)
+  \end{itemize}
+\item
+  \(I\) = \(\frac{C}{s}\) = Amps
+\item
+  Calculating resistance
+
+  \begin{itemize}
+  \tightlist
+  \item
+    So, let's think. With a wire of length L and with a wire of area A,
+    if we increase L, the resistance in the wire would increase; if we
+    increase area A, the resistance in the the wire would decrease.
+  \item
+    \(Resistance = \frac{L}{A}*ResistivityOfMaterial\) with units
+    \(\frac{m}{m^2} * (\Omega * m)\).
+  \end{itemize}
+\end{itemize}
+
 \end{document}
