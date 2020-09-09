@@ -12,6 +12,7 @@ Didn't figure it out. How did I get $a = \pm\frac{\sqrt{2}i}{2}$??
 
 ## Cross product
 > Find the cross product of $\begin{pmatrix}1\\3\\0\end{pmatrix}\times\begin{pmatrix}2\\2\\-1\end{pmatrix}$
+
 $$
 \begin{split}
 \Rightarrow&\left|\begin{matrix}i&j&k\\1&3&0\\2&2&-1\end{matrix}\right|\\

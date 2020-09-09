@@ -15,7 +15,6 @@ source: KBhMATH401SubIndex
 * Tests are take home, duh (COVID NOISES!!), and are Assigned Wednesday, Due on Monday)
 
 **Expectations**
-
 * A notebook should be maintained + some solved sample problems
 * Homework assigned each class
 * HW graded for Habits of Mind rubric

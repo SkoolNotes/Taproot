@@ -1,6 +1,6 @@
 SHELL := /bin/zsh
 # Find all markdown files
-MARKDOWN=$(shell find . -iname "KB*.md" | grep -v ".stversions" | grep -v "sync-conflict")
+MARKDOWN=$(shell find . -iname "*.md" | grep -v ".stversions" | grep -v "sync-conflict")
 # Form all 'html' counterparts
 PDF=$(MARKDOWN:.md=.pdf)
 HTML=$(MARKDOWN:.md=.html)
