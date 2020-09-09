@@ -4,7 +4,7 @@ course: 20phys201
 author: Exr0n
 source: KBPhysicsMasterIndex
 ---
-#ret
+#ret #question
 
 - Electrostatics
 	- Charged plates for 31 August 2020
@@ -15,5 +15,11 @@ source: KBPhysicsMasterIndex
 			- A: No, the field still exists between the plate and the conductor because there is still a charge difference. The inside of the conductor has a counteracting field, but between the conductor and the plate is just a smaller version of two charged plates creating an Efield.
 			![[20phys201srcConductorNeutralizesField.png]]
 			![[20phys201srcConductorAsChargedPlate.png]]
+	- Vandegraph
+		- How does the ground comb keep depositing charge onto the rubber belt?
+		- How does a spark / lightning create sound?
+			- plasma is much harder so the air expands and then contracts. we hear the air particles slamming into each other.
+		- Why is the belt on a vandegraph generator so long? 
+			- Probably to keep the ball away from the base
 
 ---

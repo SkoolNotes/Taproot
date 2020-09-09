@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -160,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBMATH401ComputingLimits}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBMATH401ComputingLimits}{\tiny\textulf{[[}\textbf{KBMATH401ComputingLimits}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBMATH401ComputingLimits}{\tiny\textulf{[[}\textbf{KBMATH401ComputingLimits}\textulf{]]}}}\thinspace
 
 \hypertarget{limit-laws}{%
 \section{Limit Laws}\label{limit-laws}}
@@ -172,7 +172,7 @@ Here 'em:
 
 \begin{figure}
 \centering
-\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020MATH401/Screen Shot 2020-09-02 at 1.55.13 PM.png}
+\includegraphics{./2020MATH401/Screen Shot 2020-09-02 at 1.55.13 PM.png}
 \caption{Screen Shot 2020-09-02 at 1.55.13 PM.png}
 \end{figure}
 
