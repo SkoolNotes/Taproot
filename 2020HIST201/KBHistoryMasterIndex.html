@@ -98,11 +98,13 @@
       <li><p>Mann, Ming</p>
       <ul>
       <li><p>Jack — <span>[</span><span>[</span>KBhHIST201MannMing<span>]</span><span>]</span></p></li>
+      <li><p>Alb - <span>[</span><span>[</span>retExr0nMannMingTrade<span>]</span><span>]</span></p></li>
       </ul></li>
       <li><p>Bulliet 19</p>
       <ul>
       <li><p>Huxley: <span>[</span><span>[</span>KBBullietCh19<span>]</span><span>]</span></p></li>
       </ul></li>
+      <li><p>Essay 1 <span>[</span><span>[</span>KBhHIST201KennedyStillHoldsUp<span>]</span><span>]</span></p></li>
       </ul>
       <h2 id="meta-references">Meta References</h2>
       <ul>
@@ -114,7 +116,6 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              <!--let docPointer = x.match(/(\w)*/);-->
               let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;

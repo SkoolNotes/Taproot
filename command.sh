@@ -6,7 +6,7 @@ while true; do
     echo "\n\n\nLog for attempt at $(date)" >> log.txt
     git pull >> log.txt
 
-    changes="$(git status --porcelain | cut -c4-)"
+    changes="$(git status --porcelain | cut -c4- | paste -sd ' ' -)"
 
     if [[ -n "$(git status --porcelain)" ]]; then
         echo "Log for attempt at $(date)" > recent_errors.txt
@@ -14,7 +14,7 @@ while true; do
 
         (git add -A >> log.txt && \
         git reset -- log.txt >> log.txt && \
-        git commit -m "$changes $(printf "\n\n>\n") (automated compilation $(cat buildID.txt))" >> log.txt && \
+        git commit -m "b$(cat buildID.txt): $changes $(printf "\n(\n")automated compilation $(cat buildID.txt))" >> log.txt && \
         git push --quiet) && \
         printf "Synced and commited at $(date)\r" || printf "Sync Failed!!! $(date)"
     else

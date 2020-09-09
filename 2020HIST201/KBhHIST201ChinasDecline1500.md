@@ -22,3 +22,10 @@ See [[KBhHIST201ChinasDeclineWRTReopening]]
 ## w.r.t Declining Currency
 
 See [[KBhHIST201ChinasDeclineWRTCurrency]]
+
+#disorganized
+
+## China's Centralization
+* Decentralized? => Ports had almost no central controlal
+* Centralized?  => Goverment structure centralized, but infighting and smuggling 
+* Centralized policy manuvors lead to local chaos that could only be addressed to local control, but central control got too big

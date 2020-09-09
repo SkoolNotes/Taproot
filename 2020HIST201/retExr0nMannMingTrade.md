@@ -21,6 +21,7 @@ Annotated doc: [[srcAnnotatedExr0nMann-Ming trade and silver.pdf]]
 		- silver coinage because original currency was not trusted
 - "China's efforts to control piracy were hampered by incompetence at the top level"
 - "By the time the wokou were terrorizing the southeast coast, the Chinese empire had no functioning currency"
+
 ## Questions
 - Why didn't the rulers avoid printing so much money? They must've seen inflation coming
 

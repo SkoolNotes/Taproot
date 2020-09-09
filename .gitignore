@@ -134,6 +134,8 @@ dist.zip
 $VIMCONFIG
 
 # syncthing sync conflicts
+**/*.sync-conflict*
 *.sync-conflict*
+.stversions/**
 
 *log*txt*

@@ -7,7 +7,7 @@ source: KBe2020math530refExr0nRetIndex
 #ret
 
 ## Square roots of $i$
-[[20math530retSquareRootsi.pdf]]
+![[20math530retSquareRootsi.pdf]]
 Didn't figure it out. How did I get $a = \pm\frac{\sqrt{2}i}{2}$??
 
 ## Cross product
@@ -48,7 +48,7 @@ $$
 ## Show that $a\bullet b = |a||b|cos\theta$
 Suppose $a = \begin{bmatrix}x\\y\end{bmatrix}$ and $b = \begin{bmatrix}w\\z\end{bmatrix}$. We have $a\bullet b = a^T\cdot b = \begin{bmatrix}x&y\end{bmatrix} \begin{bmatrix}w\\z\end{bmatrix} = xw+yz$.
 We need an expresion for $\theta$:
-![[KBe20math530retDotProductProofFig.png]]
+![](KBe20math530retDotProductProofFig.png)
 As seen in the diagram, $\theta = \frac{\pi}{2} - \alpha - \beta$. Finally:
 $$
 \begin{split}

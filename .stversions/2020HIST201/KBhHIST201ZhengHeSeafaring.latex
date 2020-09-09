@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -160,10 +162,9 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBhHIST201MingChina1500}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhHIST201MingChina1500}{\tiny\textulf{[[}\textbf{KBhHIST201MingChina1500}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201MingChina1500}{\tiny\textulf{[[}\textbf{KBhHIST201MingChina1500}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201MannMing}{\tiny\textulf{[[}\textbf{KBhHIST201MannMing}\textulf{]]}}}\thinspace
 
 \hypertarget{ming-chinas-seafaring}{%
 \section{Ming China's Seafaring}\label{ming-chinas-seafaring}}
@@ -171,27 +172,133 @@
 \textbf{Zheng He's Expedition}: Famous official overseas official
 expedition
 
+\hypertarget{the-fleet}{%
+\subsection{The Fleet}\label{the-fleet}}
+
+Hugely built ships:
+
 \begin{itemize}
 \tightlist
 \item
-  Seeked tribute and coordination from other nations
+  Dry docks @fact
 \item
-  Forced others to acknowledge Beijing
+  Precious metals
 \item
-  Ships returned with great gifts/weird things
+  High tech
 
   \begin{itemize}
   \tightlist
   \item
-    Giraffs --- as\ldots{} entertainment
+    Double hulls
   \item
-    A chief --- for he did not acknowledge the emperor
+    Watertight compartments
+  \item
+    Rustproofed nails
+  \item
+    Mechanical pumps
   \end{itemize}
 \item
-  Apparently never plundered/murdered + killed only on Emperor's orders
+  Zheng He's flagship was the largest ship ever constructed
 \end{itemize}
 
-Eventually, China stopped seafaring + much of external trade. See
-{[}{[}KBhHIST201ChinasDecline1500{]}{]} China's Decline in the 1500s
+\hypertarget{the-guy}{%
+\subsection{The Guy}\label{the-guy}}
+
+\begin{itemize}
+\tightlist
+\item
+  Zheng He @fact
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Captured from war
+  \item
+    Supported a uncle-usurp-nephew coup
+  \item
+    Put in charge of the sea expeditions
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{the-goals}{%
+\subsection{The Goals}\label{the-goals}}
+
+\begin{itemize}
+\tightlist
+\item
+  Viewed as way of announcing China's prowess
+  @{[}{[}KBhHIST201MannMing{]}{]}
+\item
+  Seeked tribute and coordination from other nations @fact
+\item
+  Forced others to acknowledge Beijing
+\item
+  Kept peace in the surrounding regions of the expedition
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Subjugated a misbehaving Chinese enclave in Sumatra
+  \item
+    Intervened in a civil war in Java
+  \item
+    Invaded Sri Lanka
+  \item
+    Wiped out Sumatran bandits
+  \end{itemize}
+\item
+  Politically announced China's presence @{[}{[}KBhHIST201MannMing{]}{]}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Sheer size of the ships scared the bejessus out of everyone
+  \item
+    Added tribunes to China
+  \item
+    Ships returned with great gifts/weird things
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Giraffs --- as\ldots{} entertainment
+    \item
+      A chief --- for he did not acknowledge the emperor
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{the-expeditions}{%
+\subsection{The Expeditions}\label{the-expeditions}}
+
+\begin{itemize}
+\tightlist
+\item
+  Began 1405 ended 1433 @fact
+\item
+  Traveled around much of the Indian Ocean =\textgreater{} Southern
+  Africa
+\end{itemize}
+
+\hypertarget{the-end}{%
+\subsection{The End}\label{the-end}}
+
+@{[}{[}KBhHIST201MannMing{]}{]}
+
+\begin{itemize}
+\tightlist
+\item
+  Became target in political infighting
+\item
+  Son aligned with opposition party's ideas, cancelling the trips
+\end{itemize}
+
+The exact causes and reasons why this happened is still speculated.
+According to {[}{[}KBhHIST201MannMing{]}{]} (C. Mann's) 1500s Ming, this
+ending of the expedition marked a point at which China turned inwards
+from a trade perspective.
+
+See {[}{[}KBhHIST201ChinasDeclineWRTZhengHe{]}{]} China's Decline w.r.t.
+Zheng He
 
 \end{document}

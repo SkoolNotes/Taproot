@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -160,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
 \#source
 
@@ -218,6 +218,22 @@
   \end{itemize}
 \item
   Textbook models of History {[}{[}KBhHIST201HistModHist{]}{]}
+\item
+  Mann, Ming
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Jack --- {[}{[}KBhHIST201MannMing{]}{]}
+  \end{itemize}
+\item
+  Bulliet 19
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Huxley: {[}{[}KBBullietCh19{]}{]}
+  \end{itemize}
 \end{itemize}
 
 \hypertarget{meta-references}{%

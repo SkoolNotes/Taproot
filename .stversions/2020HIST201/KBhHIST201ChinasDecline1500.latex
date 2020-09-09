@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -107,7 +109,7 @@
 
 
 \newcommand{\thecourse}{ HIST201 }
-\newcommand{\thelesson}{ China's Govermental Decline in the 1500s }
+\newcommand{\thelesson}{ China's Economic Decline in the 1500s }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -160,77 +162,30 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201MingChina1500}{\tiny\textulf{[[}\textbf{KBhHIST201MingChina1500}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201ZhengHeSeafaring}{\tiny\textulf{[[}\textbf{KBhHIST201ZhengHeSeafaring}\textulf{]]}}}\thinspace
 
-\ifthenelse{ \equal{KBhHIST201MingChina1500}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhHIST201MingChina1500}{\tiny\textulf{[[}\textbf{KBhHIST201MingChina1500}\textulf{]]}}}
+\hypertarget{mings-economic-decline}{%
+\section{Ming's Economic Decline}\label{mings-economic-decline}}
 
-\hypertarget{mings-governmental-decline}{%
-\section{Ming's Governmental Decline}\label{mings-governmental-decline}}
+Various infighting + change of leadership caused a slow but sure period
+of economic decline in China.
 
-\hypertarget{decline}{%
-\subsection{Decline}\label{decline}}
+\hypertarget{w.r.t.-zheng-hes-missions}{%
+\subsection{w.r.t. Zheng He's
+Missions}\label{w.r.t.-zheng-hes-missions}}
 
-\begin{itemize}
-\tightlist
-\item
-  China never had a free market?? \#why
+See {[}{[}KBhHIST201ChinasDeclineWRTZhengHe{]}{]}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Banned overseas trade
-  \end{itemize}
-\item
-  Order in 1433 from new emperor apparently banned these missions
-\end{itemize}
+\hypertarget{w.r.t.-botched-reopening}{%
+\subsection{w.r.t. Botched Reopening}\label{w.r.t.-botched-reopening}}
 
-\hypertarget{reasons-for-decline}{%
-\subsection{Reasons for Decline}\label{reasons-for-decline}}
+See {[}{[}KBhHIST201ChinasDeclineWRTReopening{]}{]}
 
-\begin{itemize}
-\tightlist
-\item
-  Seafaring was costly, and did not help the Northern Mongol invasions
-  (duh)
-\item
-  Japanese pirates did show up, but so did the Portuguese, but
-  apparently they didn't care, so why?
-\item
-  Government being worked against by the people =\textgreater{} Rebels
-  occurring at every level
-\item
-  The answer\ldots{} CONFUCIANISM! \#sic
+\hypertarget{w.r.t-declining-currency}{%
+\subsection{w.r.t Declining Currency}\label{w.r.t-declining-currency}}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    China is a conservative, Confucian country
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Merchants are disliked
-    \item
-      So are private capital
-    \item
-      Armies are too!
-    \item
-      A side note about tech
-
-      \begin{itemize}
-      \tightlist
-      \item
-        Confucianism actually does encourage tech
-      \item
-        Simply requires building for knowledge or state purposes, and
-        not for armies/private property
-      \end{itemize}
-    \end{itemize}
-  \item
-    China attempted to emulate their ``old ways'', especially after the
-    mongol clearing =\textgreater{} caused closing
-  \end{itemize}
-\end{itemize}
+See {[}{[}KBhHIST201ChinasDeclineWRTCurrency{]}{]}
 
 \end{document}
