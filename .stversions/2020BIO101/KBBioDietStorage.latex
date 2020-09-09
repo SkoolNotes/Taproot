@@ -163,68 +163,132 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
+
+These are lists compiled from code I wrote with a few peers, which can
+be found here:
+\href{https://github.com/SkoolNotes/diet-finder8000superplus}{Repository}
+
+I spent \emph{well} over 30 minutes working on this, and I learned a lot
+about coding as well as data collection/management and nutrition.
+
+The code is not currently functioning at full capacity, as we ran it on
+a limited dateset. However, we are currently working on making it
+function with a larger dateset, which will make it much more powerful
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \hypertarget{tustard}{%
 \section{Tustard}\label{tustard}}
 
-Phenylalanine 78.88388243566993\% Valine 100.18798061274833\% Leucine
-94.51699130818912\% Isoleucine 115.95896183749683\% Lysine
-112.10357982590932\% Threonine 119.19645104929056\% Tryptophan
-93.25468414954841\% Methionine 71.62966397360115\% Histidine
-98.34293136523347\%
+\begin{itemize}
+\item
+  Phenylalanine 78.88388243566993\%
+\item
+  Valine 100.18798061274833\%
+\item
+  Leucine 94.51699130818912\%
+\item
+  Isoleucine 115.95896183749683\%
+\item
+  Lysine 112.10357982590932\%
+\item
+  Threonine 119.19645104929056\%
+\item
+  Tryptophan 93.25468414954841\%
+\item
+  Methionine 71.62966397360115\%
+\item
+  Histidine 98.34293136523347\%
+\end{itemize}
 
 \begin{verbatim}
 \end{verbatim}
 
-\begin{quote}
-Diet List: 1. 150.891598g Turkey Sausage 2. 75.102569g Mustard
-\end{quote}
+Diet List: - 150.891598g Turkey Sausage
+
+\begin{itemize}
+\tightlist
+\item
+  75.102569g Mustard
+\end{itemize}
 
 \hypertarget{aatsb}{%
 \section{AATSB}\label{aatsb}}
 
-\begin{quote}
-Phenylalanine 81.2080685572291\% Valine 124.11991193514258\% Leucine
-94.13009551708133\% Isoleucine 121.33660481656196\% Lysine
-98.99885464164082\% Threonine 117.22718754701687\% Tryptophan
-136.44759141786292\% Methionine 76.60724610188446\% Histidine
-93.59079200960244\%
-\end{quote}
+\begin{itemize}
+\item
+  Phenylalanine 81.2080685572291\%
+\item
+  Valine 124.11991193514258\%
+\item
+  Leucine 94.13009551708133\%
+\item
+  Isoleucine 121.33660481656196\%
+\item
+  Lysine 98.99885464164082\%
+\item
+  Threonine 117.22718754701687\%
+\item
+  Tryptophan 136.44759141786292\%
+\item
+  Methionine 76.60724610188446\%
+\item
+  Histidine 93.59079200960244\%
+\end{itemize}
 
 \begin{verbatim}
 \end{verbatim}
 
-\begin{quote}
-Diet List: 1. 205.162743g broccoli 2. 90.416268g mustard 3. 369.057053g
-butter stick 4 16.536808g whole milk 5. 161.597425g whole eggs
-\end{quote}
+Diet List:
+
+\begin{itemize}
+\item
+  205.162743g broccoli
+\item
+  90.416268g mustard
+\item
+  369.057053g butter stick
+\item
+  16.536808g whole milk
+\item
+  161.597425g whole eggs
+\end{itemize}
 
 \hypertarget{the-magic-school-bus}{%
 \section{The Magic School Bus}\label{the-magic-school-bus}}
 
-\begin{quote}
-Phenylalanine 87.91268936156915\% Valine 105.08684737010394\% Leucine
-89.98724371665506\% Isoleucine 109.94987379700649\% Lysine
-111.43108802230324\% Threonine 118.2740710353724\% Tryptophan
-114.84947167949286\% Methionine 68.9427795131111\% Histidine
-106.99994166721545\%
-\end{quote}
+\begin{itemize}
+\item
+  Phenylalanine 87.91268936156915\%
+\item
+  Valine 105.08684737010394\%
+\item
+  Leucine 89.98724371665506\%
+\item
+  Isoleucine 109.94987379700649\%
+\item
+  Lysine 111.43108802230324\%
+\item
+  Threonine 118.2740710353724\%
+\item
+  Tryptophan 114.84947167949286\%
+\item
+  Methionine 68.9427795131111\%
+\item
+  Histidine 106.99994166721545\%
+\end{itemize}
 
 \begin{verbatim}
 \end{verbatim}
 
-\begin{quote}
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
+\begin{itemize}
 \item
   127.386725g Turkey sausage
 \item
   362.514000g Broccoli
 \item
   84.627282g Mustard
-\end{enumerate}
-\end{quote}
+\end{itemize}
 
 \end{document}

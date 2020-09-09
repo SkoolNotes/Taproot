@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Bio Diet Storage }
+\newcommand{\thecourse}{ MATH401 }
+\newcommand{\thelesson}{ Day 1 with Veena }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -163,139 +163,151 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhMATH401SubIndex}{\tiny\textulf{[[}\textbf{KBhMATH401SubIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{context}{%
-\section{Context}\label{context}}
-
-These are lists compiled from code I wrote with a few peers, which can
-be found here:
-\href{https://github.com/SkoolNotes/diet-finder8000superplus}{Repository}
-
-I spent \emph{well} over 30 minutes working on this, and I learned a lot
-about coding as well as data collection/management and nutrition.
-
-The code is not currently functioning at full capacity, as we ran it on
-a limited dateset. However, we are currently working on making it
-function with a larger dateset, which will make it much more powerful.
-
-My apologies for the lack of a myfooddata link -- instead you are seeing
-this on a website my friends and I made for note-taking and knowledge
-sharing.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{tustard}{%
-\section{Tustard}\label{tustard}}
-
-\begin{itemize}
-\item
-  Phenylalanine 78.88388243566993\%
-\item
-  Valine 100.18798061274833\%
-\item
-  Leucine 94.51699130818912\%
-\item
-  Isoleucine 115.95896183749683\%
-\item
-  Lysine 112.10357982590932\%
-\item
-  Threonine 119.19645104929056\%
-\item
-  Tryptophan 93.25468414954841\%
-\item
-  Methionine 71.62966397360115\%
-\item
-  Histidine 98.34293136523347\%
-\end{itemize}
-
-\begin{verbatim}
-\end{verbatim}
-
-Diet List: - 150.891598g Turkey Sausage
+\hypertarget{general-aftercare}{%
+\section{General Aftercare}\label{general-aftercare}}
 
 \begin{itemize}
 \tightlist
 \item
-  75.102569g Mustard
+  Assignments on Canvas (preferably a PDF)
+\item
+  Collaborate as much as possible
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Learn and share ideas together
+  \item
+    Collaborate well together
+  \end{itemize}
+\item
+  Nikhil TAing!! ;)
+\item
+  \textasciitilde30 mins of HW/class period. \emph{time} the assignments
+  and write it down on top.
+\item
+  Tests are take home, duh (COVID NOISES!!), and are Assigned Wednesday,
+  Due on Monday)
 \end{itemize}
 
-\hypertarget{aatsb}{%
-\section{AATSB}\label{aatsb}}
+\textbf{Expectations}
+
+\begin{itemize}
+\tightlist
+\item
+  A notebook should be maintained + some solved sample problems
+\item
+  Homework assigned each class
+\item
+  HW graded for Habits of Mind rubric
+\item
+  One graded assignments every two weeks or so
+\end{itemize}
+
+Textbooks: \includegraphics{./Screen Shot 2020-08-24 at 1.11.22 PM.png}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{knowledge-points-this-semester}{%
+\section{Knowledge Points This
+Semester}\label{knowledge-points-this-semester}}
 
 \begin{itemize}
 \item
-  Phenylalanine 81.2080685572291\%
+  Limits
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Eplison delta proofs
+  \item
+    Limit laws
+  \item
+    Evaluating functions
+  \item
+    Prove limit laws
+  \end{itemize}
 \item
-  Valine 124.11991193514258\%
+  Continuity
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Types of continuity + discontinuity
+  \item
+    Define continuity
+  \item
+    Immediate value theorem
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Application +
+    \item
+      Boundedness
+    \end{itemize}
+  \end{itemize}
 \item
-  Leucine 94.13009551708133\%
+  Derivatives
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Limit definition of derivatives
+  \item
+    Define differentialibity
+  \item
+    Understand how the first and second order derivatives
+  \item
+    Talor Series approximations
+  \item
+    L'Hospital rules for limits w/ indeterminate rations, indeterminate
+    products, indeterminate products
+  \end{itemize}
 \item
-  Isoleucine 121.33660481656196\%
-\item
-  Lysine 98.99885464164082\%
-\item
-  Threonine 117.22718754701687\%
-\item
-  Tryptophan 136.44759141786292\%
-\item
-  Methionine 76.60724610188446\%
-\item
-  Histidine 93.59079200960244\%
+  \begin{itemize}
+  \tightlist
+  \item
+    a final project
+  \end{itemize}
 \end{itemize}
 
-\begin{verbatim}
-\end{verbatim}
+\textbf{Everything you use on tests must be derived by you.}
 
-Diet List:
+=\textgreater{} Make test corrections + consider reassessing
+(immediately) if necessary + meet with instructors \& TAs during
+\emph{Wednesday lunch} or \emph{Friday tutorial}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{so-what-is-calculus}{%
+\section{\texorpdfstring{So, what \emph{is}
+Calculus?}{So, what is Calculus?}}\label{so-what-is-calculus}}
 
 \begin{itemize}
+\tightlist
 \item
-  205.162743g broccoli
+  The analysis of change
 \item
-  90.416268g mustard
+  Study of curves
 \item
-  369.057053g butter stick
-\item
-  16.536808g whole milk
-\item
-  161.597425g whole eggs
+  Study of rate-of-change
 \end{itemize}
 
-\hypertarget{the-magic-school-bus}{%
-\section{The Magic School Bus}\label{the-magic-school-bus}}
+\hypertarget{rate-of-change}{%
+\subsection{Rate of change}\label{rate-of-change}}
 
-\begin{itemize}
-\item
-  Phenylalanine 87.91268936156915\%
-\item
-  Valine 105.08684737010394\%
-\item
-  Leucine 89.98724371665506\%
-\item
-  Isoleucine 109.94987379700649\%
-\item
-  Lysine 111.43108802230324\%
-\item
-  Threonine 118.2740710353724\%
-\item
-  Tryptophan 114.84947167949286\%
-\item
-  Methionine 68.9427795131111\%
-\item
-  Histidine 106.99994166721545\%
-\end{itemize}
+We have seen this before: \textbf{Slopes!}
 
-\begin{verbatim}
-\end{verbatim}
+\begin{quote}
+The rate of change tells you the relation in the trend of the graph.
+Think! Negative and positive functions!
+\end{quote}
 
-\begin{itemize}
-\item
-  127.386725g Turkey sausage
-\item
-  362.514000g Broccoli
-\item
-  84.627282g Mustard
-\end{itemize}
+\definition{First order rate of change}{How much is the function changing over a period of time?}
+
+\definition{Second order difference}{How much is the rate of change changing over time?}
 
 \end{document}
