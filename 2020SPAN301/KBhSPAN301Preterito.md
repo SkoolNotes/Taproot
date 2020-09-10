@@ -21,7 +21,7 @@ source: KB20200824124831
 |----------|-----------|
 | Torsí    | Torsiamos |
 | Torsiste |           |
-| Torsió   |           |
+| Torsió   | Torsieron |
 
 
 * Estar - estu
