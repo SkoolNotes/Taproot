@@ -156,4 +156,32 @@ source: KBhMUS150D1
 - Close up vocals
 - Retro flavor
 
+# 09102020
+
+**Juice**
+ 
+- Vocals as melody again
+- Wobbling synth and claps + white noise as precussion
+- Baseline contributed by syncth, feels like Marshmello?
+- Bird and nature sonds as decoration
+- Various non-traditional precussion techniques
+- Chinese drums?
+
+**onett**
+
+- White noise and textured beginning
+- Base track
+- Chill and again nature sounds
+
+**Chess Bling**
+
+- Trap + Electro vibes?
+- Mechanical flute and traditional hip hop backing
+- Pauses and gaps in baseline
+
+.Paak's **Lockdown** ;)
+
+- Paak's signature voice...
+- Drum as the background + subtle baseline
+- Filtered background noice + textured TV footage
 
