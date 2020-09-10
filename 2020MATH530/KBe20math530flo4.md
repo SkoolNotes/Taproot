@@ -24,16 +24,16 @@ source: KBe2020math530floIndex
 			- multiplication needs to exclude the additive identity (because it can't have an inverse)
 		- questions
 			- multiplication is repeated addition?
-				- not nessacarily
+				- not necessarily
 			- binary expressions?
 			- associative?
 				- both yes
 		- 1.3 demonstrates that the complex numbers are a field
-			- communativity
+			- commutativity
 			- associativity
 			- identities
 			- additive inverse
-			- multiplicitive inverse except additive identity
+			- multiplicative inverse except additive identity
 			- distributive
 	- usually means Reals or Complex
 		- ints mod 3 are a field
