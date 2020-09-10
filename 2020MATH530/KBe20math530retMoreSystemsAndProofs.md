@@ -22,4 +22,12 @@ Operation timed out. Arithmetic errors.
 - Something about uniqueness? 
 - If there is only one way to write zero then it works (1.44 Condition for a direct sum)
 
+### Exercise to present
+I would be interested in 7, 8, 10, 12, 14-19
+
+## 2x2 Matrices that are Commutative
+(under multiplication, with all other 2x2 matrices)
+
+- Starting 
+
 ---
