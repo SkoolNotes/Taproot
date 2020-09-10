@@ -10,7 +10,7 @@ SUBJECT=$(firstword $(subst /, ,$1))
 TARGET=$(subst md,html,$1)
 SHELL:=/bin/zsh
 
-.PHONY = all tar clean cleanindx cleanassets
+.PHONY = all tar clean cleanindx cleanassets html pdf latex indx
 
 all: $(MARKDOWN) $(PDF) $(HTML)
 # https://www.linuxjournal.com/content/add-auto-incrementing-build-number-your-build-process
@@ -42,7 +42,7 @@ flush:
 	pandoc -f latex -t html $< --pdf-engine=xelatex --mathjax -o $@ --template=./meta/templates/default.html --resource-path=$(call SUBJECT,$@)
 
 %.pdf: %.md
-	pandoc -f markdown -t pdf $< --pdf-engine=xelatex --mathjax -o $@ --template=~./meta/templates/default.latex --resource-path=$(call SUBJECT,$@)
+	pandoc -f markdown -t pdf $< --pdf-engine=xelatex --mathjax -o $@ --template=./meta/templates/default.latex --resource-path=$(call SUBJECT,$@)
 
 tar: $(MARKDOWN)
 	tar --exclude=notes.tar.gz --exclude=.git/ -czvf notes.tar.gz ./

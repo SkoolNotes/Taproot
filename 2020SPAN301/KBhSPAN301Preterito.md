@@ -22,3 +22,15 @@ source: KB20200824124831
 | Torsí    | Torsiamos |
 | Torsiste |           |
 | Torsió   |           |
+
+
+* Estar - estu
+* Poner - pu
+* Querer - quis
+* Tener - tuv
+
+* Servir - servió
+* Pedir - pidió
+* Vestirse - vistió
+* Divertirse - divertió
+
