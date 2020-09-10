@@ -10,7 +10,7 @@ source: KBe2020math530refExr0nRetIndex
 Operation timed out. Arithmetic errors.
 
 ## Read 1.B and 1.C
-### Example 1.35
-
+### 1.35 Example
+a) If $b = 0$ then we can divide all $x_3$ by $5$ and combine the last two terms to get $F^3$, which is a vector space, without loss of generality.
 
 ---
