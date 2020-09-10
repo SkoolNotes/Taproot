@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ Span301 }
-\newcommand{\thelesson}{ Spanish 3 Master Index }
+\newcommand{\thecourse}{ MUS150 }
+\newcommand{\thelesson}{ Arrangement }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -163,24 +163,25 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBMUS150INDEX}{\tiny\textulf{[[}\textbf{KBMUS150INDEX}\textulf{]]}}}\thinspace
 
-\hypertarget{day-1}{%
-\section{Day 1}\label{day-1}}
+\hypertarget{arrangemnet}{%
+\section{Arrangemnet}\label{arrangemnet}}
 
-\begin{itemize}
+\#disorganized
+
+Create expentancy. Don't reveal all of the song - and hint at the
+process of building through\ldots{}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Class expectations and future topics for semester 1.
-  {[}{[}KB20200824175405{]}{]}
+  Automation
 \item
-  Getting started with William, Sem. 1 {[}{[}KBhSPAN301SpanD1{]}{]}
-\item
-  El Preterito {[}{[}KBhSPAN301Preterito{]}{]}
-\item
-  Feeling. Pains, etc. {[}{[}KBhSPAN301PainsAndFeeling{]}{]}
-\item
-  Impersonal Expressions {[}{[}KBhSPAN301ImpersonalExpressions{]}{]}
-\end{itemize}
+  Vocal ath chord builds
+\end{enumerate}
+
+Leverage automation to create effect in music.
 
 \end{document}
