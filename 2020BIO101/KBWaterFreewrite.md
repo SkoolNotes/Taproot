@@ -18,7 +18,23 @@ Line represent polar attraction? Hydrogen bonds?
 
 
 
-# Freewrite Start 
+# Free-write Start 
+
+- What do you notice about the difference in movement between H20 and S02? Why is this?
+	-	
+
+- Described what the emergent lines between the atoms represent? 
+	-	I believe those ere hydrogen bonds, 
+
+- What is there to possibly know about water? How does water support life? 
+
+- What are biological implications of water’s properties?
+
+
+
+
+
+
 
 
 

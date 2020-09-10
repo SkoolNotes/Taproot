@@ -184,4 +184,6 @@ source: KBhMUS150D1
 - Paak's signature voice...
 - Drum as the background + subtle baseline
 - Filtered background noice + textured TV footage
+- Traditional hiphop + soul tcehniques in background
+- "Siren" as a part of the baseline
 
