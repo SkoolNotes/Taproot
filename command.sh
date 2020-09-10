@@ -12,6 +12,10 @@ while true; do
         echo "Log for attempt at $(date)" > recent_errors.txt
         make >> log.txt 2>>recent_errors.txt
 
+        #	echo "<option value='$(call TARGET,$@)'>$(call TAG,$@)</option>" >> tags.html
+#	echo "<option value='$(call TAG,$@)'>$(call TARGET,$@)</option>" >> backtrack.html
+
+
         (git add -A >> log.txt && \
         git reset -- log.txt >> log.txt && \
         git commit -m "b$(cat buildID.txt): $changes $(printf "\n(\n")automated compilation $(cat buildID.txt))" >> log.txt && \

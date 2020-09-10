@@ -31,8 +31,8 @@ flush:
 	make cleanindx indx -B
 
 %.md:
-	echo "<option value='$(call TARGET,$@)'>$(call TAG,$@)</option>" >> tags.html
-	echo "<option value='$(call TAG,$@)'>$(call TARGET,$@)</option>" >> backtrack.html
+#	echo "<option value='$(call TARGET,$@)'>$(call TAG,$@)</option>" >> tags.html
+#	echo "<option value='$(call TAG,$@)'>$(call TARGET,$@)</option>" >> backtrack.html
 	while read line; do [[ $$line == *"title"* ]] && echo "<option value='$(call TARGET,$@)'>$${line}</option>" >> indxtable.html || :; done < $@ 
 	perl -pi -e 's/title: //g' indxtable.html
 
