@@ -30,3 +30,9 @@ And, here's the rub: **History is Written by the Victors** — an important part
 ### Some background on the Congo Free State
 
 The [[KBhENG201CongoFreeState]]
+
+
+## Why are we reading it?
+
+
+
