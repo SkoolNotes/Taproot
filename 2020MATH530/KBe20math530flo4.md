@@ -1,5 +1,5 @@
 ---
-title:  LinAlg Flo 4
+title:  Linear Algebra class Flo 4
 course: 20math530
 author: Exr0n
 source: KBe2020math530floIndex
@@ -24,22 +24,22 @@ source: KBe2020math530floIndex
 			- multiplication needs to exclude the additive identity (because it can't have an inverse)
 		- questions
 			- multiplication is repeated addition?
-				- not nessacarily
+				- not necessarily
 			- binary expressions?
 			- associative?
 				- both yes
 		- 1.3 demonstrates that the complex numbers are a field
-			- communativity
+			- commutativity
 			- associativity
 			- identities
 			- additive inverse
-			- multiplicitive inverse except additive identity
+			- multiplicative inverse except additive identity
 			- distributive
 	- usually means Reals or Complex
-		- ints mod 3 are a field
-			- #bonushw show ints mod 3 are a field
+		- integers mod 3 are a field
+			- #bonushw show integers mod 3 are a field
 	- higher dimensions
-		- $R^2$ is a cartesian plane, $R^4$ is a space
+		- $R^2$ is a Cartesian plane, $R^4$ is a space
 	- operations
 		- addition is really nice (element wise)
 		- scalar multiplication is easy enough
