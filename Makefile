@@ -10,7 +10,7 @@ SUBJECT=$(firstword $(subst /, ,$1))
 TARGET=$(subst md,html,$1)
 SHELL:=/bin/zsh
 
-.PHONY = all tar clean cleanindx cleanassets
+.PHONY = all tar clean cleanindx cleanassets html pdf latex indx
 
 all: $(MARKDOWN) $(PDF) $(HTML)
 # https://www.linuxjournal.com/content/add-auto-incrementing-build-number-your-build-process
