@@ -1,5 +1,5 @@
 ---
-title:  LinAlg Flo 4
+title:  Linear Algebra class Flo 4
 course: 20math530
 author: Exr0n
 source: KBe2020math530floIndex
