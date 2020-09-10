@@ -11,3 +11,5 @@ Basic structure: **es {adj} + inf**
 
 "Es necesario maintainear un distancia de 2 metros."
 
+
+

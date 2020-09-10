@@ -42,7 +42,7 @@ flush:
 	pandoc -f latex -t html $< --pdf-engine=xelatex --mathjax -o $@ --template=./meta/templates/default.html --resource-path=$(call SUBJECT,$@)
 
 %.pdf: %.md
-	pandoc -f markdown -t pdf $< --pdf-engine=xelatex --mathjax -o $@ --template=~./meta/templates/default.latex --resource-path=$(call SUBJECT,$@)
+	pandoc -f markdown -t pdf $< --pdf-engine=xelatex --mathjax -o $@ --template=./meta/templates/default.latex --resource-path=$(call SUBJECT,$@)
 
 tar: $(MARKDOWN)
 	tar --exclude=notes.tar.gz --exclude=.git/ -czvf notes.tar.gz ./
