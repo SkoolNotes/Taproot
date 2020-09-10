@@ -176,14 +176,25 @@ Operation timed out. Arithmetic errors.
 \hypertarget{example}{%
 \subsubsection{1.35 Example}\label{example}}
 
-\begin{enumerate}
-\def\labelenumi{\alph{enumi})}
-\tightlist
+\begin{itemize}
 \item
-  If \(b = 0\) then we can divide all \(x_3\) by \(5\) and combine the
-  last two terms to get \(F^3\), which is a vector space, without loss
-  of generality.
-\end{enumerate}
+  \begin{enumerate}
+  \def\labelenumi{\alph{enumi})}
+  \tightlist
+  \item
+    If \(b = 0\) then we can divide all \(x_3\) by \(5\) and combine the
+    last two terms to get \(F^3\), which is a vector space, without loss
+    of generality. If not, then when you try to multiply by a scalar
+    then you will find that the above reasoning breaks (i think).
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{\alph{enumi})}
+  \setcounter{enumi}{1}
+  \tightlist
+  \item
+  \end{enumerate}
+\end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
