@@ -8,6 +8,7 @@ source: KBe2020math530refExr0nRetIndex
 ## Solve Equations
 
 Operation timed out. Arithmetic errors.
+
 ![](IMG_1379.jpg)
 
 ## Read 1.B and 1.C
@@ -30,6 +31,7 @@ I would be interested in 7, 8, 10, 12, 14-19
 (under multiplication, with all other 2x2 matrices)
 
 Starting with $\begin{bmatrix}a&b\\c&d\end{bmatrix}\begin{bmatrix}w&x\\y&z\end{bmatrix}=\begin{bmatrix}w&x\\y&z\end{bmatrix}\begin{bmatrix}a&b\\c&d\end{bmatrix}$, I got $(x+y)(a-d) = (b+c)(w-z)$ and $by=cx$, but wasn't sure how to further develop it.
+
 ![](IMG_1380.jpg)
 
 ## Epilogue
