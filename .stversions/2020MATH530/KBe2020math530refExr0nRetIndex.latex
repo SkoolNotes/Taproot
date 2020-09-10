@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -160,10 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
 Flow index: {[}{[}KBe2020math530floIndex{]}{]}
 
@@ -174,7 +174,10 @@ Due Date & Link\tabularnewline
 \endhead
 2020-08-27 &
 {[}{[}KBe2020math530retPracticeMultiplyMatrixIdentfyGroups{]}{]}\tabularnewline
-2020-09-01 & {[}{[}retSolvingWithMatrices{]}{]}\tabularnewline
+2020-09-01 & {[}{[}20math530retSolvingWithMatrices{]}{]}\tabularnewline
+2020-09-08 & {[}{[}20math530retReadingTheTextbook{]}{]}\tabularnewline
+2020-09-15 &
+{[}{[}20math530retProblemsPracticeLaTeX{]}{]}\tabularnewline
 \bottomrule
 \end{longtable}
 

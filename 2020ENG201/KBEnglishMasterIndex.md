@@ -39,7 +39,7 @@ source: #index
 	* [[KBhENG201ImperialismColonialism]]
 * **Heart of Darkness**
     * [[KBhENG201HeartOfHardness]] Heart of Darkness Index 
-	* [[KBheartday1]] Huxley, I am assuming?
+	* [[KBheartday1]] Huxley, I am assuming? Nah man, wasnt me. idk who it was
   
 ## Annotated Docs
 | | |
