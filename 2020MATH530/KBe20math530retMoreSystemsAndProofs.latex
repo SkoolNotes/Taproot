@@ -247,8 +247,14 @@ Commutative}\label{x2-matrices-that-are-commutative}}
 
 Starting with
 \(\begin{bmatrix}a&b\\c&d\end{bmatrix}\begin{bmatrix}w&x\\y&z\end{bmatrix}=\begin{bmatrix}w&x\\y&z\end{bmatrix}\begin{bmatrix}a&b\\c&d\end{bmatrix}\),
-I got \((x+y)(a-d) = (b+c)(w-z)\) and \(by=cx\) but wasn't sure how to
+I got \((x+y)(a-d) = (b+c)(w-z)\) and \(by=cx\), but wasn't sure how to
 further develop it.
+
+\hypertarget{epilogue}{%
+\subsection{Epilogue}\label{epilogue}}
+
+Linear algebra homework always takes so long. Even though I skip like
+half of the problems. This is kind of an issue.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

@@ -28,6 +28,10 @@ I would be interested in 7, 8, 10, 12, 14-19
 ## 2x2 Matrices that are Commutative
 (under multiplication, with all other 2x2 matrices)
 
-Starting with $\begin{bmatrix}a&b\\c&d\end{bmatrix}\begin{bmatrix}w&x\\y&z\end{bmatrix}=\begin{bmatrix}w&x\\y&z\end{bmatrix}\begin{bmatrix}a&b\\c&d\end{bmatrix}$, I got $(x+y)(a-d) = (b+c)(w-z)$ and $by=cx$ but wasn't sure how to further develop it.
+Starting with $\begin{bmatrix}a&b\\c&d\end{bmatrix}\begin{bmatrix}w&x\\y&z\end{bmatrix}=\begin{bmatrix}w&x\\y&z\end{bmatrix}\begin{bmatrix}a&b\\c&d\end{bmatrix}$, I got $(x+y)(a-d) = (b+c)(w-z)$ and $by=cx$, but wasn't sure how to further develop it.
+
+## Epilogue
+
+Linear algebra homework always takes so long. Even though I skip like half of the problems. This is kind of an issue.
 
 ---
