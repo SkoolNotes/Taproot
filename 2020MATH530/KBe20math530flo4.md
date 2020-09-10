@@ -36,10 +36,10 @@ source: KBe2020math530floIndex
 			- multiplicative inverse except additive identity
 			- distributive
 	- usually means Reals or Complex
-		- ints mod 3 are a field
-			- #bonushw show ints mod 3 are a field
+		- integers mod 3 are a field
+			- #bonushw show integers mod 3 are a field
 	- higher dimensions
-		- $R^2$ is a cartesian plane, $R^4$ is a space
+		- $R^2$ is a Cartesian plane, $R^4$ is a space
 	- operations
 		- addition is really nice (element wise)
 		- scalar multiplication is easy enough
