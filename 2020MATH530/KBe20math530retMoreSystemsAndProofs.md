@@ -20,5 +20,6 @@ Operation timed out. Arithmetic errors.
 - e) what does it mean for a sequence of complex numbers to have a limit $0$? but I think you can use the same argument that the missing elements are just "collapsed" into one invisible one.
 ### 1.40 Definition direct sum 
 - Something about uniqueness? 
+- If there is only one way to write zero then it works (1.44 Condition for a direct sum)
 
 ---
