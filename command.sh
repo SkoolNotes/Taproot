@@ -7,7 +7,7 @@ while true; do
     echo "\n\n\nLog for attempt at $(date)" >> log.txt
     git pull >> log.txt
 
-    changes="$(git status --porcelain | cut -c4- | paste -sd ' ' -)"
+    changes="$(git status --porcelain | cut -c4- | paste -sd ', ' -)"
 
     if [[ -n "$(git status --porcelain)" ]]; then
         echo "Log for attempt at $(date)" > recent_errors.txt
