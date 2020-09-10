@@ -8,16 +8,16 @@ while true; do
     git pull >> log.txt
 
     changes="$(git status --porcelain | cut -c4-)"
-    to_compile=("${(@f)$changes}")
+    to_compile=("${(@f)$changes;}")
     echo $to_compile
 
-    exit
+    exit()
 
     if [[ -n "$(git status --porcelain)" ]]; then
         echo "Log for attempt at $(date)" > recent_errors.txt
         find . -type f -name '*.md' -exec sed -i'' -e 's/\/Users\/houliu\/Documents\/School Work\/2020\-2021\/KnowledgeBase/./g' {} +
 
-        #for ()
+        for ()
             pandoc -f markdown -t latex $< --pdf-en$$gine=xelatex --mathjax -o $@ --template=./meta/templates/default.latex --resource-path=$(call SUBJECT,$@)
 
 
