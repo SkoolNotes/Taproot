@@ -1,6 +1,7 @@
 #!/bin/zsh
 #taproot_path="../../Taproot/"
 taproot_path="../materials/Taproot"
+BUILDNUMBER_FILE='buildID.txt'
 while true; do
     printf "working...                                              \r"
     echo "\n\n\nLog for attempt at $(date)" >> log.txt
@@ -10,10 +11,10 @@ while true; do
 
     if [[ -n "$(git status --porcelain)" ]]; then
         echo "Log for attempt at $(date)" > recent_errors.txt
-        make >> log.txt 2>>recent_errors.txt
-
-        #	echo "<option value='$(call TARGET,$@)'>$(call TAG,$@)</option>" >> tags.html
-#	echo "<option value='$(call TAG,$@)'>$(call TARGET,$@)</option>" >> backtrack.html
+        if make >> log.txt 2>>recent_errors.txt; then
+            [[ -f $(BUILDNUMBER_FILE) ]] || echo 0 > $(BUILDNUMBER_FILE);
+            echo $$(( $$(cat $(BUILDNUMBER_FILE)) + 1 )) > $(BUILDNUMBER_FILE)
+        fi
 
 
         (git add -A >> log.txt && \
