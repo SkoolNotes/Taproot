@@ -10,11 +10,14 @@ course: PHYS201
 Resistance roughly measures how much pressure against current — electron flow there is in a conductor.
 
 ## Current
-Use the variable $I$, a unit Coulombs/Second, to measure current. This also equals $\frac{\Delta V}{Resistance}$. Big resistance, little current.
+Use the variable $I$, a unit $\frac{C}{s}$, $Amps$, to measure current. This also equals $\frac{\Delta V}{Resistance}$. Big resistance, little current. Current is measured in a unit $\frac{C}{s}$, which intuitively makes sense — Current/second is kind of like metres/second — it measures, roughly, the "speed" at which electrons flow.
 
-* 
-* So let's figure out resistance
-    * $V$ = $\frac{J}{C}$
+\definition{Current $I$}{A value measured in unit $\frac{C}{s}$, a.k.a. $Amps$ that measures electron flow}
+
+## Resistance
+So, let's figure out resistance.
+
+We know that...  $V$ = $\frac{J}{C}$, per [[KBhPHYS201Voltage]], and we also know that resistance would equal a unit $\frac{Vs}{c}$ given that $I = \frac{C}{s} = \frac{\Delta V}{Resistance}$.
     * Resistance = $\Omega$ = $\frac{\Delta V}{I}$ = $\frac{Js}{C^2}$
 * $I$ = $\frac{C}{s}$ = Amps 
 * Calculating resistance
