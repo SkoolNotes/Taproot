@@ -136,6 +136,6 @@ $VIMCONFIG
 # syncthing sync conflicts
 **/*.sync-conflict*
 *.sync-conflict*
-.stversions/**
+.stversions
 
 *log*txt*
