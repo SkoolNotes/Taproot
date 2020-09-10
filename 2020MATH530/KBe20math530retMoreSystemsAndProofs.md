@@ -15,6 +15,6 @@ Operation timed out. Arithmetic errors.
 - b) $f(x) = 0$ is continuous, so the additive identity exists. All sums of continuous functions result in continuous functions, so it is closed under addition. And all scalar multiples also work out.
 - c) slightly awkward: i don't actually know what a differentiable real valued function is. #todo-exr0n
 - d) (see above)
-- e) what does it mean for a sequence of complex numbers to have a limit $0$?
+- e) what does it mean for a sequence of complex numbers to have a limit $0$? but I think you can use the same argument that the missing elements are just "collapsed" into one invisible one.
 
 ---
