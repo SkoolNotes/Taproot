@@ -17,7 +17,7 @@ Nothing. Matrix multiplication is not commutative.
 $$
 \begin{aligned}
 &&\left[\begin{matrix}2&-1\\1&3\end{matrix}\right]
-&\left[\begin{matrix}x\\y\end{matrix}\right] &=
+\left[\begin{matrix}x\\y\end{matrix}\right] &=
 &&\left[\begin{matrix}3\\5\end{matrix}\right]
 \\
 &\left[\begin{matrix}3&0\\0&1\end{matrix}\right]
