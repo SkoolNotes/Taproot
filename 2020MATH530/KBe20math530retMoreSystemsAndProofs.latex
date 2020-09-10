@@ -193,7 +193,9 @@ Operation timed out. Arithmetic errors.
   \setcounter{enumi}{1}
   \tightlist
   \item
-    \(f(x) = 0\) is continuous, so the additive identity exists.
+    \(f(x) = 0\) is continuous, so the additive identity exists. All
+    sums of continuous functions result in continuous functions, so it
+    is closed under addition. And all scalar multiples also work out.
   \end{enumerate}
 \end{itemize}
 
