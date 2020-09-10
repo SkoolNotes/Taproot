@@ -11,6 +11,7 @@ while true; do
 
     if [[ -n "$(git status --porcelain)" ]]; then
         echo "Log for attempt at $(date)" > recent_errors.txt
+        find . -type f -name '*.md' -exec sed -i'' -e 's/\/Users\/houliu\/Documents\/School Work\/2020\-2021\/KnowledgeBase/./g' {} +
         if make >> log.txt 2>>recent_errors.txt; then
             [[ -f $(BUILDNUMBER_FILE) ]] || echo 0 > $(BUILDNUMBER_FILE);
             echo $$(( $$(cat $(BUILDNUMBER_FILE)) + 1 )) > $(BUILDNUMBER_FILE)
