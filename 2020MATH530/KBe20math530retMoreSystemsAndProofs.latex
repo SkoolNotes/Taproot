@@ -197,6 +197,15 @@ Operation timed out. Arithmetic errors.
     sums of continuous functions result in continuous functions, so it
     is closed under addition. And all scalar multiples also work out.
   \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{\alph{enumi})}
+  \setcounter{enumi}{2}
+  \tightlist
+  \item
+    slightly awkward: i don't actually know what a differentiable real
+    valued funciton is.
+  \end{enumerate}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
