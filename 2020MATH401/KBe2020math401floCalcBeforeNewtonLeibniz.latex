@@ -190,14 +190,14 @@
 \end{itemize}
 
 \[
-    \begin{split}
-    y   &= \frac{a(x+h)^2 -ax^2}{h}
-    \\  &= \frac{a(x^2+h^2+2xh) -ax^2}{h} 
-    \\  &= \frac{ax^2 + ah^2 + 2axh -ax^2}{h}
-    \\  &= \frac{\cancel{ax^2} + axh^2 + 2ah \cancel{- ax^2}}{h}
-    \\  &= \frac{ah^{\cancel{h}} + 2ax\cancel{h}}{\cancel{h}}
-    \\  &= \cancelto{0}{ah} + 2ax
-    \end{split}
+\begin{split}
+y   &= \frac{a(x+h)^2 -ax^2}{h}
+\\  &= \frac{a(x^2+h^2+2xh) -ax^2}{h} 
+\\  &= \frac{ax^2 + ah^2 + 2axh -ax^2}{h}
+\\  &= \frac{\cancel{ax^2} + axh^2 + 2ah \cancel{- ax^2}}{h}
+\\  &= \frac{ah^{\cancel{h}} + 2ax\cancel{h}}{\cancel{h}}
+\\  &= \cancelto{0}{ah} + 2ax
+\end{split}
 \]
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
