@@ -8,7 +8,7 @@ source: KBe2020math530refExr0nRetIndex
 ## Solve Equations
 
 Operation timed out. Arithmetic errors.
-![[IMG_1379.jpg]]
+![](IMG_1379.jpg)
 
 ## Read 1.B and 1.C
 ### General Notes
