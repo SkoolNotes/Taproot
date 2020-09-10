@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Bio Diet Storage }
+\newcommand{\thecourse}{ 20bio101 }
+\newcommand{\thelesson}{ Exr0n Water Freewrite }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -165,125 +165,34 @@
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{context}{%
-\section{Context}\label{context}}
+\href{https://docs.google.com/presentation/d/1tYwRk-rYtHwZPECztaiCxoiZd8ct2XSVFBEV3YTWC90/edit?usp=sharing}{Vidyo}
 
-These are lists compiled from code I wrote with a few peers, which can
-be found here:
-\href{https://github.com/SkoolNotes/diet-finder8000superplus}{Repository}
-
-I spent \emph{well} over 30 minutes working on this, and I learned a lot
-about coding as well as data collection/management and nutrition.
-
-The code is not currently functioning at full capacity, as we ran it on
-a limited dateset. However, we are currently working on making it
-function with a larger dateset, which will make it much more powerful.
-
-My apologies for the lack of a myfooddata link -- instead you are seeing
-this on a website my friends and I made for note-taking and knowledge
-sharing.
+In the video, H2O and SO2 move very differently, where the water
+molecules appear to be more energetic and strongly attracted to the
+larger molecule while the sulfur dioxide molecules stay farther away.
+This probably because of the different electrostatic interactions they
+have with the other molecules. Water is quite polar, with oxygen and
+hydrogen's electronegativity difference being 1.2, while oxygen and
+sulfer's difference is only 0.6. I know that oxygen hydrogen bonds
+create strong enough dipoles that those dipole dipole interactions have
+a special name: hydrogen bonds. The video shows how hydrogen bonds
+between the water molecule and the larger nucleotide? cause the water to
+move around, while weaker dipole dipole bonds are what primarily affect
+SO2 movement. The stronger hydrogen bonds are probably able to pull the
+water molecules around more than the dipole dipole attractions between
+the large molecule and the SO2. Water is important for life because the
+dipoles mean that it can dissolve other polar things and ions, like salt
+crystals. The fact that it's polar means that it can be controlled with
+non-polar molecules, like how the cell membrane makes use of hydrophobic
+phospholipid tails to mostly separate the inside and outside of a cell.
+The fact that the cytoplasm and cell exterior is filled with water also
+helps things float around and meet each other, where as an oil filled
+cell would have a hard time transporting anything because there are no
+charges to randomly pull things around. Basically, what I'm guessing is
+that a polar liquid is a better ``default'' than a non-polar one because
+the charges introduce more random forces that might speed up entropy and
+reactions. I didn't get to the last question
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{tustard}{%
-\section{Tustard}\label{tustard}}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Essential AA & \%RDI\tabularnewline
-\midrule
-\endhead
-Phenylalanine & 78.88388243566993\%\tabularnewline
-Valine & 100.18798061274833\%\tabularnewline
-Leucine & 94.51699130818912\%\tabularnewline
-Isoleucine & 115.95896183749683\%\tabularnewline
-Lysine & 112.10357982590932\%\tabularnewline
-Threonine & 119.19645104929056\%\tabularnewline
-Tryptophan & 93.25468414954841\%\tabularnewline
-Methionine & 71.62966397360115\%\tabularnewline
-Histidine & 98.34293136523347\%\tabularnewline
-\bottomrule
-\end{longtable}
-
-\begin{verbatim}
-\end{verbatim}
-
-Diet List: - 150.891598g Turkey Sausage
-
-\begin{itemize}
-\tightlist
-\item
-  75.102569g Mustard
-\end{itemize}
-
-\hypertarget{aatsb}{%
-\section{AATSB}\label{aatsb}}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Essential AA & \%RDI\tabularnewline
-\midrule
-\endhead
-Phenylalanine & 81.2080685572291\%\tabularnewline
-Valine & 124.11991193514258\%\tabularnewline
-Leucine & 94.13009551708133\%\tabularnewline
-Isoleucine & 121.33660481656196\%\tabularnewline
-Lysine & 98.99885464164082\%\tabularnewline
-Threonine & 117.22718754701687\%\tabularnewline
-Tryptophan & 136.44759141786292\%\tabularnewline
-Methionine & 76.60724610188446\%\tabularnewline
-Histidine & 93.59079200960244\%\tabularnewline
-\bottomrule
-\end{longtable}
-
-\begin{verbatim}
-\end{verbatim}
-
-Diet List:
-
-\begin{itemize}
-\item
-  205.162743g broccoli
-\item
-  90.416268g mustard
-\item
-  369.057053g butter stick
-\item
-  16.536808g whole milk
-\item
-  161.597425g whole eggs
-\end{itemize}
-
-\hypertarget{the-magic-school-bus}{%
-\section{The Magic School Bus}\label{the-magic-school-bus}}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Essential AA & \%RDI\tabularnewline
-\midrule
-\endhead
-Phenylalanine & 87.91268936156915\%\tabularnewline
-Valine & 105.08684737010394\%\tabularnewline
-Leucine & 89.98724371665506\%\tabularnewline
-Isoleucine & 109.94987379700649\%\tabularnewline
-Lysine & 111.43108802230324\%\tabularnewline
-Threonine & 118.2740710353724\%\tabularnewline
-Tryptophan & 114.84947167949286\%\tabularnewline
-Methionine & 68.9427795131111\%\tabularnewline
-Histidine & 106.99994166721545\%\tabularnewline
-\bottomrule
-\end{longtable}
-
-\begin{verbatim}
-\end{verbatim}
-
-Diet List: - 127.386725g Turkey sausage
-
-\begin{itemize}
-\item
-  362.514000g Broccoli
-\item
-  84.627282g Mustard
-\end{itemize}
 
 \end{document}
