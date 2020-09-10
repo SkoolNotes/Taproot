@@ -73,18 +73,15 @@
   <div id="center-viewport">
       <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBe2020math530floIndex"><span><strong>[[</strong></span><strong>KBe2020math530floIndex</strong><span><strong>]]</strong></span></a></span></p>
       <p>#flo</p>
-      <h2 id="talking-about-the-reading-vector-spaces">Talking about the reading (vector spaces)</h2>
+      <h2 id="talking-about-the-reading">Talking about the reading</h2>
       <h3 id="vector-space">Vector space</h3>
-      <h4 id="identity">Identity</h4>
+      <h4 id="operations">Operations</h4>
       <ul>
-      <li><p>It would be the additive identity, because the multiplicitive one doesn’t count because multiply doesn’t take two elements from the same field #### Operations</p></li>
       <li><p>Scalar multiplication</p>
       <ul>
       <li><p>Not a multiplication on <span class="math inline">\(V\)</span></p></li>
       <li><p>We need another field of scalars</p></li>
       <li><p>Fundamental difference: <strong>operates on different objects</strong> (only happens on scalar multiplications)</p></li>
-      </ul></li>
-      <li><p>addition #### Linearity</p></li>
       <li><p>Something that’s linear means “things work for addition and scalar multiplication”</p></li>
       <li><p>Take <span class="math inline">\(-2x+1y=3\)</span></p>
       <ul>
@@ -95,83 +92,9 @@
       <li><p>Take <span class="math inline">\(2x-3y+1z=2\)</span></p>
       <ul>
       <li><p>a plane in 3d</p></li>
-      <li><p>if you pick a direction, the slope stays the same</p></li>
-      <li><p>thus, a plane is linear #### Vector</p></li>
-      </ul></li>
-      <li><p>Something in a vector space</p></li>
-      <li><p>inifinite lists</p>
-      <ul>
-      <li><p>It’s like decimals, except you can chose any number instead of just <span>[</span>0-9<span>]</span></p></li>
-      <li><p>base infinity basically</p></li>
-      </ul></li>
-      <li><p>Most common vector space</p>
-      <ul>
-      <li><p><span class="math inline">\(\mathbb{F}^n\)</span>, like <span class="math inline">\(\mathbb{R}^3\)</span> (might also be <span class="math inline">\(\mathbb{C}^2\)</span> or something, although that’s hard to visualize)</p></li>
-      <li><p>#definition canonical</p>
-      <ul>
-      <li><p>something “standard”, basically everyone should know what you are talking about</p></li>
-      <li><p>canonical vector space is <span class="math inline">\(\mathbb{R}^2\)</span> #### Distributive property</p></li>
       </ul></li>
       </ul></li>
-      <li><p>Important to tie operations together</p></li>
-      </ul>
-      <h4 id="vector-space-as-a-set-of-functions">Vector Space as a Set of Functions</h4>
-      <ul>
-      <li><p>like <span class="math inline">\(\mathbb{R}^{[0, 1]}\)</span>: the functions from <span class="math inline">\([0, 1]\)</span> that end up as real numbers</p>
-      <ul>
-      <li><p>Identity = <span class="math inline">\(f(x) = 0\)</span> #### Subspaces</p></li>
-      </ul></li>
-      <li><p>A subspace of this has to be a group on it’s own</p></li>
-      <li><p>Conditions for a subspace</p>
-      <ul>
-      <li><p>See 1.34</p></li>
-      <li><p>Just check</p>
-      <ul>
-      <li><p>additive identity</p></li>
-      <li><p>closed under addition</p></li>
-      <li><p>closed under scalar multiplication</p></li>
-      </ul></li>
-      </ul></li>
-      <li><p>What other subspaces of this vector space are there that also have a domain from <span class="math inline">\([0, 1]\)</span>?</p>
-      <ul>
-      <li><p>Like continuous functions from zero to one</p></li>
-      <li><p>functions who’s derivatives are continuous or constant or zero</p></li>
-      <li><p>even functions are also a subspace <span>[</span><span>[</span>KBe20math530srcEvenFunctionsAreSubspacesOfFtotheS.png<span>]</span><span>]</span></p></li>
-      </ul></li>
-      <li><p>Subspaces of <span class="math inline">\(\mathbb{F}^3\)</span></p>
-      <ul>
-      <li><p>Most contain infinite vectors (except <span class="math inline">\(\{ 0 \}\)</span>)</p></li>
-      <li><p><span class="math inline">\(\begin{bmatrix}x\\y\\0\end{bmatrix}\)</span> is a subspace with infinite vectors #### Notation</p></li>
-      </ul></li>
-      <li><p>#note <span class="math inline">\(\mathbb{F}^2\)</span> is almost always either <span class="math inline">\(\mathbb{R}^2\)</span> or <span class="math inline">\(\mathbb{C}^2\)</span>, mostly <span class="math inline">\(\mathbb{R}^2\)</span></p></li>
-      </ul>
-      <h3 id="direct-sums">Direct sums</h3>
-      <ul>
-      <li><p>Something that isn’t a direct sum</p>
-      <ul>
-      <li><p>in <span class="math inline">\(\mathbb{R}^3\)</span>, <span class="math inline">\(\begin{bmatrix}x\\y\\0\end{bmatrix}\)</span> and <span class="math inline">\(\begin{bmatrix}x\\x\\0\end{bmatrix}\)</span></p>
-      <ul>
-      <li><p>Two ways to write <span class="math inline">\(0\)</span>:</p>
-      <ul>
-      <li><p><span class="math inline">\(\begin{bmatrix}0\\0\\0\end{bmatrix} + \begin{bmatrix}0\\0\\0\\\end{bmatrix} = \begin{bmatrix}0\\0\\0\end{bmatrix} = \begin{bmatrix}1\\1\\0\end{bmatrix} + \begin{bmatrix}-1\\-1\\0\end{bmatrix}\)</span> ### <span class="math inline">\(\mathbb{F}^\infty\)</span></p></li>
-      </ul></li>
-      </ul></li>
-      </ul></li>
-      <li><p>Functions from naturals to your field, (assign an element to each natural)</p>
-      <ul>
-      <li><p>that would be the same as ordering the elements in your field?</p></li>
-      <li><p>Tons of functions, any one is an infinite vector??</p></li>
-      </ul></li>
-      </ul>
-      <h2 id="if-and-only-if-proofs-iff">If and Only If proofs (iff)</h2>
-      <ul>
-      <li><p>You have to take the proof in both directions</p></li>
-      <li><p><strong>Assumption</strong>: “now suppose the only way to write 0 as a sum of u_1 + … u_m, where each u_j is in U_j, is by taking each u_j equal to 0”</p>
-      <ul>
-      <li><p>Assume the red part, then show the green part. Then, assume the green and show it gets the red.</p></li>
-      <li><p><span>[</span><span>[</span>KBe20math530srcIfOnlyIfProofs.png<span>]</span><span>]</span></p></li>
-      </ul></li>
-      <li><p>#future geometrical interpretation of determinants</p></li>
+      <li><p>addition</p></li>
       </ul>
       <hr />
   </div>

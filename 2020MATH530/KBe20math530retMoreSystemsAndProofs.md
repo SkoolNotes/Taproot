@@ -7,7 +7,7 @@ source: KBe2020math530refExr0nRetIndex
 
 ## Solve Equations
 
-Operation timed out. Arithmetic errors.
+Operation timed out. Arithmetic errors. #todo
 
 ![](IMG_1379.jpg)
 
