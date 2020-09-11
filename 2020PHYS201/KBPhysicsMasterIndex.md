@@ -12,6 +12,9 @@ source: #index
 * [[KBVectorIntro]]
 - [[physQuestions]]
 - [[KBe20phys201flo5vandegraph]]
+- Voltage and Current with Gravity annotated docs
+	- [[exr0n20phys201retIntroVoltageWithGravity.pdf]]
+	- [[KBe20phys201srcVoltageCurrentGravity2.pdf]]
 - Exr0n Ret Index [[exr0n20phys201retIndex]]
  * PHET Simulation w/ Eletric Field
      * Jack [[KBhPHYS201PHETElectricFields]]
