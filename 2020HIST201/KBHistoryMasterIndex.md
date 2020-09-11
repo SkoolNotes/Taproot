@@ -31,7 +31,8 @@ source: #index
 * Bulliet 19 
 	* Huxley: [[KBBullietCh19]]
 	* Ottomans: [[KBOttomansMilitary]]
-* Essay 1 [[KBhHIST201KennedyStillHoldsUp]]
+* Essay 1 
+    * [[KBhHIST201KennedyStillHoldsUp]]
 
 ## Meta References
 - [[20hist201refTechniques]]

@@ -22,3 +22,5 @@ author: Houjun Liu
 Friday + Monday — work period . Essay due next Wednesday.
 
 Focus on Kennedy.
+
+Work document: [[KBhHIST201KennedyEssay]]
