@@ -8,32 +8,32 @@ course: HIST201
 # Essay 1: how does Kennedy Hold Up?
 ## General Information
 
-| Due Date             | Topic                                       | Important Documents                                 |
-|----------------------|---------------------------------------------|-----------------------------------------------------|
-| Wednesday by 11:59pm | Does Paul Kennedy's Argument Still Hold Up? | Kennedy, chapter1, duh. Mann's Ming Trade argument. |
+| Due Date             | Topic                     | Important Documents |
+|----------------------|---------------------------|---------------------|
+| Wednesday by 11:59pm | Throwing Shade on Kennedy | Kennedy, chapter1.  |
 
 ## Prompt
 In Chapter 1 of _Rise and Fall of the Great Powers_, Paul Kennedy sketches out an explanation of why the Ming Dynasty was, on the one hand powerful and prosperous, but ultimately was “a country which had turned in on itself” and subject to “steady relative decline.” Mann, in his chapter on the Ming trade, gives the reader a lot more detail on the nuances of Ming history in this period. Putting Kennedy and Mann into dialogue, does Kennedy’s argument still hold up? In your essay, argue for or against Kennedy’s argument using the details of Ming history analyzed by Mann.
 
 [[KBhHIST201ChinasDeclineWRTZhengHe]] China's Decline w.r.t. Zheng He
 
-## A Unique Claim Synthesis
+## Kennedy Analysis
 
-China had decided to turn its back on the world [after Zheng He's expedition of 1433]… There was ... a plausible strategical reason for this decision. The northern frontiers of the empire were again under some pressure from the Mongols … Yet [stopping maritime activity] ... does not appear to have been reconsidered when the disadvantages ... became clear: within a century or so, the Chinese coastline and even cities on the Yangtze were being attacked by Japanese pirates… Therefore, a key element in China's retreat was the sheer conservatism of the Confucian bureaucracy ... In [the Ming's] "Restoration" atmosphere, the all-important officialdom was concerned to preserve and recapture the past, not to create a brighter future.
+> China had decided to turn its back on the world [after Zheng He's expedition of 1433]… There was ... a plausible strategical reason for this decision. The northern frontiers of the empire were again under some pressure from the Mongols … Yet [stopping maritime activity] ... does not appear to have been reconsidered when the disadvantages ... became clear: within a century or so, the Chinese coastline and even cities on the Yangtze were being attacked by Japanese pirates… Therefore, a key element in China's retreat was the sheer conservatism of the Confucian bureaucracy ... In [the Ming's] "Restoration" atmosphere, the all-important officialdom was concerned to preserve and recapture the past, not to create a brighter future.
 
-Things that need to be true
+**Things that need to be true**
 
 1. Japanese pirate's attack could be resolved by opening overseas trade
 2. Pressure from the Mongols warrents a reconsidering
 3. The past means complete shutdown and against reopening
 
-To prove that Kennedy is stupid, we need to prove…
+**To prove that Kennedy is stupid, we need to prove…**
 
 1. Reopening trade, especially with Zheng He ships, ~~does not actually stop costal rebels~~ does not actually help in the long run
 2. ~~Mongols (and perhaps others?) are actually really bad to warrant a full, permanent, diversion of resources~~ Mongol war is, although important, only a cover for a bigger scene of infighting, so could not be easily, simply "reconsidered"
 3. Trade and maritime trade happening in the past w/ Confucian government.
 
-Well then, let's do it.
+## Claim Synthesis
 
 **Reopening trade does not stop help in the long run**
 
@@ -110,17 +110,19 @@ Han Salt and Iron Debate => "good ol' times" according to Kennedy, no? 81 AD
 Kennedy incorrectly interpreted the viewpoint of trade from the Confucian perspective. Through the Salt and Iron debates, Confucian scholars indeed is trying to convince a struggling Han dynasty _from_ imposing a strict trade limitation. This is because the central Confucian tenant of _morality_ warrents merchants to stay in their place — promoting circulation — and not driving market economies. Through imposing a trade ban, the Confucian philosophers rightly believe that it would cause a hyperdeflation — causing merchants to have more opportunity to "wrongly" prosper.
 
 ## Defluffifying
-In Kennedy's claim of Confucianism being the driving force behind 
+Again, here's Kennedy:
 
-* Point a 
-* Point b
-* Point c
+> China had decided to turn its back on the world [after Zheng He's expedition of 1433]… There was ... a plausible strategical reason for this decision. The northern frontiers of the empire were again under some pressure from the Mongols … Yet [stopping maritime activity] ... does not appear to have been reconsidered when the disadvantages ... became clear: within a century or so, the Chinese coastline and even cities on the Yangtze were being attacked by Japanese pirates… Therefore, a key element in China's retreat was the sheer conservatism of the Confucian bureaucracy ... In [the Ming's] "Restoration" atmosphere, the all-important officialdom was concerned to preserve and recapture the past, not to create a brighter future.
 
-So what? SO WHAT
+_In Kennedy's claim of China relying on conservative Confucianism being the driving force behind China's closing of its maritime activities, the author fails to recognize the difficulty of sustaining trade in a falling economy, political infighting blamed on stenthening rebels, and in fact misinterpreates the Confucian philisophies of trade — creating a faulty argument_
+
+* Economic reopening can't save China in the long run in a failing economy, making reopening less effective as claimed
+* Mongols are threat that never was "resolved", and hence here used as a scapegoat for bigger political infighting
+* Confucianism embraced trade as a means to allow goods circulation, so emulating traditional Confucian philosophy does not mean shutting trade down
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**RESTATED CLAIM**
+**In Robert Kennedy's claim of the traditionalist Confucian reasoning behind the Ming government's halting of maritime activities after Zheng He's voyage of 1433, Kennedy cast a faulty argument that not only ignores both the ineffectiveness of reopening trade and the Ming court's usage of Mongolian invasions as scapegoat for political infighting but also misinterprets the central moral tenant of Confucian philosophy that favors natural market circulation as a complete ideological ban on trade.**
 
 ***
 There is always [UCLA Writing Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf)
