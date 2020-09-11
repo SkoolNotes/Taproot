@@ -1,7 +1,7 @@
 ---
 title: Heart of Darkness (index)
 source: KBEnglishMasterIndex
-author: Houjun Liu
+author: Houjun Liu, Exr0n
 course: ENG201
 ---
 
@@ -11,6 +11,59 @@ Not the Heart of Hardness.
 [Alexa and Nueva folks, the Slides.](https://docs.google.com/presentation/d/1a9mxL5Pot8sbcIYP1mLiFqhQrYEOa60eIyHp3ftTLGo)
 
 Ok. Now that that's out of the way, let's deal with this "Bloody Racist" book. To understand this work fully, one must understand Congo, its govermental systems, and the Scramble for Africa (Africa's cakeification by Europeans). 
+
+## About the Author
+- Born in conquered location
+- wrote HoD in english (not native tougue)
+- became a sailor
+
+## Scramble for africa
+- Europe goes after things in africa
+	- ivory
+	- gold
+	- labor
+	- diamonds
+	- land
+	- food
+	- rubber
+- [Visualization](https://www.youtube.com/watch?v=EKE92ucqBfc)
+### The Slave Trade
+- Taken away:
+	- Male, 13-43
+	- Woman
+	- Children
+	- Left behind: babies and elderly
+- Effects
+	- Population drops
+	- No more labor force
+- non diverse economy
+- colonized countries are dependant on the empire
+- lack of infrastructure
+- discrimination and racism
+
+### Presense in Africa
+- Biggest colonies: france and england
+#### Started on the coast
+- Because they needed steamships and quinine (tonic water) to go into the center
+
+### Naming: heart of darkness
+- Civilization
+- Skin color
+
+### Berlin Congress
+- Countries got together and divied up africa amongst themselves
+
+### Congo Free State
+- King leopold II believed that a country needed a colony to be cool
+	- created international association of the congo
+	- promised to promote humanitarian things
+	- "skillful and cunnnin diplomacy"
+	- slash vines for rubber and get it on yourself then scrape it off
+		- this kills the vines which means you have to keep moving 
+		- rubber used for bikes and cars
+		- Pay tax or get mutilated / killed
+	- [Humanitarian atrocities videos](https://www.youtube.com/watch?v=FhPZZqp9cp8)
+### [History of Congo Region](http://loki.stockton.edu/~kinsellt/projects/hod/history.html)
 
 ## Critical Theory
 An approach to contentualize a text + see through to something. Think: "a feminist lens" — Critical Race Theory, Queer Theory, Maxist Theory, Feminist Theory, Post-Colonial Theory, Colonial Theory, Cultral Studies, etc. etc.

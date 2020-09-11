@@ -96,6 +96,26 @@ Kennedy’s argument is _______, and while he is right in _______, he is wrong i
 	- "Foreign trade by Chinese subjects must have seemed even more dubious to mandarin eyes, simply because it was less under their control."
 - Right?
 	- "warfare itself was a deplorable activity and armed forces were made necessary only by the fear of barbarian attacks or internal revolts.""
+	
+	
+### Meet Sushu
+- needs more nuance: accumulation of private capital —> Mann doesn’t see foreign trade as dubious - disagree: conservative confucianism - agree: govt doesn’t want to fight - conservatism = not wanting to contact the outside world, but primary source Zhang Han shows that trade is good - true that govt doesn’t want accumulation of private capital 
+From Sushu Xia to Everyone: (3:35 PM)
+ - not correct: government did want to trade with foreigners
+ - what about Mann’s thing about trade ban, smugglers, etc? government wanted tributary trade relationships to better control trade, didn’t want commoners to trade 
+From Sushu Xia to Everyone: (3:37 PM)
+ —> government wanting to control/centralize trade —> isn’t that confucian conservatism? - confucian conservatism isn’t about ending overseas trade, it’s about controlling overseas trade???? 80% agree with Kennedy? 
+From Sushu Xia to Everyone: (3:41 PM)
+ - disagree: “ming china is less vigorous/enterprising” and general notion of decline - disagree with cultural characterization 
+From Sushu Xia to Everyone: (3:43 PM)
+ - Kennedy is mostly right re: conservative confucian forces in the govt, but it’s about centralization and control, and not some inherent lack of vigor or innovation 
+From Sushu Xia to Everyone: (3:44 PM)
+ - the merchant pirates were quite vigorous in their pursuit of trade.   they were being stopped by the govt but still adamant for trade - Brook - central bureaucracy vs. local merchants/trade 
+From Sushu Xia to Everyone: (3:46 PM)
+ Kennedy is mostly right re: conservative confucian forces in the govt, but they banned trade not because they wanted to turn away from the world (Zhang Han), but because they wanted to control trade (Mann) 
+From Sushu Xia to Everyone: (3:48 PM)
+1) Kennedy is mostly right re: conservative confucian (govt didn’t want commoners to trade) 2) it’s not cultural vigor stuff or turning away from the world (Zhang Han, smuggling) 3) it’s because desire to control trade (Mann, brook, salt iron debates)
+
 
 ### Thesis
 

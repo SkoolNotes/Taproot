@@ -33,13 +33,16 @@ Saturated fats has a higher melting point then the unsaturated fats, but unsatur
 ![Screen Shot 2020-09-09 at 3.15.41 PM.png](./Screen Shot 2020-09-09 at 3.15.41 PM.png)
 
 A combination of many of these will end up with membrane:
-![Screen Shot 2020-09-09 at 3.08.10 PM.png](./2020BIO101/Screen Shot 2020-09-09 at 3.08.10 PM.png)
+![Screen Shot 2020-09-09 at 3.08.10 PM.png](./Screen Shot 2020-09-09 at 3.08.10 PM.png)
 
 The hydrophobic tail stays inside, and the hydrophillic head pokes outside and attracts water.
 
 ## Liposomes + micelles
 **Lots of phosophillids**
 
-![Screen Shot 2020-09-09 at 3.11.54 PM.png](./2020BIO101/Screen Shot 2020-09-09 at 3.11.54 PM.png)
+![Screen Shot 2020-09-09 at 3.11.54 PM.png](./Screen Shot 2020-09-09 at 3.11.54 PM.png)
 
-A same idea as phosophilids, but instead in a big wad of balls. this arrangement is also how basic cells form membraines.
+A same idea as phosophilids, but instead in a big wad of phosolipids. this arrangement is also how basic cells form membraines. [[KBhBIO101CellMembraines]]
+
+## Steroids
+![Screen Shot 2020-09-11 at 2.43.35 PM.png](./Screen Shot 2020-09-11 at 2.43.35 PM.png)
