@@ -178,8 +178,8 @@ Use the variable \(I\), a unit \(\frac{C}{s}\), \(Amps\), to measure
 current. This also equals \(\frac{\Delta V}{Resistance}\). Big
 resistance, little current. Current is measured in a unit
 \(\frac{C}{s}\), which intuitively makes sense --- Current/second is
-kind of like metres/second --- it measures, roughly, the ``speed'' at
-which electrons flow.
+kind of like metres\^{}3/second --- it measures, roughly, the ``amount
+of flow''/second.
 
 \definition{Current $I$}{A value measured in unit $\frac{C}{s}$, a.k.a. $Amps$ that measures electron flow}
 
@@ -213,5 +213,50 @@ definition of voltage, we get that resistance is measured in
 
 and, indeed, resistivity of materials are measured in
 \(\Omega \times m\), which also makes sense intuitively.
+
+\hypertarget{resistors-in-different-configurations}{%
+\subsection{Resistors in Different
+configurations}\label{resistors-in-different-configurations}}
+
+\hypertarget{series}{%
+\subsubsection{Series}\label{series}}
+
+If you have two resisters\ldots{}
+
+-----\textbar\textbar\textbar-----\textbar\textbar\textbar-----
+
+With the first having a resistance of \(A\Omega\) and the second
+\(B\Omega\).
+
+The total resistance would simply be \((A+B)\Omega\).
+
+\begin{itemize}
+\tightlist
+\item
+  Same as equivalent of ``electricity!'' go through the first then the
+  second
+\end{itemize}
+
+\#disorganized
+
+\hypertarget{parallel}{%
+\subsubsection{Parallel}\label{parallel}}
+
+Smaller area \textbar-----\textbar\textbar\textbar------ \textbar{}
+Bigger area \textbar===\textbar\textbar\textbar====
+
+\(R_2 = R_1 \times \frac{A_1}{A_2}\)
+
+\(R_{eq} = R_1 \times \frac{A_1}{A_1+A_2}\)
+
+\(\frac{1}{R_{eq}} = \frac{A_1+A_2}{A_1R_1}\)
+
+\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{A_2}{A_1R_1}\)
+
+\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R2}\)
+
+Resistance equation for series :pointup:
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}
