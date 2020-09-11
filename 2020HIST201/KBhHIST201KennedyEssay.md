@@ -63,21 +63,27 @@ So, it doesn't really matter trade/no trade; pirates/no pirates — there exists
 
 **Mongols are pretty darn bad, but ultimately only a scapegote for a bigger problem**
 
-* Mongols never really left
-    * Strong milltary holds lead to extended fights
-    * Eventually, we ended up with the Manchus leading the country
-    
-> The Manchus were descended from the Jurchen Jin dynasty rulers who had taken north China during Song times.  The Manchu forces were the most capable and well-disciplined in the empire.
-    
-But! It's not even like that's the problem, anyway.
-
 * Larger military threats from the Mongols were also paired with party _infighting_
     * Zheng He became sacrifice for infighting[[KBhHIST201ChinasDeclineWRTZhengHe]] 
         * 朱棣's son aligned with faction opposing him
         * So, he canceled the voyages as a show of strength
   
 > They had become a target in political infighting—one bureaucratic faction championing them, another trying to take down the first by decrying their expense … Yongle’s son and successor aligned with the faction that opposed his father's policies.
+
+Indeed, Mongols are a perennial problem.
  
+* Mongols never really left
+    * Strong milltary holds lead to extended fights
+    * Eventually, we ended up with the Manchus leading the country
+    
+> The Manchus were descended from the Jurchen Jin dynasty rulers who had taken north China during Song times.  The Manchu forces were the most capable and well-disciplined in the empire.
+
+* Mongol attacks
+* And later on Manchu attacks
+* Elevate
+    
+But! It's not even like that's the problem, anyway.
+
 The mongol attacks, as admitted by Kennedy, are pretty bad. However, they _never really left_, so its not a one-time problem that could, as per the language of Kennedy, simply be "reconsidered" after its, as inferred by Kennedy, _delt with._ 
 
 Furthermore, saying that the voyages' costs are too high are a mask for a bigger (or, in some respects, smaller?) problem — that its simply political tribalism within the Ming court decrying the prices of these attacks trying to hide the tribalism itself; so… this would no be solved even after the Mongols are gone — they will simply find something else to blame or the emperor will just… die and switch faction.
@@ -114,7 +120,7 @@ Again, here's Kennedy:
 
 > China had decided to turn its back on the world [after Zheng He's expedition of 1433]… There was ... a plausible strategical reason for this decision. The northern frontiers of the empire were again under some pressure from the Mongols … Yet [stopping maritime activity] ... does not appear to have been reconsidered when the disadvantages ... became clear: within a century or so, the Chinese coastline and even cities on the Yangtze were being attacked by Japanese pirates… Therefore, a key element in China's retreat was the sheer conservatism of the Confucian bureaucracy ... In [the Ming's] "Restoration" atmosphere, the all-important officialdom was concerned to preserve and recapture the past, not to create a brighter future.
 
-_In Kennedy's claim of China relying on conservative Confucianism being the driving force behind China's closing of its maritime activities, the author fails to recognize the difficulty of sustaining trade in a falling economy, political infighting blamed on stenthening rebels, and in fact misinterpreates the Confucian philisophies of trade — creating a faulty argument_
+_In Kennedy's claim of China relying on conservative Confucianism being the driving force behind China's closing of its maritime activities, the author fails to recognize the difficulty of sustaining trade in a falling economy, political infighting blamed on strengthening rebels, and in fact misinterpreates the Confucian philosophies of trade — creating a faulty argument_
 
 * Economic reopening can't save China in the long run in a failing economy, making reopening less effective as claimed
 * Mongols are threat that never was "resolved", and hence here used as a scapegoat for bigger political infighting
@@ -122,7 +128,15 @@ _In Kennedy's claim of China relying on conservative Confucianism being the driv
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**In Robert Kennedy's claim of the traditionalist Confucian reasoning behind the Ming government's halting of maritime activities after Zheng He's voyage of 1433, Kennedy cast a faulty argument that not only ignores both the ineffectiveness of reopening trade and the Ming court's usage of Mongolian invasions as scapegoat for political infighting but also misinterprets the central moral tenant of Confucian philosophy that favors natural market circulation as a complete ideological ban on trade.**
+<!--
+    **In Robert Kennedy's claim of the traditionalist Confucian reasoning behind the halting of maritime activities by the Ming government after Zheng He's voyage of 1433, Kennedy cast a faulty argument that ignores both the ineffectiveness of reopening trade in a failing global economy and the Ming court's usage of Mongolian invasions as scapegoat for political infighting; through his argument, Kennedy also misinterpreted the tenet of Confucian philosophy that favors market circulation and advises governments not to encourage price racketeering as a complete ideological ban on trade.**
+-->
+
+**In Kennedy's claim arguing that the conservative Confucian views caused Ming's closing of maritime trade, he presents a faulty argument that ignores both the ineffectiveness of unnecessarily reopening maritime trade and the discord in the infighting-plagued Ming government; through his argument, Kennedy also misinterpreted Confucian philosophy central to his argument for it, instead of an ideological ban on trade, actually favors market circulation and advises governments not to encourage price racketeering.**
+
+- Explain these things actually say about Kennedy => "We should not listen to Kennedy" => push more towards why the rest of Kennedy's Europe argument is faulty
+- Or, push an alternative reasoning
+- Thesis too specific
 
 ***
 There is always [UCLA Writing Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf)

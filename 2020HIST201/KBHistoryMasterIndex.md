@@ -33,7 +33,8 @@ source: #index
 	* Ottomans: [[KBOttomansMilitary]]
 * Essay 1 
     * [[KBhHIST201KennedyStillHoldsUp]]
-
+	- [[KBe20hist201retKennedyEssay]]
+    
 ## Meta References
 - [[20hist201refTechniques]]
 
