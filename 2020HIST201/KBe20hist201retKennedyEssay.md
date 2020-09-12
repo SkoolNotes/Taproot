@@ -99,6 +99,7 @@ Kennedy’s argument is _______, and while he is right in _______, he is wrong i
 	
 	
 ### Meet Sushu
+```
 - needs more nuance: accumulation of private capital —> Mann doesn’t see foreign trade as dubious - disagree: conservative confucianism - agree: govt doesn’t want to fight - conservatism = not wanting to contact the outside world, but primary source Zhang Han shows that trade is good - true that govt doesn’t want accumulation of private capital 
 From Sushu Xia to Everyone: (3:35 PM)
  - not correct: government did want to trade with foreigners
@@ -115,9 +116,27 @@ From Sushu Xia to Everyone: (3:46 PM)
  Kennedy is mostly right re: conservative confucian forces in the govt, but they banned trade not because they wanted to turn away from the world (Zhang Han), but because they wanted to control trade (Mann) 
 From Sushu Xia to Everyone: (3:48 PM)
 1) Kennedy is mostly right re: conservative confucian (govt didn’t want commoners to trade) 2) it’s not cultural vigor stuff or turning away from the world (Zhang Han, smuggling) 3) it’s because desire to control trade (Mann, brook, salt iron debates)
-
+```
 
 ### Thesis
+Although John Kennedy correctly traces the Ming government's distaste for ( #todo-exr0n word choice: commoner trade) to conservative Confucianism, he incorrectly attributes the Ming slashing of foreign trade to a lack cultural vigor--this was instead an attempt to control and profit.
 
+### Body 1
+As Kennedy notes, the Ming government banned foreign trade for due to the Confucian conservative values of government control and opposition to foreign influence.
+- "a key element in China's retreat was the sheer conservatism of the Confucian bureaucracy" (Kennedy 7)
+- "With a few exceptions, all contact with the world outside was supposed to be supervised by Beijing." (Mann 127)
+
+### Body 2
+However, Kennedy inaccurately suggests that Confucian China stopped trade due to political and economic complacency and a dislike of commerce.
+- Kennedy: "This dislike of commerce" (Kennedy 8)
+- "Beijing's prohibition on private trade has less to do with an abhorrence of trade than a desire to control it for the dynasty's benefit" (Mann 126)
+- "our expense is still less than one ten-thousandth of the benefit we gain from trading with them" (Zhang Han)
+- Not complacent: Trade oriented pirate merchants beat back three hundred imperial soldiers in 1557 and some even invited three thousand Japanese and Portuguese smugglers to camp on Chinese territory. (Mann 133)
+
+### Body 3
+Contrary to Kennedy's simplification, the Ming government banned foreign trade to control and profit international relations through tributary interactions.
+- "the ban-and-tribute scheme for what it was: a way for the government to control international commerce". (Mann 127)
+- "Moreover, these foreigners trade with China under the name of tributary contributions. That means China’s authority is established and the foreigners are submissive." (Zhang Han)
+- "But as long as they were content to remain at the margin of production and gather what wealth they could from the peasants, their political subordination and their economic security were simultaneously assured." (Brook 185)
 
 ---
