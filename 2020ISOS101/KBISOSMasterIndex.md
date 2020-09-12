@@ -17,7 +17,10 @@ source: #index
 * Thoughts on [[KBPatternsofDiscoveryObservationhighlights]]
 	* Huxley's Take: [[KBPatternsOfDiscoveryNotes]]
 	* Jack's Take: [[KBhISOS101PatternsOfDiscovery]]
-	
-	
-	
+* Thoughts on [[KBGenderandtheBiologicalSciencesHighlights.pdf]]
+	* Huxley's Take: [[KBGenderAndBioISOS]]
+
+
+
+
 	

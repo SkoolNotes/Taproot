@@ -15,4 +15,9 @@ Flow index: [[KBe2020math530floIndex]]
 2020-09-08 | [[20math530retProblemsPracticeLaTeX]]
 2020-09-10 | [[KBe20math530retMoreSystemsAndProofs]]
 
+## Quizzes
+| Due Date | Link |
+|----------|------|
+2020-09-11 | [[KBe20math530retQuiz1.pdf]]
+
 ---

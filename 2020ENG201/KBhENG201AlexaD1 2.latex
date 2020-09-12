@@ -1,0 +1,253 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ENG201 }
+\newcommand{\thelesson}{ Day 1 with Alexa --- Jack }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBENG201INDEX}{\tiny\textulf{[[}\textbf{KBENG201INDEX}\textulf{]]}}}\thinspace
+
+\hypertarget{landscapes-of-self-and-other}{%
+\section{Landscapes of Self and
+Other}\label{landscapes-of-self-and-other}}
+
+\emph{``Nice and Broad and Vague''}
+
+\begin{itemize}
+\tightlist
+\item
+  The journey of ``self''
+\item
+  How we other people
+\end{itemize}
+
+\hypertarget{essential-questions-of-english-10}{%
+\subsection{Essential Questions of English
+10}\label{essential-questions-of-english-10}}
+
+\begin{figure}
+\centering
+\includegraphics{./2020ENG201/Screen Shot 2020-08-25 at 1.29.30 PM.png}
+\caption{Screen Shot 2020-08-25 at 1.29.30 PM.png}
+\end{figure}
+
+And now, an \textbf{assignment} to begin the year:
+
+\hypertarget{four-questions}{%
+\section{Four Questions}\label{four-questions}}
+
+\begin{itemize}
+\tightlist
+\item
+  What do you love learning about?
+\end{itemize}
+
+I love learning about all facets of human experience. However, I have a
+particular interest about computer science + ethics and how it connects
+to philosophy.
+
+\begin{itemize}
+\tightlist
+\item
+  What are you most looking forward to this school year?
+\end{itemize}
+
+I look forward to being back in class --- working with everyone in
+person and being able to have organic and captivating conversations
+spontaneously.
+
+\begin{itemize}
+\tightlist
+\item
+  What is a favorite book or film?
+\end{itemize}
+
+My favourite book is probably, at the moment, Triggers by Marshall
+Goldsmith.
+
+I don't actually watch a lot of movies ;)
+
+\begin{itemize}
+\tightlist
+\item
+  What you want to work on in English class this semester?
+\end{itemize}
+
+For this year in English, I look forward to performing more holistic
+analysis of texts: tracking items not just on the micro level (word
+choice, motifs, etc.) nor just on the macro level (plot, theme) but
+being able to effectively connect them together.
+
+\hypertarget{think-pair-share}{%
+\section{Think-Pair-Share}\label{think-pair-share}}
+
+\emph{These are our answers, not definitive}
+
+See {[}{[}KBhENG201TPSGlobalizationColonialismImperialism{]}{]}
+ThinkPairShare --- Globalization, Colonization, Imperialism.
+
+\hypertarget{and-now-surrealism}{%
+\section{And now, surrealism}\label{and-now-surrealism}}
+
+Homework: Read! \emph{The I is Never Alone}.
+{[}{[}KBhENG201TheIIsNeverAlone{]}{]}
+
+\end{document}

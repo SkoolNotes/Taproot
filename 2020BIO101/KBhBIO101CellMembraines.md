@@ -28,3 +28,4 @@ author: Houjun Liu
         - Facillitated diffusions => polar molecules selectively get throgh protean channels
         - Active transport
             - ATP sheperds elements in  
+        - Bulk transport across the plasma membrane occurs by exocytosis and endocytosis. 
