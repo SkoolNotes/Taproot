@@ -17,6 +17,7 @@ source: KBPhysicsMasterIndex
 			![[20phys201srcConductorAsChargedPlate.png]]
 	- Vandegraph
 		- How does the ground comb keep depositing charge onto the rubber belt?
+			- The dominant charge at either end of the belt is not from the belt but from the roller.  Most of the charge on the belt gets carried away, but the charge on the roller builds up.  For example, at the bottom, the belt is getting charge with electrons, which travel away and the roller is charged positively.  The positive charge of the roller creates a field that tries to rip electrons off the comb.  The electrons land on the belt and get carried up to the ball.  At the top, the opposite happens.
 		- How does a spark / lightning create sound?
 			- plasma is much harder so the air expands and then contracts. we hear the air particles slamming into each other.
 		- Why is the belt on a vandegraph generator so long? 

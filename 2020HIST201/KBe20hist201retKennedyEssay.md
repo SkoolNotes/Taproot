@@ -99,6 +99,7 @@ Kennedy’s argument is _______, and while he is right in _______, he is wrong i
 	
 	
 ### Meet Sushu
+```
 - needs more nuance: accumulation of private capital —> Mann doesn’t see foreign trade as dubious - disagree: conservative confucianism - agree: govt doesn’t want to fight - conservatism = not wanting to contact the outside world, but primary source Zhang Han shows that trade is good - true that govt doesn’t want accumulation of private capital 
 From Sushu Xia to Everyone: (3:35 PM)
  - not correct: government did want to trade with foreigners
@@ -115,9 +116,23 @@ From Sushu Xia to Everyone: (3:46 PM)
  Kennedy is mostly right re: conservative confucian forces in the govt, but they banned trade not because they wanted to turn away from the world (Zhang Han), but because they wanted to control trade (Mann) 
 From Sushu Xia to Everyone: (3:48 PM)
 1) Kennedy is mostly right re: conservative confucian (govt didn’t want commoners to trade) 2) it’s not cultural vigor stuff or turning away from the world (Zhang Han, smuggling) 3) it’s because desire to control trade (Mann, brook, salt iron debates)
+```
 
+Although John Kennedy correctly traces the Ming government's distaste for ( #todo-exr0n word choice: commoner trade) to conservative Confucianism, he incorrectly attributes the Ming slashing of foreign trade to a lack cultural vigor--this was instead an attempt to control and profit.
 
-### Thesis
+As Kennedy notes, the Ming government banned foreign trade due to the Confucian conservative values of government control and opposition to foreign influence.
+Kennedy claims "a key element in China's retreat was the sheer conservatism of the Confucian bureaucracy" and Mann tactfully elaborates "all contact with the world outside was supposed to be supervised by Beijing" (Kennedy 7, Mann 127). Although Kennedy doesn't provide much detail on what he means by "sheer conservatism", Mann supplement's Kennedy's argument by explaining Beijing's plan to limit and supervise trade relations with the outside world. All sources agree that on a high level, Confucianism's conservative values played a major role in China's restrictive trade policies.
 
+However, Kennedy inaccurately suggests that Confucian China stopped trade due to a dislike of commerce and cultural complacency. Kennedy writes "[Foreign trade] must have seemed even more dubious to mandarin eyes", whose imprecise wording and questionable support heavily contrasts the rest of the text; He further milks this dubious claim by generalizing it to a "dislike of commerce" (Kennedy 8). A more nuanced take notes counters that Beijing's slashing on private trade with foreign parties is a means of consolidating power and centralizing profit, instead of due to a generic distaste of trade (Mann 126). In fact, the benefits of foreign trade were known and considered--a retired Ming official writes "our expense is still less than one ten-thousandth of the benefit we gain from trading with them" (Zhang Han). That the author was retired and still actively writing about the importance of trade with foreign powers shows that trade had not been a niche concept but rather a generally considered and debated topic within the mandarin court. The Chinese did not decimate public trade because they found it distasteful--the advantages of trade were known and leveraged and the private ban was a part of their plan.
+Kennedy also writes that "Ming China was a much less vigorous and enterprising land" and gives the impression that some cultural complacency is at fault (Kennedy 8). However, Kennedy again assumes the claim and uses it as a transition--a deeper analysis reveals that trade-oriented merchants joined forces with pirates to ensure their business. At one point, they fought off the imperial forces sent to pacify them and later invited illegal foreign smugglers onto Chinese land (Mann 133).
+
+Contrary to Kennedy's simplification, the Ming government banned foreign trade to control and profit international relations through tributary interactions. 
+Mann elaborates on an important detail: the Chinese allowed foreign nations to pay tribute to the emperor, who would give them small gifts in return. The submissive nation would often be allowed to sell extra goods to the masses, which essentially turned the scheme into an outlet for foreign trade under strict government control (Mann 127). Internally, these visitations were thought of as assertions of dominance because the only way foreigners could trade with China was under the name of tributary contributions (Zhang Han). Ultimately Ming China banned private trade with foreign parties not due to a Confucian dislike of commerce or cultural lack of vigor, but rather as a tool to consolidate government power and make a profit.
+Although historians concur that aspects of Ming China's Confucian philosophy played a major role in the decline of foreign interaction, Kennedy's assumption #todo-exr0n WC) that this was due to a dislike of trade and cultural triumphancy is debunked by realizing the political and economic motivations--the Ming did not ban trade but rather reframed and restricted it for governmental advantage.
+
+- "But as long as they were content to remain at the margin of production and gather what wealth they could from the peasants, their political subordination and their economic security were simultaneously assured." (Brook 185)
+
+## Export
+[Link](https://docs.google.com/document/d/1w_NYtVPbDXAY8JT6Rc8dzNQ4TCRxdU73UmQFtB_sRPw/edit)
 
 ---
