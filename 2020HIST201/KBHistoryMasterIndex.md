@@ -35,7 +35,7 @@ source: #index
     * [[KBhHIST201KennedyStillHoldsUp]]
 	* [[KBe20hist201retKennedyEssay]]
 	* [[KBEssay1PlanningAttemp2]] 
-    
+    * [[KBdHistMAKennedyOutline]]
 ## Meta References
 - [[20hist201refTechniques]]
 
