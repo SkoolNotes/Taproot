@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ ISOS101 }
-\newcommand{\thelesson}{ Document Notes }
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Kennedy Essay Outline }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
+\lfoot{Dylan \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -163,17 +163,111 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KB20200825141913}{\tiny\textulf{[[}\textbf{KB20200825141913}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\hypertarget{documents}{%
-\section{Documents}\label{documents}}
+\begin{verbatim}
+In Chapter 1 of Rise and Fall of the Great Powers, Paul Kennedy sketches out an explanation of why the Ming Dynasty was, on the one hand powerful and prosperous, but ultimately was “a country which had turned in on itself” and subject to “steady relative decline.” Mann, in his chapter on the Ming trade, gives the reader a lot more detail on the nuances of Ming history in this period. Putting Kennedy and Mann into dialogue, does Kennedy’s argument still hold up? In your essay, argue for or against Kennedy’s argument using the details of Ming history analyzed by Mann.
+\end{verbatim}
+
+\hypertarget{kennedy}{%
+\section{Kennedy}\label{kennedy}}
 
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KB20200828003333{]}{]} Theaetetus reading.
+  Kennedy's argument is that the downfall of the Ming Dynasty was caused
+  by the ``conservativism of the Confucian bureaucracy''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Several key actions
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Banned Seafaring
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Loss of opportunity
+      \end{itemize}
+    \item
+      Backwards thinking
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Looked towards the past
+      \end{itemize}
+    \item
+      Distrust towards merchants
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Hurt the economy
+      \end{itemize}
+    \end{itemize}
+  \item
+    Result
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Lack of investment (domestic) into development, rather into land
+    \item
+      Merchants suffered due to no backing from government (who
+      controled economy)
+    \end{itemize}
+  \end{itemize}
 \item
-  {[}{[}KB20200912233524{]}{]} Gender and Biological sciences
+  Some of Kennedy's arguments can be supported by Mann
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Zheng's explorations were very lucrative for Ming because it allowed
+    them to show their presence in areas that they had little physical
+    contact
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Sri Lanka, Sumatra, etc
+    \item
+      Banning of it and other expeditions was troubling because it meant
+      that the Ming would fall behind in its \emph{projection of power}
+    \end{itemize}
+  \item
+    The banning of foreign trade encouraged piracy, eventually leading
+    to pirate-controlled enclaves
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Weakened government control
+    \item
+      Tribute payments were still allowed, but only applied to the
+      government
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Used as a front for the government to trade with foreign nations
+
+        \begin{itemize}
+        \tightlist
+        \item
+          ``A front for international commerce'' (Mann, 127)
+        \end{itemize}
+      \end{itemize}
+    \end{itemize}
+  \item
+    Introduction of fiat currency led to inflation, which in turn led to
+    the decline of the economy
+  \end{itemize}
 \end{itemize}
 
 \end{document}
