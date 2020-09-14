@@ -17,7 +17,4 @@
 | Easy_1 | 2020-09-03 | [[eFloCalcD3]] (continued classwork)
 | 1_3 | 2020-09-13 | [[KBe20math401ret1_3.pdf]]
 
-- Other work
-- [[KBe20math401ret1_3t.pdf]]
-
 ---

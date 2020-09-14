@@ -5,8 +5,6 @@ author: Houjun Liu, Exr0n
 course: ENG201
 ---
 
-**EPUB (Just in case): **[Heart of Darkness](https://mega.nz/file/7hQkjAhQ#6pSiJf6rIfGrZiO0pnKCh2LtKYwRNoUlJtpeOgpzTa4)
-
 # Heart of Darkness
 Not the Heart of Hardness.
 
@@ -89,7 +87,6 @@ The [[KBhENG201CongoFreeState]]
 
 ## Reflections
 [[KBhENG201Page0t17]]
-[[KBe20eng201retHeartOfDarknessDump]]
 
 ## Why are we reading it?
 For answers to the essential question, of course! [[KBhENG201AlexaD1]]

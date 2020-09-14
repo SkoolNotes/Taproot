@@ -20,13 +20,7 @@ Flow index: [[KBe2020math530floIndex]]
 ## Quizzes
 | Due Date | Link |
 |----------|------|
-2020-09-11 | [Pages source](KBe20math530retQuiz1.pages) [[KBe20math530retQuiz1.pdf]]
-
-## Proofs
-| Problem | Link |
-|---------|------|
-Axler 1.C.12 | [[KBe20math530retPremierProofPresentation]]
-
+2020-09-11 | [[KBe20math530retQuiz1.pdf]]
 
 ## Proofs
 | Problem | Link |

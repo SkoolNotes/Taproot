@@ -1,0 +1,262 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ PHYS201 }
+\newcommand{\thelesson}{ Resistance and Current }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhPHYS201IntroToElectrostaticsLN}{\tiny\textulf{[[}\textbf{KBhPHYS201IntroToElectrostaticsLN}\textulf{]]}}}\thinspace
+
+\hypertarget{resistance-and-current}{%
+\section{Resistance and Current}\label{resistance-and-current}}
+
+Resistance roughly measures how much pressure against current ---
+electron flow there is in a conductor.
+
+\hypertarget{current}{%
+\subsection{Current}\label{current}}
+
+Use the variable \(I\), a unit \(\frac{C}{s}\), \(Amps\), to measure
+current. This also equals \(\frac{\Delta V}{Resistance}\). Big
+resistance, little current. Current is measured in a unit
+\(\frac{C}{s}\), which intuitively makes sense --- Current/second is
+kind of like metres\^{}3/second --- it measures, roughly, the ``amount
+of flow''/second.
+
+\definition{Current $I$}{A value measured in unit $\frac{C}{s}$, a.k.a. $Amps$ that measures electron flow}
+
+\hypertarget{resistance}{%
+\subsection{Resistance}\label{resistance}}
+
+So, let's figure out resistance.
+
+We know that\ldots{} \(V\) = \(\frac{J}{C}\), per
+{[}{[}KBhPHYS201Voltage{]}{]}, and we also know that resistance would
+equal a unit \(\frac{Vs}{c}\) given that
+\(I = \frac{C}{s} = \frac{\Delta V}{Resistance}\). Plugging in the
+definition of voltage, we get that resistance is measured in
+\(\frac{Js}{C^2}\). We call this unit Ohms, or \(\Omega\).
+
+\definition{Resistance $\Omega$}{A value measured in $\frac{Js}{C^2}$ that measures the resistance to current}
+
+\hypertarget{calculating-resistance}{%
+\subsubsection{Calculating resistance}\label{calculating-resistance}}
+
+\begin{itemize}
+\tightlist
+\item
+  So, let's think. With a wire of length L and with a wire of area A, if
+  we increase L, the resistance in the wire would increase; if we
+  increase area A, the resistance in the the wire would decrease.
+\item
+  \(Resistance = \frac{L}{A}*ResistivityOfMaterial\) with units
+  \(\frac{m}{m^2}(\Omega \times m)\).
+\end{itemize}
+
+and, indeed, resistivity of materials are measured in
+\(\Omega \times m\), which also makes sense intuitively.
+
+\hypertarget{resistors-in-different-configurations}{%
+\subsection{Resistors in Different
+configurations}\label{resistors-in-different-configurations}}
+
+\hypertarget{series}{%
+\subsubsection{Series}\label{series}}
+
+If you have two resisters\ldots{}
+
+-----\textbar\textbar\textbar-----\textbar\textbar\textbar-----
+
+With the first having a resistance of \(A\Omega\) and the second
+\(B\Omega\).
+
+The total resistance would simply be \((A+B)\Omega\).
+
+\begin{itemize}
+\tightlist
+\item
+  Same as equivalent of ``electricity!'' go through the first then the
+  second
+\end{itemize}
+
+\#disorganized
+
+\hypertarget{parallel}{%
+\subsubsection{Parallel}\label{parallel}}
+
+Smaller area \textbar-----\textbar\textbar\textbar------ \textbar{}
+Bigger area \textbar===\textbar\textbar\textbar====
+
+\(R_2 = R_1 \times \frac{A_1}{A_2}\)
+
+\(R_{eq} = R_1 \times \frac{A_1}{A_1+A_2}\)
+
+\(\frac{1}{R_{eq}} = \frac{A_1+A_2}{A_1R_1}\)
+
+\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{A_2}{A_1R_1}\)
+
+\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R2}\)
+
+Resistance equation for series :pointup:
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}
