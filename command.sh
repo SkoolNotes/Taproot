@@ -33,6 +33,6 @@ while true; do
         printf "Nothing to sync at $(date)                     \r"
     fi
 
-    sleep 10
+    sleep 30
 done
 
