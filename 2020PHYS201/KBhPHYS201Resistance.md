@@ -98,5 +98,11 @@ $I_1 - I_2 - I_3 = 0$, per Kirerbab's Second Law.
  
  **Through a resistor, the Current does NOT change, the Voltage drops.**
  
+### "Combine Resistors" Method
+ 
 ![Screen Shot 2020-09-14 at 11.02.45 AM.png](./Screen Shot 2020-09-14 at 11.02.45 AM.png)
 
+
+#### Parallel Resistors as Single Resistors
+
+Per the previous resisters rules
