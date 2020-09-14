@@ -15,10 +15,9 @@ source: #index
 ```
 
 
+### Crisis\ of\ the\ 17th Century
 
-### Crisis of the 17th Century
-
-**First truly world-wide crisis**
+==First truly world-wide crisis==
 
 
 
