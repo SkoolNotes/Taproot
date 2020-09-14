@@ -29,6 +29,8 @@ and, indeed, resistivity of materials are measured in $\Omega \times m$, which a
 
 ## Resistors in Different configurations
 
+
+
 ### Series
 If you have two resisters…
 
@@ -61,3 +63,9 @@ Resistance equation for series :pointup:
 
 ***
 
+#disorganized 
+
+Calculate resistsance 
+
+## Kirkob's Law
+**Sum of voltage in any closed loop should add up to 0**
