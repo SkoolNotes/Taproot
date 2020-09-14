@@ -31,9 +31,10 @@ We saw it in the ottomans!
 (doing ml homework)
 
 - Maps
-	- Spanish | territory over trade 
-	- Dutch   | trade over territory
-	- Potugese| middle ground
+	- Spanish    | territory over trade 
+	- Dutch      | trade over territory
+	- Portuguese | middle ground
+	- French     | similar to 
 
 
 
