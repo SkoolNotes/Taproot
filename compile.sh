@@ -1,7 +1,9 @@
 #!/bin/zsh
 
+echo hi there
+echo $1
 
-for f in ${(@f)$(echo $changes |  grep -E '(\.md|\.org)$')}; do
+for f in ${(@f)}; do
     echo "Converting $f to ${f%.*}.{pdf, latex, html} failed"
     #pandoc -f markdown -t pdf   $f --pdf-engine=xelatex --mathjax -o "${f%.*}.pdf"
     #pandoc -f markdown -t latex $f --pdf-engine=xelatex --mathjax -o "${f%.*}.latex"
