@@ -82,4 +82,9 @@ As in, the sum of all voltage changes from Start => Start will add up to 0.
 
 With a current $i_0$, when it flows into a junction like B, the current $i_0$ splits into $i_2$ and $i_3$
 
-So, te calculate the resistance
+So, to calculate the resistance and current at every point o
+ 
+ START at start
+ 
+ * $+12$
+ * $-I_1*10$ (per $I = \frac{\}{})
