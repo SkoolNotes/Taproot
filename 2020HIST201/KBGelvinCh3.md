@@ -37,7 +37,9 @@ We saw it in the ottomans!
 	- French     | similar to dutch
 	- British    | farthest reaching, controls dispersed territory
 	
-wait, markdown doesn't render stacked spaces? scam. 
+*wait, markdown doesn't render stacked spaces? scam.*
+
+All trying to get sugar 
 
 
 
