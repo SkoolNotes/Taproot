@@ -1,0 +1,23 @@
+---
+title:  "Premier Proof Presentation: Axler 1.C.12"
+course: 20math530
+author: Exr0n
+source: KBe2020math530refExr0nRetIndex
+---
+
+## Lemma
+> Prove that the union of two subspaces of $V$ is a subspace of $V$ if and only if one of the subspaces is contained in the other.
+
+## Proof
+Given two subspaces $A, B$ of vector space $V$, one is contained within the other if and only if $A \subseteq B$ or $B \subseteq A$, equivalently  $A \cup B = B$ or $A \cup B = A$. Thus, we just need to show that $A \cup B$ is a subspace of $V$ if and only if $A \cup B = A$ or $A \cup B = B$.
+
+First, assume that $A \cup B = A$. $A \cup B$ must be a subspace of $V$ because $A$ is a subspace of $V$. The argument is symmetric for the case $A \cup B = B$.
+
+Now, given that $A \cup B$ is a subspace of $V$, show that $A \cup B = A$ or $A \cup B = B$.
+
+Assume for the sake of contradiction that $A \cup B \neq A$ and $A \cup B \neq B$. There must exist some elements $a \in A, b \in B$ such that $a \notin B$ and $b \notin A$. Additionally, because $A$, $B$ are vector spaces, $-a \in A$ and $-b \in B$. Because $A \cup B$ is a subspace of $V$, it must also be a vector space and closed under addition. Thus, $a+b \in A \cup B$. Because $A \cup B$ is comprised exclusively of elements in $A$ or in $B$, $a+b \in A$ or $a+b \in B$. Because $A$ is closed under addition and $-a \in A$, if $a+b \in A$, the sum $(a+b) + (-a) = \cancel{a} + b \cancel{- a} = b \in A$. This contradicts the earlier definition of $b \notin A$ and completes the proof. The argument is symmetric for the case $a+b \in B$.
+
+## Appendix: Working it out
+![Scribbles](IMG_1383.jpg){ height: 40px }
+
+---
