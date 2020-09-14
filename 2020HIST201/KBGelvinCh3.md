@@ -24,7 +24,9 @@ We saw it in the ottomans!
 
 > What makes a core region core?
 
-- 
+- where most of the people live
+- lots of agricultural wealth
+- places with "excess"  
 
 
 
