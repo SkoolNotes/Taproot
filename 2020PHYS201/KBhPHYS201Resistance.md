@@ -111,4 +111,8 @@ Now the circut becomes even simpler:
 
 
 ![Screen Shot 2020-09-14 at 11.05.49 AM.png](./Screen Shot 2020-09-14 at 11.05.49 AM.png)
-#### 
+#### Sequence Resistors as Single Resistors
+
+Per the sequence resisters rules, that total resistance is $(A+B)\Omega$, we could combine these three resistors as a $37 \Omega$ resistor.
+
+####
