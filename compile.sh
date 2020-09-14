@@ -7,10 +7,12 @@ filetype[org]=org
 for f in ${(@f)1}; do
     formatname="$filetype[${f:t:e}]"
     echo "Converting $f from $formatname to ${f%.*}.{pdf, latex, html}"
-    pandoc -f $formatname -t pdf   $f --pdf-engine=xelatex --mathjax -o "${f%.*}.pdf"  --template=~/.pandoc/templates/default.latex
+    pandoc -f $formatname -t pdf   $f --pdf-engine=xelatex --mathjax -o "${f%.*}.pdf" \
+        --template=~/.pandoc/templates/default.latex 2>recent_errors.txt
     #pandoc -f $formatname -t latex $f --pdf-engine=xelatex --mathjax -o "${f%.*}.latex"
-    pandoc -f $formatname -t html  $f --pdf-engine=xelatex --mathjax -o "${f%.*}.html" --template=~/.pandoc/templates/default.html
+    pandoc -f $formatname -t html  $f --pdf-engine=xelatex --mathjax -o "${f%.*}.html"\
+        --template=~/.pandoc/templates/default.html  2>recent_errors.txt
 done
 
-make flush
+make flush >> meta/log.txt
 
