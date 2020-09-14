@@ -105,4 +105,10 @@ $I_1 - I_2 - I_3 = 0$, per Kirerbab's Second Law.
 
 #### Parallel Resistors as Single Resistors
 
-Per the previous resisters rules, that $\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R2}$,  we could treat the $20 \Omega$ and $30 \Omega$ in parallel as a single resistor of $12 \Ohms$.
+Per the previous resisters rules, that $\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R2}$,  we could treat the $20 \Omega$ and $30 \Omega$ in parallel as a single resistor of $12 \Omega$.
+
+Now the circut becomes even simpler:
+
+
+![Screen Shot 2020-09-14 at 11.05.49 AM.png](./Screen Shot 2020-09-14 at 11.05.49 AM.png)
+#### 
