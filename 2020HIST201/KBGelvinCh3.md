@@ -22,8 +22,9 @@ source: [[KBHistoryMasterIndex]]
 We saw it in the ottomans! 
 
 
+> What makes a core region core?
 
-
+- 
 
 
 
