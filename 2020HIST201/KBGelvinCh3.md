@@ -34,7 +34,8 @@ We saw it in the ottomans!
 	- Spanish    | territory over trade 
 	- Dutch      | trade over territory
 	- Portuguese | middle ground
-	- French     | similar to 
+	- French     | similar to dutch
+	- British    | farthest re
 
 
 
