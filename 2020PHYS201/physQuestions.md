@@ -22,5 +22,8 @@ source: KBPhysicsMasterIndex
 			- plasma is much harder so the air expands and then contracts. we hear the air particles slamming into each other.
 		- Why is the belt on a vandegraph generator so long? 
 			- Probably to keep the ball away from the base
+- Circuits
+	- Resistors
+		- Isn't there resistance 
 
 ---
