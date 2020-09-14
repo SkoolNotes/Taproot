@@ -25,5 +25,7 @@ source: KBPhysicsMasterIndex
 - Circuits
 	- Resistors
 		- Isn't there resistance while electrons travel across the cross-sectional area if there's a point wire?
+		- Blue = aluminum
+		![[Pasted image.png]]
 
 ---
