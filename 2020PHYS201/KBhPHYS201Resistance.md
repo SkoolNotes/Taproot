@@ -72,6 +72,9 @@ Calculate resistsance
 ### Kirkab's First Law
 **Sum of voltage in any closed loop should add up to 0**
 
+### Kirbob's Second law
+
+
 Here's a circut
 
 ![Screen Shot 2020-09-14 at 10.38.44 AM.png](./Screen Shot 2020-09-14 at 10.38.44 AM.png)
