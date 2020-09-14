@@ -138,5 +138,7 @@ Now, defluffify by re-writing the three points + so what in as little words as p
 - Or, push an alternative reasoning
 - Thesis too specific
 
+[[KBhHIST201EssayBackup]]
+
 ***
 There is always [UCLA Writing Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf)

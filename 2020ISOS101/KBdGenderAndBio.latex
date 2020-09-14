@@ -1,0 +1,288 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ISOS201 }
+\newcommand{\thelesson}{ Gender and Biology Reading }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Dylan \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\hypertarget{hoo-boy}{%
+\section{Hoo Boy!}\label{hoo-boy}}
+
+This is gonna be fun\ldots{} See {[}{[}KBGenderAndBioISOS{]}{]} for
+Huxley's take
+
+\hypertarget{gist}{%
+\section{Gist}\label{gist}}
+
+\begin{itemize}
+\tightlist
+\item
+  Biology is mainly dominated by men
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Therefore, it is \emph{biased} towards men
+  \item
+    ``Feminist'' hypotheses have been dismissed
+  \item
+    ``Social Sciences'' ignored for ``not being science''
+  \end{itemize}
+\item
+  Culture has had a large impact on the sciences
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Critical Theory lmao
+  \end{itemize}
+\item
+  Feminists have tried to reverse this trend
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Bring attention to the domination of men!
+  \item
+    Postmodernist feminism: Feelings over facts
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Ben Shapiro Seething
+    \end{itemize}
+  \end{itemize}
+\item
+  Scientific method and procedure are ``tainted'' with bias and
+  sociological factors
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Let's not do science anymore :)
+  \item
+    For and against
+
+    \begin{itemize}
+    \tightlist
+    \item
+      David Bloor: \emph{Ceteris Paribus}, people favor theories that
+      appeal to them on a sociological level
+    \item
+      Larry Laudain: There aren't many good theories to choose from and
+      there's good reason to choose one over the other
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Premise of David Bloor's point is incorrect
+      \item
+        ``Oh, but how are those good theories chosen??''
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  We have to be diverse when picking theories and hypotheses or else we
+  won't find change
+\end{itemize}
+
+\hypertarget{thoughts}{%
+\section{Thoughts}\label{thoughts}}
+
+\begin{itemize}
+\tightlist
+\item
+  The author frequently makes brash claims about certain real world
+  theories, like female skeletons and brains, but never presents any
+  evidence for those theories.
+\item
+  Although I could see the intent behind writing this article, I think
+  that it could have been summed up as ``Scientific results could be
+  biased because humans find them.''
+\item
+  Cherry-picking evidence? There are many examples of females performing
+  better at certain tasks, but the author never mentions these.
+\item
+  What is the point anyways? We already established in class that it is
+  impossible to know anything for sure, and therefore science is just a
+  bogus explanation of what we see. It is just as rigorous as religion
+  at explaining the world, because, while it may seem to be more
+  rigorous by using ``objective'' evidence, all objective evidence is
+  merely information that has been collected and processed subjectively
+  by humans and presented as objective fact. In fact, as we can't prove
+  the existence of anything other than ourselves, we cannot trust other
+  ``people'' for presenting accurate information. \emph{Science is only
+  useful if we suspend our disbelief and start believing in certain
+  things like objective truth.}
+\end{itemize}
+
+\hypertarget{discussion-points}{%
+\section{Discussion Points}\label{discussion-points}}
+
+\begin{itemize}
+\tightlist
+\item
+  How does this reading tie in with what Socrates had to say?
+\end{itemize}
+
+\end{document}
