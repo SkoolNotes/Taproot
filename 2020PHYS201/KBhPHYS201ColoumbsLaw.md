@@ -40,10 +40,12 @@ Special care must be taken for solving these problems w.r.t. to both vector dire
 
 ## Here's something! DNA Replication
 
-![Screen Shot 2020-08-24 at 8.20.15 PM.png](./2020PHYS201/Screen Shot 2020-08-24 at 8.20.15 PM.png)
+![Screen Shot 2020-08-24 at 8.20.15 PM.png](./Screen Shot 2020-08-24 at 8.20.15 PM.png)
 
 The question is… Between these four atoms, _how many do we need to calculate to find if these two repel or attract?_
 
 This is fairly simple. Because of the fact every force between each pair of atoms between these two elements needs to be calculated. So… 2 (on the left) times 2 (on the right) = 4.
 
 If these repel, the don't combine. If they attract, of course they do.
+
+Coulomb's laws are very very useful.

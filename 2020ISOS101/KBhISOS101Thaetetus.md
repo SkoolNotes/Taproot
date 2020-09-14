@@ -40,5 +40,3 @@ source: KBISOSMasterIndex
 ### A true judgement with an account
 - account: an argument or line of reasoning
 	- Objection: same as above
-
-This is a thing too
