@@ -16,7 +16,6 @@ source: [[KBHistoryMasterIndex]]
 
 
 ### $$Crisis\ of\ the\ 17th\ Century$$
-
 ==First truly world-wide crisis==
 
 We saw it in the ottomans! 
