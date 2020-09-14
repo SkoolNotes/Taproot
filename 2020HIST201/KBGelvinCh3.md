@@ -26,7 +26,12 @@ We saw it in the ottomans!
 
 - where most of the people live
 - lots of agricultural wealth
-- places with "excess"  
+- places with "excess" 
+
+(doing ml homework)
+
+- Maps
+	- 
 
 
 
