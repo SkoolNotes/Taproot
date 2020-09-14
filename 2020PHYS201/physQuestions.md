@@ -24,6 +24,6 @@ source: KBPhysicsMasterIndex
 			- Probably to keep the ball away from the base
 - Circuits
 	- Resistors
-		- Isn't there resistance 
+		- Isn't there resistance while electrons travel across the cross-sectional area if there's a point wire?
 
 ---
