@@ -6,7 +6,7 @@ BUILDNUMBER_FILE='buildID.txt'
 while true; do
     printf "working...                                                         \r"
     echo "\n\n\nLog for attempt at $(date)" >> log.txt
-    #git pull >> log.txt
+    git pull >> log.txt
 
     changes="$(git status --porcelain | cut -c4-)"
 
