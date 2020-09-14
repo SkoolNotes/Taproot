@@ -70,3 +70,19 @@ See [[KBhPHYS201LazerPrinters]]
 # Resistance and Current
 
 See [[KBhPHYS201Resistance]]
+
+# OMG Rosetta 2 ElectricBoogaloo
+
+Why did you run away? Federico Viticci?
+
+ ![Screen Shot 2020-09-13 at 8.41.24 PM.png](./Screen Shot 2020-09-13 at 8.41.24 PM.png)
+***
+
+\definition{Welp, this is gone.]{a haha, ahahaha lalala}{writing essays?}
+
+```js
+console.log("This")
+```
+
+$\frac{12^2}{x-12}$
+
