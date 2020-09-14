@@ -263,8 +263,13 @@ Resistance equation for series :pointup:
 
 Calculate resistsance
 
-\hypertarget{kirkobs-laws}{%
-\subsection{Kirkob's Laws}\label{kirkobs-laws}}
+\hypertarget{calculating-current-in-a-circut.}{%
+\subsection{Calculating Current in a
+Circut.}\label{calculating-current-in-a-circut.}}
+
+\hypertarget{traditional-kirkobs-laws-approach}{%
+\subsubsection{Traditional Kirkob's Laws
+approach}\label{traditional-kirkobs-laws-approach}}
 
 A circut!
 
@@ -275,7 +280,7 @@ A circut!
 \end{figure}
 
 \hypertarget{kirkabs-first-law}{%
-\subsubsection{Kirkab's First Law}\label{kirkabs-first-law}}
+\paragraph{Kirkab's First Law}\label{kirkabs-first-law}}
 
 \textbf{Sum of voltage in any closed loop should add up to 0}
 
@@ -283,7 +288,7 @@ As in, the sum of all voltage changes from Start =\textgreater{} Start
 will add up to 0.
 
 \hypertarget{kirbobs-second-law}{%
-\subsubsection{Kirbob's Second law}\label{kirbobs-second-law}}
+\paragraph{Kirbob's Second law}\label{kirbobs-second-law}}
 
 \textbf{Net current flowing into a node is 0}
 
@@ -312,5 +317,11 @@ START at start
 
 \textbf{Through a resistor, the Current does NOT change, the Voltage
 drops.}
+
+\begin{figure}
+\centering
+\includegraphics{./Screen Shot 2020-09-14 at 11.02.45 AM.png}
+\caption{Screen Shot 2020-09-14 at 11.02.45 AM.png}
+\end{figure}
 
 \end{document}
