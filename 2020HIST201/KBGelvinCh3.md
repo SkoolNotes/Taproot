@@ -35,7 +35,7 @@ We saw it in the ottomans!
 	- Dutch      | trade over territory
 	- Portuguese | middle ground
 	- French     | similar to dutch
-	- British    | farthest re
+	- British    | farthest reaching, controls dispersed territory
 
 
 
