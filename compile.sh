@@ -9,13 +9,13 @@ for f in ${(@f)1}; do
     echo "Converting $f from $formatname to ${f%.*}.{pdf, latex, html}"
     pandoc -f $formatname -t pdf   $f --pdf-engine=xelatex --mathjax -o "${f%.*}.pdf" \
         --template=~/.pandoc/templates/default.latex --resource-path="$f:h"
-    echo compiled to pdf
+    echo "    compiled to pdf"
     pandoc -f $formatname -t latex $f --pdf-engine=xelatex --mathjax -o "${f%.*}.latex" \
         --template=~/.pandoc/templates/default.latex --resource-path="$f:h"
-    echo compiled to latex
+    echo "    compiled to latex"
     pandoc -f latex -t html "${f%.*}.latex" --pdf-engine=xelatex --mathjax -o "${f%.*}.html"\
         --template=~/.pandoc/templates/default.html  --resource-path="$f:h"
-    echo compiled to html
+    echo "    compiled to html"
 done
 
 make flush >> meta/log.txt
