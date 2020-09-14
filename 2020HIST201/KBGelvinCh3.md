@@ -2,7 +2,7 @@
 title: Gelvin Chapter 3
 course: HIST201
 author: Huxley
-source: #index
+source: [[KBHistoryMasterIndex]]
 ---
 
 ---
