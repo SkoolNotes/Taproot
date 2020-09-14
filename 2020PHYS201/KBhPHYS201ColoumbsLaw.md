@@ -47,5 +47,3 @@ The question is… Between these four atoms, _how many do we need to calculate t
 This is fairly simple. Because of the fact every force between each pair of atoms between these two elements needs to be calculated. So… 2 (on the left) times 2 (on the right) = 4.
 
 If these repel, the don't combine. If they attract, of course they do.
-
-Coulomb's laws are very very useful.
