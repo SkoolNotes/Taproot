@@ -75,7 +75,9 @@ A circut!
 ### Kirkab's First Law
 **Sum of voltage in any closed loop should add up to 0**
 
+As in, the sum of all voltage changes from Start => Start will add up to 0.
+
 ### Kirbob's Second law
 **Net current flowing into a node is 0**
 
-Through
+With a current $i_0$, 
