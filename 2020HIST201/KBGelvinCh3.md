@@ -8,8 +8,11 @@ source: #index
 ---
 #flo 
 
-## The\ Middle\ East\ and\
-
+```
+```
+## $$The\ Middle\ East\ and\ the\ Modern\ World\ System$$
+```
+```
 
 
 
