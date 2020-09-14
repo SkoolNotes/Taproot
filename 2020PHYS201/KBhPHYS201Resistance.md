@@ -87,4 +87,7 @@ So, to calculate the resistance and current at every point o
  START at start
  
  * $+12$
- * $-I_1*10$ (per $I = \frac{\}{})
+ * $-I_1*10$ (per $I = \frac{\Delta V}{resistance}$)
+ * $-I_2 * 20$
+ * $-I_1 * 15$
+ 
