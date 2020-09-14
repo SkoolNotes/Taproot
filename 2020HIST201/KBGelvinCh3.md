@@ -31,8 +31,9 @@ We saw it in the ottomans!
 (doing ml homework)
 
 - Maps
-	- Spanish 
-		- territo
+	- Spanish | territory over trade 
+	- Dutch   | trade over territory
+	- Potugese| middle ground
 
 
 
