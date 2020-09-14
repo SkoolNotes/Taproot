@@ -116,4 +116,5 @@ Now the circut becomes even simpler:
 Per the sequence resisters rules, that total resistance is $(A+B)\Omega$, we could combine these three resistors as a $37 \Omega$ resistor.
 
 #### Combined Current
-We know that $12V / 37\Omega = 0.324 Amps$ is the current that returns to the battery and what the battery starts with, if we treat the circuit as a single resistor,
+We know that $12V / 37\Omega = 0.324 Amps$ is the current that returns to the battery and what the battery starts with, for if we treat the circuit as a single resistor, the 12 volts would only be working against.
+
