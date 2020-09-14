@@ -35,5 +35,5 @@ bongo bing
 bongo bing
 bongo bing
 
-\definiton{Happiness}{A state of being happy with \LaTeX}
+\definition{Happiness}{A state of being happy with \LaTeX}
 
