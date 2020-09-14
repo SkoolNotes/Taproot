@@ -90,5 +90,7 @@ So, to calculate the resistance and current at every point o
  * $-I_1*10$ (per $I = \frac{\Delta V}{resistance}$)
  * $-I_2 * 20$
  * $-I_1 * 15$
- * $= 0
+ * $= 0$
+
+$I_1 - I_2 - I_3 = 0$, per Kirerbab's Second Law.
  
