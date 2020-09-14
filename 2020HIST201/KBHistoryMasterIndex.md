@@ -36,6 +36,8 @@ source: #index
 	* [[KBe20hist201retKennedyEssay]]
 	* [[KBEssay1PlanningAttemp2]] 
     * [[KBdHistMAKennedyOutline]]
+* Gelvin 
+	* [[KBGelvinCh3]]
 ## Meta References
 - [[20hist201refTechniques]]
 
