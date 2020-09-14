@@ -19,6 +19,7 @@ source: #index
 
 ==First truly world-wide crisis==
 
+We saw it in the ottomans! 
 
 
 
