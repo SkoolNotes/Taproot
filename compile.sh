@@ -4,7 +4,8 @@ declare -A filetype
 filetype[md]=markdown
 filetype[org]=org
 
-for f in ${(@f)1}; do
+changes="$(git status --porcelain | cut -c4- | grep -E '(\.md|\.org)$')"
+for f in ${(@f)changes>}; do
     formatname="$filetype[${f:t:e}]"
     echo "Log for attempt at $(date)" > recent_errors.txt
     echo "Converting $f from $formatname to ${f%.*}.{pdf, latex, html}"

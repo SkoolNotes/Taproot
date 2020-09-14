@@ -13,7 +13,7 @@ while true; do
     if [[ -n "$changes" ]]; then
         #find . -type f -name '*.md' -exec sed -i'' -e 's/\/Users\/houliu\/Documents\/School Work\/2020\-2021\/KnowledgeBase/./g' {} +
 
-        ./compile.sh "$(echo $changes | grep -E '(\.md|\.org)$')"
+        ./compile.sh
 
         #if make >> log.txt 2>>recent_errors.txt; then
         #    [[ -f $BUILDNUMBER_FILE ]] || echo 0 > $BUILDNUMBER_FILE;
