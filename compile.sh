@@ -1,8 +1,5 @@
 #!/bin/zsh
 
-echo hi there
-echo $1
-
 for f in ${(@f)1}; do
     echo "Converting $f to ${f%.*}.{pdf, latex, html} failed"
     #pandoc -f markdown -t pdf   $f --pdf-engine=xelatex --mathjax -o "${f%.*}.pdf"
