@@ -76,12 +76,10 @@ See [[KBhPHYS201Resistance]]
 Why did you run away? Federico Viticci?
 
  ![Screen Shot 2020-09-13 at 8.41.24 PM.png](./Screen Shot 2020-09-13 at 8.41.24 PM.png)
+ 
 ***
 
-\definition{Welp, this is gone.]{a haha, ahahaha lalala}{writing essays?}
-
-
-inline code?
+\definition[Welp, this is gone.]{a haha, ahahaha lalala}{writing essays?}
 
 ```js
 console.log("This")

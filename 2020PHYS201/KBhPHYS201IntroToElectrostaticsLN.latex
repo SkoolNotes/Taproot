@@ -334,12 +334,15 @@ ElectricBoogaloo}\label{omg-rosetta-2-electricboogaloo}}
 
 Why did you run away? Federico Viticci?
 
-\includegraphics{./Screen Shot 2020-09-13 at 8.41.24 PM.png} ***
+\begin{figure}
+\centering
+\includegraphics{./Screen Shot 2020-09-13 at 8.41.24 PM.png}
+\caption{Screen Shot 2020-09-13 at 8.41.24 PM.png}
+\end{figure}
 
-\textbackslash definition\{Welp, this is gone.{]}\{a haha, ahahaha
-lalala\}\{writing essays?\}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-inline code?
+\definition[Welp, this is gone.]{a haha, ahahaha lalala}{writing essays?}
 
 \begin{Shaded}
 \begin{Highlighting}[]

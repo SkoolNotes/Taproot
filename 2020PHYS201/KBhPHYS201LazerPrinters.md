@@ -7,7 +7,7 @@ course: PHYS201
 
 # Lazer Printers + Scanners w.r.t. Electrostatics
 
-![Screen Shot 2020-09-09 at 10.46.29 AM.png](./2020PHYS201/Screen Shot 2020-09-09 at 10.46.29 AM.png)
+![Screen Shot 2020-09-09 at 10.46.29 AM.png](./Screen Shot 2020-09-09 at 10.46.29 AM.png)
 
 ## Lazer scanner...
 1. LED light cause original to reflect into mirror
@@ -22,3 +22,5 @@ course: PHYS201
     10. And then, a copy!
     
 Lazer printing works in the same way as above, except plastic becomes conducting where it experiences light from a computer-controlled laser drawing a negative of the print.
+
+Wisper: \tiny{Exr0n is very smart...}
