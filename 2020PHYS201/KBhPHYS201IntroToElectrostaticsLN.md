@@ -80,6 +80,9 @@ Why did you run away? Federico Viticci?
 
 \definition{Welp, this is gone.]{a haha, ahahaha lalala}{writing essays?}
 
+
+inline code?
+
 ```js
 console.log("This")
 ```

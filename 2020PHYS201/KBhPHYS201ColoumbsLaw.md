@@ -7,7 +7,7 @@ source: KBhPHYS201IntroToElectrostaticsLN
 
 # Coulomb's Law
 
-![Screen Shot 2020-08-24 at 7.40.48 PM.png](./2020PHYS201/Screen Shot 2020-08-24 at 7.40.48 PM.png)
+![Screen Shot 2020-08-24 at 7.40.48 PM.png](./Screen Shot 2020-08-24 at 7.40.48 PM.png)
 
 * Electrical forces gets stronger as charge increases
 * Electrical forces gets weaker as charge decreases
