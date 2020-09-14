@@ -28,7 +28,7 @@ We saw it in the ottomans!
 - lots of agricultural wealth
 - places with "excess" 
 
-(doing ml homework)
+(casually doing doing ml homework)
 
 - Maps
 	- Spanish    | territory over trade 
@@ -36,7 +36,8 @@ We saw it in the ottomans!
 	- Portuguese | middle ground
 	- French     | similar to dutch
 	- British    | farthest reaching, controls dispersed territory
-
+	
+wait, markdown doesn't render stacked spaces? scam. 
 
 
 
