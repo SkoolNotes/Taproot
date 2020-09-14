@@ -11,7 +11,6 @@ while true; do
     changes="$(git status --porcelain | cut -c4-)"
 
     if [[ -n "$changes" ]]; then
-        echo "Log for attempt at $(date)" > recent_errors.txt
         #find . -type f -name '*.md' -exec sed -i'' -e 's/\/Users\/houliu\/Documents\/School Work\/2020\-2021\/KnowledgeBase/./g' {} +
 
         ./compile.sh "$(echo $changes | grep -E '(\.md|\.org)$')"
