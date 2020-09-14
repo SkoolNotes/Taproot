@@ -62,7 +62,7 @@ source: #index
 
 - Kennedy
 	- Rise / Strengths
-		- says that the ottomans threats and wars seemed part of a coherent grand strategy and the Europeans were disjointed and sporadic {p4}
+		- says that the ottomans threats and wars seemed part of an coherent grand strategy and the Europeans were disjointed and sporadic {p4}
 		- Early 16th century china turned in on itself, but the ottomans did not. In middle staged of expansion
 		- Ottomans were the greatest muslim threat to Europe becuase of their army and their superior seige train. {p9} 
 		- Applied pressure to europe {p9}
@@ -112,8 +112,6 @@ source: #index
 		- Inflation 
 
 
-
-
 - Bulliet 
 	- > These periods of change reveal the problems faced by huge, land based empires around the world 
 	- Rise 
@@ -131,7 +129,7 @@ source: #index
 			- Canvalrymen reduced / put out of buisness, replaced with janissary corps.
 			- Also scholars suffered from reduced income\
 			- Cannot fundementaly alter tax system due to religous law. 
-			- Government recruited short term soldiers which were out of money when the campaign ended
+			- Government recruited short term soldies which were out of money when the campaign ended
 			- > Former landholding cavalrymen, short-term soldiers released at the end of a campaign, peasants overburdened by emergency taxes, and even impoverished students of religion formed bands of marauders. 
 		- Economic change and growing weakness
 			- Kept sultans confined to the palace so they woudnt start coups 
@@ -152,7 +150,6 @@ source: #index
 		- Formed bands of marauders 
 		- Trade agreements allowed the Europeans to dominate in seaborne Trade
 		- Central government allowed smaller leaders to fragment the nation 
-		
 
 #### Disagreements
 

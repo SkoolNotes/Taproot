@@ -28,4 +28,10 @@ Flow index: [[KBe2020math530floIndex]]
 Axler 1.C.12 | [[KBe20math530retPremierProofPresentation]]
 
 
+## Proofs
+| Problem | Link |
+|---------|------|
+Axler 1.C.12 | [[KBe20math530retPremierProofPresentation]]
+
+
 ---
