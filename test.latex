@@ -1,94 +1,52 @@
-% Options for packages loaded elsewhere
-\PassOptionsToPackage{unicode}{hyperref}
-\PassOptionsToPackage{hyphens}{url}
-%
-\documentclass[
-]{article}
-\usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provide euro and other symbols
-\else % if luatex or xetex
-  \usepackage{unicode-math}
-  \defaultfontfeatures{Scale=MatchLowercase}
-  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-\fi
-% Use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-\IfFileExists{microtype.sty}{% use microtype if available
-  \usepackage[]{microtype}
-  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\makeatletter
-\@ifundefined{KOMAClassName}{% if non-KOMA class
-  \IfFileExists{parskip.sty}{%
-    \usepackage{parskip}
-  }{% else
-    \setlength{\parindent}{0pt}
-    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
-}{% if KOMA class
-  \KOMAoptions{parskip=half}}
-\makeatother
-\usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
-\setlength{\emergencystretch}{3em} % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+Howdy, welcome to org mode.
 
-\author{}
-\date{}
+why does the make file recompute everything every time?
 
-\begin{document}
+anyways, I wonder if links work: \emph{README}
 
-\hypertarget{activity}{%
-\subsection{Activity!}\label{activity}}
+\url{https://google.com}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  How many grams of protein do you want/need per day?
+and images:
 
-  \begin{enumerate}
-  \def\labelenumii{\arabic{enumii}.}
-  \tightlist
-  \item
-    What sources?
-  \end{enumerate}
-\item
-  What is your preferred animmal plant protien ratio and why?
-\item
-  \href{https://www.myfooddata.com}{Build a meal plan}
-\item
-  Cross check to validate data
-\item
-  Were there any amino acids that was particularly hard to find?
-\end{enumerate}
+\url{file:./2020BIO101/KBBiologyMasterIndex.pdf}
 
-\begin{itemize}
-\tightlist
-\item
-  Numbers
+\protect\hypertarget{KBBiologyMasterIndex}{}{}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Agriculture is 7\% of California emissions
-  \item
-    67\% crop calories and 80\% plant proteins -\textgreater{} animal
-    feed
-  \item
-    beef is 24-49 : 1
-  \end{itemize}
-\end{itemize}
+f:KBBiologyMasterIndex
 
-\end{document}
+\[
+e^{i\pi} = -1
+\] \[
+\begin{matrix}a\end{matrix}
+\]
+
+\[
+\begin{bmatrix}a&b\\c&d\end{bmatrix}\begin{bmatrix}x\\y\end{bmatrix}
+\]
+
+./2020BIO101/KBBiologyMasterIndex.md
+
+{[}\textbackslash{[}2020BIO101/KBBiologyMasterIndex.md{]}{]}
+
+\textbf{Bold} \emph{Italics} \underline{underline} Seems like italics
+aren't being displayed properly, \#todo look here?
+\url{https://www.reddit.com/r/emacs/comments/egiyt2/italics_show_as_underline/}
+
+Here's a table:
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Field 1 & Field 2 & Field 3\tabularnewline
+\midrule
+\endhead
+Here's a row & something & needs the sides?\tabularnewline
+What if I'm missing & a column? -\textgreater{} &\tabularnewline
+It's & epic & time\tabularnewline
+\bottomrule
+\end{longtable}
+
+bing bong bing bongo bong bongo bong bongo bong bongo bong bongo bong
+bongo bong bongo bong bongo bong bongo bong bongo bong bongo bong bongo
+bong bongo bong bongo bong bongo bong bongo bong bongo bong bongo bong
+bongo bong bongo bong bongo bong bongo bong bongo bong bongo bong bongo
+bong bongo bong bongo bong bongo bong bongo bong bongo bong

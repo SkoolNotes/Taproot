@@ -2,6 +2,7 @@
 #taproot_path="../../Taproot/"
 taproot_path="../materials/Taproot"
 BUILDNUMBER_FILE='buildID.txt'
+
 while true; do
     printf "working...                                              \r"
     echo "\n\n\nLog for attempt at $(date)" >> log.txt
@@ -19,7 +20,8 @@ while true; do
         #    [[ -f $BUILDNUMBER_FILE ]] || echo 0 > $BUILDNUMBER_FILE;
         #    echo $(( $(cat $BUILDNUMBER_FILE) + 1 )) > $BUILDNUMBER_FILE
         #fi
-
+        [[ -f $BUILDNUMBER_FILE ]] || echo 0 > $BUILDNUMBER_FILE;
+        echo $(( $(cat $BUILDNUMBER_FILE) + 1 )) > $BUILDNUMBER_FILE
 
         (git add -A >> log.txt && \
         git reset -- log.txt >> log.txt && \
