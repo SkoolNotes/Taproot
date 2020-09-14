@@ -69,17 +69,17 @@ Calculate resistsance
 
 ## Calculating Current in a Circut.
 
-### Traditional Kirkob's Laws approach
+### Traditional Kirkoff's Laws approach
 A circut!
 
 ![Screen Shot 2020-09-14 at 10.38.44 AM.png](./Screen Shot 2020-09-14 at 10.38.44 AM.png)
 
-#### Kirkab's First Law
+#### Kirkoff's First Law
 **Sum of voltage in any closed loop should add up to 0**
 
 As in, the sum of all voltage changes from Start => Start will add up to 0.
 
-#### Kirbob's Second law
+#### Kirkoff's Second law
 **Net current flowing into a node is 0**
 
 With a current $i_0$, when it flows into a junction like B, the current $i_0$ splits into $i_2$ and $i_3$
