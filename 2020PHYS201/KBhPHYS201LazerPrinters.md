@@ -22,5 +22,3 @@ course: PHYS201
     10. And then, a copy!
     
 Lazer printing works in the same way as above, except plastic becomes conducting where it experiences light from a computer-controlled laser drawing a negative of the print.
-
-Wisper: \tiny{Exr0n is very smart...}
