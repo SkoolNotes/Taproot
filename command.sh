@@ -4,7 +4,7 @@ taproot_path="../materials/Taproot"
 BUILDNUMBER_FILE='buildID.txt'
 
 while true; do
-    printf "working...                                              \r"
+    printf "working...                                                         \r"
     echo "\n\n\nLog for attempt at $(date)" >> log.txt
     #git pull >> log.txt
 
@@ -29,9 +29,9 @@ while true; do
         git reset -- log.txt >> log.txt && \
         git commit -m "b$(cat buildID.txt): $(echo $changes | paste -sd ', ' -) $(printf "\n(\n")automated compilation $(cat buildID.txt))" >> log.txt && \
         git push --quiet) && \
-        printf "Synced and commited at $(date)\r" || printf "Sync Failed!!! $(date)"
+        printf "Snapshotted and commited at $(date)\r" || printf "Sync Failed!!! $(date)"
     else
-        printf "Nothing to sync at $(date)         \r"
+        printf "Nothing to sync at $(date)                     \r"
     fi
 
     sleep 10
