@@ -7,7 +7,7 @@ course: PHYS201
 
 # Lazer Printers + Scanners w.r.t. Electrostatics
 
-![Screen Shot 2020-09-09 at 10.46.29 AM.png](./2020PHYS201/Screen Shot 2020-09-09 at 10.46.29 AM.png)
+![Screen Shot 2020-09-09 at 10.46.29 AM.png](./Screen Shot 2020-09-09 at 10.46.29 AM.png)
 
 ## Lazer scanner...
 1. LED light cause original to reflect into mirror

@@ -14,5 +14,5 @@ Everyone has calculus!
 - **Houjun Liu** [[KBhMATH401SubIndex]]
 - **Zachary Sayyah**[[KB20200823154725]]
 - **Albert Huang**[[KBe2020math401index]]
-- **Dylan Wallace** [[KBd2020math401SubIndex]]
+
 ---
