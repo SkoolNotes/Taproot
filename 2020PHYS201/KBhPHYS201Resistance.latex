@@ -332,6 +332,9 @@ Method}\label{combine-resistors-method}}
 \paragraph{Parallel Resistors as Single
 Resistors}\label{parallel-resistors-as-single-resistors}}
 
-Per the previous resisters rules
+Per the previous resisters rules, that
+\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R2}\), we could treat the
+\(20 \Omega\) and \(30 \Omega\) in parallel as a single resistor of
+\(12 \Ohms\).
 
 \end{document}
