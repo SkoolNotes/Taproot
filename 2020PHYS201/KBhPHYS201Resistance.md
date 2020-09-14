@@ -115,4 +115,4 @@ Now the circut becomes even simpler:
 
 Per the sequence resisters rules, that total resistance is $(A+B)\Omega$, we could combine these three resistors as a $37 \Omega$ resistor.
 
-####
+#### Combined Current
