@@ -339,8 +339,15 @@ Per the previous resisters rules, that
 
 Now the circut becomes even simpler:
 
-\includegraphics{./Screen Shot 2020-09-14 at 11.05.49 AM.png} \#\#\#\#
-Sequence Resistors as Single Resistors
+\begin{figure}
+\centering
+\includegraphics{./Screen Shot 2020-09-14 at 11.05.49 AM.png}
+\caption{Screen Shot 2020-09-14 at 11.05.49 AM.png}
+\end{figure}
+
+\hypertarget{sequence-resistors-as-single-resistors}{%
+\paragraph{Sequence Resistors as Single
+Resistors}\label{sequence-resistors-as-single-resistors}}
 
 Per the sequence resisters rules, that total resistance is
 \((A+B)\Omega\), we could combine these three resistors as a
@@ -355,6 +362,6 @@ circuit as a single resistor, the 12 volts would only be working
 against.
 
 From there, once we have a current for beginning and end, we could work
-our way up backwards by calculating the fina voltage
+our way up backwards by calculating the final voltage.
 
 \end{document}

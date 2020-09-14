@@ -111,6 +111,7 @@ Now the circut becomes even simpler:
 
 
 ![Screen Shot 2020-09-14 at 11.05.49 AM.png](./Screen Shot 2020-09-14 at 11.05.49 AM.png)
+
 #### Sequence Resistors as Single Resistors
 
 Per the sequence resisters rules, that total resistance is $(A+B)\Omega$, we could combine these three resistors as a $37 \Omega$ resistor.
@@ -118,4 +119,4 @@ Per the sequence resisters rules, that total resistance is $(A+B)\Omega$, we cou
 #### Combined Current
 We know that $12V / 37\Omega = 0.324 Amps$ is the current that returns to the battery and what the battery starts with, for if we treat the circuit as a single resistor, the 12 volts would only be working against.
 
-From there, once we have a current for beginning and end, we could work our way up backwards by calculating the fina voltage
+From there, once we have a current for beginning and end, we could work our way up backwards by calculating the final voltage.
