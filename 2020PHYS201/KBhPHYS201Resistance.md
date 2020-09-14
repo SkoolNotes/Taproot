@@ -68,15 +68,14 @@ Resistance equation for series :pointup:
 Calculate resistsance 
 
 ## Kirkob's Laws
+A circut!
+
+![Screen Shot 2020-09-14 at 10.38.44 AM.png](./Screen Shot 2020-09-14 at 10.38.44 AM.png)
 
 ### Kirkab's First Law
 **Sum of voltage in any closed loop should add up to 0**
 
 ### Kirbob's Second law
-
-
-Here's a circut
-
-![Screen Shot 2020-09-14 at 10.38.44 AM.png](./Screen Shot 2020-09-14 at 10.38.44 AM.png)
+**Net current flowing into a node is 0**
 
 Through
