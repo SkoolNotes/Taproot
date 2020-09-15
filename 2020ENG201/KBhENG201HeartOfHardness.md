@@ -106,6 +106,7 @@ Heart of Heartness
 * History of colonialism in Africa
 
 * King Leopold took "Ethiopia", and sectioned it off 
+* Spain and Portugal agreement => "spain has Americas, protugal has africa"
 
 **Important to Know**
 
