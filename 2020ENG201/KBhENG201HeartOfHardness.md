@@ -113,3 +113,9 @@ For answers to the essential question, of course! [[KBhENG201AlexaD1]]
 **Nice to Know**
 
 * Modernism + Heart of Darkness's relationship to lit history
+
+***
+
+**“The sunken eyes looked up … vacant … a kind of blind, white flicker in the depths of the orbs, which died out slowly. … I found nothing else … but to offer him … biscuits. The fingers closed slowly on it and held — there was no other movement and no other glance.”**
+
+"Deadness in the eyes" => {the soul, the witness, sense, knowledge} => "the fool is blind"
