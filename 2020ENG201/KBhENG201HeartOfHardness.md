@@ -84,7 +84,6 @@ And, here's the rub: **History is Written by the Victors** — an important part
 
 The [[KBhENG201CongoFreeState]]
 
-
 ## Reflections
 [[KBhENG201Page0t17]]
 
@@ -96,5 +95,5 @@ For answers to the essential question, of course! [[KBhENG201AlexaD1]]
     * Could be a text that attempts to propergate racism 
 * How does colonialism shift notions of race, equity, socio-economic status, natural resources, religion for the colonizer, colonized, and the reader? 
 
-
-
+## Where "are" we?
+Heart of Heartness
