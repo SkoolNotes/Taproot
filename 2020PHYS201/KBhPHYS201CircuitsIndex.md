@@ -16,3 +16,4 @@ In them, flows [[KBhPHYS201Resistance]] Resistance and Current
     * Each batteries' current will flow back to itself
     * When currents meet, they will combine
 * Use currents identified before + Kirkoff's second law
+* Use Kirkoff's first law to find a loops that, in total, covers all components
