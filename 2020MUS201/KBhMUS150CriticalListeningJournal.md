@@ -188,3 +188,7 @@ source: KBhMUS150D1
 - "Siren" as a part of the baseline
 
 # 09152020
+
+**Fingerprints**
+- Chill vibes with solo loops
+- 
