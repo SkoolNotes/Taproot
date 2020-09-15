@@ -99,7 +99,7 @@ For answers to the essential question, of course! [[KBhENG201AlexaD1]]
 Heart of Heartness
 
 ## Objectives
-**Central to KNow**
+**Central to Know**
 
 * Basics of plot and character development
 * Conrad's style and key lit devices
