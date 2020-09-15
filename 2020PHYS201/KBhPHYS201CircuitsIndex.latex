@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{ PHYS201 }
-\newcommand{\thelesson}{ Physics Master Index }
+\newcommand{\thelesson}{ Circuts }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -163,46 +163,11 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBPhysicsMasterIndex}{\tiny\textulf{[[}\textbf{KBPhysicsMasterIndex}\textulf{]]}}}\thinspace
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhPHYS201GettingStarted{]}{]} Getting started with Physics
-\item
-  {[}{[}KBhPHYS201IntroToElectrostaticsLN{]}{]} Intro to Electrostatics
-\item
-  {[}{[}KB20200825090600{]}{]} Physics day 1
-\item
-  {[}{[}KBRemoteRollingBall{]}{]}
-\item
-  {[}{[}KBVectorIntro{]}{]}
-\item
-  {[}{[}physQuestions{]}{]}
-\item
-  {[}{[}KBe20phys201flo5vandegraph{]}{]}
-\item
-  Voltage and Current with Gravity annotated docs
+\hypertarget{circuits}{%
+\section{Circuits}\label{circuits}}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    {[}{[}exr0n20phys201retIntroVoltageWithGravity.pdf{]}{]}
-  \item
-    {[}{[}KBe20phys201srcVoltageCurrentGravity2.pdf{]}{]}
-  \end{itemize}
-\item
-  Exr0n Ret Index {[}{[}exr0n20phys201retIndex{]}{]}
-\item
-  PHET Simulation w/ Eletric Field
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Jack {[}{[}KBhPHYS201PHETElectricFields{]}{]}
-  \end{itemize}
-\item
-  {[}{[}KBhPHYS201CircuitsIndex{]}{]} Circuts!
-\end{itemize}
+In them, flows {[}{[}KBhPHYS201Resistance{]}{]} Resistance and Current
 
 \end{document}

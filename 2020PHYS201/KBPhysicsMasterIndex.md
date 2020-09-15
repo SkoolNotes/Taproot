@@ -18,4 +18,4 @@ source: #index
 - Exr0n Ret Index [[exr0n20phys201retIndex]]
  * PHET Simulation w/ Eletric Field
      * Jack [[KBhPHYS201PHETElectricFields]]
-* [[KBhPHYS201Circuts]]
+* [[KBhPHYS201CircuitsIndex]] Circuts!
