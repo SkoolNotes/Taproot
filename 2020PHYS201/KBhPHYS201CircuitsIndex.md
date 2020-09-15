@@ -13,4 +13,6 @@ In them, flows [[KBhPHYS201Resistance]] Resistance and Current
 
 * Multiples battries can't be solved with the combined resistor method
 * So, first guess the current flow
-    * Each battry's curre 
+    * Each batteries' current will flow back to itself
+    * When currents meet, they will combine
+* Use currents identified before + Kirkoff's second law
