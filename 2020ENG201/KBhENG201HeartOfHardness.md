@@ -105,7 +105,7 @@ Heart of Heartness
 * Conrad's style and key lit devices
 * History of colonialism in Africa
 
-* King Leopold took "Ethiopia" 
+* King Leopold took "Ethiopia", and sectioned it off 
 
 **Important to Know**
 
