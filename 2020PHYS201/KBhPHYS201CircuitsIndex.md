@@ -17,3 +17,4 @@ In them, flows [[KBhPHYS201Resistance]] Resistance and Current
     * When currents meet, they will combine
 * Use currents identified before + Kirkoff's second law
 * Use Kirkoff's first law to find loops (and hence equations) that, in total, covers all components
+* If resulting currents is negative, 
