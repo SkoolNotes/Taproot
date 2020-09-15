@@ -127,4 +127,8 @@ Ambiguity and dehumanization of fingers
 
 * Frequent talk about the feature
 * No descriptions as a whole
-
+* Description of the _non-black_ parts of the body only
+    * Notices and grapples with the darkness
+    * "White Eyes, Hands, etc" => notices the whiteness
+    * Dehumanization
+    
