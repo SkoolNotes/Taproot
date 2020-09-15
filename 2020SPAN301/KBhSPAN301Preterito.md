@@ -1,5 +1,5 @@
 ---
-title: El Preterito
+title: El Preterito + Imperfecto
 author: Houjun Liu
 course: SPAN301
 source: KB20200824124831
