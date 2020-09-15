@@ -105,6 +105,8 @@ Heart of Heartness
 * Conrad's style and key lit devices
 * History of colonialism in Africa
 
+* King Leopold took "Ethiopia" 
+
 **Important to Know**
 
 * Engagement with Essential Questions
