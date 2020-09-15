@@ -5,4 +5,9 @@ author: Exr0n
 source: KBe2020math530floIndex
 ---
 
+## Proofs!
+- Could be a proof attempt
+- Questions and comments at the end:w
+- 
+
 ---
