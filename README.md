@@ -10,6 +10,7 @@ Howdy :wave:, welcome to Taproot. Take a look around, either in person or from o
 
 ## Philosophy
 Zettelkasten, maybe. But basically, create a repository of knowledge that should be easy to refer back to and effective for relearning things.
+We strive to create atomic, self contained notes that link to other references. Think a more granular Wikipedia
 
 ## Structure
 
