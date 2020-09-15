@@ -119,3 +119,12 @@ For answers to the essential question, of course! [[KBhENG201AlexaD1]]
 **“The sunken eyes looked up … vacant … a kind of blind, white flicker in the depths of the orbs, which died out slowly. … I found nothing else … but to offer him … biscuits. The fingers closed slowly on it and held — there was no other movement and no other glance.”**
 
 "Deadness in the eyes" => {the soul, the witness, sense, knowledge} => "the fool is blind"
+
+* His eyes => the sunken eyes
+* His fingers => the fingers
+
+Ambiguity and dehumanization of fingers
+
+* Frequent talk about the feature
+* No descriptions as a whole
+
