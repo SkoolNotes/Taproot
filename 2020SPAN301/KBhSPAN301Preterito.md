@@ -2,11 +2,11 @@
 title: El Preterito + Imperfecto
 author: Houjun Liu
 course: SPAN301
-source: KB20200824124831
+source: KB20200824124831Simple
 ---
 
 # Preterito
-## Preterito Simple
+## Preterito 
 **Estornudar** Sneeze
 
 | S            | P            |
