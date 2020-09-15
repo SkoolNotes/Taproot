@@ -191,4 +191,5 @@ source: KBhMUS150D1
 
 **Fingerprints**
 - Chill vibes with solo loops
-- 
+- Simple vocals
+- Simple, acoustic drum sequence
