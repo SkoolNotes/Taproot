@@ -198,4 +198,7 @@ source: KBhMUS150D1
 **Cucumber Water??**
 - Drum focused
 - Electronic chiptone as melody
--  
+- Transitioned to rap lyrics, but still set to electro  
+- Finishing with again chiptune music
+
+
