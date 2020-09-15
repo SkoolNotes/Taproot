@@ -190,10 +190,20 @@ and Current
 \item
   Use currents identified before + Kirkoff's second law
 \item
-  Use Kirkoff's first law to find loops (and hence equations) that, in
-  total, covers all components
+  Use Kirkoff's first law to find loops (and hence equations) that,
+  together, \textbf{covers all components}
 \item
-  If resulting currents is negative,
+  If resulting currents is negative, that means that you drew the
+  current in the wrong direction, or you are charging a battery
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Either way, if the signs are preserved to solve the rest of the
+    equation, you should be fine numerically
+  \item
+    Just update your graph to reflect the actual currents' directions
+  \end{itemize}
 \end{itemize}
 
 \end{document}
