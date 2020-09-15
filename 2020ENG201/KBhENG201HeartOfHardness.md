@@ -97,3 +97,19 @@ For answers to the essential question, of course! [[KBhENG201AlexaD1]]
 
 ## Where "are" we?
 Heart of Heartness
+
+## Objectives
+**Central to KNow**
+
+* Basics of plot and character development
+* Conrad's style and key lit devices
+* History of colonialism in Africa
+
+**Important to Know**
+
+* Engagement with Essential Questions
+* Conrad's background
+
+**Nice to Know**
+
+* Modernism + Heart of Darkness's relationship to lit history
