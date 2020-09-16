@@ -21,5 +21,5 @@ We know that...  $V$ = $\frac{J}{C}$, per [[KBhPHYS201Voltage]], and we also kno
 and, indeed, resistivity of materials are measured in $\Omega \times m$, which also makes sense intuitively.
 
 ### Heat of resistance
-![[Pasted image.png]]
+![[KBe20phys250srcHeatFromResistors.png]]
 
