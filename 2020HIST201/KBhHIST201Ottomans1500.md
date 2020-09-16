@@ -51,6 +51,6 @@ Gelvin, Chapter 3
         * Possible for several WE to exist (Ottoman, Safavid, Habsbug, China)
         * Spread through millitary conquest or threatening thereof
         * Self-sustaining and independent
-        * 
+        * Each equivalent to the other #why
     * Late 1500s-now: "world empires => "modern world system"
 * 
