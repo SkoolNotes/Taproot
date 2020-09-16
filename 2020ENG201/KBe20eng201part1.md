@@ -79,5 +79,9 @@ source: KBhENG201HeartOfHardness
 	- Painting
 	- philanthropy
 	- Saints
+	- Devil/God knows
+		- Seen as blasphemy during the time
+	- River has/is a devil/god
+	- Devils of stuff that compel the 
 
 ---

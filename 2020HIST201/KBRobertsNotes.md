@@ -86,7 +86,10 @@ Best
 
 ### Qing Advice Activity
 
- - 
+```
+“Yet it was not the coming of the European which ended the great period of Mughal empire; that was merely coincidental, though it was important that newcomers were there to reap the advantages. The diversity of the subcontinent and the failure of its rulers to find ways to tap indigenous popular loyalty are probably the main explanation. India remained a continent of exploitative ruling elites and productive peasants upon whom they battened.”
+What advice might Kangxi and Qianlong of the Qing Empire have given to the late Mughals (Shah Jahan, Aurangzeb) to address these problems?
+```
 
 
 
