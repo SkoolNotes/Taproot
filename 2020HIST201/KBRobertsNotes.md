@@ -49,7 +49,7 @@ Centralized systems tend to do worse -- harder to communcate, allocate resources
 
 People are less likely to revolt if you leave them be, ish. 
 
-
+As for rival lords, 
 
 
 
