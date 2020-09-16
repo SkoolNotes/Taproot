@@ -25,3 +25,6 @@ See [[KBhHIST201OttomansFall1500s]]
 ## CN 09162020
 
 #disorganized
+
+Gelvin, Chapter 3
+
