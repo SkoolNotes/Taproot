@@ -182,7 +182,9 @@ See {[}{[}KBhPHYS201Current{]}{]}
 \hypertarget{resistance}{%
 \subsubsection{Resistance}\label{resistance}}
 
-Resistance is a measure of the pushback of current.
+Resistance is a measure of the restriction of electron flow (and hence
+decrease of voltage --- the pressure of electrons), for instance, a
+lovely resistor.
 
 {[}{[}KBhPHYS201Resistance{]}{]} Resistance
 
@@ -193,9 +195,9 @@ Rule of thumb:
   \emph{current does change when resistors are parallel, current does
   not change when resistors are in sequence.}
 \item
-  \emph{voltage splits in half when encountering a parallel circut,
+  \emph{voltage splits in half when encountering a parallel circuit,
   current splits, but not in half, based on the capacitance on each of
-  the parallel circuts..}
+  the parallel circuits.}
 \item
   Multiples battries can't be solved with the combined resistor method
 \item

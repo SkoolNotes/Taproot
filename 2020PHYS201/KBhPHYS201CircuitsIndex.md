@@ -13,14 +13,14 @@ Current is a measure for the flow of electrons. Think about it as "how much wate
 See [[KBhPHYS201Current]]
 
 ### Resistance
-Resistance is a measure of the pushback of current.
+Resistance is a measure of the restriction of electron flow (and hence decrease of voltage — the pressure of electrons), for instance, a lovely resistor.
 
 [[KBhPHYS201Resistance]] Resistance 
 
 Rule of thumb: 
 
 - *current does change when resistors are parallel, current does not change when resistors are in sequence.*
-- *voltage splits in half when encountering a parallel circut, current splits, but not in half, based on the capacitance on each of the parallel circuts..*
+- *voltage splits in half when encountering a parallel circuit, current splits, but not in half, based on the capacitance on each of the parallel circuits.*
 
 * Multiples battries can't be solved with the combined resistor method
 * So, first guess the current flow

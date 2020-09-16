@@ -8,10 +8,6 @@ course: PHYS201
 ---
 
 # Resistance
-
-Resistance roughly measures how much pressure against current — electron flow there is in a conductor.
-
-## Resistance
 So, let's figure out resistance.
 
 We know that...  $V$ = $\frac{J}{C}$, per [[KBhPHYS201Voltage]], and we also know that resistance would equal a unit $\frac{Vs}{c}$ given that $I = \frac{C}{s} = \frac{\Delta V}{Resistance}$. Plugging in the definition of voltage, we get that resistance is measured in $\frac{Js}{C^2}$. We call this unit Ohms, or $\Omega$.
