@@ -54,4 +54,4 @@ Gelvin, Chapter 3
         * Each equivalent to the other #why
             * CLAIM: "no empire was tech. superior to any other. Nor was empire organized in a manner that gave it particular advantage over any other."
     * Late 1500s-now: "world empires => "modern world system"
-* 
+    * "Politically fragmented but economically united" 
