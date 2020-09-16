@@ -59,6 +59,10 @@ source: KBhENG201HeartOfHardness
 		- blindfold - don't know whats going into
 		- torch to civilize the natives
 	- She's a woman?
+		- The position of a european women
+		- He thinks they should be kept ignorant of the situation and of all the darkness in the world
+		- Women bring light but are kept ignorant of the darkness?
+		- The company is willfully blinding itself to the 
 	- darkness -> torchlight -> makes her sinister (light reflecting on her face) although she was originally stately
 	- Seems sinister to an outsider, but the woman doesn't think she's sinister
 	- Acting as a beacon to other people, blindly leading 
