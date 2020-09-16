@@ -17,5 +17,6 @@ source: #index
 	- Frame based story
 	- Narrator disagrees with Marlow?
 	- Past tense
+	- Marlow has two modes: one that's dreamy and abstract for describing the nature and the blacks, while the other is normal-ish for talking to whites.
 
 ---
