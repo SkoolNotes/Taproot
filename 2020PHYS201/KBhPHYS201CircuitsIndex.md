@@ -20,7 +20,7 @@ Resistance is a measure of the pushback of current.
 Rule of thumb: 
 
 - *current does change when resistors are parallel, current does not change when resistors are in sequence.*
-- *voltage does not change when resistors are parallel, current does not change when resistors are in sequence.*
+- *voltage splits in half when encountering a parallel circut, current splits, but not in half, based on the capacitance on each of the parallel circuts..*
 
 * Multiples battries can't be solved with the combined resistor method
 * So, first guess the current flow

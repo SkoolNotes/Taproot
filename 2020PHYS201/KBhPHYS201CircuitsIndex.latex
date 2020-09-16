@@ -193,8 +193,9 @@ Rule of thumb:
   \emph{current does change when resistors are parallel, current does
   not change when resistors are in sequence.}
 \item
-  \emph{voltage does not change when resistors are parallel, current
-  does not change when resistors are in sequence.}
+  \emph{voltage splits in half when encountering a parallel circut,
+  current splits, but not in half, based on the capacitance on each of
+  the parallel circuts..}
 \item
   Multiples battries can't be solved with the combined resistor method
 \item
