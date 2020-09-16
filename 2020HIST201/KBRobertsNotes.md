@@ -60,6 +60,9 @@ If you are decentralized, and allow each region to keep its culture, they will p
 
 ## Emperor Activity 
 
+Worst
+ |
+Best
 
  - Shah Jahan
 	 - Removed religious tolerance
@@ -67,7 +70,6 @@ If you are decentralized, and allow each region to keep its culture, they will p
 	 - Way to much money in court 
 - Akbar 
 	- Stabilized the regime 
-	- 
 
 
 

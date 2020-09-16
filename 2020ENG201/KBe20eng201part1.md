@@ -25,6 +25,7 @@ source: KBhENG201HeartOfHardness
 	- Jumpy narrative
 		- Doesn't always distinguish between thoughts and events
 		- Passage of time isn't clear
+		- Fog
 - Racism
 	- So ingrained in the characters and society in the book that it feels natural in the context of the book, but when talking about it in our social context the whole thing feels very racist
 
