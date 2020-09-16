@@ -16,7 +16,7 @@ source: #index
 
 1500 new age was beginning 
 
-
+Europenaes became the "Masters" of the world 
 
 
 
