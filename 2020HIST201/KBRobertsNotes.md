@@ -25,7 +25,8 @@ Created the theme of unity in history for the last two or three centuries
 > a great change in Europe was the staring point of modern history
 
 
-
+- Europe | why it hit different 
+	- 
 
 
 
