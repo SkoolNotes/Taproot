@@ -31,6 +31,8 @@ Europe | why it hit different
 	- Wow, I am unbelievably tired. I need to get more sleep.
 
 
+Freewrite: uhoh....
+
 
 
 
