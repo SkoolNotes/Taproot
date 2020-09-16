@@ -7,6 +7,12 @@ course: PHYS201
 
 # Circuits
 
+## Current
+
+See [[KBhPHYS201Current]]
+
+## Resistance
+
 In them, flows [[KBhPHYS201Resistance]] Resistance and Current
 
 #disorganized, and split [[KBhPHYS201Resistance]] Resistance and Current
