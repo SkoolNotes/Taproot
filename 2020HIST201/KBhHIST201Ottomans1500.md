@@ -35,15 +35,15 @@ Gelvin, Chapter 3
     * Rulers needed ways for rule legitimization  => "Routinization of Chrisma"
         * Finding new means to find new means to find authorities => Could not use expansion to assert authority anymore 
         * Leveraged shiny palaces and overcomplicated rituals
-* Claims of why inflation happened:
-    * Demographic expansion => Population growth induced 
-        * More people
-        * Post-black-death
-    * Dependence aforementioned in and of itself was reason for inflation
-        * States spent a large amount of money
-        * Kept debasing currencies, causing inflation 
-        * Resulting in the Vicious Cycle
-            * Debasement
-            * Governments see debasement, and debase further to recouperate
-    * [[KBhHIST201ProblemsWithSilver]] Problems with Silver, too!
+    * Claims of why inflation happened:
+        * Demographic expansion => Population growth induced 
+            * More people
+            * Post-black-death
+        * Dependence aforementioned in and of itself was reason for inflation
+            * States spent a large amount of money
+            * Kept debasing currencies, causing inflation 
+            * Resulting in the Vicious Cycle
+                * Debasement
+                * Governments see debasement, and debase further to recouperate
+        * [[KBhHIST201ProblemsWithSilver]] Problems with Silver, too!
 * 
