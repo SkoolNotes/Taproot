@@ -40,6 +40,4 @@ Exr0n's Flows
 ## Amino Acids
 #disorganized
 
-H-O-C: Alcahol Group
-C=O: Carboneel
-(H-O-C=O) Carboxylic acid + Single Carbon Backbone +  Amine
+[[KBhBIO101AminoAcids]]

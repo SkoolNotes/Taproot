@@ -51,7 +51,11 @@ source: KBhENG201HeartOfHardness
 	- Pioneer into the heart of darkness
 	- Mostly heard about through rumors
 - > Painting
-	- 
+	- Impressionist? Not too modern or surreal but not too many things going on at once
+	- European expansion into africa
+		- Blindfolded and carrying a torch into the darkness
+		- blindfold - don't know whats going into
+		- torch to civilize the natives
 - > Religious Vocab
 
 ---

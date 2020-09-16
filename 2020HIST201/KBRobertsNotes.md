@@ -62,6 +62,7 @@ If you are decentralized, and allow each region to keep its culture, they will p
 
 Worst
 --|--
+
 Best
 
 - Aurangzeb
@@ -79,6 +80,9 @@ Best
 	 
 - Akbar 
 	- Stabilized the regime 
+	- Let Hindus rule with him
+	- Promoted religious tolerance
+	- 
 
 
 
