@@ -41,4 +41,6 @@ Gelvin, Chapter 3
         * Post-black-death
     * Dependence aforementioned in and of itself was reason for inflation
         * States spent a large amount of money
-        * Kept debasing 
+        * Kept debasing currencies, causing inflation 
+        * Resulting in the Vicious Cycle
+            * 
