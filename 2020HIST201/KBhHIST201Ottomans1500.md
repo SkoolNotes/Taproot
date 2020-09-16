@@ -57,3 +57,4 @@ Gelvin, Chapter 3
         * "Politically fragmented but economically united" 
         * Modern world spread influence by bringing outlying districts into a single economic structure
         * Spread and grown through competition, where there are winners and loosers
+* Argument: "how Europe became the core and others became the priperary: winners are in the middle, and others who got pulled in are the loosers
