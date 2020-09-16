@@ -27,5 +27,6 @@ source: KBHistoryMasterIndex
 		2. Claims
 		3. key points
 	4. Write summary phrases for paragraphs
+	5. Skip things you don't need to read (if you already know about it)
 
 ---

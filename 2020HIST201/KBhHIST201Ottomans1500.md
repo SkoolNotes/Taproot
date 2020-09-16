@@ -43,4 +43,3 @@ Gelvin, Chapter 3
         * States spent a large amount of money
         * Kept debasing currencies, causing inflation 
         * Resulting in the Vicious Cycle
-            * 
