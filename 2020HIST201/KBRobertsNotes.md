@@ -61,21 +61,21 @@ If you are decentralized, and allow each region to keep its culture, they will p
 ## Emperor Activity 
 
 Worst
- |
+--|--
 Best
 
 - Aurangzeb
 	- Absolute power
 	- Super religious
-	- Very distresfull
-	- Removed religois toleration 
-	- Destoyed a bunch of hindu temples 
+	- Very distressful
+	- Removed religious toleration 
+	- Destroyed a bunch of Hindu temples 
 	
 - Shah Jahan
 	 - Removed religious tolerance
 	 - Didn't do a lot 
 	 - Way to much money in court 
-	 - Alot of taxes 
+	 - A *lot* of taxes 
 	 
 - Akbar 
 	- Stabilized the regime 

@@ -41,4 +41,9 @@ source: KBhENG201HeartOfHardness
 ## Return to Africa = de-evolution
 - Pg. 24 "i felt i was becoming scinetifically interesting"
 
+# Breakouts again
+- > What do we know about Kurtz
+- > Painting
+- > Religous Vocab
+
 ---
