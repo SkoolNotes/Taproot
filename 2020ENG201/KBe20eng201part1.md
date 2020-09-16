@@ -6,6 +6,7 @@ source: KBhENG201HeartOfHardness
 ---
 #flo
 
+# Breakouts
 - > What is the heart of darkness?
 	- africa, congo river
 	- savage = darkness
@@ -21,5 +22,8 @@ source: KBhENG201HeartOfHardness
 	- Marlow has two modes: one that's dreamy and abstract for describing the nature and the blacks, while the other is normal-ish for talking to whites.
 - Racism
 	- So ingrained in the characters and society in the book that it feels natural in the context of the book, but when talking about it in our social context the whole thing feels very racist
+
+# Discussion
+## Map
 
 ---
