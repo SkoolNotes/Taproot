@@ -31,7 +31,7 @@ Europe | why it hit different
 	- Wow, I am unbelievably tired. I need to get more sleep.
 
 
-Freewrite: uhoh....
+## Freewrite: uhoh....
 ```
 It’s 1600 and you are a young warlord somewhere in Central Asia. After a long and bloody set of wars, you’ve united all the tribes of your own linguistic culture into a great army -- gaining oaths of loyalty from the various chieftains. 
 Last year, you led this army in a campaign that successfully conquered five border regions: two of these border regions speak the same language as your people, but have a different religion. Two regions share your religion, but are from a different linguistic/cultural group. One region has both a different religion and a different language.
@@ -58,7 +58,7 @@ As for rival lords, the question is will your army be less powerful if you take 
 If you are decentralized, and allow each region to keep its culture, they will probably want to keep you over a new ruler which could force them to change. This will aid you in keeping control. 
 
 
-
+## Sma
 
 
 

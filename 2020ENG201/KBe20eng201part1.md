@@ -15,6 +15,8 @@ source: KBhENG201HeartOfHardness
 	- Phrenology, head and then mental state changes
 		- implies Africa is so horrible that its traumatic
 		- size of skull used for racism
+	- Described in parts instead of individuals
+		- Not a specific human, but rather masses of limbs
 - > What narrative techniques does Conrad use to distance readers from the plot?
 	- Frame based story
 	- Narrator disagrees with Marlow?
