@@ -6,7 +6,7 @@ course: PHYS201
 ---
 
 # Circuits
-## First, some key vocab:
+## Some key vocab...
 ### Current
 Current is a measure for the flow of electrons. Think about it as "how much water goes through this arbitrary box on this river per second".
 
