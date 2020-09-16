@@ -68,6 +68,8 @@ Best
 	 - Removed religious tolerance
 	 - Didn't do a lot 
 	 - Way to much money in court 
+- Aurangzeb
+	- 
 - Akbar 
 	- Stabilized the regime 
 

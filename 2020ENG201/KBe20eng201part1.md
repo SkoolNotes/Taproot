@@ -26,6 +26,8 @@ source: KBhENG201HeartOfHardness
 		- Doesn't always distinguish between thoughts and events
 		- Passage of time isn't clear
 		- Fog
+	- No names other than Kurtz
+		- descriptions, but no other actual names
 - Racism
 	- So ingrained in the characters and society in the book that it feels natural in the context of the book, but when talking about it in our social context the whole thing feels very racist
 

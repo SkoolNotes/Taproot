@@ -36,3 +36,5 @@ Exr0n's Flows
 [[20bio201floD3]]
 
 * Dylan's crappy notes [[KBd20200911notes]]
+
+## Amino Acids
