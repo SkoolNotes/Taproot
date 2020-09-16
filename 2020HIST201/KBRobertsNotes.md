@@ -64,17 +64,19 @@ Worst
  |
 Best
 
- - Shah Jahan
-	 - Removed religious tolerance
-	 - Didn't do a lot 
-	 - Way to much money in court 
-	 - Alot of taxes 
 - Aurangzeb
 	- Absolute power
 	- Super religious
 	- Very distresfull
 	- Removed religois toleration 
-	- Destoyed 
+	- Destoyed a bunch of hindu temples 
+	
+- Shah Jahan
+	 - Removed religious tolerance
+	 - Didn't do a lot 
+	 - Way to much money in court 
+	 - Alot of taxes 
+	 
 - Akbar 
 	- Stabilized the regime 
 
