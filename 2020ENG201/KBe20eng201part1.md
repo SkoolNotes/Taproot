@@ -15,6 +15,6 @@ source: #index
 		- size of skull used for racism
 - > What narrative techniques does Conrad use to distance readers from the plot?
 	- Frame based story
-	- 
+	- Narrorator disagrees with 
 
 ---

@@ -40,21 +40,21 @@ Your empire is still surrounded by enemies, some of whom share the religion and 
 Whose advice do you follow? What are the benefits AND risks of your chosen approach?
 ```
 
-Decentralization. Assuming that the enemies which surround you are not the enemies of those you conquered, letting them be indipendant will make them less likely to want to crush you. 
+Decentralization. Assuming that the enemies which surround you are not the enemies of those you conquered, letting them be independent will make them less likely to want to crush you. 
 
-The value of indivudual cultures an tech is lost when you completly change their culture...?
+The value of individual cultures an tech is lost when you completely change their culture...?
 
 
-Centralized systems tend to do worse -- harder to communcate, allocate resources, get things done (becuase more beurocracy)
+Centralized systems tend to do worse -- harder to communicate allocate resources, get things done (because more bureaucracy
 
-People are less likely to revolt if you leave them be, ish. 
+People are less likely to revolt if you leave them be, ish 
 
 More cultures = more tries at success. One innovation from one region (or standpoint of interacting with the world) will help everyone. Having more aproches makes these innovations more likely. 
 
 As for rival lords, the question is will your army be less powerful if you take the decentralized aproach.
 
 
-
+If you are decentralized, and allow each region to keep its culture, they will probably want to keep you over a new ruler which could force them to change. This will aid you in keeping control. 
 
 
 
