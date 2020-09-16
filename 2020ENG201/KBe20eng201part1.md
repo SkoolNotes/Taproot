@@ -48,6 +48,8 @@ source: KBhENG201HeartOfHardness
 	- Holds power and strength
 	- In charge of a trading post
 	- Local figurehead
+	- Pioneer into the heart of darkness
+	- Mostly heard about through rumors
 - > Painting
 - > Religious Vocab
 

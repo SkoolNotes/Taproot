@@ -38,5 +38,7 @@ Exr0n's Flows
 * Dylan's crappy notes [[KBd20200911notes]]
 
 ## Amino Acids
+#disorganized
+
 H-O-C: Alcahol Group
-C=O: 
+H-O-C=O: Carboxylic acid + Amine
