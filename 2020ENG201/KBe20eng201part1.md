@@ -85,5 +85,6 @@ source: KBhENG201HeartOfHardness
 	- Devils of stuff that compel the whites
 	- Inferno
 	- River as snake
+	- Other small references 
 
 ---
