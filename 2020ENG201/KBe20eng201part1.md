@@ -6,6 +6,7 @@ source: #index
 ---
 
 - > What is the heart of darkness?
-	- 
+	- africa, congo river
+	- savage = darkness
 
 ---

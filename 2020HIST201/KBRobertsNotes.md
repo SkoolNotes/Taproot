@@ -45,6 +45,10 @@ Decentralization. Assuming that the enemies which surround you are not the enemi
 The value of indivudual cultures an tech is lost when you completly change their culture...?
 
 
+Centralized systems tend to do worse -- harder to communcate, allocate resources, get things done (becuase more beurocracy)
+
+People are less likely to revolt if you leave them be, ish. 
+
 
 
 
