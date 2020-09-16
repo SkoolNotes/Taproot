@@ -51,7 +51,9 @@ People are less likely to revolt if you leave them be, ish.
 
 More cultures = more tries at success. One innovation from one region (or standpoint of interacting with the world) will help everyone. Having more aproches makes these innovations more likely. 
 
-As for rival lords, 
+As for rival lords, the question is will your army be less powerful if you take the decentralized aproach.
+
+
 
 
 

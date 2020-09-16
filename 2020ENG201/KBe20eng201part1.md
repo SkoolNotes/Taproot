@@ -13,5 +13,8 @@ source: #index
 	- Phrenology, head and then mental state changes
 		- implies Africa is so horrible that its traumatic
 		- size of skull used for racism
+- > What narrative techniques does Conrad use to distance readers from the plot?
+	- Frame based story
+	- 
 
 ---
