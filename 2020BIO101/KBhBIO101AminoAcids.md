@@ -20,3 +20,6 @@ Here's an amino acid
 The White parts => "Backbone" aforementioned
 
 The Orange parts => "sidechain"
+
+
+Proteans

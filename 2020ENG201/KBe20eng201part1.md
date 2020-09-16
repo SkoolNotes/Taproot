@@ -68,6 +68,8 @@ source: KBhENG201HeartOfHardness
 		- If he identifies with the painting, why did he paint a woman?
 	- Draped?
 		- Not pants
+		- Statue of liberty
+		- Justice
 - > Religious Vocab
 	- Painting
 	- philanthropy
