@@ -50,7 +50,7 @@ source: KBhENG201HeartOfHardness
 	- Local figurehead
 	- Pioneer into the heart of darkness
 	- Mostly heard about through rumors
-- > Painting
+- > Painting pg. 29-30
 	- Impressionist? Not too modern or surreal but not too many things going on at once
 	- European expansion into africa
 		- Blindfolded and carrying a torch into the darkness
