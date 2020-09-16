@@ -22,4 +22,4 @@ In them, flows [[KBhPHYS201Resistance]] Resistance and Current
     * Just update your graph to reflect the actual currents' directions
     
 ## How to use the lab kit
-
+* 
