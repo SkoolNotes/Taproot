@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ PHYS201 }
+\newcommand{\thelesson}{ Current }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,7 +162,19 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhPHYS201CircuitsIndex}{\tiny\textulf{[[}\textbf{KBhPHYS201CircuitsIndex}\textulf{]]}}}\thinspace
 
+\hypertarget{current}{%
+\section{Current}\label{current}}
 
+Use the variable \(I\), a unit \(\frac{C}{s}\), \(Amps\), to measure
+current. This also equals \(\frac{\Delta V}{Resistance}\). Big
+resistance, little current. Current is measured in a unit
+\(\frac{C}{s}\), which intuitively makes sense --- Current/second is
+kind of like metres\^{}3/second --- it measures, roughly, the ``amount
+of flow''/second.
+
+\definition{Current $I$}{A value measured in unit $\frac{C}{s}$, a.k.a. $Amps$ that measures electron flow}
 
 \end{document}

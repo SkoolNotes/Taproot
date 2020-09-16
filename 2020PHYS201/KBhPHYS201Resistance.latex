@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{ PHYS201 }
-\newcommand{\thelesson}{ Resistance and Current }
+\newcommand{\thelesson}{ Resistance }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -164,27 +164,16 @@
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=KBhPHYS201IntroToElectrostaticsLN}{\tiny\textulf{[[}\textbf{KBhPHYS201IntroToElectrostaticsLN}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhPHYS201CircuitsIndex}{\tiny\textulf{[[}\textbf{KBhPHYS201CircuitsIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{resistance-and-current}{%
-\section{Resistance and Current}\label{resistance-and-current}}
+\hypertarget{resistance}{%
+\section{Resistance}\label{resistance}}
 
 Resistance roughly measures how much pressure against current ---
 electron flow there is in a conductor.
 
-\hypertarget{current}{%
-\subsection{Current}\label{current}}
-
-Use the variable \(I\), a unit \(\frac{C}{s}\), \(Amps\), to measure
-current. This also equals \(\frac{\Delta V}{Resistance}\). Big
-resistance, little current. Current is measured in a unit
-\(\frac{C}{s}\), which intuitively makes sense --- Current/second is
-kind of like metres\^{}3/second --- it measures, roughly, the ``amount
-of flow''/second.
-
-\definition{Current $I$}{A value measured in unit $\frac{C}{s}$, a.k.a. $Amps$ that measures electron flow}
-
-\hypertarget{resistance}{%
-\subsection{Resistance}\label{resistance}}
+\hypertarget{resistance-1}{%
+\subsection{Resistance}\label{resistance-1}}
 
 So, let's figure out resistance.
 

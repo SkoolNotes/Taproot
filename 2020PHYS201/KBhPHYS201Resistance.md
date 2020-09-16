@@ -1,18 +1,15 @@
 ---
-title: Resistance and Current
-source: KBhPHYS201IntroToElectrostaticsLN
+title: Resistance
+source: 
+    - KBhPHYS201IntroToElectrostaticsLN
+    - KBhPHYS201CircuitsIndex
 author: Houjun Liu
 course: PHYS201
 ---
 
-# Resistance and Current
+# Resistance
 
 Resistance roughly measures how much pressure against current — electron flow there is in a conductor.
-
-## Current
-Use the variable $I$, a unit $\frac{C}{s}$, $Amps$, to measure current. This also equals $\frac{\Delta V}{Resistance}$. Big resistance, little current. Current is measured in a unit $\frac{C}{s}$, which intuitively makes sense — Current/second is kind of like metres^3/second — it measures, roughly, the "amount of flow"/second.
-
-\definition{Current $I$}{A value measured in unit $\frac{C}{s}$, a.k.a. $Amps$ that measures electron flow}
 
 ## Resistance
 So, let's figure out resistance.
