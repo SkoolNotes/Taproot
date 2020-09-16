@@ -46,4 +46,8 @@ Gelvin, Chapter 3
                 * Debasement
                 * Governments see debasement, and debase further to recouperate
         * [[KBhHIST201ProblemsWithSilver]] Problems with Silver, too!
+* Transition of "WE" => "MWS"
+    * 1500s World Empires" => division of world by huge empires
+        * 
+    * Late 1500s-now: "world empires => "modern world system"
 * 
