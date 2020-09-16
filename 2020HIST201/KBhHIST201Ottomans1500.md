@@ -34,4 +34,5 @@ Gelvin, Chapter 3
         * #why not silver based inflation
     * Rulers needed ways for rule legitimization  => "Routinization of Chrisma"
         * Finding new means to find new means to find authorities
-        * Could not use 
+        * Could not use expansion to assert authority anymore i
+        * 
