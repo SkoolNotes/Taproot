@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ PHYS201 }
+\newcommand{\thelesson}{ Circuit Calculations }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,7 +162,196 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhPHYS201CircuitsIndex}{\tiny\textulf{[[}\textbf{KBhPHYS201CircuitsIndex}\textulf{]]}}}\thinspace
 
+\hypertarget{calculations-surrounding-a-circuit}{%
+\section{Calculations Surrounding a
+Circuit}\label{calculations-surrounding-a-circuit}}
 
+\hypertarget{resistors-in-different-configurations}{%
+\subsection{Resistors in Different
+configurations}\label{resistors-in-different-configurations}}
+
+\hypertarget{series}{%
+\subsubsection{Series}\label{series}}
+
+If you have two resisters\ldots{}
+
+-----\textbar\textbar\textbar-----\textbar\textbar\textbar-----
+
+With the first having a resistance of \(A\Omega\) and the second
+\(B\Omega\).
+
+The total resistance would simply be \((A+B)\Omega\).
+
+\begin{itemize}
+\tightlist
+\item
+  Same as equivalent of ``electricity!'' go through the first then the
+  second
+\end{itemize}
+
+\#disorganized
+
+\hypertarget{parallel}{%
+\subsubsection{Parallel}\label{parallel}}
+
+Smaller area \textbar-----\textbar\textbar\textbar------ \textbar{}
+Bigger area \textbar===\textbar\textbar\textbar====
+
+\(R_2 = R_1 \times \frac{A_1}{A_2}\)
+
+\(R_{eq} = R_1 \times \frac{A_1}{A_1+A_2}\)
+
+\(\frac{1}{R_{eq}} = \frac{A_1+A_2}{A_1R_1}\)
+
+\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{A_2}{A_1R_1}\)
+
+\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R2}\)
+
+Resistance equation for series :pointup:
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\#disorganized
+
+Calculate resistsance
+
+\hypertarget{calculating-current-in-a-circut.}{%
+\subsection{Calculating Current in a
+Circut.}\label{calculating-current-in-a-circut.}}
+
+\hypertarget{traditional-kickoffss-laws-approach}{%
+\subsubsection{Traditional Kickoff's's Laws
+approach}\label{traditional-kickoffss-laws-approach}}
+
+A circut!
+
+\begin{figure}
+\centering
+\includegraphics{./Screen Shot 2020-09-14 at 10.38.44 AM.png}
+\caption{Screen Shot 2020-09-14 at 10.38.44 AM.png}
+\end{figure}
+
+\hypertarget{kirkoffs-first-law}{%
+\paragraph{Kirkoff's First Law}\label{kirkoffs-first-law}}
+
+\textbf{Sum of voltage in any closed loop should add up to 0}
+
+As in, the sum of all voltage changes from Start =\textgreater{} Start
+will add up to 0.
+
+\hypertarget{kirkoffs-second-law}{%
+\paragraph{Kirkoff's Second law}\label{kirkoffs-second-law}}
+
+\textbf{Net current flowing into a node is 0}
+
+With a current \(i_0\), when it flows into a junction like B, the
+current \(i_0\) splits into \(i_2\) and \(i_3\)
+
+So, to calculate the resistance and current at every point o
+
+START at start
+
+\begin{itemize}
+\tightlist
+\item
+  \(+12\)
+\item
+  \(-I_1*10\) (per \(I = \frac{\Delta V}{resistance}\))
+\item
+  \(-I_2 * 20\)
+\item
+  \(-I_1 * 15\)
+\item
+  \(= 0\)
+\end{itemize}
+
+\(I_1 - I_2 - I_3 = 0\), per Kirerbab's Second Law.
+
+\textbf{Through a resistor, the Current does NOT change, the Voltage
+drops.}
+
+\hypertarget{combine-resistors-method}{%
+\subsubsection{``Combine Resistors''
+Method}\label{combine-resistors-method}}
+
+\begin{figure}
+\centering
+\includegraphics{./Screen Shot 2020-09-14 at 11.02.45 AM.png}
+\caption{Screen Shot 2020-09-14 at 11.02.45 AM.png}
+\end{figure}
+
+\hypertarget{parallel-resistors-as-single-resistors}{%
+\paragraph{Parallel Resistors as Single
+Resistors}\label{parallel-resistors-as-single-resistors}}
+
+Per the previous resisters rules, that
+\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R2}\), we could treat the
+\(20 \Omega\) and \(30 \Omega\) in parallel as a single resistor of
+\(12 \Omega\).
+
+Now the circut becomes even simpler:
+
+\begin{figure}
+\centering
+\includegraphics{./Screen Shot 2020-09-14 at 11.05.49 AM.png}
+\caption{Screen Shot 2020-09-14 at 11.05.49 AM.png}
+\end{figure}
+
+\hypertarget{sequence-resistors-as-single-resistors}{%
+\paragraph{Sequence Resistors as Single
+Resistors}\label{sequence-resistors-as-single-resistors}}
+
+Per the sequence resisters rules, that total resistance is
+\((A+B)\Omega\), we could combine these three resistors as a
+\(37 \Omega\) resistor.
+
+\hypertarget{combined-current}{%
+\paragraph{Combined Current}\label{combined-current}}
+
+We know that \(12V / 37\Omega = 0.324 Amps\) is the current that returns
+to the battery and what the battery starts with, for if we treat the
+circuit as a single resistor, the 12 volts would only be working
+against.
+
+From there, once we have a current for beginning and end, we could work
+our way up backwards by calculating the final voltage.
+
+\begin{itemize}
+\tightlist
+\item
+  Multiples battries can't be solved with the combined resistor method
+\item
+  So, first guess the current flow
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Each batteries' current will flow back to itself
+  \item
+    When currents meet, they will combine
+  \end{itemize}
+\item
+  Use currents identified before + Kirkoff's second law
+\item
+  Use Kirkoff's first law to find loops (and hence equations) that,
+  together, \textbf{covers all components}
+\item
+  If resulting currents is negative, that means that you drew the
+  current in the wrong direction, or you are charging a battery
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Either way, if the signs are preserved to solve the rest of the
+    equation, you should be fine numerically
+  \item
+    Just update your graph to reflect the actual currents' directions
+  \end{itemize}
+\end{itemize}
+
+LED longer leg is positive
 
 \end{document}
