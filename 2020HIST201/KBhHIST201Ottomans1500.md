@@ -33,6 +33,5 @@ Gelvin, Chapter 3
     * Governments used bureaucracies to disempower aristocrats
         * #why not silver based inflation
     * Rulers needed ways for rule legitimization  => "Routinization of Chrisma"
-        * Finding new means to find new means to find authorities
-        * Could not use expansion to assert authority anymore i
+        * Finding new means to find new means to find authorities => Could not use expansion to assert authority anymore 
         * 
