@@ -41,4 +41,5 @@ Exr0n's Flows
 #disorganized
 
 H-O-C: Alcahol Group
-H-O-C=O: Carboxylic acid + Amine
+C=O: Carboneel
+(H-O-C=O) Carboxylic acid + Single Carbon Backbone +  Amine
