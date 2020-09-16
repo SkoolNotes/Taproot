@@ -6,14 +6,13 @@ course: PHYS201
 ---
 
 # Circuits
-
-## Current
-
+## First, some key vocab:
+### Current
+Current is a measure for the flow of electrons. Think about it as "how much water goes through this arbitrary box on this river per second".
 See [[KBhPHYS201Current]]
 
-## Resistance
-
-In them, flows [[KBhPHYS201Resistance]] Resistance and Current
+### Resistance
+[[KBhPHYS201Resistance]] Resistance 
 
 #disorganized, and split [[KBhPHYS201Resistance]] Resistance and Current
 
