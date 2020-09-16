@@ -5,7 +5,6 @@ source: KBHistoryMasterIndex
 author: Houjun Liu
 ---
 
-#disorganized
 
 * 400-750 words
 * 2-3 pages

@@ -21,3 +21,7 @@ See [[KBhHIST201OttomansRise]]
 ## The Fall
 
 See [[KBhHIST201OttomansFall1500s]]
+
+## CN 09162020
+
+#disorganized
