@@ -48,6 +48,9 @@ Gelvin, Chapter 3
         * [[KBhHIST201ProblemsWithSilver]] Problems with Silver, too!
 * Transition of "WE" => "MWS"
     * 1500s World Empires" => division of world by huge empires
+        * Possible for several WE to exist (Ottoman, Safavid, Habsbug, China)
+        * Spread through millitary conquest or threatening thereof
+        * Self-sustaining and independent
         * 
     * Late 1500s-now: "world empires => "modern world system"
 * 
