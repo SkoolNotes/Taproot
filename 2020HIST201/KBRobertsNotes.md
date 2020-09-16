@@ -28,7 +28,7 @@ Created the theme of unity in history for the last two or three centuries
 - Europe | why it hit different 
 	- Wealthiest part of humankind
 	- Massive expansion
-	- 
+	-  
 
 
 
