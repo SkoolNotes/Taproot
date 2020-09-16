@@ -1,11 +1,11 @@
 ---
 title: History Master Index
-author: Houjun Liu
+author: Houjun Liu, Exr0n, Huxley Marvit, Zachary Sayyah
 course: HIST201
 source: #index
 ---
 
-#source
+#ref
 
 # The History Index
 
