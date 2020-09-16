@@ -68,11 +68,13 @@ Best
 	 - Removed religious tolerance
 	 - Didn't do a lot 
 	 - Way to much money in court 
+	 - Alot of taxes 
 - Aurangzeb
 	- Absolute power
 	- Super religious
 	- Very distresfull
-	- Religois toleration 
+	- Removed religois toleration 
+	- Destoyed 
 - Akbar 
 	- Stabilized the regime 
 
