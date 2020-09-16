@@ -16,7 +16,6 @@ source: #index
 
 1500 new age was beginning 
 
-Discoveries 
 
 
 
