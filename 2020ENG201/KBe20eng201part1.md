@@ -57,8 +57,11 @@ source: KBhENG201HeartOfHardness
 		- blindfold - don't know whats going into
 		- torch to civilize the natives
 	- She's a woman?
-		- darkness -> torchlight -> makes her sinister (light reflecting on her face) although she was originally stately
-		- Seems sinister to an outsider, but the woman doesn't think she's sinister
+	- darkness -> torchlight -> makes her sinister (light reflecting on her face) although she was originally stately
+	- Seems sinister to an outsider, but the woman doesn't think she's sinister
+	- Acting as a beacon to other people, blindly leading 
+	- Why did Kurtz paint it?
+		- Kurtz is a beacon?
 - > Religious Vocab
 
 ---
