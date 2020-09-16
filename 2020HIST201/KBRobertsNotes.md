@@ -61,7 +61,13 @@ If you are decentralized, and allow each region to keep its culture, they will p
 ## Emperor Activity 
 
 
-
+ - Shah Jahan
+	 - Removed religious tolerance
+	 - Didn't do a lot 
+	 - Way to much money in court 
+- Akbar 
+	- Stabilized the regime 
+	- 
 
 
 
