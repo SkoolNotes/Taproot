@@ -43,7 +43,12 @@ source: KBhENG201HeartOfHardness
 
 # Breakouts again
 - > What do we know about Kurtz
+	- Highly effective at collecting ivory
+	- Seen as a genius or superhuman
+	- Holds power and strength
+	- In charge of a trading post
+	- Local figurehead
 - > Painting
-- > Religous Vocab
+- > Religious Vocab
 
 ---

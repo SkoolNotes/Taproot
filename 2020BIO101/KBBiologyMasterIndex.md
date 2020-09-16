@@ -38,3 +38,5 @@ Exr0n's Flows
 * Dylan's crappy notes [[KBd20200911notes]]
 
 ## Amino Acids
+H-O-C: Alcahol Group
+C=O: 
