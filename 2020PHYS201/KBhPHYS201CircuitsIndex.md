@@ -21,5 +21,3 @@ In them, flows [[KBhPHYS201Resistance]] Resistance and Current
     * Either way, if the signs are preserved to solve the rest of the equation, you should be fine numerically
     * Just update your graph to reflect the actual currents' directions
     
-## How to use the breadboard
-* 
