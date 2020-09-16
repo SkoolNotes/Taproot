@@ -11,17 +11,16 @@ source: #index
 
 
 # The Penguin 
-(History of the World)
+###### 1500 new age was beginning 
+```
+```
 
-
-1500 new age was beginning 
 
 Europeans became the "Masters" of the world, and unintentionally connected the world
 
 Created the theme of unity in history for the last two or three centuries 
 
 > The age of independent or nearly independent civilizations has come to a close. 
-
 
 
 
