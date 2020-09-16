@@ -34,7 +34,9 @@ Europe | why it hit different
 Freewrite: uhoh....
 
 
+Decentralization. Assuming that the enemies which surround you are not the enemies of those you conquered, letting them be indipendant will make them less likely to want to crush you. 
 
+Takin
 
 
 
