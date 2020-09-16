@@ -28,3 +28,4 @@ See [[KBhHIST201OttomansFall1500s]]
 
 Gelvin, Chapter 3
 
+* Weakened 
