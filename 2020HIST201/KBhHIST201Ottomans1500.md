@@ -52,5 +52,6 @@ Gelvin, Chapter 3
         * Spread through millitary conquest or threatening thereof
         * Self-sustaining and independent
         * Each equivalent to the other #why
+            * CLAIM: "no empire was tech. superior to any other. Nor was empire organized in a manner that gave it particular advantage over any other."
     * Late 1500s-now: "world empires => "modern world system"
 * 
