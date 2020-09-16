@@ -19,5 +19,8 @@ source: KBHistoryMasterIndex
 		- Where are the gaps in the argument?
 		- How does the author define terms?
 	- **This feels like thinking like a sports fan**
+- Doing Readings
+	1. Skim for length, decide what not to read
+	2. 
 
 ---
