@@ -56,6 +56,8 @@ source: KBhENG201HeartOfHardness
 		- Blindfolded and carrying a torch into the darkness
 		- blindfold - don't know whats going into
 		- torch to civilize the natives
+	- She's a woman?
+		- 
 - > Religious Vocab
 
 ---
