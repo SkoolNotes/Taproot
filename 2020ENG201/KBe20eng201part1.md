@@ -18,5 +18,7 @@ source: #index
 	- Narrator disagrees with Marlow?
 	- Past tense
 	- Marlow has two modes: one that's dreamy and abstract for describing the nature and the blacks, while the other is normal-ish for talking to whites.
+- Racism
+	- So engrained in the characters and society in the book that it feels natural in the context of the book, but when talking about it in our social context the whole thing fe
 
 ---
