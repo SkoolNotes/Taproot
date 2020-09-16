@@ -82,6 +82,8 @@ source: KBhENG201HeartOfHardness
 	- Devil/God knows
 		- Seen as blasphemy during the time
 	- River has/is a devil/god
-	- Devils of stuff that compel the 
+	- Devils of stuff that compel the whites
+	- Inferno
+	- River as snake
 
 ---

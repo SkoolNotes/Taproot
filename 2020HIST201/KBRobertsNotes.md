@@ -91,7 +91,7 @@ Best
 What advice might Kangxi and Qianlong of the Qing Empire have given to the late Mughals (Shah Jahan, Aurangzeb) to address these problems?
 ```
 
-
+- Take the ming aproach of 
 
 
 
