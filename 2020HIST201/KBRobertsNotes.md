@@ -16,7 +16,9 @@ source: #index
 
 1500 new age was beginning 
 
-Europeans became the "Masters" of the world, 
+Europeans became the "Masters" of the world, and unintentionally connected the world
+
+Created the theme
 
 
 
