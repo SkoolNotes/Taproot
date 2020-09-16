@@ -58,7 +58,7 @@ As for rival lords, the question is will your army be less powerful if you take 
 If you are decentralized, and allow each region to keep its culture, they will probably want to keep you over a new ruler which could force them to change. This will aid you in keeping control. 
 
 
-## Sma
+## Emperor Activity 
 
 
 
