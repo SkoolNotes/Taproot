@@ -21,6 +21,11 @@ source: KBHistoryMasterIndex
 	- **This feels like thinking like a sports fan**
 - Doing Readings
 	1. Skim for length, decide what not to read
-	2. 
+	2. Get a note taking doc 
+	3. Annotate for
+		1. "Firstly, primarily, secondly, in addition"
+		2. Claims
+		3. key points
+	4. Write summary phrases for paragraphs
 
 ---
