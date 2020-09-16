@@ -70,6 +70,7 @@ source: KBhENG201HeartOfHardness
 		- Not pants
 		- Statue of liberty
 		- Justice
+	- Juxtoposition between light and dark
 - > Religious Vocab
 	- Painting
 	- philanthropy
