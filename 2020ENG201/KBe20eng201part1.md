@@ -10,6 +10,8 @@ source: #index
 	- savage = darkness
 	- anthropermorfised the continent?
 - > Where do we see scientific racism?
-	- Phrenology
+	- Phrenology, head and then mental state changes
+		- implies Africa is so horrible that its traumatic
+		- size of skull used for racism
 
 ---
