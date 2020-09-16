@@ -68,6 +68,7 @@ source: KBhENG201HeartOfHardness
 		- Not pants
 - > Religious Vocab
 	- Painting
-	- philatrophy 
+	- philanthropy
+	- Saints
 
 ---
