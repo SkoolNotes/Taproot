@@ -9,12 +9,14 @@ course: PHYS201
 ## First, some key vocab:
 ### Current
 Current is a measure for the flow of electrons. Think about it as "how much water goes through this arbitrary box on this river per second".
+
 See [[KBhPHYS201Current]]
 
 ### Resistance
+Resistance is a measure of the pushback of current.
+
 [[KBhPHYS201Resistance]] Resistance 
 
-#disorganized, and split [[KBhPHYS201Resistance]] Resistance and Current
 
 * Multiples battries can't be solved with the combined resistor method
 * So, first guess the current flow
