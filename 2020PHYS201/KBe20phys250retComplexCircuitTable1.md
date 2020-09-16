@@ -1,8 +1,8 @@
 ---
-title:  
-course: 
-author: 
-source: #index
+title:  Complex Circuit Thing
+course: 20phys250
+author: Exr0n
+source: exr0n20phys201retIndex
 ---
 
 ```numi
