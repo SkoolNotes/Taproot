@@ -62,7 +62,10 @@ source: KBhENG201HeartOfHardness
 	- Acting as a beacon to other people, blindly leading 
 	- Why did Kurtz paint it?
 		- Kurtz is a beacon?
+		- Why does Kurtz see himself as blindfolded (juxtaposition with other's description)
 		- If he identifies with the painting, why did he paint a woman?
+	- Draped?
+		- Not pants
 - > Religious Vocab
 
 ---
