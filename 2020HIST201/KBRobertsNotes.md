@@ -42,7 +42,9 @@ Whose advice do you follow? What are the benefits AND risks of your chosen appro
 
 Decentralization. Assuming that the enemies which surround you are not the enemies of those you conquered, letting them be indipendant will make them less likely to want to crush you. 
 
-Taking th
+The value of indivudual cultures an tech is lost when you completly change their culture...?
+
+
 
 
 
