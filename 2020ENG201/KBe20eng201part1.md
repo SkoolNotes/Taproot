@@ -49,7 +49,9 @@ source: KBhENG201HeartOfHardness
 	- In charge of a trading post
 	- Local figurehead
 	- Pioneer into the heart of darkness
+	- People are upset that he's so good
 	- Mostly heard about through rumors
+	- Rumored sick
 - > Painting pg. 29-30
 	- Impressionist? Not too modern or surreal but not too many things going on at once
 	- European expansion into africa
