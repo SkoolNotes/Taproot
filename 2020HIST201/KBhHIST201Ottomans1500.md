@@ -38,4 +38,7 @@ Gelvin, Chapter 3
 * Claims of why inflation happened:
     * Demographic expansion => Population growth induced 
         * More people
-        * Post-black-death 
+        * Post-black-death
+    * Dependence aforementioned in and of itself was reason for inflation
+        * States spent a large amount of money
+        * Kept debasing 
