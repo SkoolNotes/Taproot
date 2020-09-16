@@ -25,10 +25,10 @@ Created the theme of unity in history for the last two or three centuries
 > a great change in Europe was the staring point of modern history
 
 
- Europe | why it hit different 
-	- Wealthiest part of humankind
+Europe | why it hit different 
+ - Wealthiest part of humankind
 	- Massive expansion
-	- 
+	- Wow, I am unbelievably tired. I need to get more sleep.
 
 
 
