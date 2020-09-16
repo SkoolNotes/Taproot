@@ -35,6 +35,7 @@ Gelvin, Chapter 3
     * Rulers needed ways for rule legitimization  => "Routinization of Chrisma"
         * Finding new means to find new means to find authorities => Could not use expansion to assert authority anymore 
         * Leveraged shiny palaces and overcomplicated rituals
-* Claims of why inflation happened
-    * Demographic expansion
-        * Population growth induced s  
+* Claims of why inflation happened:
+    * Demographic expansion => Population growth induced 
+        * More people
+        * Post-black-death 
