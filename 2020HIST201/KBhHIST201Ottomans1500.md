@@ -56,5 +56,4 @@ Gelvin, Chapter 3
     * Late 1500s-now: "world empires => "modern world system"
         * "Politically fragmented but economically united" 
         * Modern world spread influence by bringing outlying districts into a single economic structure
-        * Spread and grown through competition
-        * 
+        * Spread and grown through competition, where there are winners and loosers
