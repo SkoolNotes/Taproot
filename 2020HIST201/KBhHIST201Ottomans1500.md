@@ -29,4 +29,5 @@ See [[KBhHIST201OttomansFall1500s]]
 Gelvin, Chapter 3
 
 * Weakened governmental systems caused "17 century crisis" => whole of the world getting Romanitus
-* 
+* "Great Inflation" + the "Price Revolution"
+    * 
