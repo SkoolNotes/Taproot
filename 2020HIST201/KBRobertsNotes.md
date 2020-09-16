@@ -18,7 +18,9 @@ source: #index
 
 Europeans became the "Masters" of the world, and unintentionally connected the world
 
-Created the theme
+Created the theme of unity in history for the last two or three centuries 
+
+
 
 
 
