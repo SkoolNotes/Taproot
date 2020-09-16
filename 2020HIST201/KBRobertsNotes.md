@@ -32,11 +32,17 @@ Europe | why it hit different
 
 
 Freewrite: uhoh....
-
+```
+It’s 1600 and you are a young warlord somewhere in Central Asia. After a long and bloody set of wars, you’ve united all the tribes of your own linguistic culture into a great army -- gaining oaths of loyalty from the various chieftains. 
+Last year, you led this army in a campaign that successfully conquered five border regions: two of these border regions speak the same language as your people, but have a different religion. Two regions share your religion, but are from a different linguistic/cultural group. One region has both a different religion and a different language.
+One of your advisers urges you to adopt a unification policy: you will establish your language and culture as the standard for the whole empire. One advises a decentralized approach: let each region be ruled by a lord of its own language/culture. 
+Your empire is still surrounded by enemies, some of whom share the religion and language of your border regions. Likewise, the era of civil war has only just past: for now, your army is still in control, but rival lords could join in rebellion against you.
+Whose advice do you follow? What are the benefits AND risks of your chosen approach?
+```
 
 Decentralization. Assuming that the enemies which surround you are not the enemies of those you conquered, letting them be indipendant will make them less likely to want to crush you. 
 
-Takin
+Taking th
 
 
 
