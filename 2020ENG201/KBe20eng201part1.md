@@ -67,5 +67,7 @@ source: KBhENG201HeartOfHardness
 	- Draped?
 		- Not pants
 - > Religious Vocab
+	- Painting
+	- philatrophy 
 
 ---
