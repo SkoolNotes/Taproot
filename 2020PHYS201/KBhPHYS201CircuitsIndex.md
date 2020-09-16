@@ -20,4 +20,5 @@ In them, flows [[KBhPHYS201Resistance]] Resistance and Current
 * If resulting currents is negative, that means that you drew the current in the wrong direction, or you are charging a battery
     * Either way, if the signs are preserved to solve the rest of the equation, you should be fine numerically
     * Just update your graph to reflect the actual currents' directions
-    
+
+LED longer leg is positive
