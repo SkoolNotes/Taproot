@@ -1,9 +1,10 @@
 ---
-title:  
-course: 
-author: 
-source: #index
+title:  Heart Of Darkness Part 1 debrief
+course: 20eng201
+author: Exr0n
+source: KBhENG201HeartOfHardness
 ---
+#flo
 
 - > What is the heart of darkness?
 	- africa, congo river
