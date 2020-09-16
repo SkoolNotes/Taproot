@@ -22,4 +22,6 @@ The White parts => "Backbone" aforementioned
 The Orange parts => "sidechain"
 
 
-Proteans
+Proteins formed by dehydrating multiple amino acids together
+
+All cell uses _rybozome_ to force animo acids together to make proteans
