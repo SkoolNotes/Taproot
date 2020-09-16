@@ -43,3 +43,7 @@ Gelvin, Chapter 3
         * States spent a large amount of money
         * Kept debasing currencies, causing inflation 
         * Resulting in the Vicious Cycle
+            * Debasement
+            * Governments see debasement, and debase further to recouperate
+    * [[KBhHIST201ProblemsWithSilver]] Problems with Silver, too!
+* 
