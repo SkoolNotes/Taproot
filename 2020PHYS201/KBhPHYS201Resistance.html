@@ -74,7 +74,7 @@ html {
             <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhPHYS201IntroToElectrostaticsLN"><span><strong>[[</strong></span><strong>KBhPHYS201IntroToElectrostaticsLN</strong><span><strong>]]</strong></span></a></span> <span><a href="http://taproot.shabang.cf/relay?request=KBhPHYS201CircuitsIndex"><span><strong>[[</strong></span><strong>KBhPHYS201CircuitsIndex</strong><span><strong>]]</strong></span></a></span></p>
             <h1 id="resistance">Resistance</h1>
             <p>So, let’s figure out resistance.</p>
-            <p>We know that… <span class="math inline">\(V\)</span> = <span class="math inline">\(\frac{J}{C}\)</span>, per <span>[</span><span>[</span>KBhPHYS201Voltage<span>]</span><span>]</span>, and we also know that resistance would equal a unit <span class="math inline">\(\frac{Vs}{c}\)</span> given that <span class="math inline">\(I = \frac{C}{s} = \frac{\Delta V}{Resistance}\)</span>. Plugging in the definition of voltage, we get that resistance is measured in <span class="math inline">\(\frac{Js}{C^2}\)</span>. We call this unit Ohms, or <span class="math inline">\(\Omega\)</span>.</p>
+            <p>We know that… <span class="math inline">\(V\)</span> = <span class="math inline">\(\frac{J}{C}\)</span>, per <span>[</span><span>[</span>KBhPHYS201Voltage<span>]</span><span>]</span>, and we also know that resistance would equal a unit <span class="math inline">\(\frac{Vs}{c}\)</span> given that <span class="math inline">\(I = \frac{C}{s} = \frac{\Delta V}{Resistance}\)</span> (see <span>[</span><span>[</span>KBhPHYS201Current<span>]</span><span>]</span> Current). Plugging in the definition of voltage, we get that resistance is measured in <span class="math inline">\(\frac{Js}{C^2}\)</span>. We call this unit Ohms, or <span class="math inline">\(\Omega\)</span>.</p>
             <p>Definition <span class="math inline">\(\cdot\)</span> [ <strong>Resistance <span class="math inline">\(\Omega\)</span></strong> <span>A value measured in <span class="math inline">\(\frac{Js}{C^2}\)</span> that measures the resistance to current</span> ] <span><br />
             </span></p>
             <h3 id="calculating-resistance">Calculating resistance</h3>
@@ -83,59 +83,6 @@ html {
             <li><p><span class="math inline">\(Resistance = \frac{L}{A}*ResistivityOfMaterial\)</span> with units <span class="math inline">\(\frac{m}{m^2}(\Omega \times m)\)</span>.</p></li>
             </ul>
             <p>and, indeed, resistivity of materials are measured in <span class="math inline">\(\Omega \times m\)</span>, which also makes sense intuitively.</p>
-            <h2 id="resistors-in-different-configurations">Resistors in Different configurations</h2>
-            <h3 id="series">Series</h3>
-            <p>If you have two resisters…</p>
-            <p>—–—–—–</p>
-            <p>With the first having a resistance of <span class="math inline">\(A\Omega\)</span> and the second <span class="math inline">\(B\Omega\)</span>.</p>
-            <p>The total resistance would simply be <span class="math inline">\((A+B)\Omega\)</span>.</p>
-            <ul>
-            <li><p>Same as equivalent of “electricity!” go through the first then the second</p></li>
-            </ul>
-            <p>#disorganized</p>
-            <h3 id="parallel">Parallel</h3>
-            <p>Smaller area —–—— Bigger area =======</p>
-            <p><span class="math inline">\(R_2 = R_1 \times \frac{A_1}{A_2}\)</span></p>
-            <p><span class="math inline">\(R_{eq} = R_1 \times \frac{A_1}{A_1+A_2}\)</span></p>
-            <p><span class="math inline">\(\frac{1}{R_{eq}} = \frac{A_1+A_2}{A_1R_1}\)</span></p>
-            <p><span class="math inline">\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{A_2}{A_1R_1}\)</span></p>
-            <p><span class="math inline">\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R2}\)</span></p>
-            <p>Resistance equation for series :pointup:</p>
-            <hr />
-            <p>#disorganized</p>
-            <p>Calculate resistsance</p>
-            <h2 id="calculating-current-in-a-circut.">Calculating Current in a Circut.</h2>
-            <h3 id="traditional-kirkoffs-laws-approach">Traditional Kirkoff’s Laws approach</h3>
-            <p>A circut!</p>
-            <p><img src="./Screen Shot 2020-09-14 at 10.38.44 AM.png" alt="image" /></p>
-            <h4 id="kirkoffs-first-law">Kirkoff’s First Law</h4>
-            <p><strong>Sum of voltage in any closed loop should add up to 0</strong></p>
-            <p>As in, the sum of all voltage changes from Start =&gt; Start will add up to 0.</p>
-            <h4 id="kirkoffs-second-law">Kirkoff’s Second law</h4>
-            <p><strong>Net current flowing into a node is 0</strong></p>
-            <p>With a current <span class="math inline">\(i_0\)</span>, when it flows into a junction like B, the current <span class="math inline">\(i_0\)</span> splits into <span class="math inline">\(i_2\)</span> and <span class="math inline">\(i_3\)</span></p>
-            <p>So, to calculate the resistance and current at every point o</p>
-            <p>START at start</p>
-            <ul>
-            <li><p><span class="math inline">\(+12\)</span></p></li>
-            <li><p><span class="math inline">\(-I_1*10\)</span> (per <span class="math inline">\(I = \frac{\Delta V}{resistance}\)</span>)</p></li>
-            <li><p><span class="math inline">\(-I_2 * 20\)</span></p></li>
-            <li><p><span class="math inline">\(-I_1 * 15\)</span></p></li>
-            <li><p><span class="math inline">\(= 0\)</span></p></li>
-            </ul>
-            <p><span class="math inline">\(I_1 - I_2 - I_3 = 0\)</span>, per Kirerbab’s Second Law.</p>
-            <p><strong>Through a resistor, the Current does NOT change, the Voltage drops.</strong></p>
-            <h3 id="combine-resistors-method">“Combine Resistors” Method</h3>
-            <p><img src="./Screen Shot 2020-09-14 at 11.02.45 AM.png" alt="image" /></p>
-            <h4 id="parallel-resistors-as-single-resistors">Parallel Resistors as Single Resistors</h4>
-            <p>Per the previous resisters rules, that <span class="math inline">\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R2}\)</span>, we could treat the <span class="math inline">\(20 \Omega\)</span> and <span class="math inline">\(30 \Omega\)</span> in parallel as a single resistor of <span class="math inline">\(12 \Omega\)</span>.</p>
-            <p>Now the circut becomes even simpler:</p>
-            <p><img src="./Screen Shot 2020-09-14 at 11.05.49 AM.png" alt="image" /></p>
-            <h4 id="sequence-resistors-as-single-resistors">Sequence Resistors as Single Resistors</h4>
-            <p>Per the sequence resisters rules, that total resistance is <span class="math inline">\((A+B)\Omega\)</span>, we could combine these three resistors as a <span class="math inline">\(37 \Omega\)</span> resistor.</p>
-            <h4 id="combined-current">Combined Current</h4>
-            <p>We know that <span class="math inline">\(12V / 37\Omega = 0.324 Amps\)</span> is the current that returns to the battery and what the battery starts with, for if we treat the circuit as a single resistor, the 12 volts would only be working against.</p>
-            <p>From there, once we have a current for beginning and end, we could work our way up backwards by calculating the final voltage.</p>
         </div>
 
         <script>
