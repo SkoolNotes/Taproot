@@ -58,7 +58,7 @@ source: KBhENG201HeartOfHardness
 		- torch to civilize the natives
 	- She's a woman?
 		- darkness -> torchlight -> makes her sinister (light reflecting on her face) although she was originally stately
-		- Seems 
+		- Seems sinister to an outsider, but the woman doesn't think she's sinister
 - > Religious Vocab
 
 ---
