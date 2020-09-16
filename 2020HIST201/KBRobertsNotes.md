@@ -50,16 +50,12 @@ Centralized systems tend to do worse -- harder to communicate allocate resources
 People are less likely to revolt if you leave them be, ish 
 
 More cultures = more tries at success. One innovation from one region (or standpoint of interacting with the world) will help everyone. Having more aproaches makes these innovations more likely. 
+"Human capital?" "cultural capital?"
 
 As for rival lords, the question is will your army be less powerful if you take the decentralized approach
 
 
 If you are decentralized, and allow each region to keep its culture, they will probably want to keep you over a new ruler which could force them to change. This will aid you in keeping control. 
-
-
-Talk points:
-
-- 
 
 
 

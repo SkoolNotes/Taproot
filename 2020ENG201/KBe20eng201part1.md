@@ -26,4 +26,7 @@ source: KBhENG201HeartOfHardness
 # Discussion
 ## Map
 
+## Return to Africa = de-evolution
+- Pg. 24 "i felt i was becoming scinetifically interesting"
+
 ---
