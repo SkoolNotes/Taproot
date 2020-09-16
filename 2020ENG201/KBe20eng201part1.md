@@ -19,6 +19,7 @@ source: KBhENG201HeartOfHardness
 		- Not a specific human, but rather masses of limbs
 - > What narrative techniques does Conrad use to distance readers from the plot?
 	- Frame based story
+		- Modernism (don't know if what we are told is accurate)
 	- Narrator disagrees with Marlow?
 	- Past tense
 	- Marlow has two modes: one that's dreamy and abstract for describing the nature and the blacks, while the other is normal-ish for talking to whites.

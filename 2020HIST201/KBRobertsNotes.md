@@ -69,7 +69,10 @@ Best
 	 - Didn't do a lot 
 	 - Way to much money in court 
 - Aurangzeb
-	- 
+	- Absolute power
+	- Super religious
+	- Very distresfull
+	- Religois toleration 
 - Akbar 
 	- Stabilized the regime 
 
