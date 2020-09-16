@@ -38,7 +38,5 @@ Exr0n's Flows
 * Dylan's crappy notes [[KBd20200911notes]]
 
 ## Amino Acids
-#disorganized
-
-[[KBhBIO101AminoAcids]]
+* [[KBhBIO101AminoAcids]]
 

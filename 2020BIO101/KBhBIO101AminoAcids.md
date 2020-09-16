@@ -1,7 +1,11 @@
 ---
 title: Amino Acid
 source: KBBiologyMasterIndex
+author: Houjun Liu
+course: BIO101
+---
 
+#disorganized
 
 H-O-C: Alcahol Group
 C=O: Carboneel

@@ -62,6 +62,7 @@ source: KBhENG201HeartOfHardness
 	- Acting as a beacon to other people, blindly leading 
 	- Why did Kurtz paint it?
 		- Kurtz is a beacon?
+		- If he identifies with the painting, why did he paint a woman?
 - > Religious Vocab
 
 ---
