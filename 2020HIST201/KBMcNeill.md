@@ -37,7 +37,7 @@ Bunch of names and dates lacking concepts
 |
 |
 
-
+Religious worries started to re-emerge after the renaissance 
 
 
 
