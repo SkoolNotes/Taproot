@@ -27,7 +27,8 @@ diff in advance speed of diff fields
 
 Formula thyme!
 
-
+1. Making alt hypothesis
+2. 
 
 
 
