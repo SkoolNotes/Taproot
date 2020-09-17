@@ -71,6 +71,6 @@ course: HIST201
         * Land grants for millitary services disappeared
         * Abolished devshirme system which selected POW officers
         * Tax farming became allowed
-            * Tax collectors allow to cellect higher taxes and keep the difference
+            * Tax collectors are allowed to pre-paid tax and collect any amount to recouperate
             * 
     
