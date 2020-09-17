@@ -33,7 +33,7 @@ Formula thyme!
 1. (prime?) "recycling the procedure, making sub-hypotheses, or sequential hypotheses..." 
 
 
-
+> "method oriented" rather than 
 
 
 
