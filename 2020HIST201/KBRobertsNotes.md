@@ -62,7 +62,6 @@ If you are decentralized, and allow each region to keep its culture, they will p
 
 Worst
 --|--
-
 Best
 
 - Aurangzeb
@@ -93,6 +92,7 @@ What advice might Kangxi and Qianlong of the Qing Empire have given to the late 
 
 - Take the Ming approach of being the "head of all religions, but belong[ing] to none"
 - "Be more just," says Stephanie.
+
 
 
 
