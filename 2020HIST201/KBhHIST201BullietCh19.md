@@ -16,4 +16,6 @@ course: HIST201
 
 
 * Beginnings
-    * 
+    * Turkish Nomads + Muslim Warriors + Christian Islamic Converts
+    * 3 factors of growth
+        * 
