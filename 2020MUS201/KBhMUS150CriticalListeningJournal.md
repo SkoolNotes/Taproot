@@ -229,4 +229,8 @@ source: KBhMUS150D1
 
 - Trap + Rap
 - Heavy baseline
-- Traditional drum machininig
+- Traditional drum machininigo
+
+**Animal**
+
+- 
