@@ -54,4 +54,9 @@ course: HIST201
 * Reality => Goverment had little actual involvement
     * Local customs prevailed
     * Looked to religous leaders that _is not necsissarily muslim_ for guidance 
-*   
+* Beginnig of problems
+    * [[KBhHIST201ProblemsWithSilver]] Problems with Silver 
+        * Affected landowners
+        * Could not build stronger millitary
+        * Caused the weakening of calvalrymen + increase in reliance on POWs
+        * 
