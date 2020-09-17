@@ -37,3 +37,5 @@ course: HIST201
 * Millitary might
     * Used traditional mounted warriors 
     * Also gained Christian POWs
+        * Lived in barracks and trained all year round
+        * Barred from jobs or marrying
