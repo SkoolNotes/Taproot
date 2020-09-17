@@ -73,5 +73,9 @@ course: HIST201
         * Tax farming became allowed
             * Tax collectors are allowed to pre-paid tax and collect any amount to recouperate
             * Caused local administration to suffer due to the above
+        * Corruption within the government lead them to give power to tax collectors
+            * Causing them to control the incomes and expenses of a regions
+            * Which turns them into large private landowners
+        * 
             
     
