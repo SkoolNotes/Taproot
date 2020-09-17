@@ -59,4 +59,6 @@ Hoy en dia, tenemos technologies para escuchar remotamente musica de alta calida
 
 ¿Comías muchos dulces? No comía muchos dulces, porque sí comía muchos dulces, mi garganta se hincharía. Ahora, no como dulces?
 
-Hacías muchas ejercicos porque gustaba correr. c
+Hacías muchas ejercicos porque gustaba correr. Corría para una hora cada dia. Ahora, tambíen correr mucho.
+
+    
