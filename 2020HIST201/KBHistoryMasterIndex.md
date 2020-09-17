@@ -36,9 +36,10 @@ source: #index
 	* [[KBe20hist201retKennedyEssay]]
 	* [[KBEssay1PlanningAttemp2]] 
     * [[KBdHistMAKennedyOutline]]
-* Gelvin 
+* Reading Flows 
 	* [[KBGelvinCh3]]
 	* [[KBRobertsNotes]]
+	* [[KBMcNeill]]
 ## Meta References
 - [[20hist201refTechniques]]
 
