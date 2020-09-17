@@ -62,4 +62,6 @@ course: HIST201
     * CLAIM: "Religious laws … constrained the ottomans from reforming the tax system"
         * Levied surtaxes
         * Caused rebellions + banditry
-    * POWS took advantage of influence to gain the ability to marry and do business
+    * POWS took advantage of influence to gain the ability to marry and do business, but overall caused deterioation of the qualitiy of the millitary (less professionals, more POWs)
+* 
+    
