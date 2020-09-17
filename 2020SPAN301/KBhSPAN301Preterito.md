@@ -34,3 +34,11 @@ source: KB20200824124831
 * Vestirse - vistió
 * Divertirse - divertió
 
+***
+
+## Imperfecto
+
+* Hacer => Hacía(s/n)
+* Ir => Iba(s/n)
+* Estar => Estaba(s/n)
+* V
