@@ -33,7 +33,7 @@ source: #index
 	- Alb - [[retExr0nMannMingTrade]]
 ## Ottomans
 - [[KBrefOttomanEmpire]]
-- [History Summarized: The Ottoman Empire](https://www.youtube.com/watch?v=SZ8UWobHA3M)
+- [History Summarized: The Ottoman Empire](https://www.youtube.com/watch?v=SZ8UWobHA3M): [[Kbe20hist201floSummarizedOttomanEmpireVideo]]
 * Bulliet 19 
 	* Huxley: [[KBBullietCh19]]
 	* Ottomans: [[KBOttomansMilitary]]
