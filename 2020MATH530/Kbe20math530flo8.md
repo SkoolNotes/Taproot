@@ -7,4 +7,7 @@ source: KBe2020math530floIndex
 
 #flo
 
+# Proof Presentations!
+- [[KBe20math530PremierProofPresentation-export.pdf]]
+
 ---
