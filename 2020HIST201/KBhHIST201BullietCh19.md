@@ -78,4 +78,8 @@ course: HIST201
             * Which turns them into large private landowners
         * Rural disorder also caused new economic opportunities
             * CLAIM: ottoman's lack of control brings other European costal regions to resume originally Ottoman controlled trades
+            * Local farmers shifted growth to cash crops (tobacco, cotton, oil, etc.)
+        * The armies kept deteriorating
+            * Resorted to hiring substitutes
+            * Relied partially 
     
