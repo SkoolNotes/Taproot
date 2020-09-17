@@ -84,4 +84,5 @@ course: HIST201
             * Also relied partially on trained seasonal recruits 
         * Europeans took control of Ottomans' overseas trade "Capitulations" — special trade agreements
             * European domination of Ottoman seaborne trade
-            * Muslim merchants are trading
+            * Muslim merchants are trading at a disadvantage due to this domination
+        * Ottoman statesmen observed the disarray 
