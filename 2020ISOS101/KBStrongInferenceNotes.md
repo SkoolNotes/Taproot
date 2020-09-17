@@ -28,7 +28,9 @@ diff in advance speed of diff fields
 Formula thyme!
 
 1. Making alt hypothesis
-2. 
+2. good experiment, as defined by alt possible outcomes which will exclude hypothesis
+3. carrying out the experiment cleanly to get a clean result
+4. 
 
 
 
