@@ -41,4 +41,8 @@ source: KB20200824124831
 * Hacer => Hacía(s/n)
 * Ir => Iba(s/n)
 * Estar => Estaba(s/n)
-* V
+* Ver => Veía(s/n)
+* Ser => Era(s/n) 
+* Llegar => Llega(s/n)
+* Asistir => Asistía(s/n)
+
