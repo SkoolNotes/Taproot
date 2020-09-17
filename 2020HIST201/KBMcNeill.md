@@ -45,7 +45,7 @@ Bunch of tech increase despite religious wars
 
 Science did not oppose religious beliefs, necessarily 
 
-
+###### Importance of 
 
 
 
