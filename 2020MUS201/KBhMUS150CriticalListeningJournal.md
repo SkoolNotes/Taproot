@@ -221,4 +221,6 @@ source: KBhMUS150D1
 
 **Super Ink Burst**
 
-- Feeling of… 
+- Feeling of… Regional music?
+- Hip hop inspired backgrounds
+- 
