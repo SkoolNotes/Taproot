@@ -31,4 +31,7 @@ source: #index
 - Looked up ideal diet for fifteen year old
 - Protein RDIs were by weight, is it really scalar like that? 
 
+# Problem set + final deliverable
+https://docs.google.com/document/d/1teJ0qt5p0ls0bKx1dIo6nEvqR1wITbAQZcjUkEG45Wo/edit
+
 ---
