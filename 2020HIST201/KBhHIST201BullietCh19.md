@@ -41,3 +41,6 @@ course: HIST201
         * Barred from jobs or marryingLived in barracks and trained all year round
         * Barred from jobs or marrying
         * Learned to use guns to support horseback solders
+* A cosmopolitan empire
+    * Sophisticated language
+    * M
