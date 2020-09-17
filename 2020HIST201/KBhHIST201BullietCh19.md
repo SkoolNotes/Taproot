@@ -43,4 +43,5 @@ course: HIST201
         * Learned to use guns to support horseback solders
 * A cosmopolitan empire
     * Sophisticated language
-    * M
+    * Advanced class system
+    * 
