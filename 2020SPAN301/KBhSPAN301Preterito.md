@@ -57,4 +57,4 @@ Hoy en dia, tenemos technologies para escuchar remotamente musica de alta calida
 
 ***
 
-¿Comías muchos dulces?
+¿Comías muchos dulces? No comía muchos dulces, porque un 
