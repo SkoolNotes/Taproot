@@ -20,5 +20,6 @@ source: #index
 	- Therefore water goes into the beads?
 - Things that would be helpful
 	- What is the concentration of the water in the beads?
+	- What is the actual concentration of sugar? 75g water meaning 75g total solution?
 
 ---
