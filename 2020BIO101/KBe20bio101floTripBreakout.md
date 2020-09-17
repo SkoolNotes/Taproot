@@ -13,5 +13,7 @@ source: #index
 		- cane sugar is a disaccharide
 			- C₁₂H₂₂O₁₁
 - Summarize observational data
+	- Beads shrivel in all except water and sugar
+	- Change in water is minimal
 
 ---
