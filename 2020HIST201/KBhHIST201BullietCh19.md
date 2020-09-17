@@ -47,4 +47,6 @@ course: HIST201
     * "Most powerful and best organized"
         * Advanced land forces aforementioned
         * Heavy military technology
-        * S 
+        * Millitaryistic govermentment?
+            * Cavalrymen admisitered th erural land
+            * Maintained order, collected taxes, and, come summer, fought
