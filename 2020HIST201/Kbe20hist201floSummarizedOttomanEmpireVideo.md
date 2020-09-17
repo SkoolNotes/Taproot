@@ -15,5 +15,7 @@ source: KBHistoryMasterIndex
 - state sanctioned fracturside?
 - Didn't break a church
 - Istanbul comes from greek meaning "to go to the city"
+- Later conquered south
+	- But then portugul went around africa
 
 ---
