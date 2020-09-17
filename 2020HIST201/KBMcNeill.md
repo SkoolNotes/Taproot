@@ -39,7 +39,7 @@ Bunch of names and dates lacking concepts
 
 Religious worries started to re-emerge after the renaissance 
 
-
+Many of the changes that happened to Europe were started (catalyzed?) by religious controversy. 
 
 
 
