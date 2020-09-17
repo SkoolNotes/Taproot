@@ -43,7 +43,7 @@ Wait, so he made a method about how to not follow methods...? hmmm...
 Ah so it's about how we go about doing, and teaching science. Calling it now, the ISOS class will be about how we cannot just view science from a reductionist methodical standpoint? 
 
 
-
+> There is no such thing as proof in science -- because some later alternative explanation may be as good or better -- so that science advances only by disproofs.
 
 
 
