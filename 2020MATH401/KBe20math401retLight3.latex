@@ -168,14 +168,17 @@
 \hypertarget{reading}{%
 \section{Reading}\label{reading}}
 
+\hypertarget{openstax}{%
+\subsection{Openstax}\label{openstax}}
+
 \href{https://openstax.org/books/calculus-volume-1/pages/2-4-continuity}{Link}
 
 \begin{itemize}
 \tightlist
 \item
-  \#define continuity at a point \[
-  \lim_{x\to a}f(x) = f(a)
-  \]
+  \#define continuity at a point
+\item
+  \[ \lim_{x\to a}f(x) = f(a) \]
 
   \begin{itemize}
   \tightlist
@@ -232,9 +235,25 @@
   \item
     Same as definition of continuous, but replace the limit with right
     and left hand limits respectively
-    \href{https://math.libretexts.org/Bookshelves/Calculus/Book\%3A_Calculus_(Apex)/01\%3A_Limits/1.05\%3A_Continuity}{Link}
   \end{itemize}
 \end{itemize}
+
+\hypertarget{libretexts}{%
+\subsection{libretexts}\label{libretexts}}
+
+\href{https://math.libretexts.org/Bookshelves/Calculus/Book\%3A_Calculus_(Apex)/01\%3A_Limits/1.05\%3A_Continuity}{Link}
+- Basically the same thing - Properties of continuous functions (group
+like bits) - \textgreater{} Let 𝑓 and 𝑔 be continuous functions on an
+interval 𝐼 , let 𝑐 be a real number and let 𝑛 be a positive integer. The
+following functions are continuous on 𝐼 . \textgreater{} -
+Sums/Differences : 𝑓±𝑔 \textgreater{} - Constant Multiples : 𝑐⋅𝑓
+\textgreater{} - Products : 𝑓⋅𝑔 \textgreater{} - Quotients : 𝑓/𝑔 (as
+long as 𝑔≠0 on 𝐼 ) \textgreater{} - Powers : 𝑓𝑛 \textgreater{} - Roots :
+\(f(x) = \sqrt[n]{x}\) (if 𝑛 is even then 𝑓≥0 on 𝐼 ; if 𝑛 is odd, then
+true for all values of 𝑓 on 𝐼 .) \textgreater{} - Compositions : Adjust
+the definitions of 𝑓 and 𝑔 to: Let 𝑓 be continuous on 𝐼, where the range
+of 𝑓 on 𝐼 is 𝐽 , and let 𝑔 be continuous on 𝐽. Then 𝑔∘𝑓, i.e., 𝑔(𝑓(𝑥)),
+is continuous on 𝐼. -
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
