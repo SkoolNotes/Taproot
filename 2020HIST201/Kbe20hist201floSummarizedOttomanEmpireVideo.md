@@ -17,5 +17,6 @@ source: KBHistoryMasterIndex
 - Istanbul comes from greek meaning "to go to the city"
 - Later conquered south
 	- But then portugul went around africa
+	- Suleiman also conquered a bunch of stuff
 
 ---
