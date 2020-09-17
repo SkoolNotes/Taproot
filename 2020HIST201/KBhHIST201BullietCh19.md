@@ -89,3 +89,5 @@ course: HIST201
         * "Tulip Craze" => European integration
             * Early sign of destruction shown with the Ottomans' craze on Tulips
             * European cultures integrated into the Ottoman culture — clothing, books, furtinutes
+            * At _gala soirees_, Janissaries revolted, causing the abdication of Sultan Ahmed III
+        * Eventually, Janissary commanders became independent rulers, causing a slip of control  
