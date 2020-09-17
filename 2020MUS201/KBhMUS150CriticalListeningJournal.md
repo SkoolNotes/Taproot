@@ -224,4 +224,9 @@ source: KBhMUS150D1
 - Feeling of… Regional music?
 - Hip hop inspired backgrounds
 - Also, random rap vocals in the background?
-- 
+
+**745**
+
+- Trap + Rap
+- Heavy baseline
+- Traditional drum machininig
