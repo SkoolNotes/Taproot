@@ -43,6 +43,8 @@ Many of the changes that happened to Europe were started (catalyzed?) by religio
 
 Bunch of tech increase despite religious wars
 
+Science did not oppose religious beliefs, necessarily 
+
 
 
 
