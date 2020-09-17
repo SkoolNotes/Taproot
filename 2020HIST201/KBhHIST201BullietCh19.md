@@ -22,4 +22,9 @@ course: HIST201
         * Strategic link between Europe + Asia at the Daranelles strait
         * Creation of army combining Trukish techniques + high tech gunpowder
     * Eventually in 1453  conquerered Constantinople, which ended Byzantine rule + gave a pretty good capital
+    * Schedule of Battlings
+        * Conquered Safavid Empire => 1514
+        * Conquered Egypt => 1516-1517
+    * Eastern frontier => where Safavid was
+    * Southern frontier => red sea 
     * 
