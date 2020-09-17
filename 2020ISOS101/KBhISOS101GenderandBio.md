@@ -20,3 +20,4 @@ author: Houjun Liu
     * Hence, scientific method could fail at nodes where theories previously not accepted or explored are not expanded upon
 * Could either make decisions blind to the context of theory generation and hence a more restricted hypothesis or to be informed by it
 * Bias in theories mode blinded to other possibilities could only be mitigated with a community as a whole
+
