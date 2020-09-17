@@ -85,4 +85,4 @@ course: HIST201
         * Europeans took control of Ottomans' overseas trade "Capitulations" — special trade agreements
             * European domination of Ottoman seaborne trade
             * Muslim merchants are trading at a disadvantage due to this domination
-        * Ottoman statesmen observed the disarray 
+        * Few Ottoman statesmen observed the change, but they are generally disregarded
