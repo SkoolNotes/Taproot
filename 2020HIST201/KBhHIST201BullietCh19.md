@@ -46,4 +46,5 @@ course: HIST201
     * Advanced class system
     * "Most powerful and best organized"
         * Advanced land forces aforementioned
-        * Heavy millitary technology
+        * Heavy military technology
+        * S 
