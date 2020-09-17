@@ -46,7 +46,9 @@ Ah so it's about how we go about doing, and teaching science. Calling it now, th
 > There is no such thing as proof in science -- because some later alternative explanation may be as good or better -- so that science advances only by disproofs.
 
 
+*wait what?*
 
+> Equations and measurements are useful when and only when they are related to proof: but proof or disproof comes first and is in fact strongest when it is absolutely convincing without any quantitative measurement.
 
 
 
