@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Bulliet Chapter 19 }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,10 +162,21 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{bulliet-chapter-19}{%
+\section{Bulliet, Chapter 19}\label{bulliet-chapter-19}}
 
-title: Bulliet Chapter 19 source: KBHistoryMasterIndex author: Houjun
-Liu
+\#disorganized
+
+\begin{itemize}
+\tightlist
+\item
+  Ottoman empire grew from small size
+\item
+  With Syria and Egypt shrinking 16th century, Ottomans became the
+  biggest Muslim empire
+\end{itemize}
 
 \end{document}
