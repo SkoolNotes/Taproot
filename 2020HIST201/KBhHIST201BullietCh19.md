@@ -66,5 +66,6 @@ course: HIST201
 * Declining government, too!
     * Sultans kept to themselves
     * Prevented male relatives from leaving the palace
-    * Females gained larger rule + chief administrators oversaw the actual government **important!**
+    * _Females gained larger rule_ + chief administrators oversaw the actual government **important!**:  CLAIM — sterotipically, muslim culture had fears of woman in politics
+* 
     
