@@ -76,6 +76,6 @@ course: HIST201
         * Corruption within the government lead them to give power to tax collectors
             * Causing them to control the incomes and expenses of a regions
             * Which turns them into large private landowners
-        * 
+        * Rural disorder also caused new economic opportunities
             
     

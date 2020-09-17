@@ -26,5 +26,8 @@ source: #index
 		- Super absorbent polymer: sodium polyacrylate
 			- negatively charged sodium
 	- What is the actual concentration of sugar? 75g water meaning 75g total solution?
+# My Food Data
+- Just said 50 g protein and figured out a diet
+- Looked up ideal diet for fifteen year old
 
 ---
