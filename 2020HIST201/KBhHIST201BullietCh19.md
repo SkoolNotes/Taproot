@@ -51,5 +51,5 @@ course: HIST201
             * Cavalrymen admisitered th erural land
             * Maintained order, collected taxes, and, come summer, fought
 * Model of government => "Taxes help fund military and sultan which provides justice for the people"
-* Reality =>"Raya paid taxes + supported the military"
+* Reality => Goverment had little actual involvement
 * 
