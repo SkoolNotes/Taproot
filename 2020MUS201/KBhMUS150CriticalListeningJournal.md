@@ -217,4 +217,8 @@ source: KBhMUS150D1
 - Precussion Heavy + bassy
 - Effects and creative vocals
 - Heavily filtered base
-- 
+- Syncth accenturated vocals
+
+**Super Ink Burst**
+
+- Feeling of… 
