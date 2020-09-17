@@ -21,14 +21,18 @@ source: #index
 * Watson 
     * [[KB20200825121700]] Hux's Reading
     * [[KBhHIST201Watson]] Sushu's Reading as Presented in Class, by Jack
+## Kennedy
 * Kennedy, Chapter 1
     * Huxley — [[KBKennedyNotes]] 
     * Jack — [[KBhHIST201KennedyCh1]] 
 	* Alb - [[KBe20hist201floKennedyCH1pt1]] and [[retExr0nKennedyCh1Pt2]]
 * Textbook models of History [[KBhHIST201HistModHist]]
+## Ming
 * Mann, Ming
     * Jack — [[KBhHIST201MannMing]]
 	- Alb - [[retExr0nMannMingTrade]]
+## Ottomans
+- [History Summarized: The Ottoman Empire]()
 * Bulliet 19 
 	* Huxley: [[KBBullietCh19]]
 	* Ottomans: [[KBOttomansMilitary]]
