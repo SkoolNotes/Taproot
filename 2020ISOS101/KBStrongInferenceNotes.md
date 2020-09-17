@@ -59,7 +59,7 @@ Ah so it's about how we go about doing, and teaching science. Calling it now, th
 
 
 
-This seems like another reading about inherent human error in the scientific process. 
+This seems like another reading about inherent human error in the scientific process. It provides solutions for fighting bias and error with a method
 
 
 
