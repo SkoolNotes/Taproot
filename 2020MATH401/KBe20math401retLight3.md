@@ -25,5 +25,6 @@ $$
 	- jump discontinuity
 - Continuity from the right and left
 	- Same as definition of continuous, but replace the limit with right and left hand limits respectively
+[Link](https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(Apex)/01%3A_Limits/1.05%3A_Continuity)
 
 ---
