@@ -67,5 +67,5 @@ course: HIST201
     * Sultans kept to themselves
     * Prevented male relatives from leaving the palace
     * _Females gained larger rule_ + chief administrators oversaw the actual government **important!**:  CLAIM — sterotipically, muslim culture had fears of woman in politics
-* 
+    * Original systems of millitary is 
     
