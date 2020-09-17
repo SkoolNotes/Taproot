@@ -15,5 +15,8 @@ source: #index
 - Summarize observational data
 	- Beads shrivel in all except water and sugar
 	- Change in water is minimal
+- Hypothesis
+	- Sugar bonds to each other and does dehydration synthesis? therefore more water
+	- Therefore water goes into the beads?
 
 ---
