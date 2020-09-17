@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 2020MATH401 }
-\newcommand{\thelesson}{ Calculus Index with Nas }
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,18 +162,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\begin{itemize}
-\item
-  \textbf{Concepts and Notation}{[}{[}KB202008251000{]}{]}
-\item
-  \textbf{Introduction}{[}{[}KB202008250950{]}{]}
-\item ~
-  \hypertarget{zacharys-homework_light_3-kb20200916215836}{%
-  \subsection{\texorpdfstring{\textbf{Zachary's Homework\_Light\_3}
-  {[}{[}KB20200916215836{]}{]}}{Zachary's Homework\_Light\_3 {[}{[}KB20200916215836{]}{]}}}\label{zacharys-homework_light_3-kb20200916215836}}
-\end{itemize}
+
 
 \end{document}
