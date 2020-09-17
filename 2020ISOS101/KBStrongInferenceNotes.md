@@ -35,7 +35,7 @@ Formula thyme!
 These are all fair, but the reason why some fields are advancing faster than others cannot be chalked up to this difference in approach. In fact, speed of advancement itself regardless of comparison with other fields can also not be chalked up to this approach 
 
 
-> "method oriented" rather than "problem oriented."
+> "method oriented" rather than "problem oriented." 
 
 
 
