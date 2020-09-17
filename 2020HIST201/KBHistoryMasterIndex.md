@@ -37,6 +37,7 @@ source: #index
 * Bulliet 19 
 	* Huxley: [[KBBullietCh19]]
 	* Ottomans: [[KBOttomansMilitary]]
+	* Jack: [[KBhHIST201BullietCh19]]
 * Essay 1 
     * [[KBhHIST201KennedyStillHoldsUp]]
 	* [[KBe20hist201retKennedyEssay]]
