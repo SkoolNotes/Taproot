@@ -77,5 +77,5 @@ course: HIST201
             * Causing them to control the incomes and expenses of a regions
             * Which turns them into large private landowners
         * Rural disorder also caused new economic opportunities
-            * 
+            * CLAIM: ottoman's lack of control brings other European, trading countries
     
