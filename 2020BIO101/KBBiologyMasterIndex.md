@@ -28,6 +28,7 @@ source: #index
 ## Unsorted
 
 * [[KB20200826090938]] Emergent Properties i
+- [[KBe20bio101floTripBreakout]]
 * Macromolecules 
     * Jack — [[KBhBIO101Macromolecules]]
     * Hux —[[KBMacromelecules]]
