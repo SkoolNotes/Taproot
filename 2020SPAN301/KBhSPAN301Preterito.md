@@ -53,3 +53,4 @@ Alrededor del siglo de 1900s
 
 Hoy en dia, es posible que comunicarse a la larga distanca. Pero, alrededor del siglo de 1900s, no era posible que comunicarse a la laga distanca.
 
+Hoy en dia, tenemos technologies para escuchar musica de alta calidad
