@@ -29,5 +29,6 @@ source: #index
 # My Food Data
 - Just said 46/50 g protein and figured out a diet
 - Looked up ideal diet for fifteen year old
+- Protein RDIs were by weight, is it really scalar like that? 
 
 ---
