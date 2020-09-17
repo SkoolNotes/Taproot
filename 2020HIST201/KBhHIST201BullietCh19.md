@@ -82,6 +82,6 @@ course: HIST201
         * The armies kept deteriorating
             * Resorted to hiring substitutes
             * Also relied partially on trained seasonal recruits 
-        * Europeans took control of Ottomans' overseas trade "Capitulations"
+        * Europeans took control of Ottomans' overseas trade "Capitulations" — special trade agreements
             * European domination of Ottoman seaborne trade
-            * Did not control strategic ports, 
+            * Muslim merchants are trading
