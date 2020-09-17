@@ -31,4 +31,6 @@ course: HIST201
 * (Unsuccessfullyl) tried to fight Venice
     * Initial fight => reduced millitary power + tribunage
     * Finally fell another century later, but due to unrelated reasons
-* 
+* Fough the Porchugueses, too!
+    * Tried to deter porchuguese threats
+    * Left the porchuguese after
