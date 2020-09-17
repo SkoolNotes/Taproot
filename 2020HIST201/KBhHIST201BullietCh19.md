@@ -27,4 +27,5 @@ course: HIST201
         * Conquered Egypt => 1516-1517
     * Eastern frontier => where Safavid was
     * Southern frontier => red sea 
-    * 
+* Seeked control of the Mediterranean
+*  
