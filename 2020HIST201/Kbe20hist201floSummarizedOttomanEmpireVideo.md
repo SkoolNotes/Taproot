@@ -6,6 +6,12 @@ source: KBHistoryMasterIndex
 ---
 #flo 
 
-# 
+# origins
+- Osman 
+	- leader of a tribe
+	- rapid expansion
+- Bayezid doubled empire in a decade
+- Romans vs east separated by constantinople
+- state sanctioned fracturside?
 
 ---
