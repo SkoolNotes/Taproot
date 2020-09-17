@@ -44,4 +44,6 @@ course: HIST201
 * A cosmopolitan empire
     * Sophisticated language
     * Advanced class system
-    * 
+    * "Most powerful and best organized"
+        * Advanced land forces aforementioned
+        * Heavy millitary technology
