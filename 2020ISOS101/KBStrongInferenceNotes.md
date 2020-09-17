@@ -37,7 +37,7 @@ These are all fair, but the reason why some fields are advancing faster than oth
 
 > "method oriented" rather than "problem oriented." 
 
-Wait, so he made a method 
+Wait, so he made a method about how to not follow methods...? hmmm... 
 
 
 
