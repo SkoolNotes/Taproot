@@ -17,7 +17,8 @@ source: #index
 	- Change in water is minimal
 - Hypothesis
 	- Sugar bonds to each other and does dehydration synthesis? therefore more water
-	- Therefore water goes into the beads?
+		- Therefore water goes into the beads?
+	- Polarity of molecules?
 - Things that would be helpful
 	- What is the concentration of the water in the beads?
 	- What is the actual concentration of sugar? 75g water meaning 75g total solution?
