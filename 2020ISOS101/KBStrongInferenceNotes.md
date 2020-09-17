@@ -32,8 +32,10 @@ Formula thyme!
 3. carrying out the experiment cleanly to get a clean result
 1. (prime?) "recycling the procedure, making sub-hypotheses, or sequential hypotheses..." 
 
+These are all fair, but the reason why some fields are advancing faster than others cannot be chalked up to this difference in approach 
 
-> "method oriented" rather than 
+
+> "method oriented" rather than "problem oriented."
 
 
 
