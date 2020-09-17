@@ -10,6 +10,7 @@ source: #index
 - Sugar types
 	- Sucrose is a disaccharide
 		- one glucose and one fructose
-		- 
+		- cane sugar is a disaccharide
+			- C₁₂H₂₂O₁₁
 
 ---
