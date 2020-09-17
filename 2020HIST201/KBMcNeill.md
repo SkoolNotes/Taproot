@@ -14,7 +14,7 @@ source: #index
 
 Main thrust of development: politics.
 
-
+Power was concentrated 
 
 
 
