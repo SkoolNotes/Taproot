@@ -23,6 +23,10 @@ Isn't this mutually exclusive?
 diff in advance speed of diff fields 
 
 
+## The reason why some fields are better than others, supposedly.
+
+Formula thyme!
+
 
 
 
