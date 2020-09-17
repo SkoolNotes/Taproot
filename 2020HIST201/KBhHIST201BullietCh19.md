@@ -72,5 +72,6 @@ course: HIST201
         * Abolished devshirme system which selected POW officers
         * Tax farming became allowed
             * Tax collectors are allowed to pre-paid tax and collect any amount to recouperate
-            * 
+            * Caused local administration to suffer due to the above
+            
     
