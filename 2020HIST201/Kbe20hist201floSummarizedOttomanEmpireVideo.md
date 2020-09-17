@@ -19,5 +19,7 @@ source: KBHistoryMasterIndex
 	- But then portugul went around africa
 	- Suleiman also conquered a bunch of stuff
 - main decline in 1800s
+	- europe teams up and breaks up the empire
+- "rise, peak, long plateu, sharp drop"
 
 ---
