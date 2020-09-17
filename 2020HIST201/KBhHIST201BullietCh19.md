@@ -84,4 +84,4 @@ course: HIST201
             * Also relied partially on trained seasonal recruits 
         * Europeans took control of Ottomans' overseas trade "Capitulations"
             * European domination of Ottoman seaborne trade
-            * Did not control strategic ports
+            * Did not control strategic ports, 
