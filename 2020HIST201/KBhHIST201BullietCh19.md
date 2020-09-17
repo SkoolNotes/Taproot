@@ -33,4 +33,4 @@ course: HIST201
     * Finally fell another century later, but due to unrelated reasons
 * Fough the Porchugueses, too!
     * Tried to deter porchuguese threats
-    * Left the porchuguese after
+    * Sucessfully prevented them from closing in, but ultimately did not conqur into parchugal
