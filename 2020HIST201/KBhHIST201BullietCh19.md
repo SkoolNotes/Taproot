@@ -70,5 +70,7 @@ course: HIST201
     * Original systems is slowly abolished
         * Land grants for millitary services disappeared
         * Abolished devshirme system which selected POW officers
-        * Tax farming 
+        * Tax farming became allowed
+            * Tax collectors allow to cellect higher taxes and keep the difference
+            * 
     
