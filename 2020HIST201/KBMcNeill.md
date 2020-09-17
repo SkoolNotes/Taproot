@@ -31,12 +31,9 @@ Weapons become better and more powerful, organization and resource allocation be
 
 This forced more centralization? 
 
-
-
-
-
-
-
+|
+|
+Bunch of names and dates lacking 
 
 
 
