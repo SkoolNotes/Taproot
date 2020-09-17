@@ -33,7 +33,26 @@ This forced more centralization?
 
 |
 |
-Bunch of names and dates lacking 
+Bunch of names and dates lacking concepts
+|
+|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
