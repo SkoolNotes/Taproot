@@ -28,4 +28,6 @@ course: HIST201
     * Eastern frontier => where Safavid was
     * Southern frontier => red sea 
 * Seeked control of the Mediterranean
-*  
+* Tried to fight Venice
+    * Initial fight => reduced millitary power + tribunage
+    * 
