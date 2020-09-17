@@ -60,3 +60,6 @@ course: HIST201
         * Could not build stronger millitary
         * Caused the weakening of calvalrymen + increase in reliance on POWs
     * CLAIM: "Religious laws … constrained the ottomans from reforming the tax system"
+        * Levied surtaxes
+        * Caused rebellions + banditry
+    * POWS took advantage of influence to gain the ability to marry and do business
