@@ -23,7 +23,7 @@ Each region or so had its own ruler, and was bordered (ish), but they were conne
 
 Bunch of wars fought around religion. 
 
-
+Consolidation "reflected" massive advances in military technology 
 
 
 
