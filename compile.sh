@@ -7,7 +7,7 @@ filetype[org]=org
 changes="$(git status --porcelain | cut -c4- | grep -E '(\.md|\.org)$')"
 for f in ${(@f)changes}; do
     formatname="$filetype[${f:t:e}]"
-    echo "Log for attempt at $(date)" >> recent_errors.txt
+    echo "Log for attempt at $(date)" > recent_errors.txt
     printf "$(date) Converting $f...\r"
     pandoc -f $formatname -t pdf   $f --pdf-engine=xelatex --mathjax -o "${f%.*}.pdf" \
         --template=~/.pandoc/templates/default.latex --resource-path="$f:h" 2>>recent_errors.txt
