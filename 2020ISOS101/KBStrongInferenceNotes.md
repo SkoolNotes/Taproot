@@ -40,7 +40,7 @@ These are all fair, but the reason why some fields are advancing faster than oth
 Wait, so he made a method about how to not follow methods...? hmmm... 
 
 
-
+Ah so it's about how we go about doing, and teaching science. Calling it now, the ISOS class will be about how we cannot just view science from a reductionist methodical standpoint? 
 
 
 
