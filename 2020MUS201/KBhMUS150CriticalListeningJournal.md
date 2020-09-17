@@ -190,12 +190,14 @@ source: KBhMUS150D1
 # 09152020
 
 **Fingerprints**
+
 - Chill vibes with solo loops
 - Simple vocals
 - Simple, acoustic drum sequence
 - Electronic Flute accutrimonts
 
 **Cucumber Water??**
+
 - Drum focused
 - Electronic chiptone as melody
 - Transitioned to rap lyrics, but still set to electro  
@@ -204,6 +206,15 @@ source: KBhMUS150D1
 (That's a remix)
 
 **Crunch + Unfinished**
+
 - 80s drum machines
 - Musical focused background 
 - Background music and beat sequences
+
+# 09172020
+
+**Reassurance**
+- Precussion Heavy + bassy
+- Effects and creative vocals
+- Heavily filtered base
+- 
