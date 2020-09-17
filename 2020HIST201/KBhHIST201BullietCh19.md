@@ -35,4 +35,5 @@ course: HIST201
     * Tried to deter porchuguese threats
     * Sucessfully prevented them from closing in, but ultimately did not conqur into parchugal
 * Millitary might
-    *  
+    * Used traditional mounted warriors 
+    * Also gained Christian POWs
