@@ -21,3 +21,4 @@ course: HIST201
         * Original leader was quite shrewd
         * Strategic link between Europe + Asia at the Daranelles strait
         * Creation of army combining Trukish techniques + high tech gunpowder
+    * Eventually in 1453  conquerered Constantinople, which ended Byzantine rule 
