@@ -32,7 +32,8 @@ source: #index
     * Jack — [[KBhHIST201MannMing]]
 	- Alb - [[retExr0nMannMingTrade]]
 ## Ottomans
-- [History Summarized: The Ottoman Empire]()
+- [[KBrefOttomanEmpire]]
+- [History Summarized: The Ottoman Empire](https://www.youtube.com/watch?v=SZ8UWobHA3M)
 * Bulliet 19 
 	* Huxley: [[KBBullietCh19]]
 	* Ottomans: [[KBOttomansMilitary]]
