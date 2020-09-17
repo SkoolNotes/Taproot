@@ -69,5 +69,6 @@ course: HIST201
     * _Females gained larger rule_ + chief administrators oversaw the actual government **important!**:  CLAIM — sterotipically, muslim culture had fears of woman in politics
     * Original systems is slowly abolished
         * Land grants for millitary services disappeared
-        * Abolished devshirme system 
+        * Abolished devshirme system which selected POW officers
+        * Tax farming 
     
