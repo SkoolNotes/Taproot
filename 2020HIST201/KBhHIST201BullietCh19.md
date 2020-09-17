@@ -86,5 +86,6 @@ course: HIST201
             * European domination of Ottoman seaborne trade
             * Muslim merchants are trading at a disadvantage due to this domination
         * Few Ottoman statesmen observed the change, but they are generally disregarded
-        * "Tulip Craze" => European intergration
+        * "Tulip Craze" => European integration
             * Early sign of destruction shown with the Ottomans' craze on Tulips
+            * European cultures integrated into the Ottoman culture — clothing, books, furtinutes
