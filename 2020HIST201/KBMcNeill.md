@@ -45,8 +45,10 @@ Bunch of tech increase despite religious wars
 
 Science did not oppose religious beliefs, necessarily 
 
-###### Importance of 
+###### Perceived importance of universal agreement decreased 
 
+
+==intellectual pluralism!==
 
 
 
