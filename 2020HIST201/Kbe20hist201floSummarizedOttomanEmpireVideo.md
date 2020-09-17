@@ -18,5 +18,6 @@ source: KBHistoryMasterIndex
 - Later conquered south
 	- But then portugul went around africa
 	- Suleiman also conquered a bunch of stuff
+- main decline in 1800s
 
 ---
