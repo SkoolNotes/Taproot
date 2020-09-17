@@ -21,7 +21,7 @@ source: #index
 	* Huxley's Take: [[KBGenderAndBioISOS]]
 	* Dylan's Take: [[KBdGenderAndBio]]
 * Thoughts on [[Strong Inference highlights 2019.pdf]]
-	* Huxley's Take: [[KB
+	* Huxley's Take: [[KBStrongInferenceNotes]]
 
 
 	
