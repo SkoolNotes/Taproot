@@ -48,7 +48,7 @@ Science did not oppose religious beliefs, necessarily
 ###### Perceived importance of universal agreement decreased 
 
 
-==intellectual pluralism!==
+==intellectual pluralism baby!==
 
 
 
