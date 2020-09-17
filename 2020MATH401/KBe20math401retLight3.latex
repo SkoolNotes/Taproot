@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ 20math401 }
+\newcommand{\thelesson}{ Ret Easy 3 }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,49 +162,78 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBe2020math401index}{\tiny\textulf{[[}\textbf{KBe2020math401index}\textulf{]]}}}\thinspace
 
-\hypertarget{questions}{%
-\subsection{Questions}\label{questions}}
+\hypertarget{reading}{%
+\section{Reading}\label{reading}}
 
-{[}{[}eRefCalcQuestions{]}{]}
+\href{https://openstax.org/books/calculus-volume-1/pages/2-4-continuity}{Link}
 
-\hypertarget{flows}{%
-\subsection{Flows}\label{flows}}
+\begin{itemize}
+\tightlist
+\item
+  \#define continuity at a point \[
+  \lim_{x\to a}f(x) = f(a)
+  \]
 
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Day & Link\tabularnewline
-\midrule
-\endhead
-1 & {[}{[}KBe2020math401flo1{]}{]}\tabularnewline
-2 & {[}{[}KBe2020math401flo2{]}{]}\tabularnewline
-3 & {[}{[}eFloCalcD3{]}{]}\tabularnewline
-5 & {[}{[}KBe20math401flo5{]}{]}\tabularnewline
-\bottomrule
-\end{longtable}
+  \begin{itemize}
+  \tightlist
+  \item
+    To ensure that it is defined, connected on both sides, and doesn't
+    have a random point
+  \item
+    To check for continuity, just check for \(f(a)\),
+    \(\lim_{x\to a}f(x)\), and that they are equal
+  \end{itemize}
+\item
+  Rational functions
 
-\hypertarget{homework}{%
-\subsection{Homework}\label{homework}}
+  \begin{itemize}
+  \tightlist
+  \item
+    Are continuous on their domains
 
-\begin{longtable}[]{@{}rll@{}}
-\toprule
-HW & Due Date & Link\tabularnewline
-\midrule
-\endhead
-0 & 2020-08-27 & {[}{[}KBe2020math401ret0MyIntro{]}{]}\tabularnewline
-1\_1 & 2020-09-01 & {[}{[}RETcalc1\_1.pdf{]}{]}\tabularnewline
-Easy\_1 & 2020-09-03 & {[}{[}eFloCalcD3{]}{]} (continued
-classwork)\tabularnewline
-1\_2 & 2020-09-08 & {[}{[}20math401retHW1\_2.pdf{]}{]}\tabularnewline
-1\_3t & AbiW & {[}{[}KBe20math401ret1\_3t.pdf{]}{]}\tabularnewline
-1\_3 & 2020-09-15 & {[}{[}KBe20math401ret1\_3.pdf{]}{]}\tabularnewline
-Easy\_3 & 2020-09-17 & {[}{[}KBe20math401retLight3{]}{]}\tabularnewline
-\bottomrule
-\end{longtable}
+    \begin{itemize}
+    \tightlist
+    \item
+      Basically anywhere they are defined
+    \end{itemize}
+  \end{itemize}
+\item
+  Discontinuity types
 
-Concepts and Notation \textbar{}
-{[}{[}KBe2020math401refCalcConceptsNotation{]}{]} Introduction
-\textbar{} {[}{[}KBe2020math401flo1{]}{]}
+  \begin{itemize}
+  \tightlist
+  \item
+    Removable discontinuities
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Hole in the graph
+    \end{itemize}
+  \item
+    infinite is continuity
+
+    \begin{itemize}
+    \tightlist
+    \item
+      asymtote
+    \end{itemize}
+  \item
+    jump discontinuity
+  \end{itemize}
+\item
+  Continuity from the right and left
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Same as definition of continuous, but replace the limit with right
+    and left hand limits respectively
+  \end{itemize}
+\end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
