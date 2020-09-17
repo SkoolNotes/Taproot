@@ -81,5 +81,5 @@ course: HIST201
             * Local farmers shifted growth to cash crops (tobacco, cotton, oil, etc.)
         * The armies kept deteriorating
             * Resorted to hiring substitutes
-            * Relied partially 
+            * Also relied partially on trained seasonal recruits 
     
