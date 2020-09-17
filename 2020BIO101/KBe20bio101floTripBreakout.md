@@ -24,7 +24,7 @@ source: #index
 - Things that would be helpful
 	- What is the concentration of the water in the beads?
 		- Super absorbent polymer: sodium polyacrylate
-			- negatively charged 
+			- negatively charged sodium
 	- What is the actual concentration of sugar? 75g water meaning 75g total solution?
 
 ---
