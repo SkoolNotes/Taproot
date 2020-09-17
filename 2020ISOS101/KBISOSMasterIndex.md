@@ -20,6 +20,7 @@ source: #index
 * Thoughts on [[KBGenderandtheBiologicalSciencesHighlights.pdf]]
 	* Huxley's Take: [[KBGenderAndBioISOS]]
 	* Dylan's Take: [[KBdGenderAndBio]]
+* Thoughts on [[
 
 
 
