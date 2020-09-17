@@ -52,4 +52,5 @@ course: HIST201
             * Maintained order, collected taxes, and, come summer, fought
 * Model of government => "Taxes help fund military and sultan which provides justice for the people"
 * Reality => Goverment had little actual involvement
-* 
+    * Local customs prevailed
+    * Looked to religous leaders that _is not necsissarily muslim_ for guidance   
