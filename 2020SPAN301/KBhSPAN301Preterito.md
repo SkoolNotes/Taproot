@@ -55,4 +55,4 @@ Hoy en dia, es posible que comunicarse a la larga distanca. Pero, alrededor del 
 
 Hoy en dia, tenemos technologies para escuchar remotamente musica de alta calidad; pero, alrededor del siglo de 1900s, no teníamos estes techonolgias para escuchar remotament musica de este calidad.
 
-Hoy 
+Hoy en día, nuestros tenefonos hay pantallias táctil. 
