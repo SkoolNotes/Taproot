@@ -47,4 +47,6 @@ source: KB20200824124831
 * Asistir => Asistía(s/n)
 
 
-![Screen Shot 2020-09-17 at 9.27.23 AM.png](/var/folders/4q/b39lr5253fv3rx4vcfvmx7x00000gp/T/TemporaryItems/(A Document Being Saved By screencaptureui 162)/Screen Shot 2020-09-17 at 9.27.23 AM.png)
+Hoy en dia...
+
+Alrededor del siglo de 1900s
