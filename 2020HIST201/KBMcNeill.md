@@ -16,7 +16,7 @@ Main thrust of development: politics.
 
 Power was concentrated 
 
-
+Each region or so had its own ruler, and was bordered (ish), but they were connected by a single center. 
 
 
 
