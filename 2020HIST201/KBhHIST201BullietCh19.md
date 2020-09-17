@@ -12,3 +12,4 @@ course: HIST201
 
 * Ottoman empire grew from small size
 * With Syria and Egypt shrinking 16th century, Ottomans became the biggest Muslim empire
+* Less medieval, and represented more the new age centralized monarchy
