@@ -28,3 +28,12 @@ Each region or so had its own ruler, and was bordered (ish), but they were conne
 
 
 
+
+
+
+
+
+
+
+
+
