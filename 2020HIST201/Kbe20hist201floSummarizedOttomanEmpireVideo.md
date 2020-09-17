@@ -13,5 +13,7 @@ source: KBHistoryMasterIndex
 - Bayezid doubled empire in a decade
 - Romans vs east separated by constantinople
 - state sanctioned fracturside?
+- Didn't break a church
+- Istanbul comes from greek meaning "to go to the city"
 
 ---
