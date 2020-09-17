@@ -59,4 +59,4 @@ course: HIST201
         * Affected landowners
         * Could not build stronger millitary
         * Caused the weakening of calvalrymen + increase in reliance on POWs
-        * 
+    * CLAIM: "Religious laws … constrained the ottomans from reforming the tax system"
