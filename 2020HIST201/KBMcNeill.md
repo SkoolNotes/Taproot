@@ -23,7 +23,11 @@ Each region or so had its own ruler, and was bordered (ish), but they were conne
 
 Bunch of wars fought around religion. 
 
-Consolidation "reflected" massive advances in military technology 
+Consolidation "reflected" massive advances in military technology.
+
+What do they mean by reflected? Like advanced, but they cant say for sure? like happened at the same time, but causation is unclear?
+
+
 
 
 
