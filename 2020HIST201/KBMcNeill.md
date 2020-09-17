@@ -29,7 +29,7 @@ What do they mean by reflected? Like advanced, but they cant say for sure? like 
 
 Weapons become better and more powerful, organization and resource allocation becomes more important 
 
-
+This forced more centralization? 
 
 
 
