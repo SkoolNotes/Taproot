@@ -11,7 +11,9 @@ source: #index
 
 
 
-# Stron
+# Strong Inference 
+
+> Scientists these days tend to keep up a polite fiction that all science is equal
 
 
 
