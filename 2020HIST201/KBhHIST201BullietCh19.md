@@ -63,5 +63,8 @@ course: HIST201
         * Levied surtaxes
         * Caused rebellions + banditry
     * POWS took advantage of influence to gain the ability to marry and do business, but overall caused deterioation of the qualitiy of the millitary (less professionals, more POWs)
-* 
+* Declining government, too!
+    * Sultans kept to themselves
+    * Prevented male relatives from leaving the palace
+    * Females gained larger rule + chief administrators oversaw the actual government **important!**
     
