@@ -133,3 +133,6 @@ Ambiguity and dehumanization of fingers
     * "White Eyes, Hands, etc" => notices the whiteness
     * Dehumanization
     
+* Porchugal invented a faster boat
+* Brits and Franchies and Dutch had more nefarious goals
+* 
