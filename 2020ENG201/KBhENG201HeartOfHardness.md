@@ -136,5 +136,5 @@ Ambiguity and dehumanization of fingers
 * Porchugal invented a faster boat
 * Brits and Franchies and Dutch had more nefarious goal
 
-## Side Tangent: List of Lit Devices
-* 
+  
+  
