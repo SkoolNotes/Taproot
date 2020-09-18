@@ -14,6 +14,7 @@ Either way, this is the are the rules that rules them all:  **through a resistor
 These are the basic rules of circuit calculation: [[KBhPHYS201KirkoffsLaws]]
 
 ## Combining Resistors Method
+Combining resistors is a generalization of the Kirkoff's Laws to makes calculating circuits easier. [[KBhPHYS201CombiningResistors]]
 
 ### Series
 If you have two resisters…
