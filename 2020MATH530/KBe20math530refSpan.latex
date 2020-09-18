@@ -210,8 +210,10 @@ If \(\text{span}(v_1,...,v_m) = V\), then \(v_1, ..., v_m\)
 \begin{quote}
 Suppose \(n\) is a positive integer. Show that
 \((1, 0, ..., 0), (0, 1, 0, ..., 0), ..., (0, ..., 0, 1)\) spans
-\(F^n\). - Basically, if something spans a vector space then linear
-combinations of that
+\(F^n\). - Basically, if a list of vectors spans a vector space then
+linear combinations of those vectors (almost like colloquial polynomials
+of those vectors) can form each vector in the space. - In this case, the
+vector space
 \end{quote}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}

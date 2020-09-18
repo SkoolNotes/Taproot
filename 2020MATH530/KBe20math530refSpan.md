@@ -23,6 +23,7 @@ source:  KBe20math530refVectorSpace
 # Examples
 ## Axler 2.9
 > Suppose $n$ is a positive integer. Show that $(1, 0, ..., 0), (0, 1, 0, ..., 0), ..., (0, ..., 0, 1)$ spans $F^n$.
-- Basically, if something spans a vector space then linear combinations of that 
+- Basically, if a list of vectors spans a vector space then linear combinations of those vectors (almost like colloquial polynomials of those vectors) can form each vector in the space.
+- In this case, the vector space 
 
 ---
