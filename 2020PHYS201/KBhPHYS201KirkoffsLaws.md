@@ -24,5 +24,4 @@ So, to calculate the resistance and current at every point o
 
 $I_1 - I_2 - I_3 = 0$, per Kirerbab's Second Law.
  
- **Through a resistor, the Current does NOT change, the Voltage drops.**
  
