@@ -23,6 +23,6 @@ I don't remember if it was guaranteed to be a subspace, but it must have the ide
 If the above is true, then subspaces are closed under subspace addition. The identity subspace would be the one with only the field additive identity, because there is only one element so the resulting subspace sum has the same number of elements as the other original subspace, and because the identity vector plus any vector of the other subspace will be that other vector by definition.
 
 ## Inverse
-Because each vector in a subspace has an inverse, 
+Because the subspace sum is all of the possible outputs when adding each vector in the two subspaces, if a subspace has two or more unique elements then it's not possible to have an inverse subspace: it would not be possible to create a subspace and force the parings such that the resulting subpsace sum is the degenerate one (${0}$).
 
 ---

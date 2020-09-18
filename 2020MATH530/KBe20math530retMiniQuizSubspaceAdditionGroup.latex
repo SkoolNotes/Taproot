@@ -208,7 +208,11 @@ be that other vector by definition.
 \hypertarget{inverse}{%
 \subsection{Inverse}\label{inverse}}
 
-Because each vector in a subspace has an inverse,
+Because the subspace sum is all of the possible outputs when adding each
+vector in the two subspaces, if a subspace has two or more unique
+elements then it's not possible to have an inverse subspace: it would
+not be possible to create a subspace and force the parings such that the
+resulting subpsace sum is the degenerate one.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
