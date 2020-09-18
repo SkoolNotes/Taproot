@@ -17,4 +17,7 @@ source:  KBe20math530refVectorSpace
 - The span is the smallest containing subspace
 	- > The span of a list of vectors in $V$ is the smallest subspace of $V$ containing all the vectors in the list.
 
+## #definition spans
+> If $\text{span}(v_1,...,v_m) = V$, then $v_1, ..., v_m$ ***spans*** $V$
+
 ---

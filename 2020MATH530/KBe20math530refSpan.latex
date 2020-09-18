@@ -193,6 +193,14 @@ And the span of an empty list \(()\) is \({0}\)
   \end{itemize}
 \end{itemize}
 
+\hypertarget{definition-spans}{%
+\subsection{\#definition spans}\label{definition-spans}}
+
+\begin{quote}
+If \(\text{span}(v_1,...,v_m) = V\), then \(v_1, ..., v_m\)
+\textbf{\emph{spans}} \(V\)
+\end{quote}
+
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}
