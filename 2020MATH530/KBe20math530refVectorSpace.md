@@ -17,6 +17,7 @@ source: KBe2020math530index
 | | |
 |-|-|
 Linear Combination | [[KBe20math530refLinearCombination]]
-Span | [[KBe20math530refSpan]]
+Span | [[KBe20m
+ath530refSpan]]
 
 ---
