@@ -1,3 +1,12 @@
+---
+title: Kirkoff's Laws
+source: KBhPHYS201CircuitCalculations
+author: Houjun Liu
+course: PHYS201
+---
+
+# Kirkoff's Laws
+
 A circut!
 
 ![Screen Shot 2020-09-14 at 10.38.44 AM.png](./Screen Shot 2020-09-14 at 10.38.44 AM.png)
