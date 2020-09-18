@@ -173,7 +173,7 @@ requiring solving \textgreater6x6 matrixes to solve equations quickly.
 Which is hard.
 
 \hypertarget{series}{%
-\subsubsection{Series}\label{series}}
+\subsection{Series}\label{series}}
 
 If you have two resisters\ldots{}
 
@@ -194,7 +194,7 @@ The total resistance would simply be \((A+B)\Omega\).
 \#disorganized
 
 \hypertarget{parallel}{%
-\subsubsection{Parallel}\label{parallel}}
+\subsection{Parallel}\label{parallel}}
 
 Smaller area \textbar-----\textbar\textbar\textbar------ \textbar{}
 Bigger area \textbar===\textbar\textbar\textbar====
@@ -218,7 +218,7 @@ Resistance equation for series :pointup:
 Calculate resistsance
 
 \hypertarget{combine-resistors-method}{%
-\subsubsection{``Combine Resistors''
+\subsection{``Combine Resistors''
 Method}\label{combine-resistors-method}}
 
 \begin{figure}
@@ -228,7 +228,7 @@ Method}\label{combine-resistors-method}}
 \end{figure}
 
 \hypertarget{parallel-resistors-as-single-resistors}{%
-\paragraph{Parallel Resistors as Single
+\subsubsection{Parallel Resistors as Single
 Resistors}\label{parallel-resistors-as-single-resistors}}
 
 Per the previous resisters rules, that
@@ -245,7 +245,7 @@ Now the circut becomes even simpler:
 \end{figure}
 
 \hypertarget{sequence-resistors-as-single-resistors}{%
-\paragraph{Sequence Resistors as Single
+\subsubsection{Sequence Resistors as Single
 Resistors}\label{sequence-resistors-as-single-resistors}}
 
 Per the sequence resisters rules, that total resistance is
@@ -253,7 +253,7 @@ Per the sequence resisters rules, that total resistance is
 \(37 \Omega\) resistor.
 
 \hypertarget{combined-current}{%
-\paragraph{Combined Current}\label{combined-current}}
+\subsubsection{Combined Current}\label{combined-current}}
 
 We know that \(12V / 37\Omega = 0.324 Amps\) is the current that returns
 to the battery and what the battery starts with, for if we treat the

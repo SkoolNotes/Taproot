@@ -8,7 +8,7 @@ course: PHYS201
 # Combining Resistors Method
 The [[KBhPHYS201KirkoffsLaws]] Kirkoff's Laws themselves often requiring solving >6x6 matrixes to solve equations quickly. Which is hard.
 
-### Series
+## Series
 If you have two resisters…
 
 -----|||-----|||--—
@@ -21,7 +21,7 @@ The total resistance would simply be $(A+B)\Omega$.
 
 #disorganized
 
-### Parallel
+## Parallel
 Smaller area |-----|||---—
                     |
 Bigger area  |===|||====
@@ -45,12 +45,12 @@ Resistance equation for series :pointup:
 Calculate resistsance 
 
 
-### "Combine Resistors" Method
+## "Combine Resistors" Method
  
 ![Screen Shot 2020-09-14 at 11.02.45 AM.png](./Screen Shot 2020-09-14 at 11.02.45 AM.png)
 
 
-#### Parallel Resistors as Single Resistors
+### Parallel Resistors as Single Resistors
 
 Per the previous resisters rules, that $\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R2}$,  we could treat the $20 \Omega$ and $30 \Omega$ in parallel as a single resistor of $12 \Omega$.
 
@@ -59,11 +59,11 @@ Now the circut becomes even simpler:
 
 ![Screen Shot 2020-09-14 at 11.05.49 AM.png](./Screen Shot 2020-09-14 at 11.05.49 AM.png)
 
-#### Sequence Resistors as Single Resistors
+### Sequence Resistors as Single Resistors
 
 Per the sequence resisters rules, that total resistance is $(A+B)\Omega$, we could combine these three resistors as a $37 \Omega$ resistor.
 
-#### Combined Current
+### Combined Current
 We know that $12V / 37\Omega = 0.324 Amps$ is the current that returns to the battery and what the battery starts with, for if we treat the circuit as a single resistor, the 12 volts would only be working against.
 
 From there, once we have a current for beginning and end, we could work our way up backwards by calculating the final voltage.

@@ -74,7 +74,7 @@ html {
             <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhPHYS201CircuitCalculations"><span><strong>[[</strong></span><strong>KBhPHYS201CircuitCalculations</strong><span><strong>]]</strong></span></a></span></p>
             <h1 id="combining-resistors-method">Combining Resistors Method</h1>
             <p>The <span>[</span><span>[</span>KBhPHYS201KirkoffsLaws<span>]</span><span>]</span> Kirkoff’s Laws themselves often requiring solving &gt;6x6 matrixes to solve equations quickly. Which is hard.</p>
-            <h3 id="series">Series</h3>
+            <h2 id="series">Series</h2>
             <p>If you have two resisters…</p>
             <p>—–—–—–</p>
             <p>With the first having a resistance of <span class="math inline">\(A\Omega\)</span> and the second <span class="math inline">\(B\Omega\)</span>.</p>
@@ -83,7 +83,7 @@ html {
             <li><p>Same as equivalent of “electricity!” go through the first then the second</p></li>
             </ul>
             <p>#disorganized</p>
-            <h3 id="parallel">Parallel</h3>
+            <h2 id="parallel">Parallel</h2>
             <p>Smaller area —–—— Bigger area =======</p>
             <p><span class="math inline">\(R_2 = R_1 \times \frac{A_1}{A_2}\)</span></p>
             <p><span class="math inline">\(R_{eq} = R_1 \times \frac{A_1}{A_1+A_2}\)</span></p>
@@ -94,15 +94,15 @@ html {
             <hr />
             <p>#disorganized</p>
             <p>Calculate resistsance</p>
-            <h3 id="combine-resistors-method">“Combine Resistors” Method</h3>
+            <h2 id="combine-resistors-method">“Combine Resistors” Method</h2>
             <p><img src="./Screen Shot 2020-09-14 at 11.02.45 AM.png" alt="image" /></p>
-            <h4 id="parallel-resistors-as-single-resistors">Parallel Resistors as Single Resistors</h4>
+            <h3 id="parallel-resistors-as-single-resistors">Parallel Resistors as Single Resistors</h3>
             <p>Per the previous resisters rules, that <span class="math inline">\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R2}\)</span>, we could treat the <span class="math inline">\(20 \Omega\)</span> and <span class="math inline">\(30 \Omega\)</span> in parallel as a single resistor of <span class="math inline">\(12 \Omega\)</span>.</p>
             <p>Now the circut becomes even simpler:</p>
             <p><img src="./Screen Shot 2020-09-14 at 11.05.49 AM.png" alt="image" /></p>
-            <h4 id="sequence-resistors-as-single-resistors">Sequence Resistors as Single Resistors</h4>
+            <h3 id="sequence-resistors-as-single-resistors">Sequence Resistors as Single Resistors</h3>
             <p>Per the sequence resisters rules, that total resistance is <span class="math inline">\((A+B)\Omega\)</span>, we could combine these three resistors as a <span class="math inline">\(37 \Omega\)</span> resistor.</p>
-            <h4 id="combined-current">Combined Current</h4>
+            <h3 id="combined-current">Combined Current</h3>
             <p>We know that <span class="math inline">\(12V / 37\Omega = 0.324 Amps\)</span> is the current that returns to the battery and what the battery starts with, for if we treat the circuit as a single resistor, the 12 volts would only be working against.</p>
             <p>From there, once we have a current for beginning and end, we could work our way up backwards by calculating the final voltage.</p>
             <ul>
