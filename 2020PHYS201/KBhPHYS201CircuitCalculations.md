@@ -6,7 +6,7 @@ course: PHYS201
 ---
 
 # Calculations Surrounding a Circuit
-There are two ways to calculate the resistance within a circuit. In reality, they are all based on the same set of rules — but one way applies them directly and the other uses a higher-level abstraction that is often easier.
+There KBhHIST201BullietCh19are two ways to calculate the resistance within a circuit. In reality, they are all based on the same set of rules — but one way applies them directly and the other uses a higher-level abstraction that is often easier.
 
 Either way, this is the are the rules that rules them all:  **through a resistor, the Current does NOT change, the Voltage drops.**
  

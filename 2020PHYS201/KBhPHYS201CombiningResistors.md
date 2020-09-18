@@ -6,6 +6,7 @@ course: PHYS201
 ---
 
 # Combining Resistors Method
+The [[KBhPHYS201KirkoffsLaws]] Kirkoff's Laws themselves often requiring solving >6x6 matrixes to solve equations quickly. Which is hard.
 
 ### Series
 If you have two resisters…
