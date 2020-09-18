@@ -13,7 +13,7 @@ Either way, this is the are the rules that rules them all:  **through a resistor
 ## Kirkoff's Laws
 These are the basic rules of circuit calculation: [[KBhPHYS201KirkoffsLaws]]
 
-## Combining 
+## Combining Resistors Method
 
 ### Series
 If you have two resisters…
