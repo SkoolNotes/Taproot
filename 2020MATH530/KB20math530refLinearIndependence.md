@@ -9,6 +9,6 @@ source:  KBe20math530refVectorSpace
 
 # Overview
 ## Intuition
-- If you have a vector list $v$ 
+- If you have a vector list $v$ that is a linear combination of vectors in $V$, or equivalently
 
 ---
