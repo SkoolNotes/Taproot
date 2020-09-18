@@ -15,6 +15,6 @@ source:  KBe20math530refVectorSpace
 ## #definition linearly independent
 > - The empty list $()$ is linearly independent
 > - A list $v_1, ..., v_m$ of vectors in $V$ is called ***linearly independent*** if the only choice of $a_1, ..., a_m \in F$ that makes $a_1v_1 + ... + a_mv_m$ equal $0$ is $a_1 = ... = a_m = 0$
-- ^^^ what the heck is that last part #todo-exr0n 
+- ^^^ what the heck is that last part about everything equaling $0$?? #todo-exr0n [[KBe20math530floQuestions]]
 
 ---
