@@ -6,8 +6,7 @@ course: PHYS201
 ---
 
 # Calculations Surrounding a Circuit
-## Resistors in Different configurations
-
+## Basics of Combining Resistors
 ### Series
 If you have two resisters…
 
