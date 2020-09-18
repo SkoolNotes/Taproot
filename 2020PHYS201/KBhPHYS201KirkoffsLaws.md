@@ -7,10 +7,6 @@ course: PHYS201
 
 # Kirkoff's Laws
 
-Here's a circuit:
-
-![Screen Shot 2020-09-14 at 10.38.44 AM.png](./Screen Shot 2020-09-14 at 10.38.44 AM.png)
-
 ## Kirkoff's First Law
 \definition{Kirkoff's First Law}{**Sum of voltage in any closed loop should add up to 0**}
 
@@ -20,6 +16,12 @@ As in, the sum of all voltage changes from Start => Start will add up to 0.
 \definition{Kirkoff's Second Law}{**Net current flowing into a node is 0**}
 
 With a current $i_0$, when it flows into a junction like B, the current $i_0$ splits into $i_2$ and $i_3$
+
+## A Quick Kirkoff Excercise
+
+Here's a circuit:
+
+![Screen Shot 2020-09-14 at 10.38.44 AM.png](./Screen Shot 2020-09-14 at 10.38.44 AM.png)
 
 So, to calculate the resistance and current at every point o
  
