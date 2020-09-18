@@ -30,7 +30,7 @@ Now I will look back at the textbook to see what the formal definition of subspa
 
 It seems like my notion of subspace sums is roughly correct, so I am pretty sure that
 $$
-\begin{bbox}No, subspaces do not form a group under subspace addition due to a lack of inverses\end{bbox}
+\fbox{ No, subspaces do not form a group under subspace addition due to a lack of inverses. }
 $$
 
 ---
