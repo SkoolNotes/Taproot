@@ -25,4 +25,7 @@ If the above is true, then subspaces are closed under subspace addition. The ide
 ## Inverse
 Because the subspace sum is all of the possible outputs when adding each vector in the two subspaces, if a subspace has two or more unique elements then it's not possible to have an inverse subspace: it would not be possible to create a subspace and force the parings such that the resulting subpsace sum is the degenerate one (${0}$).
 
+# Checking
+Now I will look back at the textbook to see what the formal definition of subspace sum is and if my previous conclusions were valid. The quiz assignment says to avoid help from classes or websites, so I am not sure if I am allowed to look at the textbook. If not, please grade me on the previous sections only.
+
 ---
