@@ -165,10 +165,22 @@
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=KBe20math530refVectorSpace}{\tiny\textulf{[[}\textbf{KBe20math530refVectorSpace}\textulf{]]}}}\thinspace
 
-\#definition Linear Combination \textgreater{} A linear combination is a
-list \(v_1, ..., v_m\) of vectors in \(V\) is a vector of the form
-\textgreater{} \[a_1v_1 + ... + a_mv_m\] \textgreater{} where a\_1,
-\ldots, a\_m \in F
+\hypertarget{definition-linear-combination}{%
+\section{\#definition Linear
+Combination}\label{definition-linear-combination}}
+
+\begin{quote}
+A linear combination is a list \(v_1, ..., v_m\) of vectors in \(V\) is
+a vector of the form \[a_1v_1 + ... + a_mv_m\] where a\_1, \ldots, a\_m
+\in F
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  Basically, if it's a linear combination, the system of equations has
+  solutions
+\end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
