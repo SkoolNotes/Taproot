@@ -176,6 +176,23 @@ denoted \(\text{span}(v_1,...,v_m)\):
 And the span of an empty list \(()\) is \({0}\)
 \end{quote}
 
+\hypertarget{properties}{%
+\section{Properties}\label{properties}}
+
+\begin{itemize}
+\tightlist
+\item
+  The span is the smallest containing subspace
+
+  \begin{itemize}
+  \item
+    \begin{quote}
+    The span of a list of vectors in \(V\) is the smallest subspace of
+    \(V\) containing all the vectors in the list.
+    \end{quote}
+  \end{itemize}
+\end{itemize}
+
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}
