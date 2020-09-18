@@ -14,6 +14,7 @@ source: KBe2020math530index
 - Notes originally based on Axler Linear Algebra Done Right 3rd addition chapter 2
 | | |
 |-|-|
+Linear Combination | [[KBe20math530refLinearCombination]]
 Span | [[KBe20math530refSpan]]
 
 ---
