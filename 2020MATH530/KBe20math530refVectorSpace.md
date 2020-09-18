@@ -19,5 +19,7 @@ source: KBe2020math530index
 Linear Combination | [[KBe20math530refLinearCombination]]
 Span | [[KBe20m
 ath530refSpan]]
+## #definition finite-dimensional vector space
+> some (finite length) list of vectors in it spans the space. (Axler 2.10)
 
 ---
