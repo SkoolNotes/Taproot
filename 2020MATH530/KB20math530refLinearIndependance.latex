@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{}
-\newcommand{\thelesson}{ Vector Spaces Index }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,41 +162,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBe2020math530index}{\tiny\textulf{[[}\textbf{KBe2020math530index}\textulf{]]}}}\thinspace
 
-\#incomplete
 
-\hypertarget{overview}{%
-\section{Overview}\label{overview}}
-
-\begin{itemize}
-\tightlist
-\item
-  Exists over a {[}{[}KBe20math530refField{]}{]}and it's two operations
-  (primary: addition, and secondary: multiplication)
-\end{itemize}
-
-\hypertarget{finite-dimensional-vector-spaces}{%
-\section{Finite Dimensional Vector
-Spaces}\label{finite-dimensional-vector-spaces}}
-
-\begin{itemize}
-\tightlist
-\item
-  Notes originally based on Axler Linear Algebra Done Right 3rd addition
-  chapter 2 \textbar{} \textbar{} \textbar{}
-  \textbar-\textbar-\textbar{} Linear Combination \textbar{}
-  {[}{[}KBe20math530refLinearCombination{]}{]} Span \textbar{}
-  {[}{[}KBe20math530refSpan{]}{]} Polynomial \textbar{}
-  {[}{[}KBrefPolynomial{]}{]} Linear Independence \textbar{}
-  {[}{[}KB20math530refLinearIndependence{]}{]} \#\# \#definition
-  finite-dimensional vector space \textgreater{} some (finite length)
-  list of vectors in it spans the space. (Axler 2.10) \#\#\#
-  \#definition infinite-dimensional vector space \textgreater{} A vector
-  space that isn't finite dimensional
-\end{itemize}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}
