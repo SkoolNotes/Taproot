@@ -14,6 +14,6 @@ source: KBe2020math530refExr0nRetIndex
 	- Associative
 
 # Working it out
-I don't actually remember the exact definition of subspace addition. If I remember correctly from the proof of 
+I don't actually remember the exact definition of subspace addition. If I remember correctly from the proof of Axler exercise 1.C.14, the sum of two subspaces is the set that you 
 
 ---
