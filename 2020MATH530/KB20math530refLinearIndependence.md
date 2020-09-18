@@ -7,6 +7,8 @@ author:  Exr0n
 source:  KBe20math530refVectorSpace
 ---
 
-
+# Overview
+## Intuition
+- If you have a vector list $v$ 
 
 ---
