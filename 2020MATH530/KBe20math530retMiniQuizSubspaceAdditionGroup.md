@@ -7,6 +7,7 @@ source: KBe2020math530refExr0nRetIndex
 
 # Problem
 > Do subspaces form a group under subspace addition?
+
 - Properties for a group: [[KBe2020math530refGroups]]
 	- Closed 
 	- Identity
