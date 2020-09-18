@@ -21,7 +21,7 @@ Flow index: [[KBe2020math530floIndex]]
 | Due Date | Link |
 |----------|------|
 2020-09-11 | [[KBe20math530retQuiz1.pdf]]
-2020-09-
+2020-09-22 | [[KBe20math530retMiniQuizSubspaceAdditionGroup]]
 
 ## Proofs
 | Problem | Link |
