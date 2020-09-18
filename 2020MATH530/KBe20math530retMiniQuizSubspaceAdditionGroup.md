@@ -14,6 +14,8 @@ source: KBe2020math530refExr0nRetIndex
 	- Associative
 
 # Working it out
-I don't actually remember the exact definition of subspace addition. If I remember correctly from the proof of Axler exercise 1.C.14, the sum of two subspaces is the set that you 
+I don't actually remember the exact definition of subspace addition. If I remember correctly from the proof of Axler exercise 1.C.14, the sum of two subspaces is the subspace where each vector is the sum of two vectors in the original two subspaces?
+
+I don't remember if it was guaranteed to be a subspace, 
 
 ---
