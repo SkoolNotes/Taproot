@@ -7,8 +7,6 @@ course: PHYS201
 
 # Kirkoff's Laws
 
-And here's a circuit!
-
 ![Screen Shot 2020-09-14 at 10.38.44 AM.png](./Screen Shot 2020-09-14 at 10.38.44 AM.png)
 
 #### Kirkoff's First Law
