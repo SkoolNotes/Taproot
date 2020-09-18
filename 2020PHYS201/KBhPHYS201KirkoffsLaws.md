@@ -17,7 +17,7 @@ Here's a circuit:
 As in, the sum of all voltage changes from Start => Start will add up to 0.
 
 ## Kirkoff's Second law
-**Net current flowing into a node is 0**
+\definition{Kirkoff's Second Law}{**Net current flowing into a node is 0**}
 
 With a current $i_0$, when it flows into a junction like B, the current $i_0$ splits into $i_2$ and $i_3$
 
