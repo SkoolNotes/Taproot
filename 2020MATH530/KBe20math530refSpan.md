@@ -20,4 +20,7 @@ source:  KBe20math530refVectorSpace
 ## #definition spans
 > If $\text{span}(v_1,...,v_m) = V$, then $v_1, ..., v_m$ ***spans*** $V$
 
+# Examples
+## Axler 2.9
+
 ---
