@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -160,18 +162,14 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBhMATH401SubIndex}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhMATH401SubIndex}{\tiny\textulf{[[}\textbf{KBhMATH401SubIndex}\textulf{]]}}}
-
-\#disorganized
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhMATH401SubIndex}{\tiny\textulf{[[}\textbf{KBhMATH401SubIndex}\textulf{]]}}}\thinspace
 
 \hypertarget{limits}{%
 \section{Limits}\label{limits}}
 
-\hypertarget{some-vocab}{%
-\subsection{Some Vocab}\label{some-vocab}}
+\hypertarget{warming-up}{%
+\subsection{Warming up}\label{warming-up}}
 
 Here's a function
 
@@ -194,75 +192,17 @@ We know that it has
 \hypertarget{the-limit-notation}{%
 \subsection{The Limit Notation}\label{the-limit-notation}}
 
-\definition["What is $y$ approaching when $x$ approaches $a$ from the right ($+$)?"]{Right Single-Sided Limit}{$\lim_{x\to a^+} f(x)$}
-
-\definition["What is $y$ approaching when $x$ approaches $a$ from the left ($-$)?"]{Left Single-Sided Limit}{$\lim_{x\to a^-} f(x)$}
-
-\textbf{Watch!} If both the left and right single-sided limit exists and
-is the same, the Double-Sided Limit exists.
-
-\definition["What is $y$ approaching when $x$ approaches $a$?" This exists only if $\lim_{x\to a^-} f(x)=\lim_{x\to a^+} f(x)$ ]{Left Single-Sided Limit}{$\lim_{x\to a} f(x)$}
-
-\textbf{Vocab!} When the Double-Sided Limit does not exist, it is called
-\emph{DOES NOT EXIST!}. It is not! \(\cancel{undefined}\)
+See {[}{[}KBhMATH401TheLimitNotation{]}{]}
 
 \hypertarget{computing-limits-algebraically}{%
 \subsection{Computing Limits
 Algebraically}\label{computing-limits-algebraically}}
 
-Let's do a problem solve for \(\lim_{x\to 2} \frac{(x^2-4)}{(x-2)}\)
+See {[}{[}KBMATH401ComputingLimits{]}{]}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  First, notice the fact this function will have a hole at \(x=2\). This
-  is especially important because after we simplify we will loose this
-  hole.
-\item
-  Ok, now let's simply.
-  \(\frac{(x^2-4)}{(x-2)} = \frac{(x+2)(\cancel{(x-2)})}{(\cancel{x-2})} = (x+2)\)
-\item
-  Great! So, we know that this function behaves linearly with simply a
-  hole at 2.
-\item
-  Doing the double-sided limits\ldots{}
+\hypertarget{types-of-discontinuity}{%
+\subsection{Types of Discontinuity}\label{types-of-discontinuity}}
 
-  \begin{itemize}
-  \item
-    Evaluating \(\lim_{x\to2^+}\), the value will be \(4\) because
-    \(2+2=4\).
-  \item
-    Evaluating\\
-  \item
-    Infinite Discountinuity (verticle asymtote)
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Double Sided Limit does not exist
-    \end{itemize}
-  \item
-    Jump Discontinuity
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Double Sided Limit does exist
-    \item
-      Function defined
-    \end{itemize}
-  \item
-    Point Discountinuity
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Double Side Limit exists
-    \item
-      Function is not defined
-    \end{itemize}
-  \end{itemize}
-\end{enumerate}
+See {[}{[}KBhMATH401Discontinuity{]}{]}
 
 \end{document}
