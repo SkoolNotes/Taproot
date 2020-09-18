@@ -213,7 +213,10 @@ Suppose \(n\) is a positive integer. Show that
 \(F^n\). - Basically, if a list of vectors spans a vector space then
 linear combinations of those vectors (almost like colloquial polynomials
 of those vectors) can form each vector in the space. - In this case, the
-vector space
+vector space \(F^n\) is a list of vectors in \(F\), and having the \(1\)
+in each slot is enough to, when scalar multiplied with \(a \in F\), get
+all possibilities of \(F^n\). - I need to wrap my head around this some
+more.
 \end{quote}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
