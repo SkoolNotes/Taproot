@@ -175,7 +175,12 @@
 \tightlist
 \item
   If you have a vector list \(v\) that is a linear combination of
-  vectors in \(V\), or equivalently
+  vectors in \(V\), or equivalently,
+\item
+  \[v = a_1v_1 + ... + a_mv_m \text{where} v_1, ..., v_m \in V\]
+\item
+  And those choices of \(a_1, ..., a_m\) are unique, then this is a
+  linear independence?
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
