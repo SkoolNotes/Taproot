@@ -181,9 +181,15 @@ algebra}\label{in-the-context-of-linear-algebra}}
     \begin{quote}
     \(p: F \to F\) with coefficients in \(F\) if there exist
     \(a_0, ..., a_m \in F\) such that
-    \(p(z) = a_0 + a_1z + a_2z^2 + ... + a_mz^m\)
+    \(p(z) = a_0 + a_1z + a_2z^2 + ... + a_mz^m\) \#\# Polynomial Degree
+    \#definition degree of a polynomial
     \end{quote}
   \end{itemize}
+\item
+  Basically write it in standard form and find the highest index of the
+  highest coefficient that isn't zero
+\item
+  degree of \(0\) = \(-\infty\)
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
