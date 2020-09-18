@@ -13,6 +13,7 @@ source: #index
 
 ## Introduction
 * [[GHMW Unit 1.pdf]] Readings 
+* [[GHMW Unit 2.pdf]] Also Readings 
 * [[KBhHIST201GHIntro]] Global History, Intro. Non-Sushu people will not find this helpful
 * The Homogenoscene
     * [[KBhHIST201HomogenosceneLN]] The Homogenocene Jack
