@@ -9,6 +9,7 @@ legacy-name: 00-Topic-KB20200825085410
 | | |
 |-|-|
 Intro | [[KBe2020math530flo1]]
+Questions | [[KBe20math530floQuestions]]
 Flows | [[KBe2020math530floIndex]]
 Homework | [[KBe2020math530refExr0nRetIndex]]
 Etymology | [[KBe2020math530floLinalgEtymology]]

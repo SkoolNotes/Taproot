@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 2020math530 }
-\newcommand{\thelesson}{ Linear Algebra Master Index }
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{ Linear Algebra Questions }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -165,55 +165,6 @@
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\endhead
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Intro\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe2020math530flo1{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Questions\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe20math530floQuestions{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Flows\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe2020math530floIndex{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Homework\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe2020math530refExr0nRetIndex{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Etymology\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe2020math530floLinalgEtymology{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Numbers\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe2020math530floNumbers{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Groups\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe2020math530refGroups{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Fields\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe20math530refField{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Vectorspaces, subspaces, sums of spaces\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe20math530refVectorSpace{]}{]} \#incomplete\strut
-\end{minipage}\tabularnewline
-\bottomrule
-\end{longtable}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}
