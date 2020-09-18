@@ -182,6 +182,9 @@ I remember correctly from the proof of Axler exercise 1.C.14, the sum of
 two subspaces is the subspace where each vector is the sum of two
 vectors in the original two subspaces?
 
+\hypertarget{closed}{%
+\subsection{Closed}\label{closed}}
+
 I don't remember if it was guaranteed to be a subspace, but it must have
 the identity (because the constituents both had the identity), it is
 closed under scalar multiplication (because you could take the sum
@@ -192,7 +195,18 @@ addition. This is by no means a rigorous proof, but it is as close as I
 can get without knowing the actual definition of a subspace sum, and I
 think its reasonably convincing.
 
+\hypertarget{identity}{%
+\subsection{Identity}\label{identity}}
+
 If the above is true, then subspaces are closed under subspace addition.
+The identity subspace would be the one with only the field additive
+identity, because there is only one element so the resulting subspace
+sum has the same number of elements as the other original subspace, and
+because the identity vector plus any vector of the other subspace will
+be that other vector by definition.
+
+\hypertarget{inverse}{%
+\subsection{Inverse}\label{inverse}}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
