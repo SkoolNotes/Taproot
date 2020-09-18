@@ -168,6 +168,8 @@
 \hypertarget{kirkoffs-laws}{%
 \section{Kirkoff's Laws}\label{kirkoffs-laws}}
 
+Here's a circuit:
+
 \begin{figure}
 \centering
 \includegraphics{./Screen Shot 2020-09-14 at 10.38.44 AM.png}
@@ -175,7 +177,7 @@
 \end{figure}
 
 \hypertarget{kirkoffs-first-law}{%
-\paragraph{Kirkoff's First Law}\label{kirkoffs-first-law}}
+\subsection{Kirkoff's First Law}\label{kirkoffs-first-law}}
 
 \textbf{Sum of voltage in any closed loop should add up to 0}
 
@@ -183,7 +185,7 @@ As in, the sum of all voltage changes from Start =\textgreater{} Start
 will add up to 0.
 
 \hypertarget{kirkoffs-second-law}{%
-\paragraph{Kirkoff's Second law}\label{kirkoffs-second-law}}
+\subsection{Kirkoff's Second law}\label{kirkoffs-second-law}}
 
 \textbf{Net current flowing into a node is 0}
 
