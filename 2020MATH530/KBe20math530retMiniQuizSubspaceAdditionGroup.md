@@ -28,6 +28,9 @@ Because the subspace sum is all of the possible outputs when adding each vector 
 # Checking
 Now I will look back at the textbook to see what the formal definition of subspace sum is and if my previous conclusions were valid. The quiz assignment says to avoid help from classes or websites, so I am not sure if I am allowed to look at the textbook. If not, please grade me on the previous sections only.
 
-It seems like my notion of subspace sums is roughly correct, so I am pretty sur
+It seems like my notion of subspace sums is roughly correct, so I am pretty sure that
+$$
+\begin{bbox}No, subspaces do not form a group under subspace addition due to a lack of inverses\end{bbox}
+$$
 
 ---
