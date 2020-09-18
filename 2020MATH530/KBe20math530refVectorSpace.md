@@ -21,5 +21,7 @@ Span | [[KBe20math530refSpan]]
 Polynomial | [[KBrefPolynomial]]
 ## #definition finite-dimensional vector space
 > some (finite length) list of vectors in it spans the space. (Axler 2.10)
+### #definition infinite-dimensional vector space
+> A vector space that isn't finite dimensional
 
 ---
