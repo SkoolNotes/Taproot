@@ -5,6 +5,8 @@ author: Houjun Liu
 course: PHYS201
 ---
 
+# Combining Resistors Method
+
 ### Series
 If you have two resisters…
 
