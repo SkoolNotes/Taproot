@@ -11,7 +11,9 @@ There are two ways to calculate the resistance within a circuit. In reality, the
 Either way, this is the are the rules that rules them all:  **through a resistor, the Current does NOT change, the Voltage drops.**
  
 ## Kirkoff's Laws
-These are the basic rules of circut calculation: [[KBhPHYS201KirkoffsLaws]]
+These are the basic rules of circuit calculation: [[KBhPHYS201KirkoffsLaws]]
+
+## Combining 
 
 ### Series
 If you have two resisters…
@@ -49,9 +51,6 @@ Resistance equation for series :pointup:
 
 Calculate resistsance 
 
-## Calculating Current in a Circut.
-
-### Traditional Kickoff's's Laws approach
 
 ### "Combine Resistors" Method
  
