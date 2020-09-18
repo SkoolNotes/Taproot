@@ -174,9 +174,16 @@ algebra}\label{in-the-context-of-linear-algebra}}
 \item
   From Axler Linear Algebra Done Right 3rd Ed. 2.A
 \item
-  \(p: F \to F\) with coefficients in \(F\) if there exist
-  \(a_0, ..., a_m \in F\) such that
-  \(p(z) = a_0 + a_1z + a_2z^2 + ... + a_mz^m\)
+  \#definition polynomial
+
+  \begin{itemize}
+  \item
+    \begin{quote}
+    \(p: F \to F\) with coefficients in \(F\) if there exist
+    \(a_0, ..., a_m \in F\) such that
+    \(p(z) = a_0 + a_1z + a_2z^2 + ... + a_mz^m\)
+    \end{quote}
+  \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
