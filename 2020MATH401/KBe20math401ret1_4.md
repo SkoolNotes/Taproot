@@ -31,7 +31,9 @@ $$
 &\Rightarrow \lim_{x\to 2}\frac{\cancel{x-2}}{x\cancel{\left(x-2\right)}} = \lim_{x\to 2}\frac{1}{x} = \frac{1}{2}
 \end{aligned}
 $$
+
 ## 98
+
 $$
 \lim_{h\to 0}\frac{\frac{1}{a+h}-\frac{1}{a}}{h} \Rightarrow \frac{\lim_{h\to 0}\frac{1}{a+h}-\lim_{h\to 0}\frac{1}{a}}{\lim_{h\to 0}h}
 $$ now what..
