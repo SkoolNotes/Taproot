@@ -7,5 +7,7 @@ author:
 source:  KBe2020math401index
 ---
 
+# Limit Laws
+see [[KBe20math401srcLimitLawsBrainstorm.pdf]]
 
 ---
