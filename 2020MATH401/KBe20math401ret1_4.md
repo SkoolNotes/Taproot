@@ -39,6 +39,7 @@ $$ now what..
 This is just the derivative of $\frac{1}{a}$ where $a$ is a real valued, non zero constant. So, it should just be $0$.
 ## 100
 $$
-\lim_{x\to1}\frac{x^3-1}{x^2-1} \Rightarrow \lim_{x\to 1}\frac{
+\lim_{x\to1}\frac{x^3-1}{x^2-1} \Rightarrow \lim_{x\to 1}\frac{(x-1)(x^2+1+2x)}{(x+1)(x-1)}
+$$
 
 ---
