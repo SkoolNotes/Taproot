@@ -53,7 +53,7 @@ source: #index
 - [[20hist201refTechniques]]
 
 $$
-\int_{\infty}^{-\infty}
+\int_{\infty}^{-\infty}x
 $$
 
 
