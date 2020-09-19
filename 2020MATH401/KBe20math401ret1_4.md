@@ -20,5 +20,9 @@ $$
 $$
 \lim_{x\to -2}\sqrt{x^2-6x+3} = \sqrt{4 - (-12) + 3} = \boxed{\sqrt{19}}
 $$
+## 86
+$$
+\lim_{x\to_1}\left(9x+1\right)^2 = \left(-9+1\right)^2 = \boxed{64}
+$$
 
 ---
