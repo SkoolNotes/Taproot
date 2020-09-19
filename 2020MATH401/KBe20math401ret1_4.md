@@ -45,13 +45,12 @@ $$
 \lim_{x\to1}\frac{x^3-1}{x^2-1} \Rightarrow \lim_{x\to 1}\frac{\cancel{(x-1)}(x^2+1+x)}{(x+1)\cancel{(x-1)}} = \lim_{x\to 1}\frac{x^2+x+1}{x+1} = \boxed{\frac{3}{2}}
 $$
 ## Time Check
-It's been an 45 minutes.
+It's been an 45 minutes. I will now give up on $\LaTeX$ing things
 ## 108
 $$
 \lim_{x\to 6}\frac{g(x)-1}{f(x)} = \frac{\lim_{x\to 6}g(x)-1}{\lim_{x\to 6}f(x)} = \boxed{2}
 $$
 ## 109
-$$
-
+$\boxed{7}$
 
 ---
