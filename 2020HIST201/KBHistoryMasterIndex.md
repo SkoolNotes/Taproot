@@ -52,7 +52,9 @@ source: #index
 ## Meta References
 - [[20hist201refTechniques]]
 
-
+$$
+\int_{\infty}^{-\infty}
+$$
 
 
 
