@@ -178,22 +178,26 @@ Exercises}\label{openstax-calculus-vol1-2.3-exercises}}
 \tightlist
 \item
   \href{https://openstax.org/books/calculus-volume-1/pages/2-3-the-limit-laws}{\textbf{Link}}
-  \#\# 84 \[
-  \lim_{x\to 1}\frac{x^3+3x^2+5}{4-7x} = \frac{1+3+5}{4-7} = \frac{9}{-3} = \boxed{-3}
-  \] \#\# 85 \[
-  \lim_{x\to -2}\sqrt{x^2-6x+3} = \sqrt{4 - (-12) + 3} = \boxed{\sqrt{19}}
-  \] \#\# 86 \[
-  \lim_{x\to_1}\left(9x+1\right)^2 = \left(-9+1\right)^2 = \boxed{64}
-  \] \#\# 94 \[
-  \begin{aligned}
-  \lim_{x\to 4}\frac{x^2-16}{x-4} &= \frac{0}{4-4} = \frac{0}{0}\\
-  &\Rightarrow \lim_{x\to 2}\frac{\cancel{x-2}}{x\cancel{\left(x-2\right)}} = \lim_{x\to 2}\frac{1}{x} = \boxed{\frac{1}{2}}
-  \end{aligned}
-  \]
 \end{itemize}
 
 \hypertarget{section}{%
-\subsection{98}\label{section}}
+\subsection{84}\label{section}}
+
+\[
+\lim_{x\to 1}\frac{x^3+3x^2+5}{4-7x} = \frac{1+3+5}{4-7} = \frac{9}{-3} = \boxed{-3}
+\] \#\# 85 \[
+\lim_{x\to -2}\sqrt{x^2-6x+3} = \sqrt{4 - (-12) + 3} = \boxed{\sqrt{19}}
+\] \#\# 86 \[
+\lim_{x\to_1}\left(9x+1\right)^2 = \left(-9+1\right)^2 = \boxed{64}
+\] \#\# 94 \[
+\begin{aligned}
+\lim_{x\to 4}\frac{x^2-16}{x-4} &= \frac{0}{4-4} = \frac{0}{0}\\
+&\Rightarrow \lim_{x\to 2}\frac{\cancel{x-2}}{x\cancel{\left(x-2\right)}} = \lim_{x\to 2}\frac{1}{x} = \boxed{\frac{1}{2}}
+\end{aligned}
+\]
+
+\hypertarget{section-1}{%
+\subsection{98}\label{section-1}}
 
 \[
 \lim_{h\to 0}\frac{\frac{1}{a+h}-\frac{1}{a}}{h} \Rightarrow \frac{ \lim_{h\to 0}\frac{1}{a+h}-\lim_{h\to 0}\frac{1}{a} }{\lim_{h\to 0}h}
@@ -221,8 +225,8 @@ Problem & Result\tabularnewline
 \bottomrule
 \end{longtable}
 
-\hypertarget{section-1}{%
-\subsection{116}\label{section-1}}
+\hypertarget{section-2}{%
+\subsection{116}\label{section-2}}
 
 {[}{[}KBe20math401src1\_4p116graph.png{]}{]}
 

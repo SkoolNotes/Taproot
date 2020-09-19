@@ -12,6 +12,7 @@ see [[KBe20math401srcLimitLawsBrainstorm.pdf]]
 
 # Openstax Calculus Vol1 2.3 Exercises
 - [**Link**](https://openstax.org/books/calculus-volume-1/pages/2-3-the-limit-laws)
+
 ## 84
 $$
 \lim_{x\to 1}\frac{x^3+3x^2+5}{4-7x} = \frac{1+3+5}{4-7} = \frac{9}{-3} = \boxed{-3}
