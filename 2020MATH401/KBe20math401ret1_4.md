@@ -52,7 +52,7 @@ $$
 $$
 
 ## Time Check
-It's been an 45 minutes. I will now give up on $\LaTeX$ing things:
+It's been an 45 minutes. I will now give up on $\LaTeX$ ing things:
 
 | Problem | Result |
 |---------|--------|
