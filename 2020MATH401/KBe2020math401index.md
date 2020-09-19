@@ -19,6 +19,7 @@
 | 1_3t | AbiW | [[KBe20math401ret1_3t.pdf]]
 | 1_3 | 2020-09-15 | [[KBe20math401ret1_3.pdf]]
 | Easy_3 | 2020-09-17 | [[KBe20math401retLight3]]
+| 1_4 | 2020-09-22 | [[KBe20math401ret1_4]]
 
 
 Concepts and Notation | [[KBe2020math401refCalcConceptsNotation]]
