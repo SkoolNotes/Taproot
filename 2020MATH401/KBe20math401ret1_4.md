@@ -44,5 +44,10 @@ This is just the derivative of $\frac{1}{a}$ where $a$ is a real valued, non zer
 $$
 \lim_{x\to1}\frac{x^3-1}{x^2-1} \Rightarrow \lim_{x\to 1}\frac{\cancel{(x-1)}(x^2+1+x)}{(x+1)\cancel{(x-1)}} = \lim_{x\to 1}\frac{x^2+x+1}{x+1} = \boxed{\frac{3}{2}}
 $$
+## Time Check
+It's been an 45 minutes.
+## 108
+$$
+\lim_{x\to 6}\frac{g(x)-1}{f(x)} = \frac{\lim_{x\to 
 
 ---
