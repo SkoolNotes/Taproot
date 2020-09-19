@@ -8,7 +8,7 @@ source:  KBe2020math401index
 ---
 
 # Limit Laws
-see [[KBe20math401srcLimitLawsBrainstorm.pdf]]
+see [pdf](KBe20math401srcLimitLawsBrainstorm.pdf)
 
 # Openstax Calculus Vol1 2.3 Exercises
 - [**Link**](https://openstax.org/books/calculus-volume-1/pages/2-3-the-limit-laws)
@@ -65,7 +65,7 @@ It's been an 45 minutes. I will now give up on LaTeXing things:
 | 114 | 30 |
 
 ## 116
-![[KBe20math401src1_4p116graph.png]]
+![](KBe20math401src1_4p116graph.png) 
 
 $\boxed{-1, 1}$
 
