@@ -33,7 +33,7 @@ $$
 $$
 ## 98
 $$
-\lim_{h\to 0}\frac{\frac{1}{a+h}-\frac{1}{a}}{h} \Rightarrow \frac{\lim_{h\to 0}\frac{1}{a+h}-\lim_{h\to 0}\frac{1}{a}}{\lim_{h\to 0}h} = 
+\lim_{h\to 0}\frac{\frac{1}{a+h}-\frac{1}{a}}{h} \Rightarrow \frac{\lim_{h\to 0}\frac{1}{a+h}-\lim_{h\to 0}\frac{1}{a}}{\lim_{h\to 0}h}
 $$
 
 ---
