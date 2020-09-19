@@ -205,8 +205,9 @@ valued, non zero constant. So, it should just be \(\boxed{0}\). \#\# 100
 \lim_{x\to1}\frac{x^3-1}{x^2-1} \Rightarrow \lim_{x\to 1}\frac{\cancel{(x-1)}(x^2+1+x)}{(x+1)\cancel{(x-1)}} = \lim_{x\to 1}\frac{x^2+x+1}{x+1} = \boxed{\frac{3}{2}}
 \] \#\# Time Check It's been an 45 minutes. I will now give up on
 \(\LaTeX\)ing things \textbar{} Problem \textbar{} Result \textbar{}
-\textbar---------\textbar--------\textbar{} 108 \textbar{} 2 109
-\textbar{} 7
+\textbar---------\textbar--------\textbar{} \textbar{} 108 \textbar{} 2
+\textbar{} \textbar{} 109 \textbar{} 7 \textbar{} \textbar{} 110
+\textbar{} 108 \textbar{} \textbar{} 111 \textbar{} \(\sqrt{5}\)
 
 \[
 \lim_{x\to 6}\frac{g(x)-1}{f(x)} = \frac{\lim_{x\to 6}g(x)-1}{\lim_{x\to 6}f(x)} = \boxed{2}
