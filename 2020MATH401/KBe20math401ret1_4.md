@@ -14,10 +14,10 @@ see [[KBe20math401srcLimitLawsBrainstorm.pdf]]
 - [**Link**](https://openstax.org/books/calculus-volume-1/pages/2-3-the-limit-laws)
 ## 84
 $$
-\lim_{x\to 1}\frac{x^3+3x^2+5}{4-7x} = \frac{1+3+5}{4-7} = \frac{9}{-3} = \boxed{\frac{-9}{3}}
+\lim_{x\to 1}\frac{x^3+3x^2+5}{4-7x} = \frac{1+3+5}{4-7} = \frac{9}{-3} = \boxed{-3}
 $$
 ## 85
 $$
-\lim
+\lim_{x\to -2}\sqrt{x^2-6x+3} = \sqrt{4 - (-12) + 3}
 
 ---
