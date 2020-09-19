@@ -48,6 +48,10 @@ $$
 It's been an 45 minutes.
 ## 108
 $$
-\lim_{x\to 6}\frac{g(x)-1}{f(x)} = \frac{\lim_{x\to 6}g(x)-1}{\lim_{x\to 6}f(x)}
+\lim_{x\to 6}\frac{g(x)-1}{f(x)} = \frac{\lim_{x\to 6}g(x)-1}{\lim_{x\to 6}f(x)} = \boxed{2}
+$$
+## 109
+$$
+
 
 ---
