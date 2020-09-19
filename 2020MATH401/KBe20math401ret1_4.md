@@ -65,7 +65,7 @@ It's been an 45 minutes. I will now give up on LaTeXing things:
 | 114 | 30 |
 
 ## 116
-![](KBe20math401src1_4p116graph.png) 
+![](KBe20math401src1u4p116graph.png) 
 
 $\boxed{-1, 1}$
 
