@@ -57,4 +57,7 @@ It's been an 45 minutes. I will now give up on $\LaTeX$ing things:
 | 113 | 28 |
 | 114 | 30 |
 
+## 116
+![[KBe20math401src1_4p116graph.png]]
+
 ---
