@@ -28,7 +28,7 @@ $$
 $$
 \begin{aligned}
 \lim_{x\to 4}\frac{x^2-16}{x-4} &= \frac{0}{4-4} = \frac{0}{0}\\
-&\Rightarrow \lim_{x\to 2}\frac{\cancel{x-2}}{x\cancel{\left(x-2\right)}} = \lim_{x\to 2}\frac{1}{x} = \frac{1}{2}
+&\Rightarrow \lim_{x\to 2}\frac{\cancel{x-2}}{x\cancel{\left(x-2\right)}} = \lim_{x\to 2}\frac{1}{x} = \boxed{\frac{1}{2}}
 \end{aligned}
 $$
 
@@ -39,10 +39,10 @@ $$
 $$
 now what..?
 
-This is just the derivative of $\frac{1}{a}$ where $a$ is a real valued, non zero constant. So, it should just be $0$.
+This is just the derivative of $\frac{1}{a}$ where $a$ is a real valued, non zero constant. So, it should just be $\boxed{0}$.
 ## 100
 $$
-\lim_{x\to1}\frac{x^3-1}{x^2-1} \Rightarrow \lim_{x\to 1}\frac{\cancel{(x-1)}(x^2+1+x)}{(x+1)\cancel{(x-1)}} = \lim_{x\to 1}\frac{x^2+x+1}{x+
+\lim_{x\to1}\frac{x^3-1}{x^2-1} \Rightarrow \lim_{x\to 1}\frac{\cancel{(x-1)}(x^2+1+x)}{(x+1)\cancel{(x-1)}} = \lim_{x\to 1}\frac{x^2+x+1}{x+1} = \boxed{\frac{3}{2}}
 $$
 
 ---
