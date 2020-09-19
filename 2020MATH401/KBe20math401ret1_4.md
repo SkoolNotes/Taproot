@@ -60,4 +60,6 @@ It's been an 45 minutes. I will now give up on $\LaTeX$ing things:
 ## 116
 ![[KBe20math401src1_4p116graph.png]]
 
+$\boxed{-1, 1}$
+
 ---
