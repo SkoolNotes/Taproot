@@ -53,7 +53,9 @@ It's been an 45 minutes. I will now give up on $\LaTeX$ing things
 | 109 | 7			|
 | 110 | 108			|
 | 111 | $\sqrt{5}$	|
-| 112 | 
+| 112 | 36 |
+| 113 | 28 |
+| 114 | 
 
 $$
 \lim_{x\to 6}\frac{g(x)-1}{f(x)} = \frac{\lim_{x\to 6}g(x)-1}{\lim_{x\to 6}f(x)} = \boxed{2}
