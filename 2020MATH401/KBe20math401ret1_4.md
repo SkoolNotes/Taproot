@@ -27,8 +27,8 @@ $$
 ## 94
 $$
 \begin{aligned}
-\lim_{x\to 4}\frac{x^2-16}{x-4} &\Rightarrow \frac{0}{4-4} = \frac{0}{0}\\
-&= \lim_{x\to 2}\frac{\cancel{x-2}}{x\cancel{\left(x-2\right)}} = \lim_{x\to 2}\frac{1}{x}
+\lim_{x\to 4}\frac{x^2-16}{x-4} &= \frac{0}{4-4} = \frac{0}{0}\\
+&\Rightarrow \lim_{x\to 2}\frac{\cancel{x-2}}{x\cancel{\left(x-2\right)}} = \lim_{x\to 2}\frac{1}{x}
 \end{aligned}
 $$
 
