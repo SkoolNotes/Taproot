@@ -46,7 +46,12 @@ $$
 $$
 ## Time Check
 It's been an 45 minutes. I will now give up on $\LaTeX$ing things
-## 108
+| Problem | Result |
+|---------|--------|
+108 | 2
+109 | 7
+
+
 $$
 \lim_{x\to 6}\frac{g(x)-1}{f(x)} = \frac{\lim_{x\to 6}g(x)-1}{\lim_{x\to 6}f(x)} = \boxed{2}
 $$
