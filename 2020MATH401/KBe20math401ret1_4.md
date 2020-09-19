@@ -35,7 +35,8 @@ $$
 ## 98
 
 $$
-\lim_{h\to 0}\frac{\frac{1}{a+h}-\frac{1}{a}}{h} \Rightarrow \frac{ \lim_{h\to 0}\frac{1}{a+h}-\lim_{h\to 0}\frac{1}{a}}{\lim_{h\to 0}h}
+\lim_{h\to 0}\frac{\frac{1}{a+h}-\frac{1}{a}}{h} \Rightarrow \frac{ \lim_{h\to 0}\frac{1}{a+h}-\lim_{h\to 0}\frac{1}{a} }{}$$
+$${\lim_{h\to 0}h}
 $$ now what..
 
 This is just the derivative of $\frac{1}{a}$ where $a$ is a real valued, non zero constant. So, it should just be $0$.
