@@ -17,14 +17,17 @@ see [[KBe20math401srcLimitLawsBrainstorm.pdf]]
 $$
 \lim_{x\to 1}\frac{x^3+3x^2+5}{4-7x} = \frac{1+3+5}{4-7} = \frac{9}{-3} = \boxed{-3}
 $$
+
 ## 85
 $$
 \lim_{x\to -2}\sqrt{x^2-6x+3} = \sqrt{4 - (-12) + 3} = \boxed{\sqrt{19}}
 $$
+
 ## 86
 $$
 \lim_{x\to_1}\left(9x+1\right)^2 = \left(-9+1\right)^2 = \boxed{64}
 $$
+
 ## 94
 $$
 \begin{aligned}
@@ -38,13 +41,16 @@ $$
 $$
 \lim_{h\to 0}\frac{\frac{1}{a+h}-\frac{1}{a}}{h} \Rightarrow \frac{ \lim_{h\to 0}\frac{1}{a+h}-\lim_{h\to 0}\frac{1}{a} }{\lim_{h\to 0}h}
 $$
+
 now what..?
 
 This is just the derivative of $\frac{1}{a}$ where $a$ is a real valued, non zero constant. So, it should just be $\boxed{0}$.
+
 ## 100
 $$
 \lim_{x\to1}\frac{x^3-1}{x^2-1} \Rightarrow \lim_{x\to 1}\frac{\cancel{(x-1)}(x^2+1+x)}{(x+1)\cancel{(x-1)}} = \lim_{x\to 1}\frac{x^2+x+1}{x+1} = \boxed{\frac{3}{2}}
 $$
+
 ## Time Check
 It's been an 45 minutes. I will now give up on $\LaTeX$ing things:
 
