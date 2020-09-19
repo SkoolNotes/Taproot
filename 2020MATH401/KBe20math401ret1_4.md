@@ -24,5 +24,8 @@ $$
 $$
 \lim_{x\to_1}\left(9x+1\right)^2 = \left(-9+1\right)^2 = \boxed{64}
 $$
+## 94
+$$
+\lim_{x\to 4}\frac{x^2-16}{x-4} 
 
 ---
