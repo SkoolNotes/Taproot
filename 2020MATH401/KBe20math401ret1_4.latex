@@ -189,9 +189,8 @@ Exercises}\label{openstax-calculus-vol1-2.3-exercises}}
   \lim_{x\to 4}\frac{x^2-16}{x-4} &= \frac{0}{4-4} = \frac{0}{0}\\
   &\Rightarrow \lim_{x\to 2}\frac{\cancel{x-2}}{x\cancel{\left(x-2\right)}} = \lim_{x\to 2}\frac{1}{x} = \frac{1}{2}
   \end{aligned}
-  \] \#\# 98 \$\$
-  \lim\emph{\{h\to 0\}\frac{\frac{1}{a+h}-\frac{1}{a}}{h}
-  \Rightarrow \lim}\{h\to 0\}
+  \] \#\# 98 \$\$ \lim\_\{h\to 0\}\frac{\frac{1}{a+h}-\frac{1}{a}}{h}
+  \Rightarrow \frac{\lim_{h\to 0}}{\lim_{h\to 0}h}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
