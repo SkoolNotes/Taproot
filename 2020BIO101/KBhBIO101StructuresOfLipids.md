@@ -42,7 +42,7 @@ The hydrophobic tail stays inside, and the hydrophillic head pokes outside and a
 
 ![Screen Shot 2020-09-09 at 3.11.54 PM.png](./Screen Shot 2020-09-09 at 3.11.54 PM.png)
 
-A same idea as phosophilids, but instead in a big wad of phosolipids. this arrangement is also how basic cells form membraines. [[KBhBIO101CellMembraines]]
+A same idea as Phosophilids, but instead in a big wad of Phosolipids. this arrangement is also how basic cells form membranes. [[KBhBIO101CellMembraines]]
 
 ## Steroids
 ![Screen Shot 2020-09-11 at 2.43.35 PM.png](./Screen Shot 2020-09-11 at 2.43.35 PM.png)
