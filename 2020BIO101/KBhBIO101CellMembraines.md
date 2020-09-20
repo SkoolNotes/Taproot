@@ -34,8 +34,12 @@ How chemicals get in + out of the cell
 
 **Passive diffusion**
 
-- Passive Passive diffusions => nonpolar things simply "fall in"
-- Facillitated diffusions => polar molecules selectively get throgh protean channels
-- Active transport
-- ATP sheperds elements in  
-- Bulk transport across the plasma membrane occurs by exocytosis and endocytosis. 
+"Passive… Passive Diffusion": Non-Polar things simply "fall in" in the direction of chemical gradient
+
+"Facilitated Diffusion": polar molecules selectively get through protean channels
+
+**Active diffusion**
+
+"Active transport": ATP shepherds elements in  
+
+"Bulk transport": transport across the plasma membrane occurs by exocytosis and endocytosis. 
