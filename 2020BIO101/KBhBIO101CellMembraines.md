@@ -5,7 +5,7 @@ course: BIO101
 author: Houjun Liu
 ---
 
-# Cell Membrains
+# Cell Membrane
 - Variety of components
 - Suspended in "fluid mosaic"
 - Phosopholipids in fluid mosaic
