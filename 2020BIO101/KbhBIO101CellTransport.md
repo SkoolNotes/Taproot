@@ -1,16 +1,14 @@
 ---
-title: Cell Membrain Protean Transports
+title: Cell Membranes Protean Transports
 source: KBhBIO101CellMembraines
 author: Houjun Liu
 course: BIO101
 ---
 
-
-**Passive diffusion**
-
-"Passive… Passive Diffusion": Non-Polar things simply "fall in" in the direction of chemical gradient
-
-"Facilitated Diffusion": polar molecules selectively get through protean channels
+# Cell Membrane Protean Transports 
+## Passive diffusion
+- **Passive… Passive Diffusion**: Non-Polar things simply "fall in" in the direction of chemical gradient
+- **Facilitated Diffusion**: polar molecules selectively get through protean channels
 
 **Active diffusion**
 
