@@ -18,7 +18,6 @@ So, head aligns and tail aligns, creating the basic structure of the membrane:
 ![Screen Shot 2020-09-09 at 3.08.10 PM.png](./Screen Shot 2020-09-09 at 3.08.10 PM.png)
 
 ### Stuff in the membrane
-
 **Cholesterol**
 
 Helps cells communicate
@@ -31,11 +30,12 @@ Helps cells communicate
 - Channeled proteins let specific polar particles through
 
 ### Cell Transport
-
 How chemicals get in + out of the cell
-    - Passive diffusion
-        - Passive Passive diffusions => nonpolar things simply "fall in"
-        - Facillitated diffusions => polar molecules selectively get throgh protean channels
-        - Active transport
-            - ATP sheperds elements in  
-        - Bulk transport across the plasma membrane occurs by exocytosis and endocytosis. 
+
+**Passive diffusion**
+
+- Passive Passive diffusions => nonpolar things simply "fall in"
+- Facillitated diffusions => polar molecules selectively get throgh protean channels
+- Active transport
+- ATP sheperds elements in  
+- Bulk transport across the plasma membrane occurs by exocytosis and endocytosis. 
