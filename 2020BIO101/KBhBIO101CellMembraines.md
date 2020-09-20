@@ -13,7 +13,7 @@ Some Phosopholipids connected as a "phosolipid bi-layer" (see [[KBhBIO101Structu
 - Charged head
 - Nonpolar tail
 
-So, head
+So, head aligns and tai
 
 - Also includes…
     - Colestrol
