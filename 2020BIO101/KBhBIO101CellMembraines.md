@@ -6,8 +6,7 @@ author: Houjun Liu
 ---
 
 # Cell Membrane
-- Variety of components
-- Suspended in "fluid mosaic"
+## Suspended in "fluid mosaic"
 - Phosopholipids in fluid mosaic
     - Charged head
     - Nonpolar tail
