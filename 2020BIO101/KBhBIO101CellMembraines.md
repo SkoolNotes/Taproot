@@ -19,7 +19,7 @@ So, head aligns and tail aligns, creating the basic structure of the membrane:
 
 ### Stuff in the membrane
 
-Colestrol 
+Cholesterol
         - Cells communicates 
     - Proteans
         - Makes sure the right molecules gets in/out
