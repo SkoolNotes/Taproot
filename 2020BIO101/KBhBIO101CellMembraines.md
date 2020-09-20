@@ -6,8 +6,9 @@ author: Houjun Liu
 ---
 
 # Cell Membrane
-## Suspended in "fluid mosaic"
-- Phosopholipids in fluid mosaic
+## Fluid mosaic model
+
+Some Phosopholipids (see [[KBhBIO101StructuresOfLipids]] Structure of lipids) in fluid mosaic
     - Charged head
     - Nonpolar tail
     - "bi layer"
