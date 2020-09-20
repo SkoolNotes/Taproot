@@ -19,9 +19,11 @@ So, head aligns and tail aligns, creating the basic structure of the membrane:
 
 ### Stuff in the membrane
 
-Cholesterol
-        - Cells communicates 
-    - Proteans
+**Cholesterol**
+
+Helps cells communicate
+
+Proteans
         - Makes sure the right molecules gets in/out
         - Nonpolar Oxygen + CO2 could easily get through
         - Polar and charged molecules can't get through, unless...
