@@ -42,4 +42,8 @@ How chemicals get in + out of the cell
 
 "Active transport": ATP shepherds elements in  
 
-"Bulk transport": transport across the plasma membrane occurs by exocytosis and endocytosis. 
+"Bulk transport": 
+
+- Large item transport across the plasma membrane
+- Transport vesicles attaches to membrane to receive elements
+- Exocytosis and Endocytosis
