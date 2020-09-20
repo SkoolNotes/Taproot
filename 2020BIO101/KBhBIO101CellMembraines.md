@@ -23,12 +23,16 @@ So, head aligns and tail aligns, creating the basic structure of the membrane:
 
 Helps cells communicate
 
-Proteans
-        - Makes sure the right molecules gets in/out
-        - Nonpolar Oxygen + CO2 could easily get through
-        - Polar and charged molecules can't get through, unless...
-        - Channeled proteins let specific polar particles through
-- Cell Transport => how chemicals get in + out of the cell
+**Proteans**
+
+- Makes sure the right molecules gets in/out
+- Nonpolar Oxygen + CO2 could easily get through
+- Polar and charged molecules can't get through, unless...
+- Channeled proteins let specific polar particles through
+
+### Cell Transport
+
+How chemicals get in + out of the cell
     - Passive diffusion
         - Passive Passive diffusions => nonpolar things simply "fall in"
         - Facillitated diffusions => polar molecules selectively get throgh protean channels
