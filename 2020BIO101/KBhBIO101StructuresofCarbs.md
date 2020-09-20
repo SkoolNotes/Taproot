@@ -13,6 +13,8 @@ Each carbohydrate could be a monomer (6 carbons, simple structure). A carbohydra
 * Complicated polymers is what forms the energy builds of life
 * The same atoms, with different bonds and hence a different species, result in "isomers"
 
+General chemical formula: $C_n H_{2n} O$
+
 ## The mer-library
 
 | Name      | Note                                    | Composition                                                |
