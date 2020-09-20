@@ -12,7 +12,8 @@ Some Phosopholipids connected as a "phosolipid bi-layer" (see [[KBhBIO101Structu
 
 - Charged head
 - Nonpolar tail
-- So, connected
+
+So, head
 
 - Also includes…
     - Colestrol
