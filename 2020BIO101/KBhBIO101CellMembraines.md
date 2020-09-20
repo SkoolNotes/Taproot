@@ -5,8 +5,6 @@ course: BIO101
 author: Houjun Liu
 ---
 
-#disorganized
-
 # Cell Membrains
 - Variety of components
 - Suspended in "fluid mosaic"
