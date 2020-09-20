@@ -8,10 +8,11 @@ author: Houjun Liu
 # Cell Membrane
 ## Fluid mosaic model
 
-Some Phosopholipids (see [[KBhBIO101StructuresOfLipids]] Structure of lipids) in fluid mosaic
-    - Charged head
-    - Nonpolar tail
-    - "bi layer"
+Some Phosopholipids connected as a "phosolipid bi-layer" (see [[KBhBIO101StructuresOfLipids]] structure 
+
+- Charged head
+- Nonpolar tail
+
 - Also includes…
     - Colestrol
         - Cells communicates 
