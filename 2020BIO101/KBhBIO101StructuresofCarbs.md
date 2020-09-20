@@ -15,6 +15,10 @@ Each carbohydrate could be a monomer (6 carbons, simple structure). A carbohydra
 
 General chemical formula: $C_n H_{2n} O$
 
+- Monosacharride => a monomer of carbohydrates
+- Disachoride => a dinomer (?) of carbohydrates
+- Polysachride => a polymer of carbohydrates
+
 ## The mer-library
 
 | Name      | Note                                    | Composition                                                |
