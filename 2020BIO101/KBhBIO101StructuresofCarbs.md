@@ -46,6 +46,8 @@ General chemical formula: $C_n H_{2n} O$
 
 Hence, you get thirsty after around 45mins whenever you eat lots of sugar — ye gotta get that water to rehydrate and break down those polymers.
 
+Bonds are called "glycocidic" bonds
+
 ***
 
 And now, a note on energy.
