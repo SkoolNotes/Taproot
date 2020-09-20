@@ -16,6 +16,8 @@ See [[KBhBIO101FluidMosaic]]
 
 How chemicals get in + out of the cell
 
+See [[KbhBIO101Cell]]
+
 **Passive diffusion**
 
 "Passive… Passive Diffusion": Non-Polar things simply "fall in" in the direction of chemical gradient

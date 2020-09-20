@@ -16,6 +16,8 @@ So, head aligns and tail aligns, creating the basic structure of the membrane:
 
 ![Screen Shot 2020-09-09 at 3.08.10 PM.png](./Screen Shot 2020-09-09 at 3.08.10 PM.png)
 
+This is called the "fluid mosaic" model because there is nothing holding these together.
+
 ## Stuff in the membrane
 **Cholesterol**
 
