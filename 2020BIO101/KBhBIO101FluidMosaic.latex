@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Cell Membrains }
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,41 +162,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBhBIO101StructuresOfLipids}{\tiny\textulf{[[}\textbf{KBhBIO101StructuresOfLipids}\textulf{]]}}}\thinspace
 
-\hypertarget{cell-membrane}{%
-\section{Cell Membrane}\label{cell-membrane}}
 
-See {[}{[}KBhBIO101FluidMosaic{]}{]}
-
-\hypertarget{cell-transport}{%
-\subsubsection{Cell Transport}\label{cell-transport}}
-
-How chemicals get in + out of the cell
-
-\textbf{Passive diffusion}
-
-``Passive\ldots{} Passive Diffusion'': Non-Polar things simply ``fall
-in'' in the direction of chemical gradient
-
-``Facilitated Diffusion'': polar molecules selectively get through
-protean channels
-
-\textbf{Active diffusion}
-
-``Active transport'': ATP shepherds elements in
-
-``Bulk transport'':
-
-\begin{itemize}
-\tightlist
-\item
-  Large item transport across the plasma membrane
-\item
-  Transport vesicles attaches to membrane to receive elements
-\item
-  Exocytosis and Endocytosis
-\end{itemize}
 
 \end{document}

@@ -6,28 +6,8 @@ author: Houjun Liu
 ---
 
 # Cell Membrane
-## Fluid mosaic model
 
-Some Phosopholipids connected as a "phosolipid bi-layer" (see [[KBhBIO101StructuresOfLipids]] structure 
-
-- Charged head
-- Nonpolar tail
-
-So, head aligns and tail aligns, creating the basic structure of the membrane:
-
-![Screen Shot 2020-09-09 at 3.08.10 PM.png](./Screen Shot 2020-09-09 at 3.08.10 PM.png)
-
-### Stuff in the membrane
-**Cholesterol**
-
-Helps cells communicate
-
-**Proteans**
-
-- Makes sure the right molecules gets in/out
-- Nonpolar Oxygen + CO2 could easily get through
-- Polar and charged molecules can't get through, unless...
-- Channeled proteins let specific polar particles through
+See [[KBhBIO101FluidMosaic]]
 
 ### Cell Transport
 How chemicals get in + out of the cell
