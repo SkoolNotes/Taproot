@@ -13,10 +13,13 @@ Some Phosopholipids connected as a "phosolipid bi-layer" (see [[KBhBIO101Structu
 - Charged head
 - Nonpolar tail
 
-So, head aligns and tai
+So, head aligns and tail aligns, creating the basic structure of the membrane:
 
-- Also includes…
-    - Colestrol
+![Screen Shot 2020-09-09 at 3.08.10 PM.png](./Screen Shot 2020-09-09 at 3.08.10 PM.png)
+
+### Stuff in the membrane
+
+Colestrol 
         - Cells communicates 
     - Proteans
         - Makes sure the right molecules gets in/out
