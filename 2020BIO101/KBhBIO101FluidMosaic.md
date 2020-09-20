@@ -29,3 +29,5 @@ Helps cells communicate
 - Nonpolar Oxygen + CO2 could easily get through
 - Polar and charged molecules can't get through, unless...
 - Channeled proteins let specific polar particles through
+
+Through various [[KBhBIO101CellMembraines]] protean transports, chemicals could get in and out of the cell.
