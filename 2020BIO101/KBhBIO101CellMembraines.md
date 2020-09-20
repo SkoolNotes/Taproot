@@ -14,7 +14,6 @@ See [[KBhBIO101FluidMosaic]]
 
 # Cell Transport
 
-
 How chemicals get in + out of the cell
 
 **Passive diffusion**
@@ -30,5 +29,5 @@ How chemicals get in + out of the cell
 "Bulk transport": 
 
 - Large item transport across the plasma membrane
-- Transport vesicles attaches to membrane to receive elements
+- Transport vesicles brakes off membrane to receive elements, recycled back later
 - Exocytosis and Endocytosis
