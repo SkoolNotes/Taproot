@@ -122,4 +122,6 @@ Devshirme system pluck young Christian boys and train them in islam to appoint g
 
 *** 
 
-Eventually, government corruption led the Janissaries 
+Eventually, government corruption led the Janissaries to become hereditory, and then sadness.
+
+
