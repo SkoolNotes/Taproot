@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{ ISOS101 }
-\newcommand{\thelesson}{ ISOS Master Index }
+\newcommand{\thelesson}{ Strong Inference }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -163,57 +163,11 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBISOSMasterIndex}{\tiny\textulf{[[}\textbf{KBISOSMasterIndex}\textulf{]]}}}\thinspace
 
-\#source
+\hypertarget{strong-inference-notes}{%
+\section{Strong inference notes}\label{strong-inference-notes}}
 
-\hypertarget{isos-index}{%
-\section{ISOS Index}\label{isos-index}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhISOS101D1{]}{]} ISOS Day 1
-\item
-  Thoughts on Theaetetus
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Jack's Take: {[}{[}KBhISOS101Thaetetus{]}{]}
-  \item
-    Huxley's Take {[}{[}KBTheaetetus{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}KBPatternsofDiscoveryObservationhighlights{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBPatternsOfDiscoveryNotes{]}{]}
-  \item
-    Jack's Take: {[}{[}KBhISOS101PatternsOfDiscovery{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}KBGenderandtheBiologicalSciencesHighlights.pdf{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBGenderAndBioISOS{]}{]}
-  \item
-    Dylan's Take: {[}{[}KBdGenderAndBio{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}Strong Inference highlights 2019.pdf{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBStrongInferenceNotes{]}{]}
-  \item
-    Jack's Take: {[}{[}KBhISOS101StrongInference{]}{]}
-  \end{itemize}
-\end{itemize}
+\#uncompiled
 
 \end{document}
