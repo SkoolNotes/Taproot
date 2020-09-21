@@ -14,7 +14,6 @@ course: HIST201
 * With Syria and Egypt shrinking 16th century, Ottomans became the biggest Muslim empire
 * Less medieval, and represented more the new age centralized monarchyi
 
-
 * Beginnings
     * Turkish Nomads + Muslim Warriors + Christian Islamic Converts
     * 3 factors of growth
