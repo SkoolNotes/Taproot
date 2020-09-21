@@ -25,5 +25,10 @@ course: ISOS101
      * However, minimum sequence for knowledge production
      * Subject to squabbles
          * Whether to exhaust all possbilites or test simply the reasonable ones
-         * 
+         
+ * Conditional inductive tree
+     1. Possible causes
+     2. Crucial experiments
+     3. Exclusions based on experimentation and adopting what's left
+ 
 * Molecular biology: user of strong inference

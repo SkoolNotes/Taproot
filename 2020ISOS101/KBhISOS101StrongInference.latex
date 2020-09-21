@@ -223,9 +223,21 @@
     \item
       Whether to exhaust all possbilites or test simply the reasonable
       ones
-    \item
     \end{itemize}
   \end{itemize}
+\item
+  Conditional inductive tree
+
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi}.}
+  \tightlist
+  \item
+    Possible causes
+  \item
+    Crucial experiments
+  \item
+    Exclusions based on experimentation and adopting what's left
+  \end{enumerate}
 \item
   Molecular biology: user of strong inference
 \end{itemize}
