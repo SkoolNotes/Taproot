@@ -21,14 +21,14 @@ General chemical formula: $C_n H_{2n} O$
 
 ## The mer-library
 
-| Name      | Note                                    | Composition                                                |
-|-----------|-----------------------------------------|------------------------------------------------------------|
-| Sucrose   | Common Sugar                            | Disachoride: Glucose + Fructose                            |
-| Lactose   | The thing that's in milk                | Disachoride: Glucose + Galactose                           |
-| Cellose   | We can't digest this, but plants use it | Polysacharides: Glucose + Glucose+ Glucose + ... + Glucose |
-| Glucose   | Bulding block of sugar                  | Monomer                                                    |
-| Galactose |                                         | Monomer                                                    |
-| Fructose  | Controvercial                           | Monomer                                                    |
+| Name      | Note                                    | Composition                                                    |
+|-----------|-----------------------------------------|----------------------------------------------------------------|
+| Sucrose   | Common Sugar                            | Disachoride: Glucose + Fructose                                |
+| Lactose   | The thing that's in milk                | Disachoride: Glucose + Galactose                               |
+| Cellose   | We can't digest this, but plants use it | Polysacharides: betaGlucose + Glucose+ Glucose + ... + Glucose |
+| Glucose   | Bulding block of sugar                  | Monomer                                                        |
+| Galactose |                                         | Monomer                                                        |
+| Fructose  | Controvercial                           | Monomer                                                        |
 
 ## Making and Breaking -mers
 **Creating a polymer ("dehydration")**
