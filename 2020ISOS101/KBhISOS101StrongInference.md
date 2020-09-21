@@ -7,7 +7,7 @@ course: ISOS101
 
 # Strong inference notes
 
-#uncompiled
+#disorganized
 
 * "All science is equal": a fiction
     * Attempt at grant getting?
