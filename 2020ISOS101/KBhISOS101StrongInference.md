@@ -24,3 +24,4 @@ course: ISOS101
      * Not as simple as deduction
      * However, minimum sequence for knowledge production
 * Molecular biology: user of strong inference
+* 
