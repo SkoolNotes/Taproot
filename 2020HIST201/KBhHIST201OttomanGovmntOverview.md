@@ -23,14 +23,15 @@ The Ottomans assigned the basic administrative tasks to each person's religion. 
 
 Grand Vizier + Sultan appoint the heads of each religion
 
-## Criminal Law, Tax Collection, Millitary, and Policing by government 
+## Criminal Law, Tax Collection, Military, and Policing
+For items that involve forcible enforcement, the Ottomans instead relied on instruments under the direct control of the Sultans
 
 1. Local administrator
 2. Governors
 
 Devshirme system pluck young Christian boys and train them in islam to appoint governors + local administrators. 
 
-*** 
+## Conflict and Corruption
 
 Eventually, government corruption led the Janissaries to become hereditory, and then sadness.
 
