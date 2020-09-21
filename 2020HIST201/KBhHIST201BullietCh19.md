@@ -106,3 +106,8 @@ Civic Law, Taxation, and Education by default religion
 * Jews => Grand Rabbi
 
 Grand Vizier + Sultan appoint the heads of each religion.
+
+Criminal Law, Tax Collection, Millitary, and Policing by government 
+
+1. Local administrator
+2. Governors
