@@ -13,6 +13,9 @@ source: KBhHIST201KennedyCh1
 * Huge landmass
 * Large army (and, large cannons + siege trains)
     * Strong Navy! => deployed frequently in the Black Sea, Constantinople, North Africa
+ 
+The Ottoman empire grew from small size. However, with Syria and Egypt shrinking 16th century, Ottomans became the biggest Muslim empire. Its less medieval nature represented more the new age, centralized monarchy
+
     
 ## The Rise
 

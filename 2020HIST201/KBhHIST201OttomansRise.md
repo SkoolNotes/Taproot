@@ -1,5 +1,5 @@
 ---
-title: Ottomans' Success + Effective Governments
+title: Ottomans' Rise in the 1500s
 source: KBhHIST201Ottomans1500
 course: HIST201
 author: Houjun Liu
