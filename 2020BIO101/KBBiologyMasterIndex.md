@@ -27,7 +27,8 @@ source: #index
 
 ## Unsorted
 
-* [[KB20200826090938]] Emergent Properties i
+* [[KB20200826090938]] Emergent Properties
+* [[KBhExpirementDesignBIO101]] Expirement design
 - [[KBe20bio101floTripBreakout]]
 * Macromolecules 
     * Jack — [[KBhBIO101Macromolecules]]
