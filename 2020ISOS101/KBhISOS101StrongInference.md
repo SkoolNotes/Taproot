@@ -39,3 +39,4 @@ course: ISOS101
 * Conflict with background and not hypotheses arises in not having multiple possible hypothesis
     * Traditional models of strong induction require the existence of only one true hypothesis out of multiple hypotheses 
     * However, debate about hypothesis could only truly be had if there were multiple
+* Inclusion of something does not mean anything, exclusion of all other possibilties proves a point
