@@ -19,3 +19,8 @@ author: Houjun Liu
         * Depopulated towns
         * Unorderly soldiers
         * Bribery
+        
+## [[KBhHIST201ProblemsWithSilver]] Problems with Silver 
+        * Affected landowners
+        * Could not build stronger millitary
+        * Caused the weakening of calvalrymen + increase in reliance on POWs

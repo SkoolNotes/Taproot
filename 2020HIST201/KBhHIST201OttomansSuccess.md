@@ -30,20 +30,20 @@ course: HIST201
         * Lighthouses
         * Hoursebreeding
         
-        
-
 ### Millitary might
-    * Used traditional mounted warriors 
-    * Also gained Christian POWs
-        * Lived in barracks and trained all year round
-        * Barred from jobs or marryingLived in barracks and trained all year round
-        * Barred from jobs or marrying
-        * Learned to use guns to support horseback solders
-    * Recruited army from Christian youth
-    
+* Used traditional mounted warriors 
+* Also gained Christian POWs
+    * Lived in barracks and trained all year round
+    * Barred from jobs or marryingLived in barracks and trained all year round
+    * Barred from jobs or marrying
+    * Learned to use guns to support horseback solders
+* Recruited army from Christian youth
+
+<!--
 * A cosmopolitan empire
     * "Most powerful and best organized"
         * Advanced land forces aforementioned
         * Heavy military technology
         * Millitaryistic govermentment?
             * Cavalrymen admisitered th erural land
+-->
