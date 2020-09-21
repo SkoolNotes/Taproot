@@ -51,3 +51,25 @@ source: #index
 	* [[KBKissinger]] -- does not exist
 ## Meta References
 - [[20hist201refTechniques]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+1. the class predictions are the generated "labels" for each class -- this is ordered by number, and should hence just be [0 1].
+2. the probabilities are ordered by the class predictions. The model would be less confident as the overlap between features increases. 
+3. the closer the average heights are, the less value it has as a differentiator; thus, the model becomes less confident in it's predictions. 
+4. if a coeficant is negative, it means that as that feature increases the given sample is less likely to belong to the given class -- eg. Liking garlic to being a vampire. 
