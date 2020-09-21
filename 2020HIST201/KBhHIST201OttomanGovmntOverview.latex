@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Ottoman Goverment, an Overview }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,7 +162,68 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201OttomansSuccess}{\tiny\textulf{[[}\textbf{KBhHIST201OttomansSuccess}\textulf{]]}}}\thinspace
 
+\hypertarget{the-ottoman-government-an-overview}{%
+\section{The Ottoman Government, an
+Overview}\label{the-ottoman-government-an-overview}}
 
+@sushu
+
+\hypertarget{heads-of-government}{%
+\subsection{Heads of government}\label{heads-of-government}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Sultan
+\item
+  Grand vizier
+\item
+  Millitary elite --- Jannissaries
+\end{enumerate}
+
+\hypertarget{civic-law-taxation-and-education-by-default-religion}{%
+\subsubsection{Civic Law, Taxation, and Education by default
+religion}\label{civic-law-taxation-and-education-by-default-religion}}
+
+\begin{itemize}
+\tightlist
+\item
+  Muslims =\textgreater{} Shaykh
+\item
+  Christians =\textgreater{} Patriarch
+\item
+  Jews =\textgreater{} Grand Rabbi
+\end{itemize}
+
+Grand Vizier + Sultan appoint the heads of each religion
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Criminal Law, Tax Collection, Millitary, and Policing by government
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Local administrator
+\item
+  Governors
+\end{enumerate}
+
+Devshirme system pluck young Christian boys and train them in islam to
+appoint governors + local administrators.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Eventually, government corruption led the Janissaries to become
+hereditory, and then sadness.
+
+If religions have conflict, the injured party's religion's laws
+presides, unless one member of the conflict is muslim, then in which
+case muslim laws conflict.
 
 \end{document}
