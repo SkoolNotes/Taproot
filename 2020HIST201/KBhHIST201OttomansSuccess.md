@@ -13,21 +13,23 @@ course: HIST201
 *  Faith
 *  Culture
 *  and Language
+* Yet Higher tolerance for other races
 
 ### High Tech Cities
-    * Well drained cities
-    * Libraries and universities _libraries are a strong through-line!_
-    * Strength in…
-        * Math
-        * Cartography
-        * Medicine
-        * Industry
-            * Mills
-            * Gun casting
-            * Lighthouses
-            * Hoursebreeding
+* Well drained cities
+* Libraries and universities _libraries are a strong through-line!_
+* Strength in…
+    * Math
+    * Cartography
+    * Medicine
+    * Industry
+        * Mills
+        * Gun casting
+        * Lighthouses
+        * Hoursebreeding
+        
+        
 * Recruited army from Christian youth
-* Higher tolerance for other races
 
 * Millitary might
     * Used traditional mounted warriors 
