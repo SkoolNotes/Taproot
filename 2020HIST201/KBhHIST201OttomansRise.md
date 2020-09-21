@@ -6,11 +6,12 @@ author: Houjun Liu
 ---
 
 # The Ottomans' Successes in the 1500s
-## Reasons for Success
-* 3 factors of growth
-    * Original leader was quite shrewd
-    * Strategic link between Europe + Asia at the Daranelles strait
-    * Creation of army combining Trukish techniques + high tech gunpowder
+
+**3 main factors of growth**
+
+* Original leader was quite shrewd
+* Strategic link between Europe + Asia at the Daranelles strait
+* Creation of army combining Trukish techniques + high tech gunpowder
 
 * Eastern frontier => where Safavid was
 * Southern frontier => red sea 
