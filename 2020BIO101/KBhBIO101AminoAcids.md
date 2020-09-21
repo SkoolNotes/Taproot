@@ -45,3 +45,5 @@ The linear order of amino acids — staring from the amino terminus (N, exposes 
 
 Average protean is about 300 amino acids long.o
 
+### Protean secondary structure
+
