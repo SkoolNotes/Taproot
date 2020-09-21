@@ -6,21 +6,22 @@ author: Houjun Liu
 ---
 
 # The Ottomans' Fall
-* "Natural consequences of earlier Turkish successes"
-* Got Romanitus — expanded too much to the point of unmanagability => "Strategical Overextension"
+> "Natural consequences of earlier Turkish successes"
+
+* Got Romanitus — expanded too much to the point of unmanagability => "Strategical Overextension" @[[KBhHIST201KennedyCh1]]
 * Switched to an "Iron Fist" management style of crushing dissidents, encouraging the Persians to ally with the Europeans to crush the Ottomans
 * Suffered from being centralized, despotic, and severly orthodox
     * Emperor had to much power
-    * Country became over-conservative
+    * Country became over-conservative #why
     * Bureaucracy became too heavy
-    * Heavy internal plundering
-        * High taxes
-        * Seizures of property 
-        * Depopulated towns
-        * Unorderly soldiers
-        * Bribery
-        
-## [[KBhHIST201ProblemsWithSilver]] Problems with Silver 
-        * Affected landowners
-        * Could not build stronger millitary
-        * Caused the weakening of calvalrymen + increase in reliance on POWs
+* Heavy internal plundering
+    * High taxes
+    * Seizures of property 
+    * Depopulated towns
+    * Unorderly soldiers
+    * Bribery
+
+## Problems with Silver  [[KBhHIST201ProblemsWithSilver]]
+* Affected landowners
+* Could not build stronger millitary
+* Caused the weakening of calvalrymen + increase in reliance on POWs
