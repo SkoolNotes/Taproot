@@ -47,3 +47,4 @@ Average protean is about 300 amino acids long.o
 
 ### Protean secondary structure
 
+Folding a protean simply
