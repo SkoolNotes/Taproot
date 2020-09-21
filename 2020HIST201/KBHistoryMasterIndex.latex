@@ -284,25 +284,4 @@ Sayyah \(\cdot\) \textbf{2020-2021}}
   {[}{[}20hist201refTechniques{]}{]}
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  the class predictions are the generated ``labels'' for each class --
-  this is ordered by number, and should hence just be {[}0 1{]}.
-\item
-  the probabilities are ordered by the class predictions. The model
-  would be less confident as the overlap between features increases.
-\item
-  the closer the average heights are, the less value it has as a
-  differentiator; thus, the model becomes less confident in it's
-  predictions.
-\item
-  if a coeficant is negative, it means that as that feature increases
-  the given sample is less likely to belong to the given class -- eg.
-  Liking garlic to being a vampire.
-\end{enumerate}
-
 \end{document}
