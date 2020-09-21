@@ -90,3 +90,19 @@ course: HIST201
             * European cultures integrated into the Ottoman culture — clothing, books, furtinutes
             * At _gala soirees_, Janissaries revolted, causing the abdication of Sultan Ahmed III
         * Eventually, Janissary commanders became independent rulers, causing a slip of control  
+
+# CN 09212020
+
+Ottoman system
+
+1. Sultan
+2. Grand vizier
+3. Millitary elite — Jannissaries
+
+Civic Law, Taxation, and Education by default religion
+
+* Muslims => Shaykh
+* Christians => Patriarch
+* Jews => Grand Rabbi
+
+Grand Vizier + Sultan appoint the heads of each religion.
