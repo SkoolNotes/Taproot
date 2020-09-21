@@ -15,10 +15,7 @@ course: HIST201
 
 * Beginnig of problems
 
-    * CLAIM: "Religious laws … constrained the ottomans from reforming the tax system"
-        * Levied surtaxes
-        * Caused rebellions + banditry
-    * POWS took advantage of influence to gain the ability to marry and do business, but overall caused deterioation of the qualitiy of the millitary (less professionals, more POWs)
+    
 * Declining government, too!
     * Sultans kept to themselves
     * Prevented male relatives from leaving the palace
