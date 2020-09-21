@@ -10,14 +10,16 @@ course: HIST201
 ## Ottomans' Governmental Effectiveness
 
 ### Established official unity  
-*  Faith
-*  Culture
-*  and Language
+* Faith
+* Culture
+* and Language
 * Yet Higher tolerance for other races
 
 ### High Tech Cities
 * Well drained cities
 * Libraries and universities _libraries are a strong through-line!_
+* Sophisticated language
+* Advanced class system
 * Strength in…
     * Math
     * Cartography
@@ -29,18 +31,17 @@ course: HIST201
         * Hoursebreeding
         
         
-* Recruited army from Christian youth
 
-* Millitary might
+### Millitary might
     * Used traditional mounted warriors 
     * Also gained Christian POWs
         * Lived in barracks and trained all year round
         * Barred from jobs or marryingLived in barracks and trained all year round
         * Barred from jobs or marrying
         * Learned to use guns to support horseback solders
+    * Recruited army from Christian youth
+    
 * A cosmopolitan empire
-    * Sophisticated language
-    * Advanced class system
     * "Most powerful and best organized"
         * Advanced land forces aforementioned
         * Heavy military technology
