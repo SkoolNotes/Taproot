@@ -39,6 +39,9 @@ course: HIST201
     * Learned to use guns to support horseback solders
 * Recruited army from Christian youth
 
+## The Ottoman Government, an Overview
+See [[KBhHIST201OttomanGovmntOverview]]
+
 <!--
 * A cosmopolitan empire
     * "Most powerful and best organized"
