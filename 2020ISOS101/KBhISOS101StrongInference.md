@@ -36,4 +36,5 @@ course: ISOS101
 
 > When we make a single hypothesis, we become attached to it
 
-* Problem in
+* Problem in hypothesis exists in not having mulitple hypothesis
+    * 
