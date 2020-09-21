@@ -37,5 +37,5 @@ course: ISOS101
 > When we make a single hypothesis, we become attached to it
 
 * Conflict with background and not hypotheses arises in not having multiple possible hypothesis
-    * Traditional models of strong induction require the existence of multiple hypotheses
-    * 
+    * Traditional models of strong induction require the existence of only one true hypothesis out of multiple hypotheses 
+    * However, debate about hypothesis could only truly be had if there were multiple
