@@ -26,3 +26,5 @@ See [[KBMATH401ComputingLimits]]
 
 ## Types of Discontinuity
 See [[KBhMATH401Discontinuity]]
+
+## Error and Epsilon Delta Proofs
