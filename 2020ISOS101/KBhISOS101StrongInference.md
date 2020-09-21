@@ -23,5 +23,6 @@ course: ISOS101
         4. Do it again with new subproblem
      * Not as simple as deduction
      * However, minimum sequence for knowledge production
+     * Subject to squabbles
+         * 
 * Molecular biology: user of strong inference
-* 
