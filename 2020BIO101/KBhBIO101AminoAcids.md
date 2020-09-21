@@ -39,3 +39,6 @@ Different folds result in differenta functions
 
 "The Protean Folding Problem" => can we find the fold of the protean just by the unfolded amino acids?
 
+### Protean primary structure
+
+The linear order of amino acids — staring from the amino terminus (N) and moving to carbonxy terminus.
