@@ -20,4 +20,4 @@ course: ISOS101
         1. Hypothesize
         2. Devise experiments to rule out hypothesis
         3. Carry out the experiment
-        4. Do it again
+        4. Do it again with new subproblem
