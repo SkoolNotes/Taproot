@@ -11,21 +11,7 @@ course: HIST201
 
 
 
-* Millitary might
-    * Used traditional mounted warriors 
-    * Also gained Christian POWs
-        * Lived in barracks and trained all year round
-        * Barred from jobs or marryingLived in barracks and trained all year round
-        * Barred from jobs or marrying
-        * Learned to use guns to support horseback solders
-* A cosmopolitan empire
-    * Sophisticated language
-    * Advanced class system
-    * "Most powerful and best organized"
-        * Advanced land forces aforementioned
-        * Heavy military technology
-        * Millitaryistic govermentment?
-            * Cavalrymen admisitered th erural land
+
 * Model of government => "Taxes help fund military and sultan which provides justice for the people"
 * Reality => Goverment had little actual involvement
     * Local customs prevailed

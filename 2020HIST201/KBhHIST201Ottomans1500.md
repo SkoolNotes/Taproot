@@ -21,6 +21,10 @@ The Ottoman empire grew from small size. However, with Syria and Egypt shrinking
 
 See [[KBhHIST201OttomansRise]]
 
+## The Height
+
+See [[KBhHIST201OttomansSuccess]]
+
 ## The Fall
 
 See [[KBhHIST201OttomansFall1500s]]
