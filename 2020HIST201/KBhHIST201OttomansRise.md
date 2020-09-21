@@ -33,6 +33,13 @@ In 1453, Constantinople was conquered by the Ottomans, which ended Byzantine rul
 * Conqured Egypt 1517
 * Worked around, and all the way to the Black Sea — attacking Arabia along the way
 * Overran Hungary (although, Northern Hungary was kept, and so was the HRE) the same year
+* Seeked control of the Mediterranean
+* (Unsuccessfullyl) tried to fight Venice
+    * Initial fight => reduced millitary power + tribunage
+    * Finally fell another century later, but due to unrelated reasons
+* Fought the Porchugueses, too!
+    * Tried to deter porchuguese threats
+    * Sucessfully prevented them from closing in, but ultimately did not conqur into parchugal
 
 ## Ottomans' Governmental Effectiveness
 * Established official unity  

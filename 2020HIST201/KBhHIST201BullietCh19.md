@@ -10,14 +10,7 @@ course: HIST201
 #disorganized
 
 
-   
-* Seeked control of the Mediterranean
-* (Unsuccessfullyl) tried to fight Venice
-    * Initial fight => reduced millitary power + tribunage
-    * Finally fell another century later, but due to unrelated reasons
-* Fough the Porchugueses, too!
-    * Tried to deter porchuguese threats
-    * Sucessfully prevented them from closing in, but ultimately did not conqur into parchugal
+
 * Millitary might
     * Used traditional mounted warriors 
     * Also gained Christian POWs
