@@ -39,4 +39,6 @@ In 1453, Constantinople was conquered by the Ottomans, which ended Byzantine rul
     * Finally fell another century later, but due to unrelated reasons
 * Fought the Porchugueses, too!
     * Tried to deter porchuguese threats
-    * Sucessfully prevented them from closing in, but ultimately did not conqur into parchugal
+    * Successfully prevented them from closing in, but ultimately did not conquer into Porchigual
+    
+    Next up: [[KBhHIST201OttomansSuccess]]

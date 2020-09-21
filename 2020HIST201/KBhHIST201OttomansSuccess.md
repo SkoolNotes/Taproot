@@ -8,11 +8,13 @@ course: HIST201
 # The Height of the Ottomans
 
 ## Ottomans' Governmental Effectiveness
-* Established official unity  
-    *  Faith
-    *  Culture
-    *  and Language
-* High Tech.
+
+### Established official unity  
+*  Faith
+*  Culture
+*  and Language
+
+### High Tech Cities
     * Well drained cities
     * Libraries and universities _libraries are a strong through-line!_
     * Strength in…
