@@ -16,4 +16,6 @@ course: ISOS101
     
 * String inference
     * Basic inductive reasoning
-    * Basis of the sciencentific methodw
+    * Basis of the scientific method
+        1. Hypothesize
+        2. Devise experiements to rule out hypothesis

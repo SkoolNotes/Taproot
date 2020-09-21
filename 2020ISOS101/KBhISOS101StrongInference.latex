@@ -197,7 +197,16 @@
   \item
     Basic inductive reasoning
   \item
-    Basis of the sciencentific methodw
+    Basis of the scientific method
+
+    \begin{enumerate}
+    \def\labelenumi{\arabic{enumi}.}
+    \tightlist
+    \item
+      Hypothesize
+    \item
+      Devise experiements to rule out hypothesis
+    \end{enumerate}
   \end{itemize}
 \end{itemize}
 
