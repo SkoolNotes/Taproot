@@ -49,3 +49,6 @@ Average protean is about 300 amino acids long.o
 
 Folding a protean without concern to the amino acid side chains. The folding is only concerned with being stabilized with dipole attraction to hydrogen.
 
+Two main secondary structures: the alpha helix and beta sheet.s
+
+
