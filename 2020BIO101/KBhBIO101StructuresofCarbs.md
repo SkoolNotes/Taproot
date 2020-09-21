@@ -48,6 +48,9 @@ Hence, you get thirsty after around 45mins whenever you eat lots of sugar — ye
 
 Bonds are called "glycocidic" bonds
 
+![CrLHc0-WEAAe12C.jpg](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020BIO101/CrLHc0-WEAAe12C.jpg)
+
+
 ***
 
 And now, a note on energy.
