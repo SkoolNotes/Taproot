@@ -32,3 +32,8 @@ course: ISOS101
      3. Exclusions based on experimentation and adopting what's left
  
 * Molecular biology: user of strong inference
+
+
+> When we make a single hypothesis, we become attached to it
+
+* 
