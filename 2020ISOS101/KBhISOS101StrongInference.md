@@ -17,12 +17,13 @@ course: ISOS101
 * String inference
     * Basic inductive reasoning
     * Basis of the scientific method
-        1. Hypothesize
+        1. Hypothesize all alternatives
         2. Devise experiments to rule out hypothesis
         3. Carry out the experiment
         4. Do it again with new subproblem
      * Not as simple as deduction
      * However, minimum sequence for knowledge production
      * Subject to squabbles
+         * Whether to exhaust all possbilites or test simply the reasonable ones
          * 
 * Molecular biology: user of strong inference

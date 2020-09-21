@@ -203,7 +203,7 @@
     \def\labelenumi{\arabic{enumi}.}
     \tightlist
     \item
-      Hypothesize
+      Hypothesize all alternatives
     \item
       Devise experiments to rule out hypothesis
     \item
@@ -220,6 +220,9 @@
 
     \begin{itemize}
     \tightlist
+    \item
+      Whether to exhaust all possbilites or test simply the reasonable
+      ones
     \item
     \end{itemize}
   \end{itemize}
