@@ -93,7 +93,7 @@ course: HIST201
 
 # CN 09212020
 
-Ottoman system
+## Ottoman system
 
 1. Sultan
 2. Grand vizier
@@ -105,9 +105,11 @@ Civic Law, Taxation, and Education by default religion
 * Christians => Patriarch
 * Jews => Grand Rabbi
 
-Grand Vizier + Sultan appoint the heads of each religion.
+Grand Vizier + Sultan appoint the heads of each religion
 
 Criminal Law, Tax Collection, Millitary, and Policing by government 
 
 1. Local administrator
 2. Governors
+
+Devshirme
