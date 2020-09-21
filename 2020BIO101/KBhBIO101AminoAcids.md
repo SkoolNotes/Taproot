@@ -35,7 +35,7 @@ All cell uses _rybozome_ to force animo acids together to make proteins. And yes
 
 Proteins, when unfolded, is a long chain of amino acids. When they are folded in different configurations, you get a working protean.
 
-Different folds result in different
+Different folds result in differenta functions
 
 "The Protean Folding Problem" => can we find the fold of the protean just by the unfolded amino acids?
 
