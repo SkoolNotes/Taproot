@@ -36,5 +36,6 @@ course: ISOS101
 
 > When we make a single hypothesis, we become attached to it
 
-* Problem in hypothesis exists in not having mulitple hypothesis
+* Conflict with background and not hypotheses arises in not having multiple possible hypothesis
+    * Traditional models of strong induction require the existence of multiple hypotheses
     * 
