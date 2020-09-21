@@ -9,3 +9,6 @@ course: ISOS101
 
 #uncompiled
 
+* "All science is equal": a fiction
+    * Attempt at grant getting?
+    * 
