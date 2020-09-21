@@ -10,10 +10,7 @@ course: HIST201
 #disorganized
 
 
-* Beginnings
-    * Turkish Nomads + Muslim Warriors + Christian Islamic Converts
-    * Eventually in 1453  conquerered Constantinople, which ended Byzantine rule + gave a pretty good capital
-    
+   
 * Seeked control of the Mediterranean
 * (Unsuccessfullyl) tried to fight Venice
     * Initial fight => reduced millitary power + tribunage

@@ -16,6 +16,18 @@ author: Houjun Liu
 * Eastern frontier => where Safavid was
 * Southern frontier => red sea 
 
+## The Early Rise
+
+The country started with a mix of three cultures
+
+* Turkish Nomads
+* Muslim Warriors
+* Christian Converts
+
+
+In 1453, Constantinople was conquered by the Ottomans, which ended Byzantine rule + gave a pretty good capital
+
+
 ## The Ottomans' Battlings
 * Conquered Safavid Empire => 1514
 * Seized Damascus in the year 1516
