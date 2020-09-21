@@ -10,13 +10,12 @@ course: HIST201
 @sushu
 
 ## Heads of government
-
 1. Sultan
 2. Grand vizier
 3. Millitary elite — Jannissaries
 
-
-### Civic Law, Taxation, and Education by default religion
+## Civic Law, Taxation, and Education 
+The Ottomans assigned the basic administrative tasks to each person's religion. Hence, the point of civic authority for the Ottoman subjects is as follows:
 
 * Muslims => Shaykh
 * Christians => Patriarch
@@ -24,9 +23,7 @@ course: HIST201
 
 Grand Vizier + Sultan appoint the heads of each religion
 
-***
-
-Criminal Law, Tax Collection, Millitary, and Policing by government 
+## Criminal Law, Tax Collection, Millitary, and Policing by government 
 
 1. Local administrator
 2. Governors
