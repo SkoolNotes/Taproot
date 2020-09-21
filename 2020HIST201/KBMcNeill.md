@@ -54,6 +54,20 @@ Science did not oppose religious beliefs, necessarily
 
 
 
+In class jots:
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
