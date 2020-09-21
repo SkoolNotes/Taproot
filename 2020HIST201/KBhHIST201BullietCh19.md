@@ -122,4 +122,4 @@ Devshirme system pluck young Christian boys and train them in islam to appoint g
 
 *** 
 
-Eventually, government 
+Eventually, government corruption led the Janissaries 
