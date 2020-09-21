@@ -22,4 +22,4 @@ course: ISOS101
         3. Carry out the experiment
         4. Do it again with new subproblem
      * Not as simple as deduction
-     * 
+     * However, minimum sequence for knowledge production
