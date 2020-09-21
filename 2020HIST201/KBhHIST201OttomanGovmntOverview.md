@@ -33,6 +33,6 @@ Devshirme system pluck young Christian boys and train them in islam to appoint g
 
 ## Conflict and Corruption
 
-Eventually, government corruption led the Janissaries to become hereditory, and then sadness.
+Eventually, government corruption led the Janissaries to become hereditory, and then [[KBhHIST201OttomansFall1500s]] sadness.
 
 If religions have conflict, the injured party's religion's laws presides, unless one member of the conflict is muslim, then in which case muslim laws conflict.
