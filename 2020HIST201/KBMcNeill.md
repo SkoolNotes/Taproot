@@ -57,7 +57,7 @@ Science did not oppose religious beliefs, necessarily
 In class jots:
 
 
-
+during a time of significant change and growth -- was the first sort of highly interconnected region? 
 
 
 
