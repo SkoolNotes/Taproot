@@ -21,14 +21,14 @@ General chemical formula: $C_n H_{2n} O$
 
 ## The mer-library
 
-| Name      | Note                                    | Composition                                                    |
-|-----------|-----------------------------------------|----------------------------------------------------------------|
-| Sucrose   | Common Sugar                            | Disachoride: Glucose + Fructose                                |
-| Lactose   | The thing that's in milk                | Disachoride: Glucose + Galactose                               |
-| Cellose   | We can't digest this, but plants use it | Polysacharides: betaGlucose + Glucose+ Glucose + ... + Glucose |
-| Glucose   | Bulding block of sugar                  | Monomer                                                        |
-| Galactose |                                         | Monomer                                                        |
-| Fructose  | Controvercial                           | Monomer                                                        |
+| Name      | Note                                    | Composition                                                                    |
+|-----------|-----------------------------------------|--------------------------------------------------------------------------------|
+| Sucrose   | Common Sugar                            | Disachoride: Glucose + Fructose                                                |
+| Lactose   | The thing that's in milk                | Disachoride: Glucose + Galactose                                               |
+| Cellose   | We can't digest this, but plants use it | Polysacharides: beta-Glucose + beta-Glucose+ beta-beta-Glucose + ... + Glucose |
+| Glucose   | Bulding block of sugar                  | Monomer                                                                        |
+| Galactose |                                         | Monomer                                                                        |
+| Fructose  | Controvercial                           | Monomer                                                                        |
 
 ## Making and Breaking -mers
 **Creating a polymer ("dehydration")**
@@ -58,7 +58,7 @@ And now, a note on energy.
 
 You could add even more monosachrides/disacharides up to get polysacharides (starch, fiber, glycogen)
 
-* We get energy for lots of glucose (whose polysacharide is starch), but we can't get any from cellulose (whose polysacratide is fiber)
+* We get energy for lots of glucose (the alpha variant of which's polysacharide is starch), but we can't get any from cellulose (whose polysacratide is fiber)
 * We eat fiber to maintain gut health + poop goodly. Cellulose is hydrophillic, meaning that fiber makes your guts lubricated. 
 * Polysaccharides linked together by **glycosidic bonds**.
 
