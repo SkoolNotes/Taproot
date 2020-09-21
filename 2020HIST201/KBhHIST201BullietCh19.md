@@ -10,12 +10,7 @@ course: HIST201
 #disorganized
 
 
-
-
-
-* Beginnig of problems
-
-    
+   
 
 # CN 09212020
 

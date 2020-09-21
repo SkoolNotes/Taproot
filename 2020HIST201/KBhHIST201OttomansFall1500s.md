@@ -72,6 +72,8 @@ author: Houjun Liu
     * At _gala soirees_, Janissaries revolted, causing the abdication of Sultan Ahmed III
 * Eventually, Janissary commanders became independent rulers, causing a slip of control  
 
+*** 
+
 * Rural disorder also caused new economic opportunities
     * CLAIM: ottoman's lack of control brings other European costal regions to resume originally Ottoman controlled trades
     * Local farmers shifted growth to cash crops (tobacco, cotton, oil, etc.)
