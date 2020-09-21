@@ -13,4 +13,5 @@ course: ISOS101
     * Attempt at grant getting?
 * "Primary factor in scientific advance is an intellectual one"
     * Fast moving fields have systemic research methods => strong induction, named "strong inference"
-    * ""
+    
+* ""
