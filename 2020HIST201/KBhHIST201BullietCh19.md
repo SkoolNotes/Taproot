@@ -118,4 +118,8 @@ Criminal Law, Tax Collection, Millitary, and Policing by government
 1. Local administrator
 2. Governors
 
-Devshirme system pluck young Christian boys and train them in islam to appoint governors + local administoraor .
+Devshirme system pluck young Christian boys and train them in islam to appoint governors + local administrators. 
+
+*** 
+
+Eventually, government 
