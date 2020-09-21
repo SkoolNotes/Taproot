@@ -24,7 +24,6 @@ The country started with a mix of three cultures
 * Muslim Warriors
 * Christian Converts
 
-
 In 1453, Constantinople was conquered by the Ottomans, which ended Byzantine rule + gave a pretty good capital
 
 
