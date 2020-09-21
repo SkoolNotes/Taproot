@@ -18,4 +18,6 @@ course: ISOS101
     * Basic inductive reasoning
     * Basis of the scientific method
         1. Hypothesize
-        2. Devise experiements to rule out hypothesis
+        2. Devise experiments to rule out hypothesis
+        3. Carry out the experiment
+        4. Do it again
