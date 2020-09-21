@@ -12,9 +12,13 @@ author: Houjun Liu
     * Strategic link between Europe + Asia at the Daranelles strait
     * Creation of army combining Trukish techniques + high tech gunpowder
 
+* Eastern frontier => where Safavid was
+* Southern frontier => red sea 
+
 ## The Ottomans' Battlings
+* Conquered Safavid Empire => 1514
 * Seized Damascus in the year 1516
-* Entered Egypt 1517
+* Conqured Egypt 1517
 * Worked around, and all the way to the Black Sea — attacking Arabia along the way
 * Overran Hungary (although, Northern Hungary was kept, and so was the HRE) the same year
 

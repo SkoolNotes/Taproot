@@ -16,11 +16,7 @@ course: HIST201
 * Beginnings
     * Turkish Nomads + Muslim Warriors + Christian Islamic Converts
     * Eventually in 1453  conquerered Constantinople, which ended Byzantine rule + gave a pretty good capital
-    * Schedule of Battlings
-        * Conquered Safavid Empire => 1514
-        * Conquered Egypt => 1516-1517
-    * Eastern frontier => where Safavid was
-    * Southern frontier => red sea 
+    
 * Seeked control of the Mediterranean
 * (Unsuccessfullyl) tried to fight Venice
     * Initial fight => reduced millitary power + tribunage
