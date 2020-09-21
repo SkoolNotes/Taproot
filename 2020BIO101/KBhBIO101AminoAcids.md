@@ -4,8 +4,10 @@ source: KBBiologyMasterIndex
 author: Houjun Liu
 course: BIO101
 ---
-
 #disorganized
+
+# Amino Acids
+
 
 H-O-C: Alcahol Group
 C=O: Carboneel
