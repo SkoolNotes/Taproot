@@ -95,9 +95,13 @@ course: HIST201
 
 ## Ottoman system
 
+Heads of government
+
 1. Sultan
 2. Grand vizier
 3. Millitary elite — Jannissaries
+
+***
 
 Civic Law, Taxation, and Education by default religion
 
@@ -107,9 +111,11 @@ Civic Law, Taxation, and Education by default religion
 
 Grand Vizier + Sultan appoint the heads of each religion
 
+***
+
 Criminal Law, Tax Collection, Millitary, and Policing by government 
 
 1. Local administrator
 2. Governors
 
-Devshirme
+Devshirme system pluck young Christian boys and train them in islam to appoint governors + local administoraor .
