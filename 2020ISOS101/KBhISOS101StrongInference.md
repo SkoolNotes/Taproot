@@ -36,4 +36,4 @@ course: ISOS101
 
 > When we make a single hypothesis, we become attached to it
 
-* iProblem in
+* Problem in
