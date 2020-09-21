@@ -41,7 +41,7 @@ Different folds result in differenta functions
 
 ### Protean primary structure
 
-The linear order of amino acids — staring from the amino terminus (N) and moving to carbonxy terminus.
+The linear order of amino acids — staring from the amino terminus (N, exposes the _Amine_ end) and moving to carbonxy terminusi (C, exposes the _Carboxy_ terminus).
 
 Average protean is about 300 amino acids long.o
 
