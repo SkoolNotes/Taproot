@@ -25,4 +25,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
     * Raison d'etat
         * _Each state depended on the other. The well being of the state justified whatever means were employed to further it. The national interest supplanted the medival notion of a universal morality._
             * Balance of power became dominant
-            *  
+            * INFERENCE: more sensible government
+        *  
