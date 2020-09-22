@@ -11,6 +11,8 @@ course: ENG201
 
 * Option 1: motif
     * needs to be more than what is presented in class
-    * Recommend to analyze a character in change
-        * change is easier to track
-        * so 
+    * recommend to analyze a character in change => change is easier to track
+* Option 2: moment
+    * close reading + language
+    * analyze in detail
+        * 
