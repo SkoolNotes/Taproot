@@ -68,3 +68,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
                     * In the end, this was detrimental to France
                 * When most states starts being fully rational and not at all moral, this becomes less fun 
                 *  o
+        > Under Raison d'etat, "The stronger would seek to dominate, and the weaker would resist by forming coalitions to augment their individual strengths"
+        
