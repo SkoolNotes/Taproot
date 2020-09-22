@@ -10,4 +10,4 @@ course: HIST201
 #disorganized
 
 * European balance of power system emerged after medieval collapse
-* Development into inv
+* Development into invb
