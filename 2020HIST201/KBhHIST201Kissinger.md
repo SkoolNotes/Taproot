@@ -1,0 +1,3 @@
+---
+title: Diplomacy - Kissinger
+author:

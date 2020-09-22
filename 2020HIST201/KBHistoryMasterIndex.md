@@ -50,7 +50,8 @@ source: #index
 	* [[KBMcNeill]]
 	* [[KBKissinger]] -- does not exist
 ## Europe
-* Kessinger 
+* Kissinger's Europe
+    * [[KBhHIST201Kissinger]]
 ## Meta References
 - [[20hist201refTechniques]]
 
