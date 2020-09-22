@@ -39,4 +39,7 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
                 * French army joined in too
                 * Devistated central Europe + lost Germany a theird of its population
             * And then… our good friend Richelieu instituted Raison d'etat
-            *  
+                * France was surrounded by HRE
+                * All others loyal to HRE  
+                * Hence, the Cardinal disregarded the fact that he is the Cardinal, and instituted this idea => State > Religion
+                * 
