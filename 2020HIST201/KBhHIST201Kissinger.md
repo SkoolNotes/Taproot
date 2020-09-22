@@ -7,7 +7,9 @@ course: HIST201
 
 # Diplomacy, Kissinger
 
-#disorganized
+The Document: [[KBe20hist201srcKissingerAnnotated]]
+
+#disorganized #flo
 
 * European balance of power system emerged after medieval collapse
 * Development into model of "universality" => one emperor, one church
