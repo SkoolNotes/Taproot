@@ -31,3 +31,4 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
             * Near-death of HRE would allow France to expand eastwards
             * Cardinal de Richelieu
                 * "Father of the modern state system"
+                * Proposed and practiced Raison d'etat for France
