@@ -243,4 +243,10 @@ source: KBhMUS150D1
 
 - Synth pop + retro vocals?
 - White noise as percussion
--  
+
+**Six days**
+
+- Wavetable vibes?
+- Lots of patching into echo
+- Heavily filtered vocals
+- 
