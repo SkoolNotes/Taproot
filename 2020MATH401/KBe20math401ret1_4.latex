@@ -222,12 +222,12 @@ now what..?
 
 This is just the derivative of \(\frac{1}{a}\) where \(a\) is a real
 valued, non zero constant. So, it should just be
-\(\boxed{\frac{1}{a^2}}\).
+\(\boxed{\frac{-1}{a^2}}\).
 
 \hypertarget{in-class-review}{%
 \subsubsection{In class review}\label{in-class-review}}
 
-\[\frac{\frac{a-a-h}{(a+h)a}}{h} \Rightarrow \frac{-1}{a(a+h)}\]
+\[\lim_{h\to 0}\frac{\frac{a-a-h}{(a+h)a}}{h} \Rightarrow \lim_{h\to 0}\frac{-1}{a(a+h)}\]
 
 \hypertarget{section-5}{%
 \subsection{100}\label{section-5}}
