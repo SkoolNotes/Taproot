@@ -256,4 +256,8 @@ source: KBhMUS150D1
 - Interesting… flute? intro?
 - "Gansta walk" type music
 - Typically base heavy
+
+**Lovely Rita**
+
+- Classic Beatles guitar vibes
 - 
