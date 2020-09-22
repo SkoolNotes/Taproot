@@ -69,4 +69,6 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
                 * When most states starts being fully rational and not at all moral, this becomes less fun 
         > Under Raison d'etat, "The stronger would seek to dominate, and the weaker would resist by forming coalitions to augment their individual strengths"
         
-        * Faderick the Great's decision to invade Prussia
+        * CLAIM: Federick the Great's decision to invade Silesia was pure strategy move
+            * Conquest made Prussia a "_bona-fide_ Great Power"
+            * 
