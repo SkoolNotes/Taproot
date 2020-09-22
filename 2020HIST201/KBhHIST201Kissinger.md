@@ -35,4 +35,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
         * Counter-reformation
             * HRE trying to revive Catholic universality + stamp out protenstaism
             * Lead to Thirty Years' War => 1618
-            * 
+                * Danish and Swedish armies cut into Germany
+                * French army joined in too
