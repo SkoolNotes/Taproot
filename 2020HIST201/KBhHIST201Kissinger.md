@@ -64,4 +64,7 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
                       * In the French national interest => prevented HRE encirclement of France
             * Raison d'etat extention and failure
                 * Too much power without morals is no good
-                * 
+                * Louis XIV over exploited the rest of europe
+                    * In the end, this was detrimental to France
+                * When most states starts being fully rational and not at all moral, this becomes less fun 
+                *  
