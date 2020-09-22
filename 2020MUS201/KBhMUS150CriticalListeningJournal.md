@@ -249,4 +249,5 @@ source: KBhMUS150D1
 - Wavetable vibes?
 - Lots of patching into echo
 - Heavily filtered vocals
-- 
+- Indian drums?
+
