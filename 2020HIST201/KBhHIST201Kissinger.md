@@ -75,4 +75,7 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
             * In 1756-1763, switched sides
             * CLAIM: pure result of calculations of benefit
     * Nonsecular wars less violent than holy wars because CLAIM: they did not involve emotion
-    * 
+    * England mediated
+        * Policy based on throwing itself into the weaker side
+        * King William III engineered this
+        * _Raison d'etat_ did not require expansion
