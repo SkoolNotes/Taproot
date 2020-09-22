@@ -58,4 +58,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
           * CLAIM: HRE would have expanded more if they agreed to work with the protestants who were totally fine with HRE dominating politcally
           * Edict of reinstatution
               * Demanded land taken by protestants since 1555 be returned
-      * 
+      * Reichelieu subsidized the Protestant German fight against HRE
+          * 
