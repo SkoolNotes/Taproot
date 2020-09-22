@@ -21,4 +21,10 @@ course: ENG201
     * 3 pages in length => no more, no less
     * 2-3 "thoughtfully selected" per body paragraph
     * Double space, or 1.5
-* 
+* Timing: topic 10/1
+* Rough draft: 10/7 + scheduling time with Alexa
+* Peer edit: 10/8
+* Due: 10/13 (UNAUTHORITATIVE )
+
+
+Instructions further in canvas
