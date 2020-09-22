@@ -22,4 +22,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
         * Enabled feutal rulers to enhance autonomy 
         * Hasburg dynasty + combination with Spanish royalty => Über powerful HRE => Almost centralized nation
         * CLAIM: eventually weakened pope brought end to religious universality, which brought end to that centralized Europe idea
-    * 
+    * Raison d'etat
+        * _Each state depended on the other. THe well being of the state justified whatever means were employed to further it. The national interest supplanted the medival notion of a universal morality._
