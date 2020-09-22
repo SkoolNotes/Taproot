@@ -28,3 +28,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
             * INFERENCE: more sensible government
     * France!
         * CLAIM: lost the most by the boom of the Holy Roman Empire
+            * Near-death of HRE would allow France to expand eastwards
+            * 
