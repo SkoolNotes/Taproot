@@ -29,4 +29,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
     * France!
         * CLAIM: lost the most by the boom of the Holy Roman Empire
             * Near-death of HRE would allow France to expand eastwards
-            * 
+            * Cardinal de Richelieu
+                * "Father of the modern state system"
