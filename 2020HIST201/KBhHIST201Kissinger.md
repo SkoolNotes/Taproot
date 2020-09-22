@@ -48,4 +48,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
                 
               > Had the Habsburg emperors played according to the same rules or understood the emerging world of _raison d'etat,_ they would have seen how well placed they were to achieve what Richelieu feared most-the pre-eminence of Austria and the emergence of the Holy Roman Empire as the dominant power on the Continent 
               
-              * 
+      * HRE Emperor Ferdinand II
+          *
