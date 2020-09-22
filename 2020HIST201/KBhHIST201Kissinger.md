@@ -74,3 +74,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
             * Prussia joined by France, Spain, etc. in war of 1740-1748
             * In 1756-1763, switched sides
             * CLAIM: pure result of calculations of benefit
+    * Nonsecular wars less violent than holy wars because CLAIM: they did not involve emotion
+    * 
