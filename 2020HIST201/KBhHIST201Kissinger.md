@@ -32,3 +32,7 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
             * Cardinal de Richelieu
                 * "Father of the modern state system"
                 * Proposed and practiced Raison d'etat for France
+        * Counter-reformation
+            * HRE trying to revive Catholic universality + stamp out protenstaism
+            * Lead to Thirty Years' War => 1618
+            * 
