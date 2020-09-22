@@ -47,7 +47,7 @@ now what..?
 This is just the derivative of $\frac{1}{a}$ where $a$ is a real valued, non zero constant. So, it should just be $\boxed{0}$.
 
 ### In class review
-$$\frac{\frac{a-a-h}}{(a+h)a}{h} \Rightarrow \frac{-1}{a(a+h)}$$
+$$\frac{\frac{a-a-h}{(a+h)a}}{h} \Rightarrow \frac{-1}{a(a+h)}$$
 
 ## 100
 $$
