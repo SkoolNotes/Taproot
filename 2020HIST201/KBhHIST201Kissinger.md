@@ -26,4 +26,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
         * _Each state depended on the other. The well being of the state justified whatever means were employed to further it. The national interest supplanted the medival notion of a universal morality._
             * Balance of power became dominant
             * INFERENCE: more sensible government
-        *  
+    * France!
+        * CLAIM: lost the most by the boom of the Holy Roman Empire
