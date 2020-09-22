@@ -2,4 +2,11 @@
 title: Diplomacy - Kissinger
 author: Houjun Liu
 source: KBHistoryMasterIndex
-course
+course: HIST201
+---
+
+# Diplomacy, Kissinger
+
+#disorganized
+
+* 
