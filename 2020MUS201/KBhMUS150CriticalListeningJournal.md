@@ -260,4 +260,6 @@ source: KBhMUS150D1
 **Lovely Rita**
 
 - Classic Beatles guitar vibes
-- 
+- Unfiltered basic vocals
+- Melotical backing vocals
+- Piano riff as transition
