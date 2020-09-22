@@ -246,12 +246,14 @@ source: KBhMUS150D1
 
 **Six days**
 
-- Wavetable vibes?
+- Wavetable vibes
 - Lots of patching into echo
 - Heavily filtered vocals
-- Indian drums?
+- Indian drums
 
 **No Idea**
 
-- Interesting… flute? into?
+- Interesting… flute? intro?
+- "Gansta walk" type music
+- Typically base heavy
 - 
