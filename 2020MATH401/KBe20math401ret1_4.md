@@ -72,5 +72,10 @@ It's been an 45 minutes. I will now give up on LaTeXing things:
 
 $\boxed{-1, 1}$
 
+
+## Continuity
+- Function compositions are continuous if their parts are continuous
+- Sum, difference, multiples, powers are continuous if you don't divide by zero or take an even root of a negative
+
 ---
 
