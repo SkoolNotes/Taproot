@@ -21,4 +21,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
         * Need constitution to settle
         * Enabled feutal rulers to enhance autonomy 
         * Hasburg dynasty + combination with Spanish royalty => Über powerful HRE => Almost centralized nation
-        * 
+        * CLAIM: eventually weakened pope brought end to religious universality, which brought end to that centralized Europe idea
+    * 
