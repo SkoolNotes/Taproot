@@ -14,5 +14,10 @@ course: ENG201
     * recommend to analyze a character in change => change is easier to track
 * Option 2: moment
     * close reading + language
-    * analyze in detail
-        * 
+    * analyze in detail the language
+
+
+* Parametres
+    * 3 pages in length => no more, no less
+    * 2-3 "thoughtfully selected" per body paragraph
+    * Double space, or 1.5
