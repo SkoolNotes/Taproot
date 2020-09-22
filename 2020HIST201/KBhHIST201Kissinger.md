@@ -26,39 +26,39 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
         * _Each state depended on the other. The well being of the state justified whatever means were employed to further it. The national interest supplanted the medival notion of a universal morality._
             * Balance of power became dominant
             * INFERENCE: more sensible government
-    * France!
-        * CLAIM: lost the most by the boom of the Holy Roman Empire
-            * Near-death of HRE would allow France to expand eastwards
-            * Cardinal de Richelieu
-                * "Father of the modern state system"
-                * Proposed and practiced Raison d'etat for France
-        * Counter-reformation
-            * HRE trying to revive Catholic universality + stamp out protenstaism
-            * Lead to Thirty Years' War => 1618
-                * Danish and Swedish armies cut into Germany
-                * French army joined in too
-                * Devistated central Europe + lost Germany a theird of its population
-            * And then… our good friend Richelieu instituted Raison d'etat
-                * France was surrounded by HRE
-                * All others loyal to HRE  
-                * Hence, the Cardinal disregarded the fact that he is the Cardinal, and instituted this idea => State > Religion
-                * Sided with the Protestants 
-                
-                CLAIM: 
-                
-              > Had the Habsburg emperors played according to the same rules or understood the emerging world of _raison d'etat,_ they would have seen how well placed they were to achieve what Richelieu feared most-the pre-eminence of Austria and the emergence of the Holy Roman Empire as the dominant power on the Continent 
-              
-      * HRE Emperor Ferdinand II
-          * Practiced the opposite of *raison d'etat*, which means religion + morality > state interest
-          * Refused to treaty with the Muslim Turks/Protestant Swedes
-          * Less concerned with the Empire's welfare than that of the will of god
-          * "The state existed to serve religion … for Ferdinand"
-          * Richelieu is secular as minister, while salvation is only a personal objective => conflict with Ferdinand
-          * To Richelieu, "the state has no immorality" => acting on the state means must act now or never
-          * CLAIM: HRE would have expanded more if they agreed to work with the protestants who were totally fine with HRE dominating politcally
-          * Edict of reinstatution
-              * Demanded land taken by protestants since 1555 be returned
-      * Richelieu subsidized the Protestant German fight against HRE
-          * Unique and novel secular support (especially because Richelieu himself is a Catholic)
-          * In the French national interest => prevented HRE encirclement of France
-      * 
+            * "Depended on reason and ability to assess power relationships"
+                * France!
+                    * CLAIM: lost the most by the boom of the Holy Roman Empire
+                        * Near-death of HRE would allow France to expand eastwards
+                        * Cardinal de Richelieu
+                            * "Father of the modern state system"
+                            * Proposed and practiced Raison d'etat for France
+                    * Counter-reformation
+                        * HRE trying to revive Catholic universality + stamp out protenstaism
+                        * Lead to Thirty Years' War => 1618
+                            * Danish and Swedish armies cut into Germany
+                            * French army joined in too
+                            * Devistated central Europe + lost Germany a theird of its population
+                        * And then… our good friend Richelieu instituted Raison d'etat
+                            * France was surrounded by HRE
+                            * All others loyal to HRE  
+                            * Hence, the Cardinal disregarded the fact that he is the Cardinal, and instituted this idea => State > Religion
+                            * Sided with the Protestants 
+
+                            CLAIM: 
+
+                          > Had the Habsburg emperors played according to the same rules or understood the emerging world of _raison d'etat,_ they would have seen how well placed they were to achieve what Richelieu feared most-the pre-eminence of Austria and the emergence of the Holy Roman Empire as the dominant power on the Continent 
+
+                  * HRE Emperor Ferdinand II
+                      * Practiced the opposite of *raison d'etat*, which means religion + morality > state interest
+                      * Refused to treaty with the Muslim Turks/Protestant Swedes
+                      * Less concerned with the Empire's welfare than that of the will of god
+                      * "The state existed to serve religion … for Ferdinand"
+                      * Richelieu is secular as minister, while salvation is only a personal objective => conflict with Ferdinand
+                      * To Richelieu, "the state has no immorality" => acting on the state means must act now or never
+                      * CLAIM: HRE would have expanded more if they agreed to work with the protestants who were totally fine with HRE dominating politcally
+                      * Edict of reinstatution
+                          * Demanded land taken by protestants since 1555 be returned
+                  * Richelieu subsidized the Protestant German fight against HRE
+                      * Unique and novel secular support (especially because Richelieu himself is a Catholic)
+                      * In the French national interest => prevented HRE encirclement of France
