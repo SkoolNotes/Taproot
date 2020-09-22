@@ -55,4 +55,4 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
           * "The state existed to serve religion … for Ferdinand"
           * Richelieu is secular as minister, while salvation is only a personal objective => conflict with Ferdinand
           * To Richelieu, "the state has no immorality" => acting on the state means must act now or never
-          * 
+          * CLAIM: HRE would have expanded more if they agreed to work with the protestants who were totally fine with HRE dominating politcally 
