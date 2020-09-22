@@ -54,4 +54,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
           * Less concerned with the Empire's welfare than that of the will of god
           * "The state existed to serve religion … for Ferdinand"
           * Richelieu is secular as minister, while salvation is only a personal objective => conflict with Ferdinand
+          * To Richelieu, "the state has no immorality" => acting on the state means must act now or never
           * 
