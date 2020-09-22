@@ -137,4 +137,8 @@ Ambiguity and dehumanization of fingers
 * Brits and Franchies and Dutch had more nefarious goal
 
   
-  
+## Essays
+
+M.A. HoD Lit Analysis
+
+- Jack's Take: [[KBENG201HoDLitAnalysisEssay]]
