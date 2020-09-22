@@ -7,9 +7,7 @@ course: PHYS201
 
 # A Van De Graff Generator
 
-
-  ![Screen Shot 2020-09-09 at 10.25.51 AM.png](./Screen Shot 2020-09-09 at 10.25.51 AM.png)
-  
+![Screen Shot 2020-09-09 at 10.25.51 AM.png](./Screen Shot 2020-09-09 at 10.25.51 AM.png)
   
 ## Basic Procedures 
 1. User turns crank
