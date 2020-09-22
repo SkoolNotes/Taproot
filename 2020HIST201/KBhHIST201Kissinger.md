@@ -85,5 +85,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
                * Formed Grand Alliance — Sweden Spain Savoy, Austria, Netherlands, and England all against France
                * Constantly fought, and left France to be strong but not dominant
                * Textbook Balance of Power!
-           * 
+           * The fighting as a classic example if _Raison d'etat_: ideologically, England and france
                
