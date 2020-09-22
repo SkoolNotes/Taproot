@@ -46,6 +46,9 @@ now what..?
 
 This is just the derivative of $\frac{1}{a}$ where $a$ is a real valued, non zero constant. So, it should just be $\boxed{0}$.
 
+### In class review
+\frac{\frac{a-a-h}{(a+h)a}{h} = 
+
 ## 100
 $$
 \lim_{x\to1}\frac{x^3-1}{x^2-1} \Rightarrow \lim_{x\to 1}\frac{\cancel{(x-1)}(x^2+1+x)}{(x+1)\cancel{(x-1)}} = \lim_{x\to 1}\frac{x^2+x+1}{x+1} = \boxed{\frac{3}{2}}
