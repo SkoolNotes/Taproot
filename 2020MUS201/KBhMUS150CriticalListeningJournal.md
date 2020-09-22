@@ -1,7 +1,7 @@
 ---
 title: Critical Listening Journal
 author: Houjun Liu
-course: MUS201
+course: MUS150
 source: KBhMUS150D1
 ---
 
@@ -236,3 +236,11 @@ source: KBhMUS150D1
 - House, poppy, background
 - Traditinoal house background
 - Modulated vocals
+
+# 09222020
+
+**...And the World Laughs With You**
+
+- Synth pop + retro vocals?
+- White noise as percussion
+-  
