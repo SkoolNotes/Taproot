@@ -81,3 +81,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
         * _Raison d'etat_ did not require expansion, for "national interest to be in the preservation of the European balance"
        * Glorious revolution kicked James II off the throne, chose William of Orange of the Netherlands as replacement
        * Used the fact that if France occupied Belgium, it would surely eat up the Netherlands, to cause England to fight in the war
+           * So, William fought Louis XIV
+               * 
