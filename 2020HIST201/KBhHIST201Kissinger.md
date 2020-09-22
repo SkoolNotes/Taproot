@@ -101,5 +101,7 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
             * Equilibrium best achieved if they are in common interest
             * Balance of power inhibits capacity to overthrow order
             * Agreement on shared values inhibits desire to overthrow order
+            * Power without legitamacy tempts dangerous strength tests
+            * Legitimacy without power tempts empty power tests
             
             """
