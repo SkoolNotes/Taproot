@@ -20,4 +20,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
     * Pope + emperor constantly fought 
         * Need constitution to settle
         * Enabled feutal rulers to enhance autonomy 
-        * Hasburg dynasty + combination with Spanish royalty => Über powerful HRE
+        * Hasburg dynasty + combination with Spanish royalty => Über powerful HRE => Almost centralized nation
+        * 
