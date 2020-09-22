@@ -10,6 +10,7 @@ course: HIST201
 #disorganized
 
 * European balance of power system emerged after medieval collapse
-* Development into model of "universality" => one emperor, one hurch
-    * If the Holy Roman Emperor were to actually succeed, 
-        * 
+* Development into model of "universality" => one emperor, one church
+* If the Holy Roman Emperor were to actually succeed, all of Europe would become auxillaries to it 
+    * So, why no central control?
+        * Lack of transportation and communication systems made tying largue c
