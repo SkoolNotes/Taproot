@@ -49,6 +49,8 @@ source: #index
 	* [[KBRobertsNotes]]
 	* [[KBMcNeill]]
 	* [[KBKissinger]] -- does not exist
+## Europe
+* Kessinger 
 ## Meta References
 - [[20hist201refTechniques]]
 
