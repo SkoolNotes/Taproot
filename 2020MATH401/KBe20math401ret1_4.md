@@ -44,10 +44,10 @@ $$
 
 now what..?
 
-This is just the derivative of $\frac{1}{a}$ where $a$ is a real valued, non zero constant. So, it should just be $\boxed{0}$.
+This is just the derivative of $\frac{1}{a}$ where $a$ is a real valued, non zero constant. So, it should just be $\boxed{\frac{1}{a^2}}$.
 
 ### In class review
-$$\frac{\frac{a-a-h}{(a+h)a}}{h} \Rightarrow \frac{-1}{a(a+h)}$$
+$$\lim_{h\to 0}\frac{\frac{a-a-h}{(a+h)a}}{h} \Rightarrow \lim_{h\to 0}\frac{-1}{a(a+h)}$$
 
 ## 100
 $$
