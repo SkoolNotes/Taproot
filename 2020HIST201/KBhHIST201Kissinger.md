@@ -1,3 +1,5 @@
 ---
 title: Diplomacy - Kissinger
-author:
+author: Houjun Liu
+source: KBHistoryMasterIndex
+course
