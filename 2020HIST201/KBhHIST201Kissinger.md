@@ -78,4 +78,4 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
     * England mediated
         * Policy based on throwing itself into the weaker side
         * King William III engineered this
-        * _Raison d'etat_ did not require expansion
+        * _Raison d'etat_ did not require expansion, for "national interest to be in the preservation of the European balance"
