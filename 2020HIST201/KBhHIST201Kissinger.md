@@ -52,4 +52,6 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
           * Practiced the opposite of *raison d'etat*, which means religion + morality > state interest
           * Refused to treaty with the Muslim Turks/Protestant Swedes
           * Less concerned with the Empire's welfare than that of the will of god
+          * "The state existed to serve religion … for Ferdinand"
+          * Richelieu is secular as minister, while salvation is only a personal objective => conflict with Ferdinand
           * 
