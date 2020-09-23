@@ -82,7 +82,7 @@ Exists only for certain proteins which independently locks together.
 Hemoglobin does this! It contains multiple sets of side chains that needs folding once again.
 
 
-## Shooting images of proteans
+## Shooting images of proteins
 
 * NMR spectroscopy
 * X-rays 
