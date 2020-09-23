@@ -54,8 +54,18 @@ What do?
 
 
 
-
 ```
+NUM_INPUTS = 50 # inputs per class
+PLANT_A_AVG_HEIGHT = 60.0
+PLANT_A_AVG_WIDTH = 8.0
+PLANT_B_AVG_HEIGHT = 59.0
+PLANT_B_AVG_WIDTH = 10.0
+PLANT_C_AVG_HEIGHT = 70.0
+PLANT_C_AVG_WIDTH = 15.0
+
+
+# Pick numbers randomly with a normal distribution centered around the averages
+
 plant_a_heights = numpy.random.normal(loc=PLANT_A_AVG_HEIGHT, size=NUM_INPUTS)
 plant_a_widths = numpy.random.normal(loc=PLANT_A_AVG_WIDTH, size=NUM_INPUTS)
 
@@ -73,17 +83,28 @@ plant_inputs = list(zip(numpy.append(plant_a_heights, plant_b_heights),
 
 # this is a list where the first half are 0s (representing plants of type a) and the second half are 1s (type b)
 classes = [0]*NUM_INPUTS + [1]*NUM_INPUTS + [2]*NUM_INPUTS
+```
 
 ```
 
+# Generate some new random values for two plants, one of each class
+new_a_height = numpy.random.normal(loc=PLANT_A_AVG_HEIGHT)
+new_a_width = numpy.random.normal(loc=PLANT_A_AVG_WIDTH)
+new_b_height = numpy.random.normal(loc=PLANT_B_AVG_HEIGHT)
+new_b_width = numpy.random.normal(loc=PLANT_B_AVG_WIDTH)
+
+# Pull the values into a matrix, because that is what the predict function wants
+inputs = [[new_a_height, new_a_width], [new_b_height, new_b_width]]
+
+# Print out the outputs for these new inputs
+print('Plant A: {0} {1}'.format(new_a_height, new_a_width))
+print('Plant B: {0} {1}'.format(new_b_height, new_b_width))
+print('Class predictions: {0}'.format(model.predict(inputs))) # guess which class
+print('Probabilities:\n{0}'.format(model.predict_proba(inputs))) # give probability of each class
+
+
 
 ```
-
-
-
-
-
-
 
 
 
