@@ -49,8 +49,8 @@ What do?
 	- Easy, but not super effective / informative. 
 - Precision, Recall, F-measure
 	- True positive, false negative, and all the permutations. 
-	- Precistion 
 
+Precistion = TP/TP+FP$
 
 
 

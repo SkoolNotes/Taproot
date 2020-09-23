@@ -22,6 +22,5 @@ Oh, here's some symbols
 |-----------|--------------|
 | $\forall$ | For all      |
 | $\exists$ | There ebsits |
-| $|$         | Such that    |
 
-
+$\forall \epsilon > 0, \exists \delta > 0, s.t. 0<|x-a|<\delta \to |f(x) -L|<\epsilon$
