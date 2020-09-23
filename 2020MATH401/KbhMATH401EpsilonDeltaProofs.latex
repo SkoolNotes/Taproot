@@ -168,4 +168,12 @@
 \hypertarget{epsilon-delta-proofs}{%
 \section{Epsilon Delta Proofs}\label{epsilon-delta-proofs}}
 
+What a limit actually is\ldots{}
+
+\hypertarget{formal-definition-of-a-limit}{%
+\subsection{Formal Definition of a
+Limit}\label{formal-definition-of-a-limit}}
+
+\definition[for all \epsilon > 0, there exists a \delta such that if 0<|x-a|<\delta, 0<|f(x)-L|<\epsilon]{Limit Definition}{$\lim_{x\to a} f(x) = L$}
+
 \end{document}

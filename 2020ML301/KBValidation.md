@@ -52,5 +52,3 @@ We want low bias low variance (doih).
 
 
 
-
-
