@@ -16,7 +16,7 @@ source:  #index
 ```
 
 
-
+Starts with quote about how philosophy should emulate the scientific method. 
 
 
 
