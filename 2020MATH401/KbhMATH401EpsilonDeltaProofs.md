@@ -27,7 +27,5 @@ And so, the formal and pretentious definition of a limit:
 
 $\lim_{x\to a} f(x) = L\ where\ \forall \epsilon > 0, \exists \delta > 0,\ s.t.\ 0<|x-a|<\delta \to |f(x) -L|<\epsilon.$ 
 
-Therefore
-
 This needs to go before **every Epsilon Delta proof.**
 
