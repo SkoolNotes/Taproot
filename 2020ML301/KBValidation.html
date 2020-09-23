@@ -89,6 +89,24 @@ html {
             <p>Like holdout, but you do it multiple times with different chunks of data ‘held out’</p>
             <h2 id="validation-1">Validation?</h2>
             <p>What do? - Accuracy - Easy, but not super effective / informative. - Precision, Recall, F-measure - True positive, false negative, and all the permutations. - Precision = <span class="math display">\[\frac{TP}{TP+FP}\]</span> - Recall</p>
+            <pre><code>plant_a_heights = numpy.random.normal(loc=PLANT_A_AVG_HEIGHT, size=NUM_INPUTS)
+            plant_a_widths = numpy.random.normal(loc=PLANT_A_AVG_WIDTH, size=NUM_INPUTS)
+
+            plant_b_heights = numpy.random.normal(loc=PLANT_B_AVG_HEIGHT, size=NUM_INPUTS)
+            plant_b_widths = numpy.random.normal(loc=PLANT_B_AVG_WIDTH, size=NUM_INPUTS)
+
+            plant_c_heights = numpy.random.normal(loc=PLANT_C_AVG_HEIGHT, size=NUM_INPUTS)
+            plant_c_widths = numpy.random.normal(loc=PLANT_C_AVG_WIDTH, size=NUM_INPUTS)
+
+            # this creates a 2-dimensional matrix, with heights in the first column and widths in the second
+            # the first half of rows are all plants of type a and the second half are type b
+            plant_inputs = list(zip(numpy.append(plant_a_heights, plant_b_heights),
+                                    numpy.append(plant_a_widths, plant_b_widths), 
+                                    numpy.append(plant_a_heights, plant_b_heights)))
+
+            # this is a list where the first half are 0s (representing plants of type a) and the second half are 1s (type b)
+            classes = [0]*NUM_INPUTS + [1]*NUM_INPUTS + [2]*NUM_INPUTS</code></pre>
+            <p>“‘</p>
         </div>
 
         <script>
