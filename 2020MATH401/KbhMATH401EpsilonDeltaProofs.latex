@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ MATH401 }
+\newcommand{\thelesson}{ Epsilon Delta Proofs }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,7 +162,10 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhMATH401Limits}{\tiny\textulf{[[}\textbf{KBhMATH401Limits}\textulf{]]}}}\thinspace
 
-
+\hypertarget{epsilon-delta-proofs}{%
+\section{Epsilon Delta Proofs}\label{epsilon-delta-proofs}}
 
 \end{document}
