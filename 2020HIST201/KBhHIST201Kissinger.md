@@ -105,6 +105,9 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
                 * Louis XIV over exploited the rest of europe
                     * In the end, this was detrimental to France
                 * When most states starts being fully rational and not at all moral, this becomes less fun 
+                * Nemesis of Raison d' etat 
+                
+                
         > Under Raison d'etat, "The stronger would seek to dominate, and the weaker would resist by forming coalitions to augment their individual strengths"
         
         * CLAIM: Federick the Great's decision to invade Silesia was pure strategy move
