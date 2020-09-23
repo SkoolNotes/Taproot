@@ -30,9 +30,10 @@ Training *to well* to our dateset, making it not applicable to the real world / 
 
 
 
+## Bias-Variance Tradeoff
 
-
-
+Bias - off
+Variance - inconsistent
 
 
 
