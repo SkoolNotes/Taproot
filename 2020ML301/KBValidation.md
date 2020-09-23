@@ -35,8 +35,7 @@ Training *to well* to our dateset, making it not applicable to the real world / 
 Bias - off
 Variance - inconsistent
 
-
-
+We want low bias low variance (doih).
 
 
 
