@@ -86,3 +86,6 @@ Hemoglobin does this! It contains multiple sets of side chains that needs foldin
 
 * NMR spectroscopy
 * X-rays 
+
+
+#flo #disorganized
