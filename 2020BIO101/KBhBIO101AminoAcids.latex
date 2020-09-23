@@ -249,6 +249,16 @@ as the carbon
 \subsubsection{Protein Tertiary
 Structure}\label{protein-tertiary-structure}}
 
-3D
+3D Structures
+
+\begin{itemize}
+\tightlist
+\item
+  Non-polar sidechains: Vandervaull's Forces (a.k.a LDF)
+\item
+  Polar sidechains: hydrogen bonds
+\item
+  Disulfide
+\end{itemize}
 
 \end{document}

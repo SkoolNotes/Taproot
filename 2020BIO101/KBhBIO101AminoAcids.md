@@ -60,4 +60,8 @@ Proline (p) is a little weird: Side chain bonded with the H2N+ as well as the ca
 
 ### Protein Tertiary Structure
 
-3D 
+3D Structures
+
+* Non-polar sidechains: Vandervaull's Forces (a.k.a LDF)
+* Polar sidechains: hydrogen bonds
+* Disulfide 
