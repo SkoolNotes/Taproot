@@ -54,4 +54,4 @@ Two main secondary structures: the alpha helix and beta sheet.
 
 ![Screen Shot 2020-09-21 at 3.15.49 PM.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020BIO101/Screen Shot 2020-09-21 at 3.15.49 PM.png)
 
-**No ionic attractions between backbone because as the backbone
+**No ionic attractions between backbone because after the dehydration reaction (polymerization)
