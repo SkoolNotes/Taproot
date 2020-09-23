@@ -79,4 +79,4 @@ All of these bonds, together, makes the 3D geometry of the protean.
 
 Exists only for certain proteins which independently locks together.
 
-Hemogroben does this
+Hemoglobin does this! It contains multiple 
