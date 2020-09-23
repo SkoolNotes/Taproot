@@ -1,7 +1,7 @@
 ---
 title: Qing in the 1500s
 author: Houjun Liu
-source: 
+source: KBHistoryMasterIndex
 course: HIST201
 ---
 
