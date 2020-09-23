@@ -64,4 +64,4 @@ Proline (p) is a little weird: Side chain bonded with the H2N+ as well as the ca
 
 * Non-polar sidechains: Vandervaull's Forces (a.k.a LDF)
 * Polar sidechains: hydrogen bonds
-* Disulfide 
+* Disulfide bonds: cysteine animo acids will bond their sulfur together
