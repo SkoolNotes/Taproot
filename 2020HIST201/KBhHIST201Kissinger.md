@@ -150,3 +150,8 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
             """
             
 **Kissinger sees himself as American Richlieu.**
+
+End result of Raison d'etat
+
+1. Others form a coalition against the ruthless nation => balance of power is eventually achieved
+2. Unipolar dominance of a world system/world hegemony => too dominant to fight back against
