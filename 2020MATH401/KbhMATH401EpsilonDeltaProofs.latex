@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ MATH401 }
-\newcommand{\thelesson}{ Limits }
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,53 +162,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBhMATH401SubIndex}{\tiny\textulf{[[}\textbf{KBhMATH401SubIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{limits}{%
-\section{Limits}\label{limits}}
 
-\hypertarget{warming-up}{%
-\subsection{Warming up}\label{warming-up}}
-
-Here's a function
-
-\(y = \frac{1}{x}\).
-
-We know that it has
-
-\begin{itemize}
-\tightlist
-\item
-  Domain \(D (-\infty, 0)(0, \infty)\)
-\item
-  Range \(R (-\infty, 0)(0, \infty)\)
-\item
-  \(As\ x\to\infty,\ y\to0\)
-\item
-  Function is \emph{odd}, that is, \(f(-x) = -f(x)\)
-\end{itemize}
-
-\hypertarget{the-limit-notation}{%
-\subsection{The Limit Notation}\label{the-limit-notation}}
-
-See {[}{[}KBhMATH401TheLimitNotation{]}{]}
-
-\hypertarget{computing-limits-algebraically}{%
-\subsection{Computing Limits
-Algebraically}\label{computing-limits-algebraically}}
-
-See {[}{[}KBMATH401ComputingLimits{]}{]}
-
-\hypertarget{types-of-discontinuity}{%
-\subsection{Types of Discontinuity}\label{types-of-discontinuity}}
-
-See {[}{[}KBhMATH401Discontinuity{]}{]}
-
-\hypertarget{error-and-epsilon-delta-proofs}{%
-\subsection{Error and Epsilon Delta
-Proofs}\label{error-and-epsilon-delta-proofs}}
-
-See {[}{[}KbhMATH401EpsilonDeltaProofs{]}{]}
 
 \end{document}

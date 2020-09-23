@@ -28,4 +28,4 @@ See [[KBMATH401ComputingLimits]]
 See [[KBhMATH401Discontinuity]]
 
 ## Error and Epsilon Delta Proofs
-Soon. I will add it.
+See [[KbhMATH401EpsilonDeltaProofs]]
