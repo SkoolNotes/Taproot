@@ -168,12 +168,19 @@
 \hypertarget{epsilon-delta-proofs}{%
 \section{Epsilon Delta Proofs}\label{epsilon-delta-proofs}}
 
-What a limit actually is\ldots{}
+The secrets of the limit
 
 \hypertarget{formal-definition-of-a-limit}{%
 \subsection{Formal Definition of a
 Limit}\label{formal-definition-of-a-limit}}
 
 \definition[for all $\epsilon > 0$, there exists a $\delta$ such that $if\ 0<|x-a|<\delta,\ then\  0<|f(x)-L|<\epsilon$]{Limit Definition}{$\lim_{x\to a} f(x) = L$}
+
+\hypertarget{an-epsilon-delta-proof}{%
+\subsection{An Epsilon Delta Proof}\label{an-epsilon-delta-proof}}
+
+Let's prove \(\lim_{x\to 2} x^2 = 4\) together!
+
+The crux of the proof is to come up with a value \(\delta\) th
 
 \end{document}

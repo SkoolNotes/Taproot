@@ -42,6 +42,23 @@ We want low bias low variance (doih).
 
 Like holdout, but you do it multiple times with different chunks of data 'held out' 
 
+## Validation? 
+
+- What do? 
+	- Accuracy
+		- Easy, 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
