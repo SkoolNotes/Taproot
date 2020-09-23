@@ -47,7 +47,8 @@ Like holdout, but you do it multiple times with different chunks of data 'held o
 What do? 
 - Accuracy
 	- Easy, but not super effective / informative. 
-- 
+- Precision, Recall, F-measure
+	- True positive, false negative, and all the permutations. 
 
 
 
