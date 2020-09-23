@@ -15,7 +15,9 @@ We have visualized out models and used human judgment to, well, judge them. We h
 
 ## Why?
 
-Some things are blind to the human eye. Eg. underfitting overfitting 
+Some things are blind to the human eye. Eg. underfitting and overfitting. 
+
+Not enough data, the algorythym was buggy (can't we see these though? maybe just not as easily?)
 
 
 
