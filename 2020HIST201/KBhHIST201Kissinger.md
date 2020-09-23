@@ -11,6 +11,12 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
 
 #disorganized #flo
 
+## The Timeline
+
+
+
+## The Flow
+
 * European balance of power system emerged after medieval collapse
 * Development into model of "universality" => one emperor, one church
 * If the Holy Roman Emperor were to actually succeed, all of Europe would become auxillaries to it 
