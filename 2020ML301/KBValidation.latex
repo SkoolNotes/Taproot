@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{}
-\newcommand{\thelesson}{}
+\newcommand{\thelesson}{ Validation }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,7 +162,12 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
+\hypertarget{validation}{%
+\section{Validation}\label{validation}}
 
 \end{document}
