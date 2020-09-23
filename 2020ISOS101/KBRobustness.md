@@ -18,7 +18,7 @@ source:  #index
 
 Starts with quote about how philosophy should emulate the scientific method. 
 
-This is incorrect. Philosiphy is about building a logical framework of understanding. Science is about finding things out about the real world through experimentation. These two subjects and aproches are **fundementally** incompatible. 
+This is incorrect. Philosiphy is about building a logical framework of understanding. Science is about finding things out about the real world through experimentation. These two subjects and aproches are **fundementally** incompatible (Godel's theory, perception bias, 
 
 
 
