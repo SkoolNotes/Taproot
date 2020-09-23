@@ -15,3 +15,4 @@ source: #index
 [[KBML_Day_One]] Day one
 [[KBTypes_of_Machine_Learning]] Types of ML 
 [[KBLinierRegression]]
+[[KBValidation]]

@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ ML301 }
-\newcommand{\thelesson}{ ML Master Index }
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,18 +162,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\#source
-
-\hypertarget{ml-master-index}{%
-\section{ML Master Index}\label{ml-master-index}}
-
-{[}{[}KBML\_Day\_One{]}{]} Day one
-{[}{[}KBTypes\_of\_Machine\_Learning{]}{]} Types of ML
-{[}{[}KBLinierRegression{]}{]} {[}{[}KBValidation{]}{]}
 
 \end{document}
