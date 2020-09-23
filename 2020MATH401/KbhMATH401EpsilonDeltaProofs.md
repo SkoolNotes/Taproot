@@ -15,3 +15,11 @@ The secrets of the limit
 Let's prove $\lim_{x\to 2} x^2 = 4$ together!
 
 The crux of the proof is to come up with a value $\delta$ that is a function of $\epsilon$ assuming that $0 < \epsilon$  that meets $0<|x-a|<\delta$. 
+
+Oh, here's some symbols
+
+| Symbol | Definition |
+|--------|------------|
+|        |            |
+|        |            |
+|        |            |
