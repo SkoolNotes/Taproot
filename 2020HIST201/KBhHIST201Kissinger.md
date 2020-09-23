@@ -163,4 +163,5 @@ End result of Raison d'etat
 McNeill
 
 * Consolidation for political power (310-311)
-    1. Administrative centralization: italian city-state strategies
+    1. Administrative centralization: italian city-state strategies to govern countries
+    2. Seizing Church power and property during the Reformation
