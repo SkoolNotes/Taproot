@@ -14,4 +14,4 @@ The secrets of the limit
 ## An Epsilon Delta Proof
 Let's prove $\lim_{x\to 2} x^2 = 4$ together!
 
-The crux of the proof is to come up with a value $\delta$ th
+The crux of the proof is to come up with a value $\delta$ 
