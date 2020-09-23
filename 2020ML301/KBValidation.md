@@ -26,7 +26,7 @@ Wrong algorithm, buggy, or the data just sucks / there isn't actually a correlat
 
 ### Overfitting
 
-Training *to well* to our dateset making it not applicable to the real world. 
+Training *to well* to our dateset, making it not applicable to the real world / other data. 
 
 
 
