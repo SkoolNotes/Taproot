@@ -23,7 +23,7 @@ source: #index
 * Thoughts on [[Strong Inference highlights 2019.pdf]]
 	* Huxley's Take: [[KBStrongInferenceNotes]]
 	* Jack's Take: [[KBhISOS101StrongInference]]
-* Thoughts on 
+* Thoughts on [[Robustness.pdf]] 
 	* Huxley's Take [[KBRobustness]]
 
 
