@@ -18,8 +18,10 @@ The crux of the proof is to come up with a value $\delta$ that is a function of 
 
 Oh, here's some symbols
 
-| Symbol | Definition |
-|--------|------------|
-|        |            |
-|        |            |
-|        |            |
+| Symbol    | Definition   |
+|-----------|--------------|
+| $\forall$ | For all      |
+| $\exists$ | There ebsits |
+| $|$         | Such that    |
+
+
