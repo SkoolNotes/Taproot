@@ -44,9 +44,10 @@ Like holdout, but you do it multiple times with different chunks of data 'held o
 
 ## Validation? 
 
-- What do? 
-	- Accuracy
-		- Easy, 
+What do? 
+- Accuracy
+	- Easy, but not super effective / informative. 
+- 
 
 
 
