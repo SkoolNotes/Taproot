@@ -49,7 +49,7 @@ What do?
 	- Easy, but not super effective / informative. 
 - Precision, Recall, F-measure
 	- True positive, false negative, and all the permutations. 
-	- Precision = TP/TP+FP
+	- Precision = TP/TP+FP $$\frac{TP}{TP+FP} $$
 	- Recall 
 
 

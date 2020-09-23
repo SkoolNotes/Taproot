@@ -193,9 +193,15 @@ Symbol & Definition\tabularnewline
 \midrule
 \endhead
 \(\forall\) & For all\tabularnewline
-\(\exists\) & There ebsits\tabularnewline
-\(|\) & Such that\tabularnewline
+\(\exists\) & There exisits\tabularnewline
+\(s.t.\) & Such that\tabularnewline
 \bottomrule
 \end{longtable}
+
+And so, the formal and pretentious definition of a limit:
+
+\(\forall \epsilon > 0, \exists \delta > 0,\ s.t.\ 0<|x-a|<\delta \to |f(x) -L|<\epsilon\)
+
+This needs to go before \textbf{every Epsilon Delta proof.}
 
 \end{document}

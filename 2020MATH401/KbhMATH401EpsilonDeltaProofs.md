@@ -25,6 +25,7 @@ Oh, here's some symbols
 | $s.t.$    | Such that     |
 And so, the formal and pretentious definition of a limit:
 
-$\forall \epsilon > 0, \exists \delta > 0, s.t. 0<|x-a|<\delta \to |f(x) -L|<\epsilon$
+$\forall \epsilon > 0, \exists \delta > 0,\ s.t.\ 0<|x-a|<\delta \to |f(x) -L|<\epsilon$
 
 This needs to go before **every Epsilon Delta proof.**
+
