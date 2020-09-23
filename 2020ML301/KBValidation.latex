@@ -182,4 +182,16 @@ overfitting.
 Not enough data, the algorithm was buggy (can't we see these though?
 maybe just not as easily?)
 
+\hypertarget{underfitting}{%
+\subsubsection{Underfitting}\label{underfitting}}
+
+Wrong algorithm, buggy, or the data just sucks / there isn't actually a
+correlation.
+
+\hypertarget{overfitting}{%
+\subsubsection{Overfitting}\label{overfitting}}
+
+Traing \emph{to well} to our dataset, making it not applicable to the
+real world.
+
 \end{document}
