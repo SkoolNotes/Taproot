@@ -155,3 +155,12 @@ End result of Raison d'etat
 
 1. Others form a coalition against the ruthless nation => balance of power is eventually achieved
 2. Unipolar dominance of a world system/world hegemony => too dominant to fight back against
+
+
+
+***
+
+McNeill
+
+* Consolidation for political power (310-311)
+    1. Administrative centralization: italian city-state strategies
