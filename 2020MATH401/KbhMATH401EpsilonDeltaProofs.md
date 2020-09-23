@@ -18,9 +18,13 @@ The crux of the proof is to come up with a value $\delta$ that is a function of 
 
 Oh, here's some symbols
 
-| Symbol    | Definition   |
-|-----------|--------------|
-| $\forall$ | For all      |
-| $\exists$ | There ebsits |
+| Symbol    | Definition    |
+|-----------|---------------|
+| $\forall$ | For all       |
+| $\exists$ | There exisits |
+| $s.t.$    | Such that     |
+And so, the formal and pretentious definition of a limit:
 
 $\forall \epsilon > 0, \exists \delta > 0, s.t. 0<|x-a|<\delta \to |f(x) -L|<\epsilon$
+
+This needs to go before **every Epsilon Delta proof.**
