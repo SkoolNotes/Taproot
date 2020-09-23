@@ -56,7 +56,8 @@ Two main secondary structures: the alpha helix and beta sheet.
 
 **No ionic attractions between backbone because after the dehydration reaction (polymerization), the positive and negative of the two ends of the backbone of the amino acid is combined to cancel out the charge**
 
-Proline (p)
+Proline (p) is a little weird: Side chain bonded with the H2N+ as well as the carbon
 
-* Side chain bonded with the H2N+ as well as the carbon
+### Protein Tertiary Structure
 
+3D 
