@@ -84,5 +84,5 @@ Hemoglobin does this! It contains multiple sets of side chains that needs foldin
 
 ## Shooting images of proteans
 
-## NMR spectroscopy
-* Use 
+* NMR spectroscopy
+* X-rays 
