@@ -60,8 +60,11 @@ Proline (p) is a little weird: Side chain bonded with the H2N+ as well as the ca
 
 ### Protein Tertiary Structure
 
-3D Structures
+Bonds in the 3D Structures
 
 * Non-polar sidechains: Vandervaull's Forces (a.k.a LDF)
-* Polar sidechains: hydrogen bonds
+* Ionic sidechains: what bonds do you think?
 * Disulfide bonds: cysteine animo acids will bond their sulfur together
+* Polar sidechains: hydrogen bonds
+
+All of these bonds, together, makes the 3D geometry of the protean.
