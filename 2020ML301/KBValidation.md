@@ -38,9 +38,9 @@ Variance - inconsistent
 We want low bias low variance (doih).
 
 
+## Holdout? nah, let's cross validate! 
 
-
-
+Like holdout, but you do it multiple times with different chunks of data 'held out' 
 
 
 
