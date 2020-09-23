@@ -25,7 +25,9 @@ This is incorrect. Philosophy is about building a logical framework of understan
 
 
 ## Common Features of Concepts of Robustness 
+
  Robustness analysis
+ 
 
 
 
