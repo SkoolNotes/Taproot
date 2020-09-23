@@ -75,3 +75,8 @@ All of these bonds, together, makes the 3D geometry of the protean.
 * Proteas "whiggle" — brounian motion
 * This is also a part of the difficulty in folding protean
 
+### Protein Quaternary Structure
+
+Exists only for certain proteins which independently locks together.
+
+Hemogroben does this
