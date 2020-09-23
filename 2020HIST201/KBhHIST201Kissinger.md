@@ -143,3 +143,5 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
             * Legitimacy without power tempts empty power tests
             
             """
+            
+**Kissinger sees himself as American Richlieu.**
