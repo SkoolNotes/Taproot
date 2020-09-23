@@ -70,3 +70,8 @@ Bonds in the 3D Structures
 All of these bonds, together, makes the 3D geometry of the protean.
 
 **Proteins fold in order of attraction strength.**
+
+
+* Proteas "whiggle" — brounian motion
+* This is also a part of the difficulty in folding protean
+
