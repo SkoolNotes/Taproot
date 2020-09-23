@@ -166,3 +166,5 @@ McNeill
     1. Administrative centralization: italian city-state strategies to govern countries
     2. Seizing Church power and property during the Reformation: Catholics trade away political power to re-affirm their religious
     3. Development of military technology becomes too expensive to do rurally to larger factories in a city: standing army cannot be tracked in a local level
+    
+The renessance brings two things: either harness renissance energy to do innovation or harness reformation energy to unify Europe.
