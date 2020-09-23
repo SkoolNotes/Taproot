@@ -22,16 +22,22 @@ source: #index
 * Watson 
     * [[KB20200825121700]] Hux's Reading
     * [[KBhHIST201Watson]] Sushu's Reading as Presented in Class, by Jack
+    
 ## Kennedy
 * Kennedy, Chapter 1
     * Huxley — [[KBKennedyNotes]] 
     * Jack — [[KBhHIST201KennedyCh1]] 
 	* Alb - [[KBe20hist201floKennedyCH1pt1]] and [[retExr0nKennedyCh1Pt2]]
 * Textbook models of History [[KBhHIST201HistModHist]]
+
 ## Ming
 * Mann, Ming
     * Jack — [[KBhHIST201MannMing]]
 	- Alb - [[retExr0nMannMingTrade]]
+    
+## Qing
+* Jack's Qing Index [[KBhHIST201Qing1500s]]
+
 ## Ottomans
 - [[KBrefOttomanEmpire]]
 - [History Summarized: The Ottoman Empire](https://www.youtube.com/watch?v=SZ8UWobHA3M): [[Kbe20hist201floSummarizedOttomanEmpireVideo]]
@@ -49,10 +55,12 @@ source: #index
 	* [[KBRobertsNotes]]
 	* [[KBMcNeill]]
 	* [[KBKissinger]] -- does not exist
+    
 ## Europe
 * Kissinger's Europe
     * [[KBhHIST201Kissinger]]
 	- [[KBrefRaisondetat]]
+    
 ## Meta References
 - [[20hist201refTechniques]]
 
