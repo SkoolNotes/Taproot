@@ -43,4 +43,5 @@ course: HIST201
         * Traded spices and cotton
         * Served as foundation of Western medicines
         * Invaded port of good hope in Africa
+            * Disguised as Muslim traders
             * 
