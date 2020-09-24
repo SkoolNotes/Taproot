@@ -32,9 +32,12 @@ course: HIST201
         * Extended the empire northward + establish borders with Korea + Russia
         * Lead campaigns against Mongols and occupied Tibet
     * CLAIM: why he was great
-        * Dilligent
-        * Hardworking
-        * Good judge of character + warrented honest answers
-        * Held examinations to promote scholars
-        * Did not fight Ming loyalists as long as they break no laws
-        * Patronized art, philosophy, and poetry
+        * Great guy
+            * Dilligent
+            * Good judge of character + warrented honest answers
+            * Did not fight Ming loyalists as long as they break no laws
+        * Promoted liberal arts
+            * Held examinations to promote scholars
+            * Patronized art, philosophy, and poetry
+        * 
+        
