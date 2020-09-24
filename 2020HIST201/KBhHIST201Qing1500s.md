@@ -36,4 +36,4 @@ course: HIST201
     * System of laws
     * Challenged the patriarchy and improved the role of woman
     * Discouraged child marriages and encouraged remarrying of widowns
-* Intended all of his social reform to support his object of _sulh-i-kul_.  
+* Intended all of his social reform to support his object of _sulh-i-kul_ => universal harmony. (Not a fan of _raison d'etat, I see_)
