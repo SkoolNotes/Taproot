@@ -57,3 +57,5 @@ course: HIST201
     * Porchuguese, Dutch, and English collectively tried te "interfere in international shiping
         * Seisure of a ship by practicing Hindu
     * Mughals eventually partnered with english and dutch to try to curtail the porchuguese and create competiton 
+    * English and Dutch both adopted the porchuguese model
+    * 
