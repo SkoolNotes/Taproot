@@ -92,4 +92,5 @@ course: HIST201
             * The Mughals retailated by destroying corporate stations
             * Eventually forced negotiations to sink Muslim ships bound for Mecca
             * Eventually forced back into trade negotiations after a larger fine
-            * This incident humiliated both the Mughals and 
+            * This incident humiliated both the Mughals and the company — displeasing European directors
+        * 
