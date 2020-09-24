@@ -38,6 +38,9 @@ source: #index
 ## Qing
 * Jack's Qing Index [[KBhHIST201Qing1500s]]
 
+## Mughals
+* Jack's Mughals index [[KBhHIST201Mughals1600s]]
+
 ## Ottomans
 - [[KBrefOttomanEmpire]]
 - [History Summarized: The Ottoman Empire](https://www.youtube.com/watch?v=SZ8UWobHA3M): [[Kbe20hist201floSummarizedOttomanEmpireVideo]]
