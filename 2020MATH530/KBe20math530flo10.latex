@@ -232,6 +232,10 @@ space?}\label{given-a-linearly-independent-set-of-vectors-would-the-span-equal-t
     A linear combination on one other vector is the same as a scalar
     multiple
   \item
+    in 2space they have to not be colinear, in 3space they have to not
+    be coplanar.
+  \item
+    They have to be linearly independent
   \end{itemize}
 \item
   That probably generalizes to higher and lower dimensions
