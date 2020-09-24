@@ -9,6 +9,7 @@ source:  KBhBIO101Macromolecules
 # Overview
 - Rubisco is apparently a cool protein
 - Most abundant protein in the world
+- Enzyme that is very slow, which is why plants make so much of it
 
 # Slide Intro
 ![Pasted image](./20200924144612.png)
