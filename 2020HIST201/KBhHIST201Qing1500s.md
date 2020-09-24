@@ -71,4 +71,5 @@ course: HIST201
             * Halt constructions of new Hindu temples
             * Attack established structuers
             * Reimposed the jizya payment in leu of state service that is demanded from non-muslims
-            * Enforced system of jizya payments that had to be done 
+            * Enforced system of jizya payments that had to be done while chanting about inferoity
+            * Opposed appointing hindus to highest ranks
