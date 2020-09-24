@@ -43,5 +43,9 @@ course: HIST201
                 * Learned through Jesuit missionaries
                 * Jesuits saw worship as a ceremony and not rites 
                 * However, was not fully accepted by the Emperor after the early 18th century
-                * 
+* Yongzheng Emperor
+    * More guarded and suspicious than Kangxi
+    * Anti-corruption efforts
+        * Expanded secret memorial system
+        * 
         

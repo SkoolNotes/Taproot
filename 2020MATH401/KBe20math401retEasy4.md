@@ -60,9 +60,10 @@ oh and also because the sin power thingjust makes it fluctuate
 
 except sike it's too low it needs to be bigger
 
-- well guess god strats always win maybe just multpily by $e$ liek $\sqrt{x}e$ s
+- maybe just multpily by $e$ liek $\sqrt{x}e$ s
 
-great so now we have an upper bound
+great so now we have an upper bound and the lower bound is zero so that works except maybe we can make a :sunglasses:-er one?
+- guess god strats maybe it's the lower bound of the $\sin{\frac{\pi}{x}}$ exponent so like $\sqrt{x}e^-1$ and yup thats' work guess god strat always wins
 
 thanks for coming to my ted talk
 
