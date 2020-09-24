@@ -22,4 +22,7 @@ source:  KBe2020math530floIndex
 ## Given a linearly independent set of vectors, would the span equal to the vector space?
 - No? It's unclear which vector space is being referred to.
 
+## Span of vectors (example 2.6)
+- When it's two vectors, you'd expect the span to be a 2d plane 
+
 ---
