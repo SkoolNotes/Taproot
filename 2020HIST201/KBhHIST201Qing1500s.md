@@ -40,4 +40,6 @@ course: HIST201
 
 * The Porchuguese
     * Acted as middlemen between Venitians, Arabs, and Turks
+        * Traded spices and cotton
+        * Served as foundation of Western medicines
     * 
