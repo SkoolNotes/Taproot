@@ -25,6 +25,8 @@ source:  KBe2020math530floIndex
 ## Span of vectors (example 2.6)
 - When it's two vectors, you'd expect the span to be a 2d plane unless the vectors are parallel
 	- In other words, if they are linear combinations or scalar multiples of one another
+	- A linear combination on one other vector is the same as a scalar multiple
+	- 
 - That probably generalizes to higher and lower dimensions
 
 ---
