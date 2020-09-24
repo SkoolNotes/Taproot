@@ -97,4 +97,5 @@ course: HIST201
     * In the end, Aurangzeb ended his life noting "I don't know who I am, nor what I have been doing" 
     * Marathas won great parts of Mughal territory
         * Empire's rulers force to pay tribute
-        *  
+        * Other governors in the Mughal empire won Deccan, but
+        
