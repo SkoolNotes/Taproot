@@ -76,4 +76,8 @@ course: HIST201
         * Hindus and other non-muslim cultural icons lamented this
         * Shah Janan's army campaigns increased tax revenue to meet higher expectations
             * Hindu agricultural exploration fell hardest
-            * 
+            * Shivaji contradicted the Mughal court
+                * Which means, he got quickly struck down
+                * Escaped the court, and went to the Marathas
+                * 1674-1680 started invading Mughals in gurilla campaigns
+                *  
