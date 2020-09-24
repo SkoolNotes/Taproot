@@ -43,11 +43,12 @@ $$
 $$
 
 ## Problem 39
-This one is doable by just saying that $\lim\limits_{x\to 0}x^4cos\frac{2}{x} = \lim_{x\to 0} x^4 \lim_{x\to 0}cos\frac{2}{x} = 0(lim_{x\to 0} cos\frac{2}{x}) = 0$
+This one is doable by just saying that $\lim\limits_{x\to 0}x^4cos\frac{2}{x} = \lim\limits_{x\to 0} x^4 \lim\limits_{x\to 0}cos\frac{2}{x} = 0\left(\lim\limits_{x\to 0} cos\frac{2}{x}\right) = 0$.
 
 But we can also do it properly:
 $$
 \begin{aligned}
+\end{aligned}
 $$
 
 ## Problem 40
