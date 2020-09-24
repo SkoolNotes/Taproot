@@ -44,4 +44,9 @@ $$
 
 ## Problem 39
 
+## Problem 40
+GUESS GOD
+![[Pasted image 20200923222859.png]]
+thanks for coming to my ted talk
+
 ---

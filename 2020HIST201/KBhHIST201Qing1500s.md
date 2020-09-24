@@ -30,4 +30,5 @@ course: HIST201
         * Made tax increase no longer a threat
     * Regions  
         * Extended the empire northward + establish borders with Korea + Russia
-        * 
+        * Lead campaigns against Mongols and occupied Tibet
+    * 
