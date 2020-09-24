@@ -66,4 +66,5 @@ course: HIST201
 * Beginning of decline
     * Governmert did not keep pace with rapid population growth
     * Qianlong became fond of his bodyguards, who embezzled silver
+        * CLAIM: this is an early sign of decline
     * Continuous military campains eventually lead to near bankrupcy
