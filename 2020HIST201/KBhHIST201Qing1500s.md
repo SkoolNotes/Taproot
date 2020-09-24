@@ -60,4 +60,4 @@ course: HIST201
     * English and Dutch both adopted the porchuguese model
     * Mugals tried to create strategic partnership with European cultures
         * Ordered christian symbolism to be painted
-        * Europeans impressed with Mugal style that Mogul 
+        * Europeans impressed with Mugal style that Mogul became associated with power
