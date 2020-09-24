@@ -24,3 +24,6 @@ course: HIST201
             * So bad crop year could pay less tax
             * Prevented overluxuriation and benefitted peseants
     * Favored appointement of native born over foreign  — due to pledges of loyalty to Mughal state: promoting religious indignity
+* CLAIM: Melded together Mughal and indigenous elites
+    * Encouraged intermarriage
+    * 

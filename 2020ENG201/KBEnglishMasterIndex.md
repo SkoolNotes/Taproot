@@ -37,6 +37,9 @@ source: #index
 	- Exr0n [[KBe20eng201retA1index]]
 * Thoughts on Imperialism and Colonialism 
 	* [[KBhENG201ImperialismColonialism]]
+	
+	
+[Digital Version](https://www.gutenberg.org/files/219/219-h/219-h.htm)
 * **Heart of Darkness**
     * [[KBhENG201HeartOfHardness]] Heart of Darkness Index 
 	* [[KBheartday1]] Huxley, I am assuming?
