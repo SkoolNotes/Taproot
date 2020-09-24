@@ -220,7 +220,10 @@ space?}\label{given-a-linearly-independent-set-of-vectors-would-the-span-equal-t
 \begin{itemize}
 \tightlist
 \item
-  When it's two vectors, you'd expect the span to be a 2d plane
+  When it's two vectors, you'd expect the span to be a 2d plane unless
+  the vectors are parallel
+\item
+  That probably generalizes to higher and lower dimensions
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}

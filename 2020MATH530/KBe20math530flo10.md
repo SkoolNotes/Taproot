@@ -23,6 +23,7 @@ source:  KBe2020math530floIndex
 - No? It's unclear which vector space is being referred to.
 
 ## Span of vectors (example 2.6)
-- When it's two vectors, you'd expect the span to be a 2d plane 
+- When it's two vectors, you'd expect the span to be a 2d plane unless the vectors are parallel
+- That probably generalizes to higher and lower dimensions
 
 ---
