@@ -266,3 +266,9 @@ source: KBhMUS150D1
 
 # 09242020
 
+**Facing the Sea**
+
+- Creative drum pattern
+- Signature vocals highlight the tune of the music
+- Sudden transition to dubstep style music
+- During vocals, traditional bu
