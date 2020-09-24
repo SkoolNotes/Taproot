@@ -45,7 +45,9 @@ $$
 ## Problem 39
 
 ## Problem 40
-GUESS GOD
+- inspired by [GUESS GOD]TODO()
+- So originally you notice that $\sqrt{0}$ is just $0$ so the thing is going to be zero in the end either way
+- But we can guess god our way to 
 ![[Pasted image 20200923222859.png]]
 thanks for coming to my ted talk
 
