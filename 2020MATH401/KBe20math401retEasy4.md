@@ -50,7 +50,8 @@ $$
 \begin{aligned}
 -1 \le cos\frac{2}{x}\le 1\\
 \therefore -x^4 \le x^4 cos\frac{2}{x} \le x^4\\
-\lim_{x\to 0} -x^4 
+\lim_{x\to 0} -x^4 = 0 = \lim_{x\to 0} x^4 \\
+\therefore \lim_{x\to 0}x^4cos\frac{2}{x} = 0
 \end{aligned}
 $$
 
