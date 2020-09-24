@@ -16,6 +16,7 @@ $$
 ![[Pasted image 20200923221014.png]]
 $$
 \begin{aligned}
+\lim_{x\to 0} -\left|x\sqrt{x+1}\right| = -1
 \end{aligned}
 $$
 
