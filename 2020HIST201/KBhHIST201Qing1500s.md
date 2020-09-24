@@ -55,4 +55,5 @@ course: HIST201
 * Mughals saw the Porchuguese, and wanted to curtail them
     * Resorted to a model of compromise => "Gave free passage to ships in exchange for pilgrims on their way to Mecca
     * Porchuguese, Dutch, and English collectively tried te "interfere in international shiping
-        * "
+        * Seisure of a ship by practicing Hindu
+        * 
