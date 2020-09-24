@@ -18,7 +18,8 @@ source:  KBhBIO101Macromolecules
 # Carbon Fixation
 - Turning carbon from the air into carbohydrates
 - Combines carbon from $CO_2$, light, and water to get carbohydrates
-	- $6CO_2 + 6H_2O + light = carbs$
+	- $6CO_2 + 6H_2O + light = \text{carbs}$
+	
 
 
 ---
