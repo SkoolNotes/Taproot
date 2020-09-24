@@ -30,4 +30,8 @@ course: HIST201
     * All official appointments are treated as gifts from the emperor
     * Gave grants to Muslim and Hindu cultural institutions
     * Supported the arts and sciences
-    * 
+* Akbar made empire popular by pimping it up
+    * Improved living quaters
+    * Regulation of school
+    * System of laws
+    * Challenged the patriarchy and improved the role of woman
