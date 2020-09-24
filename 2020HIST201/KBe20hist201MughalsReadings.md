@@ -7,6 +7,6 @@ source:  KBHistoryMasterIndex
 
 # Multicultural empire
 ## Similarities
-- 
+- Manchus and Ak
 
 ---
