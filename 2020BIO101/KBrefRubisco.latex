@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ CHEM201 }
-\newcommand{\thelesson}{ Macromolecules }
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,51 +162,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{macromolecules}{%
-\section{Macromolecules}\label{macromolecules}}
 
-\hypertarget{scales}{%
-\subsection{Scales}\label{scales}}
-
-\textbf{Macromolecules}: Measured on the scale of picometres. Extremely
-small + at atomic scales.
-
-\textbf{Macromolecule Structure}: Measured on the scale of nanometres.
-
-\textbf{Organelles + Viruses}: Measured on the scales of hundreds of
-nanometers
-
-\textbf{Cells + Bacteria}: Measured on the scales of micrometers
-
-\hypertarget{small-molecules-vs.-macromelecules}{%
-\subsection{``Small Molecules''
-vs.~``Macromelecules''}\label{small-molecules-vs.-macromelecules}}
-
-\begin{itemize}
-\tightlist
-\item
-  Small molecules --- \textless{} 30-40 atoms
-\item
-  Macromolecules --- \textgreater{} 30-40 atoms, joined by
-  polymerization or just, are, big
-\end{itemize}
-
-\hypertarget{some-macromolecules}{%
-\subsection{Some Macromolecules!}\label{some-macromolecules}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhBIO101Carbs{]}{]}
-\item
-  {[}{[}KBhBIO101Lipids{]}{]}
-\item
-  {[}{[}KBhBIO101AminoAcids{]}{]}
-\item
-  {[}{[}KBrefRubisco{]}{]}
-\end{itemize}
 
 \end{document}
