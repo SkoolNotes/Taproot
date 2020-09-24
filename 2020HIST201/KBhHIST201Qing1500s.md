@@ -35,3 +35,5 @@ course: HIST201
     * Regulation of school
     * System of laws
     * Challenged the patriarchy and improved the role of woman
+    * Discouraged child marriages and encouraged remarrying of widowns
+    * 
