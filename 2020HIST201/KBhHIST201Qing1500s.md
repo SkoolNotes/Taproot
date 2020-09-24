@@ -70,4 +70,5 @@ course: HIST201
             * Enforced islam codes of pubilc conduct via censors
             * Halt constructions of new Hindu temples
             * Attack established structuers
-            *
+            * Reimposed the jizya payment in leu of state service that is demanded from non-muslims
+            * Enforced system of jizya payments that had to be done 
