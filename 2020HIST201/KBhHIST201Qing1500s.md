@@ -73,3 +73,5 @@ course: HIST201
             * Reimposed the jizya payment in leu of state service that is demanded from non-muslims
             * Enforced system of jizya payments that had to be done while chanting about inferoity
             * Opposed appointing hindus to highest ranks
+        * Hindus and other non-muslim cultural icons lamented this
+        * Shah Janan's 
