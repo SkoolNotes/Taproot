@@ -22,5 +22,6 @@ source:  KBhBIO101Macromolecules
 # Faults
 - Rubisco sometimes accidentally binds oxygen to a sugar chain in a process called photorespiration
 	- The cell actually has to expend more energy to fix this mistake
+- Also it's like really really slow, processing around 3 reactions per second instead of other enzymes which often process thousands
 
 ---
