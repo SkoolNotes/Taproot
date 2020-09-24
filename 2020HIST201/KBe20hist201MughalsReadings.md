@@ -11,6 +11,10 @@ source:  KBHistoryMasterIndex
 - Brought various ethnicities of officials into court
 - Embraced foreign art and trade
 ## Differences
-- Akbar embraced and incorporated christianity while Manchus disallowed it because it was 
+- Akbar embraced and incorporated christianity while Manchus disallowed it because it was too restrictive
+
+## Claims
+- Gilbert Ch5
+	- checks and balances were central to akbar's success
 
 ---
