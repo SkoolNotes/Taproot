@@ -26,7 +26,9 @@ $$
 $$
 \begin{aligned}
 4x-9 \le f(x) \le x^2 - 4x+7\\
-\lim_{x\to 4}
+\lim_{x\to 4}4x-9 = 4(4)-9 = 16-9 = 7\\
+\lim_{x\to 4}x^2-4x+7 = 4^2 - 4(4) + 7 = 7\\
+\therefore \lim_{x\to 4}f(x) = 7
 \end{aligned}
 $$
 
