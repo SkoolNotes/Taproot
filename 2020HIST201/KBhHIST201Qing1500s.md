@@ -44,4 +44,5 @@ course: HIST201
         * Served as foundation of Western medicines
         * Invaded port of good hope in Africa
             * Disguised as Muslim traders
-            * 
+            * When about to be kicked out, fought and burned the city
+        *  
