@@ -51,7 +51,7 @@ $$
 -1 \le cos\frac{2}{x}\le 1\\
 \therefore -x^4 \le x^4 cos\frac{2}{x} \le x^4\\
 \lim_{x\to 0} -x^4 = 0 = \lim_{x\to 0} x^4 \\
-\therefore \lim_{x\to 0}x^4cos\frac{2}{x} = 0
+\therefore \lim_{x\to 0}x^4cos\frac{2}{x} = \boxed{0}
 \end{aligned}
 $$
 
@@ -71,7 +71,7 @@ oh and also because the sin power thingjust makes it fluctuate
 
 except sike it's too low it needs to be bigger
 
-- maybe just multpily by $e$ liek $\sqrt{x}e$ s
+- maybe just multpily by $e$ liek $\sqrt{x}e$
 
 great so now we have an upper bound and the lower bound is zero so that works except maybe we can make a :sunglasses:-er one?
 - guess god strats maybe it's the lower bound of the $\sin{\frac{\pi}{x}}$ exponent so like $\sqrt{x}e^{-1}$ and yup thats' work guess god strat always wins
@@ -84,7 +84,7 @@ $$
 \therefore& \sqrt{x}e^{-1} \le \sqrt{x}e^{sin\frac{\pi}{x}} \le \sqrt{x} e\\
 \lim_{x\to 0^+} \sqrt{x}e^{-1} = \sqrt{0}e^{-1} = 0\\
 \lim_{x\to 0^+} \sqrt{x}e = \sqrt{0}e = 0\\
-\therefore& \lim_{x\to 0^+}\sqrt{x}e^{sin\frac{\pi}{x}} = 0
+\therefore& \lim_{x\to 0^+}\sqrt{x}e^{sin\frac{\pi}{x}} = \boxed{0}
 \end{aligned}
 $$
 thanks for coming to my ted talk
