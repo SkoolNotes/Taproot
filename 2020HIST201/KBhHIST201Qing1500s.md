@@ -1,11 +1,11 @@
 ---
-title: Qing in the 1500s
+title: Misc. People in the 1500s
 author: Houjun Liu
 source: KBHistoryMasterIndex
 course: HIST201
 ---
 
-# Qing in the 1500s
+# Qing in the 1500s, But also other things
 
 #flo #disorganized
 
@@ -37,3 +37,6 @@ course: HIST201
     * Challenged the patriarchy and improved the role of woman
     * Discouraged child marriages and encouraged remarrying of widowns
 * Intended all of his social reform to support his object of _sulh-i-kul_ => universal harmony. (Not a fan of _raison d'etat, I see_)
+
+* The Porchuguese
+    * Acted as middlemen between Veni
