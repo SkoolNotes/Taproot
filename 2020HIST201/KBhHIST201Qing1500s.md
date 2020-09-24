@@ -85,3 +85,6 @@ course: HIST201
             * Muhammed Akbar opposed his fathers rules
                 * Fled to Arabia
                 * Tortured and killed son of Shiviaji
+        * Also started a struggle with the Briting East India Company
+            * Started complaining of higher taxes
+            * 
