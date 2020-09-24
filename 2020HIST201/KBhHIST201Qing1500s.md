@@ -58,4 +58,6 @@ course: HIST201
         * Seisure of a ship by practicing Hindu
     * Mughals eventually partnered with english and dutch to try to curtail the porchuguese and create competiton 
     * English and Dutch both adopted the porchuguese model
-    * 
+    * Mugals tried to create strategic partnership with European cultures
+        * Ordered christian symbolism to be painted
+        * 
