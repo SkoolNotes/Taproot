@@ -64,6 +64,6 @@ course: HIST201
     * Conservatively confusion
     * Two great novels written
 * Beginning of decline
-    * Govmn't did not keep pace with rapid population growth
-    * :Qianlong became fond of his bodyguards, who embezzled silver
-    * 
+    * Governmert did not keep pace with rapid population growth
+    * Qianlong became fond of his bodyguards, who embezzled silver
+    * Continuous military campains eventually lead to near bankrupcy
