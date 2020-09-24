@@ -27,5 +27,5 @@ course: HIST201
 * CLAIM: Melded together Mughal and indigenous elites
     * Encouraged intermarriage
     * Reformes aimed at selling Mughal to other people
-    * All official appointments are treated as
+    * All official appointments are treated as gifts from the emperor
     * 
