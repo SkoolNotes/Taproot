@@ -22,5 +22,5 @@ course: HIST201
             * Prevented passing on of wealth to offspring
         * His minister, Todar Mal, made tax collection proportional to value generation
             * So bad crop year could pay less tax
-            * Prevented overluxuriation and benifitted peseants
+            * Prevented overluxuriation and benefitted peseants
     * 
