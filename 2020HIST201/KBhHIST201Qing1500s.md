@@ -10,4 +10,5 @@ course: HIST201
 #flo #disorganized
 
 * Akbar's rule of the Mughals
-    *  
+    * Tried to align his subject's interests to the Mughal's interest
+    * Directed administration to
