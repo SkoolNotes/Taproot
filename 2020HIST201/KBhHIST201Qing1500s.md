@@ -29,4 +29,5 @@ course: HIST201
         * Froze tax assessment in 1712
         * Made tax increase no longer a threat
     * Regions  
-        * Extended the empire northward + establish borders
+        * Extended the empire northward + establish borders with Korea + Russia
+        * 
