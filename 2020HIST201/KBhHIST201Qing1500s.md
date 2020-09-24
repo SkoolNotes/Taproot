@@ -47,5 +47,9 @@ course: HIST201
     * More guarded and suspicious than Kangxi
     * Anti-corruption efforts
         * Expanded secret memorial system
+        * A new tax reform that prevented tax evasion
+* Qianlong Emperor
+    * Reigned for 60 years
+    * Emulated Kangxi
         * 
         
