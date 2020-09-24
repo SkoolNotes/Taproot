@@ -57,4 +57,5 @@ course: HIST201
             * Patron of culture and arts
                 * Compiled collection of Chinese work
                 * Supressed anti-Manchu, anti-Confucion, and heretics by burning them
+* Extended Chinese model of leadership + united the Chinese Mongols Uighurs and Tibetans
 * 
