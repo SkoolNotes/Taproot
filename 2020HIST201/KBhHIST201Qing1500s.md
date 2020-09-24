@@ -19,4 +19,5 @@ course: HIST201
         * First model of separation of powers between government and military
         * Prevented financial corruptiona
             * Made constant transfers and deferrals
-            * 
+            * Prevented passing on of wealth to offspring
+        * 
