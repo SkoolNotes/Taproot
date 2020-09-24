@@ -42,4 +42,6 @@ course: HIST201
             * Interested in Western learning
                 * Learned through Jesuit missionaries
                 * Jesuits saw worship as a ceremony and not rites 
+                * However, was not fully accepted by the Emperor after the early 18th century
+                * 
         
