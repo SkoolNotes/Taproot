@@ -62,4 +62,5 @@ course: HIST201
         * Ordered christian symbolism to be painted
         * Europeans impressed with Mugal style that Mogul became associated with power
 
-* 
+* Aurangzeb's rule
+    * 
