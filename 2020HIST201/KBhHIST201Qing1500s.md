@@ -11,4 +11,5 @@ course: HIST201
 
 * Akbar's rule of the Mughals
     * Tried to align his subject's interests to the Mughal's interest
-    * Directed administration to
+    * Directed administration to award land revenue salary instead of assigning land
+    * Value of goverment official based on
