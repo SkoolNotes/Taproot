@@ -39,4 +39,5 @@ course: HIST201
 * Intended all of his social reform to support his object of _sulh-i-kul_ => universal harmony. (Not a fan of _raison d'etat, I see_)
 
 * The Porchuguese
-    * Acted as middlemen between Veni
+    * Acted as middlemen between Venitians, Arabs, and Turks
+    * 
