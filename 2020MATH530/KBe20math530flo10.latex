@@ -254,6 +254,22 @@ smaller}\label{adding-a-vector-doesnt-make-the-span-smaller}}
   coefficient zero
 \end{itemize}
 
+\hypertarget{size-of-spans}{%
+\subsection{Size of spans}\label{size-of-spans}}
+
+\begin{itemize}
+\tightlist
+\item
+  You can't really just count the number of vectors, because say a line
+  and a plane both have infinite points
+\item
+  But we still want a plane to be larger than a line and a space to be
+  larger than a plane
+\item
+  So one way we compare is to say \(A\) is larger than \(B\) if \(B\) is
+  strictly contained within \(A\)
+\end{itemize}
+
 \hypertarget{linear-dependence}{%
 \section{Linear Dependence}\label{linear-dependence}}
 
