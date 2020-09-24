@@ -93,4 +93,4 @@ course: HIST201
             * Eventually forced negotiations to sink Muslim ships bound for Mecca
             * Eventually forced back into trade negotiations after a larger fine
             * This incident humiliated both the Mughals and the company — displeasing European directors
-        * 
+        * Fights of independence broke out amoung the Marathas and the Hindu-predominant north between 1674-1680
