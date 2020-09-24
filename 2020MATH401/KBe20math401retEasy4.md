@@ -49,7 +49,7 @@ $$
 - So originally you notice that $\sqrt{0}$ is just $0$ so the thing is going to be zero in the end either way
 - But we can guess god our way to the nice functions using this graph
 ![[Pasted image 20200923222859.png]]
-- So we know from earlier that $-1 \le sin\frac{\pi}{x} \le 1$ 
+- So we know from earlier that $-1 \le sin\frac{\pi}{x} \le 1$ and like taking a psotivie numebr to a power is not gonn make it negative so like $e^{sin\
 thanks for coming to my ted talk
 
 ---
