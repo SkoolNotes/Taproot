@@ -18,4 +18,7 @@ source:  KBe2020math530floIndex
 ![[Pasted image 20200924131215.png]]
 - The span of that vector is a line. It's a subspace. But it's not the biggest, because there's also R^2
 
+## Given a linearly independent set of vectors, would the span equal to the vector space?
+- No? 
+
 ---
