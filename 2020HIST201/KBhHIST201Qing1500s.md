@@ -17,4 +17,6 @@ course: HIST201
             * a local commander = 500 men
             * a provincial government = 5000 men
         * First model of separation of powers between government and military
-        * Prevented financial corruption
+        * Prevented financial corruptiona
+            * Made constant transfers and deferrals
+            * 
