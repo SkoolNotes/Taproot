@@ -22,4 +22,9 @@ course: HIST201
     * Forced Chinese men to submit to a Manchu hairstyle
     * Present symbol of Manchu rule 
     * Took a whole generation to solidify rule
-* 
+* Kangxi Emperor
+    * One of the most effective rulers of China
+    * Held the throne for 60 years
+    * Financials
+        * 5
+    * Regions  
