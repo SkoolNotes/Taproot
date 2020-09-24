@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{}
-\newcommand{\thelesson}{}
+\newcommand{\thelesson}{ Calc easy 4 }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,51 +162,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\hypertarget{questions}{%
-\subsection{Questions}\label{questions}}
-
-{[}{[}eRefCalcQuestions{]}{]}
-
-\hypertarget{flows}{%
-\subsection{Flows}\label{flows}}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Day & Link\tabularnewline
-\midrule
-\endhead
-1 & {[}{[}KBe2020math401flo1{]}{]}\tabularnewline
-2 & {[}{[}KBe2020math401flo2{]}{]}\tabularnewline
-3 & {[}{[}eFloCalcD3{]}{]}\tabularnewline
-5 & {[}{[}KBe20math401flo5{]}{]}\tabularnewline
-\bottomrule
-\end{longtable}
-
-\hypertarget{homework}{%
-\subsection{Homework}\label{homework}}
-
-\begin{longtable}[]{@{}rll@{}}
-\toprule
-HW & Due Date & Link\tabularnewline
-\midrule
-\endhead
-0 & 2020-08-27 & {[}{[}KBe2020math401ret0MyIntro{]}{]}\tabularnewline
-1\_1 & 2020-09-01 & {[}{[}RETcalc1\_1.pdf{]}{]}\tabularnewline
-Easy\_1 & 2020-09-03 & {[}{[}eFloCalcD3{]}{]} (continued
-classwork)\tabularnewline
-1\_2 & 2020-09-08 & {[}{[}20math401retHW1\_2.pdf{]}{]}\tabularnewline
-1\_3t & AbiW & {[}{[}KBe20math401ret1\_3t.pdf{]}{]}\tabularnewline
-1\_3 & 2020-09-15 & {[}{[}KBe20math401ret1\_3.pdf{]}{]}\tabularnewline
-Easy\_3 & 2020-09-17 & {[}{[}KBe20math401retLight3{]}{]}\tabularnewline
-1\_4 & 2020-09-22 & {[}{[}KBe20math401ret1\_4{]}{]}\tabularnewline
-Easy\_4 & 2020-09-24 & {[}{[}KBe20math401retEasy4{]}{]}\tabularnewline
-\bottomrule
-\end{longtable}
-
-Concepts and Notation \textbar{}
-{[}{[}KBe2020math401refCalcConceptsNotation{]}{]} Introduction
-\textbar{} {[}{[}KBe2020math401flo1{]}{]}
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
