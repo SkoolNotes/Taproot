@@ -28,4 +28,5 @@ course: HIST201
     * Encouraged intermarriage
     * Reformes aimed at selling Mughal to other people
     * All official appointments are treated as gifts from the emperor
-    * 
+    * Gave grants to Muslim and Hindu cultural institutions
+    * Supported the arts and sciences
