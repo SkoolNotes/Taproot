@@ -254,8 +254,8 @@ smaller}\label{adding-a-vector-doesnt-make-the-span-smaller}}
   coefficient zero
 \end{itemize}
 
-\hypertarget{size-of-spans}{%
-\subsection{Size of spans}\label{size-of-spans}}
+\hypertarget{size-of-spanssubspaces}{%
+\subsection{Size of spans/subspaces}\label{size-of-spanssubspaces}}
 
 \begin{itemize}
 \tightlist
@@ -269,8 +269,8 @@ smaller}\label{adding-a-vector-doesnt-make-the-span-smaller}}
   So one way we compare is to say \(A\) is larger than \(B\) if \(B\) is
   strictly contained within \(A\)
 \item
-  ``dimensionality'' the minimum number of vectors needed for their span
-  to be equal to the space
+  something like ``dimensionality'', maybe the minimum number of vectors
+  needed for their span to be equal to the space
 \end{itemize}
 
 \hypertarget{linear-dependence}{%
