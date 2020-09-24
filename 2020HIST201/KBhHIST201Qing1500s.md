@@ -7,4 +7,7 @@ course: HIST201
 
 # Qing in the 1500s
 
-#here
+#flo #disorganized
+
+* Akbar's rule of the Mughals
+    *  
