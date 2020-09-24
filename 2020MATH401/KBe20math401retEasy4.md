@@ -62,7 +62,7 @@ So originally you notice that $\sqrt{0}$ is just $0$ so the thing is going to be
 
 But we can guess god our way to the nice functions using this graph
 
-![](./Pasted image 20200923222859.png)
+![](./Pastedimage20200923222859.png)
 
 So we know from earlier that $-1 \le sin\frac{\pi}{x} \le 1$ and like taking a psotivie numebr to a power is not gonn make it negative so like $e^{sin\frac{\pi}{x}}$ is gonna be more den $0$
 
