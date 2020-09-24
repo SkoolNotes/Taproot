@@ -22,6 +22,12 @@ $$
 \end{aligned}
 $$
 
-##
+## Problem 37
+$$
+\begin{aligned}
+4x-9 \le f(x) \le x^2 - 4x+7\\
+\lim_{x\to 4}
+\end{aligned}
+$$
 
 ---

@@ -18,4 +18,4 @@ course: HIST201
     * Assured that Chinese culture would continue, but those who resisted are punished
         * Yangzhou refused to surrender
         * So Manchus took the city and instantiated the purge
-        * 
+    * 
