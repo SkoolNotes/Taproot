@@ -56,4 +56,4 @@ course: HIST201
     * Resorted to a model of compromise => "Gave free passage to ships in exchange for pilgrims on their way to Mecca
     * Porchuguese, Dutch, and English collectively tried te "interfere in international shiping
         * Seisure of a ship by practicing Hindu
-        * 
+    * Mughals eventually partnered with english and dutch to try to curtail the porchuguese and create competiton 
