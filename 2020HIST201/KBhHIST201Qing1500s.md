@@ -90,4 +90,5 @@ course: HIST201
             * Interpreted their license to say that they would only need to pay taxes at major international ports
             * In defense, the company declared war against the Mughals
             * The Mughals retailated by destroying corporate stations
+            * Eventually forced negotiations to sing Muslim ships bound for Mecca
             * 
