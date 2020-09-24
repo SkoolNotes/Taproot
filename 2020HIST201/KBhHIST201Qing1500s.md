@@ -81,6 +81,7 @@ course: HIST201
                 * Escaped the court, and went to the Marathas
                 * 1674-1680 started invading Mughals in gurilla campaigns
                 * Which, is a self-deprecating loop — causing Auranzb to invest even MORE moneyon fighting
-                    * Created the Marathas empir
+                    * Created the Marathas empire
             * Muhammed Akbar opposed his fathers rules
-            *  
+                * Fled to Arabia
+                * Tortured and killed son of Shiviaji
