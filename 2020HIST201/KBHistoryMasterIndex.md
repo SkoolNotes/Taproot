@@ -39,7 +39,8 @@ source: #index
 * Jack's Qing Index [[KBhHIST201Qing1500s]]
 
 ## Mughals
-* Jack's Mughals index [[KBhHIST201Mughals1600s]]
+* Jack's Mughals notes [[KBhHIST201Mughals1600s]]
+- Exr0n Mughals reading ret [[KBe20hist201MughalsReadings]]
 
 ## Ottomans
 - [[KBrefOttomanEmpire]]
