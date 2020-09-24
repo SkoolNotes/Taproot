@@ -63,4 +63,9 @@ course: HIST201
         * Europeans impressed with Mugal style that Mogul became associated with power
 
 * Aurangzeb's rule
-    * 
+    * Orthodox muslim
+        * Took religious values over tradition
+        * Dismaltiled Mughal's multicultralism
+            * Banned music and dance 
+            * Enforced islam codes of pubilc conduct via censors
+            * Halt constructions of new Hindu temples
