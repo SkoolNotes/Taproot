@@ -53,3 +53,5 @@ course: HIST201
         * Evenutally, setup a larger network of trade 
         
 * Mughals saw the Porchuguese, and wanted to curtail them
+    * Resorted to a model of compromise => "Gave free passage to ships in exchange for pilgrims on their way to Mecca
+    * 
