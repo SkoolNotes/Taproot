@@ -54,4 +54,6 @@ course: HIST201
         * Intensified Qing involvement in Tibet
         * Expanded into Turkestan
         * Patron of culture and arts
+            * Compiled collection of Chinese work
+            * Supressed anti-Manchu, anti-Confucion, and heretics by burning them
         
