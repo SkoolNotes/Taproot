@@ -69,3 +69,5 @@ course: HIST201
             * Banned music and dance 
             * Enforced islam codes of pubilc conduct via censors
             * Halt constructions of new Hindu temples
+            * Attack established structuers
+            *
