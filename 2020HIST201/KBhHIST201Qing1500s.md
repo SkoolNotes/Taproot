@@ -23,4 +23,4 @@ course: HIST201
         * His minister, Todar Mal, made tax collection proportional to value generation
             * So bad crop year could pay less tax
             * Prevented overluxuriation and benefitted peseants
-    * 
+    * Favored appointement of native born over foreign  — due to pledges of loyalty to Mughal state: promoting religious indignity
