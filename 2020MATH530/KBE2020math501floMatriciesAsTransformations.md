@@ -20,6 +20,6 @@ $\begin{matrix}1 &1 \\ 0 &1\end{matrix}$ | Add $y$ to $x$ (easier to visualize a
 - [[KBe2020math530retPracticeMultiplyMatrixIdentfyGroups]]
 
 # Rotation Matrices
-- We can get 90deg rotations decently easily, but what abotu other 
+- We can get 90deg rotations decently easily, but what about other angles?
 
 ---
