@@ -20,8 +20,7 @@ source:  KBhBIO101Macromolecules
 - Combines carbon from $CO_2$, light, and water to get carbohydrates
 	- $6CO_2 + 6H_2O + light = \text{carbs}$
 # Faults
-- Rubisco sometimes accidentally binds oxygen to a sugar chain, photorespiration
-	
-
+- Rubisco sometimes accidentally binds oxygen to a sugar chain in a process called photorespiration
+	- The cell actually has to expend more energy to fix this mistake
 
 ---
