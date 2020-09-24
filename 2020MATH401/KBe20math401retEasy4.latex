@@ -252,8 +252,9 @@ like \(\sqrt{x}e^{-1}\) and yup thats' work guess god strat always wins
 Here's the actual ``writeup'' \[
 \begin{aligned}
 -1 \le sin{\frac{\pi}{x}} \le 1\\
-\therefore e^{-1} \le e^{sin{\frac{\pi}{x}}} \le e^1\\
-\therefore \sqrt{x}e \le \sqrt{x}e^{sin{\frac{\pi}{x}
+\therefore& e^{-1} \le e^{sin{\frac{\pi}{x}}} \le e^1\\
+\therefore& \sqrt{x}e^{-1} \le \sqrt{x}e^{sin\frac{\pi}{x}} \le \sqrt{x} e
+\lim_{x\to 0}
 \end{aligned}
 \] thanks for coming to my ted talk
 
