@@ -19,6 +19,8 @@ source:  KBhBIO101Macromolecules
 - Turning carbon from the air into carbohydrates
 - Combines carbon from $CO_2$, light, and water to get carbohydrates
 	- $6CO_2 + 6H_2O + light = \text{carbs}$
+# Faults
+- Rubisco sometimes accidentally binds oxygen to a sugar chain, photorespiration
 	
 
 
