@@ -22,6 +22,8 @@ This is incorrect. Philosophy is about building a logical framework of understan
 
 > Our truth is the intersection of independent lies.
 
+This is certainly a thought provoking quote, but once again, I am unsure it is true.  
+
 
 
 ## Common Features of Concepts of Robustness 

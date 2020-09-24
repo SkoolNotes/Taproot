@@ -26,4 +26,5 @@ course: HIST201
     * Favored appointement of native born over foreign  — due to pledges of loyalty to Mughal state: promoting religious indignity
 * CLAIM: Melded together Mughal and indigenous elites
     * Encouraged intermarriage
+    * Reformes aimed at selling Mughal to other people
     * 
