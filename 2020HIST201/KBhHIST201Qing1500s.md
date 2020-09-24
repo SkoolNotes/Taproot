@@ -18,4 +18,7 @@ course: HIST201
     * Assured that Chinese culture would continue, but those who resisted are punished
         * Yangzhou refused to surrender
         * So Manchus took the city and instantiated the purge
-* 
+* Hairstyle submission
+    * Forced Chinese men to submit to a Manchu hairstyle
+    * Present symbol of Manchu rule 
+    * 

@@ -180,7 +180,7 @@
 \begin{aligned}
 \lim_{x\to 0} -\left|x\sqrt{x+1}\right| = -\left|0\sqrt{1}\right| = 0\\
 \lim_{x\to 0} \left|x\sqrt{x+1}\right| = -\left|0\sqrt{1}\right| = 0\\
-\therefore \lim_{x\to 0} = \sqrt{x^3+x^2}\sin\frac{\pi}{x} = 0
+\therefore \lim_{x\to 0} = \sqrt{x^3+x^2}\sin\frac{\pi}{x} = \boxed{0}
 \end{aligned}
 \]
 
@@ -192,7 +192,7 @@
 4x-9 \le f(x) \le x^2 - 4x+7\\
 \lim_{x\to 4}4x-9 = 4(4)-9 = 16-9 = 7\\
 \lim_{x\to 4}x^2-4x+7 = 4^2 - 4(4) + 7 = 7\\
-\therefore \lim_{x\to 4}f(x) = 7
+\therefore \lim_{x\to 4}f(x) = \boxed{7}
 \end{aligned}
 \]
 
