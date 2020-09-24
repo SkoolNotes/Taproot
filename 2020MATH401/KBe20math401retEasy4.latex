@@ -247,11 +247,12 @@ except sike it's too low it needs to be bigger
 great so now we have an upper bound and the lower bound is zero so that
 works except maybe we can make a :sunglasses:-er one? - guess god strats
 maybe it's the lower bound of the \(\sin{\frac{\pi}{x}}\) exponent so
-like \(\sqrt{x}e^-1\) and yup thats' work guess god strat always wins
+like \(\sqrt{x}e^{-1}\) and yup thats' work guess god strat always wins
 
 Here's the actual ``writeup'' \[
 \begin{aligned}
--1 \le e^{sin{\frac{\pi}{x}}} \le 1
+-1 \le sin{\frac{\pi}{x}} \le 1\\
+\therefore e^{-1} \le e^{sin{\frac{\pi}{x}}} \le 1\\
 \end{aligned}
 \] thanks for coming to my ted talk
 

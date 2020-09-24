@@ -51,5 +51,7 @@ course: HIST201
 * Qianlong Emperor
     * Reigned for 60 years
     * Emulated Kangxi
-        * 
+        * Intensified Qing involvement in Tibet
+        * Expanded into Turkestan
+        * Patron of culture and arts
         
