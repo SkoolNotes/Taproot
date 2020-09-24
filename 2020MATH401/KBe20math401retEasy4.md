@@ -9,8 +9,9 @@ source:  KBe2020math401index
 ## Problem 36
 $$
 \begin{aligned}
-\lim_{x\to 0}\sqrt{x^3+x^2}sin\frac{\pi}{x}=0\\
--1 \le sin\frac{\pi}{x} \le 1 \therefore -\left|x\sqrt{x+1}\right|\le x\sqrt{x+1}sin\frac{\pi}{x}\lt\left|x\sqrt{x+1}\right|
+\lim_{x\to 0}\sqrt{x^3+x^2}sin\frac{\pi}{x}=0
+\\& -1 \le sin\frac{\pi}{x} \le 1 \\&\therefore -\left| x \sqrt{x+1} \right| \le x\sqrt{x+1}sin\frac{\pi}{x}\lt \left| x \sqrt{x+1}\right|
+\end{aligned}
 $$
 
 ---

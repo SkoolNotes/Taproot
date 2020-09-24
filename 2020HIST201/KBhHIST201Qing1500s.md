@@ -1,8 +1,12 @@
 ---
-title: Misc. People in the 1500s
+title: Manchus
 author: Houjun Liu
 source: KBHistoryMasterIndex
 course: HIST201
 ---
 
 # Qing
+
+#flo #disorganized
+
+* 
