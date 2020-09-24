@@ -94,3 +94,7 @@ course: HIST201
             * Eventually forced back into trade negotiations after a larger fine
             * This incident humiliated both the Mughals and the company — displeasing European directors
         * Fights of independence broke out amoung the Marathas and the Hindu-predominant north between 1674-1680
+    * In the end, Aurangzeb ended his life noting "I don't know who I am, nor what I have been doing" 
+    * Marathas won great parts of Mughal territory
+        * Empire's rulers force to pay tribute
+        *  
