@@ -13,6 +13,7 @@ $$
 \\& -1 \le sin\frac{\pi}{x} \le 1 \\&\therefore -\left| x \sqrt{x+1} \right| \le x\sqrt{x+1}sin \frac{\pi}{x}\lt \left| x \sqrt{x+1}\right|
 \end{aligned}
 $$
+![[Pasted image 20200923221014.png]]
 $$
 \begin{aligned}
 \end{aligned}
