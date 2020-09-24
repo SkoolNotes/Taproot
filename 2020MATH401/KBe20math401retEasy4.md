@@ -45,10 +45,11 @@ $$
 ## Problem 39
 
 ## Problem 40
-- inspired by [GUESS GOD]TODO()
+- inspired by [GUESS GOD](https://github.com/perfectblue/ctf-writeups/tree/master/2020/csaw-quals-2020/take-it-easy)
 - So originally you notice that $\sqrt{0}$ is just $0$ so the thing is going to be zero in the end either way
-- But we can guess god our way to 
+- But we can guess god our way to the nice functions using this graph
 ![[Pasted image 20200923222859.png]]
+- So we know from earlier that $-1 \le sin\frac{\pi}{x} \le 1$ 
 thanks for coming to my ted talk
 
 ---

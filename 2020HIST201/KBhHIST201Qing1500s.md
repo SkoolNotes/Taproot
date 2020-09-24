@@ -35,4 +35,6 @@ course: HIST201
         * Dilligent
         * Hardworking
         * Good judge of character + warrented honest answers
-        * 
+        * Held examinations to promote scholars
+        * Did not fight Ming loyalists as long as they break no laws
+        * Patronized art, philosophy, and poetry
