@@ -32,4 +32,13 @@ $$
 \end{aligned}
 $$
 
+## Problem 38
+$$
+\begin{aligned}
+\lim_{x\to 1}2x = 2(1) = 2\\
+\lim_{x\to 1}x^4-x^2+2 = 1 - 1 + 2 = 2\\
+
+\end{aligned}
+$$
+
 ---
