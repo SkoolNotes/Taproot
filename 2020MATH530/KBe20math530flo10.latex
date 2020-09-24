@@ -197,6 +197,9 @@ subspaces}\label{smallestlargest-containing-subspaces}}
 \item
   The span of that vector is a line. It's a subspace. But it's not the
   biggest, because there's also R\^{}2
+\item
+  It only won't be infinite if your span is the span of \(()\) (empty
+  list)
 \end{itemize}
 
 \hypertarget{given-a-linearly-independent-set-of-vectors-would-the-span-equal-to-the-vector-space}{%
