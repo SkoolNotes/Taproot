@@ -21,4 +21,5 @@ course: HIST201
 * Hairstyle submission
     * Forced Chinese men to submit to a Manchu hairstyle
     * Present symbol of Manchu rule 
-    * 
+    * Took a whole generation to solidify rule
+* 
