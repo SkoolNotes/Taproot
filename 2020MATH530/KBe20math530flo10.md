@@ -9,6 +9,8 @@ source:  KBe2020math530floIndex
 
 ## Smallest/largest containing subspaces
 - Spans are not the largest vector space that contains the given vectors
+![[Pasted image 20200924131215.png]]
+- The span of that vector is a line. It's a subspace. But it's not the biggest, because there's also R^2
 
 ## Spans tend to be infinite
 - Usually a span has infinitely many vectors (unless you're in a weird field (modulo) or have the zero span)
