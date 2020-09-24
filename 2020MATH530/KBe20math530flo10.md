@@ -5,6 +5,8 @@ author:  Exr0n
 source:  KBe2020math530floIndex
 ---
 
+#flo
+
 # Span
 
 ## Smallest/largest containing subspaces
@@ -29,5 +31,8 @@ source:  KBe2020math530floIndex
 	- in 2space they have to not be colinear, in 3space they have to not be coplanar.
 	- They have to be linearly independent
 - That probably generalizes to higher and lower dimensions
+
+# Linear Dependence
+- When one of the vectors provides no "new information" aka can be constructed by a linear combination of vectors you already had
 
 ---

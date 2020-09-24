@@ -165,6 +165,8 @@
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=KBe2020math530floIndex}{\tiny\textulf{[[}\textbf{KBe2020math530floIndex}\textulf{]]}}}\thinspace
 
+\#flo
+
 \hypertarget{span}{%
 \section{Span}\label{span}}
 
@@ -239,6 +241,16 @@ space?}\label{given-a-linearly-independent-set-of-vectors-would-the-span-equal-t
   \end{itemize}
 \item
   That probably generalizes to higher and lower dimensions
+\end{itemize}
+
+\hypertarget{linear-dependence}{%
+\section{Linear Dependence}\label{linear-dependence}}
+
+\begin{itemize}
+\tightlist
+\item
+  When one of the vectors provides no ``new information'' aka can be
+  constructed by a linear combination of vectors you already had
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
