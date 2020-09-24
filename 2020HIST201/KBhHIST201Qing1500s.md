@@ -39,5 +39,7 @@ course: HIST201
         * Promoted liberal arts
             * Held examinations to promote scholars
             * Patronized art, philosophy, and poetry
-        * 
+            * Interested in Western learning
+                * Learned through Jesuit missionaries
+                * Jesuits saw worship as a ceremony and not rites 
         
