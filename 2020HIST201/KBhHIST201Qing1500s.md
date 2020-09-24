@@ -58,4 +58,12 @@ course: HIST201
                 * Compiled collection of Chinese work
                 * Supressed anti-Manchu, anti-Confucion, and heretics by burning them
 * Extended Chinese model of leadership + united the Chinese Mongols Uighurs and Tibetans
-* 
+* 18s Century
+    * Happy times
+    * Prosperous and peaceful
+    * Conservatively confusion
+    * Two great novels written
+* Beginning of decline
+    * Govmn't did not keep pace with rapid population growth
+    * :Qianlong became fond of his bodyguards, who embezzled silver
+    * 
