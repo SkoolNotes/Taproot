@@ -80,4 +80,7 @@ course: HIST201
                 * Which means, he got quickly struck down
                 * Escaped the court, and went to the Marathas
                 * 1674-1680 started invading Mughals in gurilla campaigns
-                *  
+                * Which, is a self-deprecating loop — causing Auranzb to invest even MORE moneyon fighting
+                    * Created the Marathas empir
+            * Muhammed Akbar opposed his fathers rules
+            *  
