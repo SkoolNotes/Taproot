@@ -74,4 +74,6 @@ course: HIST201
             * Enforced system of jizya payments that had to be done while chanting about inferoity
             * Opposed appointing hindus to highest ranks
         * Hindus and other non-muslim cultural icons lamented this
-        * Shah Janan's 
+        * Shah Janan's army campaigns increased tax revenue to meet higher expectations
+            * Hindu agricultural exploration fell hardest
+            * 
