@@ -9,7 +9,10 @@ course: HIST201
 
 #flo #disorganized
 
-* Professional military organized under 8 banners
-    * Took Beijing
-    * Restored order
-    * Proclaimed that the mandate passed to them
+* The Manchus!
+    * Powerful army took China
+        * Professional military organized under 8 banners
+        * Took Beijing
+        * Restored order
+        * Proclaimed that the mandate passed to them
+    * Given the city for 1
