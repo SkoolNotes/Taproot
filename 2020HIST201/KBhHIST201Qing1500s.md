@@ -87,4 +87,7 @@ course: HIST201
                 * Tortured and killed son of Shiviaji
         * Also started a struggle with the Briting East India Company
             * Started complaining of higher taxes
+            * Interpreted their license to say that they would only need to pay taxes at major international ports
+            * In defense, the company declared war against the Mughals
+            * The Mughals retailated by destroying corporate stations
             * 
