@@ -15,4 +15,7 @@ course: HIST201
         * Took Beijing
         * Restored order
         * Proclaimed that the mandate passed to them
-    * Given the city for 1
+    * Assured that Chinese culture would continue, but those who resisted are punished
+        * Yangzhou refused to surrender
+        * So Manchus took the city and instantiated the purge
+        * 
