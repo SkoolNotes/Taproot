@@ -31,4 +31,8 @@ course: HIST201
     * Regions  
         * Extended the empire northward + establish borders with Korea + Russia
         * Lead campaigns against Mongols and occupied Tibet
-    * 
+    * CLAIM: why he was great
+        * Dilligent
+        * Hardworking
+        * Good judge of character + warrented honest answers
+        * 
