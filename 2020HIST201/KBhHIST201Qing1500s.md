@@ -42,7 +42,10 @@ course: HIST201
     * Acted as middlemen between Venitians, Arabs, and Turks
         * Traded spices and cotton
         * Served as foundation of Western medicines
-        * Invaded port of good hope in Africa
-            * Disguised as Muslim traders
-            * When about to be kicked out, fought and burned the city
-        *  
+        * De Gama's Explorations
+            * Invaded port of good hope in Africa
+                * Disguised as Muslim traders
+                * When about to be kicked out, fought and burned the city
+            * Zamorin also got scammed by de Gama too
+                * Convinced that he was a pirate
+                * Did not drive off, and permitted to trade 
