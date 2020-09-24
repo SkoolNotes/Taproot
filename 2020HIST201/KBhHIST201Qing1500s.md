@@ -48,4 +48,8 @@ course: HIST201
                 * When about to be kicked out, fought and burned the city
             * Zamorin also got scammed by de Gama too
                 * Convinced that he was a pirate
-                * Did not drive off, and permitted to trade 
+                * Did not drive off, and permitted to trade
+                * Kidnapped some local fishermen for crew along the way
+        * Evenutally, setup a larger network of trade 
+        
+* Mughals saw the Porchuguese, and wanted to curtail them
