@@ -273,6 +273,20 @@ smaller}\label{adding-a-vector-doesnt-make-the-span-smaller}}
   needed for their span to be equal to the space
 \end{itemize}
 
+\hypertarget{span-is-the-smallest-containing-subspace}{%
+\section{2.7 Span is the smallest containing
+subspace}\label{span-is-the-smallest-containing-subspace}}
+
+\begin{itemize}
+\tightlist
+\item
+  First the proof shows that the span is a subspace
+\item
+  Then, because the span only neds to contain each vector and be a
+  subspace, any subspace containing those vectors will at least contain
+  the span.
+\end{itemize}
+
 \hypertarget{linear-dependence}{%
 \section{Linear Dependence}\label{linear-dependence}}
 

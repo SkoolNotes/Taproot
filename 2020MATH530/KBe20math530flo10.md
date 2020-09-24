@@ -41,6 +41,10 @@ source:  KBe2020math530floIndex
 - So one way we compare is to say $A$ is larger than $B$ if $B$ is strictly contained within $A$
 - something like "dimensionality", maybe the minimum number of vectors needed for their span to be equal to the space 
 
+# 2.7 Span is the smallest containing subspace
+- First the proof shows that the span is a subspace
+- Then, because the span only neds to contain each vector and be a subspace, any subspace containing those vectors will at least contain the span.
+
 # Linear Dependence
 - When one of the vectors provides no "new information" aka can be constructed by a linear combination of vectors you already had
 - It's a property of a set of vectors, not just one vector. A single vector is always linearly independent on its own, because there's nothing else to depend on.
