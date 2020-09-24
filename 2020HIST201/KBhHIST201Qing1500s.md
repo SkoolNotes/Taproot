@@ -42,4 +42,5 @@ course: HIST201
     * Acted as middlemen between Venitians, Arabs, and Turks
         * Traded spices and cotton
         * Served as foundation of Western medicines
-    * 
+        * Invaded port of good hope in Africa
+            * 
