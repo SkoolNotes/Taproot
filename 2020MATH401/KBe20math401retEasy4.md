@@ -81,9 +81,9 @@ $$
 -1 \le sin{\frac{\pi}{x}} \le 1\\
 \therefore& e^{-1} \le e^{sin{\frac{\pi}{x}}} \le e^1\\
 \therefore& \sqrt{x}e^{-1} \le \sqrt{x}e^{sin\frac{\pi}{x}} \le \sqrt{x} e\\
-\lim_{x\to 0} \sqrt{x}e^{-1} = \sqrt{0}e^{-1} = 0\\
-\lim_{x\to 0} \sqrt{x}e = \sqrt{0}e = 0\\
-\therefore& \lim_{x\to 0}\sqrt{x}e^{sin\frac{\pi}{x}} = 0
+\lim_{x\to 0^+} \sqrt{x}e^{-1} = \sqrt{0}e^{-1} = 0\\
+\lim_{x\to 0^+} \sqrt{x}e = \sqrt{0}e = 0\\
+\therefore& \lim_{x\to 0^+}\sqrt{x}e^{sin\frac{\pi}{x}} = 0
 \end{aligned}
 $$
 thanks for coming to my ted talk
