@@ -43,5 +43,6 @@ source:  KBe2020math530floIndex
 
 # Linear Dependence
 - When one of the vectors provides no "new information" aka can be constructed by a linear combination of vectors you already had
+- It's a property of a set of vectors, not just one vector. A single vector is always linearly independent on its own, because there's nothing else to depend on.
 
 ---

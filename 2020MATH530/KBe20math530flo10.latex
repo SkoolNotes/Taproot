@@ -281,6 +281,10 @@ smaller}\label{adding-a-vector-doesnt-make-the-span-smaller}}
 \item
   When one of the vectors provides no ``new information'' aka can be
   constructed by a linear combination of vectors you already had
+\item
+  It's a property of a set of vectors, not just one vector. A single
+  vector is always linearly independent on its own, because there's
+  nothing else to depend on.
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
