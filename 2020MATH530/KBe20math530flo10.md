@@ -32,6 +32,9 @@ source:  KBe2020math530floIndex
 	- They have to be linearly independent
 - That probably generalizes to higher and lower dimensions
 
+## Adding a vector doesn't make the span smaller
+- Because you can just do what you had originally and make it's coefficient zero
+
 # Linear Dependence
 - When one of the vectors provides no "new information" aka can be constructed by a linear combination of vectors you already had
 
