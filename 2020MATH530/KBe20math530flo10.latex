@@ -222,6 +222,13 @@ space?}\label{given-a-linearly-independent-set-of-vectors-would-the-span-equal-t
 \item
   When it's two vectors, you'd expect the span to be a 2d plane unless
   the vectors are parallel
+
+  \begin{itemize}
+  \tightlist
+  \item
+    In other words, if they are linear combinations or scalar multiples
+    of one another
+  \end{itemize}
 \item
   That probably generalizes to higher and lower dimensions
 \end{itemize}
