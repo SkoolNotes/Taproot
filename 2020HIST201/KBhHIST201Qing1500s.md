@@ -26,5 +26,7 @@ course: HIST201
     * One of the most effective rulers of China
     * Held the throne for 60 years
     * Financials
-        * 5
+        * Froze tax assessment in 1712
+        * Made tax increase no longer a threat
     * Regions  
+        * Extended the empire northward + establish borders
