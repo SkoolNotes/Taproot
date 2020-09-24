@@ -39,6 +39,7 @@ source:  KBe2020math530floIndex
 - You can't really just count the number of vectors, because say a line and a plane both have infinite points
 - But we still want a plane to be larger than a line and a space to be larger than a plane
 - So one way we compare is to say $A$ is larger than $B$ if $B$ is strictly contained within $A$
+- "dimensionality" the minimum number of vectors needed for their span to be equal to the space 
 
 # Linear Dependence
 - When one of the vectors provides no "new information" aka can be constructed by a linear combination of vectors you already had
