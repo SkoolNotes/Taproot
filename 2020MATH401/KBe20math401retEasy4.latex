@@ -211,8 +211,12 @@
 \hypertarget{problem-39}{%
 \subsection{Problem 39}\label{problem-39}}
 
-This one is also doable by just saying that
-\(\lim_{x\to 0}x^4cos\frac{2}{x} = \lim_{x\to 0} x^4 \lim_{x\to 0}cos\frac{2}{x} = 0(lim_{x\to 0}\)
+This one is doable by just saying that
+\(\lim_{x\to 0}x^4cos\frac{2}{x} = \lim_{x\to 0} x^4 \lim_{x\to 0}cos\frac{2}{x} = 0(lim_{x\to 0} cos\frac{2}{x}) = 0\)
+
+But we can also do it properly: \[
+\begin{aligned}
+\]
 
 \hypertarget{problem-40}{%
 \subsection{Problem 40}\label{problem-40}}
