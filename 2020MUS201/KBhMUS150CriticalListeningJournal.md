@@ -271,4 +271,4 @@ source: KBhMUS150D1
 - Creative drum pattern
 - Signature vocals highlight the tune of the music
 - Sudden transition to dubstep style music
-- During vocals, traditional bu
+- During vocals, traditional but still slightly (house?) pattern
