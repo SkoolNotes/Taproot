@@ -37,8 +37,11 @@ $$
 \begin{aligned}
 \lim_{x\to 1}2x = 2(1) = 2\\
 \lim_{x\to 1}x^4-x^2+2 = 1 - 1 + 2 = 2\\
-
+2x \le g(x) \le x^2 - x^2 + 2\\
+\therefore \lim_{x\to 1}g(x) = \boxed{2}
 \end{aligned}
 $$
+
+## Problem 39
 
 ---
