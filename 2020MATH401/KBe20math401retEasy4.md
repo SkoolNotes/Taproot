@@ -8,6 +8,9 @@ source:  KBe2020math401index
 # Problems on slide 38
 ## Problem 36
 $$
-\lim_{x\to 0}\sqrt{x^3+x^2}sin\frac{\pi}{x}=0
+\begin{aligned}
+\lim_{x\to 0}\sqrt{x^3+x^2}sin\frac{\pi}{x}=0\\
+-1 \le sin\frac{\pi}{x} \le 1 \therefore -\left|x\sqrt{x+1}\right|\lex\sqrt{x+1}sin\frac{\pi}{x}\lt\left|x\sqrt{x+1}\right|
+$$
 
 ---
