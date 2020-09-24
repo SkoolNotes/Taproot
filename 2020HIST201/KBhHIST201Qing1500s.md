@@ -15,4 +15,5 @@ course: HIST201
     * Value of government official based on cost w.r.t. operating military men
         * a local commander = 500 men
         * a provincial government = 5000 men
-    * First model of separation of powers between government and military 
+    * First model of separation of powers between government and military
+    * 
