@@ -14,5 +14,6 @@ source:  KBe20math530refVectorSpace
 > where a_1, ..., a_m \in F
 
 - Basically, if it's a linear combination, the system of equations has solutions
+- Scalar multiplication and addition
 
 ---
