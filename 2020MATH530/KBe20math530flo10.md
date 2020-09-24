@@ -5,9 +5,15 @@ author:  Exr0n
 source:  KBe2020math530floIndex
 ---
 
-# Span and Smallest/largest containing subspaces
+# Span
 
-## Spans are not the largest vector space that contains the given vectors
-- Usually a span has infinitely many vectors (unless you're in a weird field or 
+## Smallest/largest containing subspaces
+- Spans are not the largest vector space that contains the given vectors
+
+## Spans tend to be infinite
+- Usually a span has infinitely many vectors (unless you're in a weird field (modulo) or have the zero span)
+- In the span of just one vector, you can multiply by any scalar which there tends to be infinite of
+![[Pasted image 20200924131215.png]]
+- The span of that vector is a line. It's a subspace. But it's not the biggest, because there's also R^2
 
 ---

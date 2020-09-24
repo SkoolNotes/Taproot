@@ -165,20 +165,31 @@
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=KBe2020math530floIndex}{\tiny\textulf{[[}\textbf{KBe2020math530floIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{span-and-smallestlargest-containing-subspaces}{%
-\section{Span and Smallest/largest containing
-subspaces}\label{span-and-smallestlargest-containing-subspaces}}
+\hypertarget{span}{%
+\section{Span}\label{span}}
 
-\hypertarget{spans-are-not-the-largest-vector-space-that-contains-the-given-vectors}{%
-\subsection{Spans are not the largest vector space that contains the
-given
-vectors}\label{spans-are-not-the-largest-vector-space-that-contains-the-given-vectors}}
+\hypertarget{smallestlargest-containing-subspaces}{%
+\subsection{Smallest/largest containing
+subspaces}\label{smallestlargest-containing-subspaces}}
+
+\begin{itemize}
+\tightlist
+\item
+  Spans are not the largest vector space that contains the given vectors
+\end{itemize}
+
+\hypertarget{spans-tend-to-be-infinite}{%
+\subsection{Spans tend to be infinite}\label{spans-tend-to-be-infinite}}
 
 \begin{itemize}
 \tightlist
 \item
   Usually a span has infinitely many vectors (unless you're in a weird
-  field or
+  field (modulo) or have the zero span)
+\item
+  In the span of just one vector, you can multiply by any scalar which
+  there tends to be infinite of {[}{[}../Pasted image
+  20200924131215.png{]}{]}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
