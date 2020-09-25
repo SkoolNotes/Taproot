@@ -18,4 +18,5 @@ course: ISOS101
          1. Analyze a variety of independent derivations
          2. Look for identical conclusions from these different derivations
          3. Analyze the scope and conditions from which these derivations exist
-         4. Analyze any failures
+         4. Analyze any failures of the invariance
+     * If, under step 4, there be things that are invariant and within the margin of falure, the analysis is "robust" 
