@@ -58,7 +58,7 @@ Rebuts drugs and hallucinigens/natios by saying they arn't consistent across peo
 ```
 
 
-I'm genuinly qu
+I'm genuinely curios
 
 
 
