@@ -36,5 +36,6 @@ course: ISOS101
  * Failures of robustness analysis — "illusions of robustness"
      * Supposedly independent tests acutally dependent
      * For instance, IQ tests are not actually quite that independent of social factors
-     * Not very easy to detect
+     * Not very easy to detect underlying causes of dependence
+         * Factors could be reinforcing
          * 
