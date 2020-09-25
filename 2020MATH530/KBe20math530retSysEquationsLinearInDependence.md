@@ -50,6 +50,11 @@ $$
 &\Rightarrow \frac{a}{c} = \frac{b}{d}
 \end{aligned}
 $$
-If 
+If we define
+$$k = \frac{a}{c} = \frac{b}{d}$$
+then it is clear that 
+$$
+\begin{aligned}
+a = kc
 
 ---
