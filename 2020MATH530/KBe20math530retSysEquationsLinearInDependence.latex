@@ -225,8 +225,9 @@ Because \(u_1au_2 = -u_2au_1\), their sum is clearly \(0\).
 Showing that if \(\left|\begin{matrix}a&b\\c&d\end{matrix}\right| = 0\),
 then the vectors \((a, b), (c, d)\) are linearly dependent.
 
-Two vectors \(u = (a, b), v = (c, d)\) are linearly dependent if one is
-a linear combination of the other, or \$u = av
+Two vectors \(u,v\in\mathbb{F}^2 : u = (a, b), v = (c, d),a,b,c,d\) are
+linearly dependent if one is a linear combination of the other, or \$u =
+av
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
