@@ -43,7 +43,7 @@ When an error occurs, it corrupts everything it's connected to until you reach s
 *Using alternative methods of proving to provide independent support and 'wall off' the spread of inconsistency.*
 
 
-
+## Robustness, Objectification, and Realism
 
 
 
