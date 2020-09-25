@@ -24,6 +24,9 @@ $$
 but that didn't really get me anywhere.
 
 Then, I tried writing it as a matrix equation:
-$$\begin{bmatrix}2&-3\\1&1\end{bmatrix}\begin{bmatrix}x\\y\end{bmatrx} = \begin{bmatrix{1\\
+$$
+\begin{bmatrix}2&-3\\1&1\end{bmatrix} \begin{bmatrix}x\\y\end{bmatrix} = \begin{bmatrix}1\\3\end{bmatrix}
+$$
+I figured that because 
 
 ---

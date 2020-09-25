@@ -189,12 +189,10 @@ x+3y=3
 (1, 3) \stackrel{?}{\in} \text{span}\left((2,1), (- ,31)\right)
 \] but that didn't really get me anywhere.
 
-Then, I tried writing it as a matrix equation: \$\$
-
+Then, I tried writing it as a matrix equation: \[
 \begin{bmatrix}2&-3\\1&1\end{bmatrix}
-
-\textbackslash begin\{bmatrix\}x\textbackslash y\textbackslash end\{bmatrx\}
-= \textbackslash begin\{bmatrix\{1\textbackslash{}
+\begin{bmatrix}x\\y\end{bmatrix} = \begin{bmatrix}1\\3\end{bmatrix}
+\]
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
