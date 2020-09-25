@@ -109,7 +109,8 @@
 
 
 \newcommand{\thecourse}{}
-\newcommand{\thelesson}{}
+\newcommand{\thelesson}{ HW Systems of equations and linear
+independence/dependence }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +124,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,7 +163,9 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBe2020math530refExr0nRetIndex}{\tiny\textulf{[[}\textbf{KBe2020math530refExr0nRetIndex}\textulf{]]}}}\thinspace
 
-
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}
