@@ -32,4 +32,6 @@ course: ISOS101
  * Robustness prevents the "weakest link problem" 
      * With multiple derivations under different assumptions, problems could be spotted independently
      * Thus, if one point in one senario theory breaks down, you either notice it very quickly or the theory is not entirely disproven although less robust
- * 
+     * If one arm is simply weakened, still the others could support the theory and the special case could further lead to scientific discovery
+ * Failures of robustness analysis
+     * 
