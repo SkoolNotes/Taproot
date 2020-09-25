@@ -48,7 +48,7 @@ When an error occurs, it corrupts everything it's connected to until you reach s
 
 Overlap of sensory modalities are what allow us to say an object is robust? ie. not an illusion. 
 
-
+Rebuts drugs and hallucinigens/natios by saying they arn't consistent across people or time. This is iffy....
 
 
 
