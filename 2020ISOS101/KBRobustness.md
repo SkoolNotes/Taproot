@@ -46,7 +46,7 @@ When an error occurs, it corrupts everything it's connected to until you reach s
 ## Robustness, Objectification, and Realism
 
 
-
+Overlap of sensory modalities are what allow us to say an object is robust? ie. not an illusion. 
 
 
 
