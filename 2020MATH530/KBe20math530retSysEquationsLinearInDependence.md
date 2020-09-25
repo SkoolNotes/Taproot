@@ -10,8 +10,6 @@ source:  KBe2020math530refExr0nRetIndex
 > What does this have to do with linearly dependent/independent vectors??
 
 # Ideas
-It seems pretty clear that if the lines intersect at one point, then they are not parallel and thus the vectors they represent are linearly independent. However, I wondered if th
-
 I first focused on the systems of 2 var 2 equs. I thought of the first set
 $$
 \begin{aligned}
@@ -24,6 +22,8 @@ $$
 (1, 3) \stackrel{?}{\in} \text{span}\left((2,1), (- ,31)\right)
 $$
 but that didn't really get me anywhere.
+
+It seems pretty clear that if the lines intersect at one point, then they are not parallel and thus the vectors they represent are linearly independent. 
 
 Then, I tried writing it as a matrix equation:
 $$
