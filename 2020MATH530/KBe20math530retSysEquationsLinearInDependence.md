@@ -19,6 +19,6 @@ x+3y=3
 $$
 as asking whether
 $$
-(1, 3) \in \text{span}\left((2,1), (- ,31)\right)
+(1, 3) \stackrel{?}{\in} \text{span}\left((2,1), (- ,31)\right)
 
 ---
