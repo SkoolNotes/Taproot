@@ -11,7 +11,7 @@ source:  KBe2020math530refExr0nRetIndex
 
 # Ideas
 
-![](IMG_1400%202.jpg)
+![](IMG_1400.jpg)
 
 I first focused on the systems of 2 var 2 equs. I thought of the first set
 $$
@@ -70,7 +70,7 @@ completing the proof. (I couldn't figure out how to right align $\blacksquare$.)
 # More Ideas
 I wonder if it generalizes to 3x3 or NxN?
 
-![](IMG_1399%202.jpg)
+![](IMG_1399.jpg)
 
 No conclusion.
 
