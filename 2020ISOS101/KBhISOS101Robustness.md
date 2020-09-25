@@ -17,7 +17,10 @@ course: ISOS101
     * Basic steps
          1. Analyze a variety of independent derivations
              * This could mean a lot of things, like
-             * 
+                 * Different senses of the same thing
+                 * Different procidures to sense the same thing
+                 * Different assumptions to verify the same thing
+                 *  
          3. Look for identical conclusions from these different derivations
          4. Analyze the scope and conditions from which these derivations exist
          5. Analyze any failures of the invariance
