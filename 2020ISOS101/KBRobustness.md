@@ -51,8 +51,11 @@ Overlap of sensory modalities are what allow us to say an object is robust? ie. 
 Rebuts drugs and hallucinigens/natios by saying they arn't consistent across people or time. This is iffy....
 
 
-
-
+```
+```
+## Discussion Point
+```
+```
 
 
 
