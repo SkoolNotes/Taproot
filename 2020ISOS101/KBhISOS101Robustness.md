@@ -38,4 +38,4 @@ course: ISOS101
      * For instance, IQ tests are not actually quite that independent of social factors
      * Not very easy to detect underlying causes of dependence
          * Factors could be reinforcing
-         * 
+         * Each may hide the others being actually dependen
