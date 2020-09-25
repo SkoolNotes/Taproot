@@ -179,7 +179,11 @@ vectors??
 \hypertarget{ideas}{%
 \section{Ideas}\label{ideas}}
 
-\includegraphics{IMG_1400.jpg}
+\begin{figure}
+\centering
+\includegraphics{./IMG_1400.jpg}
+\caption{there should be an image here\ldots{}}
+\end{figure}
 
 I first focused on the systems of 2 var 2 equs. I thought of the first
 set \[

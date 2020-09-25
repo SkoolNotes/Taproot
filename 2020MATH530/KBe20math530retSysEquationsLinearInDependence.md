@@ -11,7 +11,7 @@ source:  KBe2020math530refExr0nRetIndex
 
 # Ideas
 
-![](IMG_1400.jpg)
+![there should be an image here...](./IMG_1400.jpg)
 
 I first focused on the systems of 2 var 2 equs. I thought of the first set
 $$
