@@ -27,4 +27,5 @@ course: ISOS101
      * If, under step 4, there be things that are invariant and within the margin of falure, the analysis is "robust" 
  * Common theme across all types of robust analysis
      * Distinction between the material and the unmaterial
+     * Each verification process is independent
      * 
