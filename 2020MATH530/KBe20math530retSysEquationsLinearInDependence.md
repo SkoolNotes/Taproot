@@ -42,8 +42,9 @@ Because $u_1au_2 = -u_2au_1$, their sum is clearly $0$.
 ## In the reverse direction
 Showing that if $\left|\begin{matrix}a&b\\c&d\end{matrix}\right| = 0$, then the vectors $(a, b), (c, d)$ are linearly dependent.
 
-Two vectors $u,v\in\mathbb{F}^2 : u = (a, b), v = (c, d)$ and $a,b,c,d \in \mathbb{F}$ are linearly dependent if one is a linear combination of the other, or $(a, b) = u = av = (ac, ad)$ wlog. Because 
-$$\left|\begin{matrix}a&b\\c&d\end{matrix}\right|$$
+Two vectors $u,v\in\mathbb{F}^2 : u = (a, b), v = (c, d)$ and $a,b,c,d \in \mathbb{F}$ are linearly dependent if one is a linear combination of the other, or $(a, b) = u = av = (ac, ad)$ wlog.
+Because 
+$$\left|\begin{matrix}a&b\\c&d\end{matrix}\right| = ad-bc = 0$$
 
 
 ---

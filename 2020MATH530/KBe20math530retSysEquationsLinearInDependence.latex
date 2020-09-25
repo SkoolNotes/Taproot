@@ -228,7 +228,7 @@ then the vectors \((a, b), (c, d)\) are linearly dependent.
 Two vectors \(u,v\in\mathbb{F}^2 : u = (a, b), v = (c, d)\) and
 \(a,b,c,d \in \mathbb{F}\) are linearly dependent if one is a linear
 combination of the other, or \((a, b) = u = av = (ac, ad)\) wlog.
-Because \[\left|\begin{matrix}a&b\\c&d\end{matrix}\right|\]
+Because \[\left|\begin{matrix}a&b\\c&d\end{matrix}\right| = ad-bc = 0\]
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
