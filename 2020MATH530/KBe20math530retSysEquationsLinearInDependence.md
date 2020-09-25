@@ -47,7 +47,7 @@ $$
 \begin{aligned}
 \left|\begin{matrix}a&b\\c&d\end{matrix}\right| = ad-bc = 0\\
 \Rightarrow& ad=bc\\
-\therefore 
+\Rightarrow&  
 \end{aligned}$$
 
 ---

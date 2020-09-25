@@ -230,8 +230,8 @@ Two vectors \(u,v\in\mathbb{F}^2 : u = (a, b), v = (c, d)\) and
 combination of the other, or \((a, b) = u = av = (ac, ad)\) wlog. \[
 \begin{aligned}
 \left|\begin{matrix}a&b\\c&d\end{matrix}\right| = ad-bc = 0\\
-\Rightarrow ad=bc\\
-\therefore 
+\Rightarrow& ad=bc\\
+\Rightarrow&  
 \end{aligned}\]
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
