@@ -176,4 +176,11 @@
 \begin{verbatim}
 \end{verbatim}
 
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Crew-mate
+\end{enumerate}
+
 \end{document}
