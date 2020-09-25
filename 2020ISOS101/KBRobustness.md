@@ -40,6 +40,21 @@ All about dealing with fallacies and inconsistency.
 
 When an error occurs, it corrupts everything it's connected to until you reach something with independent support. 
 
+*Using alternative methods of proving to provide independent support and 'wall off' the spread of inconsistency.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
