@@ -58,7 +58,7 @@ Rebuts drugs and hallucinigens/natios by saying they arn't consistent across peo
 ```
 
 
-I'm genuinely cur
+I'm genuinely curious about the meaning of the quote: "Our truth is the intersection of independent lies" - Levins
 
 
 
