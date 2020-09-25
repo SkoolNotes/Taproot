@@ -51,10 +51,13 @@ $$
 \end{aligned}
 $$
 If we define
-$$k = \frac{a}{c} = \frac{b}{d}$$
+$$a = \frac{a}{c} = \frac{b}{d}$$
 then it is clear that 
 $$
 \begin{aligned}
-a = kc
+a = ac\\
+b = ad
+\end{aligned}
+$$
 
 ---
