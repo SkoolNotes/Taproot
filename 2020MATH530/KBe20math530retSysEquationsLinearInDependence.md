@@ -27,6 +27,6 @@ Then, I tried writing it as a matrix equation:
 $$
 \begin{bmatrix}2&-3\\1&1\end{bmatrix} \begin{bmatrix}x\\y\end{bmatrix} = \begin{bmatrix}1\\3\end{bmatrix}
 $$
-I figured that because we wanted to know whether the system is linearly independent or not, which is a boolean value, I had to compress the matrix down to some number that can then be compared. The only way I know how to do that is by taking the determinant, so I tried to find some connection between the determinant of a 2x2 matrix and whether it's component rows interpreted as vectors of $\mathbb{F}^2$
+I figured that because we wanted to know whether the system is linearly independent or not, which is a boolean value, I had to compress the matrix down to some number that can then be compared. The only way I know how to do that is by taking the determinant, so I tried to find some connection between the determinant of a 2x2 matrix and whether it's component rows interpreted as vectors of $\mathbb{F}^2$ are linearly dependant.
 
 ---
