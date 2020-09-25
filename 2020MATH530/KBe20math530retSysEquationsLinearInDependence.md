@@ -57,9 +57,9 @@ $$
 \begin{aligned}
 a &= kc\\
 b &= kd\\
-&\Rightarrow (a,b) = (kc, kd)
+&\Rightarrow (a,b) = (kc, kd)\\
+\hfill\blacksquare
 \end{aligned}
 $$
-completing the proof.
 
 ---
