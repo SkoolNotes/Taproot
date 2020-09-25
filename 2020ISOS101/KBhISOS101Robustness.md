@@ -28,4 +28,4 @@ course: ISOS101
  * Common theme across all types of robust analysis
      * Distinction between the material and the unmaterial
      * Each verification process is independent
-     * <<
+     * Robustness evaluated on the basis of "changeability" — that is, if under different circumstances, 
