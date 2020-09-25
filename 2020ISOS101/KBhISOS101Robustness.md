@@ -21,7 +21,6 @@ course: ISOS101
                  * Different procidures to sense the same thing
                  * Different assumptions to verify the same thing
                  * Different tests of the same thing
-                 *  
          3. Look for identical conclusions from these different derivations
          4. Analyze the scope and conditions from which these derivations exist
          5. Analyze any failures of the invariance
