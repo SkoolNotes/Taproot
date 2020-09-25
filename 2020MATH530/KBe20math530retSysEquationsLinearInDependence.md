@@ -10,15 +10,20 @@ source:  KBe2020math530refExr0nRetIndex
 > What does this have to do with linearly dependent/independent vectors??
 
 # Ideas
-- I first focused on the systems of 2 var 2 equs. I thought of the first set
+I first focused on the systems of 2 var 2 equs. I thought of the first set
 $$
 \begin{aligned}
 2x-3y=1\\
 x+3y=3
 \end{aligned}
 $$
-as asking whether
+as asking
 $$
 (1, 3) \stackrel{?}{\in} \text{span}\left((2,1), (- ,31)\right)
+$$
+but that didn't really get me anywhere.
+
+Then, I tried writing it as a matrix equation:
+$$\begin{bmatrix}2&-3\\1&1\end{bmatrix}\begin{bmatrix}x\\y\end{bmatrx} = \begin{bmatrix{1\\
 
 ---
