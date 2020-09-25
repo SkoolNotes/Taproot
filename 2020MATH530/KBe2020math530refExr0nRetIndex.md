@@ -16,6 +16,7 @@ Flow index: [[KBe2020math530floIndex]]
 2020-09-08 | [[20math530retReadingTheTextbook]]
 2020-09-08 | [[20math530retProblemsPracticeLaTeX]]
 2020-09-10 | [[KBe20math530retMoreSystemsAndProofs]]
+2020-09-29 | [[KBe20math530retSysEquationsLinearInDependence]]
 
 ## Quizzes
 | Due Date | Link |
