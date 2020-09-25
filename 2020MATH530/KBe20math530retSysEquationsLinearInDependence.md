@@ -27,6 +27,6 @@ Then, I tried writing it as a matrix equation:
 $$
 \begin{bmatrix}2&-3\\1&1\end{bmatrix} \begin{bmatrix}x\\y\end{bmatrix} = \begin{bmatrix}1\\3\end{bmatrix}
 $$
-I figured that because 
+I figured that because we wanted to know whether the system is linearly independent or not, which is a boolean value, 
 
 ---
