@@ -33,7 +33,7 @@ This is certainly a thought provoking quote, but once again, I am unsure it is t
 Eh, more of the same. 
 
 
-
+> ###### With independent alternative ways of deriving a result the result is always surer than its weakest derivation.
 
 
 
