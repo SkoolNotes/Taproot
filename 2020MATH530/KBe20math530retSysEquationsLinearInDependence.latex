@@ -203,8 +203,16 @@ dependant.
 \section{Lemma}\label{lemma}}
 
 A pair of vectors \(u, v\) in a vector space \(V\) over \(\mathbb{F}^2\)
-are linearly independent if and only if the determinant of
-\(\begin{bmatrix}u_1&u_2\\v_1&v_2\end{bmatrix}\)
+are linearly independent iff
+\(\left|\begin{matrix}u_1&u_2\\v_1&v_2\end{matrix}\right| = 0\)
+
+\hypertarget{proof}{%
+\section{Proof}\label{proof}}
+
+\hypertarget{in-the-forwards-direction}{%
+\subsection{In the forwards direction}\label{in-the-forwards-direction}}
+
+Show
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
