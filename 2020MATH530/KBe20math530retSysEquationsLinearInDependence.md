@@ -64,4 +64,7 @@ b &= kd\\
 $$
 completing the proof. (I couldn't figure out how to right align $\blacksquare$.)
 
+# More Ideas
+I wonder if it generalizes to 3x3 or NxN?
+
 ---
