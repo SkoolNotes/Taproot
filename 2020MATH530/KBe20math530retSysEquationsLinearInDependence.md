@@ -55,9 +55,11 @@ $$k = \frac{a}{c} = \frac{b}{d}$$
 then it is clear that 
 $$
 \begin{aligned}
-a = kc\\
-b = kd
+a &= kc\\
+b &= kd\\
+&\Rightarrow (a,b) = (kc, kd)
 \end{aligned}
 $$
+completing the proof.
 
 ---
