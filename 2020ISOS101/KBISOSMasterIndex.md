@@ -25,6 +25,7 @@ source: #index
 	* Jack's Take: [[KBhISOS101StrongInference]]
 * Thoughts on [[Robustness.pdf]] 
 	* Huxley's Take: [[KBRobustness]]
+	* Jack's Take: [[KBhISOS101Robustness]]
 
 
 	

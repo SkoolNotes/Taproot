@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ ISOS101 }
-\newcommand{\thelesson}{ ISOS Master Index }
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,68 +162,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\#source
 
-\hypertarget{isos-index}{%
-\section{ISOS Index}\label{isos-index}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhISOS101D1{]}{]} ISOS Day 1
-\item
-  Thoughts on Theaetetus
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Jack's Take: {[}{[}KBhISOS101Thaetetus{]}{]}
-  \item
-    Huxley's Take {[}{[}KBTheaetetus{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}KBPatternsofDiscoveryObservationhighlights{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBPatternsOfDiscoveryNotes{]}{]}
-  \item
-    Jack's Take: {[}{[}KBhISOS101PatternsOfDiscovery{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}KBGenderandtheBiologicalSciencesHighlights.pdf{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBGenderAndBioISOS{]}{]}
-  \item
-    Dylan's Take: {[}{[}KBdGenderAndBio{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}Strong Inference highlights 2019.pdf{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBStrongInferenceNotes{]}{]}
-  \item
-    Jack's Take: {[}{[}KBhISOS101StrongInference{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}Robustness.pdf{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBRobustness{]}{]}
-  \item
-    Jack's Take: {[}{[}KBhISOS101Robustness{]}{]}
-  \end{itemize}
-\end{itemize}
 
 \end{document}
