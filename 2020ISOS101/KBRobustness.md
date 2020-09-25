@@ -36,7 +36,9 @@ Eh, more of the same.
 > ###### With independent alternative ways of deriving a result the result is always surer than its weakest derivation.
 
 
+All about dealing with fallacies and inconsistency. 
 
+When an error occurs, it corrupts everything it's connected to until you reach something with independent support. 
 
 
 
