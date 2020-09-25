@@ -25,4 +25,6 @@ course: ISOS101
          4. Analyze the scope and conditions from which these derivations exist
          5. Analyze any failures of the invariance
      * If, under step 4, there be things that are invariant and within the margin of falure, the analysis is "robust" 
- * 
+ * Common trates across all types of robust analysis
+     * Seperation between reliable and unreliable
+     * 
