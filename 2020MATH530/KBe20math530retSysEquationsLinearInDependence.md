@@ -10,6 +10,9 @@ source:  KBe2020math530refExr0nRetIndex
 > What does this have to do with linearly dependent/independent vectors??
 
 # Ideas
+
+![](IMG_1400%202.jpg)
+
 I first focused on the systems of 2 var 2 equs. I thought of the first set
 $$
 \begin{aligned}
@@ -68,5 +71,7 @@ completing the proof. (I couldn't figure out how to right align $\blacksquare$.)
 I wonder if it generalizes to 3x3 or NxN?
 
 ![](IMG_1399%202.jpg)
+
+No conclusion.
 
 ---
