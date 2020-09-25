@@ -10,6 +10,8 @@ source:  KBe2020math530refExr0nRetIndex
 > What does this have to do with linearly dependent/independent vectors??
 
 # Ideas
+It seems pretty clear that if the lines intersect at one point, then they are not parallel and thus the vectors they represent are linearly independent. However, I wondered if th
+
 I first focused on the systems of 2 var 2 equs. I thought of the first set
 $$
 \begin{aligned}
