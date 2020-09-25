@@ -11,11 +11,14 @@ source:  KBe2020math530refExr0nRetIndex
 
 # Ideas
 - I first focused on the systems of 2 var 2 equs. I thought of the first set
-- $$
+$$
 \begin{aligned}
 2x-3y=1\\
 x+3y=3
 \end{aligned}
 $$
+as asking whether
+$$
+(1, 3) \in \text{span}\left((2,1), (- ,31)\right)
 
 ---
