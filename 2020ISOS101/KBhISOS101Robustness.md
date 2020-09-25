@@ -16,7 +16,9 @@ course: ISOS101
     * Based on concept of triangulation
     * Basic steps
          1. Analyze a variety of independent derivations
-         2. Look for identical conclusions from these different derivations
-         3. Analyze the scope and conditions from which these derivations exist
-         4. Analyze any failures of the invariance
+             * This could mean a lot of things, like
+             * 
+         3. Look for identical conclusions from these different derivations
+         4. Analyze the scope and conditions from which these derivations exist
+         5. Analyze any failures of the invariance
      * If, under step 4, there be things that are invariant and within the margin of falure, the analysis is "robust" 
