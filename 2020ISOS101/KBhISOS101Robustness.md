@@ -17,4 +17,5 @@ course: ISOS101
     * Basic steps
          1. Analyze a variety of independent derivations
          2. Look for identical conclusions from these different derivations
-         3. Analyze
+         3. Analyze the scope and conditions from which these derivations exist
+         4. Analyze any failures
