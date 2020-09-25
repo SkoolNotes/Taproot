@@ -26,11 +26,11 @@ This is certainly a thought provoking quote, but once again, I am unsure it is t
 
 
 
-## Common Features of Concepts of Robustness 
+## Common Features and Concepts of Robustness 
 
  Robustness analysis
  
-
+Eh, more of the same. 
 
 
 
