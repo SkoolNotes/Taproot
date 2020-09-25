@@ -222,7 +222,8 @@ Because \(u_1au_2 = -u_2au_1\), their sum is clearly \(0\).
 \hypertarget{in-the-reverse-direction}{%
 \subsection{In the reverse direction}\label{in-the-reverse-direction}}
 
-Showing that if
+Showing that if \(\left|\begin{matrix}a&b\\c&d\end{matrix}\right| = 0\),
+then the vectors \((a, b), (c, d)\) are linearly dependent.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
