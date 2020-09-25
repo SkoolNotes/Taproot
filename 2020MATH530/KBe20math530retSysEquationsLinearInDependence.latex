@@ -204,7 +204,7 @@ dependant.
 
 A pair of vectors \(u, v\) in a vector space \(V\) over \(\mathbb{F}^2\)
 are linearly independent iff
-\(\left|\begin{matrix}u_1&u_2\\v_1&v_2\end{matrix}\right| = 0\)
+\(\left|\begin{matrix}u_1&u_2\\v_1&v_2\end{matrix}\right| = 0\).
 
 \hypertarget{proof}{%
 \section{Proof}\label{proof}}
@@ -213,7 +213,9 @@ are linearly independent iff
 \subsection{In the forwards direction}\label{in-the-forwards-direction}}
 
 Showing that if \(u, v\) are linearly independent, then
-\(\left|\begin{matrix}u_1&u_2\\v_1\\v_2\end{matrix}\left|\)
+\(\left|\begin{matrix}u_1&u_2\\v_1&v_2\end{matrix}\right| = 0\).
+
+Suppose \(u, v\)
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

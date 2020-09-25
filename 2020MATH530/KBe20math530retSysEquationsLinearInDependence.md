@@ -30,10 +30,12 @@ $$
 I figured that because we wanted to know whether the system is linearly independent or not, which is a boolean value, I had to compress the matrix down to some number that can then be compared. The only way I know how to do that is by taking the determinant, so I tried to find some connection between the determinant of a 2x2 matrix and whether it's component rows interpreted as vectors of $\mathbb{F}^2$ are linearly dependant.
 
 # Lemma
-A pair of vectors $u, v$ in a vector space $V$ over $\mathbb{F}^2$ are linearly independent iff $\left|\begin{matrix}u_1&u_2\\v_1&v_2\end{matrix}\right| = 0$
+A pair of vectors $u, v$ in a vector space $V$ over $\mathbb{F}^2$ are linearly dependent iff $\left|\begin{matrix}u_1&u_2\\v_1&v_2\end{matrix}\right| = 0$.
 
 # Proof
 ## In the forwards direction
-Showing that if $u, v$ are linearly independent, then $\left|\begin{matrix}u_1&u_2\\v_1\\v_2\end{matrix}\left|$
+Showing that if $u, v$ are linearly dependent, then $\left|\begin{matrix}u_1&u_2\\v_1&v_2\end{matrix}\right| = 0$.
+
+Suppose $u, v$
 
 ---
