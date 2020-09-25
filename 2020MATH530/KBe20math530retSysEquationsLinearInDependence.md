@@ -45,9 +45,11 @@ Showing that if $\left|\begin{matrix}a&b\\c&d\end{matrix}\right| = 0$, then the 
 Two vectors $u,v\in\mathbb{F}^2 : u = (a, b), v = (c, d)$ and $a,b,c,d \in \mathbb{F}$ are linearly dependent if one is a linear combination of the other, or $(a, b) = u = av = (ac, ad)$ wlog.
 $$
 \begin{aligned}
-\left|\begin{matrix}a&b\\c&d\end{matrix}\right| = ad-bc = 0\\
-\Rightarrow& ad=bc\\
-\Rightarrow&  
-\end{aligned}$$
+\left|\begin{matrix}a&b\\c&d\end{matrix}\right| &= ad-bc = 0\\
+&\Rightarrow ad=bc\\
+&\Rightarrow \frac{a}{c} = \frac{b}{d}
+\end{aligned}
+$$
+If 
 
 ---
