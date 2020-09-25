@@ -34,6 +34,6 @@ A pair of vectors $u, v$ in a vector space $V$ over $\mathbb{F}^2$ are linearly 
 
 # Proof
 ## In the forwards direction
-Show 
+Showing that if $u, v$ are linearly independent, then $\left|\begin{matrix}u_1&u_2\\v_1\\v_2\end{matrix}\left|$
 
 ---
