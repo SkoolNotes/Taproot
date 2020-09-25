@@ -28,4 +28,7 @@ course: ISOS101
  * Common theme across all types of robust analysis
      * Distinction between the material and the unmaterial
      * Each verification process is independent
-     * Robustness evaluated on the basis of "changeability" — that is, if under different circumstances, theories are unmutating, they are more robust
+     * Robustness evaluated on the basis of "changeability" — that is, if under different circumstances, theories are unmutating, they are more robusta
+ * Robustness prevents the "weakest link problem" 
+     * With multiple derivations under different assumptions, problems could be spotted independently
+     * Thus, if one point in a theory breaks down, you either notice it very quickly or the theory is not entirely disproven although less robust
