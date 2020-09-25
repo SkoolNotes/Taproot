@@ -58,8 +58,8 @@ $$
 a &= kc\\
 b &= kd\\
 &\Rightarrow (a,b) = (kc, kd)\\
-\hfill\blacksquare
 \end{aligned}
 $$
+completing the proof. (I couldn't figure out how to right align $\blacksquare$.)
 
 ---
