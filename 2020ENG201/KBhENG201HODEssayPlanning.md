@@ -41,6 +41,8 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
 Loose thoughts
 - Charm is an energy source
 - Its up to the enchanter — "Kurtz" — to channel it
+
+*The 'Heart of Darkness' in Conrad's novels is, in fact, the centre of charm: through tracking the enchantment of and by Kurtz in the novel, 
     
 
 
