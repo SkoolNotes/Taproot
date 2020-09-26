@@ -38,11 +38,12 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
     - Natives are charmed by kurts EH
     - Kurts claimed by charm EI
     
-Loose thoughts
+### Loose thoughts
 - Charm is an energy source
 - Its up to the enchanter — "Kurtz" — to channel it
 
-*Through tracking the motif of Kurtz's — and, to a lesser extent, Marlow's — interaction with enchantment and its subsequent effect to the characters in the _Heart of Darkness_, the Conrad warns of the potentially crippling effect of the misguided exploitation of the "charm" that exists within the African lands by Europeans.*
+### The Claim
+*Through tracking the motif of Kurtz's — and, to a lesser extent, Marlow's — interaction with enchantment and its subsequent effect to the characters in the _Heart of Darkness_, the Conrad warns of the potentially crippling and reciprocal effect of the misguided exploitation of the "charm" that exists within the African lands by Europeans.*
 
 - Africa has inherent, not necessarily negative charm
     - EA: it attracted Marlow there
@@ -50,7 +51,7 @@ Loose thoughts
     - EC: getting to Kurtz was pictured as a fairytale, less as a very sinister act
 - Kurts, the charmed and charmer, tries to channel the charm of the sand
     - EJ: Kurtz is a self-charmable prson
-    -  
+    - ED: He began acting on the charm, but the charm started act upo 
 
 
 ***
