@@ -26,11 +26,11 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
 
 ## Claim Synthesis
 
-- p: natives are harmonious to lands' charm =>
+- p: Establish idea of charm charm => venture into the center of charm
     - River/land charm Marlow
     - Natives wear charm
     - Marlow thinks Kurts is charming/charmed?
-- p
+- p: finds kurts as both the charming and charmer => kurts propergating this
     - Kurts is both charm and charmer
     - Kurts actively charming others to charm
 - p
