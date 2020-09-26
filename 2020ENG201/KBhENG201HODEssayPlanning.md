@@ -38,7 +38,7 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
     - Natives are charmed by kurts
     - Kurts claimed by charm
     
-**What does this show?**
+**What does this show?** 
 
 
 ### Development phase – How and So-What
