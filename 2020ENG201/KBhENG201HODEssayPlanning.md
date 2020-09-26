@@ -51,7 +51,8 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
     - EC: getting to Kurtz was pictured as a fairytale, less as a very sinister act
 - Kurts, the charmed and charmer, tries to channel the charm of the sand
     - EJ: Kurtz is a self-charmable prson
-    - ED: He began acting on the charm, but the charm started act upo 
+    - ED (reverse the quote): He began acting on the charm, and Marlow wonders what the charm will do to him
+    - EF: The naïve Kurtz uses his charm to charm others to charm
 
 
 ***
