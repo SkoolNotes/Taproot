@@ -173,17 +173,27 @@
 
 \begin{longtable}[]{@{}lll@{}}
 \toprule
-Due Date & Topic & Important Documents\tabularnewline
+\begin{minipage}[b]{0.14\columnwidth}\raggedright
+Due Date\strut
+\end{minipage} & \begin{minipage}[b]{0.52\columnwidth}\raggedright
+Topic\strut
+\end{minipage} & \begin{minipage}[b]{0.25\columnwidth}\raggedright
+Important Documents\strut
+\end{minipage}\tabularnewline
 \midrule
 \endhead
-DUE DATE & TOPIC & DOCUMENTS, HERE\tabularnewline
+\begin{minipage}[t]{0.14\columnwidth}\raggedright
+Oct 13th, 1pm\strut
+\end{minipage} & \begin{minipage}[t]{0.52\columnwidth}\raggedright
+Choose a recurring word, motif, pattern, or character\strut
+\end{minipage} & \begin{minipage}[t]{0.25\columnwidth}\raggedright
+Well, what do you think?\strut
+\end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
 
 \hypertarget{prompt}{%
 \subsection{Prompt}\label{prompt}}
-
-THE PROMPT
 
 \hypertarget{claim-synthesis}{%
 \subsection{Claim Synthesis}\label{claim-synthesis}}

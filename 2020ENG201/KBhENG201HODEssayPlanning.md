@@ -7,12 +7,11 @@ course: ENG201
 
 # Essay Template
 ## General Information
-| Due Date | Topic | Important Documents |
-| :-- | :-- | :-- |
-| DUE DATE | TOPIC | DOCUMENTS, HERE |
-
+| Due Date      | Topic                                                 | Important Documents      |
+|---------------|-------------------------------------------------------|--------------------------|
+| Oct 13th, 1pm | Choose a recurring word, motif, pattern, or character | Well, what do you think? |
 ## Prompt
-THE PROMPT
+
 
 ## Claim Synthesis
 ### Development phase – How and So-What
