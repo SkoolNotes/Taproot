@@ -16,6 +16,7 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
 ## Evidence bin
 - *"[The African continent] had ceased to be a blank space of delightful mystery … it had become a place of darkness. … But there was in it one river especially … resembling an immense snake uncoiled .… It fascinated me as a snake would a bird — a silly little bird. … The snake had charmed me."* (9) 
 - *"The man seemed young … He had tied a bit of white worsted around his neck — Why? Where did he get it? Was it a badge — an ornament — a charm — a propitiatory act?"* (20)
+- *"The approach to this Kurtz grubbing for ivory in the wretched bush was beset by as many dangers as though he had been an enchanted princess sleeping in a fabulous castle."* (52)
 - 
 
 
