@@ -37,6 +37,8 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
 - p: Kurts' propergating works! => Kurts falls to his own charm
     - Natives are charmed by kurts
     - Kurts claimed by charm
+    
+**What does this show?**
 
 
 ### Development phase – How and So-What
