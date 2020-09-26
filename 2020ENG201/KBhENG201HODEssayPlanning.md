@@ -22,6 +22,7 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
 - *"[Kurtz] had the power to charm or frighten rudimentary souls into an aggravated witch-dance in his honor; he could also fill the small souls of the pilgrims with bitter misgivings.*" (62)
 - *"Instantly, … a cry arose whose shrillness pierced the still air like a sharp arrow flying straight to the heart of the land; and, as if by enchantment, stream of human beings — of naked human beings — with spears in their hands, with bows, with shields, with wild glances and savage movement, were poured into the clearing by the dark-faced and pensive forest."* (74)
 - *"He cried in a whisper at some image, at some vision — he cried out twice, a cry that was no more than a breath — 'The horror! The horror!'"* (86)
+- *"[Kurtz] had faith — don't you see? — he had the faith. He could get himself to believe any thing — anything. He would havebeen a splended leader of an extremeparty"
 
 
 ## Claim Synthesis
