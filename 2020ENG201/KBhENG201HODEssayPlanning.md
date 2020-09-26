@@ -14,7 +14,8 @@ course: ENG201
 Choose a word, motif, pattern, or character that you’ve noticed throughout the book, and construct an analytical, argumentative essay around it
 
 ## Evidence bin
-- *"[The african continent] had ceased to be a blank space of delightful mystery … it had become a place of darkness. … But there was in it one river especially … resembling an immense snake uncoiled. "*
+- *"[The African continent] had ceased to be a blank space of delightful mystery … it had become a place of darkness. … But there was in it one river especially … resembling an immense snake uncoiled .… It fascinated me as a snake would a bird — a silly little bird. … The snake had charmed me."*
+- 
 
 
 ## Claim Synthesis
