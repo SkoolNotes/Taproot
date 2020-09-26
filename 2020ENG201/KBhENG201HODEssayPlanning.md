@@ -38,6 +38,10 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
     - Natives are charmed by kurts
     - Kurts claimed by charm
     
+Loose thoughts
+- Charm is an energy source
+- Its up to the
+    
 **What does this show?** 
 
 
