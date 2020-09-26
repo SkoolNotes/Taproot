@@ -21,8 +21,8 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
 - *"[Kurtz] began [his work] with the argument that we whites, from the point of development we had arrived at, 'must necessarily appear to them [savages] in the nature of supernatural beings — we approach them with the might as of a deity' … From that point he soared and took me wit him … it made me tingle with enthusiasm. This was the unbounded power of eloquence — of words — of burning nobel words.'"* (61) => _Charming_ others to _charm_
 - *"[Kurtz] had the power to charm or frighten rudimentary souls into an aggravated witch-dance in his honor; he could also fill the small souls of the pilgrims with bitter misgivings.*" (62) => Kurts can _charm_
 - *"Instantly, … a cry arose whose shrillness pierced the still air like a sharp arrow flying straight to the heart of the land; and, as if by enchantment, stream of human beings — of naked human beings — with spears in their hands, with bows, with shields, with wild glances and savage movement, were poured into the clearing by the dark-faced and pensive forest."* (74) => Natives are _charmed_
-- *"He cried in a whisper at some image, at some vision — he cried out twice, a cry that was no more than a breath — 'The horror! The horror!'"* (86)
-- *"''[Kurtz] had faith — don't you see? — he had the faith. He could get himself to believe any thing — anything. He would have been a splendid leader of an extreme party'"* (90)
+- *"He cried in a whisper at some image, at some vision — he cried out twice, a cry that was no more than a breath — 'The horror! The horror!'"* (86) => Kurts claimed by _charm_
+- *"''[Kurtz] had faith — don't you see? — he had the faith. He could get himself to believe any thing — anything. He would have been a splendid leader of an extreme party'"* (90) => Postmortum: Kurts can self-_charm_
 
 
 ## Claim Synthesis
