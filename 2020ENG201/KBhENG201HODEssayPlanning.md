@@ -27,10 +27,17 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
 
 Ideas:
 
-- River charm Marlow
-- Natives wear charm
-- Marlow thinks Kurts is charming/charmed?
-- 
+- p
+    - River/land charm Marlow
+    - Natives wear charm
+    - Marlow thinks Kurts is charming/charmed?
+- p
+    - Kurts is both charm and charmer
+    - Kurts actively charming others to charm
+- p
+    - Natives are charmed by kurts
+    - Kurts could self-charm
+    - Kurts claimed by charm
 
 
 ## Claim Synthesis
