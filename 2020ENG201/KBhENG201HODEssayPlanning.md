@@ -30,12 +30,12 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
     - River/land charm Marlow
     - Natives wear charm
     - Marlow thinks Kurts is charming/charmed?
-- p: finds kurts as both the charming and charmer => kurts propergating this
+- p: finds kurts as both the charming and charmer => kurts propergating this too!
+    - Kurts could self-charm
     - Kurts is both charm and charmer
     - Kurts actively charming others to charm
-- p
+- p: Kurts' propergating works! => Kurts falls to his own charm
     - Natives are charmed by kurts
-    - Kurts could self-charm
     - Kurts claimed by charm
 
 
