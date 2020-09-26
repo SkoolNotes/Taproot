@@ -13,6 +13,10 @@ course: ENG201
 ## Prompt
 Choose a word, motif, pattern, or character that you’ve noticed throughout the book, and construct an analytical, argumentative essay around it
 
+## Evidence bin
+
+
+
 ## Claim Synthesis
 ### Development phase – How and So-What
 - *CLAIM*
