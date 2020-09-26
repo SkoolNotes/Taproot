@@ -20,7 +20,7 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
 - *"The thing was to know what [Kurts himself] belonged to, how many powers of darkness claimed him for their own. … He had taken a high seat amoungst the devils of the sand — I mean literally. You can't understand"* (60)
 - *"[Kurtz] began [his work] with the argument that we whites, from the point of development we had arrived at, 'must necessarily appear to them [savages] in the nature of supernatural beings — we approach them with the might as of a deity' … From that point he soared and took me wit him … it made me tingle with enthusiasm. This was the unbounded power of eloquence — of words — of burning nobel words.'"* (61)
 - *"[Kurtz] had the power to charm or frighten rudimentary souls into an aggravated witch-dance in his honor; he could also fill the small souls of the pilgrims with bitter misgivings.*" (62)
-- 
+- *"Instantly, … a cry arose whose shrillness pierced the still air like a sharp arrow flying straight to the heart of the land; and, as if by enchantment, stream of human beings — of naken human beings — with speas in their hands, with bows, with shields, with wild glances and asvage movement, were poured into the clearing by the dark-faced and pnsive forest."
 
 
 ## Claim Synthesis
