@@ -28,3 +28,4 @@ course: ENG201
 
 Instructions further [in canvas](https://nuevaschool.instructure.com/courses/2815/assignments/52011)
 
+[[KBhENG201HODEssayPlanning]]

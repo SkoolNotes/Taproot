@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ ENG201 }
-\newcommand{\thelesson}{ Heart of Darkness Essay, Info }
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -123,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -162,63 +162,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBhENG201HeartOfHardness}{\tiny\textulf{[[}\textbf{KBhENG201HeartOfHardness}\textulf{]]}}}\thinspace
 
-\hypertarget{hod-essay}{%
-\section{HOD Essay}\label{hod-essay}}
 
-\#flo \#disorganized
-
-\begin{itemize}
-\tightlist
-\item
-  Option 1: motif
-
-  \begin{itemize}
-  \tightlist
-  \item
-    needs to be more than what is presented in class
-  \item
-    recommend to analyze a character in change =\textgreater{} change is
-    easier to track
-  \end{itemize}
-\item
-  Option 2: moment
-
-  \begin{itemize}
-  \tightlist
-  \item
-    close reading + language
-  \item
-    analyze in detail the language
-  \end{itemize}
-\item
-  Parametres
-
-  \begin{itemize}
-  \tightlist
-  \item
-    3 pages in length =\textgreater{} no more, no less
-  \item
-    2-3 ``thoughtfully selected'' per body paragraph
-  \item
-    Double space, or 1.5
-  \end{itemize}
-\item
-  Timing: topic 10/1
-\item
-  Rough draft: 10/7 + scheduling time with Alexa
-\item
-  Peer edit: 10/8
-\item
-  Due: 10/13 (UNAUTHORITATIVE )
-\end{itemize}
-
-Instructions further
-\href{https://nuevaschool.instructure.com/courses/2815/assignments/52011}{in
-canvas}
-
-{[}{[}KBhENG201HODEssayPlanning{]}{]}
 
 \end{document}
