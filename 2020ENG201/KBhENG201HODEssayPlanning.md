@@ -44,8 +44,9 @@ Loose thoughts
 
 *Through tracking the motif of Kurtz's — and, to a lesser extent, Marlow's — interaction with enchantment and its subsequent effect to the characters in the _Heart of Darkness_, the Conrad warns of the potentially crippling effect of the misguided exploitation of the "charm" that exists within the African lands by Europeans.*
 
-- Africa has charm
-    - Its 
+- Africa has inherent, not necessarily negative charm
+    - EA: it attracted Marlow there
+    - EB: natives wearin
 
 
 ***
