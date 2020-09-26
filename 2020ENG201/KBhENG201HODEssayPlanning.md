@@ -41,7 +41,6 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
 Loose thoughts
 - Charm is an energy source
 - Its up to the enchanter — "Kurtz" — to channel it
-- 
     
 
 
