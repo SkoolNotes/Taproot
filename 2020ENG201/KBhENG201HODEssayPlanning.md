@@ -47,7 +47,10 @@ Loose thoughts
 - Africa has inherent, not necessarily negative charm
     - EA: it attracted Marlow there
     - EB: Marlow does not understand the spellbound natives' own ways
-    - EC: getting to Kurtz was pictured as a fairytale
+    - EC: getting to Kurtz was pictured as a fairytale, less as a very sinister act
+- Kurts, the charmed and charmer, tries to channel the charm of the sand
+    - EJ: Kurtz is a self-charmable prson
+    -  
 
 
 ***
