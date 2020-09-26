@@ -14,9 +14,9 @@ course: ENG201
 Choose a word, motif, pattern, or character that you’ve noticed throughout the book, and construct an analytical, argumentative essay around it
 
 ## Evidence bin
-- *"[The African continent] had ceased to be a blank space of delightful mystery … it had become a place of darkness. … But there was in it one river especially … resembling an immense snake uncoiled .… It fascinated me as a snake would a bird — a silly little bird. … The snake had charmed me."* (9) 
-- *"The man seemed young … He had tied a bit of white worsted around his neck — Why? Where did he get it? Was it a badge — an ornament — a charm — a propitiatory act?"* (20)
-- *"The approach to this Kurtz grubbing for ivory in the wretched bush was beset by as many dangers as though he had been an enchanted princess sleeping in a fabulous castle."* (52)
+- *"[The African continent] had ceased to be a blank space of delightful mystery … it had become a place of darkness. … But there was in it one river especially … resembling an immense snake uncoiled .… It fascinated me as a snake would a bird — a silly little bird. … The snake had charmed me."* (9)  => River _charm_ Marlow
+- *"The man seemed young … He had tied a bit of white worsted around his neck — Why? Where did he get it? Was it a badge — an ornament — a charm — a propitiatory act?"* (20) => Native wear _charm_
+- *"The approach to this Kurtz grubbing for ivory in the wretched bush was beset by as many dangers as though he had been an enchanted princess sleeping in a fabulous castle."* (52) => Kurts _charm_ed
 - *"The thing was to know what [Kurts himself] belonged to, how many powers of darkness claimed him for their own. … He had taken a high seat amoungst the devils of the sand — I mean literally. You can't understand"* (60)
 - *"[Kurtz] began [his work] with the argument that we whites, from the point of development we had arrived at, 'must necessarily appear to them [savages] in the nature of supernatural beings — we approach them with the might as of a deity' … From that point he soared and took me wit him … it made me tingle with enthusiasm. This was the unbounded power of eloquence — of words — of burning nobel words.'"* (61)
 - *"[Kurtz] had the power to charm or frighten rudimentary souls into an aggravated witch-dance in his honor; he could also fill the small souls of the pilgrims with bitter misgivings.*" (62)
