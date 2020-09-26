@@ -26,5 +26,5 @@ course: ENG201
 * Peer edit: 10/8
 * Due: 10/13 (UNAUTHORITATIVE )
 
+Instructions further [in canvas](https://nuevaschool.instructure.com/courses/2815/assignments/52011)
 
-Instructions further in canvas
