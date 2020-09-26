@@ -28,15 +28,15 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
 
 - p: Establish idea of charm charm => venture into the center of charm
     - River/land charm Marlow EA
-    - Natives wear charm
-    - Marlow thinks Kurts is charming/charmed?
+    - Natives wear charm EB
+    - Marlow thinks Kurts is charming/charmed? EC
 - p: finds kurts as both the charming and charmer => kurts propergating this too!
-    - Kurts could self-charm
-    - Kurts is both charm and charmer
-    - Kurts actively charming others to charm
+    - Kurts could self-charm EJ
+    - Kurts is both charm and charmer ED
+    - Kurts actively charming others to charm EF
 - p: Kurts' propergating works! => Kurts falls to his own charm
-    - Natives are charmed by kurts
-    - Kurts claimed by charm
+    - Natives are charmed by kurts EH
+    - Kurts claimed by charm EI
     
 Loose thoughts
 - Charm is an energy source
@@ -64,25 +64,6 @@ Now, defluffify by re-writing the three points + so hat in as little words as po
 
 **RESTATED CLAIM**
 
-## Outline
-- Claim 1: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
-- Claim 2: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
-- Claim 3: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
 
 ***
 There is always [UCLA Writing Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf)
