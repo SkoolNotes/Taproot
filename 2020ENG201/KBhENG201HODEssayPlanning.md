@@ -18,7 +18,7 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
 - *"The man seemed young … He had tied a bit of white worsted around his neck — Why? Where did he get it? Was it a badge — an ornament — a charm — a propitiatory act?"* (20)
 - *"The approach to this Kurtz grubbing for ivory in the wretched bush was beset by as many dangers as though he had been an enchanted princess sleeping in a fabulous castle."* (52)
 - *"The thing was to know what [Kurts himself] belonged to, how many powers of darkness claimed him for their own. … He had taken a high seat amoungst the devils of the sand — I mean literally. You can't understand"* (60)
-- *"[Kurts] began [his work] with the argument thtat we whites, from the point of development we had arrived at, 'must necessarily appear to them [savages] in the nature of supernatual beings — we approach them with the might as of a diety' …'"*
+- *"[Kurts] began [his work] with the argument that we whites, from the point of development we had arrived at, 'must necessarily appear to them [savages] in the nature of supernatural beings — we approach them with the might as of a deity' … This was the unbonded power of eloquence — of words — of burning nobel words.'"*
 
 
 ## Claim Synthesis
