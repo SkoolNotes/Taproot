@@ -42,7 +42,7 @@ Loose thoughts
 - Charm is an energy source
 - Its up to the enchanter — "Kurtz" — to channel it
 
-*In J. Conrad's novel _Heart of Darkness_, the author warns of the potentially crippling effect of the misguided exploitation of the "charm" that exists within the African lands by Europeans; through tracking the motif of Kurtz's — and, to a lesser extent, Marlow's — usage and reaction to enchantment in the story*
+*Through tracking the motif of Kurtz's — and, to a lesser extent, Marlow's — interaction with enchantment in the story, the author warns of the potentially crippling effect of the misguided exploitation of the "charm" that exists within the African lands by Europeans in J. Conrad's novel _Heart of Darkness_,*
     
 
 
