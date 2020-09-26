@@ -46,7 +46,7 @@ Loose thoughts
 
 - Africa has inherent, not necessarily negative charm
     - EA: it attracted Marlow there
-    - EB: natives wearin
+    - EB: natives wearing charm
 
 
 ***
