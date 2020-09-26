@@ -5,30 +5,21 @@ source: KBENG201HoDLitAnalysisEssay
 course: ENG201
 ---
 
-# Essay Template
+# Heart of Darkness Essay
 ## General Information
 | Due Date      | Topic                                                 | Important Documents      |
 |---------------|-------------------------------------------------------|--------------------------|
 | Oct 13th, 1pm | Choose a recurring word, motif, pattern, or character | Well, what do you think? |
 ## Prompt
-
+Choose a word, motif, pattern, or character that you’ve noticed throughout the book, and construct an analytical, argumentative essay around it
 
 ## Claim Synthesis
 ### Development phase – How and So-What
 - *CLAIM*
-	- How THING THAT ATTACKS INTERGRITY OF CLAIM
-		- EVIDENCE and SPECIFICITY
-	- So what (local), THING THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS THE BROADER PICTURE
-- *CLAIM*
-	- Repeat...
-     
-### Testing phase – Why and So-What
-- *CLAIM*
-	- Why DOES THE CLAIM ANSWER THE PROMPT?
-	- So what (global), THING THAT ATTACKS THE BROADER IMPACT OF THE CLAIM
-- *CLAIM*
-	- Repeat...
-     
+    - How THING THAT ATTACKS INTERGRITY OF CLAIM
+        - EVIDENCE and SPECIFICITY
+    - So what (local), THING THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS THE BROADER PICTURE
+
 ## Defluffifying
 CHOSEN THESIS CLAIM
 
