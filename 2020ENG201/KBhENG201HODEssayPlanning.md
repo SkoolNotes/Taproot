@@ -54,7 +54,8 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
     - EF: The naïve Kurtz uses his charm to charm others to charm
     - ED (reverse the quote): He began acting on the charm, and Marlow wonders what the charm will do to him
 - Kurtz's charm charms on him
-    - EH: 
+    - EH: Kurtz turned into a man of savagery by his attempted charm on the natives (stretcher quote better?)
+    - EI: "the horror, the horror"
 
 
 ***
