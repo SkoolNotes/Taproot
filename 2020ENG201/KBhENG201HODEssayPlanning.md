@@ -43,27 +43,9 @@ Loose thoughts
 - Its up to the enchanter — "Kurtz" — to channel it
 
 *Through tracking the motif of Kurtz's — and, to a lesser extent, Marlow's — interaction with enchantment and its subsequent effect to the characters in the _Heart of Darkness_, the Conrad warns of the potentially crippling effect of the misguided exploitation of the "charm" that exists within the African lands by Europeans.*
-    
 
-
-### Development phase – How and So-What
-- *CLAIM*
-    - How THING THAT ATTACKS INTERGRITY OF CLAIM
-        - EVIDENCE and SPECIFICITY
-    - So what (local), THING THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS THE BROADER PICTURE
-
-## Defluffifying
-CHOSEN THESIS CLAIM
-
-* Point a 
-* Point b
-* Point c
-
-So what? SO WHAT
-
-Now, defluffify by re-writing the three points + so hat in as little words as possible.
-
-**RESTATED CLAIM**
+- Africa has charm
+    - Its 
 
 
 ***
