@@ -24,10 +24,9 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
 - *"He cried in a whisper at some image, at some vision — he cried out twice, a cry that was no more than a breath — 'The horror! The horror!'"* (86) => Kurts claimed by _charm_
 - *"''[Kurtz] had faith — don't you see? — he had the faith. He could get himself to believe any thing — anything. He would have been a splendid leader of an extreme party'"* (90) => Postmortum: Kurts can self-_charm_
 
+## Claim Synthesis
 
-Ideas:
-
-- p
+- p: natives are harmonious to lands' charm =>
     - River/land charm Marlow
     - Natives wear charm
     - Marlow thinks Kurts is charming/charmed?
@@ -40,7 +39,6 @@ Ideas:
     - Kurts claimed by charm
 
 
-## Claim Synthesis
 ### Development phase – How and So-What
 - *CLAIM*
     - How THING THAT ATTACKS INTERGRITY OF CLAIM
