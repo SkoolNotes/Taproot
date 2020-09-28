@@ -49,11 +49,6 @@ source: #index
 	* Huxley: [[KBBullietCh19]]
 	* Ottomans: [[KBOttomansMilitary]]
 	* Jack: [[KBhHIST201BullietCh19]]
-* Essay 1 
-    * [[KBhHIST201KennedyStillHoldsUp]]
-	* [[KBe20hist201retKennedyEssay]]
-	* [[KBEssay1PlanningAttemp2]] 
-    * [[KBdHistMAKennedyOutline]]
 * Reading Flows 
 	* [[KBGelvinCh3]]
 	* [[KBRobertsNotes]]
@@ -65,8 +60,21 @@ source: #index
     * [[KBhHIST201Kissinger]]
 	- [[KBrefRaisondetat]]
     
+## Essays
+* Essay 1 
+    * [[KBhHIST201KennedyStillHoldsUp]]
+	* [[KBe20hist201retKennedyEssay]]
+	* [[KBEssay1PlanningAttemp2]] 
+    * [[KBdHistMAKennedyOutline]]
+* Unit One Essay 	
+
+	
+	
+	
 ## Meta References
 - [[20hist201refTechniques]]
+
+
 
 
 
