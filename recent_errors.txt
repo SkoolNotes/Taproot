@@ -1,4 +1,10 @@
-Log for attempt at Mon Sep 28 14:11:20 PDT 2020
-pandoc: MISC/.#orgtest.org: openBinaryFile: does not exist (No such file or directory)
-pandoc: MISC/.#orgtest.org: openBinaryFile: does not exist (No such file or directory)
-pandoc: MISC/.#orgtest.latex: openBinaryFile: does not exist (No such file or directory)
+Log for attempt at Mon Sep 28 14:12:04 PDT 2020
+Error producing PDF.
+! You can't use `\spacefactor' in math mode.
+\@->\spacefactor 
+                 \@m {}
+l.187 or inline LaTeX maybe \(\LaTeX
+
+[WARNING] This document format requires a nonempty <title> element.
+  Defaulting to 'orgtest' as the title.
+  To specify a title, use 'title' in metadata or --metadata title="...".
