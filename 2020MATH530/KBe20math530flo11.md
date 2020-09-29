@@ -45,6 +45,15 @@ $$
 b_1 (v_1-v_2) + b_2 (v_2-v_3) + b_3(v_3-v_4) + b_4v_4
 $$
 
-
+If we set
+$$
+\begin{aligned}
+b_1 = a_1\\
+b_2 = a_1 + a_2\\
+b_3 = a_1 + a_2 + a_3\\
+b_4 = a_1 + a_2 + a_3 + a_4\\
+\end{aligned}
+$$
+then the two sums 
 
 ---
