@@ -236,6 +236,10 @@
   have the same span. Implicitly, maybe through induction?) if you
   remove a dependent vector enough times then you get a linearly
   independent list.
+\item
+  The list \((1, 1, 1), (2, 2, 2), (3, 3, 3)\) is really dependent, but
+  \((0), (0), (0)\) is the most dependent (you have to remove all to get
+  independence).
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
