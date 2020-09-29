@@ -40,6 +40,9 @@ source:  KBe2020math530floIndex
 > also spans $V$.
 
 ## Proof
-We prove the lemma by showing that any vector $v \in V$ can be written as a linear combination of 
+We prove the lemma by showing that any vector $v \in V$ can be written as a linear combination of the form
+$$
+a_1 (v_1-v_2) + a_2 (v_2-v_3), a_3(v_3-v_4), a_4v_4
+$$
 
 ---
