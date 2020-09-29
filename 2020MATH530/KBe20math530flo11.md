@@ -17,6 +17,6 @@ source:  KBe2020math530floIndex
 - Like $0$ or $0 x^0$
 - Most polynomials are sometimes zero, but polynomials that are "identically zero" means that it's always zero (instead of just sometimes zero)
 
-## $
+## $\mathbb{P}_m(F)$
 
 ---
