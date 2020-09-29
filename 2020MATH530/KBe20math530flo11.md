@@ -34,6 +34,8 @@ source:  KBe2020math530floIndex
 - The list $(1, 1, 1), (2, 2, 2), (3, 3, 3)$ is really dependent, but $(0), (0), (0)$ is the most dependent (you have to remove all to get independence).
 
 <p style="page-break-before: always"></p>
+Epic<br><br><br><br><br><br>
+
 ---
 
 # Exercise 2.A.1
