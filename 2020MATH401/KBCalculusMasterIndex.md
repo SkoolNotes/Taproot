@@ -19,6 +19,6 @@ Everyone has calculus!
 # Concepts
 
 ## Limits
-- [[L
+- [[eRefLHopitalRule]]
 
 ---
