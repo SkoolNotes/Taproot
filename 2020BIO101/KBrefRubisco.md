@@ -24,4 +24,6 @@ source:  KBhBIO101Macromolecules
 	- The cell actually has to expend more energy to fix this mistake
 - Also it's like really really slow, processing around 3 reactions per second instead of other enzymes which often process thousands
 
+![[Pasted image 20200929151124.png]]
+
 ---
