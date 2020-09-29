@@ -227,7 +227,8 @@ Showing that if \(u, v\) are linearly dependent, then
 \(u, v\) are linearly dependent. Then, we can write \(v\) as
 \(au : a \in \mathbb{F}\). Then the target determinant can be written as
 \[\left|\begin{matrix}u_1&u_2\\au_1&au_2\end{matrix}\right| = u_1au_2 + - u_2au_1\]
-Because \(u_1au_2 = -u_2au_1\), their sum is clearly \(0\).
+Because \(u_1au_2\) is the inverse of \(-u_2au_1\), their sum is clearly
+\(0\).
 
 \hypertarget{in-the-reverse-direction}{%
 \subsection{In the reverse direction}\label{in-the-reverse-direction}}

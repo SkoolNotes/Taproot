@@ -42,7 +42,7 @@ A pair of vectors $u, v$ in a vector space $V$ over $\mathbb{F}^2$ are linearly 
 Showing that if $u, v$ are linearly dependent, then $$\left|\begin{matrix}u_1&u_2\\v_1&v_2\end{matrix}\right| = 0$$
 Suppose $u, v$ are linearly dependent. Then, we can write $v$ as $au : a \in \mathbb{F}$. Then the target determinant can be written as
 $$\left|\begin{matrix}u_1&u_2\\au_1&au_2\end{matrix}\right| = u_1au_2 + - u_2au_1$$
-Because $u_1au_2 = -u_2au_1$, their sum is clearly $0$.
+Because $u_1au_2$ is the inverse of $-u_2au_1$, their sum is clearly $0$.
 
 ## In the reverse direction
 Showing that if $\left|\begin{matrix}a&b\\c&d\end{matrix}\right| = 0$, then the vectors $(a, b), (c, d)$ are linearly dependent.
