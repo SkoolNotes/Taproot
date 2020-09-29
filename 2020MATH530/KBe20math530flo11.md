@@ -9,6 +9,7 @@ source:  KBe2020math530floIndex
 
 # Polynomials 
 - See [[KBrefPolynomial]]
-- 
+## Identically zero
+- Like $0$ or $0 x^0$
 
 ---
