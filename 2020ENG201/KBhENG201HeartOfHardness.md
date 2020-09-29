@@ -136,6 +136,8 @@ Ambiguity and dehumanization of fingers
 * Porchugal invented a faster boat
 * Brits and Franchies and Dutch had more nefarious goal
 
+## Graded Discussion
+
 [[KBENG201GradedDiscussionPrep]]
   
 ## Essays
