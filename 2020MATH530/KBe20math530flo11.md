@@ -26,4 +26,7 @@ source:  KBe2020math530floIndex
 ## Proof of 2.16
 - Structure: proof by contradiction
 
+# Linear Independence
+- "non-trivial" means "simplest possible", which has usually got the most zeros
+
 ---
