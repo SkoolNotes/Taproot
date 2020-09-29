@@ -54,6 +54,11 @@ b_3 = a_1 + a_2 + a_3\\
 b_4 = a_1 + a_2 + a_3 + a_4\\
 \end{aligned}
 $$
-then the two sums 
+then the two combinations will be equivalent:
+$$
+\begin{split}
+a_1(v_1-v_2) + (a_1+a_2)(v_2-v_3) + (a_1+a_2+a_3)(v_3-v_4) + (a_1+a_2+a_3+a_4)v_4\\
+\end{split}
+$$
 
 ---
