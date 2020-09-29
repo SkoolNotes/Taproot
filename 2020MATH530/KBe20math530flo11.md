@@ -7,5 +7,8 @@ source:  KBe2020math530floIndex
 
 #flo 
 
+# Polynomials 
+- See [[KBrefPolynomial]]
+- 
 
 ---
