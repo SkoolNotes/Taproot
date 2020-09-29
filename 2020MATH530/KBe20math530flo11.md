@@ -11,5 +11,6 @@ source:  KBe2020math530floIndex
 - See [[KBrefPolynomial]]
 ## Identically zero
 - Like $0$ or $0 x^0$
+- Most polynomials are sometimes zero, 
 
 ---
