@@ -29,4 +29,17 @@ source:  KBe2020math530floIndex
 # Linear Independence
 - "non-trivial" means "simplest possible", which has usually got the most zeros
 
+## 2.21 Linear Dependence Lemma 2.21
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="220.5px"
+	 height="41.8px" viewBox="0 0 220.5 41.8" style="overflow:visible;enable-background:new 0 0 220.5 41.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<defs>
+</defs>
+<rect class="st0" width="220.5" height="41.8"/>
+</svg>
+
+
 ---
