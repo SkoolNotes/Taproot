@@ -37,5 +37,9 @@ source:  KBe2020math530floIndex
 ## Lemma
 > If vectors $v_1, v_2, v_3, v_4$ span $V$, then the list
 > $$v_1-v_2, v_2-v_3, v_3-v_4, v_4$$
+> also spans $V$
+
+## Proof
+We prove the lemma by showing that any 
 
 ---
