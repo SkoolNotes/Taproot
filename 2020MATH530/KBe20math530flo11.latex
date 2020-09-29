@@ -228,6 +228,16 @@
 \subsection{2.21 Linear Dependence Lemma
 2.21}\label{linear-dependence-lemma-2.21}}
 
+\begin{itemize}
+\tightlist
+\item
+  it's saying that any linearly independent list has a vector inside
+  that doesn't ``contribute anything'', and that if you remove it you'l
+  have the same span. Implicitly, maybe through induction?) if you
+  remove a dependent vector enough times then you get a linearly
+  independent list.
+\end{itemize}
+
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}

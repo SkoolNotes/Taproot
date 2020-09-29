@@ -30,16 +30,6 @@ source:  KBe2020math530floIndex
 - "non-trivial" means "simplest possible", which has usually got the most zeros
 
 ## 2.21 Linear Dependence Lemma 2.21
-<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="220.5px"
-	 height="41.8px" viewBox="0 0 220.5 41.8" style="overflow:visible;enable-background:new 0 0 220.5 41.8;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-</style>
-<defs>
-</defs>
-<rect class="st0" width="220.5" height="41.8"/>
-</svg>
-
+- it's saying that any linearly independent list has a vector inside that doesn't "contribute anything", and that if you remove it you'l have the same span. Implicitly, maybe through induction?) if you remove a dependent vector enough times then you get a linearly independent list.
 
 ---
