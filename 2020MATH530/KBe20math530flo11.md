@@ -23,4 +23,7 @@ source:  KBe2020math530floIndex
 ### It's a finite dimensional vector space
 - $$a_0z^0+...+a_mz^m + b_0z^0 + ... + b_mz^m = (a_0+b_0)z^0 + ... + (a_m+b_m)z^m$$
 
+## Proof of 2.16
+- Structure: proof by contradiction
+
 ---
