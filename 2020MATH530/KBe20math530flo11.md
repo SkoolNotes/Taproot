@@ -34,7 +34,7 @@ source:  KBe2020math530floIndex
 - The list $(1, 1, 1), (2, 2, 2), (3, 3, 3)$ is really dependent, but $(0), (0), (0)$ is the most dependent (you have to remove all to get independence).
 
 <p style="page-break-before: always"></p>
-Epic<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ---
 
@@ -60,12 +60,7 @@ b_4 &= a_1 + a_2 + a_3 + a_4\\
 \end{aligned}
 $$
 then the two combinations will be equivalent:
-$$
-\begin{aligned}
-&a_1(v_1-v_2) + (a_1+a_2)(v_2-v_3) + (a_1+a_2+a_3)(v_3-v_4) + (a_1+a_2+a_3+a_4)v_4\\ = 
-&a_1v_1 \cancel{- a_1v_2 + a_1v_2} +a_2v_2 \cancel{- (a_1+a_2)v_3 + (a_1+a_2)v_3} +a_3v_3 - \cancel{(a_1+a_2+a_3)v_4 + (a_1+a_2+a_3)v_4} + a_4v_4\\
-= a_1v_1 + a_2v_2 + a_3v_3 + a_4 v_4
-\end{aligned}
-$$
+
+$\begin{aligned} &a_1(v_1-v_2) + (a_1+a_2)(v_2-v_3) + (a_1+a_2+a_3)(v_3-v_4) + (a_1+a_2+a_3+a_4)v_4\\ =  &a_1v_1 \cancel{- a_1v_2 + a_1v_2} +a_2v_2 \cancel{- (a_1+a_2)v_3 + (a_1+a_2)v_3} +a_3v_3 - \cancel{(a_1+a_2+a_3)v_4 + (a_1+a_2+a_3)v_4} + a_4v_4\\ = a_1v_1 + a_2v_2 + a_3v_3 + a_4 v_4 \end{aligned}$
 
 ---
