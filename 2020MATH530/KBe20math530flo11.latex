@@ -195,7 +195,10 @@
 \begin{itemize}
 \tightlist
 \item
-  Polynomials whose highest degree is \(m\)
+  Polynomials with coefficients in \(F\) whose highest degree is \(m\)
+  \#\#\# It's a finite dimensional vector space
+\item
+  \[a_0z^0+...+a_mz^m + b_0z^0 + ... + b_mz^m = (a_0+b_0)z^0 + ... + (a_m+b_m)z^m\]
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}

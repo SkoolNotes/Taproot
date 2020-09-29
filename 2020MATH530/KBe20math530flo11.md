@@ -19,5 +19,7 @@ source:  KBe2020math530floIndex
 
 ## $\mathcal{P}_m(F)$
 - Polynomials with coefficients in $F$ whose highest degree is $m$
+### It's a finite dimensional vector space
+- $$a_0z^0+...+a_mz^m + b_0z^0 + ... + b_mz^m = (a_0+b_0)z^0 + ... + (a_m+b_m)z^m$$
 
 ---
