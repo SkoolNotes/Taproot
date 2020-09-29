@@ -250,13 +250,14 @@
 
 \begin{quote}
 If vectors \(v_1, v_2, v_3, v_4\) span \(V\), then the list
-\[v_1-v_2, v_2-v_3, v_3-v_4, v_4\] also spans \(V\)
+\[v_1-v_2, v_2-v_3, v_3-v_4, v_4\] also spans \(V\).
 \end{quote}
 
 \hypertarget{proof}{%
 \subsection{Proof}\label{proof}}
 
-We prove the lemma by showing that any
+We prove the lemma by showing that any vector \(v \in V\) can be written
+as a linear combination of
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
