@@ -8,7 +8,7 @@ source:  #index
 ![Taproot Logo](./meta/taproot_logo_redorange.png)
 
 # Welcome
-Howdy :wave:, welcome to Taproot. Take a look around, either in person or from our [handy web portal](taproot.shabang.cf).
+Howdy :wave:, welcome to Taproot. Take a look around, either in person or from our [handy web portal](https://taproot.shabang.cf).
 
 ## Philosophy
 Zettelkasten, maybe. But basically, create a repository of knowledge that should be easy to refer back to and effective for relearning things.

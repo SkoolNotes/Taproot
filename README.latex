@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1549)}}    % original
-%\rhead{\textrmlf{Compiled }\#1549\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1549\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1550)}}    % original
+%\rhead{\textrmlf{Compiled }\#1550\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1550\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -177,7 +177,7 @@
 \section{Welcome}\label{welcome}}
 
 Howdy :wave:, welcome to Taproot. Take a look around, either in person
-or from our \href{taproot.shabang.cf}{handy web portal}.
+or from our \href{https://taproot.shabang.cf}{handy web portal}.
 
 \hypertarget{philosophy}{%
 \subsection{Philosophy}\label{philosophy}}
