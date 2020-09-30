@@ -10,9 +10,9 @@ Part B
 
 Please answer the following questions and briefly explain your answer:
 
-1. Thinking about the R^2 metric used for evaluating regression, answer the following questions:
-	1. What is the best highest possible score you could get?
-		1. The highest possible score is 1, representing a perfect fit. 
+- Thinking about the R^2 metric used for evaluating regression, answer the following questions:
+	- What is the best highest possible score you could get?
+		- The highest possible score is 1, representing a perfect fit. 
 If your model simply predicted the average value of the training set no matter what the input was, what score would you get on a test set whose average matched that of the training set?
 What is the lowest score that you can get?
 When using accuracy to measure your model's performance on a classification problem:
