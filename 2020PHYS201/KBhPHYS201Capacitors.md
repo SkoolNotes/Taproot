@@ -7,8 +7,9 @@ course: PHYS201
 
 # Capacitors
 ## Capacitors vs. Batteries
-**Batteries**
+**Batteries** => Converting $PE_{chem}$ => Eletrical energy
 
-* Converting $PE_{chem}$ => eletrical energy
-* 
-co
+**Capacitors** => Converting $PE_{elec}$ => Eletrical energy
+
+When you are 
+
