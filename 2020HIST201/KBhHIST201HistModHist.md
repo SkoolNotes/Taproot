@@ -10,7 +10,6 @@ author: Houjun Liu
 
 Watson's Model: scale from... 
 
-
 | Independence                     | ..                               | ..                                              | Full Order            |
 |:--------------------------------:|:--------------------------------:|:-----------------------------------------------:|:---------------------:|
 | Indipendence States (no control) | Hegemony (some external control) | Dominion (some external, some internal control) | Empire (full control) |
