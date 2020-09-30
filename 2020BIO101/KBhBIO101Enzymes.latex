@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1773)}}    % original
-%\rhead{\textrmlf{Compiled }\#1773\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1773\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1774)}}    % original
+%\rhead{\textrmlf{Compiled }\#1774\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1774\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -181,6 +181,15 @@ A macromolecular \textbf{catalyst}, it\ldots{}
   Speeds up the rate of reactions
 \item
   Does not get consumed by the reaction
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Not a fundimental product
+  \item
+    Not a fundiment reactant
+  \end{enumerate}
 \item
 \end{enumerate}
 
