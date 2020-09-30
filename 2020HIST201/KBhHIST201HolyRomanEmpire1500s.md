@@ -24,3 +24,6 @@ But... They didn't! Because...
 	* Yet, eventually weakened pope brought end to religious universality, which brought end to that centralized Europe idea
 	
 Meanwhile, in France... [[KBhHIST201RaisonDeEtat]]	
+
+## Counter-Reformation
+See [[KBhHIST201CounterReformation]]

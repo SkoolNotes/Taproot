@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ HIST201 }
-\newcommand{\thelesson}{ Holy Roman Empire in the 1500s }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -125,7 +125,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1581)}}    % original
 %\rhead{\textrmlf{Compiled }\#1581\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#1581\textrmlf{ on} \today}       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,55 +164,10 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBhHIST201Kissinger}{\tiny\textulf{[[}\textbf{KBhHIST201Kissinger}\textulf{]]}}}\thinspace
 
-\hypertarget{the-holy-roman-empire}{%
-\section{The Holy Roman Empire}\label{the-holy-roman-empire}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-Attempted to adopt the model of European universality =\textgreater{}
-one church, one emperor.
-
-But\ldots{} They didn't! Because\ldots{}
-
-\hypertarget{reasons-for-non-universality}{%
-\subsection{Reasons for
-non-universality}\label{reasons-for-non-universality}}
-
-@{[}{[}KBhHIST201Kissinger{]}{]}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  Lack of transportation and communication systems made tying large
-  countries together difficult
-\item
-  HRE had separation between church and state, which makes the authority
-  less authoritative
-\item
-  Pope + emperor constantly fought
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Need constitution to settle
-  \item
-    Enabled fuetal rulers to enhance autonomy
-  \item
-    Hasburg dynasty + combination with Spanish royalty =\textgreater{}
-    Über powerful HRE =\textgreater{} Almost centralized nation
-  \item
-    Yet, eventually weakened pope brought end to religious universality,
-    which brought end to that centralized Europe idea
-  \end{itemize}
-\end{enumerate}
-
-Meanwhile, in France\ldots{} {[}{[}KBhHIST201RaisonDeEtat{]}{]}
-
-\hypertarget{counter-reformation}{%
-\subsection{Counter-Reformation}\label{counter-reformation}}
-
-See {[}{[}KBhHIST201CounterReformation{]}{]}
+title: Counter-Reformation author: Houjun Liu source:
+{[}{[}KBhHIST201HolyRomanEmpire1500s{]}{]}
 
 \end{document}
