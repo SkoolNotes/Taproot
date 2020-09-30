@@ -21,9 +21,6 @@ CLAIM: European balance of power system emerged after medieval collapse
 As a mean to fend off an every-growing HRE threatening France, Cardinal Richaleu came up with a system named [[KBhHIST201RaisonDeEtat]] that promises to be a better system of government.
 
 
-	CLAIM: 
-
-  > Had the Habsburg emperors played according to the same rules or understood the emerging world of _raison d'etat,_ they would have seen how well placed they were to achieve what Richelieu feared most-the pre-eminence of Austria and the emergence of the Holy Roman Empire as the dominant power on the Continent 
 
 * HRE Emperor Ferdinand II
 * Practiced the opposite of *raison d'etat*, which means religion + morality > state interest
