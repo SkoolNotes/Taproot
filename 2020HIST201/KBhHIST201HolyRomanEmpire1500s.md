@@ -35,3 +35,7 @@ See [[KBhHIST201CounterReformation]]
  
 *  Refused to treaty with Muslim Turks + Protestant Swedes
 *  "Less concerned with the Empire's welfare than that of the will of God ... The state existed to serve the religion ... for Ferdinand" -- [[KBhHIST201Kissinger]]
+
+* 
+
+
