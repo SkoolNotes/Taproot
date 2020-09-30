@@ -16,3 +16,8 @@ Focused on arthiritus
 * Found users as Lucie's  grandma 
 
 Have need statement in a month.
+
+Theo did not come to the first meeting.
+
+
+

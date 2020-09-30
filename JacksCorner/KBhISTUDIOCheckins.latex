@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1723)}}    % original
-%\rhead{\textrmlf{Compiled }\#1723\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1723\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1724)}}    % original
+%\rhead{\textrmlf{Compiled }\#1724\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1724\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -192,5 +192,7 @@ Focused on arthiritus
 \end{itemize}
 
 Have need statement in a month.
+
+Theo did not come to the first meeting.
 
 \end{document}
