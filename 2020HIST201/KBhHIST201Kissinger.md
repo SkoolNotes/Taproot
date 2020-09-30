@@ -23,10 +23,7 @@ As a mean to fend off an every-growing HRE threatening France, Cardinal Richaleu
 
 
 
-* Raison d'etat extention and failure
-* Too much power without morals is no good
-* Louis XIV over exploited the rest of europe
-* In the end, this was detrimental to France
+
 * When most states starts being fully rational and not at all moral, this becomes less fun 
 * Nemesis of Raison d' etat is overextention
 * If no one else is expanding, a country will keep taking advantage of others

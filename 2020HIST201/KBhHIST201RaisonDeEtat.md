@@ -16,4 +16,12 @@ A method of "sensible government" that promises to set aside personal ideologica
 
 [[KBhHIST201FrenchRichelieuAndRaisonDeEtat]]
 
-## Failure and Overe
+## Failure and Overextension
+
+CLAIM @[[KBhHIST201Kissinger]] — too much power without morality is no good, for instance
+
+### Exhibit B: Still France!
+
+* **Louis XIV**, under the guidance of [[KBhHIST201FrenchRichelieuAndRaisonDeEtat]], gone trigger happy on the expansion
+* Ultimately, this is detrimental
+	* 
