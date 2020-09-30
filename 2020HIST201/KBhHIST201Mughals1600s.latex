@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1643)}}    % original
-%\rhead{\textrmlf{Compiled }\#1643\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1643\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1644)}}    % original
+%\rhead{\textrmlf{Compiled }\#1644\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1644\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -501,6 +501,9 @@
     \begin{itemize}
     \tightlist
     \item
+      Small city-states with isolated rules
+    \item
+      With independent principalities
     \end{itemize}
   \end{itemize}
 \end{itemize}

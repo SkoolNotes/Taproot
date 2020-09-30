@@ -8,3 +8,5 @@
 ### Data vs Theory
  - Evidence is very different from theory.
 	 - Evidence may describe a pattern, but as soon as any theory or interpretation is applied it
+		 - One of De's mentors called this religion vs evidence
+	 - Example:

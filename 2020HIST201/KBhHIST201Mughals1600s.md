@@ -110,6 +110,7 @@ course: HIST201
 	* Gangatic plain to the north
 		* Easy to conquer
 	* Rajputs
-		*  
+		* Small city-states with isolated rules
+		* With independent principalities
 
         
