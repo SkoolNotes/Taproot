@@ -54,3 +54,5 @@ KangXi the renaissance man
 * Showed himself as a well-read guy to the Chinese
 
 Reminder: **trade resumed!!**
+
+* 
