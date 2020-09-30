@@ -8,3 +8,5 @@ course: iStudio
 
 Met today!
 
+- Talked to 15 plus people
+- 
