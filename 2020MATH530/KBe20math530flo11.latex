@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1525)}}    % original
-%\rhead{\textrmlf{Compiled }\#1525\textrmlf{ on} \today }      % old date
-\rhead{\#1525\textrmlf{ at} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1526)}}    % original
+%\rhead{\textrmlf{Compiled }\#1526\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1526\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -308,21 +308,6 @@ b_4 &= a_1 + a_2 + a_3 + a_4\\
 \] then the two combinations will be equivalent:
 
 \(\begin{aligned} &a_1(v_1-v_2) + (a_1+a_2)(v_2-v_3) + (a_1+a_2+a_3)(v_3-v_4) + (a_1+a_2+a_3+a_4)v_4\\ = &a_1v_1 \cancel{- a_1v_2 + a_1v_2} +a_2v_2 \cancel{- (a_1+a_2)v_3 + (a_1+a_2)v_3} +a_3v_3 - \cancel{(a_1+a_2+a_3)v_4 + (a_1+a_2+a_3)v_4} + a_4v_4\\ = a_1v_1 + a_2v_2 + a_3v_3 + a_4 v_4 \end{aligned}\)
-
-\hypertarget{rock}{%
-\section{Rock}\label{rock}}
-
-And here's a rock for good measure:
-
-\includegraphics{./Pastedimage20200929160032.png}
-
-Look at these colors!
-
-\includegraphics{../MISC/Pasted image 20200929165411.png}
-
-\includegraphics{../MISC/Pasted image 20200929165710.png}
-
-\includegraphics{../MISC/IMG_1417.jpg}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
