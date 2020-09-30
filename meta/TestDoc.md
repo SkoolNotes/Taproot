@@ -72,7 +72,7 @@ $\begin{aligned} &a_1(v_1-v_2) + (a_1+a_2)(v_2-v_3) + (a_1+a_2+a_3)(v_3-v_4) + (
 # Rock
 And here's a rock for good measure:
 
-![](./Pastedimage20200929160032.png)
+![](../2020MATH530/Pastedimage20200929160032.png)
 
 Look at these colors!
 
