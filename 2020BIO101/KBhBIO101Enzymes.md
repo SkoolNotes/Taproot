@@ -23,4 +23,5 @@ A macromolecular **catalyst**, it...
 
 The process of enzymes doing things.
 
-1. The reactant (called "substrate") fits into a pocket in the enzyme specifically for the 
+1. The reactant (called "substrate") fits into a pocket ("active sin the enzyme for the reaction to occur
+2. The enzyme rearrange itself slightly to hold 
