@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1811)}}    % original
-%\rhead{\textrmlf{Compiled }\#1811\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1811\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1812)}}    % original
+%\rhead{\textrmlf{Compiled }\#1812\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1812\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,5 +186,21 @@ New member: \textbf{Ellie Kerns, 9, Ellie Kearns
 \href{mailto:ellkear@nuevaschool.org}{\nolinkurl{ellkear@nuevaschool.org}}}
 
 Waaay back in the beginning\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  Interest in field of pediatrics
+\item
+  Transition from hospital =\textgreater{} home
+\item
+  Talked to John + School nurse: looked at the Tourett's syndroym
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Eared about
+  \end{itemize}
+\end{itemize}
 
 \end{document}
