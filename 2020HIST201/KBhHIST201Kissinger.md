@@ -20,15 +20,6 @@ CLAIM: European balance of power system emerged after medieval collapse
 ### System of Raison De 'Etat
 As a mean to fend off an every-growing HRE threatening France, Cardinal Richaleu came up with a system named [[KBhHIST201RaisonDeEtat]] that promises to be a better system of government.
 
-* Lead to Thirty Years' War => 1618
-	* Danish and Swedish armies cut into Germany
-	* French army joined in too
-	* Devistated central Europe + lost Germany a theird of its population
-* And then… our good friend Richelieu instituted Raison d'etat
-	* France was surrounded by HRE
-	* All others loyal to HRE  
-	* Hence, the Cardinal disregarded the fact that he is the Cardinal, and instituted this idea => State > Religion
-	* Sided with the Protestants 
 
 	CLAIM: 
 
