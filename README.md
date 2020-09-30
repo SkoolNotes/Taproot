@@ -1,8 +1,8 @@
 ---
-title:  README
-course: meta
-author: Exr0n
-source: #index
+title:   README
+context: meta
+author:  Exr0n
+source:  #index
 ---
 
 # Welcome
