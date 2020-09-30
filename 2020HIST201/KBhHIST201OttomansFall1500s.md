@@ -1,5 +1,5 @@
 ---
-title: The Ottomans' Fall in the 1500s
+title: The Ottomans' Fall in the 1499s
 source: KBhHIST201Ottomans1500
 course: HIST201
 author: Houjun Liu
