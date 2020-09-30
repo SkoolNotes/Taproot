@@ -105,7 +105,11 @@ course: HIST201
 
 * India is very hard to rule in a very centralized way
 	* Deccan plateu to the south 
-	* Hard to conquer
-	*  
+		* Hard to conquer
+		* Have to re-conquer because people did not respect his rule
+	* Gangatic plain to the north
+		* Easy to conquer
+	* Rajputs
+		*  
 
         
