@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1614)}}    % original
-%\rhead{\textrmlf{Compiled }\#1614\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1614\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1615)}}    % original
+%\rhead{\textrmlf{Compiled }\#1615\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1615\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -172,9 +172,8 @@
 \hypertarget{this-is-fun}{%
 \section{This is fun!(?)}\label{this-is-fun}}
 
-\hypertarget{wait-thesis-is-due-thursday}{%
-\subsection{Wait, thesis is due
-Thursday?}\label{wait-thesis-is-due-thursday}}
+\hypertarget{prompt}{%
+\subsection{Prompt}\label{prompt}}
 
 \begin{verbatim}
 Heart of Darkness Analytical Essay
@@ -195,5 +194,9 @@ You will likely make connections to other parts of the text, particularly as you
 
 OPTION 3: Propose your own analytical adventure
 \end{verbatim}
+
+\hypertarget{wait-thesis-is-due-thursday}{%
+\subsection{Wait, thesis is due
+Thursday?}\label{wait-thesis-is-due-thursday}}
 
 \end{document}

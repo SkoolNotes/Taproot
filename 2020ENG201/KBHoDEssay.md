@@ -9,7 +9,9 @@ source:  #index
 
 # This is fun!(?) 
 
-Promp```
+## Prompt 
+
+```
 Heart of Darkness Analytical Essay
 
 English 10: Landscapes of the Self and Other
@@ -30,7 +32,37 @@ OPTION 3: Propose your own analytical adventure
 
 ```
 
+
 ## Wait, thesis is due Thursday?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
