@@ -22,6 +22,8 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 - @[[KBhHIST201MannMing]] China's currency began to show strain as Bronze prices increase whist China deals with a botching reopening plan after closing the economy after Zheng He. See [[KBhHIST201ChinasDeclineWRTReopening]] and [[KBhHIST201ChinasDeclineWRTZhengHe]]
 - @[[KBhHIST201Ottomans1500]]   Enjoys control of the silk read; Huge landmass; Large army (and, large cannons + siege trains); Strong Navy! => deployed frequently in the Black Sea, Constantinople, North Africa
 	- Enjoyed physical control: Strategic link between Europe + Asia at the Daranelles strait 
+- @[[KBhHIST201ProblemsWithSilver]]  — major globalization
+- Per Kennedy's favourite argument
  
 
 
