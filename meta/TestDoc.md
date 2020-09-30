@@ -52,7 +52,7 @@ $\begin{aligned} &a_1(v_1-v_2) + (a_1+a_2)(v_2-v_3) + (a_1+a_2+a_3)(v_3-v_4) + (
 # Rock
 And here's a rock for good measure:
 
-![../Pasted image 20200929184245.png](./Pasted image 20200929184245.png)
+![ferrero!](./Pasted image 20200929184245.png)
 
 epppic \LaTeX
 
