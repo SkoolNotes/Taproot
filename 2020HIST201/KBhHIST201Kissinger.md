@@ -25,8 +25,6 @@ As a mean to fend off an every-growing HRE threatening France, Cardinal Richaleu
 
 [[KBhHIST201EnglandMediator]]
 
-* Glorious revolution kicked James II off the throne, chose William of Orange of the Netherlands as replacement
-* Used the fact that if France occupied Belgium, it would surely eat up the Netherlands, to cause England to fight in the war
 * So, William fought Louis XIV
 * Formed Grand Alliance — Sweden Spain Savoy, Austria, Netherlands, and England all against France
 * Constantly fought, and left France to be strong but not dominant
