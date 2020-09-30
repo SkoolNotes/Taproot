@@ -25,12 +25,6 @@ As a mean to fend off an every-growing HRE threatening France, Cardinal Richaleu
 
 [[KBhHIST201EnglandMediator]]
 
-* So, William fought Louis XIV
-* Formed Grand Alliance — Sweden Spain Savoy, Austria, Netherlands, and England all against France
-* Constantly fought, and left France to be strong but not dominant
-* Textbook Balance of Power!
-* The fighting as a classic example if _Raison d'etat_: ideologically, England and France are on the same side. However, it is not in England's best interest to join them
-
 **CLAIM**: 
 
 > In this manner, Great Britain became the balancer of the European equilibrium, first almost by default, later by conscious strategy. Without Great Britain 's tenacious commitment to that role, France would almost surely have achieved hegemony over Europe in the eighteenth or nine- teenth century, and Germany would have done the same in the modern period.
