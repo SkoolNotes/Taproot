@@ -28,5 +28,7 @@ Waaay back in the beginning...
 			* Learn about a competing response to the tic
 			* Profit!
 			
-*  
+* Needs
+	* Sounds like they need ML engineers!
+	* And also Fab + material science people => 
 

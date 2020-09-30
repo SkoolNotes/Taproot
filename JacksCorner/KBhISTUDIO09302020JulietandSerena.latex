@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1816)}}    % original
-%\rhead{\textrmlf{Compiled }\#1816\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1816\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1817)}}    % original
+%\rhead{\textrmlf{Compiled }\#1817\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1817\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -222,6 +222,15 @@ Waaay back in the beginning\ldots{}
     \end{itemize}
   \end{itemize}
 \item
+  Needs
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Sounds like they need ML engineers!
+  \item
+    And also Fab + material science people =\textgreater{}
+  \end{itemize}
 \end{itemize}
 
 \end{document}
