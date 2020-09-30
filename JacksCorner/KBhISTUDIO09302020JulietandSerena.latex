@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1819)}}    % original
-%\rhead{\textrmlf{Compiled }\#1819\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1819\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1820)}}    % original
+%\rhead{\textrmlf{Compiled }\#1820\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1820\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -234,5 +234,7 @@ Waaay back in the beginning\ldots{}
     causes tics
   \end{itemize}
 \end{itemize}
+
+Meet: Wednesdays
 
 \end{document}

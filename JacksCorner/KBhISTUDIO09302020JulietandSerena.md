@@ -32,3 +32,7 @@ Waaay back in the beginning...
 	* Sounds like they need ML engineers! => Hard to distinguish tics
 	* And also Fab + material science people => Skin contact causes tics
 
+Meet: Wednesdays
+
+
+
