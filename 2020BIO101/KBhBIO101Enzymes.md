@@ -14,4 +14,7 @@ A macromolecular **catalyst**, it...
 2. Does not get consumed by the reaction
 	1. Not a fundimental product
 	2. Not a fundiment reactant
-3. 
+3.  Shape determines the reactions that it can participate in
+4.  Enzymes are subject to **protean denaturation** => if the protein unfolds, its function will be lost
+
+
