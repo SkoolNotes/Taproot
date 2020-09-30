@@ -16,4 +16,10 @@ A process by which the [[KBhHIST201HolyRomanEmpire1500s]] attempted to revive Ca
 * French army joined in too
 * Devistated central Europe + lost Germany a theird of its population
 
-CLAIM! @[[KBhHIST201Kissinger]] is the reason why [[der
+CLAIM! @[[KBhHIST201Kissinger]] 
+
+## Inspiring Raison de' Etat
+
+30 Years' War => The reason why deRichlieu instituted Raison d'etat.
+
+
