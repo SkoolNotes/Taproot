@@ -64,4 +64,8 @@ To reach **world hegemony** (become the world leader) — change the world order
 Merchantilist Empires => Merchants => Trade
 
 * Portchugal and Spain focused on land aqusition
+	* King and queen doing conquring
+	* Little privatization and more of a territarialist model
 * Dutch, French, and British empires focused more on actual trading
+	* Companies with charters 
+
