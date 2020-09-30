@@ -16,3 +16,4 @@
 		 - There has to be one or the other
 			 - The evidence supports the first one, but one cannot prove anything
  - The pattern is an extrapolation of the data
+	 - It's considered religion
