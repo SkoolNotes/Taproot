@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1647)}}    % original
-%\rhead{\textrmlf{Compiled }\#1647\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1647\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1659)}}    % original
+%\rhead{\textrmlf{Compiled }\#1659\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1659\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -224,6 +224,8 @@ Understanding}\label{mechanistic-understanding}}
       \end{itemize}
     \end{itemize}
   \end{itemize}
+\item
+  The pattern is an extrapolation of the data
 \end{itemize}
 
 \end{document}
