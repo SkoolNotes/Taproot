@@ -43,7 +43,11 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
 - Its up to the enchanter — "Kurtz" — to channel it
 
 ### The Claim
-**Through tracking the motif of Kurtz's — and, to a lesser extent, Marlow's — interaction with enchantment and its subsequent effect to the characters in the _Heart of Darkness_, [Conrad warns of the potentially crippling and reciprocal effect of the misguided exploitation of the "charm" that exists within the African lands by Europeans.**]
+**Through tracking the motif of Kurtz's — and, to a lesser extent, Marlow's — interaction with enchantment and its subsequent effect to the characters in the _Heart of Darkness_, 
+
+
+
+This may end up sounding racist — Conrad warns of the potentially crippling and reciprocal effect of the misguided exploitation of the "charm" that exists within the African lands by Europeans. (Could accidentally justify Conrad.)
 
 - Africa has inherent, not necessarily negative charm
     - EA: it attracted Marlow there
