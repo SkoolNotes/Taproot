@@ -8,5 +8,13 @@ course: HIST201
 # deRichelieu's Raison de Etat
 
 ## Background
-* CLAIM: lost the most by the boom of the Holy Roman Empire
-			* Near-death of HRE would allow France to expand eastwards
+* Near-death of HRE would allow France to expand eastwards
+* Needed a way of fending off the ever-growing HRE
+
+So, in comes...
+
+## Cardinal de Richelieu
+"Father of the modern state system."
+
+Proposed and practiced [[KBhHIST201RaisonDeEtat]] in France,
+
