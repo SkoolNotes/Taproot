@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1758)}}    % original
-%\rhead{\textrmlf{Compiled }\#1758\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1758\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1759)}}    % original
+%\rhead{\textrmlf{Compiled }\#1759\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1759\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -174,7 +174,6 @@ Part B
 Please answer the following questions and briefly explain your answer:
 
 \begin{itemize}
-\tightlist
 \item
   Thinking about the R\^{}2 metric used for evaluating regression,
   answer the following questions:
@@ -268,16 +267,23 @@ Please answer the following questions and briefly explain your answer:
     labeled incorrectly. When given another sample in class A, the model
     will predict either class B or class C.
   \end{itemize}
+\item
+  \begin{longtable}[]{@{}l@{}}
+  \toprule
+  model gets a precision score of 1 for class A on a test set with
+  classes A, B, and C. If you take one of the test items that is in
+  class A and have your model predict what class it is, what will it
+  predict?\tabularnewline
+  \midrule
+  \endhead
+  a model with classes A and B has an AUC score of 1 and you give it an
+  item from the test set that is in class A, what class will it predict
+  and what probability will it give for that class?\tabularnewline
+  a model with classes A and B has an AUC score of 0 and you give it an
+  item from the test set that is in class A, what class will it predict
+  and what probability will it give for that class?\tabularnewline
+  \bottomrule
+  \end{longtable}
 \end{itemize}
-
-A model gets a precision score of 1 for class A on a test set with
-classes A, B, and C. If you take one of the test items that is in class
-A and have your model predict what class it is, what will it predict? If
-a model with classes A and B has an AUC score of 1 and you give it an
-item from the test set that is in class A, what class will it predict
-and what probability will it give for that class? If a model with
-classes A and B has an AUC score of 0 and you give it an item from the
-test set that is in class A, what class will it predict and what
-probability will it give for that class?
 
 \end{document}
