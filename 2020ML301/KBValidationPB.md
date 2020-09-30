@@ -29,10 +29,10 @@ Please answer the following questions and briefly explain your answer:
 	- A recall score of 0 for class A means that every item in class A was labeled incorrectly. When given another sample in class A, the model will predict either class B or class C.
 
 - A model gets a precision score of 1 for class A on a test set with classes A, B, and C. If you take one of the test items that is in class A and have your model predict what class it is, what will it predict?
-	- The model could predict any of the three classes. A precision value is only effected by true positive and false positive rate, 
+	- The model could predict any of the three classes. A precision value is only effected by true positive and false positive rate, meaning that when given a sample in class A, predicting C or B would not lower class A's precision.
 	
-	
-If a model with classes A and B has an AUC score of 1 and you give it an item from the test set that is in class A, what class will it predict and what probability will it give for that class?
+- If a model with classes A and B has an AUC score of 1 and you give it an item from the test set that is in class A, what class will it predict and what probability will it give for that class?
+	- 
 If a model with classes A and B has an AUC score of 0 and you give it an item from the test set that is in class A, what class will it predict and what probability will it give for that class?
 
 

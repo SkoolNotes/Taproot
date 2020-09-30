@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1760)}}    % original
-%\rhead{\textrmlf{Compiled }\#1760\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1760\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1761)}}    % original
+%\rhead{\textrmlf{Compiled }\#1761\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1761\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -278,7 +278,9 @@ Please answer the following questions and briefly explain your answer:
   \tightlist
   \item
     The model could predict any of the three classes. A precision value
-    is only effected by true positive and false positive rate,
+    is only effected by true positive and false positive rate, meaning
+    that when given a sample in class A, predicting C or B would not
+    lower class A's precision
   \end{itemize}
 \end{itemize}
 
