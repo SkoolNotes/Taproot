@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1683)}}    % original
-%\rhead{\textrmlf{Compiled }\#1683\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1683\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1684)}}    % original
+%\rhead{\textrmlf{Compiled }\#1684\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1684\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -190,6 +190,8 @@ Charge remaining: capacitance times voltage
 \hypertarget{energy-on-a-capacitor}{%
 \subsection{Energy on a Capacitor}\label{energy-on-a-capacitor}}
 
+A little bit \#disorganized
+
 Energy stored on a capacitor: \(E=\frac{V_c * Q}{2}\).
 
 Charge on a capacitor: \(Q = C \times V_c\)
@@ -202,5 +204,11 @@ be\ldots{}
 \definition[as $Q=C \times V_c$]{Energy stored in a capacitor}{$E=\frac{V \times Q}{2} = \frac{CV^2}{2}$}
 
 \(Q_{cap} \propto V\). In fact \(Q_{cap} = C \times V_c\).
+
+\hypertarget{capacitors-interacting-with-resistance}{%
+\subsection{Capacitors interacting with
+Resistance}\label{capacitors-interacting-with-resistance}}
+
+As you increase the {[}{[}KBhPHYS201Resistance{]}{]}, the voltage
 
 \end{document}

@@ -18,6 +18,9 @@ When you are discharging a capacitor, there is a linear fall in voltage that is 
 Charge remaining: capacitance times voltage
 
 ## Energy on a Capacitor
+
+A little bit #disorganized 
+
 Energy stored on a capacitor: $E=\frac{V_c * Q}{2}$.
 
 Charge on a capacitor: $Q = C \times V_c$
@@ -30,4 +33,5 @@ So, putting this together, the energy stored on a capacitor would be...
 
 $Q_{cap} \propto V$. In fact $Q_{cap} =  C \times V_c$.
 
-
+## Capacitors interacting with Resistance
+As you increase the [[KBhPHYS201Resistance]], the voltage 
