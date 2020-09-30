@@ -42,6 +42,8 @@ OPTION 3: Propose your own analytical adventure
 		- Examples 
 			- Blindfolded woman with torch
 			- Bucket with hole in it
+			- Doctor 
+			- Brickmaker 
 		- Whats the larger concept? 
 
 

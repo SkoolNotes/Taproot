@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1617)}}    % original
-%\rhead{\textrmlf{Compiled }\#1617\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1617\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1618)}}    % original
+%\rhead{\textrmlf{Compiled }\#1618\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1618\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -228,6 +228,9 @@ Thursday?}\label{wait-thesis-is-due-thursday}}
         Blindfolded woman with torch
       \item
         Bucket with hole in it
+      \item
+        Doctor
+      \item
       \end{itemize}
     \item
       Whats the larger concept?
