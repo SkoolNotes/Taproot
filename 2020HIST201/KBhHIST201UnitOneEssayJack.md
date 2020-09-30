@@ -18,7 +18,8 @@ The Ottomans, the Ming and Qing Empires, the Mughals and the European kingdoms a
 Comparing at least two of the regions above. Gelvin (World systems), Mann (silver), Kennedy and Arrighi might be good general frameworks, while Bulliet (Ottomans), Gilbert (Mughals) and McNeill (Europe) can provide some specifics.
 
 ## Documents Corner
-
+- @[[KBhHIST201MannMing]] Current day, emphasis was placed around those in native American regions who were anti-Spanish, yet a large majority of the individuals who really brought globalization were Spanish 
+- 
 
 
 ## Claim Synthesis (Babingtonization)
