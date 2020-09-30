@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1566)}}    % original
-%\rhead{\textrmlf{Compiled }\#1566\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1566\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1567)}}    % original
+%\rhead{\textrmlf{Compiled }\#1567\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1567\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -173,7 +173,9 @@
 Attempted to adopt the model of European universality =\textgreater{}
 one church, one emperor.
 
-But\ldots{} They didn't!
+But\ldots{} They didn't! Because\ldots{}
+
+@{[}{[}KBhHIST201Kissinger{]}{]}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}

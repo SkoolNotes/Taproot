@@ -9,7 +9,9 @@ course: HIST201
 
 Attempted to adopt the model of European universality => one church, one emperor.
 
-But... They didn't! Because..[]().
+But... They didn't! Because...
+
+## 
 
 @[[KBhHIST201Kissinger]]
 
