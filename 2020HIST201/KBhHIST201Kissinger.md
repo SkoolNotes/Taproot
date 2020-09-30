@@ -25,11 +25,7 @@ As a mean to fend off an every-growing HRE threatening France, Cardinal Richaleu
 
 [[KBhHIST201EnglandMediator]]
 
-**CLAIM**: 
-
-> In this manner, Great Britain became the balancer of the European equilibrium, first almost by default, later by conscious strategy. Without Great Britain 's tenacious commitment to that role, France would almost surely have achieved hegemony over Europe in the eighteenth or nine- teenth century, and Germany would have done the same in the modern period.
-
-**Kissinger's Take Home Messages** 
+## Kissinger's Take Home Messages
 
 And I quote:
 
@@ -63,36 +59,3 @@ McNeill
 3. Development of military technology becomes too expensive to do rurally to larger factories in a city: standing army cannot be tracked in a local level
 
 The renessance brings two things: either harness renissance energy to do innovation or harness reformation energy to unify Europe — if someone has the ability to have warfare.
-
-
-
-
-## The People
-
-1.Cardinal Richelieu
-
-2.Ferdinand II
-
-3.Frederick the Great
-
-4.Reformation
-
-5.Counter-Reformation
-
-6.30 Years War
-
-7.7 Years War
-
-8.William III of Orange
-
-9.Louis XIV (Sun King)
-
-10.Napoleon
-
-11.William Pitt
-
-12.Congress of Vienna
-
-13.War of Austrian Succession
-
-14.War of Spanish Succession
