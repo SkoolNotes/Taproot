@@ -113,4 +113,6 @@ course: HIST201
 		* Small city-states with isolated rules
 		* With independent principalities
 
+And now, we are comparing palaces?
+
         
