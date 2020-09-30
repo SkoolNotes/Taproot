@@ -37,3 +37,5 @@ $Q_{cap} \propto V$. In fact $Q_{cap} =  C \times V_c$.
 As you increase the [[KBhPHYS201Resistance]], the a capacitor of the same capacitance would charge slower.
 
 As you fix the Resistance, the capacitor of a higher capacitance would charge quicker.
+
+![Screen Shot 2020-09-30 at 10.42.44 AM.png](Screen Shot 2020-09-30 at 10.42.44 AM.png)
