@@ -40,7 +40,7 @@ As you fix the Resistance, the capacitor of a higher capacitance would charge sl
 
 ![Screen Shot 2020-09-30 at 10.42.44 AM.png](Screen Shot 2020-09-30 at 10.42.44 AM.png)
 
-_Charging time_ is in fairly good agreement with _resistance * capacitance_.
+_Charging time_ is in fairly good agreement with _resistance times capacitance_.
 
 So... #disorganized 
 
