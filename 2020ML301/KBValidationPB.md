@@ -32,7 +32,7 @@ Please answer the following questions and briefly explain your answer:
 	- The model could predict any of the three classes. A precision value is only effected by true positive and false positive rate, meaning that when given a sample in class A, predicting C or B would not lower class A's precision.
 	
 - If a model with classes A and B has an AUC score of 1 and you give it an item from the test set that is in class A, what class will it predict and what probability will it give for that class?
-	- It will predict class a, and give a probability of 100%. This is because an AUC score of 1 represents a perfect model.  
+	- It will predict class A, and give a probability of 100%. This is because an AUC score of 1 represents a perfect model.  
 
 
 If a model with classes A and B has an AUC score of 0 and you give it an item from the test set that is in class A, what class will it predict and what probability will it give for that class?
