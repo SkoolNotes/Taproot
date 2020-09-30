@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1753)}}    % original
-%\rhead{\textrmlf{Compiled }\#1753\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1753\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1754)}}    % original
+%\rhead{\textrmlf{Compiled }\#1754\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1754\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -240,20 +240,22 @@ Please answer the following questions and briefly explain your answer:
       85\%
     \end{itemize}
   \end{itemize}
+\item
+  What is the worst possible score you can get on a dataset that only
+  has two classes?
 \end{itemize}
 
-What is the worst possible score you can get on a dataset that only has
-two classes? A model gets a recall score of 0 for class A on a test set
-with classes A, B, and C. If you take one of the test items that is in
-class A and have this model predict what class it is, what will it
-predict? A model gets a precision score of 1 for class A on a test set
-with classes A, B, and C. If you take one of the test items that is in
-class A and have your model predict what class it is, what will it
-predict? If a model with classes A and B has an AUC score of 1 and you
-give it an item from the test set that is in class A, what class will it
-predict and what probability will it give for that class? If a model
-with classes A and B has an AUC score of 0 and you give it an item from
+A model gets a recall score of 0 for class A on a test set with classes
+A, B, and C. If you take one of the test items that is in class A and
+have this model predict what class it is, what will it predict? A model
+gets a precision score of 1 for class A on a test set with classes A, B,
+and C. If you take one of the test items that is in class A and have
+your model predict what class it is, what will it predict? If a model
+with classes A and B has an AUC score of 1 and you give it an item from
 the test set that is in class A, what class will it predict and what
-probability will it give for that class?
+probability will it give for that class? If a model with classes A and B
+has an AUC score of 0 and you give it an item from the test set that is
+in class A, what class will it predict and what probability will it give
+for that class?
 
 \end{document}
