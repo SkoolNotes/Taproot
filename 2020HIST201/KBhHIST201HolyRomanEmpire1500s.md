@@ -26,4 +26,9 @@ But... They didn't! Because...
 Meanwhile, in France... [[KBhHIST201RaisonDeEtat]]	
 
 ## Counter-Reformation
+A process of "revving Catholic universality".
+
 See [[KBhHIST201CounterReformation]]
+
+## Emperor Ferdinand II
+* 
