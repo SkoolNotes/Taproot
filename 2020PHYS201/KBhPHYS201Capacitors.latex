@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1704)}}    % original
-%\rhead{\textrmlf{Compiled }\#1704\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1704\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1705)}}    % original
+%\rhead{\textrmlf{Compiled }\#1705\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1705\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -248,13 +248,15 @@ Hence,
 \(R \times C = \frac{\cancel{V} \times s}{\cancel{Q}} = \cancel{\frac{Q}{V}}\),
 indeed, has a unit Seconds!
 
-\hypertarget{equations-modeling-charging-their}{%
-\subsection{Equations modeling charging
-their}\label{equations-modeling-charging-their}}
+\hypertarget{equations-modeling-charging-a-capacitor}{%
+\subsection{Equations modeling charging a
+capacitor}\label{equations-modeling-charging-a-capacitor}}
+
+Also defined \(RC = \tau\).
 
 \definition[where $V_b$ is the battery voltage, $t$ is time elapsed, $R$ is resistance, and $C$ is the capacitance]{Current in circuit as you charge a capacitor}{$I(t) = \frac{V_b}{R} \times e^{\frac{-t}{RC}}$}
 
-Also defined \(RC = \tau\).
+As you start to charge a capacitor,
 
 \definition[where $V_b$ is the battery voltage, $t$ is time elapsed, $R$ is resistance, and $C$ is the capacitance]{Voltage before and after a capacitor as you charge a capacitor}{$V(t) = V_b \times (1 - e^{\frac{-t}{RC}})$}
 
