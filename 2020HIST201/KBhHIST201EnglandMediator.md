@@ -12,5 +12,8 @@ source: KBhHIST201Kissinger
 * England's [[KBhHIST201RaisonDeEtat]], CLAIM @[[KBhHIST201Kissinger]] did not require them to expand, for "national interest is in the preservation of European balance."
 * Glorious revolution kicked James II off the throne, chose William of Orange of the Netherlands as replacement
 
+Willam used the fact that if France occupied Belgium, it would surely eat up the Netherlands, to cause England to fight in the war: starting a bitter fight between him and Louis XIV.
 
+## Grand Alliance
+To fight the 
 
