@@ -11,5 +11,11 @@ course: PHYS201
 
 **Capacitors** => Converting $PE_{elec}$ => Eletrical energy
 
-When you are 
+When you are discharging a battery, they remain at constant voltage until they are used up, at which point the voltage drop like a plate.
+ 
+When you are
+
+![[Screen Shot 2020-09-30 at 10.25.03 AM.png]]
+
+Charge remaining: capacitance times voltage
 
