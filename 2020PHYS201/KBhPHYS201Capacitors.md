@@ -52,5 +52,12 @@ Let's check the units!
 * $R = \frac{V}{I}$
 * So... $R = \ohms = \frac{V * s}{C}$
 
-* $Q =
+* $Q = CV$
+* So... $\frac{Q}{V} = C$
+
+Hence, $R \times C$, indeed, has a unit Seconds!
+
+
+
+
 

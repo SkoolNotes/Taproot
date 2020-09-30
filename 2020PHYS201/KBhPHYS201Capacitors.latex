@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1693)}}    % original
-%\rhead{\textrmlf{Compiled }\#1693\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1693\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1694)}}    % original
+%\rhead{\textrmlf{Compiled }\#1694\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1694\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -239,7 +239,11 @@ Let's check the units!
 \item
   So\ldots{} \(R = \ohms = \frac{V * s}{C}\)
 \item
-  \$Q =
+  \(Q = CV\)
+\item
+  So\ldots{} \(\frac{Q}{V} = C\)
 \end{itemize}
+
+Hence, \(R \times C\), indeed, has a unit Seconds!
 
 \end{document}
