@@ -8,6 +8,6 @@ Diversified already! => Preliminary
 
 
 ##
-* Friday at lunch
-* NOT available Friday during lunch, Thursday during lunch
+* Monday, Tuesday, Wednesday during lunch
+* Friday during lunch
 
