@@ -19,6 +19,8 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 
 ## Documents Corner
 
+
+
 ## Claim Synthesis (Babingtonization)
 ### Development phase – How and So-What
 - *CLAIM*
