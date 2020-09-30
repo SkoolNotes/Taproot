@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS201 }
-\newcommand{\thelesson}{ Capacitors }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1711)}}    % original
-%\rhead{\textrmlf{Compiled }\#1711\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1711\textrmlf{ on} \today}       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1791)}}    % original
+%\rhead{\textrmlf{Compiled }\#1791\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1791\textrmlf{ on} \today}       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,8 +164,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBhPHYS201CircuitsIndex}{\tiny\textulf{[[}\textbf{KBhPHYS201CircuitsIndex}\textulf{]]}}}\thinspace
+
+source: KBhPHYS201CircuitsIndex course: PHYS201 ---
 
 \hypertarget{capacitors}{%
 \section{Capacitors}\label{capacitors}}
