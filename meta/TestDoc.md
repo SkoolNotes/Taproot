@@ -72,17 +72,9 @@ $\begin{aligned} &a_1(v_1-v_2) + (a_1+a_2)(v_2-v_3) + (a_1+a_2+a_3)(v_3-v_4) + (
 # Rock
 And here's a rock for good measure:
 
-![](../2020MATH530/Pastedimage20200929160032.png)
+![../Pasted image 20200929184245.png](../Pasted image 20200929184245.png)
 
-Look at these colors!
-
-![](../MISC/Pasted%20image%2020200929165411.png)
-
-![](../MISC/Pasted%20image%2020200929165710.png)
-
-![](../MISC/IMG_1417.jpg)
-
-![../MISC/IMG_1417.jpg](../MISC/IMG_1417.jpg)
+epppic \LaTeX
 
 ---
 

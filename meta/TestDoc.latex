@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1534)}}    % original
-%\rhead{\textrmlf{Compiled }\#1534\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1534\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1540)}}    % original
+%\rhead{\textrmlf{Compiled }\#1540\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1540\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -314,21 +314,13 @@ b_4 &= a_1 + a_2 + a_3 + a_4\\
 
 And here's a rock for good measure:
 
-\includegraphics{../2020MATH530/Pastedimage20200929160032.png}
-
-Look at these colors!
-
-\includegraphics{../MISC/Pasted image 20200929165411.png}
-
-\includegraphics{../MISC/Pasted image 20200929165710.png}
-
-\includegraphics{../MISC/IMG_1417.jpg}
-
 \begin{figure}
 \centering
-\includegraphics{../MISC/IMG_1417.jpg}
-\caption{../MISC/IMG\_1417.jpg}
+\includegraphics{../Pasted image 20200929184245.png}
+\caption{../Pasted image 20200929184245.png}
 \end{figure}
+
+epppic \LaTeX
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

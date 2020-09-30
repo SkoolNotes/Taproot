@@ -12,11 +12,13 @@ while true; do
 
 
     if [[ -n "$taproot_backup_path" ]]; then
-        echo "backup up..."
+        here="$(pwd)"
         rsync -av --exclude '.git*' . "$taproot_backup_path" >> log.txt
+        cd $taproot_backup_path
+        git add -A   > /dev/null
+        git commit -m "automated backup" > /dev/null
+        cd $here
     fi
-
-    continue
 
     if [[ -n "$changes" ]]; then
         #find . -type f -name '*.md' -exec sed -i'' -e 's/\/Users\/houliu\/Documents\/School Work\/2020\-2021\/KnowledgeBase/./g' {} +
