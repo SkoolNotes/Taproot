@@ -23,8 +23,6 @@ As a mean to fend off an every-growing HRE threatening France, Cardinal Richaleu
 
 
 
-* Edict of reinstatution
-  * Demanded land taken by protestants since 1555 be returned
 * Richelieu subsidized the Protestant German fight against HRE
 * Unique and novel secular support (especially because Richelieu himself is a Catholic)
 * In the French national interest => prevented HRE encirclement of France
