@@ -15,7 +15,8 @@ Please answer the following questions and briefly explain your answer:
 		- The highest possible score is 1, representing a perfect fit. In order to achieve an R^2 of 1, the error must be 0. 
 	- If your model simply predicted the average value of the training set no matter what the input was, what score would you get on a test set whose average matched that of the training set?
 		- The score would be 0, as the denominator and numerator would be equal. This would result in the equation 1-1, which equals 0. 
-What is the lowest score that you can get?
+	- What is the lowest score that you can get?
+		- Negative infinity. 
 When using accuracy to measure your model's performance on a classification problem:
 What is the best possible score you could get?
 If your model always predicted the same class no matter what the input, what score would you get on a test set where 85% of the items were in that class?
