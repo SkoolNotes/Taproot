@@ -50,5 +50,7 @@ Let's check the units!
 
 * $V = IR$
 * $R = \frac{V}{I}$
-* So... R = 
+* So... $R = \ohms = \frac{V * s}{C}$
+
+* $Q =
 
