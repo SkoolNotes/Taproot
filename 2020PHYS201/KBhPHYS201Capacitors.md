@@ -15,8 +15,6 @@ When you are discharging a battery, they remain at constant voltage until they a
  
 When you are discharging a capacitor, there is a linear fall in voltage that is constant.
 
-![Screen Shot 2020-09-30 at 10.25.03 AM.png](Screen Shot 2020-09-30 at 10.25.03 AM.png)
-
 Charge remaining: capacitance times voltage
 
 ## Energy on a Capacitor
@@ -28,4 +26,4 @@ Farads: $F = \frac{C}{V}$
 
 So, putting this together, the energy stored on a capacitor would be...
 
-\definition{Energy stored in a capacitor}{$E=\frac{V \times Q}{2} = }
+\definition[as $Q=C \times V_c$]{Energy stored in a capacitor}{$E=\frac{V \times Q}{2} = \frac{CV^2}{2}$}
