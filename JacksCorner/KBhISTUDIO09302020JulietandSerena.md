@@ -27,5 +27,6 @@ Waaay back in the beginning...
 			* Learn about when tics happen
 			* Learn about a competing response to the tic
 			* Profit!
-	* s 
+			
+*  
 
