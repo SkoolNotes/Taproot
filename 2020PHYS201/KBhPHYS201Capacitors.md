@@ -20,5 +20,8 @@ When you are discharging a capacitor, there is a linear fall in voltage that is 
 Charge remaining: capacitance times voltage
 
 ## Energy on a Capacitor
-$E=\frac{V_c * Q}{2}$.
+Energy stored on a capacitor: $E=\frac{V_c * Q}{2}$.
+
+Charge on a capacitor: $Q = C \times V_c$
+
 
