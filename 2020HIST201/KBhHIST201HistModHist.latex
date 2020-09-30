@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1638)}}    % original
-%\rhead{\textrmlf{Compiled }\#1638\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1638\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1639)}}    % original
+%\rhead{\textrmlf{Compiled }\#1639\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1639\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -307,5 +307,7 @@ self-government as it grows and requires more and more attention
   \textbf{Extraction}: The act of securing the means to execute the
   previous three activities, such as the collection of taxes or revenue.
 \end{enumerate}
+
+\#flo
 
 \end{document}
