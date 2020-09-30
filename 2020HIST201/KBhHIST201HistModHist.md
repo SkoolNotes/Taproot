@@ -72,5 +72,5 @@ Merchantilist Empires => Merchants => Trade
 		* Coinage
 		* and Court 
 		* (all vested on the authority of the government)
-	*  
+	* Mostly private investors and a capitalist model 
 
