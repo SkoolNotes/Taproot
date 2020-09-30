@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1622)}}    % original
-%\rhead{\textrmlf{Compiled }\#1622\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1622\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1623)}}    % original
+%\rhead{\textrmlf{Compiled }\#1623\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1623\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,10 +175,22 @@
 
 \begin{longtable}[]{@{}lll@{}}
 \toprule
-Due Date & Topic & Important Documents\tabularnewline
+\begin{minipage}[b]{0.30\columnwidth}\raggedright
+Due Date\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+Topic\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+Important Documents\strut
+\end{minipage}\tabularnewline
 \midrule
 \endhead
-DUE DATE & TOPIC & DOCUMENTS, HERE\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+Oct 12th\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+Hegemony and competition in the early modern world\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+DOCUMENTS, HERE\strut
+\end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
 

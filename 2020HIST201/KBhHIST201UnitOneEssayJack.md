@@ -10,7 +10,7 @@ course: HIST201
 
 | Due Date | Topic | Important Documents |
 | :-- | :-- | :-- |
-| DUE DATE | TOPIC | DOCUMENTS, HERE |
+| Oct 12th | Hegemony and competition in the early modern world | DOCUMENTS, HERE |
 
 ## Prompt
 THE PROMPT
