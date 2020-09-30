@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1755)}}    % original
-%\rhead{\textrmlf{Compiled }\#1755\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1755\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1756)}}    % original
+%\rhead{\textrmlf{Compiled }\#1756\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1756\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -251,7 +251,8 @@ Please answer the following questions and briefly explain your answer:
     \setcounter{enumi}{-1}
     \tightlist
     \item
-      Every sample could be sorted incorrectly.
+      Every sample could be sorted incorrectly as long as there is more
+      than one class.
     \end{enumerate}
   \end{itemize}
 \end{itemize}
