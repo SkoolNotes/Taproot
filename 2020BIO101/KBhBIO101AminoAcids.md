@@ -89,3 +89,6 @@ Hemoglobin does this! It contains multiple sets of side chains that needs foldin
 
 
 #flo #disorganized
+
+## Enzymes
+A specific type of proteins that's... kinda fun! [[KBhBIO101Enzymes]]
