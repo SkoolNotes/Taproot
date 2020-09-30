@@ -1,4 +1,5 @@
 
+
 * Paper "trying to be inconclusive" because they don't want to be wrong
 * Not very conclusive
 	* Venus less studied
@@ -9,3 +10,7 @@
 	
 Suggestion: lead in with Fermi's paradox?
 
+Flow of presentation
+
+* Talk about the fact that people have not been looking at Venus
+* 
