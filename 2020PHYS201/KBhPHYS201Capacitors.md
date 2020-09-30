@@ -15,7 +15,10 @@ When you are discharging a battery, they remain at constant voltage until they a
  
 When you are discharging a capacitor, there is a linear fall in voltage that is constant.
 
-![[Screen Shot 2020-09-30 at 10.25.03 AM.png]]
+![Screen Shot 2020-09-30 at 10.25.03 AM.png](Screen Shot 2020-09-30 at 10.25.03 AM.png)
 
 Charge remaining: capacitance times voltage
+
+## Energy on a Capacitor
+$E=\frac{V_c * Q}{2}$.
 
