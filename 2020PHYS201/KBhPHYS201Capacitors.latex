@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{ PHYS201 }
-\newcommand{\thelesson}{ Circuits }
+\newcommand{\thelesson}{ Capacitors }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -165,56 +165,8 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBPhysicsMasterIndex}{\tiny\textulf{[[}\textbf{KBPhysicsMasterIndex}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhPHYS201CircuitsIndex}{\tiny\textulf{[[}\textbf{KBhPHYS201CircuitsIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{circuits}{%
-\section{Circuits}\label{circuits}}
 
-\hypertarget{some-key-vocab}{%
-\subsection{Some key vocab\ldots{}}\label{some-key-vocab}}
-
-\hypertarget{current}{%
-\subsubsection{Current}\label{current}}
-
-Current is a measure for the flow of electrons. Think about it as ``how
-much water goes through this arbitrary box on this river per second''.
-
-See {[}{[}KBhPHYS201Current{]}{]}
-
-\hypertarget{resistance}{%
-\subsubsection{Resistance}\label{resistance}}
-
-Resistance is a measure of the restriction of electron flow (and hence
-decrease of voltage --- the pressure of electrons), for instance, a
-lovely resistor.
-
-{[}{[}KBhPHYS201Resistance{]}{]} Resistance
-
-Rule of thumb:
-
-\begin{itemize}
-\tightlist
-\item
-  \emph{current does change when resistors are parallel, current does
-  not change when resistors are in sequence.}
-\item
-  \emph{voltage splits in half when encountering a parallel circuit,
-  current splits, but not in half, based on the capacitance on each of
-  the parallel circuits.}
-\end{itemize}
-
-\hypertarget{capacitors}{%
-\subsubsection{Capacitors}\label{capacitors}}
-
-{[}{[}KBhPHYS201Capacitors{]}{]}
-
-\hypertarget{circuit-calculations}{%
-\subsection{Circuit Calculations}\label{circuit-calculations}}
-
-Learning all this map and vocab is not really helpful in itself.
-However, it becomes super helpful when it could help you figure out
-mathematically different expected values in a circuit!
-
-See {[}{[}KBhPHYS201CircuitCalculations{]}{]}
 
 \end{document}

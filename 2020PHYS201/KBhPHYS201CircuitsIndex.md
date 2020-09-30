@@ -22,7 +22,11 @@ Rule of thumb:
 - *current does change when resistors are parallel, current does not change when resistors are in sequence.*
 - *voltage splits in half when encountering a parallel circuit, current splits, but not in half, based on the capacitance on each of the parallel circuits.*
 
+### Capacitors
+[[KBhPHYS201Capacitors]]
+
 ## Circuit Calculations
 Learning all this map and vocab is not really helpful in itself. However, it becomes super helpful when it could help you figure out mathematically different expected values in a circuit!
 
 See [[KBhPHYS201CircuitCalculations]]
+
