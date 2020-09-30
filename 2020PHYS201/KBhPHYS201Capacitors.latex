@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1674)}}    % original
-%\rhead{\textrmlf{Compiled }\#1674\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1674\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1675)}}    % original
+%\rhead{\textrmlf{Compiled }\#1675\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1675\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,7 +179,16 @@
 \textbf{Capacitors} =\textgreater{} Converting \(PE_{elec}\)
 =\textgreater{} Eletrical energy
 
-When you are discharging a bat
+When you are discharging a battery, they remain at constant voltage
+until they are used up, at which point the voltage drop like a plate.
+
+When you are discharging a capacitor,
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-09-30 at 10.25.03 AM.png}
+\caption{Screen Shot 2020-09-30 at 10.25.03 AM.png}
+\end{figure}
 
 Charge remaining: capacitance times voltage
 
