@@ -29,6 +29,6 @@ Waaay back in the beginning...
 			* Profit!
 			
 * Needs
-	* Sounds like they need ML engineers!
-	* And also Fab + material science people => 
+	* Sounds like they need ML engineers! => Hard to distingush tics
+	* And also Fab + material science people => Skin contact causes tics
 
