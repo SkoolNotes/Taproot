@@ -55,7 +55,7 @@ Let's check the units!
 * $Q = CV$
 * So... $\frac{Q}{V} = C$
 
-Hence, $R \times C = \frac{\cancel{V} * s}{\cancel{Q} = \cancel{frac{Q}{V}}}$, indeed, has a unit Seconds!
+Hence, $R \times C = \frac{\cancel{V} \times s}{\cancel{Q}} = \cancel{\frac{Q}{V}}$, indeed, has a unit Seconds!
 
 
 

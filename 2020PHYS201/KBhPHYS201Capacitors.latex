@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1695)}}    % original
-%\rhead{\textrmlf{Compiled }\#1695\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1695\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1696)}}    % original
+%\rhead{\textrmlf{Compiled }\#1696\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1696\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -245,7 +245,7 @@ Let's check the units!
 \end{itemize}
 
 Hence,
-\(R \times C = \frac{\cancel{V} * s}{\cancel{Q} = \cancel{frac{Q}{V}}}\),
+\(R \times C = \frac{\cancel{V} \times s}{\cancel{Q}} = \cancel{\frac{Q}{V}}\),
 indeed, has a unit Seconds!
 
 \end{document}
