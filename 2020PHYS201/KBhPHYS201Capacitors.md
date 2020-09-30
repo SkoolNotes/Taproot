@@ -44,4 +44,11 @@ _Charging time_ is in fairly good agreement with _resistance * capacitance_.
 
 So... #disorganized 
 
-Experimentally, "Charging time", $\tau$, $\approx R \times C$.
+Experimentally, "Charging time", $\tau$ $\approx R \times C$.
+
+Let's check the units!
+
+* $V = IR$
+* $R = \frac{V}{I}$
+* So... R = 
+
