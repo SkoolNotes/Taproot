@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1706)}}    % original
-%\rhead{\textrmlf{Compiled }\#1706\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1706\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1707)}}    % original
+%\rhead{\textrmlf{Compiled }\#1707\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1707\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -256,7 +256,8 @@ Also defined \(RC = \tau\).
 
 \definition[where $V_b$ is the battery voltage, $t$ is time elapsed, $R$ is resistance, and $C$ is the capacitance]{Current in circuit as you charge a capacitor}{$I(t) = \frac{V_b}{R} \times e^{\frac{-t}{RC}}$}
 
-As you start to charge a capacitor, the current
+As you start to charge a capacitor, the current starts at
+\(\frac{V_b}{R}\) --- current just without
 
 \definition[where $V_b$ is the battery voltage, $t$ is time elapsed, $R$ is resistance, and $C$ is the capacitance]{Voltage before and after a capacitor as you charge a capacitor}{$V(t) = V_b \times (1 - e^{\frac{-t}{RC}})$}
 
