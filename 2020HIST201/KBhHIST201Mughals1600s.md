@@ -98,4 +98,8 @@ course: HIST201
     * Marathas won great parts of Mughal territory
         * Empire's rulers force to pay tribute to Marathas
         * Others paid a largely symbolic to the Mughals
+
+***
+
+		
         
