@@ -21,13 +21,7 @@ CLAIM: European balance of power system emerged after medieval collapse
 As a mean to fend off an every-growing HRE threatening France, Cardinal Richaleu came up with a system named [[KBhHIST201RaisonDeEtat]] that promises to be a better system of government.
 
 
-
-
-* Conquest made Prussia a "_bona-fide_ Great Power"
-* Prussia joined by France, Spain, etc. in war of 1740-1748
-* In 1756-1763, switched sides
-* CLAIM: pure result of calculations of benefit
-* Nonsecular wars less violent than holy wars because CLAIM: they did not involve emotion
+* 
 * England mediated
 * Policy based on throwing itself into the weaker side
 * King William III engineered this
