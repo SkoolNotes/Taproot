@@ -25,9 +25,6 @@ As a mean to fend off an every-growing HRE threatening France, Cardinal Richaleu
 
 [[KBhHIST201EnglandMediator]]
 
-* England mediated
-* Policy based on throwing itself into the weaker side
-* King William III engineered this
 * _Raison d'etat_ did not require expansion, for "national interest to be in the preservation of the European balance"
 * Glorious revolution kicked James II off the throne, chose William of Orange of the Netherlands as replacement
 * Used the fact that if France occupied Belgium, it would surely eat up the Netherlands, to cause England to fight in the war
