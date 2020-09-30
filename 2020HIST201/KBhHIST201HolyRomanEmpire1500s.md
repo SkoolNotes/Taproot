@@ -23,4 +23,4 @@ But... They didn't! Because...
 	* Hasburg dynasty + combination with Spanish royalty => Über powerful HRE => Almost centralized nation
 	* Yet, eventually weakened pope brought end to religious universality, which brought end to that centralized Europe idea
 	
-	
+Meanwhile, in France... [[KBhHIST201RaisonDeEtat]]	

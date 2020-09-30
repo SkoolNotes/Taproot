@@ -17,7 +17,6 @@ CLAIM: European balance of power system emerged after medieval collapse
 ### The Holy Roman Empire
 [[KBhHIST201HolyRomanEmpire1500s]]
 
-
 * Raison d'etat
 	* _Each state depended on the other. The well being of the state justified whatever means were employed to further it. The national interest supplanted the medival notion of a universal morality._
 		* Balance of power became dominant
