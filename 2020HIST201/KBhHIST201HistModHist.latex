@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1664)}}    % original
-%\rhead{\textrmlf{Compiled }\#1664\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1664\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1665)}}    % original
+%\rhead{\textrmlf{Compiled }\#1665\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1665\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -311,5 +311,7 @@ self-government as it grows and requires more and more attention
 \#flo \#disorganized
 
 Merchantilist Empires =\textgreater{} Merchants =\textgreater{} Trade
+
+Parchigual
 
 \end{document}
