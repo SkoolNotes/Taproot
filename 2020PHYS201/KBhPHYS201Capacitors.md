@@ -58,6 +58,7 @@ Let's check the units!
 Hence, $R \times C = \frac{\cancel{V} \times s}{\cancel{Q}} = \cancel{\frac{Q}{V}}$, indeed, has a unit Seconds!
 
 
+$I(t) = \frac{}
 
 
 
