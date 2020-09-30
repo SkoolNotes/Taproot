@@ -12,4 +12,5 @@ Diversified already! => Preliminary
 
 Focused on arthiritus
 
-
+* Have not had a user meeting
+* Found users as Lucie's  grandma 

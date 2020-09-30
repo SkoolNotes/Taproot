@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1721)}}    % original
-%\rhead{\textrmlf{Compiled }\#1721\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1721\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1722)}}    % original
+%\rhead{\textrmlf{Compiled }\#1722\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1722\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,5 +182,13 @@ Diversified already! =\textgreater{} Preliminary
 \end{itemize}
 
 Focused on arthiritus
+
+\begin{itemize}
+\tightlist
+\item
+  Have not had a user meeting
+\item
+  Found users as Lucie's grandma
+\end{itemize}
 
 \end{document}
