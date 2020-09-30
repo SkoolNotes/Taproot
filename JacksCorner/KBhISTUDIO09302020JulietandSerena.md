@@ -34,5 +34,7 @@ Waaay back in the beginning...
 
 Meet: Wednesdays
 
-Prototyping
+Prototyping =>
+
+And also work on branding.
 

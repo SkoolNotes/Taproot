@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1821)}}    % original
-%\rhead{\textrmlf{Compiled }\#1821\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1821\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1822)}}    % original
+%\rhead{\textrmlf{Compiled }\#1822\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1822\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -237,6 +237,8 @@ Waaay back in the beginning\ldots{}
 
 Meet: Wednesdays
 
-Prototyping
+Prototyping =\textgreater{}
+
+And also work on branding.
 
 \end{document}
