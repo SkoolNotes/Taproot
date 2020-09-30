@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1645)}}    % original
-%\rhead{\textrmlf{Compiled }\#1645\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1645\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1646)}}    % original
+%\rhead{\textrmlf{Compiled }\#1646\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1646\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -204,6 +204,25 @@ Understanding}\label{mechanistic-understanding}}
     \begin{itemize}
     \tightlist
     \item
+      With this data you can draw two conclusions
+
+      \begin{itemize}
+      \tightlist
+      \item
+        We are in a world where we are stressed
+      \item
+        We are a world where we aren't stressed
+      \end{itemize}
+    \item
+      There has to be one or the other
+
+      \begin{itemize}
+      \tightlist
+      \item
+        The evidence supports the first one, but one cannot prove
+        anything
+      \item
+      \end{itemize}
     \end{itemize}
   \end{itemize}
 \end{itemize}

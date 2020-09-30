@@ -10,4 +10,9 @@
 	 - Evidence may describe a pattern, but as soon as any theory or interpretation is applied it
 		 - One of De's mentors called this religion vs evidence
 	 - Example: He takes a survey that has us all saying that we feel relatively safe, but we don't feel calm and we feel stressed out
-		 - With this data you can 
+		 - With this data you can draw two conclusions
+			 - We are in a world where we are stressed
+			 - We are a world where we aren't stressed
+		 - There has to be one or the other
+			 - The evidence supports the first one, but one cannot prove anything
+			 - 
