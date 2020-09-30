@@ -24,4 +24,10 @@ CLAIM @[[KBhHIST201Kissinger]] — too much power without morality is no good, f
 
 * **Louis XIV**, under the guidance of [[KBhHIST201FrenchRichelieuAndRaisonDeEtat]], gone trigger happy on the expansion
 * Ultimately, this is detrimental
-	* 
+	* When most states starts being fully rational and not at all moral, this becomes less fun 
+	* If no one else is expanding, a country will keep taking advantage of others, which... does not make you a lot of friends
+	
+> Under Raison d'etat, "The stronger would seek to dominate, and the weaker would resist by forming coalitions to augment their individual strengths"
+
+
+
