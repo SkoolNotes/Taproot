@@ -45,9 +45,10 @@ Choose a word, motif, pattern, or character that you’ve noticed throughout the
 ### The Claim
 **Through tracking the motif of Kurtz's — and, to a lesser extent, Marlow's — interaction with enchantment and its subsequent effect to the characters in the _Heart of Darkness_, 
 
-
-
 This may end up sounding racist — Conrad warns of the potentially crippling and reciprocal effect of the misguided exploitation of the "charm" that exists within the African lands by Europeans. (Could accidentally justify Conrad.)
+
+
+CITE in intro/conclusion of Achebe's analysis...
 
 - Africa has inherent, not necessarily negative charm
     - EA: it attracted Marlow there
