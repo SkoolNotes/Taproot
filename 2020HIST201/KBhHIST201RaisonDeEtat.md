@@ -14,5 +14,5 @@ A method of "sensible government" that promises to set aside personal ideologica
 
 ## Exhibit A: France!
 
-[[KBhHIST201FrenchRaisonDeEtat]]
+[[KBhHIST201FrenchRichelieuAndRaisonDeEtat]]
 
