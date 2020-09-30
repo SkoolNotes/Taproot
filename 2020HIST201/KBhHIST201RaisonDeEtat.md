@@ -12,7 +12,7 @@ course: HIST201
 	
 A method of "sensible government" that promises to set aside personal ideological differences for the betterment of the country as a whole.	
 
-This makes politics non-secular, which means... Nonsecular wars less violent than holy wars because CLAIM: they did not involve emotion
+This makes politics non-secular, which means... Nonsecular wars less violent than holy wars because CLAIM [[KBhHIST201Kissinger]]: they did not involve emotion
 
 ## Exhibit A: France!
 

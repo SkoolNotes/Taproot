@@ -21,7 +21,10 @@ CLAIM: European balance of power system emerged after medieval collapse
 As a mean to fend off an every-growing HRE threatening France, Cardinal Richaleu came up with a system named [[KBhHIST201RaisonDeEtat]] that promises to be a better system of government.
 
 
-* 
+## England, the Mediator
+
+[[KBhHIST201EnglandMediator]]
+
 * England mediated
 * Policy based on throwing itself into the weaker side
 * King William III engineered this
