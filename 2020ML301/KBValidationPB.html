@@ -115,10 +115,21 @@ html {
             </ul></li>
             <li><p>A model gets a precision score of 1 for class A on a test set with classes A, B, and C. If you take one of the test items that is in class A and have your model predict what class it is, what will it predict?</p>
             <ul>
-            <li><p>The model could predict any of the three classes. A precision value is only effected by true positive and false positive rate, meaning that when given a sample in class A, predicting C or B would not lower class A’s precision</p></li>
+            <li><p>The model could predict any of the three classes. A precision value is only effected by true positive and false positive rate, meaning that when given a sample in class A, predicting C or B would not lower class A’s precision.</p></li>
             </ul></li>
+            <li><table>
+            <thead>
+            <tr class="header">
+            <th style="text-align: right;">a model with classes A and B has an AUC score of 1 and you give it an item from the test set that is in class A, what class will it predict and what probability will it give for that class?</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr class="odd">
+            <td style="text-align: right;">a model with classes A and B has an AUC score of 0 and you give it an item from the test set that is in class A, what class will it predict and what probability will it give for that class?</td>
+            </tr>
+            </tbody>
+            </table></li>
             </ul>
-            <p>If a model with classes A and B has an AUC score of 1 and you give it an item from the test set that is in class A, what class will it predict and what probability will it give for that class? If a model with classes A and B has an AUC score of 0 and you give it an item from the test set that is in class A, what class will it predict and what probability will it give for that class?</p>
         </div>
 
         <script>
