@@ -23,7 +23,6 @@ As a mean to fend off an every-growing HRE threatening France, Cardinal Richaleu
 
 
 
-* In the French national interest => prevented HRE encirclement of France
 * Raison d'etat extention and failure
 * Too much power without morals is no good
 * Louis XIV over exploited the rest of europe

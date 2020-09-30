@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ HIST201 }
-\newcommand{\thelesson}{ deRichelieu and French Raison de Etat }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -125,7 +125,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1598)}}    % original
 %\rhead{\textrmlf{Compiled }\#1598\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#1598\textrmlf{ on} \today}       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,55 +164,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBhHIST201RaisonDeEtat}{\tiny\textulf{[[}\textbf{KBhHIST201RaisonDeEtat}\textulf{]]}}}\thinspace
 
-\hypertarget{derichelieus-raison-de-etat}{%
-\section{deRichelieu's Raison de
-Etat}\label{derichelieus-raison-de-etat}}
-
-\hypertarget{background}{%
-\subsection{Background}\label{background}}
-
-\begin{itemize}
-\tightlist
-\item
-  Near-death of HRE would allow France to expand eastwards
-\item
-  Needed a way of fending off the ever-growing HRE
-\end{itemize}
-
-So, in comes\ldots{}
-
-\hypertarget{cardinal-de-richelieu}{%
-\subsection{Cardinal de Richelieu}\label{cardinal-de-richelieu}}
-
-``Father of the modern state system.''
-
-Proposed and practiced {[}{[}KBhHIST201RaisonDeEtat{]}{]} in France
-
-\begin{itemize}
-\tightlist
-\item
-  Richelieu is secular as minister, while salvation is only a personal
-  objective =\textgreater{} conflict with
-  {[}{[}KBhHIST201HolyRomanEmpire1500s{]}{]} Ferdinand's beliefs
-\item
-  ``The state has no immorality'' =\textgreater{} acting on the state
-  means acting either now or never
-\item
-  CLAIM @{[}{[}KBhHIST201Kissinger{]}{]} --- HRE would have expanded
-  more if they agreed to work with the protestants who were totally fine
-  with HRE dominating politically
-\end{itemize}
-
-\hypertarget{acts-of-raison-de-etat}{%
-\subsubsection{Acts of Raison de 'Etat}\label{acts-of-raison-de-etat}}
-
-Richeliu Subsidized the protestant German fight against the
-{[}{[}KBhHIST201HolyRomanEmpire1500s{]}{]} for it was in the French
-national interest evens against his religion.
-
-Unique and novel secular support of a given that he himself is Catholic.
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}
