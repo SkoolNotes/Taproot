@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1717)}}    % original
-%\rhead{\textrmlf{Compiled }\#1717\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1717\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1718)}}    % original
+%\rhead{\textrmlf{Compiled }\#1718\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1718\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,6 +180,8 @@ Diversified already! =\textgreater{} Preliminary
   Monday, Tuesday, Wednesday during lunch
 \item
   Friday during lunch
+\item
+  Tuesday during lunch
 \end{itemize}
 
 \end{document}
