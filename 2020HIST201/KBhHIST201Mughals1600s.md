@@ -121,4 +121,4 @@ And now, we are comparing palaces?
 	
 * Agra constructed to be a mix of religions
 	* Instead of meeting people in the strictly Muslim seat of power, meet at a more.... fortified place
-	* Both asserted power in to Tokata and appeased ethnicty in the summer palace
+	* Both asserted power in to Tokata and appeased ethnicity in the summer palace
