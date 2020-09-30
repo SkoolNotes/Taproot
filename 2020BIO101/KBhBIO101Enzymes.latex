@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1787)}}    % original
-%\rhead{\textrmlf{Compiled }\#1787\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1787\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1788)}}    % original
+%\rhead{\textrmlf{Compiled }\#1788\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1788\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -225,7 +225,8 @@ The process of enzymes doing things.
 \item
   The enzyme rearrange itself slightly to hold the enzyme in place
 \item
-  A active sites cofactor
+  A cofactor (``catalyst to the catalyst'') also bind to the active
+  sites
 \end{enumerate}
 
 \end{document}
