@@ -23,7 +23,7 @@ See [[KBhHIST201ChinasDeclineWRTReopening]]
 
 See [[KBhHIST201ChinasDeclineWRTCurrency]]
 
-## China's Centralization
-* Decentralized? => Ports had almost no central controlal
-* Centralized?  => Goverment structure centralized, but infighting and smuggling 
-* Centralized policy manuvors lead to local chaos that could only be addressed to local control, but central control got too big
+## China's Centralization Argument
+* Decentralized? => Ports had almost no central control
+* Centralized?  => Government structure centralized, but infighting and smuggling 
+* Centralized policy maneuvers lead to local chaos that could only be addressed to local control, but central control got too big

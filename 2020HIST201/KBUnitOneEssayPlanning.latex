@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1554)}}    % original
-%\rhead{\textrmlf{Compiled }\#1554\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1554\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1556)}}    % original
+%\rhead{\textrmlf{Compiled }\#1556\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1556\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -191,6 +191,8 @@ Essay option 2: According to Charles Tilly’s “bellicist” theory of state f
 \begin{itemize}
 \tightlist
 \item
+  Broa
+\item
   Bellicist theory is \textbf{INCOMPLETE} (duhn duhn dunnnnn!)
 
   \begin{itemize}
@@ -216,6 +218,16 @@ Essay option 2: According to Charles Tilly’s “bellicist” theory of state f
   \end{itemize}
 \item
   How does Bellicist theory incorporate trade?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Is this managed by the state?
+  \item
+    Only talks about interactions with other states if they are war.
+  \item
+    Does trade require state-made organization?
+  \end{itemize}
 \end{itemize}
 
 \end{document}
