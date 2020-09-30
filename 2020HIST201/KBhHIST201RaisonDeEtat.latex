@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Raison d'etat }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1572)}}    % original
-%\rhead{\textrmlf{Compiled }\#1572\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1572\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1573)}}    % original
+%\rhead{\textrmlf{Compiled }\#1573\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1573\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,10 +164,18 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201HolyRomanEmpire1500s}{\tiny\textulf{[[}\textbf{KBhHIST201HolyRomanEmpire1500s}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201Kissinger}{\tiny\textulf{[[}\textbf{KBhHIST201Kissinger}\textulf{]]}}}\thinspace
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{raison-detat}{%
+\section{Raison d'etat}\label{raison-detat}}
 
-title: Raison d'etat author: Houjun Liu source: -
-KBhHIST201HolyRomanEmpire1500s - KBhHIST201Kissinger
+\begin{quote}
+Each state depended on the other. The well being of the state justified
+whatever means were employed to further it. The national interest
+supplanted the medieval notion of a universal morality. ---
+KBhHIST201Kissinger
+\end{quote}
 
 \end{document}
