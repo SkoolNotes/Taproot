@@ -29,7 +29,7 @@ Essay option 2: According to Charles Tilly’s “bellicist” theory of state f
 		- Three paragraphs, three examples where other forms of danger required statemaking
 		- End with some conclustion about the concept of models / theories? 
 	- Easy essay if I can get evidence
-	- 
+- How does bellicist theory incorporate trade? 
 
 
 
