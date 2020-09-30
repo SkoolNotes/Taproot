@@ -33,4 +33,6 @@ See [[KBhHIST201CounterReformation]]
 ## Emperor Ferdinand II
  Practiced the... well... opposite of [[KBhHIST201RaisonDeEtat]] => Religion + Morality > state interest
  
-*  Refused to treaty with Muslim Turks + Prote
+*  Refused to treaty with Muslim Turks + Protestant Swedes
+*  "Less concerned with the Empire's welfare than that of the will of God ... The state existed to serve the religion ... for Ferdinand" -- [[KBhHIST201Kissinger]]
+*  
