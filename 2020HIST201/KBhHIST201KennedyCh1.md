@@ -10,7 +10,7 @@ source: KBHistoryMasterIndex
 ## Situations with Europe, pre 1500
 > 1500, the date chosen … to mark the divide between modern and pre-modern times.
 
-See [[KBhHIST201EuropeOnTheBrink]]
+See [[KBhHIST201Europe1500s]]
    
 ## The Early Global Players
 Although it was not evident to see Europe's boom in the 1500 in, well, the 1500, there were definitely great centres of tho world at the time.
