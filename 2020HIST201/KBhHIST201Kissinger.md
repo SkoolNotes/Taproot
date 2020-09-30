@@ -11,10 +11,12 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
 
 CLAIM: European balance of power system emerged after medieval collapse
 
-## Euro
+## European Power Balance
+**Development into model of "universality" => one emperor, one church**
 
-* Development into model of "universality" => one emperor, one church
-* If the Holy Roman Emperor were to actually succeed, all of Europe would become auxillaries to it 
+[[aeu]]
+
+* If the Holy Roman Emperor were to actually succeed, all of Europe would become auxiliaries to it 
     * So, why no central control?
         1. Lack of transportation and communication systems made tying largue countries together difficult
         2. HRE had separation between church and state, which makes the authority less authoritative
