@@ -61,6 +61,6 @@ To reach **world hegemony** (become the world leader) — change the world order
  
 #flo  #disorganized 
 
-
+Merchantilist Empires => Merchants => Trade
 
  
