@@ -28,4 +28,4 @@ The process of enzymes doing things.
 3. A cofactor ("catalyst to the catalyst")  also bind to the active sites
 
 
-Enzymes minimize the **activation en
+Enzymes minimize the **activation energy hump**
