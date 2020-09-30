@@ -35,7 +35,10 @@ OPTION 3: Propose your own analytical adventure
 
 ## Wait, thesis is due Thursday?
 
-
+- Topics
+	- Futility? 
+		- Imagery of
+	- 
 
 
 
