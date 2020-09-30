@@ -8,8 +8,8 @@ course: HIST201
 # Unit 1 Essay
 ## General Information
 
-| Due Date | Topic | Important Documents |
-| :-- | :-- | :-- |
+| Due Date | Topic                                              | Important Documents        |
+|----------|----------------------------------------------------|----------------------------|
 | Oct 12th | Hegemony and competition in the early modern world | Kennedy, Mann, and Friends |
 
 ## Prompt
