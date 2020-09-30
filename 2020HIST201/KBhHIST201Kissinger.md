@@ -23,7 +23,6 @@ As a mean to fend off an every-growing HRE threatening France, Cardinal Richaleu
 
 
 
-* CLAIM: Federick the Great's decision to invade Silesia was pure strategy move
 * Conquest made Prussia a "_bona-fide_ Great Power"
 * Prussia joined by France, Spain, etc. in war of 1740-1748
 * In 1756-1763, switched sides

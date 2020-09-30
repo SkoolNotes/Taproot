@@ -19,6 +19,11 @@ A method of "sensible government" that promises to set aside personal ideologica
 ## Exhibit B: Federick the Great
 CLAIM @[[KBhHIST201Kissinger]]: Federick the Great's decision to invade Silesia was pure strategy move
 
+1. Conquest made Prussia a "_bona-fide_ Great Power"
+2. Prussia joined by France, Spain, etc. in war of 1740-1748
+3. In 1756-1763, switched sides
+
+CLAIM @[[KBhHIST201Kissinger]]: the side-switching was a pure result of calculations of benefit
 
 ## Failure and Overextension
 
