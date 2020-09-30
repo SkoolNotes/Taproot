@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1714)}}    % original
-%\rhead{\textrmlf{Compiled }\#1714\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1714\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1715)}}    % original
+%\rhead{\textrmlf{Compiled }\#1715\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1715\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -170,5 +170,10 @@
 First meeting last Monday.
 
 Diversified already! =\textgreater{} Preliminary
+
+\begin{itemize}
+\tightlist
+\item
+\end{itemize}
 
 \end{document}
