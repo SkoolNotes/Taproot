@@ -117,4 +117,8 @@ And now, we are comparing palaces?
 
 * Chende constructed to match people's religions
 	* Instead of meeting people in the impressively Han seat of power, meet at a more relaxed place
-	* Both asserted power in the main palace
+	* Both asserted power in the main palace and appeased ethnicity in the summer palace
+	
+* Agra constructed to be a mix of religions
+	* Instead of meeting people in the strictly Muslim seat of power, meet at a more.... fortified place
+	* Both asserted power in to Tokata and appeased ethnicty in the summer palace
