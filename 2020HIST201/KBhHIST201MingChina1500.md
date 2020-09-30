@@ -52,3 +52,5 @@ KangXi the renaissance man
 
 * Showed himself as a Manchu who rids and works to the Manchus
 * Showed himself as a well-read guy to the Chinese
+
+Reminder: **trade resumed!!**
