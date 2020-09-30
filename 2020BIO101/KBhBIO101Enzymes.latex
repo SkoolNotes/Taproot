@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1778)}}    % original
-%\rhead{\textrmlf{Compiled }\#1778\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1778\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1779)}}    % original
+%\rhead{\textrmlf{Compiled }\#1779\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1779\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -203,7 +203,7 @@ A macromolecular \textbf{catalyst}, it\ldots{}
 \setcounter{enumi}{3}
 \tightlist
 \item
-  is unlike
+  is unlike 4
 \end{enumerate}
 
 \end{document}
