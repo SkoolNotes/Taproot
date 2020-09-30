@@ -17,4 +17,8 @@ But... They didn't! Because...
 
 1. Lack of transportation and communication systems made tying large countries together difficult
 2. HRE had separation between church and state, which makes the authority less authoritative
-
+3. Pope + emperor constantly fought 
+	* Need constitution to settle
+	* Enabled feutal rulers to enhance autonomy 
+	* Hasburg dynasty + combination with Spanish royalty => Über powerful HRE => Almost centralized nation
+	* CLAIM: eventually weakened pope brought end to religious universality, which brought end to that centralized Europe idea
