@@ -19,4 +19,5 @@ So, in comes...
 Proposed and practiced [[KBhHIST201RaisonDeEtat]] in France
 
 * Richelieu is secular as minister, while salvation is only a personal objective => conflict with [[KBhHIST201HolyRomanEmpire1500s]] Ferdinand's beliefs 
-* 
+* "The state has no immorality" => acting on the state means acting either now or never
+* CLAIM @[[KBhHIST201Kissinger]] — HRE would have expanded more if they agreed to work with the protestants who were totally fine with HRE dominating politically 
