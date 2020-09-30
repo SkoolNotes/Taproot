@@ -1,2 +1,14 @@
-Log for attempt at Wed Sep 30 10:30:10 PDT 2020
+Log for attempt at Wed Sep 30 10:30:58 PDT 2020
 [WARNING] Could not fetch resource 'Screen%20Shot%202020-09-30%20at%2010.25.03%20AM.png': replacing image with description
+Error producing PDF.
+! Extra }, or forgotten $.
+\textrmlf #1->{\NHLight #1}
+                           
+l.204 ... a capacitor}{$E=\frac{V \times Q}{2} = }
+
+
+Error at "source" (line 208, column 1):
+unexpected \begin
+expecting \end{center} or \end{document}
+\definition{Energy stored in a capacitor}{$E=\frac{V \times Q}{2} = }
+^
