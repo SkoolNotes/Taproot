@@ -36,7 +36,7 @@ Please answer the following questions and briefly explain your answer:
 
 
 If a model with classes A and B has an AUC score of 0 and you give it an item from the test set that is in class A, what class will it predict and what probability will it give for that class?
- - A score of 0 means that the model predicts randomly, 
+ - A score of 0 means that the model predicts randomly, and thus, could predict class A, B, or C. 
 
 
 
