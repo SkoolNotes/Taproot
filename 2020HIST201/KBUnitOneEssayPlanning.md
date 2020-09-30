@@ -25,7 +25,11 @@ Essay option 2: According to Charles Tilly’s “bellicist” theory of state f
 ## Possible topics
 
 - Bellicist theory is **INCOMPLETE** (duhn duhn dunnnnn!)
-	- Bellicist theory is about war, and discounts other forms of danger. Should be danger (and maybe some acommpabnying cahnges) instead of war. 
+	- Bellicist theory is about war, and discounts other forms of danger. Should be danger (and maybe some accompanying changes instead of war. 
+		- Three paragraphs, three examples where other forms of danger required statemaking
+		- End with some conclustion about the concept of models / theories? 
+	- Easy essay if I can get evidence
+	- 
 
 
 
