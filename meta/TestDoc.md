@@ -82,4 +82,6 @@ Look at these colors!
 
 ![](../MISC/IMG_1417.jpg)
 
+![[../MISC/IMG_1417.jpg]]
+
 ---
