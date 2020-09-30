@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1804)}}    % original
-%\rhead{\textrmlf{Compiled }\#1804\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1804\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1805)}}    % original
+%\rhead{\textrmlf{Compiled }\#1805\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1805\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -165,6 +165,6 @@
 
 % DID YOU SET SPELL????
 
-
+Met today!
 
 \end{document}
