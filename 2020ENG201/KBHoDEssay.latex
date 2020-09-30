@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1618)}}    % original
-%\rhead{\textrmlf{Compiled }\#1618\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1618\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1620)}}    % original
+%\rhead{\textrmlf{Compiled }\#1620\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1620\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -231,11 +231,14 @@ Thursday?}\label{wait-thesis-is-due-thursday}}
       \item
         Doctor
       \item
+        Brickmaker
       \end{itemize}
     \item
       Whats the larger concept?
     \end{itemize}
   \end{itemize}
 \end{itemize}
+
+shoes\ldots?
 
 \end{document}
