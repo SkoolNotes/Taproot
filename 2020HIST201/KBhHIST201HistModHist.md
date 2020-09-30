@@ -63,4 +63,4 @@ To reach **world hegemony** (become the world leader) — change the world order
 
 Merchantilist Empires => Merchants => Trade
 
- Parchigual 
+* Portchugal and Spain focused on land aqusition
