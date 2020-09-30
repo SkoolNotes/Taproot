@@ -31,4 +31,5 @@ A process of "revving Catholic universality".
 See [[KBhHIST201CounterReformation]]
 
 ## Emperor Ferdinand II
+* Practiced the... well... opposite of [[KBhHIST201RaisonDeEtat]] => Religion + Morality > state interest
 * 
