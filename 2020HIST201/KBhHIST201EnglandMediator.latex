@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ England, The Mediator }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1605)}}    % original
-%\rhead{\textrmlf{Compiled }\#1605\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1605\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1606)}}    % original
+%\rhead{\textrmlf{Compiled }\#1606\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1606\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,9 +164,10 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201Kissinger}{\tiny\textulf{[[}\textbf{KBhHIST201Kissinger}\textulf{]]}}}\thinspace
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-title: England, The Mediator author: Houjun Liu course: HIST201
+\hypertarget{england-the-mediator}{%
+\section{England, the Mediator}\label{england-the-mediator}}
 
 \end{document}
