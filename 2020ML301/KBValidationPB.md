@@ -20,7 +20,9 @@ Please answer the following questions and briefly explain your answer:
 - When using accuracy to measure your model's performance on a classification problem:
 	- What is the best possible score you could get?
 		- 1. In a scenario with x samples, an entirely correct classification would lead to x/x, which is 1. 
-If your model always predicted the same class no matter what the input, what score would you get on a test set where 85% of the items were in that class?
+	- If your model always predicted the same class no matter what the input, what score would you get on a test set where 85% of the items were in that class?
+		- 
+	
 What is the worst possible score you can get on a dataset that only has two classes?
 A model gets a recall score of 0 for class A on a test set with classes A, B, and C. If you take one of the test items that is in class A and have this model predict what class it is, what will it predict?
 A model gets a precision score of 1 for class A on a test set with classes A, B, and C. If you take one of the test items that is in class A and have your model predict what class it is, what will it predict?
