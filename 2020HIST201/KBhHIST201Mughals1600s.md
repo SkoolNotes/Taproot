@@ -117,4 +117,4 @@ And now, we are comparing palaces?
 
 * Chende constructed to match people's religions
 	* Instead of meeting people in the impressively Han seat of power, meet at a more relaxed place
-	* 
+	* Both asserted power in the main palace
