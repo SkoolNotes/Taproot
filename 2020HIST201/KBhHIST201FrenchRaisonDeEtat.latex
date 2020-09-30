@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ deRichelieu and French Raison de Etat }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1577)}}    % original
-%\rhead{\textrmlf{Compiled }\#1577\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1577\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1578)}}    % original
+%\rhead{\textrmlf{Compiled }\#1578\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1578\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,10 +164,21 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201RaisonDeEtat}{\tiny\textulf{[[}\textbf{KBhHIST201RaisonDeEtat}\textulf{]]}}}\thinspace
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{derichelieus-raison-de-etat}{%
+\section{deRichelieu's Raison de
+Etat}\label{derichelieus-raison-de-etat}}
 
-title: deRichelieu and French Raison de Etat author: Houjun Liu source:
-KBhHIST201RaisonDeEtat
+\hypertarget{background}{%
+\subsection{Background}\label{background}}
+
+\begin{itemize}
+\tightlist
+\item
+  CLAIM: lost the most by the boom of the Holy Roman Empire * Near-death
+  of HRE would allow France to expand eastwards
+\end{itemize}
 
 \end{document}
