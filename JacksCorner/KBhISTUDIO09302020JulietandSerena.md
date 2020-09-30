@@ -20,5 +20,7 @@ Waaay back in the beginning...
 * Interest in field of pediatrics
 * Transition from hospital => home
 * Talked to John + School nurse: looked at the Tourett's syndroym
-	* Eared about 
+	* Learned about CBIT therapy
+		* Talked with Logan about Tourett's syndrom
+		* Got a lot of info about the problems of CBI
 
