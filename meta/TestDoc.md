@@ -11,7 +11,7 @@ source:  KBe2020math530floIndex
 - See [[KBrefPolynomial]]
 
 ## 0 polynomial
-- Has degree $-infty$
+- Has degree $-\infty$
 - Degrees are usually positive, except for the $0$ degree
 - "that's too hard, and we're not going to do it here"
 
