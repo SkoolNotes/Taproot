@@ -115,4 +115,4 @@ course: HIST201
 
 And now, we are comparing palaces?
 
-        
+* Chende constructed to match people's religions        
