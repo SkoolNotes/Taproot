@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1776)}}    % original
-%\rhead{\textrmlf{Compiled }\#1776\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1776\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1777)}}    % original
+%\rhead{\textrmlf{Compiled }\#1777\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1777\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -194,7 +194,8 @@ A macromolecular \textbf{catalyst}, it\ldots{}
   Shape determines the reactions that it can participate in
 \item
   Enzymes are subject to \textbf{protean denaturation} =\textgreater{}
-  if the protein unfolds, its function will be lost
+  if the protein unfolds, its function will be lost. Triggered by excess
+  heat, acid, and other problems
 \end{enumerate}
 
 \end{document}
