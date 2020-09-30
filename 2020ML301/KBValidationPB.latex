@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1764)}}    % original
-%\rhead{\textrmlf{Compiled }\#1764\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1764\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1765)}}    % original
+%\rhead{\textrmlf{Compiled }\#1765\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1765\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -291,7 +291,7 @@ Please answer the following questions and briefly explain your answer:
   \tightlist
   \item
     It will predict class a, and give a probability of 100\%. This is
-    because an AUC s
+    because an AUC score of 1 represents a perfect model.
   \end{itemize}
 \end{itemize}
 
