@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1690)}}    % original
-%\rhead{\textrmlf{Compiled }\#1690\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1690\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1691)}}    % original
+%\rhead{\textrmlf{Compiled }\#1691\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1691\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -222,6 +222,11 @@ charge slower. (\emph{``Need more change to fill''})
 \caption{Screen Shot 2020-09-30 at 10.42.44 AM.png}
 \end{figure}
 
-\emph{Charging time} is in fairly good agreement with \_resistance tim
+\emph{Charging time} is in fairly good agreement with \emph{resistance *
+capacitance}.
+
+So\ldots{} \#disorganized
+
+Experimentally, ``Charging time'', \(\tau\), \(\approx R \times C\).
 
 \end{document}
