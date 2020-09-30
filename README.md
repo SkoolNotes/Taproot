@@ -28,7 +28,7 @@ Some files are named according to the convention outlined here:
 
 Thanks for stopping by!
 
-A "taproot" is a "large, central, and dominant root from which other roots sprout laterally" ([Wikipedia](https://en.wikipedia.org/wiki/Taproot#:~:text=A taproot is a large,other roots sprout laterally.)). Also, it's a food!
+A "taproot" is a "large, central, and dominant root from which other roots sprout laterally" ([Wikipedia](https://en.wikipedia.org/wiki/Taproot)). Also, it's a food!
 
 Created by Houjun Liu, Huxley Marvit, Zachary Sayyah, Albert Huang.
 
