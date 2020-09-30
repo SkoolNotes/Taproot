@@ -14,7 +14,9 @@ CLAIM: European balance of power system emerged after medieval collapse
 ## European Power Balance
 **Development into model of "universality" => one emperor, one church**
 
+### The Holy Roman Empire
 [[KBhHIST201HolyRomanEmpire1500s]]
+
 * If the Holy Roman Emperor were to actually succeed, all of Europe would become auxiliaries to it 
     * So, why no central control?
         1. Lack of transportation and communication systems made tying largue countries together difficult
