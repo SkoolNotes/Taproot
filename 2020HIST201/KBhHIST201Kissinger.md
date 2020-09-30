@@ -17,6 +17,9 @@ CLAIM: European balance of power system emerged after medieval collapse
 ### The Holy Roman Empire
 [[KBhHIST201HolyRomanEmpire1500s]]
 
+### System of Raison De 'Etat
+As a mean to fend off an every-growing HRE threatening France, Cardinal Richaleu came up with a system named [[KBhHIST201RaisonDeEtat]] that promises to be a better system of government.
+
 * Balance of power became dominant
 * INFERENCE: more sensible government
 * "Depended on reason and ability to assess power relationships"
