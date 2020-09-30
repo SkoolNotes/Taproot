@@ -12,5 +12,8 @@ Suggestion: lead in with Fermi's paradox?
 
 Flow of presentation
 
+* Talk about fermi's paradox
 * Talk about the fact that people have not been looking at Venus
+* But there is phosphine!
+* Talk about where phosphine is
 * 

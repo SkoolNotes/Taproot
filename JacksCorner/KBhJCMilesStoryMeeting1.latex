@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1736)}}    % original
-%\rhead{\textrmlf{Compiled }\#1736\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1736\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1737)}}    % original
+%\rhead{\textrmlf{Compiled }\#1737\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1737\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -200,7 +200,13 @@ Flow of presentation
 \begin{itemize}
 \tightlist
 \item
+  Talk about fermi's paradox
+\item
   Talk about the fact that people have not been looking at Venus
+\item
+  But there is phosphine!
+\item
+  Talk about where phosphine is
 \item
 \end{itemize}
 
