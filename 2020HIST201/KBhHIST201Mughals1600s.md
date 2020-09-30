@@ -103,5 +103,9 @@ course: HIST201
 
 #disorganized #flo 
 
+* India is very hard to rule in a very centralized way
+	* Deccan plateu to the south 
+	* Hard to conquer
+	*  
 
         
