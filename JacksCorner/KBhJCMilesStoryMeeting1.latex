@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1729)}}    % original
-%\rhead{\textrmlf{Compiled }\#1729\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1729\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1730)}}    % original
+%\rhead{\textrmlf{Compiled }\#1730\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1730\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -171,6 +171,7 @@
   Paper ``trying to be inconclusive'' because they don't want to be
   wrong
 \item
+  Not very conclusive
 \end{itemize}
 
 \end{document}
