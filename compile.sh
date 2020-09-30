@@ -15,7 +15,8 @@ for f in ${(@f)changes}; do
     formatname="$filetype[${f:t:e}]"
     echo "Log for attempt at $(date)" > recent_errors.txt
     printf "$(date) Converting $f...\r"
-    if $formatname == "markdown"; then
+    if [[ $formatname == "markdown" ]]; then
+        sed -E 's/!\[\[(.+\.(png|jpg))\]\]/![\1](\1)/g' $f > $f
     pandoc -f $formatname -t pdf   $f --pdf-engine=xelatex --mathjax\
         --template=~/.pandoc/templates/default.latex -o "${f%.*}.pdf"\
         --resource-path="$f:h" -V BUILDID=$buildid 2>>recent_errors.txt
