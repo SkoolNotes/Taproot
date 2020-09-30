@@ -16,6 +16,10 @@ A method of "sensible government" that promises to set aside personal ideologica
 
 [[KBhHIST201FrenchRichelieuAndRaisonDeEtat]]
 
+## Exhibit B: Federick the Great
+CLAIM @[[KBhHIST201Kissinger]]: Federick the Great's decision to invade Silesia was pure strategy move
+
+
 ## Failure and Overextension
 
 CLAIM @[[KBhHIST201Kissinger]] — too much power without morality is no good, for instance
