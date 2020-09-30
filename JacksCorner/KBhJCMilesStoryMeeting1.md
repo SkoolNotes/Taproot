@@ -1,4 +1,8 @@
 
 * Paper "trying to be inconclusive" because they don't want to be wrong
 * Not very conclusive
+	* Venus less studied
+	* Recommended space YouTube videos from brother
+	* Then, YouTube's algo got recommended
+
 
