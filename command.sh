@@ -1,6 +1,6 @@
 #!/bin/zsh
 #taproot_path="../../Taproot/"
-taproot_path="../materials/Taproot"
+taproot_backup_path="../taproot-backup"
 BUILDNUMBER_FILE='buildID.txt'
 
 while true; do
@@ -9,6 +9,14 @@ while true; do
     git pull >> log.txt
 
     changes="$(git status --porcelain | cut -c4-)"
+
+
+    if [[ -n "$taproot_backup_path" ]]; then
+        echo "backup up..."
+        rsync -av --exclude '.git*' . "$taproot_backup_path" >> log.txt
+    fi
+
+    continue
 
     if [[ -n "$changes" ]]; then
         #find . -type f -name '*.md' -exec sed -i'' -e 's/\/Users\/houliu\/Documents\/School Work\/2020\-2021\/KnowledgeBase/./g' {} +
