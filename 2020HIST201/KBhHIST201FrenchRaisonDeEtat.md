@@ -16,5 +16,5 @@ So, in comes...
 ## Cardinal de Richelieu
 "Father of the modern state system."
 
-Proposed and practiced [[KBhHIST201RaisonDeEtat]] in France,
+Proposed and practiced [[KBhHIST201RaisonDeEtat]] in France
 
