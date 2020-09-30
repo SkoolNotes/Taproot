@@ -25,3 +25,4 @@ The process of enzymes doing things.
 
 1. The reactant (called "substrate") fits into a pocket ("active site") in the enzyme for the reaction to occur. Yes, there could be multiple active sites for multiple reactants
 2. The enzyme rearrange itself slightly to hold the enzyme in place
+3. A active sites cofactor 
