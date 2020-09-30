@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1662)}}    % original
-%\rhead{\textrmlf{Compiled }\#1662\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1662\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1663)}}    % original
+%\rhead{\textrmlf{Compiled }\#1663\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1663\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -267,10 +267,5 @@ KangXi the renaissance man
 \end{itemize}
 
 Reminder: \textbf{trade resumed!!}
-
-\begin{itemize}
-\tightlist
-\item
-\end{itemize}
 
 \end{document}
