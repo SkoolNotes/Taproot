@@ -13,5 +13,9 @@ Met today!
 - Speedating did not go well — no one joined their BR!
 - Help with recuriting
 
-New member: **Ellie Kerns, 9, e**
+New member: **Ellie Kerns, 9, Ellie Kearns <ellkear@nuevaschool.org>**
+
+Waaay back in the beginning...
+
+
 
