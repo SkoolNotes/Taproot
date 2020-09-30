@@ -38,7 +38,11 @@ OPTION 3: Propose your own analytical adventure
 - Topics
 	- Futility? 
 		- Imagery of
-	- 
+	- Uselessness and contradiction 
+		- Examples 
+			- Blindfolded woman with torch
+			- Bucket with hole in it
+		- Whats the larger concept? 
 
 
 
