@@ -19,7 +19,10 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 
 ## Documents Corner
 - @[[KBhHIST201HomogenosceneLN]] Current day, emphasis was placed around those in native American regions who were anti-Spanish, yet a large majority of the individuals who really brought globalization were Spanish 
-- @[[KBhHIST201MannMing]]
+- @[[KBhHIST201MannMing]] China's currency began to show strain as Bronze prices increase whist China deals with a botching reopening plan after closing the economy after Zheng He. See [[KBhHIST201ChinasDeclineWRTReopening]] and [[KBhHIST201ChinasDeclineWRTZhengHe]]
+- 
+
+
 
 
 ## Claim Synthesis (Babingtonization)
