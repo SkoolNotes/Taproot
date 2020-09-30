@@ -11,44 +11,6 @@ The Document: [[KBe20hist201srcKissingerAnnotated]]
 
 #disorganized #flo
 
-
-## The People
-
-1.Cardinal Richelieu
-
-2.Ferdinand II
-
-3.Frederick the Great
-
-4.Reformation
-
-5.Counter-Reformation
-
-6.30 Years War
-
-7.7 Years War
-
-8.William III of Orange
-
-9.Louis XIV (Sun King)
-
-10.Napoleon
-
-11.William Pitt
-
-12.Congress of Vienna
-
-13.War of Austrian Succession
-
-14.War of Spanish Succession
-
-
-## The Timeline
-
-
-
-## The Flow
-
 * European balance of power system emerged after medieval collapse
 * Development into model of "universality" => one emperor, one church
 * If the Holy Roman Emperor were to actually succeed, all of Europe would become auxillaries to it 
@@ -168,3 +130,36 @@ McNeill
     3. Development of military technology becomes too expensive to do rurally to larger factories in a city: standing army cannot be tracked in a local level
     
 The renessance brings two things: either harness renissance energy to do innovation or harness reformation energy to unify Europe — if someone has the ability to have warfare.
+
+
+
+
+## The People
+
+1.Cardinal Richelieu
+
+2.Ferdinand II
+
+3.Frederick the Great
+
+4.Reformation
+
+5.Counter-Reformation
+
+6.30 Years War
+
+7.7 Years War
+
+8.William III of Orange
+
+9.Louis XIV (Sun King)
+
+10.Napoleon
+
+11.William Pitt
+
+12.Congress of Vienna
+
+13.War of Austrian Succession
+
+14.War of Spanish Succession

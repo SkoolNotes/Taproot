@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1557)}}    % original
+%\rhead{\textrmlf{Compiled }\#1557\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1557\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -171,43 +173,6 @@
 The Document: {[}{[}KBe20hist201srcKissingerAnnotated{]}{]}
 
 \#disorganized \#flo
-
-\hypertarget{the-people}{%
-\subsection{The People}\label{the-people}}
-
-1.Cardinal Richelieu
-
-2.Ferdinand II
-
-3.Frederick the Great
-
-4.Reformation
-
-5.Counter-Reformation
-
-6.30 Years War
-
-7.7 Years War
-
-8.William III of Orange
-
-9.Louis XIV (Sun King)
-
-10.Napoleon
-
-11.William Pitt
-
-12.Congress of Vienna
-
-13.War of Austrian Succession
-
-14.War of Spanish Succession
-
-\hypertarget{the-timeline}{%
-\subsection{The Timeline}\label{the-timeline}}
-
-\hypertarget{the-flow}{%
-\subsection{The Flow}\label{the-flow}}
 
 \begin{itemize}
 \tightlist
@@ -577,5 +542,36 @@ McNeill
 The renessance brings two things: either harness renissance energy to do
 innovation or harness reformation energy to unify Europe --- if someone
 has the ability to have warfare.
+
+\hypertarget{the-people}{%
+\subsection{The People}\label{the-people}}
+
+1.Cardinal Richelieu
+
+2.Ferdinand II
+
+3.Frederick the Great
+
+4.Reformation
+
+5.Counter-Reformation
+
+6.30 Years War
+
+7.7 Years War
+
+8.William III of Orange
+
+9.Louis XIV (Sun King)
+
+10.Napoleon
+
+11.William Pitt
+
+12.Congress of Vienna
+
+13.War of Austrian Succession
+
+14.War of Spanish Succession
 
 \end{document}
