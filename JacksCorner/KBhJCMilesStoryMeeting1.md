@@ -25,5 +25,4 @@ Flow of presentation
 Figures to present 
 * 1
 * 2
-* 4
-* 
+* 5

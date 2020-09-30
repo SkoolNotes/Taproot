@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1740)}}    % original
-%\rhead{\textrmlf{Compiled }\#1740\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1740\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1741)}}    % original
+%\rhead{\textrmlf{Compiled }\#1741\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1741\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -215,6 +215,6 @@ Flow of presentation
   into photochemical pathways for the creation of phosphine
 \end{itemize}
 
-Figures to present
+Figures to present * 1 * 2 * 5
 
 \end{document}
