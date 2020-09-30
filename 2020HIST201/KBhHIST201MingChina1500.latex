@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1654)}}    % original
-%\rhead{\textrmlf{Compiled }\#1654\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1654\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1655)}}    % original
+%\rhead{\textrmlf{Compiled }\#1655\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1655\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -241,6 +241,18 @@ See {[}{[}KBhHIST201ChinaWoes1500{]}{]}China's Woes in the 1500s
 \begin{itemize}
 \tightlist
 \item
+  Problem: china conqurs you
 \end{itemize}
+
+So\ldots{} Either:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Retreat and defend the southern heartland
+\item
+  Larger barbarians leads larger people =\textgreater{} then\ldots{}
+\end{enumerate}
 
 \end{document}

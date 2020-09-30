@@ -40,5 +40,9 @@ See [[KBhHIST201ChinaWoes1500]]China's Woes in the 1500s
 
 #flo #disorganized 
 
-* 
+* Problem: china conqurs you
 
+So... Either:
+
+1. Retreat and defend the southern heartland
+2. Larger barbarians leads larger people => then... 
