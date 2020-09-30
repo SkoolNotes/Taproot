@@ -17,6 +17,6 @@ A macromolecular **catalyst**, it...
 3.  Shape determines the reactions that it can participate in
 4.  Enzymes are subject to **protean denaturation** => if the protein unfolds, its function will be lost. Triggered by excess heat, acid, and other problems
 
-(4) is unlike 4
+(4) is unlike non-protein, inorganic catalyst — inorganic non-proteins need to unwrap or wrap.
 
 
