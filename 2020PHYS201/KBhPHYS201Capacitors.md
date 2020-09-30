@@ -50,10 +50,10 @@ Let's check the units!
 
 * $V = IR$
 * $R = \frac{V}{I}$
-* So... $R = \ohms = \frac{V * s}{Q}$
+* So $R = \ohms = \frac{V * s}{Q}$
 
 * $Q = CV$
-* So... $\frac{Q}{V} = C$
+* So $\frac{Q}{V} = C$
 
 Hence, $R \times C = \frac{\cancel{V} \times s}{\cancel{Q}} = \cancel{\frac{Q}{V}}$, indeed, has a unit Seconds!
 
