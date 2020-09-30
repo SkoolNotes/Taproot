@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1668)}}    % original
-%\rhead{\textrmlf{Compiled }\#1668\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1668\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1669)}}    % original
+%\rhead{\textrmlf{Compiled }\#1669\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1669\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -331,6 +331,18 @@ Merchantilist Empires =\textgreater{} Merchants =\textgreater{} Trade
   \tightlist
   \item
     Companies with charters
+
+    \begin{itemize}
+    \tightlist
+    \item
+      But! Has own army
+    \item
+      Coinage
+    \item
+      and Court
+    \item
+      (all vested on the authority of the gonvernement)
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 

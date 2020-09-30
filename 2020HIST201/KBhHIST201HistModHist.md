@@ -68,4 +68,9 @@ Merchantilist Empires => Merchants => Trade
 	* Little privatization and more of a territarialist model
 * Dutch, French, and British empires focused more on actual trading
 	* Companies with charters 
+		* But! Has own army
+		* Coinage
+		* and Court 
+		* (all vested on the authority of the government)
+	*  
 
