@@ -17,9 +17,7 @@ The Ottomans, the Ming and Qing Empires, the Mughals and the European kingdoms a
 
 Comparing at least two of the regions above. Gelvin (World systems), Mann (silver), Kennedy and Arrighi might be good general frameworks, while Bulliet (Ottomans), Gilbert (Mughals) and McNeill (Europe) can provide some specifics.
 
-
-
-
+## Documents Corner
 
 ## Claim Synthesis (Babingtonization)
 ### Development phase – How and So-What
