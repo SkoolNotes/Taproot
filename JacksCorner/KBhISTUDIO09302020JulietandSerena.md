@@ -22,5 +22,9 @@ Waaay back in the beginning...
 * Talked to John + School nurse: looked at the Tourett's syndroym
 	* Learned about CBIT therapy
 		* Talked with Logan about Tourett's syndrom
-		* Got a lot of info about the problems of CBI
+		* Got a lot of info about the problems of CBIT
+		* Process of CBIT
+			* Learn about when tics happen
+			* Learn about a competing response to the tic
+			* 
 
