@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1784)}}    % original
-%\rhead{\textrmlf{Compiled }\#1784\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1784\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1785)}}    % original
+%\rhead{\textrmlf{Compiled }\#1785\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1785\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -219,10 +219,10 @@ The process of enzymes doing things.
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  The reactant (called ``substrate'') fits into a pocket ("active sin
-  the enzyme for the reaction to occur
+  The reactant (called ``substrate'') fits into a pocket (``active
+  site'') in the enzyme for the reaction to occur
 \item
-  The enzyme rearrange itself slightly to hold
+  The enzyme rearrange itself slightly to hold the enzyme in place
 \end{enumerate}
 
 \end{document}
