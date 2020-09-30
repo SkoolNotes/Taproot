@@ -39,3 +39,5 @@ As you increase the [[KBhPHYS201Resistance]], the a capacitor of the same capaci
 As you fix the Resistance, the capacitor of a higher capacitance would charge slower. (_"Need more change to fill"_)
 
 ![Screen Shot 2020-09-30 at 10.42.44 AM.png](Screen Shot 2020-09-30 at 10.42.44 AM.png)
+
+_Charging time_ is in fairly good agreement with _resistance tim
