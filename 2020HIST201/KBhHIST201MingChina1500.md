@@ -35,3 +35,10 @@ See [[KBhHIST201ChinasDecline1500]] China's Economic Decline in the 1500s
 
 ## China's Woes
 See [[KBhHIST201ChinaWoes1500]]China's Woes in the 1500s
+
+## CN 09302020
+
+#flo #disorganized 
+
+* 
+
