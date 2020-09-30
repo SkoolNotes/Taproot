@@ -25,3 +25,5 @@ Energy stored on a capacitor: $E=\frac{V_c * Q}{2}$.
 Charge on a capacitor: $Q = C \times V_c$
 
 Farads: $F = \frac{C}{V}$
+
+So, putting this together, the energy stored on a capacitor 
