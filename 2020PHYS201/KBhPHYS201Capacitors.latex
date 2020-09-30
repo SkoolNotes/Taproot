@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1688)}}    % original
-%\rhead{\textrmlf{Compiled }\#1688\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1688\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1689)}}    % original
+%\rhead{\textrmlf{Compiled }\#1689\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1689\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -210,10 +210,11 @@ be\ldots{}
 Resistance}\label{capacitors-interacting-with-resistance}}
 
 As you increase the {[}{[}KBhPHYS201Resistance{]}{]}, the a capacitor of
-the same capacitance would charge slower.
+the same capacitance would charge slower. (\emph{``Less charge flows
+in''})
 
 As you fix the Resistance, the capacitor of a higher capacitance would
-charge quicker.
+charge slower. (\emph{``Need more change to fill''})
 
 \begin{figure}
 \centering

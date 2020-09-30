@@ -34,8 +34,8 @@ So, putting this together, the energy stored on a capacitor would be...
 $Q_{cap} \propto V$. In fact $Q_{cap} =  C \times V_c$.
 
 ## Capacitors interacting with Resistance
-As you increase the [[KBhPHYS201Resistance]], the a capacitor of the same capacitance would charge slower.
+As you increase the [[KBhPHYS201Resistance]], the a capacitor of the same capacitance would charge slower. (_"Less charge flows in"_)
 
-As you fix the Resistance, the capacitor of a higher capacitance would charge quicker.
+As you fix the Resistance, the capacitor of a higher capacitance would charge slower. (_"Need more change to fill"_)
 
 ![Screen Shot 2020-09-30 at 10.42.44 AM.png](Screen Shot 2020-09-30 at 10.42.44 AM.png)
