@@ -58,7 +58,9 @@ Let's check the units!
 Hence, $R \times C = \frac{\cancel{V} \times s}{\cancel{Q}} = \cancel{\frac{Q}{V}}$, indeed, has a unit Seconds!
 
 
-\definition[where $V_b$ is the battery voltage, $t$ is tim]{Current in circuit as you charge a capacitor}{$I(t) = \frac{V_b}{R} \times e^{\frac{-t}{RC}}$}
+\definition[where $V_b$ is the battery voltage, $t$ is time elapsed, $R$ is resistance, and $C$ is the capacitance]{Current in circuit as you charge a capacitor}{$I(t) = \frac{V_b}{R} \times e^{\frac{-t}{RC}}$}
+
+Also defined $RC = \tau$.
 
 
 
