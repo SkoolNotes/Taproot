@@ -17,8 +17,8 @@ Please answer the following questions and briefly explain your answer:
 		- The score would be 0, as the denominator and numerator would be equal. This would result in the equation 1-1, which equals 0. 
 	- What is the lowest score that you can get?
 		- Negative infinity. 
-When using accuracy to measure your model's performance on a classification problem:
-What is the best possible score you could get?
+- When using accuracy to measure your model's performance on a classification problem:
+	- What is the best possible score you could get?
 If your model always predicted the same class no matter what the input, what score would you get on a test set where 85% of the items were in that class?
 What is the worst possible score you can get on a dataset that only has two classes?
 A model gets a recall score of 0 for class A on a test set with classes A, B, and C. If you take one of the test items that is in class A and have this model predict what class it is, what will it predict?
