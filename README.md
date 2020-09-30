@@ -5,7 +5,7 @@ author:  Exr0n
 source:  #index
 ---
 
-![Taproot Logo](./meta/taproot_logo_bluewhite.png)
+![Taproot Logo](./meta/taproot_logo_redorange.png)
 
 # Welcome
 Howdy :wave:, welcome to Taproot. Take a look around, either in person or from our [handy web portal](taproot.shabang.cf).
