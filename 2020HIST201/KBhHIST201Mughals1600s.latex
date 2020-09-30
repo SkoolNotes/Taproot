@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1640)}}    % original
-%\rhead{\textrmlf{Compiled }\#1640\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1640\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1641)}}    % original
+%\rhead{\textrmlf{Compiled }\#1641\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1641\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -467,5 +467,7 @@
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\#disorganized \#flo
 
 \end{document}
