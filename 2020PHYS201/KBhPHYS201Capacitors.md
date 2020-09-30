@@ -62,6 +62,5 @@ Hence, $R \times C = \frac{\cancel{V} \times s}{\cancel{Q}} = \cancel{\frac{Q}{V
 
 Also defined $RC = \tau$.
 
-\definition[where $V_b$ is the battery voltage, $t$ is time elapsed, $R$ is resistance, and $C$ is the capacitance]{Voltage difference in a capacitor you charge a capacitor}{$V(t) = V_b \times ()$}
-
+\definition[where $V_b$ is the battery voltage, $t$ is time elapsed, $R$ is resistance, and $C$ is the capacitance]{Voltage difference in a capacitor you charge a capacitor}{$V(t) = V_b \times (1 - e^{\frac{-t}{RC}})$} 
 

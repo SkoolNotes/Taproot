@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1701)}}    % original
-%\rhead{\textrmlf{Compiled }\#1701\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1701\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1702)}}    % original
+%\rhead{\textrmlf{Compiled }\#1702\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1702\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -252,6 +252,6 @@ indeed, has a unit Seconds!
 
 Also defined \(RC = \tau\).
 
-\definition[where $V_b$ is the battery voltage, $t$ is time elapsed, $R$ is resistance, and $C$ is the capacitance]{Voltage difference in a capacitor you charge a capacitor}{$V(t) = V_b \times ()$}
+\definition[where $V_b$ is the battery voltage, $t$ is time elapsed, $R$ is resistance, and $C$ is the capacitance]{Voltage difference in a capacitor you charge a capacitor}{$V(t) = V_b \times (1 - e^{\frac{-t}{RC}})$}
 
 \end{document}
