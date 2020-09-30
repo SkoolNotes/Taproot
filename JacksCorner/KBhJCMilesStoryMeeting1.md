@@ -20,3 +20,10 @@ Flow of presentation
 * There are phosphine
 * Issues of measurement must be correct
 * Perhaps a way of sparking further Venian exploration and/or research into photochemical pathways for the creation of phosphine
+
+
+Figures to present 
+* 1
+* 2
+* 4
+* 
