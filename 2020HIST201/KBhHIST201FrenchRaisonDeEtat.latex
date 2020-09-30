@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ HIST201 }
-\newcommand{\thelesson}{ Raison d'etat }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -125,7 +125,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1575)}}    % original
 %\rhead{\textrmlf{Compiled }\#1575\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#1575\textrmlf{ on} \today}       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,26 +164,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBhHIST201HolyRomanEmpire1500s}{\tiny\textulf{[[}\textbf{KBhHIST201HolyRomanEmpire1500s}\textulf{]]}}}\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBhHIST201Kissinger}{\tiny\textulf{[[}\textbf{KBhHIST201Kissinger}\textulf{]]}}}\thinspace
 
-\hypertarget{raison-detat}{%
-\section{Raison d'etat}\label{raison-detat}}
 
-\begin{quote}
-Each state depended on the other. The well being of the state justified
-whatever means were employed to further it. The national interest
-supplanted the medieval notion of a universal morality. ---
-KBhHIST201Kissinger
-\end{quote}
-
-A method of ``sensible government'' that promises to set aside personal
-ideological differences for the betterment of the country as a whole.
-
-\hypertarget{exhibit-a-france}{%
-\subsection{Exhibit A: France!}\label{exhibit-a-france}}
-
-{[}{[}KBhHIST201FrenchRaisonDeEtat{]}{]}
 
 \end{document}
