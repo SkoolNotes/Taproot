@@ -21,5 +21,6 @@ A macromolecular **catalyst**, it...
 
 ![Screen Shot 2020-09-30 at 2.45.04 PM.png](Screen Shot 2020-09-30 at 2.45.04 PM.png)
 
+The process of enzymes doing things.
 
-
+1. The reactant (called "substrate") fits into a pocket in the enzyme specifically for the 
