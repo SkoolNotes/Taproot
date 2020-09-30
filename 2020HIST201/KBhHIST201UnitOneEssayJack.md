@@ -13,7 +13,13 @@ course: HIST201
 | Oct 12th | Hegemony and competition in the early modern world | Kennedy, Mann, and Friends |
 
 ## Prompt
-THE PROMPT
+The Ottomans, the Ming and Qing Empires, the Mughals and the European kingdoms all responded to the globalization of commerce in the early modern period in dramatically different ways. **Why did they respond differently to the globalization of commerce and what were the consequences?**
+
+Comparing at least two of the regions above. Gelvin (World systems), Mann (silver), Kennedy and Arrighi might be good general frameworks, while Bulliet (Ottomans), Gilbert (Mughals) and McNeill (Europe) can provide some specifics.
+
+
+
+
 
 ## Claim Synthesis (Babingtonization)
 ### Development phase – How and So-What
