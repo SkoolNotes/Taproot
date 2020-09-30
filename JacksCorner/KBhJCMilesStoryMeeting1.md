@@ -17,4 +17,6 @@ Flow of presentation
 * But there is phosphine!
 * Talk about where phosphine is
  
-* 
+* There are phosphine
+* Issues of measurement must be correct
+* Perhaps a way of sparking further Venian exploration and/or research into photochemical pathways for the creation of phosphine
