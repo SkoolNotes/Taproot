@@ -15,4 +15,3 @@
 			 - We are a world where we aren't stressed
 		 - There has to be one or the other
 			 - The evidence supports the first one, but one cannot prove anything
-			 - 

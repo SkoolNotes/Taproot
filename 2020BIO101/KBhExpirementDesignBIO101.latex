@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1646)}}    % original
-%\rhead{\textrmlf{Compiled }\#1646\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1646\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1647)}}    % original
+%\rhead{\textrmlf{Compiled }\#1647\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1647\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -221,7 +221,6 @@ Understanding}\label{mechanistic-understanding}}
       \item
         The evidence supports the first one, but one cannot prove
         anything
-      \item
       \end{itemize}
     \end{itemize}
   \end{itemize}
