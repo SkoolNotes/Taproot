@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1731)}}    % original
-%\rhead{\textrmlf{Compiled }\#1731\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1731\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1732)}}    % original
+%\rhead{\textrmlf{Compiled }\#1732\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1732\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,7 +180,7 @@
   \item
     Recommended space YouTube videos from brother
   \item
-    Then, YouTube's algo got recommended
+    Then, YouTube's algo recommended the paper to him
   \end{itemize}
 \end{itemize}
 

@@ -3,6 +3,6 @@
 * Not very conclusive
 	* Venus less studied
 	* Recommended space YouTube videos from brother
-	* Then, YouTube's algo got recommended
+	* Then, YouTube's algo recommended the paper to him
 
 
