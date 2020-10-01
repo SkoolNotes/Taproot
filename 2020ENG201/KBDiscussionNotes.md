@@ -160,6 +160,14 @@ $$Question\ Break$$
 ---
 
 - isabella 
+	- what
+
+- nico
+	- marlow describes kurtz to the intended not with his actual beliefs but with how kurtz is described to him
+	- flip flops alot
+	
+- kayla disagrees with nico
+	- 
 
 
 
