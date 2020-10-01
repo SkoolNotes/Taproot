@@ -43,7 +43,11 @@ Essay option 2: According to Charles Tilly’s “bellicist” theory of state f
 
 ###### Bellicist theory is incomplete
 
-- Other forms of danger besides ware require state-making
+- Other forms of danger besides war require state-making
+	- Plauge
+		- Look at ottoman orthodox vs european new ways
+		- Ideological
+			- 
 
 
 
