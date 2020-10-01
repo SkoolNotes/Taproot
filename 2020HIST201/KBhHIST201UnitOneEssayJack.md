@@ -28,7 +28,7 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
  
  ## Evidence bin
 - The Holy Roman Empire
-	- "A ruler committed to such absolute values found it impossible to compromise, let alone to manipulate, his bargaining position." => Conservatism lead them directly to not compromise
+	- "A ruler committed to such absolute values found it impossible to compromise, let alone to manipulate, his bargaining position." => Conservatism lead them directly to not compromise, getting the lower
 - The Ottomans	
 	- ...Established trade agreements "Such trade agreements, called capitulations, led to European domination of Ottoman seaborne trade. Far from seeing Europe as the enemy that would eventually dismantle the empire, the Istanbul elite experimented with European clothing and furniture styles"
 - The French
