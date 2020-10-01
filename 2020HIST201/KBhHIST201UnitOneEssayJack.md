@@ -25,16 +25,20 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 - @[[KBhHIST201ProblemsWithSilver]]  — major globalization
 - Per Kennedy's favourite argument — 
  
-
-## Claim Synthesis
-### Development phase – How and So-What
-- *Centrally-governed empires such as the Holy Roman Empire or the Ottomans often suffer when its central point of authority fails to keep pace to the changing trade situations such as globalization.*
+ 
+ ## Evidence bin
+ - *Centrally-governed empires such as the Holy Roman Empire or the Ottomans often suffer when its central point of authority fails to keep pace to the changing trade situations such as globalization.*
 	- 1) How to quantify conservatism? 2) How to quantify the "upper hand"?
 		- The Holy Roman Empire
 			- "A ruler committed to such absolute values found it impossible to compromise, let alone to manipulate, his bargaining position." => Conservatism lead them directly to not compromise
 		- The Ottomans	
 			- ...Established trade agreements "Such trade agreements, called capitulations, led to European domination of Ottoman seaborne trade. Far from seeing Europe as the enemy that would eventually dismantle the empire, the Istanbul elite experimented with European clothing and furniture styles"
-		- 
+		- The French
+			- Did better with raison de etat — that 
+
+## Claim Synthesis
+### Development phase – How and So-What
+
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
