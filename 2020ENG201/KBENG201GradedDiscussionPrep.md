@@ -32,9 +32,13 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 ### Ryan's Opening — Marlow's Perspective brings Darkness 1-5
 * Initially, Ryan believes that it is difficult to see beyond Marlow's perspective
 * Story is from his perspective => so, of course, its Marlow that welds the darkness!
-* However, it is possible to gauge the darkness by analyzing the dialog with other characters to find their perspectives
-* Only perspectives we get is through European colonists is ultimately biased
-
+* However, it is possible to gauge the darkness by analyzing the dialog with other characters to find their perspectives to find out what they say
+* Issue! only perspectives we get is through European colonists is ultimately biased
+	* We mostly get European views
+	* And the two times a native speaks, its...
+		* Eat 'im
+		* and Mist
+	
 **CONFLIGHT!**
 
 ### Zach — Darkness already present 5-9
