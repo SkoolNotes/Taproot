@@ -71,8 +71,7 @@ Saliant points for Jack:
 
 - Thems: 5
 - Hell: 43/44
-- 
+- Cannibals: 
 
 
 
-- Comparing normal features of the land as hell — 43
