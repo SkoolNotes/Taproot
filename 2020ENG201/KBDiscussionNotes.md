@@ -19,6 +19,9 @@ source:  #index
 		- Does she mean that it causes madness?
 		- says that heads are the main symbol of madness
 		-  
+- Jackson says 
+	- That the meeting of kurtz is ironic 
+	- Builds up kurtzs, but when they meet him, it's anticlimatic 
 
 
 
