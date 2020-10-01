@@ -41,7 +41,7 @@ Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to bud in.
 	* And the two times a native speaks, its...
 		* "Eat 'im"
 		* "and Mistah Kurtz, He Dead
-	* Because we only have two instances, can't accurately gauge the darkness through non-marlow
+	* Because we only have two instances — and they are gramatically incoherent sentences —  can't accurately gauge the darkness through non-marlow
 	* Mention Acheobe
 	
 **CONFLIGHT! line** There is possibility to gauge darkness of land through simply analyzing the environment to take it as it is.
