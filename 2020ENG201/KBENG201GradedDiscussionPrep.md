@@ -71,7 +71,8 @@ Saliant points for Jack:
 
 - Thems: 5
 - Hell: 43/44
-- Cannibals: 
+- Cannibals: 49 bottom
+- 
 
 
 
