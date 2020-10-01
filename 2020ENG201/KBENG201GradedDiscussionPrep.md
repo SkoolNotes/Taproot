@@ -46,11 +46,11 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 	2. How that influence marlow's view, before and after
 	3. But! It does not really seem to darken marlow
 * There are unseen dark porps of his enviroment that he does not see 
-* Some analysis — why is he not affected? Oh! Right! Because... MARLOW IS A BLOODY 
+* Some analysis — why is he not affected? Oh! Right! Because... MARLOW IS A BLOODY RACIST!
 	
 **CONFLIGHT!**
 
-### Jack — the darkness was always there, but Marlow!
+### Jack — the darkness was always there (b/c Europeans), but Marlow also is a contributor to it.
 * Hell example — that you CAN
 
 
