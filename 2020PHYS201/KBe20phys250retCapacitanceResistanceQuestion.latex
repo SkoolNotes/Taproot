@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2045)}}    % original
-%\rhead{\textrmlf{Compiled }\#2045\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2045\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2046)}}    % original
+%\rhead{\textrmlf{Compiled }\#2046\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2046\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -225,7 +225,7 @@ conductors to rise to an appreciable fraction of the battery voltage. Do
 any of the parameters listed above cancel out?
 \end{quote}
 
-\[\Tau = RC = \frac{L\rho}{HW} \frac{\kappa \epsilon_0 LH}{S}\]
+\[\tau = RC = \frac{L\rho}{HW} \frac{\kappa \epsilon_0 LH}{S}\]
 
 \begin{quote}
 Assume the conductive strips are made of aluminum, L = 250 μm, k = 2,
