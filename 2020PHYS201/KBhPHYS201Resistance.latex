@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2056)}}    % original
+%\rhead{\textrmlf{Compiled }\#2056\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2056\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -201,6 +203,16 @@ and, indeed, resistivity of materials are measured in
 \hypertarget{heat-of-resistance}{%
 \subsubsection{Heat of resistance}\label{heat-of-resistance}}
 
-{[}{[}KBe20phys250srcHeatFromResistors.png{]}{]}
+\begin{figure}
+\centering
+\includegraphics{KBe20phys250srcHeatFromResistors.png}
+\caption{KBe20phys250srcHeatFromResistors.png}
+\end{figure}
+
+\hypertarget{ohm}{%
+\section{Ohm}\label{ohm}}
+
+\[\Omega = \dfrac{\text{V}}{\text{A}} = \dfrac{1}{\text{S}} = \dfrac{\text{W}}{\text{A}^2} = \dfrac{\text{V}^2}{\text{W}} = \dfrac{\text{s}}{\text{F}} = \dfrac{\text{H}}{\text{s}} = \dfrac{\text{J} {\cdot} \text{s}}{\text{C}^2} = \dfrac{\text{kg} {\cdot} \text{m}^2}{\text{s} {\cdot} \text{C}^2} = \dfrac{\text{J}}{\text{s} {\cdot} \text{A}^2}=\dfrac{\text{kg}{\cdot}\text{m}^2}{\text{s}^3 {\cdot} \text{A}^2}\]
+(Wikipedia)
 
 \end{document}
