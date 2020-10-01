@@ -12,5 +12,10 @@ source:  KBe2020math530floIndex
 - We can therefore find a non-trivial combination that equals zero, and can thus find a non-trivial combination of the original list by multiplying each vector by $(x-2)$.
 
 # Elementary Matrices
+#incomplete 
+
+## Things you can do
+- Multiply a row by a nonzero scalar
+- Add two rows
 
 ---
