@@ -51,7 +51,6 @@ Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to bud in.
 * Surroundings are already dark b/c of Europeans
 * Find quotes about
 	1. People dying; people chained together
-		1. 
 	2. How that influence marlow's view, before and after
 	3. But! It does not really seem to darken Marlow
 * There are unseen dark properties of his environment that he does not see 
