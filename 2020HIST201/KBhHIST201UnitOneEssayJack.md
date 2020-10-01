@@ -33,7 +33,8 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 	- ...Established trade agreements "Such trade agreements, called capitulations, led to European domination of Ottoman seaborne trade. Far from seeing Europe as the enemy that would eventually dismantle the empire, the Istanbul elite experimented with European clothing and furniture styles"
 - The French
 	- Did better with raison de etat — had the ability to put traditional ideas aside and instead focus on policy making. "Though privately religious, Richlieu viewed his duties as minister in entirely secular terms. ... 'The state has no immortality, its salvation is now or never.'  In other words, states do not receive credit in any world for doing what is right; they are only rewarded for being strong enough to do what is necessary."
-- Ming 
+- Ming
+	- Panic-dealt with hyper-inflation, creating cycles
 
 ## Claim Synthesis
 ### Development phase – How and So-What
