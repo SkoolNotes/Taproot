@@ -51,7 +51,7 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 **CONFLIGHT!**
 
 ### Jack — the darkness was always there (b/c Europeans), but Marlow also is a contributor to it.
-* Hell example — that you CAN
+* Hell example — that you CAN 
 
 
 - "The earth seemed unearthly" quote. It seems like he is describing Earth as he sees it, but how much of it is Marlow thinking its dark and how much of it is actually dark
