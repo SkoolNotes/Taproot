@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2018)}}    % original
-%\rhead{\textrmlf{Compiled }\#2018\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2018\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2019)}}    % original
+%\rhead{\textrmlf{Compiled }\#2019\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2019\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -447,6 +447,12 @@ of Kurtz does Conrad want to portray?
     \end{itemize}
   \end{itemize}
 \item
+  rowan responds
+
+  \begin{itemize}
+  \tightlist
+  \item
+  \end{itemize}
 \end{itemize}
 
 \end{document}

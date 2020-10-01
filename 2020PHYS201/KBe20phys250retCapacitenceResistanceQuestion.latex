@@ -108,8 +108,9 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 20phys201 }
-\newcommand{\thelesson}{ physics ret index }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Homework Question in Capacitence and
+Resistance }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -125,7 +126,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2019)}}    % original
 %\rhead{\textrmlf{Compiled }\#2019\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#2019\textrmlf{ on} \today}       % new date
-\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,35 +165,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBPhysicsMasterIndex}{\tiny\textulf{[[}\textbf{KBPhysicsMasterIndex}\textulf{]]}}}\thinspace
 
-\begin{itemize}
-\item
-  {[}{[}SRCelectrostaticsPacket1annotatedExr0n.pdf{]}{]}
-\item
-  Annotations for
-  \href{https://nuevaschool.instructure.com/courses/2851/assignments/51288}{``Intro
-  to voltage with gravity''}:
-  {[}{[}exr0n20phys201retIntroVoltageWithGravity.pdf{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    {[}{[}KBe20phys201srcVoltageCurrentGravity2.pdf{]}{]}
-  \end{itemize}
-\item
-  Multimeters and Breadboards
-  {[}{[}KBe20phys250srcMultimetersAndBreadboards.pdf{]}{]}
-\item
-  {[}{[}KBe20phys250srcBreadboardCircuitImages.pdf{]}{]}
-\item
-  {[}{[}KBe20phys250retComplexCircuitTable1{]}{]}
-\item
-  {[}{[}KBe20phys250srcFirstBreadboardExercise.pdf{]}{]}
-\item ~
-  \hypertarget{kbe20phys250retcapacitenceresistancequestion}{%
-  \subsection{{[}{[}KBe20phys250retCapacitenceResistanceQuestion{]}{]}}\label{kbe20phys250retcapacitenceresistancequestion}}
-\end{itemize}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}
