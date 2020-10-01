@@ -53,7 +53,11 @@ Essay option 2: According to Charles Tilly’s “bellicist” theory of state f
 	- Income / profit
 		- Silver inflation from Spain and stuff
 
-Bellicist theory war making doesnt 
+Bellicist theory: war making doesnt directly lead to statemaking. War making leads to need for statemaking which leads to statemaking or collapse. 
+
+This is an imporant distinction that must be made {becuaseeeeeee}
+
+it allows us to say things that threaten the state 
 
 
 
