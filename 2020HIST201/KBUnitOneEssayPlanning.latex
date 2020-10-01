@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1556)}}    % original
-%\rhead{\textrmlf{Compiled }\#1556\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1556\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1956)}}    % original
+%\rhead{\textrmlf{Compiled }\#1956\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1956\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -228,6 +228,14 @@ Essay option 2: According to Charles Tilly’s “bellicist” theory of state f
   \item
     Does trade require state-made organization?
   \end{itemize}
+\end{itemize}
+
+Bellicist theory is incomplete
+
+\begin{itemize}
+\tightlist
+\item
+  Other forms of danger besides ware require state-making
 \end{itemize}
 
 \end{document}
