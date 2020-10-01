@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2017)}}    % original
-%\rhead{\textrmlf{Compiled }\#2017\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2017\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2018)}}    % original
+%\rhead{\textrmlf{Compiled }\#2018\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2018\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -439,8 +439,14 @@ of Kurtz does Conrad want to portray?
   \tightlist
   \item
     that marlow is emotinally detached until the end
-  \item
+
+    \begin{itemize}
+    \tightlist
+    \item
+      even when pointing our the horrid things that are happening
+    \end{itemize}
   \end{itemize}
+\item
 \end{itemize}
 
 \end{document}

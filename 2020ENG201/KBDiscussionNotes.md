@@ -94,8 +94,8 @@ source:  #index
 	
 - aime says
 	- that marlow is emotinally detached until the end
-	- 
-
+		- even when pointing our the horrid things that are happening
+- 
 
 
 
