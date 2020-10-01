@@ -31,7 +31,13 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 
 ### Ryan's Opening
 * Initially, Ryan believes that there are no ways to show that it is difficult to see beyond Marlow's perspective
-* However, it is
+* However, it is possible to gauge the darkness by analyzing the dialog afterwards
+
+### Zach
+* Both his environment and himself is dark
+* Surroundings are already dark
+	* People dying
+	* People chained together
 
 both! It's a greesy cycle.
 
