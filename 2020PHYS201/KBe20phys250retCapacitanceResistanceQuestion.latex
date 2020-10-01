@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2060)}}    % original
-%\rhead{\textrmlf{Compiled }\#2060\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2060\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2061)}}    % original
+%\rhead{\textrmlf{Compiled }\#2061\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2061\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -227,16 +227,17 @@ any of the parameters listed above cancel out?
 
 \[
 \begin{aligned}
-\tau = RC = \frac{L\rho}{\cancel{H}W} \frac{\kappa \epsilon_0 L\cancel{H}}{S} \text{in} \frac{m^2\Omega m\frac{C^2}{Nm^2}}{m^2} = \frac{\cancel{m^2}\Omega m C^2}{m^2N\cancel{m^2}} = \frac{\cancel{m^2}kg\ \cancel{m^2}\ m \cancel{C^2}}{\cancel{m^2}N\cancel{m^2}\cancel{C^2}s} = \frac{kg\ m}{\frac{Nm}{s^2}}\\
+\tau = RC = \frac{L\rho}{\cancel{H}W} \frac{\kappa \epsilon_0 L\cancel{H}}{S} \text{in} \frac{m^2\Omega m\frac{C^2}{Nm^2}}{m^2} = \frac{\cancel{m^2}\Omega m C^2}{m^2N\cancel{m^2}} = \frac{\cancel{m^2}kg\ \cancel{m^2}\ m \cancel{C^2}}{\cancel{m^2}N\cancel{m^2}\cancel{C^2}s} = \frac{kg\ m}{\frac{kg\ m}{s^2}s} = s\\
 \end{aligned}
 \]
 
 \begin{quote}
 Assume the conductive strips are made of aluminum, L = 250 μm, k = 2,
-and H = W = S = 20 nanometers. What is your calculation of the time
-constant? Be careful with units, and check to make sure that your answer
-is in seconds. What does the time constant have to do with how many
-signals or voltage changes can be sent per second?
+and H = W = S = 20 nanometers, \(\rho = 2.65\times10^{−8}\). What is
+your calculation of the time constant? Be careful with units, and check
+to make sure that your answer is in seconds. What does the time constant
+have to do with how many signals or voltage changes can be sent per
+second?
 \end{quote}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
