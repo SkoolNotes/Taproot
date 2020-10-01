@@ -106,7 +106,8 @@ source:  #index
 # Four (I know how to count trust me)
 
 
-- 1. Is the racism in Heart of Darkness a parody of European racism during colonial times or is it Conrad's inherent racism?    2.  How did the different people who told Marlow about Kurtz alter his opinion on him, how much did their opinions influence Marlow and why did they hold more/less value? 
+> 1. Is the racism in Heart of Darkness a parody of European racism during colonial times or is it Conrad's inherent racism?    
+> 2.  How did the different people who told Marlow about Kurtz alter his opinion on him, how much did their opinions influence Marlow and why did they hold more/less value? 
 
 
 

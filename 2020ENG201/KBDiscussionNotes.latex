@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2028)}}    % original
-%\rhead{\textrmlf{Compiled }\#2028\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2028\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2029)}}    % original
+%\rhead{\textrmlf{Compiled }\#2029\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2029\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -478,18 +478,18 @@ of Kurtz does Conrad want to portray?
 \section{Four (I know how to count trust
 me)}\label{four-i-know-how-to-count-trust-me}}
 
-\begin{itemize}
+\begin{quote}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
 \item
-  \begin{enumerate}
-  \def\labelenumi{\arabic{enumi}.}
-  \tightlist
-  \item
-    Is the racism in Heart of Darkness a parody of European racism
-    during colonial times or is it Conrad's inherent racism?    2. How
-    did the different people who told Marlow about Kurtz alter his
-    opinion on him, how much did their opinions influence Marlow and why
-    did they hold more/less value? 
-  \end{enumerate}
-\end{itemize}
+  Is the racism in Heart of Darkness a parody of European racism during
+  colonial times or is it Conrad's inherent racism?    
+\item
+  How did the different people who told Marlow about Kurtz alter his
+  opinion on him, how much did their opinions influence Marlow and why
+  did they hold more/less value? 
+\end{enumerate}
+\end{quote}
 
 \end{document}
