@@ -83,9 +83,11 @@ source:  #index
 	- we dont see her often
 	- justaposition off...?
 		- hard to hear 
+	- strange descriptions of beuty
+		- ah, the justaposition of beuty and savage? 
+
+- riley 
 	- 
-
-
 
 
 
