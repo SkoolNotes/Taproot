@@ -23,15 +23,12 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 - @[[KBhHIST201Ottomans1500]]   Enjoys control of the silk read; Huge landmass; Large army (and, large cannons + siege trains); Strong Navy! => deployed frequently in the Black Sea, Constantinople, North Africa
 	- Enjoyed physical control: Strategic link between Europe + Asia at the Daranelles strait 
 - @[[KBhHIST201ProblemsWithSilver]]  — major globalization
-- Per Kennedy's favourite argument
+- Per Kennedy's favourite argument — 
  
 
-
-
-
-## Claim Synthesis (Babingtonization)
+## Claim Synthesis
 ### Development phase – How and So-What
-- *CLAIM*
+- *Conservative, well-established nations*
 	- How THING THAT ATTACKS INTERGRITY OF CLAIM
 		- EVIDENCE and SPECIFICITY
 	- So what (local), THING THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS THE BROADER PICTURE
