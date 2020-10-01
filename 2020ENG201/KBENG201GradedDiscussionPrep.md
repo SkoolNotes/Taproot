@@ -40,7 +40,7 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 		* "and Mistah Kurtz, He Dead
 	* Because we only have two instances, can't accurately gauge the darkness through non-marlow
 	
-**CONFLIGHT! light** No! There is possiblity to gauge darkness of land through simply analyzing the environment.
+**CONFLIGHT! line** There is possibility to gauge darkness of land through simply analyzing the environment to take it as it is.
 
 ### Zach — Darkness already present 5-9
 * Both his environment and himself is dark
