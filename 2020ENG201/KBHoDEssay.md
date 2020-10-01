@@ -52,6 +52,8 @@ OPTION 3: Propose your own analytical adventure
 shoes...? 
 
 
+###### Thesis: Conrad uses ironic imeragery in the ehart of darkness to convery the 
+
 
 
 
