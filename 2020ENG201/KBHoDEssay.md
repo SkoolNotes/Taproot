@@ -57,6 +57,10 @@ shoes...?
 
 the danger of false inherent value in ideas. 
 
+the dangers of placing inherent value in ideas
+
+the dangers of placing inherent value in ideas
+
 the unreliability of ideas. 
 
 
