@@ -55,7 +55,7 @@ shoes...?
 ###### Thesis: Conrad uses ironic imagery in the heart of darkness to convey 
  our dangerous attachment to ideas. 
 
-
+the danger of false inherent value in ideas. 
 
 the unreliability of ideas. 
 
