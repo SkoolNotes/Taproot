@@ -63,7 +63,7 @@ Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to bud in.
 ### Jack — the darkness was always there (b/c Europeans), but Marlow's perspective also is a contributor to it. 9-12
 - Hell example — language of hell, except language actually just show reality
 - "The earth seemed unearthly. we are accustomed ... but here— you could look at a thing mostrous and free": indeed, Marlow admitting that perception shaped his senses.
-- Darkness is everywhe
+- Darkness is **everywhere** — even on the Thems — but Marlow could only percieve the darkness that he choose to percieve. Marlow does not bring darkness, and Marlow doe
 * Then realized that, if there were to be an example, a place to show the objective example of the darkness, we could get another perspective potentially through convos he has with other people to pick up on things that they have said
 
 
