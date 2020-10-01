@@ -58,7 +58,7 @@ Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to bud in.
 	* Compared to to like... Kurtz dying, or his Helmsmen dying — lots of ceremony and discussion
 * Marlow bloody racist => dosen’t see some darkness
 
-**CONFLIGHT!** Well... Perhaps this is important no note — Marl'w s
+**CONFLIGHT!** Maybe there 
 
 ### Jack — the darkness was always there (b/c Europeans), but Marlow's perspective also is a contributor to it. 9-12
 - Hell example — language of hell, except language actually just show reality
