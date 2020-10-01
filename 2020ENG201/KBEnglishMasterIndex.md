@@ -44,6 +44,7 @@ source: #index
     * [[KBhENG201HeartOfHardness]] Heart of Darkness Index 
 	* [[KBheartday1]] Huxley, I am assuming?
 	* [[KBHoDEssay]]
+	* [[KBDiscussionNotes]]
   
 ## Annotated Docs
 | | |
