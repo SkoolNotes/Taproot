@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1990)}}    % original
-%\rhead{\textrmlf{Compiled }\#1990\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1990\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1991)}}    % original
+%\rhead{\textrmlf{Compiled }\#1991\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1991\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -202,6 +202,8 @@
   Multiply a row by a nonzero scalar
 \item
   Add two rows
+\item
+  Switch the ordering of the rows
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}

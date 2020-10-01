@@ -17,5 +17,8 @@ source:  KBe2020math530floIndex
 ## Things you can do
 - Multiply a row by a nonzero scalar
 - Add two rows
+- Switch the ordering of the rows
+
+The matrices that correspond to these operations are what we call #definition elementary matrices.
 
 ---
