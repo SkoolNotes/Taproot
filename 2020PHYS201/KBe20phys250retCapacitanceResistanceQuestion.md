@@ -22,7 +22,7 @@ $$R = \frac{L\rho}{HW}$$
 
 $$C = \frac{\kappa \epsilon_0 LH}{S}$$
 
-Should the area be $LH$ or $WH$? Because, we know 
+Should the area be $LH$ or $WH$? Because, we know that "sometimes" collects in the far edges, 
 
 > Combine these to estimate the time it takes for the far end of the conductors to rise to an appreciable fraction of the battery voltage. Do any of the parameters listed above cancel out?
 

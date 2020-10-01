@@ -167,7 +167,8 @@ $$Question\ Break$$
 	- flip flops alot
 	
 - kayla disagrees with nico
-	- 
+	- says that marlow doesnt belive what he said to the intended
+	- did nico say this? he very well may have 
 
 
 
