@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2021)}}    % original
-%\rhead{\textrmlf{Compiled }\#2021\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2021\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2023)}}    % original
+%\rhead{\textrmlf{Compiled }\#2023\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2023\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -195,13 +195,18 @@ with an insulator having relative dielectric constant k.
 
 \begin{quote}
 Write an expression for the resistance of each conductor in terms of the
-above quantities, and the resistivity of the conductor material, r.
+above quantities, and the resistivity of the conductor material,
+\(\rho\).
 \end{quote}
+
+\[R = \frac{L\rho}{HW}\]
 
 \begin{quote}
 Write an expression for the capacitance of the two conductors, assuming
 they form a parallel-plate capacitor.
 \end{quote}
+
+\$\$C =
 
 \begin{quote}
 Combine these to estimate the time it takes for the far end of the

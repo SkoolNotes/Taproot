@@ -18,6 +18,8 @@ $$R = \frac{L\rho}{HW}$$
 
 > Write an expression for the capacitance of the two conductors, assuming they form a parallel-plate capacitor.
 
+$$C = 
+
 > Combine these to estimate the time it takes for the far end of the conductors to
 
 >  rise to an appreciable fraction of the battery voltage. Do any of the parameters listed above cancel out?
