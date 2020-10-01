@@ -56,9 +56,9 @@ Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to bud in.
 * **Some analysis** It does not really seem to darken Marlow  — why is he not affected? Oh! Right! Because... MARLOW IS A BLOODY RACIST!
 	* Undereacts to black people dying next to him
 	* Compared to to like... Kurtz dying, or his Helmsmen dying — lots of ceremony and discussion
-* Marlow bloody racist => doesn’t see some darkness
+* Marlow bloody racist => dosen’t see some darkness
 
-**CONFLIGHT!** they fit the darkness
+**CONFLIGHT!** 
 
 ### Jack — the darkness was always there (b/c Europeans), but Marlow's perspective also is a contributor to it. 9-12
 - Hell example — language of hell, except language actually just show reality
