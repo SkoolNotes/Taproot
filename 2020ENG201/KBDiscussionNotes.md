@@ -125,7 +125,13 @@ source:  #index
 - Isabella
 	- uses the n-word, therefore, is racist!
 
-- 
+- kayla
+	- pattern of the n-word, therefore, nword isnt parody, therefore, is racist!
+	- an author cannot have a racist protagonist withoutgh being racist
+		- uh
+
+- Nico says
+	- that marlow isnt protrayed as having any flaws, and therfore, 
 
 
 
