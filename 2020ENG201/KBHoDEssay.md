@@ -52,7 +52,7 @@ OPTION 3: Propose your own analytical adventure
 shoes...? 
 
 
-###### Thesis: Conrad uses ironic imeragery in the ehart of darkness to convery the 
+###### Thesis: Conrad uses ironic imagery in the heart of darkness to convey the unreliability of ideas. 
 
 
 
