@@ -21,4 +21,6 @@ source:  KBe2020math530floIndex
 
 The matrices that correspond to these operations are what we call #definition elementary matrices.
 
+This includes the identity matrix (multiply by the scalar 1).
+
 ---
