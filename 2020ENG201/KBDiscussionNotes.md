@@ -11,7 +11,7 @@ source:  #index
 
 
 # One
-
+How does Conrad relate /define darkness and insanity throughout the novel?  Why does Conrad build up to Kurtz so gradually, what perception of Kurtz does Conrad want to portray?
 - Nixie's conclustion
 	- Madnesss is being removed from a place you are used to
 		- Does she mean that it causes madness?
