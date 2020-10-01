@@ -77,11 +77,10 @@ source:  #index
 - Rowan adds
 	- Beuty is inherently primal
 		- stems from necessity
-			- this is an intresting point. fits with the "eruope no better" thesis.
-			-
-		
-	
-
+			- this is an intresting point. fits with the "Europe no better" thesis.
+			
+- anoushka
+	- 
 
 
 
