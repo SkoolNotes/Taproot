@@ -114,6 +114,11 @@ source:  #index
 		
 - Nico says
 	- Conrad is truly racist
+		- becuase black people speak once or twice and are dehumanized
+		- its not satire 
+		
+- Calder respondes 
+	- bassicly says it can be a depiction of 
 
 
 
