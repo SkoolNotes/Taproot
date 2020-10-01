@@ -46,8 +46,10 @@ Essay option 2: According to Charles Tilly’s “bellicist” theory of state f
 - Other forms of danger besides war require state-making
 	- Plauge
 		- Look at ottoman orthodox vs european new ways
-		- Ideological
-			- 
+	- Ideological
+		- Religon?
+			- Religon is effective way to control people, but religion can get threatened. 
+	- Income 
 
 
 
