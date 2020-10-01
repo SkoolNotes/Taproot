@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1824)}}    % original
-%\rhead{\textrmlf{Compiled }\#1824\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1824\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1825)}}    % original
+%\rhead{\textrmlf{Compiled }\#1825\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1825\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -262,7 +262,8 @@ So-What}\label{development-phase-how-and-so-what}}
     \def\labelenumi{\arabic{enumi})}
     \tightlist
     \item
-      How to quantify con
+      How to quantify conservatism? 2) How to quantify the ``upper
+      hand''?
     \end{enumerate}
 
     \begin{itemize}
