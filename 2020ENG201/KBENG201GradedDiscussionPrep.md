@@ -30,7 +30,7 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 
 
 ### Ryan's Opening — Marlow's Perspective brings Darkness 1-5
-* Initially, Ryan believes that there are no ways to show that it is difficult to see beyond Marlow's perspective
+* Initially, Ryan believes that it is difficult to see beyond Marlow's perspective
 * However, it is possible to gauge the darkness by analyzing the dialog with other characters
 * Find quotes about
 	1. How others are happy/not dark
