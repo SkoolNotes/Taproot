@@ -28,10 +28,10 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 
 ## Claim Synthesis
 ### Development phase – How and So-What
-- *Conservative, well-established nations preferred to accept instead of engage in trade, leading the smaller trading nations to have the upper hand in a newly globalized economy.*
+- *Conservative nations such as the Holy Roman Empire*
 	- 1) How to quantify conservatism? 2) How to quantify the "upper hand"?
 		- The Holy Roman Empire
-			- A ruler committed to such absolute values found it impossible to compromise, let alone to manipulate, his bargaining position. => Conservatism lead them directly to not compromise
+			- "A ruler committed to such absolute values found it impossible to compromise, let alone to manipulate, his bargaining position." => Conservatism lead them directly to not compromise
 			- 
 
 	- So what (local), THING THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS THE BROADER PICTURE
