@@ -98,7 +98,10 @@ source:  #index
 - rowan responds
 	- describes violence to "his people" in much more detail
 		- huge contrast in the descriptions
-			- this is proof of racism! says rowa
+			- this is proof of racism(ish)! says rowan 
+				- framed narritive means that this is weird
+
+
 
 
 

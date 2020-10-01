@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2021)}}    % original
-%\rhead{\textrmlf{Compiled }\#2021\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2021\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2022)}}    % original
+%\rhead{\textrmlf{Compiled }\#2022\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2022\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -462,7 +462,13 @@ of Kurtz does Conrad want to portray?
       \begin{itemize}
       \tightlist
       \item
-        this is proof of racism! says rowa
+        this is proof of racism(ish)! says rowan
+
+        \begin{itemize}
+        \tightlist
+        \item
+          framed narritive means that this is weird
+        \end{itemize}
       \end{itemize}
     \end{itemize}
   \end{itemize}

@@ -14,6 +14,8 @@ source:  2020PHYS201/exr0n20phys201retIndex.md
 
 > Write an expression for the resistance of each conductor in terms of the above quantities, and the resistivity of the conductor material, $\rho$.
 
+$$R = \frac{L\rho}{HW}$$
+
 > Write an expression for the capacitance of the two conductors, assuming they form a parallel-plate capacitor.
 
 > Combine these to estimate the time it takes for the far end of the conductors to
