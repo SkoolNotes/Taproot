@@ -40,9 +40,9 @@ Essay option 2: According to Charles Tilly’s “bellicist” theory of state f
 
 
 
-==1AM jots!==
-###### Bellicist theory is incomplete
+==<1AM-jots!>==
 
+###### Bellicist theory is incomplete
 
 - Other forms of danger besides war require state-making
 	- Plauge
@@ -60,7 +60,11 @@ This is an imporant distinction that must be made {becuaseeeeeee}
 it allows us to say things that threaten the state lead to state making, effectively :)
 
 
-The nesscecity for the state leads to its creating. Ie. if the state gets hit, and its power is decreased, the cause of the hit can still be counted as an equivalent to 
+The nesscecity for the state leads to its creating. Ie. if the state gets hit, and its power is decreased, the cause of the hit can still be counted as an equivalent to war-making.
+
+
+==</1AM-jots!>==
+
 
 
 
