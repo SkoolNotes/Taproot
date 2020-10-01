@@ -24,8 +24,11 @@ Begin here:
 
 ## WWE
 
-Two stances: Darkness brings
+Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 
-## Jack's notes
+...arguments, arguments, arguments...
 
- 
+both! It's a greesy cycle.
+
+
+
