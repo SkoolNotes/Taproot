@@ -118,7 +118,14 @@ source:  #index
 		- its not satire 
 		
 - Calder respondes 
-	- bassicly says it can be a depiction of 
+	- bassicly says it can be a depiction distinc from conrads actual beliefs 
+		- hard to distinguis
+			- this is a good point. thx calder
+
+- Isabella
+	- uses the n-word, therefore, is racist!
+
+- 
 
 
 
