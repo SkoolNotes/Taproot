@@ -26,7 +26,7 @@ Begin here:
 
 Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 
-...arguments, arguments, arguments...
+
 
 both! It's a greesy cycle.
 
