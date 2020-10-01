@@ -26,8 +26,7 @@ This asks two questions. What does Marlow's language reveal to us about his jour
 Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 
 
-## WWE
-
+## The Discussion
 
 ### Ryan's Opening — Marlow's Perspective brings Darkness 1-5
 * Initially, Ryan believes that it is difficult to see beyond Marlow's perspective
