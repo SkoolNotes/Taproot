@@ -69,7 +69,11 @@ source:  #index
 
 - Riley explains some context
 - Aime describes
-	- 
+	- dehumanization
+	- objecitifes the woman
+		- beucase shes beutiful physically, marlow has more respect
+	- the intended was viewed as emotional and docile 
+
 	
 
 
