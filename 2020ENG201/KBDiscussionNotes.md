@@ -64,7 +64,30 @@ source:  #index
 
 # Two
 
-How does Conrad relate /define darkness and insanity throughout the novel?  Why does Conrad build up to Kurtz so gradually, what perception of Kurtz does Conrad want to portray?
+> How does Conrad relate /define darkness and insanity throughout the novel?  Why does Conrad build up to Kurtz so gradually, what perception of Kurtz does Conrad want to portray?
+
+
+- Riley explains some context
+- Aime describes
+	- 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
