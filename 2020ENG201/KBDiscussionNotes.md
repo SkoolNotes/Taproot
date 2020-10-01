@@ -57,7 +57,6 @@ source:  #index
 - Daniel adds
 	- Mostly about kurtz,
 	- caused by some sort of 'darkness'
-	- 
 
 
 
