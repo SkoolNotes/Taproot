@@ -32,6 +32,17 @@ source:  #index
 	- About kurtz greed with ivory? 
 		- not super related
 
+- Jackson responds
+	- 
+
+
+
+
+
+
+
+
+
 
 
 
