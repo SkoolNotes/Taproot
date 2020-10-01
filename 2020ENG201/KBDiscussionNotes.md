@@ -41,6 +41,18 @@ source:  #index
 	- ties into subcoincuiss
 		- Restates original point
 		- hmmmmm
+- Jackson
+	- There is nothing at the end
+
+- Madeline
+	- About insanity:
+		- conrad uses drums to represent heart beat to make the jungle seem dangerous
+		- ....
+- Daniel
+	- 
+
+
+
 
 
 
