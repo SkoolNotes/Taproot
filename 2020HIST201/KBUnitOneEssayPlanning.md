@@ -40,8 +40,9 @@ Essay option 2: According to Charles Tilly’s “bellicist” theory of state f
 
 
 
-
+==1AM jots!==
 ###### Bellicist theory is incomplete
+
 
 - Other forms of danger besides war require state-making
 	- Plauge
@@ -49,7 +50,10 @@ Essay option 2: According to Charles Tilly’s “bellicist” theory of state f
 	- Ideological
 		- Religon?
 			- Religon is effective way to control people, but religion can get threatened. 
-	- Income 
+	- Income / profit
+		- Silver inflation from Spain and stuff
+
+Bellicist theory war making doesnt 
 
 
 
