@@ -30,7 +30,7 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 
 The leader's job is to "moderate" the two others; others, DO NOT ADVANCE THE ARGUMENT. Let the leader do it.
 
-
+Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to bud in.
 
 ### Ryan's Opening — Marlow's Perspective brings Darkness 1-5
 * Initially, Ryan believes that it is difficult to see beyond Marlow's perspective
