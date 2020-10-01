@@ -28,6 +28,8 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 
 ## The Discussion
 
+
+
 ### Ryan's Opening — Marlow's Perspective brings Darkness 1-5
 * Initially, Ryan believes that it is difficult to see beyond Marlow's perspective
 * Story is from his perspective => so, of course, its Marlow that welds the darkness!
