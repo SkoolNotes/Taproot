@@ -22,7 +22,7 @@ $$R = \frac{L\rho}{HW}$$
 
 $$C = \frac{\kappa \epsilon_0 LH}{S}$$
 
-Should the area be $LH$ or $WH$? Because, we know that "sometimes" collects in the far edges, 
+The area should be $LH$ and not $HW$, because while charge collects in the opposite corners when there is no field $E$ (in electrostatics), charge will collect on the face near the other wire in this case because we have a E field (the whole point of a capacitor).sit Because, we know that "sometimes" collects in the far edges, 
 
 > Combine these to estimate the time it takes for the far end of the conductors to rise to an appreciable fraction of the battery voltage. Do any of the parameters listed above cancel out?
 
