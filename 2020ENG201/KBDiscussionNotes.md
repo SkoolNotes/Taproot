@@ -80,6 +80,9 @@ source:  #index
 			- this is an intresting point. fits with the "Europe no better" thesis.
 			
 - anoushka
+	- we dont see her often
+	- justaposition off...?
+		- hard to hear 
 	- 
 
 
