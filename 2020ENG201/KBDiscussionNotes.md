@@ -137,8 +137,14 @@ source:  #index
 	- actully marlow is painted with flaws 
 
 
-
-
+- kayla adds
+	- conrad is writing about his experience through marlow
+		- hmmmm
+		
+- nico says
+	- that conrad says that europeans have been dragged down by africa
+	- therfore, he truly is, racist 
+	- 
 
 
 
