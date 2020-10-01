@@ -10,7 +10,7 @@ source:  2020PHYS201/exr0n20phys201retIndex.md
 
 > “Signals” are of course nothing other than changing voltages. So imagine that at one point on the chip, a switch is closed that connects two conductors to the opposite ends of a battery. The question is, how long does it take for the other end of the conductors to reach a substantial fraction of the battery voltage?
 
-> Assume the conductors are L meters long, H meters high, W meters wide, and are separated by S meters. The gap between the conductors is filled with an insulator having relative dielectric constant k.
+> Assume the conductors are L meters long, H meters high, W meters wide, and are separated by S meters. The gap between the conductors is filled with an insulator having relative dielectric constant $\kappa$.
 
 > Write an expression for the resistance of each conductor in terms of the above quantities, and the resistivity of the conductor material, $\rho$.
 
