@@ -29,9 +29,14 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 ## WWE
 
 
-### Ryan's Opening — 
+### Ryan's Opening — Marlow's Perspective brings Darkness
 * Initially, Ryan believes that there are no ways to show that it is difficult to see beyond Marlow's perspective
 * However, it is possible to gauge the darkness by analyzing the dialog with other characters
+* Find quotes about
+	1. How others are happy/not dark
+	2. How ma
+
+**CONFLIGHT!**
 
 ### Zach — Darkness Darkens Marlow
 * Both his environment and himself is dark
@@ -39,8 +44,8 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 	* People dying
 	* People chained together
 
-both! It's a greesy cycle.
-
+## Jack — both! It's a greesy cycle.
+* Hell example
 
 
 - "The earth seemed unearthly" quote. It seems like he is describing Earth as he sees it, but how much of it is Marlow thinking its dark and how much of it is actually dark
