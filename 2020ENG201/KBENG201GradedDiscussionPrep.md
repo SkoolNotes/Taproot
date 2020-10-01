@@ -58,11 +58,12 @@ Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to bud in.
 	* Compared to to like... Kurtz dying, or his Helmsmen dying — lots of ceremony and discussion
 * Marlow bloody racist => doesn’t see some darkness
 
-**CONFLIGHT!**
+**CONFLIGHT!** they fit the darkness
 
 ### Jack — the darkness was always there (b/c Europeans), but Marlow also is a contributor to it. 9-12
 - Hell example — language of hell, except actually just reality.
-- "The earth seemed unearthly. we are accustomed ... but here— you could look at a thing mostrous and free": indeed, Marlow just adding to the po 
+- "The earth seemed unearthly. we are accustomed ... but here— you could look at a thing mostrous and free": indeed, Marlow just adding to the point
+- Indeed: Marlow could _percieve_ the darkness: but its a darkness of his own creation from his mind
 * Then realized that, if there were to be an example, a place to show the objective example of the darkness, we could get another perspective potentially through convos he has with other people to pick up on things that they have said
 * Perhaps have a scene with the cannibals — 
 
