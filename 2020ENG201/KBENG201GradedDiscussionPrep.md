@@ -36,8 +36,8 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 * Issue! only perspectives we get is through European colonists is ultimately biased
 	* We mostly get European views
 	* And the two times a native speaks, its...
-		* Eat 'im
-		* and Mist
+		* "Eat 'im"
+		* "and Mistah Kurtz, He Dead
 	
 **CONFLIGHT!**
 
