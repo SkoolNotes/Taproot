@@ -23,7 +23,7 @@ Can we look beyond his perspective of the darkness?
 
 This asks two questions. What does Marlow's language reveal to us about his journey and how, ultimately, does his internalities reveals?
 
-Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
+Two stances: Marlow Brings Darkness, or Marlow Sees Darkness
 
 
 ## The Discussion
