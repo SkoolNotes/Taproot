@@ -18,7 +18,7 @@ $$R = \frac{L\rho}{HW}$$
 
 > Write an expression for the capacitance of the two conductors, assuming they form a parallel-plate capacitor.
 
-$$C = \frac{
+$$C = \frac{\kappa \epsilon_0 A}{S}$$
 
 > Combine these to estimate the time it takes for the far end of the conductors to
 
