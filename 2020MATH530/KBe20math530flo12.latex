@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1987)}}    % original
-%\rhead{\textrmlf{Compiled }\#1987\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1987\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1988)}}    % original
+%\rhead{\textrmlf{Compiled }\#1988\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1988\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -168,7 +168,7 @@
 {\href{http://taproot.shabang.cf/relay?request=KBe2020math530floIndex}{\tiny\textulf{[[}\textbf{KBe2020math530floIndex}\textulf{]]}}}\thinspace
 
 \hypertarget{exercise-2.a.17}{%
-\section{\#\#exercise 2.A.17}\label{exercise-2.a.17}}
+\section{\#exercise 2.A.17}\label{exercise-2.a.17}}
 
 \begin{itemize}
 \tightlist
@@ -184,7 +184,8 @@
   cannot be linearly independent.
 \item
   We can therefore find a non-trivial combination that equals zero, and
-  can thus find a non-trivial combination of the original list
+  can thus find a non-trivial combination of the original list by
+  multiplying each vector by \((x-2)\).
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
