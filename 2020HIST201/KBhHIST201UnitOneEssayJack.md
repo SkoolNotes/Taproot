@@ -28,7 +28,7 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 
 ## Claim Synthesis
 ### Development phase – How and So-What
-- *Countries such as the Holy Roman Empire *
+- *Conservative countries such as the Holy Roman Empire was strict in *
 	- 1) How to quantify conservatism? 2) How to quantify the "upper hand"?
 		- The Holy Roman Empire
 			- "A ruler committed to such absolute values found it impossible to compromise, let alone to manipulate, his bargaining position." => Conservatism lead them directly to not compromise
