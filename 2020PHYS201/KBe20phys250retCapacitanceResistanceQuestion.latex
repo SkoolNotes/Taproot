@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2057)}}    % original
-%\rhead{\textrmlf{Compiled }\#2057\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2057\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2058)}}    % original
+%\rhead{\textrmlf{Compiled }\#2058\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2058\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -227,7 +227,7 @@ any of the parameters listed above cancel out?
 
 \[
 \begin{aligned}
-\tau = RC = \frac{L\rho}{\cancel{H}W} \frac{\kappa \epsilon_0 L\cancel{H}}{S} \text{in} \frac{m^2\Omega m\frac{C^2}{Nm^2}}{m^2} = \frac{\cancel{m^2}\Omega m C^2}{m^2N\cancel{m^2}}\\
+\tau = RC = \frac{L\rho}{\cancel{H}W} \frac{\kappa \epsilon_0 L\cancel{H}}{S} \text{in} \frac{m^2\Omega m\frac{C^2}{Nm^2}}{m^2} = \frac{\cancel{m^2}\Omega m C^2}{m^2N\cancel{m^2}} = \frac{\cancel{m^2}kg\ m^2\ m C^2}{m^2N\cancel{m^2}Cs}\\
 \end{aligned}
 \]
 
