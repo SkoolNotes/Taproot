@@ -30,9 +30,9 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 - The Holy Roman Empire
 	- "A ruler committed to such absolute values found it impossible to compromise, let alone to manipulate, his bargaining position." => Conservatism lead them directly to not compromise, getting the lower hand
 - The Ottomans	
-	- ...Established trade agreements "Such trade agreements, called capitulations, led to European domination of Ottoman seaborne trade. Far from seeing Europe as the enemy that would eventually dismantle the empire, the Istanbul elite experimented with European clothing and furniture styles" 
+	- ...Established trade agreements "Such trade agreements, called capitulations, led to European domination of Ottoman seaborne trade. Far from seeing Europe as the enemy that would eventually dismantle the empire, the Istanbul elite experimented with European clothing and furniture styles" => new styles infultrated the goverment, causing a lack of response or even catpitulation
 - The French
-	- Did better with raison de etat — had the ability to put traditional ideas aside and instead focus on policy making. "Though privately religious, Richlieu viewed his duties as minister in entirely secular terms. ... 'The state has no immortality, its salvation is now or never.'  In other words, states do not receive credit in any world for doing what is right; they are only rewarded for being strong enough to do what is necessary."
+	- "Though privately religious, Richlieu viewed his duties as minister in entirely secular terms. ... 'The state has no immortality, its salvation is now or never.'  In other words, states do not receive credit in any world for doing what is right; they are only rewarded for being strong enough to do what is necessary." => 
 - Ming
 	- Tried to assert control — “Northwestern Foreigners are recalcitrant and their greed knows no bounds. I do not think our present trade with them will ensure us a century of peace. ... As to the foreigners in the southeast, their goods are useful to us just as ours are to them. To use what one has to exchange for what one does not have is what trade is all about. Moreover, these foreigners trade with China under the name of tributary contributions. That means China’s authority is established and the foreigners are submissive"
 
