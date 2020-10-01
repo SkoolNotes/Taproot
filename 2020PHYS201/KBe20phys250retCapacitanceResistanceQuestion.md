@@ -35,6 +35,6 @@ $$
 > Assume the conductive strips are made of aluminum, L = 250 μm, k = 2, and H = W = S = 20 nanometers, $\rho = 2.65\times10^{−8}$. What is your calculation of the time constant? Be careful with units, and check to make sure that your answer is in seconds. What does the time constant have to do with how many signals or voltage changes can be sent per second?
 
 $$\tau
-= \rho\kappa\epsilon_0\frac{L^2}{WS} = 
+= \rho\kappa\epsilon_0\frac{L^2}{WS} = 7.33\times10^{-11}
 $$
 ---
