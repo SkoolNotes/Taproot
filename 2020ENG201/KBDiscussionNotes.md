@@ -87,7 +87,8 @@ source:  #index
 		- ah, the justaposition of beuty and savage? 
 
 - riley 
-	- 
+	- kurzt is like a cult leader
+	- described similary in some fashions to the natives 
 
 
 
