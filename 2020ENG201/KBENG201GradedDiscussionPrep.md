@@ -67,5 +67,12 @@ Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to bud in.
 * Then realized that, if there were to be an example, a place to show the objective example of the darkness, we could get another perspective potentially through convos he has with other people to pick up on things that they have said
 
 
+Saliant points for Jack:
+
+- Thems: 5
+- Hell: 43/44
+- 
+
+
 
 - Comparing normal features of the land as hell — 43
