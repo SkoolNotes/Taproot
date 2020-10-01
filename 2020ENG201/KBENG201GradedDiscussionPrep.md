@@ -11,18 +11,20 @@ course: ENG201
 
 **Page Numbers**: 16, 42, 43, 44, 46, 47, 51, 60
 
+***
+
+Begin here:
+
+## Jack's Intro
+
 How does Marlow’s inner perspective come into dialog with the darkness along his journey?
+
 Can we look beyond his perspective of the darkness?
 
 This asks two questions. What does Marlow's language reveal to us about his journey and how, ultimately, does his internalities reveals?
 
 Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 
-***
-
-Begin here:
-
-## Jack's Intro
 
 ## WWE
 
