@@ -44,7 +44,7 @@ Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to bud in.
 	* Because we only have two instances — and they are gramatically incoherent sentences —  can't accurately gauge the darkness through non-marlow
 	* Mention Acheobe
 	
-**CONFLIGHT! line** There is possibility to gauge darkness of land through simply analyzing the environment to take it as it is.
+**CONFLIGHT! line** There is possibility to gauge darkness of land through simply analyzing the environment to take it as it is from objective language of Marlow.
 
 ### Zach — Darkness already present 5-9
 * Both his environment and himself is dark
@@ -59,8 +59,7 @@ Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to bud in.
 	* Undereacts to black people dying next to him
 	* Compared to to like... Kurtz dying, or his Helmsmen dying
 * Marlow bloody racist => doesn’t see some darkness
-</non-consiquential conversation>
-	
+
 **CONFLIGHT!**
 
 ### Jack — the darkness was always there (b/c Europeans), but Marlow also is a contributor to it. 9-12
