@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1856)}}    % original
-%\rhead{\textrmlf{Compiled }\#1856\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1856\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1857)}}    % original
+%\rhead{\textrmlf{Compiled }\#1857\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1857\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,6 +175,12 @@ prep}\label{english-graded-discussion-prep}}
 \subsection{Quote bin}\label{quote-bin}}
 
 \textbf{Page Numbers}: 16, 42, 43, 44, 46, 47, 51, 60
+
+\hypertarget{jacks-notes}{%
+\subsection{\#\# Jack's notes}\label{jacks-notes}}
+
+\hypertarget{zachs-notes}{%
+\subsection{Zach's notes}\label{zachs-notes}}
 
 \begin{itemize}
 \tightlist
