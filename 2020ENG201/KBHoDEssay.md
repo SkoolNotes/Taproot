@@ -63,7 +63,7 @@ the dangers of placing independent / disassociated value in ideas
 
 the unreliability of ideas. 
 
-
+"The ideas outrun the 
 
 
 
