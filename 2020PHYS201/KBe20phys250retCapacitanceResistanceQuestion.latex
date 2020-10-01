@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2044)}}    % original
-%\rhead{\textrmlf{Compiled }\#2044\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2044\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2045)}}    % original
+%\rhead{\textrmlf{Compiled }\#2045\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2045\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -224,6 +224,8 @@ Combine these to estimate the time it takes for the far end of the
 conductors to rise to an appreciable fraction of the battery voltage. Do
 any of the parameters listed above cancel out?
 \end{quote}
+
+\[\Tau = RC = \frac{L\rho}{HW} \frac{\kappa \epsilon_0 LH}{S}\]
 
 \begin{quote}
 Assume the conductive strips are made of aluminum, L = 250 μm, k = 2,
