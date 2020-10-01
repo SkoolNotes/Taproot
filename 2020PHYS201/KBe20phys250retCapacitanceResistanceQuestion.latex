@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2042)}}    % original
-%\rhead{\textrmlf{Compiled }\#2042\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2042\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2044)}}    % original
+%\rhead{\textrmlf{Compiled }\#2044\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2044\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -214,8 +214,10 @@ they form a parallel-plate capacitor.
 
 \[C = \frac{\kappa \epsilon_0 LH}{S}\]
 
-Should the area be \(LH\) or \(WH\)? Because, we know that ``sometimes''
-collects in the far edges,
+The area should be \(LH\) and not \(HW\), because while charge collects
+in the opposite corners when there is no field \(E\) (in
+electrostatics), charge will collect on the face near the other wire in
+this case because we have a E field (the whole point of a capacitor).
 
 \begin{quote}
 Combine these to estimate the time it takes for the far end of the
