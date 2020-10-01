@@ -34,7 +34,7 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 * However, it is possible to gauge the darkness by analyzing the dialog with other characters
 * Find quotes about
 	1. How others are happy/not dark
-	2. (optimally) How marlow darkens the same scene
+	2. (optimally) How Marlow darkens the same scene
 
 **CONFLIGHT!**
 
@@ -44,8 +44,8 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 * Find quotes about
 	1. People dying; people chained together
 	2. How that influence marlow's view, before and after
-	3. But! It does not really seem to darken marlow
-* There are unseen dark porps of his enviroment that he does not see 
+	3. But! It does not really seem to darken Marlow
+* There are unseen dark properties of his environment that he does not see 
 * Some analysis — why is he not affected? Oh! Right! Because... MARLOW IS A BLOODY RACIST!
 	
 **CONFLIGHT!**
