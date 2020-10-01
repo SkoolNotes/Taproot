@@ -49,7 +49,16 @@ source:  #index
 		- conrad uses drums to represent heart beat to make the jungle seem dangerous
 		- ....
 - Daniel
+	- As you travel the heart of darkness, you travel into kurtz mind
+		- is this true? you dont know kurtz mind till near the end
+- Nixes asks
+	- How does conrad define madness?
+	
+- Daniel adds
+	- Mostly about kurtz,
+	- caused by some sort of 'darkness'
 	- 
+
 
 
 
