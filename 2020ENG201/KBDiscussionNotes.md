@@ -74,6 +74,12 @@ source:  #index
 		- beucase shes beutiful physically, marlow has more respect
 	- the intended was viewed as emotional and docile 
 
+- Rowan adds
+	- Beuty is inherently primal
+		- stems from necessity
+			- this is an intresting point. fits with the "eruope no better" thesis.
+			-
+		
 	
 
 
