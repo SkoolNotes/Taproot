@@ -52,9 +52,8 @@ Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to bud in.
 * Find quotes about
 	1. People dying; people chained together
 	2. How that influence marlow's view, before and after
-	3. But! It does not really seem to darken Marlow
 * Provide transition: there are unseen dark properties of his environment that he does not see; why? 
-* **Some analysis** — why is he not affected? Oh! Right! Because... MARLOW IS A BLOODY RACIST!
+* **Some analysis** It does not really seem to darken Marlow  — why is he not affected? Oh! Right! Because... MARLOW IS A BLOODY RACIST!
 	* Undereacts to black people dying next to him
 	* Compared to to like... Kurtz dying, or his Helmsmen dying
 * Marlow bloody racist => doesn’t see some darkness
