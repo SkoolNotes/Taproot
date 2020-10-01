@@ -52,7 +52,7 @@ OPTION 3: Propose your own analytical adventure
 shoes...? 
 
 
-###### Thesis: Conrad uses ironic imagery in the Heart of Darkness to convey the dangers of placing in 
+###### Thesis: Conrad uses ironic imagery in the Heart of Darkness to convey the dangers of placing independent and dissociated value in ideas.  
  our dangerous attachment to ideas. 
 
 the danger of false inherent value in ideas. 
