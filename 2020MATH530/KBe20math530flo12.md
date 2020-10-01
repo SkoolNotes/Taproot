@@ -11,4 +11,6 @@ source:  KBe2020math530floIndex
 - The original list had $m+1$ elements, so by Axler 2.23 the list cannot be linearly independent. 
 - We can therefore find a non-trivial combination that equals zero, and can thus find a non-trivial combination of the original list by multiplying each vector by $(x-2)$.
 
+# Elementary Matrices
+
 ---
