@@ -57,7 +57,10 @@ Bellicist theory: war making doesnt directly lead to statemaking. War making lea
 
 This is an imporant distinction that must be made {becuaseeeeeee}
 
-it allows us to say things that threaten the state 
+it allows us to say things that threaten the state lead to state making, effectively :)
+
+
+The nesscecity for the state leads to its creating. Ie. if the state gets hit, and its power is decreased, the cause of the hit can still be counted as an equivalent to 
 
 
 
