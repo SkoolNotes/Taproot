@@ -30,7 +30,8 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 
 both! It's a greesy cycle.
 
-
+* Initially, so... We only get Marlow's perspective, so we could only get his perpescitev of the darkness, so there is no way to prove his counter-argument
+* Then realized that, if there were to be an example, a place to show the objective example of the darkness
 
 
 
