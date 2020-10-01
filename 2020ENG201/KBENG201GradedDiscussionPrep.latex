@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1870)}}    % original
-%\rhead{\textrmlf{Compiled }\#1870\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1870\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1871)}}    % original
+%\rhead{\textrmlf{Compiled }\#1871\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1871\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,8 +179,12 @@ prep}\label{english-graded-discussion-prep}}
 How does Marlow's inner perspective come into dialog with the darkness
 along his journey?
 
-\hypertarget{jacks-notes}{%
-\subsection{Jack's notes}\label{jacks-notes}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Begin here:
+
+\hypertarget{jacks-intro}{%
+\subsection{Jack's Intro}\label{jacks-intro}}
 
 \begin{itemize}
 \tightlist
@@ -195,12 +199,10 @@ along his journey?
   Comparing normal features of the land as hell --- 43
 \end{itemize}
 
-\hypertarget{zachs-notes}{%
-\subsection{Zach's notes}\label{zachs-notes}}
+\hypertarget{wwe}{%
+\subsection{WWE}\label{wwe}}
 
-\begin{itemize}
-\tightlist
-\item
-\end{itemize}
+\hypertarget{jacks-notes}{%
+\subsection{Jack's notes}\label{jacks-notes}}
 
 \end{document}
