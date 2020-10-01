@@ -39,6 +39,7 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 		* "Eat 'im"
 		* "and Mistah Kurtz, He Dead
 	* Because we only have two instances, can't accurately gauge the darkness through non-marlow
+	* Mention Acheobe
 	
 **CONFLIGHT! line** There is possibility to gauge darkness of land through simply analyzing the environment to take it as it is.
 
