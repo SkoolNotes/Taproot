@@ -15,7 +15,7 @@ course: ENG201
 
 Begin here:
 
-## Jack's Intro
+## Jack's Intro 0:00 - 1:00
 
 How does Marlow’s inner perspective come into dialog with the darkness along his journey?
 
