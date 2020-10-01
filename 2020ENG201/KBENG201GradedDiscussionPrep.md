@@ -55,8 +55,8 @@ Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to bud in.
 	3. But! It does not really seem to darken Marlow
 * There are unseen dark properties of his environment that he does not see 
 * Some analysis — why is he not affected? Oh! Right! Because... MARLOW IS A BLOODY RACIST!
-	* Undereacts to people dying next to him
-	* Compared to to like... Kurtz dying,
+	* Undereacts to black people dying next to him
+	* Compared to to like... Kurtz dying, or his Helmsmen dying
 	
 **CONFLIGHT!**
 
