@@ -15,7 +15,7 @@ course: ENG201
 
 Begin here:
 
-## Jack's Intro 0:00 - 1:00
+## Jack's Intro 0-1
 
 How does Marlow’s inner perspective come into dialog with the darkness along his journey?
 
@@ -29,7 +29,7 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 ## WWE
 
 
-### Ryan's Opening — Marlow's Perspective brings Darkness 1:00-5:00
+### Ryan's Opening — Marlow's Perspective brings Darkness 1-5
 * Initially, Ryan believes that there are no ways to show that it is difficult to see beyond Marlow's perspective
 * However, it is possible to gauge the darkness by analyzing the dialog with other characters
 * Find quotes about
@@ -38,7 +38,7 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 
 **CONFLIGHT!**
 
-### Zach — Darkness Darkens Marlow
+### Zach — Darkness Darkens Marlow 5-
 * Both his environment and himself is dark
 * Surroundings are already dark b/c of Europeans
 * Find quotes about
