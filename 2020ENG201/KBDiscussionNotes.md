@@ -35,7 +35,12 @@ source:  #index
 - Jackson responds
 	- breaks out of dillsution, "the horror! the horror!"
 
-- 
+- Nixie interjects
+	- Isolating causes kurtz madness
+		- relates back to her original point
+	- ties into subcoincuiss
+		- Restates original point
+		- hmmmmm
 
 
 
