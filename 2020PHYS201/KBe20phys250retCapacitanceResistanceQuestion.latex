@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2052)}}    % original
-%\rhead{\textrmlf{Compiled }\#2052\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2052\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2053)}}    % original
+%\rhead{\textrmlf{Compiled }\#2053\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2053\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -227,7 +227,7 @@ any of the parameters listed above cancel out?
 
 \[
 \begin{aligned}
-\tau = RC = \frac{L\rho}{\cancel{H}W} \frac{\kappa \epsilon_0 L\cancel{H}}{S} \text{in} \frac{m^2}{m^2}\\
+\tau = RC = \frac{L\rho}{\cancel{H}W} \frac{\kappa \epsilon_0 L\cancel{H}}{S} \text{in} \frac{m^2\Omega m}{m^2}\\
 \end{aligned}
 \]
 

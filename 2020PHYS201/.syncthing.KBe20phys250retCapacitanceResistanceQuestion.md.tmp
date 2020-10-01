@@ -28,7 +28,7 @@ The area should be $LH$ and not $HW$, because while charge collects in the oppos
 
 $$
 \begin{aligned}
-\tau = RC = \frac{L\rho}{\cancel{H}W} \frac{\kappa \epsilon_0 L\cancel{H}}{S} \text{in} \frac{m^2\Omega m}{m^2}\\
+\tau = RC = \frac{L\rho}{\cancel{H}W} \frac{\kappa \epsilon_0 L\cancel{H}}{S} \text{in} \frac{m^2\Omega m\frac{C^2}{Nm^2}}{m^2}\\
 \end{aligned}
 $$
 
