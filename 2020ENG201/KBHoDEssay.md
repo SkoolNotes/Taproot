@@ -63,7 +63,9 @@ the dangers of placing independent / disassociated value in ideas
 
 the unreliability of ideas. 
 
-"The ideas outrun the 
+"The ideas outrun the actual"
+
+Can be applied to the European culture / colonialist movement at large. 
 
 
 
