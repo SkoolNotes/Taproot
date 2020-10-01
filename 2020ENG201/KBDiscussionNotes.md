@@ -89,6 +89,8 @@ source:  #index
 - riley 
 	- kurzt is like a cult leader
 	- described similary in some fashions to the natives 
+	- sedces his follower, buts gets seduced himself by the heart of darkness 
+	- > takes priority over rational thinking 
 
 
 
