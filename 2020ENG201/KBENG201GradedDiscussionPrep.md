@@ -57,6 +57,7 @@ Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to bud in.
 * Some analysis — why is he not affected? Oh! Right! Because... MARLOW IS A BLOODY RACIST!
 	* Undereacts to black people dying next to him
 	* Compared to to like... Kurtz dying, or his Helmsmen dying
+* State  
 	
 **CONFLIGHT!**
 
