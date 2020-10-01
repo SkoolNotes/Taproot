@@ -19,8 +19,8 @@ Begin here:
 
 ## Jack's Intro
 - This asks two questions. What does Marlow's language reveal to us about his journey and how, ultimately, does his internalities reveals
+- Can we look beyond his perspective of the darkness?
 - "The earth seemed unearthly" quote. It seems like he is describing Earth as he sees it, but how much of it is Marlow thinking its dark and how much of it is actually dark
-- Comparing normal features of the land as hell — 43
 
 ## WWE
 
@@ -32,3 +32,5 @@ both! It's a greesy cycle.
 
 
 
+
+- Comparing normal features of the land as hell — 43
