@@ -46,7 +46,7 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 	2. How that influence marlow's view, before and after
 	3. But! It does not really seem to darken marlow
 * There are unseen dark porps of his enviroment that he does not see 
-* Some analysis — why is he not affecthat?
+* Some analysis — why is he not affected? Oh! Right! Because...
 	
 **CONFLIGHT!**
 
