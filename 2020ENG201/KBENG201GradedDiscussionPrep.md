@@ -62,7 +62,7 @@ Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to bud in.
 
 ### Jack — the darkness was always there (b/c Europeans), but Marlow also is a contributor to it. 9-12
 - Hell example — language of hell, except actually just reality.
-- "The earth seemed unearthly" quote. It seems like he is describing Earth as he sees it, but how much of it is Marlow thinking its dark and how much of it is actually dark
+- "The earth seemed unearthly. we are accustomed ... but here— 有could咯哦
 * Then realized that, if there were to be an example, a place to show the objective example of the darkness, we could get another perspective potentially through convos he has with other people to pick up on things that they have said
 * Perhaps have a scene with the cannibals — 
 
