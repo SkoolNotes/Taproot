@@ -52,7 +52,10 @@ OPTION 3: Propose your own analytical adventure
 shoes...? 
 
 
-###### Thesis: Conrad uses ironic imagery in the heart of darkness to convey the unreliability of ideas. 
+###### Thesis: Conrad uses ironic imagery in the heart of darkness to convey 
+ our dangerous attachment to ideas. 
+
+the unreliability of ideas. 
 
 
 

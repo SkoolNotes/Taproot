@@ -38,7 +38,7 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 
 **CONFLIGHT!**
 
-### Zach — Darkness Darkens Marlow 5-
+### Zach — Darkness Darkens Marlow 5-9
 * Both his environment and himself is dark
 * Surroundings are already dark b/c of Europeans
 * Find quotes about
@@ -50,7 +50,7 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 	
 **CONFLIGHT!**
 
-### Jack — the darkness was always there (b/c Europeans), but Marlow also is a contributor to it.
+### Jack — the darkness was always there (b/c Europeans), but Marlow also is a contributor to it. 9-12
 * Hell example — that you CAN 
 
 
