@@ -26,7 +26,7 @@ The area should be $LH$ and not $HW$, because while charge collects in the oppos
 
 > Combine these to estimate the time it takes for the far end of the conductors to rise to an appreciable fraction of the battery voltage. Do any of the parameters listed above cancel out?
 
-$$\tau = RC = \frac{L\rho}{HW} \frac{\kappa \epsilon_0 LH}{S}$$
+$$\tau = RC = \frac{L\rho}{\cancel{H}W} \frac{\kappa \epsilon_0 L\cancel{H}}{S}$$
 
 > Assume the conductive strips are made of aluminum, L = 250 μm, k = 2, and H = W = S = 20 nanometers. What is your calculation of the time constant? Be careful with units, and check to make sure that your answer is in seconds. What does the time constant have to do with how many signals or voltage changes can be sent per second?
 
