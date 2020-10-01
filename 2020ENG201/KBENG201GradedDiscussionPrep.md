@@ -34,18 +34,21 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 * However, it is possible to gauge the darkness by analyzing the dialog with other characters
 * Find quotes about
 	1. How others are happy/not dark
-	2. How ma
+	2. (optimally) How marlow darkens the same scene
 
 **CONFLIGHT!**
 
 ### Zach — Darkness Darkens Marlow
 * Both his environment and himself is dark
 * Surroundings are already dark b/c of Europeans
-	* People dying
-	* People chained together
+* Find quotes about
+	1. People dying; people chained together
+	2. How that influence marlow's view, before and after
+	
+**CONFLIGHT!**
 
-## Jack — both! It's a greesy cycle.
-* Hell example
+### Jack — 
+* Hell example — that you CAN
 
 
 - "The earth seemed unearthly" quote. It seems like he is describing Earth as he sees it, but how much of it is Marlow thinking its dark and how much of it is actually dark

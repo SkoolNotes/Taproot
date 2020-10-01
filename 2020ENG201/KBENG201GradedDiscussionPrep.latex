@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1888)}}    % original
-%\rhead{\textrmlf{Compiled }\#1888\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1888\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1889)}}    % original
+%\rhead{\textrmlf{Compiled }\#1889\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1889\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -217,7 +217,7 @@ Darkness}\label{ryans-opening-marlows-perspective-brings-darkness}}
   \item
     How others are happy/not dark
   \item
-    How ma
+    (optimally) How marlow darkens the same scene
   \end{enumerate}
 \end{itemize}
 
@@ -233,14 +233,17 @@ Marlow}\label{zach-darkness-darkens-marlow}}
   Both his environment and himself is dark
 \item
   Surroundings are already dark b/c of Europeans
+\item
+  Find quotes about
 
-  \begin{itemize}
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi}.}
   \tightlist
   \item
-    People dying
+    People dying; people chained together
   \item
-    People chained together
-  \end{itemize}
+    How that influence marlow's view, before and after
+  \end{enumerate}
 \end{itemize}
 
 \hypertarget{jack-both-its-a-greesy-cycle.}{%
@@ -249,7 +252,7 @@ cycle.}\label{jack-both-its-a-greesy-cycle.}}
 
 \begin{itemize}
 \item
-  Hell example
+  Hell example --- that you CAN
 \item
   ``The earth seemed unearthly'' quote. It seems like he is describing
   Earth as he sees it, but how much of it is Marlow thinking its dark
