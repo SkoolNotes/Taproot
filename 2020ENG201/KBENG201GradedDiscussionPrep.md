@@ -38,7 +38,7 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 
 **CONFLIGHT!**
 
-### Zach — Darkness Darkens Marlow 5-9
+### Zach — Darkness already present 5-9
 * Both his environment and himself is dark
 * Surroundings are already dark b/c of Europeans
 * Find quotes about
