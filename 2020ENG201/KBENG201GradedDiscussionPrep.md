@@ -47,7 +47,7 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 	
 **CONFLIGHT!**
 
-### Jack — 
+### Jack — the darkness was always there, but Marlow!
 * Hell example — that you CAN
 
 
