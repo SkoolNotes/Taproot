@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1918)}}    % original
-%\rhead{\textrmlf{Compiled }\#1918\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1918\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1919)}}    % original
+%\rhead{\textrmlf{Compiled }\#1919\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1919\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -230,6 +230,7 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
     \item
       "and Mistah Kurtz, He Dead
     \end{itemize}
+  \item
   \end{itemize}
 \end{itemize}
 

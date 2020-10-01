@@ -38,8 +38,9 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 	* And the two times a native speaks, its...
 		* "Eat 'im"
 		* "and Mistah Kurtz, He Dead
+	* Because we only have two instances, can't accurately gauge the darkness through non-marlow
 	
-**CONFLIGHT!**
+**CONFLIGHT! l**
 
 ### Zach — Darkness already present 5-9
 * Both his environment and himself is dark
