@@ -24,9 +24,7 @@ Begin here:
 
 ## WWE
 
-
-
-
+Two stances: Darkness brings
 
 ## Jack's notes
 
