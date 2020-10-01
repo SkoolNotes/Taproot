@@ -30,14 +30,14 @@ Two stances: Marlow Brings Darkness, or Darkness Darkens Marlow
 
 
 ### Ryan's Opening
-* To see beyond 
+* Initially, Ryan believes that there are no ways to show that it is difficult to see beyond Marlow's perspective
+* However, it is
 
 both! It's a greesy cycle.
 
 
 
 - "The earth seemed unearthly" quote. It seems like he is describing Earth as he sees it, but how much of it is Marlow thinking its dark and how much of it is actually dark
-* Initially, so... We only get Marlow's perspective, so we could only get his perpescitev of the darkness, so there is no way to prove his counter-argument
 * Then realized that, if there were to be an example, a place to show the objective example of the darkness, we could get another perspective potentially through convos he has with other people to pick up on things that they have said
 * Perhaps have a scene with the cannibals — 
 
