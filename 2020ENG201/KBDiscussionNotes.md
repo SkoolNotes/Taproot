@@ -7,9 +7,7 @@ source:  #index
 
 ---
 
-
-
-
+#flo
 
 
 # One
@@ -27,9 +25,12 @@ source:  #index
 	- Connects back to insanity 
 		- nice one
 - Madeline rebuts
-	- did not 
+	- kurts was not as expected
+	- but still liked kurts at the end
 
-
+- Nixie says
+	- About kurtz greed with ivory? 
+		- not super related
 
 
 
