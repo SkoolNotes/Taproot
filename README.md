@@ -23,14 +23,13 @@ Some files are named according to the convention outlined here:
 - [[KBeMetaIndex]] @Exr0n
 - [[KBhMETAindex]] @Jemoka
 
-
 ## Epilogue
 
 Thanks for stopping by!
 
 A "taproot" is a "large, central, and dominant root from which other roots sprout laterally" ([Wikipedia](https://en.wikipedia.org/wiki/Taproot)). Also, it's a food!
 
-Created by Houjun Liu, Huxley Marvit, Zachary Sayyah, Albert Huang.
+(c) 2020-2021 Houjun Liu, Huxley Marvit, Zachary Sayyah, Albert Huang
 
 ---
 

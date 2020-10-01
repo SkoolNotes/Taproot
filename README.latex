@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1550)}}    % original
-%\rhead{\textrmlf{Compiled }\#1550\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1550\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1966)}}    % original
+%\rhead{\textrmlf{Compiled }\#1966\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1966\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -213,7 +213,13 @@ roots sprout laterally''
 (\href{https://en.wikipedia.org/wiki/Taproot}{Wikipedia}). Also, it's a
 food!
 
-Created by Houjun Liu, Huxley Marvit, Zachary Sayyah, Albert Huang.
+\begin{enumerate}
+\def\labelenumi{(\alph{enumi})}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  2020-2021 Houjun Liu, Huxley Marvit, Zachary Sayyah, Albert Huang
+\end{enumerate}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
