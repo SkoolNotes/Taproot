@@ -144,6 +144,8 @@ source:  #index
 - nico says
 	- that conrad says that europeans have been dragged down by africa
 	- therfore, he truly is, racist 
+	
+- isabella asks
 	- 
 
 
