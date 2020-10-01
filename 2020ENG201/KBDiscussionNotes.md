@@ -91,6 +91,10 @@ source:  #index
 	- described similary in some fashions to the natives 
 	- sedces his follower, buts gets seduced himself by the heart of darkness 
 	- > takes priority over rational thinking 
+	
+- aime says
+	- that marlow is emotinally detached until the end
+	- 
 
 
 
