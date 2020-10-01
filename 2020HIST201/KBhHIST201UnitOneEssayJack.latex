@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1823)}}    % original
-%\rhead{\textrmlf{Compiled }\#1823\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1823\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1824)}}    % original
+%\rhead{\textrmlf{Compiled }\#1824\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1824\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -242,9 +242,8 @@ provide some specifics.
   Per Kennedy's favourite argument ---
 \end{itemize}
 
-\hypertarget{claim-synthesis-babingtonization}{%
-\subsection{Claim Synthesis
-(Babingtonization)}\label{claim-synthesis-babingtonization}}
+\hypertarget{claim-synthesis}{%
+\subsection{Claim Synthesis}\label{claim-synthesis}}
 
 \hypertarget{development-phase-how-and-so-what}{%
 \subsubsection{Development phase -- How and
@@ -253,12 +252,18 @@ So-What}\label{development-phase-how-and-so-what}}
 \begin{itemize}
 \tightlist
 \item
-  \emph{CLAIM}
+  \emph{Conservative, well-established nations preferred to accept
+  instead of engage in trade, leading the smaller trading nations to
+  have the upper hand in a newly globalized economy.}
 
   \begin{itemize}
-  \tightlist
   \item
-    How THING THAT ATTACKS INTERGRITY OF CLAIM
+    \begin{enumerate}
+    \def\labelenumi{\arabic{enumi})}
+    \tightlist
+    \item
+      How to quantify con
+    \end{enumerate}
 
     \begin{itemize}
     \tightlist

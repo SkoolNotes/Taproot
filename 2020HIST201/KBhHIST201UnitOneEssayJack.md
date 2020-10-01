@@ -28,8 +28,8 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 
 ## Claim Synthesis
 ### Development phase – How and So-What
-- *Conservative, well-established nations*
-	- How THING THAT ATTACKS INTERGRITY OF CLAIM
+- *Conservative, well-established nations preferred to accept instead of engage in trade, leading the smaller trading nations to have the upper hand in a newly globalized economy.*
+	- 1) How to quantify con
 		- EVIDENCE and SPECIFICITY
 	- So what (local), THING THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS THE BROADER PICTURE
 - *CLAIM*
