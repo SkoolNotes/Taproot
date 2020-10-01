@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2020)}}    % original
-%\rhead{\textrmlf{Compiled }\#2020\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2020\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2021)}}    % original
+%\rhead{\textrmlf{Compiled }\#2021\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2021\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,6 +164,62 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=2020PHYS201/exr0n20phys201retIndex.md}{\tiny\textulf{[[}\textbf{2020PHYS201/exr0n20phys201retIndex.md}\textulf{]]}}}\thinspace
+
+\hypertarget{homework-question}{%
+\section{Homework Question}\label{homework-question}}
+
+\begin{quote}
+To carry signals on silicon chips, metal conductors are created. These
+are usually in the form of rectangular strips as seen in the highly
+magnified image below. Many of the conductors in this image appear to be
+connected to nothing, but they are making contact to structures and
+conductors in lower layer(s). Some are short, but others may run the
+entire length of the chip.
+\end{quote}
+
+\begin{quote}
+``Signals'' are of course nothing other than changing voltages. So
+imagine that at one point on the chip, a switch is closed that connects
+two conductors to the opposite ends of a battery. The question is, how
+long does it take for the other end of the conductors to reach a
+substantial fraction of the battery voltage?
+\end{quote}
+
+\begin{quote}
+Assume the conductors are L meters long, H meters high, W meters wide,
+and are separated by S meters. The gap between the conductors is filled
+with an insulator having relative dielectric constant k.
+\end{quote}
+
+\begin{quote}
+Write an expression for the resistance of each conductor in terms of the
+above quantities, and the resistivity of the conductor material, r.
+\end{quote}
+
+\begin{quote}
+Write an expression for the capacitance of the two conductors, assuming
+they form a parallel-plate capacitor.
+\end{quote}
+
+\begin{quote}
+Combine these to estimate the time it takes for the far end of the
+conductors to
+\end{quote}
+
+\begin{quote}
+rise to an appreciable fraction of the battery voltage. Do any of the
+parameters listed above cancel out?
+\end{quote}
+
+\begin{quote}
+Assume the conductive strips are made of aluminum, L = 250 μm, k = 2,
+and H = W = S = 20 nanometers. What is your calculation of the time
+constant? Be careful with units, and check to make sure that your answer
+is in seconds. What does the time constant have to do with how many
+signals or voltage changes can be sent per second?
+\end{quote}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

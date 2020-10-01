@@ -96,7 +96,9 @@ source:  #index
 	- that marlow is emotinally detached until the end
 		- even when pointing our the horrid things that are happening
 - rowan responds
-	- 
+	- describes violence to "his people" in much more detail
+		- huge contrast in the descriptions
+			- this is proof of racism! says rowa
 
 
 
