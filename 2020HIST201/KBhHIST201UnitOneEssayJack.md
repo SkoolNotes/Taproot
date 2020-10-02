@@ -30,7 +30,7 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 - The Holy Roman Empire
 	- "A ruler committed to such absolute values found it impossible to compromise, let alone to manipulate, his bargaining position." => Conservatism lead them directly to not compromise, getting the lower hand
 - The Ottomans	
-	- ...Established trade agreements "Such trade agreements, called capitulations, led to European domination of Ottoman seaborne trade. Far from seeing Europe as the enemy that would eventually dismantle the empire, the Istanbul elite experimented with European clothing and furniture styles" => new styles infiltrated the government causing a lack of response or even capitulation
+	- ...Established trade agreements "Such trade agreements, called capitulations, led to European domination of Ottoman seaborne trade. ... Far from seeing Europe as the enemy that would eventually dismantle the empire, the Istanbul elite experimented with European clothing and furniture styles" => new styles infiltrated the government causing a lack of response or even capitulation
 - The French
 	- "Though privately religious, Richlieu viewed his duties as minister in entirely secular terms. ... 'The state has no immortality, its salvation is now or never.'  In other words, states do not receive credit in any world for doing what is right; they are only rewarded for being strong enough to do what is necessary." => French took the stance of absolute logic and assertion of contr
 - Ming
