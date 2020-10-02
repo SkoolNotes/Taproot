@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2135)}}    % original
-%\rhead{\textrmlf{Compiled }\#2135\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2135\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2136)}}    % original
+%\rhead{\textrmlf{Compiled }\#2136\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2136\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -185,6 +185,13 @@
   \end{itemize}
 \item
   Why do you think the model is getting the score you're seeing?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The score I'm seeing is 1. This is expected, as I am testing a
+    decision tree on the data it was trained on.
+  \end{itemize}
 \item
   How do the scores between the training and testing sets compare?
 \end{itemize}

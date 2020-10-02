@@ -12,6 +12,7 @@ source:  #index
 - What are the best and worst possible scores it could get?
 	- When using f1 score, the best possible score would be 1, and the worst would be 0. 
 - Why do you think the model is getting the score you're seeing? 
+	- The score I'm seeing is 1. This is expected, as I am testing a decision tree on the data it was trained on. 
 - How do the scores between the training and testing sets compare?
 
 
