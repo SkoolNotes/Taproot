@@ -39,6 +39,8 @@ $$\tau
 $$
 
 # #icr in class review
+The voltage that we expect to see across the ends of the conductors:
+![[Pasted image 20201002130618.png]]
 
 
 ---
