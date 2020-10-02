@@ -26,8 +26,9 @@ The White parts => "Backbone" aforementioned
 
 The Orange parts => "sidechain"
 
+## Proteans 
 
-Proteins formed by dehydrating multiple amino acids together
+Proteins are important biological structures formed by dehydrating multiple amino acids together
 
 All cell uses _rybozome_ to force animo acids together to make proteins. And yes, if you have a high energy source that would not require ATP from itself (make life from not life), you could get proteans to fold.
 
