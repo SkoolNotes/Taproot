@@ -31,8 +31,8 @@ $\Delta G = \Delta H - t \Delta S$
 
 Change in gibbs free energy is equal to change in enthalpy minus the change in entropy multiplied by the temperature.
 
-| $\Delta H$ | $\Delta S$ | $-T \Delta S$ | $\Delta G$ | Spontanety? |
-| --- | --- | --- | --- | --- |
-| + | - | + | + | Nonspontaneus |
-| - | + | - | - | Spontenous: creating more entropy, heat is flowing out, combustion |
+| $\Delta H$ | $\Delta S$ | $-T \Delta S$ | $\Delta G$ | Spontanety? | Examples? |
+| --- | --- | --- | --- | --- | --- | 
+| + | - | + | + | Nonspontaneus | L
+| - | + | - | - | Spontenous Reaction: creating more entropy, heat is flowing out. |
 | - | - | + | $\pm$ | Low Temp: Spontaneous <br /> High Temp: Nonspontaneus |
