@@ -50,7 +50,7 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 * Assertion of control => internal collapse => over-reliance on globalization
 
 Musing:
-* Attempting to reach world hegemony with multiculturalism will cause economic infiltration and a loss of identity, whereas reliance on unification and control to do so will cause economic implosion and loss of control
+* Attempting to reach world hegemony in a multiculturalistic state will cause eventual economic infiltration and a loss of identity, whereas reliance on unification and control to do so will cause economic implosion and loss of control
 * So... Per Arrigi
 	* A "territorialist model" => economic implosion
 	* A "capitalist model" => economic infiltration
