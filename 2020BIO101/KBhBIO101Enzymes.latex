@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2149)}}    % original
-%\rhead{\textrmlf{Compiled }\#2149\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2149\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2150)}}    % original
+%\rhead{\textrmlf{Compiled }\#2150\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2150\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -249,5 +249,8 @@ There are three main ways that Enzymes work:
   Active site animo acids rearranging electrons + creating partial
   charges to favor a reaction
 \end{enumerate}
+
+\textbf{Remember: The Fundimental Energy Difference does not change
+whether or not reactions are helped by the Enzyme.}
 
 \end{document}

@@ -36,3 +36,5 @@ There are three main ways that Enzymes work:
 2. Changing the substrate to gavourable orientation
 3. Active site animo acids rearranging electrons + creating partial charges to favor a reaction
 
+**Remember: The Fundimental Energy Difference does not change whether or not reactions are helped by the Enzyme.**
+
