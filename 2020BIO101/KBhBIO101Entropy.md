@@ -18,3 +18,4 @@ To think about this, think about states of matter:
 
 ![Screen Shot 2020-10-02 at 2.29.24 PM.png](Screen Shot 2020-10-02 at 2.29.24 PM.png)
 
+In this image, states (a) and (e) are least likely. This is because **the greater the spread, the greater the entropy; systems like to have an increase of entropic state as much as it is possible.**
