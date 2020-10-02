@@ -50,8 +50,6 @@ Musing:
 	* A "capitalist model" => economic infiltration
 
 ## Defluffifying
-CHOSEN THESIS CLAIM
-
 * Point a 
 * Point b
 * Point c
