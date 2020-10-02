@@ -34,4 +34,5 @@ Change in gibbs free energy is equal to change in enthalpy minus the change in e
 | $\Delta H$ | $\Delta S$ | $-T \Delta S$ | $\Delta G$ | Spontanety? |
 | --- | --- | --- | --- | --- |
 | + | - | + | + | Nonspontaneus |
-| - | + | - 
+| - | + | - | - | Spontenous |
+| - | - | + | $\pm$ | Low Temp: Spontaneous <br /> High Temp: Nonspontaneus |
