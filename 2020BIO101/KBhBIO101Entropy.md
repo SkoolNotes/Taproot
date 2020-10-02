@@ -24,3 +24,5 @@ To think about this, think about states of matter:
 In this image, states (a) and (e) are least likely. This is because **the greater the spread, the greater the entropy; systems like to have an increase of entropic state as much as it is possible.**
 
 \definition{Second Law of Thermodynamics}{In the universe, entropy is increasing due to chemical processes.}
+
+
