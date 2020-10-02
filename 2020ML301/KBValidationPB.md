@@ -14,7 +14,7 @@ source:  #index
 - Why do you think the model is getting the score you're seeing? 
 	- The score I'm seeing is 1. This is expected, as I am testing a decision tree on the data it was trained on. 
 - How do the scores between the training and testing sets compare?
-	- I would assume that the testing set score would have a lower f1 score than the training set., as the training set will have an f1 score by definition.  
+	- I would assume that the testing set score would have a lower f1 score than the training set, as the model is specifically fitted for the traing data.
 
 
 
