@@ -42,5 +42,7 @@ $$
 The voltage that we expect to see across the ends of the conductors:
 ![[Pasted image 20201002130618.png]]
 
+## why does capacitence make it go slower?
+- Because you are able to fit more charge onto the wire, which means you have to put more charge to get the signal to go all the way down the wire
 
 ---

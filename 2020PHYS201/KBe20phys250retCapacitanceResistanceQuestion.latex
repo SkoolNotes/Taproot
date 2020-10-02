@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2114)}}    % original
-%\rhead{\textrmlf{Compiled }\#2114\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2114\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2115)}}    % original
+%\rhead{\textrmlf{Compiled }\#2115\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2115\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -249,6 +249,18 @@ second?
 
 The voltage that we expect to see across the ends of the conductors:
 {[}{[}Pasted image 20201002130618.png{]}{]}
+
+\hypertarget{why-does-capacitence-make-it-go-slower}{%
+\subsection{why does capacitence make it go
+slower?}\label{why-does-capacitence-make-it-go-slower}}
+
+\begin{itemize}
+\tightlist
+\item
+  Because you are able to fit more charge onto the wire, which means you
+  have to put more charge to get the signal to go all the way down the
+  wire
+\end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
