@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2140)}}    % original
-%\rhead{\textrmlf{Compiled }\#2140\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2140\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2141)}}    % original
+%\rhead{\textrmlf{Compiled }\#2141\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2141\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -190,7 +190,7 @@
   \tightlist
   \item
     The score I'm seeing is 1. This is expected, as I am testing a
-    decision tree on the data it was trained on.
+    decision tree on the iris data it was trained on.
   \end{itemize}
 \item
   How do the scores between the training and testing sets compare?
@@ -199,7 +199,8 @@
   \tightlist
   \item
     I would assume that the testing set score would have a lower f1
-    score than the training set, as the
+    score than the training set, as the model is specifically fitted for
+    the training data.
   \end{itemize}
 \end{itemize}
 
