@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1790)}}    % original
-%\rhead{\textrmlf{Compiled }\#1790\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1790\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2148)}}    % original
+%\rhead{\textrmlf{Compiled }\#2148\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2148\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -213,7 +213,9 @@ A macromolecular \textbf{catalyst}, it\ldots{}
 \caption{Screen Shot 2020-09-30 at 2.45.04 PM.png}
 \end{figure}
 
-The process of enzymes doing things.
+\hypertarget{the-process-of-enzymes-doing-things}{%
+\subsection{The process of enzymes doing
+things}\label{the-process-of-enzymes-doing-things}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -230,5 +232,19 @@ The process of enzymes doing things.
 \end{enumerate}
 
 Enzymes minimize the \textbf{activation energy hump}
+
+So, why do Enzymes work?
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Stress and straining of the bonds to force towards transitionstate
+\item
+  Changing the substrate to gavourable orientation
+\item
+  Acitve site animo acids rearranging electrons + creating partial
+  charges to favor a reaction
+\end{enumerate}
 
 \end{document}
