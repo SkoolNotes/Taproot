@@ -28,5 +28,4 @@ The Orange parts => "sidechain"
 
 ## Proteins 
 
-[[KBhBIO201Proteins]] are important biological structures formed by dehydrating multiple amino acids together
-
+[[KBhBIO101Proteins]] are important biological structures formed by dehydrating multiple amino acids together

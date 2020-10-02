@@ -5,7 +5,8 @@ author: Houjun Liu
 course: BIO101
 ---
 
-All cell uses _rybozome_ to force animo acids together to make proteins. And yes, if you have a high energy source that would not require ATP from itself (make life from not life), you could get proteans to fold.
+# Proteins
+All cell uses _rybozome_ to force [[KBhBIO101AminoAcids]] together to make proteins. And yes, if you have a high energy source that would not require ATP from itself (make life from not life), you could get proteans to fold.
 
 ## Protean Shapes
 
@@ -62,7 +63,6 @@ Hemoglobin does this! It contains multiple sets of side chains that needs foldin
 
 * NMR spectroscopy
 * X-rays 
-
 
 #flo #disorganized
 
