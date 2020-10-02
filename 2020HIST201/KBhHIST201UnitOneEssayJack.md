@@ -43,6 +43,10 @@ Include in your essay at least two religions. Sources for: Christianity (McNeill
 * Absolute logic and assertion => overpower and compensation
 * Assertion of control => internal collapse => over-reliance on globalization
 
+
+Musing:
+* Reliance on multiculturalism will cause improsion, whereas reliance on unification and control will cause overpowering
+
 ## Defluffifying
 CHOSEN THESIS CLAIM
 
