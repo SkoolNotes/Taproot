@@ -21,7 +21,7 @@ A macromolecular **catalyst**, it...
 
 ![Screen Shot 2020-09-30 at 2.45.04 PM.png](Screen Shot 2020-09-30 at 2.45.04 PM.png)
 
-## The process of enzymes doing things
+## Enzymes doing things
 
 1. The reactant (called "substrate") fits into a pocket ("active site") in the enzyme for the reaction to occur. Yes, there could be multiple active sites for multiple reactants
 2. The enzyme rearrange itself slightly to hold the enzyme in place
@@ -29,8 +29,10 @@ A macromolecular **catalyst**, it...
 
 Enzymes minimize the **activation energy hump**
 
-So, why do Enzymes work?
+## Why do Enzymes work?
+There are three main ways that Enzymes work:
 
-1. Stress and straining of the bonds to force towards transitionstate
+1. Stress and straining of the bonds to force towards the nessariy transition state
 2. Changing the substrate to gavourable orientation
-3. Acitve site animo acids rearranging electrons + creating partial charges to favor a reaction
+3. Active site animo acids rearranging electrons + creating partial charges to favor a reaction
+
