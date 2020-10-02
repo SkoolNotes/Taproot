@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2117)}}    % original
-%\rhead{\textrmlf{Compiled }\#2117\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2117\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2118)}}    % original
+%\rhead{\textrmlf{Compiled }\#2118\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2118\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -301,7 +301,9 @@ Please answer the following questions and briefly explain your answer:
   \begin{itemize}
   \tightlist
   \item
-    This means that the model is always perfectly incorrect. Wheneve
+    This means that the model is always perfectly incorrect. If you were
+    to give it a sample from class B, it will always pick class A, and
+    vise versa. The model would still give a probability of 100\%.
   \end{itemize}
 \end{itemize}
 

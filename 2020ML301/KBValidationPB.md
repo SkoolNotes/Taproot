@@ -36,7 +36,7 @@ Please answer the following questions and briefly explain your answer:
 
 
 - If a model with classes A and B has an AUC score of 0 and you give it an item from the test set that is in class A, what class will it predict and what probability will it give for that class?
-	- This means that the model is always perfectly incorrect. If you were to give it a sample from class B, it will always pick class A, and vise versa. 
+	- This means that the model is always perfectly incorrect. If you were to give it a sample from class B, it will always pick class A, and vise versa. The model would still give a probability of 100%.  
 
 
 
