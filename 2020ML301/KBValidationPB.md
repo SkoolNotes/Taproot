@@ -10,7 +10,7 @@ source:  #index
 # Part A
 
 - What are the best and worst possible scores it could get?
-	- The best possible 
+	- The best possible score would be 1, 
 - Why do you think the model is getting the score you're seeing? 
 - How do the scores between the training and testing sets compare?
 
