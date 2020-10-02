@@ -59,6 +59,8 @@ Musing:
 	
 **The Multiculturalistic State**: The 
 
+If you too multicultural, you may end up loosing your {political, and economic} control.
+
 
 ## Defluffifying
 * Point a 
