@@ -6,6 +6,9 @@ source: #index
 ---
 
 * [[KBhPHYS201GettingStarted]] Getting started with Physics
+- Exr0n Ret Index [[exr0n20phys201retIndex]]
+# Electronics
+## Electrostatics
 * [[KBhPHYS201IntroToElectrostaticsLN]] Intro to Electrostatics
 * [[KB20200825090600]] Physics day 1
 * [[KBRemoteRollingBall]]
@@ -15,8 +18,11 @@ source: #index
 - Voltage and Current with Gravity annotated docs
 	- [[exr0n20phys201retIntroVoltageWithGravity.pdf]]
 	- [[KBe20phys201srcVoltageCurrentGravity2.pdf]]
-- Exr0n Ret Index [[exr0n20phys201retIndex]]
  * PHET Simulation w/ Eletric Field
      * Jack [[KBhPHYS201PHETElectricFields]]
+## Circuits
+- [[KBhPHYS201Capacitors]] 
 * [[KBhPHYS201CircuitsIndex]] Circuits!
+
+# References
 * [[KBPHYS201ZachsPhysicsNotesForTest]] Physics quiz Notes

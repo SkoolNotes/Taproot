@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2124)}}    % original
+%\rhead{\textrmlf{Compiled }\#2124\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2124\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -170,6 +172,13 @@
 \item
   {[}{[}KBhPHYS201GettingStarted{]}{]} Getting started with Physics
 \item
+  Exr0n Ret Index {[}{[}exr0n20phys201retIndex{]}{]}
+\item
+  {[}{[}KBhPHYS201CircuitsIndex{]}{]} Circuits!
+\item
+  {[}{[}KBPHYS201ZachsPhysicsNotesForTest{]}{]} Physics quiz Notes \#
+  Electronics \#\# Electrostatics
+\item
   {[}{[}KBhPHYS201IntroToElectrostaticsLN{]}{]} Intro to Electrostatics
 \item
   {[}{[}KB20200825090600{]}{]} Physics day 1
@@ -192,19 +201,15 @@
     {[}{[}KBe20phys201srcVoltageCurrentGravity2.pdf{]}{]}
   \end{itemize}
 \item
-  Exr0n Ret Index {[}{[}exr0n20phys201retIndex{]}{]}
-\item
   PHET Simulation w/ Eletric Field
 
   \begin{itemize}
   \tightlist
   \item
-    Jack {[}{[}KBhPHYS201PHETElectricFields{]}{]}
+    Jack {[}{[}KBhPHYS201PHETElectricFields{]}{]} \#\# Circuits
   \end{itemize}
 \item
-  {[}{[}KBhPHYS201CircuitsIndex{]}{]} Circuits!
-\item
-  {[}{[}KBPHYS201ZachsPhysicsNotesForTest{]}{]} Physics quiz Notes
+  {[}{[}KBhPHYS201Capacitors{]}{]}
 \end{itemize}
 
 \end{document}
