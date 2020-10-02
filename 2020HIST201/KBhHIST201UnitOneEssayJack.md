@@ -41,7 +41,8 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 ### Development phase – How and So-What
 * Orthodoxy on religion => non-compromise 
 * New styles infiltrated the government => a lack of response or even capitulation
-* 
+* Absolute logic and assertion => overpower and compensation
+* Assertion of control => internal collapse => over-reliance on globalization
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
