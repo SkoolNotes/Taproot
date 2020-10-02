@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2131)}}    % original
-%\rhead{\textrmlf{Compiled }\#2131\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2131\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2132)}}    % original
+%\rhead{\textrmlf{Compiled }\#2132\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2132\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -171,6 +171,16 @@
 
 \hypertarget{part-a}{%
 \section{Part A}\label{part-a}}
+
+\begin{itemize}
+\tightlist
+\item
+  What are the best and worst possible scores it could get?
+\item
+  Why do you think the model is getting the score you're seeing?
+\item
+  How do the scores between the training and testing sets compare?
+\end{itemize}
 
 \hypertarget{part-b}{%
 \section{Part B}\label{part-b}}

@@ -9,7 +9,9 @@ source:  #index
 
 # Part A
 
-
+- What are the best and worst possible scores it could get?
+- Why do you think the model is getting the score you're seeing? 
+- How do the scores between the training and testing sets compare?
 
 
 
