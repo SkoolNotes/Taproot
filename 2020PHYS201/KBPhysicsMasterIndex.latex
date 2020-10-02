@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2124)}}    % original
-%\rhead{\textrmlf{Compiled }\#2124\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2124\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2127)}}    % original
+%\rhead{\textrmlf{Compiled }\#2127\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2127\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -172,12 +172,8 @@
 \item
   {[}{[}KBhPHYS201GettingStarted{]}{]} Getting started with Physics
 \item
-  Exr0n Ret Index {[}{[}exr0n20phys201retIndex{]}{]}
-\item
-  {[}{[}KBhPHYS201CircuitsIndex{]}{]} Circuits!
-\item
-  {[}{[}KBPHYS201ZachsPhysicsNotesForTest{]}{]} Physics quiz Notes \#
-  Electronics \#\# Electrostatics
+  Exr0n Ret Index {[}{[}exr0n20phys201retIndex{]}{]} \# Electronics \#\#
+  Electrostatics
 \item
   {[}{[}KBhPHYS201IntroToElectrostaticsLN{]}{]} Intro to Electrostatics
 \item
@@ -210,6 +206,21 @@
   \end{itemize}
 \item
   {[}{[}KBhPHYS201Capacitors{]}{]}
+\item
+  {[}{[}KBhPHYS201CircuitsIndex{]}{]} Circuits! \#\#\# Capacitors
+\item
+  {[}{[}KBhPHYS201Capacitors{]}{]}
+\item
+  {[}{[}
+\end{itemize}
+
+\hypertarget{references}{%
+\section{References}\label{references}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBPHYS201ZachsPhysicsNotesForTest{]}{]} Physics quiz Notes
 \end{itemize}
 
 \end{document}

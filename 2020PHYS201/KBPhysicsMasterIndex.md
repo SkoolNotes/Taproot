@@ -23,6 +23,10 @@ source: #index
 ## Circuits
 - [[KBhPHYS201Capacitors]] 
 * [[KBhPHYS201CircuitsIndex]] Circuits!
+### Capacitors
+- [[KBhPHYS201Capacitors]]
+- [[KBe20phys250retCapacitenceResistanceQuestion]]
+- [[KBe20phys250retCapacitorsLab]]
 
 # References
 * [[KBPHYS201ZachsPhysicsNotesForTest]] Physics quiz Notes
