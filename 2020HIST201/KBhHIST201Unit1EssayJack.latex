@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2089)}}    % original
-%\rhead{\textrmlf{Compiled }\#2089\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2089\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2090)}}    % original
+%\rhead{\textrmlf{Compiled }\#2090\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2090\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -306,7 +306,11 @@ control.{]}
 How do different types of multicultural/centralization makes it
 easier/harder
 
-{[}{[}Screen Shot 2020-10-02 at 10.11.28 AM.png{]}{]}
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-02 at 10.11.57 AM.png}
+\caption{Screen Shot 2020-10-02 at 10.11.57 AM.png}
+\end{figure}
 
 \hypertarget{defluffifying}{%
 \subsection{Defluffifying}\label{defluffifying}}
