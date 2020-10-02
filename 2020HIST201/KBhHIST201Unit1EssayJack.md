@@ -52,7 +52,9 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 Musing:
 * Attempting to reach world hegemony in a multiculturalistic state will cause eventual economic infiltration and a loss of identity, whereas reliance on unification and control to achieve hegemony will result in economic implosion and loss of control.
 * So... Per Arrigi
-	* A "territorialist model" => economic implosion
+	* A "territorialist model" => economic implosion	
+		* Ming w/ the Mann
+		* 
 	* A "capitalist model" => economic infiltration
 	
 **The Multiculturalistic State**: The 
