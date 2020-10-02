@@ -59,7 +59,10 @@ Musing:
 	
 **The Multiculturalistic State**: The 
 
-If you too multicultural, you may end up loosing your {political, and economic} control.
+If you too multicultural, you may end up loosing your economic control. Empires are trying to include all these cultures in one territory.
+
+On the other hand, if empires are too centra
+
 
 
 ## Defluffifying
