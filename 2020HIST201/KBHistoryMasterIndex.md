@@ -68,7 +68,7 @@ source: #index
     * [[KBdHistMAKennedyOutline]]
 * Unit One Essay
 	* [[KBUnitOneEssayPlanning]]
-	* [[KBhHIST201UnitOneEssayJack]]
+	* [[KBhHIST201Unit1EssayJack]]
 	
 	
 	
