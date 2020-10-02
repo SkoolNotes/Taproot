@@ -16,6 +16,10 @@ course: HIST201
 Cultural: Confucianism, Islam, and Christianity play varying roles in the political and economic decisions of the major regions of world (Ming/Qing, Ottomans/Mughals, Europe). **How did culture influence the relative success of commerce and/or state formation in these regions? Was the influence positive or negative ? Were there wider ramifications?**
 Include in your essay at least two religions. Sources for: Christianity (McNeill, Kissinger), Confucianism (resources from your Kennedy essay), Islam (Bulliet, Gilbert, some Gelvin).
 
+Economic: The Ottomans, the Ming and Qing Empires, the Mughals and the European kingdoms all responded to the globalization of commerce in the early modern period in dramatically different ways. Why did they respond differently to the globalization of commerce and what were the consequences?
+Comparing at least two of the regions above. Gelvin (World systems), Mann (silver), Kennedy and Arrighi might be good general frameworks, while Bulliet (Ottomans), Gilbert (Mughals) and McNeill (Europe) can provide some specifics.
+
+
 ## Documents Corner
 - @[[KBhHIST201HomogenosceneLN]] Current day, emphasis was placed around those in native American regions who were anti-Spanish, yet a large majority of the individuals who really brought globalization were Spanish 
 - @[[KBhHIST201MannMing]] China's currency began to show strain as Bronze prices increase whist China deals with a botching reopening plan after closing the economy after Zheng He. See [[KBhHIST201ChinasDeclineWRTReopening]] and [[KBhHIST201ChinasDeclineWRTZhengHe]]
