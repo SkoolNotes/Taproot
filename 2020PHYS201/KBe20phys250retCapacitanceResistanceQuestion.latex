@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2115)}}    % original
-%\rhead{\textrmlf{Compiled }\#2115\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2115\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2120)}}    % original
+%\rhead{\textrmlf{Compiled }\#2120\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2120\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -248,7 +248,7 @@ second?
 \section{\#icr in class review}\label{icr-in-class-review}}
 
 The voltage that we expect to see across the ends of the conductors:
-{[}{[}Pasted image 20201002130618.png{]}{]}
+{[}{[}srcWiresAsCapacitorsSlowSignal.png{]}{]}
 
 \hypertarget{why-does-capacitence-make-it-go-slower}{%
 \subsection{why does capacitence make it go
