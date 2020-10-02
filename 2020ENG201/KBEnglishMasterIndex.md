@@ -45,7 +45,7 @@ source: #index
 * [[KBheartday1]] Huxley, I am assuming?
 * [[KBxHoDDiscussionNotes]]
 ## Heart of Darkness Essay
-* [[KBHoDEssay]]
+* [[KBxHoDEssay]]
 
   
 ## Annotated Docs
