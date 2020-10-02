@@ -10,7 +10,7 @@ source:  #index
 # Part A
 
 - What are the best and worst possible scores it could get?
-	- The best possible score would be 1, 
+	- When using f1 score, the best possible score would be 1, and the worst would be 0. 
 - Why do you think the model is getting the score you're seeing? 
 - How do the scores between the training and testing sets compare?
 
