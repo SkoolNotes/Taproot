@@ -50,12 +50,14 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 * Assertion of control => internal collapse => over-reliance on globalization
 
 Musing:
-* Attempting to reach world hegemony in a multiculturalistic state will cause eventual economic infiltration and a loss of identity, whereas reliance on unification and control to achieve hegemony will result in economic implosion and loss of control.
+* Attempting to reach world hegemony in a multiculturalistic state — such as in the case of the Mughals — will cause eventual economic infiltration and a loss of identity, whereas reliance on unification and control to achieve hegemony will result in economic implosion and loss of control.
 * So... Per Arrigi
 	* A "territorialist model" => economic implosion
 	* A "capitalist model" => economic infiltration
 	
-**To prove this, we nee	
+**To prove this, we need to prove that**
+
+Country a is 1) multiculturalistic, 2) trying to reach hegemony
 
 ## Defluffifying
 * Point a 
