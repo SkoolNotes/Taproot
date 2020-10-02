@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2145)}}    % original
-%\rhead{\textrmlf{Compiled }\#2145\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2145\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2146)}}    % original
+%\rhead{\textrmlf{Compiled }\#2146\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2146\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -200,114 +200,5 @@ The Orange parts =\textgreater{} ``sidechain''
 
 {[}{[}KBhBIO201Proteins{]}{]} are important biological structures formed
 by dehydrating multiple amino acids together
-
-All cell uses \emph{rybozome} to force animo acids together to make
-proteins. And yes, if you have a high energy source that would not
-require ATP from itself (make life from not life), you could get
-proteans to fold.
-
-\hypertarget{protean-shapes}{%
-\subsection{Protean Shapes}\label{protean-shapes}}
-
-Proteins, when unfolded, is a long chain of amino acids. When they are
-folded in different configurations, you get a working protean.
-
-Different folds result in differenta functions
-
-``The Protean Folding Problem'' =\textgreater{} can we find the fold of
-the protean just by the unfolded amino acids?
-
-\hypertarget{protean-primary-structure}{%
-\subsubsection{Protean primary
-structure}\label{protean-primary-structure}}
-
-The linear order of amino acids --- staring from the amino terminus (N,
-exposes the \emph{Amine} end) and moving to carbonxy terminusi (C,
-exposes the \emph{Carboxy} terminus).
-
-Average protean is about 300 amino acids long.o
-
-\hypertarget{protean-secondary-structure}{%
-\subsubsection{Protean secondary
-structure}\label{protean-secondary-structure}}
-
-Folding a protean without concern to the amino acid side chains. The
-folding is only concerned with being stabilized with dipole attraction
-to hydrogen.
-
-Two main secondary structures: the alpha helix and beta sheet.
-
-\begin{figure}
-\centering
-\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020BIO101/Screen Shot 2020-09-21 at 3.15.49 PM.png}
-\caption{Screen Shot 2020-09-21 at 3.15.49 PM.png}
-\end{figure}
-
-\textbf{No ionic attractions between backbone because after the
-dehydration reaction (polymerization), the positive and negative of the
-two ends of the backbone of the amino acid is combined to cancel out the
-charge}
-
-Proline (p) is a little weird: Side chain bonded with the H2N+ as well
-as the carbon
-
-\hypertarget{protein-tertiary-structure}{%
-\subsubsection{Protein Tertiary
-Structure}\label{protein-tertiary-structure}}
-
-Bonds in the 3D Structures
-
-\begin{itemize}
-\tightlist
-\item
-  Non-polar sidechains: Vandervaull's Forces (a.k.a LDF)
-\item
-  Ionic sidechains: what bonds do you think?
-\item
-  Disulfide bonds: cysteine animo acids will bond their sulfur together
-\item
-  Polar sidechains: hydrogen bonds
-\end{itemize}
-
-All of these bonds, together, makes the 3D geometry of the protean.
-
-\textbf{Proteins fold in order of attraction strength.}
-
-\begin{itemize}
-\tightlist
-\item
-  Proteas ``whiggle'' --- brounian motion
-\item
-  This is also a part of the difficulty in folding protean
-\end{itemize}
-
-\hypertarget{protein-quaternary-structure}{%
-\subsubsection{Protein Quaternary
-Structure}\label{protein-quaternary-structure}}
-
-Exists only for certain proteins which independently locks together.
-
-Hemoglobin does this! It contains multiple sets of side chains that
-needs folding once again.
-
-\hypertarget{shooting-images-of-proteins}{%
-\subsection{Shooting images of
-proteins}\label{shooting-images-of-proteins}}
-
-\begin{itemize}
-\tightlist
-\item
-  NMR spectroscopy
-\item
-  X-rays
-\end{itemize}
-
-\#flo \#disorganized
-
-\hypertarget{enzymes}{%
-\subsection{Enzymes}\label{enzymes}}
-
-A specific type of proteins that's\ldots{} kinda fun!
-{[}{[}KBhBIO101Enzymes{]}{]}
 
 \end{document}
