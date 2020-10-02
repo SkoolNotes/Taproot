@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2063)}}    % original
-%\rhead{\textrmlf{Compiled }\#2063\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2063\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2113)}}    % original
+%\rhead{\textrmlf{Compiled }\#2113\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2113\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -242,6 +242,11 @@ second?
 
 \[\tau
 = \rho\kappa\epsilon_0\frac{L^2}{WS} = 7.33\times10^{-11}
-\] ---
+\]
+
+\hypertarget{icr-in-class-review}{%
+\section{\#icr in class review}\label{icr-in-class-review}}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}

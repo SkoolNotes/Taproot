@@ -37,4 +37,8 @@ $$
 $$\tau
 = \rho\kappa\epsilon_0\frac{L^2}{WS} = 7.33\times10^{-11}
 $$
+
+# #icr in class review
+
+
 ---
