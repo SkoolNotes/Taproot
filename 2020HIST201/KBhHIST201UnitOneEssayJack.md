@@ -39,9 +39,9 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 	
 ## Claim Synthesis
 ### Development phase – How and So-What
-* Four points
-	* Conservatism lead to non-compromise
-	* New styles infiltrated the government causing a lack of response or even capitulation
+* Orthodoxy on religion => non-compromise 
+* New styles infiltrated the government => a lack of response or even capitulation
+* 
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
