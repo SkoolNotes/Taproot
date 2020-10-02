@@ -1,0 +1,672 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ENG201 }
+\newcommand{\thelesson}{}
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2100)}}    % original
+%\rhead{\textrmlf{Compiled }\#2100\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2100\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\#flo
+
+\hypertarget{one}{%
+\section{One}\label{one}}
+
+\begin{quote}
+How does Conrad relate /define darkness and insanity throughout the
+novel?  Why does Conrad build up to Kurtz so gradually, what perception
+of Kurtz does Conrad want to portray?
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  Nixie's conclustion
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Madnesss is being removed from a place you are used to
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Does she mean that it causes madness?
+    \item
+      says that heads are the main symbol of madness
+    \item
+    \end{itemize}
+  \end{itemize}
+\item
+  Jackson says
+
+  \begin{itemize}
+  \tightlist
+  \item
+    That the meeting of kurtz is ironic
+  \item
+    Builds up kurtzs, but when they meet him, it's anticlimatic
+  \end{itemize}
+\item
+  Daniel responds
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Talks about marlows changing perception of kurts
+  \item
+    Connects back to insanity
+
+    \begin{itemize}
+    \tightlist
+    \item
+      nice one
+    \end{itemize}
+  \end{itemize}
+\item
+  Madeline rebuts
+
+  \begin{itemize}
+  \tightlist
+  \item
+    kurts was not as expected
+  \item
+    but still liked kurts at the end
+  \end{itemize}
+\item
+  Nixie says
+
+  \begin{itemize}
+  \tightlist
+  \item
+    About kurtz greed with ivory?
+
+    \begin{itemize}
+    \tightlist
+    \item
+      not super related
+    \end{itemize}
+  \end{itemize}
+\item
+  Jackson responds
+
+  \begin{itemize}
+  \tightlist
+  \item
+    breaks out of dillsution, ``the horror! the horror!''
+  \end{itemize}
+\item
+  Nixie interjects
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Isolating causes kurtz madness
+
+    \begin{itemize}
+    \tightlist
+    \item
+      relates back to her original point
+    \end{itemize}
+  \item
+    ties into subcoincuiss
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Restates original point
+    \item
+      hmmmmm
+    \end{itemize}
+  \end{itemize}
+\item
+  Jackson
+
+  \begin{itemize}
+  \tightlist
+  \item
+    There is nothing at the end
+  \end{itemize}
+\item
+  Madeline
+
+  \begin{itemize}
+  \tightlist
+  \item
+    About insanity:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      conrad uses drums to represent heart beat to make the jungle seem
+      dangerous
+    \item
+      \ldots.
+    \end{itemize}
+  \end{itemize}
+\item
+  Daniel
+
+  \begin{itemize}
+  \tightlist
+  \item
+    As you travel the heart of darkness, you travel into kurtz mind
+
+    \begin{itemize}
+    \tightlist
+    \item
+      is this true? you dont know kurtz mind till near the end
+    \end{itemize}
+  \end{itemize}
+\item
+  Nixes asks
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How does conrad define madness?
+  \end{itemize}
+\item
+  Daniel adds
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Mostly about kurtz,
+  \item
+    caused by some sort of `darkness'
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{two}{%
+\section{Two}\label{two}}
+
+\begin{quote}
+How does Conrad relate /define darkness and insanity throughout the
+novel?  Why does Conrad build up to Kurtz so gradually, what perception
+of Kurtz does Conrad want to portray?
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  Riley explains some context
+\item
+  Aime describes
+
+  \begin{itemize}
+  \tightlist
+  \item
+    dehumanization
+  \item
+    objecitifes the woman
+
+    \begin{itemize}
+    \tightlist
+    \item
+      beucase shes beutiful physically, marlow has more respect
+    \end{itemize}
+  \item
+    the intended was viewed as emotional and docile
+  \end{itemize}
+\item
+  Rowan adds
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Beuty is inherently primal
+
+    \begin{itemize}
+    \tightlist
+    \item
+      stems from necessity
+
+      \begin{itemize}
+      \tightlist
+      \item
+        this is an intresting point. fits with the ``Europe no better''
+        thesis.
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  anoushka
+
+  \begin{itemize}
+  \tightlist
+  \item
+    we dont see her often
+  \item
+    justaposition off\ldots?
+
+    \begin{itemize}
+    \tightlist
+    \item
+      hard to hear
+    \end{itemize}
+  \item
+    strange descriptions of beuty
+
+    \begin{itemize}
+    \tightlist
+    \item
+      ah, the justaposition of beuty and savage?
+    \end{itemize}
+  \end{itemize}
+\item
+  riley
+
+  \begin{itemize}
+  \item
+    kurzt is like a cult leader
+  \item
+    described similary in some fashions to the natives
+  \item
+    sedces his follower, buts gets seduced himself by the heart of
+    darkness
+  \item
+    \begin{quote}
+    takes priority over rational thinking
+    \end{quote}
+  \end{itemize}
+\item
+  aime says
+
+  \begin{itemize}
+  \tightlist
+  \item
+    that marlow is emotinally detached until the end
+
+    \begin{itemize}
+    \tightlist
+    \item
+      even when pointing our the horrid things that are happening
+    \end{itemize}
+  \end{itemize}
+\item
+  rowan responds
+
+  \begin{itemize}
+  \tightlist
+  \item
+    describes violence to ``his people'' in much more detail
+
+    \begin{itemize}
+    \tightlist
+    \item
+      huge contrast in the descriptions
+
+      \begin{itemize}
+      \tightlist
+      \item
+        this is proof of racism(ish)! says rowan
+
+        \begin{itemize}
+        \tightlist
+        \item
+          framed narritive means that this is weird
+        \end{itemize}
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{four-i-know-how-to-count-trust-me}{%
+\section{Four (I know how to count trust
+me)}\label{four-i-know-how-to-count-trust-me}}
+
+\begin{quote}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Is the racism in Heart of Darkness a parody of European racism during
+  colonial times or is it Conrad's inherent racism?    
+\item
+  How did the different people who told Marlow about Kurtz alter his
+  opinion on him, how much did their opinions influence Marlow and why
+  did they hold more/less value? 
+\end{enumerate}
+
+\begin{itemize}
+\tightlist
+\item
+  Calder starts
+\item
+  is conrad inherently racist
+\item
+  why do we keep talking about this? this is not related! (not what
+  calder said)
+\end{itemize}
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  Nico says
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Conrad is truly racist
+
+    \begin{itemize}
+    \tightlist
+    \item
+      becuase black people speak once or twice and are dehumanized
+    \item
+      its not satire
+    \end{itemize}
+  \end{itemize}
+\item
+  Calder respondes
+
+  \begin{itemize}
+  \tightlist
+  \item
+    bassicly says it can be a depiction distinc from conrads actual
+    beliefs
+
+    \begin{itemize}
+    \tightlist
+    \item
+      hard to distinguis
+
+      \begin{itemize}
+      \tightlist
+      \item
+        this is a good point. thx calder
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  Isabella
+
+  \begin{itemize}
+  \tightlist
+  \item
+    uses the n-word, therefore, is racist!
+  \end{itemize}
+\item
+  kayla
+
+  \begin{itemize}
+  \tightlist
+  \item
+    pattern of the n-word, therefore, nword isnt parody, therefore, is
+    racist!
+  \item
+    an author cannot have a racist protagonist withoutgh being racist
+
+    \begin{itemize}
+    \tightlist
+    \item
+      uh
+    \end{itemize}
+  \end{itemize}
+\item
+  Nico says
+
+  \begin{itemize}
+  \tightlist
+  \item
+    that marlow isnt protrayed as having any flaws, and therfore, conrad
+    is racist!
+  \end{itemize}
+\item
+  isabella responds
+
+  \begin{itemize}
+  \tightlist
+  \item
+    actully marlow is painted with flaws
+  \end{itemize}
+\item
+  kayla adds
+
+  \begin{itemize}
+  \tightlist
+  \item
+    conrad is writing about his experience through marlow
+
+    \begin{itemize}
+    \tightlist
+    \item
+      hmmmm
+    \end{itemize}
+  \end{itemize}
+\item
+  nico says
+
+  \begin{itemize}
+  \tightlist
+  \item
+    that conrad says that europeans have been dragged down by africa
+  \item
+    therfore, he truly is, racist
+  \end{itemize}
+\item
+  isabella asks
+
+  \begin{itemize}
+  \tightlist
+  \item
+    clarifying question
+  \end{itemize}
+\item
+  calder
+
+  \begin{itemize}
+  \tightlist
+  \item
+    europe is infecting africa
+  \item
+    europe is the heart of darkness
+
+    \begin{itemize}
+    \tightlist
+    \item
+      oooh, intrestingg
+    \end{itemize}
+  \item
+    maybe both cus they were infected
+  \end{itemize}
+\end{itemize}
+
+\begin{itemize}
+\tightlist
+\item
+  isabella
+
+  \begin{itemize}
+  \tightlist
+  \item
+    what
+  \end{itemize}
+\item
+  nico
+
+  \begin{itemize}
+  \tightlist
+  \item
+    marlow describes kurtz to the intended not with his actual beliefs
+    but with how kurtz is described to him
+  \item
+    flip flops alot
+  \end{itemize}
+\item
+  kayla disagrees with nico
+
+  \begin{itemize}
+  \tightlist
+  \item
+    says that marlow doesnt belive what he said to the intended
+  \item
+    did nico say this? he very well may have
+  \end{itemize}
+\end{itemize}
+
+\end{document}

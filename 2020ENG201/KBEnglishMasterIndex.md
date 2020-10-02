@@ -43,7 +43,7 @@ source: #index
 # **Heart of Darkness**
 * [[KBhENG201HeartOfHardness]] Heart of Darkness Index 
 * [[KBheartday1]] Huxley, I am assuming?
-* [[KBDiscussionNotes]]
+* [[KBxHoDDiscussionNotes]]
 ## Heart of Darkness Essay
 * [[KBHoDEssay]]
 
