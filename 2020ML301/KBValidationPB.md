@@ -6,7 +6,18 @@ source:  #index
 ---
 
 ---
-Part B
+
+# Part A
+
+
+
+
+
+
+
+
+
+# Part B
 
 Please answer the following questions and briefly explain your answer:
 
