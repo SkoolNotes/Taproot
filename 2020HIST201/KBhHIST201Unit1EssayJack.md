@@ -66,16 +66,5 @@ How do different types of multicultural/centralization makes it easier/harder
 
 ![Screen Shot 2020-10-02 at 10.11.57 AM.png](Screen Shot 2020-10-02 at 10.11.57 AM.png)
 
-## Defluffifying
-* Point a 
-* Point b
-* Point c
-
-So what? SO WHAT
-
-Now, defluffify by re-writing the three points + so what in as little words as possible.
-
-**RESTATED CLAIM**
-
 ***
 There is always [UCLA Writing Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf)
