@@ -44,7 +44,7 @@ Include in your essay at least two religions. Sources for: Christianity (McNeill
 * Assertion of control => internal collapse => over-reliance on globalization
 
 Musing:
-* Reliance on multiculturalism will cause improsion, whereas reliance on unification and control will cause overpowering
+* Attempting to reach world hegemony with multiculturalism will cause economic infiltration and a loss of identity, whereas reliance on unification and control to do so will cause economic implosion and loss of control
 * So... Per Arrigi
 	* A "territorialist model" => economic implosion
 	* A "capitalist model" => economic infiltration
