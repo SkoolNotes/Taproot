@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2156)}}    % original
-%\rhead{\textrmlf{Compiled }\#2156\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2156\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2157)}}    % original
+%\rhead{\textrmlf{Compiled }\#2157\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2157\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -172,6 +172,7 @@
 
 Startistical measure of randomness in a reaction of systems.
 
+Entropy measured in microstates --- the spead of energy in states.
 Greater numbers of microstates means that there is more entropy
 
 To think about this, think about states of matter:
@@ -196,6 +197,6 @@ In this image, states (a) and (e) are least likely. This is because
 \textbf{the greater the spread, the greater the entropy; systems like to
 have an increase of entropic state as much as it is possible.}
 
-\definition{Second Law of Thermodynamics}{In the universe, the}
+\definition{Second Law of Thermodynamics}{In the universe, entropy is increasing due to chemical processes.}
 
 \end{document}

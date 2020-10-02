@@ -8,7 +8,7 @@ title: Entropy
 
 Startistical measure of randomness in a reaction of systems. 
 
-Entropy measured in microstates — the Greater numbers of microstates means that there is more entropy
+Entropy measured in microstates — the spead of energy in states. Greater numbers of microstates means that there is more entropy
 
 To think about this, think about states of matter:
 
@@ -20,4 +20,4 @@ To think about this, think about states of matter:
 
 In this image, states (a) and (e) are least likely. This is because **the greater the spread, the greater the entropy; systems like to have an increase of entropic state as much as it is possible.**
 
-\definition{Second Law of Thermodynamics}{In the universe, entropy is increasing.}
+\definition{Second Law of Thermodynamics}{In the universe, entropy is increasing due to chemical processes.}
