@@ -2,10 +2,16 @@
 title:   Exr0n Heart of Darkness Essay Index
 context: 20eng201
 author:  Exr0n
-source:  
+source:  2020ENG201/KBEnglishMasterIndex.md
 ---
 
-#flo #ref #ret 
+#ret 
 #disorganized #incomplete
+
+# Prompt
+
+# Evidence
+
+# Thesis
 
 ---
