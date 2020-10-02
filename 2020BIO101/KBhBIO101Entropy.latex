@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2167)}}    % original
-%\rhead{\textrmlf{Compiled }\#2167\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2167\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2168)}}    % original
+%\rhead{\textrmlf{Compiled }\#2168\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2168\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -211,15 +211,60 @@ change in entropy multiplied by the temperature.
 
 \begin{longtable}[]{@{}llllll@{}}
 \toprule
-\(\Delta H\) & \(\Delta S\) & \(-T \Delta S\) & \(\Delta G\) &
-Spontanety? & Examples?\tabularnewline
+\begin{minipage}[b]{0.14\columnwidth}\raggedright
+\(\Delta H\)\strut
+\end{minipage} & \begin{minipage}[b]{0.14\columnwidth}\raggedright
+\(\Delta S\)\strut
+\end{minipage} & \begin{minipage}[b]{0.14\columnwidth}\raggedright
+\(-T \Delta S\)\strut
+\end{minipage} & \begin{minipage}[b]{0.14\columnwidth}\raggedright
+\(\Delta G\)\strut
+\end{minipage} & \begin{minipage}[b]{0.14\columnwidth}\raggedright
+Spontanety?\strut
+\end{minipage} & \begin{minipage}[b]{0.14\columnwidth}\raggedright
+Examples?\strut
+\end{minipage}\tabularnewline
 \midrule
 \endhead
-+ & - & + & + & Nonspontaneus & TBD\tabularnewline
-- & + & - & - & Spontenous Reaction: creating more entropy, heat is
-flowing out. &\tabularnewline
-- & - & + & \(\pm\) & Low Temp: Spontaneous High Temp: Nonspontaneus
-&\tabularnewline
+\begin{minipage}[t]{0.14\columnwidth}\raggedright
++\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+-\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
++\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
++\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+Nonspontaneus: creating less entropy, heat is going in.\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+TBD\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.14\columnwidth}\raggedright
+-\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
++\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+-\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+-\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+Spontenous: creating more entropy, heat is flowing out.\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+Combustion Reactions ( blowing things up)\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.14\columnwidth}\raggedright
+-\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+-\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
++\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+\(\pm\)\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+Low Temp: Spontaneous High Temp: Nonspontaneus\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
 
