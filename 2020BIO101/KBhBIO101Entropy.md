@@ -33,6 +33,6 @@ Change in gibbs free energy is equal to change in enthalpy minus the change in e
 
 | $\Delta H$ | $\Delta S$ | $-T \Delta S$ | $\Delta G$ | Spontanety? | Examples? |
 | --- | --- | --- | --- | --- | --- | 
-| + | - | + | + | Nonspontaneus: creating less entropy, heat is going in. | TBD |
-| - | + | - | - | Spontenous: creating more entropy, heat is flowing out. | Combustion Reactions ( blowing things up) |
+| + | - | + | + | Non-Favorable Nonspontaneus: creating less entropy, heat is going in. | TBD |
+| - | + | - | - | Favorable Spontenous: creating more entropy, heat is flowing out. | Combustion Reactions ( blowing things up) |
 | - | - | + | $\pm$ | Low Temp: Spontaneous <br /> High Temp: Nonspontaneus |
