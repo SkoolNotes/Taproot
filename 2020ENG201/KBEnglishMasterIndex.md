@@ -46,6 +46,7 @@ source: #index
 * [[KBxHoDDiscussionNotes]]
 ## Heart of Darkness Essay
 * [[KBxHoDEssay]]
+- [[KBe20eng201retHeartOfDarknessEssay]]
 
   
 ## Annotated Docs
