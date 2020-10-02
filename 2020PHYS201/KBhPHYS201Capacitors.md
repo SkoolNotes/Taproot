@@ -59,7 +59,7 @@ Hence, $R \times C = \frac{\cancel{V} \times s}{\cancel{Q}} = \cancel{\frac{Q}{V
 
 ## Equations modeling charging a capacitor 
 
-Also defined $RC = \tau$ — time constant to be able to change the capacitor to an appricable voltage.
+Also defined $RC = \tau$ — time constant to be able to change the capacitor to an appricable voltage of about 2/3.
 
 \definition[where $V_b$ is the battery voltage, $t$ is time elapsed, $R$ is resistance, and $C$ is the capacitance]{Current in circuit as you charge a capacitor}{$I(t) = \frac{V_b}{R} \times e^{\frac{-t}{RC}}$}
 
