@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2152)}}    % original
-%\rhead{\textrmlf{Compiled }\#2152\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2152\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2171)}}    % original
+%\rhead{\textrmlf{Compiled }\#2171\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2171\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -255,6 +255,9 @@ whether or not reactions are helped by the Enzyme.}
 
 For more information about the reaction hump and its related energy
 changes, see {[}{[}KBhBIO101Enthalpy{]}{]}, and
-{[}{[}KBhBIO101Entropy{]}{]}
+{[}{[}KBhBIO101Entropy{]}{]}.
+
+If the body needs a favorable reaction, Enzymes make them quicker. If
+the body needs a non-favorable reaction, Enzymes takes the energy
 
 \end{document}

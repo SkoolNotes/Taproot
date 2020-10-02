@@ -38,4 +38,6 @@ There are three main ways that Enzymes work:
 
 **Remember: The Fundimental Energy Difference does not change whether or not reactions are helped by the Enzyme.**
 
-For more information about the reaction hump and its related energy changes, see [[KBhBIO101Enthalpy]], and [[KBhBIO101Entropy]]
+For more information about the reaction hump and its related energy changes, see [[KBhBIO101Enthalpy]], and [[KBhBIO101Entropy]].
+
+If the body needs a favorable reaction, Enzymes make them quicker. If the body needs a non-favorable reaction, Enzymes catches the energy to make it happen.
