@@ -36,3 +36,4 @@ Change in gibbs free energy is equal to change in enthalpy minus the change in e
 | + | - | + | + | Non-Favorable Nonspontaneus: creating less entropy, heat is going in. | TBD |
 | - | + | - | - | Favorable Spontenous: creating more entropy, heat is flowing out. | Combustion Reactions ( blowing things up) |
 | - | - | + | $\pm$ | Low Temp: Spontaneous <br /> High Temp: Nonspontaneus |
+| + | + | - | $\pm$ | High Temp: Spontaneous <br /> Low Temp: Nonspontaneus |
