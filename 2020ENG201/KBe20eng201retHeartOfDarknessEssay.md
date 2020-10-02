@@ -83,7 +83,7 @@ The final draft 10/12 will be due at the beginning of class
 How does it make me feel?
 - The text feels dreamy, abstract, and almost hallucinatory
 - Kurtz is seen as immortalized, due to his extreme intentions and the raw tangibility of the original experience
-- 
+- the cadence of writing draws the reader and brings them along for an involuntary, exhilarating series of visions
 
 # Thesis
 
