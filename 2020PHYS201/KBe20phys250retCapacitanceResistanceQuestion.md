@@ -38,6 +38,8 @@ $$\tau
 = \rho\kappa\epsilon_0\frac{L^2}{WS} = 7.33\times10^{-11}
 $$
 
+where $\tau$ is the "time constant", which will show up alot: [[KBrefPhysTimeConstant]]
+
 # #icr in class review
 The voltage that we expect to see across the ends of the conductors:
 ![[srcWiresAsCapacitorsSlowSignal.png]]
