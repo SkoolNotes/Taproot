@@ -54,7 +54,6 @@ Musing:
 * So... Per Arrigi
 	* A "territorialist model" => economic implosion	
 		* Ming w/ the Mann
-		* 
 	* A "capitalist model" => economic infiltration
 	
 **The Multiculturalistic State**: The 
