@@ -8,7 +8,7 @@ source:  2020PHYS201/KBPhysicsMasterIndex.md
 #ret 
 #disorganized #incomplete
 
-See [[
+See [[KBsrc20phys250CapacitorLab.pdf]]
 
 ![[Pasted image 20201002140408.png]]
 
