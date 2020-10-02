@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2125)}}    % original
+%\rhead{\textrmlf{Compiled }\#2125\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2125\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -203,5 +205,15 @@ And so, the formal and pretentious definition of a limit:
 \(\lim_{x\to a} f(x) = L\ where\ \forall \epsilon > 0, \exists \delta > 0,\ s.t.\ 0<|x-a|<\delta \to |f(x) -L|<\epsilon.\)
 
 This needs to go before \textbf{every Epsilon Delta proof.}
+
+\begin{itemize}
+\tightlist
+\item
+  Step 1: Write the Definition Above
+\item
+  Step 2: Do scratch work to identify delta
+\item
+  Step 3: Plug it in to verify
+\end{itemize}
 
 \end{document}

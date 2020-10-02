@@ -30,5 +30,6 @@ $\lim_{x\to a} f(x) = L\ where\ \forall \epsilon > 0, \exists \delta > 0,\ s.t.\
 This needs to go before **every Epsilon Delta proof.**
 
 * Step 1: Write the Definition Above
-* Step 2: 
+* Step 2: Do scratch work to identify delta
+* Step 3: Plug it in to verify
 
