@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2096)}}    % original
-%\rhead{\textrmlf{Compiled }\#2096\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2096\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2097)}}    % original
+%\rhead{\textrmlf{Compiled }\#2097\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2097\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -252,10 +252,7 @@ indeed, has a unit Seconds!
 \subsection{Equations modeling charging a
 capacitor}\label{equations-modeling-charging-a-capacitor}}
 
-\definition[where $R$ is the resistance, $C$ is the capacitance]{Time Constant $RC = \tau$}
---- time constant to be able to change the capacitor to a useful
-voltage; aka how much does the capacitor need to noticeably
-charge/discharge.
+\definition[where $R$ is the resistance, $C$ is the capacitance]{Time Constant Tau}{$RC = \tau$ — time constant to be able to change the capacitor to a useful voltage; aka how much does the capacitor need to noticeably charge/discharge.}
 
 Now that we have this value, we could also represent the full charge
 process using the equations as follows:

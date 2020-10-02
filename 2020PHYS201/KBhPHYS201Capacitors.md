@@ -58,7 +58,7 @@ Let's check the units!
 Hence, $R \times C = \frac{\cancel{V} \times s}{\cancel{Q}} = \cancel{\frac{Q}{V}}$, indeed, has a unit Seconds!
 
 ## Equations modeling charging a capacitor 
-\definition[where $R$ is the resistance, $C$ is the capacitance]{Time Constant $RC = \tau$} — time constant to be able to change the capacitor to a useful voltage; aka how much does the capacitor need to noticeably charge/discharge.
+\definition[where $R$ is the resistance, $C$ is the capacitance]{Time Constant Tau}{$RC = \tau$ — time constant to be able to change the capacitor to a useful voltage; aka how much does the capacitor need to noticeably charge/discharge.}
 
 Now that we have this value, we could also represent the full charge process using the equations as follows:
 
