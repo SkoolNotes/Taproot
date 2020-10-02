@@ -84,6 +84,7 @@ How does it make me feel?
 - The text feels dreamy, abstract, and almost hallucinatory
 - Kurtz is seen as immortalized, due to his extreme intentions and the raw tangibility of the original experience
 - the cadence of writing draws the reader and brings them along for an involuntary, exhilarating series of visions
+- the above feelins show that Kurtz and his intentions are immortalized and impressed upon marlow 
 
 # Thesis
 
