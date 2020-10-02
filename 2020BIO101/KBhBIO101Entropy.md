@@ -29,4 +29,4 @@ In this image, states (a) and (e) are least likely. This is because **the greate
 
 $\Delta G = \Delta H - t \Delta S$
 
-Change in gibbs free energy is equal to change in enthalpy minus the change in entropy multiplied by t
+Change in gibbs free energy is equal to change in enthalpy minus the change in entropy multiplied by the temperature.
