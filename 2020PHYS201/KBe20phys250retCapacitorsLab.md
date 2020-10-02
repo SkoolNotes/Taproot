@@ -10,4 +10,6 @@ source:  2020PHYS201/KBPhysicsMasterIndex.md
 
 See [[
 
+![[Pasted image 20201002140408.png]]
+
 ---
