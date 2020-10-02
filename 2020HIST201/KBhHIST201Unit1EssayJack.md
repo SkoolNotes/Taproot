@@ -13,10 +13,13 @@ course: HIST201
 | Oct 12th | Hegemony and competition in the early modern world | Kennedy, Mann, and Friends |
 
 ## Prompt
+
+<!--
 Cultural: Confucianism, Islam, and Christianity play varying roles in the political and economic decisions of the major regions of world (Ming/Qing, Ottomans/Mughals, Europe). **How did culture influence the relative success of commerce and/or state formation in these regions? Was the influence positive or negative ? Were there wider ramifications?**
 Include in your essay at least two religions. Sources for: Christianity (McNeill, Kissinger), Confucianism (resources from your Kennedy essay), Islam (Bulliet, Gilbert, some Gelvin).
+-->
 
-Economic: The Ottomans, the Ming and Qing Empires, the Mughals and the European kingdoms all responded to the globalization of commerce in the early modern period in dramatically different ways. Why did they respond differently to the globalization of commerce and what were the consequences?
+Economic: The Ottomans, the Ming and Qing Empires, the Mughals and the European kingdoms all responded to the globalization of commerce in the early modern period in dramatically different ways. **Why did they respond differently to the globalization of commerce and what were the consequences?**
 Comparing at least two of the regions above. Gelvin (World systems), Mann (silver), Kennedy and Arrighi might be good general frameworks, while Bulliet (Ottomans), Gilbert (Mughals) and McNeill (Europe) can provide some specifics.
 
 
