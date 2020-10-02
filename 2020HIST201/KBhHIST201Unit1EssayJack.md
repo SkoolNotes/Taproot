@@ -46,6 +46,9 @@ Include in your essay at least two religions. Sources for: Christianity (McNeill
 
 Musing:
 * Reliance on multiculturalism will cause improsion, whereas reliance on unification and control will cause overpowering
+* So... Per Arrigi
+	* A "territorialist model" => economic implosion
+	* A "capitalist model" => economic infiltration
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
