@@ -1,5 +1,8 @@
 ---
 title: Entropy
+source: KBhBIO101Enzymes
+course: BIO101
+author: Houjun Liu
 ---
 
 # Entropy
