@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2172)}}    % original
-%\rhead{\textrmlf{Compiled }\#2172\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2172\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2173)}}    % original
+%\rhead{\textrmlf{Compiled }\#2173\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2173\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -218,7 +218,8 @@ two ends of the backbone of the amino acid is combined to cancel out the
 charge}
 
 Proline (p) is a little weird: Side chain bonded with the H2N+ as well
-as the carbon =\textgreater{} ``the helix breaker'': most li
+as the carbon =\textgreater{} ``the helix breaker'': most likely cause a
+bend instead of a structured area due to its unusual circular bonding.
 
 \hypertarget{protein-tertiary-structure}{%
 \subsubsection{Protein Tertiary
