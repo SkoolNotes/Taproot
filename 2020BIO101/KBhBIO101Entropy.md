@@ -25,4 +25,8 @@ In this image, states (a) and (e) are least likely. This is because **the greate
 
 \definition{Second Law of Thermodynamics}{In the universe, entropy is increasing due to chemical processes.}
 
+## Gibbs Free Energy
 
+$\Delta G = \Delta H - t \Delta S$
+
+Change in gibbs free energy is equal to change in enthalpy minus the change in entropy multiplied by t
