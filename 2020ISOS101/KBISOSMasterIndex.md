@@ -26,7 +26,8 @@ source: #index
 * Thoughts on [[Robustness.pdf]] 
 	* Huxley's Take: [[KBRobustness]]
 	* Jack's Take: [[KBhISOS101Robustness]]
-Thoughts on [[how do we know we're not wrong.pdf]]
+Thoughts on [[KBhowdoweknowwerenotwrong.pdf]]
+	* Huxley's Take: [[KBEnqs
 
 
 	
