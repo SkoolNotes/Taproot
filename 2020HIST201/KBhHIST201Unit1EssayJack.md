@@ -62,8 +62,6 @@ The Ottomans, for instance, Established trade agreements "Such trade agreements,
 
 If you try to unify your cultural identity, you may end up loosing your civil control
 
-_Gelvyn "the inability of imperial governments to maintain their authority within their territories."_
-
 Marathas 
 
 
