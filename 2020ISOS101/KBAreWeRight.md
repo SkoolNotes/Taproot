@@ -15,8 +15,15 @@ source: KB20200828003106
 
 ### Are we Sure it's Real?
  - Could we be wrong on climate change? We've been wrong in the past even when almost the entire scientific community has a general consensus
+	 - Before the twentieth century it was much easier to publish less supported conclusions
+		 - The scientific process in general has gotten stricter and more accurate
  - In the case of climate science since political action is required, there has been an unusual effort to make new scientific discovery about this subject accessible to everyone and not just experts
- - 
+ - Scientists predicted a long time ago that greenhouse gas emissions could change the climate and there is now overwhelming evidence that the climate is changing
+ 
+ ### Why is there Uncertainty In the General Public
+  - Politcal uncertainty is different from scientific uncertainty
+	  - A lot of people may be uninformed for this reason
+  - Sometimes it is hard to make a distinction between uncertainty in future events based upon current scientific understanding and understanding in the current situation
 
 ## C Plus Plus that Reflects my Current Feelings on this
 
@@ -28,3 +35,5 @@ int main()
 	std::cout << "Why does isos post readings so late :(" << std::endl;
 }
 ```
+
+The above code is written in C++ and has been scientifically proven to be better than it's C# equivalent This has caused uncertainty about the future of climate simulations and in extension the future of our lives.

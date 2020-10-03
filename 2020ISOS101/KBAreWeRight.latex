@@ -123,9 +123,9 @@ change }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2302)}}    % original
-%\rhead{\textrmlf{Compiled }\#2302\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2302\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2303)}}    % original
+%\rhead{\textrmlf{Compiled }\#2303\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2303\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -245,12 +245,35 @@ it?}\label{do-most-people-believe-in-it}}
 \item
   Could we be wrong on climate change? We've been wrong in the past even
   when almost the entire scientific community has a general consensus
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Before the twentieth century it was much easier to publish less
+    supported conclusions
+
+    \begin{itemize}
+    \tightlist
+    \item
+      The scientific process in general has gotten stricter and more
+      accurate
+    \end{itemize}
+  \end{itemize}
 \item
   In the case of climate science since political action is required,
   there has been an unusual effort to make new scientific discovery
   about this subject accessible to everyone and not just experts
 \item
+  Scientists predicted a long time ago that greenhouse gas emissions
+  could change the climate and there is now overwhelming evidence that
+  the climate is changing
 \end{itemize}
+
+\#\#\# Why is there Uncertainty In the General Public - Politcal
+uncertainty is different from scientific uncertainty - A lot of people
+may be uninformed for this reason - Sometimes it is hard to make a
+distinction between uncertainty in future events based upon current
+scientific understanding and understanding in the current situation
 
 \hypertarget{c-plus-plus-that-reflects-my-current-feelings-on-this}{%
 \subsection{C Plus Plus that Reflects my Current Feelings on
@@ -267,5 +290,8 @@ this}\label{c-plus-plus-that-reflects-my-current-feelings-on-this}}
 \end{Highlighting}
 \end{Shaded}
 
+The above code is written in C++ and has been scientifically proven to
+be better than it's C\# equivalent This has caused uncertainty about the
+future of climate simulations and in extension the future of our lives.
 
 \end{document}
