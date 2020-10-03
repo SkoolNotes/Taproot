@@ -12,6 +12,10 @@ source: KB20200828003106
  - 
 
 ```cpp
-while True:
-	print("do codeblocks work?")
+#include <iostream>
+
+int main()
+{
+	std::cout << "Why does isos post readings so late :(" << std::endl;
+}
 ```

@@ -123,9 +123,9 @@ change }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2292)}}    % original
-%\rhead{\textrmlf{Compiled }\#2292\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2292\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2293)}}    % original
+%\rhead{\textrmlf{Compiled }\#2293\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2293\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -229,8 +229,12 @@ change }
 
 \begin{Shaded}
 \begin{Highlighting}[]
-\ControlFlowTok{while}\NormalTok{ True:}
-\NormalTok{    print(}\StringTok{"do codeblocks work?"}\NormalTok{)}
+\PreprocessorTok{\#include }\ImportTok{\textless{}iostream\textgreater{}}
+
+\DataTypeTok{int}\NormalTok{ main()}
+\NormalTok{\{}
+    \BuiltInTok{std::}\NormalTok{cout \textless{}\textless{} }\StringTok{"Why does isos post readings so late :("}\NormalTok{ \textless{}\textless{} }\BuiltInTok{std::}\NormalTok{endl;}
+\NormalTok{\}}
 \end{Highlighting}
 \end{Shaded}
 
