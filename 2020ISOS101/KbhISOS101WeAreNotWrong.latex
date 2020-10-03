@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2234)}}    % original
-%\rhead{\textrmlf{Compiled }\#2234\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2234\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2235)}}    % original
+%\rhead{\textrmlf{Compiled }\#2235\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2235\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -260,7 +260,17 @@
       from examples ``100 white swans means that all swans are white.
       10000 white swans? I am more sure now''
     \item
-      Hypo-deductive model =\textgreater{} provi
+      Hypo-deductive model =\textgreater{} proving hypothesis ``if I
+      wash my hands after doing an autopsy, I won't hurt babies''
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Easy to get traped in ``affirming the consequent''
+        =\textgreater{} autopsies don't cause died babies, dead people
+        germs do. However, people for a while seriously thought that
+        cada
+      \end{itemize}
     \end{itemize}
   \end{itemize}
 \end{itemize}

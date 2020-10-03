@@ -32,4 +32,5 @@ course: ISOS101
 	* No one answer and standard method of science
 	* Scientists use a variety of methods & philosophers proposed various helpful criteria:
 		* Inductive and deductive reasoning => generalizing from examples "100 white swans means that all swans are white. 10000 white swans? I am more sure now"
-		* Hypo-deductive model => provi
+		* Hypo-deductive model => proving hypothesis "if I wash my hands after doing an autopsy, I won't hurt babies"
+			* Easy to get traped in "affirming the consequent" => autopsies don't cause died babies, dead people germs do. However, people for a while seriously thought that cada
