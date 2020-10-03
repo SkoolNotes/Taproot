@@ -32,7 +32,7 @@ source: KB20200828003106
  ### What now
   - While no scientific conclusion is provable, our current understanding is our best and relatively strong
 	  - It is therefore the most logical to take action on
-  - 
+	  - However, there is no one measurement of scientific reliability
  
 ## C Plus Plus that Reflects my Current Feelings on this
 
