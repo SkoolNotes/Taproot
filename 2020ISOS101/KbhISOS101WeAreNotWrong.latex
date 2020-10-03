@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2224)}}    % original
-%\rhead{\textrmlf{Compiled }\#2224\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2224\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2225)}}    % original
+%\rhead{\textrmlf{Compiled }\#2225\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2225\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -225,6 +225,14 @@
   \item
     Scientists have sometimes failed to explain themselves beyond their
     communities
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Actually, scientists sometimes thought that the mere worry about
+      dissemination is wasting time
+    \item
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 

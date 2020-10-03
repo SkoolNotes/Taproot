@@ -22,4 +22,6 @@ course: ISOS101
 * So, why do people think that people disagree on scientifically confirm consensus?
 	* People are conflating scientific evidence with political decisions
 	* Climate science heavily predicated upon future effects, which is not always easy and effective
-	* Scientists have sometimes failed to explain themselves beyond their communities
+	* Scientists have sometimes failed to explain themselves beyond their communities	
+		* Actually, scientists sometimes thought that the mere worry about dissemination is wasting time
+		* 
