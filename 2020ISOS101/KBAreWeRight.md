@@ -25,8 +25,6 @@ source: KB20200828003106
 
 int main()
 {
-	char buffer[256];
-	std::cin >> buffer;
 	std::cout << "Why does isos post readings so late :(" << std::endl;
 }
 ```
