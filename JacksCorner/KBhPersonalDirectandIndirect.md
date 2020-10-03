@@ -32,4 +32,8 @@ course: English
 |---|---|
 | This (evening, etc.)| That (evening, etc.) |
 | Today | Yesterday |
-| These (d
+| These (days, etc.) | Those (days, etc.) |
+| Now | Then |
+| (A week) ago...| (A week) before... |
+| Last week | The previous week | 
+| Here | |
