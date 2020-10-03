@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2231)}}    % original
-%\rhead{\textrmlf{Compiled }\#2231\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2231\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2232)}}    % original
+%\rhead{\textrmlf{Compiled }\#2232\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2232\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -249,6 +249,21 @@
     There is actually no singular scientific method!
   \item
     No one answer and standard method of science
+  \item
+    Scientists use a variety of methods \& philosophers proposed various
+    helpful criteria:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Inductive and deductive reasoning
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Induction =\textgreater{} g
+      \end{itemize}
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 

@@ -29,4 +29,7 @@ course: ISOS101
 	* Organization sometimes propergating alternative views
 * How do we know that we arn't wrong?
 	* There is actually no singular scientific method!
-	* No one answer and standard method of science   
+	* No one answer and standard method of science
+	* Scientists use a variety of methods & philosophers proposed various helpful criteria:
+		* Inductive and deductive reasoning
+			* Induction => g
