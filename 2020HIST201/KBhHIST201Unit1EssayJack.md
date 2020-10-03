@@ -62,6 +62,8 @@ If you too multicultural, you may end up loosing your economic control. Empires 
 
 If you try to enforce the same culture, [something about economic control.]
 
+
+
 How do different types of multicultural/centralization makes it easier/harder
 
 ![Screen Shot 2020-10-02 at 10.11.57 AM.png](Screen Shot 2020-10-02 at 10.11.57 AM.png)
