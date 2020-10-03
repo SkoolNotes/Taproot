@@ -65,10 +65,6 @@ If you tried to overly unify your cultural identity, you may end up loosing your
 Mughals => tried model of unity — loosing support of Hindu nobels "The combination of anti-Hindu policy and sentiment at court and the reduction in the value of subsidies or land grants to Maratha mansab dars turned Shivaji into not merely a rebel but a rival." => causing the series of decline that the Mughals saw initiated with the Maratha rebelion.
 
 
-
-
-How do different types of multicultural/centralization makes it easier/harder
-
 ![Screen Shot 2020-10-02 at 10.11.57 AM.png](Screen Shot 2020-10-02 at 10.11.57 AM.png)
 
 ***
