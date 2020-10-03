@@ -24,6 +24,8 @@ source: KB20200828003106
   - Political uncertainty is different from scientific uncertainty
 	  - A lot of people may be uninformed for this reason
   - Sometimes it is hard to make a distinction between uncertainty in future events based upon current scientific understanding and understanding in the current situation
+  - A lot of scientists see their jobs as knowledge finders/creators and not communicators of this knowledge
+	  - Some even sneer at those who are trying to communicate the consensus calling them populerizers.
   - 
 
 ## C Plus Plus that Reflects my Current Feelings on this
