@@ -34,7 +34,7 @@ Culture of not communicating to the masses
 ==in science, the question cannot be if they might be mistaken, but whether there is a reason to think they are mistaken==
 wait no...
 
-
+Hard to falsifie models of future. What they do is see how well it can produce past events. 
 
 
 
