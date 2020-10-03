@@ -6,6 +6,8 @@ course: English
 
 # Direct and Indirect Speech
 
+## Tenses
+
 | Direct Speech | Indirect/Reported Speech |
 |---|---|
 | Present Simple | Past Simple |
@@ -13,5 +15,17 @@ course: English
 | Present Perfect | Past Simple/Perfect |
 | Past Simple | Past Perfect |
 | Past Continuous | Past Perfect Continuous | 
+
+## Examples
+
+| Direct Speech | Indirect/Reported Speech |
 |---|---|
+| Must | Had to |
+| Will | Would |
+| Can | Could |
+| Shall | Should |
+| May | Might |
+
+## Times
+
 
