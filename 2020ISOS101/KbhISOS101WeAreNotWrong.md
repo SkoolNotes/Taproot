@@ -31,6 +31,5 @@ course: ISOS101
 	* There is actually no singular scientific method!
 	* No one answer and standard method of science
 	* Scientists use a variety of methods & philosophers proposed various helpful criteria:
-		* Inductive and deductive reasoning
-			* Induction => generalizing from examples "100 white swans means that all swans are white. 10000 white swans? I am more sure now"
-			* 
+		* Inductive and deductive reasoning => generalizing from examples "100 white swans means that all swans are white. 10000 white swans? I am more sure now"
+		* Hypo-deductive model => provi

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2233)}}    % original
-%\rhead{\textrmlf{Compiled }\#2233\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2233\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2234)}}    % original
+%\rhead{\textrmlf{Compiled }\#2234\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2234\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -256,16 +256,11 @@
     \begin{itemize}
     \tightlist
     \item
-      Inductive and deductive reasoning
-
-      \begin{itemize}
-      \tightlist
-      \item
-        Induction =\textgreater{} generalizing from examples ``100 white
-        swans means that all swans are white. 10000 white swans? I am
-        more sure now''
-      \item
-      \end{itemize}
+      Inductive and deductive reasoning =\textgreater{} generalizing
+      from examples ``100 white swans means that all swans are white.
+      10000 white swans? I am more sure now''
+    \item
+      Hypo-deductive model =\textgreater{} provi
     \end{itemize}
   \end{itemize}
 \end{itemize}
