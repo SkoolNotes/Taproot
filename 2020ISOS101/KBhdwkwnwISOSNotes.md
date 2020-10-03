@@ -29,7 +29,7 @@ Uncertainty about the future is conflated with uncertainty about current knowled
 
 Lack of communication from scientists 
 
-
+Culture of not communicating to the masses 
 
 
 

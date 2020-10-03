@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2196)}}    % original
-%\rhead{\textrmlf{Compiled }\#2196\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2196\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2197)}}    % original
+%\rhead{\textrmlf{Compiled }\#2197\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2197\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -195,5 +195,9 @@ No consensus on tempo and mode of climate change
 
 Uncertainty about the future is conflated with uncertainty about current
 knowledge
+
+Lack of communication from scientists
+
+Culture of not communicating to the masses
 
 \end{document}
