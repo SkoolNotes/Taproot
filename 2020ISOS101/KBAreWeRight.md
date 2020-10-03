@@ -20,12 +20,13 @@ source: KB20200828003106
  - In the case of climate science since political action is required, there has been an unusual effort to make new scientific discovery about this subject accessible to everyone and not just experts
  - Scientists predicted a long time ago that greenhouse gas emissions could change the climate and there is now overwhelming evidence that the climate is changing
  
+ 
  ### Why is there Uncertainty In the General Public
   - Political uncertainty is different from scientific uncertainty
 	  - A lot of people may be uninformed for this reason
   - Sometimes it is hard to make a distinction between uncertainty in future events based upon current scientific understanding and understanding in the current situation
   - A lot of scientists see their jobs as knowledge finders/creators and not communicators of this knowledge
-	  - Some even sneer at those who are trying to communicate the consensus calling them populerizers.
+	  - Some even sneer at those who are trying to communicate the consensus calling them populerizers(I give up on spelling).
  
  
 
