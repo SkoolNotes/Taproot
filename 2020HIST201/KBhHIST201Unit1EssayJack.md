@@ -62,8 +62,6 @@ If you too multicultural, you may end up loosing your economic control. Empires 
 
 The Ottomans, for instance, Established trade agreements "Such trade agreements, called capitulations, led to European domination of Ottoman seaborne trade. ... Far from seeing Europe as the enemy that would eventually dismantle the empire, the Istanbul elite experimented with European clothing and furniture styles" => new styles infiltrated the government causing a lack of response or even capitulation (Bulliet)
 
-Ming, for instance, tried to remedy this
--  
 
 If you try to unify your cultural identity, you may end up loosing your civic control. => Gelvyn "the inability of imperial governments to maintain their authority within their territories."
 
