@@ -14,4 +14,7 @@ course: ISOS101
 	* So, consensus does not mean correctness
 * Climate science unusual because of political motivations
 * One way to test hypothesis is to do a review of the state of that field
-	*  This was originally trivial, but
+	*  This was originally trivial, but gets much harder nowadays
+	*  Too many papers published for one to read efficiently
+* Now, Knowledge = Scientific Consensus
+	* 

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2215)}}    % original
-%\rhead{\textrmlf{Compiled }\#2215\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2215\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2216)}}    % original
+%\rhead{\textrmlf{Compiled }\#2216\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2216\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -195,7 +195,9 @@
   \begin{itemize}
   \tightlist
   \item
-    This was originally trivial, but
+    This was originally trivial, but gets much harder nowadays
+  \item
+    Too many papers published
   \end{itemize}
 \end{itemize}
 
