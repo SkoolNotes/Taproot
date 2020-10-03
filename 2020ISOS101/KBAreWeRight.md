@@ -29,7 +29,11 @@ source: KB20200828003106
 	  - Some even sneer at those who are trying to communicate the consensus calling them populerizers(I give up on spelling).
  
  
-
+ ### What now
+  - While no scientific conclusion is provable, our current understanding is our best and relatively strong
+	  - It is therefore the most logical to take action on
+  - 
+ 
 ## C Plus Plus that Reflects my Current Feelings on this
 
 ```cpp
