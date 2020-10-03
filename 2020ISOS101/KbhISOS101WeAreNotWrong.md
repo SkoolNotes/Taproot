@@ -36,5 +36,4 @@ course: ISOS101
 			* Easy to get trapped in "affirming the consequent" => autopsies don't cause died babies, dead people germs do. However, people for a while seriously thought that cadaveric matter in and of itself causes dead babies/dead people.
 		* Falsificationism => you could never proof something true; you could only prove it false 
 		* Consillience of Evidence => look for multiple independent lines of evidence that allow a fact to be shown
-		* Inference to the best explanation
-			* There exists various problems in attempting to develop 
+		* Inference to the best explanation => getting a lot of evidence and choosing from it simply the "best available."
