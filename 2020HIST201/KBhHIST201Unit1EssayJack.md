@@ -77,6 +77,8 @@ If you tried to overly unify your cultural identity, you may end up loosing your
 If you try to, instead, exercise balance and raíson de'etat, happiness to everyone!
 
 
+## Defluffifying
+
 * Point a 
 * Point b
 * Point c
