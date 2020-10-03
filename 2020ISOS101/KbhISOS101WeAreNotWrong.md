@@ -27,4 +27,5 @@ course: ISOS101
 		* "Popularizers" are dismissed
 	* Scientists commenting on contested issue often called "politicizing"
 	* Organization sometimes propergating alternative views
-	*   
+* How do we know that we arn't wrong?
+	*    
