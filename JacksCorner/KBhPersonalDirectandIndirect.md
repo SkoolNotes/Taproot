@@ -10,5 +10,8 @@ course: English
 |---|---|
 | Present Simple | Past Simple |
 | Present Continuous | Past Continuous | 
-| Present Perspective | Past Simple/Perfect |
-| 
+| Present Perfect | Past Simple/Perfect |
+| Past Simple | Past Perfect |
+| Past Continuous | Past Perfect Continuous | 
+|---|---|
+

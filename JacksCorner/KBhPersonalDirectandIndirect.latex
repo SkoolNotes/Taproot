@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2180)}}    % original
-%\rhead{\textrmlf{Compiled }\#2180\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2180\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2181)}}    % original
+%\rhead{\textrmlf{Compiled }\#2181\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2181\textrmlf{ on} \today}       % new date
 \lfoot{Grammar \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -176,8 +176,9 @@ Direct Speech & Indirect/Reported Speech\tabularnewline
 \endhead
 Present Simple & Past Simple\tabularnewline
 Present Continuous & Past Continuous\tabularnewline
-Present Perspective & Past Simple/Perfect\tabularnewline
-&\tabularnewline
+Present Perfect & Past Simple/Perfect\tabularnewline
+Past Simple & Past Perfect\tabularnewline
+Past Continuous & Past Perspective\tabularnewline
 \bottomrule
 \end{longtable}
 
