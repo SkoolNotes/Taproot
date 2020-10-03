@@ -2,7 +2,7 @@
 title: How do we know were not wrong 
 context: ISOS201
 author:  Huxley
-source:  #index
+source: #index
 ---
 
 #flo #disorganized
