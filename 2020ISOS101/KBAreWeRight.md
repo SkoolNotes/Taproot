@@ -36,4 +36,4 @@ int main()
 }
 ```
 
-The above code is written in C++ and has been scientifically proven to be better than it's C# equivalent This has caused uncertainty about the future of climate simulations and in extension the future of our lives.
+The above code is written in C++ and has been scientifically proven to be better than it's C# equivalent. This has caused uncertainty about the future of climate simulations and in extension the future of our lives.
