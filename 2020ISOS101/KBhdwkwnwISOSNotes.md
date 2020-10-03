@@ -45,7 +45,7 @@ Hard to falsifie models of future. What they do is see how well it can produce p
 
 I knew climate change wasn't real! I knew it all along!
 
-This reading really didn't seem to be that novel or interesting to me. Perhaps the most interesting bit was the part about applying the 'scientific method' to models of the future. Continued tweaking does not guarantee good results, only the right results given a specific scenario. Continued tweaking, in one scenario, can account for missing something broader, and provide the correct result while being entirely wrong. It's quite intresting to think about applying 'old' ways of science to things that are only possible with modern day technolgy 
+This reading really didn't seem to be that novel or interesting to me. Perhaps the most interesting bit was the part about applying the 'scientific method' to models of the future. Continued tweaking does not guarantee good results, only the right results given a specific scenario. Continued tweaking, in one scenario, can account for missing something broader, and provide the correct result while being entirely wrong. It's quite fascinating to think about applying 'old' ways of science to things that are only possible with modern day technology, and deal with new emerging problems due to our changing capabilities 
 
 
 
