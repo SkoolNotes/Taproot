@@ -28,6 +28,6 @@ source: #index
 	* Jack's Take: [[KBhISOS101Robustness]]
 Thoughts on [[KBhowdoweknowwerenotwrong.pdf]]
 	* Huxley's Take: [[KBdwkwnwISOSNotes]]
-
+	* Jack's Take: [[KbhISOS101WeAreNotWrong]]
 
 	
