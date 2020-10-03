@@ -17,4 +17,6 @@ course: ISOS101
 	*  This was originally trivial, but gets much harder nowadays
 	*  Too many papers published for one to read efficiently
 * Now, Knowledge = Scientific Consensus => only over the simple _realities_ of a hypothesis
-	* Stat
+	* Claims with scientific consensus are rounded on verified new realities
+	* Claims of current causes is not prediction of the future
+* 
