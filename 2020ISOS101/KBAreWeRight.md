@@ -15,6 +15,7 @@ source: KB20200828003106
 
 ### Are we Sure it's Real?
  - Could we be wrong on climate change? We've been wrong in the past even when almost the entire scientific community has a general consensus
+ - In the case of climate science since political action is required, there has been an unusual effort to make new scientific discovery about this subject accessible to everyone and not just experts
  - 
 
 ## C plus plus that reflects my current feeling on this
