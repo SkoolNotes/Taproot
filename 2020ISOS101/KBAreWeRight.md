@@ -18,7 +18,7 @@ source: KB20200828003106
  - In the case of climate science since political action is required, there has been an unusual effort to make new scientific discovery about this subject accessible to everyone and not just experts
  - 
 
-## C plus plus that reflects my current feeling on this
+## C Plus Plus that Reflects my Current Feelings on this
 
 ```cpp
 #include <iostream>
