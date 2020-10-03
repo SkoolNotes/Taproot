@@ -33,4 +33,5 @@ course: ISOS101
 	* Scientists use a variety of methods & philosophers proposed various helpful criteria:
 		* Inductive and deductive reasoning => generalizing from examples "100 white swans means that all swans are white. 10000 white swans? I am more sure now"
 		* Hypo-deductive model => proving hypothesis "if I wash my hands after doing an autopsy, I won't hurt babies"
-			* Easy to get traped in "affirming the consequent" => autopsies don't cause died babies, dead people germs do. However, people for a while seriously thought that cada
+			* Easy to get trapped in "affirming the consequent" => autopsies don't cause died babies, dead people germs do. However, people for a while seriously thought that cadaveric matter in and of itself causes dead babies/dead people.
+		* 
