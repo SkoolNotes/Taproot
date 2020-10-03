@@ -5,7 +5,10 @@ author: Zachary Sayyah
 source: KB20200828003106
 ---
 
+# Notes
+ - 
+
 ```python
 while True:
-	print("do codeblocks wo")
+	print("do codeblocks work?")
 ```

@@ -123,9 +123,9 @@ change }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2288)}}    % original
-%\rhead{\textrmlf{Compiled }\#2288\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2288\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2289)}}    % original
+%\rhead{\textrmlf{Compiled }\#2289\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2289\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -206,10 +206,18 @@ change }
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=KB20200828003106}{\tiny\textulf{[[}\textbf{KB20200828003106}\textulf{]]}}}\thinspace
 
+\hypertarget{notes}{%
+\section{Notes}\label{notes}}
+
+\begin{itemize}
+\tightlist
+\item
+\end{itemize}
+
 \begin{Shaded}
 \begin{Highlighting}[]
 \ControlFlowTok{while} \VariableTok{True}\NormalTok{:}
-    \BuiltInTok{print}\NormalTok{(}\StringTok{"do codeblocks wo"}\NormalTok{)}
+    \BuiltInTok{print}\NormalTok{(}\StringTok{"do codeblocks work?"}\NormalTok{)}
 \end{Highlighting}
 \end{Shaded}
 
