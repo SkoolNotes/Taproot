@@ -64,9 +64,11 @@ If you tried to overly unify your cultural identity, you may end up loosing your
 
 Mughals => tried model of unity — loosing support of Hindu nobels "The combination of anti-Hindu policy and sentiment at court and the reduction in the value of subsidies or land grants to Maratha mansab dars turned Shivaji into not merely a rebel but a rival." => causing the series of decline that the Mughals saw initiated with the Maratha rebelion.
 
-If you try to, instead, excercise balance and raíson de'etat, happiness to everyone!
+If you try to, instead, exercise balance and raíson de'etat, happiness to everyone!
 
-English example => "England's policy was based on throwing its weight as the occasion required to the weaker and more threatened side to redress the equilibrium. ... England was the one Euro- pean country whose raison d 'etat did not require it to expand in Europe. Perceiving its national interest to be in the preservation of the European balance
+English example => "England's policy was based on throwing its weight as the occasion required to the weaker and more threatened side to redress the equilibrium. ... England was the one European country whose raison d 'etat did not require it to expand in Europe. Perceiving its national interest to be in the preservation of the European balance"
+
+And yes, there is a point where Raison de etat turns into territorialism. But, that becomes no longer Raison de etat, that's a tour de force: " Richelieu's raison d'etat threatens self- destructive tours de force.... 
 
 ![Screen Shot 2020-10-02 at 10.11.57 AM.png](Screen Shot 2020-10-02 at 10.11.57 AM.png)
 
