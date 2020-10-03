@@ -31,6 +31,8 @@ Lack of communication from scientists
 
 Culture of not communicating to the masses 
 
+==in science, the question cannot be if they might be mistaken, but whether there is a reason to think they are mistaken==
+wait no...
 
 
 
