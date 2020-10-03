@@ -13,7 +13,7 @@ source:  #index
 
 So scientists believe that climate change is real, and the American people are misinformed. 
 
-#####This reading will ask: "Might the scientific consensus be wrong?:
+**This reading will ask: "Might the scientific consensus be wrong?"**
 
 
 

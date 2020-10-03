@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2189)}}    % original
-%\rhead{\textrmlf{Compiled }\#2189\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2189\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2190)}}    % original
+%\rhead{\textrmlf{Compiled }\#2190\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2190\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -177,7 +177,7 @@
 So scientists believe that climate change is real, and the American
 people are misinformed.
 
-\#\#\#\#\#This reading will ask: "Might the scientific consensus be
-wrong?:
+\textbf{This reading will ask: ``Might the scientific consensus be
+wrong?''}
 
 \end{document}
