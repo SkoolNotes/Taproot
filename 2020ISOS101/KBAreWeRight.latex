@@ -123,9 +123,9 @@ change }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2290)}}    % original
-%\rhead{\textrmlf{Compiled }\#2290\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2290\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2291)}}    % original
+%\rhead{\textrmlf{Compiled }\#2291\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2291\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -213,13 +213,16 @@ change }
 \tightlist
 \item
   There are still scientists that are divided about the issue of climate
-  change
+  change, but they are few and far between
 
   \begin{itemize}
   \tightlist
   \item
-    The Majority of Americans think that
+    The Majority of Americans think that scientists \textbf{are} divided
+    about climate change
   \end{itemize}
+\item
+  Only a little more than half of Americans think that
 \end{itemize}
 
 \begin{Shaded}
