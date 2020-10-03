@@ -36,4 +36,6 @@ course: English
 | Now | Then |
 | (A week) ago...| (A week) before... |
 | Last week | The previous week | 
-| Here | |
+| Here | There |
+| Next (week...) | The following (week...) |
+| Tomorrow | The following/next day |

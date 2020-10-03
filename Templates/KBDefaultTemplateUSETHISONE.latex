@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ English }
-\newcommand{\thelesson}{ Direct and Indirect Speech }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -125,7 +125,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2185)}}    % original
 %\rhead{\textrmlf{Compiled }\#2185\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#2185\textrmlf{ on} \today}       % new date
-\lfoot{Grammar \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,61 +164,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
 
-\hypertarget{direct-and-indirect-speech}{%
-\section{Direct and Indirect Speech}\label{direct-and-indirect-speech}}
 
-\hypertarget{tenses}{%
-\subsection{Tenses}\label{tenses}}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Direct Speech & Indirect/Reported Speech\tabularnewline
-\midrule
-\endhead
-Present Simple & Past Simple\tabularnewline
-Present Continuous & Past Continuous\tabularnewline
-Present Perfect & Past Simple/Perfect\tabularnewline
-Past Simple & Past Perfect\tabularnewline
-Past Continuous & Past Perfect Continuous\tabularnewline
-\bottomrule
-\end{longtable}
-
-\hypertarget{examples}{%
-\subsection{Examples}\label{examples}}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Direct Speech & Indirect/Reported Speech\tabularnewline
-\midrule
-\endhead
-Must & Had to\tabularnewline
-Will & Would\tabularnewline
-Can & Could\tabularnewline
-Shall & Should\tabularnewline
-May & Might\tabularnewline
-\bottomrule
-\end{longtable}
-
-\hypertarget{times}{%
-\subsection{Times}\label{times}}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Direct Speech & Indirect/Reported Speech\tabularnewline
-\midrule
-\endhead
-This (evening, etc.) & That (evening, etc.)\tabularnewline
-Today & Yesterday\tabularnewline
-These (days, etc.) & Those (days, etc.)\tabularnewline
-Now & Then\tabularnewline
-(A week) ago\ldots{} & (A week) before\ldots{}\tabularnewline
-Last week & The previous week\tabularnewline
-Here & There\tabularnewline
-Next (week\ldots) & The following (week\ldots)\tabularnewline
-Tomorrow & The following/next day\tabularnewline
-\bottomrule
-\end{longtable}
 
 \end{document}
