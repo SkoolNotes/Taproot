@@ -11,7 +11,7 @@ source:  #index
 
 # So, tell me, how do we know? 
 
-
+So scientists believe that climate change is real, and the American people are misinformed. 
 
 
 
