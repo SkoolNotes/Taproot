@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2200)}}    % original
-%\rhead{\textrmlf{Compiled }\#2200\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2200\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2201)}}    % original
+%\rhead{\textrmlf{Compiled }\#2201\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2201\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -214,5 +214,11 @@ produce past events.
 
 \begin{verbatim}
 \end{verbatim}
+
+I knew climate change wasn't real! I knew it all along!
+
+This reading really didn't seem to be that novel or interesting to me.
+Perhaps the most interesting bit was the part about applying the
+`scientific method' to models of the future.
 
 \end{document}
