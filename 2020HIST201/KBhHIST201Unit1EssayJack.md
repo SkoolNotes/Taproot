@@ -82,7 +82,7 @@ So what? So be the third thing.
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**The policy overextension of multicultralistic states such as the Ottomans will bring a lo
+**Overextention of multicultralism will bring forth a lack of economic control; whereas overunification of cultural identity 
 
 ![Screen Shot 2020-10-02 at 10.11.57 AM.png](Screen Shot 2020-10-02 at 10.11.57 AM.png)
 
