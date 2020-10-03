@@ -28,4 +28,8 @@ course: English
 
 ## Times
 
-
+| Direct Speech | Indirect/Reported Speech |
+|---|---|
+| This (evening, etc.)| That (evening, etc.) |
+| Today | Yesterday |
+| These (d
