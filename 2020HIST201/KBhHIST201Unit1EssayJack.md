@@ -60,7 +60,7 @@ Musing:
 
 If you too multicultural, you may end up loosing your economic control. Empires are trying to include all these cultures in one territory.
 
-If you try to unify your cultural identity, [something about economic control.]
+If you try to unify your cultural identity, you may end up loosing your civic control. => Gelvyn "the inability of imperial governments to maintain their authorit y within their territories."
 
 
 How do different types of multicultural/centralization makes it easier/harder
