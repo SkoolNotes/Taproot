@@ -68,7 +68,15 @@ If you try to, instead, exercise balance and raíson de'etat, happiness to every
 
 English example => "England's policy was based on throwing its weight as the occasion required to the weaker and more threatened side to redress the equilibrium. ... England was the one European country whose raison d 'etat did not require it to expand in Europe. Perceiving its national interest to be in the preservation of the European balance"
 
-And yes, there is a point where Raison de etat turns into territorialism. But, that becomes no longer Raison de etat, that's a tour de force: " Richelieu's raison d'etat threatens self- destructive tours de force.... 
+And yes, there is a point where Raison de etat turns into territorialism. But, that becomes no longer Raison de etat, that's a tour de force: " Richelieu's raison d'etat threatens self- destructive tours de force.... But Louis XN gained no peace of mind from security; he saw in it an opportunity for conquest. In his overzealous pursuit of raison d'etat, LouisXN alarmed the rest of Europe and brought together an anti-French coalition which, in the end, thwarted his design." 
+
+***
+
+pIf you too multicultural, you may end up loosing your economic control. Empires are trying to include all these cultures in one territory.
+If you tried to overly unify your cultural identity, you may end up loosing your civil control.
+If you try to, instead, exercise balance and raíson de'etat, happiness to everyone!
+
+
 
 ![Screen Shot 2020-10-02 at 10.11.57 AM.png](Screen Shot 2020-10-02 at 10.11.57 AM.png)
 
