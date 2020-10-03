@@ -6,7 +6,8 @@ source: KB20200828003106
 ---
 
 # Notes
- - 
+ - There are still scientists that are divided about the issue of climate change
+	 - The Majority of Americans think that 
 
 ```python
 while True:
