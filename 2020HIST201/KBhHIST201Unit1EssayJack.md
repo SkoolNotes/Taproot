@@ -82,7 +82,7 @@ So what? So be the third thing.
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**Overextention of multicultralism will bring forth a lack of economic control; whereas overunification of cultural identity 
+**When attempting to reach system hegemony, overextention of multicultralism will bring forth a lack of economic control whereas overunification of cultural identity will cause 
 
 ![Screen Shot 2020-10-02 at 10.11.57 AM.png](Screen Shot 2020-10-02 at 10.11.57 AM.png)
 
