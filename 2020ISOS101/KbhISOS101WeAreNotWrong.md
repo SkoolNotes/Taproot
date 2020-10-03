@@ -19,4 +19,5 @@ course: ISOS101
 * Now, Knowledge = Scientific Consensus => only over the simple _realities_ of a hypothesis
 	* Claims with scientific consensus are rounded on verified new realities
 	* Claims of current causes is not prediction of the future
-* 
+* So, why do people think that people disagree on scientifically confirm consensus?
+	* 
