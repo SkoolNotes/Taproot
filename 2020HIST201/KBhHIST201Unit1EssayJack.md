@@ -62,7 +62,8 @@ The Ottomans, for instance, Established trade agreements "Such trade agreements,
 
 If you try to unify your cultural identity, you may end up loosing your civil control
 
-Marathas 
+Marathas => tried model of unity — loosing upport
+o
 
 
 How do different types of multicultural/centralization makes it easier/harder
