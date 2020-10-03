@@ -23,6 +23,8 @@ source: KB20200828003106
 ```cpp
 #include <iostream>
 
+char buffer[256];
+
 int main()
 {
 	std::cout << "Why does isos post readings so late :(" << std::endl;
