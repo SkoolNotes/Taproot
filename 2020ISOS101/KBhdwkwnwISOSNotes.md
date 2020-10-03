@@ -25,9 +25,9 @@ No consensus on tempo and mode of climate change
 
 ## Perceived disagreement  
 
+Uncertainty about the future is conflated with uncertainty about current knowledge 
 
-
-
+Lack of communication from scientists 
 
 
 
