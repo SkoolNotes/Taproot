@@ -34,4 +34,4 @@ course: ISOS101
 		* Inductive and deductive reasoning => generalizing from examples "100 white swans means that all swans are white. 10000 white swans? I am more sure now"
 		* Hypo-deductive model => proving hypothesis "if I wash my hands after doing an autopsy, I won't hurt babies"
 			* Easy to get trapped in "affirming the consequent" => autopsies don't cause died babies, dead people germs do. However, people for a while seriously thought that cadaveric matter in and of itself causes dead babies/dead people.
-		* Falsificationism => you couldn 
+		* Falsificationism => you could never proof something true; you could only prove it false 
