@@ -123,9 +123,9 @@ change }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2305)}}    % original
-%\rhead{\textrmlf{Compiled }\#2305\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2305\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2306)}}    % original
+%\rhead{\textrmlf{Compiled }\#2306\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2306\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -273,7 +273,7 @@ it?}\label{do-most-people-believe-in-it}}
 uncertainty is different from scientific uncertainty - A lot of people
 may be uninformed for this reason - Sometimes it is hard to make a
 distinction between uncertainty in future events based upon current
-scientific understanding and understanding in the current situation
+scientific understanding and understanding in the current situation -
 
 \hypertarget{c-plus-plus-that-reflects-my-current-feelings-on-this}{%
 \subsection{C Plus Plus that Reflects my Current Feelings on
@@ -293,6 +293,6 @@ this}\label{c-plus-plus-that-reflects-my-current-feelings-on-this}}
 The above code is written in C++ and has been scientifically proven to
 be better than it's C\# equivalent. This has caused uncertainty about
 the future of climate simulations and in extension the future of our
-lives.
+lives as most simulation type technologies are written in C\#.
 
 \end{document}

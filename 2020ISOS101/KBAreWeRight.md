@@ -24,6 +24,7 @@ source: KB20200828003106
   - Political uncertainty is different from scientific uncertainty
 	  - A lot of people may be uninformed for this reason
   - Sometimes it is hard to make a distinction between uncertainty in future events based upon current scientific understanding and understanding in the current situation
+  - 
 
 ## C Plus Plus that Reflects my Current Feelings on this
 
@@ -36,4 +37,4 @@ int main()
 }
 ```
 
-The above code is written in C++ and has been scientifically proven to be better than it's C# equivalent. This has caused uncertainty about the future of climate simulations and in extension the future of our lives.
+The above code is written in C++ and has been scientifically proven to be better than it's C# equivalent. This has caused uncertainty about the future of climate simulations and in extension the future of our lives as most simulation type technologies are written in C#.
