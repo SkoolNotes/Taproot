@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2223)}}    % original
-%\rhead{\textrmlf{Compiled }\#2223\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2223\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2224)}}    % original
+%\rhead{\textrmlf{Compiled }\#2224\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2224\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -220,8 +220,11 @@
   \item
     People are conflating scientific evidence with political decisions
   \item
-    Climate science heavily predicated upon future effects
+    Climate science heavily predicated upon future effects, which is not
+    always easy and effective
   \item
+    Scientists have sometimes failed to explain themselves beyond their
+    communities
   \end{itemize}
 \end{itemize}
 
