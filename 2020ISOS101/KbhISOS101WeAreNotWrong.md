@@ -7,3 +7,7 @@ course: ISOS101
 
 # HDWDNWANW
 
+#flo #disorganized 
+
+* Prominent scientists could be wrong!
+* 
