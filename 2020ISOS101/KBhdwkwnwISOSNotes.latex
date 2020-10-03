@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ ISOS201 }
+\newcommand{\thelesson}{ How do we know were not wrong }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2186)}}    % original
-%\rhead{\textrmlf{Compiled }\#2186\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2186\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2187)}}    % original
+%\rhead{\textrmlf{Compiled }\#2187\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2187\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,9 +164,14 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\#flo \#ref \#ret \#disorganized \#incomplete
+\#flo \#disorganized
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{so-tell-me-how-do-we-know}{%
+\section{So, tell me, how do we know?}\label{so-tell-me-how-do-we-know}}
 
 \end{document}
