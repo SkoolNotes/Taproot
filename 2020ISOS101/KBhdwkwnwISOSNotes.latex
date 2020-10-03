@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2190)}}    % original
-%\rhead{\textrmlf{Compiled }\#2190\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2190\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2192)}}    % original
+%\rhead{\textrmlf{Compiled }\#2192\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2192\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,5 +179,7 @@ people are misinformed.
 
 \textbf{This reading will ask: ``Might the scientific consensus be
 wrong?''}
+
+Been wrong before, might be wrong again. How do we know?
 
 \end{document}

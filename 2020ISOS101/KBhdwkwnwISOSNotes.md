@@ -15,6 +15,8 @@ So scientists believe that climate change is real, and the American people are m
 
 **This reading will ask: "Might the scientific consensus be wrong?"**
 
+Been wrong before, might be wrong again. How do we know? 
+
 
 
 
