@@ -28,4 +28,5 @@ course: ISOS101
 	* Scientists commenting on contested issue often called "politicizing"
 	* Organization sometimes propergating alternative views
 * How do we know that we arn't wrong?
-	*    
+	* There is actually no singular scientific method!
+	* No one answer and standard method of science   
