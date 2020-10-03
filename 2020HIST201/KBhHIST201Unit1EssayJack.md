@@ -72,9 +72,18 @@ And yes, there is a point where Raison de etat turns into territorialism. But, t
 
 ***
 
-pIf you too multicultural, you may end up loosing your economic control. Empires are trying to include all these cultures in one territory.
+If you too multicultural, you may end up loosing your economic control. Empires are trying to include all these cultures in one territory.
 If you tried to overly unify your cultural identity, you may end up loosing your civil control.
 If you try to, instead, exercise balance and raíson de'etat, happiness to everyone!
+
+
+* Point a 
+* Point b
+* Point c
+
+So what? SO WHAT
+
+Now, defluffify by re-writing the three points + so what in as little words as possible.
 
 
 
