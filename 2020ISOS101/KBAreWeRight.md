@@ -21,7 +21,7 @@ source: KB20200828003106
  - Scientists predicted a long time ago that greenhouse gas emissions could change the climate and there is now overwhelming evidence that the climate is changing
  
  ### Why is there Uncertainty In the General Public
-  - Politcal uncertainty is different from scientific uncertainty
+  - Political uncertainty is different from scientific uncertainty
 	  - A lot of people may be uninformed for this reason
   - Sometimes it is hard to make a distinction between uncertainty in future events based upon current scientific understanding and understanding in the current situation
 
