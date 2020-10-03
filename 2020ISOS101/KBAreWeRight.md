@@ -11,7 +11,7 @@ source: KB20200828003106
  - Only a little more than half of Americans think that global temperatures have risen
  - 
 
-```python
+```cpp
 while True:
 	print("do codeblocks work?")
 ```
