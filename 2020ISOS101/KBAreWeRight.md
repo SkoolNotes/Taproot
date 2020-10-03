@@ -23,10 +23,10 @@ source: KB20200828003106
 ```cpp
 #include <iostream>
 
-char buffer[256];
-
 int main()
 {
+	char buffer[256];
+	std::cin >> buffer;
 	std::cout << "Why does isos post readings so late :(" << std::endl;
 }
 ```
