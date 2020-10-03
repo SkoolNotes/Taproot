@@ -20,4 +20,5 @@ course: ISOS101
 	* Claims with scientific consensus are rounded on verified new realities
 	* Claims of current causes is not prediction of the future
 * So, why do people think that people disagree on scientifically confirm consensus?
+	* People are conflating scientific evidence with political decisions
 	* 
