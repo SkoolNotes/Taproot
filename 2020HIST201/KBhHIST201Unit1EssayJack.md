@@ -60,7 +60,7 @@ Musing:
 
 If you too multicultural, you may end up loosing your economic control. Empires are trying to include all these cultures in one territory.
 
-- Tulips
+- Tulips => 
 - 
 
 If you try to unify your cultural identity, you may end up loosing your civic control. => Gelvyn "the inability of imperial governments to maintain their authority within their territories."
