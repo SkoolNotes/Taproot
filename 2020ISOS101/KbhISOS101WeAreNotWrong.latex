@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2240)}}    % original
-%\rhead{\textrmlf{Compiled }\#2240\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2240\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2241)}}    % original
+%\rhead{\textrmlf{Compiled }\#2241\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2241\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -279,7 +279,13 @@
       Consillience of Evidence =\textgreater{} look for multiple
       independent lines of evidence that allow a fact to be shown
     \item
-      Inference to the best e
+      Inference to the best explanation
+
+      \begin{itemize}
+      \tightlist
+      \item
+        There exists various problems in attempting to develop
+      \end{itemize}
     \end{itemize}
   \end{itemize}
 \end{itemize}
