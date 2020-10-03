@@ -16,5 +16,5 @@ course: ISOS101
 * One way to test hypothesis is to do a review of the state of that field
 	*  This was originally trivial, but gets much harder nowadays
 	*  Too many papers published for one to read efficiently
-* Now, Knowledge = Scientific Consensus
+* Now, Knowledge = Scientific Consensus => only over the simple _realities_ of a hypothesis
 	* 
