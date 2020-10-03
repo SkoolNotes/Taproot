@@ -11,4 +11,5 @@ course: ISOS101
 
 * Prominent scientists could be wrong!
 	* Consensus formed during the 20th century about a long of scientific discovery, for most thought that the important questions have been answered
-	* 
+	* So, consensus does not mean correctness
+* 
