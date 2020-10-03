@@ -27,7 +27,7 @@ source: #index
 	* Huxley's Take: [[KBRobustness]]
 	* Jack's Take: [[KBhISOS101Robustness]]
 Thoughts on [[KBhowdoweknowwerenotwrong.pdf]]
-	* Huxley's Take: [[KBEnqs
+	* Huxley's Take: [[KBhdwkwnwISOSNotes]]
 
 
 	
