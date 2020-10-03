@@ -4,3 +4,8 @@ course: ISOS101
 author: Zachary Sayyah
 source: KB20200828003106
 ---
+
+```python
+while True:
+	print("do codeblocks wo")
+```
