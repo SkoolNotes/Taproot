@@ -26,5 +26,5 @@ course: ISOS101
 		* Actually, scientists sometimes thought that the mere worry about dissemination is wasting time
 		* "Popularizers" are dismissed
 	* Scientists commenting on contested issue often called "politicizing"
-	* Organization sometimes propergating alternativg views
+	* Organization sometimes propergating alternative views
 	*   
