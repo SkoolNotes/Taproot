@@ -6,12 +6,18 @@ source: KB20200828003106
 ---
 
 # Notes
+### Do most people believe in it?
  - There are still scientists that are divided about the issue of climate change, but they are few and far between
 	 - The Majority of Americans think that scientists **are** divided about climate change
  - Only a little more than half of Americans think that global temperatures have risen
 	 - This is concerning since it is not really a concept that is under heavy scientific debate
- - Could we be wrong on climate change? We've been wrong in the past even when almost the entire scientific community has a general consensus
 
+
+### Are we Sure it's Real?
+ - Could we be wrong on climate change? We've been wrong in the past even when almost the entire scientific community has a general consensus
+ - 
+
+## C plus plus that reflects my current feeling on this
 
 ```cpp
 #include <iostream>
