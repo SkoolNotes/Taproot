@@ -149,7 +149,13 @@ Throughout the course of this essay, I will examine places in which this amended
 
 
 
-The Bellicist theory remains consistent when replaced war making is replaced with plague. Plague requires a higher 
+The Bellicist theory remains consistent when replaced war making is replaced with plague.
+
+
+
+
+Plague requires a level of organization higher than a single person can provide. Effectic
+
 
 
 
