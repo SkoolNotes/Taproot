@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2335)}}    % original
-%\rhead{\textrmlf{Compiled }\#2335\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2335\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2336)}}    % original
+%\rhead{\textrmlf{Compiled }\#2336\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2336\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -332,7 +332,8 @@ counted as an equivalent to war-making.
     The resulting infla-tion triggered a ``price revolut ion'' in
     Europe-a gen- eral tripling of prices between 1500 and 1650. In
     Paris in 1650 the price of wheat and hay was fifteen times higher
-    than the price had been in 1500. *Bulliet,
+    than the price had been in 1500. \emph{Bulliet, 494}
+  \item
   \end{itemize}
 \item
   Ideological
