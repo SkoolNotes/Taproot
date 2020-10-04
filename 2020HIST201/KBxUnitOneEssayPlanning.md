@@ -87,12 +87,14 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 			
 - P2
 	- Inflation
+		- Spain created a massive influx of silver which led to massive inflation
+		- This reduces 
 	
 	
 	
 
 - P3 
-	- Ideaological 
+	- Ideological 
 
 
 
