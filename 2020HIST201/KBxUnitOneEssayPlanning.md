@@ -154,7 +154,7 @@ The Bellicist theory remains consistent when replaced war making is replaced wit
 
 
 
-Plague requires a level of organization higher than a single person can provide. Effectic
+Methods of Plague requires a level of organization higher than a single person can provide. Effectic
 
 
 
