@@ -119,6 +119,9 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 
 - P3 
 	- Ideological 
+		- States control their people with religion
+		- when a new religion is introduced, that is a threat to the states control
+		- so they kill the members of the new religion 
 
 
 
