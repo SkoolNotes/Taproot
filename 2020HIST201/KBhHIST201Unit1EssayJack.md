@@ -75,10 +75,6 @@ English example => "England's policy was based on throwing its weight as the occ
 
 And yes, there is a point where Raison de etat turns into territorialism. But, that becomes no longer Raison de etat, that's a tour de force: " Richelieu's raison d'etat threatens self- destructive tours de force.... But Louis XN gained no peace of mind from security; he saw in it an opportunity for conquest. In his overzealous pursuit of raison d'etat, LouisXN alarmed the rest of Europe and brought together an anti-French coalition which, in the end, thwarted his design." 
 
-![Screen Shot 2020-10-02 at 10.11.57 AM.png](Screen Shot 2020-10-02 at 10.11.57 AM.png)
-
-***
-
 ## Defluffifying
 
 * If you too multicultural, you may end up loosing your economic control. Empires are trying to include all these cultures in one territory.
@@ -91,6 +87,7 @@ Now, defluffify by re-writing the three points + so what in as little words as p
 
 **When attempting to reach world system hegemony, over-extension of multiculturalism will bring forth a lack of economic control whereas over-unification of cultural identity will cause losses in civic control; to achieve hegemony without losses in control, a state has to exercise principles of raíson de 'etat in a position of moderation instead of dominance.**
 
+![Screen Shot 2020-10-02 at 10.11.57 AM.png](Screen Shot 2020-10-02 at 10.11.57 AM.png)
 
 ***
 There is always [UCLA Writing Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf)
