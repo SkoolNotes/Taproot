@@ -144,6 +144,7 @@ Charles Tilly is famously quoted as stating "War makes states and states make wa
 {diagram} 
 Tilly dubbed this idea the Bellicist Theory, bellicist meaning one who advocates for war. However, the error in this theory is in the namesake itself. Tilly overgeneralizes{wc}, ignoring many other causes that lead to state making in the same way that war making does. To amend this, 'need' should be in place of war making. 
 {diagram}
+For war making, this need would be the 
 Throughout the course of this essay, I will examine places in which this amended Bellicist theory functions and normal Bellicist theory does not. 
 
 
