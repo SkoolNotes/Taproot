@@ -79,7 +79,8 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 				- Allows proving things in the negative 
 				
 - P1
-	- Inflation from spain 
+	- Plague 
+		- Ottomans kept old 
 
 
 
