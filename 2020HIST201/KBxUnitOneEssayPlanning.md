@@ -69,7 +69,7 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 ### Evidence bin 
 
 - Plague
-	- "
+	- "Contemptuous of European ideas and prac· tices, the Turks declined to adopt newer methods for containing plagues; consequently, their populations suffered more from severe epidemics. In one truly amazing fit of obscurantism, a force of janissar- ies destroyed a state observatory in 1580, alleging that it had caused a plague." Kennedy, 12
 
 - Inflation
 
