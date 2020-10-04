@@ -78,7 +78,7 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 	-  In the six- teenth and seventeenth centuries, however, precious metal poured into Spain from silver and gold mines in the New World, but there was no increase in the availability of goods and services. The resulting infla-tion triggered a "price revolut ion" in Europe-a gen- eral tripling of prices between 1500 and 1650. In Paris in 1650 the price of wheat and hay was fifteen times higher than the price had been in 1500. *Bulliet, 494*
 	-  As a result, the country faced the unsolvable problem of finding money to pay the army and bureauc- racy. *Bulliet, 500*
 	
-	- First, governments through- out Eurasia had attempted to displace the warlords and tame the aristocracies that had provided services to the crown by building armies and bureaucracies loyal to the central government alone. Building these armies and bureaucracies was expensive, and soldiers and bureaucrats had to be paid. Inflation raised the costs of maintaining them in the manner to which they had grown accustomed. *
+	- First, governments through- out Eurasia had attempted to displace the warlords and tame the aristocracies that had provided services to the crown by building armies and bureaucracies loyal to the central government alone. Building these armies and bureaucracies was expensive, and soldiers and bureaucrats had to be paid. Inflation raised the costs of maintaining them in the manner to which they had grown accustomed. *gelvin, 33-34*
 
 - Ideological  
 
