@@ -31,8 +31,7 @@ Comparing at least two of the regions above. Gelvin (World systems), Mann (silve
 - @[[KBhHIST201ProblemsWithSilver]]  — major globalization
  
  
- ## Evidence bin
- 
+## Evidence bin
 - The Holy Roman Empire
 	- "A ruler committed to such absolute values found it impossible to compromise, let alone to manipulate, his bargaining position."
 	- Conservatism lead them directly to not compromise, getting the lower hand

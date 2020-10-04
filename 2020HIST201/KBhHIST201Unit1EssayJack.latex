@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2378)}}    % original
-%\rhead{\textrmlf{Compiled }\#2378\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2378\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2379)}}    % original
+%\rhead{\textrmlf{Compiled }\#2379\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2379\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -238,7 +238,8 @@ McNeill (Europe) can provide some specifics.
   @{[}{[}KBhHIST201ProblemsWithSilver{]}{]} --- major globalization
 \end{itemize}
 
-\#\# Evidence bin
+\hypertarget{evidence-bin}{%
+\subsection{Evidence bin}\label{evidence-bin}}
 
 \begin{itemize}
 \tightlist
