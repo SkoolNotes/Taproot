@@ -149,7 +149,7 @@ Throughout the course of this essay, I will examine places in which this amended
 
 
 
-The Bellicist theory remains consistent when replaced war making is replaced with plague. 
+The Bellicist theory remains consistent when replaced war making is replaced with plague. Plague requires a higher 
 
 
 
