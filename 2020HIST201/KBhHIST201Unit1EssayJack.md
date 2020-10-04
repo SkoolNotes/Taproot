@@ -57,15 +57,15 @@ Musing:
 		* Ming w/ the Mann
 	* A "capitalist model" => economic infiltration
 	
-If you too multicultural, you may end up loosing your economic control. Empires are trying to include all these cultures in one territory.
+**If you too multicultural, you may end up loosing your economic control. Empires are trying to include all these cultures in one territory.**
 
 The Ottomans, for instance, Established trade agreements "Such trade agreements, called capitulations, led to European domination of Ottoman seaborne trade. ... Far from seeing Europe as the enemy that would eventually dismantle the empire, the Istanbul elite experimented with European clothing and furniture styles" => new styles infiltrated the government causing a lack of response or even capitulation (Bulliet)
 
-If you tried to overly unify your cultural identity, you may end up loosing your civil control.
+**If you tried to overly unify your cultural identity, you may end up loosing your civil control.**
 
 Mughals => tried model of unity — loosing support of Hindu nobels "The combination of anti-Hindu policy and sentiment at court and the reduction in the value of subsidies or land grants to Maratha mansab dars turned Shivaji into not merely a rebel but a rival." => causing the series of decline that the Mughals saw initiated with the Maratha rebelion.
 
-If you try to, instead, exercise balance and raíson de'etat, happiness to everyone!
+**If you try to, instead, exercise balance and raíson de'etat, happiness to everyone!**
 
 English example => "England's policy was based on throwing its weight as the occasion required to the weaker and more threatened side to redress the equilibrium. ... England was the one European country whose raison d 'etat did not require it to expand in Europe. Perceiving its national interest to be in the preservation of the European balance"
 
