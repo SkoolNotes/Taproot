@@ -95,6 +95,10 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 
 ### Outline 
 
+###### Thesis: Bellicist theory 
+
+
+
 - Intro
 	- Bellicist theory is incomplete
 		- Bellicist theory is....
@@ -129,7 +133,7 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 				- state decided to statemake-ify them
 
 
-
+### Writing time. 
 
 
 
