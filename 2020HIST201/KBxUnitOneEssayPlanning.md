@@ -74,7 +74,7 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 	- 
 
 - Inflation
-	- 
+	- In the late sixteenth century, inflation caused by a floodof cheap silver from the New World (see Environ- ment and Technology: Metal Currency and Inflation), affectedmany of the remaining landholders, who col- lected taxes according to legally fixed rates. Some saw theirpurchasing power decline so much that they could notreport for military service. 
 
 - Ideological  
 
