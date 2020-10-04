@@ -149,7 +149,7 @@ Throughout the course of this essay, I will examine places in which this amended
 
 
 
-The first of these need
+The first of these examples is  an event which causes state making 
 
 
 
