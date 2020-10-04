@@ -153,6 +153,14 @@ The Bellicist theory remains consistent when war making is replaced with plague.
 
 
 
+
+
+
+
+
+
+
+
 "Contemptuous of European ideas and prac· tices, the Turks declined to adopt newer methods for containing plagues; consequently, their populations suffered more from severe epidemics. In one truly amazing fit of obscurantism, a force of janissar- ies destroyed a state observatory in 1580, alleging that it had caused a plague." Kennedy, 12
 
 There was little improvement in communica- tions, and no machinery for assistance in the event of famine, flood, and plague-which were, of course, fairly regular occurrences.  *kenndey, 13* 
