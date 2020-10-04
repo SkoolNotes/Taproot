@@ -76,10 +76,37 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 		- War making should be replaced with "need"
 			- Many things replace need, such as x y and z. 
 			- Tilly leaves out the obvious, which is that failure to do this leads to crash
-				- allows proving things in the negative 
+				- Allows proving things in the negative 
 				
 - P1
-	- 
+	- Inflation from spain 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
