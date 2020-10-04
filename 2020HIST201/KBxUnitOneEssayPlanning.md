@@ -149,7 +149,8 @@ Throughout the course of this essay, I will examine places in which this amended
 
 
 
-The Bellicist theory remains consistent when war making is replaced with plague. Effective mitigation of plague requires a level of organization higher than a single person can provide. Instead, it requires protection as provided by the state, perhaps taking the form of sanitation mandates or information as opposed to the formation of an army. This protection would require extraction, which, with the same logic as originally applied with war making, would lead to state making. An example of this occurrence--in the negative--can be found in the late 1500s during the fall of the Ottoman empire. Kennedy reports, "
+The Bellicist theory remains consistent when war making is replaced with plague. Effective mitigation of plague requires a level of organization higher than a single person can provide. Instead, it requires protection as provided by the state, perhaps taking the form of sanitation mandates or information as opposed to the formation of an army. This protection would require extraction, which, with the same logic as originally applied with war making, would lead to state making. An example of this occurrence--in the negative--can be found in the late 1500s during the fall of the Ottoman empire. Kennedy reports, "Contemptuous of European ideas and practices, the Turks declined to adopt newer methods for containing plagues; 
+
 
 
 "Contemptuous of European ideas and prac· tices, the Turks declined to adopt newer methods for containing plagues; consequently, their populations suffered more from severe epidemics. In one truly amazing fit of obscurantism, a force of janissar- ies destroyed a state observatory in 1580, alleging that it had caused a plague." Kennedy, 12
