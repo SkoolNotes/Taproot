@@ -154,7 +154,7 @@ The Bellicist theory remains consistent when replaced war making is replaced wit
 
 
 
-Effective mitigation of plague requires a level of organization higher than a single person can provide. Instead, it requires protection from the state, perhaps taking the form of sanitation mandates or information as opposed to the formation of the army. 
+Effective mitigation of plague requires a level of organization higher than a single person can provide. Instead, it requires protection from the state, perhaps taking the form of sanitation mandates or information as opposed to the formation of the army. This protection would require extraction, 
 
 
 
