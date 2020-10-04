@@ -84,7 +84,7 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 
 - Ideological  
 	- Europeans engaged in numerous conflicts pitting Catholics against Protestants. *roberts, 45*
-	-  Assuredly, the effort to renew the church and make it holy had an enormous and immediate impact upon politics. *mcneil, 310* 
+	-  Assuredly, the effort to renew the church and make it holy had an enormous and immediate impact upon politics. Sustained and serious effort to make human life conform to God's will as revealed in the Bible changed men's minds and altered their behavior. Wholesale violence sanctified by dogmatic differences quickly erupted, *mcneil, 310* 
 	-  
 
 
