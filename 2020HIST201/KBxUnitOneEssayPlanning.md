@@ -103,7 +103,9 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 		- Spain created a massive influx of silver which led to massive inflation
 		- This reduces power of the free market, which leaves the state to provide what the free market is unable to. 
 		- This requires 
-	
+
+		- Causes effors at autonomy
+		- Which requires statemaking to crush 
 	
 	
 
