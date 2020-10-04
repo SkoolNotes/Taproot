@@ -80,7 +80,9 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 				
 - P1
 	- Plague 
-		- Ottomans kept old 
+		- Ottomans kept old ways of dealing with plague instead of adopting new European ones which led to allot of plagues 
+			- Dealing with plague required organization that needed to be dealt with by the government
+			- 
 
 
 
