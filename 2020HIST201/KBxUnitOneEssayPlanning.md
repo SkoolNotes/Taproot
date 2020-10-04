@@ -148,11 +148,13 @@ For war making, this need would be the need for protection against an enemy army
 Throughout the course of this essay, I will examine places in which this amended Bellicist theory functions and normal Bellicist theory does not. 
 
 
-
-The Bellicist theory remains consistent when war making is replaced with plague. Effective mitigation of plague requires a level of organization higher than a single person can achieve. Instead, it requires protection as provided by the state, perhaps taking the form of sanitation mandates or information as opposed to the formation of an army. This protection would require extraction, which, with the same logic as originally applied with war making, would lead to state making. An example of this occurrence--in the negative--can be found in the late 1500s during the fall of the Ottoman empire. Kennedy reports, "Contemptuous of European ideas and practices, the Turks declined to adopt newer methods for containing plagues;" (citation). Due to this lack of new method adoption, the Ottomans did not follow the modified Bellicist theory {wc}, and hence, "suffered more from severe epidemics" (citation). Instead, the Ottomans opted for methods such as destroying state observatories, "alleging that it had caused a plague" (citation). This failure to achieve the primary functions of the state, as described by Tilly, ultimately aided in the downfall of the Ottoman Empire. 
-
+The Bellicist theory remains consistent when war making is replaced with plague, a biological attack. Effective mitigation of plague requires a level of organization higher than a single person can achieve. Instead, it requires protection as provided by the state, perhaps taking the form of sanitation mandates or information as opposed to the formation of an army. This protection would require extraction, which, with the same logic as originally applied with war making, would lead to state making. An example of this occurrence--in the negative--can be found in the late 1500s during the fall of the Ottoman empire. Kennedy reports, "Contemptuous of European ideas and practices, the Turks declined to adopt newer methods for containing plagues;" (citation). Due to this lack of new method adoption, the Ottomans did not follow the modified Bellicist theory {wc}, and hence, "suffered more from severe epidemics" (citation). Instead, the Ottomans opted for methods such as destroying state observatories, "alleging that it had caused a plague" (citation). This failure to achieve the primary functions of the state, as described by Tilly, ultimately aided in the downfall of the Ottoman Empire. 
 
 
+
+
+
+Just like 
 
 
 
