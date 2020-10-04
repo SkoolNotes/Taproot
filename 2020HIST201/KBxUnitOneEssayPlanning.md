@@ -80,6 +80,7 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 	
 	- First, governments through- out Eurasia had attempted to displace the warlords and tame the aristocracies that had provided services to the crown by building armies and bureaucracies loyal to the central government alone. Building these armies and bureaucracies was expensive, and soldiers and bureaucrats had to be paid. Inflation raised the costs of maintaining them in the manner to which they had grown accustomed. *gelvin, 33-34*
 	- States spen t an enormous amount of money to sustain their emp loyees. In Persia, for examp le, an estimated 38 percent of the state's expendi tures went to the army. Another 41 percent went to the imperial harem, the royal family, and royal attendants. States competed with the private sector for resources, and this drove up prices. *gelvin, 35*
+	- This complicated situation resulted in revolts that devastated Anatolia between 1590 and 1610. Former landholding cavalrymen, short-term soldiers released at the end of a campaign, peasants overburdened by emer- gencytaxes, and even impoverished students of religion formed bands of marauders. *bulliet, 491*
 
 - Ideological  
 
