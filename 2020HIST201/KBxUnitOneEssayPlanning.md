@@ -68,6 +68,8 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 
 
 
+### Outline 
+
 
 
 
