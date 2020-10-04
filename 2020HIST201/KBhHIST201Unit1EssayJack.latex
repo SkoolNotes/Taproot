@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2380)}}    % original
-%\rhead{\textrmlf{Compiled }\#2380\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2380\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2381)}}    % original
+%\rhead{\textrmlf{Compiled }\#2381\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2381\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -429,11 +429,5 @@ instead of dominance.}
 \includegraphics{Screen Shot 2020-10-02 at 10.11.57 AM.png}
 \caption{Screen Shot 2020-10-02 at 10.11.57 AM.png}
 \end{figure}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-There is always
-\href{https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf}{UCLA
-Writing Lab}
 
 \end{document}
