@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2355)}}    % original
-%\rhead{\textrmlf{Compiled }\#2355\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2355\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2356)}}    % original
+%\rhead{\textrmlf{Compiled }\#2356\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2356\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -516,7 +516,7 @@ Thesis: Bellicist theory
 \begin{verbatim}
 \end{verbatim}
 
-Charles Tilly is famously qouted as stating ``War makes states and
-states make war.''
+Charles Tilly is famously quoted as stating ``War makes states and
+states make war'' (Systems and States, 10).
 
 \end{document}

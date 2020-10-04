@@ -140,7 +140,7 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 ```
 
 
-Charles Tilly is famously qouted as stating "War makes states and states make war."
+Charles Tilly is famously quoted as stating "War makes states and states make war" (Systems and States, 10).
 
 
 
