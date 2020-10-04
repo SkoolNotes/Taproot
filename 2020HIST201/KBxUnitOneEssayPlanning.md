@@ -156,7 +156,7 @@ The Bellicist theory remains consistent when war making is replaced with plague,
 
 Just like physical attack and biological attack, income attack also leads to state making.
 
-
+In the late six
 
 
 
