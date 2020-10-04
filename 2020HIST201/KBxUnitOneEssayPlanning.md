@@ -83,7 +83,16 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 		- Ottomans kept old ways of dealing with plague instead of adopting new European ones which led to allot of plagues 
 			- Dealing with plague required organization that needed to be dealt with by the government
 			- The Ottomans lack of state making (rejecting their orthodox beliefs..?) aided their downfall. 
+			- preventing this would require state-making 
+			
+- P2
+	- Inflation
+	
+	
+	
 
+- P3 
+	- Ideaological 
 
 
 
