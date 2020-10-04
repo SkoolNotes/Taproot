@@ -83,7 +83,7 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 	- This complicated situation resulted in revolts that devastated Anatolia between 1590 and 1610. Former landholding cavalrymen, short-term soldiers released at the end of a campaign, peasants overburdened by emer- gencytaxes, and even impoverished students of religion formed bands of marauders. *bulliet, 491*
 
 - Ideological  
-
+	- Europeans engaged in numerous conflicts pitting Catholics against Protestants.
 
 
 
