@@ -70,7 +70,12 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 
 ### Outline 
 
-
+- Intro
+	- Bellicist theory is incomplete
+		- Bellicist theory is....
+		- War making should be replaced with "need"
+			- Many things replace need, such as x y and z. 
+			- Tilly leaves out the obvious, 
 
 
 
