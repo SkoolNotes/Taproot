@@ -140,7 +140,7 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 ```
 
 
-Charles Tilly is famously quoted as stating "War makes states and states make war" (Systems and States, 10). He lays out a theory of state making, claiming that a state has four primary functions: war making, protection, extraction, and of course, state making. Simply put, war making stems from the need to protect a territory, which then leads to extraction, protection, and state making. 
+Charles Tilly is famously quoted as stating "War makes states and states make war" (Systems and States, 10). He lays out a theory of state making, claiming that a state has four primary functions: war making, protection, extraction, and of course, state making. Simply put, war making stems from the need to protect a territory, which then leads to extraction, protection, and state making. Tilly leaves out the obvious, which is that failure to 
 
 Tilly dubbed this idea the Bellicist Theory, bellicist meaning one who advocates for war. 
 
