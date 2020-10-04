@@ -66,6 +66,19 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 ==</1AM-jots!>==
 
 
+### Evidence bin 
+
+- Plague
+
+- Inflation
+
+- Orthodox 
+
+
+
+
+
+
 
 
 ### Outline 
