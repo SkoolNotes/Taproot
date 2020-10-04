@@ -75,7 +75,11 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 		- Bellicist theory is....
 		- War making should be replaced with "need"
 			- Many things replace need, such as x y and z. 
-			- Tilly leaves out the obvious, 
+			- Tilly leaves out the obvious, which is that failure to do this leads to crash
+				- allows proving things in the negative 
+				
+- P1
+	- 
 
 
 
