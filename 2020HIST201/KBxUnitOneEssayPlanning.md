@@ -65,6 +65,7 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 
 ==</1AM-jots!>==
 
+## True Planing, Begin. 
 
 ### Evidence bin 
 
@@ -132,9 +133,11 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 				- protestant ideas threatened the power of the state
 				- state decided to statemake-ify them
 
-
-### Writing time. 
-
+```
+```
+## Writing time. 
+```
+```
 
 
 
