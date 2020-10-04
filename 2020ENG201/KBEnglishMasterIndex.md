@@ -40,10 +40,12 @@ source: #index
 	
 	
 [Digital Version](https://www.gutenberg.org/files/219/219-h/219-h.htm)
+
 # **Heart of Darkness**
 * [[KBhENG201HeartOfHardness]] Heart of Darkness Index 
 * [[KBheartday1]] Huxley, I am assuming?
 * [[KBxHoDDiscussionNotes]]
+
 ## Heart of Darkness Essay
 * [[KBxHoDEssay]]
 - [[KBe20eng201retHeartOfDarknessEssay]]
