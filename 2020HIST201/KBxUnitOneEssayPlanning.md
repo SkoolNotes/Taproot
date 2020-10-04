@@ -149,10 +149,7 @@ Throughout the course of this essay, I will examine places in which this amended
 
 
 
-The first of these examples is  an event which causes state making 
-
-
-
+The Bellicist theory remains consistent when replaced war making is replaced with plague 
 
 
 
