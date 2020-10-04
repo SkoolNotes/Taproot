@@ -75,6 +75,7 @@ The nesscecity for the state leads to its creating. Ie. if the state gets hit, a
 
 - Inflation
 	- In the late sixteenth century, inflation caused by a floodof cheap silver from the New World (see Environ- ment and Technology: Metal Currency and Inflation), affectedmany of the remaining landholders, who col- lected taxes according to legally fixed rates. Some saw theirpurchasing power decline so much that they could notreport for military service. *Bulliet, 491*
+	-  In the six- teenth and seventeenth centuries, however, precious metal poured into Spain from silver and gold mines in the New World, but there was no increase in the availability of goods and services. The resulting infla-tion triggered a "price revolut ion" in Europe-a gen- eral tripling of prices between 1500 and 1650. In Paris in 1650 the price of wheat and hay was fifteen times higher than the price had been in 1500. *Bulliet, 
 
 - Ideological  
 
