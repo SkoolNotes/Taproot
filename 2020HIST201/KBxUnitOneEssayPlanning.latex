@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2360)}}    % original
-%\rhead{\textrmlf{Compiled }\#2360\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2360\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2361)}}    % original
+%\rhead{\textrmlf{Compiled }\#2361\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2361\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -519,6 +519,8 @@ Thesis: Bellicist theory
 Charles Tilly is famously quoted as stating ``War makes states and
 states make war'' (Systems and States, 10). He lays out a theory of
 state making, claiming that a state has four primary functions: war
-making, protection, extraction, and of course, state making.
+making, protection, extraction, and of course, state making. Simply put,
+war making stems from the need to protect a territory, and leads to
+extraction, protection, and state making.
 
 \end{document}
