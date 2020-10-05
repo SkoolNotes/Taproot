@@ -25,6 +25,7 @@ author: Houjun Liu
 	* Talking to schools
 		* Talking to Nueva first graders
 		* Boys and Girls clubs
-	* App by the end of the year 
+	* App by the end of the year
+	*  
 	
 * Ben Garbon — a junior for app development
