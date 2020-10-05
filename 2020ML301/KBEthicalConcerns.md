@@ -56,6 +56,7 @@ please? yaow.
 			- ml: inject morphine 
 		- Paperclip 
 			- primary directive of producing paperclips 
+			- ignores morality 
 	
 
 
