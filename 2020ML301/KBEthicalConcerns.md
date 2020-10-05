@@ -33,7 +33,7 @@ please? yaow.
 		- Ex. Cambridge analytica
 			- Put up quizes, then sold data to companys which put targeted adds to swing votes. 
 
-
+- Model explanability
 
 
 
