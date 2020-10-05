@@ -156,7 +156,7 @@ The Bellicist theory remains consistent when war making is replaced with plague,
 
 Just like physical attack and biological attack, income attack{wc, intent?} also leads to state making.
 
-Income attack can manifest in many ways, one of which is inflation. When inflation occurred{tense?}, many countries whose "soldiers and bureaucrats had to be paid," "faced the unsolvable problem of finding money to pay the army and bureaucracy"(Citation, gelvin, bulliet). During the late sixteenth century, a flood of silver from Spain caused massive inflation, leading to the scenario described above. This event has been dubbed the "price revolution[, with] a general tripling of prices between 1500 and 1650"(citation bulliet). In the Ottoman empire, this inflation was so extreme that soldier, peasants, buerecrats, and even impoverished students of religion formed bands of marauders. 
+Income attack can manifest in many ways, one of which is inflation. When inflation occurred{tense?}, many countries whose "soldiers and bureaucrats had to be paid," "faced the unsolvable problem of finding money to pay the army and bureaucracy"(Citation, gelvin, bulliet). During the late sixteenth century, a flood of silver from Spain caused massive inflation, leading to the scenario described above. This event has been dubbed the "price revolution[, with] a general tripling of prices between 1500 and 1650"(citation bulliet). In the Ottoman empire, this inflation was so extreme that soldier, peasants, bureaucrats, and even impoverished students of religion formed bands of marauders. 
 
 
 
