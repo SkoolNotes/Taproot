@@ -158,7 +158,7 @@ Just like physical attack and biological attack, income attack{wc, intent?} also
 
 
 
-A final example is ideological attack, 
+A final example is ideological attack. 
 
 
 
