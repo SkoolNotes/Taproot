@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2501)}}    % original
-%\rhead{\textrmlf{Compiled }\#2501\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2501\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2502)}}    % original
+%\rhead{\textrmlf{Compiled }\#2502\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2502\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -220,6 +220,19 @@ please? yaow.
     \end{itemize}
   \item
     Input bias -\textgreater{} output bias
+  \end{itemize}
+\item
+  Abuse and misuse
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Using ml in ways that are morally wrong
+
+    \begin{itemize}
+    \tightlist
+    \item
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 

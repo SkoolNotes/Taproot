@@ -29,6 +29,8 @@ please? yaow.
 	- Input bias -> output bias 
 	
 - Abuse and misuse 
+	- Using ml in ways that are morally wrong 
+		- 
 
 
 
