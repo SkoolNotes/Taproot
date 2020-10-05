@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2523)}}    % original
-%\rhead{\textrmlf{Compiled }\#2523\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2523\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2524)}}    % original
+%\rhead{\textrmlf{Compiled }\#2524\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2524\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -170,19 +170,34 @@
 \hypertarget{istudio-check-in}{%
 \section{iStudio Check-In}\label{istudio-check-in}}
 
+\#flo
+
 \begin{itemize}
 \tightlist
 \item
   Meeting --- Fridays at Lunch
 \item
   The activity
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Prototypes on activities
+  \item
+    Work on web app as a side thing =\textgreater{} share/turn in
+  \item
+    Activities not graded
+  \end{itemize}
 \item
-  Prototypes on activities
-\item
-  Work on web app as a side thing =\textgreater{} share/turn in
-\item
-  Activities not graded
-\item
+  Kids in elementary school why are bored
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Not summer homework
+  \item
+    Addresses summer
+  \end{itemize}
 \end{itemize}
 
 \end{document}
