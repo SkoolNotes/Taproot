@@ -14,9 +14,17 @@ source:  #index
 
 
 otousann, watashiwa chiuokosannto kekoshitainndesu. chiuokosann o watashini kuda sai.  
-![[Screen Shot 2020-10-05 at 10.06.02 AM.png]]
+
+---
+
 otousann, boku, i-shiyokennmei hatalakimasu. 
 dakala, onegaishimasu. 
+
+
+
+
+
+![[Screen Shot 2020-10-05 at 10.06.02 AM.png]]
 ![[Screen Shot 2020-10-05 at 10.06.17 AM.png]]
 
 
