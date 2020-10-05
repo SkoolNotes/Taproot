@@ -7,4 +7,6 @@ author: Houjun Liu
 
 # iStudio Check-In
 * Meeting — Fridays at Lunch
+* Prototypes on activities
+* Work on web app
 * 
