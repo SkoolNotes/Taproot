@@ -46,6 +46,11 @@ please? yaow.
 - Automation of labor 
 	- Putting people out of jobs
 	- More existential: what will people do? When ml does everything better than us
+	- sudo-creative work is already being done
+
+- Existential risk
+	- Terminator risk
+	
 
 
 
