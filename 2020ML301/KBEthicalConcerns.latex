@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2499)}}    % original
-%\rhead{\textrmlf{Compiled }\#2499\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2499\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2500)}}    % original
+%\rhead{\textrmlf{Compiled }\#2500\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2500\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -204,6 +204,19 @@ please? yaow.
     \begin{quote}
     Our model has bias built into them
     \end{quote}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      ex. prop 25
+
+      \begin{itemize}
+      \tightlist
+      \item
+        get rid of bail, and use ml to identify flight risks
+      \item
+      \end{itemize}
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 

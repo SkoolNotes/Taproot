@@ -23,6 +23,10 @@ please? yaow.
 		
 - Bias 
 	- > Our model has bias built into them 
+		- ex. prop 25
+			- get rid of bail, and use ml to identify flight risks
+			- has bias in the model due to a biased dataset
+			- 
 
 
 
