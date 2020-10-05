@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2498)}}    % original
-%\rhead{\textrmlf{Compiled }\#2498\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2498\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2499)}}    % original
+%\rhead{\textrmlf{Compiled }\#2499\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2499\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,6 +186,24 @@ please? yaow.
   \begin{itemize}
   \tightlist
   \item
+    Good ml requires lots of data, so inherent leads to violation
+  \item
+    Also, algorythym predicts private things?
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Target example.
+    \end{itemize}
+  \end{itemize}
+\item
+  Bias
+
+  \begin{itemize}
+  \item
+    \begin{quote}
+    Our model has bias built into them
+    \end{quote}
   \end{itemize}
 \end{itemize}
 
