@@ -20,6 +20,6 @@ author: Houjun Liu
 	* Effective because?
 * Starting trials before stuff is finalized
 	* Trial in summer — 
-		* 4 people (
+		* 4 people (Nueva family)
 	* Meeting elementary school teachers
 	*   
