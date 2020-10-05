@@ -185,4 +185,3 @@ A way states control their people is through a shared, commonly theological, ide
 
 
 
-
