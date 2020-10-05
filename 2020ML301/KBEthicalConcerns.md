@@ -52,6 +52,10 @@ please? yaow.
 	- Essentially, terminator risk
 	- Or, morality is not encoded into ml for task optimization 
 		- ex. make a class happy, 
+			- human: fun activity
+			- ml: inject morphine 
+		- Paperclip 
+			- primary directive of producing paperclips 
 	
 
 
