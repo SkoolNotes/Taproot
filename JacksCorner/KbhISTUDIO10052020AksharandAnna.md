@@ -6,4 +6,5 @@ author: Houjun Liu
 ---
 
 # iStudio Check-In
+* Meeting — Fridays at Lunch
 * 
