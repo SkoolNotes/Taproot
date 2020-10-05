@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2505)}}    % original
-%\rhead{\textrmlf{Compiled }\#2505\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2505\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2506)}}    % original
+%\rhead{\textrmlf{Compiled }\#2506\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2506\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -248,7 +248,35 @@ please? yaow.
   \begin{itemize}
   \tightlist
   \item
-    Don't know how to explain result
+    Don't know how to explain results
+  \end{itemize}
+\item
+  Responsibility
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Sold model to someone who used it for abusive use / it just breaks
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Who is at fault?
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Model builder? Data collector? Abuser?
+      \end{itemize}
+    \item
+      Large problem for things that are ``literally life or death''
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Watson, who
+      \end{itemize}
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 

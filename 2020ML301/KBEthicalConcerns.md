@@ -37,7 +37,13 @@ please? yaow.
 	- Don't know how to explain results
 	
 - Responsibility
-	- 
+	- Sold model to someone who used it for abusive use / it just breaks 
+		- Who is at fault? 
+			- Model builder? Data collector? Abuser? 
+		- Large problem for things that are "literally life or death" 
+			- Watson, what happens when it's wrong?
+			
+- Automation of labor 
 
 
 
