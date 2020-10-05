@@ -30,7 +30,7 @@ dakala, onegaishimasu.
 
 
 
-
+![[Screen Shot 2020-10-05 at 10.54.49 AM.png]]
 
 
 
