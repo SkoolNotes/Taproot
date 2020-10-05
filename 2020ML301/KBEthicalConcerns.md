@@ -45,7 +45,7 @@ please? yaow.
 			
 - Automation of labor 
 	- Putting people out of jobs
-	- More existential: what will people do? 
+	- More existential: what will people do? When ml does everything better than us
 
 
 
