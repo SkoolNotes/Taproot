@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2522)}}    % original
-%\rhead{\textrmlf{Compiled }\#2522\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2522\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2523)}}    % original
+%\rhead{\textrmlf{Compiled }\#2523\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2523\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,9 +175,13 @@
 \item
   Meeting --- Fridays at Lunch
 \item
+  The activity
+\item
   Prototypes on activities
 \item
   Work on web app as a side thing =\textgreater{} share/turn in
+\item
+  Activities not graded
 \item
 \end{itemize}
 
