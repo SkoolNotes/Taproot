@@ -22,4 +22,6 @@ author: Houjun Liu
 	* Trial in summer — 
 		* 4 people (Nueva family)
 	* Meeting elementary school teachers
-	*   
+	* 
+	
+* Ben Garbon — a junior for app development
