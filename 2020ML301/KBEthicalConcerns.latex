@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2509)}}    % original
-%\rhead{\textrmlf{Compiled }\#2509\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2509\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2510)}}    % original
+%\rhead{\textrmlf{Compiled }\#2510\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2510\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -297,7 +297,15 @@ please? yaow.
   \begin{itemize}
   \tightlist
   \item
-    Terminator risk
+    Essentially, terminator risk
+  \item
+    Or, morality is not encoded into ml for task optimization
+
+    \begin{itemize}
+    \tightlist
+    \item
+      ex. make a class happy,
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 

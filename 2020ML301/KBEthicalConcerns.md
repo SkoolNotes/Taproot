@@ -49,7 +49,9 @@ please? yaow.
 	- sudo-creative work is already being done
 
 - Existential risk
-	- Terminator risk
+	- Essentially, terminator risk
+	- Or, morality is not encoded into ml for task optimization 
+		- ex. make a class happy, 
 	
 
 
