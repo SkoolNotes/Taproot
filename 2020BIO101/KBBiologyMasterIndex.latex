@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2515)}}    % original
+%\rhead{\textrmlf{Compiled }\#2515\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2515\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -220,6 +222,7 @@ Overview}\label{trips-free-association-overview}}
 \subsection{Unsorted}\label{unsorted}}
 
 \begin{itemize}
+\tightlist
 \item
   {[}{[}KB20200826090938{]}{]} Emergent Properties
 \item
@@ -237,7 +240,9 @@ Overview}\label{trips-free-association-overview}}
     Hux ---{[}{[}KBMacromelecules{]}{]}
   \end{itemize}
 \item
-  {[}{[}KBBIO101YelloSky{]}{]} Exr0n's Flows {[}{[}20bio201floD3{]}{]}
+  {[}{[}KBBIO101YelloSky{]}{]}
+\item
+  Exr0n's Flows {[}{[}20bio201floD3{]}{]}
 \item
   Dylan's crappy notes {[}{[}KBd20200911notes{]}{]}
 \end{itemize}

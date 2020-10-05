@@ -34,10 +34,9 @@ source: #index
     * Jack — [[KBhBIO101Macromolecules]]
     * Hux —[[KBMacromelecules]]
 * [[KBBIO101YelloSky]]
-Exr0n's Flows
-[[20bio201floD3]]
-
+* Exr0n's Flows [[20bio201floD3]]
 * Dylan's crappy notes [[KBd20200911notes]]
+
 
 ## Amino Acids
 * [[KBhBIO101AminoAcids]]
