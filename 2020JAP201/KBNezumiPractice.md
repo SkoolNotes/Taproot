@@ -13,7 +13,7 @@ source:  #index
 
 
 
-otousann, watashiwa chioukosannto kekoshitainndesu. chiou
+otousann, watashiwa chioukosannto kekoshitainndesu. chiuo
 
 
 
