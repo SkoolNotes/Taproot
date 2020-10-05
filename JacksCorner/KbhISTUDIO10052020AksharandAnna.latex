@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2525)}}    % original
-%\rhead{\textrmlf{Compiled }\#2525\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2525\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2526)}}    % original
+%\rhead{\textrmlf{Compiled }\#2526\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2526\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -198,10 +198,25 @@
   \item
     Addresses summer slide
   \item
-    Effective
+    Effective because?
   \end{itemize}
 \item
-  Starting trials before that'
+  Starting trials before stuff is finalized
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Trial in summer ---
+
+    \begin{itemize}
+    \tightlist
+    \item
+      4 people (
+    \end{itemize}
+  \item
+    Meeting elementary school teachers
+  \item
+  \end{itemize}
 \end{itemize}
 
 \end{document}

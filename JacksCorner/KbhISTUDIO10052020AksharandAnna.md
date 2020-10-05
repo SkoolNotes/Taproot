@@ -17,5 +17,9 @@ author: Houjun Liu
 * Kids in elementary school why are bored
 	* Not summer homework
 	* Addresses summer slide
-	* Effective
-* Starting trials before that'  
+	* Effective because?
+* Starting trials before stuff is finalized
+	* Trial in summer — 
+		* 4 people (
+	* Meeting elementary school teachers
+	*   
