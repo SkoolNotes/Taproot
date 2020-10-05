@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2530)}}    % original
-%\rhead{\textrmlf{Compiled }\#2530\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2530\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2531)}}    % original
+%\rhead{\textrmlf{Compiled }\#2531\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2531\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -173,7 +173,6 @@
 \#flo
 
 \begin{itemize}
-\tightlist
 \item
   Meeting --- Fridays at Lunch
 \item
@@ -227,8 +226,9 @@
     \end{itemize}
   \item
     App by the end of the year
-  \item
   \end{itemize}
+\item
+  User interviews and rollout in a month
 \item
   Ben Garbon --- a junior for app development
 \end{itemize}
