@@ -34,6 +34,10 @@ please? yaow.
 			- Put up quizes, then sold data to companys which put targeted adds to swing votes. 
 
 - Model explanability
+	- Don't know how to explain results
+	
+- Responsibility
+	- 
 
 
 
