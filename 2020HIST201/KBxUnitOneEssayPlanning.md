@@ -160,7 +160,7 @@ Just like physical attack and biological attack, income attack{wc, intent?} also
 
 A final example is ideological attack. 
 
-A way states control their people is through a shared, commonly theological, ideology. When a new ideology is introduced, this threatens the states control, 
+A way states control their people is through a shared, commonly theological, ideology. When a competing ideology is introduced, this threatens the state's control, and thus, the state attempts to crush them. 
 
 
 
