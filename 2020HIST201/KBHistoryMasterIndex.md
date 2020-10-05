@@ -59,6 +59,8 @@ source: #index
 * Kissinger's Europe
     * [[KBhHIST201Kissinger]]
 	- [[KBrefRaisondetat]]
+* Enlightenment 
+	* [[KBWatsonInClassNotes]]
     
 ## Essays
 * Essay 1 
