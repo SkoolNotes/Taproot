@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2524)}}    % original
-%\rhead{\textrmlf{Compiled }\#2524\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2524\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2525)}}    % original
+%\rhead{\textrmlf{Compiled }\#2525\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2525\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -196,8 +196,12 @@
   \item
     Not summer homework
   \item
-    Addresses summer
+    Addresses summer slide
+  \item
+    Effective
   \end{itemize}
+\item
+  Starting trials before that'
 \end{itemize}
 
 \end{document}

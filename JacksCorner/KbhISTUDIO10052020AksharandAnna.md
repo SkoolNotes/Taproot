@@ -16,4 +16,6 @@ author: Houjun Liu
 	* Activities not graded
 * Kids in elementary school why are bored
 	* Not summer homework
-	* Addresses summer
+	* Addresses summer slide
+	* Effective
+* Starting trials before that'  
