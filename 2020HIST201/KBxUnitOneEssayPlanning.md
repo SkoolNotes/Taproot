@@ -156,7 +156,7 @@ The Bellicist theory remains consistent when war making is replaced with plague,
 
 Just like physical attack and biological attack, income attack{wc, intent?} also leads to state making.
 
-Income attack can manifest in many ways, one of which is inflation. When inflation occurred{tense}, many countries whose "soldiers and bureaucrats had to be paid," "faced the unsolvable problem of finding money to pay the army and bureaucracy"(Citation, gelvin, bulliet). 
+Income attack can manifest in many ways, one of which is inflation. When inflation occurred{tense}, many countries whose "soldiers and bureaucrats had to be paid," "faced the unsolvable problem of finding money to pay the army and bureaucracy"(Citation, gelvin, bulliet). During the late sixteenth century, a massive flood of silver from Spain massively inflated 
 
 
 
