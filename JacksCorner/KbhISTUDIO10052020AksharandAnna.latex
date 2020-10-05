@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2528)}}    % original
-%\rhead{\textrmlf{Compiled }\#2528\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2528\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2529)}}    % original
+%\rhead{\textrmlf{Compiled }\#2529\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2529\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -216,6 +216,16 @@
   \item
     Meeting elementary school teachers
   \item
+    Talking to schools
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Talking to Nueva first graders
+    \item
+      Boys and Girls clubs
+    \item
+    \end{itemize}
   \end{itemize}
 \item
   Ben Garbon --- a junior for app development

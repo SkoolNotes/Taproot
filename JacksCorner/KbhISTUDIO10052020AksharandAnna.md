@@ -22,6 +22,9 @@ author: Houjun Liu
 	* Trial in summer — 
 		* 4 people (Nueva family)
 	* Meeting elementary school teachers
-	* 
+	* Talking to schools
+		* Talking to Nueva first graders
+		* Boys and Girls clubs
+	* App by the end of the year 
 	
 * Ben Garbon — a junior for app development
