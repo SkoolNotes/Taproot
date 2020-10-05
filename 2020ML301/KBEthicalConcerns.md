@@ -26,7 +26,10 @@ please? yaow.
 		- ex. prop 25
 			- get rid of bail, and use ml to identify flight risks
 			- has bias in the model due to a biased dataset
-			- 
+	- Input bias -> output bias 
+	
+- Abuse and misuse 
+
 
 
 
