@@ -44,6 +44,8 @@ please? yaow.
 			- Watson, what happens when it's wrong?
 			
 - Automation of labor 
+	- Putting people out of jobs
+	- More existential: what will people do? 
 
 
 
