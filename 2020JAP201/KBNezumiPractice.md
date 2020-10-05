@@ -13,7 +13,7 @@ source:  #index
 
 
 
-otousann, watashiwa chioukosannto kekoshitainndesu. chiuo
+otousann, watashiwa chiuokosannto kekoshitainndesu. chiuokosann o watashini kuda sai.  
 
 
 
