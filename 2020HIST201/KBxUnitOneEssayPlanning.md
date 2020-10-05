@@ -160,7 +160,7 @@ Just like physical attack and biological attack, income attack{wc, intent?} also
 
 A final example is ideological attack. 
 
-A way states control their people is through a shared, commonly theological, ideology. When a competing ideology is introduced, this threatens the state's control, and thus, the state attempts to crush them. This process is seen time and time again throughout history, but perhaps one of the most notable examples is the Protestant Reformation. In the early 1500s, Catholicism was threatened by a new ideology, Protestantism. This threat "ad an enormous and immediate impact upon politics."  
+A way states control their people is through a shared, commonly theological, ideology. When a competing ideology is introduced, this threatens the state's control, and thus, the state attempts to crush them. This process is seen time and time again throughout history, but perhaps one of the most notable examples is the Protestant Reformation. In the early 1500s, Catholicism was threatened by a new ideology, Protestantism. This threat "had an enormous and immediate impact upon politics," 
 
 
 
