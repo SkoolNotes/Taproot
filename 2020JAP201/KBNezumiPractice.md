@@ -15,7 +15,7 @@ source:  #index
 
 otousann, watashiwa chiuokosannto kekoshitainndesu. chiuokosann o watashini kuda sai.  
 
-otousann, boku, i shiyokennmei hata
+otousann, boku, i shiyokennmei hatala
 
 
 
