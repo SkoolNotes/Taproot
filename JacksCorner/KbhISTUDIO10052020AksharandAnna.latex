@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ iStudio }
+\newcommand{\thelesson}{ Akshar and Anna iStudio 10052020 }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2517)}}    % original
-%\rhead{\textrmlf{Compiled }\#2517\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2517\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2518)}}    % original
+%\rhead{\textrmlf{Compiled }\#2518\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2518\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,9 +164,15 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhISTUDIOCheckins}{\tiny\textulf{[[}\textbf{KBhISTUDIOCheckins}\textulf{]]}}}\thinspace
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{istudio-check-in}{%
+\section{iStudio Check-In}\label{istudio-check-in}}
 
-title: Akshar and
+\begin{itemize}
+\tightlist
+\item
+\end{itemize}
 
 \end{document}
