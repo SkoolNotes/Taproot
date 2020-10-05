@@ -30,7 +30,8 @@ please? yaow.
 	
 - Abuse and misuse 
 	- Using ml in ways that are morally wrong 
-		- 
+		- Ex. Cambridge analytica
+			- Put up quizes, then sold data to companys which put targeted adds to swing votes. 
 
 
 
