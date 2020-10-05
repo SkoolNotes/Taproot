@@ -158,9 +158,7 @@ Just like physical attack and biological attack, income attack{wc, intent?} also
 
 
 
-A final example is ideological attack. 
-
-A way states control their people is through a shared, commonly theological, ideology. When a competing ideology is introduced, this threatens the state's control, and thus, the state attempts to crush them. This process is seen time and time again throughout history, but perhaps one of the most notable examples is the Protestant Reformation. In the early 1500s, Catholicism was threatened by a new ideology, Protestantism. This ideological threat "had an enormous and immediate impact upon politics," and the state quickly decided to "pit[...] Catholics against Protestants" (citation)(citation). This ideological threat led to the state attempting to eliminate rivals within its territory, which, again, is Tilly's precise definition of state making. 
+A final example is ideological attack. A way states control their people is through a shared, commonly theological, ideology. When a competing ideology is introduced, this threatens the state's control, and thus, the state attempts to crush them. This process is seen time and time again throughout history, but perhaps one of the most notable examples is the Protestant Reformation. In the early 1500s, Catholicism was threatened by a new ideology, Protestantism. This ideological threat "had an enormous and immediate impact upon politics," and the state quickly decided to "pit[...] Catholics against Protestants" (citation)(citation). This ideological threat led to the state attempting to eliminate rivals within its territory, which, again, is Tilly's precise definition of state making. 
 
 
 
