@@ -95,10 +95,12 @@ Can be applied to the European culture / colonialist movement at large.
 			- goes and punishes a native, 
 			- justifying hurt and exploitation with the guise of the savior 
 	- To *close* read:
-		- smoking my pipe quitly
+		- smoking my pipe quietly
 			- indifferent passive. 
-				- about futility? 
+				- about futility? passive mentioning being used to signal to the broader theme? 
 		- "splendidly, splendidly" 
+			- not about truth, about appearance. 
+				- applies to conrad's view on European culture / colonialism 
 
 
 
