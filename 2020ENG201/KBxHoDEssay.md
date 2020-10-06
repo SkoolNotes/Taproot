@@ -69,6 +69,15 @@ Can be applied to the European culture / colonialist movement at large.
 
 
 
+## Evidence bin 
+- ship
+	- "Now and then a boat from the shore gave one a momentary contact with reality." 
+
+
+
+
+
+
 ## Let's outline, shall we? 
 
 
