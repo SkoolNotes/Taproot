@@ -80,14 +80,18 @@ Can be applied to the European culture / colonialist movement at large.
 
 - bucket 
 	- "One evening a grass shed full of calico, cotton prints, beads, and I don't know what else, burst into a blaze so suddenly that you would have thought the earth had opened to let an avenging fire consume all that trash. I was smoking my pipe quietly by my dismantled steamer, and saw them all cutting capers in the light, with their arms lifted high, when the stout man with moustaches came tearing down to the river, a tin pail in his hand, assured me that everybody was 'behaving splendidly, splendidly,' dipped about a quart of water and tore back again. *I noticed there was a hole in the bottom of his pail.*" 
-	- “I strolled up. There was no hurry. You see the thing had gone off like a box of matches. It had been hopeless from the very first. The flame had leaped high, driven everybody back, lighted up everything—and collapsed. The shed was already a heap of embers glowing fiercely. 
+	- “I strolled up. There was no hurry. You see the thing had gone off like a box of matches. It had been hopeless from the very first. The flame had leaped high, driven everybody back, lighted up everything—and collapsed. The shed was already a heap of embers glowing fiercely. A n[word] was being beaten near by. They said he had caused the fire in some way;" 
 
 ## Let's outline, shall we? 
 
 
 - Intro: Conrad uses ironic imagery in the Heart of Darkness to convey the dangers of placing independent and dissociated value in ideas.  
 
-- p1 
+- p1: bucket
+	- Fire is started 
+
+
+
 
 
 
@@ -95,6 +99,7 @@ Can be applied to the European culture / colonialist movement at large.
 	- blindfold with torch  
 	- Bucket with hole 
 	- Ship 
+	- order...? 
 
 - meta: 
 	- colonialism 
