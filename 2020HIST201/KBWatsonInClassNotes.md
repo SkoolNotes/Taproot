@@ -21,7 +21,7 @@ Readings:  [[GHMW Unit 2.pdf]] 19 - 26
 
 in 1769, the monarchy was overthrown by "a popular revolution." (but didn't actually complete until like 1815)
 
-France was bad at taxation, and also gave help in wars, which led to financial crisis 
+France was bad at taxation, and also gave help in wars, which led to financial crisis. (+ alotta other stuff) 
 
 
 
