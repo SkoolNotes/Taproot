@@ -90,7 +90,9 @@ Can be applied to the European culture / colonialist movement at large.
 - p1: bucket
 	- Bucket has a hole in it, 
 		- not actually putting out the fire. It is an idea of a bucket devoid of the context of the hole
-		- 
+		- wonderful method for colonialism 
+			- pretending to help, but not actually
+			- goes and punishes a native, 
 
 
 
