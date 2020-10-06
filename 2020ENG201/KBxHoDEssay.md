@@ -94,6 +94,11 @@ Can be applied to the European culture / colonialist movement at large.
 			- pretending to help, but not actually
 			- goes and punishes a native, 
 			- justifying hurt and exploitation with the guise of the savior 
+	- To *close* read:
+		- smoking my pipe quitly
+			- indifferent passive. 
+				- about futility? 
+		- "splendidly, splendidly" 
 
 
 
