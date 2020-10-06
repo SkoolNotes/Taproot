@@ -14,10 +14,9 @@ course: JC
 * "Grandmother was _NOT!_ abduced by aliens" => but! interest in Fermi's paradox
 	* Fermi's paradox videos got sent from brother 
 	
-Suggestion: lead in with Fermi's paradox?
+> Suggestion: lead in with Fermi's paradox?
 
-Flow of presentation
-
+## Flow of presentation
 * Talk about fermi's paradox
 * Talk about the fact that people have not been looking at Venus
 * But there is phosphine!
@@ -27,8 +26,7 @@ Flow of presentation
 * Issues of measurement must be correct
 * Perhaps a way of sparking further Venian exploration and/or research into photochemical pathways for the creation of phosphine
 
-
-Figures to present 
+## Figures to present 
 * 1
 * 2
 * 5
