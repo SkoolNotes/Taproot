@@ -108,7 +108,8 @@ Can be applied to the European culture / colonialist movement at large.
 	- 'excuse' of vision, while truly being blinded. 
 		- just like.. you guessed it! colonialism! 
 	- to close read:
-		- 
+		- movement was stately 
+		- the effect of the torchlight was sinister
 
 
 

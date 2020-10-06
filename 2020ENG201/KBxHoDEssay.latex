@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2556)}}    % original
-%\rhead{\textrmlf{Compiled }\#2556\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2556\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2557)}}    % original
+%\rhead{\textrmlf{Compiled }\#2557\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2557\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -410,7 +410,6 @@ Can be applied to the European culture / colonialist movement at large.
   p2: torch
 
   \begin{itemize}
-  \tightlist
   \item
     the torch is being used simply for the sake of using a torch, for
     the idea of using a torch
@@ -422,6 +421,15 @@ Can be applied to the European culture / colonialist movement at large.
     \item
       just like.. you guessed it! colonialism!
     \end{itemize}
+  \item
+    \begin{longtable}[]{@{}r@{}}
+    \toprule
+    close read:\tabularnewline
+    \midrule
+    \endhead
+    - the effect of the torchlight was sinister\tabularnewline
+    \bottomrule
+    \end{longtable}
   \end{itemize}
 \item
   examples:
