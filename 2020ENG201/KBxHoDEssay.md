@@ -118,7 +118,7 @@ Can be applied to the European culture / colonialist movement at large.
 			- again, kurtz pre-trip. The truth is sinister, scary. 
 
 - p3: ship
-	- 
+	- fires at a supposed enemy, which doesn't exist (doesn'T matter if it exists, it's irrelevant)
 
 
 - looser 
