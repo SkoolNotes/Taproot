@@ -129,7 +129,12 @@ Can be applied to the European culture / colonialist movement at large.
 			- points out the sadness
 		- feeble screech -- and nothing happened. Nothing could happen
 			- solidifying that it is just about the idea, not about reality
-		- 
+		- Momentary contact with reality
+			- the ship is not in reality (doi)
+
+- conclustion:
+	- its all about the true nature of colonialism! 
+
 
 
 - looser 
