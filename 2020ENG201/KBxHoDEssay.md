@@ -132,7 +132,7 @@ Can be applied to the European culture / colonialist movement at large.
 		- Momentary contact with reality
 			- the ship is not in reality (doi)
 
-- conclustion:
+- conclusion:
 	- its all about the true nature of colonialism! 
 
 
