@@ -119,6 +119,7 @@ Can be applied to the European culture / colonialist movement at large.
 
 - p3: ship
 	- fires at a supposed enemy, which doesn't exist (doesn't matter if it exists, it's irrelevant)
+	- uses words like "lazy" to represent how the reality of it doesn't matter, only the idea 
 
 
 - looser 
