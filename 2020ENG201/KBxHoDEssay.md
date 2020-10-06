@@ -72,6 +72,7 @@ Can be applied to the European culture / colonialist movement at large.
 ## Evidence bin 
 - ship
 	- "Now and then a boat from the shore gave one a momentary contact with reality [...] For a time I would feel I belonged still to a world of straightforward facts;"
+	- "Once, I remember, we came upon a man-of-war anchored off the coast. There wasn't even a shed there, and she was shelling the bush. It appears the French had one of their wars going on thereabouts. Her ensign dropped limp like a rag; the muzzles of the long six-inch guns stuck out all over the low hull; the greasy, slimy swell swung her up lazily and let her down, swaying her thin masts. In the empty immensity of earth, sky, and water, there she was, incomprehensible, firing into a continent. Pop, would go one of the six-inch guns; a small flame would dart and vanish, a little white smoke would disappear, a tiny projectile would give a feeble screech—and nothing happened. Nothing could happen. There was a touch of insanity in the proceeding, a sense of lugubrious drollery in the sight; and it was not dissipated by somebody on board assuring me earnestly there was a camp of natives—he called them enemies!—hidden out of sight somewhere." 
 
 
 
