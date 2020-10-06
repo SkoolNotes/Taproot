@@ -69,7 +69,7 @@ Can be applied to the European culture / colonialist movement at large.
 
 
 
-
+## Let's outline
 
 
 
