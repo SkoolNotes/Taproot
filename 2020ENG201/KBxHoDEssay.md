@@ -88,7 +88,9 @@ Can be applied to the European culture / colonialist movement at large.
 - Intro: Conrad uses ironic imagery in the Heart of Darkness to convey the dangers of placing independent and dissociated value in ideas.  
 
 - p1: bucket
-	- qoute sum: Fire is started, 
+	- Bucket has a hole in it, 
+		- not actually putting out the fire. It is an idea of a bucket devoid of the context of the hole
+		- 
 
 
 
