@@ -121,15 +121,15 @@ Can be applied to the European culture / colonialist movement at large.
 	-  
 
 
+- looser 
+	- examples: 
+		- blindfold with torch  
+		- bucket with hole 
+		- ship 
+		- order...? 
 
-- examples: 
-	- blindfold with torch  
-	- bucket with hole 
-	- ship 
-	- order...? 
-
-- meta: 
-	- colonialism 
+	- meta: 
+		- colonialism 
 
 
 
