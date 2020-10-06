@@ -70,18 +70,19 @@ Can be applied to the European culture / colonialist movement at large.
 
 
 ## Evidence bin 
-- ship
-	- "Now and then a boat from the shore gave one a momentary contact with reality [...] For a time I would feel I belonged still to a world of straightforward facts;"
-	- "Once, I remember, we came upon a man-of-war anchored off the coast. There wasn't even a shed there, and she was shelling the bush. It appears the French had one of their wars going on thereabouts. Her ensign dropped limp like a rag; the muzzles of the long six-inch guns stuck out all over the low hull; the greasy, slimy swell swung her up lazily and let her down, swaying her thin masts. In the empty immensity of earth, sky, and water, there she was, incomprehensible, firing into a continent. Pop, would go one of the six-inch guns; a small flame would dart and vanish, a little white smoke would disappear, a tiny projectile would give a feeble screech—and nothing happened. Nothing could happen. There was a touch of insanity in the proceeding, a sense of lugubrious drollery in the sight; and it was not dissipated by somebody on board assuring me earnestly there was a camp of natives—he called them enemies!—hidden out of sight somewhere." 
-	
-- blindfold with torch  
-	- "Then I noticed a small sketch in oils, on a panel, representing a woman, draped and blindfolded, carrying a lighted torch. The background was sombre—almost black. The movement of the woman was stately, and the effect of the torchlight on the face was sinister.
-	- (less important) “It arrested me, and he stood by civilly, holding an empty half-pint champagne bottle (medical comforts) with the candle stuck in it. To my question he said Mr. Kurtz had painted this—in this very station more than a year ago—while waiting for means to go to his trading post."
 
 - bucket 
 	- "One evening a grass shed full of calico, cotton prints, beads, and I don't know what else, burst into a blaze so suddenly that you would have thought the earth had opened to let an avenging fire consume all that trash. I was smoking my pipe quietly by my dismantled steamer, and saw them all cutting capers in the light, with their arms lifted high, when the stout man with moustaches came tearing down to the river, a tin pail in his hand, assured me that everybody was 'behaving splendidly, splendidly,' dipped about a quart of water and tore back again. *I noticed there was a hole in the bottom of his pail.*" 
 	- “I strolled up. There was no hurry. You see the thing had gone off like a box of matches. It had been hopeless from the very first. The flame had leaped high, driven everybody back, lighted up everything—and collapsed. The shed was already a heap of embers glowing fiercely. A n[word] was being beaten near by. They said he had caused the fire in some way;" 
 
+- blindfold with torch  
+	- "Then I noticed a small sketch in oils, on a panel, representing a woman, draped and blindfolded, carrying a lighted torch. The background was sombre—almost black. The movement of the woman was stately, and the effect of the torchlight on the face was sinister.
+	- (less important) “It arrested me, and he stood by civilly, holding an empty half-pint champagne bottle (medical comforts) with the candle stuck in it. To my question he said Mr. Kurtz had painted this—in this very station more than a year ago—while waiting for means to go to his trading post."
+
+- ship
+	- "Now and then a boat from the shore gave one a momentary contact with reality [...] For a time I would feel I belonged still to a world of straightforward facts;"
+	- "Once, I remember, we came upon a man-of-war anchored off the coast. There wasn't even a shed there, and she was shelling the bush. It appears the French had one of their wars going on thereabouts. Her ensign dropped limp like a rag; the muzzles of the long six-inch guns stuck out all over the low hull; the greasy, slimy swell swung her up lazily and let her down, swaying her thin masts. In the empty immensity of earth, sky, and water, there she was, incomprehensible, firing into a continent. Pop, would go one of the six-inch guns; a small flame would dart and vanish, a little white smoke would disappear, a tiny projectile would give a feeble screech—and nothing happened. Nothing could happen. There was a touch of insanity in the proceeding, a sense of lugubrious drollery in the sight; and it was not dissipated by somebody on board assuring me earnestly there was a camp of natives—he called them enemies!—hidden out of sight somewhere." 
+	
 ## Let's outline, shall we? 
 
 
@@ -114,16 +115,17 @@ Can be applied to the European culture / colonialist movement at large.
 			- painted by kurtz pre-trip, reflects those views? 
 			- majestic, yet blinded. another bit of justaposition? 
 		- the effect of the torchlight was sinister
-			- 
+			- again, kurtz pre-trip. The truth is sinister, scary. 
 
-
+- p3: ship
+	-  
 
 
 
 - examples: 
 	- blindfold with torch  
-	- Bucket with hole 
-	- Ship 
+	- bucket with hole 
+	- ship 
 	- order...? 
 
 - meta: 
