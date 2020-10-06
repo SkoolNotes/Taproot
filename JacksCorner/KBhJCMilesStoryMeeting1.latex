@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ JC }
+\newcommand{\thelesson}{ Mile's Story Meeting }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1741)}}    % original
-%\rhead{\textrmlf{Compiled }\#1741\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1741\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2574)}}    % original
+%\rhead{\textrmlf{Compiled }\#2574\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2574\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,6 +164,10 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{miles-story-meeting}{%
+\section{Mile's story meeting}\label{miles-story-meeting}}
 
 \begin{itemize}
 \tightlist

@@ -1,4 +1,10 @@
+---
+title: Mile's Story Meeting
+author: Houjun Liu
+course: JC
+---
 
+# Mile's story meeting
 
 * Paper "trying to be inconclusive" because they don't want to be wrong
 * Not very conclusive
