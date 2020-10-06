@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2583)}}    % original
-%\rhead{\textrmlf{Compiled }\#2583\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2583\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2584)}}    % original
+%\rhead{\textrmlf{Compiled }\#2584\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2584\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -193,5 +193,7 @@ financial crisis. (+ alotta other stuff)
 Wherever we meet, there is the nation" - \emph{said while in a tennis
 court}
 \end{quote}
+
+Stormed a castle, exposed
 
 \end{document}
