@@ -104,6 +104,7 @@ Can be applied to the European culture / colonialist movement at large.
 	- This action stems from placing inherent value in ideas, devoid of context. 
 	
 - p2: torch
+	- the torch is being use simply for the sake of using a torch, for the idea of using a torch
 	- 
 
 
