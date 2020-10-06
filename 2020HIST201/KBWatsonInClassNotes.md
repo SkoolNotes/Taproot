@@ -27,7 +27,7 @@ France was bad at taxation, and also gave help in wars, which led to financial c
 
 > Wherever we meet, there is the nation" - *said while in a tennis court* 
 
-Stormed a castle, exposed 
+Stormed a castle, exposed the weakness of the empire, whose authority quickly evaporated 
 
 
 
