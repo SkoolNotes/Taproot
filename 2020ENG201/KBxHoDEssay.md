@@ -121,10 +121,14 @@ Can be applied to the European culture / colonialist movement at large.
 	- fires at a supposed enemy, which doesn't exist (doesn't matter if it exists, it's irrelevant)
 	- uses words like "lazy" to represent how the reality of it doesn't matter, only the idea 
 	- to close read: 
-		- hidden out of sight
+		- hidden out of sight somewhere
 			- justification
 		- lazy, slimy, ect
 			- explained above, can be expanded upon easily
+		- lugubrious drolly in the sight
+			- points out the sadness
+		- feeble screech -- and nothing happened. Nothing could happen
+			- solidifying that it is just about the idea, not about reality
 		- 
 
 
