@@ -19,6 +19,8 @@ Decided to work with teammates [here](https://docs.google.com/document/d/1tqvXVK
 
 Readings:  [[GHMW Unit 2.pdf]] 19 - 26
 
+in 1769, the monarchy was overthrown by "a popular revolution." 
+
 
 
 
