@@ -17,7 +17,7 @@ Decided to work with teammates [here](https://docs.google.com/document/d/1tqvXVK
 
 ## Chapter 2!
 
-
+Readings:  [[GHMW Unit 2.pdf]] 19 - 26
 
 
 
