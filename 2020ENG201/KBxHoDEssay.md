@@ -74,13 +74,17 @@ Can be applied to the European culture / colonialist movement at large.
 
 - Intro: Conrad uses ironic imagery in the Heart of Darkness to convey the dangers of placing independent and dissociated value in ideas.  
 
-- 
+- p1 
 
 
 
+- examples: 
+	- Blindfolded woman 
+	- Bucket with hole 
+	- Ship 
 
-
-
+- meta: 
+	- colonialism 
 
 
 
