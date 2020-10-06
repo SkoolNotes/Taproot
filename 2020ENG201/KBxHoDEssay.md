@@ -118,7 +118,7 @@ Can be applied to the European culture / colonialist movement at large.
 			- again, kurtz pre-trip. The truth is sinister, scary. 
 
 - p3: ship
-	-  
+	- 
 
 
 - looser 
