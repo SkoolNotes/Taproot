@@ -108,6 +108,8 @@ Can be applied to the European culture / colonialist movement at large.
 	- 'excuse' of vision, while truly being blinded. 
 		- just like.. you guessed it! colonialism! 
 	- to close read:
+		- background was sombre
+			- claims to be seeing the sombreness, but is blind to the true sadness and of their situation
 		- movement was stately 
 		- the effect of the torchlight was sinister
 
