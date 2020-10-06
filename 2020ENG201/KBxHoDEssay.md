@@ -105,7 +105,10 @@ Can be applied to the European culture / colonialist movement at large.
 	
 - p2: torch
 	- the torch is being used simply for the sake of using a torch, for the idea of using a torch
-	- 'excuse' of vision, while truly being blinded.  
+	- 'excuse' of vision, while truly being blinded. 
+		- just like.. you guessed it! colonialism! 
+	- to close read:
+		- 
 
 
 
