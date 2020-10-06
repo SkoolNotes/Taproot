@@ -93,6 +93,7 @@ Can be applied to the European culture / colonialist movement at large.
 		- wonderful method for colonialism 
 			- pretending to help, but not actually
 			- goes and punishes a native, 
+			- justifying hurt and exploitation with the guise of the savior 
 
 
 
