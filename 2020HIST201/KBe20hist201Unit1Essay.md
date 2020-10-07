@@ -102,6 +102,12 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 	- very not conservative
 - basically all transactions + taxes silver by 1570
 
+#### Lack of Silver
+- Chinese silver mines ran dry, needed source from other places
+	- japan, kinda
+	- wokou, traded a bit of silver for many goods (much silk and porcelain)
+- 
+
 ## Kennedy Bashing on People
 ### Ming
 - "sheer conservatism of the Confucian bureaucracy"
