@@ -79,8 +79,10 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 - The conflict
 	- Spanish government wanted all silver in spain
 	- trading silver and gold in china was more profitable than anywhere else
-- Official sources say 10% silver was smuggled to china
-- Historians assumed no more 
+- Official sources say 25% silver was smuggled to china
+- Historians assumed no more 10%
+- New research argues that smuggling took maybe half of silver to china
+- is word
 
 ## Kennedy Bashing on People
 ### Ming
