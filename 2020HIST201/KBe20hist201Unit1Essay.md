@@ -87,7 +87,8 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 	- was the economy driven by european expansion or chinese demand?
 ### Money Troubles
 #source mann ming trade
-- 
+- unreliable state currency lead to merchants using hunks of silver
+	- 
 
 ## Kennedy Bashing on People
 ### Ming
