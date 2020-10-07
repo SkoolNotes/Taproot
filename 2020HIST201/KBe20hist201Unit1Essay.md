@@ -122,6 +122,7 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 	- by spanish records, 326000000 coins
 		- **does not include smuggling!**
 - Doc7: ming official asks to repeal trade ban for much profit
+- Doc8: England trades china silver for "luxary items" that 
 
 ## Kennedy Bashing on People
 ### Ming
