@@ -108,7 +108,7 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
+\newcommand{\thecourse}{ MathLinear Algebra20math530 }
 \newcommand{\thelesson}{ Span of linear combinations }
 
 \title{\textbf{\thecourse}\thelesson}
@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2592)}}    % original
+%\rhead{\textrmlf{Compiled }\#2592\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2592\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -173,7 +175,8 @@ The set of all linear combinations of a list of vectors
 \(v_1, ..., v_m\) in \(V\) is called the span of \(v_1, ..., v_m\),
 denoted \(\text{span}(v_1,...,v_m)\):
 \[\text{span}(v_1,...,v_m) = {a_1v_1 + ... + a_mv_m | a_1, ..., a_m \in F}\]
-And the span of an empty list \(()\) is \({0}\)
+And the span of an empty list \(()\) is \({0}\) - This is just to make
+Axler2.C work out nicely ({[}{[}KBeRefLinAlgDimension{]}{]})
 \end{quote}
 
 \hypertarget{properties}{%

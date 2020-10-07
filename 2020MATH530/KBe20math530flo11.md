@@ -34,6 +34,7 @@ source:  KBe2020math530floIndex
 - See [[KB20math530refLinearIndependence]]
 
 ## 2.21 Linear Dependence Lemma 2.21
+#toexpand
 - it's saying that any linearly independent list has a vector inside that doesn't "contribute anything", and that if you remove it you'l have the same span. Implicitly, maybe through induction?) if you remove a dependent vector enough times then you get a linearly independent list.
 - The list $(1, 1, 1), (2, 2, 2), (3, 3, 3)$ is really dependent, but $(0), (0), (0)$ is the most dependent (you have to remove all to get independence).
 

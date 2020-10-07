@@ -140,6 +140,19 @@ As Marlow speaks in his trance-like state, Conrad uses the juxtaposition of oppo
 Finally, instead of following a rigid parallel structure, the imagery in the excerpt increments in scale and intensity--increasing the sense uncontrollable expanding cognizance. Marlow focuses first on stretcher, then the bearers, then the forest and the river, and finally the oppressive drums and inner continent itself. As each piece of imagery engulfs the previous, the reader imagines the situation in a broader and broader context--as if through the viewfinder of a camera, zooming out into space. It is as if Marlow is bringing us along for a non-lucid out of body experience. Not only does the object of focus become physically larger, but the nuance of description also increases. At first, Kurtz's stretcher is simply a stretcher--but as the vision goes on the forest is "gloomy" and the water glitters in a specific reach between the bends. This culminates in the description of the beating of a drum: "regular and muffled like the beating of a heart--the heart of a conquering darkness". Not only does Conrad use an entire simile and an em-dash, but he also ties it back to the title and thus the entire progression of the story. This zoom-out reveals the structure of the plot--the lay of the land, so to speak. This vision is a defining moment of Marlow's life flashing before his eyes, the epitome of sensory overload.
 Each aspect of Marlow's vision conveys a feeling of being overwhelmed. The intensity of the vision and it's freshness in his memory creates a sensory overload conveyed to the reader through phonetics, language, and content. 
 
+# Editing
+- No 1st or 2nd person
+- No colloquial/slang
+- Precise language
+- No “big, good, bad, thing, get, interesting, really”
+
+# Feedback round 1
+- Intro could be longer (because so much of it is a quote)
+- Thesis
+	- missing a so what
+	- what does the intensity of the congo show?
+	- connect to the meaning and intentions behind the novel
+
 # Export
 https://docs.google.com/document/d/1j8QsHTNkcqGl8mAIR5ddp1CdKODspltTYg2Eaf-H0MA/edit
 

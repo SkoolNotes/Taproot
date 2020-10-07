@@ -12,6 +12,7 @@ source:  KBe20math530refVectorSpace
 > The set of all linear combinations of a list of vectors $v_1, ..., v_m$ in $V$ is called the span of $v_1, ..., v_m$, denoted $\text{span}(v_1,...,v_m)$:
 > $$\text{span}(v_1,...,v_m) = {a_1v_1 + ... + a_mv_m | a_1, ..., a_m \in F}$$
 > And the span of an empty list $()$ is ${0}$
+>   - This is just to make Axler2.C work out nicely ([[KBeRefLinAlgDimension]])
 
 # Properties
 - The span is the smallest containing subspace

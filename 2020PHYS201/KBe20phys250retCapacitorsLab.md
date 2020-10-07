@@ -10,6 +10,14 @@ source:  2020PHYS201/KBPhysicsMasterIndex.md
 
 See [[KBsrc20phys250CapacitorLab.pdf]]
 
-![[Pasted image 20201002140408.png]]
+![[KBesrcCapacitor22mF100kO.png]]
+
+![[KBesrcCapacitor0.047microF33kO.png]]
+
+![[KBesrcCapacitor1000microF100ohm.png]]
+
+![[KBesrcCapacitor1000microF15ohm.png]]
+
+Integration: https://docs.google.com/spreadsheets/d/1eDmGRePGh8PVv2aKhVhv-TNJc3_n8H7HUrAMvxOG1Vs/edit#gid=0
 
 ---

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1526)}}    % original
-%\rhead{\textrmlf{Compiled }\#1526\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#1526\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2592)}}    % original
+%\rhead{\textrmlf{Compiled }\#2592\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2592\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -252,19 +252,13 @@ space}\label{its-a-finite-dimensional-vector-space}}
 \subsection{2.21 Linear Dependence Lemma
 2.21}\label{linear-dependence-lemma-2.21}}
 
-\begin{itemize}
-\tightlist
-\item
-  it's saying that any linearly independent list has a vector inside
-  that doesn't ``contribute anything'', and that if you remove it you'l
-  have the same span. Implicitly, maybe through induction?) if you
-  remove a dependent vector enough times then you get a linearly
-  independent list.
-\item
-  The list \((1, 1, 1), (2, 2, 2), (3, 3, 3)\) is really dependent, but
-  \((0), (0), (0)\) is the most dependent (you have to remove all to get
-  independence).
-\end{itemize}
+\#toexpand - it's saying that any linearly independent list has a vector
+inside that doesn't ``contribute anything'', and that if you remove it
+you'l have the same span. Implicitly, maybe through induction?) if you
+remove a dependent vector enough times then you get a linearly
+independent list. - The list \((1, 1, 1), (2, 2, 2), (3, 3, 3)\) is
+really dependent, but \((0), (0), (0)\) is the most dependent (you have
+to remove all to get independence).
 
 \begin{itemize}
 \tightlist
