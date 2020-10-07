@@ -73,3 +73,7 @@ As you start to charge a capacitor, the current starts at $\frac{V_b}{R}$ — cu
 ## Capacitors in series and parallel
 ![Screen Shot 2020-10-07 at 10.20.06 AM.png](Screen Shot 2020-10-07 at 10.20.06 AM.png)
 
+$Q_{tot} = Q_1 + Q_2$.
+
+And, because of the fact that $C = \frac{Q}{V}$, $V\times C_{eq} = V \times C_1 + V \times 
+

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2640)}}    % original
-%\rhead{\textrmlf{Compiled }\#2640\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2640\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2641)}}    % original
+%\rhead{\textrmlf{Compiled }\#2641\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2641\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -276,5 +276,10 @@ parallel}\label{capacitors-in-series-and-parallel}}
 \includegraphics{Screen Shot 2020-10-07 at 10.20.06 AM.png}
 \caption{Screen Shot 2020-10-07 at 10.20.06 AM.png}
 \end{figure}
+
+\(Q_{tot} = Q_1 + Q_2\).
+
+And, because of the fact that \(C = \frac{Q}{V}\), \$V\times C\_\{eq\} =
+V \times C\_1 + V \times 
 
 \end{document}
