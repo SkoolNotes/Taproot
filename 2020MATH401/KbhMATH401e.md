@@ -15,4 +15,6 @@ $P = principle$
 
 $y = interest$
 
-$t = 2yrs$ 
+$t = time$ 
+
+$SI = \frac{p \times y \times t}{100}$

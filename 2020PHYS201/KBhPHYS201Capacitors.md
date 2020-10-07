@@ -102,3 +102,8 @@ Given $Q_1 = Q_2$.
 
 So
 
+## Construction of Capacitors
+
+A diagram of the plates inside the capacitor before being rolled up.
+
+![[Pasted image 20201007131933.png]]
