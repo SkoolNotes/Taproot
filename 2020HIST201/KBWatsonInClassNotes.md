@@ -33,7 +33,7 @@ Stormed a castle, exposed the weakness of the empire, whose authority quickly ev
 
 Charismatic leaders formed factions 
 
-
+Murdered those who opposed the revolution. Called this period the Terror
 
 
 
