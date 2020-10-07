@@ -156,8 +156,8 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 Kennedy said the ming and the ottomans suffered the same downfall due to centralization and economic troubles.
 
 ### Evidence
-- "[the ottomans] were to falter [...] strikingly similar Ming decline"
-- "The system as a whole, like that of Ming China, increasingly suffered from some of the defects of being centralized, despotic, and severely orthodox in it's attitude toward initiative dissent, and commerce."
+- "[the ottomans] were to falter [...] strikingly similar Ming decline" (Kennedy 11)
+- "The system as a whole, like that of Ming China, increasingly suffered from some of the defects of being centralized, despotic, and severely orthodox in it's attitude toward initiative dissent, and commerce." (Kennedy 11)
 
 ## Body 2
 ### Topic
