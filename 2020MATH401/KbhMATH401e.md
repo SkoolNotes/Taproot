@@ -27,4 +27,6 @@ $r = interest$
 
 $t = time$
 
-$compounding\ annually$
+$p = compounding\ per\ annum$
+
+$CI = P(1+\frac{r}{p})
