@@ -1,12 +1,13 @@
 ---
 title: Capacitors
-author: Houjun Liu
+author: Houjun Liu, Exr0n
 source: KBhPHYS201CircuitsIndex
 course: PHYS201
 ---
 
-# Capacitors
-## Capacitors vs. Batteries
+#ref
+
+# Capacitors vs. Batteries
 **Batteries** => Converting $PE_{chem}$ => Eletrical energy
 
 **Capacitors** => Converting $PE_{elec}$ => Eletrical energy
@@ -17,7 +18,7 @@ When you are discharging a capacitor, there is a linear fall in voltage that is 
 
 Charge remaining: capacitance times voltage
 
-## Energy on a Capacitor
+# Energy on a Capacitor
 
 A little bit #disorganized 
 
@@ -33,7 +34,7 @@ So, putting this together, the energy stored on a capacitor would be...
 
 $Q_{cap} \propto V$. In fact $Q_{cap} =  C \times V_c$.
 
-## Capacitors interacting with Resistance
+# Capacitors interacting with Resistance
 As you increase the [[KBhPHYS201Resistance]], the a capacitor of the same capacitance would charge slower. (_"Less charge flows in"_)
 
 As you fix the Resistance, the capacitor of a higher capacitance would charge slower. (_"Need more change to fill"_)
@@ -57,7 +58,7 @@ Let's check the units!
 
 Hence, $R \times C = \frac{\cancel{V} \times s}{\cancel{Q}} = \cancel{\frac{Q}{V}}$, indeed, has a unit Seconds!
 
-## Equations modeling charging a capacitor 
+# Equations modeling charging a capacitor 
 \definition[where $R$ is the resistance, $C$ is the capacitance]{Time Constant Tau}{$RC = \tau$ — time constant to be able to change the capacitor to a useful voltage; aka how much does the capacitor need to noticeably charge/discharge.}
 
 Now that we have this value, we could also represent the full charge process using the equations as follows:
@@ -70,10 +71,10 @@ As you start to charge a capacitor, the current starts at $\frac{V_b}{R}$ — cu
 
 #disorganized 
 
-## Capacitors in series and parallel
+# Capacitors in series and parallel
 Helpful to see: [[KBhPHYS201CombiningResistors]]
 
-### Capacitors in Parallel
+## Capacitors in Parallel
 
 ![Screen Shot 2020-10-07 at 10.20.06 AM.png](Screen Shot 2020-10-07 at 10.20.06 AM.png) 
 
@@ -85,7 +86,7 @@ Dividing $V$ out of the previous equations $C_{eq} = C_1 + C_2$.
 
 **Capacitors in parallel act like resistors in parallel.**
 
-### Capacitors in Series
+## Capacitors in Series
 
 ![Screen Shot 2020-10-07 at 10.23.08 AM.png](Screen Shot 2020-10-07 at 10.23.08 AM.png)
 

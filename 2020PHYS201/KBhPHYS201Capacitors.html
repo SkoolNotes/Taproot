@@ -72,14 +72,14 @@ html {
         </div>
         <div id="center-viewport">
             <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhPHYS201CircuitsIndex"><span><strong>[[</strong></span><strong>KBhPHYS201CircuitsIndex</strong><span><strong>]]</strong></span></a></span></p>
-            <h1 id="capacitors">Capacitors</h1>
-            <h2 id="capacitors-vs.-batteries">Capacitors vs. Batteries</h2>
+            <p>#ref</p>
+            <h1 id="capacitors-vs.-batteries">Capacitors vs. Batteries</h1>
             <p><strong>Batteries</strong> =&gt; Converting <span class="math inline">\(PE_{chem}\)</span> =&gt; Eletrical energy</p>
             <p><strong>Capacitors</strong> =&gt; Converting <span class="math inline">\(PE_{elec}\)</span> =&gt; Eletrical energy</p>
             <p>When you are discharging a battery, they remain at constant voltage until they are used up, at which point the voltage drop like a plate.</p>
             <p>When you are discharging a capacitor, there is a linear fall in voltage that is constant.</p>
             <p>Charge remaining: capacitance times voltage</p>
-            <h2 id="energy-on-a-capacitor">Energy on a Capacitor</h2>
+            <h1 id="energy-on-a-capacitor">Energy on a Capacitor</h1>
             <p>A little bit #disorganized</p>
             <p>Energy stored on a capacitor: <span class="math inline">\(E=\frac{V_c * Q}{2}\)</span>.</p>
             <p>Charge on a capacitor: <span class="math inline">\(Q = C \times V_c\)</span></p>
@@ -88,7 +88,7 @@ html {
             <p>Definition <span class="math inline">\(\cdot\)</span> [ <strong>Energy stored in a capacitor</strong> <span><span class="math inline">\(E=\frac{V \times Q}{2} = \frac{CV^2}{2}\)</span></span> ] <span><br />
             <span>as <span class="math inline">\(Q=C \times V_c\)</span></span></span></p>
             <p><span class="math inline">\(Q_{cap} \propto V\)</span>. In fact <span class="math inline">\(Q_{cap} = C \times V_c\)</span>.</p>
-            <h2 id="capacitors-interacting-with-resistance">Capacitors interacting with Resistance</h2>
+            <h1 id="capacitors-interacting-with-resistance">Capacitors interacting with Resistance</h1>
             <p>As you increase the <span>[</span><span>[</span>KBhPHYS201Resistance<span>]</span><span>]</span>, the a capacitor of the same capacitance would charge slower. (<em>“Less charge flows in”</em>)</p>
             <p>As you fix the Resistance, the capacitor of a higher capacitance would charge slower. (<em>“Need more change to fill”</em>)</p>
             <p><img src="Screen Shot 2020-09-30 at 10.42.44 AM.png" alt="image" /></p>
@@ -104,7 +104,7 @@ html {
             <li><p>So <span class="math inline">\(\frac{Q}{V} = C\)</span></p></li>
             </ul>
             <p>Hence, <span class="math inline">\(R \times C = \frac{\cancel{V} \times s}{\cancel{Q}} = \cancel{\frac{Q}{V}}\)</span>, indeed, has a unit Seconds!</p>
-            <h2 id="equations-modeling-charging-a-capacitor">Equations modeling charging a capacitor</h2>
+            <h1 id="equations-modeling-charging-a-capacitor">Equations modeling charging a capacitor</h1>
             <p>Definition <span class="math inline">\(\cdot\)</span> [ <strong>Time Constant Tau</strong> <span><span class="math inline">\(RC = \tau\)</span> — time constant to be able to change the capacitor to a useful voltage; aka how much does the capacitor need to noticeably charge/discharge.</span> ] <span><br />
             <span>where <span class="math inline">\(R\)</span> is the resistance, <span class="math inline">\(C\)</span> is the capacitance</span></span></p>
             <p>Now that we have this value, we could also represent the full charge process using the equations as follows:</p>
@@ -114,15 +114,15 @@ html {
             <p>Definition <span class="math inline">\(\cdot\)</span> [ <strong>Voltage before and after a capacitor as you charge a capacitor</strong> <span><span class="math inline">\(V(t) = V_b \times (1 - e^{\frac{-t}{RC}})\)</span></span> ] <span><br />
             <span>where <span class="math inline">\(V_b\)</span> is the battery voltage, <span class="math inline">\(t\)</span> is time elapsed, <span class="math inline">\(R\)</span> is resistance, and <span class="math inline">\(C\)</span> is the capacitance</span></span></p>
             <p>#disorganized</p>
-            <h2 id="capacitors-in-series-and-parallel">Capacitors in series and parallel</h2>
+            <h1 id="capacitors-in-series-and-parallel">Capacitors in series and parallel</h1>
             <p>Helpful to see: <span>[</span><span>[</span>KBhPHYS201CombiningResistors<span>]</span><span>]</span></p>
-            <h3 id="capacitors-in-parallel">Capacitors in Parallel</h3>
+            <h2 id="capacitors-in-parallel">Capacitors in Parallel</h2>
             <p><img src="Screen Shot 2020-10-07 at 10.20.06 AM.png" alt="image" /></p>
             <p><span class="math inline">\(Q_{tot} = Q_1 + Q_2\)</span>.</p>
             <p>And, because of the fact that <span class="math inline">\(C = \frac{Q}{V}\)</span>, <span class="math inline">\(V\times C_{eq} = V \times C_1 + V \times C_2\)</span></p>
             <p>Dividing <span class="math inline">\(V\)</span> out of the previous equations <span class="math inline">\(C_{eq} = C_1 + C_2\)</span>.</p>
             <p><strong>Capacitors in parallel act like resistors in parallel.</strong></p>
-            <h3 id="capacitors-in-series">Capacitors in Series</h3>
+            <h2 id="capacitors-in-series">Capacitors in Series</h2>
             <p><img src="Screen Shot 2020-10-07 at 10.23.08 AM.png" alt="image" /></p>
             <p>Because of the fact that the middle wire does not carry any changes, it is “neutral” and simply polarized — making <span class="math inline">\(Q_1\)</span> equaling <span class="math inline">\(Q_2.\)</span></p>
             <p>Why is this? If the middle bit is neutral, the <span class="math inline">\(Q^+\)</span> on one end would equal to the <span class="math inline">\(Q^-\)</span> on the other. Correspondingly, the other side of the plates of the capacitor would have the opposite of the same values <span class="math inline">\(Q^-\)</span> and <span class="math inline">\(Q^+\)</span> on the neutral middle plate.</p>
@@ -132,7 +132,7 @@ html {
             <p>So</p>
             <h2 id="construction-of-capacitors">Construction of Capacitors</h2>
             <p>A diagram of the plates inside the capacitor before being rolled up.</p>
-            <p><span>[</span><span>[</span>Pasted image 20201007131933.png<span>]</span><span>]</span></p>
+            <p><img src="./Pastedimage20201007131933.png" alt="image" /></p>
         </div>
 
         <script>

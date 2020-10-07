@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2669)}}    % original
-%\rhead{\textrmlf{Compiled }\#2669\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2669\textrmlf{ on} \today}       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2672)}}    % original
+%\rhead{\textrmlf{Compiled }\#2672\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2672\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu, Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -167,11 +167,10 @@
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=KBhPHYS201CircuitsIndex}{\tiny\textulf{[[}\textbf{KBhPHYS201CircuitsIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{capacitors}{%
-\section{Capacitors}\label{capacitors}}
+\#ref
 
 \hypertarget{capacitors-vs.-batteries}{%
-\subsection{Capacitors vs.~Batteries}\label{capacitors-vs.-batteries}}
+\section{Capacitors vs.~Batteries}\label{capacitors-vs.-batteries}}
 
 \textbf{Batteries} =\textgreater{} Converting \(PE_{chem}\)
 =\textgreater{} Eletrical energy
@@ -188,7 +187,7 @@ that is constant.
 Charge remaining: capacitance times voltage
 
 \hypertarget{energy-on-a-capacitor}{%
-\subsection{Energy on a Capacitor}\label{energy-on-a-capacitor}}
+\section{Energy on a Capacitor}\label{energy-on-a-capacitor}}
 
 A little bit \#disorganized
 
@@ -206,7 +205,7 @@ be\ldots{}
 \(Q_{cap} \propto V\). In fact \(Q_{cap} = C \times V_c\).
 
 \hypertarget{capacitors-interacting-with-resistance}{%
-\subsection{Capacitors interacting with
+\section{Capacitors interacting with
 Resistance}\label{capacitors-interacting-with-resistance}}
 
 As you increase the {[}{[}KBhPHYS201Resistance{]}{]}, the a capacitor of
@@ -249,7 +248,7 @@ Hence,
 indeed, has a unit Seconds!
 
 \hypertarget{equations-modeling-charging-a-capacitor}{%
-\subsection{Equations modeling charging a
+\section{Equations modeling charging a
 capacitor}\label{equations-modeling-charging-a-capacitor}}
 
 \definition[where $R$ is the resistance, $C$ is the capacitance]{Time Constant Tau}{$RC = \tau$ — time constant to be able to change the capacitor to a useful voltage; aka how much does the capacitor need to noticeably charge/discharge.}
@@ -268,13 +267,13 @@ slowly drop down to 0.
 \#disorganized
 
 \hypertarget{capacitors-in-series-and-parallel}{%
-\subsection{Capacitors in series and
+\section{Capacitors in series and
 parallel}\label{capacitors-in-series-and-parallel}}
 
 Helpful to see: {[}{[}KBhPHYS201CombiningResistors{]}{]}
 
 \hypertarget{capacitors-in-parallel}{%
-\subsubsection{Capacitors in Parallel}\label{capacitors-in-parallel}}
+\subsection{Capacitors in Parallel}\label{capacitors-in-parallel}}
 
 \begin{figure}
 \centering
@@ -292,7 +291,7 @@ Dividing \(V\) out of the previous equations \(C_{eq} = C_1 + C_2\).
 \textbf{Capacitors in parallel act like resistors in parallel.}
 
 \hypertarget{capacitors-in-series}{%
-\subsubsection{Capacitors in Series}\label{capacitors-in-series}}
+\subsection{Capacitors in Series}\label{capacitors-in-series}}
 
 \begin{figure}
 \centering
@@ -324,6 +323,6 @@ Capacitors}\label{construction-of-capacitors}}
 
 A diagram of the plates inside the capacitor before being rolled up.
 
-{[}{[}Pasted image 20201007131933.png{]}{]}
+\includegraphics{./Pastedimage20201007131933.png}
 
 \end{document}
