@@ -84,7 +84,7 @@ And, because of the fact that $C = \frac{Q}{V}$, $V\times C_{eq} = V \times C_1 
 
 Dividing $V$ out of the previous equations $C_{eq} = C_1 + C_2$.
 
-**Capacitors in parallel act like resistors in ~~parallel~~ series.**
+**Capacitors in parallel act like resistors in series.**
 
 ## Capacitors in Series
 
@@ -105,6 +105,6 @@ So
 
 ## Construction of Capacitors
 
-A diagram of the plates inside the capacitor before being rolled up.
+A diagram of the plates inside a polar capacitor before being rolled up.
 
 ![](./Pastedimage20201007131933.png)
