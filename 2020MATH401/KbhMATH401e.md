@@ -29,4 +29,4 @@ $t = time$
 
 $p = compounding\ per\ annum$
 
-$CI = P(1+\frac{r}{p})
+$CI = P(1+\frac{r}{p})^{tp}$
