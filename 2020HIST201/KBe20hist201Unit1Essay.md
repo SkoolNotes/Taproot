@@ -70,7 +70,7 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 - government workers were on a fixed wage
 	- when in inflation happened, they were not paid enough
 	- were more likely to take bribes and "other forms of corruption"
-	- lead to declining military -> embarassing treaties -> Treaty of Küchük Kay-narja (1774) -> Russia meddling with ottoman politics
+	- lead to declining military -> embarrassing treaties -> Treaty of Küchük Kay-narja (1774) -> Russia meddling with ottoman politics
 	- "technological advantage lost"
 
 ## Kennedy Bashing on People
@@ -93,6 +93,9 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 - stopped military expansion/exploration
 - incompetent leaders
 - doesn't like merchants 
+
+## 
+
 
 # Sources
 - Bulliet Ottomans
