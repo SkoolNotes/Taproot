@@ -9,3 +9,4 @@ source: KBCalculusMasterIndex
     - [[KBhMATH401Day1]] Day 1 with Veena
 - [[KBhMATH401FirstAndSecondOrder]] First and Second Order Differences
 - [[KBhMATH401Limits]]
+- [[KbhMATH401e]]
