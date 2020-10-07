@@ -114,7 +114,7 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 ### silver trade primary sources
 #source silver trade dbq
 - Doc2: lots of silver was traded through the Philippines
-- Doc3: silver is scarce
+- Doc3: silver is scarce (economic deflation)
 
 ## Kennedy Bashing on People
 ### Ming
