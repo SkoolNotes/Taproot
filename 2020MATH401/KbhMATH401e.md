@@ -13,8 +13,18 @@ Step 1: Know what simple interest/compound interest is.
 
 $P = principle$
 
-$y = interest$
+$r = interest$
 
 $t = time$ 
 
-$SI = \frac{p \times y \times t}{100}$
+$SI = p \times r \times t$
+
+##  Compound interest
+
+$P = principle$
+
+$r = interest$
+
+$t = time$
+
+$compounding\ annually$

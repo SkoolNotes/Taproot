@@ -106,4 +106,4 @@ So
 
 A diagram of the plates inside the capacitor before being rolled up.
 
-![[Pasted image 20201007131933.png]]
+![](./Pastedimage20201007131933.png)
