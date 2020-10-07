@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2645)}}    % original
-%\rhead{\textrmlf{Compiled }\#2645\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2645\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2646)}}    % original
+%\rhead{\textrmlf{Compiled }\#2646\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2646\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -305,7 +305,9 @@ Dividing \(V\) out of the previous equations \(C_{eq} = C_1 + C_2\).
 Because of the fact that the middle wire does not carry any changes, it
 is ``neutral'' and simply polarized --- making \(Q_1\) equaling \(Q_2.\)
 
-Why is this? If the middle bit
+Why is this? If the middle bit is neutral, the \(Q^+\) on one end would
+equal to the \(Q^-\) on the other. Correspondingly, the other side of
+the plates of the capacitor
 
 So
 

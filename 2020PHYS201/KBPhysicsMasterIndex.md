@@ -27,6 +27,7 @@ source: #index
 - [[KBhPHYS201Capacitors]]
 - [[KBe20phys250retCapacitenceResistanceQuestion]]
 - [[KBe20phys250retCapacitorsLab]]
+- [[KBe20Phys201refCapacitorSeriesParralel]]
 
 # References
 * [[KBPHYS201ZachsPhysicsNotesForTest]] Physics quiz Notes
