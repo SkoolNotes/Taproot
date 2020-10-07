@@ -30,3 +30,7 @@ $t = time$
 $p = compounding\ per\ annum$
 
 $CI = P(1+\frac{r}{p})^{tp}$
+
+## E
+
+$e = 1+(1+frac{1}{x})^x$

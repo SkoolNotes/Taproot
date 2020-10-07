@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2676)}}    % original
-%\rhead{\textrmlf{Compiled }\#2676\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2676\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2677)}}    % original
+%\rhead{\textrmlf{Compiled }\#2677\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2677\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -195,5 +195,10 @@ Step 1: Know what simple interest/compound interest is.
 \(p = compounding\ per\ annum\)
 
 \(CI = P(1+\frac{r}{p})^{tp}\)
+
+\hypertarget{e}{%
+\subsection{E}\label{e}}
+
+\(e = 1+(1+frac{1}{x})^x\)
 
 \end{document}
