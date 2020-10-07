@@ -100,6 +100,7 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 - money not issued by government
 	- privatized money
 	- very not conservative
+- basically all transactions + taxes silver by 1570
 
 ## Kennedy Bashing on People
 ### Ming
