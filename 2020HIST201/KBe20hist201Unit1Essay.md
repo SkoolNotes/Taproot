@@ -93,7 +93,13 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 	- new emperors kept outlawing old coins and creating new ones that immediately destabilized
 	- merchants started using small silver ingots
 	
-#### 
+#### Silver as money
+- Bowls 1-4 inches in diameter
+- purity certified by "kanyinshi"
+	- who regularly cheated all parties
+- money not issued by government
+	- privatized money
+	- very not conservative
 
 ## Kennedy Bashing on People
 ### Ming
