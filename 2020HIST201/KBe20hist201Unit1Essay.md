@@ -171,7 +171,7 @@ Both the Ming and Ottoman empires suffered from economies weakened by corruption
 
 ### Evidence - Corruption
 #### Ming
-"kanyinshi" (Mann, 
+"kanyinshi who charged a fee for the evaluation and rutinely cheated all parties" (Mann, 138)
 
 ## Body 2
 ### Topic
