@@ -11,9 +11,10 @@ buildid="$(cat $BUILDNUMBER_FILE)"
 echo $(( $buildid + 1 )) > $BUILDNUMBER_FILE
 
 changes="$(git status --porcelain | cut -c4- | grep -E '(\.md|\.org)$')"
+echo "        Log for attempt at $(date)" > recent_errors.txt
 for f in ${(@f)changes}; do
+    echo "        $(date) Converting $f..." >> recent_errors.txt
     formatname="$filetype[${f:t:e}]"
-    echo "Log for attempt at $(date)" > recent_errors.txt
     printf "$(date) Converting $f...\r"
     if [[ $formatname == "markdown" ]]; then
         #sed -E -e 's/!\[\[(.+\.(png|jpg))\]\]/![\1](\1)/g' -i '' $f
