@@ -153,7 +153,7 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 
 Although the economies of both the Ottoman and Ming empires suffered due to spiraling inflation and European trade, their misfortunes were not as similar as Kennedy suggests: the Ottomans' overstretched military was undermined by Europeans trading silver while the Mings' internal inflation spiral forced trade with and ultimately destruction by Europeans.
 
-## Body 1
+## Body 1 (choice A)
 ### Topic
 Kennedy said the ming and the ottomans suffered the same downfall due to centralization and economic troubles.
 
@@ -164,6 +164,10 @@ Kennedy said the ming and the ottomans suffered the same downfall due to central
 	- "Merchants ant entrepreneurs (nearly all of whom were foreigners), who earlier had been encouraged, now found themselves subject to unpredictable taxes and outright seizures of property" (Kennedy 12) 
 	- "The mandarins [had] a suspicion of trader" (Kennedy 8)
 	- "[The mandarins] dislike of commerce and private capital [...]" (Kennedy 8)
+
+## Body 1 (choice B)
+### Topic
+Both the Ming and Ottoman empires were technologically and militarily weakened by their faltering economies
 
 ## Body 2
 ### Topic
