@@ -156,7 +156,7 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 Kennedy said the ming and the ottomans suffered the same downfall due to centralization and economic troubles.
 
 ### Evidence
-- "[the ottomans] were to falter strikingly similar Ming decline"
+- "[the ottomans] were to falter [...] strikingly similar Ming decline"
 
 ## Body 2
 ### Topic
