@@ -93,7 +93,10 @@ $V_1 + V_2 = V_b$. — see [[KBhPHYS201CombiningResistors]].
 
 Because of the fact that the middle wire does not carry any changes, it is "neutral" and simply polarized — making $Q_1$ equaling $Q_2.$ 
 
-Why is this? If the middle bit is neutral, the $Q^+$ on one end would equal to the $Q^-$ on the other. Correspondingly, the other side of the plates of the capacitor
+Why is this? If the middle bit is neutral, the $Q^+$ on one end would equal to the $Q^-$ on the other. Correspondingly, the other side of the plates of the capacitor would have the opposite of the same values $Q^-$ and $Q^+$ on the neutral middle plate. 
+
+By the transitive property, $Q_1 = Q_2$.
+
 
 So
 
