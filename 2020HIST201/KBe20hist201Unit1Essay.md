@@ -147,6 +147,8 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 - incompetent leaders
 - doesn't like merchants 
 
+# Outlining
+
 # Sources
 - Bulliet Ottomans
 - Mann ming trade
