@@ -117,6 +117,8 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 - Doc3: silver is scarce (economic deflation)
 - Doc4: portuguese trade silver for goods in China, goods for silver in japan
 - Doc5: more strict economics with silver currency
+- Doc6: spanish silver production
+	- silver mine 
 
 ## Kennedy Bashing on People
 ### Ming
