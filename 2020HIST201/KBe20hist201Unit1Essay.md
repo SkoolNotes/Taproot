@@ -167,11 +167,10 @@ Kennedy said the ming and the ottomans suffered the same downfall due to central
 
 ## Body 1 (choice B)
 ### Topic
-Both the Ming and Ottoman empires suffered from economies weakened by corruption and revolt caused by inflation.
+Both the Ming and Ottoman empires suffered from economies weakened by instability and revolt caused by inflation.
 
-### Evidence - Corruption
-#### Ming
-"kanyinshi who charged a fee for the evaluation and rutinely cheated all parties" (Mann, 138)
+### Evidence
+- "
 
 ## Body 2
 ### Topic
