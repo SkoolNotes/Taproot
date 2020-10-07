@@ -89,7 +89,6 @@ Dividing $V$ out of the previous equations $C_{eq} = C_1 + C_2$.
 
 ![Screen Shot 2020-10-07 at 10.23.08 AM.png](Screen Shot 2020-10-07 at 10.23.08 AM.png)
 
-$V_1 + V_2 = V_b$. — see [[KBhPHYS201CombiningResistors]].
 
 Because of the fact that the middle wire does not carry any changes, it is "neutral" and simply polarized — making $Q_1$ equaling $Q_2.$ 
 
@@ -97,6 +96,7 @@ Why is this? If the middle bit is neutral, the $Q^+$ on one end would equal to t
 
 By the transitive property, $Q_1 = Q_2$.
 
+Because $V_1 + V_2 = V_b$. + $C = \fra — see [[KBhPHYS201CombiningResistors]].
 
 So
 
