@@ -74,7 +74,13 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 	- "technological advantage lost"
 	
 ## Ming
-
+### Smuggled Silver
+#source mann homogenocene
+- The conflict
+	- Spanish government wanted all silver in spain
+	- trading silver and gold in china was more profitable than anywhere else
+- Official sources say 10% silver was smuggled to china
+- Historians assumed no more 
 
 ## Kennedy Bashing on People
 ### Ming
