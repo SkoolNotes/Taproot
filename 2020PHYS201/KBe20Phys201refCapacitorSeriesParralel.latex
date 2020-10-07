@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2649)}}    % original
-%\rhead{\textrmlf{Compiled }\#2649\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2649\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2652)}}    % original
+%\rhead{\textrmlf{Compiled }\#2652\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2652\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -176,8 +176,17 @@
 \begin{itemize}
 \tightlist
 \item
-  In series, capacitors act like resistors in parallel
-  \[\frac{test,test}\]
+  In series, capacitors act like resistors in parallel \[\frac{}\]
+  \#\#\# Capacitors in parallel
+\item
+  In parallel they act like resistors in series
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is because Vbat is going to be equal on both causing them to
+    charge equally and output \[Veq = \]
+  \end{itemize}
 \end{itemize}
 
 \end{document}
