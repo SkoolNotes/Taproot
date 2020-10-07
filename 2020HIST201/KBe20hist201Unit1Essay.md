@@ -151,7 +151,21 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 ## Thesis Ideas
 “kennedy said that the ming and the ottomans suffered the same downfall, and while they did both ultamately struggle due to spanish silver inflation and european traders, the inflationary loop started with emperors in ming china while the ottomans just kinda got stomped + janissaries weren’t vere patriotic”
 
+## Body 1
+### Topic
+Kennedy said the ming and the ottomans suffered the same downfall due to centralization and economic troubles.
 
+### Evidence
+
+## Body 2
+### Topic
+
+### Evidence
+
+## Body 3
+### Topic
+
+### Evidence
 
 # Sources
 - Bulliet Ottomans
