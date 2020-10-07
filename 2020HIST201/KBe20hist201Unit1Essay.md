@@ -88,7 +88,12 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 ### Money Troubles
 #source mann ming trade
 - unreliable state currency lead to merchants using hunks of silver
-	- 
+	- bronze coins too cheap and not enough to go around
+	- paper money easily inflated
+	- new emperors kept outlawing old coins and creating new ones that immediately destabilized
+	- merchants started using small silver ingots
+	
+#### 
 
 ## Kennedy Bashing on People
 ### Ming
