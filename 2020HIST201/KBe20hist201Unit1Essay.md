@@ -111,6 +111,11 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 - Thus, the government had to allow the Fujianese traders
 	- they went around, and found boats of money in the Philippines
 
+### silver trade primary sources
+#source silver trade dbq
+- Doc2: lots of silver was traded through the Philippines
+- Doc3: silver is scarce
+
 ## Kennedy Bashing on People
 ### Ming
 - "sheer conservatism of the Confucian bureaucracy"
