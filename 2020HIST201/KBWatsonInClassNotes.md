@@ -31,7 +31,7 @@ Stormed a castle, exposed the weakness of the empire, whose authority quickly ev
 
 ## Republic? Radical. 
 
-
+Charismatic leaders formed factions 
 
 
 
