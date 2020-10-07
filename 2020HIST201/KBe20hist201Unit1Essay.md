@@ -80,6 +80,7 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 - "dislike of commerce and private capital"
 - restricted technology (canals, clocks, printing)
 - spent money on land and education instead of technology
+
 ### Ottomans
 - "falter, to turn inward, and to lose the chance of world domination"
 - strategical overextension
@@ -88,6 +89,7 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 	- "an idiot sultan could paralyze the ottoman empire in the way that a pope or holy roman emperor could never do for all europe"
 - lack of expansion after 1550 caused Janissaries to turn to internal plunder
 - merchants (many foreign) may be seized
+
 ### Similarities in Kennedy's eyes
 - conservative
 - stopped military expansion/exploration
