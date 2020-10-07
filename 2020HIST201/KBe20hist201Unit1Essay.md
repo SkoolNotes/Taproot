@@ -118,7 +118,9 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 - Doc4: portuguese trade silver for goods in China, goods for silver in japan
 - Doc5: more strict economics with silver currency
 - Doc6: spanish silver production
-	- silver mine 
+	- **silver mine discovered in 1545**
+	- by spanish records, 326000000 coins
+		- **does not include smuggling!**
 
 ## Kennedy Bashing on People
 ### Ming
