@@ -68,3 +68,8 @@ As you start to charge a capacitor, the current starts at $\frac{V_b}{R}$ — cu
 
 \definition[where $V_b$ is the battery voltage, $t$ is time elapsed, $R$ is resistance, and $C$ is the capacitance]{Voltage before and after a capacitor as you charge a capacitor}{$V(t) = V_b \times (1 - e^{\frac{-t}{RC}})$} 
 
+#disorganized 
+
+## Capacitors in series and parallel
+![Screen Shot 2020-10-07 at 10.20.06 AM.png](Screen Shot 2020-10-07 at 10.20.06 AM.png)
+
