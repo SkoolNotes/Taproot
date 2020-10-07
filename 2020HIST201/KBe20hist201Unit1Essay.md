@@ -151,7 +151,7 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 ## Thesis Ideas
 “kennedy said that the ming and the ottomans suffered the same downfall, and while they did both ultamately struggle due to spanish silver inflation and european traders, the inflationary loop started with emperors in ming china while the ottomans just kinda got stomped + janissaries weren’t vere patriotic”
 
-Although the economies of both the Ottoman and Ming empires suffered due to spiraling inflation and European trade, their misfortunes were not as similar as Kennedy suggests: the Ottomans overstretched military was undermined by Europeans trading silver, while the Ming internal inflation spiral was saved .
+Although the economies of both the Ottoman and Ming empires suffered spiraling inflation  European trade, their misfortunes were not as similar as Kennedy suggests: the Ottomans overstretched military was undermined by Europeans trading silver, while the Ming internal inflation spiral forced trade with Europeans.
 
 ## Body 1
 ### Topic
