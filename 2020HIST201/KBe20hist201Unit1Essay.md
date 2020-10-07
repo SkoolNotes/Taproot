@@ -163,6 +163,7 @@ Kennedy said the ming and the ottomans suffered the same downfall due to central
 - "dislike trade" similarities
 	- "Merchants ant entrepreneurs (nearly all of whom were foreigners), who earlier had been encouraged, now found themselves subject to unpredictable taxes and outright seizures of property" (Kennedy 12) 
 	- "The mandarins [had] a suspicion of trader" (Kennedy 8)
+	- "[The mandarins] dislike of commerce and private capital [...]" (Kennedy 8)
 
 ## Body 2
 ### Topic
