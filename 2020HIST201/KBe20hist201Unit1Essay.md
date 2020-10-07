@@ -116,6 +116,7 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 - Doc2: lots of silver was traded through the Philippines
 - Doc3: silver is scarce (economic deflation)
 - Doc4: portuguese trade silver for goods in China, goods for silver in japan
+- Doc5: more strict economics with silver currency
 
 ## Kennedy Bashing on People
 ### Ming
