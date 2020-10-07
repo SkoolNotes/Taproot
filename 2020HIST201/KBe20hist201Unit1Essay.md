@@ -148,7 +148,6 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 - doesn't like merchants 
 
 
-
 # Sources
 - Bulliet Ottomans
 - Mann ming trade
