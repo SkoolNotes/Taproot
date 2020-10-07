@@ -72,6 +72,9 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 	- were more likely to take bribes and "other forms of corruption"
 	- lead to declining military -> embarrassing treaties -> Treaty of Küchük Kay-narja (1774) -> Russia meddling with ottoman politics
 	- "technological advantage lost"
+	
+## Ming
+
 
 ## Kennedy Bashing on People
 ### Ming
@@ -96,7 +99,6 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 - incompetent leaders
 - doesn't like merchants 
 
-## 
 
 
 # Sources
