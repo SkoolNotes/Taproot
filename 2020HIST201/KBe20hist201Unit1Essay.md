@@ -85,6 +85,9 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 	- New research argues that smuggling took maybe half of silver to china
 - implications
 	- was the economy driven by european expansion or chinese demand?
+### Money Troubles
+#source mann ming trade
+- 
 
 ## Kennedy Bashing on People
 ### Ming
