@@ -115,6 +115,7 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 #source silver trade dbq
 - Doc2: lots of silver was traded through the Philippines
 - Doc3: silver is scarce (economic deflation)
+- Doc4: portuguese trade silver for goods in China, goods for silver in japan
 
 ## Kennedy Bashing on People
 ### Ming
