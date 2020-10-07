@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2589)}}    % original
-%\rhead{\textrmlf{Compiled }\#2589\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2589\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2590)}}    % original
+%\rhead{\textrmlf{Compiled }\#2590\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2590\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -198,7 +198,7 @@ Stormed a castle, exposed the weakness of the empire, whose authority
 quickly evaporated
 
 \hypertarget{republic-radical.}{%
-\subsection{Republic? Radical.}\label{republic-radical.}}
+\subsubsection{Republic? Radical.}\label{republic-radical.}}
 
 Charismatic leaders formed factions
 
