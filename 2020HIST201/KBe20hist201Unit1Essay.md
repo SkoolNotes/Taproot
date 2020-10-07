@@ -121,6 +121,7 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 	- **silver mine discovered in 1545**
 	- by spanish records, 326000000 coins
 		- **does not include smuggling!**
+- Doc7: ming official asks to repeal trade ban for much profit
 
 ## Kennedy Bashing on People
 ### Ming
