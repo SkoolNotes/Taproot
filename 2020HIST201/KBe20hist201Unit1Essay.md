@@ -106,7 +106,8 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 - Chinese silver mines ran dry, needed source from other places
 	- japan, kinda
 	- wokou, traded a bit of silver for many goods (much silk and porcelain)
-- 
+- wokou silver -> business people -> taxes -> government -> military -> attacks on wokou
+	- "The ming government was at war with its own money supply"
 
 ## Kennedy Bashing on People
 ### Ming
