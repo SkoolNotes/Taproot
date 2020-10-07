@@ -108,6 +108,8 @@ source:  2020HIST201/KBHistoryMasterIndex.md
 	- wokou, traded a bit of silver for many goods (much silk and porcelain)
 - wokou silver -> business people -> taxes -> government -> military -> attacks on wokou
 	- "The ming government was at war with its own money supply"
+- Thus, the government had to allow the Fujianese traders
+	- they went around, and found boats of money in the Philippines
 
 ## Kennedy Bashing on People
 ### Ming
