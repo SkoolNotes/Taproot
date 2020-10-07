@@ -71,6 +71,8 @@ As you start to charge a capacitor, the current starts at $\frac{V_b}{R}$ — cu
 #disorganized 
 
 ## Capacitors in series and parallel
+Helpful to see: [[KBhPHYS201CombiningResistors]]
+
 ![Screen Shot 2020-10-07 at 10.20.06 AM.png](Screen Shot 2020-10-07 at 10.20.06 AM.png) 
 
 $Q_{tot} = Q_1 + Q_2$.
@@ -79,5 +81,9 @@ And, because of the fact that $C = \frac{Q}{V}$, $V\times C_{eq} = V \times C_1 
 
 Dividing $V$ out of the previous equations $C_{eq} = C_1 + C_2$.
 
-**Capacitors in parallel act like [[resistor
+**Capacitors in parallel act like resistors in parallel.**
+
+![[Screen Shot 2020-10-07 at 10.23.08 AM.png]]
+
+$V_1 + V_2 = V_b$. — see [[KBhPHYS201CombiningResistors]]
 
