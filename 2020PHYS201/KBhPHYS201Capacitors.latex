@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2648)}}    % original
-%\rhead{\textrmlf{Compiled }\#2648\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2648\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2649)}}    % original
+%\rhead{\textrmlf{Compiled }\#2649\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2649\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -310,8 +310,9 @@ the plates of the capacitor would have the opposite of the same values
 
 By the transitive property, \(Q_1 = Q_2\).
 
-Because \(V_1 + V_2 = V_b\). + \$C = \fra --- see
-{[}{[}KBhPHYS201CombiningResistors{]}{]}.
+Because \(V_1 + V_2 = V_b\) --- see
+{[}{[}KBhPHYS201CombiningResistors{]}{]} + \(C = \frac{Q}{V}\) ,
+\$\frac{Q_1}{V} + \frac{Q_2}{V} = \textbackslash frac\{Q\_\{tot\}
 
 So
 

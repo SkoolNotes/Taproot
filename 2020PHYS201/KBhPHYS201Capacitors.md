@@ -96,7 +96,7 @@ Why is this? If the middle bit is neutral, the $Q^+$ on one end would equal to t
 
 By the transitive property, $Q_1 = Q_2$.
 
-Because $V_1 + V_2 = V_b$. + $C = \fra — see [[KBhPHYS201CombiningResistors]].
+Because $V_1 + V_2 = V_b$ — see [[KBhPHYS201CombiningResistors]] + $C = \frac{Q}{V}$ , $\frac{Q_1}{V} + \frac{Q_2}{V} = \frac{Q_{tot}}{V}$
 
 So
 
