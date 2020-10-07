@@ -98,5 +98,7 @@ By the transitive property, $Q_1 = Q_2$.
 
 Because $V_1 + V_2 = V_b$ — see [[KBhPHYS201CombiningResistors]] & $C = \frac{Q}{V}$ , $\frac{Q_1}{V} + \frac{Q_2}{V} = \frac{Q_{tot}}{V}$.
 
+Given $Q_1 = Q_2$.
+
 So
 
