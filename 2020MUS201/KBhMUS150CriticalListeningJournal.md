@@ -289,4 +289,4 @@ source: KBhMUS150D1
 - Vocals EQed to be waay far away
 - Drum beats ducks to base
 - House florishes
-- Break in music
+- Break in music emphasizes drum pattern
