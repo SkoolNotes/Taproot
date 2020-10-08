@@ -281,5 +281,6 @@ source: KBhMUS150D1
 - Impactful background drum beat + claps
 - Uniquely musical vocals — lead synth is... vocals?
 - A little unmixed?
+- Background wobble adds depth to base track
 - 
 
