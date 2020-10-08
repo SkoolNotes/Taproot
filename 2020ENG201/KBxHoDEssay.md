@@ -105,6 +105,7 @@ Can be applied to the European culture / colonialist movement at large.
 			- not about truth, about appearance. 
 				- applies to conrad's view on European culture / colonialism 
 	- This action stems from placing inherent value in ideas, devoid of context. 
+	- idea bcomnes mental model not ties to reality 
 	
 - p2: torch
 	- the torch is being used simply for the sake of using a torch, for the idea of using a torch
