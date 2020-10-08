@@ -43,6 +43,7 @@ source:  2020MATH530/KBe2020math530floIndex.md
 
 ### The span is $U_1+U_2$
 - Because it's a double containment
-	- $U_1+U_2$ contains the span because
+	- $span \subset U_1+U_2$
+	- $v \in span \implies v = a_1u_1 + \ldots + a_mb_m + b_1v_1 + \dots$
 
 ---
