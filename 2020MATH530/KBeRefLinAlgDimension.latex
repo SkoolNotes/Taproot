@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2681)}}    % original
-%\rhead{\textrmlf{Compiled }\#2681\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2681\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2682)}}    % original
+%\rhead{\textrmlf{Compiled }\#2682\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2682\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -171,6 +171,12 @@
 
 \hypertarget{definition-dimension}{%
 \section{\#definition dimension}\label{definition-dimension}}
+
+\begin{quote}
+The dimension of \(V\) is the length of a basis in \(V\) - This relies
+on Axler2.25: Basis length does not depend on the basis Any two bases of
+a finite-dimensional vector space have the same length
+\end{quote}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
