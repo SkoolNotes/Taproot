@@ -282,5 +282,9 @@ source: KBhMUS150D1
 - Uniquely musical vocals — lead synth is... vocals?
 - A little unmixed?
 - Background wobble adds depth to base track
-- 
 
+**Genevive - Unfinished**
+
+- House feeling?
+- Vocals EQed to be waay far away
+- 

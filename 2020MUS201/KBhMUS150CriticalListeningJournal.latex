@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2718)}}    % original
-%\rhead{\textrmlf{Compiled }\#2718\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2718\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2719)}}    % original
+%\rhead{\textrmlf{Compiled }\#2719\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2719\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -708,7 +708,6 @@ vocals - Heavily filtered base - Syncth accenturated vocals
   A little unmixed?
 \item
   Background wobble adds depth to base track
-\item
 \end{itemize}
 
 \end{document}
