@@ -22,4 +22,6 @@ source:  2020MATH530/KBe2020math530index.md
 > All linearly independent lists of the length $\text{dim }V$ are bases.
 - Intuitive. If it's already linearly independent meaning each element brings "new information", then if there's that many elements then there should be that much information.
 
+## 
+
 ---
