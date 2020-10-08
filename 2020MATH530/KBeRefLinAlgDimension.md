@@ -22,6 +22,8 @@ source:  2020MATH530/KBe2020math530index.md
 > All linearly independent lists of the length $\text{dim }V$ are bases.
 - Intuitive. If it's already linearly independent meaning each element brings "new information", then if there's that many elements then there should be that much information.
 
-## 
+## Axler2.43 Dimension of a sum
+> If $U_1$ and $U_2$ are subspaces of a finite dimensional vecspace, then
+> $$\text{dim(U_1+U_2)} = \text{dim }U_1 + \text{dim }U_2 - \text{dim }U_1\ucup
 
 ---

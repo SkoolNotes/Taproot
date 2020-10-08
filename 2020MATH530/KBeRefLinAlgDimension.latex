@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2692)}}    % original
-%\rhead{\textrmlf{Compiled }\#2692\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2692\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2694)}}    % original
+%\rhead{\textrmlf{Compiled }\#2694\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2694\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -205,8 +205,15 @@ brings ``new information'', then if there's that many elements then
 there should be that much information.
 \end{quote}
 
-\hypertarget{section}{%
-\subsection{}\label{section}}
+\hypertarget{axler2.43-dimension-of-a-sum}{%
+\subsection{Axler2.43 Dimension of a
+sum}\label{axler2.43-dimension-of-a-sum}}
+
+\begin{quote}
+If \(U_1\) and \(U_2\) are subspaces of a finite dimensional vecspace,
+then \$\$\text{dim(U_1+U_2)} = \text{dim }U\_1 + \text{dim }U\_2 -
+\text{dim }U\_1\ucup
+\end{quote}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
