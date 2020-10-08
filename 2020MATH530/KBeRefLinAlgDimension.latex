@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2686)}}    % original
-%\rhead{\textrmlf{Compiled }\#2686\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2686\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2687)}}    % original
+%\rhead{\textrmlf{Compiled }\#2687\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2687\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -191,7 +191,15 @@ If \(V\) is finite-dimensional and \(U\) is a subspace of \(V\), then
 \(\text{dim }U \le \text{dim }V\) - Intuitive. The basis of a subspace
 is shorter than the basis of the original vecspace, because otherwise
 it's span would be larger than the original vecspace (because bases are
-linearly independent).
+linearly independent + len lin-indep \(\le\) len span).
+\end{quote}
+
+\hypertarget{axler2.39-linearly-independent-list-of-the-right-length-is-a-basis}{%
+\subsection{Axler2.39 Linearly independent list of the right length is a
+basis}\label{axler2.39-linearly-independent-list-of-the-right-length-is-a-basis}}
+
+\begin{quote}
+All lists of the length \(\text{dim }V\) are finite dimensional.
 \end{quote}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}

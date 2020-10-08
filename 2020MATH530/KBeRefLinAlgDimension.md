@@ -18,4 +18,7 @@ source:  2020MATH530/KBe2020math530index.md
 > If $V$ is finite-dimensional and $U$ is a subspace of $V$, then $\text{dim }U \le \text{dim }V$
 - Intuitive. The basis of a subspace is shorter than the basis of the original vecspace, because otherwise it's span would be larger than the original vecspace (because bases are linearly independent + len lin-indep $\le$ len span).
 
+## Axler2.39 Linearly independent list of the right length is a basis
+> All linearly independent lists of the length $\text{dim }V$ are bases.
+
 ---
