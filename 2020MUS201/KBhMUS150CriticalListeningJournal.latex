@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2721)}}    % original
-%\rhead{\textrmlf{Compiled }\#2721\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2721\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2722)}}    % original
+%\rhead{\textrmlf{Compiled }\#2722\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2722\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -724,6 +724,15 @@ vocals - Heavily filtered base - Syncth accenturated vocals
   House florishes
 \item
   Break in music emphasizes drum pattern
+\end{itemize}
+
+\textbf{4 leaf clover}
+
+\begin{itemize}
+\tightlist
+\item
+  Floor to the floor beats
+\item
 \end{itemize}
 
 \end{document}
