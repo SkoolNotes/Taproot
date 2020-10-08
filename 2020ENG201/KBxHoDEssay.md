@@ -140,7 +140,8 @@ TODO: change "idea" to something like "form over content"
 		- feeble screech -- and nothing happened. Nothing could happen
 			- solidifying that it is just about the idea, not about reality
 		- Momentary contact with reality
-			- the ship is not in reality (doi)
+			- yes, but! 
+				- the ship is not in reality (doi)
 
 - conclusion:
 	- its all about the true nature of colonialism! 
