@@ -19,6 +19,6 @@ source:  2020MATH530/KBe2020math530floIndex.md
 - You can't understand a vector space just by knowing the vectors inside
 	- you also need to know the field that you are in
 	- See 2.A ex5
-- The field that you are over changes your dimension: usually we think of $\mathbb{C}$ as a vector space over $\mathbb{R}$
+- The field that you are over changes your dimension: usually we think of $\mathbb{C}$ as a vector space over $\mathbb{R}$, but in this class we think of it as over $\mathbb{C}$, which means $\text{dim }\mathbb{C} = 1$
 
 ---
