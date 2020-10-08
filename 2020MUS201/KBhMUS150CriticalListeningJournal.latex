@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2723)}}    % original
-%\rhead{\textrmlf{Compiled }\#2723\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2723\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2724)}}    % original
+%\rhead{\textrmlf{Compiled }\#2724\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2724\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -734,6 +734,13 @@ vocals - Heavily filtered base - Syncth accenturated vocals
   Floor to the floor beats
 \item
   Vocals slightly off tune
+\end{itemize}
+
+\textbf{Captain Stupido}
+
+\begin{itemize}
+\tightlist
+\item
 \end{itemize}
 
 \end{document}
