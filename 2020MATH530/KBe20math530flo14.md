@@ -43,6 +43,6 @@ source:  2020MATH530/KBe2020math530floIndex.md
 
 ### The span is $U_1+U_2$
 - Because it's a double containment
-	- Span 
+	- $U_1+U_2$ contains the span because the pieces 
 
 ---
