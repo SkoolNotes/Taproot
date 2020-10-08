@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{ MathLinear Algebra20math530 }
-\newcommand{\thelesson}{ Span of linear combinations }
+\newcommand{\thelesson}{ Span of vector lists }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2592)}}    % original
-%\rhead{\textrmlf{Compiled }\#2592\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2592\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2698)}}    % original
+%\rhead{\textrmlf{Compiled }\#2698\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2698\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -166,6 +166,8 @@
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=KBe20math530refVectorSpace}{\tiny\textulf{[[}\textbf{KBe20math530refVectorSpace}\textulf{]]}}}\thinspace
+
+\#source Axler2.A
 
 \hypertarget{definition-span}{%
 \section{\#definition span}\label{definition-span}}

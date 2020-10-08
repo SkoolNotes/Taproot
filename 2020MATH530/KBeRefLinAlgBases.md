@@ -5,7 +5,7 @@ author:  Exr0n
 source:  2020MATH530/KBe2020math530index.md
 ---
 
-#src Axler "Linear Algebra Done Right" chapter 2.B
+#source Axler "Linear Algebra Done Right" chapter 2.B
 
 #flo #ref
 #disorganized #incomplete

@@ -1,5 +1,5 @@
 ---
-title:   Span of linear combinations
+title:   Span of vector lists
 context: 
 	- Math
 	- Linear Algebra
@@ -7,6 +7,8 @@ context:
 author:  Exr0n
 source:  KBe20math530refVectorSpace
 ---
+
+#source Axler2.A
 
 # #definition span
 > The set of all linear combinations of a list of vectors $v_1, ..., v_m$ in $V$ is called the span of $v_1, ..., v_m$, denoted $\text{span}(v_1,...,v_m)$:
