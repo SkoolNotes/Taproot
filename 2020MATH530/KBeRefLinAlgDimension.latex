@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2684)}}    % original
-%\rhead{\textrmlf{Compiled }\#2684\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2684\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2685)}}    % original
+%\rhead{\textrmlf{Compiled }\#2685\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2685\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -177,6 +177,18 @@ The dimension of \(V\) (denoted \(\text{dim }V\) is the length of a
 basis in \(V\) - This relies on Axler2.35: Basis length does not depend
 on the basis Any two bases of a finite-dimensional vector space have the
 same length
+\end{quote}
+
+\hypertarget{results}{%
+\subsection{Results}\label{results}}
+
+\hypertarget{axler2.38-dimension-of-a-subspace}{%
+\subsection{Axler2.38 Dimension of a
+subspace}\label{axler2.38-dimension-of-a-subspace}}
+
+\begin{quote}
+If \(V\) is finite-dimensional and \(U\) is a subspace of \(V\), then
+\(\text{dim }U \le \text{dim }V\)
 \end{quote}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
