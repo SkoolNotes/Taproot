@@ -115,6 +115,8 @@ Can be applied to the European culture / colonialist movement at large.
 		- background was somber
 			- claims to be seeing the somberness, but is blind to the true sadness and of their situation
 		- movement was stately 
+			- stately, like the state (doi) 
+				- positions the woman as representing the colonists / europe 
 			- painted by kurtz pre-trip, reflects those views? 
 			- majestic, yet blinded. another bit of justaposition? 
 		- the effect of the torchlight was sinister
