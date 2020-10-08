@@ -41,4 +41,8 @@ source:  2020MATH530/KBe2020math530floIndex.md
 - Usually easiest to get a basis of a subspace by building on instead of taking out
 	- for example if you have a slanty plane in 3 space, and you start with standard basis, then you won't even get the slanty plane.
 
+### The span is $U_1+U_2$
+- Because it's a double containment
+	- Span 
+
 ---

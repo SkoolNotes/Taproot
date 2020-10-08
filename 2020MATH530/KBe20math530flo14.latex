@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2746)}}    % original
-%\rhead{\textrmlf{Compiled }\#2746\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2746\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2748)}}    % original
+%\rhead{\textrmlf{Compiled }\#2748\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2748\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,32 +179,22 @@
 \item
   Mini quiz, stop yourself after an hour
 \item
-  and give your subconscious a chance to think about things \# \#icr
-  Axler2.C \#source Axler Linear Algebra Done Right 2.C \#\# Polynomials
-  are vectors
-
-  \begin{itemize}
-  \tightlist
-  \item
-    because you can add and scale them and they are kind of nice in
-    general \#\# The box under 2.38
-  \end{itemize}
+  and give your subconscious a chance to think about things
 \item
-  You can't understand a vector space just by knowing the vectors inside
-
-  \begin{itemize}
-  \tightlist
-  \item
-    you also need to know the field that you are in
-  \item
-    See 2.A ex5
-  \end{itemize}
-\item
-  The field that you are over changes your dimension: usually we think
-  of \(\mathbb{C}\) as a vector space over \(\mathbb{R}\), but in this
-  class we think of it as over \(\mathbb{C}\), which means
-  \(\text{dim }\mathbb{C} = 1\)
+  \textbf{No need to say ``clearly'', ``obviously'', ``evidently''}
 \end{itemize}
+
+\hypertarget{icr-axler2.c}{%
+\section{\#icr Axler2.C}\label{icr-axler2.c}}
+
+\#source Axler Linear Algebra Done Right 2.C \#\# Polynomials are
+vectors - because you can add and scale them and they are kind of nice
+in general \#\# The box under 2.38 - You can't understand a vector space
+just by knowing the vectors inside - you also need to know the field
+that you are in - See 2.A ex5 - The field that you are over changes your
+dimension: usually we think of \(\mathbb{C}\) as a vector space over
+\(\mathbb{R}\), but in this class we think of it as over \(\mathbb{C}\),
+which means \(\text{dim }\mathbb{C} = 1\)
 
 \hypertarget{axler2.41}{%
 \subsection{Axler2.41}\label{axler2.41}}
@@ -264,6 +254,22 @@ Sum}\label{axler2.43-dimension-of-a-sum}}
   \item
     for example if you have a slanty plane in 3 space, and you start
     with standard basis, then you won't even get the slanty plane.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{the-span-is-u_1u_2}{%
+\subsubsection{\texorpdfstring{The span is
+\(U_1+U_2\)}{The span is U\_1+U\_2}}\label{the-span-is-u_1u_2}}
+
+\begin{itemize}
+\tightlist
+\item
+  Because it's a double containment
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Span
   \end{itemize}
 \end{itemize}
 
