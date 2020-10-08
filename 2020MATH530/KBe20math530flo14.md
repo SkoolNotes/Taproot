@@ -26,4 +26,8 @@ source:  2020MATH530/KBe2020math530floIndex.md
 ## Axler2.41
 - It's my question! See [[KBe20math530floQuestions]]
 
+## Axler2.42
+- #tip If it's a spanning list that's the right length, then it's a basis and therefore linearly independent.
+- If it's a linearly independent list and it's the right length, then it's a basis and therefore spanning.
+
 ---
