@@ -296,6 +296,7 @@ source: KBhMUS150D1
  - Floor to the floor beats
  - Vocals slightly off tune
  
- **Captain Stupido**
+ **Thundercat**
  
+ - Folksy?
  - 
