@@ -279,5 +279,7 @@ source: KBhMUS150D1
 
 - Balese instruments?
 - Impactful background drum beat + claps
+- Uniquely musical vocals — lead synth is... vocals?
+- A little unmixed?
 - 
 
