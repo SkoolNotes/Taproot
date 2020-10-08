@@ -1,9 +1,11 @@
 ---
-title:   Linear Algebra Dimensions
+title:   Linear Algebra Dimensions (Axler 2.C)
 context: Linear Algebra
 author:  Exr0n
 source:  2020MATH530/KBe2020math530index.md
 ---
+
+#source Axler2.C
 
 #ref
 #disorganized #incomplete
