@@ -13,5 +13,7 @@ source:  2020MATH530/KBe2020math530floIndex.md
 - Mini quiz, stop yourself after an hour
 - and give your subconscious a chance to think about things
 # #icr Axler2.C
+- Polynomials are vectors
+	- because you can add and scale them and they are kind of nice in general
 
 ---
