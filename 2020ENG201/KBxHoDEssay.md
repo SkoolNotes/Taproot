@@ -99,6 +99,8 @@ Can be applied to the European culture / colonialist movement at large.
 		- smoking my pipe quietly
 			- indifferent passive. 
 				- about futility? passive mentioning being used to signal to the broader theme? 
+			- fire contained vs fire uncontained
+				- 
 		- "splendidly, splendidly" 
 			- not about truth, about appearance. 
 				- applies to conrad's view on European culture / colonialism 
