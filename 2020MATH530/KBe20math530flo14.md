@@ -35,6 +35,8 @@ source:  2020MATH530/KBe2020math530floIndex.md
 - If you have two planes in 3 space, and they intersect at exactly one line, then you can't just add the dimension of the two planes (2+2 = 4 which is more than 3 space can allow). 
 	- If the planes are parallel, and both subspaces, then we know they both go through the origin and thus are the same plane. 
 	
-### 
+### Some tips
+- Usually easiest to get a basis of a subspace by building on instead of taking out
+	- for example if you have a slanty plane in 3 space, and you start with standard basis, then you won't even get the slanty plane.
 
 ---
