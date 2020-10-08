@@ -23,4 +23,7 @@ source:  2020MATH530/KBe2020math530floIndex.md
 	- See 2.A ex5
 - The field that you are over changes your dimension: usually we think of $\mathbb{C}$ as a vector space over $\mathbb{R}$, but in this class we think of it as over $\mathbb{C}$, which means $\text{dim }\mathbb{C} = 1$
 
+## Axler2.41
+- It's my question! See [[KBe20math530floQuestions]]
+
 ---
