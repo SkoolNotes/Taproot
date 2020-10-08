@@ -32,6 +32,7 @@ source:  2020MATH530/KBe2020math530floIndex.md
 
 ## Axler2.43 Dimension of a Sum
 ### An Example
-- If you have two planes 
+- If you have two planes in 3 space, and they intersect at exactly one line, then you can't just add the dimension of the two planes (2+2 = 4 which is more than 3 space can allow). 
+	- If the planes are parallel, and both subspaces, then we know they both go through the origin and thus are the same plane. 
 
 ---

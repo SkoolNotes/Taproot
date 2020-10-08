@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2743)}}    % original
-%\rhead{\textrmlf{Compiled }\#2743\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2743\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2744)}}    % original
+%\rhead{\textrmlf{Compiled }\#2744\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2744\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -238,7 +238,16 @@ Sum}\label{axler2.43-dimension-of-a-sum}}
 \begin{itemize}
 \tightlist
 \item
-  If you have two planes
+  If you have two planes in 3 space, and they intersect at exactly one
+  line, then you can't just add the dimension of the two planes (2+2 = 4
+  which is more than 3 space can allow).
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If the planes are parallel, and both subspaces, then we know they
+    both go through the origin and thus are the same plane.
+  \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
