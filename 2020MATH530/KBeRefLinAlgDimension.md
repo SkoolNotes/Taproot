@@ -25,5 +25,6 @@ source:  2020MATH530/KBe2020math530index.md
 ## Axler2.43 Dimension of a sum
 > If $U_1$ and $U_2$ are subspaces of a finite dimensional vecspace, then
 > $$\text{dim}(U_1+U_2) = \text{dim }U_1 + \text{dim }U_2 - \text{dim}(U_1\cap U_2)$$
+- This inducts into something analogous to PIE! [[KBrefPrincipleInclusionExclusion]]
 
 ---
