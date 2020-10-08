@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2687)}}    % original
-%\rhead{\textrmlf{Compiled }\#2687\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2687\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2688)}}    % original
+%\rhead{\textrmlf{Compiled }\#2688\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2688\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -199,7 +199,10 @@ linearly independent + len lin-indep \(\le\) len span).
 basis}\label{axler2.39-linearly-independent-list-of-the-right-length-is-a-basis}}
 
 \begin{quote}
-All lists of the length \(\text{dim }V\) are finite dimensional.
+All linearly independent lists of the length \(\text{dim }V\) are bases.
+- Intuitive. If it's already linearly independent meaning each element
+brings ``new information'', then if there's that many elements then
+there should be that much information.
 \end{quote}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}

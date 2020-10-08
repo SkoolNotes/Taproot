@@ -20,5 +20,6 @@ source:  2020MATH530/KBe2020math530index.md
 
 ## Axler2.39 Linearly independent list of the right length is a basis
 > All linearly independent lists of the length $\text{dim }V$ are bases.
+- Intuitive. If it's already linearly independent meaning each element brings "new information", then if there's that many elements then there should be that much information.
 
 ---
