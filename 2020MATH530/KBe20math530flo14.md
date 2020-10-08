@@ -31,5 +31,7 @@ source:  2020MATH530/KBe2020math530floIndex.md
 - If it's a linearly independent list and it's the right length, then it's a basis and therefore spanning.
 
 ## Axler2.43 Dimension of a Sum
+### An Example
+- 
 
 ---
