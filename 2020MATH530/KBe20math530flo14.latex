@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2744)}}    % original
-%\rhead{\textrmlf{Compiled }\#2744\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2744\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2745)}}    % original
+%\rhead{\textrmlf{Compiled }\#2745\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2745\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -249,6 +249,9 @@ Sum}\label{axler2.43-dimension-of-a-sum}}
     both go through the origin and thus are the same plane.
   \end{itemize}
 \end{itemize}
+
+\hypertarget{section}{%
+\subsubsection{}\label{section}}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
