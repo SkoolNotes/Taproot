@@ -121,6 +121,7 @@ Can be applied to the European culture / colonialist movement at large.
 			- majestic, yet blinded. another bit of justaposition? 
 		- the effect of the torchlight was sinister
 			- again, kurtz pre-trip. The truth is sinister, scary. 
+			- 
 
 - p3: ship
 	- fires at a supposed enemy, which doesn't exist (doesn't matter if it exists, it's irrelevant)
