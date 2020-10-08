@@ -45,6 +45,6 @@ source:  2020MATH530/KBe2020math530floIndex.md
 - Because it's a double containment
 	- $span \subset U_1+U_2$
 	- $v \in span \implies v = a_1u_1 + \ldots + a_mb_m + b_1v_1 + \dots$
-	- For all $u$ in the span, you can write it as something in $U_1$ + something in $U_2$
+	- For all $u$. in the span, you can write it as something in $U_1$ + something in $U_2$
 
 ---
