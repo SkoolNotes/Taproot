@@ -145,6 +145,8 @@ TODO: change "idea" to something like "form over content"
 
 - conclusion:
 	- its all about the true nature of colonialism! 
+		- that its a misplaced attempt to do what worked in one context that doesnr work in another
+		- > mindless aplication of processs
 
 
 

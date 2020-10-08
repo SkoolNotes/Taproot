@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2710)}}    % original
-%\rhead{\textrmlf{Compiled }\#2710\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2710\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2711)}}    % original
+%\rhead{\textrmlf{Compiled }\#2711\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2711\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -556,6 +556,16 @@ TODO: change ``idea'' to something like ``form over content''
   \tightlist
   \item
     its all about the true nature of colonialism!
+
+    \begin{itemize}
+    \item
+      that its a misplaced attempt to do what worked in one context that
+      doesnr work in another
+    \item
+      \begin{quote}
+      mindless aplication of processs
+      \end{quote}
+    \end{itemize}
   \end{itemize}
 \item
   looser
