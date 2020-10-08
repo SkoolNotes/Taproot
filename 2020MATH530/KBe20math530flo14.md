@@ -32,6 +32,6 @@ source:  2020MATH530/KBe2020math530floIndex.md
 
 ## Axler2.43 Dimension of a Sum
 ### An Example
-- 
+- If you have two planes 
 
 ---
