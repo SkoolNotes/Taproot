@@ -11,6 +11,6 @@ source:  KBe20math530refVectorSpace
 	- Linear independence feels somewhat okay, but everything past linear dependence lost me.
 - Axler 2.C
 	- Under example 2.41, near the end, why can't $\text{dim }U$ not equal 4? Why must you be able to expand it by at least one element?
-		- Maybe because there are elements in $\mathcal{P}_m(F)$
+		- Maybe because there are elements in $\mathcal{P}_m(\mathbb{R})$ that aren't in $U$, so the basis of $U$ must be a different length from the basis of $V$ (else $U$ would equal $V$ and all elements of $V$ would be in $U$ by 2.39)
 
 ---

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2690)}}    % original
-%\rhead{\textrmlf{Compiled }\#2690\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2690\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2691)}}    % original
+%\rhead{\textrmlf{Compiled }\#2691\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2691\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -197,7 +197,10 @@
     \begin{itemize}
     \tightlist
     \item
-      Maybe because there are elements in \(\mathcal{P}_m(F)\)
+      Maybe because there are elements in \(\mathcal{P}_m(\mathbb{R})\)
+      that aren't in \(U\), so the basis of \(U\) must be a different
+      length from the basis of \(V\) (else \(U\) would equal \(V\) and
+      all elements of \(V\) would be in \(U\) by 2.39)
     \end{itemize}
   \end{itemize}
 \end{itemize}
