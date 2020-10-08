@@ -105,7 +105,7 @@ Can be applied to the European culture / colonialist movement at large.
 			- not about truth, about appearance. 
 				- applies to conrad's view on European culture / colonialism 
 	- This action stems from placing inherent value in ideas, devoid of context. 
-	- idea bcomnes mental model not ties to reality 
+	- idea becomnes mental model not ties to reality 
 	
 - p2: torch
 	- the torch is being used simply for the sake of using a torch, for the idea of using a torch
@@ -121,7 +121,7 @@ Can be applied to the European culture / colonialist movement at large.
 			- majestic, yet blinded. another bit of justaposition? 
 		- the effect of the torchlight was sinister
 			- again, kurtz pre-trip. The truth is sinister, scary. 
-			- 
+			- the thing that the 
 
 - p3: ship
 	- fires at a supposed enemy, which doesn't exist (doesn't matter if it exists, it's irrelevant)
