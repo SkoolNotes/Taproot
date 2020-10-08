@@ -301,4 +301,5 @@ source: KBhMUS150D1
  - Folksy?
  - Slow and mellow
  - Acoustic instruments (but that's a tinydesk thing.)
- - Naturals and truth ful vocals
+ - Naturals and truth full vocals
+ - Funky music
