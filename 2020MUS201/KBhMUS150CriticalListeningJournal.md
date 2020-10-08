@@ -287,4 +287,6 @@ source: KBhMUS150D1
 
 - House feeling?
 - Vocals EQed to be waay far away
-- 
+- Drum beats ducks to base
+- House florishes
+- Break in music
