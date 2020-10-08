@@ -13,6 +13,8 @@ source:  2020MATH530/KBe2020math530floIndex.md
 - Will present problems from 2.B and/or 2.C next week
 - Mini quiz, stop yourself after an hour
 - and give your subconscious a chance to think about things
+- **No need to say "clearly", "obviously", "evidently"**
+
 # #icr Axler2.C
 #source Axler Linear Algebra Done Right 2.C
 ## Polynomials are vectors

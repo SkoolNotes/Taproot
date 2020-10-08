@@ -11,6 +11,9 @@ source:  2020MATH530/KBe2020math530index.md
 #disorganized #incomplete
 
 # Bases
+## Summary
+If it spans, and it's linearly independent, it's a basis!
+
 ## Axler2.27 #definition basis
 > A *basis* of $V$ is a list of vectors in $V$ that is linearly independent and spans $V$.
 - Basically a linearly independent spanning list, or the "minimum" amount of information contained in a vector space
