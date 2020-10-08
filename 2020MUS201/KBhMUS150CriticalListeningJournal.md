@@ -278,4 +278,6 @@ source: KBhMUS150D1
 **Ritual Union**
 
 - Balese instruments?
+- Impactful background drum beat + claps
+- 
 
