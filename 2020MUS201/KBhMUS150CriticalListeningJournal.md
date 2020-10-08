@@ -272,3 +272,7 @@ source: KBhMUS150D1
 - Signature vocals highlight the tune of the music
 - Sudden transition to dubstep style music
 - During vocals, traditional but still slightly (house?) pattern
+
+# 10082020
+
+
