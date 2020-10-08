@@ -85,7 +85,7 @@ Can be applied to the European culture / colonialist movement at large.
 	
 ## Let's outline, shall we? 
 
-TODO: change "idea" to something like 
+TODO: change "idea" to something like "form over content" 
 
 
 - Intro: Conrad uses ironic imagery in the Heart of Darkness to convey the dangers of placing independent and dissociated value in ideas.  
