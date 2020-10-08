@@ -13,7 +13,12 @@ source:  2020MATH530/KBe2020math530floIndex.md
 - Mini quiz, stop yourself after an hour
 - and give your subconscious a chance to think about things
 # #icr Axler2.C
-- Polynomials are vectors
+## Polynomials are vectors
 	- because you can add and scale them and they are kind of nice in general
+## The box under 2.38 
+- You can't understand a vector space just by knowing the vectors inside
+	- you also need to know the field that you are in
+	- See 2.A ex5
+- The field that you are over changes your dimension: usually we think of $\mathbb{C}$ as a vector space over $\mathbb{R}$
 
 ---

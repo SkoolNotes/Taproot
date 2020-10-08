@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2734)}}    % original
-%\rhead{\textrmlf{Compiled }\#2734\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2734\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2735)}}    % original
+%\rhead{\textrmlf{Compiled }\#2735\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2735\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,16 +180,27 @@
   Mini quiz, stop yourself after an hour
 \item
   and give your subconscious a chance to think about things \# \#icr
-  Axler2.C
-\item
-  Polynomials are vectors
+  Axler2.C \#\# Polynomials are vectors
 
   \begin{itemize}
   \tightlist
   \item
     because you can add and scale them and they are kind of nice in
-    general
+    general \#\# The box under 2.38
   \end{itemize}
+\item
+  You can't understand a vector space just by knowing the vectors inside
+
+  \begin{itemize}
+  \tightlist
+  \item
+    you also need to know the field that you are in
+  \item
+    See 2.A ex5
+  \end{itemize}
+\item
+  The field that you are over changes your dimension: usually we think
+  of \(\mathbb{C}\) as a vector space over \(\mathbb{R}\)
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
