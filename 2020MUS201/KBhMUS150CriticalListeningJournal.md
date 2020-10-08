@@ -296,9 +296,9 @@ source: KBhMUS150D1
  - Floor to the floor beats
  - Vocals slightly off tune
  
- **Thundercat**
+ **Two Songs by Thundercat**
  
  - Folksy?
  - Slow and mellow
  - Acoustic instruments (but that's a tinydesk thing.)
- - 
+ - Naturals and truth ful vocals
