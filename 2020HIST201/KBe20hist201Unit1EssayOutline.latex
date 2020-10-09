@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2802)}}    % original
-%\rhead{\textrmlf{Compiled }\#2802\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2802\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2806)}}    % original
+%\rhead{\textrmlf{Compiled }\#2806\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2806\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -166,7 +166,9 @@
 % DID YOU SET SPELL????
 
 -\/-\/- author: Exr0n title: 20hist201 Unit 1 Essay Outline source:
-KBe20hist201Unit1Essay context: 20hist201 -\/-\/-
+context: 20hist201 -\/-\/-
+
+\href{./KBe20hist201Unit1Essay.md}{file:./KBe20hist201Unit1Essay.md}
 
 e\#+TITLE: 20hist201 Unit 1 Essay Outline e\#+AUTHOR: Exr0n e\#+CONTEXT:
 20hist201
@@ -243,20 +245,17 @@ instability and revolt caused by inflation.
 \hypertarget{ming}{%
 \subsubsection{Ming}\label{ming}}
 
-\begin{itemize}
-\tightlist
+\begin{enumerate}
 \item
   DBQ doc 3
+
+  The
 \item
   Mann inflation ming
 
-  \begin{itemize}
-  \tightlist
-  \item
-    "The entirely unsurprising result was a delirium of smuggling."
-    (Mann 128)
-  \end{itemize}
-\end{itemize}
+  "The entirely unsurprising result was a delirium of smuggling." (Mann
+  128)
+\end{enumerate}
 
 \hypertarget{body-2}{%
 \section{Body 2}\label{body-2}}
