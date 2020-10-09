@@ -19,15 +19,15 @@ for f in ${(@f)changes}; do
     if [[ $formatname == "markdown" ]]; then
         #sed -E -e 's/!\[\[(.+\.(png|jpg))\]\]/![\1](\1)/g' -i '' $f
     fi
-    pandoc -f $formatname -t pdf   $f --pdf-engine=xelatex --mathjax\
+    pandoc -f $formatname -t pdf   $f --pdf-engine=xelatex --mathjax -s\
         --template=~/.pandoc/templates/default.latex -o "${f%.*}.pdf"\
         --resource-path="$f:h" -V BUILDID=$buildid 2>>recent_errors.txt
     printf "1/3:     \r"
     pandoc -f $formatname -t latex $f --pdf-engine=xelatex --mathjax\
-        --template=~/.pandoc/templates/default.latex -o "${f%.*}.latex"\
+        --template=~/.pandoc/templates/default.latex -o "${f%.*}.latex" -s\
         --resource-path="$f:h" -V BUILDID=$buildid 2>>recent_errors.txt
     printf "2/3:     \r"
-    pandoc -f latex -t html "${f%.*}.latex" --pdf-engine=xelatex --mathjax\
+    pandoc -f latex -t html "${f%.*}.latex" --pdf-engine=xelatex --mathjax -s\
         --template=~/.pandoc/templates/default.html  -o "${f%.*}.html"\
         --resource-path="$f:h" -V BUILDID=$buildid 2>>recent_errors.txt
     echo "$(date) Converted $f from $formatname to ${f%.*}.{pdf, latex, html}"
