@@ -18,7 +18,8 @@ source:  2020MATH530/KBe2020math530floIndex.md
 # #icr Axler2.C
 #source Axler Linear Algebra Done Right 2.C
 ## Polynomials are vectors
-	- because you can add and scale them and they are kind of nice in general
+- because you can add and scale them and they are kind of nice in general
+
 ## The box under 2.38 
 - You can't understand a vector space just by knowing the vectors inside
 	- you also need to know the field that you are in

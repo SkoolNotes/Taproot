@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2753)}}    % original
-%\rhead{\textrmlf{Compiled }\#2753\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2753\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2754)}}    % original
+%\rhead{\textrmlf{Compiled }\#2754\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2754\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -189,12 +189,29 @@
 
 \#source Axler Linear Algebra Done Right 2.C \#\# Polynomials are
 vectors - because you can add and scale them and they are kind of nice
-in general \#\# The box under 2.38 - You can't understand a vector space
-just by knowing the vectors inside - you also need to know the field
-that you are in - See 2.A ex5 - The field that you are over changes your
-dimension: usually we think of \(\mathbb{C}\) as a vector space over
-\(\mathbb{R}\), but in this class we think of it as over \(\mathbb{C}\),
-which means \(\text{dim }\mathbb{C} = 1\)
+in general
+
+\hypertarget{the-box-under-2.38}{%
+\subsection{The box under 2.38}\label{the-box-under-2.38}}
+
+\begin{itemize}
+\tightlist
+\item
+  You can't understand a vector space just by knowing the vectors inside
+
+  \begin{itemize}
+  \tightlist
+  \item
+    you also need to know the field that you are in
+  \item
+    See 2.A ex5
+  \end{itemize}
+\item
+  The field that you are over changes your dimension: usually we think
+  of \(\mathbb{C}\) as a vector space over \(\mathbb{R}\), but in this
+  class we think of it as over \(\mathbb{C}\), which means
+  \(\text{dim }\mathbb{C} = 1\)
+\end{itemize}
 
 \hypertarget{axler2.41}{%
 \subsection{Axler2.41}\label{axler2.41}}
