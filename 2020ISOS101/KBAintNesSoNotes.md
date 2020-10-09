@@ -19,7 +19,7 @@ source:  #index
 
 talks about how evolutionary phycology does not talk about variation 
 
-
+and about how its not worth it to explore the roots of behavior 
 
 
 
