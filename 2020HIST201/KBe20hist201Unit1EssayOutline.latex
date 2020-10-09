@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thelesson}{ 20hist201 Unit 1 Essay Outline }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2782)}}    % original
-%\rhead{\textrmlf{Compiled }\#2782\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2782\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2784)}}    % original
+%\rhead{\textrmlf{Compiled }\#2784\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2784\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 \usepackage{color}
@@ -202,6 +202,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
 
 \begin{Shaded}
 \begin{Highlighting}[]
