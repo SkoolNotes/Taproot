@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2771)}}    % original
-%\rhead{\textrmlf{Compiled }\#2771\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2771\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2772)}}    % original
+%\rhead{\textrmlf{Compiled }\#2772\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2772\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -171,10 +171,17 @@
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
+\href{https://www.newyorker.com/magazine/2012/09/17/it-aint-necessarily-so}{Reading}
+
 \hypertarget{well-i-mean-not-necessarily}{%
 \section{\texorpdfstring{Well, I mean, not
 \emph{necessarily}}{Well, I mean, not necessarily}}\label{well-i-mean-not-necessarily}}
 
 (so)
+
+\hypertarget{dscp}{%
+\section{DSCP}\label{dscp}}
+
+talks about how evolutionary phycology does not talk about variation
 
 \end{document}
