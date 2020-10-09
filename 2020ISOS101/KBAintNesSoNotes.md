@@ -21,7 +21,7 @@ talks about how evolutionary phycology does not talk about variation
 
 and about how its not worth it to explore the roots of behavior 
 
-
+This reading talks a lot about the point of evolutionary phycology. 
 
 
 
