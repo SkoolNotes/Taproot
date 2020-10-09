@@ -21,7 +21,7 @@ talks about how evolutionary phycology does not talk about variation
 
 and about how its not worth it to explore the roots of behavior 
 
-This reading talks a lot about the point of evolutionary phycology. 
+this reading talks a lot about the point of evolutionary psychology, claiming that how things came to doesn't matter -- only how things are. Of course, the obvious rebuttal is that through understanding the way things came to be, we can better understand them as they ex
 
 
 
