@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2823)}}    % original
-%\rhead{\textrmlf{Compiled }\#2823\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2823\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2825)}}    % original
+%\rhead{\textrmlf{Compiled }\#2825\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2825\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -169,5 +169,18 @@
 \section{Purpose}\label{purpose}}
 
 Wrist exercises
+
+\hypertarget{exercises}{%
+\section{Exercises}\label{exercises}}
+
+\hypertarget{tendon-glides}{%
+\subsection{Tendon glides}\label{tendon-glides}}
+
+fist then claw then extend tendons
+
+\hypertarget{finger-spreads}{%
+\subsection{Finger Spreads}\label{finger-spreads}}
+
+spread your fingers *
 
 \end{document}
