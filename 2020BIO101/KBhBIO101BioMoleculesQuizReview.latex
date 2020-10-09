@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Bio-Molecules Quiz Review }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2827)}}    % original
-%\rhead{\textrmlf{Compiled }\#2827\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2827\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2828)}}    % original
+%\rhead{\textrmlf{Compiled }\#2828\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2828\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,9 +164,16 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{bio-molecules-quiz-review}{%
+\section{Bio-Molecules Quiz Review}\label{bio-molecules-quiz-review}}
 
-title: Bio-Molecules Quiz Review
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-09 at 11.58.55 AM.png}
+\caption{Screen Shot 2020-10-09 at 11.58.55 AM.png}
+\end{figure}
 
 \end{document}
