@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2769)}}    % original
-%\rhead{\textrmlf{Compiled }\#2769\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2769\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2770)}}    % original
+%\rhead{\textrmlf{Compiled }\#2770\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2770\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -224,14 +224,27 @@
   \item
     Huxley's Take: {[}{[}KBRobustness{]}{]}
   \item
-    Jack's Take: {[}{[}KBhISOS101Robustness{]}{]} Thoughts on
-    {[}{[}KBhowdoweknowwerenotwrong.pdf{]}{]}
+    Jack's Take: {[}{[}KBhISOS101Robustness{]}{]}
+  \end{itemize}
+\item
+  Thoughts on {[}{[}KBhowdoweknowwerenotwrong.pdf{]}{]}
+
+  \begin{itemize}
+  \tightlist
   \item
     Huxley's Take: {[}{[}KBdwkwnwISOSNotes{]}{]}
   \item
-    Jack's Take: {[}{[}KbhISOS101WeAreNotWrong{]}{]} Thoughts on
-    \href{https://www.newyorker.com/magazine/2012/09/17/it-aint-necessarily-so}{It
-    Ain't Necessarily So}
+    Jack's Take: {[}{[}KbhISOS101WeAreNotWrong{]}{]}
+  \end{itemize}
+\item
+  Thoughts on
+  \href{https://www.newyorker.com/magazine/2012/09/17/it-aint-necessarily-so}{It
+  Ain't Necessarily So}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Huxley's Take: {[}{[}KBAintNesSoNotes{]}{]}
   \end{itemize}
 \end{itemize}
 

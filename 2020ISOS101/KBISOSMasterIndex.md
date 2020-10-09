@@ -30,5 +30,6 @@ source: #index
 	* Huxley's Take: [[KBdwkwnwISOSNotes]]
 	* Jack's Take: [[KbhISOS101WeAreNotWrong]]
 * Thoughts on [It Ain't Necessarily So](https://www.newyorker.com/magazine/2012/09/17/it-aint-necessarily-so)
+	* Huxley's Take: [[KBAintNesSoNotes]]
 
 	
