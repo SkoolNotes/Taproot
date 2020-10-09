@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2792)}}    % original
-%\rhead{\textrmlf{Compiled }\#2792\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2792\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2793)}}    % original
+%\rhead{\textrmlf{Compiled }\#2793\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2793\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -171,7 +171,7 @@ source: KBe20hist201Unit1Essay context: 20hist201 \textbackslash---
 e\#+TITLE: 20hist201 Unit 1 Essay Outline e\#+AUTHOR: Exr0n e\#+CONTEXT:
 20hist201
 
-This is attempt two
+This is attempt 4
 
 \hypertarget{thesis-ideas}{%
 \section{Thesis Ideas}\label{thesis-ideas}}
@@ -266,5 +266,7 @@ instability and revolt caused by inflation.
 
 \hypertarget{conclusion}{%
 \section{Conclusion}\label{conclusion}}
+
+---
 
 \end{document}
