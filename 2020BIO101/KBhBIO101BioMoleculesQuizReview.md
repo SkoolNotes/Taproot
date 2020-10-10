@@ -15,7 +15,7 @@ author: Houjun Liu
 
 * *Glucose vs. fructose* — both monosacharrides, one is a 6-carbon ring and one is a 5-carbon ring
 * *Mono vs. di. vs. polysaccharide* — carbohydrates made out of a single, double, and multiple monomer (single-unit) carbohydrates
-* *Starch vs. glycogen vs. cellulose* — 
+* *Starch vs. glycogen vs. cellulose* — lots of alpha glucose, lots
 
 ## Helpful review items
 
