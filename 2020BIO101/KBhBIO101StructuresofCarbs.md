@@ -21,6 +21,7 @@ General chemical formula: $C_n H_{2n} O$
 
 ## Basic Monomers
 - Glucose: ring of 6 carbons
+- Fructose: ring of 5 carbons
 
 ## The mer-library
 
