@@ -22,6 +22,7 @@ author: Houjun Liu
 		* Cellulose — cell wall in plants
 * Set 2, lipids. See Luke De's video + [[KBhBIO101Lipids]]
 	* *Triglyceride vs. fatty acid vs. phosophilid*
+		* Glycerol => three fatty acid together
 		* 
 
 ## Helpful review items
