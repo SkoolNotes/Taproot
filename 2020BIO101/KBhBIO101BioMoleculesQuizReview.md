@@ -20,7 +20,8 @@ author: Houjun Liu
 		* Starch — plant food reserve
 		* Glycogen — animal energy reserve
 		* Cellulose — cell wall in plants
-	* *Triglyceride vs. fatty acid vs. phosophilid* 
+	* *Triglyceride vs. fatty acid vs. phosophilid*
+		* 
 
 ## Helpful review items
 
