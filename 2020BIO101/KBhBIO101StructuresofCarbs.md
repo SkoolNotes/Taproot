@@ -19,6 +19,9 @@ General chemical formula: $C_n H_{2n} O$
 - Disachoride => a dinomer (?) of carbohydrates
 - Polysachride => a polymer of carbohydrates
 
+## Basic Monomers
+- Glucose: ring of 6
+
 ## The mer-library
 
 | Name      | Note                                    | Composition                                                                    |
