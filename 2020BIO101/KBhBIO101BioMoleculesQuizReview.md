@@ -16,7 +16,10 @@ author: Houjun Liu
 * Set 1, See Luke De's video
 	* *Glucose vs. fructose* — both monosacharrides, one is a 6-carbon ring and one is a 5-carbon ring
 	* *Mono vs. di. vs. polysaccharide* — carbohydrates made out of a single, double, and multiple monomer (single-unit) carbohydrates
-	* *Starch vs. glycogen vs. cellulose* — lots of alpha glucose in less branches,  lots of alpha glucose in more branches, lots of beta glucose 
+	* *Starch vs. glycogen vs. cellulose* — lots of alpha glucose in less branches, lots of alpha glucose in more branches, lots of beta glucose in organized lattice respectively.
+		* Starch — plant food reserve
+		* Glycogen — animal energy reserve
+		* Cellulose — 
 
 ## Helpful review items
 
