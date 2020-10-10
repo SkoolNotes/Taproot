@@ -14,7 +14,8 @@ author: Houjun Liu
 []()
 **Use appearance size, and presence of functional groups to distinguish between the major classes of biomolecules we discussed (carbohydrate, lipid, proteins) and the subclasses within each**
 
-* *Glucose vs. fructose* — 
+* *Glucose vs. fructose* — both monosacharrides, one is a 6-carbon ring and one is a 5-carbon ring
+* *
 
 ## Helpful review items
 
