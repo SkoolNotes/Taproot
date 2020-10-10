@@ -12,6 +12,6 @@ source:  freefloating
 - Pie. yum
 - Basically the size of the union of two sets $|U\cup V|$ is equal to $|U| + |V| - |U\cap V|$ and this inducts to more sets (alternating add and subtract of the intersections of differing numbers of sets).
 
-$\sum \sums_{n=0}$
+$\sum \limits_{n=0}^k$
 
 ---

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2905)}}    % original
-%\rhead{\textrmlf{Compiled }\#2905\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2905\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2906)}}    % original
+%\rhead{\textrmlf{Compiled }\#2906\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2906\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -183,7 +183,7 @@ Exclusion}\label{principle-of-inclusion-and-exclusion}}
   add and subtract of the intersections of differing numbers of sets).
 \end{itemize}
 
-\(\sum \sums_{n=0}\)
+\(\sum \limits_{n=0}^k\)
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
