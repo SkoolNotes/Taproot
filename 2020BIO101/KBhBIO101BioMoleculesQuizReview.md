@@ -19,7 +19,8 @@ author: Houjun Liu
 	* *Starch vs. glycogen vs. cellulose* — lots of alpha glucose in less branches, lots of alpha glucose in more branches, lots of beta glucose in organized lattice respectively.
 		* Starch — plant food reserve
 		* Glycogen — animal energy reserve
-		* Cellulose — 
+		* Cellulose — cell wall in plants
+	* *Triglyceride vs. fatty acid vs. phosophilid* 
 
 ## Helpful review items
 
