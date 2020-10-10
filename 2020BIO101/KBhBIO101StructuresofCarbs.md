@@ -20,7 +20,7 @@ General chemical formula: $C_n H_{2n} O$
 - Polysachride => a polymer of carbohydrates
 
 ## Basic Monomers
-- Glucose: ring of 6
+- Glucose: ring of 6 carbons
 
 ## The mer-library
 
