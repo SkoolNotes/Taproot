@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3000)}}    % original
-%\rhead{\textrmlf{Compiled }\#3000\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3000\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3001)}}    % original
+%\rhead{\textrmlf{Compiled }\#3001\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3001\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -193,7 +193,7 @@ distinguish between the major classes of biomolecules we discussed
   single, double, and multiple monomer (single-unit) carbohydrates
 \item
   \emph{Starch vs.~glycogen vs.~cellulose} --- lots of alpha glucose,
-  lots
+  lot\href{}{}s
 \end{itemize}
 
 \hypertarget{helpful-review-items}{%
