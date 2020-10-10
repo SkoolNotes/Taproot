@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3008)}}    % original
-%\rhead{\textrmlf{Compiled }\#3008\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3008\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3009)}}    % original
+%\rhead{\textrmlf{Compiled }\#3009\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3009\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -217,14 +217,17 @@ distinguish between the major classes of biomolecules we discussed
   \begin{itemize}
   \tightlist
   \item
-    \emph{Triglyceride vs.~fatty acid vs.~phosophilid}
+    \emph{Triglyceride vs.~fatty acid vs.~phosophilid} see
+    {[}{[}KBhBIO101StructuresofCarbs{]}{]}
 
     \begin{itemize}
     \tightlist
     \item
       Glycerol =\textgreater{} a fatty acid
     \item
-      Triglyceride =\textgreater{} three of 'em
+      Triglyceride =\textgreater{} three of 'em above
+    \item
+      Phospholipid =\textgreater{} two fatty acid + phosphate head
     \end{itemize}
   \end{itemize}
 \end{itemize}

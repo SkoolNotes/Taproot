@@ -21,9 +21,10 @@ author: Houjun Liu
 		* Glycogen — animal energy reserve
 		* Cellulose — cell wall in plants
 * Set 2, lipids. See Luke De's video + [[KBhBIO101Lipids]]
-	* *Triglyceride vs. fatty acid vs. phosophilid*
+	* *Triglyceride vs. fatty acid vs. phosophilid* see [[KBhBIO101StructuresofCarbs]]
 		* Glycerol => a fatty acid
-		* Triglyceride => three of 'em
+		* Triglyceride => three of 'em above
+		* Phospholipid => two fatty acid + phosphate head
 
 ## Helpful review items
 
