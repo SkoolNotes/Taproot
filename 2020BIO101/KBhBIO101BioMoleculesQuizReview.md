@@ -12,6 +12,10 @@ author: Houjun Liu
 
 ### Carbohydrates
 
+**Use appearance size, and presence of functional groups to distinguish between the major classes of biomolecules we discussed (carbohydrate, lipid, proteins) and the subclasses within each**
+
+* 
+
 ## Helpful review items
 
 ![Screen Shot 2020-10-09 at 11.58.55 AM.png](Screen Shot 2020-10-09 at 11.58.55 AM.png)
