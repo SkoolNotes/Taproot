@@ -44,7 +44,7 @@ author: Houjun Liu
 	
 ### Cell Structures
 * Prokaryotic vs. Eukaryotic
-	* Prokaryotic cells — often in single-cellular cells
+	* Prokaryotic cells — often in single-cellular cells, d
 
 ## Helpful review items
 
