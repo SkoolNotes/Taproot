@@ -102,7 +102,8 @@ author: Houjun Liu
 		* Cytoskeleton => complex network of proteins + fibres that organize the rest of the cell
 		* Polymers of tubulin protein that provides the main structure of eukarotic cells 
 	* flagella and cilia 
-		* 
+		* Flagella => a bacteria's tail — allow them to move and also act as an sensory organ
+		* Cilium => 
 
 
 
