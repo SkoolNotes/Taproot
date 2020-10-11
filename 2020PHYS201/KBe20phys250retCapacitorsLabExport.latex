@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3203)}}    % original
-%\rhead{\textrmlf{Compiled }\#3203\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3203\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3204)}}    % original
+%\rhead{\textrmlf{Compiled }\#3204\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3204\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -285,8 +285,10 @@ The manufacturing tolerances of electronic components were taken into
 account as well. Resistor tolerances were based on the absolute
 difference between standard resistances and those measured by a
 multimeter. Capacitance tolerances were based on the tolerances of a
-similar capacitor for which the data sheet was available: the FOAI CD110
-radial capacitor, which had capacitance tolerances of \(\pm\) 20\%.
+similar capacitor for which the
+\href{http://www.paullinebarger.net/DS/Foai/Foai\%20\%5Bradial\%20thru-hole\%5D\%20CD110\%20Series.pdf}{data
+sheet} was available: the FOAI CD110 radial capacitor, which had
+capacitance tolerances of \(\pm\) 20\%.
 
 \hypertarget{results}{%
 \subsubsection{Results}\label{results}}
