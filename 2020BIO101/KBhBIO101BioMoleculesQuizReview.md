@@ -116,8 +116,9 @@ author: Houjun Liu
 	* Hydrophobic + hydrophillic parts of a phosophilid [[KBhBIO101StructuresOfLipids]] + [[KBhBIO101FluidMosaic]]
 * Passive + active transport [[KbhBIO101CellTransport]]
 * Cell transport process
-	* Simple diffusion => molecules needed "fall in" through a transporter protein
-	* Facilitated diffusion =>  
+	* Simple diffusion => non-polar molecules needed "fall in"
+	* Facilitated diffusion => specific polar molecules go along the gradient to get into the cell through transporter proteins
+	* Osmosis => 
 
 ## Helpful review items
 
