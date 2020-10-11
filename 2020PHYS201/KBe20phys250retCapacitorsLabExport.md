@@ -44,7 +44,12 @@ The results of the fits are summarized below:
 The scattered points near the x-axis are residuals between the curve fit and the collected data. The fit heuristic was to visually center the dots around the x-axis.
 
 ## Uncertainties
-Because each fit was done manually, the absolute error was difficult to estimate because there was no correct answer. Instead, error was taken as the precision at which the number was considered "close enough" by the 
+Because each fit was done manually, the absolute error was difficult to estimate because there was no correct answer. Instead, error was taken as the precision at which the number was considered "close enough" by the human doing the curve fit. Depending on the size of the value (and scale of the Desmos slider), this results in an absolute error ranging from 0.1 units to 0.001 units.
+
+These uncertainties were propogated through calculations by taking the square root of the sum of squares of the relative errors:
+$$
+\delta (AB)
+$$
 
 ## Charge Stored
 
