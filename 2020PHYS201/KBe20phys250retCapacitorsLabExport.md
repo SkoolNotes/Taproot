@@ -12,14 +12,14 @@ source:  2020PHYS201/KBe20phys250retCapacitorsLab.md
 
 The purpose of this lab is to verify the relation between capacitance, resistance, voltage, and charge time of a simple capacitor circuit. The equation that will be verified is
 $$
-V_{cap} = V_{bat}\left(1-e^{-\frac{t-t_0}{\tau}}\right)
+V_{cap} = V_{bat}\left(1-e^{-\frac{t}{\tau}}\right)
 $$
 where each variable has the following meaning:
 
 | Variable | Units | Description |
 |----------|-------|-------------|
-$t$ | 
-$V_{cap}$ | Volts ($V$) | The voltage across the capacitor at a given time
+$t$ | Seconds (s) | Time elapsed since charging of the capacitor started. May be represented as $t-t_0$, where $t$ is the current absolute time and $t_0$ is the absolute start time.
+$V_{cap}$ | Volts (V) | The voltage across the capacitor at a given time
 
 # Charging Capacitors
 

@@ -74,7 +74,7 @@ html {
             <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=2020PHYS201/KBe20phys250retCapacitorsLab.md"><span><strong>[[</strong></span><strong>2020PHYS201/KBe20phys250retCapacitorsLab.md</strong><span><strong>]]</strong></span></a></span></p>
             <p>#ret #disorganized #incomplete</p>
             <h1 id="introduction">Introduction</h1>
-            <p>The purpose of this lab is to verify the relation between capacitance, resistance, voltage, and charge time of a simple capacitor circuit. The equation that will be verified is <span class="math display">\[V_{cap} = V_{bat}\left(1-e^{-\frac{t-t_0}{\tau}}\right)\]</span> where each variable has the following meaning:</p>
+            <p>The purpose of this lab is to verify the relation between capacitance, resistance, voltage, and charge time of a simple capacitor circuit. The equation that will be verified is <span class="math display">\[V_{cap} = V_{bat}\left(1-e^{-\frac{t}{\tau}}\right)\]</span> where each variable has the following meaning:</p>
             <table>
             <thead>
             <tr class="header">
@@ -86,12 +86,12 @@ html {
             <tbody>
             <tr class="odd">
             <td style="text-align: left;"><span class="math inline">\(t\)</span></td>
-            <td style="text-align: left;"></td>
-            <td style="text-align: left;"></td>
+            <td style="text-align: left;">Seconds (s)</td>
+            <td style="text-align: left;">Time elapsed since charging of the capacitor started. May be represented as <span class="math inline">\(t-t_0\)</span>, where <span class="math inline">\(t\)</span> is the current absolute time and <span class="math inline">\(t_0\)</span> is the absolute start time.</td>
             </tr>
             <tr class="even">
             <td style="text-align: left;"><span class="math inline">\(V_{cap}\)</span></td>
-            <td style="text-align: left;">Volts (<span class="math inline">\(V\)</span>)</td>
+            <td style="text-align: left;">Volts (V)</td>
             <td style="text-align: left;">The voltage across the capacitor at a given time</td>
             </tr>
             </tbody>
