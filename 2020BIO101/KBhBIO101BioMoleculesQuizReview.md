@@ -74,7 +74,7 @@ author: Houjun Liu
 	*  Non-membranous organelles — does not posess own plasma => mostly part of the cytoskeleton of a cell
 		* Ribosomes => protein synthesizer in the cell
 		* Centrosome => forms flangella, cilla, and handles cells divisions
-		* Lysomoes => digesting large nutrients and changing them to what cells could process. Could be disabled by White Blood Cells  te delete 
+		* Lysomoes => digesting large nutrients and changing them to what cells could process and work on energy metabolism
 		* 
 
  
