@@ -89,8 +89,9 @@ author: Houjun Liu
 		* Rough ER — covered by ribosomes and folds [[KBhBIO101Proteins]]
 		* Smooth ER — not covered by ribosomes and makes [[KBhBIO101Lipids]]
 	* cytosol, cytoplasm and cytoskeleton
-		* Cytosol => liquid found inside cells
-		* Cytoplasm => all the stuff the stuff within 
+		* Cytosol => liquid found inside cells; the "cytoplasm" floats within it
+		* Cytoplasm => all the stuff within the cell
+		* Cytoskeleton => complex network of proteins in 
 	* nucleus and nucleolus
 	* lysosomes and food vacuoles
 	* cytoskeleton and microtubules
