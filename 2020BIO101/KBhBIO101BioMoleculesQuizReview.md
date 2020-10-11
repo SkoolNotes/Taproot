@@ -25,6 +25,8 @@ author: Houjun Liu
 		* Glycerol => a fatty acid
 		* Triglyceride => three of 'em above
 		* Phospholipid => two fatty acid + phosphate head
+	* *Saturated vs unsaturated fatty acids* see also [[KBhBIO101StructuresofCarbs]] 
+		* 
 
 ## Helpful review items
 
