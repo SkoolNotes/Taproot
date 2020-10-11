@@ -65,7 +65,7 @@ The manufacturing tolerances of electronic components were taken into account as
 | $\Omega$ | F | Fit $\tau$ (s) | Modeled $\tau$ (s) | % Error |
 |----------|---|------------|----------------|---------|
 100k$\Omega$ | 22$\mu$F   | 2.39 | 2.20
-33k$\Omega$  | 1000$\mu$F | 0.0017 | 0.00
+33k$\Omega$  | 1000$\mu$F | 0.00 | 0.00
 100$\Omega$  | 1000$\mu$F | 0.11 | 0.10
 15 $\Omega$  | 1000$\mu$F | 0.02 | 0.02
 

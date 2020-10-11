@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3199)}}    % original
-%\rhead{\textrmlf{Compiled }\#3199\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3199\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3200)}}    % original
+%\rhead{\textrmlf{Compiled }\#3200\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3200\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -298,7 +298,7 @@ Error\tabularnewline
 \midrule
 \endhead
 100k\(\Omega\) & 22\(\mu\)F & 2.39 & 2.20 &\tabularnewline
-33k\(\Omega\) & 1000\(\mu\)F & 0.0017 & 0.00 &\tabularnewline
+33k\(\Omega\) & 1000\(\mu\)F & 0.00 & 0.00 &\tabularnewline
 100\(\Omega\) & 1000\(\mu\)F & 0.11 & 0.10 &\tabularnewline
 15 \(\Omega\) & 1000\(\mu\)F & 0.02 & 0.02 &\tabularnewline
 \bottomrule
