@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3160)}}    % original
-%\rhead{\textrmlf{Compiled }\#3160\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3160\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3161)}}    % original
+%\rhead{\textrmlf{Compiled }\#3161\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3161\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -183,7 +183,7 @@
 Components}\label{time-constant-with-various-components}}
 
 Most of the analysis for data collected as a class was done on the
-``charge rate factor'' (\texttt{time/RC}) of each circuit, defined as:
+``charge rate constant'' (\texttt{time/RC}) of each circuit, defined as:
 \[
 \frac{t}{RC}
 \]

@@ -16,7 +16,7 @@ source:  2020PHYS201/KBe20phys250retCapacitorsLab.md
 
 # Time Constant with Various Components
 
-Most of the analysis for data collected as a class was done on the "charge rate factor" (`time/RC`) of each circuit, defined as:
+Most of the analysis for data collected as a class was done on the "charge rate constant" (`time/RC`) of each circuit, defined as:
 $$
 \frac{t}{RC}
 $$
