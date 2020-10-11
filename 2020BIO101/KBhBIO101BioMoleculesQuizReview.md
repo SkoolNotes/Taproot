@@ -28,6 +28,9 @@ author: Houjun Liu
 	* *Saturated vs unsaturated fatty acids* see also [[KBhBIO101StructuresofCarbs]] 
 		* Saturated Fats => no double bonds in the carbon chain of fatty acids — think! butter
 		* Unsaturated Fats => double bonds in the carbon chain of fatty acids — think! olive oil
+* Identify functional groups
+	* 		
+	
 
 ## Helpful review items
 
