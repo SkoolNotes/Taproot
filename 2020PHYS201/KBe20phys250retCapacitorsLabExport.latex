@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3173)}}    % original
-%\rhead{\textrmlf{Compiled }\#3173\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3173\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3174)}}    % original
+%\rhead{\textrmlf{Compiled }\#3174\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3174\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -284,6 +284,14 @@ of capacitance:
 Finally, the comparison with time taken to charge the capacitor shows
 the strongest correlation, which is to be expected because according to
 the model, this value is the product of the previous two trends.
+
+\begin{figure}
+\centering
+\includegraphics{https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=716778401\&format=image}
+\caption{time/RC vs Time to Charge}
+\end{figure}
+
+On explanation for the data skew is
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
