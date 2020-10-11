@@ -27,6 +27,8 @@ $\tau$ | Seconds (s) | "Time constant" that scales the equation to the circuit. 
 
 ## Voltage over Time
 
+A number of circuits were built and capacitors measured using a voltage and amperage probe with Logger Pro. The raw data can be found [on Canvas](https://nuevaschool.instructure.com/courses/2851/assignments/52558).
+
 ## Charge Stored
 
 # Time Constant with Various Components
