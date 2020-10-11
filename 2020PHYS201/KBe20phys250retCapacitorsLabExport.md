@@ -62,12 +62,17 @@ The manufacturing tolerances of electronic components were taken into account as
 
 ### Results
 
-| $\Omega$ | F | Curve Fit |
-|----------|---|-----------|
-100k$\Omega$ | 22$\mu$F   | 
-33k$\Omega$  | 1000$\mu$F |
-100$\Omega$  | 1000$\mu$F |
-15 $\Omega$  | 1000$\mu$F |
+| $\Omega$ | F | Fit $\tau$ (s) | Modeled $\tau$ (s) | % Error |
+|----------|---|------------|----------------|---------|
+100k$\Omega$ | 22$\mu$F   | 2.39
+33k$\Omega$  | 1000$\mu$F | 0.00
+100$\Omega$  | 1000$\mu$F | 0.11
+15 $\Omega$  | 1000$\mu$F | 0.02
+
+
+
+
+
 
 Assuming perfect capacitor manufacturing, the curve fit results fell within uncertainties of the model predicted $\tau$ value. 
 
