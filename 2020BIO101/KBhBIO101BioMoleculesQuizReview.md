@@ -44,7 +44,8 @@ author: Houjun Liu
 	
 ### Cell Structures
 * Prokaryotic vs. Eukaryotic
-	* Prokaryotic cells — often in single-cellular cells, d
+	* Prokaryotic cells — often in single-cellular cells, has a cell wall, and contained in capsules
+	* Eukaryotic cells — 
 
 ## Helpful review items
 
