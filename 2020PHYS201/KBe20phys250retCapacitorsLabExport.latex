@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3207)}}    % original
-%\rhead{\textrmlf{Compiled }\#3207\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3207\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3208)}}    % original
+%\rhead{\textrmlf{Compiled }\#3208\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3208\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -167,7 +167,7 @@
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=2020PHYS201/KBe20phys250retCapacitorsLab.md}{\tiny\textulf{[[}\textbf{2020PHYS201/KBe20phys250retCapacitorsLab.md}\textulf{]]}}}\thinspace
 
-\#ret \#disorganized \#incomplete
+\#ret
 
 \hypertarget{introduction}{%
 \section{Introduction}\label{introduction}}
@@ -320,6 +320,8 @@ The exact numerical analysis for this section can be found
 
 \hypertarget{charge-stored}{%
 \subsection{Charge Stored}\label{charge-stored}}
+
+\#incomplete
 
 \hypertarget{time-constant-with-various-components}{%
 \section{Time Constant with Various

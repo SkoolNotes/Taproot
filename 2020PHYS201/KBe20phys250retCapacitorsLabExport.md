@@ -6,7 +6,6 @@ source:  2020PHYS201/KBe20phys250retCapacitorsLab.md
 ---
 
 #ret 
-#disorganized #incomplete
 
 # Introduction
 
@@ -74,6 +73,8 @@ Assuming perfect capacitor manufacturing, the curve fit results fell within unce
 The exact numerical analysis for this section can be found [here](https://docs.google.com/spreadsheets/d/1Hw9ooz0CtAvTP9vtw1VT9pVyfsW39IojwwrQX94VJQY/edit?usp=sharing).
 
 ## Charge Stored
+
+#incomplete
 
 # Time Constant with Various Components
 
