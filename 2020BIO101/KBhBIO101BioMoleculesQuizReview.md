@@ -38,8 +38,11 @@ author: Houjun Liu
 		*  hydroxyl — OH group. Need I say more?
 		*  ester — take a carboxylic acid and replace the hydrogen with a R-O group  #ASK
 		*  ether — R-O-R structure. Commonly shown as as an alcohol group (H-O-C) as part of the carboxyl
-* Monomers vs Polymers 
-	* Monomer — single molecule (such as a mo
+* Monomers vs Polymers [[KBhBIO101StructuresofCarbs]]
+	* Monomer — single molecule (such as a monosacchride) that could be chained together to make polymers
+	* Polymers — complex molecues built from monomers
+	* Building polymers — dehydration reaction — taking out water molecules
+	* Destructing polymers — hydration reaction — adding in water molecules
 
 ## Helpful review items
 
