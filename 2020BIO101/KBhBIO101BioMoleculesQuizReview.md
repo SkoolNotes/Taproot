@@ -78,7 +78,7 @@ author: Houjun Liu
 		* Mitochrondria => store ATP and extract energy from ATP
 		* Vacuoles => storing water, nutrients, waste
 		* Plastids => creates colours displayed in the chromoplasts
-* Cell Components
+* Cell Components. Basicall all of these exist only in Eukareotic cells
 	* chloroplast and mitochondria
 		* Chloroplast — found in plants + does photosynthesis
 		* Mitochondria — found in animals + store ATP and extract energy from ATP
@@ -99,8 +99,10 @@ author: Houjun Liu
 		* Lysosomes => vesticles that contains enzymes that breaks down biomolecules
 		* Food Vacoules => vesticels that stores food and other resources
 	* cytoskeleton and microtubules
-		* 
+		* Cytoskeleton => complex network of proteins + fibres that organize the rest of the cell
+		* Polymers of tubulin protein that provides the main structure of eukarotic cells 
 	* flagella and cilia 
+		* 
 
 
 
