@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3117)}}    % original
-%\rhead{\textrmlf{Compiled }\#3117\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3117\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3118)}}    % original
+%\rhead{\textrmlf{Compiled }\#3118\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3118\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -422,10 +422,19 @@ is here}
     \begin{itemize}
     \tightlist
     \item
-      store ATP and extract energy from ATP
+      Chloroplast --- found in plants + does photosynthesis
+    \item
+      Mitochondria --- found in animals + store ATP and extract energy
+      from ATP
     \end{itemize}
   \item
     cell wall and plasma membrane
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Cell Wall --- found in plants
+    \end{itemize}
   \item
     rough endoplasmic reticulum (ER) and smooth ER
   \item

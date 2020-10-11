@@ -80,8 +80,10 @@ author: Houjun Liu
 		* Plastids => creates colours displayed in the chromoplasts
 * Cell Components
 	* chloroplast and mitochondria
-		* does photosynthesis;  store ATP and extract energy from ATP
+		* Chloroplast — found in plants + does photosynthesis
+		* Mitochondria — found in animals + store ATP and extract energy from ATP
 	* cell wall and plasma membrane
+		* Cell Wall — found in plants => 
 	* rough endoplasmic reticulum (ER) and smooth ER
 	* cytosol, cytoplasm and cytoskeleton
 	* nucleus and nucleolus
