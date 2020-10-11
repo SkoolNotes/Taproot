@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3110)}}    % original
-%\rhead{\textrmlf{Compiled }\#3110\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3110\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3111)}}    % original
+%\rhead{\textrmlf{Compiled }\#3111\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3111\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -382,7 +382,9 @@ is here}
     \tightlist
     \item
       Endoplasmic reticulum =\textgreater{} forms the network of
-      transferring
+      transferring proteins and other elements
+    \item
+      Golgi body/Gioli apparatus =\textgreater{}
     \end{itemize}
   \item
     Non-membranous organelles --- does not posess own plasma
