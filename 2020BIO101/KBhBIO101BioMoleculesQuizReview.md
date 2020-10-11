@@ -102,8 +102,10 @@ author: Houjun Liu
 		* Cytoskeleton => complex network of proteins + fibres that organize the rest of the cell
 		* Microtubulues => Polymers of tubulin protein that provides the main structure of eukarotic cells 
 	* flagella and cilia 
-		* Flagella => a bacteria's tail — allow them to move and also act as an sensory organ
-		* Cilium => a cell's "hair" — provides sensory and communications functions. Motil cilla could move about to "grab" things, and non-motile cilla can't move
+		* Flagella => a bacteria's tail — allow them to move and also act as an sensory organ. longer than a cilla, and moves in sinosoidial pattern.
+		* Cilium => a cell's "hair" — provides sensory and communications functions. Motil cilla could move about to "grab" things, and non-motile cilla can't move. more abundant that the flagella, and moves in circular pattern if they do move, and moves in circular pattern if they do move
+	* Ribosomes and Golgi apparatus
+		* Ribosomes =>  
 
 
 
