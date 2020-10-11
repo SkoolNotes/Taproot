@@ -40,8 +40,12 @@ $$
 
 ![Histogram of time/RC](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=587065174&format=image)
 
-By comparing the `time/RC` and different properties of each circuit, reasoning for the outliers may be deduced. First, the `time/RC` values were compared with the resistance of the circuit:
+By comparing the `time/RC` and different properties of each circuit, reasoning for the outliers may be deduced. The visualization of the histogram is reflected in each of the following charts by the density of points in a column. 
+
+First, the `time/RC` values were compared with the resistance of the circuit:
 
 ![time/RC vs Resistance](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=1655543849&format=image)
+
+Although some outliers 
 
 ---

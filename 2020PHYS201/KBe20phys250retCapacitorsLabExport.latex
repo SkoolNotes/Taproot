@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3170)}}    % original
-%\rhead{\textrmlf{Compiled }\#3170\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3170\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3171)}}    % original
+%\rhead{\textrmlf{Compiled }\#3171\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3171\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -258,15 +258,20 @@ actual data was skewed right:
 \end{figure}
 
 By comparing the \texttt{time/RC} and different properties of each
-circuit, reasoning for the outliers may be deduced. First, the
-\texttt{time/RC} values were compared with the resistance of the
-circuit:
+circuit, reasoning for the outliers may be deduced. The visualization of
+the histogram is reflected in each of the following charts by the
+density of points in a column.
+
+First, the \texttt{time/RC} values were compared with the resistance of
+the circuit:
 
 \begin{figure}
 \centering
 \includegraphics{https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=1655543849\&format=image}
 \caption{time/RC vs Resistance}
 \end{figure}
+
+Although some outliers
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
