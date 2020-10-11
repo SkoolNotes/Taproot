@@ -14,6 +14,12 @@ The purpose of this lab is to verify the relation between capacitance, resistanc
 $$
 V_{cap} = V_{bat}\left(1-e^{-\frac{t-t_0}{\tau}}\right)
 $$
+where each variable has the following meaning:
+
+| Variable | Units | Description |
+|----------|-------|-------------|
+$t$ | 
+$V_{cap}$ | Volts ($V$) | The voltage across the capacitor at a given time
 
 # Charging Capacitors
 

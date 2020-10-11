@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3164)}}    % original
-%\rhead{\textrmlf{Compiled }\#3164\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3164\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3165)}}    % original
+%\rhead{\textrmlf{Compiled }\#3165\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3165\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -176,7 +176,18 @@ The purpose of this lab is to verify the relation between capacitance,
 resistance, voltage, and charge time of a simple capacitor circuit. The
 equation that will be verified is \[
 V_{cap} = V_{bat}\left(1-e^{-\frac{t-t_0}{\tau}}\right)
-\]
+\] where each variable has the following meaning:
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Variable & Units & Description\tabularnewline
+\midrule
+\endhead
+\(t\) & &\tabularnewline
+\(V_{cap}\) & Volts (\(V\)) & The voltage across the capacitor at a
+given time\tabularnewline
+\bottomrule
+\end{longtable}
 
 \hypertarget{charging-capacitors}{%
 \section{Charging Capacitors}\label{charging-capacitors}}
