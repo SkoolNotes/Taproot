@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3195)}}    % original
-%\rhead{\textrmlf{Compiled }\#3195\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3195\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3196)}}    % original
+%\rhead{\textrmlf{Compiled }\#3196\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3196\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -287,6 +287,8 @@ difference between standard resistances and those measured by a
 multimeter. Capacitance tolerances were based on the tolerances of a
 similar capacitor for which the data sheet was available: the FOAI CD110
 radial capacitor, which had capacitance tolerances of \(\pm\) 20\%.
+
+Assuming perfect capacitor manufacturing,
 
 \hypertarget{charge-stored}{%
 \subsection{Charge Stored}\label{charge-stored}}
