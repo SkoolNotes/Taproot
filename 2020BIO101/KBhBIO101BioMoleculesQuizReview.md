@@ -100,10 +100,10 @@ author: Houjun Liu
 		* Food Vacoules => vesticels that stores food and other resources
 	* cytoskeleton and microtubules
 		* Cytoskeleton => complex network of proteins + fibres that organize the rest of the cell
-		* Polymers of tubulin protein that provides the main structure of eukarotic cells 
+		* Microtubulues => Polymers of tubulin protein that provides the main structure of eukarotic cells 
 	* flagella and cilia 
 		* Flagella => a bacteria's tail — allow them to move and also act as an sensory organ
-		* Cilium => a cell's "hair" — provides sensory 
+		* Cilium => a cell's "hair" — provides sensory (non-motile) and occationally mobility functions. Often there are multiple
 
 
 
