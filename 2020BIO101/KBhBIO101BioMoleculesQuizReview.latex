@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3135)}}    % original
-%\rhead{\textrmlf{Compiled }\#3135\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3135\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3136)}}    % original
+%\rhead{\textrmlf{Compiled }\#3136\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3136\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -546,7 +546,9 @@ transport}\label{plasma-membrane-structure-transport}}
   \item
     Phosophilid structures {[}{[}KBhBIO101StructuresOfLipids{]}{]}
   \item
-    Transmembrane proteins
+    Transmembrane proteins {[}{[}KbhBIO101CellTransport{]}{]}
+  \item
+    Hydrophobic + hydrophillic parts of a phosophilid
   \end{itemize}
 \end{itemize}
 

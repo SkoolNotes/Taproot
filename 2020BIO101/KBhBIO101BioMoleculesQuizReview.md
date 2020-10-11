@@ -112,7 +112,8 @@ author: Houjun Liu
 * Lipid structure and substructures: [[KBhBIO101Lipids]]
 * Functions of cell membrane
 	* Phosophilid structures [[KBhBIO101StructuresOfLipids]]
-	* Transmembrane proteins
+	* Transmembrane proteins [[KbhBIO101CellTransport]]
+	* Hydrophobic + hydrophillic parts of a phosophilid
 
 ## Helpful review items
 
