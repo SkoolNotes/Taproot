@@ -46,6 +46,7 @@ author: Houjun Liu
 * Prokaryotic vs. Eukaryotic
 	* Prokaryotic cells — often in single-cellular cells, has a cell wall, and contained in capsules
 	* Eukaryotic cells — in multicellular cell elements, contains a plasma membranes and nucleus
+* 
 
 ## Helpful review items
 
