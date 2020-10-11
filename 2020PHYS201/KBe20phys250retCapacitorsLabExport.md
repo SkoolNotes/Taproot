@@ -27,6 +27,8 @@ $\tau$ | Seconds (s) | "Time constant" that scales the equation to the circuit. 
 
 ## Voltage over Time
 
+### General Procedure
+
 A number of circuits were built and capacitors measured using a voltage and amperage probe with Logger Pro. The raw data can be found [on Canvas](https://nuevaschool.instructure.com/courses/2851/assignments/52558). Desmos was used to manually fit curves to the data, using a modified version of the model with $t$ and $t_0$ variables to truncate scrap data:
 $$
 V_{cap} = V_{bat}\left(1-e^{-\frac{t - t_0}{\tau}}\right)
@@ -43,7 +45,7 @@ The results of the fits are summarized below:
 
 The scattered points near the x-axis are residuals between the curve fit and the collected data. The fit heuristic was to visually center the dots around the x-axis.
 
-## Uncertainties
+### Uncertainties
 Because each fit was done manually, the absolute error was difficult to estimate because there was no correct answer. Instead, error was taken as the precision at which the number was considered "close enough" by the human doing the curve fit. Depending on the size of the value (and scale of the Desmos slider), this results in an absolute error ranging from 0.1 units to 0.001 units.
 
 These uncertainties were propagated through calculations as follows:
@@ -56,7 +58,7 @@ $$
 $$
 for multiplicative ones.
 
-The manufacturing tolerances of electronic components were taken into account as well: resistor tolerances were based on the absolute difference between standard resistances and those measured by a multimeter, and capacitance tolerances were 
+The manufacturing tolerances of electronic components were taken into account as well. Resistor tolerances were based on the absolute difference between standard resistances and those measured by a multimeter. Capacitance tolerances were based on the tolerances of a similar capacitor for which the data sheet was available: the 
 
 ## Charge Stored
 
