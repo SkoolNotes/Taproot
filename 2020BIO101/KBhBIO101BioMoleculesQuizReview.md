@@ -26,7 +26,8 @@ author: Houjun Liu
 		* Triglyceride => three of 'em above
 		* Phospholipid => two fatty acid + phosphate head
 	* *Saturated vs unsaturated fatty acids* see also [[KBhBIO101StructuresofCarbs]] 
-		* 
+		* Saturated Fats => no double bonds in the carbon chain of fatty acids — think! butter
+		* Unsaturated Fats => double bonds in the carbon chain of fatty acids — think! olive oil
 
 ## Helpful review items
 
