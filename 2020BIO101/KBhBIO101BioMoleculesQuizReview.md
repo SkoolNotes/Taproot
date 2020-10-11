@@ -36,8 +36,10 @@ author: Houjun Liu
 		*  amide — RC(=O)NR′R″ (frequently shown in side chains of amino acids — see [Amine](https://en.wikipedia.org/wiki/Amide#/media/File:Amide-general.png))
 		*  amino/amine — H3N+ (right side of backbone)
 		*  hydroxyl — OH group. Need I say more?
-		*  ester — take a carboxylic acid and replace the hydrogen with a R-O group — 
+		*  ester — take a carboxylic acid and replace the hydrogen with a R-O group  #ASK
 		*  ether — R-O-R structure. Commonly shown as as an alcohol group (H-O-C) as part of the carboxyl
+* Monomers vs Polymers
+	* 
 
 ## Helpful review items
 
