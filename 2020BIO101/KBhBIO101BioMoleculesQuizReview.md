@@ -70,7 +70,8 @@ author: Houjun Liu
 * Organizing organelles based on membranes #ASK
 	*  Membranous organelles — possess own plasma => regulates own macromolecure consumption, hormones, etc. Perhaps original prokarotic cells
 	*  Non-membranous organelles — does not posess own plasma => mostly part of the cytoskeleton of a cell
-		* Ribosomes => protein synthesis in the cell
+		* Ribosomes => protein synthesizer in the cell
+		* Centrosome => forms flangella, cilla, and handles cells divisions
 
  
 

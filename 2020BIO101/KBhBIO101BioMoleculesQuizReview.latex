@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3107)}}    % original
-%\rhead{\textrmlf{Compiled }\#3107\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3107\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3108)}}    % original
+%\rhead{\textrmlf{Compiled }\#3108\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3108\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -384,7 +384,10 @@ is here}
     \begin{itemize}
     \tightlist
     \item
-      Ribosomes =\textgreater{} protein synthesis in the cell
+      Ribosomes =\textgreater{} protein synthesizer in the cell
+    \item
+      Centrosome =\textgreater{} forms flangella, cilla, and handles
+      cells divisions
     \end{itemize}
   \end{itemize}
 \end{itemize}
