@@ -58,7 +58,7 @@ $$
 $$
 for multiplicative ones.
 
-The manufacturing tolerances of electronic components were taken into account as well. Resistor tolerances were based on the absolute difference between standard resistances and those measured by a multimeter. Capacitance tolerances were based on the tolerances of a similar capacitor for which the data sheet was available: the FOAI CD110 radial capacitor, which had capacitance tolerances of $\pm$ 20%. 
+The manufacturing tolerances of electronic components were taken into account as well. Resistor tolerances were based on the absolute difference between standard resistances and those measured by a multimeter. Capacitance tolerances were based on the tolerances of a similar capacitor for which the [data sheet]( was available: the FOAI CD110 radial capacitor, which had capacitance tolerances of $\pm$ 20%. 
 
 ### Results
 
@@ -69,7 +69,7 @@ The manufacturing tolerances of electronic components were taken into account as
 100$\Omega$  | 1000$\mu$F | 0.1058 | 0.1000 | 5.80%
 15 $\Omega$  | 1000$\mu$F | 0.0188 | 0.0150 | 25.33%
 
-Assuming perfect capacitor manufacturing, the curve fit results fell within uncertainties of the model predicted $\tau$ value for all circuits except the first. However, with the unexpectedly large 20% uncertainties in capacitance all trials fell within 
+Assuming perfect capacitor manufacturing, the curve fit results fell within uncertainties of the model predicted $\tau$ value for all circuits except the first. However, with the unexpectedly large 20% uncertainties in capacitance all trials fell within the uncertainties of the experiment. Thus, the model predicted the charging behavior of capacitors over time accurately.
 
 ## Charge Stored
 
