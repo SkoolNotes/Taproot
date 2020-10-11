@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3138)}}    % original
-%\rhead{\textrmlf{Compiled }\#3138\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3138\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3139)}}    % original
+%\rhead{\textrmlf{Compiled }\#3139\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3139\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -560,12 +560,13 @@ transport}\label{plasma-membrane-structure-transport}}
   \begin{itemize}
   \tightlist
   \item
-    Simple diffusion =\textgreater{} non-polar molecules needed ``fall
-    in''
+    Simple diffusion ( \#ASK same thing as passive transport?
+    )=\textgreater{} non-polar molecules needed ``fall in''
   \item
     Facilitated diffusion =\textgreater{} specific polar molecules go
     along the gradient to get into the cell through transporter proteins
   \item
+    Osmosis =\textgreater{}
   \end{itemize}
 \end{itemize}
 
