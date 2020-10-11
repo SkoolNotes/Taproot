@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3158)}}    % original
-%\rhead{\textrmlf{Compiled }\#3158\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3158\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3159)}}    % original
+%\rhead{\textrmlf{Compiled }\#3159\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3159\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -169,8 +169,18 @@
 
 \#ret \#disorganized \#incomplete
 
-\hypertarget{section}{%
-\section{}\label{section}}
+\hypertarget{charging-capacitors}{%
+\section{Charging Capacitors}\label{charging-capacitors}}
+
+\hypertarget{voltage-over-time}{%
+\subsection{Voltage over Time}\label{voltage-over-time}}
+
+\hypertarget{charge-stored}{%
+\subsection{Charge Stored}\label{charge-stored}}
+
+\hypertarget{time-constant-with-various-components}{%
+\section{Time Constant with Various
+Components}\label{time-constant-with-various-components}}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

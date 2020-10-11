@@ -8,6 +8,13 @@ source:  2020PHYS201/KBe20phys250retCapacitorsLab.md
 #ret 
 #disorganized #incomplete
 
-# 
+# Charging Capacitors
+
+## Voltage over Time
+
+## Charge Stored
+
+# Time Constant with Various Components
+
 
 ---
