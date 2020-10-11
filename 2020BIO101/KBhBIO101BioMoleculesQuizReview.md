@@ -38,8 +38,8 @@ author: Houjun Liu
 		*  hydroxyl — OH group. Need I say more?
 		*  ester — take a carboxylic acid and replace the hydrogen with a R-O group  #ASK
 		*  ether — R-O-R structure. Commonly shown as as an alcohol group (H-O-C) as part of the carboxyl
-* Monomers vs Polymers
-	* 
+* Monomers vs Polymers 
+	* Monomer — single molecule (such as a mo
 
 ## Helpful review items
 
