@@ -48,7 +48,7 @@ author: Houjun Liu
 * Prokaryotic vs. Eukaryotic
 	* Prokaryotic cells — often in single-cellular cells, has a cell wall, and contained in capsules
 	* Eukaryotic cells — in multicellular cell elements, contains a plasma membranes and nucleus
-* Compare and contrast a typical animal cell with a typical plant cell. Be able to label diagrams of each.
+* Compare and contrast a typical animal cell with a typical plant cell. Be able to label diagrams of each. (See... problem set 1)
 	* Animal Cell
 		* No cell wall
 		* No chloroplast
@@ -67,7 +67,8 @@ author: Houjun Liu
 		* Mostly has no Cilla
 * Endosymbiotic theory 
 	* 	Endosymbiotic theory states that organelles within our current eukaryotic cells — the mitochondria and chloroplasts — are originally prokaryotic cells in their own right. This is because they divide independently through binary fission, and also contains circular DNA that is independent of the main cell itself.
-* 	
+* Organizing organelles based on membranes #ASK
+	*  	
 
  
 
