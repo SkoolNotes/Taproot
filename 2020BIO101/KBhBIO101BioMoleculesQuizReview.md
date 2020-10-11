@@ -91,8 +91,9 @@ author: Houjun Liu
 	* cytosol, cytoplasm and cytoskeleton
 		* Cytosol => liquid found inside cells; the "cytoplasm" floats within it
 		* Cytoplasm => all the stuff within the cell
-		* Cytoskeleton => complex network of proteins in 
+		* Cytoskeleton => complex network of proteins + fibres that organize the rest of the cell
 	* nucleus and nucleolus
+		* nucleaus => centre of the cell, stores DNA 
 	* lysosomes and food vacuoles
 	* cytoskeleton and microtubules
 	* flagella and cilia 
