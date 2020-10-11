@@ -43,6 +43,9 @@ The results of the fits are summarized below:
 
 The scattered points near the x-axis are residuals between the curve fit and the collected data. The fit heuristic was to visually center the dots around the x-axis.
 
+## Uncertainties
+Because each fit was done manually, the absolute error was difficult to estimate because there was no correct answer. Instead, error was taken as the precision at which the number was considered "close enough" by the 
+
 ## Charge Stored
 
 # Time Constant with Various Components
