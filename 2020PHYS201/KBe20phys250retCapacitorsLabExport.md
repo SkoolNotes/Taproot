@@ -8,6 +8,10 @@ source:  2020PHYS201/KBe20phys250retCapacitorsLab.md
 #ret 
 #disorganized #incomplete
 
+# Introduction
+
+The purpose of this lab is to verify the relation between capacitance, resist
+
 # Charging Capacitors
 
 ## Voltage over Time
@@ -21,6 +25,6 @@ $$
 \frac{t}{RC}
 $$
 
-`time/RC` is a unitless scalar that represents how quickly it takes to charge any capacitor for a given voltage. Because voltage data was not collected during the experiment
+`time/RC` is a unitless scalar that represents how quickly it takes to charge any capacitor for a given voltage. Voltage data was not collected during the experiment, so the voltage is assumed to be constant across trials. If our model of capacitor charge rate is correct, we expect `time/RC` to be constant across trials. The actual data was skewed left:
 
 ---
