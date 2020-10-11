@@ -49,7 +49,12 @@ author: Houjun Liu
 * Compare and contrast a typical animal cell with a typical plant cell. Be able to label diagrams of each.
 	* Animal Cell
 		* No cell wall
-		* 
+		* No chloroplast
+		* Has Cytoplasm
+		* Has Ribosomes
+		* Has Mitochondria
+		* No plastids — organelle pigments
+		* Plasma membrane
  
 
 ## Helpful review items
