@@ -11,8 +11,6 @@ author: Houjun Liu
 [... is here](https://docs.google.com/document/d/1wGN3RNZCN-hkP2gJe2C7FHGZi_-YfCE6aJCZy-0N53s/edit)
 
 ### Carbohydrates
-**Use appearance size, and presence of functional groups to distinguish between the major classes of biomolecules we discussed (carbohydrate, lipid, proteins) and the subclasses within each**
-
 * Set 1, carbs. See Luke De's video + [[KBhBIO101Carbs]]
 	* *Glucose vs. fructose* — both monosacharrides, one is a 6-carbon ring and one is a 5-carbon ring
 	* *Mono vs. di. vs. polysaccharide* — carbohydrates made out of a single, double, and multiple monomer (single-unit) carbohydrates
@@ -43,6 +41,10 @@ author: Houjun Liu
 	* Polymers — complex molecues built from monomers
 	* Building polymers — dehydration reaction — taking out water molecules
 	* Destructing polymers — hydration reaction — adding in water molecules
+	
+### Cell Structures
+* Prokaryotic vs. Eukaryotic
+	* 
 
 ## Helpful review items
 
