@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3114)}}    % original
-%\rhead{\textrmlf{Compiled }\#3114\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3114\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3115)}}    % original
+%\rhead{\textrmlf{Compiled }\#3115\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3115\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -400,8 +400,14 @@ is here}
       cells divisions
     \item
       Lysomoes =\textgreater{} digesting large nutrients and changing
-      them to what cells could process
+      them to what cells could process and work on energy metabolism
     \item
+      Mitochrondria =\textgreater{} store ATP and extract energy from
+      ATP
+    \item
+      Vacuoles =\textgreater{} storing water, nutrients, waste
+    \item
+      Plastids =\textgreater{}
     \end{itemize}
   \end{itemize}
 \end{itemize}

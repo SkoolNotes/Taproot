@@ -75,7 +75,9 @@ author: Houjun Liu
 		* Ribosomes => protein synthesizer in the cell
 		* Centrosome => forms flangella, cilla, and handles cells divisions
 		* Lysomoes => digesting large nutrients and changing them to what cells could process and work on energy metabolism
-		* 
+		* Mitochrondria => store ATP and extract energy from ATP
+		* Vacuoles => storing water, nutrients, waste
+		* Plastids => 
 
  
 

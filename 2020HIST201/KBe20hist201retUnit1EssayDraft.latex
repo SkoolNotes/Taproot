@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3112)}}    % original
-%\rhead{\textrmlf{Compiled }\#3112\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3112\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3115)}}    % original
+%\rhead{\textrmlf{Compiled }\#3115\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3115\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -165,6 +165,12 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
+
+\hypertarget{export}{%
+\section{Export}\label{export}}
+
+See
+\emph{\url{https://docs.google.com/document/d/1Yhd8y7zE_mCdagcaUk8-sFHHh6P7te6zYMmJKJDIKkE/edit}}
 
 \hypertarget{introduction}{%
 \section{Introduction}\label{introduction}}
