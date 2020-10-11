@@ -54,7 +54,7 @@ author: Houjun Liu
 		* Has Ribosomes
 		* Has Mitochondria
 		* No plastids — organelle pigments
-		* Plasma membrane
+		* Only 
  
 
 ## Helpful review items
