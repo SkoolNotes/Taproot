@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3186)}}    % original
-%\rhead{\textrmlf{Compiled }\#3186\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3186\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3187)}}    % original
+%\rhead{\textrmlf{Compiled }\#3187\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3187\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -244,7 +244,7 @@ The results of the fits are summarized below:
 
 \begin{longtable}[]{@{}lll@{}}
 \toprule
-Resistance & Capacitance & Curve Fit\tabularnewline
+\(\Omega\) & F & Curve Fit\tabularnewline
 \midrule
 \endhead
 100k\(\Omega\) & 22\(\mu\)F &
