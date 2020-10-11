@@ -62,7 +62,14 @@ The manufacturing tolerances of electronic components were taken into account as
 
 ### Results
 
-Assuming perfect capacitor manufacturing, the curve fit results fell within the model predicted $\tau$ value 
+| $\Omega$ | F | Curve Fit |
+|----------|---|-----------|
+100k$\Omega$ | 22$\mu$F   | 
+33k$\Omega$  | 1000$\mu$F |
+100$\Omega$  | 1000$\mu$F |
+15 $\Omega$  | 1000$\mu$F |
+
+Assuming perfect capacitor manufacturing, the curve fit results fell within uncertainties of the model predicted $\tau$ value. 
 
 ## Charge Stored
 
