@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3018)}}    % original
-%\rhead{\textrmlf{Compiled }\#3018\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3018\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3019)}}    % original
+%\rhead{\textrmlf{Compiled }\#3019\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3019\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -249,21 +249,21 @@ distinguish between the major classes of biomolecules we discussed
   \begin{itemize}
   \tightlist
   \item
-    Amino acid groups
+    Amino acid groups --- see {[}{[}KBhBIO101AminoAcids{]}{]}
 
     \begin{itemize}
     \tightlist
     \item
-      carboxyl/carboxylic acid --- H-O-C=O
+      carboxyl/carboxylic acid --- H-O-C=O (left side of backbone)
     \item
-      carbonyl --- C=O
+      carbonyl --- C=O --- part of carboxyl
     \item
-      amide --- RC(=O)NR′R″: frequently shown in side chains of amino
+      amide --- RC(=O)NR′R″ (frequently shown in side chains of amino
       acids --- see
-      \href{https://en.wikipedia.org/wiki/Amide\#/media/File:Amide-general.png}{Amine}
+      \href{https://en.wikipedia.org/wiki/Amide\#/media/File:Amide-general.png}{Amine})
+    \item
+      amino/amine --- H3N+ (right side of backbone)
     \end{itemize}
-  \item
-    amino/amine
   \item
     ester
   \item

@@ -29,11 +29,11 @@ author: Houjun Liu
 		* Saturated Fats => no double bonds in the carbon chain of fatty acids — think! butter
 		* Unsaturated Fats => double bonds in the carbon chain of fatty acids — think! olive oil
 * Identify functional groups
-	* Amino acid groups
-		*  carboxyl/carboxylic acid — H-O-C=O 
-		*  carbonyl  — C=O
-		*  amide — RC(=O)NR′R″: frequently shown in side chains of amino acids — see [Amine](https://en.wikipedia.org/wiki/Amide#/media/File:Amide-general.png)
-	*  amino/amine
+	* Amino acid groups — see [[KBhBIO101AminoAcids]]
+		*  carboxyl/carboxylic acid — H-O-C=O  (left side of backbone)
+		*  carbonyl  — C=O — part of carboxyl 
+		*  amide — RC(=O)NR′R″ (frequently shown in side chains of amino acids — see [Amine](https://en.wikipedia.org/wiki/Amide#/media/File:Amide-general.png))
+		*  amino/amine — H3N+ (right side of backbone)
 	*  ester
 	*  ether
 	*  hydroxyl
