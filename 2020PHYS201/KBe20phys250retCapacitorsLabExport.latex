@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3180)}}    % original
-%\rhead{\textrmlf{Compiled }\#3180\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3180\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3181)}}    % original
+%\rhead{\textrmlf{Compiled }\#3181\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3181\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -236,7 +236,9 @@ and amperage probe with Logger Pro. The raw data can be found
 \href{https://nuevaschool.instructure.com/courses/2851/assignments/52558}{on
 Canvas}. Desmos was used to manually fit curves to the data, using a
 modified version of the model with \(t\) and \(t_0\) variables to
-truncate scrap data.
+truncate scrap data: \[
+V_{cap} = V_{bat}\left(1-e^{-\frac{t - t_0}{\tau}}\right)
+\]
 
 \hypertarget{charge-stored}{%
 \subsection{Charge Stored}\label{charge-stored}}
