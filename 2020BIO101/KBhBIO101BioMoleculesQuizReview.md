@@ -7,6 +7,8 @@ author: Houjun Liu
 
 # Bio-Molecules Quiz Review
 
+#disorganized 
+
 ## Paul's Review Sheet
 [... is here](https://docs.google.com/document/d/1wGN3RNZCN-hkP2gJe2C7FHGZi_-YfCE6aJCZy-0N53s/edit)
 
@@ -63,7 +65,10 @@ author: Houjun Liu
 		* Has Mitochondria
 		* Has plastics — organelle pigments
 		* Mostly has no Cilla
-* 
+* Endosymbiotic theory 
+	* 	Endosymbiotic theory states that organelles within our current eukaryotic cells — the mitochondria and chloroplasts — are originally prokaryotic cells in their own right. This is because they divide independently through binary fission, and also contains circular DNA that is independent of the main cell itself.
+* 	
+
  
 
 ## Helpful review items
