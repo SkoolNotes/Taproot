@@ -12,7 +12,7 @@ See write up here: [[KBe20phys250retCapacitorsLabExport]]
 
 See [[KBsrc20phys250CapacitorLab.pdf]]
 
-![[KBesrcCapacitor22mF100kO.png]]
+![[KBesrcCapacitor22microF100kO.png]]
 
 ![[KBesrcCapacitor0.047microF33kO.png]]
 
