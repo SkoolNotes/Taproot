@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3166)}}    % original
-%\rhead{\textrmlf{Compiled }\#3166\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3166\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3167)}}    % original
+%\rhead{\textrmlf{Compiled }\#3167\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3167\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -203,7 +203,14 @@ the absolute start time.\strut
 \end{minipage} & \begin{minipage}[t]{0.21\columnwidth}\raggedright
 Volts (V)\strut
 \end{minipage} & \begin{minipage}[t]{0.40\columnwidth}\raggedright
-The voltage across the capacitor at a given time\strut
+Voltage across the capacitor after a given elapsed time\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+\(V_{bat}\)\strut
+\end{minipage} & \begin{minipage}[t]{0.21\columnwidth}\raggedright
+Volts (V)\strut
+\end{minipage} & \begin{minipage}[t]{0.40\columnwidth}\raggedright
+Voltage of the battery, assumed to be constant.\strut
 \end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}

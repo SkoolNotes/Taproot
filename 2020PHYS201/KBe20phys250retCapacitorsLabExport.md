@@ -19,7 +19,8 @@ where each variable has the following meaning:
 | Variable | Units | Description |
 |----------|-------|-------------|
 $t$ | Seconds (s) | Time elapsed since charging of the capacitor started. May be represented as $t-t_0$, where $t$ is the current absolute time and $t_0$ is the absolute start time.
-$V_{cap}$ | Volts (V) | The voltage across the capacitor at a given time
+$V_{cap}$ | Volts (V) | Voltage across the capacitor after a given elapsed time
+$V_{bat}$ | Volts (V) | Voltage of the battery, assumed to be constant.
 
 # Charging Capacitors
 
