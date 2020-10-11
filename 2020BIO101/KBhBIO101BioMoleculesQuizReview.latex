@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3013)}}    % original
-%\rhead{\textrmlf{Compiled }\#3013\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3013\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3014)}}    % original
+%\rhead{\textrmlf{Compiled }\#3014\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3014\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -249,8 +249,19 @@ distinguish between the major classes of biomolecules we discussed
   \begin{itemize}
   \tightlist
   \item
-    (carboxyl/carboxylic acid, carbonyl, amide, amino/amine, ester,
-    ether, hydroxyl)
+    carboxyl/carboxylic acid
+  \item
+    carbonyl
+  \item
+    amide
+  \item
+    amino/amine
+  \item
+    ester
+  \item
+    ether
+  \item
+    hydroxyl
   \end{itemize}
 \end{itemize}
 
