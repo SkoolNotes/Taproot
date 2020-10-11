@@ -32,7 +32,7 @@ author: Houjun Liu
 	* Amino acid groups
 		*  carboxyl/carboxylic acid — H-O-C=O 
 		*  carbonyl  — C=O
-		*  amide — RC(=O)NR′R″: frequently shown in side chains of amino acids
+		*  amide — RC(=O)NR′R″: frequently shown in side chains of amino acids — see [Amine](https://en.wikipedia.org/wiki/Amide#/media/File:Amide-general.png)
 	*  amino/amine
 	*  ester
 	*  ether

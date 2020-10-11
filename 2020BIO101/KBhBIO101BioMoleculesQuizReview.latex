@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3017)}}    % original
-%\rhead{\textrmlf{Compiled }\#3017\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3017\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3018)}}    % original
+%\rhead{\textrmlf{Compiled }\#3018\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3018\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -259,7 +259,8 @@ distinguish between the major classes of biomolecules we discussed
       carbonyl --- C=O
     \item
       amide --- RC(=O)NR′R″: frequently shown in side chains of amino
-      acids
+      acids --- see
+      \href{https://en.wikipedia.org/wiki/Amide\#/media/File:Amide-general.png}{Amine}
     \end{itemize}
   \item
     amino/amine
