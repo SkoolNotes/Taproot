@@ -50,6 +50,11 @@ These uncertainties were propagated through calculations as follows:
 $$
 \delta (A+B) = \sqrt{\delta A^2 + \delta B^2}
 $$
+for additive combinations and 
+$$
+\frac{\delta (AB)}{AB} = \sqrt{\left(\frac{\delta A}{A}\right)^2 + \left(\frac{\delta B}{B}\right)^2}
+$$
+for multiplicative ones.
 
 ## Charge Stored
 

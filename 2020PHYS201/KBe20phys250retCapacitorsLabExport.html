@@ -144,7 +144,7 @@ html {
             <p>The scattered points near the x-axis are residuals between the curve fit and the collected data. The fit heuristic was to visually center the dots around the x-axis.</p>
             <h2 id="uncertainties">Uncertainties</h2>
             <p>Because each fit was done manually, the absolute error was difficult to estimate because there was no correct answer. Instead, error was taken as the precision at which the number was considered “close enough” by the human doing the curve fit. Depending on the size of the value (and scale of the Desmos slider), this results in an absolute error ranging from 0.1 units to 0.001 units.</p>
-            <p>These uncertainties were propagated through calculations as follows: <span class="math display">\[\delta (A+B) = \sqrt{\delta A^2 + \delta B^2}\]</span></p>
+            <p>These uncertainties were propagated through calculations as follows: <span class="math display">\[\delta (A+B) = \sqrt{\delta A^2 + \delta B^2}\]</span> for additive combinations and <span class="math display">\[\frac{\delta (AB)}{AB} = \sqrt{\left(\frac{\delta A}{A}\right)^2 + \left(\frac{\delta B}{B}\right)^2}\]</span> for multiplicative ones.</p>
             <h2 id="charge-stored">Charge Stored</h2>
             <h1 id="time-constant-with-various-components">Time Constant with Various Components</h1>
             <p>Most of the analysis for data collected as a class was done on the “charge rate constant” (<code>time/RC</code>) of each circuit, defined as: <span class="math display">\[\frac{t}{RC}\]</span></p>
