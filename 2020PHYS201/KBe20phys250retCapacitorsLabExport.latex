@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3163)}}    % original
-%\rhead{\textrmlf{Compiled }\#3163\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3163\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3164)}}    % original
+%\rhead{\textrmlf{Compiled }\#3164\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3164\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -169,6 +169,15 @@
 
 \#ret \#disorganized \#incomplete
 
+\hypertarget{introduction}{%
+\section{Introduction}\label{introduction}}
+
+The purpose of this lab is to verify the relation between capacitance,
+resistance, voltage, and charge time of a simple capacitor circuit. The
+equation that will be verified is \[
+V_{cap} = V_{bat}\left(1-e^{-\frac{t-t_0}{\tau}}\right)
+\]
+
 \hypertarget{charging-capacitors}{%
 \section{Charging Capacitors}\label{charging-capacitors}}
 
@@ -191,7 +200,9 @@ Most of the analysis for data collected as a class was done on the
 \texttt{time/RC} is a unitless scalar that represents how quickly it
 takes to charge any capacitor for a given voltage. Voltage data was not
 collected during the experiment, so the voltage is assumed to be
-constant across trials.
+constant across trials. If our model of capacitor charge rate is
+correct, we expect \texttt{time/RC} to be constant across trials. The
+actual data was skewed left:
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
