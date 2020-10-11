@@ -77,7 +77,15 @@ author: Houjun Liu
 		* Lysomoes => digesting large nutrients and changing them to what cells could process and work on energy metabolism
 		* Mitochrondria => store ATP and extract energy from ATP
 		* Vacuoles => storing water, nutrients, waste
-		* Plastids => 
+		* Plastids => creates colours displayed in the chromoplasts
+	*o   chloroplast and mitochondria
+o   cell wall and plasma membrane
+o   rough endoplasmic reticulum (ER) and smooth ER
+o   cytosol, cytoplasm and cytoskeleton
+o   nucleus and nucleolus
+o   lysosomes and food vacuoles
+o   cytoskeleton and microtubules
+o   flagella and ciliau 
 
  
 
