@@ -5,7 +5,7 @@ author:  Exr0n
 source:  2020PHYS201/KBPhysicsMasterIndex.md
 ---
 
-See 
+See write up here: [[KBe20phys250retCapacitorsLabExport]]
 
 #ret 
 #disorganized #incomplete
