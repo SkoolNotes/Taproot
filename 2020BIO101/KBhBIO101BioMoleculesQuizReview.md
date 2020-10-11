@@ -129,10 +129,12 @@ author: Houjun Liu
 	
 ### Proteins Structures and Function
 * Overall structure, monomers/building blocks, functions, and examples of proteins => [[KBhBIO101Proteins]]
+* "peptide" => a chain of amino-acids
 * Polymerization via dehydration
 	* Take two amino acids, take the H-O out of the alcahol, take the H out of the Amine. Fill the hole with the other one
 * Protein structure
-	* PRimary structure  
+	* Primary structure, secondary structure => [[KBhBIO101Proteins]]
+	* Amino acids, N & C terminus => [[KBhBIO101AminoAcids]]
 
 
 ## Helpful review items
