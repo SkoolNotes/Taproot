@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3185)}}    % original
-%\rhead{\textrmlf{Compiled }\#3185\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3185\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3186)}}    % original
+%\rhead{\textrmlf{Compiled }\#3186\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3186\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -251,11 +251,12 @@ Resistance & Capacitance & Curve Fit\tabularnewline
 \includegraphics{KBesrcCapacitor22microF100kO.png}\tabularnewline
 33k\(\Omega\) & 1000\(\mu\)F &
 \includegraphics{./KBesrcCapacitor0.047microF33kO.png}\tabularnewline
+100\(\Omega\) & 1000\(\mu\)F &
+\includegraphics{./KBesrcCapacitor1000microF100ohm.png}\tabularnewline
+15 \(\Omega\) & 1000\(\mu\)F &
+\includegraphics{./KBesrcCapacitor1000microF15ohm.png}\tabularnewline
 \bottomrule
 \end{longtable}
-
-\includegraphics{./KBesrcCapacitor1000microF100ohm.png}
-\includegraphics{./KBesrcCapacitor1000microF15ohm.png}
 
 \hypertarget{charge-stored}{%
 \subsection{Charge Stored}\label{charge-stored}}
