@@ -118,8 +118,9 @@ author: Houjun Liu
 * Cell transport process
 	* Simple diffusion ( #ASK same thing as passive transport + osmosis )=> non-polar molecules needed "fall in"
 	* Facilitated diffusion => specific polar molecules go along the gradient to get into the cell through transporter proteins
-	* Endocytosis => take a piece of the membrane with you to form a vesticle to introduce large elements, recycling the membrane after done
-	* Extocytosis => ta
+	* Phagocytosis => take a piece of the membrane with you to form a vesticle to introduce large elements, recycling the membrane after done
+	* Extocytosis => opposite of endocytosis
+	* 
 
 ## Helpful review items
 
