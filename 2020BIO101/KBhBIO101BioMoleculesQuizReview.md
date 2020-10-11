@@ -54,7 +54,7 @@ author: Houjun Liu
 		* Has Ribosomes
 		* Has Mitochondria
 		* No plastids — organelle pigments
-		* Only 
+		* Hair-like items on the outer surface
  
 
 ## Helpful review items
