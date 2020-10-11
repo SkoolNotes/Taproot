@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3125)}}    % original
-%\rhead{\textrmlf{Compiled }\#3125\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3125\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3126)}}    % original
+%\rhead{\textrmlf{Compiled }\#3126\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3126\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -471,7 +471,9 @@ is here}
     \begin{itemize}
     \tightlist
     \item
-      nucleaus =\textgreater{} centre of the cell, stores DNA
+      nucleus =\textgreater{} centre of the cell, stores DNA
+    \item
+      nucle
     \end{itemize}
   \item
     lysosomes and food vacuoles

@@ -93,8 +93,10 @@ author: Houjun Liu
 		* Cytoplasm => all the stuff within the cell
 		* Cytoskeleton => complex network of proteins + fibres that organize the rest of the cell
 	* nucleus and nucleolus
-		* nucleaus => centre of the cell, stores DNA 
+		* nucleus => centre of the cell, stores DNA
+		* nucleolus => largest part of the nucleous that makes ribosomes
 	* lysosomes and food vacuoles
+		* Lysosomes => vesticles that contains 
 	* cytoskeleton and microtubules
 	* flagella and cilia 
 
