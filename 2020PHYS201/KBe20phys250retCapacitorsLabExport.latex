@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3168)}}    % original
-%\rhead{\textrmlf{Compiled }\#3168\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3168\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3169)}}    % original
+%\rhead{\textrmlf{Compiled }\#3169\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3169\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -249,7 +249,16 @@ takes to charge any capacitor for a given voltage. Voltage data was not
 collected during the experiment, so the voltage is assumed to be
 constant across trials. If our model of capacitor charge rate is
 correct, we expect \texttt{time/RC} to be constant across trials. The
-actual data was skewed left:
+actual data was skewed right:
+
+\begin{figure}
+\centering
+\includegraphics{https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=587065174\&format=image}
+\caption{Histogram of time/RC}
+\end{figure}
+
+By comparing the \texttt{time/RC} and different properties of each
+circuit,
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
