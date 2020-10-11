@@ -86,7 +86,8 @@ author: Houjun Liu
 		* Cell Wall — found in plants => surround the cell: hard
 		* Plasma membrane — found in animals => surround the cell: soft [[KBhBIO101Lipids]]
 	* rough endoplasmic reticulum (ER) and smooth ER	
-		* Rough ER — covered by ribosomes  
+		* Rough ER — covered by ribosomes and folds proteins
+		* Smooth ER  
 	* cytosol, cytoplasm and cytoskeleton
 	* nucleus and nucleolus
 	* lysosomes and food vacuoles
