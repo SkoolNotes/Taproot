@@ -83,8 +83,10 @@ author: Houjun Liu
 		* Chloroplast — found in plants + does photosynthesis
 		* Mitochondria — found in animals + store ATP and extract energy from ATP
 	* cell wall and plasma membrane
-		* Cell Wall — found in plants => 
-	* rough endoplasmic reticulum (ER) and smooth ER
+		* Cell Wall — found in plants => surround the cell: hard
+		* Plasma membrane — found in animals => surround the cell: soft [[KBhBIO101Lipids]]
+	* rough endoplasmic reticulum (ER) and smooth ER	
+		* 
 	* cytosol, cytoplasm and cytoskeleton
 	* nucleus and nucleolus
 	* lysosomes and food vacuoles
