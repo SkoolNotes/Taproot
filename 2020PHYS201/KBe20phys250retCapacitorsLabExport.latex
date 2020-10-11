@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3206)}}    % original
-%\rhead{\textrmlf{Compiled }\#3206\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3206\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3207)}}    % original
+%\rhead{\textrmlf{Compiled }\#3207\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3207\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -314,6 +314,9 @@ Furthermore, with the unexpectedly large 20\% uncertainties in
 capacitance all trials fell within the uncertainties of the experiment.
 Thus, the model predicted the charging behavior of capacitors over time
 accurately.
+
+The exact numerical analysis for this section can be found
+\href{https://docs.google.com/spreadsheets/d/1Hw9ooz0CtAvTP9vtw1VT9pVyfsW39IojwwrQX94VJQY/edit?usp=sharing}{here}.
 
 \hypertarget{charge-stored}{%
 \subsection{Charge Stored}\label{charge-stored}}
