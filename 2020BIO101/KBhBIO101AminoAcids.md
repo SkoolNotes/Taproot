@@ -13,7 +13,7 @@ course: BIO101
 
 ## Basics
 H-O-C: Alcahol Group
-C=O: Carboneel
+C=O: Carbonyl
 (H-O-C=O) Carboxylic acid + Single Carbon Backbone +  Amine (H3N+)
 
 At the carbon backbone, any arbiturary thing "R group, or Sidechain" may be connected to it {ring, chain, etc.} that is unique to the amino acid

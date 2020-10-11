@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3015)}}    % original
-%\rhead{\textrmlf{Compiled }\#3015\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3015\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3016)}}    % original
+%\rhead{\textrmlf{Compiled }\#3016\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3016\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -251,7 +251,7 @@ distinguish between the major classes of biomolecules we discussed
   \item
     carboxyl/carboxylic acid --- H-O-C=O
   \item
-    carbonyl
+    carbonyl --- C=O
   \item
     amide
   \item
