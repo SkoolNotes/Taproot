@@ -68,7 +68,7 @@ author: Houjun Liu
 * Endosymbiotic theory 
 	* 	Endosymbiotic theory states that organelles within our current eukaryotic cells — the mitochondria and chloroplasts — are originally prokaryotic cells in their own right. This is because they divide independently through binary fission, and also contains circular DNA that is independent of the main cell itself.
 * Organizing organelles based on membranes #ASK
-	*  	
+	*  Membranous organelles — pocess own plasma	
 
  
 
