@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3133)}}    % original
-%\rhead{\textrmlf{Compiled }\#3133\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3133\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3134)}}    % original
+%\rhead{\textrmlf{Compiled }\#3134\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3134\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -522,7 +522,10 @@ is here}
     \begin{itemize}
     \tightlist
     \item
-      Ribosomes =\textgreater{}
+      Ribosomes =\textgreater{} synthesizes proteins
+    \item
+      Golgi apparatus =\textgreater{} packs, modifying, and moving
+      proteins
     \end{itemize}
   \end{itemize}
 \end{itemize}
