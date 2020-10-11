@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3205)}}    % original
-%\rhead{\textrmlf{Compiled }\#3205\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3205\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3206)}}    % original
+%\rhead{\textrmlf{Compiled }\#3206\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3206\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -245,7 +245,7 @@ V_{cap} = V_{bat}\left(1-e^{-\frac{t - t_0}{\tau}}\right)
 
 The results of the fits are summarized below:
 
-\begin{longtable}[]{@{}lll@{}}
+\begin{longtable}[]{@{}rrl@{}}
 \toprule
 \(\Omega\) & F & Curve Fit\tabularnewline
 \midrule
@@ -293,7 +293,7 @@ capacitance tolerances of \(\pm\) 20\%.
 \hypertarget{results}{%
 \subsubsection{Results}\label{results}}
 
-\begin{longtable}[]{@{}lllll@{}}
+\begin{longtable}[]{@{}rrrrr@{}}
 \toprule
 \(\Omega\) & F & Fit \(\tau\) (s) & Modeled \(\tau\) (s) & \%
 Error\tabularnewline

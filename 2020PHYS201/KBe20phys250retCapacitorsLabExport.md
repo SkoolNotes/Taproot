@@ -37,7 +37,7 @@ $$
 The results of the fits are summarized below:
 
 | $\Omega$ | F | Curve Fit |
-|----------|---|-----------|
+|---------:|--:|-----------|
 100k$\Omega$ | 22$\mu$F | ![](KBesrcCapacitor22microF100kO.png)
 33k$\Omega$  | 1000$\mu$F | ![](./KBesrcCapacitor0.047microF33kO.png) 
 100$\Omega$  | 1000$\mu$F | ![](./KBesrcCapacitor1000microF100ohm.png)
@@ -63,7 +63,7 @@ The manufacturing tolerances of electronic components were taken into account as
 ### Results
 
 | $\Omega$ | F | Fit $\tau$ (s) | Modeled $\tau$ (s) | % Error |
-|---------:|--:|------------|----------------|---------|
+|---------:|--:|-----------:|---------------:|--------:|
 100k$\Omega$ | 22$\mu$F   | 2.3860 | 2.2000 | 8.45%
 33k$\Omega$  | 1000$\mu$F | 0.0017 | 0.0016 | 9.61%
 100$\Omega$  | 1000$\mu$F | 0.1058 | 0.1000 | 5.80%
