@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3204)}}    % original
-%\rhead{\textrmlf{Compiled }\#3204\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3204\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3205)}}    % original
+%\rhead{\textrmlf{Compiled }\#3205\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3205\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -308,10 +308,12 @@ Error\tabularnewline
 
 Assuming perfect capacitor manufacturing, the curve fit results fell
 within uncertainties of the model predicted \(\tau\) value for all
-circuits except the first. However, with the unexpectedly large 20\%
-uncertainties in capacitance all trials fell within the uncertainties of
-the experiment. Thus, the model predicted the charging behavior of
-capacitors over time accurately.
+circuits except the first. This is likely due to the high uncertainties
+placed on smaller scale curve fits, especially the final trial.
+Furthermore, with the unexpectedly large 20\% uncertainties in
+capacitance all trials fell within the uncertainties of the experiment.
+Thus, the model predicted the charging behavior of capacitors over time
+accurately.
 
 \hypertarget{charge-stored}{%
 \subsection{Charge Stored}\label{charge-stored}}

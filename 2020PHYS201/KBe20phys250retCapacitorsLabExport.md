@@ -63,13 +63,13 @@ The manufacturing tolerances of electronic components were taken into account as
 ### Results
 
 | $\Omega$ | F | Fit $\tau$ (s) | Modeled $\tau$ (s) | % Error |
-|----------|---|------------|----------------|---------|
+|---------:|--:|------------|----------------|---------|
 100k$\Omega$ | 22$\mu$F   | 2.3860 | 2.2000 | 8.45%
 33k$\Omega$  | 1000$\mu$F | 0.0017 | 0.0016 | 9.61%
 100$\Omega$  | 1000$\mu$F | 0.1058 | 0.1000 | 5.80%
 15 $\Omega$  | 1000$\mu$F | 0.0188 | 0.0150 | 25.33%
 
-Assuming perfect capacitor manufacturing, the curve fit results fell within uncertainties of the model predicted $\tau$ value for all circuits except the first. However, with the unexpectedly large 20% uncertainties in capacitance all trials fell within the uncertainties of the experiment. Thus, the model predicted the charging behavior of capacitors over time accurately.
+Assuming perfect capacitor manufacturing, the curve fit results fell within uncertainties of the model predicted $\tau$ value for all circuits except the first. This is likely due to the high uncertainties placed on smaller scale curve fits, especially the final trial. Furthermore, with the unexpectedly large 20% uncertainties in capacitance all trials fell within the uncertainties of the experiment. Thus, the model predicted the charging behavior of capacitors over time accurately.
 
 ## Charge Stored
 
