@@ -41,6 +41,8 @@ The results of the fits are summarized below:
 100$\Omega$  | 1000$\mu$F | ![](./KBesrcCapacitor1000microF100ohm.png)
 15 $\Omega$  | 1000$\mu$F | ![](./KBesrcCapacitor1000microF15ohm.png) 
 
+The scattered points near the x-axis are residuals between the curve fit and the collected data. The fit heuristic was to visually center the dots around the x-axis.
+
 ## Charge Stored
 
 # Time Constant with Various Components
