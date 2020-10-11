@@ -46,6 +46,8 @@ First, the `time/RC` values were compared with the resistance of the circuit:
 
 ![time/RC vs Resistance](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=1655543849&format=image)
 
-Although some outliers 
+Although some outliers came from circuits with high resistance, the most skewed ones came from those with least resistance. The same can be said of capacitance:
+
+![time/RC vs Capacitance](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=1866933099&format=image)
 
 ---

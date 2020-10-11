@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3171)}}    % original
-%\rhead{\textrmlf{Compiled }\#3171\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3171\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3172)}}    % original
+%\rhead{\textrmlf{Compiled }\#3172\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3172\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -271,7 +271,11 @@ the circuit:
 \caption{time/RC vs Resistance}
 \end{figure}
 
-Although some outliers
+Although some outliers came from circuits with high resistance, the most
+skewed ones came from those with least resistance. The same can be said
+of capacitance:
+
+{[}time/RC vs Capacitance{]}(
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
