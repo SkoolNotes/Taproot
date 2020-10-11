@@ -122,7 +122,10 @@ author: Houjun Liu
 	* Pinocytosis => take a piece of the membrane with you to form a vesticle to introduce large area of the "outside" in — fluid and solid and all, recycling the membrane after done — "cell drinking"
 	* Endocytosis => Phagocytosis + Pinocytosis
 	* Extocytosis => opposite of endocytosis
-* Be able to define and use the following terms properly: concentration, solution, solute, solvent, isotonic, hypertonic, and hypotonic.  Use a diagram to help explain these concepts.
+* Defining...
+	* Isotonic
+	* Hypertonic
+	* Hypotonic
 
 
 ## Helpful review items

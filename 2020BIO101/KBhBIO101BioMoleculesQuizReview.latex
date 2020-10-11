@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3144)}}    % original
-%\rhead{\textrmlf{Compiled }\#3144\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3144\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3145)}}    % original
+%\rhead{\textrmlf{Compiled }\#3145\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3145\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -580,9 +580,17 @@ transport}\label{plasma-membrane-structure-transport}}
     Extocytosis =\textgreater{} opposite of endocytosis
   \end{itemize}
 \item
-  Be able to define and use the following terms properly: concentration,
-  solution, solute, solvent, isotonic, hypertonic, and hypotonic. Use a
-  diagram to help explain these concepts.
+  Defining\ldots{}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Isotonic
+  \item
+    Hypertonic
+  \item
+    Hypotonic
+  \end{itemize}
 \end{itemize}
 
 \hypertarget{helpful-review-items}{%
