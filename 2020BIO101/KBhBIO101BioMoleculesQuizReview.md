@@ -57,7 +57,13 @@ author: Houjun Liu
 		* Has Cilla — Hair-like items on the outer surface 
 	* Plant Cell
 		* Has cell wall
-		* 
+		* Has chloroplast — photosynthesis
+		* Has cytoplasm
+		* Has Ribosomes
+		* Has Mitochondria
+		* Has plastics — organelle pigments
+		* Mostly has no Cilla
+* 
  
 
 ## Helpful review items
