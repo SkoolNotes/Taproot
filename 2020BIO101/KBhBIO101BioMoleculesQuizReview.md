@@ -113,7 +113,11 @@ author: Houjun Liu
 * Functions of cell membrane
 	* Phosophilid structures [[KBhBIO101StructuresOfLipids]]
 	* Transmembrane proteins [[KbhBIO101CellTransport]]
-	* Hydrophobic + hydrophillic parts of a phosophilid
+	* Hydrophobic + hydrophillic parts of a phosophilid [[KBhBIO101StructuresOfLipids]] + [[KBhBIO101FluidMosaic]]
+* Passive + active transport [[KbhBIO101CellTransport]]
+* Cell transport process
+	* Simple diffusion => molecules needed "fall in" through a transporter protein
+	* Facilitated diffusion =>  
 
 ## Helpful review items
 

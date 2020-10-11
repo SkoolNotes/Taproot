@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3136)}}    % original
-%\rhead{\textrmlf{Compiled }\#3136\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3136\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3137)}}    % original
+%\rhead{\textrmlf{Compiled }\#3137\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3137\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -549,6 +549,21 @@ transport}\label{plasma-membrane-structure-transport}}
     Transmembrane proteins {[}{[}KbhBIO101CellTransport{]}{]}
   \item
     Hydrophobic + hydrophillic parts of a phosophilid
+    {[}{[}KBhBIO101StructuresOfLipids{]}{]} +
+    {[}{[}KBhBIO101FluidMosaic{]}{]}
+  \end{itemize}
+\item
+  Passive + active transport {[}{[}KbhBIO101CellTransport{]}{]}
+\item
+  Cell transport process
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Simple diffusion =\textgreater{} molecules needed ``fall in''
+    through a transporter protein
+  \item
+    Facilitated diffusion =\textgreater{}
   \end{itemize}
 \end{itemize}
 
