@@ -96,8 +96,10 @@ author: Houjun Liu
 		* nucleus => centre of the cell, stores DNA
 		* nucleolus => largest part of the nucleous that makes ribosomes
 	* lysosomes and food vacuoles
-		* Lysosomes => vesticles that contains 
+		* Lysosomes => vesticles that contains enzymes that breaks down biomolecules
+		* Food Vacoules => vesticels that stores food and other resources
 	* cytoskeleton and microtubules
+		* 
 	* flagella and cilia 
 
 
