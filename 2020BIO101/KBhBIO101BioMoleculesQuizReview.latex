@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3116)}}    % original
-%\rhead{\textrmlf{Compiled }\#3116\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3116\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3117)}}    % original
+%\rhead{\textrmlf{Compiled }\#3117\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3117\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -408,12 +408,36 @@ is here}
       Vacuoles =\textgreater{} storing water, nutrients, waste
     \item
       Plastids =\textgreater{} creates colours displayed in the
-      chromoplasts *o chloroplast and mitochondria o cell wall and
-      plasma membrane o rough endoplasmic reticulum (ER) and smooth ER o
-      cytosol, cytoplasm and cytoskeleton o nucleus and nucleolus o
-      lysosomes and food vacuoles o cytoskeleton and microtubules o
-      flagella and ciliau
+      chromoplasts
     \end{itemize}
+  \end{itemize}
+\item
+  Cell Components
+
+  \begin{itemize}
+  \tightlist
+  \item
+    chloroplast and mitochondria
+
+    \begin{itemize}
+    \tightlist
+    \item
+      store ATP and extract energy from ATP
+    \end{itemize}
+  \item
+    cell wall and plasma membrane
+  \item
+    rough endoplasmic reticulum (ER) and smooth ER
+  \item
+    cytosol, cytoplasm and cytoskeleton
+  \item
+    nucleus and nucleolus
+  \item
+    lysosomes and food vacuoles
+  \item
+    cytoskeleton and microtubules
+  \item
+    flagella and cilia
   \end{itemize}
 \end{itemize}
 

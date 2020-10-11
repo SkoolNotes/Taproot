@@ -78,16 +78,18 @@ author: Houjun Liu
 		* Mitochrondria => store ATP and extract energy from ATP
 		* Vacuoles => storing water, nutrients, waste
 		* Plastids => creates colours displayed in the chromoplasts
-	*o   chloroplast and mitochondria
-o   cell wall and plasma membrane
-o   rough endoplasmic reticulum (ER) and smooth ER
-o   cytosol, cytoplasm and cytoskeleton
-o   nucleus and nucleolus
-o   lysosomes and food vacuoles
-o   cytoskeleton and microtubules
-o   flagella and ciliau 
+* Cell Components
+	* chloroplast and mitochondria
+		* does photosynthesis;  store ATP and extract energy from ATP
+	* cell wall and plasma membrane
+	* rough endoplasmic reticulum (ER) and smooth ER
+	* cytosol, cytoplasm and cytoskeleton
+	* nucleus and nucleolus
+	* lysosomes and food vacuoles
+	* cytoskeleton and microtubules
+	* flagella and cilia 
 
- 
+
 
 ## Helpful review items
 
