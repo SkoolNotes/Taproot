@@ -72,7 +72,7 @@ author: Houjun Liu
 	*  Non-membranous organelles — does not posess own plasma => mostly part of the cytoskeleton of a cell
 		* Filaments
 		* Microtubules
-		* Centrioles
+		* Centrioles 
 
  
 
