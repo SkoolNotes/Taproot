@@ -32,12 +32,12 @@ $$
 V_{cap} = V_{bat}\left(1-e^{-\frac{t - t_0}{\tau}}\right)
 $$
 
-The results of the fits are summarized with the table below:
+The results of the fits are summarized below:
 
-| | |
-|-|-|
-| ![](./KBesrcCapacitor22mF100kO.png) | ![](./KBesrcCapacitor0.047microF33kO.png) |
-| ![](./KBesrcCapacitor1000microF100ohm.png) | ![](./KBesrcCapacitor1000microF15ohm.png) |
+![](./KBesrcCapacitor22mF100kO.png)
+![](./KBesrcCapacitor0.047microF33kO.png) 
+![](./KBesrcCapacitor1000microF100ohm.png)
+![](./KBesrcCapacitor1000microF15ohm.png) 
 
 ## Charge Stored
 
