@@ -29,9 +29,10 @@ author: Houjun Liu
 		* Saturated Fats => no double bonds in the carbon chain of fatty acids — think! butter
 		* Unsaturated Fats => double bonds in the carbon chain of fatty acids — think! olive oil
 * Identify functional groups
-	*  carboxyl/carboxylic acid — H-O-C=O 
-	*  carbonyl  — C=O
-	*  amide
+	* Amino acid groups
+		*  carboxyl/carboxylic acid — H-O-C=O 
+		*  carbonyl  — C=O
+		*  amide — RC(=O)NR′R″: frequently shown in side chains of amino acids
 	*  amino/amine
 	*  ester
 	*  ether

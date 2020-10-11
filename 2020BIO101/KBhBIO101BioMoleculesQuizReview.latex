@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3016)}}    % original
-%\rhead{\textrmlf{Compiled }\#3016\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3016\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3017)}}    % original
+%\rhead{\textrmlf{Compiled }\#3017\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3017\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -249,11 +249,18 @@ distinguish between the major classes of biomolecules we discussed
   \begin{itemize}
   \tightlist
   \item
-    carboxyl/carboxylic acid --- H-O-C=O
-  \item
-    carbonyl --- C=O
-  \item
-    amide
+    Amino acid groups
+
+    \begin{itemize}
+    \tightlist
+    \item
+      carboxyl/carboxylic acid --- H-O-C=O
+    \item
+      carbonyl --- C=O
+    \item
+      amide --- RC(=O)NR′R″: frequently shown in side chains of amino
+      acids
+    \end{itemize}
   \item
     amino/amine
   \item
