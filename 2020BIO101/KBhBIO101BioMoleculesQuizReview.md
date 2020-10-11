@@ -128,7 +128,9 @@ author: Houjun Liu
 	* Hypotonic => outside has less osmolarity than the inside: water/other elems will flow into the cell
 	
 ### Proteins Structures and Function
-* 
+* Overall structure, monomers/building blocks, functions, and examples of proteins => [[KBhBIO101Proteins]]
+* Polymerization via dehydration
+	* Take two amino acids, take 
 
 
 ## Helpful review items
