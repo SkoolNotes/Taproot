@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3022)}}    % original
-%\rhead{\textrmlf{Compiled }\#3022\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3022\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3023)}}    % original
+%\rhead{\textrmlf{Compiled }\#3023\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3023\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -268,7 +268,7 @@ distinguish between the major classes of biomolecules we discussed
     \item
       hydroxyl --- OH group. Need I say more?
     \item
-      ester ---
+      ester --- take a carboxylic acid and replace the hydrogen
     \item
       ether --- R-O-R structure. Commonly shown as as an alcohol group
       (H-O-C) as part of the carboxyl
