@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3145)}}    % original
-%\rhead{\textrmlf{Compiled }\#3145\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3145\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3146)}}    % original
+%\rhead{\textrmlf{Compiled }\#3146\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3146\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -585,11 +585,15 @@ transport}\label{plasma-membrane-structure-transport}}
   \begin{itemize}
   \tightlist
   \item
-    Isotonic
+    Isotonic =\textgreater{} inside and outside have the same level of
+    ``osmolarity'': probablility for osmosis to happen through a
+    semipermiable membrane
   \item
-    Hypertonic
+    Hypertonic =\textgreater{} inside has less osmolarity than the
+    outside: water/other elems will flow out of the cell
   \item
-    Hypotonic
+    Hypotonic =\textgreater{} outside has less osmolarity than the
+    inside: water/other elems will flow into the cell
   \end{itemize}
 \end{itemize}
 

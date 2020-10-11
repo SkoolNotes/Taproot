@@ -123,9 +123,12 @@ author: Houjun Liu
 	* Endocytosis => Phagocytosis + Pinocytosis
 	* Extocytosis => opposite of endocytosis
 * Defining...
-	* Isotonic
-	* Hypertonic
-	* Hypotonic
+	* Isotonic => inside and outside have the same level of "osmolarity": probablility for osmosis to happen through a semipermiable membrane
+	* Hypertonic => inside has less osmolarity than the outside: water/other elems will flow out of the cell
+	* Hypotonic => outside has less osmolarity than the inside: water/other elems will flow into the cell
+	
+### Proteins Structures and Function
+* 
 
 
 ## Helpful review items
