@@ -70,7 +70,7 @@ author: Houjun Liu
 * Organizing organelles based on membranes #ASK
 	*  Membranous organelles — possess own plasma => regulates own macromolecure consumption, hormones, etc. Perhaps original prokarotic cells
 		*  Endoplasmic reticulum => forms the network of transferring proteins and other elements
-		*  Golgi body/Gioli apparatus => pacs  
+		*  Golgi body/Gioli apparatus => packs, sorts, and modifies proteins and other elements throughout the cell
 	*  Non-membranous organelles — does not posess own plasma => mostly part of the cytoskeleton of a cell
 		* Ribosomes => protein synthesizer in the cell
 		* Centrosome => forms flangella, cilla, and handles cells divisions
