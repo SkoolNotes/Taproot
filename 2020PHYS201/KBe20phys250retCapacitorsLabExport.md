@@ -56,6 +56,8 @@ $$
 $$
 for multiplicative ones.
 
+The manufacturing tolerances of electronic components were taken into account as well: resistor tolerances were based on the absolute difference between standard resistances and those measured by a multimeter, and capacitance tolerances were 
+
 ## Charge Stored
 
 # Time Constant with Various Components
