@@ -118,10 +118,12 @@ author: Houjun Liu
 * Cell transport process
 	* Simple diffusion ( #ASK same thing as passive transport + osmosis )=> non-polar molecules needed "fall in"
 	* Facilitated diffusion => specific polar molecules go along the gradient to get into the cell through transporter proteins
-	* Phagocytosis => take a piece of the membrane with you to form a vesticle to introduce large solid elements, recycling the membrane after done
-	* Pinocytosis => take a piece of the membrane with you to form a vesticle to introduce large elements, recycling the membrane after done
-	*  Extocytosis => opposite of endocytosis
-	* 
+	* Phagocytosis => take a piece of the membrane with you to form a vesticle to introduce large solid elements, recycling the membrane after done — "cell eating"
+	* Pinocytosis => take a piece of the membrane with you to form a vesticle to introduce large area of the "outside" in — fluid and solid and all, recycling the membrane after done — "cell drinking"
+	* Endocytosis => Phagocytosis + Pinocytosis
+	* Extocytosis => opposite of endocytosis
+* Be able to define and use the following terms properly: concentration, solution, solute, solvent, isotonic, hypertonic, and hypotonic.  Use a diagram to help explain these concepts.
+
 
 ## Helpful review items
 
