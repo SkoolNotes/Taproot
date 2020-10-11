@@ -109,7 +109,10 @@ author: Houjun Liu
 		* Golgi apparatus => packs, modifying, and moving proteins 
 
 ### Plasma Membrane Structure + transport
-* 
+* Lipid structure and substructures: [[KBhBIO101Lipids]]
+* Functions of cell membrane
+	* Phosophilid structures [[KBhBIO101StructuresOfLipids]]
+	* Transmembrane proteins
 
 ## Helpful review items
 
