@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3019)}}    % original
-%\rhead{\textrmlf{Compiled }\#3019\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3019\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3020)}}    % original
+%\rhead{\textrmlf{Compiled }\#3020\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3020\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -263,11 +263,11 @@ distinguish between the major classes of biomolecules we discussed
       \href{https://en.wikipedia.org/wiki/Amide\#/media/File:Amide-general.png}{Amine})
     \item
       amino/amine --- H3N+ (right side of backbone)
+    \item
+      ester ---
+    \item
+      ether --- R-O-R structure. Comm
     \end{itemize}
-  \item
-    ester
-  \item
-    ether
   \item
     hydroxyl
   \end{itemize}

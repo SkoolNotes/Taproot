@@ -34,8 +34,8 @@ author: Houjun Liu
 		*  carbonyl  — C=O — part of carboxyl 
 		*  amide — RC(=O)NR′R″ (frequently shown in side chains of amino acids — see [Amine](https://en.wikipedia.org/wiki/Amide#/media/File:Amide-general.png))
 		*  amino/amine — H3N+ (right side of backbone)
-	*  ester
-	*  ether
+		*  ester — 
+		*  ether — R-O-R structure. Commonly shown as as an alcohol group (H-O-C) as part of the carboxyl
 	*  hydroxyl
 
 ## Helpful review items
