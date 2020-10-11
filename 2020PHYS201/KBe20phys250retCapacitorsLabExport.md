@@ -36,9 +36,9 @@ The results of the fits are summarized below:
 
 | Resistance | Capacitance | Curve Fit |
 |------------|-------------|-----------|
-$100k\Omega$ | $22
-![](KBesrcCapacitor22microF100kO.png)
-![](./KBesrcCapacitor0.047microF33kO.png) 
+100k$\Omega$ | 22$\mu$F | ![](KBesrcCapacitor22microF100kO.png)
+33k$\Omega$  | 1000$\mu$F |  ![](./KBesrcCapacitor0.047microF33kO.png) 
+
 ![](./KBesrcCapacitor1000microF100ohm.png)
 ![](./KBesrcCapacitor1000microF15ohm.png) 
 
