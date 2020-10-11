@@ -54,7 +54,10 @@ author: Houjun Liu
 		* Has Ribosomes
 		* Has Mitochondria
 		* No plastids — organelle pigments
-		* Hair-like items on the outer surface
+		* Has Cilla — Hair-like items on the outer surface 
+	* Plant Cell
+		* Has cell wall
+		* 
  
 
 ## Helpful review items
