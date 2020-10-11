@@ -21,4 +21,6 @@ $$
 \frac{t}{RC}
 $$
 
+`time/RC` is a unitless scalar that represents how quickly it takes to charge any capacitor for a given voltage. Because voltage data was not collected during the experiment
+
 ---
