@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3242)}}    % original
-%\rhead{\textrmlf{Compiled }\#3242\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3242\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3243)}}    % original
+%\rhead{\textrmlf{Compiled }\#3243\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3243\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -267,14 +267,10 @@ is here}
     \item
       ester --- take a carboxylic acid and replace the hydrogen with a
       R-O group \#ASK
-
-      \begin{itemize}
-      \tightlist
-      \item
-      \end{itemize}
     \item
       ether --- R-O-R structure. Commonly shown as as an alcohol group
-      (H-O-R) as part of the carboxyl
+      (H-O-R) as part of the carboxyl =\textgreater{} glycocidic bonds
+      are formed by ether
     \end{itemize}
   \end{itemize}
 \item
