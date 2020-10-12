@@ -92,9 +92,6 @@ The exact numerical analysis for this section can be found [here](https://docs.g
 
 # Integration of Current
 
-## Purpose
-As before, the purpose is to evaluate the numerical model for capacitor charge vs time.
-
 ## Procedure
 
 Another way to evaluate the model is to compare the amount of transferred charge. For this comparison, a modified equation is used: 
