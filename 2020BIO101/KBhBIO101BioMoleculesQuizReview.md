@@ -36,7 +36,7 @@ author: Houjun Liu
 		*  amino/amine — H3N+ (right side of backbone)
 		*  hydroxyl — OH group. Need I say more?
 		*  ester — take a carboxylic acid and replace the hydrogen with anything else  #ASK. => What join fatty acid chains with the glycerol to make trigrcyeride
-		*  ether — R-O-R structure.  => glycocidic bonds are formed by ether
+		*  ether — R-O-R structure.  => glycocidic bonds are formed by ether bonds
 		*  alcohol group (H-O-R) as part of the carboxyl
 * Monomers vs Polymers [[KBhBIO101StructuresofCarbs]]
 	* Monomer — single molecule (such as a monosacchride) that could be chained together to make polymers
