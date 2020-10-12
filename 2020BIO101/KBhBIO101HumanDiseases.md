@@ -68,5 +68,12 @@ Acquired diseases => diseases that begin during lifetime, including...
 
 ### Protozoan
 
-* 
+* **Protozoan factors** => direction pathogenisis leading to tissue damage
+* **Host-mediated factors** => immune evation + escape mechnisms + immunalsupression
+
+Adaptable!!
+
+### Fungal
+
+* **Fungal factors** => 
 
