@@ -36,7 +36,8 @@ author: Houjun Liu
 		*  amino/amine — H3N+ (right side of backbone)
 		*  hydroxyl — OH group. Need I say more?
 		*  ester — take a carboxylic acid and replace the hydrogen with a R-O group  #ASK
-		*  ether — R-O-R structure. Commonly shown as as an alcohol group (H-O-R) as part of the carboxyl => glycocidic bonds are formed by ether
+		*  ether — R-O-R structure.  => glycocidic bonds are formed by ether
+		*  alcohol group (H-O-R) as part of the carboxyl
 * Monomers vs Polymers [[KBhBIO101StructuresofCarbs]]
 	* Monomer — single molecule (such as a monosacchride) that could be chained together to make polymers
 	* Polymers — complex molecues built from monomers
