@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3235)}}    % original
-%\rhead{\textrmlf{Compiled }\#3235\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3235\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3236)}}    % original
+%\rhead{\textrmlf{Compiled }\#3236\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3236\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -239,7 +239,18 @@
     \item
       Newton: gravity, motion, calculus
     \end{itemize}
+  \end{itemize}
+\item
+  The Enlightment
+
+  \begin{itemize}
+  \tightlist
   \item
+    What are people like in the state of nature
+  \item
+    Was there a time before government
+  \item
+    Can we extract first principles of society and politics
   \end{itemize}
 \end{itemize}
 

@@ -32,4 +32,7 @@ course: HIST201
 		* Gallieo: Telescope
 		* Kepler: Elliptical orbits, planetary motion
 		* Newton: gravity, motion, calculus
-	* 153758098870939 
+* The Enlightment
+	* What are people like in the state of nature
+	* Was there a time before government
+	* Can we extract first principles of society and politics 
