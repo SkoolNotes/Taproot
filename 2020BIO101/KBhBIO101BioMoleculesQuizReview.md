@@ -124,7 +124,7 @@ author: Houjun Liu
 * Cell transport process
 	* Simple diffusion => things just spread out from high concentration to low concentrations
 	* Passive diffusion => non-polar molecules needed "fall in" through the phosolipid bi-layer
-	* Facilitated diffusion => specific polar molecules go along the gradient to get into the cell through transporter proteins
+	* Facilitated diffusion => specific polar molecules go along the gradient to get into the cell through transporter proteins. Osmosis is the facilitated diffusion, just of water.
 	* Phagocytosis => take a piece of the membrane with you to form a vesticle to introduce large solid elements, recycling the membrane after done — "cell eating"
 	* Pinocytosis => take a piece of the membrane with you to form a vesticle to introduce large area of the "outside" in — fluid and solid and all, recycling the membrane after done — "cell drinking"
 	* Endocytosis => Phagocytosis + Pinocytosis
