@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3288)}}    % original
-%\rhead{\textrmlf{Compiled }\#3288\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3288\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3289)}}    % original
+%\rhead{\textrmlf{Compiled }\#3289\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3289\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -225,6 +225,8 @@ to \(\frac{2}{3}\) of \(V_{bat}\).\strut
 \bottomrule
 \end{longtable}
 
+{[}The meanings of variables in the numerical model{]}{[}{]}
+
 \hypertarget{voltage-over-time}{%
 \section{Voltage over Time}\label{voltage-over-time}}
 
@@ -266,20 +268,10 @@ dots around the x-axis.
 
 The results of the fits are summarized below:
 
-\begin{longtable}[]{@{}rrl@{}}
-\toprule
-\(\Omega\) & F & Curve Fit\tabularnewline
-\midrule
-\endhead
-100k\(\Omega\) & 22\(\mu\)F &
-\includegraphics{KBesrcCapacitor22microF100kO.png} \textbar{}
-33k\(\Omega\)\tabularnewline
-15 \(\Omega\) & 1000\(\mu\)F &
-\includegraphics{./KBesrcCapacitor1000microF15ohm.png}\tabularnewline
-\bottomrule
-\end{longtable}
-
-{[}Curve fit results{]}{[}{]}
+\includegraphics{KBesrcCapacitor22microF100kO.png}
+\includegraphics{./KBesrcCapacitor0.047microF33kO.png}\\
+\includegraphics{./KBesrcCapacitor1000microF100ohm.png}
+\includegraphics{./KBesrcCapacitor1000microF15ohm.png}
 
 \begin{longtable}[]{@{}rrrrr@{}}
 \toprule

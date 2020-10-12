@@ -22,6 +22,8 @@ $V_{cap}$ | Volts (V) | Voltage across the capacitor after a given elapsed time
 $V_{bat}$ | Volts (V) | Voltage of the battery, assumed to be constant.
 $\tau$ | Seconds (s) | "Time constant" that scales the equation to the circuit. Equal to the product of the resistance and capacitance of the circuit ($RC$), and roughly equal to the number of seconds required to charge the capacitor to $\frac{2}{3}$ of $V_{bat}$.
 
+![The meanings of variables in the numerical model][]
+
 # Voltage over Time
 
 ## Equipment
@@ -45,14 +47,10 @@ The scattered points near the x-axis are residuals between the curve fit and the
 
 The results of the fits are summarized below:
 
-| $\Omega$ | F | Curve Fit |
-|---------:|--:|-----------|
-100k$\Omega$ | 22$\mu$F | ![Curve fit of 100k$\Omega$22$\mu$F circuit](KBesrcCapacitor22microF100kO.png) |
-33k$\Omega$  | 1000$\mu$F | ![Curve fit of 33$\Omega$1000$\mu$F circuit](./KBesrcCapacitor0.047microF33kO.png)  |
-100$\Omega$  | 1000$\mu$F | ![Curve fit of 100$\Omega$1000$\mu$F circuit](./KBesrcCapacitor1000microF100ohm.png) |
-15 $\Omega$  | 1000$\mu$F | ![Curve fit of 15$\Omega$1000$\mu$F circuit](./KBesrcCapacitor1000microF15ohm.png) |
-
-![Curve fit results][]
+![Curve fit of 100k$\Omega$22$\mu$F circuit](KBesrcCapacitor22microF100kO.png) 
+![Curve fit of 33$\Omega$1000$\mu$F circuit](./KBesrcCapacitor0.047microF33kO.png)  
+![Curve fit of 100$\Omega$1000$\mu$F circuit](./KBesrcCapacitor1000microF100ohm.png) 
+![Curve fit of 15$\Omega$1000$\mu$F circuit](./KBesrcCapacitor1000microF15ohm.png) 
 
 | $\Omega$ | F | Fit $\tau$ (s) | Modeled $\tau$ (s) | % Error |
 |---------:|--:|-----------:|---------------:|--------:|
