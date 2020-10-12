@@ -22,5 +22,6 @@ author: Houjun Liu
 			* Entire world organized structurally
 			* God at the top, rocks at the bottom
 				* In which, King on the top — God's divine representative ("L'état c'est moi" — the state is me)
-				*  
+				* French societies organized into three castes — "estates"
+					* First Estate => clergy; enjo
 	

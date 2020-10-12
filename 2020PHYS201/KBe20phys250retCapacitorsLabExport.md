@@ -1,8 +1,8 @@
 ---
-title:   Capacitors Lab Export
-context: 20phys250
+title:   Capacitors Lab Writeup
+context: PHYS250
 author:  Albert Huang
-source:  2020PHYS201/KBe20phys250retCapacitorsLab.md
+source:  KBe20phys250retCapacitorsLab
 ---
 
 #ret 
