@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3257)}}    % original
-%\rhead{\textrmlf{Compiled }\#3257\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3257\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3258)}}    % original
+%\rhead{\textrmlf{Compiled }\#3258\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3258\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -171,5 +171,15 @@
 \section{Overview of Human Diseases}\label{overview-of-human-diseases}}
 
 A lecture by Paul.
+
+\#flo \#disorganized
+
+\textbf{Disease} is an abnormal condu
+
+\begin{itemize}
+\tightlist
+\item
+  What causes human disease?
+\end{itemize}
 
 \end{document}
