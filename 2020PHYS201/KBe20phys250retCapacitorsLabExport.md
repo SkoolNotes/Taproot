@@ -48,8 +48,11 @@ The scattered points near the x-axis are residuals between the curve fit and the
 The results of the fits are summarized below:
 
 ![Curve fit of 100k$\Omega$22$\mu$F circuit](KBesrcCapacitor22microF100kO.png) 
+
 ![Curve fit of 33$\Omega$1000$\mu$F circuit](./KBesrcCapacitor0.047microF33kO.png)  
+
 ![Curve fit of 100$\Omega$1000$\mu$F circuit](./KBesrcCapacitor1000microF100ohm.png) 
+
 ![Curve fit of 15$\Omega$1000$\mu$F circuit](./KBesrcCapacitor1000microF15ohm.png) 
 
 | $\Omega$ | F | Fit $\tau$ (s) | Modeled $\tau$ (s) | % Error |
