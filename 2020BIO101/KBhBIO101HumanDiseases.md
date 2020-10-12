@@ -75,5 +75,10 @@ Adaptable!!
 
 ### Fungal
 
-* **Fungal factors** => 
+* **Fungal factors** => many shapes and very adaptable, colud produced specialized enzymes to take root in body
+* **Host-mediated factors** => cause immunocomprimzation, acquired though inhalation, etc.
+
+### Bacteria
+
+**Bacterial-induced toxicity** => viluence factors
 
