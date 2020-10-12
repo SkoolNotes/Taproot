@@ -51,7 +51,9 @@ The results of the fits are summarized below:
 
 ![Curve fit of 33 $\Omega$ 1000 $\mu$ F circuit](./KBesrcCapacitor0.047microF33kO.png)  
 
-![Curve fit of 100 $\Omega$ 1000 $\mu$ F circuit](./KBesrcCapacitor1000microF100ohm.png) 
+!nope[Curve fit of 100 $\Omega$ 1000 $\mu$ F circuit]nope(./KBesrcCapacitor1000microF100ohm.png) 
+
+![Curve fit of 100 ](./KBesrcCapacitor1000microF100ohm.png) 
 
 ![Curve fit of 15 $\Omega$ 1000 $\mu$ F circuit](./KBesrcCapacitor1000microF15ohm.png) 
 
