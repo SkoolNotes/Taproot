@@ -35,7 +35,7 @@ author: Houjun Liu
 		*  amide — RC(=O)NR′R″ (frequently shown in side chains of amino acids — see [Amine](https://en.wikipedia.org/wiki/Amide#/media/File:Amide-general.png))
 		*  amino/amine — H3N+ (right side of backbone)
 		*  hydroxyl — OH group. Need I say more?
-		*  ester — take a carboxylic acid and replace the hydrogen with a R-O group  #ASK
+		*  ester — take a carboxylic acid and replace the hydrogen with anything else  #ASK. => What join fatty acid chains with the glycerol to make trigrcyeride
 		*  ether — R-O-R structure.  => glycocidic bonds are formed by ether
 		*  alcohol group (H-O-R) as part of the carboxyl
 * Monomers vs Polymers [[KBhBIO101StructuresofCarbs]]
@@ -171,3 +171,5 @@ Most enzymes are proteins, and thus their activity can be directly influenced by
 ## Helpful review items
 
 ![Screen Shot 2020-10-09 at 11.58.55 AM.png](Screen Shot 2020-10-09 at 11.58.55 AM.png)
+
+![Screen Shot 2020-10-12 at 2.34.16 PM.png](Screen Shot 2020-10-12 at 2.34.16 PM.png)
