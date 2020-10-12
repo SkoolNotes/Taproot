@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3222)}}    % original
-%\rhead{\textrmlf{Compiled }\#3222\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3222\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3223)}}    % original
+%\rhead{\textrmlf{Compiled }\#3223\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3223\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -353,7 +353,9 @@ suggesting some systematic error is at play. One culprit may be
 misaligned data: if the Riemann sum calculation began after charging,
 then the entire sum would be skewed low. However, the sum plot is not a
 vertical translation of the theoretical value, which suggests the effect
-of this mis-zeroed sensors: if the Riemann sum started
+of this issue is minimal or canceled. Another issue may be miscalibrated
+sensors: if each amperage measurement was off by \(10^-5\)A, the
+cumulative affect would
 
 \hypertarget{time-constant-with-various-components}{%
 \section{Time Constant with Various
