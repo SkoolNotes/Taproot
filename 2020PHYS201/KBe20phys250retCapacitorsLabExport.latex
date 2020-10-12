@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3292)}}    % original
-%\rhead{\textrmlf{Compiled }\#3292\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3292\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3293)}}    % original
+%\rhead{\textrmlf{Compiled }\#3293\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3293\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -394,7 +394,11 @@ on. The effect of this drift can be counteracted by taking the average
 of readings when no charge should be flowing, multiplying by the number
 of data points, and subtracting the total from the final charge value.
 However, the calculated drift was an order of magnitude greater than the
-total accumulated charge, so the author did not
+total accumulated charge, so the author did not numerically sanitize
+against this drift.
+
+Although the intermediate charge values do not match the model, the
+final accumulated charge is sensical
 
 \hypertarget{time-constant-with-various-components}{%
 \section{Time Constant with Various
