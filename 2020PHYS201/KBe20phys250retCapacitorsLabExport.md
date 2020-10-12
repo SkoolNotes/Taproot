@@ -124,6 +124,7 @@ Although the intermediate charge values do not match the model, the final accumu
 ## Conclusion
 
 The Riemann sums of measured current align with the model and expected charge calculated by the voltage on the capacitor and the definition of the Farad. Thus, the model accurately predicts experimental behavior, suggesting that it is correct. Although the graphs differed slightly, these may be attributed to the subjective curve fit metric, sensor inaccuracies while measuring small flows of current, or sensor calibration inaccuracies.
+Future analysis could be more accurate by calculating the false z
 
 # Time Constant with Various Components
 
