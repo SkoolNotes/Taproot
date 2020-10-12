@@ -32,5 +32,5 @@ Division by 0/infinite discontinutiy => undefined
 
 Hole => not defined
 
-Sq. Root Functions => not defined during division by negative number
+Sq. Root Functions => not defined when x={negative number}
 
