@@ -113,7 +113,8 @@ In addition, the final accumulated charge calculated by the Riemann sum was 0.00
 
 As the graph shows, both proxies of charge on the capacitor generally agree with the model but come up with smaller values of charge. Notably, the two experimental proxies don't agree with each other either, suggesting some systematic error is at play.
 
-One culprit may be misaligned data: if the Riemann sum calculation began after charging, then the entire sum would be skewed low. However, the sum plot is not a vertical translation of the theoretical value, which suggests the effect of this issue is minimal or canceled. Another issue may be miscalibrated sensors: if each amperage measurement was off by $10^-5$A, the cumulative affect would drag down the total as time went on. 
+One culprit may be misaligned data: if the Riemann sum calculation began after charging, then the entire sum would be skewed low. However, the sum plot is not a vertical translation of the theoretical value, which suggests the effect of this issue is minimal or canceled.
+Another issue may be miscalibrated sensors: if each amperage measurement was off by $10^-5$A, the cumulative affect would drag down the total as time went on. The effect of this drift can be counteracted by taking the average of readings when no charge should be flowing, multiplying by the number of data points, and subtracting the total from the final charge value. However, the calculated drift was an order of magnitude greater than the total accumulated charge, so the author did not 
 
 # Time Constant with Various Components
 
