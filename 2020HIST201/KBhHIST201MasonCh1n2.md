@@ -19,5 +19,8 @@ author: Houjun Liu
 		* "Acien régime" => 1789 to 1800s france
 		* Strict grid of social hierarchy resulted due to birthright
 		* Societal organization explained by Great Chain of Being
-			*  
+			* Entire world organized structurally
+			* God at the top, rocks at the bottom
+				* In which, King on the top — God's divine representative ("L'état c'est moi" — the state is me)
+				*  
 	
