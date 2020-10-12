@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3258)}}    % original
-%\rhead{\textrmlf{Compiled }\#3258\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3258\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3259)}}    % original
+%\rhead{\textrmlf{Compiled }\#3259\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3259\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -174,12 +174,26 @@ A lecture by Paul.
 
 \#flo \#disorganized
 
-\textbf{Disease} is an abnormal condu
+\textbf{Disease} is an abnormal condition that causes impairment in/loss
+of function of an organism (a.k.a. decreased fitness) that is not due to
+immediate external injury.
 
 \begin{itemize}
 \tightlist
 \item
   What causes human disease?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Infectious agents
+  \item
+    Deficiency disorders
+  \item
+    Heritable factors
+  \item
+    Physiological disorders (immunodeficiency, autoimmune dis
+  \end{itemize}
 \end{itemize}
 
 \end{document}

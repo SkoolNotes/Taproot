@@ -16,4 +16,4 @@ A lecture by Paul.
 	* Infectious agents
 	* Deficiency disorders
 	* Heritable factors
-	* Phy
+	* Physiological disorders (immunodeficiency, autoimmune dis
