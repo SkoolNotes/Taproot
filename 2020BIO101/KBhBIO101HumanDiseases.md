@@ -5,6 +5,7 @@ author: Houjun Liu
 course: BIO201
 ---
 
-# Human Diseases
+# Overview of Human Diseases
+A lecture by Paul.
 
 

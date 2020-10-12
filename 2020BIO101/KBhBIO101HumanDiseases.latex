@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3256)}}    % original
-%\rhead{\textrmlf{Compiled }\#3256\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3256\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3257)}}    % original
+%\rhead{\textrmlf{Compiled }\#3257\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3257\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -167,7 +167,9 @@
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{human-diseases}{%
-\section{Human Diseases}\label{human-diseases}}
+\hypertarget{overview-of-human-diseases}{%
+\section{Overview of Human Diseases}\label{overview-of-human-diseases}}
+
+A lecture by Paul.
 
 \end{document}
