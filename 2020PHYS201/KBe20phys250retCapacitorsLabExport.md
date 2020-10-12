@@ -7,6 +7,8 @@ source:  2020PHYS201/KBe20phys250retCapacitorsLab.md
 
 #ret 
 
+$\title{Capacitor Charging Labs}$
+
 # Introduction
 
 The purpose of this lab is to verify the relation between capacitance, resistance, voltage, and charge time of a simple capacitor circuit. The equation that will be verified is

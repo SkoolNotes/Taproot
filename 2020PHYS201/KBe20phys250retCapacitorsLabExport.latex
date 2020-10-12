@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3224)}}    % original
-%\rhead{\textrmlf{Compiled }\#3224\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3224\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3275)}}    % original
+%\rhead{\textrmlf{Compiled }\#3275\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3275\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -168,6 +168,8 @@
 {\href{http://taproot.shabang.cf/relay?request=2020PHYS201/KBe20phys250retCapacitorsLab.md}{\tiny\textulf{[[}\textbf{2020PHYS201/KBe20phys250retCapacitorsLab.md}\textulf{]]}}}\thinspace
 
 \#ret
+
+\(\title{Capacitor Charging Labs}\)
 
 \hypertarget{introduction}{%
 \section{Introduction}\label{introduction}}
