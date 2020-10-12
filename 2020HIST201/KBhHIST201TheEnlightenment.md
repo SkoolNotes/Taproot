@@ -7,8 +7,16 @@ course: HIST201
 
 
 # The Enlightenment
+
+#flo #disorganized 
+
 * Somewhere in here, people learned about art again
-* Middle ages
-	* Trading freedom for security
-	* Church provides for community consistancy
-	* Lords provides for
+* Medival Times
+	* "Trading freedom for security"
+	* Church provides for community consistency
+	* Lords provides for protection
+	* Church embodied truth
+* Protestant revolution
+	* Church embodied truch => bible embodied truth
+	* Encouraged reading
+	* Middle class grew, making more people wealthy enough 

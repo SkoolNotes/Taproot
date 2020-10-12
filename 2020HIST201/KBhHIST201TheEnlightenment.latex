@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3229)}}    % original
-%\rhead{\textrmlf{Compiled }\#3229\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3229\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3230)}}    % original
+%\rhead{\textrmlf{Compiled }\#3230\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3230\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -173,7 +173,19 @@
 \begin{itemize}
 \tightlist
 \item
-  Somewhere in here, people leraned about art again.
+  Somewhere in here, people learned about art again
+\item
+  Middle ages
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Trading freedom for security
+  \item
+    Church provides for community consistency
+  \item
+    Lords provides for
+  \end{itemize}
 \end{itemize}
 
 \end{document}
