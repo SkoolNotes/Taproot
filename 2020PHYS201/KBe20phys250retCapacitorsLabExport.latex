@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3275)}}    % original
-%\rhead{\textrmlf{Compiled }\#3275\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3275\textrmlf{ on} \today}       % new date
-\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3276)}}    % original
+%\rhead{\textrmlf{Compiled }\#3276\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3276\textrmlf{ on} \today}       % new date
+\lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -169,14 +169,12 @@
 
 \#ret
 
-\(\title{Capacitor Charging Labs}\)
+\hypertarget{purpose}{%
+\section{Purpose}\label{purpose}}
 
-\hypertarget{introduction}{%
-\section{Introduction}\label{introduction}}
-
-The purpose of this lab is to verify the relation between capacitance,
-resistance, voltage, and charge time of a simple capacitor circuit. The
-equation that will be verified is \[
+To verify the relation between capacitance, resistance, voltage, and
+charge time of a simple capacitor circuit. The equation that will be
+verified is \[
 V_{cap} = V_{bat}\left(1-e^{-\frac{t}{\tau}}\right)
 \] where each variable has the following meaning:
 

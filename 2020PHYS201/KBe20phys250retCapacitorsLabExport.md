@@ -1,17 +1,15 @@
 ---
 title:   Capacitors Lab Export
 context: 20phys250
-author:  Exr0n
+author:  Albert Huang
 source:  2020PHYS201/KBe20phys250retCapacitorsLab.md
 ---
 
 #ret 
 
-$\title{Capacitor Charging Labs}$
+# Purpose
 
-# Introduction
-
-The purpose of this lab is to verify the relation between capacitance, resistance, voltage, and charge time of a simple capacitor circuit. The equation that will be verified is
+To verify the relation between capacitance, resistance, voltage, and charge time of a simple capacitor circuit. The equation that will be verified is
 $$
 V_{cap} = V_{bat}\left(1-e^{-\frac{t}{\tau}}\right)
 $$
