@@ -25,8 +25,11 @@ Rule of thumb:
 ### Capacitors
 [[KBhPHYS201Capacitors]]
 
+###
+
 ## Circuit Calculations
 Learning all this map and vocab is not really helpful in itself. However, it becomes super helpful when it could help you figure out mathematically different expected values in a circuit!
 
 See [[KBhPHYS201CircuitCalculations]]
+
 
