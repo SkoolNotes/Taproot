@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3283)}}    % original
-%\rhead{\textrmlf{Compiled }\#3283\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3283\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3284)}}    % original
+%\rhead{\textrmlf{Compiled }\#3284\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3284\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -272,7 +272,7 @@ The results of the fits are summarized below:
 \midrule
 \endhead
 100k\(\Omega\) & 22\(\mu\)F &
-\includegraphics{KBesrcCapacitor22microF100kO.png}
+\includegraphics{KBesrcCapacitor22microF100kO.png} \textbar{}
 33k\(\Omega\)\tabularnewline
 15 \(\Omega\) & 1000\(\mu\)F &
 \includegraphics{./KBesrcCapacitor1000microF15ohm.png}\tabularnewline
@@ -336,6 +336,12 @@ The exact numerical analysis for this section can be found
 
 \hypertarget{integration-of-current}{%
 \section{Integration of Current}\label{integration-of-current}}
+
+\hypertarget{purpose-1}{%
+\subsection{Purpose}\label{purpose-1}}
+
+As before, the purpose is to evaluate the numerical model for capacitor
+charge vs time.
 
 \hypertarget{procedure-1}{%
 \subsection{Procedure}\label{procedure-1}}
