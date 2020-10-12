@@ -24,6 +24,15 @@ $\tau$ | Seconds (s) | "Time constant" that scales the equation to the circuit. 
 
 # Voltage over Time
 
+## Equipment
+
+- Logger Pro probes
+- Logger Pro
+- Breadboard
+- Capacitors (various)
+- Resistors (various)
+- 3 volt battery pack
+
 ## Procedure
 
 A number of circuits were built and capacitors measured using a voltage and amperage probe with Logger Pro. The raw data can be found [on Canvas](https://nuevaschool.instructure.com/courses/2851/assignments/52558). Desmos was used to manually fit curves to the data, using a modified version of the model with $t$ and $t_0$ variables to truncate scrap data:

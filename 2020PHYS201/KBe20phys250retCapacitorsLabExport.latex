@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3277)}}    % original
-%\rhead{\textrmlf{Compiled }\#3277\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3277\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3278)}}    % original
+%\rhead{\textrmlf{Compiled }\#3278\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3278\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -227,6 +227,25 @@ to \(\frac{2}{3}\) of \(V_{bat}\).\strut
 
 \hypertarget{voltage-over-time}{%
 \section{Voltage over Time}\label{voltage-over-time}}
+
+\hypertarget{equipment}{%
+\subsection{Equipment}\label{equipment}}
+
+\begin{itemize}
+\tightlist
+\item
+  Logger Pro probes
+\item
+  Logger Pro
+\item
+  Breadboard
+\item
+  Capacitors (various)
+\item
+  Resistors (various)
+\item
+  3 volt battery pack
+\end{itemize}
 
 \hypertarget{procedure}{%
 \subsection{Procedure}\label{procedure}}
