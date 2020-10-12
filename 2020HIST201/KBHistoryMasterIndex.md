@@ -63,7 +63,8 @@ source: #index
 	- [[KBrefRaisondetat]]
 	
 ## Unit 2
-
+### The Enlightment + French Rev
+[[KBhHIST201Enlightenment]]
     
 # Essays
 * Essay 1 
