@@ -48,4 +48,12 @@ Acquired diseases => diseases that begin during lifetime, including...
 * **Viral** => acellular parasitic infectious agent
 * **Helminuthus** => multicellular worms
 * **Prions** => acellular misfolded proteins
-* 
+* **Viroids** => infections nucleic acids w/o protein coat to make virus
+
+## Pathogenicity + Virulence
+
+All of disease-causing things have two marks for it
+
+**Pathoginecity** => relative capacity to cause disease
+
+**Virulence** => 
