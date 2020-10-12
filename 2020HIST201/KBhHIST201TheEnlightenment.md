@@ -33,6 +33,8 @@ course: HIST201
 		* Kepler: Elliptical orbits, planetary motion
 		* Newton: gravity, motion, calculus
 * The Enlightment
-	* What are people like in the state of nature
-	* Was there a time before government
-	* Can we extract first principles of society and politics 
+	* What are people like in the state of nature?
+	* Was there a time before government?
+	* Can we extract first principles of society and politics? 
+	* Remember: how will democracy work?
+	
