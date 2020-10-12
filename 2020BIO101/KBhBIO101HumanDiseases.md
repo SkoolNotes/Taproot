@@ -94,4 +94,6 @@ Adaptable!!
 **Biofilm formation**
 
 - Communities of bacteria could work together by adhering and exchanging information
-- Bacterial could perform quorum sensing => exchange of information with each other
+- Bacterial could perform quorum sensing => exchange of information with each other + recognize various 
+
+### Fighting bacterial

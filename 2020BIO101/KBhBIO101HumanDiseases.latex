@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3271)}}    % original
-%\rhead{\textrmlf{Compiled }\#3271\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3271\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3272)}}    % original
+%\rhead{\textrmlf{Compiled }\#3272\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3272\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -361,7 +361,11 @@ Adaptable!!
   Communities of bacteria could work together by adhering and exchanging
   information
 \item
-  Bacterial could perform quorum sensing =\textgreater{}
+  Bacterial could perform quorum sensing =\textgreater{} exchange of
+  information with each other + recognize various
 \end{itemize}
+
+\hypertarget{fighting-bacterial}{%
+\subsubsection{Fighting bacterial}\label{fighting-bacterial}}
 
 \end{document}
