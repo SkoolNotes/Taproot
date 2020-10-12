@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3295)}}    % original
-%\rhead{\textrmlf{Compiled }\#3295\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3295\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3296)}}    % original
+%\rhead{\textrmlf{Compiled }\#3296\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3296\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -290,6 +290,11 @@ Error\tabularnewline
 
 \hypertarget{analysis}{%
 \subsection{Analysis}\label{analysis}}
+
+The curve fits included a parameter for \(\tau\), and the model predicts
+\(\tau = RC\). Thus, the values and uncertainties for resistance and
+capacitance of each circuit were multiplied and compared to the visual
+best fit \(\tau\) in the table above.
 
 Because each fit was done manually, the absolute error was difficult to
 estimate because there was no correct answer. Instead, error was taken

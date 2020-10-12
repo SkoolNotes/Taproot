@@ -62,6 +62,9 @@ The results of the fits are summarized below:
 ![Calculated values of $\tau$]
 
 ## Analysis
+
+The curve fits included a parameter for $\tau$, and the model predicts $\tau = RC$. Thus, the values and uncertainties for resistance and capacitance of each circuit were multiplied and compared to the visual best fit $\tau$ in the table above.
+
 Because each fit was done manually, the absolute error was difficult to estimate because there was no correct answer. Instead, error was taken as the precision at which the number was considered "close enough" by the human doing the curve fit. Depending on the size of the value (and scale of the Desmos slider), this results in an absolute error ranging from 0.1 units to 0.001 units.
 
 These uncertainties were propagated through calculations as follows:
@@ -80,7 +83,7 @@ The manufacturing tolerances of electronic components were taken into account as
 
 Assuming perfect capacitor manufacturing, the curve fit results fell within uncertainties of the model predicted $\tau$ value for all circuits except the first. This is likely due to the high uncertainties placed on smaller scale curve fits, especially the final trial.
 Furthermore, with the unexpectedly large 20% uncertainties in capacitance all trials fell within the uncertainties of the experiment. Thus, the model predicted the charging behavior of capacitors over time accurately.
-Numerical errors could have been better predicted if the specifications of the exact parts used to build the circuit were available. Additionally, more systematic curve fit heuristics could have been used such as RSME.
+For future iterations, numerical errors could have been better predicted if the specifications of the exact parts used to build the circuit were available. Additionally, more systematic curve fit heuristics could have been used such as RSME.
 
 The exact numerical analysis for this section can be found [here](https://docs.google.com/spreadsheets/d/1Hw9ooz0CtAvTP9vtw1VT9pVyfsW39IojwwrQX94VJQY/edit?usp=sharing).
 
