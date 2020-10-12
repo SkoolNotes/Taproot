@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3272)}}    % original
-%\rhead{\textrmlf{Compiled }\#3272\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3272\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3273)}}    % original
+%\rhead{\textrmlf{Compiled }\#3273\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3273\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -362,10 +362,28 @@ Adaptable!!
   information
 \item
   Bacterial could perform quorum sensing =\textgreater{} exchange of
-  information with each other + recognize various
+  information with each other + recognize various members of their group
 \end{itemize}
 
-\hypertarget{fighting-bacterial}{%
-\subsubsection{Fighting bacterial}\label{fighting-bacterial}}
+\hypertarget{fighting-bacterial-infections}{%
+\subsubsection{Fighting bacterial
+infections}\label{fighting-bacterial-infections}}
+
+\textbf{Antibiotics} =\textgreater{} drugs with selective toxicity for
+specific bacterial types
+
+Act by\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  Disrupting membrane + cell wall integrity
+\item
+  Selectively target + impair bacterial ribosomes
+\item
+  Block bacterial DNA replication/transcription
+\item
+  Inhibit bacterial metabolism
+\end{itemize}
 
 \end{document}
