@@ -7,8 +7,6 @@ source:  KBe20phys250retCapacitorsLab
 
 #ret 
 
-\title{Capacitors Lab Writeup}
-
 # Purpose
 
 To verify the relation between capacitance, resistance, voltage, and charge time of a simple capacitor circuit. The equation that will be verified is

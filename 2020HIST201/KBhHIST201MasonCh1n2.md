@@ -34,5 +34,7 @@ author: Houjun Liu
 						* Relatively prosperous, but <40% owned land
 						* Most rented land from lords as tenant farmers/sharecroppers
 					* Economy generally rural + dominate by subsistence farming
-			*    
+		* No national currency, nor system of weights and measures, nor a market
+		* Network of highways existed, but not very efficient
+		* Economic policy guided by merchanitilist theory     
 	
