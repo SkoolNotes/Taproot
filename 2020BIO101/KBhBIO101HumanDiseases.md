@@ -66,7 +66,7 @@ Acquired diseases => diseases that begin during lifetime, including...
 
 ## Overview of various diseases
 
-[THis v
+[This video](https://drive.google.com/file/d/1WRnbgkhnmRrdP4ZqlqT3HHBD1_eW9qib/view)
 
 ### Protozoan
 
@@ -84,5 +84,4 @@ Adaptable!!
 
 * **Bacterial-induced toxicity** => produces toxins + has hard capsule cell
 * **Host-mediated factors** => may develop host resistance, could compete for resources, and could be grown introcellularly
-* 
 
