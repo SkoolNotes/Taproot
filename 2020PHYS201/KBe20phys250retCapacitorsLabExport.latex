@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3299)}}    % original
-%\rhead{\textrmlf{Compiled }\#3299\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3299\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3300)}}    % original
+%\rhead{\textrmlf{Compiled }\#3300\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3300\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -418,7 +418,10 @@ suggesting that it is correct. Although the graphs differed slightly,
 these may be attributed to the subjective curve fit metric, sensor
 inaccuracies while measuring small flows of current, or sensor
 calibration inaccuracies. Future analysis could be more accurate by
-calculating the false z
+calculating the false zero point of the sensor, using various tick times
+to find the most effective range for that sensor, and having more
+accurate values for uncertainty for circuit components and the digital
+probe.
 
 \hypertarget{time-constant-with-various-components}{%
 \section{Time Constant with Various
