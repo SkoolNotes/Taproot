@@ -74,7 +74,7 @@ The exact numerical analysis for this section can be found [here](https://docs.g
 
 ## Integration of Current
 
-Another way to calculate 
+Another way to evaluate the model is to compare the amount of transferred charge. For this comparison, a modified equation is used: 
 
 # Time Constant with Various Components
 
