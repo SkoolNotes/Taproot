@@ -22,11 +22,9 @@ $V_{cap}$ | Volts (V) | Voltage across the capacitor after a given elapsed time
 $V_{bat}$ | Volts (V) | Voltage of the battery, assumed to be constant.
 $\tau$ | Seconds (s) | "Time constant" that scales the equation to the circuit. Equal to the product of the resistance and capacitance of the circuit ($RC$), and roughly equal to the number of seconds required to charge the capacitor to $\frac{2}{3}$ of $V_{bat}$.
 
-# Charging Capacitors
+# Voltage over Time
 
-## Voltage over Time
-
-### General Procedure
+## Procedure
 
 A number of circuits were built and capacitors measured using a voltage and amperage probe with Logger Pro. The raw data can be found [on Canvas](https://nuevaschool.instructure.com/courses/2851/assignments/52558). Desmos was used to manually fit curves to the data, using a modified version of the model with $t$ and $t_0$ variables to truncate scrap data:
 $$
@@ -44,7 +42,7 @@ The results of the fits are summarized below:
 
 The scattered points near the x-axis are residuals between the curve fit and the collected data. The fit heuristic was to visually center the dots around the x-axis.
 
-### Uncertainties
+## Uncertainties
 Because each fit was done manually, the absolute error was difficult to estimate because there was no correct answer. Instead, error was taken as the precision at which the number was considered "close enough" by the human doing the curve fit. Depending on the size of the value (and scale of the Desmos slider), this results in an absolute error ranging from 0.1 units to 0.001 units.
 
 These uncertainties were propagated through calculations as follows:
@@ -59,7 +57,7 @@ for multiplicative ones.
 
 The manufacturing tolerances of electronic components were taken into account as well. Resistor tolerances were based on the absolute difference between standard resistances and those measured by a multimeter. Capacitance tolerances were based on the tolerances of a similar capacitor for which the [data sheet](http://www.paullinebarger.net/DS/Foai/Foai%20%5Bradial%20thru-hole%5D%20CD110%20Series.pdf) was available: the FOAI CD110 radial capacitor, which had capacitance tolerances of $\pm$ 20%. 
 
-### Results
+## Results
 
 | $\Omega$ | F | Fit $\tau$ (s) | Modeled $\tau$ (s) | % Error |
 |---------:|--:|-----------:|---------------:|--------:|
@@ -72,9 +70,9 @@ Assuming perfect capacitor manufacturing, the curve fit results fell within unce
 
 The exact numerical analysis for this section can be found [here](https://docs.google.com/spreadsheets/d/1Hw9ooz0CtAvTP9vtw1VT9pVyfsW39IojwwrQX94VJQY/edit?usp=sharing).
 
-## Integration of Current
+# Integration of Current
 
-### Procedure
+## Procedure
 
 Another way to evaluate the model is to compare the amount of transferred charge. For this comparison, a modified equation is used: 
 
@@ -90,7 +88,7 @@ The amount of current on the capacitor was calculated by taking a Riemann sum of
 
 As the graph shows, both proxies of charge on the capacitor generally agree with the model but come up with smaller values of charge. Notably, the two experimental proxies don't agree with each other either, suggesting some systematic error is at play.
 
-### Error Analysis
+## Error Analysis
 
 One culprit may be misaligned data: if the Riemann sum calculation began after charging, then the entire sum would be skewed low. However, the sum plot is not a vertical translation of the theoretical value, which suggests the effect of this issue is minimal or canceled. Another issue may be miscalibrated sensors: if each amperage measurement was off by $10^-5$A, the cumulative affect would drag down the total as time went on. 
 

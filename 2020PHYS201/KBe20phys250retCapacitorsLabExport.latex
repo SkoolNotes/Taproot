@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3276)}}    % original
-%\rhead{\textrmlf{Compiled }\#3276\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3276\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3277)}}    % original
+%\rhead{\textrmlf{Compiled }\#3277\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3277\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -225,14 +225,11 @@ to \(\frac{2}{3}\) of \(V_{bat}\).\strut
 \bottomrule
 \end{longtable}
 
-\hypertarget{charging-capacitors}{%
-\section{Charging Capacitors}\label{charging-capacitors}}
-
 \hypertarget{voltage-over-time}{%
-\subsection{Voltage over Time}\label{voltage-over-time}}
+\section{Voltage over Time}\label{voltage-over-time}}
 
-\hypertarget{general-procedure}{%
-\subsubsection{General Procedure}\label{general-procedure}}
+\hypertarget{procedure}{%
+\subsection{Procedure}\label{procedure}}
 
 A number of circuits were built and capacitors measured using a voltage
 and amperage probe with Logger Pro. The raw data can be found
@@ -266,7 +263,7 @@ and the collected data. The fit heuristic was to visually center the
 dots around the x-axis.
 
 \hypertarget{uncertainties}{%
-\subsubsection{Uncertainties}\label{uncertainties}}
+\subsection{Uncertainties}\label{uncertainties}}
 
 Because each fit was done manually, the absolute error was difficult to
 estimate because there was no correct answer. Instead, error was taken
@@ -291,7 +288,7 @@ sheet} was available: the FOAI CD110 radial capacitor, which had
 capacitance tolerances of \(\pm\) 20\%.
 
 \hypertarget{results}{%
-\subsubsection{Results}\label{results}}
+\subsection{Results}\label{results}}
 
 \begin{longtable}[]{@{}rrrrr@{}}
 \toprule
@@ -319,10 +316,10 @@ The exact numerical analysis for this section can be found
 \href{https://docs.google.com/spreadsheets/d/1Hw9ooz0CtAvTP9vtw1VT9pVyfsW39IojwwrQX94VJQY/edit?usp=sharing}{here}.
 
 \hypertarget{integration-of-current}{%
-\subsection{Integration of Current}\label{integration-of-current}}
+\section{Integration of Current}\label{integration-of-current}}
 
-\hypertarget{procedure}{%
-\subsubsection{Procedure}\label{procedure}}
+\hypertarget{procedure-1}{%
+\subsection{Procedure}\label{procedure-1}}
 
 Another way to evaluate the model is to compare the amount of
 transferred charge. For this comparison, a modified equation is used:
@@ -355,7 +352,7 @@ the two experimental proxies don't agree with each other either,
 suggesting some systematic error is at play.
 
 \hypertarget{error-analysis}{%
-\subsubsection{Error Analysis}\label{error-analysis}}
+\subsection{Error Analysis}\label{error-analysis}}
 
 One culprit may be misaligned data: if the Riemann sum calculation began
 after charging, then the entire sum would be skewed low. However, the
