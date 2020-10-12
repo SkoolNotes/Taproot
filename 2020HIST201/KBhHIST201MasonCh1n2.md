@@ -27,5 +27,9 @@ author: Houjun Liu
 					* Second Estate => aristocracy; provided military and monetary support
 						* *Les Grands*: largest landholders w/ large houses
 						* *Seigneurs*: provincial nobles who simply owned estates in the countryside
-						* 
+					* Third Estate => 97% of the population
+						* Production!
+						* Reproduction!
+						* Work!
+						* Relatively   
 	
