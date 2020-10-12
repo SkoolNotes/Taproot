@@ -72,9 +72,9 @@ Assuming perfect capacitor manufacturing, the curve fit results fell within unce
 
 The exact numerical analysis for this section can be found [here](https://docs.google.com/spreadsheets/d/1Hw9ooz0CtAvTP9vtw1VT9pVyfsW39IojwwrQX94VJQY/edit?usp=sharing).
 
-## Charge Stored
+## Integration of Current
 
-
+Another way to calculate 
 
 # Time Constant with Various Components
 
