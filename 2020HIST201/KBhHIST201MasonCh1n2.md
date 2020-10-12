@@ -8,4 +8,6 @@ author: Houjun Liu
 
 # The Old Regime + The Enlightenment
 
-k
+* 18th Century Monarchies
+	* Comprised of absolute monarchies
+	* Crown passed to the eldest son or daughter
