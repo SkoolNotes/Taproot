@@ -106,3 +106,5 @@ Act by...
 * Selectively target + impair bacterial ribosomes
 * Block bacterial DNA replication/transcription
 * Inhibit bacterial metabolism
+
+## Viruses causing diseases
