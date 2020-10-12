@@ -7,8 +7,8 @@ filetype[md]=markdown
 filetype[org]=org
 
 [[ -f $BUILDNUMBER_FILE ]] || echo 0 > $BUILDNUMBER_FILE;
-buildid="$(cat $BUILDNUMBER_FILE)"
-echo $(( $buildid + 1 )) > $BUILDNUMBER_FILE
+buildid=$(( "$(cat $BUILDNUMBER_FILE)" + 1 ))
+echo $buildid > $BUILDNUMBER_FILE
 
 changes="$(git status --porcelain | cut -c4- | grep -E '(\.md|\.org)$')"
 echo "        Log for attempt at $(date)" > recent_errors.txt
