@@ -54,6 +54,15 @@ The results of the fits are summarized below:
 
 ![Curve fit results][]
 
+| $\Omega$ | F | Fit $\tau$ (s) | Modeled $\tau$ (s) | % Error |
+|---------:|--:|-----------:|---------------:|--------:|
+100k$\Omega$ | 22$\mu$F   | 2.3860 | 2.2000 | 8.45%
+33k$\Omega$  | 1000$\mu$F | 0.0017 | 0.0016 | 9.61%
+100$\Omega$  | 1000$\mu$F | 0.1058 | 0.1000 | 5.80%
+15 $\Omega$  | 1000$\mu$F | 0.0188 | 0.0150 | 25.33%
+
+![Calculated values of $\tau$]
+
 ## Analysis
 Because each fit was done manually, the absolute error was difficult to estimate because there was no correct answer. Instead, error was taken as the precision at which the number was considered "close enough" by the human doing the curve fit. Depending on the size of the value (and scale of the Desmos slider), this results in an absolute error ranging from 0.1 units to 0.001 units.
 
@@ -70,13 +79,6 @@ for multiplicative ones.
 The manufacturing tolerances of electronic components were taken into account as well. Resistor tolerances were based on the absolute difference between standard resistances and those measured by a multimeter. Capacitance tolerances were based on the tolerances of a similar capacitor for which the [data sheet](http://www.paullinebarger.net/DS/Foai/Foai%20%5Bradial%20thru-hole%5D%20CD110%20Series.pdf) was available: the FOAI CD110 radial capacitor, which had capacitance tolerances of $\pm$ 20%. 
 
 ## Conclusion
-
-| $\Omega$ | F | Fit $\tau$ (s) | Modeled $\tau$ (s) | % Error |
-|---------:|--:|-----------:|---------------:|--------:|
-100k$\Omega$ | 22$\mu$F   | 2.3860 | 2.2000 | 8.45%
-33k$\Omega$  | 1000$\mu$F | 0.0017 | 0.0016 | 9.61%
-100$\Omega$  | 1000$\mu$F | 0.1058 | 0.1000 | 5.80%
-15 $\Omega$  | 1000$\mu$F | 0.0188 | 0.0150 | 25.33%
 
 Assuming perfect capacitor manufacturing, the curve fit results fell within uncertainties of the model predicted $\tau$ value for all circuits except the first. This is likely due to the high uncertainties placed on smaller scale curve fits, especially the final trial. Furthermore, with the unexpectedly large 20% uncertainties in capacitance all trials fell within the uncertainties of the experiment. Thus, the model predicted the charging behavior of capacitors over time accurately.
 

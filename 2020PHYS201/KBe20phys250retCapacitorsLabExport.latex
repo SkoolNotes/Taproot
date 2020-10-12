@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3287)}}    % original
-%\rhead{\textrmlf{Compiled }\#3287\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3287\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3288)}}    % original
+%\rhead{\textrmlf{Compiled }\#3288\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3288\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -281,6 +281,21 @@ The results of the fits are summarized below:
 
 {[}Curve fit results{]}{[}{]}
 
+\begin{longtable}[]{@{}rrrrr@{}}
+\toprule
+\(\Omega\) & F & Fit \(\tau\) (s) & Modeled \(\tau\) (s) & \%
+Error\tabularnewline
+\midrule
+\endhead
+100k\(\Omega\) & 22\(\mu\)F & 2.3860 & 2.2000 & 8.45\%\tabularnewline
+33k\(\Omega\) & 1000\(\mu\)F & 0.0017 & 0.0016 & 9.61\%\tabularnewline
+100\(\Omega\) & 1000\(\mu\)F & 0.1058 & 0.1000 & 5.80\%\tabularnewline
+15 \(\Omega\) & 1000\(\mu\)F & 0.0188 & 0.0150 & 25.33\%\tabularnewline
+\bottomrule
+\end{longtable}
+
+{[}Calculated values of \(\tau\){]}
+
 \hypertarget{analysis}{%
 \subsection{Analysis}\label{analysis}}
 
@@ -308,19 +323,6 @@ capacitance tolerances of \(\pm\) 20\%.
 
 \hypertarget{conclusion}{%
 \subsection{Conclusion}\label{conclusion}}
-
-\begin{longtable}[]{@{}rrrrr@{}}
-\toprule
-\(\Omega\) & F & Fit \(\tau\) (s) & Modeled \(\tau\) (s) & \%
-Error\tabularnewline
-\midrule
-\endhead
-100k\(\Omega\) & 22\(\mu\)F & 2.3860 & 2.2000 & 8.45\%\tabularnewline
-33k\(\Omega\) & 1000\(\mu\)F & 0.0017 & 0.0016 & 9.61\%\tabularnewline
-100\(\Omega\) & 1000\(\mu\)F & 0.1058 & 0.1000 & 5.80\%\tabularnewline
-15 \(\Omega\) & 1000\(\mu\)F & 0.0188 & 0.0150 & 25.33\%\tabularnewline
-\bottomrule
-\end{longtable}
 
 Assuming perfect capacitor manufacturing, the curve fit results fell
 within uncertainties of the model predicted \(\tau\) value for all
