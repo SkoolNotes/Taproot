@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3213)}}    % original
-%\rhead{\textrmlf{Compiled }\#3213\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3213\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3214)}}    % original
+%\rhead{\textrmlf{Compiled }\#3214\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3214\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -329,7 +329,9 @@ C_{cap}=C_{max}\left(1-e^{-\frac{t-t_{0}}{\tau}}\right)
 \]
 
 This is similar to the model used in the previous procedure, but voltage
-variables are replaced with charge.
+variables are replaced with charge. Current flow through the circuit is
+used as a proxy to calculate the amount of charge accumulated in the
+capacitor.
 
 \hypertarget{time-constant-with-various-components}{%
 \section{Time Constant with Various

@@ -80,7 +80,7 @@ $$
 C_{cap}=C_{max}\left(1-e^{-\frac{t-t_{0}}{\tau}}\right)
 $$
 
-This is similar to the model used in the previous procedure, but voltage variables are replaced with charge. 
+This is similar to the model used in the previous procedure, but voltage variables are replaced with charge. Current flow through the circuit is used as a proxy to calculate the amount of charge accumulated in the capacitor.
 
 # Time Constant with Various Components
 
