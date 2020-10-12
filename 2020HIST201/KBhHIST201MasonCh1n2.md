@@ -39,5 +39,6 @@ author: Houjun Liu
 		* Economic policy guided by merchanitilist theory     
 			* Notion that precious metals holdings is the ultimate goal
 			* Encouraged development of manufacturing to provide for global market
+			* Theory came under challenge by newer things like the free market theory
 			*  
 	
