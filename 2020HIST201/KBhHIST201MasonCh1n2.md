@@ -15,4 +15,9 @@ author: Houjun Liu
 		* Struggle between parlament vs. stuart kings result in constitutional monarchy in England
 		* Powers of European monarchs increased after centralization of power
 		* Created unified modern states
+	* Old France
+		* "Acien régime" => 1789 to 1800s france
+		* Strict grid of social hierarchy resulted due to birthright
+		* Societal organization explained by Great Chain of Being
+			*  
 	

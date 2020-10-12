@@ -1,13 +1,14 @@
 #!/bin/zsh
 
-BUILDNUMBER_FILE=buildID.txt
+BUILDNUMBER_FILE=buildid.txt
 
 declare -A filetype
 filetype[md]=markdown
 filetype[org]=org
 
 [[ -f $BUILDNUMBER_FILE ]] || echo 0 > $BUILDNUMBER_FILE;
-buildid=$(( "$(cat $BUILDNUMBER_FILE)" + 1 ))
+buildid="$(cat $BUILDNUMBER_FILE)"
+buildid=$(( $buildid + 1 ))
 echo $buildid > $BUILDNUMBER_FILE
 
 changes="$(git status --porcelain | cut -c4- | grep -E '(\.md|\.org)$')"
