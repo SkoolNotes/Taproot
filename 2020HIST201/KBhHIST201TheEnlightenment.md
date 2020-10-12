@@ -21,4 +21,6 @@ course: HIST201
 	* Encouraged reading
 	* Middle class grew, making more people wealthy enough to have time to read the bible
 	* Feeling of "this is new and weird"
-	
+	* Martin Luther's THeological Challenge
+		* Encouraged reading bible by self
+		* Encouraged
