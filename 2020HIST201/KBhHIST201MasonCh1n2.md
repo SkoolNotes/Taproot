@@ -40,6 +40,7 @@ author: Houjun Liu
 			* Notion that precious metals holdings is the ultimate goal
 			* Encouraged development of manufacturing to provide for global market
 			* Development of the new *bourgeoisie* class — small merchants and shopkeepers
-		* Theory came under challenge by newer things like the free market theory
-			*  
-	
+* Theory came under challenge by newer things like the free market theory
+	* Adam Smith's free market economy/baurseiosie challenged mercantilistic economy
+	* Old France very Roman Catholic
+
