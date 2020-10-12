@@ -47,10 +47,10 @@ The results of the fits are summarized below:
 
 | $\Omega$ | F | Curve Fit |
 |---------:|--:|-----------|
-100k$\Omega$ | 22$\mu$F | ![](KBesrcCapacitor22microF100kO.png)
-33k$\Omega$  | 1000$\mu$F | ![](./KBesrcCapacitor0.047microF33kO.png) 
-100$\Omega$  | 1000$\mu$F | ![](./KBesrcCapacitor1000microF100ohm.png)
-15 $\Omega$  | 1000$\mu$F | ![](./KBesrcCapacitor1000microF15ohm.png) 
+100k$\Omega$ | 22$\mu$F | ![Curve fit of 100k$\Omega$22$\mu$F circuit](KBesrcCapacitor22microF100kO.png)
+33k$\Omega$  | 1000$\mu$F | ![Curve fit of 100k$\Omega$22$\mu$F circuit](./KBesrcCapacitor0.047microF33kO.png) 
+100$\Omega$  | 1000$\mu$F | ![Curve fit of 100k$\Omega$22$\mu$F circuit](./KBesrcCapacitor1000microF100ohm.png)
+15 $\Omega$  | 1000$\mu$F | ![Curve fit of 100k$\Omega$22$\mu$F circuit](./KBesrcCapacitor1000microF15ohm.png) 
 
 ## Analysis
 Because each fit was done manually, the absolute error was difficult to estimate because there was no correct answer. Instead, error was taken as the precision at which the number was considered "close enough" by the human doing the curve fit. Depending on the size of the value (and scale of the Desmos slider), this results in an absolute error ranging from 0.1 units to 0.001 units.
@@ -67,7 +67,7 @@ for multiplicative ones.
 
 The manufacturing tolerances of electronic components were taken into account as well. Resistor tolerances were based on the absolute difference between standard resistances and those measured by a multimeter. Capacitance tolerances were based on the tolerances of a similar capacitor for which the [data sheet](http://www.paullinebarger.net/DS/Foai/Foai%20%5Bradial%20thru-hole%5D%20CD110%20Series.pdf) was available: the FOAI CD110 radial capacitor, which had capacitance tolerances of $\pm$ 20%. 
 
-## Results
+## Conclusion
 
 | $\Omega$ | F | Fit $\tau$ (s) | Modeled $\tau$ (s) | % Error |
 |---------:|--:|-----------:|---------------:|--------:|
