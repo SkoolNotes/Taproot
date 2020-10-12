@@ -122,10 +122,8 @@ author: Houjun Liu
 	* Hydrophobic + hydrophillic parts of a phosophilid [[KBhBIO101StructuresOfLipids]] + [[KBhBIO101FluidMosaic]]
 * Passive + active transport [[KbhBIO101CellTransport]]
 * Cell transport process
-	* Simple diffusion => things just 
-	* 
-	* 
-	* ( #ASK same thing as passive transport + osmosis )=> non-polar molecules needed "fall in"
+	* Simple diffusion => things just spread out from high concentration to low concentrations
+	* Passive diffusion => non-polar molecules needed "fall in" through the phosolipid bi-layer
 	* Facilitated diffusion => specific polar molecules go along the gradient to get into the cell through transporter proteins
 	* Phagocytosis => take a piece of the membrane with you to form a vesticle to introduce large solid elements, recycling the membrane after done — "cell eating"
 	* Pinocytosis => take a piece of the membrane with you to form a vesticle to introduce large area of the "outside" in — fluid and solid and all, recycling the membrane after done — "cell drinking"

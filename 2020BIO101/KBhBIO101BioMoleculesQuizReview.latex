@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3251)}}    % original
-%\rhead{\textrmlf{Compiled }\#3251\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3251\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3252)}}    % original
+%\rhead{\textrmlf{Compiled }\#3252\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3252\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -586,12 +586,11 @@ transport}\label{plasma-membrane-structure-transport}}
   \begin{itemize}
   \tightlist
   \item
-    Simple diffusion =\textgreater{} things just
+    Simple diffusion =\textgreater{} things just spread out from high
+    concentration to low concentrations
   \item
-  \item
-  \item
-    ( \#ASK same thing as passive transport + osmosis )=\textgreater{}
-    non-polar molecules needed ``fall in''
+    Passive diffusion =\textgreater{} non-polar molecules needed ``fall
+    in'' through the phosolipid bi-layer
   \item
     Facilitated diffusion =\textgreater{} specific polar molecules go
     along the gradient to get into the cell through transporter proteins
