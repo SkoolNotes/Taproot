@@ -65,6 +65,9 @@ source: #index
 ## Unit 2
 ### The Enlightment + French Rev
 [[KBhHIST201EnlightenmentFrenchRev]]
+
+### Reading Flos + Refs
+- Mason ch 1 + 2 
     
 # Essays
 * Essay 1 
