@@ -31,5 +31,8 @@ author: Houjun Liu
 						* Production!
 						* Reproduction!
 						* Work!
-						* Relatively   
+						* Relatively prosperous, but <40% owned land
+						* Most rented land from lords as tenant farmers/sharecroppers
+					* Economy generally rural + dominate by subsistence farming
+			*    
 	
