@@ -76,6 +76,12 @@ The exact numerical analysis for this section can be found [here](https://docs.g
 
 Another way to evaluate the model is to compare the amount of transferred charge. For this comparison, a modified equation is used: 
 
+$$
+C_{cap}=C_{max}\left(1-e^{-\frac{t-t_{0}}{\tau}}\right)
+$$
+
+This is similar to the model used in the previous procedure, but 
+
 # Time Constant with Various Components
 
 Most of the analysis for data collected as a class was done on the "charge rate constant" (`time/RC`) of each circuit, defined as:
