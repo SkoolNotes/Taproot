@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2592)}}    % original
-%\rhead{\textrmlf{Compiled }\#2592\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2592\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3225)}}    % original
+%\rhead{\textrmlf{Compiled }\#3225\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3225\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu, Exr0n, Huxley Marvit, Zachary
 Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
@@ -213,8 +213,11 @@ Sayyah \(\cdot\) \textbf{2020-2021}}
   \end{itemize}
 \end{itemize}
 
+\hypertarget{unit-1}{%
+\subsection{Unit 1}\label{unit-1}}
+
 \hypertarget{kennedy}{%
-\subsection{Kennedy}\label{kennedy}}
+\subsubsection{Kennedy}\label{kennedy}}
 
 \begin{itemize}
 \tightlist
@@ -236,7 +239,7 @@ Sayyah \(\cdot\) \textbf{2020-2021}}
 \end{itemize}
 
 \hypertarget{ming}{%
-\subsection{Ming}\label{ming}}
+\subsubsection{Ming}\label{ming}}
 
 \begin{itemize}
 \tightlist
@@ -253,7 +256,7 @@ Sayyah \(\cdot\) \textbf{2020-2021}}
 \end{itemize}
 
 \hypertarget{qing}{%
-\subsection{Qing}\label{qing}}
+\subsubsection{Qing}\label{qing}}
 
 \begin{itemize}
 \tightlist
@@ -262,7 +265,7 @@ Sayyah \(\cdot\) \textbf{2020-2021}}
 \end{itemize}
 
 \hypertarget{mughals}{%
-\subsection{Mughals}\label{mughals}}
+\subsubsection{Mughals}\label{mughals}}
 
 \begin{itemize}
 \tightlist
@@ -273,7 +276,7 @@ Sayyah \(\cdot\) \textbf{2020-2021}}
 \end{itemize}
 
 \hypertarget{ottomans}{%
-\subsection{Ottomans}\label{ottomans}}
+\subsubsection{Ottomans}\label{ottomans}}
 
 \begin{itemize}
 \tightlist
@@ -312,7 +315,7 @@ Sayyah \(\cdot\) \textbf{2020-2021}}
 \end{itemize}
 
 \hypertarget{europe}{%
-\subsection{Europe}\label{europe}}
+\subsubsection{Europe}\label{europe}}
 
 \begin{itemize}
 \tightlist
