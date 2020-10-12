@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3250)}}    % original
-%\rhead{\textrmlf{Compiled }\#3250\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3250\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3251)}}    % original
+%\rhead{\textrmlf{Compiled }\#3251\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3251\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -376,7 +376,7 @@ is here}
   \begin{itemize}
   \tightlist
   \item
-    Used as a gauge to sort the evolutiona
+    Used as a gauge to sort the evolutional history of cells
   \item
     Membranous organelles --- possess own plasma =\textgreater{}
     regulates own macromolecure consumption, hormones, etc. Perhaps
@@ -385,7 +385,7 @@ is here}
     \begin{itemize}
     \tightlist
     \item
-      Double membranes
+      Double membranes, evolved later
 
       \begin{itemize}
       \tightlist
@@ -395,6 +395,12 @@ is here}
       \item
         Golgi body/Gioli apparatus =\textgreater{} packs, sorts, and
         modifies proteins and other elements throughout the cell
+      \end{itemize}
+    \item
+      Double membranes, prokarotic orginially
+
+      \begin{itemize}
+      \tightlist
       \item
         Mitochrondria =\textgreater{} store ATP and extract energy from
         ATP
@@ -402,8 +408,8 @@ is here}
         Chloroplasts =\textgreater{} Does photosynthesis
       \end{itemize}
     \item
-      Single membranes =\textgreater{} probably originally prokaryotic
-      cells
+      Single membranes =\textgreater{} probably originally fragments of
+      prokaryotic cells
 
       \begin{itemize}
       \tightlist
@@ -580,8 +586,12 @@ transport}\label{plasma-membrane-structure-transport}}
   \begin{itemize}
   \tightlist
   \item
-    Simple diffusion ( \#ASK same thing as passive transport + osmosis
-    )=\textgreater{} non-polar molecules needed ``fall in''
+    Simple diffusion =\textgreater{} things just
+  \item
+  \item
+  \item
+    ( \#ASK same thing as passive transport + osmosis )=\textgreater{}
+    non-polar molecules needed ``fall in''
   \item
     Facilitated diffusion =\textgreater{} specific polar molecules go
     along the gradient to get into the cell through transporter proteins

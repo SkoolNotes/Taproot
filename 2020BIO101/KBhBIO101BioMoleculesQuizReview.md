@@ -68,14 +68,15 @@ author: Houjun Liu
 * Endosymbiotic theory 
 	* 	Endosymbiotic theory states that organelles within our current eukaryotic cells — the mitochondria and chloroplasts — are originally prokaryotic cells in their own right. This is because they divide independently through binary fission, and also contains circular DNA that is independent of the main cell itself.
 * Organizing organelles based on membranes #ASK
-	* Used as a gauge to sort the evolutiona 
+	* Used as a gauge to sort the evolutional history of cells
 	*  Membranous organelles — possess own plasma => regulates own macromolecure consumption, hormones, etc. Perhaps original prokarotic cells
-		* Double membranes
+		* Double membranes, evolved later
 			*  Endoplasmic reticulum => forms the network of transferring proteins and other elements
 			*  Golgi body/Gioli apparatus => packs, sorts, and modifies proteins and other elements throughout the cell
+		* Double membranes, prokarotic orginially	
 			* Mitochrondria => store ATP and extract energy from ATP
 			* Chloroplasts => Does photosynthesis
-		* Single membranes => probably originally prokaryotic cells
+		* Single membranes => probably originally fragments of prokaryotic cells
 			* Vesticles
 			* Lysomoes => breaking stuff down and garbage dumps 
 			* Vacuoles => storing water, nutrients, waste
@@ -121,7 +122,10 @@ author: Houjun Liu
 	* Hydrophobic + hydrophillic parts of a phosophilid [[KBhBIO101StructuresOfLipids]] + [[KBhBIO101FluidMosaic]]
 * Passive + active transport [[KbhBIO101CellTransport]]
 * Cell transport process
-	* Simple diffusion ( #ASK same thing as passive transport + osmosis )=> non-polar molecules needed "fall in"
+	* Simple diffusion => things just 
+	* 
+	* 
+	* ( #ASK same thing as passive transport + osmosis )=> non-polar molecules needed "fall in"
 	* Facilitated diffusion => specific polar molecules go along the gradient to get into the cell through transporter proteins
 	* Phagocytosis => take a piece of the membrane with you to form a vesticle to introduce large solid elements, recycling the membrane after done — "cell eating"
 	* Pinocytosis => take a piece of the membrane with you to form a vesticle to introduce large area of the "outside" in — fluid and solid and all, recycling the membrane after done — "cell drinking"
