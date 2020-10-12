@@ -22,7 +22,7 @@ $V_{cap}$ | Volts (V) | Voltage across the capacitor after a given elapsed time
 $V_{bat}$ | Volts (V) | Voltage of the battery, assumed to be constant.
 $\tau$ | Seconds (s) | "Time constant" that scales the equation to the circuit. Equal to the product of the resistance and capacitance of the circuit ($RC$), and roughly equal to the number of seconds required to charge the capacitor to $\frac{2}{3}$ of $V_{bat}$.
 
-![The meanings of variables in the numerical model][]
+```Table 1: The meanings of variables in the numerical model```
 
 # Voltage over Time
 
