@@ -60,4 +60,13 @@ Acquired diseases => diseases that begin during lifetime, including...
 
 **Virulence** => numerical measures for pathonicity
 
-- Measured experimentally with LD50 — amonut to 50 percent chance of death — 
+- Measured experimentally with LD50 + ED50
+
+***
+
+## Overview of various diseases
+
+### Protozoan
+
+* 
+
