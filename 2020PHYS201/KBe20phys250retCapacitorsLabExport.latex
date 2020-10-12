@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3219)}}    % original
-%\rhead{\textrmlf{Compiled }\#3219\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3219\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3220)}}    % original
+%\rhead{\textrmlf{Compiled }\#3220\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3220\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -339,6 +339,12 @@ Riemann sum of the momentary current measurements. In addition, the
 voltage measurements across the capacitor were used as another proxy to
 calculate the amount of charge on the capacitor. A graph of these three
 theoretically identical datasets:
+
+\begin{figure}
+\centering
+\includegraphics{https://docs.google.com/spreadsheets/d/e/2PACX-1vRfxrZPfJZareibOZN-KammmgQDBDb5PVMBNmzCvUb_0tSn_TUNsLFQPM8ehfIKGEOaIhL86IoPFdb0/pubchart?oid=483417085\&format=image}
+\caption{Accumulated Charge Graphs}
+\end{figure}
 
 \hypertarget{time-constant-with-various-components}{%
 \section{Time Constant with Various
