@@ -82,7 +82,7 @@ $$
 
 This is similar to the model used in the previous procedure, but voltage variables are replaced with charge. Current flow through the circuit is used as a proxy to calculate the amount of charge accumulated in the capacitor. As before, current is measured across a resistor using a digital probe and Logger Pro.
 
-The amount of current on the capacitor was calculated by taking a Riemann sum of the momentary current measurements. In addition, the voltage across the capacitor 
+The amount of current on the capacitor was calculated by taking a Riemann sum of the momentary current measurements. In addition, the voltage measurements across the capacitor were used as another proxy to calculate the amount of charge on the capacitor.
 
 # Time Constant with Various Components
 

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3217)}}    % original
-%\rhead{\textrmlf{Compiled }\#3217\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3217\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3218)}}    % original
+%\rhead{\textrmlf{Compiled }\#3218\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3218\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -336,7 +336,8 @@ digital probe and Logger Pro.
 
 The amount of current on the capacitor was calculated by taking a
 Riemann sum of the momentary current measurements. In addition, the
-voltage across the capacitor
+voltage measurements across the capacitor were used as another proxy to
+calculate the amount of charge on the capacitor.
 
 \hypertarget{time-constant-with-various-components}{%
 \section{Time Constant with Various

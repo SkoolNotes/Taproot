@@ -195,7 +195,7 @@ html {
             <p>Another way to evaluate the model is to compare the amount of transferred charge. For this comparison, a modified equation is used:</p>
             <p><span class="math display">\[C_{cap}=C_{max}\left(1-e^{-\frac{t-t_{0}}{\tau}}\right)\]</span></p>
             <p>This is similar to the model used in the previous procedure, but voltage variables are replaced with charge. Current flow through the circuit is used as a proxy to calculate the amount of charge accumulated in the capacitor. As before, current is measured across a resistor using a digital probe and Logger Pro.</p>
-            <p>The amount of current on the capacitor was calculated by taking a Riemann sum of the momentary current measurements. In addition, the voltage across the capacitor</p>
+            <p>The amount of current on the capacitor was calculated by taking a Riemann sum of the momentary current measurements. In addition, the voltage measurements across the capacitor were used as another proxy to calculate the amount of charge on the capacitor.</p>
             <h1 id="time-constant-with-various-components">Time Constant with Various Components</h1>
             <p>Most of the analysis for data collected as a class was done on the “charge rate constant” (<code>time/RC</code>) of each circuit, defined as: <span class="math display">\[\frac{t}{RC}\]</span></p>
             <p><code>time/RC</code> is a unitless scalar that represents how quickly it takes to charge any capacitor for a given voltage. Voltage data was not collected during the experiment, so the voltage is assumed to be constant across trials. If our model of capacitor charge rate is correct, we expect <code>time/RC</code> to be constant across trials. The actual data was skewed right:</p>
