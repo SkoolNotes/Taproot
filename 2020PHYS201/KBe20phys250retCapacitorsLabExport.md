@@ -86,6 +86,8 @@ The amount of current on the capacitor was calculated by taking a Riemann sum of
 
 ![Accumulated Charge Graphs](https://docs.google.com/spreadsheets/d/e/2PACX-1vRfxrZPfJZareibOZN-KammmgQDBDb5PVMBNmzCvUb_0tSn_TUNsLFQPM8ehfIKGEOaIhL86IoPFdb0/pubchart?oid=483417085&format=image)
 
+As the graph shows, both proxies of charge on the capacitor generally agree with the model but come up with smaller values of charge. Notably, the two experimental proxies don't agree with each other either, suggesting some systematic error is at play. One culprit may be mis-zeroed sensors: if the Riemann sum started 
+
 # Time Constant with Various Components
 
 Most of the analysis for data collected as a class was done on the "charge rate constant" (`time/RC`) of each circuit, defined as:
