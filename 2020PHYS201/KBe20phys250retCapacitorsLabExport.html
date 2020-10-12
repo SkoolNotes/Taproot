@@ -117,7 +117,8 @@ html {
             <li><p>3 volt battery pack</p></li>
             </ul>
             <h2 id="procedure">Procedure</h2>
-            <p>A number of circuits were built and capacitors measured using a voltage and amperage probe with Logger Pro. The raw data can be found <a href="https://nuevaschool.instructure.com/courses/2851/assignments/52558">on Canvas</a>. Desmos was used to manually fit curves to the data, using a modified version of the model with <span class="math inline">\(t\)</span> and <span class="math inline">\(t_0\)</span> variables to truncate scrap data: <span class="math display">\[V_{cap} = V_{bat}\left(1-e^{-\frac{t - t_0}{\tau}}\right)\]</span></p>
+            <p>A number of circuits were built and capacitors measured using a voltage and amperage probe with Logger Pro. The raw data can be found <a href="https://nuevaschool.instructure.com/courses/2851/assignments/52558">on Canvas</a>. Desmos was used to manually fit curves to the data, using a modified version of the model with <span class="math inline">\(t\)</span> and <span class="math inline">\(t_0\)</span> variables to truncate scrap data: <span class="math display">\[V_{cap} = V_{bat}\left(1-e^{-\frac{t - t_0}{\tau}}\right)\]</span> The scattered points near the x-axis are residuals between the curve fit and the collected data. The fit heuristic was to visually center the dots around the x-axis.</p>
+            <h2 id="results">Results</h2>
             <p>The results of the fits are summarized below:</p>
             <table>
             <thead>
@@ -150,12 +151,11 @@ html {
             </tr>
             </tbody>
             </table>
-            <p>The scattered points near the x-axis are residuals between the curve fit and the collected data. The fit heuristic was to visually center the dots around the x-axis.</p>
             <h2 id="analysis">Analysis</h2>
             <p>Because each fit was done manually, the absolute error was difficult to estimate because there was no correct answer. Instead, error was taken as the precision at which the number was considered “close enough” by the human doing the curve fit. Depending on the size of the value (and scale of the Desmos slider), this results in an absolute error ranging from 0.1 units to 0.001 units.</p>
             <p>These uncertainties were propagated through calculations as follows: <span class="math display">\[\delta (A+B) = \sqrt{\delta A^2 + \delta B^2}\]</span> for additive combinations and <span class="math display">\[\frac{\delta (AB)}{AB} = \sqrt{\left(\frac{\delta A}{A}\right)^2 + \left(\frac{\delta B}{B}\right)^2}\]</span> for multiplicative ones.</p>
             <p>The manufacturing tolerances of electronic components were taken into account as well. Resistor tolerances were based on the absolute difference between standard resistances and those measured by a multimeter. Capacitance tolerances were based on the tolerances of a similar capacitor for which the <a href="http://www.paullinebarger.net/DS/Foai/Foai%20%5Bradial%20thru-hole%5D%20CD110%20Series.pdf">data sheet</a> was available: the FOAI CD110 radial capacitor, which had capacitance tolerances of <span class="math inline">\(\pm\)</span> 20%.</p>
-            <h2 id="results">Results</h2>
+            <h2 id="results-1">Results</h2>
             <table>
             <thead>
             <tr class="header">

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3279)}}    % original
-%\rhead{\textrmlf{Compiled }\#3279\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3279\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3280)}}    % original
+%\rhead{\textrmlf{Compiled }\#3280\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3280\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -257,7 +257,12 @@ Canvas}. Desmos was used to manually fit curves to the data, using a
 modified version of the model with \(t\) and \(t_0\) variables to
 truncate scrap data: \[
 V_{cap} = V_{bat}\left(1-e^{-\frac{t - t_0}{\tau}}\right)
-\]
+\] The scattered points near the x-axis are residuals between the curve
+fit and the collected data. The fit heuristic was to visually center the
+dots around the x-axis.
+
+\hypertarget{results}{%
+\subsection{Results}\label{results}}
 
 The results of the fits are summarized below:
 
@@ -276,10 +281,6 @@ The results of the fits are summarized below:
 \includegraphics{./KBesrcCapacitor1000microF15ohm.png}\tabularnewline
 \bottomrule
 \end{longtable}
-
-The scattered points near the x-axis are residuals between the curve fit
-and the collected data. The fit heuristic was to visually center the
-dots around the x-axis.
 
 \hypertarget{analysis}{%
 \subsection{Analysis}\label{analysis}}
@@ -306,8 +307,8 @@ similar capacitor for which the
 sheet} was available: the FOAI CD110 radial capacitor, which had
 capacitance tolerances of \(\pm\) 20\%.
 
-\hypertarget{results}{%
-\subsection{Results}\label{results}}
+\hypertarget{results-1}{%
+\subsection{Results}\label{results-1}}
 
 \begin{longtable}[]{@{}rrrrr@{}}
 \toprule

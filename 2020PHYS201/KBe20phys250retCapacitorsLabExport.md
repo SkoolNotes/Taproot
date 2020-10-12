@@ -39,6 +39,9 @@ A number of circuits were built and capacitors measured using a voltage and ampe
 $$
 V_{cap} = V_{bat}\left(1-e^{-\frac{t - t_0}{\tau}}\right)
 $$
+The scattered points near the x-axis are residuals between the curve fit and the collected data. The fit heuristic was to visually center the dots around the x-axis.
+
+## Results
 
 The results of the fits are summarized below:
 
@@ -48,8 +51,6 @@ The results of the fits are summarized below:
 33k$\Omega$  | 1000$\mu$F | ![](./KBesrcCapacitor0.047microF33kO.png) 
 100$\Omega$  | 1000$\mu$F | ![](./KBesrcCapacitor1000microF100ohm.png)
 15 $\Omega$  | 1000$\mu$F | ![](./KBesrcCapacitor1000microF15ohm.png) 
-
-The scattered points near the x-axis are residuals between the curve fit and the collected data. The fit heuristic was to visually center the dots around the x-axis.
 
 ## Analysis
 Because each fit was done manually, the absolute error was difficult to estimate because there was no correct answer. Instead, error was taken as the precision at which the number was considered "close enough" by the human doing the curve fit. Depending on the size of the value (and scale of the Desmos slider), this results in an absolute error ranging from 0.1 units to 0.001 units.
