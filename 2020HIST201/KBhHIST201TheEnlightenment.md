@@ -21,3 +21,4 @@ course: HIST201
 	* Encouraged reading
 	* Middle class grew, making more people wealthy enough to have time to read the bible
 	* Feeling of "this is new and weird"
+	
