@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3153)}}    % original
-%\rhead{\textrmlf{Compiled }\#3153\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3153\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3241)}}    % original
+%\rhead{\textrmlf{Compiled }\#3241\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3241\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -252,9 +252,7 @@ is here}
     \begin{itemize}
     \tightlist
     \item
-      carboxyl --- O=C-R-OH
-    \item
-      carboxylic acid --- H-O-C=O (left side of backbone)
+      carboxyl/carboxylic acid --- H-O-C=O (left side of backbone)
     \item
       carbonyl --- C=O --- part of carboxyl
     \item
@@ -268,6 +266,11 @@ is here}
     \item
       ester --- take a carboxylic acid and replace the hydrogen with a
       R-O group \#ASK
+
+      \begin{itemize}
+      \tightlist
+      \item
+      \end{itemize}
     \item
       ether --- R-O-R structure. Commonly shown as as an alcohol group
       (H-O-C) as part of the carboxyl

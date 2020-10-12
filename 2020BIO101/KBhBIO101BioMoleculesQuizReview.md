@@ -30,13 +30,13 @@ author: Houjun Liu
 		* Unsaturated Fats => double bonds in the carbon chain of fatty acids — think! olive oil
 * Identify functional groups
 	* Amino acid groups — see [[KBhBIO101AminoAcids]]
-		*  carboxyl — O=C-R-OH
-		*  carboxylic acid — H-O-C=O  (left side of backbone)
+		*  carboxyl/carboxylic acid — H-O-C=O  (left side of backbone)
 		*  carbonyl  — C=O — part of carboxyl 
 		*  amide — RC(=O)NR′R″ (frequently shown in side chains of amino acids — see [Amine](https://en.wikipedia.org/wiki/Amide#/media/File:Amide-general.png))
 		*  amino/amine — H3N+ (right side of backbone)
 		*  hydroxyl — OH group. Need I say more?
 		*  ester — take a carboxylic acid and replace the hydrogen with a R-O group  #ASK
+			*  
 		*  ether — R-O-R structure. Commonly shown as as an alcohol group (H-O-C) as part of the carboxyl
 * Monomers vs Polymers [[KBhBIO101StructuresofCarbs]]
 	* Monomer — single molecule (such as a monosacchride) that could be chained together to make polymers
