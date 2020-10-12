@@ -41,4 +41,11 @@ Acquired diseases => diseases that begin during lifetime, including...
 * Diabetes => autoimmune, nutrient, wear
 * Influenca <= **here, finally, an infections disease.**
 
-Worldwide, however, 
+## Disease causing agents
+* **Protozoan** => single-celled eukaryotes
+* **Fungal** => single/multi-celled eukarotyes
+* **Bacteria** => single-celled prokaryotes
+* **Viral** => acellular parasitic infectious agent
+* **Helminuthus** => multicellular worms
+* **Prions** => acellular misfolded proteins
+* 

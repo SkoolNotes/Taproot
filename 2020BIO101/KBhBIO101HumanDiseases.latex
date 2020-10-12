@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3262)}}    % original
-%\rhead{\textrmlf{Compiled }\#3262\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3262\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3263)}}    % original
+%\rhead{\textrmlf{Compiled }\#3263\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3263\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -244,6 +244,24 @@ the US}
   Influenca \textless= \textbf{here, finally, an infections disease.}
 \end{itemize}
 
-Worldwide, however,
+\hypertarget{disease-causing-agents}{%
+\subsection{Disease causing agents}\label{disease-causing-agents}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Protozoan} =\textgreater{} single-celled eukaryotes
+\item
+  \textbf{Fungal} =\textgreater{} single/multi-celled eukarotyes
+\item
+  \textbf{Bacteria} =\textgreater{} single-celled prokaryotes
+\item
+  \textbf{Viral} =\textgreater{} acellular parasitic infectious agent
+\item
+  \textbf{Helminuthus} =\textgreater{} multicellular worms
+\item
+  \textbf{Prions} =\textgreater{} acellular misfolded proteins
+\item
+\end{itemize}
 
 \end{document}
