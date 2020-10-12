@@ -86,7 +86,7 @@ The amount of current on the capacitor was calculated by taking a Riemann sum of
 
 ![Accumulated Charge Graphs](https://docs.google.com/spreadsheets/d/e/2PACX-1vRfxrZPfJZareibOZN-KammmgQDBDb5PVMBNmzCvUb_0tSn_TUNsLFQPM8ehfIKGEOaIhL86IoPFdb0/pubchart?oid=483417085&format=image)
 
-As the graph shows, both proxies of charge on the capacitor generally agree with the model but come up with smaller values of charge. Notably, the two experimental proxies don't agree with each other either, suggesting some systematic error is at play. One culprit may be mis-zeroed sensors: if the Riemann sum started 
+As the graph shows, both proxies of charge on the capacitor generally agree with the model but come up with smaller values of charge. Notably, the two experimental proxies don't agree with each other either, suggesting some systematic error is at play. One culprit may be misaligned data: if the Riemann sum calculation began after charging, then the entire sum would be skewed low. However, the sum plot is not a vertical translation of the theoretical value, which suggests the effect of this mis-zeroed sensors: if the Riemann sum started 
 
 # Time Constant with Various Components
 
