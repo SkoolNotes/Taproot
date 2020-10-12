@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3248)}}    % original
-%\rhead{\textrmlf{Compiled }\#3248\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3248\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3250)}}    % original
+%\rhead{\textrmlf{Compiled }\#3250\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3250\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -376,6 +376,8 @@ is here}
   \begin{itemize}
   \tightlist
   \item
+    Used as a gauge to sort the evolutiona
+  \item
     Membranous organelles --- possess own plasma =\textgreater{}
     regulates own macromolecure consumption, hormones, etc. Perhaps
     original prokarotic cells
@@ -383,18 +385,35 @@ is here}
     \begin{itemize}
     \tightlist
     \item
-      Endoplasmic reticulum =\textgreater{} forms the network of
-      transferring proteins and other elements
+      Double membranes
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Endoplasmic reticulum =\textgreater{} forms the network of
+        transferring proteins and other elements
+      \item
+        Golgi body/Gioli apparatus =\textgreater{} packs, sorts, and
+        modifies proteins and other elements throughout the cell
+      \item
+        Mitochrondria =\textgreater{} store ATP and extract energy from
+        ATP
+      \item
+        Chloroplasts =\textgreater{} Does photosynthesis
+      \end{itemize}
     \item
-      Golgi body/Gioli apparatus =\textgreater{} packs, sorts, and
-      modifies proteins and other elements throughout the cell
-    \item
-      Vesticles
-    \item
-      Mitochrondria =\textgreater{} store ATP and extract energy from
-      ATP
-    \item
-      Chloroplasts =\textgreater{} Does photosynthesis
+      Single membranes =\textgreater{} probably originally prokaryotic
+      cells
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Vesticles
+      \item
+        Lysomoes =\textgreater{} breaking stuff down and garbage dumps
+      \item
+        Vacuoles =\textgreater{} storing water, nutrients, waste
+      \end{itemize}
     \end{itemize}
   \item
     Non-membranous organelles --- does not posess own plasma
@@ -407,11 +426,6 @@ is here}
     \item
       Centrosome =\textgreater{} forms flangella, cilla, and handles
       cells divisions
-    \item
-      Lysomoes =\textgreater{} digesting large nutrients and changing
-      them to what cells could process and work on energy metabolism
-    \item
-      Vacuoles =\textgreater{} storing water, nutrients, waste
     \item
       Plastids =\textgreater{} creates colours displayed in the
       chromoplasts
