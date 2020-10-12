@@ -74,7 +74,7 @@ The exact numerical analysis for this section can be found [here](https://docs.g
 
 ## Charge Stored
 
-#incomplete
+
 
 # Time Constant with Various Components
 
