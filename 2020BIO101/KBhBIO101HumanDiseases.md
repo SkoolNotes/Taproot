@@ -30,7 +30,15 @@ Acquired diseases => diseases that begin during lifetime, including...
 * Mechanical wear
 * Ingestion of noxious chemicals
 
-**Infectious diseases actually smaller on the causes of death**
+**Infectious diseases actually smaller on the causes of death in the US**
 
 * Heart disease => wear + deficiency 
-* Cancer => heritable + 
+* Cancer => heritable + DNA
+* Unintentional injuries => not a disease
+* Chronic respitory disease => wear
+* Stroke => not a disease
+* Alhetimer disease => wear
+* Diabetes => autoimmune, nutrient, wear
+* Influenca <= **here, finally, an infections disease.**
+
+Worldwide, however, 
