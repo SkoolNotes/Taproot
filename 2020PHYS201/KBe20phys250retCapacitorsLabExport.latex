@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3289)}}    % original
-%\rhead{\textrmlf{Compiled }\#3289\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3289\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3290)}}    % original
+%\rhead{\textrmlf{Compiled }\#3290\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3290\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -323,7 +323,10 @@ placed on smaller scale curve fits, especially the final trial.
 Furthermore, with the unexpectedly large 20\% uncertainties in
 capacitance all trials fell within the uncertainties of the experiment.
 Thus, the model predicted the charging behavior of capacitors over time
-accurately.
+accurately. Numerical errors could have been better predicted if the
+specifications of the exact parts used to build the circuit were
+available. Additionally, more systematic curve fit heuristics could have
+been used such as RSME.
 
 The exact numerical analysis for this section can be found
 \href{https://docs.google.com/spreadsheets/d/1Hw9ooz0CtAvTP9vtw1VT9pVyfsW39IojwwrQX94VJQY/edit?usp=sharing}{here}.
