@@ -16,4 +16,18 @@ A lecture by Paul.
 	* Infectious agents
 	* Deficiency disorders
 	* Heritable factors
-	* Physiological disorders (immunodeficiency, autoimmune dis
+	* Physiological disorders (immunodeficiency, autoimmune disorders, allergies, etc.)
+	
+## Congenital vs. Acquired disease
+
+Congenital diseases => diseases present at birth due to DNA abnormalities / pregnancy pathological issues
+
+Acquired diseases => diseases that begin during lifetime, including...
+
+* Microrganism invasion => "infectios diseases"
+* Autoimmune reaction
+* Nutrient deficiency
+* Mechanical wear
+* Ingestion of noxious chemicals
+
+
