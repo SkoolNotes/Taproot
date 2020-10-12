@@ -66,6 +66,8 @@ Acquired diseases => diseases that begin during lifetime, including...
 
 ## Overview of various diseases
 
+[THis v
+
 ### Protozoan
 
 * **Protozoan factors** => direction pathogenisis leading to tissue damage
@@ -80,5 +82,7 @@ Adaptable!!
 
 ### Bacteria
 
-**Bacterial-induced toxicity** => viluence factors
+* **Bacterial-induced toxicity** => produces toxins + has hard capsule cell
+* **Host-mediated factors** => may develop host resistance, could compete for resources, and could be grown introcellularly
+* 
 
