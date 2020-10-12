@@ -42,7 +42,7 @@ source: #index
 * [[KBhBIO101AminoAcids]]
 
 ## Human Diseases
-* Human diseases, an intro: 
+* Human diseases, an intro: [[KBhBIO101HumanDiseases]]
 
 ## Quiz Review Document
 * 10092020 [[KBhBIO101BioMoleculesQuizReview]]
