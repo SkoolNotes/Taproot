@@ -67,7 +67,7 @@ source: #index
 [[KBhHIST201EnlightenmentFrenchRev]]
 
 ### Reading Flos + Refs
-- Mason ch 1 + 2 
+- Mason ch 1 + 2 [[KBhHIST201MasonCh1n2]]
     
 # Essays
 * Essay 1 
