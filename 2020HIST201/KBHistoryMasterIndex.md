@@ -64,7 +64,7 @@ source: #index
 	
 ## Unit 2
 ### The Enlightment + French Rev
-[[KBhHIST201Enlightenment]]
+[[KBhHIST201EnlightenmentFrenchRev]]
     
 # Essays
 * Essay 1 
