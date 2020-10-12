@@ -52,8 +52,12 @@ Acquired diseases => diseases that begin during lifetime, including...
 
 ## Pathogenicity + Virulence
 
-All of disease-causing things have two marks for it
-
 **Pathoginecity** => relative capacity to cause disease
 
-**Virulence** => 
+- Non-pathogenic agents => no diesease
+- Primary pathogens => yes disease
+- Opportunistic pathogens => yes disease only when it can, for instance, in immunocompromised individuals
+
+**Virulence** => numerical measures for pathonicity
+
+- Measured experimentally with LD50 — amonut to 50 percent chance of death — 
