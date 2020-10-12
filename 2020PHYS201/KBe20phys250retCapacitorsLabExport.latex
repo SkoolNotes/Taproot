@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3282)}}    % original
-%\rhead{\textrmlf{Compiled }\#3282\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3282\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3283)}}    % original
+%\rhead{\textrmlf{Compiled }\#3283\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3283\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -278,6 +278,8 @@ The results of the fits are summarized below:
 \includegraphics{./KBesrcCapacitor1000microF15ohm.png}\tabularnewline
 \bottomrule
 \end{longtable}
+
+{[}Curve fit results{]}{[}{]}
 
 \hypertarget{analysis}{%
 \subsection{Analysis}\label{analysis}}
