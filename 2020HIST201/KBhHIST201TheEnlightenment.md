@@ -28,4 +28,8 @@ course: HIST201
 	* 1550s-1700s
 	* European universities => very independent
 	* At crossroads of information: combining islamic sciences, Chinese tech, and new discoveries in Americas
-		* Copernicus: 1543 — He
+		* Copernicus: 1543 — Helleocentric and not Geocentric models
+		* Gallieo: Telescope
+		* Kepler: Elliptical orbits, planetary motion
+		* Newton: gravity, motion, calculus
+	* 153758098870939 
