@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3253)}}    % original
-%\rhead{\textrmlf{Compiled }\#3253\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3253\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3254)}}    % original
+%\rhead{\textrmlf{Compiled }\#3254\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3254\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -594,7 +594,8 @@ transport}\label{plasma-membrane-structure-transport}}
   \item
     Facilitated diffusion =\textgreater{} specific polar molecules go
     along the gradient to get into the cell through transporter
-    proteins. Osmosis is the facilitated diffusion, just of water.
+    proteins. Osmosis is the facilitated diffusion, just of water +
+    auquaporin.
   \item
     Phagocytosis =\textgreater{} take a piece of the membrane with you
     to form a vesticle to introduce large solid elements, recycling the
