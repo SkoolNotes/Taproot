@@ -21,6 +21,11 @@ course: HIST201
 	* Encouraged reading
 	* Middle class grew, making more people wealthy enough to have time to read the bible
 	* Feeling of "this is new and weird"
-	* Martin Luther's THeological Challenge
-		* Encouraged reading bible by self
-		* Encouraged
+* Martin Luther's Theological Challenge
+	* Encouraged reading bible by self
+	* Encouraged independent thinking
+* Intellectual Pluralism
+	* 1550s-1700s
+	* European universities => very independent
+	* At crossroads of information: combining islamic sciences, Chinese tech, and new discoveries in Americas
+		* Copernicus: 1543 — He
