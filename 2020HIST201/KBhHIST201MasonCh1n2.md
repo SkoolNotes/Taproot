@@ -37,4 +37,7 @@ author: Houjun Liu
 		* No national currency, nor system of weights and measures, nor a market
 		* Network of highways existed, but not very efficient
 		* Economic policy guided by merchanitilist theory     
+			* Notion that precious metals holdings is the ultimate goal
+			* Encouraged development of manufacturing to provide for global market
+			*  
 	
