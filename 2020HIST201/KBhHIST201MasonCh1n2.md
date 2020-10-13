@@ -141,4 +141,7 @@ author: Houjun Liu
 	* Napoleon acted as the one-man-Directory — creating a system similar to true Constitutional Monarchy
 		* Weakened representative institutions
 		* Censored the press
-		* 
+		* Put down rebellions
+		* Did the Terror, but to both royalists and true republicans
+		* Made peace with the Catholic Church
+		* Introduced new legal code that is still in French law today  
