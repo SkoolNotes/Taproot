@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3373)}}    % original
-%\rhead{\textrmlf{Compiled }\#3373\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3373\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3374)}}    % original
+%\rhead{\textrmlf{Compiled }\#3374\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3374\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -446,6 +446,9 @@ Methods}\label{folding-simulation-methods}}
         even if the pre-RNA had 10 exons, the splicosome might take a
         subset of those exons and remove the others
       \end{itemize}
+    \item
+      An isoform is a variant of that subset, an abnormal isoform is one
+      that is "bad" and causes problems
     \end{itemize}
   \end{enumerate}
 \end{enumerate}

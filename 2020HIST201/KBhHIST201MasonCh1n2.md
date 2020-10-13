@@ -100,5 +100,7 @@ author: Houjun Liu
 					* British textile caused massive unempolyment
 					* 1788 brought with it famine
 					* Louis XVI himself is also quite weak
-				* 	
+			* Third estate (peseant) general decided to go rougue and come up with their own National Assembly
+				* "Whenever we meet, there is the nation."
+				* The King, noticing t 
 
