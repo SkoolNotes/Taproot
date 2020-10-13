@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3402)}}    % original
-%\rhead{\textrmlf{Compiled }\#3402\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3402\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3403)}}    % original
+%\rhead{\textrmlf{Compiled }\#3403\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3403\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -449,7 +449,24 @@ Act by\ldots{}
       Other proteins for fun =\textgreater{} enzymes, motor proteins,
       transcription factors, host-cell interacting proteins, etc.
     \end{itemize}
+  \end{itemize}
+\item
+  Two types of virus
+
+  \begin{itemize}
+  \tightlist
   \item
+    Prokaryotic-infecting viruses
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Variety of shapes
+    \item
+      Complex and prolate shapes
+    \item
+      Has, somentimes, complex shape
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 

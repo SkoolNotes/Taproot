@@ -126,5 +126,9 @@ Act by...
 		* Externally-facisg host-cell fusion proteins => spikes
 		* Viral genome replication enzymes => prlymerases
 		* Other proteins for fun => enzymes, motor proteins, transcription factors, host-cell interacting proteins, etc.
-*  
+* Two types of virus 
+	* Prokaryotic-infecting viruses
+		* Variety of shapes
+		* Complex and prolate shapes
+		* Has, somentimes, complex shape
 
