@@ -198,4 +198,8 @@ Key questions:
 
 **DNA Viruses**
 
-- Require host cell nu
+*How are viral mRNAs produced from the viral genome?*
+
+- Viral DNA 
+
+
