@@ -157,7 +157,7 @@ Act by...
 
 #### Viral Entry
 
-*Option 1: Direct Injection*
+*Option 1: Direct Injection/insertion*
 
 - Insert genome through the bi-layer
 - Leave the rest behind
@@ -177,6 +177,11 @@ Act by...
 
 **All of these involve attachment first, which usually takes two steps.**
 
+This process causes the organism-specific response to viruses:
+
 1. Attachment: adhere roughly to random sugar proteins
 2. Binding: roll over slowly, and bind to the entry receptor it needs
+
+#### Uncoating
+Early endosome 
 

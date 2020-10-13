@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3411)}}    % original
-%\rhead{\textrmlf{Compiled }\#3411\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3411\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3412)}}    % original
+%\rhead{\textrmlf{Compiled }\#3412\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3412\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -519,7 +519,7 @@ difference in share and size
 \hypertarget{viral-entry}{%
 \paragraph{Viral Entry}\label{viral-entry}}
 
-\emph{Option 1: Direct Injection}
+\emph{Option 1: Direct Injection/insertion}
 
 \begin{itemize}
 \tightlist
@@ -558,6 +558,8 @@ difference in share and size
 \textbf{All of these involve attachment first, which usually takes two
 steps.}
 
+This process causes the organism-specific response to viruses:
+
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
@@ -566,5 +568,10 @@ steps.}
 \item
   Binding: roll over slowly, and bind to the entry receptor it needs
 \end{enumerate}
+
+\hypertarget{uncoating}{%
+\paragraph{Uncoating}\label{uncoating}}
+
+Early endosome
 
 \end{document}
