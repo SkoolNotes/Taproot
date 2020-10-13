@@ -279,3 +279,10 @@ Virus, in this case, spread through cell duplication
 * Prevent intergration via intergrease `IN`
 * Prevent viron maturation `PR`
 
+### Viral Genome vs Mutation Rate
+
+![Screen Shot 2020-10-12 at 11.24.39 PM.png](Screen Shot 2020-10-12 at 11.24.39 PM.png)
+
+- RNA viruses could mutate more because it does not have checks
+- 
+

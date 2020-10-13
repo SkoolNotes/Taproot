@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3429)}}    % original
-%\rhead{\textrmlf{Compiled }\#3429\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3429\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3430)}}    % original
+%\rhead{\textrmlf{Compiled }\#3430\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3430\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -791,5 +791,10 @@ Virus, in this case, spread through cell duplication
 \item
   Prevent viron maturation \texttt{PR}
 \end{itemize}
+
+\hypertarget{viral-genome-vs-mutatio}{%
+\subsubsection{Viral Genome vs Mutatio}\label{viral-genome-vs-mutatio}}
+
+{[}{[}Screen Shot 2020-10-12 at 11.24.39 PM.png{]}{]}
 
 \end{document}
