@@ -221,11 +221,15 @@ Except! Poxvirade carry their own polymerase, so they replicate in the cytoplasm
 - +-stranded RNA => same idea as above
 - - strand RNA => virus comes with polymerase that convert -ssRNA to +ssRNA. Then, same idea as above
 
-
 *What serves as the templates for viral genome replication?*
 
 * RNA viruses does not need host-cell polymeraese to copy RNA
 * They come with polymerase that...
 	* with dsRNA; takes +ssRNA and makes -ssRMA; combining the two to produce dsRNA
 	* with +ssRNA, takes +ssRNA and makes temporary -ssRNA which makes more +ssRNA
-	* with -ssRNA, takes -ssRNA, and makes +ssRNA by  
+	* with -ssRNA, takes -ssRNA, and makes temporary +ssRNA, which makes -ssRNA
+
+![Screen Shot 2020-10-12 at 11.14.30 PM.png](Screen Shot 2020-10-12 at 11.14.30 PM.png)
+
+
+
