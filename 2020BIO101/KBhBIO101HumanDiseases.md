@@ -185,5 +185,7 @@ This process causes the organism-specific response to viruses:
 #### Uncoating
 * Virus triggers *early endosome*
 	* Causes pH dependent protein denaturation
-	* Causing the cap 
+	* Causing the capsid to fall apart
+	* Triggering *late endosome* => releasing genome
+*  
 

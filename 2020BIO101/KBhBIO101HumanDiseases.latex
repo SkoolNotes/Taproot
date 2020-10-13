@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3413)}}    % original
-%\rhead{\textrmlf{Compiled }\#3413\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3413\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3414)}}    % original
+%\rhead{\textrmlf{Compiled }\#3414\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3414\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -575,7 +575,18 @@ This process causes the organism-specific response to viruses:
 \begin{itemize}
 \tightlist
 \item
-  Virus triggers \textbf{early endosome}
+  Virus triggers \emph{early endosome}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Causes pH dependent protein denaturation
+  \item
+    Causing the capsid to fall apart
+  \item
+    Triggering \emph{late endosome} =\textgreater{} releasing genome
+  \end{itemize}
+\item
 \end{itemize}
 
 \end{document}
