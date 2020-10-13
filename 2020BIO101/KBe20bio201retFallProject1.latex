@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3375)}}    % original
-%\rhead{\textrmlf{Compiled }\#3375\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3375\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3376)}}    % original
+%\rhead{\textrmlf{Compiled }\#3376\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3376\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -428,10 +428,21 @@ Methods}\label{folding-simulation-methods}}
     \item
       is it inheritable?
     \item
-      one case per million
-    \item
-      the gene that causes CJD in 5-10\% of cases is PRNP
+      one case per million population
     \end{itemize}
+
+    \begin{enumerate}
+    \item
+      Casues
+
+      \begin{itemize}
+      \tightlist
+      \item
+        the gene that causes CJD in 5-10\% of cases is PRNP
+      \item
+        87\% of cases are sporatic
+      \end{itemize}
+    \end{enumerate}
   \item
     isoform
 

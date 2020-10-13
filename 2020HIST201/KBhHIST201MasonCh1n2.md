@@ -104,5 +104,8 @@ author: Houjun Liu
 				* "Whenever we meet, there is the nation."
 				* The King, noticing this, took the army to quell the third estate generals
 				* Millitias began forming throughout the city
-				* July 14th, 80,000 people stored Bastille prision + seized the governor of t 
+				* July 14th, 80,000 people stored Bastille prision + seized the governor of the fortress. This became **Bastille day**, a French holiday!
+				* With this example, peseants began raiding their landlords
+			* The suddenly official National Assembly abolished lordish feutal payments + freed the peseants
+			*   
 
