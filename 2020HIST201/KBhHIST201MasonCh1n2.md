@@ -44,4 +44,4 @@ author: Houjun Liu
 			* Adam Smith's free market economy/baurseiosie challenged mercantilistic economy
 			* Old France very Roman Catholic
 				*  Church owned large amount of resources => almost 10% 
-				*  Structure of stat 
+				*  Monarchs crowed in cathedrals
