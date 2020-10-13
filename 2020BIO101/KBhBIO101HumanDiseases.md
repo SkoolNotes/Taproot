@@ -131,5 +131,9 @@ Act by...
 		* Variety of shapes
 		* Complex and prolate shapes
 		* Has, sometimes complex shapes! a la [this image](Screen Shot 2020-10-12 at 10.49.04 PM.png)
-	* 
+	* Eukarotic-infecting viruses
+		* Much more "boring" in terms of shape
+		* Icosahedral/spherecial outside
+		* Enveloped constructions => envelope protein layer outside, spherical inside
+		* Helical/Cylindrical/Bullet shapes, too! 
 
