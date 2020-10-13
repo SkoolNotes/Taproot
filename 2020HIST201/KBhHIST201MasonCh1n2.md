@@ -116,3 +116,5 @@ author: Houjun Liu
 					* Seized all Church property
 					* Required clergy election to be public, forced the clergy to be loyal to the nation
 					* New constitution was presented => elected legislative assembly w/ king only the power as suspensive veto 
+			* Louis XVI fled Paris and appealed to all other monarchs => Russian empress declared "affairs of France were the concern of all crowned heads."
+			* Prussia and Austria
