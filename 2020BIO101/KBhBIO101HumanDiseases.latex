@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3426)}}    % original
-%\rhead{\textrmlf{Compiled }\#3426\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3426\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3427)}}    % original
+%\rhead{\textrmlf{Compiled }\#3427\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3427\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -742,6 +742,21 @@ To make this happen, the virus needs\ldots{}
   \item
     Take double-stranded RNA to turn into DNA
   \end{itemize}
+\item
+  \textbf{Integrase}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Force insert the DNA into the genome of the host cell
+  \end{itemize}
 \end{itemize}
+
+And because of the fact that viral DNA is now in cellular DNA, these
+viruses' DNAs are hard to get rid of.
+
+And this is why we can't cure HIV.
+
+Virus, in this case, spread
 
 \end{document}

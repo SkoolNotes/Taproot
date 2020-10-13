@@ -260,3 +260,11 @@ To make this happen, the virus needs...
 - **Integrase**
 	- Force insert the DNA into the genome of the host cell
 
+
+And because of the fact that viral DNA is now in cellular DNA, these viruses' DNAs are hard to get rid of.
+
+And this is why we can't cure HIV.
+
+Virus, in this case, spread through cell duplication
+
+
