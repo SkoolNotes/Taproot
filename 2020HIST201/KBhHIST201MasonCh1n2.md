@@ -83,5 +83,9 @@ author: Houjun Liu
 		* 1799 => Napoleon
 		* 1815 => Monarchy is back
 	* During the revolutionary period, France perhaps was the most significant country
-	*  
+		* Louis XIV established France as centre of power  
+			* Most populous
+			* Leading in arts and sciences
+			* Leading in philiosophical through a la Enlightenment
+			*  
 
