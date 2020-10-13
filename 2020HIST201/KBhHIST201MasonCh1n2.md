@@ -75,3 +75,4 @@ author: Houjun Liu
 	* Attacked basis of *acien régime*
 *  Enlightment Influence 
 	*  Introduced governmental reforms 
+	*  Created new ideas on goverment: **liberalism**, **socialism**, **communism.**
