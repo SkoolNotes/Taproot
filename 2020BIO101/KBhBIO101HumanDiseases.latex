@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3412)}}    % original
-%\rhead{\textrmlf{Compiled }\#3412\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3412\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3413)}}    % original
+%\rhead{\textrmlf{Compiled }\#3413\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3413\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -572,6 +572,10 @@ This process causes the organism-specific response to viruses:
 \hypertarget{uncoating}{%
 \paragraph{Uncoating}\label{uncoating}}
 
-Early endosome
+\begin{itemize}
+\tightlist
+\item
+  Virus triggers \textbf{early endosome}
+\end{itemize}
 
 \end{document}

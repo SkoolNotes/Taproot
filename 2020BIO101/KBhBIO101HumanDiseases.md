@@ -183,5 +183,7 @@ This process causes the organism-specific response to viruses:
 2. Binding: roll over slowly, and bind to the entry receptor it needs
 
 #### Uncoating
-Early endosome 
+* Virus triggers *early endosome*
+	* Causes pH dependent protein denaturation
+	* Causing the cap 
 
