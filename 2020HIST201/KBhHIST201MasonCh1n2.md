@@ -136,4 +136,9 @@ author: Houjun Liu
 * Napoleon and the *coup d'état*
 	* General in 1793
 	* Put down a loyalist uprising in 1795, making him famous
-	* And then, 
+	* Crushed the Austrian forces while he is at it, making him famous
+	* Elected cosul in 1802, and just crowned himself in 1804
+	* Napoleon acted as the one-man-Directory — creating a system similar to true Constitutional Monarchy
+		* Weakened representative institutions
+		* Censored the press
+		* 
