@@ -127,4 +127,7 @@ author: Houjun Liu
 		* Then, by a narrow vote, Louis was convicted and confirmed to be executed
 	* Then, everyone piled on:
 		* Britain Holland, Spain, Austria, Prussia formed a coalition against France
-		* 
+		* the Convention established a Public Safety committee
+			* Created a period called The Terror => putting on trial and killing everyone who opposed the revolution
+			* 40,000 died under this system
+			* And so did the leaders of the Terror Danton and Robespierre
