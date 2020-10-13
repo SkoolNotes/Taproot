@@ -92,4 +92,7 @@ author: Houjun Liu
 				* Socioeconomic change of the 18th century
 				* The Freaking Enlightment
 				* Weakening monarchy  
+			* Short term
+				* Inefficient tax system got the country stripped of money
+				* 	
 
