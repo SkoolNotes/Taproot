@@ -45,3 +45,6 @@ author: Houjun Liu
 			* Old France very Roman Catholic
 				*  Church owned large amount of resources => almost 10% 
 				*  Monarchs crowed in cathedrals
+* 1700s balance of power
+	* European nations began to make international alliances
+	* Shifted power to prevent any one country from becoming too powerful
