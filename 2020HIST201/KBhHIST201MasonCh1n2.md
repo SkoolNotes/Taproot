@@ -149,3 +149,6 @@ author: Houjun Liu
 		* Controlled Spain, Italy, Belgium, Holland, Swizerland, Poland, Croatio, Slovania and some parts of Germany
 		*  Solidified revolutionary changes + Enlightenment philosophies
 		*  Spread ideas of the Enlightement through millitary conquests
+			*  Conquered places
+			*  Established satellite Republics with constitutions, dec. of rights, legislatures, basic civil equality, and financial, judicial and admin reforms
+			*  Undermined qualities of Futalism and cloFrench legal code everywhere
