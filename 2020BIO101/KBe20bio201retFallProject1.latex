@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3353)}}    % original
-%\rhead{\textrmlf{Compiled }\#3353\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3353\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3356)}}    % original
+%\rhead{\textrmlf{Compiled }\#3356\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3356\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -218,6 +218,51 @@ Methods}\label{folding-simulation-methods}}
     \item
       require microsecond to milisecond time scales
     \end{itemize}
+
+    \begin{enumerate}
+    \item
+      optimizations
+
+      \begin{enumerate}
+      \item
+        conformational sampling?
+
+        \begin{itemize}
+        \tightlist
+        \item
+          retains atomistic representation of the system
+        \end{itemize}
+      \item
+        overcome kinetic trapping and thourough sampling of
+        conformational space techniques
+
+        \begin{itemize}
+        \tightlist
+        \item
+          umbrella sampling
+        \item
+          multicanonical algorithms
+        \item
+          simulated tempering
+        \item
+          transition path sampling
+        \item
+          targeted molecular dynamics
+        \item
+          replica exchange method molecular dynamics (REMD)
+        \item
+          accelerated molecular dynamics (AMD)
+
+          \begin{itemize}
+          \tightlist
+          \item
+            see below
+          \end{itemize}
+        \end{itemize}
+      \end{enumerate}
+    \item
+      Accelerated molecular dynamics (AMD)
+    \end{enumerate}
   \end{enumerate}
 \end{enumerate}
 

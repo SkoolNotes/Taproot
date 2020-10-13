@@ -28,3 +28,20 @@
 
      - very slow (supercomputers -> microseconds of simulation)
      - require microsecond to milisecond time scales
+
+****** optimizations
+
+******* conformational sampling?
+        - retains atomistic representation of the system
+
+******* overcome kinetic trapping and thourough sampling of conformational space techniques
+        - umbrella sampling
+        - multicanonical algorithms
+        - simulated tempering
+        - transition path sampling
+        - targeted molecular dynamics
+        - replica exchange method molecular dynamics (REMD)
+        - accelerated molecular dynamics (AMD)
+          - see below
+
+****** Accelerated molecular dynamics (AMD)
