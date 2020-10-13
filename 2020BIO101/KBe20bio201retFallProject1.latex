@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3358)}}    % original
-%\rhead{\textrmlf{Compiled }\#3358\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3358\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3359)}}    % original
+%\rhead{\textrmlf{Compiled }\#3359\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3359\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -270,5 +270,25 @@ Methods}\label{folding-simulation-methods}}
   \item
   \end{itemize}
 \end{enumerate}
+
+\hypertarget{meetings}{%
+\subsection{Meetings}\label{meetings}}
+
+\hypertarget{oct-2020}{%
+\subsubsection{12 oct 2020}\label{oct-2020}}
+
+\begin{itemize}
+\tightlist
+\item
+  computational prediction modeling
+\item
+  solving the structure
+
+  \begin{itemize}
+  \tightlist
+  \item
+    xray cristolography
+  \end{itemize}
+\end{itemize}
 
 \end{document}
