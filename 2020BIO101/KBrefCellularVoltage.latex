@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3437)}}    % original
-%\rhead{\textrmlf{Compiled }\#3437\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3437\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3438)}}    % original
+%\rhead{\textrmlf{Compiled }\#3438\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3438\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -167,6 +167,16 @@
 \textbf{Source}:\thinspace 
 
 \textless T
+
+\#flo \#ref \#disorganized \#incomplete
+
+\hypertarget{lipids}{%
+\section{Lipids}\label{lipids}}
+
+\#expand
+
+\hypertarget{self-assembly}{%
+\subsection{Self assembly}\label{self-assembly}}
 
 \hypertarget{voltage-in-cells-1}{%
 \section{Voltage in Cells}\label{voltage-in-cells-1}}
