@@ -71,4 +71,4 @@ author: Houjun Liu
 		* Argued for system of *laissez-faire* => daoistic management of economy
 		* Ideas ultimately influence the development of capitalism
 * Perhaps one of the causes of the French Revolution
-*  
+* Ideas raised by Enlignment => profoundly setting 
