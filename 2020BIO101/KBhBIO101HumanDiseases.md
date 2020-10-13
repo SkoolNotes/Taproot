@@ -119,5 +119,12 @@ Act by...
 *  Viruses exist on the nanometre scale, but they are difference in share and size
 * Structure of viruses
 	* **All contain**
-		*   
+		* Capsid => structural protein coat
+		* Genome => RNA/DNA; but not both
+	* **Some contain**
+		* Membraneous-enclosed capsid => envelope
+		* Externally-facisg host-cell fusion proteins => spikes
+		* Viral genome replication enzymes => prlymerases
+		* Other proteins for fun => enzymes, motor proteins, transcription factors, host-cell interacting proteins, etc.
+*  
 

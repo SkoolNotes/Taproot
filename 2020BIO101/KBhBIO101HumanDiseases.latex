@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3401)}}    % original
-%\rhead{\textrmlf{Compiled }\#3401\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3401\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3402)}}    % original
+%\rhead{\textrmlf{Compiled }\#3402\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3402\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -430,7 +430,26 @@ Act by\ldots{}
     \begin{itemize}
     \tightlist
     \item
+      Capsid =\textgreater{} structural protein coat
+    \item
+      Genome =\textgreater{} RNA/DNA; but not both
     \end{itemize}
+  \item
+    \textbf{Some contain}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Membraneous-enclosed capsid =\textgreater{} envelope
+    \item
+      Externally-facisg host-cell fusion proteins =\textgreater{} spikes
+    \item
+      Viral genome replication enzymes =\textgreater{} prlymerases
+    \item
+      Other proteins for fun =\textgreater{} enzymes, motor proteins,
+      transcription factors, host-cell interacting proteins, etc.
+    \end{itemize}
+  \item
   \end{itemize}
 \end{itemize}
 
