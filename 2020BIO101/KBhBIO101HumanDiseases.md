@@ -291,4 +291,12 @@ Virus, in this case, spread through cell duplication
 **Genetic shift** — viruses recombinate without mutating by crossing-over mechanism or genome segment reassortment. Think! the flu
 
  
+## Why are viruses bad
 
+Damage host cells/tissues by...
+
+* Reducing gene expression capacity
+* Depleting cellular resources
+* Causing cell lysis (to explode)
+* Promoting tumorigenisis — cancer
+* Creating damaging immunological response
