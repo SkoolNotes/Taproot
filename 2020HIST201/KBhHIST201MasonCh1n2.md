@@ -76,6 +76,6 @@ author: Houjun Liu
 *  Enlightment Influence 
 	*  Introduced governmental reforms 
 	*  Created new ideas on goverment: **liberalism**, **socialism**, **communism.**
-* French Revolution
+* French Revolution => 1789
 	* 
 
