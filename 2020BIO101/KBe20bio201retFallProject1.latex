@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3363)}}    % original
-%\rhead{\textrmlf{Compiled }\#3363\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3363\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3364)}}    % original
+%\rhead{\textrmlf{Compiled }\#3364\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3364\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -187,8 +187,19 @@
   catalyzing reactions with actions
 \item
   Protein-ligand binding
+
+  neurotransmitters (dopamine), protien is dopamine receptor how does
+  the ligand bind the proper site to open the channel?
 \item
   signal transduction
+
+  bind to other protein to trigger chain of actions
+
+  \begin{itemize}
+  \tightlist
+  \item
+    release calcium from intercellular stores
+  \end{itemize}
 \item
   allosteric regulation
 \end{enumerate}
