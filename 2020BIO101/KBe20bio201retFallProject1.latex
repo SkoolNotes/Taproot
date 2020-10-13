@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3367)}}    % original
-%\rhead{\textrmlf{Compiled }\#3367\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3367\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3368)}}    % original
+%\rhead{\textrmlf{Compiled }\#3368\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3368\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -202,6 +202,24 @@
   \end{itemize}
 \item
   allosteric regulation
+
+  \begin{itemize}
+  \tightlist
+  \item
+    a reason why knowing the structure and pockets is important
+  \item
+    predict allosteric cites
+
+    \begin{itemize}
+    \tightlist
+    \item
+      similar to non-competative inhibiton?
+    \item
+      but for dna binding protiens, like the dna transcription inhibitor
+    \end{itemize}
+  \item
+    ligand binds allosteric site and activates the protien
+  \end{itemize}
 \end{enumerate}
 
 \hypertarget{folding-simulation-methods}{%
