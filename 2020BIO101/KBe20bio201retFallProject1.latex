@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3356)}}    % original
-%\rhead{\textrmlf{Compiled }\#3356\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3356\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3357)}}    % original
+%\rhead{\textrmlf{Compiled }\#3357\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3357\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -260,10 +260,15 @@ Methods}\label{folding-simulation-methods}}
           \end{itemize}
         \end{itemize}
       \end{enumerate}
-    \item
-      Accelerated molecular dynamics (AMD)
     \end{enumerate}
   \end{enumerate}
+\item
+  Accelerated molecular dynamics (AMD)
+
+  \begin{itemize}
+  \tightlist
+  \item
+  \end{itemize}
 \end{enumerate}
 
 \end{document}
