@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3439)}}    % original
-%\rhead{\textrmlf{Compiled }\#3439\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3439\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3440)}}    % original
+%\rhead{\textrmlf{Compiled }\#3440\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3440\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,7 +182,7 @@
 \subsection{Construction}\label{construction}}
 
 \hypertarget{fatty-acid}{%
-\subsubsection{Fatty acid}\label{fatty-acid}}
+\subsection{Fatty acid}\label{fatty-acid}}
 
 \begin{itemize}
 \tightlist
@@ -190,6 +190,11 @@
   caboxylic acid
 \item
   fatty part is a hydrocarbon
+\item
+  connected to the head by an ester linkage using a dehydration
+  synthesis reaction
+\item
+  energy storage molecule
 \end{itemize}
 
 \hypertarget{voltage-in-cells-1}{%
