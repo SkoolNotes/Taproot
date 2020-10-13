@@ -114,4 +114,5 @@ author: Houjun Liu
 				* Then, the National Assembly just pretended that they ran the nation
 					* Using monarch as de jurie figurehead
 					* Seized all Church property
-					*  
+					* Required clergy election to be public, forced the clergy to be loyal to the nation
+					* New constitution was presented => elected legislative assembly w/ king only the power as suspensive veto 
