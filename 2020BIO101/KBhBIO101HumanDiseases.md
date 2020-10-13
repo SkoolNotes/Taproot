@@ -249,4 +249,14 @@ Trigger...
 - Meanwhile, send virus's own spikes to the membrane
 - On exit by extocytosis, steal a part of the newly-spikey membrane with it to serve as new casing
 
+### Retroviruses
+**Viruses that have the ability to intergrate into the chromosomes of the host cell**
+
+To make this happen, the virus needs...
+
+- **Reverse Transcriptase**
+	- Transcript RNA to double-stranded RNA
+	- Take double-stranded RNA to turn into DNA
+- **Integrase**
+	- Force insert the DNA into the genome of the host cell
 

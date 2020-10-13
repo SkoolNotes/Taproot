@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3425)}}    % original
-%\rhead{\textrmlf{Compiled }\#3425\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3425\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3426)}}    % original
+%\rhead{\textrmlf{Compiled }\#3426\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3426\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -720,6 +720,28 @@ Trigger\ldots{}
 \item
   On exit by extocytosis, steal a part of the newly-spikey membrane with
   it to serve as new casing
+\end{itemize}
+
+\hypertarget{retroviruses}{%
+\subsubsection{Retroviruses}\label{retroviruses}}
+
+\textbf{Viruses that have the ability to intergrate into the chromosomes
+of the host cell}
+
+To make this happen, the virus needs\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Reverse Transcriptase}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Transcript RNA to double-stranded RNA
+  \item
+    Take double-stranded RNA to turn into DNA
+  \end{itemize}
 \end{itemize}
 
 \end{document}
