@@ -109,6 +109,9 @@ author: Houjun Liu
 					* With this example, peseants began raiding their landlords
 				* The suddenly official National Assembly abolished lordish feutal payments + freed the peseants
 				* August 16th, the Dec. of the Rights of Man was published => the French Dec. of Indp.
-				* Reflects Enlightenment Ideals => "natural, inalienable, and sacred rights of man."
+				* Reflects Enlightenment Ideals => "natural, inalienable, and sacred rights of man... Liberty, property, security, and resistance to oppression"
 				* 6000 woman... just decided to chuck the King back into Paris. #how???
-				* 
+				* Then, the National Assembly just pretended that they ran the nation
+					* Using monarch as de jurie figurehead
+					* Seized all Church property
+					*  

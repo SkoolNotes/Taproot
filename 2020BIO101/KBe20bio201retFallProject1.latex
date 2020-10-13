@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3378)}}    % original
-%\rhead{\textrmlf{Compiled }\#3378\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3378\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3379)}}    % original
+%\rhead{\textrmlf{Compiled }\#3379\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3379\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -401,6 +401,9 @@ Methods}\label{folding-simulation-methods}}
       \tightlist
       \item
         how does the power of the battery work given those components?
+      \item
+        ligands and pH can change/denature protiens, but there are also
+        voltage gated channels
       \end{itemize}
     \end{itemize}
   \end{enumerate}
