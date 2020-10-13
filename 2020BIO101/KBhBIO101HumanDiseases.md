@@ -130,5 +130,6 @@ Act by...
 	* Prokaryotic-infecting viruses
 		* Variety of shapes
 		* Complex and prolate shapes
-		* Has, somentimes, complex shape
+		* Has, sometimes complex shapes! a la [this image](Screen Shot 2020-10-12 at 10.49.04 PM.png)
+	* 
 
