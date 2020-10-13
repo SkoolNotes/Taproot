@@ -56,3 +56,7 @@ author: Houjun Liu
 		* Got on the notion that reason was derived from experience
 		* Human nature is essentially good, and character is shaped by education and upbringing 
 		* Hence, good societies w/ good education will create a better society
+		* Man process natural + inalienable rights to life, liberty, and... property?
+		* Political communities are formed by popular consent 
+		* Had huge influence across the Atlantic
+		* 
