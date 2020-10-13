@@ -48,3 +48,4 @@ author: Houjun Liu
 * 1700s balance of power
 	* European nations began to make international alliances
 	* Shifted power to prevent any one country from becoming too powerful
+	* Whole econo
