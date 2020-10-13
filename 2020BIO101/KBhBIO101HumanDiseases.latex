@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3424)}}    % original
-%\rhead{\textrmlf{Compiled }\#3424\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3424\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3425)}}    % original
+%\rhead{\textrmlf{Compiled }\#3425\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3425\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -714,9 +714,12 @@ Trigger\ldots{}
 \begin{itemize}
 \tightlist
 \item
-  Extocytosis
+  Trigger extocytosis
 \item
-  Meanwhil
+  Meanwhile, send virus's own spikes to the membrane
+\item
+  On exit by extocytosis, steal a part of the newly-spikey membrane with
+  it to serve as new casing
 \end{itemize}
 
 \end{document}

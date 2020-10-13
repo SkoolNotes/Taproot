@@ -245,7 +245,8 @@ Replicate so much that the membrane burst.
 
 Trigger...
 
-- Extocytosis
-- Meanwhile, steal a part of 
+- Trigger extocytosis
+- Meanwhile, send virus's own spikes to the membrane
+- On exit by extocytosis, steal a part of the newly-spikey membrane with it to serve as new casing
 
 
