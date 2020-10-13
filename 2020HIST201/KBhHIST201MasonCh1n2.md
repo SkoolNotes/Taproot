@@ -68,3 +68,4 @@ author: Houjun Liu
 		* Argued that government inference in the economy violated natural forces of competition, supply, and demand
 		* Self-interest could work for the common good
 		* Individual greed + private accumulation of wealth => free market forces are at play
+		* Argued for system of 
