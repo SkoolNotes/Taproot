@@ -67,4 +67,4 @@ author: Houjun Liu
 		* Applied Enlightenment ideas to economy and market
 		* Argued that government inference in the economy violated natural forces of competition, supply, and demand
 		* Self-interest could work for the common good
-		* Individual greed + private accumulation of wealth => free market would beni
+		* Individual greed + private accumulation of wealth => free market forces are at play
