@@ -63,4 +63,6 @@ author: Houjun Liu
 		* "Man is born free, and everywhere he is shackled" 
 		* Believes that society corrupts and distorts man's natural freedom and equality
 		* Negotiated by social contract
-		* 
+	* Adam Smith
+		* Applied Enlightenment ideas to economy and market
+		* Argued that government inference inthe economy vilo 
