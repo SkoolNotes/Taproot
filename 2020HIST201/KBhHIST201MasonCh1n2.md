@@ -124,4 +124,4 @@ author: Houjun Liu
 		* Georges Danton + Max Robespirre jockied for power
 		* Clubs and meetings established
 		* Section assemblies drew many commoners into political activity
-		* 
+		* Then, by a narrow vote, Louis was
