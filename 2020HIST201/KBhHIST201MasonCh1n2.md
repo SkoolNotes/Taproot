@@ -51,4 +51,8 @@ author: Houjun Liu
 	* Whole economic system begins to be challenged by the end of the 18th century, when [[KBhHIST201TheEnlightenment]] happened, followed by French Revolution, Industrial Revolution, and solidification of the middle class
 * [[KBhHIST201Enlightenment]] 
 	* Applied methods of scientific revolution to study of society
-	* Believed natural laws governed human behavior 
+	* Believed natural laws governed human behavior + human institutions
+	* John Locke
+		* Got on the notion that reason was derived from experience
+		* Human nature is essentially good, and character is shaped by education and upbringing 
+		* Hence, good societies w/ good education will create a better society
