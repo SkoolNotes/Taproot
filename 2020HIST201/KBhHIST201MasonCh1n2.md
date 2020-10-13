@@ -65,4 +65,6 @@ author: Houjun Liu
 		* Negotiated by social contract
 	* Adam Smith
 		* Applied Enlightenment ideas to economy and market
-		* Argued that government inference inthe economy vilo 
+		* Argued that government inference in the economy violated natural forces of competition, supply, and demand
+		* Self-interest could work for the common good
+		* 
