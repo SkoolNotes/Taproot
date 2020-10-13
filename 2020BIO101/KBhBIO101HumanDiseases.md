@@ -207,8 +207,12 @@ Key questions:
 
 - Viral DNA serves as template for host cell DNA polymerase
 - Viral genome copied repeatedly
-- Virus, then, **will be replicated within the nucleus** due to it needing the polymeraese to copy DNA
+- Virus, then, **will be replicated within the nucleus** due to it needing the polymerase to copy DNA
 
-Except! Poxvirade
+Except! Poxvirade carry their own polymerase, so they replicate in the cytoplasm.
+
+![[Screen Shot 2020-10-12 at 11.09.46 PM.png]]
+
+:
 
 
