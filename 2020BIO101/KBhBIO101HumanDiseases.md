@@ -226,4 +226,6 @@ Except! Poxvirade carry their own polymerase, so they replicate in the cytoplasm
 
 * RNA viruses does not need host-cell polymeraese to copy RNA
 * They come with polymerase that...
-	* with dsRNA; takes  
+	* with dsRNA; takes +ssRNA and makes -ssRMA; combining the two to produce dsRNA
+	* with +ssRNA, takes +ssRNA and makes temporary -ssRNA which makes more +ssRNA
+	* with -ssRNA, takes -ssRNA, and makes +ssRNA by  
