@@ -200,6 +200,15 @@ Key questions:
 
 *How are viral mRNAs produced from the viral genome?*
 
-- Viral DNA 
+- Viral DNA enters, through RNA polymerase II in the host cell, mRNA is produced
+- mRNAs then read  by ribosomes, and there we go
+
+*What serves as the templates for viral genome replication?*
+
+- Viral DNA serves as template for host cell DNA polymerase
+- Viral genome copied repeatedly
+- Virus, then, **will be replicated within the nucleus** due to it needing the polymeraese to copy DNA
+
+Except! Poxvirade
 
 

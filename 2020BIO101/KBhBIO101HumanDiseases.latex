@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3417)}}    % original
-%\rhead{\textrmlf{Compiled }\#3417\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3417\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3418)}}    % original
+%\rhead{\textrmlf{Compiled }\#3418\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3418\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -619,7 +619,20 @@ Key questions:
 \begin{itemize}
 \tightlist
 \item
-  Viral DNA
+  Viral DNA enters, through RNA polymerase II in the host cell, mRNA is
+  produced
+\item
+  mRNAs then read by ribosomes, and there we go
+\end{itemize}
+
+\emph{What serves as the templates for viral genome replication?}
+
+\begin{itemize}
+\tightlist
+\item
+  Viral DNA serves as template for host cell DNA polymerase
+\item
+  Viral genome copied repeatedly
 \end{itemize}
 
 \end{document}
