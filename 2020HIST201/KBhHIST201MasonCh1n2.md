@@ -86,6 +86,6 @@ author: Houjun Liu
 		* Louis XIV established France as centre of power  
 			* Most populous
 			* Leading in arts and sciences
-			* Leading in philiosophical through a la Enlightenment
+			* Leading in philosophical thought a la Enlightenment
 			*  
 
