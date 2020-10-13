@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3427)}}    % original
-%\rhead{\textrmlf{Compiled }\#3427\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3427\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3428)}}    % original
+%\rhead{\textrmlf{Compiled }\#3428\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3428\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -757,6 +757,19 @@ viruses' DNAs are hard to get rid of.
 
 And this is why we can't cure HIV.
 
-Virus, in this case, spread
+Virus, in this case, spread through cell duplication
+
+\begin{itemize}
+\tightlist
+\item
+  Proviral region on the DNA, every time the ribosome comes across it,
+  makes a new viron
+\item
+  These components are then assembled, sent, etc. as usual
+\item
+  Because of the fact that the ribosome needs to, well, come across the
+  bit of DNA for this to work, the virons are made slowly by "trickling
+  out.
+\end{itemize}
 
 \end{document}
