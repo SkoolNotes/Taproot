@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3410)}}    % original
-%\rhead{\textrmlf{Compiled }\#3410\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3410\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3411)}}    % original
+%\rhead{\textrmlf{Compiled }\#3411\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3411\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -516,7 +516,8 @@ difference in share and size
   Viral Exit =\textgreater{} mature virons leave
 \end{enumerate}
 
-\textbf{Viral Entry}
+\hypertarget{viral-entry}{%
+\paragraph{Viral Entry}\label{viral-entry}}
 
 \emph{Option 1: Direct Injection}
 
@@ -553,5 +554,17 @@ difference in share and size
 \item
   Shazam!
 \end{itemize}
+
+\textbf{All of these involve attachment first, which usually takes two
+steps.}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Attachment: adhere roughly to random sugar proteins
+\item
+  Binding: roll over slowly, and bind to the entry receptor it needs
+\end{enumerate}
 
 \end{document}

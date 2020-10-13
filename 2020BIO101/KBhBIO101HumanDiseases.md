@@ -155,7 +155,7 @@ Act by...
 5.  Assembly => put it all togethr
 6.  Viral Exit => mature virons leave
 
-**Viral Entry**
+#### Viral Entry
 
 *Option 1: Direct Injection*
 
@@ -175,4 +175,8 @@ Act by...
  - Shed the protein coat once in
  - Shazam!
 
+**All of these involve attachment first, which usually takes two steps.**
+
+1. Attachment: adhere roughly to random sugar proteins
+2. Binding: roll over slowly, and bind to the entry receptor it needs
 
