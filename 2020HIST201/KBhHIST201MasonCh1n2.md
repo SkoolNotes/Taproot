@@ -77,5 +77,10 @@ author: Houjun Liu
 	*  Introduced governmental reforms 
 	*  Created new ideas on goverment: **liberalism**, **socialism**, **communism.**
 * French Revolution => 1789
+	* Although year for the declaration of the Rights of Man, 1789 is overshodowed by a whole timeline
+		* 1792 => Louis XVI dethroned
+		* 1793 => Louis XVI executed
+		* 1799 => Napoleon
+		* 1815 => Monarchy is back
 	* 
 
