@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3440)}}    % original
-%\rhead{\textrmlf{Compiled }\#3440\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3440\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3441)}}    % original
+%\rhead{\textrmlf{Compiled }\#3441\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3441\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -181,8 +181,8 @@
 \hypertarget{construction}{%
 \subsection{Construction}\label{construction}}
 
-\hypertarget{fatty-acid}{%
-\subsection{Fatty acid}\label{fatty-acid}}
+\hypertarget{fatty-acids}{%
+\subsection{Fatty acids}\label{fatty-acids}}
 
 \begin{itemize}
 \tightlist
@@ -195,6 +195,24 @@
   synthesis reaction
 \item
   energy storage molecule
+\end{itemize}
+
+\hypertarget{saturation-vs-unsaturated}{%
+\subsubsection{Saturation vs
+unsaturated}\label{saturation-vs-unsaturated}}
+
+\begin{itemize}
+\tightlist
+\item
+  If it's saturated, then everything lines up nicely
+\item
+  unsaturated fatty acids have a kink (carbon doublebond)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    harder to pack and flow more smoothly
+  \end{itemize}
 \end{itemize}
 
 \hypertarget{voltage-in-cells-1}{%
