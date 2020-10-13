@@ -157,12 +157,22 @@ Act by...
 
 **Viral Entry**
 
-*Option 1: Direct Entry*
+*Option 1: Direct Injection*
 
 - Insert genome through the bi-layer
 - Leave the rest behind
 - Tada!
 
-*Endocytosis*
+*Option 2: Endocytosis*
 
-- Trick the host cell into introducing the virus 
+- Trick the host cell into introducing the virus as food
+- Endocytosis!
+- Bam
+
+*Option 3: Fusion*
+ 
+ - Virus fuse with cell membrane
+ - Shed the protein coat once in
+ - Shazam!
+
+

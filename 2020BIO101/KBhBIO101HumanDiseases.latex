@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3409)}}    % original
-%\rhead{\textrmlf{Compiled }\#3409\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3409\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3410)}}    % original
+%\rhead{\textrmlf{Compiled }\#3410\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3410\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -518,12 +518,40 @@ difference in share and size
 
 \textbf{Viral Entry}
 
-\emph{Option 1: Direct Entry}
+\emph{Option 1: Direct Injection}
 
 \begin{itemize}
 \tightlist
 \item
-  Insert genome in thro
+  Insert genome through the bi-layer
+\item
+  Leave the rest behind
+\item
+  Tada!
+\end{itemize}
+
+\emph{Option 2: Endocytosis}
+
+\begin{itemize}
+\tightlist
+\item
+  Trick the host cell into introducing the virus as food
+\item
+  Endocytosis!
+\item
+  Bam
+\end{itemize}
+
+\emph{Option 3: Fusion}
+
+\begin{itemize}
+\tightlist
+\item
+  Virus fuse with cell membrane
+\item
+  Shed the protein coat once in
+\item
+  Shazam!
 \end{itemize}
 
 \end{document}
