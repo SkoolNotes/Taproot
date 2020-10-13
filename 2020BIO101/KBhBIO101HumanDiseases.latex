@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3428)}}    % original
-%\rhead{\textrmlf{Compiled }\#3428\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3428\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3429)}}    % original
+%\rhead{\textrmlf{Compiled }\#3429\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3429\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -770,6 +770,26 @@ Virus, in this case, spread through cell duplication
   Because of the fact that the ribosome needs to, well, come across the
   bit of DNA for this to work, the virons are made slowly by "trickling
   out.
+\end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-12 at 11.22.35 PM.png}
+\caption{Screen Shot 2020-10-12 at 11.22.35 PM.png}
+\end{figure}
+
+\textbf{Preventing Retroviruses}
+
+\begin{itemize}
+\tightlist
+\item
+  Prevent Fusion \texttt{gp120}, \texttt{gp41}, \texttt{CCR5}
+\item
+  Prevent reverse transcription \texttt{RT}
+\item
+  Prevent intergration via intergrease \texttt{IN}
+\item
+  Prevent viron maturation \texttt{PR}
 \end{itemize}
 
 \end{document}

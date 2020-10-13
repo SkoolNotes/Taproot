@@ -270,4 +270,12 @@ Virus, in this case, spread through cell duplication
 * These components are then assembled, sent, etc. as usual
 * Because of the fact that the ribosome needs to, well, come across the bit of DNA for this to work, the virons are made slowly by "trickling out.
 
+![Screen Shot 2020-10-12 at 11.22.35 PM.png](Screen Shot 2020-10-12 at 11.22.35 PM.png)
+
+**Preventing Retroviruses**
+
+* Prevent Fusion `gp120`, `gp41`, `CCR5`
+* Prevent reverse transcription `RT`
+* Prevent intergration via intergrease `IN`
+* Prevent viron maturation `PR`
 
