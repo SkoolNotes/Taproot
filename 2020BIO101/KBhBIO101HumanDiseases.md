@@ -231,5 +231,21 @@ Except! Poxvirade carry their own polymerase, so they replicate in the cytoplasm
 
 ![Screen Shot 2020-10-12 at 11.14.30 PM.png](Screen Shot 2020-10-12 at 11.14.30 PM.png)
 
+#### Packaging
+
+Does not require ATP. Just sealed in.
+
+#### Viral Exis
+
+**Lysis**
+
+Replicate so much that the membrane burst.
+
+**Budding**
+
+Trigger...
+
+- Extocytosis
+- Meanwhile, steal a part of 
 
 
