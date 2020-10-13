@@ -95,5 +95,8 @@ author: Houjun Liu
 			* Short term
 				* Inefficient tax system got the country stripped of money
 				* France also dumped a lot of money on Amercias
-				* 	
+				* Created economic depression
+					* 1726-1789 => cost of living +62%, wages only +25%
+					* British textile caused massive unempolyment
+					* 1788 brought with it famine	
 
