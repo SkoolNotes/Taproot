@@ -82,5 +82,6 @@ author: Houjun Liu
 		* 1793 => Louis XVI executed
 		* 1799 => Napoleon
 		* 1815 => Monarchy is back
-	* 
+	* During the revolutionary period, France perhaps was the most significant country
+	*  
 
