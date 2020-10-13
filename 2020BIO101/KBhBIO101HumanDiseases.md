@@ -155,4 +155,14 @@ Act by...
 5.  Assembly => put it all togethr
 6.  Viral Exit => mature virons leave
 
+**Viral Entry**
 
+*Option 1: Direct Entry*
+
+- Insert genome through the bi-layer
+- Leave the rest behind
+- Tada!
+
+*Endocytosis*
+
+- Trick the host cell into introducing the virus 
