@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3420)}}    % original
-%\rhead{\textrmlf{Compiled }\#3420\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3420\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3421)}}    % original
+%\rhead{\textrmlf{Compiled }\#3421\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3421\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -663,6 +663,22 @@ cytoplasm.
   \item
     strand RNA =\textgreater{} virus comes with polymerase that convert
     -ssRNA to +ssRNA. Then, same idea as above
+  \end{itemize}
+\end{itemize}
+
+\emph{What serves as the templates for viral genome replication?}
+
+\begin{itemize}
+\tightlist
+\item
+  RNA viruses does not need host-cell polymeraese to copy RNA
+\item
+  They come with polymerase that\ldots{}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    with dsRNA; takes
   \end{itemize}
 \end{itemize}
 
