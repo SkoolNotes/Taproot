@@ -284,5 +284,11 @@ Virus, in this case, spread through cell duplication
 ![Screen Shot 2020-10-12 at 11.24.39 PM.png](Screen Shot 2020-10-12 at 11.24.39 PM.png)
 
 - RNA viruses could mutate more because it does not have checks
-- 
+- More complex+largest viruses harder to mutate
+
+**Genetic drift** — viruses mutate due to polymerase error
+
+**Genetic shift** — viruses recombinate without mutating by crossing-over mechanism or genome segment reassortment. Think! the flu
+
+ 
 

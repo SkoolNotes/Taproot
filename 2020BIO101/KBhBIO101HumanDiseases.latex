@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3430)}}    % original
-%\rhead{\textrmlf{Compiled }\#3430\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3430\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3431)}}    % original
+%\rhead{\textrmlf{Compiled }\#3431\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3431\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -792,9 +792,27 @@ Virus, in this case, spread through cell duplication
   Prevent viron maturation \texttt{PR}
 \end{itemize}
 
-\hypertarget{viral-genome-vs-mutatio}{%
-\subsubsection{Viral Genome vs Mutatio}\label{viral-genome-vs-mutatio}}
+\hypertarget{viral-genome-vs-mutation-rate}{%
+\subsubsection{Viral Genome vs Mutation
+Rate}\label{viral-genome-vs-mutation-rate}}
 
-{[}{[}Screen Shot 2020-10-12 at 11.24.39 PM.png{]}{]}
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-12 at 11.24.39 PM.png}
+\caption{Screen Shot 2020-10-12 at 11.24.39 PM.png}
+\end{figure}
+
+\begin{itemize}
+\tightlist
+\item
+  RNA viruses could mutate more because it does not have checks
+\item
+  More complex+largest viruses harder to mutate
+\end{itemize}
+
+\textbf{Genetic drift} --- viruses mutate due to polymerase error
+
+\textbf{Genetic shift} --- viruses recombinate without mutating by
+crossing-over mechnassm or genome segment reassortment. Think! the flu
 
 \end{document}
