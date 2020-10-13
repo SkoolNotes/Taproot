@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3405)}}    % original
-%\rhead{\textrmlf{Compiled }\#3405\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3405\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3406)}}    % original
+%\rhead{\textrmlf{Compiled }\#3406\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3406\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -389,20 +389,15 @@ Act by\ldots{}
 \hypertarget{viruses-causing-diseases}{%
 \subsection{Viruses causing diseases}\label{viruses-causing-diseases}}
 
-\begin{itemize}
-\tightlist
-\item
-  Viruses =\textgreater{} acellular macromolecular assemblies
+\textbf{Viruses: acellular macromolecular assemblies}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Contain protein coat called capsid
-  \item
-    DNA or RNA, but not both
-  \item
-    Are obligate parasites that could only replicate within host
-  \end{itemize}
+\begin{itemize}
+\item
+  Contain protein coat called capsid
+\item
+  DNA or RNA, but not both
+\item
+  Are obligate parasites that could only replicate within host
 \item
   Assembled and mature viral particles =\textgreater{} virions, which
   contain\ldots{}
@@ -482,6 +477,10 @@ Act by\ldots{}
       Enveloped constructions =\textgreater{} envelope protein layer
       outside, spherical inside
     \item
+      Helical/Cylindrical/Bullet shapes, too!
+    \item
+      Often single patterns assemble together to create symmetric shape
+      that creates the whole of the virus
     \end{itemize}
   \end{itemize}
 \end{itemize}

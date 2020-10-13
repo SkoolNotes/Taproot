@@ -108,32 +108,39 @@ Act by...
 * Inhibit bacterial metabolism
 
 ## Viruses causing diseases
-* Viruses => acellular macromolecular assemblies
-	* Contain protein coat called capsid
-	* DNA or RNA, but not both
-	* Are obligate parasites that could only replicate within host
+**Viruses: acellular macromolecular assemblies**
+
+* Contain protein coat called capsid
+* DNA or RNA, but not both
+* Are obligate parasites that could only replicate within host
+
+	
 * Assembled and mature viral particles => virions, which contain...
 	* Capsid
 	* Genetic material
 	* Occationally outside lipid layer 
-*  Viruses exist on the nanometre scale, but they are difference in share and size
-* Structure of viruses
-	* **All contain**
-		* Capsid => structural protein coat
-		* Genome => RNA/DNA; but not both
-	* **Some contain**
-		* Membraneous-enclosed capsid => envelope
-		* Externally-facisg host-cell fusion proteins => spikes
-		* Viral genome replication enzymes => prlymerases
-		* Other proteins for fun => enzymes, motor proteins, transcription factors, host-cell interacting proteins, etc.
-* Two types of virus 
-	* Prokaryotic-infecting viruses
-		* Variety of shapes
-		* Complex and prolate shapes
-		* Has, sometimes complex shapes! a la [this image](Screen Shot 2020-10-12 at 10.49.04 PM.png)
-	* Eukarotic-infecting viruses
-		* Much more "boring" in terms of shape
-		* Icosahedral/spherecial outside
-		* Enveloped constructions => envelope protein layer outside, spherical inside
-		* Helical/Cylindrical/Bullet shapes, too! 
+	
+=> Viruses exist on the nanometre scale, but they are difference in share and size
+
+### Structure of viruses
+* **All contain**
+	* Capsid => structural protein coat
+	* Genome => RNA/DNA; but not both
+* **Some contain**
+	* Membraneous-enclosed capsid => envelope
+	* Externally-facisg host-cell fusion proteins => spikes
+	* Viral genome replication enzymes => prlymerases
+	* Other proteins for fun => enzymes, motor proteins, transcription factors, host-cell interacting proteins, etc.
+	
+### Two types of virus 
+* **Prokaryotic-infecting viruses**
+	* Variety of shapes
+	* Complex and prolate shapes
+	* Has, sometimes complex shapes! a la [this image](Screen Shot 2020-10-12 at 10.49.04 PM.png)
+* **Eukarotic-infecting viruses**
+	* Much more "boring" in terms of shape
+	* Icosahedral/spherecial outside
+	* Enveloped constructions => envelope protein layer outside, spherical inside
+	* Helical/Cylindrical/Bullet shapes, too!
+	* Often single patterns assemble together to create symmetric shape that creates the whole of the virus 
 
