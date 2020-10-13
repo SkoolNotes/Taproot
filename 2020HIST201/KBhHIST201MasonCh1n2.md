@@ -74,3 +74,4 @@ author: Houjun Liu
 	* Ideas raised by Enlignment => profoundly setting the direction of social order
 	* Attacked basis of *acien régime*
 *  Enlightment Influence 
+	*  Introduced governmental reforms 
