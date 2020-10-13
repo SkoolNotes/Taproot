@@ -62,4 +62,5 @@ author: Houjun Liu
 	* Jean-Jaques Rousseau
 		* "Man is born free, and everywhere he is shackled" 
 		* Believes that society corrupts and distorts man's natural freedom and equality
+		* Negotiated by social contract
 		* 
