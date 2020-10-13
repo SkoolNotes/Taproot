@@ -133,4 +133,7 @@ author: Houjun Liu
 			* And so did the leaders of the Terror Danton and Robespierre
 		* After the Terror, the Convention decided the current constitution was not good enough — scrapping it and writing another one after establishing a five-man Directory for executive power
 		* The Directory later became illegitamate, causing, you guessed it, a *coup d'état* that, you did'nt guess it, established the Monarchy again!
-		* 
+* Napoleon and the *coup d'état*
+	* General in 1793
+	* Put down a loyalist uprising in 1795, making him famous
+	* And then, 
