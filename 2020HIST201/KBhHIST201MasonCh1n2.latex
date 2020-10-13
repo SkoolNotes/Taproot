@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3324)}}    % original
-%\rhead{\textrmlf{Compiled }\#3324\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3324\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3325)}}    % original
+%\rhead{\textrmlf{Compiled }\#3325\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3325\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -320,6 +320,14 @@ Enlightenment}\label{the-old-regime-the-enlightenment}}
   \end{itemize}
 \item
   {[}{[}KBhHIST201Enlightenment{]}{]}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Applied methods of scientific revolution to study of society
+  \item
+    Believed natural laws governed human behavior
+  \end{itemize}
 \end{itemize}
 
 \end{document}

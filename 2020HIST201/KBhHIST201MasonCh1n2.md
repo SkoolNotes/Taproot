@@ -50,3 +50,5 @@ author: Houjun Liu
 	* Shifted power to prevent any one country from becoming too powerful
 	* Whole economic system begins to be challenged by the end of the 18th century, when [[KBhHIST201TheEnlightenment]] happened, followed by French Revolution, Industrial Revolution, and solidification of the middle class
 * [[KBhHIST201Enlightenment]] 
+	* Applied methods of scientific revolution to study of society
+	* Believed natural laws governed human behavior 
