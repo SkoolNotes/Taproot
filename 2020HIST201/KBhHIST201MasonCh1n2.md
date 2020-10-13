@@ -153,4 +153,9 @@ author: Houjun Liu
 			*  Established satellite Republics with constitutions, dec. of rights, legislatures, basic civil equality, and financial, judicial and admin reforms
 			*  Undermined qualities of feudalism and clone-stamped French legal code everywhere
 		* Napoleon's army were unified, fought with common ideals of "liberty, equality, and fraternity" => better than the mercenary armies of Europe
-		* 	
+	* Napoleon's luck ending
+		* Allied army w/ the Russians fought him, and forced him to abdicate
+		* He escaped within a year, becoming the French monarch again, but got defeated once again by the allied army in 1815 battle of Waterloo
+		* Banished again to St. Helena, and died
+* The Monarchy Again
+	* The (true) Monarchy was installed again! =>  Louis XVIII became the monarch 	
