@@ -116,5 +116,8 @@ Act by...
 	* Capsid
 	* Genetic material
 	* Occationally outside lipid layer 
-*  Viruses exist on the nanom 
+*  Viruses exist on the nanometre scale, but they are difference in share and size
+* Structure of viruses
+	* **All contain**
+		*   
 
