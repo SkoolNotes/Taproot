@@ -119,4 +119,9 @@ author: Houjun Liu
 			* Louis XVI fled Paris and appealed to all other monarchs => Russian empress declared "affairs of France were the concern of all crowned heads."
 			* Prussia and Austria began to try to invade France working with the French king; however, 1792, another insurrection quelled them.
 			* The National Convention scratched the monarchy part out of the constitution, and that was that.
-	* 
+	* Then, "normal" politics happened
+		* The Manhood sufferange movement 1789 => 1971, at which point it's abandoned
+		* Georges Danton + Max Robespirre jockied for power
+		* Clubs and meetings established
+		* Section assemblies drew many commoners into political activity
+		* 
