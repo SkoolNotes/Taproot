@@ -145,3 +145,7 @@ author: Houjun Liu
 		* Did the Terror, but to both royalists and true republicans
 		* Made peace with the Catholic Church
 		* Introduced new legal code that is still in French law today  
+	* France enjoyed prosperity
+		* Controlled Spain, Italy, Belgium, Holland, Swizerland, Poland, Croatio, Slovania and some parts of Germany
+		*  Solidified revolutionary changes + Enlightenment philosophies
+		*  Spread ideas of the Enlightement through millitary conquests
