@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3443)}}    % original
-%\rhead{\textrmlf{Compiled }\#3443\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3443\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3444)}}    % original
+%\rhead{\textrmlf{Compiled }\#3444\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3444\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -249,6 +249,9 @@ unsaturated}\label{saturation-vs-unsaturated}}
     High pH = low protons available
   \item
     thus, the charged head is negatively ionized
+  \item
+    Thus, the hydrophobic tails attract eachother by water exclusion and
+    charged heads repel eachother
   \end{itemize}
 \end{enumerate}
 
