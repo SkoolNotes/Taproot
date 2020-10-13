@@ -87,5 +87,9 @@ author: Houjun Liu
 			* Most populous
 			* Leading in arts and sciences
 			* Leading in philosophical thought a la Enlightenment
-			*  
+		* Cause of revolution
+			* Long term
+				* Socioeconomic change of the 18th century
+				* The Freaking Enlightment
+				* Weakening monarchy  
 
