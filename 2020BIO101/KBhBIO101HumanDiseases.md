@@ -147,4 +147,12 @@ Act by...
 
 ### Viral Life Cycle
 1. Attachment => protein contact between virus and host
-2. Viral entry/Uncoating => sheading the protein 
+2. Viral entry/Uncoating => shedding the protein layer
+3. Biosynthesis => make baby viruses
+	1. Genome Replication: transcribe DNA/RNA
+	2. Genome Expression: read DNA/RNA to make proteins
+4.  Viral genome integration => retrovirus only
+5.  Assembly => put it all togethr
+6.  Viral Exit => mature virons leave
+
+

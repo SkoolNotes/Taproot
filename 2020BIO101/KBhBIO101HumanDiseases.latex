@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3407)}}    % original
-%\rhead{\textrmlf{Compiled }\#3407\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3407\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3408)}}    % original
+%\rhead{\textrmlf{Compiled }\#3408\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3408\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -496,7 +496,24 @@ difference in share and size
 \item
   Attachment =\textgreater{} protein contact between virus and host
 \item
-  Viral entry/Uncoating =\textgreater{} sheading the protein
+  Viral entry/Uncoating =\textgreater{} shedding the protein layer
+\item
+  Biosynthesis =\textgreater{} make baby viruses
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Genome Replication: transcribe DNA/RNA
+  \item
+    Genome Expression: read DNA/RNA to make proteins
+  \end{enumerate}
+\item
+  Viral genome integration =\textgreater{} retrovirus only
+\item
+  Assembly =\textgreater{} put it all togethr
+\item
+  Viral Exit =\textgreater{} leave
 \end{enumerate}
 
 \end{document}
