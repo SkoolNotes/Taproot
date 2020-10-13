@@ -102,5 +102,7 @@ author: Houjun Liu
 					* Louis XVI himself is also quite weak
 			* Third estate (peseant) general decided to go rougue and come up with their own National Assembly
 				* "Whenever we meet, there is the nation."
-				* The King, noticing t 
+				* The King, noticing this, took the army to quell the third estate generals
+				* Millitias began forming throughout the city
+				* July 14th, 80,000 people stored Bastille prision + seized the governor of t 
 
