@@ -194,5 +194,8 @@ Key questions:
 - **How are viral mRNAs produced from the viral genome?** => virus will hijack the ribosomes in the host cells. So, it is more important to ask how the mRNAs are produced to tell ribosomes what to do
 - **What serves as the template for viral genome replication** => replication will need a polymeraese; but the source and mechanism is dependent on viral genome structure/composition
 
+![Screen Shot 2020-10-12 at 11.04.53 PM.png](Screen Shot 2020-10-12 at 11.04.53 PM.png)
 
+**DNA Viruses**
 
+- Require host cell nu

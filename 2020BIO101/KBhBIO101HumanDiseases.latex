@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3415)}}    % original
-%\rhead{\textrmlf{Compiled }\#3415\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3415\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3416)}}    % original
+%\rhead{\textrmlf{Compiled }\#3416\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3416\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -604,6 +604,20 @@ Key questions:
   \textbf{What serves as the template for viral genome replication}
   =\textgreater{} replication will need a polymeraese; but the source
   and mechanism is dependent on viral genome structure/composition
+\end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-12 at 11.04.53 PM.png}
+\caption{Screen Shot 2020-10-12 at 11.04.53 PM.png}
+\end{figure}
+
+\textbf{DNA Viruses}
+
+\begin{itemize}
+\tightlist
+\item
+  Require host cell nu
 \end{itemize}
 
 \end{document}
