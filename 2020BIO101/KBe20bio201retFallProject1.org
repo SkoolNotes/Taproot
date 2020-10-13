@@ -8,8 +8,22 @@
 
 ** Notes
 
+*** Target Processes
+
+**** Enzyme catalysis
+
+**** Protein-ligand binding
+
+**** signal transduction
+
+**** allosteric regulation
+
 *** Folding Simulation Methods
 
 **** all-atome molecular dynamics (MD)
+
      - Obtains all desired information regarding the kinetics and thermodynamics
+
+***** Time scale bottleneck
+
      - very slow (supercomputers -> microseconds of simulation)
