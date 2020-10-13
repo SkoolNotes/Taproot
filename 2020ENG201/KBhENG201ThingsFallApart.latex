@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ ENG201 }
+\newcommand{\thelesson}{ Things Fall Apart Indx }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3434)}}    % original
-%\rhead{\textrmlf{Compiled }\#3434\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3434\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3435)}}    % original
+%\rhead{\textrmlf{Compiled }\#3435\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3435\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,7 +164,13 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBEnglishMasterIndex}{\tiny\textulf{[[}\textbf{KBEnglishMasterIndex}\textulf{]]}}}\thinspace
 
+\hypertarget{things-fall-apart}{%
+\section{Things Fall Apart}\label{things-fall-apart}}
 
+\href{https://docs.google.com/presentation/d/1DxWU4Ot-IJ8LN_J2PY4tUggZo906A6CCNsmcA_p3jfE/edit\#slide=id.g9cf55acb75_0_59}{Module
+slide show}
 
 \end{document}
