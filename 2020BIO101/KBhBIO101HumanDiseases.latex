@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3419)}}    % original
-%\rhead{\textrmlf{Compiled }\#3419\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3419\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3420)}}    % original
+%\rhead{\textrmlf{Compiled }\#3420\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3420\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -641,8 +641,29 @@ Key questions:
 Except! Poxvirade carry their own polymerase, so they replicate in the
 cytoplasm.
 
-{[}{[}Screen Shot 2020-10-12 at 11.09.46 PM.png{]}{]}
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-12 at 11.09.46 PM.png}
+\caption{Screen Shot 2020-10-12 at 11.09.46 PM.png}
+\end{figure}
 
-:
+\textbf{RNA Viruses}
+
+\emph{How are viral mRNAs produced from the viral genome?}
+
+\begin{itemize}
+\item
+  double-stranded RNA viron =\textgreater{} (+, a.k.a. sense) strand
+  could be translated directly by using as mRNA
+\item
+  +-stranded RNA =\textgreater{} same idea as above
+\item
+  \begin{itemize}
+  \tightlist
+  \item
+    strand RNA =\textgreater{} virus comes with polymerase that convert
+    -ssRNA to +ssRNA. Then, same idea as above
+  \end{itemize}
+\end{itemize}
 
 \end{document}
