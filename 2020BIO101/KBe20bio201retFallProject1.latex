@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3366)}}    % original
-%\rhead{\textrmlf{Compiled }\#3366\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3366\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3367)}}    % original
+%\rhead{\textrmlf{Compiled }\#3367\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3367\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -355,8 +355,25 @@ Methods}\label{folding-simulation-methods}}
 \item
   neurotransmitters
 
-  dopamine sodium rushes in, electrochemical and gradient recharge
-  gradient by releasing potassium
+  dopamine sodium rushes in, electrochemical and concentration gradient
+  recharge gradient by releasing potassium
+
+  \begin{enumerate}
+  \item
+    nerst equation
+
+    electrochemical gradient as battery
+  \item
+    goldman-katz equation
+
+    \begin{itemize}
+    \tightlist
+    \item
+      applied to neuro
+    \item
+      ions?
+    \end{itemize}
+  \end{enumerate}
 \end{enumerate}
 
 \end{document}
