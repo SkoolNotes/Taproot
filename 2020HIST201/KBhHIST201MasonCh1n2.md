@@ -117,4 +117,6 @@ author: Houjun Liu
 					* Required clergy election to be public, forced the clergy to be loyal to the nation
 					* New constitution was presented => elected legislative assembly w/ king only the power as suspensive veto 
 			* Louis XVI fled Paris and appealed to all other monarchs => Russian empress declared "affairs of France were the concern of all crowned heads."
-			* Prussia and Austria
+			* Prussia and Austria began to try to invade France working with the French king; however, 1792, another insurrection quelled them.
+			* The National Convention scratched the monarchy part out of the constitution, and that was that.
+	* 
