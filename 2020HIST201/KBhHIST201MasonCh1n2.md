@@ -94,5 +94,6 @@ author: Houjun Liu
 				* Weakening monarchy  
 			* Short term
 				* Inefficient tax system got the country stripped of money
+				* France also dumped a lot of money on Amercias
 				* 	
 
