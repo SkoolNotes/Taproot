@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3347)}}    % original
-%\rhead{\textrmlf{Compiled }\#3347\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3347\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3349)}}    % original
+%\rhead{\textrmlf{Compiled }\#3349\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3349\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -169,6 +169,21 @@
 \hypertarget{preliminary-research}{%
 \section{Preliminary Research}\label{preliminary-research}}
 
+\hypertarget{sources}{%
+\subsection{Sources}\label{sources}}
+
 \url{https://www.frontiersin.org/articles/10.3389/fchem.2019.00540/full}
+
+\hypertarget{notes}{%
+\subsection{Notes}\label{notes}}
+
+\hypertarget{folding-simulation-methods}{%
+\subsubsection{Folding Simulation
+Methods}\label{folding-simulation-methods}}
+
+\begin{enumerate}
+\item
+  all-atome molecular dynamics (MD)
+\end{enumerate}
 
 \end{document}
