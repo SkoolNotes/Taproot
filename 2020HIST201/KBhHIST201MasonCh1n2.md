@@ -59,4 +59,7 @@ author: Houjun Liu
 		* Man process natural + inalienable rights to life, liberty, and... property?
 		* Political communities are formed by popular consent 
 		* Had huge influence across the Atlantic
+	* Jean-Jaques Rousseau
+		* "Man is born free, and everywhere he is shackled" 
+		* Believes that society corrupts and distorts man's natural freedom and equality
 		* 
