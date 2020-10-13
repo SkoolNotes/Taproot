@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3414)}}    % original
-%\rhead{\textrmlf{Compiled }\#3414\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3414\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3415)}}    % original
+%\rhead{\textrmlf{Compiled }\#3415\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3415\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -586,7 +586,24 @@ This process causes the organism-specific response to viruses:
   \item
     Triggering \emph{late endosome} =\textgreater{} releasing genome
   \end{itemize}
+\end{itemize}
+
+\hypertarget{viral-replication}{%
+\paragraph{Viral Replication}\label{viral-replication}}
+
+Key questions:
+
+\begin{itemize}
+\tightlist
 \item
+  \textbf{How are viral mRNAs produced from the viral genome?}
+  =\textgreater{} virus will hijack the ribosomes in the host cells. So,
+  it is more important to ask how the mRNAs are produced to tell
+  ribosomes what to do
+\item
+  \textbf{What serves as the template for viral genome replication}
+  =\textgreater{} replication will need a polymeraese; but the source
+  and mechanism is dependent on viral genome structure/composition
 \end{itemize}
 
 \end{document}

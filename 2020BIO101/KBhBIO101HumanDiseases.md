@@ -187,5 +187,12 @@ This process causes the organism-specific response to viruses:
 	* Causes pH dependent protein denaturation
 	* Causing the capsid to fall apart
 	* Triggering *late endosome* => releasing genome
-*  
+
+#### Viral Replication
+Key questions:
+
+- **How are viral mRNAs produced from the viral genome?** => virus will hijack the ribosomes in the host cells. So, it is more important to ask how the mRNAs are produced to tell ribosomes what to do
+- **What serves as the template for viral genome replication** => replication will need a polymeraese; but the source and mechanism is dependent on viral genome structure/composition
+
+
 
