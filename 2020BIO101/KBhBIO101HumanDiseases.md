@@ -144,3 +144,7 @@ Act by...
 	* Helical/Cylindrical/Bullet shapes, too!
 	* Often single patterns assemble together to create symmetric shape that creates the whole of the virus 
 
+
+### Viral Life Cycle
+1. Attachment => protein contact between virus and host
+2. Viral entry/Uncoating => sheading the protein 
