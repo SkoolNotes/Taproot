@@ -131,3 +131,5 @@ author: Houjun Liu
 			* Created a period called The Terror => putting on trial and killing everyone who opposed the revolution
 			* 40,000 died under this system
 			* And so did the leaders of the Terror Danton and Robespierre
+		* After the Terror, the Convention decided the current constitution was not good enough — scrapping it and writing another one after establishing a five-man Directory for executive power
+		* The Directory
