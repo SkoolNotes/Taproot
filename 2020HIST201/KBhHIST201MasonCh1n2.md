@@ -132,4 +132,5 @@ author: Houjun Liu
 			* 40,000 died under this system
 			* And so did the leaders of the Terror Danton and Robespierre
 		* After the Terror, the Convention decided the current constitution was not good enough — scrapping it and writing another one after establishing a five-man Directory for executive power
-		* The Directory
+		* The Directory later became illegitamate, causing, you guessed it, a *coup d'état* that, you did'nt guess it, established the Monarchy again!
+		* 
