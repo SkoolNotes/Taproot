@@ -1,0 +1,37 @@
+#+TITLE: Fall Project 1 Master Doc
+#+AUTHOR: Exr0n
+
+* Preliminary Research
+
+** Sources
+  https://www.frontiersin.org/articles/10.3389/fchem.2019.00540/full
+
+** Notes
+
+*** Target Processes
+
+**** Enzyme catalysis
+
+**** Protein-ligand binding
+
+**** signal transduction
+
+**** allosteric regulation
+
+*** Folding Simulation Methods
+
+**** all-atome molecular dynamics (MD)
+
+     - Obtains all desired information regarding the kinetics and thermodynamics
+
+***** Time scale bottleneck
+
+     - very slow (supercomputers -> microseconds of simulation)
+     - require microsecond to milisecond time scales
+
+****** optimizations
+       
+******* conformational sampling?
+        - retains atomistic representation of the system
+
+******* Kinetic trapping and thourough sampling of conformational space techn
