@@ -98,5 +98,7 @@ author: Houjun Liu
 				* Created economic depression
 					* 1726-1789 => cost of living +62%, wages only +25%
 					* British textile caused massive unempolyment
-					* 1788 brought with it famine	
+					* 1788 brought with it famine
+					* Louis XVI himself is also quite weak
+				* 	
 

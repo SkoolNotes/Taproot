@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3371)}}    % original
-%\rhead{\textrmlf{Compiled }\#3371\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3371\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3372)}}    % original
+%\rhead{\textrmlf{Compiled }\#3372\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3372\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -418,6 +418,27 @@ Methods}\label{folding-simulation-methods}}
   \item
     how to pronounce?
   \end{itemize}
+
+  \begin{enumerate}
+  \item
+    CJD
+
+    \begin{itemize}
+    \tightlist
+    \item
+      is it inheritable?
+    \item
+      one case per million
+    \end{itemize}
+  \item
+    isoform
+
+    \begin{itemize}
+    \tightlist
+    \item
+      a different set of intons and exons
+    \end{itemize}
+  \end{enumerate}
 \end{enumerate}
 
 \end{document}
