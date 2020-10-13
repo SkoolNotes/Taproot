@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3359)}}    % original
-%\rhead{\textrmlf{Compiled }\#3359\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3359\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3360)}}    % original
+%\rhead{\textrmlf{Compiled }\#3360\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3360\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -281,6 +281,26 @@ Methods}\label{folding-simulation-methods}}
 \tightlist
 \item
   computational prediction modeling
+
+  \begin{itemize}
+  \tightlist
+  \item
+    trying to predict the crystal structure
+
+    \begin{itemize}
+    \tightlist
+    \item
+      why?
+
+      \begin{itemize}
+      \tightlist
+      \item
+        to analyze would this fit?
+      \item
+        does it work with this target
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
 \item
   solving the structure
 
@@ -288,7 +308,15 @@ Methods}\label{folding-simulation-methods}}
   \tightlist
   \item
     xray cristolography
+
+    \begin{itemize}
+    \tightlist
+    \item
+      gold standard
+    \end{itemize}
   \end{itemize}
+\item
+  look at some concrete examples?
 \end{itemize}
 
 \end{document}
