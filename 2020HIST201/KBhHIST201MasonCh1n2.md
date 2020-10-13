@@ -124,4 +124,7 @@ author: Houjun Liu
 		* Georges Danton + Max Robespirre jockied for power
 		* Clubs and meetings established
 		* Section assemblies drew many commoners into political activity
-		* Then, by a narrow vote, Louis was
+		* Then, by a narrow vote, Louis was convicted and confirmed to be executed
+	* Then, everyone piled on:
+		* Britain Holland, Spain, Austria, Prussia formed a coalition against France
+		* 
