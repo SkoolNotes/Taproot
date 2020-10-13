@@ -110,4 +110,5 @@ author: Houjun Liu
 				* The suddenly official National Assembly abolished lordish feutal payments + freed the peseants
 				* August 16th, the Dec. of the Rights of Man was published => the French Dec. of Indp.
 				* Reflects Enlightenment Ideals => "natural, inalienable, and sacred rights of man."
+				* 6000 woman... just decided to chuck the King back into Paris. #how???
 				* 
