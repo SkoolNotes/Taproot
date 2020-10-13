@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3399)}}    % original
-%\rhead{\textrmlf{Compiled }\#3399\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3399\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3400)}}    % original
+%\rhead{\textrmlf{Compiled }\#3400\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3400\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -392,7 +392,31 @@ Act by\ldots{}
 \begin{itemize}
 \tightlist
 \item
-  Viruses =\textgreater{}
+  Viruses =\textgreater{} acellular macromolecular assemblies
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Contain protein coat called capsid
+  \item
+    DNA or RNA, but not both
+  \item
+    Are obligate parasites that could only replicate within host
+  \end{itemize}
+\item
+  Assembled and mature viral particles =\textgreater{} virions, which
+  contain\ldots{}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Capsid
+  \item
+    Genetic material
+  \item
+    Occationally outside lipid layer
+  \end{itemize}
+\item
 \end{itemize}
 
 \end{document}

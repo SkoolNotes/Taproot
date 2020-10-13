@@ -108,5 +108,13 @@ Act by...
 * Inhibit bacterial metabolism
 
 ## Viruses causing diseases
-* Viruses => 
+* Viruses => acellular macromolecular assemblies
+	* Contain protein coat called capsid
+	* DNA or RNA, but not both
+	* Are obligate parasites that could only replicate within host
+* Assembled and mature viral particles => virions, which contain...
+	* Capsid
+	* Genetic material
+	* Occationally outside lipid layer 
+*  Viruses exist on the nanom 
 
