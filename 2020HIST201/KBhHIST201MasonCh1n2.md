@@ -151,4 +151,6 @@ author: Houjun Liu
 		*  Spread ideas of the Enlightement through millitary conquests
 			*  Conquered places
 			*  Established satellite Republics with constitutions, dec. of rights, legislatures, basic civil equality, and financial, judicial and admin reforms
-			*  Undermined qualities of Futalism and cloFrench legal code everywhere
+			*  Undermined qualities of feudalism and clone-stamped French legal code everywhere
+		* Napoleon's army were unified, fought with common ideals of "liberty, equality, and fraternity" => better than the mercenary armies of Europe
+		* 	
