@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3442)}}    % original
-%\rhead{\textrmlf{Compiled }\#3442\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3442\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3443)}}    % original
+%\rhead{\textrmlf{Compiled }\#3443\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3443\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -230,6 +230,27 @@ unsaturated}\label{saturation-vs-unsaturated}}
 
 \hypertarget{assembly}{%
 \subsubsection{Assembly}\label{assembly}}
+
+\begin{itemize}
+\tightlist
+\item
+  Liposome: bilayer, hydrophilic inside, layer of hydrophobic tails
+\item
+  Micelle: one layer, hydrophobic inside
+\end{itemize}
+
+\begin{enumerate}
+\item
+  Assembly structure depends on pH
+
+  \begin{itemize}
+  \tightlist
+  \item
+    High pH = low protons available
+  \item
+    thus, the charged head is negatively ionized
+  \end{itemize}
+\end{enumerate}
 
 \hypertarget{voltage-in-cells-1}{%
 \section{Voltage in Cells}\label{voltage-in-cells-1}}
