@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3398)}}    % original
-%\rhead{\textrmlf{Compiled }\#3398\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3398\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3399)}}    % original
+%\rhead{\textrmlf{Compiled }\#3399\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3399\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -388,5 +388,11 @@ Act by\ldots{}
 
 \hypertarget{viruses-causing-diseases}{%
 \subsection{Viruses causing diseases}\label{viruses-causing-diseases}}
+
+\begin{itemize}
+\tightlist
+\item
+  Viruses =\textgreater{}
+\end{itemize}
 
 \end{document}
