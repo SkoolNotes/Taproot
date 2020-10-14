@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3451)}}    % original
-%\rhead{\textrmlf{Compiled }\#3451\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3451\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3452)}}    % original
+%\rhead{\textrmlf{Compiled }\#3452\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3452\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,14 +175,14 @@ ex
 \section{Problem}\label{problem}}
 
 \begin{quote}
-Prove or give a counterexample:
-
+Prove or give a counterexample: \[
 \begin{aligned}
 \text{dim}(U_1+U_2+U_3)\\
 =&\text{dim}U_1 + \text{dim}U_2 + \text{dim}U_3\\
 &-\text{dim}(U_1 \cap U_2)-\text{dim}(U_1 \cap U_3) - \text{dim}(U_2 \cap U_3)\\
 &+\text{dim}(U_1\cap U_2 \cap U_3)
 \end{aligned}
+\]
 \end{quote}
 
 \hypertarget{reasoning}{%
@@ -190,7 +190,8 @@ Prove or give a counterexample:
 
 By Axler2.41 we know that
 
-dim(U\textsubscript{1} + U\textsubscript{2}) = dimU\textsubscript{1} +
-dimU\textsubscript{2} - dim(U\textsubscript{1} ∩ U\textsubscript{2})
+\[
+\text{dim}(U_1 + U_2) = \text{dim}U_1 + \text{dim}U_2 - \text{dim}(U_1 \cap U_2)
+\]
 
 \end{document}
