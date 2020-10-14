@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3459)}}    % original
-%\rhead{\textrmlf{Compiled }\#3459\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3459\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3462)}}    % original
+%\rhead{\textrmlf{Compiled }\#3462\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3462\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -214,11 +214,16 @@ To show that the lemma is true, we would have to show that
 \end{aligned}
 \]
 
-and to provide a counterexample, we just need to find some
-\(U_1, U_2, U_3\) such that
+and to provide a counterexample, we just need to find some \(U_1\),
+\(U_2\), \(U_3\) such that
 
 \[
 \text{dim}(U_1 \cap U_3) + \text{dim}(U_2 \cap U_3) - \text{dim}(U_1\cap U_2 \cap U_3) \neq \text{dim}( (U_1+U_2) \cap U_3 )
+
+((((((\LaTeX))))))
 \]
+
+\hypertarget{counterexample}{%
+\section{Counterexample}\label{counterexample}}
 
 \end{document}
