@@ -70,7 +70,6 @@ then the graph of the subspaces looks like this:
 and the dimesion of each intersection is $0$ while the dimension of . Thus, we have
 $$
 \begin{aligned}
-\cancel{0}{\text{dim}(U_1 \cap U_3)} &+ \text{dim}(U_2 \cap U_3) &- \text{dim}(U_1\cap U_2 \cap U_3) &\neq \text{dim}( (U_1+U_2) \cap U_3 )\\
-=&0 &+0 &+0 &-0 &\neq
+\cancelto{0}{\text{dim}(U_1 \cap U_3)} + \cancelto{0}{\text{dim}(U_2 \cap U_3)} - \cancelto{0}{\text{dim}(U_1\cap U_2 \cap U_3)} \neq 1 = \text{dim}( (U_1+U_2) \cap U_3 )\\
 \end{aligned}
 $$
