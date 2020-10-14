@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3468)}}    % original
-%\rhead{\textrmlf{Compiled }\#3468\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3468\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3469)}}    % original
+%\rhead{\textrmlf{Compiled }\#3469\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3469\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -236,6 +236,10 @@ U_3 = \left{\begin{pmatrix}x\\x\end{pmatrix} : x \in \mathbb{F} \right}\\
 
 \includegraphics{./KBe20math530retAxler2C17Subspaces.png}
 
-and the dimesions of the subspaces
+and the dimesions of each subspace is \(1\) while the dimension of each
+intersection is \(0\). Thus, we have \[
+&\text{dim}(U_1 \cap U_3) + \text{dim}(U_2 \cap U_3) - \text{dim}(U_1\cap U_2 \cap U_3) \neq \text{dim}( (U_1+U_2) \cap U_3 )\\
+=&
+\]
 
 \end{document}
