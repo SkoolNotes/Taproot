@@ -17,4 +17,6 @@ Prove or give a counterexample:
 
 * Reasoning
 
-By Axler2.41 we know that \text{dim}(U_1 + U_2) = \text{dim}U_1
+By Axler2.41 we know that
+
+\text{dim}(U_1 + U_2) = \text{dim}U_1 + \text{dim}U_2 - \text{dim}(U_1 \cap U_2)
