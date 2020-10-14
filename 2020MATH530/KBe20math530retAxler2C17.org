@@ -74,4 +74,12 @@ $$
 \end{aligned}
 $$
 
-In summary, the sum of these subpsaces is $\mathbb{R}^2$ but
+In summary, the sum of these subpsaces is $\mathbb{R}^2$ and the dimension of the sum is 2, but
+$$
+\begin{aligned}
+\text{dim}(U_1+U_2+U_3)\\
+\neq& 1 + 1 + 1\\
+&-\text{dim}(U_1 \cap U_2)-\text{dim}(U_1 \cap U_3) - \text{dim}(U_2 \cap U_3)\\
+&+\text{dim}(U_1\cap U_2 \cap U_3)
+\end{aligned}
+$$
