@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3470)}}    % original
-%\rhead{\textrmlf{Compiled }\#3470\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3470\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3471)}}    % original
+%\rhead{\textrmlf{Compiled }\#3471\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3471\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -239,7 +239,7 @@ U_3 = \left{\begin{pmatrix}x\\x\end{pmatrix} : x \in \mathbb{F} \right}\\
 and the dimesion of each intersection is \(0\) while the dimension of .
 Thus, we have \[
 \begin{aligned}
-&\text{dim}(U_1 \cap U_3) &+ \text{dim}(U_2 \cap U_3) &- \text{dim}(U_1\cap U_2 \cap U_3) &\neq \text{dim}( (U_1+U_2) \cap U_3 )\\
+\cancel{0}{\text{dim}(U_1 \cap U_3)} &+ \text{dim}(U_2 \cap U_3) &- \text{dim}(U_1\cap U_2 \cap U_3) &\neq \text{dim}( (U_1+U_2) \cap U_3 )\\
 =&0 &+0 &+0 &-0 &\neq
 \end{aligned}
 \]
