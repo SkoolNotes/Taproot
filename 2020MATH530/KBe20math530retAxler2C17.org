@@ -67,10 +67,10 @@ then the graph of the subspaces looks like this:
 
 [[./KBe20math530retAxler2C17Subspaces.png]]
 
-and the dimesion of each intersection is $0$ while the dimension of . Thus, we have
+and the dimesion of each intersection is $0$ while the dimension of $(U_1+U_2) \cap U_3 = 2$. Thus, we have
 $$
 \begin{aligned}
 \cancelto{0}{\text{dim}(U_1 \cap U_3)} + \cancelto{0}{\text{dim}(U_2 \cap U_3)} - \cancelto{0}{\text{dim}(U_1\cap U_2 \cap U_3)} \neq \text{dim}( (U_1+U_2) \cap U_3 )\\
-\implies 0 \neq 1
+\implies 0 \neq 2
 \end{aligned}
 $$
