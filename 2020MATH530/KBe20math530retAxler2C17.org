@@ -77,13 +77,6 @@ $$
 In summary, the sum of these subpsaces is $\mathbb{R}^2$ and the dimension of the sum is 2, but
 $$
 \begin{aligned}
-\text{dim}(U_1+U_2+U_3) &= 2\\
-&\neq& 1 + 1 + 1\\
-&&- 0 - 0 - 0\\
-&&+ 0\\
-&= 3
-\end{aligned}
-\begin{aligned}
 \text{dim}(U_1+U_2+U_3) = 2 \neq 3 = 1 + 1 + 1 - 0 - 0 - 0 + 0
 \end{aligned}
 $$
