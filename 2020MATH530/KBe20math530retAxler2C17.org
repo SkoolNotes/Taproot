@@ -39,5 +39,14 @@ $$
 To show that the lemma is true, we would have to show that
 
 $$
+\begin{aligned}
 \cancel{\text{dim}\ U_1 + \text{dim}\ U_2 + \text{dim}\ U_3 -\text{dim}(U_1 \cap U_2)} &-\text{dim}(U_1 \cap U_3) - \text{dim}(U_2 \cap U_3) +\text{dim}(U_1\cap U_2 \cap U_3)\\=
 \cancel{\text{dim}\ U_1 + \text{dim}\ U_2 -\text{dim}(U_1 \cap U_2) + \text{dim}\ U_3} &- \text{dim}( (U_1+U_2) \cap U_3 )
+\end{aligned}
+$$
+
+and to provide a counterexample, we just need to find some $U_1, U_2, U_3$ such that
+
+$$
+\text{dim}(U_1 \cap U_3) + \text{dim}(U_2 \cap U_3) - \text{dim}(U_1\cap U_2 \cap U_3) \neq \text{dim}( (U_1+U_2) \cap U_3 )
+$$
