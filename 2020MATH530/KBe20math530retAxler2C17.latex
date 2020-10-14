@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3456)}}    % original
-%\rhead{\textrmlf{Compiled }\#3456\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3456\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3457)}}    % original
+%\rhead{\textrmlf{Compiled }\#3457\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3457\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -202,6 +202,15 @@ By applying this formula to itself, we find that
 &= \text{dim}((U_1 + U_2) + U_3)\\
 &= \text{dim}(U_1 + U_2) + \text{dim}\ U_3 - \text{dim}( (U_1+U_2) \cap U_3 )
 &= \text{dim}\ U_1 + \text{dim}\ U_2 -\text{dim}(U_1 \cap U_2) + \text{dim}\ U_3 - \text{dim}( (U_1+U_2) \cap U_3 )
+\end{aligned}
 \]
+
+To show that the lemma is true, we would have to show that
+
+\$\$
+\cancel{\text{dim}\ U_1 + \text{dim}\ U_2 + \text{dim}\ U_3 -\text{dim}(U_1 \cap U_2)}
+-dim(U\textsubscript{1} ∩ U\textsubscript{3}) - dim(U\textsubscript{2} ∩
+U\textsubscript{3}) +dim(U\textsubscript{1}∩ U\textsubscript{2} ∩
+U\textsubscript{3})\textbackslash\textbackslash=
 
 \end{document}
