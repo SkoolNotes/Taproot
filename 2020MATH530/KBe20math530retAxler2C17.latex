@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3480)}}    % original
-%\rhead{\textrmlf{Compiled }\#3480\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3480\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3481)}}    % original
+%\rhead{\textrmlf{Compiled }\#3481\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3481\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -248,10 +248,10 @@ In summary, the sum of these subpsaces is \(\mathbb{R}^2\) and the
 dimension of the sum is 2, but \[
 \begin{aligned}
 \text{dim}(U_1+U_2+U_3) &= 2\\
-\neq& 1 + 1 + 1\\
-& - 0 - 0 - 0\\
-&+ 0\\
-&= 3
+&\neq& 1 + 1 + 1\\
+&& - 0 - 0 - 0\\
+&&+ 0\\
+&=& 3
 \end{aligned}
 \]
 
