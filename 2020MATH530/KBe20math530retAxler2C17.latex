@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3467)}}    % original
-%\rhead{\textrmlf{Compiled }\#3467\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3467\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3468)}}    % original
+%\rhead{\textrmlf{Compiled }\#3468\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3468\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -234,6 +234,8 @@ U_3 = \left{\begin{pmatrix}x\\x\end{pmatrix} : x \in \mathbb{F} \right}\\
 \end{aligned}
 \] then the graph of the subspaces looks like this:
 
-\includegraphics{./KBe20math530retAxler2C17spaces.png}
+\includegraphics{./KBe20math530retAxler2C17Subspaces.png}
+
+and the dimesions of the subspaces
 
 \end{document}
