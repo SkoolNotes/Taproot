@@ -2,3 +2,16 @@
 #+AUTHOR: Exr0n
 
 * TODO construct and write proof for Axler 2.C ex 17
+
+* Problem
+
+#+begin_quote
+Prove or give a counterexample:
+$$
+\begin{aligned}
+\text{dim}(U_1+U_2+U_3)\\
+=&\text{dim}(U_1) + \text{dim}(U_2) + \text{dim}(U_3)\\
+&-\text{dim}(U_1 \cap U_2)-\text{dim}(U_1 \cap U_3) - \text{dim}(U_2 \cap U_3)\\
+&+\text{dim}(U_1\cap U_2 \cap U_3)
+\end{aligned}
+#+end_quote
