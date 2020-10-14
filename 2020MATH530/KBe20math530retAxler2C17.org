@@ -45,7 +45,7 @@ $$
 \end{aligned}
 $$
 
-and to provide a counterexample, we just need to find some $U_1, U_2, U_3$ such that
+and to provide a counterexample, we just need to find some $U_1$, $U_2$, $U_3$ such that
 
 $$
 \text{dim}(U_1 \cap U_3) + \text{dim}(U_2 \cap U_3) - \text{dim}(U_1\cap U_2 \cap U_3) \neq \text{dim}( (U_1+U_2) \cap U_3 )
