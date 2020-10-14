@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3455)}}    % original
-%\rhead{\textrmlf{Compiled }\#3455\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3455\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3456)}}    % original
+%\rhead{\textrmlf{Compiled }\#3456\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3456\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -178,7 +178,7 @@ ex
 Prove or give a counterexample: \[
 \begin{aligned}
 \text{dim}(U_1+U_2+U_3)\\
-=&\text{dim}U_1 + \text{dim}U_2 + \text{dim}U_3\\
+=&\text{dim}\ U_1 + \text{dim}\ U_2 + \text{dim}\ U_3\\
 &-\text{dim}(U_1 \cap U_2)-\text{dim}(U_1 \cap U_3) - \text{dim}(U_2 \cap U_3)\\
 &+\text{dim}(U_1\cap U_2 \cap U_3)
 \end{aligned}
@@ -191,7 +191,7 @@ Prove or give a counterexample: \[
 By Axler2.41 we know that
 
 \[
-\text{dim}(U_1 + U_2) = \text{dim}U_1 + \text{dim}U_2 - \text{dim}(U_1 \cap U_2)
+\text{dim}(U_1 + U_2) = \text{dim}\ U_1 + \text{dim}\ U_2 - \text{dim}(U_1 \cap U_2)
 \]
 
 By applying this formula to itself, we find that
@@ -200,8 +200,8 @@ By applying this formula to itself, we find that
 \begin{aligned}
 \text{dim}(U_1 + U_2 + U_3)\\
 &= \text{dim}((U_1 + U_2) + U_3)\\
-&= \text{dim}(U_1 + U_2) + \text{dim} U_3 - \text{dim}( (U_1+U_2) \cap U_3 )
-&= \text{dim} U_1 + \text{dim} U_2 -\text{dim}(U_1 \cap U_2) + \text{dim} U_3 - \text{dim}( (U_1+U_2) \cap U_3 )
+&= \text{dim}(U_1 + U_2) + \text{dim}\ U_3 - \text{dim}( (U_1+U_2) \cap U_3 )
+&= \text{dim}\ U_1 + \text{dim}\ U_2 -\text{dim}(U_1 \cap U_2) + \text{dim}\ U_3 - \text{dim}( (U_1+U_2) \cap U_3 )
 \]
 
 \end{document}
