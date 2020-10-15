@@ -29,11 +29,4 @@ Prove for $\mathcal{P}_0(\mathbb{R})$.
 
 Assume that it works for $\mathcal{P}_i(\mathbb{R})$, then prove it for $\mathcal{P}_{i+1}(\mathbb{R})$.
 
-$$
-\begin{flushright}\blacksquare\end{flushright}
-\begin{proof}
-thing
-\end{proof}
-$$
-
 ---

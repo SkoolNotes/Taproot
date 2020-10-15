@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3502)}}    % original
-%\rhead{\textrmlf{Compiled }\#3502\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3502\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3503)}}    % original
+%\rhead{\textrmlf{Compiled }\#3503\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3503\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -198,13 +198,6 @@ correct}
 
 Assume that it works for \(\mathcal{P}_i(\mathbb{R})\), then prove it
 for \(\mathcal{P}_{i+1}(\mathbb{R})\).
-
-\[
-\begin{flushright}\blacksquare\end{flushright}
-\begin{proof}
-thing
-\end{proof}
-\]
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
