@@ -7,8 +7,6 @@ author: Houjun Liu
 
 # Bio-Molecules Quiz Review
 
-#disorganized 
-
 ## Paul's Review Sheet
 [... is here](https://docs.google.com/document/d/1wGN3RNZCN-hkP2gJe2C7FHGZi_-YfCE6aJCZy-0N53s/edit)
 
