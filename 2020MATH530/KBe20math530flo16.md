@@ -17,4 +17,10 @@ $$
 # Proof by Induction
 Using Axler 2.C 10 as an example.
 
+## Induction building blocks
+
+### Prove the first case correct
+
+### Show that if case $n$ is correct, then case $n+1$ is also correct
+
 ---

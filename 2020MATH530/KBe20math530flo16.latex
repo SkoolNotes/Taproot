@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3494)}}    % original
-%\rhead{\textrmlf{Compiled }\#3494\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3494\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3495)}}    % original
+%\rhead{\textrmlf{Compiled }\#3495\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3495\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,6 +179,18 @@ More proof presentations
 \section{Proof by Induction}\label{proof-by-induction}}
 
 Using Axler 2.C 10 as an example.
+
+\hypertarget{induction-building-blocks}{%
+\subsection{Induction building blocks}\label{induction-building-blocks}}
+
+\hypertarget{prove-the-first-case-correct}{%
+\subsubsection{Prove the first case
+correct}\label{prove-the-first-case-correct}}
+
+\hypertarget{show-that-if-case-n-is-correct-then-case-n1-is-also-correct}{%
+\subsubsection{\texorpdfstring{Show that if case \(n\) is correct, then
+case \(n+1\) is also
+correct}{Show that if case n is correct, then case n+1 is also correct}}\label{show-that-if-case-n-is-correct-then-case-n1-is-also-correct}}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
