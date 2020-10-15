@@ -14,4 +14,7 @@ $$
 \mathbf{R} \text{ vs } \mathbb{R}
 $$
 
+# Proof by Induction
+Using Axler 2.C 10 as an example.
+
 ---
