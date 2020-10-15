@@ -19,8 +19,12 @@ Using Axler 2.C 10 as an example.
 
 ## Induction building blocks
 
-### Prove the first case correct
+### Base Case:
 
-### Show that if case $n$ is correct, then case $n+1$ is also correct
+Prove for at $\mathcal{P}_0(\mathbb{R})$
+
+### Inductive Step: Show that if case $n$ is correct, then case $n+1$ is also correct
+
+Assume that 
 
 ---
