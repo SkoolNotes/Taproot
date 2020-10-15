@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3497)}}    % original
-%\rhead{\textrmlf{Compiled }\#3497\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3497\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3498)}}    % original
+%\rhead{\textrmlf{Compiled }\#3498\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3498\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,9 +186,9 @@ Using Axler 2.C 10 as an example.
 \hypertarget{base-case}{%
 \subsubsection{Base Case:}\label{base-case}}
 
-**Prove for a
+\textbf{Prove for the simplest case}
 
-Prove for \(\mathcal{P}_0(\mathbb{R})\)
+Prove for \(\mathcal{P}_0(\mathbb{R})\).
 
 \hypertarget{inductive-step}{%
 \subsubsection{Inductive Step}\label{inductive-step}}
@@ -196,8 +196,8 @@ Prove for \(\mathcal{P}_0(\mathbb{R})\)
 \textbf{Show that if case \(n\) is correct, then case \(n+1\) is also
 correct}
 
-Assume that it works for \(\mathcal{P}_m(\mathbb{R})\), then prove it
-for \(\mathcal{P}_{m+1}(\mathbb{R})\).
+Assume that it works for \(\mathcal{P}_i(\mathbb{R})\), then prove it
+for \(\mathcal{P}_{i+1}(\mathbb{R})\).
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

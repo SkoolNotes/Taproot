@@ -20,13 +20,13 @@ Using Axler 2.C 10 as an example.
 ## Induction building blocks
 
 ### Base Case:
-**Prove for a 
+**Prove for the simplest case**
 
-Prove for $\mathcal{P}_0(\mathbb{R})$
+Prove for $\mathcal{P}_0(\mathbb{R})$.
 
 ### Inductive Step
 **Show that if case $n$ is correct, then case $n+1$ is also correct**
 
-Assume that it works for $\mathcal{P}_m(\mathbb{R})$, then prove it for $\mathcal{P}_{m+1}(\mathbb{R})$.
+Assume that it works for $\mathcal{P}_i(\mathbb{R})$, then prove it for $\mathcal{P}_{i+1}(\mathbb{R})$.
 
 ---
