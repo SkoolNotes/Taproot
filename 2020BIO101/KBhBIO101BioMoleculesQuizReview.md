@@ -17,12 +17,6 @@ And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 * Organizing organelles based on membranes #ASK
 	* Used as a gauge to sort the evolutional history of cells
 	*  Membranous organelles — possess own plasma => regulates own macromolecure consumption, hormones, etc. Perhaps original prokarotic cells
-		* Double membranes, evolved later
-			*  Endoplasmic reticulum => forms the network of transferring proteins and other elements
-			*  Golgi body/Gioli apparatus => packs, sorts, and modifies proteins and other elements throughout the cell
-		* Double membranes, prokarotic orginially	
-			* Mitochrondria => store ATP and extract energy from ATP
-			* Chloroplasts => Does photosynthesis
 		* Single membranes => probably originally fragments of prokaryotic cells
 			* Vesticles
 			* Lysomoes => breaking stuff down and garbage dumps 

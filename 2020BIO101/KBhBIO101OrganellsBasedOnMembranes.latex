@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3538)}}    % original
-%\rhead{\textrmlf{Compiled }\#3538\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3538\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3539)}}    % original
+%\rhead{\textrmlf{Compiled }\#3539\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3539\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -181,6 +181,35 @@ of cells.
 These have membranes! They have their own plasma, regulates their own
 macromolecule consumption, hormones, etc. Based on
 {[}{[}KBhBIO101Endosymbiotic{]}{]} endosymbiotic theory, these may
-perhaps be the organelles that were originally independent prokar
+perhaps be the organelles that were originally independent prokaryotic
+cells that evolve to coexist with Eukarotes.
+
+\hypertarget{double-membranes}{%
+\subsubsection{Double Membranes}\label{double-membranes}}
+
+\begin{itemize}
+\tightlist
+\item
+  Mitochrondria =\textgreater{} store ATP and extract energy from ATP
+\item
+  Chloroplasts =\textgreater{} Does photosynthesis
+\end{itemize}
+
+\hypertarget{double-membranes-evolved-later}{%
+\subsubsection{Double Membranes, Evolved
+Later}\label{double-membranes-evolved-later}}
+
+\begin{itemize}
+\tightlist
+\item
+  Endoplasmic reticulum =\textgreater{} forms the network of
+  transferring proteins and other elements
+\item
+  Golgi body/Gioli apparatus =\textgreater{} packs, sorts, and modifies
+  proteins and other elements throughout the cell
+\end{itemize}
+
+\hypertarget{s}{%
+\subsection{S}\label{s}}
 
 \end{document}
