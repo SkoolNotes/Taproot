@@ -170,3 +170,7 @@ author: Houjun Liu
 		* Feminist
 		* Moderate
 		* Conservative <- **** 
+		
+![Screen Shot 2020-10-16 at 9.34.07 AM 1.png](Screen Shot 2020-10-16 at 9.34.07 AM 1.png)
+
+https://gather.town/app/kxtGdUczc3VRkr9m/sushuclassroom
