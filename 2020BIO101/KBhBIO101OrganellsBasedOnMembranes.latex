@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3541)}}    % original
-%\rhead{\textrmlf{Compiled }\#3541\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3541\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3542)}}    % original
+%\rhead{\textrmlf{Compiled }\#3542\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3542\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -227,7 +227,18 @@ Later}\label{double-membranes-evolved-later}}
 \hypertarget{non-membranous-organells}{%
 \subsection{Non-Membranous Organells}\label{non-membranous-organells}}
 
-These organelles does not pocess their own plasma, and they are mostly
-part of the
+These organelles does not process their own plasma, and they are mostly
+part of the cytoskeleton of a cell.
+
+\begin{itemize}
+\tightlist
+\item
+  Ribosomes =\textgreater{} protein synthesizer in the cell
+\item
+  Centrosome =\textgreater{} forms flangella, cilla, and handles cells
+  divisions
+\item
+  Plastids =\textgreater{} creates colours displayed in the chromoplasts
+\end{itemize}
 
 \end{document}

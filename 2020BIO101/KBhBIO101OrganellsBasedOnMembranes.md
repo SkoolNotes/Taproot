@@ -26,5 +26,9 @@ These have membranes! They have their own plasma, regulates their own macromolec
 * Vacuoles => storing water, nutrients, waste
 
 ## Non-Membranous Organells
-These organelles does not pocess their own plasma, and they are mostly part of the 
+These organelles does not process their own plasma, and they are mostly part of the cytoskeleton of a cell.
+
+* Ribosomes => protein synthesizer in the cell
+* Centrosome => forms flangella, cilla, and handles cells divisions
+* Plastids => creates colours displayed in the chromoplasts
 

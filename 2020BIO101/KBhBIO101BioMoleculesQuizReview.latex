@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3540)}}    % original
-%\rhead{\textrmlf{Compiled }\#3540\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3540\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3542)}}    % original
+%\rhead{\textrmlf{Compiled }\#3542\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3542\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -178,66 +178,12 @@ is here}
 
 And Jack's raw answers: {[}{[}KBhBIO201BioMoleculesRAW{]}{]}
 
-\hypertarget{cell-structures}{%
-\subsection{Cell Structures}\label{cell-structures}}
-
-\begin{itemize}
-\tightlist
-\item
-  Organizing organelles based on membranes \#ASK
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Used as a gauge to sort the evolutional history of cells
-  \item
-    Membranous organelles --- possess own plasma =\textgreater{}
-    regulates own macromolecure consumption, hormones, etc. Perhaps
-    original prokarotic cells
-  \item
-    Non-membranous organelles --- does not posess own plasma
-    =\textgreater{} mostly part of the cytoskeleton of a cell
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Ribosomes =\textgreater{} protein synthesizer in the cell
-    \item
-      Centrosome =\textgreater{} forms flangella, cilla, and handles
-      cells divisions
-    \item
-      Plastids =\textgreater{} creates colours displayed in the
-      chromoplasts
-    \end{itemize}
-  \end{itemize}
-\item
-  Cell Components. Basicall all of these exist only in Eukareotic cells
-\end{itemize}
-
 \hypertarget{plasma-membrane-structure-transport}{%
 \subsection{Plasma Membrane Structure +
 transport}\label{plasma-membrane-structure-transport}}
 
 \begin{itemize}
 \tightlist
-\item
-  Lipid structure and substructures: {[}{[}KBhBIO101Lipids{]}{]}
-\item
-  Functions of cell membrane
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Phosophilid structures {[}{[}KBhBIO101StructuresOfLipids{]}{]}
-  \item
-    Transmembrane proteins {[}{[}KbhBIO101CellTransport{]}{]}
-  \item
-    Hydrophobic + hydrophillic parts of a phosophilid
-    {[}{[}KBhBIO101StructuresOfLipids{]}{]} +
-    {[}{[}KBhBIO101FluidMosaic{]}{]}
-  \end{itemize}
-\item
-  Passive + active transport {[}{[}KbhBIO101CellTransport{]}{]}
 \item
   Cell transport process
 

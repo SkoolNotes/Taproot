@@ -11,26 +11,8 @@ author: Houjun Liu
 [... is here](https://docs.google.com/document/d/1wGN3RNZCN-hkP2gJe2C7FHGZi_-YfCE6aJCZy-0N53s/edit)
 
 And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
-	
-## Cell Structures
-
-* Organizing organelles based on membranes #ASK
-	* Used as a gauge to sort the evolutional history of cells
-	*  Membranous organelles — possess own plasma => regulates own macromolecure consumption, hormones, etc. Perhaps original prokarotic cells
-	*  Non-membranous organelles — does not posess own plasma => mostly part of the cytoskeleton of a cell
-		* Ribosomes => protein synthesizer in the cell
-		* Centrosome => forms flangella, cilla, and handles cells divisions
-		* Plastids => creates colours displayed in the chromoplasts
-* Cell Components. Basicall all of these exist only in Eukareotic cells
-
 
 ## Plasma Membrane Structure + transport
-* Lipid structure and substructures: [[KBhBIO101Lipids]]
-* Functions of cell membrane
-	* Phosophilid structures [[KBhBIO101StructuresOfLipids]]
-	* Transmembrane proteins [[KbhBIO101CellTransport]]
-	* Hydrophobic + hydrophillic parts of a phosophilid [[KBhBIO101StructuresOfLipids]] + [[KBhBIO101FluidMosaic]]
-* Passive + active transport [[KbhBIO101CellTransport]]
 * Cell transport process
 	* Simple diffusion => things just spread out from high concentration to low concentrations
 	* Passive diffusion => non-polar molecules needed "fall in" through the phosolipid bi-layer
