@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3582)}}    % original
-%\rhead{\textrmlf{Compiled }\#3582\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3582\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3583)}}    % original
+%\rhead{\textrmlf{Compiled }\#3583\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3583\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -215,7 +215,10 @@
   Photoresist smeared on the wafer, and light is exposed to each part to
   etch patters
 \item
-  Then, the
+  Then, lazers guides etching of the wafer suface
+\item
+  Photoresist then washed off
+\item
 \end{itemize}
 
 \end{document}
