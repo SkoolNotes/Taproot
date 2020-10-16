@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3525)}}    % original
-%\rhead{\textrmlf{Compiled }\#3525\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3525\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3526)}}    % original
+%\rhead{\textrmlf{Compiled }\#3526\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3526\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -165,7 +165,7 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBhBIO101Cells.md}{\tiny\textulf{[[}\textbf{KBhBIO101Cells.md}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101Cells}{\tiny\textulf{[[}\textbf{KBhBIO101Cells}\textulf{]]}}}\thinspace
 
 \hypertarget{organelles-in-eukaryotic-cells}{%
 \section{Organelles in Eukaryotic
@@ -242,17 +242,27 @@ Cytoskeleton}\label{cytosol-cytoplasm-and-cytoskeleton}}
 Vacuoles}\label{lysosomes-and-food-vacuoles}}
 
 \begin{itemize}
+\tightlist
 \item
   \textbf{Lysosomes} =\textgreater{} vesticles that contains enzymes
   that breaks down biomolecules
 \item
   \textbf{Food Vacoules} =\textgreater{} vesticels that stores food and
   other resources
+\end{itemize}
+
+\hypertarget{cytoskeleton-and-microtubules}{%
+\subsection{Cytoskeleton and
+Microtubules}\label{cytoskeleton-and-microtubules}}
+
+\begin{itemize}
+\tightlist
 \item
-  cytoskeleton and microtubules * Cytoskeleton =\textgreater{} complex
-  network of proteins + fibres that organize the rest of the cell *
-  Microtubulues =\textgreater{} Polymers of tubulin protein that
-  provides the main structure of eukarotic cells
+  \textbf{Cytoskeleton} =\textgreater{} complex network of proteins +
+  fibres that organize the rest of the cell
+\item
+  \textbf{Microtubulues} =\textgreater{} Polymers of tubulin protein
+  that provides the main structure of eukarotic cells
 \end{itemize}
 
 \end{document}

@@ -2,7 +2,7 @@
 title: Organelles in Eukaryotic Cells
 author: Houjun Liu
 course: BIO101
-source: KBhBIO101Cells.md
+source: KBhBIO101Cells
 ---
 
 # Organelles in Eukaryotic Cells
@@ -31,8 +31,8 @@ source: KBhBIO101Cells.md
 * **Lysosomes** => vesticles that contains enzymes that breaks down biomolecules
 * **Food Vacoules** => vesticels that stores food and other resources
 
-* cytoskeleton and microtubules
-		* Cytoskeleton => complex network of proteins + fibres that organize the rest of the cell
-		* Microtubulues => Polymers of tubulin protein that provides the main structure of eukarotic cells 
-		
+## Cytoskeleton and Microtubules
+* **Cytoskeleton** => complex network of proteins + fibres that organize the rest of the cell
+* **Microtubulues** => Polymers of tubulin protein that provides the main structure of eukarotic cells 
+
 		
