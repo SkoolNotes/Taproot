@@ -19,6 +19,6 @@ source: KBPhysicsMasterIndex
 
 -   CMOS
 	-  n-type transitior sandwich a p type region
-	-  The gate
+	-  A charge on the gate wolud cause the 
 
 
