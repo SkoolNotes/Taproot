@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3617)}}    % original
-%\rhead{\textrmlf{Compiled }\#3617\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3617\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3618)}}    % original
+%\rhead{\textrmlf{Compiled }\#3618\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3618\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -272,7 +272,7 @@ wafer}\label{glass-plates-become-masks-used-to-transfer-the-circuit-pattern-onto
 \item
   introduction of dopants
 \item
-  deposition of thin layers of ?
+  deposition of thin layers of conducting/insulating materials
 \item
   something?
 \end{enumerate}
@@ -353,6 +353,26 @@ wafer}\label{glass-plates-become-masks-used-to-transfer-the-circuit-pattern-onto
   \end{enumerate}
 \item
   same thing repeated with each mask
+\end{enumerate}
+
+\hypertarget{ion-implanter}{%
+\subsubsection{ion implanter}\label{ion-implanter}}
+
+\begin{enumerate}
+\item
+  bombard with ions to implant dopants
+
+  \begin{enumerate}
+  \item
+    ions accelerated using magnetic fields
+  \item
+    etched silicon dioxide only allows ions on some areas
+  \item
+    embed opposite ions that are later diffused into the well to become
+    transistors
+  \end{enumerate}
+\item
+  deposition furnace
 \end{enumerate}
 
 \hypertarget{design}{%
