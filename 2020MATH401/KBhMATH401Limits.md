@@ -29,3 +29,14 @@ See [[KBhMATH401Discontinuity]]
 
 ## Error and Epsilon Delta Proofs
 See [[KbhMATH401EpsilonDeltaProofs]]
+
+## CN10062020 Continuity
+#disorganized #flo 
+
+$\lim_{x \to a} f(x) \neq f(a)$.
+
+Sometimes 
+
+*Notice th edefinitiion implicitely requeres three things if f is contiuous at a*
+
+1. $\lim
