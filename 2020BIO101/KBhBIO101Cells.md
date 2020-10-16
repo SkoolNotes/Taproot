@@ -37,5 +37,5 @@ See [[KBhBIO101Endosymbiotic]]
 See [[KBhBIO101EukaryoticOrganells]]
 
 ## Cell Membrains
-EUk
+Eukaryotes have a thin membrane layer that helps them regulate nutrients, defend themselves, and control I/O. See [[KBhBIO101CellMembraines]] 
 
