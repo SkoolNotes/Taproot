@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3609)}}    % original
-%\rhead{\textrmlf{Compiled }\#3609\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3609\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3610)}}    % original
+%\rhead{\textrmlf{Compiled }\#3610\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3610\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -263,6 +263,23 @@ team}\label{organization-of-design-team}}
   \begin{enumerate}
   \item
     complementary metal oxidized transistor
+  \item
+    n type transistor
+
+    \begin{enumerate}
+    \item
+      surrounded by n-type
+    \item
+      sandwhiching a p-type layer
+    \item
+      gate electrode is near but not connect to the p type reigon
+    \item
+      a positive charge in gate attracts electrons and allows electrons
+      to pass
+    \end{enumerate}
+  \item
+    both types can be made on the same chip using "complementary
+    manufacturing?"
   \end{enumerate}
 \end{enumerate}
 
