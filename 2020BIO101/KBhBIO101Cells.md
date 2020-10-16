@@ -31,7 +31,7 @@ author: Houjun Liu
 | Has cilla — hair like extrusions | Mostly no cilla |
 
 ### Endosymbiotic theory
-Endosymbiotic theory states that organelles within our current eukaryotic cells — the mitochondria and chloroplasts — are originally prokaryotic cells in their own right. This is because they divide independently through binary fission, and also contains circular DNA that is independent of the main cell itself.
+See [[KBhBIO101Endosymbiotic]]
 
 ### Organelles in Eukaryotic Cells
 See [[KBhBIO101EukaryoticOrganells]]

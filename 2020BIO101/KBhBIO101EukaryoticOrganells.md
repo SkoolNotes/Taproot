@@ -7,6 +7,9 @@ source: KBhBIO101Cells
 
 # Organelles in Eukaryotic Cells
 
+## An Introduction.
+Many organells 
+
 ## Chloroplast and Mitochondria
 * **Chloroplast** — found in plants + does photosynthesis
 * **Mitochondria** — found in animals + store ATP and extract energy from ATP
