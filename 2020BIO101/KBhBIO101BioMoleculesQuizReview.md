@@ -13,6 +13,13 @@ author: Houjun Liu
 And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 
 ## Jack's Review Smanza
+- **Macromolecules**
+	- [[KBhBIO101Carbs]] & [[KBhBIO101StructuresofCarbs]]
+	- [[KBhBIO101Lipids]] & [[KBhBIO101StructuresOfLipids]]
+- **Proteins, Amino Acids, and Enzymes**
+	- [[KBhBIO101AminoAcids]]
+	- [[KBhBIO101Proteins]]
+	- [[ 
 
 ## Helpful review items
 
