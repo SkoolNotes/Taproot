@@ -26,5 +26,5 @@ These have membranes! They have their own plasma, regulates their own macromolec
 * Vacuoles => storing water, nutrients, waste
 
 ## Non-Membranous Organells
-
+These organelles does not pocess their own plasma, and they are mostly part of the 
 
