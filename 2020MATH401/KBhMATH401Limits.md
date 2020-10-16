@@ -51,7 +51,7 @@ For instance, $f(x) = \frac{x^2-x-2}{x-2}$ has a hole at $x=2$, but if we define
 
 \defintion{Infitinite discontinuity}{Functions that approch infinity}
 
-If you think about it, if you try to fix the discontinuity, you will be tracing all the wall up the infinity
+If you think about it, if you try to fix the discontinuity, you will be tracing all the way up the infinity
 
 \definition{Jump discontinuity}{"Staircase" functions that causes jump}
 
