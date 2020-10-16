@@ -18,7 +18,8 @@ author: Houjun Liu
 | | Ribosomes | Mitochondria |
 | | Membranes | |
 
-## Plant and Animal Cells, Compare and Contrast
+## Eukaryotic Cells, a deep dive
+### Plant and Animal Cells, Compare and Contrast
 | Animal Cells | Plant Cells |
 |---|---|
 | No cell wall | Has cell wall |
@@ -29,6 +30,8 @@ author: Houjun Liu
 | No plastics | Has plastids — organelles that form pigments |
 | Has cilla — hair like extrusions | Mostly no cilla |
 
-## Endosymbiotic theory
+### Endosymbiotic theory
 Endosymbiotic theory states that organelles within our current eukaryotic cells — the mitochondria and chloroplasts — are originally prokaryotic cells in their own right. This is because they divide independently through binary fission, and also contains circular DNA that is independent of the main cell itself.
 
+### Organelles in Eukaryotic Cells
+See [[KBhBIO101EukaryoticOrganells]]
