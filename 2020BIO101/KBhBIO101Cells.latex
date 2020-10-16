@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3510)}}    % original
-%\rhead{\textrmlf{Compiled }\#3510\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3510\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3512)}}    % original
+%\rhead{\textrmlf{Compiled }\#3512\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3512\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -169,5 +169,18 @@
 
 \hypertarget{cells}{%
 \section{Cells}\label{cells}}
+
+\hypertarget{the-two-major-cell-types}{%
+\subsection{The Two Major Cell Types}\label{the-two-major-cell-types}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Prokaryotic cells} --- often in single-cellular cells, has a
+  cell wall, and contained in capsules
+\item
+  \emph{Eukaryotic cells} --- in multicellular cell elements, contains a
+  plasma membranes and nucleus
+\end{itemize}
 
 \end{document}
