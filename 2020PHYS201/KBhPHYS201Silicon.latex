@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3574)}}    % original
-%\rhead{\textrmlf{Compiled }\#3574\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3574\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3575)}}    % original
+%\rhead{\textrmlf{Compiled }\#3575\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3575\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -169,7 +169,6 @@
 \section{Silicon}\label{silicon}}
 
 \begin{itemize}
-\tightlist
 \item
   Integrated circuits changed computer circutries
 \item
@@ -195,6 +194,15 @@
 \item
   Then, wafers are checked for resistivity
 \item
+  CMOS
+
+  \begin{itemize}
+  \tightlist
+  \item
+    n-type transitior sandwich a p type region
+  \item
+    The gate
+  \end{itemize}
 \end{itemize}
 
 \end{document}
