@@ -167,4 +167,6 @@ author: Houjun Liu
 * Nepolian Debate
 	* 4 Factions
 		* Radical/Abolitionist
-		* Radical/Fe
+		* Feminist
+		* Moderate
+		* Conservative
