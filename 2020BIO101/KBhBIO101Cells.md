@@ -21,7 +21,7 @@ author: Houjun Liu
 | Has Ribosomes | Has Ribsonmes |
 | Has mitochondria | Has mitochondria |
 | No plastics | Has plastids — organelles that form pigments |
-| Has cilla — hair like extrusions on outer surface | Mostly no cilla |
+| Has cilla — hair like extrusions | Mostly no cilla |
 
 ## Endosymbiotic theory
 Endosymbiotic theory states that organelles within our current eukaryotic cells — the mitochondria and chloroplasts — are originally prokaryotic cells in their own right. This is because they divide independently through binary fission, and also contains circular DNA that is independent of the main cell itself.
