@@ -12,7 +12,7 @@ author: Houjun Liu
 
 And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 
-## Jack's Review Sma
+## Jack's Review Smanza
 
 ## Helpful review items
 
