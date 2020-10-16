@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3553)}}    % original
-%\rhead{\textrmlf{Compiled }\#3553\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3553\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3554)}}    % original
+%\rhead{\textrmlf{Compiled }\#3554\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3554\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -178,8 +178,7 @@ is here}
 
 And Jack's raw answers: {[}{[}KBhBIO201BioMoleculesRAW{]}{]}
 
-""" - \textbf{Enzymes lower the activation energy by some combination
-of\ldots{}}
+"""
 
 Enzymes have active sites that bring substrates together and may change
 shape to stabilize the transition state; known as Induced Fit upon

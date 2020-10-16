@@ -21,8 +21,6 @@ Most enzymes are proteins, and thus their activity can be directly influenced by
  Enzyme activity may be regulated/inhibited by molecules that compete with substrates to occupy the active site (competitive inhibitor) or alter enzyme shape so that substrates become unable to enter the active site (non-competitive inhibitor).
 
 """
- 
-
 
 ## Helpful review items
 
