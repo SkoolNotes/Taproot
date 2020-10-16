@@ -101,13 +101,14 @@ author: Houjun Liu
 					* 1788 brought with it famine
 					* Louis XVI himself is also quite weak
 			* The Revolution	
-				* Third estate (peseant) general decided to go rougue when called by the King to discuss tax plans and come up with their own National Assembly
+				* Third estate (peseant) general decided to go rougue (to a tennis court) when called by the King to discuss tax plans and come up with their own National Assembly
 					* "Whenever we meet, there is the nation."
 					* The King, noticing this, took the army to quell the third estate generals
 					* Millitias began forming throughout the city
 					* July 14th, 80,000 people stored Bastille prision + seized the governor of the fortress. This became **Bastille day**, a French holiday!
 					* With this example, peseants began raiding their landlords
 				* The suddenly official National Assembly abolished lordish feutal payments + freed the peseants
+				* Tennis Court Oath => Won't stop until new revolution
 				* August 16th, the Dec. of the Rights of Man was published => the French Dec. of Indp.
 				* Reflects Enlightenment Ideals => "natural, inalienable, and sacred rights of man... Liberty, property, security, and resistance to oppression"
 				* 6000 woman... just decided to chuck the King back into Paris. #how???
