@@ -16,7 +16,7 @@ author: Houjun Liu
 		* Powers of European monarchs increased after centralization of power
 		* Created unified modern states
 	* Old France
-		* "Acien régime" => 1789 to 1800s france
+		* "Acien régime" => 17th to 1789 Frace
 		* Strict grid of social hierarchy resulted due to birthright
 		* Societal organization explained by Great Chain of Being
 			* Entire world organized structurally
