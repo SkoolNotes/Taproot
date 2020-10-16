@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3620)}}    % original
-%\rhead{\textrmlf{Compiled }\#3620\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3620\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3621)}}    % original
+%\rhead{\textrmlf{Compiled }\#3621\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3621\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -401,6 +401,27 @@ wafer}\label{glass-plates-become-masks-used-to-transfer-the-circuit-pattern-onto
 \item
   called field oxide
 \end{enumerate}
+
+\hypertarget{uniform-electrical-dioxide-regrown}{%
+\subsubsection{uniform electrical dioxide
+regrown?}\label{uniform-electrical-dioxide-regrown}}
+
+\begin{enumerate}
+\item
+  gate electrons formed by depositing polysilicon
+
+  \begin{enumerate}
+  \item
+    many small grains of silicon doped with phospherus
+  \end{enumerate}
+\item
+  photolithography and next mask to etch gate electrodes
+\end{enumerate}
+
+\hypertarget{distance-controlled-carefully-because-it-affects-final-speed-of-transistor}{%
+\subsubsection{distance controlled carefully because it affects final
+speed of
+transistor}\label{distance-controlled-carefully-because-it-affects-final-speed-of-transistor}}
 
 \hypertarget{design}{%
 \subsection{design}\label{design}}
