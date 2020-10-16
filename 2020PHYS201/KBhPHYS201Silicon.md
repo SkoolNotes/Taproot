@@ -28,3 +28,11 @@ source: KBPhysicsMasterIndex
 - Plasma implimant impurities to cause conductivity
 - Photoresist then washed off
 - The wafer is then cleaned off
+
+Then, the actual circut wires are introduced:
+
+1. Deposition of sillican oxite
+2. Photolithagraphy, masking + etching
+3. Depositivion of tusten as pulig 
+4. Deposition + potterning of alluminum alloy as wires
+
