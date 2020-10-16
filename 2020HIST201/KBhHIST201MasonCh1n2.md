@@ -164,4 +164,7 @@ author: Houjun Liu
 ## CN10162020
 #flo #disorganized 	
 
-
+* Nepolian Debate
+	* 4 Factions
+		* Radical/Abolitionist
+		* Radical/Fe
