@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3523)}}    % original
-%\rhead{\textrmlf{Compiled }\#3523\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3523\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3524)}}    % original
+%\rhead{\textrmlf{Compiled }\#3524\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3524\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -199,8 +199,8 @@ ER}\label{rough-endoplasmic-reticulum-er-and-smooth-er}}
 \end{itemize}
 
 \hypertarget{cell-wall-and-plasma-membrane}{%
-\subsection{cell wall and plasma
-membrane}\label{cell-wall-and-plasma-membrane}}
+\subsection{Cell Wall and Plasma
+Membrane}\label{cell-wall-and-plasma-membrane}}
 
 \begin{itemize}
 \tightlist
@@ -209,7 +209,23 @@ membrane}\label{cell-wall-and-plasma-membrane}}
   cell: hard
 \item
   \textbf{Plasma membrane} --- found in animals =\textgreater{} surround
-  the cell: soft {[}{[}KBhBIO101Lipids{]}{]}
+  the cell: soft {[}{[}KBhBIO101Lipids{]}{]} lipids
+\end{itemize}
+
+\hypertarget{cytosol-cytoplasm-and-cytoskeleton}{%
+\subsection{Cytosol, cytoplasm and
+cytoskeleton}\label{cytosol-cytoplasm-and-cytoskeleton}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Cytosol} =\textgreater{} liquid found inside cells; the
+  ``cytoplasm'' floats within it
+\item
+  \textbf{Cytoplasm} =\textgreater{} all the stuff within the cell
+\item
+  \textbf{Cytoskeleton} =\textgreater{} complex network of proteins +
+  fibers that organize the rest of the cell
 \end{itemize}
 
 \end{document}

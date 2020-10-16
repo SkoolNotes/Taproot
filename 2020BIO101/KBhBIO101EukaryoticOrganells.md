@@ -15,7 +15,14 @@ source: KBhBIO101Cells.md
 * **Rough ER** — covered by ribosomes and folds [[KBhBIO101Proteins]] proteins
 * **Smooth ER** — not covered by ribosomes and makes [[KBhBIO101Lipids]] lipids
 
-## cell wall and plasma membrane
+## Cell Wall and Plasma Membrane
 * **Cell Wall** — found in plants => surround the cell: hard
-* **Plasma membrane** — found in animals => surround the cell: soft [[KBhBIO101Lipids]]
+* **Plasma membrane** — found in animals => surround the cell: soft [[KBhBIO101Lipids]] lipids
+
+## Cytosol, cytoplasm and cytoskeleton
+* **Cytosol** => liquid found inside cells; the "cytoplasm" floats within it
+* **Cytoplasm** => all the stuff within the cell
+* **Cytoskeleton** => complex network of proteins + fibers that organize the rest of the cell
+
+
 
