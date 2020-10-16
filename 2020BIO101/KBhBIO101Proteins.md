@@ -20,7 +20,7 @@ Different folds result in differenta functions
 
 The linear order of amino acids — staring from the amino terminus (N, exposes the _Amine_ end) and moving to carbonxy terminusi (C, exposes the _Carboxy_ terminus).
 
-Average protean is about 300 amino acids long.o
+Average protean is about 300 amino acids long.
 
 ### Protean secondary structure
 

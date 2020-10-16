@@ -27,6 +27,11 @@ The White parts => "Backbone" aforementioned
 
 The Orange parts => "Sidechain"
 
-## Proteins 
+A small chain of amino acids are called "peptide". Put many of those together and you get a...
 
-[[KBhBIO101Proteins]] are important biological structures formed by dehydrating multiple amino acids together
+## Protein!
+
+[[KBhBIO101Proteins]] are important biological structures formed by dehydrating multiple amino acids together.
+
+
+

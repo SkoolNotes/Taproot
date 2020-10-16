@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3509)}}    % original
-%\rhead{\textrmlf{Compiled }\#3509\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3509\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3547)}}    % original
+%\rhead{\textrmlf{Compiled }\#3547\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3547\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -205,10 +205,13 @@ The White parts =\textgreater{} ``Backbone'' aforementioned
 
 The Orange parts =\textgreater{} ``Sidechain''
 
-\hypertarget{proteins}{%
-\subsection{Proteins}\label{proteins}}
+A small chain of amino acids are called ``peptide''. Put many of those
+together and you get a\ldots{}
+
+\hypertarget{protein}{%
+\subsection{Protein!}\label{protein}}
 
 {[}{[}KBhBIO101Proteins{]}{]} are important biological structures formed
-by dehydrating multiple amino acids together
+by dehydrating multiple amino acids together.
 
 \end{document}

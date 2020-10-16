@@ -12,11 +12,7 @@ author: Houjun Liu
 
 And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 
-## Plasma Membrane Structure + transport
-* Defining...
-
 ## Proteins Structures and Function
-* Overall structure, monomers/building blocks, functions, and examples of proteins => [[KBhBIO101Proteins]]
 * "peptide" => a chain of amino-acids
 * Polymerization via dehydration
 	* Take two amino acids, take the H-O out of the alcahol, take the H out of the Amine. Fill the hole with the other one
