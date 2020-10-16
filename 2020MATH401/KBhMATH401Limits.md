@@ -37,11 +37,11 @@ $\lim_{x \to a} f(x) \neq f(a)$.
 
 Sometimes 
 
-*Notice th edefinitiion implicitely requeres three things if f is contiuous at a*
+*A function is continuous at $x=a$ if ALL OF the following thr
 
 1. $\lim_{x\to a} f(x)$ exists
 2. $f(a)$ exists
-3. 
+3. $\lim_{x\to a} f(x) = f(a)$
 
 ![threestepslimit.png](threestepslimit.png)
 
