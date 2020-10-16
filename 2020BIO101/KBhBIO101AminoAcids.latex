@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3548)}}    % original
-%\rhead{\textrmlf{Compiled }\#3548\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3548\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3549)}}    % original
+%\rhead{\textrmlf{Compiled }\#3549\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3549\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -217,6 +217,11 @@ by dehydrating multiple amino acids together.
 \hypertarget{polymerization}{%
 \subsection{Polymerization}\label{polymerization}}
 
-Chaining amino acids together to make {[}{[}KBhBIO101Proteins{]}{]}
+The process by which Amino Acids get chained together to make
+{[}{[}KBhBIO101Proteins{]}{]} is called ``Polymerization via
+Dehydration.''
+
+Take two amino acids, take the H-O out of the alcahol, take the H out of
+the Amine. Fill the hole with the other one
 
 \end{document}

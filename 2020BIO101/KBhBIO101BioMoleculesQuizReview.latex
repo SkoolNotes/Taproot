@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3547)}}    % original
-%\rhead{\textrmlf{Compiled }\#3547\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3547\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3549)}}    % original
+%\rhead{\textrmlf{Compiled }\#3549\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3549\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -185,35 +185,6 @@ Function}\label{proteins-structures-and-function}}
 \begin{itemize}
 \tightlist
 \item
-  ``peptide'' =\textgreater{} a chain of amino-acids
-\item
-  Polymerization via dehydration
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Take two amino acids, take the H-O out of the alcahol, take the H
-    out of the Amine. Fill the hole with the other one
-  \end{itemize}
-\item
-  Protein structure
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Primary structure, secondary structure =\textgreater{}
-    {[}{[}KBhBIO101Proteins{]}{]}
-  \item
-    Amino acids, N \& C terminus =\textgreater{}
-    {[}{[}KBhBIO101AminoAcids{]}{]}. N terminus (Amine), C terminus
-    (Carbolixic.)
-  \item
-    Secondary structure --- H bonds between H-O, H-N
-  \item
-    Tertiary structure =\textgreater{} see the
-    {[}{[}KBhBIO101Proteins{]}{]} articles
-  \end{itemize}
-\item
   The functions of proteins are varied because the primary sequence can
   be varied, effectively building any shape protein to do its specific
   function
@@ -224,8 +195,6 @@ Function}\label{proteins-structures-and-function}}
   structure will have some impact on its function and the more the
   structure is affected the more the function is likely to impacted
 \item
-  Functions =\textgreater{} defense, movement, structure, transport,
-  cell to cell signaling, etc.
 \end{itemize}
 
 \hypertarget{cell-structure}{%

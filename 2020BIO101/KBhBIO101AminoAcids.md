@@ -34,7 +34,7 @@ A small chain of amino acids are called "peptide". Put many of those together an
 [[KBhBIO101Proteins]] are important biological structures formed by dehydrating multiple amino acids together.
 
 ## Polymerization
-The process by which Amino Acids get chained together to make [[KBhBIO101Proteins]] is called "Polymerization."
+The process by which Amino Acids get chained together to make [[KBhBIO101Proteins]] is called "Polymerization via Dehydration."
 
-
+Take two amino acids, take the H-O out of the alcahol, take the H out of the Amine. Fill the hole with the other one
 

@@ -13,17 +13,9 @@ author: Houjun Liu
 And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 
 ## Proteins Structures and Function
-* "peptide" => a chain of amino-acids
-* Polymerization via dehydration
-	* Take two amino acids, take the H-O out of the alcahol, take the H out of the Amine. Fill the hole with the other one
-* Protein structure
-	* Primary structure, secondary structure => [[KBhBIO101Proteins]]
-	* Amino acids, N & C terminus => [[KBhBIO101AminoAcids]]. N terminus (Amine), C terminus (Carbolixic.)
-	* Secondary structure — H bonds between H-O, H-N
-	* Tertiary structure => see the [[KBhBIO101Proteins]] articles
 * The functions of proteins are varied because the primary sequence can be varied, effectively building any shape protein to do its specific function
 * Form = function is the idea that the shape or form a protein takes through the combination of primary, secondary, tertiary, or quaternary structure determines how it will then function. Any changes to the structure will have some impact on its function and the more the structure is affected the more the function is likely to impacted
-* Functions => defense, movement, structure, transport, cell to cell signaling, etc.
+* 
 
 ## Cell Structure
 * Enzymes? [[KBhBIO101Enzymes]]
