@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3518)}}    % original
-%\rhead{\textrmlf{Compiled }\#3518\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3518\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3519)}}    % original
+%\rhead{\textrmlf{Compiled }\#3519\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3519\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -183,8 +183,19 @@
   a plasma membranes and nucleus
 \end{itemize}
 
-\hypertarget{eukarotic}{%
-\subsection{Eukarotic}\label{eukarotic}}
+\hypertarget{prokaryotic-vs-eukaryotic-cells}{%
+\subsection{Prokaryotic vs Eukaryotic
+Cells}\label{prokaryotic-vs-eukaryotic-cells}}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Prokaryotic Cells & Both & Eukaryotic Cells\tabularnewline
+\midrule
+\endhead
+Has cell wall & DNA & Has plasma membrane\tabularnewline
+Has capsule container & &\tabularnewline
+\bottomrule
+\end{longtable}
 
 \hypertarget{plant-and-animal-cells-compare-and-contrast}{%
 \subsection{Plant and Animal Cells, Compare and

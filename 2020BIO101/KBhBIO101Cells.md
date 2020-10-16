@@ -10,7 +10,11 @@ author: Houjun Liu
 * **Prokaryotic cells** — often in single-cellular cells, has a cell wall, and contained in capsules
 * **Eukaryotic cells** — in multicellular cell elements, contains a plasma membranes and nucleus
 
-## Eukarotic 
+## Prokaryotic vs Eukaryotic Cells
+| Prokaryotic Cells | Both | Eukaryotic Cells |
+|---|---|---|
+| Has cell wall | DNA | Has plasma membrane 
+| Has capsule container |  
 
 ## Plant and Animal Cells, Compare and Contrast
 | Animal Cells | Plant Cells |
