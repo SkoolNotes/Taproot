@@ -22,5 +22,7 @@ source: KBPhysicsMasterIndex
 	-  A charge on the gate wolud cause the charge to go through
 	- Vise, versa
 - Meaning, when the P-N circut combinations are on, the N-P combination is off   
+- High temperature used to grow sillicon dioxide to protect the sillicon as sillicon interacts with pure exygen
+- 
 
 
