@@ -12,15 +12,7 @@ author: Houjun Liu
 
 And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 
-"""
-	
-Enzymes have active sites that bring substrates together and may change shape to stabilize the transition state; known as Induced Fit upon binding active site and slight change in enzyme shape.
-
-Most enzymes are proteins, and thus their activity can be directly influenced by modifications or environmental factors, such as temperature and pH, that alter their three-dimensional structure.
-
- Enzyme activity may be regulated/inhibited by molecules that compete with substrates to occupy the active site (competitive inhibitor) or alter enzyme shape so that substrates become unable to enter the active site (non-competitive inhibitor).
-
-"""
+## Jack's Review Sma
 
 ## Helpful review items
 
