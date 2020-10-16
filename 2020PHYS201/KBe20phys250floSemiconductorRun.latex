@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3624)}}    % original
-%\rhead{\textrmlf{Compiled }\#3624\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3624\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3626)}}    % original
+%\rhead{\textrmlf{Compiled }\#3626\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3626\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -460,6 +460,50 @@ wiring}\label{mask-6-define-contact-holes-for-metal-wiring}}
 \hypertarget{plasma-etching-again-to-create-contact-holes}{%
 \subsubsection{plasma etching again to create contact
 holes}\label{plasma-etching-again-to-create-contact-holes}}
+
+\begin{enumerate}
+\item
+  looks like small dots under microscope
+\item
+  must be filled with metal plug to ensure solid elecric connection
+  (tungsten)
+\end{enumerate}
+
+\hypertarget{metal-etcher-polishes-away-extra-tungsten}{%
+\subsubsection{metal etcher polishes away extra
+tungsten}\label{metal-etcher-polishes-away-extra-tungsten}}
+
+\hypertarget{aluminum-allow-then-diposited-on-top-of-the-layer}{%
+\subsubsection{aluminum allow then diposited on top of the
+layer}\label{aluminum-allow-then-diposited-on-top-of-the-layer}}
+
+\hypertarget{mask-7-patterns-aluminum-to-wire-together-individual-transistors}{%
+\subsubsection{mask 7 patterns aluminum to wire together individual
+transistors}\label{mask-7-patterns-aluminum-to-wire-together-individual-transistors}}
+
+\hypertarget{more-layers-of-wiring-are-often-produced-each-differing-layer-created-like-this}{%
+\subsubsection{more layers of wiring are often produced, each differing
+layer created like
+this}\label{more-layers-of-wiring-are-often-produced-each-differing-layer-created-like-this}}
+
+\begin{enumerate}
+\item
+  oxy dioxide to insulate
+\item
+  masking and etching photolithograthy to create contact holes
+\item
+  more tungsten plugs for holes
+\item
+  deposition and patterning of new upper level of aluminimum
+\end{enumerate}
+
+\hypertarget{after-all-metal-levels-final-nitride-is-connected}{%
+\subsubsection{after all metal levels, final nitride is
+connected}\label{after-all-metal-levels-final-nitride-is-connected}}
+
+\hypertarget{only-the-bonding-pads-are-etched-away-in-final-mask}{%
+\subsubsection{only the bonding pads are etched away in final
+mask}\label{only-the-bonding-pads-are-etched-away-in-final-mask}}
 
 \hypertarget{design}{%
 \subsection{design}\label{design}}

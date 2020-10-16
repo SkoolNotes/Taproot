@@ -83,6 +83,18 @@
 **** chemical mechanical planalization (CMP) not used much anymore
 *** mask 6: define contact holes for metal wiring
 *** plasma etching again to create contact holes
+**** looks like small dots under microscope
+**** must be filled with metal plug to ensure solid elecric connection (tungsten)
+*** metal etcher polishes away extra tungsten
+*** aluminum allow then diposited on top of the layer
+*** mask 7 patterns aluminum to wire together individual transistors
+*** more layers of wiring are often produced, each differing layer created like this
+**** oxy dioxide to insulate
+**** masking and etching photolithograthy to create contact holes
+**** more tungsten plugs for holes
+**** deposition and patterning of new upper level of aluminimum
+*** after all metal levels, final nitride is connected
+*** only the bonding pads are etched away in final mask
 ** design
 *** circuit design
 *** organization of design team
