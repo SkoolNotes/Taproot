@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3505)}}    % original
-%\rhead{\textrmlf{Compiled }\#3505\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3505\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3506)}}    % original
+%\rhead{\textrmlf{Compiled }\#3506\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3506\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -211,7 +211,7 @@ Here's an amino acid
 
 \begin{figure}
 \centering
-\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020BIO101/Screen Shot 2020-09-16 at 2.57.31 PM.png}
+\includegraphics{./Screen Shot 2020-09-16 at 2.57.31 PM.png}
 \caption{Screen Shot 2020-09-16 at 2.57.31 PM.png}
 \end{figure}
 

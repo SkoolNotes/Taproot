@@ -27,7 +27,7 @@ At the carbon backbone, any arbiturary thing "R group, or Sidechain" may be conn
 
 Here's an amino acid
 
-![Screen Shot 2020-09-16 at 2.57.31 PM.png](/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020BIO101/Screen Shot 2020-09-16 at 2.57.31 PM.png)
+![Screen Shot 2020-09-16 at 2.57.31 PM.png](./Screen Shot 2020-09-16 at 2.57.31 PM.png)
 
 The White parts => "Backbone" aforementioned
 
