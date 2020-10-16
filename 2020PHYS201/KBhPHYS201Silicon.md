@@ -23,6 +23,7 @@ source: KBPhysicsMasterIndex
 	- Vise, versa
 - Meaning, when the P-N circut combinations are on, the N-P combination is off   
 - High temperature used to grow sillicon dioxide to protect the sillicon as sillicon interacts with pure exygen
-- Photoresist smeared on the wafer, and light is exposed to each part 
+- Photoresist smeared on the wafer, and light is exposed to each part to etch patters
+- Then, the 
 
 
