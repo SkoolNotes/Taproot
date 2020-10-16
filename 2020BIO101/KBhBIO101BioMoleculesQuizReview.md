@@ -13,13 +13,8 @@ author: Houjun Liu
 And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 
 ## Plasma Membrane Structure + transport
-* Cell transport process
-
 * Defining...
-	* Isotonic => inside and outside have the same level of "osmolarity": probablility for osmosis to happen through a semipermiable membrane
-	* Hypertonic => inside has less osmolarity than the outside: water/other elems will flow out of the cell
-	* Hypotonic => outside has less osmolarity than the inside: water/other elems will flow into the cell
-	
+
 ## Proteins Structures and Function
 * Overall structure, monomers/building blocks, functions, and examples of proteins => [[KBhBIO101Proteins]]
 * "peptide" => a chain of amino-acids

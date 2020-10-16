@@ -14,11 +14,23 @@ Due to the wonderful nature of **ENTROPY!!!**, things just tend to spread out fr
 - **Facilitated Diffusion**: polar molecules selectively get through protean channels
 - **Osmosis**: facilitated diffusion of water through a membrane
 
-## Active diffusion
-- **Active transport**: ATP shepherds elements in  
-- **Bulk transport**
-    - Large item transport across the plasma membrane
-    - Transport vesicles brakes off membrane to receive elements, recycled back later
-    - Exocytosis and Endocytosis
+***
+
+Quick ad break for some terms on Osmosis
+
+* **Isotonic** => inside and outside have the same level of "osmolarity": probablility for osmosis to happen through a semipermiable membrane
+* **Hypertonic** => inside has less osmolarity than the outside: water/other elems will flow out of the cell
+* **Hypotonic** => outside has less osmolarity than the inside: water/other elems will flow into the cell
 	
+***
+
+## Active diffusion
+ATP shepherds elements in  
+
+## Bulk transport
+* **Phagocytosis** => take a piece of the membrane with you to form a vesticle to introduce large solid elements, recycling the membrane after done — "cell eating"
+* **Pinocytosis** => take a piece of the membrane with you to form a vesticle to introduce large area of the "outside" in — fluid and solid and all, recycling the membrane after done — "cell drinking"
+* **Endocytosis** => Phagocytosis + Pinocytosis
+* **Extocytosis** => opposite of endocytosis
+
 	

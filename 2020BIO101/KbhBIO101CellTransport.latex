@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3545)}}    % original
-%\rhead{\textrmlf{Compiled }\#3545\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3545\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3546)}}    % original
+%\rhead{\textrmlf{Compiled }\#3546\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3546\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -192,26 +192,49 @@ spread out from high to low concentrations.
   \textbf{Osmosis}: facilitated diffusion of water through a membrane
 \end{itemize}
 
-\hypertarget{active-diffusion}{%
-\subsection{Active diffusion}\label{active-diffusion}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Quick ad break for some terms on Osmosis
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{Active transport}: ATP shepherds elements in\\
+  Isotonic =\textgreater{} inside and outside have the same level of
+  ``osmolarity'': probablility for osmosis to happen through a
+  semipermiable membrane
 \item
-  \textbf{Bulk transport}
+  Hypertonic =\textgreater{} inside has less osmolarity than the
+  outside: water/other elems will flow out of the cell
+\item
+  Hypotonic =\textgreater{} outside has less osmolarity than the inside:
+  water/other elems will flow into the cell
+\end{itemize}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Large item transport across the plasma membrane
-  \item
-    Transport vesicles brakes off membrane to receive elements, recycled
-    back later
-  \item
-    Exocytosis and Endocytosis
-  \end{itemize}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{active-diffusion}{%
+\subsection{Active diffusion}\label{active-diffusion}}
+
+ATP shepherds elements in
+
+\hypertarget{bulk-transport}{%
+\subsection{Bulk transport}\label{bulk-transport}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Phagocytosis} =\textgreater{} take a piece of the membrane
+  with you to form a vesticle to introduce large solid elements,
+  recycling the membrane after done --- ``cell eating''
+\item
+  \textbf{Pinocytosis} =\textgreater{} take a piece of the membrane with
+  you to form a vesticle to introduce large area of the ``outside'' in
+  --- fluid and solid and all, recycling the membrane after done ---
+  ``cell drinking''
+\item
+  \textbf{Endocytosis} =\textgreater{} Phagocytosis + Pinocytosis
+\item
+  \textbf{Extocytosis} =\textgreater{} opposite of endocytosis
 \end{itemize}
 
 \end{document}
