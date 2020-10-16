@@ -6,6 +6,7 @@ source: KBPhysicsMasterIndex
 ---
 
 # Silicon
-- Intergrated circuts
+- Integrated circuits changed computer circutries
+- 
 
 
