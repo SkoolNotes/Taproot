@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3596)}}    % original
-%\rhead{\textrmlf{Compiled }\#3596\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3596\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3597)}}    % original
+%\rhead{\textrmlf{Compiled }\#3597\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3597\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -238,8 +238,10 @@ contiuous at a}
 \caption{threestepslimit.png}
 \end{figure}
 
-\textbackslash definition\{Removable discontinuity\}\{Removeable
-discontinuity are often holes. They are discontinuities that, with an
-additional de
+\definition{Removable discontinuity}{Removeable discontinuity are often holes. They are discontinuities that, with an additional definition, one could remove.}
+
+For instance, \(f(x) = \frac{x^2-x-2}{x-2}\) has a hole at \(x=2\), but
+if we defined a value for \(x=2\), our lovely discontinuity is
+immediately removed.
 
 \end{document}
