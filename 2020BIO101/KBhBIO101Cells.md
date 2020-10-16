@@ -10,7 +10,9 @@ author: Houjun Liu
 * **Prokaryotic cells** — often in single-cellular cells, has a cell wall, and contained in capsules
 * **Eukaryotic cells** — in multicellular cell elements, contains a plasma membranes and nucleus
 
-## Eukaryotic Cells, Compare and Contrast
+## Eukarotic 
+
+## Plant and Animal Cells, Compare and Contrast
 | Animal Cells | Plant Cells |
 |---|---|
 | No cell wall | Has cell wall |
@@ -20,4 +22,7 @@ author: Houjun Liu
 | Has mitochondria | Has mitochondria |
 | No plastics | Has plastids — organelles that form pigments |
 | Has cilla — hair like extrusions on outer surface | Mostly no cilla |
+
+## Endosymbiotic theory
+Endosymbiotic theory states that organelles within our current eukaryotic cells — the mitochondria and chloroplasts — are originally prokaryotic cells in their own right. This is because they divide independently through binary fission, and also contains circular DNA that is independent of the main cell itself.
 

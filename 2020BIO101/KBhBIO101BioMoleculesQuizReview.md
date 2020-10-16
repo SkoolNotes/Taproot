@@ -14,25 +14,6 @@ And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 	
 ## Cell Structures
 
-* Compare and contrast a typical animal cell with a typical plant cell. Be able to label diagrams of each. (See... problem set 1)
-	* Animal Cell
-		* No cell wall
-		* No chloroplast
-		* Has Cytoplasm
-		* Has Ribosomes
-		* Has Mitochondria
-		* No plastids — organelle pigments
-		* Has Cilla — Hair-like items on the outer surface 
-	* Plant Cell
-		* Has cell wall
-		* Has chloroplast — photosynthesis
-		* Has cytoplasm
-		* Has Ribosomes
-		* Has Mitochondria
-		* Has plastics — organelle pigments
-		* Mostly has no Cilla
-* Endosymbiotic theory 
-	* 	Endosymbiotic theory states that organelles within our current eukaryotic cells — the mitochondria and chloroplasts — are originally prokaryotic cells in their own right. This is because they divide independently through binary fission, and also contains circular DNA that is independent of the main cell itself.
 * Organizing organelles based on membranes #ASK
 	* Used as a gauge to sort the evolutional history of cells
 	*  Membranous organelles — possess own plasma => regulates own macromolecure consumption, hormones, etc. Perhaps original prokarotic cells

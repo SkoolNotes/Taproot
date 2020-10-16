@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3516)}}    % original
-%\rhead{\textrmlf{Compiled }\#3516\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3516\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3517)}}    % original
+%\rhead{\textrmlf{Compiled }\#3517\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3517\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -183,9 +183,9 @@
   a plasma membranes and nucleus
 \end{itemize}
 
-\hypertarget{eukaryotic-cells-compare-and-contrast}{%
-\subsection{Eukaryotic Cells, Compare and
-Contrast}\label{eukaryotic-cells-compare-and-contrast}}
+\hypertarget{plant-and-animal-cells-compare-and-contrast}{%
+\subsection{Plant and Animal Cells, Compare and
+Contrast}\label{plant-and-animal-cells-compare-and-contrast}}
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
@@ -203,5 +203,14 @@ Has cilla --- hair like extrusions on outer surface & Mostly no
 cilla\tabularnewline
 \bottomrule
 \end{longtable}
+
+\hypertarget{endosymbiotic-theory}{%
+\subsection{Endosymbiotic theory}\label{endosymbiotic-theory}}
+
+Endosymbiotic theory states that organelles within our current
+eukaryotic cells --- the mitochondria and chloroplasts --- are
+originally prokaryotic cells in their own right. This is because they
+divide independently through binary fission, and also contains circular
+DNA that is independent of the main cell itself.
 
 \end{document}
