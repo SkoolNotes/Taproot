@@ -17,10 +17,6 @@ And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 * Organizing organelles based on membranes #ASK
 	* Used as a gauge to sort the evolutional history of cells
 	*  Membranous organelles — possess own plasma => regulates own macromolecure consumption, hormones, etc. Perhaps original prokarotic cells
-		* Single membranes => probably originally fragments of prokaryotic cells
-			* Vesticles
-			* Lysomoes => breaking stuff down and garbage dumps 
-			* Vacuoles => storing water, nutrients, waste
 	*  Non-membranous organelles — does not posess own plasma => mostly part of the cytoskeleton of a cell
 		* Ribosomes => protein synthesizer in the cell
 		* Centrosome => forms flangella, cilla, and handles cells divisions

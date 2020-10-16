@@ -10,9 +10,7 @@ course: BIO101
 By organizing [[KBhBIO101EukaryoticOrganells]] based on whether or not they have membranes, it helps us gauge the evolutionary history of cells.
 
 ## Membranous Organelles
-These have membranes! They have their own plasma, regulates their own macromolecule consumption, hormones, etc. Based on [[KBhBIO101Endosymbiotic]] endosymbiotic theory, these may perhaps be the organelles that were originally independent prokaryotic cells that evolve to coexist with Eukarotes.
-
-
+These have membranes! They have their own plasma, regulates their own macromolecule consumption, hormones, etc. Based on [[KBhBIO101Endosymbiotic]] endosymbiotic theory, double-memranous organelles may perhaps be the organelles that were originally independent prokaryotic cells that evolve to coexist with Eukarotes; by the same token, single-membraneous organelles may be fragements of prokaryotic cells.
 
 ### Double Membranes
 * Mitochrondria => store ATP and extract energy from ATP
@@ -22,5 +20,11 @@ These have membranes! They have their own plasma, regulates their own macromolec
 *  Endoplasmic reticulum => forms the network of transferring proteins and other elements
 *  Golgi body/Gioli apparatus => packs, sorts, and modifies proteins and other elements throughout the cell
 
-##  S
+### Single Membranes
+* Vesticles
+* Lysomoes => breaking stuff down and garbage dumps 
+* Vacuoles => storing water, nutrients, waste
+
+## Non-Membranous Organells
+
 
