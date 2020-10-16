@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3605)}}    % original
-%\rhead{\textrmlf{Compiled }\#3605\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3605\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3606)}}    % original
+%\rhead{\textrmlf{Compiled }\#3606\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3606\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -188,6 +188,13 @@ vat}\label{small-molten-crystal-seed-lower-into-a-vat}}
 \subsubsection{pull cylander from molten
 reigon}\label{pull-cylander-from-molten-reigon}}
 
+\hypertarget{ground-to-form-ingots}{%
+\subsubsection{ground to form ingots}\label{ground-to-form-ingots}}
+
+\hypertarget{sawed-with-diamond-blade-to-form-wafers}{%
+\subsubsection{sawed with diamond blade to form
+wafers}\label{sawed-with-diamond-blade-to-form-wafers}}
+
 \hypertarget{structure}{%
 \subsection{structure}\label{structure}}
 
@@ -229,6 +236,15 @@ conduct}\label{but-at-room-temperature-free-electrons-can-conduct}}
   boron
 \item
   missing electron acts like positive carrier, "hole"
+\end{enumerate}
+
+\hypertarget{silicon-can-be-either-good-or-poor-conductor-semiconductor}{%
+\subsubsection{silicon can be either good or poor conductor
+(semiconductor)}\label{silicon-can-be-either-good-or-poor-conductor-semiconductor}}
+
+\begin{enumerate}
+\item
+  controlled by concentration of dopant
 \end{enumerate}
 
 \end{document}
