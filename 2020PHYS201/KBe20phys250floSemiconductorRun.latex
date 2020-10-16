@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3612)}}    % original
-%\rhead{\textrmlf{Compiled }\#3612\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3612\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3613)}}    % original
+%\rhead{\textrmlf{Compiled }\#3613\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3613\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -230,9 +230,26 @@ resistivity}\label{then-measured-for-resistivity}}
 \begin{enumerate}
 \item
   etches patterns onto chrome plated glass plates in clean room
+\end{enumerate}
+
+\hypertarget{glass-plates-become-masks-used-to-transfer-the-circuit-pattern-onto-the-wafer}{%
+\subsubsection{glass plates become masks used to transfer the circuit
+pattern onto the
+wafer}\label{glass-plates-become-masks-used-to-transfer-the-circuit-pattern-onto-the-wafer}}
+
+\hypertarget{usage-of-masks}{%
+\subsubsection{usage of masks}\label{usage-of-masks}}
+
+\begin{enumerate}
 \item
-  glass plates become masks used to transfer the circuit pattern onto
-  the wafer
+  first mask creates divots
+\item
+  masks 4, 5 define source and drain reigons
+\item
+  mask 6 defines contact holes to allow aluminium to be inserted
+\item
+  mostly use 12-25 masks depending on complexity and type of circuit
+  (much more now)
 \end{enumerate}
 
 \hypertarget{design}{%
