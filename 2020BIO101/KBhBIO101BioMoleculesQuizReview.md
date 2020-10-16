@@ -13,11 +13,6 @@ author: Houjun Liu
 And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 
 """
-
-
-- Activation energy is the amount of kinetic energy required to reach the transition state of a reaction.
-- Enzymes speed up a reaction by lowering the activation energy, often with the help of cofactors or coenzymes.
-
 - **Enzymes lower the activation energy by some combination of…**
 	- Orienting the reactions substrate(s) to promote more effective collisions (and therefore reactions
 	- Stressing or straining bonds to temporarily and/or slightly lower the strength of attraction to allow the bond to break more easily
