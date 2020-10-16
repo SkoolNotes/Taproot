@@ -17,5 +17,7 @@ author: Houjun Liu
 | No chloroplast | Has chloroplast to do photosynthesis |
 | Has cytoplasm | Has cytoplasm |
 | Has Ribosomes | Has Ribsonmes |
-| Has M
+| Has mitochondria | Has mitochondria |
+| No plastics | Has plastids — organelles that form pigments |
+| Has cilla — hair like extrusions on outer surface | Mostly no cilla |
 
