@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3604)}}    % original
-%\rhead{\textrmlf{Compiled }\#3604\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3604\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3605)}}    % original
+%\rhead{\textrmlf{Compiled }\#3605\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3605\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -207,7 +207,28 @@ holes}\label{perfect-crystal-will-have-no-holes}}
 conduct}\label{but-at-room-temperature-free-electrons-can-conduct}}
 
 \hypertarget{impurities-called-dopants}{%
-\subsubsection{impurities called
-dopants}\label{impurities-called-dopants}}
+\subsection{impurities called dopants}\label{impurities-called-dopants}}
+
+\hypertarget{negative}{%
+\subsubsection{negative}\label{negative}}
+
+\begin{enumerate}
+\item
+  arsenic or phospherus
+\item
+  one more valence
+\item
+  n type crystal because negative free carriers
+\end{enumerate}
+
+\hypertarget{positive}{%
+\subsubsection{positive}\label{positive}}
+
+\begin{enumerate}
+\item
+  boron
+\item
+  missing electron acts like positive carrier, "hole"
+\end{enumerate}
 
 \end{document}
