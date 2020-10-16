@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3537)}}    % original
-%\rhead{\textrmlf{Compiled }\#3537\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3537\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3538)}}    % original
+%\rhead{\textrmlf{Compiled }\#3538\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3538\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,6 +179,8 @@ of cells.
 \subsection{Membranous Organelles}\label{membranous-organelles}}
 
 These have membranes! They have their own plasma, regulates their own
-macromolecule consumption, hormones, etc. These may perhaps
+macromolecule consumption, hormones, etc. Based on
+{[}{[}KBhBIO101Endosymbiotic{]}{]} endosymbiotic theory, these may
+perhaps be the organelles that were originally independent prokar
 
 \end{document}
