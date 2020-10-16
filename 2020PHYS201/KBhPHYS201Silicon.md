@@ -26,5 +26,5 @@ source: KBPhysicsMasterIndex
 - Photoresist smeared on the wafer, and light is exposed to each part to etch patters
 - Then, lazers/plasma/acid guides etching of the wafer suface
 - Photoresist then washed off
-- The wafer is then cleaned off, and various mirrors
+- The wafer is then cleaned off
 
