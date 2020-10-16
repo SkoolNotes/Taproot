@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3512)}}    % original
-%\rhead{\textrmlf{Compiled }\#3512\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3512\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3513)}}    % original
+%\rhead{\textrmlf{Compiled }\#3513\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3513\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,8 +179,8 @@
   \textbf{Prokaryotic cells} --- often in single-cellular cells, has a
   cell wall, and contained in capsules
 \item
-  \emph{Eukaryotic cells} --- in multicellular cell elements, contains a
-  plasma membranes and nucleus
+  \textbf{Eukaryotic cells} --- in multicellular cell elements, contains
+  a plasma membranes and nucleus
 \end{itemize}
 
 \end{document}
