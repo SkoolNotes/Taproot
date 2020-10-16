@@ -25,6 +25,6 @@ source: KBPhysicsMasterIndex
 - High temperature used to grow sillicon dioxide to protect the sillicon as sillicon interacts with pure exygen
 - Photoresist smeared on the wafer, and light is exposed to each part to etch patters
 - Then, lazers/plasma/acid guides etching of the wafer suface
-- Plasma implimant impurities to cause
+- Plasma implimant impurities to cause conductivity
 - Photoresist then washed off
 - The wafer is then cleaned off
