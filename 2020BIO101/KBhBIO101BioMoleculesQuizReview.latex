@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3489)}}    % original
-%\rhead{\textrmlf{Compiled }\#3489\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3489\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3504)}}    % original
+%\rhead{\textrmlf{Compiled }\#3504\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3504\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -176,71 +176,13 @@
 \href{https://docs.google.com/document/d/1wGN3RNZCN-hkP2gJe2C7FHGZi_-YfCE6aJCZy-0N53s/edit}{\ldots{}
 is here}
 
-And Jack's raw answers: {[}{[}KBhBIO201BioMolecules
+And Jack's raw answers: {[}{[}KBhBIO201BioMoleculesRAW{]}{]}
 
 \hypertarget{carbohydrates}{%
-\subsubsection{Carbohydrates}\label{carbohydrates}}
+\subsection{Carbohydrates}\label{carbohydrates}}
 
 \begin{itemize}
 \tightlist
-\item
-  Set 1, carbs. See Luke De's video + {[}{[}KBhBIO101Carbs{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    \emph{Glucose vs.~fructose} --- both monosacharrides, one is a
-    6-carbon ring and one is a 5-carbon ring
-  \item
-    \emph{Mono vs.~di. vs.~polysaccharide} --- carbohydrates made out of
-    a single, double, and multiple monomer (single-unit) carbohydrates
-  \item
-    \emph{Starch vs.~glycogen vs.~cellulose} --- lots of alpha glucose
-    in less branches, lots of alpha glucose in more branches, lots of
-    beta glucose in organized lattice respectively.
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Starch --- plant food reserve
-    \item
-      Glycogen --- animal energy reserve
-    \item
-      Cellulose --- cell wall in plants
-    \end{itemize}
-  \end{itemize}
-\item
-  Set 2, lipids. See Luke De's video + {[}{[}KBhBIO101Lipids{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    \emph{Triglyceride vs.~fatty acid vs.~phosophilid} see
-    {[}{[}KBhBIO101StructuresofCarbs{]}{]}
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Glycerol =\textgreater{} a fatty acid
-    \item
-      Triglyceride =\textgreater{} three of 'em above
-    \item
-      Phospholipid =\textgreater{} two fatty acid + phosphate head
-    \end{itemize}
-  \item
-    \emph{Saturated vs unsaturated fatty acids} see also
-    {[}{[}KBhBIO101StructuresofCarbs{]}{]}
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Saturated Fats =\textgreater{} no double bonds in the carbon chain
-      of fatty acids --- think! butter
-    \item
-      Unsaturated Fats =\textgreater{} double bonds in the carbon chain
-      of fatty acids --- think! olive oil
-    \end{itemize}
-  \end{itemize}
 \item
   Identify functional groups
 
@@ -252,11 +194,6 @@ And Jack's raw answers: {[}{[}KBhBIO201BioMolecules
     \begin{itemize}
     \tightlist
     \item
-      carboxyl/carboxylic acid --- H-O-C=O (left side of backbone)
-      {[}{[}Screen Shot 2020-10-12 at 2.29.28 PM{]}{]}
-    \item
-      carbonyl --- C=O --- part of carboxyl
-    \item
       amide --- RC(=O)NR′R″ (frequently shown in side chains of amino
       acids --- see
       \href{https://en.wikipedia.org/wiki/Amide\#/media/File:Amide-general.png}{Amine})
@@ -264,15 +201,6 @@ And Jack's raw answers: {[}{[}KBhBIO201BioMolecules
       amino/amine --- H3N+ (right side of backbone)
     \item
       hydroxyl --- OH group. Need I say more?
-    \item
-      ester --- take a carboxylic acid and replace the hydrogen with
-      anything else \#ASK. =\textgreater{} What join fatty acid chains
-      with the glycerol to make trigrcyeride
-    \item
-      ether --- R-O-R structure. =\textgreater{} glycocidic bonds are
-      formed by ether bonds
-    \item
-      alcohol group (H-O-R) as part of the carboxyl
     \end{itemize}
   \end{itemize}
 \item
@@ -295,7 +223,7 @@ And Jack's raw answers: {[}{[}KBhBIO201BioMolecules
 \end{itemize}
 
 \hypertarget{cell-structures}{%
-\subsubsection{Cell Structures}\label{cell-structures}}
+\subsection{Cell Structures}\label{cell-structures}}
 
 \begin{itemize}
 \tightlist
@@ -557,7 +485,7 @@ And Jack's raw answers: {[}{[}KBhBIO201BioMolecules
 \end{itemize}
 
 \hypertarget{plasma-membrane-structure-transport}{%
-\subsubsection{Plasma Membrane Structure +
+\subsection{Plasma Membrane Structure +
 transport}\label{plasma-membrane-structure-transport}}
 
 \begin{itemize}
@@ -629,7 +557,7 @@ transport}\label{plasma-membrane-structure-transport}}
 \end{itemize}
 
 \hypertarget{proteins-structures-and-function}{%
-\subsubsection{Proteins Structures and
+\subsection{Proteins Structures and
 Function}\label{proteins-structures-and-function}}
 
 \begin{itemize}
@@ -682,7 +610,7 @@ Function}\label{proteins-structures-and-function}}
 \end{itemize}
 
 \hypertarget{cell-structure}{%
-\subsubsection{Cell Structure}\label{cell-structure}}
+\subsection{Cell Structure}\label{cell-structure}}
 
 \begin{itemize}
 \tightlist

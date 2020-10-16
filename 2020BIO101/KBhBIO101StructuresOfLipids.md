@@ -1,5 +1,5 @@
 ---
-title: Structure of lipids
+title: Structure of lipids, Fatty Acids, Glycerol
 author: Houjun Liu
 course: BIO101
 source: KBhBIO101Lipids
@@ -8,12 +8,15 @@ source: KBhBIO101Lipids
 # Structure of Lipids
 
 ## Fatty acids
+
 ![Screen Shot 2020-09-09 at 2.58.49 PM.png](./Screen Shot 2020-09-09 at 2.58.49 PM.png)
 
 A single penteine and embellishments. **Single Fatty acids = Glycerol**
 
 ## Trygricerol
-**Fat! (a.k.a. adapose tissue) = Triglycerol: three gcycerals together.**
+**Fat! (a.k.a. adapose tissue) = Triglycerol: three fatty acids together.**
+
+![Fat_triglyceride_shorthand_formula.png](Fat_triglyceride_shorthand_formula.png)
 
 ### Saturated vs. Unsaturated fats
 **Saturate Fats**

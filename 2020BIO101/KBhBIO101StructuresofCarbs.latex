@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2997)}}    % original
-%\rhead{\textrmlf{Compiled }\#2997\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#2997\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3504)}}    % original
+%\rhead{\textrmlf{Compiled }\#3504\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3504\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -242,10 +242,9 @@ Disachoride: Glucose + Galactose\strut
 \begin{minipage}[t]{0.08\columnwidth}\raggedright
 Cellose\strut
 \end{minipage} & \begin{minipage}[t]{0.28\columnwidth}\raggedright
-We can't digest this, but plants use it\strut
+Plants' cell wall we can't digest\strut
 \end{minipage} & \begin{minipage}[t]{0.55\columnwidth}\raggedright
-Polysacharides: beta-Glucose + beta-Glucose+ beta-beta-Glucose +
-\ldots{} + Glucose\strut
+Polysacharides from: beta-Glucose\strut
 \end{minipage}\tabularnewline
 \begin{minipage}[t]{0.08\columnwidth}\raggedright
 Glucose\strut
@@ -257,7 +256,7 @@ Monomer\strut
 \begin{minipage}[t]{0.08\columnwidth}\raggedright
 Galactose\strut
 \end{minipage} & \begin{minipage}[t]{0.28\columnwidth}\raggedright
-\strut
+Sugar sweeter than sugar\strut
 \end{minipage} & \begin{minipage}[t]{0.55\columnwidth}\raggedright
 Monomer\strut
 \end{minipage}\tabularnewline
@@ -267,6 +266,20 @@ Fructose\strut
 Controvercial\strut
 \end{minipage} & \begin{minipage}[t]{0.55\columnwidth}\raggedright
 Monomer\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+Starch\strut
+\end{minipage} & \begin{minipage}[t]{0.28\columnwidth}\raggedright
+Plant food reserve\strut
+\end{minipage} & \begin{minipage}[t]{0.55\columnwidth}\raggedright
+Small, branched alpha glucose\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+Glycogen\strut
+\end{minipage} & \begin{minipage}[t]{0.28\columnwidth}\raggedright
+ANimal energy reserve\strut
+\end{minipage} & \begin{minipage}[t]{0.55\columnwidth}\raggedright
+Lots of alpha glucose in more branches\strut
 \end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}

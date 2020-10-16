@@ -29,10 +29,12 @@ General chemical formula: $C_n H_{2n} O$
 |-----------|-----------------------------------------|--------------------------------------------------------------------------------|
 | Sucrose   | Common Sugar                            | Disachoride: Glucose + Fructose                                                |
 | Lactose   | The thing that's in milk                | Disachoride: Glucose + Galactose                                               |
-| Cellose   | We can't digest this, but plants use it | Polysacharides: beta-Glucose + beta-Glucose+ beta-beta-Glucose + ... + Glucose |
+| Cellose   | Plants' cell wall we can't digest | Polysacharides from: beta-Glucose |
 | Glucose   | Bulding block of sugar                  | Monomer                                                                        |
-| Galactose |                                         | Monomer                                                                        |
+| Galactose | Sugar sweeter than sugar | Monomer                                                                        |
 | Fructose  | Controvercial                           | Monomer                                                                        |
+| Starch | Plant food reserve | Small, branched alpha glucose |
+| Glycogen | ANimal energy reserve | Lots of alpha glucose in more branches |
 
 ## Making and Breaking -mers
 **Creating a polymer ("dehydration")**

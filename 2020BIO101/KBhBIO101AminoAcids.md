@@ -1,5 +1,5 @@
 ---
-title: Amino Acid
+title: Amino Acids, Functional Groups
 source: 
     - KBBiologyMasterIndex
     - KBhBIO101Macromolecules
@@ -12,9 +12,18 @@ course: BIO101
 # Amino Acids
 
 ## Basics
-H-O-C: Alcahol Group
-C=O: Carbonyl
-(H-O-C=O) Carboxylic acid + Single Carbon Backbone +  Amine (H3N+)
+### Functional Groups
+Components of amino acids that, well, build an amino acid:
+
+- Alcohol Group: H-O-R (part of the Carboxyl when R=C, as in H-O-C)
+- Carbonyl: C=O (part of carboxyl)
+- Carboxyl/Carboxylic Acid: H-O-C=O  (left side of backbone) ![[Screen Shot 2020-10-12 at 2.29.28 PM]]
+- Ether: R-O-R (structure of glycocidic bonds formed by dehydration)
+- Ester: R-O-C-O (structure that joins fatty acid and glycerol together)
+- Hydroxyl: OH group. Need I say more?
+
+### The Dang Amino Acids
+An Amino Acid is... **(H-O-C=O) Carboxylic acid + Single Carbon Backbone +  Amine (H3N+)**
 
 At the carbon backbone, any arbiturary thing "R group, or Sidechain" may be connected to it {ring, chain, etc.} that is unique to the amino acid
 

@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Structure of lipids, Fatty Acids, Glycerol }
+\newcommand{\thecourse}{ SPAN201 }
+\newcommand{\thelesson}{ Direct and Indirect objects }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -165,99 +165,26 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBhBIO101Lipids}{\tiny\textulf{[[}\textbf{KBhBIO101Lipids}\textulf{]]}}}\thinspace
 
-\hypertarget{structure-of-lipids}{%
-\section{Structure of Lipids}\label{structure-of-lipids}}
+\hypertarget{dop}{%
+\subsection{DOP}\label{dop}}
 
-\hypertarget{fatty-acids}{%
-\subsection{Fatty acids}\label{fatty-acids}}
+Me Te Lo(s)/La(s) Nos-
 
-\begin{figure}
-\centering
-\includegraphics{./Screen Shot 2020-09-09 at 2.58.49 PM.png}
-\caption{Screen Shot 2020-09-09 at 2.58.49 PM.png}
-\end{figure}
+\hypertarget{idop}{%
+\subsection{IdOP}\label{idop}}
 
-A single penteine and embellishments. \textbf{Single Fatty acids =
-Glycerol}
+Me Te Le(s) Nos
 
-\hypertarget{trygricerol}{%
-\subsection{Trygricerol}\label{trygricerol}}
-
-\textbf{Fat! (a.k.a. adapose tissue) = Triglycerol: three fatty acids
-together.}
-
-\begin{figure}
-\centering
-\includegraphics{Fat_triglyceride_shorthand_formula.png}
-\caption{Fat\_triglyceride\_shorthand\_formula.png}
-\end{figure}
-
-\hypertarget{saturated-vs.-unsaturated-fats}{%
-\subsubsection{Saturated vs.~Unsaturated
-fats}\label{saturated-vs.-unsaturated-fats}}
-
-\textbf{Saturate Fats} \emph{No double bonds} in the carbon chain ---
-think! butter
-
-\textbf{Unsaturated Fats} \emph{Double bonds} in the carbon chain ---
-think! olive oils
-
-Saturated fats has a higher melting point then the unsaturated fats, but
-unsaturated fats have double bonds whereas saturated fats have single
-bonds only. Why?
+\hypertarget{combining}{%
+\subsection{Combining}\label{combining}}
 
 \begin{itemize}
 \tightlist
 \item
-  Double bonds, due to their caused VESPR geometry (and hence the -1
-  hydrogen), are curved. This makes it harder to stack together, causing
-  a lower melting point
+  Start with the IdOP
 \item
-  Single bonds, due to their caused VESPR geometry, is flat. This makes
-  them easier to stack together, causing a higher melting point.
+  And then say the DOP
 \end{itemize}
-
-\hypertarget{phosophilids}{%
-\subsection{Phosophilids}\label{phosophilids}}
-
-\textbf{2 fatty acids (hydrophobic) + phosphate group (hydrophillic)}
-
-\begin{figure}
-\centering
-\includegraphics{./Screen Shot 2020-09-09 at 3.15.41 PM.png}
-\caption{Screen Shot 2020-09-09 at 3.15.41 PM.png}
-\end{figure}
-
-A combination of many of these will end up with membrane:
-\includegraphics{./Screen Shot 2020-09-09 at 3.08.10 PM.png}
-
-The hydrophobic tail stays inside, and the hydrophillic head pokes
-outside and attracts water.
-
-\hypertarget{liposomes-micelles}{%
-\subsection{Liposomes + micelles}\label{liposomes-micelles}}
-
-\textbf{Lots of phosophillids}
-
-\begin{figure}
-\centering
-\includegraphics{./Screen Shot 2020-09-09 at 3.11.54 PM.png}
-\caption{Screen Shot 2020-09-09 at 3.11.54 PM.png}
-\end{figure}
-
-A same idea as Phosophilids, but instead in a big wad of Phosolipids.
-this arrangement is also how basic cells form membranes.
-{[}{[}KBhBIO101CellMembraines{]}{]}
-
-\hypertarget{steroids}{%
-\subsection{Steroids}\label{steroids}}
-
-\begin{figure}
-\centering
-\includegraphics{./Screen Shot 2020-09-11 at 2.43.35 PM.png}
-\caption{Screen Shot 2020-09-11 at 2.43.35 PM.png}
-\end{figure}
 
 \end{document}
