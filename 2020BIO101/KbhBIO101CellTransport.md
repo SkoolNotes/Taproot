@@ -7,7 +7,7 @@ course: BIO101
 
 # Cell Membrane Protean Transports 
 ## Simple Diffusion
-Due to the wonderful nature of **ENTROPY!!!**, things just tend to 
+Due to the wonderful nature of **ENTROPY!!!**, things just tend to spread out from high to low 
 
 ## Passive diffusion
 - **Passive… Passive Diffusion**: Non-Polar things simply "fall in" in the direction of chemical gradient
