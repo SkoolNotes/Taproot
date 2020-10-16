@@ -26,9 +26,7 @@ source: #index
 - [[KBe20bio201retDietFinderIndex]]
 
 ## Cells
-- [[KBhBIO101Cells]]
-- [[KbhBIO101CellTransport]]
-- [[KBhBIO101CellMembraines]]
+ [[KBhBIO101Cells]]
 
 ## Unsorted
 
