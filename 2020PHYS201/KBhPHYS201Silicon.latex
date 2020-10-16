@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3585)}}    % original
-%\rhead{\textrmlf{Compiled }\#3585\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3585\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3586)}}    % original
+%\rhead{\textrmlf{Compiled }\#3586\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3586\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -201,7 +201,8 @@
   \item
     n-type transitior sandwich a p type region
   \item
-    A charge on the gate wolud cause the charge to go through
+    A charge on the gate wolud cause the charge to go through from
+    source =\textgreater{} drain
   \item
     Vise, versa
   \end{itemize}
@@ -216,6 +217,8 @@
   etch patters
 \item
   Then, lazers/plasma/acid guides etching of the wafer suface
+\item
+  Plasma implimant impurities to cause
 \item
   Photoresist then washed off
 \item

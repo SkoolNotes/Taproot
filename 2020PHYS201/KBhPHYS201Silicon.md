@@ -19,12 +19,12 @@ source: KBPhysicsMasterIndex
 
 -   CMOS
 	-  n-type transitior sandwich a p type region
-	-  A charge on the gate wolud cause the charge to go through
+	-  A charge on the gate wolud cause the charge to go through from source => drain
 	- Vise, versa
 - Meaning, when the P-N circut combinations are on, the N-P combination is off   
 - High temperature used to grow sillicon dioxide to protect the sillicon as sillicon interacts with pure exygen
 - Photoresist smeared on the wafer, and light is exposed to each part to etch patters
 - Then, lazers/plasma/acid guides etching of the wafer suface
+- Plasma implimant impurities to cause
 - Photoresist then washed off
 - The wafer is then cleaned off
-
