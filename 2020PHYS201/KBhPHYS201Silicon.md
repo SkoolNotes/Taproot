@@ -15,6 +15,7 @@ source: KBPhysicsMasterIndex
 - Christle ground to form ingots
 - Then, sliced thin as wafers
 - Wafers are then ground thin + removed of surface contaminates
-- 
+- Then, wafers are checked for resistivity
+-   
 
 
