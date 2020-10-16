@@ -20,6 +20,15 @@
 **** based on organization of the chip
 **** establish microarchitecture that regulates sequences and timings
 **** design divided into areas
+***** each unit given to logic designer
+***** each functional block given to circuit designer who works at transistor level
+*** transistors
+**** represents digital zero or one
+**** C-MOS transistors
+***** complementary metal oxidized transistor
+***** n type transistor
+****** surrounded by n-type
+****** sandwhiching a p-type layer
 ** structure
 *** cubic atomic structure
 *** 4 electrons valence shell
