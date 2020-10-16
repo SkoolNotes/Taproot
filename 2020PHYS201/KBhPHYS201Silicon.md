@@ -20,6 +20,7 @@ source: KBPhysicsMasterIndex
 -   CMOS
 	-  n-type transitior sandwich a p type region
 	-  A charge on the gate wolud cause the charge to go through
-	- Vise, versa  
+	- Vise, versa
+- Meaning, when the P-N circut combinations are on, the N-P combination is off   
 
 
