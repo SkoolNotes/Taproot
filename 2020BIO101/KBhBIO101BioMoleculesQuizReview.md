@@ -13,10 +13,6 @@ author: Houjun Liu
 And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 
 """
-- **Enzymes lower the activation energy by some combination of…**
-	- Orienting the reactions substrate(s) to promote more effective collisions (and therefore reactions
-	- Stressing or straining bonds to temporarily and/or slightly lower the strength of attraction to allow the bond to break more easily
-	- Involving amino acid R-groups or sidechains in creating the transition state between reactants and products
 	
 Enzymes have active sites that bring substrates together and may change shape to stabilize the transition state; known as Induced Fit upon binding active site and slight change in enzyme shape.
 

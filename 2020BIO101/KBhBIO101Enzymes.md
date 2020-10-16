@@ -29,7 +29,7 @@ A macromolecular **catalyst**, it...
 2. The enzyme rearrange itself slightly to hold the enzyme in place
 3. A cofactor ("catalyst to the catalyst")  also bind to the active sites
 
-Enzymes minimize the **activation energy hump**
+Enzymes minimize the **activation energy hump** 
 
 ## Why do Enzymes work?
 There are three main ways that Enzymes work:
@@ -38,7 +38,15 @@ There are three main ways that Enzymes work:
 2. Changing the substrate to gavourable orientation
 3. Active site animo acids rearranging electrons + creating partial charges to favor a reaction
 
-**Remember: The Fundimental Energy Difference does not change whether or not reactions are helped by the Enzyme.**
+Or, in Dr. Hauser's Words
+
+"""
+- Orienting the reactions substrate(s) to promote more effective collisions (and therefore reactions
+- Stressing or straining bonds to temporarily and/or slightly lower the strength of attraction to allow the bond to break more easily
+- Involving amino acid R-groups or sidechains in creating the transition state between reactants and products
+"""
+
+**Remember: The Fundamental Energy Difference does not change whether or not reactions are helped by the Enzyme.**
 
 For more information about the reaction hump and its related energy changes, see [[KBhBIO101Enthalpy]], and [[KBhBIO101Entropy]].
 
