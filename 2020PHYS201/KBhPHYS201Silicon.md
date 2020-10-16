@@ -36,3 +36,6 @@ Then, the actual circut wires are introduced:
 3. Depositivion of tusten as pulig 
 4. Deposition + potterning of alluminum alloy as wires
 
+***
+
+Lastly, the water is put into pieces to be placed onto circuts.
