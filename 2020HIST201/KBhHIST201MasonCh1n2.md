@@ -169,4 +169,4 @@ author: Houjun Liu
 		* Radical/Abolitionist
 		* Feminist
 		* Moderate
-		* Conservative
+		* Conservative <- **** 
