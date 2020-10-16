@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3597)}}    % original
-%\rhead{\textrmlf{Compiled }\#3597\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3597\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3598)}}    % original
+%\rhead{\textrmlf{Compiled }\#3598\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3598\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -229,7 +229,10 @@ contiuous at a}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  \(\lim_{x\to a} f(x)\)
+  \(\lim_{x\to a} f(x)\) exists
+\item
+  \(f(a)\) exists
+\item
 \end{enumerate}
 
 \begin{figure}

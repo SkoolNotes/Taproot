@@ -39,10 +39,18 @@ Sometimes
 
 *Notice th edefinitiion implicitely requeres three things if f is contiuous at a*
 
-1. $\lim_{x\to a} f(x)$
+1. $\lim_{x\to a} f(x)$ exists
+2. $f(a)$ exists
+3. 
 
 ![threestepslimit.png](threestepslimit.png)
 
 \definition{Removable discontinuity}{Removeable discontinuity are often holes. They are discontinuities that, with an additional definition, one could remove.}
 
 For instance, $f(x) = \frac{x^2-x-2}{x-2}$ has a hole at $x=2$, but if we defined a value for $x=2$, our lovely discontinuity is immediately removed.
+
+\defintion{Infitinite discontinuity}{Functions that approch infinity}
+
+\definition{Jump discontinuity}{}
+
+![[jumpdisc.png]]
