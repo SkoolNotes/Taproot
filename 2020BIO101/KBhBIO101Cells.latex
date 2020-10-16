@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3513)}}    % original
-%\rhead{\textrmlf{Compiled }\#3513\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3513\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3514)}}    % original
+%\rhead{\textrmlf{Compiled }\#3514\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3514\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,5 +182,19 @@
   \textbf{Eukaryotic cells} --- in multicellular cell elements, contains
   a plasma membranes and nucleus
 \end{itemize}
+
+\hypertarget{eukaryotic-cells-compare-and-contrast}{%
+\subsection{Eukaryotic Cells, Compare and
+Contrast}\label{eukaryotic-cells-compare-and-contrast}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+Animal Cells & Plant Cells\tabularnewline
+\midrule
+\endhead
+No cell wall & Has cell wall\tabularnewline
+No chloroplast & Has chloroplast to do\tabularnewline
+\bottomrule
+\end{longtable}
 
 \end{document}
