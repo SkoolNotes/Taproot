@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3519)}}    % original
-%\rhead{\textrmlf{Compiled }\#3519\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3519\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3520)}}    % original
+%\rhead{\textrmlf{Compiled }\#3520\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3520\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -192,8 +192,10 @@ Cells}\label{prokaryotic-vs-eukaryotic-cells}}
 Prokaryotic Cells & Both & Eukaryotic Cells\tabularnewline
 \midrule
 \endhead
-Has cell wall & DNA & Has plasma membrane\tabularnewline
-Has capsule container & &\tabularnewline
+Cell wall & DNA & Plasma membrane\tabularnewline
+Capsule container & Cytoplasm & Nucleus\tabularnewline
+& Ribosomes & Mitochondria\tabularnewline
+& Membranes &\tabularnewline
 \bottomrule
 \end{longtable}
 

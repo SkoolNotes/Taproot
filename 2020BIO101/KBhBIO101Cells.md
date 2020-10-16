@@ -13,8 +13,10 @@ author: Houjun Liu
 ## Prokaryotic vs Eukaryotic Cells
 | Prokaryotic Cells | Both | Eukaryotic Cells |
 |---|---|---|
-| Has cell wall | DNA | Has plasma membrane 
-| Has capsule container |  
+| Cell wall | DNA | Plasma membrane |
+| Capsule container | Cytoplasm | Nucleus |
+| | Ribosomes | Mitochondria |
+| | Membranes | |
 
 ## Plant and Animal Cells, Compare and Contrast
 | Animal Cells | Plant Cells |
