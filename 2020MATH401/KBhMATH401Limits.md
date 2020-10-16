@@ -37,7 +37,7 @@ $\lim_{x \to a} f(x) \neq f(a)$.
 
 Sometimes 
 
-*A function is continuous at $x=a$ if ALL OF the following thr
+*A function is continuous at $x=a$ if ALL OF the following three conditions:$
 
 1. $\lim_{x\to a} f(x)$ exists
 2. $f(a)$ exists
@@ -57,5 +57,5 @@ Like...
 
 ![jumpdisc.png](jumpdisc.png)
 
-As you could see, if you 
+As you could see, if you try to fix the discontinuity, this would result in vertical lines, which is #il
 
