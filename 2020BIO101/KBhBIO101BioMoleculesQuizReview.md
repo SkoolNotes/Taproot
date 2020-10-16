@@ -12,18 +12,6 @@ author: Houjun Liu
 
 And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 
-## Proteins Structures and Function
-* The functions of proteins are varied because the primary sequence can be varied, effectively building any shape protein to do its specific function
-* Form = function is the idea that the shape or form a protein takes through the combination of primary, secondary, tertiary, or quaternary structure determines how it will then function. Any changes to the structure will have some impact on its function and the more the structure is affected the more the function is likely to impacted
-* 
-
-## Cell Structure
-* Enzymes? [[KBhBIO101Enzymes]]
-
-OK, so. Apparently Paul just answered the rest of his questions.
-
-And I quote
-
 """
 
 **Enzymes are catalysts. They speed reaction rates but do not affect the change in free energy of the reaction (the difference in potential energy between reactants and products).**

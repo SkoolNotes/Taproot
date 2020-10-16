@@ -12,9 +12,15 @@ All cell uses _rybozome_ to force [[KBhBIO101AminoAcids]] together to make prote
 
 Proteins, when unfolded, is a long chain of amino acids. When they are folded in different configurations, you get a working protean.
 
+***
+
 The functions of proteins are varied because the primary sequence can be varied, effectively building any shape protein to do its specific function
 
-**Form = function** is the idea that the shape or form a protein takes through the combination of primary, secondary, tertiary, or quaternary structure determines how it will then function. Any changes to the structure will have some impact on its function and the more the structure is affected the more the function is likely to impacted
+**Form = function** is the idea that the shape or form a protein takes through the combination of primary, secondary, tertiary, or quaternary structure determines how it will then function. Any changes to the structure will have some impact on its function and the more the structure is affected the more the function is likely to impacted.
+
+Functions => defense, movement, structure, transport, cell to cell signaling, etc.
+
+***
 
 "The Protean Folding Problem" => can we find the fold of the protean just by the unfolded amino acids?
 

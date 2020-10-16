@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3547)}}    % original
-%\rhead{\textrmlf{Compiled }\#3547\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3547\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3550)}}    % original
+%\rhead{\textrmlf{Compiled }\#3550\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3550\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -181,7 +181,22 @@ could get proteans to fold.
 Proteins, when unfolded, is a long chain of amino acids. When they are
 folded in different configurations, you get a working protean.
 
-Different folds result in differenta functions
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+The functions of proteins are varied because the primary sequence can be
+varied, effectively building any shape protein to do its specific
+function
+
+\textbf{Form = function} is the idea that the shape or form a protein
+takes through the combination of primary, secondary, tertiary, or
+quaternary structure determines how it will then function. Any changes
+to the structure will have some impact on its function and the more the
+structure is affected the more the function is likely to impacted.
+
+Functions =\textgreater{} defense, movement, structure, transport, cell
+to cell signaling, etc.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 ``The Protean Folding Problem'' =\textgreater{} can we find the fold of
 the protean just by the unfolded amino acids?
