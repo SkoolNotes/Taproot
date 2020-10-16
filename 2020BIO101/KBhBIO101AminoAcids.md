@@ -1,8 +1,6 @@
 ---
 title: Amino Acids, Functional Groups
-source: 
-    - KBBiologyMasterIndex
-    - KBhBIO101Macromolecules
+source: KBBiologyMasterIndex
 author: Houjun Liu
 course: BIO101
 ---
