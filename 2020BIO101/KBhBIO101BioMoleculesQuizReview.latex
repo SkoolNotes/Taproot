@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3525)}}    % original
-%\rhead{\textrmlf{Compiled }\#3525\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3525\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3527)}}    % original
+%\rhead{\textrmlf{Compiled }\#3527\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3527\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,6 +182,7 @@ And Jack's raw answers: {[}{[}KBhBIO201BioMoleculesRAW{]}{]}
 \subsection{Cell Structures}\label{cell-structures}}
 
 \begin{itemize}
+\tightlist
 \item
   Organizing organelles based on membranes \#ASK
 
@@ -251,37 +252,6 @@ And Jack's raw answers: {[}{[}KBhBIO201BioMoleculesRAW{]}{]}
   \end{itemize}
 \item
   Cell Components. Basicall all of these exist only in Eukareotic cells
-
-  \begin{itemize}
-  \tightlist
-  \item
-    flagella and cilia
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Flagella =\textgreater{} a bacteria's tail --- allow them to move
-      and also act as an sensory organ. longer than a cilla, and moves
-      in sinosoidial pattern.
-    \item
-      Cilium =\textgreater{} a cell's ``hair'' --- provides sensory and
-      communications functions. Motil cilla could move about to ``grab''
-      things, and non-motile cilla can't move. more abundant that the
-      flagella, and moves in circular pattern if they do move, and moves
-      in circular pattern if they do move
-    \end{itemize}
-  \item
-    Ribosomes and Golgi apparatus
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Ribosomes =\textgreater{} synthesizes proteins
-    \item
-      Golgi apparatus =\textgreater{} packs, modifying, and moving
-      proteins
-    \end{itemize}
-  \end{itemize}
 \end{itemize}
 
 \hypertarget{plasma-membrane-structure-transport}{%

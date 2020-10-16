@@ -33,13 +33,6 @@ And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 		* Plastids => creates colours displayed in the chromoplasts
 * Cell Components. Basicall all of these exist only in Eukareotic cells
 
-	
-	* flagella and cilia 
-		* Flagella => a bacteria's tail — allow them to move and also act as an sensory organ. longer than a cilla, and moves in sinosoidial pattern.
-		* Cilium => a cell's "hair" — provides sensory and communications functions. Motil cilla could move about to "grab" things, and non-motile cilla can't move. more abundant that the flagella, and moves in circular pattern if they do move, and moves in circular pattern if they do move
-	* Ribosomes and Golgi apparatus
-		* Ribosomes => synthesizes proteins
-		* Golgi apparatus => packs, modifying, and moving proteins 
 
 ## Plasma Membrane Structure + transport
 * Lipid structure and substructures: [[KBhBIO101Lipids]]

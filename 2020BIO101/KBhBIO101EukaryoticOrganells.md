@@ -15,6 +15,10 @@ source: KBhBIO101Cells
 * **Rough ER** — covered by ribosomes and folds [[KBhBIO101Proteins]] proteins
 * **Smooth ER** — not covered by ribosomes and makes [[KBhBIO101Lipids]] lipids
 
+## Ribosomes and Golgi apparatus
+* **Ribosomes** => synthesizes proteins
+* **Golgi apparatus** => packs, modifying, and moving proteins 
+
 ## Cell Wall and Plasma Membrane
 * **Cell Wall** — found in plants => surround the cell: hard
 * **Plasma membrane** — found in animals => surround the cell: soft [[KBhBIO101Lipids]] lipids
@@ -34,5 +38,9 @@ source: KBhBIO101Cells
 ## Cytoskeleton and Microtubules
 * **Cytoskeleton** => complex network of proteins + fibres that organize the rest of the cell
 * **Microtubulues** => Polymers of tubulin protein that provides the main structure of eukarotic cells 
+
+## Flagella and Cilia 
+* **Flagella** => a bacteria's tail — allow them to move and also act as an sensory organ. longer than a cilla, and moves in sinosoidial pattern.
+* **Cilium** => a cell's "hair" — provides sensory and communications functions. Motil cilla could move about to "grab" things, and non-motile cilla can't move. more abundant that the flagella, and moves in circular pattern if they do move, and moves in circular pattern if they do move
 
 		
