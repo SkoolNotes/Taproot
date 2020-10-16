@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3615)}}    % original
-%\rhead{\textrmlf{Compiled }\#3615\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3615\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3616)}}    % original
+%\rhead{\textrmlf{Compiled }\#3616\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3616\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -299,6 +299,32 @@ wafer}\label{glass-plates-become-masks-used-to-transfer-the-circuit-pattern-onto
   \end{enumerate}
 \item
   etch stencil to silicon dioxide using photolithography
+\item
+  photoresist coated on wafers, then solvents inside the solution is
+  evaporated
+
+  \begin{enumerate}
+  \item
+    negative resist hardens when exposed
+  \item
+    positive resist changes and is removed when developed
+
+    \begin{enumerate}
+    \item
+      that's what is used in this run
+    \end{enumerate}
+  \end{enumerate}
+\item
+  computer controlled machine called stepper
+
+  \begin{enumerate}
+  \item
+    wafer positioned under selected mask pattern
+  \item
+    ultraviolet light projected onto photoresist
+
+    \textbf{***}
+  \end{enumerate}
 \end{enumerate}
 
 \hypertarget{design}{%
