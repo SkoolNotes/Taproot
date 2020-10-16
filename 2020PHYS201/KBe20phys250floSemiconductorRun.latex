@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3622)}}    % original
-%\rhead{\textrmlf{Compiled }\#3622\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3622\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3623)}}    % original
+%\rhead{\textrmlf{Compiled }\#3623\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3623\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -425,6 +425,33 @@ regrown?}\label{uniform-electrical-dioxide-regrown}}
 \subsubsection{more masks used with photoresist and cleaning to grower
 further
 complexity}\label{more-masks-used-with-photoresist-and-cleaning-to-grower-further-complexity}}
+
+\hypertarget{annealing}{%
+\subsubsection{annealing}\label{annealing}}
+
+\begin{enumerate}
+\item
+  ion implantation defects repaired
+\end{enumerate}
+
+\hypertarget{thick-glass-layer}{%
+\subsubsection{thick glass layer}\label{thick-glass-layer}}
+
+\begin{enumerate}
+\item
+  insulates all pieces
+\end{enumerate}
+
+\hypertarget{glass-surface-planarized}{%
+\subsubsection{glass surface
+planarized}\label{glass-surface-planarized}}
+
+\begin{enumerate}
+\item
+  using chemical and mechanical processes
+\item
+  chemical mechanical planalization (CMP) not used much anymore
+\end{enumerate}
 
 \hypertarget{design}{%
 \subsection{design}\label{design}}
