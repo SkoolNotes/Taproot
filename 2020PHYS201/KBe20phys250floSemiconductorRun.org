@@ -14,6 +14,8 @@
 *** all so that there are no scratches or contamination
 *** then, measured for resistivity
 **** function of dopant concentratian
+*** electron beam machine
+**** etches patterns onto chrome plated glass plates
 ** design
 *** circuit design
 *** organization of design team
@@ -22,6 +24,7 @@
 **** design divided into areas
 ***** each unit given to logic designer
 ***** each functional block given to circuit designer who works at transistor level
+**** mask designer draws out blueprints on paper
 *** transistors
 **** represents digital zero or one
 **** C-MOS transistors
@@ -32,6 +35,7 @@
 ****** gate electrode is near but not connect to the p type reigon
 ****** a positive charge in gate attracts electrons and allows electrons to pass
 ***** both types can be made on the same chip using "complementary manufacturing?"
+***** signals propogate through complex maze of switches
 ** structure
 *** cubic atomic structure
 *** 4 electrons valence shell

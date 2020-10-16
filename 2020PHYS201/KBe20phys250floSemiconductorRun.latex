@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3610)}}    % original
-%\rhead{\textrmlf{Compiled }\#3610\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3610\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3611)}}    % original
+%\rhead{\textrmlf{Compiled }\#3611\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3611\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -249,6 +249,8 @@ team}\label{organization-of-design-team}}
     each functional block given to circuit designer who works at
     transistor level
   \end{enumerate}
+\item
+  mask designer draws out blueprints on paper
 \end{enumerate}
 
 \hypertarget{transistors}{%
@@ -280,6 +282,8 @@ team}\label{organization-of-design-team}}
   \item
     both types can be made on the same chip using "complementary
     manufacturing?"
+  \item
+    signals propogate through complex maze of switches
   \end{enumerate}
 \end{enumerate}
 
