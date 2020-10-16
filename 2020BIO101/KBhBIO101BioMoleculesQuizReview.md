@@ -14,7 +14,6 @@ And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 
 """
 
-**Enzymes are catalysts. They speed reaction rates but do not affect the change in free energy of the reaction (the difference in potential energy between reactants and products).**
 
 - Activation energy is the amount of kinetic energy required to reach the transition state of a reaction.
 - Enzymes speed up a reaction by lowering the activation energy, often with the help of cofactors or coenzymes.

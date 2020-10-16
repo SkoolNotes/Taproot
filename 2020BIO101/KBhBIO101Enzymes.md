@@ -8,6 +8,8 @@ course: BIO101
 # Enzymes
 Proteins that build things up and break things down! 
 
+>  **Enzymes are catalysts. They speed reaction rates but do not affect the change in free energy of the reaction (the difference in potential energy between reactants and products).**
+
 A macromolecular **catalyst**, it...
 
 1. Speeds up the rate of reactions
