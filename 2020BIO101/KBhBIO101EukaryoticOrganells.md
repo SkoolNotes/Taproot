@@ -15,4 +15,7 @@ source: KBhBIO101Cells.md
 * **Rough ER** — covered by ribosomes and folds [[KBhBIO101Proteins]] proteins
 * **Smooth ER** — not covered by ribosomes and makes [[KBhBIO101Lipids]] lipids
 
+## cell wall and plasma membrane
+* **Cell Wall** — found in plants => surround the cell: hard
+* **Plasma membrane** — found in animals => surround the cell: soft [[KBhBIO101Lipids]]
 

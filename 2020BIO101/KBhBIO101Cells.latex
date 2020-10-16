@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3521)}}    % original
-%\rhead{\textrmlf{Compiled }\#3521\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3521\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3523)}}    % original
+%\rhead{\textrmlf{Compiled }\#3523\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3523\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -212,7 +212,7 @@ Contrast}\label{plant-and-animal-cells-compare-and-contrast}}
 Animal Cells & Plant Cells\tabularnewline
 \midrule
 \endhead
-No cell wall & Has cell wall\tabularnewline
+Has soft plasma membrane & Has hard cell wall\tabularnewline
 No chloroplast & Has chloroplast to do photosynthesis\tabularnewline
 Has cytoplasm & Has cytoplasm\tabularnewline
 Has Ribosomes & Has Ribsonmes\tabularnewline
@@ -235,5 +235,7 @@ DNA that is independent of the main cell itself.
 \hypertarget{organelles-in-eukaryotic-cells}{%
 \subsubsection{Organelles in Eukaryotic
 Cells}\label{organelles-in-eukaryotic-cells}}
+
+See {[}{[}KBhBIO101EukaryoticOrganells{]}{]}
 
 \end{document}

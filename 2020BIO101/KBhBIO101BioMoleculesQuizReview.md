@@ -33,11 +33,6 @@ And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 		* Plastids => creates colours displayed in the chromoplasts
 * Cell Components. Basicall all of these exist only in Eukareotic cells
 
-	* cell wall and plasma membrane
-		* Cell Wall — found in plants => surround the cell: hard
-		* Plasma membrane — found in animals => surround the cell: soft [[KBhBIO101Lipids]]
-	* rough endoplasmic reticulum (ER) and smooth ER	
-
 	* cytosol, cytoplasm and cytoskeleton
 		* Cytosol => liquid found inside cells; the "cytoplasm" floats within it
 		* Cytoplasm => all the stuff within the cell

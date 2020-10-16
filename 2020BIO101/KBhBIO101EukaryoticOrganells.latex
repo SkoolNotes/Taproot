@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3522)}}    % original
-%\rhead{\textrmlf{Compiled }\#3522\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3522\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3523)}}    % original
+%\rhead{\textrmlf{Compiled }\#3523\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3523\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -191,11 +191,25 @@ ER}\label{rough-endoplasmic-reticulum-er-and-smooth-er}}
 \begin{itemize}
 \tightlist
 \item
-  Rough ER --- covered by ribosomes and folds
-  {[}{[}KBhBIO101Proteins{]}{]}
+  \textbf{Rough ER} --- covered by ribosomes and folds
+  {[}{[}KBhBIO101Proteins{]}{]} proteins
 \item
-  Smooth ER --- not covered by ribosomes and makes
-  {[}{[}KBhBIO101Lipids{]}{]}
+  \textbf{Smooth ER} --- not covered by ribosomes and makes
+  {[}{[}KBhBIO101Lipids{]}{]} lipids
+\end{itemize}
+
+\hypertarget{cell-wall-and-plasma-membrane}{%
+\subsection{cell wall and plasma
+membrane}\label{cell-wall-and-plasma-membrane}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Cell Wall} --- found in plants =\textgreater{} surround the
+  cell: hard
+\item
+  \textbf{Plasma membrane} --- found in animals =\textgreater{} surround
+  the cell: soft {[}{[}KBhBIO101Lipids{]}{]}
 \end{itemize}
 
 \end{document}

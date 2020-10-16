@@ -22,7 +22,7 @@ author: Houjun Liu
 ### Plant and Animal Cells, Compare and Contrast
 | Animal Cells | Plant Cells |
 |---|---|
-| No cell wall | Has cell wall |
+| Has soft plasma membrane | Has hard cell wall |
 | No chloroplast | Has chloroplast to do photosynthesis |
 | Has cytoplasm | Has cytoplasm |
 | Has Ribosomes | Has Ribsonmes |
