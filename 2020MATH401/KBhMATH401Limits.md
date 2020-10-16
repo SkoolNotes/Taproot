@@ -39,4 +39,8 @@ Sometimes
 
 *Notice th edefinitiion implicitely requeres three things if f is contiuous at a*
 
-1. $\lim
+1. $\lim_{x\to a} f(x)$
+
+![threestepslimit.png](threestepslimit.png)
+
+\definition{Removable discontinuity}{Removeable discontinuity are often holes. They are discontinuities that, with an additional de
