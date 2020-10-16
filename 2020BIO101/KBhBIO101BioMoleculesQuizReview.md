@@ -14,13 +14,7 @@ And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 
 ## Plasma Membrane Structure + transport
 * Cell transport process
-	* Simple diffusion => things just spread out from high concentration to low concentrations
-	* Passive diffusion => non-polar molecules needed "fall in" through the phosolipid bi-layer
-	* Facilitated diffusion => specific polar molecules go along the gradient to get into the cell through transporter proteins. Osmosis is the facilitated diffusion, just of water + auquaporin.
-	* Phagocytosis => take a piece of the membrane with you to form a vesticle to introduce large solid elements, recycling the membrane after done — "cell eating"
-	* Pinocytosis => take a piece of the membrane with you to form a vesticle to introduce large area of the "outside" in — fluid and solid and all, recycling the membrane after done — "cell drinking"
-	* Endocytosis => Phagocytosis + Pinocytosis
-	* Extocytosis => opposite of endocytosis
+
 * Defining...
 	* Isotonic => inside and outside have the same level of "osmolarity": probablility for osmosis to happen through a semipermiable membrane
 	* Hypertonic => inside has less osmolarity than the outside: water/other elems will flow out of the cell

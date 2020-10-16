@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3542)}}    % original
-%\rhead{\textrmlf{Compiled }\#3542\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3542\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3545)}}    % original
+%\rhead{\textrmlf{Compiled }\#3545\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3545\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -183,37 +183,8 @@ And Jack's raw answers: {[}{[}KBhBIO201BioMoleculesRAW{]}{]}
 transport}\label{plasma-membrane-structure-transport}}
 
 \begin{itemize}
-\tightlist
 \item
   Cell transport process
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Simple diffusion =\textgreater{} things just spread out from high
-    concentration to low concentrations
-  \item
-    Passive diffusion =\textgreater{} non-polar molecules needed ``fall
-    in'' through the phosolipid bi-layer
-  \item
-    Facilitated diffusion =\textgreater{} specific polar molecules go
-    along the gradient to get into the cell through transporter
-    proteins. Osmosis is the facilitated diffusion, just of water +
-    auquaporin.
-  \item
-    Phagocytosis =\textgreater{} take a piece of the membrane with you
-    to form a vesticle to introduce large solid elements, recycling the
-    membrane after done --- ``cell eating''
-  \item
-    Pinocytosis =\textgreater{} take a piece of the membrane with you to
-    form a vesticle to introduce large area of the ``outside'' in ---
-    fluid and solid and all, recycling the membrane after done ---
-    ``cell drinking''
-  \item
-    Endocytosis =\textgreater{} Phagocytosis + Pinocytosis
-  \item
-    Extocytosis =\textgreater{} opposite of endocytosis
-  \end{itemize}
 \item
   Defining\ldots{}
 

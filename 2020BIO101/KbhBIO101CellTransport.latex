@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3544)}}    % original
-%\rhead{\textrmlf{Compiled }\#3544\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3544\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3545)}}    % original
+%\rhead{\textrmlf{Compiled }\#3545\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3545\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,7 +175,7 @@ Transports}\label{cell-membrane-protean-transports}}
 \subsection{Simple Diffusion}\label{simple-diffusion}}
 
 Due to the wonderful nature of \textbf{ENTROPY!!!}, things just tend to
-spread out from high to low
+spread out from high to low concentrations.
 
 \hypertarget{passive-diffusion}{%
 \subsection{Passive diffusion}\label{passive-diffusion}}
@@ -188,6 +188,8 @@ spread out from high to low
 \item
   \textbf{Facilitated Diffusion}: polar molecules selectively get
   through protean channels
+\item
+  \textbf{Osmosis}: facilitated diffusion of water through a membrane
 \end{itemize}
 
 \hypertarget{active-diffusion}{%
