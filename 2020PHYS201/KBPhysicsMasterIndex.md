@@ -20,14 +20,20 @@ source: #index
 	- [[KBe20phys201srcVoltageCurrentGravity2.pdf]]
  * PHET Simulation w/ Eletric Field
      * Jack [[KBhPHYS201PHETElectricFields]]
+	 
 ## Circuits
 - [[KBhPHYS201Capacitors]] 
 * [[KBhPHYS201CircuitsIndex]] Circuits!
+
 ### Capacitors
 - [[KBhPHYS201Capacitors]]
 - [[KBe20phys250retCapacitenceResistanceQuestion]]
 - [[KBe20phys250retCapacitorsLab]]
 - [[KBe20Phys201refCapacitorSeriesParralel]]
+
+## Silicon Things
+- [[KBhPHYS201Silicon]]
+
 
 # References
 * [[KBPHYS201ZachsPhysicsNotesForTest]] Physics quiz Notes
