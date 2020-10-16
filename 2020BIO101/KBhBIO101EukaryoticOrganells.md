@@ -8,7 +8,7 @@ source: KBhBIO101Cells
 # Organelles in Eukaryotic Cells
 
 ## An Introduction.
-Many organells exist in a cell — often more in Eukaryotic cells — that help execute the cell's functions. They serve a variety of purposes, and help form the basics of cellular systems. Some of them evolved to have membranes to do specific purps
+Many organells exist in a cell — often more in Eukaryotic cells — that help execute the cell's functions. They serve a variety of purposes, and help form the basics of cellular systems. 
 
 ## Chloroplast and Mitochondria
 * **Chloroplast** — found in plants + does photosynthesis
