@@ -33,13 +33,7 @@ And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 		* Plastids => creates colours displayed in the chromoplasts
 * Cell Components. Basicall all of these exist only in Eukareotic cells
 
-
-	* lysosomes and food vacuoles
-		* Lysosomes => vesticles that contains enzymes that breaks down biomolecules
-		* Food Vacoules => vesticels that stores food and other resources
-	* cytoskeleton and microtubules
-		* Cytoskeleton => complex network of proteins + fibres that organize the rest of the cell
-		* Microtubulues => Polymers of tubulin protein that provides the main structure of eukarotic cells 
+	
 	* flagella and cilia 
 		* Flagella => a bacteria's tail — allow them to move and also act as an sensory organ. longer than a cilla, and moves in sinosoidial pattern.
 		* Cilium => a cell's "hair" — provides sensory and communications functions. Motil cilla could move about to "grab" things, and non-motile cilla can't move. more abundant that the flagella, and moves in circular pattern if they do move, and moves in circular pattern if they do move

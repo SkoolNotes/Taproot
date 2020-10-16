@@ -19,10 +19,20 @@ source: KBhBIO101Cells.md
 * **Cell Wall** — found in plants => surround the cell: hard
 * **Plasma membrane** — found in animals => surround the cell: soft [[KBhBIO101Lipids]] lipids
 
-## Cytosol, cytoplasm and cytoskeleton
+## Cytosol, Cytoplasm and Cytoskeleton
 * **Cytosol** => liquid found inside cells; the "cytoplasm" floats within it
 * **Cytoplasm** => all the stuff within the cell
-* **Cytoskeleton** => complex network of proteins + fibers that organize the rest of the cell
 
+## Nucleus and Nucleolus
+* **Nucleus** => centre of the cell, stores DNA
+* **Nucleolus** => largest part of the nucleous that makes ribosomes
 
+## Lysosomes and Food Vacuoles
+* **Lysosomes** => vesticles that contains enzymes that breaks down biomolecules
+* **Food Vacoules** => vesticels that stores food and other resources
 
+* cytoskeleton and microtubules
+		* Cytoskeleton => complex network of proteins + fibres that organize the rest of the cell
+		* Microtubulues => Polymers of tubulin protein that provides the main structure of eukarotic cells 
+		
+		

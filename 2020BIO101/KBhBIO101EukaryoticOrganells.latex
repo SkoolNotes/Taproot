@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3524)}}    % original
-%\rhead{\textrmlf{Compiled }\#3524\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3524\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3525)}}    % original
+%\rhead{\textrmlf{Compiled }\#3525\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3525\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -213,8 +213,8 @@ Membrane}\label{cell-wall-and-plasma-membrane}}
 \end{itemize}
 
 \hypertarget{cytosol-cytoplasm-and-cytoskeleton}{%
-\subsection{Cytosol, cytoplasm and
-cytoskeleton}\label{cytosol-cytoplasm-and-cytoskeleton}}
+\subsection{Cytosol, Cytoplasm and
+Cytoskeleton}\label{cytosol-cytoplasm-and-cytoskeleton}}
 
 \begin{itemize}
 \tightlist
@@ -223,9 +223,36 @@ cytoskeleton}\label{cytosol-cytoplasm-and-cytoskeleton}}
   ``cytoplasm'' floats within it
 \item
   \textbf{Cytoplasm} =\textgreater{} all the stuff within the cell
+\end{itemize}
+
+\hypertarget{nucleus-and-nucleolus}{%
+\subsection{Nucleus and Nucleolus}\label{nucleus-and-nucleolus}}
+
+\begin{itemize}
+\tightlist
 \item
-  \textbf{Cytoskeleton} =\textgreater{} complex network of proteins +
-  fibers that organize the rest of the cell
+  \textbf{Nucleus} =\textgreater{} centre of the cell, stores DNA
+\item
+  \textbf{Nucleolus} =\textgreater{} largest part of the nucleous that
+  makes ribosomes
+\end{itemize}
+
+\hypertarget{lysosomes-and-food-vacuoles}{%
+\subsection{Lysosomes and Food
+Vacuoles}\label{lysosomes-and-food-vacuoles}}
+
+\begin{itemize}
+\item
+  \textbf{Lysosomes} =\textgreater{} vesticles that contains enzymes
+  that breaks down biomolecules
+\item
+  \textbf{Food Vacoules} =\textgreater{} vesticels that stores food and
+  other resources
+\item
+  cytoskeleton and microtubules * Cytoskeleton =\textgreater{} complex
+  network of proteins + fibres that organize the rest of the cell *
+  Microtubulues =\textgreater{} Polymers of tubulin protein that
+  provides the main structure of eukarotic cells
 \end{itemize}
 
 \end{document}
