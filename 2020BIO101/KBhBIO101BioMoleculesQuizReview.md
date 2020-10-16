@@ -11,13 +11,6 @@ author: Houjun Liu
 [... is here](https://docs.google.com/document/d/1wGN3RNZCN-hkP2gJe2C7FHGZi_-YfCE6aJCZy-0N53s/edit)
 
 And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
-
-## Carbohydrates
-* Monomers vs Polymers [[KBhBIO101StructuresofCarbs]]
-	* Monomer — single molecule (such as a monosacchride) that could be chained together to make polymers
-	* Polymers — complex molecues built from monomers
-	* Building polymers — dehydration reaction — taking out water molecules
-	* Destructing polymers — hydration reaction — adding in water molecules
 	
 ## Cell Structures
 * Prokaryotic vs. Eukaryotic

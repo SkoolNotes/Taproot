@@ -8,15 +8,11 @@ course: BIO101
 #disorganized
 
 # Amino Acids
-
 ## Basics
-
-See [[KBhBIO101FunctionalGroups]]
-
 ### Functional Groups
-Components of amino acids that, well, build an amino acid:
+Components of amino acids that, well, build an amino acid (among other things):
 
-
+See [[KBhBIO101FunctionalGroups]].
 
 ### The Dang Amino Acids
 An Amino Acid is... **(H-O-C=O) Carboxylic acid + Single Carbon Backbone +  Amine (H3N+)**
@@ -29,7 +25,7 @@ Here's an amino acid
 
 The White parts => "Backbone" aforementioned
 
-The Orange parts => "sidechain"
+The Orange parts => "Sidechain"
 
 ## Proteins 
 
