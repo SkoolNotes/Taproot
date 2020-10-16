@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3618)}}    % original
-%\rhead{\textrmlf{Compiled }\#3618\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3618\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3620)}}    % original
+%\rhead{\textrmlf{Compiled }\#3620\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3620\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -371,8 +371,35 @@ wafer}\label{glass-plates-become-masks-used-to-transfer-the-circuit-pattern-onto
     embed opposite ions that are later diffused into the well to become
     transistors
   \end{enumerate}
+\end{enumerate}
+
+\hypertarget{deposition-furnace}{%
+\subsubsection{deposition furnace}\label{deposition-furnace}}
+
+\begin{enumerate}
 \item
-  deposition furnace
+  deposits something resistive to protect?
+\end{enumerate}
+
+\hypertarget{second-mask}{%
+\subsubsection{second mask}\label{second-mask}}
+
+\begin{enumerate}
+\item
+  used to define actual transistor reigons
+\item
+  wafers devolped to remove exposed photoresist
+\item
+  then plasma etched to remove free flourine
+\item
+  then photoresist removed
+\item
+  wafers in oxidization furnace
+\item
+  thick insulating layer of sicilon dioxide grown over where previous
+  was etched
+\item
+  called field oxide
 \end{enumerate}
 
 \hypertarget{design}{%
