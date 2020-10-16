@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3536)}}    % original
-%\rhead{\textrmlf{Compiled }\#3536\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3536\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3537)}}    % original
+%\rhead{\textrmlf{Compiled }\#3537\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3537\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -172,6 +172,13 @@
 Membranes}\label{organizing-organelles-based-on-membranes}}
 
 By organizing {[}{[}KBhBIO101EukaryoticOrganells{]}{]} based on whether
-or not they have membranes, it helps us ga
+or not they have membranes, it helps us gauge the evolutionary history
+of cells.
+
+\hypertarget{membranous-organelles}{%
+\subsection{Membranous Organelles}\label{membranous-organelles}}
+
+These have membranes! They have their own plasma, regulates their own
+macromolecule consumption, hormones, etc. These may perhaps
 
 \end{document}
