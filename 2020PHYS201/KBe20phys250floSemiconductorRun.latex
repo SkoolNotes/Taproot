@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3616)}}    % original
-%\rhead{\textrmlf{Compiled }\#3616\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3616\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3617)}}    % original
+%\rhead{\textrmlf{Compiled }\#3617\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3617\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -322,9 +322,37 @@ wafer}\label{glass-plates-become-masks-used-to-transfer-the-circuit-pattern-onto
     wafer positioned under selected mask pattern
   \item
     ultraviolet light projected onto photoresist
-
-    \textbf{***}
   \end{enumerate}
+\item
+  etching
+
+  \begin{enumerate}
+  \item
+    wet etching can be bad
+
+    \begin{enumerate}
+    \item
+      can undercut photoresist
+    \end{enumerate}
+  \item
+    dry (plasma) etching
+
+    \begin{enumerate}
+    \item
+      use plasma to react away exposed silicon dioxide
+    \end{enumerate}
+  \end{enumerate}
+\item
+  removal of photoresist
+
+  \begin{enumerate}
+  \item
+    acid baths?
+  \item
+    hot oxygen?
+  \end{enumerate}
+\item
+  same thing repeated with each mask
 \end{enumerate}
 
 \hypertarget{design}{%
