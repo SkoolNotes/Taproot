@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3623)}}    % original
-%\rhead{\textrmlf{Compiled }\#3623\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3623\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3624)}}    % original
+%\rhead{\textrmlf{Compiled }\#3624\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3624\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -452,6 +452,14 @@ planarized}\label{glass-surface-planarized}}
 \item
   chemical mechanical planalization (CMP) not used much anymore
 \end{enumerate}
+
+\hypertarget{mask-6-define-contact-holes-for-metal-wiring}{%
+\subsubsection{mask 6: define contact holes for metal
+wiring}\label{mask-6-define-contact-holes-for-metal-wiring}}
+
+\hypertarget{plasma-etching-again-to-create-contact-holes}{%
+\subsubsection{plasma etching again to create contact
+holes}\label{plasma-etching-again-to-create-contact-holes}}
 
 \hypertarget{design}{%
 \subsection{design}\label{design}}
