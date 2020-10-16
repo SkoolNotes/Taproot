@@ -12,5 +12,9 @@ source: KBPhysicsMasterIndex
 	- Impurities added to sillicon to cause it to conduct
 	- Negative charged free carrier (asinic) => n type
 	- Positive charged carrier  (boron) => p type
+- Christle ground to form ingots
+- Then, sliced thin as wafers
+- Wafers are then ground thin + removed of surface contaminates
+- 
 
 
