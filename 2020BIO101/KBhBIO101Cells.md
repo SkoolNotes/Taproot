@@ -14,5 +14,8 @@ author: Houjun Liu
 | Animal Cells | Plant Cells |
 |---|---|
 | No cell wall | Has cell wall |
-| No chloroplast | Has chloroplast to do 
+| No chloroplast | Has chloroplast to do photosynthesis |
+| Has cytoplasm | Has cytoplasm |
+| Has Ribosomes | Has Ribsonmes |
+| Has M
 
