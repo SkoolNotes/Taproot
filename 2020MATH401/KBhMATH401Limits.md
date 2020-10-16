@@ -61,3 +61,6 @@ Like...
 
 As you could see, if you try to fix the discontinuity, this would result in vertical lines, which is illegal in functions.
 
+
+**Continuous-from-right**: $f(a) = \lim{x \to a^+} f(x)$
+**Continuous-from-left**: $f(a) = \lim{x \to a^-} f(x)$
