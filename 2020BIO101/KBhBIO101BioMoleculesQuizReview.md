@@ -17,9 +17,14 @@ And Jack's raw answers: [[KBhBIO201BioMoleculesRAW]]
 	- [[KBhBIO101Carbs]] & [[KBhBIO101StructuresofCarbs]]
 	- [[KBhBIO101Lipids]] & [[KBhBIO101StructuresOfLipids]]
 - **Proteins, Amino Acids, and Enzymes**
-	- [[KBhBIO101AminoAcids]]
+	- [[KBhBIO101AminoAcids]] & [[KBhBIO101FunctionalGroups]]
 	- [[KBhBIO101Proteins]]
-	- [[ 
+	- [[KBhBIO101Enzymes]] 
+- **Cell Structure, Type, and Transport**
+	- [[KBhBIO101Cells]]. Duh.
+	- [[KBhBIO101CellMembraines]]
+	- [[KbhBIO101CellTransport]]
+	- [[KBhBIO101EukaryoticOrganells]] + [[KBhBIO101OrganellsBasedOnMembranes]]
 
 ## Helpful review items
 

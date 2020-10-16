@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3559)}}    % original
-%\rhead{\textrmlf{Compiled }\#3559\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3559\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3560)}}    % original
+%\rhead{\textrmlf{Compiled }\#3560\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3560\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,14 +182,45 @@ And Jack's raw answers: {[}{[}KBhBIO201BioMoleculesRAW{]}{]}
 \subsection{Jack's Review Smanza}\label{jacks-review-smanza}}
 
 \begin{itemize}
+\tightlist
 \item
-  \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+  \textbf{Macromolecules}
 
   \begin{itemize}
   \tightlist
   \item
-    {[}{[}KBhBIO101Carbs{]}{]}
+    {[}{[}KBhBIO101Carbs{]}{]} \& {[}{[}KBhBIO101StructuresofCarbs{]}{]}
   \item
+    {[}{[}KBhBIO101Lipids{]}{]} \&
+    {[}{[}KBhBIO101StructuresOfLipids{]}{]}
+  \end{itemize}
+\item
+  \textbf{Proteins, Amino Acids, and Enzymes}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBhBIO101AminoAcids{]}{]} \&
+    {[}{[}KBhBIO101FunctionalGroups{]}{]}
+  \item
+    {[}{[}KBhBIO101Proteins{]}{]}
+  \item
+    {[}{[}KBhBIO101Enzymes{]}{]}
+  \end{itemize}
+\item
+  \textbf{Cell Structure, Type, and Transport}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBhBIO101Cells{]}{]}. Duh.
+  \item
+    {[}{[}KBhBIO101CellMembraines{]}{]}
+  \item
+    {[}{[}KbhBIO101CellTransport{]}{]}
+  \item
+    {[}{[}KBhBIO101EukaryoticOrganells{]}{]} +
+    {[}{[}KBhBIO101OrganellsBasedOnMembranes{]}{]}
   \end{itemize}
 \end{itemize}
 
