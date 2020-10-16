@@ -9,6 +9,8 @@ source: KBPhysicsMasterIndex
 - Integrated circuits changed computer circutries
 - Circuts's sillicon purified as polycillion chunks
 	- The cubic seed will form a new cubic sillicon
-	- 
+	- Impurities added to sillicon to cause it to conduct
+	- Negative charged free carrier (asinic) => n type
+	- Positive charged carrier  (boron) => p type
 
 
