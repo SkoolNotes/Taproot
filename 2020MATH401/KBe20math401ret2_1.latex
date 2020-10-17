@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3646)}}    % original
-%\rhead{\textrmlf{Compiled }\#3646\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3646\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3647)}}    % original
+%\rhead{\textrmlf{Compiled }\#3647\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3647\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -239,5 +239,10 @@ continuous over that range, they must cross somewhere in that range.
 \[
    \boxed{x = 0.8655 \pm 0.005}
    \]
+
+\hypertarget{section-7}{%
+\section{164}\label{section-7}}
+
+\[\boxed{\text{It's true.}}\]
 
 \end{document}
