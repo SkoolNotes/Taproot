@@ -79,6 +79,10 @@ Used a combination of actual, but also psycological war
 	
 ## De-christianization	in the District of Saint-Quetin
 * Believes that the christian institution is a "throne of terror"
-* 
+* Reason and philosophy should overtake it
+
+1. Cities need to remove crosses on churches, chapels, cemeteries, or public places
+2. Crosses should be replaced with national coat and colors
+3. All the items 
 
 
