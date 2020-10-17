@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3644)}}    % original
-%\rhead{\textrmlf{Compiled }\#3644\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3644\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3645)}}    % original
+%\rhead{\textrmlf{Compiled }\#3645\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3645\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -229,6 +229,8 @@ Let \(f(x) = \cos x\) and \(g(x) = x^3\). For \(a = 0\) and
    f(b) = 0
    g(b) = \frac{\pi^3}{8} > 1
    \end{aligned}
-   \] Because these functions traverse the
+   \] Because these functions each traverse \(y \le 0 \e 1\) over the
+interval \(0 \le x \le \frac{\pi}{2}\) in opposite directions and are
+continuous over that range, they must cross somewhere in that range.
 
 \end{document}
