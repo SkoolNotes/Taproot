@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3636)}}    % original
-%\rhead{\textrmlf{Compiled }\#3636\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3636\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3637)}}    % original
+%\rhead{\textrmlf{Compiled }\#3637\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3637\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -192,19 +192,22 @@
 \hypertarget{section-3}{%
 \section{141}\label{section-3}}
 
-\begin{itemize}
-\tightlist
-\item
-  \(\boxed{\text{Continuous}} \left(\frac{\cancel{(2u-1)}(3u+2)}{\cancel{2u-1}}\right)\)
-\end{itemize}
+\[
+  \boxed{\text{Continuous}} \left(\frac{\cancel{(2u-1)}(3u+2)}{\cancel{2u-1}}\right)
+  \]
 
 \hypertarget{section-4}{%
 \section{145}\label{section-4}}
 
-\begin{itemize}
-\tightlist
-\item
-  \(\boxed{x = -5}\)
-\end{itemize}
+\[
+  3x+2 = 2x-3 \implies \boxed{x = -5}
+  \]
+
+\hypertarget{section-5}{%
+\section{150}\label{section-5}}
+
+\[
+  \boxed{\text{The function is not continuous}}
+  \]
 
 \end{document}
