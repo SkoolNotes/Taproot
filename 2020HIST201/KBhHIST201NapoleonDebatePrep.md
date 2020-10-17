@@ -28,4 +28,6 @@ course: HIST201
 	* Public force for security should be instituted for the benifit of all in community, not the guy who manages it
 	* Taxes should be equally divided upon ability
 	* Every citizen has the right (through him or through his representative) to voice his opinions about the collection and distribution of taxes
-	* Every community has the right to
+	* Every community has the right to demand individuals of conduct review? #ASK
+	* Every community without seperation of power needs a constitution
+	* No one should be deprived of property
