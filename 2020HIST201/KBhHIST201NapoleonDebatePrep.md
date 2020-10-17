@@ -83,6 +83,6 @@ Used a combination of actual, but also psycological war
 
 1. Cities need to remove crosses on churches, chapels, cemeteries, or public places
 2. Crosses should be replaced with national coat and colors
-3. All the items 
+3. All the items taken should be inventoried
 
 
