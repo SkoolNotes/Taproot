@@ -17,4 +17,6 @@ course: HIST201
 	* Men are born and need to continue to be free; classes are only founded upon utility
 	* Political associations is created for the preservation of man's rights of liberty, property, security, and resistance to oppression
 	 * The Nation *per se* not ANY INDIVIDUAL or ANY BODY of men. (their caps, not mine) are the source of soverty
-	* Political liberty means that people could do whatever that does not harm others
+	* Political liberty means that people could do whatever that does not harm others + limit others liberties
+	* Law should only prohibit what's harmful to society. Extra-juditial requirements should not be imposed
+	* 
