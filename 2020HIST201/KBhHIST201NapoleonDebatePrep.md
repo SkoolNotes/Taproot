@@ -77,6 +77,8 @@ Used a combination of actual, but also psycological war
 	* Enforces rule and reputation throughout Europe
 	* Urges kings to rule constitutionally + with the public opionion
 	
-## De-christianization	
+## De-christianization	in the District of Saint-Quetin
+* Believes that the christian institution is a "throne of terror"
+* 
 
 
