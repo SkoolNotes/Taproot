@@ -24,4 +24,7 @@ course: HIST201
 	* Th law should imposed no penties that is not absolutely necessiary; no one should be punished unless trialed by law
 	* Everyone is presumed innocent until convinction
 	* No one should be molested on his opionions, not even his religious opionis — unless that disrupts public order
+	* Unstrstrained communication of thoughts is the most precious
+	* Public force for security should be instituted for the benifit of all in community, not the guy who manages it
+	* Taxes should be equally divided upon ability
 	* 
