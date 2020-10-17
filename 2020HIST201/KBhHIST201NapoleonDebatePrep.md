@@ -62,4 +62,5 @@ Used a combination of actual, but also psycological war
 * Brainwashes his solders to fight for the french Republic, using the king as scapegoat
 * Asked solders respect those who he liberate
 * "Waging war as generous enemies, and wish to only crush tyrants who enslave"
+* Believes that fascianism, imagination, and BRANDING rule the wrold
 * 
