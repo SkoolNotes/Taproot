@@ -13,5 +13,5 @@ course: HIST201
 
 * Ignorance, neglect, or contempt of human rights => sole causes of the French decline
 * Declares that "" must be unalianable rights
-* National Assemble recgonizes that...
-	* 
+* National Assemble recgonizes that, (under the authority of god)...
+	* Men are born and continue
