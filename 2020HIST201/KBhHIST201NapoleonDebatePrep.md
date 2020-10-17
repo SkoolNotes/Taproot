@@ -56,5 +56,6 @@ Jacobins like Robespierre supported the use of terror due to their believe that 
 		4. Laws for the people 
 
 ## Napoleon
+Used a combination of actual, but also psycological war
 
-
+* Believes that he himself will lead people
