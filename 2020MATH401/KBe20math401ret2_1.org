@@ -12,7 +12,7 @@
   $$
 * 140
   $$
-  \boxed{\text{Infinite discontinuity}} \frac{-1}{0}
+  \boxed{\text{Infinite discontinuity }} \frac{-1}{0}
   $$
 * 141
   $$
@@ -33,10 +33,10 @@
    Let $f(x) = \cos x$ and $g(x) = x^3$. For $a = 0$ and $b = \frac{\pi}{2}$:
    $$
    \begin{aligned}
-   f(a) = 1
-   g(a) = 0
-   f(b) = 0
-   g(b) = \frac{\pi^3}{8} > 1
+   f(a) &= 1\\
+   g(a) &= 0\\
+   f(b) &= 0\\
+   g(b) &= \frac{\pi^3}{8} > 1\\
    \end{aligned}
    $$
    Because these functions each traverse $y \le 0 \e 1$ over the interval $0 \le x \le \frac{\pi}{2}$ in opposite directions and are continuous over that range, they must cross somewhere in that range.
