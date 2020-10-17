@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3680)}}    % original
-%\rhead{\textrmlf{Compiled }\#3680\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3680\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3681)}}    % original
+%\rhead{\textrmlf{Compiled }\#3681\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3681\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -295,6 +295,16 @@ citizenship, and patriotism.
   \item
     Thinks that the Mercenary writers are, hence, the most dangerous of
     the people
+  \item
+    Wishes to send people to the traditional gathering of aristocracy to
+    quell loyalism, through\ldots{}
+
+    \begin{enumerate}
+    \def\labelenumi{\arabic{enumi}.}
+    \tightlist
+    \item
+      Proscrip
+    \end{enumerate}
   \end{itemize}
 \end{itemize}
 
