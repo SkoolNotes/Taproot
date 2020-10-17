@@ -19,4 +19,5 @@ course: HIST201
 	 * The Nation *per se* not ANY INDIVIDUAL or ANY BODY of men. (their caps, not mine) are the source of soverty
 	* Political liberty means that people could do whatever that does not harm others + limit others liberties
 	* Law should only prohibit what's harmful to society. Extra-juditial requirements should not be imposed
-	* Law is the will of the community,
+	* Law is the will of the community, and it should be equally ajudicated for all "without any distinction than that created by virtunes and talents."
+	* No one 
