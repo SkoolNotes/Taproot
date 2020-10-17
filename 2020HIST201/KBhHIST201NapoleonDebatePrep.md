@@ -64,3 +64,7 @@ Used a combination of actual, but also psycological war
 * "Waging war as generous enemies, and wish to only crush tyrants who enslave"
 * Believes that fascianism, imagination, and BRANDING rule the wrold
 * Believes that powerful leaders are ultimately the ones who need to know how to do everything
+	* Need to lead with force, activity, resolve to die
+	* Win over the people w. respect of religion
+* Power extends from erputation
+*  
