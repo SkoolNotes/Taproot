@@ -34,5 +34,9 @@ course: HIST201
 	
 ## Robespierre, Republic of Virtue
 
-Jacobins like Robespierre supported the use of terror due to their believe that terror was instrumental to rescue the Revolution from destruction. Sobspierre throught him
+Jacobins like Robespierre supported the use of terror due to their believe that terror was instrumental to rescue the Revolution from destruction. Sobspierre throught himself as the model of good virtunes, citizenship, and patriotism.
+
+* Argued that the goal is "peaceful enjoyment of liberty and equality; reign of eternal justice w/ laws in everyone"
+	* Low and cruel passions 
+* 
 
