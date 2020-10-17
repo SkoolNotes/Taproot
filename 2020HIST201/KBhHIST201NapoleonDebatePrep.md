@@ -70,4 +70,5 @@ Used a combination of actual, but also psycological war
 * Morale + opinion are half of the battle
 	* Make troops appear very numerous
 	* Make enemy's troops few and unloyal
-* Religion    
+* Religion is owning to the Emperor + in defense of his throne
+*    
