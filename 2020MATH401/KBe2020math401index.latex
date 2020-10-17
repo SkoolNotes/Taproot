@@ -108,7 +108,7 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{}
+\newcommand{\thecourse}{  }
 \newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3629)}}    % original
+%\rhead{\textrmlf{Compiled }\#3629\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3629\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -202,6 +204,7 @@ Easy\_3 & 2020-09-17 & {[}{[}KBe20math401retLight3{]}{]}\tabularnewline
 1\_4 & 2020-09-22 & {[}{[}KBe20math401ret1\_4{]}{]}\tabularnewline
 Easy\_4 & 2020-09-24 & {[}{[}KBe20math401retEasy4{]}{]}\tabularnewline
 1\_5 & 2020-09-30 & {[}{[}KBe20math401ret1\_5{]}{]}\tabularnewline
+2\_1 & 2020-10-20 & {[}{[}KBe20math401ret2\_1{]}{]}\tabularnewline
 \bottomrule
 \end{longtable}
 
