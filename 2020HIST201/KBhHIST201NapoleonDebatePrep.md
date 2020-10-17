@@ -74,4 +74,5 @@ Used a combination of actual, but also psycological war
 * Circled back to the fact that emperor derives power from emperor
 * Gives conquered contries a constitution and common code
 	* Wishes that changes would cause strength to monarchy
-	* Enforces rule and reputation throughout Europe 
+	* Enforces rule and reputation throughout Europe
+	* Urges kings to rule constitutionally + with the public opionion
