@@ -71,4 +71,4 @@ Used a combination of actual, but also psycological war
 	* Make troops appear very numerous
 	* Make enemy's troops few and unloyal
 * Religion is owning to the Emperor + in defense of his throne
-*    
+* Circled back to the fact that emperor derives power from emperor
