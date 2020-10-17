@@ -42,5 +42,8 @@ Jacobins like Robespierre supported the use of terror due to their believe that 
 	* Ambition will be desire to serve the nation
 	* Distinction grow out of equality
 	* Circular chain of responsibility, where everyone expands by communication of rebulican sentiments
-* => "To fufill the intentions of nature and the destiny of humanity, realize the promise of philosophy, quit of reign of crime an"
+* => "To fufill the intentions of nature and the destiny of humanity, realize the promise of philosophy, quit of reign of crime and tyranny"
+* Believes that aristocracy is not good enough; want a democratic/republican goverment
+* People regulate themselves with public affairs, and not a small group
+* 
 
