@@ -50,5 +50,11 @@ Jacobins like Robespierre supported the use of terror due to their believe that 
 	* Believes that the "vicious and the rich" will use "slander and hypocrisy" to achieve their means
 	* Thinks that the Mercenary writers are, hence, the most dangerous of the people
 	* Wishes to send people to the traditional gathering of aristocracy to quell loyalism, through...
-		1.  
+		1. Prohibiting counter-revolutionary writers
+		2. Punishment of traitors and conspirators, incl. deputies and admins
+		3. Appointment of patriotic generals + dismissal of all others
+		4. Laws for the people 
+
+## Napoleon
+
 
