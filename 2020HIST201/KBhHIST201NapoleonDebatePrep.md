@@ -7,4 +7,6 @@ course: HIST201
 
 # Napoleon Debate Prep Sources
 
+## Dec of Rights of Man and the Citizen
+**Created in conjunction of John Locke's Second Treatise**
 
