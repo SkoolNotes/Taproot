@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3653)}}    % original
-%\rhead{\textrmlf{Compiled }\#3653\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3653\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3654)}}    % original
+%\rhead{\textrmlf{Compiled }\#3654\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3654\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -178,7 +178,13 @@ Citizen}\label{dec-of-rights-of-man-and-the-citizen}}
 \emph{Created in conjunction of John Locke's Second Treatise, American
 Dec of I, and US Constitution}
 
-considering chat ignorance, neglect, or contempt of human rights, are
-the sole causes of public mis­ fortunes and corruptions of Government
+\begin{itemize}
+\tightlist
+\item
+  Ignorance, neglect, or contempt of human rights =\textgreater{} sole
+  causes of the French decline
+\item
+  Wanted to set f
+\end{itemize}
 
 \end{document}
