@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3645)}}    % original
-%\rhead{\textrmlf{Compiled }\#3645\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3645\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3646)}}    % original
+%\rhead{\textrmlf{Compiled }\#3646\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3646\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -232,5 +232,12 @@ Let \(f(x) = \cos x\) and \(g(x) = x^3\). For \(a = 0\) and
    \] Because these functions each traverse \(y \le 0 \e 1\) over the
 interval \(0 \le x \le \frac{\pi}{2}\) in opposite directions and are
 continuous over that range, they must cross somewhere in that range.
+
+\hypertarget{c}{%
+\subsection{c}\label{c}}
+
+\[
+   \boxed{x = 0.8655 \pm 0.005}
+   \]
 
 \end{document}
