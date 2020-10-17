@@ -66,6 +66,8 @@ source: #index
 ### The Enlightment + French Rev
 [[KBhHIST201EnlightenmentFrenchRev]]
 
+[[KBhHIST201NapoleonDebatePrep]]
+
 ### Reading Flos + Refs
 - Mason ch 1 + 2 [[KBhHIST201MasonCh1n2]]
     
