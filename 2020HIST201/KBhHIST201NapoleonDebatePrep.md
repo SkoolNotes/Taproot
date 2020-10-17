@@ -16,5 +16,5 @@ course: HIST201
 * National Assemble recgonizes that, (under the authority of god)...
 	* Men are born and need to continue to be free; classes are only founded upon utility
 	* Political associations is created for the preservation of man's rights of liberty, property, security, and resistance to oppression
-	 * The Nation *per se* not ANY INDIVIDUAL or ANY BODY of men. (their caps, not mine.)
-* 
+	 * The Nation *per se* not ANY INDIVIDUAL or ANY BODY of men. (their caps, not mine) are the source of soverty
+	* Political liberty means that people could do whatever that does not harm others
