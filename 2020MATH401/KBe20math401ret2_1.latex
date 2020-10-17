@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3631)}}    % original
-%\rhead{\textrmlf{Compiled }\#3631\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3631\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3632)}}    % original
+%\rhead{\textrmlf{Compiled }\#3632\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3632\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -174,7 +174,7 @@
 \begin{itemize}
 \tightlist
 \item
-  x=0, infinite
+  \(x \le 0\), infinite
 \end{itemize}
 
 \hypertarget{section-1}{%
@@ -184,6 +184,14 @@
 \tightlist
 \item
   no discontinuities
+\end{itemize}
+
+\hypertarget{section-2}{%
+\section{140}\label{section-2}}
+
+\begin{itemize}
+\tightlist
+\item
 \end{itemize}
 
 \end{document}
