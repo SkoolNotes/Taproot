@@ -58,4 +58,5 @@ Jacobins like Robespierre supported the use of terror due to their believe that 
 ## Napoleon
 Used a combination of actual, but also psycological war
 
-* Believes that he himself will lead people
+* Believes that he himself will lead Italian soldiers to salvation, honor, glory
+* 
