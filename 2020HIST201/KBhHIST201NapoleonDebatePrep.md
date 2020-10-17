@@ -31,3 +31,8 @@ course: HIST201
 	* Every community has the right to demand individuals of conduct review? #ASK
 	* Every community without seperation of power needs a constitution
 	* No one should be deprived of property
+	
+## Robespierre, Republic of Virtue
+
+Jacobins like Robespierre supported the use of terror due to their believe that terror was instrumental to rescue the Revolution from destruction. Sobspierre throught him
+
