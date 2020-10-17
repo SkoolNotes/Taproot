@@ -37,6 +37,10 @@ course: HIST201
 Jacobins like Robespierre supported the use of terror due to their believe that terror was instrumental to rescue the Revolution from destruction. Sobspierre throught himself as the model of good virtunes, citizenship, and patriotism.
 
 * Argued that the goal is "peaceful enjoyment of liberty and equality; reign of eternal justice w/ laws in everyone"
-	* Low and cruel passions 
-* 
+* Model of perfect society
+	* Low and cruel passions curbed
+	* Ambition will be desire to serve the nation
+	* Distinction grow out of equality
+	* Circular chain of responsibility, where everyone expands by communication of rebulican sentiments
+*  
 
