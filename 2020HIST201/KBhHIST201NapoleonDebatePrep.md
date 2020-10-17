@@ -22,5 +22,6 @@ course: HIST201
 	* Law is the will of the community, and it should be equally ajudicated for all "without any distinction than that created by virtunes and talents."
 	* No one should be arrested/held in confiement unless prescribed by the law
 	* Th law should imposed no penties that is not absolutely necessiary; no one should be punished unless trialed by law
-	* Everyone is presumed innocentuntil convinction
+	* Everyone is presumed innocent until convinction
+	* No one should be molested on his opionions, not even his religious opionis — unless that disrupts public order
 	* 
