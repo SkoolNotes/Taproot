@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3690)}}    % original
-%\rhead{\textrmlf{Compiled }\#3690\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3690\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3691)}}    % original
+%\rhead{\textrmlf{Compiled }\#3691\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3691\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -356,8 +356,9 @@ Used a combination of actual, but also psycological war
     Make troops appear very numerous
   \item
     Make enemy's troops few and unloyal
-  \item
   \end{itemize}
+\item
+  Religion
 \end{itemize}
 
 \end{document}
