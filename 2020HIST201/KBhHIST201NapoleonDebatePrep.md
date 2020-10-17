@@ -27,4 +27,5 @@ course: HIST201
 	* Unstrstrained communication of thoughts is the most precious
 	* Public force for security should be instituted for the benifit of all in community, not the guy who manages it
 	* Taxes should be equally divided upon ability
-	* Every citizen has the right (through him or through his representative) to voice his opionions 
+	* Every citizen has the right (through him or through his representative) to voice his opinions about the collection and distribution of taxes
+	* Every community has the right to
