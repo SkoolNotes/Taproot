@@ -14,4 +14,7 @@ course: HIST201
 * Ignorance, neglect, or contempt of human rights => sole causes of the French decline
 * Declares that "" must be unalianable rights
 * National Assemble recgonizes that, (under the authority of god)...
-	* Men are born and need to continue to be free.
+	* Men are born and need to continue to be free; classes are only founded upon utility
+	* Political associations is created for the preservation of man's rights of liberty, property, security, and resistance to oppression
+	 * The Nation *per se* not ANY INDIVIDUAL or ANY BODY of men. (their caps, not mine.)
+* 
