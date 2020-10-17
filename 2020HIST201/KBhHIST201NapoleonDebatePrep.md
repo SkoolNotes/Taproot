@@ -59,4 +59,7 @@ Jacobins like Robespierre supported the use of terror due to their believe that 
 Used a combination of actual, but also psycological war
 
 * Believes that he himself will lead Italian soldiers to salvation, honor, glory
+* Brainwashes his solders to fight for the french Republic, using the king as scapegoat
+* Asked solders respect those who he liberate
+* "Waging war as generous enemies, and wish to only crush tyrants who enslave"
 * 
