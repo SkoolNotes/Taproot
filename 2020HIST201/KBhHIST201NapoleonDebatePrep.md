@@ -48,5 +48,5 @@ Jacobins like Robespierre supported the use of terror due to their believe that 
 * Believes that, to achieve all of this, the French must go to war against tyranny
 	* => use of terror! "virtue, without which terror is destructive; terror, without which virtue is impotent"
 	* Believes that the "vicious and the rich" will use "slander and hypocrisy" to achieve their means
-	* 
+	* Thinks that the Mercenary writers are, hence, the most dangerous of the people
 
