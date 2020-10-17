@@ -45,5 +45,7 @@ Jacobins like Robespierre supported the use of terror due to their believe that 
 * => "To fufill the intentions of nature and the destiny of humanity, realize the promise of philosophy, quit of reign of crime and tyranny"
 * Believes that aristocracy is not good enough; want a democratic/republican goverment
 * People regulate themselves with public affairs, and not a small group
-* 
+* Believes that, to achieve all of this, the French must go to war against tyranny
+	* => use of terror
+	* 
 
