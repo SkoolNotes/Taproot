@@ -66,5 +66,8 @@ Used a combination of actual, but also psycological war
 * Believes that powerful leaders are ultimately the ones who need to know how to do everything
 	* Need to lead with force, activity, resolve to die
 	* Win over the people w. respect of religion
-* Power extends from erputation
-*  
+* Power extends from reputation
+* Morale + opinion are half of the battle
+	* Make troops appear very numerous
+	* Make enemy's troops few and unloyal
+	*   
