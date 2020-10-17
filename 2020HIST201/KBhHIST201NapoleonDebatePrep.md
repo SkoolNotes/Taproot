@@ -20,4 +20,7 @@ course: HIST201
 	* Political liberty means that people could do whatever that does not harm others + limit others liberties
 	* Law should only prohibit what's harmful to society. Extra-juditial requirements should not be imposed
 	* Law is the will of the community, and it should be equally ajudicated for all "without any distinction than that created by virtunes and talents."
-	* No one 
+	* No one should be arrested/held in confiement unless prescribed by the law
+	* Th law should imposed no penties that is not absolutely necessiary; no one should be punished unless trialed by law
+	* Everyone is presumed innocentuntil convinction
+	* 
