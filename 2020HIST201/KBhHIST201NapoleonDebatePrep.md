@@ -76,3 +76,7 @@ Used a combination of actual, but also psycological war
 	* Wishes that changes would cause strength to monarchy
 	* Enforces rule and reputation throughout Europe
 	* Urges kings to rule constitutionally + with the public opionion
+	
+## De-christianization	
+
+
