@@ -63,4 +63,7 @@ source: #index
  - The protein may spontaneously fold once constructed
  - Proteins share three superimposed levels of structure, known as primary, secondary, and tertiary structure
 	 - A fourth Quaternary structure arises once when a protein is made of two or more polypeptide chains
- - 
+ - Primary structure
+	 - A sequence of amino acids
+ - Secondary strucutre
+	 - These are coils and folds formed 
