@@ -3,5 +3,8 @@
 #+ TITLE: Algebraic Operations on Linear Maps
 
 * sum ($S+T$)
+  If $S, T \in \mathcal{L}(V, W)$ then the /sum/ $S + T$ is defined by
+  $$ (S+T)(v) = Sv + Tv $$
 
 * scalar product $\lambda T$
+  If $T \in \mathcal{L}(V, W)$ and $\lambda \in \mathbb{F}$ then the /product/ $(\lambda T)v = \lambda Tv$.
