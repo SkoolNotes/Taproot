@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3707)}}    % original
-%\rhead{\textrmlf{Compiled }\#3707\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3707\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3708)}}    % original
+%\rhead{\textrmlf{Compiled }\#3708\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3708\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,11 +175,11 @@ function \(T : V \to W\) with the following properties:
 \hypertarget{additivity}{%
 \subsection{Additivity}\label{additivity}}
 
-\[T(u+v) = Tu + Tv \all u, v \in V\]
+\[T(u+v) = Tu + Tv \forall u, v \in V\]
 
 \hypertarget{homogenity}{%
 \subsection{Homogenity}\label{homogenity}}
 
-\[T(\lambda v) = \lambda(T v) \all \lambda \in \mathbb{F}, v\in V\]
+\[T(\lambda v) = \lambda(T v) \forall \lambda \in \mathbb{F}, v\in V\]
 
 \end{document}

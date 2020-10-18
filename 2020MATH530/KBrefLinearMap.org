@@ -5,6 +5,6 @@
 #definition Linear Map
 A /linear map/ from $V$ to $W$ is a function $T : V \to W$ with the following properties:
 ** Additivity
-   $$T(u+v) = Tu + Tv \all u, v \in V$$
+   $$T(u+v) = Tu + Tv \forall u, v \in V$$
 ** Homogenity
-   $$T(\lambda v) = \lambda(T v) \all \lambda \in \mathbb{F}, v\in V$$
+   $$T(\lambda v) = \lambda(T v) \forall \lambda \in \mathbb{F}, v\in V$$
