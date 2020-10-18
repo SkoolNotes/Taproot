@@ -5,6 +5,9 @@
 * sum ($S+T$)
   If $S, T \in \mathcal{L}(V, W)$ then the /sum/ $S + T$ is defined by
   $$ (S+T)(v) = Sv + Tv $$
+  $(S+T)$ is a linear map.
 
 * scalar product $\lambda T$
-  If $T \in \mathcal{L}(V, W)$ and $\lambda \in \mathbb{F}$ then the /product/ $(\lambda T)v = \lambda Tv$.
+  If $T \in \mathcal{L}(V, W)$ and $\lambda \in \mathbb{F}$ then the /product/ $(\lambda T)v = \lambda Tv$. $\lambda T$ is a linear map.
+
+* Results

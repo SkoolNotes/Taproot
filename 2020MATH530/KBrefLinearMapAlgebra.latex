@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3739)}}    % original
-%\rhead{\textrmlf{Compiled }\#3739\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3739\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3740)}}    % original
+%\rhead{\textrmlf{Compiled }\#3740\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3740\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -170,13 +170,14 @@
 \section{\texorpdfstring{sum (\(S+T\))}{sum (S+T)}}\label{sum-st}}
 
 If \(S, T \in \mathcal{L}(V, W)\) then the \emph{sum} \(S + T\) is
-defined by \[ (S+T)(v) = Sv + Tv \]
+defined by \[ (S+T)(v) = Sv + Tv \] \((S+T)\) is a linear map.
 
 \hypertarget{scalar-product-lambda-t}{%
 \section{\texorpdfstring{scalar product
 \(\lambda T\)}{scalar product \textbackslash lambda T}}\label{scalar-product-lambda-t}}
 
 If \(T \in \mathcal{L}(V, W)\) and \(\lambda \in \mathbb{F}\) then the
-\emph{product} \((\lambda T)v = \lambda Tv\).
+\emph{product} \((\lambda T)v = \lambda Tv\). \(\lambda T\) is a linear
+map.
 
 \end{document}
