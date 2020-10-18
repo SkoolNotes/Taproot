@@ -48,6 +48,7 @@ source: #index
 		 - Keratin is an example
  
  
+ 
  ### Amino Acids
  
   - All amino acids share a common structure
@@ -72,4 +73,5 @@ source: #index
 	 - It is the overall shape of a polypeptide resulting from interactions between the side chains
  - Quaternary structure
 	 - This is the overall protein structure resulting from the polypeptide sub-units
+ - Primary structure is very fundamental and even a slight change can cause large consequences
  - 
