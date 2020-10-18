@@ -59,4 +59,5 @@ source: #index
 ### Protein Structure
 
  - The specific function of a protein is a result of their shape
+ - There is now easier sequencing of proteins, but originally it was very difficult
  - 
