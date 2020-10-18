@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3729)}}    % original
-%\rhead{\textrmlf{Compiled }\#3729\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3729\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3730)}}    % original
+%\rhead{\textrmlf{Compiled }\#3730\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3730\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -262,5 +262,20 @@ If \(v_1, \ldots, v_n\) is a basis of \(V\) and
 \(T : V\to W\) s.t. \[T v_j = w_j \forall j \in 1, \ldots, n\] \#aka
 given a basis \(v\) of \(V\), there is a unique linear map that maps
 \(v\) to each \(w \in W\).
+
+\hypertarget{careful}{%
+\subsubsection{\#careful}\label{careful}}
+
+\begin{enumerate}
+\item
+  same dimension
+
+  \(V\) and \(W\) are both of dimension \(n\).
+\item
+  same field
+
+  We defined \(V\) and \(W\) to both be vector spaces over the same
+  field \(\mathbb{F}\) which is either \(\mathbb{R}\) or \(\mathbb{C}\).
+\end{enumerate}
 
 \end{document}

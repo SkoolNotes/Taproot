@@ -40,3 +40,8 @@ A /linear map/ from $V$ to $W$ is a function $T : V \to W$ with the following pr
    If $v_1, \ldots, v_n$ is a basis of $V$ and $w_1, \ldots, w_n \in W$, then there exists a unique linear map $T : V\to W$ s.t.
    $$T v_j = w_j \forall j \in 1, \ldots, n$$
    #aka given a basis $v$ of $V$, there is a unique linear map that maps $v$ to each $w \in W$.
+*** #careful
+**** same dimension
+     $V$ and $W$ are both of dimension $n$.
+**** same field
+     We defined $V$ and $W$ to both be vector spaces over the same field $\mathbb{F}$ which is either $\mathbb{R}$ or $\mathbb{C}$.
