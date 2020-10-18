@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thelesson}{ Algebraic Operations on Linear Maps }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3735)}}    % original
-%\rhead{\textrmlf{Compiled }\#3735\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3735\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3736)}}    % original
+%\rhead{\textrmlf{Compiled }\#3736\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3736\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -166,6 +166,7 @@
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
 
-
+\begin{quote}
+\end{quote}
 
 \end{document}
