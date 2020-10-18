@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3749)}}    % original
-%\rhead{\textrmlf{Compiled }\#3749\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3749\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3750)}}    % original
+%\rhead{\textrmlf{Compiled }\#3750\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3750\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -240,6 +240,6 @@ identity of \(U\) or \(V\) respectively.
 \hypertarget{distributive-properties}{%
 \subsubsection{distributive properties}\label{distributive-properties}}
 
-\[(S_1 + S_2)T = S_1T S_2T \text{and} T(S_1 + S_2) = TS_1 + TS_2\]
+\[(S_1 + S_2)T = S_1T + S_2T \text{  and  } T(S_1 + S_2) = TS_1 + TS_2\]
 
 \end{document}
