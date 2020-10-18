@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3753)}}    % original
-%\rhead{\textrmlf{Compiled }\#3753\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3753\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3754)}}    % original
+%\rhead{\textrmlf{Compiled }\#3754\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3754\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -217,8 +217,25 @@
     Enzymatic proteins
   \item
     Defensive proteins
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Protect against disease
+    \item
+      Antibodies are an example and inactivate as well as
+    \end{itemize}
   \item
     Storage proteins
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Storage of amino acids
+    \item
+      Casein is an example which is in milk and is the major source of
+      amino acids for baby mammals
+    \end{itemize}
   \item
     Transport proteins
 
@@ -226,7 +243,6 @@
     \tightlist
     \item
       Transport of substances
-    \item
     \end{itemize}
   \item
     Hormonal proteins

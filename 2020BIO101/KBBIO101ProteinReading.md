@@ -24,10 +24,13 @@ source: #index
  - There are many types of proteins
 	 - Enzymatic proteins
 	 - Defensive proteins
+		 - Protect against disease
+		 - Antibodies are an example and inactivate as well as
 	 - Storage proteins
+		 - Storage of amino acids
+		 - Casein is an example which is in milk and is the major source of amino acids for baby mammals
 	 - Transport proteins
 		 - Transport of substances
-		 - 
 	 - Hormonal proteins
 		 - COordination of an organism's activities
 		 - Insulin is an example as it causes other tissues to take up glucose thus regulating the blood sugar concentration
