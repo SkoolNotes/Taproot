@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3718)}}    % original
-%\rhead{\textrmlf{Compiled }\#3718\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3718\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3719)}}    % original
+%\rhead{\textrmlf{Compiled }\#3719\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3719\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -237,6 +237,9 @@ is a linear map
 
 \(F^\infty\) is the vector space of all sequences of elements in
 \(\mathbb{F}\).
-\[T \in \mathcal{L}\left(\mathcal{F}^\infty, \mathcal{F}^\infty\right) : T(x_1, x_2, x_3, \ldots) = T(x_2, x_3, \ldots)\]
+\[T \in \mathcal{L}\left(\mathbb{F}^\infty, \mathbb{F}^\infty\right) : T(x_1, x_2, x_3, \ldots) = (x_2, x_3, \ldots)\]
+
+\hypertarget{mathbbfn-to-mathbbfm}{%
+\subsection{\texorpdfstring{\(\mathbb{F}^n \to \mathbb{F}^m\)}{\textbackslash mathbb\{F\}\^{}n \textbackslash to \textbackslash mathbb\{F\}\^{}m}}\label{mathbbfn-to-mathbbfm}}
 
 \end{document}

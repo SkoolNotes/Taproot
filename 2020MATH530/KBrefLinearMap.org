@@ -30,4 +30,5 @@ A /linear map/ from $V$ to $W$ is a function $T : V \to W$ with the following pr
     is a linear map
 ** backward shift
    $F^\infty$ is the vector space of all sequences of elements in $\mathbb{F}$.
-   $$T \in \mathcal{L}\left(\mathcal{F}^\infty, \mathcal{F}^\infty\right) : T(x_1, x_2, x_3, \ldots) = T(x_2, x_3, \ldots)$$
+   $$T \in \mathcal{L}\left(\mathbb{F}^\infty, \mathbb{F}^\infty\right) : T(x_1, x_2, x_3, \ldots) = (x_2, x_3, \ldots)$$
+** $\mathbb{F}^n \to \mathbb{F}^m$
