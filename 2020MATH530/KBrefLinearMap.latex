@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3705)}}    % original
-%\rhead{\textrmlf{Compiled }\#3705\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3705\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3706)}}    % original
+%\rhead{\textrmlf{Compiled }\#3706\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3706\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -169,6 +169,15 @@
 \hypertarget{definition}{%
 \section{Definition}\label{definition}}
 
-\#definition Linear Map
+\#definition Linear Map A \emph{linear map} from \(V\) to \(W\) is a
+function \(T : V \to W\) with the following properties:
+
+\hypertarget{additivity}{%
+\subsection{Additivity}\label{additivity}}
+
+\[T(u+v) = Tu + Tv \all u, v \in V\]
+
+\hypertarget{homogenity}{%
+\subsection{Homogenity}\label{homogenity}}
 
 \end{document}
