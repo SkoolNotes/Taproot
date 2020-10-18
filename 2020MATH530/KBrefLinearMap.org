@@ -2,7 +2,8 @@
 #+TITLE: linear map
 
 * Definition
-#definition Linear Map
+#definition Axler3.2 Linear Map
+#aka linear transformation
 A /linear map/ from $V$ to $W$ is a function $T : V \to W$ with the following properties:
 ** Additivity
    $$T(u+v) = Tu + Tv \forall u, v \in V$$

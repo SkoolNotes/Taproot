@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3708)}}    % original
-%\rhead{\textrmlf{Compiled }\#3708\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3708\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3709)}}    % original
+%\rhead{\textrmlf{Compiled }\#3709\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3709\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -169,8 +169,9 @@
 \hypertarget{definition}{%
 \section{Definition}\label{definition}}
 
-\#definition Linear Map A \emph{linear map} from \(V\) to \(W\) is a
-function \(T : V \to W\) with the following properties:
+\#definition Axler3.2 Linear Map \#aka linear transformation A
+\emph{linear map} from \(V\) to \(W\) is a function \(T : V \to W\) with
+the following properties:
 
 \hypertarget{additivity}{%
 \subsection{Additivity}\label{additivity}}
