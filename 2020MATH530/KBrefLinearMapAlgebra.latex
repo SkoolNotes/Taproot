@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3745)}}    % original
-%\rhead{\textrmlf{Compiled }\#3745\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3745\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3747)}}    % original
+%\rhead{\textrmlf{Compiled }\#3747\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3747\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -215,5 +215,22 @@ Otherwise it's not defined.
 \subsection{\texorpdfstring{Axler3.7 \(\mathcal{L}(V, W)\) is a vector
 space over
 \(\mathbb{F}\)}{Axler3.7 \textbackslash mathcal\{L\}(V, W) is a vector space over \textbackslash mathbb\{F\}}}\label{axler3.7-mathcallv-w-is-a-vector-space-over-mathbbf}}
+
+\hypertarget{axler3.9-algebraic-properties}{%
+\subsection{Axler3.9 Algebraic
+properties}\label{axler3.9-algebraic-properties}}
+
+\hypertarget{associativity}{%
+\subsubsection{associativity}\label{associativity}}
+
+\[(T_1 T_2) T_3 = T_1 (T_2 T_3)\] when it makes sense to multiply them.
+
+\begin{enumerate}
+\item
+  {TODO} \#question what about
+  \((T_1 + T_2) + T_3 \stack{?}{=} T_1 + (T_2 + T_3)\)?
+
+  \textbf{*}
+\end{enumerate}
 
 \end{document}

@@ -27,3 +27,12 @@
 * Results
 
 ** Axler3.7 $\mathcal{L}(V, W)$ is a vector space over $\mathbb{F}$
+
+** Axler3.9 Algebraic properties
+
+*** associativity
+    $$(T_1 T_2) T_3 = T_1 (T_2 T_3)$$ when it makes sense to multiply them.
+
+**** TODO #question what about $(T_1 + T_2) + T_3 \stack{?}{=} T_1 + (T_2 + T_3)$?
+
+***
