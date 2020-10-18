@@ -35,3 +35,4 @@ A /linear map/ from $V$ to $W$ is a function $T : V \to W$ with the following pr
    Given a "coefficent matrix" $A : A_{j,k}\in\mathbb{F} \forall j=1,\ldots,m; \forall k=1,\ldots,n$, define $T \in \mathcal{L}(\mathbb{F}^n, \mathbb{F}^m)$:
    $$T(x_1, \ldots, x_n) = (A_{1,1}x_1 + A_{1,2}x_2 + \cdots + A_{1,n}x_n,\ A_{2,1}x_1 + \cdots + A_{2, n}x_n,\ \ldots,\ A_{m, 1}x_1 + \cdots + A_{m, n} x_n)$$
    Notice that this is equivalent to taking $A$ as a $m\times n$ matrix and dot producting it with the $n \times 1$ matrix $\begin{bmatrix}x_1 \\ x_2 \\ \vdots \\ x_n\end{bmatrix}$.
+* Results
