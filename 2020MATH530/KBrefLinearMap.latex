@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3715)}}    % original
-%\rhead{\textrmlf{Compiled }\#3715\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3715\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3716)}}    % original
+%\rhead{\textrmlf{Compiled }\#3716\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3716\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -222,8 +222,14 @@ Basically stating that for two polynomials
 \(a, b \in \mathcal{P}(\mathbb{R})\), \(a'+b' = (a+b)'\) and with a
 constant \(\lambda \in \mathcal{R}\) \((\lambda a)' = \lambda a'\).
 
-\hypertarget{integration-t}{%
-\subsection{\texorpdfstring{integration
-(\(T\))}{integration (T)}}\label{integration-t}}
+\hypertarget{integration}{%
+\subsection{integration}\label{integration}}
+
+\hypertarget{multiplication-by-x2}{%
+\subsection{\texorpdfstring{multiplication by
+\(x^2\)}{multiplication by x\^{}2}}\label{multiplication-by-x2}}
+
+\hypertarget{backward-shift}{%
+\subsection{backward shift}\label{backward-shift}}
 
 \end{document}

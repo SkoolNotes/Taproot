@@ -24,4 +24,6 @@ A /linear map/ from $V$ to $W$ is a function $T : V \to W$ with the following pr
 ** differentiation ($D$)
    $$D \in \mathcal{L}\left(\mathcal{P}(\mathbb{R}), \mathcal{P}(\mathbb{R})\right) : Dp = p'$$
    Basically stating that for two polynomials $a, b \in \mathcal{P}(\mathbb{R})$, $a'+b' = (a+b)'$ and with a constant $\lambda \in \mathcal{R}$ $(\lambda a)' = \lambda a'$.
-** integration ($T$)
+** integration
+** multiplication by $x^2$
+** backward shift
