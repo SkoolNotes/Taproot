@@ -46,9 +46,8 @@ source: #index
 	 - Structural proteins
 		 - They are used as support
 		 - Keratin is an example
- 
- 
- 
+
+
  ### Amino Acids
  
   - All amino acids share a common structure
