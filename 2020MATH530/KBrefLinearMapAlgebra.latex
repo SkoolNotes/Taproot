@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3741)}}    % original
-%\rhead{\textrmlf{Compiled }\#3741\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3741\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3742)}}    % original
+%\rhead{\textrmlf{Compiled }\#3742\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3742\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,6 +180,14 @@ defined by \[ (S+T)(v) = Sv + Tv \] \((S+T)\) is a linear map.
 If \(T \in \mathcal{L}(V, W)\) and \(\lambda \in \mathbb{F}\) then the
 \emph{product} \((\lambda T)v = \lambda Tv\). \(\lambda T\) is a linear
 map.
+
+\hypertarget{axler3.8-product-of-linear-maps}{%
+\section{Axler3.8 Product of Linear
+Maps}\label{axler3.8-product-of-linear-maps}}
+
+It's basically the composition of linear maps. Let \(U, V, W\) be vector
+spaces over \(\mathbb F\) and \(T, S\) be linear maps s.t.
+\(T \in \mathcal L(U, V)\) and \(S \in \mathcal L(V, W)\).
 
 \hypertarget{results}{%
 \section{Results}\label{results}}
