@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3730)}}    % original
-%\rhead{\textrmlf{Compiled }\#3730\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3730\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3732)}}    % original
+%\rhead{\textrmlf{Compiled }\#3732\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3732\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -276,6 +276,20 @@ given a basis \(v\) of \(V\), there is a unique linear map that maps
 
   We defined \(V\) and \(W\) to both be vector spaces over the same
   field \(\mathbb{F}\) which is either \(\mathbb{R}\) or \(\mathbb{C}\).
+\item
+  \(v\) is a basis
+
+  \(v_1, \ldots, v_n\) must be a basis of \(V\) (because that fact is
+  used in the proof)
+\end{enumerate}
+
+\hypertarget{questions}{%
+\subsubsection{Questions}\label{questions}}
+
+\begin{enumerate}
+\item
+  {TODO} what does it mean that "\(T\) is uniquely determined on
+  \(\text{span}(v_1, \ldots, v_n)\)? {\textsc{question}}
 \end{enumerate}
 
 \end{document}

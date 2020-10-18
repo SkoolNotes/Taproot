@@ -45,3 +45,7 @@ A /linear map/ from $V$ to $W$ is a function $T : V \to W$ with the following pr
      $V$ and $W$ are both of dimension $n$.
 **** same field
      We defined $V$ and $W$ to both be vector spaces over the same field $\mathbb{F}$ which is either $\mathbb{R}$ or $\mathbb{C}$.
+**** $v$ is a basis
+     $v_1, \ldots, v_n$ must be a basis of $V$ (because that fact is used in the proof)
+*** Questions
+**** TODO what does it mean that "$T$ is uniquely determined on $\text{span}(v_1, \ldots, v_n)$? :question:
