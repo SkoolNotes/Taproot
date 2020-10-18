@@ -25,9 +25,6 @@ source: #index
 * [[KBBioDietStorage]]
 - [[KBe20bio201retDietFinderIndex]]
 
-## Cells
- [[KBhBIO101Cells]]
-
 ## Unsorted
 
 * [[KB20200826090938]] Emergent Properties
@@ -43,6 +40,7 @@ source: #index
 
 ## Amino Acids
 * [[KBhBIO101AminoAcids]]
+* [[KBBIO101ProteinReading]]
 
 ## Human Diseases
 * Human diseases, an intro: [[KBhBIO101HumanDiseases]]
