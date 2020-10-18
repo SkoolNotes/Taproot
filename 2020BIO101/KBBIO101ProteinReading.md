@@ -26,8 +26,11 @@ source: #index
 	 - Defensive proteins
 	 - Storage proteins
 	 - Transport proteins
-	 - Hormonal proteins
+		 - Transport of substances
 		 - 
+	 - Hormonal proteins
+		 - COordination of an organism's activities
+		 - Insulin is an example as it causes other tissues to take up glucose thus regulating the blood sugar concentration
 	 - Receptor proteins
 		 - Response of cell to chemical stimuli
 		 - Responsible for stuff like detecting signaling molecules released by other nerve cells

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3752)}}    % original
-%\rhead{\textrmlf{Compiled }\#3752\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3752\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3753)}}    % original
+%\rhead{\textrmlf{Compiled }\#3753\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3753\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -221,12 +221,23 @@
     Storage proteins
   \item
     Transport proteins
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Transport of substances
+    \item
+    \end{itemize}
   \item
     Hormonal proteins
 
     \begin{itemize}
     \tightlist
     \item
+      COordination of an organism's activities
+    \item
+      Insulin is an example as it causes other tissues to take up
+      glucose thus regulating the blood sugar concentration
     \end{itemize}
   \item
     Receptor proteins
