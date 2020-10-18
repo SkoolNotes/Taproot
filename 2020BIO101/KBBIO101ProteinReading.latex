@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3760)}}    % original
-%\rhead{\textrmlf{Compiled }\#3760\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3760\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3761)}}    % original
+%\rhead{\textrmlf{Compiled }\#3761\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3761\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -338,6 +338,8 @@
 \item
   There is now easier sequencing of proteins, but originally it was very
   difficult
+\item
+  The protein may spontaneously fold once constructed
 \item
 \end{itemize}
 

@@ -60,4 +60,5 @@ source: #index
 
  - The specific function of a protein is a result of their shape
  - There is now easier sequencing of proteins, but originally it was very difficult
+ - The protein may spontaneously fold once constructed
  - 
