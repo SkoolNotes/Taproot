@@ -32,4 +32,4 @@ A /linear map/ from $V$ to $W$ is a function $T : V \to W$ with the following pr
    $F^\infty$ is the vector space of all sequences of elements in $\mathbb{F}$.
    $$T \in \mathcal{L}\left(\mathbb{F}^\infty, \mathbb{F}^\infty\right) : T(x_1, x_2, x_3, \ldots) = (x_2, x_3, \ldots)$$
 ** $\mathbb{F}^n \to \mathbb{F}^m$
-   Given a "coefficent matrix" $A : A_{j,k}\in\mathbb{F} \forall j=1,\ldots,m; \forall k=1,\ldots,n$
+   Given a "coefficent matrix" $A : A_{j,k}\in\mathbb{F} \forall j=1,\ldots,m; \forall k=1,\ldots,n$, define $T \in \mathcal{L}(\mathbb{F}^n, \math
