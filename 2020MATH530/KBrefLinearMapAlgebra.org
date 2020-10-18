@@ -2,12 +2,14 @@
 #+TITLE: Algebraic operations on $\mathcal{L}(V, W)$
 #+ TITLE: Algebraic Operations on Linear Maps
 
-* sum ($S+T$)
+* Axler3.6 sum ($S+T$)
   If $S, T \in \mathcal{L}(V, W)$ then the /sum/ $S + T$ is defined by
   $$ (S+T)(v) = Sv + Tv $$
   $(S+T)$ is a linear map.
 
-* scalar product $\lambda T$
+* Axler3.6 scalar product $\lambda T$
   If $T \in \mathcal{L}(V, W)$ and $\lambda \in \mathbb{F}$ then the /product/ $(\lambda T)v = \lambda Tv$. $\lambda T$ is a linear map.
 
 * Results
+
+** Axler3.7 $\mathcal{L}(V, W)$ is a vector space over $\mathbb{F}$
