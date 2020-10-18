@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3714)}}    % original
-%\rhead{\textrmlf{Compiled }\#3714\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3714\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3715)}}    % original
+%\rhead{\textrmlf{Compiled }\#3715\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3715\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -221,5 +221,9 @@ vector space): \[I \in \mathcal{L}(V, V), v\in V : Iv = v\]
 Basically stating that for two polynomials
 \(a, b \in \mathcal{P}(\mathbb{R})\), \(a'+b' = (a+b)'\) and with a
 constant \(\lambda \in \mathcal{R}\) \((\lambda a)' = \lambda a'\).
+
+\hypertarget{integration-t}{%
+\subsection{\texorpdfstring{integration
+(\(T\))}{integration (T)}}\label{integration-t}}
 
 \end{document}
