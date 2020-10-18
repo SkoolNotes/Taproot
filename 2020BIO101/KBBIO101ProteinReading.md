@@ -49,6 +49,7 @@ source: #index
  
  
  ## Amino Acids
+ 
   - All amino acids share a common structure
 	  - It is an organic molecule with both an amino group and a carboxyl group
 		  - An amino group is two Hydrogens bonded with a nitrogen and a carboxyl group is an oxygen double bonded with a carbon and an OH bonded with the same carbon
