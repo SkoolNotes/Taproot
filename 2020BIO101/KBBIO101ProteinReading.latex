@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3764)}}    % original
-%\rhead{\textrmlf{Compiled }\#3764\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3764\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3765)}}    % original
+%\rhead{\textrmlf{Compiled }\#3765\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3765\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -364,8 +364,21 @@
   \begin{itemize}
   \tightlist
   \item
-    These are coils and folds formed
+    These are coils and folds formed by hydrogen bonds from partial
+    charges
+  \item
+    An example would be a helix and pleated sheet
   \end{itemize}
+\item
+  Tertiary structure
+
+  \begin{itemize}
+  \tightlist
+  \item
+    It is the overall shape of a polypeptide resulting from interactions
+    between the side chains
+  \end{itemize}
+\item
 \end{itemize}
 
 \end{document}

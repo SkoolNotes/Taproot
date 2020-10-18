@@ -66,4 +66,8 @@ source: #index
  - Primary structure
 	 - A sequence of amino acids
  - Secondary strucutre
-	 - These are coils and folds formed 
+	 - These are coils and folds formed by hydrogen bonds from partial charges
+	 - An example would be a helix and pleated sheet
+ - Tertiary structure
+	 - It is the overall shape of a polypeptide resulting from interactions between the side chains
+ - 
