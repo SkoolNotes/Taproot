@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3710)}}    % original
-%\rhead{\textrmlf{Compiled }\#3710\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3710\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3711)}}    % original
+%\rhead{\textrmlf{Compiled }\#3711\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3711\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -195,5 +195,15 @@ the following properties:
 The set of all linear maps from \(V\) to \(W\) is denoted
 \(\mathcal{L}(V, W)\).
 \end{quote}
+
+\hypertarget{examples}{%
+\section{Examples}\label{examples}}
+
+\hypertarget{zero}{%
+\subsection{zero}\label{zero}}
+
+Zero is a function \(0 : V \to W\) s.t. \(0v = 0 \forall v \in V\). (It
+takes all vectors in \(V\) and maps them to the additive identity of
+\(W\))
 
 \end{document}

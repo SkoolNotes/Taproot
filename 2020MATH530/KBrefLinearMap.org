@@ -15,3 +15,6 @@ A /linear map/ from $V$ to $W$ is a function $T : V \to W$ with the following pr
    #+begin_quote
    The set of all linear maps from $V$ to $W$ is denoted $\mathcal{L}(V, W)$.
     #+end_quote
+* Examples
+** zero
+   Zero is a function $0 : V \to W$ s.t. $0v = 0 \forall v \in V$. (It takes all vectors in $V$ and maps them to the additive identity of $W$)
