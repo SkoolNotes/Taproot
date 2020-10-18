@@ -14,6 +14,8 @@
   It's basically the composition of linear maps. Let $U, V, W$ be vector spaces over $\mathbb F$ and $T, S$ be linear maps s.t. $T \in \mathcal L(U, V)$ and $S \in \mathcal L(V, W)$. Then the /product/
   $$ ST \in \mathcal L (U, W) : (ST)(u) = S(Tu) $$
 
+  #aka $ST = S \circ T$
+
 ** careful
 
 *** Evaluate backwards
