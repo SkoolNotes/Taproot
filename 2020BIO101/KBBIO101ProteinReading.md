@@ -74,4 +74,6 @@ source: #index
  - Quaternary structure
 	 - This is the overall protein structure resulting from the polypeptide sub-units
  - Primary structure is very fundamental and even a slight change can cause large consequences
+ - Chemical conditions can alter a proteins shape
+	 - Denaturing is when a protein becomes mishapen and therefore biologically inactive
  - 
