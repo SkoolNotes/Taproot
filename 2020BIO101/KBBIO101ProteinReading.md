@@ -62,4 +62,5 @@ source: #index
  - There is now easier sequencing of proteins, but originally it was very difficult
  - The protein may spontaneously fold once constructed
  - Proteins share three superimposed levels of structure, known as primary, secondary, and tertiary structure
-	 - A fourth quaternary structure arises once when a protein is made of two or more polypeptid
+	 - A fourth Quaternary structure arises once when a protein is made of two or more polypeptide chains
+ - 
