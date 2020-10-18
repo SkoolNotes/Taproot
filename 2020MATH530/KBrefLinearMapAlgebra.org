@@ -11,7 +11,8 @@
   If $T \in \mathcal{L}(V, W)$ and $\lambda \in \mathbb{F}$ then the /product/ $(\lambda T)v = \lambda Tv$. $\lambda T$ is a linear map.
 
 * Axler3.8 Product of Linear Maps
-  It's basically the composition of linear maps. Let $U, V, W$ be vector spaces over $\mathbb F$ and $T, S$ be linear maps s.t. $T \in \mathcal L(U, V)$ and $S \in \mathcal L(V, W)$.
+  It's basically the composition of linear maps. Let $U, V, W$ be vector spaces over $\mathbb F$ and $T, S$ be linear maps s.t. $T \in \mathcal L(U, V)$ and $S \in \mathcal L(V, W)$. Then the /product/
+  $$ ST \in \mathcal L (U, W) : (ST)(u) = S(Tu) $$
 
 * Results
 
