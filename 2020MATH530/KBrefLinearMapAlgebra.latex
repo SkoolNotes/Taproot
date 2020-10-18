@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3747)}}    % original
-%\rhead{\textrmlf{Compiled }\#3747\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3747\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3748)}}    % original
+%\rhead{\textrmlf{Compiled }\#3748\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3748\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -228,7 +228,7 @@ properties}\label{axler3.9-algebraic-properties}}
 \begin{enumerate}
 \item
   {TODO} \#question what about
-  \((T_1 + T_2) + T_3 \stack{?}{=} T_1 + (T_2 + T_3)\)?
+  \((T_1 + T_2) + T_3 \stackrel{?}{=} T_1 + (T_2 + T_3)\)?
 
   \textbf{*}
 \end{enumerate}
