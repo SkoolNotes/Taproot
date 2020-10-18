@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3754)}}    % original
-%\rhead{\textrmlf{Compiled }\#3754\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3754\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3755)}}    % original
+%\rhead{\textrmlf{Compiled }\#3755\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3755\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -215,6 +215,15 @@
   \tightlist
   \item
     Enzymatic proteins
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Selective acceleration of chemical reactions
+    \item
+      Digestive enzymes are an example that catalyze the hydrolysis of
+      bonds in food
+    \end{itemize}
   \item
     Defensive proteins
 
@@ -223,7 +232,8 @@
     \item
       Protect against disease
     \item
-      Antibodies are an example and inactivate as well as
+      Antibodies are an example and inactivate as well as help destroy
+      viruses and bacteria
     \end{itemize}
   \item
     Storage proteins
@@ -243,6 +253,9 @@
     \tightlist
     \item
       Transport of substances
+    \item
+      Hemoglobin is an example that transports oxygen from the lungs to
+      other parts of the body.
     \end{itemize}
   \item
     Hormonal proteins

@@ -23,14 +23,17 @@ source: #index
 	 - It also must be folded and coiled into a specific 3 dimensional structure
  - There are many types of proteins
 	 - Enzymatic proteins
+		 - Selective acceleration of chemical reactions
+		 - Digestive enzymes are an example that catalyze the hydrolysis of bonds in food
 	 - Defensive proteins
 		 - Protect against disease
-		 - Antibodies are an example and inactivate as well as
+		 - Antibodies are an example and inactivate as well as help destroy viruses and bacteria
 	 - Storage proteins
 		 - Storage of amino acids
 		 - Casein is an example which is in milk and is the major source of amino acids for baby mammals
 	 - Transport proteins
 		 - Transport of substances
+		 - Hemoglobin is an example that transports oxygen from the lungs to other parts of the body.
 	 - Hormonal proteins
 		 - COordination of an organism's activities
 		 - Insulin is an example as it causes other tissues to take up glucose thus regulating the blood sugar concentration
