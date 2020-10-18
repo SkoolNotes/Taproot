@@ -76,4 +76,5 @@ source: #index
  - Primary structure is very fundamental and even a slight change can cause large consequences
  - Chemical conditions can alter a proteins shape
 	 - Denaturing is when a protein becomes mishapen and therefore biologically inactive
+ - Many proteins have been sequenced
  - 
