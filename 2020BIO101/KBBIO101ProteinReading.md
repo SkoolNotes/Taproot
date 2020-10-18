@@ -79,4 +79,4 @@ source: #index
  - Many proteins have been sequenced
  - Misfolded proteins are the causes of many diseases
  - Crystallography is a technique for obtaining the 3d shape of a protein
- - 
+ - Nucleic acids are made of polynucleotides which are made of nucleotides
