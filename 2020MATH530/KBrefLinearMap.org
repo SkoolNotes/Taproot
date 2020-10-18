@@ -9,3 +9,9 @@ A /linear map/ from $V$ to $W$ is a function $T : V \to W$ with the following pr
    $$T(u+v) = Tu + Tv \forall u, v \in V$$
 ** Homogenity
    $$T(\lambda v) = \lambda(T v) \forall \lambda \in \mathbb{F}, v\in V$$
+* Other Notation
+** Set of Maps
+   #definition Axler3.3 $\mathcal{L}(V, W)$
+   #+begin_quote
+   The set of all linear maps from $V$ to $W$ is denoted $\mathcal{L}(V, W)$.
+    #+end_quote
