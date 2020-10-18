@@ -21,3 +21,5 @@ A /linear map/ from $V$ to $W$ is a function $T : V \to W$ with the following pr
 ** identity ($I$)
    The identity maps each from one vector space to itself (in the same vector space):
    $$I \in \mathcal{L}(V, V), v\in V : Iv = v$$
+** differentiation ($D$)
+   $$D \in \mathcal{L}\left(\mathcal{P}(\mathbb{R}), \mathcal{P}(\mathbb{R})\right) : Dp = p'$$
