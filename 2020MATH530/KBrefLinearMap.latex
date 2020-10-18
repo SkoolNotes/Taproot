@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3727)}}    % original
-%\rhead{\textrmlf{Compiled }\#3727\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3727\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3729)}}    % original
+%\rhead{\textrmlf{Compiled }\#3729\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3729\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -252,5 +252,15 @@ and dot producting it with the \(n \times 1\) matrix
 
 \hypertarget{results}{%
 \section{Results}\label{results}}
+
+\hypertarget{axler3.5-linear-maps-and-basis-of-domain}{%
+\subsection{Axler3.5 Linear maps and basis of
+domain}\label{axler3.5-linear-maps-and-basis-of-domain}}
+
+If \(v_1, \ldots, v_n\) is a basis of \(V\) and
+\(w_1, \ldots, w_n \in W\), then there exists a unique linear map
+\(T : V\to W\) s.t. \[T v_j = w_j \forall j \in 1, \ldots, n\] \#aka
+given a basis \(v\) of \(V\), there is a unique linear map that maps
+\(v\) to each \(w \in W\).
 
 \end{document}
