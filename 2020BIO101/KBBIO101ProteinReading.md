@@ -70,4 +70,6 @@ source: #index
 	 - An example would be a helix and pleated sheet
  - Tertiary structure
 	 - It is the overall shape of a polypeptide resulting from interactions between the side chains
+ - Quaternary structure
+	 - This is the overall protein structure resulting from the polypeptide sub-units
  - 
