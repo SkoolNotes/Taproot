@@ -77,4 +77,6 @@ source: #index
  - Chemical conditions can alter a proteins shape
 	 - Denaturing is when a protein becomes mishapen and therefore biologically inactive
  - Many proteins have been sequenced
+ - Misfolded proteins are the causes of many diseases
+ - Crystallography is a technique for obtaining the 3d shape of a protein
  - 
