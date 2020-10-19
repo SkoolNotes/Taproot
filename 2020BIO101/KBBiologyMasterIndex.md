@@ -36,7 +36,8 @@ source: #index
 * [[KBBIO101YelloSky]]
 * Exr0n's Flows [[20bio201floD3]]
 * Dylan's crappy notes [[KBd20200911notes]]
-* Central Dogma of Biology
+* Central Dogma of Biology [[KBBIO101CentralDogma]]
+* 
 
 ## Amino Acids
 * [[KBhBIO101AminoAcids]]
