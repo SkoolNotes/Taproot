@@ -21,8 +21,8 @@ Ribone Nucleic Acid: RNA
 - nitrogenous base
 	- 4 bases in DNA
 		- A, T, G, C
+	- 2 bases 
 		- 
-
 
 
 ![NucBasc.png](./NucBasc.png)

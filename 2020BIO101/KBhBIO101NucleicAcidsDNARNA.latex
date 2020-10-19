@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3791)}}    % original
-%\rhead{\textrmlf{Compiled }\#3791\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3791\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3792)}}    % original
+%\rhead{\textrmlf{Compiled }\#3792\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3792\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,7 +179,9 @@ d-Oxy Ribone Nucleic Acid: DNA Ribone Nucleic Acid: RNA
 synthesized together into polymers.} =\textgreater{} Just like
 {[}{[}KBhBIO101Carbs{]}{]} or {[}{[}KBhBIO101AminoAcids{]}{]}
 
-3 basic
+\hypertarget{basic-parts-of-a-nucleic-acid}{%
+\subsection{3 basic parts of a Nucleic
+Acid}\label{basic-parts-of-a-nucleic-acid}}
 
 \begin{itemize}
 \tightlist
@@ -192,11 +194,30 @@ synthesized together into polymers.} =\textgreater{} Just like
   \begin{itemize}
   \tightlist
   \item
-    In di-oby Robis: a OH pair is replaced with a hydrogen \textbf{only
-    in one position.}.
+    In di-oby Ribos: a OH pair is replaced with a hydrogen \textbf{only
+    in one position.} Hence ``di-oxy''
   \end{itemize}
 \item
   nitrogenous base
+
+  \begin{itemize}
+  \tightlist
+  \item
+    4 bases in DNA
+
+    \begin{itemize}
+    \tightlist
+    \item
+      A, T, G, C
+    \end{itemize}
+  \item
+    2 bases
+
+    \begin{itemize}
+    \tightlist
+    \item
+    \end{itemize}
+  \end{itemize}
 \end{itemize}
 
 \begin{figure}
