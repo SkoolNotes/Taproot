@@ -108,7 +108,7 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
+\newcommand{\thecourse}{ BIO101 }
 \newcommand{\thelesson}{ Central Dogma of Biology }
 
 \title{\textbf{\thecourse}\thelesson}
@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3776)}}    % original
-%\rhead{\textrmlf{Compiled }\#3776\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3776\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3778)}}    % original
+%\rhead{\textrmlf{Compiled }\#3778\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3778\textrmlf{ on} \today}       % new date
+\lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,8 +164,12 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
 \#flo
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \hypertarget{central-dogma}{%
 \section{Central Dogma}\label{central-dogma}}
@@ -182,6 +186,19 @@
   \end{itemize}
 \item
   In short DNA -- \textgreater{} RNA -- \textgreater{} Protein
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is done because moving DNA doesn't make sense as it's the
+    master copy
+  \item
+    RNA is moved to the place that the protein can be made from the
+    instructions
+  \end{itemize}
+\item
+  This is done through transcription and translation
+\item
 \end{itemize}
 
 \end{document}
