@@ -20,10 +20,9 @@ Ribone Nucleic Acid: RNA
 	- In di-oby Ribos: a OH pair is replaced with a hydrogen **only in one position.** Hence "di-oxy"
 - nitrogenous base
 	- 4 bases in DNA
-		- A, T, G, C
+		- A, , G, C
 	- 2 bases 
-		- 
+		- CT
 
-
-![NucBasc.png](./NucBasc.png)
+![DNARNA_nucleic.png](./DNARNA_nucleic.png)
 
