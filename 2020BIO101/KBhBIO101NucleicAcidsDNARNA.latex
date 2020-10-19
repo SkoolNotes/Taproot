@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3790)}}    % original
-%\rhead{\textrmlf{Compiled }\#3790\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3790\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3791)}}    % original
+%\rhead{\textrmlf{Compiled }\#3791\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3791\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,7 +186,15 @@ synthesized together into polymers.} =\textgreater{} Just like
 \item
   phosphate group
 \item
-  sugar
+  sugar (Ribos =\textgreater{} sugar in RNA, di-oxy Ribos
+  =\textgreater{} sugar in HNA)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    In di-oby Robis: a OH pair is replaced with a hydrogen \textbf{only
+    in one position.}.
+  \end{itemize}
 \item
   nitrogenous base
 \end{itemize}
