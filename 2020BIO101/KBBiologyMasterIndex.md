@@ -42,7 +42,7 @@ source: #index
 ## Amino Acids
 * [[KBhBIO101AminoAcids]]
 * [[KBBIO101ProteinReading]]
-* [[KBhBIO101NucleicAcids]]
+* [[KBhBIO101NucleicAcidsDNARNA]]
 
 ## Human Diseases
 * Human diseases, an intro: [[KBhBIO101HumanDiseases]]
