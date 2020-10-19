@@ -18,5 +18,7 @@ Ribone Nucleic Acid: RNA
 
 - phosphate group
 - sugar
-- 
+- nitrogenous base
+
+![NucBasc.png](./NucBasc.png)
 
