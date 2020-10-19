@@ -26,3 +26,5 @@ Ribone Nucleic Acid: RNA
 
 ![DNARNA_nucleic.png](./DNARNA_nucleic.png)
 
+How do we make nucleic acids? Can you guess? Huh? **Dehydration synthesis!** #TODO make that actually a note, at this pont
+
