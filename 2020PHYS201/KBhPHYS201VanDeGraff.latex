@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3786)}}    % original
+%\rhead{\textrmlf{Compiled }\#3786\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3786\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -243,10 +245,10 @@ air?}\label{why-are-there-sparks-through-the-air}}
   \tightlist
   \item
     Enough charge to overcome the electric field resistance
-    {[}{[}KBhPHYS201Resistance{]}{]} of air (like 3.4 million
-    Volts/metre), and \textbf{air ionizes} --- air atoms becomes so
-    attracted that their electrons ditch their nuclei and air suddenly
-    becomes a conductors
+    {[}{[}KBhPHYS201ResistanceConductivity{]}{]} of air (like 3.4
+    million Volts/metre), and \textbf{air ionizes} --- air atoms becomes
+    so attracted that their electrons ditch their nuclei and air
+    suddenly becomes a conductors
   \item
     Neutral air has high resistance, but when it ionizes, the air looses
     its resistance (drops) and becomes nicely conductive

@@ -69,4 +69,4 @@ See [[KBhPHYS201LazerPrinters]]
     
 # Resistance and Current
 
-See [[KBhPHYS201Resistance]]
+See [[KBhPHYS201ResistanceConductivity]]

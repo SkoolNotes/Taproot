@@ -31,6 +31,6 @@ course: PHYS201
 ## Why are there sparks through the air?
  * One dome that's positive, one dome is negative
  * So, what happens when Spark! happens?
-     * Enough charge to overcome the electric field resistance [[KBhPHYS201Resistance]] of air (like 3.4 million Volts/metre), and **air ionizes** — air atoms becomes so attracted that their electrons ditch their nuclei and air suddenly becomes a conductors
+     * Enough charge to overcome the electric field resistance [[KBhPHYS201ResistanceConductivity]] of air (like 3.4 million Volts/metre), and **air ionizes** — air atoms becomes so attracted that their electrons ditch their nuclei and air suddenly becomes a conductors
      * Neutral air has high resistance, but when it ionizes, the air looses its resistance (drops) and becomes nicely conductive
      * So then, current (Coulomb/s) that flow in the air suddenly spark up because of sudden loss of resistance, discharging the negative dom

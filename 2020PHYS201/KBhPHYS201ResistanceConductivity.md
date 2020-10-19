@@ -1,5 +1,5 @@
 ---
-title: Resistance
+title: Resistivity and Conductivity
 source: 
     - KBhPHYS201IntroToElectrostaticsLN
     - KBhPHYS201CircuitsIndex
@@ -17,6 +17,8 @@ We know that...  $V$ = $\frac{J}{C}$, per [[KBhPHYS201Voltage]], and we also kno
 ### Calculating resistance
 * So, let's think. With a wire of length L and with a wire of area A, if we increase L, the resistance in the wire would increase; if we increase area A, the resistance in the the wire would decrease.
 * $Resistance = \frac{L}{A}*ResistivityOfMaterial$ with units $\frac{m}{m^2}(\Omega \times m)$.
+
+Sometimes its easier to think about conductivity.
     
 and, indeed, resistivity of materials are measured in $\Omega \times m$, which also makes sense intuitively.
 
