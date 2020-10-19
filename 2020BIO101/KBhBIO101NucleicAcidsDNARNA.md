@@ -19,10 +19,10 @@ Ribone Nucleic Acid: RNA
 - sugar (Ribos => sugar in RNA, di-oxy Ribos => sugar in HNA)
 	- In di-oby Ribos: a OH pair is replaced with a hydrogen **only in one position.** Hence "di-oxy"
 - nitrogenous base
-	- 4 bases in DNA
-		- A, , G, C
-	- 2 bases 
-		- CT
+	- Bases in DNA
+		- A, T, G, C
+	- Bases in RNA
+		- A, U, G, C
 
 ![DNARNA_nucleic.png](./DNARNA_nucleic.png)
 
