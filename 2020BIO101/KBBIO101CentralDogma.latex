@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3779)}}    % original
-%\rhead{\textrmlf{Compiled }\#3779\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3779\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3780)}}    % original
+%\rhead{\textrmlf{Compiled }\#3780\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3780\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -198,6 +198,13 @@
   \end{itemize}
 \item
   This is done through transcription and translation
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Notes on that can be found here
+    {[}{[}KBBIO101TranscriptionTranslation{]}{]}
+  \end{itemize}
 \item
   DNA and RNA are very close aside from Uracil and Thymine
 
