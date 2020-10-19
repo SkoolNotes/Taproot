@@ -69,7 +69,10 @@ source: #index
 [[KBhHIST201NapoleonDebatePrep]]
 
 ### Reading Flos + Refs
+#disorganized 
+
 - Mason ch 1 + 2 [[KBhHIST201MasonCh1n2]]
+- Roberts [[KBhHIST201RobertsCh5]]
     
 # Essays
 * Essay 1 
