@@ -2,7 +2,7 @@
 title: Central Dogma of Biology
 context: BIO101
 author: Zachary Sayyah
-source:  #index
+source:  KBBiologyMasterIndex
 ---
 
 #flo
@@ -20,5 +20,4 @@ source:  #index
 	 - Notes on that can be found here [[KBBIO101TranscriptionTranslation]]
  - DNA and RNA are very close aside from Uracil and Thymine
 	 - Both of the codes are formed by patterns of charges
- - 
  
