@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3796)}}    % original
-%\rhead{\textrmlf{Compiled }\#3796\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3796\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3797)}}    % original
+%\rhead{\textrmlf{Compiled }\#3797\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3797\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,16 +186,22 @@ Acid}\label{basic-parts-of-a-nucleic-acid}}
 \begin{itemize}
 \tightlist
 \item
-  phosphate group
-\item
-  sugar (Ribos =\textgreater{} sugar in RNA, di-oxy Ribos
-  =\textgreater{} sugar in HNA)
+  Backbone
 
   \begin{itemize}
   \tightlist
   \item
-    In di-oby Ribos: a OH pair is replaced with a hydrogen \textbf{only
-    in one position.} Hence ``di-oxy''
+    phosphate group
+  \item
+    sugar (Ribos =\textgreater{} sugar in RNA, di-oxy Ribos
+    =\textgreater{} sugar in HNA)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      In di-oby Ribos: a OH pair is replaced with a hydrogen
+      \textbf{only in one position.} Hence ``di-oxy''
+    \end{itemize}
   \end{itemize}
 \item
   nitrogenous base
@@ -230,6 +236,19 @@ Acid}\label{basic-parts-of-a-nucleic-acid}}
 How do we make nucleic acids? Can you guess? Huh? \textbf{Dehydration
 synthesis!} \#TODO make that actually a note, at this pont
 
-5' =\textgreater{} start of RNA/DNA pa
+5' =\textgreater{} one end of an RNA/DNA part
+
+3' =\textgreater{} another end of a RNA/DNA part
+
+\begin{itemize}
+\tightlist
+\item
+  DNA is supposed to be double stranded
+\item
+  RNA is supposed to be single stranded
+\end{itemize}
+
+DNA is \emph{anti-parallel} to each other =\textgreater{} 5' to 3'
+backbone parallel to 3' to 5' backbone
 
 \end{document}
