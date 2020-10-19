@@ -5,5 +5,6 @@ title: Central Dogma of Biology
 #flo 
 
 # Central Dogma
- - The central dogma says that a higher energy state is that of 
+ - The central dogma says that protein instructions are found in DNA
+	 - RNA carries these instructions somewhere 
  
