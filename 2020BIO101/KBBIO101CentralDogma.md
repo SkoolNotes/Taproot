@@ -17,5 +17,6 @@ source:  #index
 	 - RNA is moved to the place that the protein can be made from the instructions
  - This is done through transcription and translation
  - DNA and RNA are very close aside from Uracil and Thymine
+	 - Both of the codes are formed by patterns of charges
  - 
  
