@@ -37,3 +37,5 @@ How do we make nucleic acids? Can you guess? Huh? **Dehydration synthesis!** #TO
 * RNA is supposed to be single stranded
  
  DNA is *anti-parallel* to each other => 5' to 3' backbone parallel to 3' to 5' backbone
+ 
+ Temp copies of genome is RNA, permanent record in DNA

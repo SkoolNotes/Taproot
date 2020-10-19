@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3797)}}    % original
-%\rhead{\textrmlf{Compiled }\#3797\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3797\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3798)}}    % original
+%\rhead{\textrmlf{Compiled }\#3798\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3798\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -250,5 +250,7 @@ synthesis!} \#TODO make that actually a note, at this pont
 
 DNA is \emph{anti-parallel} to each other =\textgreater{} 5' to 3'
 backbone parallel to 3' to 5' backbone
+
+Temp copies of genome is RNA, permanent record in DNA
 
 \end{document}
