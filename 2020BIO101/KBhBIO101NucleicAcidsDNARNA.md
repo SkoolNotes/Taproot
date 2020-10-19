@@ -28,3 +28,10 @@ Ribone Nucleic Acid: RNA
 
 How do we make nucleic acids? Can you guess? Huh? **Dehydration synthesis!** #TODO make that actually a note, at this pont
 
+5' => start of an RNA/DNA part
+
+3' => end of a RNA/DNA part
+
+* DNA is supposed to be double stranded
+* RNA is supposed to be single stranded
+ 
