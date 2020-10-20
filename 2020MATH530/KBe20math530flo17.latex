@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3862)}}    % original
-%\rhead{\textrmlf{Compiled }\#3862\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3862\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3863)}}    % original
+%\rhead{\textrmlf{Compiled }\#3863\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3863\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,6 +179,16 @@
 \item
   You can use the fact that when theres \textbf{two} subspaces whose
   intersection is \({0}\).
+
+  \begin{itemize}
+  \tightlist
+  \item
+    But not when there's more than two subspaces. You have to add two of
+    them into a subspace and then intersect that with the third one.
+  \item
+    \#question : does it work if the all pairwise intersections are
+    zero?
+  \end{itemize}
 \end{itemize}
 
 \end{document}
