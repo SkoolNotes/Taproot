@@ -68,4 +68,5 @@ course: HIST201
 ## Impacts
 * Colonies had extracted varied economic benefit from their colonies
 	* Spanish => Silver from South America: broke the world economy
-	* England =>  Stimulated European exports + manufacturing
+	* England =>  Stimulated European exports + manufacturing: leading people to flow from Europe to Africa to Asia
+	* 
