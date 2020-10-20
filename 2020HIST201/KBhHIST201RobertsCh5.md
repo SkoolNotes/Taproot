@@ -23,4 +23,4 @@ course: HIST201
 		* 1730s Persian invasion caused loss in territory
 	* Britian did not invade the Indian region until much later than the 1740s => CLAIM: because it considered trade very important
 		* Finally decided to take action due to CLAIM: hostility towards the French
-		* Ownership of station at Calcutta provided access 
+		* Ownership of station at Calcutta provided access to riches part of India
