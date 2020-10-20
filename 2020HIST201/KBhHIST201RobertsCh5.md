@@ -52,5 +52,5 @@ course: HIST201
 * Spanish influence on Caribbean agriculture
 	* Began with growth of fruit + cattle 
 	* Sugar and Rice was then introduced, but production was slow
-	* 
+	* European settlements later appeared with the usual suspects
 
