@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3864)}}    % original
-%\rhead{\textrmlf{Compiled }\#3864\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3864\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3865)}}    % original
+%\rhead{\textrmlf{Compiled }\#3865\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3865\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -199,6 +199,10 @@
 \hypertarget{intuition}{%
 \subsection{Intuition}\label{intuition}}
 
-Kind of like the integral from \(-\infty\) to a point?
+Kind of like the integral from \(-\infty\) to a point? It's like the
+prefix sum, and we query by subtracting.
+
+\hypertarget{it-should-have-a-constant}{%
+\subsection{It should have a constant}\label{it-should-have-a-constant}}
 
 \end{document}
