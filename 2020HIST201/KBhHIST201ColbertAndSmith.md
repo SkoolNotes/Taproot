@@ -24,6 +24,11 @@ course: HIST201
 * Trade
 	* Monopolies to the domestic industry => useless/hurtful
 		* Only serves to tell people what they should do with their money
-	* If a foreign country has a  
+	* If a foreign country has a commodity that we need, better buy it than to try to make it ourselves
+* Duties of Government
+	* Three principle Duties
+		* Protecting society from violence and invasion
+		* Protecting every member of society from injustice 
+		* Erecting and maintaining public works and public institutions for the interest of the society
 		
 		
