@@ -17,4 +17,4 @@ course: HIST201
 	* Tea drinking was also growing at the time
 * Company growth
 	* East India Co. 1689 defeat pivoted direction to use non-force strategies
-	*  
+	* Collapse of Mughals after 1707 
