@@ -88,4 +88,3 @@ course: HIST201
 		* Sheep
 		* Chicken
 	* => "Colombian exchange"  
-	*  
