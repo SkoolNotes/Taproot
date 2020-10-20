@@ -8,3 +8,10 @@
 - You can use the fact that when theres *two* subspaces whose intersection is ${0}$.
   - But not when there's more than two subspaces. You have to add two of them into a subspace and then intersect that with the third one.
   - #question : does it work if the all pairwise intersections are zero?
+
+* indefinite integral
+#toexpand
+
+** Intuition
+   Kind of like the integral from $-\infty$ to a point?
+   It's like the prefix sum, and we query by subtracting.
