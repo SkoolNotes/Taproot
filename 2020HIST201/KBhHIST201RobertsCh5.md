@@ -50,5 +50,7 @@ course: HIST201
 * Brazil and Carribeans boomed due to sugar crops
 * Main crops: tobacco, hardwood, coffee
 * Spanish influence on Caribbean agriculture
-	*  
+	* Began with growth of fruit + cattle 
+	* Sugar and Rice was then introduced, but production was slow
+	* 
 
