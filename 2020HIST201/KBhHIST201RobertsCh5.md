@@ -47,5 +47,7 @@ course: HIST201
 				*  Set up system of "dual control" in 1784 => lasted until 1858
 				
 ## Carribeans
-
+* Brazil and Carribeans boomed due to sugar crops
+* Main crops: tobacco, hardwood, coffee
+* 
 
