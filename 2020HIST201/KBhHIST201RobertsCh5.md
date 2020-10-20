@@ -58,5 +58,8 @@ course: HIST201
 	* Early successes due to tobacco: "tobacco colonies"
 		* Supplied great customs values to England
 		* Left the French with 7,000 and England, 50,000 in the island
-	* Introduction of sugal  
+	* Introduction of sugar crops lead to shift towards Slave trade
+		* Tobacco economical if cultivated in small quantities
+		* Sugar needed large plantation
+	* Contributed to the demographic change in North America
 
