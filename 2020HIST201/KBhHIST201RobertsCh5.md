@@ -32,4 +32,8 @@ course: HIST201
 		* Provincial government of Bengal attacked + captured Calcutta
 		* East India Co.'s army recaptured the city + recaptured both territory of he French and of the governors
 		* Recapturing opened the way to British monopoly in India + diminishing of French dominance
-	* Britian P
+	* British Raj
+		* Britian proper sent an army to India, legetimizing the corporate armies of the Co.
+		* The Co. formally became ruler of Bengal in 1764
+			* French bases became scattered/useless
+			* Peace of 1763 left only 5 Frenc
