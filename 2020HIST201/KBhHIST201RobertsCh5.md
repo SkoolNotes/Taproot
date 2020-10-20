@@ -21,4 +21,6 @@ course: HIST201
 		* Increased polarity between the Marathas Hindus and the Mughals caused distress
 		* Sikhs formed their own sect of Hinduism, detaching from both true Hindu ideology and Islamic ideology
 		* 1730s Persian invasion caused loss in territory
-	* Britian did no 
+	* Britian did not invade the Indian region until much later than the 1740s => CLAIM: because it considered trade very important
+		* Finally decided to take action due to CLAIM: hostility towards the French
+		*  :  
