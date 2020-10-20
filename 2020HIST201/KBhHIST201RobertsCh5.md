@@ -28,4 +28,5 @@ course: HIST201
 	* British vs French conflict
 		* Supported opposite Indian princes
 		* Brought armed struggle between French and British forces
-		*  
+		* French governor Dupleix controlled brilliantly, but was recalled
+		* 
