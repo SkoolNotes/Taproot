@@ -73,6 +73,7 @@ source: #index
 
 - Mason ch 1 + 2 [[KBhHIST201MasonCh1n2]]
 - Roberts [[KBhHIST201RobertsCh5]]
+- Colbert and Smith [[KBhHIST201ColbertAndSmith]]
     
 # Essays
 * Essay 1 
