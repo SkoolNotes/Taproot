@@ -63,5 +63,7 @@ course: HIST201
 		* Sugar needed large plantation
 		* => Contributed to the overall demographic change in North America
 	*  Spanish control now vested on its control of the slave trade
-*  These places became the natural hunting grounds of pirates
+* Eventually, North Amercia emerged to be a bigger economy than that of new Spain  
 
+## Impacts
+* 
