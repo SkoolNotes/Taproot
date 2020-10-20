@@ -66,4 +66,5 @@ course: HIST201
 * Eventually, North Amercia emerged to be a bigger economy than that of new Spain  
 
 ## Impacts
+* Colonies had extracted varied economic benefit from their colonies
 * 
