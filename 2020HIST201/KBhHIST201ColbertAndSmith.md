@@ -16,4 +16,7 @@ course: HIST201
 
 ## Smith: Wealth of Nations
 * Divison of Labor
-	*  
+	* Divison of labor occurs naturally, without human intervention
+	* No other species does this — and instead seem to opt for independence + self-sufficiency
+	* Humans have the tendency to help others
+		* 
