@@ -61,5 +61,7 @@ course: HIST201
 	* Introduction of sugar crops lead to shift towards Slave trade
 		* Tobacco economical if cultivated in small quantities
 		* Sugar needed large plantation
-	* Contributed to the demographic change in North America
+		* => Contributed to the overall demographic change in North America
+	*  Spanish control now vested on its control of the slave trade
+	*  
 
