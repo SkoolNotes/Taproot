@@ -10,4 +10,5 @@ course: HIST201
 *Colbert: minister of finance, minister of marine and colonies; proponent of mercantilism — states regulate economic activities to increase wealth.*
 
 * Can't increase French currency supply
-* 
+* Believes that the king should... Control? trading through the West
+* That trading companies control much of the value
