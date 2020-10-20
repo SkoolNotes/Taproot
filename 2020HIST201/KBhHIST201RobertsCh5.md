@@ -9,4 +9,5 @@ course: HIST201
 
 * England challenged the "Indian Ocean supremacy"
 	* England had before sought to enter spice trade of India, but had issues trying to do so
-	* 
+	* Had French interference when trying to do business in India
+		* For a century held only Fort St. George, and Bombay
