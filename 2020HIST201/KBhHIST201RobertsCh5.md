@@ -29,4 +29,6 @@ course: HIST201
 		* Supported opposite Indian princes
 		* Brought armed struggle between French and British forces
 		* French governor Dupleix controlled brilliantly, but was recalled
-		* 
+		* Provincial government of Bengal attacked + captured Calcutta
+		* East India Co.'s army recaptured the city + recaptured both territory of he French and of the governors
+		* Opened 
