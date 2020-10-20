@@ -22,6 +22,8 @@ course: HIST201
 		* Humans operate no for benevolence, but instead help for self-interest
 		* "give me that which I want, and you shall have this which you want."
 * Trade
-	* 
+	* Monopolies to the domestic industry => useless/hurtful
+		* Only serves to tell people what they should do with their money
+	*  
 		
 		
