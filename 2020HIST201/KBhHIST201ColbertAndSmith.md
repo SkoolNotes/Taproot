@@ -24,6 +24,6 @@ course: HIST201
 * Trade
 	* Monopolies to the domestic industry => useless/hurtful
 		* Only serves to tell people what they should do with their money
-	*  
+	* If a foreign country has a  
 		
 		
