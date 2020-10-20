@@ -52,7 +52,7 @@ course: HIST201
 * Spanish influence on Caribbean agriculture
 	* Began with growth of fruit + cattle 
 	* Sugar and Rice was then introduced, but production was slow
-	* European settlements later appeared with the usual suspects => Netherlands, England, French
+* European settlements later appeared with the usual suspects => Netherlands, England, French
 		* England established 2 colonies => St. Christopher + Barbados
 		* St. Christopher => 3000, Barbados => 2000
 	* Early successes due to tobacco: "tobacco colonies"
@@ -63,5 +63,5 @@ course: HIST201
 		* Sugar needed large plantation
 		* => Contributed to the overall demographic change in North America
 	*  Spanish control now vested on its control of the slave trade
-	*  
+*  These places became the natural hunting grounds of pirates
 

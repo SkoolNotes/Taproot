@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3835)}}    % original
-%\rhead{\textrmlf{Compiled }\#3835\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3835\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3836)}}    % original
+%\rhead{\textrmlf{Compiled }\#3836\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3836\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -325,19 +325,15 @@
     Began with growth of fruit + cattle
   \item
     Sugar and Rice was then introduced, but production was slow
-  \item
-    European settlements later appeared with the usual suspects
-    =\textgreater{} Netherlands, England, French
+  \end{itemize}
+\item
+  European settlements later appeared with the usual suspects
+  =\textgreater{} Netherlands, England, French * England established 2
+  colonies =\textgreater{} St.~Christopher + Barbados * St.~Christopher
+  =\textgreater{} 3000, Barbados =\textgreater{} 2000
 
-    \begin{itemize}
-    \tightlist
-    \item
-      England established 2 colonies =\textgreater{} St.~Christopher +
-      Barbados
-    \item
-      St.~Christopher =\textgreater{} 3000, Barbados =\textgreater{}
-      2000
-    \end{itemize}
+  \begin{itemize}
+  \tightlist
   \item
     Early successes due to tobacco: ``tobacco colonies''
 
@@ -363,8 +359,9 @@
     \end{itemize}
   \item
     Spanish control now vested on its control of the slave trade
-  \item
   \end{itemize}
+\item
+  These places became the natural hunting grounds of pirates
 \end{itemize}
 
 \end{document}
