@@ -57,5 +57,5 @@ course: HIST201
 		* St. Christopher => 3000, Barbados => 2000
 	* Early successes due to tobacco: "tobacco colonies"
 		* Supplied great customs values to England
-		* Created
+		* Left the French
 
