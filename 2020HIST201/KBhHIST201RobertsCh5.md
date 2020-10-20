@@ -39,4 +39,7 @@ course: HIST201
 			* Peace of 1763 left only 5 French trading posts
 			* 1769 Compagnie des Indies dissolved
 		* Took Cerlon from Dutch year after #verify?
-		*  
+		* Growth => Decline
+			*  The company turned a bit too territorialist
+			*  Gave employees too many opportunities to cheat/bribe, and not enough profit for the company itself
+			*  
