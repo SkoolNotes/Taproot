@@ -36,4 +36,7 @@ course: HIST201
 		* Britian proper sent an army to India, legetimizing the corporate armies of the Co.
 		* The Co. formally became ruler of Bengal in 1764
 			* French bases became scattered/useless
-			* Peace of 1763 left only 5 Frenc
+			* Peace of 1763 left only 5 French trading posts
+			* 1769 Compagnie des Indies dissolved
+		* Took Cerlon from Dutch year after #verify?
+		*  
