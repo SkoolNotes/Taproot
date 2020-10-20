@@ -19,4 +19,9 @@ course: HIST201
 	* Divison of labor occurs naturally, without human intervention
 	* No other species does this — and instead seem to opt for independence + self-sufficiency
 	* Humans have the tendency to help others
-		* 
+		* Humans operate no for benevolence, but instead help for self-interest
+		* "give me that which I want, and you shall have this which you want."
+* Trade
+	* 
+		
+		
