@@ -70,4 +70,10 @@ course: HIST201
 	* Spanish => Silver from South America: broke the world economy
 	* England =>  Stimulated European exports + manufacturing: leading people to flow from Europe to Africa to Asia
 	* CLAIM: colonization of Americas brought huge, incalculable economic benefits
-*  
+* The Western hemisphere is decidedly European
+	* Organized under European legal system
+	* Christanized
+	
+> Europeans did not just conquer; they exterminated local cultures and peoples and replaced them with their own. 
+
+
