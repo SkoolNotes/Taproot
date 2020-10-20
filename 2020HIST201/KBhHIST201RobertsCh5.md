@@ -78,5 +78,14 @@ course: HIST201
 
 * The older Amercian cultures cut off from populating other parts of the world
 * CLAIM: the European dominance was a sign to "Asian Nationalists" (Japan??) as the sign of European injustice
-* Species became extinct, too!
-	* 
+* Americas suffered some species going extinct, and yet others massively planted
+	* Plants
+		* Potato
+		* Sweet potato
+		* Maize
+	* Domesticated Anemals
+		* Pigs
+		* Sheep
+		* Chicken
+	* => "Colombian exchange"  
+	*  
