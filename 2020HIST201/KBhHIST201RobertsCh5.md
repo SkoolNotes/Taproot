@@ -31,5 +31,5 @@ course: HIST201
 		* French governor Dupleix controlled brilliantly, but was recalled
 		* Provincial government of Bengal attacked + captured Calcutta
 		* East India Co.'s army recaptured the city + recaptured both territory of he French and of the governors
-		* Recapturing opened the way to British monopoly in India
-		* 
+		* Recapturing opened the way to British monopoly in India + diminishing of French dominance
+	* 
