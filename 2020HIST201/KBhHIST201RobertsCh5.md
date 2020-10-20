@@ -18,4 +18,5 @@ course: HIST201
 * Company growth
 	* East India Co. 1689 defeat pivoted direction to use non-force strategies
 	* Collapse of Mughals after 1707 brought energy and land to the British Trade
-		* Increased polarity between the Mughals and the Ottomans
+		* Increased polarity between the Marathas Hindus and the Mughals caused distress
+		* Sikhs formed their own sect of Hinduism, detaching from both true Hindu ideology, Islamic idology
