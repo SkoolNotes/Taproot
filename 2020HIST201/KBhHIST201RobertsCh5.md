@@ -8,4 +8,5 @@ course: HIST201
 # Roberts Ch. 5
 
 * England challenged the "Indian Ocean supremacy"
+	* England sought to enter spice trade
 	* 
