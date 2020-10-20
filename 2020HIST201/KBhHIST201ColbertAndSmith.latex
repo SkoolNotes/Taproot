@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3851)}}    % original
-%\rhead{\textrmlf{Compiled }\#3851\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3851\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3852)}}    % original
+%\rhead{\textrmlf{Compiled }\#3852\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3852\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -177,5 +177,12 @@ Finances}\label{colbert-memoir-on-finances}}
 \emph{Colbert: minister of finance, minister of marine and colonies;
 proponent of mercantilism --- states regulate economic activities to
 increase wealth.}
+
+\begin{itemize}
+\tightlist
+\item
+  Can't increase French currency supply
+\item
+\end{itemize}
 
 \end{document}
