@@ -76,4 +76,5 @@ course: HIST201
 	
 > Europeans did not just conquer; they exterminated local cultures and peoples and replaced them with their own. 
 
-
+* The older Amercian cultures cut off from populating other parts of the world
+* CLAIM: the European dominance was a sign to "Asian Nationalists" (
