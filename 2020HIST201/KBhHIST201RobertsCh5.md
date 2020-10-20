@@ -7,6 +7,7 @@ course: HIST201
 
 # Roberts Ch. 5
 
+## India
 * England challenged the "Indian Ocean supremacy"
 	* England had before sought to enter spice trade of India, but had issues trying to do so
 	* Had French interference when trying to do business in India
@@ -42,4 +43,9 @@ course: HIST201
 		* Growth => Decline
 			*  The company turned a bit too territorialist
 			*  Gave employees too many opportunities to cheat/bribe, and not enough profit for the company itself
-			*  
+			*  British government began nationalizing
+				*  Set up system of "dual control" in 1784 => lasted until 1858
+				
+## Carribeans
+
+
