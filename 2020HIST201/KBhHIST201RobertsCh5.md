@@ -55,5 +55,7 @@ course: HIST201
 	* European settlements later appeared with the usual suspects => Netherlands, England
 		* England established 2 colonies => St. Christopher + Barbados
 		* St. Christopher => 3000, Barbados => 2000
-	* 
+	* Early successes due to tobacco: "tobacco colonies"
+		* Supplied great customs values to England
+		* Created
 
