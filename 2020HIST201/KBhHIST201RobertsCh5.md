@@ -25,3 +25,7 @@ course: HIST201
 		* Finally decided to take action due to CLAIM: hostility towards the French
 		* Ownership of station at Calcutta provided access to riches part of India
 		* Wanted not to interfere with Indian politics, and instead employ the Mughal model of acceptance-and-profit
+	* British vs French conflict
+		* Supported opposite Indian princes
+		* Brought armed struggle between French and British forces
+		*  
