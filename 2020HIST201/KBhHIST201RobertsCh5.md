@@ -15,4 +15,6 @@ course: HIST201
 * Coffee!
 	* Establishment of coffee-houses of London brought popularity of the drink
 	* Tea drinking was also growing at the time
-	* 
+* Company growth
+	* East India Co. 1689 defeat pivoted direction to use non-force strategies
+	*  
