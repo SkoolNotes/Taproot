@@ -38,7 +38,7 @@ course: HIST201
 	* British Raj
 		* Britian proper sent an army to India, legetimizing the corporate armies of the Co.
 		* Taking over Mughal government services @sushu
-			* TAX FARMING: 
+			* TAX FARMING: government gives a person right to collect taxes
 		* The Co. formally became ruler of Bengal in 1764
 			* French bases became scattered/useless
 			* Peace of 1763 left only 5 French trading posts
