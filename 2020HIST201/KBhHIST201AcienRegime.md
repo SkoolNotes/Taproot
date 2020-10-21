@@ -33,15 +33,20 @@ French societies organized into three castes — "estates".
 	* Relatively prosperous, but <40% owned land
 	* Most rented land from lords as tenant farmers/sharecroppers
 	
-## Disorganiz
-	* No national currency, nor system of weights and measures, nor a market
-	* Network of highways existed, but not very efficient
-	* Economic policy guided by merchanitilist theory     
-		* Notion that precious metals holdings is the ultimate goal
-		* Encouraged development of manufacturing to provide for global market
-		* Development of the new *bourgeoisie* class — small merchants and shopkeepers
-	* Theory came under challenge by newer things like the free market theory
-		* Adam Smith's free market economy/baurseiosie challenged mercantilistic economy
-		* Old France very Roman Catholic
-			*  Church owned large amount of resources => almost 10% 
-			*  Monarchs crowed in cathedrals
+## Infrastructure Disorganization
+* No national currency, nor system of weights and measures, nor a market
+* Network of highways existed, but not very efficient
+
+## Merchanitilist Economy
+* Economic policy guided by **merchanitilist theory**
+	* Notion that precious metals holdings is the ultimate goal
+	* Encouraged development of manufacturing to provide for global market
+	* Development of the new *bourgeoisie* class — small merchants and shopkeepers
+	
+## Need of Reform	
+The established merchantilist theory came under challenge by newer philosophies like the free market theory
+
+	* Adam Smith's free market economy/baurseiosie challenged mercantilistic economy
+	* Old France very Roman Catholic
+		*  Church owned large amount of resources => almost 10% 
+		*  Monarchs crowed in cathedrals
