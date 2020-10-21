@@ -302,15 +302,18 @@ Damage host cells/tissues by...
 * Creating damaging immunological response
 
 # CN10212020
-* Transcription => converting DNA to mRNA
-	* Done by RNA Polymerase Enzyme
-	* Rip apart hydrogen bonds
-	* Read one side ("template strand") of the double helix, recognizing each nucleotide
-	* Pluck the correct corresponding nucleotide out of the nucleus
-		* G->C
-		* C->G
-		* A->**U**
-		* T->A
+
+## Making Proteins, a guide
+
+### Transcription => converting DNA to mRNA
+* Done by RNA Polymerase Enzyme
+* Rip apart hydrogen bonds
+* Read one side ("template strand") of the double helix, recognizing each nucleotide
+* Pluck the correct corresponding nucleotide out of the nucleus
+	* G->C
+	* C->G
+	* A->**U**
+	* T->A
 * Prokaryotes lack membrane-bound nucleus (or any organelle)
 
 \definition{Gene}{information that successfully encodes a functional protein}
@@ -318,3 +321,5 @@ Damage host cells/tissues by...
 * "Promoter"s denotes beginning of a gene. "Terminator"s denotes the end of gene.
 * Polymerase Enzyme starts at a promoter and ends at a terminator
 
+### mRNA processing => processing mRNA
+Pre-process the mRNA. **Prokaryotes does not do this!**

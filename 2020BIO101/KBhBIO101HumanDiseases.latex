@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3924)}}    % original
-%\rhead{\textrmlf{Compiled }\#3924\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3924\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3925)}}    % original
+%\rhead{\textrmlf{Compiled }\#3925\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3925\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -837,34 +837,35 @@ Damage host cells/tissues by\ldots{}
 \hypertarget{cn10212020}{%
 \section{CN10212020}\label{cn10212020}}
 
+\hypertarget{making-proteins-a-guide}{%
+\subsection{Making Proteins, a guide}\label{making-proteins-a-guide}}
+
+\hypertarget{transcription-converting-dna-to-mrna}{%
+\subsubsection{Transcription =\textgreater{} converting DNA to
+mRNA}\label{transcription-converting-dna-to-mrna}}
+
 \begin{itemize}
 \tightlist
 \item
-  Transcription =\textgreater{} converting DNA to mRNA
+  Done by RNA Polymerase Enzyme
+\item
+  Rip apart hydrogen bonds
+\item
+  Read one side (``template strand'') of the double helix, recognizing
+  each nucleotide
+\item
+  Pluck the correct corresponding nucleotide out of the nucleus
 
   \begin{itemize}
   \tightlist
   \item
-    Done by RNA Polymerase Enzyme
+    G-\textgreater C
   \item
-    Rip apart hydrogen bonds
+    C-\textgreater G
   \item
-    Read one side (``template strand'') of the double helix, recognizing
-    each nucleotide
+    A-\textgreater{}\textbf{U}
   \item
-    Pluck the correct corresponding nucleotide out of the nucleus
-
-    \begin{itemize}
-    \tightlist
-    \item
-      G-\textgreater C
-    \item
-      C-\textgreater G
-    \item
-      A-\textgreater{}\textbf{U}
-    \item
-      T-\textgreater A
-    \end{itemize}
+    T-\textgreater A
   \end{itemize}
 \item
   Prokaryotes lack membrane-bound nucleus (or any organelle)
@@ -880,5 +881,11 @@ Damage host cells/tissues by\ldots{}
 \item
   Polymerase Enzyme starts at a promoter and ends at a terminator
 \end{itemize}
+
+\hypertarget{mrna-processing-processing-mrna}{%
+\subsubsection{mRNA processing =\textgreater{} processing
+mRNA}\label{mrna-processing-processing-mrna}}
+
+Pre-process the mRNA. \textbf{Prokaryotes does not do this!}
 
 \end{document}
