@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3875)}}    % original
-%\rhead{\textrmlf{Compiled }\#3875\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3875\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3876)}}    % original
+%\rhead{\textrmlf{Compiled }\#3876\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3876\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -197,8 +197,21 @@
   \item
     If there is a T then put a T
   \item
-    Count the number of phosphates and
+    Count the number of phosphates and use the code
+
+    \begin{itemize}
+    \tightlist
+    \item
+      1 is Mono - M
+    \item
+      2 is Di - D
+    \item
+      3 Tri - T
+    \end{itemize}
+  \item
+    Phosphate groups determine the amount of energy in the molecule
   \end{itemize}
+\item
 \end{itemize}
 
 \end{document}

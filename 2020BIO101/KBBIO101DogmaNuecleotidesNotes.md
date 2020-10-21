@@ -14,4 +14,9 @@ source: KBBiologyMasterIndex
 	 - If the second carbon does not have an oxygen then it is DNA
 		 - You would write the letter d
 	 - If there is a T then put a T
-	 - Count the number of phosphates and 
+	 - Count the number of phosphates and use the code
+		 - 1 is Mono - M
+		 - 2 is Di - D
+		 - 3 Tri - T
+	 - Phosphate groups determine the amount of energy in the molecule
+ - 
