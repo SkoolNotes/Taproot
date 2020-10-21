@@ -315,5 +315,7 @@ Damage host cells/tissues by...
 
 \definition{Gene}{information that successfully encodes a functional protein}
 
-* "Promoter"s denotes beginning of a gene. "Terminator"s
+* "Promoter"s denotes beginning of a gene. "Terminator"s denotes the end of gene.
+* Polymerase Enzyme starts at a promoter and ends at a terminator
+* 
 
