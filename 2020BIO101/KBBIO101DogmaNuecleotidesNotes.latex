@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3873)}}    % original
-%\rhead{\textrmlf{Compiled }\#3873\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3873\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3874)}}    % original
+%\rhead{\textrmlf{Compiled }\#3874\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3874\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -174,6 +174,22 @@
 \begin{itemize}
 \tightlist
 \item
+  Nucleotides make up DNA and RNA
+
+  \begin{itemize}
+  \tightlist
+  \item
+    DNA and RNA have different levels of stability
+
+    \begin{itemize}
+    \tightlist
+    \item
+      This is all because of the hydroxyl group vs just the hydrogen
+    \end{itemize}
+  \item
+    If the second carbon does not have an oxygen then it is DNA
+  \item
+  \end{itemize}
 \end{itemize}
 
 \end{document}
