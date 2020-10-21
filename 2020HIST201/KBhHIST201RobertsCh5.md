@@ -37,6 +37,8 @@ course: HIST201
 		* Recapturing opened the way to British monopoly in India + diminishing of French dominance
 	* British Raj
 		* Britian proper sent an army to India, legetimizing the corporate armies of the Co.
+		* Taking over Mughal government services @sushu
+			* TAX FARMING: 
 		* The Co. formally became ruler of Bengal in 1764
 			* French bases became scattered/useless
 			* Peace of 1763 left only 5 French trading posts
