@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3919)}}    % original
-%\rhead{\textrmlf{Compiled }\#3919\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3919\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3920)}}    % original
+%\rhead{\textrmlf{Compiled }\#3920\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3920\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -862,7 +862,18 @@ Damage host cells/tissues by\ldots{}
         Read one side of the double helix, recognizing each nucleotide
       \item
         Pluck the correct corresponding nucleotide out of the nucleus
-      \item
+
+        \begin{itemize}
+        \tightlist
+        \item
+          G-\textgreater C
+        \item
+          C-\textgreater G
+        \item
+          A-\textgreater{}\textbf{U}
+        \item
+          T-\textgreater A
+        \end{itemize}
       \end{itemize}
     \end{itemize}
   \end{itemize}

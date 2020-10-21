@@ -309,5 +309,8 @@ Damage host cells/tissues by...
 			* Rip apart hydrogen bonds
 			* Read one side of the double helix, recognizing each nucleotide
 			* Pluck the correct corresponding nucleotide out of the nucleus
-			*
+				* G->C
+				* C->G
+				* A->**U**
+				* T->A
 * Prokaryotes lack membrane-bound nucleus (or any organelle)
