@@ -14,7 +14,7 @@ course: HIST201
 * Needs to try to ensure that government is as rich as possible: meaning that one must engage in a *world of money*
 	* Encouraged waging of trade wars
 	* Take money from other economies
-* Merchantilist: measuring success with the nation's wealth + seizure of trade
+* Merchantilist: wage trade war, measuring success with the nation's wealth + seizure of trade. Goal = spend less, earn more, monopolize
 
 ## Smith: Wealth of Nations
 * Divison of Labor
