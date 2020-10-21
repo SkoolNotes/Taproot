@@ -54,6 +54,8 @@ course: HIST201
 	* Use tax to fund expansion
 	* Citizens get benefit of expansion + don't mind high taxes
 * Obviously, this works only if your contry is merchatilist where  
+
+![britsacquireinda.png](britsacquireinda.png)
 				
 ## Carribeans
 * Brazil and Carribeans boomed due to sugar crops
