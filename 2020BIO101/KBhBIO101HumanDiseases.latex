@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3930)}}    % original
-%\rhead{\textrmlf{Compiled }\#3930\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3930\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3931)}}    % original
+%\rhead{\textrmlf{Compiled }\#3931\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3931\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -931,9 +931,9 @@ Mature mRNA sent to ribosome.
 \item
   Translates mRNA to tRNA --- anti-codon pairs
 \item
-  Catalyst rRNA works together with tRNA to catalyze amino acid peptide
-  bond
+  Catalyst tRNA combines with rRNA to catalyze amino acid peptide bond
 \item
+  Each codon (group of 3 units in mRNA),
 \end{itemize}
 
 \end{document}

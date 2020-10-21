@@ -343,5 +343,7 @@ Mature mRNA sent to ribosome.
 
 * Ribosone reads the mRNA in groups of 3s ("codons") by matching with the corresponding nucleotides
 * Translates mRNA to tRNA — anti-codon pairs
-* Catalyst tRNA rRNA works together with tRNA to catalyze amino acid peptide bond
-*  
+* Catalyst tRNA combines with rRNA  to catalyze amino acid peptide bond
+* Each codon (group of 3 units in tRNA), matches a specific [[KBhBIO101AminoAcids]]
+
+After the amino acids are assembled, it's time for [[KBe2020bio101refProteinFolding]]. See also [[KBhBIO101Proteins]].
