@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3887)}}    % original
-%\rhead{\textrmlf{Compiled }\#3887\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3887\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3888)}}    % original
+%\rhead{\textrmlf{Compiled }\#3888\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3888\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -170,6 +170,9 @@
 \hypertarget{acien-ruxe9gime}{%
 \section{Acien Régime}\label{acien-ruxe9gime}}
 
+The Old France was economy generally rural + dominated by subsistence
+farming.
+
 \hypertarget{societal-structure}{%
 \subsection{Societal Structure}\label{societal-structure}}
 
@@ -188,19 +191,40 @@ In practice, this makes a\ldots{}
 \hypertarget{estates-caste-system}{%
 \subsection{Estates: ``Caste'' System}\label{estates-caste-system}}
 
-\begin{verbatim}
-    * French societies organized into three castes — "estates"
-        * First Estate => clergy; enjoyed high status
-        * Second Estate => aristocracy; provided military and monetary support
-            * *Les Grands*: largest landholders w/ large houses
-            * *Seigneurs*: provincial nobles who simply owned estates in the countryside
-        * Third Estate => 97% of the population
-            * Production!
-            * Reproduction!
-            * Work!
-            * Relatively prosperous, but <40% owned land
-            * Most rented land from lords as tenant farmers/sharecroppers
-        * Economy generally rural + dominate by subsistence farming
-\end{verbatim}
+French societies organized into three castes --- ``estates''.
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{First Estate} =\textgreater{} clergy; enjoyed high status
+\item
+  \textbf{Second Estate} =\textgreater{} aristocracy; provided military
+  and monetary support
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Les Grands}: largest landholders w/ large houses
+  \item
+    \emph{Seigneurs}: provincial nobles who simply owned estates in the
+    countryside
+  \end{itemize}
+\item
+  \textbf{Third Estate} =\textgreater{} 97\% of the population
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Production!
+  \item
+    Reproduction!
+  \item
+    Work!
+  \item
+    Relatively prosperous, but \textless40\% owned land
+  \item
+    Most rented land from lords as tenant farmers/sharecroppers
+  \end{itemize}
+\end{itemize}
 
 \end{document}

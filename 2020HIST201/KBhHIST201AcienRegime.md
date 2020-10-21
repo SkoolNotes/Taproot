@@ -6,6 +6,7 @@ course: HIST201
 ---
 
 # Acien Régime
+The Old France was economy generally rural + dominated by subsistence farming.
 
 ## Societal Structure
  Strict grid of social hierarchy resulted due to birthright => Great Chain of Being
@@ -19,17 +20,28 @@ In practice, this makes a...
 
 ## Estates: "Caste" System
 
-		* French societies organized into three castes — "estates"
-			* First Estate => clergy; enjoyed high status
-			* Second Estate => aristocracy; provided military and monetary support
-				* *Les Grands*: largest landholders w/ large houses
-				* *Seigneurs*: provincial nobles who simply owned estates in the countryside
-			* Third Estate => 97% of the population
-				* Production!
-				* Reproduction!
-				* Work!
-				* Relatively prosperous, but <40% owned land
-				* Most rented land from lords as tenant farmers/sharecroppers
-			* Economy generally rural + dominate by subsistence farming
+French societies organized into three castes — "estates".
 
+* **First Estate** => clergy; enjoyed high status
+* **Second Estate** => aristocracy; provided military and monetary support
+	* *Les Grands*: largest landholders w/ large houses
+	* *Seigneurs*: provincial nobles who simply owned estates in the countryside
+* **Third Estate** => 97% of the population
+	* Production!
+	* Reproduction!
+	* Work!
+	* Relatively prosperous, but <40% owned land
+	* Most rented land from lords as tenant farmers/sharecroppers
+	
 
+	* No national currency, nor system of weights and measures, nor a market
+	* Network of highways existed, but not very efficient
+	* Economic policy guided by merchanitilist theory     
+		* Notion that precious metals holdings is the ultimate goal
+		* Encouraged development of manufacturing to provide for global market
+		* Development of the new *bourgeoisie* class — small merchants and shopkeepers
+	* Theory came under challenge by newer things like the free market theory
+		* Adam Smith's free market economy/baurseiosie challenged mercantilistic economy
+		* Old France very Roman Catholic
+			*  Church owned large amount of resources => almost 10% 
+			*  Monarchs crowed in cathedrals
