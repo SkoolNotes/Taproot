@@ -6,7 +6,9 @@ author: Houjun Liu
 ---
 
 
-# The Old Regime + The Enlightenment
+# Mason Ch.1 + 2
+
+
 
 * 18th Century Monarchies
 	* Comprised of absolute monarchies
