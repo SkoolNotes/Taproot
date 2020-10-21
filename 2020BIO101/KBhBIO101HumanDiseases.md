@@ -308,6 +308,6 @@ Damage host cells/tissues by...
 			* Done by RNA Polymerase Enzyme
 			* Rip apart hydrogen bonds
 			* Read one side of the double helix, recognizing each nucleotide
-			* Pluck the correct opposite nucleotide out of the nucleus
-			* 
+			* Pluck the correct corresponding nucleotide out of the nucleus
+			*
 * Prokaryotes lack membrane-bound nucleus (or any organelle)
