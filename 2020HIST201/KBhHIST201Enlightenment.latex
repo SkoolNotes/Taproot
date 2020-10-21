@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3903)}}    % original
-%\rhead{\textrmlf{Compiled }\#3903\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3903\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3904)}}    % original
+%\rhead{\textrmlf{Compiled }\#3904\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3904\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -172,7 +172,20 @@
 \tightlist
 \item
   Individual liberty
-\item
 \end{itemize}
+
+\hypertarget{hobbes}{%
+\subsection{Hobbes}\label{hobbes}}
+
+\begin{itemize}
+\tightlist
+\item
+  People need order
+\item
+  People are born good, and they natually order themselves
+\end{itemize}
+
+\hypertarget{section}{%
+\subsection{}\label{section}}
 
 \end{document}
