@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3788)}}    % original
-%\rhead{\textrmlf{Compiled }\#3788\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3788\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3871)}}    % original
+%\rhead{\textrmlf{Compiled }\#3871\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3871\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -261,6 +261,8 @@ Overview}\label{trips-free-association-overview}}
   {[}{[}KBBIO101ProteinReading{]}{]}
 \item
   {[}{[}KBhBIO101NucleicAcidsDNARNA{]}{]}
+\item
+  {[}{[}KBBIO101
 \end{itemize}
 
 \hypertarget{human-diseases}{%
