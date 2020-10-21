@@ -305,7 +305,7 @@ Damage host cells/tissues by...
 * Transcription => converting DNA to mRNA
 	* Done by RNA Polymerase Enzyme
 	* Rip apart hydrogen bonds
-	* Read one side of the double helix, recognizing each nucleotide
+	* Read one side ("template strand") of the double helix, recognizing each nucleotide
 	* Pluck the correct corresponding nucleotide out of the nucleus
 		* G->C
 		* C->G
@@ -317,5 +317,4 @@ Damage host cells/tissues by...
 
 * "Promoter"s denotes beginning of a gene. "Terminator"s denotes the end of gene.
 * Polymerase Enzyme starts at a promoter and ends at a terminator
-* 
 

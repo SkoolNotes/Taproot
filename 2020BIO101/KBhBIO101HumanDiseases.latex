@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3923)}}    % original
-%\rhead{\textrmlf{Compiled }\#3923\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3923\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3924)}}    % original
+%\rhead{\textrmlf{Compiled }\#3924\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3924\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -849,7 +849,8 @@ Damage host cells/tissues by\ldots{}
   \item
     Rip apart hydrogen bonds
   \item
-    Read one side of the double helix, recognizing each nucleotide
+    Read one side (``template strand'') of the double helix, recognizing
+    each nucleotide
   \item
     Pluck the correct corresponding nucleotide out of the nucleus
 
@@ -878,7 +879,6 @@ Damage host cells/tissues by\ldots{}
   end of gene.
 \item
   Polymerase Enzyme starts at a promoter and ends at a terminator
-\item
 \end{itemize}
 
 \end{document}
