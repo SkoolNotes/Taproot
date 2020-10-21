@@ -302,4 +302,6 @@ Damage host cells/tissues by...
 * Creating damaging immunological response
 
 # CN10212020
-* 
+* **Viruses and Central Dogma
+	* Central dogma's important processes
+		* Transcription => converting DNA to mRNA
