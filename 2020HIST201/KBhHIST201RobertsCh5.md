@@ -56,7 +56,10 @@ course: HIST201
 * Obviously, this works only if your contry is merchatilist where  
 
 ![britsacquireinda.png](britsacquireinda.png)
-				
+
+
+* Roberts => empirization is because of increased commercial opportunity
+* Trauttmann => sta
 ## Carribeans
 * Brazil and Carribeans boomed due to sugar crops
 * Main crops: tobacco, hardwood, coffee
