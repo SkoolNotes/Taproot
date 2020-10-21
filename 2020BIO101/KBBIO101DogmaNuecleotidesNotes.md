@@ -8,6 +8,9 @@ source: KBBiologyMasterIndex
 #flo #ret 
 ---
 # Notes
+
+ ### DNA/RNA
+ 
  - Nucleotides make up DNA and RNA
 	 - DNA and RNA have different levels of stability
 		 - This is all because of the hydroxyl group vs just the hydrogen
@@ -19,4 +22,7 @@ source: KBBiologyMasterIndex
 		 - 2 is Di - D
 		 - 3 Tri - T
 	 - Phosphate groups determine the amount of energy in the molecule
+
+### Central Dogma of Biology
+
  - 
