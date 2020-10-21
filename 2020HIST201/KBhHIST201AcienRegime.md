@@ -20,7 +20,7 @@ In practice, this makes a...
 
 ## Estates: "Caste" System
 
-French societies organized into three castes — "estates".
+French societies organized into three castes — "estates". Old France very Roman Catholic with the Church owning a large amount of resources => almost 10% w/ the monarchs crowed in cathedrals.
 
 * **First Estate** => clergy; enjoyed high status
 * **Second Estate** => aristocracy; provided military and monetary support
@@ -32,6 +32,7 @@ French societies organized into three castes — "estates".
 	* Work!
 	* Relatively prosperous, but <40% owned land
 	* Most rented land from lords as tenant farmers/sharecroppers
+
 	
 ## Infrastructure Disorganization
 * No national currency, nor system of weights and measures, nor a market
@@ -44,9 +45,6 @@ French societies organized into three castes — "estates".
 	* Development of the new *bourgeoisie* class — small merchants and shopkeepers
 	
 ## Need of Reform	
-The established merchantilist theory came under challenge by newer philosophies like the free market theory
+The established merchantilist theory came under challenge by newer philosophies like the free market theory.
 
-	* Adam Smith's free market economy/baurseiosie challenged mercantilistic economy
-	* Old France very Roman Catholic
-		*  Church owned large amount of resources => almost 10% 
-		*  Monarchs crowed in cathedrals
+* **Adam Smith**'s free market economy/baurseiosie challenged mercantilistic economy
