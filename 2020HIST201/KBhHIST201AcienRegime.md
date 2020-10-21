@@ -33,7 +33,7 @@ French societies organized into three castes — "estates".
 	* Relatively prosperous, but <40% owned land
 	* Most rented land from lords as tenant farmers/sharecroppers
 	
-
+## Disorganiz
 	* No national currency, nor system of weights and measures, nor a market
 	* Network of highways existed, but not very efficient
 	* Economic policy guided by merchanitilist theory     
