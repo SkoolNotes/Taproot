@@ -315,5 +315,5 @@ Damage host cells/tissues by...
 
 \definition{Gene}{information that successfully encodes a functional protein}
 
-* 
+* "Promoter"s denotes beginning of a gene. "Terminator"s
 
