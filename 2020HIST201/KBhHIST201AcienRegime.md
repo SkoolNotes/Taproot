@@ -8,11 +8,12 @@ course: HIST201
 # Acien Régime
 
 ## Societal Structure
-* Strict grid of social hierarchy resulted due to birthright
-* Societal organization explained by Great Chain of Being
-	* Entire world organized structurally
-	* God at the top, rocks at the bottom
-		* In which, King on the top — God's divine representative ("L'état c'est moi" — the state is me)
+ Strict grid of social hierarchy resulted due to birthright => Great Chain of Being
+ 
+**Great Chain of Being**
+* Entire world organized structurally
+* God at the top, rocks at the bottom
+* In which, King on the top — God's divine representative ("L'état c'est moi" — the state is me)
 		* French societies organized into three castes — "estates"
 			* First Estate => clergy; enjoyed high status
 			* Second Estate => aristocracy; provided military and monetary support
