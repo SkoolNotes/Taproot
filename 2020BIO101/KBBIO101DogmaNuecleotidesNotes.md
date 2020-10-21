@@ -25,4 +25,6 @@ source: KBBiologyMasterIndex
 
 ### Central Dogma of Biology
 
+ - From the DNA an RNA is created
+ - From the RNA a protein is generated
  - 
