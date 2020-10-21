@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3432)}}    % original
-%\rhead{\textrmlf{Compiled }\#3432\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3432\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3912)}}    % original
+%\rhead{\textrmlf{Compiled }\#3912\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3912\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -832,6 +832,14 @@ Damage host cells/tissues by\ldots{}
   Promoting tumorigenisis --- cancer
 \item
   Creating damaging immunological response
+\end{itemize}
+
+\hypertarget{cn10212020}{%
+\section{CN10212020}\label{cn10212020}}
+
+\begin{itemize}
+\tightlist
+\item
 \end{itemize}
 
 \end{document}
