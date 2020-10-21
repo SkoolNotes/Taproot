@@ -59,13 +59,12 @@ course: HIST201
 
 
 * Roberts => empirization is because of increased commercial opportunity
-* Trauttmann => sta
+* Trauttmann => empirization is due to the faliture of the silent Dutch model
 
 * Salt hedge
 	* Salt in + opium out
 	* 400 miles (SF:Chicago)
 	* Controlled the economy
-	* 
 
 ## Carribeans
 * Brazil and Carribeans boomed due to sugar crops
