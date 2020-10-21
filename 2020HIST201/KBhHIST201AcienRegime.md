@@ -11,9 +11,14 @@ course: HIST201
  Strict grid of social hierarchy resulted due to birthright => Great Chain of Being
  
 **Great Chain of Being**
-* Entire world organized structurally
-* God at the top, rocks at the bottom
-* In which, King on the top — God's divine representative ("L'état c'est moi" — the state is me)
+The entire "world" was, according to GCB, organized structurally with god at the top, rocks at the bottom. 
+
+In the human world, King on the top — God's divine representative ("L'état c'est moi" — the state is me), then the clergy, then aristocracy, and finally commoners.
+
+In practice, this makes a...
+
+## Estates: "Caste" System
+
 		* French societies organized into three castes — "estates"
 			* First Estate => clergy; enjoyed high status
 			* Second Estate => aristocracy; provided military and monetary support
@@ -27,5 +32,4 @@ course: HIST201
 				* Most rented land from lords as tenant farmers/sharecroppers
 			* Economy generally rural + dominate by subsistence farming
 
-## "Caste" Syste
 
