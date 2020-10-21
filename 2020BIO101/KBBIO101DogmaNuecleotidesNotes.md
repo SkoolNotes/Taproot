@@ -9,7 +9,7 @@ source: KBBiologyMasterIndex
 
 # Notes
 
- ### DNA/RNA
+### DNA/RNA
  
  - Nucleotides make up DNA and RNA
 	 - DNA and RNA have different levels of stability
@@ -25,6 +25,12 @@ source: KBBiologyMasterIndex
 
 ### Central Dogma of Biology
 
- - From the DNA an RNA is created
- - From the RNA a protein is generated
- - 
+- From the DNA an RNA is created
+- From the RNA a protein is generated
+- The central dogma says that protein instructions are found in DNA
+- RNA carries these instructions somewhere which manufactures proteins
+- Parts of DNA are transcribed into RNA
+- In short DNA  -- > RNA -- > Protein
+	- This is done because moving DNA doesn't make sense as it's the master copy
+	- RNA is moved to the place that the protein can be made from the instructions
+- This is done through transcription and translation
