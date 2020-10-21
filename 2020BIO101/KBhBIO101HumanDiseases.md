@@ -302,15 +302,18 @@ Damage host cells/tissues by...
 * Creating damaging immunological response
 
 # CN10212020
-* **Viruses and Central Dogma
-	* Central dogma's important processes
-		* Transcription => converting DNA to mRNA
-			* Done by RNA Polymerase Enzyme
-			* Rip apart hydrogen bonds
-			* Read one side of the double helix, recognizing each nucleotide
-			* Pluck the correct corresponding nucleotide out of the nucleus
-				* G->C
-				* C->G
-				* A->**U**
-				* T->A
+* Transcription => converting DNA to mRNA
+	* Done by RNA Polymerase Enzyme
+	* Rip apart hydrogen bonds
+	* Read one side of the double helix, recognizing each nucleotide
+	* Pluck the correct corresponding nucleotide out of the nucleus
+		* G->C
+		* C->G
+		* A->**U**
+		* T->A
 * Prokaryotes lack membrane-bound nucleus (or any organelle)
+
+\definition{Gene}{information that successfully encodes a functional protein}
+
+* 
+

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3920)}}    % original
-%\rhead{\textrmlf{Compiled }\#3920\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3920\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3921)}}    % original
+%\rhead{\textrmlf{Compiled }\#3921\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3921\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -840,45 +840,40 @@ Damage host cells/tissues by\ldots{}
 \begin{itemize}
 \tightlist
 \item
-  **Viruses and Central Dogma
+  Transcription =\textgreater{} converting DNA to mRNA
 
   \begin{itemize}
   \tightlist
   \item
-    Central dogma's important processes
+    Done by RNA Polymerase Enzyme
+  \item
+    Rip apart hydrogen bonds
+  \item
+    Read one side of the double helix, recognizing each nucleotide
+  \item
+    Pluck the correct corresponding nucleotide out of the nucleus
 
     \begin{itemize}
     \tightlist
     \item
-      Transcription =\textgreater{} converting DNA to mRNA
-
-      \begin{itemize}
-      \tightlist
-      \item
-        Done by RNA Polymerase Enzyme
-      \item
-        Rip apart hydrogen bonds
-      \item
-        Read one side of the double helix, recognizing each nucleotide
-      \item
-        Pluck the correct corresponding nucleotide out of the nucleus
-
-        \begin{itemize}
-        \tightlist
-        \item
-          G-\textgreater C
-        \item
-          C-\textgreater G
-        \item
-          A-\textgreater{}\textbf{U}
-        \item
-          T-\textgreater A
-        \end{itemize}
-      \end{itemize}
+      G-\textgreater C
+    \item
+      C-\textgreater G
+    \item
+      A-\textgreater{}\textbf{U}
+    \item
+      T-\textgreater A
     \end{itemize}
   \end{itemize}
 \item
   Prokaryotes lack membrane-bound nucleus (or any organelle)
+\end{itemize}
+
+\definition{Gene}{information that successfully encodes a functional protein}
+
+\begin{itemize}
+\tightlist
+\item
 \end{itemize}
 
 \end{document}
