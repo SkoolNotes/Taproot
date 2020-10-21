@@ -330,8 +330,9 @@ Pre-process the mRNA.
 
 **Prokaryotes does not do this!** Prokarotes' coding sequence always makes a full protein, so we just start at promoter and end at terminator and make a protein!
 
-
 In Eukaryotic DNA...
 
-Between Promoter and Terminator, **Exon** and **Intron** alternate. Exon is coding, whereas Intron 
+Between Promoter and Terminator, **Exon** and **Intron** alternate. Exon is coding, whereas Intron is non-coding and works as metadata.
+
+After reading the intron, they are spliced out during mRNA processing.
 
