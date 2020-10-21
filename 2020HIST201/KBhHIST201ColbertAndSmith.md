@@ -17,7 +17,7 @@ course: HIST201
 * Merchantilist: wage trade war, measuring success with the nation's wealth + seizure of trade. Goal = spend less, earn more, monopolize
 
 ## Smith: Wealth of Nations
-* The more you spend, the more you get
+* The more you spend, the more you get + open trade is encouraged
 * Divison of Labor
 	* Divison of labor occurs naturally, without human intervention
 	* No other species does this — and instead seem to opt for independence + self-sufficiency
