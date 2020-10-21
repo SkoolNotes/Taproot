@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3925)}}    % original
-%\rhead{\textrmlf{Compiled }\#3925\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3925\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3926)}}    % original
+%\rhead{\textrmlf{Compiled }\#3926\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3926\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -887,5 +887,13 @@ mRNA}\label{transcription-converting-dna-to-mrna}}
 mRNA}\label{mrna-processing-processing-mrna}}
 
 Pre-process the mRNA. \textbf{Prokaryotes does not do this!}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Non-coding sequence}: metadata for DNA for the processors
+\item
+  \emph{Coding sequence}: DNA content for amino-acid production
+\end{itemize}
 
 \end{document}

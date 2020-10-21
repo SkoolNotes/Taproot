@@ -323,3 +323,8 @@ Damage host cells/tissues by...
 
 ### mRNA processing => processing mRNA
 Pre-process the mRNA. **Prokaryotes does not do this!**
+
+- *Non-coding sequence*: metadata for DNA for the processors
+- *Coding sequence*: DNA content for amino-acid production
+
+
