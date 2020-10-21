@@ -11,8 +11,9 @@ course: HIST201
 
 * Can't increase French currency supply
 * Believes that the king should... Control? trading through the West
-* That trading companies control much of the value generated is dangerous
-* Could control and restrict trading companies to solve currency problem?
+* Needs to try to ensure that government is as rich as possible: meaning that one must engage in a *world of money*
+	* Encouraged waging of trade wars
+	* 
 
 ## Smith: Wealth of Nations
 * Divison of Labor
