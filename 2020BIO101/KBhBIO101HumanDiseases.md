@@ -316,7 +316,9 @@ Damage host cells/tissues by...
 	* T->A
 * Prokaryotes lack membrane-bound nucleus (or any organelle)
 
-\definition{Gene}{information that successfully encodes a functional protein}
+\definition{Gene}{information that successfully encodes a functional protein or a functional catalytic RNA}
+
+RNAs could also be catalysts!
 
 * "Promoter"s denotes beginning of a gene. "Terminator"s denotes the end of gene.
 * Polymerase Enzyme starts at a promoter and ends at a terminator
@@ -334,5 +336,12 @@ In Eukaryotic DNA...
 
 Between Promoter and Terminator, **Exon** and **Intron** alternate. Exon is coding, whereas Intron is non-coding and works as metadata.
 
-After reading the intron, they are spliced out during mRNA processing.
+After reading the intron, they are spliced out during mRNA processing => done by the "splicesome". The mRNA, after splicing, is "capped and tailed" to mark pre-processing completion, at which point they leave the nucleus + go to the ribosome.
 
+### Translation => RNA-directed polypeptide synthesis
+Mature mRNA sent to ribosome.
+
+* Ribosone reads the mRNA in groups of 3s ("codons") by matching with the corresponding nucleotides
+* Translates mRNA to tRNA — anti-codon pairs
+* Catalyst tRNA rRNA works together with tRNA to catalyze amino acid peptide bond
+*  
