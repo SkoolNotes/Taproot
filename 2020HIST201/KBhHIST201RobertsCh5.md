@@ -49,6 +49,7 @@ course: HIST201
 			*  Gave employees too many opportunities to cheat/bribe, and not enough profit for the company itself
 			*  British government began nationalizing
 				*  Set up system of "dual control" in 1784 => lasted until 1858
+* Britian successful because of the tax
 				
 ## Carribeans
 * Brazil and Carribeans boomed due to sugar crops
@@ -87,7 +88,7 @@ course: HIST201
 		* Potato
 		* Sweet potato
 		* Maize
-	* Domesticated Anemals
+	* Domesticated Animals
 		* Pigs
 		* Sheep
 		* Chicken
