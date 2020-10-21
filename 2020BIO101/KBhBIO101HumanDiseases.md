@@ -305,4 +305,5 @@ Damage host cells/tissues by...
 * **Viruses and Central Dogma
 	* Central dogma's important processes
 		* Transcription => converting DNA to mRNA
+			* Done by RNA Polymerase Enzyme
 * Prokaryotes lack membrane-bound nucleus (or any organelle)
