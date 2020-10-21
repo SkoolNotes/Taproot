@@ -321,10 +321,15 @@ Damage host cells/tissues by...
 * "Promoter"s denotes beginning of a gene. "Terminator"s denotes the end of gene.
 * Polymerase Enzyme starts at a promoter and ends at a terminator
 
-### mRNA processing => processing mRNA
-Pre-process the mRNA. **Prokaryotes does not do this!**
-
+### Before we continue, two words
 - *Non-coding sequence*: metadata for DNA for the processors
 - *Coding sequence*: DNA content for amino-acid production
+
+### mRNA processing => processing mRNA
+Pre-process the mRNA. 
+
+**Prokaryotes does not do this!** Prokarotes' coding sequence always makes a full protein, so we just start at promoter and end at terminator and make a protein!
+
+
 
 

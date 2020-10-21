@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3926)}}    % original
-%\rhead{\textrmlf{Compiled }\#3926\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3926\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3927)}}    % original
+%\rhead{\textrmlf{Compiled }\#3927\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3927\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -882,11 +882,9 @@ mRNA}\label{transcription-converting-dna-to-mrna}}
   Polymerase Enzyme starts at a promoter and ends at a terminator
 \end{itemize}
 
-\hypertarget{mrna-processing-processing-mrna}{%
-\subsubsection{mRNA processing =\textgreater{} processing
-mRNA}\label{mrna-processing-processing-mrna}}
-
-Pre-process the mRNA. \textbf{Prokaryotes does not do this!}
+\hypertarget{before-we-continue-two-words}{%
+\subsubsection{Before we continue, two
+words}\label{before-we-continue-two-words}}
 
 \begin{itemize}
 \tightlist
@@ -895,5 +893,15 @@ Pre-process the mRNA. \textbf{Prokaryotes does not do this!}
 \item
   \emph{Coding sequence}: DNA content for amino-acid production
 \end{itemize}
+
+\hypertarget{mrna-processing-processing-mrna}{%
+\subsubsection{mRNA processing =\textgreater{} processing
+mRNA}\label{mrna-processing-processing-mrna}}
+
+Pre-process the mRNA.
+
+\textbf{Prokaryotes does not do this!} Prokarotes' coding sequence
+always makes a full protein, so we just start at promoter and end at
+terminator and make a protein!
 
 \end{document}
