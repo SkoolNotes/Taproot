@@ -60,6 +60,13 @@ course: HIST201
 
 * Roberts => empirization is because of increased commercial opportunity
 * Trauttmann => sta
+
+* Salt hedge
+	* Salt in + opium out
+	* 400 miles (SF:Chicago)
+	* Controlled the economy
+	* 
+
 ## Carribeans
 * Brazil and Carribeans boomed due to sugar crops
 * Main crops: tobacco, hardwood, coffee
