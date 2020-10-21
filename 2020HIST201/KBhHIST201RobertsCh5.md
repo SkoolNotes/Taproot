@@ -49,7 +49,11 @@ course: HIST201
 			*  Gave employees too many opportunities to cheat/bribe, and not enough profit for the company itself
 			*  British government began nationalizing
 				*  Set up system of "dual control" in 1784 => lasted until 1858
-* Britian successful because of the tax
+* Britian successful because of the tax-and-spend cycle
+	* Heavy tax to citizen
+	* Use tax to fund expansion
+	* Citizens get benefit of expansion + don't mind high taxes
+* Obviously, this works only if your contry is merchatilist where  
 				
 ## Carribeans
 * Brazil and Carribeans boomed due to sugar crops
