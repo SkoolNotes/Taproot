@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3943)}}    % original
-%\rhead{\textrmlf{Compiled }\#3943\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3943\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3944)}}    % original
+%\rhead{\textrmlf{Compiled }\#3944\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3944\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -218,7 +218,14 @@
   \item
     Originally leveraged the Muslims as the point of trade, but later
     developed desire to handle trade w/ India independently
-  \item
+
+    \begin{itemize}
+    \tightlist
+    \item
+      One attempt to do that failed very badly, i.e.~Colombus. We all
+      know where he ended up.
+    \item
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 

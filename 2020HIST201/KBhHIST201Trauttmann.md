@@ -21,5 +21,6 @@ author: Houjun Liu
 		* Misrepresentation goes back to greco-Roman times
 		* Viewed India as a land of strange people + desirable luxuries
 	* Originally leveraged the Muslims as the point of trade, but later developed desire to handle trade w/ India independently
-	* 
+		* One attempt to do that failed very badly, i.e. Colombus. We all know where he ended up.
+		*  
 
