@@ -67,5 +67,7 @@ author: Houjun Liu
 		* Company rule lasted from 1765-1858 when India is officially ruled by the crown
 	* Ruling strategy
 		* Not army based, and instead evolved from trading companies
-		* Goal of rulers is to eventually retire to England
-		*  
+		* Goal of rulers is to eventually retire to England + consider Britain their home
+		* Resisted the idea of colonization, otherwise may create the Amercia problem
+		* Prevented admission of non-company Europeans, including missionaries
+		* 
