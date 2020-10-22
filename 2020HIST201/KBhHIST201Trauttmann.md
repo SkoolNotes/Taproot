@@ -82,4 +82,8 @@ author: Houjun Liu
 				* Gave independent control at the price of giving up control of foreign affairs + men for army
 				* Each region had a "resident" which informed and influenced strategic decisions
 	* 1857 Mutiny 
-		*  The Enfield f
+		*  Causes
+			*  The Enfield rifle cartridge wsa greased with animal fat => offended the Hindu + Muslim
+			*  Plaicy 
+		*  Feel like that the religion was under attack
+		*  
