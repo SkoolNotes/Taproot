@@ -91,4 +91,7 @@ author: Houjun Liu
 		* Aftermath
 			*   Mutineers were punished harshly
 			*   Mughal Empire formally abolished w/ the king exiled to Burmar
-			*   
+			*  In Nov 1, 1858, the Queen assumed control of India => direct parlimentary control
+				* Assured that indian religions will not be interferred with
+				* Rights and territories of princely states won't either
+				*    
