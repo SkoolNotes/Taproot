@@ -80,4 +80,6 @@ author: Houjun Liu
 			*  Created new organizational structures
 			*  Also, allied with Indian rulers
 				* Gave independent control at the price of giving up control of foreign affairs + men for army
-				* Each region had a "resident" which informed and influenced strategic decisions on
+				* Each region had a "resident" which informed and influenced strategic decisions
+	* 1857 Mutiny 
+		*  The Enfield f

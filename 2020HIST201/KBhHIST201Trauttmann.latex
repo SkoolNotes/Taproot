@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3978)}}    % original
-%\rhead{\textrmlf{Compiled }\#3978\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3978\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3979)}}    % original
+%\rhead{\textrmlf{Compiled }\#3979\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3979\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -415,9 +415,10 @@
           foreign affairs + men for army
         \item
           Each region had a ``resident'' which informed and influenced
-          strategic decisions on
+          strategic decisions
         \end{itemize}
       \end{itemize}
+    \item
     \end{itemize}
   \end{itemize}
 \end{itemize}
