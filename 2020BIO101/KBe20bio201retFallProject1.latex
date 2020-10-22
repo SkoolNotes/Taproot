@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4017)}}    % original
-%\rhead{\textrmlf{Compiled }\#4017\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4017\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4018)}}    % original
+%\rhead{\textrmlf{Compiled }\#4018\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4018\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -388,11 +388,15 @@ channels}\label{voltage-gated-ion-channels}}
           \item
             upon depolarization, positive residues move towards surface
             of membrane?
+          \item
+            movement triggers comformational change in the gate
           \end{enumerate}
         \end{enumerate}
       \end{enumerate}
     \end{enumerate}
   \end{enumerate}
+\item
+  related components
 \end{enumerate}
 
 \hypertarget{meetings}{%
