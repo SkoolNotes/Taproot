@@ -24,5 +24,5 @@ author: Houjun Liu
 		* One attempt to do that failed very badly, i.e. Colombus. We all know where he ended up.
 		* India was thought as sprawled throughout Asia, as in...
 
-
+![indiaiseverywhere.png](indiaiseverywhere.png)
 
