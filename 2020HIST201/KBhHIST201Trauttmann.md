@@ -31,4 +31,9 @@ author: Houjun Liu
 	* Traveled around Africa to reach the coast of India, dominating Euro-asian trade
 	* Created treaties with local governments
 	* Established seaborne trade domination by requiring trading licenses
-	* 
+	* Supplied local governments with resources
+		* American crops: potatos and corn
+		* Luxuries: tobacco and pineapple
+		* Other foods: tomatos and chilli
+	* Also, brought Catholic Christanity with them; who could have guessed?
+	*   
