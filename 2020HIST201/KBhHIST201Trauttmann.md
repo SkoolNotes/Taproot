@@ -102,4 +102,5 @@ author: Houjun Liu
 		* All had the shared goal of making money for the Company
 		* Minimal government for the goal of law-and-order
 	* Jesuits spreader Christianity  => Beschi very successful. BEI.C eventually prohibited it.
+	* Family and civil disputes settled based on religious court; criminal and contract law were made uniform
 	* 
