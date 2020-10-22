@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4025)}}    % original
-%\rhead{\textrmlf{Compiled }\#4025\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4025\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4026)}}    % original
+%\rhead{\textrmlf{Compiled }\#4026\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4026\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -315,6 +315,14 @@ channels}\label{voltage-gated-ion-channels}}
 
   \begin{enumerate}
   \item
+    sources {\textsc{source}}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \url{https://en.wikipedia.org/wiki/Voltage-gated_ion_channel}
+    \end{itemize}
+  \item
     lives on cell membrane
   \item
     role
@@ -430,6 +438,12 @@ channels}\label{voltage-gated-ion-channels}}
 
     The interior of the cell temporarily becomes more positive (less
     negative) than the exterior
+
+    \begin{enumerate}
+    \item
+      \url{https://en.wikipedia.org/wiki/Depolarization}
+      {\textsc{source}}
+    \end{enumerate}
   \item
     membrane potential
 
@@ -442,6 +456,7 @@ channels}\label{voltage-gated-ion-channels}}
     \end{itemize}
   \item
     \url{https://en.wikipedia.org/wiki/Ball_and_chain_inactivation}
+    {\textsc{source}}
   \end{enumerate}
 \end{enumerate}
 
