@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4010)}}    % original
-%\rhead{\textrmlf{Compiled }\#4010\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4010\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4011)}}    % original
+%\rhead{\textrmlf{Compiled }\#4011\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4011\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -301,11 +301,18 @@ Methods}\label{folding-simulation-methods}}
   \end{enumerate}
 \item
   Accelerated molecular dynamics (AMD)
+
+  epic
 \end{enumerate}
 
 \hypertarget{voltage-gated-ion-channels}{%
 \subsubsection{Voltage gated ion
 channels}\label{voltage-gated-ion-channels}}
+
+\begin{enumerate}
+\item
+  overview
+\end{enumerate}
 
 \hypertarget{meetings}{%
 \subsection{Meetings}\label{meetings}}
