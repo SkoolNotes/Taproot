@@ -27,4 +27,6 @@ author: Houjun Liu
 ![indiaiseverywhere.png](indiaiseverywhere.png)
 
 * Portugal in India
-	* Created the first effective vo
+	* Created the first effective voyages in the Indian direction
+	* Traveled around Africa to reach the coast of India, dominating Euro-asian trade
+	* 
