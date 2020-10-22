@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4013)}}    % original
-%\rhead{\textrmlf{Compiled }\#4013\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4013\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4014)}}    % original
+%\rhead{\textrmlf{Compiled }\#4014\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4014\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -352,6 +352,18 @@ channels}\label{voltage-gated-ion-channels}}
       pore/conducting pathway
     \item
       gate
+    \end{enumerate}
+  \item
+    sodium/calcium channels
+
+    \begin{enumerate}
+    \item
+      parts
+
+      \begin{enumerate}
+      \item
+        one polypeptide with "four homologous domains"
+      \end{enumerate}
     \end{enumerate}
   \end{enumerate}
 \end{enumerate}
