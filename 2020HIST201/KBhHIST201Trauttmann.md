@@ -95,4 +95,6 @@ author: Houjun Liu
 				* Assured that indian religions will not be interferred with
 				* Rights and territories of princely states won't either
 				* Reorganized to increase Britons in the Indian army
-				* 
+				* Harsh feelings divided India, CLAIM: leading it to gather the new goal of turning India into a US/Europe nation state
+* India and Europe
+	* 
