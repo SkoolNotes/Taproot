@@ -104,5 +104,5 @@ author: Houjun Liu
 	* Jesuits spreader Christianity  => Beschi very successful. BEI.C eventually prohibited it.
 	* Family and civil disputes settled based on religious court; criminal and contract law were made uniform => law that hinged on religion remained a problem until this day
 	* Company took the stance of minimal interference in land revenue, too!
-		* Created policy of settling revenue in obligation to *zamindars*,
-		* 
+		* Created policy of settling revenue in obligation to *zamindars*
+	* CLAIM:  
