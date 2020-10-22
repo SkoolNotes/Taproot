@@ -48,4 +48,6 @@ A /linear map/ from $V$ to $W$ is a function $T : V \to W$ with the following pr
 **** $v$ is a basis
      $v_1, \ldots, v_n$ must be a basis of $V$ (because that fact is used in the proof)
 *** Questions
-**** TODO #question what does it mean that "$T$ is uniquely determined on $\text{span}(v_1, \ldots, v_n)$? :question:
+**** DONE #question what does it mean that "$T$ is uniquely determined on $\text{span}(v_1, \ldots, v_n)$? :question:
+     CLOSED: [2020-10-22 Thu 14:09]
+     There's no ambiguity and so we know exactly which map it's refering to, and thus it is uniquely determined.
