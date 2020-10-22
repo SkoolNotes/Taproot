@@ -105,4 +105,7 @@ author: Houjun Liu
 	* Family and civil disputes settled based on religious court; criminal and contract law were made uniform => law that hinged on religion remained a problem until this day
 	* Company took the stance of minimal interference in land revenue, too!
 		* Created policy of settling revenue in obligation to *zamindars*
-	* CLAIM:  
+	* CLAIM: minimal interference came under pressure during attempted Indian reform to European values
+		* Newly settled land identity on individual cultivator
+		* Government reached every cultivator directory + not through landlords
+		*  
