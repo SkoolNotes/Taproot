@@ -59,6 +59,7 @@ author: Houjun Liu
 	* Fought and implicated Indian allies 
 		* Indian princes leased independently-governed trading posts ("factories") to help either one side or the other
 		* Eventually BEI.C army defeated Mughal army in 1757, and effectively achieved independence in Bengal by installing a new governor
-		* Delhi Emperor allowed BEI.C to be the political and millitary admin of the region
+		* Delhi Emperor allowed BEI.C to be the political and millitary admin (*diwani*) of the region
 	* Goals of doing this
-		* Failed with trading with the Dutch exampl 
+		* Failed with trading with the Dutch example
+		* Struggled 
