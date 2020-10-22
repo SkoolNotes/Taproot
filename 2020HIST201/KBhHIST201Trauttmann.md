@@ -16,5 +16,6 @@ author: Houjun Liu
 		* And, Arabic Numerals (#what)
 * Europeans interact with India
 	* Indian very strange for Europeans
-	* 
+	* Created legacies and mysteries about India
+	* CLAIM: Images/representations were dreamlike
 
