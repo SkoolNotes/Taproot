@@ -109,3 +109,4 @@ author: Houjun Liu
 		* Newly settled land identity on individual cultivator
 		* Government reached every cultivator directory + not through landlords
 		*  New reformation movements Utilitarinasm => governmental reform, and evangelical movement => social reform
+	* This reforamtion ebbed and flowed: Britian, after 1857   
