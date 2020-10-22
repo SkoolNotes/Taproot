@@ -38,4 +38,5 @@ author: Houjun Liu
 	* Also, brought Catholic Christanity with them; who could have guessed?
 		* Converted Indians
 		* Established Roman Pope's supermicy over already Existant Thomas Christians
-		* 
+		* Employed two strategies
+			* 
