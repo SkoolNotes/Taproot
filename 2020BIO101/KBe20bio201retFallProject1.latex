@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4014)}}    % original
-%\rhead{\textrmlf{Compiled }\#4014\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4014\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4015)}}    % original
+%\rhead{\textrmlf{Compiled }\#4015\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4015\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -362,7 +362,16 @@ channels}\label{voltage-gated-ion-channels}}
 
       \begin{enumerate}
       \item
-        one polypeptide with "four homologous domains"
+        one polypeptide
+      \item
+        creates "four homologous domains"
+
+        \begin{enumerate}
+        \item
+          each one consists of 6 membrane spanning alpha helices
+        \end{enumerate}
+      \item
+        the S4 helix {[}of each domain?{]} is the voltage sensing helix
       \end{enumerate}
     \end{enumerate}
   \end{enumerate}
