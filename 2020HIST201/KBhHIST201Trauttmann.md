@@ -97,4 +97,9 @@ author: Houjun Liu
 				* Reorganized to increase Britons in the Indian army
 				* Harsh feelings divided India, CLAIM: leading it to gather the new goal of turning India into a US/Europe nation state
 * India and Europe
+	* Initially worked under a interference policy
+		* Goal was not to take over
+		* All had the shared goal of making money for the Company
+		* Minimal government for the goal of law-and-order
+	* Jesuits spreader Christianity  => Beschi very successful
 	* 
