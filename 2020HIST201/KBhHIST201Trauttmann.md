@@ -19,5 +19,6 @@ author: Houjun Liu
 	* Created legacies and mysteries about India
 	* CLAIM: Images/representations were dreamlike
 		* Misrepresentation goes back to greco-Roman times
-		* Viewed India as a land of strange people
+		* Viewed India as a land of strange people + desirable luxuries
+		* 
 
