@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4000)}}    % original
-%\rhead{\textrmlf{Compiled }\#4000\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4000\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4001)}}    % original
+%\rhead{\textrmlf{Compiled }\#4001\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4001\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -169,6 +169,27 @@
 \tightlist
 \item
   First interview on Monday
+\item
+  No need statement right now
+
+  \begin{itemize}
+  \tightlist
+  \item
+    NS have another month
+  \item
+    Time scheduling took more time
+  \end{itemize}
+\item
+  What's everyone doing??
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Working on questions
+  \item
+    g
+  \end{itemize}
+\item
 \end{itemize}
 
 \end{document}
