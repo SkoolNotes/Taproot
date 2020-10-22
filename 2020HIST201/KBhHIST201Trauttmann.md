@@ -49,4 +49,4 @@ author: Houjun Liu
 	* Created companies with independent armies that traded
 	* Promoted merchantilists monopolies on a region/a good
 	*  Entered into political relationships to establish power = control
-	*  Lead Europe to be  
+	*  Lead companies to rule Indian territory
