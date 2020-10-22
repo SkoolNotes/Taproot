@@ -101,5 +101,5 @@ author: Houjun Liu
 		* Goal was not to take over
 		* All had the shared goal of making money for the Company
 		* Minimal government for the goal of law-and-order
-	* Jesuits spreader Christianity  => Beschi very successful
+	* Jesuits spreader Christianity  => Beschi very successful. BEI.C eventually prohibited it.
 	* 
