@@ -58,4 +58,5 @@ author: Houjun Liu
 	* CLAIM: fighting, and winning BEI.C vs. FEI.C established Britian's Empire in India
 	* Fought and implicated Indian allies 
 		* Indian princes leased independently-governed trading posts ("factories") to help either one side or the other
-		* 
+		* Eventually BEI.C army defeated Mughal army in 1757, and effectively achieved independence in Bengal by installing a new governor
+		* Delhi Emperor allowed b
