@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4012)}}    % original
-%\rhead{\textrmlf{Compiled }\#4012\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4012\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4013)}}    % original
+%\rhead{\textrmlf{Compiled }\#4013\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4013\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -341,6 +341,17 @@ channels}\label{voltage-gated-ion-channels}}
       \end{enumerate}
     \item
       triggered by voltage across cell membrane
+    \end{enumerate}
+  \item
+    parts
+
+    \begin{enumerate}
+    \item
+      voltage sensor
+    \item
+      pore/conducting pathway
+    \item
+      gate
     \end{enumerate}
   \end{enumerate}
 \end{enumerate}
