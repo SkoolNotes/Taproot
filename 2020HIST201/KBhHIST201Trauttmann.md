@@ -20,5 +20,6 @@ author: Houjun Liu
 	* CLAIM: Images/representations were dreamlike
 		* Misrepresentation goes back to greco-Roman times
 		* Viewed India as a land of strange people + desirable luxuries
-	* Originally leveraged the Muslims as the 
+	* Originally leveraged the Muslims as the point of trade, but later developed desire to handle trade w/ India independently
+	* 
 
