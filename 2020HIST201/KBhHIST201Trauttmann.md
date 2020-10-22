@@ -77,4 +77,7 @@ author: Houjun Liu
 		* Controlled large Indian army
 			*  CLAIM: Success was more because of Indian manpower than of military tech
 			*  Men were well-drilled
-			*  Created new organizational
+			*  Created new organizational structures
+			*  Also, allied with Indian rulers
+				* Gave independent control at the price of giving up control of foreign affairs + men for army
+				* 
