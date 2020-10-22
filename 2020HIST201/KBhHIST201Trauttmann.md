@@ -65,4 +65,7 @@ author: Houjun Liu
 		* Struggles with the French to acquire new territory
 		* Turns BEI.C from small company to one with huge rule and control
 		* Company rule lasted from 1765-1858 when India is officially ruled by the crown
-		* 
+	* Ruling strategy
+		* Not army based, and instead evolved from trading companies
+		* Goal of rulers is to eventually retire to England
+		*  
