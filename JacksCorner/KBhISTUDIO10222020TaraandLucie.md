@@ -13,4 +13,3 @@ course: iStudio
 	* Working on questions
 * Folks excited about the team + weekly meetings
 * Another Nueva parent => user
-*  
