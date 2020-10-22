@@ -41,4 +41,7 @@ author: Houjun Liu
 		* Employed two strategies
 			* Please the Indians: adopted the form of a brahmin renouncer
 			* Force the Indians: instituted Inquisition to force orthodoxy
-		* 
+* Porchugual vs. Spain
+	* Squabble squabble squabble
+	* Eventually the... Pope? settled the issue: awarding Portugal every to the east of Brazil and Spain everything to the west
+*  

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3955)}}    % original
-%\rhead{\textrmlf{Compiled }\#3955\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3955\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3956)}}    % original
+%\rhead{\textrmlf{Compiled }\#3956\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3956\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -285,9 +285,20 @@
       \item
         Force the Indians: instituted Inquisition to force orthodoxy
       \end{itemize}
-    \item
     \end{itemize}
   \end{itemize}
+\item
+  Porchugual vs.~Spain
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Squabble squabble squabble
+  \item
+    Eventually the\ldots{} Pope? settled the issue: awarding Portugal
+    every to the east of Brazil and Spain everything to the west
+  \end{itemize}
+\item
 \end{itemize}
 
 \end{document}
