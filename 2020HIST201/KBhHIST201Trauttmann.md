@@ -75,4 +75,6 @@ author: Houjun Liu
 			* Working under the direction of the headquarters
 			* Retained British identity and ideology
 		* Controlled large Indian army
-			*  Success wa
+			*  CLAIM: Success was more because of Indian manpower than of military tech
+			*  Men were well-drilled
+			*  Created new organizational
