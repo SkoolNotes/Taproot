@@ -64,4 +64,5 @@ author: Houjun Liu
 		* Failed with trading with the Dutch example
 		* Struggles with the French to acquire new territory
 		* Turns BEI.C from small company to one with huge rule and control
+		* Company rule lasted from 1765-1858 when India is officially ruled by the crown
 		* 
