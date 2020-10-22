@@ -29,4 +29,5 @@ author: Houjun Liu
 * Portugal in India
 	* Created the first effective voyages in the Indian direction
 	* Traveled around Africa to reach the coast of India, dominating Euro-asian trade
+	* Created treaties with local countries
 	* 
