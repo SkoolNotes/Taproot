@@ -36,4 +36,6 @@ author: Houjun Liu
 		* Luxuries: tobacco and pineapple
 		* Other foods: tomatos and chilli
 	* Also, brought Catholic Christanity with them; who could have guessed?
-	*   
+		* Converted Indians
+		* Established Roman Pope's supermicy over already Existant Thomas Christians
+		* 
