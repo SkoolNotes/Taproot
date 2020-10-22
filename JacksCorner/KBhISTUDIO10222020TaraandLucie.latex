@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ iStudio }
-\newcommand{\thelesson}{ iStudio check-ins }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -125,7 +125,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4000)}}    % original
 %\rhead{\textrmlf{Compiled }\#4000\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#4000\textrmlf{ on} \today}       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,22 +164,11 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
-
-\hypertarget{log}{%
-\section{Log}\label{log}}
 
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBhISTUDIO09302020LucieandTara{]}{]}
-\item
-  {[}{[}KBhISTUDIO09302020JulietandSerena{]}{]}
-\item
-  {[}{[}KbhISTUDIO10052020AksharandAnna{]}{]}
-\item
-  {[}{[}KBhISTUDIO10222020TaraandLucie{]}{]}
+  First interview on Monday
 \end{itemize}
 
 \end{document}
