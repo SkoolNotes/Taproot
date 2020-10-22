@@ -307,8 +307,8 @@ Damage host cells/tissues by...
 
 ### Transcription => converting DNA to mRNA
 * Done by RNA Polymerase Enzyme
-* Rip apart hydrogen bonds
-* Read one side ("template strand") of the double helix, recognizing each nucleotide
+* Rip apart hydrogen bonds using DNAse enzyme
+* Read one side ("template strand", a.k.a. noncoding strand) of the double helix, recognizing each nucleotide
 * Pluck the correct corresponding nucleotide out of the nucleus
 	* G->C
 	* C->G

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3931)}}    % original
-%\rhead{\textrmlf{Compiled }\#3931\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3931\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4027)}}    % original
+%\rhead{\textrmlf{Compiled }\#4027\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4027\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -849,10 +849,10 @@ mRNA}\label{transcription-converting-dna-to-mrna}}
 \item
   Done by RNA Polymerase Enzyme
 \item
-  Rip apart hydrogen bonds
+  Rip apart hydrogen bonds using DNAse enzyme
 \item
-  Read one side (``template strand'') of the double helix, recognizing
-  each nucleotide
+  Read one side (``template strand'', a.k.a. noncoding strand) of the
+  double helix, recognizing each nucleotide
 \item
   Pluck the correct corresponding nucleotide out of the nucleus
 
@@ -933,7 +933,12 @@ Mature mRNA sent to ribosome.
 \item
   Catalyst tRNA combines with rRNA to catalyze amino acid peptide bond
 \item
-  Each codon (group of 3 units in mRNA),
+  Each codon (group of 3 units in tRNA), matches a specific
+  {[}{[}KBhBIO101AminoAcids{]}{]}
 \end{itemize}
+
+After the amino acids are assembled, it's time for
+{[}{[}KBe2020bio101refProteinFolding{]}{]}. See also
+{[}{[}KBhBIO101Proteins{]}{]}.
 
 \end{document}
