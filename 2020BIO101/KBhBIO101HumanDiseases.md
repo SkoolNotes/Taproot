@@ -305,6 +305,8 @@ Damage host cells/tissues by...
 
 ## Making Proteins, a guide
 
+**Genetic Code** => "nucleotide code" found in the DNA that helps make protein. There are two parts of this: translation and transcription.
+
 ### Transcription => converting DNA to mRNA
 * Done by RNA Polymerase Enzyme
 * Rip apart hydrogen bonds using DNAse enzyme
