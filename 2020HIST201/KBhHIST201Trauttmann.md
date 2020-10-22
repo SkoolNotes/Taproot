@@ -50,4 +50,8 @@ author: Houjun Liu
 	* Promoted merchantilists monopolies on a region/a good
 	*  Entered into political relationships to establish power = control
 	*  Lead companies to rule Indian territory
-*  The Britis
+*  The Brits
+	* Competition spawned from rivalry between England and France
+		* Wiping French rule in Canada
+		* Amercian independence w/ assistance by france
+		* Establishing Bengal terrirory in Indi  
