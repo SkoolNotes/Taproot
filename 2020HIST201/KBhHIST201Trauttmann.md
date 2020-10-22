@@ -18,5 +18,6 @@ author: Houjun Liu
 	* Indian very strange for Europeans
 	* Created legacies and mysteries about India
 	* CLAIM: Images/representations were dreamlike
-		* Misrepresentation goes back to greco-roman times 
+		* Misrepresentation goes back to greco-Roman times
+		* 
 
