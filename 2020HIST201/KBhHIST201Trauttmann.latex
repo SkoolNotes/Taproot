@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3933)}}    % original
-%\rhead{\textrmlf{Compiled }\#3933\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3933\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3934)}}    % original
+%\rhead{\textrmlf{Compiled }\#3934\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3934\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -173,8 +173,28 @@
 \begin{itemize}
 \tightlist
 \item
-  India affected by the successful expansion of islam
-\item
+  India affected by the successful expansion of Islam
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Created globalized multiculturalism
+  \item
+    Expanded Indian ideas and invention to Europe
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Chess
+    \item
+      Folktale collection
+    \item
+      \emph{Panchatantra} animal fables
+    \item
+      Literally Zero
+    \end{itemize}
+  \item
+  \end{itemize}
 \end{itemize}
 
 \end{document}
