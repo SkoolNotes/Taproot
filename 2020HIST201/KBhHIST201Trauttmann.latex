@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3956)}}    % original
-%\rhead{\textrmlf{Compiled }\#3956\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3956\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3957)}}    % original
+%\rhead{\textrmlf{Compiled }\#3957\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3957\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -299,6 +299,12 @@
     every to the east of Brazil and Spain everything to the west
   \end{itemize}
 \item
+  Merchant Companies
+
+  \begin{itemize}
+  \tightlist
+  \item
+  \end{itemize}
 \end{itemize}
 
 \end{document}

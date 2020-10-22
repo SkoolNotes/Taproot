@@ -44,4 +44,5 @@ author: Houjun Liu
 * Porchugual vs. Spain
 	* Squabble squabble squabble
 	* Eventually the... Pope? settled the issue: awarding Portugal every to the east of Brazil and Spain everything to the west
-*  
+* Merchant Companies
+	*   
