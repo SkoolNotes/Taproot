@@ -110,5 +110,8 @@ author: Houjun Liu
 		* Government reached every cultivator directory + not through landlords
 		*  New reformation movements Utilitarinasm => governmental reform, and evangelical movement => social reform
 	* This reforamtion ebbed and flowed: Britian, after 1857 rebellion, decided that they overdid it and tuned down the reformation
-	* CLAIM: the Britions accidentally brought the idea of popular soverenty as a governmental model
-	* 
+	*  European reform of India
+		*  New family + kinship rules
+		*  Brought the idea of popular soverenty as a cool governmental model
+		* Higher respect for learning, science, and technology => turning India from the centre of learning to not and to respecting learning again due to THE INDUSTRIAL REVOLUTION
+		*  
