@@ -109,4 +109,6 @@ author: Houjun Liu
 		* Newly settled land identity on individual cultivator
 		* Government reached every cultivator directory + not through landlords
 		*  New reformation movements Utilitarinasm => governmental reform, and evangelical movement => social reform
-	* This reforamtion ebbed and flowed: Britian, after 1857   
+	* This reforamtion ebbed and flowed: Britian, after 1857 rebellion, decided that they overdid it and tuned down the reformation
+	* CLAIM: the Britions accidentally brought the idea of popular soverenty as a governmental model
+	* 
