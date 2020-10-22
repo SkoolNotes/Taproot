@@ -71,4 +71,5 @@ author: Houjun Liu
 		* Resisted the idea of colonization, otherwise may create the Amercia problem
 		* Prevented admission of non-company Europeans, including missionaries
 		* A few thousand Europeans controlling lots more indians
-		* Most Europeans born and schooled in Britian and sent as adults
+		* Most Europeans born and schooled in Britain and sent as adults
+		* 
