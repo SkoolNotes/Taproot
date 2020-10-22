@@ -54,4 +54,7 @@ author: Houjun Liu
 	* Competition spawned from rivalry between England and France
 		* Wiping French rule in Canada
 		* Amercian independence w/ assistance by france
-		* Establishing Bengal terrirory in Indi  
+		* Establishing Bengal terrirory in India
+	* CLAIM: fighting, and winning BEI.C vs. FEI.C established Britian's Empire in India
+	* Fought and implicated Indian allies 
+		* Indian princes leased t
