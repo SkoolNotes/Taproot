@@ -72,4 +72,7 @@ author: Houjun Liu
 		* Prevented admission of non-company Europeans, including missionaries
 		* A few thousand Europeans controlling lots more indians
 		* Most Europeans born and schooled in Britain and sent as adults
-		* 
+			* Working under the direction of the headquarters
+			* Retained British identity and ideology
+		* Controlled large Indian army
+			*  Success wa
