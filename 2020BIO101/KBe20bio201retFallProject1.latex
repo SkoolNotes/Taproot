@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4022)}}    % original
-%\rhead{\textrmlf{Compiled }\#4022\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4022\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4024)}}    % original
+%\rhead{\textrmlf{Compiled }\#4024\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4024\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -399,6 +399,16 @@ channels}\label{voltage-gated-ion-channels}}
         \item
           thought to mechanically block the ions from passing through
           the channel
+        \end{enumerate}
+      \item
+        inactivation gate
+
+        \begin{enumerate}
+        \item
+          structure
+
+          Another gate that stops ions from flowing, {[}giving the main
+          gate more to reset?{]}
         \end{enumerate}
       \end{enumerate}
     \end{enumerate}
