@@ -57,4 +57,5 @@ author: Houjun Liu
 		* Establishing Bengal terrirory in India
 	* CLAIM: fighting, and winning BEI.C vs. FEI.C established Britian's Empire in India
 	* Fought and implicated Indian allies 
-		* Indian princes leased t
+		* Indian princes leased independently-governed trading posts ("factories") to help either one side or the other
+		* 
