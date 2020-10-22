@@ -14,5 +14,7 @@ author: Houjun Liu
 		* *Panchatantra* animal fables
 		* Literally Zero
 		* And, Arabic Numerals (#what)
-	*  
+* Europeans interact with India
+	* Indian very strange for Europeans
+	* 
 
