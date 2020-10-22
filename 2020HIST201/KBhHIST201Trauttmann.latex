@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3934)}}    % original
-%\rhead{\textrmlf{Compiled }\#3934\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3934\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3935)}}    % original
+%\rhead{\textrmlf{Compiled }\#3935\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3935\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -192,6 +192,8 @@
       \emph{Panchatantra} animal fables
     \item
       Literally Zero
+    \item
+      And, Arabic Numerals (\#what)
     \end{itemize}
   \item
   \end{itemize}
