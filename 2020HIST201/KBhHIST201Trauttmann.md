@@ -50,3 +50,4 @@ author: Houjun Liu
 	* Promoted merchantilists monopolies on a region/a good
 	*  Entered into political relationships to establish power = control
 	*  Lead companies to rule Indian territory
+*  The Britis
