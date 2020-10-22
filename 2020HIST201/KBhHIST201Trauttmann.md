@@ -84,6 +84,6 @@ author: Houjun Liu
 	* 1857 Mutiny 
 		*  Causes
 			*  The Enfield rifle cartridge wsa greased with animal fat => offended the Hindu + Muslim
-			*  Plaicy 
-		*  Feel like that the religion was under attack
-		*  
+			*  Policy of "Lapse" => dissolving princely states without direct heir
+		*  Felt like that the religion was under attack
+		*  Mutiny spre
