@@ -45,4 +45,7 @@ author: Houjun Liu
 	* Squabble squabble squabble
 	* Eventually the... Pope? settled the issue: awarding Portugal every to the east of Brazil and Spain everything to the west
 * Merchant Companies
+	* Novel trading strategies
+	* Created companies with independent armies that traded
+	* Promoted merchantilists monopolies on a region/a good
 	*   
