@@ -89,4 +89,6 @@ author: Houjun Liu
 		*  Mutiny spread across India, but it was eventually quelled after a year because it was not unified
 		* CLAIM: this showed that the Indians were discontent with British rule
 		* Aftermath
-			*   Mutineers 
+			*   Mutineers were punished harshly
+			*   Mughal Empire formally abolished w/ the king exiled to Burmar
+			*   
