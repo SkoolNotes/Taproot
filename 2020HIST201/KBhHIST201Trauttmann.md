@@ -114,4 +114,6 @@ author: Houjun Liu
 		*  New family + kinship rules
 		*  Brought the idea of popular soverenty as a cool governmental model
 		* Higher respect for learning, science, and technology => turning India from the centre of learning to not and to respecting learning again due to THE INDUSTRIAL REVOLUTION
-		*  
+			* Textiles! (destructing handicraft along with it)
+			* Railway!
+			* Historiography of India! 
