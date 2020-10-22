@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4015)}}    % original
-%\rhead{\textrmlf{Compiled }\#4015\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4015\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4016)}}    % original
+%\rhead{\textrmlf{Compiled }\#4016\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4016\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -372,6 +372,10 @@ channels}\label{voltage-gated-ion-channels}}
         \end{enumerate}
       \item
         the S4 helix {[}of each domain?{]} is the voltage sensing helix
+
+        This helix contains enough positive charges to feel an
+        electrostatic repelling force from the high charge outside the
+        cell.
       \end{enumerate}
     \end{enumerate}
   \end{enumerate}
