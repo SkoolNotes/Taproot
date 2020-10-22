@@ -108,4 +108,4 @@ author: Houjun Liu
 	* CLAIM: minimal interference came under pressure during attempted Indian reform to European values
 		* Newly settled land identity on individual cultivator
 		* Government reached every cultivator directory + not through landlords
-		*  
+		*  New reformation movements Utilitarinasm => governmental reform, and evangelical movement => social reform
