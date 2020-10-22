@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4028)}}    % original
-%\rhead{\textrmlf{Compiled }\#4028\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4028\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4029)}}    % original
+%\rhead{\textrmlf{Compiled }\#4029\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4029\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -843,6 +843,10 @@ Damage host cells/tissues by\ldots{}
 \textbf{Genetic Code} =\textgreater{} ``nucleotide code'' found in the
 DNA that helps make protein. There are two parts of this: translation
 and transcription.
+
+Translation takes
+
+Occationally, the RNA is what we want to end up with, so then obve
 
 \hypertarget{transcription-converting-dna-to-mrna}{%
 \subsubsection{Transcription =\textgreater{} converting DNA to
