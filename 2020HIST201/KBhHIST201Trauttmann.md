@@ -63,3 +63,5 @@ author: Houjun Liu
 	* Goals of doing this
 		* Failed with trading with the Dutch example
 		* Struggles with the French to acquire new territory
+		* Turns BEI.C from small company to one with huge rule and control
+		* 
