@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4011)}}    % original
-%\rhead{\textrmlf{Compiled }\#4011\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4011\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4012)}}    % original
+%\rhead{\textrmlf{Compiled }\#4012\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4012\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -312,6 +312,37 @@ channels}\label{voltage-gated-ion-channels}}
 \begin{enumerate}
 \item
   overview
+
+  \begin{enumerate}
+  \item
+    lives on cell membrane
+  \item
+    role
+
+    \begin{enumerate}
+    \item
+      allows ions in/out
+    \item
+      crucial in "excitable" cells, like neurons
+    \item
+      propogates elecrical signals directionally
+    \item
+      ion specific
+
+      \begin{enumerate}
+      \item
+        Na\^{}+
+      \item
+        K\^{}+
+      \item
+        Ca\textsuperscript{2+}
+      \item
+        Cl\^{}-
+      \end{enumerate}
+    \item
+      triggered by voltage across cell membrane
+    \end{enumerate}
+  \end{enumerate}
 \end{enumerate}
 
 \hypertarget{meetings}{%
