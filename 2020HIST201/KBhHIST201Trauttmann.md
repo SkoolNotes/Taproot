@@ -62,4 +62,4 @@ author: Houjun Liu
 		* Delhi Emperor allowed BEI.C to be the political and millitary admin (*diwani*) of the region
 	* Goals of doing this
 		* Failed with trading with the Dutch example
-		* Struggled 
+		* Struggles with the French to acquire new territory
