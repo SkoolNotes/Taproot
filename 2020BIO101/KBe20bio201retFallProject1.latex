@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4024)}}    % original
-%\rhead{\textrmlf{Compiled }\#4024\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4024\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4025)}}    % original
+%\rhead{\textrmlf{Compiled }\#4025\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4025\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -409,6 +409,14 @@ channels}\label{voltage-gated-ion-channels}}
 
           Another gate that stops ions from flowing, {[}giving the main
           gate more to reset?{]}
+
+          \begin{enumerate}
+          \item
+            modeled as a ball tethered to a flexible chain
+          \item
+            the chain is supposed to fold up on itself to pull the ball
+            in and block ion flow
+          \end{enumerate}
         \end{enumerate}
       \end{enumerate}
     \end{enumerate}
@@ -432,6 +440,8 @@ channels}\label{voltage-gated-ion-channels}}
     \item
       the inside is usually more negative
     \end{itemize}
+  \item
+    \url{https://en.wikipedia.org/wiki/Ball_and_chain_inactivation}
   \end{enumerate}
 \end{enumerate}
 

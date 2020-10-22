@@ -98,12 +98,15 @@ epic
 ******* inactivation gate
 ******** structure
          Another gate that stops ions from flowing, [giving the main gate more to reset?]
+********* modeled as a ball tethered to a flexible chain
+********* the chain is supposed to fold up on itself to pull the ball in and block ion flow
 **** related components
 ***** membrane depolarization
       The interior of the cell temporarily becomes more positive (less negative) than the exterior
 ***** membrane potential
       the "default" charge/voltage difference accross a cell membrane
       - the inside is usually more negative
+***** https://en.wikipedia.org/wiki/Ball_and_chain_inactivation
 
 ** Meetings
 
