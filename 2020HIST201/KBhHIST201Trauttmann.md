@@ -86,4 +86,7 @@ author: Houjun Liu
 			*  The Enfield rifle cartridge wsa greased with animal fat => offended the Hindu + Muslim
 			*  Policy of "Lapse" => dissolving princely states without direct heir
 		*  Felt like that the religion was under attack
-		*  Mutiny spre
+		*  Mutiny spread across India, but it was eventually quelled after a year because it was not unified
+		* CLAIM: this showed that the Indians were discontent with British rule
+		* Aftermath
+			*   
