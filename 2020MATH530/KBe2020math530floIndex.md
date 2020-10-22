@@ -26,5 +26,6 @@ Homework index: [[KBe2020math530refExr0nRetIndex]]
 - [[KBe20math530flo15]]
 - [[KBe20math530flo16]]
 - [[KBe20math530flo17]]
+- [[KBe20math530flo18]]
 
 ---
