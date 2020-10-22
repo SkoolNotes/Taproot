@@ -94,4 +94,5 @@ author: Houjun Liu
 			*  In Nov 1, 1858, the Queen assumed control of India => direct parlimentary control
 				* Assured that indian religions will not be interferred with
 				* Rights and territories of princely states won't either
-				*    
+				* Reorganized to increase Britons in the Indian army
+				* 
