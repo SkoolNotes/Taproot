@@ -39,4 +39,6 @@ author: Houjun Liu
 		* Converted Indians
 		* Established Roman Pope's supermicy over already Existant Thomas Christians
 		* Employed two strategies
-			* 
+			* Please the Indians: adopted the form of a brahmin renouncer
+			* Force the Indians: instituted Inquisition to force orthodoxy
+		* 
