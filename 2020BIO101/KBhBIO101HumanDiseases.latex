@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4038)}}    % original
-%\rhead{\textrmlf{Compiled }\#4038\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4038\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4039)}}    % original
+%\rhead{\textrmlf{Compiled }\#4039\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4039\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -906,7 +906,9 @@ informs the enzyme where to find a promoter (beginning of binding) *
 attract RNA polymerase II * Polymerase Enzyme starts at a promoter
 (typically found upstream of the 5' start site) and ends at a terminator
 * Box of TATTAA highlights transcription rate and the start site * TFIIA
-cofactor in RNA recognizes
+cofactor in RNA recognizes TATTAA box, TFIIB recognizes C/CG/CG/CGCCC
+upstream * Stronger promoters/enhancers =\textgreater{} ``enhance''
+``more.'' i.e.~tumor viruses
 
 \hypertarget{before-we-continue-two-words}{%
 \subsubsection{Before we continue, two
