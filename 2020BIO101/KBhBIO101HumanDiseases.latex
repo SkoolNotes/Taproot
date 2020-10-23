@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4032)}}    % original
-%\rhead{\textrmlf{Compiled }\#4032\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4032\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4033)}}    % original
+%\rhead{\textrmlf{Compiled }\#4033\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4033\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -897,9 +897,10 @@ RNAs could also be catalysts!
 \item
   ``Promoter''s denotes beginning of a gene. ``Terminator''s denotes the
   end of gene.
-\item
-  Polymerase Enzyme starts at a promoter and ends at a terminator
 \end{itemize}
+
+\textbf{Starting Transcription} * Polymerase Enzyme starts at a promoter
+and ends at a terminator
 
 \hypertarget{before-we-continue-two-words}{%
 \subsubsection{Before we continue, two

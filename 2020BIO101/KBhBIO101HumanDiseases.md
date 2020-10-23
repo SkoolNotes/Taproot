@@ -328,6 +328,8 @@ Occasionally, the RNA is what we want to end up with, so then obviously we no lo
 RNAs could also be catalysts!
 
 * "Promoter"s denotes beginning of a gene. "Terminator"s denotes the end of gene.
+
+**Starting Transcription**
 * Polymerase Enzyme starts at a promoter and ends at a terminator
 
 ### Before we continue, two words
