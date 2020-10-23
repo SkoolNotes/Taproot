@@ -376,6 +376,7 @@ Ribosomes has two units: 50S unit + 30S unit => they come together whenever a mR
 **Note! The beginning of mRNA is not translated.** There a portion on the 5' end of the mRNA (starts with AGGAGG) — about 170 nuclotides in humans, and shorter in bacteria — that's called UTR (untranslated region.) This region helps ribosomes bind to it + stablize the binds.
 
 * 3 protein factors IF1, IF2, IF3 forms a complex for transcription by binding to a subunit on the ribosome
+* Methionine-carrying tRNA binds to the start of the mRNA, which forms the initiation complex. This is typically removed after translation if not coded for
 *  
 * Translates mRNA to tRNA — anti-codon pairs
 * Catalyst tRNA combines with rRNA  to catalyze amino acid peptide bond

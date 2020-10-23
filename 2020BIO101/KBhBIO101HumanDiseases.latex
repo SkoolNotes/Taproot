@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4049)}}    % original
-%\rhead{\textrmlf{Compiled }\#4049\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4049\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4050)}}    % original
+%\rhead{\textrmlf{Compiled }\#4050\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4050\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1013,7 +1013,13 @@ region.) This region helps ribosomes bind to it + stablize the binds.
 \begin{itemize}
 \tightlist
 \item
-  3 protein factors IF1, IF2, IF3 to the beginning.
+  3 protein factors IF1, IF2, IF3 forms a complex for transcription by
+  binding to a subunit on the ribosome
+\item
+  Methionine-carrying tRNA binds to the start of the mRNA, which forms
+  the initiation complex. This is typically removed after translation if
+  not coded for
+\item
 \item
   Translates mRNA to tRNA --- anti-codon pairs
 \item
