@@ -346,7 +346,10 @@ RNAs could also be catalysts!
 **Terminators**
 
 * Found in the end of the template sequence
-*   
+* Two types in prokaryotes
+	*  Rho-independent terminators — roll back onto itself, causing the RNA to terminate and mRNA to be release
+	*  Rho-dependent terminators — activate cofactor named rho + unwind the RNA-DNA hybrid
+	*   
 
 ### Before we continue, two words
 - *Non-coding sequence*: metadata for DNA for the processors
