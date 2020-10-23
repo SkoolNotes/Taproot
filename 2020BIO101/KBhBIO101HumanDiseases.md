@@ -330,6 +330,7 @@ RNAs could also be catalysts!
 * "Promoter"s denotes beginning of a gene. "Terminator"s denotes the end of gene.
 
 **Starting Transcription**
+* Series of utility "factors" begin to assemble, and called
 * RNA polyamerase binds to the Sigma Subunit => form a holoenzyme to unwind DNA
 * Sigma subunit informs the enzyme where to find a promoter (beginning of binding)
 * "Enhancer" gene sequences help bind with activator proteins to help attract RNA polymerase II
