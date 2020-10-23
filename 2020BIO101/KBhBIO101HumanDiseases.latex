@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4040)}}    % original
-%\rhead{\textrmlf{Compiled }\#4040\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4040\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4041)}}    % original
+%\rhead{\textrmlf{Compiled }\#4041\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4041\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -903,12 +903,35 @@ RNAs could also be catalysts!
 Subunit =\textgreater{} form a holoenzyme to unwind DNA * Sigma subunit
 informs the enzyme where to find a promoter (beginning of binding) *
 ``Enhancer'' gene sequences help bind with activator proteins to help
-attract RNA polymerase II * Polymerase Enzyme starts at a promoter
-(typically found upstream of the 5' start site) and ends at a terminator
-* Box of TATTAA highlights transcription rate and the start site * TFIIA
-cofactor in RNA recognizes TATTAA box, TFIIB recognizes C/CG/CG/CGCCC
-upstream * Stronger promoters/enhancers =\textgreater{} ``enhance''
-``more.'' i.e.~tumor viruses strengthen promoters for cell growth
+attract RNA polymerase II
+
+\textbf{Promoters}
+
+\begin{itemize}
+\tightlist
+\item
+  Polymerase Enzyme starts at a promoter (typically found upstream of
+  the 5' start site) and ends at a terminator
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Box of TATTAA highlights transcription rate and the start site
+  \item
+    TFIIA cofactor in RNA recognizes TATTAA box, TFIIB recognizes
+    C/CG/CG/CGCCC upstream
+  \end{itemize}
+\item
+  Stronger promoters/enhancers =\textgreater{} ``enhance'' ``more.''
+  i.e.~tumor viruses strengthen promoters for cell growth
+\end{itemize}
+
+\textbf{Terminators}
+
+\begin{itemize}
+\tightlist
+\item
+\end{itemize}
 
 \hypertarget{before-we-continue-two-words}{%
 \subsubsection{Before we continue, two
