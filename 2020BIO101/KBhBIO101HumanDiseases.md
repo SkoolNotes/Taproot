@@ -371,7 +371,7 @@ After reading the intron, they are spliced out during mRNA processing => done by
 ### Translation => RNA-directed polypeptide synthesis
 Mature mRNA sent to ribosome. mRNA must travel to the cytoplasm in the Eukarotes to catch the RNA, whereas in prokarotes they don't have to go anywhere.
 
-Ribosomes has two units: 50S unit + 30S unit => they come together whenever a mRNA needs it.
+Ribosomes has two units: 50S unit + 30S unit => they come together whenever a mRNA needs it. Each contained specialized rRNA + tTRNA to catalyze attachment of and adapt the incoming mRNA respectively.
 
 * Ribosone reads the mRNA in groups of 3s ("codons") by matching with the corresponding nucleotides
 * Translates mRNA to tRNA — anti-codon pairs
