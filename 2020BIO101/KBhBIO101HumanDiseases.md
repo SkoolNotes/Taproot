@@ -336,7 +336,7 @@ RNAs could also be catalysts!
 * Polymerase Enzyme starts at a promoter (typically found upstream of the 5' start site) and ends at a terminator
 	* Box of TATTAA highlights transcription rate and the start site
 	* TFIIA cofactor in RNA recognizes TATTAA box, TFIIB recognizes C/CG/CG/CGCCC upstream
-* Stronger promoters/enhancers => "enhance" "more." i.e. tumor viruses 
+* Stronger promoters/enhancers => "enhance" "more." i.e. tumor viruses strengthen promoters for cell growth
 
 ### Before we continue, two words
 - *Non-coding sequence*: metadata for DNA for the processors
