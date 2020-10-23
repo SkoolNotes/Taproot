@@ -307,9 +307,10 @@ Damage host cells/tissues by...
 
 **Genetic Code** => "nucleotide code" found in the DNA that helps make protein. There are two parts of this: translation and transcription.
 
-Translation takes 
+- The process of **Transcription** involves taking the DNA, separating it, and copying its corresponding pairs to RNA
+- The process of **Translation** involves taking the RNA and making proteins.
 
-Occationally, the RNA is what we want to end up with, so then obve
+Occationally, the RNA is what we want to end up with, so then obviously we no longer need the process of Translation.
 
 ### Transcription => converting DNA to mRNA
 * Done by RNA Polymerase Enzyme
