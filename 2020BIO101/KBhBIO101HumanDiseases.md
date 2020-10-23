@@ -373,11 +373,12 @@ Mature mRNA sent to ribosome. mRNA must travel to the cytoplasm in the Eukarotes
 
 Ribosomes has two units: 50S unit + 30S unit => they come together whenever a mRNA needs it. Each contained specialized rRNA + tTRNA to catalyze attachment of and adapt the incoming mRNA respectively.
 
-* Ribosone reads the mRNA in groups of 3s ("codons") by matching with the corresponding nucleotides
+**Note! The beginning of mRNA is not translated.** There a portion on the 5' end of the mRNA (starts with AGGAGG) — about 170 nuclotides in humans, and shorter in bacteria — that's called UTR (untranslated region.) This region helps ribosomes bind to it + stablize the binds.
+
+* 3 protein factors IF1, IF2, IF3 forms a complex for transcription by binding to a subunit on the ribosome
+*  
 * Translates mRNA to tRNA — anti-codon pairs
 * Catalyst tRNA combines with rRNA  to catalyze amino acid peptide bond
 * Each codon (group of 3 units in tRNA), matches a specific [[KBhBIO101AminoAcids]]
-
-**Note! The beginning of mRNA is not translated.** There a portion on the 5' end of the mRNA (starts with AGGAGG) — about 170 nuclotides in that's called UTR (untranslated region.) This region helps ribosomes bind to it.
 
 After the amino acids are assembled, it's time for [[KBe2020bio101refProteinFolding]]. See also [[KBhBIO101Proteins]].
