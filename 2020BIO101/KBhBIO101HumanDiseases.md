@@ -369,8 +369,9 @@ Between Promoter and Terminator, **Exon** and **Intron** alternate. Exon is codi
 
 After reading the intron, they are spliced out during mRNA processing => done by the "splicesome". The mRNA, after splicing, is "capped and tailed" to mark pre-processing completion, at which point they leave the nucleus + go to the ribosome.
 
-* Begin by assembling helper proteins at intron-exon borders
-* 
+* Begin by assembling helper proteins at intron-exon borders => "slicing factors"
+* Other helping factor proteins come together and form the "splicesome" to do the splicing
+* Splicesome splices by bringing exon together
 
 ### Translation => RNA-directed polypeptide synthesis
 Mature mRNA sent to ribosome. mRNA must travel to the cytoplasm in the Eukarotes to catch the RNA, whereas in prokarotes they don't have to go anywhere.
