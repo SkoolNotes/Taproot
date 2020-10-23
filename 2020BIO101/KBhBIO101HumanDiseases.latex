@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4037)}}    % original
-%\rhead{\textrmlf{Compiled }\#4037\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4037\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4038)}}    % original
+%\rhead{\textrmlf{Compiled }\#4038\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4038\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -903,8 +903,10 @@ RNAs could also be catalysts!
 Subunit =\textgreater{} form a holoenzyme to unwind DNA * Sigma subunit
 informs the enzyme where to find a promoter (beginning of binding) *
 ``Enhancer'' gene sequences help bind with activator proteins to help
-attract RNA polymerase II * Polymerase Enzyme starts at a promoter and
-ends at a terminator *
+attract RNA polymerase II * Polymerase Enzyme starts at a promoter
+(typically found upstream of the 5' start site) and ends at a terminator
+* Box of TATTAA highlights transcription rate and the start site * TFIIA
+cofactor in RNA recognizes
 
 \hypertarget{before-we-continue-two-words}{%
 \subsubsection{Before we continue, two

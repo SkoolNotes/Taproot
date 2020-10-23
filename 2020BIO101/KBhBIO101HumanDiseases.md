@@ -333,8 +333,9 @@ RNAs could also be catalysts!
 * RNA polyamerase binds to the Sigma Subunit => form a holoenzyme to unwind DNA
 * Sigma subunit informs the enzyme where to find a promoter (beginning of binding)
 * "Enhancer" gene sequences help bind with activator proteins to help attract RNA polymerase II
-* Polymerase Enzyme starts at a promoter and ends at a terminator
-* 
+* Polymerase Enzyme starts at a promoter (typically found upstream of the 5' start site) and ends at a terminator
+	* Box of TATTAA highlights transcription rate and the start site
+	* TFIIA cofactor in RNA recognizes TATTAA box, TFIIB recognizes C/CG/CG/CGCCC upstream
 
 ### Before we continue, two words
 - *Non-coding sequence*: metadata for DNA for the processors
