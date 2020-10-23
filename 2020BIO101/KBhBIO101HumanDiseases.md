@@ -378,4 +378,6 @@ Ribosomes has two units: 50S unit + 30S unit => they come together whenever a mR
 * Catalyst tRNA combines with rRNA  to catalyze amino acid peptide bond
 * Each codon (group of 3 units in tRNA), matches a specific [[KBhBIO101AminoAcids]]
 
+**Note! The beginning of mRNA is not translated.** There a portion on the 5' end of the mRNA (starts with AGGAGG) — about 170 nuclotides in that's called UTR (untranslated region.) This region helps ribosomes bind to it.
+
 After the amino acids are assembled, it's time for [[KBe2020bio101refProteinFolding]]. See also [[KBhBIO101Proteins]].
