@@ -310,7 +310,7 @@ Damage host cells/tissues by...
 - The process of **Transcription** involves taking the DNA, separating it, and copying its corresponding pairs to RNA
 - The process of **Translation** involves taking the RNA and making proteins.
 
-Occationally, the RNA is what we want to end up with, so then obviously we no longer need the process of Translation.
+Occasionally the RNA is what we want to end up with, so then obviously we no longer need the process of Translation.
 
 ### Transcription => converting DNA to mRNA
 * Done by RNA Polymerase Enzyme
