@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4031)}}    % original
-%\rhead{\textrmlf{Compiled }\#4031\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4031\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4032)}}    % original
+%\rhead{\textrmlf{Compiled }\#4032\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4032\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -854,7 +854,7 @@ and transcription.
   proteins.
 \end{itemize}
 
-Occasionally the RNA is what we want to end up with, so then obviously
+Occasionally, the RNA is what we want to end up with, so then obviously
 we no longer need the process of Translation.
 
 \hypertarget{transcription-converting-dna-to-mrna}{%
