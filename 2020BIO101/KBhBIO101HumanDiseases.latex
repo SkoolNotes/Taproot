@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4051)}}    % original
-%\rhead{\textrmlf{Compiled }\#4051\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4051\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4052)}}    % original
+%\rhead{\textrmlf{Compiled }\#4052\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4052\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1002,8 +1002,8 @@ anywhere.
 
 Ribosomes has two units: 50S unit + 30S unit =\textgreater{} they come
 together whenever a mRNA needs it. Each contained specialized rRNA +
-tTRNA to catalyze attachment of and adapt the incoming mRNA
-respectively.
+tTRNA to catalyze attachment of and carry amino acids + adapt the
+incoming mRNA respectively.
 
 \textbf{Note! The beginning of mRNA is not translated.} There a portion
 on the 5' end of the mRNA (starts with AGGAGG) --- about 170 nuclotides
@@ -1021,8 +1021,10 @@ region.) This region helps ribosomes bind to it + stablize the binds.
   not coded for (f M-A amino acid pair coded for, methonine removed; but
   if M-L pairs coded for, methonine not removed.)
 \item
+  A-site: translates mRNA to tRNA --- anti-codon pairs
 \item
-  Translates mRNA to tRNA --- anti-codon pairs
+  P-site: amino acid transferred from tRNA to the actual chain being
+  built
 \item
   Catalyst tRNA combines with rRNA to catalyze amino acid peptide bond
 \item
