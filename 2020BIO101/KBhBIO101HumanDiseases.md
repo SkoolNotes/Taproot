@@ -348,8 +348,11 @@ RNAs could also be catalysts!
 * Found in the end of the template sequence
 * Two types in prokaryotes
 	*  Rho-independent terminators — roll back onto itself, causing the RNA to terminate and mRNA to be release
-	*  Rho-dependent terminators — activate cofactor named rho + unwind the RNA-DNA hybrid
-	*   
+	*  Rho-dependent terminators — activate cofactor named rho + unwind the transcribed RNA-DNA hybrid
+* In Eukarotes
+	* Pol I genes — transcription stopped through termination factor by unwindng the transcribed RNA-DNA hybrid
+	* Pol II genes — don't stop until the ned, but a polymerase has a "cleavage" mechnisum that clips the end out using a poly(A) tail consesus sequence
+	*    
 
 ### Before we continue, two words
 - *Non-coding sequence*: metadata for DNA for the processors
