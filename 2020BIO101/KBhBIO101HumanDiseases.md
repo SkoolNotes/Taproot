@@ -372,7 +372,7 @@ After reading the intron, they are spliced out during mRNA processing => done by
 * Begin by assembling helper proteins at intron-exon borders => "slicing factors"
 * Other helping factor proteins come together and form the "splicesome" to do the splicing
 * Splicesome splices by bringing exon ends together
-* After it's done, the splicesome 
+* After it's done, the splicesome disintergrates
 
 ### Translation => RNA-directed polypeptide synthesis
 Mature mRNA sent to ribosome. mRNA must travel to the cytoplasm in the Eukarotes to catch the RNA, whereas in prokarotes they don't have to go anywhere.
@@ -387,5 +387,7 @@ Ribosomes has two units: 50S unit + 30S unit => they come together whenever a mR
 * P-site: amino acid dumped from tRNA to the actual chain being built
 * Catalyst tRNA combines with rRNA  to catalyze amino acid peptide bond
 * Each codon (group of 3 units in tRNA), matches a specific [[KBhBIO101AminoAcids]]
+
+Smaller ribosome unit grabs, larger attaches + forms amino acid
 
 After the amino acids are assembled, it's time for [[KBe2020bio101refProteinFolding]]. See also [[KBhBIO101Proteins]].

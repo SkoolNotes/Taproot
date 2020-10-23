@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4057)}}    % original
-%\rhead{\textrmlf{Compiled }\#4057\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4057\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4058)}}    % original
+%\rhead{\textrmlf{Compiled }\#4058\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4058\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1005,7 +1005,7 @@ they leave the nucleus + go to the ribosome.
 \item
   Splicesome splices by bringing exon ends together
 \item
-  After it's done, the splicesome
+  After it's done, the splicesome disintergrates
 \end{itemize}
 
 \hypertarget{translation-rna-directed-polypeptide-synthesis}{%
@@ -1046,6 +1046,8 @@ region.) This region helps ribosomes bind to it + stablize the binds.
   Each codon (group of 3 units in tRNA), matches a specific
   {[}{[}KBhBIO101AminoAcids{]}{]}
 \end{itemize}
+
+Smaller ribosome unit grabs, larger attaches + forms amino acid
 
 After the amino acids are assembled, it's time for
 {[}{[}KBe2020bio101refProteinFolding{]}{]}. See also
