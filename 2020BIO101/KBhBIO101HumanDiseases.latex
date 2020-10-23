@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4036)}}    % original
-%\rhead{\textrmlf{Compiled }\#4036\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4036\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4037)}}    % original
+%\rhead{\textrmlf{Compiled }\#4037\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4037\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -902,7 +902,8 @@ RNAs could also be catalysts!
 \textbf{Starting Transcription} * RNA polyamerase binds to the Sigma
 Subunit =\textgreater{} form a holoenzyme to unwind DNA * Sigma subunit
 informs the enzyme where to find a promoter (beginning of binding) *
-``Enhancer'' gene sequences * Polymerase Enzyme starts at a promoter and
+``Enhancer'' gene sequences help bind with activator proteins to help
+attract RNA polymerase II * Polymerase Enzyme starts at a promoter and
 ends at a terminator *
 
 \hypertarget{before-we-continue-two-words}{%

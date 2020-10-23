@@ -332,7 +332,7 @@ RNAs could also be catalysts!
 **Starting Transcription**
 * RNA polyamerase binds to the Sigma Subunit => form a holoenzyme to unwind DNA
 * Sigma subunit informs the enzyme where to find a promoter (beginning of binding)
-* "Enhancer" gene sequences
+* "Enhancer" gene sequences help bind with activator proteins to help attract RNA polymerase II
 * Polymerase Enzyme starts at a promoter and ends at a terminator
 * 
 
