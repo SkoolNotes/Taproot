@@ -345,7 +345,8 @@ RNAs could also be catalysts!
 
 **Terminators**
 
-*  
+* Found in the end of the template sequence
+*   
 
 ### Before we continue, two words
 - *Non-coding sequence*: metadata for DNA for the processors
