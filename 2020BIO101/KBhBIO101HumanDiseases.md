@@ -330,7 +330,7 @@ RNAs could also be catalysts!
 * "Promoter"s denotes beginning of a gene. "Terminator"s denotes the end of gene.
 
 **Starting Transcription**
-* Series of utility "factors" begin to assemble, and called
+* Series of utility "factors" proetins begin to assemble to call the attention of RNA polymerase. (#how + #when does this happen? #ASK)
 * RNA polyamerase binds to the Sigma Subunit => form a holoenzyme to unwind DNA
 * Sigma subunit informs the enzyme where to find a promoter (beginning of binding)
 * "Enhancer" gene sequences help bind with activator proteins to help attract RNA polymerase II
@@ -358,7 +358,7 @@ RNAs could also be catalysts!
 - *Non-coding sequence*: metadata for DNA for the processors
 - *Coding sequence*: DNA content for amino-acid production
 
-### mRNA processing => processing mRNA
+### mRNA processing => splicing mRNA
 Pre-process the mRNA. 
 
 **Prokaryotes does not do this!** Prokarotes' coding sequence always makes a full protein, so we just start at promoter and end at terminator and make a protein!
@@ -368,6 +368,9 @@ In Eukaryotic DNA...
 Between Promoter and Terminator, **Exon** and **Intron** alternate. Exon is coding, whereas Intron is non-coding and works as metadata.
 
 After reading the intron, they are spliced out during mRNA processing => done by the "splicesome". The mRNA, after splicing, is "capped and tailed" to mark pre-processing completion, at which point they leave the nucleus + go to the ribosome.
+
+* Begin by assembling helper proteins at intron-exon borders
+* 
 
 ### Translation => RNA-directed polypeptide synthesis
 Mature mRNA sent to ribosome. mRNA must travel to the cytoplasm in the Eukarotes to catch the RNA, whereas in prokarotes they don't have to go anywhere.

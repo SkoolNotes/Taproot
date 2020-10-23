@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4054)}}    % original
-%\rhead{\textrmlf{Compiled }\#4054\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4054\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4055)}}    % original
+%\rhead{\textrmlf{Compiled }\#4055\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4055\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -899,10 +899,11 @@ RNAs could also be catalysts!
   end of gene.
 \end{itemize}
 
-\textbf{Starting Transcription} * Series of utility ``factors'' begin to
-assemble, and called * RNA polyamerase binds to the Sigma Subunit
-=\textgreater{} form a holoenzyme to unwind DNA * Sigma subunit informs
-the enzyme where to find a promoter (beginning of binding) *
+\textbf{Starting Transcription} * Series of utility ``factors'' proetins
+begin to assemble to call the attention of RNA polymerase. (\#how +
+\#when does this happen? \#ASK) * RNA polyamerase binds to the Sigma
+Subunit =\textgreater{} form a holoenzyme to unwind DNA * Sigma subunit
+informs the enzyme where to find a promoter (beginning of binding) *
 ``Enhancer'' gene sequences help bind with activator proteins to help
 attract RNA polymerase II
 
@@ -972,9 +973,9 @@ words}\label{before-we-continue-two-words}}
   \emph{Coding sequence}: DNA content for amino-acid production
 \end{itemize}
 
-\hypertarget{mrna-processing-processing-mrna}{%
-\subsubsection{mRNA processing =\textgreater{} processing
-mRNA}\label{mrna-processing-processing-mrna}}
+\hypertarget{mrna-processing-splicing-mrna}{%
+\subsubsection{mRNA processing =\textgreater{} splicing
+mRNA}\label{mrna-processing-splicing-mrna}}
 
 Pre-process the mRNA.
 
@@ -992,6 +993,13 @@ After reading the intron, they are spliced out during mRNA processing
 =\textgreater{} done by the ``splicesome''. The mRNA, after splicing, is
 ``capped and tailed'' to mark pre-processing completion, at which point
 they leave the nucleus + go to the ribosome.
+
+\begin{itemize}
+\tightlist
+\item
+  Begin by assembling helper proteins at intron-exon borders
+\item
+\end{itemize}
 
 \hypertarget{translation-rna-directed-polypeptide-synthesis}{%
 \subsubsection{Translation =\textgreater{} RNA-directed polypeptide
