@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4044)}}    % original
-%\rhead{\textrmlf{Compiled }\#4044\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4044\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4045)}}    % original
+%\rhead{\textrmlf{Compiled }\#4045\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4045\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -953,10 +953,9 @@ attract RNA polymerase II
     Pol I genes --- transcription stopped through termination factor by
     unwindng the transcribed RNA-DNA hybrid
   \item
-    Pol II genes --- don't stop until the ned, but a polymerase has a
-    ``cleavage'' mechnisum that clips the end out using a poly(A) tail
-    consesus sequence
-  \item
+    Pol II genes --- don't stop until the end, but a polymerase has a
+    ``cleavage'' mechanism that clips the end out using a poly(A) tail
+    consensus sequence
   \end{itemize}
 \end{itemize}
 
@@ -997,7 +996,8 @@ they leave the nucleus + go to the ribosome.
 \subsubsection{Translation =\textgreater{} RNA-directed polypeptide
 synthesis}\label{translation-rna-directed-polypeptide-synthesis}}
 
-Mature mRNA sent to ribosome.
+Mature mRNA sent to ribosome. Ribosome located in the cytoplasm in the
+Eukarotes, whereas
 
 \begin{itemize}
 \tightlist

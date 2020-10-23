@@ -351,8 +351,7 @@ RNAs could also be catalysts!
 	*  Rho-dependent terminators — activate cofactor named rho + unwind the transcribed RNA-DNA hybrid
 * In Eukarotes
 	* Pol I genes — transcription stopped through termination factor by unwindng the transcribed RNA-DNA hybrid
-	* Pol II genes — don't stop until the ned, but a polymerase has a "cleavage" mechnisum that clips the end out using a poly(A) tail consesus sequence
-	*    
+	* Pol II genes — don't stop until the end, but a polymerase has a "cleavage" mechanism that clips the end out using a poly(A) tail consensus sequence
 
 ### Before we continue, two words
 - *Non-coding sequence*: metadata for DNA for the processors
@@ -370,7 +369,7 @@ Between Promoter and Terminator, **Exon** and **Intron** alternate. Exon is codi
 After reading the intron, they are spliced out during mRNA processing => done by the "splicesome". The mRNA, after splicing, is "capped and tailed" to mark pre-processing completion, at which point they leave the nucleus + go to the ribosome.
 
 ### Translation => RNA-directed polypeptide synthesis
-Mature mRNA sent to ribosome.
+Mature mRNA sent to ribosome. Ribosome located in the cytoplasm in the Eukarotes, whereas 
 
 * Ribosone reads the mRNA in groups of 3s ("codons") by matching with the corresponding nucleotides
 * Translates mRNA to tRNA — anti-codon pairs
