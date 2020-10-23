@@ -371,7 +371,8 @@ After reading the intron, they are spliced out during mRNA processing => done by
 
 * Begin by assembling helper proteins at intron-exon borders => "slicing factors"
 * Other helping factor proteins come together and form the "splicesome" to do the splicing
-* Splicesome splices by bringing exon together
+* Splicesome splices by bringing exon ends together
+* After it's done, the splicesome 
 
 ### Translation => RNA-directed polypeptide synthesis
 Mature mRNA sent to ribosome. mRNA must travel to the cytoplasm in the Eukarotes to catch the RNA, whereas in prokarotes they don't have to go anywhere.
