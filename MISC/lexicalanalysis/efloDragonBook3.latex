@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4118)}}    % original
-%\rhead{\textrmlf{Compiled }\#4118\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4118\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4120)}}    % original
+%\rhead{\textrmlf{Compiled }\#4120\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4120\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -254,5 +254,21 @@ removing some letters, edit distance, etc.
 
 \hypertarget{specification-of-tokens}{%
 \section{specification of tokens}\label{specification-of-tokens}}
+
+\hypertarget{strings-and-languages-many-definitions}{%
+\subsection{strings and languages (many
+definitions)}\label{strings-and-languages-many-definitions}}
+
+\hypertarget{definition-alphabet}{%
+\subsubsection{\#definition alphabet}\label{definition-alphabet}}
+
+a set of characters. examples include the \emph{binary alphabet}
+\(\{0, 1\}\), ASCII, and Unicode
+
+\hypertarget{definition-string}{%
+\subsubsection{\#definition string}\label{definition-string}}
+
+a string over an alphabet is a "finite sequence of symbols" from that
+alphabet
 
 \end{document}

@@ -33,3 +33,11 @@
 #todo-learn
 
 * specification of tokens
+
+** strings and languages (many definitions)
+
+*** #definition alphabet
+    a set of characters. examples include the /binary alphabet/ $\{0, 1\}$, ASCII, and Unicode
+
+*** #definition string
+    a string over an alphabet is a "finite sequence of symbols" from that alphabet. It's length $|s|$,
