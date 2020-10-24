@@ -58,3 +58,6 @@
 
 *** Positive closure
     Kleene closure, but without $L^0$.
+
+** Regular Expressions
+   this syntax is a little different from "modern" regexes: the vertical bar `|` represents union instead of "or".

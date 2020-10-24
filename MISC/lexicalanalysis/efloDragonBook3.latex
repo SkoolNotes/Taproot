@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4125)}}    % original
-%\rhead{\textrmlf{Compiled }\#4125\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4125\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4126)}}    % original
+%\rhead{\textrmlf{Compiled }\#4126\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4126\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -306,5 +306,11 @@ concatenate \(L\) zero or more times. \(L^0 = \{\epsilon\}\) and
 \subsubsection{Positive closure}\label{positive-closure}}
 
 Kleene closure, but without \(L^0\).
+
+\hypertarget{regular-expressions}{%
+\subsection{Regular Expressions}\label{regular-expressions}}
+
+this syntax is a little different from "modern" regexes: the vertical
+bar `\textbar` represents union instead of "or".
 
 \end{document}
