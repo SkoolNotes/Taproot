@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4096)}}    % original
-%\rhead{\textrmlf{Compiled }\#4096\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4096\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4097)}}    % original
+%\rhead{\textrmlf{Compiled }\#4097\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4097\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -248,6 +248,10 @@ determinant}{TODO properties of the determinant}}\label{properties-of-the-determ
 \hypertarget{zero-when-matrix-has-no-inverse-singular}{%
 \subsubsection{zero when matrix has no inverse
 (singular)}\label{zero-when-matrix-has-no-inverse-singular}}
+
+\hypertarget{det--1-for-rotation-matrices}{%
+\subsubsection{det = -1 for rotation
+matrices?}\label{det--1-for-rotation-matrices}}
 
 \hypertarget{inverse-of-a-2x2-matrix}{%
 \subsection{\texorpdfstring{{DONE} inverse of a 2x2
