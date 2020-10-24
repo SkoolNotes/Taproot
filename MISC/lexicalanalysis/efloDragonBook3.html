@@ -120,7 +120,9 @@ html {
             <h3 id="concatenation-lm">concatenation <span class="math inline">\(LM\)</span></h3>
             <p>set of pairwise concatenations (anything from the first concat anything from the second)</p>
             <h3 id="kleene-closure-l">Kleene closure <span class="math inline">\(L^*\)</span></h3>
-            <p>concatenate <span class="math inline">\(L\)</span> zero or more times.</p>
+            <p>concatenate <span class="math inline">\(L\)</span> zero or more times. <span class="math inline">\(L^0 = \{\epsilon\}\)</span> and <span class="math inline">\(L^n = L^{n-1}L\)</span>.</p>
+            <h3 id="positive-closure">Positive closure</h3>
+            <p>Kleene closure, but without <span class="math inline">\(L^0\)</span>.</p>
         </div>
 
         <script>

@@ -54,4 +54,7 @@
     set of pairwise concatenations (anything from the first concat anything from the second)
 
 *** Kleene closure $L^*$
-    concatenate $L$ zero or more times.
+    concatenate $L$ zero or more times. $L^0 = \{\epsilon\}$ and $L^n = L^{n-1}L$.
+
+*** Positive closure
+    Kleene closure, but without $L^0$.
