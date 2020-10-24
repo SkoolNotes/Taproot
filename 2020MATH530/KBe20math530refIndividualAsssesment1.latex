@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4075)}}    % original
-%\rhead{\textrmlf{Compiled }\#4075\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4075\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4076)}}    % original
+%\rhead{\textrmlf{Compiled }\#4076\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4076\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -222,6 +222,8 @@ numbers}{TODO matrices to represent complex numbers}}\label{matrices-to-represen
 \hypertarget{find-the-determinant-of-matrices}{%
 \subsection{\texorpdfstring{{TODO} Find the determinant of
 matrices}{TODO Find the determinant of matrices}}\label{find-the-determinant-of-matrices}}
+
+\$\$ \left\textbar\textbackslash begin\{matrix\}
 
 \hypertarget{find-equations-of-lines-and-planes-using-cross-product-and-dot-product}{%
 \subsection{\texorpdfstring{{TODO} Find equations of lines and planes
