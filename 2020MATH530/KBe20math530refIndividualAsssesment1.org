@@ -20,7 +20,8 @@
 ** DONE connect direct sum and linear independence
    CLOSED: [2020-10-24 Sat 11:28]
    the sum of two spaces is direct if their basises are linearly independent
-** TODO matrices to represent complex numbers
+** DONE matrices to represent complex numbers
+   CLOSED: [2020-10-24 Sat 13:28]
    The negative one matrix is $\begin{bmatrix}-1&0\\0&-1\end{bmatrix}$ and we want the square root of that. It turns out that $\begin{bmatrix}0&-1\\1&0\end{bmatrix}$ satisfies this, and in fact, any complex number $a + bi$ can be represented as $\begin{bmatrix}a&-b\\b&a\end{bmatrix}$.
    These matrices are commutative under multiplication (like complex numbers should be), have their complex conjugates equal to their transposes, and a bunch of other nice properties. Also related to rotation matrices.
    #source https://www.nagwa.com/en/explainers/152196980513/
