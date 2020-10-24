@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4117)}}    % original
-%\rhead{\textrmlf{Compiled }\#4117\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4117\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4118)}}    % original
+%\rhead{\textrmlf{Compiled }\#4118\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4118\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -250,6 +250,9 @@ removing some letters, edit distance, etc.
 \hypertarget{input-buffering}{%
 \section{Input Buffering}\label{input-buffering}}
 
-\#todo
+\#todo-learn
+
+\hypertarget{specification-of-tokens}{%
+\section{specification of tokens}\label{specification-of-tokens}}
 
 \end{document}
