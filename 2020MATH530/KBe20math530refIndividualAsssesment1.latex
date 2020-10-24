@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4097)}}    % original
-%\rhead{\textrmlf{Compiled }\#4097\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4097\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4098)}}    % original
+%\rhead{\textrmlf{Compiled }\#4098\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4098\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -242,8 +242,8 @@ product}{TODO Find equations of lines and planes using cross product and dot pro
 \section{Derivations}\label{derivations}}
 
 \hypertarget{properties-of-the-determinant}{%
-\subsection{\texorpdfstring{{TODO} properties of the
-determinant}{TODO properties of the determinant}}\label{properties-of-the-determinant}}
+\subsection{\texorpdfstring{{DONE} properties of the
+determinant}{DONE properties of the determinant}}\label{properties-of-the-determinant}}
 
 \hypertarget{zero-when-matrix-has-no-inverse-singular}{%
 \subsubsection{zero when matrix has no inverse
