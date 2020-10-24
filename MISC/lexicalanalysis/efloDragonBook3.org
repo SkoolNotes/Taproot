@@ -46,3 +46,12 @@
     countable set of strings over some fixed alphabet. Some languages are abstract, like $\null$ or ${\epsilon}$ are boring languages. Also included are the set of C programs and valid english sentences.
 
 ** operations on languages
+
+*** union $L\cup M$
+    standard set union
+
+*** concatenation $LM$
+    set of pairwise concatenations (anything from the first concat anything from the second)
+
+*** Kleene closure $L^*$
+    concatenate $L$ zero or more times.

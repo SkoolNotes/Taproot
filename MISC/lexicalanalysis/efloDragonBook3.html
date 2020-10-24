@@ -113,8 +113,14 @@ html {
             <h3 id="definition-string">#definition string</h3>
             <p>a string over an alphabet is a "finite sequence of symbols" from that alphabet. It’s length <span class="math inline">\(|s|\)</span> is the number of symbols in <span class="math inline">\(s\)</span>. <span class="math inline">\(\epsilon\)</span> is the empty string.</p>
             <h3 id="definition-language">#definition language</h3>
-            <p>countable set of strings over some fixed alphabet. Some languages are abstract, like <span class="math inline">\(\null\)</span> or <span class="math inline">\({\epsilon}\)</span> are boring languages.</p>
+            <p>countable set of strings over some fixed alphabet. Some languages are abstract, like <span class="math inline">\(\null\)</span> or <span class="math inline">\({\epsilon}\)</span> are boring languages. Also included are the set of C programs and valid english sentences.</p>
             <h2 id="operations-on-languages">operations on languages</h2>
+            <h3 id="union-lcup-m">union <span class="math inline">\(L\cup M\)</span></h3>
+            <p>standard set union</p>
+            <h3 id="concatenation-lm">concatenation <span class="math inline">\(LM\)</span></h3>
+            <p>set of pairwise concatenations (anything from the first concat anything from the second)</p>
+            <h3 id="kleene-closure-l">Kleene closure <span class="math inline">\(L^*\)</span></h3>
+            <p>concatenate <span class="math inline">\(L\)</span> zero or more times.</p>
         </div>
 
         <script>

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4122)}}    % original
-%\rhead{\textrmlf{Compiled }\#4122\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4122\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4124)}}    % original
+%\rhead{\textrmlf{Compiled }\#4124\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4124\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -276,9 +276,29 @@ alphabet. It's length \(|s|\) is the number of symbols in \(s\).
 \subsubsection{\#definition language}\label{definition-language}}
 
 countable set of strings over some fixed alphabet. Some languages are
-abstract, like \(\null\) or \({\epsilon}\) are boring languages.
+abstract, like \(\null\) or \({\epsilon}\) are boring languages. Also
+included are the set of C programs and valid english sentences.
 
 \hypertarget{operations-on-languages}{%
 \subsection{operations on languages}\label{operations-on-languages}}
+
+\hypertarget{union-lcup-m}{%
+\subsubsection{\texorpdfstring{union
+\(L\cup M\)}{union L\textbackslash cup M}}\label{union-lcup-m}}
+
+standard set union
+
+\hypertarget{concatenation-lm}{%
+\subsubsection{\texorpdfstring{concatenation
+\(LM\)}{concatenation LM}}\label{concatenation-lm}}
+
+set of pairwise concatenations (anything from the first concat anything
+from the second)
+
+\hypertarget{kleene-closure-l}{%
+\subsubsection{\texorpdfstring{Kleene closure
+\(L^*\)}{Kleene closure L\^{}*}}\label{kleene-closure-l}}
+
+concatenate \(L\) zero or more times.
 
 \end{document}
