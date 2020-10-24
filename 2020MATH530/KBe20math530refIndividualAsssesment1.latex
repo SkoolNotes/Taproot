@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4094)}}    % original
-%\rhead{\textrmlf{Compiled }\#4094\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4094\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4095)}}    % original
+%\rhead{\textrmlf{Compiled }\#4095\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4095\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -270,9 +270,12 @@ matrices}{TODO rotation matrices}}\label{rotation-matrices}}
 
 Don't try to algebra it. Use polar coordinates and the angle sum trig
 identities: \[\begin{aligned}
-   \sin\left(\alpha + \beta\right) = \sin\alpha\cos\beta + \cos\alpha\sin\beta\\
-   \cos\left(\alpha + \beta\right) = \cos\alpha\cos\beta - \sin\alpha\sin\beta
+   \sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta\\
+   \cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta
    \end{aligned}\]
+
+anyways, you get
+\(\begin{bmatrix}\cos\theta&-\sin\theta\\\sin\theta&\cos\theta\end{bmatrix}\).
 
 \hypertarget{review-quizzes}{%
 \section{review quizzes}\label{review-quizzes}}
