@@ -48,14 +48,15 @@
    h = \frac{a}{ad-bc}\\
    \end{aligned}
    $$
-** TODO rotation matrices
+** DONE rotation matrices
+   CLOSED: [2020-10-24 Sat 13:09]
    Don't try to algebra it. Use polar coordinates and the angle sum trig identities:
    $$\begin{aligned}
    \sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta\\
    \cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta
    \end{aligned}$$
 
-   anyways, you get $\begin{bmatrix}\cos\theta&-\sin\theta\\\sin\theta&\cos\theta\end{bmatrix}$.
+   anyways, you get $\begin{bmatrix}\cos\theta&\sin\theta\\-\sin\theta&\cos\theta\end{bmatrix}$.
 
 * review quizzes
 ** DONE first quiz
