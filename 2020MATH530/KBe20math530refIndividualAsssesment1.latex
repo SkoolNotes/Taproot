@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4103)}}    % original
-%\rhead{\textrmlf{Compiled }\#4103\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4103\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4104)}}    % original
+%\rhead{\textrmlf{Compiled }\#4104\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4104\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -249,8 +249,9 @@ using cross product and dot
 product}{TODO Find equations of lines and planes using cross product and dot product}}\label{find-equations-of-lines-and-planes-using-cross-product-and-dot-product}}
 
 Use the cross product to find an orthagonal vector \(\vec p\). The plane
-is all vectors that are orthagonal to the crossed vector, which is to
-say that
+is all vectors that are orthagonal to \(\vec p\), which is to say that
+the dot product is zero
+(\(\left\{ \vec{u} : \vec{u}\cdot\vec{p} = 0 \right\}\))
 
 \hypertarget{derivations}{%
 \section{Derivations}\label{derivations}}
