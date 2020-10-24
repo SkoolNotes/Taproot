@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4061)}}    % original
-%\rhead{\textrmlf{Compiled }\#4061\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4061\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4062)}}    % original
+%\rhead{\textrmlf{Compiled }\#4062\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4062\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,11 +175,27 @@
 \hypertarget{field}{%
 \subsection{\texorpdfstring{{TODO} field}{TODO field}}\label{field}}
 
+\hypertarget{non-singular-matrices}{%
+\subsection{\texorpdfstring{{TODO} non-singular
+matrices}{TODO non-singular matrices}}\label{non-singular-matrices}}
+
 \hypertarget{connections}{%
 \section{Connections}\label{connections}}
 
 \hypertarget{connect-direct-sum-and-linear-independence}{%
-\subsection{connect direct sum and linear
-independence}\label{connect-direct-sum-and-linear-independence}}
+\subsection{\texorpdfstring{{TODO} connect direct sum and linear
+independence}{TODO connect direct sum and linear independence}}\label{connect-direct-sum-and-linear-independence}}
+
+\hypertarget{computation}{%
+\section{Computation}\label{computation}}
+
+\hypertarget{find-the-determinant-of-matrices}{%
+\subsection{\texorpdfstring{{TODO} Find the determinant of
+matrices}{TODO Find the determinant of matrices}}\label{find-the-determinant-of-matrices}}
+
+\hypertarget{find-equations-of-lines-and-planes-using-cross-product-and-dot-product}{%
+\subsection{\texorpdfstring{{TODO} Find equations of lines and planes
+using cross product and dot
+product}{TODO Find equations of lines and planes using cross product and dot product}}\label{find-equations-of-lines-and-planes-using-cross-product-and-dot-product}}
 
 \end{document}
