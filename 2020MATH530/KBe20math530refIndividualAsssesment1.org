@@ -30,7 +30,9 @@
    $$
    \begin{pmatrix}a\\b\\c\end{pmatrix}\times\begin{pmatrix}d\\e\\f\end{pmatrix}
    = \left|\begin{matrix}i&j&k\\a&b&c\\d&e&f\end{matrix}\right|
-   = i\left|\begin{matrix}b&c\\e&f\end{matrix}\right|+ j\left|
+   = i \left|\begin{matrix}b&c\\e&f\end{matrix}\right|+ j\left|\begin{matrix}c&a\\f&d\end{matrix}\right| + k\left|\begin{matrix}a&b\\d&e\end{matrix}\right|
+   = bf-ce, cd-fa, ae - bd
+   $$
 ** TODO Find equations of lines and planes using cross product and dot product
 * Derivations
 ** TODO properties of the determinant

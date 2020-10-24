@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4087)}}    % original
-%\rhead{\textrmlf{Compiled }\#4087\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4087\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4088)}}    % original
+%\rhead{\textrmlf{Compiled }\#4088\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4088\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -229,13 +229,12 @@ matrices}{DONE Find the determinant of matrices}}\label{find-the-determinant-of-
 \subsection{\texorpdfstring{{DONE} compute cross
 product}{DONE compute cross product}}\label{compute-cross-product}}
 
-\$\$ \textbackslash begin\{pmatrix\}a\textbackslash{}\\
-c\textbackslash end\{pmatrix\}×\textbackslash begin\{pmatrix\}d\textbackslash{}\e\textbackslash\textbackslash f\textbackslash end\{pmatrix\}
-=
-\left\textbar\textbackslash begin\{matrix\}i\&j\&k\textbackslash{}\a\&b\&c\textbackslash\textbackslash d\&e\&f\textbackslash end\{matrix\}\right\textbar{}
-=
-i\left\textbar\textbackslash begin\{matrix\}b\&c\textbackslash{}\e\&f\textbackslash end\{matrix\}\right\textbar+
-j\left\textbar{}
+\[
+   \begin{pmatrix}a\\b\\c\end{pmatrix}\times\begin{pmatrix}d\\e\\f\end{pmatrix}
+   = \left|\begin{matrix}i&j&k\\a&b&c\\d&e&f\end{matrix}\right|
+   = i \left|\begin{matrix}b&c\\e&f\end{matrix}\right|+ j\left|\begin{matrix}c&a\\f&d\end{matrix}\right| + k\left|\begin{matrix}a&b\\d&e\end{matrix}\right|
+   = bf-ce, cd-fa, ae - bd
+   \]
 
 \hypertarget{find-equations-of-lines-and-planes-using-cross-product-and-dot-product}{%
 \subsection{\texorpdfstring{{TODO} Find equations of lines and planes
