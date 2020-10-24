@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4082)}}    % original
-%\rhead{\textrmlf{Compiled }\#4082\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4082\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4083)}}    % original
+%\rhead{\textrmlf{Compiled }\#4083\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4083\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -223,11 +223,11 @@ numbers}{TODO matrices to represent complex numbers}}\label{matrices-to-represen
 \subsection{\texorpdfstring{{DONE} Find the determinant of
 matrices}{DONE Find the determinant of matrices}}\label{find-the-determinant-of-matrices}}
 
+\[\left|\begin{matrix}a&b\\c&d\end{matrix}\right| = ad-bc\]
+
 \hypertarget{compute-cross-product}{%
 \subsubsection{\texorpdfstring{{TODO} compute cross
 product}{TODO compute cross product}}\label{compute-cross-product}}
-
-\[\left|\begin{matrix}a&b\\c&d\end{matrix}\right| = ad-bc\]
 
 \hypertarget{find-equations-of-lines-and-planes-using-cross-product-and-dot-product}{%
 \subsection{\texorpdfstring{{TODO} Find equations of lines and planes
