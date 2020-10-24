@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4072)}}    % original
-%\rhead{\textrmlf{Compiled }\#4072\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4072\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4073)}}    % original
+%\rhead{\textrmlf{Compiled }\#4073\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4073\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -206,8 +206,11 @@ determinant non zero
 \section{Connections}\label{connections}}
 
 \hypertarget{connect-direct-sum-and-linear-independence}{%
-\subsection{\texorpdfstring{{TODO} connect direct sum and linear
-independence}{TODO connect direct sum and linear independence}}\label{connect-direct-sum-and-linear-independence}}
+\subsection{\texorpdfstring{{DONE} connect direct sum and linear
+independence}{DONE connect direct sum and linear independence}}\label{connect-direct-sum-and-linear-independence}}
+
+the sum of two spaces is direct if their basises are linearly
+independent
 
 \hypertarget{matrices-to-represent-complex-numbers}{%
 \subsection{\texorpdfstring{{TODO} matrices to represent complex
