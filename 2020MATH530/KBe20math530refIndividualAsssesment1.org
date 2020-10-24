@@ -1,14 +1,16 @@
 #+TITLE: prep for first individual assesment
 #+AUTHOR: Exr0n
 * Definitions
-** TODO group
+** DONE group
+   CLOSED: [2020-10-24 Sat 11:23]
    A set and binary operation that satisfies Group Properties
    - Closed
    - Identity
    - Inverse
    - Associative
-** TODO field
-   A set and two binary operations: the primary (addition) and secondary (multiplication) that "mostly" satisfies group properties for both operations, and are commutative and distributive.
+** DONE field
+   CLOSED: [2020-10-24 Sat 11:23]
+   A set and two binary operations: the primary (addition) and secondary (multiplication) that "mostly" satisfies group properties for both operations, and are *commutative and distributive*.
    It must be a group under the primary operation and a group under the secondary operation except without a secondary inverse for the primary indentity.
 ** TODO non-singular matrices
 * Connections

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4068)}}    % original
-%\rhead{\textrmlf{Compiled }\#4068\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4068\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4069)}}    % original
+%\rhead{\textrmlf{Compiled }\#4069\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4069\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -170,7 +170,7 @@
 \section{Definitions}\label{definitions}}
 
 \hypertarget{group}{%
-\subsection{\texorpdfstring{{TODO} group}{TODO group}}\label{group}}
+\subsection{\texorpdfstring{{DONE} group}{DONE group}}\label{group}}
 
 A set and binary operation that satisfies Group Properties
 
@@ -187,13 +187,13 @@ A set and binary operation that satisfies Group Properties
 \end{itemize}
 
 \hypertarget{field}{%
-\subsection{\texorpdfstring{{TODO} field}{TODO field}}\label{field}}
+\subsection{\texorpdfstring{{DONE} field}{DONE field}}\label{field}}
 
 A set and two binary operations: the primary (addition) and secondary
 (multiplication) that "mostly" satisfies group properties for both
-operations, and are commutative and distributive. It must be a group
-under the primary operation and a group under the secondary operation
-except without a secondary inverse for the primary indentity.
+operations, and are \textbf{commutative and distributive}. It must be a
+group under the primary operation and a group under the secondary
+operation except without a secondary inverse for the primary indentity.
 
 \hypertarget{non-singular-matrices}{%
 \subsection{\texorpdfstring{{TODO} non-singular
