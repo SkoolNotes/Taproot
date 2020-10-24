@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4079)}}    % original
-%\rhead{\textrmlf{Compiled }\#4079\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4079\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4080)}}    % original
+%\rhead{\textrmlf{Compiled }\#4080\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4080\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -267,14 +267,11 @@ quiz}{DONE linear independence quiz}}\label{linear-independence-quiz}}
 
 teacher gave no problems
 
-\hypertarget{quick-linear-quiz}{%
-\subsection{\texorpdfstring{{DONE} quick linear
-quiz}{DONE quick linear quiz}}\label{quick-linear-quiz}}
+\hypertarget{quick-linear-quiz-linear-independence-and-bases}{%
+\subsection{\texorpdfstring{{DONE} quick linear quiz (linear
+independence and
+bases)}{DONE quick linear quiz (linear independence and bases)}}\label{quick-linear-quiz-linear-independence-and-bases}}
 
 no feedback, I think that quiz was pretty solid..
-
-\hypertarget{linear-independence-and-bases}{%
-\subsection{\texorpdfstring{{TODO} linear independence and
-bases}{TODO linear independence and bases}}\label{linear-independence-and-bases}}
 
 \end{document}
