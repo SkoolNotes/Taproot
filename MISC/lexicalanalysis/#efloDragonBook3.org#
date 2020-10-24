@@ -25,3 +25,8 @@
      - if the token is "number", then what number actually was it?
    - "token name influences parsing decisions, while the attribute value influences translation of tokens after the parse."
    - the identifier token *id* needs to associate lots of data, such as it's lexeme, type, and location in memory, etc
+
+** lexical errors
+   Sometimes we can modify the source to attempt to fix typos, etc. Such as removing some letters, edit distance, etc.
+
+** 
