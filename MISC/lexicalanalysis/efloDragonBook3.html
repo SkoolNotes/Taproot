@@ -92,7 +92,14 @@ html {
             <li><p>constants (sometimes one per type)</p></li>
             <li><p>punctuation (usually one per each, including parens, comma, and semecolon)</p></li>
             </ol>
-            <p>**</p>
+            <h2 id="token-attributes">token attributes</h2>
+            <ul>
+            <li><p>Token name only contains what type of token it is, not the value</p>
+            <ul>
+            <li><p>if the token is "number", then what number actually was it?</p></li>
+            </ul></li>
+            <li><p>"token name influences parsing decisions, while the attribute value influences translation of tokens after the parse."</p></li>
+            </ul>
         </div>
 
         <script>

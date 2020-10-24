@@ -20,4 +20,7 @@
    4. constants (sometimes one per type)
    5. punctuation (usually one per each, including parens, comma, and semecolon)
 
-**
+** token attributes
+   - Token name only contains what type of token it is, not the value
+     - if the token is "number", then what number actually was it?
+   - "token name influences parsing decisions, while the attribute value influences translation of tokens after the parse."

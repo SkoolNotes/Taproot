@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4113)}}    % original
-%\rhead{\textrmlf{Compiled }\#4113\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4113\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4114)}}    % original
+%\rhead{\textrmlf{Compiled }\#4114\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4114\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -220,6 +220,22 @@ lexemes}\label{terms-tokens-patterns-lexemes}}
   semecolon)
 \end{enumerate}
 
-**
+\hypertarget{token-attributes}{%
+\subsection{token attributes}\label{token-attributes}}
+
+\begin{itemize}
+\tightlist
+\item
+  Token name only contains what type of token it is, not the value
+
+  \begin{itemize}
+  \tightlist
+  \item
+    if the token is "number", then what number actually was it?
+  \end{itemize}
+\item
+  "token name influences parsing decisions, while the attribute value
+  influences translation of tokens after the parse."
+\end{itemize}
 
 \end{document}
