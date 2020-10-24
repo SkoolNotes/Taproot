@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4093)}}    % original
-%\rhead{\textrmlf{Compiled }\#4093\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4093\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4094)}}    % original
+%\rhead{\textrmlf{Compiled }\#4094\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4094\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -267,6 +267,12 @@ Then you do some algebra to get \[
 \hypertarget{rotation-matrices}{%
 \subsection{\texorpdfstring{{TODO} rotation
 matrices}{TODO rotation matrices}}\label{rotation-matrices}}
+
+Don't try to algebra it. Use polar coordinates and the angle sum trig
+identities: \[\begin{aligned}
+   \sin\left(\alpha + \beta\right) = \sin\alpha\cos\beta + \cos\alpha\sin\beta\\
+   \cos\left(\alpha + \beta\right) = \cos\alpha\cos\beta - \sin\alpha\sin\beta
+   \end{aligned}\]
 
 \hypertarget{review-quizzes}{%
 \section{review quizzes}\label{review-quizzes}}

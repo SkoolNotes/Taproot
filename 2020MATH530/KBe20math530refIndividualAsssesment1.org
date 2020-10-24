@@ -49,6 +49,11 @@
    \end{aligned}
    $$
 ** TODO rotation matrices
+   Don't try to algebra it. Use polar coordinates and the angle sum trig identities:
+   $$\begin{aligned}
+   \sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta\\
+   \cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta
+   \end{aligned}$$
 
 * review quizzes
 ** DONE first quiz
