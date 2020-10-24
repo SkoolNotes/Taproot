@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4089)}}    % original
-%\rhead{\textrmlf{Compiled }\#4089\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4089\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4091)}}    % original
+%\rhead{\textrmlf{Compiled }\#4091\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4091\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -248,6 +248,9 @@ determinant}{TODO properties of the determinant}}\label{properties-of-the-determ
 \hypertarget{inverse-of-a-2x2-matrix}{%
 \subsection{\texorpdfstring{{TODO} inverse of a 2x2
 matrix}{TODO inverse of a 2x2 matrix}}\label{inverse-of-a-2x2-matrix}}
+
+\[ \begin{bmatrix}a&b\\c&d\end{bmatrix}\begin{bmatrix}e&f\\g&h\end{bmatrix} = \begin{bmatrix}1&0\\0&1\end{bmatrix} \]
+\[ \begin{aligned} ae+bg = 1\\ ce+dg = 0\\ af+bh = 0\\ cf+dh = 1\\ \end{aligned} \]
 
 \hypertarget{rotation-matrices}{%
 \subsection{\texorpdfstring{{TODO} rotation

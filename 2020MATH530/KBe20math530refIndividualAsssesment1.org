@@ -34,6 +34,9 @@
 * Derivations
 ** TODO properties of the determinant
 ** TODO inverse of a 2x2 matrix
+   $$ \begin{bmatrix}a&b\\c&d\end{bmatrix}\begin{bmatrix}e&f\\g&h\end{bmatrix} = \begin{bmatrix}1&0\\0&1\end{bmatrix} $$
+   $$ \begin{aligned} ae+bg = 1\\ ce+dg = 0\\ af+bh = 0\\ cf+dh = 1\\ \end{aligned} $$
+
 ** TODO rotation matrices
 
 * review quizzes
