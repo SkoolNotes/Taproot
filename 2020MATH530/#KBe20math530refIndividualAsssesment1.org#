@@ -8,7 +8,8 @@
    - Inverse
    - Associative
 ** TODO field
-   A set and two binary oper
+   A set and two binary operations: the primary (addition) and secondary (multiplication) that "mostly" satisfies group properties for both operations.
+   It must be a group under the primary operation and a group under the secondary operation except without an inverse for the 
 ** TODO non-singular matrices
 * Connections
 ** TODO connect direct sum and linear independence
