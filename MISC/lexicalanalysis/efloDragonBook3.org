@@ -43,4 +43,6 @@
     a string over an alphabet is a "finite sequence of symbols" from that alphabet. It's length $|s|$ is the number of symbols in $s$. $\epsilon$ is the empty string.
 
 *** #definition language
-    countable set of strings over some fixed alphabet. Some languages are abstract, like $\null$ or ${\epsilon}$ are boring languages.
+    countable set of strings over some fixed alphabet. Some languages are abstract, like $\null$ or ${\epsilon}$ are boring languages. Also included are the set of C programs and valid english sentences.
+
+** operations on languages

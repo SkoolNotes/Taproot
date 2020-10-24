@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4121)}}    % original
-%\rhead{\textrmlf{Compiled }\#4121\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4121\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4122)}}    % original
+%\rhead{\textrmlf{Compiled }\#4122\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4122\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -277,5 +277,8 @@ alphabet. It's length \(|s|\) is the number of symbols in \(s\).
 
 countable set of strings over some fixed alphabet. Some languages are
 abstract, like \(\null\) or \({\epsilon}\) are boring languages.
+
+\hypertarget{operations-on-languages}{%
+\subsection{operations on languages}\label{operations-on-languages}}
 
 \end{document}
