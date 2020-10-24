@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4067)}}    % original
-%\rhead{\textrmlf{Compiled }\#4067\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4067\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4068)}}    % original
+%\rhead{\textrmlf{Compiled }\#4068\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4068\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -191,9 +191,9 @@ A set and binary operation that satisfies Group Properties
 
 A set and two binary operations: the primary (addition) and secondary
 (multiplication) that "mostly" satisfies group properties for both
-operations. It must be a group under the primary operation and a group
-under the secondary operation except without a secondary inverse for the
-primary indentity.
+operations, and are commutative and distributive. It must be a group
+under the primary operation and a group under the secondary operation
+except without a secondary inverse for the primary indentity.
 
 \hypertarget{non-singular-matrices}{%
 \subsection{\texorpdfstring{{TODO} non-singular
