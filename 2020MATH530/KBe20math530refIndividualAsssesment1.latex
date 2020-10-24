@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4063)}}    % original
-%\rhead{\textrmlf{Compiled }\#4063\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4063\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4064)}}    % original
+%\rhead{\textrmlf{Compiled }\#4064\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4064\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -171,6 +171,14 @@
 
 \hypertarget{group}{%
 \subsection{\texorpdfstring{{TODO} group}{TODO group}}\label{group}}
+
+A set and binary operation that satisfies Group Properties
+
+\begin{itemize}
+\tightlist
+\item
+  Closed
+\end{itemize}
 
 \hypertarget{field}{%
 \subsection{\texorpdfstring{{TODO} field}{TODO field}}\label{field}}
