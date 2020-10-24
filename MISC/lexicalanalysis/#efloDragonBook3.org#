@@ -1,0 +1,18 @@
+#+TITLE: dragon book 3 flow
+#+AUTHOR: Exr0n
+
+* The Role of the Lexical Analyzer
+
+** Lexical vs Syntactic analysis
+   1. Syntax and raw text are different and can be treated separately
+   2. it may be more efficient
+   3. better portability
+
+** terms: tokens, patterns, lexemes
+   - #definition token: is a name and a value, like a keyword or an identifier
+   - #definition pattern: basically a regex of what string structures are allowed
+   - #definition lexeme: part of the source text that is matched by a pattern as an instance of a token
+
+**
+
+**
