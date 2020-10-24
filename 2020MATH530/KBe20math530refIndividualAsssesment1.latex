@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4080)}}    % original
-%\rhead{\textrmlf{Compiled }\#4080\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4080\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4081)}}    % original
+%\rhead{\textrmlf{Compiled }\#4081\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4081\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -223,6 +223,10 @@ numbers}{TODO matrices to represent complex numbers}}\label{matrices-to-represen
 \subsection{\texorpdfstring{{DONE} Find the determinant of
 matrices}{DONE Find the determinant of matrices}}\label{find-the-determinant-of-matrices}}
 
+\hypertarget{compute-cross-product}{%
+\subsubsection{\texorpdfstring{{TODO} compute cross
+product}{TODO compute cross product}}\label{compute-cross-product}}
+
 \[\left|\begin{matrix}a&b\\c&d\end{matrix}\right| = ad-bc\]
 
 \hypertarget{find-equations-of-lines-and-planes-using-cross-product-and-dot-product}{%
@@ -241,6 +245,10 @@ determinant}{TODO properties of the determinant}}\label{properties-of-the-determ
 \subsection{\texorpdfstring{{TODO} inverse of a 2x2
 matrix}{TODO inverse of a 2x2 matrix}}\label{inverse-of-a-2x2-matrix}}
 
+\hypertarget{rotation-matrices}{%
+\subsection{\texorpdfstring{{TODO} rotation
+matrices}{TODO rotation matrices}}\label{rotation-matrices}}
+
 \hypertarget{review-quizzes}{%
 \section{review quizzes}\label{review-quizzes}}
 
@@ -253,13 +261,17 @@ quiz}{TODO first quiz}}\label{first-quiz}}
 product and dot
 product"}\label{see-find-equations-of-lines-and-planes-using-cross-product-and-dot-product}}
 
-\hypertarget{rotation-matrices}{%
-\subsubsection{\texorpdfstring{{TODO} rotation
-matrices?}{TODO rotation matrices?}}\label{rotation-matrices}}
+\hypertarget{rotation-matrices-1}{%
+\subsubsection{rotation matrices}\label{rotation-matrices-1}}
 
-\hypertarget{compute-cross-product}{%
-\subsubsection{\texorpdfstring{{TODO} compute cross
-product}{TODO compute cross product}}\label{compute-cross-product}}
+\hypertarget{cross-product}{%
+\subsubsection{cross product}\label{cross-product}}
+
+\hypertarget{mini-take-home-quiz}{%
+\subsection{\texorpdfstring{{DONE} mini take home
+quiz}{DONE mini take home quiz}}\label{mini-take-home-quiz}}
+
+no feedback
 
 \hypertarget{linear-independence-quiz}{%
 \subsection{\texorpdfstring{{DONE} linear independence

@@ -24,16 +24,22 @@
 * Computation
 ** DONE Find the determinant of matrices
    CLOSED: [2020-10-24 Sat 11:59]
+*** TODO compute cross product
 $$\left|\begin{matrix}a&b\\c&d\end{matrix}\right| = ad-bc$$
 ** TODO Find equations of lines and planes using cross product and dot product
 * Derivations
 ** TODO properties of the determinant
 ** TODO inverse of a 2x2 matrix
+** TODO rotation matrices
+
 * review quizzes
 ** TODO first quiz
 *** see "find equations of lines and planes using cross product and dot product"
-*** TODO rotation matrices?
-*** TODO compute cross product
+*** rotation matrices
+*** cross product
+** DONE mini take home quiz
+   CLOSED: [2020-10-24 Sat 12:04]
+   no feedback
 ** DONE linear independence quiz
    CLOSED: [2020-10-24 Sat 12:02]
    teacher gave no problems
