@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4078)}}    % original
-%\rhead{\textrmlf{Compiled }\#4078\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4078\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4079)}}    % original
+%\rhead{\textrmlf{Compiled }\#4079\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4079\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -261,13 +261,17 @@ matrices?}{TODO rotation matrices?}}\label{rotation-matrices}}
 \subsubsection{\texorpdfstring{{TODO} compute cross
 product}{TODO compute cross product}}\label{compute-cross-product}}
 
-\hypertarget{quick-linear-quiz}{%
-\subsection{\texorpdfstring{{TODO} quick linear
-quiz}{TODO quick linear quiz}}\label{quick-linear-quiz}}
-
 \hypertarget{linear-independence-quiz}{%
-\subsection{\texorpdfstring{{TODO} linear independence
-quiz}{TODO linear independence quiz}}\label{linear-independence-quiz}}
+\subsection{\texorpdfstring{{DONE} linear independence
+quiz}{DONE linear independence quiz}}\label{linear-independence-quiz}}
+
+teacher gave no problems
+
+\hypertarget{quick-linear-quiz}{%
+\subsection{\texorpdfstring{{DONE} quick linear
+quiz}{DONE quick linear quiz}}\label{quick-linear-quiz}}
+
+no feedback, I think that quiz was pretty solid..
 
 \hypertarget{linear-independence-and-bases}{%
 \subsection{\texorpdfstring{{TODO} linear independence and
