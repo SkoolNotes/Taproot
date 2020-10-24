@@ -36,7 +36,15 @@
 ** TODO inverse of a 2x2 matrix
    $$ \begin{bmatrix}a&b\\c&d\end{bmatrix}\begin{bmatrix}e&f\\g&h\end{bmatrix} = \begin{bmatrix}1&0\\0&1\end{bmatrix} $$
    $$ \begin{aligned} ae+bg = 1\\ ce+dg = 0\\ af+bh = 0\\ cf+dh = 1\\ \end{aligned} $$
-
+   Then you do some algebra to get
+   $$
+   \begin{aligned}
+   e = \frac{d}{ad-bc}\\
+   g = \frac{-c}{ad-bc}\\
+   f = \frac{-b}{ad-bc}\\
+   h = \frac{a}{ad-bc}\\
+   \end{aligned}
+   $$
 ** TODO rotation matrices
 
 * review quizzes
