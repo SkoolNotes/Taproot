@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4110)}}    % original
-%\rhead{\textrmlf{Compiled }\#4110\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4110\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4112)}}    % original
+%\rhead{\textrmlf{Compiled }\#4112\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4112\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -191,16 +191,27 @@ lexemes}\label{terms-tokens-patterns-lexemes}}
 \begin{itemize}
 \tightlist
 \item
-  \#definition token: is a name and a value, like a keyword or an
-  identifier
+  \#definition token: is a name and a value, where the name like a
+  keyword or an identifier and the value is a section of the source
+  text?
 \item
   \#definition pattern: basically a regex of what string structures are
   allowed
 \item
-  \#definition
+  \#definition lexeme: part of the source text that is matched by a
+  pattern as an instance of a token
 \end{itemize}
 
-**
+\hypertarget{common-tokens}{%
+\subsection{common tokens}\label{common-tokens}}
+
+\begin{enumerate}
+\tightlist
+\item
+  keyword
+\item
+  operators
+\end{enumerate}
 
 **
 

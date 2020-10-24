@@ -9,10 +9,14 @@
    3. better portability
 
 ** terms: tokens, patterns, lexemes
-   - #definition token: is a name and a value, like a keyword or an identifier
+   - #definition token: is a name and a value, where the name like a keyword or an identifier and the value is a section of the source text?
    - #definition pattern: basically a regex of what string structures are allowed
    - #definition lexeme: part of the source text that is matched by a pattern as an instance of a token
 
-**
+** common tokens
+   1. keywords
+   2. operators
+   3. identifiers
+   4. constants (sometimes one per type)
 
 **
