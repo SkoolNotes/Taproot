@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4073)}}    % original
-%\rhead{\textrmlf{Compiled }\#4073\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4073\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4074)}}    % original
+%\rhead{\textrmlf{Compiled }\#4074\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4074\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -238,5 +238,8 @@ determinant}{TODO properties of the determinant}}\label{properties-of-the-determ
 \hypertarget{inverse-of-a-2x2-matrix}{%
 \subsection{\texorpdfstring{{TODO} inverse of a 2x2
 matrix}{TODO inverse of a 2x2 matrix}}\label{inverse-of-a-2x2-matrix}}
+
+\hypertarget{review-quizzes}{%
+\section{review quizzes}\label{review-quizzes}}
 
 \end{document}
