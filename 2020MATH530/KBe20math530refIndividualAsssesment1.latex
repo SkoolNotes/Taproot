@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4092)}}    % original
-%\rhead{\textrmlf{Compiled }\#4092\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4092\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4093)}}    % original
+%\rhead{\textrmlf{Compiled }\#4093\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4093\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -245,18 +245,22 @@ product}{TODO Find equations of lines and planes using cross product and dot pro
 \subsection{\texorpdfstring{{TODO} properties of the
 determinant}{TODO properties of the determinant}}\label{properties-of-the-determinant}}
 
+\hypertarget{zero-when-matrix-has-no-inverse-singular}{%
+\subsubsection{zero when matrix has no inverse
+(singular)}\label{zero-when-matrix-has-no-inverse-singular}}
+
 \hypertarget{inverse-of-a-2x2-matrix}{%
-\subsection{\texorpdfstring{{TODO} inverse of a 2x2
-matrix}{TODO inverse of a 2x2 matrix}}\label{inverse-of-a-2x2-matrix}}
+\subsection{\texorpdfstring{{DONE} inverse of a 2x2
+matrix}{DONE inverse of a 2x2 matrix}}\label{inverse-of-a-2x2-matrix}}
 
 \[ \begin{bmatrix}a&b\\c&d\end{bmatrix}\begin{bmatrix}e&f\\g&h\end{bmatrix} = \begin{bmatrix}1&0\\0&1\end{bmatrix} \]
 \[ \begin{aligned} ae+bg = 1\\ ce+dg = 0\\ af+bh = 0\\ cf+dh = 1\\ \end{aligned} \]
 Then you do some algebra to get \[
    \begin{aligned}
    e = \frac{d}{ad-bc}\\
-   f = \frac{d}{ad-bc}\\
-   g = \frac{d}{ad-bc}\\
-   h = \frac{d}{ad-bc}\\
+   g = \frac{-c}{ad-bc}\\
+   f = \frac{-b}{ad-bc}\\
+   h = \frac{a}{ad-bc}\\
    \end{aligned}
    \]
 
