@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4112)}}    % original
-%\rhead{\textrmlf{Compiled }\#4112\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4112\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4113)}}    % original
+%\rhead{\textrmlf{Compiled }\#4113\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4113\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -202,15 +202,22 @@ lexemes}\label{terms-tokens-patterns-lexemes}}
   pattern as an instance of a token
 \end{itemize}
 
-\hypertarget{common-tokens}{%
-\subsection{common tokens}\label{common-tokens}}
+\hypertarget{common-token-breakdown}{%
+\subsection{common token breakdown}\label{common-token-breakdown}}
 
 \begin{enumerate}
 \tightlist
 \item
-  keyword
+  keywords (usually one per keyword)
 \item
-  operators
+  operators (sometimes in operator classes)
+\item
+  identifiers
+\item
+  constants (sometimes one per type)
+\item
+  punctuation (usually one per each, including parens, comma, and
+  semecolon)
 \end{enumerate}
 
 **

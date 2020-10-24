@@ -13,8 +13,11 @@
    - #definition pattern: basically a regex of what string structures are allowed
    - #definition lexeme: part of the source text that is matched by a pattern as an instance of a token
 
-** common tokens
-   1. keyword
-   2. operators
+** common token breakdown
+   1. keywords (usually one per keyword)
+   2. operators (sometimes in operator classes)
+   3. identifiers
+   4. constants (sometimes one per type)
+   5. punctuation (usually one per each, including parens, comma, and semecolon)
 
 **
