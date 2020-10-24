@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4062)}}    % original
-%\rhead{\textrmlf{Compiled }\#4062\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4062\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4063)}}    % original
+%\rhead{\textrmlf{Compiled }\#4063\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4063\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,6 +186,10 @@ matrices}{TODO non-singular matrices}}\label{non-singular-matrices}}
 \subsection{\texorpdfstring{{TODO} connect direct sum and linear
 independence}{TODO connect direct sum and linear independence}}\label{connect-direct-sum-and-linear-independence}}
 
+\hypertarget{matrices-to-represent-complex-numbers}{%
+\subsection{\texorpdfstring{{TODO} matrices to represent complex
+numbers}{TODO matrices to represent complex numbers}}\label{matrices-to-represent-complex-numbers}}
+
 \hypertarget{computation}{%
 \section{Computation}\label{computation}}
 
@@ -197,5 +201,16 @@ matrices}{TODO Find the determinant of matrices}}\label{find-the-determinant-of-
 \subsection{\texorpdfstring{{TODO} Find equations of lines and planes
 using cross product and dot
 product}{TODO Find equations of lines and planes using cross product and dot product}}\label{find-equations-of-lines-and-planes-using-cross-product-and-dot-product}}
+
+\hypertarget{derivations}{%
+\section{Derivations}\label{derivations}}
+
+\hypertarget{properties-of-the-determinant}{%
+\subsection{\texorpdfstring{{TODO} properties of the
+determinant}{TODO properties of the determinant}}\label{properties-of-the-determinant}}
+
+\hypertarget{inverse-of-a-2x2-matrix}{%
+\subsection{\texorpdfstring{{TODO} inverse of a 2x2
+matrix}{TODO inverse of a 2x2 matrix}}\label{inverse-of-a-2x2-matrix}}
 
 \end{document}
