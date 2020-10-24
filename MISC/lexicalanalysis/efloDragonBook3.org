@@ -80,6 +80,10 @@
     2. concat has second highest precedence
     3. `|` has lowest precedence
 
-*** #definition
+*** #definition regular set
+    Any lanugage that can be defined by a regular expression
+
+*** #definition equivalent $r = s$
+    If two regular expressions denote the same regular set.
 
 **

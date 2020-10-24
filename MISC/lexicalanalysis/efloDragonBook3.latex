@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4129)}}    % original
-%\rhead{\textrmlf{Compiled }\#4129\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4129\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4130)}}    % original
+%\rhead{\textrmlf{Compiled }\#4130\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4130\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -363,8 +363,16 @@ Everything is left associative
   `\textbar` has lowest precedence
 \end{enumerate}
 
-\hypertarget{definition}{%
-\subsubsection{\#definition}\label{definition}}
+\hypertarget{definition-regular-set}{%
+\subsubsection{\#definition regular set}\label{definition-regular-set}}
+
+Any lanugage that can be defined by a regular expression
+
+\hypertarget{definition-equivalent-r-s}{%
+\subsubsection{\texorpdfstring{\#definition equivalent
+\(r = s\)}{\#definition equivalent r = s}}\label{definition-equivalent-r-s}}
+
+If two regular expressions denote the same regular set.
 
 **
 
