@@ -13,6 +13,7 @@
    A set and two binary operations: the primary (addition) and secondary (multiplication) that "mostly" satisfies group properties for both operations, and are *commutative and distributive*.
    It must be a group under the primary operation and a group under the secondary operation except without a secondary inverse for the primary indentity.
 ** TODO non-singular matrices
+   singular matrix: has no inverse.
 * Connections
 ** TODO connect direct sum and linear independence
 ** TODO matrices to represent complex numbers

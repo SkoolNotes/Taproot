@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4069)}}    % original
-%\rhead{\textrmlf{Compiled }\#4069\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4069\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4070)}}    % original
+%\rhead{\textrmlf{Compiled }\#4070\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4070\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -198,6 +198,8 @@ operation except without a secondary inverse for the primary indentity.
 \hypertarget{non-singular-matrices}{%
 \subsection{\texorpdfstring{{TODO} non-singular
 matrices}{TODO non-singular matrices}}\label{non-singular-matrices}}
+
+singular matrix: has no inverse.
 
 \hypertarget{connections}{%
 \section{Connections}\label{connections}}
