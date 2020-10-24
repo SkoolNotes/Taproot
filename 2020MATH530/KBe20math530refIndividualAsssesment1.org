@@ -21,6 +21,7 @@
    CLOSED: [2020-10-24 Sat 11:28]
    the sum of two spaces is direct if their basises are linearly independent
 ** TODO matrices to represent complex numbers
+   The negative one matrix is $\begin{bmatrix}-1&0\\0&-1\end{bmatrix}$ and we want the square root of that. It turns out that $\begin{bmatrix}0&-1\\1&0\end{bmatrix}$ satisfies this, and in fact, any complex number $a + bi$ can be represented as $\begin{bmatrix}a&-b\\b&a\end{bmatrix}$.
 * Computation
 ** DONE Find the determinant of matrices
    CLOSED: [2020-10-24 Sat 11:59]

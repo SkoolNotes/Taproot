@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4098)}}    % original
-%\rhead{\textrmlf{Compiled }\#4098\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4098\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4099)}}    % original
+%\rhead{\textrmlf{Compiled }\#4099\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4099\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -215,6 +215,12 @@ independent
 \hypertarget{matrices-to-represent-complex-numbers}{%
 \subsection{\texorpdfstring{{TODO} matrices to represent complex
 numbers}{TODO matrices to represent complex numbers}}\label{matrices-to-represent-complex-numbers}}
+
+The negative one matrix is \(\begin{bmatrix}-1&0\\0&-1\end{bmatrix}\)
+and we want the square root of that. It turns out that
+\(\begin{bmatrix}0&-1\\1&0\end{bmatrix}\) satisfies this, and in fact,
+any complex number \(a + bi\) can be represented as
+\(\begin{bmatrix}a&-b\\b&a\end{bmatrix}\).
 
 \hypertarget{computation}{%
 \section{Computation}\label{computation}}
