@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4074)}}    % original
-%\rhead{\textrmlf{Compiled }\#4074\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4074\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4075)}}    % original
+%\rhead{\textrmlf{Compiled }\#4075\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4075\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -241,5 +241,21 @@ matrix}{TODO inverse of a 2x2 matrix}}\label{inverse-of-a-2x2-matrix}}
 
 \hypertarget{review-quizzes}{%
 \section{review quizzes}\label{review-quizzes}}
+
+\hypertarget{first-quiz}{%
+\subsection{\texorpdfstring{{TODO} first
+quiz}{TODO first quiz}}\label{first-quiz}}
+
+\hypertarget{quick-linear-quiz}{%
+\subsection{\texorpdfstring{{TODO} quick linear
+quiz}{TODO quick linear quiz}}\label{quick-linear-quiz}}
+
+\hypertarget{linear-independence-quiz}{%
+\subsection{\texorpdfstring{{TODO} linear independence
+quiz}{TODO linear independence quiz}}\label{linear-independence-quiz}}
+
+\hypertarget{linear-independence-and-bases}{%
+\subsection{\texorpdfstring{{TODO} linear independence and
+bases}{TODO linear independence and bases}}\label{linear-independence-and-bases}}
 
 \end{document}
