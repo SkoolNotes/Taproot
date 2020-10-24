@@ -125,6 +125,18 @@ html {
             <p>Kleene closure, but without <span class="math inline">\(L^0\)</span>.</p>
             <h2 id="regular-expressions">Regular Expressions</h2>
             <p>this syntax is a little different from "modern" regexes: the vertical bar ‘‘ represents union instead of "or".</p>
+            <h3 id="inductive-basis">inductive basis</h3>
+            <ol>
+            <li><p><span class="math inline">\(\epsilon\)</span> is a regular expression and it’s language <span class="math inline">\(L(\epsilon) = \{\epsilon\}\)</span>.</p></li>
+            <li><p>If <em>a</em> is a symbol in the alphabet <span class="math inline">\(\Sigma\)</span> then <strong>a</strong> is a regular expression and <span class="math inline">\(L(a) = \{a\}\)</span> (strings of length 1 that are "a").</p></li>
+            </ol>
+            <h3 id="inductive-induction-lol">inductive induction (lol)</h3>
+            <ol>
+            <li><p>union ‘‘</p></li>
+            <li><p>concat</p></li>
+            <li><p>kleene closure</p></li>
+            <li><p>parens (don’t change the value of the internal expression, just used to group things)</p></li>
+            </ol>
         </div>
 
         <script>

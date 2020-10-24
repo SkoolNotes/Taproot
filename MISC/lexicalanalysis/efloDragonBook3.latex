@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4126)}}    % original
-%\rhead{\textrmlf{Compiled }\#4126\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4126\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4127)}}    % original
+%\rhead{\textrmlf{Compiled }\#4127\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4127\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -312,5 +312,36 @@ Kleene closure, but without \(L^0\).
 
 this syntax is a little different from "modern" regexes: the vertical
 bar `\textbar` represents union instead of "or".
+
+\hypertarget{inductive-basis}{%
+\subsubsection{inductive basis}\label{inductive-basis}}
+
+\begin{enumerate}
+\tightlist
+\item
+  \(\epsilon\) is a regular expression and it's language
+  \(L(\epsilon) = \{\epsilon\}\).
+\item
+  If \emph{a} is a symbol in the alphabet \(\Sigma\) then \textbf{a} is
+  a regular expression and \(L(a) = \{a\}\) (strings of length 1 that
+  are "a").
+\end{enumerate}
+
+\hypertarget{inductive-induction-lol}{%
+\subsubsection{inductive induction
+(lol)}\label{inductive-induction-lol}}
+
+\begin{enumerate}
+\tightlist
+\item
+  union `\textbar`
+\item
+  concat
+\item
+  kleene closure
+\item
+  parens (don't change the value of the internal expression, just used
+  to group things)
+\end{enumerate}
 
 \end{document}
