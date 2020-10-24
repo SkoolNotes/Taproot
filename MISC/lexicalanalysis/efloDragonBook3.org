@@ -87,3 +87,4 @@
     If two regular expressions denote the same regular set.
 
 ** regular definitions
+   Definitions are basically shortcuts for regular expressions. They indexed and form a DAG to avoid recursive definitions.
