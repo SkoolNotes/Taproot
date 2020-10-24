@@ -125,18 +125,30 @@ html {
             <p>Kleene closure, but without <span class="math inline">\(L^0\)</span>.</p>
             <h2 id="regular-expressions">Regular Expressions</h2>
             <p>this syntax is a little different from "modern" regexes: the vertical bar ‘‘ represents union instead of "or".</p>
-            <h3 id="inductive-basis">inductive basis</h3>
+            <h3 id="definition-regular-expression-inductive">#definition regular expression (inductive)</h3>
+            <ol>
+            <li><p>inductive basis</p>
             <ol>
             <li><p><span class="math inline">\(\epsilon\)</span> is a regular expression and it’s language <span class="math inline">\(L(\epsilon) = \{\epsilon\}\)</span>.</p></li>
             <li><p>If <em>a</em> is a symbol in the alphabet <span class="math inline">\(\Sigma\)</span> then <strong>a</strong> is a regular expression and <span class="math inline">\(L(a) = \{a\}\)</span> (strings of length 1 that are "a").</p></li>
-            </ol>
-            <h3 id="inductive-induction-lol">inductive induction (lol)</h3>
+            </ol></li>
+            <li><p>inductive induction (lol)</p>
             <ol>
             <li><p>union ‘‘</p></li>
             <li><p>concat</p></li>
             <li><p>kleene closure</p></li>
             <li><p>parens (don’t change the value of the internal expression, just used to group things)</p></li>
+            </ol></li>
             </ol>
+            <h3 id="for-ergonomics">for ergonomics</h3>
+            <p>Everything is left associative</p>
+            <ol>
+            <li><p>Unary operator * has highest precedence</p></li>
+            <li><p>concat has second highest precedence</p></li>
+            <li><p>‘‘ has lowest precedence</p></li>
+            </ol>
+            <h3 id="definition">#definition</h3>
+            <p>**</p>
         </div>
 
         <script>

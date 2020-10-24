@@ -62,12 +62,24 @@
 ** Regular Expressions
    this syntax is a little different from "modern" regexes: the vertical bar `|` represents union instead of "or".
 
-*** inductive basis
-    1. $\epsilon$ is a regular expression and it's language $L(\epsilon) = \{\epsilon\}$.
-    2. If /a/ is a symbol in the alphabet $\Sigma$ then *a* is a regular expression and $L(a) = \{a\}$ (strings of length 1 that are "a").
+*** #definition regular expression (inductive)
 
-*** inductive induction (lol)
-    1. union `|`
-    2. concat
-    3. kleene closure
-    4. parens (don't change the value of the internal expression, just used to group things)
+**** inductive basis
+     1. $\epsilon$ is a regular expression and it's language $L(\epsilon) = \{\epsilon\}$.
+     2. If /a/ is a symbol in the alphabet $\Sigma$ then *a* is a regular expression and $L(a) = \{a\}$ (strings of length 1 that are "a").
+
+**** inductive induction (lol)
+     1. union `|`
+     2. concat
+     3. kleene closure
+     4. parens (don't change the value of the internal expression, just used to group things)
+
+*** for ergonomics
+    Everything is left associative
+    1. Unary operator * has highest precedence
+    2. concat has second highest precedence
+    3. `|` has lowest precedence
+
+*** #definition
+
+**
