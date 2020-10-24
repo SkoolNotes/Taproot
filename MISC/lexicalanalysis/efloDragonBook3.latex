@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4120)}}    % original
-%\rhead{\textrmlf{Compiled }\#4120\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4120\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4121)}}    % original
+%\rhead{\textrmlf{Compiled }\#4121\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4121\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -269,6 +269,13 @@ a set of characters. examples include the \emph{binary alphabet}
 \subsubsection{\#definition string}\label{definition-string}}
 
 a string over an alphabet is a "finite sequence of symbols" from that
-alphabet
+alphabet. It's length \(|s|\) is the number of symbols in \(s\).
+\(\epsilon\) is the empty string.
+
+\hypertarget{definition-language}{%
+\subsubsection{\#definition language}\label{definition-language}}
+
+countable set of strings over some fixed alphabet. Some languages are
+abstract, like \(\null\) or \({\epsilon}\) are boring languages.
 
 \end{document}

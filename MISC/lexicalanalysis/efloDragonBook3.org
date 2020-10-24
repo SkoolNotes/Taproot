@@ -40,4 +40,7 @@
     a set of characters. examples include the /binary alphabet/ $\{0, 1\}$, ASCII, and Unicode
 
 *** #definition string
-    a string over an alphabet is a "finite sequence of symbols" from that alphabet. It's length $|s|$,
+    a string over an alphabet is a "finite sequence of symbols" from that alphabet. It's length $|s|$ is the number of symbols in $s$. $\epsilon$ is the empty string.
+
+*** #definition language
+    countable set of strings over some fixed alphabet. Some languages are abstract, like $\null$ or ${\epsilon}$ are boring languages.
