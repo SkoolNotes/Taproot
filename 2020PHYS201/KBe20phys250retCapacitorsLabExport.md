@@ -158,9 +158,9 @@ The same circuit as above was built by various experimentalists, with multimeter
 
 The physical manifestation of which looked like:
 
-![Circuit used in experiment](./KBe20phys250srcCapacitorLabCircuit.png)
+![Circuit used in experiment: red and black aligator clips attached to multimeter, battery attatched to the power rails.](./KBe20phys250srcCapacitorLabCircuit.png)
 
-Where the red and black aligator clips were attached to the multimeter and the battery was attatched to the power rails. Starting with discharged capacitors, a battery was connected to the circuit and used to charge the capacitor. The time taken for the voltage across the capacitor to reach 2 $\pm$ 0.01 volts was measured for various resistor and capacitor combinations.
+Starting with discharged capacitors, a battery was connected to the circuit and used to charge the capacitor. The time taken for the voltage across the capacitor to reach 2 $\pm$ 0.01 volts was measured for various resistor and capacitor combinations.
 
 ## Results
 
