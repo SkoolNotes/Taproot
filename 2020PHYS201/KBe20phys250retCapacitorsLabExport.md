@@ -37,7 +37,11 @@ $\tau$ | Seconds (s) | "Time constant" that scales the equation to the circuit. 
 
 ## Procedure
 
-A number of circuits were built, with the same structure but differing resistances and capacitances. The voltage across the capacitor and the current through the circuit were measured over time using a voltage and amperage probe with Logger Pro. Section 3 uses a different approach to analyze this data, and Section 4 discusses the time constant as measured using a multimeter and stopwatch. The raw data can be found [on Canvas](https://nuevaschool.instructure.com/courses/2851/assignments/52558). Desmos was used to manually fit curves to the data, using a modified version of the model with $t$ and $t_0$ variables to truncate scrap data:
+A number of circuits were built, with the same structure but differing resistances and capacitances. The voltage across the capacitor and the current through the circuit were measured over time using a voltage and amperage probe with Logger Pro.
+
+![Circuit Schematic](./KBe20phys250srcCapacitorLabCircuitSchematic.png)
+
+Section 3 uses a different approach to analyze this data, and Section 4 discusses the time constant as measured using a multimeter and stopwatch, all on the same basic circuit. The raw data can be found [on Canvas](https://nuevaschool.instructure.com/courses/2851/assignments/52558). Desmos was used to manually fit curves to the data, using a modified version of the model with $t$ and $t_0$ variables to truncate scrap data:
 $$
 V_{cap} = V_{bat}\left(1-e^{-\frac{t - t_0}{\tau}}\right)
 $$
