@@ -92,7 +92,7 @@ Assuming perfect capacitor manufacturing, the curve fit results fell within unce
 Furthermore, with the unexpectedly large 20% uncertainties in capacitance all trials fell within the uncertainties of the experiment. Thus, the model predicted the charging behavior of capacitors over time accurately.
 For future iterations, numerical errors could have been better predicted if the specifications of the exact parts used to build the circuit were available. Additionally, more systematic curve fit heuristics could have been used such as RSME.
 
-The exact numerical analysis for this section can be found _[here](https://docs.google.com/spreadsheets/d/1Hw9ooz0CtAvTP9vtw1VT9pVyfsW39IojwwrQX94VJQY/edit?usp=sharing)_.
+The exact numerical analysis for this section can be found __[here](https://docs.google.com/spreadsheets/d/1Hw9ooz0CtAvTP9vtw1VT9pVyfsW39IojwwrQX94VJQY/edit?usp=sharing)__.
 
 # Integration of Current
 
@@ -132,7 +132,7 @@ The Farad Definition line (red) in Figure 6 has blips for unkown reasons. When t
 The Riemann sums of measured current align with the model and expected charge calculated by the voltage on the capacitor and the definition of the Farad. Thus, the model accurately predicts experimental behavior, suggesting that it is correct. Although the graphs differed slightly, these may be attributed to the subjective curve fit metric, sensor inaccuracies while measuring small flows of current, or sensor calibration inaccuracies.
 Future analysis could be more accurate by calculating the false zero point of the sensor, using various tick times to find the most effective range for that sensor, and having more accurate values for uncertainty for circuit components and the digital probe.
 
-Source analysis [here](https://docs.google.com/spreadsheets/d/1eDmGRePGh8PVv2aKhVhv-TNJc3_n8H7HUrAMvxOG1Vs/edit?usp=sharing).
+Source analysis [__here__](https://docs.google.com/spreadsheets/d/1eDmGRePGh8PVv2aKhVhv-TNJc3_n8H7HUrAMvxOG1Vs/edit?usp=sharing).
 
 # Time Constant with Various Components
 
@@ -186,6 +186,6 @@ Finally, the comparison with time taken to charge the capacitor shows the strong
 
 On explanation for the data skew is reaction time: for lower values of $\tau$, the capacitor plateaus faster near 2V and thus the time keeper may not react as quickly. Components with smaller ratings also need tighter tolerances to achieve the same relative tolerances, so smaller capacitors may have relatively higher manufactured variability.
 
-The source analysis for these conclusions can be found [here](https://docs.google.com/spreadsheets/d/1Xf3b3GKpNSIkuoEZTTcMQ2gjTIVnO4eHE5aJD3GEjqg/edit?usp=sharing).
+The source analysis for these conclusions can be found [__here__](https://docs.google.com/spreadsheets/d/1Xf3b3GKpNSIkuoEZTTcMQ2gjTIVnO4eHE5aJD3GEjqg/edit?usp=sharing).
 
 ---

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4186)}}    % original
-%\rhead{\textrmlf{Compiled }\#4186\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4186\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4187)}}    % original
+%\rhead{\textrmlf{Compiled }\#4187\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4187\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -380,7 +380,7 @@ the circuit were available. Additionally, more systematic curve fit
 heuristics could have been used such as RSME.
 
 The exact numerical analysis for this section can be found
-\emph{\href{https://docs.google.com/spreadsheets/d/1Hw9ooz0CtAvTP9vtw1VT9pVyfsW39IojwwrQX94VJQY/edit?usp=sharing}{here}}.
+\textbf{\href{https://docs.google.com/spreadsheets/d/1Hw9ooz0CtAvTP9vtw1VT9pVyfsW39IojwwrQX94VJQY/edit?usp=sharing}{here}}.
 
 \hypertarget{integration-of-current}{%
 \section{Integration of Current}\label{integration-of-current}}
@@ -470,7 +470,7 @@ accurate values for uncertainty for circuit components and the digital
 probe.
 
 Source analysis
-\href{https://docs.google.com/spreadsheets/d/1eDmGRePGh8PVv2aKhVhv-TNJc3_n8H7HUrAMvxOG1Vs/edit?usp=sharing}{here}.
+\href{https://docs.google.com/spreadsheets/d/1eDmGRePGh8PVv2aKhVhv-TNJc3_n8H7HUrAMvxOG1Vs/edit?usp=sharing}{\textbf{here}}.
 
 \hypertarget{time-constant-with-various-components}{%
 \section{Time Constant with Various
@@ -588,7 +588,7 @@ tighter tolerances to achieve the same relative tolerances, so smaller
 capacitors may have relatively higher manufactured variability.
 
 The source analysis for these conclusions can be found
-\href{https://docs.google.com/spreadsheets/d/1Xf3b3GKpNSIkuoEZTTcMQ2gjTIVnO4eHE5aJD3GEjqg/edit?usp=sharing}{here}.
+\href{https://docs.google.com/spreadsheets/d/1Xf3b3GKpNSIkuoEZTTcMQ2gjTIVnO4eHE5aJD3GEjqg/edit?usp=sharing}{\textbf{here}}.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
