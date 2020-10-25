@@ -137,6 +137,8 @@ $$
 \frac{t}{RC}
 $$
 
+Starting with discharged capacitors, a battery was connected to the circuit and used to charge the capacitor. When voltage across the capacitor was measured to be 2$\pm$0.01
+
 # Results
 
 `time/RC` is a unitless scalar that represents how quickly it takes to charge any capacitor for a given voltage. Voltage data was not collected during the experiment, so the voltage is assumed to be constant across trials. If our model of capacitor charge rate is correct, we expect `time/RC` to be constant across trials. The actual data was skewed right:
