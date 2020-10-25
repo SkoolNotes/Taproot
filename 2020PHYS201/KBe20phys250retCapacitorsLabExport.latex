@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4192)}}    % original
-%\rhead{\textrmlf{Compiled }\#4192\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4192\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4193)}}    % original
+%\rhead{\textrmlf{Compiled }\#4193\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4193\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -350,7 +350,7 @@ from 0.1 units to 0.001 units.
 
 These uncertainties were propagated through calculations as follows: \[
 \begin{aligned}
-\delta (A+B) = \sqrt{\delta A^2 + \delta B^2}
+\delta (A+B) = \sqrt{\delta A^2 + \delta B^2}\\
 \frac{\delta (AB)}{AB} = \sqrt{\left(\frac{\delta A}{A}\right)^2 + \left(\frac{\delta B}{B}\right)^2}
 \end{aligned}
 \] for additive and multiplicative one operations respectively.

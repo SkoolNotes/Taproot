@@ -77,7 +77,7 @@ Because each fit was done manually, the absolute error was difficult to estimate
 These uncertainties were propagated through calculations as follows:
 $$
 \begin{aligned}
-\delta (A+B) = \sqrt{\delta A^2 + \delta B^2}
+\delta (A+B) = \sqrt{\delta A^2 + \delta B^2}\\
 \frac{\delta (AB)}{AB} = \sqrt{\left(\frac{\delta A}{A}\right)^2 + \left(\frac{\delta B}{B}\right)^2}
 \end{aligned}
 $$
