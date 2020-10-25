@@ -136,6 +136,8 @@ Source analysis [here](https://docs.google.com/spreadsheets/d/1eDmGRePGh8PVv2aKh
 - Capacitors (22$\mu$F, 1000$\mu$F)
 - Resistors (15$\omega$-100k$\omega$)
 - 3 volt battery pack
+- Multimeter
+- Stopwatch
 
 ## Procedure
 
