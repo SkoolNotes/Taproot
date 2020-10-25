@@ -123,9 +123,9 @@ length of linearly independent list }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4203)}}    % original
-%\rhead{\textrmlf{Compiled }\#4203\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4203\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4204)}}    % original
+%\rhead{\textrmlf{Compiled }\#4204\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4204\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,5 +180,11 @@ of a spanning set over some vector space \(V\).
 of a linearly independent list has more elements than the span of the
 original
 list.}\label{intermediate-result-span-of-a-linearly-independent-extension-of-a-linearly-independent-list-has-more-elements-than-the-span-of-the-original-list.}}
+
+\hypertarget{lemma-1}{%
+\subsection{Lemma}\label{lemma-1}}
+
+Given a linearly independent list \(v = v_1, \ldots, v_k\) where each
+vector \(v_1, \ldots, v_k \in V\),
 
 \end{document}
