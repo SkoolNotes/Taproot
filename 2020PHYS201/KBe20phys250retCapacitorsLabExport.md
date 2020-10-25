@@ -97,7 +97,7 @@ The exact numerical analysis for this section can be found [here](https://docs.g
 Another way to evaluate the model is to compare the amount of transferred charge. For this comparison, a modified equation is used: 
 
 $$
-C_{cap}=C_{max}\left(1-e^{-\frac{t-t_{0}}{\tau}}\right)
+Q_{cap}=Q_{max}\left(1-e^{-\frac{t-t_{0}}{\tau}}\right)
 $$
 
 This is similar to the model used in the previous procedure, but voltage variables are replaced with charge. Current flow through the circuit is used as a proxy to calculate the amount of charge accumulated in the capacitor. As before, current is measured across a resistor using a digital probe and Logger Pro.
@@ -117,7 +117,7 @@ In addition, the final accumulated charge calculated by the Riemann sum was 0.00
 As the graph shows, both proxies of charge on the capacitor generally agree with the model but come up with smaller values of charge. Notably, the two experimental proxies don't agree with each other either, suggesting some systematic error is at play.
 
 One culprit may be misaligned data: if the Riemann sum calculation began after charging, then the entire sum would be skewed low. However, the sum plot is not a vertical translation of the theoretical value, which suggests the effect of this issue is minimal or canceled.
-Another issue may be miscalibrated sensors: if each amperage measurement was off by $10^-5$A, the cumulative affect would drag down the total as time went on. The effect of this drift can be counteracted by taking the average of readings when no charge should be flowing, multiplying by the number of data points, and subtracting the total from the final charge value. However, the calculated drift was an order of magnitude greater than the total accumulated charge, so the author did not numerically sanitize against this drift.
+Another issue may be miscalibrated sensors: if each amperage measurement was off by $10^{-5}$A, the cumulative affect would drag down the total as time went on. The effect of this drift can be counteracted by taking the average of readings when no charge should be flowing, multiplying by the number of data points, and subtracting the total from the final charge value. However, the calculated drift was an order of magnitude greater than the total accumulated charge, so the author did not numerically sanitize against this drift.
 
 Although the intermediate charge values do not match the model, the final accumulated charge is sensical: 3.19 volts is close to the expected 3.2 volts. The same errors mentioned previously contribute to this difference, but the accuracy of the result suggests that the effect was canceled.
 

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4144)}}    % original
-%\rhead{\textrmlf{Compiled }\#4144\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4144\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4145)}}    % original
+%\rhead{\textrmlf{Compiled }\#4145\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4145\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -371,7 +371,7 @@ Another way to evaluate the model is to compare the amount of
 transferred charge. For this comparison, a modified equation is used:
 
 \[
-C_{cap}=C_{max}\left(1-e^{-\frac{t-t_{0}}{\tau}}\right)
+Q_{cap}=Q_{max}\left(1-e^{-\frac{t-t_{0}}{\tau}}\right)
 \]
 
 This is similar to the model used in the previous procedure, but voltage
@@ -413,13 +413,13 @@ after charging, then the entire sum would be skewed low. However, the
 sum plot is not a vertical translation of the theoretical value, which
 suggests the effect of this issue is minimal or canceled. Another issue
 may be miscalibrated sensors: if each amperage measurement was off by
-\(10^-5\)A, the cumulative affect would drag down the total as time went
-on. The effect of this drift can be counteracted by taking the average
-of readings when no charge should be flowing, multiplying by the number
-of data points, and subtracting the total from the final charge value.
-However, the calculated drift was an order of magnitude greater than the
-total accumulated charge, so the author did not numerically sanitize
-against this drift.
+\(10^{-5}\)A, the cumulative affect would drag down the total as time
+went on. The effect of this drift can be counteracted by taking the
+average of readings when no charge should be flowing, multiplying by the
+number of data points, and subtracting the total from the final charge
+value. However, the calculated drift was an order of magnitude greater
+than the total accumulated charge, so the author did not numerically
+sanitize against this drift.
 
 Although the intermediate charge values do not match the model, the
 final accumulated charge is sensical: 3.19 volts is close to the
