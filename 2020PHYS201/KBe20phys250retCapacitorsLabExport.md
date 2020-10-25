@@ -51,7 +51,7 @@ The scattered points near the x-axis are residuals between the curve fit and the
 
 The results of the fits are summarized below:
 
-![Curve fit of the 100k$\Omega$ 22$\mu$F circuit](./KBesrcCapacitor22microF100kO.png) 
+![Curve fit of the 100k$\Omega$ 22$\mu$F circuit. The residuals (red) were multiplied by 30 to aid curve alignment.](./KBesrcCapacitor22microF100kO.png) 
 
 ![[Curve fit of the 33$\Omega$ 0.047$\mu$F circuit](https://www.desmos.com/calculator/q5cqiogdvi)](./KBesrcCapacitorPoint047microF33ohm.png)
 
@@ -125,7 +125,7 @@ Another issue may be miscalibrated sensors: if each amperage measurement was off
 
 Although the intermediate charge values do not match the model, the final accumulated charge is sensical: 3.19 volts is close to the expected 3.2 volts. The same errors mentioned previously contribute to this difference, but the accuracy of the result suggests that the effect was canceled.
 
-The Farad Definition line (red) in Figure 5 has blips for unkown reasons. When the battery was off, the probe measured voltages on the order of $10^{-9}$ for a few ticks before measuring a faulty value, so a similar stepping phenomenon may be occuring in the voltage meauserement.
+The Farad Definition line (red) in Figure 6 has blips for unkown reasons. When the battery was off, the probe measured voltages on the order of $10^{-9}$ for a few ticks before measuring a faulty value, so a similar stepping phenomenon may be occuring in the voltage meauserement.
 
 ## Conclusion
 
