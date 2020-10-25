@@ -123,9 +123,9 @@ length of linearly independent list }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4216)}}    % original
-%\rhead{\textrmlf{Compiled }\#4216\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4216\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4218)}}    % original
+%\rhead{\textrmlf{Compiled }\#4218\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4218\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -211,7 +211,6 @@ linearly dependent, it is possible to remove some vector \(u_i\) from
 \(u\) such that the span stays the same. Thus, there exists a linearly
 independent list \(b\) that has the same span as \(u\), aka that also
 spans \(V\). Because this list can be obtained by removing elements from
-\(u\), \(|b| \le |u|\). Assume for the sake of contradiction that
-\(|u| > |v|\).
+\(u\), \(|b| \le |u|\).
 
 \end{document}
