@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4162)}}    % original
-%\rhead{\textrmlf{Compiled }\#4162\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4162\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4163)}}    % original
+%\rhead{\textrmlf{Compiled }\#4163\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4163\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -488,7 +488,7 @@ Most of the analysis for data collected as a class was done on the
 \]
 
 The circuit below was built by various experimentalists:
-\includegraphics{https://nuevaschool.instructure.com/courses/2851/files/336712/preview}
+\includegraphics{./KBe20phys250srcCapacitorLabCircuitSchematic.png}
 
 The physical manifestation of which looked like:
 \href{./KBe20phys250srcCapacitorLabCircuit.png}{Circuit used in

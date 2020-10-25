@@ -149,7 +149,7 @@ $$
 $$
 
 The circuit below was built by various experimentalists:
-![Circuit Schematic](https://nuevaschool.instructure.com/courses/2851/files/336712/preview)
+![Circuit Schematic](./KBe20phys250srcCapacitorLabCircuitSchematic.png)
 
 The physical manifestation of which looked like:
 [Circuit used in experiment](./KBe20phys250srcCapacitorLabCircuit.png)
