@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4182)}}    % original
-%\rhead{\textrmlf{Compiled }\#4182\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4182\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4183)}}    % original
+%\rhead{\textrmlf{Compiled }\#4183\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4183\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -492,7 +492,8 @@ Most of the analysis for data collected as a class was done on the
 \frac{t}{RC}
 \]
 
-The circuit below was built by various experimentalists:
+The same circuit as above was built by various experimentalists, with
+multimeter probes on the two sides legs of the capacitor:
 
 \begin{figure}
 \centering
@@ -576,8 +577,6 @@ capacitors may have relatively higher manufactured variability.
 
 The source analysis for these conclusions can be found
 \href{https://docs.google.com/spreadsheets/d/1Xf3b3GKpNSIkuoEZTTcMQ2gjTIVnO4eHE5aJD3GEjqg/edit?usp=sharing}{here}.
-
-epic
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
