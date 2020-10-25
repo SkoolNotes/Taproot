@@ -123,9 +123,9 @@ length of linearly independent list }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4221)}}    % original
-%\rhead{\textrmlf{Compiled }\#4221\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4221\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4222)}}    % original
+%\rhead{\textrmlf{Compiled }\#4222\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4222\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -213,9 +213,11 @@ linearly dependent, it is possible to remove some vector \(u_i\) from
 \(u\) such that the span stays the same. Thus, there exists a linearly
 independent list \(b\) that has the same span as \(u\), aka that also
 spans \(V\). Because this list can be obtained by removing elements from
-\(u\), \(|b| \le |u|\). The linearly independent list \(v\) must be
-shorter than or equal to \(b\) in length, because otherwise,
-\(\text{span }v\) would have more elements than \(\text{span }b\) by the
-intermediate result. Thus, \(|v| \le |b| \le |u|\).
+\(u\), \(|b| \le |u|\).
+
+The linearly independent list \(v\) must be shorter than or equal to
+\(b\) in length, because otherwise, \(\text{span }v\) would have more
+elements than \(\text{span }b\) by the intermediate result. Thus,
+\(|v| \le |b| \le |u|\).
 
 \end{document}

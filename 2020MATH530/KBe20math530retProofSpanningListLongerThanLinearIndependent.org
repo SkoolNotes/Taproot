@@ -22,4 +22,5 @@ $$0v_1 + 0v_2 + \ldots + 0v_k + 1v_{k+1}$$
 Thus, the extended list contains atleast one element that the original did not.
 * Proof
   Given a spanning list $u = u_1, \ldots, u_j$ and a linearly independent list $v = v_1, \ldots, v_k$, show that the $|u| \ge |v|$. The Linear Dependence Lemma states that while $u$ is linearly dependent, it is possible to remove some vector $u_i$ from $u$ such that the span stays the same. Thus, there exists a linearly independent list $b$ that has the same span as $u$, aka that also spans $V$. Because this list can be obtained by removing elements from $u$, $|b| \le |u|$.
+
 The linearly independent list $v$ must be shorter than or equal to $b$ in length, because otherwise, $\text{span }v$ would have more elements than $\text{span }b$ by the intermediate result. Thus, $|v| \le |b| \le |u|$.
