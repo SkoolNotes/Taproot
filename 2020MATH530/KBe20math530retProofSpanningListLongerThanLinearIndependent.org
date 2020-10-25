@@ -12,6 +12,8 @@ The length of a linearly indpendent list is less than or equal to the length of 
 $$\text{span}\left(v_1, \ldots, v_k, v_{k+1}\right)$$
 contains elements that are not in
 $$\text{span}\left(v_1, \ldots, v_k\right)$$
+TODO: This needs to show that a longer list will have a larger span, not just an extended one.
+
 ** Proof
    Because $v_{k+1}$ is linearly independent with $v$, it cannot be written as a linear combination of elements in $v$. Thus,
 $$v_{k+1} \notin \text{span}\left(v_1, \ldots, v_k\right)$$
