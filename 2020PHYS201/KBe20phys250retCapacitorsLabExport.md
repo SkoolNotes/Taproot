@@ -121,6 +121,8 @@ Another issue may be miscalibrated sensors: if each amperage measurement was off
 
 Although the intermediate charge values do not match the model, the final accumulated charge is sensical: 3.19 volts is close to the expected 3.2 volts. The same errors mentioned previously contribute to this difference, but the accuracy of the result suggests that the effect was canceled.
 
+The Farad Definition line (red) in figure TODO has blips for unkown reasons. 
+
 ## Conclusion
 
 The Riemann sums of measured current align with the model and expected charge calculated by the voltage on the capacitor and the definition of the Farad. Thus, the model accurately predicts experimental behavior, suggesting that it is correct. Although the graphs differed slightly, these may be attributed to the subjective curve fit metric, sensor inaccuracies while measuring small flows of current, or sensor calibration inaccuracies.

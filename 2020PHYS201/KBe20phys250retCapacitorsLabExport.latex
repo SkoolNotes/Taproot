@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4154)}}    % original
-%\rhead{\textrmlf{Compiled }\#4154\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4154\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4155)}}    % original
+%\rhead{\textrmlf{Compiled }\#4155\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4155\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -430,6 +430,9 @@ final accumulated charge is sensical: 3.19 volts is close to the
 expected 3.2 volts. The same errors mentioned previously contribute to
 this difference, but the accuracy of the result suggests that the effect
 was canceled.
+
+The Farad Definition line (red) in figure TODO has blips for unkown
+reasons.
 
 \hypertarget{conclusion-1}{%
 \subsection{Conclusion}\label{conclusion-1}}
