@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4187)}}    % original
-%\rhead{\textrmlf{Compiled }\#4187\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4187\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4188)}}    % original
+%\rhead{\textrmlf{Compiled }\#4188\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4188\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -286,7 +286,7 @@ The results of the fits are summarized below:
 \centering
 \includegraphics{./KBesrcCapacitor22microF100kO.png}
 \caption{Curve fit of the 100k\(\Omega\) 22\(\mu\)F circuit. The
-residuals (red) were multiplied by 30 to aid curve alignment.}
+residuals (red) were multiplied by 30.}
 \end{figure}
 
 \begin{figure}
@@ -294,7 +294,7 @@ residuals (red) were multiplied by 30 to aid curve alignment.}
 \includegraphics{./KBesrcCapacitorPoint047microF33ohm.png}
 \caption{\href{https://www.desmos.com/calculator/q5cqiogdvi}{Curve fit
 of the 33\(\Omega\) 0.047\(\mu\)F circuit. As before, residuals (black)
-scaled to aid alignment.}}
+scaled x60.}}
 \end{figure}
 
 \begin{figure}
@@ -302,15 +302,14 @@ scaled to aid alignment.}}
 \includegraphics{./KBesrcCapacitor1000microF100ohm.png}
 \caption{\href{https://www.desmos.com/calculator/owm5kggc3t}{Curve fit
 of the 100\(\Omega\) 1000\(\mu\)F circuit. As before, residuals (blue)
-for alignment.}}
+scaled x30.}}
 \end{figure}
 
 \begin{figure}
 \centering
 \includegraphics{./KBesrcCapacitor1000microF15ohm.png}
 \caption{\href{https://www.desmos.com/calculator/tnaqtovqzq}{Curve fit
-of the 15\(\Omega\) 1000\(\mu\)F circuit. Residuals (red) for
-alignment.}}
+of the 15\(\Omega\) 1000\(\mu\)F circuit. Residuals (red) scaled x30.}}
 \end{figure}
 
 \begin{longtable}[]{@{}rrrrr@{}}
