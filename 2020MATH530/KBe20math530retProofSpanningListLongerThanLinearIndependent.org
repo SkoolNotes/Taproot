@@ -13,4 +13,5 @@ $$\text{span}\left(v_1, \ldots, v_k, v_{k+1}\right)$$
 contains elements that are not in
 $$\text{span}\left(v_1, \ldots, v_k\right)$$
 ** Proof
-   Because $v_{k+1}$ is linearly independent with $v$, it cannot be written as a linear combination of elements in $v$.
+   Because $v_{k+1}$ is linearly independent with $v$, it cannot be written as a linear combination of elements in $v$. Thus,
+$$v_{k+1} \nin \text{span}\left(v_1, \ldots, v_k\right)$$
