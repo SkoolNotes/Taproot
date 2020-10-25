@@ -146,6 +146,9 @@ $$
 \frac{t}{RC}
 $$
 
+The circuit below was built:
+[Circuit Schematic](https://nuevaschool.instructure.com/courses/2851/files/336712/preview)
+
 Starting with discharged capacitors, a battery was connected to the circuit and used to charge the capacitor. The time taken for the voltage across the capacitor to reach 2$\pm$0.01 volts was measured for various resistor and capacitor combinations.
 
 # Results
