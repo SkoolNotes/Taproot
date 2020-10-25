@@ -47,7 +47,7 @@ The scattered points near the x-axis are residuals between the curve fit and the
 
 The results of the fits are summarized below:
 
-![Curve fit of the 100k$\Omega$ 22$\mu$F circuit](KBesrcCapacitor22microF100kO.png) 
+![Curve fit of the 100k$\Omega$ 22$\mu$F circuit](./KBesrcCapacitor22microF100kO.png) 
 
 ![Curve fit of the 33$\Omega$ 0.047$\mu$F circuit](./KBesrcCapacitor0.047microF33kO.png)  
 
@@ -149,9 +149,11 @@ $$
 $$
 
 The circuit below was built by various experimentalists:
+
 ![Circuit Schematic](./KBe20phys250srcCapacitorLabCircuitSchematic.png)
 
 The physical manifestation of which looked like:
+
 [Circuit used in experiment](./KBe20phys250srcCapacitorLabCircuit.png)
 
 Starting with discharged capacitors, a battery was connected to the circuit and used to charge the capacitor. The time taken for the voltage across the capacitor to reach 2 $\pm$ 0.01 volts was measured for various resistor and capacitor combinations.

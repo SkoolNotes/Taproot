@@ -123,7 +123,7 @@ html {
             <p>A number of circuits were built, with the same structure but differing resistances and capacitances. The voltage across the capacitor and the current through the circuit were measured over time using a voltage and amperage probe with Logger Pro. The raw data can be found <a href="https://nuevaschool.instructure.com/courses/2851/assignments/52558">on Canvas</a>. Desmos was used to manually fit curves to the data, using a modified version of the model with <span class="math inline">\(t\)</span> and <span class="math inline">\(t_0\)</span> variables to truncate scrap data: <span class="math display">\[V_{cap} = V_{bat}\left(1-e^{-\frac{t - t_0}{\tau}}\right)\]</span> The scattered points near the x-axis are residuals between the curve fit and the collected data. The fit heuristic was to visually center the dots around the x-axis.</p>
             <h2 id="results">Results</h2>
             <p>The results of the fits are summarized below:</p>
-            <p><img src="KBesrcCapacitor22microF100kO.png" alt="image" /></p>
+            <p><img src="./KBesrcCapacitor22microF100kO.png" alt="image" /></p>
             <p><img src="./KBesrcCapacitor0.047microF33kO.png" alt="image" /></p>
             <p><img src="./KBesrcCapacitor1000microF100ohm.png" alt="image" /></p>
             <p><img src="./KBesrcCapacitor1000microF15ohm.png" alt="image" /></p>
@@ -209,8 +209,10 @@ html {
             </ul>
             <h2 id="procedure-2">Procedure</h2>
             <p>Most of the analysis for data collected as a class was done on the “charge rate constant” (<code>time/RC</code>) of each circuit, defined as: <span class="math display">\[\frac{t}{RC}\]</span></p>
-            <p>The circuit below was built by various experimentalists: <img src="./KBe20phys250srcCapacitorLabCircuitSchematic.png" alt="image" /></p>
-            <p>The physical manifestation of which looked like: <a href="./KBe20phys250srcCapacitorLabCircuit.png">Circuit used in experiment</a></p>
+            <p>The circuit below was built by various experimentalists:</p>
+            <p><img src="./KBe20phys250srcCapacitorLabCircuitSchematic.png" alt="image" /></p>
+            <p>The physical manifestation of which looked like:</p>
+            <p><a href="./KBe20phys250srcCapacitorLabCircuit.png">Circuit used in experiment</a></p>
             <p>Starting with discharged capacitors, a battery was connected to the circuit and used to charge the capacitor. The time taken for the voltage across the capacitor to reach 2 <span class="math inline">\(\pm\)</span> 0.01 volts was measured for various resistor and capacitor combinations.</p>
             <h1 id="results-2">Results</h1>
             <p><code>time/RC</code> is a unitless scalar that represents how quickly it takes to charge any capacitor for a given voltage. Voltage data was not collected during the experiment, so the voltage is assumed to be constant across trials. If our model of capacitor charge rate is correct, we expect <code>time/RC</code> to be constant across trials. The actual data was skewed right:</p>

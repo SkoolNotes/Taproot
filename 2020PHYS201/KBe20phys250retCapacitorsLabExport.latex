@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4163)}}    % original
-%\rhead{\textrmlf{Compiled }\#4163\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4163\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4164)}}    % original
+%\rhead{\textrmlf{Compiled }\#4164\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4164\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -274,7 +274,7 @@ The results of the fits are summarized below:
 
 \begin{figure}
 \centering
-\includegraphics{KBesrcCapacitor22microF100kO.png}
+\includegraphics{./KBesrcCapacitor22microF100kO.png}
 \caption{Curve fit of the 100k\(\Omega\) 22\(\mu\)F circuit}
 \end{figure}
 
@@ -488,9 +488,15 @@ Most of the analysis for data collected as a class was done on the
 \]
 
 The circuit below was built by various experimentalists:
+
+\begin{figure}
+\centering
 \includegraphics{./KBe20phys250srcCapacitorLabCircuitSchematic.png}
+\caption{Circuit Schematic}
+\end{figure}
 
 The physical manifestation of which looked like:
+
 \href{./KBe20phys250srcCapacitorLabCircuit.png}{Circuit used in
 experiment}
 
