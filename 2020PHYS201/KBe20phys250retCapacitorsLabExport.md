@@ -76,13 +76,12 @@ Because each fit was done manually, the absolute error was difficult to estimate
 
 These uncertainties were propagated through calculations as follows:
 $$
+\begin{aligned}
 \delta (A+B) = \sqrt{\delta A^2 + \delta B^2}
-$$
-for additive combinations and 
-$$
 \frac{\delta (AB)}{AB} = \sqrt{\left(\frac{\delta A}{A}\right)^2 + \left(\frac{\delta B}{B}\right)^2}
+\end{aligned}
 $$
-for multiplicative ones.
+for additive and multiplicative one operations respectively.
 
 The manufacturing tolerances of electronic components were taken into account as well. Resistor tolerances were based on the absolute difference between standard resistances and those measured by a multimeter. Capacitance tolerances were based on the tolerances of a similar capacitor for which the [data sheet](http://www.paullinebarger.net/DS/Foai/Foai%20%5Bradial%20thru-hole%5D%20CD110%20Series.pdf) was available: the FOAI CD110 radial capacitor, which had capacitance tolerances of $\pm$ 20%. 
 
