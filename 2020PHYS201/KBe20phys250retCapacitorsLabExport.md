@@ -84,7 +84,7 @@ The manufacturing tolerances of electronic components were taken into account as
 
 ## Conclusion
 
-Assuming perfect capacitor manufacturing, the curve fit results fell within uncertainties of the model predicted $\tau$ value for all circuits except the first. This is likely due to the high uncertainties placed on smaller scale curve fits, especially the final trial.
+Assuming perfect capacitor manufacturing, the curve fit results fell within uncertainties of the model predicted $\tau$ value for all circuits except the fit in Figure 1. This is likely due to the high uncertainties placed on smaller scale curve fits, especially the final trial.
 Furthermore, with the unexpectedly large 20% uncertainties in capacitance all trials fell within the uncertainties of the experiment. Thus, the model predicted the charging behavior of capacitors over time accurately.
 For future iterations, numerical errors could have been better predicted if the specifications of the exact parts used to build the circuit were available. Additionally, more systematic curve fit heuristics could have been used such as RSME.
 
