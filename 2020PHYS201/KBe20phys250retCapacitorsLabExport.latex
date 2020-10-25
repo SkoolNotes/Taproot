@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4167)}}    % original
-%\rhead{\textrmlf{Compiled }\#4167\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4167\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4168)}}    % original
+%\rhead{\textrmlf{Compiled }\#4168\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4168\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -431,7 +431,7 @@ expected 3.2 volts. The same errors mentioned previously contribute to
 this difference, but the accuracy of the result suggests that the effect
 was canceled.
 
-The Farad Definition line (red) in figure 5 has blips for unkown
+The Farad Definition line (red) in Figure 5 has blips for unkown
 reasons. When the battery was off, the probe measured voltages on the
 order of \(10^{-9}\) for a few ticks before measuring a faulty value, so
 a similar stepping phenomenon may be occuring in the voltage

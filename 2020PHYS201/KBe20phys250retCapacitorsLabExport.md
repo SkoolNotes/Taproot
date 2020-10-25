@@ -121,7 +121,7 @@ Another issue may be miscalibrated sensors: if each amperage measurement was off
 
 Although the intermediate charge values do not match the model, the final accumulated charge is sensical: 3.19 volts is close to the expected 3.2 volts. The same errors mentioned previously contribute to this difference, but the accuracy of the result suggests that the effect was canceled.
 
-The Farad Definition line (red) in figure 5 has blips for unkown reasons. When the battery was off, the probe measured voltages on the order of $10^{-9}$ for a few ticks before measuring a faulty value, so a similar stepping phenomenon may be occuring in the voltage meauserement.
+The Farad Definition line (red) in Figure 5 has blips for unkown reasons. When the battery was off, the probe measured voltages on the order of $10^{-9}$ for a few ticks before measuring a faulty value, so a similar stepping phenomenon may be occuring in the voltage meauserement.
 
 ## Conclusion
 
