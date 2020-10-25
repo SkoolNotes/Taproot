@@ -145,6 +145,7 @@ Source analysis [__here__](https://docs.google.com/spreadsheets/d/1eDmGRePGh8PVv
 ## Procedure
 
 Most of the analysis for data collected as a class was done on the "charge rate constant" (`time/RC`) of each circuit, defined as:
+
 $$
 \frac{t}{RC}
 $$
