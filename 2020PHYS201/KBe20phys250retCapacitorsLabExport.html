@@ -197,7 +197,9 @@ html {
             <p>The Riemann sums of measured current align with the model and expected charge calculated by the voltage on the capacitor and the definition of the Farad. Thus, the model accurately predicts experimental behavior, suggesting that it is correct. Although the graphs differed slightly, these may be attributed to the subjective curve fit metric, sensor inaccuracies while measuring small flows of current, or sensor calibration inaccuracies. Future analysis could be more accurate by calculating the false zero point of the sensor, using various tick times to find the most effective range for that sensor, and having more accurate values for uncertainty for circuit components and the digital probe.</p>
             <p>Source analysis <a href="https://docs.google.com/spreadsheets/d/1eDmGRePGh8PVv2aKhVhv-TNJc3_n8H7HUrAMvxOG1Vs/edit?usp=sharing">here</a>.</p>
             <h1 id="time-constant-with-various-components">Time Constant with Various Components</h1>
+            <h2 id="procedure-2">Procedure</h2>
             <p>Most of the analysis for data collected as a class was done on the “charge rate constant” (<code>time/RC</code>) of each circuit, defined as: <span class="math display">\[\frac{t}{RC}\]</span></p>
+            <h1 id="results-2">Results</h1>
             <p><code>time/RC</code> is a unitless scalar that represents how quickly it takes to charge any capacitor for a given voltage. Voltage data was not collected during the experiment, so the voltage is assumed to be constant across trials. If our model of capacitor charge rate is correct, we expect <code>time/RC</code> to be constant across trials. The actual data was skewed right:</p>
             <p><img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=587065174&amp;format=image" alt="image" /></p>
             <p>By comparing the <code>time/RC</code> and different properties of each circuit, reasoning for the outliers may be deduced. The visualization of the histogram is reflected in each of the following charts by the density of points in a column.</p>
@@ -207,6 +209,7 @@ html {
             <p><img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=1866933099&amp;format=image" alt="image" /></p>
             <p>Finally, the comparison with time taken to charge the capacitor shows the strongest correlation, which is to be expected because according to the model, this value is the product of the previous two trends.</p>
             <p><img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=716778401&amp;format=image" alt="image" /></p>
+            <h1 id="analysis-2">Analysis</h1>
             <p>On explanation for the data skew is reaction time: for lower values of <span class="math inline">\(\tau\)</span>, the capacitor plateaus faster near 2V and thus the time keeper may not react as quickly. Components with smaller ratings also need tighter tolerances to achieve the same relative tolerances, so smaller capacitors may have relatively higher manufactured variability.</p>
             <p>The source analysis for these conclusions can be found <a href="https://docs.google.com/spreadsheets/d/1Xf3b3GKpNSIkuoEZTTcMQ2gjTIVnO4eHE5aJD3GEjqg/edit?usp=sharing">here</a>.</p>
             <hr />

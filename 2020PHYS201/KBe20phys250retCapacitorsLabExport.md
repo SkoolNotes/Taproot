@@ -130,10 +130,14 @@ Source analysis [here](https://docs.google.com/spreadsheets/d/1eDmGRePGh8PVv2aKh
 
 # Time Constant with Various Components
 
+## Procedure
+
 Most of the analysis for data collected as a class was done on the "charge rate constant" (`time/RC`) of each circuit, defined as:
 $$
 \frac{t}{RC}
 $$
+
+# Results
 
 `time/RC` is a unitless scalar that represents how quickly it takes to charge any capacitor for a given voltage. Voltage data was not collected during the experiment, so the voltage is assumed to be constant across trials. If our model of capacitor charge rate is correct, we expect `time/RC` to be constant across trials. The actual data was skewed right:
 
@@ -152,6 +156,8 @@ Although some outliers came from circuits with high resistance, the most skewed 
 Finally, the comparison with time taken to charge the capacitor shows the strongest correlation, which is to be expected because according to the model, this value is the product of the previous two trends.
 
 ![time/RC vs Time to Charge](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=716778401&format=image)
+
+# Analysis
 
 On explanation for the data skew is reaction time: for lower values of $\tau$, the capacitor plateaus faster near 2V and thus the time keeper may not react as quickly. Components with smaller ratings also need tighter tolerances to achieve the same relative tolerances, so smaller capacitors may have relatively higher manufactured variability.
 
