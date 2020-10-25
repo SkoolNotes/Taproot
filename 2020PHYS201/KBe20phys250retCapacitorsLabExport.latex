@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4156)}}    % original
-%\rhead{\textrmlf{Compiled }\#4156\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4156\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4157)}}    % original
+%\rhead{\textrmlf{Compiled }\#4157\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4157\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -432,7 +432,8 @@ this difference, but the accuracy of the result suggests that the effect
 was canceled.
 
 The Farad Definition line (red) in figure 5 has blips for unkown
-reasons.
+reasons. When the battery was off, the probe measured voltages on the
+order of \(10^{-9}\) for a few ticks before measuring a faulty value
 
 \hypertarget{conclusion-1}{%
 \subsection{Conclusion}\label{conclusion-1}}
