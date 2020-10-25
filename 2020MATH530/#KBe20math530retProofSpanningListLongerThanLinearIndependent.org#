@@ -17,4 +17,4 @@ $$\text{span}\left(v_1, \ldots, v_k\right)$$
 $$v_{k+1} \notin \text{span}\left(v_1, \ldots, v_k\right)$$
 However, $v_{k+1}$ must be in the span of the extended list, because we can write $v_{k+1}$ as
 $$0v_1 + 0v_2 + \ldots + 0v_k + 1v_{k+1}$$
-Thus, the extended list has more elements
+Thus, the extended list has elemen

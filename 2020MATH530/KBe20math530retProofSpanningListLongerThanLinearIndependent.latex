@@ -123,9 +123,9 @@ length of linearly independent list }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4208)}}    % original
-%\rhead{\textrmlf{Compiled }\#4208\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4208\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4209)}}    % original
+%\rhead{\textrmlf{Compiled }\#4209\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4209\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -171,8 +171,8 @@ length of linearly independent list }
 \section{Lemma}\label{lemma}}
 
 \begin{quote}
-The size of a linearly indpendent set is less than or equal to the size
-of a spanning set over some vector space \(V\).
+The length of a linearly indpendent list is less than or equal to the
+length of a spanning list over some vector space \(V\).
 \end{quote}
 
 \hypertarget{intermediate-result-span-of-a-linearly-independent-extension-of-a-linearly-independent-list-has-more-elements-than-the-span-of-the-original-list.}{%
@@ -195,6 +195,9 @@ that are not in \[\text{span}\left(v_1, \ldots, v_k\right)\]
 
 Because \(v_{k+1}\) is linearly independent with \(v\), it cannot be
 written as a linear combination of elements in \(v\). Thus,
-\[v_{k+1} \notin \text{span}\left(v_1, \ldots, v_k\right)\]
+\[v_{k+1} \notin \text{span}\left(v_1, \ldots, v_k\right)\] However,
+\(v_{k+1}\) must be in the span of the extended list, because we can
+write \(v_{k+1}\) as \[0v_1 + 0v_2 + \ldots + 0v_k + 1v_{k+1}\] Thus,
+the extended list has more elements
 
 \end{document}
