@@ -123,9 +123,9 @@ length of linearly independent list }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4211)}}    % original
-%\rhead{\textrmlf{Compiled }\#4211\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4211\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4212)}}    % original
+%\rhead{\textrmlf{Compiled }\#4212\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4212\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -206,6 +206,7 @@ not.
 
 Given a spanning list \(u = u_1, \ldots, u_j\) and a linearly
 independent list \(v = v_1, \ldots, v_k\), show that the
-\(|u| \ge |v|\).
+\(|u| \ge |v|\). Assume for the sake of contradiction that
+\(|u| > |v|\).
 
 \end{document}
