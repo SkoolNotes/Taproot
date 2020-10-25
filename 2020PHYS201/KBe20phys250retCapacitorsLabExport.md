@@ -53,11 +53,11 @@ The results of the fits are summarized below:
 
 ![Curve fit of the 100k$\Omega$ 22$\mu$F circuit. The residuals (red) were multiplied by 30 to aid curve alignment.](./KBesrcCapacitor22microF100kO.png) 
 
-![[Curve fit of the 33$\Omega$ 0.047$\mu$F circuit](https://www.desmos.com/calculator/q5cqiogdvi)](./KBesrcCapacitorPoint047microF33ohm.png)
+![[Curve fit of the 33$\Omega$ 0.047$\mu$F circuit. As before, residuals (black) scaled to aid alignment.](https://www.desmos.com/calculator/q5cqiogdvi)](./KBesrcCapacitorPoint047microF33ohm.png)
 
-![[Curve fit of the 100$\Omega$ 1000$\mu$F circuit](https://www.desmos.com/calculator/owm5kggc3t)](./KBesrcCapacitor1000microF100ohm.png)
+![[Curve fit of the 100$\Omega$ 1000$\mu$F circuit. As before, residuals (blue) for alignment.](https://www.desmos.com/calculator/owm5kggc3t)](./KBesrcCapacitor1000microF100ohm.png)
 
-![[Curve fit of the 15$\Omega$ 1000$\mu$F circuit](https://www.desmos.com/calculator/tnaqtovqzq)](./KBesrcCapacitor1000microF15ohm.png)
+![[Curve fit of the 15$\Omega$ 1000$\mu$F circuit. Residuals (red) for alignment.](https://www.desmos.com/calculator/tnaqtovqzq)](./KBesrcCapacitor1000microF15ohm.png)
 
 | $\Omega$ | F | Fit $\tau$ (s) | Modeled $\tau$ (s) | % Error |
 |---------:|--:|-----------:|---------------:|--------:|
