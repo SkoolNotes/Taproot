@@ -158,7 +158,7 @@ The physical manifestation of which looked like:
 
 Starting with discharged capacitors, a battery was connected to the circuit and used to charge the capacitor. The time taken for the voltage across the capacitor to reach 2 $\pm$ 0.01 volts was measured for various resistor and capacitor combinations.
 
-# Results
+## Results
 
 `time/RC` is a unitless scalar that represents how quickly it takes to charge any capacitor for a given voltage. Voltage data was not collected during the experiment, so the voltage is assumed to be constant across trials. If our model of capacitor charge rate is correct, we expect `time/RC` to be constant across trials. The actual data was skewed right:
 
@@ -183,31 +183,5 @@ Finally, the comparison with time taken to charge the capacitor shows the strong
 On explanation for the data skew is reaction time: for lower values of $\tau$, the capacitor plateaus faster near 2V and thus the time keeper may not react as quickly. Components with smaller ratings also need tighter tolerances to achieve the same relative tolerances, so smaller capacitors may have relatively higher manufactured variability.
 
 The source analysis for these conclusions can be found [here](https://docs.google.com/spreadsheets/d/1Xf3b3GKpNSIkuoEZTTcMQ2gjTIVnO4eHE5aJD3GEjqg/edit?usp=sharing).
-
-breuhaeou
-ao
-euaoe
-u
-aoe
-u
-ao
-eu
-
-aoe
-u
-
-aoe
-uaoeu
-a
-oeu
-aoeu
-aoe
-u
-aoe
-u
-aoeu
-a
-oeu
-aoeu
 
 ---
