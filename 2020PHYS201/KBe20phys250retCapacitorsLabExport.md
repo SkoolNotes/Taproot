@@ -130,6 +130,13 @@ Source analysis [here](https://docs.google.com/spreadsheets/d/1eDmGRePGh8PVv2aKh
 
 # Time Constant with Various Components
 
+## Equipment
+
+- Breadboard
+- Capacitors (22$\mu$F, 1000$\mu$F)
+- Resistors (15$\omega$-100k$\omega$)
+- 3 volt battery pack
+
 ## Procedure
 
 Most of the analysis for data collected as a class was done on the "charge rate constant" (`time/RC`) of each circuit, defined as:
@@ -137,7 +144,7 @@ $$
 \frac{t}{RC}
 $$
 
-Starting with discharged capacitors, a battery was connected to the circuit and used to charge the capacitor. When voltage across the capacitor was measured to be 2$\pm$0.01
+Starting with discharged capacitors, a battery was connected to the circuit and used to charge the capacitor. The time taken for the voltage across the capacitor to reach 2$\pm$0.01 volts was measured for various resistor and capacitor combinations.
 
 # Results
 
