@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4160)}}    % original
-%\rhead{\textrmlf{Compiled }\#4160\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4160\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4161)}}    % original
+%\rhead{\textrmlf{Compiled }\#4161\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4161\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -491,7 +491,8 @@ The circuit below was built by various experimentalists:
 \includegraphics{https://nuevaschool.instructure.com/courses/2851/files/336712/preview}
 
 The physical manifestation of which looked like:
-\includegraphics{./KBe20phys250srcCapacitorLabCircuit.png}
+\href{./KBe20phys250srcCapacitorLabCircuit.png}{Circuit used in
+experiment}
 
 Starting with discharged capacitors, a battery was connected to the
 circuit and used to charge the capacitor. The time taken for the voltage
