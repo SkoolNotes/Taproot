@@ -31,7 +31,7 @@ $\tau$ | Seconds (s) | "Time constant" that scales the equation to the circuit. 
 - Logger Pro probes
 - Logger Pro
 - Breadboard
-- Capacitors (various)
+- Capacitors (15$\omega$-100k$\omega$)
 - Resistors (various)
 - 3 volt battery pack
 
