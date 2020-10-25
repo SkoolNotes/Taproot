@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4168)}}    % original
-%\rhead{\textrmlf{Compiled }\#4168\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4168\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4169)}}    % original
+%\rhead{\textrmlf{Compiled }\#4169\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4169\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -503,10 +503,12 @@ The physical manifestation of which looked like:
 \caption{Circuit used in experiment}
 \end{figure}
 
-Starting with discharged capacitors, a battery was connected to the
-circuit and used to charge the capacitor. The time taken for the voltage
-across the capacitor to reach 2 \(\pm\) 0.01 volts was measured for
-various resistor and capacitor combinations.
+Where the red and black aligator clips were attached to the multimeter
+and the battery was attatched to the power rails. Starting with
+discharged capacitors, a battery was connected to the circuit and used
+to charge the capacitor. The time taken for the voltage across the
+capacitor to reach 2 \(\pm\) 0.01 volts was measured for various
+resistor and capacitor combinations.
 
 \hypertarget{results-2}{%
 \subsection{Results}\label{results-2}}
