@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4189)}}    % original
-%\rhead{\textrmlf{Compiled }\#4189\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4189\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4190)}}    % original
+%\rhead{\textrmlf{Compiled }\#4190\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4190\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -376,9 +376,8 @@ Thus, the model predicted the charging behavior of capacitors over time
 accurately. For future iterations, numerical errors could have been
 better predicted if the specifications of the exact parts used to build
 the circuit were available. Additionally, more systematic curve fit
-heuristics could have been used such as RSME.
-
-The exact numerical analysis for this section can be found
+heuristics could have been used such as RSME. The exact numerical
+analysis for this section can be found
 \textbf{\href{https://docs.google.com/spreadsheets/d/1Hw9ooz0CtAvTP9vtw1VT9pVyfsW39IojwwrQX94VJQY/edit?usp=sharing}{here}}.
 
 \hypertarget{integration-of-current}{%
@@ -583,9 +582,8 @@ On explanation for the data skew is reaction time: for lower values of
 \(\tau\), the capacitor plateaus faster near 2V and thus the time keeper
 may not react as quickly. Components with smaller ratings also need
 tighter tolerances to achieve the same relative tolerances, so smaller
-capacitors may have relatively higher manufactured variability.
-
-The source analysis for these conclusions can be found
+capacitors may have relatively higher manufactured variability. The
+source analysis for these conclusions can be found
 \href{https://docs.google.com/spreadsheets/d/1Xf3b3GKpNSIkuoEZTTcMQ2gjTIVnO4eHE5aJD3GEjqg/edit?usp=sharing}{\textbf{here}}.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
