@@ -53,11 +53,11 @@ The results of the fits are summarized below:
 
 ![Curve fit (blue) of the 100k$\Omega$ 22$\mu$F circuit data (green). The residuals (red) were multiplied by 30.](./KBesrcCapacitor22microF100kO.png) 
 
-![[Curve fit of the 33$\Omega$ 0.047$\mu$F circuit. As before, residuals (black) scaled x60.](https://www.desmos.com/calculator/q5cqiogdvi)](./KBesrcCapacitorPoint047microF33ohm.png)
+![[Curve fit (purple) of the 33$\Omega$ 0.047$\mu$F data (blue). As before, residuals (black) scaled x60.](https://www.desmos.com/calculator/q5cqiogdvi)](./KBesrcCapacitorPoint047microF33ohm.png)
 
-![[Curve fit (purple) of the 100$\Omega$ 1000$\mu$F data (blue). As before, residuals (blue) scaled x30.](https://www.desmos.com/calculator/owm5kggc3t)](./KBesrcCapacitor1000microF100ohm.png)
+![[Curve fit (black) of the 100$\Omega$ 1000$\mu$F data (purple). As before, residuals (blue) scaled x30.](https://www.desmos.com/calculator/owm5kggc3t)](./KBesrcCapacitor1000microF100ohm.png)
 
-![[Curve fit of the 15$\Omega$ 1000$\mu$F circuit. Residuals (red) scaled x30.](https://www.desmos.com/calculator/tnaqtovqzq)](./KBesrcCapacitor1000microF15ohm.png)
+![[Curve fit (black) of the 15$\Omega$ 1000$\mu$F data (purple). Residuals (red) scaled x30.](https://www.desmos.com/calculator/tnaqtovqzq)](./KBesrcCapacitor1000microF15ohm.png)
 
 | $\Omega$ | F | Fit $\tau$ (s) | Modeled $\tau$ (s) | % Error |
 |---------:|--:|-----------:|---------------:|--------:|
