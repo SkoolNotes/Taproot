@@ -123,9 +123,9 @@ length of linearly independent list }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4199)}}    % original
-%\rhead{\textrmlf{Compiled }\#4199\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4199\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4201)}}    % original
+%\rhead{\textrmlf{Compiled }\#4201\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4201\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -167,6 +167,12 @@ length of linearly independent list }
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
 
+\hypertarget{lemma}{%
+\section{Lemma}\label{lemma}}
 
+\begin{quote}
+The size of a linearly indpendent set is less than or equal to the size
+of a spanning set over some vector space \(V\).
+\end{quote}
 
 \end{document}
