@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4172)}}    % original
-%\rhead{\textrmlf{Compiled }\#4172\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4172\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4174)}}    % original
+%\rhead{\textrmlf{Compiled }\#4174\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4174\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -286,7 +286,7 @@ The results of the fits are summarized below:
 \caption{Curve fit of the 33\(\Omega\) 0.047\(\mu\)F circuit}
 \end{figure}
 
-\href{}{\includegraphics{./bruh.png}}
+\href{https://www.desmos.com/calculator/owm5kggc3t}{\includegraphics{./bruh.png}}
 
 \href{https://www.desmos.com/calculator/tnaqtovqzq}{\includegraphics{./KBesrcCapacitor1000microF15ohm.png}}
 
