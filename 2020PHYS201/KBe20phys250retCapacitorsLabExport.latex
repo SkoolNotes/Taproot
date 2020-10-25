@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4190)}}    % original
-%\rhead{\textrmlf{Compiled }\#4190\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4190\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4191)}}    % original
+%\rhead{\textrmlf{Compiled }\#4191\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4191\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -484,7 +484,7 @@ Components}\label{time-constant-with-various-components}}
 \item
   Capacitors (100\(\mu\)F-1000\(\mu\)F)
 \item
-  Resistors (99.8k\(\omega\)-1M\(\omega\))
+  Resistors (99.8k\(\Omega\)-1M\(\Omega\))
 \item
   3 volt battery pack
 \item

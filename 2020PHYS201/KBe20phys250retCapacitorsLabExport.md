@@ -138,7 +138,7 @@ Source analysis [__here__](https://docs.google.com/spreadsheets/d/1eDmGRePGh8PVv
 
 - Breadboard
 - Capacitors (100$\mu$F-1000$\mu$F)
-- Resistors (99.8k$\omega$-1M$\omega$)
+- Resistors (99.8k$\Omega$-1M$\Omega$)
 - 3 volt battery pack
 - Multimeter
 - Stopwatch
