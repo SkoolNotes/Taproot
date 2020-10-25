@@ -49,7 +49,7 @@ The results of the fits are summarized below:
 
 ![Curve fit of the 100k$\Omega$ 22$\mu$F circuit](./KBesrcCapacitor22microF100kO.png) 
 
-[![Curve fit of the 33$\Omega$ 0.047$\mu$F circuit](./KBesrcCapacitorPoint047microF33ohm.png)](https://www.desmos.com/calculator/q5cqiogdvi)  
+[![Curve fit of the 33$\Omega$ 0.047$\mu$F circuit](./KBesrcCapacitorPoint047microF33ohm.png)](https://www.desmos.com/calculator/q5cqiogdvi)
 
 [![Curve fit of the 100$\Omega$ 1000$\mu$F circuit](./KBesrcCapacitor1000microF100ohm.png)](https://www.desmos.com/calculator/owm5kggc3t)
 
