@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4175)}}    % original
-%\rhead{\textrmlf{Compiled }\#4175\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4175\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4176)}}    % original
+%\rhead{\textrmlf{Compiled }\#4176\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4176\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -280,11 +280,11 @@ The results of the fits are summarized below:
 \caption{Curve fit of the 100k\(\Omega\) 22\(\mu\)F circuit}
 \end{figure}
 
-\href{https://www.desmos.com/calculator/q5cqiogdvi}{\includegraphics{./bruh.047microF33kO.png}}
+\href{https://www.desmos.com/calculator/q5cqiogdvi}{\includegraphics{./KBesrcCapacitorPoint047microF33ohm.png}}
 
-\href{https://www.desmos.com/calculator/owm5kggc3t}{\includegraphics{./bruh.png}}
+\href{https://www.desmos.com/calculator/owm5kggc3t}{\includegraphics{./KBesrcCapacitor1000microF100ohm.png}}
 
-\href{https://www.desmos.com/calculator/tnaqtovqzq}{\includegraphics{./bruh.png}}
+\href{https://www.desmos.com/calculator/tnaqtovqzq}{\includegraphics{./KBesrcCapacitor1000microF15ohm.png}}
 
 \begin{longtable}[]{@{}rrrrr@{}}
 \toprule
