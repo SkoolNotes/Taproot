@@ -121,7 +121,7 @@ Another issue may be miscalibrated sensors: if each amperage measurement was off
 
 Although the intermediate charge values do not match the model, the final accumulated charge is sensical: 3.19 volts is close to the expected 3.2 volts. The same errors mentioned previously contribute to this difference, but the accuracy of the result suggests that the effect was canceled.
 
-The Farad Definition line (red) in figure TODO has blips for unkown reasons. 
+The Farad Definition line (red) in figure 5 has blips for unkown reasons. 
 
 ## Conclusion
 
@@ -149,10 +149,10 @@ $$
 $$
 
 The circuit below was built by various experimentalists:
-[Circuit Schematic](https://nuevaschool.instructure.com/courses/2851/files/336712/preview)
+![Circuit Schematic](https://nuevaschool.instructure.com/courses/2851/files/336712/preview)
 
 The physical manifestation of which looked like:
-[Circuit used in experiment](./KBe20phys250srcCapacitorLabCircuit.JPG)
+![Circuit used in experiment](./KBe20phys250srcCapacitorLabCircuit.JPG)
 
 Starting with discharged capacitors, a battery was connected to the circuit and used to charge the capacitor. The time taken for the voltage across the capacitor to reach 2 $\pm$ 0.01 volts was measured for various resistor and capacitor combinations.
 
@@ -176,7 +176,7 @@ Finally, the comparison with time taken to charge the capacitor shows the strong
 
 ![time/RC vs Time to Charge](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=716778401&format=image)
 
-# Analysis
+## Analysis
 
 On explanation for the data skew is reaction time: for lower values of $\tau$, the capacitor plateaus faster near 2V and thus the time keeper may not react as quickly. Components with smaller ratings also need tighter tolerances to achieve the same relative tolerances, so smaller capacitors may have relatively higher manufactured variability.
 

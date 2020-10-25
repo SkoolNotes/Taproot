@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4155)}}    % original
-%\rhead{\textrmlf{Compiled }\#4155\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4155\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4156)}}    % original
+%\rhead{\textrmlf{Compiled }\#4156\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4156\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -431,7 +431,7 @@ expected 3.2 volts. The same errors mentioned previously contribute to
 this difference, but the accuracy of the result suggests that the effect
 was canceled.
 
-The Farad Definition line (red) in figure TODO has blips for unkown
+The Farad Definition line (red) in figure 5 has blips for unkown
 reasons.
 
 \hypertarget{conclusion-1}{%
@@ -485,12 +485,10 @@ Most of the analysis for data collected as a class was done on the
 \]
 
 The circuit below was built by various experimentalists:
-\href{https://nuevaschool.instructure.com/courses/2851/files/336712/preview}{Circuit
-Schematic}
+\includegraphics{https://nuevaschool.instructure.com/courses/2851/files/336712/preview}
 
 The physical manifestation of which looked like:
-\href{./KBe20phys250srcCapacitorLabCircuit.JPG}{Circuit used in
-experiment}
+\includegraphics{./KBe20phys250srcCapacitorLabCircuit.JPG}
 
 Starting with discharged capacitors, a battery was connected to the
 circuit and used to charge the capacitor. The time taken for the voltage
@@ -548,7 +546,7 @@ the model, this value is the product of the previous two trends.
 \end{figure}
 
 \hypertarget{analysis-2}{%
-\section{Analysis}\label{analysis-2}}
+\subsection{Analysis}\label{analysis-2}}
 
 On explanation for the data skew is reaction time: for lower values of
 \(\tau\), the capacitor plateaus faster near 2V and thus the time keeper
