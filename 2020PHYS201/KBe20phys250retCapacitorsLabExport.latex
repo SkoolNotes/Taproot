@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4133)}}    % original
-%\rhead{\textrmlf{Compiled }\#4133\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4133\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4134)}}    % original
+%\rhead{\textrmlf{Compiled }\#4134\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4134\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -244,9 +244,9 @@ Table 1: The meanings of variables in the numerical model
 \item
   Breadboard
 \item
-  Capacitors (15\(\omega\)-100k\(\omega\))
+  Capacitors (22\(\mu\)F, 1000\(\mu\)F)
 \item
-  Resistors (various)
+  Resistors (15\(\omega\)-100k\(\omega\))
 \item
   3 volt battery pack
 \end{itemize}
