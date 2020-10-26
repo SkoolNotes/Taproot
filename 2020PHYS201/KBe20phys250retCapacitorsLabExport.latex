@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4229)}}    % original
-%\rhead{\textrmlf{Compiled }\#4229\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4229\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4230)}}    % original
+%\rhead{\textrmlf{Compiled }\#4230\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4230\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -292,7 +292,7 @@ The results of the fits are summarized below:
 \begin{figure}
 \centering
 \includegraphics{./KBesrcCapacitorPoint047microF33ohm.png}
-\caption{\href{https://www.desmos.com/calculator/y47qh6a4dc}{Curve fit
+\caption{\href{https://www.desmos.com/calculator/o3asuzdem0}{Curve fit
 (purple) of the 33\(\Omega\) 0.047\(\mu\)F data (blue). As before,
 residuals (black) scaled x60.}}
 \end{figure}
