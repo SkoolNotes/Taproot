@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4230)}}    % original
-%\rhead{\textrmlf{Compiled }\#4230\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4230\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4231)}}    % original
+%\rhead{\textrmlf{Compiled }\#4231\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4231\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -286,23 +286,23 @@ The results of the fits are summarized below:
 \centering
 \includegraphics{./KBesrcCapacitor22microF100kO.png}
 \caption{Curve fit (blue) of the 100k\(\Omega\) 22\(\mu\)F circuit data
-(green). The residuals (red) were multiplied by 30.}
+(green). Residuals (red) were multiplied by 30.}
 \end{figure}
 
 \begin{figure}
 \centering
 \includegraphics{./KBesrcCapacitorPoint047microF33ohm.png}
 \caption{\href{https://www.desmos.com/calculator/o3asuzdem0}{Curve fit
-(purple) of the 33\(\Omega\) 0.047\(\mu\)F data (blue). As before,
-residuals (black) scaled x60.}}
+(purple) of the 33\(\Omega\) 0.047\(\mu\)F data (blue). Residuals
+(black) scaled x60.}}
 \end{figure}
 
 \begin{figure}
 \centering
 \includegraphics{./KBesrcCapacitor1000microF100ohm.png}
 \caption{\href{https://www.desmos.com/calculator/djrhxlddef}{Curve fit
-(black) of the 100\(\Omega\) 1000\(\mu\)F data (purple). As before,
-residuals (blue) scaled x30.}}
+(black) of the 100\(\Omega\) 1000\(\mu\)F data (purple). Residuals
+(blue) scaled x30.}}
 \end{figure}
 
 \begin{figure}
