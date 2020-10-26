@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4197)}}    % original
-%\rhead{\textrmlf{Compiled }\#4197\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4197\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4223)}}    % original
+%\rhead{\textrmlf{Compiled }\#4223\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4223\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -321,7 +321,7 @@ Error\tabularnewline
 \endhead
 100k\(\Omega\) & 22\(\mu\)F & 2.3860 \(\pm\) 0.01 & 2.2000 \(\pm\) 0.441
 & 8.45\%\tabularnewline
-33k\(\Omega\) & 0.047\(\mu\)F & 0.0017 \(\pm\) 0.01 & 0.0016 \(\pm\)
+33k\(\Omega\) & 0.047\(\mu\)F & 0.0017 \(\pm\) 0.0001 & 0.0016 \(\pm\)
 0.0003 & 9.61\%\tabularnewline
 100\(\Omega\) & 1000\(\mu\)F & 0.1058 \(\pm\) 0.01 & 0.1000 \(\pm\)
 0.020 & 5.80\%\tabularnewline
