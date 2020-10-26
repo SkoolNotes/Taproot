@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4227)}}    % original
-%\rhead{\textrmlf{Compiled }\#4227\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4227\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4228)}}    % original
+%\rhead{\textrmlf{Compiled }\#4228\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4228\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -308,7 +308,7 @@ residuals (blue) scaled x30.}}
 \begin{figure}
 \centering
 \includegraphics{./KBesrcCapacitor1000microF15ohm.png}
-\caption{\href{https://www.desmos.com/calculator/tnaqtovqzq}{Curve fit
+\caption{\href{https://www.desmos.com/calculator/wr9bfzkbpl}{Curve fit
 (black) of the 15\(\Omega\) 1000\(\mu\)F data (purple). Residuals (red)
 scaled x30.}}
 \end{figure}
