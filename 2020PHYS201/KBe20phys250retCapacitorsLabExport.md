@@ -66,7 +66,7 @@ The results of the fits are summarized below:
 100$\Omega$  | 1000$\mu$F | 0.1058 $\pm$ 0.001 | 0.1000 $\pm$ 0.020 | 4.40%
 15 $\Omega$  | 1000$\mu$F | 0.0188 $\pm$ 0.0001 | 0.0150 $\pm$ 0.003 | 24.67%
 
-> Table 2: Calculated values of $\tau$
+> Table 2: Fit and calculated values of $\tau$.
 
 ## Analysis
 

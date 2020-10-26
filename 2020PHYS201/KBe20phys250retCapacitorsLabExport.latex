@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4226)}}    % original
-%\rhead{\textrmlf{Compiled }\#4226\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4226\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4227)}}    % original
+%\rhead{\textrmlf{Compiled }\#4227\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4227\textrmlf{ on} \today}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -322,16 +322,16 @@ Error\tabularnewline
 100k\(\Omega\) & 22\(\mu\)F & 2.3860 \(\pm\) 0.01 & 2.2000 \(\pm\) 0.441
 & 8.45\%\tabularnewline
 33k\(\Omega\) & 0.047\(\mu\)F & 0.0017 \(\pm\) 0.0001 & 0.0016 \(\pm\)
-0.0003 & 9.61\%\tabularnewline
+0.0003 & 12.83\%\tabularnewline
 100\(\Omega\) & 1000\(\mu\)F & 0.1058 \(\pm\) 0.001 & 0.1000 \(\pm\)
-0.020 & 5.80\%\tabularnewline
+0.020 & 4.40\%\tabularnewline
 15 \(\Omega\) & 1000\(\mu\)F & 0.0188 \(\pm\) 0.0001 & 0.0150 \(\pm\)
-0.003 & 25.33\%\tabularnewline
+0.003 & 24.67\%\tabularnewline
 \bottomrule
 \end{longtable}
 
 \begin{quote}
-Table 2: Calculated values of \(\tau\)
+Table 2: Fit and calculated values of \(\tau\).
 \end{quote}
 
 \hypertarget{analysis}{%
