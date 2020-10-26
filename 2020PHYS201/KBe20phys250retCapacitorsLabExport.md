@@ -55,7 +55,7 @@ The results of the fits are summarized below:
 
 ![[Curve fit (purple) of the 33$\Omega$ 0.047$\mu$F data (blue). As before, residuals (black) scaled x60.](https://www.desmos.com/calculator/y47qh6a4dc)](./KBesrcCapacitorPoint047microF33ohm.png)
 
-![[Curve fit (black) of the 100$\Omega$ 1000$\mu$F data (purple). As before, residuals (blue) scaled x30.](https://www.desmos.com/calculator/4cuuoecf32)](./KBesrcCapacitor1000microF100ohm.png)
+![[Curve fit (black) of the 100$\Omega$ 1000$\mu$F data (purple). As before, residuals (blue) scaled x30.](https://www.desmos.com/calculator/djrhxlddef)](./KBesrcCapacitor1000microF100ohm.png)
 
 ![[Curve fit (black) of the 15$\Omega$ 1000$\mu$F data (purple). Residuals (red) scaled x30.](https://www.desmos.com/calculator/wr9bfzkbpl)](./KBesrcCapacitor1000microF15ohm.png)
 
