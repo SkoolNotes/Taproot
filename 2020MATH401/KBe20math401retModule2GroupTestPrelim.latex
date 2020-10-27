@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thelesson}{ Module 2 Group Test Prelim }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4235)}}    % original
-%\rhead{\textrmlf{Compiled }\#4235\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4235\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4236)}}    % original
+%\rhead{\textrmlf{Compiled }\#4236\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4236\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,6 +164,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
 
 \hypertarget{openstax-calc-vol-1-chap-2.4-ex-134}{%
 \section{Openstax Calc vol 1 chap 2.4 ex
@@ -172,26 +173,26 @@
 \[g(t) = \frac{1}{t}+1\] which is basically \(\frac{1}{x}\) shied up by
 one, so there is an \(\boxed{\text{infinite discontinuity at} x=0}\)
 
-\hypertarget{section-1}{%
-\section{136}\label{section-1}}
+\hypertarget{section}{%
+\section{136}\label{section}}
 
 There is a jump discontinuity at \(x=2\), because normally
 \(y=\frac{x}{x}\) simplifies to \(y=1\), but the sign flips at \(x=2\).
 
-\hypertarget{section-2}{%
-\section{142}\label{section-2}}
+\hypertarget{section-1}{%
+\section{142}\label{section-1}}
 
 \[f(y) = \frac{\sin(\pi y)}{\tan(\pi y)} = \frac{\cancel{\sin(\pi y)} \cos(\pi y)}{\cancel{\sin(\pi y)}}\]
 So there is a removable discontinuity at \(y=1\), because there is a
 discontinuity but it can be removed with algebra.
 
-\hypertarget{section-3}{%
-\section{148}\label{section-3}}
+\hypertarget{section-2}{%
+\section{148}\label{section-2}}
 
 \[\begin{aligned}e^{4k} = 4+3\\e^{4k}=7\\4k=\ln(7)\\k=\frac{\ln(7)}{4}\end{aligned}\]
 
-\hypertarget{section-4}{%
-\section{\texorpdfstring{{TODO} 174}{TODO 174}}\label{section-4}}
+\hypertarget{section-3}{%
+\section{\texorpdfstring{{TODO} 174}{TODO 174}}\label{section-3}}
 
 Prove \(f(x)\) is continues everywhere, meaning show that
 \(\forall c\in \mathbb{R}\) \[\lim_{x\to c} f(x) = f(c)\] Because we can
