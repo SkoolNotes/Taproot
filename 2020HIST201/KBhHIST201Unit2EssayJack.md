@@ -21,7 +21,8 @@ course: HIST201
  * "Agreeing on the importance of the balance of power did not, however,
 still British disputes about the best strategy to implement the policy." => "The Whigs argued that GB should engage only when balance threatened, and only long enough to remove threat; Tories argued that GB's duty was to _shape_ the balance of power."
 * CLAIM: "Of course, in the end a balance of power always co es about de facto when several states interact."
-* "Power is too difficult to assess, and the willingness to vindicate it too various, to permit treating it as a reliable guide to international order. Equilibrium works best if it is buttressed by an agreement on common values. The balance of power inhibits the capacity to overthrow the inter- national order;"
+* "Power is too difficult to assess, and the willingness to vindicate it too various, to permit treating it as a reliable guide to international order. Equilibrium works best if it is buttressed by an agreement on common values. The balance of power inhibits the capacity to overthrow the inter- national order"
+* "Every king consoled himself with the thought that strengthening his own rule was the greatest possible contribution to the general peace, and left it to the ubiquitous invisible hand to justify his exertions - without limiting his ambitions."
  
 
 ## Claim Synthesis (Babingtonization)
