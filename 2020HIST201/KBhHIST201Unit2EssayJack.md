@@ -42,6 +42,7 @@ course: HIST201
 	* "The possession of a station at Calcutta placed them at the door to that part of India which was potentially the richest prize - Bengal and the lower Ganges valley."
 	* "The huge and growing Caribbean market for slaves and imported European goods was added to that already offered by a Spanish empire increasingly unable to defend its economic monopoly.
 * Mason
+	* "A long struggle between Parliament and the Stuart kings [in England?] and essentially replaced the absolute monarchy with a constitutional monarchy"
 	* 
 	
 
