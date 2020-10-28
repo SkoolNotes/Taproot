@@ -16,6 +16,10 @@ author: Houjun Liu
 * Need to focus on software
 	* Read up + researched
 	* Need to impliment: gyro to record, relay, and computer to identify tics
-	* 
+	* Subproblems
+		* Recording => built in?
+		* Relaying => BTLE
+		* Labeling => tagging and organizing data
+		* Reporting => UI/UX experience to end user
 
 *** 

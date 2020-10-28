@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4295)}}    % original
-%\rhead{\textrmlf{Compiled }\#4295\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4295\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4296)}}    % original
+%\rhead{\textrmlf{Compiled }\#4296\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4296\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -202,6 +202,19 @@ Serena}\label{istudio-check-ins-juilet-and-serena}}
     Need to impliment: gyro to record, relay, and computer to identify
     tics
   \item
+    Subproblems
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Recording =\textgreater{} built in?
+    \item
+      Relaying =\textgreater{} BTLE
+    \item
+      Labeling =\textgreater{} tagging and organizing data
+    \item
+      Reporting =\textgreater{} UI/UX experience to end user
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 
