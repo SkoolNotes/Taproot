@@ -25,3 +25,8 @@ Here's a truth table:
 |0|1|1|0|1|
 |1|0|1|0|1|
 |1|1|1|1|0|
+
+So, here's some binary operations using logic gates!
+
+* **A+B** => {A XOR B => ones digit; A AND B => carry digit}
+

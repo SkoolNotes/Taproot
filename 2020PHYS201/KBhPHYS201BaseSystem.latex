@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4266)}}    % original
-%\rhead{\textrmlf{Compiled }\#4266\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4266\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4267)}}    % original
+%\rhead{\textrmlf{Compiled }\#4267\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4267\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -201,5 +201,14 @@ Signal A & Signal B & A OR B & A AND B & A XOR B\tabularnewline
 1 & 1 & 1 & 1 & 0\tabularnewline
 \bottomrule
 \end{longtable}
+
+So, here's some binary operations using logic gates!
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{A+B} =\textgreater{} \{A XOR B =\textgreater{} ones digit; A
+  AND B =\textgreater{} carry digit\}
+\end{itemize}
 
 \end{document}
