@@ -14,6 +14,8 @@ author: Houjun Liu
 	* Juliet started on hardware
 	* **Umrusa, 9**
 * Need to focus on software
-	* Read up + researched  
+	* Read up + researched
+	* Need to impliment: gyro to record, relay, and computer to identify tics
+	* 
 
 *** 
