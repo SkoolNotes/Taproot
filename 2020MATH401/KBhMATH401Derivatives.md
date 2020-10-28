@@ -28,3 +28,4 @@ Derivative of $f(x)$ => $\frac{dy}{dx}$
 |$x^3-x+2$|$3x^2-1$|
 |$\frac{1}{x}$|$\frac{-1}{x^2}$|
 |$\sqrt{x}$|$\frac{1}{2 \sqrt{x}}$
+|$\sin (x)$|$\cos (x) $|
