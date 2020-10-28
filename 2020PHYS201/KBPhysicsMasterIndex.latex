@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3567)}}    % original
-%\rhead{\textrmlf{Compiled }\#3567\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3567\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4260)}}    % original
+%\rhead{\textrmlf{Compiled }\#4260\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4260\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -232,13 +232,15 @@
   {[}{[}KBe20Phys201refCapacitorSeriesParralel{]}{]}
 \end{itemize}
 
-\hypertarget{sillicon-things}{%
-\subsection{Sillicon Things}\label{sillicon-things}}
+\hypertarget{silicon-things}{%
+\subsection{Silicon Things}\label{silicon-things}}
 
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBhPHYS201DiodesAnd
+  {[}{[}KBhPHYS201Silicon{]}{]}
+\item
+  Base Conversion {[}{[}KBhPHYS201BaseSystem{]}{]}
 \end{itemize}
 
 \hypertarget{references}{%
