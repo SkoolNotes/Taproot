@@ -37,6 +37,7 @@ course: HIST201
 	* "Europeans did not just conquer; they exterminated local cultures and peoples and replaced them with their own"
 	* "Older cultures were to be cut off from populating the new worlds or setting their mark on them"
 	* "The French were Great Britain's most dangerous potential competitors, but their government was always likely to be distracted by its European continental commitments."
+	* "The British lacked missionary zeal ... they had no immediate urge to interfere with the native custom or institution"
 	* "Before its outbreak, there had in fact been no remission of fighting in India, even while France and Great Britain were officially at peace after 1748."
 
 
