@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4252)}}    % original
-%\rhead{\textrmlf{Compiled }\#4252\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4252\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4253)}}    % original
+%\rhead{\textrmlf{Compiled }\#4253\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4253\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -196,5 +196,20 @@ examples from multiple global regions. (Kissinger, Mason, Roberts)
 
 \hypertarget{outline}{%
 \section{Outline}\label{outline}}
+
+\hypertarget{intro}{%
+\subsection{Intro}\label{intro}}
+
+\hypertarget{france-napoleon}{%
+\subsection{France + Napoleon}\label{france-napoleon}}
+
+\hypertarget{caribbean}{%
+\subsection{Caribbean}\label{caribbean}}
+
+\hypertarget{india}{%
+\subsection{India}\label{india}}
+
+\hypertarget{conclusion}{%
+\subsection{Conclusion}\label{conclusion}}
 
 \end{document}
