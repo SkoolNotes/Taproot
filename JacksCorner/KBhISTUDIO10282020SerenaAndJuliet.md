@@ -12,6 +12,8 @@ author: Houjun Liu
 	* Joint communal effort
 	* Ellie dived into branding w/ identity + software
 	* Juliet started on hardware
-	* 
+	* **Umrusa, 9**
+* Need to focus on software
+*  
 
 *** 
