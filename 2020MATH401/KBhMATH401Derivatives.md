@@ -9,5 +9,6 @@ author: Houjun Liu
 
 => Instantaneous rate of change at a particular point
 
+* Average rate of change = $\frac{\Delta Y}{\Delta X}$
 
-
+![[rateofchange.png]]
