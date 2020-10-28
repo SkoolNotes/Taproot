@@ -1,15 +1,15 @@
 ---
-title: French Rev Essay
+title: Unit 2 French Revolution Essay
 author: Houjun Liu
 source: KBHistoryMasterIndex
 course: HIST201
 ---
 
-# Essay Template
+# Unit 2 Essay
 ## General Information
 | Due Date | Topic | Important Documents |
 | :-- | :-- | :-- |
-| DUE DATE | TOPIC | DOCUMENTS, HERE |
+| Nov 9th, a Monday | French rev politiking | Henry the Kissinger, Mason, Roberts |
 
 ## Prompt
 THE PROMPT
