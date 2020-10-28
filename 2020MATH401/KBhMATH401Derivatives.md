@@ -22,5 +22,9 @@ Derivative of $f(x)$ => $\frac{dy}{dx}$
 ## Useful Table of Derivatives
 | f(x) | f'(x) |
 |---|---|
-|x^2|2x|
-|x^3|3x^2|
+|$x^2$|$2x$|
+|$x^3$|$3x^2$|
+|$x^n$|$nx^{n-1}$|
+|$x^3-x+2$|$3x^2-1$|
+|$\frac{1}{x}$|$\frac{-1}{x^2}$|
+|$\sqrt{x}$|$\frac{1}{2 \sqrt{x}}$

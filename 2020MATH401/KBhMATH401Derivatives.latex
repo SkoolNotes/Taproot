@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4288)}}    % original
-%\rhead{\textrmlf{Compiled }\#4288\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4288\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4298)}}    % original
+%\rhead{\textrmlf{Compiled }\#4298\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4298\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -208,8 +208,12 @@ Derivatives}\label{useful-table-of-derivatives}}
 f(x) & f'(x)\tabularnewline
 \midrule
 \endhead
-x\^{}2 & 2x\tabularnewline
-x\^{}3 & 3x\^{}2\tabularnewline
+\(x^2\) & \(2x\)\tabularnewline
+\(x^3\) & \(3x^2\)\tabularnewline
+\(x^n\) & \(nx^{n-1}\)\tabularnewline
+\(x^3-x+2\) & \(3x^2-1\)\tabularnewline
+\(\frac{1}{x}\) & \(\frac{-1}{x^2}\)\tabularnewline
+\(\sqrt{x}\) & \(\frac{1}{2 \sqrt{x}}\)\tabularnewline
 \bottomrule
 \end{longtable}
 
