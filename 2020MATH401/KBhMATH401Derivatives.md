@@ -19,3 +19,4 @@ Derivative of $f(x)$ => $\frac{dy}{dx}$
 
 ![derivativesWB.png](derivativesWB.png)
 
+## Useful Table of Derivatives
