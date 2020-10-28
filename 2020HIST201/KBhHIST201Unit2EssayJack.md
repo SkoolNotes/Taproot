@@ -13,6 +13,8 @@ course: HIST201
 
 ## Prompt
  In the end, did the European balance of power succeed in its goal to, as Kissinger puts it, limit conflict and produce the “best possible outcome” from flawed human nature? Or did it magnify conflict and increase the likelihood of global war?
+ 
+ 
 
 ## Claim Synthesis (Babingtonization)
 ### Development phase – How and So-What
