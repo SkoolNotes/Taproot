@@ -21,5 +21,6 @@ author: Houjun Liu
 		* Relaying => BTLE
 		* Labeling => tagging and organizing data
 		* Reporting => UI/UX experience to end user
+* No money problems until minimization + packaging 
 
 *** 
