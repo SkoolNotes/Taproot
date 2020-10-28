@@ -15,6 +15,12 @@ course: HIST201
  In the end, did the European balance of power succeed in its goal to, as Kissinger puts it, limit conflict and produce the “best possible outcome” from flawed human nature? Or did it magnify conflict and increase the likelihood of global war?
  
  
+ ## Quotable Quotes
+ * "If the circumstances were re- versed, we could equally be pro-German and anti-French." 
+ * "William was perfectly willing to negotiate with Louis XIV when he felt the balance of power could best be served by doing so."
+ * "Agreeing on the importance of the balance of power did not, however,
+still British disputes about the best strategy to implement the policy."
+ 
 
 ## Claim Synthesis (Babingtonization)
 ### Development phase – How and So-What
