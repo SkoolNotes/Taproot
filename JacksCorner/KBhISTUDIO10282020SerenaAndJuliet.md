@@ -14,6 +14,6 @@ author: Houjun Liu
 	* Juliet started on hardware
 	* **Umrusa, 9**
 * Need to focus on software
-*  
+	* Read up + researched  
 
 *** 

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4293)}}    % original
-%\rhead{\textrmlf{Compiled }\#4293\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4293\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4294)}}    % original
+%\rhead{\textrmlf{Compiled }\#4294\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4294\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -192,7 +192,13 @@ Serena}\label{istudio-check-ins-juilet-and-serena}}
     \textbf{Umrusa, 9}
   \end{itemize}
 \item
-  Need to focus on softwar
+  Need to focus on software
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read up + researched
+  \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
