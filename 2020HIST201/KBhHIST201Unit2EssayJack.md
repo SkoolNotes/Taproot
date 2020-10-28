@@ -44,7 +44,8 @@ course: HIST201
 * Mason
 	* "A long struggle between Parliament and the Stuart kings [in England?] and essentially replaced the absolute monarchy with a constitutional monarchy"
 	* "'Sovereign power resides in my person alone .... It is from me alone that my policies take their existence and their authority'"
-	* 
+	* "European monarchies had consciously pursued a policy of the balance of power, a system of shifting international alliances that prevented any one country from becoming too powerful"
+	* "Wars were fought not so much for ideology or nationalism but to maintain the balance of power ... The victor did not want to crush the vanquished"
 	
 
 
