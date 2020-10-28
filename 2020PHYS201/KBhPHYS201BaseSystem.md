@@ -17,9 +17,11 @@ author: Houjun Liu
 
 1011010 + 011101
 
-| Signal A | Signal B | A || 
-|---|---|
-|0|0|
-|0|1|
-|1|0|
-|1|1|
+Here's a truth table:
+
+| Signal A | Signal B | A OR B | A AND B | A XOR B |
+|---|---|---|---|---|
+|0|0|0|0|0|
+|0|1|1|0|1|
+|1|0|1|0|1|
+|1|1|1|1|0|

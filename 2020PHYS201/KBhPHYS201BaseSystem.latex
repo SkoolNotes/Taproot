@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4265)}}    % original
-%\rhead{\textrmlf{Compiled }\#4265\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4265\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4266)}}    % original
+%\rhead{\textrmlf{Compiled }\#4266\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4266\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -188,15 +188,17 @@
 
 1011010 + 011101
 
-\begin{longtable}[]{@{}ll@{}}
+Here's a truth table:
+
+\begin{longtable}[]{@{}lllll@{}}
 \toprule
-Signal A & Signal B\tabularnewline
+Signal A & Signal B & A OR B & A AND B & A XOR B\tabularnewline
 \midrule
 \endhead
-0 & 0\tabularnewline
-0 & 1\tabularnewline
-1 & 0\tabularnewline
-1 & 1\tabularnewline
+0 & 0 & 0 & 0 & 0\tabularnewline
+0 & 1 & 1 & 0 & 1\tabularnewline
+1 & 0 & 1 & 0 & 1\tabularnewline
+1 & 1 & 1 & 1 & 0\tabularnewline
 \bottomrule
 \end{longtable}
 
