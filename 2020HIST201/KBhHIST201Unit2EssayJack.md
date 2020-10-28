@@ -31,6 +31,7 @@ course: HIST201
 	* "Greed quickly led to the abuse of power, to domination and exploitation by force. In the end this led to great crimes - though they were often committed unconsciously."
 	* "Europeans could usually exact what they wanted in the end because of a technical superiority which exaggerated the power of their tiny numbers and for a few centuries turned the balance against the great historic agglomerations of population and civilization."
 	* "The obscuring of the Company's primary commercial role was not good for business. It also gave its employees even greater opportunities to feather their own nests. ... the British government hoped as fervently as the Company to avoid being dragged any further into the role of imperial power in India."
+	* "The British government hoped as fervently as the Company to avoid being dragged any further into the role of imperial power in India."
 
 
 ## Claim Synthesis (Babingtonization)
