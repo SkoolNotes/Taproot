@@ -86,6 +86,8 @@ source: #index
 	* [[KBxUnitOneEssayPlanning]]
 	* [[KBhHIST201Unit1EssayJack]]
 	- [[KBe20hist201Unit1Essay]]
+* French Rev Essay
+	* [[KBhHIST201FrenchRevEssay]]
 	
 ## Meta References
 - [[20hist201refTechniques]]
