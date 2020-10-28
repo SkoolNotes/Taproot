@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4059)}}    % original
-%\rhead{\textrmlf{Compiled }\#4059\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4059\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4289)}}    % original
+%\rhead{\textrmlf{Compiled }\#4289\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4289\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -651,6 +651,10 @@ cytoplasm.
 
 \emph{How are viral mRNAs produced from the viral genome?}
 
++Strand: reproducable RNA
+
+-Strand RNA: template RNA (less easy to be detected)
+
 \begin{itemize}
 \item
   double-stranded RNA viron =\textgreater{} (+, a.k.a. sense) strand
@@ -662,7 +666,7 @@ cytoplasm.
   \tightlist
   \item
     strand RNA =\textgreater{} virus comes with polymerase that convert
-    -ssRNA to +ssRNA. Then, same idea as above
+    -ssRNA to +ssRNA. Then, same idea as above.
   \end{itemize}
 \end{itemize}
 

@@ -217,9 +217,13 @@ Except! Poxvirade carry their own polymerase, so they replicate in the cytoplasm
 
 *How are viral mRNAs produced from the viral genome?*
 
++Strand: reproducable RNA
+
+-Strand RNA: template RNA (less easy to be detected)
+
 - double-stranded RNA viron => (+, a.k.a. sense) strand could be translated directly by using as mRNA
 - +-stranded RNA => same idea as above
-- - strand RNA => virus comes with polymerase that convert -ssRNA to +ssRNA. Then, same idea as above
+- - strand RNA => virus comes with polymerase that convert -ssRNA to +ssRNA. Then, same idea as above. 
 
 *What serves as the templates for viral genome replication?*
 
