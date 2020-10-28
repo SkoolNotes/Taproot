@@ -26,6 +26,11 @@ course: HIST201
 	* "Every king consoled himself with the thought that strengthening his own rule was the greatest possible contribution to the general peace, and left it to the ubiquitous invisible hand to justify his exertions - without limiting his ambitions."
 	* "But Louis XN gained no peace. of mind from security; he saw in it an opportunity for conquest. In his overzealous pursuit of raison d'etat, LouisXN alarmed the rest of Europe and brought together an anti-French coalition which, in the end, thwarted his design."
 	* "Thereby, France lost the advantage of having adversaries constrained by moral considerations ...  Once all states played by the same rules, gains became much more difficult to achieve"
+* Roberts
+	* "In the next four centuries, Christianity was often to have disastrous effects. Confident in the possession of the true religion, Europeans were impatient and contemptuous of the values and achievements of the peoples and civilizations they disturbed."
+	* "Greed quickly led to the abuse of power, to domination and exploitation by force. In the end this led to great crimes - though they were often committed unconsciously."
+	* "Europeans could usually exact what they wanted in the end because of a technical superiority which exaggerated the power of their tiny numbers and for a few centuries turned the balance against the great historic agglomerations of population and civilization."
+	* 
 
 
 ## Claim Synthesis (Babingtonization)
