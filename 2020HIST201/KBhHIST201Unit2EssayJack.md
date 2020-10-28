@@ -43,6 +43,7 @@ course: HIST201
 	* "The huge and growing Caribbean market for slaves and imported European goods was added to that already offered by a Spanish empire increasingly unable to defend its economic monopoly.
 * Mason
 	* "A long struggle between Parliament and the Stuart kings [in England?] and essentially replaced the absolute monarchy with a constitutional monarchy"
+	* "'Sovereign power resides in my person alone .... It is from me alone that my policies take their existence and their authority'"
 	* 
 	
 
