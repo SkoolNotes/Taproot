@@ -20,3 +20,7 @@ Derivative of $f(x)$ => $\frac{dy}{dx}$
 ![derivativesWB.png](derivativesWB.png)
 
 ## Useful Table of Derivatives
+| f(x) | f'(x) |
+|---|---|
+|x^2|2x|
+|x^3|3x^2|
