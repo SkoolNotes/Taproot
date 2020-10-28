@@ -19,7 +19,8 @@ course: HIST201
  * "If the circumstances were re- versed, we could equally be pro-German and anti-French." 
  * "William was perfectly willing to negotiate with Louis XIV when he felt the balance of power could best be served by doing so."
  * "Agreeing on the importance of the balance of power did not, however,
-still British disputes about the best strategy to implement the policy."
+still British disputes about the best strategy to implement the policy." => "The Whigs argued that GB should engage only when balance threatened, and only long enough to remove threat; Tories argued that GB's duty was to _shape_ the balance of power."
+* CLAIM: "Of course, in the end a balance of power always co es about de facto when several states interact."
  
 
 ## Claim Synthesis (Babingtonization)
