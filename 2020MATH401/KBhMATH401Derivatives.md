@@ -16,3 +16,6 @@ author: Houjun Liu
 * Instantaneous rate of change = $\lim_{\Delta x \to 0} \frac{\Delta Y}{\Delta X}$
 
 Derivative of $f(x)$ => $\frac{dy}{dx}$
+
+![derivativesWB.png](derivativesWB.png)
+
