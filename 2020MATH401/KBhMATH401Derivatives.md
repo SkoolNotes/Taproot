@@ -11,4 +11,6 @@ author: Houjun Liu
 
 * Average rate of change = $\frac{\Delta Y}{\Delta X}$
 
-![[rateofchange.png]]
+![rateofchange.png](rateofchange.png)
+
+* Instantaneous rate of change = $\lim_{\Delta x \to 0}\frac{\Delta Y}{\Delta X}$

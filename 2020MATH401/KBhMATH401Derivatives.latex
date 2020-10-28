@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4283)}}    % original
-%\rhead{\textrmlf{Compiled }\#4283\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4283\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4284)}}    % original
+%\rhead{\textrmlf{Compiled }\#4284\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4284\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -176,6 +176,19 @@
 \tightlist
 \item
   Average rate of change = \(\frac{\Delta Y}{\Delta X}\)
+\end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{rateofchange.png}
+\caption{rateofchange.png}
+\end{figure}
+
+\begin{itemize}
+\tightlist
+\item
+  Instantaneous rate of change =
+  \(\lim_{\Delta x \to 0}\frac{\Delta Y}{\Delta X}\)
 \end{itemize}
 
 \end{document}
