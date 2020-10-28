@@ -34,6 +34,7 @@ course: HIST201
 	* "The British government hoped as fervently as the Company to avoid being dragged any further into the role of imperial power in India."
 	* "The huge and growing Caribbean market for slaves and imported European goods was added to that already offered by a Spanish empire increasingly unable to defend its economic monopoly. This fixed the role of the West Indies in the relationships of the European powers for the next century."
 	* "Gradually, the great powers fought out their disputes until they arrived at acceptable agreements, but this was to take a long time."
+	* "The flow of silver to Spain was the most obvious, and this had, of course, implications for the European economy as a whole and even for Asia. [England's] growing [of] colonial populations also helped to stimulate European exports and manufactures."
 
 
 ## Claim Synthesis (Babingtonization)
