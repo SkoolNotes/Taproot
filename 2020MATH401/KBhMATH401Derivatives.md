@@ -13,4 +13,6 @@ author: Houjun Liu
 
 ![rateofchange.png](rateofchange.png)
 
-* Instantaneous rate of change = $\lim_{\Delta x \to 0}\frac{\Delta Y}{\Delta X}$
+* Instantaneous rate of change = $\lim_{\Delta x \to 0} \frac{\Delta Y}{\Delta X}$
+
+Derivative of $f(x)$ => $\frac{dy}{dx}$

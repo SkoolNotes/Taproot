@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4284)}}    % original
-%\rhead{\textrmlf{Compiled }\#4284\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4284\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4285)}}    % original
+%\rhead{\textrmlf{Compiled }\#4285\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4285\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -188,7 +188,9 @@
 \tightlist
 \item
   Instantaneous rate of change =
-  \(\lim_{\Delta x \to 0}\frac{\Delta Y}{\Delta X}\)
+  \(\lim_{\Delta x \to 0} \frac{\Delta Y}{\Delta X}\)
 \end{itemize}
+
+Derivative of \(f(x)\) =\textgreater{} \(\frac{dy}{dx}\)
 
 \end{document}
