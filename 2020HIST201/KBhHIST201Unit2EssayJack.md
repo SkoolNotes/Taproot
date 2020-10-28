@@ -19,8 +19,7 @@ course: HIST201
  * Kissinger
 	 *  "If the circumstances were reversed, we could equally be pro-German and anti-French." 
 	 * "William was perfectly willing to negotiate with Louis XIV when he felt the balance of power could best be served by doing so."
-	 * "Agreeing on the importance of the balance of power did not, however,
-	still British disputes about the best strategy to implement the policy." => "The Whigs argued that GB should engage only when balance threatened, and only long enough to remove threat; Tories argued that GB's duty was to _shape_ the balance of power."
+	 * "Agreeing on the importance of the balance of power did not, however, still British disputes about the best strategy to implement the policy." => "The Whigs argued that GB should engage only when balance threatened, and only long enough to remove threat; Tories argued that GB's duty was to _shape_ the balance of power."
 	* CLAIM: "Of course, in the end a balance of power always co es about de facto when several states interact."
 	* "Power is too difficult to assess, and the willingness to vindicate it too various, to permit treating it as a reliable guide to international order. Equilibrium works best if it is buttressed by an agreement on common values. The balance of power inhibits the capacity to overthrow the inter- national order"
 	* "Every king consoled himself with the thought that strengthening his own rule was the greatest possible contribution to the general peace, and left it to the ubiquitous invisible hand to justify his exertions - without limiting his ambitions."
@@ -35,6 +34,8 @@ course: HIST201
 	* "The huge and growing Caribbean market for slaves and imported European goods was added to that already offered by a Spanish empire increasingly unable to defend its economic monopoly. This fixed the role of the West Indies in the relationships of the European powers for the next century."
 	* "Gradually, the great powers fought out their disputes until they arrived at acceptable agreements, but this was to take a long time."
 	* "The flow of silver to Spain was the most obvious, and this had, of course, implications for the European economy as a whole and even for Asia. [England's] growing [of] colonial populations also helped to stimulate European exports and manufactures."
+	* "Europeans did not just conquer; they exterminated local cultures and peoples and replaced them with their own"
+	* "Older cultures were to be cut off from populating the new worlds or setting their mark on them"
 
 
 ## Claim Synthesis (Babingtonization)
