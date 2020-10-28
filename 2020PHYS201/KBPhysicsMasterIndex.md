@@ -33,7 +33,7 @@ source: #index
 
 ## Silicon Things
 - [[KBhPHYS201Silicon]]
-- Base Conversion [[KBhPHYS201BaseSystem]]
+- Base Conversion [[KBhPHYS201DigitalLogic]]
 
 
 # References

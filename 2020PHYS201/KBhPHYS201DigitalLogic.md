@@ -1,11 +1,11 @@
 ---
-title: Base System
+title: Digital Logic
 source: KBPhysicsMasterIndex
 course: PHYS201
 author: Houjun Liu
 ---
 
-# Base System
+# Digital Logic
 
 ## Binary
 
@@ -27,7 +27,7 @@ Here's a truth table:
 |1|1|1|1|0|
 
 ## Logic gates
-**OR Gates**
+**OR Gates**: a mystery?
 
 ## Binary Operations
 * **A+B** => {A XOR B => ones digit; A AND B => carry digit}
