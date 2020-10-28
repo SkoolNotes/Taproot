@@ -9,4 +9,6 @@ author: Houjun Liu
 
 ## Binary
 
-1011010.0 => $1*2^6 + 0*2^5 + 1*2^
+1011010.0 => $1*2^6 + 0*2^5 + 1*2^4 + 1*2^3 + 0*2^2 + 1*2^1 + 0*2^0$
+
+* In binary, 2 conditions could represent all numbers

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4261)}}    % original
-%\rhead{\textrmlf{Compiled }\#4261\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4261\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4262)}}    % original
+%\rhead{\textrmlf{Compiled }\#4262\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4262\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -173,6 +173,13 @@
 \hypertarget{binary}{%
 \subsection{Binary}\label{binary}}
 
-1011010.0 =\textgreater{} \$
+1011010.0 =\textgreater{}
+\(1*2^6 + 0*2^5 + 1*2^4 + 1*2^3 + 0*2^2 + 1*2^1 + 0*2^0\)
+
+\begin{itemize}
+\tightlist
+\item
+  In binary, 2 conditions could represent all numbers
+\end{itemize}
 
 \end{document}
