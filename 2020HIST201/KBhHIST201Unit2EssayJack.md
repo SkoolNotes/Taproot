@@ -48,6 +48,7 @@ course: HIST201
 	* "Wars were fought not so much for ideology or nationalism but to maintain the balance of power ... The victor did not want to crush the vanquished"
 	* "Napoleon formed mass armies and led them into other countries to spread the ideas of the Revolution and to enhance his own power"
 	* "The French Revolution and the Napoleonic wars had unleashed forces that would shake the foundations of European society. "
+	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution."
 	
 * It encourages fighting, but that's unavoidable
 	* Competing resources
