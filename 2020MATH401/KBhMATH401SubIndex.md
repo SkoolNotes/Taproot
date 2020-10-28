@@ -10,3 +10,4 @@ source: KBCalculusMasterIndex
 - [[KBhMATH401FirstAndSecondOrder]] First and Second Order Differences
 - [[KBhMATH401Limits]]
 - [[KbhMATH401e]]
+- [[KBhMATH401Derivatives]]
