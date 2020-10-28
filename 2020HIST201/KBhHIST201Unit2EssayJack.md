@@ -36,7 +36,7 @@ course: HIST201
 	* "The flow of silver to Spain was the most obvious, and this had, of course, implications for the European economy as a whole and even for Asia. [England's] growing [of] colonial populations also helped to stimulate European exports and manufactures."
 	* "Europeans did not just conquer; they exterminated local cultures and peoples and replaced them with their own"
 	* "Older cultures were to be cut off from populating the new worlds or setting their mark on them"
-	* "
+	* "The French were Great Britain's most dangerous potential competitors, but their government was always likely to be distracted by its European continental commitments."
 	* "Before its outbreak, there had in fact been no remission of fighting in India, even while France and Great Britain were officially at peace after 1748."
 
 
