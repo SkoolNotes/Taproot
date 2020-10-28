@@ -39,6 +39,7 @@ course: HIST201
 	* "The French were Great Britain's most dangerous potential competitors, but their government was always likely to be distracted by its European continental commitments."
 	* "The British lacked missionary zeal ... they had no immediate urge to interfere with the native custom or institution"
 	* "Before its outbreak, there had in fact been no remission of fighting in India, even while France and Great Britain were officially at peace after 1748."
+	* "The possession of a station at Calcutta placed them at the door to that part of India which was potentially the richest prize - Bengal and the lower Ganges valley."
 
 
 ## Claim Synthesis (Babingtonization)
