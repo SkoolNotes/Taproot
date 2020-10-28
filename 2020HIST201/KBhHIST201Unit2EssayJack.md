@@ -41,6 +41,8 @@ course: HIST201
 	* "Before its outbreak, there had in fact been no remission of fighting in India, even while France and Great Britain were officially at peace after 1748."
 	* "The possession of a station at Calcutta placed them at the door to that part of India which was potentially the richest prize - Bengal and the lower Ganges valley."
 	* "The huge and growing Caribbean market for slaves and imported European goods was added to that already offered by a Spanish empire increasingly unable to defend its economic monopoly.
+	
+	
 
 
 ## Claim Synthesis (Babingtonization)
