@@ -16,3 +16,5 @@ author: Houjun Liu
 * High Voltage => 1
 
 1011010 + 011101
+
+Signal A + Signal B
