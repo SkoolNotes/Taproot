@@ -58,23 +58,25 @@ course: HIST201
 * every king believes that acting in his self intrest strengthened general peace A6
 
 * Brits wanted to preserve balance of power either by actively controlling for it or waiting for balance A3
+* old France (more stable) got power from the King alone A23
 * Overzelous expansion of Raison may lead to downfall A7
 * too many countries Raisoning may lead to countries unrestrained by morality A8
 * greed lead to unconcious crimes A10
+
 * Its advantageous to do business instead of doing brute territorialism A12
+* Europeans conquered with a goal of assimilation A16
+* European's colonization had strategic advantage A17
+* No agreement? Fight! Eventually there will be one. A14
 
 * Being contemptuous of the values of other societies bring disasters A9
 * HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
-* No agreement? Fight! Eventually there will be one. A14
 * all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
-* Europeans conquered with a goal of assimilation A16
-* European's colonization had strategic advantage A17
+
 * Competition in colonies often set aside for mainland competition A18
 * The britons did not want to assimilate in the Indeas A19
 * Before the 7 years war, Britian and France still fought even nominally at peace A20
 * Britian's aquisition of Calcutta train station was beneficial A21
 * England's Abs. Mon. replaced with constitutional monarchy A22
-* old France got power from the King alone A23
 * Europeans intentionally set up goverment to prevent one from being too powerful A24
 * napolean tried to spread ideas of the revolution A26
 * French Rev shaked europe A27
