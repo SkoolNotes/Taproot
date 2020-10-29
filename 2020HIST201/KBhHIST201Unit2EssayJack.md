@@ -61,7 +61,6 @@ course: HIST201
 * Unquoted
 	* old France got power from the King alone A23
 	* European's colonization had strategic advantage A17
-	* Europeans intentionally set up goverment to prevent one from being too powerful A24
 	* Competition in colonies often set aside for mainland competition A18
 	* HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
 	* Napoleon changed wars into a war of ideology A28
@@ -77,6 +76,7 @@ course: HIST201
 
 * balance of power whether ye wanted or not A4
 	* No agreement? Fight! Eventually there will be one. A14
+	* Europeans intentionally set up goverment to prevent one from being too powerful A24
 	* Napoleon being napolean
 		* napolean tried to spread ideas of the revolution A26
 		* French Rev shaked europe A27
@@ -100,10 +100,12 @@ course: HIST201
 		* all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15 (FIND QUOTE: "quite brutally"?)
 * These small adjustments are, although potentially brutal, completely necessary
 	* No agreement? Fight! Eventually there will be one. A14
-	* Tracing Napolean
+	* Because europeans intentionally set up goverment to prevent one from being too powerful A24
+	* What adjustments? Tracing Napolean:
 		* napolean tried to spread ideas of the revolution A26
 		* French Rev shaked europe A27
 		* How did he fade? (FIND QUOTE: "He got balance-of-powered" This is in mason. Search for the word "banished") 
+	* Net positive? 
 * 
 
 	
