@@ -94,7 +94,9 @@ course: HIST201
 *Although the European balance of power does lead to frequent competitive conflict — like that between France and England — it ultimately is both naturally unavoidable and the best outcome for generally peaceful international policy*
 
 * BOP is brutal
-	* European nations, leverages its technical superiority 
+	* European nations, through leveraging its technical superiority, upset the balance of power in acient countries (A11)
+	* Every king believes that acting in his self intrest strengthened general peace A6, but greed lead to unconcious crimes A10
+	* Indeed, too many countries Raisoning may lead to countries unrestrained by morality A8
 
 	
 ## Defluffifying
