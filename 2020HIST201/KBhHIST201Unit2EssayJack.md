@@ -105,8 +105,9 @@ course: HIST201
 		* napolean tried to spread ideas of the revolution A26
 		* French Rev shaked europe A27
 		* How did he fade? (FIND QUOTE: "He got balance-of-powered" This is in mason. Search for the word "banished") 
-	* Net positive? 
-* 
+		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but from (FIND QUOTE: discontempt Louis to more accepted Louis)
+* This whole sherade is the best possible outcome anyways
+	* 
 
 	
 ## Defluffifying
