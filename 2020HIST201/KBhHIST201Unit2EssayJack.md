@@ -90,9 +90,6 @@ course: HIST201
 	* Even trying to balance power may lead to problems => overzelous expansion of Raison may lead to downfall A7
 	
 	
-
-
-
 ## Claim Synthesis
 *Although the European balance of power does lead to frequent competitive conflict — like that between France and England — it ultimately is both naturally unavoidable and the best outcome for generally peaceful international policy*
 
