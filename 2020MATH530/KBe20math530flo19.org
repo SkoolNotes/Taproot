@@ -8,3 +8,10 @@
   If $v = 0$ then
 $$Tv = 0$$
 By Axler 3.11 (Maps take 0 to 0)
+  Otherwise,
+  $$
+  \begin{aligned}
+  Tv = w = \right(w\frac{1}{v}\left)v = \lambda v\\
+  w\frac{1}{v} = \lambda \in \mathbb F
+  \end{aligned}
+    $$

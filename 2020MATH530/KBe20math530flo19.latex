@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4374)}}    % original
-%\rhead{\textrmlf{Compiled }\#4374\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4374\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4375)}}    % original
+%\rhead{\textrmlf{Compiled }\#4375\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4375\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,6 +182,12 @@
 \hypertarget{axler-3.a-ex7}{%
 \section{Axler 3.A ex7}\label{axler-3.a-ex7}}
 
-If \(v = 0\) then \[Tv = 0\] By Axler 3.11 (Maps take 0 to 0)
+If \(v = 0\) then \[Tv = 0\] By Axler 3.11 (Maps take 0 to 0) Otherwise,
+\[
+  \begin{aligned}
+  Tv = w = \right(w\frac{1}{v}\left)v = \lambda v\\
+  w\frac{1}{v} = \lambda \in \mathbb F
+  \end{aligned}
+    \]
 
 \end{document}
