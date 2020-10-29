@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4375)}}    % original
-%\rhead{\textrmlf{Compiled }\#4375\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4375\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4376)}}    % original
+%\rhead{\textrmlf{Compiled }\#4376\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4376\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,12 +182,14 @@
 \hypertarget{axler-3.a-ex7}{%
 \section{Axler 3.A ex7}\label{axler-3.a-ex7}}
 
-If \(v = 0\) then \[Tv = 0\] By Axler 3.11 (Maps take 0 to 0) Otherwise,
-\[
+If \(v = 0\) then \[Tv = 0\] By Axler 3.11 (Maps take 0 to 0). Thus,
+\(\lambda\) can be anything in \(\mathbb F\). Otherwise, \[
   \begin{aligned}
-  Tv = w = \right(w\frac{1}{v}\left)v = \lambda v\\
+  Tv = w = \left( w \frac{1}{v} \right)v = \lambda v\\
   w\frac{1}{v} = \lambda \in \mathbb F
   \end{aligned}
-    \]
+    \] which is in \(\mathbb F\) because
+\(w, \frac{1}{v} \in \mathbb F\) and fields are closed under
+multiplication.
 
 \end{document}
