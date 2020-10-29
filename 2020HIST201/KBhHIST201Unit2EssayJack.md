@@ -49,7 +49,7 @@ course: HIST201
 	* "The victor did not want to crush the vanquished, as this would upset the balance; in any case, the defeated state might be a future ally." A29
 	* "Louis XVIII issued a constitutional charter that incorporated many of the changes that had entered into French life and society since 1789" A30
 	* "An inefficient system of taxation made it difficult for the monarchy to raise the money it needed. ... Between 1726 and 1789, the cost of living increased by 62 percent, whereas wages rose by only 25 percent." A31 
-	* "Napoleon, whose military fortunes began to wane. 
+	* "Napoleon's military fortunes began to wane ... The allied armies pressed on, entered Paris, and forced Napoleon to abdicate" A32
 	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
@@ -85,6 +85,7 @@ course: HIST201
 		* France is looking pretty grim A31 
 		* napolean tried to spread ideas of the revolution A26
 		* French Rev shaked europe A27
+		* Napoleon got Balance-of-powered A32
 		* Bloodshead or whatever, but eventually we got there and got a better policy A30
 	
 * Its advantageous to do business instead of doing brute territorialism A12
@@ -103,7 +104,7 @@ course: HIST201
 	* Indeed, too many countries Raisoning may lead to countries unrestrained by morality A8 to achieve the bestest they could
 	* But to actually achieve "the best", we need to constantly adjust the balance:
 		* Before the 7 years war, Britian and France still fought even nominally at peace A20
-		* all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15 (FIND QUOTE: "quite brutally"?)
+		* all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15 
 * These small adjustments are, although potentially brutal, completely necessary
 	* No agreement? Fight! Eventually there will be one. A14
 	* Because europeans intentionally set up goverment to prevent one from being too powerful A24
@@ -111,8 +112,8 @@ course: HIST201
 		* France was baaad: A31
 		* The Enlightment happpened (need quote?) Which seeks to BOP
 			* French Rev shaked europe A27
-		* napolean tried to spread ideas of the revolution A26
-		* How did he fade? (FIND QUOTE: "He got balance-of-powered" This is in mason. Search for the word "banished") 
+			* napolean tried to spread ideas of the revolution A26
+			* How did he fade? He got balance-of-powered A32 again b/c he was being too good at this emperor-not-an-emperor thing.
 		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but it is from A31 Louis to A30 better Louis
 * This whole sherade is the best possible outcome anyways
 	* Its advantageous to do business instead of doing brute territorialism A12, which BOP prevents (sharing! balance! best interest!)
