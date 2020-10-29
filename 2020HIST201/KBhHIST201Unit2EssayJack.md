@@ -93,7 +93,8 @@ course: HIST201
 ## Claim Synthesis
 *Although the European balance of power does lead to frequent competitive conflict — like that between France and England — it ultimately is both naturally unavoidable and the best outcome for generally peaceful international policy*
 
-* BOP 
+* BOP is brutal
+	* 
 
 	
 ## Defluffifying

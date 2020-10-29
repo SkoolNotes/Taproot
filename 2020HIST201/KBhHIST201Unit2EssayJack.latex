@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4341)}}    % original
-%\rhead{\textrmlf{Compiled }\#4341\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4341\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4342)}}    % original
+%\rhead{\textrmlf{Compiled }\#4342\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4342\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -403,7 +403,12 @@ generally peaceful international policy}
 \begin{itemize}
 \tightlist
 \item
-  BOP
+  BOP is brutal
+
+  \begin{itemize}
+  \tightlist
+  \item
+  \end{itemize}
 \end{itemize}
 
 \hypertarget{defluffifying}{%
