@@ -35,13 +35,12 @@ course: HIST201
 	* "All the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies" => all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies
 	* "Europeans did not just conquer; they exterminated local cultures and peoples and replaced them with their own" => Europeans conquered with a goal of assimilation
 	* "Older cultures were to be cut off from populating the new worlds or setting their mark on them" => European's colonization had strategic advantage
-	* "The French were Great Britain's most dangerous potential competitors, but their government was always likely to be distracted by its European continental commitments." => 
-	* "The British lacked missionary zeal ... they had no immediate urge to interfere with the native custom or institution"
-	* "Before its outbreak, there had in fact been no remission of fighting in India, even while France and Great Britain were officially at peace after 1748."
-	* "The possession of a station at Calcutta placed them at the door to that part of India which was potentially the richest prize - Bengal and the lower Ganges valley."
-	* "The huge and growing Caribbean market for slaves and imported European goods was added to that already offered by a Spanish empire increasingly unable to defend its economic monopoly.
+	* "The French were Great Britain's most dangerous potential competitors, but their government was always likely to be distracted by its European continental commitments." => Competition in colonies often set aside for mainland competition
+	* "The British lacked missionary zeal ... they had no immediate urge to interfere with the native custom or institution" => The britons did not want to assimilate in the Indeas
+	* "Before its outbreak, there had in fact been no remission of fighting in India, even while France and Great Britain were officially at peace after 1748." => Before the 7 years war, Britian and France still fought even nominally at peace
+	* "The possession of a station at Calcutta placed them at the door to that part of India which was potentially the richest prize - Bengal and the lower Ganges valley." => Britian's aquisition of Calcutta train station was beneficial
 * Mason
-	* "A long struggle between Parliament and the Stuart kings [in England?] and essentially replaced the absolute monarchy with a constitutional monarchy"
+	* "A long struggle between Parliament and the Stuart kings [in England?] and essentially replaced the absolute monarchy with a constitutional monarchy" => 
 	* "'Sovereign power resides in my person alone .... It is from me alone that my policies take their existence and their authority'"
 	* "European monarchies had consciously pursued a policy of the balance of power, a system of shifting international alliances that prevented any one country from becoming too powerful"
 	* "Wars were fought not so much for ideology or nationalism but to maintain the balance of power ... The victor did not want to crush the vanquished"
