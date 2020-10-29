@@ -23,3 +23,4 @@
    which is in $\mathbb F$ because $w, \frac{1}{v} \in \mathbb F$ and fields are closed under multiplication.
 
 * Axler 3.A ex10
+  The additivity of a linear map $T$ requires $T(u+v) = Tu + Tv$. Because $U \subset V, U \neq V$, there must be some element $v \in V$ yet $v \notin U$.

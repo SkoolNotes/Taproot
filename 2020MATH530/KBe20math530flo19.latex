@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4385)}}    % original
-%\rhead{\textrmlf{Compiled }\#4385\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4385\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4386)}}    % original
+%\rhead{\textrmlf{Compiled }\#4386\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4386\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -209,5 +209,9 @@ multiplication.
 
 \hypertarget{axler-3.a-ex10}{%
 \section{Axler 3.A ex10}\label{axler-3.a-ex10}}
+
+The additivity of a linear map \(T\) requires \(T(u+v) = Tu + Tv\).
+Because \(U \subset V, U \neq V\), there must be some element
+\(v \in V\) yet \(v \notin U\).
 
 \end{document}
