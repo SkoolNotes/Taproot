@@ -66,7 +66,6 @@ course: HIST201
 	* Napoleon changed wars into a war of ideology A28
 	* Britian's aquisition of Calcutta train station was beneficial A21
 	* Opposite: Europeans conquered with a goal of assimilation A16
-	* power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
 
 * wars are fought for BOP A25
 	* Europe's technical superiority turned the balance against historical civilzations A11
@@ -87,6 +86,7 @@ course: HIST201
 	* The britons did not want to assimilate in the Indeas A19 
 	* when interest is served, working with adversary is possible A2
 	* Being contemptuous of the values of other societies bring disasters A9
+	* power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
 
 	
 ## Claim Synthesis
@@ -108,9 +108,10 @@ course: HIST201
 		* How did he fade? (FIND QUOTE: "He got balance-of-powered" This is in mason. Search for the word "banished") 
 		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but from (FIND QUOTE: discontempt Louis to more accepted Louis)
 * This whole sherade is the best possible outcome anyways
-	* They were not constantly fighting, The britons did not want to assimilate in the Indeas A19
-	* When interest is served, working with adversary is possible A2.
-	* When doing balance of power, 
+	* Its advantageous to do business instead of doing brute territorialism A12, which BOP prevents (sharing! balance! best interest!)
+		* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests
+		* Good outcome for future collab: when interest is served, working with adversary is possible A2.
+	* power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
 
 	
 ## Defluffifying
