@@ -71,8 +71,10 @@ course: HIST201
 * power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
 	* Europe's technical superiority turned the balance against historical civilzations A11
 	* every king believes that acting in his self intrest strengthened general peace A6
-	* all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
 	* greed lead to unconcious crimes A10
+	* too many countries Raisoning may lead to countries unrestrained by morality A8
+	* Before the 7 years war, Britian and France still fought even nominally at peace A20
+	* all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
 
 * Its advantageous to do business instead of doing brute territorialism A12
 	* Britian's aquisition of Calcutta train station was beneficial A21
@@ -83,9 +85,8 @@ course: HIST201
 * balance of power whether ye wanted or not A4
 	* No agreement? Fight! Eventually there will be one. A14
 	* wars are fought for BOP A25
-	* too many countries Raisoning may lead to countries unrestrained by morality A8
 	* Even trying to balance power may lead to problems => overzelous expansion of Raison may lead to downfall A7
-	* Before the 7 years war, Britian and France still fought even nominally at peace A20
+	
 	
 
 
