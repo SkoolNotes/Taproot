@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4026)}}    % original
-%\rhead{\textrmlf{Compiled }\#4026\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4026\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4369)}}    % original
+%\rhead{\textrmlf{Compiled }\#4369\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4369\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -362,7 +362,7 @@ channels}\label{voltage-gated-ion-channels}}
       gate
     \end{enumerate}
   \item
-    sodium/calcium channels
+    \textbf{sodium/calcium channels}
 
     \begin{enumerate}
     \item
