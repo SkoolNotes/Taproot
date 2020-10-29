@@ -61,14 +61,12 @@ course: HIST201
 * Unquoted
 	* old France got power from the King alone A23
 	* European's colonization had strategic advantage A17
-	* HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
 	* Europeans intentionally set up goverment to prevent one from being too powerful A24
 	* Competition in colonies often set aside for mainland competition A18
-	* napolean tried to spread ideas of the revolution A26
-	* French Rev shaked europe A27
-	* Napoleon changed wars into a war of ideology A28
 
-* power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
+	* power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
+
+* wars are fought for BOP A25
 	* Europe's technical superiority turned the balance against historical civilzations A11
 	* every king believes that acting in his self intrest strengthened general peace A6
 	* greed lead to unconcious crimes A10
@@ -84,7 +82,11 @@ course: HIST201
 
 * balance of power whether ye wanted or not A4
 	* No agreement? Fight! Eventually there will be one. A14
-	* wars are fought for BOP A25
+	* HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
+	* Napoleon being napolean
+		* napolean tried to spread ideas of the revolution A26
+		* French Rev shaked europe A27
+		* Napoleon changed wars into a war of ideology A28
 	* Even trying to balance power may lead to problems => overzelous expansion of Raison may lead to downfall A7
 	
 	
