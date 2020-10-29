@@ -112,7 +112,7 @@ course: HIST201
 			* French Rev shaked europe A27
 		* napolean tried to spread ideas of the revolution A26
 		* How did he fade? (FIND QUOTE: "He got balance-of-powered" This is in mason. Search for the word "banished") 
-		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but it is from A31 Louis to A30
+		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but it is from A31 Louis to A30 better Louis
 * This whole sherade is the best possible outcome anyways
 	* Its advantageous to do business instead of doing brute territorialism A12, which BOP prevents (sharing! balance! best interest!)
 		* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests
