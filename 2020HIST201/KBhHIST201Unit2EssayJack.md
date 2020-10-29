@@ -43,10 +43,15 @@ course: HIST201
 	* "A long struggle between Parliament and the Stuart kings [in England?] and essentially replaced the absolute monarchy with a constitutional monarchy" A22 => England's Abs. Mon. replaced with constitutional monarchy A22
 	* "'Sovereign power resides in my person alone .... It is from me alone that my policies take their existence and their authority'" A23 => old France got power from the King alone A23
 	* "European monarchies had consciously pursued a policy of the balance of power, a system of shifting international alliances that prevented any one country from becoming too powerful" A24 => Europeans intentionally set up goverment to prevent one from being too powerful A24
-	* "Wars were fought not so much for ideology or nationalism but to maintain the balance of power ... The victor did not want to crush the vanquished" A25 => wars are fought for BOP A25
-	* "Napoleon formed mass armies and led them into other countries to spread the ideas of the Revolution and to enhance his own power" A26 => napolean tried to spread ideas of the revolution A26
-	* "The French Revolution and the Napoleonic wars had unleashed forces that would shake the foundations of European society. " A27 =>  French Rev shaked europe A27
-	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution." A28 => Napoleon changed wars into a war of ideology A28
+	* "Wars were fought not so much for ideology or nationalism but to maintain the balance of power ... The victor did not want to crush the vanquished" A25
+	* "Napoleon formed mass armies and led them into other countries to spread the ideas of the Revolution and to enhance his own power" A26
+	* "The French Revolution and the Napoleonic wars had unleashed forces that would shake the foundations of European society. " A27
+	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution." A28
+	
+## Idea Snippets Gathering	
+*  => napolean tried to spread ideas of the revolution A26
+*  => French Rev shaked europe A27
+*  => Napoleon changed wars into a war of ideology A28
 	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
