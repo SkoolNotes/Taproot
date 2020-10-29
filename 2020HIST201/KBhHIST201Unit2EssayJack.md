@@ -124,7 +124,7 @@ So what? SO WHAT
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**The European Balance-of-Power**
+**Although the European Balance-of-Power leads to frequent "adjustments" of balance in the shape of minor conflicts, this system is both naturally unavoidable during competi and **
 
 ***
 
