@@ -56,23 +56,24 @@ course: HIST201
 * every king believes that acting in his self intrest strengthened general peace A6
 
 * Brits wanted to preserve balance of power either by actively controlling for it or waiting for balance A3
-* old France (more stable) got power from the King alone A23
-* greed lead to unconcious crimes A10
-* Before the 7 years war, Britian and France still fought even nominally at peace A20
 * England's Abs. Mon. replaced with constitutional monarchy A22
 
-* Britian's aquisition of Calcutta train station was beneficial A21
-* The britons did not want to assimilate in the Indeas A19
-* Europeans conquered with a goal of assimilation A16
+
 * European's colonization had strategic advantage A17
 
 * Its advantageous to do business instead of doing brute territorialism A12
+	* Britian's aquisition of Calcutta train station was beneficial A21
+	* The britons did not want to assimilate in the Indeas A19 || opposite: Europeans conquered with a goal of assimilation A16
+	
+* old France (more stable) got power from the King alone A23
+	* greed lead to unconcious crimes A10
 
 * balance of power whether ye wanted or not A4
 	* No agreement? Fight! Eventually there will be one. A14
 	* wars are fought for BOP A25
 	* too many countries Raisoning may lead to countries unrestrained by morality A8
 	* Even trying to balance power may lead to problems => overzelous expansion of Raison may lead to downfall A7
+	* Before the 7 years war, Britian and France still fought even nominally at peace A20
 
 * Being contemptuous of the values of other societies bring disasters A9
 * HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
