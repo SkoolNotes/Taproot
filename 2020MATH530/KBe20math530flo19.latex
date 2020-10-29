@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4378)}}    % original
-%\rhead{\textrmlf{Compiled }\#4378\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4378\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4379)}}    % original
+%\rhead{\textrmlf{Compiled }\#4379\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4379\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,11 +182,22 @@
 \hypertarget{axler-3.a-ex7}{%
 \section{Axler 3.A ex7}\label{axler-3.a-ex7}}
 
-Let \(w = Tv\). Also notice that \(\frac{1}{v} \in \mathbb F\) If
-\(v = 0\) then \[Tv = 0\] By Axler 3.11 (Maps take 0 to 0). Thus,
-\(\lambda\) can be anything in \(\mathbb F\). Otherwise, \[
-  Tv = w = \left( w \frac{1}{v} \right)v
-\] Let \(\lambda = w \frac{1}{v}\), then
+Let \(w = Tv\).
+
+\hypertarget{if-v-0-then}{%
+\subsection{\texorpdfstring{If \(v = 0\)
+then}{If v = 0 then}}\label{if-v-0-then}}
+
+\[Tv = 0\] By Axler 3.11 (Maps take 0 to 0). Thus, \(\lambda\) can be
+anything in \(\mathbb F\).
+
+\hypertarget{otherwise}{%
+\subsection{Otherwise,}\label{otherwise}}
+
+\(\frac{1}{v} \in \mathbb F\) because the field has multiplicative
+inverses for all elements except 0. \[
+   Tv = w = \left( w \frac{1}{v} \right)v
+   \] Let \(\lambda = w \frac{1}{v}\), then
 \[ \lambda v = w \frac{1}{v} v = w \] which is in \(\mathbb F\) because
 \(w, \frac{1}{v} \in \mathbb F\) and fields are closed under
 multiplication.
