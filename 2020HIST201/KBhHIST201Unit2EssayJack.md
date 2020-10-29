@@ -49,8 +49,8 @@ course: HIST201
 	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution." A28
 	
 ## Idea Snippets Gathering	
+*
 * old France got power from the King alone A23
-
 * European's colonization had strategic advantage A17
 
 * Its advantageous to do business instead of doing brute territorialism A12
@@ -63,7 +63,6 @@ course: HIST201
 	* No agreement? Fight! Eventually there will be one. A14
 	* wars are fought for BOP A25
 	* too many countries Raisoning may lead to countries unrestrained by morality A8
-* Europeans intentionally set up goverment to prevent one from being too powerful A24
 	* Even trying to balance power may lead to problems => overzelous expansion of Raison may lead to downfall A7
 	* Before the 7 years war, Britian and France still fought even nominally at peace A20
 	
@@ -74,6 +73,7 @@ course: HIST201
 
 * HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
 * all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
+* Europeans intentionally set up goverment to prevent one from being too powerful A24
 
 * Competition in colonies often set aside for mainland competition A18
 * napolean tried to spread ideas of the revolution A26
