@@ -47,6 +47,7 @@ course: HIST201
 	* "The French Revolution and the Napoleonic wars had unleashed forces that would shake the foundations of European society. " A27
 	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution." A28
 	* "The victor did not want to crush the vanquished, as this would upset the balance; in any case, the defeated state might be a future ally." A29
+	* "Louis XVIII issued a constitutional charter that incorporated many of the changes that had entered into French life and society since 1789" A30
 	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
@@ -81,6 +82,7 @@ course: HIST201
 	* Napoleon being napolean
 		* napolean tried to spread ideas of the revolution A26
 		* French Rev shaked europe A27
+		* Bloodshead or whatever, but eventually we got there and got a better policy A30
 	
 * Its advantageous to do business instead of doing brute territorialism A12
 	* The britons did not want to assimilate in the Indeas A19 
@@ -106,7 +108,7 @@ course: HIST201
 		* napolean tried to spread ideas of the revolution A26
 		* French Rev shaked europe A27
 		* How did he fade? (FIND QUOTE: "He got balance-of-powered" This is in mason. Search for the word "banished") 
-		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but from (FIND QUOTE: discontempt Louis to more accepted Louis)
+		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but it is from
 * This whole sherade is the best possible outcome anyways
 	* Its advantageous to do business instead of doing brute territorialism A12, which BOP prevents (sharing! balance! best interest!)
 		* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests
