@@ -105,6 +105,7 @@ course: HIST201
 	* No agreement? Fight! Eventually there will be one. A14
 	* Because europeans intentionally set up goverment to prevent one from being too powerful A24
 	* What adjustments? Tracing Napolean:
+		* France was baaad:  
 		* napolean tried to spread ideas of the revolution A26
 		* French Rev shaked europe A27
 		* How did he fade? (FIND QUOTE: "He got balance-of-powered" This is in mason. Search for the word "banished") 
