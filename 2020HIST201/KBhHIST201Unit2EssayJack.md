@@ -36,19 +36,25 @@ course: HIST201
 	* "Europeans did not just conquer; they exterminated local cultures and peoples and replaced them with their own" A16 => Europeans conquered with a goal of assimilation A16
 	* "Older cultures were to be cut off from populating the new worlds or setting their mark on them" A17 => European's colonization had strategic advantage A17
 	* "The French were Great Britain's most dangerous potential competitors, but their government was always likely to be distracted by its European continental commitments." A18 => Competition in colonies often set aside for mainland competition A18
-	* "The British lacked missionary zeal ... they had no immediate urge to interfere with the native custom or institution" A19 => The britons did not want to assimilate in the Indeas A19
+	* "The British lacked missionary zeal ... they had no immediate urge to interfere with the native custom or institution" A19
 	* "Before its outbreak, there had in fact been no remission of fighting in India, even while France and Great Britain were officially at peace after 1748." A20 => Before the 7 years war, Britian and France still fought even nominally at peace A20
-	* "The possession of a station at Calcutta placed them at the door to that part of India which was potentially the richest prize - Bengal and the lower Ganges valley." A21 => Britian's aquisition of Calcutta train station was beneficial A21
+	* "The possession of a station at Calcutta placed them at the door to that part of India which was potentially the richest prize - Bengal and the lower Ganges valley." A21
 * Mason
-	* "A long struggle between Parliament and the Stuart kings [in England?] and essentially replaced the absolute monarchy with a constitutional monarchy" A22 => England's Abs. Mon. replaced with constitutional monarchy A22
-	* "'Sovereign power resides in my person alone .... It is from me alone that my policies take their existence and their authority'" A23 => old France got power from the King alone A23
-	* "European monarchies had consciously pursued a policy of the balance of power, a system of shifting international alliances that prevented any one country from becoming too powerful" A24 => Europeans intentionally set up goverment to prevent one from being too powerful A24
+	* "A long struggle between Parliament and the Stuart kings [in England?] and essentially replaced the absolute monarchy with a constitutional monarchy" A22
+	* "'Sovereign power resides in my person alone .... It is from me alone that my policies take their existence and their authority'" A23
+	* "European monarchies had consciously pursued a policy of the balance of power, a system of shifting international alliances that prevented any one country from becoming too powerful" A24
 	* "Wars were fought not so much for ideology or nationalism but to maintain the balance of power ... The victor did not want to crush the vanquished" A25
 	* "Napoleon formed mass armies and led them into other countries to spread the ideas of the Revolution and to enhance his own power" A26
 	* "The French Revolution and the Napoleonic wars had unleashed forces that would shake the foundations of European society. " A27
 	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution." A28
 	
 ## Idea Snippets Gathering	
+*  => The britons did not want to assimilate in the Indeas A19
+*  => Britian's aquisition of Calcutta train station was beneficial A21
+*  => England's Abs. Mon. replaced with constitutional monarchy A22
+*  => old France got power from the King alone A23
+*  => Europeans intentionally set up goverment to prevent one from being too powerful A24
+*  => wars are fought for BOP A25
 *  => napolean tried to spread ideas of the revolution A26
 *  => French Rev shaked europe A27
 *  => Napoleon changed wars into a war of ideology A28
