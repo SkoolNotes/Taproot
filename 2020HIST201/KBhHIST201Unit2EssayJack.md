@@ -88,21 +88,14 @@ course: HIST201
 	* greed lead to unconcious crimes A10
 
 
-## Claim Synthesis (Babingtonization)
-### Development phase – How and So-What
-- *CLAIM*
-	- How THING THAT ATTACKS INTERGRITY OF CLAIM
-		- EVIDENCE and SPECIFICITY
-	- So what (local), THING THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS THE BROADER PICTURE
-- *CLAIM*
-	- Repeat...
-	
-### Testing phase – Why and So-What
-- *CLAIM*
-	- Why DOES THE CLAIM ANSWER THE PROMPT?
-	- So what (global), THING THAT ATTACKS THE BROADER IMPACT OF THE CLAIM
-- *CLAIM*
-	- Repeat...
+## Claim Synthesis
+*CLAIM*
+
+- How THING THAT ATTACKS INTERGRITY OF CLAIM
+	- EVIDENCE and SPECIFICITY
+- So what (local), THING THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS THE BROADER PICTURE
+
+
 	
 ## Defluffifying
 CHOSEN THESIS CLAIM
