@@ -23,17 +23,17 @@ course: HIST201
 	* CLAIM: "Of course, in the end a balance of power always comes about de facto when several states interact." A4 => balance of power whether ye wanted or not A4
 	* "Power is too difficult to assess, and the willingness to vindicate it too various, to permit treating it as a reliable guide to international order. ... The balance of power inhibits the capacity to overthrow the international order" A5 => power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
 	* "Every king consoled himself with the thought that strengthening his own rule was the greatest possible contribution to the general peace, and left it to the ubiquitous invisible hand to justify his exertions - without limiting his ambitions." A6 => every king believes that acting in his self intrest strengthened general peace A6
-	* "But Louis XN gained no peace. of mind from security; he saw in it an opportunity for conquest. In his overzealous pursuit of raison d'etat, LouisXN alarmed the rest of Europe and brought together an anti-French coalition which, in the end, thwarted his design." A7 => Overzelous expansion of Raison may lead to downfall A7
-	* "Thereby, France lost the advantage of having adversaries constrained by moral considerations ...  Once all states played by the same rules, gains became much more difficult to achieve" A8 => too many countries Raisoning may lead to countries unrestrained by morality A8
+	* "But Louis XN gained no peace. of mind from security; he saw in it an opportunity for conquest. In his overzealous pursuit of raison d'etat, LouisXN alarmed the rest of Europe and brought together an anti-French coalition which, in the end, thwarted his design." A7 
+	* "Thereby, France lost the advantage of having adversaries constrained by moral considerations ...  Once all states played by the same rules, gains became much more difficult to achieve" A8
 * Roberts
-	* "In the next four centuries, Christianity was often to have disastrous effects. Confident in the possession of the true religion, Europeans were impatient and contemptuous of the values and achievements of the peoples and civilizations they disturbed." A9 => Being contemptuous of the values of other societies bring disasters A9
-	* "Greed quickly led to the abuse of power, to domination and exploitation by force. In the end this led to great crimes - though they were often committed unconsciously." A10=> greed lead to unconcious crimes A10
-	* "Europeans could usually exact what they wanted in the end because of a technical superiority which exaggerated the power of their tiny numbers and for a few centuries turned the balance against the great historic agglomerations of population and civilization." A11 => Europe's technical superiority turned the balance against historical civilzations A11
-	* "The obscuring of the Company's primary commercial role was not good for business. It also gave its employees even greater opportunities to feather their own nests. ... the British government hoped as fervently as the Company to avoid being dragged any further into the role of imperial power in India." A12 => Its advantageous to do business instead of doing brute territorialism A12
-	* "The huge and growing Caribbean market for slaves and imported European goods was added to that already offered by a Spanish empire increasingly unable to defend its economic monopoly. This fixed the role of the West Indies in the relationships of the European powers for the next century. ... They were long a prey to disorder" A13 => HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
-	* "Gradually, the great powers fought out their disputes until they arrived at acceptable agreements, but this was to take a long time." A14 => No agreement? Fight! Eventually there will be one. A14
-	* "All the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies" A15 => all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
-	* "Europeans did not just conquer; they exterminated local cultures and peoples and replaced them with their own" A16 => Europeans conquered with a goal of assimilation A16
+	* "In the next four centuries, Christianity was often to have disastrous effects. Confident in the possession of the true religion, Europeans were impatient and contemptuous of the values and achievements of the peoples and civilizations they disturbed." A9
+	* "Greed quickly led to the abuse of power, to domination and exploitation by force. In the end this led to great crimes - though they were often committed unconsciously." A10
+	* "Europeans could usually exact what they wanted in the end because of a technical superiority which exaggerated the power of their tiny numbers and for a few centuries turned the balance against the great historic agglomerations of population and civilization." A11
+	* "The obscuring of the Company's primary commercial role was not good for business. It also gave its employees even greater opportunities to feather their own nests. ... the British government hoped as fervently as the Company to avoid being dragged any further into the role of imperial power in India." A12
+	* "The huge and growing Caribbean market for slaves and imported European goods was added to that already offered by a Spanish empire increasingly unable to defend its economic monopoly. This fixed the role of the West Indies in the relationships of the European powers for the next century. ... They were long a prey to disorder" A13
+	* "Gradually, the great powers fought out their disputes until they arrived at acceptable agreements, but this was to take a long time." A14
+	* "All the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies" A15
+	* "Europeans did not just conquer; they exterminated local cultures and peoples and replaced them with their own" A16
 	* "Older cultures were to be cut off from populating the new worlds or setting their mark on them" A17
 	* "The French were Great Britain's most dangerous potential competitors, but their government was always likely to be distracted by its European continental commitments." A18
 	* "The British lacked missionary zeal ... they had no immediate urge to interfere with the native custom or institution" A19
@@ -49,6 +49,16 @@ course: HIST201
 	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution." A28
 	
 ## Idea Snippets Gathering	
+* => Overzelous expansion of Raison may lead to downfall A7
+* => too many countries Raisoning may lead to countries unrestrained by morality A8
+* => Being contemptuous of the values of other societies bring disasters A9
+* => greed lead to unconcious crimes A10
+* => Europe's technical superiority turned the balance against historical civilzations A11
+* => Its advantageous to do business instead of doing brute territorialism A12
+* => HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
+* => No agreement? Fight! Eventually there will be one. A14
+* => all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
+* => Europeans conquered with a goal of assimilation A16
 * => European's colonization had strategic advantage A17
 * => Competition in colonies often set aside for mainland competition A18
 * => The britons did not want to assimilate in the Indeas A19
