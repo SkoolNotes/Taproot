@@ -17,13 +17,13 @@ course: HIST201
  
  ## Quotable Quotes
  * Kissinger
-	 *  "If the circumstances were reversed, we could equally be pro-German and anti-French." A1 => decisions purely based on political interest A1
-	 * "William was perfectly willing to negotiate with Louis XIV when he felt the balance of power could best be served by doing so." A2 => when interest is served, working with adversary is possible A2
-	 * "Agreeing on the importance of the balance of power did not, however, still British disputes about the best strategy to implement the policy. ... The Whigs argued that GB should engage only when balance threatened, and only long enough to remove threat; Tories argued that GB's duty was to _shape_ the balance of power." A3 => Brits wanted to preserve balance of power either by actively controlling for it or waiting for balance A3
-	* CLAIM: "Of course, in the end a balance of power always comes about de facto when several states interact." A4 => balance of power whether ye wanted or not A4
-	* "Power is too difficult to assess, and the willingness to vindicate it too various, to permit treating it as a reliable guide to international order. ... The balance of power inhibits the capacity to overthrow the international order" A5 => power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
-	* "Every king consoled himself with the thought that strengthening his own rule was the greatest possible contribution to the general peace, and left it to the ubiquitous invisible hand to justify his exertions - without limiting his ambitions." A6 => every king believes that acting in his self intrest strengthened general peace A6
-	* "But Louis XN gained no peace. of mind from security; he saw in it an opportunity for conquest. In his overzealous pursuit of raison d'etat, LouisXN alarmed the rest of Europe and brought together an anti-French coalition which, in the end, thwarted his design." A7 
+	 *  "If the circumstances were reversed, we could equally be pro-German and anti-French." A1
+	 * "William was perfectly willing to negotiate with Louis XIV when he felt the balance of power could best be served by doing so." A2
+	 * "Agreeing on the importance of the balance of power did not, however, still British disputes about the best strategy to implement the policy. ... The Whigs argued that GB should engage only when balance threatened, and only long enough to remove threat; Tories argued that GB's duty was to _shape_ the balance of power." A3
+	* CLAIM: "Of course, in the end a balance of power always comes about de facto when several states interact." A4
+	* "Power is too difficult to assess, and the willingness to vindicate it too various, to permit treating it as a reliable guide to international order. ... The balance of power inhibits the capacity to overthrow the international order" A5
+	* "Every king consoled himself with the thought that strengthening his own rule was the greatest possible contribution to the general peace, and left it to the ubiquitous invisible hand to justify his exertions - without limiting his ambitions." A6
+	* "But Louis XN gained no peace. of mind from security; he saw in it an opportunity for conquest. In his overzealous pursuit of raison d'etat, LouisXN alarmed the rest of Europe and brought together an anti-French coalition which, in the end, thwarted his design." A7
 	* "Thereby, France lost the advantage of having adversaries constrained by moral considerations ...  Once all states played by the same rules, gains became much more difficult to achieve" A8
 * Roberts
 	* "In the next four centuries, Christianity was often to have disastrous effects. Confident in the possession of the true religion, Europeans were impatient and contemptuous of the values and achievements of the peoples and civilizations they disturbed." A9
@@ -49,6 +49,12 @@ course: HIST201
 	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution." A28
 	
 ## Idea Snippets Gathering	
+* => decisions purely based on political interest A1
+* => when interest is served, working with adversary is possible A2
+* => Brits wanted to preserve balance of power either by actively controlling for it or waiting for balance A3
+* => balance of power whether ye wanted or not A4
+* => power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
+* => every king believes that acting in his self intrest strengthened general peace A6
 * => Overzelous expansion of Raison may lead to downfall A7
 * => too many countries Raisoning may lead to countries unrestrained by morality A8
 * => Being contemptuous of the values of other societies bring disasters A9
