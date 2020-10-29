@@ -1,0 +1,71 @@
+% Created 2020-10-29 Thu 14:24
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Exr0n}
+\date{\today}
+\title{Lin Alg flo 19}
+\hypersetup{
+ pdfauthor={Exr0n},
+ pdftitle={Lin Alg flo 19},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 27.1 (Org mode 9.3)},
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\section{Broader vector spaces}
+\label{sec:org292b16e}
+\begin{itemize}
+\item Doesn't have to be physics vectors
+\item maybe it's like matrices
+\item or linear maps themselves
+\end{itemize}
+\section{The Linear Map 0}
+\label{sec:org1fbf993}
+A linear map \(S = 0\) is a map where \(Su = 0 \forall u\).
+\section{Axler 3.A ex7}
+\label{sec:org3c3404f}
+Let \(w = Tv\).
+
+\subsection{If \(v = 0\) then}
+\label{sec:orgcf7939a}
+$$Tv = 0$$
+By Axler 3.11 (Maps take 0 to 0). Thus, \(\lambda\) can be anything in \(\mathbb F\).
+
+\subsection{Otherwise,}
+\label{sec:org95a76ea}
+\(\frac{1}{v} \in \mathbb F\) because the field has multiplicative inverses for all elements except 0.
+$$
+   Tv = w = \left( w \frac{1}{v} \right)v
+   $$
+Let \(\lambda = w \frac{1}{v}\), then
+$$ \lambda v = w \frac{1}{v} v = w $$
+which is in \(\mathbb F\) because \(w, \frac{1}{v} \in \mathbb F\) and fields are closed under multiplication.
+
+\section{Axler 3.A ex10}
+\label{sec:orgb4d7399}
+The additivity of a linear map \(T\) requires \(T(u+v) = Tu + Tv\). Because \(U \subset V, U \neq V\), there must be some element \(v \in V\) yet \(v \notin U\).
+
+For some element \(u \in U\),
+$$Tu + Tv = Su + 0 = Su$$
+Yet \(u+v \notin U\) because if it were, then \((u+v)+(-v) = v\) would be in \(U\). Thus,
+$$T(u+v) = 0$$
+
+Because for some \(u\) \(Su\neq 0\), additivity does not hold over \(T\) and thus the map is not linear.
+\end{document}
