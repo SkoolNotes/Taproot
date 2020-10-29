@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4389)}}    % original
-%\rhead{\textrmlf{Compiled }\#4389\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4389\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4392)}}    % original
+%\rhead{\textrmlf{Compiled }\#4392\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4392\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -215,7 +215,7 @@ Because \(U \subset V, U \neq V\), there must be some element
 \(v \in V\) yet \(v \notin U\).
 
 For some element \(u \in U\), \[Tu + Tv = Su + 0 = Su\] Yet
-\(u+v \notin U\) because if it were, then \((u+v)+(-v) \implies v\)
-would be in \(U\). \[T(u+v) = 0\]
+\(u+v \notin U\) because if it were, then \((u+v)+(-v) = v\) would be in
+\(U\). Thus, \[T(u+v) = 0\]
 
 \end{document}
