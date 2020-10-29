@@ -32,10 +32,10 @@ course: HIST201
 	* "The obscuring of the Company's primary commercial role was not good for business. It also gave its employees even greater opportunities to feather their own nests. ... the British government hoped as fervently as the Company to avoid being dragged any further into the role of imperial power in India." => Its advantageous to do business instead of doing brute territorialism
 	* "The huge and growing Caribbean market for slaves and imported European goods was added to that already offered by a Spanish empire increasingly unable to defend its economic monopoly. This fixed the role of the West Indies in the relationships of the European powers for the next century. ... They were long a prey to disorder" => HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas
 	* "Gradually, the great powers fought out their disputes until they arrived at acceptable agreements, but this was to take a long time." => No agreement? Fight! Eventually there will be one.
-	* "The flow of silver to Spain was the most obvious, and this had, of course, implications for the European economy as a whole and even for Asia. [England's] growing [of] colonial populations also helped to stimulate European exports and manufactures." => Spain got economic 
-	* "Europeans did not just conquer; they exterminated local cultures and peoples and replaced them with their own"
-	* "Older cultures were to be cut off from populating the new worlds or setting their mark on them"
-	* "The French were Great Britain's most dangerous potential competitors, but their government was always likely to be distracted by its European continental commitments."
+	* "All the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies" => all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies
+	* "Europeans did not just conquer; they exterminated local cultures and peoples and replaced them with their own" => Europeans conquered with a goal of assimilation
+	* "Older cultures were to be cut off from populating the new worlds or setting their mark on them" => European's colonization had strategic advantage
+	* "The French were Great Britain's most dangerous potential competitors, but their government was always likely to be distracted by its European continental commitments." => 
 	* "The British lacked missionary zeal ... they had no immediate urge to interfere with the native custom or institution"
 	* "Before its outbreak, there had in fact been no remission of fighting in India, even while France and Great Britain were officially at peace after 1748."
 	* "The possession of a station at Calcutta placed them at the door to that part of India which was potentially the richest prize - Bengal and the lower Ganges valley."
