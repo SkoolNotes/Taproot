@@ -116,9 +116,9 @@ course: HIST201
 ## Defluffifying
 *Although the European balance of power does lead to frequent competitive conflict — like that between France and England — it ultimately is both naturally unavoidable and the best outcome for generally peaceful international policy*
 
-* Point a 
-* Point b
-* Point c
+* European BOP lead to frequent conflict
+* BOP is naturally unavoidable
+* It is, ultimately, the best possible strategy for peaceable international policy
 
 So what? SO WHAT
 
