@@ -89,7 +89,7 @@ course: HIST201
 
 
 ## Claim Synthesis
-*Although the European balance of power does lead to frequent competitive conflict — like that between France and England — it ultimately is both natural and unavoidable and is the best outcome for generally peaceful international*
+*Although the European balance of power does lead to frequent competitive conflict — like that between France and England — it ultimately is both naturally unavoidable and the best outcome for generally peaceful international policy*
 
 - How THING THAT ATTACKS INTERGRITY OF CLAIM
 	- EVIDENCE and SPECIFICITY
