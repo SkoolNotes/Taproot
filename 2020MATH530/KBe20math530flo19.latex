@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4373)}}    % original
-%\rhead{\textrmlf{Compiled }\#4373\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4373\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4374)}}    % original
+%\rhead{\textrmlf{Compiled }\#4374\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4374\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -178,5 +178,10 @@
 \item
   or linear maps themselves
 \end{itemize}
+
+\hypertarget{axler-3.a-ex7}{%
+\section{Axler 3.A ex7}\label{axler-3.a-ex7}}
+
+If \(v = 0\) then \[Tv = 0\] By Axler 3.11 (Maps take 0 to 0)
 
 \end{document}
