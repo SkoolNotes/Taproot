@@ -40,8 +40,8 @@ course: HIST201
 	* "Before its outbreak, there had in fact been no remission of fighting in India, even while France and Great Britain were officially at peace after 1748." => Before the 7 years war, Britian and France still fought even nominally at peace
 	* "The possession of a station at Calcutta placed them at the door to that part of India which was potentially the richest prize - Bengal and the lower Ganges valley." => Britian's aquisition of Calcutta train station was beneficial
 * Mason
-	* "A long struggle between Parliament and the Stuart kings [in England?] and essentially replaced the absolute monarchy with a constitutional monarchy" => 
-	* "'Sovereign power resides in my person alone .... It is from me alone that my policies take their existence and their authority'"
+	* "A long struggle between Parliament and the Stuart kings [in England?] and essentially replaced the absolute monarchy with a constitutional monarchy" => England's Abs. Mon. replaced with constitutional monarchy
+	* "'Sovereign power resides in my person alone .... It is from me alone that my policies take their existence and their authority'" => old France got power from the King alone
 	* "European monarchies had consciously pursued a policy of the balance of power, a system of shifting international alliances that prevented any one country from becoming too powerful"
 	* "Wars were fought not so much for ideology or nationalism but to maintain the balance of power ... The victor did not want to crush the vanquished"
 	* "Napoleon formed mass armies and led them into other countries to spread the ideas of the Revolution and to enhance his own power"
