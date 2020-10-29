@@ -64,6 +64,8 @@ course: HIST201
 	* Competition in colonies often set aside for mainland competition A18
 	* HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
 	* Napoleon changed wars into a war of ideology A28
+	* Britian's aquisition of Calcutta train station was beneficial A21
+	* Opposite: Europeans conquered with a goal of assimilation A16
 	* power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
 
 * wars are fought for BOP A25
@@ -82,8 +84,7 @@ course: HIST201
 		* French Rev shaked europe A27
 	
 * Its advantageous to do business instead of doing brute territorialism A12
-	* Britian's aquisition of Calcutta train station was beneficial A21
-	* The britons did not want to assimilate in the Indeas A19 || opposite: Europeans conquered with a goal of assimilation A16
+	* The britons did not want to assimilate in the Indeas A19 
 	* when interest is served, working with adversary is possible A2
 	* Being contemptuous of the values of other societies bring disasters A9
 
@@ -107,7 +108,9 @@ course: HIST201
 		* How did he fade? (FIND QUOTE: "He got balance-of-powered" This is in mason. Search for the word "banished") 
 		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but from (FIND QUOTE: discontempt Louis to more accepted Louis)
 * This whole sherade is the best possible outcome anyways
-	* 
+	* They were not constantly fighting, The britons did not want to assimilate in the Indeas A19
+	* When interest is served, working with adversary is possible A2.
+	* When doing balance of power, 
 
 	
 ## Defluffifying
