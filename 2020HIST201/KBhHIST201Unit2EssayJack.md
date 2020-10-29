@@ -34,10 +34,10 @@ course: HIST201
 	* "Gradually, the great powers fought out their disputes until they arrived at acceptable agreements, but this was to take a long time." A14 => No agreement? Fight! Eventually there will be one. A14
 	* "All the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies" A15 => all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
 	* "Europeans did not just conquer; they exterminated local cultures and peoples and replaced them with their own" A16 => Europeans conquered with a goal of assimilation A16
-	* "Older cultures were to be cut off from populating the new worlds or setting their mark on them" A17 => European's colonization had strategic advantage A17
-	* "The French were Great Britain's most dangerous potential competitors, but their government was always likely to be distracted by its European continental commitments." A18 => Competition in colonies often set aside for mainland competition A18
+	* "Older cultures were to be cut off from populating the new worlds or setting their mark on them" A17
+	* "The French were Great Britain's most dangerous potential competitors, but their government was always likely to be distracted by its European continental commitments." A18
 	* "The British lacked missionary zeal ... they had no immediate urge to interfere with the native custom or institution" A19
-	* "Before its outbreak, there had in fact been no remission of fighting in India, even while France and Great Britain were officially at peace after 1748." A20 => Before the 7 years war, Britian and France still fought even nominally at peace A20
+	* "Before its outbreak, there had in fact been no remission of fighting in India, even while France and Great Britain were officially at peace after 1748." A20
 	* "The possession of a station at Calcutta placed them at the door to that part of India which was potentially the richest prize - Bengal and the lower Ganges valley." A21
 * Mason
 	* "A long struggle between Parliament and the Stuart kings [in England?] and essentially replaced the absolute monarchy with a constitutional monarchy" A22
@@ -49,7 +49,10 @@ course: HIST201
 	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution." A28
 	
 ## Idea Snippets Gathering	
-*  => The britons did not want to assimilate in the Indeas A19
+* => European's colonization had strategic advantage A17
+* => Competition in colonies often set aside for mainland competition A18
+* => The britons did not want to assimilate in the Indeas A19
+* => Before the 7 years war, Britian and France still fought even nominally at peace A20
 *  => Britian's aquisition of Calcutta train station was beneficial A21
 *  => England's Abs. Mon. replaced with constitutional monarchy A22
 *  => old France got power from the King alone A23
