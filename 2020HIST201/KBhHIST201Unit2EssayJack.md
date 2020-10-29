@@ -124,27 +124,7 @@ So what? SO WHAT
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**RESTATED CLAIM**
-
-## Outline
-- Claim 1: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
-- Claim 2: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
-- Claim 3: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
+**The European Balance-of-Power**
 
 ***
 
