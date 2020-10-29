@@ -49,34 +49,34 @@ course: HIST201
 	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution." A28
 	
 ## Idea Snippets Gathering	
-* => decisions purely based on political interest A1
-* => when interest is served, working with adversary is possible A2
-* => Brits wanted to preserve balance of power either by actively controlling for it or waiting for balance A3
-* => balance of power whether ye wanted or not A4
-* => power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
-* => every king believes that acting in his self intrest strengthened general peace A6
-* => Overzelous expansion of Raison may lead to downfall A7
-* => too many countries Raisoning may lead to countries unrestrained by morality A8
-* => Being contemptuous of the values of other societies bring disasters A9
-* => greed lead to unconcious crimes A10
-* => Europe's technical superiority turned the balance against historical civilzations A11
-* => Its advantageous to do business instead of doing brute territorialism A12
-* => HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
-* => No agreement? Fight! Eventually there will be one. A14
-* => all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
-* => Europeans conquered with a goal of assimilation A16
-* => European's colonization had strategic advantage A17
-* => Competition in colonies often set aside for mainland competition A18
-* => The britons did not want to assimilate in the Indeas A19
-* => Before the 7 years war, Britian and France still fought even nominally at peace A20
-*  => Britian's aquisition of Calcutta train station was beneficial A21
-*  => England's Abs. Mon. replaced with constitutional monarchy A22
-*  => old France got power from the King alone A23
-*  => Europeans intentionally set up goverment to prevent one from being too powerful A24
-*  => wars are fought for BOP A25
-*  => napolean tried to spread ideas of the revolution A26
-*  => French Rev shaked europe A27
-*  => Napoleon changed wars into a war of ideology A28
+* decisions purely based on political interest A1
+* when interest is served, working with adversary is possible A2
+* Brits wanted to preserve balance of power either by actively controlling for it or waiting for balance A3
+* balance of power whether ye wanted or not A4
+* power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
+* every king believes that acting in his self intrest strengthened general peace A6
+* Overzelous expansion of Raison may lead to downfall A7
+* too many countries Raisoning may lead to countries unrestrained by morality A8
+* Being contemptuous of the values of other societies bring disasters A9
+* greed lead to unconcious crimes A10
+* Europe's technical superiority turned the balance against historical civilzations A11
+* Its advantageous to do business instead of doing brute territorialism A12
+* HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
+* No agreement? Fight! Eventually there will be one. A14
+* all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
+* Europeans conquered with a goal of assimilation A16
+* European's colonization had strategic advantage A17
+* Competition in colonies often set aside for mainland competition A18
+* The britons did not want to assimilate in the Indeas A19
+* Before the 7 years war, Britian and France still fought even nominally at peace A20
+* Britian's aquisition of Calcutta train station was beneficial A21
+* England's Abs. Mon. replaced with constitutional monarchy A22
+* old France got power from the King alone A23
+* Europeans intentionally set up goverment to prevent one from being too powerful A24
+* wars are fought for BOP A25
+* napolean tried to spread ideas of the revolution A26
+* French Rev shaked europe A27
+* Napoleon changed wars into a war of ideology A28
 	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
