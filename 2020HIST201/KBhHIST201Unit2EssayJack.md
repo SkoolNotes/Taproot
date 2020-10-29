@@ -46,6 +46,7 @@ course: HIST201
 	* "Napoleon formed mass armies and led them into other countries to spread the ideas of the Revolution and to enhance his own power" A26
 	* "The French Revolution and the Napoleonic wars had unleashed forces that would shake the foundations of European society. " A27
 	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution." A28
+	* "The victor did not want to crush the vanquished, as this would upset the balance; in any case, the defeated state might be a future ally." A29
 	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
