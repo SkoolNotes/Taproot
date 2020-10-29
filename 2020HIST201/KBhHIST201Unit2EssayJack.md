@@ -42,11 +42,15 @@ course: HIST201
 * Mason
 	* "A long struggle between Parliament and the Stuart kings [in England?] and essentially replaced the absolute monarchy with a constitutional monarchy" => England's Abs. Mon. replaced with constitutional monarchy
 	* "'Sovereign power resides in my person alone .... It is from me alone that my policies take their existence and their authority'" => old France got power from the King alone
-	* "European monarchies had consciously pursued a policy of the balance of power, a system of shifting international alliances that prevented any one country from becoming too powerful" => 
-	* "Wars were fought not so much for ideology or nationalism but to maintain the balance of power ... The victor did not want to crush the vanquished"
-	* "Napoleon formed mass armies and led them into other countries to spread the ideas of the Revolution and to enhance his own power"
-	* "The French Revolution and the Napoleonic wars had unleashed forces that would shake the foundations of European society. "
-	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution."
+	* "European monarchies had consciously pursued a policy of the balance of power, a system of shifting international alliances that prevented any one country from becoming too powerful" => Europeans intentionally set up goverment to prevent one from being too powerful
+	* "Wars were fought not so much for ideology or nationalism but to maintain the balance of power ... The victor did not want to crush the vanquished" => wars are fought for BOP
+	* "Napoleon formed mass armies and led them into other countries to spread the ideas of the Revolution and to enhance his own power" => napolean tried to spread ideas of the revolution
+	* "The French Revolution and the Napoleonic wars had unleashed forces that would shake the foundations of European society. " => 
+	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution." => Napoleon changed wars into a war of ideology
+	
+* Balance of power only encourages fighting when provoked
+* Entropy, so people provoke
+* But ultimately its more stable than old world empires	
 	
 * It encourages fighting, but that's unavoidable
 	* Competing resources
