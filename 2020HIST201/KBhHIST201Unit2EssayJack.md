@@ -84,7 +84,7 @@ course: HIST201
 	
 * Its advantageous to do business instead of doing brute territorialism A12
 	* The britons did not want to assimilate in the Indeas A19 
-	* when interest is served, working with adversary is possible A2
+	* when interest is served, working with adversary is possible A2. Did not want to crush enemy in hopes of not hurting future collab A29
 	* Being contemptuous of the values of other societies bring disasters A9
 	* power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
 
@@ -110,7 +110,7 @@ course: HIST201
 * This whole sherade is the best possible outcome anyways
 	* Its advantageous to do business instead of doing brute territorialism A12, which BOP prevents (sharing! balance! best interest!)
 		* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests
-		* Good outcome for future collab: when interest is served, working with adversary is possible A2. Also a quote in Roberts (FIND QUOTE: enemy NEAR future)
+		* Good outcome for future collab: when interest is served, working with adversary is possible A2. Did not want to crush enemy in hopes of not hurting future collab A29.
 	* power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
 
 	
