@@ -89,7 +89,7 @@ course: HIST201
 
 
 ## Claim Synthesis
-*CLAIM*
+*Although balance of power does lead to *
 
 - How THING THAT ATTACKS INTERGRITY OF CLAIM
 	- EVIDENCE and SPECIFICITY
