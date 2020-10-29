@@ -52,27 +52,29 @@ course: HIST201
 * decisions purely based on political interest A1
 * when interest is served, working with adversary is possible A2
 * Europe's technical superiority turned the balance against historical civilzations A11
-* wars are fought for BOP A25
-* balance of power whether ye wanted or not A4
 * power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
 * every king believes that acting in his self intrest strengthened general peace A6
 
 * Brits wanted to preserve balance of power either by actively controlling for it or waiting for balance A3
 * old France (more stable) got power from the King alone A23
-* Overzelous expansion of Raison may lead to downfall A7
-* too many countries Raisoning may lead to countries unrestrained by morality A8
 * greed lead to unconcious crimes A10
+* Before the 7 years war, Britian and France still fought even nominally at peace A20
 * England's Abs. Mon. replaced with constitutional monarchy A22
 
-* Its advantageous to do business instead of doing brute territorialism A12
 * Britian's aquisition of Calcutta train station was beneficial A21
 * The britons did not want to assimilate in the Indeas A19
 * Europeans conquered with a goal of assimilation A16
 * European's colonization had strategic advantage A17
-* No agreement? Fight! Eventually there will be one. A14
+
+* Its advantageous to do business instead of doing brute territorialism A12
+
+* balance of power whether ye wanted or not A4
+	* No agreement? Fight! Eventually there will be one. A14
+	* wars are fought for BOP A25
+	* too many countries Raisoning may lead to countries unrestrained by morality A8
+	* Even trying to balance power may lead to problems => overzelous expansion of Raison may lead to downfall A7
 
 * Being contemptuous of the values of other societies bring disasters A9
-* Before the 7 years war, Britian and France still fought even nominally at peace A20
 * HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
 * all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
 * Europeans intentionally set up goverment to prevent one from being too powerful A24
