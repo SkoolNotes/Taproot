@@ -94,7 +94,7 @@ course: HIST201
 *Although the European balance of power does lead to frequent competitive conflict — like that between France and England — it ultimately is both naturally unavoidable and the best outcome for generally peaceful international policy*
 
 * BOP is brutal
-	* European nations, through its colonization and takeover attempts, leverages its 
+	* European nations, leverages its technical superiority 
 
 	
 ## Defluffifying
