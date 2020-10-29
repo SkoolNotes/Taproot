@@ -49,6 +49,7 @@ course: HIST201
 	* "The victor did not want to crush the vanquished, as this would upset the balance; in any case, the defeated state might be a future ally." A29
 	* "Louis XVIII issued a constitutional charter that incorporated many of the changes that had entered into French life and society since 1789" A30
 	* "An inefficient system of taxation made it difficult for the monarchy to raise the money it needed. ... Between 1726 and 1789, the cost of living increased by 62 percent, whereas wages rose by only 25 percent." A31 
+	* "Napoleon, whose military fortunes began to wane. 
 	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
