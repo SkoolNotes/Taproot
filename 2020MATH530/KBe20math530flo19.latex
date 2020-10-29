@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4394)}}    % original
-%\rhead{\textrmlf{Compiled }\#4394\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4394\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4395)}}    % original
+%\rhead{\textrmlf{Compiled }\#4395\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4395\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -184,8 +184,9 @@
 
 A linear map \(S = 0\) is a map where \(Su = 0 \forall u\).
 
-\hypertarget{axler-3.a-ex7}{%
-\section{Axler 3.A ex7}\label{axler-3.a-ex7}}
+\hypertarget{axler-3.a-ex7-w-vienna-mason}{%
+\section{Axler 3.A ex7 (w/ Vienna +
+Mason)}\label{axler-3.a-ex7-w-vienna-mason}}
 
 Let \(w = Tv\).
 
@@ -207,8 +208,9 @@ inverses for all elements except 0. \[
 \(w, \frac{1}{v} \in \mathbb F\) and fields are closed under
 multiplication.
 
-\hypertarget{axler-3.a-ex10}{%
-\section{Axler 3.A ex10}\label{axler-3.a-ex10}}
+\hypertarget{axler-3.a-ex10-w-vienna-mason}{%
+\section{Axler 3.A ex10 (w/ Vienna +
+Mason)}\label{axler-3.a-ex10-w-vienna-mason}}
 
 The additivity of a linear map \(T\) requires \(T(u+v) = Tu + Tv\).
 Because \(U \subset V, U \neq V\), there must be some element

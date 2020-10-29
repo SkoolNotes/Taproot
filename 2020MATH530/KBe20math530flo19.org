@@ -6,7 +6,7 @@
   - or linear maps themselves
 * The Linear Map 0
   A linear map $S = 0$ is a map where $Su = 0 \forall u$.
-* Axler 3.A ex7
+* Axler 3.A ex7 (w/ Vienna + Mason)
   Let $w = Tv$.
 
 ** If $v = 0$ then
@@ -22,7 +22,7 @@
    $$ \lambda v = w \frac{1}{v} v = w $$
    which is in $\mathbb F$ because $w, \frac{1}{v} \in \mathbb F$ and fields are closed under multiplication.
 
-* Axler 3.A ex10
+* Axler 3.A ex10 (w/ Vienna + Mason)
   The additivity of a linear map $T$ requires $T(u+v) = Tu + Tv$. Because $U \subset V, U \neq V$, there must be some element $v \in V$ yet $v \notin U$.
 
   For some element $u \in U$,
