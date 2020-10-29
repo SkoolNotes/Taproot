@@ -48,6 +48,7 @@ course: HIST201
 	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution." A28
 	* "The victor did not want to crush the vanquished, as this would upset the balance; in any case, the defeated state might be a future ally." A29
 	* "Louis XVIII issued a constitutional charter that incorporated many of the changes that had entered into French life and society since 1789" A30
+	* "An inefficient system of taxation made it difficult for the monarchy to raise the money it needed. ... Between 1726 and 1789, the cost of living increased by 62 percent, whereas wages rose by only 25 percent." A31 
 	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
@@ -80,6 +81,7 @@ course: HIST201
 	* No agreement? Fight! Eventually there will be one. A14
 	* Europeans intentionally set up goverment to prevent one from being too powerful A24
 	* Napoleon being napolean
+		* France is looking pretty grim A31 
 		* napolean tried to spread ideas of the revolution A26
 		* French Rev shaked europe A27
 		* Bloodshead or whatever, but eventually we got there and got a better policy A30
@@ -105,11 +107,12 @@ course: HIST201
 	* No agreement? Fight! Eventually there will be one. A14
 	* Because europeans intentionally set up goverment to prevent one from being too powerful A24
 	* What adjustments? Tracing Napolean:
-		* France was baaad:  
+		* France was baaad: A31
+		* The Enlightment happpened (need quote?) Which seeks to BOP
+			* French Rev shaked europe A27
 		* napolean tried to spread ideas of the revolution A26
-		* French Rev shaked europe A27
 		* How did he fade? (FIND QUOTE: "He got balance-of-powered" This is in mason. Search for the word "banished") 
-		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but it is from
+		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but it is from A31 Louis to A30
 * This whole sherade is the best possible outcome anyways
 	* Its advantageous to do business instead of doing brute territorialism A12, which BOP prevents (sharing! balance! best interest!)
 		* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests
