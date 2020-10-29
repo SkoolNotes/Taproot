@@ -68,6 +68,12 @@ course: HIST201
 	* French Rev shaked europe A27
 	* Napoleon changed wars into a war of ideology A28
 
+* power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
+	* Europe's technical superiority turned the balance against historical civilzations A11
+	* every king believes that acting in his self intrest strengthened general peace A6
+	* all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
+	* greed lead to unconcious crimes A10
+
 * Its advantageous to do business instead of doing brute territorialism A12
 	* Britian's aquisition of Calcutta train station was beneficial A21
 	* The britons did not want to assimilate in the Indeas A19 || opposite: Europeans conquered with a goal of assimilation A16
@@ -81,20 +87,13 @@ course: HIST201
 	* Even trying to balance power may lead to problems => overzelous expansion of Raison may lead to downfall A7
 	* Before the 7 years war, Britian and France still fought even nominally at peace A20
 	
-* power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
-	* Europe's technical superiority turned the balance against historical civilzations A11
-	* every king believes that acting in his self intrest strengthened general peace A6
-	* all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
-	* greed lead to unconcious crimes A10
+
 
 
 ## Claim Synthesis
 *Although the European balance of power does lead to frequent competitive conflict — like that between France and England — it ultimately is both naturally unavoidable and the best outcome for generally peaceful international policy*
 
-- How THING THAT ATTACKS INTERGRITY OF CLAIM
-	- EVIDENCE and SPECIFICITY
-- So what (local), THING THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS THE BROADER PICTURE
-
+* BOP 
 
 	
 ## Defluffifying
