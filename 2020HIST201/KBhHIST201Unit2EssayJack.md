@@ -14,7 +14,6 @@ course: HIST201
 ## Prompt
  In the end, did the European balance of power succeed in its goal to, as Kissinger puts it, limit conflict and produce the “best possible outcome” from flawed human nature? Or did it magnify conflict and increase the likelihood of global war?
  
- 
  ## Quotable Quotes
  * Kissinger
 	 *  "If the circumstances were reversed, we could equally be pro-German and anti-French." A1
@@ -110,12 +109,12 @@ course: HIST201
 * This whole sherade is the best possible outcome anyways
 	* Its advantageous to do business instead of doing brute territorialism A12, which BOP prevents (sharing! balance! best interest!)
 		* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests
-		* Good outcome for future collab: when interest is served, working with adversary is possible A2.
+		* Good outcome for future collab: when interest is served, working with adversary is possible A2. Also a quote in Roberts (FIND QUOTE: enemy NEAR future)
 	* power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
 
 	
 ## Defluffifying
-CHOSEN THESIS CLAIM
+*Although the European balance of power does lead to frequent competitive conflict — like that between France and England — it ultimately is both naturally unavoidable and the best outcome for generally peaceful international policy*
 
 * Point a 
 * Point b
