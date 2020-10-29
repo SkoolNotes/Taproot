@@ -48,10 +48,25 @@ course: HIST201
 	* "The French Revolution and the Napoleonic wars had unleashed forces that would shake the foundations of European society. " A27
 	* "Napoleon had changed the nature of warfare in Europe by conscripting huge armies and infusing them with a commitment to fight for France and for 'liberty, equality, and fraternity,' the slogan of the Revolution." A28
 	
+* Balance of power only encourages fighting when provoked
+* Entropy, so people provoke
+* But ultimately its more stable than old world empires	
+	
+* It encourages fighting, but that's unavoidable
+	* Competing resources
+	* Competing land
+	* Competing trade 
+	
 ## Idea Snippets Gathering	
-*
-* old France got power from the King alone A23
-* European's colonization had strategic advantage A17
+* Unquoted
+	* old France got power from the King alone A23
+	* European's colonization had strategic advantage A17
+	* HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
+	* Europeans intentionally set up goverment to prevent one from being too powerful A24
+	* Competition in colonies often set aside for mainland competition A18
+	* napolean tried to spread ideas of the revolution A26
+	* French Rev shaked europe A27
+	* Napoleon changed wars into a war of ideology A28
 
 * Its advantageous to do business instead of doing brute territorialism A12
 	* Britian's aquisition of Calcutta train station was beneficial A21
@@ -69,25 +84,9 @@ course: HIST201
 * power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
 	* Europe's technical superiority turned the balance against historical civilzations A11
 	* every king believes that acting in his self intrest strengthened general peace A6
+	* all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
 	* greed lead to unconcious crimes A10
 
-* HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
-* all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
-* Europeans intentionally set up goverment to prevent one from being too powerful A24
-
-* Competition in colonies often set aside for mainland competition A18
-* napolean tried to spread ideas of the revolution A26
-* French Rev shaked europe A27
-* Napoleon changed wars into a war of ideology A28
-	
-* Balance of power only encourages fighting when provoked
-* Entropy, so people provoke
-* But ultimately its more stable than old world empires	
-	
-* It encourages fighting, but that's unavoidable
-	* Competing resources
-	* Competing land
-	* Competing trade 
 
 ## Claim Synthesis (Babingtonization)
 ### Development phase – How and So-What
