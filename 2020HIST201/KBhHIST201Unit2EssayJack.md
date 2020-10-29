@@ -124,7 +124,7 @@ So what? SO WHAT
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**Although the European Balance-of-Power leads to frequent "adjustments" of balance in the shape of minor conflicts, this system is both naturally unavoidable during competi and **
+**Although the European Balance-of-Power leads to frequent "adjustments" of balance in the shape of minor conflicts, this system is both naturally unavoidable given the European situation and ultimate the best strategy for generally peaceable international policy.**
 
 ***
 
