@@ -94,10 +94,11 @@ course: HIST201
 *Although the European balance of power does lead to frequent competitive conflict — like that between France and England — it ultimately is both naturally unavoidable and the best outcome for generally peaceful international policy*
 
 * To BOP, constant adjustments must be made, and they often involve conflict
-	* European nations, through leveraging its technical superiority, upset the balance of power in acient countries A11
-	* Every king believes that acting in his self intrest strengthened general peace A6, but greed lead to unconcious crimes A10
+	* We got to our current Euro-centric world b/c European nations, through leveraging its technical superiority, upset the balance of power in acient countries A11
+	* They did they b/c our good friend Raison de etat. Every king believes that acting in his self intrest strengthened general peace A6, but greed lead to unconcious crimes A10
 	* Indeed, too many countries Raisoning may lead to countries unrestrained by morality A8 to achieve the bestest they could
-	* Before the 7 years war, Britian and France still fought even nominally at peace A20
+	* But to actually achieve "the best", we need to constantly adjust the balance:
+		* Before the 7 years war, Britian and France still fought even nominally at peace A20
 
 	
 ## Defluffifying
