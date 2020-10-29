@@ -74,12 +74,6 @@ course: HIST201
 	* Before the 7 years war, Britian and France still fought even nominally at peace A20
 	* all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15
 
-* Its advantageous to do business instead of doing brute territorialism A12
-	* Britian's aquisition of Calcutta train station was beneficial A21
-	* The britons did not want to assimilate in the Indeas A19 || opposite: Europeans conquered with a goal of assimilation A16
-	* when interest is served, working with adversary is possible A2
-	* Being contemptuous of the values of other societies bring disasters A9
-
 * balance of power whether ye wanted or not A4
 	* No agreement? Fight! Eventually there will be one. A14
 	* HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
@@ -89,6 +83,12 @@ course: HIST201
 		* Napoleon changed wars into a war of ideology A28
 	* Even trying to balance power may lead to problems => overzelous expansion of Raison may lead to downfall A7
 	
+* Its advantageous to do business instead of doing brute territorialism A12
+	* Britian's aquisition of Calcutta train station was beneficial A21
+	* The britons did not want to assimilate in the Indeas A19 || opposite: Europeans conquered with a goal of assimilation A16
+	* when interest is served, working with adversary is possible A2
+	* Being contemptuous of the values of other societies bring disasters A9
+
 	
 ## Claim Synthesis
 *Although the European balance of power does lead to frequent competitive conflict — like that between France and England — it ultimately is both naturally unavoidable and the best outcome for generally peaceful international policy*
@@ -96,7 +96,8 @@ course: HIST201
 * To BOP, constant adjustments must be made, and they often involve conflict
 	* European nations, through leveraging its technical superiority, upset the balance of power in acient countries A11
 	* Every king believes that acting in his self intrest strengthened general peace A6, but greed lead to unconcious crimes A10
-	* Indeed, too many countries Raisoning may lead to countries unrestrained by morality A8
+	* Indeed, too many countries Raisoning may lead to countries unrestrained by morality A8 to achieve the bestest they could
+	* Before the 7 years war, Britian and France still fought even nominally at peace A20
 
 	
 ## Defluffifying
