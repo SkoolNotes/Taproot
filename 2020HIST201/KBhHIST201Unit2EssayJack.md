@@ -64,6 +64,7 @@ course: HIST201
 	* Europeans intentionally set up goverment to prevent one from being too powerful A24
 	* Competition in colonies often set aside for mainland competition A18
 	* HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
+	* Napoleon changed wars into a war of ideology A28
 	* power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
 
 * wars are fought for BOP A25
@@ -79,7 +80,6 @@ course: HIST201
 	* Napoleon being napolean
 		* napolean tried to spread ideas of the revolution A26
 		* French Rev shaked europe A27
-		* Napoleon changed wars into a war of ideology A28
 	
 * Its advantageous to do business instead of doing brute territorialism A12
 	* Britian's aquisition of Calcutta train station was beneficial A21
@@ -101,8 +101,10 @@ course: HIST201
 * These small adjustments are, although potentially brutal, completely necessary
 	* No agreement? Fight! Eventually there will be one. A14
 	* Tracing Napolean
-	
-	*  
+		* napolean tried to spread ideas of the revolution A26
+		* French Rev shaked europe A27
+		* How did he fade? (FIND QUOTE: "He got balance-of-powered" This is in mason. Search for the word "banished") 
+* 
 
 	
 ## Defluffifying
