@@ -143,7 +143,7 @@ So what? SO WHAT
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**Although the Balance-of-Power leads to frequent "adjustments" of balance in the shape of minor conflicts, this system is both unavoidable given the structure of Europe and ultimately a natural outcome of European structure that would not**
+**Although the Balance-of-Power leads to frequent "adjustments" of balance in the shape of minor conflicts, this system is a both unavoidable given the structure of Europe and ultimately suited only for the unique power dynamic of Europe**
 
 ***
 
