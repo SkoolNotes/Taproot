@@ -78,6 +78,7 @@ course: HIST201
 	* England, too + their overseas
 * Better BP3 =>
 * Perhaps Roman context?
+* France gave up on India after it lost the balance of Power
 	
 ## Idea Snippets Gathering	
 * Unquoted
