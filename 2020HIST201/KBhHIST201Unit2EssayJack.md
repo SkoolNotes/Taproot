@@ -54,6 +54,9 @@ course: HIST201
 	* "An inefficient system of taxation made it difficult for the monarchy to raise the money it needed. ... Between 1726 and 1789, the cost of living increased by 62 percent, whereas wages rose by only 25 percent." A31 
 	* "Napoleon's military fortunes began to wane ... The allied armies pressed on, entered Paris, and forced Napoleon to abdicate" A32
 	
+* Our Surprise Friend Kennedy
+	* Europe had always been politically fragmented, despite even the best efforts of the Romans,
+	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
 * But ultimately its more stable than old world empires	
