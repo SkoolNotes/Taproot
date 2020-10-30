@@ -129,9 +129,10 @@ course: HIST201
 			* napolean tried to spread ideas of the revolution A26
 			* How did he fade? He got balance-of-powered A32 again b/c he was being too good at this emperor-not-an-emperor thing.
 		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but it is from A31 Louis to A30 better Louis
+	* A33 Europe has always been geographically fragmented, so we gotta keep fighting	
 * BOP is heavily Euro-centric, and won't work elseware
 	* When the same countries were fighting in European and foreign wars, they would much rather do it in Europe
-		* Competition in French and English colony in India often set aside for mainland competition A18
+		* Competition in French and English colony in India often set aside for mainland competition A18, why? because of
 	* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests
 	* 
 
