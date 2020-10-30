@@ -156,7 +156,7 @@ So what? SO WHAT
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**Although the Balance-of-Power leads to frequent "adjustments" of balance in the shape of minor conflicts, this system is uniquely unavoidable in European politics (sounds like kennedy) and hence will not contribute to global war due to its European nature.**
+**Although the European balance of power does lead to frequent competitive conflict — like that between France and England — it ultimately is both naturally unavoidable in Europe and the best outcome for generally peaceful international policy**
 
 
 ***
