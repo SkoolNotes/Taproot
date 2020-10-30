@@ -134,7 +134,7 @@ course: HIST201
 * BOP is heavily Euro-centric, and won't work elseware
 	* When the same countries were fighting in European and foreign wars, they would much rather do it in Europe
 		* Competition in French and English colony in India often set aside for mainland competition A18, why? because of colonized land having A34 unique and large resources that make them easier to conqure
-		* A35: always a change of toleration in Europe, but not (EVIDENCE) in
+		* A35: always a chance of toleration in Europe, but not (EVIDENCE) in conquered places
 	* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests
 	* 
 
