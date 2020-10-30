@@ -57,7 +57,7 @@ course: HIST201
 * Our Surprise Friend Kennedy
 	* Europe had always been politically fragmented, despite even the best efforts of the Romans A33 => Europe is politically fragmented
 	* For this political diversity Europe had largely to thank its geography. There were no enormous plains over which an empire of horse men could impose its swift dominion; nor were there broad and fertile zones ... providing the food for masses of toiling and easily conquerable peasants A34 => Europe is A33 because of its unique geography
-	* The fact was that in Europe there were always some princes and local lords willing to tolerate merchants and their ways even when others plundered and expelled them A35 => Europe had mixed variety of local ideals
+	* The fact was that in Europe there were always some princes and local lords willing to tolerate merchants and their ways even when others plundered and expelled them A35 => Europe had mixed variety of local ideals that often conflicted with each other
 	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
