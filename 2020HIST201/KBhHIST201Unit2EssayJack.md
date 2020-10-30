@@ -63,6 +63,9 @@ course: HIST201
 	* Competing land
 	* Competing trade 
 	
+* BOP naturally create conflict
+* But these conflicts are still better/necessary than normal war
+	
 ## Idea Snippets Gathering	
 * Unquoted
 	* old France got power from the King alone A23
