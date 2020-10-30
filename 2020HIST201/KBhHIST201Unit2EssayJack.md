@@ -68,7 +68,7 @@ course: HIST201
 * BP 2
 	* Napolean
 	* England, too + their overseas
-* Better BP3 => 
+* Better BP3 =>
 	
 ## Idea Snippets Gathering	
 * Unquoted
@@ -143,7 +143,7 @@ So what? SO WHAT
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**Although the European Balance-of-Power leads to frequent "adjustments" of balance in the shape of minor conflicts, this system is both naturally unavoidable given the European situation and ultimate the best strategy for generally peaceable international policy.**
+**Although the Balance-of-Power leads to frequent "adjustments" of balance in the shape of minor conflicts, this system is both unavoidable given the European situation and ultimately a natural outcome of European structure that would not**
 
 ***
 
