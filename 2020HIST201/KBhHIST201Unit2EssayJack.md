@@ -55,7 +55,8 @@ course: HIST201
 	* "Napoleon's military fortunes began to wane ... The allied armies pressed on, entered Paris, and forced Napoleon to abdicate" A32
 	
 * Our Surprise Friend Kennedy
-	* Europe had always been politically fragmented, despite even the best efforts of the Romans,
+	* Europe had always been politically fragmented, despite even the best efforts of the Romans A33 => Europe is politically fragmented
+	* For this political diversity Europe had largely to thank its geography. There were no enormous plains over which an empire of horse men could impose its swift dominion; nor were there broad and fertile zones ... providing the food for masses of toiling and easily conquerable peasants A34 => Europe is A33 because of its 
 	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
