@@ -154,7 +154,7 @@ So what? SO WHAT
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**Although the European balance of power does lead to frequent competitive conflict through the constant adjustment of balance, it ultimately is naturally unavoidable due to the unique situation of Europe and the best outcome for generally peaceful international policy**
+**Although the European balance of power does lead to frequent competitive conflict through the constant adjustment of balance, it is naturally unavoidable due to the unique situation in Europe and ultimately the best outcome for generally peaceful international policy**
 
 1. Inevitable
 2. Natural and Unavoidable in Europe
