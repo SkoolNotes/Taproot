@@ -77,6 +77,7 @@ course: HIST201
 	* Napolean
 	* England, too + their overseas
 * Better BP3 =>
+* Perhaps Roman context?
 	
 ## Idea Snippets Gathering	
 * Unquoted
