@@ -125,7 +125,7 @@ course: HIST201
 	* But to actually achieve "the best", we need to constantly adjust the balance:
 		* Before the 7 years war, Britian and France still fought even nominally at peace A20
 		* all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15 
-* Why so much conflict?
+* Why so much conflict? =>   
 	* No agreement? Fight! Eventually there will be one. A14
 	* Because europeans intentionally set up goverment to prevent one from being too powerful A24
 	* What adjustments? Tracing Napolean:
