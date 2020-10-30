@@ -78,7 +78,6 @@ course: HIST201
 * Unquoted
 	* old France got power from the King alone A23
 	* European's colonization had strategic advantage A17
-	* Competition in colonies often set aside for mainland competition A18
 	* HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
 	* Napoleon changed wars into a war of ideology A28
 	* Britian's aquisition of Calcutta train station was beneficial A21
@@ -130,14 +129,14 @@ course: HIST201
 			* napolean tried to spread ideas of the revolution A26
 			* How did he fade? He got balance-of-powered A32 again b/c he was being too good at this emperor-not-an-emperor thing.
 		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but it is from A31 Louis to A30 better Louis
-	* Same thing in England too, after A22 replacement happened, England was always the mediator (QUOTENEEDED)
-	* 
 * BOP is heavily Euro-centric, and won't work elseware
-	* When the same countries were fighting in 
+	* When the same countries were fighting in European and foreign wars, they would much rather do it in Europe
+		* Competition in French and English colony in India often set aside for mainland competition A18
 	* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests
 	* 
 
-	
+<!--* England was always the mediator (QUOTENEEDED)-->
+
 ## Defluffifying
 *Although the European balance of power does lead to frequent competitive conflict — like that between France and England — it ultimately is both naturally unavoidable and evolved to fit European power dynamics*
 
