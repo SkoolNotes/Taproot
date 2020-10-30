@@ -15,6 +15,7 @@ course: HIST201
  In the end, did the European balance of power succeed in its goal to, as Kissinger puts it, limit conflict and produce the “best possible outcome” from flawed human nature? Or did it magnify conflict and increase the likelihood of global war?
  
  ## Quotable Quotes
+ 
  * Kissinger
 	 *  "If the circumstances were reversed, we could equally be pro-German and anti-French." A1
 	 * "William was perfectly willing to negotiate with Louis XIV when he felt the balance of power could best be served by doing so." A2
@@ -24,6 +25,7 @@ course: HIST201
 	* "Every king consoled himself with the thought that strengthening his own rule was the greatest possible contribution to the general peace, and left it to the ubiquitous invisible hand to justify his exertions - without limiting his ambitions." A6
 	* "But Louis XN gained no peace. of mind from security; he saw in it an opportunity for conquest. In his overzealous pursuit of raison d'etat, LouisXN alarmed the rest of Europe and brought together an anti-French coalition which, in the end, thwarted his design." A7
 	* "Thereby, France lost the advantage of having adversaries constrained by moral considerations ...  Once all states played by the same rules, gains became much more difficult to achieve" A8
+<!--	
 * Roberts
 	* "In the next four centuries, Christianity was often to have disastrous effects. Confident in the possession of the true religion, Europeans were impatient and contemptuous of the values and achievements of the peoples and civilizations they disturbed." A9
 	* "Greed quickly led to the abuse of power, to domination and exploitation by force. In the end this led to great crimes - though they were often committed unconsciously." A10
@@ -50,6 +52,7 @@ course: HIST201
 	* "Louis XVIII issued a constitutional charter that incorporated many of the changes that had entered into French life and society since 1789" A30
 	* "An inefficient system of taxation made it difficult for the monarchy to raise the money it needed. ... Between 1726 and 1789, the cost of living increased by 62 percent, whereas wages rose by only 25 percent." A31 
 	* "Napoleon's military fortunes began to wane ... The allied armies pressed on, entered Paris, and forced Napoleon to abdicate" A32
+	-->
 	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
