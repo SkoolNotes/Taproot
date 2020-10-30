@@ -59,6 +59,9 @@ course: HIST201
 	* For this political diversity Europe had largely to thank its geography. There were no enormous plains over which an empire of horse men could impose its swift dominion; nor were there broad and fertile zones ... providing the food for masses of toiling and easily conquerable peasants A34 => Europe is A33 because of its unique geography
 	* The fact was that in Europe there were always some princes and local lords willing to tolerate merchants and their ways even when others plundered and expelled them A35 => Europe had mixed variety of local ideals that often conflicted with each other
 	
+* Trauttmann, another big surprise
+	* The Company had in fact aimed at territorial dominion, following the Dutch mode A36 => 
+	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
 * But ultimately its more stable than old world empires	
@@ -136,7 +139,7 @@ course: HIST201
 		* Competition in French and English colony in India often set aside for mainland competition A18, why? because of colonized land having A34 unique and large resources that make them easier to conqure
 		* A35: in Europe, no unified ideas and hence constant fighting, but not in conquered places, which were mostly (and easily) controlled by one group (Mughals, India. Ming/Qing, China)
 	* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests => Raison de etat does not mean conflict! Just means conflict in European context
-	* 
+		*  
 
 <!--* England was always the mediator (QUOTENEEDED)-->
 
