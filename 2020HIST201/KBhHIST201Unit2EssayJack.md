@@ -142,7 +142,7 @@ So what? SO WHAT
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**Although the Balance-of-Power leads to frequent "adjustments" of balance in the shape of minor conflicts, this system is a unavoidable in European politics but will not contribute to global war due to its uniquely European nature.**
+**Although the Balance-of-Power leads to frequent "adjustments" of balance in the shape of minor conflicts, this system is a unavoidable in European politics (sounds like kennedy) but will not contribute to global war due to its uniquely European nature.**
 
 
 ***
