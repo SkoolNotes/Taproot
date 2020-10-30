@@ -60,7 +60,7 @@ course: HIST201
 	* The fact was that in Europe there were always some princes and local lords willing to tolerate merchants and their ways even when others plundered and expelled them A35 => Europe had mixed variety of local ideals that often conflicted with each other
 	
 * Trauttmann, another big surprise
-	* The Company had in fact aimed at territorial dominion, following the Dutch mode A36 => 
+	* The Company had in fact aimed at territorial dominion, following the Dutch mode A36 => In India, England (the Mediator!) elected to control land instead of doing balance-of-power
 	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
@@ -139,7 +139,7 @@ course: HIST201
 		* Competition in French and English colony in India often set aside for mainland competition A18, why? because of colonized land having A34 unique and large resources that make them easier to conqure
 		* A35: in Europe, no unified ideas and hence constant fighting, but not in conquered places, which were mostly (and easily) controlled by one group (Mughals, India. Ming/Qing, China)
 	* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests => Raison de etat does not mean conflict! Just means conflict in European context
-		*  
+		*  In India, England (the Mediator!) elected to control land instead of doing balance-of-power: A36
 
 <!--* England was always the mediator (QUOTENEEDED)-->
 
