@@ -125,7 +125,7 @@ course: HIST201
 	* But to actually achieve "the best", we need to constantly adjust the balance:
 		* Before the 7 years war, Britian and France still fought even nominally at peace A20
 		* all the colonial powers had, by the eighteenth century, been able to extract some economic profit from their colonies A15 
-* Why so much conflict? =>   
+* Why so much conflict? => conflict = balance readjustment 
 	* No agreement? Fight! Eventually there will be one. A14
 	* Because europeans intentionally set up goverment to prevent one from being too powerful A24
 	* What adjustments? Tracing Napolean:
@@ -134,14 +134,13 @@ course: HIST201
 			* French Rev shaked europe A27
 			* napolean tried to spread ideas of the revolution A26
 			* How did he fade? He got balance-of-powered A32 again b/c he was being too good at this emperor-not-an-emperor thing.
-		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but it is from A31 Louis to A30 better Louis
-	* A33 Europe has always been geographically fragmented, so one has to keep fighting to maintain balance	
-* BOP is heavily Euro-centric, and won't work elseware
+* It's fine, because its natural
+	* Napoleon example Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but it is from A31 Louis to A30 better Louis
 	* When the same countries were fighting in European and foreign wars, they would much rather do it in Europe
 		* Competition in French and English colony in India often set aside for mainland competition A18, why? because of colonized land having A34 unique and large resources that make them easier to conqure
 		* A35: in Europe, no unified ideas and hence constant fighting, but not in conquered places, which were mostly (and easily) controlled by one group (Mughals, India. Ming/Qing, China)
-	* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests => Raison de etat does not mean conflict! Just means conflict in European context
-		*  In India, England (the Mediator!) elected to control land instead of doing balance-of-power: A36
+	* A33 Europe has always been geographically fragmented, so one has to keep fighting to maintain balance	
+	*  In India, England (the Mediator!) elected to control land instead of doing balance-of-power: A36
 
 <!--* England was always the mediator (QUOTENEEDED)-->
 
