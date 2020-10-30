@@ -9,7 +9,7 @@ course: HIST201
 ## General Information
 | Due Date | Topic | Important Documents |
 | :-- | :-- | :-- |
-| Nov 9th, a Monday | French rev politiking | Henry the Kissinger, Mason, Roberts |
+| Nov 9th, a Monday | (ski-pie-di-scraper) BOP BOP BOP | Henry the Kissinger, Mason, Roberts, Surprise Kennedy, Surprise Trauttmann |
 
 ## Prompt
  In the end, did the European balance of power succeed in its goal to, as Kissinger puts it, limit conflict and produce the “best possible outcome” from flawed human nature? Or did it magnify conflict and increase the likelihood of global war?
