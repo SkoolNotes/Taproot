@@ -125,11 +125,12 @@ course: HIST201
 			* napolean tried to spread ideas of the revolution A26
 			* How did he fade? He got balance-of-powered A32 again b/c he was being too good at this emperor-not-an-emperor thing.
 		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but it is from A31 Louis to A30 better Louis
-	* Same thing in England two, after A22 replacement happened, England was always the mediator (QUOTENEEDED)
+	* Same thing in England too, after A22 replacement happened, England was always the mediator (QUOTENEEDED)
+		* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests
+	* Good outcome for future collab: when interest is served, working with adversary is possible A2. Did not want to crush enemy in hopes of not hurting future collab A29.
+
 * This whole sherade is the best possible outcome anyways
 	* Its advantageous to do business instead of doing brute territorialism A12, which BOP prevents (sharing! balance! best interest!)
-		* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests
-		* Good outcome for future collab: when interest is served, working with adversary is possible A2. Did not want to crush enemy in hopes of not hurting future collab A29.
 	* power in itself can't be used to gauge international order, but bop inhibits capacity to overthrow intl order A5
 
 	
