@@ -65,6 +65,8 @@ course: HIST201
 	
 * BOP naturally create conflict
 * But these conflicts are still better/necessary than normal war
+* BP 2
+	* 
 	
 ## Idea Snippets Gathering	
 * Unquoted
