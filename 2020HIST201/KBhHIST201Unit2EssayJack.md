@@ -78,7 +78,8 @@ course: HIST201
 	* HUN? Spain's cat-and-mouse game with defending its monopoly fixed the contry's stance in the Indeas A13
 	* Napoleon changed wars into a war of ideology A28
 	* Britian's aquisition of Calcutta train station was beneficial A21
-	* Opposite: Europeans conquered with a goal of assimilation A16
+	* Good outcome for future collab: when interest is served, working with adversary is possible A2. Did not want to crush enemy in hopes of not hurting future collab A29.
+
 
 * wars are fought for BOP A25
 	* Europe's technical superiority turned the balance against historical civilzations A11
@@ -126,8 +127,8 @@ course: HIST201
 			* How did he fade? He got balance-of-powered A32 again b/c he was being too good at this emperor-not-an-emperor thing.
 		* Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but it is from A31 Louis to A30 better Louis
 	* Same thing in England too, after A22 replacement happened, England was always the mediator (QUOTENEEDED)
-	* Good outcome for future collab: when interest is served, working with adversary is possible A2. Did not want to crush enemy in hopes of not hurting future collab A29.
-* BOP is heavily Euro-centric, and can't work elseware
+	* 
+* BOP is heavily Euro-centric, and won't work elseware
 	* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests
 
 	
