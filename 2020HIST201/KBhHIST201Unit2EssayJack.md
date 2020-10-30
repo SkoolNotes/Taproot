@@ -25,7 +25,7 @@ course: HIST201
 	* "Every king consoled himself with the thought that strengthening his own rule was the greatest possible contribution to the general peace, and left it to the ubiquitous invisible hand to justify his exertions - without limiting his ambitions." A6
 	* "But Louis XN gained no peace. of mind from security; he saw in it an opportunity for conquest. In his overzealous pursuit of raison d'etat, LouisXN alarmed the rest of Europe and brought together an anti-French coalition which, in the end, thwarted his design." A7
 	* "Thereby, France lost the advantage of having adversaries constrained by moral considerations ...  Once all states played by the same rules, gains became much more difficult to achieve" A8
-<!--	
+	
 * Roberts
 	* "In the next four centuries, Christianity was often to have disastrous effects. Confident in the possession of the true religion, Europeans were impatient and contemptuous of the values and achievements of the peoples and civilizations they disturbed." A9
 	* "Greed quickly led to the abuse of power, to domination and exploitation by force. In the end this led to great crimes - though they were often committed unconsciously." A10
@@ -40,6 +40,7 @@ course: HIST201
 	* "The British lacked missionary zeal ... they had no immediate urge to interfere with the native custom or institution" A19
 	* "Before its outbreak, there had in fact been no remission of fighting in India, even while France and Great Britain were officially at peace after 1748." A20
 	* "The possession of a station at Calcutta placed them at the door to that part of India which was potentially the richest prize - Bengal and the lower Ganges valley." A21
+
 * Mason
 	* "A long struggle between Parliament and the Stuart kings [in England?] and essentially replaced the absolute monarchy with a constitutional monarchy" A22
 	* "'Sovereign power resides in my person alone .... It is from me alone that my policies take their existence and their authority'" A23
@@ -52,7 +53,6 @@ course: HIST201
 	* "Louis XVIII issued a constitutional charter that incorporated many of the changes that had entered into French life and society since 1789" A30
 	* "An inefficient system of taxation made it difficult for the monarchy to raise the money it needed. ... Between 1726 and 1789, the cost of living increased by 62 percent, whereas wages rose by only 25 percent." A31 
 	* "Napoleon's military fortunes began to wane ... The allied armies pressed on, entered Paris, and forced Napoleon to abdicate" A32
-	-->
 	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
