@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4456)}}    % original
-%\rhead{\textrmlf{Compiled }\#4456\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4456\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4457)}}    % original
+%\rhead{\textrmlf{Compiled }\#4457\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4457\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -671,6 +671,17 @@ words as possible.
 \textbf{Although the European balance of power does lead to frequent
 competitive conflict, it ultimately is both naturally unavoidable in
 Europe and the best outcome for generally peaceful international policy}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Inevitable
+\item
+  Natural and Unavoidable in Europe
+\item
+  Ultimately lead to spead of liberalism/democracy
+\end{enumerate}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

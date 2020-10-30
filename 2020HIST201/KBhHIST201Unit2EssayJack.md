@@ -158,6 +158,10 @@ Now, defluffify by re-writing the three points + so what in as little words as p
 
 **Although the European balance of power does lead to frequent competitive conflict, it ultimately is both naturally unavoidable in Europe and the best outcome for generally peaceful international policy**
 
+1. Inevitable
+2. Natural and Unavoidable in Europe
+3. Ultimately lead to spead of liberalism/democracy 
+
 
 ***
 
