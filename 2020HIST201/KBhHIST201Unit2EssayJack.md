@@ -137,8 +137,8 @@ course: HIST201
 * It's fine, because its natural
 	* Napoleon example Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but it is from A31 Louis to A30 better Louis
 	* Competition in French and English colony in India often set aside for mainland competition A18, why? because of colonized land having A34 unique resources that make them easier to control
+		* A33 Europe has always been geographically fragmented, so one has to keep fighting to maintain balance	
 		* A35: in Europe, no unified ideas and hence constant fighting, but not in conquered places, which were mostly (and easily) controlled by one group (Mughals, India. Ming/Qing, China)
-	* A33 Europe has always been geographically fragmented, so one has to keep fighting to maintain balance	
 	*  In India, England (the Mediator!) elected to control land instead of doing balance-of-power: A36
 
 <!--* England was always the mediator (QUOTENEEDED)-->
@@ -154,7 +154,7 @@ So what? SO WHAT
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**Although the European balance of power does lead to frequent competitive conflict, it ultimately is both naturally unavoidable in Europe and the best outcome for generally peaceful international policy**
+**Although the European balance of power does lead to frequent competitive conflict through the frequent adjustment of balance, it ultimately is both naturally unavoidable in Europe and the best outcome for generally peaceful international policy**
 
 1. Inevitable
 2. Natural and Unavoidable in Europe
