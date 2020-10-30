@@ -136,8 +136,7 @@ course: HIST201
 			* How did he fade? He got balance-of-powered A32 again b/c he was being too good at this emperor-not-an-emperor thing.
 * It's fine, because its natural
 	* Napoleon example Net positive? Hard to tell. But! At that time, this was natural and inevitable: we got from Louis to Louis, but it is from A31 Louis to A30 better Louis
-	* When the same countries were fighting in European and foreign wars, they would much rather do it in Europe
-		* Competition in French and English colony in India often set aside for mainland competition A18, why? because of colonized land having A34 unique and large resources that make them easier to conqure
+	* Competition in French and English colony in India often set aside for mainland competition A18, why? because of colonized land having A34 unique and large resources that make them easier to conqure
 		* A35: in Europe, no unified ideas and hence constant fighting, but not in conquered places, which were mostly (and easily) controlled by one group (Mughals, India. Ming/Qing, China)
 	* A33 Europe has always been geographically fragmented, so one has to keep fighting to maintain balance	
 	*  In India, England (the Mediator!) elected to control land instead of doing balance-of-power: A36
