@@ -156,7 +156,7 @@ So what? SO WHAT
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**Although the European balance of power does lead to frequent competitive conflict — like that between France and England — it ultimately is both naturally unavoidable in Europe and the best outcome for generally peaceful international policy**
+**Although the European balance of power does lead to frequent competitive conflict, it ultimately is both naturally unavoidable in Europe and the best outcome for generally peaceful international policy**
 
 
 ***
