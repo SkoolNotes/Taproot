@@ -56,7 +56,7 @@ course: HIST201
 	
 * Our Surprise Friend Kennedy
 	* Europe had always been politically fragmented, despite even the best efforts of the Romans A33 => Europe is politically fragmented
-	* For this political diversity Europe had largely to thank its geography. There were no enormous plains over which an empire of horse men could impose its swift dominion; nor were there broad and fertile zones ... providing the food for masses of toiling and easily conquerable peasants A34 => Europe is A33 because of its 
+	* For this political diversity Europe had largely to thank its geography. There were no enormous plains over which an empire of horse men could impose its swift dominion; nor were there broad and fertile zones ... providing the food for masses of toiling and easily conquerable peasants A34 => Europe is A33 because of its unique geography
 	
 * Balance of power only encourages fighting when provoked
 * Entropy, so people provoke
@@ -133,7 +133,9 @@ course: HIST201
 	* Same thing in England too, after A22 replacement happened, England was always the mediator (QUOTENEEDED)
 	* 
 * BOP is heavily Euro-centric, and won't work elseware
+	* When the same countries were fighting in 
 	* The big-BOP Britons did not want to assimilate in the Indeas A19 when it is not in their intrests
+	* 
 
 	
 ## Defluffifying
@@ -147,7 +149,7 @@ So what? SO WHAT
 
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
-**Although the Balance-of-Power leads to frequent "adjustments" of balance in the shape of minor conflicts, this system is a unavoidable in European politics (sounds like kennedy) but will not contribute to global war due to its uniquely European nature.**
+**Although the Balance-of-Power leads to frequent "adjustments" of balance in the shape of minor conflicts, this system is uniquely unavoidable in European politics (sounds like kennedy) and hence will not contribute to global war due to its European nature.**
 
 
 ***
