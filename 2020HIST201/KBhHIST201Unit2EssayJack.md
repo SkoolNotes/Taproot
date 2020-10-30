@@ -166,6 +166,8 @@ Now, defluffify by re-writing the three points + so what in as little words as p
 2. B/c BOP has to readjust
 3. It's fine, b/c its natural
 
+Balance of power _did_ make global
+
 ***
 
 There is always [UCLA Writing Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf)
