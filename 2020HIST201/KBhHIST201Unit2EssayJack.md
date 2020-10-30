@@ -162,6 +162,9 @@ Now, defluffify by re-writing the three points + so what in as little words as p
 2. Natural and Unavoidable in Europe
 3. Ultimately lead to spead of liberalism/democracy 
 
+1. Conflicts happen + happens more under BOP
+2. B/c BOP has to readjust
+3. It's fine, b/c its natural
 
 ***
 
