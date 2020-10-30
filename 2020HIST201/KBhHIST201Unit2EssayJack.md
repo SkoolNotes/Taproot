@@ -68,6 +68,7 @@ course: HIST201
 * BP 2
 	* Napolean
 	* England, too + their overseas
+* Better BP3 => 
 	
 ## Idea Snippets Gathering	
 * Unquoted
