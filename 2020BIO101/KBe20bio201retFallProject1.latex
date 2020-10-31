@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4477)}}    % original
-%\rhead{\textrmlf{Compiled }\#4477\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4477\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4478)}}    % original
+%\rhead{\textrmlf{Compiled }\#4478\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4478\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -505,6 +505,21 @@ channels}\label{voltage-gated-ion-channels}}
       "refactor period ensures that the action potential will only
       travel forward down the axon, not backwards through the portion of
       the axon that just underwent an action potential"
+    \end{enumerate}
+  \item
+    Impulse speed
+
+    \begin{enumerate}
+    \item
+      larger diameter axon
+
+      A greater diameter will allow the action potential to travel
+      faster because there are structures in the cytoplasm of each axon
+      to block the ions' travel. However, with a larger diameter, there
+      are more paths for the ion to travel though, even if the
+      concentration is the same? (because there is more volume to
+      surface area? and a direction is a point on surface area but the
+      ion is a point in volume?)
     \end{enumerate}
   \end{enumerate}
 \end{enumerate}
