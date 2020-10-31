@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4478)}}    % original
-%\rhead{\textrmlf{Compiled }\#4478\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4478\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4482)}}    % original
+%\rhead{\textrmlf{Compiled }\#4482\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4482\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -520,6 +520,19 @@ channels}\label{voltage-gated-ion-channels}}
       concentration is the same? (because there is more volume to
       surface area? and a direction is a point on surface area but the
       ion is a point in volume?)
+    \item
+      Mylelin sheath
+
+      Increases the distances between cations and anions on opposite
+      sides of the axon membrane, which decreases capacitence (yes
+      physics capacitence). So less charge can be tied to the membrane,
+      so depolarization happens faster (fewer charges need to move).
+
+      \begin{enumerate}
+      \item
+        \url{https://www.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/neuron-membrane-potentials-topic/v/effects-of-axon-diameter-and-myelination}
+        {\textsc{source}}
+      \end{enumerate}
     \end{enumerate}
   \end{enumerate}
 \end{enumerate}
