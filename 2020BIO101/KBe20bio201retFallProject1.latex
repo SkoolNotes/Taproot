@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4473)}}    % original
-%\rhead{\textrmlf{Compiled }\#4473\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4473\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4474)}}    % original
+%\rhead{\textrmlf{Compiled }\#4474\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4474\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -462,6 +462,22 @@ channels}\label{voltage-gated-ion-channels}}
     \end{enumerate}
   \item
     graded potentials
+
+    \begin{enumerate}
+    \item
+      a "smallish change in the membrane potential that is porportional
+      to the size of the stimulus"
+
+      \begin{enumerate}
+      \item
+        doesn't travel a long distance
+      \item
+        diminishes/fades away as its spreads
+      \end{enumerate}
+    \item
+      \url{https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/depolarization-hyperpolarization-and-action-potentials}
+      {\textsc{source}}
+    \end{enumerate}
   \end{enumerate}
 \end{enumerate}
 
