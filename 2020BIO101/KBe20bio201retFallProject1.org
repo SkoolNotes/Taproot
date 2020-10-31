@@ -4,7 +4,7 @@
 * Preliminary Research
 
 ** Sources
-  https://www.frontiersin.org/articles/10.3389/fchem.2019.00540/full
+   https://www.frontiersin.org/articles/10.3389/fchem.2019.00540/full
 
 ** Notes
 
@@ -40,8 +40,8 @@
 
 ***** Time scale bottleneck
 
-     - very slow (supercomputers -> microseconds of simulation)
-     - require microsecond to milisecond time scales
+      - very slow (supercomputers -> microseconds of simulation)
+      - require microsecond to milisecond time scales
 
 ****** optimizations
 
@@ -60,7 +60,7 @@
 
 **** Accelerated molecular dynamics (AMD)
 
-epic
+     epic
 
 *** Voltage gated ion channels
 
@@ -104,11 +104,14 @@ epic
 
 **** mechanical function
 
-***** https://www.pnas.org/content/112/1/124                         :source:
+***** sources
 
-***** https://www.sciencedirect.com/science/article/pii/S0076687918300156 :source:
+****** https://www.pnas.org/content/112/1/124                        :source:
 
-*****
+****** https://www.sciencedirect.com/science/article/pii/S0076687918300156 :source:
+
+***** explanation
+      In each analogous subdomain, S4
 
 **** related components
 ***** membrane depolarization
@@ -181,8 +184,8 @@ epic
        - how do voltage gated ion channels work?
 
 ***** things to know about
-       - action potential
-       - voltage gated calcium channels open at depolarization threshold
+      - action potential
+      - voltage gated calcium channels open at depolarization threshold
 
 ****** neurotransmitters
        - "calcium mediated exocitosis of neurotransmitter vesicles in the synaptic terminal"
@@ -201,8 +204,8 @@ epic
       - one case per million population
 
 ****** Casues
-      - the gene that causes CJD in 5-10% of cases is PRNP
-      - 87% of cases are sporatic
+       - the gene that causes CJD in 5-10% of cases is PRNP
+       - 87% of cases are sporatic
 
 ***** isoform
       - a different set of intons and exons
