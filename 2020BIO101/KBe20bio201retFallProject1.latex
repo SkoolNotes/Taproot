@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4486)}}    % original
-%\rhead{\textrmlf{Compiled }\#4486\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4486\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4487)}}    % original
+%\rhead{\textrmlf{Compiled }\#4487\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4487\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -446,10 +446,15 @@ channels}\label{voltage-gated-ion-channels}}
   \item
     explanation
 
-    In each analogous subdomain, the segment S4 (of 6) (where the first
-    four are voltage sensing, S5, S6 form the pore, and the S4-S5 linker
-    is important but ellusive) is quite positively charged (3-7 positive
-    Rgroups like Agrinine?)
+    \begin{enumerate}
+    \item
+      structural overview
+
+      In each analogous subdomain, the segment S4 (of 6) (where the
+      first four are voltage sensing, S5, S6 form the pore, and the
+      S4-S5 linker is important but ellusive) is quite positively
+      charged (3-7 positive Rgroups like Agrinine?)
+    \end{enumerate}
   \end{enumerate}
 \item
   related components
