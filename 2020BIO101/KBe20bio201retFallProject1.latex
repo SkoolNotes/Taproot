@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4482)}}    % original
-%\rhead{\textrmlf{Compiled }\#4482\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4482\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4483)}}    % original
+%\rhead{\textrmlf{Compiled }\#4483\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4483\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -428,6 +428,18 @@ channels}\label{voltage-gated-ion-channels}}
         \end{enumerate}
       \end{enumerate}
     \end{enumerate}
+  \end{enumerate}
+\item
+  mechanical function
+
+  \begin{enumerate}
+  \item
+    \url{https://www.pnas.org/content/112/1/124} {\textsc{source}}
+  \item
+    \url{https://www.sciencedirect.com/science/article/pii/S0076687918300156}
+    {\textsc{source}}
+
+    \textbf{***}
   \end{enumerate}
 \item
   related components
