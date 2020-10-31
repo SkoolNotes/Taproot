@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4474)}}    % original
-%\rhead{\textrmlf{Compiled }\#4474\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4474\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4475)}}    % original
+%\rhead{\textrmlf{Compiled }\#4475\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4475\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -477,6 +477,20 @@ channels}\label{voltage-gated-ion-channels}}
     \item
       \url{https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/depolarization-hyperpolarization-and-action-potentials}
       {\textsc{source}}
+    \end{enumerate}
+  \item
+    action potential
+
+    \begin{enumerate}
+    \item
+      always the same size
+    \item
+      binary (all or none)
+    \item
+      happens when depolarization increases the membrane voltage across
+      a threshold value (usually about -55mV)
+    \item
+      causes voltage gated Na\^{}+ channels to open
     \end{enumerate}
   \end{enumerate}
 \end{enumerate}
