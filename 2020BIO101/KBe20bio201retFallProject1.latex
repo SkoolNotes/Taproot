@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4475)}}    % original
-%\rhead{\textrmlf{Compiled }\#4475\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4475\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4476)}}    % original
+%\rhead{\textrmlf{Compiled }\#4476\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4476\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -491,6 +491,13 @@ channels}\label{voltage-gated-ion-channels}}
       a threshold value (usually about -55mV)
     \item
       causes voltage gated Na\^{}+ channels to open
+    \item
+      voltage goes up quickl to around 40mV (positive)
+    \item
+      after some time, Na+ VGICs inactivate
+    \item
+      potassium channels stay open a little longer to bring the membrane
+      potential back
     \end{enumerate}
   \end{enumerate}
 \end{enumerate}
