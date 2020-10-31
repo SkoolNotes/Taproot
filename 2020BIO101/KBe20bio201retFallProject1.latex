@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4488)}}    % original
-%\rhead{\textrmlf{Compiled }\#4488\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4488\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4490)}}    % original
+%\rhead{\textrmlf{Compiled }\#4490\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4490\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -565,6 +565,11 @@ channels}\label{voltage-gated-ion-channels}}
         {\textsc{source}}
       \end{enumerate}
     \end{enumerate}
+  \item
+    Salt bridge
+
+    When two oppositely charged R-groups are close enough together to
+    experience electrostatic attraction
   \end{enumerate}
 \end{enumerate}
 
