@@ -19,12 +19,12 @@ author: Houjun Liu
 
 Here's a truth table:
 
-| Signal A | Signal B | A OR B | A AND B | A XOR B | A NOR B |
-|---|---|---|---|---|---|
-|0|0|0|0|0|1|
-|0|1|1|0|1|0|
-|1|0|1|0|1|0|
-|1|1|1|1|0|0|
+| Signal A | Signal B | A OR B | A AND B | A XOR B | A NOR B | A XNOR B |
+|---|---|---|---|---|---|---|
+|0|0|0|0|0|1|1|
+|0|1|1|0|1|0|0|
+|1|0|1|0|1|0|0|
+|1|1|1|1|0|0|1|
 
 ## Logic gates
 **OR Gates**: a mystery?
