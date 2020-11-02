@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4289)}}    % original
-%\rhead{\textrmlf{Compiled }\#4289\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4289\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4631)}}    % original
+%\rhead{\textrmlf{Compiled }\#4631\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4631\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1058,5 +1058,11 @@ Smaller ribosome unit grabs, larger attaches + forms amino acid
 After the amino acids are assembled, it's time for
 {[}{[}KBe2020bio101refProteinFolding{]}{]}. See also
 {[}{[}KBhBIO101Proteins{]}{]}.
+
+\begin{itemize}
+\tightlist
+\item
+  Shaperones fold
+\end{itemize}
 
 \end{document}

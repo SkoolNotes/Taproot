@@ -396,3 +396,6 @@ Ribosomes has two units: 50S unit + 30S unit => they come together whenever a mR
 Smaller ribosome unit grabs, larger attaches + forms amino acid
 
 After the amino acids are assembled, it's time for [[KBe2020bio101refProteinFolding]]. See also [[KBhBIO101Proteins]].
+
+* Shaperones fold 
+
