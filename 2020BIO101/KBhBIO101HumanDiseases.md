@@ -430,4 +430,7 @@ Viruses attempt to overwhelm the enzyme to entry.
 * 5' end => GGGGGG cap (using guanine-capping enzyme)
 
 
+**DNA** viruses are "less complex", in that as long as they are able to get into the nucleaus, the rest would just be the body's work automatically.
+
+
 
