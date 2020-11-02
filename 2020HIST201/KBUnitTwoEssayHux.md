@@ -70,7 +70,9 @@ OR:
 
 The free market could not work due to the enlightenment 
 
-Enlightenment philosiphy: reductionist, everything can be reduced to ideals 
+Enlightenment philosiphy: reductionist, everything can be reduced to ideals. top down. 
+
+Free market completely uproots that with the idea of emergent properties 
 
 
 
