@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4631)}}    % original
-%\rhead{\textrmlf{Compiled }\#4631\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4631\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4632)}}    % original
+%\rhead{\textrmlf{Compiled }\#4632\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4632\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1059,10 +1059,7 @@ After the amino acids are assembled, it's time for
 {[}{[}KBe2020bio101refProteinFolding{]}{]}. See also
 {[}{[}KBhBIO101Proteins{]}{]}.
 
-\begin{itemize}
-\tightlist
-\item
-  Shaperones fold
-\end{itemize}
+=\textgreater{} Shaperones fold proteins, and if its finds proteins
+impossible to fold, it flags it using ubiquitin to send to the garbage
 
 \end{document}
