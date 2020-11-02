@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4640)}}    % original
-%\rhead{\textrmlf{Compiled }\#4640\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4640\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4641)}}    % original
+%\rhead{\textrmlf{Compiled }\#4641\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4641\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1108,6 +1108,9 @@ Viruses attempt to overwhelm the enzyme to entry.
   \item
     Duplicates cell DNA
   \item
+    Could be hijacked during cell cycle to duplicate DNA viruses
+  \item
+    DNA viruses may also carry their DNA Polymerease
   \end{itemize}
 \item
   \textbf{RNA Polymerease} takes DNA and makes mRNA

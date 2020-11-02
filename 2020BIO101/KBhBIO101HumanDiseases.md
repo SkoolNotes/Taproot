@@ -419,5 +419,6 @@ Viruses attempt to overwhelm the enzyme to entry.
 
 * **DNA Polymerase** takes DNA and makes more DNA
 	* Duplicates cell DNA
-	* 
+	* Could be hijacked during cell cycle to duplicate DNA viruses
+	* DNA viruses may also carry their DNA Polymerease
 * **RNA Polymerease** takes DNA and makes mRNA
