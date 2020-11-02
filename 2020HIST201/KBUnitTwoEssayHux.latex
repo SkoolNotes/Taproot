@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4614)}}    % original
-%\rhead{\textrmlf{Compiled }\#4614\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4614\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4615)}}    % original
+%\rhead{\textrmlf{Compiled }\#4615\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4615\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -223,5 +223,7 @@ succeeds
     free market is to drastic of an ideology for it to have taken effect
   \end{enumerate}
 \end{enumerate}
+
+use places where one excels over the other
 
 \end{document}

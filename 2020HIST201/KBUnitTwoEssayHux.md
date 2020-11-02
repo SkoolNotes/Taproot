@@ -59,7 +59,7 @@ Where free market fails / succeeds and where mercantalism fails / succeeds
 
 
 
-
+use places where one excels over the other 
 
 
 
