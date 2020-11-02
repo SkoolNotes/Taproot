@@ -46,6 +46,9 @@ History essay rubric guide
 ## General ideas:
 
 
+### Opt 2: 
+
+Look at the free market, 
 
 
 
