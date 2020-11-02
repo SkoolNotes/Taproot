@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4612)}}    % original
-%\rhead{\textrmlf{Compiled }\#4612\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4612\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4613)}}    % original
+%\rhead{\textrmlf{Compiled }\#4613\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4613\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -206,6 +206,22 @@ Look at the free market / mercantilism
 Where free market fails / succeeds and where mercantalism fails /
 succeeds
 
-Go two ways
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Go either way:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    free market would have worked becuase it is a better system
+  \item
+    free market doesnt work when others are not free market
+  \item
+    free market is to drastic of
+  \end{enumerate}
+\end{enumerate}
 
 \end{document}
