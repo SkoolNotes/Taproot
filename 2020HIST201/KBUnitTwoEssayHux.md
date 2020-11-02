@@ -76,7 +76,8 @@ Free market completely uproots that with the idea of emergent properties
 
 Body paragraphs...? 
 
-
+1. prove enlightnement is top down | prove free market is bottom up | ? 
+2. Other ideas which got rejected for the same reasons? 
 
 
 
