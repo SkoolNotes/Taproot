@@ -415,4 +415,6 @@ Eukarotic gene expression is regulated at many stages — prevents error
 * Ribosomes become centrally important for the virus
 * What serves as the template to make new virus copies
 
+Viruses attempt to overwhelm the enzyme to entry.
 
+* 

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4638)}}    % original
-%\rhead{\textrmlf{Compiled }\#4638\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4638\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4639)}}    % original
+%\rhead{\textrmlf{Compiled }\#4639\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4639\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1095,5 +1095,7 @@ Eukarotic gene expression is regulated at many stages --- prevents error
 \item
   What serves as the template to make new virus copies
 \end{itemize}
+
+Viruses attempt to overwhelm the enzyme
 
 \end{document}
