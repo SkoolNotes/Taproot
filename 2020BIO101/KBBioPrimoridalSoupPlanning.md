@@ -37,9 +37,13 @@ life is inevitable
 
 
 
+# Outline 
 
 
+Life is amazing, incredibly complex, the question becomes, 
+how did it start? 
 
+Three theories: 
 
 
 
