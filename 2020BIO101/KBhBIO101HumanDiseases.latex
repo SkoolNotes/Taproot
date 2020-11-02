@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4643)}}    % original
-%\rhead{\textrmlf{Compiled }\#4643\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4643\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4644)}}    % original
+%\rhead{\textrmlf{Compiled }\#4644\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4644\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1124,5 +1124,9 @@ Viruses attempt to overwhelm the enzyme to entry.
     Hence why safety mechanism needed
   \end{itemize}
 \end{itemize}
+
+\textbf{Capping and Tailing} * 3' end =\textgreater{} AAAAAA tail (using
+poly-adenine tailing enzyme) * 5' end =\textgreater{} GGGGGG cap (using
+guanine-capping enzyme)
 
 \end{document}

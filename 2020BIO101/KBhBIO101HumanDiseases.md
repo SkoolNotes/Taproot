@@ -424,3 +424,10 @@ Viruses attempt to overwhelm the enzyme to entry.
 * **RNA Polymerease** takes DNA and makes mRNA
 	* Have lower fidelity with an error about 1/100,000
 	* Hence why safety mechanism needed
+
+**Capping and Tailing**
+* 3' end => AAAAAA tail (using poly-adenine tailing enzyme)
+* 5' end => GGGGGG cap (using guanine-capping enzyme)
+
+
+
