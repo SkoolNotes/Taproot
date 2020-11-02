@@ -9,4 +9,6 @@ title: Akshar and Anna
 * Tech not necessary for having an app
 	* Trial ASAP — (except people are ghosting)
 	* Once an OK is reached, will do 	
+	
+Expectation: clearer plan for prototying/trial
 
