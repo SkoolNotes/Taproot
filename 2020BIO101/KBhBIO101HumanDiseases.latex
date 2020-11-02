@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4639)}}    % original
-%\rhead{\textrmlf{Compiled }\#4639\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4639\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4640)}}    % original
+%\rhead{\textrmlf{Compiled }\#4640\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4640\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1096,6 +1096,21 @@ Eukarotic gene expression is regulated at many stages --- prevents error
   What serves as the template to make new virus copies
 \end{itemize}
 
-Viruses attempt to overwhelm the enzyme
+Viruses attempt to overwhelm the enzyme to entry.
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{DNA Polymerase} takes DNA and makes more DNA
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Duplicates cell DNA
+  \item
+  \end{itemize}
+\item
+  \textbf{RNA Polymerease} takes DNA and makes mRNA
+\end{itemize}
 
 \end{document}

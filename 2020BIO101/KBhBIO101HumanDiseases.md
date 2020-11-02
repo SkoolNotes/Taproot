@@ -417,4 +417,7 @@ Eukarotic gene expression is regulated at many stages — prevents error
 
 Viruses attempt to overwhelm the enzyme to entry.
 
-* 
+* **DNA Polymerase** takes DNA and makes more DNA
+	* Duplicates cell DNA
+	* 
+* **RNA Polymerease** takes DNA and makes mRNA
