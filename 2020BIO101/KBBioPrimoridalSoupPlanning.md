@@ -43,13 +43,17 @@ life is inevitable
 Life is amazing, incredibly complex, the question becomes, 
 how did it start? 
 
+
 Three theories: 
 
 volcanic clay 
 deep sea vents 
+tides of ponds 
 
 
+But there's more than just theories: 
 
+miller-urey experiment 
 
 
 
