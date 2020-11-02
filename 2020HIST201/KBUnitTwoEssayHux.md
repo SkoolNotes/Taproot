@@ -48,9 +48,9 @@ History essay rubric guide
 
 ### Opt 2: 
 
-Look at the free market, 
+Look at the free market / mercantilism 
 
-
+Where free market
 
 
 
