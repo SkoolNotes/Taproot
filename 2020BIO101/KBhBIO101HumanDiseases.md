@@ -403,3 +403,7 @@ After the amino acids are assembled, it's time for [[KBe2020bio101refProteinFold
 
 Eukarotic gene expression is regulated at many stages — prevents error
 
+![preprocessing.png](preprocessing.png)
+
+* Viral proteins are usually easy to assemble
+* 

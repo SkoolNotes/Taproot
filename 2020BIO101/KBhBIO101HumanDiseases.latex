@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4633)}}    % original
-%\rhead{\textrmlf{Compiled }\#4633\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4633\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4634)}}    % original
+%\rhead{\textrmlf{Compiled }\#4634\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4634\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1065,5 +1065,18 @@ impossible to fold, it flags it using ubiquitin to send to the garbage
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 Eukarotic gene expression is regulated at many stages --- prevents error
+
+\begin{figure}
+\centering
+\includegraphics{preprocessing.png}
+\caption{preprocessing.png}
+\end{figure}
+
+\begin{itemize}
+\tightlist
+\item
+  Viral proteins are usually easy to assemble
+\item
+\end{itemize}
 
 \end{document}
