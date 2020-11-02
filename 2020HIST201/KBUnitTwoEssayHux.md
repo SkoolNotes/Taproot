@@ -50,7 +50,7 @@ History essay rubric guide
 
 Look at the free market / mercantilism 
 
-Where free market fails 
+Where free market fails / succeeds 
 
 
 
