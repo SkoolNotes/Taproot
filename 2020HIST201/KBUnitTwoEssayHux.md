@@ -61,7 +61,9 @@ Where free market fails / succeeds and where mercantalism fails / succeeds
 
 use places where one excels over the other 
 
-find examples in texts, or the negative 
+find examples (or in the negative) in texts 
+
+this aspect of the free market workes well, it 
 
 
 
