@@ -220,6 +220,7 @@ Except! Poxvirade carry their own polymerase, so they replicate in the cytoplasm
 * +Strand: reproducable RNA => could be directly translated by the ribosomes
 * -Strand RNA: useless template RNA (less easy to be detected)
 	- Need to be processed by RDRP (RNA-dependent RNA Polymerease)
+	- 
 
 - double-stranded RNA viron => (+, a.k.a. sense) 
 	- +-stranded RNA => same idea as above

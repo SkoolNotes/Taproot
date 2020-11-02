@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4647)}}    % original
-%\rhead{\textrmlf{Compiled }\#4647\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4647\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4648)}}    % original
+%\rhead{\textrmlf{Compiled }\#4648\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4648\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -663,6 +663,7 @@ cytoplasm.
   \tightlist
   \item
     Need to be processed by RDRP (RNA-dependent RNA Polymerease)
+  \item
   \end{itemize}
 \item
   double-stranded RNA viron =\textgreater{} (+, a.k.a. sense)
