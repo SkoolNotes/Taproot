@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4648)}}    % original
-%\rhead{\textrmlf{Compiled }\#4648\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4648\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4649)}}    % original
+%\rhead{\textrmlf{Compiled }\#4649\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4649\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -664,6 +664,8 @@ cytoplasm.
   \item
     Need to be processed by RDRP (RNA-dependent RNA Polymerease)
   \item
+    Once entered the cell, RDRP goes to work copying -Strand RNA to
+    +Strang RNA
   \end{itemize}
 \item
   double-stranded RNA viron =\textgreater{} (+, a.k.a. sense)
@@ -675,8 +677,8 @@ cytoplasm.
     \begin{itemize}
     \tightlist
     \item
-      strand RNA =\textgreater{} virus comes with polymerase that
-      convert -ssRNA to +ssRNA. Then, same idea as above.
+      strand RNA =\textgreater{} virus comes with RDRP that convert
+      -ssRNA to +ssRNA. Then, same idea as above.
     \end{itemize}
   \end{itemize}
 \end{itemize}

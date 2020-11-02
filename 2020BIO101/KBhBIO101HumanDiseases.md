@@ -220,11 +220,11 @@ Except! Poxvirade carry their own polymerase, so they replicate in the cytoplasm
 * +Strand: reproducable RNA => could be directly translated by the ribosomes
 * -Strand RNA: useless template RNA (less easy to be detected)
 	- Need to be processed by RDRP (RNA-dependent RNA Polymerease)
-	- 
+	- Once entered the cell, RDRP goes to work copying -Strand RNA to +Strang RNA 
 
 - double-stranded RNA viron => (+, a.k.a. sense) 
 	- +-stranded RNA => same idea as above
-	- - strand RNA => virus comes with polymerase that convert -ssRNA to +ssRNA. Then, same idea as above. 
+	- - strand RNA => virus comes with RDRP that convert -ssRNA to +ssRNA. Then, same idea as above. 
 
 *What serves as the templates for viral genome replication?*
 
