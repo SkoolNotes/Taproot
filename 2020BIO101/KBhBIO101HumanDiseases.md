@@ -422,3 +422,5 @@ Viruses attempt to overwhelm the enzyme to entry.
 	* Could be hijacked during cell cycle to duplicate DNA viruses
 	* DNA viruses may also carry their DNA Polymerease to not wait for the cell cycle
 * **RNA Polymerease** takes DNA and makes mRNA
+	* Have lower fidelity with an error about 1/100,000
+	* Hence why safety mechanism needed
