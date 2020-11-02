@@ -406,4 +406,11 @@ Eukarotic gene expression is regulated at many stages — prevents error
 ![preprocessing.png](preprocessing.png)
 
 * Viral proteins are usually easy to assemble
-* 
+
+![Screen Shot 2020-11-02 at 2.48.22 PM.png](Screen Shot 2020-11-02 at 2.48.22 PM.png)
+
+**Question: how are proteins made in the viral genome**
+
+* No viruses produce ribosomes
+* Ribosomes become centrally important for the virus
+* What serves a
