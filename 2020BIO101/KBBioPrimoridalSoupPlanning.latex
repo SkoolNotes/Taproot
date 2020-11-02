@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4622)}}    % original
-%\rhead{\textrmlf{Compiled }\#4622\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4622\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4623)}}    % original
+%\rhead{\textrmlf{Compiled }\#4623\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4623\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -199,5 +199,7 @@ Life is amazing, incredibly complex, the question becomes, how did it
 start?
 
 Three theories:
+
+volcanic clay deep sea vents
 
 \end{document}

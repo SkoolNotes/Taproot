@@ -45,6 +45,8 @@ how did it start?
 
 Three theories: 
 
+volcanic clay 
+deep sea vents 
 
 
 
