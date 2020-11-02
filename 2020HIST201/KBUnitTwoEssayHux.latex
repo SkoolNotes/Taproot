@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4605)}}    % original
-%\rhead{\textrmlf{Compiled }\#4605\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4605\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4606)}}    % original
+%\rhead{\textrmlf{Compiled }\#4606\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4606\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -194,5 +194,8 @@ Submission guidelines: 3-4 pages, size 12 font, double-spaced. Citations should 
 Tips: See the essay rubric guide below for questions to ask yourself as you write and revise. 
 History essay rubric guide
 \end{verbatim}
+
+\hypertarget{general-ideas}{%
+\subsection{General ideas:}\label{general-ideas}}
 
 \end{document}

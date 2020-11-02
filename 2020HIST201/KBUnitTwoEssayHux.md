@@ -43,6 +43,9 @@ History essay rubric guide
 
 
 
+## General ideas:
+
+
 
 
 
