@@ -52,7 +52,7 @@ Look at the free market / mercantilism
 
 Where free market fails / succeeds and where mercantalism fails / succeeds
 
-
+Go two ways 
 
 
 
