@@ -6,7 +6,7 @@ course: BIO201
 ---
 
 # Overview of Human Diseases
-A lecture by Paul.
+A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.google.com/presentation/d/1b2RetU6iGsd_h4Msb2SV-_WznNXSREbsPpfdY-LgJZs/edit#slide=id.ga6d683dbbf_0_338)
 
 #flo #disorganized 
 
