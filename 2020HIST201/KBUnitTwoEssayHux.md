@@ -63,9 +63,14 @@ use places where one excels over the other
 
 find examples (or in the negative) in texts 
 
-this aspect of the free market workes well, it 
+this aspect of the free market workes well, it was applied here
 
 
+OR: 
+
+The free market could not work due to the enlightenment 
+
+Enlightenment philosiphy: reductionist, everything can be reduced to ideals 
 
 
 
