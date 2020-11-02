@@ -74,6 +74,8 @@ Enlightenment philosiphy: reductionist, everything can be reduced to ideals. top
 
 Free market completely uproots that with the idea of emergent properties 
 
+Body paragraphs...? 
+
 
 
 
