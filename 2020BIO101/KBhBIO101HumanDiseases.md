@@ -399,3 +399,7 @@ After the amino acids are assembled, it's time for [[KBe2020bio101refProteinFold
 
 => Shaperones fold proteins, and if its finds proteins impossible to fold, it flags it using ubiquitin to send to the garbage
 
+***
+
+Eukarotic gene expression is regulated at many stages — prevents error
+
