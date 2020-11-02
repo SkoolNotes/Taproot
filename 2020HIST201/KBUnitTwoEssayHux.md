@@ -53,9 +53,9 @@ Look at the free market / mercantilism
 Where free market fails / succeeds and where mercantalism fails / succeeds
 
 1. Go either way:
-	1. free market would have worked becuase it is a better system
+	1. free market would have worked becuase it is a better system 
 	2. free market doesnt work when others are not free market 
-	3. free market is to drastic of a 
+	3. free market is to drastic of an ideology for it to have taken effect 
 
 
 
