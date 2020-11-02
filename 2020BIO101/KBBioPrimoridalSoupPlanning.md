@@ -58,12 +58,14 @@ miller-urey experiment
 
 TRANSITION IDEA 
 
+At home in the universe 
+
+
+Life, is -- inevitable. 
 
 
 
-
-
-
+Sponsered by shabang studios! 
 
 
 

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4625)}}    % original
-%\rhead{\textrmlf{Compiled }\#4625\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4625\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4626)}}    % original
+%\rhead{\textrmlf{Compiled }\#4626\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4626\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -207,5 +207,11 @@ But there's more than just theories:
 miller-urey experiment
 
 TRANSITION IDEA
+
+At home in the universe
+
+Life, is -- inevitable.
+
+Sponsered by shabang studios!
 
 \end{document}
