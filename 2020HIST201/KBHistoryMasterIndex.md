@@ -88,6 +88,7 @@ source: #index
 	- [[KBe20hist201Unit1Essay]]
 * French Rev Essay
 	* [[KBhHIST201Unit2EssayJack]]
+	* [[KBUnitTwoEssayHux]]
 	
 ## Meta References
 - [[20hist201refTechniques]]
