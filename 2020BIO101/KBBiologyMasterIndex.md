@@ -36,19 +36,11 @@ source: #index
 * [[KBBIO101YelloSky]]
 * Exr0n's Flows [[20bio201floD3]]
 * Dylan's crappy notes [[KBd20200911notes]]
-* Central Dogma of Biology [[KBBIO101CentralDogma]]
-* 
+* Central Dogma of Biology
+* Huxley's big project planning doc [[KBBioPrimoridalSoupPlanning]]
 
 ## Amino Acids
 * [[KBhBIO101AminoAcids]]
-* [[KBBIO101ProteinReading]]
-* [[KBhBIO101NucleicAcidsDNARNA]]
-* [[KBBIO101DogmaNuecleotidesNotes]] 
-
-## Human Diseases
-* Human diseases, an intro: [[KBhBIO101HumanDiseases]]
 
 ## Quiz Review Document
 * 10092020 [[KBhBIO101BioMoleculesQuizReview]]
-
-

@@ -44,6 +44,35 @@ All trying to get sugar
 
 
 
+Export of goods (mostly drugs) caused railroads to be built by the Europeans
+
+
+This allowed a larger market economy, as opposed to the old local economy system.
+
+
+==Protestant reformation led to the formating of the modern systems==
+
+
+Mercantalist states: wanted to export more then they imported in order to accumulate gold 
+
+Ottomans: wanted to maintain stocks of vital resource supplies 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

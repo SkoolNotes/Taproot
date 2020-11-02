@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ ISOS101 }
-\newcommand{\thelesson}{ ISOS Master Index }
+\newcommand{\thecourse}{ ISOS201 }
+\newcommand{\thelesson}{ science - not broke? }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -125,7 +125,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4601)}}    % original
 %\rhead{\textrmlf{Compiled }\#4601\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#4601\textrmlf{ on} \today}       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -167,103 +167,34 @@
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\#source
+\#flo \#disorganized
 
-\hypertarget{isos-index}{%
-\section{ISOS Index}\label{isos-index}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhISOS101D1{]}{]} ISOS Day 1
-\item
-  Thoughts on Theaetetus
+\hypertarget{starting-on-part-4-ok}{%
+\section{starting on part 4? ok}\label{starting-on-part-4-ok}}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Jack's Take: {[}{[}KBhISOS101Thaetetus{]}{]}
-  \item
-    Huxley's Take {[}{[}KBTheaetetus{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}KBPatternsofDiscoveryObservationhighlights{]}{]}
+Science isnt broken its just low yield
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBPatternsOfDiscoveryNotes{]}{]}
-  \item
-    Jack's Take: {[}{[}KBhISOS101PatternsOfDiscovery{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}KBGenderandtheBiologicalSciencesHighlights.pdf{]}{]}
+talks about the emotional requirments, ie. beliving that this / the next
+idea is the right one to maintainn motiviation
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBGenderAndBioISOS{]}{]}
-  \item
-    Dylan's Take: {[}{[}KBdGenderAndBio{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}Strong Inference highlights 2019.pdf{]}{]}
+isnt this inherently flawed?
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBStrongInferenceNotes{]}{]}
-  \item
-    Jack's Take: {[}{[}KBhISOS101StrongInference{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}Robustness.pdf{]}{]}
+relatively empty reading
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBRobustness{]}{]}
-  \item
-    Jack's Take: {[}{[}KBhISOS101Robustness{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}KBhowdoweknowwerenotwrong.pdf{]}{]}
+\hypertarget{discusstion-point}{%
+\section{Discusstion point}\label{discusstion-point}}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBdwkwnwISOSNotes{]}{]}
-  \item
-    Jack's Take: {[}{[}KbhISOS101WeAreNotWrong{]}{]}
-  \end{itemize}
-\item
-  Thoughts on
-  \href{https://www.newyorker.com/magazine/2012/09/17/it-aint-necessarily-so}{It
-  Ain't Necessarily So}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBAintNesSoNotes{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}Econ is-isn't science.pdf{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBIsEconScience{]}{]}
-  \end{itemize}
-\item
-  Thoughts on
-  \href{https://fivethirtyeight.com/features/science-isnt-broken/\#part4}{Science
-  isnt broke}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBsciencenotbrokenotes{]}{]}
-  \end{itemize}
-\end{itemize}
+The root of this problem, human error and bias, is only becoming
+magnified as time goes on. As media becomes our main source of truth,
+and our entertainment becomes media's main source of income, our society
+as a whole becomes detached from truth. It doesn't necessarily stray
+away from truth, as the truth becomes entirely irrelevant. The truth
+becomes irrelevant in the face of the catchy headline, whether or not
+that headline aligns with the truth. This detachment is not limited to
+scientific findings, but rather to anything that is supposedly based in
+truth. We see it in our science, we see it in our entertainment, we see
+it in our politics, and soon we may see it in our thoughts.
 
 \end{document}

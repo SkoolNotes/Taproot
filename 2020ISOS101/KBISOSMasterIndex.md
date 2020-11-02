@@ -31,5 +31,9 @@ source: #index
 	* Jack's Take: [[KbhISOS101WeAreNotWrong]]
 * Thoughts on [It Ain't Necessarily So](https://www.newyorker.com/magazine/2012/09/17/it-aint-necessarily-so)
 	* Huxley's Take: [[KBAintNesSoNotes]]
+* Thoughts on [[Econ is-isn't science.pdf]]
+	* Huxley's Take: [[KBIsEconScience]]
+* Thoughts on [Science isnt broke](https://fivethirtyeight.com/features/science-isnt-broken/#part4)
+	* Huxley's Take: [[KBsciencenotbrokenotes]]
 
 	
