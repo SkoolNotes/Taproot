@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4737)}}    % original
-%\rhead{\textrmlf{Compiled }\#4737\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4737\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4738)}}    % original
+%\rhead{\textrmlf{Compiled }\#4738\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4738\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -168,5 +168,25 @@
 \hypertarget{definition-homogeneous-equation}{%
 \section{\#definition Homogeneous
 Equation}\label{definition-homogeneous-equation}}
+
+When the right side equals zero.
+
+\hypertarget{properties}{%
+\section{Properties}\label{properties}}
+
+\hypertarget{if-a-linear-combination-of-linearly-independent-vectors-then-all-coefficients-are-0}{%
+\subsection{If a linear combination of linearly independent vectors then
+all coefficients are
+0}\label{if-a-linear-combination-of-linearly-independent-vectors-then-all-coefficients-are-0}}
+
+\hypertarget{if-linearly-dependent-then-are-multiple-solutions-atleast-dim1-infinitely-many-because-you-can-scale}{%
+\subsection{if linearly dependent, then are multiple solutions (atleast
+dim1 infinitely many because you can
+scale)}\label{if-linearly-dependent-then-are-multiple-solutions-atleast-dim1-infinitely-many-because-you-can-scale}}
+
+\hypertarget{theres-always-a-solution-the-trivial-one-all-coefficients-are-zero}{%
+\subsection{There's always a solution: the trivial one (all coefficients
+are
+zero)}\label{theres-always-a-solution-the-trivial-one-all-coefficients-are-zero}}
 
 \end{document}
