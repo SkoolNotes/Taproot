@@ -50,6 +50,7 @@ life is inevitable
 - tides of ponds 
 	- Researchers report that shallow bodies of water, on the order of 10 centimeters deep, could have held high concentrations of what many scientists believe to be a key ingredient for jump-starting life on Earth: nitrogen. https://news.mit.edu/2019/earth-earliest-life-ponds-not-oceans-0412
 	- Atmospheric nitrogen consists of two nitrogen molecules, linked via a strong triple bond, that can only be broken by an extremely energetic event — namely, lightning.  "Lightning is like a really intense bomb going off,” Ranjan says. “It produces enough energy that it breaks that triple bond in our atmospheric nitrogen gas, to produce nitrogenous oxides that can then rain down into water bodies.”
+	- In the ocean, ultraviolet light and dissolved iron would have made nitrogenous oxides far less available for synthesizing living organisms. In shallow ponds, however, life would have had a better chance to take hold. That’s mainly because ponds have much less volume over which compounds can be diluted. As a result, nitrogenous oxides would have built up to much higher concentrations in ponds.
 	- 
 
 
