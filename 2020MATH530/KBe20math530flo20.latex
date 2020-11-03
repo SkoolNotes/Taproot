@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4733)}}    % original
-%\rhead{\textrmlf{Compiled }\#4733\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4733\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4734)}}    % original
+%\rhead{\textrmlf{Compiled }\#4734\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4734\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -330,6 +330,30 @@ dim 2 subspace of \(\mathbb F^3\)
 \subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
 there for the equation \(Ax=b\) for any
 \(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-6}}
+
+output has dim 1
+
+\hypertarget{a-beginpmatrix12-11-1033-2endpmatrix}{%
+\subsection{\texorpdfstring{\(A = \begin{pmatrix}1&2&-1\\1&-1&0\\3&3&-2\end{pmatrix}\)}{A = \textbackslash begin\{pmatrix\}1\&2\&-1\textbackslash\textbackslash1\&-1\&0\textbackslash\textbackslash3\&3\&-2\textbackslash end\{pmatrix\}}}\label{a-beginpmatrix12-11-1033-2endpmatrix}}
+
+\hypertarget{how-many-solutions-x-satisfy-ax0-7}{%
+\subsubsection{\texorpdfstring{How many solutions \(x\) satisfy
+\(Ax=0\)?}{How many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0-7}}
+
+infinite, vectors of the form \(\begin{pmatrix}a\\b\\0\end{pmatrix}\)
+(columns linearly dependent)
+
+\hypertarget{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-7}{%
+\subsubsection{When the answer is "infinitely many" what tools might we
+have to describe the size of that
+set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-7}}
+
+dim 2 subspace of \(\mathbb F^3\)
+
+\hypertarget{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-7}{%
+\subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
+there for the equation \(Ax=b\) for any
+\(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-7}}
 
 output has dim 1
 
