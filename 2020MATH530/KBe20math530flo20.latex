@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4718)}}    % original
-%\rhead{\textrmlf{Compiled }\#4718\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4718\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4719)}}    % original
+%\rhead{\textrmlf{Compiled }\#4719\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4719\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -177,25 +177,42 @@ vectors}\label{systems-of-equations-matrix-equations-and-vectors}}
 \section{\texorpdfstring{in class work! See
 \url{./KBe20math530srcNull_space_and_column_space_intro.pdf}}{in class work! See ./KBe20math530srcNull\_space\_and\_column\_space\_intro.pdf}}\label{in-class-work-see-.kbe20math530srcnull_space_and_column_space_intro.pdf}}
 
-\hypertarget{abeginpmatrix1001endpmatrix}{%
-\subsection{\texorpdfstring{\(A=\begin{pmatrix}1&0\\0&1\end{pmatrix}\)}{A=\textbackslash begin\{pmatrix\}1\&0\textbackslash\textbackslash0\&1\textbackslash end\{pmatrix\}}}\label{abeginpmatrix1001endpmatrix}}
+\hypertarget{parts-of-the-question}{%
+\subsection{parts of the question}\label{parts-of-the-question}}
 
 \hypertarget{how-many-solutions-x-satisfy-ax0}{%
-\subsubsection{\texorpdfstring{how many solutions \(x\) satisfy
-\(Ax=0\)?}{how many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0}}
-
-The only solution is x=0, because \(Ax = x\).
+\subsubsection{\texorpdfstring{How many solutions \(x\) satisfy
+\(Ax=0\)?}{How many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0}}
 
 \hypertarget{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set}{%
 \subsubsection{When the answer is "infinitely many" what tools might we
 have to describe the size of that
 set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set}}
 
+\hypertarget{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.}{%
+\subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
+there for the equation \(Ax=b\) for any
+\(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.}}
+
+\hypertarget{abeginpmatrix1001endpmatrix}{%
+\subsection{\texorpdfstring{\(A=\begin{pmatrix}1&0\\0&1\end{pmatrix}\)}{A=\textbackslash begin\{pmatrix\}1\&0\textbackslash\textbackslash0\&1\textbackslash end\{pmatrix\}}}\label{abeginpmatrix1001endpmatrix}}
+
+\hypertarget{how-many-solutions-x-satisfy-ax0-1}{%
+\subsubsection{\texorpdfstring{How many solutions \(x\) satisfy
+\(Ax=0\)?}{How many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0-1}}
+
+The only solution is x=0, because \(Ax = x\).
+
+\hypertarget{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-1}{%
+\subsubsection{When the answer is "infinitely many" what tools might we
+have to describe the size of that
+set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-1}}
+
 N/A
 
-\hypertarget{how-many-possible-outcomes-b-are-there-for-ethe-equation-axb}{%
+\hypertarget{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-1}{%
 \subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
-there for ethe equation
-\(Ax=b\)}{How many possible outcomes b are there for ethe equation Ax=b}}\label{how-many-possible-outcomes-b-are-there-for-ethe-equation-axb}}
+there for the equation \(Ax=b\) for any
+\(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-1}}
 
 \end{document}
