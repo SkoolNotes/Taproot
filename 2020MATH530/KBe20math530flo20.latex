@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4731)}}    % original
-%\rhead{\textrmlf{Compiled }\#4731\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4731\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4732)}}    % original
+%\rhead{\textrmlf{Compiled }\#4732\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4732\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -323,13 +323,13 @@ infinite, vectors of the form \(\begin{pmatrix}a\\b\\0\end{pmatrix}\)
 have to describe the size of that
 set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-6}}
 
-dim 1 subspace of \(\mathbb F^3\)
+dim 2 subspace of \(\mathbb F^3\)
 
 \hypertarget{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-6}{%
 \subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
 there for the equation \(Ax=b\) for any
 \(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-6}}
 
-see previous
+output has dim 1
 
 \end{document}

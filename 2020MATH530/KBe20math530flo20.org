@@ -50,6 +50,6 @@
 *** How many solutions $x$ satisfy $Ax=0$?
     infinite, vectors of the form $\begin{pmatrix}a\\b\\0\end{pmatrix}$ (columns linearly dependent)
 *** When the answer is "infinitely many" what tools might we have to describe the size of that set?
-    dim 1 subspace of $\mathbb F^3$
+    dim 2 subspace of $\mathbb F^3$
 *** How many possible outcomes $b$ are there for the equation $Ax=b$ for any $x$.
-    see previous
+    output has dim 1
