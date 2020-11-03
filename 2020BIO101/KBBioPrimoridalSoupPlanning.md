@@ -59,11 +59,7 @@ life is inevitable
 	- The chance that a single chemical is self replicating is very low
 	- however, this chemical is much more likely to another chemical 
 	- as the number of chemicals and complexity increases, the likelihood that these chemicals will become cyclic increases exponentially  
-
-
-
-
-
+	- life doesnt just become likely, it becomes inevitable. 
 
 
 
