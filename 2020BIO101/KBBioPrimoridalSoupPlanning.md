@@ -32,7 +32,7 @@ end with we are not alone in the universe explanation:
 life is inevitable 
 
 
-## three theories
+## deeper research 
 
 - Volcanic clay 
 	- In simulated ancient seawater, clay forms a hydrogel -- a mass of microscopic spaces capable of soaking up liquids like a sponge. https://www.sciencedaily.com/releases/2013/11/131105132027.htm
@@ -55,7 +55,7 @@ life is inevitable
 	-  In environments any deeper or larger, nitrogenous oxides would simply have been too diluted, precluding any participation in origin-of-life chemistry. 
 	- [about rna] Having bonded in pairs at low tide, these newly formed molecular strands would then dissociate at high tide, when salt concentrations were reduced, providing what Lathe terms a self-replicating system. https://www.scientificamerican.com/article/moon-life-tides/#:~:text=The ocean tides mirror life itself.&text=Life emerged some 700 million,tides were much more extreme.
 
-
+- at home in the universe 
 
 
 
