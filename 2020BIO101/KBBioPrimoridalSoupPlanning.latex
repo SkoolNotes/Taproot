@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4692)}}    % original
-%\rhead{\textrmlf{Compiled }\#4692\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4692\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4693)}}    % original
+%\rhead{\textrmlf{Compiled }\#4693\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4693\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -261,8 +261,13 @@ life is inevitable
     porous hydrothermal vents --- where heated, mineral-laden seawater
     spews from cracks in the ocean crust --- created a gradient in
     positively charged protons that served as a ``battery'' to fuel the
-    creation of organic molecules and proto-cells.
+    creation of organic molecules and proto-cells. Later, primitive
+    cellular pumps gradually evolved the ability to use a different type
+    of gradient --- the difference in sodium particles inside and
+    outside the cell --- as a battery to power the construction of
+    complex molecules like proteins.
     https://www.livescience.com/26173-hydrothermal-vent-life-origins.html
+  \item
   \end{itemize}
 \end{itemize}
 
