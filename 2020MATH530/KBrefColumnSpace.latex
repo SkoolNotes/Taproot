@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4740)}}    % original
-%\rhead{\textrmlf{Compiled }\#4740\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4740\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4742)}}    % original
+%\rhead{\textrmlf{Compiled }\#4742\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4742\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -177,7 +177,20 @@ output}\label{because-columns-map-to-input-while-rows-map-to-output}}
 columns}\label{linear-dependence-is-going-to-have-more-to-do-with-the-columns}}
 
 \hypertarget{dot-products-are-linear-combinations-of-the-columns}{%
-\subsection{Dot products are linear combinations of the
+\subsection{Dot products are "linear combinations" of the
 columns}\label{dot-products-are-linear-combinations-of-the-columns}}
+
+\hypertarget{row-vs-column-linear-dependency}{%
+\section{Row vs Column linear
+dependency}\label{row-vs-column-linear-dependency}}
+
+\hypertarget{under-what-circumstances-is-it-true-that-row-linear-independence-iff-column-linear-independence}{%
+\subsection{Under what circumstances is it true that row linear
+independence iff column linear
+independence?}\label{under-what-circumstances-is-it-true-that-row-linear-independence-iff-column-linear-independence}}
+
+\hypertarget{maybe-in-square-matrices}{%
+\subsubsection{maybe in square
+matrices?}\label{maybe-in-square-matrices}}
 
 \end{document}

@@ -1,4 +1,7 @@
 * Why columns (not rows)?
 ** Because columns map to input, while rows map to output
 ** Linear dependence is going to have more to do with the columns
-** Dot products are linear combinations of the columns
+** Dot products are "linear combinations" of the columns
+* Row vs Column linear dependency
+** Under what circumstances is it true that row linear independence iff column linear independence?
+*** maybe in square matrices?
