@@ -56,6 +56,7 @@ life is inevitable
 	- [about rna] Having bonded in pairs at low tide, these newly formed molecular strands would then dissociate at high tide, when salt concentrations were reduced, providing what Lathe terms a self-replicating system. https://www.scientificamerican.com/article/moon-life-tides/#:~:text=The ocean tides mirror life itself.&text=Life emerged some 700 million,tides were much more extreme.
 
 - at home in the universe 
+	- 
 
 
 
