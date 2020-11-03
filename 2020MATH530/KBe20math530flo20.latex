@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4717)}}    % original
-%\rhead{\textrmlf{Compiled }\#4717\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4717\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4718)}}    % original
+%\rhead{\textrmlf{Compiled }\#4718\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4718\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,8 +180,22 @@ vectors}\label{systems-of-equations-matrix-equations-and-vectors}}
 \hypertarget{abeginpmatrix1001endpmatrix}{%
 \subsection{\texorpdfstring{\(A=\begin{pmatrix}1&0\\0&1\end{pmatrix}\)}{A=\textbackslash begin\{pmatrix\}1\&0\textbackslash\textbackslash0\&1\textbackslash end\{pmatrix\}}}\label{abeginpmatrix1001endpmatrix}}
 
-\hypertarget{how-many-solutions-x-satisfy}{%
-\subsubsection{\texorpdfstring{how many solutions \(x\)
-satisfy}{how many solutions x satisfy}}\label{how-many-solutions-x-satisfy}}
+\hypertarget{how-many-solutions-x-satisfy-ax0}{%
+\subsubsection{\texorpdfstring{how many solutions \(x\) satisfy
+\(Ax=0\)?}{how many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0}}
+
+The only solution is x=0, because \(Ax = x\).
+
+\hypertarget{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set}{%
+\subsubsection{When the answer is "infinitely many" what tools might we
+have to describe the size of that
+set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set}}
+
+N/A
+
+\hypertarget{how-many-possible-outcomes-b-are-there-for-ethe-equation-axb}{%
+\subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
+there for ethe equation
+\(Ax=b\)}{How many possible outcomes b are there for ethe equation Ax=b}}\label{how-many-possible-outcomes-b-are-there-for-ethe-equation-axb}}
 
 \end{document}

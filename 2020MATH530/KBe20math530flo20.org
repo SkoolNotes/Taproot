@@ -5,4 +5,7 @@
 * in class work! See [[./KBe20math530srcNull_space_and_column_space_intro.pdf]]
 ** $A=\begin{pmatrix}1&0\\0&1\end{pmatrix}$
 *** how many solutions $x$ satisfy $Ax=0$?
-    The only solution is x=0.
+    The only solution is x=0, because $Ax = x$.
+*** When the answer is "infinitely many" what tools might we have to describe the size of that set?
+    N/A
+*** How many possible outcomes $b$ are there for the equation $Ax=b$ for any $x$.
