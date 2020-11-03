@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4724)}}    % original
-%\rhead{\textrmlf{Compiled }\#4724\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4724\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4725)}}    % original
+%\rhead{\textrmlf{Compiled }\#4725\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4725\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -248,7 +248,7 @@ Infinite with \(\text{dim} 2\)?
 \subsubsection{\texorpdfstring{How many solutions \(x\) satisfy
 \(Ax=0\)?}{How many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0-3}}
 
-also infinite?
+only one value of \(x\) makes the product zero.
 
 \hypertarget{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-3}{%
 \subsubsection{When the answer is "infinitely many" what tools might we
