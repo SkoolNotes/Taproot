@@ -45,4 +45,11 @@
 *** When the answer is "infinitely many" what tools might we have to describe the size of that set?
     dimension 2 subspace of $\mathbb F^3$
 *** How many possible outcomes $b$ are there for the equation $Ax=b$ for any $x$.
-    infinite, dim 2 (but each vector is dim 3)
+    infinite, dim2 subspace of $\mathbb F^3$
+** $A = \begin{pmatrix}0&0&0\\0&0&3\\0&0&0\end{pmatrix}$
+*** How many solutions $x$ satisfy $Ax=0$?
+    infinite, vectors of the form $\begin{pmatrix}0\\a\\-a\end{pmatrix}$ (columns linearly dependent)
+*** When the answer is "infinitely many" what tools might we have to describe the size of that set?
+    dimension 2 subspace of $\mathbb F^3$
+*** How many possible outcomes $b$ are there for the equation $Ax=b$ for any $x$.
+    infinite, dim2 subspace of $\mathbb F^3$

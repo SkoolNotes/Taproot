@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4729)}}    % original
-%\rhead{\textrmlf{Compiled }\#4729\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4729\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4730)}}    % original
+%\rhead{\textrmlf{Compiled }\#4730\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4730\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -292,19 +292,20 @@ infinite, dim 2 (but each vector is dim 3)
 \(Ax=0\)?}{How many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0-5}}
 
 infinite, vectors of the form \(\begin{pmatrix}0\\a\\-a\end{pmatrix}\)
+(columns linearly dependent)
 
 \hypertarget{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-5}{%
 \subsubsection{When the answer is "infinitely many" what tools might we
 have to describe the size of that
 set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-5}}
 
-dimension 2? column vectors in the matrix are linearly dependent.
+dimension 2 subspace of \(\mathbb F^3\)
 
 \hypertarget{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-5}{%
 \subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
 there for the equation \(Ax=b\) for any
 \(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-5}}
 
-infinite, dim 2 (but each vector is dim 3)
+infinite, dim2 subspace of \(\mathbb F^3\)
 
 \end{document}
