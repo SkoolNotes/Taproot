@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4743)}}    % original
-%\rhead{\textrmlf{Compiled }\#4743\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4743\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4745)}}    % original
+%\rhead{\textrmlf{Compiled }\#4745\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4745\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -184,6 +184,12 @@ columns}\label{dot-products-are-linear-combinations-of-the-columns}}
 \subsection{It's only because we usually multiply with variables on the
 right. When we go backwards, then we care about the
 row.}\label{its-only-because-we-usually-multiply-with-variables-on-the-right.-when-we-go-backwards-then-we-care-about-the-row.}}
+
+\hypertarget{definiton-column-space}{%
+\section{\texorpdfstring{\#definiton column space
+{\textsc{definition}}}{\#definiton column space definition}}\label{definiton-column-space}}
+
+The subpsace that gets hit by inputs.
 
 \hypertarget{row-vs-column-linear-dependency}{%
 \section{Row vs Column linear
