@@ -57,8 +57,8 @@ life is inevitable
 
 - at home in the universe 
 	- The chance that a single chemical is self replicating is very low
-	- The chance that a chemical produces another chemical which produces the original chemical is also very low
-	- 
+	- however, this chemical is much more likely to another chemical 
+	- as the number of che
 
 
 
