@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4719)}}    % original
-%\rhead{\textrmlf{Compiled }\#4719\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4719\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4720)}}    % original
+%\rhead{\textrmlf{Compiled }\#4720\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4720\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -214,5 +214,7 @@ N/A
 \subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
 there for the equation \(Ax=b\) for any
 \(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-1}}
+
+There can be infintely many vaules of \(b\)..?
 
 \end{document}
