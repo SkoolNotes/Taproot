@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4709)}}    % original
-%\rhead{\textrmlf{Compiled }\#4709\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4709\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4748)}}    % original
+%\rhead{\textrmlf{Compiled }\#4748\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4748\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -342,7 +342,9 @@ But there's more than just theories:
 
 miller-urey experiment
 
-TRANSITION IDEA
+TRANSITION IDEA: While the results of this experiment seem profound,
+looking at this same scenario from a mathematical perspective reveals
+startling new conclusions
 
 At home in the universe
 

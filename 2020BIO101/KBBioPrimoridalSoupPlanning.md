@@ -82,7 +82,7 @@ But there's more than just theories:
 miller-urey experiment 
 
 
-TRANSITION IDEA 
+TRANSITION IDEA: While the results of this experiment seem profound, looking at this same scenario from a mathematical perspective reveals startling new conclusions 
 
 At home in the universe 
 
