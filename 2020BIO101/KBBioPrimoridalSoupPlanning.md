@@ -41,7 +41,7 @@ life is inevitable
 - Volcanic clay 
 	- In simulated ancient seawater, clay forms a hydrogel -- a mass of microscopic spaces capable of soaking up liquids like a sponge. https://www.sciencedaily.com/releases/2013/11/131105132027.htm
 	- chemicals confined in those spaces could have carried out the complex reactions that formed proteins, DNA and eventually all the machinery that makes a living cell work. Clay hydrogels could have confined and protected those chemical processes until the membrane that surrounds living cells developed.
-	-  theorists have shown that cytoplasm -- the interior environment of a cell -- behaves much like a hydrogel.
+	-  theorists have shown that cytoplasm -- the interior environment of a cell -- behaves much like a hydrogel. 
 
 
 
