@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4738)}}    % original
-%\rhead{\textrmlf{Compiled }\#4738\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4738\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4739)}}    % original
+%\rhead{\textrmlf{Compiled }\#4739\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4739\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -188,5 +188,10 @@ scale)}\label{if-linearly-dependent-then-are-multiple-solutions-atleast-dim1-inf
 \subsection{There's always a solution: the trivial one (all coefficients
 are
 zero)}\label{theres-always-a-solution-the-trivial-one-all-coefficients-are-zero}}
+
+\hypertarget{unlike-systems-of-equations-you-cant-have-no-solution-because-linear-maps-take-zero-to-zero}{%
+\subsubsection{unlike systems of equations, you can't have no solution
+because linear maps take zero to
+zero}\label{unlike-systems-of-equations-you-cant-have-no-solution-because-linear-maps-take-zero-to-zero}}
 
 \end{document}
