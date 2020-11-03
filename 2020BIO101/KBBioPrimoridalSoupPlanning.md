@@ -58,7 +58,7 @@ life is inevitable
 - at home in the universe 
 	- The chance that a single chemical is self replicating is very low
 	- however, this chemical is much more likely to another chemical 
-	- as the number of che
+	- as the number of chemicals and complexity increases, the likelihood that these chemicals will become cyclic increases exponentially  
 
 
 
