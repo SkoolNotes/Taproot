@@ -31,11 +31,11 @@
 *** When the answer is "infinitely many" what tools might we have to describe the size of that set?
     n/a
 *** How many possible outcomes $b$ are there for the equation $Ax=b$ for any $x$.
-    infinite, dim 2
+    column vector has dimension 3, but the vector space has dim 2
 ** $A = \begin{pmatrix}1&0&0\\0&1&0\\0&0&0\end{pmatrix}$
 *** How many solutions $x$ satisfy $Ax=0$?
     infinite, same vectors as subproblem 2
 *** When the answer is "infinitely many" what tools might we have to describe the size of that set?
     dimension 2? column vectors in the matrix are linearly dependent.
 *** How many possible outcomes $b$ are there for the equation $Ax=b$ for any $x$.
-    infinite, dim 2
+    infinite, dim 2 (but each vector is dim 3)
