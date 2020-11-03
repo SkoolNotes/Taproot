@@ -17,12 +17,12 @@
 *** When the answer is "infinitely many" what tools might we have to describe the size of that set?
     N/A
 *** How many possible outcomes $b$ are there for the equation $Ax=b$ for any $x$.
-    There can be infintely many vaules of $b$..?
+    There can be infintely many vaules of $b$..? The vector space is dim 2
 ** $A=\begin{pmatrix}1&0&0\\0&1&0\end{pmatrix}$
 *** How many solutions $x$ satisfy $Ax=0$?
     Infinitely many (anything of the form $\begin{pmatrix}0\\0\\x\end{pmatrix}$)
 *** When the answer is "infinitely many" what tools might we have to describe the size of that set?
-    A column in the matrix is zero? Maybe the columns are linearly dependent
+    A column in the matrix is zero? Maybe the columns are linearly dependent. Input is dim 1
 *** How many possible outcomes $b$ are there for the equation $Ax=b$ for any $x$.
     Infinite with $\text{dim} 2$?
 ** $A = \begin{pmatrix}1&0\\0&1\\0&0\end{pmatrix}$

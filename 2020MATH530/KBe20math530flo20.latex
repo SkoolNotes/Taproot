@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4732)}}    % original
-%\rhead{\textrmlf{Compiled }\#4732\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4732\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4733)}}    % original
+%\rhead{\textrmlf{Compiled }\#4733\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4733\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -212,7 +212,7 @@ N/A
 there for the equation \(Ax=b\) for any
 \(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-1}}
 
-There can be infintely many vaules of \(b\)..?
+There can be infintely many vaules of \(b\)..? The vector space is dim 2
 
 \hypertarget{abeginpmatrix100010endpmatrix}{%
 \subsection{\texorpdfstring{\(A=\begin{pmatrix}1&0&0\\0&1&0\end{pmatrix}\)}{A=\textbackslash begin\{pmatrix\}1\&0\&0\textbackslash\textbackslash0\&1\&0\textbackslash end\{pmatrix\}}}\label{abeginpmatrix100010endpmatrix}}
@@ -229,7 +229,8 @@ Infinitely many (anything of the form
 have to describe the size of that
 set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-2}}
 
-A column in the matrix is zero? Maybe the columns are linearly dependent
+A column in the matrix is zero? Maybe the columns are linearly
+dependent. Input is dim 1
 
 \hypertarget{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-2}{%
 \subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
