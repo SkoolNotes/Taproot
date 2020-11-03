@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4712)}}    % original
-%\rhead{\textrmlf{Compiled }\#4712\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4712\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4713)}}    % original
+%\rhead{\textrmlf{Compiled }\#4713\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4713\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -168,5 +168,9 @@
 
 \hypertarget{new-schedule-today}{%
 \section{new schedule today :/}\label{new-schedule-today}}
+
+\hypertarget{systems-of-equations-matrix-equations-and-vectors}{%
+\section{Systems of equations, matrix equations, and
+vectors}\label{systems-of-equations-matrix-equations-and-vectors}}
 
 \end{document}
