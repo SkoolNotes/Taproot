@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4705)}}    % original
-%\rhead{\textrmlf{Compiled }\#4705\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4705\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4706)}}    % original
+%\rhead{\textrmlf{Compiled }\#4706\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4706\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -319,7 +319,9 @@ life is inevitable
   \item
     The chance that a single chemical is self replicating is very low
   \item
-    The chance that a chemical produces another chemical which
+    The chance that a chemical produces another chemical which produces
+    the original chemical is also very low
+  \item
   \end{itemize}
 \end{itemize}
 
