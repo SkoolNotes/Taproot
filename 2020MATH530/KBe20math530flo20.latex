@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4730)}}    % original
-%\rhead{\textrmlf{Compiled }\#4730\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4730\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4731)}}    % original
+%\rhead{\textrmlf{Compiled }\#4731\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4731\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -307,5 +307,29 @@ there for the equation \(Ax=b\) for any
 \(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-5}}
 
 infinite, dim2 subspace of \(\mathbb F^3\)
+
+\hypertarget{a-beginpmatrix000003000endpmatrix}{%
+\subsection{\texorpdfstring{\(A = \begin{pmatrix}0&0&0\\0&0&3\\0&0&0\end{pmatrix}\)}{A = \textbackslash begin\{pmatrix\}0\&0\&0\textbackslash\textbackslash0\&0\&3\textbackslash\textbackslash0\&0\&0\textbackslash end\{pmatrix\}}}\label{a-beginpmatrix000003000endpmatrix}}
+
+\hypertarget{how-many-solutions-x-satisfy-ax0-6}{%
+\subsubsection{\texorpdfstring{How many solutions \(x\) satisfy
+\(Ax=0\)?}{How many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0-6}}
+
+infinite, vectors of the form \(\begin{pmatrix}a\\b\\0\end{pmatrix}\)
+(columns linearly dependent)
+
+\hypertarget{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-6}{%
+\subsubsection{When the answer is "infinitely many" what tools might we
+have to describe the size of that
+set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-6}}
+
+dim 1 subspace of \(\mathbb F^3\)
+
+\hypertarget{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-6}{%
+\subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
+there for the equation \(Ax=b\) for any
+\(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-6}}
+
+see previous
 
 \end{document}
