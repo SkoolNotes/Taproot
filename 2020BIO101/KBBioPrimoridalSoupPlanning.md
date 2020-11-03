@@ -38,7 +38,8 @@ life is inevitable
 
 ## three theories
 
-Volcanic clay 
+- Volcanic clay 
+	- In simulated ancient seawater, clay forms a hydrogel -- a mass of microscopic spaces capable of soaking up liquids like a sponge.
 
 
 
