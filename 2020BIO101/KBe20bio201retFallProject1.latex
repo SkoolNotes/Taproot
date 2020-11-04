@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4764)}}    % original
-%\rhead{\textrmlf{Compiled }\#4764\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4764\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4766)}}    % original
+%\rhead{\textrmlf{Compiled }\#4766\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4766\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -327,10 +327,6 @@ channels}\label{voltage-gated-ion-channels}}
     Approaches to Studying Voltage-Gated Ion Channel Modulation by
     General Anesthetics - ScienceDirect}
   \item
-    \href{https://www.sciencedirect.com/science/article/abs/pii/S0959440X16301506}{Voltage-gated
-    sodium channels viewed through a structural biology lens -
-    ScienceDirect}
-  \item
     \href{https://ars.els-cdn.com/content/image/1-s2.0-S0092867419307342-fx1_lrg.jpg}{1-s2.0-S0092867419307342-fx1\textsubscript{lrg}.jpg
     (996×996)}
   \item
@@ -343,12 +339,12 @@ channels}\label{voltage-gated-ion-channels}}
     \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2950829/}{Ion
     Channel Voltage Sensors: Structure, Function, and Pathophysiology}
   \item
+    \href{https://www.sciencedirect.com/science/article/abs/pii/S0959440X16301506}{Voltage-gated
+    sodium channels viewed through a structural biology lens -
+    ScienceDirect}
+  \item
     \href{https://www.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/neuron-membrane-potentials-topic/v/effects-of-axon-diameter-and-myelination}{Effects
     of axon diameter and myelination (video) \textbar{} Khan Academy}
-  \item
-    \href{https://www.sciencedirect.com/science/article/pii/S0076687918300156}{Computational
-    Approaches to Studying Voltage-Gated Ion Channel Modulation by
-    General Anesthetics - ScienceDirect}
   \item
     \href{https://www.pnas.org/content/112/1/124/tab-figures-data}{Free-energy
     landscape of ion-channel voltage-sensor--domain activation
@@ -896,5 +892,8 @@ S4}\label{electrostatic-interactions-of-s4}}
 
 \hypertarget{bottom-diagrams}{%
 \subsection{bottom diagrams}\label{bottom-diagrams}}
+
+\hypertarget{nav}{%
+\subsubsection{Nav}\label{nav}}
 
 \end{document}
