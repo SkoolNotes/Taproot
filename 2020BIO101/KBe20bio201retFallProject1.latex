@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4762)}}    % original
-%\rhead{\textrmlf{Compiled }\#4762\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4762\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4763)}}    % original
+%\rhead{\textrmlf{Compiled }\#4763\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4763\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -337,6 +337,9 @@ channels}\label{voltage-gated-ion-channels}}
     \href{https://www.pnas.org/content/pnas/112/1/124/F1.large.jpg}{F1.large.jpg
     (1036×1280)}
   \item
+    \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2950829/}{Ion
+    Channel Voltage Sensors: Structure, Function, and Pathophysiology}
+  \item
     \href{https://www.cell.com/cell/fulltext/S0092-8674(11)00997-4?_returnURL=https\%3A\%2F\%2Flinkinghub.elsevier.com\%2Fretrieve\%2Fpii\%2FS0092867411009974\%3Fshowall\%3Dtrue}{Crystal
     Structure of the Mammalian GIRK2 K+ Channel and Gating Regulation by
     G Proteins, PIP2, and Sodium: Cell}
@@ -351,9 +354,6 @@ channels}\label{voltage-gated-ion-channels}}
     \href{https://www.pnas.org/content/112/1/124/tab-figures-data}{Free-energy
     landscape of ion-channel voltage-sensor--domain activation
     \textbar{} PNAS}
-  \item
-    \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2950829/}{Ion
-    Channel Voltage Sensors: Structure, Function, and Pathophysiology}
   \item
     \href{https://www.cell.com/structure/fulltext/S0969-2126(15)00500-6?_returnURL=https\%3A\%2F\%2Flinkinghub.elsevier.com\%2Fretrieve\%2Fpii\%2FS0969212615005006\%3Fshowall\%3Dtrue}{Molecular
     Interactions in the Voltage Sensor Controlling Gating Properties of
