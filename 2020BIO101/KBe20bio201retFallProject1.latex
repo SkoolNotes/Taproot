@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4767)}}    % original
-%\rhead{\textrmlf{Compiled }\#4767\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4767\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4768)}}    % original
+%\rhead{\textrmlf{Compiled }\#4768\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4768\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -892,9 +892,40 @@ graph}\label{membrane-potential-graph}}
 \subsection{structure of VGIC + conformational change within
 subunit}\label{structure-of-vgic-conformational-change-within-subunit}}
 
+\hypertarget{resources}{%
+\subsubsection{\texorpdfstring{resources
+{\textsc{source}}}{resources source}}\label{resources}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.sciencedirect.com/science/article/pii/S0076687918300156}{Computational
+  Approaches to Studying Voltage-Gated Ion Channel Modulation by General
+  Anesthetics - ScienceDirect}
+\end{itemize}
+
 \hypertarget{electrostatic-interactions-of-s4}{%
 \subsection{electrostatic interactions of
 S4}\label{electrostatic-interactions-of-s4}}
+
+\hypertarget{resources-1}{%
+\subsubsection{\texorpdfstring{resources
+{\textsc{source}}}{resources source}}\label{resources-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.pnas.org/content/112/1/124/tab-figures-data}{Free-energy
+  landscape of ion-channel voltage-sensor--domain activation \textbar{}
+  PNAS}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{https://www.pnas.org/content/pnas/112/1/124/F1.large.jpg}{F1.large.jpg
+    (1036×1280)}
+  \end{itemize}
+\end{itemize}
 
 \hypertarget{bottom-diagrams}{%
 \subsection{bottom diagrams}\label{bottom-diagrams}}
