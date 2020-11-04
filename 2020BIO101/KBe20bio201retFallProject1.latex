@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4757)}}    % original
-%\rhead{\textrmlf{Compiled }\#4757\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4757\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4761)}}    % original
+%\rhead{\textrmlf{Compiled }\#4761\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4761\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -323,12 +323,16 @@ channels}\label{voltage-gated-ion-channels}}
   \item
     \url{https://en.wikipedia.org/wiki/Voltage-gated_ion_channel}
   \item
-    \href{https://ars.els-cdn.com/content/image/1-s2.0-S0092867419307342-fx1_lrg.jpg}{1-s2.0-S0092867419307342-fx1\textsubscript{lrg}.jpg
-    (996×996)}
-  \item
     \href{https://www.sciencedirect.com/science/article/pii/S0076687918300156}{Computational
     Approaches to Studying Voltage-Gated Ion Channel Modulation by
     General Anesthetics - ScienceDirect}
+  \item
+    \href{https://www.sciencedirect.com/science/article/abs/pii/S0959440X16301506}{Voltage-gated
+    sodium channels viewed through a structural biology lens -
+    ScienceDirect}
+  \item
+    \href{https://ars.els-cdn.com/content/image/1-s2.0-S0092867419307342-fx1_lrg.jpg}{1-s2.0-S0092867419307342-fx1\textsubscript{lrg}.jpg
+    (996×996)}
   \item
     \href{https://www.cell.com/cell/fulltext/S0092-8674(11)00997-4?_returnURL=https\%3A\%2F\%2Flinkinghub.elsevier.com\%2Fretrieve\%2Fpii\%2FS0092867411009974\%3Fshowall\%3Dtrue}{Crystal
     Structure of the Mammalian GIRK2 K+ Channel and Gating Regulation by
@@ -394,10 +398,6 @@ channels}\label{voltage-gated-ion-channels}}
   \item
     \href{https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/voltage-gated-ion-channel\#:~:text=Voltage\%2Dgated\%20ion\%20channels\%20contain,domain\%20responsible\%20for\%20sensing\%20voltage.}{Voltage-Gated
     Ion Channel - an overview \textbar{} ScienceDirect Topics}
-  \item
-    \href{https://www.sciencedirect.com/science/article/abs/pii/S0959440X16301506}{Voltage-gated
-    sodium channels viewed through a structural biology lens -
-    ScienceDirect}
   \end{itemize}
 \item
   lives on cell membrane
@@ -886,10 +886,12 @@ depolarization}\label{nerve-cell-action-potential-depolarization}}
 \subsubsection{membrane potential
 graph}\label{membrane-potential-graph}}
 
-\hypertarget{conformational-change-within-subunit}{%
-\subsection{conformational change within
-subunit}\label{conformational-change-within-subunit}}
+\hypertarget{structure-of-vgic-conformational-change-within-subunit}{%
+\subsection{structure of VGIC + conformational change within
+subunit}\label{structure-of-vgic-conformational-change-within-subunit}}
 
-**
+\hypertarget{electrostatic-interactions-of-s4}{%
+\subsection{electrostatic interactions of
+S4}\label{electrostatic-interactions-of-s4}}
 
 \end{document}
