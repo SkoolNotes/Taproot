@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4763)}}    % original
-%\rhead{\textrmlf{Compiled }\#4763\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4763\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4764)}}    % original
+%\rhead{\textrmlf{Compiled }\#4764\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4764\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -334,15 +334,14 @@ channels}\label{voltage-gated-ion-channels}}
     \href{https://ars.els-cdn.com/content/image/1-s2.0-S0092867419307342-fx1_lrg.jpg}{1-s2.0-S0092867419307342-fx1\textsubscript{lrg}.jpg
     (996×996)}
   \item
+    \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266868/}{THE
+    CRYSTAL STRUCTURE OF A VOLTAGE-GATED SODIUM CHANNEL}
+  \item
     \href{https://www.pnas.org/content/pnas/112/1/124/F1.large.jpg}{F1.large.jpg
     (1036×1280)}
   \item
     \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2950829/}{Ion
     Channel Voltage Sensors: Structure, Function, and Pathophysiology}
-  \item
-    \href{https://www.cell.com/cell/fulltext/S0092-8674(11)00997-4?_returnURL=https\%3A\%2F\%2Flinkinghub.elsevier.com\%2Fretrieve\%2Fpii\%2FS0092867411009974\%3Fshowall\%3Dtrue}{Crystal
-    Structure of the Mammalian GIRK2 K+ Channel and Gating Regulation by
-    G Proteins, PIP2, and Sodium: Cell}
   \item
     \href{https://www.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/neuron-membrane-potentials-topic/v/effects-of-axon-diameter-and-myelination}{Effects
     of axon diameter and myelination (video) \textbar{} Khan Academy}
@@ -382,8 +381,9 @@ channels}\label{voltage-gated-ion-channels}}
     and function of voltage‐gated sodium channels at atomic resolution -
     Catterall - 2014 - Experimental Physiology - Wiley Online Library}
   \item
-    \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266868/}{THE
-    CRYSTAL STRUCTURE OF A VOLTAGE-GATED SODIUM CHANNEL}
+    \href{https://www.cell.com/cell/fulltext/S0092-8674(11)00997-4?_returnURL=https\%3A\%2F\%2Flinkinghub.elsevier.com\%2Fretrieve\%2Fpii\%2FS0092867411009974\%3Fshowall\%3Dtrue}{Crystal
+    Structure of the Mammalian GIRK2 K+ Channel and Gating Regulation by
+    G Proteins, PIP2, and Sodium: Cell}
   \item
     \href{https://www.sciencedirect.com/science/article/pii/S2211124719301512}{The
     Role of CaV2.1 Channel Facilitation in Synaptic Facilitation -
@@ -893,5 +893,8 @@ subunit}\label{structure-of-vgic-conformational-change-within-subunit}}
 \hypertarget{electrostatic-interactions-of-s4}{%
 \subsection{electrostatic interactions of
 S4}\label{electrostatic-interactions-of-s4}}
+
+\hypertarget{bottom-diagrams}{%
+\subsection{bottom diagrams}\label{bottom-diagrams}}
 
 \end{document}
