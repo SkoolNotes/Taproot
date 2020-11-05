@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4854)}}    % original
-%\rhead{\textrmlf{Compiled }\#4854\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4854\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4855)}}    % original
+%\rhead{\textrmlf{Compiled }\#4855\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4855\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,5 +186,16 @@ zero}\label{all-vectors-that-get-sent-to-zero}}
 \hypertarget{null-space-because-it-is-a-subspace.}{%
 \subsubsection{\texorpdfstring{null \emph{space} because it is a
 subspace.}{null space because it is a subspace.}}\label{null-space-because-it-is-a-subspace.}}
+
+\hypertarget{closure-under-addition}{%
+\subsubsection{Closure under addition}\label{closure-under-addition}}
+
+\begin{enumerate}
+\item
+  meaning
+
+  Two things in the null space added together will be another thing in
+  the null space
+\end{enumerate}
 
 \end{document}
