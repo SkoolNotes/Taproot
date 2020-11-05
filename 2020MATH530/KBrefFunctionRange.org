@@ -3,3 +3,7 @@
 * Intuition
   All of the valid outputs of the function, everything that the function can equal when fed an element of the domain.
 * In the context of linear algebra (Axler 3.18)
+  #+begin_quote
+  For $T$ a function from $V$ to $W$, the /range/ of $T$ is the subset of $W$ consisting of those vectors that are of the form $Tv$ for some $v \in V$:
+  $$\text{range }T = \{Tv : v \in V\}$$
+  #+end_quote
