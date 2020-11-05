@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4781)}}    % original
-%\rhead{\textrmlf{Compiled }\#4781\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4781\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4783)}}    % original
+%\rhead{\textrmlf{Compiled }\#4783\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4783\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -166,14 +166,22 @@
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
 
-\hypertarget{definition-null-space}{%
-\section{\texorpdfstring{\#definition null space
-{\textsc{def}}}{\#definition null space def}}\label{definition-null-space}}
+\hypertarget{definition-null-space-kernel-textnull-t}{%
+\section{\texorpdfstring{\#definition null space, kernel,
+\(\text{null }T\)
+{\textsc{def}}}{\#definition null space, kernel, \textbackslash text\{null \}T def}}\label{definition-null-space-kernel-textnull-t}}
 
 \begin{quote}
 For \(T \in \mathcal L(V, W)\), the \emph{null space} of \(T\), denoted
 \(\text{null }T\), is the subset of \(V\) consisting of those vectors
 that \(T\) maps to 0: \[ \text{null }T = \{v \in V : Tv = 0\} \]
 \end{quote}
+
+\hypertarget{properties}{%
+\subsection{Properties}\label{properties}}
+
+\hypertarget{is-always-in-textnull-t}{%
+\subsubsection{\texorpdfstring{0 is always in
+\(\text{null }T\)}{0 is always in \textbackslash text\{null \}T}}\label{is-always-in-textnull-t}}
 
 \end{document}
