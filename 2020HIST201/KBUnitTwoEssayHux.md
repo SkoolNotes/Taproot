@@ -125,7 +125,9 @@ This is all built upon the concept that trade, and by extenstion, wealth and pow
 
 - Intro: lay out thesis
 - Lay out how the system works and define terms? Resan detant -> mercantalism -> balance of power
-- Mercantalism {and other is based on the idea that
+- Mercantalism {and other aspects of the system?} are based on the idea that {trade? wealth?} is a zero sum game 
+- Free market can generate wealth 
+- Conclustion 
 
 
 
