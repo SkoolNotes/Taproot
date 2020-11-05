@@ -1,0 +1,7 @@
+#+TITLE: Fundamental Theorem of Linear Maps!
+#+AUTHOR: Exr0n
+* Intuition
+* #definition Fundamental Theorem of Linear Maps                        :def:
+  #+begin_quote
+  Suppose $V$ is finite-dimensional and $T \in \mathcal L(V, W). Then \text{range }T is finite-dimensional and
+$$ \text{dim }V = \text{dim null }T + \text{dim range} T $$#+end_quote
