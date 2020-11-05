@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4855)}}    % original
-%\rhead{\textrmlf{Compiled }\#4855\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4855\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4856)}}    % original
+%\rhead{\textrmlf{Compiled }\#4856\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4856\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -197,5 +197,10 @@ subspace.}{null space because it is a subspace.}}\label{null-space-because-it-is
   Two things in the null space added together will be another thing in
   the null space
 \end{enumerate}
+
+\hypertarget{map-terminology}{%
+\subsection{Map terminology}\label{map-terminology}}
+
+In a map \(T : V \to W\), \(V\) is the domain and \(W\) is the codomain.
 
 \end{document}
