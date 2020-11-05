@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4710)}}    % original
-%\rhead{\textrmlf{Compiled }\#4710\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4710\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4813)}}    % original
+%\rhead{\textrmlf{Compiled }\#4813\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4813\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -252,5 +252,8 @@ Body paragraphs\ldots?
 \end{enumerate}
 
 Free market vs resan detat? are they different?
+
+\hypertarget{section}{%
+\paragraph{}\label{section}}
 
 \end{document}
