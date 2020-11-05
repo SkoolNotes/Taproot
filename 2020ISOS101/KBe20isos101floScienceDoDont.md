@@ -2,6 +2,7 @@ Do
 - Preamble
     - Have a null hypothesis
     - Don't get too attached to any one hypothesis
+    - Diverse group of people generating hypotheses
 - Data collection
     - Know your measurement proxies
     - Use larger sample sizes
@@ -15,6 +16,4 @@ Do
     - check statistics and data
 - Aftercare
     - Redo experiments
-
-- Multiple hypotheses
 
