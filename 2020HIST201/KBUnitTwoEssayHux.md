@@ -113,8 +113,9 @@ This is all built upon the concept that trade, and by extenstion, wealth and pow
 
 
 
+##### Need to prove
 
-
+- 
 
 
 
