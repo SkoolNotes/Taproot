@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4792)}}    % original
-%\rhead{\textrmlf{Compiled }\#4792\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4792\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4801)}}    % original
+%\rhead{\textrmlf{Compiled }\#4801\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4801\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -187,5 +187,9 @@ equals \(W\).
 \subsubsection{A non-surjective map can be made surjective by changing
 the output space. (intuitive, not in
 book)}\label{a-non-surjective-map-can-be-made-surjective-by-changing-the-output-space.-intuitive-not-in-book}}
+
+\hypertarget{a-map-to-a-larger-dimensional-space-is-not-surjective-axler3.24}{%
+\subsubsection{A map to a larger dimensional space is not surjective
+(Axler3.24)}\label{a-map-to-a-larger-dimensional-space-is-not-surjective-axler3.24}}
 
 \end{document}
