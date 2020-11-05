@@ -106,7 +106,7 @@ This concept, however, is incorrect. With free market trade, wealth can actully 
 
 Resan detant works by the state acting in its own self intrest, which manifests in mercantilism, the strategy of minizing imports and maximizing exports. It also manifests in war, but to a much lesser extent. 
 
-An emergent property, 'Balance of Power,' arises out of each of these this scenario
+An emergent property, 'Balance of Power,' arises out of a colection of these states all participating in resan detant.
 
 
 
