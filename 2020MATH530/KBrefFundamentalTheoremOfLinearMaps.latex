@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4860)}}    % original
-%\rhead{\textrmlf{Compiled }\#4860\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4860\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4861)}}    % original
+%\rhead{\textrmlf{Compiled }\#4861\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4861\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -169,12 +169,13 @@
 \hypertarget{intuition}{%
 \section{Intuition}\label{intuition}}
 
-The dimension of the domain \(V\) is amount of stuff that you throw away
-(null space) plus the amount of stuff that does not get thrown away (the
-column space). \sout{If \(T\) is a map from \(V\) to \(W\), then the
-dimension of the source map \(V\) is the dimension of the null space
-(everything in \(V\) that \(T\) takes to 0) plus the dimension of the
-range (all possible things taken to by \(T\))}
+In a linear map \(T : V\to W\), the dimension of the domain \(V\) is
+amount of stuff that you throw away (null space) plus the amount of
+stuff that does not get thrown away (the column space). \sout{If \(T\)
+is a map from \(V\) to \(W\), then the dimension of the source map \(V\)
+is the dimension of the null space (everything in \(V\) that \(T\) takes
+to 0) plus the dimension of the range (all possible things taken to by
+\(T\))}
 
 \hypertarget{definition-fundamental-theorem-of-linear-maps}{%
 \section{\texorpdfstring{\#definition Fundamental Theorem of Linear Maps
