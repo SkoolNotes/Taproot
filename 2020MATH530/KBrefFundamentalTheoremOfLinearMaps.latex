@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4793)}}    % original
-%\rhead{\textrmlf{Compiled }\#4793\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4793\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4795)}}    % original
+%\rhead{\textrmlf{Compiled }\#4795\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4795\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -173,8 +173,16 @@
 \section{\texorpdfstring{\#definition Fundamental Theorem of Linear Maps
 {\textsc{def}}}{\#definition Fundamental Theorem of Linear Maps def}}\label{definition-fundamental-theorem-of-linear-maps}}
 
+\begin{quote}
 Suppose \(V\) is finite-dimensional and \$T ∈ \mathcal L(V, W). Then
 range T is finite-dimensional and
-\[ \text{dim }V = \text{dim null }T + \text{dim range} T \]\#+end\textsubscript{quote}
+\[ \text{dim }V = \text{dim null }T + \text{dim range} T \]
+\end{quote}
+
+\hypertarget{see-also-dimension-null-space-and-range-of-a-function.}{%
+\subsection{\texorpdfstring{See also
+\href{KBrefDimension.org}{dimension}, \href{KBrefNullSpace.org}{null
+space}, and \href{KBrefFunctionRange.org}{range of a
+function}.}{See also dimension, null space, and range of a function.}}\label{see-also-dimension-null-space-and-range-of-a-function.}}
 
 \end{document}
