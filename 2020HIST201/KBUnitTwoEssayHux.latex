@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4815)}}    % original
-%\rhead{\textrmlf{Compiled }\#4815\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4815\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4816)}}    % original
+%\rhead{\textrmlf{Compiled }\#4816\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4816\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -259,5 +259,7 @@ Free market vs resan detat? are they different?
 Modern day, free market economys dominate
 
 In \{the time period\}, mercantalism and resan detant dominated.
+
+Why was this the case?
 
 \end{document}
