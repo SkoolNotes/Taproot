@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4780)}}    % original
-%\rhead{\textrmlf{Compiled }\#4780\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4780\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4781)}}    % original
+%\rhead{\textrmlf{Compiled }\#4781\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4781\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -166,6 +166,14 @@
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
 
+\hypertarget{definition-null-space}{%
+\section{\texorpdfstring{\#definition null space
+{\textsc{def}}}{\#definition null space def}}\label{definition-null-space}}
 
+\begin{quote}
+For \(T \in \mathcal L(V, W)\), the \emph{null space} of \(T\), denoted
+\(\text{null }T\), is the subset of \(V\) consisting of those vectors
+that \(T\) maps to 0: \[ \text{null }T = \{v \in V : Tv = 0\} \]
+\end{quote}
 
 \end{document}
