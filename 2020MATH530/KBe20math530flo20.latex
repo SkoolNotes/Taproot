@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4745)}}    % original
-%\rhead{\textrmlf{Compiled }\#4745\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4745\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4776)}}    % original
+%\rhead{\textrmlf{Compiled }\#4776\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4776\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -354,8 +354,10 @@ and
 \url{./KBrefColumnSpace.org}}{see ./KBrefHomogeneousEquations.org and ./KBrefColumnSpace.org}}\label{see-.kbrefhomogeneousequations.org-and-.kbrefcolumnspace.org}}
 
 \hypertarget{the-null-space-is-the-stuff-that-gets-sent-to-zero-responses-to-subpart-1}{%
-\subsection{The null space is the stuff that gets sent to zero
-(responses to subpart
-1)}\label{the-null-space-is-the-stuff-that-gets-sent-to-zero-responses-to-subpart-1}}
+\subsection{\texorpdfstring{The null space is the stuff that gets sent
+to zero (responses to subpart 1)
+{\textsc{definition}}~{\textsc{toexpand}}}{The null space is the stuff that gets sent to zero (responses to subpart 1) definition~toexpand}}\label{the-null-space-is-the-stuff-that-gets-sent-to-zero-responses-to-subpart-1}}
+
+See \url{./KBrefNullSpace.org}
 
 \end{document}
