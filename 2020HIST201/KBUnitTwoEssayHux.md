@@ -100,7 +100,7 @@ Mercantalism, the primary way resan detant is implimented, and what led to the b
 
 This concept, however, is incorrect. With free market trade, wealth can actully be *generated* {through trade}, and this {realization? property?} is what allowed free market systems to dominate. 
 
-
+###### Thesis: Free market systems were unable to triumph do the common belief that trade was a zero sum game. 
 
 
 
