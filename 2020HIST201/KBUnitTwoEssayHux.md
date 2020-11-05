@@ -102,6 +102,7 @@ This concept, however, is incorrect. With free market trade, wealth can actully 
 
 ###### Thesis: Free market systems were unable to triumph do the common belief that trade was a zero sum game. 
 
+This lack of understanding arose out of the enlightenment? 
 
 
 Resan detant works by the state acting in its own self intrest, which manifests in mercantilism, the strategy of minizing imports and maximizing exports. It also manifests in war, but to a much lesser extent. 
@@ -115,7 +116,9 @@ This is all built upon the concept that trade, and by extenstion, wealth and pow
 
 ##### Need to prove
 
-- Mercantalism is based 
+- Mercantalism is based in the idea that {trade?} is a zero sum game 
+- Free market can generate wealth 
+- free market systems 
 
 
 
