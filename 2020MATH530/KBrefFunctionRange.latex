@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4789)}}    % original
-%\rhead{\textrmlf{Compiled }\#4789\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4789\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4790)}}    % original
+%\rhead{\textrmlf{Compiled }\#4790\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4790\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -185,5 +185,11 @@ the subset of \(W\) consisting of those vectors that are of the form
 \hypertarget{aka-image}{%
 \subsection{\texorpdfstring{\#aka image
 {\textsc{aka}}}{\#aka image aka}}\label{aka-image}}
+
+\hypertarget{see-surjectivity-the-property-of-a-map-whose-range-is-its-output-space.}{%
+\subsection{\texorpdfstring{See
+\href{KBrefSurjectiveFunction.org}{surjectivity}, the property of a map
+whose range is it's output
+space.}{See surjectivity, the property of a map whose range is it's output space.}}\label{see-surjectivity-the-property-of-a-map-whose-range-is-its-output-space.}}
 
 \end{document}
