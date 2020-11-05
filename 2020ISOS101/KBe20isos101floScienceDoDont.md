@@ -11,6 +11,8 @@ Do
     - Have an analysis plan before beginning
     - State your analysis methods clearly
     - Be aware of the assumptions
+    - Be aware of overgeneralization
+    - Correlation vs Causation
 - Peer Review
     - be critical of results
     - check statistics and data
