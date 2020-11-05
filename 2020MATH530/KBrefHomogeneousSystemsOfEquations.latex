@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4805)}}    % original
-%\rhead{\textrmlf{Compiled }\#4805\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4805\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4807)}}    % original
+%\rhead{\textrmlf{Compiled }\#4807\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4807\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,5 +175,16 @@ equations}}{See Before: homogeneous equations}}\label{see-before-homogeneous-equ
 \section{Homogeneous systems of linear equations with more variables
 than equations has nonzero solutions
 (Axler3.26)}\label{homogeneous-systems-of-linear-equations-with-more-variables-than-equations-has-nonzero-solutions-axler3.26}}
+
+\hypertarget{inhomogeneous-systems-of-linear-equations-with-more-equations-than-variables-have-no-solution-for-some-choice-of-constant-terms}{%
+\section{Inhomogeneous systems of linear equations with more equations
+than variables have no solution for some choice of constant
+terms}\label{inhomogeneous-systems-of-linear-equations-with-more-equations-than-variables-have-no-solution-for-some-choice-of-constant-terms}}
+
+\hypertarget{methodology}{%
+\section{methodology}\label{methodology}}
+
+Basically turn it into a linear map and then abuse the
+injective/surjective theorems
 
 \end{document}
