@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4791)}}    % original
-%\rhead{\textrmlf{Compiled }\#4791\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4791\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4792)}}    % original
+%\rhead{\textrmlf{Compiled }\#4792\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4792\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,5 +182,10 @@ equals \(W\).
 
 \hypertarget{properties}{%
 \subsection{Properties}\label{properties}}
+
+\hypertarget{a-non-surjective-map-can-be-made-surjective-by-changing-the-output-space.-intuitive-not-in-book}{%
+\subsubsection{A non-surjective map can be made surjective by changing
+the output space. (intuitive, not in
+book)}\label{a-non-surjective-map-can-be-made-surjective-by-changing-the-output-space.-intuitive-not-in-book}}
 
 \end{document}
