@@ -1,0 +1,7 @@
+#+AUTHOR: Exr0n
+#+TITLE: Injectivity (math)
+* In the context of Linear Algebra (Axler 3.15)
+** #definition injective                                                :def:
+   #+begin_quote
+   A function $T : V \to W$ is called /injective/ if $Tu = Tv$ implies $u = v$
+   #+end_quote
