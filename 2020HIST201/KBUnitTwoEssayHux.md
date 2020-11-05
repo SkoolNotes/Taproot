@@ -121,7 +121,11 @@ This is all built upon the concept that trade, and by extenstion, wealth and pow
 - An internally free market system is viable, and forces other to join it? 
 
 
+#### Outline
 
+- Intro: lay out thesis
+- p1
+	- 
 
 
 
