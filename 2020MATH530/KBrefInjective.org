@@ -8,5 +8,6 @@
 ** #aka one-to-one                                                      :aka:
 ** Properties
 *** A map is injective iff it's null space equals $\{0\}$
+*** A map to a smaller dimensional space is not injective (Axler3.23)
 ** Intuition
-   $Tu = Tv \implies u = v$ means that if the outputs are the same, then the inputs are the same, aka only one input goes to that one output. That's why it's called "one-to-one"
+   $Tu = Tv \implies u = v$ means that if the outputs are the same, then the inputs are the same, aka only one input goes to that one output. That's why it's called "one-to-one": only one input goes to that one output

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4798)}}    % original
-%\rhead{\textrmlf{Compiled }\#4798\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4798\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4799)}}    % original
+%\rhead{\textrmlf{Compiled }\#4799\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4799\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,19 +179,28 @@ A function \(T : V \to W\) is called \emph{injective} if \(Tu = Tv\)
 implies \(u = v\)
 \end{quote}
 
-\hypertarget{properties}{%
-\subsubsection{Properties}\label{properties}}
+\hypertarget{aka-one-to-one}{%
+\subsection{\texorpdfstring{\#aka one-to-one
+{\textsc{aka}}}{\#aka one-to-one aka}}\label{aka-one-to-one}}
 
-\begin{enumerate}
-\item
-  A map is injective iff it's null space equals \(\{0\}\)
-\end{enumerate}
+\hypertarget{properties}{%
+\subsection{Properties}\label{properties}}
+
+\hypertarget{a-map-is-injective-iff-its-null-space-equals-0}{%
+\subsubsection{\texorpdfstring{A map is injective iff it's null space
+equals
+\(\{0\}\)}{A map is injective iff it's null space equals \textbackslash\{0\textbackslash\}}}\label{a-map-is-injective-iff-its-null-space-equals-0}}
+
+\hypertarget{a-map-to-a-smaller-dimensional-space-is-not-injective-axler3.23}{%
+\subsubsection{A map to a smaller dimensional space is not injective
+(Axler3.23)}\label{a-map-to-a-smaller-dimensional-space-is-not-injective-axler3.23}}
 
 \hypertarget{intuition}{%
 \subsection{Intuition}\label{intuition}}
 
 \(Tu = Tv \implies u = v\) means that if the outputs are the same, then
 the inputs are the same, aka only one input goes to that one output.
-That's why it's called "one-to-one"
+That's why it's called "one-to-one": only one input goes to that one
+output
 
 \end{document}
