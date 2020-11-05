@@ -124,8 +124,9 @@ This is all built upon the concept that trade, and by extenstion, wealth and pow
 #### Outline
 
 - Intro: lay out thesis
-- p1
-	- 
+- Lay out how the system works and define terms? Resan detant -> mercantalism -> balance of power
+- Mercantalism is based on the idea that 
+
 
 
 
