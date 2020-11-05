@@ -1,6 +1,7 @@
 #+TITLE: Fundamental Theorem of Linear Maps!
 #+AUTHOR: Exr0n
 * Intuition
+  If $T$ is a map from $V$ to $W$, then the dimension of the source map $V$ is the dimension of the null space (everything in $V$ that $T$ takes to 0) plus the dimension of the range (all possible things taken to by $T$)?
 * #definition Fundamental Theorem of Linear Maps                        :def:
   #+begin_quote
   Suppose $V$ is finite-dimensional and $T \in \mathcal L(V, W). Then \text{range }T is finite-dimensional and
