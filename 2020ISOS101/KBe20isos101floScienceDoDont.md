@@ -14,6 +14,7 @@ Do
     - Be aware of overgeneralization
     - Correlation vs Causation
 - Peer Review
+    - peer reviewers should be objective or people who disagree
     - be critical of results
     - check statistics and data
 - Aftercare
