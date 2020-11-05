@@ -5,5 +5,8 @@
    #+begin_quote
    A function $T : V \to W$ is called /injective/ if $Tu = Tv$ implies $u = v$
    #+end_quote
-*** Properties
-**** A map is injective iff it's null space equals $\{0\}$
+** #aka one-to-one                                                      :aka:
+** Properties
+*** A map is injective iff it's null space equals $\{0\}$
+** Intuition
+   $Tu = Tv \implies u = v$ means that if the outputs are the same, then the inputs are the same, aka only one input goes to that one output. That's why it's called "one-to-one"

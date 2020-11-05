@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4786)}}    % original
-%\rhead{\textrmlf{Compiled }\#4786\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4786\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4798)}}    % original
+%\rhead{\textrmlf{Compiled }\#4798\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4798\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,5 +186,12 @@ implies \(u = v\)
 \item
   A map is injective iff it's null space equals \(\{0\}\)
 \end{enumerate}
+
+\hypertarget{intuition}{%
+\subsection{Intuition}\label{intuition}}
+
+\(Tu = Tv \implies u = v\) means that if the outputs are the same, then
+the inputs are the same, aka only one input goes to that one output.
+That's why it's called "one-to-one"
 
 \end{document}
