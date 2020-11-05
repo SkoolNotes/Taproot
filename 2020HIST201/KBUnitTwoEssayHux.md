@@ -96,7 +96,7 @@ In {the time period}, mercantalism and resan detant dominated.
 
 Why was this the case? 
 
-Mercantalism, the fundemental 
+Mercantalism, the primary way resan detant is implimented, and what led to the balance of power dynamic, 
 
 
 
