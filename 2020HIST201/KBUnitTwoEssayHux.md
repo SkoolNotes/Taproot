@@ -105,7 +105,7 @@ This concept, however, is incorrect. With free market trade, wealth can actully 
 This lack of understanding arose out of the enlightenment? 
 
 
-Resan detant works by the state acting in its own self intrest, which manifests in mercantilism, the strategy of minizing imports and maximizing exports. It also manifests in war, but to a much lesser extent. 
+Resan detant works by the state acting in its own self intrest, which manifests in mercantilism, the strategy of minimizing imports and maximizing exports. It also manifests in war, but to a much lesser extent. 
 
 An emergent property, 'Balance of Power,' arises out of a collection of these states all participating in resan detant.
 
@@ -118,7 +118,7 @@ This is all built upon the concept that trade, and by extenstion, wealth and pow
 
 - Mercantalism is based in the idea that {trade?} is a zero sum game 
 - Free market can generate wealth 
-- free market systems 
+- An internally free market system is viable, and forces other to join it? 
 
 
 
