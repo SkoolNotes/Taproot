@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4777)}}    % original
-%\rhead{\textrmlf{Compiled }\#4777\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4777\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4779)}}    % original
+%\rhead{\textrmlf{Compiled }\#4779\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4779\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -358,6 +358,6 @@ and
 to zero (responses to subpart 1)
 {\textsc{definition}}~{\textsc{toexpand}}}{The null space is the stuff that gets sent to zero (responses to subpart 1) definition~toexpand}}\label{the-null-space-is-the-stuff-that-gets-sent-to-zero-responses-to-subpart-1}}
 
-See :q
+See \href{KBrefNullSpace.org}{Null Spaces}
 
 \end{document}
