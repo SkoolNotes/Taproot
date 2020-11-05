@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4852)}}    % original
-%\rhead{\textrmlf{Compiled }\#4852\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4852\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4854)}}    % original
+%\rhead{\textrmlf{Compiled }\#4854\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4854\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -166,6 +166,25 @@
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
 
+\hypertarget{breakout-groups}{%
+\section{breakout groups}\label{breakout-groups}}
 
+\hypertarget{was-not-particularly-on-topic}{%
+\subsection{was not particularly on
+topic}\label{was-not-particularly-on-topic}}
+
+\hypertarget{icr-axler3.b}{%
+\section{ICR Axler3.B}\label{icr-axler3.b}}
+
+\hypertarget{null-space}{%
+\subsection{Null Space}\label{null-space}}
+
+\hypertarget{all-vectors-that-get-sent-to-zero}{%
+\subsubsection{All vectors that get sent to
+zero}\label{all-vectors-that-get-sent-to-zero}}
+
+\hypertarget{null-space-because-it-is-a-subspace.}{%
+\subsubsection{\texorpdfstring{null \emph{space} because it is a
+subspace.}{null space because it is a subspace.}}\label{null-space-because-it-is-a-subspace.}}
 
 \end{document}
