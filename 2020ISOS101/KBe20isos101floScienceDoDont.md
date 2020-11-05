@@ -3,4 +3,7 @@ Do
 - Have an analysis plan before beginning
 - State your analysis methods clearly
 - Ensure that peer reviewers look at the statistics section
+- Control group
+
+- Multiple hypotheses?
 

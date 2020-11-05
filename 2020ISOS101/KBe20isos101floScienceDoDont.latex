@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4845)}}    % original
-%\rhead{\textrmlf{Compiled }\#4845\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4845\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4846)}}    % original
+%\rhead{\textrmlf{Compiled }\#4846\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4846\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -167,6 +167,12 @@
 
 Do - Have a null hypothesis - Have an analysis plan before beginning -
 State your analysis methods clearly - Ensure that peer reviewers look at
-the statistics section
+the statistics section - Control group
+
+\begin{itemize}
+\tightlist
+\item
+  Multiple hypotheses?
+\end{itemize}
 
 \end{document}
