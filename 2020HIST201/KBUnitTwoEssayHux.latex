@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4819)}}    % original
-%\rhead{\textrmlf{Compiled }\#4819\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4819\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4821)}}    % original
+%\rhead{\textrmlf{Compiled }\#4821\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4821\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -266,6 +266,7 @@ Mercantalism, the primary way resan detant is implimented, and what led
 to the balance of power dynamic, is fundementaly based upon the concept
 that wealth is a zero sum game
 
-This concept, however, is incorrect. With free market trade,
+This concept, however, is incorrect. With free market trade, wealth can
+actully be \emph{generated}
 
 \end{document}

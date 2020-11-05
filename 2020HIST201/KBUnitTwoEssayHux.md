@@ -98,7 +98,7 @@ Why was this the case?
 
 Mercantalism, the primary way resan detant is implimented, and what led to the balance of power dynamic, is fundementaly based upon the concept that wealth is a zero sum game
 
-This concept, however, is incorrect. With free market trade, 
+This concept, however, is incorrect. With free market trade, wealth can actully be *generated,* 
 
 
 
