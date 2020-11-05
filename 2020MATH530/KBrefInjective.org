@@ -5,3 +5,5 @@
    #+begin_quote
    A function $T : V \to W$ is called /injective/ if $Tu = Tv$ implies $u = v$
    #+end_quote
+*** Properties
+**** A map is injective iff it's null space equals $\{0\}$
