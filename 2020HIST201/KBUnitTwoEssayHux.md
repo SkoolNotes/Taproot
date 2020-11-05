@@ -109,7 +109,7 @@ Resan detant works by the state acting in its own self intrest, which manifests 
 An emergent property, 'Balance of Power,' arises out of a collection of these states all participating in resan detant.
 
 
-This is all built upon the concept that trade, and by extenstion, wealth and power? is a zero sum game 
+This is all built upon the concept that trade, and by extenstion, wealth and power? is a zero sum game[]() 
 
 
 
