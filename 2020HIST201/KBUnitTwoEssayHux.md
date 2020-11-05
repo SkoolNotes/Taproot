@@ -90,12 +90,13 @@ Free market vs resan detat? are they different?
 
 
 
-Modern day, free market economys dominate 
+Modern day, free market economys dominate -- free market won 
 
 In {the time period}, mercantalism and resan detant dominated. 
 
 Why was this the case? 
 
+Mercantalism, the fundemental 
 
 
 
