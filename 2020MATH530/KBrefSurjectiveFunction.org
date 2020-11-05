@@ -1,6 +1,9 @@
 #+TITLE: Surjectivity of Functions
 #+AUTHOR: Exr0n
-* In the context of Linear Algebra (Axler 3.20)
+* In the context of Linear Algebra (Axler 3.20) #defintion surjective :def:
   #+begin_quote
   A function $T : V \to W$ is called /surjective/ if its range equals $W$.
   #+end_quote
+** #aka onto                                                            :aka:
+** Properties
+*** A non-surjective map can be made surjective by changing the output space.
