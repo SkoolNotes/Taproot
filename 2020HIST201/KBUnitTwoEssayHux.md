@@ -96,7 +96,9 @@ In {the time period}, mercantalism and resan detant dominated.
 
 Why was this the case? 
 
-Mercantalism, the primary way resan detant is implimented, and what led to the balance of power dynamic, 
+Mercantalism, the primary way resan detant is implimented, and what led to the balance of power dynamic, is fundementaly based upon the concept that wealth is a zero sum game
+
+This concept, however, is incorrect. With free market trade, 
 
 
 
