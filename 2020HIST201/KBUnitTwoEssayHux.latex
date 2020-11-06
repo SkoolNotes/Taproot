@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4844)}}    % original
-%\rhead{\textrmlf{Compiled }\#4844\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4844\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4875)}}    % original
+%\rhead{\textrmlf{Compiled }\#4875\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4875\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -313,6 +313,12 @@ and power? is a zero sum game.
 \item
   Mercantalism \{and other aspects of the system?\} are based on the
   idea that \{trade? wealth?\} is a zero sum game
+
+  \begin{itemize}
+  \tightlist
+  \item
+    wealth is zero sum as measured by bullion,
+  \end{itemize}
 \item
   Free market can generate wealth
 \item
