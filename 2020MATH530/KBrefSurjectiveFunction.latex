@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4802)}}    % original
-%\rhead{\textrmlf{Compiled }\#4802\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4802\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4895)}}    % original
+%\rhead{\textrmlf{Compiled }\#4895\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4895\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -197,5 +197,15 @@ Suppose \(V\) and \(W\) are finite-dimensional spaces such that
 \(\text{dim }V < \text{dim }U\). Then no linear map from \(V\) to \(W\)
 is surjective.
 \end{quote}
+
+\begin{enumerate}
+\item
+  Intuition
+
+  Surjectivity means that every element in the output space is mapped
+  to, and that makes this intuitively true: If the number of possible
+  inputs (and by extension, possible outputs) is smaller dimension than
+  the output space, how can every output be mapped to?
+\end{enumerate}
 
 \end{document}
