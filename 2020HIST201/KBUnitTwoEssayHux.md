@@ -132,11 +132,11 @@ This is all built upon the concept that trade, and by extenstion, wealth and pow
 - Free market can generate wealth 
 - Conclustion 
 
-somehow indicate wasnts a free market 
+somehow indicate wasnts a free market? 
 
 #### Qoutes? 
 
-
+- "Since the seventeenth century, economic policy was guided by mercantilist theory, which held that the wealth of a nation could best be enhanced by the accumulation of precious metals like silver and gold.
 
 
 
