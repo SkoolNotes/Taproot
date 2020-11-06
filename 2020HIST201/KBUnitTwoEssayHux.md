@@ -136,7 +136,7 @@ somehow indicate wasnts a free market?
 
 #### Qoutes? 
 
-- "Since the seventeenth century, economic policy was guided by mercantilist theory, which held that the wealth of a nation could best be enhanced by the accumulation of precious metals like silver and gold.
+- "Since the seventeenth century, economic policy was guided by mercantilist theory, which held that the wealth of a nation could best be enhanced by the accumulation of precious metals like silver and gold." - david, 16 
 
 
 
