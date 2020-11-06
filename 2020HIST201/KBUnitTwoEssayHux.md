@@ -144,7 +144,7 @@ nineteenth, first by the ideas of the Enlightenment ... mercantilism would all b
 - "In his nine-hundred-page opus, The Wealthof Nations,Smith discussed how self- interest could work for the common good. By giving free rein to individ- ual greed and the private accumulation of wealth, the "invisible hand" of
 the market would benefit society in the end, a formula sometimes charac- terized by the seemingly paradoxical aphorism "private vice yields public virtue."" - david, 20
 - "These ideas shattered the prevalent doctrines of protectionism and mercantilism and became the basis for what would develop into capi- talism. " - david, 20 
-- "strictly and closely regulated society of Canada or at home in Europe."  
+- "strictly and closely regulated society of Canada or at home in Europe. By 1700, some colonies had already shown a tendency to grasp whatever freedom from royal control was available to them." - idk, 656 
 
 
 
