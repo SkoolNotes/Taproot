@@ -145,6 +145,7 @@ nineteenth, first by the ideas of the Enlightenment ... mercantilism would all b
 the market would benefit society in the end, a formula sometimes charac- terized by the seemingly paradoxical aphorism "private vice yields public virtue."" - david, 20
 - "These ideas shattered the prevalent doctrines of protectionism and mercantilism and became the basis for what would develop into capi- talism. " - david, 20 
 - "strictly and closely regulated society of Canada or at home in Europe. By 1700, some colonies had already shown a tendency to grasp whatever freedom from royal control was available to them." - idk, 656 
+- "Over the long run, Indian entrepreneurs, importing English machinery at first, created a machine-based textile industry in India that has since undercut the textile industry of England. Thus the long-term effect has been a spread of the new technology that, under conditions of free trade, favored India's entrepreneurial know-how and its low industrial wages." - last reading, 188 
 
 
 
