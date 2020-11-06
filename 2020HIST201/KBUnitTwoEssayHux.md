@@ -128,7 +128,7 @@ This is all built upon the concept that trade, and by extenstion, wealth and pow
 - Mercantalism {and other aspects of the system?} are based on the idea that {trade? wealth?} is a zero sum game 
 	- wealth is zero sum as measured by bullion, 
 		- wealth is confused with bullion, according to Adam smith 
-		- In reality, 
+		- In reality, welth when seperted from bullion can be generated through free market trade, making it not a zero sum game. 
 - Free market can generate wealth 
 - Conclustion 
 
