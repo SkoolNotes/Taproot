@@ -141,7 +141,9 @@ somehow indicate wasnts a free market?
 - "Since the middle of the seventeenth century, European monarchies had consciously pursued a policy of the balance of power, a system of shifting international alliances that prevented any one country from becoming too powerful. Wars were fought not so much for ideology or nationalism but to maintain the balance of power ; consequently, these conflicts were relatively restrained. " - david, 16
 - "This whole system, both domestic and international, was seriously challenged at the end of the eighteenth century and the beginning of the
 nineteenth, first by the ideas of the Enlightenment ... mercantilism would all be threatened with extinction at the turn of the nineteenth century. " david, 16-17
-- 
+- "In his nine-hundred-page opus, The Wealthof Nations,Smith discussed how self- interest could work for the common good. By giving free rein to individ- ual greed and the private accumulation of wealth, the "invisible hand" of
+the market would benefit society in the end, a formula sometimes charac- terized by the seemingly paradoxical aphorism "private vice yields public virtue."" - david, 20
+- "These ideas shattered the prevalent doctrines of protectionism and mercantilism and became the basis for what would develop into capi- talism. " - david, 20 
 
 
 
