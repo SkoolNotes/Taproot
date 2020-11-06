@@ -132,6 +132,7 @@ This is all built upon the concept that trade, and by extenstion, wealth and pow
 - Free market can generate wealth 
 - Conclustion 
 
+somehow indicate wasnts a free market 
 
 #### Qoutes? 
 
