@@ -127,6 +127,8 @@ This is all built upon the concept that trade, and by extenstion, wealth and pow
 - Lay out how the system works and define terms? Resan detant -> mercantalism -> balance of power
 - Mercantalism {and other aspects of the system?} are based on the idea that {trade? wealth?} is a zero sum game 
 	- wealth is zero sum as measured by bullion, 
+		- wealth is confused with bullion, according to Adam smith 
+		- In reality, 
 - Free market can generate wealth 
 - Conclustion 
 
