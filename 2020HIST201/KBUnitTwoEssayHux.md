@@ -138,7 +138,8 @@ somehow indicate wasnts a free market?
 
 - "Since the seventeenth century, economic policy was guided by mercantilist theory, which held that the wealth of a nation could best be enhanced by the accumulation of precious metals like silver and gold." - david, 16 
 - "Near the end of the eighteenth century, the theory of mercantilism, with its em- phasis on precious metals and government regulation, came under chal- lenge both by alternative economic theories, such as Adam Smith's theory of a free market economy (see below), and by the bourgeoisie themselves." - david, 16
-- 
+- "Since the middle of the seventeenth century, European monarchies had consciously pursued a policy of the balance of power, a system of shifting international alliances that prevented any one country from becoming too powerful. Wars were fought not so much for ideology or nationalism but to maintain the balance of power ; consequently, these conflicts were relatively restrained. " - david, 16
+- "
 
 
 
