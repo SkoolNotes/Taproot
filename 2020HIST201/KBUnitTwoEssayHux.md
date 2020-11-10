@@ -120,26 +120,17 @@ This is all built upon the concept that trade, and by extenstion, wealth and pow
 - Free market can generate wealth 
 - An internally free market system is viable, and forces other to join it? 
 
-
-#### Outline
-
-- Intro: lay out thesis
-- Lay out how the system works and define terms? Resan detant -> mercantalism -> balance of power
-- Mercantalism {and other aspects of the system?} are based on the idea that {trade? wealth?} is a zero sum game 
-	- wealth is zero sum as measured by bullion, 
-		- wealth is confused with bullion, according to Adam smith 
-		- In reality, welth when seperted from bullion can be generated through free market trade, making it not a zero sum game. 
-- Free market can generate wealth 
-- Conclustion 
-
-somehow indicate wasnts a free market? 
-
 #### Qoutes? 
 
 ##### How the system works
 - "Since the middle of the seventeenth century, European monarchies had consciously pursued a policy of the balance of power, a system of shifting international alliances that prevented any one country from becoming too powerful. Wars were fought not so much for ideology or nationalism but to maintain the balance of power ; consequently, these conflicts were relatively restrained. " - david, 16
 
 - "strictly and closely regulated society of Canada or at home in Europe. By 1700, some colonies had already shown a tendency to grasp whatever freedom from royal control was available to them." - idk, 656 
+- "This structure of state and society, described here for France, was similar to that of other European countries in the eighteenth century. Christian monarchs claiming divine right governed all of the major powers (the most important and powerful were France, Austria, Russia, Prussia, and En- gland), which were characterized by a feudal or semifeudal and mercantilist economic system and a rigidly hierarchical social structure. " - david, 16 
+- "With the concept of unity collapsing, the emerging states of Europe
+needed some principle to justify their heresy and to regulate their rela- tions. They found it in the concepts of raison d'etat and the balance of power. *Each depended on the other.* Raison d'etat asserted that the well- being of the state justified whatever means were employed to further it; the national interest supplanted the medieval notion of a universal mo- rality. The balance of power replaced the nostalgia for universal mon- archy with the consolation that each state, in pursuing its own selfish interests, would somehow contribute to the safety and progress of all the others." - Pitt, 8
+- "The state has no immortality, its salvation is now or never." 6 In other words, states do not receive credit in any world for doing what is right; they are only rewarded for being strong enough to do what is necessary." - pitt, 61  
+- "hen any state threatened to become domi- nant, its neighbors formed a coalition-not in pursuit of a theory of international relations but out of pure self-interest to block the ambitions of the most powerful." pitt, 70
 
 ##### Mercantalism 
 - "Since the seventeenth century, economic policy was guided by mercantilist theory, which held that the wealth of a nation could best be enhanced by the accumulation of precious metals like silver and gold." - david, 16 
@@ -158,16 +149,53 @@ the market would benefit society in the end, a formula sometimes charac- terized
 - "These ideas shattered the prevalent doctrines of protectionism and mercantilism and became the basis for what would develop into capi- talism. " - david, 20 
 
 - "Over the long run, Indian entrepreneurs, importing English machinery at first, created a machine-based textile industry in India that has since undercut the textile industry of England. Thus the long-term effect has been a spread of the new technology that, under conditions of free trade, favored India's entrepreneurial know-how and its low industrial wages." - last reading, 188
+- “It is scarcely possible to calculate the benefits which we might derive from the diffusion of European civilisation among the vast population of the East….To trade with civilised men is infinitely more profitable than to govern savages…” -Thomas Macaulay, advisor to Bentinck on India, 1835
+- " It is the maxim of every prudent master of a family, never  to  attempt to make at home what it will cost him more to make than  to  buy ..." Adam smith, wealth of nations
+	
 
 
 
+#### Outline
+
+- Intro: lay out thesis
+- Lay out how the system works and define terms? Resan detant -> mercantalism -> balance of power
+- Mercantalism {and other aspects of the system?} are based on the idea that {trade? wealth?} is a zero sum game 
+	- wealth is zero sum as measured by bullion, 
+		- wealth is confused with bullion, according to Adam smith 
+		- In reality, welth when seperted from bullion can be generated through free market trade, making it not a zero sum game. 
+- Free market can generate wealth 
+- Conclustion 
+
+somehow indicate wasnts a free market? 
 
 
 
+[FINAL ESSAY!](https://docs.google.com/document/d/18RdqFfEHmMsvaUV3sArkaXELJ_87YE8tvtf8RqYYao4/edit?usp=sharing)
+
+## Writing :clap: time :clap: 
 
 
 
+Intro basics: 
 
+- In the modern day, free markets dominate. 
+- However, in the early modern period, mercantilism dominated 
+- Why was it that mercantilism dominated then and not now?
+- Due to the common misconception that wealth was a zero sum game 
+- THESIS: This misconception was what prevented free market systems from dominating
+- To understand this misconception, we first must understand the system in which it took place. | Move? 
+
+
+
+In modern times, free markets dominate. However, in the early modern period, Mercantilism dominated. Ideologically speaking, the jump from Mercantilism to free market is quite a large one, so what allowed this shift? Why was it that free market economies dominate now and not then? The answer lies in a misconception rooted deep inside the concept of Mercantilism: wealth is zero sum. This misconception was what prevented free market systems from dominating. 
+
+To truly understand this misconception and its impact on the world, we first must understand the system in which it took place. In the wake of Europes' fragmentation, a balance of power was created through raison d’etat. The concept of raison d'etat states that the "well-being of the state justified whatever means were employed to further it"(citation). In other words, states should act only for their own personal gains without regarding the barriers of morality. A set of states all performing raison d'etat leads to a balance of power. Power was no longer controlled — or attempted to be controlled — through policy, but rather through the emergent property of "shifting international alliances that prevented any one country from becoming too powerful"(citation). The transition between raison d'etat to a balance of power manifested in multiple ways. One of these ways was war marking, as when "any state threatened to become dominant, its neighbors formed a coalition not in pursuit of a theory of international relations but out of pure self-interest to block the ambitions of the most powerful"(citation). War, arising out of pure self interest, led to groups of states maintaining the balance of power while having no regard for the greater good. Economically speaking, raison d'etat manifested in Mercantilism — a theory which guided economic policy and "held that the wealth of a nation could best be enhanced by the accumulation of precious metals like silver and gold"(citation). War, while prominent, was not what drove policy that effected virtually everybody's days to day life; economic theory, on the other hand, did. 
+
+
+Mercantilism, this economic theory, is reliant on a fundamentally flawed assumption. The core of this theory is about placing "emphasis on precious metals and government regulation" in an attempt to maximize exports while minimizing imports (citation). Mercantilists viewed imports as flow of wealth to rivals, and thus, the empowerment of rivals. Reversedly, exports leading to an intake of precious metals were viewed as an increase in power. Any import meant power to rivals and weakening of the state, and vise versa; thus, raison d'etat leads the state to do everything in its power to minimize its imports and maximize its exports. However, Mercantilism, while fundamentally being about wealth, confuses wealth with precious metals. The state is not simply trying to increase its intake of precious metals, but using this intake as a proxy for wealth. This is a flawed proxy. Precious metals are simply another commodity, and do not truly translate to wealth. By understanding that precious metals are a flawed proxy, the true misconception in Mercantilism is revealed: wealth is a zero sum game. Intuitively, wealth being zero sum makes sense. I give a slice of my pie to a rival, I lose a slice of my pie. The overall amount of pie is still constant. This pie model seems almost unquestionable when applied to precious metals — I trade away some gold, I lose some gold and my rival gains some gold. The overall amount of gold is still constant. This same scenario, however, does not apply with wealth. Of course, overall quantity of precious metals cannot be changed through trade, but wealth can. The fundamental assumption that Mercantilism is based upon is entirely flawed. Wealth not being zero sum was what, in part, allowed "alternative economic theories, such as Adam Smith's theory of a free market economy" to dominate (citation).
+
+
+Free market systems, unlike what is assumed by Mercantilism, can generate wealth through trade. With a free market system, your rival’s gain was not necessarily your loss — trade was clearly not zero sum. By disattaching precious metals from wealth, it can be understood that wealth is heavily tied to resource allocation, something that is best done by the emergent properties of a free market. With proper or improper resource allocation the overall wealth of the world can be, respectively, gained or lost. Adam Smith evidences this concept with an example, writing that "it is the maxim of every prudent master of a family, never to attempt to make at home what it will cost him more to make than to buy"(citation). If the "master of the family" was not so prudent and did attempt to make at home what it costed him less to buy, then he would be improperly allocating his resources and losing wealth without giving an equal amount of wealth. Thus, the overall amount of wealth in the world would have decreased. To illustrate this concept with a more specific scenario, imagine a room full of young students. At lunch time, the door closes, and the students proceed to trade. The students who wish to trade do so, and the ones who don't do not. By the end of lunch, the the students emerge with more value — more *wealth* — than before lunch, despite the fact that the classroom doors remained closed the entire time. This scenario is of course a microcosm of this {concept?}, where wealth was added to the world through the resource allocation done by the free market. This ability for free markets to generate wealth was what, {in part}, "shattered the prevalent doctrines of protectionism and mercantilism and became the basis for what would develop into capitalism"(citation).
 
 
 

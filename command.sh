@@ -10,12 +10,13 @@ while true; do
 
     changes="$(git status --porcelain | cut -c4-)"
 
+
     if [[ -n "$taproot_backup_path" ]]; then
         here="$(pwd)"
         rsync -av --exclude '.git*' . "$taproot_backup_path" >> log.txt
         cd $taproot_backup_path
-        #git add -A   > /dev/null
-        #git commit -m "automated backup" > /dev/null
+        git add -A   > /dev/null
+        git commit -m "automated backup" > /dev/null
         cd $here
     fi
 
