@@ -3,7 +3,7 @@
 * Problem
   #+begin_quote
   Suppose $U$ and $V$ are finite-dimensional vector spaces and $S \in \mathcal L(V ,w)$ and $T \in \mathcal L(U, V)$. Prove that
-  $$\text{dim range }ST \leq \min\{\text{dim range }S, \text{dim range }T\}.$$
+  $$\text{dim null }ST \leq \text{dim null }S + \text{dim null }T.$$
   #+end_quote
 * Proof
   All vectors $v \in \text{null }ST$ must have been nulled by $T$ or $S$, and therefore must be in $\text{null T}$ or $\text{range }T \cap \text{null }S$. Notationally,
