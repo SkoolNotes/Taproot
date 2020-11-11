@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11)}}    % original
-%\rhead{\textrmlf{Compiled }\#11\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#11\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5002)}}    % original
+%\rhead{\textrmlf{Compiled }\#5002\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5002\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -172,7 +172,7 @@
 \begin{quote}
 Suppose \(U\) and \(V\) are finite-dimensional vector spaces and
 \(S \in \mathcal L(V ,w)\) and \(T \in \mathcal L(U, V)\). Prove that
-\[\text{dim range }ST \leq \min\{\text{dim range }S, \text{dim range }T\}.\]
+\[\text{dim null }ST \leq \text{dim null }S + \text{dim null }T.\]
 \end{quote}
 
 \hypertarget{proof}{%
@@ -185,7 +185,7 @@ All vectors \(v \in \text{null }ST\) must have been nulled by \(T\) or
 Because no vector can be in both \(\text{null }T\) and
 \(\text{range }T\), the dimension of the union is
 \[\text{dim null }ST = \text{dim null }T + \text{dim }\left(\text{range }T \cap \text{null }S\right)\]
-Because an intersection can only make the dimension of a set smaller,
+An intersection can only make the dimension of a set smaller, so
 \(\text{dim }\left(\text{range }T \cap \text{null }S\right) \leq \text{dim null }S\)
 and
 \[\text{dim range }ST \leq \min\{\text{dim range }S, \text{dim range }T\}\]

@@ -10,5 +10,5 @@
   $$\text{null }ST = \text{null }T \cup \left(\text{range }T \cap \text{null }S\right)$$
   Because no vector can be in both $\text{null }T$ and $\text{range }T$, the dimension of the union is
   $$\text{dim null }ST = \text{dim null }T + \text{dim }\left(\text{range }T \cap \text{null }S\right)$$
-  Because an intersection can only make the dimension of a set smaller, $\text{dim }\left(\text{range }T \cap \text{null }S\right) \leq \text{dim null }S$ and
+  An intersection can only make the dimension of a set smaller, so $\text{dim }\left(\text{range }T \cap \text{null }S\right) \leq \text{dim null }S$ and
   $$\text{dim range }ST \leq \min\{\text{dim range }S, \text{dim range }T\}$$
