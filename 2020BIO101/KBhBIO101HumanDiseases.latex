@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4650)}}    % original
-%\rhead{\textrmlf{Compiled }\#4650\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#4650\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5005)}}    % original
+%\rhead{\textrmlf{Compiled }\#5005\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5005\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -741,11 +741,55 @@ Trigger\ldots{}
   it to serve as new casing
 \end{itemize}
 
-\hypertarget{retroviruses}{%
-\subsubsection{Retroviruses}\label{retroviruses}}
+\hypertarget{viral-genetic-shift-viral-genetic-drift}{%
+\subsubsection{Viral Genetic Shift + Viral Genetic
+Drift}\label{viral-genetic-shift-viral-genetic-drift}}
+
+\textbf{Shift} =\textgreater{} whole segments of genome exchange
+abruptly as two flu viruses infect the same cell to create a new strand.
+
+\textbf{Drift} =\textgreater{} single/groups of nucleotides flip slowly
+over time.
+
+The former is an environment-dependent process, where the latter is able
+to be modeled as it is due to transcription mistake.
+
+\hypertarget{retroviruses-how-to-stop-them}{%
+\subsubsection{Retroviruses + How to Stop
+Them}\label{retroviruses-how-to-stop-them}}
 
 \textbf{Viruses that have the ability to intergrate into the chromosomes
 of the host cell}
+
+\hypertarget{early-events}{%
+\paragraph{Early Events}\label{early-events}}
+
+\begin{itemize}
+\tightlist
+\item
+  Viruses is uncoated, and uses an enzyme called reverse transcriptase
+  to turn ssRNA to cDNA, and finally into dsDNA
+\item
+  Then, the enzyme integrase threads the viral dsDNA into the cell's
+  nucleaus
+\item
+  HIV protease cuts HIV polyproteins into individual parts ready for
+  budding
+\end{itemize}
+
+\hypertarget{late-events}{%
+\paragraph{Late Events}\label{late-events}}
+
+\begin{itemize}
+\tightlist
+\item
+  Proviral region is transcribed slowly whenever ribosome comes across
+  it by the host DNA polymerase II to make viral proteins + replicate
+  the viral genome
+\item
+  Components are later exported, assembled, and slowly released through
+  budding
+\end{itemize}
 
 To make this happen, the virus needs\ldots{}
 
@@ -811,6 +855,29 @@ Virus, in this case, spread through cell duplication
   Prevent viron maturation \texttt{PR}
 \end{itemize}
 
+\begin{figure}
+\centering
+\includegraphics{stophiv.png}
+\caption{stophiv.png}
+\end{figure}
+
+\begin{itemize}
+\tightlist
+\item
+  Most advanced: HAART (Highly-Active Anti-Retroviral Therapy)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Cocktail drug works together for inhibition
+  \item
+    Two drugs to stop intergration, one to stop protease (viron
+    maturation)
+  \item
+    Could develop resistance
+  \end{itemize}
+\end{itemize}
+
 \hypertarget{viral-genome-vs-mutation-rate}{%
 \subsubsection{Viral Genome vs Mutation
 Rate}\label{viral-genome-vs-mutation-rate}}
@@ -851,6 +918,39 @@ Damage host cells/tissues by\ldots{}
   Promoting tumorigenisis --- cancer
 \item
   Creating damaging immunological response
+\end{itemize}
+
+\hypertarget{preventing-viruses}{%
+\subsection{Preventing Viruses}\label{preventing-viruses}}
+
+Let's talk about \textbf{Remdesivir}! A drug developed by Pfizer that's
+used to combat Ebola + influenza viral replication.
+
+Modified nucleotide triphosphate which adds onto the RNA strand copied
+by the RNA-Dependent RNA Polymerase carried by viruses
+
+\begin{itemize}
+\tightlist
+\item
+  Pretends + gets inserted as a nucleotide
+\item
+  Once added onto the RNA chain, jams further actual nucleotides from
+  being inserted
+\end{itemize}
+
+\emph{Could} but usually does not jam up normal RNA polymerase which
+does normal transcription
+
+\begin{itemize}
+\tightlist
+\item
+  Inhibiting transcription in the short term won't kill you immediately
+\item
+  So, we hurt normal cell transcription a little in order to rid of the
+  virus
+\item
+  Need hospital treatment for regular and safe dosing for this exact
+  reason
 \end{itemize}
 
 \hypertarget{cn10212020}{%
@@ -1147,5 +1247,245 @@ guanine-capping enzyme)
 \textbf{DNA} viruses are ``less complex'', in that as long as they are
 able to get into the nucleaus, the rest would just be the body's work
 automatically.
+
+\hypertarget{list-of-kool-proteins}{%
+\subsubsection{List of Kool Proteins}\label{list-of-kool-proteins}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\begin{minipage}[b]{0.47\columnwidth}\raggedright
+Name\strut
+\end{minipage} & \begin{minipage}[b]{0.47\columnwidth}\raggedright
+Function\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+RNA Polymerase\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\emph{transcripts}: takes DNA and turns into mRNA\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+DNA Polymerase\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\emph{replicates}: takes DNA and makes more copy of it\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+RNA-Dependent RNA Polymerase\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\emph{replicates}: takes RNA and makes more copy of it. Basically only
+viruses use it.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Promoter\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\emph{signals}: DNA signal of the start of the DNA.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Terminator\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\emph{signals}: DNA signal of the end of the DNA.\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{dna-replication-and-the-cell-cycle}{%
+\subsection{DNA Replication and the Cell
+Cycle}\label{dna-replication-and-the-cell-cycle}}
+
+\hypertarget{so-why-do-cell-divide}{%
+\subsubsection{So, why do cell divide}\label{so-why-do-cell-divide}}
+
+\begin{quote}
+The ability to produce organisms more of their kind is one
+characteristic that best distinguishes living things from nonliving
+matter
+\end{quote}
+
+Viruses + Organelles challenge this definition =\textgreater{} they are
+symbiotic and cannot reproduce on their own. We tend to think that cells
+
+\begin{itemize}
+\tightlist
+\item
+  Everyday, 50-70 Billion die =\textgreater{} \textbf{programmed cell
+  death}
+\item
+  To compensate this, Mitosis (cell division) happen
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Cell divide in opposite directions
+  \item
+    Two strands ANTIPARALLEL to each other
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{levels-of-dna-structure}{%
+\subsubsection{Levels of DNA structure}\label{levels-of-dna-structure}}
+
+\begin{itemize}
+\tightlist
+\item
+  DNA Double Helix =\textgreater{} Unwrapped, raw DNA
+\item
+  Histones =\textgreater{} coiler proteins at which DNA coils around
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Four histones
+  \item
+    H3, H4, H2a, H2b wraps, H1 seals the four together
+  \item
+    Each protein has 1.65 wraps
+  \end{itemize}
+\item
+  Nucleosomes =\textgreater{} stack of 2 histone groups to create a
+  spool of 8 histone proteins wrapping DNA
+\item
+  Nucleosomes wraps around into a large fiber called ``chromatin''
+\item
+  A pair of chromatin entangle to form a chromasome
+\end{itemize}
+
+\hypertarget{cell-divison-process}{%
+\subsubsection{Cell divison process}\label{cell-divison-process}}
+
+\begin{itemize}
+\tightlist
+\item
+  Chromesomes line up in equator
+\item
+  Each chromesome has two chromatid exactly the same
+\item
+  Microtubials to pull chromesomes appart connected to kinecore, a joint
+  in the chromatid
+\item
+  Kinetore senses tension, and when it is correct, molecules are sent
+  down the microtubials to send a split signal
+\end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{levelsofdna.png}
+\caption{levelsofdna.png}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{histones.png}
+\caption{histones.png}
+\end{figure}
+
+\textbf{Most cell division results in genetically identical daughter
+cell}
+
+Each cell, once specialised, chooses what parts of their chromasome to
+unwrap + permanently wrap.
+
+Difference in transcription results in different phenotypes.
+
+Sperm + Egg (imcomplete cells) combine together to form a ``zygote''
+=\textgreater{} a single cell. Each person is from a zygote.
+
+For Eukarotes, cells divide using Mytosis.
+
+\href{https://docs.google.com/document/d/1TIrgR9VSV3attTK_QP-AOCs33mMoBP0Cz7DQXysKoD0/edit}{Paul's
+Cell Cycle Primer}
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-11-09 at 3.16.12 PM.png}
+\caption{Screen Shot 2020-11-09 at 3.16.12 PM.png}
+\end{figure}
+
+\hypertarget{major-cell-cycle-parts}{%
+\subsubsection{Major Cell Cycle Parts}\label{major-cell-cycle-parts}}
+
+\begin{itemize}
+\tightlist
+\item
+  G1 =\textgreater{} Rest Phase, Gap 1
+
+  \begin{itemize}
+  \tightlist
+  \item
+    May hit s.a. to volume checkpoint =\textgreater{} if ratio too big,
+    the cell is too big
+  \item
+    May hit diffusion checkpoint =\textgreater{} larger cells would need
+    to work harder to transport things to the centre
+  \end{itemize}
+\item
+  S =\textgreater{} S Phase, seperate DNA
+\item
+  G2 =\textgreater{} Rest Phrase, Gap 2
+\item
+  M =\textgreater{} Mitosis!
+
+  \begin{itemize}
+  \tightlist
+  \item
+    First unwinds the chromasomes
+  \item
+    Chromatin aligns in the center
+  \item
+    A divit (DEFINITION?) forms
+  \item
+    Two chromatin becomes pulled apart
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{how-to-copy-dna}{%
+\subsubsection{How to Copy DNA}\label{how-to-copy-dna}}
+
+Because \textbf{polymerases copy uni-directionally} =\textgreater{} DNA
+polyemrease move along the 3' to 5' DNA to create a copy 5' to 3'.
+Meaning, the polymerize is able to add nucleotide onto the 3' end of the
+DNA.
+
+\begin{itemize}
+\tightlist
+\item
+  Open the DNA at an arbuiturary point using the Helicase
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Uses two helicase =\textgreater{} one open rightward, and one
+    leftward
+  \end{itemize}
+\item
+  DNA polymerase could only add nucleotides 5' to 3'
+\item
+  As helicase open a little bit of the DNA, polymerases rushes to copy
+  the area that opened
+
+  \begin{itemize}
+  \tightlist
+  \item
+    In the \textbf{leading} strand (3' to 5'), polymerase will run
+    alongside the helicase for they are opening and replicating on the
+    same direction
+  \item
+    In the \textbf{lagging} strand (5' to 3'), polymerase will wait
+    until the helicate opens a little segment, and rushes forward and
+    move backwards
+  \end{itemize}
+\item
+  Ultimately
+\end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-11-09 at 3.51.24 PM.png}
+\caption{Screen Shot 2020-11-09 at 3.51.24 PM.png}
+\end{figure}
 
 \end{document}

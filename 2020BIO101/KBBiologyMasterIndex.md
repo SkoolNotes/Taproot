@@ -37,7 +37,8 @@ source: #index
 * Exr0n's Flows [[20bio201floD3]]
 * Dylan's crappy notes [[KBd20200911notes]]
 * Central Dogma of Biology
-* Huxley's big project planning doc [[KBBioPrimoridalSoupPlanning]] 
+* Huxley's big project planning doc [[KBBioPrimoridalSoupPlanning]]
+
 
 ## Amino Acids
 * [[KBhBIO101AminoAcids]]

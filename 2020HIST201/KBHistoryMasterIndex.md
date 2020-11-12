@@ -71,12 +71,20 @@ source: #index
 ### Reading Flos + Refs
 #disorganized 
 
+- Mason ch 1 + 2 [[KBhHIST201MasonCh1n2]]
 - Roberts [[KBhHIST201RobertsCh5]]
 - Colbert and Smith [[KBhHIST201ColbertAndSmith]]
 - Trauttmann [[KBhHIST201Trauttmann]]
-- Mason 
-	- Mason ch 1 + 2 [[KBhHIST201MasonCh1n2]]
-	- Mason ch 4 [[KBxMasonCh4]]
+
+## Unit 3: the Isms {Industrialization, Revolution, Marxism Imperialism}
+
+### Compiled Refs
+**The Isms**
+- [[KBhHIST201LiberalismAndNationalism]]: [[KBhHIST201Nationalism]] and [[KBhHIST201Liberalism]]
+
+### Reading Flos
+- Mason + Kennedy [[KBhHIST201MasonAndKennedy]]
+- MasonChapter5 [[KBhHIST201MasonCh5]]
     
 # Essays
 * Essay 1 

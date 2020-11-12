@@ -303,3 +303,54 @@ source: KBhMUS150D1
  - Acoustic instruments (but that's a tinydesk thing.)
  - Naturals and truth full vocals
  - Funky music
+ 
+# 11032020
+
+**Plastic**
+
+- Chill sounding background
+- Smooth vocals
+- Interesting background elements flowing in
+
+**Brain Dance**
+
+- A little folksy
+- Old school techno techniques
+- Reggae feeling with Guitar Rock elements
+
+**Kalimba Funk**
+
+- As titled — funk elements with Kalima/local music+drums 
+- Interesting blend of genras
+
+**Camines de Senegal**
+
+- Traditional drumline that seems dubsteppy
+- Akward combination that serves to create trippy effect
+
+**Massage Situation**
+
+- EP/Vinyl vibes
+- Heavy destruction in the background
+- Clapping and dubsteppy music without the actual dubstep/rap
+ 
+ # 11102020
+ 
+ **Mulasses**
+ 
+ - I guess we are in the randomness era => Random beats/baseline
+ - Clean lead vocals
+ - Occationally slipping into rap
+ 
+ **JEWELZ**
+ 
+ - A little weird vocals, with the formant filter
+ - Still the signature .Paak vocal vocal pattern
+ - Formant has slight destruction 
+ 
+ **Super Bounce**
+ 
+ - Traditional funky music
+ - A little funky beat
+ - 
+ 

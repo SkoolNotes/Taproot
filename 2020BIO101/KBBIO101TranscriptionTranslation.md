@@ -1,0 +1,12 @@
+## Transcription
+ - Polymerase
+	 - The thing that copies it over
+ - Promoter
+	 - The structure that chooses which genes to copy
+ - Coding Region
+	- The area of DNA to be copied
+- mRNA
+	- What the polymerase outputs (DNA copy inverse)
+- Terminator
+	- The tail end of the coding region that folds making the RNA fall off
+- 

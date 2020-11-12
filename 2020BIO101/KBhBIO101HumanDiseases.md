@@ -254,8 +254,27 @@ Trigger...
 - Meanwhile, send virus's own spikes to the membrane
 - On exit by extocytosis, steal a part of the newly-spikey membrane with it to serve as new casing
 
-### Retroviruses
+### Viral Genetic Shift + Viral Genetic Drift
+
+**Shift** => whole segments of genome exchange abruptly as two flu viruses infect the same cell to create a new strand.
+
+**Drift** => single/groups of nucleotides flip slowly over time.
+
+The former is an environment-dependent process, where the latter is able to be modeled as it is due to transcription mistake.
+
+### Retroviruses + How to Stop Them
 **Viruses that have the ability to intergrate into the chromosomes of the host cell**
+
+#### Early Events
+
+* Viruses is uncoated, and uses an enzyme called reverse transcriptase to turn ssRNA to cDNA, and finally into dsDNA
+* Then, the enzyme integrase threads the viral dsDNA into the cell's nucleaus
+* HIV protease cuts HIV polyproteins into individual parts ready for budding
+
+#### Late Events
+
+* Proviral region is transcribed slowly whenever ribosome comes across it by the host DNA polymerase II to make viral proteins + replicate the viral genome
+* Components are later exported, assembled, and slowly released through budding
 
 To make this happen, the virus needs...
 
@@ -284,6 +303,13 @@ Virus, in this case, spread through cell duplication
 * Prevent intergration via intergrease `IN`
 * Prevent viron maturation `PR`
 
+![stophiv.png](stophiv.png)
+
+* Most advanced: HAART (Highly-Active Anti-Retroviral Therapy)
+	- Cocktail drug works together for inhibition
+	- Two drugs to stop intergration, one to stop protease (viron maturation)
+	- Could develop resistance
+
 ### Viral Genome vs Mutation Rate
 
 ![Screen Shot 2020-10-12 at 11.24.39 PM.png](Screen Shot 2020-10-12 at 11.24.39 PM.png)
@@ -305,6 +331,22 @@ Damage host cells/tissues by...
 * Causing cell lysis (to explode)
 * Promoting tumorigenisis — cancer
 * Creating damaging immunological response
+
+## Preventing Viruses
+
+Let's talk about **Remdesivir**! A drug developed by Pfizer that's used to combat Ebola + influenza viral replication.
+
+ Modified nucleotide triphosphate which adds onto the RNA strand copied by the RNA-Dependent RNA Polymerase carried by viruses
+ 
+* Pretends + gets inserted as a nucleotide
+* Once added onto the RNA chain, jams further actual nucleotides from being inserted
+
+ _Could_ but usually does not jam up normal RNA polymerase which does normal transcription
+ 
+* Inhibiting transcription in the short term won't kill you immediately
+* So, we hurt normal cell transcription a little in order to rid of the virus
+* Need hospital treatment for regular and safe dosing for this exact reason
+
 
 # CN10212020
 
@@ -433,5 +475,89 @@ Viruses attempt to overwhelm the enzyme to entry.
 
 **DNA** viruses are "less complex", in that as long as they are able to get into the nucleaus, the rest would just be the body's work automatically.
 
+### List of Kool Proteins
 
+| Name | Function |
+|---|---|
+| RNA Polymerase | _transcripts_: takes DNA and turns into mRNA |
+| DNA Polymerase | _replicates_: takes DNA and makes more copy of it |
+| RNA-Dependent RNA Polymerase | _replicates_: takes RNA and makes more copy of it. Basically only viruses use it. |
+| Promoter | _signals_: DNA signal of the start of the DNA. | 
+| Terminator | _signals_: DNA signal of the end of the DNA. | 
 
+***
+
+## DNA Replication and the Cell Cycle
+
+### So, why do cell divide
+> The ability to produce organisms more of their kind is one characteristic that best distinguishes living things from nonliving matter
+
+Viruses + Organelles challenge this definition => they are symbiotic and cannot reproduce on their own. We tend to think that cells
+
+* Everyday, 50-70 Billion die => **programmed cell death**
+* To compensate this, Mitosis (cell division) happen 
+	* Cell divide in opposite directions
+	* Two strands ANTIPARALLEL to each other
+	
+	
+### Levels of DNA structure
+* DNA Double Helix => Unwrapped, raw DNA
+* Histones => coiler proteins at which DNA coils around
+	* Four histones
+	* H3, H4, H2a, H2b wraps, H1 seals the four together
+	* Each protein has 1.65 wraps
+* Nucleosomes => stack of 2 histone groups to create a spool of 8 histone proteins wrapping DNA
+* Nucleosomes wraps around into a large fiber called "chromatin"
+* A pair of chromatin entangle to form a chromasome
+
+### Cell divison process
+* Chromesomes line up in equator
+* Each chromesome has two chromatid exactly the same
+* Microtubials to pull chromesomes appart connected to kinecore, a joint in the chromatid
+* Kinetore senses tension, and when it is correct, molecules are sent down the microtubials to send a split signal
+
+![levelsofdna.png](levelsofdna.png)
+
+![histones.png](histones.png)
+
+**Most cell division results in genetically identical daughter cell**
+
+Each cell, once specialised, chooses what parts of their chromasome to unwrap + permanently wrap.
+
+Difference in transcription results in different phenotypes.
+
+Sperm + Egg (imcomplete cells) combine together to form a "zygote" => a single cell. Each person is from a zygote.
+
+For Eukarotes, cells divide using Mytosis.
+
+[Paul's Cell Cycle Primer](https://docs.google.com/document/d/1TIrgR9VSV3attTK_QP-AOCs33mMoBP0Cz7DQXysKoD0/edit)
+
+![Screen Shot 2020-11-09 at 3.16.12 PM.png](Screen Shot 2020-11-09 at 3.16.12 PM.png)
+
+### Major Cell Cycle Parts
+- G1 => Rest Phase, Gap 1
+	- May hit s.a. to volume checkpoint => if ratio too big, the cell is too big
+	- May hit diffusion checkpoint => larger cells would need to work harder to transport things to the centre
+- S => S Phase, seperate DNA
+- G2 => Rest Phrase, Gap 2
+- M => Mitosis!
+	- First unwinds the chromasomes
+	- Chromatin aligns in the center
+	- A divit (DEFINITION?) forms
+	- Two chromatin becomes pulled apart
+	
+***
+
+### How to Copy DNA
+
+Because **polymerases copy uni-directionally** => DNA polyemrease move along the 3' to 5' DNA to create a copy 5' to 3'. Meaning, the polymerize is able to add nucleotide onto the 3' end of the DNA.
+
+* Open the DNA at an arbuiturary point using the Helicase
+	* Uses two helicase => one open rightward, and one leftward
+* DNA polymerase could only add nucleotides 5' to 3'
+* As helicase open a little bit of the DNA, polymerases rushes to copy the area that opened
+	* In the **leading** strand (3' to 5'), polymerase will run alongside the helicase for they are opening and replicating on the same direction
+	* In the **lagging** strand (5' to 3'), polymerase will wait until the helicate opens a little segment, and rushes forward and move backwards
+* Ultimately
+
+![Screen Shot 2020-11-09 at 3.51.24 PM.png](Screen Shot 2020-11-09 at 3.51.24 PM.png)
