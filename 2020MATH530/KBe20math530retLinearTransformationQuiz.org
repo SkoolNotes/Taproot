@@ -11,3 +11,5 @@
    A system of equations where all the right hand sides are $0$.
 ** Injective
    When each element in the column space of a map is mapped to by exactly one element in the domain, aka when $Tu = Tv \implies u = v$.
+** Surjective
+   When every element in the codomain is mapped to, aka the column space is the codomain, aka $W = \{Tv : v \in V\}$.

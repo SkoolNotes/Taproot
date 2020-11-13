@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5013)}}    % original
-%\rhead{\textrmlf{Compiled }\#5013\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5013\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5014)}}    % original
+%\rhead{\textrmlf{Compiled }\#5014\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5014\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -201,5 +201,11 @@ A system of equations where all the right hand sides are \(0\).
 
 When each element in the column space of a map is mapped to by exactly
 one element in the domain, aka when \(Tu = Tv \implies u = v\).
+
+\hypertarget{surjective}{%
+\subsection{Surjective}\label{surjective}}
+
+When every element in the codomain is mapped to, aka the column space is
+the codomain, aka \(W = \{Tv : v \in V\}\).
 
 \end{document}
