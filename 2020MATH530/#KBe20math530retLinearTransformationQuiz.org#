@@ -1,0 +1,17 @@
+#+AUTHOR: Exr0n
+#+TITLE: LInear Transformation Quiz
+* Definitions
+** Linear Map
+   A linear map is a function/map from one vector space to another such that it satisfies the properties of additivity and homogeneity. Notationally, a linear map $T \in \mathcal L(V, W)$ satisfies $T(a) + T(b) = T(a+b) : a, b \in V$ and $\lambda Ta = T(\lambda a) : \lambda \in \mathbb F, a \in V$
+** Null Space
+   The null space of a linear map is the space of vectors that are sent to 0 by $T$, aka $\{v : v \in V \land Tv = 0\}$
+** Column Space
+   The column space of a linear map is the subspace of the codomain that is an output to the map, aka $\{w : Tv = w, v\in V, w\in W\}$
+** Homogeneous system of equations
+   A system of equations where all the right hand sides are $0$.
+** Injective
+   When each element in the column space of a map is mapped to by exactly one element in the domain, aka when $Tu = Tv \implies u = v$.
+** Surjective
+   When every element in the codomain is mapped to, aka the column space is the codomain, aka $W = \{Tv : v \in V\}$.
+* Fundamental theorem of linear maps
+  In a map $T \in \mathcal L(U, V)$ where $U$ is finite dimensional, $\text{dim }U = \text{dim range }T + \text{dim null }T$. Intuitively, the dimension of the input space is the dimension of everything that gets sent to zero plus everything that doesn't get sent to zero.
