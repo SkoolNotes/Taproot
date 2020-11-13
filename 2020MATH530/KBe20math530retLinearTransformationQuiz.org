@@ -5,3 +5,5 @@
    A linear map is a function/map from one vector space to another such that it satisfies the properties of additivity and homogeneity. Notationally, a linear map $T \in \mathcal L(V, W)$ satisfies $T(a) + T(b) = T(a+b) : a, b \in V$ and $\lambda Ta = T(\lambda a) : \lambda \in \mathbb F, a \in V$
 ** Null Space
    The null space of a linear map is the space of vectors that are sent to 0 by $T$, aka $\{v : v \in V \land Tv = 0\}$
+** Column Space
+   The column space of a linear map is the subspace of the codomain that is an output to the map, aka $\{w : Tv = w, v\in V, w\in W\}$

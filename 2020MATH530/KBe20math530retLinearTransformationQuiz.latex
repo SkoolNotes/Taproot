@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5011)}}    % original
-%\rhead{\textrmlf{Compiled }\#5011\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5011\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5012)}}    % original
+%\rhead{\textrmlf{Compiled }\#5012\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5012\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -183,5 +183,11 @@ Notationally, a linear map \(T \in \mathcal L(V, W)\) satisfies
 
 The null space of a linear map is the space of vectors that are sent to
 0 by \(T\), aka \(\{v : v \in V \land Tv = 0\}\)
+
+\hypertarget{column-space}{%
+\subsection{Column Space}\label{column-space}}
+
+The column space of a linear map is the subspace of the codomain that is
+an output to the map, aka \(\{w : Tv = w, v\in V, w\in W\}\)
 
 \end{document}
