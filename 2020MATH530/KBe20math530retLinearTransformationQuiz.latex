@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5012)}}    % original
-%\rhead{\textrmlf{Compiled }\#5012\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5012\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5013)}}    % original
+%\rhead{\textrmlf{Compiled }\#5013\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5013\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -189,5 +189,17 @@ The null space of a linear map is the space of vectors that are sent to
 
 The column space of a linear map is the subspace of the codomain that is
 an output to the map, aka \(\{w : Tv = w, v\in V, w\in W\}\)
+
+\hypertarget{homogeneous-system-of-equations}{%
+\subsection{Homogeneous system of
+equations}\label{homogeneous-system-of-equations}}
+
+A system of equations where all the right hand sides are \(0\).
+
+\hypertarget{injective}{%
+\subsection{Injective}\label{injective}}
+
+When each element in the column space of a map is mapped to by exactly
+one element in the domain, aka when \(Tu = Tv \implies u = v\).
 
 \end{document}

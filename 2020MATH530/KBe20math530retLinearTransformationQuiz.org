@@ -7,3 +7,7 @@
    The null space of a linear map is the space of vectors that are sent to 0 by $T$, aka $\{v : v \in V \land Tv = 0\}$
 ** Column Space
    The column space of a linear map is the subspace of the codomain that is an output to the map, aka $\{w : Tv = w, v\in V, w\in W\}$
+** Homogeneous system of equations
+   A system of equations where all the right hand sides are $0$.
+** Injective
+   When each element in the column space of a map is mapped to by exactly one element in the domain, aka when $Tu = Tv \implies u = v$.
