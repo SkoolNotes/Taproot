@@ -15,3 +15,5 @@
    When every element in the codomain is mapped to, aka the column space is the codomain, aka $W = \{Tv : v \in V\}$.
 * Fundamental theorem of linear maps
   In a map $T \in \mathcal L(U, V)$ where $U$ is finite dimensional, $\text{dim }U = \text{dim range }T + \text{dim null }T$. Intuitively, the dimension of the input space is the dimension of everything that gets sent to zero plus everything that doesn't get sent to zero.
+* Why is the range also called the "column space"?
+  When a linear map is thought of as a matrix, (which Jana promises is always possible), 
