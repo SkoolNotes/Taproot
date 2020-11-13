@@ -1,2 +1,5 @@
 #+AUTHOR: Exr0n
 #+TITLE: LInear Transformation Quiz
+* Definitions
+** Linear Map
+   A linear map is a function/map from one vector space to another such that it satisfies the properties of additivity and homogeneity. Notationally, a linear map $T \in \mathcal L(U, V)$ satisfies $T(a) + T(b) = T(a+b) : a, b \in U$ and $\lambda Ta = T(\lambda a) : \lambda \in \mathbb F, a \in U$
