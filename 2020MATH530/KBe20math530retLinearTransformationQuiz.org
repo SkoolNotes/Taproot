@@ -58,6 +58,7 @@
    Thus $Tu = Tv \implies u = v$ aka $T$ is injective.
 
 * Prove that for any $T \in \mathcal L(V, W)$, there is a subspace $U$ of $V$ such that $U \bigoplus \text{null }T = V$
+  This is not a complete proof because I ran out of time. I sketched out the high level framework for how I was planning on proving this.
 
 ** Proposed Set
   A the sum of two subspaces being a direct sub is equivalent to their intersection = 0. Let
@@ -69,6 +70,7 @@ $$U = \{v : v \in V, Tv \neq 0\} \cup 0$$. Notice that this is a subset of $V$ a
     $U$ contains zero by definition.
 
 *** Closed under addition
-    Let $u, v \in U$. Because $Tu \neq 0$ and $Tv \neq 0$, if $Tu + Tv = 0$ then $u = -v$.
+
+*** Closed under scalar multiplication
 
 ** Direct sum is equal to $V$
