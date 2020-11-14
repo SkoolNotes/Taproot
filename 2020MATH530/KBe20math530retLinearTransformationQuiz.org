@@ -58,3 +58,8 @@
    Thus $Tu = Tv \implies u = v$ aka $T$ is injective.
 
 * Prove that for any $T \in \mathcal L(V, W)$, there is a subspace $U$ of $V$ such that $U \bigoplus \text{null }T = V$
+  A the sum of two subspaces being a direct sub is equivalent to their intersection = 0. Let
+$$U = \{v : v \in V, Tv \neq 0\} \cup 0$$. Now, we show that it is a subspace of $V$.
+
+** Contains zero
+   $U$ contains zero by definition.
