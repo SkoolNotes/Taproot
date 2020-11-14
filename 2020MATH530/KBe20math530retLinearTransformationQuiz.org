@@ -43,5 +43,5 @@
    Because linear maps take zero to zero (result 4.1 in the previous proof), that vector $v$ must be zero. Thus, $\text{null }T = 0$.
 
 ** In the reverse direction
-   Intuitively: if any information is lost, then some of it must be lost to zero because zero is an element in every vector space and information should be lost "linearly" meaning relatively evenly.
-   Given that $\text{null }T = 0$ and supposing we had $u, v \in V$ such that $Tu = Tv$,
+   Intuitively: if any information is lost, then some of it must be lost to zero because zero is an element in every vector space and information should be lost "linearly" meaning "evenly".
+   Given that $\text{null }T = 0$, suppose for the sake of contradiction that we have $u, v \in V$ s.t. $u \neq v$ yet $Tu = Tv$.
