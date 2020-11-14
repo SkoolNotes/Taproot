@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5029)}}    % original
-%\rhead{\textrmlf{Compiled }\#5029\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5029\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5030)}}    % original
+%\rhead{\textrmlf{Compiled }\#5030\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5030\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -254,6 +254,14 @@ in the null space and the null space is closed under addition.
 
 If \(Ta = 0 : a \in \text{null }T\) and \(\lambda \in \mathbb F\), then
 \[\lambda Ta = \lambda 0 = 0 \text{ and } \lambda Ta = T(\lambda a)\]
-thus \(\lambda a\) is in the null space and
+thus \(\lambda a\) is in the null space and the null space is closed
+under scalar multiplication.
+
+Thus the null space is a vector space and a subspace of \(V\).
+
+\hypertarget{prove-that-t-in-mathcal-lv-w-is-injective-iff-textnullt-0}{%
+\section{\texorpdfstring{Prove that \(T \in \mathcal L(V, W)\) is
+injective iff
+\(\text{null}(T) = 0\)}{Prove that T \textbackslash in \textbackslash mathcal L(V, W) is injective iff \textbackslash text\{null\}(T) = 0}}\label{prove-that-t-in-mathcal-lv-w-is-injective-iff-textnullt-0}}
 
 \end{document}
