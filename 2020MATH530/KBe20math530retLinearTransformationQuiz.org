@@ -18,3 +18,7 @@
 * Why is the range also called the "column space"?
   When a linear map is thought of as a matrix, (which Jana promises is always possible), everything that can be mapped to is a linear combination of the columns. Why columns instead of rows? The convention we use is to multiply operation matrices on the left, and the way matrix multiplication works means that when multiplying by an $n \times 1$ matrix each element ends up as the coefficient for a column in a linear combination. Thus, all possible $n \times 1$ matrices when taken as input to the operation matrix will create the span of the columns.
 * Prove that for (presumably a linear map) $T \in \mathcal L(V, W)$ the null space is a subspace of $V$.
+  $$
+  v = T0 = T(0+0) = T0 + T0 = v + v \implies v = 0
+  $$
+  thus linear maps send zero to zero.
