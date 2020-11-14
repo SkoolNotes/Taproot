@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5039)}}    % original
-%\rhead{\textrmlf{Compiled }\#5039\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5039\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5040)}}    % original
+%\rhead{\textrmlf{Compiled }\#5040\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5040\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -225,10 +225,11 @@ When a linear map is thought of as a matrix, (which Jana promises is
 always possible), everything that can be mapped to is a linear
 combination of the columns. Why columns instead of rows? The convention
 we use is to multiply operation matrices on the left, and the way matrix
-multiplication works means that when multiplying by an \(n \times 1\)
-matrix each element ends up as the coefficient for a column in a linear
-combination. Thus, all possible \(n \times 1\) matrices when taken as
-input to the operation matrix will create the span of the columns.
+multiplication works means that when a \(n \times 1\) matrix is
+multiplied each element ends up as the coefficient for a column in a
+linear combination. Thus, all possible \(n \times 1\) matrices when
+taken as input to the operation matrix will create the span of the
+columns.
 
 \hypertarget{prove-that-for-presumably-a-linear-map-t-in-mathcal-lv-w-the-null-space-is-a-subspace-of-v.}{%
 \section{\texorpdfstring{Prove that for (presumably a linear map)
@@ -247,8 +248,9 @@ space.
 \subsection{Additivity}\label{additivity}}
 
 For vectors \(a, b \in \text{null }T\) if \(Ta = 0\) and \(Tb = 0\),
-then \[Ta + Tb = 0 + 0 = 0 \text{ and } Ta+Tb = T(a+b)\] thus \(a+b\) is
-in the null space and the null space is closed under addition.
+then \[Ta + Tb = 0 + 0 = 0 \text{ and } Ta+Tb = T(a+b) = 0\] thus
+\(a+b\) is in the null space and the null space is closed under
+addition.
 
 \hypertarget{homogeneity}{%
 \subsection{Homogeneity}\label{homogeneity}}
