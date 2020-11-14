@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5022)}}    % original
-%\rhead{\textrmlf{Compiled }\#5022\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5022\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5023)}}    % original
+%\rhead{\textrmlf{Compiled }\#5023\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5023\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -229,5 +229,10 @@ multiplication works means that when multiplying by an \(n \times 1\)
 matrix each element ends up as the coefficient for a column in a linear
 combination. Thus, all possible \(n \times 1\) matrices when taken as
 input to the operation matrix will create the span of the columns.
+
+\hypertarget{prove-that-for-presumably-a-linear-map-t-in-mathcal-lv-w-the-null-space-is-a-subspace-of-v.}{%
+\section{\texorpdfstring{Prove that for (presumably a linear map)
+\(T \in \mathcal L(V, W)\) the null space is a subspace of
+\(V\).}{Prove that for (presumably a linear map) T \textbackslash in \textbackslash mathcal L(V, W) the null space is a subspace of V.}}\label{prove-that-for-presumably-a-linear-map-t-in-mathcal-lv-w-the-null-space-is-a-subspace-of-v.}}
 
 \end{document}
