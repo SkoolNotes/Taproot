@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5041)}}    % original
-%\rhead{\textrmlf{Compiled }\#5041\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5041\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5042)}}    % original
+%\rhead{\textrmlf{Compiled }\#5042\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5042\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -255,7 +255,7 @@ addition.
 \hypertarget{homogeneity}{%
 \subsection{Homogeneity}\label{homogeneity}}
 
-If \(a \in \text{null }T\), then \(Ta = 0\) and
+If \(a \in \text{null }T\) (aka \(Ta = 0\)) and
 \(\lambda \in \mathbb F\), then
 \[\lambda Ta = \lambda 0 = 0 \text{ and } \lambda Ta = T(\lambda a)\]
 thus \(\lambda a\) is in the null space and the null space is closed
@@ -281,13 +281,14 @@ zero. Thus, \(\text{null }T = 0\).
 
 Intuitively: if any information is lost, then some of it must be lost to
 zero because zero is an element in every vector space and information
-should be lost "linearly" meaning "evenly". Given that
-\(\text{null }T = 0\), suppose we have \(u, v \in V\) s.t. \(Tu = Tv\).
-Then \[0 = Tu - Tv = T(u-v)\] \[
+should be lost "linearly" meaning "evenly".
+
+Given that \(\text{null }T = 0\), suppose we have \(u, v \in V\) s.t.
+\(Tu = Tv\). Then \[0 = Tu - Tv = T(u-v)\] \[
    \begin{aligned}
-   \therefore u-v \in \text{null }T\\
-   \therefore u-v = 0\\
-   \therefore u = v
+   \therefore& u-v \in \text{null }T\\
+   \therefore& u-v = 0\\
+   \therefore& u = v
    \end{aligned}
    \] Thus \(Tu = Tv \implies u = v\) aka \(T\) is injective.
 

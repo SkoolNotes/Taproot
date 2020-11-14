@@ -95,16 +95,17 @@ html {
             <h2 id="additivity">Additivity</h2>
             <p>For vectors <span class="math inline">\(a, b \in \text{null }T\)</span> if <span class="math inline">\(Ta = 0\)</span> and <span class="math inline">\(Tb = 0\)</span>, then <span class="math display">\[Ta + Tb = 0 + 0 = 0 \text{ and } Ta+Tb = T(a+b) = 0\]</span> thus <span class="math inline">\(a+b\)</span> is in the null space and the null space is closed under addition.</p>
             <h2 id="homogeneity">Homogeneity</h2>
-            <p>If <span class="math inline">\(a \in \text{null }T\)</span>, then <span class="math inline">\(Ta = 0\)</span> and <span class="math inline">\(\lambda \in \mathbb F\)</span>, then <span class="math display">\[\lambda Ta = \lambda 0 = 0 \text{ and } \lambda Ta = T(\lambda a)\]</span> thus <span class="math inline">\(\lambda a\)</span> is in the null space and the null space is closed under scalar multiplication.</p>
+            <p>If <span class="math inline">\(a \in \text{null }T\)</span> (aka <span class="math inline">\(Ta = 0\)</span>) and <span class="math inline">\(\lambda \in \mathbb F\)</span>, then <span class="math display">\[\lambda Ta = \lambda 0 = 0 \text{ and } \lambda Ta = T(\lambda a)\]</span> thus <span class="math inline">\(\lambda a\)</span> is in the null space and the null space is closed under scalar multiplication.</p>
             <p>Thus the null space is a vector space and a subspace of <span class="math inline">\(V\)</span>.</p>
             <h1 id="prove-that-t-in-mathcal-lv-w-is-injective-iff-textnullt-0">Prove that <span class="math inline">\(T \in \mathcal L(V, W)\)</span> is injective iff <span class="math inline">\(\text{null}(T) = 0\)</span></h1>
             <h2 id="in-the-forwards-direction">In the forwards direction</h2>
             <p><span class="math inline">\(T\)</span> being injective means <span class="math inline">\(Tu = Tv \implies u = v\)</span>, so only one vector <span class="math inline">\(v \in V\)</span> satisfies <span class="math inline">\(Tv = 0\)</span>. Because linear maps take zero to zero (result 4.1 in the previous proof), that vector <span class="math inline">\(v\)</span> must be zero. Thus, <span class="math inline">\(\text{null }T = 0\)</span>.</p>
             <h2 id="in-the-reverse-direction">In the reverse direction</h2>
-            <p>Intuitively: if any information is lost, then some of it must be lost to zero because zero is an element in every vector space and information should be lost "linearly" meaning "evenly". Given that <span class="math inline">\(\text{null }T = 0\)</span>, suppose we have <span class="math inline">\(u, v \in V\)</span> s.t. <span class="math inline">\(Tu = Tv\)</span>. Then <span class="math display">\[0 = Tu - Tv = T(u-v)\]</span> <span class="math display">\[\begin{aligned}
-               \therefore u-v \in \text{null }T\\
-               \therefore u-v = 0\\
-               \therefore u = v
+            <p>Intuitively: if any information is lost, then some of it must be lost to zero because zero is an element in every vector space and information should be lost "linearly" meaning "evenly".</p>
+            <p>Given that <span class="math inline">\(\text{null }T = 0\)</span>, suppose we have <span class="math inline">\(u, v \in V\)</span> s.t. <span class="math inline">\(Tu = Tv\)</span>. Then <span class="math display">\[0 = Tu - Tv = T(u-v)\]</span> <span class="math display">\[\begin{aligned}
+               \therefore&amp; u-v \in \text{null }T\\
+               \therefore&amp; u-v = 0\\
+               \therefore&amp; u = v
                \end{aligned}\]</span> Thus <span class="math inline">\(Tu = Tv \implies u = v\)</span> aka <span class="math inline">\(T\)</span> is injective.</p>
         </div>
 
