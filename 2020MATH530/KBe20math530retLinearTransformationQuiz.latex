@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5031)}}    % original
-%\rhead{\textrmlf{Compiled }\#5031\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5031\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5032)}}    % original
+%\rhead{\textrmlf{Compiled }\#5032\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5032\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -268,6 +268,11 @@ injective iff
 \subsection{In the forwards direction}\label{in-the-forwards-direction}}
 
 \(T\) being injective means \(Tu = Tv \implies u = v\), so only one
-vector \(v \in V\) satisfies \(Tv = 0\).
+vector \(v \in V\) satisfies \(Tv = 0\). Because linear maps take zero
+to zero (result 4.1 in the previous proof), that vector \(v\) must be
+zero. Thus, \(\text{null }T = 0\).
+
+\hypertarget{in-the-reverse-direction}{%
+\subsection{In the reverse direction}\label{in-the-reverse-direction}}
 
 \end{document}
