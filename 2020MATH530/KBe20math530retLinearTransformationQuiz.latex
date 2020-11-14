@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5045)}}    % original
-%\rhead{\textrmlf{Compiled }\#5045\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5045\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5046)}}    % original
+%\rhead{\textrmlf{Compiled }\#5046\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5046\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -298,6 +298,13 @@ there is a subspace \(U\) of \(V\) such that
 \(U \bigoplus \text{null }T = V\)}{Prove that for any T \textbackslash in \textbackslash mathcal L(V, W), there is a subspace U of V such that U \textbackslash bigoplus \textbackslash text\{null \}T = V}}\label{prove-that-for-any-t-in-mathcal-lv-w-there-is-a-subspace-u-of-v-such-that-u-bigoplus-textnull-t-v}}
 
 A the sum of two subspaces being a direct sub is equivalent to their
-intersection = 0. Let \[U = \{v : v \in V, Tv \neq 0\} \cup 0\]
+intersection = 0. Let \[U = \{v : v \in V, Tv \neq 0\} \cup 0\]. Notice
+that this is a subset of \(V\) and intersects \(\text{null }T\) at \(0\)
+exactly. Now, we show that it is a subspace of \(V\).
+
+\hypertarget{contains-zero-1}{%
+\subsection{Contains zero}\label{contains-zero-1}}
+
+\(U\) contains zero by definition.
 
 \end{document}

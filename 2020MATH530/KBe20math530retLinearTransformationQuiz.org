@@ -59,7 +59,7 @@
 
 * Prove that for any $T \in \mathcal L(V, W)$, there is a subspace $U$ of $V$ such that $U \bigoplus \text{null }T = V$
   A the sum of two subspaces being a direct sub is equivalent to their intersection = 0. Let
-$$U = \{v : v \in V, Tv \neq 0\} \cup 0$$. Now, we show that it is a subspace of $V$.
+$$U = \{v : v \in V, Tv \neq 0\} \cup 0$$. Notice that this is a subset of $V$ and intersects $\text{null }T$ at $0$ exactly. Now, we show that it is a subspace of $V$.
 
 ** Contains zero
    $U$ contains zero by definition.
