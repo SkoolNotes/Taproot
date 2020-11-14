@@ -68,4 +68,7 @@ $$U = \{v : v \in V, Tv \neq 0\} \cup 0$$. Notice that this is a subset of $V$ a
 *** Contains zero
     $U$ contains zero by definition.
 
+*** Closed under addition
+    Let $u, v \in U$. Because $Tu \neq 0$ and $Tv \neq 0$, if $Tu + Tv = 0$ then $u = -v$.
+
 ** Direct sum is equal to $V$
