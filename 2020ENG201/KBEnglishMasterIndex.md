@@ -54,7 +54,12 @@ source: #index
 # **Things Fall Apart**
 - [[KBhENG201ThingsFallApart]]
 
-  
+
+# A Small Place 
+
+* Huxley Pastiche Planning [[KBxPastichePlanning]]
+
+
 ## Annotated Docs
 | | |
 |-|-|
