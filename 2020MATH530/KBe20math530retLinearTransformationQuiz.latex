@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5026)}}    % original
-%\rhead{\textrmlf{Compiled }\#5026\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5026\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5027)}}    % original
+%\rhead{\textrmlf{Compiled }\#5027\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5027\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -238,6 +238,10 @@ input to the operation matrix will create the span of the columns.
 \[
   v = T0 = T(0+0) = T0 + T0 = v + v \implies v = 0
   \] thus linear maps send zero to zero. Thus zero is in the null space.
-If \(Ta = 0\) and \(Tb = 0\), then \[Ta + Tb = 0 + 0 = 0\]
+If \(Ta = 0\) and \(Tb = 0\), then
+\[Ta + Tb = 0 + 0 = 0 \text{ and } Ta+Tb = T(a+b)\] thus \(a+b\) is in
+the null space and the null space is closed under addition. If
+\(Ta = 0\) and \(\lambda \in \mathbb F\), then \$\$λ Ta = \emph{λ}0 = 0
+ and  λ Ta = T(\lambdaa)
 
 \end{document}

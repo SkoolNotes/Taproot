@@ -23,4 +23,7 @@
   $$
   thus linear maps send zero to zero. Thus zero is in the null space.
   If $Ta = 0$ and $Tb = 0$, then
-  $$Ta + Tb = 0 + 0 = 0$$
+  $$Ta + Tb = 0 + 0 = 0 \text{ and } Ta+Tb = T(a+b)$$
+  thus $a+b$ is in the null space and the null space is closed under addition.
+  If $Ta = 0$ and $\lambda \in \mathbb F$, then
+  $$\lambda Ta = \lambda 0 = 0 \text{ and } \lambda Ta = T(\lambda a)
