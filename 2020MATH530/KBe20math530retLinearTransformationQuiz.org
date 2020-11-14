@@ -23,14 +23,15 @@
   v = T0 = T(0+0) = T0 + T0 = v + v \implies v = 0
   $$
   thus linear maps send zero to zero. Thus zero is in the null space.
-  For vectors $a, b \in \text{null }T$:
 
 ** Additivity
-  If $Ta = 0$ and $Tb = 0$, then
+  For vectors $a, b \in \text{null }T$ if $Ta = 0$ and $Tb = 0$, then
   $$Ta + Tb = 0 + 0 = 0 \text{ and } Ta+Tb = T(a+b)$$
   thus $a+b$ is in the null space and the null space is closed under addition.
 
 ** Homogeneity
-  If $Ta = 0$ and $\lambda \in \mathbb F$, then
+  If $Ta = 0 : a \in \text{null }T$ and $\lambda \in \mathbb F$, then
   $$\lambda Ta = \lambda 0 = 0 \text{ and } \lambda Ta = T(\lambda a)$$
-  thus $\lambda a$ is in the null space and
+  thus $\lambda a$ is in the null space and the null space is closed under scalar multiplication.
+
+ Thus the null space is a vector space and a subspace of $V$.
