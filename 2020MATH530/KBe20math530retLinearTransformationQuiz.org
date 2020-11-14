@@ -31,7 +31,7 @@
    thus $a+b$ is in the null space and the null space is closed under addition.
 
 ** Homogeneity
-   If $Ta = 0 : a \in \text{null }T$ and $\lambda \in \mathbb F$, then
+   If $a \in \text{null }T$ (aka $Ta = 0$) and $\lambda \in \mathbb F$, then
    $$\lambda Ta = \lambda 0 = 0 \text{ and } \lambda Ta = T(\lambda a)$$
    thus $\lambda a$ is in the null space and the null space is closed under scalar multiplication.
 
@@ -45,6 +45,7 @@
 
 ** In the reverse direction
    Intuitively: if any information is lost, then some of it must be lost to zero because zero is an element in every vector space and information should be lost "linearly" meaning "evenly".
+
    Given that $\text{null }T = 0$, suppose we have $u, v \in V$ s.t. $Tu = Tv$. Then
    $$0 = Tu - Tv = T(u-v)$$
    $$
