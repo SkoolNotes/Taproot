@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5027)}}    % original
-%\rhead{\textrmlf{Compiled }\#5027\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5027\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5028)}}    % original
+%\rhead{\textrmlf{Compiled }\#5028\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5028\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -235,13 +235,26 @@ input to the operation matrix will create the span of the columns.
 \(T \in \mathcal L(V, W)\) the null space is a subspace of
 \(V\).}{Prove that for (presumably a linear map) T \textbackslash in \textbackslash mathcal L(V, W) the null space is a subspace of V.}}\label{prove-that-for-presumably-a-linear-map-t-in-mathcal-lv-w-the-null-space-is-a-subspace-of-v.}}
 
+\hypertarget{contains-zero}{%
+\subsection{Contains Zero}\label{contains-zero}}
+
 \[
   v = T0 = T(0+0) = T0 + T0 = v + v \implies v = 0
   \] thus linear maps send zero to zero. Thus zero is in the null space.
+For vectors \(a, b \in \text{null }T\):
+
+\hypertarget{additivity}{%
+\subsection{Additivity}\label{additivity}}
+
 If \(Ta = 0\) and \(Tb = 0\), then
 \[Ta + Tb = 0 + 0 = 0 \text{ and } Ta+Tb = T(a+b)\] thus \(a+b\) is in
-the null space and the null space is closed under addition. If
-\(Ta = 0\) and \(\lambda \in \mathbb F\), then \$\$λ Ta = \emph{λ}0 = 0
- and  λ Ta = T(\lambdaa)
+the null space and the null space is closed under addition.
+
+\hypertarget{homogeneity}{%
+\subsection{Homogeneity}\label{homogeneity}}
+
+If \(Ta = 0\) and \(\lambda \in \mathbb F\), then
+\[\lambda Ta = \lambda 0 = 0 \text{ and } \lambda Ta = T(\lambda a)\]
+thus \(\lambda a\) is in the null space and
 
 \end{document}

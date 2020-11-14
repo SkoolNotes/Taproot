@@ -90,7 +90,12 @@ html {
             <h1 id="why-is-the-range-also-called-the-column-space">Why is the range also called the "column space"?</h1>
             <p>When a linear map is thought of as a matrix, (which Jana promises is always possible), everything that can be mapped to is a linear combination of the columns. Why columns instead of rows? The convention we use is to multiply operation matrices on the left, and the way matrix multiplication works means that when multiplying by an <span class="math inline">\(n \times 1\)</span> matrix each element ends up as the coefficient for a column in a linear combination. Thus, all possible <span class="math inline">\(n \times 1\)</span> matrices when taken as input to the operation matrix will create the span of the columns.</p>
             <h1 id="prove-that-for-presumably-a-linear-map-t-in-mathcal-lv-w-the-null-space-is-a-subspace-of-v.">Prove that for (presumably a linear map) <span class="math inline">\(T \in \mathcal L(V, W)\)</span> the null space is a subspace of <span class="math inline">\(V\)</span>.</h1>
-            <p><span class="math display">\[v = T0 = T(0+0) = T0 + T0 = v + v \implies v = 0\]</span> thus linear maps send zero to zero. Thus zero is in the null space. If <span class="math inline">\(Ta = 0\)</span> and <span class="math inline">\(Tb = 0\)</span>, then <span class="math display">\[Ta + Tb = 0 + 0 = 0 \text{ and } Ta+Tb = T(a+b)\]</span> thus <span class="math inline">\(a+b\)</span> is in the null space and the null space is closed under addition. If <span class="math inline">\(Ta = 0\)</span> and <span class="math inline">\(\lambda \in \mathbb F\)</span>, then $$λ Ta = <em>λ</em>0 = 0 and λ Ta = T()</p>
+            <h2 id="contains-zero">Contains Zero</h2>
+            <p><span class="math display">\[v = T0 = T(0+0) = T0 + T0 = v + v \implies v = 0\]</span> thus linear maps send zero to zero. Thus zero is in the null space. For vectors <span class="math inline">\(a, b \in \text{null }T\)</span>:</p>
+            <h2 id="additivity">Additivity</h2>
+            <p>If <span class="math inline">\(Ta = 0\)</span> and <span class="math inline">\(Tb = 0\)</span>, then <span class="math display">\[Ta + Tb = 0 + 0 = 0 \text{ and } Ta+Tb = T(a+b)\]</span> thus <span class="math inline">\(a+b\)</span> is in the null space and the null space is closed under addition.</p>
+            <h2 id="homogeneity">Homogeneity</h2>
+            <p>If <span class="math inline">\(Ta = 0\)</span> and <span class="math inline">\(\lambda \in \mathbb F\)</span>, then <span class="math display">\[\lambda Ta = \lambda 0 = 0 \text{ and } \lambda Ta = T(\lambda a)\]</span> thus <span class="math inline">\(\lambda a\)</span> is in the null space and</p>
         </div>
 
         <script>
