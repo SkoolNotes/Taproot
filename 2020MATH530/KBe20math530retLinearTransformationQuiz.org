@@ -44,4 +44,6 @@
 
 ** In the reverse direction
    Intuitively: if any information is lost, then some of it must be lost to zero because zero is an element in every vector space and information should be lost "linearly" meaning "evenly".
-   Given that $\text{null }T = 0$, suppose for the sake of contradiction that we have $u, v \in V$ s.t. $u \neq v$ yet $Tu = Tv$.
+   Given that $\text{null }T = 0$, suppose we have $u, v \in V$ s.t. $Tu = Tv$. Then
+   $$0 = Tu - Tv = T(u-v)$$
+   therefore $u-v \in \text{null }T \therefore u-v = 0 \therefore u = v$
