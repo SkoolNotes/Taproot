@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5038)}}    % original
-%\rhead{\textrmlf{Compiled }\#5038\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5038\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5039)}}    % original
+%\rhead{\textrmlf{Compiled }\#5039\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5039\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -238,8 +238,8 @@ input to the operation matrix will create the span of the columns.
 \hypertarget{contains-zero}{%
 \subsection{Contains Zero}\label{contains-zero}}
 
-\[
-   v = T0 = T(0+0) = T0 + T0 = v + v \implies v = 0
+Let \(v = T0\). \[
+   T0 = T(0+0) = T0 + T0 = v + v \implies v = 0
    \] thus linear maps send zero to zero. Thus zero is in the null
 space.
 
@@ -286,6 +286,6 @@ Then \[0 = Tu - Tv = T(u-v)\] \[
    \therefore u-v = 0\\
    \therefore u = v
    \end{aligned}
-   \]
+   \] Thus \(Tu = Tv \implies u = v\) aka \(T\) is injective.
 
 \end{document}
