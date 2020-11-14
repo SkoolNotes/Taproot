@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5049)}}    % original
-%\rhead{\textrmlf{Compiled }\#5049\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5049\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5051)}}    % original
+%\rhead{\textrmlf{Compiled }\#5051\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5051\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -297,6 +297,9 @@ Given that \(\text{null }T = 0\), suppose we have \(u, v \in V\) s.t.
 there is a subspace \(U\) of \(V\) such that
 \(U \bigoplus \text{null }T = V\)}{Prove that for any T \textbackslash in \textbackslash mathcal L(V, W), there is a subspace U of V such that U \textbackslash bigoplus \textbackslash text\{null \}T = V}}\label{prove-that-for-any-t-in-mathcal-lv-w-there-is-a-subspace-u-of-v-such-that-u-bigoplus-textnull-t-v}}
 
+This is not a complete proof because I ran out of time. I sketched out
+the high level framework for how I was planning on proving this.
+
 \hypertarget{proposed-set}{%
 \subsection{Proposed Set}\label{proposed-set}}
 
@@ -325,5 +328,9 @@ multiplication}\label{closed-under-scalar-multiplication}}
 \hypertarget{direct-sum-is-equal-to-v}{%
 \subsection{\texorpdfstring{Direct sum is equal to
 \(V\)}{Direct sum is equal to V}}\label{direct-sum-is-equal-to-v}}
+
+Either dimension stuff or double containment: all vectors \(v \in V\)
+have either \(Tv = 0\) or \(Tv \neq 0\) so the sum contains \(V\), and
+\(V\) contains the sum because both summands were subspaces.
 
 \end{document}

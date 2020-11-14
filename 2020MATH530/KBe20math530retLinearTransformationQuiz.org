@@ -74,3 +74,4 @@ $$U = \{v : v \in V, Tv \neq 0\} \cup 0$$. Notice that this is a subset of $V$ a
 *** Closed under scalar multiplication
 
 ** Direct sum is equal to $V$
+   Either dimension stuff or double containment: all vectors $v \in V$ have either $Tv = 0$ or $Tv \neq 0$ so the sum contains $V$, and $V$ contains the sum because both summands were subspaces.
