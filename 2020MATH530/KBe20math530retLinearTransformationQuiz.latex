@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5037)}}    % original
-%\rhead{\textrmlf{Compiled }\#5037\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5037\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5038)}}    % original
+%\rhead{\textrmlf{Compiled }\#5038\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5038\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -239,8 +239,9 @@ input to the operation matrix will create the span of the columns.
 \subsection{Contains Zero}\label{contains-zero}}
 
 \[
-  v = T0 = T(0+0) = T0 + T0 = v + v \implies v = 0
-  \] thus linear maps send zero to zero. Thus zero is in the null space.
+   v = T0 = T(0+0) = T0 + T0 = v + v \implies v = 0
+   \] thus linear maps send zero to zero. Thus zero is in the null
+space.
 
 \hypertarget{additivity}{%
 \subsection{Additivity}\label{additivity}}
@@ -279,7 +280,12 @@ Intuitively: if any information is lost, then some of it must be lost to
 zero because zero is an element in every vector space and information
 should be lost "linearly" meaning "evenly". Given that
 \(\text{null }T = 0\), suppose we have \(u, v \in V\) s.t. \(Tu = Tv\).
-Then \[0 = Tu - Tv = T(u-v)\] therefore
-\(u-v \in \text{null }T \therefore u-v = 0 \therefore u = v\).
+Then \[0 = Tu - Tv = T(u-v)\] \[
+   \begin{aligned}
+   \therefore u-v \in \text{null }T\\
+   \therefore u-v = 0\\
+   \therefore u = v
+   \end{aligned}
+   \]
 
 \end{document}

@@ -19,22 +19,22 @@
   When a linear map is thought of as a matrix, (which Jana promises is always possible), everything that can be mapped to is a linear combination of the columns. Why columns instead of rows? The convention we use is to multiply operation matrices on the left, and the way matrix multiplication works means that when multiplying by an $n \times 1$ matrix each element ends up as the coefficient for a column in a linear combination. Thus, all possible $n \times 1$ matrices when taken as input to the operation matrix will create the span of the columns.
 * Prove that for (presumably a linear map) $T \in \mathcal L(V, W)$ the null space is a subspace of $V$.
 ** Contains Zero
-  $$
-  v = T0 = T(0+0) = T0 + T0 = v + v \implies v = 0
-  $$
-  thus linear maps send zero to zero. Thus zero is in the null space.
+   $$
+   v = T0 = T(0+0) = T0 + T0 = v + v \implies v = 0
+   $$
+   thus linear maps send zero to zero. Thus zero is in the null space.
 
 ** Additivity
-  For vectors $a, b \in \text{null }T$ if $Ta = 0$ and $Tb = 0$, then
-  $$Ta + Tb = 0 + 0 = 0 \text{ and } Ta+Tb = T(a+b)$$
-  thus $a+b$ is in the null space and the null space is closed under addition.
+   For vectors $a, b \in \text{null }T$ if $Ta = 0$ and $Tb = 0$, then
+   $$Ta + Tb = 0 + 0 = 0 \text{ and } Ta+Tb = T(a+b)$$
+   thus $a+b$ is in the null space and the null space is closed under addition.
 
 ** Homogeneity
-  If $Ta = 0 : a \in \text{null }T$ and $\lambda \in \mathbb F$, then
-  $$\lambda Ta = \lambda 0 = 0 \text{ and } \lambda Ta = T(\lambda a)$$
-  thus $\lambda a$ is in the null space and the null space is closed under scalar multiplication.
+   If $Ta = 0 : a \in \text{null }T$ and $\lambda \in \mathbb F$, then
+   $$\lambda Ta = \lambda 0 = 0 \text{ and } \lambda Ta = T(\lambda a)$$
+   thus $\lambda a$ is in the null space and the null space is closed under scalar multiplication.
 
- Thus the null space is a vector space and a subspace of $V$.
+   Thus the null space is a vector space and a subspace of $V$.
 
 * Prove that $T \in \mathcal L(V, W)$ is injective iff $\text{null}(T) = 0$
 
@@ -46,4 +46,11 @@
    Intuitively: if any information is lost, then some of it must be lost to zero because zero is an element in every vector space and information should be lost "linearly" meaning "evenly".
    Given that $\text{null }T = 0$, suppose we have $u, v \in V$ s.t. $Tu = Tv$. Then
    $$0 = Tu - Tv = T(u-v)$$
-   therefore $u-v \in \text{null }T \therefore u-v = 0 \therefore u = v$
+   $$
+   \begin{aligned}
+   \therefore u-v \in \text{null }T\\
+   \therefore u-v = 0\\
+   \therefore u = v
+   \end{aligned}
+   $$
+   Thus $Tu = Tv \implies u = v$ aka $T$ is injective.
