@@ -37,3 +37,6 @@
  Thus the null space is a vector space and a subspace of $V$.
 
 * Prove that $T \in \mathcal L(V, W)$ is injective iff $\text{null}(T) = 0$
+
+** In the forwards direction
+   $T$ being injective means $Tu = Tv \implies u = v$, so only one vector $v \in V$ satisfies $Tv = 0$.
