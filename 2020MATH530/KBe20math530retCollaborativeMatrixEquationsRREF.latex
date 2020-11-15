@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5105)}}    % original
-%\rhead{\textrmlf{Compiled }\#5105\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5105\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5106)}}    % original
+%\rhead{\textrmlf{Compiled }\#5106\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5106\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -215,5 +215,6 @@ matrices?}\label{find-the-column-space-and-null-space-of-the-matrices}}
 
 RREF:
 \(\begin{pmatrix}1&0&\frac{1}{2}\\\0&1&\frac{1}{4}\\0&0&0\end{pmatrix}\)
+Column space: vectors of the form \((x, y, 0) : x, y \in \mathbb F\)
 
 \end{document}
