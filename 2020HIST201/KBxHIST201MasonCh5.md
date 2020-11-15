@@ -87,7 +87,7 @@ no it's Marx.
 # Actual manifesto
 
 - >  class conflict—the idea that the social order is divided into classes based on conflicting economic interests.
-- 
+- i dont have time to annotate whoooops
 
 
 
