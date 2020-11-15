@@ -31,3 +31,5 @@
    Null space: 0.
 ** $\begin{pmatrix}1&0&2&4\\2&-1&0&1\end{pmatrix}$
    RREF: $\begin{pmatrix}1&0&2&4\\0&1&4&7\end{pmatrix}$
+   Column space: vectors of the form $(x, y)$.
+   Null space: $(w, x, y, z)$ where $x = -2y - 4 z$ and $y = -4y -7z$.
