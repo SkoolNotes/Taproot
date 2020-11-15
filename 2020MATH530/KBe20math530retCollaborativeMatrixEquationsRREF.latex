@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5117)}}    % original
-%\rhead{\textrmlf{Compiled }\#5117\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5117\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5118)}}    % original
+%\rhead{\textrmlf{Compiled }\#5118\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5118\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -214,7 +214,7 @@ matrices?}\label{find-the-column-space-and-null-space-of-the-matrices}}
 \subsection{\texorpdfstring{\(\begin{pmatrix}1&2&1\\2&0&1\\1&-2&0\end{pmatrix}\)}{\textbackslash begin\{pmatrix\}1\&2\&1\textbackslash\textbackslash2\&0\&1\textbackslash\textbackslash1\&-2\&0\textbackslash end\{pmatrix\}}}\label{beginpmatrix1212011-20endpmatrix}}
 
 RREF:
-\(\begin{pmatrix}1&0&\frac{1}{2}\\\0&1&\frac{1}{4}\\0&0&0\end{pmatrix}\)
+\(\begin{pmatrix}1&0&\frac{1}{2}\\0&1&\frac{1}{4}\\0&0&0\end{pmatrix}\)
 Column space: vectors of the form \((x, y, 0) : x, y \in \mathbb F\).
 Null space: vectors of the form \((4x, 2x, -x)\).
 
