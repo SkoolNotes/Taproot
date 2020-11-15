@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5096)}}    % original
-%\rhead{\textrmlf{Compiled }\#5096\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5096\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5097)}}    % original
+%\rhead{\textrmlf{Compiled }\#5097\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5097\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -176,6 +176,12 @@ When the matrix is square and has an inverse.
 \hypertarget{what-should-rref-be}{%
 \section{What should RREF be?}\label{what-should-rref-be}}
 
-If we are trying to get "as close as possible" to the identity, then
+If we are trying to get "as close as possible" to the identity, then we
+should prioritize the top left corner. So, for a non-square matrix RREF
+is the matrix where the top or left square is the identity matrix and
+everything else is zero, or failing the zeros everything else is as many
+zeros as possible, or failing that just anything. If the top/left square
+cannot be the identity matrix, then fill in as large an identity matrix
+as possible.
 
 \end{document}
