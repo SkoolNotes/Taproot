@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5066)}}    % original
-%\rhead{\textrmlf{Compiled }\#5066\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5066\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5067)}}    % original
+%\rhead{\textrmlf{Compiled }\#5067\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5067\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -265,5 +265,8 @@ Final due (including reflection): 11/20
 
 Uh, does that even apply? I want to use parenthises and I want to write
 about conflicting relationship
+
+\hypertarget{draft}{%
+\section{Draft}\label{draft}}
 
 \end{document}
