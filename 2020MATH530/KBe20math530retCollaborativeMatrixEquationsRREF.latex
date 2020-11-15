@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5103)}}    % original
-%\rhead{\textrmlf{Compiled }\#5103\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5103\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5105)}}    % original
+%\rhead{\textrmlf{Compiled }\#5105\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5105\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -209,5 +209,11 @@ intact:}\label{largest-square-identity-intact}}
 \hypertarget{find-the-column-space-and-null-space-of-the-matrices}{%
 \section{Find the column space and null space of the
 matrices?}\label{find-the-column-space-and-null-space-of-the-matrices}}
+
+\hypertarget{beginpmatrix1212011-20endpmatrix}{%
+\subsection{\texorpdfstring{\(\begin{pmatrix}1&2&1\\2&0&1\\1&-2&0\end{pmatrix}\)}{\textbackslash begin\{pmatrix\}1\&2\&1\textbackslash\textbackslash2\&0\&1\textbackslash\textbackslash1\&-2\&0\textbackslash end\{pmatrix\}}}\label{beginpmatrix1212011-20endpmatrix}}
+
+RREF:
+\(\begin{pmatrix}1&0&\frac{1}{2}\\\0&1&\frac{1}{4}\\0&0&0\end{pmatrix}\)
 
 \end{document}
