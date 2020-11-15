@@ -25,6 +25,7 @@
    RREF: $\begin{pmatrix}1&0&\frac{1}{2}\\\0&1&\frac{1}{4}\\0&0&0\end{pmatrix}$
    Column space: vectors of the form $(x, y, 0) : x, y \in \mathbb F$.
    Null space: vectors of the form $(4x, 2x, -x)$.
-** $\begin{pmatrix}1&-1\\0&3\\1&1\end{pmatrix}
+** $\begin{pmatrix}1&-1\\0&3\\1&1\end{pmatrix}$
    RREF: \begin{pmatrix}1&0\\0&1\\0&0\end{pmatrix}
    Column space: vectors of the form $(x, y, 0)$.
+   Null space: 0.

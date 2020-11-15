@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5111)}}    % original
-%\rhead{\textrmlf{Compiled }\#5111\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5111\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5112)}}    % original
+%\rhead{\textrmlf{Compiled }\#5112\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5112\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -219,10 +219,10 @@ Column space: vectors of the form \((x, y, 0) : x, y \in \mathbb F\).
 Null space: vectors of the form \((4x, 2x, -x)\).
 
 \hypertarget{beginpmatrix1-10311endpmatrix}{%
-\subsection{\$\textbackslash begin\{pmatrix\}1\&-1\textbackslash\textbackslash0\&3\textbackslash\textbackslash1\&1\textbackslash end\{pmatrix\}}\label{beginpmatrix1-10311endpmatrix}}
+\subsection{\texorpdfstring{\(\begin{pmatrix}1&-1\\0&3\\1&1\end{pmatrix}\)}{\textbackslash begin\{pmatrix\}1\&-1\textbackslash\textbackslash0\&3\textbackslash\textbackslash1\&1\textbackslash end\{pmatrix\}}}\label{beginpmatrix1-10311endpmatrix}}
 
 RREF:
 \textbackslash begin\{pmatrix\}1\&0\textbackslash\textbackslash0\&1\textbackslash\textbackslash0\&0\textbackslash end\{pmatrix\}
-Column space: vectors of the form \((x, y, 0)\).
+Column space: vectors of the form \((x, y, 0)\). Null space: 0.
 
 \end{document}
