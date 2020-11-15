@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5099)}}    % original
-%\rhead{\textrmlf{Compiled }\#5099\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5099\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5100)}}    % original
+%\rhead{\textrmlf{Compiled }\#5100\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5100\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,13 +182,26 @@ is the matrix where the top or left square is the identity matrix and
 everything else is zero, or failing the zeros everything else is as many
 zeros as possible, or failing that just anything. If the top/left square
 cannot be the identity matrix, then fill in as large an identity matrix
-as possible. \[
-  \begin{pmatrix}1&0&0&0\\0&1&0&0\\0&0&1&0\end{pmatrix} >
-  \begin{pmatrix}1&0&0&0\\0&1&0&0\\0&0&1&1\end{pmatrix} >
-  \begin{pmatrix}1&0&0&1\\0&1&0&0\\0&0&1&0\end{pmatrix} >
-  \begin{pmatrix}1&0&0&0\\0&1&0&1\\0&0&1&1\end{pmatrix} >
-  \begin{pmatrix}1&0&0&1\\0&1&0&1\\0&0&1&1\end{pmatrix} >
-  \begin{pmatrix}1&0&0&0\\0&1&0&0\\0&1&1&0\end{pmatrix} >
-  \]
+as possible.
+
+\hypertarget{largest-square-identity-intact}{%
+\subsection{Largest square identity
+intact:}\label{largest-square-identity-intact}}
+
+\[
+   \begin{pmatrix}1&0&0&0\\0&1&0&0\\0&0&1&0\end{pmatrix} >
+   \begin{pmatrix}1&0&0&0\\0&1&0&0\\0&0&1&1\end{pmatrix} >
+   \begin{pmatrix}1&0&0&1\\0&1&0&0\\0&0&1&0\end{pmatrix} >
+   \begin{pmatrix}1&0&0&0\\0&1&0&1\\0&0&1&1\end{pmatrix} >
+   \begin{pmatrix}1&0&0&1\\0&1&0&1\\0&0&1&1\end{pmatrix} >
+   \]
+
+\hypertarget{maximize-identity}{%
+\subsection{Maximize identity}\label{maximize-identity}}
+
+\[
+   \begin{pmatrix}1&0&0&0\\0&1&0&0\\0&1&1&0\end{pmatrix} >
+   \begin{pmatrix}1&0&0&0\\1&1&0&0\\0&0&1&0\end{pmatrix} >
+   \]
 
 \end{document}
