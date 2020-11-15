@@ -48,20 +48,46 @@ no it's Marx.
 - all historty is about and driven by class struggles 
 - > All societies begin in the primitive-communal stage, move through a system of slavery (the dominant class being the slave owners), then feudalism, then capitalism, and eventually communism, at which point classes would no longer exist.
 - Believed that this was inevitable in every society
+---
 - says that capatilism sows the seads of its own destruction 
 	- workers only get paid a fraction of the value they produce
 	- thus, they cant afford what they produce
 	- leads to accumulation of goods that people cannot buy
 	- which leads to peridoc crisis 
-	- and forces entrepaneus to scale back and lay off w0orke
+	- and forces entrepaneus to scale back and lay off workers
+	- which leads to increasingly bad econonic crises and the "immerseration" of the workers
+	- eventually the workers will just revolt
+	---
+	- is this true? woudnt the market just adjust? 
+
+
+## the idea? weird flow man 
+
+- > when the workers own the means of pro- duction, the entire economic substructure will collapse and re-form, as will the superstructure of society. 
+- adam smith talks about private vice creating public virute
+- marx says that the communist enviroment will foster people who dont engage in this private vice
+- and thus, the communal aspect works
+- communism fosters the creation of a "new man", which will build a "new society"
+- > When social classes disappear, so too will poverty, exploitation, re- sentment, greed, and crime, so that there will be no need for a police force. Indeed, because government simply perpetuates the supremacy of the dominant class, without social classes there will be no need for government at all. The state, according to Engels, will simply “wither away.” 
+- along with the states will be natinal boundries, and then the whole planet will all start hugging eachother
+
+
+## the idea, but later
+
+- product of enlightenment and such
+- idea of economic determinism is still largely present today
+- bunch people adopted it
+- to see this, see pg 33 
 
 
 
 
 
 
+# Actual manifesto
 
-
+- >  class conflict—the idea that the social order is divided into classes based on conflicting economic interests.
+- 
 
 
 
