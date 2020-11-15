@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5095)}}    % original
-%\rhead{\textrmlf{Compiled }\#5095\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5095\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5096)}}    % original
+%\rhead{\textrmlf{Compiled }\#5096\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5096\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -166,6 +166,16 @@
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
 
+\hypertarget{when-is-it-possible-to-transform-the-coefficient-matrix-into-the-identity-matrix}{%
+\section{When is it possible to transform the coefficient matrix into
+the identity
+matrix?}\label{when-is-it-possible-to-transform-the-coefficient-matrix-into-the-identity-matrix}}
 
+When the matrix is square and has an inverse.
+
+\hypertarget{what-should-rref-be}{%
+\section{What should RREF be?}\label{what-should-rref-be}}
+
+If we are trying to get "as close as possible" to the identity, then
 
 \end{document}
