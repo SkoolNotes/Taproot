@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5102)}}    % original
-%\rhead{\textrmlf{Compiled }\#5102\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5102\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5103)}}    % original
+%\rhead{\textrmlf{Compiled }\#5103\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5103\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,7 +182,7 @@ is the matrix where the top or left square is the identity matrix and
 everything else is zero, or failing the zeros everything else is as many
 zeros as possible, or failing that just anything. If the top/left square
 cannot be the identity matrix, then fill in as large an identity matrix
-as possible.
+as possible. Here are some examples in order of best to worst.
 
 \hypertarget{largest-square-identity-intact}{%
 \subsection{Largest square identity
@@ -196,8 +196,8 @@ intact:}\label{largest-square-identity-intact}}
    \begin{pmatrix}1&0&0&1\\0&1&0&1\\0&0&1&1\end{pmatrix} >
    \]
 
-\hypertarget{maximize-identity}{%
-\subsection{Maximize identity}\label{maximize-identity}}
+\hypertarget{maximize-identity-square}{%
+\subsection{Maximize identity square:}\label{maximize-identity-square}}
 
 \[
    \begin{pmatrix}1&0&0&0\\0&1&0&0\\0&0&2&0\end{pmatrix} >
