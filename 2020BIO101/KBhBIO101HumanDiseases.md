@@ -566,6 +566,21 @@ Because **polymerases copy uni-directionally** => DNA polyemrease move along the
 * As helicase open a little bit of the DNA, polymerases rushes to copy the area that opened
 	* In the **leading** strand (3' to 5'), polymerase will run alongside the helicase for they are opening and replicating on the same direction
 	* In the **lagging** strand (5' to 3'), polymerase will wait until the helicate opens a little segment, and rushes forward and move backwards
-* DNA polymerse will detect unfitting bonds 
+* DNA polymerse will detect unfitting bonds and repair them in a process called "proofreading." Mismatch repairing enzymes help the DNA polymerease pick out and replace problematic nucleotides and perhaps their neighbors.
+
+```
+- Many proteins work together in DNA replication and repair. 
+The process of DNA replication is semiconservative, such that takes place through complementary base pairing of a template strand of parent DNA. 
+
+- The process of replication begins at the origin of replication, forming a replication fork. The enzyme, helicase, unwinds DNA exposing template strands, primase synthesizes RNA primers to begin the process, and topoisomerase breaks, swivels, and rejoins the parent DNA to relieve strain caused by unwinding. 
+
+- DNA polymerase is the enzyme that catalyzes the process of complementary base pairing of nucleotides to the template strand. 
+
+- New nucleotide strands always for in the 5’ to 3’ direction, therefore the leading strand forms continuously but the lagging strand is formed in Okazaki fragments (still in the 5’ to 3’ direction) and connected by the enzyme ligase. 
+
+- DNA polymerase is able to proofread pairing, and along with mismatch repair enzymes, DNA is carefully check and repair DNA. 
+
+- The end of a DNA molecule are called telomeres (not in circular genome e.g. bacteria), and shorten during each replication (Hayflick limit). Noncoding, repeating units of nucleotides act as protection from losing essential genetic information by shorting. 
+```
 
 ![copying 1.png](copying 1.png)

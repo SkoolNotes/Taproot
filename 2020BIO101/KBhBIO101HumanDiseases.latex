@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5143)}}    % original
-%\rhead{\textrmlf{Compiled }\#5143\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5143\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5144)}}    % original
+%\rhead{\textrmlf{Compiled }\#5144\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5144\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1501,8 +1501,21 @@ DNA.
     move backwards
   \end{itemize}
 \item
-  DNA polymerse will detect unfitting bonds
+  DNA polymerse will detect unfitting bonds and repair them in a process
+  called ``proofreading.'' Mismatch repairing enzymes help the DNA
+  polymerease pick out and replace problematic nucleotides and perhaps
+  their neighbors.
 \end{itemize}
+
+\begin{verbatim}
+ Many proteins work together in DNA replication and repair. 
+The process of DNA replication is semiconservative, such that takes place through complementary base pairing of a template strand of parent DNA. 
+The process of replication begins at the origin of replication, forming a replication fork. The enzyme, helicase, unwinds DNA exposing template strands, primase synthesizes RNA primers to begin the process, and topoisomerase breaks, swivels, and rejoins the parent DNA to relieve strain caused by unwinding. 
+DNA polymerase is the enzyme that catalyzes the process of complementary base pairing of nucleotides to the template strand. 
+New nucleotide strands always for in the 5’ to 3’ direction, therefore the leading strand forms continuously but the lagging strand is formed in Okazaki fragments (still in the 5’ to 3’ direction) and connected by the enzyme ligase. 
+DNA polymerase is able to proofread pairing, and along with mismatch repair enzymes, DNA is carefully check and repair DNA. 
+The end of a DNA molecule are called telomeres (not in circular genome e.g. bacteria), and shorten during each replication (Hayflick limit). Noncoding, repeating units of nucleotides act as protection from losing essential genetic information by shorting. 
+\end{verbatim}
 
 \begin{figure}
 \centering
