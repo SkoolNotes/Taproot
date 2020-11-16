@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5005)}}    % original
-%\rhead{\textrmlf{Compiled }\#5005\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5005\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5137)}}    % original
+%\rhead{\textrmlf{Compiled }\#5137\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5137\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1198,6 +1198,21 @@ Eukarotic gene expression is regulated at many stages --- prevents error
 \includegraphics{Screen Shot 2020-11-02 at 2.48.22 PM.png}
 \caption{Screen Shot 2020-11-02 at 2.48.22 PM.png}
 \end{figure}
+
+In Prokarotes, there are less steps.
+
+Between the promoter and the actual coding DNA, there is a region named
+\emph{operator} that allows three types of regulatory molecules to bind
+
+Repressors are proteins that suppress transcription of a gene in
+response to an external stimulus. In other words, a repressor keeps a
+gene ``off.'' Activators are proteins that increase the transcription of
+a gene in response to an external stimulus. In other words, an activator
+turns a gene ``on.'' Inducers are small molecules that either activate
+or repress transcription depending on the needs of the cell and the
+availability of substrate. Inducers basically help speed up or slow down
+``on'' or ``off'' by binding to a repressor or activator. In other
+words: they don't work alone.
 
 \textbf{Question: how are proteins made in the viral genome}
 
