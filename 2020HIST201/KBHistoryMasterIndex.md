@@ -12,23 +12,23 @@ source: #index
 ## Course Content
 
 ## Introduction
-* [[GHMW Unit 1.pdf]] Readings 
-* [[GHMW Unit 2.pdf]] Also Readings 
+* [[GHMW Unit 1.pdf]] Readings
+* [[GHMW Unit 2.pdf]] Also Readings
 * [[KBhHIST201GHIntro]] Global History, Intro. Non-Sushu people will not find this helpful
 * The Homogenoscene
     * [[KBhHIST201HomogenosceneLN]] The Homogenocene Jack
     * [[KBhHIST201HomogenosceneRedux]] The Homogenocene R0n
 * [[KB20200824141300]] Day One
-* Watson 
+* Watson
     * [[KB20200825121700]] Hux's Reading
     * [[KBhHIST201Watson]] Sushu's Reading as Presented in Class, by Jack
-	
-## Unit 1	
-    
+
+## Unit 1
+
 ### Kennedy
 * Kennedy, Chapter 1
-    * Huxley — [[KBKennedyNotes]] 
-    * Jack — [[KBhHIST201KennedyCh1]] 
+    * Huxley — [[KBKennedyNotes]]
+    * Jack — [[KBhHIST201KennedyCh1]]
 	* Alb - [[KBe20hist201floKennedyCH1pt1]] and [[retExr0nKennedyCh1Pt2]]
 * Textbook models of History [[KBhHIST201HistModHist]]
 
@@ -36,7 +36,7 @@ source: #index
 * Mann, Ming
     * Jack — [[KBhHIST201MannMing]]
 	- Alb - [[retExr0nMannMingTrade]]
-    
+
 ### Qing
 * Jack's Qing Index [[KBhHIST201Qing1500s]]
 
@@ -47,21 +47,21 @@ source: #index
 ### Ottomans
 - [[KBrefOttomanEmpire]]
 - [History Summarized: The Ottoman Empire](https://www.youtube.com/watch?v=SZ8UWobHA3M): [[Kbe20hist201floSummarizedOttomanEmpireVideo]]
-* Bulliet 19 
+* Bulliet 19
 	* Huxley: [[KBBullietCh19]]
 	* Ottomans: [[KBOttomansMilitary]]
 	* Jack: [[KBhHIST201BullietCh19]]
-* Reading Flows 
+* Reading Flows
 	* [[KBGelvinCh3]]
 	* [[KBRobertsNotes]]
 	* [[KBMcNeill]]
 	* [[KBKissinger]] -- does not exist
-    
+
 ### Europe
 * Kissinger's Europe
     * [[KBhHIST201Kissinger]]
 	- [[KBrefRaisondetat]]
-	
+
 ## Unit 2
 ### The Enlightment + French Rev
 [[KBhHIST201EnlightenmentFrenchRev]]
@@ -69,7 +69,7 @@ source: #index
 [[KBhHIST201NapoleonDebatePrep]]
 
 ### Reading Flos + Refs
-#disorganized 
+#disorganized
 
 - Mason ch 1 + 2 [[KBhHIST201MasonCh1n2]]
 - Roberts [[KBhHIST201RobertsCh5]]
@@ -86,12 +86,12 @@ source: #index
 - Mason + Kennedy [[KBhHIST201MasonAndKennedy]]
 - MasonChapter5 [[KBhHIST201MasonCh5]]
 - MasonChapter5x [[KBxHIST201MasonCh5]]
-    
+
 # Essays
-* Essay 1 
+* Essay 1
     * [[KBhHIST201KennedyStillHoldsUp]]
 	* [[KBe20hist201retKennedyEssay]]
-	* [[KBEssay1PlanningAttemp2]] 
+	* [[KBEssay1PlanningAttemp2]]
     * [[KBdHistMAKennedyOutline]]
 * Unit One Essay
 	* [[KBxUnitOneEssayPlanning]]
@@ -100,8 +100,6 @@ source: #index
 * French Rev Essay
 	* [[KBhHIST201Unit2EssayJack]]
 	* [[KBUnitTwoEssayHux]]
-	
+
 ## Meta References
 - [[20hist201refTechniques]]
-
-
