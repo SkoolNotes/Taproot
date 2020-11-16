@@ -568,6 +568,8 @@ Because **polymerases copy uni-directionally** => DNA polyemrease move along the
 	* In the **lagging** strand (5' to 3'), polymerase will wait until the helicate opens a little segment, and rushes forward and move backwards
 * DNA polymerse will detect unfitting bonds and repair them in a process called "proofreading." Mismatch repairing enzymes help the DNA polymerease pick out and replace problematic nucleotides and perhaps their neighbors.
 
+Steps of DNA replication, in Paul's words:
+
 ```
 - Many proteins work together in DNA replication and repair. 
 The process of DNA replication is semiconservative, such that takes place through complementary base pairing of a template strand of parent DNA. 
