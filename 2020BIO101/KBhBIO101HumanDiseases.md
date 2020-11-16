@@ -454,11 +454,11 @@ Eukarotic gene expression is regulated at many stages — prevents error
 
 In Prokarotes, there are less steps.
 
-Between the promoter and the actual coding DNA, there is a region named *operator* that allows three types of regulatory molecules to bind 
+Between the promoter and the actual coding DNA, there is a region named *operator* that allows three types of regulatory molecules to bind to it to alter how the gene is transcribed, namely:
 
-Repressors are proteins that suppress transcription of a gene in response to an external stimulus. In other words, a repressor keeps a gene “off.”
-Activators are proteins that increase the transcription of a gene in response to an external stimulus. In other words, an activator turns a gene “on.”
-Inducers are small molecules that either activate or repress transcription depending on the needs of the cell and the availability of substrate. Inducers basically help speed up or slow down “on” or “off” by binding to a repressor or activator. In other words: they don’t work alone.
+- **Repressors**: proteins that suppress transcription
+- **Activators** are proteins that increase the transcription
+- **Inducers** catalyses repressors or activators — making either a strenthened activation or repression acting in conjunction with the other regulator
 
 **Question: how are proteins made in the viral genome**
 
