@@ -566,6 +566,5 @@ Because **polymerases copy uni-directionally** => DNA polyemrease move along the
 * As helicase open a little bit of the DNA, polymerases rushes to copy the area that opened
 	* In the **leading** strand (3' to 5'), polymerase will run alongside the helicase for they are opening and replicating on the same direction
 	* In the **lagging** strand (5' to 3'), polymerase will wait until the helicate opens a little segment, and rushes forward and move backwards
-* Ultimately
 
-![Screen Shot 2020-11-09 at 3.51.24 PM.png](Screen Shot 2020-11-09 at 3.51.24 PM.png)
+![copying 1.png](copying 1.png)
