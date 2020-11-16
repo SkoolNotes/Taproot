@@ -25,7 +25,7 @@ Ribone Nucleic Acid: RNA
 	- Bases in RNA
 		- A, U, G, C
 
-![DNARNA_nucleic.png](./DNARNA_nucleic.png)
+![d_na.jpg](d_na.jpg)
 
 How do we make nucleic acids? Can you guess? Huh? **Dehydration synthesis!** #TODO make that actually a note, at this pont
 
