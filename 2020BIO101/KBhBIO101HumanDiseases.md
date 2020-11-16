@@ -554,9 +554,9 @@ For Eukarotes, cells divide using Mytosis.
 	- A divit (DEFINITION?) forms
 	- Two chromatin becomes pulled apart
 	
-***
+### DNA Replication Process
 
-### How to Copy DNA
+DNA replication is known to be "semi-conservative" — meaning that it is a process that pairs a synthesized half of the DNA with an original half of the DNA (i.e. takes the ORIGINAL template strand + makes the NEW coding strand & takes the ORIGINAL coding strand + makes the NEW template strand.)
 
 Because **polymerases copy uni-directionally** => DNA polyemrease move along the 3' to 5' DNA to create a copy 5' to 3'. Meaning, the polymerize is able to add nucleotide onto the 3' end of the DNA.
 

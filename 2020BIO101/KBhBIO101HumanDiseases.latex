@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5140)}}    % original
-%\rhead{\textrmlf{Compiled }\#5140\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5140\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5141)}}    % original
+%\rhead{\textrmlf{Compiled }\#5141\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5141\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1458,10 +1458,14 @@ Cell Cycle Primer}
   \end{itemize}
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{dna-replication-process}{%
+\subsubsection{DNA Replication Process}\label{dna-replication-process}}
 
-\hypertarget{how-to-copy-dna}{%
-\subsubsection{How to Copy DNA}\label{how-to-copy-dna}}
+DNA replication is known to be ``semi-conservative'' --- meaning that it
+is a process that pairs a synthesized half of the DNA with an original
+half of the DNA (i.e.~takes the ORIGINAL template strand + makes the NEW
+coding strand \& takes the ORIGINAL coding strand + makes the NEW
+template strand.)
 
 Because \textbf{polymerases copy uni-directionally} =\textgreater{} DNA
 polyemrease move along the 3' to 5' DNA to create a copy 5' to 3'.
