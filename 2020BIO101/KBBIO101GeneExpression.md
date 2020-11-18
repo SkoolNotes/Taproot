@@ -46,5 +46,6 @@ source: KBBiologyMasterIndex
 		 - These epigenetic markers can be inherited
 			 - There is continually more evidence for the importance of epigentics in gene expression
 ### Regulation of Transcription
+ - Chromatin changes are not permanent and can be reversed
  - 
  
