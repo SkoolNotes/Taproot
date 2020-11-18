@@ -28,4 +28,4 @@ source: KBBiologyMasterIndex
 	  - Translation -->
 	  - Protein processing -->
 	  - Transport to cellular destination-->
-  - 
+  - This process can often be equated to transcription for Prokaryote cells
