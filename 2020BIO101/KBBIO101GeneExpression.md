@@ -51,5 +51,7 @@ source: KBBiologyMasterIndex
 	 - These either allow for or inhibit transcription
  - These factors usually bind to proteins, but some of them bind to DNA
  - High levels of transcription factors created for specific genes are associated with another protein thought creatively of as specific transcription factors
+ - Gene expression is dramatically increased or decreased by the binding of specific transcription factors
+	 - These are either activators or repressors
  - 
  

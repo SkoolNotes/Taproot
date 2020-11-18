@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5170)}}    % original
-%\rhead{\textrmlf{Compiled }\#5170\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5170\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5171)}}    % original
+%\rhead{\textrmlf{Compiled }\#5171\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5171\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -289,6 +289,15 @@ Structure}\label{regulation-of-chromatin-structure}}
   High levels of transcription factors created for specific genes are
   associated with another protein thought creatively of as specific
   transcription factors
+\item
+  Gene expression is dramatically increased or decreased by the binding
+  of specific transcription factors
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These are either activators or repressors
+  \end{itemize}
 \item
 \end{itemize}
 
