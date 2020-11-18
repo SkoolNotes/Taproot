@@ -33,4 +33,6 @@ source: KBBiologyMasterIndex
   - This process can often be equated to transcription for Prokaryote cells
 
 ### Regulation of Chromatin Structure
- - 
+ - The chromatin structure itself allows for the regulation of gene expression
+	 - This is partially due to the location of the promoter
+	 - 

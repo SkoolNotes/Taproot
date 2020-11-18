@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5156)}}    % original
-%\rhead{\textrmlf{Compiled }\#5156\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5156\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5157)}}    % original
+%\rhead{\textrmlf{Compiled }\#5157\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5157\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -222,6 +222,15 @@ Structure}\label{regulation-of-chromatin-structure}}
 \begin{itemize}
 \tightlist
 \item
+  The chromatin structure itself allows for the regulation of gene
+  expression
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is partially due to the location of the promoter
+  \item
+  \end{itemize}
 \end{itemize}
 
 \end{document}
