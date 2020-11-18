@@ -37,4 +37,5 @@ source: KBBiologyMasterIndex
 	 - This is partially due to the location of the promoter
  - Chemical modifications to the histone proteins can affect the structure
 	 - This in turn can affect gene expression
- - 
+	 - histone proteins are the proteins in which the DNA is wrapped
+	 - 
