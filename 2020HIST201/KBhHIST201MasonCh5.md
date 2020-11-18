@@ -129,3 +129,14 @@ WWI weakened the Russian state, and, in 1917, the Communist *Bolshevik* lead by 
 Lenin established a new set of protocols based on Marxist ideas named Marxism-Leninism  — uniting the Communist factions until collapse in 1991.
 
 WWII weakened Chinese, Eastern European, NK, South Asia, and Cubans states, and they all decided to give communism a go to various degrees of success.
+
+## CN 11182020
+#disorganized #flo 
+
+- Gig working is cheaper, until machines happened:
+	- Looms => Power Loom — machines could no longer fit in a "cottage"
+	- Transitioned from local economy to being consolidated in cities
+- After the establishment of minimum work age (10), progressive schooling occurred => "what are we to do with non-working kids with working parents?"
+	- Elementary school designed to create a national citizen
+- IR: **the market is dictated by the machine**
+- Marx: repositioning perspective around labor
