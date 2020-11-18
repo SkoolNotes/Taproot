@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5187)}}    % original
-%\rhead{\textrmlf{Compiled }\#5187\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5187\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5188)}}    % original
+%\rhead{\textrmlf{Compiled }\#5188\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5188\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -336,6 +336,6 @@ genome to describe a lot of complexity without needing as many genes -
 Translation is another stage at which gene expression occurs - Some
 regulatory proteins can bock translation of an mRNA by preventing
 attachment to a ribisome - Length by which an mRNA is around is also
-crucial -
+crucial - This can vary greatly depending on the cell -
 
 \end{document}

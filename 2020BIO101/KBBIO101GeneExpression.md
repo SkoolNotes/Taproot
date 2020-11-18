@@ -70,4 +70,5 @@ source: KBBiologyMasterIndex
  - Translation is another stage at which gene expression occurs
 	 - Some regulatory proteins can bock translation of an mRNA by preventing attachment to a ribisome
 	 - Length by which an mRNA is around is also crucial
+		 - This can vary greatly depending on the cell
 	 -  
