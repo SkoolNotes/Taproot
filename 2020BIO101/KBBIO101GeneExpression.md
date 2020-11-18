@@ -40,4 +40,5 @@ source: KBBiologyMasterIndex
 	 - There are many types of modifications that can take place
 		 - Histone acetylation can tend to promote transcriptions by opening up the chromatin
 		 - Additional methyl groups tend to close up the chromatin and decrease transcription
-	 - 
+	 - DNA methylation occurs in most plants and animals as well as fungi
+ 

@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Eukaryotic Gene Expression }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -125,7 +125,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5162)}}    % original
 %\rhead{\textrmlf{Compiled }\#5162\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#5162\textrmlf{ on} \today}       % new date
-\lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,97 +164,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{flo-ret}{%
-\subsection{\#flo \#ret}\label{flo-ret}}
 
-\hypertarget{notes}{%
-\section{Notes}\label{notes}}
-
-\hypertarget{overview}{%
-\subsubsection{Overview}\label{overview}}
-
-\begin{itemize}
-\tightlist
-\item
-  Organisms turn genes on and off which is called Gene Expression
-
-  \begin{itemize}
-  \tightlist
-  \item
-    This can be done in response to external and internal signals
-
-    \begin{itemize}
-    \tightlist
-    \item
-      These signals are based off of environmental factors
-    \end{itemize}
-  \item
-    This is also be done in order to specialize cells
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Certain cells need certain genes to preform their specific role
-    \end{itemize}
-  \end{itemize}
-\end{itemize}
-
-\#\#\# Differential Gene Expression - Human Cells can express about 20\%
-of it's protein coded genes at any given time - Most cells contain the
-same genome - Each cell type must use specific parts of this genome -
-This is called Differential gene expression - Exception would be cells
-of the immune system - Due to the importance of gene expression when it
-has issues it can affect the organism significantly - Process of Gene
-expression in a Eukaryotic cell - Chromatin (DNA unpacking)
---\textgreater{} - RNA processing --\textgreater{} - Transport to
-cytoplasm --\textgreater{} - Translation --\textgreater{} - Protein
-processing --\textgreater{} - Transport to cellular
-destination--\textgreater{} - This process can often be equated to
-transcription for Prokaryote cells
-
-\hypertarget{regulation-of-chromatin-structure}{%
-\subsubsection{Regulation of Chromatin
-Structure}\label{regulation-of-chromatin-structure}}
-
-\begin{itemize}
-\tightlist
-\item
-  The chromatin structure itself allows for the regulation of gene
-  expression
-
-  \begin{itemize}
-  \tightlist
-  \item
-    This is partially due to the location of the promoter
-  \end{itemize}
-\item
-  Chemical modifications to the histone proteins can affect the
-  structure
-
-  \begin{itemize}
-  \tightlist
-  \item
-    This in turn can affect gene expression
-  \item
-    Histone proteins are the proteins in which the DNA is wrapped
-  \item
-    There are many types of modifications that can take place
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Histone acetylation can tend to promote transcriptions by opening
-      up the chromatin
-    \item
-      Additional methyl groups tend to close up the chromatin and
-      decrease transcription
-    \end{itemize}
-  \item
-    DNA methylation occurs in most plants and animals as well as fungi
-  \end{itemize}
-\end{itemize}
 
 \end{document}
