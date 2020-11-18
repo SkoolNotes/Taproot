@@ -61,4 +61,6 @@ source: KBBiologyMasterIndex
   - The activation of receptors on the surface of the cell can release specific repressors and activators
  
  ### Mechanisms of Post-Transcriptional Regulation
- - Transcription is not the only thing that 
+ - Transcription is not the only thing that regulates gene expression
+	 - How much of the protein is created once the RNA is received is also a factor
+	 - 
