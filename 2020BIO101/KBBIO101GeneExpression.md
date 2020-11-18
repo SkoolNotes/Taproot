@@ -15,7 +15,6 @@ source: KBBiologyMasterIndex
 	 - This is also be done in order to specialize cells
 		 - Certain cells need certain genes to preform their specific role
 
-
  ### Differential Gene Expression
   - Human Cells can express about 20% of it's protein coded genes at any given time
   - Most cells contain the same genome
@@ -37,5 +36,7 @@ source: KBBiologyMasterIndex
 	 - This is partially due to the location of the promoter
  - Chemical modifications to the histone proteins can affect the structure
 	 - This in turn can affect gene expression
-	 - histone proteins are the proteins in which the DNA is wrapped
+	 - Histone proteins are the proteins in which the DNA is wrapped
+	 - There are many types of modifications that can take place
+		 - Histone acetylation can tend to promote transcriptions by opening up the chromatin
 	 - 
