@@ -60,4 +60,5 @@ source: KBBiologyMasterIndex
  ### Coordinately Controlled Genes in Eukaryotes
   - Coordinated control of genes can need to happen when multiple genes need to be expressed at the same time for something to function
 	  - These can often be signaled from the outside with something like a hormone
+  - The activation of receptors on the surface of the cell can release specific repressors and activators
   - 
