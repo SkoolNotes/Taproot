@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5175)}}    % original
-%\rhead{\textrmlf{Compiled }\#5175\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5175\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5176)}}    % original
+%\rhead{\textrmlf{Compiled }\#5176\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5176\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -311,6 +311,9 @@ Structure}\label{regulation-of-chromatin-structure}}
   \end{itemize}
 \end{itemize}
 
-\#\#\# Coordinately Controlled Genes in Eukaryotes -
+\#\#\# Coordinately Controlled Genes in Eukaryotes - Coordinated control
+of genes can need to happen when multiple genes need to be expressed at
+the same time for something to function - These can often be signaled
+from the outside with something like a hormone -
 
 \end{document}
