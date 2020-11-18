@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5185)}}    % original
-%\rhead{\textrmlf{Compiled }\#5185\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5185\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5186)}}    % original
+%\rhead{\textrmlf{Compiled }\#5186\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5186\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -334,6 +334,7 @@ lot of information to be fit on a single strand of RNA - Around 75-100\%
 of human genes with multiple exons undergo RNA splicing allowing for our
 genome to describe a lot of complexity without needing as many genes -
 Translation is another stage at which gene expression occurs - Some
-regulatory proteins can block the
+regulatory proteins can bock translation of an mRNA by preventing
+attachment to a ribisome -
 
 \end{document}
