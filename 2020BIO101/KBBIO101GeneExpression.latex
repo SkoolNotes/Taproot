@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5183)}}    % original
-%\rhead{\textrmlf{Compiled }\#5183\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5183\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5184)}}    % original
+%\rhead{\textrmlf{Compiled }\#5184\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5184\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -331,6 +331,8 @@ be interpreted in different ways with different things being introns and
 others being exons - This allows for the creation of multiple proteins
 from the same strand of RNA - RNA splicing is critical since it allows a
 lot of information to be fit on a single strand of RNA - Around 75-100\%
-of human genes with multiple exons undergo RNA splicing
+of human genes with multiple exons undergo RNA splicing allowing for our
+genome to describe a lot of complexity without needing as many genes -
+Translation is another stage at which gene expression occurs -
 
 \end{document}
