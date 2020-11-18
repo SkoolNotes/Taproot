@@ -14,6 +14,8 @@ source: KBBiologyMasterIndex
 		 - These signals are based off of environmental factors
 	 - This is also be done in order to specialize cells
 		 - Certain cells need certain genes to preform their specific role
+
+
  ### Differential Gene Expression
   - Human Cells can express about 20% of it's protein coded genes at any given time
   - Most cells contain the same genome
@@ -29,4 +31,5 @@ source: KBBiologyMasterIndex
 	  - Protein processing -->
 	  - Transport to cellular destination-->
   - This process can often be equated to transcription for Prokaryote cells
-  - 
+
+###
