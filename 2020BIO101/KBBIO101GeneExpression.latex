@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5157)}}    % original
-%\rhead{\textrmlf{Compiled }\#5157\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5157\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5158)}}    % original
+%\rhead{\textrmlf{Compiled }\#5158\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5158\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -229,8 +229,17 @@ Structure}\label{regulation-of-chromatin-structure}}
   \tightlist
   \item
     This is partially due to the location of the promoter
-  \item
   \end{itemize}
+\item
+  Chemical modifications to the histone proteins can affect the
+  structure
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This in turn can affect gene expression
+  \end{itemize}
+\item
 \end{itemize}
 
 \end{document}
