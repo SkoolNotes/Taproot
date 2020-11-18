@@ -69,4 +69,5 @@ source: KBBiologyMasterIndex
 	 - Around 75-100% of human genes with multiple exons undergo RNA splicing allowing for our genome to describe a lot of complexity without needing as many genes
  - Translation is another stage at which gene expression occurs
 	 - Some regulatory proteins can bock translation of an mRNA by preventing attachment to a ribisome
+	 - Length by which an mRNA is around is also crucial
 	 -  
