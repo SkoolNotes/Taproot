@@ -42,5 +42,8 @@ source: KBBiologyMasterIndex
 		 - Additional methyl groups tend to close up the chromatin and decrease transcription
 	 - DNA methylation occurs in most plants and animals as well as fungi
 	 - Methylated DNA will stay methalated through cell divisions
+		 - This accounts for genomic imprinting
+		 - These epigenetic markers can be inherited
+			 - There is continually more evidence for the importance of epigentics in gene expression
 	 - 
  
