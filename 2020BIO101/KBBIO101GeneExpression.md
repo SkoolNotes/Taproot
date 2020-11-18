@@ -32,4 +32,5 @@ source: KBBiologyMasterIndex
 	  - Transport to cellular destination-->
   - This process can often be equated to transcription for Prokaryote cells
 
-###
+### Regulation of Chromatin Structure
+ - 
