@@ -54,5 +54,7 @@ source: KBBiologyMasterIndex
  - Gene expression is dramatically increased or decreased by the binding of specific transcription factors
 	 - These are either activators or repressors
  - There are many transcription factors
+	 - Repressors act in many different ways, but some bind directly to control element DNA blocking activator binding
+	 - Others interfere with the activator itself
  - 
  
