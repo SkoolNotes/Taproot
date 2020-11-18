@@ -45,5 +45,6 @@ source: KBBiologyMasterIndex
 		 - This accounts for genomic imprinting
 		 - These epigenetic markers can be inherited
 			 - There is continually more evidence for the importance of epigentics in gene expression
-	 - 
+### Regulation of Transcription
+ - 
  

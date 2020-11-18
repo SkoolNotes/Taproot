@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5165)}}    % original
-%\rhead{\textrmlf{Compiled }\#5165\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5165\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5166)}}    % original
+%\rhead{\textrmlf{Compiled }\#5166\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5166\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -268,11 +268,11 @@ Structure}\label{regulation-of-chromatin-structure}}
       \tightlist
       \item
         There is continually more evidence for the importance of
-        epigentics in gene expression
+        epigentics in gene expression \#\#\# Regulation of Transcription
       \end{itemize}
     \end{itemize}
-  \item
   \end{itemize}
+\item
 \end{itemize}
 
 \end{document}
