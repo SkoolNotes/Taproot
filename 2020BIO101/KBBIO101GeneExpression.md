@@ -71,4 +71,5 @@ source: KBBiologyMasterIndex
 	 - Some regulatory proteins can bock translation of an mRNA by preventing attachment to a ribisome
 	 - Length by which an mRNA is around is also crucial
 		 - This can vary greatly depending on the cell
-	 -  
+		 - Cells can mark proteins for destruction using something called ubiquitin
+ 
