@@ -39,4 +39,5 @@ source: KBBiologyMasterIndex
 	 - Histone proteins are the proteins in which the DNA is wrapped
 	 - There are many types of modifications that can take place
 		 - Histone acetylation can tend to promote transcriptions by opening up the chromatin
+		 - Additional methyl groups tend to close up the chromatin and decrease transcription
 	 - 
