@@ -139,4 +139,4 @@ WWII weakened Chinese, Eastern European, NK, South Asia, and Cubans states, and 
 - After the establishment of minimum work age (10), progressive schooling occurred => "what are we to do with non-working kids with working parents?"
 	- Elementary school designed to create a national citizen
 - IR: **the market is dictated by the machine**
-- Marx: repositioning perspective around labor
+- Marx: repositioning perspective around labo
