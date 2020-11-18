@@ -63,4 +63,6 @@ source: KBBiologyMasterIndex
  ### Mechanisms of Post-Transcriptional Regulation
  - Transcription is not the only thing that regulates gene expression
 	 - How much of the protein is created once the RNA is received is also a factor
-	 - There is also mu
+	 - RNA can be interpreted in different ways with different things being introns and others being exons
+		 - This allows for the creation of multiple proteins from the same strand of RNA
+ - 
