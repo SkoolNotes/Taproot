@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5163)}}    % original
-%\rhead{\textrmlf{Compiled }\#5163\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5163\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5164)}}    % original
+%\rhead{\textrmlf{Compiled }\#5164\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5164\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -255,7 +255,8 @@ Structure}\label{regulation-of-chromatin-structure}}
   \item
     DNA methylation occurs in most plants and animals as well as fungi
   \item
-    Methylated DNA will stay meth
+    Methylated DNA will stay methalated through cell divisions
+  \item
   \end{itemize}
 \end{itemize}
 

@@ -41,5 +41,6 @@ source: KBBiologyMasterIndex
 		 - Histone acetylation can tend to promote transcriptions by opening up the chromatin
 		 - Additional methyl groups tend to close up the chromatin and decrease transcription
 	 - DNA methylation occurs in most plants and animals as well as fungi
-	 - Methylated DNA will stay meth
+	 - Methylated DNA will stay methalated through cell divisions
+	 - 
  
