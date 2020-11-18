@@ -66,4 +66,4 @@ source: KBBiologyMasterIndex
 	 - RNA can be interpreted in different ways with different things being introns and others being exons
 		 - This allows for the creation of multiple proteins from the same strand of RNA
  - RNA splicing is critical since it allows a lot of information to be fit on a single strand of RNA
- - 
+	 - Around 75-100% of human genes with multiple exons undergo RNA splicing
