@@ -353,4 +353,30 @@ source: KBhMUS150D1
  - Traditional funky music
  - A little funky beat
  - 
- 
+# 11172020
+
+**Apartment**
+
+- Simple lounge music
+- Cleanly cut vocals
+- Drum pattern in the background adds a lot to the sound structure
+- Guitar riff in the end mixes soulful music with a bit of rock
+
+**Khmlwugh**
+
+- Elevator music?
+- Something dosen't feel quite right => slightly dissonent vocals
+- Vocals slightly dissonent
+- "Fake" Ending with pitched vocals + synth hold + siren pitch add a playful/dissonent sound texture
+
+**Klapp Klapp**
+
+- Rock and punk backing, but! clean vocals?
+- Floor to the floor drum/clap combo
+- Fun synth sequence in the background adds electric flavour 
+
+**Chess Bling**
+
+- Heavily duplicated vocals in background adds additional texture
+- Electric flute mixes traditional instrumentation with electro flow
+- Bold usage of silence

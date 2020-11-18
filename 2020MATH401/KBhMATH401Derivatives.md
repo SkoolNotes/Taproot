@@ -25,8 +25,15 @@ Derivative of $f(x)$ => $\frac{dy}{dx}$
 |$x^2$|$2x$|
 |$x^3$|$3x^2$|
 |$x^n$|$nx^{n-1}$|
-|$x^3-x+2$|$3x^2-1$|
 |$\frac{1}{x}$|$\frac{-1}{x^2}$|
 |$\sqrt{x}$|$\frac{1}{2 \sqrt{x}}$
-|$\sin (x)$|$\cos (x)$|
-|$\cos (x)$|$-\sin (x)$|
+|$\sin(x)$|$\cos (x)$|
+|$\cos(x)$|$-\sin (x)$|
+|$\tan(x)$|$1 + \tan^2 (x)$|
+|$\cot(x)$|$-\csc^2 (x)$|
+|$\sec(x)$|$\tan(x) \sec(x)$|
+|$\csc(x)$|$-\cot(x) \csc(x)$|
+|$e^x$|$e^x$|
+|$ln(x)$|$\frac{1}{x}$|
+|$a^x$|$a^x ln(a)$|
+|$log_a(x)$|$\frac{1}{x ln(a)}$|

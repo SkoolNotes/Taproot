@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5005)}}    % original
-%\rhead{\textrmlf{Compiled }\#5005\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5005\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5148)}}    % original
+%\rhead{\textrmlf{Compiled }\#5148\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5148\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -246,10 +246,12 @@ Overview}\label{trips-free-association-overview}}
 \item
   Dylan's crappy notes {[}{[}KBd20200911notes{]}{]}
 \item
-  Central Dogma of Biology
+  Central Dogma of Biology {[}{[}KBBIO101CentralDogma{]}{]}
 \item
   Huxley's big project planning doc
   {[}{[}KBBioPrimoridalSoupPlanning{]}{]}
+\item
+  Eukaryotic Gene Expression {[}{[}KBBIO101GeneExpression{]}{]}
 \end{itemize}
 
 \hypertarget{amino-acids}{%

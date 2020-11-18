@@ -85,7 +85,7 @@ source: #index
 ### Reading Flos
 - Mason + Kennedy [[KBhHIST201MasonAndKennedy]]
 - MasonChapter5 [[KBhHIST201MasonCh5]]
-- MasonChapter5x [[KBxHIST201MasonCh5]]
+- MasonChapter5&7x [[KBxHIST201MasonCh5&7]]
 
 # Essays
 * Essay 1

@@ -546,13 +546,17 @@ For Eukarotes, cells divide using Mytosis.
 - G1 => Rest Phase, Gap 1
 	- May hit s.a. to volume checkpoint => if ratio too big, the cell is too big
 	- May hit diffusion checkpoint => larger cells would need to work harder to transport things to the centre
-- S => S Phase, seperate DNA
-- G2 => Rest Phrase, Gap 2
+- S => S Phase, duplicate DNA. 150 mins
+- G2 => Rest Phrase, Gap 2. The pairs of DNA begins bundling and condensing; the DNA is also checked upon and verified for consistency
 - M => Mitosis!
-	- First unwinds the chromasomes
-	- Chromatin aligns in the center
+	- Prophase: condensation of chromasome
+	- Chromatin aligns in the center => (metaphase)
 	- A divit (DEFINITION?) forms
-	- Two chromatin becomes pulled apart
+	- Two chromatin becomes pulled apart => forming two cells via cytokenisis (anephase)
+	
+Cell regulators are proteins that manage and sheperard the process of cell division. They respond to molecular signals throughout the cell and check for internal signals like DNA damage to control the rate and progress of cell division.
+	
+![lecellcycle.png](lecellcycle.png)
 	
 ### DNA Replication Process
 
@@ -561,12 +565,21 @@ DNA replication is known to be "semi-conservative" — meaning that it is a proc
 Because **polymerases copy uni-directionally** => DNA polyemrease move along the 3' to 5' DNA to create a copy 5' to 3'. Meaning, the polymerize is able to add nucleotide onto the 3' end of the DNA.
 
 * Open the DNA at an arbuiturary point using the Helicase
-	* Uses two helicase => one open rightward, and one leftward
-* DNA polymerase could only add nucleotides 5' to 3'
-* As helicase open a little bit of the DNA, polymerases rushes to copy the area that opened
-	* In the **leading** strand (3' to 5'), polymerase will run alongside the helicase for they are opening and replicating on the same direction
-	* In the **lagging** strand (5' to 3'), polymerase will wait until the helicate opens a little segment, and rushes forward and move backwards
-* DNA polymerse will detect unfitting bonds and repair them in a process called "proofreading." Mismatch repairing enzymes help the DNA polymerease pick out and replace problematic nucleotides and perhaps their neighbors.
+	* Uses two helicase => one open rightward, and one leftward. The movement of the helicase opening the DNA is called the "fork movement"
+	* DNA polymerase could only add nucleotides 5' to 3'
+	* As helicase open a little bit of the DNA, polymerases rushes to copy the area that opened
+		* In the **leading** strand (3' to 5'), polymerase will run alongside the helicase for they are opening and replicating on the same direction
+		* In the **lagging** strand (5' to 3'), polymerase will wait until the helicate opens a little segment, and rushes forward and move backwards
+			* NOTE: the lagging strand... 1) takes longer to transcribe 2) is done in small chunks (each "rush forward"). Each chunk is called an ogazaki fragment
+			
+![leadinglagging.png](leadinglagging.png)
+		
+* DNA polymersease will REQUIRE a double-stranded area to begin work from, so Primase synthesize already double-stranded RNA primers that DNA polymerease could bootstrap to the single-stranded DNA to begin the replication process (think: create-react-app)
+
+
+* DNA polymerse will detect unfitting bonds and remove leftover RNA primer bootstrap units to repair them in a process called "proofreading." DNA polimersease is assisted with "glue" ligase to help the DNA polymerease pick out and replace problematic/unneeded nucleotides and perhaps their neighbors. This is where the Ogazaki fragments get joined.
+
+
 
 Steps of DNA replication, in Paul's words:
 

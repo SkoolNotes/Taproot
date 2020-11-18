@@ -108,7 +108,7 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
+\newcommand{\thecourse}{ BIO101 }
 \newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5005)}}    % original
-%\rhead{\textrmlf{Compiled }\#5005\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5005\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5148)}}    % original
+%\rhead{\textrmlf{Compiled }\#5148\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5148\textrmlf{ on} \today}       % new date
+\lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,6 +164,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBBIO101CentralDogma}{\tiny\textulf{[[}\textbf{KBBIO101CentralDogma}\textulf{]]}}}\thinspace
 
 \hypertarget{transcription}{%
 \subsection{Transcription}\label{transcription}}
@@ -210,6 +212,39 @@
   \item
     The tail end of the coding region that folds making the RNA fall off
   \end{itemize}
+\item
+  This creates the mRNA and the siRNA and tRNA
+\end{itemize}
+
+\hypertarget{outside-signals}{%
+\subsection{Outside signals}\label{outside-signals}}
+
+\begin{itemize}
+\tightlist
+\item
+  Signals to outside receptors create positive or negative transcription
+  factors
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These can be activated by internal signals
+  \item
+    positive transcription factors allow for and encourage transcription
+  \item
+    negative transcription factors cause the release of a molecule that
+    take the slot of polymerase shutting down the gene and not allowing
+    for transcription
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{mutations}{%
+\subsection{Mutations}\label{mutations}}
+
+\begin{itemize}
+\tightlist
+\item
+  There are different types of mutations such as a substitution mutation
 \item
 \end{itemize}
 

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5146)}}    % original
-%\rhead{\textrmlf{Compiled }\#5146\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5146\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5148)}}    % original
+%\rhead{\textrmlf{Compiled }\#5148\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5148\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1439,24 +1439,38 @@ Cell Cycle Primer}
     to work harder to transport things to the centre
   \end{itemize}
 \item
-  S =\textgreater{} S Phase, seperate DNA
+  S =\textgreater{} S Phase, duplicate DNA. 150 mins
 \item
-  G2 =\textgreater{} Rest Phrase, Gap 2
+  G2 =\textgreater{} Rest Phrase, Gap 2. The pairs of DNA begins
+  bundling and condensing; the DNA is also checked upon and verified for
+  consistency
 \item
   M =\textgreater{} Mitosis!
 
   \begin{itemize}
   \tightlist
   \item
-    First unwinds the chromasomes
+    Prophase: condensation of chromasome
   \item
-    Chromatin aligns in the center
+    Chromatin aligns in the center =\textgreater{} (metaphase)
   \item
     A divit (DEFINITION?) forms
   \item
-    Two chromatin becomes pulled apart
+    Two chromatin becomes pulled apart =\textgreater{} forming two cells
+    via cytokenisis (anephase)
   \end{itemize}
 \end{itemize}
+
+Cell regulators are proteins that manage and sheperard the process of
+cell division. They respond to molecular signals throughout the cell and
+check for internal signals like DNA damage to control the rate and
+progress of cell division.
+
+\begin{figure}
+\centering
+\includegraphics{lecellcycle.png}
+\caption{lecellcycle.png}
+\end{figure}
 
 \hypertarget{dna-replication-process}{%
 \subsubsection{DNA Replication Process}\label{dna-replication-process}}
@@ -1481,30 +1495,55 @@ DNA.
   \tightlist
   \item
     Uses two helicase =\textgreater{} one open rightward, and one
-    leftward
-  \end{itemize}
-\item
-  DNA polymerase could only add nucleotides 5' to 3'
-\item
-  As helicase open a little bit of the DNA, polymerases rushes to copy
-  the area that opened
+    leftward. The movement of the helicase opening the DNA is called the
+    ``fork movement''
+  \item
+    DNA polymerase could only add nucleotides 5' to 3'
+  \item
+    As helicase open a little bit of the DNA, polymerases rushes to copy
+    the area that opened
 
-  \begin{itemize}
-  \tightlist
-  \item
-    In the \textbf{leading} strand (3' to 5'), polymerase will run
-    alongside the helicase for they are opening and replicating on the
-    same direction
-  \item
-    In the \textbf{lagging} strand (5' to 3'), polymerase will wait
-    until the helicate opens a little segment, and rushes forward and
-    move backwards
+    \begin{itemize}
+    \tightlist
+    \item
+      In the \textbf{leading} strand (3' to 5'), polymerase will run
+      alongside the helicase for they are opening and replicating on the
+      same direction
+    \item
+      In the \textbf{lagging} strand (5' to 3'), polymerase will wait
+      until the helicate opens a little segment, and rushes forward and
+      move backwards
+
+      \begin{itemize}
+      \tightlist
+      \item
+        NOTE: the lagging strand\ldots{} 1) takes longer to transcribe
+        2) is done in small chunks (each ``rush forward''). Each chunk
+        is called an ogazaki fragment
+      \end{itemize}
+    \end{itemize}
   \end{itemize}
+\end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{leadinglagging.png}
+\caption{leadinglagging.png}
+\end{figure}
+
+\begin{itemize}
 \item
-  DNA polymerse will detect unfitting bonds and repair them in a process
-  called ``proofreading.'' Mismatch repairing enzymes help the DNA
-  polymerease pick out and replace problematic nucleotides and perhaps
-  their neighbors.
+  DNA polymersease will REQUIRE a double-stranded area to begin work
+  from, so Primase synthesize already double-stranded RNA primers that
+  DNA polymerease could bootstrap to the single-stranded DNA to begin
+  the replication process (think: create-react-app)
+\item
+  DNA polymerse will detect unfitting bonds and remove leftover RNA
+  primer bootstrap units to repair them in a process called
+  ``proofreading.'' DNA polimersease is assisted with ``glue'' ligase to
+  help the DNA polymerease pick out and replace problematic/unneeded
+  nucleotides and perhaps their neighbors. This is where the Ogazaki
+  fragments get joined.
 \end{itemize}
 
 Steps of DNA replication, in Paul's words:
