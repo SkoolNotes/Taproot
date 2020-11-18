@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5168)}}    % original
-%\rhead{\textrmlf{Compiled }\#5168\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5168\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5169)}}    % original
+%\rhead{\textrmlf{Compiled }\#5169\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5169\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -275,7 +275,15 @@ Structure}\label{regulation-of-chromatin-structure}}
 \item
   Chromatin changes are not permanent and can be reversed
 \item
-  The next step of gene expression regulation is in the
+  The next step of gene expression regulation is in the transcription
+  factors
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These either allow for or inhibit transcription
+  \end{itemize}
+\item
 \end{itemize}
 
 \end{document}

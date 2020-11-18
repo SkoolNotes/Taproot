@@ -47,5 +47,8 @@ source: KBBiologyMasterIndex
 			 - There is continually more evidence for the importance of epigentics in gene expression
 ### Regulation of Transcription
  - Chromatin changes are not permanent and can be reversed
- - The next step of gene expression regulation is in the 
+ - The next step of gene expression regulation is in the transcription factors
+	 - These either allow for or inhibit transcription
+ - These factors usually bind to proteins, but some of them bind to DNA
+ - 
  
