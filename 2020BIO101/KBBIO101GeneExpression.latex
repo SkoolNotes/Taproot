@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5177)}}    % original
-%\rhead{\textrmlf{Compiled }\#5177\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5177\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5178)}}    % original
+%\rhead{\textrmlf{Compiled }\#5178\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5178\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -309,13 +309,22 @@ Structure}\label{regulation-of-chromatin-structure}}
   \item
     Others interfere with the activator itself
   \end{itemize}
+\item
+  Coordinated control of genes can need to happen when multiple genes
+  need to be expressed at the same time for something to function
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These can often be signaled from the outside with something like a
+    hormone
+  \end{itemize}
+\item
+  The activation of receptors on the surface of the cell can release
+  specific repressors and activators
 \end{itemize}
 
-\#\#\# Coordinately Controlled Genes in Eukaryotes - Coordinated control
-of genes can need to happen when multiple genes need to be expressed at
-the same time for something to function - These can often be signaled
-from the outside with something like a hormone - The activation of
-receptors on the surface of the cell can release specific repressors and
-activators -
+\#\#\# Mechanisms of Post-Transcriptional Regulation - Transcription is
+not the only thing that
 
 \end{document}
