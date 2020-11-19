@@ -123,9 +123,9 @@ proofs) }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5225)}}    % original
-%\rhead{\textrmlf{Compiled }\#5225\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5225\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5226)}}    % original
+%\rhead{\textrmlf{Compiled }\#5226\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5226\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,5 +180,26 @@ Say we have
 \(\begin{pmatrix}-2x_3-4x_4\\-4x_3-7x_4\\x_3\\x_4\end{pmatrix}\). Then
 you can write it as the linear combination
 \[\begin{pmatrix}-2x_3\\-4x_3\\x_3\\0\end{pmatrix}+\begin{pmatrix}-4x_4\\-7x_4\\0\\x_4\end{pmatrix} = x_3\begin{pmatrix}-2\\-4\\1\\0\end{pmatrix}+x_4\begin{pmatrix}-4\\-7\\0\\1\end{pmatrix}\]
+
+\hypertarget{icr-3.c}{%
+\section{\texorpdfstring{\#icr 3.C
+{\textsc{icr}}}{\#icr 3.C icr}}\label{icr-3.c}}
+
+\hypertarget{matrix-definition}{%
+\subsection{Matrix Definition}\label{matrix-definition}}
+
+Old news (but lots of subscripts)
+
+\hypertarget{making-a-matrix-from-a-map}{%
+\subsection{Making a matrix from a
+map}\label{making-a-matrix-from-a-map}}
+
+Based on maps being uniquely determined
+
+\hypertarget{matrix-addition-and-scalar-multiplication}{%
+\subsection{Matrix addition and scalar
+multiplication}\label{matrix-addition-and-scalar-multiplication}}
+
+Not news
 
 \end{document}
