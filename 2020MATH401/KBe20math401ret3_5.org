@@ -12,4 +12,4 @@
 ** 42
    $$\frac{\partial}{\partial v} \sqrt{\frac{e^v}{7+2v}} = \frac{1}{2\sqrt{\frac{e^v}{7+2v}}}\frac{(7+2v)e^v-2e^v}{(7+2v)^2}$$
 ** 43
-   $$\frac{\partial}{\partial x} \sqrt{x^2+\sqrt{1+4x}} = \frac{1}{2\left(x^2+\sqrt{1+4x}}\left(2x+\frac{4}{2\left(1+4x\right)}\right)$$
+   $$\frac{\partial}{\partial x} \sqrt{x^2+\sqrt{1+4x}} = \frac{1}{2\sqrt{x^2+\sqrt{1+4x}}}\left(2x+\frac{4}{2\sqrt{1+4x}}\right) = \frac{1x+\frac{1}{\sqrt{1+4x}}}{\sqrt{x^2+\sqrt{1+4x}}}$$
