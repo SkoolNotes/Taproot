@@ -123,9 +123,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5209)}}    % original
-%\rhead{\textrmlf{Compiled }\#5209\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5209\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5210)}}    % original
+%\rhead{\textrmlf{Compiled }\#5210\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5210\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -188,12 +188,12 @@
 \hypertarget{section-3}{%
 \subsection{13}\label{section-3}}
 
-\[\frac{\partial}{\partial x} e^{12z-z^6} = e^{12z-z^6}\left(12-6z^5\right)\]
+\[\frac{\partial}{\partial z} e^{12z-z^6} = e^{12z-z^6}\left(12-6z^5\right)\]
 
 \hypertarget{section-4}{%
 \subsection{42}\label{section-4}}
 
-\[\frac{\partial}{\partial x} \]
+\[\frac{\partial}{\partial v} \sqrt{\frac{e^v}{7+2v}} = \frac{1}{2\sqrt{\frac{e^v}{7+2v}}}\]
 
 \hypertarget{section-5}{%
 \subsection{43}\label{section-5}}
