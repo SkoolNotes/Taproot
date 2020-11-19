@@ -17,3 +17,8 @@ author: Houjun Liu
 	- Personally want to focus on the background, observation, and pathways
 	- General structure of presentation: Figures 1,8,3 between the structure of {Big pic, {hypo, result, pathway}, implication}
 	
+***
+
+* Scientific story — what we talk about last time: the story of the LTP induced intra-synaptic PAP outflow cross talk
+* 
+	
