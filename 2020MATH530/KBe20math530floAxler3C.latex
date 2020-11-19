@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5222)}}    % original
-%\rhead{\textrmlf{Compiled }\#5222\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5222\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5224)}}    % original
+%\rhead{\textrmlf{Compiled }\#5224\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5224\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -214,8 +214,8 @@ multiplication)}\label{axler3.37-and-axler3.38-same-for-scalar-multiplication}}
 Its the same for scalar multiplication, yay
 
 \hypertarget{notation-axler3.39-mathbb-fmn}{%
-\section{\texorpdfstring{Notation Axler3.39
-\(\mathbb F^{m,n}\)}{Notation Axler3.39 \textbackslash mathbb F\^{}\{m,n\}}}\label{notation-axler3.39-mathbb-fmn}}
+\section{\texorpdfstring{Notation Axler3.39 \(\mathbb F^{m,n}\)
+{\textsc{notation}}}{Notation Axler3.39 \textbackslash mathbb F\^{}\{m,n\} notation}}\label{notation-axler3.39-mathbb-fmn}}
 
 \(F^{m, n}\) is the set of all \(m\times n\) matrices with entries in
 \(\mathbb F\).
@@ -225,5 +225,24 @@ Its the same for scalar multiplication, yay
 \(\text{dim }\mathbb F^{m,n} = mn\)}{Axler3.40 \textbackslash text\{dim \}\textbackslash mathbb F\^{}\{m,n\} = mn}}\label{axler3.40-textdim-mathbb-fmn-mn}}
 
 \(\mathbb F^{m,n}\) is itself a vector space with dimension \(mn\).
+(Each basis vector being a matrix with a single one at \(i, j\) for each
+pair of \(i, j\))?
+
+\hypertarget{axler3.44-a_jcdot-a_cdot-k}{%
+\section{\texorpdfstring{Axler3.44 \(A_{j,\cdot}\),
+\(A_{\cdot, k}\)}{Axler3.44 A\_\{j,\textbackslash cdot\}, A\_\{\textbackslash cdot, k\}}}\label{axler3.44-a_jcdot-a_cdot-k}}
+
+The dot just means "everything in that row/column".
+
+\hypertarget{axler3.49-column-of-matri-product-equal-matrix-times-column}{%
+\section{Axler3.49 Column of matri product equal matrix times
+column}\label{axler3.49-column-of-matri-product-equal-matrix-times-column}}
+
+For \(m\times n\) matrix \(A\) and \(n\times p\) matrix \(C\),
+\[(AC)_{\cdot, k} = AC_{\cdot, k}\].
+
+\hypertarget{and-many-other-ways-to-think-about-matrix-multplication}{%
+\section{And many other ways to think about matrix
+multplication}\label{and-many-other-ways-to-think-about-matrix-multplication}}
 
 \end{document}
