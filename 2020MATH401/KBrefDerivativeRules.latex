@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5221)}}    % original
-%\rhead{\textrmlf{Compiled }\#5221\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5221\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5232)}}    % original
+%\rhead{\textrmlf{Compiled }\#5232\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5232\textrmlf{ on} \today}       % new date
 \lfoot{EXr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -195,6 +195,6 @@
 \hypertarget{product-1}{%
 \subsection{Product}\label{product-1}}
 
-\[\frac{\partial}{\partial x} \frac{f}{g}(x) = \left(f\frac{\partial}{\partial x}g\right)(x) + \left(g\frac{\partial}{\partial x}f\right)(x)\]
+\[\frac{\partial}{\partial x} \left(\frac{f}{g}\right)(x) = \frac{\left(g\frac{\partial}{\partial x}f\right)(x) - \left(f\frac{\partial}{\partial x}g\right)(x)}{g^2(x)}\]
 
 \end{document}
