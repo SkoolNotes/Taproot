@@ -123,9 +123,9 @@ proofs) }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5230)}}    % original
-%\rhead{\textrmlf{Compiled }\#5230\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5230\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5231)}}    % original
+%\rhead{\textrmlf{Compiled }\#5231\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5231\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -236,8 +236,21 @@ Note that the matrix is \(5\times 6\) because we are going from
 dimension \(6 \to 5\) (and the second dimension gets "consumed" in the
 multiplication)
 
-\hypertarget{axler3.40-dimension-of-a-vector-space.}{%
-\subsection{\texorpdfstring{Axler3.40 dimension of a vector space.
-{\textsc{icr}}}{Axler3.40 dimension of a vector space. icr}}\label{axler3.40-dimension-of-a-vector-space.}}
+\hypertarget{axler3.40-dimension-of-the-matrix-vector-space}{%
+\subsection{\texorpdfstring{Axler3.40 dimension of the matrix vector
+space
+{\textsc{icr}}}{Axler3.40 dimension of the matrix vector space icr}}\label{axler3.40-dimension-of-the-matrix-vector-space}}
+
+Put a one in every location which forms a basis.
+
+\hypertarget{axler3.49-column-of-matrix-product-equals-matrix-times-column}{%
+\subsection{\texorpdfstring{Axler3.49 column of matrix product equals
+matrix times column
+{\textsc{icr}}}{Axler3.49 column of matrix product equals matrix times column icr}}\label{axler3.49-column-of-matrix-product-equals-matrix-times-column}}
+
+Makes sense if you draw it out.. basically a column in the product
+\(AC\) will have used all of \(A\) but only the one column in \(C\).
+\[(AC)_{\cdot, k} = A(C_{\cdot, k})\] and
+\[(AC)_{j, \cdot} = (A_{j, \cdot})C\]
 
 \end{document}
