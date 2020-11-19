@@ -20,4 +20,6 @@
 ** Matrix addition and scalar multiplication
    Not news
 
-** The matrix for the derivative map
+** The matrix for the derivative map (finite)
+   $$T \in \mathcal L\left(\mathcal P_5\left(\mathbb R\right), \mathcal P_4\left(\mathbb R\right)\right)$$
+   Start with standard bases: $\mathcal P_5 \rightarrow 1, x, x^2, x^3, x^4, x^5$, $\mathcal P_4 \rightarrow 1, x, x^2, x^3, x^4$

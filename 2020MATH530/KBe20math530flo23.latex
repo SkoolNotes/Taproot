@@ -123,9 +123,9 @@ proofs) }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5227)}}    % original
-%\rhead{\textrmlf{Compiled }\#5227\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5227\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5229)}}    % original
+%\rhead{\textrmlf{Compiled }\#5229\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5229\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -202,8 +202,13 @@ multiplication}\label{matrix-addition-and-scalar-multiplication}}
 
 Not news
 
-\hypertarget{the-matrix-for-the-derivative-map}{%
-\subsection{The matrix for the derivative
-map}\label{the-matrix-for-the-derivative-map}}
+\hypertarget{the-matrix-for-the-derivative-map-finite}{%
+\subsection{The matrix for the derivative map
+(finite)}\label{the-matrix-for-the-derivative-map-finite}}
+
+\[T \in \mathcal L\left(\mathcal P_5\left(\mathbb R\right), \mathcal P_4\left(\mathbb R\right)\right)\]
+Start with standard bases:
+\(\mathcal P_5 \rightarrow 1, x, x^2, x^3, x^4, x^5\),
+\(\mathcal P_4 \rightarrow 1, x, x^2, x^3, x^4\)
 
 \end{document}
