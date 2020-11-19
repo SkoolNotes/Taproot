@@ -123,9 +123,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5201)}}    % original
-%\rhead{\textrmlf{Compiled }\#5201\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5201\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5203)}}    % original
+%\rhead{\textrmlf{Compiled }\#5203\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5203\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -178,7 +178,7 @@
 \hypertarget{section-1}{%
 \subsection{8}\label{section-1}}
 
-\[\frac{\partial}{\partial x} \tan\left(1-2e^x\right) = -\ln x e^x\sec^2\left(1-2e^x\right)\]
+\[\frac{\partial}{\partial x} \tan\left(1-2e^x\right) = -e^x\sec^2\left(1-2e^x\right)\]
 
 \hypertarget{section-2}{%
 \subsection{9}\label{section-2}}
