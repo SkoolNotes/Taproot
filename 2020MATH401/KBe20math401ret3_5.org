@@ -6,9 +6,9 @@
 ** 8
    $$\frac{\partial}{\partial x} \tan\left(1-2e^x\right) = -2e^x\sec^2\left(1-2e^x\right)$$
 ** 9
-   $$\frac{\partial}{\partial x} \cos\left(\sin\left(z\right)+z^2\right)$$
+   $$\frac{\partial}{\partial z} \cos\left(\sin\left(z\right)+z^2\right) = -\sin\left(\sin x+x^{2}\right)\left(\cos x+2x\right)$$
 ** 13
-   $$\frac{\partial}{\partial x} $$
+   $$\frac{\partial}{\partial x} e^{12z-z^6} = \text{itself}$$
 ** 42
    $$\frac{\partial}{\partial x} $$
 ** 43
