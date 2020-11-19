@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ Journal club }
-\newcommand{\thelesson}{ Grace Meeting Notes }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Axler 3.C Flow because CanVaS PoStInG is cool }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -125,7 +125,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5222)}}    % original
 %\rhead{\textrmlf{Compiled }\#5222\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#5222\textrmlf{ on} \today}       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -166,140 +166,64 @@
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
 
-\hypertarget{graces-meeting-notes}{%
-\section{Grace's Meeting Notes}\label{graces-meeting-notes}}
+\hypertarget{axler3.30-def-matrix-a_jk}{%
+\section{\texorpdfstring{Axler3.30 \#def matrix \(A_{j,k}\)
+{\textsc{def}}}{Axler3.30 \#def matrix A\_\{j,k\} def}}\label{axler3.30-def-matrix-a_jk}}
 
-\begin{itemize}
-\tightlist
-\item
-  Interested in memory
-\item
-  Synapses are influencing each other =\textgreater{} allows cluster
-  processing =\textgreater{} provide more insight
-\item
-  Understanding brains+memory is key to understanding human behavior
-  =\textgreater{} excited about the mechanisms of the brain
-\item
-  Memory is interesting b/c its complex and we don't know about
-  =\textgreater{} personal and culture narratives are critical
-\end{itemize}
+A \(m\time n\) matrix is a rectangle of numbers with \(m\) rows and
+\(n\) columns. And other stuff you would expect
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{axler3.32-def-matrix-of-a-linear-map-mathcal-mt}{%
+\section{\texorpdfstring{Axler3.32 \#def matrix of a linear map,
+\(\mathcal M(T)\)
+{\textsc{def}}}{Axler3.32 \#def matrix of a linear map, \textbackslash mathcal M(T) def}}\label{axler3.32-def-matrix-of-a-linear-map-mathcal-mt}}
 
-\begin{itemize}
-\tightlist
-\item
-  Like to talk about the causal pathways found
+\begin{quote}
+Suppose \(T \in \mathcal L(V, W)\) and \(v_1, \ldots, v_n\) is a basis
+of \(V\) and \(w_1, \ldots, w_m\) is a basis of \(W\). The \emph{matrix
+of \$T\$} with respect to these bases is the \(m\times n\) matrix
+\(\mathcal M\left(\mathcal T, \left(v_1, \ldots, v_n\right), \left(w_1, \ldots, w_m\right)\right)\)
+whose entries \(A_{j,k}\) are defined by
+\[Tv_k = A_{1, k}w_1 + \cdots + A_{m, k}w_m\].
+\end{quote}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Figs 1, 8, 3
-  \item
-    Personally want to focus on the background, observation, and
-    pathways
-  \item
-    General structure of presentation: Figures 1,8,3 between the
-    structure of \{Big pic, \{hypo, result, pathway\}, implication\}
-  \end{itemize}
-\end{itemize}
+Note that for each output \(Tv_k\) is a linear combination of a column.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{algebra-things}{%
+\section{Algebra things}\label{algebra-things}}
 
-\begin{itemize}
-\tightlist
-\item
-  Scientific story --- what we talk about last time: the story of the
-  LTP induced intra-synaptic PAP outflow cross talk
-\item
-  Knew how signal strength could be changed + changes the likelyhood of
-  neuron cross-talk =\textgreater{} astroglia actually have an active
-  role in memory encoding
-\item
-  Paper complicates the preexisting definition of long term potentiation
-  + pulls in novel information --- that LTP is not just LTP but also
-  influnces how other neurons fire
-\item
-  New Figures!!
+\hypertarget{axler3.35-def-matrix-sum}{%
+\subsection{\texorpdfstring{Axler3.35 \#def Matrix Sum
+{\textsc{def}}}{Axler3.35 \#def Matrix Sum def}}\label{axler3.35-def-matrix-sum}}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    (old) 1, 8, 3
-  \item
-    Figures 6C (nearby neurons are excited) and 8H (glutamate is
-    dispersed more) =\textgreater{} impact of the extra glutamate
-    release
-  \end{itemize}
-\item
-  Master ordering of figures
+Pointwise addition, pretty straight forward. \textbf{Only works on
+matrices of the same size!}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Intro
-  \item
-    Discovery
+\hypertarget{axler-3.36-the-matrix-sum-of-linear-maps}{%
+\subsection{Axler 3.36 The matrix sum of linear
+maps}\label{axler-3.36-the-matrix-sum-of-linear-maps}}
 
-    \begin{itemize}
-    \tightlist
-    \item
-      1D --- astroglia shrinking when LTP happened
-    \end{itemize}
-  \item
-    Effect
+Basically matrices that are linear maps also satisfie additivity of
+linear maps (Given
+\(S, T \in \mathcal L(V, W), \mathcal M(S) + \mathcal M(T) = \mathcal M(S+T)\))
 
-    \begin{itemize}
-    \tightlist
-    \item
-      6C + 6H --- why this would matter
-    \end{itemize}
-  \item
-    Pathway
+\hypertarget{axler3.37-and-axler3.38-same-for-scalar-multiplication}{%
+\subsection{Axler3.37 and Axler3.38 (same for scalar
+multiplication)}\label{axler3.37-and-axler3.38-same-for-scalar-multiplication}}
 
-    \begin{itemize}
-    \tightlist
-    \item
-      3D --- AQP4 astroglia changed the most when LTP, so that's causing
-      it?
-    \end{itemize}
-  \item
-    Process
+Its the same for scalar multiplication, yay
 
-    \begin{itemize}
-    \tightlist
-    \item
-      Redrawn 8D
-    \end{itemize}
-  \item
-    Backup
+\hypertarget{notation-axler3.39-mathbb-fmn}{%
+\section{\texorpdfstring{Notation Axler3.39
+\(\mathbb F^{m,n}\)}{Notation Axler3.39 \textbackslash mathbb F\^{}\{m,n\}}}\label{notation-axler3.39-mathbb-fmn}}
 
-    \begin{itemize}
-    \tightlist
-    \item
-      1F --- In backup to show control metric
-    \end{itemize}
-  \end{itemize}
-\end{itemize}
+\(F^{m, n}\) is the set of all \(m\times n\) matrices with entries in
+\(\mathbb F\).
 
-{[}{[}Screen Shot 2020-11-19 at 12.00.25 PM.png{]}{]}
+\hypertarget{axler3.40-textdim-mathbb-fmn-mn}{%
+\section{\texorpdfstring{Axler3.40
+\(\text{dim }\mathbb F^{m,n} = mn\)}{Axler3.40 \textbackslash text\{dim \}\textbackslash mathbb F\^{}\{m,n\} = mn}}\label{axler3.40-textdim-mathbb-fmn-mn}}
 
-Background stuff
-
-\begin{itemize}
-\tightlist
-\item
-  LTP: system how repeated firing of a synapse cause synapse to fire
-\item
-  Glumate: involved in making neurons excited
-\item
-  fEPSP: avg. amount of firing in a population of neurons
-\item
-  VF: volume fraction
-\item
-  MKCC1: protein --- for neural remodeling
-\item
-  Astroglia:
-\end{itemize}
+\(\mathbb F^{m,n}\) is itself a vector space with dimension \(mn\).
 
 \end{document}
