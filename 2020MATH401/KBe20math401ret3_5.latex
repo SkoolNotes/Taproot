@@ -123,9 +123,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5198)}}    % original
-%\rhead{\textrmlf{Compiled }\#5198\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5198\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5200)}}    % original
+%\rhead{\textrmlf{Compiled }\#5200\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5200\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -172,6 +172,8 @@
 
 \hypertarget{section}{%
 \subsection{4}\label{section}}
+
+\[\frac{\partial}{\partial x}\sqrt{w^3+8w^2} =\frac{\left(3w^2+16w\right)}{2 \sqrt{w^3+8w^2}}\]
 
 \hypertarget{section-1}{%
 \subsection{8}\label{section-1}}
