@@ -1,0 +1,10 @@
+#+AUTHOR: Exr0n
+#+TITLE: Flo 23 (19 Nov 2020, skipped a bunch of proofs)
+
+* Row Reduced Echelon Form
+  Null space is the same (because algebra).
+  Then turn it into a system of equations and use those equations to find the null space.
+
+* Factoring a vector
+  Say we have $\begin{pmatrix}-2x_3-4x_4\\-4x_3-7x_4\\x_3\\x_4\end{pmatrix}$.
+  Then you can write it as the linear combination $$\begin{pmatrix}-2x_3\\-4x_3\\x_3\\0\end{pmatrix}+\begin{pmatrix}-4x_4\\-7x_4\\0\\x_4\end{pmatrix} = x_3\begin{pmatrix}-2\\-4\\1\\0\end{pmatrix}+x_4\begin{pmatrix}-4\\-7\\0\\1\end{pmatrix}$$
