@@ -123,9 +123,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5212)}}    % original
-%\rhead{\textrmlf{Compiled }\#5212\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5212\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5213)}}    % original
+%\rhead{\textrmlf{Compiled }\#5213\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5213\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -198,6 +198,6 @@
 \hypertarget{section-5}{%
 \subsection{43}\label{section-5}}
 
-\[\frac{\partial}{\partial x} \sqrt{x^2+\sqrt{1+4x}}\]
+\[\frac{\partial}{\partial x} \sqrt{x^2+\sqrt{1+4x}} = \frac{1}{2\left(x^2+\sqrt{1+4x}}\left(2x+\frac{1}{8}\right)\]
 
 \end{document}
