@@ -123,9 +123,9 @@ proofs) }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5226)}}    % original
-%\rhead{\textrmlf{Compiled }\#5226\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5226\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5227)}}    % original
+%\rhead{\textrmlf{Compiled }\#5227\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5227\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -201,5 +201,9 @@ Based on maps being uniquely determined
 multiplication}\label{matrix-addition-and-scalar-multiplication}}
 
 Not news
+
+\hypertarget{the-matrix-for-the-derivative-map}{%
+\subsection{The matrix for the derivative
+map}\label{the-matrix-for-the-derivative-map}}
 
 \end{document}
