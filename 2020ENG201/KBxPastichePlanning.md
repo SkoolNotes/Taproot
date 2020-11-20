@@ -51,24 +51,31 @@ Provide details about the following:
 ```
 
 
+## Out. Lining. 
+`const I = 'I' `
+
+Main idea: address to Canadian immigration office 
+
+Identify crisis in that hate America but love America?
+
+Crap on America, while saying "But it's my homeee :( (wwoe is me)" 
+
+- the bad. 
+	- 
+- the good? 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+- formal immigration document 
+	- start with "imagine you move to America," second person
+		- talk about how truth gets destroyed due to fake news and such
+		- talk about the obesity rates, and ect. 
+		- talk about the land of dreams
+		- talk about the innovation, and how to be successful this is the best place to do it. 
+	- now imagine you are me, and see that nothing's changed. 
+	- maybe: talk about how in modern times, I can escape the bad and still have access to the good? 
 
 
 
