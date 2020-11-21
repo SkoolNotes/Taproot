@@ -84,7 +84,7 @@ Crap on America, while saying "But it's my homeee :( (wwoe is me)"
 ## Righting Thyme. 
 
 
-Imagine you lived in America. Where the sun always shines (except when it doesn't, but that doesn't matter), where the rain is always refreshing, and where all dreams can come true. You look around and see America, the land of dreams! — Of freedom, of innovation, of equality, ect. You notice the air is filled with hope (it's almost sickly sweet, or maybe just sickly), and the eyes are filled with phones. You move on, not thinking to much about it, because how could some phones ruin (shatter your conception of) the magnificent, great, elitist land of America? The land of success, where all the tech giants reside — Apple, Amazon, Google — and you reside here to! You can't pass that up for anything if you want to be successful like them. 
+Imagine you lived in America. Where the sun always shines (except when it doesn't, but that doesn't matter), where the rain is always refreshing, and where all dreams can come true. You look around and see America, the land of dreams! — Of freedom, of innovation, of equality, ect. You notice the air is filled with hope (it's almost sickly sweet, or maybe just sickly), and the eyes are filled with phones. You move on, not thinking to much about it, because how could some phones ruin (shatter your conception of) the magnificent, great, elitist land of America? The land of success, where all the tech giants reside — Apple, Amazon, Google — and you reside here to! You can't pass that up for anything if you want to be successful like them. You watch the entertainment — the entertainment here is great! you think to yourself; the entertainment is reality. Or maybe it isn't. Doesn't matter. 
 
 
 
