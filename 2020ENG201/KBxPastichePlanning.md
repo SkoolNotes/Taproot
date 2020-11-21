@@ -84,7 +84,7 @@ Crap on America, while saying "But it's my homeee :( (wwoe is me)"
 ## Righting Thyme. 
 
 
-Imagine you lived in America. Where the sun always shines (except when it doesn't, but that doesn't matter), where the rain is always refreshing, and where all dreams can come true. You look around and see America, the land of dreams! — Of 
+Imagine you lived in America. Where the sun always shines (except when it doesn't, but that doesn't matter), where the rain is always refreshing, and where all dreams can come true. You look around and see America, the land of dreams! — Of freedom, of innovation of equality, ect. You notice the air is filled with hope (it's almost sickly sweat, or maybe just sickly), and the air is filled
 
 
 
