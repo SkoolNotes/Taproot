@@ -84,7 +84,7 @@ Crap on America, while saying "But it's my homeee :( (wwoe is me)"
 ## Righting Thyme. 
 
 
-Imagine you lived in America. Where the 
+Imagine you lived in America. Where the sun always shines (except when it doesn't, but that doesn't matter), where the rain is always refreshing, and where all dreams can come true. 
 
 
 
