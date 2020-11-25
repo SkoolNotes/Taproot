@@ -1,0 +1,221 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ML301 }
+\newcommand{\thelesson}{ Neural Nets Assignment }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5273)}}    % original
+%\rhead{\textrmlf{Compiled }\#5273\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5273\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\#ref \#ret
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{verbatim}
+Option 3: Find a tutorial using a neural network library (some options are listed below), and answer as many of the following questions as you can (not all will be relevant for all tutorials). This will probably be easiest if you actually copy the code and try running it, so that you can, say, add print statements to better understand what is going on. See Installing Tensorflow and Keras for instructions to install libraries you may need.
+
+    What type of data are they using?
+    What conversions (if any) had to be done to the data before it could be put into the neural network?
+    What is the output of the neural network, both in terms of what it looks like to the computer (e.g. integers in the range [0-2]) and how humans should interpret it (e.g. the type of iris)?
+    How many hidden layers does the network have, and what type are they (e.g. fully connected, convolutional, recurrent, LSTM, sparse, etc.)?
+    What activation function(s) does it use?
+    What loss or cost function is it using?
+    What kind of validation (if any) are they using?
+    What other validation methods might work for this type of problem?
+    Why do you think the authors may have chosen this architecture for their network?
+    Are there any changes you might try, if you were going to improve on their model?
+\end{verbatim}
+
+Looked at the
+\href{https://github.com/ml4a/ml4a-guides/blob/master/notebooks/convolutional_neural_networks.ipynb}{Convolutional
+Neural Network Notebook} - What type of data are they using? - They are
+using images as their input data. - What conversions (if any) had to be
+done to the data before it could be put into the neural network? - For
+the basic neural network, they reshape the data to be individual
+vectors, make them float32, normalize the data, then convert the vectors
+to binary class matrices via one hot encoding. For the CNN, they repeat
+the previous steps except without reshaping the data into unrolled input
+vectors. - What is the output of the neural network, both in terms of
+what it looks like to the computer (e.g.~integers in the range
+{[}0-2{]}) and how humans should interpret it (e.g.~the type of iris)? -
+The output should be an array of probabilities for each category, which
+can be interpreted as, at a given index in the array, the item's
+probabilities for belonging in each category. - How many hidden layers
+does the network have, and what type are they (e.g.~fully connected,
+convolutional, recurrent, LSTM, sparse, etc.)? - For the final iteration
+of the CNN, the model has four hidden layers --- two convolutional, and
+two dense. - What activation function(s) does it use? - The CNN used
+ReLU and softmax. - What loss or cost function is it using? - The
+model's loss function is categorical crossentropy - What kind of
+validation (if any) are they using? - The model uses accuracy as it's
+validation metric. - What other validation methods might work for this
+type of problem? - Any validation that works for classification
+problems, such as recall, f-measure, or precision. - Why do you think
+the authors may have chosen this architecture for their network? - They
+started with a small network to help illustrate the concepts more
+clearly, then gradually added more layers. They used a CNN so the model
+would be able to perform feature based recognition. - Are there any
+changes you might try, if you were going to improve on their model? - I
+will try to add some more layers, as well as some more dropout.
+
+\end{document}

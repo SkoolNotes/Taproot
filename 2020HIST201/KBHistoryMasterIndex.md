@@ -86,6 +86,7 @@ source: #index
 - Mason + Kennedy [[KBhHIST201MasonAndKennedy]]
 - MasonChapter5 [[KBhHIST201MasonCh5]]
 - MasonChapter5&7x [[KBxHIST201MasonCh5&7]]
+- Japan and the westx [[KBxJapanandtheWest]]
 
 # Essays
 * Essay 1
