@@ -8,4 +8,6 @@ course: BIO101
 # Central Dogma
 Central dogma is the concept that the instructions of protein synthesis comes from the DNA, and that DNA creates RNA creates Protein, RNA creates RNA, DNA creates DNA, but this flow path could not be reversed.
 
-We know a little bit more about central dogma now, and specifically the
+We know a little bit more about central dogma now, and now have more concise operations for the processes defined in the central dogma, namely...
+
+
