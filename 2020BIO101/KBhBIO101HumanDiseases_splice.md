@@ -11,11 +11,6 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 #flo #disorganized 
 	
 ## Congenital vs. Acquired disease
-
-Congenital diseases => 
-
-Acquired diseases => diseases that begin during lifetime, including...
-
 * Microrganism invasion => "infectios diseases"
 * Autoimmune reaction
 * Nutrient deficiency

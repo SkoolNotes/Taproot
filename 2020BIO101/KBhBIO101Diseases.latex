@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5380)}}    % original
-%\rhead{\textrmlf{Compiled }\#5380\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5380\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5381)}}    % original
+%\rhead{\textrmlf{Compiled }\#5381\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5381\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -188,10 +188,25 @@
   allergies, etc.)
 \end{itemize}
 
-\hypertarget{two-main-types-of-diseases}{%
-\subsection{Two Main Types of
-Diseases}\label{two-main-types-of-diseases}}
+\hypertarget{types-of-diseases}{%
+\subsection{Types of Diseases}\label{types-of-diseases}}
 
-"Congenital
+\hypertarget{congenital-disease}{%
+\subsubsection{Congenital Disease}\label{congenital-disease}}
+
+Diseases present at birth due to DNA abnormalities / pregnancy
+pathological issues
+
+\hypertarget{acquired-disease}{%
+\subsubsection{Acquired Disease}\label{acquired-disease}}
+
+Diseases that begin during the lifetime due to exposure to some
+environmental factors\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Microrganism Invasion} =\textgreater{} "infect
+\end{itemize}
 
 \end{document}

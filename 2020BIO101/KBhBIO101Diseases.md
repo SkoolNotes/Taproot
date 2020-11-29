@@ -19,5 +19,8 @@ course: BIO101
 Diseases present at birth due to DNA abnormalities / pregnancy pathological issues
 
 ### Acquired Disease
+Diseases that begin during the lifetime due to exposure to some environmental factors...
+
+- **Microrganism Invasion** => "infect
 
 
