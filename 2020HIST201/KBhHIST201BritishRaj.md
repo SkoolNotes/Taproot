@@ -1,5 +1,5 @@
 ---
-title: Bulliet: British Raj
+title: Bulliet British Raj
 author: Houjun Liu
 source: KBHistoryMasterIndex
 course: HIST201

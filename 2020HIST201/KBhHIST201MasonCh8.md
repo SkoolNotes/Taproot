@@ -1,5 +1,5 @@
 ---
-title: Mason, Chapter 8
+title: Mason Chapter 8
 source: KBHistoryMasterIndex
 author: Houjun Liu
 course: HIST201
