@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5326)}}    % original
-%\rhead{\textrmlf{Compiled }\#5326\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5326\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5338)}}    % original
+%\rhead{\textrmlf{Compiled }\#5338\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5338\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,8 +179,9 @@ After reading the intron, they are spliced out during mRNA processing
 ``capped and tailed'' to mark pre-processing completion, at which point
 they leave the nucleus + go to the ribosome.
 
-\hypertarget{so-lets-do-it}{%
-\subsection{So, let's do it:}\label{so-lets-do-it}}
+\hypertarget{slicing-out-the-non-coding-parts}{%
+\subsection{Slicing out the non-coding
+parts}\label{slicing-out-the-non-coding-parts}}
 
 \begin{itemize}
 \tightlist
@@ -194,6 +195,19 @@ they leave the nucleus + go to the ribosome.
   Splicesome splices by bringing exon ends together
 \item
   After it's done, the splicesome disintergrates
+\end{itemize}
+
+\hypertarget{marking-for-maturity}{%
+\subsection{Marking for Maturity}\label{marking-for-maturity}}
+
+After the slicing is done, each finished mRNA is marked for maturity:
+
+\begin{itemize}
+\tightlist
+\item
+  3' end =\textgreater{} AAAAAA tail (using poly-adenine tailing enzyme)
+\item
+  5' end =\textgreater{} GGGGGG cap (using guanine-capping enzyme)
 \end{itemize}
 
 \end{document}

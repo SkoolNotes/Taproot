@@ -367,10 +367,6 @@ Viruses attempt to overwhelm the enzyme to entry.
 	* Have lower fidelity with an error about 1/100,000
 	* Hence why safety mechanism needed
 
-**Capping and Tailing**
-
-
-
 **DNA** viruses are "less complex", in that as long as they are able to get into the nucleaus, the rest would just be the body's work automatically.
 
 ### List of Kool Proteins
