@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5362)}}    % original
-%\rhead{\textrmlf{Compiled }\#5362\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5362\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5363)}}    % original
+%\rhead{\textrmlf{Compiled }\#5363\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5363\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -185,8 +185,20 @@
     Histones =\textgreater{} coiler proteins that DNA wraps around to
     form more advanced structures
   \item
-    Each group of histones contains 4 parts (hence 4 (per2=8)
+    Each group of histones contains 4 parts (hence 4 (per group) x 2
+    (groups) = 8 histones)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      H3, H4, H2a, H2b are the 4 wrapping proteins
+    \item
+      H1 is the histone that seals the group of 4 together
+    \end{itemize}
   \end{itemize}
+\item
+  \textbf{Chromatin}: wrapping nucleosomes into large, fiberous fiber
+  called "chr
 \end{itemize}
 
 \end{document}
