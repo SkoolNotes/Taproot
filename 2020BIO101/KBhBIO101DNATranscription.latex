@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5311)}}    % original
-%\rhead{\textrmlf{Compiled }\#5311\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5311\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5312)}}    % original
+%\rhead{\textrmlf{Compiled }\#5312\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5312\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -173,8 +173,8 @@
 The process of DNA transcription is done by the RNA Polymerase Enzyme.
 DNA transcription begins by ripping apart hydrogen bonds using DNAse
 enzyme, then the RNA polymerease reads one side (the ``template
-strand'', a.k.a. noncoding strand) of the double helix, recognizing each
-nucleotide
+strand'', a.k.a. noncoding ``antisene'' strand that runs from 3' to 5')
+of the double helix, recognizing each nucleotide
 
 \begin{itemize}
 \tightlist
