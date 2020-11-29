@@ -12,3 +12,6 @@ Raw review sheet content: [[KBhBIO101HumanDiseases]]
 ## Review Smanza
 ### The Basics of DNA
 - [[KBhBIO101NucleicAcidsDNARNA]]
+
+### Protein Synthesis
+- [[KBhBIO101CentralDogma]]: central dogma — the process of protein synthesis

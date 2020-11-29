@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5284)}}    % original
-%\rhead{\textrmlf{Compiled }\#5284\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5284\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5295)}}    % original
+%\rhead{\textrmlf{Compiled }\#5295\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5295\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,6 +180,14 @@ Raw review sheet content: {[}{[}KBhBIO101HumanDiseases{]}{]}
 \tightlist
 \item
   {[}{[}KBhBIO101NucleicAcidsDNARNA{]}{]}
+\end{itemize}
+
+\hypertarget{protein-synthesis}{%
+\subsubsection{Protein Synthesis}\label{protein-synthesis}}
+
+\begin{itemize}
+\tightlist
+\item
 \end{itemize}
 
 \end{document}
