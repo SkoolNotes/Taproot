@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5348)}}    % original
-%\rhead{\textrmlf{Compiled }\#5348\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5348\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5349)}}    % original
+%\rhead{\textrmlf{Compiled }\#5349\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5349\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -214,44 +214,22 @@ The primed DNA is broken and rejoined in order to reduce strain caused
 by unzipping. Topoisomerase is responsible for relieving
 unwinding-induced.
 
-\begin{itemize}
-\tightlist
-\item
-  Open the DNA at an arbuiturary point using the Helicase
+\hypertarget{the-actual-process-of-replication}{%
+\subsubsection{The actual process of
+replication}\label{the-actual-process-of-replication}}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Uses two helicase =\textgreater{} one open rightward, and one
-    leftward. The movement of the helicase opening the DNA is called the
-    ``fork movement''
-  \item
-    DNA polymerase could only add nucleotides 5' to 3'
-  \item
-    As helicase open a little bit of the DNA, polymerases rushes to copy
-    the area that opened
+In this step, DNA polymerease does we came here to do.
 
-    \begin{itemize}
-    \tightlist
-    \item
-      In the \textbf{leading} strand (3' to 5'), polymerase will run
-      alongside the helicase for they are opening and replicating on the
-      same direction
-    \item
-      In the \textbf{lagging} strand (5' to 3'), polymerase will wait
-      until the helicate opens a little segment, and rushes forward and
-      move backwards
-
-      \begin{itemize}
-      \tightlist
-      \item
-        NOTE: the lagging strand\ldots{} 1) takes longer to transcribe
-        2) is done in small chunks (each ``rush forward''). Each chunk
-        is called an ogazaki fragment
-      \end{itemize}
-    \end{itemize}
-  \end{itemize}
-\end{itemize}
+Because DNA polymerase could only add nucleotides 5' to 3', there is two
+types of styles of copying depending on which of the two * As helicase
+open a little bit of the DNA, polymerases rushes to copy the area that
+opened * In the \textbf{leading} strand (3' to 5'), polymerase will run
+alongside the helicase for they are opening and replicating on the same
+direction * In the \textbf{lagging} strand (5' to 3'), polymerase will
+wait until the helicate opens a little segment, and rushes forward and
+move backwards * NOTE: the lagging strand\ldots{} 1) takes longer to
+transcribe 2) is done in small chunks (each ``rush forward''). Each
+chunk is called an ogazaki fragment
 
 \begin{figure}
 \centering
@@ -277,13 +255,7 @@ unwinding-induced.
 Stage of DNA Replication Main purpose of this step Key enzymes and
 structures involved Outcome of this process
 
-The resulting DNA is ready to be read from the 3' to 5' end in order to
-synthesize a new strand 5' to 3'. Actually replicating
-
-The DNA is replicated via fitting the pairing nucleotides against the
-primed DNA DNA polymerase, in addition to the primer RNAs
-aforementioned, perform this process. Two new sets of DNA ready to be
-checked and later utilised. Proofreading
+Proofreading
 
 Replicated DNA is checked for any irregularities + patched as needed in
 order to prevent error DNA polymerase and ``mismatch repair enzymes''

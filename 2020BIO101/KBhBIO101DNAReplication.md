@@ -24,14 +24,15 @@ The unwinded DNA is primed to help DNA polymerase’s replication process. **Pri
 ### DNA "flexing" (what's the actual word?)
 The primed DNA is broken and rejoined in order to reduce strain caused by unzipping. Topoisomerase is responsible for relieving unwinding-induced.
 
-* Open the DNA at an arbuiturary point using the Helicase
-	* Uses two helicase => one open rightward, and one leftward. The movement of the helicase opening the DNA is called the "fork movement"
-	* DNA polymerase could only add nucleotides 5' to 3'
-	* As helicase open a little bit of the DNA, polymerases rushes to copy the area that opened
-		* In the **leading** strand (3' to 5'), polymerase will run alongside the helicase for they are opening and replicating on the same direction
-		* In the **lagging** strand (5' to 3'), polymerase will wait until the helicate opens a little segment, and rushes forward and move backwards
-			* NOTE: the lagging strand... 1) takes longer to transcribe 2) is done in small chunks (each "rush forward"). Each chunk is called an ogazaki fragment
-			
+### The actual process of replication
+In this step, DNA polymerease does we came here to do.
+
+Because DNA polymerase could only add nucleotides 5' to 3', there is two types of styles of copying depending on which of the two 
+* As helicase open a little bit of the DNA, polymerases rushes to copy the area that opened
+	* In the **leading** strand (3' to 5'), polymerase will run alongside the helicase for they are opening and replicating on the same direction
+	* In the **lagging** strand (5' to 3'), polymerase will wait until the helicate opens a little segment, and rushes forward and move backwards
+		* NOTE: the lagging strand... 1) takes longer to transcribe 2) is done in small chunks (each "rush forward"). Each chunk is called an ogazaki fragment
+
 ![leadinglagging.png](leadinglagging.png)
 		
 * DNA polymersease will REQUIRE a double-stranded area to begin work from, so Primase synthesize already double-stranded RNA primers that DNA polymerease could bootstrap to the single-stranded DNA to begin the replication process (think: create-react-app)
@@ -51,18 +52,6 @@ Outcome of this process
 
 
 
-The resulting DNA is ready to be read from the 3’ to 5’ end in order to synthesize a new strand 5’ to 3’.
-Actually replicating
-
-
-
-
-
-
-
-The DNA is replicated via fitting the pairing nucleotides against the primed DNA
-DNA polymerase, in addition to the primer RNAs aforementioned, perform this process.
-Two new sets of DNA ready to be checked and later utilised.
 Proofreading
 
 
