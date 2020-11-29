@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5307)}}    % original
-%\rhead{\textrmlf{Compiled }\#5307\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5307\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5324)}}    % original
+%\rhead{\textrmlf{Compiled }\#5324\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5324\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -181,13 +181,16 @@ DNA that helps make protein. There are two parts of this: translation
 and transcription.
 
 \begin{itemize}
-\tightlist
 \item
   The process of \textbf{Transcription} involves taking the DNA,
   separating it, and copying its corresponding pairs to RNA
 \item
   The process of \textbf{Translation} involves taking the RNA and making
   proteins.
+\item
+  \emph{Non-coding sequence}: metadata for DNA for the processors
+\item
+  \emph{Coding sequence}: DNA content for amino-acid production
 \end{itemize}
 
 Occasionally, the RNA is what we want to end up with, so then obviously
@@ -206,8 +209,10 @@ transcription.
 See {[}{[}KBhBIO101DNATranscription{]}{]}
 
 \hypertarget{mrna-processing-splicing-mrna}{%
-\subsubsection{mRNA processing =\textgreater{} splicing
+\subsection{mRNA processing =\textgreater{} splicing
 mRNA}\label{mrna-processing-splicing-mrna}}
+
+After the transcribed mRNA is finished, Eukar
 
 Pre-process the mRNA.
 

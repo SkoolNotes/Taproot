@@ -46,6 +46,3 @@ Transcription finishes at a gene **terminator**. This sequence will signals the 
 * In Eukarotes
 	* Pol I genes — transcription stopped through termination factor by unwindng the transcribed RNA-DNA hybrid
 	* Pol II genes — don't stop until the end, but a polymerase has a "cleavage" mechanism that clips the end out using a poly(A) tail consensus sequence
-
-### Before we continue, two words
-

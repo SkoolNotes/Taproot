@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5323)}}    % original
-%\rhead{\textrmlf{Compiled }\#5323\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5323\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5324)}}    % original
+%\rhead{\textrmlf{Compiled }\#5324\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5324\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -274,18 +274,6 @@ signals the end of the gene sequence that codes for a protein.
     ``cleavage'' mechanism that clips the end out using a poly(A) tail
     consensus sequence
   \end{itemize}
-\end{itemize}
-
-\hypertarget{before-we-continue-two-words}{%
-\subsubsection{Before we continue, two
-words}\label{before-we-continue-two-words}}
-
-\begin{itemize}
-\tightlist
-\item
-  \emph{Non-coding sequence}: metadata for DNA for the processors
-\item
-  \emph{Coding sequence}: DNA content for amino-acid production
 \end{itemize}
 
 \end{document}

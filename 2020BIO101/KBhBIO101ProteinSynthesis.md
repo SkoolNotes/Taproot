@@ -14,6 +14,9 @@ Let's make a protein tegether!
 - The process of **Transcription** involves taking the DNA, separating it, and copying its corresponding pairs to RNA
 - The process of **Translation** involves taking the RNA and making proteins.
 
+- *Non-coding sequence*: metadata for DNA for the processors
+- *Coding sequence*: DNA content for amino-acid production
+
 Occasionally, the RNA is what we want to end up with, so then obviously we no longer need the process of Translation.
 
 ## Transcription => converting DNA to mRNA
@@ -21,7 +24,10 @@ The process of transcription is the process by which DNA is converted to messeng
 
 See [[KBhBIO101DNATranscription]]
 
-### mRNA processing => splicing mRNA
+## mRNA processing => splicing mRNA
+After the transcribed mRNA is finished, Eukar
+
+
 Pre-process the mRNA. 
 
 **Prokaryotes does not do this!** Prokarotes' coding sequence always makes a full protein, so we just start at promoter and end at terminator and make a protein!
