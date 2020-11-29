@@ -24,6 +24,31 @@ Diseases that begin during the lifetime due to exposure to some environmental fa
 - **Microrganism Invasion** => "infectious disease"
 - **Autoimmune reaction** => your body fighting your body
 - **Nutrient deficiency** => not eating good
-- **Mechanical wear** => wear and tear a
+- **Mechanical wear** => wear and tear of physical body parts
+- **Ingestion of noxious chemicals** => eating poison
+
+***
+An aside...
+
+**Infectious diseases actually smaller on the causes of death in the US**
+
+* Heart disease => wear + deficiency 
+* Cancer => heritable + DNA
+* Unintentional injuries => not a disease
+* Chronic respitory disease => wear
+* Stroke => not a disease
+* Alhetimer disease => wear
+* Diabetes => autoimmune, nutrient, wear
+* Influenca <= **here, finally, an infections disease.**
+***
+
+## Disease-causing Agents
+* **Protozoan** => single-celled eukaryotes
+* **Fungal** => single/multi-celled eukarotyes
+* **Bacteria** => single-celled prokaryotes
+* **Viral** => acellular parasitic infectious agent
+* **Helminuthus** => multicellular worms
+* **Prions** => acellular misfolded proteins
+* **Viroids** => infections nucleic acids w/o protein coat to make virus
 
 

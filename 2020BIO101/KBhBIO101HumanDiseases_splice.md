@@ -9,33 +9,8 @@ course: BIO201
 A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.google.com/presentation/d/1b2RetU6iGsd_h4Msb2SV-_WznNXSREbsPpfdY-LgJZs/edit#slide=id.ga6d683dbbf_0_338)
 
 #flo #disorganized 
-	
-## Congenital vs. Acquired disease
-* Microrganism invasion => "infectios diseases"
-* Autoimmune reaction
-* Nutrient deficiency
-* Mechanical wear
-* Ingestion of noxious chemicals
-
-**Infectious diseases actually smaller on the causes of death in the US**
-
-* Heart disease => wear + deficiency 
-* Cancer => heritable + DNA
-* Unintentional injuries => not a disease
-* Chronic respitory disease => wear
-* Stroke => not a disease
-* Alhetimer disease => wear
-* Diabetes => autoimmune, nutrient, wear
-* Influenca <= **here, finally, an infections disease.**
 
 ## Disease causing agents
-* **Protozoan** => single-celled eukaryotes
-* **Fungal** => single/multi-celled eukarotyes
-* **Bacteria** => single-celled prokaryotes
-* **Viral** => acellular parasitic infectious agent
-* **Helminuthus** => multicellular worms
-* **Prions** => acellular misfolded proteins
-* **Viroids** => infections nucleic acids w/o protein coat to make virus
 
 ## Pathogenicity + Virulence
 
