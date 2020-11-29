@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5361)}}    % original
-%\rhead{\textrmlf{Compiled }\#5361\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5361\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5362)}}    % original
+%\rhead{\textrmlf{Compiled }\#5362\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5362\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -170,7 +170,23 @@
 \hypertarget{dna-structures}{%
 \section{DNA Structures}\label{dna-structures}}
 
-\textbf{Level 0}: DNA double helix =\textgreater{} the unwrapped, raw
-DNA pre-bundling or formation of any structuers.
+\begin{itemize}
+\tightlist
+\item
+  \textbf{DNA double helix}: the unwrapped, raw DNA pre-bundling or
+  formation of any structures.
+\item
+  \textbf{Nucleosomes}: a stack of 2 \emph{histone} groups to create a
+  spool of 8 histone proteins wrapping DNA
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Histones =\textgreater{} coiler proteins that DNA wraps around to
+    form more advanced structures
+  \item
+    Each group of histones contains 4 parts (hence 4 (per2=8)
+  \end{itemize}
+\end{itemize}
 
 \end{document}
