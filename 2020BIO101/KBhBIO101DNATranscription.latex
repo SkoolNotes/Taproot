@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5313)}}    % original
-%\rhead{\textrmlf{Compiled }\#5313\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5313\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5314)}}    % original
+%\rhead{\textrmlf{Compiled }\#5314\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5314\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,6 +179,20 @@ of the double helix, recognizing each nucleotide
 \hypertarget{starting-transcription}{%
 \subsection{Starting Transcription}\label{starting-transcription}}
 
+\textbf{Starting Transcription} * Series of utility ``factors'' proetins
+begin to assemble to call the attention of RNA polymerase. * RNA
+polyamerase binds to the Sigma Subunit =\textgreater{} form a holoenzyme
+to unwind DNA * Sigma subunit informs the enzyme where to find a
+promoter (beginning of binding) * ``Enhancer'' gene sequences help bind
+with activator proteins to help attract RNA polymerase II
+
+\textbf{Promoters} * Polymerase Enzyme starts at a promoter (typically
+found upstream of the 5' start site) and ends at a terminator * Box of
+TATTAA highlights transcription rate and the start site * TFIIA cofactor
+in RNA recognizes TATTAA box, TFIIB recognizes C/CG/CG/CGCCC upstream *
+Stronger promoters/enhancers =\textgreater{} ``enhance'' ``more.''
+i.e.~tumor viruses strengthen promoters for cell growth
+
 \hypertarget{transcribing}{%
 \subsection{Transcribing}\label{transcribing}}
 
@@ -214,35 +228,6 @@ RNAs could also be catalysts!
 \item
   ``Promoter''s denotes beginning of a gene. ``Terminator''s denotes the
   end of gene.
-\end{itemize}
-
-\textbf{Starting Transcription} * Series of utility ``factors'' proetins
-begin to assemble to call the attention of RNA polymerase. (\#how +
-\#when does this happen? \#ASK) * RNA polyamerase binds to the Sigma
-Subunit =\textgreater{} form a holoenzyme to unwind DNA * Sigma subunit
-informs the enzyme where to find a promoter (beginning of binding) *
-``Enhancer'' gene sequences help bind with activator proteins to help
-attract RNA polymerase II
-
-\textbf{Promoters}
-
-\begin{itemize}
-\tightlist
-\item
-  Polymerase Enzyme starts at a promoter (typically found upstream of
-  the 5' start site) and ends at a terminator
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Box of TATTAA highlights transcription rate and the start site
-  \item
-    TFIIA cofactor in RNA recognizes TATTAA box, TFIIB recognizes
-    C/CG/CG/CGCCC upstream
-  \end{itemize}
-\item
-  Stronger promoters/enhancers =\textgreater{} ``enhance'' ``more.''
-  i.e.~tumor viruses strengthen promoters for cell growth
 \end{itemize}
 
 \textbf{Terminators}

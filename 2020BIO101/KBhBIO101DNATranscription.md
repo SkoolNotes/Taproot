@@ -9,6 +9,21 @@ author: Houjun Liu
 The process of DNA transcription is done by the RNA Polymerase Enzyme. DNA transcription begins by ripping apart hydrogen bonds using DNAse enzyme, then the RNA polymerease reads one side (the "template strand", a.k.a. noncoding "antisene" strand that runs from 3' to 5') of the double helix, recognizing each nucleotide
 
 ## Starting Transcription
+**Starting Transcription**
+* Series of utility "factors" proetins begin to assemble to call the attention of RNA polymerase.
+* RNA polyamerase binds to the Sigma Subunit => form a holoenzyme to unwind DNA
+* Sigma subunit informs the enzyme where to find a promoter (beginning of binding)
+* "Enhancer" gene sequences help bind with activator proteins to help attract RNA polymerase II
+
+**Promoters**
+* Polymerase Enzyme starts at a promoter (typically found upstream of the 5' start site) and ends at a terminator
+	* Box of TATTAA highlights transcription rate and the start site
+	* TFIIA cofactor in RNA recognizes TATTAA box, TFIIB recognizes C/CG/CG/CGCCC upstream
+* Stronger promoters/enhancers => "enhance" "more." i.e. tumor viruses strengthen promoters for cell growth
+
+
+
+
 
 ## Transcribing
 
