@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5299)}}    % original
-%\rhead{\textrmlf{Compiled }\#5299\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5299\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5300)}}    % original
+%\rhead{\textrmlf{Compiled }\#5300\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5300\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -174,6 +174,17 @@ Central dogma is the concept that the instructions of protein synthesis
 comes from the DNA, and that DNA creates RNA creates Protein, RNA
 creates RNA, DNA creates DNA, but this flow path could not be reversed.
 
-We know a little bit more about central dogma now, and now have more co
+We know a little bit more about central dogma now, and now have more
+concise operations for the processes defined in the central dogma,
+namely\ldots{}
+
+\hypertarget{protein-synthesis}{%
+\subsection{Protein Synthesis}\label{protein-synthesis}}
+
+\hypertarget{dna-replication}{%
+\subsection{DNA Replication}\label{dna-replication}}
+
+\hypertarget{rna-replication}{%
+\subsection{RNA Replication}\label{rna-replication}}
 
 \end{document}
