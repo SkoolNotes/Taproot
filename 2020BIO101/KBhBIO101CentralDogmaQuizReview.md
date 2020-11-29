@@ -10,3 +10,5 @@ Raw review sheet content: [[KBhBIO101HumanDiseases]]
 
 
 ## Review Smanza
+### The Basics of DNA
+- [[KBhBIO101NucleicAcidsDNARNA]]
