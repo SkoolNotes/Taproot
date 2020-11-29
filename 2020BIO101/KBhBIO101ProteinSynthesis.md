@@ -6,7 +6,7 @@ course: BIO101
 ---
 
 # Protein Synthesis
-Let's make a protein! 
+Let's make a protein tegether! 
 
 ## Before we begin, some background
 **Genetic Code** => "nucleotide code" found in the DNA that helps make protein. There are two parts of this: translation and transcription.
@@ -17,6 +17,8 @@ Let's make a protein!
 Occasionally, the RNA is what we want to end up with, so then obviously we no longer need the process of Translation.
 
 ## Transcription => converting DNA to mRNA
+The process of transcription is the process by which DNA is converted to messenger RNA, a type of RNA that travels to the ribosome to create a protein.
+
 * Done by RNA Polymerase Enzyme
 * Rip apart hydrogen bonds using DNAse enzyme
 * Read one side ("template strand", a.k.a. noncoding strand) of the double helix, recognizing each nucleotide
