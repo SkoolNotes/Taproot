@@ -11,16 +11,17 @@ DNA replication is known to be "semi-conservative" — meaning that it is a proc
 
 Because **polymerases copy uni-directionally** => DNA polyemrease move along the 3' to 5' DNA to create a copy 5' to 3'. Meaning, the polymerize is able to add nucleotide onto the 3' end of the DNA.
 
-As mentioned before, **DNA Polymerease**
+As mentioned before, **DNA Polymerease** is the enzyme that catalyzes this process of DNA replication.
 
 ## The Process of DNA Replication
 ### DNA Unzipping
 => DNA is unzipped at the origin of replication 
 The parent DNA strand serves as a template for the new strand; when it is unzipped, the nucleotides are exposed for complementary base pairing. **Helicase** is the enzyme that unzips the DNA molecule, breaking the hydrogen bonds between nucleotides to expose them for complementary base pairing 
 
-
 ### DNA priming
 The unwinded DNA is primed to help DNA polymerase’s replication process. **Primcase** is attached to the replication bubble to synthesize an RNA-based primer that would help the DNA polymerease perform the replication process.
+
+### DNA "flexing" (what's the actual word?)
 
 Unwinded DNA is broken and rejoined
 The unwinded DNA is broken and rejoined in order to reduce strain caused by unzipping.
