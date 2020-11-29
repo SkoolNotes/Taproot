@@ -24,3 +24,7 @@ Wrapping nucleosomes into a large, fiberous structure
 
 ## Chromasome
 The entangling 2 chromatin together. This is the structure that is split in half during cell replication
+
+![levelsofdna.png](levelsofdna.png)
+
+![histones.png](histones.png)

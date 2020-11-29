@@ -21,6 +21,7 @@ Viruses + Organelles challenge this definition => they are symbiotic and cannot 
 ***
 
 ![lecellcycle.png](lecellcycle.pn)
+
 ## The (actual) Cell Cycle
 ### G1 => Rest Phase, Gap 1
 This is the phase which is the "daily life of a cell". There are two major checkpoints in this phase which, upon it is reached, sets the rest of the cell cycle into motion.
@@ -35,17 +36,12 @@ In this process, all of the DNA that is in the nucleus will be [[KBhBIO101DNARep
 The pairs of DNA begins bundling and condensing; the DNA is also checked upon and verified for consistency and dumped based the needs of the cell.
 
 ### M => Mitosis!
-
-
-## The basics of mitosis
 * Chromesomes line up in equator
 * Each chromesome has two chromatid exactly the same
 * Microtubials to pull chromesomes appart connected to kinecore, a joint in the chromatid
 * Kinetore senses tension, and when it is correct, molecules are sent down the microtubials to send a split signal
 
-![levelsofdna.png](levelsofdna.png)
-
-![histones.png](histones.png)
+## Features of the Cell cycle
 
 **Most cell division results in genetically identical daughter cell**
 
