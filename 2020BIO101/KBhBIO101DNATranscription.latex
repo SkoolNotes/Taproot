@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5315)}}    % original
-%\rhead{\textrmlf{Compiled }\#5315\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5315\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5316)}}    % original
+%\rhead{\textrmlf{Compiled }\#5316\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5316\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -192,21 +192,31 @@ of the double helix, recognizing each nucleotide
 \item
   Sigma subunit informs the enzyme where to find a promoter (beginning
   of binding)
+\item
+  ``Enhancer'' gene sequences help bind with activator proteins to help
+  attract RNA polymerase II
 \end{enumerate}
+
+\textbf{Promoters} Promoters are the signaling devices that mark the be
 
 \begin{itemize}
 \tightlist
 \item
-  ``Enhancer'' gene sequences help bind with activator proteins to help
-  attract RNA polymerase II
-\end{itemize}
+  Polymerase Enzyme starts at a promoter (typically found upstream of
+  the 5' start site) and ends at a terminator
 
-\textbf{Promoters} * Polymerase Enzyme starts at a promoter (typically
-found upstream of the 5' start site) and ends at a terminator * Box of
-TATTAA highlights transcription rate and the start site * TFIIA cofactor
-in RNA recognizes TATTAA box, TFIIB recognizes C/CG/CG/CGCCC upstream *
-Stronger promoters/enhancers =\textgreater{} ``enhance'' ``more.''
-i.e.~tumor viruses strengthen promoters for cell growth
+  \begin{itemize}
+  \tightlist
+  \item
+    Box of TATTAA highlights transcription rate and the start site
+  \item
+    TFIIA cofactor in RNA recognizes TATTAA box, TFIIB recognizes
+    C/CG/CG/CGCCC upstream
+  \end{itemize}
+\item
+  Stronger promoters/enhancers =\textgreater{} ``enhance'' ``more.''
+  i.e.~tumor viruses strengthen promoters for cell growth
+\end{itemize}
 
 \hypertarget{transcribing}{%
 \subsection{Transcribing}\label{transcribing}}

@@ -12,9 +12,11 @@ The process of DNA transcription is done by the RNA Polymerase Enzyme. DNA trans
 1. Series of utility "factors" proteins begin to assemble at the promoter which signals transcription to call the attention of RNA polymerase.
 2. RNA polyamerase binds to the Sigma Subunit => form a holoenzyme to unwind DNA — creates a **transcription bubble**
 3. Sigma subunit informs the enzyme where to find a promoter (beginning of binding)
-* "Enhancer" gene sequences help bind with activator proteins to help attract RNA polymerase II
+4. "Enhancer" gene sequences help bind with activator proteins to help attract RNA polymerase II
 
 **Promoters**
+Promoters are the signaling devices that mark the beginning of a nucleotide 
+
 * Polymerase Enzyme starts at a promoter (typically found upstream of the 5' start site) and ends at a terminator
 	* Box of TATTAA highlights transcription rate and the start site
 	* TFIIA cofactor in RNA recognizes TATTAA box, TFIIB recognizes C/CG/CG/CGCCC upstream
