@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5374)}}    % original
-%\rhead{\textrmlf{Compiled }\#5374\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5374\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5375)}}    % original
+%\rhead{\textrmlf{Compiled }\#5375\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5375\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -279,8 +279,6 @@ Difference in transcription results in different phenotypes.
 Sperm + Egg (imcomplete cells) combine together to form a ``zygote''
 =\textgreater{} a single cell. Each person is from a zygote.
 
-For Eukarotes, cells divide using Mytosis.
-
 \href{https://docs.google.com/document/d/1TIrgR9VSV3attTK_QP-AOCs33mMoBP0Cz7DQXysKoD0/edit}{Paul's
 Cell Cycle Primer}
 
@@ -289,6 +287,9 @@ Cell Cycle Primer}
 \includegraphics{Screen Shot 2020-11-09 at 3.16.12 PM.png}
 \caption{Screen Shot 2020-11-09 at 3.16.12 PM.png}
 \end{figure}
+
+\hypertarget{section}{%
+\subsection{}\label{section}}
 
 Cell regulators are proteins that manage and sheperard the process of
 cell division. They respond to molecular signals throughout the cell and

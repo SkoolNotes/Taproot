@@ -51,11 +51,11 @@ Difference in transcription results in different phenotypes.
 
 Sperm + Egg (imcomplete cells) combine together to form a "zygote" => a single cell. Each person is from a zygote.
 
-For Eukarotes, cells divide using Mytosis.
-
 [Paul's Cell Cycle Primer](https://docs.google.com/document/d/1TIrgR9VSV3attTK_QP-AOCs33mMoBP0Cz7DQXysKoD0/edit)
 
 ![Screen Shot 2020-11-09 at 3.16.12 PM.png](Screen Shot 2020-11-09 at 3.16.12 PM.png)
+
+## 
 
 Cell regulators are proteins that manage and sheperard the process of cell division. They respond to molecular signals throughout the cell and check for internal signals like DNA damage to control the rate and progress of cell division.
 	
