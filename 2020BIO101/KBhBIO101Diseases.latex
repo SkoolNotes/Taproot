@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5384)}}    % original
-%\rhead{\textrmlf{Compiled }\#5384\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5384\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5385)}}    % original
+%\rhead{\textrmlf{Compiled }\#5385\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5385\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -219,7 +219,54 @@ environmental factors\ldots{}
   \textbf{Ingestion of noxious chemicals} =\textgreater{} eating poison
 \end{itemize}
 
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+An aside\ldots{}
+
 \textbf{Infectious diseases actually smaller on the causes of death in
 the US}
+
+\begin{itemize}
+\tightlist
+\item
+  Heart disease =\textgreater{} wear + deficiency
+\item
+  Cancer =\textgreater{} heritable + DNA
+\item
+  Unintentional injuries =\textgreater{} not a disease
+\item
+  Chronic respitory disease =\textgreater{} wear
+\item
+  Stroke =\textgreater{} not a disease
+\item
+  Alhetimer disease =\textgreater{} wear
+\item
+  Diabetes =\textgreater{} autoimmune, nutrient, wear
+\item
+  Influenca \textless= \textbf{here, finally, an infections disease.}
+  ***
+\end{itemize}
+
+\hypertarget{disease-causing-agents}{%
+\subsection{Disease-causing Agents}\label{disease-causing-agents}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Protozoan} =\textgreater{} single-celled eukaryotes
+\item
+  \textbf{Fungal} =\textgreater{} single/multi-celled eukarotyes
+\item
+  \textbf{Bacteria} =\textgreater{} single-celled prokaryotes
+\item
+  \textbf{Viral} =\textgreater{} acellular parasitic infectious agent
+\item
+  \textbf{Helminuthus} =\textgreater{} multicellular worms
+\item
+  \textbf{Prions} =\textgreater{} acellular misfolded proteins
+\item
+  \textbf{Viroids} =\textgreater{} infections nucleic acids w/o protein
+  coat to make virus
+\end{itemize}
 
 \end{document}
