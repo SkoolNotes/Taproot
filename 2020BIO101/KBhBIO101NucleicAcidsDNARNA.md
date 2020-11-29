@@ -15,9 +15,9 @@ Ribone Nucleic Acid: RNA
 **All nucleic acids are comprised of monomer units that's synthesized together into polymers.** => Just like [[KBhBIO101Carbs]] or [[KBhBIO101AminoAcids]]
 
 ## 3 basic parts of a Nucleic Acid
-Two of the backbone (phosphate and sugar) + w 
+Two parts of the backbone (phosphate and sugar) + a nitrogenous base that labels what type of nucleotide this is.
 
-- Backbone 
+### Backbone 
 	- phosphate group
 	- sugar (Ribos => sugar in RNA, di-oxy Ribos => sugar in DNA)
 		- In di-oby Ribos: a OH pair is replaced with a hydrogen **only in one position.** Hence "di-oxy"
