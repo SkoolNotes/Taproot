@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5385)}}    % original
-%\rhead{\textrmlf{Compiled }\#5385\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5385\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5386)}}    % original
+%\rhead{\textrmlf{Compiled }\#5386\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5386\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -247,6 +247,12 @@ the US}
   ***
 \end{itemize}
 
+\hypertarget{measuring-diseases-pathogenicity-virulence}{%
+\subsection{Measuring diseases: pathogenicity +
+virulence}\label{measuring-diseases-pathogenicity-virulence}}
+
+See {[}{[}KBhBIO101PathogenicityandVirulence{]}{]}
+
 \hypertarget{disease-causing-agents}{%
 \subsection{Disease-causing Agents}\label{disease-causing-agents}}
 
@@ -268,5 +274,56 @@ the US}
   \textbf{Viroids} =\textgreater{} infections nucleic acids w/o protein
   coat to make virus
 \end{itemize}
+
+\hypertarget{protozoan}{%
+\subsubsection{Protozoan}\label{protozoan}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Protozoan factors} =\textgreater{} direction pathogenisis
+  leading to tissue damage
+\item
+  \textbf{Host-mediated factors} =\textgreater{} immune evation + escape
+  mechnisms + immunalsupression
+\end{itemize}
+
+Adaptable!!
+
+\hypertarget{fungal}{%
+\subsubsection{Fungal}\label{fungal}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Fungal factors} =\textgreater{} many shapes and very
+  adaptable, colud produced specialized enzymes to take root in body
+\item
+  \textbf{Host-mediated factors} =\textgreater{} cause
+  immunocomprimzation, acquired though inhalation, etc.
+\end{itemize}
+
+\hypertarget{bacteria}{%
+\subsubsection{Bacteria}\label{bacteria}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Bacterial-induced toxicity} =\textgreater{} produces toxins +
+  has hard capsule cell
+\item
+  \textbf{Host-mediated factors} =\textgreater{} may develop host
+  resistance, could compete for resources, and could be grown
+  introcellularly
+\end{itemize}
+
+\href{https://drive.google.com/file/d/1WRnbgkhnmRrdP4ZqlqT3HHBD1_eW9qib/view}{This
+video}
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-12 at 3.08.53 PM.png}
+\caption{Screen Shot 2020-10-12 at 3.08.53 PM.png}
+\end{figure}
 
 \end{document}

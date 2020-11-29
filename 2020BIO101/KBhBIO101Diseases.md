@@ -42,6 +42,9 @@ An aside...
 * Influenca <= **here, finally, an infections disease.**
 ***
 
+## Measuring diseases: pathogenicity + virulence
+See [[KBhBIO101PathogenicityandVirulence]]
+
 ## Disease-causing Agents
 * **Protozoan** => single-celled eukaryotes
 * **Fungal** => single/multi-celled eukarotyes
