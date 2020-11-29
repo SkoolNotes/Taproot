@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5316)}}    % original
-%\rhead{\textrmlf{Compiled }\#5316\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5316\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5317)}}    % original
+%\rhead{\textrmlf{Compiled }\#5317\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5317\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -197,7 +197,11 @@ of the double helix, recognizing each nucleotide
   attract RNA polymerase II
 \end{enumerate}
 
-\textbf{Promoters} Promoters are the signaling devices that mark the be
+\textbf{Promoters} Promoters are the signaling devices that mark the
+beginning of a nucleotide in a gene. The strength of promoters could be
+modulated to create different results in terms of Stronger
+promoters/enhancers =\textgreater{} ``enhance'' ``more.'' i.e.~tumor
+viruses strengthen promoters for cell growth
 
 \begin{itemize}
 \tightlist
@@ -214,8 +218,6 @@ of the double helix, recognizing each nucleotide
     C/CG/CG/CGCCC upstream
   \end{itemize}
 \item
-  Stronger promoters/enhancers =\textgreater{} ``enhance'' ``more.''
-  i.e.~tumor viruses strengthen promoters for cell growth
 \end{itemize}
 
 \hypertarget{transcribing}{%

@@ -15,12 +15,12 @@ The process of DNA transcription is done by the RNA Polymerase Enzyme. DNA trans
 4. "Enhancer" gene sequences help bind with activator proteins to help attract RNA polymerase II
 
 **Promoters**
-Promoters are the signaling devices that mark the beginning of a nucleotide 
+Promoters are the signaling devices that mark the beginning of a nucleotide in a gene. The strength of promoters could be modulated to create different results in terms of Stronger promoters/enhancers => "enhance" "more." i.e. tumor viruses strengthen promoters for cell growth
 
 * Polymerase Enzyme starts at a promoter (typically found upstream of the 5' start site) and ends at a terminator
 	* Box of TATTAA highlights transcription rate and the start site
 	* TFIIA cofactor in RNA recognizes TATTAA box, TFIIB recognizes C/CG/CG/CGCCC upstream
-* Stronger promoters/enhancers => "enhance" "more." i.e. tumor viruses strengthen promoters for cell growth
+* 
 
 
 
