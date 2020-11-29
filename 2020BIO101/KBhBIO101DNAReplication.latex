@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5345)}}    % original
-%\rhead{\textrmlf{Compiled }\#5345\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5345\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5346)}}    % original
+%\rhead{\textrmlf{Compiled }\#5346\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5346\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -181,7 +181,7 @@ polyemrease move along the 3' to 5' DNA to create a copy 5' to 3'.
 Meaning, the polymerize is able to add nucleotide onto the 3' end of the
 DNA.
 
-As we mentioned before, **DNA Polymerease*f
+As mentioned before, \textbf{DNA Polymerease}
 
 \hypertarget{the-process-of-dna-replication}{%
 \subsection{The Process of DNA
