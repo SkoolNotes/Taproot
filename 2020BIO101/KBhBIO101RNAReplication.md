@@ -6,7 +6,7 @@ course: BIO101
 ---
 
 # RNA Replication
-
+## The Strands of RNA
 * +Strand: reproducable RNA => could be directly translated by the ribosomes
 * -Strand RNA: useless template RNA (less easy to be detected)
 	- Need to be processed by RDRP (RNA-dependent RNA Polymerease)
@@ -16,7 +16,8 @@ course: BIO101
 	- +-stranded RNA => same idea as above
 	- - strand RNA => virus comes with RDRP that convert -ssRNA to +ssRNA. Then, same idea as above. 
 
-*What serves as the templates for viral genome replication?*
+RNA-Dependent RNA polymerease catalyze this process of RNA replication.
+
 
 * RNA viruses does not need host-cell polymeraese to copy RNA
 * They come with polymerase that...
