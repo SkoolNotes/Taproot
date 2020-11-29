@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5295)}}    % original
-%\rhead{\textrmlf{Compiled }\#5295\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5295\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5378)}}    % original
+%\rhead{\textrmlf{Compiled }\#5378\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5378\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,8 +186,35 @@ Raw review sheet content: {[}{[}KBhBIO101HumanDiseases{]}{]}
 \subsubsection{Protein Synthesis}\label{protein-synthesis}}
 
 \begin{itemize}
+\item
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBhBIO101DNATranscription{]}{]},
+    {[}{[}KBhBIO101mRNAPreprocessing{]}{]},
+    {[}{[}KBhBIO101Translation{]}{]}
+  \item
+    {[}{[}KBhBIO101DNAReplication{]}{]} and
+    {[}{[}KBhBIO101RNAReplication{]}{]}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{the-cell-cycle}{%
+\subsubsection{The Cell Cycle}\label{the-cell-cycle}}
+
+\begin{itemize}
 \tightlist
 \item
+\end{itemize}
+
+\hypertarget{human-diseases-an-overview}{%
+\subsubsection{Human Diseases, an
+Overview}\label{human-diseases-an-overview}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}
 \end{itemize}
 
 \end{document}
