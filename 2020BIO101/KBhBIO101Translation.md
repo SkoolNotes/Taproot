@@ -26,8 +26,4 @@ Basically: smaller ribosome unit grabs the incoming mRNA, larger facilate the at
 6. Catalyst tRNA combines with rRNA  to catalyze amino acid peptide bond
 7. Each codon (group of 3 units in tRNA), matches a specific [[KBhBIO101AminoAcids]]
 
-=> After the amino acid sequence is done, shaperones fold proteins, and if its finds proteins impossible to fold, it flags it using ubiquitin to send to the garbage
-
-After the amino acids are assembled, it's time for [[KBe2020bio101refProteinFolding]]. See also [[KBhBIO101Proteins]].
-
-
+After the amino acids are assembled, it's time for [[KBe2020bio101refProteinFolding]]. See also [[KBhBIO101Proteins]] => After the amino acid sequence is done, shaperones fold proteins, and if its finds proteins impossible to fold, it flags it using ubiquitin to send to the garbage
