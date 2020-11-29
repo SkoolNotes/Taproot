@@ -23,6 +23,7 @@ Diseases that begin during the lifetime due to exposure to some environmental fa
 
 - **Microrganism Invasion** => "infectious disease"
 - **Autoimmune reaction** => your body fighting your body
-- **Nutrient d
+- **Nutrient deficiency** => not eating good
+- **Mechanical wear** => wear and tear a
 
 
