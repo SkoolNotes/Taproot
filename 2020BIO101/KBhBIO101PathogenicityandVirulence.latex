@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5386)}}    % original
-%\rhead{\textrmlf{Compiled }\#5386\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5386\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5387)}}    % original
+%\rhead{\textrmlf{Compiled }\#5387\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5387\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -165,7 +165,24 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{pathogen}{%
-\section{Pathogen}\label{pathogen}}
+\hypertarget{pathogenicity-and-virulence}{%
+\section{Pathogenicity and
+Virulence}\label{pathogenicity-and-virulence}}
+
+\hypertarget{pathoginecity-an-agents-relative-capacity-to-cause-disease}{%
+\subsection{\texorpdfstring{\textbf{Pathoginecity} =\textgreater{} an
+agent's relative capacity to cause
+disease}{Pathoginecity =\textgreater{} an agent's relative capacity to cause disease}}\label{pathoginecity-an-agents-relative-capacity-to-cause-disease}}
+
+\begin{itemize}
+\tightlist
+\item
+  Non-pathogenic agents =\textgreater{} no diesease
+\item
+  Primary pathogens =\textgreater{} yes disease
+\item
+  Opportunistic pathogens =\textgreater{} yes disease only when it can,
+  for instance, in immunocompromised individuals
+\end{itemize}
 
 \end{document}

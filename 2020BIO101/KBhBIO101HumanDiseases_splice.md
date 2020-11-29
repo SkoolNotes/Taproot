@@ -14,11 +14,7 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 
 ## Pathogenicity + Virulence
 
-**Pathoginecity** => relative capacity to cause disease
 
-- Non-pathogenic agents => no diesease
-- Primary pathogens => yes disease
-- Opportunistic pathogens => yes disease only when it can, for instance, in immunocompromised individuals
 
 **Virulence** => numerical measures for pathonicity
 
