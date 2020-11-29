@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5325)}}    % original
-%\rhead{\textrmlf{Compiled }\#5325\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5325\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5327)}}    % original
+%\rhead{\textrmlf{Compiled }\#5327\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5327\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -220,36 +220,14 @@ terminator and make a protein!
 
 And so, in Eukarotes\ldots{}
 
-\begin{itemize}
-\tightlist
-\item
-  Between Promoter and Terminator, \textbf{Exon} and \textbf{Intron}
-  alternate. Exon is coding, whereas Intron is non-coding and works as
-  metadata.
-\end{itemize}
-
-After reading the intron, they are spliced out during mRNA processing
-=\textgreater{} done by the ``splicesome''. The mRNA, after splicing, is
-``capped and tailed'' to mark pre-processing completion, at which point
-they leave the nucleus + go to the ribosome.
-
-\begin{itemize}
-\tightlist
-\item
-  Begin by assembling helper proteins at intron-exon borders
-  =\textgreater{} ``slicing factors''
-\item
-  Other helping factor proteins come together and form the
-  ``splicesome'' to do the splicing
-\item
-  Splicesome splices by bringing exon ends together
-\item
-  After it's done, the splicesome disintergrates
-\end{itemize}
+See {[}{[}KBhBIO101mRNAPreprocessing{]}{]}
 
 \hypertarget{translation-rna-directed-polypeptide-synthesis}{%
 \subsubsection{Translation =\textgreater{} RNA-directed polypeptide
 synthesis}\label{translation-rna-directed-polypeptide-synthesis}}
+
+And now, this is what we are here for. Now that we have a constructed
+and mature
 
 Mature mRNA sent to ribosome. mRNA must travel to the cytoplasm in the
 Eukarotes to catch the RNA, whereas in prokarotes they don't have to go

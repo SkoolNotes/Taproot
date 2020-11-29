@@ -32,6 +32,8 @@ And so, in Eukarotes...
 See [[KBhBIO101mRNAPreprocessing]]
 
 ### Translation => RNA-directed polypeptide synthesis
+And now, this is what we are here for. Now that we have a constructed and mature
+
 Mature mRNA sent to ribosome. mRNA must travel to the cytoplasm in the Eukarotes to catch the RNA, whereas in prokarotes they don't have to go anywhere.
 
 Ribosomes has two units: 50S unit + 30S unit => they come together whenever a mRNA needs it. Each contained specialized rRNA + tTRNA to catalyze attachment of and carry amino acids + adapt the incoming mRNA respectively.
