@@ -6,4 +6,5 @@ course: BIO101
 ---
 
 # Protein Synthesis
+Let's make a protein! 
 
