@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5364)}}    % original
-%\rhead{\textrmlf{Compiled }\#5364\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5364\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5365)}}    % original
+%\rhead{\textrmlf{Compiled }\#5365\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5365\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -200,7 +200,7 @@
   \textbf{Chromatin}: wrapping nucleosomes into a large, fiberous
   structure
 \item
-  \textbf{Chromasome}: the entangling
+  \textbf{Chromasome}: the entangling multiple chromatin together
 \end{itemize}
 
 \end{document}

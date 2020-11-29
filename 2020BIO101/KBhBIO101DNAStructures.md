@@ -13,4 +13,4 @@ source: KBhBIO101NucleicAcidsDNARNA
 		* H3, H4, H2a, H2b are the 4 wrapping proteins
 		* H1 is the histone that seals the group of 4 together
 * **Chromatin**: wrapping nucleosomes into a large, fiberous structure
-* **Chromasome**: the entangling  
+* **Chromasome**: the entangling multiple chromatin together 
