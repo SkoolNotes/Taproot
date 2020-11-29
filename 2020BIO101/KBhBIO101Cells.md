@@ -39,3 +39,6 @@ See [[KBhBIO101EukaryoticOrganells]]
 ## Cell Membrains
 Eukaryotes have a thin membrane layer that helps them regulate nutrients, defend themselves, and control I/O. See [[KBhBIO101CellMembraines]] 
 
+## Cell Replication
+Eventually, at some point, cells need to replicate itself. This, of course, is due to the fact that your body needs to grow. 
+
