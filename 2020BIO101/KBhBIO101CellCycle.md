@@ -20,10 +20,12 @@ Viruses + Organelles challenge this definition => they are symbiotic and cannot 
 
 ***
 
-## Major Cell Cycle Parts
-- G1 => Rest Phase, Gap 1
-	- May hit s.a. to volume checkpoint => if ratio too big, the cell is too big
-	- May hit diffusion checkpoint => larger cells would need to work harder to transport things to the centre
+## The (actual) Cell Cycle
+### G1 => Rest Phase, Gap 1
+This is the phase which is the "daily life of a cell". There are two 
+- May hit s.a. to volume checkpoint => if ratio too big, the cell is too big
+- May hit diffusion checkpoint => larger cells would need to work harder to transport things to the centre
+	
 - S => S Phase, duplicate DNA. 150 mins
 - G2 => Rest Phrase, Gap 2. The pairs of DNA begins bundling and condensing; the DNA is also checked upon and verified for consistency
 - M => Mitosis!
