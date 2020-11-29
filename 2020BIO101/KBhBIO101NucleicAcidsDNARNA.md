@@ -50,3 +50,6 @@ How do we make nucleic acids? Can you guess? Huh? **Dehydration synthesis!**
  
  See [[KBhBIO101CentralDogma]] 
  
+y# 
+ 
+ 

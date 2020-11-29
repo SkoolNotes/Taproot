@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5358)}}    % original
-%\rhead{\textrmlf{Compiled }\#5358\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5358\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5359)}}    % original
+%\rhead{\textrmlf{Compiled }\#5359\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5359\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -171,7 +171,7 @@
 \section{The Cell Cycle}\label{the-cell-cycle}}
 
 \hypertarget{so-why-do-cell-divide}{%
-\subsubsection{So, why do cell divide}\label{so-why-do-cell-divide}}
+\subsection{So, why do cell divide}\label{so-why-do-cell-divide}}
 
 \begin{quote}
 The ability to produce organisms more of their kind is one
@@ -200,7 +200,7 @@ symbiotic and cannot reproduce on their own. We tend to think that cells
 \end{itemize}
 
 \hypertarget{levels-of-dna-structure}{%
-\subsubsection{Levels of DNA structure}\label{levels-of-dna-structure}}
+\subsection{Levels of DNA structure}\label{levels-of-dna-structure}}
 
 \begin{itemize}
 \tightlist

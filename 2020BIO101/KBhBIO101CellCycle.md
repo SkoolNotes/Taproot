@@ -6,7 +6,7 @@ author: Houjun Liu
 ---
 
 # The Cell Cycle
-### So, why do cell divide
+## So, why do cell divide
 > The ability to produce organisms more of their kind is one characteristic that best distinguishes living things from nonliving matter
 
 Viruses + Organelles challenge this definition => they are symbiotic and cannot reproduce on their own. We tend to think that cells
@@ -17,7 +17,7 @@ Viruses + Organelles challenge this definition => they are symbiotic and cannot 
 	* Two strands ANTIPARALLEL to each other
 	
 	
-### Levels of DNA structure
+## Levels of DNA structure
 * DNA Double Helix => Unwrapped, raw DNA
 * Histones => coiler proteins at which DNA coils around
 	* Four histones
