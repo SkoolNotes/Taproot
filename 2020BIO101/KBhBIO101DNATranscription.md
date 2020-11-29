@@ -6,9 +6,7 @@ author: Houjun Liu
 ---
 
 # DNA Transcription
-
-* Done by RNA Polymerase Enzyme
-* Rip apart hydrogen bonds using DNAse enzyme
+The process of DNA transcription is done by the RNA Polymerase Enzyme. In short summary, DNA transcription begins by ripping apart hydrogen bonds using DNAse enzyme
 * Read one side ("template strand", a.k.a. noncoding strand) of the double helix, recognizing each nucleotide
 * Pluck the correct corresponding nucleotide out of the nucleus
 	* G->C

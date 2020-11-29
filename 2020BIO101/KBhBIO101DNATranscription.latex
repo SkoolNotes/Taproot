@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5308)}}    % original
-%\rhead{\textrmlf{Compiled }\#5308\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5308\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5309)}}    % original
+%\rhead{\textrmlf{Compiled }\#5309\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5309\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -170,32 +170,14 @@
 \hypertarget{dna-transcription}{%
 \section{DNA Transcription}\label{dna-transcription}}
 
-\begin{itemize}
-\tightlist
-\item
-  Done by RNA Polymerase Enzyme
-\item
-  Rip apart hydrogen bonds using DNAse enzyme
-\item
-  Read one side (``template strand'', a.k.a. noncoding strand) of the
-  double helix, recognizing each nucleotide
-\item
-  Pluck the correct corresponding nucleotide out of the nucleus
-
-  \begin{itemize}
-  \tightlist
-  \item
-    G-\textgreater C
-  \item
-    C-\textgreater G
-  \item
-    A-\textgreater{}\textbf{U}
-  \item
-    T-\textgreater A
-  \end{itemize}
-\item
-  Prokaryotes lack membrane-bound nucleus (or any organelle)
-\end{itemize}
+The process of DNA transcription is done by the RNA Polymerase Enzyme.
+In short summary, DNA transcription begins by ripping apart hydrogen
+bonds using DNAse enzyme * Read one side (``template strand'', a.k.a.
+noncoding strand) of the double helix, recognizing each nucleotide *
+Pluck the correct corresponding nucleotide out of the nucleus *
+G-\textgreater C * C-\textgreater G * A-\textgreater{}\textbf{U} *
+T-\textgreater A * Prokaryotes lack membrane-bound nucleus (or any
+organelle)
 
 \definition{Gene}{information that successfully encodes a functional protein or a functional catalytic RNA}
 
