@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5318)}}    % original
-%\rhead{\textrmlf{Compiled }\#5318\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5318\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5319)}}    % original
+%\rhead{\textrmlf{Compiled }\#5319\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5319\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -203,48 +203,30 @@ modulated to create different rates of transcription. Stronger
 promoters/enhancers =\textgreater{} ``enhance'' ``more.'' i.e.~tumor
 viruses strengthen promoters for cell growth
 
-\hypertarget{actually}{%
-\subsection{Actually}\label{actually}}
+\hypertarget{actually-transcribing}{%
+\subsection{Actually transcribing}\label{actually-transcribing}}
+
+The RNA Polymerase Enzyme starts at a promoter (typically found upstream
+of the 5' start site) and ends at a terminator.
 
 \begin{itemize}
 \tightlist
 \item
-  Polymerase Enzyme starts at a promoter (typically found upstream of
-  the 5' start site) and ends at a terminator
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Box of TATTAA highlights transcription rate and the start site
-  \item
-    TFIIA cofactor in RNA recognizes TATTAA box, TFIIB recognizes
-    C/CG/CG/CGCCC upstream
-  \end{itemize}
+  A Box of TATTAA highlights transcription rate and the start site
 \item
+  TFIIA cofactor in RNA (polymerease?) recognizes TATTAA box, TFIIB
+  recognizes C/CG/CG/CGCCC upstream
 \end{itemize}
 
-\hypertarget{transcribing}{%
-\subsection{Transcribing}\label{transcribing}}
+The Pluck the correct corresponding nucleotide out of the nucleus *
+G-\textgreater C * C-\textgreater G * A-\textgreater{}\textbf{U} *
+T-\textgreater A
 
 \hypertarget{finishing-transcription}{%
 \subsection{Finishing Transcription}\label{finishing-transcription}}
 
 \begin{itemize}
 \tightlist
-\item
-  Pluck the correct corresponding nucleotide out of the nucleus
-
-  \begin{itemize}
-  \tightlist
-  \item
-    G-\textgreater C
-  \item
-    C-\textgreater G
-  \item
-    A-\textgreater{}\textbf{U}
-  \item
-    T-\textgreater A
-  \end{itemize}
 \item
   Prokaryotes lack membrane-bound nucleus (or any organelle)
 \end{itemize}

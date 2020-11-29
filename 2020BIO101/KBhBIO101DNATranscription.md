@@ -18,26 +18,21 @@ The process of DNA transcription is done by the RNA Polymerase Enzyme. DNA trans
 Promoters are the signaling devices that mark the beginning of a nucleotide in a gene. The strength of promoters could be modulated to create different rates of transcription. Stronger promoters/enhancers => "enhance" "more." i.e. tumor viruses strengthen promoters for cell growth
 
 
-## Actually 
+## Actually transcribing 
+The RNA Polymerase Enzyme starts at a promoter (typically found upstream of the 5' start site) and ends at a terminator.
 
-* Polymerase Enzyme starts at a promoter (typically found upstream of the 5' start site) and ends at a terminator
-	* Box of TATTAA highlights transcription rate and the start site
-	* TFIIA cofactor in RNA recognizes TATTAA box, TFIIB recognizes C/CG/CG/CGCCC upstream
-* 
+* A Box of TATTAA highlights transcription rate and the start site
+* TFIIA cofactor in RNA (polymerease?) recognizes TATTAA box, TFIIB recognizes C/CG/CG/CGCCC upstream
 
-
-
-
-
-## Transcribing
-
-## Finishing Transcription
-
-* Pluck the correct corresponding nucleotide out of the nucleus
+The Pluck the correct corresponding nucleotide out of the nucleus
 	* G->C
 	* C->G
 	* A->**U**
 	* T->A
+
+## Finishing Transcription
+
+
 * Prokaryotes lack membrane-bound nucleus (or any organelle)
 
 \definition{Gene}{information that successfully encodes a functional protein or a functional catalytic RNA}
