@@ -5,7 +5,8 @@ source:[KBhBIO101Diseases
 course: BIO101
 ---
 # Pathogenicity and Virulence
-## **Pathoginecity** => an agent's relative capacity to cause disease
+## Pathoginecity
+an agent's relative capacity to cause disease
 
 - Non-pathogenic agents => no diesease
 - Primary pathogens => yes disease
