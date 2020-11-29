@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5329)}}    % original
-%\rhead{\textrmlf{Compiled }\#5329\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5329\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5330)}}    % original
+%\rhead{\textrmlf{Compiled }\#5330\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5330\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -170,9 +170,13 @@
 \hypertarget{protein-translation}{%
 \section{Protein Translation}\label{protein-translation}}
 
-Mature mRNA sent to ribosome. mRNA must travel to the cytoplasm in the
-Eukarotes to catch the RNA, whereas in prokarotes they don't have to go
-anywhere.
+After {[}{[}KBhBIO101DNATranscription{]}{]} and
+{[}{[}KBhBIO101mRNAPreprocessing.pdf{]}{]}, the mature mRNA was sent to
+ribosome. mRNA must travel to the cytoplasm in the Eukarotes to catch
+the RNA, whereas in prokarotes they don't have to go anywhere.
+
+\hypertarget{ribo}{%
+\subsection{Ribo}\label{ribo}}
 
 Ribosomes has two units: 50S unit + 30S unit =\textgreater{} they come
 together whenever a mRNA needs it. Each contained specialized rRNA +

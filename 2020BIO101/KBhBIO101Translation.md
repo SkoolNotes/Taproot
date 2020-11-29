@@ -6,8 +6,10 @@ course: BIO101
 ---
 
 # Protein Translation
+After [[KBhBIO101DNATranscription]] and [[KBhBIO101mRNAPreprocessing.pdf]], the mature mRNA was sent to ribosome. mRNA must travel to the cytoplasm in the Eukarotes to catch the RNA, whereas in prokarotes they don't have to go anywhere.
 
-Mature mRNA sent to ribosome. mRNA must travel to the cytoplasm in the Eukarotes to catch the RNA, whereas in prokarotes they don't have to go anywhere.
+## Ribosomes
+Ribosomes are the protein devices that takes mRNA and create 
 
 Ribosomes has two units: 50S unit + 30S unit => they come together whenever a mRNA needs it. Each contained specialized rRNA + tTRNA to catalyze attachment of and carry amino acids + adapt the incoming mRNA respectively.
 
