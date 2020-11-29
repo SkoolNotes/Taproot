@@ -18,6 +18,8 @@ course: BIO101
 
 RNA-Dependent RNA polymerease catalyze this process of RNA replication.
 
+## And... Viruses!
+Because of the fact that the body will usually not need to create RNA from only RNA, this mechnism is usually used by viruses to make more copies of itself within a cell.
 
 * RNA viruses does not need host-cell polymeraese to copy RNA
 * They come with polymerase that...

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5354)}}    % original
-%\rhead{\textrmlf{Compiled }\#5354\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5354\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5355)}}    % original
+%\rhead{\textrmlf{Compiled }\#5355\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5355\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -206,6 +206,13 @@
 \end{itemize}
 
 RNA-Dependent RNA polymerease catalyze this process of RNA replication.
+
+\hypertarget{and-viruses}{%
+\subsection{And\ldots{} Viruses!}\label{and-viruses}}
+
+Because of the fact that the body will usually not need to create RNA
+from only RNA, this mechnism is usually used by viruses to make more
+copies of itself within a cell.
 
 \begin{itemize}
 \tightlist
