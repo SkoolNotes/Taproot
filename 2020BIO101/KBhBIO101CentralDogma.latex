@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5296)}}    % original
-%\rhead{\textrmlf{Compiled }\#5296\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5296\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5297)}}    % original
+%\rhead{\textrmlf{Compiled }\#5297\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5297\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -169,5 +169,9 @@
 
 \hypertarget{central-dogma}{%
 \section{Central Dogma}\label{central-dogma}}
+
+Central dogma is the concept that the instructions of protein synthesis
+comes from the DNA, and that DNA creates RNA creates Protein, RNA
+creates RNA, D
 
 \end{document}
