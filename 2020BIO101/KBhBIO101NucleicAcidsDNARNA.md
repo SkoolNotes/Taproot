@@ -50,6 +50,8 @@ How do we make nucleic acids? Can you guess? Huh? **Dehydration synthesis!**
  
  See [[KBhBIO101CentralDogma]] 
  
-y# 
- 
+## DNA-Made Structures
+In a [[KBhBIO101Cells]], DNA is organized into different shapes depending on which [[KBhBIO101CellCycle]] that the cell is in. These structures help facilitate cell replication.
+
+See [[KBhBIO101DNAStructures]]
  
