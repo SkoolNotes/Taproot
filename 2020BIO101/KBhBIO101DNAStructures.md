@@ -12,4 +12,5 @@ source: KBhBIO101NucleicAcidsDNARNA
 	* Each group of histones contains 4 parts (hence 4 (per group) x 2 (groups) = 8 histones)
 		* H3, H4, H2a, H2b are the 4 wrapping proteins
 		* H1 is the histone that seals the group of 4 together
-* **Chromatin**: wrapping  nucleosomes into large, fiberous fiber called "chr
+* **Chromatin**: wrapping nucleosomes into a large, fiberous structure
+* **Chromasome**: the entangling  
