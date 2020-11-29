@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3798)}}    % original
-%\rhead{\textrmlf{Compiled }\#3798\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#3798\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5285)}}    % original
+%\rhead{\textrmlf{Compiled }\#5285\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5285\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -167,11 +167,11 @@
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{nucleic-acids}{%
-\section{Nucleic Acids}\label{nucleic-acids}}
+\hypertarget{dnarna}{%
+\section{DNA/RNA}\label{dnarna}}
 
-\hypertarget{nucleic-acids-1}{%
-\subsection{Nucleic Acids}\label{nucleic-acids-1}}
+\hypertarget{nucleic-acids}{%
+\subsection{Nucleic Acids}\label{nucleic-acids}}
 
 d-Oxy Ribone Nucleic Acid: DNA Ribone Nucleic Acid: RNA
 
@@ -229,8 +229,8 @@ Acid}\label{basic-parts-of-a-nucleic-acid}}
 
 \begin{figure}
 \centering
-\includegraphics{./DNARNA_nucleic.png}
-\caption{DNARNA\_nucleic.png}
+\includegraphics{d_na.jpg}
+\caption{d\_na.jpg}
 \end{figure}
 
 How do we make nucleic acids? Can you guess? Huh? \textbf{Dehydration
@@ -252,5 +252,7 @@ DNA is \emph{anti-parallel} to each other =\textgreater{} 5' to 3'
 backbone parallel to 3' to 5' backbone
 
 Temp copies of genome is RNA, permanent record in DNA
+
+\#\# The Central Dogma The process of the central dogma allow
 
 \end{document}

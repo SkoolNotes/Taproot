@@ -5,7 +5,7 @@ course: BIO101
 author: Houjun Liu
 ---
 
-# Nucleic Acids
+# DNA/RNA
 
 ## Nucleic Acids
 
@@ -39,3 +39,7 @@ How do we make nucleic acids? Can you guess? Huh? **Dehydration synthesis!** #TO
  DNA is *anti-parallel* to each other => 5' to 3' backbone parallel to 3' to 5' backbone
  
  Temp copies of genome is RNA, permanent record in DNA
+ 
+ ## The Central Dogma
+ The process of the central dogma allow
+ 
