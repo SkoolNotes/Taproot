@@ -1,0 +1,285 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ DNA Transcription }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5308)}}    % original
+%\rhead{\textrmlf{Compiled }\#5308\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5308\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101ProteinSynthesis}{\tiny\textulf{[[}\textbf{KBhBIO101ProteinSynthesis}\textulf{]]}}}\thinspace
+
+\hypertarget{dna-transcription}{%
+\section{DNA Transcription}\label{dna-transcription}}
+
+\begin{itemize}
+\tightlist
+\item
+  Done by RNA Polymerase Enzyme
+\item
+  Rip apart hydrogen bonds using DNAse enzyme
+\item
+  Read one side (``template strand'', a.k.a. noncoding strand) of the
+  double helix, recognizing each nucleotide
+\item
+  Pluck the correct corresponding nucleotide out of the nucleus
+
+  \begin{itemize}
+  \tightlist
+  \item
+    G-\textgreater C
+  \item
+    C-\textgreater G
+  \item
+    A-\textgreater{}\textbf{U}
+  \item
+    T-\textgreater A
+  \end{itemize}
+\item
+  Prokaryotes lack membrane-bound nucleus (or any organelle)
+\end{itemize}
+
+\definition{Gene}{information that successfully encodes a functional protein or a functional catalytic RNA}
+
+RNAs could also be catalysts!
+
+\begin{itemize}
+\tightlist
+\item
+  ``Promoter''s denotes beginning of a gene. ``Terminator''s denotes the
+  end of gene.
+\end{itemize}
+
+\textbf{Starting Transcription} * Series of utility ``factors'' proetins
+begin to assemble to call the attention of RNA polymerase. (\#how +
+\#when does this happen? \#ASK) * RNA polyamerase binds to the Sigma
+Subunit =\textgreater{} form a holoenzyme to unwind DNA * Sigma subunit
+informs the enzyme where to find a promoter (beginning of binding) *
+``Enhancer'' gene sequences help bind with activator proteins to help
+attract RNA polymerase II
+
+\textbf{Promoters}
+
+\begin{itemize}
+\tightlist
+\item
+  Polymerase Enzyme starts at a promoter (typically found upstream of
+  the 5' start site) and ends at a terminator
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Box of TATTAA highlights transcription rate and the start site
+  \item
+    TFIIA cofactor in RNA recognizes TATTAA box, TFIIB recognizes
+    C/CG/CG/CGCCC upstream
+  \end{itemize}
+\item
+  Stronger promoters/enhancers =\textgreater{} ``enhance'' ``more.''
+  i.e.~tumor viruses strengthen promoters for cell growth
+\end{itemize}
+
+\textbf{Terminators}
+
+\begin{itemize}
+\tightlist
+\item
+  Found in the end of the template sequence
+\item
+  Two types in prokaryotes
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Rho-independent terminators --- roll back onto itself, causing the
+    RNA to terminate and mRNA to be release
+  \item
+    Rho-dependent terminators --- activate cofactor named rho + unwind
+    the transcribed RNA-DNA hybrid
+  \end{itemize}
+\item
+  In Eukarotes
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Pol I genes --- transcription stopped through termination factor by
+    unwindng the transcribed RNA-DNA hybrid
+  \item
+    Pol II genes --- don't stop until the end, but a polymerase has a
+    ``cleavage'' mechanism that clips the end out using a poly(A) tail
+    consensus sequence
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{before-we-continue-two-words}{%
+\subsubsection{Before we continue, two
+words}\label{before-we-continue-two-words}}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Non-coding sequence}: metadata for DNA for the processors
+\item
+  \emph{Coding sequence}: DNA content for amino-acid production
+\end{itemize}
+
+\end{document}
