@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5322)}}    % original
-%\rhead{\textrmlf{Compiled }\#5322\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5322\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5323)}}    % original
+%\rhead{\textrmlf{Compiled }\#5323\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5323\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -244,13 +244,11 @@ of the nucleus to form the antiparallel mRNA sequence.
 \hypertarget{finishing-transcription}{%
 \subsection{Finishing Transcription}\label{finishing-transcription}}
 
-Transcription finishes at a gene \textbf{terminator}. This sequence in
-each gene
+Transcription finishes at a gene \textbf{terminator}. This sequence will
+signals the end of the gene sequence that codes for a protein.
 
 \begin{itemize}
 \tightlist
-\item
-  Found in the end of the template sequence
 \item
   Two types in prokaryotes
 

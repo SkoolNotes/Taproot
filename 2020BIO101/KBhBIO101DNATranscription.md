@@ -38,9 +38,8 @@ The RNA ploymerease will pluck the correct corresponding nucleotide out of the n
 * T->A
 
 ## Finishing Transcription
-Transcription finishes at a gene **terminator**. This sequence in each gene
+Transcription finishes at a gene **terminator**. This sequence will signals the end of the gene sequence that codes for a protein.
 
-* Found in the end of the template sequence
 * Two types in prokaryotes
 	*  Rho-independent terminators — roll back onto itself, causing the RNA to terminate and mRNA to be release
 	*  Rho-dependent terminators — activate cofactor named rho + unwind the transcribed RNA-DNA hybrid
@@ -49,5 +48,4 @@ Transcription finishes at a gene **terminator**. This sequence in each gene
 	* Pol II genes — don't stop until the end, but a polymerase has a "cleavage" mechanism that clips the end out using a poly(A) tail consensus sequence
 
 ### Before we continue, two words
-- *Non-coding sequence*: metadata for DNA for the processors
-- *Coding sequence*: DNA content for amino-acid production
+
