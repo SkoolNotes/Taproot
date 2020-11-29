@@ -22,12 +22,14 @@ Viruses + Organelles challenge this definition => they are symbiotic and cannot 
 
 ## The (actual) Cell Cycle
 ### G1 => Rest Phase, Gap 1
-This is the phase which is the "daily life of a cell". There are two major checkpoints in this phase
+This is the phase which is the "daily life of a cell". There are two major checkpoints in this phase which, upon it is reached, sets the rest of the cell cycle into motion.
 
 - May hit s.a. to volume checkpoint => if ratio too big, the cell is too big
 - May hit diffusion checkpoint => larger cells would need to work harder to transport things to the centre
 	
-- S => S Phase, duplicate DNA. 150 mins
+### S => S Phase, duplicate DNA. 150 mins
+In this process, all of the DNA that is in the nucleus will be [[KBhBIO101DNAReplication]]ed in order to 
+
 - G2 => Rest Phrase, Gap 2. The pairs of DNA begins bundling and condensing; the DNA is also checked upon and verified for consistency
 - M => Mitosis!
 	- Prophase: condensation of chromasome
