@@ -444,26 +444,3 @@ Cell regulators are proteins that manage and sheperard the process of cell divis
 	
 ![lecellcycle.png](lecellcycle.png)
 	
-### DNA Replication Process
-
-
-Steps of DNA replication, in Paul's words:
-
-```
-- Many proteins work together in DNA replication and repair. 
-The process of DNA replication is semiconservative, such that takes place through complementary base pairing of a template strand of parent DNA. 
-
-- The process of replication begins at the origin of replication, forming a replication fork. The enzyme, helicase, unwinds DNA exposing template strands, primase synthesizes RNA primers to begin the process
-
-- Topoisomerase breaks, swivels, and rejoins the parent DNA to relieve strain caused by unwinding. 
-
-- DNA polymerase is the enzyme that catalyzes the process of complementary base pairing of nucleotides to the template strand. 
-
-- New nucleotide strands always for in the 5’ to 3’ direction, therefore the leading strand forms continuously but the lagging strand is formed in Okazaki fragments (still in the 5’ to 3’ direction) and connected by the enzyme ligase. 
-
-- DNA polymerase is able to proofread pairing, and along with mismatch repair enzymes, DNA is carefully check and repair DNA. 
-
-- The end of a DNA molecule are called telomeres (not in circular genome e.g. bacteria), and shorten during each replication (Hayflick limit). Noncoding, repeating units of nucleotides act as protection from losing essential genetic information by shorting. 
-```
-
-![copying 1.png](copying 1.png)
