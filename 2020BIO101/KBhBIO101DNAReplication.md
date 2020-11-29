@@ -19,8 +19,11 @@ The parent DNA strand serves as a template for the new strand; when it is unzipp
 
 
 ### DNA priming
-First, the unwinded DNA is primed. 
+The unwinded DNA is primed to help DNA polymerase’s replication process. **Primcase** is attached to the replication bubble to add an RNA-based primer 
 
+Unwinded DNA is broken and rejoined
+The unwinded DNA is broken and rejoined in order to reduce strain caused by unzipping.
+Topoisomerase is responsible for relieving unwinding-induced strain.
 
 
 * Open the DNA at an arbuiturary point using the Helicase
@@ -48,14 +51,6 @@ Outcome of this process
 
 
 
-
-
-The unwinded DNA is primed to help DNA polymerase’s replication process
-Primase is responsible for priming the DNA strand for replication. 
-Working in conjunction in the rejoining step below, a DNA molecule will be ready to be transcribed.
-Unwinded DNA is broken and rejoined
-The unwinded DNA is broken and rejoined in order to reduce strain caused by unzipping.
-Topoisomerase is responsible for relieving unwinding-induced strain.
 
 
 The resulting DNA is ready to be read from the 3’ to 5’ end in order to synthesize a new strand 5’ to 3’.
