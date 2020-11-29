@@ -33,9 +33,9 @@ How do we make nucleic acids? Can you guess? Huh? **Dehydration synthesis!**
 
 ## Shapes of the DNA
 
-5' => one end of an RNA/DNA part (incoming conn
+5' => one end of an RNA/DNA part (connection from the phosphate group)
 
-3' => another end of a RNA/DNA part
+3' => another end of a RNA/DNA part (connection from the third carbon on the sugar counting from left)
 
 * DNA is supposed to be double stranded
 * RNA is supposed to be single stranded

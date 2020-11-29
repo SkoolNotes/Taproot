@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5289)}}    % original
-%\rhead{\textrmlf{Compiled }\#5289\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5289\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5290)}}    % original
+%\rhead{\textrmlf{Compiled }\#5290\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5290\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -235,9 +235,11 @@ synthesis!}
 \hypertarget{shapes-of-the-dna}{%
 \subsection{Shapes of the DNA}\label{shapes-of-the-dna}}
 
-5' =\textgreater{} one end of an RNA/DNA part
+5' =\textgreater{} one end of an RNA/DNA part (connection from the
+phosphate group)
 
-3' =\textgreater{} another end of a RNA/DNA part
+3' =\textgreater{} another end of a RNA/DNA part (connection from the
+third carbon on the sugar counting from left)
 
 \begin{itemize}
 \tightlist
