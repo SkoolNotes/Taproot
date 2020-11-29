@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5342)}}    % original
-%\rhead{\textrmlf{Compiled }\#5342\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5342\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5343)}}    % original
+%\rhead{\textrmlf{Compiled }\#5343\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5343\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,6 +180,21 @@ Because \textbf{polymerases copy uni-directionally} =\textgreater{} DNA
 polyemrease move along the 3' to 5' DNA to create a copy 5' to 3'.
 Meaning, the polymerize is able to add nucleotide onto the 3' end of the
 DNA.
+
+\hypertarget{the-process-of-dna-replication}{%
+\subsection{The Process of DNA
+Replication}\label{the-process-of-dna-replication}}
+
+\hypertarget{dna-unzipping}{%
+\subsubsection{DNA Unzipping}\label{dna-unzipping}}
+
+=\textgreater{} DNA is unzipped at the origin of replication The parent
+DNA strand serves as a template for the new strand; when it is unzipped,
+the nucleotides are exposed for complementary base pairing.
+\textbf{Helicase} is the enzyme that unzips the DNA molecule, breaking
+the hydrogen bonds between nucleotides The nucleotides of the DNA
+molecule are exposed for complementary base pairing Unwinded DNA is
+primed
 
 \begin{itemize}
 \tightlist

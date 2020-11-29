@@ -11,6 +11,18 @@ DNA replication is known to be "semi-conservative" — meaning that it is a proc
 
 Because **polymerases copy uni-directionally** => DNA polyemrease move along the 3' to 5' DNA to create a copy 5' to 3'. Meaning, the polymerize is able to add nucleotide onto the 3' end of the DNA.
 
+
+## The Process of DNA Replication
+### DNA Unzipping
+=> DNA is unzipped at the origin of replication 
+The parent DNA strand serves as a template for the new strand; when it is unzipped, the nucleotides are exposed for complementary base pairing. **Helicase** is the enzyme that unzips the DNA molecule, breaking the hydrogen bonds between nucleotides to expose them for complementary base pairing 
+
+
+### DNA priming
+First, the unwinded DNA is primed. 
+
+
+
 * Open the DNA at an arbuiturary point using the Helicase
 	* Uses two helicase => one open rightward, and one leftward. The movement of the helicase opening the DNA is called the "fork movement"
 	* DNA polymerase could only add nucleotides 5' to 3'
