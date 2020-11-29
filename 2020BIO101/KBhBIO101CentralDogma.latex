@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5353)}}    % original
-%\rhead{\textrmlf{Compiled }\#5353\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5353\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5377)}}    % original
+%\rhead{\textrmlf{Compiled }\#5377\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5377\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -178,6 +178,33 @@ We know a little bit more about central dogma now, and now have more
 concise operations for the processes defined in the central dogma,
 namely\ldots{}
 
+\begin{itemize}
+\tightlist
+\item
+  \textbf{DNA Polymerase} takes DNA and makes more DNA
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Duplicates cell DNA
+  \item
+    Could be hijacked during cell cycle to duplicate DNA viruses
+  \item
+    DNA viruses may also carry their DNA Polymerease to not wait for the
+    cell cycle
+  \end{itemize}
+\item
+  \textbf{RNA Polymerease} takes DNA and makes mRNA
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Have lower fidelity with an error about 1/100,000
+  \item
+    Hence why safety mechanism needed
+  \end{itemize}
+\end{itemize}
+
 \hypertarget{protein-synthesis}{%
 \subsection{Protein Synthesis}\label{protein-synthesis}}
 
@@ -201,5 +228,46 @@ See {[}{[}KBhBIO101DNAReplication{]}{]}
 \subsection{RNA Replication}\label{rna-replication}}
 
 See {[}{[}KBhBIO101RNAReplication{]}{]}
+
+\hypertarget{list-of-kool-proteins}{%
+\subsection{List of Kool Proteins}\label{list-of-kool-proteins}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\begin{minipage}[b]{0.47\columnwidth}\raggedright
+Name\strut
+\end{minipage} & \begin{minipage}[b]{0.47\columnwidth}\raggedright
+Function\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+RNA Polymerase\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\emph{transcripts}: takes DNA and turns into mRNA\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+DNA Polymerase\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\emph{replicates}: takes DNA and makes more copy of it\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+RNA-Dependent RNA Polymerase\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\emph{replicates}: takes RNA and makes more copy of it. Basically only
+viruses use it.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Promoter\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\emph{signals}: DNA signal of the start of the DNA.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Terminator\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\emph{signals}: DNA signal of the end of the DNA.\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
 
 \end{document}

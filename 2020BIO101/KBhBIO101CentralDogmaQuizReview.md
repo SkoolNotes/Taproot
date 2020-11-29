@@ -15,3 +15,5 @@ Raw review sheet content: [[KBhBIO101HumanDiseases]]
 
 ### Protein Synthesis
 - [[KBhBIO101CentralDogma]]: central dogma — the process of protein synthesis
+	- [[KBhBIO101DNATranscription]], [[KBhBIO101mRNAPreprocessing]], [[KBhBIO101Translation]]
+	- 

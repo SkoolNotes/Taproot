@@ -18,7 +18,6 @@ We know a little bit more about central dogma now, and now have more concise ope
 	* Have lower fidelity with an error about 1/100,000
 	* Hence why safety mechanism needed
 
-
 ## Protein Synthesis
 See [[KBhBIO101ProteinSynthesis]]
 

@@ -340,3 +340,5 @@ Let's talk about **Remdesivir**! A drug developed by Pfizer that's used to comba
 
 Viruses attempt to overwhelm the enzyme to entry.
 
+
+**DNA** viruses are "less complex", in that as long as they are able to get into the nucleaus, the rest would just be the body's work automatically.
