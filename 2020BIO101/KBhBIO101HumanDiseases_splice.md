@@ -340,25 +340,3 @@ Let's talk about **Remdesivir**! A drug developed by Pfizer that's used to comba
 
 Viruses attempt to overwhelm the enzyme to entry.
 
-* **DNA Polymerase** takes DNA and makes more DNA
-	* Duplicates cell DNA
-	* Could be hijacked during cell cycle to duplicate DNA viruses
-	* DNA viruses may also carry their DNA Polymerease to not wait for the cell cycle
-* **RNA Polymerease** takes DNA and makes mRNA
-	* Have lower fidelity with an error about 1/100,000
-	* Hence why safety mechanism needed
-
-**DNA** viruses are "less complex", in that as long as they are able to get into the nucleaus, the rest would just be the body's work automatically.
-
-### List of Kool Proteins
-
-| Name | Function |
-|---|---|
-| RNA Polymerase | _transcripts_: takes DNA and turns into mRNA |
-| DNA Polymerase | _replicates_: takes DNA and makes more copy of it |
-| RNA-Dependent RNA Polymerase | _replicates_: takes RNA and makes more copy of it. Basically only viruses use it. |
-| Promoter | _signals_: DNA signal of the start of the DNA. | 
-| Terminator | _signals_: DNA signal of the end of the DNA. | 
-
-***
-
