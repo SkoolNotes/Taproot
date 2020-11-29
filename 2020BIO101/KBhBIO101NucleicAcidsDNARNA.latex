@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5288)}}    % original
-%\rhead{\textrmlf{Compiled }\#5288\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5288\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5289)}}    % original
+%\rhead{\textrmlf{Compiled }\#5289\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5289\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -189,39 +189,39 @@ that labels what type of nucleotide this is.
 \hypertarget{backbone}{%
 \subsubsection{Backbone}\label{backbone}}
 
-\begin{verbatim}
-- phosphate group
-- sugar (Ribos => sugar in RNA, di-oxy Ribos => sugar in DNA)
-    - In di-oby Ribos: a OH pair is replaced with a hydrogen **only in one position.** Hence "di-oxy"
-\end{verbatim}
+\begin{itemize}
+\tightlist
+\item
+  phosphate group
+\item
+  sugar (Ribos =\textgreater{} sugar in RNA, di-oxy Ribos
+  =\textgreater{} sugar in DNA)=\textgreater{} In di-oby Ribos: a OH
+  pair is replaced with a hydrogen \textbf{only in one position.} Hence
+  ``di-oxy''
+\end{itemize}
+
+\hypertarget{nitrogenous-base}{%
+\subsubsection{nitrogenous base}\label{nitrogenous-base}}
 
 \begin{itemize}
 \tightlist
 \item
-  nitrogenous base
+  Bases in DNA
 
   \begin{itemize}
   \tightlist
   \item
-    Bases in DNA
+    A, T, G, C
+  \end{itemize}
+\item
+  Bases in RNA
 
-    \begin{itemize}
-    \tightlist
-    \item
-      A, T, G, C
-    \end{itemize}
+  \begin{itemize}
+  \tightlist
   \item
-    Bases in RNA
-
-    \begin{itemize}
-    \tightlist
-    \item
-      A, U, G, C
-    \end{itemize}
+    A, U, G, C
   \end{itemize}
 \end{itemize}
-
-SONIRE
 
 \begin{figure}
 \centering
@@ -230,7 +230,10 @@ SONIRE
 \end{figure}
 
 How do we make nucleic acids? Can you guess? Huh? \textbf{Dehydration
-synthesis!} \#TODO make that actually a note, at this pont
+synthesis!}
+
+\hypertarget{shapes-of-the-dna}{%
+\subsection{Shapes of the DNA}\label{shapes-of-the-dna}}
 
 5' =\textgreater{} one end of an RNA/DNA part
 
