@@ -351,14 +351,6 @@ Let's talk about **Remdesivir**! A drug developed by Pfizer that's used to comba
 
 ![Screen Shot 2020-11-02 at 2.48.22 PM.png](Screen Shot 2020-11-02 at 2.48.22 PM.png)
 
-In Prokarotes, there are less steps.
-
-Between the promoter and the actual coding DNA, there is a region named *operator* that allows three types of regulatory molecules to bind to it to alter how the gene is transcribed, namely:
-
-- **Repressors**: proteins that suppress transcription
-- **Activators** are proteins that increase the transcription
-- **Inducers** catalyses repressors or activators — making either a strenthened activation or repression acting in conjunction with the other regulator
-
 **Question: how are proteins made in the viral genome**
 
 * No viruses produce ribosomes
@@ -376,8 +368,7 @@ Viruses attempt to overwhelm the enzyme to entry.
 	* Hence why safety mechanism needed
 
 **Capping and Tailing**
-* 3' end => AAAAAA tail (using poly-adenine tailing enzyme)
-* 5' end => GGGGGG cap (using guanine-capping enzyme)
+
 
 
 **DNA** viruses are "less complex", in that as long as they are able to get into the nucleaus, the rest would just be the body's work automatically.

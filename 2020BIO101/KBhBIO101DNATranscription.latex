@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5324)}}    % original
-%\rhead{\textrmlf{Compiled }\#5324\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5324\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5337)}}    % original
+%\rhead{\textrmlf{Compiled }\#5337\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5337\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -210,6 +210,28 @@ beginning of a nucleotide in a gene. The strength of promoters could be
 modulated to create different rates of transcription. Stronger
 promoters/enhancers =\textgreater{} ``enhance'' ``more.'' i.e.~tumor
 viruses strengthen promoters for cell growth
+
+\hypertarget{controlling-transcription}{%
+\subsection{Controlling Transcription}\label{controlling-transcription}}
+
+(This applies only to promoters, \#disorganized, we have yet to get to
+this process in Eukaryotes)
+
+Between the promoter and the actual coding DNA, there is a region named
+\emph{operator} that allows three types of regulatory molecules to bind
+to it to alter how the gene is transcribed, namely:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Repressors}: proteins that suppress transcription
+\item
+  \textbf{Activators} are proteins that increase the transcription
+\item
+  \textbf{Inducers} catalyses repressors or activators --- making either
+  a strenthened activation or repression acting in conjunction with the
+  other regulator
+\end{itemize}
 
 \hypertarget{actually-transcribing}{%
 \subsection{Actually transcribing}\label{actually-transcribing}}

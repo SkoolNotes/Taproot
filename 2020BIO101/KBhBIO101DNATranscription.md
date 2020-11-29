@@ -23,6 +23,14 @@ The point of transcription is to recognize the series of promoters that code for
 **Promoters**
 Promoters are the signaling devices that mark the beginning of a nucleotide in a gene. The strength of promoters could be modulated to create different rates of transcription. Stronger promoters/enhancers => "enhance" "more." i.e. tumor viruses strengthen promoters for cell growth
 
+## Controlling Transcription 
+(This applies only to promoters, #disorganized, we have yet to get to this process in Eukaryotes)
+
+Between the promoter and the actual coding DNA, there is a region named *operator* that allows three types of regulatory molecules to bind to it to alter how the gene is transcribed, namely:
+
+- **Repressors**: proteins that suppress transcription
+- **Activators** are proteins that increase the transcription
+- **Inducers** catalyses repressors or activators — making either a strenthened activation or repression acting in conjunction with the other regulator
 
 ## Actually transcribing 
 The RNA Polymerase Enzyme starts at a promoter (typically found upstream of the 5' start site) and ends at a terminator.

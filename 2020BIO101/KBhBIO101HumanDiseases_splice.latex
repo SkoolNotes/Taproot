@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5336)}}    % original
-%\rhead{\textrmlf{Compiled }\#5336\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5336\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5337)}}    % original
+%\rhead{\textrmlf{Compiled }\#5337\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5337\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -959,24 +959,6 @@ does normal transcription
 \includegraphics{Screen Shot 2020-11-02 at 2.48.22 PM.png}
 \caption{Screen Shot 2020-11-02 at 2.48.22 PM.png}
 \end{figure}
-
-In Prokarotes, there are less steps.
-
-Between the promoter and the actual coding DNA, there is a region named
-\emph{operator} that allows three types of regulatory molecules to bind
-to it to alter how the gene is transcribed, namely:
-
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Repressors}: proteins that suppress transcription
-\item
-  \textbf{Activators} are proteins that increase the transcription
-\item
-  \textbf{Inducers} catalyses repressors or activators --- making either
-  a strenthened activation or repression acting in conjunction with the
-  other regulator
-\end{itemize}
 
 \textbf{Question: how are proteins made in the viral genome}
 
