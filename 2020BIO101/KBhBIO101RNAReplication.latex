@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Central Dogma, Protein Synthesis }
+\newcommand{\thelesson}{ RNA Replication }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -165,41 +165,9 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBhBIO101NucleicAcidsDNARNA}{\tiny\textulf{[[}\textbf{KBhBIO101NucleicAcidsDNARNA}\textulf{]]}}}\thinspace
-
-\hypertarget{central-dogma}{%
-\section{Central Dogma}\label{central-dogma}}
-
-Central dogma is the concept that the instructions of protein synthesis
-comes from the DNA, and that DNA creates RNA creates Protein, RNA
-creates RNA, DNA creates DNA, but this flow path could not be reversed.
-
-We know a little bit more about central dogma now, and now have more
-concise operations for the processes defined in the central dogma,
-namely\ldots{}
-
-\hypertarget{protein-synthesis}{%
-\subsection{Protein Synthesis}\label{protein-synthesis}}
-
-See {[}{[}KBhBIO101ProteinSynthesis{]}{]}
-
-Eukarotic gene expression is regulated at many stages because mRNA is
-pretty error-prone and so there needs to be many different steps
-
-\begin{figure}
-\centering
-\includegraphics{preprocessing.png}
-\caption{preprocessing.png}
-\end{figure}
-
-\hypertarget{dna-replication}{%
-\subsection{DNA Replication}\label{dna-replication}}
-
-See {[}{[}KBhBIO101DNAReplication{]}{]}
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101CentralDogma}{\tiny\textulf{[[}\textbf{KBhBIO101CentralDogma}\textulf{]]}}}\thinspace
 
 \hypertarget{rna-replication}{%
-\subsection{RNA Replication}\label{rna-replication}}
-
-See {[}{[}KBhBIO101RNAReplication{]}{]}
+\section{RNA Replication}\label{rna-replication}}
 
 \end{document}
