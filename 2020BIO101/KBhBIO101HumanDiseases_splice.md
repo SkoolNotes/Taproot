@@ -347,10 +347,6 @@ Let's talk about **Remdesivir**! A drug developed by Pfizer that's used to comba
 * So, we hurt normal cell transcription a little in order to rid of the virus
 * Need hospital treatment for regular and safe dosing for this exact reason
 
-Eukarotic gene expression is regulated at many stages — prevents error
-
-![preprocessing.png](preprocessing.png)
-
 * Viral proteins are usually easy to assemble
 
 ![Screen Shot 2020-11-02 at 2.48.22 PM.png](Screen Shot 2020-11-02 at 2.48.22 PM.png)
