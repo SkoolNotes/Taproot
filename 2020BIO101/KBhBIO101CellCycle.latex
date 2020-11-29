@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5370)}}    % original
-%\rhead{\textrmlf{Compiled }\#5370\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5370\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5371)}}    % original
+%\rhead{\textrmlf{Compiled }\#5371\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5371\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -230,14 +230,19 @@ of the cell cycle into motion.
 mins}\label{s-s-phase-duplicate-dna.-150-mins}}
 
 In this process, all of the DNA that is in the nucleus will be
-{[}{[}KBhBIO101DNAReplication{]}{]}ed in order to
+{[}{[}KBhBIO101DNAReplication{]}{]}ed in order to actually split the
+cell in half.
+
+\hypertarget{g2-rest-phrase-gap-2.}{%
+\subsubsection{G2 =\textgreater{} Rest Phrase, Gap
+2.}\label{g2-rest-phrase-gap-2.}}
+
+The pairs of DNA begins bundling and condensing; the DNA is also checked
+upon and verified for consistency and dumped based the needs of the
+cell.
 
 \begin{itemize}
 \tightlist
-\item
-  G2 =\textgreater{} Rest Phrase, Gap 2. The pairs of DNA begins
-  bundling and condensing; the DNA is also checked upon and verified for
-  consistency
 \item
   M =\textgreater{} Mitosis!
 

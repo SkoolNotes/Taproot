@@ -28,9 +28,11 @@ This is the phase which is the "daily life of a cell". There are two major check
 - May hit diffusion checkpoint => larger cells would need to work harder to transport things to the centre
 	
 ### S => S Phase, duplicate DNA. 150 mins
-In this process, all of the DNA that is in the nucleus will be [[KBhBIO101DNAReplication]]ed in order to 
+In this process, all of the DNA that is in the nucleus will be [[KBhBIO101DNAReplication]]ed in order to actually split the cell in half.
 
-- G2 => Rest Phrase, Gap 2. The pairs of DNA begins bundling and condensing; the DNA is also checked upon and verified for consistency
+### G2 => Rest Phrase, Gap 2. 
+The pairs of DNA begins bundling and condensing; the DNA is also checked upon and verified for consistency and dumped based the needs of the cell.
+
 - M => Mitosis!
 	- Prophase: condensation of chromasome
 	- Chromatin aligns in the center => (metaphase)
