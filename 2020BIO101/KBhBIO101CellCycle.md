@@ -22,7 +22,8 @@ Viruses + Organelles challenge this definition => they are symbiotic and cannot 
 
 ## The (actual) Cell Cycle
 ### G1 => Rest Phase, Gap 1
-This is the phase which is the "daily life of a cell". There are two 
+This is the phase which is the "daily life of a cell". There are two major checkpoints in this phase
+
 - May hit s.a. to volume checkpoint => if ratio too big, the cell is too big
 - May hit diffusion checkpoint => larger cells would need to work harder to transport things to the centre
 	
