@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5356)}}    % original
-%\rhead{\textrmlf{Compiled }\#5356\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5356\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5357)}}    % original
+%\rhead{\textrmlf{Compiled }\#5357\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5357\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -245,6 +245,11 @@ nutrients, defend themselves, and control I/O. See
 \subsection{Cell Replication}\label{cell-replication}}
 
 Eventually, at some point, cells need to replicate itself. This, of
-course, is due to the fact that your body needs to grow.
+course, is due to the fact that your body needs to grow. This intricate
+process is dependent on {[}{[}KBhBIO101CentralDogma{]}{]}, specifically,
+{[}{[}KBhBIO101DNAReplication{]}{]}.
+
+The timeschedule of each cell replicating is dependent on something
+called ``The Cell Cycle''. See {[}{[}KBhBIO101CellCycle{]}{]}
 
 \end{document}
