@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5286)}}    % original
-%\rhead{\textrmlf{Compiled }\#5286\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5286\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5287)}}    % original
+%\rhead{\textrmlf{Compiled }\#5287\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5287\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -183,6 +183,8 @@ synthesized together into polymers.} =\textgreater{} Just like
 \subsection{3 basic parts of a Nucleic
 Acid}\label{basic-parts-of-a-nucleic-acid}}
 
+Two of the backbone (phosphate and sugar) + w
+
 \begin{itemize}
 \tightlist
 \item
@@ -194,7 +196,7 @@ Acid}\label{basic-parts-of-a-nucleic-acid}}
     phosphate group
   \item
     sugar (Ribos =\textgreater{} sugar in RNA, di-oxy Ribos
-    =\textgreater{} sugar in HNA)
+    =\textgreater{} sugar in DNA)
 
     \begin{itemize}
     \tightlist
@@ -226,6 +228,8 @@ Acid}\label{basic-parts-of-a-nucleic-acid}}
     \end{itemize}
   \end{itemize}
 \end{itemize}
+
+SONIRE
 
 \begin{figure}
 \centering
