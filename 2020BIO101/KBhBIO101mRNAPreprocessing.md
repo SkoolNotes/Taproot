@@ -1,5 +1,11 @@
 ---
-title: m
+title: mRNA preprocessing
+source: KBhBIO101ProteinSynthesis
+author: Houjun Liu
+course: BIO101
+---
+
+# mRNA Pre-Processing
 
 Between Promoter and Terminator, **Exon** and **Intron** alternate. Exon is coding, whereas Intron is non-coding and works as metadata.
 
