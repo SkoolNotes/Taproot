@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5321)}}    % original
-%\rhead{\textrmlf{Compiled }\#5321\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5321\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5322)}}    % original
+%\rhead{\textrmlf{Compiled }\#5322\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5322\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,6 +180,9 @@ The point of transcription is to recognize the series of promoters that
 code for a gene and copying them into the appropriately matching mRNA.
 
 \definition{Gene}{information that successfully encodes a functional protein or a functional catalytic RNA}
+
+=\textgreater{} ``Promoter''s denotes beginning of a gene.
+``Terminator''s denotes the end of gene.
 
 \hypertarget{starting-transcription}{%
 \subsection{Starting Transcription}\label{starting-transcription}}
@@ -241,9 +244,8 @@ of the nucleus to form the antiparallel mRNA sequence.
 \hypertarget{finishing-transcription}{%
 \subsection{Finishing Transcription}\label{finishing-transcription}}
 
-RNAs could also be catalysts!
-
-\textbf{Terminators}
+Transcription finishes at a gene \textbf{terminator}. This sequence in
+each gene
 
 \begin{itemize}
 \tightlist

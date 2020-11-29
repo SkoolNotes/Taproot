@@ -12,6 +12,8 @@ The point of transcription is to recognize the series of promoters that code for
 
 \definition{Gene}{information that successfully encodes a functional protein or a functional catalytic RNA}
 
+=> "Promoter"s denotes beginning of a gene. "Terminator"s denotes the end of gene.
+
 ## Starting Transcription
 1. Series of utility "factors" proteins begin to assemble at the promoter which signals transcription to call the attention of RNA polymerase.
 2. RNA polyamerase binds to the Sigma Subunit => form a holoenzyme to unwind DNA — creates a **transcription bubble**
@@ -35,16 +37,8 @@ The RNA ploymerease will pluck the correct corresponding nucleotide out of the n
 * A->**U**
 * T->A
 
-
 ## Finishing Transcription
-
-
-RNAs could also be catalysts!
-
-
-
-
-**Terminators**
+Transcription finishes at a gene **terminator**. This sequence in each gene
 
 * Found in the end of the template sequence
 * Two types in prokaryotes
