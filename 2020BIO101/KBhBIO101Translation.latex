@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5331)}}    % original
-%\rhead{\textrmlf{Compiled }\#5331\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5331\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5332)}}    % original
+%\rhead{\textrmlf{Compiled }\#5332\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5332\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -196,6 +196,9 @@ nuclotides in humans, and shorter in bacteria --- that's called UTR
 (untranslated region.) This region helps ribosomes bind to it + stablize
 the binds.
 
+Basically: smaller ribosome unit grabs the incoming mRNA, larger
+facilate the attraction of amino-acid carrying tRNA + forms amino acid
+
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
@@ -213,18 +216,12 @@ the binds.
   P-site: amino acid dumped from tRNA to the actual chain being built
 \item
   Spent tRNA ejected to the E-site, which is then recycled
-\end{enumerate}
-
-\begin{itemize}
-\tightlist
 \item
   Catalyst tRNA combines with rRNA to catalyze amino acid peptide bond
 \item
   Each codon (group of 3 units in tRNA), matches a specific
   {[}{[}KBhBIO101AminoAcids{]}{]}
-\end{itemize}
-
-Smaller ribosome unit grabs, larger attaches + forms amino acid
+\end{enumerate}
 
 After the amino acids are assembled, it's time for
 {[}{[}KBe2020bio101refProteinFolding{]}{]}. See also
