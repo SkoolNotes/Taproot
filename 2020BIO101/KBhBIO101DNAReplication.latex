@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5349)}}    % original
-%\rhead{\textrmlf{Compiled }\#5349\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5349\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5350)}}    % original
+%\rhead{\textrmlf{Compiled }\#5350\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5350\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -201,6 +201,11 @@ base pairing
 \hypertarget{dna-priming}{%
 \subsubsection{DNA priming}\label{dna-priming}}
 
+DNA polymersease will REQUIRE a double-stranded area to begin work from,
+so Primase synthesize already double-stranded RNA primers that DNA
+polymerease could bootstrap to the single-stranded DNA to begin the
+replication process (think: create-react-app)
+
 The unwinded DNA is primed to help DNA polymerase's replication process.
 \textbf{Primcase} is attached to the replication bubble to synthesize an
 RNA-based primer that would help the DNA polymerease perform the
@@ -221,15 +226,26 @@ replication}\label{the-actual-process-of-replication}}
 In this step, DNA polymerease does we came here to do.
 
 Because DNA polymerase could only add nucleotides 5' to 3', there is two
-types of styles of copying depending on which of the two * As helicase
-open a little bit of the DNA, polymerases rushes to copy the area that
-opened * In the \textbf{leading} strand (3' to 5'), polymerase will run
-alongside the helicase for they are opening and replicating on the same
-direction * In the \textbf{lagging} strand (5' to 3'), polymerase will
-wait until the helicate opens a little segment, and rushes forward and
-move backwards * NOTE: the lagging strand\ldots{} 1) takes longer to
-transcribe 2) is done in small chunks (each ``rush forward''). Each
-chunk is called an ogazaki fragment
+types of styles of copying depending on which of the two strands are
+being copied.
+
+\begin{itemize}
+\tightlist
+\item
+  In the \textbf{leading} strand (3' to 5'), polymerase will run
+  alongside the helicase for they are opening and replicating on the
+  same direction
+\item
+  In the \textbf{lagging} strand (5' to 3'), polymerase will wait until
+  the helicate opens a little segment, and rushes forward and move
+  backwards
+\end{itemize}
+
+\emph{NOTE: the lagging strand\ldots{} 1) takes longer to transcribe 2)
+is done in small chunks (each ``rush forward''). Each chunk is called an
+ogazaki fragment --- this is why there was that
+{[}{[}KBhBIO101mRNAPreprocessing{]}{]} process during transcription
+because that would help correct any errors in joining these fragments}
 
 \begin{figure}
 \centering
@@ -238,11 +254,7 @@ chunk is called an ogazaki fragment
 \end{figure}
 
 \begin{itemize}
-\item
-  DNA polymersease will REQUIRE a double-stranded area to begin work
-  from, so Primase synthesize already double-stranded RNA primers that
-  DNA polymerease could bootstrap to the single-stranded DNA to begin
-  the replication process (think: create-react-app)
+\tightlist
 \item
   DNA polymerse will detect unfitting bonds and remove leftover RNA
   primer bootstrap units to repair them in a process called

@@ -19,7 +19,7 @@ As mentioned before, **DNA Polymerease** is the enzyme that catalyzes this proce
 The parent DNA strand serves as a template for the new strand; when it is unzipped, the nucleotides are exposed for complementary base pairing. **Helicase** is the enzyme that unzips the DNA molecule, breaking the hydrogen bonds between nucleotides to expose them for complementary base pairing 
 
 ### DNA priming
-The unwinded DNA is primed to help DNA polymerase’s replication process. **Primcase** is attached to the replication bubble to synthesize an RNA-based primer that would help the DNA polymerease perform the replication process.
+DNA polymersease will REQUIRE a double-stranded area to begin work from, so **Primase** synthesize already double-stranded RNA primers that DNA polymerease could bootstrap to the single-stranded DNA to begin the replication process (think: create-react-app)
 
 ### DNA "flexing" (what's the actual word?)
 The primed DNA is broken and rejoined in order to reduce strain caused by unzipping. Topoisomerase is responsible for relieving unwinding-induced.
@@ -27,15 +27,15 @@ The primed DNA is broken and rejoined in order to reduce strain caused by unzipp
 ### The actual process of replication
 In this step, DNA polymerease does we came here to do.
 
-Because DNA polymerase could only add nucleotides 5' to 3', there is two types of styles of copying depending on which of the two 
-* As helicase open a little bit of the DNA, polymerases rushes to copy the area that opened
-	* In the **leading** strand (3' to 5'), polymerase will run alongside the helicase for they are opening and replicating on the same direction
-	* In the **lagging** strand (5' to 3'), polymerase will wait until the helicate opens a little segment, and rushes forward and move backwards
-		* NOTE: the lagging strand... 1) takes longer to transcribe 2) is done in small chunks (each "rush forward"). Each chunk is called an ogazaki fragment
+Because DNA polymerase could only add nucleotides 5' to 3', there is two types of styles of copying depending on which of the two strands are being copied.
+
+* In the **leading** strand (3' to 5'), polymerase will run alongside the helicase for they are opening and replicating on the same direction
+* In the **lagging** strand (5' to 3'), polymerase will wait until the helicate opens a little segment, and rushes forward and move backwards
+
+*NOTE: the lagging strand... 1) takes longer to transcribe 2) is done in small chunks (each "rush forward"). Each chunk is called an ogazaki fragment — this is why there was that [[KBhBIO101mRNAPreprocessing]] process during transcription because that would help correct any errors in joining these fragments*
 
 ![leadinglagging.png](leadinglagging.png)
 		
-* DNA polymersease will REQUIRE a double-stranded area to begin work from, so Primase synthesize already double-stranded RNA primers that DNA polymerease could bootstrap to the single-stranded DNA to begin the replication process (think: create-react-app)
 
 
 * DNA polymerse will detect unfitting bonds and remove leftover RNA primer bootstrap units to repair them in a process called "proofreading." DNA polimersease is assisted with "glue" ligase to help the DNA polymerease pick out and replace problematic/unneeded nucleotides and perhaps their neighbors. This is where the Ogazaki fragments get joined.
