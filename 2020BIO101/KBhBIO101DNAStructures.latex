@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5365)}}    % original
-%\rhead{\textrmlf{Compiled }\#5365\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5365\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5366)}}    % original
+%\rhead{\textrmlf{Compiled }\#5366\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5366\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -170,37 +170,45 @@
 \hypertarget{dna-structures}{%
 \section{DNA Structures}\label{dna-structures}}
 
+\hypertarget{dna-double-helix}{%
+\subsection{DNA double helix}\label{dna-double-helix}}
+
+The unwrapped, raw DNA pre-bundling or formation of any structures.
+
+\hypertarget{nucleosomes}{%
+\subsection{Nucleosomes}\label{nucleosomes}}
+
+A stack of 2 \emph{histone} groups to create a spool of 8 histone
+proteins wrapping DNA
+
+\hypertarget{histones}{%
+\subsection{Histones}\label{histones}}
+
+Coiler proteins that DNA wraps around to form more advanced structures
+
 \begin{itemize}
 \tightlist
 \item
-  \textbf{DNA double helix}: the unwrapped, raw DNA pre-bundling or
-  formation of any structures.
-\item
-  \textbf{Nucleosomes}: a stack of 2 \emph{histone} groups to create a
-  spool of 8 histone proteins wrapping DNA
+  Each group of histones contains 4 parts (hence 4 (per group) x 2
+  (groups) = 8 histones)
 
   \begin{itemize}
   \tightlist
   \item
-    Histones =\textgreater{} coiler proteins that DNA wraps around to
-    form more advanced structures
+    H3, H4, H2a, H2b are the 4 wrapping proteins
   \item
-    Each group of histones contains 4 parts (hence 4 (per group) x 2
-    (groups) = 8 histones)
-
-    \begin{itemize}
-    \tightlist
-    \item
-      H3, H4, H2a, H2b are the 4 wrapping proteins
-    \item
-      H1 is the histone that seals the group of 4 together
-    \end{itemize}
+    H1 is the histone that seals the group of 4 together
   \end{itemize}
-\item
-  \textbf{Chromatin}: wrapping nucleosomes into a large, fiberous
-  structure
-\item
-  \textbf{Chromasome}: the entangling multiple chromatin together
 \end{itemize}
+
+\hypertarget{chromatin}{%
+\subsection{Chromatin}\label{chromatin}}
+
+Wrapping nucleosomes into a large, fiberous structure
+
+\hypertarget{chromasome-the-entangling-2-chromatin-together.-this-is-the-structure-that-is-split-in-half-during-cell-replication}{%
+\subsection{Chromasome**: the entangling 2 chromatin together. This is
+the structure that is split in half during cell
+replication}\label{chromasome-the-entangling-2-chromatin-together.-this-is-the-structure-that-is-split-in-half-during-cell-replication}}
 
 \end{document}
