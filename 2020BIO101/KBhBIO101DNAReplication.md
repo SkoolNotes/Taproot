@@ -32,11 +32,6 @@ Stage of DNA Replication
 Main purpose of this step
 Key enzymes and structures involved 
 Outcome of this process
-DNA is unzipped at the origin of replication 
-The parent DNA strand serves as a template for the new strand; when it is unzipped, the nucleotides are exposed for complementary base pairing
-Helicase is the enzyme the unzips the DNA molecule, breaking the hydrogen bonds between nucleotides
-The nucleotides of the DNA molecule are exposed for complementary base pairing 
-Unwinded DNA is primed 
 
 
 
