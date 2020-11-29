@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Diseases, an Overview }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -125,7 +125,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5379)}}    % original
 %\rhead{\textrmlf{Compiled }\#5379\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#5379\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,57 +164,12 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101CentralDogmaQuizReview}{\tiny\textulf{[[}\textbf{KBhBIO101CentralDogmaQuizReview}\textulf{]]}}}\thinspace
 
-\hypertarget{central-dogma-quiz-review}{%
-\section{Central Dogma Quiz Review}\label{central-dogma-quiz-review}}
+\hypertarget{diseases-an-overview}{%
+\section{Diseases, an overview}\label{diseases-an-overview}}
 
-Raw review sheet content: {[}{[}KBhBIO101HumanDiseases{]}{]}
-
-\hypertarget{review-smanza}{%
-\subsection{Review Smanza}\label{review-smanza}}
-
-\hypertarget{the-basics-of-dna}{%
-\subsubsection{The Basics of DNA}\label{the-basics-of-dna}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhBIO101NucleicAcidsDNARNA{]}{]}
-\end{itemize}
-
-\hypertarget{protein-synthesis}{%
-\subsubsection{Protein Synthesis}\label{protein-synthesis}}
-
-\begin{itemize}
-\item
-  \begin{itemize}
-  \tightlist
-  \item
-    {[}{[}KBhBIO101DNATranscription{]}{]},
-    {[}{[}KBhBIO101mRNAPreprocessing{]}{]},
-    {[}{[}KBhBIO101Translation{]}{]}
-  \item
-    {[}{[}KBhBIO101DNAReplication{]}{]} and
-    {[}{[}KBhBIO101RNAReplication{]}{]}
-  \end{itemize}
-\end{itemize}
-
-\hypertarget{the-cell-cycle}{%
-\subsubsection{The Cell Cycle}\label{the-cell-cycle}}
-
-\begin{itemize}
-\tightlist
-\item
-\end{itemize}
-
-\hypertarget{human-diseases-w.r.t-viruses}{%
-\subsubsection{Human Diseases w.r.t
-viruses}\label{human-diseases-w.r.t-viruses}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhBIO101Diseases{]}{]}
-\end{itemize}
+\definition{**Disease**}{an abnormal condition that causes impairment in/loss of function of an organism (a.k.a. decreased fitness) that is not due to immediate external injury.}
 
 \end{document}
