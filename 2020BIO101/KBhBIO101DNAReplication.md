@@ -36,30 +36,27 @@ Because DNA polymerase could only add nucleotides 5' to 3', there is two types o
 
 ![leadinglagging.png](leadinglagging.png)
 		
+### DNA Proofreading
+DNA polymerse will detect unfitting bonds and remove leftover RNA primer bootstrap units to repair them in a process called "proofreading." DNA polimersease is assisted with "glue" ligase to help the DNA polymerease pick out and replace problematic/unneeded nucleotides and perhaps their neighbors. This is where the Ogazaki fragments get joined.
 
 
-* DNA polymerse will detect unfitting bonds and remove leftover RNA primer bootstrap units to repair them in a process called "proofreading." DNA polimersease is assisted with "glue" ligase to help the DNA polymerease pick out and replace problematic/unneeded nucleotides and perhaps their neighbors. This is where the Ogazaki fragments get joined.
+Steps of DNA replication, in Paul's words:
 
+```
+- Many proteins work together in DNA replication and repair. 
+The process of DNA replication is semiconservative, such that takes place through complementary base pairing of a template strand of parent DNA. 
 
+- The process of replication begins at the origin of replication, forming a replication fork. The enzyme, helicase, unwinds DNA exposing template strands, primase synthesizes RNA primers to begin the process
 
-Stage of DNA Replication
-Main purpose of this step
-Key enzymes and structures involved 
-Outcome of this process
+- Topoisomerase breaks, swivels, and rejoins the parent DNA to relieve strain caused by unwinding. 
 
+- DNA polymerase is the enzyme that catalyzes the process of complementary base pairing of nucleotides to the template strand. 
 
+- New nucleotide strands always for in the 5’ to 3’ direction, therefore the leading strand forms continuously but the lagging strand is formed in Okazaki fragments (still in the 5’ to 3’ direction) and connected by the enzyme ligase. 
 
+- DNA polymerase is able to proofread pairing, and along with mismatch repair enzymes, DNA is carefully check and repair DNA. 
 
+- The end of a DNA molecule are called telomeres (not in circular genome e.g. bacteria), and shorten during each replication (Hayflick limit). Noncoding, repeating units of nucleotides act as protection from losing essential genetic information by shorting. 
+```
 
-
-Proofreading
-
-
-
-
-
-
-
-Replicated DNA is checked for any irregularities + patched as needed in order to prevent error
-DNA polymerase and “mismatch repair enzymes” #ask?
-A DNA ready to be utilized 
+![copying 1.png](copying 1.png)
