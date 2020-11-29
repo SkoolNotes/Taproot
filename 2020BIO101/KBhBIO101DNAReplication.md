@@ -22,11 +22,7 @@ The parent DNA strand serves as a template for the new strand; when it is unzipp
 The unwinded DNA is primed to help DNA polymerase’s replication process. **Primcase** is attached to the replication bubble to synthesize an RNA-based primer that would help the DNA polymerease perform the replication process.
 
 ### DNA "flexing" (what's the actual word?)
-
-Unwinded DNA is broken and rejoined
-The unwinded DNA is broken and rejoined in order to reduce strain caused by unzipping.
-Topoisomerase is responsible for relieving unwinding-induced strain.
-
+The primed DNA is broken and rejoined in order to reduce strain caused by unzipping. Topoisomerase is responsible for relieving unwinding-induced.
 
 * Open the DNA at an arbuiturary point using the Helicase
 	* Uses two helicase => one open rightward, and one leftward. The movement of the helicase opening the DNA is called the "fork movement"
