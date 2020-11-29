@@ -21,6 +21,8 @@ Diseases present at birth due to DNA abnormalities / pregnancy pathological issu
 ### Acquired Disease
 Diseases that begin during the lifetime due to exposure to some environmental factors...
 
-- **Microrganism Invasion** => "infect
+- **Microrganism Invasion** => "infectious disease"
+- **Autoimmune reaction** => your body fighting your body
+- **Nutrient d
 
 
