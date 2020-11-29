@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5310)}}    % original
-%\rhead{\textrmlf{Compiled }\#5310\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5310\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5311)}}    % original
+%\rhead{\textrmlf{Compiled }\#5311\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5311\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -174,10 +174,27 @@ The process of DNA transcription is done by the RNA Polymerase Enzyme.
 DNA transcription begins by ripping apart hydrogen bonds using DNAse
 enzyme, then the RNA polymerease reads one side (the ``template
 strand'', a.k.a. noncoding strand) of the double helix, recognizing each
-nucleotide * Pluck the correct corresponding nucleotide out of the
-nucleus * G-\textgreater C * C-\textgreater G *
-A-\textgreater{}\textbf{U} * T-\textgreater A * Prokaryotes lack
-membrane-bound nucleus (or any organelle)
+nucleotide
+
+\begin{itemize}
+\tightlist
+\item
+  Pluck the correct corresponding nucleotide out of the nucleus
+
+  \begin{itemize}
+  \tightlist
+  \item
+    G-\textgreater C
+  \item
+    C-\textgreater G
+  \item
+    A-\textgreater{}\textbf{U}
+  \item
+    T-\textgreater A
+  \end{itemize}
+\item
+  Prokaryotes lack membrane-bound nucleus (or any organelle)
+\end{itemize}
 
 \definition{Gene}{information that successfully encodes a functional protein or a functional catalytic RNA}
 
