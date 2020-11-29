@@ -32,10 +32,12 @@ Two parts of the backbone (phosphate and sugar) + a nitrogenous base that labels
 How do we make nucleic acids? Can you guess? Huh? **Dehydration synthesis!**
 
 ## Shapes of the DNA
+### DNA/RNA Primality
+- 5' => one end of an RNA/DNA part (connection from the phosphate group)
+- 3' => another end of a RNA/DNA part (connection from the third carbon on the sugar counting from left)
 
-5' => one end of an RNA/DNA part (connection from the phosphate group)
-
-3' => another end of a RNA/DNA part (connection from the third carbon on the sugar counting from left)
+**As in...**
+![DNA 5 prime to three prime](5primeto3prime.png)
 
 * DNA is supposed to be double stranded
 * RNA is supposed to be single stranded
