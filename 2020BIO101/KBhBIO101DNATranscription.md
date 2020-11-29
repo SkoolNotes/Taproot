@@ -24,11 +24,12 @@ The RNA Polymerase Enzyme starts at a promoter (typically found upstream of the 
 * A Box of TATTAA highlights transcription rate and the start site
 * TFIIA cofactor in RNA (polymerease?) recognizes TATTAA box, TFIIB recognizes C/CG/CG/CGCCC upstream
 
-The Pluck the correct corresponding nucleotide out of the nucleus
-	* G->C
-	* C->G
-	* A->**U**
-	* T->A
+The RNA ploymerease will pluck the correct corresponding nucleotide out of the nucleus to form the antiparallel mRNA sequence.
+
+* G->C
+* C->G
+* A->**U**
+* T->A
 
 ## Finishing Transcription
 
