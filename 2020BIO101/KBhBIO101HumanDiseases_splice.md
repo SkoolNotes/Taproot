@@ -10,24 +10,6 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 
 #flo #disorganized 
 
-## Disease causing agents
-
-## Pathogenicity + Virulence
-
-
-
-**Virulence** => numerical measures for pathonicity
-
-- Measured experimentally with LD50 + ED50
-
-***
-
-## Overview of various diseases
-
-
-***
-
-## Bacteria causing diseases
 
 **Biofilm formation**
 

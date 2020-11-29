@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5388)}}    % original
-%\rhead{\textrmlf{Compiled }\#5388\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5388\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5389)}}    % original
+%\rhead{\textrmlf{Compiled }\#5389\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5389\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -169,10 +169,7 @@
 \section{Pathogenicity and
 Virulence}\label{pathogenicity-and-virulence}}
 
-\hypertarget{pathoginecity}{%
-\subsection{Pathoginecity}\label{pathoginecity}}
-
-an agent's relative capacity to cause disease
+\definition{Pathoginecity}{An agent's relative capacity to cause disease}
 
 \begin{itemize}
 \tightlist
@@ -183,6 +180,14 @@ an agent's relative capacity to cause disease
 \item
   Opportunistic pathogens =\textgreater{} yes disease only when it can,
   for instance, in immunocompromised individuals
+\end{itemize}
+
+\definiton{Virulence}{numerical measures for pathonicity}
+
+\begin{itemize}
+\tightlist
+\item
+  Measured experimentally =\textgreater{} LD50 + ED50
 \end{itemize}
 
 \end{document}
