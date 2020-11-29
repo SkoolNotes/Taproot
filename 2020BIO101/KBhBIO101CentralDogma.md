@@ -13,6 +13,8 @@ We know a little bit more about central dogma now, and now have more concise ope
 ## Protein Synthesis
 See [[KBhBIO101ProteinSynthesis]]
 
+Eukarotic gene expression is regulated at many stages because mRNA is pretty error-prone and so there wi
+
 ## DNA Replication
 
 ## RNA Replication
