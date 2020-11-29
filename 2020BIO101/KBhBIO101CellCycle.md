@@ -16,18 +16,26 @@ Viruses + Organelles challenge this definition => they are symbiotic and cannot 
 	* Cell divide in opposite directions
 	* Two strands ANTIPARALLEL to each other
 	
-	
-## Levels of DNA structure
-* DNA Double Helix => Unwrapped, raw DNA
-* Histones => coiler proteins at which DNA coils around
-	* Four histones
-	* H3, H4, H2a, H2b wraps, H1 seals the four together
-	* Each protein has 1.65 wraps
-* Nucleosomes => stack of 2 histone groups to create a spool of 8 histone proteins wrapping DNA
-* Nucleosomes wraps around into a large fiber called "chromatin"
-* A pair of chromatin entangle to form a chromasome
+**Before we continue, do yourself a favor and review [[KBhBIO101DNAStructures]]**	
 
-### Cell divison process
+***
+
+## Major Cell Cycle Parts
+- G1 => Rest Phase, Gap 1
+	- May hit s.a. to volume checkpoint => if ratio too big, the cell is too big
+	- May hit diffusion checkpoint => larger cells would need to work harder to transport things to the centre
+- S => S Phase, duplicate DNA. 150 mins
+- G2 => Rest Phrase, Gap 2. The pairs of DNA begins bundling and condensing; the DNA is also checked upon and verified for consistency
+- M => Mitosis!
+	- Prophase: condensation of chromasome
+	- Chromatin aligns in the center => (metaphase)
+	- A divit (DEFINITION?) forms
+	- Two chromatin becomes pulled apart => forming two cells via cytokenisis (anephase)
+	
+
+![lecellcycle.png](lecellcycle.pn)
+
+## The basics of mitosis
 * Chromesomes line up in equator
 * Each chromesome has two chromatid exactly the same
 * Microtubials to pull chromesomes appart connected to kinecore, a joint in the chromatid
@@ -51,19 +59,6 @@ For Eukarotes, cells divide using Mytosis.
 
 ![Screen Shot 2020-11-09 at 3.16.12 PM.png](Screen Shot 2020-11-09 at 3.16.12 PM.png)
 
-### Major Cell Cycle Parts
-- G1 => Rest Phase, Gap 1
-	- May hit s.a. to volume checkpoint => if ratio too big, the cell is too big
-	- May hit diffusion checkpoint => larger cells would need to work harder to transport things to the centre
-- S => S Phase, duplicate DNA. 150 mins
-- G2 => Rest Phrase, Gap 2. The pairs of DNA begins bundling and condensing; the DNA is also checked upon and verified for consistency
-- M => Mitosis!
-	- Prophase: condensation of chromasome
-	- Chromatin aligns in the center => (metaphase)
-	- A divit (DEFINITION?) forms
-	- Two chromatin becomes pulled apart => forming two cells via cytokenisis (anephase)
-	
 Cell regulators are proteins that manage and sheperard the process of cell division. They respond to molecular signals throughout the cell and check for internal signals like DNA damage to control the rate and progress of cell division.
 	
-![lecellcycle.png](lecellcycle.png)
 	
