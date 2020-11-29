@@ -17,7 +17,7 @@ Let's make a protein tegether!
 Occasionally, the RNA is what we want to end up with, so then obviously we no longer need the process of Translation.
 
 ## Transcription => converting DNA to mRNA
-The process of transcription is the process by which DNA is converted to messenger RNA, a type of RNA that travels to the ribosome to create a protein.
+The process of transcription is the process by which DNA is converted to messenger RNA, a type of RNA that travels to the ribosome to create a protein. This process is dependent on the enzyme **RNA P
 
 * Done by RNA Polymerase Enzyme
 * Rip apart hydrogen bonds using DNAse enzyme

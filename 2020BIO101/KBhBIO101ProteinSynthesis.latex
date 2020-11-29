@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5305)}}    % original
-%\rhead{\textrmlf{Compiled }\#5305\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5305\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5306)}}    % original
+%\rhead{\textrmlf{Compiled }\#5306\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5306\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -199,7 +199,7 @@ mRNA}\label{transcription-converting-dna-to-mrna}}
 
 The process of transcription is the process by which DNA is converted to
 messenger RNA, a type of RNA that travels to the ribosome to create a
-protein.
+protein. This process is dependent on the enzyme **RNA P
 
 \begin{itemize}
 \tightlist
