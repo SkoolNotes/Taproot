@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5371)}}    % original
-%\rhead{\textrmlf{Compiled }\#5371\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5371\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5372)}}    % original
+%\rhead{\textrmlf{Compiled }\#5372\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5372\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -204,16 +204,10 @@ symbiotic and cannot reproduce on their own. We tend to think that cells
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{the-actual-cell-cycle}{%
-\subsection{The (actual) Cell Cycle}\label{the-actual-cell-cycle}}
-
-\hypertarget{g1-rest-phase-gap-1}{%
-\subsubsection{G1 =\textgreater{} Rest Phase, Gap
-1}\label{g1-rest-phase-gap-1}}
-
-This is the phase which is the ``daily life of a cell''. There are two
-major checkpoints in this phase which, upon it is reached, sets the rest
-of the cell cycle into motion.
+\includegraphics{lecellcycle.pn} \#\# The (actual) Cell Cycle \#\#\# G1
+=\textgreater{} Rest Phase, Gap 1 This is the phase which is the ``daily
+life of a cell''. There are two major checkpoints in this phase which,
+upon it is reached, sets the rest of the cell cycle into motion.
 
 \begin{itemize}
 \tightlist
@@ -241,30 +235,8 @@ The pairs of DNA begins bundling and condensing; the DNA is also checked
 upon and verified for consistency and dumped based the needs of the
 cell.
 
-\begin{itemize}
-\tightlist
-\item
-  M =\textgreater{} Mitosis!
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Prophase: condensation of chromasome
-  \item
-    Chromatin aligns in the center =\textgreater{} (metaphase)
-  \item
-    A divit (DEFINITION?) forms
-  \item
-    Two chromatin becomes pulled apart =\textgreater{} forming two cells
-    via cytokenisis (anephase)
-  \end{itemize}
-\end{itemize}
-
-\begin{figure}
-\centering
-\includegraphics{lecellcycle.pn}
-\caption{lecellcycle.png}
-\end{figure}
+\hypertarget{m-mitosis}{%
+\subsubsection{M =\textgreater{} Mitosis!}\label{m-mitosis}}
 
 \hypertarget{the-basics-of-mitosis}{%
 \subsection{The basics of mitosis}\label{the-basics-of-mitosis}}

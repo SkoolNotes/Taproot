@@ -20,6 +20,7 @@ Viruses + Organelles challenge this definition => they are symbiotic and cannot 
 
 ***
 
+![lecellcycle.png](lecellcycle.pn)
 ## The (actual) Cell Cycle
 ### G1 => Rest Phase, Gap 1
 This is the phase which is the "daily life of a cell". There are two major checkpoints in this phase which, upon it is reached, sets the rest of the cell cycle into motion.
@@ -33,14 +34,8 @@ In this process, all of the DNA that is in the nucleus will be [[KBhBIO101DNARep
 ### G2 => Rest Phrase, Gap 2. 
 The pairs of DNA begins bundling and condensing; the DNA is also checked upon and verified for consistency and dumped based the needs of the cell.
 
-- M => Mitosis!
-	- Prophase: condensation of chromasome
-	- Chromatin aligns in the center => (metaphase)
-	- A divit (DEFINITION?) forms
-	- Two chromatin becomes pulled apart => forming two cells via cytokenisis (anephase)
-	
+### M => Mitosis!
 
-![lecellcycle.png](lecellcycle.pn)
 
 ## The basics of mitosis
 * Chromesomes line up in equator
