@@ -11,6 +11,7 @@ Central dogma is the concept that the instructions of protein synthesis comes fr
 We know a little bit more about central dogma now, and now have more concise operations for the processes defined in the central dogma, namely...
 
 ## Protein Synthesis
+See [[KBhBIO101ProteinSynthesis]]
 
 ## DNA Replication
 
