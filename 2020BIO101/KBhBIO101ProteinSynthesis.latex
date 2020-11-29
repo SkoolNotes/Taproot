@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5324)}}    % original
-%\rhead{\textrmlf{Compiled }\#5324\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5324\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5325)}}    % original
+%\rhead{\textrmlf{Compiled }\#5325\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5325\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -212,19 +212,21 @@ See {[}{[}KBhBIO101DNATranscription{]}{]}
 \subsection{mRNA processing =\textgreater{} splicing
 mRNA}\label{mrna-processing-splicing-mrna}}
 
-After the transcribed mRNA is finished, Eukar
-
-Pre-process the mRNA.
-
+After the transcribed mRNA is finished, Eukaryotes only will need to go
+through one additional process called ``mRNA processing.'' Notably,
 \textbf{Prokaryotes does not do this!} Prokarotes' coding sequence
 always makes a full protein, so we just start at promoter and end at
 terminator and make a protein!
 
-In Eukaryotic DNA\ldots{}
+And so, in Eukarotes\ldots{}
 
-Between Promoter and Terminator, \textbf{Exon} and \textbf{Intron}
-alternate. Exon is coding, whereas Intron is non-coding and works as
-metadata.
+\begin{itemize}
+\tightlist
+\item
+  Between Promoter and Terminator, \textbf{Exon} and \textbf{Intron}
+  alternate. Exon is coding, whereas Intron is non-coding and works as
+  metadata.
+\end{itemize}
 
 After reading the intron, they are spliced out during mRNA processing
 =\textgreater{} done by the ``splicesome''. The mRNA, after splicing, is

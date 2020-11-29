@@ -25,23 +25,11 @@ The process of transcription is the process by which DNA is converted to messeng
 See [[KBhBIO101DNATranscription]]
 
 ## mRNA processing => splicing mRNA
-After the transcribed mRNA is finished, Eukar
+After the transcribed mRNA is finished, Eukaryotes only will need to go through one additional process called "mRNA processing." Notably, **Prokaryotes does not do this!** Prokarotes' coding sequence always makes a full protein, so we just start at promoter and end at terminator and make a protein!
 
+And so, in Eukarotes...
 
-Pre-process the mRNA. 
-
-**Prokaryotes does not do this!** Prokarotes' coding sequence always makes a full protein, so we just start at promoter and end at terminator and make a protein!
-
-In Eukaryotic DNA...
-
-Between Promoter and Terminator, **Exon** and **Intron** alternate. Exon is coding, whereas Intron is non-coding and works as metadata.
-
-After reading the intron, they are spliced out during mRNA processing => done by the "splicesome". The mRNA, after splicing, is "capped and tailed" to mark pre-processing completion, at which point they leave the nucleus + go to the ribosome.
-
-* Begin by assembling helper proteins at intron-exon borders => "slicing factors"
-* Other helping factor proteins come together and form the "splicesome" to do the splicing
-* Splicesome splices by bringing exon ends together
-* After it's done, the splicesome disintergrates
+See [[KBhBIO101mRNAPreprocessing]]
 
 ### Translation => RNA-directed polypeptide synthesis
 Mature mRNA sent to ribosome. mRNA must travel to the cytoplasm in the Eukarotes to catch the RNA, whereas in prokarotes they don't have to go anywhere.
