@@ -6,7 +6,11 @@ author: Houjun Liu
 ---
 
 # DNA Transcription
-The process of DNA transcription is done by the RNA Polymerase Enzyme. DNA transcription begins by ripping apart hydrogen bonds using DNAse enzyme, then the RNA polymerease reads one side (the "template strand", a.k.a. noncoding "antisene" strand that runs from 3' to 5') of the double helix, recognizing each nucleotide
+The process of DNA transcription is done by the RNA Polymerase Enzyme. DNA transcription begins by ripping apart hydrogen bonds using DNAse enzyme, then the RNA polymerease reads one side (the "template strand", a.k.a. noncoding "antisene" strand that runs from 3' to 5') of the double helix, recognizing each nucleotide. 
+
+The point of transcription is to recognize the series of promoters that code for a gene and copying them into the appropriately matching mRNA.
+
+\definition{Gene}{information that successfully encodes a functional protein or a functional catalytic RNA}
 
 ## Starting Transcription
 1. Series of utility "factors" proteins begin to assemble at the promoter which signals transcription to call the attention of RNA polymerase.
@@ -31,16 +35,12 @@ The RNA ploymerease will pluck the correct corresponding nucleotide out of the n
 * A->**U**
 * T->A
 
+
 ## Finishing Transcription
 
 
-* Prokaryotes lack membrane-bound nucleus (or any organelle)
-
-\definition{Gene}{information that successfully encodes a functional protein or a functional catalytic RNA}
-
 RNAs could also be catalysts!
 
-* "Promoter"s denotes beginning of a gene. "Terminator"s denotes the end of gene.
 
 
 
