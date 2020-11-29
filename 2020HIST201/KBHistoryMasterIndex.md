@@ -87,6 +87,8 @@ source: #index
 - MasonChapter5 [[KBhHIST201MasonCh5]]
 - MasonChapter5&7x [[KBxHIST201MasonCh5&7]]
 - Japan and the westx [[KBxJapanandtheWest]]
+- Bulliet: British Rag [[KBhHIST201BritishRaj]]
+- Mason Ch 8 [[KBhHIST201MasonCh8]]
 
 # Essays
 * Essay 1
