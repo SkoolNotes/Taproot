@@ -41,7 +41,7 @@ The pairs of DNA begins bundling and condensing; the DNA is also checked upon an
 * Microtubials to pull chromesomes appart connected to kinecore, a joint in the chromatid
 * Kinetore senses tension, and when it is correct, molecules are sent down the microtubials to send a split signal
 
-## Features of the Cell cycle
+## Features of the Cell Cycle
 
 **Most cell division results in genetically identical daughter cell**
 

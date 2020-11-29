@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5373)}}    % original
-%\rhead{\textrmlf{Compiled }\#5373\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5373\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5374)}}    % original
+%\rhead{\textrmlf{Compiled }\#5374\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5374\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -264,17 +264,9 @@ cell.
   down the microtubials to send a split signal
 \end{itemize}
 
-\begin{figure}
-\centering
-\includegraphics{levelsofdna.png}
-\caption{levelsofdna.png}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics{histones.png}
-\caption{histones.png}
-\end{figure}
+\hypertarget{features-of-the-cell-cycle}{%
+\subsection{Features of the Cell
+Cycle}\label{features-of-the-cell-cycle}}
 
 \textbf{Most cell division results in genetically identical daughter
 cell}
