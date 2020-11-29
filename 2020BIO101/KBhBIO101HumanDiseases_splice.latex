@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5379)}}    % original
-%\rhead{\textrmlf{Compiled }\#5379\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5379\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5380)}}    % original
+%\rhead{\textrmlf{Compiled }\#5380\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5380\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -176,31 +176,11 @@ are here}
 
 \#flo \#disorganized
 
-\begin{itemize}
-\tightlist
-\item
-  What causes human disease?
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Infectious agents
-  \item
-    Deficiency disorders
-  \item
-    Heritable factors
-  \item
-    Physiological disorders (immunodeficiency, autoimmune disorders,
-    allergies, etc.)
-  \end{itemize}
-\end{itemize}
-
 \hypertarget{congenital-vs.-acquired-disease}{%
 \subsection{Congenital vs.~Acquired
 disease}\label{congenital-vs.-acquired-disease}}
 
-Congenital diseases =\textgreater{} diseases present at birth due to DNA
-abnormalities / pregnancy pathological issues
+Congenital diseases =\textgreater{}
 
 Acquired diseases =\textgreater{} diseases that begin during lifetime,
 including\ldots{}

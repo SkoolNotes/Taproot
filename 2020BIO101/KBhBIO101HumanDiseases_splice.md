@@ -9,17 +9,10 @@ course: BIO201
 A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.google.com/presentation/d/1b2RetU6iGsd_h4Msb2SV-_WznNXSREbsPpfdY-LgJZs/edit#slide=id.ga6d683dbbf_0_338)
 
 #flo #disorganized 
-
-	
-* What causes human disease?
-	* Infectious agents
-	* Deficiency disorders
-	* Heritable factors
-	* Physiological disorders (immunodeficiency, autoimmune disorders, allergies, etc.)
 	
 ## Congenital vs. Acquired disease
 
-Congenital diseases => diseases present at birth due to DNA abnormalities / pregnancy pathological issues
+Congenital diseases => 
 
 Acquired diseases => diseases that begin during lifetime, including...
 

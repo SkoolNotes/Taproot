@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5379)}}    % original
-%\rhead{\textrmlf{Compiled }\#5379\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5379\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5380)}}    % original
+%\rhead{\textrmlf{Compiled }\#5380\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5380\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -171,5 +171,27 @@
 \section{Diseases, an overview}\label{diseases-an-overview}}
 
 \definition{**Disease**}{an abnormal condition that causes impairment in/loss of function of an organism (a.k.a. decreased fitness) that is not due to immediate external injury.}
+
+\hypertarget{causes-of-disease}{%
+\subsection{Causes of Disease}\label{causes-of-disease}}
+
+\begin{itemize}
+\tightlist
+\item
+  Infectious agents
+\item
+  Deficiency disorders
+\item
+  Heritable factors
+\item
+  Physiological disorders (immunodeficiency, autoimmune disorders,
+  allergies, etc.)
+\end{itemize}
+
+\hypertarget{two-main-types-of-diseases}{%
+\subsection{Two Main Types of
+Diseases}\label{two-main-types-of-diseases}}
+
+"Congenital
 
 \end{document}
