@@ -9,10 +9,9 @@ author: Houjun Liu
 The process of DNA transcription is done by the RNA Polymerase Enzyme. DNA transcription begins by ripping apart hydrogen bonds using DNAse enzyme, then the RNA polymerease reads one side (the "template strand", a.k.a. noncoding "antisene" strand that runs from 3' to 5') of the double helix, recognizing each nucleotide
 
 ## Starting Transcription
-**Starting Transcription**
-* Series of utility "factors" proetins begin to assemble to call the attention of RNA polymerase.
-* RNA polyamerase binds to the Sigma Subunit => form a holoenzyme to unwind DNA
-* Sigma subunit informs the enzyme where to find a promoter (beginning of binding)
+1. Series of utility "factors" proteins begin to assemble at the promoter which signals transcription to call the attention of RNA polymerase.
+2. RNA polyamerase binds to the Sigma Subunit => form a holoenzyme to unwind DNA — creates a **transcription bubble**
+3. Sigma subunit informs the enzyme where to find a promoter (beginning of binding)
 * "Enhancer" gene sequences help bind with activator proteins to help attract RNA polymerase II
 
 **Promoters**

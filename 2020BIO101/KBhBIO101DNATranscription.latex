@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5314)}}    % original
-%\rhead{\textrmlf{Compiled }\#5314\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5314\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5315)}}    % original
+%\rhead{\textrmlf{Compiled }\#5315\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5315\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,12 +179,27 @@ of the double helix, recognizing each nucleotide
 \hypertarget{starting-transcription}{%
 \subsection{Starting Transcription}\label{starting-transcription}}
 
-\textbf{Starting Transcription} * Series of utility ``factors'' proetins
-begin to assemble to call the attention of RNA polymerase. * RNA
-polyamerase binds to the Sigma Subunit =\textgreater{} form a holoenzyme
-to unwind DNA * Sigma subunit informs the enzyme where to find a
-promoter (beginning of binding) * ``Enhancer'' gene sequences help bind
-with activator proteins to help attract RNA polymerase II
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Series of utility ``factors'' proteins begin to assemble at the
+  promoter which signals transcription to call the attention of RNA
+  polymerase.
+\item
+  RNA polyamerase binds to the Sigma Subunit =\textgreater{} form a
+  holoenzyme to unwind DNA --- creates a \textbf{transcription bubble}
+\item
+  Sigma subunit informs the enzyme where to find a promoter (beginning
+  of binding)
+\end{enumerate}
+
+\begin{itemize}
+\tightlist
+\item
+  ``Enhancer'' gene sequences help bind with activator proteins to help
+  attract RNA polymerase II
+\end{itemize}
 
 \textbf{Promoters} * Polymerase Enzyme starts at a promoter (typically
 found upstream of the 5' start site) and ends at a terminator * Box of
