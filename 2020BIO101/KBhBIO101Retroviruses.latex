@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5471)}}    % original
-%\rhead{\textrmlf{Compiled }\#5471\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5471\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5472)}}    % original
+%\rhead{\textrmlf{Compiled }\#5472\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5472\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -201,11 +201,12 @@ for budding.
 The proviral region (the part that makes virus) newly inserted to the
 cell's DNA is transcribed slowly when normal
 {[}{[}KBhBIO101CentralDogma{]}{]} comes across it to synthesize
-proteins.
+proteins. In this case, this virus would spread through cell duplication
 
 When the cell is undergoing {[}{[}KBhBIO101CellCycle{]}{]}, the proviral
 area is replicated and exported as usual, making descendents of the cell
-also have the proviral region.
+also have the proviral region. This property makes these viruses
+especially hard to get rid of, which is why we still can't cure HIV.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
@@ -233,5 +234,19 @@ To make these activities happen, the virus needs two enzymes ---
     Force insert the DNA into the genome of the host cell
   \end{itemize}
 \end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-12 at 11.22.35 PM.png}
+\caption{Screen Shot 2020-10-12 at 11.22.35 PM.png}
+\end{figure}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{preventing-retroviruses}{%
+\subsection{Preventing Retroviruses}\label{preventing-retroviruses}}
+
+There are a few different drugs that prevent a few different steps of
+the retroviral infection process
 
 \end{document}
