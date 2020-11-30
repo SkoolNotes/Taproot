@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5274)}}    % original
-%\rhead{\textrmlf{Compiled }\#5274\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5274\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5513)}}    % original
+%\rhead{\textrmlf{Compiled }\#5513\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5513\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -176,35 +176,107 @@
 
 Looked at the
 \href{https://github.com/ml4a/ml4a-guides/blob/master/notebooks/convolutional_neural_networks.ipynb}{Convolutional
-Neural Network Notebook} - What type of data are they using? - They are
-using images as their input data. - What conversions (if any) had to be
-done to the data before it could be put into the neural network? - For
-the basic neural network, they reshape the data to be individual
-vectors, make them float32, normalize the data, then convert the vectors
-to binary class matrices via one hot encoding. For the CNN, they repeat
-the previous steps except without reshaping the data into unrolled input
-vectors. - What is the output of the neural network, both in terms of
-what it looks like to the computer (e.g.~integers in the range
-{[}0-2{]}) and how humans should interpret it (e.g.~the type of iris)? -
-The output should be an array of probabilities for each category, which
-can be interpreted as, at a given index in the array, the item's
-probabilities for belonging in each category. - How many hidden layers
-does the network have, and what type are they (e.g.~fully connected,
-convolutional, recurrent, LSTM, sparse, etc.)? - For the final iteration
-of the CNN, the model has four hidden layers --- two convolutional, and
-two dense. - What activation function(s) does it use? - The CNN used
-ReLU and softmax. - What loss or cost function is it using? - The
-model's loss function is categorical crossentropy - What kind of
-validation (if any) are they using? - The model uses accuracy as it's
-validation metric. - What other validation methods might work for this
-type of problem? - Any validation that works for classification
-problems, such as recall, f-measure, or precision. - Why do you think
-the authors may have chosen this architecture for their network? - They
-started with a small network to help illustrate the concepts more
-clearly, then gradually added more layers. They used a CNN so the model
-would be able to perform feature based recognition. - Are there any
-changes you might try, if you were going to improve on their model? - I
-will try to add some more layers, as well as some more dropout.
+Neural Network Notebook}
+
+\begin{itemize}
+\tightlist
+\item
+  What type of data are they using?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    They are using images as their input data.
+  \end{itemize}
+\item
+  What conversions (if any) had to be done to the data before it could
+  be put into the neural network?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    For the basic neural network, they reshape the data to be individual
+    vectors, make them float32, normalize the data, then convert the
+    vectors to binary class matrices via one hot encoding. For the CNN,
+    they repeat the previous steps except without reshaping the data
+    into unrolled input vectors.
+  \end{itemize}
+\item
+  What is the output of the neural network, both in terms of what it
+  looks like to the computer (e.g.~integers in the range {[}0-2{]}) and
+  how humans should interpret it (e.g.~the type of iris)?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The output should be an array of probabilities for each category,
+    which can be interpreted as, at a given index in the array, the
+    item's probabilities for belonging in each category.
+  \end{itemize}
+\item
+  How many hidden layers does the network have, and what type are they
+  (e.g.~fully connected, convolutional, recurrent, LSTM, sparse, etc.)?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    For the final iteration of the CNN, the model has four hidden layers
+    --- two convolutional, and two dense.
+  \end{itemize}
+\item
+  What activation function(s) does it use?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The CNN used ReLU and softmax.
+  \end{itemize}
+\item
+  What loss or cost function is it using?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The model's loss function is categorical crossentropy
+  \end{itemize}
+\item
+  What kind of validation (if any) are they using?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The model uses accuracy as it's validation metric.
+  \end{itemize}
+\item
+  What other validation methods might work for this type of problem?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Any validation that works for classification problems, such as
+    recall, f-measure, or precision.
+  \end{itemize}
+\item
+  Why do you think the authors may have chosen this architecture for
+  their network?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    They started with a small network to help illustrate the concepts
+    more clearly, then gradually added more layers. They used a CNN so
+    the model would be able to perform feature based recognition.
+  \end{itemize}
+\item
+  Are there any changes you might try, if you were going to improve on
+  their model?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    I will try to add some more layers, as well as some more dropout.
+  \end{itemize}
+\end{itemize}
 
 \hypertarget{opt-3-pt.-2}{%
 \section{Opt 3 pt.~2!}\label{opt-3-pt.-2}}

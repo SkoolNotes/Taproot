@@ -13,6 +13,7 @@ source:  #index
 
 # Opt 3 
 Looked at the [Convolutional Neural Network Notebook](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/convolutional_neural_networks.ipynb)
+
 - What type of data are they using?
 	- They are using images as their input data. 
 - What conversions (if any) had to be done to the data before it could be put into the neural network?
