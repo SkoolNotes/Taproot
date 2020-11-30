@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5401)}}    % original
-%\rhead{\textrmlf{Compiled }\#5401\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5401\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5404)}}    % original
+%\rhead{\textrmlf{Compiled }\#5404\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5404\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,45 +175,6 @@ A lecture by the Legendary Dr.~Paul Hauser.
 are here}
 
 \#flo \#disorganized
-
-\hypertarget{two-types-of-virus}{%
-\subsubsection{Two types of virus}\label{two-types-of-virus}}
-
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Prokaryotic-infecting viruses}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Variety of shapes
-  \item
-    Complex and prolate shapes
-  \item
-    Has, sometimes complex shapes! a la
-    \href{Screen\%20Shot\%202020-10-12\%20at\%2010.49.04\%20PM.png}{this
-    image}
-  \end{itemize}
-\item
-  \textbf{Eukarotic-infecting viruses}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Much more ``boring'' in terms of shape
-  \item
-    Icosahedral/spherecial outside
-  \item
-    Enveloped constructions =\textgreater{} envelope protein layer
-    outside, spherical inside
-  \item
-    Helical/Cylindrical/Bullet shapes, too!
-  \item
-    Often single patterns assemble together to create symmetric shape
-    that creates the whole of the virus
-  \end{itemize}
-\end{itemize}
 
 \hypertarget{viral-life-cycle}{%
 \subsubsection{Viral Life Cycle}\label{viral-life-cycle}}

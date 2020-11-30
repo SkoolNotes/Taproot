@@ -10,18 +10,6 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 
 #flo #disorganized 
 
-### Two types of virus 
-* **Prokaryotic-infecting viruses**
-	* Variety of shapes
-	* Complex and prolate shapes
-	* Has, sometimes complex shapes! a la [this image](Screen Shot 2020-10-12 at 10.49.04 PM.png)
-* **Eukarotic-infecting viruses**
-	* Much more "boring" in terms of shape
-	* Icosahedral/spherecial outside
-	* Enveloped constructions => envelope protein layer outside, spherical inside
-	* Helical/Cylindrical/Bullet shapes, too!
-	* Often single patterns assemble together to create symmetric shape that creates the whole of the virus 
-
 
 ### Viral Life Cycle
 1. Attachment => protein contact between virus and host
