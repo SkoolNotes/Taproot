@@ -31,4 +31,8 @@ Two types of viruses: the prokaryote-frequenting **DNA viruses** which replicate
 See [[KBhBIO101TypesOfViruses]]
 
 ## Virus Lifecycle + Infectivity
-How do viruses infect people? Basically, they come into your body, hijack the [[KBhBIO101CentralDogma]] system of your body, and leverage it to create more copies of itself. To see more about this, head on over to [[KBhBIO101ViralInfection]]
+How do viruses infect people? Basically, they come into your body, hijack the [[KBhBIO101CentralDogma]] system of your body, and leverage it to create more copies of itself. 
+
+To see more about this, head on over to [[KBhBIO101ViralInfection]]. This is important and cool.
+
+

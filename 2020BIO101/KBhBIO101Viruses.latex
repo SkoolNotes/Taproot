@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5427)}}    % original
-%\rhead{\textrmlf{Compiled }\#5427\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5427\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5460)}}    % original
+%\rhead{\textrmlf{Compiled }\#5460\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5460\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -221,7 +221,9 @@ Infectivity}\label{virus-lifecycle-infectivity}}
 
 How do viruses infect people? Basically, they come into your body,
 hijack the {[}{[}KBhBIO101CentralDogma{]}{]} system of your body, and
-leverage it to create more copies of itself. To see more about this,
-head on over to {[}{[}KBhBIO101ViralInfection{]}{]}
+leverage it to create more copies of itself.
+
+To see more about this, head on over to
+{[}{[}KBhBIO101ViralInfection{]}{]}. This is important and cool.
 
 \end{document}
