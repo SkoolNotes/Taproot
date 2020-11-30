@@ -26,7 +26,7 @@ course: BIO101
 *Option 2: Endocytosis*
 
 - Trick the host cell into introducing the virus as food
-- [[endocyto
+- Endocytosis!
 - Bam
 
 *Option 3: Fusion*
