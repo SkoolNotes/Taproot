@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Viruses }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -125,7 +125,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5462)}}    % original
 %\rhead{\textrmlf{Compiled }\#5462\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#5462\textrmlf{ on} \today}       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,77 +164,10 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBhBIO101Diseases}{\tiny\textulf{[[}\textbf{KBhBIO101Diseases}\textulf{]]}}}\thinspace
 
-\hypertarget{viruses}{%
-\section{Viruses}\label{viruses}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\definition{Viruses}{Acellular Macromolecular Assemblies}
-
-Viruses\ldots{}
-
-\begin{itemize}
-\tightlist
-\item
-  \ldots contain protein coat called \textbf{capsid}
-\item
-  \ldots use DNA or RNA, but not both
-\item
-  \ldots are obligate parasites that could only replicate within host
-\end{itemize}
-
-Assembled and mature viral particles =\textgreater{} \textbf{virions}.
-They usually have three different parts
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  Capsid --- the protein coat
-\item
-  Genetic material --- what they are transmitting/replicating
-\item
-  Occationally outside lipid layer
-\end{enumerate}
-
-=\textgreater{} Viruses exist on the nanometre scale, but they are
-difference in share and size
-
-\hypertarget{structure-of-viruses}{%
-\subsection{Structure of Viruses}\label{structure-of-viruses}}
-
-See {[}{[}KBhBIO101StructureOfViruses{]}{]}
-
-\hypertarget{types-of-viruses}{%
-\subsection{Types of Viruses}\label{types-of-viruses}}
-
-Two types of viruses: the prokaryote-frequenting \textbf{DNA viruses}
-which replicates themselves using DNA and the eukaryote-frequenting
-\textbf{RNA viruses} which replicates themselves using RNA.
-
-See {[}{[}KBhBIO101TypesOfViruses{]}{]}
-
-\hypertarget{virus-lifecycle-infectivity}{%
-\subsection{Virus Lifecycle +
-Infectivity}\label{virus-lifecycle-infectivity}}
-
-How do viruses infect people? Basically, they come into your body,
-hijack the {[}{[}KBhBIO101CentralDogma{]}{]} system of your body, and
-leverage it to create more copies of itself.
-
-To see more about this, head on over to
-{[}{[}KBhBIO101ViralInfection{]}{]}. This is important and cool.
-
-\hypertarget{viral-genetic-shift-viral-genetic-drift}{%
-\subsection{Viral Genetic Shift + Viral Genetic
-Drift}\label{viral-genetic-shift-viral-genetic-drift}}
-
-Viruses modulate themselves, which make them particularly hard to deal
-with as their DNA may change every so often to the bewilderment of the
-immune system.
-
-There are two ways by which this happens --- genetic Shift and Genetic
-Drift. See {[}{[}KBhBIO101ViralGeneticModulation{]}{]}
+title: Viral Genetic Modulation source: KBhBIO101Viruses author: Houjun
+Liu
 
 \end{document}

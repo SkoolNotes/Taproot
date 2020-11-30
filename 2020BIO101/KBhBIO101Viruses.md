@@ -36,5 +36,7 @@ How do viruses infect people? Basically, they come into your body, hijack the [[
 To see more about this, head on over to [[KBhBIO101ViralInfection]]. This is important and cool.
 
 ## Viral Genetic Shift + Viral Genetic Drift
-Viruses modulate themselves, which make them particularly hard to deal with 
+Viruses modulate themselves, which make them particularly hard to deal with as their DNA may change every so often to the bewilderment of the immune system.
+
+There are two ways by which this happens — genetic Shift and Genetic Drift. See [[KBhBIO101ViralGeneticModulation]]
 
