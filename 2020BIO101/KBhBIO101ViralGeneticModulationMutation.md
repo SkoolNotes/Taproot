@@ -11,7 +11,7 @@ course: BIO101
 Whole segments of genome exchange abruptly as two flu viruses infect the same cell to create a new strand.  There are two mechnisms by which happens — ( #ASK ) the **crossing-over mechnism** and **genome segment reassortment** 
 
 ### Crossing-over 
-Self-mixing of #ask #ask #ask of either polyprotein sections or ozaki fragments (I think the latter) 
+Self-mixing of ozaki fragments during v
 
 ### genome segment reassortment
 (I think that's where two viruses coinfect the same cell, causing cross-talk in swapping segments)
