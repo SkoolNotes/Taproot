@@ -6,11 +6,8 @@ course: BIO101
 ---
 
 # Virus Infections and Lifecycle
-#disorganized 
 
-
-
-### Viral Life Cycle
+## Viral Life Cycle, an Overview
 1. Attachment => protein contact between virus and host
 2. Viral entry/Uncoating => shedding the protein layer
 3. Biosynthesis => make baby viruses
