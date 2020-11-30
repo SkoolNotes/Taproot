@@ -53,3 +53,9 @@ course: HIST201
 * After the rapid de-colonization in the 20th century, the Third World was established and CLAIM: was pivital during the cold war.
 * European thinking lead to European nationalist ideals, which CLAIM: contributed to the downfall of European colonies.
 
+## CN11302020
+#flo 
+
+- About the **scramble for Africa** and the imperialist movement
+- Today: all of Imperialism!
+- The Scramble for
