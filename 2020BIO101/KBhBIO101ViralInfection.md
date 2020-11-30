@@ -17,10 +17,7 @@ course: BIO101
 5.  **Assembly** => put it all togethr
 6.  **Viral Exit** => mature virons leave
 
-this is an rgb keyboarnd b
-
-#### Viral Entry
-
+## Viral Entry
 *Option 1: Direct Injection/insertion*
 
 - Insert genome through the bi-layer
