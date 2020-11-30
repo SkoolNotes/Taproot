@@ -83,6 +83,8 @@ Except! Poxvirade viruses carry their own polymerase, so they replicate in the c
 
 *How are viral mRNAs produced from the viral genome?*
 
+- Viruses trigger the process of RNA replication either using their own RNA-dependent RNA polymerease or using that of the host cells
+-
 
 #### Packaging
 
