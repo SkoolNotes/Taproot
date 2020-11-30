@@ -10,6 +10,7 @@ course: BIO101
 * Variety of shapes
 * Complex and prolate shapes
 * Has, sometimes complex shapes! a la [this image](Screen Shot 2020-10-12 at 10.49.04 PM.png)
+* Usually transmits using the DNA
 
 ## Eukarotic infecting viruses
 * Much more "boring" in terms of shape
@@ -17,5 +18,8 @@ course: BIO101
 * Enveloped constructions => envelope protein layer outside, spherical inside
 * Helical/Cylindrical/Bullet shapes, too!
 * Often single patterns assemble together to create symmetric shape that creates the whole of the virus 
+* Usually transmits using the RNA
+
+RNA viruses are considered to
 
 

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5404)}}    % original
-%\rhead{\textrmlf{Compiled }\#5404\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5404\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5423)}}    % original
+%\rhead{\textrmlf{Compiled }\#5423\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5423\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -184,6 +184,8 @@ viruses}\label{prokarotic-infecting-viruses}}
   Has, sometimes complex shapes! a la
   \href{Screen\%20Shot\%202020-10-12\%20at\%2010.49.04\%20PM.png}{this
   image}
+\item
+  Usually transmits using the DNA
 \end{itemize}
 
 \hypertarget{eukarotic-infecting-viruses}{%
@@ -204,6 +206,10 @@ viruses}\label{eukarotic-infecting-viruses}}
 \item
   Often single patterns assemble together to create symmetric shape that
   creates the whole of the virus
+\item
+  Usually transmits using the RNA
 \end{itemize}
+
+RNA viruses are considered to
 
 \end{document}
