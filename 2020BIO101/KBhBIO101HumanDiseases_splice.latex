@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5475)}}    % original
-%\rhead{\textrmlf{Compiled }\#5475\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5475\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5476)}}    % original
+%\rhead{\textrmlf{Compiled }\#5476\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5476\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,7 +180,8 @@ are here}
 \subsubsection{Viral Genome vs Mutation
 Rate}\label{viral-genome-vs-mutation-rate}}
 
-\textbf{Genetic shift} ---
+\textbf{Genetic shift} --- viruses recombinate without mutating Think!
+the flu
 
 \hypertarget{why-are-viruses-bad}{%
 \subsection{Why are viruses bad}\label{why-are-viruses-bad}}

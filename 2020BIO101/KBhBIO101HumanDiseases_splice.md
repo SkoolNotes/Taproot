@@ -16,8 +16,6 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 
 
 
-**Genetic shift** — 
-
  
 ## Why are viruses bad
 
