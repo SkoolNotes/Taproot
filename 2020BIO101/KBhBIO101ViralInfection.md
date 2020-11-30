@@ -29,7 +29,7 @@ Most viral attachment processes is done in two different steps:
 *Note! Both of these processes will require specific protein "spikes" that are specifically designed to stick to the host cell.* **This is what causes the organism-specific responses to viruses.**
 
 ## Viral Entry
-In this step, the sticky virus on the surface of the cell gets into the cell. There are three different type
+In this step, the sticky virus on the surface of the cell gets into the cell. There are three different types of mechanisms by which this is achieved:
 
 ### Direct Injection/insertion
 - Insert genome through the bi-layer
