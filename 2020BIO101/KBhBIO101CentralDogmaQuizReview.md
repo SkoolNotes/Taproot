@@ -23,5 +23,10 @@ Raw review sheet content: [[KBhBIO101HumanDiseases]]
 ### Human Diseases w.r.t viruses
 - Diseases overview [[KBhBIO101Diseases]] & [[KBhBIO101BacterialInfections]]
 - Viruses Index [[KBhBIO101Viruses]]
-	- [[KBhBIO101
+	- [[KBhBIO101ViralInfection]], which is a process that includes
+		- [[KBhBIO101ViralAttachment]] 
+		- [[KBhBIO101ViralEntry]] + [[KBhBIO101ViralUncoating]]	
+		- [[KBhBIO101ViralReplication]] and
+		- [[KBhBIO101ViralExit]]
+	- [[KBhBIO101Retroviruses]] are no fun, because they borg the host cell
 	

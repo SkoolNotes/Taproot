@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5496)}}    % original
-%\rhead{\textrmlf{Compiled }\#5496\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5496\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5497)}}    % original
+%\rhead{\textrmlf{Compiled }\#5497\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5497\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -219,7 +219,24 @@ viruses}\label{human-diseases-w.r.t-viruses}}
   \begin{itemize}
   \tightlist
   \item
-    {[}{[}KBhBIO101
+    {[}{[}KBhBIO101ViralInfection{]}{]}, which is a process that
+    includes
+
+    \begin{itemize}
+    \tightlist
+    \item
+      {[}{[}KBhBIO101ViralAttachment{]}{]}
+    \item
+      {[}{[}KBhBIO101ViralEntry{]}{]} +
+      {[}{[}KBhBIO101ViralUncoating{]}{]}
+    \item
+      {[}{[}KBhBIO101ViralReplication{]}{]} and
+    \item
+      {[}{[}KBhBIO101ViralExit{]}{]}
+    \end{itemize}
+  \item
+    {[}{[}KBhBIO101Retroviruses{]}{]} are no fun, because they borg the
+    host cell
   \end{itemize}
 \end{itemize}
 
