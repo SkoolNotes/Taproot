@@ -45,6 +45,8 @@ How do we make nucleic acids? Can you guess? Huh? **Dehydration synthesis!**
  
  Temp copies of genome is RNA, permanent record in DNA
  
+Throughout these chapters, the word "sense"/+/+ss/coding etc. is used. These terms are all identifiers of the strand of RNA/DNA that is being talked about due to the fact that these nucleic acids are 
+ 
  ## The Central Dogma
  The process of the central dogma is a rough path by which DNA is converted into Proteins. This helps us understand how proteins are made in a cell, and also how viruses could hijack this process to make themselves.
  

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5360)}}    % original
-%\rhead{\textrmlf{Compiled }\#5360\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5360\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5432)}}    % original
+%\rhead{\textrmlf{Compiled }\#5432\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5432\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -264,6 +264,10 @@ synthesis!}
 \end{itemize}
 
 Temp copies of genome is RNA, permanent record in DNA
+
+Throughout these chapters, the word ``sense''/+/+ss/coding etc. is used.
+These terms are all identifiers of the strand of RNA/DNA that is being
+talked about due to the fact that these nucleic acids are
 
 \#\# The Central Dogma The process of the central dogma is a rough path
 by which DNA is converted into Proteins. This helps us understand how
