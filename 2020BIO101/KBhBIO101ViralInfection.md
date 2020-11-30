@@ -97,10 +97,10 @@ Depends on what [[KBhBIO101SenseAndAntisense]] the viral RNA is, there are diffe
 
 Instead of waiting for the RNA-dependent-RNA polymerease of the cell, viruses sometimes decide to just bring-your-own-polymerease to catalyze this process.
 
-### Packaging
+## Packaging
 "Viral self-assembly" — make the protein, and, without ATP, just seal the newly-formed virus DNA in.
 
-### Viral Exit
+## Viral Exit
 
 **Lysis**
 
