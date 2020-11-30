@@ -84,8 +84,7 @@ Except! Poxvirade viruses carry their own polymerase, so they replicate in the c
 *How are viral mRNAs produced from the viral genome?*
 
 - If the virus is carrying +Strand RNA, they do not need to produce anything because that is directly translatable by the host ribosomes
-- If the virus is carrying -Strang RNA (which is useless by itselv
-- Viruses trigger the process of RNA replication either using their own RNA-dependent RNA polymerease or using that of the host cells
+- If the virus is carrying -Strang RNA (which is useless by itself, making it harder to detect), they would trigger the process of RNA replication either using their own RNA-dependent RNA polymerease or using that of the host cells
 
 #### Packaging
 

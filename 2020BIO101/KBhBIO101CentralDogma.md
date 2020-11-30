@@ -17,6 +17,8 @@ We know a little bit more about central dogma now, and now have more concise ope
 * **RNA Polymerease** takes DNA and makes mRNA
 	* Have lower fidelity with an error about 1/100,000
 	* Hence why safety mechanism needed
+	
+Throughout these articles we 
 
 ## Protein Synthesis
 See [[KBhBIO101ProteinSynthesis]]
