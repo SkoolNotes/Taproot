@@ -12,7 +12,6 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 
 
 ### Retroviruses + How to Stop Them
-**Viruses that have the ability to intergrate into the chromosomes of the host cell**
 
 #### Early Events
 

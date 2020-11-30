@@ -41,4 +41,6 @@ Viruses modulate themselves, which make them particularly hard to deal with as t
 There are two ways by which this happens — genetic Shift and Genetic Drift. See [[KBhBIO101ViralGeneticModulation]]
 
 ## Retroviruses
-Viruses are special types of viruses that not only infect people, but also hijack cell DNA by inserting their own genetic code into them. They are particularly terrible because they cause the infected cell and its offsprings to inadventantly create more copies of the virus slowly as 
+Viruses are special types of viruses that not only infect people, but also hijack cell DNA by inserting their own genetic code into them. They are particularly terrible because they cause the infected cell and its offsprings to inadventantly create more copies of the virus slowly as daily [[KBhBIO101CentralDogma]] happens.
+
+See [[KBhBIO101Retroviruses]]

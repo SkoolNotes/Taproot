@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Viruses }
+\newcommand{\thelesson}{ Retroviruses }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -165,87 +165,12 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBhBIO101Diseases}{\tiny\textulf{[[}\textbf{KBhBIO101Diseases}\textulf{]]}}}\thinspace
-
-\hypertarget{viruses}{%
-\section{Viruses}\label{viruses}}
-
-\definition{Viruses}{Acellular Macromolecular Assemblies}
-
-Viruses\ldots{}
-
-\begin{itemize}
-\tightlist
-\item
-  \ldots contain protein coat called \textbf{capsid}
-\item
-  \ldots use DNA or RNA, but not both
-\item
-  \ldots are obligate parasites that could only replicate within host
-\end{itemize}
-
-Assembled and mature viral particles =\textgreater{} \textbf{virions}.
-They usually have three different parts
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  Capsid --- the protein coat
-\item
-  Genetic material --- what they are transmitting/replicating
-\item
-  Occationally outside lipid layer
-\end{enumerate}
-
-=\textgreater{} Viruses exist on the nanometre scale, but they are
-difference in share and size
-
-\hypertarget{structure-of-viruses}{%
-\subsection{Structure of Viruses}\label{structure-of-viruses}}
-
-See {[}{[}KBhBIO101StructureOfViruses{]}{]}
-
-\hypertarget{types-of-viruses}{%
-\subsection{Types of Viruses}\label{types-of-viruses}}
-
-Two types of viruses: the prokaryote-frequenting \textbf{DNA viruses}
-which replicates themselves using DNA and the eukaryote-frequenting
-\textbf{RNA viruses} which replicates themselves using RNA.
-
-See {[}{[}KBhBIO101TypesOfViruses{]}{]}
-
-\hypertarget{virus-lifecycle-infectivity}{%
-\subsection{Virus Lifecycle +
-Infectivity}\label{virus-lifecycle-infectivity}}
-
-How do viruses infect people? Basically, they come into your body,
-hijack the {[}{[}KBhBIO101CentralDogma{]}{]} system of your body, and
-leverage it to create more copies of itself.
-
-To see more about this, head on over to
-{[}{[}KBhBIO101ViralInfection{]}{]}. This is important and cool.
-
-\hypertarget{viral-genetic-shift-viral-genetic-drift}{%
-\subsection{Viral Genetic Shift + Viral Genetic
-Drift}\label{viral-genetic-shift-viral-genetic-drift}}
-
-Viruses modulate themselves, which make them particularly hard to deal
-with as their DNA may change every so often to the bewilderment of the
-immune system.
-
-There are two ways by which this happens --- genetic Shift and Genetic
-Drift. See {[}{[}KBhBIO101ViralGeneticModulation{]}{]}
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101Viruses}{\tiny\textulf{[[}\textbf{KBhBIO101Viruses}\textulf{]]}}}\thinspace
 
 \hypertarget{retroviruses}{%
-\subsection{Retroviruses}\label{retroviruses}}
+\section{Retroviruses}\label{retroviruses}}
 
-Viruses are special types of viruses that not only infect people, but
-also hijack cell DNA by inserting their own genetic code into them. They
-are particularly terrible because they cause the infected cell and its
-offsprings to inadventantly create more copies of the virus slowly as
-daily {[}{[}KBhBIO101CentralDogma{]}{]} happens.
-
-See {[}{[}KBhBIO101Retroviruses{]}{]}
+\textbf{Viruses that have the ability to intergrate into the chromosomes
+of the host cell}
 
 \end{document}
