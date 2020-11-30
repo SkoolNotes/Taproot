@@ -18,19 +18,16 @@ course: BIO101
 6.  **Viral Exit** => mature virons leave
 
 ## Viral Entry
-*Option 1: Direct Injection/insertion*
-
+### Direct Injection/insertion
 - Insert genome through the bi-layer
 - Leave the rest behind
 
-*Option 2: Endocytosis*
-
+### Endocytosis
 - Trick the host cell into introducing the virus as food
 - Endocytosis!
 - Bam
 
-*Option 3: Fusion*
- 
+### Fusion
  - Virus fuse with cell membrane
  - Shed the protein coat once in
  - Shazam!

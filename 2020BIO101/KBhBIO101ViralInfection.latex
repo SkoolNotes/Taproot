@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5412)}}    % original
-%\rhead{\textrmlf{Compiled }\#5412\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5412\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5413)}}    % original
+%\rhead{\textrmlf{Compiled }\#5413\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5413\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -207,7 +207,9 @@ Overview}\label{viral-life-cycle-an-overview}}
 \hypertarget{viral-entry}{%
 \subsection{Viral Entry}\label{viral-entry}}
 
-\emph{Option 1: Direct Injection/insertion}
+\hypertarget{direct-injectioninsertion}{%
+\subsubsection{Direct
+Injection/insertion}\label{direct-injectioninsertion}}
 
 \begin{itemize}
 \tightlist
@@ -217,7 +219,8 @@ Overview}\label{viral-life-cycle-an-overview}}
   Leave the rest behind
 \end{itemize}
 
-\emph{Option 2: Endocytosis}
+\hypertarget{endocytosis}{%
+\subsubsection{Endocytosis}\label{endocytosis}}
 
 \begin{itemize}
 \tightlist
@@ -229,7 +232,8 @@ Overview}\label{viral-life-cycle-an-overview}}
   Bam
 \end{itemize}
 
-\emph{Option 3: Fusion}
+\hypertarget{fusion}{%
+\subsubsection{Fusion}\label{fusion}}
 
 \begin{itemize}
 \tightlist
