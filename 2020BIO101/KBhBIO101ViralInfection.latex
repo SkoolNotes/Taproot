@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5421)}}    % original
-%\rhead{\textrmlf{Compiled }\#5421\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5421\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5422)}}    % original
+%\rhead{\textrmlf{Compiled }\#5422\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5422\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -292,9 +292,11 @@ which\ldots{}
 \end{itemize}
 
 \hypertarget{viral-replication}{%
-\paragraph{Viral Replication}\label{viral-replication}}
+\subsection{Viral Replication}\label{viral-replication}}
 
-Key questions:
+Now, with the viruses's DNA out on full display inside the cell, how do
+we make another virus? There are two key questions that must be asked to
+answer this:
 
 \begin{itemize}
 \tightlist
