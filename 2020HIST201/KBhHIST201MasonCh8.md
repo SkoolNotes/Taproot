@@ -73,7 +73,11 @@ course: HIST201
 	- Archeology/Paleotogy/Museums/Science
 		- 1812 — establishment of the Elgin marbles from Greece 
 		- 1829 — Institute for Archeologoical Correspodence: create the basis of first organized science
+		- 1830 — Establishment and justification of racial divide w.r.t. "self study" and "scientific exploration"
 		- 1859 — Darwin (about here is where scientific racism started, ala "development of men")
 		- 1898 — cell theory
 		- 1840 — dinasoures!
+		- 1864 — establishment of the concept of the Eugenics and the process of forced sterialization
 		- 1869 — the Periodic tables
+		
+"The White-Man's Burden" — the idea that the white man is racially superior and should go into the "less developed" region and bring the people into civilization
