@@ -12,17 +12,6 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 
 
 
-**Preventing Retroviruses**
-
-
-
-![stophiv.png](stophiv.png)
-
-* Most advanced: HAART (Highly-Active Anti-Retroviral Therapy)
-	- Cocktail drug works together for inhibition
-	- Two drugs to stop intergration, one to stop protease (viron maturation)
-	- Could develop resistance
-
 ### Viral Genome vs Mutation Rate
 
 ![Screen Shot 2020-10-12 at 11.24.39 PM.png](Screen Shot 2020-10-12 at 11.24.39 PM.png)

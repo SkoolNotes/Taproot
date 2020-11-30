@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5472)}}    % original
-%\rhead{\textrmlf{Compiled }\#5472\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5472\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5473)}}    % original
+%\rhead{\textrmlf{Compiled }\#5473\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5473\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -248,5 +248,41 @@ To make these activities happen, the virus needs two enzymes ---
 
 There are a few different drugs that prevent a few different steps of
 the retroviral infection process
+
+\begin{itemize}
+\tightlist
+\item
+  Prevent {[}{[}KBhBIO101ViralEntry{]}{]} \texttt{gp120}, \texttt{gp41},
+  \texttt{CCR5}
+\item
+  Prevent reverse transcription --- turn viral ssRNA to dsDNA
+  \texttt{RT}
+\item
+  Prevent intergration via \textbf{intergrease} \texttt{IN}
+\item
+  Prevent viron maturation (namely, \textbf{protease} function)
+  \texttt{PR}
+\end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{stophiv.png}
+\caption{stophiv.png}
+\end{figure}
+
+Most advanced treatment: HAART (Highly-Active Anti-Retroviral Therapy)
+
+\begin{itemize}
+\tightlist
+\item
+  Cocktail drug works together for inhibition
+\item
+  Two drugs to stop intergration, one to stop protease (viron
+  maturation)
+\item
+  Could develop resistance
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}

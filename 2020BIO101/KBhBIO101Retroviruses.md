@@ -38,8 +38,16 @@ To make these activities happen, the virus needs two enzymes — **Reverse Trans
 ## Preventing Retroviruses
 There are a few different drugs that prevent a few different steps of the retroviral infection process
 
-* Prevent [[KBhBIO101ViralEntry]], n`gp120`, `gp41`, `CCR5`
-* Prevent reverse transcription `RT`
-* Prevent intergration via intergrease `IN`
-* Prevent viron maturation `PR`
+* Prevent [[KBhBIO101ViralEntry]] `gp120`, `gp41`, `CCR5`
+* Prevent reverse transcription — turn viral ssRNA to dsDNA  `RT`
+* Prevent intergration via **intergrease** `IN`
+* Prevent viron maturation (namely, **protease** function) `PR`
+
+![stophiv.png](stophiv.png)
+
+Most advanced treatment: HAART (Highly-Active Anti-Retroviral Therapy)
+
+- Cocktail drug works together for inhibition
+- Two drugs to stop intergration, one to stop protease (viron maturation)
+- Could develop resistance
 
