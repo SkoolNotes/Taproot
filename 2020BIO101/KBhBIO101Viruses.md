@@ -44,3 +44,5 @@ There are two ways by which this happens — genetic Shift and Genetic Drift. Se
 Viruses are special types of viruses that not only infect people, but also hijack cell DNA by inserting their own genetic code into them. They are particularly terrible because they cause the infected cell and its offsprings to inadventantly create more copies of the virus slowly as daily [[KBhBIO101CentralDogma]] happens.
 
 See [[KBhBIO101Retroviruses]]
+
+## D

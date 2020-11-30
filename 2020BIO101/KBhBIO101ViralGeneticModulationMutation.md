@@ -11,12 +11,10 @@ course: BIO101
 Whole segments of genome exchange abruptly as two flu viruses infect the same cell to create a new strand.  There are two mechnisms by which happens — ( #ASK ) the **crossing-over mechnism** and **genome segment reassortment** 
 
 ### Crossing-over 
-Self-mixing of ozaki fragments during viral recombination in the [[KBhBIO101DNAReplication]] process cause sudden mutations.
+Self-mixing of ozaki fragments during viral recombination in the [[KBhBIO101DNAReplication]] process cause sudden mutations
 
-### genome segment reassortment
-(I think that's where two viruses coinfect the same cell, causing cross-talk in swapping segments)
-
-<!--In this case, Viruses recombinate by crossing-over mechanism (remember how [[KBhBIO101Retroviruses]] HIV need protease to cut parts? when that shuffles) or genome segment reassortment (two viruses cross-talk by infecting the same host cell). Think! the flu-->
+### Genome Segment Reassortment
+Two viruses coinfect the same cell, causing cross-talk in swapping segments
 
 ## Genetic Drift
 This usually occurs due an error in a polymerase-driven process, where single/groups of nucleotides flip slowly over time due to mistakes in [[KBhBIO101RNAReplication]].
