@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5438)}}    % original
-%\rhead{\textrmlf{Compiled }\#5438\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5438\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5439)}}    % original
+%\rhead{\textrmlf{Compiled }\#5439\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5439\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -289,6 +289,13 @@ DNA Sense/Coding/Nontemplate Strand\strut
 \end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
 The complement to the template strand + what is being used (bar urisil)
 in RNA form to perform protein synthesis\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+RNA 3'\ldots5'\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+mRNA Sense\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\strut
 \end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
