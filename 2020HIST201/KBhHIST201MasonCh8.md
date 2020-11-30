@@ -62,6 +62,18 @@ course: HIST201
 	- Hand Cutting! A mechnasism to meet the quota of cartridge use and as a a mechanism of defense
 	
 - IR Caused science and tech advancements
-	- Steel + the steam engine => the core driver of technology
-		- Think! The Effel tower: the celebration of the 1889 world's fair.
-	
+	- Steel + the steam engine => the core driver of technology - Think! The Effel tower: the celebration of the 1889 world's fair to create a celebration of steel
+	- The telegraph — communication across continents => Post office would be delivered as part of the mail
+	- Standardized oil and the natural rubber
+	- 1870s-1876 — electricity and the telephone: enabled real-time communication
+	- 1884 — Standardization of time, and created the official prime meridian at Greenwitch
+	- American timezones was messy and city-based, which was later standardized
+	- Rhodisia
+		- Connected telegraph between two different regions — cape town to chairo
+	- Archeology/Paleotogy/Museums/Science
+		- 1812 — establishment of the Elgin marbles from Greece 
+		- 1829 — Institute for Archeologoical Correspodence: create the basis of first organized science
+		- 1859 — Darwin (about here is where scientific racism started, ala "development of men")
+		- 1898 — cell theory
+		- 1840 — dinasoures!
+		- 1869 — the Periodic tables
