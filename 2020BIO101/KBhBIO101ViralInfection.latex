@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5429)}}    % original
-%\rhead{\textrmlf{Compiled }\#5429\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5429\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5430)}}    % original
+%\rhead{\textrmlf{Compiled }\#5430\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5430\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -359,9 +359,13 @@ in the cytoplasm by simply entering and releasing the polymerease.
 \begin{itemize}
 \tightlist
 \item
+  If the virus is carrying +Strand RNA, they do not need to produce
+  anything because that is directly translatable by the host ribosomes
+\item
+  If the virus is carrying -Strang RNA (which is useless by itselv
+\item
   Viruses trigger the process of RNA replication either using their own
   RNA-dependent RNA polymerease or using that of the host cells
-\item
 \end{itemize}
 
 \hypertarget{packaging}{%
