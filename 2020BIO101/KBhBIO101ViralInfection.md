@@ -32,12 +32,6 @@ See [[KBhBIO101ViralEntry]]
 After the virus enters the cell, the lipid/protein shell on the outside must be shred to be able to release the additional DNA inside.
 
 See [[KBhBIO101ViralUncoating]]
-To achieve this, the virus triggers *early endosome* in the cell, which...
-
-* Causes pH dependent protein denaturation
-* Causing the capsid to fall apart
-* Triggering *late endosome* => releasing genome
-
 
 ## Viral Replication
 Now, with the viruses's DNA out on full display inside the cell, how do we make another virus? There are two key questions that must be asked to answer this:

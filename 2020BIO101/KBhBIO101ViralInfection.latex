@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5453)}}    % original
-%\rhead{\textrmlf{Compiled }\#5453\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5453\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5455)}}    % original
+%\rhead{\textrmlf{Compiled }\#5455\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5455\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -223,62 +223,13 @@ achieved.
 
 See {[}{[}KBhBIO101ViralEntry{]}{]}
 
-\hypertarget{direct-injectioninsertion}{%
-\subsubsection{Direct
-Injection/insertion}\label{direct-injectioninsertion}}
-
-\begin{itemize}
-\tightlist
-\item
-  Insert genome through the bi-layer
-\item
-  Leave the rest behind
-\end{itemize}
-
-\hypertarget{endocytosis}{%
-\subsubsection{Endocytosis}\label{endocytosis}}
-
-\begin{itemize}
-\tightlist
-\item
-  Trick the host cell into introducing the virus as food
-\item
-  Endocytosis!
-\item
-  Bam
-\end{itemize}
-
-\hypertarget{fusion}{%
-\subsubsection{Fusion}\label{fusion}}
-
-\begin{itemize}
-\tightlist
-\item
-  Virus fuse with cell membrane
-\item
-  Shed the protein coat once in
-\item
-  Shazam!
-\end{itemize}
-
 \hypertarget{uncoating}{%
 \subsection{Uncoating}\label{uncoating}}
 
 After the virus enters the cell, the lipid/protein shell on the outside
 must be shred to be able to release the additional DNA inside.
 
-To achieve this, the virus triggers \emph{early endosome} in the cell,
-which\ldots{}
-
-\begin{itemize}
-\tightlist
-\item
-  Causes pH dependent protein denaturation
-\item
-  Causing the capsid to fall apart
-\item
-  Triggering \emph{late endosome} =\textgreater{} releasing genome
-\end{itemize}
+See {[}{[}KBhBIO101ViralUncoating{]}{]}
 
 \hypertarget{viral-replication}{%
 \subsection{Viral Replication}\label{viral-replication}}
