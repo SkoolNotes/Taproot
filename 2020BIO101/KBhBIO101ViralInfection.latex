@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5408)}}    % original
-%\rhead{\textrmlf{Compiled }\#5408\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5408\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5409)}}    % original
+%\rhead{\textrmlf{Compiled }\#5409\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5409\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -191,17 +191,20 @@ Overview}\label{viral-life-cycle-an-overview}}
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
-    \textbf{Genome Replication}: transcribe DNA/RNA
+    Genome Replication: transcribe DNA/RNA
   \item
     Genome Expression: read DNA/RNA to make proteins
   \end{enumerate}
 \item
-  Viral genome integration =\textgreater{} retrovirus only
+  \textbf{Genome integration} =\textgreater{} retrovirus only --- put
+  the viral gene into the genetic sequence of the actual cell
 \item
-  Assembly =\textgreater{} put it all togethr
+  \textbf{Assembly} =\textgreater{} put it all togethr
 \item
-  Viral Exit =\textgreater{} mature virons leave
+  \textbf{Viral Exit} =\textgreater{} mature virons leave
 \end{enumerate}
+
+this is an rgb keyboarnd b
 
 \hypertarget{viral-entry}{%
 \paragraph{Viral Entry}\label{viral-entry}}

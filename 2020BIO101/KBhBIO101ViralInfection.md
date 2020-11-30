@@ -11,11 +11,13 @@ course: BIO101
 1. **Attachment** => protein contact between virus and host
 2. **Viral entry/Uncoating** => shedding the protein layer
 3. **Biosynthesis** => make baby viruses
-	1. **Genome Replication**: transcribe DNA/RNA
+	1. Genome Replication: transcribe DNA/RNA
 	2. Genome Expression: read DNA/RNA to make proteins
-4.  Viral genome integration => retrovirus only
-5.  Assembly => put it all togethr
-6.  Viral Exit => mature virons leave
+4.  **Genome integration** => retrovirus only — put the viral gene into the genetic sequence of the actual cell
+5.  **Assembly** => put it all togethr
+6.  **Viral Exit** => mature virons leave
+
+this is an rgb keyboarnd b
 
 #### Viral Entry
 
