@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5474)}}    % original
-%\rhead{\textrmlf{Compiled }\#5474\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5474\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5475)}}    % original
+%\rhead{\textrmlf{Compiled }\#5475\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5475\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -171,16 +171,18 @@
 \section{Viral Genetic Mutations}\label{viral-genetic-mutations}}
 
 \hypertarget{genetic-shift}{%
-\subsection{Genetic SHift}\label{genetic-shift}}
+\subsection{Genetic Shift}\label{genetic-shift}}
 
 Whole segments of genome exchange abruptly as two flu viruses infect the
-same cell to create a new strand.
+same cell to create a new strand. This usually occurs due an error in a
+polymerase-driven process.
 
 \hypertarget{genetic-drift}{%
 \subsection{Genetic Drift}\label{genetic-drift}}
 
 Single/groups of nucleotides flip slowly over time due to mistakes in
-{[}{[}KBhBIO101RNAReplication{]}{]}.
+{[}{[}KBhBIO101RNAReplication{]}{]}. Viruses recombinate without or
+genome segment reassortment. Think! the flu
 
 The former is an environment-dependent process, where the latter is able
 to be modeled as it is due to transcription mistake.
@@ -202,7 +204,7 @@ to be modeled as it is due to transcription mistake.
 \item
   \textbf{RNA viruses} could mutate more because it does not have checks
 \item
-  \textbf{More complex+largest viruses} (DNA viruses harder to mutate
+  \textbf{More complex+largest viruses} (DNA viruses) harder to mutate
 \end{itemize}
 
 \end{document}
