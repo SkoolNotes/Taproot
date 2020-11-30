@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5502)}}    % original
-%\rhead{\textrmlf{Compiled }\#5502\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5502\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5503)}}    % original
+%\rhead{\textrmlf{Compiled }\#5503\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5503\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -178,6 +178,10 @@
   Prenav --- software engineering for drone technology
 \item
   The Hive --- creative studio for MI/AI projects
+\item
+  The Yes --- ML/AI but for the fashion industry
+\item
+  The Atticus Project --- Legal AI project
 \end{itemize}
 
 \end{document}
