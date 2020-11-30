@@ -24,21 +24,9 @@ To be able to enter a cell, viruses have to do something to stick to it. B/c oth
 See [[KBhBIO101ViralAttachment]]
 
 ## Viral Entry
-In this step, the sticky virus on the surface of the cell gets into the cell. There are three different types of mechanisms by which this is achieved:
+In this step, the sticky virus on the surface of the cell gets into the cell. There are three different types of mechanisms by which this is achieved.
 
-### Direct Injection/insertion
-- Insert genome through the bi-layer
-- Leave the rest behind
-
-### Endocytosis
-- Trick the host cell into introducing the virus as food
-- Endocytosis!
-- Bam
-
-### Fusion
- - Virus fuse with cell membrane
- - Shed the protein coat once in
- - Shazam!
+See [[KBhBIO101ViralEntry]]
 
 ## Uncoating
 After the virus enters the cell, the lipid/protein shell on the outside must be shred to be able to release the additional DNA inside.
