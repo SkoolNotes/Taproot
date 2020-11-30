@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5489)}}    % original
-%\rhead{\textrmlf{Compiled }\#5489\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5489\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5491)}}    % original
+%\rhead{\textrmlf{Compiled }\#5491\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5491\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -176,36 +176,8 @@ are here}
 
 \#flo \#disorganized
 
-\hypertarget{preventing-viruses}{%
-\subsection{Preventing Viruses}\label{preventing-viruses}}
-
-Let's talk about \textbf{Remdesivir}! A drug developed by Pfizer that's
-used to combat Ebola + influenza viral replication.
-
-Modified nucleotide triphosphate which adds onto the RNA strand copied
-by the RNA-Dependent RNA Polymerase carried by viruses
-
 \begin{itemize}
 \tightlist
-\item
-  Pretends + gets inserted as a nucleotide
-\item
-  Once added onto the RNA chain, jams further actual nucleotides from
-  being inserted
-\end{itemize}
-
-\emph{Could} but usually does not jam up normal RNA polymerase which
-does normal transcription
-
-\begin{itemize}
-\item
-  Inhibiting transcription in the short term won't kill you immediately
-\item
-  So, we hurt normal cell transcription a little in order to rid of the
-  virus
-\item
-  Need hospital treatment for regular and safe dosing for this exact
-  reason
 \item
   Viral proteins are usually easy to assemble
 \end{itemize}
