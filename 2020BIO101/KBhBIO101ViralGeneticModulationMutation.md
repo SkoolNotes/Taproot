@@ -11,7 +11,7 @@ course: BIO101
 Whole segments of genome exchange abruptly as two flu viruses infect the same cell to create a new strand. This usually occurs due an error in a polymerase-driven process.
 
 ## Genetic Drift
-Single/groups of nucleotides flip slowly over time due to mistakes in [[KBhBIO101RNAReplication]]. Viruses recombinate by crossing-over mechanism (two viruses cross-talk by infecting the same host cell) or genome segment reassortment (remember how [[KBhBIO101Retroviruses]] HIV need protease to cut parts? when that shuffles). Think! the flu
+Single/groups of nucleotides flip slowly over time due to mistakes in [[KBhBIO101RNAReplication]]. Viruses recombinate by crossing-over mechanism (remember how [[KBhBIO101Retroviruses]] HIV need protease to cut parts? when that shuffles) or genome segment reassortment (two viruses cross-talk by infecting the same host cell). Think! the flu
 
 The former is an environment-dependent process, where the latter is able to be modeled as it is due to transcription mistake.
 
