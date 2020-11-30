@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5492)}}    % original
-%\rhead{\textrmlf{Compiled }\#5492\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5492\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5493)}}    % original
+%\rhead{\textrmlf{Compiled }\#5493\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5493\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -199,9 +199,5 @@ are here}
 \item
   What serves as the template to make new virus copies
 \end{itemize}
-
-\textbf{DNA} viruses are ``less complex'', in that as long as they are
-able to get into the nucleaus, the rest would just be the body's work
-automatically.
 
 \end{document}

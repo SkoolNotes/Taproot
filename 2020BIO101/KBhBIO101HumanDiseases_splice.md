@@ -21,4 +21,3 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 * What serves as the template to make new virus copies
 
 
-**DNA** viruses are "less complex", in that as long as they are able to get into the nucleaus, the rest would just be the body's work automatically.

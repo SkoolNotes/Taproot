@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5424)}}    % original
-%\rhead{\textrmlf{Compiled }\#5424\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5424\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5493)}}    % original
+%\rhead{\textrmlf{Compiled }\#5493\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5493\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -170,8 +170,12 @@
 \hypertarget{types-of-viruses}{%
 \section{Types of Viruses}\label{types-of-viruses}}
 
+\hypertarget{categorizing-based-on-infection-target}{%
+\subsection{Categorizing based on infection
+target}\label{categorizing-based-on-infection-target}}
+
 \hypertarget{prokarotic-infecting-viruses}{%
-\subsection{Prokarotic infecting
+\subsubsection{Prokarotic infecting
 viruses}\label{prokarotic-infecting-viruses}}
 
 \begin{itemize}
@@ -189,7 +193,7 @@ viruses}\label{prokarotic-infecting-viruses}}
 \end{itemize}
 
 \hypertarget{eukarotic-infecting-viruses}{%
-\subsection{Eukarotic infecting
+\subsubsection{Eukarotic infecting
 viruses}\label{eukarotic-infecting-viruses}}
 
 \begin{itemize}
@@ -208,6 +212,25 @@ viruses}\label{eukarotic-infecting-viruses}}
   creates the whole of the virus
 \item
   Usually transmits using the RNA
+\end{itemize}
+
+\hypertarget{categorizing-based-on-genetic-code}{%
+\subsection{Categorizing based on genetic
+code}\label{categorizing-based-on-genetic-code}}
+
+\hypertarget{dna-viruses}{%
+\subsubsection{DNA Viruses}\label{dna-viruses}}
+
+\begin{itemize}
+\tightlist
+\item
+  ``Legacy support'' viruses
+\item
+  \textbf{DNA} viruses are ``less complex'', in that as long as they are
+  able to get into the nucleaus, the rest would just be the body's work
+  automatically.
+\item
+  They are c
 \end{itemize}
 
 RNA viruses are considered to be the ``next-gen'' viruses because they
