@@ -9,4 +9,5 @@ course: Interships
 * Prenav — software engineering for drone technology
 * The Hive — creative studio for MI/AI projects
 * The Yes — ML/AI but for the fashion industry
-* The Atticus Project — Legal AI project
+* The Atticus Project — Legal AI project speball@nuevaschool.org
+* 
