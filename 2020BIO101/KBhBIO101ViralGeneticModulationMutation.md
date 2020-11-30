@@ -13,7 +13,8 @@ Whole segments of genome exchange abruptly as two flu viruses infect the same ce
 ### Crossing-over 
 Self-mixing of #ask #ask #ask of either polyprotein sections or ozaki fragments (I think the latter) 
 
-### genome segment reassortment** (I think that's where two viruses coinfect the same cell, causing cross-talk in swapping segments)
+### genome segment reassortment
+(I think that's where two viruses coinfect the same cell, causing cross-talk in swapping segments)
 
 <!--In this case, Viruses recombinate by crossing-over mechanism (remember how [[KBhBIO101Retroviruses]] HIV need protease to cut parts? when that shuffles) or genome segment reassortment (two viruses cross-talk by infecting the same host cell). Think! the flu-->
 

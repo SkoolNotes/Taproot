@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5483)}}    % original
-%\rhead{\textrmlf{Compiled }\#5483\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5483\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5484)}}    % original
+%\rhead{\textrmlf{Compiled }\#5484\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5484\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,10 +175,21 @@
 
 Whole segments of genome exchange abruptly as two flu viruses infect the
 same cell to create a new strand. There are two mechnisms by which
-happens --- ( \#ASK ) the \textbf{crossing-over mechnism} (self-mixing
-of polyprotein sections or ozaki fragments? I think the latter) and
-\textbf{genome segment reassortment} (I think that's where two viruses
-coinfect the same cell, causing cross-talk in swapping segments)
+happens --- ( \#ASK ) the \textbf{crossing-over mechnism} and
+\textbf{genome segment reassortment}
+
+\hypertarget{crossing-over}{%
+\subsubsection{Crossing-over}\label{crossing-over}}
+
+Self-mixing of \#ask \#ask \#ask of either polyprotein sections or ozaki
+fragments (I think the latter)
+
+\hypertarget{genome-segment-reassortment}{%
+\subsubsection{genome segment
+reassortment}\label{genome-segment-reassortment}}
+
+(I think that's where two viruses coinfect the same cell, causing
+cross-talk in swapping segments)
 
 \hypertarget{genetic-drift}{%
 \subsection{Genetic Drift}\label{genetic-drift}}
