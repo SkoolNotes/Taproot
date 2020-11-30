@@ -21,12 +21,8 @@ course: BIO101
 ## Viral attachment
 To be able to enter a cell, viruses have to do something to stick to it. B/c otherwise they would just be stuck in the bloodstream and be very sod.
 
-Most viral attachment processes is done in two different steps:
+See [[KBhBIO101ViralAttachment]]
 
-1. Attachment: adhere roughly to random sugar proteins
-2. Binding: roll over slowly, and bind to the entry receptor it needs
-
-*Note! Both of these processes will require specific protein "spikes" that are specifically designed to stick to the host cell.* **This is what causes the organism-specific responses to viruses.**
 
 ## Viral Entry
 In this step, the sticky virus on the surface of the cell gets into the cell. There are three different types of mechanisms by which this is achieved:

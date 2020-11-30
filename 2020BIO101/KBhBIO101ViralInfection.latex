@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5448)}}    % original
-%\rhead{\textrmlf{Compiled }\#5448\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5448\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5449)}}    % original
+%\rhead{\textrmlf{Compiled }\#5449\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5449\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -212,20 +212,7 @@ To be able to enter a cell, viruses have to do something to stick to it.
 B/c otherwise they would just be stuck in the bloodstream and be very
 sod.
 
-Most viral attachment processes is done in two different steps:
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  Attachment: adhere roughly to random sugar proteins
-\item
-  Binding: roll over slowly, and bind to the entry receptor it needs
-\end{enumerate}
-
-\emph{Note! Both of these processes will require specific protein
-``spikes'' that are specifically designed to stick to the host cell.}
-\textbf{This is what causes the organism-specific responses to viruses.}
+See {[}{[}KBhBIO101ViralAttachment{]}{]}
 
 \hypertarget{viral-entry}{%
 \subsection{Viral Entry}\label{viral-entry}}
