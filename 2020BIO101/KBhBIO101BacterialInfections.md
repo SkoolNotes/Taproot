@@ -11,14 +11,11 @@ Induction of diseases via the entry of bacteria.
 * **Bacterial-induced toxicity** => produces toxins + has hard capsule cell
 * **Host-mediated factors** => may develop host resistance, could compete for resources, and could be grown introcellularly
 
-
-**Biofilm formation**
-
+## Biofilm formation
 - Communities of bacteria could work together by adhering and exchanging information
 - Bacterial could perform quorum sensing => exchange of information with each other + recognize various members of their group
 
-### Fighting bacterial infections
-
+## Fighting bacterial infections
 **Antibiotics** => drugs with selective toxicity for specific bacterial types
 
 Act by...
