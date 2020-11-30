@@ -11,8 +11,6 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 #flo #disorganized 
 
 
- 
-## Why are viruses bad
 
 Damage host cells/tissues by...
 

@@ -45,4 +45,6 @@ Viruses are special types of viruses that not only infect people, but also hijac
 
 See [[KBhBIO101Retroviruses]]
 
-## D
+## Viruses damaging host
+
+Viruses are terrible because they damage the infecte
