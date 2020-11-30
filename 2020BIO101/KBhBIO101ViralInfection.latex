@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5427)}}    % original
-%\rhead{\textrmlf{Compiled }\#5427\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5427\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5428)}}    % original
+%\rhead{\textrmlf{Compiled }\#5428\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5428\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -340,11 +340,11 @@ answer this:
   Viral genome copied repeatedly
 \item
   Virus, then, \textbf{will be replicated within the nucleus} due to it
-  needing the polymerase to copy DNA
+  needing the host polymerase to copy DNA
 \end{itemize}
 
-Except! Poxvirade carry their own polymerase, so they replicate in the
-cytoplasm.
+Except! Poxvirade viruses carry their own polymerase, so they replicate
+in the cytoplasm by simply entering and releasing the polymerease.
 
 \begin{figure}
 \centering
