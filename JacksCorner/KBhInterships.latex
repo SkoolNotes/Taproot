@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5507)}}    % original
-%\rhead{\textrmlf{Compiled }\#5507\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5507\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5508)}}    % original
+%\rhead{\textrmlf{Compiled }\#5508\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5508\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -181,11 +181,13 @@
 \item
   The Atticus Project --- Legal AI project speball@nuevaschool.org
 \item
+  Vestaboard --- a boogie show board for ecelebs
+\item
   Boosted reality --- some virtual realty thing ????
 \item
   Prenav --- software engineering for drone technology
 \item
-  Menlo Security ---
+  Menlo Security --- security profile
 \item
   The Yes --- ML/AI but for the fashion industry
 \end{itemize}

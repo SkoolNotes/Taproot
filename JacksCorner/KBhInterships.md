@@ -9,7 +9,8 @@ course: Interships
 * Dragonfruit AI — remote video analytics using AI
 * Mercari — probably not a thing this year but maybe not in terms of finances
 * The Atticus Project — Legal AI project speball@nuevaschool.org
+* Vestaboard — a boogie show board for ecelebs
 * Boosted reality — some virtual realty thing ????
 * Prenav — software engineering for drone technology
-* Menlo Security — 
+* Menlo Security — security profile
 * The Yes — ML/AI but for the fashion industry
