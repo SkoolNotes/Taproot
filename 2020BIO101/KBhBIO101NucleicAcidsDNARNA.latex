@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5436)}}    % original
-%\rhead{\textrmlf{Compiled }\#5436\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5436\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5437)}}    % original
+%\rhead{\textrmlf{Compiled }\#5437\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5437\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -287,7 +287,8 @@ DNA 5'\ldots3'\strut
 \end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
 DNA Sense/Coding/Nontemplate Strand\strut
 \end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
-The\strut
+The complement to the template strand + what is being used (bar
+urisil)\strut
 \end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
