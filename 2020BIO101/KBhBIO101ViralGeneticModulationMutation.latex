@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5482)}}    % original
-%\rhead{\textrmlf{Compiled }\#5482\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5482\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5483)}}    % original
+%\rhead{\textrmlf{Compiled }\#5483\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5483\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -184,11 +184,11 @@ coinfect the same cell, causing cross-talk in swapping segments)
 \subsection{Genetic Drift}\label{genetic-drift}}
 
 This usually occurs due an error in a polymerase-driven process, where
-Single/groups of nucleotides flip slowly over time due to mistakes in
+single/groups of nucleotides flip slowly over time due to mistakes in
 {[}{[}KBhBIO101RNAReplication{]}{]}.
 
 The former is an environment-dependent process, where the latter is able
-to be modeled as it is due to transcription mistake.
+to be modeled as it is due to predictable transcription mistake.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

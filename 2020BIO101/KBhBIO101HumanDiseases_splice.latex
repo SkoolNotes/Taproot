@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5477)}}    % original
-%\rhead{\textrmlf{Compiled }\#5477\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5477\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5483)}}    % original
+%\rhead{\textrmlf{Compiled }\#5483\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5483\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,15 +175,6 @@ A lecture by the Legendary Dr.~Paul Hauser.
 are here}
 
 \#flo \#disorganized
-
-\hypertarget{viral-genome-vs-mutation-rate}{%
-\subsubsection{Viral Genome vs Mutation
-Rate}\label{viral-genome-vs-mutation-rate}}
-
-\textbf{Genetic drift} --- viruses mutate due to polymerase error
-
-\textbf{Genetic shift} --- viruses recombinate without mutating by
-crossing-over mechanism or genome segment reassortment. Think! the flu
 
 \hypertarget{why-are-viruses-bad}{%
 \subsection{Why are viruses bad}\label{why-are-viruses-bad}}

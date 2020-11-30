@@ -11,15 +11,6 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 #flo #disorganized 
 
 
-
-### Viral Genome vs Mutation Rate
-
-
-
-**Genetic drift** — viruses mutate due to polymerase error
-
-**Genetic shift** — viruses recombinate without mutating by crossing-over mechanism or genome segment reassortment. Think! the flu
-
  
 ## Why are viruses bad
 
