@@ -20,7 +20,5 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 * Ribosomes become centrally important for the virus
 * What serves as the template to make new virus copies
 
-Viruses attempt to overwhelm the enzyme to entry.
-
 
 **DNA** viruses are "less complex", in that as long as they are able to get into the nucleaus, the rest would just be the body's work automatically.
