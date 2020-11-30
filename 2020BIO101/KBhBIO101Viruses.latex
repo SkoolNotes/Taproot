@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5488)}}    % original
-%\rhead{\textrmlf{Compiled }\#5488\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5488\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5489)}}    % original
+%\rhead{\textrmlf{Compiled }\#5489\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5489\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -248,7 +248,26 @@ daily {[}{[}KBhBIO101CentralDogma{]}{]} happens.
 
 See {[}{[}KBhBIO101Retroviruses{]}{]}
 
-\hypertarget{damages-that-viruses-do}{%
-\subsection{Damages that Viruses Do}\label{damages-that-viruses-do}}
+\hypertarget{viruses-damaging-host}{%
+\subsection{Viruses damaging host}\label{viruses-damaging-host}}
+
+Viruses are terrible because they damage the infected host
+cells/tissues, namely by\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  Reducing gene expression capacity (hogging up the
+  {[}{[}KBhBIO101CentralDogma{]}{]} channels to achieve higher
+\item
+  Depleting cellular resources (needing to transcribe a thing that eat
+  you)
+\item
+  Causing cell lysis (to explode, which is bad)
+\item
+  Promoting tumorigenisis --- cancer (damaging promoters, among others)
+\item
+  Creating damaging immunological response
+\end{itemize}
 
 \end{document}

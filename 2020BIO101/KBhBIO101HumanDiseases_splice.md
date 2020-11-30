@@ -12,14 +12,6 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 
 
 
-Damage host cells/tissues by...
-
-* Reducing gene expression capacity
-* Depleting cellular resources
-* Causing cell lysis (to explode)
-* Promoting tumorigenisis — cancer
-* Creating damaging immunological response
-
 ## Preventing Viruses
 
 Let's talk about **Remdesivir**! A drug developed by Pfizer that's used to combat Ebola + influenza viral replication.

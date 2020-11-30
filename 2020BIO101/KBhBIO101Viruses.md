@@ -46,5 +46,10 @@ Viruses are special types of viruses that not only infect people, but also hijac
 See [[KBhBIO101Retroviruses]]
 
 ## Viruses damaging host
+Viruses are terrible because they damage the infected host cells/tissues, namely by...
 
-Viruses are terrible because they damage the infecte
+* Reducing gene expression capacity (hogging up the [[KBhBIO101CentralDogma]] channels to achieve higher 
+* Depleting cellular resources (needing to transcribe a thing that eat you)
+* Causing cell lysis (to explode, which is bad) 
+* Promoting tumorigenisis — cancer (damaging promoters, among others)
+* Creating damaging immunological response
