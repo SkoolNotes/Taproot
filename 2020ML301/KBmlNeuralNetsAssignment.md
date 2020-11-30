@@ -11,7 +11,7 @@ source:  #index
 
 
 
-# Opt 3 
+# Opt 3 + 
 Looked at the [Convolutional Neural Network Notebook](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/convolutional_neural_networks.ipynb)
 
 - What type of data are they using?
