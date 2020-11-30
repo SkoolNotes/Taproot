@@ -11,9 +11,6 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 #flo #disorganized 
 
 
-	
-
-=> Viruses exist on the nanometre scale, but they are difference in share and size
 
 ### Structure of viruses
 * **All contain**

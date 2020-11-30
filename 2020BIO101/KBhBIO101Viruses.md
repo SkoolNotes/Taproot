@@ -20,3 +20,7 @@ Assembled and mature viral particles => virions. They usually have three differe
 2. Genetic material — what they are transmitting/replicating
 3. Occationally outside lipid layer 
 
+=> Viruses exist on the nanometre scale, but they are difference in share and size
+
+## Structure of Vircuses
+
