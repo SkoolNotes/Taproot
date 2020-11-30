@@ -20,6 +20,6 @@ course: BIO101
 * Often single patterns assemble together to create symmetric shape that creates the whole of the virus 
 * Usually transmits using the RNA
 
-RNA viruses are considered to
+RNA viruses are considered to be the "next-gen" viruses because they infect much more easily as they do not require the process of transcription.
 
 

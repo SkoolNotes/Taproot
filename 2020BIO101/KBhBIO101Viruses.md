@@ -26,6 +26,8 @@ Assembled and mature viral particles => **virions**. They usually have three dif
 See [[KBhBIO101StructureOfViruses]]
 
 ## Types of Viruses
+Two types of viruses: the Prokaryote-heavy **DNA viruses** and 
+
 See [[KBhBIO101TypesOfViruses]]
 
 ## Virus Lifecycle + Infectivity

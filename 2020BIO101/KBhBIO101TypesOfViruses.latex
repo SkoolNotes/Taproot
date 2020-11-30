@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5423)}}    % original
-%\rhead{\textrmlf{Compiled }\#5423\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5423\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5424)}}    % original
+%\rhead{\textrmlf{Compiled }\#5424\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5424\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -210,6 +210,8 @@ viruses}\label{eukarotic-infecting-viruses}}
   Usually transmits using the RNA
 \end{itemize}
 
-RNA viruses are considered to
+RNA viruses are considered to be the ``next-gen'' viruses because they
+infect much more easily as they do not require the process of
+transcription.
 
 \end{document}
