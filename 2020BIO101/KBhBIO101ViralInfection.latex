@@ -1,0 +1,367 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Virus Infections and Lifecycle }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5406)}}    % original
+%\rhead{\textrmlf{Compiled }\#5406\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5406\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101Viruses}{\tiny\textulf{[[}\textbf{KBhBIO101Viruses}\textulf{]]}}}\thinspace
+
+\hypertarget{virus-infections-and-lifecycle}{%
+\section{Virus Infections and
+Lifecycle}\label{virus-infections-and-lifecycle}}
+
+\#disorganized
+
+\hypertarget{viral-life-cycle}{%
+\subsubsection{Viral Life Cycle}\label{viral-life-cycle}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Attachment =\textgreater{} protein contact between virus and host
+\item
+  Viral entry/Uncoating =\textgreater{} shedding the protein layer
+\item
+  Biosynthesis =\textgreater{} make baby viruses
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Genome Replication: transcribe DNA/RNA
+  \item
+    Genome Expression: read DNA/RNA to make proteins
+  \end{enumerate}
+\item
+  Viral genome integration =\textgreater{} retrovirus only
+\item
+  Assembly =\textgreater{} put it all togethr
+\item
+  Viral Exit =\textgreater{} mature virons leave
+\end{enumerate}
+
+\hypertarget{viral-entry}{%
+\paragraph{Viral Entry}\label{viral-entry}}
+
+\emph{Option 1: Direct Injection/insertion}
+
+\begin{itemize}
+\tightlist
+\item
+  Insert genome through the bi-layer
+\item
+  Leave the rest behind
+\item
+  Tada!
+\end{itemize}
+
+\emph{Option 2: Endocytosis}
+
+\begin{itemize}
+\tightlist
+\item
+  Trick the host cell into introducing the virus as food
+\item
+  Endocytosis!
+\item
+  Bam
+\end{itemize}
+
+\emph{Option 3: Fusion}
+
+\begin{itemize}
+\tightlist
+\item
+  Virus fuse with cell membrane
+\item
+  Shed the protein coat once in
+\item
+  Shazam!
+\end{itemize}
+
+\textbf{All of these involve attachment first, which usually takes two
+steps.}
+
+This process causes the organism-specific response to viruses:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Attachment: adhere roughly to random sugar proteins
+\item
+  Binding: roll over slowly, and bind to the entry receptor it needs
+\end{enumerate}
+
+\hypertarget{uncoating}{%
+\paragraph{Uncoating}\label{uncoating}}
+
+\begin{itemize}
+\tightlist
+\item
+  Virus triggers \emph{early endosome}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Causes pH dependent protein denaturation
+  \item
+    Causing the capsid to fall apart
+  \item
+    Triggering \emph{late endosome} =\textgreater{} releasing genome
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{viral-replication}{%
+\paragraph{Viral Replication}\label{viral-replication}}
+
+Key questions:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{How are viral mRNAs produced from the viral genome?}
+  =\textgreater{} virus will hijack the ribosomes in the host cells. So,
+  it is more important to ask how the mRNAs are produced to tell
+  ribosomes what to do
+\item
+  \textbf{What serves as the template for viral genome replication}
+  =\textgreater{} replication will need a polymeraese; but the source
+  and mechanism is dependent on viral genome structure/composition
+\end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-12 at 11.04.53 PM.png}
+\caption{Screen Shot 2020-10-12 at 11.04.53 PM.png}
+\end{figure}
+
+\textbf{DNA Viruses}
+
+\emph{How are viral mRNAs produced from the viral genome?}
+
+\begin{itemize}
+\tightlist
+\item
+  Viral DNA enters, through RNA polymerase II in the host cell, mRNA is
+  produced
+\item
+  mRNAs then read by ribosomes, and there we go
+\end{itemize}
+
+\emph{What serves as the templates for viral genome replication?}
+
+\begin{itemize}
+\tightlist
+\item
+  Viral DNA serves as template for host cell DNA polymerase
+\item
+  Viral genome copied repeatedly
+\item
+  Virus, then, \textbf{will be replicated within the nucleus} due to it
+  needing the polymerase to copy DNA
+\end{itemize}
+
+Except! Poxvirade carry their own polymerase, so they replicate in the
+cytoplasm.
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-12 at 11.09.46 PM.png}
+\caption{Screen Shot 2020-10-12 at 11.09.46 PM.png}
+\end{figure}
+
+\textbf{RNA Viruses}
+
+\emph{How are viral mRNAs produced from the viral genome?}
+
+\hypertarget{packaging}{%
+\paragraph{Packaging}\label{packaging}}
+
+Does not require ATP. Just sealed in.
+
+\hypertarget{viral-exis}{%
+\paragraph{Viral Exis}\label{viral-exis}}
+
+\textbf{Lysis}
+
+Replicate so much that the membrane burst.
+
+\textbf{Budding}
+
+Trigger\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  Trigger extocytosis
+\item
+  Meanwhile, send virus's own spikes to the membrane
+\item
+  On exit by extocytosis, steal a part of the newly-spikey membrane with
+  it to serve as new casing
+\end{itemize}
+
+\end{document}

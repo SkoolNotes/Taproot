@@ -28,5 +28,5 @@ See [[KBhBIO101StructureOfViruses]]
 ## Types of Viruses
 See [[KBhBIO101TypesOfViruses]]
 
-## Viral Entry
-How do viruses infect people? Basically, they come into your body, hijack the [[KBhBIO101CentralDogma]] system of your body, and leverage it to create more copies of itself. To see more about this, head on over to [[KBhBIO101ViralEntry]]
+## Virus Lifecycle + Infectivity
+How do viruses infect people? Basically, they come into your body, hijack the [[KBhBIO101CentralDogma]] system of your body, and leverage it to create more copies of itself. To see more about this, head on over to [[KBhBIO101ViralInfection]]
