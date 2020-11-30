@@ -50,7 +50,7 @@ Each cell, once specialised, chooses what parts of their chromasome to unwrap + 
 Difference in transcription results in different phenotypes.
 
 Sperm + Egg (imcomplete cells) combine together to form a "zygote" => a single cell. Each person is from a zygote.
-[]()
+
 [Paul's Cell Cycle Primer](https://docs.google.com/document/d/1TIrgR9VSV3attTK_QP-AOCs33mMoBP0Cz7DQXysKoD0/edit)
 
 ![Screen Shot 2020-11-09 at 3.16.12 PM.png](Screen Shot 2020-11-09 at 3.16.12 PM.png)
