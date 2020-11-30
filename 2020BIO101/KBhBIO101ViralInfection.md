@@ -62,7 +62,7 @@ Now, with the viruses's DNA out on full display inside the cell, how do we make 
 
 ![Screen Shot 2020-10-12 at 11.04.53 PM.png](Screen Shot 2020-10-12 at 11.04.53 PM.png)
 
-**DNA Viruses**
+**For DNA Viruses...**
 
 *How are viral mRNAs produced from the viral genome?*
 
@@ -73,9 +73,9 @@ Now, with the viruses's DNA out on full display inside the cell, how do we make 
 
 - Viral DNA serves as template for host cell DNA polymerase
 - Viral genome copied repeatedly
-- Virus, then, **will be replicated within the nucleus** due to it needing the polymerase to copy DNA
+- Virus, then, **will be replicated within the nucleus** due to it needing the host polymerase to copy DNA
 
-Except! Poxvirade carry their own polymerase, so they replicate in the cytoplasm.
+Except! Poxvirade viruses carry their own polymerase, so they replicate in the cytoplasm by simply entering and re.
 
 ![Screen Shot 2020-10-12 at 11.09.46 PM.png](Screen Shot 2020-10-12 at 11.09.46 PM.png)
 

@@ -26,7 +26,7 @@ Assembled and mature viral particles => **virions**. They usually have three dif
 See [[KBhBIO101StructureOfViruses]]
 
 ## Types of Viruses
-Two types of viruses: the prokaryote-frequenting **DNA viruses** and the eukaryote-frequenting **RNA viruses**
+Two types of viruses: the prokaryote-frequenting **DNA viruses** which replicates themselves using DNA and the eukaryote-frequenting **RNA viruses** which replicates themselves using RNA. 
 
 See [[KBhBIO101TypesOfViruses]]
 
