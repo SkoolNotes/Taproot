@@ -88,6 +88,10 @@ Depends on what [[KBhBIO101SenseAndAntisense]] the viral RNA is, there are diffe
 - If the virus is carrying +SS RNA, they do not need to produce anything because that is directly translatable by the host ribosomes
 - If the virus is carrying -SS RNA (which is useless by itself as it is the template RNA, making it harder to detect), they would trigger the process of RNA replication either using their own RNA-dependent RNA polymerease or using that of the host cells
 
+*What serves as the templates for viral genome replication?*
+
+
+
 #### Packaging
 
 Does not require ATP. Just sealed in.
