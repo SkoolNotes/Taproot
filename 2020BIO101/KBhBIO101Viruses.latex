@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5395)}}    % original
-%\rhead{\textrmlf{Compiled }\#5395\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5395\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5396)}}    % original
+%\rhead{\textrmlf{Compiled }\#5396\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5396\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -172,27 +172,34 @@
 
 \definition{Viruses}{Acellular Macromolecular Assemblies}
 
+Viruses\ldots{}
+
 \begin{itemize}
 \tightlist
 \item
-  Contain protein coat called capsid
+  \ldots contain protein coat called capsid
 \item
-  DNA or RNA, but not both
+  \ldots use DNA or RNA, but not both
 \item
-  Are obligate parasites that could only replicate within host
+  \ldots are obligate parasites that could only replicate within host
 \end{itemize}
 
-Assembled and mature viral particles =\textgreater{} virions, which
-contain\ldots{}
+Assembled and mature viral particles =\textgreater{} virions. They
+usually have three different parts
 
 \begin{itemize}
 \tightlist
 \item
-  Capsid --- the protein coat
-\item
-  Genetic material
+  Capsid --- the protein coat Genetic material --- what they are
+  transmitting/replicating
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
 \item
   Occationally outside lipid layer
-\end{itemize}
+\end{enumerate}
 
 \end{document}
