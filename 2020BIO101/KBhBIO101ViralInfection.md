@@ -17,6 +17,17 @@ course: BIO101
 5.  **Assembly** => put it all togethr
 6.  **Viral Exit** => mature virons leave
 
+
+## Viral attachment
+To be able to enter a cell, viruses have to do something to stick to it. B/c otherwise they would just be stuck in the bloodstream and be very sod.
+
+There are two types of viruses
+
+This process causes the organism-specific response to viruses:
+
+1. Attachment: adhere roughly to random sugar proteins
+2. Binding: roll over slowly, and bind to the entry receptor it needs
+
 ## Viral Entry
 ### Direct Injection/insertion
 - Insert genome through the bi-layer
@@ -31,13 +42,6 @@ course: BIO101
  - Virus fuse with cell membrane
  - Shed the protein coat once in
  - Shazam!
-
-**All of these involve attachment first, which usually takes two steps.**
-
-This process causes the organism-specific response to viruses:
-
-1. Attachment: adhere roughly to random sugar proteins
-2. Binding: roll over slowly, and bind to the entry receptor it needs
 
 #### Uncoating
 * Virus triggers *early endosome*
