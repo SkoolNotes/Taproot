@@ -38,7 +38,7 @@ To see more about this, head on over to [[KBhBIO101ViralInfection]]. This is imp
 ## Viral Genetic Shift + Viral Genetic Drift
 Viruses modulate themselves, which make them particularly hard to deal with as their DNA may change every so often to the bewilderment of the immune system.
 
-There are two ways by which this happens — genetic Shift and Genetic Drift. See [[KBhBIO101ViralGeneticModulation]]
+There are two ways by which this happens — genetic Shift and Genetic Drift. See [[KBhBIO101ViralGeneticModulationMutation]]
 
 ## Retroviruses
 Viruses are special types of viruses that not only infect people, but also hijack cell DNA by inserting their own genetic code into them. They are particularly terrible because they cause the infected cell and its offsprings to inadventantly create more copies of the virus slowly as daily [[KBhBIO101CentralDogma]] happens.

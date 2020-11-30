@@ -14,10 +14,7 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 
 ### Viral Genome vs Mutation Rate
 
-![Screen Shot 2020-10-12 at 11.24.39 PM.png](Screen Shot 2020-10-12 at 11.24.39 PM.png)
 
-- RNA viruses could mutate more because it does not have checks
-- More complex+largest viruses harder to mutate
 
 **Genetic drift** — viruses mutate due to polymerase error
 
