@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5424)}}    % original
-%\rhead{\textrmlf{Compiled }\#5424\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5424\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5425)}}    % original
+%\rhead{\textrmlf{Compiled }\#5425\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5425\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -209,7 +209,8 @@ See {[}{[}KBhBIO101StructureOfViruses{]}{]}
 \hypertarget{types-of-viruses}{%
 \subsection{Types of Viruses}\label{types-of-viruses}}
 
-Two types of viruses: the Prokaryote-heavy \textbf{DNA viruses} and
+Two types of viruses: the prokaryote-frequenting \textbf{DNA viruses}
+and the eukaryote-frequenting \textbf{RNA viruses.}
 
 See {[}{[}KBhBIO101TypesOfViruses{]}{]}
 
