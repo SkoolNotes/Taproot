@@ -25,8 +25,11 @@ course: BIO101
 ### DNA Viruses
 * "Legacy support" viruses
 * **DNA** viruses are "less complex", in that as long as they are able to get into the nucleaus, the rest would just be the body's work automatically.
-* They are c 
+* They are clunkier, more stable, and hence harder to [[KBhBIO101ViralGeneticModulationMutation]], which is good for you but bad for the virus
 
-RNA viruses are considered to be the "next-gen" viruses because they infect much more easily as they do not require the process of transcription.
+### RNA Viruses
+* RNA viruses are considered to be the "next-gen" viruses
+* They infect much more easily => do not require the process of transcription
+* Contain more intricate processes to be able to interact with the cell properly
 
-
+![Screen Shot 2020-11-02 at 2.48.22 PM.png](Screen Shot 2020-11-02 at 2.48.22 PM.png)

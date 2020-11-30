@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5493)}}    % original
-%\rhead{\textrmlf{Compiled }\#5493\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5493\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5494)}}    % original
+%\rhead{\textrmlf{Compiled }\#5494\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5494\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -230,11 +230,30 @@ code}\label{categorizing-based-on-genetic-code}}
   able to get into the nucleaus, the rest would just be the body's work
   automatically.
 \item
-  They are c
+  They are clunkier, more stable, and hence harder to
+  {[}{[}KBhBIO101ViralGeneticModulationMutation{]}{]}, which is good for
+  you but bad for the virus
 \end{itemize}
 
-RNA viruses are considered to be the ``next-gen'' viruses because they
-infect much more easily as they do not require the process of
-transcription.
+\hypertarget{rna-viruses}{%
+\subsubsection{RNA Viruses}\label{rna-viruses}}
+
+\begin{itemize}
+\tightlist
+\item
+  RNA viruses are considered to be the ``next-gen'' viruses
+\item
+  They infect much more easily =\textgreater{} do not require the
+  process of transcription
+\item
+  Contain more intricate processes to be able to interact with the cell
+  properly
+\end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-11-02 at 2.48.22 PM.png}
+\caption{Screen Shot 2020-11-02 at 2.48.22 PM.png}
+\end{figure}
 
 \end{document}
