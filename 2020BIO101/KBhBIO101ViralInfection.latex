@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5419)}}    % original
-%\rhead{\textrmlf{Compiled }\#5419\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5419\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5420)}}    % original
+%\rhead{\textrmlf{Compiled }\#5420\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5420\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -273,7 +273,10 @@ Injection/insertion}\label{direct-injectioninsertion}}
 \end{itemize}
 
 \hypertarget{uncoating}{%
-\paragraph{Uncoating}\label{uncoating}}
+\subsection{Uncoating}\label{uncoating}}
+
+After the virus enters the cell, the lipid/protein shell on the outside
+must be shred to be able to release the additional DNA.
 
 \begin{itemize}
 \tightlist

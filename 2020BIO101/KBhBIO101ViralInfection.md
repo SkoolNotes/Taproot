@@ -45,8 +45,11 @@ In this step, the sticky virus on the surface of the cell gets into the cell. Th
  - Shed the protein coat once in
  - Shazam!
 
-#### Uncoating
-* Virus triggers *early endosome*
+## Uncoating
+After the virus enters the cell, the lipid/protein shell on the outside must be shred to be able to release the additional DNA inside.
+
+To achieve this, the virus triggers *early endosome* in the cell, which...
+
 	* Causes pH dependent protein denaturation
 	* Causing the capsid to fall apart
 	* Triggering *late endosome* => releasing genome
