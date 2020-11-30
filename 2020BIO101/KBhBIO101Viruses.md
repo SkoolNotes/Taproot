@@ -16,7 +16,7 @@ Viruses...
 
 Assembled and mature viral particles => virions. They usually have three different parts
 
-* Capsid — the protein coat
-Genetic material — what they are transmitting/replicating
+1. Capsid — the protein coat
+2. Genetic material — what they are transmitting/replicating
 3. Occationally outside lipid layer 
 
