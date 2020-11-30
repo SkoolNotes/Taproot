@@ -48,8 +48,11 @@ See [[KBhBIO101Retroviruses]]
 ## Viruses damaging host
 Viruses are terrible because they damage the infected host cells/tissues, namely by...
 
-* Reducing gene expression capacity (hogging up the [[KBhBIO101CentralDogma]] channels to achieve higher 
+* Reducing gene expression capacity (hogging up the [[KBhBIO101CentralDogma]] channels to achieve higher probability of replication)
 * Depleting cellular resources (needing to transcribe a thing that eat you)
 * Causing cell lysis (to explode, which is bad) 
 * Promoting tumorigenisis — cancer (damaging promoters, among others)
-* Creating damaging immunological response
+* Creating damaging immunological response (over-compensate to kill viruses a la Ebola)
+
+## Preventing Viruses
+See [[KBhBIO101AntiViralDrugs]]
