@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5479)}}    % original
-%\rhead{\textrmlf{Compiled }\#5479\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5479\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5480)}}    % original
+%\rhead{\textrmlf{Compiled }\#5480\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5480\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -174,11 +174,10 @@
 \subsection{Genetic Shift}\label{genetic-shift}}
 
 Whole segments of genome exchange abruptly as two flu viruses infect the
-same cell to create a new strand. In this case, Viruses recombinate by
-crossing-over mechanism (remember how {[}{[}KBhBIO101Retroviruses{]}{]}
-HIV need protease to cut parts? when that shuffles) or genome segment
-reassortment (two viruses cross-talk by infecting the same host cell).
-Think! the flu
+same cell to create a new strand. There are two mechnisms by which
+happens --- ( \#ASK ) the \textbf{crossing-over mechnism} (I think that
+where two viruses coinfect the same cell, causing cross-talk) and
+\textbf{genome segment reassortment}
 
 \hypertarget{genetic-drift}{%
 \subsection{Genetic Drift}\label{genetic-drift}}
