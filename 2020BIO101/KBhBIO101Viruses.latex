@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5460)}}    % original
-%\rhead{\textrmlf{Compiled }\#5460\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5460\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5461)}}    % original
+%\rhead{\textrmlf{Compiled }\#5461\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5461\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -225,5 +225,12 @@ leverage it to create more copies of itself.
 
 To see more about this, head on over to
 {[}{[}KBhBIO101ViralInfection{]}{]}. This is important and cool.
+
+\hypertarget{viral-genetic-shift-viral-genetic-drift}{%
+\subsection{Viral Genetic Shift + Viral Genetic
+Drift}\label{viral-genetic-shift-viral-genetic-drift}}
+
+Viruses modulate themselves, which make them particularly hard to deal
+with
 
 \end{document}

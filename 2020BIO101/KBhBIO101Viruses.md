@@ -35,4 +35,6 @@ How do viruses infect people? Basically, they come into your body, hijack the [[
 
 To see more about this, head on over to [[KBhBIO101ViralInfection]]. This is important and cool.
 
+## Viral Genetic Shift + Viral Genetic Drift
+Viruses modulate themselves, which make them particularly hard to deal with 
 
