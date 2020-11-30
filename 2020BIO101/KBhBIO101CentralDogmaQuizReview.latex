@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5497)}}    % original
-%\rhead{\textrmlf{Compiled }\#5497\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5497\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5498)}}    % original
+%\rhead{\textrmlf{Compiled }\#5498\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5498\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -237,6 +237,8 @@ viruses}\label{human-diseases-w.r.t-viruses}}
   \item
     {[}{[}KBhBIO101Retroviruses{]}{]} are no fun, because they borg the
     host cell
+  \item
+    You could
   \end{itemize}
 \end{itemize}
 
