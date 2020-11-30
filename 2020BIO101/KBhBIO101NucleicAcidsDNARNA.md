@@ -43,12 +43,7 @@ How do we make nucleic acids? Can you guess? Huh? **Dehydration synthesis!**
 * DNA is supposed to be double stranded: DNA is *anti-parallel* to each other => 5' to 3' backbone parallel to 3' to 5' backbone
 * RNA is supposed to be single stranded, but viruses may give them in bundles so that it would avoid detection
 
-| Type | Identifier | Purpose |
-|---|---|---|
-| DNA 3'...5' | DNA Antisense/Noncoding/Template Strand | Used as a template for transcription |
-| DNA 5'...3' | DNA Sense/Coding/Nontemplate Strand | The complement to the template strand + what is being used (bar urisil) in RNA form to perform protein synthesis |
-| RNA 3'...5' | mRNA Sense/+ss Strand | RNA transcribed from the template antisense strand that codes for a protein |
-| RNA 3'...5' | mRNA Sense/+ss Strand | RNA transcribed from the template antisense strand |
+See also [[KBhBIO101SenseAndAntisense]]
 
 **Temp copies of genome is RNA, permanent record in DNA**
  

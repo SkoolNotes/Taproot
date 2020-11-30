@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5441)}}    % original
-%\rhead{\textrmlf{Compiled }\#5441\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5441\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5442)}}    % original
+%\rhead{\textrmlf{Compiled }\#5442\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5442\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -264,6 +264,8 @@ synthesis!}
   bundles so that it would avoid detection
 \end{itemize}
 
+L
+
 \begin{longtable}[]{@{}lll@{}}
 \toprule
 \begin{minipage}[b]{0.30\columnwidth}\raggedright
@@ -293,17 +295,19 @@ in RNA form to perform protein synthesis\strut
 \begin{minipage}[t]{0.30\columnwidth}\raggedright
 RNA 3'\ldots5'\strut
 \end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+mRNA Antisense/-ss Strand\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+Pretty useless (unless you are trying to avoid detection) RNA strand
+that serve only as the template for the RNA that codes for a
+protein\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+RNA 5'\ldots3'\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
 mRNA Sense/+ss Strand\strut
 \end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
 RNA transcribed from the template antisense strand that codes for a
 protein\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.30\columnwidth}\raggedright
-RNA 3'\ldots5'\strut
-\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
-mRNA Sense/+ss Strand\strut
-\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
-RNA transcribed from the template antisense strand\strut
 \end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
