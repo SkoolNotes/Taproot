@@ -11,21 +11,6 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 #flo #disorganized 
 
 
-**Biofilm formation**
-
-- Communities of bacteria could work together by adhering and exchanging information
-- Bacterial could perform quorum sensing => exchange of information with each other + recognize various members of their group
-
-### Fighting bacterial infections
-
-**Antibiotics** => drugs with selective toxicity for specific bacterial types
-
-Act by...
-
-* Disrupting membrane + cell wall integrity
-* Selectively target + impair bacterial ribosomes
-* Block bacterial DNA replication/transcription
-* Inhibit bacterial metabolism
 
 ## Viruses causing diseases
 **Viruses: acellular macromolecular assemblies**

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5391)}}    % original
-%\rhead{\textrmlf{Compiled }\#5391\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5391\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5392)}}    % original
+%\rhead{\textrmlf{Compiled }\#5392\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5392\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -170,7 +170,7 @@
 \hypertarget{bacterial-infections}{%
 \section{Bacterial Infections}\label{bacterial-infections}}
 
-Induction of diseases
+Induction of diseases via the entry of bacteria.
 
 \begin{itemize}
 \tightlist
@@ -181,6 +181,39 @@ Induction of diseases
   \textbf{Host-mediated factors} =\textgreater{} may develop host
   resistance, could compete for resources, and could be grown
   introcellularly
+\end{itemize}
+
+\textbf{Biofilm formation}
+
+\begin{itemize}
+\tightlist
+\item
+  Communities of bacteria could work together by adhering and exchanging
+  information
+\item
+  Bacterial could perform quorum sensing =\textgreater{} exchange of
+  information with each other + recognize various members of their group
+\end{itemize}
+
+\hypertarget{fighting-bacterial-infections}{%
+\subsubsection{Fighting bacterial
+infections}\label{fighting-bacterial-infections}}
+
+\textbf{Antibiotics} =\textgreater{} drugs with selective toxicity for
+specific bacterial types
+
+Act by\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  Disrupting membrane + cell wall integrity
+\item
+  Selectively target + impair bacterial ribosomes
+\item
+  Block bacterial DNA replication/transcription
+\item
+  Inhibit bacterial metabolism
 \end{itemize}
 
 \href{https://drive.google.com/file/d/1WRnbgkhnmRrdP4ZqlqT3HHBD1_eW9qib/view}{This
