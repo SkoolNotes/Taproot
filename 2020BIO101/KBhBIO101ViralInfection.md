@@ -17,7 +17,6 @@ course: BIO101
 5.  **Assembly** => put it all togethr
 6.  **Viral Exit** => mature virons leave
 
-
 ## Viral attachment
 To be able to enter a cell, viruses have to do something to stick to it. B/c otherwise they would just be stuck in the bloodstream and be very sod.
 
