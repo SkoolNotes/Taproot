@@ -9,13 +9,14 @@ course: BIO101
 
 ## Viral Life Cycle, an Overview
 1. **Attachment** => protein contact between virus and host
-2. **Viral entry/Uncoating** => shedding the protein layer
-3. **Biosynthesis** => make baby viruses
+2. **Viral entry** => entering the cell
+3. **Uncoating** => shedding the protein layer
+4. **Biosynthesis** => make baby viruses
 	1. Genome Replication: transcribe DNA/RNA
 	2. Genome Expression: read DNA/RNA to make proteins
-4.  **Genome integration** => retrovirus only — put the viral gene into the genetic sequence of the actual cell
-5.  **Assembly** => put it all togethr
-6.  **Viral Exit** => mature virons leave
+5.  **Genome integration** => retrovirus only — put the viral gene into the genetic sequence of the actual cell
+6.  **Assembly** => put it all togethr
+7.  **Viral Exit** => mature virons leave
 
 ## Viral attachment
 To be able to enter a cell, viruses have to do something to stick to it. B/c otherwise they would just be stuck in the bloodstream and be very sod.
@@ -28,6 +29,8 @@ Most viral attachment processes is done in two different steps:
 *Note! Both of these processes will require specific protein "spikes" that are specifically designed to stick to the host cell.* **This is what causes the organism-specific responses to viruses.**
 
 ## Viral Entry
+In this step, the sticky virus on the surface of the cell gets into the cell. There are three different type
+
 ### Direct Injection/insertion
 - Insert genome through the bi-layer
 - Leave the rest behind
