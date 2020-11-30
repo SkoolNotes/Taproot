@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5449)}}    % original
-%\rhead{\textrmlf{Compiled }\#5449\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5449\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5450)}}    % original
+%\rhead{\textrmlf{Compiled }\#5450\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5450\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -171,5 +171,16 @@
 \section{Viral Attachment}\label{viral-attachment}}
 
 {]}{]}{]}
+
+This process causes the organism-specific response to viruses:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Attachment: adhere roughly to random sugar proteins
+\item
+  Binding: roll over slowly, and bind to the entry receptor it needs
+\end{enumerate}
 
 \end{document}

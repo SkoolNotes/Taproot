@@ -19,10 +19,9 @@ course: BIO101
 7.  **Viral Exit** => mature virons leave
 
 ## Viral attachment
-To be able to enter a cell, viruses have to do something to stick to it. B/c otherwise they would just be stuck in the bloodstream and be very sod.
+To be able to enter a cell, viruses have to do something to stick to it. B/c otherwise they would just be stuck in the bloodstream and be very sad.
 
 See [[KBhBIO101ViralAttachment]]
-
 
 ## Viral Entry
 In this step, the sticky virus on the surface of the cell gets into the cell. There are three different types of mechanisms by which this is achieved:
