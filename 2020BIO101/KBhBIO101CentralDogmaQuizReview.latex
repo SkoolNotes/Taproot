@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5380)}}    % original
-%\rhead{\textrmlf{Compiled }\#5380\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5380\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5495)}}    % original
+%\rhead{\textrmlf{Compiled }\#5495\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5495\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -205,6 +205,8 @@ Raw review sheet content: {[}{[}KBhBIO101HumanDiseases{]}{]}
 \begin{itemize}
 \tightlist
 \item
+\item
+  {[}{[}dna
 \end{itemize}
 
 \hypertarget{human-diseases-w.r.t-viruses}{%
@@ -214,7 +216,9 @@ viruses}\label{human-diseases-w.r.t-viruses}}
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBhBIO101Diseases{]}{]}
+  {[}{[}KBhBIO101Diseases{]}{]} \&
+  {[}{[}KBhBIO101BacterialInfections{]}{]}
+\item
 \end{itemize}
 
 \end{document}

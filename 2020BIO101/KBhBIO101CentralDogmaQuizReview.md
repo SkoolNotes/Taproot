@@ -19,7 +19,9 @@ Raw review sheet content: [[KBhBIO101HumanDiseases]]
 
 ### The Cell Cycle
 - [[KBhBIO101CellCycle]]: the cell cycle
+- 
 
 ### Human Diseases w.r.t viruses
-- [[KBhBIO101Diseases]]
+- [[KBhBIO101Diseases]] & [[KBhBIO101BacterialInfections]]
+- 
 	
