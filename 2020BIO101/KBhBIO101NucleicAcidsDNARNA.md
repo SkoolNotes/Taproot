@@ -42,9 +42,12 @@ How do we make nucleic acids? Can you guess? Huh? **Dehydration synthesis!**
 ### DNA/RNA Strand
 * DNA is supposed to be double stranded: DNA is *anti-parallel* to each other => 5' to 3' backbone parallel to 3' to 5' backbone
 * RNA is supposed to be single stranded, but viruses may give them in bundles so that it would avoid detection
+
+| Type | Identifier | Purpose |
+|---|---|---|
+|DNA 3'...5'|DNA Antisense/
  
- 
- 
+**Temp copies of genome is RNA, permanent record in DNA**
  
  ## The Central Dogma
  The process of the central dogma is a rough path by which DNA is converted into Proteins. This helps us understand how proteins are made in a cell, and also how viruses could hijack this process to make themselves.

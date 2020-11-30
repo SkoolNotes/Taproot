@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5434)}}    % original
-%\rhead{\textrmlf{Compiled }\#5434\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5434\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5435)}}    % original
+%\rhead{\textrmlf{Compiled }\#5435\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5435\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -263,6 +263,8 @@ synthesis!}
   RNA is supposed to be single stranded, but viruses may give them in
   bundles so that it would avoid detection
 \end{itemize}
+
+\textbf{Temp copies of genome is RNA, permanent record in DNA}
 
 \#\# The Central Dogma The process of the central dogma is a rough path
 by which DNA is converted into Proteins. This helps us understand how
