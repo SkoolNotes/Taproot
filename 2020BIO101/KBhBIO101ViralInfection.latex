@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5410)}}    % original
-%\rhead{\textrmlf{Compiled }\#5410\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5410\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5411)}}    % original
+%\rhead{\textrmlf{Compiled }\#5411\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5411\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -215,8 +215,6 @@ Overview}\label{viral-life-cycle-an-overview}}
   Insert genome through the bi-layer
 \item
   Leave the rest behind
-\item
-  Tada!
 \end{itemize}
 
 \emph{Option 2: Endocytosis}

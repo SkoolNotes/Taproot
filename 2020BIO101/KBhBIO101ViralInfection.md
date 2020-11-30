@@ -22,12 +22,11 @@ course: BIO101
 
 - Insert genome through the bi-layer
 - Leave the rest behind
-- Tada!
 
 *Option 2: Endocytosis*
 
 - Trick the host cell into introducing the virus as food
-- Endocytosis!
+- [[endocyto
 - Bam
 
 *Option 3: Fusion*
