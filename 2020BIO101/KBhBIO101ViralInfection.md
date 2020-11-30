@@ -47,15 +47,4 @@ See [[KBhBIO101ViralReplication]]
 "Viral self-assembly" — make the protein, and, without ATP, just seal the newly-formed virus DNA in.
 
 ## Viral Exit
-
-**Lysis**
-
-Replicate so much that the membrane burst.
-
-**Budding**
-
-Trigger...
-
-- Trigger extocytosis
-- Meanwhile, send virus's own spikes to the membrane
-- On exit by extocytosis, steal a part of the newly-spikey membrane with it to serve as new casing
+This is the process by which mature viron exit the host cell. See [[KBhBIO101ViralExit]]
