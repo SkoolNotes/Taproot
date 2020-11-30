@@ -43,41 +43,6 @@ Now, with the viruses's DNA out on full display inside the cell, how do we make 
 
 See [[KBhBIO101ViralReplication]]
 
-**For DNA Viruses...**
-
-*How are viral mRNAs produced from the viral genome?*
-
-- Viral DNA enters, through RNA polymerase II in the host cell, mRNA is produced
-- mRNAs then read  by ribosomes, and there we go
-
-*What serves as the templates for viral genome replication?*
-
-- Viral DNA serves as template for host cell DNA polymerase
-- Viral genome copied repeatedly
-- Virus, then, **will be replicated within the nucleus** due to it needing the host polymerase to copy DNA
-
-Except! Poxvirade viruses carry their own polymerase, so they replicate in the cytoplasm by simply entering and releasing the polymerease.
-
-![Screen Shot 2020-10-12 at 11.09.46 PM.png](Screen Shot 2020-10-12 at 11.09.46 PM.png)
-
-**RNA Viruses**
-
-*How are viral mRNAs produced from the viral genome?*
-
-Depends on what [[KBhBIO101SenseAndAntisense]] the viral RNA is, there are different processes
-
-- If the virus is carrying +SS RNA, they do not need to produce anything because that is directly translatable by the host ribosomes
-- If the virus is carrying -SS RNA (which is useless by itself as it is the template RNA, making it harder to detect), they would trigger the process of RNA replication either using their own RNA-dependent RNA polymerease or using that of the host cells
-- If the virus is carrying both, it will infect with both +-stranded and --stranded RNA, but the latter requires conversion
-
-*What serves as the templates for viral genome replication?*
-
-* with dsRNA; takes +ssRNA and makes -ssRMA; combining the two to produce dsRNA
-* with +ssRNA, takes +ssRNA and makes temporary -ssRNA which makes more +ssRNA
-* with -ssRNA, takes -ssRNA, and makes temporary +ssRNA, which makes -ssRNA
-
-Instead of waiting for the RNA-dependent-RNA polymerease of the cell, viruses sometimes decide to just bring-your-own-polymerease to catalyze this process.
-
 ## Packaging
 "Viral self-assembly" — make the protein, and, without ATP, just seal the newly-formed virus DNA in.
 
