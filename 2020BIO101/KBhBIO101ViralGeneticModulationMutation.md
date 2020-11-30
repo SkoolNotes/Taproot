@@ -8,10 +8,18 @@ course: BIO101
 # Viral Genetic Mutations
 
 ## Genetic Shift
-Whole segments of genome exchange abruptly as two flu viruses infect the same cell to create a new strand. This usually occurs due an error in a polymerase-driven process.
+Whole segments of genome exchange abruptly as two flu viruses infect the same cell to create a new strand.  There are two mechnisms by which happens — the **crossing-over mechni
+
+<!--In this case, Viruses recombinate by crossing-over mechanism (remember how [[KBhBIO101Retroviruses]] HIV need protease to cut parts? when that shuffles) or genome segment reassortment (two viruses cross-talk by infecting the same host cell). Think! the flu-->
 
 ## Genetic Drift
-Single/groups of nucleotides flip slowly over time due to mistakes in [[KBhBIO101RNAReplication]]. Viruses recombinate by crossing-over mechanism (remember how [[KBhBIO101Retroviruses]] HIV need protease to cut parts? when that shuffles) or genome segment reassortment (two viruses cross-talk by infecting the same host cell). Think! the flu
+This usually occurs due an error in a polymerase-driven process.
+
+
+
+
+
+Single/groups of nucleotides flip slowly over time due to mistakes in [[KBhBIO101RNAReplication]].
 
 The former is an environment-dependent process, where the latter is able to be modeled as it is due to transcription mistake.
 
