@@ -40,3 +40,5 @@ Viruses modulate themselves, which make them particularly hard to deal with as t
 
 There are two ways by which this happens — genetic Shift and Genetic Drift. See [[KBhBIO101ViralGeneticModulation]]
 
+## Retroviruses
+Viruses are special types of viruses that not only infect people, but turn their DNA into 

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5406)}}    % original
-%\rhead{\textrmlf{Compiled }\#5406\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5406\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5464)}}    % original
+%\rhead{\textrmlf{Compiled }\#5464\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5464\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,19 +175,6 @@ A lecture by the Legendary Dr.~Paul Hauser.
 are here}
 
 \#flo \#disorganized
-
-\hypertarget{viral-genetic-shift-viral-genetic-drift}{%
-\subsubsection{Viral Genetic Shift + Viral Genetic
-Drift}\label{viral-genetic-shift-viral-genetic-drift}}
-
-\textbf{Shift} =\textgreater{} whole segments of genome exchange
-abruptly as two flu viruses infect the same cell to create a new strand.
-
-\textbf{Drift} =\textgreater{} single/groups of nucleotides flip slowly
-over time.
-
-The former is an environment-dependent process, where the latter is able
-to be modeled as it is due to transcription mistake.
 
 \hypertarget{retroviruses-how-to-stop-them}{%
 \subsubsection{Retroviruses + How to Stop
