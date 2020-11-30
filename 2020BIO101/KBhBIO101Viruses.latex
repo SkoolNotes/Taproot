@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5399)}}    % original
-%\rhead{\textrmlf{Compiled }\#5399\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5399\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5400)}}    % original
+%\rhead{\textrmlf{Compiled }\#5400\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5400\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -201,7 +201,9 @@ usually have three different parts
 =\textgreater{} Viruses exist on the nanometre scale, but they are
 difference in share and size
 
-\hypertarget{structure-of-vircuses}{%
-\subsection{Structure of Vircuses}\label{structure-of-vircuses}}
+\hypertarget{structure-of-viruses}{%
+\subsection{Structure of Viruses}\label{structure-of-viruses}}
+
+See {[}{[}KBhBIO101StructureOfViruses{]}{]}
 
 \end{document}

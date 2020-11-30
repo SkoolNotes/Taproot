@@ -22,5 +22,6 @@ Assembled and mature viral particles => virions. They usually have three differe
 
 => Viruses exist on the nanometre scale, but they are difference in share and size
 
-## Structure of Vircuses
+## Structure of Viruses
+See [[KBhBIO101StructureOfViruses]]
 
