@@ -58,4 +58,10 @@ course: HIST201
 
 - About the **scramble for Africa** and the imperialist movement
 - Today: all of Imperialism!
-- The Scramble for
+- The Scramble for Africa, w.r..t the congo
+	- Hand Cutting! A mechnasism to meet the quota of cartridge use and as a a mechanism of defense
+	
+- IR Caused science and tech advancements
+	- Steel + the steam engine => the core driver of technology
+		- Think! The Effel tower: the celebration of the 1889 world's fair.
+	
