@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5394)}}    % original
-%\rhead{\textrmlf{Compiled }\#5394\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5394\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5395)}}    % original
+%\rhead{\textrmlf{Compiled }\#5395\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5395\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -185,12 +185,10 @@
 Assembled and mature viral particles =\textgreater{} virions, which
 contain\ldots{}
 
-Virons contain\ldots{}
-
 \begin{itemize}
 \tightlist
 \item
-  Capsid
+  Capsid --- the protein coat
 \item
   Genetic material
 \item

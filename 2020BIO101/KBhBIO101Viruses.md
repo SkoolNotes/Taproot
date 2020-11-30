@@ -14,9 +14,7 @@ author: Houjun Liu
 
 Assembled and mature viral particles => virions, which contain...
 
-Virons contain...
-
-* Capsid
+* Capsid — the protein coat
 * Genetic material
 * Occationally outside lipid layer 
 
