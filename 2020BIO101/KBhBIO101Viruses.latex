@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5406)}}    % original
-%\rhead{\textrmlf{Compiled }\#5406\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5406\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5421)}}    % original
+%\rhead{\textrmlf{Compiled }\#5421\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5421\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -177,15 +177,15 @@ Viruses\ldots{}
 \begin{itemize}
 \tightlist
 \item
-  \ldots contain protein coat called capsid
+  \ldots contain protein coat called \textbf{capsid}
 \item
   \ldots use DNA or RNA, but not both
 \item
   \ldots are obligate parasites that could only replicate within host
 \end{itemize}
 
-Assembled and mature viral particles =\textgreater{} virions. They
-usually have three different parts
+Assembled and mature viral particles =\textgreater{} \textbf{virions}.
+They usually have three different parts
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}

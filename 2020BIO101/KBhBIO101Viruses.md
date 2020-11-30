@@ -10,11 +10,11 @@ author: Houjun Liu
 
 Viruses...
 
-* ...contain protein coat called capsid
+* ...contain protein coat called **capsid**
 * ...use DNA or RNA, but not both
 * ...are obligate parasites that could only replicate within host
 
-Assembled and mature viral particles => virions. They usually have three different parts
+Assembled and mature viral particles => **virions**. They usually have three different parts
 
 1. Capsid — the protein coat
 2. Genetic material — what they are transmitting/replicating

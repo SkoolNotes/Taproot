@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5420)}}    % original
-%\rhead{\textrmlf{Compiled }\#5420\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5420\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5421)}}    % original
+%\rhead{\textrmlf{Compiled }\#5421\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5421\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -200,7 +200,7 @@ Overview}\label{viral-life-cycle-an-overview}}
   \textbf{Genome integration} =\textgreater{} retrovirus only --- put
   the viral gene into the genetic sequence of the actual cell
 \item
-  \textbf{Assembly} =\textgreater{} put it all togethr
+  \textbf{Assembly} =\textgreater{} put it all together
 \item
   \textbf{Viral Exit} =\textgreater{} mature virons leave
 \end{enumerate}
@@ -276,22 +276,19 @@ Injection/insertion}\label{direct-injectioninsertion}}
 \subsection{Uncoating}\label{uncoating}}
 
 After the virus enters the cell, the lipid/protein shell on the outside
-must be shred to be able to release the additional DNA.
+must be shred to be able to release the additional DNA inside.
+
+To achieve this, the virus triggers \emph{early endosome} in the cell,
+which\ldots{}
 
 \begin{itemize}
 \tightlist
 \item
-  Virus triggers \emph{early endosome}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Causes pH dependent protein denaturation
-  \item
-    Causing the capsid to fall apart
-  \item
-    Triggering \emph{late endosome} =\textgreater{} releasing genome
-  \end{itemize}
+  Causes pH dependent protein denaturation
+\item
+  Causing the capsid to fall apart
+\item
+  Triggering \emph{late endosome} =\textgreater{} releasing genome
 \end{itemize}
 
 \hypertarget{viral-replication}{%

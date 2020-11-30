@@ -15,7 +15,7 @@ course: BIO101
 	1. Genome Replication: transcribe DNA/RNA
 	2. Genome Expression: read DNA/RNA to make proteins
 5.  **Genome integration** => retrovirus only — put the viral gene into the genetic sequence of the actual cell
-6.  **Assembly** => put it all togethr
+6.  **Assembly** => put it all together
 7.  **Viral Exit** => mature virons leave
 
 ## Viral attachment
@@ -50,9 +50,9 @@ After the virus enters the cell, the lipid/protein shell on the outside must be 
 
 To achieve this, the virus triggers *early endosome* in the cell, which...
 
-	* Causes pH dependent protein denaturation
-	* Causing the capsid to fall apart
-	* Triggering *late endosome* => releasing genome
+* Causes pH dependent protein denaturation
+* Causing the capsid to fall apart
+* Triggering *late endosome* => releasing genome
 
 #### Viral Replication
 Key questions:
