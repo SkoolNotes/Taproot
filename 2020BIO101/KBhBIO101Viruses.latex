@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5462)}}    % original
-%\rhead{\textrmlf{Compiled }\#5462\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5462\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5465)}}    % original
+%\rhead{\textrmlf{Compiled }\#5465\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5465\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -236,5 +236,13 @@ immune system.
 
 There are two ways by which this happens --- genetic Shift and Genetic
 Drift. See {[}{[}KBhBIO101ViralGeneticModulation{]}{]}
+
+\hypertarget{retroviruses}{%
+\subsection{Retroviruses}\label{retroviruses}}
+
+Viruses are special types of viruses that not only infect people, but
+also hijack cell DNA by inserting their own genetic code into them. They
+are particularly terrible because they cause the infected cell and its
+offsprings to inadventantly create more copies of the virus slowly as
 
 \end{document}
