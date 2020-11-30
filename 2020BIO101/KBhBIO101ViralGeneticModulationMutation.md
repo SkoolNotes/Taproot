@@ -8,7 +8,7 @@ course: BIO101
 # Viral Genetic Mutations
 
 ## Genetic Shift
-Whole segments of genome exchange abruptly as two flu viruses infect the same cell to create a new strand.  There are two mechnisms by which happens — ( #ASK ) the **crossing-over mechnism** (I think that where two viruses coinfect the same cell, causing cross-talk) and **genome segment reassortment**
+Whole segments of genome exchange abruptly as two flu viruses infect the same cell to create a new strand.  There are two mechnisms by which happens — ( #ASK ) the **crossing-over mechnism** (I think that's where two viruses coinfect the same cell, causing cross-talk) and **genome segment reassortment** (I think that's where the same virus with many sections (HIV polyprotein sections or ozaki fragments? I think the latter) 
 
 <!--In this case, Viruses recombinate by crossing-over mechanism (remember how [[KBhBIO101Retroviruses]] HIV need protease to cut parts? when that shuffles) or genome segment reassortment (two viruses cross-talk by infecting the same host cell). Think! the flu-->
 
