@@ -1,5 +1,5 @@
 ---
-title: Viruses
+title: Structure of Viruses
 source: KBhBIO101Viruses
 author: Houjun Liu
 course: BIO101

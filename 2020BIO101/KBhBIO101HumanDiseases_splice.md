@@ -10,10 +10,6 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 
 #flo #disorganized 
 
-
-### Structure of viruses
-
-	
 ### Two types of virus 
 * **Prokaryotic-infecting viruses**
 	* Variety of shapes
