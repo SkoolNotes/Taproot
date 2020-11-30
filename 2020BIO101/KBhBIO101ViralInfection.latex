@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5414)}}    % original
-%\rhead{\textrmlf{Compiled }\#5414\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5414\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5415)}}    % original
+%\rhead{\textrmlf{Compiled }\#5415\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5415\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -211,9 +211,7 @@ To be able to enter a cell, viruses have to do something to stick to it.
 B/c otherwise they would just be stuck in the bloodstream and be very
 sod.
 
-There are two types of viruses
-
-This process causes the organism-specific response to viruses:
+Most viral attachment processes is done in two different steps:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -223,6 +221,9 @@ This process causes the organism-specific response to viruses:
 \item
   Binding: roll over slowly, and bind to the entry receptor it needs
 \end{enumerate}
+
+\textbf{Note! Both of these processes will require specific protein
+``spikes'' that are specific}
 
 \hypertarget{viral-entry}{%
 \subsection{Viral Entry}\label{viral-entry}}

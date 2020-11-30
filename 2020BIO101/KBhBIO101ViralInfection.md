@@ -21,12 +21,12 @@ course: BIO101
 ## Viral attachment
 To be able to enter a cell, viruses have to do something to stick to it. B/c otherwise they would just be stuck in the bloodstream and be very sod.
 
-There are two types of viruses
-
-This process causes the organism-specific response to viruses:
+Most viral attachment processes is done in two different steps:
 
 1. Attachment: adhere roughly to random sugar proteins
 2. Binding: roll over slowly, and bind to the entry receptor it needs
+
+**Note! Both of these processes will require specific protein "spikes" that are specific**
 
 ## Viral Entry
 ### Direct Injection/insertion
