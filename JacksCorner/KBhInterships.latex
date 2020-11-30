@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5500)}}    % original
-%\rhead{\textrmlf{Compiled }\#5500\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5500\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5501)}}    % original
+%\rhead{\textrmlf{Compiled }\#5501\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5501\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -168,5 +168,16 @@
 
 \hypertarget{internships}{%
 \section{Internships}\label{internships}}
+
+\begin{itemize}
+\tightlist
+\item
+  Mercari --- probably not a thing this year but maybe not in terms of
+  finances
+\item
+  Prenav --- software engineering for drone technology
+\item
+  /The Hive ---
+\end{itemize}
 
 \end{document}
