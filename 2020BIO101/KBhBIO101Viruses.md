@@ -26,4 +26,4 @@ Assembled and mature viral particles => virions. They usually have three differe
 See [[KBhBIO101StructureOfViruses]]
 
 ## Types of Viruses
-See [[KB
+See [[KBhBIO101TypesOfViruses]]
