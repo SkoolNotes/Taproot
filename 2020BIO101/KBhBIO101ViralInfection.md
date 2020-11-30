@@ -95,14 +95,12 @@ Depends on what [[KBhBIO101SenseAndAntisense]] the viral RNA is, there are diffe
 * with +ssRNA, takes +ssRNA and makes temporary -ssRNA which makes more +ssRNA
 * with -ssRNA, takes -ssRNA, and makes temporary +ssRNA, which makes -ssRNA
 
-Instead of waiting for the RNA-dependent-RNA polymerease of the cell, viruses sometimes decide to just 
+Instead of waiting for the RNA-dependent-RNA polymerease of the cell, viruses sometimes decide to just bring-your-own-polymerease to catalyze this process.
 
+### Packaging
+"Viral self-assembly" — make the protein, and, without ATP, just seal the newly-formed virus DNA in.
 
-#### Packaging
-
-Does not require ATP. Just sealed in.
-
-#### Viral Exis
+### Viral Exit
 
 **Lysis**
 

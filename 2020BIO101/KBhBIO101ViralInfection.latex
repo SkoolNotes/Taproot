@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5446)}}    % original
-%\rhead{\textrmlf{Compiled }\#5446\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5446\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5447)}}    % original
+%\rhead{\textrmlf{Compiled }\#5447\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5447\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -390,15 +390,17 @@ there are different processes
 \end{itemize}
 
 Instead of waiting for the RNA-dependent-RNA polymerease of the cell,
-viruses sometimes decide to just
+viruses sometimes decide to just bring-your-own-polymerease to catalyze
+this process.
 
 \hypertarget{packaging}{%
 \paragraph{Packaging}\label{packaging}}
 
-Does not require ATP. Just sealed in.
+``Viral self-assembly'' --- make the protein, and, without ATP, just
+seal the newly-formed virus DNA in.
 
-\hypertarget{viral-exis}{%
-\paragraph{Viral Exis}\label{viral-exis}}
+\hypertarget{viral-exit}{%
+\paragraph{Viral Exit}\label{viral-exit}}
 
 \textbf{Lysis}
 
