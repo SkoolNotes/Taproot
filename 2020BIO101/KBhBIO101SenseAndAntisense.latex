@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5443)}}    % original
-%\rhead{\textrmlf{Compiled }\#5443\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5443\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5444)}}    % original
+%\rhead{\textrmlf{Compiled }\#5444\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5444\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -169,6 +169,11 @@
 
 \hypertarget{sense-and-antisense-dnarna}{%
 \section{Sense and Antisense DNA/RNA}\label{sense-and-antisense-dnarna}}
+
+Although DNA is usually complementary and RNA usually single-stranded,
+they both have named complementary pairs that perform different
+function. Here's a table to help decode the vocab and find the purpose
+of each thing:
 
 \begin{longtable}[]{@{}lll@{}}
 \toprule

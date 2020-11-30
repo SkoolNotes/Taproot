@@ -6,6 +6,7 @@ course: BIO101
 ---
 
 # Sense and Antisense DNA/RNA
+Although DNA is usually complementary and RNA usually single-stranded, they both have named complementary pairs that perform different function. Here's a table to help decode the vocab and find the purpose of each thing:
 
 | Type | Identifier | Purpose |
 |---|---|---|
