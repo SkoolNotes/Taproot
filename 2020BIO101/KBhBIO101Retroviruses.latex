@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5468)}}    % original
-%\rhead{\textrmlf{Compiled }\#5468\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5468\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5469)}}    % original
+%\rhead{\textrmlf{Compiled }\#5469\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5469\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -187,7 +187,17 @@ then\ldots{}
   (template strand DNA).
 \item
   And, ready for this? The virus then uses an enzyme called
-  \textbf{intergraese}
+  \textbf{intergraese} to thread the viral dsDNA into the cell's normal
+  nucleaus
 \end{itemize}
+
+A bonus for HIV (which is a Retrovirus) --- it utilities
+\textbf{protease} to cut HIV's polyproteins into individual parts ready
+for budding.
+
+\hypertarget{retroviruses-late-stage}{%
+\subsection{Retroviruses, Late Stage}\label{retroviruses-late-stage}}
+
+The proviral re
 
 \end{document}
