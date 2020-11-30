@@ -47,8 +47,9 @@ How do we make nucleic acids? Can you guess? Huh? **Dehydration synthesis!**
 |---|---|---|
 | DNA 3'...5' | DNA Antisense/Noncoding/Template Strand | Used as a template for transcription |
 | DNA 5'...3' | DNA Sense/Coding/Nontemplate Strand | The complement to the template strand + what is being used (bar urisil) in RNA form to perform protein synthesis |
-| RNA 3'...5' | mRNA Sense/+ss Strand | 
- 
+| RNA 3'...5' | mRNA Sense/+ss Strand | RNA transcribed from the template antisense strand that codes for a protein |
+| RNA 3'...5' | mRNA Sense/+ss Strand | RNA transcribed from the template antisense strand |
+
 **Temp copies of genome is RNA, permanent record in DNA**
  
  ## The Central Dogma

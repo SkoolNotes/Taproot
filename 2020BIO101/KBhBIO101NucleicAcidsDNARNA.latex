@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5440)}}    % original
-%\rhead{\textrmlf{Compiled }\#5440\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5440\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5441)}}    % original
+%\rhead{\textrmlf{Compiled }\#5441\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5441\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -293,9 +293,17 @@ in RNA form to perform protein synthesis\strut
 \begin{minipage}[t]{0.30\columnwidth}\raggedright
 RNA 3'\ldots5'\strut
 \end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
-mRNA Sense/+ss\strut
+mRNA Sense/+ss Strand\strut
 \end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
-\strut
+RNA transcribed from the template antisense strand that codes for a
+protein\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+RNA 3'\ldots5'\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+mRNA Sense/+ss Strand\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+RNA transcribed from the template antisense strand\strut
 \end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
