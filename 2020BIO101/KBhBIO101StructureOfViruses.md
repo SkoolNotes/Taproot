@@ -5,7 +5,7 @@ author: Houjun Liu
 course: BIO101
 ---
 
-# Viruses
+# Structure of Viruses
 * **All contain**
 	* Capsid => structural protein coat
 	* Genome => RNA/DNA; but not both

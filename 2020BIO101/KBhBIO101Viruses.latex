@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5400)}}    % original
-%\rhead{\textrmlf{Compiled }\#5400\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5400\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5402)}}    % original
+%\rhead{\textrmlf{Compiled }\#5402\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5402\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -205,5 +205,10 @@ difference in share and size
 \subsection{Structure of Viruses}\label{structure-of-viruses}}
 
 See {[}{[}KBhBIO101StructureOfViruses{]}{]}
+
+\hypertarget{types-of-viruses}{%
+\subsection{Types of Viruses}\label{types-of-viruses}}
+
+See {[}{[}KB
 
 \end{document}
