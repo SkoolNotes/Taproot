@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5393)}}    % original
-%\rhead{\textrmlf{Compiled }\#5393\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5393\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5394)}}    % original
+%\rhead{\textrmlf{Compiled }\#5394\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5394\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -169,5 +169,32 @@
 
 \hypertarget{viruses}{%
 \section{Viruses}\label{viruses}}
+
+\definition{Viruses}{Acellular Macromolecular Assemblies}
+
+\begin{itemize}
+\tightlist
+\item
+  Contain protein coat called capsid
+\item
+  DNA or RNA, but not both
+\item
+  Are obligate parasites that could only replicate within host
+\end{itemize}
+
+Assembled and mature viral particles =\textgreater{} virions, which
+contain\ldots{}
+
+Virons contain\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  Capsid
+\item
+  Genetic material
+\item
+  Occationally outside lipid layer
+\end{itemize}
 
 \end{document}
