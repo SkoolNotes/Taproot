@@ -41,6 +41,8 @@ Now, with the viruses's DNA out on full display inside the cell, how do we make 
 
 ![Screen Shot 2020-10-12 at 11.04.53 PM.png](Screen Shot 2020-10-12 at 11.04.53 PM.png)
 
+See [[KBhBIO101ViralReplication]]
+
 **For DNA Viruses...**
 
 *How are viral mRNAs produced from the viral genome?*
