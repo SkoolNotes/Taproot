@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5481)}}    % original
-%\rhead{\textrmlf{Compiled }\#5481\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5481\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5482)}}    % original
+%\rhead{\textrmlf{Compiled }\#5482\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5482\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,17 +175,15 @@
 
 Whole segments of genome exchange abruptly as two flu viruses infect the
 same cell to create a new strand. There are two mechnisms by which
-happens --- ( \#ASK ) the \textbf{crossing-over mechnism} (I think
-that's where two viruses coinfect the same cell, causing cross-talk) and
-\textbf{genome segment reassortment} (I think that's where the same
-virus with many sections (HIV polyprotein sections or ozaki fragments? I
-think the latter)
+happens --- ( \#ASK ) the \textbf{crossing-over mechnism} (self-mixing
+of polyprotein sections or ozaki fragments? I think the latter) and
+\textbf{genome segment reassortment} (I think that's where two viruses
+coinfect the same cell, causing cross-talk in swapping segments)
 
 \hypertarget{genetic-drift}{%
 \subsection{Genetic Drift}\label{genetic-drift}}
 
-This usually occurs due an error in a polymerase-driven process.
-
+This usually occurs due an error in a polymerase-driven process, where
 Single/groups of nucleotides flip slowly over time due to mistakes in
 {[}{[}KBhBIO101RNAReplication{]}{]}.
 
