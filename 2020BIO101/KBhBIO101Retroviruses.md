@@ -19,7 +19,16 @@ A bonus for HIV (which is a Retrovirus) — it utilities **protease** to cut HIV
 ## Retroviruses, Late Stage
 The proviral region (the part that makes virus) newly inserted to the cell's DNA is transcribed slowly when normal [[KBhBIO101CentralDogma]] comes across it to synthesize proteins.
 
-When the cell is undergoing [[KBhBIO101CellCycle]], the proviral area is replicated and exported as usual, making descendents of the cell also have the proviral region.
+When the cell is undergoing [[KBhBIO101CellCycle]], the proviral area is replicated and exported as usual, making descendents of the cell also have the proviral region. This property makes these viruses especially hard to get rid of, which is why we still can't cure HIV.
 
+***
+
+To make these activities happen, the virus needs two enzymes — **Reverse Transcriptaese** + **Intergraese**
+
+- **Reverse Transcriptase**
+	- Transcript RNA to double-stranded RNA
+	- Take double-stranded RNA to turn into DNA
+- **Integrase**
+	- Force insert the DNA into the genome of the host cell
 
 

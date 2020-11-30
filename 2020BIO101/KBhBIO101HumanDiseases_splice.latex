@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5466)}}    % original
-%\rhead{\textrmlf{Compiled }\#5466\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5466\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5471)}}    % original
+%\rhead{\textrmlf{Compiled }\#5471\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5471\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -176,62 +176,12 @@ are here}
 
 \#flo \#disorganized
 
-\hypertarget{retroviruses-how-to-stop-them}{%
-\subsubsection{Retroviruses + How to Stop
-Them}\label{retroviruses-how-to-stop-them}}
-
-\hypertarget{early-events}{%
-\paragraph{Early Events}\label{early-events}}
+o make this happen, the virus needs\ldots{}
 
 \begin{itemize}
 \tightlist
 \item
-  Viruses is uncoated, and uses an enzyme called reverse transcriptase
-  to turn ssRNA to cDNA, and finally into dsDNA
-\item
-  Then, the enzyme integrase threads the viral dsDNA into the cell's
-  nucleaus
-\item
-  HIV protease cuts HIV polyproteins into individual parts ready for
-  budding
-\end{itemize}
-
-\hypertarget{late-events}{%
-\paragraph{Late Events}\label{late-events}}
-
-\begin{itemize}
-\tightlist
-\item
-  Proviral region is transcribed slowly whenever ribosome comes across
-  it by the host DNA polymerase II to make viral proteins + replicate
-  the viral genome
-\item
-  Components are later exported, assembled, and slowly released through
-  budding
-\end{itemize}
-
-To make this happen, the virus needs\ldots{}
-
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Reverse Transcriptase}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Transcript RNA to double-stranded RNA
-  \item
-    Take double-stranded RNA to turn into DNA
-  \end{itemize}
-\item
-  \textbf{Integrase}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Force insert the DNA into the genome of the host cell
-  \end{itemize}
+  Force insert the DNA into the genome of the host cell
 \end{itemize}
 
 And because of the fact that viral DNA is now in cellular DNA, these

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5470)}}    % original
-%\rhead{\textrmlf{Compiled }\#5470\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5470\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5471)}}    % original
+%\rhead{\textrmlf{Compiled }\#5471\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5471\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -202,5 +202,36 @@ The proviral region (the part that makes virus) newly inserted to the
 cell's DNA is transcribed slowly when normal
 {[}{[}KBhBIO101CentralDogma{]}{]} comes across it to synthesize
 proteins.
+
+When the cell is undergoing {[}{[}KBhBIO101CellCycle{]}{]}, the proviral
+area is replicated and exported as usual, making descendents of the cell
+also have the proviral region.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+To make these activities happen, the virus needs two enzymes ---
+\textbf{Reverse Transcriptaese} + \textbf{Intergraese}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Reverse Transcriptase}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Transcript RNA to double-stranded RNA
+  \item
+    Take double-stranded RNA to turn into DNA
+  \end{itemize}
+\item
+  \textbf{Integrase}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Force insert the DNA into the genome of the host cell
+  \end{itemize}
+\end{itemize}
 
 \end{document}

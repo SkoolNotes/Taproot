@@ -11,26 +11,9 @@ A lecture by the Legendary Dr. Paul Hauser. [Slides are here](https://docs.googl
 #flo #disorganized 
 
 
-### Retroviruses + How to Stop Them
+o make this happen, the virus needs...
 
-#### Early Events
-
-* Viruses is uncoated, and uses an enzyme called reverse transcriptase to turn ssRNA to cDNA, and finally into dsDNA
-* Then, the enzyme integrase threads the viral dsDNA into the cell's nucleaus
-* HIV protease cuts HIV polyproteins into individual parts ready for budding
-
-#### Late Events
-
-* Proviral region is transcribed slowly whenever ribosome comes across it by the host DNA polymerase II to make viral proteins + replicate the viral genome
-* Components are later exported, assembled, and slowly released through budding
-
-To make this happen, the virus needs...
-
-- **Reverse Transcriptase**
-	- Transcript RNA to double-stranded RNA
-	- Take double-stranded RNA to turn into DNA
-- **Integrase**
-	- Force insert the DNA into the genome of the host cell
+- Force insert the DNA into the genome of the host cell
 
 And because of the fact that viral DNA is now in cellular DNA, these viruses' DNAs are hard to get rid of.
 
