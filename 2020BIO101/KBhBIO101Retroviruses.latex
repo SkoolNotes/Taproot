@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5467)}}    % original
-%\rhead{\textrmlf{Compiled }\#5467\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5467\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5468)}}    % original
+%\rhead{\textrmlf{Compiled }\#5468\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5468\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -172,5 +172,22 @@
 
 \textbf{Viruses that have the ability to intergrate into the chromosomes
 of the host cell}
+
+\hypertarget{retroviruses-infection}{%
+\subsection{Retroviruses, infection}\label{retroviruses-infection}}
+
+Normal {[}{[}KBhBIO101ViralInfection{]}{]} infection stuff happen, but
+then\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  As the virus is uncoated, it uses an enzyme called ``reverse
+  transcriptaese'' to turn ssRNA to cDNA, and finally into dsDNA
+  (template strand DNA).
+\item
+  And, ready for this? The virus then uses an enzyme called
+  \textbf{intergraese}
+\end{itemize}
 
 \end{document}
