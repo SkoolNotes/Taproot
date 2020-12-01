@@ -23,6 +23,7 @@ source:  #index
 - Merchants ranked low in confucian vlue system 
 - trade to the Qing gov was not for generationg wealth but rather more like a charity granted to the "barbarians"
 	- In exchange, they would pay respects to the son of heaven and his court? 
+- Led to bad trade conditions for the british merchants
 - 
 
 
