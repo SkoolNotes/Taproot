@@ -22,8 +22,10 @@ course: HIST101
 * The Taiping Movement
 	* Taiping movement threatened the Qing government’s (a.k.a. British) trading of opium, but supported the spead of Christianity (albeit the flavor where the emperor is Jesus’ yonger brother.)
 	* Power struggle in the Taiping regieme lead to internal collapse a few years later.
-Manchu weakness forced them to give the Chinese-Chinese army more power.
-In 1858, Anglo-French forces invaded Beijing, storming the summer palace, took over the Chinese tax system, and eventually basically established the Qing rule as a colony of the west.
+	* Manchu weakness forced them to give the Chinese-Chinese army more power to quell the movement
+	
+**In 1858, Anglo-French forces invaded Beijing, storming the summer palace, took over the Chinese tax system, and eventually basically established the Qing rule as a colony of the west.**
+
 Kidnapped Chinese people to serve as indentured servants in the west.
 Confusion officials called for “self-strengthening”, usually to little results due to the argricultural-dependent Qing state.
 The empress dowager’s mismanagement of funds are CLAIM a symptom of the Qing court weakness.
