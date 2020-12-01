@@ -10,13 +10,15 @@ course: HIST101
 
 ## Failures of the Qing court
 * Considered the British as a lowly subject and dismissed their claims to increase trade and communication
-* Created a high trade deficit through the oblivious to trade
+* Created a high trade deficit through the oblivious to trade through Confucian philosophy
 
-The British used opium as compensation for the trade deficit between Britian=>China and China=>Britian
+## The Opium Wars
+* The British used opium as compensation for the trade deficit between Britian=>China and China=>Britian
+* When Chinese officials began controlling the trade of opionum, it was both to late and also was handled with mixed results due to difference in opionion.
+* When sudden enforcement of trade occured, the British felt like it was an insult to the British crown and proceeded to wage war against the navally-weak China.
+* After loosing the opionum war, the Qing court had to agree to a series of supplicating agreements that ended with hurtful consiquences and CLAIM without realizing destroyed the foreign policies of China.
 
-When Chinese officials began controlling the trade of opionum, it was both to late and also was handled with mixed results due to difference in opionion.
-When sudden enforcement of trade occured, the British felt like it was an insult to the British crown and proceeded to wage war against the navally-weak China.
-After loosing the opionum war, the Qing court had to agree to a series of supplicating agreements that ended with hurtful consiquences and CLAIM without realizing destroyed the foreign policies of China.
+## The Establishment of the
 Taiping movement threatened the Qing government’s (a.k.a. British) trading of opium, but supported the spead of Christianity (albeit the flavor where the emperor is Jesus’ yonger brother.)
 Power struggle in the Taiping regieme lead to internal collapse a few years later.
 Manchu weakness forced them to give the Chinese-Chinese army more power.
