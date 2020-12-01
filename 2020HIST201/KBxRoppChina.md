@@ -36,6 +36,9 @@ source:  #index
 - Totally chrushed chinese forces 
 - led to the british taking control over the policies, and increased opium trade a bunch 
 - bunch of rebelions occured, see pg. 66.5 
+- Japan beat the Qing in a war, got taiwan? 
+	- Becuase of this, other governments backed off on China out of fear that it would collapse 
+- Also led to (lots of) civil unrest
 - 
 
 
