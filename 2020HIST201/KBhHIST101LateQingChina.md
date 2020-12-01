@@ -6,8 +6,9 @@ course: HIST101
 ---
 
 # Late Qing China
-The Qing dynasty’s failure is centered upon the early Industrial Rev.
-CLAIM: Qing court became oblivious and uncaring
+**The Qing dynasty’s failure is centered upon the early Industrial Rev.**
+
+After the Qing court became oblivious and uncaring
 Considered the British as a lowly subject and dismissed their claims to increase trade and communication
 The British used opium as compensation for the trade deficit between Britian=>China and China=>Britian
 When Chinese officials began controlling the trade of opionum, it was both to late and also was handled with mixed results due to difference in opionion.
@@ -28,4 +29,3 @@ The Boxer rebellion urged the whole country to dispose of any foreigners there m
 Urge for the adoption of constitutional monarchy created centers of opposition to the Qing imperial system.
 Sun Zhongshan, after being found out to promote the overthrowing of the Chinese governement, fled to Japan and established his concept of revolution.
 Qiu Jin — a woman revolutionary who studied in Japan and went back to China for the revolutionary cause. She was later executed for treasion.
-
