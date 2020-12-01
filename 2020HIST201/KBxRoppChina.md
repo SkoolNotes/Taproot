@@ -12,9 +12,7 @@ source:  #index
 
 # On China, Ropp. 
 
-
-
-
+## Fall + aftermath of the Qing Empire (1800 - 1920)
 
 
 
