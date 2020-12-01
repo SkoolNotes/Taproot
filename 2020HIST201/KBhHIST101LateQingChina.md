@@ -29,15 +29,16 @@ course: HIST101
 * Kidnapped Chinese people to serve as indentured servants in the west.
 * Confusion officials called for “self-strengthening”, usually to little results due to the argricultural-dependent Qing state.
 
-## The Empress Dowager vs. Herself vs. The Europeans
+## Japan vs. China
+* The Chinese succeded Taiwan to Japan 
+* Lead the Western nations to fear for the collapse of the profitable Qing dynasty
+* In turn, the **Scramble for consessions** occured where contries fervantly attempted to establish special trading licenses.
+* The uninvolved US issued “open door notes” to all contries, calling on opening China as a free trade zone.
+	
+## The Empress Dowagers vs. Herself vs. The Europeans
 * The empress dowager’s mismanagement of funds are CLAIM a symptom of the Qing court weakness.
-* Japan vs. China
-	* The Chinese succeded Taiwan to Japan 
-	* Lead the Western nations to fear for the collapse of the profitable Qing dynasty
-	* In turn, the **Scramble for consessions** occured where contries fervantly attempted to establish special trading licenses.
-The uninvolved US issued “open door notes” to all contries, calling on opening China as a free trade zone.
-Kang Youwei urged the emperor to issue many edicts of westernization, but was quickly crushed by the empress dowager cixi.
-Conservatives seized the control of the Qing court, which resulted in more anger and mutiny throughout the country (but, interestingly, against western regions.)
+* Kang Youwei urged the emperor to issue many edicts of westernization, but was quickly crushed by the empress dowager cixi.
+* Conservatives seized the control of the Qing court, which resulted in more anger and mutiny throughout the country (but, interestingly, against western regions.)
 The Boxer rebellion urged the whole country to dispose of any foreigners there may be for they believed that the foreigners were the root of Qing dynasty’s problems. The empress eventually suported their decision, causing the 8-nation army to invade and her to fleed to the countryside. After this, the e.d. decided to support westernization.
 Urge for the adoption of constitutional monarchy created centers of opposition to the Qing imperial system.
 Sun Zhongshan, after being found out to promote the overthrowing of the Chinese governement, fled to Japan and established his concept of revolution.
