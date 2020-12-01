@@ -32,6 +32,7 @@ source:  #index
 	- changed the flow from basicly soley china -> britin (tea) to britin -> chin (opium)
 - Opium addiction went crazy 
 - Totally killed trade surplus
+- Chinese gov destroyed a bunch of opium, britian sent warships 
 - 
 
 
