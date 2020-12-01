@@ -91,6 +91,7 @@ source: #index
 - Bulliet: British Rag [[KBhHIST201BritishRaj]]
 - Mason Ch 8 [[KBhHIST201MasonCh8]]
 - Ropp on China [[KBxRoppChina]]
+- Ropp-late Late China [[KBhHIST101LateQingChina]]
 
 # Essays
 * Essay 1
