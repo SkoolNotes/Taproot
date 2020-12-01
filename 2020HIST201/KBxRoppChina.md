@@ -42,7 +42,7 @@ source:  #index
 - Heavy westernization occured
 - reformers got crushed, conservatives seized control of the court
 - bunch o' dates and stuff about revolutionaries
-- 
+- Look how it ended on pg. 70! 
 
 
 
