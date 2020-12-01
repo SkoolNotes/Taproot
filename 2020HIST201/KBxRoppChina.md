@@ -40,6 +40,7 @@ source:  #index
 	- Becuase of this, other governments backed off on China out of fear that it would collapse 
 - Also led to (lots of) civil unrest
 - Heavy westernization occured
+- reformers got crushed, conservatives seized control of the court
 - 
 
 
