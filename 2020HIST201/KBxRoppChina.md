@@ -41,6 +41,7 @@ source:  #index
 - Also led to (lots of) civil unrest
 - Heavy westernization occured
 - reformers got crushed, conservatives seized control of the court
+- bunch o' dates and stuff about revolutionaries
 - 
 
 
