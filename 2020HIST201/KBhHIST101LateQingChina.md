@@ -26,10 +26,15 @@ course: HIST101
 	
 **In 1858, Anglo-French forces invaded Beijing, storming the summer palace, took over the Chinese tax system, and eventually basically established the Qing rule as a colony of the west.**
 
-Kidnapped Chinese people to serve as indentured servants in the west.
-Confusion officials called for “self-strengthening”, usually to little results due to the argricultural-dependent Qing state.
-The empress dowager’s mismanagement of funds are CLAIM a symptom of the Qing court weakness.
-The Chinese sussession of Taiwan to Japan lead the Western nations to fear for the collapse of the profitable Qing dynasty; in turn, the “Scramble for consessions” occured where contries fervantly attempted to establish special trading licenses.
+* Kidnapped Chinese people to serve as indentured servants in the west.
+* Confusion officials called for “self-strengthening”, usually to little results due to the argricultural-dependent Qing state.
+
+## The Empress Dowager vs. Herself vs. The Europeans
+* The empress dowager’s mismanagement of funds are CLAIM a symptom of the Qing court weakness.
+* Japan vs. China
+	* The Chinese succeded Taiwan to Japan 
+	* Lead the Western nations to fear for the collapse of the profitable Qing dynasty
+	* In turn, the **Scramble for consessions** occured where contries fervantly attempted to establish special trading licenses.
 The uninvolved US issued “open door notes” to all contries, calling on opening China as a free trade zone.
 Kang Youwei urged the emperor to issue many edicts of westernization, but was quickly crushed by the empress dowager cixi.
 Conservatives seized the control of the Qing court, which resulted in more anger and mutiny throughout the country (but, interestingly, against western regions.)
