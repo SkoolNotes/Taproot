@@ -35,6 +35,7 @@ source:  #index
 - Chinese gov destroyed a bunch of opium, britian sent warships 
 - Totally chrushed chinese forces 
 - led to the british taking control over the policies, and increased opium trade a bunch 
+- bunch of rebelions occured, see pg. 66.5 
 - 
 
 
