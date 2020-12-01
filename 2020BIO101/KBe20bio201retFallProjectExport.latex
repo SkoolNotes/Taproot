@@ -123,9 +123,9 @@ Channels" }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5553)}}    % original
-%\rhead{\textrmlf{Compiled }\#5553\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5553\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5554)}}    % original
+%\rhead{\textrmlf{Compiled }\#5554\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5554\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -168,8 +168,7 @@ Channels" }
 \textbf{Source}:\thinspace 
 
 \hypertarget{sources}{%
-\section{\texorpdfstring{Sources
-{\textsc{source}}}{Sources source}}\label{sources}}
+\section{Sources}\label{sources}}
 
 \begin{itemize}
 \tightlist
