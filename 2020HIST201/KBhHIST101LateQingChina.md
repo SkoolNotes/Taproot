@@ -18,9 +18,10 @@ course: HIST101
 * When sudden enforcement of trade occured, the British felt like it was an insult to the British crown and proceeded to wage war against the navally-weak China.
 * After loosing the opionum war, the Qing court had to agree to a series of supplicating agreements that ended with hurtful consiquences and CLAIM without realizing destroyed the foreign policies of China.
 
-## The Establishment of the
-Taiping movement threatened the Qing government’s (a.k.a. British) trading of opium, but supported the spead of Christianity (albeit the flavor where the emperor is Jesus’ yonger brother.)
-Power struggle in the Taiping regieme lead to internal collapse a few years later.
+## Beginnings of Unrest
+* The Taiping Movement
+	* Taiping movement threatened the Qing government’s (a.k.a. British) trading of opium, but supported the spead of Christianity (albeit the flavor where the emperor is Jesus’ yonger brother.)
+	* Power struggle in the Taiping regieme lead to internal collapse a few years later.
 Manchu weakness forced them to give the Chinese-Chinese army more power.
 In 1858, Anglo-French forces invaded Beijing, storming the summer palace, took over the Chinese tax system, and eventually basically established the Qing rule as a colony of the west.
 Kidnapped Chinese people to serve as indentured servants in the west.
