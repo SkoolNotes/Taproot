@@ -1,11 +1,65 @@
 ---
 title:   Ropp on China 
-context: 
-author:  
+context: HIST201
+author:  Huxley
 source:  #index
 ---
 
-#flo #ref #ret 
-#disorganized #incomplete
+#flo #ref  #disorganized
 
 ---
+
+
+# On China, Ropp. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
