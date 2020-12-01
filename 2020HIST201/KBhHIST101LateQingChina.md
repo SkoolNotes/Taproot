@@ -8,9 +8,12 @@ course: HIST101
 # Late Qing China
 **The Qing dynasty’s failure is centered upon the early Industrial Rev.**
 
-After the Qing court became oblivious and uncaring
-Considered the British as a lowly subject and dismissed their claims to increase trade and communication
+## Failures of the Qing court
+* Considered the British as a lowly subject and dismissed their claims to increase trade and communication
+* Created a high trade deficit through the oblivious to trade
+
 The British used opium as compensation for the trade deficit between Britian=>China and China=>Britian
+
 When Chinese officials began controlling the trade of opionum, it was both to late and also was handled with mixed results due to difference in opionion.
 When sudden enforcement of trade occured, the British felt like it was an insult to the British crown and proceeded to wage war against the navally-weak China.
 After loosing the opionum war, the Qing court had to agree to a series of supplicating agreements that ended with hurtful consiquences and CLAIM without realizing destroyed the foreign policies of China.
