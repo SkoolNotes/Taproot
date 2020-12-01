@@ -380,3 +380,25 @@ source: KBhMUS150D1
 - Heavily duplicated vocals in background adds additional texture
 - Electric flute mixes traditional instrumentation with electro flow
 - Bold usage of silence
+
+# 12012020
+
+**You**
+
+- Creative use of the background precussion to create an innovative sequence
+- Synth serves are a more decorative element instead of the main idea of the song
+- Lyrics also strangely precussive and serves also to decorative the precussion of the song
+
+**Necessary Evil**
+
+- Vocals have the sound of reggae
+- Usage of tribalistic elements in the background percussion
+- Heavy echo + texured eq on the vocalso
+- Sudden distortion like Rock music
+
+**Sense**
+
+- Folk sounding background music
+- Traditionally pitch-bendy folk sound signature
+- Standard 
+bl
