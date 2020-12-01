@@ -27,7 +27,8 @@ source:  #index
 - denied british requests for better env, emporer said 
 	- > standard emperor’s command to his lowly subjects: “Tremblingly obey and show no negligence!”
 	- fun. 
-- 
+- > The emperor’s condescending attitude reflected how little he under stood the power realities of the world at the end of the eighteenth cen- tury.
+-  Opium got added to the mix, 
 
 
 
