@@ -24,6 +24,9 @@ source:  #index
 - trade to the Qing gov was not for generationg wealth but rather more like a charity granted to the "barbarians"
 	- In exchange, they would pay respects to the son of heaven and his court? 
 - Led to bad trade conditions for the british merchants
+- denied british requests for better env, emporer said 
+	- > standard emperor’s command to his lowly subjects: “Tremblingly obey and show no negligence!”
+	- fun. 
 - 
 
 
