@@ -10,7 +10,7 @@ source:  #index
 ---
 
 
-# On China, Ropp. 
+# On China, Ropp. (63 - 70)
 
 
 
@@ -20,6 +20,9 @@ source:  #index
 - chinese trade sucked
 	- British traders became frustrated
 	- But they liked the chinese products alot and were buying alot of them
+- Merchants ranked low in confucian vlue system 
+- trade to the Qing gov was not for generationg wealth but rather more like a charity granted to the "barbarians"
+	- In exchange, they would pay respects to the son of heaven and his court? 
 - 
 
 
