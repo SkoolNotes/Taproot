@@ -91,7 +91,7 @@ Imagine you lived in America. Where the sun always shines (except when it doesn'
 
 ### Reflection! 
 
-In my pastiche, I tried to replicate the style of the first section in Jamaica Kincaid's *A Small Place*. Stylistically, the primary way this section differs from the rest of the book is through Kincaid's overwhelming use of second person point of view. This technique served as a sort of transport mechanism for Kincaid's true messages, usually delivered with sarcasm while being hidden in parenthesis.
+In my pastiche, I tried to replicate the style of the first section in Jamaica Kincaid's *A Small Place*. Stylistically, the primary way this section differs from the rest of the book is through Kincaid's overwhelming use of second person point of view. This technique served as a sort of transport mechanism for Kincaid's true messages, usually delivered with sarcasm while being hidden in parenthesis. I focused on this technique heavily in my pastiche. 
 
 
 
