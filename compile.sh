@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-BUILDNUMBER_FILE=buildid.txt
+BUILDNUMBER_FILE="buildID.txt"
 
 declare -A filetype
 filetype[md]=markdown

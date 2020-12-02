@@ -1,7 +1,7 @@
 #!/bin/zsh
 #taproot_path="../../Taproot/"
 taproot_backup_path="../taproot-backup"
-BUILDNUMBER_FILE='buildID.txt'
+#BUILDNUMBER_FILE='buildID.txt'
 
 while true; do
     printf "working...                                                         \r"
@@ -26,7 +26,7 @@ while true; do
         ./compile.sh
 
         #if make >> log.txt 2>>recent_errors.txt; then
-        #    [[ -f $BUILDNUMBER_FILE ]] || echo 0 > $BUILDNUMBER_FILE;
+            #[[ -f $BUILDNUMBER_FILE ]] || echo 0 > $BUILDNUMBER_FILE;
         #    echo $(( $(cat $BUILDNUMBER_FILE) + 1 )) > $BUILDNUMBER_FILE
         #fi
         (git add -A >> log.txt && \
