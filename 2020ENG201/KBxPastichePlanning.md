@@ -91,7 +91,7 @@ Imagine you lived in America. Where the sun always shines (except when it doesn'
 
 ### Reflection! 
 
-In my pastiche, I tried to replicate the style of specifically the first sections of Kincaid's style 
+In my pastiche, I tried to replicate the style of the first section in Jamaica Kincaid's *A Small Place*. Stylisticly, the primary way this section differs from the rest of the book is through her use of overwhelming 
 
 
 
