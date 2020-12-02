@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5189)}}    % original
-%\rhead{\textrmlf{Compiled }\#5189\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5189\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5588)}}    % original
+%\rhead{\textrmlf{Compiled }\#5588\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5588\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -202,18 +202,54 @@
   \end{itemize}
 \end{itemize}
 
-\#\#\# Differential Gene Expression - Human Cells can express about 20\%
-of it's protein coded genes at any given time - Most cells contain the
-same genome - Each cell type must use specific parts of this genome -
-This is called Differential gene expression - Exception would be cells
-of the immune system - Due to the importance of gene expression when it
-has issues it can affect the organism significantly - Process of Gene
-expression in a Eukaryotic cell - Chromatin (DNA unpacking)
---\textgreater{} - RNA processing --\textgreater{} - Transport to
-cytoplasm --\textgreater{} - Translation --\textgreater{} - Protein
-processing --\textgreater{} - Transport to cellular
-destination--\textgreater{} - This process can often be equated to
-transcription for Prokaryote cells
+\#\#\# Differential Gene Expression
+
+\begin{itemize}
+\tightlist
+\item
+  Human Cells can express about 20\% of it's protein coded genes at any
+  given time
+\item
+  Most cells contain the same genome
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Each cell type must use specific parts of this genome
+
+    \begin{itemize}
+    \tightlist
+    \item
+      This is called Differential gene expression
+    \end{itemize}
+  \item
+    Exception would be cells of the immune system
+  \end{itemize}
+\item
+  Due to the importance of gene expression when it has issues it can
+  affect the organism significantly
+\item
+  Process of Gene expression in a Eukaryotic cell
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Chromatin (DNA unpacking) --\textgreater{}
+  \item
+    RNA processing --\textgreater{}
+  \item
+    Transport to cytoplasm --\textgreater{}
+  \item
+    Translation --\textgreater{}
+  \item
+    Protein processing --\textgreater{}
+  \item
+    Transport to cellular destination--\textgreater{}
+  \end{itemize}
+\item
+  This process can often be equated to transcription for Prokaryote
+  cells
+\end{itemize}
 
 \hypertarget{regulation-of-chromatin-structure}{%
 \subsubsection{Regulation of Chromatin

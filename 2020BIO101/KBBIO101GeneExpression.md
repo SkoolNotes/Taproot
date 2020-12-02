@@ -8,7 +8,9 @@ source: KBBiologyMasterIndex
 ---
 
 # Notes
+
 ### Overview
+
  - Organisms turn genes on and off which is called Gene Expression
 	 - This can be done in response to external and internal signals
 		 - These signals are based off of environmental factors
@@ -16,6 +18,7 @@ source: KBBiologyMasterIndex
 		 - Certain cells need certain genes to preform their specific role
 
  ### Differential Gene Expression
+ 
   - Human Cells can express about 20% of it's protein coded genes at any given time
   - Most cells contain the same genome
 	  - Each cell type must use specific parts of this genome
@@ -32,6 +35,7 @@ source: KBBiologyMasterIndex
   - This process can often be equated to transcription for Prokaryote cells
 
 ### Regulation of Chromatin Structure
+
  - The chromatin structure itself allows for the regulation of gene expression
 	 - This is partially due to the location of the promoter
  - Chemical modifications to the histone proteins can affect the structure

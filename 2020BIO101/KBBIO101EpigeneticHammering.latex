@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Biology Master Index }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -125,7 +125,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5588)}}    % original
 %\rhead{\textrmlf{Compiled }\#5588\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#5588\textrmlf{ on} \today}       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,116 +164,61 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\#source
+\hypertarget{notes}{%
+\section{Notes}\label{notes}}
 
-\hypertarget{introductions}{%
-\subsection{Introductions}\label{introductions}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}00-Topic-KB202008251020{]}{]} Day one, but not broken
-\item
-  Exr0n's notes {[}{[}KB20200825142200{]}{]}
-\item
-  {[}{[}KBhBIO101LetsDoBio{]}{]} Biology, day 1
-\item
-  {[}{[}KBhBIO101WhatsBio{]}{]} What\ldots{} is\ldots{} biology?
-\end{itemize}
-
-\hypertarget{trips-free-association-overview}{%
-\subsection{Trip's Free Association
-Overview}\label{trips-free-association-overview}}
+\hypertarget{genomes}{%
+\subsubsection{Genomes}\label{genomes}}
 
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBFreeAssociationBioReviewHuxley{]}{]} Free Associate
-\end{itemize}
-
-\hypertarget{water}{%
-\subsection{Water}\label{water}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhBIO101Watah{]}{]} Alright! Let's talk about Water.
-\item
-  Huxley: {[}{[}KBWaterFreewrite{]}{]}
-\item
-  Exr0n: {[}{[}KBe20bio101retWaterFreewrite{]}{]}
-\end{itemize}
-
-\hypertarget{diet-finding}{%
-\subsection{Diet Finding}\label{diet-finding}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBBioDietStorage{]}{]}
-\item
-  {[}{[}KBe20bio201retDietFinderIndex{]}{]}
-\end{itemize}
-
-\hypertarget{unsorted}{%
-\subsection{Unsorted}\label{unsorted}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KB20200826090938{]}{]} Emergent Properties
-\item
-  {[}{[}KBhExpirementDesignBIO101{]}{]} Expirement design
-\item
-  {[}{[}KBe20bio101floTripBreakout{]}{]}
-\item
-  Macromolecules
+  The Nucleus contains genes organized into two parts
 
   \begin{itemize}
   \tightlist
   \item
-    Jack --- {[}{[}KBhBIO101Macromolecules{]}{]}
+    Each part is called a genome
+
+    \begin{itemize}
+    \tightlist
+    \item
+      One is sourced from you mother and one from your father
+    \end{itemize}
   \item
-    Hux ---{[}{[}KBMacromelecules{]}{]}
+    Genomes are not the same
   \end{itemize}
 \item
-  {[}{[}KBBIO101YelloSky{]}{]}
+  Breaking up the genome into pieces those are called chromosomes
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Humans have 23
+  \item
+    Having two genomes makes us 2N
+  \end{itemize}
 \item
-  Exr0n's Flows {[}{[}20bio201floD3{]}{]}
-\item
-  Dylan's crappy notes {[}{[}KBd20200911notes{]}{]}
-\item
-  Central Dogma of Biology {[}{[}KBBIO101CentralDogma{]}{]}
-\item
-  Huxley's big project planning doc
-  {[}{[}KBBioPrimoridalSoupPlanning{]}{]}
-\item
-  Eukaryotic Gene Expression {[}{[}KBBIO101GeneExpression{]}{]}
-\item
-  Hammering in Epigenetics {[}{[}KBBIO101EpigeneticHammering{]}{]}
+  Each chromosome has a bunch of genes that are divided up into three
+  parts: the promoter (beginning), coding region (middle), and the
+  terminator (end)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Each gene has enough information for a protein
+  \item
+    Each genome has enough information to generate a human
+  \end{itemize}
 \end{itemize}
 
-\hypertarget{amino-acids}{%
-\subsection{Amino Acids}\label{amino-acids}}
+\hypertarget{epigenetics}{%
+\subsubsection{Epigenetics}\label{epigenetics}}
 
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBhBIO101AminoAcids{]}{]}
-\end{itemize}
-
-\hypertarget{quiz-review-document}{%
-\subsection{Quiz Review Document}\label{quiz-review-document}}
-
-\begin{itemize}
-\tightlist
-\item
-  10092020 {[}{[}KBhBIO101BioMoleculesQuizReview{]}{]}
-\item
-  11302020 {[}{[}KBhBIO101CentralDogmaQuizReview{]}{]}
 \end{itemize}
 
 \end{document}
