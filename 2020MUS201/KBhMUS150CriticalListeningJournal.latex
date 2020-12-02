@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5550)}}    % original
-%\rhead{\textrmlf{Compiled }\#5550\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5550\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5589)}}    % original
+%\rhead{\textrmlf{Compiled }\#5589\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5589\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -945,7 +945,7 @@ vocals - Heavily filtered base - Syncth accenturated vocals
 \item
   Traditionally pitch-bendy folk sound signature
 \item
-  Standard bl
+  Standard
 \end{itemize}
 
 \end{document}
