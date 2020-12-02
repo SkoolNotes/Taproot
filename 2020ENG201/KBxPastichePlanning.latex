@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5569)}}    % original
-%\rhead{\textrmlf{Compiled }\#5569\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5569\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5570)}}    % original
+%\rhead{\textrmlf{Compiled }\#5570\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5570\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -332,6 +332,7 @@ In my pastiche, I tried to replicate the style of the first section in
 Jamaica Kincaid's \emph{A Small Place}. Stylistically, the primary way
 this section differs from the rest of the book is through Kincaid's
 overwhelming use of second person point of view. This technique served
-as a sort of transport mechanism for Kincaid's darker
+as a sort of transport mechanism for Kincaid's true messages, usually
+delivered with sarcasm while being hidden in parenthesis.
 
 \end{document}
