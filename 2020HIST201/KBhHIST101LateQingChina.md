@@ -48,3 +48,31 @@ course: HIST101
 * Urge for the adoption of constitutional monarchy created centers of opposition to the Qing imperial system.
 * Sun Zhongshan, after being found out to promote the overthrowing of the Chinese governement, fled to Japan and established his concept of revolution.
 * Qiu Jin — a woman revolutionary who studied in Japan and went back to China for the revolutionary cause. She was later executed for treasion.
+
+
+# CN1202020
+**China vs. Imperialism**
+
+The Dynastic Cycle...
+
+1. New Empire
+	* Peace
+	* Order
+2. Old Empire
+	* Corruption
+	* Incompetence
+	* Downfaall
+3. Conflict
+	* Natural Disasters
+	* Invasions
+
+Repeat!
+
+The British acquired a large amount of tea, silk, and vermillion from China, but imported basically only Opium.
+
+* Opium => unproductivity
+	* Weakened the productivity of China
+	* Offset the trade deficit with Britian
+
+**Opium is technically illegal**, so the whole operation is largely smuggling.
+
