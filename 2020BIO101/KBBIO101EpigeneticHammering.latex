@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5588)}}    % original
-%\rhead{\textrmlf{Compiled }\#5588\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5588\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5591)}}    % original
+%\rhead{\textrmlf{Compiled }\#5591\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5591\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -219,6 +219,75 @@
 \begin{itemize}
 \tightlist
 \item
+  The epigenome is defined as the collection of DNA, RNA, proteins, and
+  their chemical modifications (generally altering gene expression)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Epigenetic modifications are done by adding marks to the tails of
+    histones
+
+    \begin{itemize}
+    \tightlist
+    \item
+      The addition of an acetyl group causes the tale to relax and
+      release DNA
+
+      \begin{itemize}
+      \tightlist
+      \item
+        This increases transcription
+      \end{itemize}
+    \item
+      Methyl groups can either increase or decrease that pattern of gene
+      expression depending
+
+      \begin{itemize}
+      \tightlist
+      \item
+        putting this directly on DNA permanently shut it down
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  When the envoirnment of a cell changes it creates epigenetic
+  modifications
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is also very useful to cancers as more than half of known
+    cancers contain mutations involved in regulation
+  \end{itemize}
+\end{itemize}
+
+\#\#\# DNA Packaging
+
+\begin{itemize}
+\tightlist
+\item
+  Packaging DNA starts with the assembly of a nucleosome via eight
+  separate histone protein sub units attaching to the DNA
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This creates a tight loop called the nucleosome
+  \end{itemize}
+\item
+  Multiple nucleosomes are coiled together and stacked on top of
+  eachother creating what is known as chromatin
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These are then looped and further packaged
+  \end{itemize}
+\item
+  These make tightly formed structures called chromosomes
+\item
+  DNA is in usually a less organized form during division
 \end{itemize}
 
 \end{document}

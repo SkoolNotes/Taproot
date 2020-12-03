@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ iStudio }
-\newcommand{\thelesson}{ iStudio check-ins }
+\newcommand{\thecourse}{ ML301 }
+\newcommand{\thelesson}{ Ml Master Index }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -125,7 +125,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5591)}}    % original
 %\rhead{\textrmlf{Compiled }\#5591\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#5591\textrmlf{ on} \today}       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxleu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -167,25 +167,16 @@
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\hypertarget{log}{%
-\section{Log}\label{log}}
+\#ref \#incomplete
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Incomplete, due to file deletion.
 
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBhISTUDIO09302020LucieandTara{]}{]}
-\item
-  {[}{[}KBhISTUDIO09302020JulietandSerena{]}{]}
-\item
-  {[}{[}KbhISTUDIO10052020AksharandAnna{]}{]}
-\item
-  {[}{[}KBhISTUDIO10222020TaraandLucie{]}{]}
-\item
-  {[}{[}KBhISTUDIO10282020SerenaAndJuliet{]}{]}
-\item
-  {[}{[}KBhISTUDIO11022020AksharandAnna{]}
-\item
-  {[}{[}KBhISTUDIO12022020SerenaAndJuliet{]}{]}
+  Data Processing: {[}{[}KBDataProcessingRet{]}{]}
 \end{itemize}
 
 \end{document}
