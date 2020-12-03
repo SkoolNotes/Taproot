@@ -402,3 +402,30 @@ source: KBhMUS150D1
 - Traditionally pitch-bendy folk sound signature
 - Standard 
 
+# 12032020
+
+**cz**
+
+- Powerful synths to start
+- "clikcy" beats in the backgroundo
+
+**Tough as Nails**
+
+- Nails as precussion
+- Strong bass
+- Vocals trough formant + vocoder
+- Strong musical backgroundo
+
+**Clouds**
+
+- Strong current vocals and drum sequence
+- Strong bass drop
+- Clicky synths
+
+**15 Step**
+
+- Quick sampler lead synths and drum sequence
+- Synthesized clapps and drum sequence sets the pace
+- Incorporation of traditional rock drumming with hi-tech/techno synth
+- Destortion creates a sense of unbalance in the end
+
