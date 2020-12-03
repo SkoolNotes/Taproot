@@ -49,3 +49,10 @@ Background stuff
 - VF: volume fraction
 - MKCC1: protein — for neural remodeling
 - Astroglia:
+
+***
+
+Personal Story — new way of conceptualizing memory.
+
+- Memory Drives different behaviors — LTP is an interesting method of getting at how enviroments directly alter actions
+- Direct pathway to what is experienced and the behavior
