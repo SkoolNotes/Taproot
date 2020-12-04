@@ -1,0 +1,286 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Application Presentations }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5595)}}    % original
+%\rhead{\textrmlf{Compiled }\#5595\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5595\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{brian-p-traffic-control}{%
+\section{\texorpdfstring{{DONE} Brian P: Traffic
+control}{DONE Brian P: Traffic control}}\label{brian-p-traffic-control}}
+
+model and predict flow through streets using systems of linear equations
+
+\hypertarget{traffic-circle-example}{%
+\subsection{traffic circle example}\label{traffic-circle-example}}
+
+\hypertarget{info}{%
+\subsubsection{info}\label{info}}
+
+\begin{enumerate}
+\item
+  cars perminute from each direction
+\item
+  but counters only counted four of the road segments
+\item
+  calculate how many cars went through the other road segments
+\end{enumerate}
+
+\hypertarget{calculation}{%
+\subsubsection{calculation}\label{calculation}}
+
+\[
+    \begin{aligned}
+    x_2 + 75 = x_5+92\\
+    x_1+x_2 = x_3+56\\
+    75 = x_1+x_4\\
+    x_3+x_4+23 = 46?\\
+    x_5 = 33
+    \end{aligned}
+    \]
+
+\hypertarget{take-rref-it-happens-to-not-be-the-identity-which-means-there-isnt-enough-information-to}{%
+\subsubsection{Take RREF (it happens to not be the identity, which means
+there isn't enough information
+to)}\label{take-rref-it-happens-to-not-be-the-identity-which-means-there-isnt-enough-information-to}}
+
+\begin{enumerate}
+\item
+  pivot columns?
+\item
+  replace the dependent variable (in this case \(x_4\) with \(t\), and
+  try to remember how many cars went on the other roads (create
+  parametric equations)
+\end{enumerate}
+
+\hypertarget{block-example}{%
+\subsection{Block example}\label{block-example}}
+
+\hypertarget{goal}{%
+\subsubsection{goal}\label{goal}}
+
+Given some flow rates, figure out how many cars should be allowed to go
+through an area. Even though there are multiple solutions, it is
+possible to see which streets will become bottlenecks.
+
+\hypertarget{general-steps}{%
+\subsection{general steps}\label{general-steps}}
+
+\hypertarget{assign-variables}{%
+\subsubsection{assign variables}\label{assign-variables}}
+
+\hypertarget{create-system-of-equations}{%
+\subsubsection{create system of
+equations}\label{create-system-of-equations}}
+
+\hypertarget{create-matrix}{%
+\subsubsection{create matrix}\label{create-matrix}}
+
+\hypertarget{use-gaussian-elimination-to-gain-information}{%
+\subsubsection{use gaussian elimination to gain
+information}\label{use-gaussian-elimination-to-gain-information}}
+
+\hypertarget{with-this-information-you-can}{%
+\subsection{with this information you
+can}\label{with-this-information-you-can}}
+
+\hypertarget{adjust-traffic-light-timings}{%
+\subsubsection{adjust traffic light
+timings}\label{adjust-traffic-light-timings}}
+
+\hypertarget{more-complexity}{%
+\subsection{more complexity}\label{more-complexity}}
+
+\hypertarget{some-examples-with-120-variables-or-more}{%
+\subsubsection{some examples with 120 variables or
+more}\label{some-examples-with-120-variables-or-more}}
+
+\hypertarget{done-by-computers}{%
+\subsubsection{done by computers}\label{done-by-computers}}
+
+\hypertarget{jamiton-linesenvelopes-phantom-traffic-slowdowns}{%
+\subsubsection{jamiton lines/envelopes (phantom traffic
+slowdowns)}\label{jamiton-linesenvelopes-phantom-traffic-slowdowns}}
+
+\hypertarget{limitations}{%
+\subsection{limitations}\label{limitations}}
+
+\hypertarget{spikes-of-traffic-vary-based-on-time-of-day-or-year}{%
+\subsubsection{spikes of traffic vary based on time of day or
+year}\label{spikes-of-traffic-vary-based-on-time-of-day-or-year}}
+
+\hypertarget{routes-are-not-considered}{%
+\subsubsection{routes are not
+considered}\label{routes-are-not-considered}}
+
+\hypertarget{size-type-of-vehicle}{%
+\subsubsection{size / type of vehicle}\label{size-type-of-vehicle}}
+
+\hypertarget{speed-of-vehicles}{%
+\subsubsection{speed of vehicles}\label{speed-of-vehicles}}
+
+\hypertarget{line-of-sight}{%
+\subsubsection{line of sight}\label{line-of-sight}}
+
+\end{document}
