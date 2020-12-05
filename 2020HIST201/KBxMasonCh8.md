@@ -6,6 +6,7 @@ source:  #index
 ---
 
 #flo #ref  #disorganized #incomplete
+#todo: re-read this one. 
 
 ---
 
@@ -40,7 +41,7 @@ source:  #index
 - roughly 15-20 years
 - 
 
-
+frick it imma read this later 
 
 
 
