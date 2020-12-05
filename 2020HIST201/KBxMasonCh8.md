@@ -32,7 +32,13 @@ source:  #index
 - European states formed "sheltered markets" free from the restrictions
 - Imperialism was very expensive, large investments, led to formation of armys and soldiers 
 - imperialism was the final stage of capitalism, according to lenin, and thus it would lead to the downfall of capitalism
--  
+- and some other stuff?
+
+
+## THE SCRAMBLE FOR AFRICA
+
+- roughly 15-20 years
+- 
 
 
 
