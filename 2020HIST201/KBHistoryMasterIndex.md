@@ -90,6 +90,7 @@ source: #index
 - Japan and the westx [[KBxJapanandtheWest]]
 - Bulliet: British Rag [[KBhHIST201BritishRaj]]
 - Mason Ch 8 [[KBhHIST201MasonCh8]]
+- Mason Ch 8x [[KBxMasonCh8]]
 - Ropp on China [[KBxRoppChina]]
 - Ropp-late Late China [[KBhHIST101LateQingChina]]
 
