@@ -107,6 +107,8 @@ source: #index
 * French Rev Essay
 	* [[KBhHIST201Unit2EssayJack]]
 	* [[KBUnitTwoEssayHux]]
+* Unit Three Essay 
+	* [[KBxUnit3EssayPlanning]] 
 
 ## Meta References
 - [[20hist201refTechniques]]
