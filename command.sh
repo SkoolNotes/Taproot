@@ -3,6 +3,9 @@
 taproot_backup_path="../taproot-backup"
 #BUILDNUMBER_FILE='buildID.txt'
 
+echo 'entered command.sh'
+pwd
+
 while true; do
     printf "working...                                                         \r"
     echo "\n\n\nLog for attempt at $(date)" >> log.txt
