@@ -39,10 +39,10 @@ course: HIST201
 * "landing marines, and oversawing local potentates from Canton to Zanzibar-the impact seemed perhaps even more decisive." @[[KBhHIST201KennedyCh4]]
 
 ### The Actual Claim
-Three aspects: embracing Industrialization-technology
+Three aspects: embracing Industrialization-tech based military warfare that originated in Europe; promoting free trade and market economy; organizing states under civic top-down nationalism.
 
 **Modern Warfare**
-
+ England, through utilizing [[KBhHIST201IRonWarfare]], was able to gather a huge competitive a
 
 
 ## Defluffifying
