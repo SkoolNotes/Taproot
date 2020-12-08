@@ -43,7 +43,7 @@ course: HIST201
 * "Several distinct changes facilitated the expansion and transformation of Britian's overseas empire ... new policies favored free trade over mercantilism" @[[KBhHIST201BritishRaj]] (Bulliet) CA
 * "To get around this, European states sought "sheltered markets" free from such restrictions to trade and found them in the colonies they estab- lished in Africa and Asia." @[[KBhHIST201MasonCh8]] DA
 * "Over the course of the nineteenth century, the Ottoman Empire backed away from ... free trade that had done so much to integrate it into the world economy." @[[KBhHIST201GelvinChapter5]] EA
-* "Attempts to establish state-run factories floundered ... because ... [of] shortages of skilled labors ... [and] a lack of investment capital As a result, the state turned instead to programs that were intended to foster private industrial production."  @[[KBhHIST201GelvinChapter5]] EA
+* "Attempts to establish state-run factories floundered ... because ... [of] shortages of skilled labors ... [and] a lack of investment capital As a result, the state turned instead to programs that were intended to foster private industrial production."  @[[KBhHIST201GelvinChapter5]] EB
 
 ## Claim Synthesis
 Three aspects: embracing Industrialization-tech based military warfare that originated in Europe; promoting free trade and market economy; organizing states under civic top-down nationalism.
@@ -68,7 +68,7 @@ In addition to its seapower, British domination could also be attributed to that
 
 If a country does not follow the operations of free trade, they are very sad. See: the Ottomans + Defensive Developmentalism.
 
-The principles of DD encouraged the creation of more centralized control of both millitary power and economy based on a pratic
+The principles of DD encouraged the creation of more centralized control of both military power and economy based on an anti-european sentiment. So, the Ottoms tried to EA — back away from trade. That was a bad idea: EB
 
 
 ## Defluffifying
