@@ -448,4 +448,4 @@ source: KBhMUS150D1
 
 - drums + bass + lead: simple
 - Male and female lead slightly disonent
-- 
+- Unique sound signature
