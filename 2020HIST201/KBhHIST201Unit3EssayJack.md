@@ -43,7 +43,7 @@ course: HIST201
 Three aspects: embracing Industrialization-tech based military warfare that originated in Europe; promoting free trade and market economy; organizing states under civic top-down nationalism.
 
 ### Modern Warfare
- England, through utilizing [[KBhHIST201IRonWarfare]], was able to gather a huge competitive advantage over other nations.
+England, through utilizing [[KBhHIST201IRonWarfare]], was able to gather a huge competitive advantage over other nations.
 
 BC — new tech made military much better. They did two things: they made the navy much more economically and physically efficient but also just made them good ol' fashioned  _better_.
 
@@ -51,7 +51,7 @@ Per the BA, the British royal navy was actually able to have a huge boost in fig
 
 Such efficiencies is unrivaled even compared to the traditionally large nations. By embracing the [[KBhHIST201IndustrialRevolution]], new conquirings are possible that would not have been possible before. BD against traditionally large nations that simply did not had the speed to embrace and master [[KBhHIST201IRonWarfare]].
 
-
+### Market Economy
 
 
 ## Defluffifying
@@ -67,25 +67,6 @@ Now, defluffify by re-writing the three points + so what in as little words as p
 
 **RESTATED CLAIM**
 
-## Outline
-- Claim 1: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
-- Claim 2: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
-- Claim 3: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
 
 ***
 
