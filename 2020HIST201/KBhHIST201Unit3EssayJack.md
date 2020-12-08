@@ -74,6 +74,8 @@ The principles of DD encouraged the creation of more centralized control of both
 ### [[KBhHIST201Nationalism]], namely Civic Nationalism
 [[KBhHIST201GermanicNationalism]] worked! FA — countries like Italy and Germany supported the efforts of Nationalism.
 
+
+
 ## Defluffifying
 CHOSEN THESIS CLAIM
 
