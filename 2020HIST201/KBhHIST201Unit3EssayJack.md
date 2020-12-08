@@ -89,7 +89,7 @@ Either...
 
 1) A country tries to enforce dynastarial control over disperate regions instead of an identity centered around nationalism, things go wrong. FE — _seperatism_ is engendered, which does not promote the national identity definition to national ideals w/ common culture. This is party how the Ottomans went.
 
-2) A country tries to give up control and have weaker, local governance. This means that important national efforts like in China's case for westernization GA could have much lesser effect 
+2) A country tries to give up control and have weaker, local governance. This means that important national efforts like in China's case for westernization GA could have much lesser effect than if there were to be a stronger central government with shared ideals.
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
