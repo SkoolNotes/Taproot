@@ -38,6 +38,7 @@ course: HIST201
 * "The firepower gap, like that which had opened up in industrial productivity, meant that the leading nations possessed resources fifty or a hundred times greater than those at the bottom." @[[KBhHIST201KennedyCh4]] BB
 * "The advanced technology of steam engines and machine-made tools gave Europe decisive economic and military advantages." @[[KBhHIST201KennedyCh4]] BC
 * "the steam-driven gunboat meant that European sea power, already supreme in open waters, could be extended inland. ... The ironclad _Nemesis ... was a disaster for the defending Chinese forces, which were easily brushed aside." @[[KBhHIST201KennedyCh4]] BD
+* "Several distinct changes facilitated the expansion and transformation of Britian's overseas empire ... new policies favored free trade over mercantilism" @[[bulliet
 
 ## Claim Synthesis
 Three aspects: embracing Industrialization-tech based military warfare that originated in Europe; promoting free trade and market economy; organizing states under civic top-down nationalism.
