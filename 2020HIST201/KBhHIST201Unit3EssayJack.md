@@ -48,6 +48,7 @@ course: HIST201
 * "Not by speeches and majority votes are the great questions of the day decided—that was the great error of 1848 and 1849—but by iron and blood" @[[KBhHIST201MasonCh7]], FB, Otto Von Bismark
 * "His forceful actions to achieve German unification" @[[KBhHIST201MasonCh7]] FC
 * "statesmen in Europe were using warfare and civic nationalism to forge **powerful new nation-states**" @[[KBhHIST201MasonCh7]] FD
+* "When nationalism arises in multinational states or empires ... national groups typically want to break away from the larger empire, which is dominated by other nationalities... [this] lead to the breakup of the Ottoman Empire." @[[KBhHIST201MasonCh7]] FE
 
 ## Claim Synthesis
 Three aspects: embracing Industrialization-tech based military warfare that originated in Europe; promoting free trade and market economy; organizing states under civic top-down nationalism.
