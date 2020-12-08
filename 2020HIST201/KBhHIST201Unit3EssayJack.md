@@ -51,7 +51,7 @@ Per the BA, the British royal navy was actually able to have a huge boost in fig
 
 Such efficiencies is unrivaled even compared to the traditionally large nations. By embracing the [[KBhHIST201IndustrialRevolution]], new conquirings are possible that would not have been possible before. BD against traditionally large nations that simply did not had the speed to embrace and master [[KBhHIST201IRonWarfare]].
 
-### Market Economy
+### Free Trade
 
 
 ## Defluffifying
