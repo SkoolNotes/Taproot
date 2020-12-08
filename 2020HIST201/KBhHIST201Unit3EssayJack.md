@@ -36,6 +36,7 @@ course: HIST201
 * "Prussian success was due in large measure to the application of new technologies to logistics and warfare"   @[[KBhHIST201MasonCh7]] AA
 * "Despite a steady reduction in its own numbers after 1815, the Royal Navy was at some times probably as powerful as the next three or four navies in actual fighting power. " @[[KBhHIST201KennedyCh4]] BA
 * "The firepower gap, like that which had opened up in industrial productivity, meant that the leading nations possessed resources fifty or a hundred times greater than those at the bottom." @[[KBhHIST201KennedyCh4]] BB
+* "The advanced technology of steam engines and machine-made tools gave Europe decisive economic and military advantages." @[[KBhHIST201KennedyCh4]] BC
 
 ### The Actual Claim
 Three aspects: embracing Industrialization-tech based military warfare that originated in Europe; promoting free trade and market economy; organizing states under civic top-down nationalism.
@@ -43,7 +44,7 @@ Three aspects: embracing Industrialization-tech based military warfare that orig
 **Modern Warfare**
  England, through utilizing [[KBhHIST201IRonWarfare]], was able to gather a huge competitive advantage over other nations.
 
-- Per BA, the British royal navy was actually able to have a huge boost in fighting power even while reducing its count during the 1810s. this was due to the 
+BC — new tech made military much better. Per the BA, the British royal navy was actually able to have a huge boost in fighting power even while reducing its count during the 1810s. 
 
 
 ## Defluffifying
