@@ -17,7 +17,7 @@ course: HIST201
 - Address several examples
 - Show wins (GB, Japan, Germany, Italy) and show losses (Egypt, India, China, SEA, Africa)
 
-## Claim Synthesis
+## Preparation
 * **Erosion of tariff barrieriers + widespread free trade ideals** => new international order
 	* vs. Ottomans' promotion of control
 * Reliance on artisan and manual manufacturing instead of high-tech IR stuff => decline! b/c higher tech means more ability to leverage [[KBhHIST201IRonWarfare]]
@@ -39,15 +39,19 @@ course: HIST201
 * "The advanced technology of steam engines and machine-made tools gave Europe decisive economic and military advantages." @[[KBhHIST201KennedyCh4]] BC
 * "the steam-driven gunboat meant that European sea power, already supreme in open waters, could be extended inland. ... The ironclad _Nemesis ... was a disaster for the defending Chinese forces, which were easily brushed aside." @[[KBhHIST201KennedyCh4]] BD
 
-### The Actual Claim
+## Claim Synthesis
 Three aspects: embracing Industrialization-tech based military warfare that originated in Europe; promoting free trade and market economy; organizing states under civic top-down nationalism.
 
-**Modern Warfare**
+### Modern Warfare
  England, through utilizing [[KBhHIST201IRonWarfare]], was able to gather a huge competitive advantage over other nations.
 
-BC — new tech made military much better. Per the BA, the British royal navy was actually able to have a huge boost in fighting power even while reducing its count during the 1810s. 
+BC — new tech made military much better. They did two things: they made the navy much more economically and physically efficient but also just made them good ol' fashioned  _better_.
 
-Such efficiencies is unrivaled even compared to the traditionally large nations. By embracing the [[KBhHIST201IndustrialRevolution]], new conquirings are possible that would not have been possible before. BD. 
+Per the BA, the British royal navy was actually able to have a huge boost in fighting power even while reducing its count during the 1810s. 
+
+Such efficiencies is unrivaled even compared to the traditionally large nations. By embracing the [[KBhHIST201IndustrialRevolution]], new conquirings are possible that would not have been possible before. BD against traditionally large nations that simply did not had the speed to embrace and master [[KBhHIST201IRonWarfare]].
+
+
 
 
 ## Defluffifying
