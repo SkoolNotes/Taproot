@@ -36,7 +36,14 @@ course: HIST201
 * "Prussian success was due in large measure to the application of new technologies to logistics and warfare"   @[[KBhHIST201MasonCh7]]
 * "Despite a steady reduction in its own numbers after 1815, the Royal Navy was at some times probably as powerful as the next three or four navies in actual fighting power. " @[[KBhHIST201KennedyCh4]]
 * "The firepower gap, like that which had opened up in industrial productivity, meant that the leading nations possessed resources fifty or a hundred times greater than those at the bottom." @[[KBhHIST201KennedyCh4]]
-* "landing marines, and oversawing local potentates from Canton to Zanzibar-the impact seemedperhaps even more decisive."
+* "landing marines, and oversawing local potentates from Canton to Zanzibar-the impact seemed perhaps even more decisive." @[[KBhHIST201KennedyCh4]]
+
+### The Actual Claim
+Three aspects: embracing Industrialization-technology
+
+**Modern Warfare**
+
+
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
