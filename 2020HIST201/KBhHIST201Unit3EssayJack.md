@@ -30,7 +30,7 @@ course: HIST201
 |---|---|---|
 | Modern warfare | Approaching industrialization and all the new-fangled [[KBhHIST201IRonWarfare]] that it brings, like what happened to the British Royal Navy | how much, or centrol control  | 
 | Trading | Erosion of tariff barriers + widespread free trade ideals (a la European city-states) | Controlling trade (a la the Ottomans' defense developmentalism) |
-| State organization | Germany's [[KBhHIST201GermanicNationalism ]]| Dynastarial control a la China; weak emperors => downfall |
+| State organization | Germany's [[KBhHIST201GermanicNationalism]] | Dynastarial control a la China; weak emperors => downfall |
 
 ### Quotes bin, too!
 * "Prussian success was due in large measure to the application of new technologies to logistics and warfare"   @[[KBhHIST201MasonCh7]]
