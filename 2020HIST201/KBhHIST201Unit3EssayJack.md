@@ -78,6 +78,8 @@ The principles of DD encouraged the creation of more centralized control of both
 
 Although not strictly a nationalist speech, FB — Iron and Blood — showed clear nationalist sentiments. he executed FC — forceful actions — that ensured the unification of Germany by consolidating Prussian power with those nearby: rallying under the image of Germanic civic nationalism.
 
+
+
 ## Defluffifying
 CHOSEN THESIS CLAIM
 
