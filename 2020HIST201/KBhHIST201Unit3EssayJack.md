@@ -58,7 +58,11 @@ Such efficiencies is unrivaled even compared to the traditionally large nations.
 ### Free Trade
 After the BF Great War caused a disruptions of trade, European nations started to use and embrace free trade. BE. 
 
-In addition to its seapower, British domination could also be attributed to that of free trade. CA. European nations actively urged the process of free trade, even setting up colonies (DA) for the basic avoidance of interruption to free trade.
+In addition to its seapower, British domination could also be attributed to that of free trade. CA. European nations actively urged the process of free trade, even setting up colonies (DA) for the basic avoidance of interruption to free trade. 
+
+```python
+# Sidenote, they also actively weaponized free trade a la opium war. But we do China so much that it may not be worth mentioning here.
+```
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
