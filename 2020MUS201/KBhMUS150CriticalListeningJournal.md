@@ -438,6 +438,8 @@ source: KBhMUS150D1
 
 **Pan de Floor**
 
-- strong basic drum sequence —marching band feeling?
-- House/dance??? 2010s vibes
-- 
+- strong drum sequence —marching band feeling?
+- House/dance EDM??? 2010s vibes
+- Whole song as edm/sequenced synth + house/dance EDM lead
+- Random samples as elements of precussion
+- Lazer sound effects for no reason => what does it add?
