@@ -68,6 +68,8 @@ In addition to its seapower, British domination could also be attributed to that
 
 If a country does not follow the operations of free trade, they are very sad. See: the Ottomans + Defensive Developmentalism.
 
+The principles of DD encouraged the creation of more centralized control of both millitary power and economy based on a pratic
+
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
