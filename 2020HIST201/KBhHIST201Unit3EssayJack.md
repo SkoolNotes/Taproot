@@ -76,7 +76,7 @@ The principles of DD encouraged the creation of more centralized control of both
 ### [[KBhHIST201Nationalism]], namely Civic Nationalism
 [[KBhHIST201GermanicNationalism]] worked! FA — countries like Italy and Germany supported the efforts of Nationalism.
 
-Although not strictly a nationalist speech, FB — Iron and Blood — showed clear nationalist sentiments. he executed FC — forceful actions — that ensured the unification of Germany by consolidating Prussian power with those nearby: rallying under th
+Although not strictly a nationalist speech, FB — Iron and Blood — showed clear nationalist sentiments. he executed FC — forceful actions — that ensured the unification of Germany by consolidating Prussian power with those nearby: rallying under the image of Germanic civic nationalism.
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
