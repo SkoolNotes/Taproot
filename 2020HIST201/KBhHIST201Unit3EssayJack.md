@@ -39,6 +39,7 @@ course: HIST201
 * "The advanced technology of steam engines and machine-made tools gave Europe decisive economic and military advantages." @[[KBhHIST201KennedyCh4]] BC
 * "the steam-driven gunboat meant that European sea power, already supreme in open waters, could be extended inland. ... The ironclad _Nemesis ... was a disaster for the defending Chinese forces, which were easily brushed aside." @[[KBhHIST201KennedyCh4]] BD
 * "conditions naturally encouraged long-term commercial and industrial invest- ment,thereby stimulating the growth of a global economy." @[[KBhHIST201KennedyCh4]] BE
+* "The erosion of tariff barriers and othermercantilist devices, together with the widespread propagation ofideas about free trade and international harmony, suggested that a newinternational order had arisen," @[[KBhHIST201KennedyCh4]] BF
 * "Several distinct changes facilitated the expansion and transformation of Britian's overseas empire ... new policies favored free trade over mercantilism" @[[KBhHIST201BritishRaj]] (Bulliet) CA
 * 
 
@@ -55,7 +56,7 @@ Per the BA, the British royal navy was actually able to have a huge boost in fig
 Such efficiencies is unrivaled even compared to the traditionally large nations. By embracing the [[KBhHIST201IndustrialRevolution]], new conquirings are possible that would not have been possible before. BD against traditionally large nations that simply did not had the speed to embrace and master [[KBhHIST201IRonWarfare]].
 
 ### Free Trade
-
+After the BF Great War caused a disruptions of trade, European nations started to use and embrace free trade. BE. 
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
