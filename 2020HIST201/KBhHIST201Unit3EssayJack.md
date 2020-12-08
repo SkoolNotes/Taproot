@@ -42,7 +42,8 @@ course: HIST201
 * "The erosion of tariff barriers and othermercantilist devices, together with the widespread propagation ofideas about free trade and international harmony, suggested that a newinternational order had arisen," @[[KBhHIST201KennedyCh4]] BF
 * "Several distinct changes facilitated the expansion and transformation of Britian's overseas empire ... new policies favored free trade over mercantilism" @[[KBhHIST201BritishRaj]] (Bulliet) CA
 * "To get around this, European states sought "sheltered markets" free from such restrictions to trade and found them in the colonies they estab- lished in Africa and Asia." @[[KBhHIST201MasonCh8]] DA
-* "Over the course of the nineteenth century, the Ottoman Empire backed away from ... free trade that had done so much to integrate it into the world economy." ... 
+* "Over the course of the nineteenth century, the Ottoman Empire backed away from ... free trade that had done so much to integrate it into the world economy. ....
+* Attempts to establish state-run factories floundered ... because ... [of] shortages of skilled labors ... [and] a lack of investment capital As a result, the state turned instead to programs that were intended to foster pr ivate industrial production. 
 
 ## Claim Synthesis
 Three aspects: embracing Industrialization-tech based military warfare that originated in Europe; promoting free trade and market economy; organizing states under civic top-down nationalism.
