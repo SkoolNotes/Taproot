@@ -45,6 +45,7 @@ course: HIST201
 * "Over the course of the nineteenth century, the Ottoman Empire backed away from ... free trade that had done so much to integrate it into the world economy." @[[KBhHIST201GelvinChapter5]] EA
 * "Attempts to establish state-run factories floundered ... because ... [of] shortages of skilled labors ... [and] a lack of investment capital As a result, the state turned instead to programs that were intended to foster private industrial production."  @[[KBhHIST201GelvinChapter5]] EB
 * "Unification projects had the support of powerful states and leaders in Piedmont and Prussia and, in the Italian case at least, outside support (from France) as well." @[[KBhHIST201MasonCh7]] FA
+* "Not by speeches and majority votes are the great questions of the day decided—that was the great error of 1848 and 1849—but by iron and blood" @[[KBhHIST201MasonCh7]], FB, Otto Von Bismark
 
 ## Claim Synthesis
 Three aspects: embracing Industrialization-tech based military warfare that originated in Europe; promoting free trade and market economy; organizing states under civic top-down nationalism.
@@ -74,7 +75,7 @@ The principles of DD encouraged the creation of more centralized control of both
 ### [[KBhHIST201Nationalism]], namely Civic Nationalism
 [[KBhHIST201GermanicNationalism]] worked! FA — countries like Italy and Germany supported the efforts of Nationalism.
 
-
+Although not strictly a nationalist speech, FB — Iron and Blood — showed clear nationalist sentiments. Ot
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
