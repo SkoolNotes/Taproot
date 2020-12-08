@@ -447,4 +447,5 @@ source: KBhMUS150D1
 **Rover**
 
 - drums + bass + lead: simple
+- Male and female lead slightly disonent
 - 
