@@ -46,6 +46,8 @@ Three aspects: embracing Industrialization-tech based military warfare that orig
 
 BC — new tech made military much better. Per the BA, the British royal navy was actually able to have a huge boost in fighting power even while reducing its count during the 1810s. 
 
+Such efficiencies is unrivaled compared to the traditionally large nations
+
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
