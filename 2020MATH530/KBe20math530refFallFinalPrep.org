@@ -102,6 +102,8 @@
 * Questions!!
 ** From the template
 *** What is an "identity transformation"?
+    just the identity map. an operator (must go from a vector space to itself) that does nothing.
+    $$T \in \mathcal L(V) : Tv = v$$
 *** What is the geometric interpretation of the determinant?
 *** What is the definition of "linearity"? How do you Apply it?
 *** What is the rank nullity theorem?
