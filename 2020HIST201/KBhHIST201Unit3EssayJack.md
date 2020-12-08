@@ -81,7 +81,7 @@ Powerful Nation-States were created by nationalism. FD
 
 Although not strictly a nationalist speech, FB — Iron and Blood — showed clear nationalist sentiments. he executed FC — forceful actions — that ensured the unification of Germany by consolidating Prussian power with those nearby: rallying under the image of Germanic civic nationalism.
 
-When a country tries to enforce dynastarial control over disperate regions instead
+When a country tries to enforce dynastarial control over disperate regions instead of an identity centered around nationalism, things go wrong.
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
