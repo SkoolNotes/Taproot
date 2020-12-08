@@ -35,8 +35,8 @@ Between the promoter and the actual coding DNA, there is a region named *operato
 ## Actually transcribing 
 The RNA Polymerase Enzyme starts at a promoter (typically found upstream of the 5' start site) and ends at a terminator.
 
-* A Box of TATTAA highlights transcription rate and the start site
-* TFIIA cofactor in RNA (polymerease?) recognizes TATTAA box, TFIIB recognizes C/CG/CG/CGCCC upstream
+* A Box of TATAAT highlights transcription rate and the start site
+* TFIIA cofactor in RNA (polymerease?) recognizes TATAAT box, TFIIB recognizes C/CG/CG/CGCCC upstream
 
 The RNA ploymerease will pluck the correct corresponding nucleotide out of the nucleus to form the antiparallel mRNA sequence.
 

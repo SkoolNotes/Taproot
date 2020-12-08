@@ -1,0 +1,293 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Gelvyn Chapter 5 }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5607)}}    % original
+%\rhead{\textrmlf{Compiled }\#5607\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5607\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{gelvin-chapter-5}{%
+\section{Gelvin Chapter 5}\label{gelvin-chapter-5}}
+
+\begin{itemize}
+\tightlist
+\item
+  States fought over the emergent control after the crisis of the 17th
+  century.
+\item
+  Employed the strategy of \textbf{Defensive Developmentalism.}
+\end{itemize}
+
+Defensive developmentalism: develop your country as a defense against
+others
+
+\begin{quote}
+``Developing because Europe is happening to you.''
+\end{quote}
+
+\hypertarget{defensive-developmentalism}{%
+\subsection{Defensive
+Developmentalism}\label{defensive-developmentalism}}
+
+\textbf{Denfense developmentalism: centralizing authority by making
+goverment more efficient and managing resource better.}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\tightlist
+\item
+  Millitary reform to consolidate power.
+\item
+  Control and coordinate population and resource
+\item
+  Decipline population to become agents of State.
+\end{enumerate}
+
+\begin{itemize}
+\tightlist
+\item
+  Eliminated cash farming and augmented admin.
+\item
+  DD encouraged the process of monopolization and direct contro
+\end{itemize}
+
+\hypertarget{problems-in-dd}{%
+\subsubsection{Problems in DD}\label{problems-in-dd}}
+
+\begin{itemize}
+\tightlist
+\item
+  Local suspicious caused difficulty in implementing centralized control
+
+  \begin{itemize}
+  \tightlist
+  \item
+    implimentation of government plans is difficult due to the emergence
+    of local resistance.
+  \item
+    New class of the educated under the new system championed the
+    improved inclusion in governance. Many framed this plea as the plea
+    for constitutional governance
+  \end{itemize}
+\item
+  the middle eastern implimentation of DD had focus on developing
+  indurstry to support the DD processes such as the army =\textgreater{}
+  free trade is opposite DD, which caused paradoxical effects.
+\item
+  Centralization helped very little people except for the central
+  government, making it resisted very widely.
+\end{itemize}
+
+\hypertarget{ottomans-and-dd}{%
+\subsection{Ottomans and DD}\label{ottomans-and-dd}}
+
+\begin{itemize}
+\tightlist
+\item
+  Ottoman DD happened in two periods.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Per. 1: tanzimat --- the ``liberal'' period where constitutionalism
+    was briefly trialed
+  \item
+    Per. 2: promotion of direct control by the sultan.
+  \item
+    Two phases' change was a change from bottom-up nationalism to
+    top-down nationalism.
+  \end{itemize}
+\item
+  Process of DD impliementation
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Ottomans first attempted economic control. That didn't go really
+    well either --- lack of monies and control.
+
+    \begin{itemize}
+    \tightlist
+    \item
+      After doing everything wrong, the Ottomans conceded to build an
+      open economy and be connected
+    \end{itemize}
+  \item
+    The widespread nature of the ottomans made it diffucult to have a
+    central point of control.
+  \item
+    Millitary reform was tried again, creating European-style New Corps.
+    This was used to eliminate the janissaries.
+  \item
+    System of equality actually promoted more discord between
+    communites.
+  \item
+    The efforts of bottom-up nationalisation was disliked by everyone
+    except the hindus, b/c the Muslims felt that it hindered the
+    dominance of the muslimes while the Christians wanted to avoid the
+    widespread conscription
+  \end{itemize}
+\end{itemize}
+
+\end{document}

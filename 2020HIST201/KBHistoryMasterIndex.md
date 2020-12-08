@@ -81,6 +81,7 @@ source: #index
 ### Compiled Refs
 **The Isms**
 - [[KBhHIST201LiberalismAndNationalism]]: [[KBhHIST201Nationalism]] and [[KBhHIST201Liberalism]]
+- The [[KBhHIST201IndustrialRevolution]] + its [[KBhHIST201ImpactsofIR]]
 
 ### Reading Flos
 
@@ -88,11 +89,11 @@ source: #index
 - MasonChapter5 [[KBhHIST201MasonCh5]]
 - MasonChapter5&7x [[KBxHIST201MasonCh5n7]]
 - Japan and the westx [[KBxJapanandtheWest]]
-- Bulliet: British Rag [[KBhHIST201BritishRaj]]
+- Bulliet: British Raj [[KBhHIST201BritishRaj]]
 - Mason Ch 8 [[KBhHIST201MasonCh8]]
-- Mason Ch 8x [[KBxMasonCh8]]
 - Ropp on China [[KBxRoppChina]]
 - Ropp-late Late China [[KBhHIST101LateQingChina]]
+- Gelvyn Ch. 5 [[KBhHIST201GelvinChapter5]]
 
 # Essays
 * Essay 1
@@ -107,8 +108,10 @@ source: #index
 * French Rev Essay
 	* [[KBhHIST201Unit2EssayJack]]
 	* [[KBUnitTwoEssayHux]]
-* Unit Three Essay 
-	* [[KBxUnit3EssayPlanning]] 
+	* [[KBe20hist201retUnit2Essay.pdf]]
+* IndustrialRev Essay
+	* [[KBhHIST201Unit3EssayJack]] 
+	* [[KBxUnit3EssayPlanning]] @jack why did u delete my thing? 
 
 ## Meta References
 - [[20hist201refTechniques]]

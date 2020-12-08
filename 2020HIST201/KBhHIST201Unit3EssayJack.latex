@@ -1,0 +1,415 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Industrial Revolution Essay Planning, Jack }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5607)}}    % original
+%\rhead{\textrmlf{Compiled }\#5607\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5607\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{industrial-revolution-essay}{%
+\section{Industrial Revolution
+Essay}\label{industrial-revolution-essay}}
+
+\hypertarget{general-information}{%
+\subsection{General Information}\label{general-information}}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\begin{minipage}[b]{0.30\columnwidth}\raggedright
+Due Date\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+Topic\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+Important Documents\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+Friday, December 18th\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+19th Century Transformations\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+Mason, Bulliet, Ropp, and Gelvin\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{prompt}{%
+\subsection{Prompt}\label{prompt}}
+
+\textbf{What factor or factors most strongly determined which states
+would become ``winners'' and ``losers'' in this time period (1815 to
+roughly 1900)?}
+
+\begin{itemize}
+\tightlist
+\item
+  Address several examples
+\item
+  Show wins (GB, Japan, Germany, Italy) and show losses (Egypt, India,
+  China, SEA, Africa)
+\end{itemize}
+
+\hypertarget{claim-synthesis}{%
+\subsection{Claim Synthesis}\label{claim-synthesis}}
+
+\begin{itemize}
+\item
+  \textbf{Erosion of tariff barrieriers + widespread free trade ideals}
+  =\textgreater{} new international order
+
+  \begin{itemize}
+  \tightlist
+  \item
+    vs.~Ottomans' promotion of control
+  \end{itemize}
+\item
+  Reliance on artisan and manual manufacturing instead of high-tech IR
+  stuff =\textgreater{} decline! b/c higher tech means more ability to
+  leverage {[}{[}KBhHIST201IRonWarfare{]}{]}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Germany and Italy used high-tech warfare to get their dominance
+    ({[}{[}KBhHIST201MasonAndKennedy{]}{]})
+  \end{itemize}
+\item
+  IR created a discrepancy of technology, which is difficult to fight
+  back from using old-style technology.
+\item
+  Winning strategy: nationalism. Loosing strategy: soverignty control
+  (the Ottomans again) + seperatism
+\end{itemize}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\begin{minipage}[b]{0.30\columnwidth}\raggedright
+Concept\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+Winning Solution\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+Loosing Solution\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+Modern warfare\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+Approaching industrialization and all the new-fangled
+{[}{[}KBhHIST201IRonWarfare{]}{]} that it brings, like what happened to
+the British Royal Navy\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+how much, or centrol control\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+Trading\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+Erosion of tariff barriers + widespread free trade ideals (a la European
+city-states)\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+Controlling trade (a la the Ottomans' defense developmentalism)\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+State organization\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+Germany's {[}{[}KBhHIST201GermanicNationalism {]}{]}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+Dynastarial control a la China; weak emperors =\textgreater{}
+downfall\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{quotes-bin-too}{%
+\subsubsection{Quotes bin, too!}\label{quotes-bin-too}}
+
+\begin{itemize}
+\tightlist
+\item
+  ``Prussian success was due in large measure to the application of new
+  technologies to logistics and warfare''
+  @{[}{[}KBhHIST201MasonCh7{]}{]}
+\item
+  ``Despite a steady reduction in its own numbers after 1815, the Royal
+  Navy was at some times probably as powerful as the next three or four
+  navies in actual fighting power.'' @{[}{[}KBhHIST201KennedyCh4{]}{]}
+\item
+  ``The firepower gap, like that which had opened up in industrial
+  productivity, meant that the leading nations possessed resources fifty
+  or a hundred times greater than those at the bottom.''
+  @{[}{[}KBhHIST201KennedyCh4{]}{]}
+\item
+  ``landing marines, and oversawing local potentates from Canton to
+  Zanzibar-the impact seemedperhaps even more decisive.''
+\end{itemize}
+
+\hypertarget{defluffifying}{%
+\subsection{Defluffifying}\label{defluffifying}}
+
+CHOSEN THESIS CLAIM
+
+\begin{itemize}
+\tightlist
+\item
+  Point a
+\item
+  Point b
+\item
+  Point c
+\end{itemize}
+
+So what? SO WHAT
+
+Now, defluffify by re-writing the three points + so what in as little
+words as possible.
+
+\textbf{RESTATED CLAIM}
+
+\hypertarget{outline}{%
+\subsection{Outline}\label{outline}}
+
+\begin{itemize}
+\tightlist
+\item
+  Claim 1: \emph{claim}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How
+
+    \begin{itemize}
+    \tightlist
+    \item
+      HOW IS CLAIM TRUE?
+    \item
+      Evidence -\textgreater{} HOW IS YOUR REASONING TRUE?
+    \end{itemize}
+  \item
+    So What
+
+    \begin{itemize}
+    \tightlist
+    \item
+      WHY DO I CARE?
+    \end{itemize}
+  \end{itemize}
+\item
+  Claim 2: \emph{claim}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How
+
+    \begin{itemize}
+    \tightlist
+    \item
+      HOW IS CLAIM TRUE?
+    \item
+      Evidence -\textgreater{} HOW IS YOUR REASONING TRUE?
+    \end{itemize}
+  \item
+    So What
+
+    \begin{itemize}
+    \tightlist
+    \item
+      WHY DO I CARE?
+    \end{itemize}
+  \end{itemize}
+\item
+  Claim 3: \emph{claim}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How
+
+    \begin{itemize}
+    \tightlist
+    \item
+      HOW IS CLAIM TRUE?
+    \item
+      Evidence -\textgreater{} HOW IS YOUR REASONING TRUE?
+    \end{itemize}
+  \item
+    So What
+
+    \begin{itemize}
+    \tightlist
+    \item
+      WHY DO I CARE?
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+There is always
+\href{https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf}{UCLA
+Writing Lab}
+
+\end{document}

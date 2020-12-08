@@ -13,3 +13,4 @@ course: iStudio
 - [[KBhISTUDIO10282020SerenaAndJuliet]]
 - [[KBhISTUDIO11022020AksharandAnna]
 - [[KBhISTUDIO12022020SerenaAndJuliet]]
+- [[KBhISTUDIO12072020LucieandTara]]

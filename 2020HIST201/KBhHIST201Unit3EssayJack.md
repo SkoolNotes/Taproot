@@ -1,0 +1,76 @@
+---
+title: Industrial Revolution Essay Planning, Jack
+source: KBHistoryMasterIndex
+author: Houjun Liu
+course: HIST201
+---
+
+# Industrial Revolution Essay
+## General Information
+| Due Date | Topic | Important Documents |
+| :-- | :-- | :-- |
+| Friday, December 18th | 19th Century Transformations | Mason, Bulliet, Ropp, and Gelvin |
+
+## Prompt
+**What factor or factors most strongly determined which states would become "winners" and "losers" in this time period (1815 to roughly 1900)?** 
+
+- Address several examples
+- Show wins (GB, Japan, Germany, Italy) and show losses (Egypt, India, China, SEA, Africa)
+
+## Claim Synthesis
+* **Erosion of tariff barrieriers + widespread free trade ideals** => new international order
+	* vs. Ottomans' promotion of control
+* Reliance on artisan and manual manufacturing instead of high-tech IR stuff => decline! b/c higher tech means more ability to leverage [[KBhHIST201IRonWarfare]]
+	* Germany and Italy used high-tech warfare to get their dominance ([[KBhHIST201MasonAndKennedy]])
+* IR created a discrepancy of technology, which is difficult to fight back from using old-style technology.
+
+* Winning strategy: nationalism. Loosing strategy: soverignty control (the Ottomans again) + seperatism
+
+| Concept | Winning Solution | Loosing Solution | 
+|---|---|---|
+| Modern warfare | Approaching industrialization and all the new-fangled [[KBhHIST201IRonWarfare]] that it brings, like what happened to the British Royal Navy | how much, or centrol control  | 
+| Trading | Erosion of tariff barriers + widespread free trade ideals (a la European city-states) | Controlling trade (a la the Ottomans' defense developmentalism) |
+| State organization | Germany's [[KBhHIST201GermanicNationalism ]]| Dynastarial control a la China; weak emperors => downfall |
+
+### Quotes bin, too!
+* "Prussian success was due in large measure to the application of new technologies to logistics and warfare"   @[[KBhHIST201MasonCh7]]
+* "Despite a steady reduction in its own numbers after 1815, the Royal Navy was at some times probably as powerful as the next three or four navies in actual fighting power. " @[[KBhHIST201KennedyCh4]]
+* "The firepower gap, like that which had opened up in industrial productivity, meant that the leading nations possessed resources fifty or a hundred times greater than those at the bottom." @[[KBhHIST201KennedyCh4]]
+* "landing marines, and oversawing local potentates from Canton to Zanzibar-the impact seemedperhaps even more decisive."
+
+## Defluffifying
+CHOSEN THESIS CLAIM
+
+* Point a 
+* Point b
+* Point c
+
+So what? SO WHAT
+
+Now, defluffify by re-writing the three points + so what in as little words as possible.
+
+**RESTATED CLAIM**
+
+## Outline
+- Claim 1: *claim*
+	- How
+		- HOW IS CLAIM TRUE?
+		- Evidence -> HOW IS YOUR REASONING TRUE?
+	- So What
+		- WHY DO I CARE?
+- Claim 2: *claim*
+	- How
+		- HOW IS CLAIM TRUE?
+		- Evidence -> HOW IS YOUR REASONING TRUE?
+	- So What
+		- WHY DO I CARE?
+- Claim 3: *claim*
+	- How
+		- HOW IS CLAIM TRUE?
+		- Evidence -> HOW IS YOUR REASONING TRUE?
+	- So What
+		- WHY DO I CARE?
+
+***
+
+There is always [UCLA Writing Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf)

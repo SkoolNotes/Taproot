@@ -76,3 +76,18 @@ The British acquired a large amount of tea, silk, and vermillion from China, but
 
 **Opium is technically illegal**, so the whole operation is largely smuggling.
 
+**Taiping Rebellion**
+
+- CLAIM @sushu: much more scary than even the Opium war
+	- Took a large part of the country
+	- Got control of a large part of grain and wheat production
+- 洪秀全 — Taiping Rebellion
+	- Thinks that he is Jesus' old brother
+		- Had a fever dream of visiting "father"
+		- After hearing about Christian philosophy, ret-cons the dream into 
+	- Is a failed scholar who did not work for the government
+	- Harnessed peasant discontent + cut South China away
+- To rapidly quell the Taiping rebellion...
+	- Granted more army and power to the provincial government
+	- Decentralized control, which caused problems down the line
+

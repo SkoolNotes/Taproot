@@ -10,7 +10,7 @@ source:  #index
 ---
 
 
-## prompt: 
+## Prompt: 
 ```
 For each of the scenarios below, answer the following questions. You do not have to explain your answers other than to explain where your targets would come from (Are they in the dataset already? Do you need to create them by hand?) and how you would make any non-numerical inputs numerical, if required by the algorithm you choose.
 
@@ -38,51 +38,44 @@ Scenarios:
 
 ## Scenarios: 
 
-1.  Football
-	1. Since we only have one season of point values, and hence cannot see cross season change in point values, the old season players will be used as training data. 
-	1.  Regression
+*  Football
+	1. Note: Since we only have one season of point values, and hence cannot see cross season change in point values, the old season players will be used as training data. 
+	1. Regression
 	2. Label: Point value
 	3. One Hot Encoding, 0-1 normalization 
 	4. Linear Regression or Neural Networks 
 	5. RMSE 
 	6. None 
 	
-1. Customer Reviews
+* Customer Reviews
 	1. Classification 
 	2. Positive, Negative, Neutral
-	3. Tokenization, 
- 
+	3. Some form of text processing -- BOW, TFIDF, word vectors, ect. 
+	4. Out of the models we have learned, Naive Bayes. 
+	5. F score
+	6. Could misrepresent reviews and allow for automation 
+	
+* Movie Recommendations 
+	1. Classification 
+	2. Semi-supervised.
+	3. One Hot Encoding and BOW or TFIDF
+	4. Random forest? NN? 
+	5. Click rate or watch time, depending on goal. 
+	6. Ethics crumble in the face of capitalism. We gotta get our clients the right recommendations! 
 
+* Facebook Pet 
+	1. Classification 
+	2. Supervised: Dog, Cat, Neither
+	3. WPIE type system. 
+	4. NN
+	5. F score  
+	6. Collection of likes is invasive. Categorizing of people is also problematic, as is trying to determine private info. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Deer Born
+	1. Regression 
+	2. Supervised: Number of deer 
+	3. One Hot
+	4. Linear regression, NN
+	5. RMSE
+	6. None 
 
