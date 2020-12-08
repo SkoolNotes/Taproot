@@ -93,7 +93,7 @@ Either...
 2) A country tries to give up control and have weaker, local governance. This means that important national efforts like in China's case for westernization GA could have much lesser effect than if there were to be a stronger central government with shared **ideals**, which would safeguard against GB Cixi-style trading favourites and politiking
 
 **What factor or factors most strongly determined which states would become "winners" and "losers" in this time period (1815 to roughly 1900)?** 
-**A 
+**For a nation-state to achieve global dominance and success in the 19th century, they must leverage the increased fightan industrialized m illit
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
