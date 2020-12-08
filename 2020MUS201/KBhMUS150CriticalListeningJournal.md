@@ -429,7 +429,8 @@ source: KBhMUS150D1
 - Incorporation of traditional rock drumming with hi-tech/techno synth
 - Destortion creates a sense of unbalance in the end
 
-**Isn't It So Convient**
+**Isn't It So Convenient**
 
 - Strong and constant percussion in the background
+- Basic but effective counter-melody
 - 
