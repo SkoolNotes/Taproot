@@ -105,6 +105,7 @@
     just the identity map. an operator (must go from a vector space to itself) that does nothing.
     $$T \in \mathcal L(V) : Tv = v$$
 *** What is the geometric interpretation of the determinant?
+    turn rows into vectors, take the size of the parrallelogram. (magnitude of top multiplied by magnitude of bottom?)
 *** What is the definition of "linearity"? How do you Apply it?
     Whether a map is linear (satisfies additivity and homogeneity).
 *** What is the rank nullity theorem?
