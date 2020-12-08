@@ -47,6 +47,7 @@ course: HIST201
 * "Unification projects had the support of powerful states and leaders in Piedmont and Prussia and, in the Italian case at least, outside support (from France) as well." @[[KBhHIST201MasonCh7]] FA
 * "Not by speeches and majority votes are the great questions of the day decided—that was the great error of 1848 and 1849—but by iron and blood" @[[KBhHIST201MasonCh7]], FB, Otto Von Bismark
 * "His forceful actions to achieve German unification" @[[KBhHIST201MasonCh7]] FC
+* "statesmen in Europe were using warfare and civic nationalism to forge **powerful new nation-states**" @[[KBhHIST201MasonCh7]] FD
 
 ## Claim Synthesis
 Three aspects: embracing Industrialization-tech based military warfare that originated in Europe; promoting free trade and market economy; organizing states under civic top-down nationalism.
@@ -74,11 +75,13 @@ If a country does not follow the operations of free trade, they are very sad. Se
 The principles of DD encouraged the creation of more centralized control of both military power and economy based on an anti-european sentiment. So, the Ottoms tried to EA — back away from trade. That was a bad idea: EB — their centralized control failed and they evenually turned back to relying on the free market + private production.
 
 ### [[KBhHIST201Nationalism]], namely Civic Nationalism
+Powerful Nation-States were created by nationalism. FD
+
 [[KBhHIST201GermanicNationalism]] worked! FA — countries like Italy and Germany supported the efforts of Nationalism.
 
 Although not strictly a nationalist speech, FB — Iron and Blood — showed clear nationalist sentiments. he executed FC — forceful actions — that ensured the unification of Germany by consolidating Prussian power with those nearby: rallying under the image of Germanic civic nationalism.
 
-
+When a country tries to enforce dynastarial control over disperate regions instead
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
