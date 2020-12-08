@@ -57,7 +57,7 @@ Per the BA, the British royal navy was actually able to have a huge boost in fig
 
 Such efficiencies is unrivaled even compared to the traditionally large nations. By embracing the [[KBhHIST201IndustrialRevolution]], new conquirings are possible that would not have been possible before. BD against traditionally large nations that simply did not had the speed to embrace and master [[KBhHIST201IRonWarfare]].
 
-### Free Trade
+### Free Trade and Private Production
 After the BF Great War caused a disruptions of trade, European nations started to use and embrace free trade. BE. 
 
 In addition to its seapower, British domination could also be attributed to that of free trade. CA. European nations actively urged the process of free trade, even setting up colonies (DA) for the basic avoidance of interruption to free trade. 
@@ -68,7 +68,9 @@ In addition to its seapower, British domination could also be attributed to that
 
 If a country does not follow the operations of free trade, they are very sad. See: the Ottomans + Defensive Developmentalism.
 
-The principles of DD encouraged the creation of more centralized control of both military power and economy based on an anti-european sentiment. So, the Ottoms tried to EA — back away from trade. That was a bad idea: EB — they rapidly ran out of
+The principles of DD encouraged the creation of more centralized control of both military power and economy based on an anti-european sentiment. So, the Ottoms tried to EA — back away from trade. That was a bad idea: EB — their centralized control failed and they evenually turned back to relying on the free market + private production.
+
+### [[KBhHIST201Nationalism]]
 
 
 ## Defluffifying
