@@ -38,7 +38,7 @@ course: HIST201
 * "The firepower gap, like that which had opened up in industrial productivity, meant that the leading nations possessed resources fifty or a hundred times greater than those at the bottom." @[[KBhHIST201KennedyCh4]] BB
 * "The advanced technology of steam engines and machine-made tools gave Europe decisive economic and military advantages." @[[KBhHIST201KennedyCh4]] BC
 * "the steam-driven gunboat meant that European sea power, already supreme in open waters, could be extended inland. ... The ironclad _Nemesis ... was a disaster for the defending Chinese forces, which were easily brushed aside." @[[KBhHIST201KennedyCh4]] BD
-* "conditions naturally encouraged long-term commercial and industrial invest- ment,thereby stimulating the growth of a global economy." @[[KBhHIST201KennedyCh4]] BE
+* "conditions naturally encouraged long-term commercial and industrial investment, thereby stimulating the growth of a global economy." @[[KBhHIST201KennedyCh4]] BE
 * "The erosion of tariff barriers and othermercantilist devices, together with the widespread propagation ofideas about free trade and international harmony, suggested that a newinternational order had arisen," @[[KBhHIST201KennedyCh4]] BF
 * "Several distinct changes facilitated the expansion and transformation of Britian's overseas empire ... new policies favored free trade over mercantilism" @[[KBhHIST201BritishRaj]] (Bulliet) CA
 * "To get around this, European states sought "sheltered markets" free from such restrictions to trade and found them in the colonies they estab- lished in Africa and Asia." @[[KBhHIST201MasonCh8]] DA
