@@ -49,7 +49,8 @@ course: HIST201
 * "His forceful actions to achieve German unification" @[[KBhHIST201MasonCh7]] FC
 * "statesmen in Europe were using warfare and civic nationalism to forge **powerful new nation-states**" @[[KBhHIST201MasonCh7]] FD
 * "When nationalism arises in multinational states or empires ... national groups typically want to break away from the larger empire, which is dominated by other nationalities... [this] lead to the breakup of the Ottoman Empire." @[[KBhHIST201MasonCh7]] FE
-* "But the Qing Empire was a vast, poor, mostly agricultural and overpopulated territory with a small, weak government, and the modernization efforts were confined to tiny coastal areas that had little impact inland." @[[KBhHIST101LateQingChina]] ROPP GA
+* "But the Qing Empire was a vast, poor, mostly agricultural and overpopulated territory with a small, weak government, and the modernization efforts were confined to tiny coastal areas that had little impact inland." @[[KBhHIST101LateQingChina]] Ropp GA
+* "The court was torn between conserva- tive and reformist officials, and she maintained her power by alternating appeals to each group, allowing neither to dominate for long." @[[KBhHIST101LateQingChina]] Ropp GB
 
 ## Claim Synthesis
 Three aspects: embracing Industrialization-tech based military warfare that originated in Europe; promoting free trade and market economy; organizing states under civic top-down nationalism.
@@ -89,7 +90,10 @@ Either...
 
 1) A country tries to enforce dynastarial control over disperate regions instead of an identity centered around nationalism, things go wrong. FE — _seperatism_ is engendered, which does not promote the national identity definition to national ideals w/ common culture. This is party how the Ottomans went.
 
-2) A country tries to give up control and have weaker, local governance. This means that important national efforts like in China's case for westernization GA could have much lesser effect than if there were to be a stronger central government with shared ideals.
+2) A country tries to give up control and have weaker, local governance. This means that important national efforts like in China's case for westernization GA could have much lesser effect than if there were to be a stronger central government with shared **ideals**, which would safeguard against GB Cixi-style trading favourites and politiking
+
+**What factor or factors most strongly determined which states would become "winners" and "losers" in this time period (1815 to roughly 1900)?** 
+**A 
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
