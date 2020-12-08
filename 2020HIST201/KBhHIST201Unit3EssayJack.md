@@ -72,7 +72,7 @@ If a country does not follow the operations of free trade, they are very sad. Se
 The principles of DD encouraged the creation of more centralized control of both military power and economy based on an anti-european sentiment. So, the Ottoms tried to EA — back away from trade. That was a bad idea: EB — their centralized control failed and they evenually turned back to relying on the free market + private production.
 
 ### [[KBhHIST201Nationalism]], namely Civic Nationalism
-[[KBhHIST201GermanicNationalism]] worked!
+[[KBhHIST201GermanicNationalism]] worked! FA — countries like Italy and Germany supported the efforts of Nationalism.
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
