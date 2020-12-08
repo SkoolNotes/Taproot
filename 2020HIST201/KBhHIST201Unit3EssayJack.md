@@ -37,6 +37,7 @@ course: HIST201
 * "Despite a steady reduction in its own numbers after 1815, the Royal Navy was at some times probably as powerful as the next three or four navies in actual fighting power. " @[[KBhHIST201KennedyCh4]] BA
 * "The firepower gap, like that which had opened up in industrial productivity, meant that the leading nations possessed resources fifty or a hundred times greater than those at the bottom." @[[KBhHIST201KennedyCh4]] BB
 * "The advanced technology of steam engines and machine-made tools gave Europe decisive economic and military advantages." @[[KBhHIST201KennedyCh4]] BC
+* "the steam-driven gunboat meant that European sea power, already supreme in open waters, could be extended inland," @[[KBhHIST201KennedyCh4]] BD
 
 ### The Actual Claim
 Three aspects: embracing Industrialization-tech based military warfare that originated in Europe; promoting free trade and market economy; organizing states under civic top-down nationalism.
@@ -46,7 +47,7 @@ Three aspects: embracing Industrialization-tech based military warfare that orig
 
 BC — new tech made military much better. Per the BA, the British royal navy was actually able to have a huge boost in fighting power even while reducing its count during the 1810s. 
 
-Such efficiencies is unrivaled compared to the traditionally large nations
+Such efficiencies is unrivaled even compared to the traditionally large nations. By embracing the [[KBhHIST201IndustrialRevolution]], 
 
 
 ## Defluffifying
