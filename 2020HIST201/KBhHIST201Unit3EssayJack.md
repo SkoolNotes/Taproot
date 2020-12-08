@@ -44,7 +44,7 @@ Three aspects: embracing Industrialization-tech based military warfare that orig
 **Modern Warfare**
  England, through utilizing [[KBhHIST201IRonWarfare]], was able to gather a huge competitive advantage over other nations.
 
-- Per BA, England 
+- Per BA, the British royal navy was actually able to have a huge boost in fighting power even while reducing  
 
 
 ## Defluffifying
