@@ -44,6 +44,7 @@ course: HIST201
 * "To get around this, European states sought "sheltered markets" free from such restrictions to trade and found them in the colonies they estab- lished in Africa and Asia." @[[KBhHIST201MasonCh8]] DA
 * "Over the course of the nineteenth century, the Ottoman Empire backed away from ... free trade that had done so much to integrate it into the world economy." @[[KBhHIST201GelvinChapter5]] EA
 * "Attempts to establish state-run factories floundered ... because ... [of] shortages of skilled labors ... [and] a lack of investment capital As a result, the state turned instead to programs that were intended to foster private industrial production."  @[[KBhHIST201GelvinChapter5]] EB
+* "Unification projects had the support of powerful states and leaders in Piedmont and Prussia and, in the Italian case at least, outside support (from France) as well." @[[KBhHIST201MasonCh7]] FA
 
 ## Claim Synthesis
 Three aspects: embracing Industrialization-tech based military warfare that originated in Europe; promoting free trade and market economy; organizing states under civic top-down nationalism.
@@ -70,7 +71,7 @@ If a country does not follow the operations of free trade, they are very sad. Se
 
 The principles of DD encouraged the creation of more centralized control of both military power and economy based on an anti-european sentiment. So, the Ottoms tried to EA — back away from trade. That was a bad idea: EB — their centralized control failed and they evenually turned back to relying on the free market + private production.
 
-### [[KBhHIST201Nationalism]]
+### [[KBhHIST201Nationalism]], namely Civic Nationalism
 [[KBhHIST201GermanicNationalism]] worked!
 
 ## Defluffifying
