@@ -84,6 +84,7 @@ Although not strictly a nationalist speech, FB — Iron and Blood — showed cle
 
 When a country tries to enforce dynastarial control over disperate regions instead of an identity centered around nationalism, things go wrong. FE — _seperatism_ is engendered, which does not promote the national identity definition to national ideals w/ common culture. This is party how the Ottomans went.
 
+Without centralized 
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
