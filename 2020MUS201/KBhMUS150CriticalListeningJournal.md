@@ -429,7 +429,7 @@ source: KBhMUS150D1
 - Incorporation of traditional rock drumming with hi-tech/techno synth
 - Destortion creates a sense of unbalance in the end
 
-# 12032020
+# 12082020
 
 **Isn't It So Convenient**
 
@@ -439,3 +439,5 @@ source: KBhMUS150D1
 **Pan de Floor**
 
 - strong basic drum sequence —marching band feeling?
+- House/dance??? 2010s vibes
+- 
