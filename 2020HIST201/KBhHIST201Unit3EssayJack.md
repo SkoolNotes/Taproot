@@ -58,6 +58,8 @@ Such efficiencies is unrivaled even compared to the traditionally large nations.
 ### Free Trade
 After the BF Great War caused a disruptions of trade, European nations started to use and embrace free trade. BE. 
 
+In addition to its seapower, British domination could also be attributed to that of free trade. CA. European nations actively urged 
+
 ## Defluffifying
 CHOSEN THESIS CLAIM
 
