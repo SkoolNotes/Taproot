@@ -443,3 +443,8 @@ source: KBhMUS150D1
 - Whole song as edm/sequenced synth + house/dance EDM lead
 - Random samples as elements of precussion
 - Lazer sound effects for no reason => what does it add?
+
+**Rover**
+
+- drums + bass + lead: simple
+- 
