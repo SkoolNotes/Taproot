@@ -68,7 +68,7 @@ In addition to its seapower, British domination could also be attributed to that
 
 If a country does not follow the operations of free trade, they are very sad. See: the Ottomans + Defensive Developmentalism.
 
-The principles of DD encouraged the creation of more centralized control of both military power and economy based on an anti-european sentiment. So, the Ottoms tried to EA — back away from trade. That was a bad idea: EB — they
+The principles of DD encouraged the creation of more centralized control of both military power and economy based on an anti-european sentiment. So, the Ottoms tried to EA — back away from trade. That was a bad idea: EB — they rapidly ran out of
 
 
 ## Defluffifying
