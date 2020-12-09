@@ -95,6 +95,9 @@ source: #index
 - Ropp-late Late China [[KBhHIST101LateQingChina]]
 - Gelvyn Ch. 5 [[KBhHIST201GelvinChapter5]]
 
+### Class Flos
+- Sushu's Rapid Fire Japan [[KBhHIST201JapanClassFlo]]
+
 # Essays
 * Essay 1
     * [[KBhHIST201KennedyStillHoldsUp]]
