@@ -9,5 +9,5 @@ course: HIST201
 **For a nation-state to achieve global success and dominance in the 19th century, they must leverage industrial modernization: bringing the increased fighting power of an industrialized modern military, the economic benefits of adopting and weaponizing free trade, and the centralized political control offered by top-down civic nationalism.**
 
 ## Modern, industrialized military brings increased fighting power
-England's unification efforts allowed the country to gather a huge competitive advantage 
+England's unification efforts allowed the country to gather a huge competitive advantage
 
