@@ -16,4 +16,6 @@ Less centralized with regional lords + caste system. CLAIM: samuri slowly breaki
 
 - 1854: the Shogun sign unequal treaty w/ the United States
 	- Shogunate moves to westernize
+	- Shougun precieved as weak and so there was a rebel
+- Sonno Joi — "Revere the Emperor, Expel the Barbarians"
 
