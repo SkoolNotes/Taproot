@@ -92,7 +92,7 @@ Either...
 
 2) A country tries to give up control and have weaker, local governance. This means that important national efforts like in China's case for westernization GA could have much lesser effect than if there were to be a stronger central government with shared **ideals**, which would safeguard against GB Cixi-style trading favourites and politiking
 
-**For a nation-state to achieve global success and dominance in the 19th century, they must leverage the forces of industrial modernization — bringing increased fighting power of an industrialized modern military, the economic benefits of transitioning free trade and market economy, and the centralized political control offered by top-down civic nationalism."
+**For a nation-state to achieve global success and dominance in the 19th century, they must leverage the forces of industrial modernization — bringing increased fighting power of an industrialized modern military, the economic benefits of transitioning from mercantilism to free trade and market economy, and the centralized political control offered by top-down civic nationalism."
 
 ***
 
