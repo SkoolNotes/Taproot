@@ -45,5 +45,7 @@ Defensive developmentalism: develop your country as a defense against others
 	* The efforts of bottom-up nationalisation was disliked by everyone except the hindus, b/c the Muslims felt that it hindered the dominance of the muslimes while the Christians wanted to avoid the widespread conscription
 
 
+# CN12092020
 
+- Nationalism begins taking place
 
