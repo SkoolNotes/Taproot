@@ -6,6 +6,8 @@ course: HIST201
 ---
 
 # Industrial Revolution Essay
+For Sushu [[KBhHIST201Unit3EssayOutlineForSushuJack]]
+
 ## General Information
 | Due Date | Topic | Important Documents |
 | :-- | :-- | :-- |
