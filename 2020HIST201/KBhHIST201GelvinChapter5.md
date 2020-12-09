@@ -48,4 +48,5 @@ Defensive developmentalism: develop your country as a defense against others
 # CN12092020
 
 - Nationalism begins taking place
+- Ottomans decli
 
