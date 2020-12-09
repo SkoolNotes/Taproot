@@ -24,5 +24,5 @@ Less centralized with regional lords + caste system. CLAIM: samuri slowly breaki
 		- On his way to assasinate the Shougun, he was convinced that Westernization is a good solution
 		- The rebels becoming convinced, and started hijacking the forces
 - The Shougun resigns
-- Meiji Emperor takes power, and adopts western philosophy wholesale 
+- Meiji Emperor takes power, and adopts western philosophy wholesale + renegotiate treaties
 
