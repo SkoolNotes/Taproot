@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ iStudio }
-\newcommand{\thelesson}{ iStudio check-ins }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -125,7 +125,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5743)}}    % original
 %\rhead{\textrmlf{Compiled }\#5743\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#5743\textrmlf{ on} \today}       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,32 +164,9 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\hypertarget{log}{%
-\section{Log}\label{log}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhISTUDIO09302020LucieandTara{]}{]}
-\item
-  {[}{[}KBhISTUDIO09302020JulietandSerena{]}{]}
-\item
-  {[}{[}KbhISTUDIO10052020AksharandAnna{]}{]}
-\item
-  {[}{[}KBhISTUDIO10222020TaraandLucie{]}{]}
-\item
-  {[}{[}KBhISTUDIO10282020SerenaAndJuliet{]}{]}
-\item
-  {[}{[}KBhISTUDIO11022020AksharandAnna{]}
-\item
-  {[}{[}KBhISTUDIO12022020SerenaAndJuliet{]}{]}
-\item
-  {[}{[}KBhISTUDIO12072020LucieandTara{]}{]}
-\item
-  {[}{[}KbhISTUDIO12092020AksharandAnna{]}{]}
-\end{itemize}
+title: Summerstamp 12092020 source: {[}{[}KBhISTUDIOCheckins{]}{]}
 
 \end{document}
