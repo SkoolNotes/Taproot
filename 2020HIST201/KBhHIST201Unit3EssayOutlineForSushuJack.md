@@ -6,5 +6,7 @@ course: HIST201
 ---
 
 # Industrial Revolution Essay (Draft)
-**For a nation-state to achieve global success and dominance in the 19th century, they must leverage industrial modernization — bringing the increased fighting power of an industrialized modern military, the economic benefits of adopting and weaponizing free trade, and the centralized political
+**For a nation-state to achieve global success and dominance in the 19th century, they must leverage industrial modernization: bringing the increased fighting power of an industrialized modern military, the economic benefits of adopting and weaponizing free trade, and the centralized political control offered by top-down civic nationalism.**
+
+
 
