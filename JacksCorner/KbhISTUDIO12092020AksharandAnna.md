@@ -11,7 +11,7 @@ course: ISTUDIO
 	* Trying to get new context  
 	* Contacted Miles
 
-Emily + Diane
+Emily + Diane => Nueva 1st grade teacher
 	
 Unrealistic that the web app will work	
 	
