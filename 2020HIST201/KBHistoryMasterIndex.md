@@ -111,7 +111,7 @@ source: #index
 	* [[KBe20hist201retUnit2Essay.pdf]]
 * IndustrialRev Essay
 	* [[KBhHIST201Unit3EssayJack]] 
-	* [[KBxUnit3EssayPlanning]] @jack why did u delete my thing? 
+	* [[KBxUnit3EssayPlanning]] @jack why did u delete my thing?  @hux no I didn't?
 
 ## Meta References
 - [[20hist201refTechniques]]
