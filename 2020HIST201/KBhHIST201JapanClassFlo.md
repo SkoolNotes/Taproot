@@ -26,3 +26,4 @@ Less centralized with regional lords + caste system. CLAIM: samuri slowly breaki
 - The Shougun resigns
 - Meiji Emperor takes power, and adopts western philosophy wholesale + renegotiate treaties
 
+**Japan became the role model of Westernization**
