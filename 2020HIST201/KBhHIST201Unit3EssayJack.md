@@ -69,7 +69,7 @@ After the BF Great War caused a disruptions of trade, European nations started t
 
 In addition to its seapower, British domination could also be attributed to that of free trade. CA. European nations actively urged the process of free trade, even setting up colonies (DA) for the basic avoidance of interruption to free trade. 
 
-Sidenote, they also actively weaponized free trade a la opium war. But we do China so much that it may not be worth mentioning here.
+Sidenote, they also actively weaponized free trade a la opium war. => they were to willing back up and support free trade with their stronger army.
 
 (Colonization is more mercantilist; so instead, talk about trade that is aligned with industrial needs. "what aspects of European trade was more successful?")
 
