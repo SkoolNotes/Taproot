@@ -73,6 +73,8 @@ In addition to its seapower, British domination could also be attributed to that
 # Sidenote, they also actively weaponized free trade a la opium war. But we do China so much that it may not be worth mentioning here.
 ```
 
+(Colonization )
+
 If a country does not follow the operations of free trade, they are very sad. See: the Ottomans + Defensive Developmentalism.
 
 The principles of DD encouraged the creation of more centralized control of both military power and economy based on an anti-european sentiment. So, the Ottoms tried to EA — back away from trade. That was a bad idea: EB — their centralized control failed and they evenually turned back to relying on the free market + private production.
