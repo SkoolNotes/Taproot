@@ -11,3 +11,5 @@ course: ISTUDIO
 	* Trying to get new context  
 	* Contacted Miles
 	
+Unrealistic that the web app will work	
+	
