@@ -73,7 +73,7 @@ In addition to its seapower, British domination could also be attributed to that
 # Sidenote, they also actively weaponized free trade a la opium war. But we do China so much that it may not be worth mentioning here.
 ```
 
-(Colonization )
+(Colonization is more men)
 
 If a country does not follow the operations of free trade, they are very sad. See: the Ottomans + Defensive Developmentalism.
 
