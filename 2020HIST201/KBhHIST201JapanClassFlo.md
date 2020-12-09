@@ -14,5 +14,6 @@ course: HIST201
 
 Less centralized with regional lords + caste system. CLAIM: samuri slowly breaking down + starting to sell swords
 
-- 1854: the Shogun sign unequ
+- 1854: the Shogun sign unequal treaty w/ the United States
+	- Shogunate moves to westernize
 
