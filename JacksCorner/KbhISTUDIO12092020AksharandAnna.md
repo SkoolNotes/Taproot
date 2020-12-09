@@ -10,6 +10,8 @@ course: ISTUDIO
 	* Tried to contact tarama
 	* Trying to get new context  
 	* Contacted Miles
+
+Emily + Diane
 	
 Unrealistic that the web app will work	
 	
