@@ -57,5 +57,7 @@ Defensive developmentalism: develop your country as a defense against others
 		- Young Ottomans (1876)
 			- Write and passed a constitution
 			- The Sultan immediately abolistes it
-		- Hamidian Reforms (1990) Haim 
+		- Hamidian Reforms (1990) 
+			- Railroads, telegraphs, universities
+			- CRackdown on dissent/Armenians
 
