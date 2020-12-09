@@ -50,5 +50,7 @@ Defensive developmentalism: develop your country as a defense against others
 - Nationalism begins taking place
 - Ottomans decline
 	- Traditionalist values + religios schooling
-	- 
+	- Defensive Developmentalizm
+		- Tanzimat Reform
+			- Lead by Sultan Ab
 
