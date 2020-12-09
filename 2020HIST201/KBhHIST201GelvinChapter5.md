@@ -51,6 +51,11 @@ Defensive developmentalism: develop your country as a defense against others
 - Ottomans decline
 	- Traditionalist values + religios schooling
 	- Defensive Developmentalizm
-		- Tanzimat Reform
-			- Lead by Sultan Ab
+		- Tanzimat Reform (1839)
+			- Lead by Sultan Abdulmecid
+			- Industrialization, tax reform, abolist millet system
+		- Young Ottomans (1876)
+			- Write and passed a constitution
+			- The Sultan immediately abolistes it
+		- Hamidian Reforms (1990) Haim 
 
