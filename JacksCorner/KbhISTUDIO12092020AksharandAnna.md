@@ -4,4 +4,5 @@ source: KBhISTUDIOCheckins
 course: ISTUDIO
 ---
 
-* Meeting — Mondays 6PM to 7
+* Meeting — Mondays 6PM to 7PM
+* 
