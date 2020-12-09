@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ ISTUDIO }
+\newcommand{\thelesson}{ Summerstamp 12092020 }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5743)}}    % original
-%\rhead{\textrmlf{Compiled }\#5743\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5743\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5744)}}    % original
+%\rhead{\textrmlf{Compiled }\#5744\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5744\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -165,8 +165,6 @@
 
 % DID YOU SET SPELL????
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-title: Summerstamp 12092020 source: {[}{[}KBhISTUDIOCheckins{]}{]}
 
 \end{document}
