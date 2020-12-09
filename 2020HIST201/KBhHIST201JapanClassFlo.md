@@ -7,4 +7,9 @@ course: HIST201
 
 # Japan
 
-- To
+**Constitutional Monarchy**
+
+- Tokugawa Shogun (prime minister => real power)
+- Emperor (god)
+
+Less centralized with regional lords + caste system.
