@@ -22,5 +22,5 @@ Less centralized with regional lords + caste system. CLAIM: samuri slowly breaki
 	- Westernization takes place
 	- Sakamoto Reoma
 		- On his way to assasinate the Shougun, he was convinced that Westernization is a good solution
-		- The rebels becoming convinced, and 
+		- The rebels becoming convinced, and hijacked
 
