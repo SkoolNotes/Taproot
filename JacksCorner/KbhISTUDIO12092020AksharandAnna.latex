@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5746)}}    % original
-%\rhead{\textrmlf{Compiled }\#5746\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5746\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5747)}}    % original
+%\rhead{\textrmlf{Compiled }\#5747\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5747\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -170,7 +170,7 @@
 \item
   Meeting --- Mondays 6PM to 7PM
 \item
-  User interviews
+  Initial Rollout
 
   \begin{itemize}
   \tightlist
@@ -179,7 +179,9 @@
   \item
     Tried to contact tarama
   \item
-    Trying to get new context
+    Trying to get new context\\
+  \item
+    Contacted Miles
   \end{itemize}
 \end{itemize}
 
