@@ -12,4 +12,7 @@ course: HIST201
 - Tokugawa Shogun (prime minister => real power)
 - Emperor (god)
 
-Less centralized with regional lords + caste system.
+Less centralized with regional lords + caste system. CLAIM: samuri slowly breaking down + starting to sell swords
+
+- 1854: the Shogun sign unequ
+
