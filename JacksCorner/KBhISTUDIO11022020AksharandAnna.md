@@ -11,4 +11,3 @@ title: Akshar and Anna
 	* Once an OK is reached, will do 	
 	
 Expectation: clearer plan for prototying/trial
-

@@ -13,5 +13,7 @@ course: ISTUDIO
 
 Emily + Diane => Nueva 1st grade teacher
 	
-Unrealistic that the web app will work	
+Unrealistic that the web app will work by prototyping
 	
+	
+**Expectation: get! a! trial! going!** Reach out to more people and parallel process.
