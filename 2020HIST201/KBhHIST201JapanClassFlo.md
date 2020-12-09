@@ -21,4 +21,5 @@ Less centralized with regional lords + caste system. CLAIM: samuri slowly breaki
 - 1868: Meiji Restoration
 	- Westernization takes place
 	- Sakamoto Reoma
+		- On his way to assasinate the Shougun, he was convinced that 
 
