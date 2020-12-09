@@ -15,5 +15,6 @@ New industrialized technology made the military much better: "the advanced techn
 
 This advantage manifests itself in two core ways: 
 
-1) The new modern military made the navy much more economical
+1) Modern military is much more economically and physically efficient
+2) Modern military is stronger and could easily fight over other advanced yet unindustrialized 
 
