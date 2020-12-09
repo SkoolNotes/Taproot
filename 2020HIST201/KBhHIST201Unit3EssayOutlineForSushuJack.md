@@ -5,8 +5,9 @@ author: Houjun Liu
 course: HIST201
 ---
 
-# Industrial Revolution Essay (Draft)
+# Industrial Revolution Essay (Outline)
 **For a nation-state to achieve global success and dominance in the 19th century, they must leverage industrial modernization: bringing the increased fighting power of an industrialized modern military, the economic benefits of adopting and weaponizing free trade, and the centralized political control offered by top-down civic nationalism.**
 
+## Modern, industrialized military brings increased fighting power
 
 
