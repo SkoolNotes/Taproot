@@ -29,7 +29,7 @@ Both of these factors would not exist because without the advent of the advanced
 ## State support and weaponization of free-trade and private production brought wealth and economic power
 In the 19th century, states began the "erosion of tariff barriers ... [and] the widespread propergation of ideas about free trade and incarnation". These devices allowed economy to flow freely throughout the world economy, and allowed the novel technologies of industrialization that sprung up in Europe to spread rapidly. 
 
-European states actively leveraged their newly-advantageous position in global trade to bring further economic wealth to them. Namely, 
+European states actively leveraged their newly-advantageous position in global trade to bring further economic wealth to them. 
 
 
 
