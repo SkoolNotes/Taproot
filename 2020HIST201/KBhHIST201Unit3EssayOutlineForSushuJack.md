@@ -20,4 +20,6 @@ This advantage manifests itself in two core ways:
 
 "Despite a steady reduction in its own numbers after 1815, the Royal Navy was at some times probably as powerful as the next three or four navies in actual fighting power. " (Kennedy Ch. 4). Due to to Britian's steady technological advancement, the British Royal Navy was able to use its advanced technology — of which it was one the first to adopt — to offset its reduced numbers.
 
-In addition to its increased efficienc, the advanced techno  
+In addition to increased efficiency, the advanced technologies adopted by the British Royal Navy also allowed it to conquer even traditionally powerful armies with ease.
+
+"The steam-driven gunboat meant that European sea power, already supreme in open waters, could be extended inland. ... The ironclad _Nemesis ... was a disaster for the defending Chinese forces, which were easily brushed aside." (Kennedy Ch. 4)
