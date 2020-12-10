@@ -40,4 +40,4 @@ During the 19th century, two major European players — Germany and Italy — we
 
 Throughout Europe, "Statesmen ... were using warfare and civic nationalism to forge powerful new nation-states" (Mason Ch. 7). The control offered by nationalistic ideals offered unique, counter-balancing forces that created an opportunity for the ruling class to both efficiently control subjects and ensure the integrity of the nation.
 
-Although it is not a strictly nationalistic speech, the Iron and Blood address by the 
+Although it is not a strictly nationalistic speech, the Iron and Blood address by the Prussian chancellor Otto von Bismarck rings with deeply nationalistic sentiments: "the position o
