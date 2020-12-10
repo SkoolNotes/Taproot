@@ -31,6 +31,6 @@ In the 19th century, states began the "erosion of tariff barriers ... [and] the 
 
 European states actively leveraged their newly-advantageous position in global trade to bring further economic wealth to them. The systems of Imperialism were in part created to propagate European ideas of free trade to more difficult markets like that of Asia or Africa: "European states sought 'sheltered markets' free from such restrictions to trade and found them in the colonies they established." (Mason Ch. 8 )
 
-This forcible installation of state-sponsored trade had significant advantages for European nations such as Britian.
+This forcible installation of state-sponsored trade had significant advantages for European nations such as Britian. Although opium trade to China was officially managed by the private British East India Co., Britian did not he
 
 
