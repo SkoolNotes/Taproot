@@ -38,5 +38,4 @@ The legacy Chinese forces had little capability to defend themselves against the
 ## Promotion of Civically Nationalistic Governance
 During the 19th century, two major European players — Germany and Italy — were created from the advent of civic nationalistic ideals. These new nations rapidly became modernized, developed, and rose to be a world player in global power balance.
 
-Throughout Europe, "Statesmen ... were using warfare and civic nationalism to forge powerful new nation-states" (Mason Ch. 7). The control offered by nationalistic ideals offered unique, counter-balancing forces that created an opportunity for the rullinc class
-both 
+Throughout Europe, "Statesmen ... were using warfare and civic nationalism to forge powerful new nation-states" (Mason Ch. 7). The control offered by nationalistic ideals offered unique, counter-balancing forces that created an opportunity for the ruling class to both efficiently control
