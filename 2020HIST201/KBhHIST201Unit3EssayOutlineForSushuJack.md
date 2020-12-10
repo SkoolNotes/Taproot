@@ -27,5 +27,7 @@ In addition to increased efficiency, the advanced technologies adopted by the Br
 Both of these factors would not exist because without the advent of the advanced military technologies brought by industrialization.
 
 ## State support and weaponization of free-trade and private production brought wealth and economic power
-In the 19th century, states began the "erosion of tariff barriers ... [and] the widespread propergation of ideas about free trade and incarnation"
+In the 19th century, states began the "erosion of tariff barriers ... [and] the widespread propergation of ideas about free trade and incarnation".
+
+These devices allowed economy to flow freely throughout the world economy, and allowed the novel technologies of industrialization that sprung up in Europe to spread rapidly throughout the nation.
 
