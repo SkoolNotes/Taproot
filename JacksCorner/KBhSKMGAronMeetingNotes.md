@@ -29,4 +29,8 @@ Reason for shifting needs is because human build time.
 - Complex Trimester => creates a lot of open spaces in the day
 - Simple Trimester => possibly a better option
 
+**Dials**
+
+- On campus dial => Cohorting => more subdivision of courses
+- Student choice => 
 

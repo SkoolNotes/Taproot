@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5839)}}    % original
-%\rhead{\textrmlf{Compiled }\#5839\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5839\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5840)}}    % original
+%\rhead{\textrmlf{Compiled }\#5840\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5840\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -228,6 +228,17 @@ Reason for shifting needs is because human build time.
   day
 \item
   Simple Trimester =\textgreater{} possibly a better option
+\end{itemize}
+
+\textbf{Dials}
+
+\begin{itemize}
+\tightlist
+\item
+  On campus dial =\textgreater{} Cohorting =\textgreater{} more
+  subdivision of courses
+\item
+  Student choice =\textgreater{}
 \end{itemize}
 
 \end{document}
