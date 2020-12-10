@@ -15,4 +15,5 @@ Alexa...
 	- Blocks 5-8 meet in the second part
 
 # Aron Meeting Notes
+- Students are taking 8 courses
 -  

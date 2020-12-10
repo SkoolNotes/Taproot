@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5823)}}    % original
-%\rhead{\textrmlf{Compiled }\#5823\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5823\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5824)}}    % original
+%\rhead{\textrmlf{Compiled }\#5824\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5824\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -190,6 +190,13 @@ Alexa\ldots{}
 \end{itemize}
 
 \hypertarget{aron-meeting-notes}{%
-\subsection{\# Aron Meeting Notes}\label{aron-meeting-notes}}
+\section{Aron Meeting Notes}\label{aron-meeting-notes}}
+
+\begin{itemize}
+\tightlist
+\item
+  Students are taking 8 courses
+\item
+\end{itemize}
 
 \end{document}
