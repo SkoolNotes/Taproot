@@ -27,5 +27,5 @@ In addition to increased efficiency, the advanced technologies adopted by the Br
 Both of these factors would not exist because without the advent of the advanced military technologies brought by industrialization.
 
 ## State support and weaponization of free-trade and private production brought wealth and economic power
-
+After 
 
