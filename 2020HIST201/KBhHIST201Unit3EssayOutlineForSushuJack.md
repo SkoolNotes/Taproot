@@ -25,3 +25,5 @@ In addition to increased efficiency, the advanced technologies adopted by the Br
 "The steam-driven gunboat meant that European sea power, already supreme in open waters, could be extended inland. ... The ironclad _Nemesis_ ... was a disaster for the defending Chinese forces, which were easily brushed aside." (Kennedy Ch. 4) Without the technologies of the steam engine — the hallmark of industrialization, it would be impossible for the British military to be able to so efficiently threaten the Chinese rule.
 
 Both of these factors would not exist because without the advent of the advanced military technologies brought by industrialization.
+
+## Increase of free-trade and private production
