@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5841)}}    % original
-%\rhead{\textrmlf{Compiled }\#5841\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5841\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5842)}}    % original
+%\rhead{\textrmlf{Compiled }\#5842\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5842\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -238,8 +238,8 @@ Reason for shifting needs is because human build time.
   On campus dial =\textgreater{} Cohorting =\textgreater{} more
   subdivision of courses
 \item
-  Student choice =\textgreater{} number of choices =\textgreater{} more
-  flexibility and unstable schedules
+  Student choice dial =\textgreater{} number of optiuo=\textgreater{}
+  more flexibility and unstable schedules
 \end{itemize}
 
 \end{document}
