@@ -22,4 +22,4 @@ This advantage manifests itself in two core ways:
 
 In addition to increased efficiency, the advanced technologies adopted by the British Royal Navy also allowed it to conquer even traditionally powerful armies with ease.
 
-"The steam-driven gunboat meant that European sea power, already supreme in open waters, could be extended inland. ... The ironclad _Nemesis_ ... was a disaster for the defending Chinese forces, which were easily brushed aside." (Kennedy Ch. 4) Without the technologies of the steam engine — the hallmark of industrialization, it would be impossible for the British military to be able to threaten the Chinese
+"The steam-driven gunboat meant that European sea power, already supreme in open waters, could be extended inland. ... The ironclad _Nemesis_ ... was a disaster for the defending Chinese forces, which were easily brushed aside." (Kennedy Ch. 4) Without the technologies of the steam engine — the hallmark of industrialization, it would be impossible for the British military to be able to so efficiently threaten the Chinese rule.
