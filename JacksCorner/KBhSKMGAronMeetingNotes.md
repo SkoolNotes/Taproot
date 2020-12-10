@@ -33,5 +33,3 @@ Reason for shifting needs is because human build time.
 
 - On campus dial => Cohorting => more subdivision of courses
 - Student choice dial => more number of options scheduling team has to balance => less flexibility and unstable schedules
-- 
-
