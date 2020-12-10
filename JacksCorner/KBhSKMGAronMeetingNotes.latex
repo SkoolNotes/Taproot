@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5820)}}    % original
-%\rhead{\textrmlf{Compiled }\#5820\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5820\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5821)}}    % original
+%\rhead{\textrmlf{Compiled }\#5821\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5821\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -165,6 +165,17 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
+
+\hypertarget{alexas-notes}{%
+\section{Alexa's Notes}\label{alexas-notes}}
+
+Alexa\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  Splitting a school year into three equal parts
+\end{itemize}
 
 \hypertarget{aron-meeting-notes}{%
 \section{Aron Meeting Notes}\label{aron-meeting-notes}}

@@ -4,5 +4,10 @@ author: Houjun Liu
 course: School Activities
 ---
 
-# Aron Meeting Notes
 
+# Alexa's Notes
+Alexa...
+
+- Splitting a school year into three equal parts
+
+# Aron Meeting Notes
