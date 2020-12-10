@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ School Activities }
+\newcommand{\thelesson}{ Aron Meeting Notes, Jack }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,10 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5819)}}    % original
-%\rhead{\textrmlf{Compiled }\#5819\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5819\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5820)}}    % original
+%\rhead{\textrmlf{Compiled }\#5820\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5820\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -164,9 +164,9 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-title:
+\hypertarget{aron-meeting-notes}{%
+\section{Aron Meeting Notes}\label{aron-meeting-notes}}
 
 \end{document}
