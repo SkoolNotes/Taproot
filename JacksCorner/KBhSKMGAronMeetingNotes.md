@@ -23,6 +23,6 @@ Alexa...
 	- A trimester model => a little difficult,  but _how do we do cohorting_
 	- Considering models with semester-long classes
 
-Reason for shifting needs is because human build time.
+Reason for shifting needs is because human build time. 
 
 
