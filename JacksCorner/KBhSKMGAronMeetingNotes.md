@@ -16,4 +16,5 @@ Alexa...
 
 # Aron Meeting Notes
 - Students are taking 8 courses
+- Students that are in full-year courses could finish courses => but that's hard
 -  
