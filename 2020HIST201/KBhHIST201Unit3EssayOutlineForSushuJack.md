@@ -29,7 +29,7 @@ Both of these factors would not exist because without the advent of the advanced
 ## State support and weaponization of free-trade and private production brought wealth and economic power
 In the 19th century, states began the "erosion of tariff barriers ... [and] the widespread propergation of ideas about free trade and incarnation." (Kennedy Ch. 4) These devices allowed economy to flow freely throughout the world economy, and allowed the novel technologies of industrialization that sprung up in Europe to spread rapidly. 
 
-European states actively leveraged their newly-advantageous position in global trade to bring further economic wealth to them. To propagate trade to more difficult markets like that of Asia or Africa, "European states sought 'sheltered markets' free from such restrictions to trade and found them in the colonies they established." (Mason Ch. 8 )
+European states actively leveraged their newly-advantageous position in global trade to bring further economic wealth to them. The systems of Imperialism were in part created to propagate European ideas of free trade to more difficult markets like that of Asia or Africa: "European states sought 'sheltered markets' free from such restrictions to trade and found them in the colonies they established." (Mason Ch. 8 )
 
 This policy of state-advancement
 
