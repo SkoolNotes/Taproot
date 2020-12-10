@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5821)}}    % original
-%\rhead{\textrmlf{Compiled }\#5821\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5821\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5822)}}    % original
+%\rhead{\textrmlf{Compiled }\#5822\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5822\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,6 +175,18 @@ Alexa\ldots{}
 \tightlist
 \item
   Splitting a school year into three equal parts
+\item
+  One spring proposal
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Trimester simple is \textbf{BEING PROPOSED}
+  \item
+    Only blocks 1-4 meet in the first part
+  \item
+    Blocks 5-8 meet in the second part
+  \end{itemize}
 \end{itemize}
 
 \hypertarget{aron-meeting-notes}{%
