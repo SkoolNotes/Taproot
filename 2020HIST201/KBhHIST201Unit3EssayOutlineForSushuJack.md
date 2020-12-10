@@ -18,6 +18,6 @@ This advantage manifests itself in two core ways:
 1) Modern military is much more economically and physically efficient
 2) Modern military is stronger and could easily fight over other advanced yet unindustrialized military 
 
-Even as "Despite a steady reduction in its own numbers after 1815, the Royal Navy was at some times probably as powerful as the next three or four navies in actual fighting power. " (Kennedy Ch. 4). Due to to Britian's steady technological advancement, the British Royal Navy was able to use its advanced technology to offset its reduced numbers.
+"Despite a steady reduction in its own numbers after 1815, the Royal Navy was at some times probably as powerful as the next three or four navies in actual fighting power. " (Kennedy Ch. 4). Due to to Britian's steady technological advancement, the British Royal Navy was able to use its advanced technology — of which it was one the first to adopt — to offset its reduced numbers.
 
-
+In addition to its effeciencies, this 
