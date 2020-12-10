@@ -33,7 +33,7 @@ European states actively leveraged their newly-advantageous position in global t
 
 This forcible induction of state-sponsored "free trade" had significant advantages for European nations such as Britian. Although opium trade to China was officially managed by the private British East India Co., Britian did not hesitate to leverage their army to force trading to continue: when Canton commisoner Lin Zexu threatened the Crown's opium trade, "Britain sent an expeditionary military force ... [that] the Chinese had no naval forces capable of defeating." (Ropp Late Qing). 
 
-The legacy Chinese forces had little capability to defend themselves against the newly-strengthened British forces as per aforementioned, and hence was forced to continue trade — a lucrative business for the British that not only offsetted their trade deficit with the Qing court, but made an additional $1 Million in profit. Arguably, the sustenance of the opium trade in late Qing China is also one of the reasons that the
+The legacy Chinese forces had little capability to defend themselves against the newly-strengthened British forces as per aforementioned, and hence was forced to continue trade — a lucrative business for the British that not only offsetted their trade deficit with the Qing court, but made an additional $1 Million in profit. Arguably, the sustenance of the opium trade in late Qing China is also one of the reasons that the administration eventually collapsed
 
 
 
