@@ -18,4 +18,7 @@ Alexa...
 - Students are taking 8 courses
 - Students that are in full-year courses could finish courses => but that's hard
 - Numerical Limits: 18/section. ~1/2 of the student body max; 
-- 
+- WE KNOW
+	- A semester model , but we can't do cohorting
+	- A trimester model => a little difficult,  but _how do we do cohorting_
+		- 
