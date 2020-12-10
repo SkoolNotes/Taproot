@@ -31,6 +31,6 @@ In the 19th century, states began the "erosion of tariff barriers ... [and] the 
 
 European states actively leveraged their newly-advantageous position in global trade to bring further economic wealth to them. To propagate trade to more difficult markets like that of Asia or Africa, "European states sought 'sheltered markets' free from such restrictions to trade and found them in the colonies they established." (Mason Ch. 8 )
 
-
+This policy of state-advancement
 
 
