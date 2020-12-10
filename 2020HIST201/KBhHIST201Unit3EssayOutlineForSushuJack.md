@@ -18,5 +18,5 @@ This advantage manifests itself in two core ways:
 1) Modern military is much more economically and physically efficient
 2) Modern military is stronger and could easily fight over other advanced yet unindustrialized military 
 
-
+"Despite a steady reduction in its own numbers after 1815, the Royal Navy was at some times probably as powerful as the next three or four navies in actual fighting power. " (Kennedy Ch. 4)
 
