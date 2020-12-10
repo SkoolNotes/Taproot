@@ -35,5 +35,8 @@ This forcible induction of state-sponsored "free trade" had significant advantag
 
 The legacy Chinese forces had little capability to defend themselves against the newly-strengthened British forces as per aforementioned, and hence was forced to continue trade — a lucrative business for the British that not only offsetted their trade deficit with the Qing court, but made an additional $1 Million in profit. Arguably, the sustenance of the opium trade in late Qing China is also one of the reasons that the administration eventually collapsed
 
-## Promotion of Civic Nati
+## Promotion of Civically Nationalistic Governance
+During the 19th century, two major European players — Germany and Italy — were created from the advent of civic nationalistic ideals. Furthere 
+
+Furthermore, nationalism becaume fre
 
