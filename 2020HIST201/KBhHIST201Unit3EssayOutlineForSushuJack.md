@@ -31,6 +31,12 @@ In the 19th century, states began the "erosion of tariff barriers ... [and] the 
 
 European states actively leveraged their newly-advantageous position in global trade to bring further economic wealth to them. The systems of Imperialism were in part created to propagate European ideas of free trade to more difficult markets like that of Asia or Africa: "European states sought 'sheltered markets' free from such restrictions to trade and found them in the colonies they established." (Mason Ch. 8 )
 
-This forcible induction of state-sponsored "free trade" had significant advantages for European nations such as Britian. Although opium trade to China was officially managed by the private British East India Co., Britian did not hesitate to leverage their army to force trading to continue: when Canton commisoner Lin Zexu threatened the Crown's opium trade, "Britain sent an expeditionary military force ... [that] the Chinese had no naval forces capable of defeating." (Ropp Late Qing). The legacy Chinese forces had little capability to defend themselves against the newly-strengthened British forces as per aforementioned, and hence was forced to continue trade.
+This forcible induction of state-sponsored "free trade" had significant advantages for European nations such as Britian. Although opium trade to China was officially managed by the private British East India Co., Britian did not hesitate to leverage their army to force trading to continue: when Canton commisoner Lin Zexu threatened the Crown's opium trade, "Britain sent an expeditionary military force ... [that] the Chinese had no naval forces capable of defeating." (Ropp Late Qing). 
+
+The legacy Chinese forces had little capability to defend themselves against the newly-strengthened British forces as per aforementioned, and hence was forced to continue trade. 
+
+
+
+
 
 
