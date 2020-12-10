@@ -17,5 +17,5 @@ Alexa...
 # Aron Meeting Notes
 - Students are taking 8 courses
 - Students that are in full-year courses could finish courses => but that's hard
-- Numerical Limits: 18/section. ~1/2 of the student body max
+- Numerical Limits: 18/section. ~1/2 of the student body max; 
 - 
