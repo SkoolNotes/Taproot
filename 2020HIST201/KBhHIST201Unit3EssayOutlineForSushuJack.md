@@ -20,4 +20,4 @@ This advantage manifests itself in two core ways:
 
 "Despite a steady reduction in its own numbers after 1815, the Royal Navy was at some times probably as powerful as the next three or four navies in actual fighting power. " (Kennedy Ch. 4). Due to to Britian's steady technological advancement, the British Royal Navy was able to use its advanced technology — of which it was one the first to adopt — to offset its reduced numbers.
 
-In addition to its effeciencies, this 
+In addition to its efficiencies, the  
