@@ -25,3 +25,7 @@ Alexa...
 
 Reason for shifting needs is because human build time. 
 
+- Grade Cohorting
+- Complex Trimester => crates a lot of open spaces in the day
+- Simple Trimester
+
