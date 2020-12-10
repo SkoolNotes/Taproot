@@ -21,4 +21,4 @@ Alexa...
 - WE KNOW
 	- A semester model , but we can't do cohorting
 	- A trimester model => a little difficult,  but _how do we do cohorting_
-		- 
+	- Considering models with semester-long classes
