@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5844)}}    % original
-%\rhead{\textrmlf{Compiled }\#5844\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5844\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5845)}}    % original
+%\rhead{\textrmlf{Compiled }\#5845\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5845\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -242,5 +242,7 @@ Reason for shifting needs is because human build time.
   team has to balance =\textgreater{} less flexibility and unstable
   schedules
 \end{itemize}
+
+So\ldots{} 40\% student choice.
 
 \end{document}
