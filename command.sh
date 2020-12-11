@@ -1,6 +1,6 @@
 #!/bin/zsh
 #taproot_path="../../Taproot/"
-taproot_backup_path="../taproot-backup"
+taproot_backup_path="../backup-taproot"
 #BUILDNUMBER_FILE='buildID.txt'
 
 echo 'entered command.sh'
