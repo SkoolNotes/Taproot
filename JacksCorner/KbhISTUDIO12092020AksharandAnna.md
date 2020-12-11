@@ -14,6 +14,9 @@ course: ISTUDIO
 Emily + Diane => Nueva 1st grade teacher
 	
 Unrealistic that the web app will work by prototyping
-	
-	
+
+
 **Expectation: get! a! trial! going!** Reach out to more people and parallel process.
+
+
+Question for Jan Check-in: so, what were your findings during the last summer trial? How did you iterate upon them.

@@ -122,9 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5751)}}    % original
-%\rhead{\textrmlf{Compiled }\#5751\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5751\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5847)}}    % original
+%\rhead{\textrmlf{Compiled }\#5847\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5847\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -191,5 +191,8 @@ Unrealistic that the web app will work by prototyping
 
 \textbf{Expectation: get! a! trial! going!} Reach out to more people and
 parallel process.
+
+Question for Jan Check-in: so, what were your findings during the last
+summer trial? How did you iterate upon them.
 
 \end{document}
