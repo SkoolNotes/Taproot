@@ -84,7 +84,7 @@ major driving factor was increase in interconnectivuity
 reaction to itc 
 
 
-
+interconnecivity: increase in exanchge - goods and ideas 
 
 
 
