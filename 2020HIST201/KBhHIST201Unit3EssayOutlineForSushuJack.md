@@ -46,4 +46,4 @@ In this maneuver, Bismarck created the German confederation — an act that stre
 
 ***
 
-In addition to the sheer technical and economic prowess brought by industrialization, the 19th century also engendered a new wave of governance that rapidly enabled the growth of new, powerful nations. Throughout Europe, "Statesmen ... were using warfare and civic nationalism to forge new nation-states" (Mason Ch. 7) like that of Germany and Italy — creating soon-to-be dominant players on world power balance. The process Civic nationalism is hugely effective partly due to the duality of control it offers. 
+In addition to the sheer technical and economic prowess brought by industrialization, the 19th century also engendered a new wave of governance that rapidly enabled the growth of new, powerful nations. Throughout Europe, "Statesmen ... were using warfare and civic nationalism to forge new nation-states" (Mason Ch. 7) like that of Germany and Italy — creating soon-to-be dominant players on world power balance. The process Civic nationalism is hugely effective partly due to the duality of control it offers: "Civic nationalism [is] directed from the top]"
