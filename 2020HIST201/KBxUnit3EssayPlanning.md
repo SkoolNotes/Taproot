@@ -105,7 +105,8 @@ interconectivity inherently means a decrease in autonomy
 
 
 
-
+- period of interconnectivity 
+- 
 
 
 
