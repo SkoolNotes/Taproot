@@ -99,6 +99,32 @@ interconnecivity: increase in exanchge - goods and ideas
 
 
 
+interconectivity inherently means a lack in autonomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
