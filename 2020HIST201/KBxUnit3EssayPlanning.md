@@ -129,6 +129,7 @@ interconectivity inherently means a decrease in autonomy
 		- Foreign trade, almost literally zero in 1854, was valued at $200 million a year by the end of the century. - palmer 
 	- took stuff and became powerful 
 		- A navy, modeled on the British, followed somewhat later. - palmer 
+		- newly western,zecl army and navy, - palmer 
 
 - china resisted interconnevtivity
 	- here were Confucian officials in the late nineteenth century who called for “self-strengthening,” learning from the West, and who began to build modern weapons, steamships, railroads and telegraph lines. But the Qing Empire was a vast, poor, mostly agricultural and overpopulated territory with a small, weak gov ernment, and the modernization efforts were confined to tiny coastal areas that had little impact inland. - ropp
