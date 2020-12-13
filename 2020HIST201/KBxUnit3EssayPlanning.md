@@ -109,9 +109,12 @@ interconectivity inherently means a decrease in autonomy
 	- embracing or rejecting interconnectivity was the major deciding factor in determining a nation's change in power 
 
 - Britain embraced and leveraged this
-	- 
+	- used interconnectivity (trade) for profit, and this became much more powerful
+	- navy is a tool for interconnectivity 
 
 - Japan flipped and accepted 
+	- started as closed off 
+	- americans showed up
 
 - China resisted and lost control 
 
