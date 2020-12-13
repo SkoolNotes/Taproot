@@ -43,3 +43,7 @@ Throughout Europe, "Statesmen ... were using warfare and civic nationalism to fo
 Although it is not a strictly nationalistic speech, the Iron and Blood address by the Prussian chancellor Otto von Bismarck rings with deeply nationalistic sentiments: "the position of Prussia in Germany ... will be determined ... by iron and blood " — rallying the citizens to powerful action under the image of "Germans": a _national identity_ previously separated from statehood.
 
 In this maneuver, Bismarck created the German confederation — an act that strengthened the already-dominant position of Prussia for dominance in their European region.
+
+***
+
+In addition to the sheer technical and economic prowess brought by industrialization, the 19th century also engended a new wa
