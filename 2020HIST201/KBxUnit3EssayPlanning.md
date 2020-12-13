@@ -115,7 +115,7 @@ interconectivity inherently means a decrease in autonomy
 
 - China resisted and lost control 
 
-- conc: some global trends are greater than any nation state 
+- conc: the power of connection is greater than any nation state 
 
 
 
