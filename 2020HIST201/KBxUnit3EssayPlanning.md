@@ -111,18 +111,23 @@ interconectivity inherently means a decrease in autonomy
 	- Prussian suc- cess was due in large measure to the application of new technologies to logistics and warfare: the new breech-loading “needle gun” (which could be fired from the prone position) and the use of the railroad and the tele- graph to move and coordinate troops and supplies. - mason 
 	- he empi re was so widesp read that it was difficu lt for the power of the central government to radiate out throug h the provinces, even with the use of nineteenth· century technologies such as telegraphs and railroads. - gelvin 
 	- The telegraph rapidly became as conventional a presence in the nineteenth century as the cell phone is today. And like other nineteenth century inventions -s teamboats and railroads and the Gatling gun - the telegraph proved to be an indispensable tool of imperialism - gelvin 
+	- 
 - britain embraced interconnectivity (embraced/made profit off of trade, had a strong navy) 
+- 
 - japan 54! 57! 
 	- started as closed off
 	- opened up
 		-  In the summer of 1898, Kang Youwei, a brilliant Confucian scholar who admired Japan for its rapid adoption of Western institutions and industrialization, - ropp 
 	- took stuff and became powerful 
+
 - china resisted interconnevtivity
 	- here were Confucian officials in the late nineteenth century who called for “self-strengthening,” learning from the West, and who began to build modern weapons, steamships, railroads and telegraph lines. But the Qing Empire was a vast, poor, mostly agricultural and overpopulated territory with a small, weak gov ernment, and the modernization efforts were confined to tiny coastal areas that had little impact inland. - ropp
+	- - liked japans industrialization (see above) then "ordered the reform movement crushed." - ropp 
+
 - china got fricked 
 	- In 1894-1895, fighting over influence in Korea, Japanese troops quickly and soundly defeated Qing forces.  - ropp
 	- In September 1899, John Hay, America’s secretary of state, issued a series of “Open Door Notes” to Britain, France, Ger many, Russia, Italy, and Japan, calling on all foreign powers in China to allow free trade in all spheres of influence. - ropp 
-	- liked japans industrialization (see above) then "ordered the reform movement crushed." - ropp 
+	
 
 
 ### Outline 
