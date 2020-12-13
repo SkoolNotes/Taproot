@@ -105,7 +105,7 @@ interconectivity inherently means a decrease in autonomy
 
 
 
-- this was a period of interconnectivity 
+- interconectivity ran rampant 
 - 
 
 
