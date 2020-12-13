@@ -119,7 +119,7 @@ interconectivity inherently means a decrease in autonomy
 	- took ideas and goods 
 	- japan became more powerful
 
-- China resisted and lost control 
+- China resisted interconnectivity for fear of loss of autonomy and lost control
 	- china tried to resist free trade (one major way inteconncection manifests) 
 	- 
 
