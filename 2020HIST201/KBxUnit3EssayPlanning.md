@@ -137,6 +137,7 @@ interconectivity inherently means a decrease in autonomy
 	- - liked japans industrialization (see above) then "ordered the reform movement crushed." - ropp 
 	- The Qing court remained largely ignorant of these processes. In the late eighteenth century, British traders came to feel increas- ingly frustrated with problems in the China trade.  - ropp
 	- Qing government saw inter national trade not as a way to generate new wealth but as a privilege granted to less-developed “barbarians” in exchange for their paying respects to the Son of Heaven and his court. British merchants were allowed to trade only at the southeastern seaport of.Guangzhou (known in the West as Canton), where they were confined to a few warehouses and allowed to reside only temporarily to load and unload their ships. - ropp 
+	- British mer chants would be expelled if they tried to come ashore anywhere other than Guangzhou and concluding with a standard emperor’s command to his lowly subjects: “Tremblingly obey and show no negligence!”1 - ropp 
 
 - china got fricked 
 	- In 1894-1895, fighting over influence in Korea, Japanese troops quickly and soundly defeated Qing forces.  - ropp
