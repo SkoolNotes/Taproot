@@ -182,7 +182,7 @@ The major deciding factor in a states change in power in the 19th century was it
 
 
 
-Britain heavily embraced interconnectivity, leveraging it for profit. Trade, one of Britain's main sources of income, is one of the main ways interconnectivity manifests. European states 
+Britain heavily embraced interconnectivity, leveraging it for profit. Trade, one of Britain's main sources of income, is one of the main ways interconnectivity manifests. 
 
 
 
