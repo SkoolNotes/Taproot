@@ -106,9 +106,9 @@ interconectivity inherently means a decrease in autonomy
 
 
 - interconectivity ran rampant 
-	- accepteance of 
+	- accepteance of interconnectivity was the major deciding facotr in determinatins a nations change in power 
 
-
+- 
 
 
 
