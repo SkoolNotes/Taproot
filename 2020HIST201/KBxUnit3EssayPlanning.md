@@ -106,7 +106,7 @@ interconectivity inherently means a decrease in autonomy
 
 
 - interconectivity ran rampant 
-- 
+	- accepteance of 
 
 
 
