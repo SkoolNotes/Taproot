@@ -51,7 +51,9 @@ good: some sort of categorical diff -- changing tech vs human nature? use vs use
 
 
 
-Need to fufill: 
+Need to fufill:
+	- Uses diverse variety of evidence to support arguments
+	- Creates an argument with strong explanatory power and relevance to both broader historical trends and specific moments in history
 
 
 
