@@ -135,6 +135,8 @@ interconectivity inherently means a decrease in autonomy
 - china resisted interconnevtivity
 	- here were Confucian officials in the late nineteenth century who called for “self-strengthening,” learning from the West, and who began to build modern weapons, steamships, railroads and telegraph lines. But the Qing Empire was a vast, poor, mostly agricultural and overpopulated territory with a small, weak gov ernment, and the modernization efforts were confined to tiny coastal areas that had little impact inland. - ropp
 	- - liked japans industrialization (see above) then "ordered the reform movement crushed." - ropp 
+	- The Qing court remained largely ignorant of these processes. In the late eighteenth century, British traders came to feel increas- ingly frustrated with problems in the China trade.  - ropp
+	- 
 
 - china got fricked 
 	- In 1894-1895, fighting over influence in Korea, Japanese troops quickly and soundly defeated Qing forces.  - ropp
