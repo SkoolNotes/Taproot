@@ -119,7 +119,8 @@ interconectivity inherently means a decrease in autonomy
 - china resisted interconnevtivity
 	- here were Confucian officials in the late nineteenth century who called for “self-strengthening,” learning from the West, and who began to build modern weapons, steamships, railroads and telegraph lines. But the Qing Empire was a vast, poor, mostly agricultural and overpopulated territory with a small, weak gov ernment, and the modernization efforts were confined to tiny coastal areas that had little impact inland. - ropp
 - china got fricked 
-	- In 1894-1895, fighting over influence in Korea, Japanese troops quickly and soundly defeated Qing forces.  - ropp 
+	- In 1894-1895, fighting over influence in Korea, Japanese troops quickly and soundly defeated Qing forces.  - ropp
+	- In September 1899, John Hay, America’s secretary of state, issued a series of “Open Door Notes” to Britain, France, Ger many, Russia, Italy, and Japan, calling on all foreign powers in China to allow free trade in all spheres of influence. - ropp 
 
 
 ### Outline 
