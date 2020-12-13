@@ -187,9 +187,7 @@ Britain heavily embraced interconnectivity, leveraging it for profit. Trade, one
 
 
 
-japan did well because it accepted interconnectivity 
-
-
+After centuries of isolation, Japan accepted interconnectivity and prosperpered because of it. 
 
 
 
