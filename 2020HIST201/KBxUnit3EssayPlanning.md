@@ -102,6 +102,7 @@ interconnecivity: increase in exanchge - goods and ideas
 interconectivity inherently means a decrease in autonomy
 
 
+## Outline
 
 ### title: freedom, or else. 
 
