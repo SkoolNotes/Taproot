@@ -187,7 +187,7 @@ Britain heavily embraced interconnectivity, leveraging it for profit. Trade, one
 
 
 
-After centuries of isolation, Japan accepted the interconnectivity revolution and prospered because of it. During Japan's period of self isolation, "no Japanese was allowed to leave the islands or even to build a ship large enough to navigate the high seas. No foreigner [... ] was allowed to enter" (palmer). Japan had little power, little influence, and was the antithesis of an interconnected state. This isolation continued until 1853, when "the American Commodore Perry forced his way with a fleet of naval vessels into Yedo Bay," initiating Japan into the interconnectivity revolution. 
+After centuries of isolation, Japan accepted the interconnectivity revolution and prospered because of it. During Japan's period of self isolation, "no Japanese was allowed to leave the islands or even to build a ship large enough to navigate the high seas. No foreigner [... ] was allowed to enter" (palmer). Japan had little power, little influence, and was the antithesis of an interconnected state. This isolation continued until 1853, when "the American Commodore Perry forced his way with a fleet of naval vessels into Yedo Bay," initiating Japan into the interconnectivity revolution. Commodore Perry demanded that the Japanese engage in trade with the Western powers, and "Japanese began to comply, and in 1867 an internal revolution took place, of which the most conspicuous consequence was a rapid westernizing of Japanese life and institu tions."
 
 
 
