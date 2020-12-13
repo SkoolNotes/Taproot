@@ -143,6 +143,7 @@ interconectivity inherently means a decrease in autonomy
 - china got fricked 
 	- In 1894-1895, fighting over influence in Korea, Japanese troops quickly and soundly defeated Qing forces.  - ropp
 	- In September 1899, John Hay, America’s secretary of state, issued a series of “Open Door Notes” to Britain, France, Ger many, Russia, Italy, and Japan, calling on all foreign powers in China to allow free trade in all spheres of influence. - ropp 
+	- Great Britain sent an expedition ary force of sixteen warships, four armed steamers, twenty-seven transport ships, and one troop ship to China in 1840, with a total of 4,000 British troops. The Chinese had no naval forces capable of defeating such a force and little comprehension of how deadly serious the British government was in its determination to force the opium trade to continue and to grow. - ropp
 - conclustion? 
 	- The moral was clear. Everywhere leaders of subjugated peoples con cluded, from the Japanese precedent, that they must bring Western science	- palmer 
 
