@@ -102,18 +102,13 @@ interconnecivity: increase in exanchge - goods and ideas
 interconectivity inherently means a decrease in autonomy
 
 
-## Outline
-
-### title: freedom, or else. 
+## Planning 
 
 
+### Outline 
+
+###### title: freedom, or else. 
 ###### THESIS: the major deciding factor in a states change in power in the 19th century was its willingness to embrace interconnectivity. 
-
-
-
-
-
-
 
 - interconectivity ran rampant 
 	- industiral rev led to shrinking world 
