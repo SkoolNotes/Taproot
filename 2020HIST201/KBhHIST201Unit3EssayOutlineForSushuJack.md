@@ -46,4 +46,4 @@ In this maneuver, Bismarck created the German confederation — an act that stre
 
 ***
 
-In addition to the sheer technical and economic prowess brought by industrialization, the 19th century also engended a new wa
+In addition to the sheer technical and economic prowess brought by industrialization, the 19th century also engendered a new wave of governance that rapidly enabled the growth of new, powerful nations. 
