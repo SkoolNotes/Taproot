@@ -71,14 +71,22 @@
 }
 
 \usepackage{mathspec}
+%\setmainfont[
+%   ItalicFont     = HelveticaNeue-Italic,
+%   BoldFont       = HelveticaNeue-Bold,
+%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight[
+%   ItalicFont     = HelveticaNeue-LightItalic,
+%   BoldFont       = HelveticaNeue-UltraLight,
+%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
 \setmainfont[
-   ItalicFont     = HelveticaNeue-Italic,
-   BoldFont       = HelveticaNeue-Bold,
-   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+   ItalicFont     = Iosevka-Italic,
+   BoldFont       = Iosevka-Bold,
+   BoldItalicFont = Iosevka-Bold-Italic]{Iosevka}
 \newfontfamily\NHLight[
-   ItalicFont     = HelveticaNeue-LightItalic,
-   BoldFont       = HelveticaNeue-UltraLight,
-   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+   ItalicFont     = Iosevka-LightItalic,
+   BoldFont       = Iosevka-Ultra-Light,
+   BoldItalicFont = Iosevka-Ultra-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -122,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5607)}}    % original
-%\rhead{\textrmlf{Compiled }\#5607\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5607\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5920)}}    % original
+%\rhead{\textrmlf{Compiled }\#5920\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5920\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -171,25 +179,31 @@
 \section{Industrial Revolution
 Essay}\label{industrial-revolution-essay}}
 
+For Sushu {[}{[}KBhHIST201Unit3EssayOutlineForSushuJack{]}{]}
+
 \hypertarget{general-information}{%
 \subsection{General Information}\label{general-information}}
 
 \begin{longtable}[]{@{}lll@{}}
 \toprule
-\begin{minipage}[b]{0.30\columnwidth}\raggedright
+\begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 Due Date\strut
-\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+\end{minipage} &
+\begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 Topic\strut
-\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+\end{minipage} &
+\begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 Important Documents\strut
 \end{minipage}\tabularnewline
 \midrule
 \endhead
-\begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 Friday, December 18th\strut
-\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\end{minipage} &
+\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 19th Century Transformations\strut
-\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\end{minipage} &
+\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 Mason, Bulliet, Ropp, and Gelvin\strut
 \end{minipage}\tabularnewline
 \bottomrule
@@ -211,8 +225,8 @@ roughly 1900)?}
   China, SEA, Africa)
 \end{itemize}
 
-\hypertarget{claim-synthesis}{%
-\subsection{Claim Synthesis}\label{claim-synthesis}}
+\hypertarget{preparation}{%
+\subsection{Preparation}\label{preparation}}
 
 \begin{itemize}
 \item
@@ -245,37 +259,45 @@ roughly 1900)?}
 
 \begin{longtable}[]{@{}lll@{}}
 \toprule
-\begin{minipage}[b]{0.30\columnwidth}\raggedright
+\begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 Concept\strut
-\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+\end{minipage} &
+\begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 Winning Solution\strut
-\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+\end{minipage} &
+\begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 Loosing Solution\strut
 \end{minipage}\tabularnewline
 \midrule
 \endhead
-\begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 Modern warfare\strut
-\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\end{minipage} &
+\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 Approaching industrialization and all the new-fangled
 {[}{[}KBhHIST201IRonWarfare{]}{]} that it brings, like what happened to
 the British Royal Navy\strut
-\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\end{minipage} &
+\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 how much, or centrol control\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 Trading\strut
-\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\end{minipage} &
+\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 Erosion of tariff barriers + widespread free trade ideals (a la European
 city-states)\strut
-\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\end{minipage} &
+\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 Controlling trade (a la the Ottomans' defense developmentalism)\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 State organization\strut
-\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
-Germany's {[}{[}KBhHIST201GermanicNationalism {]}{]}\strut
-\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\end{minipage} &
+\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
+Germany's {[}{[}KBhHIST201GermanicNationalism{]}{]}\strut
+\end{minipage} &
+\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.33}}\raggedright
 Dynastarial control a la China; weak emperors =\textgreater{}
 downfall\strut
 \end{minipage}\tabularnewline
@@ -290,121 +312,187 @@ downfall\strut
 \item
   ``Prussian success was due in large measure to the application of new
   technologies to logistics and warfare''
-  @{[}{[}KBhHIST201MasonCh7{]}{]}
+  @{[}{[}KBhHIST201MasonCh7{]}{]} AA
 \item
   ``Despite a steady reduction in its own numbers after 1815, the Royal
   Navy was at some times probably as powerful as the next three or four
   navies in actual fighting power.'' @{[}{[}KBhHIST201KennedyCh4{]}{]}
+  BA
 \item
   ``The firepower gap, like that which had opened up in industrial
   productivity, meant that the leading nations possessed resources fifty
   or a hundred times greater than those at the bottom.''
-  @{[}{[}KBhHIST201KennedyCh4{]}{]}
+  @{[}{[}KBhHIST201KennedyCh4{]}{]} BB
 \item
-  ``landing marines, and oversawing local potentates from Canton to
-  Zanzibar-the impact seemedperhaps even more decisive.''
+  ``The advanced technology of steam engines and machine-made tools gave
+  Europe decisive economic and military advantages.''
+  @{[}{[}KBhHIST201KennedyCh4{]}{]} BC
+\item
+  "the steam-driven gunboat meant that European sea power, already
+  supreme in open waters, could be extended inland. \ldots{} The
+  ironclad \_Nemesis \ldots{} was a disaster for the defending Chinese
+  forces, which were easily brushed aside."
+  @{[}{[}KBhHIST201KennedyCh4{]}{]} BD
+\item
+  ``conditions naturally encouraged long-term commercial and industrial
+  investment, thereby stimulating the growth of a global economy.''
+  @{[}{[}KBhHIST201KennedyCh4{]}{]} BE
+\item
+  ``The erosion of tariff barriers and othermercantilist devices,
+  together with the widespread propagation ofideas about free trade and
+  international harmony, suggested that a newinternational order had
+  arisen,'' @{[}{[}KBhHIST201KennedyCh4{]}{]} BF
+\item
+  ``Several distinct changes facilitated the expansion and
+  transformation of Britian's overseas empire \ldots{} new policies
+  favored free trade over mercantilism''
+  @{[}{[}KBhHIST201BritishRaj{]}{]} (Bulliet) CA
+\item
+  ``To get around this, European states sought''sheltered markets" free
+  from such restrictions to trade and found them in the colonies they
+  estab- lished in Africa and Asia." @{[}{[}KBhHIST201MasonCh8{]}{]} DA
+\item
+  ``Over the course of the nineteenth century, the Ottoman Empire backed
+  away from \ldots{} free trade that had done so much to integrate it
+  into the world economy.'' @{[}{[}KBhHIST201GelvinChapter5{]}{]} EA
+\item
+  ``Attempts to establish state-run factories floundered \ldots{}
+  because \ldots{} {[}of{]} shortages of skilled labors \ldots{}
+  {[}and{]} a lack of investment capital As a result, the state turned
+  instead to programs that were intended to foster private industrial
+  production.'' @{[}{[}KBhHIST201GelvinChapter5{]}{]} EB
+\item
+  ``Unification projects had the support of powerful states and leaders
+  in Piedmont and Prussia and, in the Italian case at least, outside
+  support (from France) as well.'' @{[}{[}KBhHIST201MasonCh7{]}{]} FA
+\item
+  ``Not by speeches and majority votes are the great questions of the
+  day decided---that was the great error of 1848 and 1849---but by iron
+  and blood'' @{[}{[}KBhHIST201MasonCh7{]}{]}, FB, Otto Von Bismark
+\item
+  ``His forceful actions to achieve German unification''
+  @{[}{[}KBhHIST201MasonCh7{]}{]} FC
+\item
+  ``statesmen in Europe were using warfare and civic nationalism to
+  forge \textbf{powerful new nation-states}''
+  @{[}{[}KBhHIST201MasonCh7{]}{]} FD
+\item
+  ``When nationalism arises in multinational states or empires \ldots{}
+  national groups typically want to break away from the larger empire,
+  which is dominated by other nationalities\ldots{} {[}this{]} lead to
+  the breakup of the Ottoman Empire.'' @{[}{[}KBhHIST201MasonCh7{]}{]}
+  FE
+\item
+  ``But the Qing Empire was a vast, poor, mostly agricultural and
+  overpopulated territory with a small, weak government, and the
+  modernization efforts were confined to tiny coastal areas that had
+  little impact inland.'' @{[}{[}KBhHIST101LateQingChina{]}{]} Ropp GA
+\item
+  ``The court was torn between conserva- tive and reformist officials,
+  and she maintained her power by alternating appeals to each group,
+  allowing neither to dominate for long.''
+  @{[}{[}KBhHIST101LateQingChina{]}{]} Ropp GB
 \end{itemize}
 
-\hypertarget{defluffifying}{%
-\subsection{Defluffifying}\label{defluffifying}}
+\hypertarget{claim-synthesis}{%
+\subsection{Claim Synthesis}\label{claim-synthesis}}
 
-CHOSEN THESIS CLAIM
+Three aspects: embracing Industrialization-tech based military warfare
+that originated in Europe; promoting free trade and market economy;
+organizing states under civic top-down nationalism.
 
-\begin{itemize}
-\tightlist
+\hypertarget{modern-warfare}{%
+\subsubsection{Modern Warfare}\label{modern-warfare}}
+
+England, through utilizing {[}{[}KBhHIST201IRonWarfare{]}{]}, was able
+to gather a huge competitive advantage over other nations.
+
+BC --- new tech made military much better. They did two things: they
+made the navy much more economically and physically efficient but also
+just made them good ol' fashioned \emph{better}.
+
+Per the BA, the British royal navy was actually able to have a huge
+boost in fighting power even while reducing its count during the 1810s.
+
+Such efficiencies is unrivaled even compared to the traditionally large
+nations. By embracing the {[}{[}KBhHIST201IndustrialRevolution{]}{]},
+new conquirings are possible that would not have been possible before.
+BD against traditionally large nations that simply did not had the speed
+to embrace and master {[}{[}KBhHIST201IRonWarfare{]}{]}.
+
+\hypertarget{free-trade-and-private-production}{%
+\subsubsection{Free Trade and Private
+Production}\label{free-trade-and-private-production}}
+
+After the BF Great War caused a disruptions of trade, European nations
+started to use and embrace free trade. BE.
+
+In addition to its seapower, British domination could also be attributed
+to that of free trade. CA. European nations actively urged the process
+of free trade, even setting up colonies (DA) for the basic avoidance of
+interruption to free trade.
+
+Sidenote, they also actively weaponized free trade a la opium war.
+=\textgreater{} they were to willing back up and support free trade with
+their stronger army.
+
+(Colonization is more mercantilist; so instead, talk about trade that is
+aligned with industrial needs. ``what aspects of European trade was more
+successful?'')
+
+If a country does not follow the operations of free trade, they are very
+sad. See: the Ottomans + Defensive Developmentalism.
+
+The principles of DD encouraged the creation of more centralized control
+of both military power and economy based on an anti-european sentiment.
+So, the Ottoms tried to EA --- back away from trade. That was a bad
+idea: EB --- their centralized control failed and they evenually turned
+back to relying on the free market + private production.
+
+\hypertarget{kbhhist201nationalism-namely-civic-nationalism}{%
+\subsubsection{{[}{[}KBhHIST201Nationalism{]}{]}, namely Civic
+Nationalism}\label{kbhhist201nationalism-namely-civic-nationalism}}
+
+Powerful Nation-States were created by nationalism. FD
+
+{[}{[}KBhHIST201GermanicNationalism{]}{]} worked! FA --- countries like
+Italy and Germany supported the efforts of Nationalism.
+
+Although not strictly a nationalist speech, FB --- Iron and Blood ---
+showed clear nationalist sentiments. he executed FC --- forceful actions
+--- that ensured the unification of Germany by consolidating Prussian
+power with those nearby: rallying under the image of Germanic civic
+nationalism.
+
+When a country does not do nationalism, it does not go well.
+
+Either\ldots{}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
 \item
-  Point a
+  A country tries to enforce dynastarial control over disperate regions
+  instead of an identity centered around nationalism, things go wrong.
+  FE --- \emph{seperatism} is engendered, which does not promote the
+  national identity definition to national ideals w/ common culture.
+  This is party how the Ottomans went.
 \item
-  Point b
-\item
-  Point c
-\end{itemize}
+  A country tries to give up control and have weaker, local governance.
+  This means that important national efforts like in China's case for
+  westernization GA could have much lesser effect than if there were to
+  be a stronger central government with shared \textbf{ideals}, which
+  would safeguard against GB Cixi-style trading favourites and
+  politiking
+\end{enumerate}
 
-So what? SO WHAT
+**For a nation-state to achieve global success and dominance in the 19th
+century, they must leverage the forces of industrial modernization ---
+bringing increased fighting power of an industrialized modern military,
+the economic benefits of transitioning from mercantilism to free trade
+and market economy, and the centralized political control offered by
+top-down civic nationalism."
 
-Now, defluffify by re-writing the three points + so what in as little
-words as possible.
-
-\textbf{RESTATED CLAIM}
-
-\hypertarget{outline}{%
-\subsection{Outline}\label{outline}}
-
-\begin{itemize}
-\tightlist
-\item
-  Claim 1: \emph{claim}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    How
-
-    \begin{itemize}
-    \tightlist
-    \item
-      HOW IS CLAIM TRUE?
-    \item
-      Evidence -\textgreater{} HOW IS YOUR REASONING TRUE?
-    \end{itemize}
-  \item
-    So What
-
-    \begin{itemize}
-    \tightlist
-    \item
-      WHY DO I CARE?
-    \end{itemize}
-  \end{itemize}
-\item
-  Claim 2: \emph{claim}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    How
-
-    \begin{itemize}
-    \tightlist
-    \item
-      HOW IS CLAIM TRUE?
-    \item
-      Evidence -\textgreater{} HOW IS YOUR REASONING TRUE?
-    \end{itemize}
-  \item
-    So What
-
-    \begin{itemize}
-    \tightlist
-    \item
-      WHY DO I CARE?
-    \end{itemize}
-  \end{itemize}
-\item
-  Claim 3: \emph{claim}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    How
-
-    \begin{itemize}
-    \tightlist
-    \item
-      HOW IS CLAIM TRUE?
-    \item
-      Evidence -\textgreater{} HOW IS YOUR REASONING TRUE?
-    \end{itemize}
-  \item
-    So What
-
-    \begin{itemize}
-    \tightlist
-    \item
-      WHY DO I CARE?
-    \end{itemize}
-  \end{itemize}
-\end{itemize}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
