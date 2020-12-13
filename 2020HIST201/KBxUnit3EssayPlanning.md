@@ -175,6 +175,35 @@ interconectivity inherently means a decrease in autonomy
 - conc: the power of connection is greater than any nation state 
 
 
+### Kinda wanna be more than friendsssss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
