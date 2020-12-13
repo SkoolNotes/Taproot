@@ -116,9 +116,12 @@ interconectivity inherently means a decrease in autonomy
 	- started as closed off 
 	- americans showed up
 	- opened japan
-	- japan 
+	- took ideas and goods 
+	- japan became more powerful
 
 - China resisted and lost control 
+	- china tried to resist free trade (one major way inteconncection manifests) 
+	- 
 
 - conc: the power of connection is greater than any nation state 
 
