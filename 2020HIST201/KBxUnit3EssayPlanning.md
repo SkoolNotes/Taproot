@@ -182,7 +182,7 @@ The major deciding factor in a states change in power in the 19th century was it
 
 
 
-Britain heavily embraced interconnectivity, leveraging it for profit. 
+Britain heavily embraced interconnectivity, leveraging it for profit. One of the main ways interconnectivity manifests is through trade
 
 
 
