@@ -114,6 +114,7 @@ interconectivity inherently means a decrease in autonomy
 
 - britain embraced interconnectivity (embraced/made profit off of trade, had a strong navy) 
 	-  For over a century before 1815, of course, the Royal Navy had usually been the largest in the world. - kennedy 
+	-  Th.e first was the steady and then (after the 1840s) spectacular growthof an integrated global economy, which drew ever more re- gionsinto a transoceanic and transcontinental trading and financial networkcentered upon western Europe, and in particular upon Great Britain. - kennedy 
 
 - japan 54! 57! 
 	- started as closed off
