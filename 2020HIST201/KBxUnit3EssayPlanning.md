@@ -177,10 +177,20 @@ interconectivity inherently means a decrease in autonomy
 
 ### Kinda wanna be more than friendsssss
 
+The major deciding factor in a states change in power in the 19th century was its willingness to embrace interconnectivity.
 
 
 
-THESIS: the major deciding factor in a states change in power in the 19th century was its willingness to embrace interconnectivity.
+
+
+
+
+
+
+
+
+
+
 
 
 
