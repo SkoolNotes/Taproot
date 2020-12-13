@@ -103,6 +103,15 @@ interconectivity inherently means a decrease in autonomy
 
 
 
+### title: freedom, or else. 
+
+
+###### THESIS: the major deciding factor in a nations change in power 
+
+
+
+
+
 
 
 - interconectivity ran rampant 
