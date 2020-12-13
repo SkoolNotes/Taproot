@@ -58,6 +58,8 @@ Need to fufill:
 
 
 
+Japan was the model of modernization 
+
 
 
 
