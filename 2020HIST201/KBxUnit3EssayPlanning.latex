@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6011)}}    % original
-%\rhead{\textrmlf{Compiled }\#6011\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6011\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6012)}}    % original
+%\rhead{\textrmlf{Compiled }\#6012\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6012\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -524,8 +524,8 @@ interconnectivity revolution.
 
 After centuries of isolation, Japan accepted the interconnectivity
 revolution and prospered because of it. During Japan's period of self
-isolation, "no Japanese was allowed to leave the islands or even to
-build a ship large enough to navigate the high seas. No foreigner,
-except for handfuls of Dutch and Chinese, was allowed to enter
+isolation, ``no Japanese was allowed to leave the islands or even to
+build a ship large enough to navigate the high seas. No foreigner
+{[}\ldots{} {]} was allowed to enter'' (palmer).
 
 \end{document}
