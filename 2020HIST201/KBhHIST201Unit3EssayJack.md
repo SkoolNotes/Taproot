@@ -96,8 +96,6 @@ Either...
 
 **For a nation-state to achieve global success and dominance in the 19th century, they must leverage the forces of industrial modernization — bringing increased fighting power of an industrialized modern military, the economic benefits of transitioning from mercantilism to free trade and market economy, and the centralized political control offered by top-down civic nationalism."
 
-***
-
 
 ***
 
