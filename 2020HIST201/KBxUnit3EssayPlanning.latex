@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6009)}}    % original
-%\rhead{\textrmlf{Compiled }\#6009\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6009\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6010)}}    % original
+%\rhead{\textrmlf{Compiled }\#6010\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6010\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -523,6 +523,6 @@ Britain truly was one of the driving forces behind this
 interconnectivity revolution.
 
 After centuries of isolation, Japan accepted the interconnectivity
-revolution and prospered because of it.
+revolution and prospered because of it. Japan was
 
 \end{document}

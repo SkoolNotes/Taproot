@@ -187,7 +187,7 @@ Britain heavily embraced interconnectivity, leveraging it for profit. Trade, one
 
 
 
-After centuries of isolation, Japan accepted the interconnectivity revolution and prospered because of it. 
+After centuries of isolation, Japan accepted the interconnectivity revolution and prospered because of it. Japan was 
 
 
 
