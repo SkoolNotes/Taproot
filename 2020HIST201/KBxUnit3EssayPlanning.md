@@ -115,6 +115,8 @@ interconectivity inherently means a decrease in autonomy
 - Japan flipped and accepted 
 	- started as closed off 
 	- americans showed up
+	- opened japan
+	- japan 
 
 - China resisted and lost control 
 
