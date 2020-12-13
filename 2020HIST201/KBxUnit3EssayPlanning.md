@@ -113,8 +113,7 @@ interconectivity inherently means a decrease in autonomy
 	- The telegraph rapidly became as conventional a presence in the nineteenth century as the cell phone is today. And like other nineteenth century inventions -s teamboats and railroads and the Gatling gun - the telegraph proved to be an indispensable tool of imperialism - gelvin 
 
 - britain embraced interconnectivity (embraced/made profit off of trade, had a strong navy) 
-
-	- 
+	-  For over a century before 1815, of course, the Royal Navy had usually been the largest in the world. - kennedy 
 
 - japan 54! 57! 
 	- started as closed off
