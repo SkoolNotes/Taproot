@@ -130,6 +130,7 @@ interconectivity inherently means a decrease in autonomy
 	- took stuff and became powerful 
 		- A navy, modeled on the British, followed somewhat later. - palmer 
 		- newly western,zecl army and navy, - palmer 
+		- The Russians sent their Baltic fleet around three continents to the Far East, but to the world's amazement the Rus sian fleet was met and destroyed at Tsushima Strait by the new and untested navy of Japan. - palmer 
 
 - china resisted interconnevtivity
 	- here were Confucian officials in the late nineteenth century who called for “self-strengthening,” learning from the West, and who began to build modern weapons, steamships, railroads and telegraph lines. But the Qing Empire was a vast, poor, mostly agricultural and overpopulated territory with a small, weak gov ernment, and the modernization efforts were confined to tiny coastal areas that had little impact inland. - ropp
