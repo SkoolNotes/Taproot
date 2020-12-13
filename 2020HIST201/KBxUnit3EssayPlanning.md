@@ -136,7 +136,7 @@ interconectivity inherently means a decrease in autonomy
 	- here were Confucian officials in the late nineteenth century who called for “self-strengthening,” learning from the West, and who began to build modern weapons, steamships, railroads and telegraph lines. But the Qing Empire was a vast, poor, mostly agricultural and overpopulated territory with a small, weak gov ernment, and the modernization efforts were confined to tiny coastal areas that had little impact inland. - ropp
 	- - liked japans industrialization (see above) then "ordered the reform movement crushed." - ropp 
 	- The Qing court remained largely ignorant of these processes. In the late eighteenth century, British traders came to feel increas- ingly frustrated with problems in the China trade.  - ropp
-	- 
+	- Qing government saw inter national trade not as a way to generate new wealth but as a privilege granted to less-developed “barbarians” in exchange for their paying respects to the Son of Heaven and his court. British merchants were allowed to trade only at the southeastern seaport of.Guangzhou (known in the West as Canton), where they were confined to a few warehouses and allowed to reside only temporarily to load and unload their ships. - ropp 
 
 - china got fricked 
 	- In 1894-1895, fighting over influence in Korea, Japanese troops quickly and soundly defeated Qing forces.  - ropp
