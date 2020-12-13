@@ -125,8 +125,8 @@ interconectivity inherently means a decrease in autonomy
 	- opened up
 		-  In the summer of 1898, Kang Youwei, a brilliant Confucian scholar who admired Japan for its rapid adoption of Western institutions and industrialization, - ropp 
 		-  The lords of Choshu and Satsuma now concluded that the only way to deal with the West was to adopt the military and technical equipment of the West itself. - palmer 
-		-  The Meiji era (1868-1912) was the great era of the westernization of Japan. - palmer 
-Japan turned into a modern nation-state. 
+		-  The Meiji era (1868-1912) was the great era of the westernization of Japan.  Japan turned into a modern nation-state. - palmer 
+		- Foreign trade, almost literally zero in 1854, was valued at $200 million a year by the end of the century. - palmer 
 	- took stuff and became powerful 
 		- A navy, modeled on the British, followed somewhat later. - palmer 
 
