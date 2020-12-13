@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5903)}}    % original
-%\rhead{\textrmlf{Compiled }\#5903\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5903\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5904)}}    % original
+%\rhead{\textrmlf{Compiled }\#5904\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5904\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -330,6 +330,10 @@ interconectivity inherently means a decrease in autonomy
       In the summer of 1898, Kang Youwei, a brilliant Confucian scholar
       who admired Japan for its rapid adoption of Western institutions
       and industrialization, - ropp
+    \item
+      The lords of Choshu and Satsuma now concluded that the only way to
+      deal with the West was to adopt the military and technical
+      equipment of the West itself.
     \end{itemize}
   \item
     took stuff and became powerful

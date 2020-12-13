@@ -124,6 +124,7 @@ interconectivity inherently means a decrease in autonomy
 		- For over two centuries Japan had followed a program of self-imposed isolation. No Japa nese was allowed to leave the islands or even to build a ship large enough to navigate the high seas. No foreigner, except for handfuls of Dutch and Chinese, was allowed to enter. Japan remained a sealed book to the West.  - palmer 
 	- opened up
 		-  In the summer of 1898, Kang Youwei, a brilliant Confucian scholar who admired Japan for its rapid adoption of Western institutions and industrialization, - ropp 
+		-  The lords of Choshu and Satsuma now concluded that the only way to deal with the West was to adopt the military and technical equipment of the West itself. 
 	- took stuff and became powerful 
 		- A navy, modeled on the British, followed somewhat later. - palmer 
 
