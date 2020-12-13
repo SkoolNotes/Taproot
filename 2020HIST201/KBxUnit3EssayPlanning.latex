@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5853)}}    % original
-%\rhead{\textrmlf{Compiled }\#5853\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5853\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5854)}}    % original
+%\rhead{\textrmlf{Compiled }\#5854\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5854\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -231,5 +231,7 @@ interconection
 huge amount of change
 
 major driving factor was increase in interconnectivuity
+
+reaction to itc
 
 \end{document}
