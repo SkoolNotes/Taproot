@@ -182,7 +182,7 @@ The major deciding factor in a states change in power in the 19th century was it
 
 
 
-Britain heavily embraced interconnectivity, leveraging it for profit. Trade, one of Britain's main sources of income, is one of the main ways interconnectivity manifests. Britain heavily promoted trade, even going to the lengths of taking territory from other states and turning it into "important commercial and trading centers" (mason). They focused on developing a powerful navy, which became "the largest in the world" (kennedy). 
+Britain heavily embraced interconnectivity, leveraging it for profit. Trade, one of Britain's main sources of income, is one of the main ways interconnectivity manifests. Britain heavily promoted trade, even going to the lengths of taking territory from other states and turning it into "important commercial and trading centers" (mason). They focused on developing a powerful navy, which became "the largest in the world" (kennedy). This navy effectively served as a tool for propogating 
 
 
 
