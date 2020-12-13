@@ -121,7 +121,7 @@ interconectivity inherently means a decrease in autonomy
 - japan 54! 57! 
 	- started as closed off
 		- In 1853, the American Commodore Perry forced his way with a fleet of naval vessels into Yedo Bay. insisted upon landing, and demanded of the Japanese government that it en gage in commercial relations with the United States and other Western powers. In the next year the Japanese began to comply, and in 1867 an internal revolution took place, of which the most conspicuous consequence was a rapid westernizing of Japanese life and institu tions. But if it looked as if the country had been “opened" by Westerners, actually Japan had exploded from within. - palmer 
-		- For over two centuries Japan had followed a program of self-imposed isolation. - palmer 
+		- For over two centuries Japan had followed a program of self-imposed isolation. No Japa nese was allowed to leave the islands or even to build a ship large enough to navigate the high seas. No foreigner, except for handfuls of Dutch and Chinese, was allowed to enter. Japan remained a sealed book to the West.  - palmer 
 	- opened up
 		-  In the summer of 1898, Kang Youwei, a brilliant Confucian scholar who admired Japan for its rapid adoption of Western institutions and industrialization, - ropp 
 	- took stuff and became powerful 
