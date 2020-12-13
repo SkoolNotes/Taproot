@@ -117,6 +117,7 @@ interconectivity inherently means a decrease in autonomy
 	- opened up
 	- took stuff and became powerful 
 - china resisted interconnevtivity
+	- here were Confucian officials in the late nineteenth century who called for “self-strengthening,” learning from the West, and who began to build modern weapons, steamships, railroads and telegraph lines. But the Qing Empire was a vast, poor, mostly agricultural and overpopulated territory with a small, weak gov ernment, and the modernization efforts were confined to tiny coastal areas that had little impact inland. - ropp
 - china got fricked 
 
 
