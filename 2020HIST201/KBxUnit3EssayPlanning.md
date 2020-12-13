@@ -109,9 +109,12 @@ interconectivity inherently means a decrease in autonomy
 
 - interconnecitivty ran rampant
 - britain embraced interconnectivity (embraced/made profit off of trade, had a strong navy) 
-- 
-
-
+- japan 
+	- started as closed off
+	- opened up
+	- took stuff and became powerful 
+- china resisted interconnevtivity
+- china got fricked 
 
 
 ### Outline 
