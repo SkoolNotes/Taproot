@@ -105,6 +105,15 @@ interconectivity inherently means a decrease in autonomy
 ## Planning 
 
 
+### Quoute bin 
+
+- interconnecitivty ran rampant
+- britain embraced interconnectivity (embraced/made profit off of trade, had a strong navy) 
+- 
+
+
+
+
 ### Outline 
 
 ###### title: freedom, or else. 
