@@ -121,7 +121,7 @@ interconectivity inherently means a decrease in autonomy
 
 - China resisted interconnectivity for fear of loss of autonomy and lost control
 	- china tried to resist free trade (one major way inteconncection manifests) 
-	- 
+	- crumbled 
 
 - conc: the power of connection is greater than any nation state 
 
