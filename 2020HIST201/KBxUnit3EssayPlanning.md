@@ -108,7 +108,7 @@ interconectivity inherently means a decrease in autonomy
 ### Quoute bin 
 
 - interconnecitivty ran rampant
-	- 
+	- Prussian suc- cess was due in large measure to the application of new technologies to logistics and warfare: the new breech-loading “needle gun” (which could be fired from the prone position) and the use of the railroad and the tele- graph to move and coordinate troops and supplies. 
 - britain embraced interconnectivity (embraced/made profit off of trade, had a strong navy) 
 - japan 
 	- started as closed off
