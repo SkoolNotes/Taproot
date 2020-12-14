@@ -184,6 +184,9 @@ The major deciding factor in a states change in power in the 19th century was it
 
 
 
+
+
+
 Britain heavily embraced interconnectivity, leveraging it for profit. Trade, one of Britain's main sources of income, is one of the main ways interconnectivity manifests. Britain heavily promoted trade, even going to the lengths of taking territory from other states and turning it into "important commercial and trading centers" (mason). They focused on developing a powerful navy, which became "the largest in the world" (kennedy). This navy effectively served as a tool for propagating interconnectivity, as seafaring was the primary means of transferring goods and ideas between states. They used this navy to enforce free trade and manage trade routes, further promoting interconnectivity and eventually leading to the "spectacular growth of an integrated global economy [...] and financial network centered [...] upon Great Britain" (kennedy). Of course, Britain benefited massively off of this newly created integrated financial network, which, along with it's goods, would spread ideas. Expanding and rising in power immensely, Britain truly was one of the driving forces behind this interconnectivity revolution. 
 
 
