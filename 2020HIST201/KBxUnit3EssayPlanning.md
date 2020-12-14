@@ -190,7 +190,7 @@ China, starting with isolation similar to Japan’s, resisted the interconnectiv
 
 
 
-Not only does interconnectivity allows for broader access to ideas and goods, but it allows for new ideas to be created that would otherwise be impossible. The interconnectivity revolution has only continued, 
+Not only does interconnectivity allows for broader access to ideas and goods, but it allows for new ideas to be created that would otherwise be impossible. The interconnectivity revolution has only continued, the world continuing to shrink day by day. In modern times with the invention of the internet and such, it is much easier to see the value of interconnedtedness,
 
 
 
