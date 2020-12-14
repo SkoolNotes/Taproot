@@ -190,7 +190,7 @@ China, starting with isolation similar to Japan’s, resisted the interconnectiv
 
 
 
-Not only does interconnectivity allows for broader access to ideas, but it allows for new ideas to be created that 
+Not only does interconnectivity allows for broader access to ideas and goods, but it allows for new ideas to be created that would otherwise be impossible. 
 
 
 
