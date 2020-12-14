@@ -190,7 +190,7 @@ China, starting with isolation similar to Japan’s, resisted the interconnectiv
 
 
 
-Not only does interconnectivity allows for broader access to ideas and goods, but it allows for new ideas to be created that would otherwise be impossible. The power of the interconnectivity revolution was greater than any state, and acceptance of this historical trend was required for success. The interconnectivity revolution has only continued, the world still shrinking day by day. In modern times — with the invention of the internet and such — it is much easier to see the value of interconnectivity, making refuting its importance almost futile.
+Not only does interconnectivity allows for broader access to ideas and goods, but it allows for new ideas to be created that would otherwise be impossible. The power of the interconnectivity revolution was greater than any state, and acceptance of this historical trend was required for success. The interconnectivity revolution has only continued, the world still shrinking day by day. In modern times — with the invention of the internet and such — it is much easier to see the value of interconnectivity, making refuting its importance almost futile. Sometimes we must sacrifice in the face of global trends 
 
 
 
