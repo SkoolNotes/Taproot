@@ -177,7 +177,7 @@ interconectivity inherently means a decrease in autonomy
 - conc: the power of connection is greater than any nation state 
 
 
-### Kinda wanna be more than friendsssss
+### Kinda wanna be more than friendsssss (unedited version) 
 
 
 The Industrial Revolution gave birth to a massively shrinking world. It brought the invention of railroads, steamboats, and the telegraph, which "rapidly became as conventional a presence in the nineteenth century as the cell phone is today" (Gelvin 80). These inventions allowed for the rapid travel of goods and information the likes of which had never been seen before. The Industrial Revolution led to a sort of co-revolution which continues to this day: the interconnectivity revolution. Interconnectivity, in this context, can be defined as the exchange of goods and ideas and the infrastructure facilitating this exchange. All of a sudden, the world was becoming massively interconnected, not only dramatically increasing the pool of ideas that any given state had access to, but exponentially increasing the ways these ideas could interact with one another. As a consequence, the 19th century was fraught with massive changes in power. The major factor that determined which side of the power shift a state would be on was its willingness to embrace interconnectivity.
