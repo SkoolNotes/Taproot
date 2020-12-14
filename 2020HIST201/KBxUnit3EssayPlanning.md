@@ -195,7 +195,7 @@ After centuries of isolation, Japan accepted the interconnectivity revolution an
 
 
 
-
+Similar to Japan
 
 
 
