@@ -181,7 +181,7 @@ interconectivity inherently means a decrease in autonomy
 
 
 
-
+The Industrial Revolution led to a massively shrinking world. 
 
 
 
