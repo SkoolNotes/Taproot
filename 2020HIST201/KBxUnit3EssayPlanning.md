@@ -195,8 +195,7 @@ After centuries of isolation, Japan accepted the interconnectivity revolution an
 
 
 
-Similar to Japan
-
+China, starting in a similar situation as Japan, resisted the interconnectivity revolution 
 
 
 
