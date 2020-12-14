@@ -190,6 +190,11 @@ China, starting with isolation similar to Japan’s, resisted the interconnectiv
 
 
 
+Not only does interconnectivity allows for broader access to ideas, but it allows for new ideas to be created that 
+
+
+
+
 
 interconnectivity is more important and evident in modern day 
 
