@@ -192,8 +192,6 @@ China, starting with isolation similar to Japan’s, resisted the interconnectiv
 
 
 
-
-
 Works Cited:
 
 Palmer, R R, Joel Colton, and Lloyd S. Kramer. *A History of the Modern World,* 2000
@@ -202,7 +200,7 @@ Ropp, Paul Stanley. *China in World History.* Oxford University Press, 2012.
 
 Mason, David. *A Concise History of Modern Europe: Liberty, Equality, Solidarity*. Plymouth, Rowman and Littlefield.
 
-Kennedy 
+Kennedy, Paul M. 1988. *The rise and fall of the great powers.* New York, NY: Random House.
 
 Gelvin, James L. 2011. *The modern Middle East : a history.* New York: : Oxford University Press.
 
