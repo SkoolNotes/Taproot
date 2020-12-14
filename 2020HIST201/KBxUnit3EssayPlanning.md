@@ -197,7 +197,7 @@ After centuries of isolation, Japan accepted the interconnectivity revolution an
 
 
 
-China, starting in a similar situation as Japan, resisted the interconnectivity revolution and suffered because of it. Initially, China resisted free trade. They saw trade itself as a sort of of charity, a privilege "granted to less-developed “barbarians” in exchange for their paying respects to the Son of Heaven and his court" (ropp). 
+China, starting in a similar situation as Japan, resisted the interconnectivity revolution and suffered because of it. Initially, China resisted free trade. They saw trade itself as a sort of of charity, a privilege "granted to less-developed “barbarians” in exchange for their paying respects to the Son of Heaven and his court" (ropp). They also heavily restricted trade, allowing it only in specific ports 
 
 
 
