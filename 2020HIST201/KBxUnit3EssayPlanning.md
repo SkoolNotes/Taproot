@@ -204,8 +204,7 @@ Mason, David. *A Concise History of Modern Europe: Liberty, Equality, Solidarity
 
 Kennedy 
 
-Gelvin 
-
+Gelvin, James L. 2011. *The modern Middle East : a history.* New York: : Oxford University Press.
 
 
 
