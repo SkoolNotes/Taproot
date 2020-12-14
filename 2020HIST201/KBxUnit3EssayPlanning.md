@@ -181,7 +181,7 @@ interconectivity inherently means a decrease in autonomy
 
 
 
-The Industrial Revolution led to a massively shrinking world. It brought with it the invention of railroads, steamboats, and the telegraph, which "rapidly became as conventional a presence in the nineteenth century as the cell phone is today" (gelvin). 
+The Industrial Revolution led to a massively shrinking world. It brought with it the invention of railroads, steamboats, and the telegraph, which "rapidly became as conventional a presence in the nineteenth century as the cell phone is today" (gelvin). These inventions allowed for the rapid travel of good and information the likes of which had never been seen before. 
 
 
 
