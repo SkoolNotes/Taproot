@@ -200,7 +200,7 @@ Palmer, R R, Joel Colton, and Lloyd S. Kramer. *A History of the Modern World,* 
 
 Ropp, Paul Stanley. *China in World History.* Oxford University Press, 2012.
 
-Mason, David. A Concise History of Modern Europe: Liberty, Equality, Solidarity. Plymouth, Rowman and Littlefield.
+Mason, David. *A Concise History of Modern Europe: Liberty, Equality, Solidarity*. Plymouth, Rowman and Littlefield.
 
 Kennedy 
 
