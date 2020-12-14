@@ -191,6 +191,13 @@ China, starting with isolation similar to Japan’s, resisted the interconnectiv
 
 
 
+interconnectivity is more important and evident in modern day 
+
+
+
+
+
+
 
 Works Cited:
 
