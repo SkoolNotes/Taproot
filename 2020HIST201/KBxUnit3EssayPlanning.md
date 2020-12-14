@@ -196,13 +196,15 @@ China, starting with isolation similar to Japan’s, resisted the interconnectiv
 
 Works Cited:
 
+Palmer, R R, Joel Colton, and Lloyd S. Kramer. *A History of the Modern World,* 2000
 
+Ropp, Paul Stanley. *China in World History.* Oxford University Press, 2012.
 
+Mason 
 
+Kennedy 
 
-
-
-
+Gelvin 
 
 
 
