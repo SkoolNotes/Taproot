@@ -197,7 +197,7 @@ After centuries of isolation, Japan accepted the interconnectivity revolution an
 
 
 
-China, starting in a similar situation as Japan, resisted the interconnectivity revolution and suffered because of it. Initially, China resisted free state
+China, starting in a similar situation as Japan, resisted the interconnectivity revolution and suffered because of it. Initially, China resisted free trade, 
 
 
 
