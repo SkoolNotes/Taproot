@@ -35,5 +35,7 @@ source: #index
 	* Huxley's Take: [[KBIsEconScience]]
 * Thoughts on [Science isnt broke](https://fivethirtyeight.com/features/science-isnt-broken/#part4)
 	* Huxley's Take: [[KBsciencenotbrokenotes]]
+* Self Eval's
+	* [[KBxIsosSE]]
 
 	
