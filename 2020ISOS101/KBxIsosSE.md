@@ -22,7 +22,7 @@ source:  #index
 	- I played the role of a person working equally with their friends. We all contributed, we all had fun, and we all learned. I would like to continue this in the future. 
 
 - How might you apply what you learned in ISOS this fall to being a scientist in your science classes or to using scientific information to make informed choices as a citizen?
-	- I am now a Postmodernist. There is no subjective truth. Nothing is real. 
+	- I am now a Postmodernist. There is no subjective truth. Nothing is real. Seriously speaking, I think that not regognizaing ones own assumptions or taking some truth for granted 
 
 
 
