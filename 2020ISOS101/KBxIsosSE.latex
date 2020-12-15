@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6160)}}    % original
-%\rhead{\textrmlf{Compiled }\#6160\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6160\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6161)}}    % original
+%\rhead{\textrmlf{Compiled }\#6161\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6161\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -236,7 +236,9 @@
     dangerous, and ISOS is a class that helps us avoid this danger. More
     specifically, perhaps the most interesting idea we have discussed is
     the idea of robustness, and how we can view ideas as a sort of
-    interconnected web; as the interco
+    interconnected web; as this web moves away from being linear and
+    becomes more interconnected, one idea in the web being proved false
+    has is much less destructive, and can be remedied much more quickly.
   \end{itemize}
 \end{itemize}
 
