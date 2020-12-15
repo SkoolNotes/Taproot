@@ -15,7 +15,7 @@ If students did not write a reflection and/or did not set a goal for their liste
 ```
 
 - What did you learn about writing this semester? How have you grown as a writer?
-	- Iv'e gained a lot of tacit knowledge about writing; I feel as if there is less of a barrier between my thoughts and the words on the (perhaps digital) paper. 
+	- I've gained a lot of tacit knowledge about writing; I feel as if there is less of a barrier between my thoughts and the words on the (perhaps digital) paper. 
 	
 - Describe your writing process and how it has evolved over the semester?
 	- For most work in English class, I generally start just by thinking for a while. I create quite extensive outlines, starting with fluid and undeveloped ideas; through research and more thinking, I move to an outline describing my idea flow. I gather a "Quote Bin" containing evidence, and begin writing. Throughout the course of the semester, the time spent writing has shrank relative to the time spent outlining. 
