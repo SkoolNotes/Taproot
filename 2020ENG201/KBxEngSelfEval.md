@@ -15,7 +15,7 @@ If students did not write a reflection and/or did not set a goal for their liste
 ```
 
 - What did you learn about writing this semester? How have you grown as a writer?
-	- 
+	- Iv'e gained a lot of tacit knowledge about writing
 - Describe your writing process and how it has evolved over the semester?
 - Describe the progress you’ve made in your ability to understand a text, to identify important moments, to annotate them, and to create good questions to bring to class?
 - What aspect of your performance in English class are you most proud about this semester (writing process, discussion skills, close reading, a specific assignment)?
