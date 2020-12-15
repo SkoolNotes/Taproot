@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6147)}}    % original
-%\rhead{\textrmlf{Compiled }\#6147\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6147\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6148)}}    % original
+%\rhead{\textrmlf{Compiled }\#6148\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6148\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -178,5 +178,26 @@
 \#ret
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\tightlist
+\item
+  We read difficult texts in this class. What techniques did you use for
+  getting the most out of readings and for formulating useful discussion
+  points?
+\item
+  Our class is dependent on students engaging in discussions. What kind
+  of role do you play in discussion, and what helps you be better at
+  that role? What goals do you have for yourself in next semester's
+  discussions?
+\item
+  What kind of role did you play in your group project, the Bad Science
+  presentation? What goals do you have for yourself in future group
+  projects?
+\item
+  How might you apply what you learned in ISOS this fall to being a
+  scientist in your science classes or to using scientific information
+  to make informed choices as a citizen?
+\end{itemize}
 
 \end{document}
