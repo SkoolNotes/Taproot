@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6165)}}    % original
-%\rhead{\textrmlf{Compiled }\#6165\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6165\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6166)}}    % original
+%\rhead{\textrmlf{Compiled }\#6166\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6166\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -185,14 +185,30 @@ Please take your listening log from mid-semester conferences and re-read your re
 If students did not write a reflection and/or did not set a goal for their listening log, they were asked to respond to the following questions: 
 \end{verbatim}
 
-What did you learn about writing this semester? How have you grown as a
-writer? Describe your writing process and how it has evolved over the
-semester? Describe the progress you've made in your ability to
-understand a text, to identify important moments, to annotate them, and
-to create good questions to bring to class? What aspect of your
-performance in English class are you most proud about this semester
-(writing process, discussion skills, close reading, a specific
-assignment)? What are your goals in English for next semester? Set at
-least two specific goals and describe how you will meet them.
+\begin{itemize}
+\tightlist
+\item
+  What did you learn about writing this semester? How have you grown as
+  a writer?
+
+  \begin{itemize}
+  \tightlist
+  \item
+  \end{itemize}
+\item
+  Describe your writing process and how it has evolved over the
+  semester?
+\item
+  Describe the progress you've made in your ability to understand a
+  text, to identify important moments, to annotate them, and to create
+  good questions to bring to class?
+\item
+  What aspect of your performance in English class are you most proud
+  about this semester (writing process, discussion skills, close
+  reading, a specific assignment)?
+\item
+  What are your goals in English for next semester? Set at least two
+  specific goals and describe how you will meet them.
+\end{itemize}
 
 \end{document}
