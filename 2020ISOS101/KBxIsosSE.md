@@ -19,9 +19,10 @@ source:  #index
 	- I would like to think I provide unique viewpoints to the discussion. Sometimes, unique viewpoints which reveal assumptions don't allow the class to progress through the material at the desired pace. Next semester, I hope to find a balance. 
 	
 - What kind of role did you play in your group project, the Bad Science presentation? What goals do you have for yourself in future group projects?
-	- I played the role of a person working equally with their friends. 
+	- I played the role of a person working equally with their friends. We all contributed, we all had fun, and we all learned. I would like to continue this in the future. 
 
 - How might you apply what you learned in ISOS this fall to being a scientist in your science classes or to using scientific information to make informed choices as a citizen?
+	- 
 
 
 
