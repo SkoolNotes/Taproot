@@ -13,7 +13,7 @@ source:  #index
 
 
 - We read difficult texts in this class. What techniques did you use for getting the most out of readings and for formulating useful discussion points?
-	- I approached the readings without assuming that what I was reading was 'thruthful.' This le
+	- I approached the readings without assuming that what I was reading was 'thruthful.' This led me to analyse the texts more deeply, and forced me to only accept ideas that I had thought through. 
 
 
 - Our class is dependent on students engaging in discussions. What kind of role do you play in discussion, and what helps you be better at that role? What goals do you have for yourself in next semester’s discussions?
