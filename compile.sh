@@ -34,5 +34,7 @@ for f in ${(@f)changes}; do
     echo "$(date) Converted $f from $formatname to ${f%.*}.{pdf, latex, html}"
 done
 
+cat recent_errors.txt
+
 make flush >> meta/log.txt
 

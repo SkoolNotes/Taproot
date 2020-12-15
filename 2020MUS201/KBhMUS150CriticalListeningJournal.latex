@@ -71,14 +71,22 @@
 }
 
 \usepackage{mathspec}
+%\setmainfont[
+%   ItalicFont     = HelveticaNeue-Italic,
+%   BoldFont       = HelveticaNeue-Bold,
+%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight[
+%   ItalicFont     = HelveticaNeue-LightItalic,
+%   BoldFont       = HelveticaNeue-UltraLight,
+%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
 \setmainfont[
-   ItalicFont     = HelveticaNeue-Italic,
-   BoldFont       = HelveticaNeue-Bold,
-   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+   ItalicFont     = Iosevka-Aile-Italic,
+   BoldFont       = Iosevka-Aile-Bold,
+   BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
 \newfontfamily\NHLight[
-   ItalicFont     = HelveticaNeue-LightItalic,
-   BoldFont       = HelveticaNeue-UltraLight,
-   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+   ItalicFont     = Iosevka-Aile-Light-Italic,
+   BoldFont       = Iosevka-Aile-Light,
+   BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -122,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5592)}}    % original
-%\rhead{\textrmlf{Compiled }\#5592\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5592\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6143)}}    % original
+%\rhead{\textrmlf{Compiled }\#6143\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6143\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -999,6 +1007,112 @@ vocals - Heavily filtered base - Syncth accenturated vocals
   Incorporation of traditional rock drumming with hi-tech/techno synth
 \item
   Destortion creates a sense of unbalance in the end
+\end{itemize}
+
+\hypertarget{section-15}{%
+\section{12082020}\label{section-15}}
+
+\textbf{Isn't It So Convenient}
+
+\begin{itemize}
+\tightlist
+\item
+  Strong and constant percussion in the background
+\item
+  Basic but effective counter-melody
+\end{itemize}
+
+\textbf{Pan de Floor}
+
+\begin{itemize}
+\tightlist
+\item
+  strong drum sequence ---marching band feeling?
+\item
+  House/dance EDM??? 2010s vibes
+\item
+  Whole song as edm/sequenced synth + house/dance EDM lead
+\item
+  Random samples as elements of precussion
+\item
+  Lazer sound effects for no reason =\textgreater{} what does it add?
+\end{itemize}
+
+\textbf{Rover}
+
+\begin{itemize}
+\tightlist
+\item
+  drums + bass + lead: simple
+\item
+  Male and female lead slightly disonent
+\item
+  Unique sound signature
+\end{itemize}
+
+\hypertarget{section-16}{%
+\section{12152020}\label{section-16}}
+
+\textbf{Dissonance}
+
+\begin{itemize}
+\tightlist
+\item
+  Disonant vocals (ha!)
+\item
+  Combining folk tonals with trap and electric musical effects
+\end{itemize}
+
+\textbf{Homebound/Energy}
+
+\begin{itemize}
+\tightlist
+\item
+  Actuall more disonent
+\item
+  Rap elements combined with traditional music elements
+\end{itemize}
+
+\textbf{If No, When?}
+
+\begin{itemize}
+\tightlist
+\item
+  Utilizing autotune/vocoder as a music element!
+\item
+  Very clean, systemic vocals
+\end{itemize}
+
+\textbf{Chess Bling}
+
+\begin{itemize}
+\tightlist
+\item
+  Combining synthesized elements with traditional folk vocals
+\item
+  Beautiful, textured lyrics
+\item
+  Creative uses of pauses
+\end{itemize}
+
+\textbf{Big Body Sheka}
+
+\begin{itemize}
+\tightlist
+\item
+  Indian music elements?
+\item
+  Choppy percussive musical elements
+\end{itemize}
+
+\textbf{Rosetta}
+
+\begin{itemize}
+\tightlist
+\item
+  ``whop!''
+\item
+  Wobbly elements adds unique texture to music
 \end{itemize}
 
 \end{document}

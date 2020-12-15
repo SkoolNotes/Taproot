@@ -449,3 +449,40 @@ source: KBhMUS150D1
 - drums + bass + lead: simple
 - Male and female lead slightly disonent
 - Unique sound signature
+
+# 12152020
+
+**Dissonance**
+
+- Disonant vocals (ha!)
+- Combining folk tonals with trap and electric musical effects
+
+**Homebound/Energy**
+
+- Actuall more disonent 
+- Rap elements combined with traditional music elements
+
+**If No, When?**
+
+- Utilizing autotune/vocoder as a music element!
+- Very clean, systemic vocals
+
+**Chess Bling**
+
+- Combining synthesized elements with traditional folk vocals
+- Beautiful, textured lyrics
+- Creative uses of pauses
+
+**Big Body Sheka**
+
+- Indian music elements?
+- Choppy percussive musical elements
+
+**Rosetta**
+
+- "whop!"
+- Wobbly elements adds unique texture to music
+
+
+
+
