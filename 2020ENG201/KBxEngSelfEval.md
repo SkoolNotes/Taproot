@@ -18,7 +18,7 @@ If students did not write a reflection and/or did not set a goal for their liste
 	- Iv'e gained a lot of tacit knowledge about writing; I feel as if there is less of a barrier between my thoughts and the words on the (perhaps digital) paper. 
 	
 - Describe your writing process and how it has evolved over the semester?
-	- 
+	- For most work in English class, I generally start just by thinking for a while. I create quite extensive outlines, starting with fluid and undeveloped ideas, and through research and more thin
 	
 - Describe the progress you’ve made in your ability to understand a text, to identify important moments, to annotate them, and to create good questions to bring to class?
 - What aspect of your performance in English class are you most proud about this semester (writing process, discussion skills, close reading, a specific assignment)?
