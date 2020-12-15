@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6162)}}    % original
-%\rhead{\textrmlf{Compiled }\#6162\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6162\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6163)}}    % original
+%\rhead{\textrmlf{Compiled }\#6163\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6163\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -239,7 +239,8 @@
     interconnected web; as this web moves away from being linear and
     becomes increasingly interconnected, one idea in the web being
     proved `false' is much less destructive and can be remedied much
-    more quickly.
+    more quickly. This is a way I will try to design my own systems in
+    the future.
   \end{itemize}
 \end{itemize}
 
