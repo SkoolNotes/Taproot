@@ -21,9 +21,11 @@ If students did not write a reflection and/or did not set a goal for their liste
 	- For most work in English class, I generally start just by thinking for a while. I create quite extensive outlines, starting with fluid and undeveloped ideas; through research and more thinking, I move to an outline describing my idea flow. I gather a "Quote Bin" containing evidence, and begin writing. Throughout the course of the semester, the time spent writing has shrank relative to the time spent outlining. 
 	
 - Describe the progress you’ve made in your ability to understand a text, to identify important moments, to annotate them, and to create good questions to bring to class?
-	- This semester, I've tried to move from close reading to derive possible meanings to close reading to understand the broader concepts of the text. I have tried to not close read simply for the sake of close reading, but rather to use close reading as a tool for understand the text at a broader level. This philosipy has helped me 
+	- This semester, I've tried to move from close reading to derive possible meanings to close reading to understand the broader concepts of the text. I have tried to not close read simply for the sake of close reading, but rather to use close reading as a tool for understand the text at a broader level. This philosophy has helped me do all listed above. 
 
 - What aspect of your performance in English class are you most proud about this semester (writing process, discussion skills, close reading, a specific assignment)?
+	- 
+
 - What are your goals in English for next semester? Set at least two specific goals and describe how you will meet them.
 
 
