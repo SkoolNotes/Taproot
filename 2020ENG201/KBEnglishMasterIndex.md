@@ -59,6 +59,9 @@ source: #index
 
 * Huxley Pastiche Planning [[KBxPastichePlanning]]
 
+# Self Evals
+
+* Huxe's [[KBxEngSelfEval]]
 
 ## Annotated Docs
 | | |

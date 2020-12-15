@@ -71,14 +71,22 @@
 }
 
 \usepackage{mathspec}
+%\setmainfont[
+%   ItalicFont     = HelveticaNeue-Italic,
+%   BoldFont       = HelveticaNeue-Bold,
+%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight[
+%   ItalicFont     = HelveticaNeue-LightItalic,
+%   BoldFont       = HelveticaNeue-UltraLight,
+%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
 \setmainfont[
-   ItalicFont     = HelveticaNeue-Italic,
-   BoldFont       = HelveticaNeue-Bold,
-   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+   ItalicFont     = Iosevka-Aile-Italic,
+   BoldFont       = Iosevka-Aile-Bold,
+   BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
 \newfontfamily\NHLight[
-   ItalicFont     = HelveticaNeue-LightItalic,
-   BoldFont       = HelveticaNeue-UltraLight,
-   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+   ItalicFont     = Iosevka-Aile-Light-Italic,
+   BoldFont       = Iosevka-Aile-Light,
+   BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -122,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5052)}}    % original
-%\rhead{\textrmlf{Compiled }\#5052\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5052\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6164)}}    % original
+%\rhead{\textrmlf{Compiled }\#6164\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6164\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu, Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -314,25 +322,37 @@ Apart}}{Things Fall Apart}}\label{things-fall-apart}}
   Huxley Pastiche Planning {[}{[}KBxPastichePlanning{]}{]}
 \end{itemize}
 
+\hypertarget{self-evals}{%
+\section{Self Evals}\label{self-evals}}
+
+\begin{itemize}
+\tightlist
+\item
+  Huxe's {[}{[}KBxEngSelfEval{]}{]}
+\end{itemize}
+
 \hypertarget{annotated-docs}{%
 \subsection{Annotated Docs}\label{annotated-docs}}
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
 \endhead
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 Notes on \texttt{The\ I\ Is\ Never\ Alone}\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} &
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 {[}{[}KB2NotesonTheIIsNeverAlone{]}{]}\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 \emph{The I Is Never Alone} + imperialism notes\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} &
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 {[}{[}KBe2020eng201floImperalismNotes{]}{]}\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 \emph{The Bird-Dreaming Baobab} pass 0\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} &
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 {[}{[}KBe2020eng201floBirdDreamingBaobab0.pdf{]}{]}\strut
 \end{minipage}\tabularnewline
 \bottomrule
