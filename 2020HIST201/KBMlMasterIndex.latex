@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6143)}}    % original
-%\rhead{\textrmlf{Compiled }\#6143\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6143\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6144)}}    % original
+%\rhead{\textrmlf{Compiled }\#6144\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6144\textrmlf{ on} \today}       % new date
 \lfoot{Huxleu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -187,6 +187,8 @@ Incomplete, due to file deletion.
   Data Processing: {[}{[}KBDataProcessingRett{]}{]}
 \item
   Self Eval: {[}{[}KBMlSelfEval{]}{]}
+\item
+  Final Exploration: {[}{[}KBWeightAgnosticNN{]}{]}
 \end{itemize}
 
 \end{document}
