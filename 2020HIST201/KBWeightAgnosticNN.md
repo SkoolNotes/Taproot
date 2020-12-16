@@ -54,9 +54,9 @@ Start with a small amount of network architectures then use NEAT on them. With t
 
 Also optimizes for less complexity in the network. 
 
-Is general, but not as good at the individual scenarios. 
+Is general, but not as good at the individual scenarios as normal networks. 
 
-==Proposed: WANN as starting point 
+==Proposed: WANN as starting point, then run normal training on the network==
 ## So? 
 
 WANNs make models more interpretable, as their solutions or logic is encoded directly into their structure. 

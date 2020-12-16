@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6226)}}    % original
-%\rhead{\textrmlf{Compiled }\#6226\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6226\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6227)}}    % original
+%\rhead{\textrmlf{Compiled }\#6227\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6227\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -241,9 +241,11 @@ to optimize models across a wide range of input values.
 
 Also optimizes for less complexity in the network.
 
-Is general, but not as good at the individual scenarios.
+Is general, but not as good at the individual scenarios as normal
+networks.
 
-==Proposed: WANN as starting point \#\# So?
+==Proposed: WANN as starting point, then run normal training on the
+network== \#\# So?
 
 WANNs make models more interpretable, as their solutions or logic is
 encoded directly into their structure.
