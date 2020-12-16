@@ -26,7 +26,7 @@ Some of the early listening quizzes were quite challenging for me, as the audio 
 
 3) Goals
 
-My goals were to try to become more 'fluent,' in the sense that the barrier between meaning and sentence in Japanese is reduced. 
+My goals were to try to become more 'fluent,' in the sense that the barrier between meaning and sentence in Japanese is reduced. I definitely do feel that I have reduced this barrier quite a bit.
 
 What were your goals for this semester?  Did you reach them?  What are your goals for next semester?  What topics or skills do you want to focus on next semester?  What are your long-term goals in studying Japanese at Nueva?  How can I help you reach those goals?
 
