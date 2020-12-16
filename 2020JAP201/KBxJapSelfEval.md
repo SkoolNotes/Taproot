@@ -21,7 +21,7 @@ One highlight was the oral exam — not the exam itself, but the process of stud
 
 2) Challenges
 
-Some of the early listening quizzes were quite challenging for me, as the audio was not nearly as clear as in person.  
+Some of the early listening quizzes were quite challenging for me, as the audio was not nearly as clear as in person. I was also just getting used to the whole quarantine schooling situation, which is much different than last year.
 
 
 3) Goals
