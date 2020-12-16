@@ -31,7 +31,7 @@ My goals were to try to become more 'fluent,' in the sense that the barrier betw
 
 4) Do you have any other questions, comments, or requests for me?
 
-Despite the constant barrage of ap
+Despite the constant barrage of apocalypses (apocali?), this has been a wonderful 
 
 
 
