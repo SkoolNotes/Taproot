@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6225)}}    % original
-%\rhead{\textrmlf{Compiled }\#6225\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6225\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6226)}}    % original
+%\rhead{\textrmlf{Compiled }\#6226\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6226\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -241,8 +241,9 @@ to optimize models across a wide range of input values.
 
 Also optimizes for less complexity in the network.
 
-\hypertarget{so}{%
-\subsection{So?}\label{so}}
+Is general, but not as good at the individual scenarios.
+
+==Proposed: WANN as starting point \#\# So?
 
 WANNs make models more interpretable, as their solutions or logic is
 encoded directly into their structure.
