@@ -35,6 +35,8 @@ source: #index
 - [[KBhPHYS201Silicon]]
 - Base Conversion [[KBhPHYS201DigitalLogic]]
 
+# Magnetism
+- [[KBhPHYS201MagneticSolids]]
 
 # References
 * [[KBPHYS201ZachsPhysicsNotesForTest]] Physics quiz Notes
