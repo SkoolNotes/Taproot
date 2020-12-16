@@ -22,7 +22,7 @@ As we reach the end of the semester, re-read your listening log from mid-semeste
 - I think that I understood the concepts well, and never resorted to a formulaic approach. 
 - Without really ever being taught algebra, I'm glad to know that it is not really holding me back. 
 - One goal for next semester is to continue to try and understand math conceptually. 
-- While virtually always contributing in my breakout room (just like my other breakout room members), I did not always contribute to discusstion 
+- While virtually always contributing in my breakout room (just like my other breakout room members), I did not always contribute to discussion in the main room. It's hard to do so in a Zoom environment, and I seek to 
 
 
 

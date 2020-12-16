@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6282)}}    % original
-%\rhead{\textrmlf{Compiled }\#6282\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6282\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6283)}}    % original
+%\rhead{\textrmlf{Compiled }\#6283\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6283\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -207,7 +207,8 @@ As we reach the end of the semester, re-read your listening log from mid-semeste
 \item
   While virtually always contributing in my breakout room (just like my
   other breakout room members), I did not always contribute to
-  discusstion
+  discussion in the main room. It's hard to do so in a Zoom environment,
+  and I seek to
 \end{itemize}
 
 \end{document}
