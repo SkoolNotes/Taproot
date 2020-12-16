@@ -42,7 +42,7 @@ Instead of changing connection weights, they
 - change activation functions. 
 
 
-
+> Networks in which the structure enables the task to be completed, not the weights, can be developed.
 
 
 
