@@ -28,7 +28,7 @@ WANNs can perform tasks regardless of the weights in its connections.
 *NeuroEvolution of Augmented Topologies*
 
 
-Genetic algorythym 
+Genetic algorithm  
 
 
 
