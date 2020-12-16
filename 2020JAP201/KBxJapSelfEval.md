@@ -17,7 +17,7 @@ Please reflect on your learning this past semester in the following areas.  Writ
 1) Highlights
 What were some of the highlights for you in Japanese this semester?  What work are you most proud of?  What area(s) did you make the most progress in this semester?  How have you grown as a learner of Japanese and Japanese culture?
 
-
+One highlight was certainly the 
 
 
 2) Challenges

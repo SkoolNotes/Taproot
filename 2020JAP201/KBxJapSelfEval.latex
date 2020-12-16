@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6236)}}    % original
-%\rhead{\textrmlf{Compiled }\#6236\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6236\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6237)}}    % original
+%\rhead{\textrmlf{Compiled }\#6237\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6237\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -185,11 +185,19 @@ Please reflect on your learning this past semester in the following areas.  Writ
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi})}
+\tightlist
 \item
   Highlights What were some of the highlights for you in Japanese this
   semester? What work are you most proud of? What area(s) did you make
   the most progress in this semester? How have you grown as a learner of
   Japanese and Japanese culture?
+\end{enumerate}
+
+One highlight was certainly the
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\setcounter{enumi}{1}
 \item
   Challenges What area(s) challenged you the most this semester? How did
   you deal with these challenges? What can you do to improve in these
