@@ -52,7 +52,7 @@ WANNs make models more interpretable, as their solutions or logic is encoded dir
 
 More general, and deals better with varying inputs. 
 
-
+Also allows us to encode 'intellegence' from the creation of of the network 
 
 
 
