@@ -11,3 +11,4 @@ source: #index
 
 [[00-Topic-KB202008241103]] Day one
 [[KBNezumiPractice]]
+[[KBxJapSelfEval]]
