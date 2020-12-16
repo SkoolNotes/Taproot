@@ -24,7 +24,9 @@ Animals can perform tasks when they are born without prior experience to the wor
 WANNs can perform tasks regardless of the weights in its connections. 
 
 
+## NEAT 
 
+Neu
 
 
 

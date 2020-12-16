@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6203)}}    % original
-%\rhead{\textrmlf{Compiled }\#6203\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6203\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6204)}}    % original
+%\rhead{\textrmlf{Compiled }\#6204\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6204\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -196,5 +196,10 @@ the world. If the brain is pre-wired, then learning new from experience
 would cause a loss of the old skill. What gives?
 
 WANNs can perform tasks regardless of the weights in its connections.
+
+\hypertarget{neat}{%
+\subsection{NEAT}\label{neat}}
+
+Neu
 
 \end{document}
