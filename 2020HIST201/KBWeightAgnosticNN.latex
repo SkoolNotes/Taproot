@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6196)}}    % original
-%\rhead{\textrmlf{Compiled }\#6196\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6196\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6197)}}    % original
+%\rhead{\textrmlf{Compiled }\#6197\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6197\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -184,5 +184,8 @@
 Networks}\label{weight-agnostic-neural-networks}}
 
 \emph{Or WANNN, for short.}
+
+Animals can perform tasks when they are born without prior experience to
+the world. What gives?
 
 \end{document}
