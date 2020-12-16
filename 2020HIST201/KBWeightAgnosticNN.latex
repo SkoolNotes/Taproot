@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6202)}}    % original
-%\rhead{\textrmlf{Compiled }\#6202\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6202\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6203)}}    % original
+%\rhead{\textrmlf{Compiled }\#6203\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6203\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -195,6 +195,6 @@ Animals can perform tasks when they are born without prior experience to
 the world. If the brain is pre-wired, then learning new from experience
 would cause a loss of the old skill. What gives?
 
-WANNs can perform tasks
+WANNs can perform tasks regardless of the weights in its connections.
 
 \end{document}
