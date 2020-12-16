@@ -28,7 +28,7 @@ If students did not write a reflection and/or did not set a goal for their liste
 
 - What are your goals in English for next semester? Set at least two specific goals and describe how you will meet them.
 	- I've been getting a lot of value out of group projects, just having people to bounce ideas off of and learn from. This type of interaction is much more limited nowadays; next semester, I would like to engage in more of them. 
-	- For writing pieces, I often entirely change what I am writing about multiple times because I'm not happy with the ideas in them. I end up scrapping a lot of work and a lot of time. 
+	- For writing pieces, I often entirely change what I am writing about multiple times because I'm not happy with the ideas in them. I end up scrapping a lot of work and a lot of time. Next semester, I would like to reduce this work and time lost. 
 
 
 
