@@ -48,9 +48,11 @@ Instead of changing connection weights, they
 > Networks in which the structure enables the task to be completed, not the weights, can be developed.
 
 
-## Finding WANNs
+### Finding WANNs
 
 Start with a small amount of network architectures then use NEAT on them. With this system of growth and training, easier and more efficient to optimize models across a wide range of input values. 
+
+Also optimizes for less complexity in the network. 
 
 
 ## So? 

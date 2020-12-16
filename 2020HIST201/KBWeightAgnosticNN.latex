@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6224)}}    % original
-%\rhead{\textrmlf{Compiled }\#6224\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6224\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6225)}}    % original
+%\rhead{\textrmlf{Compiled }\#6225\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6225\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -233,11 +233,13 @@ the weights, can be developed.
 \end{quote}
 
 \hypertarget{finding-wanns}{%
-\subsection{Finding WANNs}\label{finding-wanns}}
+\subsubsection{Finding WANNs}\label{finding-wanns}}
 
 Start with a small amount of network architectures then use NEAT on
 them. With this system of growth and training, easier and more efficient
 to optimize models across a wide range of input values.
+
+Also optimizes for less complexity in the network.
 
 \hypertarget{so}{%
 \subsection{So?}\label{so}}
