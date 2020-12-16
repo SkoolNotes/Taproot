@@ -48,9 +48,9 @@ Instead of changing connection weights, they
 
 ## So? 
 
-WANNs make models interpretable, as their solutions or logic is 
+WANNs make models more interpretable, as their solutions or logic is encoded directly into their structure. 
 
-
+More general, and deals better with varrieing inputs. 
 
 
 
