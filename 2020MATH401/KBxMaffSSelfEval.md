@@ -19,7 +19,8 @@ As we reach the end of the semester, re-read your listening log from mid-semeste
 (2) specific goals in regard to math knowledge,  skills and practices, and class participation. 
 
 
-
+- I think that I understood the concepts well, and never resorted to a formulaic approach. 
+- 
 
 
 

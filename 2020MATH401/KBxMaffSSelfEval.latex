@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6276)}}    % original
-%\rhead{\textrmlf{Compiled }\#6276\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6276\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6277)}}    % original
+%\rhead{\textrmlf{Compiled }\#6277\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6277\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -192,5 +192,13 @@ As we reach the end of the semester, re-read your listening log from mid-semeste
   specific goals in regard to math knowledge, skills and practices, and
   class participation.
 \end{enumerate}
+
+\begin{itemize}
+\tightlist
+\item
+  I think that I understood the concepts well, and never resorted to a
+  formulaic approach.
+\item
+\end{itemize}
 
 \end{document}
