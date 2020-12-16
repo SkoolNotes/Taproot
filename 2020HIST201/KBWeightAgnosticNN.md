@@ -50,7 +50,7 @@ Instead of changing connection weights, they
 
 ## Finding WANNs
 
-Start with a small amount of network architectures then use NEAT on them
+Start with a small amount of network architectures then use NEAT on them. 
 
 
 ## So? 
