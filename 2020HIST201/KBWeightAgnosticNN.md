@@ -13,7 +13,7 @@ source:  #index
 # Weight Agnostic Neural Networks
 *Or WANNN, for short.*
 
-Note's on [this article](https://towardsdatascience.com/weight-agnostic-neural-networks-fce8120ee829), and also [this article](https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html).
+My personal note's on [this article](https://towardsdatascience.com/weight-agnostic-neural-networks-fce8120ee829), and also [this article](https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html).
 
 ---
 
@@ -74,7 +74,7 @@ More general, and deals better with varying inputs.
 
 Also allows us to encode 'intellegence' from the creation of of the network 
 
-
+Can be used to find 'building blocks,' sort of like automating the finding of revolutionary structures like CNNs.
 
 
 
