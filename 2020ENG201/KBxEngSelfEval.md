@@ -24,7 +24,7 @@ If students did not write a reflection and/or did not set a goal for their liste
 	- This semester, I've tried to move from close reading to derive possible meanings to close reading to understand the broader concepts of the text. I have tried to not close read simply for the sake of close reading, but rather to use close reading as a tool for understand the text at a broader level. This philosophy has helped me do all listed above. 
 
 - What aspect of your performance in English class are you most proud about this semester (writing process, discussion skills, close reading, a specific assignment)?
-	- 
+	- One of the assignments I am proudest of is 
 
 - What are your goals in English for next semester? Set at least two specific goals and describe how you will meet them.
 
