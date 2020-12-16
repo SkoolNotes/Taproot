@@ -22,3 +22,8 @@ Everyone has calculus!
 - [[eRefLHopitalRule]]
 
 ---
+
+# Self Evals 
+
+- Huxley [[KBxMaffSSelfEval]]
+
