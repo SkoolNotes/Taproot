@@ -27,7 +27,7 @@ If students did not write a reflection and/or did not set a goal for their liste
 	- When in quarantine this long, it's hard not to just let the days slip by without really experiencing or engaging in them. While it sounds mundane, I'm proud of being mentally present to every English class, and never just "sitting through" them. 
 
 - What are your goals in English for next semester? Set at least two specific goals and describe how you will meet them.
-	- 
+	- I've been getting a lot of value out of group projects, just having people to bounce ideas off of and learn from. This type of interaction is much more limited nowadays, so 
 
 
 
