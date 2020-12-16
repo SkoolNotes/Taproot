@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6275)}}    % original
-%\rhead{\textrmlf{Compiled }\#6275\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6275\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6276)}}    % original
+%\rhead{\textrmlf{Compiled }\#6276\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6276\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,5 +182,15 @@
 \begin{verbatim}
 As we reach the end of the semester, re-read your listening log from mid-semester conferences and review your notes and reflections. Keeping in mind all that you have learned and accomplished since midterms, write four or five bullet points describing (1) example(s) of your success or growth and (2) specific goals in regard to math knowledge,  skills and practices, and class participation. 
 \end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\tightlist
+\item
+  example(s) of your success or growth and
+\item
+  specific goals in regard to math knowledge, skills and practices, and
+  class participation.
+\end{enumerate}
 
 \end{document}
