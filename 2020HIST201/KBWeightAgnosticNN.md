@@ -24,6 +24,8 @@ Animals can perform tasks when they are born without prior experience to the wor
 WANNs can perform tasks regardless of the weights in its connections by operating off of a pre-made structure. 
 
 
+
+
 ## NEAT 
 *NeuroEvolution of Augmented Topologies*
 
