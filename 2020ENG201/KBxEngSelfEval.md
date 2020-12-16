@@ -25,7 +25,7 @@ If students did not write a reflection and/or did not set a goal for their liste
 
 - What aspect of your performance in English class are you most proud about this semester (writing process, discussion skills, close reading, a specific assignment)?
 	- One of the assignments I am proudest of is the Achebe/Conrad Project. 
-	- 
+	- When in quarantine this long, it's hard to not just let the days slip by withought really experiencing 
 
 - What are your goals in English for next semester? Set at least two specific goals and describe how you will meet them.
 
