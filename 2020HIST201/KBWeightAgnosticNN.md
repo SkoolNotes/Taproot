@@ -21,7 +21,7 @@ Note's on [this article](https://towardsdatascience.com/weight-agnostic-neural-n
 Animals can perform tasks when they are born without prior experience to the world. If the brain is pre-wired, then learning new from experience would cause a loss of the old skill. What gives? 
 
 
-WANNs can perform tasks regardless of the weights in its connections. 
+WANNs can perform tasks regardless of the weights in its connections by operating off of a pre-made structure. 
 
 
 ## NEAT 
