@@ -21,7 +21,7 @@ One highlight was the oral exam — not the exam itself, but the process of stud
 
 2) Challenges
 
-
+Some of the early listening quizzes were quite challenging 
 
 
 3) Goals
