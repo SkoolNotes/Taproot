@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6220)}}    % original
-%\rhead{\textrmlf{Compiled }\#6220\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6220\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6221)}}    % original
+%\rhead{\textrmlf{Compiled }\#6221\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6221\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -199,6 +199,8 @@ would cause a loss of the old skill. What gives?
 
 WANNs can perform tasks regardless of the weights in its connections by
 operating off of a pre-made structure.
+
+Also, finding structures with inductive bias is hard and slow!
 
 \hypertarget{neat}{%
 \subsection{NEAT}\label{neat}}

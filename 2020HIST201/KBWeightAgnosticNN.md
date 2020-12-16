@@ -24,6 +24,7 @@ Animals can perform tasks when they are born without prior experience to the wor
 WANNs can perform tasks regardless of the weights in its connections by operating off of a pre-made structure. 
 
 
+Also, finding structures with inductive bias is hard and slow!
 
 
 ## NEAT 
