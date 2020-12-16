@@ -35,8 +35,9 @@ Genetic algorithm in which mutations done by changing the **structure** of the n
 
 Can generalize the network to work with a range of weight values? 
 
+Instead of changing connection weights, they 
 
-
+- 
 
 
 
