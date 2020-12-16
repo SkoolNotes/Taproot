@@ -25,6 +25,9 @@ Some of the early listening quizzes were quite challenging for me, as the audio 
 
 
 3) Goals
+
+Japanese 
+
 What were your goals for this semester?  Did you reach them?  What are your goals for next semester?  What topics or skills do you want to focus on next semester?  What are your long-term goals in studying Japanese at Nueva?  How can I help you reach those goals?
 
 4) Do you have any other questions, comments, or requests for me?
