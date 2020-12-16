@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6231)}}    % original
-%\rhead{\textrmlf{Compiled }\#6231\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6231\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6232)}}    % original
+%\rhead{\textrmlf{Compiled }\#6232\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6232\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -207,7 +207,7 @@ Also, finding structures with inductive bias is hard and slow!
 
 \emph{NeuroEvolution of Augmented Topologies}
 
-Genetic algorithm in which mutations done by changing the
+Genetic algorithm in which mutations are done by changing the
 \textbf{structure} of the network.
 
 \hypertarget{back-to-wann}{%

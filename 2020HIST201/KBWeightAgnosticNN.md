@@ -31,7 +31,7 @@ Also, finding structures with inductive bias is hard and slow!
 *NeuroEvolution of Augmented Topologies*
 
 
-Genetic algorithm in which mutations done by changing the **structure** of the network.
+Genetic algorithm in which mutations are done by changing the **structure** of the network.
 
 
 ## Back to WANN 
