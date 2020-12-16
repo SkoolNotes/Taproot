@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6199)}}    % original
-%\rhead{\textrmlf{Compiled }\#6199\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6199\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6200)}}    % original
+%\rhead{\textrmlf{Compiled }\#6200\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6200\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -184,6 +184,12 @@
 Networks}\label{weight-agnostic-neural-networks}}
 
 \emph{Or WANNN, for short.}
+
+\begin{quote}
+Note's on
+\href{https://towardsdatascience.com/weight-agnostic-neural-networks-fce8120ee829}{this
+article}
+\end{quote}
 
 Animals can perform tasks when they are born without prior experience to
 the world. If the brain is pre-wired, then learning new from experience
