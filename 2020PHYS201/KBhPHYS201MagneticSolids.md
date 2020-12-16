@@ -18,4 +18,7 @@ Paramagnetic Fields
 - When a magnetic field is applied, the electrons align with the direction of the magnetic field.
 - Upon removal of the magnetic field, the electrons get randomly spun again
 
+Ferromagnetic Fields
 
+- Unpaired electrons already partially align to each other
+-  
