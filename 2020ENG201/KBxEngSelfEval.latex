@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6185)}}    % original
-%\rhead{\textrmlf{Compiled }\#6185\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6185\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6186)}}    % original
+%\rhead{\textrmlf{Compiled }\#6186\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6186\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -236,9 +236,6 @@ If students did not write a reflection and/or did not set a goal for their liste
   \begin{itemize}
   \tightlist
   \item
-    One of the assignments I am proudest of is the Achebe/Conrad
-    Project.
-  \item
     When in quarantine this long, it's hard not to just let the days
     slip by without really experiencing or engaging in them. While it
     sounds mundane, I'm proud of being mentally present to every English
@@ -247,6 +244,11 @@ If students did not write a reflection and/or did not set a goal for their liste
 \item
   What are your goals in English for next semester? Set at least two
   specific goals and describe how you will meet them.
+
+  \begin{itemize}
+  \tightlist
+  \item
+  \end{itemize}
 \end{itemize}
 
 \end{document}
