@@ -46,7 +46,9 @@ Instead of changing connection weights, they
 
 
 
+## So? 
 
+WANNs make models interpretable, as their solutions or logic is 
 
 
 
