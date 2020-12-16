@@ -15,3 +15,4 @@ Paramagnetic Fields
 
 - Each atoms have "unpaired electrons" — electrons are oriented at a random spin
 - When a magnetic field is applied, the electrons align with the direction of the magnetic field.
+- Upon removal of the magnetic field, the electrons get
