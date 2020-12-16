@@ -25,11 +25,10 @@ WANNs can perform tasks regardless of the weights in its connections.
 
 
 ## NEAT 
-
-Neu
-
+*NeuroEvolution of Augmented Topologies*
 
 
+Genetic algorythym 
 
 
 
