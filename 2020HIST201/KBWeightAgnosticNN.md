@@ -28,7 +28,7 @@ WANNs can perform tasks regardless of the weights in its connections.
 *NeuroEvolution of Augmented Topologies*
 
 
-Genetic algorithm  
+Genetic algorithm in which mutations done by changing the **structure** of the network.
 
 
 
