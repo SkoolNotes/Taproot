@@ -60,6 +60,8 @@ Is general, but not as good at the individual scenarios as normal networks.
 
 Analogous to how animals learn.
 
+Can also copy WANN network, and individually train, then use them in collections for different input values? 
+
 ## So? 
 
 WANNs make models more interpretable, as their solutions or logic is encoded directly into their structure. 
