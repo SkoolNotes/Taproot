@@ -57,6 +57,9 @@ Also optimizes for less complexity in the network.
 Is general, but not as good at the individual scenarios as normal networks. 
 
 ==Proposed: WANN as starting point, then run normal training on the network==
+
+Analogous to how animals learn.
+
 ## So? 
 
 WANNs make models more interpretable, as their solutions or logic is encoded directly into their structure. 
