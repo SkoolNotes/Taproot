@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6217)}}    % original
-%\rhead{\textrmlf{Compiled }\#6217\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6217\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6218)}}    % original
+%\rhead{\textrmlf{Compiled }\#6218\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6218\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -187,7 +187,9 @@ Networks}\label{weight-agnostic-neural-networks}}
 
 Note's on
 \href{https://towardsdatascience.com/weight-agnostic-neural-networks-fce8120ee829}{this
-article}
+article}, and also
+\href{https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html}{this
+article}.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
@@ -235,6 +237,7 @@ encoded directly into their structure.
 
 More general, and deals better with varying inputs.
 
-Also allows us to encode `intellegence' from the creation of
+Also allows us to encode `intellegence' from the creation of of the
+network
 
 \end{document}

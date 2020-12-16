@@ -13,7 +13,7 @@ source:  #index
 # Weight Agnostic Neural Networks
 *Or WANNN, for short.*
 
-Note's on [this article](https://towardsdatascience.com/weight-agnostic-neural-networks-fce8120ee829)
+Note's on [this article](https://towardsdatascience.com/weight-agnostic-neural-networks-fce8120ee829), and also [this article](https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html).
 
 ---
 
