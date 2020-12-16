@@ -31,6 +31,10 @@ WANNs can perform tasks regardless of the weights in its connections.
 Genetic algorithm in which mutations done by changing the **structure** of the network.
 
 
+## Back to WANN 
+
+Can generalize the network to work with a range of weight values? 
+
 
 
 
