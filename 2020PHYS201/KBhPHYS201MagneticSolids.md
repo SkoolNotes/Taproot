@@ -9,7 +9,7 @@ course: PHYS201
 Diamagnetic Fields
 
 - Contents induced that travels in the opposite direction of the material
-- These "magnets" will repel permanent magnets
+- These "magnets" will repel permanent magnets when there is a meaningful magnetic field is applied
 - Every material intrinsically has a diamagnetic property
 
 Paramagnetic Fields
