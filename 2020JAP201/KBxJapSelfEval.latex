@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6235)}}    % original
-%\rhead{\textrmlf{Compiled }\#6235\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6235\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6236)}}    % original
+%\rhead{\textrmlf{Compiled }\#6236\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6236\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -185,43 +185,22 @@ Please reflect on your learning this past semester in the following areas.  Writ
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi})}
-\tightlist
 \item
-  Highlights
-\end{enumerate}
-
-What were some of the highlights for you in Japanese this semester? What
-work are you most proud of? What area(s) did you make the most progress
-in this semester? How have you grown as a learner of Japanese and
-Japanese culture?
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi})}
-\setcounter{enumi}{1}
-\tightlist
+  Highlights What were some of the highlights for you in Japanese this
+  semester? What work are you most proud of? What area(s) did you make
+  the most progress in this semester? How have you grown as a learner of
+  Japanese and Japanese culture?
 \item
-  Challenges
-\end{enumerate}
-
-What area(s) challenged you the most this semester? How did you deal
-with these challenges? What can you do to improve in these areas next
-semester? What can I do to help you improve?
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi})}
-\setcounter{enumi}{2}
-\tightlist
+  Challenges What area(s) challenged you the most this semester? How did
+  you deal with these challenges? What can you do to improve in these
+  areas next semester? What can I do to help you improve?
 \item
-  Goals
+  Goals What were your goals for this semester? Did you reach them? What
+  are your goals for next semester? What topics or skills do you want to
+  focus on next semester? What are your long-term goals in studying
+  Japanese at Nueva? How can I help you reach those goals?
+\item
+  Do you have any other questions, comments, or requests for me?
 \end{enumerate}
-
-What were your goals for this semester? Did you reach them? What are
-your goals for next semester? What topics or skills do you want to focus
-on next semester? What are your long-term goals in studying Japanese at
-Nueva? How can I help you reach those goals?
-
-Do you have any other questions, comments, or requests for me?
-
-皆さん、おつかれさまでした。いい冬休みとよいお年を！また来学期、会いましょう！
 
 \end{document}
