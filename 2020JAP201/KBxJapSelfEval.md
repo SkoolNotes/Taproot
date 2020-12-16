@@ -16,7 +16,7 @@ Please reflect on your learning this past semester in the following areas.  Writ
 
 1) Highlights
 
-One highlight was the oral exam — not the exam itself, but the process of studying for the exam. While incredibly stressful and a massive amount of work, it felt good to finally be able to put everything we have learned this semester to use 
+One highlight was the oral exam — not the exam itself, but the process of studying for the exam. While incredibly stressful and a massive amount of work, it felt good to finally be able to put everything we have learned this semester to use. 
 
 
 2) Challenges
