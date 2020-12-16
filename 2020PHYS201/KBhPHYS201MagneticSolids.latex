@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6259)}}    % original
-%\rhead{\textrmlf{Compiled }\#6259\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6259\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6260)}}    % original
+%\rhead{\textrmlf{Compiled }\#6260\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6260\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -187,6 +187,18 @@ Diamagnetic Fields
   material
 \item
   These ``magnets'' will repel permanent magnets
+\end{itemize}
+
+Paramagnetic Fields
+
+\begin{itemize}
+\tightlist
+\item
+  Each atoms have ``unpaired electrons'' --- electrons are oriented at a
+  random spin
+\item
+  When a magnetic field is applied, the electrons align with the
+  direction of the magnetic field.
 \end{itemize}
 
 \end{document}

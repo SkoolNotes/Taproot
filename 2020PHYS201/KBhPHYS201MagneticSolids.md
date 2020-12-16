@@ -9,4 +9,9 @@ course: PHYS201
 Diamagnetic Fields
 
 - Contents induced that travels in the opposite direction of the material
-- These "magnets" will repel permanent magnets 
+- These "magnets" will repel permanent magnets
+
+Paramagnetic Fields
+
+- Each atoms have "unpaired electrons" — electrons are oriented at a random spin
+- When a magnetic field is applied, the electrons align with the direction of the magnetic field.
