@@ -23,4 +23,6 @@ Ferromagnetic Fields
 - Unpaired electrons already partially align to each other
 - Each block of aligned electron is called a "domain"
 - After applying a field, heat the material up => you get aligned domains! You end up with a permanent magnet
-- Heating the magnet above currie temperature again we
+- Heating the magnet above currie temperature again will destroy the magnet
+
+
