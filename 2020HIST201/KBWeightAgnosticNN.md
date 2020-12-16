@@ -56,7 +56,7 @@ Also optimizes for less complexity in the network.
 
 Is general, but not as good at the individual scenarios as normal networks. 
 
-==Proposed: WANN as starting point, then run normal training on the network==
+**Proposed: WANN as starting point, then run normal training on the network**
 
 Also allows for much easier training as the structure generally has a lot less nodes as it is specialized for a certain task. 
 

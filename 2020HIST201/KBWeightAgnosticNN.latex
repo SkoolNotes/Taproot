@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6232)}}    % original
-%\rhead{\textrmlf{Compiled }\#6232\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6232\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6233)}}    % original
+%\rhead{\textrmlf{Compiled }\#6233\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6233\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -244,8 +244,8 @@ Also optimizes for less complexity in the network.
 Is general, but not as good at the individual scenarios as normal
 networks.
 
-==Proposed: WANN as starting point, then run normal training on the
-network==
+\textbf{Proposed: WANN as starting point, then run normal training on
+the network}
 
 Also allows for much easier training as the structure generally has a
 lot less nodes as it is specialized for a certain task.
