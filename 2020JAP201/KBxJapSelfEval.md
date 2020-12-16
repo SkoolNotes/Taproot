@@ -22,6 +22,7 @@ One highlight was the oral exam — not the exam itself, but the process of stud
 2) Challenges
 
 
+
 3) Goals
 What were your goals for this semester?  Did you reach them?  What are your goals for next semester?  What topics or skills do you want to focus on next semester?  What are your long-term goals in studying Japanese at Nueva?  How can I help you reach those goals?
 
