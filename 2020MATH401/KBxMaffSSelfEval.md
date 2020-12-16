@@ -21,7 +21,8 @@ As we reach the end of the semester, re-read your listening log from mid-semeste
 
 - I think that I understood the concepts well, and never resorted to a formulaic approach. 
 - Without really ever being taught algebra, I'm glad to know that it is not really holding me back. 
-- 
+- In my breakout room, we all worked through questions together when we needed to.
+- Frankly
 
 
 
