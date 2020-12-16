@@ -48,6 +48,10 @@ Instead of changing connection weights, they
 > Networks in which the structure enables the task to be completed, not the weights, can be developed.
 
 
+## Finding WANNs
+
+Start with a small amount of network architectures then use NEAT on them
+
 
 ## So? 
 
