@@ -50,7 +50,7 @@ Instead of changing connection weights, they
 
 WANNs make models more interpretable, as their solutions or logic is encoded directly into their structure. 
 
-More general, and deals better with varrieing inputs. 
+More general, and deals better with varying inputs. 
 
 
 

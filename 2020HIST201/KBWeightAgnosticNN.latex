@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6215)}}    % original
-%\rhead{\textrmlf{Compiled }\#6215\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6215\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6216)}}    % original
+%\rhead{\textrmlf{Compiled }\#6216\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6216\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -232,5 +232,7 @@ the weights, can be developed.
 
 WANNs make models more interpretable, as their solutions or logic is
 encoded directly into their structure.
+
+More general, and deals better with varying inputs.
 
 \end{document}
