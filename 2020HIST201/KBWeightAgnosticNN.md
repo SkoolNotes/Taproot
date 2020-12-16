@@ -37,7 +37,9 @@ Can generalize the network to work with a range of weight values?
 
 Instead of changing connection weights, they 
 
-- 
+- add connections, 
+- add weight,
+- change activation functions. 
 
 
 
