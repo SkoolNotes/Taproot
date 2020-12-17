@@ -43,7 +43,7 @@ life is inevitable
 
 clay deposits form sponge like things
 
-
+these pockets could have acted as early cells 
 
 
 
