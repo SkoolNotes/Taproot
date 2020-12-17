@@ -64,7 +64,11 @@ pockets in clay deposits would be the perfect environment for early cell formati
 	- thriving on a chemical soup rich in hydrogen, carbon dioxide, and sulfur, spewing from the geysers https://www.whoi.edu/press-room/news-release/study-tests-theory-that-life-originated-at-deep-sea-vents/
 	
 	
-	
+warm, alkaline enviroment
+
+alkaline and acidic fluids provide source of energy
+
+
 	
 	
 
