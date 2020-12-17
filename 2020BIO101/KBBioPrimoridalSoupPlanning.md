@@ -50,7 +50,7 @@ cytoplasm behaves a lot like a hydrogel
 some of the common minerals found in clay can help the formation of proto lipids 
 
 
-
+pockets in clay deposits would be the perfect environment for early cell formation
 
 
 
