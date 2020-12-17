@@ -70,7 +70,7 @@ alkaline and acidic fluids provide source of energy
 
 creates a gradient that can be harnessed for energy 
 
-
+complex reactions between hydrogen and carbon dioxide 
 
 super rich in minerals 
 
