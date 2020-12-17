@@ -68,7 +68,12 @@ warm, alkaline enviroment
 
 alkaline and acidic fluids provide source of energy
 
-creates a 
+creates a gradient that can be harnessed for energy 
+
+
+
+super rich in minerals 
+
 	
 	
 
