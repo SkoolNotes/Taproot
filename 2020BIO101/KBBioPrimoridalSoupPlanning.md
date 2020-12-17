@@ -63,6 +63,11 @@ pockets in clay deposits would be the perfect environment for early cell formati
 	- Authors of the new theory argue the environmental conditions in porous hydrothermal vents — where heated, mineral-laden seawater spews from cracks in the ocean crust — created a gradient in positively charged protons that served as a "battery" to fuel the creation of organic molecules and proto-cells. Later, primitive cellular pumps gradually evolved the ability to use a different type of gradient — the difference in sodium particles inside and outside the cell — as a battery to power the construction of complex molecules like proteins. https://www.livescience.com/26173-hydrothermal-vent-life-origins.html
 	- thriving on a chemical soup rich in hydrogen, carbon dioxide, and sulfur, spewing from the geysers https://www.whoi.edu/press-room/news-release/study-tests-theory-that-life-originated-at-deep-sea-vents/
 	
+	
+	
+	
+	
+
 - tides of ponds 
 	- Researchers report that shallow bodies of water, on the order of 10 centimeters deep, could have held high concentrations of what many scientists believe to be a key ingredient for jump-starting life on Earth: nitrogen. https://news.mit.edu/2019/earth-earliest-life-ponds-not-oceans-0412
 	- Atmospheric nitrogen consists of two nitrogen molecules, linked via a strong triple bond, that can only be broken by an extremely energetic event — namely, lightning.  "Lightning is like a really intense bomb going off,” Ranjan says. “It produces enough energy that it breaks that triple bond in our atmospheric nitrogen gas, to produce nitrogenous oxides that can then rain down into water bodies.”
