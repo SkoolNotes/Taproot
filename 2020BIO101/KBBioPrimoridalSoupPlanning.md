@@ -88,6 +88,9 @@ super rich in minerals
 - fixed nitrogen is essential for life
 - lighting 
 - dissolved iron the oceans 
+- high concentration of nitrogen in ponds
+- otherwise would be to diluted
+- rns would dissaocitate and reasociate at different tides 
 
 
 
