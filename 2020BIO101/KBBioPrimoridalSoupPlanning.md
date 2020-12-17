@@ -47,6 +47,9 @@ these pockets could have acted as early cells
 
 cytoplasm behaves a lot like a hydrogel
 
+some of the common minerals found in clay can help the formation of proto lipids 
+
+
 
 
 
