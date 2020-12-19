@@ -30,6 +30,15 @@ E)  Are there any revelations that you have made that help you to learn and unde
 
 
 
+Physics class has actully deeply impacted the way I go about learning. 
+
+
+
+
+
+
+
+
 
 
 
