@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6328)}}    % original
-%\rhead{\textrmlf{Compiled }\#6328\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6328\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6329)}}    % original
+%\rhead{\textrmlf{Compiled }\#6329\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6329\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -205,6 +205,8 @@ solution to our physics problems was not really the end goal. Instead,
 the goal was to derive an equation that could then be used to solved the
 problem. These equations would reveal deeper truths that would otherwise
 stay hidden; in a learning environment (which, frankly, is most
-environments) solving symbolically is undoubtedly the way to go.
+environments) solving symbolically is undoubtedly the way to go. This
+doesn't just apply to physics though --- I've found the concept of
+solving symbolically very useful in other areas
 
 \end{document}
