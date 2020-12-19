@@ -18,7 +18,7 @@ source:  #index
 
 
 
-This class was the first history class that focused on learning about theory as opposed to events. This aligns with my viewpoint, which is that we should derive theories of how the past worked to inform our future. I would like to remember that this vision of history class ca
+This class was the first history class that focused on learning about theory as opposed to events. This aligns with my viewpoint of how we should history, which is that we should derive theories of how the past worked to inform our future. I would like to remember that this vision of history class can be a reality, and history has proved to be incredibly interesting and deep. 
 
 
 
