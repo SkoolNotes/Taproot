@@ -35,7 +35,7 @@ Physics class has actully deeply impacted the way I go about learning.
 
 
 
-
+Solving symbolicaly is emphasized heavily in Physics cla
 
 
 
