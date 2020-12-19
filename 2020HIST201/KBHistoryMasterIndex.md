@@ -115,6 +115,7 @@ source: #index
 * IndustrialRev Essay
 	* [[KBhHIST201Unit3EssayJack]] 
 	* [[KBxUnit3EssayPlanning]] @jack why did u delete my thing?  @hux no I didn't?
+* Self Evals [[KBxHistSelfEval2020]]
 
 ## Meta References
 - [[20hist201refTechniques]]

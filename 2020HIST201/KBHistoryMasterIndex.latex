@@ -71,14 +71,22 @@
 }
 
 \usepackage{mathspec}
+%\setmainfont[
+%   ItalicFont     = HelveticaNeue-Italic,
+%   BoldFont       = HelveticaNeue-Bold,
+%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight[
+%   ItalicFont     = HelveticaNeue-LightItalic,
+%   BoldFont       = HelveticaNeue-UltraLight,
+%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
 \setmainfont[
-   ItalicFont     = HelveticaNeue-Italic,
-   BoldFont       = HelveticaNeue-Bold,
-   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+   ItalicFont     = Iosevka-Aile-Italic,
+   BoldFont       = Iosevka-Aile-Bold,
+   BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
 \newfontfamily\NHLight[
-   ItalicFont     = HelveticaNeue-LightItalic,
-   BoldFont       = HelveticaNeue-UltraLight,
-   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+   ItalicFont     = Iosevka-Aile-Light-Italic,
+   BoldFont       = Iosevka-Aile-Light,
+   BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -122,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5607)}}    % original
-%\rhead{\textrmlf{Compiled }\#5607\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5607\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6312)}}    % original
+%\rhead{\textrmlf{Compiled }\#6312\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6312\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu, Exr0n, Huxley Marvit, Zachary
 Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
@@ -396,6 +404,15 @@ The {[}{[}KBhHIST201IndustrialRevolution{]}{]} + its
   Gelvyn Ch. 5 {[}{[}KBhHIST201GelvinChapter5{]}{]}
 \end{itemize}
 
+\hypertarget{class-flos}{%
+\subsubsection{Class Flos}\label{class-flos}}
+
+\begin{itemize}
+\tightlist
+\item
+  Sushu's Rapid Fire Japan {[}{[}KBhHIST201JapanClassFlo{]}{]}
+\end{itemize}
+
 \hypertarget{essays}{%
 \section{Essays}\label{essays}}
 
@@ -446,7 +463,12 @@ The {[}{[}KBhHIST201IndustrialRevolution{]}{]} + its
   \tightlist
   \item
     {[}{[}KBhHIST201Unit3EssayJack{]}{]}
+  \item
+    {[}{[}KBxUnit3EssayPlanning{]}{]} @jack why did u delete my thing?
+    @hux no I didn't?
   \end{itemize}
+\item
+  Self Evals {[}{[}KBxHistSelfEval2020{]}{]}
 \end{itemize}
 
 \hypertarget{meta-references}{%
