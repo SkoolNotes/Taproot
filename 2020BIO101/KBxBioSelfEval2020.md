@@ -25,6 +25,8 @@ Biology class felt like getting plunged into a sea of knowledge. It was not easy
 
 Another struggle was figuring out how to sort the knowledge I gained in my deep dive. To learn about my deep dive topic, I would simply do research online, letting my curiosity drive where I would go next.  Of course research must be driven by curiosity, but when researching for a project, the research is also guided by the end goal of the project. Trying to funnel the learning that I gained driven purely by curiosity into a project was a challenge, and I ended up only being able to include a small fraction of what I learned in my final project. 
 
+Regardless, even if I didn't get to include all of my learning in my final project, I still learned a lot and enjoyed doing so. 
+
 
 
 
