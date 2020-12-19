@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6313)}}    % original
-%\rhead{\textrmlf{Compiled }\#6313\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6313\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6314)}}    % original
+%\rhead{\textrmlf{Compiled }\#6314\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6314\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -184,5 +184,8 @@
 
 2) What's one thing you want to remember from this course in the future? (Could be next semester or next year or in five years!)
 \end{verbatim}
+
+This history class was the first history class that focused on learning
+about the
 
 \end{document}
