@@ -35,7 +35,7 @@ Physics class has actully deeply impacted the way I go about learning.
 
 
 
-Solving symbolically is emphasized heavily in Physics class. I didn't see the value of doing so until I realized that getting the integer solution to our physics problems was not really the end goal. Instead, the goal was to derive an equation that could then be used to solved the problem. These equations would reveal deeper truths that would otherwise stay hidden; in a learning environment (which, frankly, is most environments) solving symbolically is undoubtedly the way to go. This doesn't just apply to physics though — I've found the concept of solving symbolically very useful in other areas
+Solving symbolically is emphasized heavily in Physics class. I didn't see the value of doing so until I realized that getting the integer solution to our physics problems was not really the end goal. Instead, the goal was to derive an equation that could then be used to solved the problem. These equations would reveal deeper truths that would otherwise stay hidden; in a learning environment (which, frankly, is most environments) solving symbolically is undoubtedly the way to go. This doesn't just apply to physics though — I've found the concept of solving symbolically very useful in other areas as well. Even in conceptual spaces that don't focus on absolutes, like English, this concept 
 
 
 
