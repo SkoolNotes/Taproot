@@ -18,7 +18,7 @@ source:  #index
 
 
 
-This history class was the first history class that focused on learning about the 
+This class was the first history class that focused on learning about theory as opposed to events. 
 
 
 
