@@ -40,3 +40,7 @@ source: #index
 
 # References
 * [[KBPHYS201ZachsPhysicsNotesForTest]] Physics quiz Notes
+
+# Misc 
+* [[KBxPhysSelvEval2020]]
+
