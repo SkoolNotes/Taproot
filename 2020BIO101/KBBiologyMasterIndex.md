@@ -40,6 +40,7 @@ source: #index
 * Huxley's big project planning doc [[KBBioPrimoridalSoupPlanning]]
 * Eukaryotic Gene Expression [[KBBIO101GeneExpression]]
 * Hammering in Epigenetics [[KBBIO101EpigeneticHammering]]
+* Self Eval [[KBxBioSelfEval2020]]
 
 ## Amino Acids
 * [[KBhBIO101AminoAcids]]
