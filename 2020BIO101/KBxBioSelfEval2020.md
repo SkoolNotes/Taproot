@@ -23,7 +23,7 @@ What did you do well and what could you have done better? What are examples of w
 
 Biology class felt like getting plunged into a sea of knowledge. It was not easy to understand everything we were getting taught to the level that I would like to. To deal with this, I would often spend time going back over the presentations and doing research on the topics.
 
-Another struggle was figuring out how to sort the knowledge I gained in my deep dive. To learn about my deep dive topic, I would simply do research online, 
+Another struggle was figuring out how to sort the knowledge I gained in my deep dive. To learn about my deep dive topic, I would simply do research online, letting my curiosity drive where I would go next. When researching for a project, Of course research must be driven by curiosity, but 
 
 
 
