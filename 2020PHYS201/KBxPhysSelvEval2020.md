@@ -35,7 +35,7 @@ Physics class has actully deeply impacted the way I go about learning.
 
 
 
-Solving symbolicaly is emphasized heavily in Physics cla
+Solving symbolically is emphasized heavily in Physics class. I didn't see the value of doing so until I realized that getting the integer solution to our physics problems was 
 
 
 
