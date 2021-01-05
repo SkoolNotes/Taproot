@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6340)}}    % original
-%\rhead{\textrmlf{Compiled }\#6340\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6340\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6341)}}    % original
+%\rhead{\textrmlf{Compiled }\#6341\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6341\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -224,5 +224,19 @@ mass}\label{insectivora-macroscelidea-avg-mass-vs-avg-bmr-guess-avg-bmr-for-phol
 \hypertarget{i-just-took-the-ratios-and-took-a-high-and-low}{%
 \subsubsection{I just took the ratios and took a high and
 low}\label{i-just-took-the-ratios-and-took-a-high-and-low}}
+
+\hypertarget{a-few-strategies-for-solving-the-problem}{%
+\subsubsection{a few strategies for solving the
+problem}\label{a-few-strategies-for-solving-the-problem}}
+
+\begin{enumerate}
+\item
+  look for a common ratio (assume 0 mass = 0 BMR)
+\item
+  fit a line
+\item
+  it's actually not a linear relation, and the answer is relatively
+  unexpected (much lower ratio)
+\end{enumerate}
 
 \end{document}
