@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6356)}}    % original
-%\rhead{\textrmlf{Compiled }\#6356\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6356\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6357)}}    % original
+%\rhead{\textrmlf{Compiled }\#6357\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6357\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -355,10 +355,18 @@ problem)}\label{metabolic-rate-first-warm-up-problem}}
 \subsection{superlinear scaling -\textgreater{} city should
 grow}\label{superlinear-scaling---city-should-grow}}
 
+\hypertarget{results}{%
+\subsection{results}\label{results}}
+
 \hypertarget{finite-time-singularity-when-the-growth-curve-goes-vertical..-what-does-that-mean.-maybe-environmental-collapse}{%
-\subsection{finite time singularity? when the growth curve goes
+\subsubsection{finite time singularity? when the growth curve goes
 vertical.. what does that mean. maybe environmental
 collapse}\label{finite-time-singularity-when-the-growth-curve-goes-vertical..-what-does-that-mean.-maybe-environmental-collapse}}
+
+\hypertarget{trying-to-increase-gdp-and-decrease-crimeaids-by-growing-wont-really-work-because-both-scale-in-the-same-way}{%
+\subsubsection{trying to increase GDP and decrease crime/AIDs by growing
+won't really work because both scale in the same
+way}\label{trying-to-increase-gdp-and-decrease-crimeaids-by-growing-wont-really-work-because-both-scale-in-the-same-way}}
 
 \hypertarget{complexity}{%
 \section{complexity}\label{complexity}}
