@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6350)}}    % original
-%\rhead{\textrmlf{Compiled }\#6350\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6350\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6351)}}    % original
+%\rhead{\textrmlf{Compiled }\#6351\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6351\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -316,13 +316,17 @@ heartbeats}\label{all-mamals-average-the-same-number-of-heartbeats}}
   small animals have fast hearts and die sooner, vice versa
 \end{enumerate}
 
-\hypertarget{log-log-linear---constant-rate-of-savings}{%
-\subsubsection{log log linear -\textgreater{} constant rate of
-savings?}\label{log-log-linear---constant-rate-of-savings}}
+\hypertarget{metabolic-rate-first-warm-up-problem}{%
+\subsubsection{metabolic rate (first warm up
+problem)}\label{metabolic-rate-first-warm-up-problem}}
 
 \begin{enumerate}
 \item
+  log log linear -\textgreater{} constant rate of savings?
+\item
   constant increase in efficiency
+\item
+  roughly 3/4 or 2/3 exponent
 \end{enumerate}
 
 \end{document}
