@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6378)}}    % original
-%\rhead{\textrmlf{Compiled }\#6378\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6378\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6379)}}    % original
+%\rhead{\textrmlf{Compiled }\#6379\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6379\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -538,6 +538,9 @@ privatization}\label{jeffery-somebody-wanted-mass-privatization}}
 \begin{enumerate}
 \item
   government should value each company and make shares and give them out
+\item
+  doesn't account for dynamic something processes and didn't account for
+  heterogenety
 \end{enumerate}
 
 \end{document}
