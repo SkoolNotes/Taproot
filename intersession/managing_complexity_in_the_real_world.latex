@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6400)}}    % original
-%\rhead{\textrmlf{Compiled }\#6400\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6400\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6401)}}    % original
+%\rhead{\textrmlf{Compiled }\#6401\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6401\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -672,5 +672,9 @@ mistake}\label{however-we-organize-knowledge-from-a-reductionist-mindset.-this-i
     organize our teens so that they easily split and explore more areas?
   \end{enumerate}
 \end{enumerate}
+
+\hypertarget{using-complexity-science-to-understand-online-hate-speach}{%
+\subsection{using complexity science to understand online hate
+speach}\label{using-complexity-science-to-understand-online-hate-speach}}
 
 \end{document}
