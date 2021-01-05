@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6407)}}    % original
-%\rhead{\textrmlf{Compiled }\#6407\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6407\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6408)}}    % original
+%\rhead{\textrmlf{Compiled }\#6408\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6408\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -641,30 +641,6 @@ mistake}\label{however-we-organize-knowledge-from-a-reductionist-mindset.-this-i
   such as bear vs bull market in economics
 \end{enumerate}
 
-\hypertarget{scaling-and-universiality-in-urban-economic-diversification}{%
-\subsection{scaling and universiality in urban economic
-diversification?}\label{scaling-and-universiality-in-urban-economic-diversification}}
-
-\hypertarget{simon-yule-distribution-formed-by-a-preferntial-attachement-mechinism}{%
-\subsubsection{simon yule distribution? formed by a preferntial
-attachement
-mechinism?}\label{simon-yule-distribution-formed-by-a-preferntial-attachement-mechinism}}
-
-\begin{enumerate}
-\item
-  if you use nix codes to do a frequency distribution
-\item
-  count the number of businesses in the most populous, second most
-  populous, etc. then it forms the simon yule distribution, but the
-  ordering was different.
-
-  \begin{enumerate}
-  \item
-    thus, could there be some hidden mechinism that requires a specific
-    relative distribution of diversity to grow?
-  \end{enumerate}
-\end{enumerate}
-
 \hypertarget{modern-research}{%
 \section{modern research}\label{modern-research}}
 
@@ -711,5 +687,29 @@ internetta?'}\label{german-data-where-people-badge-themselves-as-either-reconque
 tried to understand what strategies worked to slow spread of hate or
 speed it
 up}\label{conversations-were-analysed-using-nlp-and-researchers-tried-to-understand-what-strategies-worked-to-slow-spread-of-hate-or-speed-it-up}}
+
+\hypertarget{scaling-and-universiality-in-urban-economic-diversification}{%
+\subsection{scaling and universiality in urban economic
+diversification}\label{scaling-and-universiality-in-urban-economic-diversification}}
+
+\hypertarget{simon-yule-distribution-formed-by-a-preferntial-attachement-mechinism}{%
+\subsubsection{simon yule distribution? formed by a preferntial
+attachement
+mechinism?}\label{simon-yule-distribution-formed-by-a-preferntial-attachement-mechinism}}
+
+\begin{enumerate}
+\item
+  if you use nix codes to do a frequency distribution
+\item
+  count the number of businesses in the most populous, second most
+  populous, etc. then it forms the simon yule distribution, but the
+  ordering was different.
+
+  \begin{enumerate}
+  \item
+    thus, could there be some hidden mechinism that requires a specific
+    relative distribution of diversity to grow?
+  \end{enumerate}
+\end{enumerate}
 
 \end{document}
