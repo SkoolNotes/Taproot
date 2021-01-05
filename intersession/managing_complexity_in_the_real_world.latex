@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6391)}}    % original
-%\rhead{\textrmlf{Compiled }\#6391\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6391\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6392)}}    % original
+%\rhead{\textrmlf{Compiled }\#6392\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6392\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -584,5 +584,9 @@ decisions?}\label{for-science-education-how-do-we-influence-the-agents-to-make-m
 \subsubsection{teaching people about economics makes them behave more
 game theory
 rationally}\label{teaching-people-about-economics-makes-them-behave-more-game-theory-rationally}}
+
+\hypertarget{not-perfect-knowledge-so-what}{%
+\section{not perfect knowledge, so
+what?}\label{not-perfect-knowledge-so-what}}
 
 \end{document}
