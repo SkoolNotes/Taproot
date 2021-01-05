@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6348)}}    % original
-%\rhead{\textrmlf{Compiled }\#6348\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6348\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6349)}}    % original
+%\rhead{\textrmlf{Compiled }\#6349\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6349\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -281,25 +281,30 @@ things}\label{when-you-get-attached-to-a-tool-you-miss-loads-of-other-things}}
 \hypertarget{universality}{%
 \section{universality}\label{universality}}
 
-\hypertarget{common-limit-theorem}{%
-\subsection{common limit theorem}\label{common-limit-theorem}}
+\hypertarget{examples}{%
+\subsection{examples}\label{examples}}
 
-\hypertarget{lots-of-common-processes-produce-gauseian-distributions}{%
-\subsubsection{lots of common processes produce gauseian
-distributions}\label{lots-of-common-processes-produce-gauseian-distributions}}
+\hypertarget{common-limit-theorem}{%
+\subsubsection{common limit theorem}\label{common-limit-theorem}}
 
 \begin{enumerate}
 \item
-  thus, there is a "universality" in the normal distribution
+  lots of common processes produce gauseian distributions
+
+  \begin{enumerate}
+  \item
+    thus, there is a "universality" in the normal distribution
+  \end{enumerate}
 \end{enumerate}
 
 \hypertarget{other-theorem-something-with-gauss}{%
-\subsection{other theorem? (something with
+\subsubsection{other theorem? (something with
 gauss)}\label{other-theorem-something-with-gauss}}
 
-\hypertarget{if-things-are-often-normal-distributions-then-statistics-kind-of-works-because-thats-what-its-all-based-on}{%
-\subsubsection{if things are often normal distributions, then statistics
-kind of works (because that's what it's all based
-on)}\label{if-things-are-often-normal-distributions-then-statistics-kind-of-works-because-thats-what-its-all-based-on}}
+\begin{enumerate}
+\item
+  if things are often normal distributions, then statistics kind of
+  works (because that's what it's all based on)
+\end{enumerate}
 
 \end{document}
