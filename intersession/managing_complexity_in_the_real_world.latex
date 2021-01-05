@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6358)}}    % original
-%\rhead{\textrmlf{Compiled }\#6358\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6358\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6359)}}    % original
+%\rhead{\textrmlf{Compiled }\#6359\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6359\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -388,5 +388,23 @@ sparse}\label{start-with-a-data-rich-domain-and-find-the-generative-mechinism-th
 
 \hypertarget{definition-of-complexity}{%
 \subsection{definition of complexity}\label{definition-of-complexity}}
+
+\hypertarget{difficult-to-come-up-with-a-concrete-definition}{%
+\subsubsection{difficult to come up with a concrete
+definition}\label{difficult-to-come-up-with-a-concrete-definition}}
+
+\hypertarget{handwavey-systems-of-networked-adaptive-agents-are-complex}{%
+\subsubsection{handwavey: systems of networked adaptive agents are
+complex}\label{handwavey-systems-of-networked-adaptive-agents-are-complex}}
+
+\begin{enumerate}
+\item
+  networked
+
+  \begin{enumerate}
+  \item
+    networks have 'finite' sides (classifications of nodes)
+  \end{enumerate}
+\end{enumerate}
 
 \end{document}
