@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6406)}}    % original
-%\rhead{\textrmlf{Compiled }\#6406\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6406\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6407)}}    % original
+%\rhead{\textrmlf{Compiled }\#6407\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6407\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -657,6 +657,12 @@ mechinism?}\label{simon-yule-distribution-formed-by-a-preferntial-attachement-me
   count the number of businesses in the most populous, second most
   populous, etc. then it forms the simon yule distribution, but the
   ordering was different.
+
+  \begin{enumerate}
+  \item
+    thus, could there be some hidden mechinism that requires a specific
+    relative distribution of diversity to grow?
+  \end{enumerate}
 \end{enumerate}
 
 \hypertarget{modern-research}{%
