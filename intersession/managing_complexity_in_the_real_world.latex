@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6349)}}    % original
-%\rhead{\textrmlf{Compiled }\#6349\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6349\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6350)}}    % original
+%\rhead{\textrmlf{Compiled }\#6350\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6350\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -305,6 +305,24 @@ gauss)}\label{other-theorem-something-with-gauss}}
 \item
   if things are often normal distributions, then statistics kind of
   works (because that's what it's all based on)
+\end{enumerate}
+
+\hypertarget{all-mamals-average-the-same-number-of-heartbeats}{%
+\subsubsection{all mamals average the same number of
+heartbeats}\label{all-mamals-average-the-same-number-of-heartbeats}}
+
+\begin{enumerate}
+\item
+  small animals have fast hearts and die sooner, vice versa
+\end{enumerate}
+
+\hypertarget{log-log-linear---constant-rate-of-savings}{%
+\subsubsection{log log linear -\textgreater{} constant rate of
+savings?}\label{log-log-linear---constant-rate-of-savings}}
+
+\begin{enumerate}
+\item
+  constant increase in efficiency
 \end{enumerate}
 
 \end{document}
