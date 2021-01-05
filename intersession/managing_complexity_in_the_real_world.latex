@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6380)}}    % original
-%\rhead{\textrmlf{Compiled }\#6380\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6380\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6381)}}    % original
+%\rhead{\textrmlf{Compiled }\#6381\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6381\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -543,6 +543,9 @@ privatization}\label{jeffery-somebody-wanted-mass-privatization}}
   heterogenety
 \item
   what happened? villagers sold their shares which kept getting resold
+\item
+  this is the problem with the curtain view: the transitions are the
+  difficult parts that policy needs to hold up through
 \end{enumerate}
 
 \end{document}
