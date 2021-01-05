@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6395)}}    % original
-%\rhead{\textrmlf{Compiled }\#6395\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6395\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6396)}}    % original
+%\rhead{\textrmlf{Compiled }\#6396\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6396\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -628,5 +628,17 @@ mindset}\label{difficult-to-predict-in-a-reductionist-mindset}}
 \subsubsection{however, we organize knowledge from a reductionist
 mindset. This is already a
 mistake}\label{however-we-organize-knowledge-from-a-reductionist-mindset.-this-is-already-a-mistake}}
+
+\hypertarget{phase-transitions}{%
+\subsubsection{phase transitions}\label{phase-transitions}}
+
+\begin{enumerate}
+\item
+  nature of a system changes rapidly
+\item
+  it's difficult to undo the change
+\item
+  such as bear vs bull market in economics
+\end{enumerate}
 
 \end{document}
