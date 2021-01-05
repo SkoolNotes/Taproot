@@ -1,0 +1,82 @@
+#+AUTHOR: Exr0n
+#+TITLE: flo--managing complexity in the real world
+* his intro / background
+** used to be very into econ
+** worked at world bank bc he thought it was a good place to meet people who were interested in math and econ and help the world
+** was sent to a country (forgot) during communism->capitalism transition and saw that the forced capitalist policies were not working
+** went into management because that allowed him to actually help
+** sante fe institute
+*** centeripece for a global movement to involve complexity in sciences accross disciplines
+*** from los alamos national labs
+*** 'universal relationships'
+*** lots of nobel prizes
+*** applications of graph theory and network theory, and lots of econ
+**** understanding when societies are going to have a revolution, finiance, energy grid
+* other related areas
+** do individuals matter in history
+** impacts on marketing based on faith studies?
+* Overview
+** this intersession is "interdisciplinary fixing of economics"
+* Warmup
+** insectivora, macroscelidea avg mass vs avg BMR, guess avg bmr for pholidota given avg mass
+*** I just took the ratios and took a high and low
+*** a few strategies for solving the problem
+**** look for a common ratio (assume 0 mass = 0 BMR)
+**** fit a line
+**** it's actually not a linear relation, and the answer is relatively unexpected (much lower ratio)
+** the monkey business illusion (ball passing -> miss other stuff)
+*** when you get attached to a tool, you miss loads of other things
+* universality
+** examples
+*** common limit theorem
+**** lots of common processes produce gauseian distributions
+***** thus, there is a "universality" in the normal distribution
+*** other theorem? (something with gauss)
+**** if things are often normal distributions, then statistics kind of works (because that's what it's all based on)
+*** all mamals average the same number of heartbeats
+**** small animals have fast hearts and die sooner, vice versa
+*** metabolic rate (first warm up problem)
+**** log log linear -> constant rate of savings? SUBLINEAR SCALING
+**** constant increase in efficiency
+**** roughly 3/4 or 2/3 exponent
+**** exponent can be derived by networks (circulatory system)
+***** where can this be applied?
+****** many city statistics
+******* 15% boost/saving for every size double for amount of gas stations, boost in gdp, # of patents, new AIDs cases, etc
+* city
+** superlinear scaling -> city should grow
+** results
+*** finite time singularity? when the growth curve goes vertical.. what does that mean. maybe environmental collapse
+*** trying to increase GDP and decrease crime/AIDs by growing won't really work because both scale in the same way
+* complexity
+** core
+*** taking a general tool and applying it elsewhere
+** methodology
+*** start with a data rich domain and find the generative mechinism, then apply to the data sparse
+** definition of complexity
+*** difficult to come up with a concrete definition
+*** handwavey: systems of networked adaptive agents are complex
+**** networked
+***** networks have 'finite' sides (classifications of nodes)
+***** complexity perspective: they provide an analyzable structure at the mezzo-level of granularity
+****** ways networks are analyzed
+******* degree of a node
+******* betweenness centrality
+******* eigenvector complexity?
+******* avg path length
+******* degree distribution
+******* clustering
+******* community structure
+**** agents
+***** assume that all companies or consumers are equal and if they differ, then they differ along one variable
+***** agents are actually different though?
+**** adpativity
+***** such as evolutionarily inspired adaptation
+****** genetic algorithms / evolutionary algorithms
+****** often used to come up with a pretty good answer for a hard (NP complete or more difficult) problem
+* other structures
+** many complex systems have network structures
+** celular automata
+** almost everything is a network, but they mean network like everyone knows everyone else
+*** it's a nice assumption if you want to use calculus, but sometimes its a poor model
+*** somewhere along the way, textbooks inverted it 
