@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6385)}}    % original
-%\rhead{\textrmlf{Compiled }\#6385\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6385\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6386)}}    % original
+%\rhead{\textrmlf{Compiled }\#6386\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6386\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -560,5 +560,9 @@ privatization}\label{jeffery-somebody-wanted-mass-privatization}}
     it's like an evolutionary algorithm to search a complex landscape
   \end{enumerate}
 \end{enumerate}
+
+\hypertarget{how-does-this-change-the-way-we-think-about-policy}{%
+\section{how does this change the way we think about
+policy}\label{how-does-this-change-the-way-we-think-about-policy}}
 
 \end{document}
