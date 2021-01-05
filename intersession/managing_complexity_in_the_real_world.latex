@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6361)}}    % original
-%\rhead{\textrmlf{Compiled }\#6361\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6361\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6362)}}    % original
+%\rhead{\textrmlf{Compiled }\#6362\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6362\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -432,6 +432,14 @@ complex}\label{handwavey-systems-of-networked-adaptive-agents-are-complex}}
   \end{enumerate}
 \item
   agents
+
+  \begin{enumerate}
+  \item
+    assume that all companies or consumers are equal and if they differ,
+    then they differ along one variable
+  \end{enumerate}
+\item
+  adpative
 \end{enumerate}
 
 \end{document}
