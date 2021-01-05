@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6362)}}    % original
-%\rhead{\textrmlf{Compiled }\#6362\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6362\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6363)}}    % original
+%\rhead{\textrmlf{Compiled }\#6363\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6363\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -437,9 +437,21 @@ complex}\label{handwavey-systems-of-networked-adaptive-agents-are-complex}}
   \item
     assume that all companies or consumers are equal and if they differ,
     then they differ along one variable
+  \item
+    agents are actually different though?
   \end{enumerate}
 \item
-  adpative
+  adpativity
+
+  \begin{enumerate}
+  \item
+    such as evolutionarily inspired adaptation
+
+    \begin{enumerate}
+    \item
+      genetic algorithms / evolutionary algorithms
+    \end{enumerate}
+  \end{enumerate}
 \end{enumerate}
 
 \end{document}
