@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6370)}}    % original
-%\rhead{\textrmlf{Compiled }\#6370\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6370\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6371)}}    % original
+%\rhead{\textrmlf{Compiled }\#6371\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6371\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -457,33 +457,36 @@ complex}\label{handwavey-systems-of-networked-adaptive-agents-are-complex}}
   \end{enumerate}
 \end{enumerate}
 
+\hypertarget{random-questions}{%
+\section{random questions}\label{random-questions}}
+
 \hypertarget{other-structures}{%
-\section{other structures}\label{other-structures}}
+\subsection{other structures?}\label{other-structures}}
 
 \hypertarget{many-complex-systems-have-network-structures}{%
-\subsection{many complex systems have network
+\subsubsection{many complex systems have network
 structures}\label{many-complex-systems-have-network-structures}}
 
 \hypertarget{celular-automata}{%
-\subsection{celular automata}\label{celular-automata}}
+\subsubsection{celular automata}\label{celular-automata}}
 
 \hypertarget{almost-everything-is-a-network-but-they-mean-network-like-everyone-knows-everyone-else}{%
-\subsection{almost everything is a network, but they mean network like
-everyone knows everyone
+\subsubsection{almost everything is a network, but they mean network
+like everyone knows everyone
 else}\label{almost-everything-is-a-network-but-they-mean-network-like-everyone-knows-everyone-else}}
 
-\hypertarget{its-a-nice-assumption-if-you-want-to-use-calculus-but-sometimes-its-a-poor-model}{%
-\subsubsection{it's a nice assumption if you want to use calculus, but
-sometimes its a poor
-model}\label{its-a-nice-assumption-if-you-want-to-use-calculus-but-sometimes-its-a-poor-model}}
+\begin{enumerate}
+\item
+  it's a nice assumption if you want to use calculus, but sometimes its
+  a poor model
+\item
+  somewhere along the way, textbooks inverted it
+\item
+  try to find the underlying mechinism and build models that reflect it
+\end{enumerate}
 
-\hypertarget{somewhere-along-the-way-textbooks-inverted-it}{%
-\subsubsection{somewhere along the way, textbooks inverted
-it}\label{somewhere-along-the-way-textbooks-inverted-it}}
-
-\hypertarget{try-to-find-the-underlying-mechinism-and-build-models-that-reflect-it}{%
-\subsubsection{try to find the underlying mechinism and build models
-that reflect
-it}\label{try-to-find-the-underlying-mechinism-and-build-models-that-reflect-it}}
+\hypertarget{does-economics-stop-new-things-from-cropping-up}{%
+\subsection{does economics stop new things from cropping
+up?}\label{does-economics-stop-new-things-from-cropping-up}}
 
 \end{document}
