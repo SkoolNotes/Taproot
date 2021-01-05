@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6347)}}    % original
-%\rhead{\textrmlf{Compiled }\#6347\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6347\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6348)}}    % original
+%\rhead{\textrmlf{Compiled }\#6348\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6348\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -292,5 +292,14 @@ distributions}\label{lots-of-common-processes-produce-gauseian-distributions}}
 \item
   thus, there is a "universality" in the normal distribution
 \end{enumerate}
+
+\hypertarget{other-theorem-something-with-gauss}{%
+\subsection{other theorem? (something with
+gauss)}\label{other-theorem-something-with-gauss}}
+
+\hypertarget{if-things-are-often-normal-distributions-then-statistics-kind-of-works-because-thats-what-its-all-based-on}{%
+\subsubsection{if things are often normal distributions, then statistics
+kind of works (because that's what it's all based
+on)}\label{if-things-are-often-normal-distributions-then-statistics-kind-of-works-because-thats-what-its-all-based-on}}
 
 \end{document}
