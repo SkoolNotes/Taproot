@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6364)}}    % original
-%\rhead{\textrmlf{Compiled }\#6364\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6364\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6365)}}    % original
+%\rhead{\textrmlf{Compiled }\#6365\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6365\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -456,5 +456,12 @@ complex}\label{handwavey-systems-of-networked-adaptive-agents-are-complex}}
     \end{enumerate}
   \end{enumerate}
 \end{enumerate}
+
+\hypertarget{other-structures}{%
+\section{other structures}\label{other-structures}}
+
+\hypertarget{many-complex-systems-have-network-structures}{%
+\subsection{many complex systems have network
+structures}\label{many-complex-systems-have-network-structures}}
 
 \end{document}
