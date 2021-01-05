@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6408)}}    % original
-%\rhead{\textrmlf{Compiled }\#6408\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6408\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6409)}}    % original
+%\rhead{\textrmlf{Compiled }\#6409\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6409\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -711,5 +711,12 @@ mechinism?}\label{simon-yule-distribution-formed-by-a-preferntial-attachement-me
     relative distribution of diversity to grow?
   \end{enumerate}
 \end{enumerate}
+
+\hypertarget{further-reading-resources}{%
+\section{further reading resources}\label{further-reading-resources}}
+
+\hypertarget{google-complexity-economics}{%
+\subsection{google complexity
+economics}\label{google-complexity-economics}}
 
 \end{document}
