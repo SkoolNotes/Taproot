@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6388)}}    % original
-%\rhead{\textrmlf{Compiled }\#6388\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6388\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6389)}}    % original
+%\rhead{\textrmlf{Compiled }\#6389\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6389\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -578,5 +578,10 @@ decisions?}\label{for-science-education-how-do-we-influence-the-agents-to-make-m
 \subsubsection{the only systems where game theory works is when everyone
 making the decision is a game
 theorist}\label{the-only-systems-where-game-theory-works-is-when-everyone-making-the-decision-is-a-game-theorist}}
+
+\hypertarget{teaching-people-about-economics-makes-them-behave-more-game-theory-rationally}{%
+\subsubsection{teaching people about economics makes them behave more
+game theory
+rationally}\label{teaching-people-about-economics-makes-them-behave-more-game-theory-rationally}}
 
 \end{document}
