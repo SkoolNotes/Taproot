@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6360)}}    % original
-%\rhead{\textrmlf{Compiled }\#6360\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6360\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6361)}}    % original
+%\rhead{\textrmlf{Compiled }\#6361\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6361\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -407,7 +407,31 @@ complex}\label{handwavey-systems-of-networked-adaptive-agents-are-complex}}
   \item
     complexity perspective: they provide an analyzable structure at the
     mezzo-level of granularity
+
+    \begin{enumerate}
+    \item
+      ways networks are analyzed
+
+      \begin{enumerate}
+      \item
+        degree of a node
+      \item
+        betweenness centrality
+      \item
+        eigenvector complexity?
+      \item
+        avg path length
+      \item
+        degree distribution
+      \item
+        clustering
+      \item
+        community structure
+      \end{enumerate}
+    \end{enumerate}
   \end{enumerate}
+\item
+  agents
 \end{enumerate}
 
 \end{document}
