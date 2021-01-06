@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6455)}}    % original
-%\rhead{\textrmlf{Compiled }\#6455\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6455\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6456)}}    % original
+%\rhead{\textrmlf{Compiled }\#6456\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6456\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -537,6 +537,8 @@ on}\label{figuring-out-what-is-going-on}}
     \begin{enumerate}
     \item
       typcally 60-100 for resting
+    \item
+      might be up if they are hurt or panicked
     \end{enumerate}
   \item
     respratory rate
