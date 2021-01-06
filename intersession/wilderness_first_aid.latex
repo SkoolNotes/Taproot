@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6421)}}    % original
-%\rhead{\textrmlf{Compiled }\#6421\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6421\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6422)}}    % original
+%\rhead{\textrmlf{Compiled }\#6422\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6422\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -240,7 +240,12 @@ wrong}\label{things-that-could-go-wrong-1}}
 
 \begin{enumerate}
 \item
-  bleeding out
+  bleeding
+
+  \begin{enumerate}
+  \item
+    some blood vessels are important (corodal, femeral arteries)
+  \end{enumerate}
 \end{enumerate}
 
 \hypertarget{integumetntary-system}{%
