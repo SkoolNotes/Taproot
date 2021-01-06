@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6485)}}    % original
-%\rhead{\textrmlf{Compiled }\#6485\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6485\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6486)}}    % original
+%\rhead{\textrmlf{Compiled }\#6486\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6486\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -174,6 +174,20 @@
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
 
+\hypertarget{about}{%
+\section{about}\label{about}}
 
+\hypertarget{reflection-about-motivation}{%
+\section{reflection about
+motivation}\label{reflection-about-motivation}}
+
+\hypertarget{river-of-life}{%
+\section{river of life}\label{river-of-life}}
+
+\hypertarget{career-options}{%
+\section{career options}\label{career-options}}
+
+\hypertarget{pursuing-your-path}{%
+\section{pursuing your path}\label{pursuing-your-path}}
 
 \end{document}
