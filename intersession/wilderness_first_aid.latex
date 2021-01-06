@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6477)}}    % original
-%\rhead{\textrmlf{Compiled }\#6477\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6477\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6478)}}    % original
+%\rhead{\textrmlf{Compiled }\#6478\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6478\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -748,5 +748,12 @@ cold)}\label{environmental-illness-very-hot-or-very-cold}}
 \item
   warm or maybe sugary drink
 \end{enumerate}
+
+\hypertarget{dehydration-hyperthermia}{%
+\subsection{dehydration / hyperthermia}\label{dehydration-hyperthermia}}
+
+\hypertarget{heat-exhaustion-or-heat-stroke}{%
+\subsubsection{heat exhaustion or heat
+stroke}\label{heat-exhaustion-or-heat-stroke}}
 
 \end{document}
