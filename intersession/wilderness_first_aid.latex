@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6467)}}    % original
-%\rhead{\textrmlf{Compiled }\#6467\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6467\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6468)}}    % original
+%\rhead{\textrmlf{Compiled }\#6468\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6468\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -659,9 +659,37 @@ bad}\label{a-closed-break-is-not-so-bad-but-an-open-break-is-very-bad}}
 rocks and got
 twisted}\label{elevated-vitals-swelling-says-ankle-got-stuck-between-rocks-and-got-twisted}}
 
-\hypertarget{maybe-break-strain-sprain-roll-etc}{%
-\subsubsection{maybe: break, strain, sprain, roll,
-etc}\label{maybe-break-strain-sprain-roll-etc}}
+\hypertarget{maybebreak-strain-sprain-roll-etc}{%
+\subsubsection{maybe:break, strain, sprain, roll,
+etc}\label{maybebreak-strain-sprain-roll-etc}}
+
+\begin{enumerate}
+\item
+  break
+
+  \begin{enumerate}
+  \item
+    bone damage
+  \end{enumerate}
+\item
+  strain / sprain
+
+  \begin{enumerate}
+  \item
+    tendon or ligament damage
+  \end{enumerate}
+\item
+  how to tell the difference
+
+  \begin{enumerate}
+  \item
+    something in the middle of a limb, it's probably a break
+  \item
+    something at a joint, it's usually a strain or sprain
+  \item
+    breaks are point tender, strains/sprains are area tender
+  \end{enumerate}
+\end{enumerate}
 
 \hypertarget{ask-can-it-be-moved}{%
 \subsubsection{ask: can it be moved?}\label{ask-can-it-be-moved}}
