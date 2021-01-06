@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6438)}}    % original
-%\rhead{\textrmlf{Compiled }\#6438\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6438\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6439)}}    % original
+%\rhead{\textrmlf{Compiled }\#6439\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6439\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -365,6 +365,8 @@ issues)}\label{abcs-to-address-urgent-issues}}
   \item
     \textbf{pay attention to if this stops happening}
   \end{enumerate}
+\item
+  resolve it
 \end{enumerate}
 
 \hypertarget{breathing}{%
