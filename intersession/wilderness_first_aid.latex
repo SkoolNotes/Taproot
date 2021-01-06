@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6468)}}    % original
-%\rhead{\textrmlf{Compiled }\#6468\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6468\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6469)}}    % original
+%\rhead{\textrmlf{Compiled }\#6469\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6469\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -651,8 +651,8 @@ bad}\label{a-closed-break-is-not-so-bad-but-an-open-break-is-very-bad}}
   bleeding control
 \end{enumerate}
 
-\hypertarget{ankle-assesment}{%
-\subsection{ankle assesment}\label{ankle-assesment}}
+\hypertarget{anklejoint-assesment}{%
+\subsection{ankle/joint assesment}\label{anklejoint-assesment}}
 
 \hypertarget{elevated-vitals-swelling-says-ankle-got-stuck-between-rocks-and-got-twisted}{%
 \subsubsection{elevated vitals, swelling, says ankle got stuck between
@@ -693,5 +693,7 @@ etc}\label{maybebreak-strain-sprain-roll-etc}}
 
 \hypertarget{ask-can-it-be-moved}{%
 \subsubsection{ask: can it be moved?}\label{ask-can-it-be-moved}}
+
+\textbf{*}
 
 \end{document}
