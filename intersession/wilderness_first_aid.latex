@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6432)}}    % original
-%\rhead{\textrmlf{Compiled }\#6432\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6432\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6433)}}    % original
+%\rhead{\textrmlf{Compiled }\#6433\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6433\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -353,6 +353,8 @@ issues)}\label{abcs-to-address-urgent-issues}}
     wheezing
   \item
     swelling
+  \item
+    chest rise / fall (esp if laying down)
   \end{enumerate}
 \end{enumerate}
 
