@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6450)}}    % original
-%\rhead{\textrmlf{Compiled }\#6450\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6450\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6452)}}    % original
+%\rhead{\textrmlf{Compiled }\#6452\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6452\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -478,14 +478,46 @@ minutes?}\label{is-there-anything-that-will-be-a-threat-in-five-minutes}}
 \subsection{figuring out what is going
 on}\label{figuring-out-what-is-going-on}}
 
-\hypertarget{head-to-toe}{%
-\subsubsection{head to toe}\label{head-to-toe}}
+\hypertarget{overview}{%
+\subsubsection{overview}\label{overview}}
 
-\hypertarget{vital-signs}{%
-\subsubsection{vital signs}\label{vital-signs}}
+\begin{enumerate}
+\item
+  'make a diagnosis' or as close to one as possible
+\end{enumerate}
 
 \hypertarget{historysample}{%
 \subsubsection{history/SAMPLE}\label{historysample}}
+
+\begin{enumerate}
+\item
+  ask questions
+
+  \begin{enumerate}
+  \item
+    what happened?
+  \item
+    are you sick? did you eat something?
+  \item
+    get the story of the day
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{head-to-toe}{%
+\subsubsection{head to toe}\label{head-to-toe}}
+
+\begin{enumerate}
+\item
+  overview
+
+  \begin{enumerate}
+  \item
+    look and listen to see what's going on
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{vital-signs}{%
+\subsubsection{vital signs}\label{vital-signs}}
 
 \hypertarget{this-vs-that}{%
 \section{this vs that?}\label{this-vs-that}}
