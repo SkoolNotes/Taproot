@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6452)}}    % original
-%\rhead{\textrmlf{Compiled }\#6452\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6452\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6454)}}    % original
+%\rhead{\textrmlf{Compiled }\#6454\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6454\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -518,6 +518,45 @@ on}\label{figuring-out-what-is-going-on}}
 
 \hypertarget{vital-signs}{%
 \subsubsection{vital signs}\label{vital-signs}}
+
+\begin{enumerate}
+\item
+  overview
+
+  \begin{enumerate}
+  \item
+    cues about how the body is doing
+  \end{enumerate}
+\item
+  is
+
+  \begin{enumerate}
+  \item
+    heart rate
+  \item
+    respratory rate
+  \item
+    blood pressure (unlikely to have the equipment)
+  \item
+    pupils? bad if
+
+    \begin{enumerate}
+    \item
+      head injury - maybe diff pupil size
+    \item
+      not responding to light
+    \item
+      really large
+    \end{enumerate}
+  \item
+    mental state
+
+    \begin{enumerate}
+    \item
+      how conscious are they
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
 
 \hypertarget{this-vs-that}{%
 \section{this vs that?}\label{this-vs-that}}
