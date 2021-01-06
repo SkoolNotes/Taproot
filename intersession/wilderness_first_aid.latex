@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6448)}}    % original
-%\rhead{\textrmlf{Compiled }\#6448\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6448\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6449)}}    % original
+%\rhead{\textrmlf{Compiled }\#6449\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6449\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -445,8 +445,14 @@ issues)}\label{abcs-to-address-urgent-issues}}
       direct, well aimed pressure
     \item
       presssure dressing
+
+      \begin{enumerate}
+      \item
+        pack gauze on wound then wrap as tight as possible WITHOUT
+        cutting off bloodflow
+      \end{enumerate}
     \item
-      stuff the wound?
+      stuff the wound
     \item
       turniquet
 
