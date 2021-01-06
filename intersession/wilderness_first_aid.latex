@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6433)}}    % original
-%\rhead{\textrmlf{Compiled }\#6433\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6433\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6434)}}    % original
+%\rhead{\textrmlf{Compiled }\#6434\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6434\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -342,7 +342,7 @@ issues)}\label{abcs-to-address-urgent-issues}}
     damage to the lungs?
   \end{enumerate}
 \item
-  ways to see
+  ways to see (bad)
 
   \begin{enumerate}
   \item
@@ -353,6 +353,13 @@ issues)}\label{abcs-to-address-urgent-issues}}
     wheezing
   \item
     swelling
+  \end{enumerate}
+\item
+  ways to see (good)
+
+  \begin{enumerate}
+  \item
+    speaking / screaming (their airway is clear)
   \item
     chest rise / fall (esp if laying down)
   \end{enumerate}
