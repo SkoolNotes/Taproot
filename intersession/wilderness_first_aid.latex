@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6442)}}    % original
-%\rhead{\textrmlf{Compiled }\#6442\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6442\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6443)}}    % original
+%\rhead{\textrmlf{Compiled }\#6443\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6443\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -399,6 +399,8 @@ issues)}\label{abcs-to-address-urgent-issues}}
     \begin{enumerate}
     \item
       they should administer it themselves if able
+    \item
+      tripod position - lean them forwards or sitting up
     \end{enumerate}
   \end{enumerate}
 \end{enumerate}
