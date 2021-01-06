@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6479)}}    % original
-%\rhead{\textrmlf{Compiled }\#6479\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6479\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6480)}}    % original
+%\rhead{\textrmlf{Compiled }\#6480\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6480\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -752,9 +752,8 @@ cold)}\label{environmental-illness-very-hot-or-very-cold}}
 \hypertarget{dehydration-hyperthermia}{%
 \subsection{dehydration / hyperthermia}\label{dehydration-hyperthermia}}
 
-\hypertarget{heat-exhaustion-or-heat-stroke}{%
-\subsubsection{heat exhaustion or heat
-stroke}\label{heat-exhaustion-or-heat-stroke}}
+\hypertarget{heat-exhaustion}{%
+\subsubsection{heat exhaustion}\label{heat-exhaustion}}
 
 \hypertarget{symptoms-1}{%
 \subsubsection{symptoms}\label{symptoms-1}}
@@ -772,6 +771,15 @@ stroke}\label{heat-exhaustion-or-heat-stroke}}
   stumbling or spacey
 \item
   stop sweating is very bad
+\end{enumerate}
+
+\hypertarget{hyponutremia}{%
+\subsubsection{hyponutremia}\label{hyponutremia}}
+
+\begin{enumerate}
+\item
+  make sure they eat something (or get electrolytes) while drinking
+  water
 \end{enumerate}
 
 \end{document}
