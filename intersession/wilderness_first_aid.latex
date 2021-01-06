@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6447)}}    % original
-%\rhead{\textrmlf{Compiled }\#6447\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6447\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6448)}}    % original
+%\rhead{\textrmlf{Compiled }\#6448\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6448\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -444,7 +444,9 @@ issues)}\label{abcs-to-address-urgent-issues}}
     \item
       direct, well aimed pressure
     \item
-      stuff the wound
+      presssure dressing
+    \item
+      stuff the wound?
     \item
       turniquet
 
@@ -453,7 +455,8 @@ issues)}\label{abcs-to-address-urgent-issues}}
         you won't really come across a situation where this is the best
         option
       \item
-        only happens in a severed or nearly severed limb
+        only happens in a severed or nearly severed limb (if its
+        dangling/detatched)
       \item
         the patient will lose a limb
       \end{enumerate}
