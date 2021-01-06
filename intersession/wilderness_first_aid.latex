@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6419)}}    % original
-%\rhead{\textrmlf{Compiled }\#6419\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6419\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6420)}}    % original
+%\rhead{\textrmlf{Compiled }\#6420\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6420\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -230,6 +230,9 @@ wrong}\label{things-that-could-go-wrong}}
 
 \hypertarget{cardiovascular-system}{%
 \subsection{cardiovascular system}\label{cardiovascular-system}}
+
+\hypertarget{heart-vessels}{%
+\subsubsection{heart, vessels}\label{heart-vessels}}
 
 \hypertarget{integumetntary-system}{%
 \subsection{integumetntary system}\label{integumetntary-system}}
