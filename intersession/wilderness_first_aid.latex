@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6465)}}    % original
-%\rhead{\textrmlf{Compiled }\#6465\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6465\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6466)}}    % original
+%\rhead{\textrmlf{Compiled }\#6466\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6466\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -632,6 +632,19 @@ bad}\label{a-closed-break-is-not-so-bad-but-an-open-break-is-very-bad}}
       \item
         thin layer for creams and ointments
       \end{enumerate}
+    \end{enumerate}
+  \item
+    bandage it if:
+
+    \begin{enumerate}
+    \item
+      may get dirty again
+    \item
+      if it might bleed again
+    \item
+      maybe for comfort
+    \item
+      otherwise, open air is better
     \end{enumerate}
   \end{enumerate}
 \item
