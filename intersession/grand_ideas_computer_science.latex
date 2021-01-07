@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6498)}}    % original
-%\rhead{\textrmlf{Compiled }\#6498\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6498\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6499)}}    % original
+%\rhead{\textrmlf{Compiled }\#6499\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6499\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -234,5 +234,28 @@ theory}\label{computational-complexity-theory}}
 \subsection{how long it takes to compute the answer as a function of the
 input
 size}\label{how-long-it-takes-to-compute-the-answer-as-a-function-of-the-input-size}}
+
+\hypertarget{overview-of-presentation}{%
+\subsection{overview of presentation}\label{overview-of-presentation}}
+
+\hypertarget{methods-for-determining-computational-complexity}{%
+\subsubsection{methods for determining computational
+complexity}\label{methods-for-determining-computational-complexity}}
+
+\hypertarget{wide-variation-in-complexity-of-diff-problems}{%
+\subsubsection{wide variation in complexity of diff
+problems}\label{wide-variation-in-complexity-of-diff-problems}}
+
+\hypertarget{computationally-hard-problems-are-very-difficult}{%
+\subsubsection{computationally hard problems are very
+difficult}\label{computationally-hard-problems-are-very-difficult}}
+
+\hypertarget{some-problems-have-not-yet-been-proven}{%
+\subsubsection{some problems have not yet been
+proven}\label{some-problems-have-not-yet-been-proven}}
+
+\hypertarget{problems-have-been-grouped-into-equivalence-classes}{%
+\subsubsection{problems have been grouped into equivalence
+classes}\label{problems-have-been-grouped-into-equivalence-classes}}
 
 \end{document}
