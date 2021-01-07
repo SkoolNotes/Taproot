@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6499)}}    % original
-%\rhead{\textrmlf{Compiled }\#6499\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6499\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6500)}}    % original
+%\rhead{\textrmlf{Compiled }\#6500\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6500\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -257,5 +257,16 @@ proven}\label{some-problems-have-not-yet-been-proven}}
 \hypertarget{problems-have-been-grouped-into-equivalence-classes}{%
 \subsubsection{problems have been grouped into equivalence
 classes}\label{problems-have-been-grouped-into-equivalence-classes}}
+
+\hypertarget{big-o-notation}{%
+\section{big O notation}\label{big-o-notation}}
+
+\hypertarget{approximate-run-time-not-exact}{%
+\subsection{approximate run time (not
+exact)}\label{approximate-run-time-not-exact}}
+
+\hypertarget{how-the-time-scaleschanges}{%
+\subsection{how the time
+scales/changes}\label{how-the-time-scaleschanges}}
 
 \end{document}
