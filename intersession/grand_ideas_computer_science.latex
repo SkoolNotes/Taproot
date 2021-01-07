@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6494)}}    % original
-%\rhead{\textrmlf{Compiled }\#6494\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6494\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6495)}}    % original
+%\rhead{\textrmlf{Compiled }\#6495\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6495\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -215,5 +215,9 @@ E=mc\textsuperscript{2}}{describe invariant relationships like E=mc2}}\label{des
 \hypertarget{define-limits-on-what-is-possible-and-what-isnt}{%
 \subsection{define limits on what is possible and what
 isn't}\label{define-limits-on-what-is-possible-and-what-isnt}}
+
+\hypertarget{emergent-properties-like-in-ml}{%
+\subsection{emergent properties like in
+ML?}\label{emergent-properties-like-in-ml}}
 
 \end{document}
