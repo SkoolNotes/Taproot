@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6502)}}    % original
-%\rhead{\textrmlf{Compiled }\#6502\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6502\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6503)}}    % original
+%\rhead{\textrmlf{Compiled }\#6503\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6503\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -279,5 +279,17 @@ case}\label{complexity-to-add-n-numebers-or-convert-each-char-in-a-string-to-upp
 
 \hypertarget{linear}{%
 \subsubsection{linear}\label{linear}}
+
+\hypertarget{sorting}{%
+\subsection{sorting}\label{sorting}}
+
+\hypertarget{n-log-n}{%
+\subsubsection{n log n}\label{n-log-n}}
+
+\hypertarget{pixels}{%
+\subsection{pixels}\label{pixels}}
+
+\hypertarget{opixels}{%
+\subsubsection{O(pixels)}\label{opixels}}
 
 \end{document}
