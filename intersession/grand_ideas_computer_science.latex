@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6500)}}    % original
-%\rhead{\textrmlf{Compiled }\#6500\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6500\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6501)}}    % original
+%\rhead{\textrmlf{Compiled }\#6501\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6501\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -268,5 +268,15 @@ exact)}\label{approximate-run-time-not-exact}}
 \hypertarget{how-the-time-scaleschanges}{%
 \subsection{how the time
 scales/changes}\label{how-the-time-scaleschanges}}
+
+\hypertarget{examples}{%
+\section{examples}\label{examples}}
+
+\hypertarget{complexity-to-add-n-numebers}{%
+\subsection{complexity to add N
+numebers}\label{complexity-to-add-n-numebers}}
+
+\hypertarget{linear}{%
+\subsubsection{linear}\label{linear}}
 
 \end{document}
