@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6492)}}    % original
-%\rhead{\textrmlf{Compiled }\#6492\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6492\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6493)}}    % original
+%\rhead{\textrmlf{Compiled }\#6493\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6493\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -196,5 +196,12 @@ energy}\label{conservation-of-matter-energy}}
 
 \hypertarget{evolution}{%
 \subsection{evolution}\label{evolution}}
+
+\hypertarget{math}{%
+\subsection{math}\label{math}}
+
+\hypertarget{finding-relationships-abstract-things}{%
+\subsubsection{finding relationships (abstract
+things)}\label{finding-relationships-abstract-things}}
 
 \end{document}
