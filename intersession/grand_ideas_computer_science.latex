@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6503)}}    % original
-%\rhead{\textrmlf{Compiled }\#6503\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6503\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6504)}}    % original
+%\rhead{\textrmlf{Compiled }\#6504\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6504\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -291,5 +291,16 @@ case}\label{complexity-to-add-n-numebers-or-convert-each-char-in-a-string-to-upp
 
 \hypertarget{opixels}{%
 \subsubsection{O(pixels)}\label{opixels}}
+
+\hypertarget{traveling-salesman}{%
+\subsection{traveling salesman}\label{traveling-salesman}}
+
+\hypertarget{n-brute-force}{%
+\subsubsection{N! brute force}\label{n-brute-force}}
+
+\begin{enumerate}
+\item
+  very bad
+\end{enumerate}
 
 \end{document}
