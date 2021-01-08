@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6513)}}    % original
-%\rhead{\textrmlf{Compiled }\#6513\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6513\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6514)}}    % original
+%\rhead{\textrmlf{Compiled }\#6514\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6514\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -388,5 +388,14 @@ interface}\label{simple-application-interface}}
 \hypertarget{packet-switching-over-circuit-switching-wires-dont-move}{%
 \subsubsection{packet switching over circuit switching (wires don't
 move)}\label{packet-switching-over-circuit-switching-wires-dont-move}}
+
+\hypertarget{some-redundancy}{%
+\subsubsection{some redundancy}\label{some-redundancy}}
+
+\hypertarget{common-packet-protocol}{%
+\subsubsection{common packet protocol}\label{common-packet-protocol}}
+
+\hypertarget{routing-algorithms}{%
+\subsubsection{routing algorithms}\label{routing-algorithms}}
 
 \end{document}
