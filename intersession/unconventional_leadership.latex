@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6561)}}    % original
-%\rhead{\textrmlf{Compiled }\#6561\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6561\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6562)}}    % original
+%\rhead{\textrmlf{Compiled }\#6562\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6562\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -449,7 +449,9 @@ negotion}\label{monty-python-name-of-brian-negotion}}
 \item
   relationship might bring more money in the future
 \item
-  tax bracket?
+  tax bracket, or maybe his own supplier will rase the price
+\item
+  breadcast the message that the person is fair
 \end{enumerate}
 
 \end{document}
