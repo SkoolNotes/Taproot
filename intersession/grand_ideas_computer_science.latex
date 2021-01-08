@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6506)}}    % original
-%\rhead{\textrmlf{Compiled }\#6506\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6506\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6507)}}    % original
+%\rhead{\textrmlf{Compiled }\#6507\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6507\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -305,5 +305,22 @@ case}\label{complexity-to-add-n-numebers-or-convert-each-char-in-a-string-to-upp
   structure and interpretation of computer programs
   {\textsc{source}}~{\textsc{recommended}}
 \end{enumerate}
+
+\hypertarget{programs-are-complex-more-words-than-war-and-peace}{%
+\section{programs are complex (more words than war and
+peace)}\label{programs-are-complex-more-words-than-war-and-peace}}
+
+\hypertarget{programming-can-become-faster-by-developing-tools}{%
+\section{programming can become faster by developing
+tools}\label{programming-can-become-faster-by-developing-tools}}
+
+\hypertarget{languages-compilers-debuggers-editors-libraries-methodologies-code-repos}{%
+\subsection{languages, compilers, debuggers, editors, libraries,
+methodologies, code
+repos}\label{languages-compilers-debuggers-editors-libraries-methodologies-code-repos}}
+
+\hypertarget{missing-grand-idea-evaluating-languages-scientificly}{%
+\section{missing grand idea: evaluating languages
+scientificly}\label{missing-grand-idea-evaluating-languages-scientificly}}
 
 \end{document}
