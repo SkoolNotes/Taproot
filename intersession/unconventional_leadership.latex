@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6563)}}    % original
-%\rhead{\textrmlf{Compiled }\#6563\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6563\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6564)}}    % original
+%\rhead{\textrmlf{Compiled }\#6564\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6564\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -456,6 +456,9 @@ negotion}\label{monty-python-name-of-brian-negotion}}
 \item
   seller has more than just the short term interest of selling the one
   item
+\item
+  intentions may be hidden or counterintuitive, your job when
+  negotiating is to determine what interests are at stake {\textsc{sum}}
 \end{enumerate}
 
 \end{document}
