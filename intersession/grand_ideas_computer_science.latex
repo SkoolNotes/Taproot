@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6507)}}    % original
-%\rhead{\textrmlf{Compiled }\#6507\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6507\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6508)}}    % original
+%\rhead{\textrmlf{Compiled }\#6508\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6508\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -322,5 +322,9 @@ repos}\label{languages-compilers-debuggers-editors-libraries-methodologies-code-
 \hypertarget{missing-grand-idea-evaluating-languages-scientificly}{%
 \section{missing grand idea: evaluating languages
 scientificly}\label{missing-grand-idea-evaluating-languages-scientificly}}
+
+\hypertarget{people-adopt-languages-in-a-bandwagon-ey-way}{%
+\subsection{people adopt languages in a bandwagon-ey
+way}\label{people-adopt-languages-in-a-bandwagon-ey-way}}
 
 \end{document}
