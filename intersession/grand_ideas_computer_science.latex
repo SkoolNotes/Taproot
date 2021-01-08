@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6520)}}    % original
-%\rhead{\textrmlf{Compiled }\#6520\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6520\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6521)}}    % original
+%\rhead{\textrmlf{Compiled }\#6521\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6521\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -440,5 +440,12 @@ reasoning}\label{intelligence-knowledge-reasoning}}
 \hypertarget{agents-are-based-on-their-environment-specific}{%
 \subsection{agents are based on their environment
 (specific)}\label{agents-are-based-on-their-environment-specific}}
+
+\hypertarget{turing-test}{%
+\subsection{turing test}\label{turing-test}}
+
+\hypertarget{not-as-difficult-as-one-may-think}{%
+\subsubsection{not as difficult as one may
+think}\label{not-as-difficult-as-one-may-think}}
 
 \end{document}
