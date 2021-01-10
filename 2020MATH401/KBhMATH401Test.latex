@@ -116,8 +116,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ MATH401 }
-\newcommand{\thelesson}{ Limit Laws }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -133,7 +133,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6587)}}    % original
 %\rhead{\textrmlf{Compiled }\#6587\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#6587\textrmlf{ on} \today}       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -172,42 +172,9 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBMATH401ComputingLimits}{\tiny\textulf{[[}\textbf{KBMATH401ComputingLimits}\textulf{]]}}}\thinspace
 
-\hypertarget{limit-laws}{%
-\section{Limit Laws}\label{limit-laws}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-Here 'em:
-
-\begin{figure}
-\centering
-\includegraphics{./Screen Shot 2020-09-02 at 1.55.13 PM.png}
-\caption{Screen Shot 2020-09-02 at 1.55.13 PM.png}
-\end{figure}
-
-\hypertarget{trig-limits-squeeze-theorem}{%
-\subsection{Trig Limits + Squeeze
-Theorem!}\label{trig-limits-squeeze-theorem}}
-
-\begin{figure}
-\centering
-\includegraphics{./Screen Shot 2020-09-11 at 1.20.05 PM.png}
-\caption{Screen Shot 2020-09-11 at 1.20.05 PM.png}
-\end{figure}
-
-\textbf{Very logical theorem --- if two things ``enveloping functions''
-approach the same value, and the function in the middle will approach
-the same value}
-
-\#disorganized
-
-\begin{itemize}
-\tightlist
-\item
-  Dampening oscellation
-\item
-  Could be modeled with \(\frac{\sin x}{x}\)
-\end{itemize}
+KBhMATH401LimitLaws
 
 \end{document}
