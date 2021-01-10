@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6320)}}    % original
-%\rhead{\textrmlf{Compiled }\#6320\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6320\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6567)}}    % original
+%\rhead{\textrmlf{Compiled }\#6567\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6567\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,8 +180,17 @@
 \item
   {[}{[}KBhPHYS201GettingStarted{]}{]} Getting started with Physics
 \item
-  Exr0n Ret Index {[}{[}exr0n20phys201retIndex{]}{]} \# Electronics \#\#
-  Electrostatics
+  Exr0n Ret Index {[}{[}exr0n20phys201retIndex{]}{]}
+\end{itemize}
+
+\hypertarget{electronics}{%
+\section{Electronics}\label{electronics}}
+
+\hypertarget{electrostatics}{%
+\subsection{Electrostatics}\label{electrostatics}}
+
+\begin{itemize}
+\tightlist
 \item
   {[}{[}KBhPHYS201IntroToElectrostaticsLN{]}{]} Intro to Electrostatics
 \item
