@@ -21,3 +21,4 @@ Here 'em:
 * Dampening oscellation
 * Could be modeled with $\frac{\sin x}{x}$
 
+
