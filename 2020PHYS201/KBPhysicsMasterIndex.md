@@ -39,6 +39,9 @@ source: #index
 # Magnetism
 - [[KBhPHYS201MagneticSolids]]
 
+# Nuclear Physics
+- [[KBhPHYS201NuclearPhysics]] 
+
 # References
 * [[KBPHYS201ZachsPhysicsNotesForTest]] Physics quiz Notes
 
