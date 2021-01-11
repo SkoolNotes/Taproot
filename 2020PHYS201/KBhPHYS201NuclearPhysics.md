@@ -14,3 +14,5 @@ First of all, recall [[KBhPHYS201ColoumbsLaw]]. Given the force between two part
 Radiaction is the emition of waves — lights, heat, etc. etc. We call something "radioactive" if it emits ionizing radiation: that it has enough energy to liberate an electron from an atom.
 
 
+
+
