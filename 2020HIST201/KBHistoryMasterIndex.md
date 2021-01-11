@@ -102,7 +102,7 @@ source: #index
 ## Unit 4: WWI w.r.t. Early European BOP
 - CN2021011 [[KBhHIST201WWI]] 
 
-# Essays
+## Essays
 * Essay 1
     * [[KBhHIST201KennedyStillHoldsUp]]
 	* [[KBe20hist201retKennedyEssay]]
