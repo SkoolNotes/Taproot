@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6611)}}    % original
-%\rhead{\textrmlf{Compiled }\#6611\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6611\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6612)}}    % original
+%\rhead{\textrmlf{Compiled }\#6612\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6612\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -195,5 +195,8 @@ another}\label{an-invertible-bijective-map-from-one-vetorspace-to-another}}
 \subsection{an operator (map from a vector space to itself) is bijective
 iff it is surjective or
 injective}\label{an-operator-map-from-a-vector-space-to-itself-is-bijective-iff-it-is-surjective-or-injective}}
+
+\hypertarget{d-exercises}{%
+\section{3D Exercises}\label{d-exercises}}
 
 \end{document}
