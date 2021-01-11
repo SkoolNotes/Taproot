@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6695)}}    % original
-%\rhead{\textrmlf{Compiled }\#6695\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6695\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6696)}}    % original
+%\rhead{\textrmlf{Compiled }\#6696\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6696\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -238,6 +238,7 @@ atoms' masses could be deducted by just counting the number of
 neutrons+protons.\_Electron
 capture\_\includegraphics{electroncapture.png}In this case, you will
 gain one neutron by simply capturing an electron out of thin air and
-merge it into a proton.\includegraphics{betadecayformal.png}
+merge it into a proton with the help of an
+antineutrino.\includegraphics{betadecayformal.png}
 
 \end{document}
