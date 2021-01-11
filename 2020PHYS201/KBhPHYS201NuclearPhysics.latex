@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6638)}}    % original
-%\rhead{\textrmlf{Compiled }\#6638\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6638\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6639)}}    % original
+%\rhead{\textrmlf{Compiled }\#6639\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6639\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -205,5 +205,9 @@ there is a certain rate called ``dead time'' during which Geiger
 counters simply sit and do nothing. As such, we have to account for this
 lossy ``deadtime'' of Geiger counters by relating the two values with
 the following equation
+
+\(T = \frac{M}{1-(M/L}\), where \(M\) is the measured rate of radiation
+and \(L\) is the ``dead time'' --- the upper limit of the Geiger counter
+in question.
 
 \end{document}
