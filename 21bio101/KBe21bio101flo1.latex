@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6711)}}    % original
-%\rhead{\textrmlf{Compiled }\#6711\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6711\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6712)}}    % original
+%\rhead{\textrmlf{Compiled }\#6712\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6712\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -176,5 +176,9 @@
 
 \hypertarget{intersession-chat}{%
 \section{intersession chat}\label{intersession-chat}}
+
+\hypertarget{getting-a-feel-for-the-class}{%
+\section{getting a feel for the
+class}\label{getting-a-feel-for-the-class}}
 
 \end{document}
