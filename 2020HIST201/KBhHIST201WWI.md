@@ -10,4 +10,7 @@ course: HIST201
 - Less papers (2)
 - First paper next week! Causes of WWI.
 
+**First, a free-write**: why does war exist? Are they products of failure in other realms or logical products of global systems? What would be required to put an end to war? Is there just/good/ethical wars.
+
+War exists when traditional systems of deplomacy 
 
