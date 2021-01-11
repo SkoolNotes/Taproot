@@ -12,5 +12,5 @@ course: HIST201
 
 **First, a free-write**: why does war exist? Are they products of failure in other realms or logical products of global systems? What would be required to put an end to war? Is there just/good/ethical wars.
 
-War exists when traditional systems of diplomacy failed to produce an adequate enough solution that pleases both parties. They are logical products of perhaps not global systems but the sheer competitive and animistic nature of human beings. Because wars are generally more binary things than traditional diplomacy
+War exists when traditional systems of diplomacy failed to produce an adequate enough solution that pleases both parties. They are logical products of perhaps not global systems but the sheer competitive and animistic nature of human beings. Because wars are generally more binary things than traditional diplomacy (enemies are bad, allies are good, kill the enemies, support the allies), they are 
 
