@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6669)}}    % original
-%\rhead{\textrmlf{Compiled }\#6669\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6669\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6671)}}    % original
+%\rhead{\textrmlf{Compiled }\#6671\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6671\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -214,6 +214,7 @@ talk about just ``beta-decay'', they are talking about beta-minus
 decay.In this case, an element decays from the parent element into a
 different nucleus.\includegraphics{betaminusdecay.png}In this case, the
 nucleus gained a proton and lost a neutron. What happened? A neutron in
-the nucleus
+the nucleus turned into a positive proton and a negative electron. The
+newly-formed electron comes flying out as a ``beta-minus'' particle.
 
 \end{document}
