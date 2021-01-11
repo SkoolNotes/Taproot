@@ -18,4 +18,8 @@ This animistic and binary nature also means that wars could only end when one of
 
 Because ethical standards are a humanistic construct, wars — an animistic action — could never really be ethical.
 
+***
+
+- Conflicts naturally happen
+
 

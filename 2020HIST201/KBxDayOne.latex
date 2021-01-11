@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6728)}}    % original
-%\rhead{\textrmlf{Compiled }\#6728\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6728\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6729)}}    % original
+%\rhead{\textrmlf{Compiled }\#6729\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6729\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -229,5 +229,11 @@
   \item
   \end{itemize}
 \end{itemize}
+
+\begin{verbatim}
+**In groups, discuss and compare your ideas on the origins of war, the possibilities of its eradication, and its justness/unjustness. 
+
+Look for points of agreement and disagreement and be prepared to share.**
+\end{verbatim}
 
 \end{document}

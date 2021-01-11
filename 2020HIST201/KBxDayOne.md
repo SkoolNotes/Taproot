@@ -33,6 +33,25 @@ source:  #index
     - 
 
 
+```
+**In groups, discuss and compare your ideas on the origins of war, the possibilities of its eradication, and its justness/unjustness. 
+
+Look for points of agreement and disagreement and be prepared to share.**
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
