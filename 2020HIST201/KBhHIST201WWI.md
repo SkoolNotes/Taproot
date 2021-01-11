@@ -24,7 +24,7 @@ Animistic? Animals have wars. Even coordinated wars like ants do.
 
 - Conflicts naturally happen, but wars are more difficult to say
 	- Globalized wars is slightly more unnatural compared to localized conflicts
-	- 
+	- However, fundamentally animistic
 	
 
 
