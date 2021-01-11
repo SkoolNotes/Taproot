@@ -12,6 +12,9 @@ author: Houjun Liu
 - Sobo Mahen => ghosted
 - Grade level, reception, etc. are different
 
-- Taken Nueva parent feedback 
+- Taken Nueva parent feedback
+- New version has a more kid friendly vocab
+- Encorporating a mentorship-feeling touchpoint
+
 
 
