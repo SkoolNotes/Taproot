@@ -99,6 +99,9 @@ source: #index
 ### Class Flos
 - Sushu's Rapid Fire Japan [[KBhHIST201JapanClassFlo]]
 
+## Unit 4: WWI w.r.t. Early European BOP
+- CN2021011 [[KBhHIST201WWI]] 
+
 # Essays
 * Essay 1
     * [[KBhHIST201KennedyStillHoldsUp]]
