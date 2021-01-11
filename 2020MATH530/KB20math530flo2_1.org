@@ -8,3 +8,4 @@
 ** an operator (map from a vector space to itself) is bijective iff it is surjective or injective
 * 3D Exercises
 ** Axler3D.3
+*** suppose $V$ is finite-dimensional, $U$ is a supspace of $V$, and $S \in \mathcal L(U, V)$. Prove there exists an invertible operator $T \in \mathcal L(V)$ s.t. $Tu = Su$ for every $u \in U$ iff $S$ is injective
