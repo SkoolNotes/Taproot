@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6686)}}    % original
-%\rhead{\textrmlf{Compiled }\#6686\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6686\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6690)}}    % original
+%\rhead{\textrmlf{Compiled }\#6690\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6690\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -226,7 +226,11 @@ in a neutron.Wait\ldots{} But
 makes sense, because it would been energetically favorable as a neutron
 is \emph{slightly} more massive and hence will loose some of the mass
 during beta-minus decay. But, during beta-plus decay, the reactants are
-less massive than the
-product\ldots{}\includegraphics{betadecayisreallybackwards.png}\includegraphics{betadecayformal.png}
+less massive than the product (!!) --- so thermally it won't really work
+out.\includegraphics{betadecayisreallybackwards.png}So, in order to
+actually create beta-plus decay, you have to shove the protons,
+antimatter, etc. together really fast with some kinetic energy. Or, this
+could happen spontaneously as long as the mass of the daughter
+atom\includegraphics{betadecayformal.png}
 
 \end{document}
