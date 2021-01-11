@@ -21,3 +21,5 @@ Because of the fact that Geiger counters require time to discharge, there is a c
 $T = \frac{M}{1-(M/L)}$, where $M$ is the measured rate of radiation and $L$ is the "dead time" — the upper limit of the Geiger counter in question.
 
 
+
+
