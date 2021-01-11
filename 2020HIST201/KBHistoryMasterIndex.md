@@ -99,8 +99,6 @@ source: #index
 ### Class Flos
 - Sushu's Rapid Fire Japan [[KBhHIST201JapanClassFlo]]
 
-## Unit 4: 
-
 # Essays
 * Essay 1
     * [[KBhHIST201KennedyStillHoldsUp]]
@@ -123,4 +121,4 @@ source: #index
 ## Meta References
 - [[20hist201refTechniques]]
 
-
+## Semester Two
