@@ -11,6 +11,6 @@ First of all, recall [[KBhPHYS201ColoumbsLaw]]. Given the force between two part
 #compilefromnote
 
 ## Radioactivity
-
+Radiaction is the emittion wave --- 
 
 
