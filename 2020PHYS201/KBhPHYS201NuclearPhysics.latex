@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6659)}}    % original
-%\rhead{\textrmlf{Compiled }\#6659\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6659\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6660)}}    % original
+%\rhead{\textrmlf{Compiled }\#6660\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6660\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -252,6 +252,8 @@ formally\ldots{}
 \includegraphics{alphadecaybetter.png}
 
 \textbf{Gamma Decay}
+
+Instead of splitting part of the nucleus, gamma decay spits
 
 \includegraphics{gammadecaybetter.png}
 
