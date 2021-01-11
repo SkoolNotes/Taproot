@@ -49,5 +49,3 @@ source: #index
 * 10092020 [[KBhBIO101BioMoleculesQuizReview]]
 * 11302020 [[KBhBIO101CentralDogmaQuizReview]]
 
-Here's a test: [[KBhBIO101TestDoc]] 
-
