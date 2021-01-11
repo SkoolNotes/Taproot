@@ -30,6 +30,6 @@ Bellicist theory: states happen to mak war
 
 ***
 
-If war-making could be disconnected from the drive of wealth,
+If war-making could be disconnected from the drive of wealth, wars will probably happen less!
 
 
