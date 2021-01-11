@@ -16,5 +16,3 @@ author: Houjun Liu
 - New version has a more kid friendly vocab
 - Encorporating a mentorship-feeling touchpoint
 
-
-
