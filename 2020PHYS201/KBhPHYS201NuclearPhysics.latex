@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6681)}}    % original
-%\rhead{\textrmlf{Compiled }\#6681\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6681\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6683)}}    % original
+%\rhead{\textrmlf{Compiled }\#6683\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6683\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -218,8 +218,10 @@ neutron in the nucleus turned into a positive proton and a negative
 electron. The newly-formed electron comes flying out as a ``beta-minus''
 particle. Also, this process creates an ``antineutrino'', which is a
 tiny, charge-less element that will become important later.\_Beta plus
-decay\_This is the opposite of beta-minus decay. The element takes one
-of its
-protons\includegraphics{betaplusdecay.png}\includegraphics{betadecayformal.png}
+decay\_\includegraphics{betaplusdecay.png}This is the opposite of
+beta-minus decay. The element takes one of its protons away, merge it
+with a positron (a positive electron, this is antimatter), and results
+in a
+neutron.\includegraphics{betadecaybackwards.png}\includegraphics{betadecayformal.png}
 
 \end{document}
