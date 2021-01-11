@@ -12,5 +12,5 @@ course: HIST201
 
 **First, a free-write**: why does war exist? Are they products of failure in other realms or logical products of global systems? What would be required to put an end to war? Is there just/good/ethical wars.
 
-War exists when traditional systems of deplomacy 
+War exists when traditional systems of diplomacy failed to produce an adequate 
 
