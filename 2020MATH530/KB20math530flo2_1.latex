@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6614)}}    % original
-%\rhead{\textrmlf{Compiled }\#6614\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6614\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6615)}}    % original
+%\rhead{\textrmlf{Compiled }\#6615\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6615\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -202,11 +202,15 @@ injective}\label{an-operator-map-from-a-vector-space-to-itself-is-bijective-iff-
 \hypertarget{axler3d.3}{%
 \subsection{Axler3D.3}\label{axler3d.3}}
 
-\hypertarget{suppose-v-is-finite-dimensional-u-is-a-supspace-of-v-and-s-in-mathcal-lu-v.-prove-there-exists-an-invertible-operator-t-in-mathcal-lv-s.t.-tu-su-for-every-u-in-u-iff-s-is-surjective}{%
+\hypertarget{suppose-v-is-finite-dimensional-u-is-a-supspace-of-v-and-s-in-mathcal-lu-v.-prove-there-exists-an-invertible-operator-t-in-mathcal-lv-s.t.-tu-su-for-every-u-in-u-iff-s-is-injective}{%
 \subsubsection{\texorpdfstring{suppose \(V\) is finite-dimensional,
 \(U\) is a supspace of \(V\), and \(S \in \mathcal L(U, V)\). Prove
 there exists an invertible operator \(T \in \mathcal L(V)\) s.t.
 \(Tu = Su\) for every \(u \in U\) iff \(S\) is
-surjective}{suppose V is finite-dimensional, U is a supspace of V, and S \textbackslash in \textbackslash mathcal L(U, V). Prove there exists an invertible operator T \textbackslash in \textbackslash mathcal L(V) s.t. Tu = Su for every u \textbackslash in U iff S is surjective}}\label{suppose-v-is-finite-dimensional-u-is-a-supspace-of-v-and-s-in-mathcal-lu-v.-prove-there-exists-an-invertible-operator-t-in-mathcal-lv-s.t.-tu-su-for-every-u-in-u-iff-s-is-surjective}}
+injective}{suppose V is finite-dimensional, U is a supspace of V, and S \textbackslash in \textbackslash mathcal L(U, V). Prove there exists an invertible operator T \textbackslash in \textbackslash mathcal L(V) s.t. Tu = Su for every u \textbackslash in U iff S is injective}}\label{suppose-v-is-finite-dimensional-u-is-a-supspace-of-v-and-s-in-mathcal-lu-v.-prove-there-exists-an-invertible-operator-t-in-mathcal-lv-s.t.-tu-su-for-every-u-in-u-iff-s-is-injective}}
+
+\hypertarget{maybe-s-needs-to-be-an-operator-on-mathcal-lu}{%
+\subsubsection{\texorpdfstring{maybe \(S\) needs to be an operator on
+\(\mathcal L(U)\)?}{maybe S needs to be an operator on \textbackslash mathcal L(U)?}}\label{maybe-s-needs-to-be-an-operator-on-mathcal-lu}}
 
 \end{document}
