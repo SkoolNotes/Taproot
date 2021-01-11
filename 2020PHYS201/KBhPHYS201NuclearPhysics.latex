@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6657)}}    % original
-%\rhead{\textrmlf{Compiled }\#6657\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6657\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6659)}}    % original
+%\rhead{\textrmlf{Compiled }\#6659\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6659\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -250,5 +250,11 @@ part of itself to get rid of 2 protons and 2 neutrons. So,
 formally\ldots{}
 
 \includegraphics{alphadecaybetter.png}
+
+\textbf{Gamma Decay}
+
+\includegraphics{gammadecaybetter.png}
+
+\includegraphics{gammadecay.png}
 
 \end{document}

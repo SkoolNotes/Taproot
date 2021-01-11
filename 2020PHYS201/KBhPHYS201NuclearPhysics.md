@@ -44,6 +44,11 @@ During alpha decay, a massive nucleolus spits out a Helium-resulting part of its
 
 ![](alphadecaybetter.png)
 
+**Gamma Decay**
+
+![](gammadecaybetter.png)
+
+![](gammadecay.png)
 
 
 
