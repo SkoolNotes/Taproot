@@ -34,3 +34,13 @@ This could be seen by how these three types of charge curve into a magnetic fiel
 
 Why? Apply right hand rule 1.5.
 
+
+### Creating a ray
+**Alpha Decay**:
+
+![](alphadecay.png)
+
+During alpha decay, a massive nucleaus spits out a part of itself
+
+![](alphadecaybetter.png)
+
