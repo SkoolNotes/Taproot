@@ -34,4 +34,5 @@ If war-making could be disconnected from the drive of wealth, wars will probably
  
 *** 
 
+Wars are games where the balance between individuals
 
