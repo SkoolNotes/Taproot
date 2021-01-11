@@ -116,8 +116,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Hist Day One }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -130,10 +130,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6726)}}    % original
-%\rhead{\textrmlf{Compiled }\#6726\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6726\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6728)}}    % original
+%\rhead{\textrmlf{Compiled }\#6728\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6728\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -172,9 +172,62 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
 \#flo \#ref \#ret \#disorganized \#incomplete
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{here.-we.-go.}{%
+\section{Here. We. Go.}\label{here.-we.-go.}}
+
+\begin{itemize}
+\tightlist
+\item
+  Why does war exist? Are they products of failure in other realms or
+  logical products of global systems?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    war has heavy economic benifits -- war is heaviliy profitable.
+  \item
+    war for resources, war for morality -- ``this is right, and we will
+    fight for it!''
+  \item
+    also war for resources disuised as war for morality
+  \end{itemize}
+\item
+  What would be required to put an end to war?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    heaviliy dependent on the war, and the nature of the war.
+  \item
+    very importyant question. one side conceding would do it.
+  \item
+    running out of financial resource? end by exaustion?
+  \item
+    wars end when one side gives up (not when one side wins).
+  \end{itemize}
+\item
+  Is there such a thing as a just (or good, ethical, righteous) war?
+  Why/why not?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    this is not a question i am prepared to answer while still debating
+    the very meaning of `good.'
+  \item
+    utilitarian perspective, if the war reduces overall pain or
+    suffering (bad?) then yes, it is good.
+  \item
+    if going to war is the choice of the people, ..
+  \item
+  \end{itemize}
+\end{itemize}
 
 \end{document}

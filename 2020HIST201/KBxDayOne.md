@@ -1,7 +1,7 @@
 ---
-title:   
-context: 
-author:  
+title: Hist Day One
+context: HIST201
+author:  Huxley
 source:  #index
 ---
 
@@ -10,6 +10,7 @@ source:  #index
 
 ---
 
+# Here. We. Go.
 
 
 - Why does war exist? Are they products of failure in other realms or logical products of global systems?

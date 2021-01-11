@@ -16,5 +16,6 @@ War exists when traditional systems of diplomacy failed to produce an adequate e
 
 This animistic and binary nature also means that wars could only end when one of both of the conditions fail: either the parties agree to compromise — an act that elevates them from the realms of the "beast" to that of the "person" — or one party dominate the other, which upsets the binary nature of conflict and reduces the action to the direct action of dominance.
 
-Because ethical standards 
+Because ethical standards are a humanistic construct, wars — an animistic action — could never really be ethical.
+
 
