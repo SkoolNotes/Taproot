@@ -30,3 +30,5 @@ This could be seen by how these three types of charge curve into a magnetic fiel
 
 ![](alphabetagamma.png)
 
+Why? Apply right hand rule 1.5.
+
