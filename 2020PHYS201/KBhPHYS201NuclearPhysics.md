@@ -20,6 +20,12 @@ Because of the fact that Geiger counters require time to discharge, there is a c
 
 $T = \frac{M}{1-(M/L)}$, where $M$ is the measured rate of radiation and $L$ is the "dead time" — the upper limit of the Geiger counter in question.
 
+### Radio Charge Types
 
+- $\alpha$: positively charged + relatively massive (low $\frac{q}{m}$)
+- $\beta$: negatively charged + relatively high charge (high $\frac{q}{m}$)
+- $\gamma$: neutral
+
+This could be seen by how these three types of charge curve into a magnetic field.
 
 

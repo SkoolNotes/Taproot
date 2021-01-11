@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6642)}}    % original
-%\rhead{\textrmlf{Compiled }\#6642\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6642\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6645)}}    % original
+%\rhead{\textrmlf{Compiled }\#6645\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6645\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -209,5 +209,23 @@ the following equation
 \(T = \frac{M}{1-(M/L)}\), where \(M\) is the measured rate of radiation
 and \(L\) is the ``dead time'' --- the upper limit of the Geiger counter
 in question.
+
+\hypertarget{radio-charge-types}{%
+\subsubsection{Radio Charge Types}\label{radio-charge-types}}
+
+\begin{itemize}
+\tightlist
+\item
+  \(\alpha\): positively charged + relatively massive (low
+  \(\frac{q}{m}\))
+\item
+  \(\beta\): negatively charged + relatively high charge (high
+  \(\frac{q}{m}\))
+\item
+  \(\gamma\): neutral
+\end{itemize}
+
+This could be seen by how these three types of charge curve into a
+magnetic field.
 
 \end{document}
