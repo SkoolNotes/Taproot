@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6636)}}    % original
-%\rhead{\textrmlf{Compiled }\#6636\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6636\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6637)}}    % original
+%\rhead{\textrmlf{Compiled }\#6637\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6637\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -201,6 +201,8 @@ enough energy to liberate an electron from an atom.
 \#inserthowgeigercountersowrk
 
 Because of the fact that Geiger counters require time to discharge,
-there is a certain rate called ``dead time''
+there is a certain rate called ``dead time'' during which Geiger
+counters simply sit and do nothing. As such, we have to account for this
+lossy ``deadtime'' of Geiger counters by relating the two values
 
 \end{document}

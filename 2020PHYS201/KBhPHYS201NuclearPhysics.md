@@ -16,6 +16,6 @@ Radiation is the emition of waves — lights, heat, etc. etc. We call something 
 ### Geiger Counter
 #inserthowgeigercountersowrk
 
-Because of the fact that Geiger counters require time to discharge, there is a certain rate called "dead time" 
+Because of the fact that Geiger counters require time to discharge, there is a certain rate called "dead time" during which Geiger counters simply sit and do nothing. As such, we have to account for this lossy "deadtime" of Geiger counters by relating the two values
 
 
