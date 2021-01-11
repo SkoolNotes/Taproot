@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6683)}}    % original
-%\rhead{\textrmlf{Compiled }\#6683\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6683\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6685)}}    % original
+%\rhead{\textrmlf{Compiled }\#6685\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6685\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -221,7 +221,9 @@ tiny, charge-less element that will become important later.\_Beta plus
 decay\_\includegraphics{betaplusdecay.png}This is the opposite of
 beta-minus decay. The element takes one of its protons away, merge it
 with a positron (a positive electron, this is antimatter), and results
-in a
-neutron.\includegraphics{betadecaybackwards.png}\includegraphics{betadecayformal.png}
+in a neutron.Wait\ldots{} But
+\emph{how}?\includegraphics{betadecaybackwards.png}Beta-minus decay
+makes sense, because it would been energetically favorable as a neutron
+is \emph{slightly} more massive\includegraphics{betadecayformal.png}
 
 \end{document}
