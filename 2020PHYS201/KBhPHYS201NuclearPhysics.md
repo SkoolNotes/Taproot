@@ -11,11 +11,11 @@ First of all, recall [[KBhPHYS201ColoumbsLaw]]. Given the force between two part
 #compilefromnote
 
 ## Radioactivity
-Radiaction is the emition of waves — lights, heat, etc. etc. We call something "radioactive" if it emits ionizing radiation: that it has enough energy to liberate an electron from an atom.
+Radiation is the emition of waves — lights, heat, etc. etc. We call something "radioactive" if it emits ionizing radiation: that it has enough energy to liberate an electron from an atom.
 
 ### Geiger Counter
 #inserthowgeigercountersowrk
 
-Because of the fact that geiger counters require time to discharge, there is a ceartain rate called "dead time" 
+Because of the fact that geiger counters require time to discharge, there is a certain rate called "dead time" 
 
 

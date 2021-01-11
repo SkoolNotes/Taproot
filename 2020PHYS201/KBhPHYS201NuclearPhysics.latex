@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6634)}}    % original
-%\rhead{\textrmlf{Compiled }\#6634\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6634\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6635)}}    % original
+%\rhead{\textrmlf{Compiled }\#6635\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6635\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -191,7 +191,7 @@ electron=\textgreater electron).
 \hypertarget{radioactivity}{%
 \subsection{Radioactivity}\label{radioactivity}}
 
-Radiaction is the emition of waves --- lights, heat, etc. etc. We call
+Radiation is the emition of waves --- lights, heat, etc. etc. We call
 something ``radioactive'' if it emits ionizing radiation: that it has
 enough energy to liberate an electron from an atom.
 
@@ -201,6 +201,6 @@ enough energy to liberate an electron from an atom.
 \#inserthowgeigercountersowrk
 
 Because of the fact that geiger counters require time to discharge,
-there is a ceartain rate called ``dead time''
+there is a certain rate called ``dead time''
 
 \end{document}
