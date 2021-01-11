@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6713)}}    % original
-%\rhead{\textrmlf{Compiled }\#6713\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6713\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6714)}}    % original
+%\rhead{\textrmlf{Compiled }\#6714\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6714\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,5 +186,9 @@ class}\label{getting-a-feel-for-the-class}}
 
 \hypertarget{breakout-activity}{%
 \section{breakout activity}\label{breakout-activity}}
+
+\hypertarget{find-a-popscience-article-on-biology-ish}{%
+\subsection{find a popscience article on
+biology-ish}\label{find-a-popscience-article-on-biology-ish}}
 
 \end{document}
