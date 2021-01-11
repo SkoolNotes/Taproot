@@ -83,9 +83,6 @@ source: #index
 - [[KBhHIST201LiberalismAndNationalism]]: [[KBhHIST201Nationalism]] and [[KBhHIST201Liberalism]]
 - The [[KBhHIST201IndustrialRevolution]] + its [[KBhHIST201ImpactsofIR]]
 
-## Unit 4
-
-
 ### Reading Flos
 
 - Mason + Kennedy [[KBhHIST201MasonAndKennedy]]
