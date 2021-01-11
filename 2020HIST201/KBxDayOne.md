@@ -14,8 +14,9 @@ source:  #index
 
 
 - Why does war exist? Are they products of failure in other realms or logical products of global systems?
-    - war has heavy economic benifits -- war is heaviliy profitable. 
+    - war has heavy economic benifits -- war is heaviliy profitable 
     - war for resources, war for morality -- "this is right, and we will fight for it!" 
+		- I missed this: war for social cohession? whats the broader catagory? 
 	- also war for resources disuised as war for morality
 
 
