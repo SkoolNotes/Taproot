@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6622)}}    % original
-%\rhead{\textrmlf{Compiled }\#6622\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6622\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6623)}}    % original
+%\rhead{\textrmlf{Compiled }\#6623\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6623\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,6 +180,8 @@
 
 First of all, recall {[}{[}KBhPHYS201ColoumbsLaw{]}{]}. Given the force
 between two particles is \(\frac{kQ^2}{R^2}\), we could hand-wavily
-calculate the \emph{work} between two particles in
+calculate the \emph{work} between two particles if we know how much they
+travel near/far from each other. Through this, we could show that
+nuclear forces are much larger than the
 
 \end{document}
