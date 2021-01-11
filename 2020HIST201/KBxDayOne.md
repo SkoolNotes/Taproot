@@ -25,6 +25,8 @@ source:  #index
     - very importyant question. one side conceding would do it. 
     - running out of financial resource? end by exaustion? 
     - wars end when one side gives up (not when one side wins). 
+	
+	- I READ TRHE QUESTION WRONG: I read it as a war
 
 
 - Is there such a thing as a just (or good, ethical, righteous) war? Why/why not?
