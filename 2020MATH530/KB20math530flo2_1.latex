@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6609)}}    % original
-%\rhead{\textrmlf{Compiled }\#6609\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6609\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6610)}}    % original
+%\rhead{\textrmlf{Compiled }\#6610\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6610\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -183,5 +183,12 @@
 \hypertarget{tutorial-probably-tuesdays-and-thursdays-at-lunch}{%
 \subsection{tutorial: probably tuesdays and thursdays at
 lunch}\label{tutorial-probably-tuesdays-and-thursdays-at-lunch}}
+
+\hypertarget{isomorphisms}{%
+\section{isomorphisms}\label{isomorphisms}}
+
+\hypertarget{an-invertible-bijective-map-from-one-vetorspace-to-another}{%
+\subsection{an invertible / bijective map from one vetorspace to
+another}\label{an-invertible-bijective-map-from-one-vetorspace-to-another}}
 
 \end{document}
