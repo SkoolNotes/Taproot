@@ -30,7 +30,7 @@ $T = \frac{M}{1-(M/L)}$, where $M$ is the measured rate of radiation and $L$ is 
 
 This could be seen by how these three types of charge curve into a magnetic field.
 
-![](alphabetagamma.png)
+![Different charges in a magnetic field](alphabetagamma.png)
 
 Why? Apply right hand rule 1.5.
 

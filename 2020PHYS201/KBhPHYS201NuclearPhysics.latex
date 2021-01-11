@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6652)}}    % original
-%\rhead{\textrmlf{Compiled }\#6652\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6652\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6654)}}    % original
+%\rhead{\textrmlf{Compiled }\#6654\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6654\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -230,7 +230,11 @@ in question.
 This could be seen by how these three types of charge curve into a
 magnetic field.
 
+\begin{figure}
+\centering
 \includegraphics{alphabetagamma.png}
+\caption{Different charges in a magnetic field}
+\end{figure}
 
 Why? Apply right hand rule 1.5.
 
