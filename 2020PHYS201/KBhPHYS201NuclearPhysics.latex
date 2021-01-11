@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6690)}}    % original
-%\rhead{\textrmlf{Compiled }\#6690\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6690\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6691)}}    % original
+%\rhead{\textrmlf{Compiled }\#6691\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6691\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -230,7 +230,11 @@ less massive than the product (!!) --- so thermally it won't really work
 out.\includegraphics{betadecayisreallybackwards.png}So, in order to
 actually create beta-plus decay, you have to shove the protons,
 antimatter, etc. together really fast with some kinetic energy. Or, this
-could happen spontaneously as long as the mass of the daughter
-atom\includegraphics{betadecayformal.png}
+could happen spontaneously as long as the mass of the daughter atom is
+smaller than the mass of the parent (as in\ldots{} as long as mass of
+daghter + mass of antielectron + mass of nutrino \textless{} mass of
+parent, this should work.) To make sense of this, stop thinking that
+atoms' masses could be deducted by just counting the number of
+neutrons+protons.\includegraphics{betadecayformal.png}
 
 \end{document}
