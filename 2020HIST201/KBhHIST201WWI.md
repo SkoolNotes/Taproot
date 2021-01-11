@@ -20,7 +20,11 @@ Because ethical standards are a humanistic construct, wars — an animistic acti
 
 ***
 
+Animistic? Animals have wars. Even coordinated wars like ants do.
+
 - Conflicts naturally happen, but wars are more difficult to say
-	- Globalized wars makes
+	- Globalized wars is slightly more unnatural compared to localized conflicts
+	- 
+	
 
 

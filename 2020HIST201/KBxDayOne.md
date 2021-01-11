@@ -27,6 +27,7 @@ source:  #index
     - wars end when one side gives up (not when one side wins). 
 	
 	- I READ TRHE QUESTION WRONG: I read it as a war
+	- war the way we know it is ending, due to MAD. 
 
 
 - Is there such a thing as a just (or good, ethical, righteous) war? Why/why not?
