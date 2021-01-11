@@ -45,5 +45,3 @@ source: #index
 # Misc 
 * [[KBxPhysSelvEval2020]]
  
-
-
