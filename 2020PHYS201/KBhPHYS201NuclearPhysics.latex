@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6627)}}    % original
-%\rhead{\textrmlf{Compiled }\#6627\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6627\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6628)}}    % original
+%\rhead{\textrmlf{Compiled }\#6628\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6628\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -191,6 +191,6 @@ electron=\textgreater electron).
 \hypertarget{radioactivity}{%
 \subsection{Radioactivity}\label{radioactivity}}
 
-Radiaction is the emittion wave ---
+Radiaction is the emition of waves ---
 
 \end{document}
