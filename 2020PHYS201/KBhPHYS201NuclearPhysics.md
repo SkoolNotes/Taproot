@@ -46,12 +46,11 @@ During alpha decay, a massive nucleolus spits out a Helium-resulting part of its
 
 **Gamma Decay**
 
-Instead of splitting part of the nucleus, gamma decay spits
+Instead of splitting part of the nucleus, gamma decay spits an electrically excited (so... chemistry, charged, energy level, that stuff) atom into a normal, non-excited atom and also emits a photon.
 
 ![](gammadecaybetter.png)
 
 ![](gammadecay.png)
-
 
 
 

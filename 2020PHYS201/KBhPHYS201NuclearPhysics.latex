@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6660)}}    % original
-%\rhead{\textrmlf{Compiled }\#6660\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6660\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6661)}}    % original
+%\rhead{\textrmlf{Compiled }\#6661\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6661\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -253,7 +253,9 @@ formally\ldots{}
 
 \textbf{Gamma Decay}
 
-Instead of splitting part of the nucleus, gamma decay spits
+Instead of splitting part of the nucleus, gamma decay spits an
+electrically excited (so\ldots{} chemistry, charged, energy level, that
+stuff) atom into a normal, non-excited atom and also emits a photon.
 
 \includegraphics{gammadecaybetter.png}
 
