@@ -26,5 +26,6 @@ Animistic? Animals have wars. Even coordinated wars like ants do.
 	- Globalized wars is slightly more unnatural compared to localized conflicts
 	- However, fundamentally animistic
 	
+Bellicist theory: states happen to mak war
 
 
