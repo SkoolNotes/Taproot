@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6735)}}    % original
-%\rhead{\textrmlf{Compiled }\#6735\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6735\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6737)}}    % original
+%\rhead{\textrmlf{Compiled }\#6737\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6737\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -232,5 +232,9 @@ Animistic? Animals have wars. Even coordinated wars like ants do.
 \end{itemize}
 
 Bellicist theory: states happen to mak war
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+If warmaking could be disconnected from the drive of wealth,
 
 \end{document}

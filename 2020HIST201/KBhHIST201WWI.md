@@ -28,4 +28,8 @@ Animistic? Animals have wars. Even coordinated wars like ants do.
 	
 Bellicist theory: states happen to mak war
 
+***
+
+If warmaking could be disconnected from the drive of wealth,
+
 
