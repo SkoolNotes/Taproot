@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6599)}}    % original
-%\rhead{\textrmlf{Compiled }\#6599\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6599\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6602)}}    % original
+%\rhead{\textrmlf{Compiled }\#6602\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6602\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -285,7 +285,5 @@ Overview}\label{trips-free-association-overview}}
 \item
   11302020 {[}{[}KBhBIO101CentralDogmaQuizReview{]}{]}
 \end{itemize}
-
-Here's a test: {[}{[}KBhBIO101TestDoc{]}{]}
 
 \end{document}
