@@ -18,6 +18,6 @@ Radiation is the emition of waves — lights, heat, etc. etc. We call something 
 
 Because of the fact that Geiger counters require time to discharge, there is a certain rate called "dead time" during which Geiger counters simply sit and do nothing. As such, we have to account for this lossy "deadtime" of Geiger counters by relating the two values with the following equation
 
-	$T = \fr
+$T = \frac{M}{1-(M/L}$, where $M$ is the measured rate of radiation and $L$ is the "dead time" — the upper limit of the Geiger counter in uestion.
 
 
