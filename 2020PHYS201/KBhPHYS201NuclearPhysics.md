@@ -10,6 +10,8 @@ First of all, recall [[KBhPHYS201ColoumbsLaw]]. Given the force between two part
 
 #compilefromnote
 
+Remember: $A_{nucl} = \frac{1}{10^{10}} A_{atom}$
+
 ## Radioactivity
 Radiation is the emition of waves — lights, heat, etc. etc. We call something "radioactive" if it emits ionizing radiation: that it has enough energy to liberate an electron from an atom.
 
