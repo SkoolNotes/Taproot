@@ -40,7 +40,10 @@ Why? Apply right hand rule 1.5.
 
 ![](alphadecay.png)
 
-During alpha decay, a massive nucleaus spits out a part of itself
+During alpha decay, a massive nucleolus spits out a Helium-resulting part of itself to get rid of 2 protons and 2 neutrons. So, formally... 
 
 ![](alphadecaybetter.png)
+
+
+
 
