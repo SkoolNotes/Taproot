@@ -1,0 +1,48 @@
+---
+title:   
+context: 
+author:  
+source:  #index
+---
+
+#flo #ref #ret 
+#disorganized #incomplete
+
+---
+
+
+
+- Why does war exist? Are they products of failure in other realms or logical products of global systems?
+    - war has heavy economic benifits -- war is heaviliy profitable. 
+    - war for resources, war for morality -- "this is right, and we will fight for it!" 
+	- also war for resources disuised as war for morality
+
+
+- What would be required to put an end to war?
+    - heaviliy dependent on the war, and the nature of the war. 
+    - very importyant question. one side conceding would do it. 
+    - running out of financial resource? end by exaustion? 
+    - wars end when one side gives up (not when one side wins). 
+
+
+- Is there such a thing as a just (or good, ethical, righteous) war? Why/why not?
+    - this is not a question i am prepared to answer while still debating the very meaning of 'good.' 
+    - utilitarian perspective, if the war reduces overall pain or suffering (bad?) then yes, it is good.
+    - if going to war is the choice of the people, .. 
+    - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
