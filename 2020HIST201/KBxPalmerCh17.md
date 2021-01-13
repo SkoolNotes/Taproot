@@ -30,7 +30,7 @@ manufactured alot
 
 scartch: 
 
-今年、
+今年、ともだちといっしょにおひるごはんをたべられますように。
 
 
 
