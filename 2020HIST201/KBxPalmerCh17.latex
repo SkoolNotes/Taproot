@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6750)}}    % original
-%\rhead{\textrmlf{Compiled }\#6750\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6750\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6762)}}    % original
+%\rhead{\textrmlf{Compiled }\#6762\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6762\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -178,5 +178,8 @@
 \#flo \#ref \#disorganized \#incomplete
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{palmer-17.}{%
+\section{Palmer, 17.}\label{palmer-17.}}
 
 \end{document}
