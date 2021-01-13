@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6774)}}    % original
-%\rhead{\textrmlf{Compiled }\#6774\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6774\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6775)}}    % original
+%\rhead{\textrmlf{Compiled }\#6775\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6775\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -219,5 +219,15 @@ products}\label{addition-has-to-be-over-applicable-products}}
 \(v_i \in V_i + u_i \in U_i\) must exist for each \(1 \le i \le m\) for
 the sum
 \((V_i \times \cdots \times V_m) + (U_i \times \cdots \times U_m)\)
+
+\hypertarget{results}{%
+\subsection{results}\label{results}}
+
+\hypertarget{axler3.73-product-of-vector-spaces-is-a-vector-space}{%
+\subsubsection{Axler3.73 product of vector spaces is a vector
+space}\label{axler3.73-product-of-vector-spaces-is-a-vector-space}}
+
+If vector spaces in a product are over \(\mathbb F\), then their product
+is a vector space over \(\mathbb F\).
 
 \end{document}

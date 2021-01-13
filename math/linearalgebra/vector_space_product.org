@@ -16,3 +16,6 @@
 ** properties
 *** addition has to be over applicable products
 	$v_i \in V_i + u_i \in U_i$ must exist for each $1 \le i \le m$ for the sum $(V_i \times \cdots \times V_m) + (U_i \times \cdots \times U_m)$
+** results
+*** Axler3.73 product of vector spaces is a vector space
+	If vector spaces in a product are over $\mathbb F$, then their product is a vector space over $\mathbb F$.
