@@ -20,7 +20,7 @@ germany massively rose in power.
 
 manufactured alot 
 
-
+ notes deleted...? 
 
 
 
