@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6772)}}    % original
-%\rhead{\textrmlf{Compiled }\#6772\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6772\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6774)}}    % original
+%\rhead{\textrmlf{Compiled }\#6774\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6774\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -208,5 +208,16 @@ two)}\label{product-of-multiple-vector-spaces-not-just-two}}
   similar to how sums/direct sums are not just sums of a pair but rather
   sums of a list
 \end{enumerate}
+
+\hypertarget{properties}{%
+\subsection{properties}\label{properties}}
+
+\hypertarget{addition-has-to-be-over-applicable-products}{%
+\subsubsection{addition has to be over applicable
+products}\label{addition-has-to-be-over-applicable-products}}
+
+\(v_i \in V_i + u_i \in U_i\) must exist for each \(1 \le i \le m\) for
+the sum
+\((V_i \times \cdots \times V_m) + (U_i \times \cdots \times U_m)\)
 
 \end{document}

@@ -13,3 +13,6 @@
 ** careful
 *** product of multiple vector spaces (not just two)
 **** similar to how sums/direct sums are not just sums of a pair but rather sums of a list
+** properties
+*** addition has to be over applicable products
+	$v_i \in V_i + u_i \in U_i$ must exist for each $1 \le i \le m$ for the sum $(V_i \times \cdots \times V_m) + (U_i \times \cdots \times U_m)$
