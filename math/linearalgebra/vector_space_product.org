@@ -7,6 +7,8 @@
   - The /product/ $V_1 \times \cdots \times V_m = \left\{(v_1, \ldots, v_m) : v_1 \in V_1, \ldots, v_m \in V_m\right\}$
   - Addition on $V_1 \times \cdots \times V_m$ is defined as
 	\[ (u_1, \ldots, u_m) + (v_1, \ldots, v_m) = (u_1+v_1, \ldots, u_m+v_m) \]
+  - Scalar multiplication on $V_1 \times \cdots \times V_m$ is defined by
+	\[ \lambda (v_1, \ldots, v_m) = (\lambda v_1, \ldots, \lambda v_m) \]
   #+end_quote
 ** careful
 *** product of multiple vector spaces (not just two)

@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6771)}}    % original
-%\rhead{\textrmlf{Compiled }\#6771\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6771\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6772)}}    % original
+%\rhead{\textrmlf{Compiled }\#6772\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6772\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -189,6 +189,10 @@ Suppose \(V_1, \ldots, V_m\) are vector spaces over \(\mathbb F\)
 \item
   Addition on \(V_1 \times \cdots \times V_m\) is defined as
   \[ (u_1, \ldots, u_m) + (v_1, \ldots, v_m) = (u_1+v_1, \ldots, u_m+v_m) \]
+\item
+  Scalar multiplication on \(V_1 \times \cdots \times V_m\) is defined
+  by
+  \[ \lambda (v_1, \ldots, v_m) = (\lambda v_1, \ldots, \lambda v_m) \]
 \end{itemize}
 \end{quote}
 
