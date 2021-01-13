@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6769)}}    % original
-%\rhead{\textrmlf{Compiled }\#6769\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6769\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6770)}}    % original
+%\rhead{\textrmlf{Compiled }\#6770\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6770\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,17 +179,27 @@
 {\textsc{def}}}{product of vector spaces def}}\label{product-of-vector-spaces}}
 
 \begin{quote}
-Suppose V\textsubscript{1}, \ldots, V\textsubscript{m} are vector spaces
-over \mathbb F
+Suppose \(V_1, \ldots, V_m\) are vector spaces over \(\mathbb F\)
 
 \begin{itemize}
 \tightlist
 \item
-  The \emph{product} V\textsubscript{1} × ⋯ × V\textsubscript{m} =
-  \left\textbackslash\{(v\textsubscript{1}, \ldots, v\textsubscript{m})
-  : v\textsubscript{1} ∈ V\textsubscript{1}, \ldots, v\textsubscript{m}
-  ∈ V\textsubscript{m}\right\textbackslash\}
+  The \emph{product}
+  \(V_1 \times \cdots \times V_m = \left\{(v_1, \ldots, v_m) : v_1 \in V_1, \ldots, v_m \in V_m\right\}\)
 \end{itemize}
 \end{quote}
+
+\hypertarget{careful}{%
+\subsection{careful}\label{careful}}
+
+\hypertarget{product-of-multiple-vector-spaces-not-just-two}{%
+\subsubsection{product of multiple vector spaces (not just
+two)}\label{product-of-multiple-vector-spaces-not-just-two}}
+
+\begin{enumerate}
+\item
+  similar to how sums/direct sums are not just sums of a pair but rather
+  sums of a list
+\end{enumerate}
 
 \end{document}
