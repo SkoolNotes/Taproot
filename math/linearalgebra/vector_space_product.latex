@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6775)}}    % original
-%\rhead{\textrmlf{Compiled }\#6775\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6775\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6776)}}    % original
+%\rhead{\textrmlf{Compiled }\#6776\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6776\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -229,5 +229,17 @@ space}\label{axler3.73-product-of-vector-spaces-is-a-vector-space}}
 
 If vector spaces in a product are over \(\mathbb F\), then their product
 is a vector space over \(\mathbb F\).
+
+\begin{enumerate}
+\item
+  Proof {\textsc{proof}}
+
+  \begin{enumerate}
+  \item
+    commutativity, associativity inherited from \(\mathbb F\)
+  \item
+    additive identity is each identity from each space
+  \end{enumerate}
+\end{enumerate}
 
 \end{document}
