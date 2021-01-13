@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6776)}}    % original
-%\rhead{\textrmlf{Compiled }\#6776\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6776\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6777)}}    % original
+%\rhead{\textrmlf{Compiled }\#6777\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6777\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -239,6 +239,8 @@ is a vector space over \(\mathbb F\).
     commutativity, associativity inherited from \(\mathbb F\)
   \item
     additive identity is each identity from each space
+  \item
+    additive inverse is each inverse from each space
   \end{enumerate}
 \end{enumerate}
 
