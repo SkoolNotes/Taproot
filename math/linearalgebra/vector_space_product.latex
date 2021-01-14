@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6789)}}    % original
-%\rhead{\textrmlf{Compiled }\#6789\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6789\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6790)}}    % original
+%\rhead{\textrmlf{Compiled }\#6790\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6790\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -275,5 +275,13 @@ up}\label{a-sum-is-a-direct-sum-iff-the-dimensions-add-up}}
 \subsection{\texorpdfstring{A sum \(U_1 + \cdots + U_m\) is a direct sum
 iff
 \(\text{dim} (U_1 + \cdots + U_m) == \text{dim} U_1 + \cdots + \text{dim} U_m\)}{A sum U\_1 + \textbackslash cdots + U\_m is a direct sum iff \textbackslash text\{dim\} (U\_1 + \textbackslash cdots + U\_m) == \textbackslash text\{dim\} U\_1 + \textbackslash cdots + \textbackslash text\{dim\} U\_m}}\label{a-sum-u_1-cdots-u_m-is-a-direct-sum-iff-textdim-u_1-cdots-u_m-textdim-u_1-cdots-textdim-u_m}}
+
+\hypertarget{intuition}{%
+\subsection{intuition}\label{intuition}}
+
+\hypertarget{if-the-dimensions-didnt-add-up-then-something-was-canceled-somewhere.-since-they-do-everything-contributed}{%
+\subsubsection{if the dimensions didn't add up, then something was
+canceled somewhere. Since they do, everything
+contributed}\label{if-the-dimensions-didnt-add-up-then-something-was-canceled-somewhere.-since-they-do-everything-contributed}}
 
 \end{document}

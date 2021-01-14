@@ -30,3 +30,5 @@
    Basically if it is a direct sum, then nothing can interact with eachother and therefore the map will be injective. If it is injective, then nothing interacts and it must be a direct sum.
 * A sum is a direct sum iff the dimensions add up
 ** A sum $U_1 + \cdots + U_m$ is a direct sum iff $\text{dim} (U_1 + \cdots + U_m) == \text{dim} U_1 + \cdots + \text{dim} U_m$
+** intuition
+*** if the dimensions didn't add up, then something was canceled somewhere. Since they do, everything contributed
