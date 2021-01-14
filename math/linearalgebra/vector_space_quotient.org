@@ -19,4 +19,4 @@
 * squiggle $T$ (the condensed map)
 ** for $T \in \mathcal L(V, W)$, $Tsquiggle : V/(\text{null}T) \to W$ s.t. $Tsquiggle(v+\text{null T}) = Tv$
 ** basically it takes an affine subset that encodes the important part of the input (takes $v$ from $\pi(v)$) and maps it to $W$
-** it is an isomorphism to $\text{range} T$
+** makes an isomorphism to $\text{range} T$

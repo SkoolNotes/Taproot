@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6801)}}    % original
-%\rhead{\textrmlf{Compiled }\#6801\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6801\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6802)}}    % original
+%\rhead{\textrmlf{Compiled }\#6802\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6802\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -265,7 +265,8 @@ encodes the important part of the input (takes \(v\) from \(\pi(v)\))
 and maps it to
 \(W\)}{basically it takes an affine subset that encodes the important part of the input (takes v from \textbackslash pi(v)) and maps it to W}}\label{basically-it-takes-an-affine-subset-that-encodes-the-important-part-of-the-input-takes-v-from-piv-and-maps-it-to-w}}
 
-\hypertarget{it-is-an-isomorphism}{%
-\subsection{it is an isomorphism?}\label{it-is-an-isomorphism}}
+\hypertarget{makes-an-isomorphism-to-textrange-t}{%
+\subsection{\texorpdfstring{makes an isomorphism to
+\(\text{range} T\)}{makes an isomorphism to \textbackslash text\{range\} T}}\label{makes-an-isomorphism-to-textrange-t}}
 
 \end{document}
