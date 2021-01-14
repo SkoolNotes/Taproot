@@ -2,3 +2,5 @@
 * sum of a vector and a subspace                                        :def:
 ** for $v \in V$ and $U \subset V$, $v+U = \{ v+u : u \in U\}$ (aka shift everything by $v$)
 * affine subset, parallel
+** an affine subset of $V$ is a subset of $V$ that is "shifted" by a vector in $V$
+** all affine subsets from a subspace are said to be parallel to that subspace

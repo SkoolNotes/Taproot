@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6792)}}    % original
-%\rhead{\textrmlf{Compiled }\#6792\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6792\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6793)}}    % original
+%\rhead{\textrmlf{Compiled }\#6793\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6793\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -185,5 +185,15 @@
 
 \hypertarget{affine-subset-parallel}{%
 \section{affine subset, parallel}\label{affine-subset-parallel}}
+
+\hypertarget{an-affine-subset-of-v-is-a-subset-of-v-that-is-shifted-by-a-vector-in-v}{%
+\subsection{\texorpdfstring{an affine subset of \(V\) is a subset of
+\(V\) that is "shifted" by a vector in
+\(V\)}{an affine subset of V is a subset of V that is "shifted" by a vector in V}}\label{an-affine-subset-of-v-is-a-subset-of-v-that-is-shifted-by-a-vector-in-v}}
+
+\hypertarget{all-affine-subsets-from-a-subspace-are-said-to-be-parallel-to-that-subspace}{%
+\subsection{all affine subsets from a subspace are said to be parallel
+to that
+subspace}\label{all-affine-subsets-from-a-subspace-are-said-to-be-parallel-to-that-subspace}}
 
 \end{document}
