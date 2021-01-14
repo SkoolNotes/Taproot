@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6795)}}    % original
-%\rhead{\textrmlf{Compiled }\#6795\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6795\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6796)}}    % original
+%\rhead{\textrmlf{Compiled }\#6796\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6796\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -223,6 +223,22 @@ equal or disjoint
     if they are 'parallel', then they must be equal (inf intersection)
     or disjoint (zero intersection)
   \end{enumerate}
+\end{enumerate}
+
+\hypertarget{the-quotient-space-is-a-vector-space}{%
+\subsubsection{the quotient space is a vector
+space}\label{the-quotient-space-is-a-vector-space}}
+
+\hypertarget{quotient-map-pi}{%
+\subsubsection{\texorpdfstring{quotient map, \(\pi\)
+{\textsc{def}}}{quotient map, \textbackslash pi def}}\label{quotient-map-pi}}
+
+\begin{enumerate}
+\item
+  The quotient map \(\pi : V \to V/U\) is defined by
+  \(\pi(v)=v+U \forall v\)
+\item
+  basically it gives a quotient space from a vector
 \end{enumerate}
 
 \end{document}
