@@ -1,2 +1,4 @@
 #+AUTHOR: Exr0n
-* sum of a vector and a subspace
+* sum of a vector and a subspace                                        :def:
+** for $v \in V$ and $U \subset V$, $v+U = \{ v+u : u \in U\}$ (aka shift everything by $v$)
+* affine subset, parallel

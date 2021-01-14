@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6791)}}    % original
-%\rhead{\textrmlf{Compiled }\#6791\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6791\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6792)}}    % original
+%\rhead{\textrmlf{Compiled }\#6792\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6792\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -175,7 +175,15 @@
 \textbf{Source}:\thinspace 
 
 \hypertarget{sum-of-a-vector-and-a-subspace}{%
-\section{sum of a vector and a
-subspace}\label{sum-of-a-vector-and-a-subspace}}
+\section{\texorpdfstring{sum of a vector and a subspace
+{\textsc{def}}}{sum of a vector and a subspace def}}\label{sum-of-a-vector-and-a-subspace}}
+
+\hypertarget{for-v-in-v-and-u-subset-v-vu-vu-u-in-u-aka-shift-everything-by-v}{%
+\subsection{\texorpdfstring{for \(v \in V\) and \(U \subset V\),
+\(v+U = \{ v+u : u \in U\}\) (aka shift everything by
+\(v\))}{for v \textbackslash in V and U \textbackslash subset V, v+U = \textbackslash\{ v+u : u \textbackslash in U\textbackslash\} (aka shift everything by v)}}\label{for-v-in-v-and-u-subset-v-vu-vu-u-in-u-aka-shift-everything-by-v}}
+
+\hypertarget{affine-subset-parallel}{%
+\section{affine subset, parallel}\label{affine-subset-parallel}}
 
 \end{document}
