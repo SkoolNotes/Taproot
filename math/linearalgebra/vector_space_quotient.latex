@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6798)}}    % original
-%\rhead{\textrmlf{Compiled }\#6798\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6798\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6799)}}    % original
+%\rhead{\textrmlf{Compiled }\#6799\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6799\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -253,5 +253,8 @@ space}\label{dimension-of-a-quotient-space}}
 \hypertarget{squiggle-t-the-condensed-map}{%
 \section{\texorpdfstring{squiggle \(T\) (the condensed
 map)}{squiggle T (the condensed map)}}\label{squiggle-t-the-condensed-map}}
+
+\hypertarget{tsquigglevnull-t-tv}{%
+\subsection{Tsquiggle(v+null T) = Tv}\label{tsquigglevnull-t-tv}}
 
 \end{document}
