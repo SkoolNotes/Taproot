@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6799)}}    % original
-%\rhead{\textrmlf{Compiled }\#6799\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6799\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6800)}}    % original
+%\rhead{\textrmlf{Compiled }\#6800\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6800\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -254,7 +254,9 @@ space}\label{dimension-of-a-quotient-space}}
 \section{\texorpdfstring{squiggle \(T\) (the condensed
 map)}{squiggle T (the condensed map)}}\label{squiggle-t-the-condensed-map}}
 
-\hypertarget{tsquigglevnull-t-tv}{%
-\subsection{Tsquiggle(v+null T) = Tv}\label{tsquigglevnull-t-tv}}
+\hypertarget{for-t-in-mathcal-lv-w-tsquiggle-vtextnullt-to-w-s.t.-tsquigglevtextnull-t-tv}{%
+\subsection{\texorpdfstring{for \(T \in \mathcal L(V, W)\),
+\(Tsquiggle : V/(\text{null}T) \to W\) s.t.
+\(Tsquiggle(v+\text{null T}) = Tv\)}{for T \textbackslash in \textbackslash mathcal L(V, W), Tsquiggle : V/(\textbackslash text\{null\}T) \textbackslash to W s.t. Tsquiggle(v+\textbackslash text\{null T\}) = Tv}}\label{for-t-in-mathcal-lv-w-tsquiggle-vtextnullt-to-w-s.t.-tsquigglevtextnull-t-tv}}
 
 \end{document}

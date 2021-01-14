@@ -17,4 +17,4 @@
 *** dimension of a quotient space
 **** $\text{dim}V/U = \text{dim} V - \text{dim} U$
 * squiggle $T$ (the condensed map)
-** $Tsquiggle : V/(\text{null}T) \to W$ s.t. $Tsquiggle(v+\text{null T}) = Tv$
+** for $T \in \mathcal L(V, W)$, $Tsquiggle : V/(\text{null}T) \to W$ s.t. $Tsquiggle(v+\text{null T}) = Tv$
