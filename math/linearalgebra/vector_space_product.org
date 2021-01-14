@@ -28,3 +28,5 @@
 * products of direct sums
 ** A map $\Gamma : U_1 \times \cdots \times U_m \to U_1 + \cdots + \U_m$ s.t. $\Gamma(u_1, \ldots, u_m) = u_1 + \cdots + u_m$ is surjective by definition, and injective/bijective iff U_1 + \cdots + U_m is a direct sum
    Basically if it is a direct sum, then nothing can interact with eachother and therefore the map will be injective. If it is injective, then nothing interacts and it must be a direct sum.
+* A sum is a direct sum iff the dimensions add up
+** A sum $U_1 + \cdots + U_m$ is a direct sum iff $\text{dim} (U_1 + \cdots + U_m) == \text{dim} U_1 + \cdots + \text{dim} U_m$

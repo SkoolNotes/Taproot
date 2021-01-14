@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6788)}}    % original
-%\rhead{\textrmlf{Compiled }\#6788\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6788\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6789)}}    % original
+%\rhead{\textrmlf{Compiled }\#6789\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6789\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -249,7 +249,8 @@ is a vector space over \(\mathbb F\).
 \subsubsection{Axler3.76 Dimension of a product is the sum of
 dimensions}\label{axler3.76-dimension-of-a-product-is-the-sum-of-dimensions}}
 
-Because you can concatenate the bases from each
+Because you can concatenate the bases from each and fill the others with
+zero to form the basis of the product
 
 \hypertarget{products-of-direct-sums}{%
 \section{products of direct sums}\label{products-of-direct-sums}}
@@ -265,5 +266,14 @@ sum}{A map \textbackslash Gamma : U\_1 \textbackslash times \textbackslash cdots
 Basically if it is a direct sum, then nothing can interact with
 eachother and therefore the map will be injective. If it is injective,
 then nothing interacts and it must be a direct sum.
+
+\hypertarget{a-sum-is-a-direct-sum-iff-the-dimensions-add-up}{%
+\section{A sum is a direct sum iff the dimensions add
+up}\label{a-sum-is-a-direct-sum-iff-the-dimensions-add-up}}
+
+\hypertarget{a-sum-u_1-cdots-u_m-is-a-direct-sum-iff-textdim-u_1-cdots-u_m-textdim-u_1-cdots-textdim-u_m}{%
+\subsection{\texorpdfstring{A sum \(U_1 + \cdots + U_m\) is a direct sum
+iff
+\(\text{dim} (U_1 + \cdots + U_m) == \text{dim} U_1 + \cdots + \text{dim} U_m\)}{A sum U\_1 + \textbackslash cdots + U\_m is a direct sum iff \textbackslash text\{dim\} (U\_1 + \textbackslash cdots + U\_m) == \textbackslash text\{dim\} U\_1 + \textbackslash cdots + \textbackslash text\{dim\} U\_m}}\label{a-sum-u_1-cdots-u_m-is-a-direct-sum-iff-textdim-u_1-cdots-u_m-textdim-u_1-cdots-textdim-u_m}}
 
 \end{document}
