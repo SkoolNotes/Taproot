@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6800)}}    % original
-%\rhead{\textrmlf{Compiled }\#6800\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6800\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6801)}}    % original
+%\rhead{\textrmlf{Compiled }\#6801\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6801\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -258,5 +258,14 @@ map)}{squiggle T (the condensed map)}}\label{squiggle-t-the-condensed-map}}
 \subsection{\texorpdfstring{for \(T \in \mathcal L(V, W)\),
 \(Tsquiggle : V/(\text{null}T) \to W\) s.t.
 \(Tsquiggle(v+\text{null T}) = Tv\)}{for T \textbackslash in \textbackslash mathcal L(V, W), Tsquiggle : V/(\textbackslash text\{null\}T) \textbackslash to W s.t. Tsquiggle(v+\textbackslash text\{null T\}) = Tv}}\label{for-t-in-mathcal-lv-w-tsquiggle-vtextnullt-to-w-s.t.-tsquigglevtextnull-t-tv}}
+
+\hypertarget{basically-it-takes-an-affine-subset-that-encodes-the-important-part-of-the-input-takes-v-from-piv-and-maps-it-to-w}{%
+\subsection{\texorpdfstring{basically it takes an affine subset that
+encodes the important part of the input (takes \(v\) from \(\pi(v)\))
+and maps it to
+\(W\)}{basically it takes an affine subset that encodes the important part of the input (takes v from \textbackslash pi(v)) and maps it to W}}\label{basically-it-takes-an-affine-subset-that-encodes-the-important-part-of-the-input-takes-v-from-piv-and-maps-it-to-w}}
+
+\hypertarget{it-is-an-isomorphism}{%
+\subsection{it is an isomorphism?}\label{it-is-an-isomorphism}}
 
 \end{document}
