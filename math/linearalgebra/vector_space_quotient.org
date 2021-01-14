@@ -6,3 +6,8 @@
 ** all affine subsets from a subspace are said to be parallel to that subspace
 * quotient space                                                        :def:
 ** A quotient space $V/U$ where $U \subset V$ is the set of affine subsets parallel to $U$ (all shifts)
+** result
+*** two affine subsets parallel to $U$ are equal or disjoint (Axler3.85)
+**** intuition
+***** if they are 'parallel', then they must be equal (inf intersection) or disjoint (zero intersection)
+*** the quotient space is a vector space
