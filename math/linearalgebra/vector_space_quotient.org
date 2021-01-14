@@ -13,4 +13,6 @@
 *** the quotient space is a vector space
 *** quotient map, $\pi$                                                 :def:
 **** The quotient map $\pi : V \to V/U$ is defined by $\pi(v)=v+U \forall v$
-**** basically it gives a quotient space from a vector
+**** basically it gives a quotient space from a vector (syntactic sugar)
+*** dimension of a quotient space
+**** $\text{dim}V/U = \text{dim} V - \text{dim} U$
