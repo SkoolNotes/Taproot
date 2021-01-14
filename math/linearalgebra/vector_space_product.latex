@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6787)}}    % original
-%\rhead{\textrmlf{Compiled }\#6787\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6787\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6788)}}    % original
+%\rhead{\textrmlf{Compiled }\#6788\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6788\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -244,6 +244,12 @@ is a vector space over \(\mathbb F\).
     distributive should be inherited?
   \end{enumerate}
 \end{enumerate}
+
+\hypertarget{axler3.76-dimension-of-a-product-is-the-sum-of-dimensions}{%
+\subsubsection{Axler3.76 Dimension of a product is the sum of
+dimensions}\label{axler3.76-dimension-of-a-product-is-the-sum-of-dimensions}}
+
+Because you can concatenate the bases from each
 
 \hypertarget{products-of-direct-sums}{%
 \section{products of direct sums}\label{products-of-direct-sums}}
