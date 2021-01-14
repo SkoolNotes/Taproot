@@ -23,3 +23,5 @@
 ***** commutativity, associativity inherited from $\mathbb F$
 ***** additive identity, additive inverse, multiplicative identity inherited separataely from each space (they don't interact)
 ***** distributive should be inherited?
+* products of direct sums
+** A map $\Gamma : U_1 \times \cdots \times U_m \to U_1 + \cdots + \U_m$ s.t. $\Gamma(u_1, \ldots, u_m) = u_1 + \cdots + u_m$ is surjective by definition, and injective/bijective iff U_1 + \cdots + U_m is a direct sum

@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6779)}}    % original
-%\rhead{\textrmlf{Compiled }\#6779\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6779\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6786)}}    % original
+%\rhead{\textrmlf{Compiled }\#6786\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6786\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -244,5 +244,16 @@ is a vector space over \(\mathbb F\).
     distributive should be inherited?
   \end{enumerate}
 \end{enumerate}
+
+\hypertarget{products-of-direct-sums}{%
+\section{products of direct sums}\label{products-of-direct-sums}}
+
+\hypertarget{a-map-gamma-u_1-times-cdots-times-u_m-to-u_1-cdots-u_m-s.t.-gammau_1-ldots-u_m-u_1-cdots-u_m-is-surjective-by-definition-and-injectivebijective-iff-u1-um-is-a-direct-sum}{%
+\subsection{\texorpdfstring{A map
+\(\Gamma : U_1 \times \cdots \times U_m \to U_1 + \cdots + \U_m\) s.t.
+\(\Gamma(u_1, \ldots, u_m) = u_1 + \cdots + u_m\) is surjective by
+definition, and injective/bijective iff U\textsubscript{1} + ⋯ +
+U\textsubscript{m} is a direct
+sum}{A map \textbackslash Gamma : U\_1 \textbackslash times \textbackslash cdots \textbackslash times U\_m \textbackslash to U\_1 + \textbackslash cdots + \textbackslash U\_m s.t. \textbackslash Gamma(u\_1, \textbackslash ldots, u\_m) = u\_1 + \textbackslash cdots + u\_m is surjective by definition, and injective/bijective iff U1 + ⋯ + Um is a direct sum}}\label{a-map-gamma-u_1-times-cdots-times-u_m-to-u_1-cdots-u_m-s.t.-gammau_1-ldots-u_m-u_1-cdots-u_m-is-surjective-by-definition-and-injectivebijective-iff-u1-um-is-a-direct-sum}}
 
 \end{document}
