@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6793)}}    % original
-%\rhead{\textrmlf{Compiled }\#6793\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6793\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6794)}}    % original
+%\rhead{\textrmlf{Compiled }\#6794\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6794\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -184,7 +184,8 @@
 \(v\))}{for v \textbackslash in V and U \textbackslash subset V, v+U = \textbackslash\{ v+u : u \textbackslash in U\textbackslash\} (aka shift everything by v)}}\label{for-v-in-v-and-u-subset-v-vu-vu-u-in-u-aka-shift-everything-by-v}}
 
 \hypertarget{affine-subset-parallel}{%
-\section{affine subset, parallel}\label{affine-subset-parallel}}
+\section{\texorpdfstring{affine subset, parallel
+{\textsc{def}}}{affine subset, parallel def}}\label{affine-subset-parallel}}
 
 \hypertarget{an-affine-subset-of-v-is-a-subset-of-v-that-is-shifted-by-a-vector-in-v}{%
 \subsection{\texorpdfstring{an affine subset of \(V\) is a subset of
@@ -195,5 +196,14 @@
 \subsection{all affine subsets from a subspace are said to be parallel
 to that
 subspace}\label{all-affine-subsets-from-a-subspace-are-said-to-be-parallel-to-that-subspace}}
+
+\hypertarget{quotient-space}{%
+\section{\texorpdfstring{quotient space
+{\textsc{def}}}{quotient space def}}\label{quotient-space}}
+
+\hypertarget{a-quotient-space-vu-where-u-subset-v-is-the-set-of-affine-subsets-parallel-to-u-all-shifts}{%
+\subsection{\texorpdfstring{A quotient space \(V/U\) where
+\(U \subset V\) is the set of affine subsets parallel to \(U\) (all
+shifts)}{A quotient space V/U where U \textbackslash subset V is the set of affine subsets parallel to U (all shifts)}}\label{a-quotient-space-vu-where-u-subset-v-is-the-set-of-affine-subsets-parallel-to-u-all-shifts}}
 
 \end{document}

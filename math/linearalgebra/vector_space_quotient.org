@@ -1,6 +1,8 @@
 #+AUTHOR: Exr0n
 * sum of a vector and a subspace                                        :def:
 ** for $v \in V$ and $U \subset V$, $v+U = \{ v+u : u \in U\}$ (aka shift everything by $v$)
-* affine subset, parallel
+* affine subset, parallel                                               :def:
 ** an affine subset of $V$ is a subset of $V$ that is "shifted" by a vector in $V$
 ** all affine subsets from a subspace are said to be parallel to that subspace
+* quotient space                                                        :def:
+** A quotient space $V/U$ where $U \subset V$ is the set of affine subsets parallel to $U$ (all shifts)
