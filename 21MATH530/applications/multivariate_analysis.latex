@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6808)}}    % original
-%\rhead{\textrmlf{Compiled }\#6808\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6808\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6809)}}    % original
+%\rhead{\textrmlf{Compiled }\#6809\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6809\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -246,5 +246,19 @@ analysis}\label{interdependent-multivariate-analysis}}
 
 \hypertarget{data-matrix}{%
 \subsubsection{data matrix}\label{data-matrix}}
+
+\hypertarget{usscp}{%
+\subsubsection{USSCP}\label{usscp}}
+
+\begin{enumerate}
+\item
+  data matrix multiplied by the transpose
+\end{enumerate}
+
+\hypertarget{some-other-thing-csscp}{%
+\subsubsection{some other thing CSSCP}\label{some-other-thing-csscp}}
+
+\hypertarget{covariance-matrix}{%
+\subsubsection{covariance matrix}\label{covariance-matrix}}
 
 \end{document}
