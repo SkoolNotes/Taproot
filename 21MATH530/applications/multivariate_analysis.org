@@ -23,4 +23,6 @@
 *** USSCP
 **** data matrix multiplied by the transpose
 *** some other thing CSSCP
-*** covariance matrix
+*** covariance matrix (C)
+*** correlation matrix (R)
+**** variables normalized for mean 0 and stddev 1

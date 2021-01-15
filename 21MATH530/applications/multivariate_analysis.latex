@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6809)}}    % original
-%\rhead{\textrmlf{Compiled }\#6809\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6809\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6810)}}    % original
+%\rhead{\textrmlf{Compiled }\#6810\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6810\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -258,7 +258,15 @@ analysis}\label{interdependent-multivariate-analysis}}
 \hypertarget{some-other-thing-csscp}{%
 \subsubsection{some other thing CSSCP}\label{some-other-thing-csscp}}
 
-\hypertarget{covariance-matrix}{%
-\subsubsection{covariance matrix}\label{covariance-matrix}}
+\hypertarget{covariance-matrix-c}{%
+\subsubsection{covariance matrix (C)}\label{covariance-matrix-c}}
+
+\hypertarget{correlation-matrix-r}{%
+\subsubsection{correlation matrix (R)}\label{correlation-matrix-r}}
+
+\begin{enumerate}
+\item
+  variables normalized for mean 0 and stddev 1
+\end{enumerate}
 
 \end{document}
