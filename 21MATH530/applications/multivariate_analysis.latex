@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6806)}}    % original
-%\rhead{\textrmlf{Compiled }\#6806\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6806\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6808)}}    % original
+%\rhead{\textrmlf{Compiled }\#6808\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6808\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -196,12 +196,55 @@ understanding}\label{interdependent-analysis---intercorrelations-for-underlying-
 \subsubsection{metric vs non metric - a metric variable is
 numeric}\label{metric-vs-non-metric---a-metric-variable-is-numeric}}
 
-\hypertarget{then-a-bunch-of-methods}{%
-\subsection{then a bunch of methods}\label{then-a-bunch-of-methods}}
+\hypertarget{then-a-bunch-of-methods-for-dependence-analysis}{%
+\subsection{then a bunch of methods for dependence
+analysis}\label{then-a-bunch-of-methods-for-dependence-analysis}}
 
 \hypertarget{pick-by-matching-which-ones-match-your-inputoutput-variable-types-and-numbers}{%
 \subsubsection{pick by matching which ones match your input/output
 variable types and
 numbers}\label{pick-by-matching-which-ones-match-your-inputoutput-variable-types-and-numbers}}
+
+\hypertarget{interdependent-multivariate-analysis}{%
+\subsection{interdependent multivariate
+analysis}\label{interdependent-multivariate-analysis}}
+
+\hypertarget{factor-analysis}{%
+\subsubsection{factor analysis}\label{factor-analysis}}
+
+\begin{enumerate}
+\item
+  understand which variables highly correlate to others
+
+  \begin{enumerate}
+  \item
+    common factor analysis - extracts factors that correlate
+  \item
+    principal component analysis - extract factors that have the largest
+    impact
+  \end{enumerate}
+\item
+  clusterananlysis
+\item
+  multidimensional scaling
+
+  \begin{enumerate}
+  \item
+    obtain tabluar data from a weighted graph structure?
+  \end{enumerate}
+\item
+  corresponding analysis
+
+  \begin{enumerate}
+  \item
+    like factor analysis or something?
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{important-matrices}{%
+\subsection{important matrices}\label{important-matrices}}
+
+\hypertarget{data-matrix}{%
+\subsubsection{data matrix}\label{data-matrix}}
 
 \end{document}
