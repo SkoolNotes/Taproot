@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6804)}}    % original
-%\rhead{\textrmlf{Compiled }\#6804\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6804\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6805)}}    % original
+%\rhead{\textrmlf{Compiled }\#6805\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6805\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -191,6 +191,10 @@ another}\label{dependence---if-one-set-of-variables-can-predict-another}}
 \subsubsection{interdependent analysis - intercorrelations for
 underlying
 understanding}\label{interdependent-analysis---intercorrelations-for-underlying-understanding}}
+
+\hypertarget{metric-vs-non-metric---a-metric-variable-is-numeric}{%
+\subsubsection{metric vs non metric - a metric variable is
+numeric}\label{metric-vs-non-metric---a-metric-variable-is-numeric}}
 
 \hypertarget{then-a-bunch-of-methods}{%
 \subsection{then a bunch of methods}\label{then-a-bunch-of-methods}}
