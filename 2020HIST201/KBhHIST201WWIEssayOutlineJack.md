@@ -44,7 +44,7 @@ Self-interested ~~coorporation~~ compromises with other parties causes war.
 *Capitulations for peace will inflame tensions*
 
 - AE Capitulation between Austria and Russia ended up screwing Russia over
-- AF the creation of the independent albenian kingdom meant to keep peace further inflamed tensions
+- AF the creation of the independent Albanian kingdom meant to keep peace further inflamed tensions
 
 *Usage of absolute force will lead to the victimization of the user*
 
@@ -58,7 +58,7 @@ Self-interested ~~coorporation~~ compromises with other parties causes war.
 
 (um... Raison freaking detat again! Or maybe [[KBhHIST201Realism]])
 
-"Instead of leveraging a more passive strategy of defense to maintain peace, European nations in the early 19th century chose a more active role in security that resulted in the disruption of preset balances of power.
+"Instead of leveraging a more passive strategy of defense to maintain peace, European nations in the early 19th century chose a more active role in security though that resulted in the disruption of preset balances of power. 
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
