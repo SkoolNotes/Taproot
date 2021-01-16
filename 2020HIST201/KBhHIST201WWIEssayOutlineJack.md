@@ -46,7 +46,7 @@ Self-interested ~~coorporation~~ compromises with other parties causes war.
 - AE Capitulation between Austria and Russia ended up screwing Russia over
 - AF the creation of the independent Albanian kingdom meant to keep peace further inflamed tensions
 
-*Usage of absolute force will lead to the victimization of the user*
+*Preemptive use of absolute force will lead to the victimization of the user*
 
 - AH Submarine attacks did basically nothing except letting Amercians be angry + end war
 - AI Germans encouraged austria-hungry to use full force, bringing war
@@ -59,7 +59,8 @@ Self-interested ~~coorporation~~ compromises with other parties causes war.
 
 (um... Raison freaking detat again! Or maybe [[KBhHIST201Realism]])
 
-**Instead of leveraging a more passive strategy of defense to maintain peace, European nations in the early 19th century chose a more active role for security though compromising peacekeeping agreements, preemptive use of absolute force, and subversive deals with opposition that resulted in the disruption of preset balances of power and lead to World War I.**
+**Instead of leveraging a more passive strategy of defense to maintain peace, European nations in the early 19th century chose a more active role for national security though compromising peacekeeping agreements, preemptive use of absolute force, and subversive deals with opposition that resulted in the disruption of preset balances of power and lead to World War I.**
+
 ***
 
 There is always [UCLA Writing Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf)
