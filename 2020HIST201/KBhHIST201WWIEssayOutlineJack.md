@@ -48,6 +48,7 @@ Self-interested ~~coorporation~~ compromises with other parties causes war.
 
 *Usage of absolute force will lead to the victimization of the user*
 
+- AH Submarine attacks did basically nothing except letting Amercians be angry + end war
 - AI Germans encouraged austria-hungry to use full force, bringing war
 - AJ Russians got also issued a blank check for Russia to fight, which actually lead Russia to be victimized during the war (AK)
 
@@ -58,41 +59,7 @@ Self-interested ~~coorporation~~ compromises with other parties causes war.
 
 (um... Raison freaking detat again! Or maybe [[KBhHIST201Realism]])
 
-"Instead of leveraging a more passive strategy of defense to maintain peace, European nations in the early 19th century chose a more active role for security though compromising anticipatory agreements, preentive usage of absolute force, and subversive deals with opposition that resulted in the disruption of preset balances of power and lead to World War I."
-
-## Defluffifying
-CHOSEN THESIS CLAIM
-
-* Point a 
-* Point b
-* Point c
-
-So what? SO WHAT
-
-Now, defluffify by re-writing the three points + so what in as little words as possible.
-
-**RESTATED CLAIM**
-
-## Outline
-- Claim 1: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
-- Claim 2: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
-- Claim 3: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
-
+**Instead of leveraging a more passive strategy of defense to maintain peace, European nations in the early 19th century chose a more active role for security though compromising peacekeeping agreements, preemptive use of absolute force, and subversive deals with opposition that resulted in the disruption of preset balances of power and lead to World War I.**
 ***
 
 There is always [UCLA Writing Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf)
