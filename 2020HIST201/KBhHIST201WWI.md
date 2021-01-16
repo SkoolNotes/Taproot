@@ -5,34 +5,23 @@ author: Houjun Liu
 course: HIST201
 ---
 
-# CN20210111
-## Classtime aftercare
-- Less papers (2)
-- First paper next week! Causes of WWI.
+#completely #disorganized #flo
 
-**First, a free-write**: why does war exist? Are they products of failure in other realms or logical products of global systems? What would be required to put an end to war? Is there just/good/ethical wars.
+# World War I
+*Everything has a beginning, middle, and end, so, no surprises here.*
 
-War exists when traditional systems of diplomacy failed to produce an adequate enough solution that pleases both parties. They are logical products of perhaps not global systems but the sheer competitive and animistic nature of human beings. Because wars are generally more binary things than traditional diplomacy (enemies are bad, allies are good, kill the enemies, support the allies), they are instruments that a state could more easily summon efforts to and propagandize upon than a compromise-based diplomatic agreements. 
+## The Beginning: Buildup for European Tension
+"WWI really started by the French Revolution" (Clay.) In some respects that's true, there are factors in the European governmental system that leads to the diplomatic collapse we see at the world wars. 
 
-This animistic and binary nature also means that wars could only end when one of both of the conditions fail: either the parties agree to compromise — an act that elevates them from the realms of the "beast" to that of the "person" — or one party dominate the other, which upsets the binary nature of conflict and reduces the action to the direct action of dominance.
+For more, see [[KBhHIST201WWIBeginning]].
 
-Because ethical standards are a humanistic construct, wars — an animistic action — could never really be ethical.
+## Starting the War: Tensions Boiling Over
+The mess with the Slavic Nationalists and Bonians directly triggered the war. See [[KBhHIST201WWITriggering]] 
 
-***
-
-Animistic? Animals have wars. Even coordinated wars like ants do.
-
-- Conflicts naturally happen, but wars are more difficult to say
-	- Globalized wars is slightly more unnatural compared to localized conflicts
-	- However, fundamentally animistic
-	
-Bellicist theory: states happen to make war
+## The War 
+The actual war is a hot mess, too! See [[KBhHIST201WWIActualWar]] 
 
 ***
 
-If war-making could be disconnected from the drive of wealth, wars will probably happen less!
- 
-*** 
-
-Wars are games where the balance between individuals
+And then, basically immediately, an essay: [[KBhHIST201WWIEssayOutlineJack]] 
 

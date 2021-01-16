@@ -100,6 +100,7 @@ source: #index
 - Sushu's Rapid Fire Japan [[KBhHIST201JapanClassFlo]]
 
 ## Unit 4: WWI w.r.t. Early European BOP
+- Palmer Chapter 17 [[BhHIST201PalmerCh17]] 
 - CN2021011 [[KBhHIST201WWI]] 
 
 ## Essays
@@ -119,6 +120,8 @@ source: #index
 * IndustrialRev Essay
 	* [[KBhHIST201Unit3EssayJack]] 
 	* [[KBxUnit3EssayPlanning]] @jack why did u delete my thing?  @hux no I didn't?
+* WWI Essay
+	*  [[KBhHIST201WWIEssayOutlineJack]]  
 * Self Evals [[KBxHistSelfEval2020]]
 
 ## Meta References
@@ -130,11 +133,6 @@ source: #index
 
 - [[KBxDayOne]]
 - [[KBxPalmerCh17]] 
-
-
-
-
-
 
 
 

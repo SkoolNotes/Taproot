@@ -38,7 +38,6 @@ source: #index
 * Thoughts on Imperialism and Colonialism 
 	* [[KBhENG201ImperialismColonialism]]
 	
-	
 [Digital Version](https://www.gutenberg.org/files/219/219-h/219-h.htm)
 
 # **Heart of Darkness**
@@ -56,17 +55,18 @@ source: #index
 
 
 # A Small Place 
-
 * Huxley Pastiche Planning [[KBxPastichePlanning]]
 
 # Self Evals
-
-* Huxe's [[KBxEngSelfEval]]
+* Hux's [[KBxEngSelfEval]]
 
 ## Annotated Docs
-| | |
-|-|-|
-Notes on `The I Is Never Alone` | [[KB2NotesonTheIIsNeverAlone]]
-_The I Is Never Alone_ + imperialism notes | [[KBe2020eng201floImperalismNotes]]
-_The Bird-Dreaming Baobab_ pass 0 | [[KBe2020eng201floBirdDreamingBaobab0.pdf]]
+
+|--------------------------------------------|---------------------------------------------|
+| Document                                   | Link                                        |
+|--------------------------------------------|---------------------------------------------|
+| Notes on `The I Is Never Alone`            | [[KB2NotesonTheIIsNeverAlone]]              |
+| _The I Is Never Alone_ + imperialism notes | [[KBe2020eng201floImperalismNotes]]         |
+| _The Bird-Dreaming Baobab_ pass 0          | [[KBe2020eng201floBirdDreamingBaobab0.pdf]] |
+|--------------------------------------------|---------------------------------------------|
 

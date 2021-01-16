@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title> HIST201 Triggering WWI </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>HIST201</strong> Triggering WWI </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhHIST201WWI"><span><strong>[[</strong></span><strong>KBhHIST201WWI</strong><span><strong>]]</strong></span></a></span></p>
+            <h1 id="wartime-tensions-triggering-wwi">Wartime Tensions: Triggering WWI</h1>
+            <h2 id="slavic-natinoalism">Slavic Natinoalism</h2>
+            <p>Slavic nationalists believe that Germanic Dual-Monarchy will not grant them enough rights as a culture, so nationalism caused part of Austria to want to join Serbia.</p>
+            <p>CLAIM @<span>[</span><span>[</span>KBhHIST201PalmerCh17<span>]</span><span>]</span>: the alliance system is a sign of deeper issues caused by the fact that the world had a globalized economy buit with a national-level governance; each government is economically dependent but ideologically independent so must compete to get resources and form alliances to bolster security</p>
+            <hr />
+            <p>Before we continue, a crash course on Realism.</p>
+            <p><span>[</span><span>[</span>KBhHIST201Realism<span>]</span><span>]</span></p>
+            <hr />
+            <p>19th century status quo was challenged when the HRE failed to recognize the collective.</p>
+            <h2 id="diplomatic-collapse">Diplomatic collapse</h2>
+            <p>Two things lead to the final displomatic collapse…</p>
+            <ol>
+            <li><p>Young Turks forced the Ottoman sultan to restore parlimentary constitution, and invited delegates from Bosnia + Bulgaria to participate</p></li>
+            <li><p>Russia, failing to control Japan, seeked control of Constantenopal.</p></li>
+            </ol>
+            <p>Russian and Austrian foreign ministers agreed to call a confrence to annex Bosina. But, Austria did it before actually colling the confrence, which lead to the unhappiness of the serbs (who wanted Bosinia) even more grumbly. Rrussian public opinion stands with Bosnia + the Serbs even if its government is secretly plotting against them.</p>
+            <p>Italy declared war on Turkey, embarissing the ottomans. This caused a series of effects w.r.t. the Serbs that lead to two Balkan wars.</p>
+            <p>Serbs, Greeks, and Austrians each tried to advocate their own interested, eventually resulting an agreement of peace and an indipendent Albanian kingdom — which… made everyone unhappy.</p>
+            <p>Claim: <strong>a third Balking crisis caused the war: Austra feels exasperated, Serbs feel Deperate, and Russians feel humiliated.</strong></p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>
