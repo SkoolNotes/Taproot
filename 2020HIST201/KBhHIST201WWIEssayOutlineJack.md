@@ -57,8 +57,9 @@ Self-interested ~~coorporation~~ compromises with other parties causes war.
 - AI Germans encouraged austria-hungry to use full force, bringing war
 - AJ Russians got also issued a blank check for Russia to fight, which actually lead Russia to be victimized during the war (AK)
 
-Raison freaking detat again! Or maybe [[KBhHIST201Realism]] 
+(um... Raison freaking detat again! Or maybe [[KBhHIST201Realism]])
 
+"Instead of leveraging a more passive strategy of defense to maintain peace, European nations chose a active role in maintaining peace in the 19th century
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
