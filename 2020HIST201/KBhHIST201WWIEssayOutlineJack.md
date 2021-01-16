@@ -58,7 +58,7 @@ Self-interested ~~coorporation~~ compromises with other parties causes war.
 
 (um... Raison freaking detat again! Or maybe [[KBhHIST201Realism]])
 
-"Instead of leveraging a more passive strategy of defense to maintain peace, European nations in the early 19th century chose a more active role for security though compromising anticipatory agreements, usage of absolute force, and subversive deals with opposition that resulted in the disruption of preset balances of power and lead to World War I."
+"Instead of leveraging a more passive strategy of defense to maintain peace, European nations in the early 19th century chose a more active role for security though compromising anticipatory agreements, preentive usage of absolute force, and subversive deals with opposition that resulted in the disruption of preset balances of power and lead to World War I."
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
