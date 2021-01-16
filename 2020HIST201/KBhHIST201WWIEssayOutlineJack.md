@@ -58,7 +58,7 @@ Self-interested ~~coorporation~~ compromises with other parties causes war.
 
 (um... Raison freaking detat again! Or maybe [[KBhHIST201Realism]])
 
-"Instead of leveraging a more passive strategy of defense to maintain peace, European nations in the early 19th century chose a more active role in peacekeeping 
+"Instead of leveraging a more passive strategy of defense to maintain peace, European nations in the early 19th century chose a more active role in security that resulted in the disruption of preset balances of power.
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
