@@ -51,14 +51,14 @@ Self-interested ~~coorporation~~ compromises with other parties causes war.
 - AI Germans encouraged austria-hungry to use full force, bringing war
 - AJ Russians got also issued a blank check for Russia to fight, which actually lead Russia to be victimized during the war (AK)
 
-*Indirect deals with opposition will cause systemic collapse*
+*Subversive deals with opposition will cause systemic collapse*
 
 - AA Bismarck tried to double ensure his country by forming two-sided alliances that failed
 - AG attempts to coax Mexico for security + to end the stalemate foreshadowed the involvement of the US in the war
 
 (um... Raison freaking detat again! Or maybe [[KBhHIST201Realism]])
 
-"Instead of leveraging a more passive strategy of defense to maintain peace, European nations in the early 19th century chose a more active role for security though compromising anticipatory agreements, usage of absolute force, and indirect deals with opposition that resulted in the disruption of preset balances of power and lead to World War I."
+"Instead of leveraging a more passive strategy of defense to maintain peace, European nations in the early 19th century chose a more active role for security though compromising anticipatory agreements, usage of absolute force, and subversive deals with opposition that resulted in the disruption of preset balances of power and lead to World War I."
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
