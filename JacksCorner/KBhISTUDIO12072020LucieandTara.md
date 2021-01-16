@@ -15,4 +15,5 @@ course: iStudio
 * Christmas
 	* User interview: John's Mother  => trying to reach out to different users
 	* Tried reaching out to the artheritus foundation , and hoped to speak with a community member
-	* Spoke with Stanford docs about 
+	* Spoke with Stanford pediatric rumotologist
+
