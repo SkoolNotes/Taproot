@@ -46,20 +46,19 @@ Self-interested ~~coorporation~~ compromises with other parties causes war.
 - AE Capitulation between Austria and Russia ended up screwing Russia over
 - AF the creation of the independent albenian kingdom meant to keep peace further inflamed tensions
 
+*Usage of absolute force will lead to the victimization of the user*
+
+- AI Germans encouraged austria-hungry to use full force, bringing war
+- AJ Russians got also issued a blank check for Russia to fight, which actually lead Russia to be victimized during the war (AK)
+
 *Indirect deals with opposition will cause systemic collapse*
 
 - AA Bismarck tried to double ensure his country by forming two-sided alliances that failed
 - AG attempts to coax Mexico for security + to end the stalemate forshadowed the involvement of the US in the war
 
-*Usage of absolute force will lead to the victimization of the user*
-
-<!-- - AH Submarine attacks did basically nothing except letting Amercians be angry + end war -->
-- AI Germans encouraged austria-hungry to use full force, bringing war
-- AJ Russians got also issued a blank check for Russia to fight, which actually lead Russia to be victimized during the war (AK)
-
 (um... Raison freaking detat again! Or maybe [[KBhHIST201Realism]])
 
-"Instead of leveraging a more passive strategy of defense to maintain peace, European nations chose a active role in maintaining peace in the 19th century
+"Instead of leveraging a more passive strategy of defense to maintain peace, European nations in the early 19th century chose a more active role in peacekeeping 
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
