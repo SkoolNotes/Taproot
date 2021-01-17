@@ -43,18 +43,18 @@ Self-interested ~~coorporation~~ compromises with other parties causes war.
 
 *Compromises for peace will inflame tensions*
 
+- AA Bismarck tried to double ensure his country by forming two-sided alliances that failed
 - AE Capitulation between Austria and Russia ended up screwing Russia over
 - AF the creation of the independent Albanian kingdom meant to keep peace further inflamed tensions
 
 *Preemptive use of absolute force will lead to the victimization of the user*
 
-- AH Submarine attacks did basically nothing except letting Amercians be angry + end war
 - AI Germans encouraged austria-hungry to use full force, bringing war
 - AJ Russians got also issued a blank check for Russia to fight, which actually lead Russia to be victimized during the war (AK)
 
 *Subversive deals with opposition will cause systemic collapse*
 
-- AA Bismarck tried to double ensure his country by forming two-sided alliances that failed
+- AH Submarine attacks did basically nothing except letting Amercians be angry + end war
 - AG attempts to coax Mexico for security + to end the stalemate foreshadowed the involvement of the US in the war
 
 (um... Raison freaking detat again! Or maybe [[KBhHIST201Realism]])
