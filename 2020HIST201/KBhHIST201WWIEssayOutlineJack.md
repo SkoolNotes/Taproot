@@ -50,11 +50,11 @@ Self-interested ~~coorporation~~ compromises with other parties causes war.
 
 - AI Germans encouraged austria-hungry to use full force, bringing war
 - AJ Russians got also issued a blank check for Russia to fight, which actually lead Russia to be victimized during the war (AK)
-
+- AH Submarine attacks did basically nothing except letting Amercians be angry + end war
+- 
 *Subversive deals with opposition will cause systemic collapse*
 
 - AE Capitulation between Austria and Russia ended up screwing Russia over
-- AH Submarine attacks did basically nothing except letting Amercians be angry + end war
 - AG attempts to coax Mexico for security + to end the stalemate foreshadowed the involvement of the US in the war
 
 (um... Raison freaking detat again! Or maybe [[KBhHIST201Realism]])
