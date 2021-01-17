@@ -37,5 +37,5 @@ Derivative of $f(x)$ => $\frac{dy}{dx}$
 | $ln(x)$       | $\frac{1}{x}$          |
 | $a^x$         | $a^x ln(a)$            |
 | $log_a(x)$    | $\frac{1}{x ln(a)}$    |
-| $f^-1(f(x))$  | $\frac{1}{f'(x)}$      |
+| $f^-1(x)$  | $\frac{1}{f'(f^-1(x))}$      |
 
