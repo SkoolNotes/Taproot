@@ -1,4 +1,8 @@
-
+\documentclass{article}
+\usepackage{amsmath,amsfonts}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\begin{document}
 $\frac{\Delta Y}{\Delta X}$
 $\lim_{\Delta x \to 0} \frac{\Delta Y}{\Delta X}$
 $f(x)$
@@ -33,4 +37,7 @@ $a^x$
 $a^x ln(a)$
 $log_a(x)$
 $\frac{1}{x ln(a)}$
-$f^-1(f(x))   | $
+\end{document}
+%%Local Variables:
+%%TeX-master: t
+%%End:
