@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6817)}}    % original
-%\rhead{\textrmlf{Compiled }\#6817\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6817\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6834)}}    % original
+%\rhead{\textrmlf{Compiled }\#6834\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6834\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -231,6 +231,7 @@ f(x) & f'(x)\tabularnewline
 \(ln(x)\) & \(\frac{1}{x}\)\tabularnewline
 \(a^x\) & \(a^x ln(a)\)\tabularnewline
 \(log_a(x)\) & \(\frac{1}{x ln(a)}\)\tabularnewline
+\$f\^{}-1(f(x)) & \(\frac{1}{f'(x)}\)\tabularnewline
 \bottomrule
 \end{longtable}
 
