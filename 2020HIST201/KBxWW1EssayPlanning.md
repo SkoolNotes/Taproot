@@ -93,8 +93,10 @@ usefullness of analysis at different levels?
 
 
 
+war is a local minima in the system
 
 
+nukes have allowed us to jump peaks and reach a lower minima
 
 
 
