@@ -75,7 +75,10 @@ or is the aproach, 'random chance events are inevitable (in a system with so man
 
 
 
+top down 
 
+
+bottom up
 
 
 
