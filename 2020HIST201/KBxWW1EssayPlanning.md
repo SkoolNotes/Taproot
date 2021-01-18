@@ -123,6 +123,8 @@ system has changed, MAD has allowed us to jump peaks to a lower minima.
 
 war only breaks out when tenstions are high, otherwise you would just defend. 
 
+once tensions become high, war becomes inevitable. 
+
 
 
 
