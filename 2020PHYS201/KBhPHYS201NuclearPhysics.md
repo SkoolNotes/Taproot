@@ -159,4 +159,4 @@ Nuclear processes usually end up with Iron; like...
 
 ***
 
-But actually this is kind of a lie. It is actully a contour of all different izotopes, measured in "binding" energy and not PE. The **binding energy** is how 
+But actually this is kind of a lie. It is actully a contour of all different izotopes, measured in "binding" energy and not PE. The **binding energy** is how forcibly the nucleaus are bound together — the more tighly bound, the more energy it would require to break the binding.
