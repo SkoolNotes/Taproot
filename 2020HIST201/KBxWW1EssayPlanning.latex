@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6847)}}    % original
-%\rhead{\textrmlf{Compiled }\#6847\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6847\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6848)}}    % original
+%\rhead{\textrmlf{Compiled }\#6848\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6848\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -198,5 +198,17 @@ Analyze World War 1 according to one (or a blend) of these levels of analysis. M
 
 resources: {[}{[}GHMW Unit 4.pdf{]}{]} palmer reading
 https://drive.google.com/drive/folders/1KTggTDz3Yl7fT9MxwG4l25qMPNyiUioe?usp=sharing
+
+levels of analysis:
+
+\begin{itemize}
+\tightlist
+\item
+  individual
+\item
+  state
+\item
+  system
+\end{itemize}
 
 \end{document}

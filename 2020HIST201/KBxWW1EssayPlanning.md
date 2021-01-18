@@ -34,7 +34,11 @@ https://drive.google.com/drive/folders/1KTggTDz3Yl7fT9MxwG4l25qMPNyiUioe?usp=sha
 
 
 
+levels of analysis:
 
+- individual
+- state
+- system 
 
 
 
