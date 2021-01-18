@@ -150,7 +150,7 @@ The bottom row of "mass number" is nucleons w.r.t. the most common izotope
 
 ![Pasted image 20210118093104.png](Pasted image 20210118093104.png)
 
-Iron is a terriable way of getting some energy out of a atom becaus eit has the l
+Iron is a terriable way of getting some energy out of a atom because it has the lowest ever potential energy
 
 
 

@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6871)}}    % original
-%\rhead{\textrmlf{Compiled }\#6871\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6871\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6872)}}    % original
+%\rhead{\textrmlf{Compiled }\#6872\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6872\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -410,6 +410,13 @@ potential energy of a system.
 The bottom row of ``mass number'' is nucleons w.r.t. the most common
 izotope
 
-{[}{[}Pasted image 20210118093104.png{]}{]}
+\begin{figure}
+\centering
+\includegraphics{Pasted image 20210118093104.png}
+\caption{Pasted image 20210118093104.png}
+\end{figure}
+
+Iron is a terriable way of getting some energy out of a atom because it
+has the lowest ever potential energy
 
 \end{document}
