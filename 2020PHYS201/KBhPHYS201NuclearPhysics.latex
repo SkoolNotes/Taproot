@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6876)}}    % original
-%\rhead{\textrmlf{Compiled }\#6876\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6876\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6877)}}    % original
+%\rhead{\textrmlf{Compiled }\#6877\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6877\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -438,5 +438,8 @@ different izotopes, measured in ``binding'' energy and not PE. The
 \textbf{binding energy} is how forcibly the nucleaus are bound together
 --- the more tighly bound, the more energy it would require to break the
 binding.
+
+Also, Binding Energy is measured in Mev, which convents to Joules with
+\$1MeV
 
 \end{document}
