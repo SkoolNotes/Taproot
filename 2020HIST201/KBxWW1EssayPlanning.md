@@ -105,9 +105,9 @@ non warring states have incentive to allie with winning side and gain power with
 
 this brings the entire system into war
 
-as more actors join into the war, you MUST join the war. one side of the war will win, and massively gain power
+as more actors join into the war, you MUST join the war. one side of the war will win, and massively gain power. you cannot stay at your old divided power level.
 
-
+just as peace is an emergent property of raison detant (BOP), as is war. maintains peace, but ca
 
 
 
