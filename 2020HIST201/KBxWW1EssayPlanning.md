@@ -58,7 +58,7 @@ potential essay:
 	simply map to analysis levels
 
 
-
+claim: not actully three seperate levels? higher up levels cannot be generated withought the previous? 
 
 
 
