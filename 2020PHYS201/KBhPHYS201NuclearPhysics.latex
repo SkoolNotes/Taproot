@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6867)}}    % original
-%\rhead{\textrmlf{Compiled }\#6867\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6867\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6869)}}    % original
+%\rhead{\textrmlf{Compiled }\#6869\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6869\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -397,5 +397,11 @@ one)
 Due to conservation of energy, not every fission/fusion releases energy.
 If fission of A =\textgreater{} B C releases energy, fusion of B+C
 =\textgreater{} A wil not.
+
+\begin{figure}
+\centering
+\includegraphics{Pasted image 20210118092740.png}
+\caption{Pasted image 20210118092740.png}
+\end{figure}
 
 \end{document}

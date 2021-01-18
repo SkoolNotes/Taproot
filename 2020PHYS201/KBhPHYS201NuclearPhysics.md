@@ -142,3 +142,6 @@ Changes though **fission** (one nucleaus become two pieces, probably due to the 
 
 Due to conservation of energy, not every fission/fusion releases energy. If fission of A => B C releases energy, fusion of B+C => A wil not.
 
+![Pasted image 20210118092740.png](Pasted image 20210118092740.png)
+
+
