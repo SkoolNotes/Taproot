@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6852)}}    % original
-%\rhead{\textrmlf{Compiled }\#6852\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6852\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6853)}}    % original
+%\rhead{\textrmlf{Compiled }\#6853\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6853\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -225,5 +225,8 @@ analysis levels
 
 claim: not actully three seperate levels? higher up levels cannot be
 generated withought the previous?
+
+systems need to account for randomness, which is inevitable. thus,
+higher level analysis?
 
 \end{document}

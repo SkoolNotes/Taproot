@@ -62,6 +62,7 @@ claim: not actully three seperate levels? higher up levels cannot be generated w
 
 
 
+systems need to account for randomness, which is inevitable. thus, higher level analysis? 
 
 
 
