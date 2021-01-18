@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6865)}}    % original
-%\rhead{\textrmlf{Compiled }\#6865\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6865\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6866)}}    % original
+%\rhead{\textrmlf{Compiled }\#6866\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6866\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -389,6 +389,8 @@ uniformly random distribution.
 \hypertarget{fission-and-fusion}{%
 \subsection{Fission and Fusion}\label{fission-and-fusion}}
 
-Changes though fission
+Changes though \textbf{fission} (one nucleaus become two pieces,
+probably due to the partent absorbing a neutron, a.k.a. more equal parts
+of alpha decay) or \textbf{fusion} (two nuclei joining two)
 
 \end{document}
