@@ -162,3 +162,12 @@ Nuclear processes usually end up with Iron; like...
 But actually this is kind of a lie. It is actully a contour of all different izotopes, measured in "binding" energy and not PE. The **binding energy** is how forcibly the nucleaus are bound together — the more tighly bound, the more energy it would require to break the binding.
 
 Also, Binding Energy is measured in MeV, which convents to Joules with $1 MeV = 1.6 \times 10^{-13} J$.
+
+Nuclear fission is triggered by smushing a neutron into an atom.
+
+For instance...
+
+![[Pasted image 20210118094127.png]]
+
+
+

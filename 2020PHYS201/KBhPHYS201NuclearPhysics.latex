@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6878)}}    % original
-%\rhead{\textrmlf{Compiled }\#6878\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6878\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6879)}}    % original
+%\rhead{\textrmlf{Compiled }\#6879\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6879\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -441,5 +441,11 @@ binding.
 
 Also, Binding Energy is measured in MeV, which convents to Joules with
 \(1 MeV = 1.6 \times 10^{-13} J\).
+
+Nuclear fission is triggered by smushing a neutron into an atom.
+
+For instance\ldots{}
+
+{[}{[}Pasted image 20210118094127.png{]}{]}
 
 \end{document}
