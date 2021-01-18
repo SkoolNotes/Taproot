@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6873)}}    % original
-%\rhead{\textrmlf{Compiled }\#6873\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6873\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6874)}}    % original
+%\rhead{\textrmlf{Compiled }\#6874\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6874\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -427,7 +427,8 @@ Nuclear processes usually end up with Iron; like\ldots{}
   If you are on the ``blue''/``left'' region, you release energy by
   fusioning into iron (add stuff up until you get to stable iron.)
 \item
-  If you are on the ""
+  If you are on the ``yellow''/``right'' region, you release energy by
+  fissioning into iron (split until you get to iron)
 \end{itemize}
 
 \end{document}

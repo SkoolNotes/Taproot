@@ -155,4 +155,4 @@ Iron is a terriable way of getting some energy out of a atom because it has the 
 Nuclear processes usually end up with Iron; like...
 
 - If you are on the "blue"/"left" region, you release energy by fusioning into iron (add stuff up until you get to stable iron.)
-- If you are on the "yellow"/"r"
+- If you are on the "yellow"/"right" region, you release energy by fissioning into iron (split until you get to iron)
