@@ -40,5 +40,5 @@ Derivative of $f(x)$ => $\frac{dy}{dx}$
 | $f^-1(x)$  | $\frac{1}{f'(f^-1(x))}$      |
 | $sin^-1(ax)$ | $\frac{a}{\sqrt{1-(ax)^2}}$ |
 | $cos^-1(ax)$ | $\frac{-1}{\sqrt{1-(ax)^2}}$ |
-| $tan^-1(x)$ | $\frac{1}{1+x^2}$ |
+| $tan^-1(ax)$ | $\frac{1}{1+(ax)^2}$ |
 
