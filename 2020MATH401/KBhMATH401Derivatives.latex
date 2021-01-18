@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6863)}}    % original
-%\rhead{\textrmlf{Compiled }\#6863\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6863\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6864)}}    % original
+%\rhead{\textrmlf{Compiled }\#6864\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6864\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -223,7 +223,7 @@ f(x) & f'(x) \\ \addlinespace
 \(\sqrt{x}\) & \(\frac{1}{2 \sqrt{x}}\) \\ \addlinespace
 \(\sin(x)\) & \(\cos (x)\) \\ \addlinespace
 \(\cos(x)\) & \(-\sin (x)\) \\ \addlinespace
-\(\tan(x)\) & \(1 + \tan^2 (x)\) \\ \addlinespace
+\(\tan(x)\) & \(1 + \tan^2 (x) = sec^2(x)\) \\ \addlinespace
 \(\cot(x)\) & \(-\csc^2 (x)\) \\ \addlinespace
 \(\sec(x)\) & \(\tan(x) \sec(x)\) \\ \addlinespace
 \(\csc(x)\) & \(-\cot(x) \csc(x)\) \\ \addlinespace

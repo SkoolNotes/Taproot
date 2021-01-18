@@ -29,7 +29,7 @@ Derivative of $f(x)$ => $\frac{dy}{dx}$
 | $\sqrt{x}$    | $\frac{1}{2 \sqrt{x}}$ |
 | $\sin(x)$     | $\cos (x)$             |
 | $\cos(x)$     | $-\sin (x)$            |
-| $\tan(x)$     | $1 + \tan^2 (x)$       |
+| $\tan(x)$     | $1 + \tan^2 (x) = sec^2(x)$      |
 | $\cot(x)$     | $-\csc^2 (x)$          |
 | $\sec(x)$     | $\tan(x) \sec(x)$      |
 | $\csc(x)$     | $-\cot(x) \csc(x)$     |
