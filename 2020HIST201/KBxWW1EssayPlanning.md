@@ -110,11 +110,10 @@ as more actors join into the war, you MUST join the war. one side of the war wil
 just as peace is an emergent property of raison detant (BOP), global war can be as well? 
 easily "excitable"
 
+prisoners dillema sqaure, when tensions are high, best desition is to attack. also best descition to bring allies, and best desition for allies to join in. tragedy of the commons
 
 
-
-
-
+MODERN DAY: all sqaurs, aa, 
 
 
 
