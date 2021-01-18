@@ -38,7 +38,7 @@ Derivative of $f(x)$ => $\frac{dy}{dx}$
 | $a^x$         | $a^x ln(a)$            |
 | $log_a(x)$    | $\frac{1}{x ln(a)}$    |
 | $f^-1(x)$  | $\frac{1}{f'(f^-1(x))}$      |
-| $sin^-1(x)$ | $\frac{1}{\sqrt{1-x^2}}$ |
-| $cos^-1(x)$ | $\frac{-1}{\sqrt{1-x^2}}$ |
+| $sin^-1(ax)$ | $\frac{a}{\sqrt{1-(ax)^2}}$ |
+| $cos^-1(ax)$ | $\frac{-1}{\sqrt{1-(ax)^2}}$ |
 | $tan^-1(x)$ | $\frac{1}{1+x^2}$ |
 
