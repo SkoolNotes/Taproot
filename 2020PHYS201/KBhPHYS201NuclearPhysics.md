@@ -142,13 +142,13 @@ Changes though **fission** (one nucleaus become two pieces, probably due to the 
 
 Due to conservation of energy, not every fission/fusion releases energy. If fission of A => B C releases energy, fusion of B+C => A wil not.
 
-![Pasted image 20210118092740.png](Pasted image 20210118092740.png)
+![Pasted image 20210118092740.png](./Pasted image 20210118092740.png)
 
 You could think of the energy released as part of fission as the potential energy of a system.
 
 The bottom row of "mass number" is nucleons w.r.t. the most common izotope
 
-![Pasted image 20210118093104.png](Pasted image 20210118093104.png)
+![Pasted image 20210118093104.png](./Pasted image 20210118093104.png)
 
 Iron is a terriable way of getting some energy out of a atom because it has the lowest ever potential energy
 
@@ -156,3 +156,7 @@ Nuclear processes usually end up with Iron; like...
 
 - If you are on the "blue"/"left" region, you release energy by fusioning into iron (add stuff up until you get to stable iron.)
 - If you are on the "yellow"/"right" region, you release energy by fissioning into iron (split until you get to iron)
+
+***
+
+But actually this is kind of a lie. It is actully a contour of all different izotopes, measured in "binding" energy and not PE. The **binding energy** is how 

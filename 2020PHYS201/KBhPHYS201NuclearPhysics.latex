@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6874)}}    % original
-%\rhead{\textrmlf{Compiled }\#6874\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6874\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6875)}}    % original
+%\rhead{\textrmlf{Compiled }\#6875\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6875\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -400,7 +400,7 @@ If fission of A =\textgreater{} B C releases energy, fusion of B+C
 
 \begin{figure}
 \centering
-\includegraphics{Pasted image 20210118092740.png}
+\includegraphics{./Pasted image 20210118092740.png}
 \caption{Pasted image 20210118092740.png}
 \end{figure}
 
@@ -412,7 +412,7 @@ izotope
 
 \begin{figure}
 \centering
-\includegraphics{Pasted image 20210118093104.png}
+\includegraphics{./Pasted image 20210118093104.png}
 \caption{Pasted image 20210118093104.png}
 \end{figure}
 
@@ -430,5 +430,9 @@ Nuclear processes usually end up with Iron; like\ldots{}
   If you are on the ``yellow''/``right'' region, you release energy by
   fissioning into iron (split until you get to iron)
 \end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+But actually this is kind of a lie.
 
 \end{document}
