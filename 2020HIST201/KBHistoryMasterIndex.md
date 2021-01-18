@@ -140,7 +140,7 @@ source: #index
 
 ### Essays 
 
-- [[KBxWW1
+- [[KBxWW1EssayPlanning]]
 
 
 
