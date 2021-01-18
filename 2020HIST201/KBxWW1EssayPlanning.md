@@ -99,6 +99,27 @@ war is a local minima in the system
 nukes have allowed us to jump peaks and reach a lower minima
 
 
+warring state has incentive to bring allies into war 
+
+non warring states have incentive to allie with winning side and gain power with them, as well as prevent others from becoming to powerful -- BOP dynamic from resan detant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
