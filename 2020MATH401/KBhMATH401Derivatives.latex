@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6860)}}    % original
-%\rhead{\textrmlf{Compiled }\#6860\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6860\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6861)}}    % original
+%\rhead{\textrmlf{Compiled }\#6861\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6861\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -234,6 +234,7 @@ f(x) & f'(x) \\ \addlinespace
 \(f^-1(x)\) & \(\frac{1}{f'(f^-1(x))}\) \\ \addlinespace
 \(sin^-1(x)\) & \(\frac{1}{\sqrt{1-x^2}}\) \\ \addlinespace
 \(cos^-1(x)\) & \(\frac{-1}{\sqrt{1-x^2}}\) \\ \addlinespace
+\(tan^-1(x)\) & \(\frac{1}{1+x^2}\) \\ \addlinespace
 \bottomrule
 \end{longtable}
 
