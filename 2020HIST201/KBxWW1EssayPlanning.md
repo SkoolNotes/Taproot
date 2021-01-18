@@ -116,7 +116,7 @@ war breaks out
 OLD: [aa] => 1,1, [da, ad] => 0,3 3,0, [dd] => 2,2 || a
 NEW: [aa, ad, da] => 0,0. [dd] => 2,2 || d
 
-system has changes, nukes have allowed us to jump peaks to a lower minia. 
+system has changes, MAD has allowed us to jump peaks to a lower minima.
 
 
 
