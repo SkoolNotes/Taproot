@@ -138,5 +138,7 @@ Vocab! Nucleon: neutron + proton.
 The standard deviation of $N$ counts is the $\sqrt(N)$ if there is a uniformly random distribution.
 
 ## Fission and Fusion
-Changes though **fission** (one nucleaus become two pieces, probably due to the partent absorbing a neutron, a.k.a. more equal parts of alpha decay) or **fusion** (two nuclei joining two)
+Changes though **fission** (one nucleaus become two pieces, probably due to the partent absorbing a neutron, a.k.a. more equal parts of alpha decay) or **fusion** (two nuclei joining together to form one)
+
+Due to conservation of energy, not every fission/fusion releases energy. If fission of A => B C releases energy, fusion of B+C => A wil not.
 
