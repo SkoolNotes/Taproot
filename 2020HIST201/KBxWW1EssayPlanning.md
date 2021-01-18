@@ -71,7 +71,13 @@ systems: random chance events will happen
 
 was it a random chance event? was this the 'natural progression of things'? 
 
-or is the aproach, 'random chance events are inevitable (in a system with so many actors), we 
+or is the aproach, 'random chance events are inevitable (in a system with so many actors), thus the system must be set up for this? or it is part of the system?'
+
+
+
+
+
+
 
 
 
