@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6837)}}    % original
-%\rhead{\textrmlf{Compiled }\#6837\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6837\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6858)}}    % original
+%\rhead{\textrmlf{Compiled }\#6858\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6858\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -213,25 +213,26 @@ Derivatives}\label{useful-table-of-derivatives}}
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
-f(x) & f'(x)\tabularnewline
+f(x) & f'(x) \\ \addlinespace
 \midrule
 \endhead
-\(x^2\) & \(2x\)\tabularnewline
-\(x^3\) & \(3x^2\)\tabularnewline
-\(x^n\) & \(nx^{n-1}\)\tabularnewline
-\(\frac{1}{x}\) & \(\frac{-1}{x^2}\)\tabularnewline
-\(\sqrt{x}\) & \(\frac{1}{2 \sqrt{x}}\)\tabularnewline
-\(\sin(x)\) & \(\cos (x)\)\tabularnewline
-\(\cos(x)\) & \(-\sin (x)\)\tabularnewline
-\(\tan(x)\) & \(1 + \tan^2 (x)\)\tabularnewline
-\(\cot(x)\) & \(-\csc^2 (x)\)\tabularnewline
-\(\sec(x)\) & \(\tan(x) \sec(x)\)\tabularnewline
-\(\csc(x)\) & \(-\cot(x) \csc(x)\)\tabularnewline
-\(e^x\) & \(e^x\)\tabularnewline
-\(ln(x)\) & \(\frac{1}{x}\)\tabularnewline
-\(a^x\) & \(a^x ln(a)\)\tabularnewline
-\(log_a(x)\) & \(\frac{1}{x ln(a)}\)\tabularnewline
-\(f^-1(x)\) & \(\frac{1}{f'(f^-1(x))}\)\tabularnewline
+\(x^2\) & \(2x\) \\ \addlinespace
+\(x^3\) & \(3x^2\) \\ \addlinespace
+\(x^n\) & \(nx^{n-1}\) \\ \addlinespace
+\(\frac{1}{x}\) & \(\frac{-1}{x^2}\) \\ \addlinespace
+\(\sqrt{x}\) & \(\frac{1}{2 \sqrt{x}}\) \\ \addlinespace
+\(\sin(x)\) & \(\cos (x)\) \\ \addlinespace
+\(\cos(x)\) & \(-\sin (x)\) \\ \addlinespace
+\(\tan(x)\) & \(1 + \tan^2 (x)\) \\ \addlinespace
+\(\cot(x)\) & \(-\csc^2 (x)\) \\ \addlinespace
+\(\sec(x)\) & \(\tan(x) \sec(x)\) \\ \addlinespace
+\(\csc(x)\) & \(-\cot(x) \csc(x)\) \\ \addlinespace
+\(e^x\) & \(e^x\) \\ \addlinespace
+\(ln(x)\) & \(\frac{1}{x}\) \\ \addlinespace
+\(a^x\) & \(a^x ln(a)\) \\ \addlinespace
+\(log_a(x)\) & \(\frac{1}{x ln(a)}\) \\ \addlinespace
+\(f^-1(x)\) & \(\frac{1}{f'(f^-1(x))}\) \\ \addlinespace
+\(sin^-1(x)\) & \$\textbackslash{} \\ \addlinespace
 \bottomrule
 \end{longtable}
 

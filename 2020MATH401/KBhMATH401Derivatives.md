@@ -38,4 +38,5 @@ Derivative of $f(x)$ => $\frac{dy}{dx}$
 | $a^x$         | $a^x ln(a)$            |
 | $log_a(x)$    | $\frac{1}{x ln(a)}$    |
 | $f^-1(x)$  | $\frac{1}{f'(f^-1(x))}$      |
+| $sin^-1(x)$ | $\
 
