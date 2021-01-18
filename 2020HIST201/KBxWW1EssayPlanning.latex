@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6855)}}    % original
-%\rhead{\textrmlf{Compiled }\#6855\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6855\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6856)}}    % original
+%\rhead{\textrmlf{Compiled }\#6856\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6856\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -236,5 +236,8 @@ systems: random chance events will happen
 
 was it a random chance event? was this the `natural progression of
 things'?
+
+or is the aproach, 'random chance events are inevitable (in a system
+with so many actors), we
 
 \end{document}
