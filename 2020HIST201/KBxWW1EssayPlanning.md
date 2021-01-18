@@ -67,7 +67,9 @@ systems need to account for randomness, which is inevitable. thus, higher level 
 the fact that ferdinand dying caused this meant that there was a higher level issue? 
 
 
-systems: ram
+systems: random chance events will happen
+
+was it a random chance event? was this the 'natural progression of things'? 
 
 
 
