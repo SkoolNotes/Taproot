@@ -38,7 +38,20 @@ levels of analysis:
 
 - individual
 - state
-- system 
+- systemic 
+
+
+example: put an egg in a highway, do you blame the car that chrushes it? 
+
+how do we think about inevitability? 
+
+
+
+
+
+
+
+
 
 
 
