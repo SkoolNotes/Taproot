@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6896)}}    % original
-%\rhead{\textrmlf{Compiled }\#6896\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6896\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6897)}}    % original
+%\rhead{\textrmlf{Compiled }\#6897\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6897\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -293,6 +293,9 @@ OLD: {[}aa{]} =\textgreater{} 1,1. {[}da, ad{]} =\textgreater{} 0,3 3,0.
 {[}dd{]} =\textgreater{} 2,2. \textbar\textbar{} a NEW: {[}aa, ad, da{]}
 =\textgreater{} 0,0. {[}dd{]} =\textgreater{} 2,2. \textbar\textbar{} d
 
-system has changes, MAD has allowed us to jump peaks to a lower minima.
+system has changed, MAD has allowed us to jump peaks to a lower minima.
+
+war only breaks out when tenstions are high, otherwise you would just
+defend.
 
 \end{document}
