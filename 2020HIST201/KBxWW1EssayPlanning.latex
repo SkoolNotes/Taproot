@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6853)}}    % original
-%\rhead{\textrmlf{Compiled }\#6853\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6853\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6854)}}    % original
+%\rhead{\textrmlf{Compiled }\#6854\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6854\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -228,5 +228,10 @@ generated withought the previous?
 
 systems need to account for randomness, which is inevitable. thus,
 higher level analysis?
+
+the fact that ferdinand dying caused this meant that there was a higher
+level issue?
+
+systems: ram
 
 \end{document}

@@ -64,8 +64,10 @@ claim: not actully three seperate levels? higher up levels cannot be generated w
 
 systems need to account for randomness, which is inevitable. thus, higher level analysis? 
 
+the fact that ferdinand dying caused this meant that there was a higher level issue? 
 
 
+systems: ram
 
 
 
