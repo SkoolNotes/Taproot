@@ -112,8 +112,8 @@ easily "excitable"
 
 prisoners dillema sqaure, when tensions are high, best desition is to attack. also best descition to bring allies, and best desition for allies to join in. tragedy of the commons
 
-
-MODERN DAY: all sqaurs, aa, 
+OLD: [
+MODERN DAY: [aa, ad, da] => 0,0. [dd] => 2,2
 
 
 
