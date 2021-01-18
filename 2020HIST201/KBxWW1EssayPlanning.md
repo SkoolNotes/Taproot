@@ -103,9 +103,9 @@ warring state has incentive to bring allies into war
 
 non warring states have incentive to allie with winning side and gain power with them, as well as prevent others from becoming to powerful -- BOP dynamic from resan detant
 
+this brings the entire system into war
 
-
-
+as more actors join into the war, you MUST join the war. one side of the war will win, and massively gain power
 
 
 
