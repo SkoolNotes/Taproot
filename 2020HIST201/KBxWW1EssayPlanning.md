@@ -111,9 +111,11 @@ just as peace is an emergent property of raison detant (BOP), global war can be 
 easily "excitable"
 
 prisoners dillema sqaure, when tensions are high, best desition is to attack. also best descition to bring allies, and best desition for allies to join in. tragedy of the commons
+war breaks out
+
 
 OLD: [aa] => 1,1, [da, ad] => 0,3 3,0, [dd] => 2,2 || a
-MODERN DAY: [aa, ad, da] => 0,0. [dd] => 2,2 || d
+NEW: [aa, ad, da] => 0,0. [dd] => 2,2 || d
 
 
 
