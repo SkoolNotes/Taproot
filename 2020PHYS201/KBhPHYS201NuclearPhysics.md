@@ -137,3 +137,5 @@ Vocab! Nucleon: neutron + proton.
 
 The standard deviation of $N$ counts is the $\sqrt(N)$ if there is a uniformly random distribution.
 
+## Fission and Fusion
+Changes though fission
