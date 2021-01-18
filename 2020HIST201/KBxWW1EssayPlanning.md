@@ -53,6 +53,9 @@ relative usefullness of each one
 how do they intersect? system provides inevitability, but is that emergent out of the qualities of the individual? 
 
 
+potential essay: 
+	top down, each one informs the next. 
+	simply map to analysis levels
 
 
 

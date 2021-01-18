@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6850)}}    % original
-%\rhead{\textrmlf{Compiled }\#6850\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6850\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6851)}}    % original
+%\rhead{\textrmlf{Compiled }\#6851\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6851\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -219,5 +219,8 @@ relative usefullness of each one
 
 how do they intersect? system provides inevitability, but is that
 emergent out of the qualities of the individual?
+
+potential essay: top down, each one informs the next. simply map to
+analysis levels
 
 \end{document}
