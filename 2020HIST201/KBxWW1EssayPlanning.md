@@ -75,8 +75,12 @@ or is the aproach, 'random chance events are inevitable (in a system with so man
 
 
 
-top down 
+top down:
 
+- because of this system, it was inevitable that a state would act out.
+- lets look at this state. because of this state, it was inevitable that a person would act out
+- lets look at that person
+- discuss merits o
 
 bottom up
 

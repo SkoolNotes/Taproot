@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6881)}}    % original
-%\rhead{\textrmlf{Compiled }\#6881\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6881\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6882)}}    % original
+%\rhead{\textrmlf{Compiled }\#6882\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6882\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -241,7 +241,20 @@ or is the aproach, `random chance events are inevitable (in a system
 with so many actors), thus the system must be set up for this? or it is
 part of the system?'
 
-top down
+top down:
+
+\begin{itemize}
+\tightlist
+\item
+  because of this system, it was inevitable that a state would act out.
+\item
+  lets look at this state. because of this state, it was inevitable that
+  a person would act out
+\item
+  lets look at that person
+\item
+  discuss merits o
+\end{itemize}
 
 bottom up
 
