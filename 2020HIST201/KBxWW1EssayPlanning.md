@@ -80,9 +80,11 @@ top down:
 - because of this system, it was inevitable that a state would act out.
 - lets look at this state. because of this state, it was inevitable that a person would act out
 - lets look at that person
-- discuss merits o
+- discuss merits of different levels of analysis?
 
-bottom up
+bottom up:
+
+- this person did this, and that caused the war. 
 
 
 usefullness of analysis at different levels?

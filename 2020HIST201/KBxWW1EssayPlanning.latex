@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6882)}}    % original
-%\rhead{\textrmlf{Compiled }\#6882\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6882\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6883)}}    % original
+%\rhead{\textrmlf{Compiled }\#6883\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6883\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -253,10 +253,16 @@ top down:
 \item
   lets look at that person
 \item
-  discuss merits o
+  discuss merits of different levels of analysis?
 \end{itemize}
 
-bottom up
+bottom up:
+
+\begin{itemize}
+\tightlist
+\item
+  this person did this, and that caused the war.
+\end{itemize}
 
 usefullness of analysis at different levels?
 
