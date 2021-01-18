@@ -144,4 +144,7 @@ Due to conservation of energy, not every fission/fusion releases energy. If fiss
 
 ![Pasted image 20210118092740.png](Pasted image 20210118092740.png)
 
+You could think of the energy released as part of fission as the potential energy of a system.
+
+
 
