@@ -208,7 +208,10 @@ tenstion and alliances
 	- BOP prisoners diilema reward square is 0,0 for the AD scenario
 		- once you have alliances, it becomes 0,3 again 
 	- tension ensures that the other wants to attack, meaning it is clear that you must first. 
-	- ALSO theres the snowball effect, where if there is a large war you must join in or be left in the dust. 
+	- ALSO theres the snowball effect
+		- OUTSIDER: if there is a large war you must join in or be left in the dust. 
+		- INSIDER: best option is to bring in allies
+		- leads to massive wars
 
 
 
