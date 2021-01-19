@@ -143,7 +143,7 @@ thesis ideas:
 levels of analysis are usefull at the level you can impact? 
 doesnt work if higher level informs your level of impact... 
 
-
+causation is defined by what is usefull? 
 
 
 
