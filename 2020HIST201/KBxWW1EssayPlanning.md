@@ -200,6 +200,8 @@ even more concerned when france joined them
 	- Ferdiand got assinated by the black hand, this caused the war. 
 		- for ferdinand getting assinated to cause such a large scale war, larger factors must have been at play. 
 	- exactly what state caused what is heavily debated 
+		- it could have been the germans, who attempted to destroy serbia
+		
 
 
 - tenstion and alliances 
