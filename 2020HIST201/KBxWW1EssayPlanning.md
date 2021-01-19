@@ -181,6 +181,11 @@ french formed their own alliance in response
 
 britain and germany had a naval race
 
+germans felt encircled by france and russia alliance
+even more converned when france joined them
+
+
+
 ## Quote Bin
 
 
