@@ -210,6 +210,9 @@ even more concerned when france joined them
 	- alliances formed, tension formed
 	- alliances:
 		- formed the triple alliance 
+			- out of fear of a european war
+		- formed the triple entente
+			- 
 	
 
 - systemic
