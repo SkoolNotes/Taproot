@@ -175,13 +175,15 @@ switch tenstion and system explanation?
 
 
 
+ferdiand and states
 
 
+systemic
+
+tenstion 
 
 
-
-
-
+conclustion -- nukes? 
 
 
 
