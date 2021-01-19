@@ -192,7 +192,7 @@ even more concerned when france joined them
 
 ## Outline (finally (hopefully)) 
 
-###### THESIS: In a system of raison detan't, increase in tension shifted the local minima from peace to global warfare. 
+###### THESIS: In a system of raison detan't, increase in tension and the formation of alliances shifted the local minima from peace to global warfare. 
 
 
 
