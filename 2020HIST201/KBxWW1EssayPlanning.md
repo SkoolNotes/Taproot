@@ -175,7 +175,7 @@ everyone had huge armies, and they all took it for granted that a war was coming
 
 "In the last years before 1914 the idea that war was bound to break out sooner or later probably made some statesmen, in some countries, more willing to unleash it."is thiss cus "it would happen anyways" or cus "we want to be first"?
 
-
+formed the triple alliance 
 
 
 ## Quote Bin
