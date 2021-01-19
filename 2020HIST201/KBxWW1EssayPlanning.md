@@ -126,7 +126,13 @@ war only breaks out when tenstions are high, otherwise you would just defend.
 once tensions become high, war becomes inevitable, and can be triggered at the smallest event. 
 
 
+^^ goes in bp3
 
+
+
+franz ferdinand died, and that caused the war. if that could cause the war, something was up.
+
+germany caused the tenstions which caused the war. but {transition} 
 
 
 
