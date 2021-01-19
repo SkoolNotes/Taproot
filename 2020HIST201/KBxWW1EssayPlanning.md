@@ -212,6 +212,7 @@ tenstion and alliances
 		- OUTSIDER: if there is a large war you must join in or be left in the dust. 
 		- INSIDER: best option is to bring in allies
 		- leads to massive wars
+	- with tension and alliances, local minima becomes massive wars as opposed to peace
 
 
 

@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6930)}}    % original
-%\rhead{\textrmlf{Compiled }\#6930\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6930\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6931)}}    % original
+%\rhead{\textrmlf{Compiled }\#6931\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6931\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -411,6 +411,9 @@ tenstion and alliances
     \item
       leads to massive wars
     \end{itemize}
+  \item
+    with tension and alliances, local minima becomes massive wars as
+    opposed to peace
   \end{itemize}
 \end{itemize}
 
