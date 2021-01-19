@@ -196,8 +196,6 @@ even more concerned when france joined them
 
 
 
-
-
 - Ferdinand and states
 	- Ferdiand got assinated by the black hand, 
 
@@ -212,9 +210,7 @@ conclustion -- nukes?
 
 
 
-
-
-
+[sss]
 
 
 
