@@ -177,6 +177,7 @@ everyone had huge armies, and they all took it for granted that a war was coming
 
 formed the triple alliance out of fear that the german empire would be torn to peices in another european war
 
+french formed their own alliance in response
 
 ## Quote Bin
 
