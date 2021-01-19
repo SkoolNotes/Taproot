@@ -194,7 +194,10 @@ even more concerned when france joined them
 
 
 - tension and alliances
-	- 
+	- triple alliance
+	- triple entente
+	- tension 
+
 
 
 ## Outline (finally (hopefully)) 
