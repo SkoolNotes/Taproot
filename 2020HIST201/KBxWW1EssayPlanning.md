@@ -209,7 +209,7 @@ even more concerned when france joined them
 	- to better understand the true causes, we first must understand the situation. 
 	- alliances formed, tension formed
 	- alliances:
-		- formed the triple alliance
+		- formed the triple alliance 
 	
 
 - systemic
