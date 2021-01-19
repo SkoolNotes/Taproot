@@ -179,6 +179,8 @@ formed the triple alliance out of fear that the german empire would be torn to p
 
 french formed their own alliance in response
 
+britain and germany had a naval race
+
 ## Quote Bin
 
 
