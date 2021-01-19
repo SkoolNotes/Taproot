@@ -201,7 +201,8 @@ even more concerned when france joined them
 		- for ferdinand getting assinated to cause such a large scale war, larger factors must have been at play. 
 	- exactly what state caused what is heavily debated 
 		- it could have been the germans, who attempted to destroy serbia
-		- could have been serbia, who backed the black hand	
+		- could have been serbia, who backed the black hand's assination
+		- the fact of the matter is, qoute "In the last years before 1914 the idea that war was bound to break out sooner or later probably made some statesmen, in some countries, more willing to unleash it."is thiss cus "it would happen anyways" or cus "we want to be first"?
 
 
 - tenstion and alliances 
