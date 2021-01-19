@@ -149,6 +149,10 @@ causation is defined by what is usefull?
 
 
 
+potential outline:
+
+start with small explanatin: ferdinand and states || but were they realy to blame? egg in street
+
 
 
 
