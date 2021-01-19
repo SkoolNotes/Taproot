@@ -199,7 +199,7 @@ even more concerned when france joined them
 - Ferdinand and states
 	- Ferdiand got assinated by the black hand, this caused the war. 
 		- for ferdinand getting assinated to cause such a large scale war, larger factors must have been at play. 
-	- 
+	- exactly what state caused what is heavily debated 
 
 
 - tenstion and alliances 
