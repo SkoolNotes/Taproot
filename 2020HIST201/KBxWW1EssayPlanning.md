@@ -166,6 +166,9 @@ thesis: tension changed the local minima to global warfare
 
 switch tenstion and system explanation? 
 
+## Quote Bin
+
+
 
 ## Outline (finally (hopefully)) 
 
