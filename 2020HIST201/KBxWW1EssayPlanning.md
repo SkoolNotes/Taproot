@@ -166,6 +166,17 @@ thesis: tension changed the local minima to global warfare
 
 switch tenstion and system explanation? 
 
+
+
+
+
+
+everyone had huge armies, and they all took it for granted that a war was coming even though few wanted one pg. 1-2
+
+
+
+
+
 ## Quote Bin
 
 
