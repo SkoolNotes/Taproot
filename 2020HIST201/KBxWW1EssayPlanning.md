@@ -202,9 +202,13 @@ even more concerned when france joined them
 	- 
 
 
-systemic
+tenstion and alliances 
 
-tenstion 
+- systemic
+	- BOP prisoners diilema reward square is 0,0 for the 
+
+
+
 
 
 conclustion -- nukes? 
