@@ -214,10 +214,10 @@ even more concerned when france joined them
 		- formed the triple entente
 			- scared the germans even more
 		- these alliances also contributed healvily to growing --
-	- tenstion: 
+	- tension: 
 		- large armies, 
 		- naval race,
-		- 
+		- technological and economic growth
 	
 
 - systemic
