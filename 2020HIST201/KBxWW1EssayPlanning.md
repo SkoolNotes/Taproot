@@ -188,6 +188,13 @@ even more concerned when france joined them
 
 ## Quote Bin
 
+- ferdinnd and states
+	- Ferdinand
+	- states
+
+
+- tension and alliances
+	- 
 
 
 ## Outline (finally (hopefully)) 
