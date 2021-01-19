@@ -203,7 +203,8 @@ even more concerned when france joined them
 
 
 - tenstion and alliances 
-	- to better understand 
+	- to better understand the true causes, we first must understand the situation. 
+	- alliances formed, tension formed
 
 - systemic
 	- BOP prisoners diilema reward square is 0,0 for the AD scenario
