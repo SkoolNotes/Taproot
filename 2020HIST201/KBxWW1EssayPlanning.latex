@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6939)}}    % original
-%\rhead{\textrmlf{Compiled }\#6939\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6939\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6940)}}    % original
+%\rhead{\textrmlf{Compiled }\#6940\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6940\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -385,9 +385,9 @@ warfare.
     \item
       could have been serbia, who backed the black hand's assination
     \item
-      the fact of the matter is, qoute "In the last years before 1914
-      the idea that war was bound to break out sooner or later probably
-      made some statesmen,
+      the fact of the matter is, qoute ``In the last years before 1914
+      the idea {[}was{]} that war was bound to break out sooner or
+      later''
     \end{itemize}
   \end{itemize}
 \item

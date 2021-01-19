@@ -202,7 +202,7 @@ even more concerned when france joined them
 	- exactly what state caused what is heavily debated 
 		- it could have been the germans, who attempted to destroy serbia
 		- could have been serbia, who backed the black hand's assination
-		- the fact of the matter is, qoute "In the last years before 1914 the idea that war was bound to break out sooner or later
+		- the fact of the matter is, qoute "In the last years before 1914 the idea [was] that war was bound to break out sooner or later"
 
 
 - tenstion and alliances 
