@@ -134,6 +134,27 @@ franz ferdinand died, and that caused the war. if that could cause the war, some
 
 germany caused the tenstions which caused the war. but {transition} 
 
+system level game theory analysis
+
+
+
+thesis ideas:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
