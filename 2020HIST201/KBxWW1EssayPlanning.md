@@ -154,11 +154,12 @@ potential outline:
 start with small explanatin: ferdinand and states || but were they realy to blame? egg in street
 
 
+systemic explanation  
 
 
+which requires tenstion 
 
-
-
+thesis: tension changed the local minima to global warfare
 
 
 
