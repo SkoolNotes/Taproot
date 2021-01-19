@@ -213,7 +213,11 @@ even more concerned when france joined them
 			- out of fear of a european war
 		- formed the triple entente
 			- scared the germans even more
-		- these alliances, along with massive increases 
+		- these alliances also contributed healvily to growing --
+	- tenstion: 
+		- large armies, 
+		- naval race,
+		- 
 	
 
 - systemic
