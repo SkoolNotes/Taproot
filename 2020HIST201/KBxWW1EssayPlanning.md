@@ -212,7 +212,8 @@ even more concerned when france joined them
 		- formed the triple alliance 
 			- out of fear of a european war
 		- formed the triple entente
-			- 
+			- scared the germans even more
+		- these alliances, 
 	
 
 - systemic
