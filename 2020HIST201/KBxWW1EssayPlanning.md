@@ -159,6 +159,8 @@ systemic explanation
 
 which requires tenstion 
 
+
+
 thesis: tension changed the local minima to global warfare
 
 
