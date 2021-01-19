@@ -199,6 +199,7 @@ even more concerned when france joined them
 	- tension 
 
 - systemic
+	- "In the last years before 1914 the idea that war was bound to break out sooner or later probably made some statesmen, in some countries, more willing to unleash it."is thiss cus "it would happen anyways" or cus "we want to be first"?
 
 ## Outline (finally (hopefully)) 
 
