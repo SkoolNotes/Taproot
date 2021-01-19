@@ -202,7 +202,8 @@ even more concerned when france joined them
 	- 
 
 
-tenstion and alliances 
+- tenstion and alliances 
+	- to better understand 
 
 - systemic
 	- BOP prisoners diilema reward square is 0,0 for the AD scenario
