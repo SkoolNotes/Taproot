@@ -169,7 +169,7 @@ switch tenstion and system explanation?
 
 ## Outline (finally (hopefully)) 
 
-###### THESIS: 
+###### THESIS: In a system of raison detan't, increase in tension shifted the local minima from peace to global warfare. 
 
 
 
