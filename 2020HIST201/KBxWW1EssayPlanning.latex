@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6924)}}    % original
-%\rhead{\textrmlf{Compiled }\#6924\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6924\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6925)}}    % original
+%\rhead{\textrmlf{Compiled }\#6925\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6925\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -375,7 +375,5 @@ systemic
 tenstion
 
 conclustion -- nukes?
-
-{[}sss{]}
 
 \end{document}
