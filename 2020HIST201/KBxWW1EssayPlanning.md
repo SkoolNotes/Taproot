@@ -279,7 +279,7 @@ While many individual actors could be blamed, analysis at this level is not usef
 
 
 
-The assassination of Franz Ferdinand caused World War One. In 1914, a Serbian member of the Black Hand "assassinated the heir to the Hapsburg empire." (citation). This murder caused the Austrian government to try and end Serbia's indipendance, and global warfare ensued. 
+The assassination of Franz Ferdinand caused World War One. In 1914, a Serbian member of the Black Hand "assassinated the heir to the Hapsburg empire." (citation). This murder caused the Austrian government to try and end Serbia's independence; global warfare ensued. 
 
 
 
