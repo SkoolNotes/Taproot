@@ -292,9 +292,9 @@ To better understand the cause of the war, we must first understand the geopolit
 
 
 
+the emergent property of peace and balance of power 
 
-
-
+a group of states enacting rason detant creates 
 
 
 
