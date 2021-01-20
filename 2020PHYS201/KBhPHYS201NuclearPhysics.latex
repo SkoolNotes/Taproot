@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7008)}}    % original
-%\rhead{\textrmlf{Compiled }\#7008\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7008\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7009)}}    % original
+%\rhead{\textrmlf{Compiled }\#7009\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7009\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -461,5 +461,9 @@ Rate \\ \addlinespace
 \end{longtable}
 
 This will, of course, result in a graph of thickness vs.~count rate.
+
+Goal: finding the best T and the +/- range
+
+{[}{[}Pasted image 20210120111507.png{]}{]}
 
 \end{document}

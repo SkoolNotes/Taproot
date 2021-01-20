@@ -175,6 +175,13 @@ For instance...
 
 This will, of course, result in a graph of thickness vs. count rate.
 
+Goal: finding the best T and the +/- range 
+
+![[Pasted image 20210120111507.png]]
+
+
+
+
 
 
 
