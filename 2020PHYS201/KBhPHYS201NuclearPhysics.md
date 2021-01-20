@@ -182,7 +182,7 @@ Goal: finding the best T and the +/- range that would fit the rates
 ## What is "best fit"
 ![[Pasted image 20210120112247.png]]
 
-When data is uncertain, best fit minimizes $\
+When data is uncertain, best fit minimizes $\sum \frac{D_i-M_i}{\sigma_i}^2$. Think as "how many standard deviations away"
 
 
 
