@@ -283,7 +283,7 @@ The assassination of Franz Ferdinand caused World War One. In 1914, a Serbian me
 
 
 
-To better understand the cause of the war, we must first understand the geopolitical situation it took place in; the time before was broke out was fraught with large alliances and growing tensions. 
+To better understand the cause of the war, we must first understand the geopolitical situation at the time; the time before was broke out was fraught with large alliances and growing tensions. 
 
 
 
