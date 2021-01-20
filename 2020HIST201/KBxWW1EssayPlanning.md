@@ -287,6 +287,8 @@ The assassination of Franz Ferdinand caused World War One. In 1914, a Serbian me
 To better understand the cause of the war, we must first understand the geopolitical situation at the time -- a time of growing alliances and tensions. In 1817, the fear of warfare led Germany to form "a military alliance with Austria-Hungary, to which Italy was added in 1882." (citation). This alliance led to the creation of another; faced by this new threat, France allied with Russia, and later, England. Tension only grew, as Germany "who already felt encircled by the alliance of France and Russia, naturally watched with concern the drift of England into the Franco-Russian camp."(citation). The Continental Great Powers were now riddled with alliances. These alliances contributed to the massive amount of tension, evident by the "huge standing army" and "millions of trained reserves among the civilian population" of each Continental Great Power. (citation). This tension created a feeling of impending war, "in which allies would be necessary." (citation). This feeling tightened existing alliances and led to the creation of new ones, in turn contributing to even greater tension. 
 
 
+
+
 Massive industrial and economic growth 
 
 
