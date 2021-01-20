@@ -186,6 +186,9 @@ When data is uncertain, best fit should minimize $\sum \frac{D_i-M_i}{\sigma_i}^
 
 With this piece of information, at different discrete values of T, we could have a graph of T vs. S. At the minimum of that curve, that's the best fit!
 
+Smin should be about # of datapoints - # of parametres
+
+
 
 
 
