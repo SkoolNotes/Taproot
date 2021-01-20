@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7018)}}    % original
-%\rhead{\textrmlf{Compiled }\#7018\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7018\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7019)}}    % original
+%\rhead{\textrmlf{Compiled }\#7019\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7019\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -481,5 +481,10 @@ could have a graph of T vs.~S. At the minimum of that curve, that's the
 best fit!
 
 Smin should be about \# of datapoints - \# of parametres
+
+If Smin \textless\textless{} \# dp - \# params, you did something wrong.
+
+If Smin \textgreater\textgreater{} \# dp - \# params, sigma were
+probably underestimated/not the only sources of error
 
 \end{document}

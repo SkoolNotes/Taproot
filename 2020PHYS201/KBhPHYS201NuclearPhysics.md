@@ -188,7 +188,9 @@ With this piece of information, at different discrete values of T, we could have
 
 Smin should be about # of datapoints - # of parametres
 
+If Smin << # dp - # params, you did something wrong.
 
+If Smin >> # dp - # params, sigma were probably underestimated/not the only sources of error
 
 
 
