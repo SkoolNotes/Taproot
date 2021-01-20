@@ -289,15 +289,7 @@ To better understand the cause of the war, we must first understand the geopolit
 
 
 
-
-
-
-the emergent property of peace and balance of power 
-
-a group of states enacting rason detant creates 
-
-
-the emergent property from rason detant changes from a balance of power to warfare when aliances and tension are introduced. 
+The emergent property from raison d'etat changes from a balance of power to large scale warfare when alliances and tension are introduced. 
 
 
 
