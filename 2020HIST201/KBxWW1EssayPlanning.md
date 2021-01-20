@@ -207,7 +207,7 @@ even more concerned when france joined them
 		- Bismarck after 1871 feared that in another European war his new German Empire might be tom to pieces. [...]   in 1879 he formed a military alliance with Austria-Hungary, to which Italy was added  in 1882. Thus was formed the Triple Alliance,
 	- triple entente
 		-  The French, faced by the Triple Alliance, soon seized the opportunity to form their own alliance with Russia
-			-  By 1907 Eng land, France, and Russia were acting together. The older Triple Alliance faced a newer Triple Entente,	
+		-  By 1907 Eng land, France, and Russia were acting together. The older Triple Alliance faced a newer Triple Entente,	
 		
 	- tension 
 		-   that would arise in the future. Each power felt that it must stand by its allies whatever the specific issue. This was because all lived in the fear of war, of some nameless future war in which allies would be necessary.
