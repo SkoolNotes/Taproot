@@ -217,6 +217,7 @@ even more concerned when france joined them
 
 - systemic
 	- "In the last years before 1914 the idea that war was bound to break out sooner or later probably made some statesmen, in some countries, **more willing to unleash it.**"
+	- Each power felt that it must stand by its allies whatever the specific issue.
 
 ## Outline (finally (hopefully)) 
 
