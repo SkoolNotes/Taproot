@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7013)}}    % original
-%\rhead{\textrmlf{Compiled }\#7013\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7013\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7014)}}    % original
+%\rhead{\textrmlf{Compiled }\#7014\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7014\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -471,8 +471,8 @@ Goal: finding the best T and the +/- range that would fit the rates
 
 {[}{[}Pasted image 20210120112247.png{]}{]}
 
-When data is uncertain, best fit minimizes
+When data is uncertain, best fit should minimize
 \(\sum \frac{D_i-M_i}{\sigma_i}^2\). Think as ``how many standard
-deviations away''
+deviations away'' is the difference.
 
 \end{document}
