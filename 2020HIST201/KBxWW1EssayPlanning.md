@@ -207,6 +207,7 @@ even more concerned when france joined them
 	- triple entente
 	- tension 
 		-   that would arise in the future. Each power felt that it must stand by its allies whatever the specific issue. This was because all lived in the fear of war, of some nameless future war in which allies would be necessary.
+		-  Never had the European states maintained such huge armies in peacetime as at the be ginning of the twentieth century. One, two, or even three years of compul sory military service for all young men became the rule. In 1914 each of the Continental Great Powers had not only a huge standing army but millions of trained reserves among the civilian population 
 
 - systemic
 	- "In the last years before 1914 the idea that war was bound to break out sooner or later probably made some statesmen, in some countries, **more willing to unleash it.**"
