@@ -170,8 +170,9 @@ For instance...
 ![[Pasted image 20210118094127.png]]
 
 # Data Shape
-| Thickness | NCR | Error (NCR) |
-|-|-|-|
+| Thickness | Count Rates | Count Time | Result: Normalized Count Rate |
+|-|-|-|-|
+
 
 
 

@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7006)}}    % original
-%\rhead{\textrmlf{Compiled }\#7006\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7006\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7007)}}    % original
+%\rhead{\textrmlf{Compiled }\#7007\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7007\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -453,7 +453,8 @@ For instance\ldots{}
 
 \begin{longtable}[]{@{}llll@{}}
 \toprule
-Thickness & NCR & Normalized Count Rate & \\ \addlinespace
+Thickness & Count Rates & Count Time & Result: Normalized Count
+Rate \\ \addlinespace
 \midrule
 \endhead
 \bottomrule
