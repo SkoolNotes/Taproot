@@ -193,6 +193,10 @@ even more concerned when france joined them
 		- On June 28, 1914, a young Bosnian revolutionary, a member of the Serbian secret soci ety called “Union of Death” and commonly known as the Black Hand,  acting with the knowledge of certain Serbian officials, assassinated the heir   to the Habsburg empire, the Archduke Francis Ferdinand, 
 		- states
 			- and above
+			-  GHMW Unit 4
+
+The Germans, issuing their famous “blank check,” encouraged  
+the Austrians to be firm.
 			
 
 
