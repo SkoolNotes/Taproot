@@ -297,7 +297,7 @@ the emergent property of peace and balance of power
 a group of states enacting rason detant creates 
 
 
-
+the emergent property from rason detant changes from a balance of power to warfare when aliances and tension are introduced. 
 
 
 
