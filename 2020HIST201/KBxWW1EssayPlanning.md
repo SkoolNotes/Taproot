@@ -285,6 +285,7 @@ The assassination of Franz Ferdinand caused World War One. In 1914, a Serbian me
 
 To better understand the cause of the war, we must first understand the geopolitical situation at the time -- a time of growing alliances and tensions. In 1817, 
 
+ formed a military alliance with Austria-Hungary, to which Italy was added in 1882.
 
 
 
