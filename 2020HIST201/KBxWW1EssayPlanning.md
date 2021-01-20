@@ -295,7 +295,7 @@ The emergent property from raison d'etat changes from a balance of power to larg
 
 - raison d'etat leads to balance of power
 	- states all crush others when they gain power cus it's their best interest
-	- we can represent this scenario with a reward square, 
+	- we can represent this scenario with a payoff matrix,
 
 
 
