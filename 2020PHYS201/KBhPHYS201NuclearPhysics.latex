@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7010)}}    % original
-%\rhead{\textrmlf{Compiled }\#7010\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7010\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7011)}}    % original
+%\rhead{\textrmlf{Compiled }\#7011\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7011\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -465,5 +465,8 @@ This will, of course, result in a graph of thickness vs.~count rate.
 Goal: finding the best T and the +/- range that would fit the rates
 
 {[}{[}Pasted image 20210120111507.png{]}{]}
+
+\hypertarget{what-is-best-fit}{%
+\subsection{What is ``best fit''}\label{what-is-best-fit}}
 
 \end{document}
