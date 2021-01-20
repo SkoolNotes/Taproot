@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6959)}}    % original
-%\rhead{\textrmlf{Compiled }\#6959\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6959\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6960)}}    % original
+%\rhead{\textrmlf{Compiled }\#6960\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6960\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -409,6 +409,11 @@ when france joined them
   \tightlist
   \item
     triple alliance
+
+    \begin{itemize}
+    \tightlist
+    \item
+    \end{itemize}
   \item
     triple entente
   \item
