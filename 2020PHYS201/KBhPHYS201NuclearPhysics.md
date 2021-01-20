@@ -184,7 +184,7 @@ Goal: finding the best T and the +/- range that would fit the rates
 
 When data is uncertain, best fit should minimize $\sum \frac{D_i-M_i}{\sigma_i}^2$. Think as "how many standard deviations away" is the uncertainty. This is also called "pearson's statistic"
 
-With this piece of information, at different discrete values of T, 
+With this piece of information, at different discrete values of T, we could have a graph of T vs. S. At the minimum of that curve, that's the best fit!
 
 
 
