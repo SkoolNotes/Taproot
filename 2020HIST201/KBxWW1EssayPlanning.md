@@ -301,7 +301,8 @@ The emergent property from raison d'etat changes from a balance of power to larg
 		- if one actor attacks and another defends, then any resulting power would againbe chrushed, resulting in 0. 
 	- the best option is clearly to defend. 
 
-- when large allainces form, 
+- when large allainces form, it becomes a lot more likely that the AD scenario results in a reward, 0,3. 
+	- 
 
 
 
