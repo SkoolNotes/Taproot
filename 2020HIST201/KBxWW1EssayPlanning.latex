@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6954)}}    % original
-%\rhead{\textrmlf{Compiled }\#6954\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6954\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6955)}}    % original
+%\rhead{\textrmlf{Compiled }\#6955\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6955\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -360,8 +360,24 @@ when france joined them
   \tightlist
   \item
     Ferdinand
-  \item
-    states
+
+    \begin{itemize}
+    \tightlist
+    \item
+      On June 28, 1914, a young Bosnian revolutionary, a member of the
+      Serbian secret soci ety called ``Union of Death'' and commonly
+      known as the Black Hand, acting with the knowledge of certain
+      Serbian officials, assassinated the heir to the Habsburg empire,
+      the Archduke Francis Ferdinand,
+    \item
+      states
+
+      \begin{itemize}
+      \tightlist
+      \item
+        and above
+      \end{itemize}
+    \end{itemize}
   \end{itemize}
 \item
   tension and alliances
