@@ -203,9 +203,9 @@ even more concerned when france joined them
 
 - tension and alliances
 	- triple alliance 
-		-   that would arise in the future. Each power felt that it must stand by its allies whatever the specific issue. This was because all lived in the fear of war, of some nameless future war in which allies would be necessary.
 	- triple entente
 	- tension 
+		-   that would arise in the future. Each power felt that it must stand by its allies whatever the specific issue. This was because all lived in the fear of war, of some nameless future war in which allies would be necessary.
 
 - systemic
 	- "In the last years before 1914 the idea that war was bound to break out sooner or later probably made some statesmen, in some countries, **more willing to unleash it.**"
