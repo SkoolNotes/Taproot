@@ -175,7 +175,7 @@ For instance...
 
 This will, of course, result in a graph of thickness vs. count rate.
 
-Goal: finding the best T and the +/- range 
+Goal: finding the best T and the +/- range that would fit the rates
 
 ![[Pasted image 20210120111507.png]]
 
