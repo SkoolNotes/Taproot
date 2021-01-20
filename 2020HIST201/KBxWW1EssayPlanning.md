@@ -269,6 +269,14 @@ conclustion -- nukes?
 
 ## Goddamn. Writing. Time. 
 
+In a system of raison detan't, increase in tension and the formation of alliances shifted the local minima from peace to global warfare.
+
+
+
+
+
+
+
 
 
 
