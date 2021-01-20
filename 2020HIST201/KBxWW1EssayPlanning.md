@@ -279,7 +279,7 @@ While many individual actors could be blamed, analysis at this level is not usef
 
 
 
-The assassination of Franz Ferdinand caused World War One. In 1914, a Serbian member of the Black Hand "assassinated the heir to the Hapsburg empire." (citation). This murder caused the Austrian government to try and end Serbia's independence; global warfare ensued. However, for the assassination of Ferdinand to cause such a large scale event, larger factors must have been at play. The situation was akin to an egg sitting in a busy highway -- at some point, the egg will get cracked. Yes, the driver who runs the egg over caused it to crack, but a deeper and more useful understanding of causation comes from analyzing the situation rather than the one of many possible drivers (or in our case, assassins). 
+The assassination of Franz Ferdinand caused World War One. In 1914, a Serbian member of the Black Hand "assassinated the heir to the Hapsburg empire." (citation). This murder caused the Austrian government to try and end Serbia's independence; global warfare ensued. However, for the assassination of Ferdinand to cause such a large scale event, larger factors must have been at play. The situation was akin to an egg sitting in a busy highway -- at some point, the egg will get cracked. Yes, the driver who runs the egg over caused it to crack, but a deeper and more useful understanding of causation comes from analyzing the situation rather than the one of many possible drivers. 
 
 
 
