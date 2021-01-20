@@ -283,7 +283,7 @@ In a system of raison detan't, increase in tension and the formation of alliance
 
 
 
-
+analyzing individul actors in a broader system 
 
 
 
