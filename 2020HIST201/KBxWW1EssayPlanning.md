@@ -323,5 +323,3 @@ The emergent property from raison d'etat changes from a balance of power to larg
 
 
 
-
-
