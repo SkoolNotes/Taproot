@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6983)}}    % original
-%\rhead{\textrmlf{Compiled }\#6983\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6983\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6984)}}    % original
+%\rhead{\textrmlf{Compiled }\#6984\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6984\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -611,6 +611,7 @@ not useful for understanding causation.
 The assassination of Franz Ferdinand caused World War One. In 1914, a
 Serbian member of the Black Hand ``assassinated the heir to the Hapsburg
 empire.'' (citation). This murder caused the Austrian government to try
-and end Serbia's independence; global warfare ensued.
+and end Serbia's independence; global warfare ensued. For the
+assassination of Ferdinand to c
 
 \end{document}
