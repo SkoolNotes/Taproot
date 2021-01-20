@@ -297,7 +297,11 @@ The emergent property from raison d'etat changes from a balance of power to larg
 	- states all crush others when they gain power cus it's their best interest
 	- we can represent this scenario with a payoff matrix, with two actors who can either defend or attack
 		- if both actors defend, they get a reward, say two. 
-		- if both actors attack, any resulting power gained would just be crushed by the state system, 
+		- if both actors attack, any resulting power gained would just be crushed by the state system, so each state would get 0 or lower. 
+		- if one actor attacks and another defends, then any resulting power would againbe chrushed, resulting in 0. 
+	- the best option is clearly to defend. 
+
+- when large allainces form, 
 
 
 
