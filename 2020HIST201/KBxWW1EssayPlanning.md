@@ -193,10 +193,10 @@ even more concerned when france joined them
 		- On June 28, 1914, a young Bosnian revolutionary, a member of the Serbian secret soci ety called “Union of Death” and commonly known as the Black Hand,  acting with the knowledge of certain Serbian officials, assassinated the heir   to the Habsburg empire, the Archduke Francis Ferdinand, 
 		- states
 			- and above
-			-  GHMW Unit 4
-
-The Germans, issuing their famous “blank check,” encouraged  
-the Austrians to be firm.
+			-  The Germans, issuing their famous “blank check,” encouraged   the Austrians to be firm.
+			-  The Austrians, thus reassured, dispatched a drastic   ultimatum to Serbia, demanding among other things that Austrian officials be permitted to  collaborate in investigating and punishing the perpetrators of the assassination. 
+			-  The Serbs counted on Russian support, even to the point of war, judging that Russia could not yield in a Balkan crisis, for the third time in six years, without losing its influence in the Balkans altogether. 
+			-  The Russians in turn counted on France; and France, terrified at the possibility of being some day caught alone in a war with Germany and determined to keep Russia as an ally at any cost, in effect gave a blank check to Russia.
 			
 
 
