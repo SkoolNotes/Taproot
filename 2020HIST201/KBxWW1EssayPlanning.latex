@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7060)}}    % original
-%\rhead{\textrmlf{Compiled }\#7060\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7060\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7061)}}    % original
+%\rhead{\textrmlf{Compiled }\#7061\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7061\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -665,7 +665,16 @@ to large scale warfare when alliances and tension are introduced.
     states all crush others when they gain power cus it's their best
     interest
   \item
-    we can represent this scenario with a payoff matrix,
+    we can represent this scenario with a payoff matrix, with two actors
+    who can either defend or attack
+
+    \begin{itemize}
+    \tightlist
+    \item
+      if both actors defend, they get a reward, say two.
+    \item
+      if both actors attack, any resulting power gained would jus
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 
