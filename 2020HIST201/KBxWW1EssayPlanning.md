@@ -188,7 +188,7 @@ even more concerned when france joined them
 
 ## Quote Bin
 
-- ferdinnd and states
+- ferdinand and states
 	- Ferdinand
 	- states
 
