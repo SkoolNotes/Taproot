@@ -173,6 +173,9 @@ For instance...
 | Thickness | Count Rates | Count Time | Result: Normalized Count Rate |
 |-|-|-|-|
 
+This will, of course, result in a graph of thickness vs. count rate.
+
+
 
 
 
