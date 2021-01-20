@@ -303,7 +303,16 @@ The emergent property from raison d'etat changes from a balance of power to larg
 
 - when large allainces form, it becomes a lot more likely that the AD scenario results in a reward, 0,3. 
 	- if the balance of power system is to be preserved, allainces of greater size must be formed (temp?)
-- 
+- Unsure of whether or not attacking will be fruitfull. With tension, you want to attack first. 
+
+
+
+
+
+
+
+
+
 
 
 
