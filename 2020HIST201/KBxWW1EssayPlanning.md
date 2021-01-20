@@ -203,6 +203,7 @@ even more concerned when france joined them
 
 - tension and alliances
 	- triple alliance 
+		- The Germans complained of being “encircled” by France and Russia. They dreaded the day when they might have to face a war on two fronts.	
 	- triple entente
 	- tension 
 		-   that would arise in the future. Each power felt that it must stand by its allies whatever the specific issue. This was because all lived in the fear of war, of some nameless future war in which allies would be necessary.
