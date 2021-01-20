@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7015)}}    % original
-%\rhead{\textrmlf{Compiled }\#7015\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7015\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7016)}}    % original
+%\rhead{\textrmlf{Compiled }\#7016\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7016\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -473,6 +473,9 @@ Goal: finding the best T and the +/- range that would fit the rates
 
 When data is uncertain, best fit should minimize
 \(\sum \frac{D_i-M_i}{\sigma_i}^2\). Think as ``how many standard
-deviations away'' is the uncertainty. This is also called
+deviations away'' is the uncertainty. This is also called ``pearson's
+statistic''
+
+With this piece of information, at different discrete values of T,
 
 \end{document}
