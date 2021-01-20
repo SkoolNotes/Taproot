@@ -197,6 +197,7 @@ even more concerned when france joined them
 			-  The Austrians, thus reassured, dispatched a drastic   ultimatum to Serbia, demanding among other things that Austrian officials be permitted to  collaborate in investigating and punishing the perpetrators of the assassination. 
 			-  The Serbs counted on Russian support, even to the point of war, judging that Russia could not yield in a Balkan crisis, for the third time in six years, without losing its influence in the Balkans altogether. 
 			-  The Russians in turn counted on France; and France, terrified at the possibility of being some day caught alone in a war with Germany and determined to keep Russia as an ally at any cost, in effect gave a blank check to Russia.
+			- It has often been said that had the German gov
 			
 
 
