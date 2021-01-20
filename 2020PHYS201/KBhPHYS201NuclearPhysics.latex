@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7011)}}    % original
-%\rhead{\textrmlf{Compiled }\#7011\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7011\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7012)}}    % original
+%\rhead{\textrmlf{Compiled }\#7012\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7012\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -468,5 +468,9 @@ Goal: finding the best T and the +/- range that would fit the rates
 
 \hypertarget{what-is-best-fit}{%
 \subsection{What is ``best fit''}\label{what-is-best-fit}}
+
+{[}{[}Pasted image 20210120112247.png{]}{]}
+
+When data is uncertain, best fit minimizes \$\\
 
 \end{document}
