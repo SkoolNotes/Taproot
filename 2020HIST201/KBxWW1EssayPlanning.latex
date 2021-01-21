@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7073)}}    % original
-%\rhead{\textrmlf{Compiled }\#7073\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7073\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7074)}}    % original
+%\rhead{\textrmlf{Compiled }\#7074\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7074\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -658,7 +658,7 @@ balance of power, as when any one state gains power, the others act in
 their own best interest and crush the rising state. Out of pure self
 interest arises peace. We can represent this scenario with a payoff
 matrix -- two actors, state 1 and state 2, each with two possible
-actions: attack or defend.
+actions: attack or defend. If both states defend, they
 
 \begin{itemize}
 \tightlist
