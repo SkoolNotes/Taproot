@@ -289,7 +289,7 @@ To better understand the cause of the war, we must first understand the geopolit
 
 
 
-The emergent property from raison d'etat changes from a balance of power to large scale conflict when alliances and tension are introduced. A system of states all enacting raison d'etat is known to lead to a balance of power, 
+The emergent property from raison d'etat changes from a balance of power to large scale conflict when alliances and tension are introduced. A system of states all enacting raison d'etat is known to lead to a balance of power, as when any one state gains power, the others act in their own best interest and crush the rising state.
 
 
 
