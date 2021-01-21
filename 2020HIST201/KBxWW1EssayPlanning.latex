@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7083)}}    % original
-%\rhead{\textrmlf{Compiled }\#7083\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7083\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7084)}}    % original
+%\rhead{\textrmlf{Compiled }\#7084\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7084\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -666,9 +666,9 @@ clearly the best action. However, as alliances form, this payoff matrix
 changes. If an alliance attacks, it becomes much more likely that they
 will reap a reward, as crushing them requires an alliance of equal or
 greater size. If one doesn't form, the alliance gets a score of three,
-and the defending party a zero. For any insider -- an attacking or
-defending party -- the best course of action would be to try and recruit
-more allies.
+and the defending party a zero. Thus, larger alliances form as a
+preemptive measure. For any insider -- an attacking or defending party
+-- the best course of action would be to try and recruit more allies.
 
 \begin{itemize}
 \tightlist
