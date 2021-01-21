@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7077)}}    % original
-%\rhead{\textrmlf{Compiled }\#7077\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7077\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7078)}}    % original
+%\rhead{\textrmlf{Compiled }\#7078\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7078\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -662,7 +662,8 @@ actions: attack or defend. If both states defend, they each get a score
 of two. If both attack, they each lose resources, and any power gained
 would be crushed; each state gets a zero. If one state attacks while the
 other defends, the same scenario occurs. In this case, defending is
-clearly the best action.
+clearly the best action. However, as alliances form, this payoff matrix
+changes. In the attack defend scenario
 
 \begin{itemize}
 \tightlist
