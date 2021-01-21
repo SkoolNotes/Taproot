@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7081)}}    % original
-%\rhead{\textrmlf{Compiled }\#7081\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7081\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7082)}}    % original
+%\rhead{\textrmlf{Compiled }\#7082\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7082\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -665,8 +665,9 @@ other defends, the same scenario occurs. In this case, defending is
 clearly the best action. However, as alliances form, this payoff matrix
 changes. If an alliance attacks, it becomes much more likely that they
 will reap a reward, as crushing them requires an alliance of equal or
-greater size. For any insider -- an attacking and defending parties, the
-best course of action would be to try and gain more allies,
+greater size. If one doesn't form, the allaince For any insider -- an
+attacking or defending party -- the best course of action would be to
+try and recruit more allies.
 
 \begin{itemize}
 \tightlist
