@@ -268,7 +268,8 @@ conclustion -- nukes?
 
 
 
-## Goddamn. Writing. Time. 
+## Goddamn. Writing. Time. (0.7th draft)
+
 
 In a system of raison detan't, increase in tension and the formation of alliances shifted the local minima from peace to global warfare.
 
@@ -309,7 +310,23 @@ The emergent property from raison d'etat changes from a balance of power to larg
 - Unsure of whether or not attacking will be fruitfull. With tension, you want to attack first. 
 
 
+**  
 
+support exploring the causes of World War One through 
+
+ We want to, need to, build systems such that the emergent properties lead to peace - even stable peace. Uncomfortable as it sounds, the modern mutually assured destruction of the atomic era is one such model. 
+
+  
+  
+
+In the modern day, this methodology still applies (nukes).
+
+Emergent properties exerting downward causal control.
+
+Rather than the classic “chain of causality” it is really a cycle of causality.
+
+  
+**
 
 
 
