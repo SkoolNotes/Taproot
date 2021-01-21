@@ -289,7 +289,7 @@ To better understand the cause of the war, we must first understand the geopolit
 
 
 
-The emergent property from raison d'etat changes from a balance of power to large scale conflict when alliances and tension are introduced. A system of states all enacting raison d'etat is known to lead to a balance of power, as when any one state gains power, the others act in their own best interest and crush the rising state. Out of pure self interest arises peace. We can represent this scenario with a payoff matrix -- two actors, state 1 and state 2, each with two possible actions: attack or defend. If both states defend, they 
+The emergent property from raison d'etat changes from a balance of power to large scale conflict when alliances and tension are introduced. A system of states all enacting raison d'etat is known to lead to a balance of power, as when any one state gains power, the others act in their own best interest and crush the rising state. Out of pure self interest arises peace. We can represent this scenario with a payoff matrix -- two actors, state 1 and state 2, each with two possible actions: attack or defend. If both states defend, they each get nothing. If both attack, they each lose resources, and any power gained would be crushed; each state gets a negative score. If one state attacks while the other defends, 
 
 
 
