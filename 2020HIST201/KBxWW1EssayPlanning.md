@@ -289,7 +289,10 @@ To better understand the cause of the war, we must first understand the geopolit
 
 
 
-The emergent property from raison d'etat changes from a balance of power to large scale warfare when alliances and tension are introduced. 
+The emergent property from raison d'etat changes from a balance of power to large scale conflict when alliances and tension are introduced. 
+
+
+
 
 
 
