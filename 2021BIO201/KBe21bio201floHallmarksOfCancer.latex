@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7137)}}    % original
-%\rhead{\textrmlf{Compiled }\#7137\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7137\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7138)}}    % original
+%\rhead{\textrmlf{Compiled }\#7138\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7138\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -381,6 +381,11 @@ responses}\label{the-immune-system-probably-includes-antitumoral-responses}}
 \item
   patients with colon and ovarian tumors who have lots of CTLs and NK
   cells have better prognosis
+
+  \begin{enumerate}
+  \item
+    evidence is not as strong for other cancers {\textsc{nextstep}}
+  \end{enumerate}
 \end{enumerate}
 
 \hypertarget{vocab}{%
