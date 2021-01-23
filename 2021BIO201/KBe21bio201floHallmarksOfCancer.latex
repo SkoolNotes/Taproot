@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7126)}}    % original
-%\rhead{\textrmlf{Compiled }\#7126\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7126\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7127)}}    % original
+%\rhead{\textrmlf{Compiled }\#7127\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7127\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -326,9 +326,22 @@ cancer}\label{genetically-engineered-mice-and-clinical-epidemeology-suggest-that
 
 \begin{enumerate}
 \item
-  mice that are engineered to lack '\{CD8\^{}+ cytotoxic T lymphocytes
-  (CTLs), CD4\^{}+ T\textsubscript{h1} helper T cells, natural killer
-  (NK) cells\}'
+  mice that are engineered to lack some immune parts got cancer
+  faster/stronger/more
+
+  \begin{enumerate}
+  \item
+    these guys are important in fighting cancer
+
+    \begin{enumerate}
+    \item
+      CD8\^{}+ cytotoxic T lymphocytes (CTLs)
+    \item
+      CD4\^{}+ T\textsubscript{h1} helper T cells
+    \item
+      natural killer (NK) cells
+    \end{enumerate}
+  \end{enumerate}
 \end{enumerate}
 
 \hypertarget{vocab}{%
