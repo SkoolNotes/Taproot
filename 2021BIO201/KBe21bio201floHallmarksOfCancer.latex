@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7125)}}    % original
-%\rhead{\textrmlf{Compiled }\#7125\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7125\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7126)}}    % original
+%\rhead{\textrmlf{Compiled }\#7126\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7126\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -323,6 +323,13 @@ individuals}\label{more-cancer-in-immunocompromised-individuals}}
 \subsubsection{'genetically engineered mice and clinical epidemeology
 suggest that the immune system' actually hurts
 cancer}\label{genetically-engineered-mice-and-clinical-epidemeology-suggest-that-the-immune-system-actually-hurts-cancer}}
+
+\begin{enumerate}
+\item
+  mice that are engineered to lack '\{CD8\^{}+ cytotoxic T lymphocytes
+  (CTLs), CD4\^{}+ T\textsubscript{h1} helper T cells, natural killer
+  (NK) cells\}'
+\end{enumerate}
 
 \hypertarget{vocab}{%
 \section{Vocab}\label{vocab}}
