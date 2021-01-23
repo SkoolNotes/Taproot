@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7102)}}    % original
-%\rhead{\textrmlf{Compiled }\#7102\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7102\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7103)}}    % original
+%\rhead{\textrmlf{Compiled }\#7103\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7103\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,5 +186,23 @@
 \subsection{\texorpdfstring{reading:
 \href{KBsrcHallmarksOfCancer2011Reading.pdf}{Hallmarks of Cancer
 PDF}}{reading: Hallmarks of Cancer PDF}}\label{reading-hallmarks-of-cancer-pdf}}
+
+\hypertarget{flow}{%
+\section{Flow}\label{flow}}
+
+\hypertarget{abstract}{%
+\subsection{Abstract}\label{abstract}}
+
+\hypertarget{introduction}{%
+\subsection{Introduction}\label{introduction}}
+
+\hypertarget{section}{%
+\subsection{section}\label{section}}
+
+\hypertarget{vocab}{%
+\section{Vocab}\label{vocab}}
+
+\hypertarget{neoplastic-disease}{%
+\subsection{neoplastic disease}\label{neoplastic-disease}}
 
 \end{document}
