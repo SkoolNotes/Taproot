@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7120)}}    % original
-%\rhead{\textrmlf{Compiled }\#7120\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7120\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7121)}}    % original
+%\rhead{\textrmlf{Compiled }\#7121\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7121\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -297,8 +297,9 @@ surveillance'}\label{long-standing-theory-of-immune-surveillance}}
   'cells and tissues are constantly monitored'
 \item
   surveillance should elim cancer cells before they grow into tumors
-
-  \textbf{*}
+\item
+  thus, grown tumors have either hid from surveillance or limited the
+  'extent of immunological killing'
 \end{enumerate}
 
 \hypertarget{vocab}{%
