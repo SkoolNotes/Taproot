@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7107)}}    % original
-%\rhead{\textrmlf{Compiled }\#7107\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7107\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7108)}}    % original
+%\rhead{\textrmlf{Compiled }\#7108\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7108\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -259,5 +259,13 @@ newer}\label{theese-hallmarks-are-newer}}
 
 \hypertarget{maybe-technically}{%
 \subsubsection{maybe 'technically'?}\label{maybe-technically}}
+
+\hypertarget{tumor-microenvironment}{%
+\subsection{tumor microenvironment}\label{tumor-microenvironment}}
+
+\hypertarget{presumably-inflammation-recruited-normal-cells-and-other-stuff-that-helps-the-tumor-grow}{%
+\subsubsection{presumably inflammation, recruited normal cells, and
+other stuff that helps the tumor
+grow}\label{presumably-inflammation-recruited-normal-cells-and-other-stuff-that-helps-the-tumor-grow}}
 
 \end{document}
