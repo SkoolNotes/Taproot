@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7136)}}    % original
-%\rhead{\textrmlf{Compiled }\#7136\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7136\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7137)}}    % original
+%\rhead{\textrmlf{Compiled }\#7137\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7137\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -377,6 +377,12 @@ experiments}\label{transplantation-experiments}}
 \subsubsection{the immune system probably includes antitumoral
 responses}\label{the-immune-system-probably-includes-antitumoral-responses}}
 
+\begin{enumerate}
+\item
+  patients with colon and ovarian tumors who have lots of CTLs and NK
+  cells have better prognosis
+\end{enumerate}
+
 \hypertarget{vocab}{%
 \section{Vocab}\label{vocab}}
 
@@ -466,5 +472,13 @@ system}\label{easily-detected-by-the-immune-system}}
 \hypertarget{natural-selection-by-the-immune-system}{%
 \subsubsection{"natural selection" by the immune
 system}\label{natural-selection-by-the-immune-system}}
+
+\hypertarget{prognosis}{%
+\subsection{prognosis}\label{prognosis}}
+
+\hypertarget{a-prediction-of-the-outcome-of-a-cancer-or-disease-in-general-apparently}{%
+\subsubsection{a prediction of the outcome of a cancer (or disease in
+general,
+apparently)}\label{a-prediction-of-the-outcome-of-a-cancer-or-disease-in-general-apparently}}
 
 \end{document}
