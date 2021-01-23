@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7132)}}    % original
-%\rhead{\textrmlf{Compiled }\#7132\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7132\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7134)}}    % original
+%\rhead{\textrmlf{Compiled }\#7134\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7134\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -363,6 +363,14 @@ experiments}\label{transplantation-experiments}}
 \item
   cancer cells from normal mice can initiate tumors in both types of
   hosts
+\item
+  maybe some cancer cells are more easily detected and those would
+  normally die in normal hosts but live in comprimised hosts, but when
+  transplanted they meet a competent immune system and die
+  {\textsc{conclusion}}
+\item
+  Open question: do some carcinogens tend to induce more/less
+  immunogenic cancer cells?
 \end{enumerate}
 
 \hypertarget{vocab}{%
