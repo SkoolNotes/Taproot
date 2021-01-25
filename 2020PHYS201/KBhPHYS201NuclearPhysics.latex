@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7019)}}    % original
-%\rhead{\textrmlf{Compiled }\#7019\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7019\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7160)}}    % original
+%\rhead{\textrmlf{Compiled }\#7160\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7160\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -486,5 +486,17 @@ If Smin \textless\textless{} \# dp - \# params, you did something wrong.
 
 If Smin \textgreater\textgreater{} \# dp - \# params, sigma were
 probably underestimated/not the only sources of error
+
+\hypertarget{lab}{%
+\section{Lab}\label{lab}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Apply deadtime correction to both rate and unceartainty in the rate
+\item
+  Subtract (background, correct deadtime,
+\end{enumerate}
 
 \end{document}
