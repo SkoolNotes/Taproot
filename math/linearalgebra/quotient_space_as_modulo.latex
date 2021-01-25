@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7147)}}    % original
-%\rhead{\textrmlf{Compiled }\#7147\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7147\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7148)}}    % original
+%\rhead{\textrmlf{Compiled }\#7148\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7148\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -176,5 +176,12 @@
 
 A quotient space is similar to a modulo because both take some subpart
 of the structure and smoosh it to zero.
+
+\hypertarget{looking-at-vu}{%
+\section{looking at V/U}\label{looking-at-vu}}
+
+\hypertarget{set-of-affine-subsets-vu-v-v}{%
+\subsection{set of affine subsets (\$\textbackslash\{ v+U : v ∈ V
+\textbackslash\})}\label{set-of-affine-subsets-vu-v-v}}
 
 \end{document}
