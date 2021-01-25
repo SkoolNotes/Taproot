@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7153)}}    % original
-%\rhead{\textrmlf{Compiled }\#7153\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7153\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7155)}}    % original
+%\rhead{\textrmlf{Compiled }\#7155\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7155\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -207,5 +207,14 @@ line}\label{vu-is-isomorphic-to-the-perpendicular-line}}
 you subtract them, their difference is an element of U and thus the same
 as
 zero}\label{if-two-vetors-end-up-on-the-same-affine-subset-then-when-you-subtract-them-their-difference-is-an-element-of-u-and-thus-the-same-as-zero}}
+
+\hypertarget{now-looking-at-modulo}{%
+\section{now looking at modulo}\label{now-looking-at-modulo}}
+
+\hypertarget{z-7-is-similar-because-when-you-subtract-two-that-end-up-in-the-same-group-the-difference-is-an-element-of-the-modulus-and-the-diff-is-thus-zero}{%
+\subsection{\texorpdfstring{\mathbb Z \% 7 is similar because when you
+subtract two that end up in the same 'group', the difference is an
+'element' of the modulus and the diff is thus
+zero}{ Z \% 7 is similar because when you subtract two that end up in the same 'group', the difference is an 'element' of the modulus and the diff is thus zero}}\label{z-7-is-similar-because-when-you-subtract-two-that-end-up-in-the-same-group-the-difference-is-an-element-of-the-modulus-and-the-diff-is-thus-zero}}
 
 \end{document}
