@@ -197,6 +197,6 @@ If Smin >> # dp - # params, sigma were probably underestimated/not the only sour
 
 # Lab
 1. Apply deadtime correction to both rate and unceartainty in the rate
-2. Subtract (background, correct deadtime, propergate error)
-3. 
+2. Subtract (background, *no need to correct deadtime here*, propergate error)
+3. Divide measured rates by th
 
