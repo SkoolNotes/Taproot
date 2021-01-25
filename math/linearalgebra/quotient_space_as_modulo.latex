@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7156)}}    % original
-%\rhead{\textrmlf{Compiled }\#7156\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7156\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7157)}}    % original
+%\rhead{\textrmlf{Compiled }\#7157\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7157\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -221,5 +221,10 @@ zero}{ Z \% 7 is similar because when you subtract two that end up in the same '
 \subsection{\texorpdfstring{{TODO} question: can we mod one element in
 \mathbb R\textsuperscript{2} to get the same 'line collapsing'
 thing?}{TODO question: can we mod one element in  R2 to get the same 'line collapsing' thing?}}\label{question-can-we-mod-one-element-in-r2-to-get-the-same-line-collapsing-thing}}
+
+\hypertarget{not-really-right-because-modulo-is-skippy-while-space-division-is-a-whole-space}{%
+\subsubsection{not really, right? because modulo is skippy while space
+division is a whole
+space}\label{not-really-right-because-modulo-is-skippy-while-space-division-is-a-whole-space}}
 
 \end{document}
