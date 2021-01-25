@@ -198,5 +198,6 @@ If Smin >> # dp - # params, sigma were probably underestimated/not the only sour
 # Lab
 1. Apply deadtime correction to both rate and unceartainty in the rate
 2. Subtract (background, *no need to correct deadtime here*, propergate error)
-3. Divide measured rates by th
+3. Divide measured rates by the rate with no absorber to figure the relative rates. Propergate error. This should be 1ish
+4. 
 

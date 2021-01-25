@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7161)}}    % original
-%\rhead{\textrmlf{Compiled }\#7161\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7161\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7162)}}    % original
+%\rhead{\textrmlf{Compiled }\#7162\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7162\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -498,6 +498,9 @@ probably underestimated/not the only sources of error
 \item
   Subtract (background, \emph{no need to correct deadtime here},
   propergate error)
+\item
+  Divide measured rates by the rate with no absorber to figure the
+  relative rates. Propergate error. This should be 1ish
 \item
 \end{enumerate}
 
