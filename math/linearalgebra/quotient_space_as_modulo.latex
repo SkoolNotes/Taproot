@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7152)}}    % original
-%\rhead{\textrmlf{Compiled }\#7152\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7152\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7153)}}    % original
+%\rhead{\textrmlf{Compiled }\#7153\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7153\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -201,5 +201,11 @@ zero!}\label{these-are-not-subspaces-because-most-of-them-dont-include-zero}}
 \hypertarget{vu-is-isomorphic-to-the-perpendicular-line}{%
 \subsection{V/U is isomorphic to the perpendicular
 line}\label{vu-is-isomorphic-to-the-perpendicular-line}}
+
+\hypertarget{if-two-vetors-end-up-on-the-same-affine-subset-then-when-you-subtract-them-their-difference-is-an-element-of-u-and-thus-the-same-as-zero}{%
+\subsection{if two vetors end up on the same affine subset, then when
+you subtract them, their difference is an element of U and thus the same
+as
+zero}\label{if-two-vetors-end-up-on-the-same-affine-subset-then-when-you-subtract-them-their-difference-is-an-element-of-u-and-thus-the-same-as-zero}}
 
 \end{document}
