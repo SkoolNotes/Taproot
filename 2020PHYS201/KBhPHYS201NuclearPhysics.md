@@ -217,4 +217,4 @@ Raw fuel isn't super radioactive. But, once the fuel is insterted, a neutron get
 
 Spent fuel is radioactive. Raw U238 does not go through much decay (see... 4.8 Billion Years), but what comes out of the fissioning process is two random elements that could be quite radioactive. 
 
-Also, Plutomium 
+Also, Plutonium, a result of Uranium fission, also is toxic chemically and 

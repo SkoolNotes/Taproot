@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7183)}}    % original
-%\rhead{\textrmlf{Compiled }\#7183\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7183\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7184)}}    % original
+%\rhead{\textrmlf{Compiled }\#7184\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7184\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -537,6 +537,7 @@ Spent fuel is radioactive. Raw U238 does not go through much decay
 (see\ldots{} 4.8 Billion Years), but what comes out of the fissioning
 process is two random elements that could be quite radioactive.
 
-Also, Plutomium
+Also, Plutonium, a result of Uranium fission, also is toxic chemically
+and
 
 \end{document}
