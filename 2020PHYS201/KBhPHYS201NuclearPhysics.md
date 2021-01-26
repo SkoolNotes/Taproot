@@ -203,3 +203,8 @@ If Smin >> # dp - # params, sigma were probably underestimated/not the only sour
 
 ***
 
+2 types of nuclear energy generator
+
+1. Pressurized water reactor
+	1. 
+2. Boiling water reactor
