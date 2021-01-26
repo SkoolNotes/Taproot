@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7188)}}    % original
-%\rhead{\textrmlf{Compiled }\#7188\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7188\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7189)}}    % original
+%\rhead{\textrmlf{Compiled }\#7189\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7189\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -549,5 +549,7 @@ thing that blows up includes plutonium!).
 
 The radiation from spent fuel glows blue, because it travels faster than
 light travels in water so specific rays comes out
+
+In order for the radiation to decay down into
 
 \end{document}
