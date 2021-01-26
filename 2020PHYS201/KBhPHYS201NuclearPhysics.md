@@ -201,3 +201,5 @@ If Smin >> # dp - # params, sigma were probably underestimated/not the only sour
 3. Divide measured rates by the rate with no absorber to figure the relative rates. Propergate error. This should be 1ish
 4. 
 
+***
+
