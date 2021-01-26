@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7194)}}    % original
-%\rhead{\textrmlf{Compiled }\#7194\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7194\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7195)}}    % original
+%\rhead{\textrmlf{Compiled }\#7195\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7195\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -567,6 +567,7 @@ currie means that the source disntergrates at 3.7 * 10\^{}10 bq
 Effective dose (rem) = rad * QF (quality factor). For most cases,
 quality factor is 1 for most common radiation. For neutrons and alpha
 particles, it is 3 and up to 20 respectively, but the former could only
-be seen in the middle of a recator and the latter
+be seen in the middle of a recator or if a bomb just went off and the
+latter could be block by some sheets of clothing
 
 \end{document}
