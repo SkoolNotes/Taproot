@@ -229,4 +229,4 @@ Nuclear Radiation ionizez atoms and molecules, which mess things up chemically
 
 ***
 
-1 Bq per second means that the 
+1 Bq per second means that the source disintgrates once per seciond. 1 currie means that the source disntergrates at 3.7 * 10^10 bq
