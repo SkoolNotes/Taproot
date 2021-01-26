@@ -7,15 +7,15 @@
 ## Prompt
 Select one of the following citations from Roy’s _The God of Small Things_ for your in-class close reading writing. Be sure to examine the specific denotation and connotations of Roy’s language.
 
- Chacko said:
- 
+```
+Chacko said:
 -   You don’t _go_ to Oxford. You _read_ at Oxford.
-
 And
-
 -   After _reading_ at Oxford, you _come down._
+
 “Down to earth, d’you mean?” Ammu would ask. “_That_ you definitely do. Like your famous airplanes.”
 Ammu said that the sad but entirely predictable fate of Chacko’s airplanes was an impartial measure of his abilities. (55)
+```
 
 ## Claim Synthesis (Babingtonization)
 ### Development phase – How and So-What
