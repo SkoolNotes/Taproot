@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7181)}}    % original
-%\rhead{\textrmlf{Compiled }\#7181\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7181\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7182)}}    % original
+%\rhead{\textrmlf{Compiled }\#7182\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7182\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -188,6 +188,8 @@ In two days & God of Small Things & God of Small Things,
 Duh \\ \addlinespace
 \bottomrule
 \end{longtable}
+
+\textbf{Copy and paste the passage to the top of the essay!!}
 
 \hypertarget{prompt}{%
 \subsection{Prompt}\label{prompt}}

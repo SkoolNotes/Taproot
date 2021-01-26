@@ -4,6 +4,8 @@
 | :-- | :-- | :-- |
 | In two days | God of Small Things | God of Small Things, Duh |
 
+**Copy and paste the passage to the top of the essay!!**
+
 ## Prompt
 Select one of the following citations from Roy’s _The God of Small Things_ for your in-class close reading writing. Be sure to examine the specific denotation and connotations of Roy’s language.
 
