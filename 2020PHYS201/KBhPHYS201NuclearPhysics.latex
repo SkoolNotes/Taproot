@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7166)}}    % original
-%\rhead{\textrmlf{Compiled }\#7166\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7166\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7167)}}    % original
+%\rhead{\textrmlf{Compiled }\#7167\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7167\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -512,10 +512,10 @@ probably underestimated/not the only sources of error
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Pressurized water reactor =\textgreater{} Pressured water superheats
-  nearby water to steam
+  Pressurized water reactor =\textgreater{} Pressured, superheated water
+  superheats nearby water to steam
 \item
-  Boiling water reactor =\textgreater{}
+  Boiling water reactor =\textgreater{} Reactor directly heat
 \end{enumerate}
 
 \end{document}
