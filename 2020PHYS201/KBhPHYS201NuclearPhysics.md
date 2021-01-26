@@ -210,4 +210,4 @@ If Smin >> # dp - # params, sigma were probably underestimated/not the only sour
 
 Pressured water reactor has control SCRAM rods above, because steam is not dried within the reactor. Boiling water reactors have control rods below, because the output steam's dryer is above and hence control rods needs to be place below.
 
-The fuel rods contain UO2,with about 3% being 235U. The rest is the radioactive slowly decaying common 238U.
+The fuel rods contain UO2,with about 3% being U. The rest is the radioactive slowly decaying common 238U. Uranium ore comes out as 0.7% 235U, but we need that to be 3% b/c fissioning 238U is not helpful, so a process.
