@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7184)}}    % original
-%\rhead{\textrmlf{Compiled }\#7184\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7184\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7185)}}    % original
+%\rhead{\textrmlf{Compiled }\#7185\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7185\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -538,6 +538,10 @@ Spent fuel is radioactive. Raw U238 does not go through much decay
 process is two random elements that could be quite radioactive.
 
 Also, Plutonium, a result of Uranium fission, also is toxic chemically
-and
+and emits alpha rays. This could be used as a nuclear weapon in the
+``emits alpha rays'' sense but also used as a slightly more inefficient
+way of creating lots of heat. Hence, this is fiercely protected.
+
+After fission stops, 5-10 megawatts gets generated
 
 \end{document}
