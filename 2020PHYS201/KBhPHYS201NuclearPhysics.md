@@ -219,4 +219,4 @@ Spent fuel is radioactive. Raw U238 does not go through much decay (see... 4.8 B
 
 Also, Plutonium, a result of Uranium fission, also is toxic chemically and emits alpha rays. This could be used as a nuclear weapon in the "emits alpha rays" sense but also used as a slightly more inefficient way of creating lots of heat. Hence, this is fiercely protected.
 
-After fission stops, 5-10 megawatts gets generated 
+After fission stops, 5-10 megawatts still gets generated. This, if not cooled by 8g/s of water, will result in zicalloy interaction and hydrogas formation due to chemistry. And that will brow up. 
