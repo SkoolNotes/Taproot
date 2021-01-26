@@ -2,7 +2,7 @@
 ## General Information
 | Due Date | Topic | Important Documents |
 | :-- | :-- | :-- |
-| In two days 😱 | TOPIC | DOCUMENTS, HERE |
+| In two days | TOPIC | DOCUMENTS, HERE |
 
 ## Prompt
 THE PROMPT
