@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7186)}}    % original
-%\rhead{\textrmlf{Compiled }\#7186\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7186\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7187)}}    % original
+%\rhead{\textrmlf{Compiled }\#7187\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7187\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -544,6 +544,7 @@ way of creating lots of heat. Hence, this is fiercely protected.
 
 After fission stops, 5-10 megawatts still gets generated. This, if not
 cooled by 8g/s of water, will result in zicalloy interaction and
-hydrogas formation due to chemistry. And that will brow up.
+hydrogas formation due to chemistry. And that will brow up (and the
+thing that blows up includes plutonium!).
 
 \end{document}
