@@ -205,6 +205,5 @@ If Smin >> # dp - # params, sigma were probably underestimated/not the only sour
 
 2 types of nuclear energy generator
 
-1. Pressurized water reactor
-	1. 
-2. Boiling water reactor
+1. Pressurized water reactor => Pressured water superheats nearby water to steam
+2. Boiling water reactor => 
