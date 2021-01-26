@@ -2,9 +2,11 @@
 ## General Information
 | Due Date | Topic | Important Documents |
 | :-- | :-- | :-- |
-| DUE DATE | TOPIC | DOCUMENTS, HERE |
+| In two days 😱 | TOPIC | DOCUMENTS, HERE |
+
 ## Prompt
 THE PROMPT
+
 ## Claim Synthesis (Babingtonization)
 ### Development phase – How and So-What
 - *CLAIM*
@@ -13,12 +15,14 @@ THE PROMPT
 	- So what (local), THING THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS THE BROADER PICTURE
 - *CLAIM*
 	- Repeat...
+	
 ### Testing phase – Why and So-What
 - *CLAIM*
 	- Why DOES THE CLAIM ANSWER THE PROMPT?
 	- So what (global), THING THAT ATTACKS THE BROADER IMPACT OF THE CLAIM
 - *CLAIM*
 	- Repeat...
+	
 ## Defluffifying
 CHOSEN THESIS CLAIM
 
@@ -31,6 +35,7 @@ So what? SO WHAT
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
 **RESTATED CLAIM**
+
 ## Outline
 - Claim 1: *claim*
 	- How
