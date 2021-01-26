@@ -221,3 +221,4 @@ Also, Plutonium, a result of Uranium fission, also is toxic chemically and emits
 
 After fission stops, 5-10 megawatts still gets generated. This, if not cooled by 8g/s of water, will result in zicalloy interaction and hydrogas formation due to chemistry. And that will brow up (and the thing that blows up includes plutonium!). 
 
+The radiation from spent fuel glows blue, because it travels faster than light travels in water so specific rays comes out
