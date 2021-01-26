@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7172)}}    % original
-%\rhead{\textrmlf{Compiled }\#7172\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7172\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7173)}}    % original
+%\rhead{\textrmlf{Compiled }\#7173\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7173\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -529,6 +529,10 @@ radioactive slowly decaying common 238U. Uranium ore comes out as 0.7\%
 a process called ``enrichment'' helps purify the Uranium and rid of 238
 to leave only 235.
 
-Raw fuel isn't super
+Raw fuel isn't super radioactive. But, once the fuel is insterted, a
+neutron gets shot in and the recator starts. Control rods could be
+inserted in to stop teh reaction. \#why
+
+Spent fuel is
 
 \end{document}
