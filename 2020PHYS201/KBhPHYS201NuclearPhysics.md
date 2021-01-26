@@ -223,4 +223,6 @@ After fission stops, 5-10 megawatts still gets generated. This, if not cooled by
 
 The radiation from spent fuel glows blue, because it travels faster than light travels in water so specific rays comes out
 
-In order for the radiation to decay down into 
+In order for the radiation to decay down into standard radiation, one would need to store 10,000+ years for 10% original radiation. However, reprocessving techniques could lower that to around 200 years
+
+Nuclear Radiation ionizez at
