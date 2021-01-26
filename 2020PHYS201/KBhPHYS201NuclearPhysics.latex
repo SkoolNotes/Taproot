@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7190)}}    % original
-%\rhead{\textrmlf{Compiled }\#7190\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7190\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7191)}}    % original
+%\rhead{\textrmlf{Compiled }\#7191\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7191\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -554,6 +554,11 @@ In order for the radiation to decay down into standard radiation, one
 would need to store 10,000+ years for 10\% original radiation. However,
 reprocessving techniques could lower that to around 200 years
 
-Nuclear Radiation ionizez at
+Nuclear Radiation ionizez atoms and molecules, which mess things up
+chemically
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+1 Bq per second means that the
 
 \end{document}

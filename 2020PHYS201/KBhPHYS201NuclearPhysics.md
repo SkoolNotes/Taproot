@@ -225,4 +225,8 @@ The radiation from spent fuel glows blue, because it travels faster than light t
 
 In order for the radiation to decay down into standard radiation, one would need to store 10,000+ years for 10% original radiation. However, reprocessving techniques could lower that to around 200 years
 
-Nuclear Radiation ionizez at
+Nuclear Radiation ionizez atoms and molecules, which mess things up chemically
+
+***
+
+1 Bq per second means that the 
