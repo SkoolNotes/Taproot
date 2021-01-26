@@ -208,3 +208,5 @@ If Smin >> # dp - # params, sigma were probably underestimated/not the only sour
 1. Pressurized water reactor => Pressured, superheated water superheats nearby water to steam
 2. Boiling water reactor => Reactor directly heat
 
+Pressured water reactor has control SCRAM rods above, because steam is not dried within the reactor. Boiling water reactors have control rods below, because the output steam's dryer is above and hence control rods needs to be place below.
+

@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7168)}}    % original
-%\rhead{\textrmlf{Compiled }\#7168\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7168\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7169)}}    % original
+%\rhead{\textrmlf{Compiled }\#7169\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7169\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -517,5 +517,10 @@ probably underestimated/not the only sources of error
 \item
   Boiling water reactor =\textgreater{} Reactor directly heat
 \end{enumerate}
+
+Pressured water reactor has control SCRAM rods above, because steam is
+not dried within the reactor. Boiling water reactors have control rods
+below, because the output steam's dryer is above and hence control rods
+needs to be place below.
 
 \end{document}
