@@ -2,7 +2,7 @@
 ## General Information
 | Due Date | Topic | Important Documents |
 | :-- | :-- | :-- |
-| In two days | TOPIC | DOCUMENTS, HERE |
+| In two days | God of Small Things | God of Small Things, Duh |
 
 ## Prompt
 THE PROMPT
