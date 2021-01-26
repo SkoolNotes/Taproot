@@ -215,4 +215,6 @@ The fuel rods contain UO2,with about 3% being U. The rest is the radioactive slo
 Raw fuel isn't super radioactive. But, once the fuel is insterted, a neutron gets shot in and the recator starts. Control rods could be inserted in to stop teh reaction. #why
 
 
-Spent fuel is radioactive. Raw U238 does not go through much decay (see... 4.8 Billion Years), but what comes out of the fissioning process is two random elements that could be quite radioactive.
+Spent fuel is radioactive. Raw U238 does not go through much decay (see... 4.8 Billion Years), but what comes out of the fissioning process is two random elements that could be quite radioactive. 
+
+Also, Plutomium 
