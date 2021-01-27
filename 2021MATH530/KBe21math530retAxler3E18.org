@@ -16,4 +16,6 @@
   This shows that if $U \nsubseteq \text{null }T$, then $S \notin \mathcal L(V/U, W)$ or $T \neq S \circ \pi$. Thus, if $S \in \mathcal L(V/U, W)$ and $T = S \circ \pi$, then $U \subseteq \text{null }T$.
 
 * Forward Direction
-  Intuitively, if
+  Intuitively, we can treat $S \circ \pi$ as a single map and take a basis of $V$ to the same place that $T$ would, and the maps would be equal.
+
+  Suppose $v_1, \ldots, v_n$ is a basis of $V$.
