@@ -19,4 +19,8 @@ Europeans drew lines and created "mandate" states  — where states attempted to
 
 **Economic Benifit**: control of key trading ports are benifitial for states welcoming of controlled trade
 
-**Cultural Chavanism**: _white man's brur_
+**Cultural Chavanism**: _white man's burden_
+
+| Traditional Society | Modern Society |
+|---|---|
+| Rurual | Urban/Industrial|
