@@ -51,7 +51,7 @@ So three things
 	* He does not simply read at harvard, he "reads" — attempting to "understand/interpreate the nature" of things at Oxford. 
 	* Then, after he "understands", he "comes down". This is reminiscent as KJV Luke 19:4-5, when the greedy tax collector Zacchaeus of Jericho climbed up a tree to see Jesus — "to understand ... the nature", and then got asked to "come down" b/c Jesus wants to go to his house.
 	* Chacko expected that Oxford the tree allowed him to "come down" and be "saved" perhaps from his current station (future land lord, not unlike Zaccheaus). However, his sister offers a different interpretation:
-2) Instead, his sister contradicts him
+2) Instead, his sister contradicts him, stating that he instead comes "down to earth". And 
 
 
 	
