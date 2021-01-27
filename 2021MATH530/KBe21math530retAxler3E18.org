@@ -14,6 +14,8 @@
   \[ S( \pi v_j) = T v_j \]
   Then, $S \circ \pi$ will send each vector in $U$ to 0 and each other vector where $T$ would send it. Because $U \subseteq \text{null }T$, $S \circ \pi = T$.
 
+  This argument does not work for infinite dimensional vector spaces.
+
 * Reverse Direction by Contrapositive
   Intuitively, if we lost information, then we can't reconstruct what $T$ would do.
 
