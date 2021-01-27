@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7222)}}    % original
-%\rhead{\textrmlf{Compiled }\#7222\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7222\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7223)}}    % original
+%\rhead{\textrmlf{Compiled }\#7223\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7223\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -189,6 +189,17 @@ still be able to have a map that does what \(T\) would do. If we are
 able to do what \(T\) would do, then when modding out \(U\) we only
 removed part of \(\text{null }T\) and lost no information.
 
+\hypertarget{forward-direction}{%
+\section{Forward Direction}\label{forward-direction}}
+
+Intuitively, we can treat \(S \circ \pi\) as a single map and take a
+basis of \(V\) to the same place that \(T\) would, and the maps would be
+equal.
+
+If \(V\) is finite dimensional, suppose \(v_1, \ldots, v_n\) is a basis
+of \(V\) and \(v_1, \ldots, v_k\) is a basis of \(U\) s.t.
+\(k = \text{dim } U\) and \(n = \text{dim }V\).
+
 \hypertarget{reverse-direction-by-contrapositive}{%
 \section{Reverse Direction by
 Contrapositive}\label{reverse-direction-by-contrapositive}}
@@ -208,16 +219,5 @@ This shows that if \(U \nsubseteq \text{null }T\), then
 \(S \notin \mathcal L(V/U, W)\) or \(T \neq S \circ \pi\). Thus, if
 \(S \in \mathcal L(V/U, W)\) and \(T = S \circ \pi\), then
 \(U \subseteq \text{null }T\).
-
-\hypertarget{forward-direction}{%
-\section{Forward Direction}\label{forward-direction}}
-
-Intuitively, we can treat \(S \circ \pi\) as a single map and take a
-basis of \(V\) to the same place that \(T\) would, and the maps would be
-equal.
-
-If \(V\) is finite dimensional, suppose \(v_1, \ldots, v_n\) is a basis
-of \(V\) and \(v_1, \ldots, v_k\) is a basis of \(U\) s.t.
-\(k = \text{dim } U\) and \(n = \text{dim }V\).
 
 \end{document}
