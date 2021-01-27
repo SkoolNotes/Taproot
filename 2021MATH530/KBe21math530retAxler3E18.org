@@ -22,7 +22,7 @@
   \[ S\pi u + S\pi v = Tu + Tv = T(u+v) = S(\pi u + \pi v) \]
   \[ \lambda S \pi u = \lambda T u = T(\lambda u) = S (\lambda \pi u) \]
 
-
+  In other words, $T$ is linear thus $S \circ \pi$ is also linear.
 
 * Reverse Direction by Contrapositive
   Intuitively, if we lost information, then we can't reconstruct what $T$ would do.

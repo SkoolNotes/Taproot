@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7238)}}    % original
-%\rhead{\textrmlf{Compiled }\#7238\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7238\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7239)}}    % original
+%\rhead{\textrmlf{Compiled }\#7239\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7239\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -211,13 +211,13 @@ send it and show that the resulting \(S\) is linear? I'm not convinced
 by the following argument:
 
 Let \(S : V/U \to W\) s.t. \(S(\pi v) = Tv\). Then, \(S \circ \pi = T\).
-Maybe one can say "\(T\) is linear so \(S \circ \pi\) must also be
-linear", but I am unsure.
 
 For \(S\) to be linear, it needs to be additive and homogenous. For
 \(u, v \in V\) and \(\lambda \in \mathbb F\),
 \[ S\pi u + S\pi v = Tu + Tv = T(u+v) = S(\pi u + \pi v) \]
 \[ \lambda S \pi u = \lambda T u = T(\lambda u) = S (\lambda \pi u) \]
+
+In other words, \(T\) is linear thus \(S \circ \pi\) is also linear.
 
 \hypertarget{reverse-direction-by-contrapositive}{%
 \section{Reverse Direction by
