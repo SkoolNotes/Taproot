@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7220)}}    % original
-%\rhead{\textrmlf{Compiled }\#7220\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7220\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7221)}}    % original
+%\rhead{\textrmlf{Compiled }\#7221\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7221\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -217,6 +217,7 @@ basis of \(V\) to the same place that \(T\) would, and the maps would be
 equal.
 
 If \(V\) is finite dimensional, suppose \(v_1, \ldots, v_n\) is a basis
-of \(V\). (THIS DOESN'T WORK FOR INF DIM V)
+of \(V\) and \(v_1, \ldots, v_k\) is a basis of \(U\) s.t.
+\(k = \text{dim } U\) and \(n = \text{dim }V\).
 
 \end{document}
