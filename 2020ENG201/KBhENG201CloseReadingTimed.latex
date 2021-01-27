@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7283)}}    % original
-%\rhead{\textrmlf{Compiled }\#7283\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7283\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7284)}}    % original
+%\rhead{\textrmlf{Compiled }\#7284\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7284\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -264,7 +264,8 @@ So three things
 \def\labelenumi{\arabic{enumi})}
 \tightlist
 \item
-  Chacko derives a sense of superiority and higher knowledge of Harvard
+  Chacko derives a sense of superiority and higher knowledge at Oxford.
+  He does not simply read at harvard, he ``reads'' --- a
 \end{enumerate}
 
 \hypertarget{defluffifying}{%
