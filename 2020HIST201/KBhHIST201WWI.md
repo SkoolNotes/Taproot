@@ -21,6 +21,9 @@ The mess with the Slavic Nationalists and Bonians directly triggered the war. Se
 ## The War 
 The actual war is a hot mess, too! See [[KBhHIST201WWIActualWar]] 
 
+## The Result
+Results of the war:  [[KBhHIST201WWIResults]]
+
 ***
 
 And then, basically immediately, an essay: [[KBhHIST201WWIEssayOutlineJack]] 
