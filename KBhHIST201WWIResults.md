@@ -21,3 +21,4 @@ Europeans drew lines and created "mandate" states  — where states attempted to
 
 **Cultural Chavanism**: _white man's burden_
 
+![[Pasted image 20210127134039.png]]
