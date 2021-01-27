@@ -31,7 +31,7 @@ The sense of British superority used against him. Infatuation with titles.
 
 1. Infatuation with titles and male chavinism
 
-You don't go to oxford, you "understand" at oxford. And after you understand at oxford
+You don't go to oxford, you "understand" at oxford. And after you understand at oxford, you return. 
 
 
 ## Claim Synthesis (Babingtonization)
