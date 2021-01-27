@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7237)}}    % original
-%\rhead{\textrmlf{Compiled }\#7237\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7237\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7238)}}    % original
+%\rhead{\textrmlf{Compiled }\#7238\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7238\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -215,18 +215,24 @@ Maybe one can say "\(T\) is linear so \(S \circ \pi\) must also be
 linear", but I am unsure.
 
 For \(S\) to be linear, it needs to be additive and homogenous. For
-\(u, v \in V\) and \(\lambda \in \mathbb F\), \[ Su = Tu
+\(u, v \in V\) and \(\lambda \in \mathbb F\),
+\[ S\pi u + S\pi v = Tu + Tv = T(u+v) = S(\pi u + \pi v) \]
+\[ \lambda S \pi u = \lambda T u = T(\lambda u) = S (\lambda \pi u) \]
 
+\hypertarget{reverse-direction-by-contrapositive}{%
+\section{Reverse Direction by
+Contrapositive}\label{reverse-direction-by-contrapositive}}
 
-* Reverse Direction by Contrapositive
-  Intuitively, if we lost information, then we can't reconstruct what $T$ would do.
+Intuitively, if we lost information, then we can't reconstruct what
+\(T\) would do.
 
-  Assume $U \nsubseteq \text{null }T$. There exists $v \in U$ s.t. $Tv \neq 0$. This is some of the "information" that was "lost". Because $v \in U$,
-  \[ \pi v = U + v = U \] Because \(U\) is the additive identity (\(0\))
-in \(V/U\), and because linear maps take zero to zero,
-\(S \in \mathcal L(V/U, W)\) must take \(\pi v = 0\) to zero. Thus,
-either \(S(\pi v) \neq Tv\) or \(S\) is not a linear map, both of which
-are contradictions.
+Assume \(U \nsubseteq \text{null }T\). There exists \(v \in U\) s.t.
+\(Tv \neq 0\). This is some of the "information" that was "lost".
+Because \(v \in U\), \[ \pi v = U + v = U \] Because \(U\) is the
+additive identity (\(0\)) in \(V/U\), and because linear maps take zero
+to zero, \(S \in \mathcal L(V/U, W)\) must take \(\pi v = 0\) to zero.
+Thus, either \(S(\pi v) \neq Tv\) or \(S\) is not a linear map, both of
+which are contradictions.
 
 This shows that if \(U \nsubseteq \text{null }T\), then
 \(S \notin \mathcal L(V/U, W)\) or \(T \neq S \circ \pi\). Thus, if

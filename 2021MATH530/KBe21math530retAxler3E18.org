@@ -16,10 +16,12 @@
 
   This argument does not work for infinite dimensional vector spaces. Instead, perhaps we can send anything not in $U$ to where $T$ would send it and show that the resulting $S$ is linear? I'm not convinced by the following argument:
 
-  Let $S : V/U \to W$ s.t. $S(\pi v) = Tv$. Then, $S \circ \pi = T$. Maybe one can say "$T$ is linear so $S \circ \pi$ must also be linear", but I am unsure.
+  Let $S : V/U \to W$ s.t. $S(\pi v) = Tv$. Then, $S \circ \pi = T$.
 
   For $S$ to be linear, it needs to be additive and homogenous. For $u, v \in V$ and $\lambda \in \mathbb F$,
-  \[ Su = Tu
+  \[ S\pi u + S\pi v = Tu + Tv = T(u+v) = S(\pi u + \pi v) \]
+  \[ \lambda S \pi u = \lambda T u = T(\lambda u) = S (\lambda \pi u) \]
+
 
 
 * Reverse Direction by Contrapositive
