@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7333)}}    % original
-%\rhead{\textrmlf{Compiled }\#7333\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7333\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7334)}}    % original
+%\rhead{\textrmlf{Compiled }\#7334\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7334\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -570,7 +570,7 @@ particles, it is 3 and up to 20 respectively, but the former could only
 be seen in the middle of a recator or if a bomb just went off and the
 latter could be block by some sheets of clothing
 
-Rad/Rem/Siverts =\textgreater{} Measure of \emph{absorbtion} per
-kilogram
+Rad/Rem/Siverts =\textgreater{} Measure of \emph{absorbtion of energy}
+per kilogram Bq/Currie =\textgreater{} Measure of Emission
 
 \end{document}
