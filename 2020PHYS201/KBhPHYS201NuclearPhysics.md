@@ -239,3 +239,9 @@ Rad/Rem/Siverts => Measure of _absorbtion of energy_ per kilogram over time
 Bq/Currie => Measure of Emission and source strength
 
 Bottom line: don't worry about the siverts you recieve... unless you eat a radioactive source, because then its emitting in you
+
+Radiation absorbtion results
+
+| Severts number | Effect |
+|---|---|
+|0.5 Sv immediately|4% chance of cancer during lifetime|

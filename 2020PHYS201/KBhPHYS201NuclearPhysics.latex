@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7337)}}    % original
-%\rhead{\textrmlf{Compiled }\#7337\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7337\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7338)}}    % original
+%\rhead{\textrmlf{Compiled }\#7338\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7338\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -576,5 +576,17 @@ source strength
 
 Bottom line: don't worry about the siverts you recieve\ldots{} unless
 you eat a radioactive source, because then its emitting in you
+
+Radiation absorbtion results
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+Severts number & Effect \\ \addlinespace
+\midrule
+\endhead
+0.5 Sv immediately & 4\% chance of cancer during
+lifetime \\ \addlinespace
+\bottomrule
+\end{longtable}
 
 \end{document}
