@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7232)}}    % original
-%\rhead{\textrmlf{Compiled }\#7232\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7232\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7233)}}    % original
+%\rhead{\textrmlf{Compiled }\#7233\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7233\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -210,7 +210,9 @@ Instead, perhaps we can send anything not in \(U\) to where \(T\) would
 send it and show that the resulting \(S\) is linear? I'm not convinced
 by the following argument:
 
-Let \(S : V/U \to W\) s.t. \(S(\pi v) = Tv\). Then, \(S \circ \pi = T\)
+Let \(S : V/U \to W\) s.t. \(S(\pi v) = Tv\). Then, \(S \circ \pi = T\).
+Maybe one can say "\(T\) is linear so \(S \circ \pi\) must also be
+linear", but I am unsure.
 
 \hypertarget{reverse-direction-by-contrapositive}{%
 \section{Reverse Direction by
