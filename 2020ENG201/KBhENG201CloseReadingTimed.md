@@ -56,41 +56,10 @@ So three things
 	 * Ammu remarks that the airplanes are "famous" —  really infamous. Although not a strict verbal irony, Ammu uses the the term because it is opposite the tipical connotation. Chacko's airplanes are famous not for a positive quality but instead for its ease of failure. Elongating the previous metaphore, this forshadows a potential, infamous failure for Paradise pickles
 3) Remarking upon all of this, Ammu is "sad"
 	 * Sadness is quite a passive emotion — she is unappy, and regretful, but due to the "male chavunist nature" of society he is unable to act
-	 * Ammu slightly laments her station in life this way, hinting that she would have done different as Chacko
+	 * Ammu slightly laments her station in life this way, hinting that she could actually see the problem clearer than Chacko as his failure is "predictable"
+	 
+**In the passage selected in the GOST, Roy highlights 
 
-	
-## Defluffifying
-CHOSEN THESIS CLAIM
-
-* Point a 
-* Point b
-* Point c
-
-So what? SO WHAT
-
-Now, defluffify by re-writing the three points + so what in as little words as possible.
-
-**RESTATED CLAIM**
-
-## Outline
-- Claim 1: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
-- Claim 2: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
-- Claim 3: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
 
 ***
 There is always [UCLA Writing Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf)
