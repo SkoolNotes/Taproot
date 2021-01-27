@@ -64,6 +64,17 @@ This passage from _The God of Small Things_ by Arundhati Roy occurs in the immed
 
 
 
+2) Chacko said:
+
+a)   You don’t _go_ to Oxford. You _read_ at Oxford.
+
+And
+
+b)   After _reading_ at Oxford, you _come down._
+
+“Down to earth, d’you mean?” Ammu would ask. “_That_ you definitely do. Like your famous airplanes.”
+
+  Ammu said that the sad but entirely predictable fate of Chacko’s airplanes was an impartial measure of his abilities. (55)
 
 
 
