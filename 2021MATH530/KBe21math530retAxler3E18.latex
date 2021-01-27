@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7206)}}    % original
-%\rhead{\textrmlf{Compiled }\#7206\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7206\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7207)}}    % original
+%\rhead{\textrmlf{Compiled }\#7207\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7207\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -193,8 +193,11 @@ able to do what \(T\) would do, then we only removed part of
 \section{Forward Direction by
 Contrapositive}\label{forward-direction-by-contrapositive}}
 
+Intuitively, if we lost information, then we can't reconstruct what
+\(T\) would do.
+
 If \(U \nsubseteq \text{null }T\), then there exists \(v \in U\) s.t.
-\(Tv \neq 0\).
+\(Tv \neq 0\). This is the "information" that was "lost".
 
 \hypertarget{reverse-direction}{%
 \section{Reverse Direction}\label{reverse-direction}}
