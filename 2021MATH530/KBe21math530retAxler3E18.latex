@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7202)}}    % original
-%\rhead{\textrmlf{Compiled }\#7202\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7202\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7204)}}    % original
+%\rhead{\textrmlf{Compiled }\#7204\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7204\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -187,6 +187,9 @@ only if \(U \subseteq \text{null }T\).
 \hypertarget{forward-direction-by-contrapositive}{%
 \section{Forward Direction by
 Contrapositive}\label{forward-direction-by-contrapositive}}
+
+If \(U \nsubseteq \text{null }T\), then there exists \(v \in U\) s.t.
+\(Tv \neq 0\).
 
 \hypertarget{reverse-direction}{%
 \section{Reverse Direction}\label{reverse-direction}}
