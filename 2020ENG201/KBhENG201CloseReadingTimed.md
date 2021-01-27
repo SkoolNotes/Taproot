@@ -56,7 +56,7 @@ So three things
 	 * Ammu remarks that the airplanes are "famous" —  really infamous. Although not a strict verbal irony, Ammu uses the the term because it is opposite the tipical connotation. Chacko's airplanes are famous not for a positive quality but instead for its ease of failure. Elongating the previous metaphore, this forshadows a potential, infamous failure for Paradise pickles
 3) Remarking upon all of this, Ammu is "sad"
 	 * Sadness is quite a passive emotion — she is unappy, and regretful, but due to the "male chavunist nature" of society he is unable to act
-	 * 
+	 * Ammu slightly laments her station in life this way, hinting that she would have done different as Chacko
 
 	
 ## Defluffifying
