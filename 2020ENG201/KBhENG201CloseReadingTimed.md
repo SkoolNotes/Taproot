@@ -1,4 +1,4 @@
-# Essay Template
+# Timed close reading essay prep
 ## General Information
 | Due Date | Topic | Important Documents |
 | :-- | :-- | :-- |
@@ -58,8 +58,9 @@ So three things
 	 * Sadness is quite a passive emotion — she is unappy, and regretful, but due to the "male chavunist nature" of society he is unable to act
 	 * Ammu slightly laments her station in life this way, hinting that she could actually see the problem clearer than Chacko as his failure is "predictable"
 	 
-**In the passage selected in the GOST, Roy leverages biblical illusions, creative word choices, and entended metaphores to highlight Ammu's conflict with the 'male chauvinist' nature of Chaco and leverages this conflict to forshadow the eventual downfall of their family business.**
+**In the passage selected in the GOST, Roy leverages biblical illusions, creative word choices, and entended metaphores to highlight Ammu's conflict with the 'male chauvinist' superiority exhibited by Chaco and leverages this conflict to forshadow the eventual downfall of their family business.**
 
+*Copy and paste the passage to the top of the essay!!*
 
 ***
 There is always [UCLA Writing Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf)
