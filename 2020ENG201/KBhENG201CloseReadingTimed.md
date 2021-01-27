@@ -35,7 +35,9 @@ You don't go to oxford, you "understand" at oxford. And after you understand at 
 
 Inherent sense of superority, for Chacko, Oxford is the tree that allows him to see Jesus. Marxist.
 
-Ammu instead offers an alternate interpretation, instead of meeting a Jesus like figure, one actually meets a harsher figure: the ground. One acutally comes down to earth, and, instead of seeing Jesus and achiving salvation, chacko bites the dirt.... by destroying prebuilt systems. Unexpected use of famous offers sharp dichotomy
+Ammu instead offers an alternate interpretation, instead of meeting a Jesus like figure, one actually meets a harsher figure: the ground. One acutally comes down to earth, and, instead of seeing Jesus and achiving salvation, chacko bites the dirt.... by destroying prebuilt systems.
+
+Unexpected use of famous — well known, but not because they were good but instead because of they were expressly terriable — offers sharp dichotomy 
 
 
 	
