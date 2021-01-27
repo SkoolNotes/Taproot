@@ -39,6 +39,6 @@ But, :point_up: this framework guides the mandates system and kind of encourages
 ## Dependency Theory
 **History matters and states don't exist in isolation.**
 
-that "britian and Brazile"
+that "britian and Brazil"
 
 
