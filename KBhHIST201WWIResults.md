@@ -11,3 +11,8 @@ Bellicist theory: centralizing impact due to the millitary and defensive imperit
 Reasons for state marking
 1. To get more land!
 2. To gain more economic advantage, and the US wanted free trade so they worked against them
+
+## Statemaking by Decree
+Europeans drew lines and created "mandate" states  — where states attempted to create an instable, dependent states.
+
+**Imperalistic Mindse
