@@ -63,6 +63,7 @@ This passage from _The God of Small Things_ by Arundhati Roy occurs in the immed
 
 
 
+---
 
 2) Chacko said:
 
@@ -76,25 +77,37 @@ b)   After _reading_ at Oxford, you _come down._
 
   Ammu said that the sad but entirely predictable fate of Chacko’s airplanes was an impartial measure of his abilities. (55)
 
+---
 
 
+go to vs read at
 
-go vs read
+come down
 
-read -> reading aloud voice
+d'you mean -> not elitest talk
 
-
-
-
-
+read -> reading aloud voice 
 
 
+a) and b) -> lecturer, and thus, others are student
+reductionistic, like marxist? 
+
+**ABOVE in hierarchy**
+**ASPIRATION**
+
+come down -> raises oxford up, come down from heaven. place your are in (ayemenem) is "down" 
+^ hiarchy
+
+airplane kits -> promise that relies on work, failure falls on the maker
+false promise, never learns
+like oxford promise, like capitalist promise, like marxist promise?
 
 
+kits are a mock up, not the real thing
+extent of his abilities
 
 
-
-
+Ammu defeats without elitist talk or ideals
 
 
 
