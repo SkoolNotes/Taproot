@@ -21,7 +21,7 @@ Ammu said that the sad but entirely predictable fate of Chacko’s airplanes was
 
 Reading, the double entendre. "Study (an academic subject) at a university." (OED, AA) However, in this passage, there's also "understand or interpret the nature or significance of." (OED, AB).
 
-Come down — a sense of superority — a sense of criticism w.r.t. Chacko has a sense of superority. Chaco's aeromodeling kit kept crashing, shows dichotomy between reality and fiction.
+Come down — a sense of superority — a sense of criticism w.r.t. Chacko has a sense of superority. Chaco's aeromodeling kit kept crashing, shows dichotomy between reality and fiction. 
 
 
 ## Claim Synthesis (Babingtonization)
