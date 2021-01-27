@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7201)}}    % original
-%\rhead{\textrmlf{Compiled }\#7201\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7201\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7202)}}    % original
+%\rhead{\textrmlf{Compiled }\#7202\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7202\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -181,7 +181,7 @@
 Suppose \(T \in \mathcal L(V, W)\) and \(U\) is a subspace of \(V\). Let
 π denote the quotient map from \(V\) onto \(V/U\). Prove that there
 exists \(S \in \mathcal L(V/U, W)\) such that \(T = S \circ \pi\) if and
-only if \(U \subeq \text{null }T\).
+only if \(U \subseteq \text{null }T\).
 \end{quote}
 
 \hypertarget{forward-direction-by-contrapositive}{%
