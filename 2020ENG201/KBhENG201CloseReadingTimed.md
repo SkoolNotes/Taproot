@@ -19,6 +19,10 @@ And
 Ammu said that the sad but entirely predictable fate of Chacko’s airplanes was an impartial measure of his abilities. (55)
 ```
 
+Reading, the double entendre. "study (an academic subject) at a university."
+
+
+
 ## Claim Synthesis (Babingtonization)
 ### Development phase – How and So-What
 - *CLAIM*
