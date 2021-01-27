@@ -70,3 +70,21 @@ source: #index
 | _The Bird-Dreaming Baobab_ pass 0          | [[KBe2020eng201floBirdDreamingBaobab0.pdf]] |
 |--------------------------------------------|---------------------------------------------|
 
+# Semester 2
+
+## MA1
+
+- Huxley [[KBxInClassCloseReadingGOST1]]
+
+
+
+
+
+
+
+
+
+
+
+
+
