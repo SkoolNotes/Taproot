@@ -37,7 +37,11 @@ Inherent sense of superority, for Chacko, Oxford is the tree that allows him to 
 
 Ammu instead offers an alternate interpretation, instead of meeting a Jesus like figure, one actually meets a harsher figure: the ground. One acutally comes down to earth, and, instead of seeing Jesus and achiving salvation, chacko bites the dirt.... by destroying prebuilt systems.
 
-Unexpected use of famous — well known, but not because they were good but instead because of they were expressly terriable — offers sharp dichotomy 
+Unexpected use of famous — well known, but not because they were good but instead because of they were expressly terriable — offers sharp dichotomy like that offered by Ammu before.
+
+Highlights the contrasting nature of the sibling dynamic.
+
+
 
 
 	
