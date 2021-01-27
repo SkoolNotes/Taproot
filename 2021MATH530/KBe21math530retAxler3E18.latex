@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7225)}}    % original
-%\rhead{\textrmlf{Compiled }\#7225\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7225\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7226)}}    % original
+%\rhead{\textrmlf{Compiled }\#7226\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7226\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -200,7 +200,7 @@ If \(V\) is finite dimensional, suppose \(v_1, \ldots, v_n\) is a basis
 of \(V\) and \(v_1, \ldots, v_k\) is a basis of \(U\)
 (\(k = \text{dim } U\) and \(n = \text{dim }V\)). For each
 \(k < j \le n\), \(\pi v_j \neq 0\), and we can control where \(S\)
-should send it.
+should send it. Let \(S\) be defined by: \[ S( \pi v_j) = T v_j \]
 
 \hypertarget{reverse-direction-by-contrapositive}{%
 \section{Reverse Direction by
