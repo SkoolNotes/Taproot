@@ -27,7 +27,10 @@ Chacko's airplones, kits — arranged — that he always messes up. Similar to h
 
 Effect of sarcasm: famous. *Is famous sacrasm??*
 
-The sense of British superority used against him
+The sense of British superority used against him. Infatuation with titles.
+
+
+1. Infatuation with titles
 
 
 ## Claim Synthesis (Babingtonization)
