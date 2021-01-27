@@ -142,7 +142,13 @@ chacko never blames the kits, doesnt regognize the futility
 
 
 
-impartial given envio
+impartial given enviroment that is partial
+
+
+contradiction!
+
+
+
 
 
 
