@@ -25,6 +25,8 @@ Come down — a sense of superority — a sense of criticism w.r.t. Chacko has a
 
 Chacko's airplones, kits — arranged — that he always messes up. Similar to his running of the factory. Prearranged systems that he messes up.
 
+Effect of sarcasm: famous.
+
 
 ## Claim Synthesis (Babingtonization)
 ### Development phase – How and So-What
