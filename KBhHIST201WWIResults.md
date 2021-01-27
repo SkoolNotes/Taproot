@@ -29,4 +29,5 @@ Europeans drew lines and created "mandate" states  — where states attempted to
 * Traditional society => subsistence farming
 * Conditions for take off => bulding infrastructure like transportation, monetary system, economy
 * Take off => infrastructure and cultural boom
-* Drive to maturity =>  
+* Drive to maturity => new tech improved economy, infrastructure, etc.
+* Maturity => trade expands,
