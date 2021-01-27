@@ -248,4 +248,4 @@ Radiation absorbtion results
 |1-5 Sv immediately|50% chance of death|
 |6+ Sv immediatlely|Bye bye birdy, 30 days|
 
-
+Note: food sterialized by radioactivity is not radioactive...

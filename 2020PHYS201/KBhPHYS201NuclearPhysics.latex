@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7339)}}    % original
-%\rhead{\textrmlf{Compiled }\#7339\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7339\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7340)}}    % original
+%\rhead{\textrmlf{Compiled }\#7340\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7340\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -592,5 +592,7 @@ effect \\ \addlinespace
 6+ Sv immediatlely & Bye bye birdy, 30 days \\ \addlinespace
 \bottomrule
 \end{longtable}
+
+Note: food sterialized by radioactivity is not radioactive\ldots{}
 
 \end{document}
