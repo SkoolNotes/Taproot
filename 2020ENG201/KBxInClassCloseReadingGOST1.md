@@ -13,7 +13,7 @@ source:  #index
 # 'in class' close reading. 
 
 
-prompt
+prompt:
 
 ```
 _Instructions:_ Select one of the following citations from Roy’s _The God of Small Things_ for your in-class close reading writing. Be sure to examine the specific denotation and connotations of Roy’s language. Identify rhetorical and/or literary devices that the author uses and then connect them to meaning.  Please be sure the first sentence of your paragraph states the author, the title of the novel (in italics), and the basic context of the excerpt. In the last sentence or two of your paragraph, connect your close readings to a broader theme that is present in the novel. 300-450 words.
@@ -47,7 +47,17 @@ And
 ```
 
 
-example" 
+example:
+
+```
+It _was_ Velutha.
+
+  That much Rahel was sure of. She’d seen him. He’d seen her. She’d have known him anywhere, any time. And if he hadn’t been wearing a shirt, she would have recognized him from behind. She knew his back. She’d been carried on it. More times than she could count. It had a light-brown birthmark, shaped like a pointed dry leaf. He said it was a Lucky Leaf, that made the Monsoons come on time. A brown leaf on a black back. An autumn leaf at night.
+
+  A lucky leaf that wasn’t lucky enough.  (70)
+
+This passage from _The God of Small Things_ by Arundhati Roy occurs in the immediate context of Rahel’s thought digression back to New York and Larry McCaslin, but within the larger scene of the nuclear family stuck in the car on the way to Cochin to see _The Sound of Music_ and pick up Sophie Mol. Throughout the passage, several themes emerge in Roy’s language: class division between Velutha and Rahel, Velutha’s connection to nature, and foreshadowing of Velutha’s death. That Rahel is so used to him in his shirtless state indicates their class divide: Rahel “knew his back” because Velutha is an Untouchable and thus expected to appear shirtless in public as a means of illustrating his low social standing. Roy further emphasizes that Rahel had “been carried on” Velutha’s back “\[m\]ore times than she could count” as a metaphorical representation of the way in which the upper and middle classes maintain their power and high social standing as a result of the strength and physical labor of the lowly Untouchables. Rahel’s ability to recognize Velutha and to know him “anywhere, any time” implies both that she has grown used to this socially enforced oppression and that there is a possibility of change if a child of the upper-middle class can be so familiar, so friendly and loving towards an Untouchable. Also in the passage, Rahel notes that while she rides on Velutha’s back she notices his “light-brown birthmark, shaped like a pointed dry leaf.” The simile Rahel uses here compares Velutha’s birthmark to a “dry leaf,” implying that Velutha is connected to both nature and to autumn, when leaves fall from trees and become dry and brittle. This comparison continues when Velutha tells Rahel that the birthmark is his “Lucky Leaf, that made the Monsoons come on time,” connecting him to nature. In addition to the more overt foreshadowing of “A lucky leaf that wasn’t lucky enough,” hinting towards Velutha’s death, Rahel also uses the color “brown” to describe the leaf and the color “black” to describe Velutha’s back and calls the leaf “\[a\]n autumn leaf at night.” The combination of imagery that describes the end of a day and the end of a year, in addition to the use of dark colors adds a more nuanced hint of the ominous events to come in the novel. In this passage, Roy makes it overwhelmingly clear that Rahel and Estha spend plenty of time touching this Untouchable, in physical contact with his back on their adventures, gesturing towards taboos being broken through the equality implied between Rahel and Velutha’s friendship. Perhaps we can see Velutha’s eventual demise as collateral damage in the struggle for equality between the castes.
+```
 
 
 
