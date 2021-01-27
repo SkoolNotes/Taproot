@@ -4,6 +4,9 @@
   #+begin_quote
 	Suppose $T \in \mathcal L(V, W)$ and $U$ is a subspace of $V$. Let \pi denote the quotient map from $V$ onto $V/U$. Prove that there exists $S \in \mathcal L(V/U, W)$ such that $T = S \circ \pi$ if and only if $U \subseteq \text{null }T$.
   #+end_quote
+  Intuitively, if we mod out part of the $\text{null }T$, then we should still be able to have a map that does what $T$ would do.
 * Forward Direction by Contrapositive
+
   If $U \nsubseteq \text{null }T$, then there exists $v \in U$ s.t. $Tv \neq 0$.
+
 * Reverse Direction

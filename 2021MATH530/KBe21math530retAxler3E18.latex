@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7204)}}    % original
-%\rhead{\textrmlf{Compiled }\#7204\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7204\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7205)}}    % original
+%\rhead{\textrmlf{Compiled }\#7205\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7205\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -183,6 +183,9 @@ Suppose \(T \in \mathcal L(V, W)\) and \(U\) is a subspace of \(V\). Let
 exists \(S \in \mathcal L(V/U, W)\) such that \(T = S \circ \pi\) if and
 only if \(U \subseteq \text{null }T\).
 \end{quote}
+
+Intuitively, if we mod out part of the \(\text{null }T\), then we should
+still be able to have a map that does what \(T\) would do.
 
 \hypertarget{forward-direction-by-contrapositive}{%
 \section{Forward Direction by
