@@ -30,4 +30,7 @@ Europeans drew lines and created "mandate" states  — where states attempted to
 * Conditions for take off => bulding infrastructure like transportation, monetary system, economy
 * Take off => infrastructure and cultural boom
 * Drive to maturity => new tech improved economy, infrastructure, etc.
-* Maturity => trade expands,
+* Maturity => trade expands, 小康
+
+But, :point_up: this framework guides the mandates system and kind of encourages the idea of white chauvenism.
+
