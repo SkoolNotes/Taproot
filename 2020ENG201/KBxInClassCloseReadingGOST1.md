@@ -79,7 +79,9 @@ b)   After _reading_ at Oxford, you _come down._
 
 
 
+go vs read
 
+read -> reading aloud voice
 
 
 

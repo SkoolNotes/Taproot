@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7328)}}    % original
-%\rhead{\textrmlf{Compiled }\#7328\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7328\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7329)}}    % original
+%\rhead{\textrmlf{Compiled }\#7329\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7329\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -257,5 +257,9 @@ definitely do. Like your famous airplanes.''
 
 Ammu said that the sad but entirely predictable fate of Chacko's
 airplanes was an impartial measure of his abilities. (55)
+
+go vs read
+
+read -\textgreater{} reading aloud voice
 
 \end{document}
