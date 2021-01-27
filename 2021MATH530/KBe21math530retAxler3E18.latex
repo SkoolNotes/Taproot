@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7239)}}    % original
-%\rhead{\textrmlf{Compiled }\#7239\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7239\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7240)}}    % original
+%\rhead{\textrmlf{Compiled }\#7240\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7240\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -174,8 +174,8 @@
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
 
-\hypertarget{problem}{%
-\section{Problem}\label{problem}}
+\hypertarget{problem-axler-3.e-ex18}{%
+\section{Problem: Axler 3.E ex18}\label{problem-axler-3.e-ex18}}
 
 \begin{quote}
 Suppose \(T \in \mathcal L(V, W)\) and \(U\) is a subspace of \(V\). Let
