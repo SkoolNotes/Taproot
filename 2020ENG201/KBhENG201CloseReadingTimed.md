@@ -41,7 +41,7 @@ Unexpected use of famous — well known, but not because they were good but inst
 
 Highlights the contrasting nature of the sibling dynamic.
 
-Sad — a powerless word — highlights Ammu's lack of control over 
+Sad — a powerless word — highlights Ammu's lack of control over Chacko's falling plane. Because male superority.
 
 
 	
