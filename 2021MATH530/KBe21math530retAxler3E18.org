@@ -15,5 +15,5 @@
 
   This shows that if $U \nsubseteq \text{null }T$, then $S \notin \mathcal L(V/U, W)$ or $T \neq S \circ \pi$. Thus, if $S \in \mathcal L(V/U, W)$ and $T = S \circ \pi$, then $U \subseteq \text{null }T$.
 
-* Reverse Direction
+* Forward Direction
   Intuitively, if

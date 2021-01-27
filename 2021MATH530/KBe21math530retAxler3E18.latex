@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7216)}}    % original
-%\rhead{\textrmlf{Compiled }\#7216\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7216\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7217)}}    % original
+%\rhead{\textrmlf{Compiled }\#7217\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7217\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -209,8 +209,8 @@ This shows that if \(U \nsubseteq \text{null }T\), then
 \(S \in \mathcal L(V/U, W)\) and \(T = S \circ \pi\), then
 \(U \subseteq \text{null }T\).
 
-\hypertarget{reverse-direction}{%
-\section{Reverse Direction}\label{reverse-direction}}
+\hypertarget{forward-direction}{%
+\section{Forward Direction}\label{forward-direction}}
 
 Intuitively, if
 
