@@ -1,0 +1,27 @@
+#+AUTHOR: Exr0n
+#+TITLE: Axler 3.E ex18
+* Problem
+  #+begin_quote
+	Suppose $T \in \mathcal L(V, W)$ and $U$ is a subspace of $V$. Let \pi denote the quotient map from $V$ onto $V/U$. Prove that there exists $S \in \mathcal L(V/U, W)$ such that $T = S \circ \pi$ if and only if $U \subseteq \text{null }T$.
+  #+end_quote
+  Intuitively, if we mod out part of the $\text{null }T$, then we should still be able to have a map that does what $T$ would do. If we are able to do what $T$ would do, then when modding out $U$ we only removed part of $\text{null }T$ and lost no information.
+
+* Forward Direction
+  Intuitively, we can treat $S \circ \pi$ as a single map and take a basis of $V$ to the same place that $T$ would, and the maps would be equal.
+
+  If $V$ is finite dimensional, suppose $v_1, \ldots, v_n$ is a basis of $V$ and $v_1, \ldots, v_k$ is a basis of $U$ ($k = \text{dim } U$ and $n = \text{dim }V$).
+  For each $k < j \le n$, $\pi v_j \neq 0$, and we can control where $S$ should send it. Let $S$ be defined by:
+  \[ S( \pi v_j) = T v_j \]
+  Then, $S \circ \pi$ will send each vector in $U$ to 0 and each other vector where $T$ would send it. Because $U \subseteq \text{null }T$, $S \circ \pi = T$.
+
+  This argum
+
+* Reverse Direction by Contrapositive
+  Intuitively, if we lost information, then we can't reconstruct what $T$ would do.
+
+  Assume $U \nsubseteq \text{null }T$. There exists $v \in U$ s.t. $Tv \neq 0$. This is some of the "information" that was "lost". Because $v \in U$,
+  \[ \pi v = U + v = U \]
+  Because $U$ is the additive identity ($0$) in $V/U$, and because linear maps take zero to zero, $S \in \mathcal L(V/U, W)$ must take $\pi v = 0$ to zero.
+  Thus, either $S(\pi v) \neq Tv$ or $S$ is not a linear map, both of which are contradictions.
+
+  This shows that if $U \nsubseteq \text{null }T$, then $S \notin \mathcal L(V/U, W)$ or $T \neq S \circ \pi$. Thus, if $S \in \mathcal L(V/U, W)$ and $T = S \circ \pi$, then $U \subseteq \text{null }T$.
