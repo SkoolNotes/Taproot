@@ -39,6 +39,6 @@ But, :point_up: this framework guides the mandates system and kind of encourages
 ## Dependency Theory
 **History matters and states don't exist in isolation.**
 
-That "Britian and Brazil" are equally modern. That developing nations is just a part of 
+That "Britian and Brazil" are equally modern. That developing nations is just a part of world system of "modernity"
 
 
