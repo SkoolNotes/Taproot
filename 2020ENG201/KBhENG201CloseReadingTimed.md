@@ -8,7 +8,7 @@ course: ENG201
 ## General Information
 | Due Date | Topic | Important Documents |
 | :-- | :-- | :-- |
-| In two days | God of Small Things | God of Small Things, Duh |
+| In two days | God of Small Things | God of Small Things |
 
 **Copy and paste the passage to the top of the essay!!**
 
@@ -21,8 +21,11 @@ Chacko said:
 And
 -   After _reading_ at Oxford, you _come down._
 
-“Down to earth, d’you mean?” Ammu would ask. “_That_ you definitely do. Like your famous airplanes.”
-Ammu said that the sad but entirely predictable fate of Chacko’s airplanes was an impartial measure of his abilities. (55)
+“Down to earth, d’you mean?” Ammu would ask. “_That_ you definitely do. 
+Like your famous airplanes.”
+
+Ammu said that the sad but entirely predictable fate of Chacko’s airplanes 
+was an impartial measure of his abilities. (55)
 ```
 
 Reading, the double entendre. "Study (an academic subject) at a university." (OED, AA) However, in this passage, there's also "understand or interpret the nature or significance of." (OED, AB).
