@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7214)}}    % original
-%\rhead{\textrmlf{Compiled }\#7214\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7214\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7215)}}    % original
+%\rhead{\textrmlf{Compiled }\#7215\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7215\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -205,7 +205,7 @@ Thus, either \(S(\pi v) \neq Tv\) or \(S\) is not a linear map, both of
 which are contradictions.
 
 This shows that if \(U \nsubseteq \text{null }T\), then
-\(S \nin \mathcal L(V/U, W)\) or \(T \neq S \circ \pi\). Thus, if
+\(S \notin \mathcal L(V/U, W)\) or \(T \neq S \circ \pi\). Thus, if
 \(S \in \mathcal L(V/U, W)\) and \(T = S \circ \pi\), then
 \(U \subseteq \text{null }T\).
 

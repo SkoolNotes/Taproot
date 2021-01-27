@@ -13,6 +13,6 @@
   Because $U$ is the additive identity ($0$) in $V/U$, and because linear maps take zero to zero, $S \in \mathcal L(V/U, W)$ must take $\pi v = 0$ to zero.
   Thus, either $S(\pi v) \neq Tv$ or $S$ is not a linear map, both of which are contradictions.
 
-  This shows that if $U \nsubseteq \text{null }T$, then $S \nin \mathcal L(V/U, W)$ or $T \neq S \circ \pi$. Thus, if $S \in \mathcal L(V/U, W)$ and $T = S \circ \pi$, then $U \subseteq \text{null }T$.
+  This shows that if $U \nsubseteq \text{null }T$, then $S \notin \mathcal L(V/U, W)$ or $T \neq S \circ \pi$. Thus, if $S \in \mathcal L(V/U, W)$ and $T = S \circ \pi$, then $U \subseteq \text{null }T$.
 
 * Reverse Direction
