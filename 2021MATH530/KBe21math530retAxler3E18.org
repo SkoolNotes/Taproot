@@ -10,6 +10,7 @@
   Intuitively, we can treat $S \circ \pi$ as a single map and take a basis of $V$ to the same place that $T$ would, and the maps would be equal.
 
   If $V$ is finite dimensional, suppose $v_1, \ldots, v_n$ is a basis of $V$ and $v_1, \ldots, v_k$ is a basis of $U$ ($k = \text{dim } U$ and $n = \text{dim }V$).
+  For each $k < j \le n$, $\pi v_j \neq 0$, and we can control where $S$ should send it.
 
 * Reverse Direction by Contrapositive
   Intuitively, if we lost information, then we can't reconstruct what $T$ would do.
