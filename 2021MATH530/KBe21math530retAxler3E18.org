@@ -12,6 +12,7 @@
   If $V$ is finite dimensional, suppose $v_1, \ldots, v_n$ is a basis of $V$ and $v_1, \ldots, v_k$ is a basis of $U$ ($k = \text{dim } U$ and $n = \text{dim }V$).
   For each $k < j \le n$, $\pi v_j \neq 0$, and we can control where $S$ should send it. Let $S$ be defined by:
   \[ S( \pi v_j) = T v_j \]
+  Then, $S \circ \pi$ will send each vector in $U$ to 0 and each other vector where $T$ would send it. Because $U \subseteq \text{null }T$, $S \circ \pi = T$.
 
 * Reverse Direction by Contrapositive
   Intuitively, if we lost information, then we can't reconstruct what $T$ would do.
