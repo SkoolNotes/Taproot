@@ -29,7 +29,6 @@ Effect of sarcasm: famous. *Is famous sacrasm??*
 
 
 
-
 ## Claim Synthesis (Babingtonization)
 ### Development phase – How and So-What
 - *CLAIM*
