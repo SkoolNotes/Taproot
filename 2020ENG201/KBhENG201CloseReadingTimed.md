@@ -33,6 +33,8 @@ The sense of British superority used against him. Infatuation with titles.
 
 You don't go to oxford, you "understand" at oxford. And after you understand at oxford, you rid yourself of your corrupt ways. One does not simply head to oxford, one attempts to see and understand (Luke 19:5), and Come Down to rid of sins.
 
+Inherent sense of superority, for Chacko, Oxford is Jesus. 
+
 
 ## Claim Synthesis (Babingtonization)
 ### Development phase – How and So-What
