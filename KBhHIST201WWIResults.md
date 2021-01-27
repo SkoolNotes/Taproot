@@ -34,3 +34,5 @@ Europeans drew lines and created "mandate" states  — where states attempted to
 
 But, :point_up: this framework guides the mandates system and kind of encourages the idea of white chauvenism.
 
+
+
