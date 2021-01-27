@@ -25,7 +25,7 @@ Europeans drew lines and created "mandate" states  — where states attempted to
 
 ![[Pasted image 20210127134403.png]]
 
-## States of Growth
+## States of Growth, Modernization Moment
 * Traditional society => subsistence farming
 * Conditions for take off => bulding infrastructure like transportation, monetary system, economy
 * Take off => infrastructure and cultural boom
@@ -39,6 +39,6 @@ But, :point_up: this framework guides the mandates system and kind of encourages
 ## Dependency Theory
 **History matters and states don't exist in isolation.**
 
-that "Britian and Brazil"
+That "Britian and Brazil" are equally modern. That developing nations is just a part of 
 
 
