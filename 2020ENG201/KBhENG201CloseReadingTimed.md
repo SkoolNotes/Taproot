@@ -52,7 +52,7 @@ So three things
 	* Then, after he "understands", he "comes down". This is reminiscent as KJV Luke 19:4-5, when the greedy tax collector Zacchaeus of Jericho climbed up a tree to see Jesus — "to understand ... the nature", and then got asked to "come down" b/c Jesus wants to go to his house.
 	* Chacko expected that Oxford the tree allowed him to "come down" and be "saved" perhaps from his current station (future land lord, not unlike Zaccheaus). However, his sister offers a different interpretation:
 2) Instead, his sister contradicts him, stating that he instead comes "down to earth" and, instead of being saved by his Oxford education, simply bites the dirt
-	 * His family's pickle factory became unprofitable after Chacko took over — just like his fallen airplanes, which are boxed sets already setup for him only for him to incorrectly assemble and crash.
+	 * His family's pickle factory became unprofitable after Chacko took over — just like his fallen airplanes, which are boxed sets already setup for him only for him to incorrectly assemble and crash due to the discord that exists between his supposed newfound hightened understanding and his actual management abilitiy.
 	 * Ammu remarks that the airplanes are "famous" —  really infamous. Although not a strict verbal irony, Ammu uses the the term because it is opposite the tipical connotation. Chacko's airplanes are famous not for a positive quality but instead for its ease of failure. Elongating the previous metaphore, this forshadows a potential, infamous failure for Paradise pickles
 3) Remarking upon all of this, Ammu is "sad"
 	 * Sadness is quite a passive emotion — she is unappy, and regretful, but due to the "male chavunist nature" of society he is unable to act
