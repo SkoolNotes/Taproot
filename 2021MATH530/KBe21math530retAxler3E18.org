@@ -18,8 +18,8 @@
 
   Let $S : V/U \to W$ s.t. $S(\pi v) = Tv$. Then, $S \circ \pi = T$. Maybe one can say "$T$ is linear so $S \circ \pi$ must also be linear", but I am unsure.
 
-  For $S$ to be linear, it needs to be additive and homogenous. For $u, v \in V/W$ and
-  \[ S( \pi u)
+  For $S$ to be linear, it needs to be additive and homogenous. For $u, v \in V$ and $\lambda \in \mathbb F$,
+  \[ Su = Tu
 
 
 * Reverse Direction by Contrapositive

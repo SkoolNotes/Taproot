@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7235)}}    % original
-%\rhead{\textrmlf{Compiled }\#7235\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7235\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7237)}}    % original
+%\rhead{\textrmlf{Compiled }\#7237\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7237\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -215,7 +215,7 @@ Maybe one can say "\(T\) is linear so \(S \circ \pi\) must also be
 linear", but I am unsure.
 
 For \(S\) to be linear, it needs to be additive and homogenous. For
-\(u, v \in V/W\) and \[ S( \pi u)
+\(u, v \in V\) and \(\lambda \in \mathbb F\), \[ Su = Tu
 
 
 * Reverse Direction by Contrapositive
