@@ -14,8 +14,9 @@
   \[ S( \pi v_j) = T v_j \]
   Then, $S \circ \pi$ will send each vector in $U$ to 0 and each other vector where $T$ would send it. Because $U \subseteq \text{null }T$, $S \circ \pi = T$.
 
-  This argument does not work for infinite dimensional vector spaces. Instead, we can send anything not in $U$ to where $T$ would send it and show that the resulting $S$ is linear.
-  Let $S : V/U \to W$ s.t. $S(\pi v) = Tv$.
+  This argument does not work for infinite dimensional vector spaces. Instead, perhaps we can send anything not in $U$ to where $T$ would send it and show that the resulting $S$ is linear? I'm not convinced by the following argument:
+
+  Let $S : V/U \to W$ s.t. $S(\pi v) = Tv$. Then, $S \circ \pi = T$
 
 * Reverse Direction by Contrapositive
   Intuitively, if we lost information, then we can't reconstruct what $T$ would do.
