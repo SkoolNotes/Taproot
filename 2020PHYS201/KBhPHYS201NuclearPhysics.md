@@ -234,3 +234,6 @@ Nuclear Radiation ionizez atoms and molecules, which mess things up chemically
 1rad: a material absorbed 0.01 J per kg of absorbing material. 
 
 Effective dose (rem) = rad * QF (quality factor). For most cases, quality factor is 1 for most common radiation. For neutrons and alpha particles, it is 3 and up to 20 respectively, but the former could only be seen in the middle of a recator or if a bomb just went off and the latter could be block by some sheets of clothing
+
+Rad/Rem/Siverts => Measure of _absorbtion_ per kilogram
+
