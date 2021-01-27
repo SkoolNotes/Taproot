@@ -41,7 +41,7 @@ Unexpected use of famous — well known, but not because they were good but inst
 
 Highlights the contrasting nature of the sibling dynamic.
 
-
+Sad — a powerless word of only feeling — 
 
 
 	
