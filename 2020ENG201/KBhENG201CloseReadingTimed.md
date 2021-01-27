@@ -19,7 +19,7 @@ And
 Ammu said that the sad but entirely predictable fate of Chacko’s airplanes was an impartial measure of his abilities. (55)
 ```
 
-Reading, the double entendre. "Study (an academic subject) at a university." (OED) However, in this passage, there's also "understand or interpret the nature or significance of." (OED)
+Reading, the double entendre. "Study (an academic subject) at a university." (OED, AA) However, in this passage, there's also "understand or interpret the nature or significance of." (OED, AB)
 
 
 
