@@ -34,5 +34,11 @@ Europeans drew lines and created "mandate" states  — where states attempted to
 
 But, :point_up: this framework guides the mandates system and kind of encourages the idea of white chauvenism.
 
+***
+
+## Dependency Theory
+**History matters and states don't exist in isolation.**
+
+that "britian and Brazile"
 
 
