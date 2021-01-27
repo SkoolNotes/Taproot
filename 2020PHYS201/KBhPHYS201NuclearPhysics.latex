@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7338)}}    % original
-%\rhead{\textrmlf{Compiled }\#7338\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7338\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7339)}}    % original
+%\rhead{\textrmlf{Compiled }\#7339\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7339\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -579,13 +579,17 @@ you eat a radioactive source, because then its emitting in you
 
 Radiation absorbtion results
 
-\begin{longtable}[]{@{}ll@{}}
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}@{}}
 \toprule
 Severts number & Effect \\ \addlinespace
 \midrule
 \endhead
-0.5 Sv immediately & 4\% chance of cancer during
-lifetime \\ \addlinespace
+0.5 Sv immediately & 4\% chance of cancer during lifetime, no immediate
+effect \\ \addlinespace
+1-5 Sv immediately & 50\% chance of death \\ \addlinespace
+6+ Sv immediatlely & Bye bye birdy, 30 days \\ \addlinespace
 \bottomrule
 \end{longtable}
 

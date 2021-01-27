@@ -244,4 +244,8 @@ Radiation absorbtion results
 
 | Severts number | Effect |
 |---|---|
-|0.5 Sv immediately|4% chance of cancer during lifetime|
+|0.5 Sv immediately|4% chance of cancer during lifetime, no immediate effect|
+|1-5 Sv immediately|50% chance of death|
+|6+ Sv immediatlely|Bye bye birdy, 30 days|
+
+
