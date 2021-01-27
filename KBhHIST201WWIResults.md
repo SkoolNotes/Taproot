@@ -42,3 +42,6 @@ But, :point_up: this framework guides the mandates system and kind of encourages
 That "Britian and Brazil" are equally modern. That developing nations is just a part of world system of "modernity" and should not simply copy European nations to achieve growth.
 
 Wall yourself off + protecting yourself from global market, and jusifies Socalism and Defensive Developmentalism?
+
+## Cultural pessemism
+Europe as the foustein man.
