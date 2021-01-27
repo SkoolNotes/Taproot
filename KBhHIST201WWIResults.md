@@ -45,3 +45,5 @@ Wall yourself off + protecting yourself from global market, and jusifies Socalis
 
 ## Cultural pessemism
 Europe as the foustein man: rather than western civization is spreading to lift up, Western culture is actually a sickness that's spread across the globe to satiate the European drive and system.
+
+Fashism responding to the crisis that individuals believed that liberal societies are in themselves a wrongness.
