@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7210)}}    % original
-%\rhead{\textrmlf{Compiled }\#7210\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7210\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7211)}}    % original
+%\rhead{\textrmlf{Compiled }\#7211\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7211\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -199,7 +199,8 @@ Intuitively, if we lost information, then we can't reconstruct what
 If \(U \nsubseteq \text{null }T\), then there exists \(v \in U\) s.t.
 \(Tv \neq 0\). This is some of the "information" that was "lost".
 Because \(v \in U\), \[ \pi v = U + v = U \] Because \(U\) is the
-additive identity (\(0\)) in \(V/U\)
+additive identity (\(0\)) in \(V/U\), and because linear maps take zero
+to zero, \(S \in \mathcal L(V/U, W)\) must take \(\pi v = 0\) to zero.
 
 \hypertarget{reverse-direction}{%
 \section{Reverse Direction}\label{reverse-direction}}
