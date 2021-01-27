@@ -109,6 +109,41 @@ extent of his abilities
 
 Ammu defeats without elitist talk or ideals
 
+he is not able to stay aloft
+
+ammu says it's an impartial measure, 
+right and wrong. kits are bs, but he doesnt realize
+ammu knows that the kits are bs, becaue she claims that the chrashes are **entirely** predictable
+inevitable that it will chrash
+
+
+oxford is a kit
+doesnt receive the acces to privlige, the ability to soar "high" like the airplane
+intead he crashes to earth again and again 
+
+
+ammu relates chacko to airplane clearly
+
+
+^ contradiction between entirely predictable and measure of ability, lead into above idea
+
+
+impartial -> planes crash, not based in opinion or bias
+
+def ability: restricted by world or in non-restrictive enviroment?
+
+if first, then bias becomes a part
+
+
+kits are the eviroment he relies in
+biased, and thus, will inevitably not be able to soar
+
+chacko never blames the kits, doesnt regognize the futility
+
+
+
+impartial given envio
+
 
 
 
