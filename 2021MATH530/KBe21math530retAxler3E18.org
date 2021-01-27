@@ -18,6 +18,7 @@
 
   Let $S : V/U \to W$ s.t. $S(\pi v) = Tv$. Then, $S \circ \pi = T$. Maybe one can say "$T$ is linear so $S \circ \pi$ must also be linear", but I am unsure.
 
+  For $S$ to be linear, it needs to be additive and homogenous.
 
 * Reverse Direction by Contrapositive
   Intuitively, if we lost information, then we can't reconstruct what $T$ would do.
