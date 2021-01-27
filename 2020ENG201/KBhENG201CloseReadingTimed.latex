@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7287)}}    % original
-%\rhead{\textrmlf{Compiled }\#7287\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7287\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7288)}}    % original
+%\rhead{\textrmlf{Compiled }\#7288\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7288\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -265,16 +265,17 @@ So three things
 \tightlist
 \item
   Chacko derives a sense of superiority at Oxford --- believing that it
-  grants him access to renewed understading
+  grants him access to a hightened and renewed understading
 
-  \begin{enumerate}
-  \def\labelenumii{\arabic{enumii})}
-  \setcounter{enumii}{1}
+  \begin{itemize}
   \tightlist
   \item
     He does not simply read at harvard, he ``reads'' --- attempting to
-    ``understand/interprete the nature'' of things at oxford.
-  \end{enumerate}
+    ``understand/interprete the nature'' of things at Oxford.
+  \item
+    Then, after he ``understands'', he ``comes down''. This is
+    reminiscent as KJV Luke 19:5, when th
+  \end{itemize}
 \end{enumerate}
 
 \hypertarget{defluffifying}{%

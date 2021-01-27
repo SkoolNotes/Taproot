@@ -47,8 +47,9 @@ Sad — a powerless word — highlights Ammu's lack of control over Chacko's fal
 ## Claim
 So three things
 
-1) Chacko derives a sense of superiority at Oxford — believing that it grants him access to renewed understading
-	2) He does not simply read at harvard, he "reads" — attempting to "understand/interprete the nature" of things at oxford.
+1) Chacko derives a sense of superiority at Oxford — believing that it grants him access to a hightened and renewed understading
+	* He does not simply read at harvard, he "reads" — attempting to "understand/interprete the nature" of things at Oxford. 
+	* Then, after he "understands", he "comes down". This is reminiscent as KJV Luke 19:5, when th
 
 
 	
