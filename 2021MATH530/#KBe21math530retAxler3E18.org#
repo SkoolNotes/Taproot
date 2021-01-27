@@ -2,9 +2,7 @@
 #+TITLE: Axler 3.E ex18
 * Problem
   #+begin_quote
-	Suppose $T \in \mathcal L(V, W)$ and $U$ is a subspace of $V$. Let  denote the
-	quotient map from V onto V =U. Prove that there exists S 2 L.V =U; W /
-	such that T D S ı  if and only if U  null T.
+	Suppose $T \in \mathcal L(V, W)$ and $U$ is a subspace of $V$. Let \pi denote the quotient map from $V$ onto $V/U$. Prove that there exists $S \in \mathcal L(V/U, W)$ such that $T = S \circl
   #+end_quote
 * Forward Direction by Contrapositive
 * Reverse Direction
