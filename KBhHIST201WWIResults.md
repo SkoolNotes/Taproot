@@ -22,3 +22,9 @@ Europeans drew lines and created "mandate" states  — where states attempted to
 **Cultural Chavanism**: _white man's burden_
 
 ![[Pasted image 20210127134039.png]]
+
+![[Pasted image 20210127134403.png]]
+
+## States of GRowth
+* Traditional society => subsistence farming
+* Conditions for take off => bulding infras
