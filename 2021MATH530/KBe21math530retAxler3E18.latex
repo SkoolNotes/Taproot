@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7212)}}    % original
-%\rhead{\textrmlf{Compiled }\#7212\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7212\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7213)}}    % original
+%\rhead{\textrmlf{Compiled }\#7213\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7213\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -196,13 +196,15 @@ Contrapositive}\label{forward-direction-by-contrapositive}}
 Intuitively, if we lost information, then we can't reconstruct what
 \(T\) would do.
 
-If \(U \nsubseteq \text{null }T\), then there exists \(v \in U\) s.t.
+Assume \(U \nsubseteq \text{null }T\). There exists \(v \in U\) s.t.
 \(Tv \neq 0\). This is some of the "information" that was "lost".
 Because \(v \in U\), \[ \pi v = U + v = U \] Because \(U\) is the
 additive identity (\(0\)) in \(V/U\), and because linear maps take zero
 to zero, \(S \in \mathcal L(V/U, W)\) must take \(\pi v = 0\) to zero.
 Thus, either \(S(\pi v) \neq Tv\) or \(S\) is not a linear map, both of
 which are contradictions.
+
+This shows that if \(S \nin \mathcal L(V/U, W)\) then \$
 
 \hypertarget{reverse-direction}{%
 \section{Reverse Direction}\label{reverse-direction}}
