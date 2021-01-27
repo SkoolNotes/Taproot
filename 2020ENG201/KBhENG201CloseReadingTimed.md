@@ -23,7 +23,7 @@ Reading, the double entendre. "Study (an academic subject) at a university." (OE
 
 Come down — a sense of superority — a sense of criticism w.r.t. Chacko has a sense of superority. Chaco's aeromodeling kit kept crashing, shows dichotomy between reality and fiction. 
 
-Chacko's airplones, kits — arranged — that he always messes up. Similar to his running of the factory. Prearranged expectations that he messes up.
+Chacko's airplones, kits — arranged — that he always messes up. Similar to his running of the factory. Prearranged systems that he messes up.
 
 
 ## Claim Synthesis (Babingtonization)
