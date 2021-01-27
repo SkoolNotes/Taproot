@@ -9,7 +9,7 @@
   Intuitively, if we lost information, then we can't reconstruct what $T$ would do.
 
   If $U \nsubseteq \text{null }T$, then there exists $v \in U$ s.t. $Tv \neq 0$. This is some of the "information" that was "lost". Because $v \in U$,
-  \( \pi v = U + v = U \)
+  \[ \pi v = U + v = U \]
 
 
 * Reverse Direction
