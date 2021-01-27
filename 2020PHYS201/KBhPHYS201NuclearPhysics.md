@@ -237,3 +237,5 @@ Effective dose (rem) = rad * QF (quality factor). For most cases, quality factor
 
 Rad/Rem/Siverts => Measure of _absorbtion of energy_ per kilogram over time
 Bq/Currie => Measure of Emission and source strength
+
+Bottom line: don't worry about the siverts you recieve... unless you eat a radioactive source, because then its emitting in you
