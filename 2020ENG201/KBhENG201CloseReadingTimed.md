@@ -1,3 +1,9 @@
+---
+title: Timed Closed Reading Prep
+author: Houjun Liu
+course: ENG201
+---
+
 # Timed close reading essay prep
 ## General Information
 | Due Date | Topic | Important Documents |

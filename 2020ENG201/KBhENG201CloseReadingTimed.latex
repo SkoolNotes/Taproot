@@ -116,8 +116,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ ENG201 }
+\newcommand{\thelesson}{ Timed Closed Reading Prep }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -130,10 +130,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7326)}}    % original
-%\rhead{\textrmlf{Compiled }\#7326\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7326\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7345)}}    % original
+%\rhead{\textrmlf{Compiled }\#7345\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7345\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -172,6 +172,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
 
 \hypertarget{timed-close-reading-essay-prep}{%
 \section{Timed close reading essay
