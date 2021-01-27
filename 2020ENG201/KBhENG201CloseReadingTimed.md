@@ -58,7 +58,7 @@ So three things
 	 * Sadness is quite a passive emotion — she is unappy, and regretful, but due to the "male chavunist nature" of society he is unable to act
 	 * Ammu slightly laments her station in life this way, hinting that she could actually see the problem clearer than Chacko as his failure is "predictable"
 	 
-**In the passage selected in the GOST, Roy leverages biblical illusions, creative word choices, and entended metaphores to highlight the 'male chauvinist' superority of Chacko and forshadow the eventuall downfall to their family business that this superority will bring.**
+**In the passage selected in the GOST, Roy leverages biblical illusions, creative word choices, and entended metaphores to highlight the conChaco's male chauvinist' superority and forshadow the eventuall downfall to their family business that this superority will bring.**
 
 
 ***
