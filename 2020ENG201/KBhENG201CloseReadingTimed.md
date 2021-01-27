@@ -52,8 +52,8 @@ So three things
 	* Then, after he "understands", he "comes down". This is reminiscent as KJV Luke 19:4-5, when the greedy tax collector Zacchaeus of Jericho climbed up a tree to see Jesus — "to understand ... the nature", and then got asked to "come down" b/c Jesus wants to go to his house.
 	* Chacko expected that Oxford the tree allowed him to "come down" and be "saved" perhaps from his current station (future land lord, not unlike Zaccheaus). However, his sister offers a different interpretation:
 2) Instead, his sister contradicts him, stating that he instead comes "down to earth" and, instead of being saved by his Oxford education, simply bites the dirt
-	 * Pickle factories became unprofitable after Chacko after he took over — just like his fallen airplanes, which are boxed sets already setup for him only for him to crash.
-	 * This is 
+	 * His family's pickle factory became unprofitable after Chacko after he took over — just like his fallen airplanes, which are boxed sets already setup for him only for him to crash.
+	 * 
 
 
 	
