@@ -44,4 +44,4 @@ That "Britian and Brazil" are equally modern. That developing nations is just a 
 Wall yourself off + protecting yourself from global market, and jusifies Socalism and Defensive Developmentalism?
 
 ## Cultural pessemism
-Europe as the foustein man: rather than western civization is 
+Europe as the foustein man: rather than western civization is spreading to lift up, Western culture is actually a sickness that's spread across the globe to satiate the European drive and system.
