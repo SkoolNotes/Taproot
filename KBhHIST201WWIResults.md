@@ -25,6 +25,7 @@ Europeans drew lines and created "mandate" states  — where states attempted to
 
 ![[Pasted image 20210127134403.png]]
 
-## States of GRowth
+## States of Growth
 * Traditional society => subsistence farming
-* Conditions for take off => bulding infras
+* Conditions for take off => bulding infrastructure like transportation, monetary system, economy
+* Take off => infrastructure and  
