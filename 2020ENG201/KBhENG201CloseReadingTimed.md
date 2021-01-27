@@ -35,26 +35,9 @@ You don't go to oxford, you "understand" at oxford. And after you understand at 
 
 Inherent sense of superority, for Chacko, Oxford is the tree that allows him to see Jesus. Marxist.
 
-Ammu instead offers an alternate interpretation, instead of meeting a Jesus like figure, one actually meets a harsher figure: the ground. One acutally comes down to earth, and, instead of seeing Jesus and achiving salvation, chacko bites the dirt.... by destroying prebuilt systems.
+Ammu instead offers an alternate interpretation, instead of meeting a Jesus like figure, one actually meets a harsher figure: the ground. One acutally comes down to earth, and, instead of seeing Jesus and achiving salvation, chacko bites the dirt.... by destroying prebuilt systems. Unexpected use of famous offers sharp dichotomy
 
 
-
-
-## Claim Synthesis (Babingtonization)
-### Development phase – How and So-What
-- *CLAIM*
-	- How THING THAT ATTACKS INTERGRITY OF CLAIM
-		- EVIDENCE and SPECIFICITY
-	- So what (local), THING THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS THE BROADER PICTURE
-- *CLAIM*
-	- Repeat...
-	
-### Testing phase – Why and So-What
-- *CLAIM*
-	- Why DOES THE CLAIM ANSWER THE PROMPT?
-	- So what (global), THING THAT ATTACKS THE BROADER IMPACT OF THE CLAIM
-- *CLAIM*
-	- Repeat...
 	
 ## Defluffifying
 CHOSEN THESIS CLAIM
