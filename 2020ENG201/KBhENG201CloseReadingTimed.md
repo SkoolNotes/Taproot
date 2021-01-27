@@ -47,7 +47,7 @@ Sad — a powerless word — highlights Ammu's lack of control over Chacko's fal
 ## Claim
 So three things
 
-1)
+1) Chacko derives a sense of superiority and higher knowledge of Harvard
 
 
 	
