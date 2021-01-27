@@ -15,4 +15,8 @@ Reasons for state marking
 ## Statemaking by Decree
 Europeans drew lines and created "mandate" states  — where states attempted to create an instable, dependent states.
 
-**Imperalistic Mindse
+**Imperalistic Mindsets**: states wanted to acquire land because land=security a la imperialism
+
+**Economic Benifit**: control of key trading ports are benifitial for states welcoming of controlled trade
+
+**Cultural Chavanism**: _white man's brur_
