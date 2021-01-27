@@ -35,7 +35,7 @@ You don't go to oxford, you "understand" at oxford. And after you understand at 
 
 Inherent sense of superority, for Chacko, Oxford is Jesus. Marxist.
 
-
+Ammu instead offers an alternate interpretation, instead of meeting a Jesus like figure
 
 
 ## Claim Synthesis (Babingtonization)
