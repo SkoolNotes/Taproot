@@ -29,8 +29,8 @@ Effect of sarcasm: famous. *Is famous sacrasm??*
 
 The sense of British superority used against him. Infatuation with titles.
 
-
-1. Infatuation with titles
+1. Infatuation with titles and male chavinism
+2. You 
 
 
 ## Claim Synthesis (Babingtonization)
