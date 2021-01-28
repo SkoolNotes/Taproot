@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7332)}}    % original
-%\rhead{\textrmlf{Compiled }\#7332\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7332\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7375)}}    % original
+%\rhead{\textrmlf{Compiled }\#7375\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7375\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -321,5 +321,8 @@ chacko never blames the kits, doesnt regognize the futility
 impartial given enviroment that is partial
 
 contradiction!
+
+\hypertarget{outlining}{%
+\subsection{Outlining}\label{outlining}}
 
 \end{document}

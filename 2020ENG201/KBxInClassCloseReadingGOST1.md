@@ -151,6 +151,27 @@ contradiction!
 
 
 
+## Outlining
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
