@@ -149,9 +149,37 @@ contradiction!
 
 
 
+regular, not dialouge
+
 
 
 ## Outlining
+
+- go vs read
+	- reading aloud voice
+
+- start with coming down from oxford
+	- oxford is high up, heavenly,
+	- where they are now is lower.
+	- hierachy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
