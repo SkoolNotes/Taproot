@@ -198,7 +198,10 @@ b)   After _reading_ at Oxford, you _come down._
 
 
 
-This excerpt is not dialogue — instead, it is an ordered list of points. It represents a plethora of conversations, all condensed into just a few bullet points: "a)" and "b)". Condensing these conversations into so few bullets points, clearly defined down to the individual word level, not only represents the characters more broadly but shows also shows the lack of change in the characters involved. Chacko begins by drawing a dichotomy: "a)   You don’t _go_ to Oxford. You _read_ at Oxford." Chacko's usage of the word "*read*" removes Oxford from the world of the physical and moves it into the world of the intellectual; in Chacko's mind, Oxford is not defined as merely a place. This sentiment is also conveyed in Chacko's second and last point: "b)   After _reading_ at Oxford, you _come down._" 
+This excerpt is not dialogue — instead, it is an ordered list of points. It represents a plethora of conversations, all condensed into just a few bullet points: "a)" and "b)". Condensing these conversations into so few bullets points, clearly defined down to the individual word level, not only represents the characters more broadly but shows also shows the lack of change in the characters involved. Chacko begins by drawing a dichotomy: "a)   You don’t _go_ to Oxford. You _read_ at Oxford." Chacko's usage of the word "*read*" removes Oxford from the world of the physical and moves it into the world of the intellectual; in Chacko's mind, Oxford is not defined as merely a place. This sentiment is also conveyed in Chacko's second and last point: "b)   After _reading_ at Oxford, you _come down._" Oxford is not equal to the rest of the world, but rather something heavenly. By saying that one "*comes down*" from Oxford, it raises Oxford up. It places Oxford higher in the hierarchy, and in turn, places Chacko's current state lower. Ammu responds, “Down to earth, d’you mean?” She is depicted as using the word "d'you", starkly contrasting Chacko's style of speech — placing emphasis and "d'you" is not elitist, 
+
+
+Ammu would ask. “_That_ you definitely do. Like your famous airplanes.”
 
 
 
