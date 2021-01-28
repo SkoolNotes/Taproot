@@ -162,16 +162,43 @@ regular, not dialouge
 	- oxford is high up, heavenly,
 	- where they are now is lower.
 	- hierachy
+- down to earth?
+	- more like heaven
+	- also, not reality
+
+- airplanes
+	- airplane kits
+		- kit's as promise
+		- like oxford
+			- will never be able to our high enough to reach oxford
+- contradiction 
+	- entirely predictable and measure of ability
+	- talk about ability in the world
+	- kits are the enviroment
+
+
+
+
+## Writing time
+
+
+```
+Chacko said:
+
+a)   You don’t _go_ to Oxford. You _read_ at Oxford.
+
+And
+
+b)   After _reading_ at Oxford, you _come down._
+
+“Down to earth, d’you mean?” Ammu would ask. “_That_ you definitely do. Like your famous airplanes.”
+```
 
 
 
 
 
-
-
-
-
-
+This excerpt is not dialogue — instead, it is an ordered list. It represents a plethora of conversations,
 
 
 
