@@ -198,19 +198,8 @@ b)   After _reading_ at Oxford, you _come down._
 
 
 
-This excerpt is not dialogue — instead, it is an ordered list of points. It represents a plethora of conversations, all condensed into just a few bullet points: "a)" and "b)".
+This excerpt is not dialogue — instead, it is an ordered list of points. It represents a plethora of conversations, all condensed into just a few bullet points: "a)" and "b)". Condensing these conversations into so few bullets points, clearly defined down to the individual word level, not only represents the characters more broadly but shows also shows the lack of change in the characters involved. Chacko begins by drawing a dichotomy: "a)   You don’t _go_ to Oxford. You _read_ at Oxford." Chacko's usage of the word "*read*" removes Oxford from the world of the physical and moves it into the world of the intellectual; in Chacko's mind, Oxford is not defined as merely a place. This sentiment is also conveyed in Chacko's second and last point: "b)   After _reading_ at Oxford, you _come down._" 
 
-Condensing these conversations into so few and clearly defined bullet points
-
-
-Condensing these conversations into so few bullets points, clearly defined down to the individual word level, not only represents the characters 
-
-the lack of change in the characters involded.
-
-
-Thus, it is representative of character much more broadly
-
-Thus, Chacko's character, 
 
 
 
