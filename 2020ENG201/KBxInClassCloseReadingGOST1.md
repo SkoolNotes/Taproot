@@ -198,7 +198,19 @@ b)   After _reading_ at Oxford, you _come down._
 
 
 
-This excerpt is not dialogue — instead, it is an ordered list. It represents a plethora of conversations,
+This excerpt is not dialogue — instead, it is an ordered list of points. It represents a plethora of conversations, all condensed into just a few bullet points: "a)" and "b)".
+
+Condensing these conversations into so few and clearly defined bullet points
+
+
+Condensing these conversations into so few bullets points, clearly defined down to the individual word level, not only represents the characters 
+
+the lack of change in the characters involded.
+
+
+Thus, it is representative of character much more broadly
+
+Thus, Chacko's character, 
 
 
 
