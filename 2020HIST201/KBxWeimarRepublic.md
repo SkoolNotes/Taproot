@@ -14,9 +14,9 @@ source:  #index
 
 
 
+spengler had cool historical theories with a massive amount of explanability
 
-
-
+dadaism, 
 
 
 
