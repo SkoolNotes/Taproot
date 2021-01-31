@@ -135,7 +135,7 @@ source: #index
 - [[KBxPalmerCh17]] 
 
 - [[KBhHIST201WWI]]
-
+- [[KBxWeimarRepublic]]
 
 
 ### Essays 
