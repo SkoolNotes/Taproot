@@ -36,11 +36,11 @@ everyone revered woodrow wilson
 
 > greeted as the man who would lead civilization out of its wasteland.
 
+democracy!
 
+>    Democracy having defeated the Central Powers, people hoped that a new settlement, made in a democratic age, might be reached by gen eral agreement in an atmosphere of mutual confidence. There was a real sense of a new era.
 
-
-
-
+allies banded together and follows wilson,
 
 
 
