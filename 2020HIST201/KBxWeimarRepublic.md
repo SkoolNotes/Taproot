@@ -42,15 +42,15 @@ democracy!
 
 allies banded together and follows wilson,
 
+everyone made a bunch of treaties
+
+nationalism was big, worked well with liberalism and democracy
 
 
+stuff started going wrong
 
 
-
-
-
-
-
+league of nations! international anarchy, no more! (ish)
 
 
 
