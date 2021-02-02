@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7407)}}    % original
-%\rhead{\textrmlf{Compiled }\#7407\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7407\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7408)}}    % original
+%\rhead{\textrmlf{Compiled }\#7408\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7408\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -185,7 +185,7 @@ Antiderivatives table
 Function & Antidervative \\ \addlinespace
 \midrule
 \endhead
-& \\ \addlinespace
+\(x^n\) & \(\frac{x^{n+1}}{n+1}+c\) \\ \addlinespace
 \bottomrule
 \end{longtable}
 
