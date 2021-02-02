@@ -11,3 +11,4 @@ source: KBCalculusMasterIndex
 - [[KBhMATH401Limits]]
 - [[KbhMATH401e]]
 - [[KBhMATH401Derivatives]]
+- [[KBhMATH401Intergrals]]
