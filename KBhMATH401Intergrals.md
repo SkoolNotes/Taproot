@@ -10,5 +10,6 @@ Antiderivatives table
 
 |  Function | Antidervative |
 |---|---|
-|$x^n$|$\frac{x^{n+1}}{n+1}+c$ |
+|$x^n$|$\frac{x^{n+1}}{n+1}+c, x\neq-1$ |
+|$\frac{1}{x}$|$$|
 |$af(x)$|$a*(f(x)dx)$ |
