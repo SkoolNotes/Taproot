@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7414)}}    % original
-%\rhead{\textrmlf{Compiled }\#7414\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7414\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7415)}}    % original
+%\rhead{\textrmlf{Compiled }\#7415\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7415\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -187,7 +187,9 @@ Function & Antidervative \\ \addlinespace
 \endhead
 \(x^n\) & \(\frac{x^{n+1}}{n+1}+c, x\neq-1\) \\ \addlinespace
 \(af(x)\) & \(a*(f(x)dx)\) \\ \addlinespace
-\(\frac{1}{x}\) & \(ln(\|x\|)\) \\ \addlinespace
+\(\frac{1}{x}\) & \(\ln(\|x\|)\) \\ \addlinespace
+\(sin(t)\) & \(-cos(t)\) \\ \addlinespace
+\(cos(t)\) & \(sin(t)\) \\ \addlinespace
 \bottomrule
 \end{longtable}
 
