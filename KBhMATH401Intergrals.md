@@ -12,4 +12,4 @@ Antiderivatives table
 |---|---|
 |$x^n$|$\frac{x^{n+1}}{n+1}+c, x\neq-1$ |
 |$af(x)$|$a*(f(x)dx)$|
-|$\frac{1}{x}$|$ln($|
+|$\frac{1}{x}$|$\ln(\|x\|)$|
