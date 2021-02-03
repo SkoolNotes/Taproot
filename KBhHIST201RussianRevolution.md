@@ -6,6 +6,5 @@ author: Houjun Liu
 ---
 
 # Russian Revolution
-
-
+Europe. There is competition and still the urge of European hegemony thoughout the 
 
