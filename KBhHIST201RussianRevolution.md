@@ -6,5 +6,5 @@ author: Houjun Liu
 ---
 
 # Russian Revolution
-Europe. There is competition and still the urge of European hegemony thoughout the 
+Europe Happened. There is competition and still the urge of European hegemony that is present in Europe, and te
 
