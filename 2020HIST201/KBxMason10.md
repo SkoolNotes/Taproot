@@ -39,10 +39,10 @@ lenin didnt want to wait for capitalim to fail, he just wanted to kip it entirel
 
 lenin said that imperialism is the highest stage of capitalism
 
-bolzhevik didnt do alot, and the 'communim' that emerged was not at all marxist theory. 
+bolzhevik didnt do alot, and the 'communim' that emerged was not at all marxist theory (again).
 
 
-
+rasputin can stop the bleeding of the hemophiliac son with hypnosis?
 
 
 
