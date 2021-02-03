@@ -122,6 +122,8 @@ source: #index
 	* [[KBxUnit3EssayPlanning]] @jack why did u delete my thing?  @hux no I didn't?
 * WWI Essay
 	*  [[KBhHIST201WWIEssayOutlineJack]]  
+* Russian Revolution
+	* [[KBhHIST201RussianRevolution]]
 * Self Evals [[KBxHistSelfEval2020]]
 
 ## Meta References
