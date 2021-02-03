@@ -6,5 +6,5 @@ author: Houjun Liu
 ---
 
 # Russian Revolution
-Europe Happened. There is competition and still the urge of European hegemony that is present in Europe, and from that urge there stemmed the
+Europe Happened. There is competition and still the urge of European hegemony that is present in Europe, and from that urge there stemmed the need for central leadership in each country. Of course, communistic states can't really have a strong central leadership, so Lenin justified it basically by saying that "the populous are dumb". Establishing this expectiation
 
