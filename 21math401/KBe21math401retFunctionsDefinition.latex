@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7446)}}    % original
-%\rhead{\textrmlf{Compiled }\#7446\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7446\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7447)}}    % original
+%\rhead{\textrmlf{Compiled }\#7447\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7447\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -191,6 +191,11 @@ the codomain. A bijective function is a function \(f\) for which there
 exists a function \(g\) such that \(g\left(f(x)\right) = x\) for all
 \(x \in D\).
 
-\(f(x) = x^2\) is not a 1:1 function, because *
+\(f(x) = x^2\) is not a 1:1 function, because both \(-1^2 = 1\) and
+\(1^2 = 1\).
+
+\hypertarget{what-is-an-inverse-function}{%
+\section{What is an inverse
+function}\label{what-is-an-inverse-function}}
 
 \end{document}
