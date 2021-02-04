@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7444)}}    % original
-%\rhead{\textrmlf{Compiled }\#7444\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7444\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7446)}}    % original
+%\rhead{\textrmlf{Compiled }\#7446\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7446\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,8 +186,10 @@ in the domain \(D\) to exactly one element in the codomain \(C\).
 \section{A 1:1 function or injective
 function}\label{a-11-function-or-injective-function}}
 
-A 1:1 function is a function \(f\) for which there exists a function
-\(g\) such that \(g\left(f(x)\right) = x\) for all \(x \in D\).
+A 1:1 function takes at most one element in the domain to any element in
+the codomain. A bijective function is a function \(f\) for which there
+exists a function \(g\) such that \(g\left(f(x)\right) = x\) for all
+\(x \in D\).
 
 \(f(x) = x^2\) is not a 1:1 function, because *
 
