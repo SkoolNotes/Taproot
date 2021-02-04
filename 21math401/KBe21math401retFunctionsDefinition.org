@@ -4,6 +4,7 @@
 
   $f(x) = x^2$ is a function over the domain of reals.
 * A 1:1 function or injective function
+  A 1:1 function takes at most one element in the domain to any element in the codomain.
   A 1:1 function is a function $f$ for which there exists a function $g$ such that $g\left(f(x)\right) = x$ for all $x \in D$.
 
   $f(x) = x^2$ is not a 1:1 function, because
