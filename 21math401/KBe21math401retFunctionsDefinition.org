@@ -9,3 +9,4 @@
 
   $f(x) = x^2$ is not a 1:1 function, because both $-1^2 = 1$ and $1^2 = 1$.
 * What is an inverse function
+  An inverse function $g : C \to D$ is a function such that $g(f(x)) = f(g(x)) = x$
