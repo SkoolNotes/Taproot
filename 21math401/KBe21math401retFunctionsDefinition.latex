@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7450)}}    % original
-%\rhead{\textrmlf{Compiled }\#7450\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7450\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7451)}}    % original
+%\rhead{\textrmlf{Compiled }\#7451\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7451\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,10 +186,10 @@ in the domain \(D\) to exactly one element in the codomain \(C\).
 \section{A 1:1 function or injective
 function}\label{a-11-function-or-injective-function}}
 
-A 1:1 function takes at most one element in the domain to any element in
-the codomain. A bijective function is a function \(f\) for which there
-exists a function \(g\) such that \(g\left(f(x)\right) = x\) for all
-\(x \in D\).
+A bijective function is a function \(f\) for which there exists a
+function \(g\) such that \(g\left(f(x)\right) = x\) for all \(x \in D\).
+For every input, there is exactly one output, and for every output,
+there is exactly one input.
 
 \(f(x) = x^2\) is not a 1:1 function, because both \(-1^2 = 1\) and
 \(1^2 = 1\).
@@ -200,5 +200,8 @@ function}\label{what-is-an-inverse-function}}
 
 An inverse function \(g : C \to D\) is a function such that
 \(g(f(x)) = x\) and \(f(g(x)) = x\)
+
+There is no true inverse for \(f(x) = x^2\), because it is not
+bijective. *
 
 \end{document}
