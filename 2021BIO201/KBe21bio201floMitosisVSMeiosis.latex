@@ -1,0 +1,471 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7436)}}    % original
+%\rhead{\textrmlf{Compiled }\#7436\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7436\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{sources}{%
+\section{\texorpdfstring{sources
+{\textsc{source}}}{sources source}}\label{sources}}
+
+\hypertarget{httpswww.nature.comscitabletopicpagemitosis-meiosis-and-inheritance-476}{%
+\subsection{\texorpdfstring{\url{https://www.nature.com/scitable/topicpage/mitosis-meiosis-and-inheritance-476/}}{https://www.nature.com/scitable/topicpage/mitosis-meiosis-and-inheritance-476/}}\label{httpswww.nature.comscitabletopicpagemitosis-meiosis-and-inheritance-476}}
+
+\hypertarget{httpswww.nature.comscitabletopicpagemeiosis-genetic-recombination-and-sexual-reproduction-210}{%
+\subsection{\texorpdfstring{\url{https://www.nature.com/scitable/topicpage/meiosis-genetic-recombination-and-sexual-reproduction-210/\#}}{https://www.nature.com/scitable/topicpage/meiosis-genetic-recombination-and-sexual-reproduction-210/\#}}\label{httpswww.nature.comscitabletopicpagemeiosis-genetic-recombination-and-sexual-reproduction-210}}
+
+\hypertarget{overview}{%
+\section{overview}\label{overview}}
+
+\hypertarget{mitosis-gene-transmission}{%
+\subsection{mitosis gene transmission}\label{mitosis-gene-transmission}}
+
+\hypertarget{exact-copy-except-random-mutations}{%
+\subsubsection{exact copy (except random
+mutations)}\label{exact-copy-except-random-mutations}}
+
+\hypertarget{good-for-growth-and-expansion-as-a-child-or-to-replace-damaged-tissue}{%
+\subsubsection{good for growth and expansion as a child or to replace
+damaged
+tissue}\label{good-for-growth-and-expansion-as-a-child-or-to-replace-damaged-tissue}}
+
+\hypertarget{things-can-still-differ}{%
+\subsubsection{things can still differ}\label{things-can-still-differ}}
+
+\begin{enumerate}
+\item
+  random mutations
+\item
+  cromosome duplication ('polytene chromosomes')
+
+  \begin{enumerate}
+  \item
+    large compared to other chromosomes
+  \item
+    created in a similar process to mitosis but without 'cytokinesis'
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{meiosis}{%
+\subsection{meiosis}\label{meiosis}}
+
+\hypertarget{only-transmits-half-the-genitic-information}{%
+\subsubsection{only transmits half the genitic
+information}\label{only-transmits-half-the-genitic-information}}
+
+\hypertarget{fundamental-to-all-plants-and-animals-producing-gametes}{%
+\subsubsection{fundamental to all plants and animals producing
+gametes}\label{fundamental-to-all-plants-and-animals-producing-gametes}}
+
+\hypertarget{indepnedent-assortment}{%
+\subsubsection{indepnedent assortment}\label{indepnedent-assortment}}
+
+\begin{enumerate}
+\item
+  ordering is random, which means each half-chromosome has a 1/2 chance
+  of continuing on
+\item
+  thus, each organism can produce \(2^n\) gametes
+\item
+  and when considering both parents the number of possible child
+  geneomes is squared? (ignoring recombination)
+\end{enumerate}
+
+\hypertarget{recombination}{%
+\section{recombination}\label{recombination}}
+
+\hypertarget{some-mixing-of-chromosome-pieces-between-homologue-pairs}{%
+\subsection{some mixing of chromosome pieces 'between homologue
+pairs'?}\label{some-mixing-of-chromosome-pieces-between-homologue-pairs}}
+
+\hypertarget{more-comon-in-some-genes-than-others-if-they-are-tightly-linked}{%
+\subsection{more comon in some genes than others (if they are tightly
+linked)}\label{more-comon-in-some-genes-than-others-if-they-are-tightly-linked}}
+
+\hypertarget{when-things-go-wrong}{%
+\section{when things go wrong}\label{when-things-go-wrong}}
+
+\hypertarget{aberrations-that-alter-chromosome-number}{%
+\subsection{aberrations that alter chromosome
+number}\label{aberrations-that-alter-chromosome-number}}
+
+\hypertarget{occurs-when-something-happens-to-the-centromere-and-the-spindle-fibers-cant-attache-to-it-and-pull-it-apart}{%
+\subsubsection{occurs when something happens to the 'centromere' and the
+'spindle fibers' can't attache to it and pull it
+apart}\label{occurs-when-something-happens-to-the-centromere-and-the-spindle-fibers-cant-attache-to-it-and-pull-it-apart}}
+
+\hypertarget{one-daughter-cell-can-end-up-with-more-chromosomes-than-another-in-mitosis}{%
+\subsubsection{one daughter cell can end up with more chromosomes than
+another in
+mitosis}\label{one-daughter-cell-can-end-up-with-more-chromosomes-than-another-in-mitosis}}
+
+\hypertarget{in-meiosis-homologous-pairs-can-fail-to-separate-during-anaphase-i.-called-nondisjunction}{%
+\subsubsection{in meiosis, 'homologous pairs can fail to separate during
+anaphase I'. called
+'nondisjunction'}\label{in-meiosis-homologous-pairs-can-fail-to-separate-during-anaphase-i.-called-nondisjunction}}
+
+\hypertarget{diff-numbers-of-chromosomes-for-haploid-half-set-sex-cells}{%
+\subsubsection{diff numbers of chromosomes for haploid (half-set sex
+cells)}\label{diff-numbers-of-chromosomes-for-haploid-half-set-sex-cells}}
+
+\begin{enumerate}
+\item
+  monosomy
+
+  \begin{enumerate}
+  \item
+    lacking one chromosome (organism has only half chromosome from other
+    parent)
+  \end{enumerate}
+\item
+  trisomy
+
+  \begin{enumerate}
+  \item
+    got three half-chromosomes, (organism has extra bit, such as XXY)
+  \end{enumerate}
+\item
+  aneuploidy (either of the above)
+\end{enumerate}
+
+\hypertarget{an-example-albert-francis-blakeslee-john-belling-and-jimsonweed}{%
+\section{an example : albert francis blakeslee, john belling, and
+jimsonweed}\label{an-example-albert-francis-blakeslee-john-belling-and-jimsonweed}}
+
+\hypertarget{summary}{%
+\section{summary}\label{summary}}
+
+\hypertarget{odd-chromosome-number-arises-from-errors-in-segregation-during-chromosome-replication.-these-variations-enrich-our-understanding-of-how-the-transfer-of-chromosomes-is-regulated-from-one-generation-to-the-next}{%
+\subsection{odd chromosome number arises from errors in segregation
+during chromosome replication. These variations 'enrich our
+understanding of how the transfer of chromosomes is regulated from one
+generation to the
+next'}\label{odd-chromosome-number-arises-from-errors-in-segregation-during-chromosome-replication.-these-variations-enrich-our-understanding-of-how-the-transfer-of-chromosomes-is-regulated-from-one-generation-to-the-next}}
+
+\hypertarget{meiosis-1}{%
+\section{meiosis}\label{meiosis-1}}
+
+\hypertarget{etymology}{%
+\subsection{etymology}\label{etymology}}
+
+\hypertarget{from-greek-meioun-or-to-make-small}{%
+\subsubsection{\texorpdfstring{from greek \emph{meioun} or 'to make
+small'}{from greek meioun or 'to make small'}}\label{from-greek-meioun-or-to-make-small}}
+
+\hypertarget{one-dna-replication-stage-two-cell-divisions}{%
+\subsection{one dna replication stage, two cell
+divisions}\label{one-dna-replication-stage-two-cell-divisions}}
+
+\hypertarget{also-involves-recombination}{%
+\subsection{also involves
+'recombination'}\label{also-involves-recombination}}
+
+\hypertarget{often-study-yeast-or-something}{%
+\subsection{often study yeast or
+something}\label{often-study-yeast-or-something}}
+
+\hypertarget{better-electron-scanning-microscopes-made-more-discoveries}{%
+\subsection{better (electron scanning) microscopes made more
+discoveries}\label{better-electron-scanning-microscopes-made-more-discoveries}}
+
+\hypertarget{differences-by-sex}{%
+\subsection{differences by sex}\label{differences-by-sex}}
+
+\hypertarget{mamalian-males-tend-to-mantain-an-active-pool-of-mitosis-dividing-germ-cells-of-which-a-subset-specialize-via-meiosis}{%
+\subsubsection{mamalian males tend to mantain an active pool of mitosis
+dividing germ cells of which a subset "specialize" via
+meiosis}\label{mamalian-males-tend-to-mantain-an-active-pool-of-mitosis-dividing-germ-cells-of-which-a-subset-specialize-via-meiosis}}
+
+\hypertarget{mamalian-females-germ-cells-tend-to-enter-meiosis-and-become-oocytes-early-in-development-limited-number}{%
+\subsubsection{mamalian females germ cells tend to enter meiosis and
+become oocytes early in development (limited
+number)}\label{mamalian-females-germ-cells-tend-to-enter-meiosis-and-become-oocytes-early-in-development-limited-number}}
+
+\hypertarget{steps-to-meiosis}{%
+\subsection{steps to meiosis}\label{steps-to-meiosis}}
+
+\hypertarget{young-organisms-set-aside-germ-cells-that-proliferate-by-mitosis-until-they-recieve-signals-and-enter-meiosis}{%
+\subsubsection{young organisms set aside germ cells that proliferate by
+mitosis until they recieve signals and enter
+meiosis}\label{young-organisms-set-aside-germ-cells-that-proliferate-by-mitosis-until-they-recieve-signals-and-enter-meiosis}}
+
+\hypertarget{two-divisions-to-produce-gametes}{%
+\subsubsection{two divisions to produce
+gametes}\label{two-divisions-to-produce-gametes}}
+
+\hypertarget{first-as-a-diploid-cell-the-genome-is-duplicated-to-get-four-copes-distributed-over-two-of-each-chromosome}{%
+\subsubsection{first, as a diploid cell, the genome is duplicated to get
+four copes distributed over two of each
+chromosome}\label{first-as-a-diploid-cell-the-genome-is-duplicated-to-get-four-copes-distributed-over-two-of-each-chromosome}}
+
+\begin{enumerate}
+\item
+  meiosis I
+
+  \begin{enumerate}
+  \item
+    unique to germ cells
+  \item
+    prophase I
+
+    \begin{enumerate}
+    \item
+      'pairs of homologous chromosomes come together to form a tetrad or
+      bivalent, which contains four chromatids'
+    \item
+      recombination occurs within each tetrad
+    \item
+      chiasmata, or something?
+    \end{enumerate}
+  \item
+    metaphase I
+
+    \begin{enumerate}
+    \item
+      chromosomes line up opposite eachother
+    \item
+      sex chromosomes also oppose eachother (to ensure sex chromosomes
+      segregate properly during division (in theory))
+    \end{enumerate}
+  \item
+    anaphase I
+
+    \begin{enumerate}
+    \item
+      crossover resolution with meiosis-specific cohesins?
+    \item
+      else aneuploidy
+
+      \begin{enumerate}
+      \item
+        which is actually quite common, maybe 10\% to 30\%
+      \item
+        increases sharply with maternal age
+      \end{enumerate}
+    \end{enumerate}
+  \end{enumerate}
+\item
+  meiosis II
+
+  \begin{enumerate}
+  \item
+    similar to mitotic division
+  \item
+    except there isn't enough DNA to go around so each daughter cell has
+    only half of each chromosome (haploid, as expected)
+  \item
+    in males, all four products are roughly the same size and viability
+    while in females, the oocyte retains most of the mass and the other
+    three bits are pinched off
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{recombination-v-important}{%
+\subsection{recombination (v
+important)}\label{recombination-v-important}}
+
+\hypertarget{segments}{%
+\subsubsection{segments:}\label{segments}}
+
+\begin{enumerate}
+\item
+  leptotene (greek 'thin threads')
+\item
+  zygotene (greek 'paired trheads')
+\item
+  pachytene (greek 'thick threads')
+\item
+  diplotene (greeek 'two threads')
+\end{enumerate}
+
+\hypertarget{whappens}{%
+\subsubsection{whappens}\label{whappens}}
+
+\begin{enumerate}
+\item
+  some species have pairing sequences for centerd alignment
+\item
+  other species, chromosomes don't pair until double stranded breaks
+  (DSBs) appear in DNA
+
+  \begin{enumerate}
+  \item
+    catalyzed by protiens with topoisomerases, Spo11 protien from yeast?
+  \end{enumerate}
+\item
+  some DNA trimming and then they connect in double Holliday junctions
+\item
+  synaptonemal complex (SC) which holds things steady
+\end{enumerate}
+
+\end{document}

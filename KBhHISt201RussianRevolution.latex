@@ -116,8 +116,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Russian Revolution }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -130,10 +130,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7426)}}    % original
-%\rhead{\textrmlf{Compiled }\#7426\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7426\textrmlf{ on} \today}       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7436)}}    % original
+%\rhead{\textrmlf{Compiled }\#7436\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7436\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -172,9 +172,21 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBHIST201HistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHIST201HistoryMasterIndex}\textulf{]]}}}\thinspace
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{russian-revolution}{%
+\section{Russian Revolution}\label{russian-revolution}}
 
-title: Russian Revolution source: KBhHIST201H
+Europe Happened. There is competition and still the urge of European
+hegemony that is present in Europe, and from that urge there stemmed the
+need for central leadership in each country. Of course, communistic
+states can't really have a strong central leadership, so Lenin justified
+it basically by saying that ``the populous are dumb''. Establishing this
+expectiation simply makes the state more willing to excercise their
+sense of superiority.
+
+One may argue that Lenin never wanted actual marxist control --- he
+simply was a dictatorship.
 
 \end{document}
