@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7449)}}    % original
-%\rhead{\textrmlf{Compiled }\#7449\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7449\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7450)}}    % original
+%\rhead{\textrmlf{Compiled }\#7450\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7450\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -199,6 +199,6 @@ exists a function \(g\) such that \(g\left(f(x)\right) = x\) for all
 function}\label{what-is-an-inverse-function}}
 
 An inverse function \(g : C \to D\) is a function such that
-\(g(f(x)) = g \circ f = x\)
+\(g(f(x)) = x\) and \(f(g(x)) = x\)
 
 \end{document}
