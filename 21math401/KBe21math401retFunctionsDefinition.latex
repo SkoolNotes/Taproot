@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7442)}}    % original
-%\rhead{\textrmlf{Compiled }\#7442\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7442\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7443)}}    % original
+%\rhead{\textrmlf{Compiled }\#7443\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7443\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,6 +186,6 @@ in the domain \(D\) to exactly one element in the codomain \(C\).
 \section{A 1:1 function or bijection}\label{a-11-function-or-bijection}}
 
 A 1:1 function is a function \(f\) for which there exists a function
-\(g\)
+\(g\) such that \(g\left(f(x)\right) = x\) for all \(x \in D\).
 
 \end{document}
