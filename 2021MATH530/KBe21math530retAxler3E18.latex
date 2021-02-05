@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7515)}}    % original
-%\rhead{\textrmlf{Compiled }\#7515\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7515\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7516)}}    % original
+%\rhead{\textrmlf{Compiled }\#7516\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7516\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -251,6 +251,9 @@ S(U+u) + S(U+v) = Tu + Tv = T(u+v) = S(U+u + U+v) = S(U+(u+v))
 \] \[
 \lambda\left(S(U+v)\right) = \lambda Tv = T(\lambda v) = S(U+(\lambda v))
 \]
+
+Thus, \(S\) is linear, and \(S \circ \pi = T\) if
+\(U \subseteq \text{null }T\).
 
 \sout{For some \(u, v \in \text{range }T\),}
 
