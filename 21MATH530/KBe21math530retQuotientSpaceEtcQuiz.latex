@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7538)}}    % original
-%\rhead{\textrmlf{Compiled }\#7538\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7538\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7539)}}    % original
+%\rhead{\textrmlf{Compiled }\#7539\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7539\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -216,6 +216,8 @@ thing for vector spaces (each vector is combined within a list with
 other vector spaces, but they do not interact with eachother and are
 orthagonal, in a sense).
 
-A quotient space is like taking out part of a vector space.
+A quotient space is like taking (dividing) out part of a vector space.
+It's like taking a modulo because a subset (\(U\)) is collapsed to zero
+and some things become equivalent.
 
 \end{document}
