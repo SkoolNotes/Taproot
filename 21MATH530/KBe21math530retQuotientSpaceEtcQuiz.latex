@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7594)}}    % original
-%\rhead{\textrmlf{Compiled }\#7594\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7594\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7596)}}    % original
+%\rhead{\textrmlf{Compiled }\#7596\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7596\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -310,8 +310,12 @@ are injective, and invertible.
 \subsection{\texorpdfstring{\(ST = I\) iff
 \(TS = I\)}{ST = I iff TS = I}}\label{st-i-iff-ts-i}}
 
-Given that \(S, T\) are operators (both injective and surjective), and
-\(ST = I\), there exists two bases of \(V\) \(s_1, \ldots, s_n\) and
-\(t_1, \ldots, t_n\) s.t. \[ S(s_i) = t_i \] and \[ T(t_i) = s_i \]
+Let \(n = \dim V\). Given that \(S, T\) are (both injective and
+surjective) operators, and \(ST = I\), there exists two bases of \(V\)
+\(s_1, \ldots, s_n\) and \(t_1, \ldots, t_n\) s.t. \[ S(s_i) = t_i \]
+and \[ T(t_i) = s_i \]
+
+Then, for some \(a_i, \ldots, a_n\), \(b_i, \ldots, b_n\), for all
+\(v \in V\) \textbackslash{[} T(S(v)) =
 
 \end{document}

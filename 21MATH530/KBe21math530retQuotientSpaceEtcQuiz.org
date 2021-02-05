@@ -68,9 +68,10 @@
 
 ** $ST = I$ iff $TS = I$
 
-   Given that $S, T$ are (both injective and surjective) operators, and $ST = I$, there exists two bases of $V$ $s_1, \ldots, s_n$ and $t_1, \ldots, t_n$ s.t.
+   Let $n = \dim V$. Given that $S, T$ are (both injective and surjective) operators, and $ST = I$, there exists two bases of $V$ $s_1, \ldots, s_n$ and $t_1, \ldots, t_n$ s.t.
    \[ S(s_i) = t_i \]
    and
    \[ T(t_i) = s_i \]
 
-   Then, for some $a_i, \ldots, a_n$, $b_i, \ldots, v_n$
+   Then, for some $a_i, \ldots, a_n$, $b_i, \ldots, b_n$, for all $v \in V$
+   \[ T(S(v)) =
