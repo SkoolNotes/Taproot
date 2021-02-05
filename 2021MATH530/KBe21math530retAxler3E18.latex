@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7498)}}    % original
-%\rhead{\textrmlf{Compiled }\#7498\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7498\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7499)}}    % original
+%\rhead{\textrmlf{Compiled }\#7499\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7499\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -234,7 +234,10 @@ Let \(v \in V\) and \(v' \in V/U\) s.t. \(v' = \pi v\) (\(v'\) is where
 show that \(v\) has atleast one and at most one image through
 \(S \circ \pi\).
 
-Because \(\pi v\) is well defined, and \(U+v\)
+Because \(\pi v\) is well defined, and \(U+v\) was arbitrary in the
+definition of \(S\), each \(v\) must have atleast one image in \(W\).
+
+Because \(T\) is an arbitrary linear map, the only known
 
 \sout{For some \(u, v \in \text{range }T\),}
 
