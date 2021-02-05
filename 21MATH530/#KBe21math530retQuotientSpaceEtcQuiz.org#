@@ -69,7 +69,7 @@
 ** $ST = I$ iff $TS = I$
 
    Let $n = \dim V$. Given that $S, T$ are operators, and $TS = I$, $S, T$ are invertible (both injective and surjective) from the previous problem.
-   Operators take bases to bases, because
+   Operators take bases to bases, because if the output map were linearly dependent, then the range of the operator w
    there exists two bases of $V$ $s_1, \ldots, s_n$ and $t_1, \ldots, t_n$ s.t.
    \[ S(s_i) = t_i \]
    and
