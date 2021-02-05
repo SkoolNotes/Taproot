@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7520)}}    % original
-%\rhead{\textrmlf{Compiled }\#7520\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7520\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7521)}}    % original
+%\rhead{\textrmlf{Compiled }\#7521\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7521\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -226,22 +226,6 @@ homogeneity:
 
 Thus, \(S\) is linear, and \(S \circ \pi = T\) if
 \(U \subseteq \text{null }T\).
-
-\hypertarget{define-su-v-t-v}{%
-\subsection{define S(U + v) = T v}\label{define-su-v-t-v}}
-
-\hypertarget{check-that-it-is-well-defined}{%
-\subsubsection{check that it is well
-defined}\label{check-that-it-is-well-defined}}
-
-\begin{enumerate}
-\item
-  every element is sent to exactly one place
-\end{enumerate}
-
-\hypertarget{check-that-linearity-is-inhereted-from-t}{%
-\subsubsection{check that linearity is inhereted from
-T}\label{check-that-linearity-is-inhereted-from-t}}
 
 \hypertarget{reverse-direction-by-contrapositive}{%
 \section{Reverse Direction by

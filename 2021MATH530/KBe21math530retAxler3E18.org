@@ -29,15 +29,6 @@ Thus, $S$ is well defined. To show that it inherits additivity and homogeneity:
 
 Thus, $S$ is linear, and $S \circ \pi = T$ if $U \subseteq \text{null }T$.
 
-** define S(U + v) = T v
-
-*** check that it is well defined
-
-**** every element is sent to exactly one place
-
-
-*** check that linearity is inhereted from T
-
 * Reverse Direction by Contrapositive
   Intuitively, if we lost information, then we can't reconstruct what $T$ would do.
 
