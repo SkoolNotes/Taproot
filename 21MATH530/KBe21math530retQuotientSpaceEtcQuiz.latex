@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7578)}}    % original
-%\rhead{\textrmlf{Compiled }\#7578\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7578\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7579)}}    % original
+%\rhead{\textrmlf{Compiled }\#7579\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7579\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -279,8 +279,7 @@ invertable}{ST is invertible iff S and T are invertable}}\label{st-is-invertible
 
 Given that \(S\) and \(T\) are invertible,
 \(\dim \text{null }S = \dim \text{null }T = 0\). \(ST\) is an operator
-on \(V\), so if it is injective then it is invertible. \textbackslash{[}
-dim  V = dim  null ST +
+on \(V\), so if it is injective then it is invertible.
 
 \hypertarget{st-i-iff-ts-i}{%
 \subsection{\texorpdfstring{\(ST = I\) iff
