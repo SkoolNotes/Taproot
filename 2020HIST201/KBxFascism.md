@@ -46,8 +46,9 @@ except he did it in three months, not three years.
 hitler did alot of dictatorhsip stuff 
 
 
+wasnt a control freak like stalin. 
 
-
+> he missed meetin gs, worked irr egu lar hour s, and was often disorganized. Hitl er valu ed pers on al loyalty far more than efficiency.
 
 
 
