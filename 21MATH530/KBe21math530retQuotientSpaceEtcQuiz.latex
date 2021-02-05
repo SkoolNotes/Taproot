@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7611)}}    % original
-%\rhead{\textrmlf{Compiled }\#7611\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7611\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7612)}}    % original
+%\rhead{\textrmlf{Compiled }\#7612\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7612\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -330,7 +330,8 @@ of a subspace \(W\) s.t. \(\dim W = \dim V/U\) and
 \(V = U \oplus W\)}{For a quotient space V/U where U \textbackslash subseteq V and V/U is finite dimensional, show the existance of a subspace W s.t. \textbackslash dim W = \textbackslash dim V/U and V = U \textbackslash oplus W}}\label{for-a-quotient-space-vu-where-u-subseteq-v-and-vu-is-finite-dimensional-show-the-existance-of-a-subspace-w-s.t.-dim-w-dim-vu-and-v-u-oplus-w}}
 
 Let \(v_1, \ldots, v_n\) be a basis of \(V\) where \(v_1, \ldots, v_k\)
-is a basis of \(U\). \(n\) may be infinite. Let
+is a basis of \(U\). \(n\) may be infinite (does this break the span
+function, or other things?). Let
 \(W = \text{span }(v_{k+1}, \ldots, v_n)\). \(W\) is a vector space
 because the span of a list is a vector space, and \(W \subseteq V\)
 because each element of \(W\) can be written as an element of \(V\)
