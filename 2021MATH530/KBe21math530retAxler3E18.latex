@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7478)}}    % original
-%\rhead{\textrmlf{Compiled }\#7478\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7478\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7479)}}    % original
+%\rhead{\textrmlf{Compiled }\#7479\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7479\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -222,6 +222,9 @@ In other words, \(T\) is linear thus \(S \circ \pi\) is also
 linear.\textasciitilde{}
 
 Let \(S : V/U \to W\) be defined by \[ S(U+v) = Tv \]
+
+If \(S\) is well defined (every element in \(V/U\) is mapped to exactly
+one place), then \(S \circ \pi = T\)
 
 \hypertarget{define-su-v-t-v}{%
 \subsection{define S(U + v) = T v}\label{define-su-v-t-v}}
