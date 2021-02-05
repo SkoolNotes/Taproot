@@ -20,7 +20,13 @@ many european governments went into isolationaism, neutrality, or pasifism
 
 created the leuge of nations
 
-lots of unrest and economic insta
+lots of unrest and economic instability, poverty, ect
+
+hitler rose to power using this
+
+
+
+
 
 
 
