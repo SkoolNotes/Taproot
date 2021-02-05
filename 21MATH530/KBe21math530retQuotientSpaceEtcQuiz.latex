@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7612)}}    % original
-%\rhead{\textrmlf{Compiled }\#7612\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7612\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7613)}}    % original
+%\rhead{\textrmlf{Compiled }\#7613\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7613\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -339,6 +339,13 @@ where the coefficients for \(v_1, \ldots, v_k\) are zero.
 
 \hypertarget{dimension}{%
 \subsection{dimension}\label{dimension}}
+
+I have no idea how to show dimension other than with the length of a
+basis. I'm afraid of using the length of bases because arithmatic with
+\(\infty\) is tricky.
+
+If \(V\) is infinite dimensional, then \(v_{k+1}, \ldots, v_n\) contains
+an infinite number of elements and thus \(W\) is infinite dimensional.
 
 \hypertarget{direct-sum}{%
 \subsection{direct sum}\label{direct-sum}}
