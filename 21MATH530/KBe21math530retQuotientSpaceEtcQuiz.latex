@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7573)}}    % original
-%\rhead{\textrmlf{Compiled }\#7573\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7573\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7574)}}    % original
+%\rhead{\textrmlf{Compiled }\#7574\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7574\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -255,7 +255,8 @@ each \(v \in v_1, \ldots, v_n\) where \(v_1, \ldots, v_n\) is a basis of
 
 \(\dim \text{null } \pi = \dim U\) because \(U\) is \(0\) and
 \(U+u = U\) iff \(u \in U\). \(\dim \text{range } \pi = \dim V/U\)
-because \(v\) is arbitrary (and by the definition of \(U/V\)).
+because \(v\) is arbitrary and every vector in \(V/U\) is of the form
+\(U+v\)
 
 Then, by the Fundamental Theorem of Linear Maps, \[
   \begin{aligned}
