@@ -41,8 +41,12 @@ Thus, $S$ is defined if $\forall U+v = U = 0$, $Tv = 0$. Equivalently, $S$ is de
 
 Thus, $S$ is well defined. To show that it inherits additivity and homogeneity:
 $$
-S(U+u) + S(U+v) = Tu + Tv
+\begin{aligned}
+S(U+u) + S(U+v) = Tu + Tv = T(u+v) = S(U+u + U+v) = S(U+(u+v))
+\lambda\left(S(U+v)\right)
+\end{aligned}
 $$
+
 
 +For some $u, v \in \text{range }T$,+
 

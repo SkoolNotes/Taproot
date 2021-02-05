@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7506)}}    % original
-%\rhead{\textrmlf{Compiled }\#7506\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7506\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7507)}}    % original
+%\rhead{\textrmlf{Compiled }\#7507\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7507\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -246,7 +246,10 @@ not watertight). Thus, \(S\) is defined if \(\forall U+v = U = 0\),
 
 Thus, \(S\) is well defined. To show that it inherits additivity and
 homogeneity: \[
-S(U+u) + S(U+v) = Tu + Tv
+\begin{aligned}
+S(U+u) + S(U+v) = Tu + Tv = T(u+v) = S(U+u + U+v) = S(U+(u+v))
+\lambda(S(U+v))
+\end{aligned}
 \]
 
 \sout{For some \(u, v \in \text{range }T\),}
