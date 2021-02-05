@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7598)}}    % original
-%\rhead{\textrmlf{Compiled }\#7598\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7598\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7599)}}    % original
+%\rhead{\textrmlf{Compiled }\#7599\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7599\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -311,15 +311,14 @@ are injective, and invertible.
 \(TS = I\)}{ST = I iff TS = I}}\label{st-i-iff-ts-i}}
 
 Let \(n = \dim V\). Given that \(S, T\) are (both injective and
-surjective) operators, and \(ST = I\), there exists two bases of \(V\)
+surjective) operators, and \(TS = I\), there exists two bases of \(V\)
 \(s_1, \ldots, s_n\) and \(t_1, \ldots, t_n\) s.t. \[ S(s_i) = t_i \]
 and \[ T(t_i) = s_i \]
 
 Then, for each \(s_i \in s_1, \ldots, s_n\),
-\[ TS(s_i) = T(t_i) = s_i \]
-
-Then, for some \(a_i, \ldots, a_n\), \(b_i, \ldots, b_n\), for all
-\(v \in V\) \textbackslash{[} T(S(v)) = T(S(a\textsubscript{1s1},
-\ldots, a\textsubscript{nsn})
+\[ TS(s_i) = T(t_i) = s_i \] Because the identity map also takes each
+\(s_i \to s_i\), and linear maps are uniquely defined by where they take
+their bases, \(TS\) must be the identity map. The argument is symetric
+for the only if direction.
 
 \end{document}

@@ -68,14 +68,11 @@
 
 ** $ST = I$ iff $TS = I$
 
-   Let $n = \dim V$. Given that $S, T$ are (both injective and surjective) operators, and $ST = I$, there exists two bases of $V$ $s_1, \ldots, s_n$ and $t_1, \ldots, t_n$ s.t.
+   Let $n = \dim V$. Given that $S, T$ are (both injective and surjective) operators, and $TS = I$, there exists two bases of $V$ $s_1, \ldots, s_n$ and $t_1, \ldots, t_n$ s.t.
    \[ S(s_i) = t_i \]
    and
    \[ T(t_i) = s_i \]
 
    Then, for each $s_i \in s_1, \ldots, s_n$,
    \[ TS(s_i) = T(t_i) = s_i \]
-   Because the identity map also takes each $s_i \to s_i$,
-
-   Then, for some $a_i, \ldots, a_n$, $b_i, \ldots, b_n$, for all $v \in V$
-   \[ T(S(v)) = T(S(a_1s_1, \ldots, a_ns_n)
+   Because the identity map also takes each $s_i \to s_i$, and linear maps are uniquely defined by where they take their bases, $TS$ must be the identity map. The argument is symetric for the only if direction.
