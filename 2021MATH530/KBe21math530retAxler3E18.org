@@ -20,8 +20,8 @@ Intuitively, we can treat $S \circ \pi$ as a single map and take a basis of $V$ 
 +Let $S : V/U \to W$ s.t. $S(\pi v) = Tv$. Then, $S \circ \pi = T$.+
 
 +For $S$ to be linear, it needs to be additive and homogenous. For $u, v \in V$ and $\lambda \in \mathbb F$,+
-    +\[ S\pi u + S\pi v = Tu + Tv = T(u+v) = S(\pi u + \pi v) \]+
-    +\[ \lambda S \pi u = \lambda T u = T(\lambda u) = S (\lambda \pi u) \]+
+    +\[ S\pi u + S\pi v = Tu + Tv = T(u+v) = S(\pi u + \pi v) \] +
+    +\[ \lambda S \pi u = \lambda T u = T(\lambda u) = S (\lambda \pi u) \] +
 
     +In other words, $T$ is linear thus $S \circ \pi$ is also linear.+
 
