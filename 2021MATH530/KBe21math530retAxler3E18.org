@@ -32,7 +32,7 @@ If $S$ is well defined (every element in $V/U$ is mapped to exactly one place), 
 
 Let $v \in V$ and $v' \in V/U$ s.t. $v' = \pi v$ ($v'$ is where $\pi$ takes $v$). Then, to show that $S$ is well defined, we must show that $v$ has atleast one and at most one image through $S \circ \pi$.
 
-Because
+Because $\pi v$ is well defined, and $U+v$ was arbitrary in the definition of $S$, each $v$ must have atleast one image in $W$.
 
 +For some $u, v \in \text{range }T$,+
 
