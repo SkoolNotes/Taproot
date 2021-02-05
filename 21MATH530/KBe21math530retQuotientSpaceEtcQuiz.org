@@ -78,3 +78,6 @@
    Then, for each $t_i \in t_1, \ldots, t_n$,
    \[ ST(t_i) = S(s_i) = t_i \]
    Because the identity map also takes each $t_i \to t_i$, and linear maps are uniquely defined by where they take bases, $TS$ must be the identity map. The argument is symetric for the only if direction.
+
+
+* For a quotient space $V/U$ where $U \subseteq V$ and $\dim V/U \neq \infty$,
