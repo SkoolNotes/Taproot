@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7492)}}    % original
-%\rhead{\textrmlf{Compiled }\#7492\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7492\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7493)}}    % original
+%\rhead{\textrmlf{Compiled }\#7493\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7493\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -199,5 +199,14 @@ satisfying:
 
 \hypertarget{counterexample}{%
 \section{counterexample}\label{counterexample}}
+
+\hypertarget{sources}{%
+\section{\texorpdfstring{sources
+{\textsc{source}}}{sources source}}\label{sources}}
+
+\hypertarget{math-stack-exchange-answer-quoting-definition}{%
+\subsection{\texorpdfstring{\href{https://math.stackexchange.com/a/313182}{Math
+Stack Exchange Answer quoting
+definition}}{Math Stack Exchange Answer quoting definition}}\label{math-stack-exchange-answer-quoting-definition}}
 
 \end{document}
