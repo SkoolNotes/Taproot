@@ -26,9 +26,9 @@ Intuitively, we can treat $S \circ \pi$ as a single map and take a basis of $V$ 
     +In other words, $T$ is linear thus $S \circ \pi$ is also linear.+
 
 Let $S$ be a relation between $V/U$ and $W$ defined by
-\[
+$$
 S(U+v) = Tv
-\]
+$$
 
 If $S$ is well defined (every element in $V/U$ is mapped to exactly one place), then $S$ will inherit additivity and homogeneity from $T$ and $S \circ \pi$ will equal $T$.
 
@@ -40,7 +40,9 @@ Take $S$ to be an arbitrary linear map. The only restriction on $S$ that could c
 Thus, $S$ is defined if $\forall U+v = U = 0$, $Tv = 0$. Equivalently, $S$ is defined if $U \subseteq \text{null }T$, which is given in the problem.
 
 Thus, $S$ is well defined. To show that it inherits additivity and homogeneity:
-\[
+$$
+S(U+u) + S(U+v) = Tu + Tv
+$$
 
 +For some $u, v \in \text{range }T$,+
 
