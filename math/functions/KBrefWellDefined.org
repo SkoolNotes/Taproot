@@ -8,7 +8,8 @@
   #+end_quote
 * counterexample
 ** $f(\frac{a}{b}) = a + b$
-   This is actually not a well defined function, because $f(\frac{1}{2}) = 3$ while $f(\frac{2}{4}) = 6$.
+   This is actually not a well defined function, because $f(\frac{1}{2}) = 3$ while $f(\frac{2}{4}) = 6$, yet $\frac{1}{2} = \frac{2}{4}$.
+   This is actuall a really beautiful counter example.
 * sources                                                            :source:
 ** [[https://math.stackexchange.com/a/313182][Math Stack Exchange Answer quoting definition]]
 ** [[https://math.stackexchange.com/a/313319][Math Stack Exchange Answer with counterexample]]

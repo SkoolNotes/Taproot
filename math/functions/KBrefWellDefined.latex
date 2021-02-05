@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7494)}}    % original
-%\rhead{\textrmlf{Compiled }\#7494\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7494\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7495)}}    % original
+%\rhead{\textrmlf{Compiled }\#7495\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7495\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -202,6 +202,11 @@ satisfying:
 
 \hypertarget{ffracab-a-b}{%
 \subsection{\texorpdfstring{\(f(\frac{a}{b}) = a + b\)}{f(\textbackslash frac\{a\}\{b\}) = a + b}}\label{ffracab-a-b}}
+
+This is actually not a well defined function, because
+\(f(\frac{1}{2}) = 3\) while \(f(\frac{2}{4}) = 6\), yet
+\(\frac{1}{2} = \frac{2}{4}\). This is actuall a really beautiful
+counter example.
 
 \hypertarget{sources}{%
 \section{\texorpdfstring{sources
