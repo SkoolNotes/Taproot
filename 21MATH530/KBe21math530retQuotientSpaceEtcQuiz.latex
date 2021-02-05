@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7597)}}    % original
-%\rhead{\textrmlf{Compiled }\#7597\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7597\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7598)}}    % original
+%\rhead{\textrmlf{Compiled }\#7598\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7598\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -315,7 +315,8 @@ surjective) operators, and \(ST = I\), there exists two bases of \(V\)
 \(s_1, \ldots, s_n\) and \(t_1, \ldots, t_n\) s.t. \[ S(s_i) = t_i \]
 and \[ T(t_i) = s_i \]
 
-Then, \(TS\) will be defined by
+Then, for each \(s_i \in s_1, \ldots, s_n\),
+\[ TS(s_i) = T(t_i) = s_i \]
 
 Then, for some \(a_i, \ldots, a_n\), \(b_i, \ldots, b_n\), for all
 \(v \in V\) \textbackslash{[} T(S(v)) = T(S(a\textsubscript{1s1},
