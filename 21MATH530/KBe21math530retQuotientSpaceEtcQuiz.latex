@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7609)}}    % original
-%\rhead{\textrmlf{Compiled }\#7609\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7609\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7610)}}    % original
+%\rhead{\textrmlf{Compiled }\#7610\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7610\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -331,9 +331,7 @@ of a subspace \(W\) s.t. \(\dim W = \dim V/U\) and
 
 Let \(v_1, \ldots, v_n\) be a basis of \(V\) where \(v_1, \ldots, v_k\)
 is a basis of \(U\). Let \(W = \text{span }(v_{k+1}, \ldots, v_n)\).
-
-\hypertarget{vector-space}{%
-\subsection{vector space}\label{vector-space}}
+\(W\) is a vector space because the span of a list is a vector space.
 
 \hypertarget{dimension}{%
 \subsection{dimension}\label{dimension}}
