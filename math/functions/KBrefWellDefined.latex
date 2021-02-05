@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7490)}}    % original
-%\rhead{\textrmlf{Compiled }\#7490\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7490\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7491)}}    % original
+%\rhead{\textrmlf{Compiled }\#7491\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7491\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -188,6 +188,8 @@ satisfying:
   \(\forall x \in X\), \(\exists y \in Y\) s.t. \((x, y) \in f\) (every
   element of the domain has an image)
 \item
+  \(\forall x \in X\), \(\forall y_1, y_2 \in Y\),
+  \((x, y_1), (x, y_2) \in f\)
 \end{enumerate}
 
 A function 𝑓:𝑋→𝑌 is a relation 𝑓 from 𝑋 to 𝑌 satisfying: i).
