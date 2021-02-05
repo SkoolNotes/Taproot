@@ -53,6 +53,6 @@
 
 	For $ST$ to send some $v$ to zero, either $v \in \text{null }T$ or $Tv \in \text{null } S$.
 	For some $s_1, \ldots, s_n$ is a basis of $S$ and $t_1, \ldots, t_m$ is a basis of $T$, $v \in \text{null }ST$ iff $v$ can be expressed as a linear combination of $s_1, \ldots, s_n, t_1, \ldots, t_m$.
-
+	Let $U = \text{span } s_1, \ldots, s_n, t_1, \ldots, t_m$. Then, $\dim U \le n+m$.
 
 ** $ST = I$ iff $TS = I$
