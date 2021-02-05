@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7574)}}    % original
-%\rhead{\textrmlf{Compiled }\#7574\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7574\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7576)}}    % original
+%\rhead{\textrmlf{Compiled }\#7576\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7576\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -256,7 +256,7 @@ each \(v \in v_1, \ldots, v_n\) where \(v_1, \ldots, v_n\) is a basis of
 \(\dim \text{null } \pi = \dim U\) because \(U\) is \(0\) and
 \(U+u = U\) iff \(u \in U\). \(\dim \text{range } \pi = \dim V/U\)
 because \(v\) is arbitrary and every vector in \(V/U\) is of the form
-\(U+v\)
+\(U+v\).
 
 Then, by the Fundamental Theorem of Linear Maps, \[
   \begin{aligned}
@@ -265,6 +265,20 @@ Then, by the Fundamental Theorem of Linear Maps, \[
   \end{aligned}
   \]
 
-*
+\hypertarget{suppose-v-is-finite-dimensional-and-s-t-in-mathcal-lv.-prove-that}{%
+\section{\texorpdfstring{Suppose \(V\) is finite dimensional and
+\(S, T \in \mathcal L(V)\). Prove
+that}{Suppose V is finite dimensional and S, T \textbackslash in \textbackslash mathcal L(V). Prove that}}\label{suppose-v-is-finite-dimensional-and-s-t-in-mathcal-lv.-prove-that}}
+
+\hypertarget{st-is-invertible-iff-s-and-t-are-invertable}{%
+\subsection{\texorpdfstring{\(ST\) is invertible iff \(S\) and \(T\) are
+invertable}{ST is invertible iff S and T are invertable}}\label{st-is-invertible-iff-s-and-t-are-invertable}}
+
+\hypertarget{if}{%
+\subsubsection{if}\label{if}}
+
+\hypertarget{st-i-iff-ts-i}{%
+\subsection{\texorpdfstring{\(ST = I\) iff
+\(TS = I\)}{ST = I iff TS = I}}\label{st-i-iff-ts-i}}
 
 \end{document}
