@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7585)}}    % original
-%\rhead{\textrmlf{Compiled }\#7585\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7585\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7586)}}    % original
+%\rhead{\textrmlf{Compiled }\#7586\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7586\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -288,7 +288,12 @@ For \(ST\) to send some \(v\) to zero, either \(v \in \text{null }T\) or
 as a linear combination of \(s_1, \ldots, s_n, t_1, \ldots, t_m\). Let
 \(U = \text{span } s_1, \ldots, s_n, t_1, \ldots, t_m\). Then,
 \(v \in \text{null }ST\) iff \(v \in U\), aka \(\text{null } ST = U\).
-Because \(\dim U \le n+m\)
+Because \(\dim U \le n+m\), and \(n = m = 0\),
+\(\dim \text{null } ST = 0\) and \(ST\) is injective, bijective, and
+invertible.
+
+\hypertarget{only-if}{%
+\subsubsection{only if}\label{only-if}}
 
 \hypertarget{st-i-iff-ts-i}{%
 \subsection{\texorpdfstring{\(ST = I\) iff
