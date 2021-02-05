@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7613)}}    % original
-%\rhead{\textrmlf{Compiled }\#7613\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7613\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7614)}}    % original
+%\rhead{\textrmlf{Compiled }\#7614\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7614\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -346,6 +346,7 @@ basis. I'm afraid of using the length of bases because arithmatic with
 
 If \(V\) is infinite dimensional, then \(v_{k+1}, \ldots, v_n\) contains
 an infinite number of elements and thus \(W\) is infinite dimensional.
+\(V/U\) is also infinite dimensional (no time to flesh out).
 
 \hypertarget{direct-sum}{%
 \subsection{direct sum}\label{direct-sum}}
