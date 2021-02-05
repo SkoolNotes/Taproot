@@ -31,6 +31,7 @@
 * Proove $\dim V/U = \dim V - \dim U$ when $V$ is a finite dim vec space
   Let $\pi \in \mathcal L(V, V/U)$ be defined by
   \[ \pi v = U+v \]
+  For each $v \in v_1, \ldots, v_n$ where $v_1, \ldots, v_n$ is a basis of $V$.
 
   $\dim \text{null } \pi = \dim U$ because $U$ is $0$ and $U+u = U$ iff $u \in U$.
   $\dim \text{range } \pi = \dim V/U$ because $v$ is arbitrary (and by the definition of $U/V$).
