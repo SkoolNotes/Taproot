@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7510)}}    % original
-%\rhead{\textrmlf{Compiled }\#7510\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7510\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7511)}}    % original
+%\rhead{\textrmlf{Compiled }\#7511\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7511\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -201,10 +201,10 @@ equal.
 basis of \(V\) and \(v_1, \ldots, v_k\) is a basis of \(U\)
 (\(k = \text{dim } U\) and \(n = \text{dim }V\)).} \sout{For each
 \(k < j \le n\), \(\pi v_j \neq 0\), and we can control where \(S\)
-should send it. Let \(S\) be defined by:}
-\sout{\[ S( \pi v_j) = T v_j \]} \sout{Then, \(S \circ \pi\) will send
-each vector in \(U\) to 0 and each other vector where \(T\) would send
-it. Because \(U \subseteq \text{null }T\), \(S \circ \pi = T\).}
+should send it. Let \(S\) be defined by:} \sout{.
+\[ S( \pi v_j) = T v_j \] .} \sout{Then, \(S \circ \pi\) will send each
+vector in \(U\) to 0 and each other vector where \(T\) would send it.
+Because \(U \subseteq \text{null }T\), \(S \circ \pi = T\).}
 
 \sout{This argument does not work for infinite dimensional vector
 spaces. Instead, perhaps we can send anything not in \(U\) to where
