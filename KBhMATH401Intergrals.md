@@ -16,3 +16,4 @@ Antiderivatives table
 |$sin(at)$|$-\frac{cos(t)}{a}$|
 |$cos(at)$|$\frac{sin(t)}{a}$|
 |$e^a$|$e^a$|
+|$\frac{1}{1+(ax)^2}$|$tan^-1(ax)$|
