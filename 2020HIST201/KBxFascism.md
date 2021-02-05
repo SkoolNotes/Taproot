@@ -27,7 +27,7 @@ hitler rose to power using this
 usa teamed with the ssoviet union? to end nazi germany, then after the wwar it turned into distrust and rivary and the cold war
 
 
-
+germany had a bunch of treaties, coudnt pay stuff, ended up hyper inflating.
 
 
 
