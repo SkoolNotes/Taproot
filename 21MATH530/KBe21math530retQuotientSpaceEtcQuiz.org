@@ -50,6 +50,6 @@
 
 *** if
 	Given that $S$ and $T$ are invertible, $\dim \text{null }S = \dim \text{null }T = 0$. $ST$ is an operator on $V$, so if it is injective then it is invertible.
-
+	For $ST$ to send some $v$ to zero, either $v \in \text{null }T$ or $Tv \in \text{null } S$. For some $s_1, \ldots, s_n$ is a basis of $S$ and $t_1, \ldots, t_n$ is a basis of $T$,
 
 ** $ST = I$ iff $TS = I$
