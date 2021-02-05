@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7477)}}    % original
-%\rhead{\textrmlf{Compiled }\#7477\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7477\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7478)}}    % original
+%\rhead{\textrmlf{Compiled }\#7478\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7478\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -197,9 +197,6 @@ Intuitively, we can treat \(S \circ \pi\) as a single map and take a
 basis of \(V\) to the same place that \(T\) would, and the maps would be
 equal.
 
-Let \(S : V/U \to W\) be defined by \[
-\]
-
 \textasciitilde If \(V\) is finite dimensional, suppose
 \(v_1, \ldots, v_n\) is a basis of \(V\) and \(v_1, \ldots, v_k\) is a
 basis of \(U\) (\(k = \text{dim } U\) and \(n = \text{dim }V\)). For
@@ -223,6 +220,8 @@ For \(S\) to be linear, it needs to be additive and homogenous. For
 
 In other words, \(T\) is linear thus \(S \circ \pi\) is also
 linear.\textasciitilde{}
+
+Let \(S : V/U \to W\) be defined by \[ S(U+v) = Tv \]
 
 \hypertarget{define-su-v-t-v}{%
 \subsection{define S(U + v) = T v}\label{define-su-v-t-v}}
