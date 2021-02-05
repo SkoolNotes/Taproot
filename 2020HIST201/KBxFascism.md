@@ -18,7 +18,7 @@ paris peace settlments marked the end of the war,
 
 many european governments went into isolationaism, neutrality, or pasifism
 
-
+created the leuge of nations
 
 
 
