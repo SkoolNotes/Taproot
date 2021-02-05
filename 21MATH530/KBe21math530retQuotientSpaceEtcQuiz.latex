@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7590)}}    % original
-%\rhead{\textrmlf{Compiled }\#7590\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7590\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7591)}}    % original
+%\rhead{\textrmlf{Compiled }\#7591\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7591\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -299,7 +299,10 @@ invertible.
 operators, and if an operator is not injective then it is also not
 surjective and vise versa. Because linear maps send zero to zero (and
 using the logic from the previous part), \[
-    \dim \text{null }ST \ge \max\{\text{dim null }S, \text{dim null }T\}
+    \begin{aligned}
+    \dim \text{null }ST \ge \max\{\text{dim null }S, \text{dim null }T\}\\
+    \max\{\text{dim null }S, \text{dim null }T\} \le \dim \text{null }ST = 0
+    \end{aligned}
     \]
 
 \hypertarget{st-i-iff-ts-i}{%
