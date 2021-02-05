@@ -25,12 +25,12 @@ Intuitively, we can treat $S \circ \pi$ as a single map and take a basis of $V$ 
 
     +In other words, $T$ is linear thus $S \circ \pi$ is also linear.+
 
-Let $S : V/U \to W$ be defined by
+Let $S$ be a relation between $V/U$ and $W$ defined by
 \[ S(U+v) = Tv \]
 
 If $S$ is well defined (every element in $V/U$ is mapped to exactly one place), then $S$ will inherit additivity and homogeneity from $T$ and $S \circ \pi$ will equal $T$.
 
-Let $v \in V$ and $v' \in V/U$ s.t. $v' = \pi v$ ($v'$ is where $\pi$ takes $v$). Then,
+Let $v \in V$ and $v' \in V/U$ s.t. $v' = \pi v$ ($v'$ is where $\pi$ takes $v$). Then, to show that $S$ is well defined,
 
 +For some $u, v \in \text{range }T$,+
 
