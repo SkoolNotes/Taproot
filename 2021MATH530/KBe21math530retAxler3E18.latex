@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7484)}}    % original
-%\rhead{\textrmlf{Compiled }\#7484\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7484\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7485)}}    % original
+%\rhead{\textrmlf{Compiled }\#7485\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7485\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -197,20 +197,30 @@ Intuitively, we can treat \(S \circ \pi\) as a single map and take a
 basis of \(V\) to the same place that \(T\) would, and the maps would be
 equal.
 
-\texttt{\textasciitilde{}If\ \$V\$\ is\ finite\ dimensional,\ suppose\ \$v\_1,\ \textbackslash{}ldots,\ v\_n\$\ is\ a\ basis\ of\ \$V\$\ and\ \$v\_1,\ \textbackslash{}ldots,\ v\_k\$\ is\ a\ basis\ of\ \$U\$\ (\$k\ =\ \textbackslash{}text\{dim\ \}\ U\$\ and\ \$n\ =\ \textbackslash{}text\{dim\ \}V\$).}
-\texttt{For\ each\ \$k\ \textless{}\ j\ \textbackslash{}le\ n\$,\ \$\textbackslash{}pi\ v\_j\ \textbackslash{}neq\ 0\$,\ and\ we\ can\ control\ where\ \$S\$\ should\ send\ it.\ Let\ \$S\$\ be\ defined\ by:}
-\texttt{\textbackslash{}{[}\ S(\ \textbackslash{}pi\ v\_j)\ =\ T\ v\_j\ \textbackslash{}{]}}
-\texttt{Then,\ \$S\ \textbackslash{}circ\ \textbackslash{}pi\$\ will\ send\ each\ vector\ in\ \$U\$\ to\ 0\ and\ each\ other\ vector\ where\ \$T\$\ would\ send\ it.\ Because\ \$U\ \textbackslash{}subseteq\ \textbackslash{}text\{null\ \}T\$,\ \$S\ \textbackslash{}circ\ \textbackslash{}pi\ =\ T\$.}
-\textasciitilde\textasciitilde{}
-\texttt{This\ argument\ does\ not\ work\ for\ infinite\ dimensional\ vector\ spaces.\ Instead,\ perhaps\ we\ can\ send\ anything\ not\ in\ \$U\$\ to\ where\ \$T\$\ would\ send\ it\ and\ show\ that\ the\ resulting\ \$S\$\ is\ linear?\ I\textquotesingle{}m\ not\ convinced\ by\ the\ following\ argument:}
-\textasciitilde\textasciitilde{}
-\texttt{Let\ \$S\ :\ V/U\ \textbackslash{}to\ W\$\ s.t.\ \$S(\textbackslash{}pi\ v)\ =\ Tv\$.\ Then,\ \$S\ \textbackslash{}circ\ \textbackslash{}pi\ =\ T\$.}
-\textasciitilde\textasciitilde{}
-\texttt{For\ \$S\$\ to\ be\ linear,\ it\ needs\ to\ be\ additive\ and\ homogenous.\ For\ \$u,\ v\ \textbackslash{}in\ V\$\ and\ \$\textbackslash{}lambda\ \textbackslash{}in\ \textbackslash{}mathbb\ F\$,}
-\texttt{\textbackslash{}{[}\ S\textbackslash{}pi\ u\ +\ S\textbackslash{}pi\ v\ =\ Tu\ +\ Tv\ =\ T(u+v)\ =\ S(\textbackslash{}pi\ u\ +\ \textbackslash{}pi\ v)\ \textbackslash{}{]}}
-\texttt{\textbackslash{}{[}\ \textbackslash{}lambda\ S\ \textbackslash{}pi\ u\ =\ \textbackslash{}lambda\ T\ u\ =\ T(\textbackslash{}lambda\ u)\ =\ S\ (\textbackslash{}lambda\ \textbackslash{}pi\ u)\ \textbackslash{}{]}}
+\sout{If \(V\) is finite dimensional, suppose \(v_1, \ldots, v_n\) is a
+basis of \(V\) and \(v_1, \ldots, v_k\) is a basis of \(U\)
+(\(k = \text{dim } U\) and \(n = \text{dim }V\)).} \sout{For each
+\(k < j \le n\), \(\pi v_j \neq 0\), and we can control where \(S\)
+should send it. Let \(S\) be defined by:}
+\sout{\[ S( \pi v_j) = T v_j \]} \sout{Then, \(S \circ \pi\) will send
+each vector in \(U\) to 0 and each other vector where \(T\) would send
+it. Because \(U \subseteq \text{null }T\), \(S \circ \pi = T\).}
 
-\texttt{In\ other\ words,\ \$T\$\ is\ linear\ thus\ \$S\ \textbackslash{}circ\ \textbackslash{}pi\$\ is\ also\ linear.}
+\sout{This argument does not work for infinite dimensional vector
+spaces. Instead, perhaps we can send anything not in \(U\) to where
+\(T\) would send it and show that the resulting \(S\) is linear? I'm not
+convinced by the following argument:}
+
+\sout{Let \(S : V/U \to W\) s.t. \(S(\pi v) = Tv\). Then,
+\(S \circ \pi = T\).}
+
+\sout{For \(S\) to be linear, it needs to be additive and homogenous.
+For \(u, v \in V\) and \(\lambda \in \mathbb F\),}
+\sout{\[ S\pi u + S\pi v = Tu + Tv = T(u+v) = S(\pi u + \pi v) \]}
+\sout{\[ \lambda S \pi u = \lambda T u = T(\lambda u) = S (\lambda \pi u) \]}
+
+\sout{In other words, \(T\) is linear thus \(S \circ \pi\) is also
+linear.}
 
 Let \(S : V/U \to W\) be defined by \[ S(U+v) = Tv \]
 
@@ -221,7 +231,7 @@ one place), then \(S\) will inherit additivity and homogeneity from
 Let \(v \in V\) and \(v' \in V/U\) s.t. \(v' = \pi v\) (\(v'\) is where
 π takes \(v\)).
 
-\texttt{For\ some\ \$u,\ v\ \textbackslash{}in\ \textbackslash{}text\{range\ \}T\$,}
+\sout{For some \(u, v \in \text{range }T\),}
 
 \hypertarget{define-su-v-t-v}{%
 \subsection{define S(U + v) = T v}\label{define-su-v-t-v}}
