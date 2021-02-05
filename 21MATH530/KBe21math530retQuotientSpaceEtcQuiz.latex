@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7576)}}    % original
-%\rhead{\textrmlf{Compiled }\#7576\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7576\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7577)}}    % original
+%\rhead{\textrmlf{Compiled }\#7577\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7577\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -276,6 +276,9 @@ invertable}{ST is invertible iff S and T are invertable}}\label{st-is-invertible
 
 \hypertarget{if}{%
 \subsubsection{if}\label{if}}
+
+Given that \(S\) and \(T\) are invertible,
+\(\dim \null S = \dim \null T = 0\).
 
 \hypertarget{st-i-iff-ts-i}{%
 \subsection{\texorpdfstring{\(ST = I\) iff

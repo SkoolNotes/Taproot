@@ -49,5 +49,6 @@
 ** $ST$ is invertible iff $S$ and $T$ are invertable
 
 *** if
+	Given that $S$ and $T$ are invertible, $\dim \text{null }S = \dim \text{null }T = 0$.
 
 ** $ST = I$ iff $TS = I$
