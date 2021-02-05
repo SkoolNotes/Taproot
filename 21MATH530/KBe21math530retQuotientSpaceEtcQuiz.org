@@ -57,6 +57,9 @@
 	Because $\dim U \le n+m$, and $n = m = 0$, $\dim \text{null } ST = 0$ and $ST$ is injective, bijective, and invertible.
 
 *** only if
-	$ST$ is invertible implies $\dim \text{null }ST = 0$. $S, T$ are operators, and if an operator is not injective then it is also not surjective and vise versa.
+	$ST$ is invertible implies $\dim \text{null }ST = 0$. $S, T$ are operators, and if an operator is not injective then it is also not surjective and vise versa. Because linear maps send zero to zero (and using the logic from the previous part),
+	\[
+	\dim \text{null }ST \ge \max\{\text{dim null }S, \text{dim null }T\}
+	\]
 
 ** $ST = I$ iff $TS = I$
