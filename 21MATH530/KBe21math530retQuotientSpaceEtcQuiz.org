@@ -73,5 +73,7 @@
    and
    \[ T(t_i) = s_i \]
 
+   Then, $TS$ will be defined by
+
    Then, for some $a_i, \ldots, a_n$, $b_i, \ldots, b_n$, for all $v \in V$
-   \[ T(S(v)) =
+   \[ T(S(v)) = T(S(a_1s_1, \ldots, a_ns_n)
