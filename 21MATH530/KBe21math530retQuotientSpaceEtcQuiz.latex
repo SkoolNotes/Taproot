@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7605)}}    % original
-%\rhead{\textrmlf{Compiled }\#7605\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7605\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7606)}}    % original
+%\rhead{\textrmlf{Compiled }\#7606\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7606\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -323,10 +323,10 @@ Then, for each \(t_i \in t_1, \ldots, t_n\),
 bases, \(TS\) must be the identity map. The argument is symetric for the
 only if direction.
 
-\hypertarget{for-a-quotient-space-vu-where-u-subseteq-v-and-vu-is-finite-dimensional-show-the-existance-of-a-subspace-w-s.t.-dim-w-dim-vu-and-v-u-circleplus-w}{%
+\hypertarget{for-a-quotient-space-vu-where-u-subseteq-v-and-vu-is-finite-dimensional-show-the-existance-of-a-subspace-w-s.t.-dim-w-dim-vu-and-v-u-oplus-w}{%
 \section{\texorpdfstring{For a quotient space \(V/U\) where
 \(U \subseteq V\) and \(V/U\) is finite dimensional, show the existance
 of a subspace \(W\) s.t. \(\dim W = \dim V/U\) and
-\(V = U \circleplus W\)}{For a quotient space V/U where U \textbackslash subseteq V and V/U is finite dimensional, show the existance of a subspace W s.t. \textbackslash dim W = \textbackslash dim V/U and V = U \textbackslash circleplus W}}\label{for-a-quotient-space-vu-where-u-subseteq-v-and-vu-is-finite-dimensional-show-the-existance-of-a-subspace-w-s.t.-dim-w-dim-vu-and-v-u-circleplus-w}}
+\(V = U \oplus W\)}{For a quotient space V/U where U \textbackslash subseteq V and V/U is finite dimensional, show the existance of a subspace W s.t. \textbackslash dim W = \textbackslash dim V/U and V = U \textbackslash oplus W}}\label{for-a-quotient-space-vu-where-u-subseteq-v-and-vu-is-finite-dimensional-show-the-existance-of-a-subspace-w-s.t.-dim-w-dim-vu-and-v-u-oplus-w}}
 
 \end{document}
