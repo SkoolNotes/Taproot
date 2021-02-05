@@ -81,7 +81,7 @@
 
 
 * For a quotient space $V/U$ where $U \subseteq V$ and $V/U$ is finite dimensional, show the existance of a subspace $W$ s.t. $\dim W = \dim V/U$ and $V = U \oplus W$
-  Let $v_1, \ldots, v_n$ be a basis of $V$ where $v_1, \ldots, v_k$ is a basis of $U$. Let $W = \text{span }(v_{k+1}, \ldots, v_n)$.
+  Let $v_1, \ldots, v_n$ be a basis of $V$ where $v_1, \ldots, v_k$ is a basis of $U$. Let $W = \text{span }(v_{k+1}, \ldots, v_n)$. $W$ is a vector space becta
 
 ** dimension
 
