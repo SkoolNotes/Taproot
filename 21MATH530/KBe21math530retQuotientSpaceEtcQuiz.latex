@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7536)}}    % original
-%\rhead{\textrmlf{Compiled }\#7536\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7536\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7537)}}    % original
+%\rhead{\textrmlf{Compiled }\#7537\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7537\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -211,6 +211,11 @@ operations}\label{why-product-and-quotient-are-used-to-describe-these-operations
 The product of vector spaces is essentially a cartesian product. With
 real numbers, the product is like stacking copies of an operand in a new
 direction (product of two numbers for area of a plane, product of three
-for the volume of a space)
+for the volume of a space). Here, we are doing essentially the same
+thing for vector spaces (each vector is combined within a list with
+other vector spaces, but they do not interact with eachother and are
+orthagonal, in a sense).
+
+A quotient space is like taking out part of a vector space
 
 \end{document}
