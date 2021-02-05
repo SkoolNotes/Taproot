@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7541)}}    % original
-%\rhead{\textrmlf{Compiled }\#7541\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7541\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7542)}}    % original
+%\rhead{\textrmlf{Compiled }\#7542\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7542\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -222,5 +222,9 @@ and some things become equivalent. It is like removing ("dividing") a
 subset of the basis (those that form a basis of \(U\)), where the basis
 itself can be represented as the cartesian product \(\mathbb F^n\)
 (where \(n\) is the dimension of \(V\)).
+
+\hypertarget{examples-of-quotient-spaces}{%
+\section{Examples of quotient
+spaces}\label{examples-of-quotient-spaces}}
 
 \end{document}
