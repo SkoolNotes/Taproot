@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7491)}}    % original
-%\rhead{\textrmlf{Compiled }\#7491\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7491\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7492)}}    % original
+%\rhead{\textrmlf{Compiled }\#7492\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7492\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -178,6 +178,9 @@
 \section{\texorpdfstring{well defined
 {\textsc{def}}}{well defined def}}\label{well-defined}}
 
+A function is well defined if each element of the domain has exactly one
+image. Formally,
+
 \begin{quote}
 A function \(f : X \to Y\) is a relation \(f\) from \(X\) to \(Y\)
 satisfying:
@@ -189,13 +192,12 @@ satisfying:
   element of the domain has an image)
 \item
   \(\forall x \in X\), \(\forall y_1, y_2 \in Y\),
-  \((x, y_1), (x, y_2) \in f\)
+  \((x, y_1), (x, y_2) \in f\) implies \(y_1 = y_2\) (each element of
+  the domain has at most one image)
 \end{enumerate}
-
-A function 𝑓:𝑋→𝑌 is a relation 𝑓 from 𝑋 to 𝑌 satisfying: i).
-∀𝑥∈𝑋,∃𝑦∈𝑌:(𝑥,𝑦)∈𝑓 ii). ∀𝑥∈𝑋,∀𝑦1,𝑦2∈𝑌:(𝑥,𝑦1),(𝑥,𝑦2)∈𝑓⟹𝑦1=𝑦2
 \end{quote}
 
-A function is well defined if:
+\hypertarget{counterexample}{%
+\section{counterexample}\label{counterexample}}
 
 \end{document}

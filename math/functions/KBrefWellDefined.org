@@ -1,11 +1,10 @@
 #+AUTHOR: Exr0n
 * well defined                                                          :def:
+  A function is well defined if each element of the domain has exactly one image. Formally,
   #+begin_quote
   A function $f : X \to Y$ is a relation $f$ from $X$ to $Y$ satisfying:
      1. $\forall x \in X$, $\exists y \in Y$ s.t. $(x, y) \in f$ (every element of the domain has an image)
-	 2. $\forall x \in X$, $\forall y_1, y_2 \in Y$, $(x, y_1), (x, y_2) \in f$
-  A function 𝑓:𝑋→𝑌 is a relation 𝑓 from 𝑋 to 𝑌 satisfying:
-	i). ∀𝑥∈𝑋,∃𝑦∈𝑌:(𝑥,𝑦)∈𝑓
-	ii). ∀𝑥∈𝑋,∀𝑦1,𝑦2∈𝑌:(𝑥,𝑦1),(𝑥,𝑦2)∈𝑓⟹𝑦1=𝑦2
+	 2. $\forall x \in X$, $\forall y_1, y_2 \in Y$, $(x, y_1), (x, y_2) \in f$ implies $y_1 = y_2$ (each element of the domain has at most one image)
   #+end_quote
-  A function is well defined if:
+* counterexample
+* sources                                                            :source:
