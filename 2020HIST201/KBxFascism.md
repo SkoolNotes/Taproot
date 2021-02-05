@@ -43,6 +43,21 @@ hitler did stuff like musssolina, wiggled his way into power, ect.
 except he did it in three months, not three years. 
 
 
+hitler did alot of dictatorhsip stuff 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
