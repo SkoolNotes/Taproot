@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7513)}}    % original
-%\rhead{\textrmlf{Compiled }\#7513\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7513\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7514)}}    % original
+%\rhead{\textrmlf{Compiled }\#7514\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7514\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -215,10 +215,10 @@ convinced by the following argument:}
 \(S \circ \pi = T\).}
 
 \sout{For \(S\) to be linear, it needs to be additive and homogenous.
-For \(u, v \in V\) and \(\lambda \in \mathbb F\),}
-+\[ S\pi u + S\pi v = Tu + Tv = T(u+v) = S(\pi u + \pi v) \] +
-+\[ \lambda S \pi u = \lambda T u = T(\lambda u) = S (\lambda \pi u) \]
-+
+For \(u, v \in V\) and \(\lambda \in \mathbb F\),} \sout{.
+\[ S\pi u + S\pi v = Tu + Tv = T(u+v) = S(\pi u + \pi v) \] .} \sout{.
+\[ \lambda S \pi u = \lambda T u = T(\lambda u) = S (\lambda \pi u) \]
+.}
 
 \sout{In other words, \(T\) is linear thus \(S \circ \pi\) is also
 linear.}
