@@ -12,7 +12,7 @@ Intuitively, we can treat $S \circ \pi$ as a single map and take a basis of $V$ 
 
 +If $V$ is finite dimensional, suppose $v_1, \ldots, v_n$ is a basis of $V$ and $v_1, \ldots, v_k$ is a basis of $U$ ($k = \text{dim } U$ and $n = \text{dim }V$).+
 +For each $k < j \le n$, $\pi v_j \neq 0$, and we can control where $S$ should send it. Let $S$ be defined by:+
-+. \[ S( \pi v_j) = T v_j \] .+
+\[ S( \pi v_j) = T v_j \]
 +Then, $S \circ \pi$ will send each vector in $U$ to 0 and each other vector where $T$ would send it. Because $U \subseteq \text{null }T$, $S \circ \pi = T$.+
 
 +This argument does not work for infinite dimensional vector spaces. Instead, perhaps we can send anything not in $U$ to where $T$ would send it and show that the resulting $S$ is linear? I'm not convinced by the following argument:+
