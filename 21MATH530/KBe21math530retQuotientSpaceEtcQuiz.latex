@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7618)}}    % original
-%\rhead{\textrmlf{Compiled }\#7618\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7618\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7619)}}    % original
+%\rhead{\textrmlf{Compiled }\#7619\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7619\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -358,6 +358,9 @@ The condition for a direct sum of two subspaces is that their
 intersection is zero. For some \(u \in W\) s.t. \(u \in U\), it can be
 written as \(a_1v_1 + \cdots + a_kv_k\) and as
 \(a_{k+1}v_{k+1} + \cdots + a_nv_n\). \(v_1, \ldots, v_n\) is linearly
-independent so
+independent so the only way for a linear combination of one subset to
+equal a linear combination of a different, disjoint subset is for all
+the coefficients to be zero. Thus, the intersection is zero and
+\(U \oplus V\) is a direct sum.
 
 \end{document}
