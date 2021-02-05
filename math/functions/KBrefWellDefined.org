@@ -7,6 +7,8 @@
 	 2. $\forall x \in X$, $\forall y_1, y_2 \in Y$, $(x, y_1), (x, y_2) \in f$ implies $y_1 = y_2$ (each element of the domain has at most one image)
   #+end_quote
 * counterexample
+** $f(\frac{a}{b}) = a + b$
+   This is actually not a well defined function, because $f(\frac{1}{2}) = 3$ while $f(\frac{2}{4}) = 6$.
 * sources                                                            :source:
 ** [[https://math.stackexchange.com/a/313182][Math Stack Exchange Answer quoting definition]]
 ** [[https://math.stackexchange.com/a/313319][Math Stack Exchange Answer with counterexample]]

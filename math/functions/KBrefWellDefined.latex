@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7493)}}    % original
-%\rhead{\textrmlf{Compiled }\#7493\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7493\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7494)}}    % original
+%\rhead{\textrmlf{Compiled }\#7494\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7494\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -200,6 +200,9 @@ satisfying:
 \hypertarget{counterexample}{%
 \section{counterexample}\label{counterexample}}
 
+\hypertarget{ffracab-a-b}{%
+\subsection{\texorpdfstring{\(f(\frac{a}{b}) = a + b\)}{f(\textbackslash frac\{a\}\{b\}) = a + b}}\label{ffracab-a-b}}
+
 \hypertarget{sources}{%
 \section{\texorpdfstring{sources
 {\textsc{source}}}{sources source}}\label{sources}}
@@ -208,5 +211,10 @@ satisfying:
 \subsection{\texorpdfstring{\href{https://math.stackexchange.com/a/313182}{Math
 Stack Exchange Answer quoting
 definition}}{Math Stack Exchange Answer quoting definition}}\label{math-stack-exchange-answer-quoting-definition}}
+
+\hypertarget{math-stack-exchange-answer-with-counterexample}{%
+\subsection{\texorpdfstring{\href{https://math.stackexchange.com/a/313319}{Math
+Stack Exchange Answer with
+counterexample}}{Math Stack Exchange Answer with counterexample}}\label{math-stack-exchange-answer-with-counterexample}}
 
 \end{document}
