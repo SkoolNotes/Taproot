@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7615)}}    % original
-%\rhead{\textrmlf{Compiled }\#7615\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7615\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7616)}}    % original
+%\rhead{\textrmlf{Compiled }\#7616\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7616\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -355,6 +355,6 @@ This is equal to \(\dim V/U\) by a result in the book.
 \subsection{direct sum}\label{direct-sum}}
 
 The condition for a direct sum of two subspaces is that their
-intersection is zero.
+intersection is zero. For some \(u \in W\) s.t. \(u \in U\),
 
 \end{document}
