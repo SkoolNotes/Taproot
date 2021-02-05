@@ -24,6 +24,8 @@ lots of unrest and economic instability, poverty, ect
 
 hitler rose to power using this
 
+usa teamed with the ssoviet union? to end nazi germany, then after the wwar it turned into distrust and rivary and the cold war
+
 
 
 
