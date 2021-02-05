@@ -40,12 +40,12 @@ Take $S$ to be an arbitrary linear map. The only restriction on $S$ that could c
 Thus, $S$ is defined if $\forall U+v = U = 0$, $Tv = 0$. Equivalently, $S$ is defined if $U \subseteq \text{null }T$, which is given in the problem.
 
 Thus, $S$ is well defined. To show that it inherits additivity and homogeneity:
-$$
+\[
 S(U+u) + S(U+v) = Tu + Tv = T(u+v) = S(U+u + U+v) = S(U+(u+v))
-$$
-$$
+\]
+\[
 \lambda\left(S(U+v)\right) = \lambda Tv = T(\lambda v) = S(U+(\lambda v))
-$$
+\]
 
 
 +For some $u, v \in \text{range }T$,+
