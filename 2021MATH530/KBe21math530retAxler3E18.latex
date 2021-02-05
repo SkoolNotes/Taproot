@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7405)}}    % original
-%\rhead{\textrmlf{Compiled }\#7405\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7405\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7476)}}    % original
+%\rhead{\textrmlf{Compiled }\#7476\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7476\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -193,14 +193,14 @@ removed part of \(\text{null }T\) and lost no information.
 \hypertarget{forward-direction}{%
 \section{Forward Direction}\label{forward-direction}}
 
-\textasciitilde{} Intuitively, we can treat \(S \circ \pi\) as a single
-map and take a basis of \(V\) to the same place that \(T\) would, and
-the maps would be equal.
+Intuitively, we can treat \(S \circ \pi\) as a single map and take a
+basis of \(V\) to the same place that \(T\) would, and the maps would be
+equal.
 
-If \(V\) is finite dimensional, suppose \(v_1, \ldots, v_n\) is a basis
-of \(V\) and \(v_1, \ldots, v_k\) is a basis of \(U\)
-(\(k = \text{dim } U\) and \(n = \text{dim }V\)). For each
-\(k < j \le n\), \(\pi v_j \neq 0\), and we can control where \(S\)
+\textasciitilde If \(V\) is finite dimensional, suppose
+\(v_1, \ldots, v_n\) is a basis of \(V\) and \(v_1, \ldots, v_k\) is a
+basis of \(U\) (\(k = \text{dim } U\) and \(n = \text{dim }V\)). For
+each \(k < j \le n\), \(\pi v_j \neq 0\), and we can control where \(S\)
 should send it. Let \(S\) be defined by: \[ S( \pi v_j) = T v_j \] Then,
 \(S \circ \pi\) will send each vector in \(U\) to 0 and each other
 vector where \(T\) would send it. Because \(U \subseteq \text{null }T\),
@@ -218,8 +218,8 @@ For \(S\) to be linear, it needs to be additive and homogenous. For
 \[ S\pi u + S\pi v = Tu + Tv = T(u+v) = S(\pi u + \pi v) \]
 \[ \lambda S \pi u = \lambda T u = T(\lambda u) = S (\lambda \pi u) \]
 
-In other words, \(T\) is linear thus \(S \circ \pi\) is also linear.
-\textasciitilde{}
+In other words, \(T\) is linear thus \(S \circ \pi\) is also
+linear.\textasciitilde{}
 
 \hypertarget{define-su-v-t-v}{%
 \subsection{define S(U + v) = T v}\label{define-su-v-t-v}}
