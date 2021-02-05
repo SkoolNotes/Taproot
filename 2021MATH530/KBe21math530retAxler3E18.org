@@ -30,7 +30,9 @@ Let $S$ be a relation between $V/U$ and $W$ defined by
 
 If $S$ is well defined (every element in $V/U$ is mapped to exactly one place), then $S$ will inherit additivity and homogeneity from $T$ and $S \circ \pi$ will equal $T$.
 
-Let $v \in V$ and $v' \in V/U$ s.t. $v' = \pi v$ ($v'$ is where $\pi$ takes $v$). Then, to show that $S$ is well defined,
+Let $v \in V$ and $v' \in V/U$ s.t. $v' = \pi v$ ($v'$ is where $\pi$ takes $v$). Then, to show that $S$ is well defined, we must show that $v$ has atleast one and at most one image through $S \circ \pi$.
+
+Because
 
 +For some $u, v \in \text{range }T$,+
 
