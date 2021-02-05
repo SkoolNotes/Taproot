@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7606)}}    % original
-%\rhead{\textrmlf{Compiled }\#7606\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7606\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7607)}}    % original
+%\rhead{\textrmlf{Compiled }\#7607\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7607\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -328,5 +328,16 @@ only if direction.
 \(U \subseteq V\) and \(V/U\) is finite dimensional, show the existance
 of a subspace \(W\) s.t. \(\dim W = \dim V/U\) and
 \(V = U \oplus W\)}{For a quotient space V/U where U \textbackslash subseteq V and V/U is finite dimensional, show the existance of a subspace W s.t. \textbackslash dim W = \textbackslash dim V/U and V = U \textbackslash oplus W}}\label{for-a-quotient-space-vu-where-u-subseteq-v-and-vu-is-finite-dimensional-show-the-existance-of-a-subspace-w-s.t.-dim-w-dim-vu-and-v-u-oplus-w}}
+
+Let \(U = \{ v : v \notin U \}\).
+
+\hypertarget{vector-space}{%
+\subsection{vector space}\label{vector-space}}
+
+\hypertarget{dimension}{%
+\subsection{dimension}\label{dimension}}
+
+\hypertarget{direct-sum}{%
+\subsection{direct sum}\label{direct-sum}}
 
 \end{document}
