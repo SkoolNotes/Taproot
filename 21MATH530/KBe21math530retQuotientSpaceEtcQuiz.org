@@ -91,4 +91,4 @@
    If $V$ is finite dimensional, $\dim W = n - k = \dim V - \dim U$. This is equal to $\dim V/U$ by a result in the book.
 
 ** direct sum
-   The condition for a direct sum of two subspaces is that their intersection is zero. For some $u \in W$ s.t. $u \in U$,
+   The condition for a direct sum of two subspaces is that their intersection is zero. For some $u \in W$ s.t. $u \in U$, it can be written as $a_1v_1 + \cdots + a_kv_k$ and as $a_{k+1}v_{k+1} + \cdots + a_nv_n$.
