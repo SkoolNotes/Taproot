@@ -64,5 +64,6 @@
 	\max\{\text{dim null }S, \text{dim null }T\} \le \dim \text{null }ST = 0
 	\end{aligned}
 	\]
+	Thus, $\text{dim null }S, \text{dim null }T \le 0$, $S, T$ are injective, and invertible.
 
 ** $ST = I$ iff $TS = I$
