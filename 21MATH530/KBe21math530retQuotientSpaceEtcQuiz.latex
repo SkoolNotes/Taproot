@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7560)}}    % original
-%\rhead{\textrmlf{Compiled }\#7560\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7560\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7562)}}    % original
+%\rhead{\textrmlf{Compiled }\#7562\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7562\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -236,8 +236,12 @@ are shifted over) are the other elements in the space. The space is
 dimension one, since the copies can be shifted only in one orthoganal
 direction. A reasonable standard basis of the space is \(( U+(-2, 1) )\)
 
+\includegraphics{./KBe21math530srcQuotientSpaceExample1.png}
+
 In \(\mathbb R^3 / U\), the afine subsets extend out in two orthoganal
 directions. A reasonable standard basis is
 \(( U+ (-2, 1, 0), U+(0, 0, 1) )\).
+
+\includegraphics{./KBe21math530srcQuotientSpaceExample2.png}
 
 \end{document}
