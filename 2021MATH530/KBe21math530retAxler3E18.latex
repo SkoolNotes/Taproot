@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7482)}}    % original
-%\rhead{\textrmlf{Compiled }\#7482\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7482\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7483)}}    % original
+%\rhead{\textrmlf{Compiled }\#7483\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7483\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -227,7 +227,8 @@ If \(S\) is well defined (every element in \(V/U\) is mapped to exactly
 one place), then \(S\) will inherit additivity and homogeneity from
 \(T\) and \(S \circ \pi\) will equal \(T\).
 
-Let \(v \in V\). For some \(u, v \in \text{range }T\),
+Let \(v \in V\) and \(v' \in V/U\) s.t. \(v' = \pi v\) (\(v'\) is where
+π takes \(v\)). For some \(u, v \in \text{range }T\),
 
 \hypertarget{define-su-v-t-v}{%
 \subsection{define S(U + v) = T v}\label{define-su-v-t-v}}
