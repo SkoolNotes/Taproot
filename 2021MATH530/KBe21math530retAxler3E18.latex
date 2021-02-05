@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7504)}}    % original
-%\rhead{\textrmlf{Compiled }\#7504\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7504\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7505)}}    % original
+%\rhead{\textrmlf{Compiled }\#7505\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7505\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -241,40 +241,33 @@ definition of \(S\), each \(v\) must have atleast one image in \(W\).
 Take \(S\) to be an arbitrary linear map. The only restriction on \(S\)
 that could cause \(S(U+v) \neq Tv\) is \(S(0) = 0\) (this statement is
 not watertight). Thus, \(S\) is defined if \(\forall U+v = U = 0\),
-\(Tv = 0\). Equivalently, \(S\) is defined if \$
+\(Tv = 0\). Equivalently, \(S\) is defined if
+\(U \subseteq \text{null }T\), which is given in the problem.
 
-\sout{For some \(u, v \in \text{range }T\),}
+Thus, \(S\) is well defined. To show that it inherits additivity and
+homogeneity: \[
 
-\hypertarget{define-su-v-t-v}{%
-\subsection{define S(U + v) = T v}\label{define-su-v-t-v}}
++For some $u, v \in \text{range }T$,+
 
-\hypertarget{check-that-it-is-well-defined}{%
-\subsubsection{check that it is well
-defined}\label{check-that-it-is-well-defined}}
 
-\begin{enumerate}
-\item
-  every element is sent to exactly one place
-\end{enumerate}
+** define S(U + v) = T v
 
-\hypertarget{check-that-linearity-is-inhereted-from-t}{%
-\subsubsection{check that linearity is inhereted from
-T}\label{check-that-linearity-is-inhereted-from-t}}
+*** check that it is well defined
 
-\hypertarget{reverse-direction-by-contrapositive}{%
-\section{Reverse Direction by
-Contrapositive}\label{reverse-direction-by-contrapositive}}
+**** every element is sent to exactly one place
 
-Intuitively, if we lost information, then we can't reconstruct what
-\(T\) would do.
 
-Assume \(U \nsubseteq \text{null }T\). There exists \(v \in U\) s.t.
-\(Tv \neq 0\). This is some of the "information" that was "lost".
-Because \(v \in U\), \[ \pi v = U + v = U \] Because \(U\) is the
-additive identity (\(0\)) in \(V/U\), and because linear maps take zero
-to zero, \(S \in \mathcal L(V/U, W)\) must take \(\pi v = 0\) to zero.
-Thus, either \(S(\pi v) \neq Tv\) or \(S\) is not a linear map, both of
-which are contradictions.
+*** check that linearity is inhereted from T
+
+* Reverse Direction by Contrapositive
+  Intuitively, if we lost information, then we can't reconstruct what $T$ would do.
+
+  Assume $U \nsubseteq \text{null }T$. There exists $v \in U$ s.t. $Tv \neq 0$. This is some of the "information" that was "lost". Because $v \in U$,
+  \[ \pi v = U + v = U \] Because \(U\) is the additive identity (\(0\))
+in \(V/U\), and because linear maps take zero to zero,
+\(S \in \mathcal L(V/U, W)\) must take \(\pi v = 0\) to zero. Thus,
+either \(S(\pi v) \neq Tv\) or \(S\) is not a linear map, both of which
+are contradictions.
 
 This shows that if \(U \nsubseteq \text{null }T\), then
 \(S \notin \mathcal L(V/U, W)\) or \(T \neq S \circ \pi\). Thus, if

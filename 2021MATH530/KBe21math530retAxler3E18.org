@@ -37,7 +37,10 @@ Let $v \in V$ and $v' \in V/U$ s.t. $v' = \pi v$ ($v'$ is where $\pi$ takes $v$)
 Because $\pi v$ is well defined, and $U+v$ was arbitrary in the definition of $S$, each $v$ must have atleast one image in $W$.
 
 Take $S$ to be an arbitrary linear map. The only restriction on $S$ that could cause $S(U+v) \neq Tv$ is $S(0) = 0$ (this statement is not watertight).
-Thus, $S$ is defined if $\forall U+v = U = 0$, $Tv = 0$. Equivalently, $S$ is defined if $U \subseteq \text{null }T$
+Thus, $S$ is defined if $\forall U+v = U = 0$, $Tv = 0$. Equivalently, $S$ is defined if $U \subseteq \text{null }T$, which is given in the problem.
+
+Thus, $S$ is well defined. To show that it inherits additivity and homogeneity:
+\[
 
 +For some $u, v \in \text{range }T$,+
 
