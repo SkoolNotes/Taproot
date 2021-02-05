@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7502)}}    % original
-%\rhead{\textrmlf{Compiled }\#7502\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7502\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7503)}}    % original
+%\rhead{\textrmlf{Compiled }\#7503\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7503\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -240,7 +240,8 @@ definition of \(S\), each \(v\) must have atleast one image in \(W\).
 
 Take \(S\) to be an arbitrary linear map. The only restriction on \(S\)
 that could cause \(S(U+v) \neq Tv\) is \(S(0) = 0\) (this statement is
-not watertight). Thus,
+not watertight). Thus, \(S\) is defined iff \(\forall U+v = 0\),
+\(Tv = 0\). Equivalently, \(S\) is defined iff
 
 \sout{For some \(u, v \in \text{range }T\),}
 
