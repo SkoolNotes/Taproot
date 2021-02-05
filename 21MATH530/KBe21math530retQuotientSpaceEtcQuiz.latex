@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7531)}}    % original
-%\rhead{\textrmlf{Compiled }\#7531\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7531\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7532)}}    % original
+%\rhead{\textrmlf{Compiled }\#7532\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7532\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -188,9 +188,16 @@ An affine subset of a vector space \(V\) is of the form \(U + v\) where
 
 The product of some vector spaces \(V_1 \times \cdots \times V_n\) is
 the set of lists of vectors with one from each respective space:
-\[ \{ (v_1, \ldots, v_n) | v_1 \in V_1, \ldots, v_n \in V_n \} \]
+\[ \{ (v_1, \ldots, v_n) : v_1 \in V_1, \ldots, v_n \in V_n \} \]
 
 \hypertarget{quotient-space}{%
 \subsection{quotient space}\label{quotient-space}}
+
+A quotient space \(V/U\) is the set of affine subsets
+\(\{ U+v : v \in V \}\) (although some of those affine subsets are
+equivalent).
+
+\hypertarget{equivalence-relation}{%
+\subsection{equivalence relation}\label{equivalence-relation}}
 
 \end{document}
