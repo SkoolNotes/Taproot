@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7563)}}    % original
-%\rhead{\textrmlf{Compiled }\#7563\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7563\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7564)}}    % original
+%\rhead{\textrmlf{Compiled }\#7564\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7564\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -248,5 +248,7 @@ directions. A reasonable standard basis is
 \section{\texorpdfstring{Proove \(\dim V/U = \dim V - \dim U\) when
 \(V\) is a finite dim vec
 space}{Proove \textbackslash dim V/U = \textbackslash dim V - \textbackslash dim U when V is a finite dim vec space}}\label{proove-dim-vu-dim-v---dim-u-when-v-is-a-finite-dim-vec-space}}
+
+Let \(\pi \in \mathcal L(V, V/U)\) be defined by \[ \pi v = U+v \]
 
 \end{document}
