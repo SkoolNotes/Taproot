@@ -57,5 +57,6 @@
 	Because $\dim U \le n+m$, and $n = m = 0$, $\dim \text{null } ST = 0$ and $ST$ is injective, bijective, and invertible.
 
 *** only if
+	$ST$ is invertible implies $\dim \text{null }ST = 0$.
 
 ** $ST = I$ iff $TS = I$
