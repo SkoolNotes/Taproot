@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7532)}}    % original
-%\rhead{\textrmlf{Compiled }\#7532\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7532\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7533)}}    % original
+%\rhead{\textrmlf{Compiled }\#7533\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7533\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -199,5 +199,8 @@ equivalent).
 
 \hypertarget{equivalence-relation}{%
 \subsection{equivalence relation}\label{equivalence-relation}}
+
+An equivalence relation is a set of elements that are considered
+equivalent (equal to eachother).
 
 \end{document}
