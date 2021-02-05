@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7550)}}    % original
-%\rhead{\textrmlf{Compiled }\#7550\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7550\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7551)}}    % original
+%\rhead{\textrmlf{Compiled }\#7551\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7551\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -233,6 +233,6 @@ and any \(v \in U\) is equivalent to \(U+0\) or the line \(y=2x\), which
 is the additive identity. Parallel spaces ("copies" that are shifted
 over) are the other elements in the space. The space is dimension one,
 since the copies can be shifted only in one orthoganal direction. A
-basis of the space is \(( U+(-1, 2) )\)
+reasonable standard basis of the space is \(( U+(-2, 1) )\)
 
 \end{document}

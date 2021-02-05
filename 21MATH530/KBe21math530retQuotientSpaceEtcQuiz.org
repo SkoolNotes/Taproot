@@ -18,4 +18,4 @@
 * Examples of quotient spaces
   Let $U = \{ (x, y) : y = 2x; x, y \in \mathbb R \}$. In $\mathbb R^2 / U$, vectors are of the form $U + v$ where $v \in V$ and any $v \in U$ is equivalent to $U+0$ or the line $y=2x$, which is the additive identity.
   Parallel spaces ("copies" that are shifted over) are the other elements in the space. The space is dimension one, since the copies can be shifted only in one orthoganal direction.
-  A basis of the space is $( U+(-1, 2) )$
+  A reasonable standard basis of the space is $( U+(-2, 1) )$
