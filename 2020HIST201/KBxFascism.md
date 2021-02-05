@@ -30,7 +30,8 @@ usa teamed with the ssoviet union? to end nazi germany, then after the wwar it t
 germany had a bunch of treaties, coudnt pay stuff, ended up hyper inflating.
 
 
-
+american depressing hit, worldwide impacts, germany got hit especially hard,
+demagogue time!
 
 
 
