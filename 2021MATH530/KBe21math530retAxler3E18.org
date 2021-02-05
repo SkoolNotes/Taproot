@@ -26,7 +26,9 @@ Intuitively, we can treat $S \circ \pi$ as a single map and take a basis of $V$ 
     +In other words, $T$ is linear thus $S \circ \pi$ is also linear.+
 
 Let $S$ be a relation between $V/U$ and $W$ defined by
-\[ S(U+v) = Tv \]
+\[
+S(U+v) = Tv
+\]
 
 If $S$ is well defined (every element in $V/U$ is mapped to exactly one place), then $S$ will inherit additivity and homogeneity from $T$ and $S \circ \pi$ will equal $T$.
 

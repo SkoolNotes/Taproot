@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7501)}}    % original
-%\rhead{\textrmlf{Compiled }\#7501\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7501\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7502)}}    % original
+%\rhead{\textrmlf{Compiled }\#7502\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7502\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -222,8 +222,9 @@ For \(u, v \in V\) and \(\lambda \in \mathbb F\),}
 \sout{In other words, \(T\) is linear thus \(S \circ \pi\) is also
 linear.}
 
-Let \(S\) be a relation between \(V/U\) and \(W\) defined by
-\[ S(U+v) = Tv \]
+Let \(S\) be a relation between \(V/U\) and \(W\) defined by \[
+S(U+v) = Tv
+\]
 
 If \(S\) is well defined (every element in \(V/U\) is mapped to exactly
 one place), then \(S\) will inherit additivity and homogeneity from
