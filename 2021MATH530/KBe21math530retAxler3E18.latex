@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7476)}}    % original
-%\rhead{\textrmlf{Compiled }\#7476\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7476\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7477)}}    % original
+%\rhead{\textrmlf{Compiled }\#7477\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7477\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -196,6 +196,9 @@ removed part of \(\text{null }T\) and lost no information.
 Intuitively, we can treat \(S \circ \pi\) as a single map and take a
 basis of \(V\) to the same place that \(T\) would, and the maps would be
 equal.
+
+Let \(S : V/U \to W\) be defined by \[
+\]
 
 \textasciitilde If \(V\) is finite dimensional, suppose
 \(v_1, \ldots, v_n\) is a basis of \(V\) and \(v_1, \ldots, v_k\) is a
