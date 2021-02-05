@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7617)}}    % original
-%\rhead{\textrmlf{Compiled }\#7617\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7617\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7618)}}    % original
+%\rhead{\textrmlf{Compiled }\#7618\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7618\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -357,6 +357,7 @@ This is equal to \(\dim V/U\) by a result in the book.
 The condition for a direct sum of two subspaces is that their
 intersection is zero. For some \(u \in W\) s.t. \(u \in U\), it can be
 written as \(a_1v_1 + \cdots + a_kv_k\) and as
-\(a_{k+1}v_{k+1} + \cdots + a_nv_n\).
+\(a_{k+1}v_{k+1} + \cdots + a_nv_n\). \(v_1, \ldots, v_n\) is linearly
+independent so
 
 \end{document}
