@@ -10,4 +10,5 @@
 ** equivalence relation
    An equivalence relation is a set of elements that are considered equivalent (equal to eachother). For example, in a vector space $U$, $U+0 = U+u \forall u \in U$.
 * Why "product" and "quotient" are used to describe these operations
-  The product of vector spaces is essentially a cartesian product. With real num
+  The product of vector spaces is essentially a cartesian product. With real numbers, the product is like stacking copies of an operand in a new direction (product of two numbers for area of a plane, product of three for the volume of a space).
+  Here, we are doing essentially the same thing for vector spaces (each vector is combined within a list with other vector spaces, but they do not interact with eachotherand are
