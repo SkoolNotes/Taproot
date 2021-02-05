@@ -49,9 +49,6 @@ S(U+u) + S(U+v) = Tu + Tv = T(u+v) = S(U+u + U+v) = S(U+(u+v))
 
 Thus, $S$ is linear, and $S \circ \pi = T$ if $U \subseteq \text{null }T$.
 
-+For some $u, v \in \text{range }T$,+
-
-
 ** define S(U + v) = T v
 
 *** check that it is well defined

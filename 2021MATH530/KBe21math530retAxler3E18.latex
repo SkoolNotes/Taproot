@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7516)}}    % original
-%\rhead{\textrmlf{Compiled }\#7516\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7516\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7517)}}    % original
+%\rhead{\textrmlf{Compiled }\#7517\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7517\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -254,8 +254,6 @@ S(U+u) + S(U+v) = Tu + Tv = T(u+v) = S(U+u + U+v) = S(U+(u+v))
 
 Thus, \(S\) is linear, and \(S \circ \pi = T\) if
 \(U \subseteq \text{null }T\).
-
-\sout{For some \(u, v \in \text{range }T\),}
 
 \hypertarget{define-su-v-t-v}{%
 \subsection{define S(U + v) = T v}\label{define-su-v-t-v}}
