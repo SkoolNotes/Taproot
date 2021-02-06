@@ -19,7 +19,7 @@ Antiderivatives table
 |$\frac{1}{1+(ax)^2}$|$tan^-1(ax)$|
 | $\frac{a}{\sqrt{k^2-(ax)^2}}$ |$sin^-1(\frac{ax}{k})$  |
 | $\frac{-1}{\sqrt{k^2-(ax)^2}}$ | $cos^-1(\frac{ax}{k})$ |
-|$\int f(x)g'(x) dx$|$f(x)g(x)+\int f'(x)g(x) dx$|
+|$\int f(x)g'(x) dx$|$f(x)g(x)+\int f'(x)g(x) dx$ With this one, try to make f(x) the simpler derivative, and g(x) the simpler antiderivative|
 
 ## Useful thing
 * Intergration by Parts (reverse product rule) (the f(x)g'(x) rule above)
