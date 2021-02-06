@@ -19,3 +19,8 @@ Antiderivatives table
 |$\frac{1}{1+(ax)^2}$|$tan^-1(ax)$|
 | $\frac{a}{\sqrt{k^2-(ax)^2}}$ |$sin^-1(\frac{ax}{k})$  |
 | $\frac{-1}{\sqrt{k^2-(ax)^2}}$ | $cos^-1(\frac{ax}{k})$ |
+
+## Useful thing
+* Intergration by Parts (reverse product rule)
+* u-Substitution (reverse chain rule)
+* Compleeting the Square + a
