@@ -23,4 +23,5 @@ Antiderivatives table
 ## Useful thing
 * Intergration by Parts (reverse product rule)
 * u-Substitution (reverse chain rule)
-* Compleeting the Square + a
+* Compleeting the Square + arcsin/arctan
+* Long divide, then intergrate

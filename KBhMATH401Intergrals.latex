@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7621)}}    % original
-%\rhead{\textrmlf{Compiled }\#7621\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7621\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7622)}}    % original
+%\rhead{\textrmlf{Compiled }\#7622\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7622\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -205,7 +205,13 @@ Function & Antidervative \\ \addlinespace
 \begin{itemize}
 \tightlist
 \item
-  Intergration by Par
+  Intergration by Parts (reverse product rule)
+\item
+  u-Substitution (reverse chain rule)
+\item
+  Compleeting the Square + arcsin/arctan
+\item
+  Long divide, then intergrate
 \end{itemize}
 
 \end{document}
