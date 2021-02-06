@@ -22,7 +22,7 @@ Antiderivatives table
 |$\int f(x)g'(x) dx$|$f(x)g(x)+\int f'(x)g(x) dx$|
 
 ## Useful thing
-* Intergration by Parts (reverse product rule)
+* Intergration by Parts (reverse product rule) (the f(x)g'(x) rule above)
 * u-Substitution (reverse chain rule)
 * Compleeting the Square + arcsin/arctan
 * Long divide, then intergrate
