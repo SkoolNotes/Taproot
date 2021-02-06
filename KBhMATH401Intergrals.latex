@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7626)}}    % original
-%\rhead{\textrmlf{Compiled }\#7626\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7626\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7627)}}    % original
+%\rhead{\textrmlf{Compiled }\#7627\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7627\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -198,6 +198,7 @@ Function & Antidervative \\ \addlinespace
 \(sin^-1(\frac{ax}{k})\) \\ \addlinespace
 \(\frac{-1}{\sqrt{k^2-(ax)^2}}\) &
 \(cos^-1(\frac{ax}{k})\) \\ \addlinespace
+\(ln(x)\) & \(xln(x)-x\) \\ \addlinespace
 \(\int f(x)g'(x) dx\) & \(f(x)g(x)+\int f'(x)g(x) dx\) With this one,
 try to make f(x) the simpler derivative, and g(x) the simpler
 antiderivative \\ \addlinespace
