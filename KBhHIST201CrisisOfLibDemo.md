@@ -26,4 +26,5 @@ Liquitity crisis: elements of mobile society becomes fix/stuck
 	- Diversion of bubles => anarchic response in global markets: every country trying to protect themselves and hence hurting the collective
 	
 ## Amercian Financing
+- US funds attempted to force German industrial expansion and recovery
 - 
