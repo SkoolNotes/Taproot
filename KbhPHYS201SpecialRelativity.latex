@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7669)}}    % original
-%\rhead{\textrmlf{Compiled }\#7669\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7669\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7670)}}    % original
+%\rhead{\textrmlf{Compiled }\#7670\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7670\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -220,5 +220,12 @@
   uniformly translating to another coordinate system of the same type
   that itself is uniformly translated uniformly
 \end{itemize}
+
+\hypertarget{the-principle-of-relativity-not-the-theory-of-relativity}{%
+\subsection{The Principle of Relativity (not the theory of
+relativity)}\label{the-principle-of-relativity-not-the-theory-of-relativity}}
+
+Laws of Classical Physics should be the same in all inertial refrence
+frame
 
 \end{document}
