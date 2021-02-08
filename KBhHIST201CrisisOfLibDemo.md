@@ -19,4 +19,4 @@ Liquitity crisis: elements of mobile society becomes fix/stuck
 
 ## Agricultural Crisis
 - Agriculture requires the ability to take debt: that you need money to plant, and you get return in the end
-- During the debt buying progress
+- During a system of overproduction, governments has to "pay people not to work." Meaning, governments like the US had to buy up supply and start burning them.
