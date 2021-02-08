@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7733)}}    % original
-%\rhead{\textrmlf{Compiled }\#7733\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7733\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7734)}}    % original
+%\rhead{\textrmlf{Compiled }\#7734\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7734\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,5 +180,7 @@
 
 No response from one contact. Reach out to programs and ask teachers ---
 trails are cold.
+
+Problem: \textbf{nueva 1st graders are too advanced}
 
 \end{document}

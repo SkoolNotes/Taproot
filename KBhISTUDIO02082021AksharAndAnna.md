@@ -8,6 +8,11 @@ course: iSTUDIO
 # Summerstamp Check-in
 No response from one contact. Reach out to programs and ask teachers — trails are cold.
 
+Problem: **nueva 1st graders are too advanced**
+
+
+
+
 
 
 
