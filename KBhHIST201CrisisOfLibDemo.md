@@ -31,4 +31,6 @@ Liquitity crisis: elements of mobile society becomes fix/stuck
 
 "The New Deal Programs" => some say that there is a hinderance to the economy
 
-Instead of having money go into the economy, US credit system caused "speculative bubbles": bubbles that are caused by traders speculating individuals' will to buy something. i.e. Florida real estate + stock markets
+Instead of having money go into the economy, US credit system caused "speculative bubbles": bubbles that are caused by traders speculating individuals' will to buy something. i.e. Florida real estate + stock markets.
+
+Margin trading began: a lot of investors are making a bubble through bollow
