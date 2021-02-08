@@ -6,6 +6,8 @@ course: iSTUDIO
 ---
 
 # Summerstamp Check-in
-No response from one contact.
+No response from one contact. Reach out to programs and ask teachers — trails are cold.
+
+
 
 
