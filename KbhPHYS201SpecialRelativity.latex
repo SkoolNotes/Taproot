@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7668)}}    % original
-%\rhead{\textrmlf{Compiled }\#7668\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7668\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7669)}}    % original
+%\rhead{\textrmlf{Compiled }\#7669\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7669\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -215,6 +215,10 @@
     Hence, it would seem like a force would be wildly acting upon all
     objects around Earth for their velocity to accelerate rapidly
   \end{itemize}
+\item
+  If an object is translating through one coordinate system, it would be
+  uniformly translating to another coordinate system of the same type
+  that itself is uniformly translated uniformly
 \end{itemize}
 
 \end{document}

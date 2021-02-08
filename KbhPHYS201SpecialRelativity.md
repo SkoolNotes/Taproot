@@ -17,3 +17,4 @@ author: Houjun Liu
 	* The rotationon of the Earth, if we set the coornate 0,0 at the center of Earth,  causes everything around earth to seem to be rapidly rotating around earth
 	* Hence, it would seem like a force would be wildly acting upon all objects around Earth for their velocity to accelerate rapidly
 
+- If an object is translating through one coordinate system, it would be uniformly translating to another coordinate system of the same type that itself is uniformly translated uniformly 
