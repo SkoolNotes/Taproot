@@ -33,4 +33,4 @@ Liquitity crisis: elements of mobile society becomes fix/stuck
 
 Instead of having money go into the economy, US credit system caused "speculative bubbles": bubbles that are caused by traders speculating individuals' will to buy something. i.e. Florida real estate + stock markets.
 
-Margin trading began: a lot of investors are making a bubble through bollow
+Margin trading began: a lot of investors are making a bubble through margins
