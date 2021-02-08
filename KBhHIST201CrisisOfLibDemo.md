@@ -39,3 +39,5 @@ John Keens proposes that captalism is not self-regulating because of the humanis
 
 ## Tom's Depression Vortex
 Crisis of liquitity and underconsumption structural crisis
+
+- 
