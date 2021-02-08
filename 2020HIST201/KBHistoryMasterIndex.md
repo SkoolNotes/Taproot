@@ -141,6 +141,8 @@ source: #index
 - [[KBxMason10]]
 - [[KBxFascism]]
 
+- [[KBhHIST201CrisisOfLibDemo]]
+
 ### Essays 
 
 - [[KBxWW1EssayPlanning]]
