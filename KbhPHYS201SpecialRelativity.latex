@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7677)}}    % original
-%\rhead{\textrmlf{Compiled }\#7677\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7677\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7678)}}    % original
+%\rhead{\textrmlf{Compiled }\#7678\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7678\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -249,5 +249,10 @@ like the motion w.r.t. any frame is governed by the same law. i.e.~if
 you are on earth, your velocity flips (you go around the sun) every half
 a year. But, w.r.t. earth's frame at any time of the year, physics is no
 different. So\ldots{}
+
+{[}{[}Pasted image 20210208105746.png{]}{]}
+
+Maxwell's equations of electromanitism. Speed of a wave:
+\(\frac{1}{\sqrt{\Epsi}}\)
 
 \end{document}

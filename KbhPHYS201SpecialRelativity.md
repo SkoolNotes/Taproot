@@ -32,4 +32,7 @@ There is no true rest frame of the universe; because if so, the theories of mech
 
 However, measuring the motions of dfferent celestial bodies, it seems like the motion w.r.t. any frame is governed by the same law. i.e. if you are on earth, your velocity flips (you go around the sun) every half a year. But, w.r.t. earth's frame at any time of the year, physics is no different. So...
 
+![[Pasted image 20210208105746.png]]
+
+Maxwell's equations of electromanitism. Speed of a wave: $\frac{1}{\sqrt{\Epsilon_0 \Mu_0}}$
 
