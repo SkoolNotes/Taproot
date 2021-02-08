@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7662)}}    % original
-%\rhead{\textrmlf{Compiled }\#7662\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7662\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7663)}}    % original
+%\rhead{\textrmlf{Compiled }\#7663\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7663\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -196,7 +196,6 @@
 \subsection{Space and Time}\label{space-and-time}}
 
 \begin{itemize}
-\tightlist
 \item
   Because it is impossible to observe a result independent of a
   refrenece point, each observe would idealy want a clock of identical
@@ -204,6 +203,8 @@
 \item
   Laws of inertia (newton's first law) is not true for every coordinate
   system
+\item
+  The rotationon of the Earth
 \end{itemize}
 
 \end{document}
