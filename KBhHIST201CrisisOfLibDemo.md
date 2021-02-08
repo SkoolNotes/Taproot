@@ -30,3 +30,5 @@ Liquitity crisis: elements of mobile society becomes fix/stuck
 - Governments, using this fund, tries to legitamate themselves by stimulating inflation and creating fancy things
 
 "The New Deal Programs" => some say that there is a hinderance to the economy
+
+Instead of 
