@@ -1,3 +1,10 @@
 ---
 title: The Crisis of the Liberal Democracy
-source: [[KBhHIST201CrisisOfLibDemo]]
+source: KBHistoryMasterIndex
+course: HIST201
+author: Houjun Liu
+---
+
+# Crisis of Liberal Democracy
+
+
