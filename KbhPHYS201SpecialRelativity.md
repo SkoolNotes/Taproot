@@ -39,3 +39,5 @@ Maxwell's equations of electromanitism. Speed of a ~~wave~~ light: $\frac{1}{\sq
 
 But... relative to what? It seems like this is a ground truth relative to some mysterious $K_0$, which, shoulden't exist.
 
+
+
