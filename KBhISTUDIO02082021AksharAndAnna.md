@@ -12,6 +12,8 @@ Problem: **nueva 1st graders are too advanced**
 
 Reach out the ravenswood school district.
 
+=> **!!!!ASK AVI FOR !!!!**
+
 
 
 
