@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7671)}}    % original
-%\rhead{\textrmlf{Compiled }\#7671\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7671\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7672)}}    % original
+%\rhead{\textrmlf{Compiled }\#7672\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7672\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -221,11 +221,21 @@
   that itself is uniformly translated uniformly
 \end{itemize}
 
-\hypertarget{the-principle-of-relativity-not-the-theory-of-relativity}{%
-\subsection{The Principle of Relativity (not the theory of
-relativity)}\label{the-principle-of-relativity-not-the-theory-of-relativity}}
+\hypertarget{the-principle-of-relativity}{%
+\subsection{The Principle of
+Relativity}\label{the-principle-of-relativity}}
+
+\textbf{Note: this is not the theory of relativity}
 
 \emph{Laws of Physics should be the same in all inertial refrence
 frame.}
+
+\begin{itemize}
+\tightlist
+\item
+  Classical mechanics =\textgreater{} does apply
+\item
+  Electromagnatism =\textgreater{} not sure
+\end{itemize}
 
 \end{document}
