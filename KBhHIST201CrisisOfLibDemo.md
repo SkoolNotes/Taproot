@@ -56,3 +56,5 @@ Depression began as a fundimental crisis for western style democracy
 In times of chaos, clear central control is needed from current government.
 
 When traditional conservatives decide that radical conservatives are "Generally Acceptable", societies collapse and power wil move to the "wild side".
+
+Desperate people are easy picking are demagogues. So to enable global peace, make people less desperate.
