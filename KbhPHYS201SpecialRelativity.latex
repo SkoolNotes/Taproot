@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7692)}}    % original
-%\rhead{\textrmlf{Compiled }\#7692\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7692\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7693)}}    % original
+%\rhead{\textrmlf{Compiled }\#7693\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7693\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -279,6 +279,7 @@ However, how do we know that light travels at the same speed from two
 directions? Well, because Relativity Depends on this, we choose that
 this is true.
 
-The
+Furthermore, if two events are simutaneous to one axis M, they cannot be
+simutaneous on another axis M'.
 
 \end{document}
