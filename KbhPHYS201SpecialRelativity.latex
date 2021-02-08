@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7675)}}    % original
-%\rhead{\textrmlf{Compiled }\#7675\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7675\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7676)}}    % original
+%\rhead{\textrmlf{Compiled }\#7676\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7676\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -240,9 +240,13 @@ frame.}
 
 There is no true rest frame of the universe; because if so, the theories
 of mechanics would be ``wrong'' in all other systems other than the rest
-frame and will need adjustment.
+frame and will need adjustment. Furthermore, if there is a rest frame,
+the ``physics'' on the moving frame would need to account for the
+velocity of the moving frame.
 
 However, measuring the motions of dfferent celestial bodies, it seems
-like the motion w.r.t. any frame is governee
+like the motion w.r.t. any frame is governed by the same law. i.e.~if
+you are on earth, your velocity flips (you go around the sun) every half
+a year. But, w.r.t. earth's frame, pcyisics is no different.
 
 \end{document}
