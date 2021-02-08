@@ -14,7 +14,7 @@ Reach out the ravenswood school district.
 
 => **!!!!ASK AVI FOR GETTING A PROGRAMMING PERSON !!!!**
 
-=> **!!!!ASK !!!!**
+=> **!!!!ASK FOR !!!!**
 
 
 
