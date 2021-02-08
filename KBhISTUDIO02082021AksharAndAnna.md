@@ -1,6 +1,11 @@
 ---
-title: iStudio s
+title: iStudio Summerstanp Check-in
+source: KBhISTUDIOCheckins
+author: Houjun Liu
+course: iSTUDIO
+---
 
-No response from one lead
+# Summerstamp Check-in
+No response from one contact.
 
 
