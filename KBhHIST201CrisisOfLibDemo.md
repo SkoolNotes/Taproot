@@ -27,4 +27,4 @@ Liquitity crisis: elements of mobile society becomes fix/stuck
 	
 ## Amercian Financing
 - US funds attempted to force German industrial expansion and recovery
-- 
+- Governments, using this fund, tries to legitamate themselves by stimulating inflation and creating fancy things
