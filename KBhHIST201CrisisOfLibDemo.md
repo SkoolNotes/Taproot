@@ -33,4 +33,6 @@ Liquitity crisis: elements of mobile society becomes fix/stuck
 
 Instead of having money go into the economy, US credit system caused "speculative bubbles": bubbles that are caused by traders speculating individuals' will to buy something. i.e. Florida real estate + stock markets.
 
-Margin trading began: a lot of investors are making a bubble through margins
+Margin trading began: a lot of investors are making a bubble through margins. 
+
+John Keens proposes that captalism is not self-regulating because of the humanistic, animalistic emotions within the marget.
