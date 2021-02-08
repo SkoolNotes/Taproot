@@ -15,3 +15,4 @@ author: Houjun Liu
 - When popular support becomes undefeated 
 
 
+Liquitity crisis: elements of mobile society becomes fix/stuck
