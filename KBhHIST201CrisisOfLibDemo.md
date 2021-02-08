@@ -45,3 +45,5 @@ Crisis of liquitity and underconsumption structural crisis
 - People with lower demand deciedes that they are better off buying more things
 - Factories will then buy less
 - Repeat sadness
+
+Depression began as a fundimental crisis for western style de
