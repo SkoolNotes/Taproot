@@ -40,4 +40,8 @@ John Keens proposes that captalism is not self-regulating because of the humanis
 ## Tom's Depression Vortex
 Crisis of liquitity and underconsumption structural crisis
 
-- 
+- Factories close down, workers laid off
+- Poverty => lower demand for both consumer goods and food
+- People with lower demand deciedes that they are better off buying more things
+- Factories will then buy less
+- Repeat sadness
