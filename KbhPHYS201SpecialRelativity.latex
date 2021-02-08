@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7656)}}    % original
-%\rhead{\textrmlf{Compiled }\#7656\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7656\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7657)}}    % original
+%\rhead{\textrmlf{Compiled }\#7657\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7657\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -190,6 +190,13 @@
   tricky
 \item
   Human senses also have certanty
+\end{itemize}
+
+\hypertarget{section}{%
+\subsection{}\label{section}}
+
+\begin{itemize}
+\tightlist
 \item
 \end{itemize}
 
