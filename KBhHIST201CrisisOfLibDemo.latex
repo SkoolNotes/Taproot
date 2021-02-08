@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7702)}}    % original
-%\rhead{\textrmlf{Compiled }\#7702\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7702\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7703)}}    % original
+%\rhead{\textrmlf{Compiled }\#7703\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7703\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -210,6 +210,7 @@ Liquitity crisis: elements of mobile society becomes fix/stuck
   Agriculture requires the ability to take debt: that you need money to
   plant, and you get return in the end
 \item
+  During
 \end{itemize}
 
 \end{document}
