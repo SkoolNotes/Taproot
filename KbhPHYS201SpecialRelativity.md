@@ -28,4 +28,6 @@ _Laws of Physics should be the same in all inertial refrence frame._
 - Electromagnatism => not sure
 
 
-If the principle of relativity were not to be true,
+There is no true rest frame of the universe; because if so, the theories of mechanics would be "wrong" in all other systems other than the rest frame and will need adjustment.
+
+However, measuring the motions of dfferent celestial bodies, it seems like the motion w.r.t. any frame is governed by the same law.

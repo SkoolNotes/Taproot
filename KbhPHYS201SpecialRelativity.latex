@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7674)}}    % original
-%\rhead{\textrmlf{Compiled }\#7674\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7674\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7675)}}    % original
+%\rhead{\textrmlf{Compiled }\#7675\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7675\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -238,6 +238,11 @@ frame.}
   Electromagnatism =\textgreater{} not sure
 \end{itemize}
 
-If the principle of relativity were not to be true,
+There is no true rest frame of the universe; because if so, the theories
+of mechanics would be ``wrong'' in all other systems other than the rest
+frame and will need adjustment.
+
+However, measuring the motions of dfferent celestial bodies, it seems
+like the motion w.r.t. any frame is governee
 
 \end{document}
