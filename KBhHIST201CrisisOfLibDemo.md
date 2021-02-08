@@ -36,3 +36,6 @@ Instead of having money go into the economy, US credit system caused "speculativ
 Margin trading began: a lot of investors are making a bubble through margins. 
 
 John Keens proposes that captalism is not self-regulating because of the humanistic, animalistic emotions within the marget.
+
+## Tom's Depression Vortex
+Crisis of liquitity and underconsumption structural crisis
