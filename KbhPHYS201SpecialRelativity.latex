@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7661)}}    % original
-%\rhead{\textrmlf{Compiled }\#7661\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7661\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7662)}}    % original
+%\rhead{\textrmlf{Compiled }\#7662\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7662\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -202,6 +202,8 @@
   refrenece point, each observe would idealy want a clock of identical
   construction
 \item
+  Laws of inertia (newton's first law) is not true for every coordinate
+  system
 \end{itemize}
 
 \end{document}
