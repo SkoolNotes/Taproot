@@ -29,4 +29,4 @@ Liquitity crisis: elements of mobile society becomes fix/stuck
 - US funds attempted to force German industrial expansion and recovery
 - Governments, using this fund, tries to legitamate themselves by stimulating inflation and creating fancy things
 
-"The New Deal E"
+"The New Deal Programs" => some say that there is a hinderance to the economy
