@@ -42,6 +42,7 @@ But... relative to what? It seems like this is a ground truth relative to some m
 So how do we reconcile Relativistic principles and the theory of light?
 
 ## The Theory of Relativity
+### When does the same time happen?
 
 
 

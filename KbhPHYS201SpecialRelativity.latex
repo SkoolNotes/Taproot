@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7687)}}    % original
-%\rhead{\textrmlf{Compiled }\#7687\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7687\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7688)}}    % original
+%\rhead{\textrmlf{Compiled }\#7688\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7688\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -267,5 +267,9 @@ So how do we reconcile Relativistic principles and the theory of light?
 
 \hypertarget{the-theory-of-relativity}{%
 \subsection{The Theory of Relativity}\label{the-theory-of-relativity}}
+
+\hypertarget{when-does-the-same-time-happen}{%
+\subsubsection{When does the same time
+happen?}\label{when-does-the-same-time-happen}}
 
 \end{document}
