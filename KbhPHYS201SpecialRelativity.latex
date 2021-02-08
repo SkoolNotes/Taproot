@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7673)}}    % original
-%\rhead{\textrmlf{Compiled }\#7673\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7673\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7674)}}    % original
+%\rhead{\textrmlf{Compiled }\#7674\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7674\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -238,6 +238,6 @@ frame.}
   Electromagnatism =\textgreater{} not sure
 \end{itemize}
 
-If the principle of relativity were not to be true.
+If the principle of relativity were not to be true,
 
 \end{document}

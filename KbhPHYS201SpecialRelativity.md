@@ -28,4 +28,4 @@ _Laws of Physics should be the same in all inertial refrence frame._
 - Electromagnatism => not sure
 
 
-If the principle of relativity were not to be true.
+If the principle of relativity were not to be true,
