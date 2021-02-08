@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7658)}}    % original
-%\rhead{\textrmlf{Compiled }\#7658\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7658\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7659)}}    % original
+%\rhead{\textrmlf{Compiled }\#7659\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7659\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -198,7 +198,7 @@
 \begin{itemize}
 \tightlist
 \item
-  Because it is impossible to observe a result that's different
+  Because it is impossible to observe a result
 \end{itemize}
 
 \end{document}

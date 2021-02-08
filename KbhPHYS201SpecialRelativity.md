@@ -12,4 +12,4 @@ author: Houjun Liu
 * Human senses also have certanty
 
 ## Space and Time
-* Because it is impossible to observe a result that's different
+* Because it is impossible to observe a result 
