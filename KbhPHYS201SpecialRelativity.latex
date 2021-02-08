@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7655)}}    % original
-%\rhead{\textrmlf{Compiled }\#7655\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7655\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7656)}}    % original
+%\rhead{\textrmlf{Compiled }\#7656\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7656\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,6 +179,7 @@
 \section{Special Relativity}\label{special-relativity}}
 
 \begin{itemize}
+\tightlist
 \item
   If events are apart for observers to see, two observers have to record
   the time and compare notes
@@ -190,10 +191,6 @@
 \item
   Human senses also have certanty
 \item
-  \begin{itemize}
-  \tightlist
-  \item
-  \end{itemize}
 \end{itemize}
 
 \end{document}
