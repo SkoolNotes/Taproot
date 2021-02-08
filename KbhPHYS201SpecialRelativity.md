@@ -15,4 +15,5 @@ author: Houjun Liu
 * Because it is impossible to observe a result independent of a refrenece point, each observe would idealy want a clock of identical construction
 * Laws of inertia (newton's first law) is not true for every coordinate system, i.e....
 	* The rotationon of the Earth
+	* 
 
