@@ -54,3 +54,5 @@ Depression began as a fundimental crisis for western style democracy
 - Accepts life as a hero's struggle: that one thing — the all-powerful state — should unlock the heroism in other people
 
 In times of chaos, clear central control is needed from current government.
+
+When traditional conservatives decide that radical cons
