@@ -45,7 +45,9 @@ So how do we reconcile Relativistic principles and the theory of light?
 ### When does the same time happen?
 Put a guy at the midpoint of two things, put up some mirrors, and observe if two things happen at once.
 
-However, how do we know that light travels at the same speed from two directions? Well, because Relativity de
+However, how do we know that light travels at the same speed from two directions? Well, because Relativity Depends on this, we choose that this is true.
+
+The 
 
 
 
