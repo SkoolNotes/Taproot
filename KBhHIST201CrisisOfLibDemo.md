@@ -46,4 +46,7 @@ Crisis of liquitity and underconsumption structural crisis
 - Factories will then buy less
 - Repeat sadness
 
-Depression began as a fundimental crisis for western style de
+Depression began as a fundimental crisis for western style democracy
+
+## Fashism
+- Rejection of material 
