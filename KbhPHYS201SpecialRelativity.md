@@ -37,7 +37,7 @@ However, measuring the motions of dfferent celestial bodies, it seems like the m
 ### Light
 Maxwell's equations of electromanitism. Speed of a ~~wave~~ light: $\frac{1}{\sqrt{\epsilon_0 \mu_0}} = ~300,000km/s$
 
-But... relative to what? It seems like this is a ground truth relative to some mysterious $K_0$, which, shoulden't exist. Furthermore
+But... relative to what? It seems like this is a ground truth relative to some mysterious $K_0$, which, shoulden't exist. Meaning, the speed of light should be inconsistent based on which set of rules you are observing
 
 
 

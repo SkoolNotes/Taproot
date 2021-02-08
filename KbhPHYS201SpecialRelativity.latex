@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7685)}}    % original
-%\rhead{\textrmlf{Compiled }\#7685\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7685\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7686)}}    % original
+%\rhead{\textrmlf{Compiled }\#7686\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7686\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -259,7 +259,8 @@ Maxwell's equations of electromanitism. Speed of a \sout{wave} light:
 \(\frac{1}{\sqrt{\epsilon_0 \mu_0}} = ~300,000km/s\)
 
 But\ldots{} relative to what? It seems like this is a ground truth
-relative to some mysterious \(K_0\), which, shoulden't exist.
-Furthermore
+relative to some mysterious \(K_0\), which, shoulden't exist. Meaning,
+the speed of light should be inconsistent based on which set of rules
+you are observing
 
 \end{document}
