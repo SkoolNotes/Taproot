@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7667)}}    % original
-%\rhead{\textrmlf{Compiled }\#7667\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7667\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7668)}}    % original
+%\rhead{\textrmlf{Compiled }\#7668\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7668\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -212,7 +212,8 @@
     center of Earth, causes everything around earth to seem to be
     rapidly rotating around earth
   \item
-    Hence, it would seem like everything
+    Hence, it would seem like a force would be wildly acting upon all
+    objects around Earth for their velocity to accelerate rapidly
   \end{itemize}
 \end{itemize}
 
