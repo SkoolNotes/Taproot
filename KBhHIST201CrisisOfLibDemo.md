@@ -14,6 +14,6 @@ author: Houjun Liu
 - When promises go unchecked or undelivered
 - When promises becomes overdelievered
 - When central tenants of demcracy were extrinsically distrubed
-- When individuals change their behavi
+- When police and millitary becomes over-controlling
 
 
