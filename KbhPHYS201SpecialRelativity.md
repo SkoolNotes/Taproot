@@ -34,5 +34,8 @@ However, measuring the motions of dfferent celestial bodies, it seems like the m
 
 ![[Pasted image 20210208105746.png]]
 
+### Light
 Maxwell's equations of electromanitism. Speed of a ~~wave~~ light: $\frac{1}{\sqrt{\epsilon_0 \mu_0}}$
+
+But... relative to what? It seems like this is a ground truth
 
