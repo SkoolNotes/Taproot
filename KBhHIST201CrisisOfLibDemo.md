@@ -19,4 +19,4 @@ Liquitity crisis: elements of mobile society becomes fix/stuck
 
 ## Agricultural Crisis
 - Agriculture requires the ability to take debt: that you need money to plant, and you get return in the end
-- During 
+- During the debt buying progress
