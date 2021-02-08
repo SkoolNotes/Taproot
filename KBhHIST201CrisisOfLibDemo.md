@@ -24,3 +24,6 @@ Liquitity crisis: elements of mobile society becomes fix/stuck
 	- Protectionism
 	- Tightening credit/payback
 	- Diversion of bubles => anarchic response in global markets: every country trying to protect themselves and hence hurting the collective
+	
+## Amercian Financing
+- 
