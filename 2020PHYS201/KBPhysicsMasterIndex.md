@@ -42,6 +42,9 @@ source: #index
 # Nuclear Physics
 - [[KBhPHYS201NuclearPhysics]] 
 
+# Relativity
+- [[KbhPHYS201SpecialRelativity]]
+
 # References
 * [[KBPHYS201ZachsPhysicsNotesForTest]] Physics quiz Notes
 
