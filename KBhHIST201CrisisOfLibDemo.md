@@ -49,4 +49,5 @@ Crisis of liquitity and underconsumption structural crisis
 Depression began as a fundimental crisis for western style democracy
 
 ## Fashism
-- Rejection of material 
+- Rejection of material economy
+- Accepts life as a hero's struggle: that one thing — the all-powerful state — should unlock the 
