@@ -30,4 +30,6 @@ _Laws of Physics should be the same in all inertial refrence frame._
 
 There is no true rest frame of the universe; because if so, the theories of mechanics would be "wrong" in all other systems other than the rest frame and will need adjustment. Furthermore, if there is a rest frame, the "physics" on the moving frame would need to account for the velocity of the moving frame.
 
-However, measuring the motions of dfferent celestial bodies, it seems like the motion w.r.t. any frame is governed by the same law. i.e. if you are on earth, your velocity flips (you go around the sun) every half a year. But, w.r.t. earth's frame, pcyisics is no different. So...
+However, measuring the motions of dfferent celestial bodies, it seems like the motion w.r.t. any frame is governed by the same law. i.e. if you are on earth, your velocity flips (you go around the sun) every half a year. But, w.r.t. earth's frame at any time of the year, physics is no different. So...
+
+
