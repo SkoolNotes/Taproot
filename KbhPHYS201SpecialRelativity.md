@@ -12,4 +12,4 @@ author: Houjun Liu
 * Human senses also have certanty
 
 ## Space and Time
-* Because it is impossible to observe a result 
+* Because it is impossible to observe a result independent of a refrenece point, each observe would idealy want a clock of ident
