@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7653)}}    % original
-%\rhead{\textrmlf{Compiled }\#7653\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7653\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7654)}}    % original
+%\rhead{\textrmlf{Compiled }\#7654\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7654\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -179,7 +179,6 @@
 \section{Special Relativity}\label{special-relativity}}
 
 \begin{itemize}
-\tightlist
 \item
   If events are apart for observers to see, two observers have to record
   the time and compare notes
@@ -187,7 +186,9 @@
   It will take time (sound/light) from an event to get from the event to
   the observer; the travel time needs to be taken into account, and if
   the objects are moving, calculating time travel would be extremely
-  trickly.
+  tricky
+\item
+  A physics
 \end{itemize}
 
 \end{document}
