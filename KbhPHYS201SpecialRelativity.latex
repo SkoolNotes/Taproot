@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7686)}}    % original
-%\rhead{\textrmlf{Compiled }\#7686\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7686\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7687)}}    % original
+%\rhead{\textrmlf{Compiled }\#7687\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7687\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -252,8 +252,8 @@ different. So\ldots{}
 
 {[}{[}Pasted image 20210208105746.png{]}{]}
 
-\hypertarget{light}{%
-\subsubsection{Light}\label{light}}
+\hypertarget{but-light}{%
+\subsubsection{But Light}\label{but-light}}
 
 Maxwell's equations of electromanitism. Speed of a \sout{wave} light:
 \(\frac{1}{\sqrt{\epsilon_0 \mu_0}} = ~300,000km/s\)
@@ -261,6 +261,11 @@ Maxwell's equations of electromanitism. Speed of a \sout{wave} light:
 But\ldots{} relative to what? It seems like this is a ground truth
 relative to some mysterious \(K_0\), which, shoulden't exist. Meaning,
 the speed of light should be inconsistent based on which set of rules
-you are observing
+you are observing. But it isn't.
+
+So how do we reconcile Relativistic principles and the theory of light?
+
+\hypertarget{the-theory-of-relativity}{%
+\subsection{The Theory of Relativity}\label{the-theory-of-relativity}}
 
 \end{document}
