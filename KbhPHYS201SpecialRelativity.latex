@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7688)}}    % original
-%\rhead{\textrmlf{Compiled }\#7688\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7688\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7689)}}    % original
+%\rhead{\textrmlf{Compiled }\#7689\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7689\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -271,5 +271,10 @@ So how do we reconcile Relativistic principles and the theory of light?
 \hypertarget{when-does-the-same-time-happen}{%
 \subsubsection{When does the same time
 happen?}\label{when-does-the-same-time-happen}}
+
+Put a guy at the midpoint of two things, put up some mirrors, and
+observe if two things happen at once.
+
+However, how do we know that light travels at
 
 \end{document}
