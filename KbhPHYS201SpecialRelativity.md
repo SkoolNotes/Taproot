@@ -47,7 +47,7 @@ Put a guy at the midpoint of two things, put up some mirrors, and observe if two
 
 However, how do we know that light travels at the same speed from two directions? Well, because Relativity Depends on this, we choose that this is true.
 
-Furthermore, if two events are simutaneous to one axis M, they cannot be simutaneous on another axis M'.
+Furthermore, if two events are simutaneous to one axis M, they cannot be simutaneous on another axis M' that is moving w.r.t. M. Becauese.. THINK — if you are on a train, and moving towards a point, the light coming from both ends equal for M would, in the case of M', come quicker from the B side because you are moving towards it. 
 
 
 
