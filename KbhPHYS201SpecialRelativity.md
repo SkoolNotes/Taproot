@@ -20,4 +20,4 @@ author: Houjun Liu
 - If an object is translating through one coordinate system, it would be uniformly translating to another coordinate system of the same type that itself is uniformly translated uniformly 
 
 ## The Principle of Relativity (not the theory of relativity)
-Laws of Classical Physics should be the same in all inertial refrence frame
+_Laws of Physics should be the same in all inertial refrence frame._
