@@ -50,4 +50,4 @@ Depression began as a fundimental crisis for western style democracy
 
 ## Fashism
 - Rejection of material economy
-- Accepts life as a hero's struggle: that one thing — the all-powerful state — should unlock the 
+- Accepts life as a hero's struggle: that one thing — the all-powerful state — should unlock the heroism in other people
