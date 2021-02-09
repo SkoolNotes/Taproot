@@ -51,6 +51,7 @@ Furthermore, if two events are simutaneous to one axis M, they cannot be simutan
 
 ***
 
-Light fro
+# Eistein's train 
+Obserber M stands in the non-moving moment, and looks at two lights shining through A and B 
 
 
