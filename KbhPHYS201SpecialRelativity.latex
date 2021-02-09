@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7742)}}    % original
-%\rhead{\textrmlf{Compiled }\#7742\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7742\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7743)}}    % original
+%\rhead{\textrmlf{Compiled }\#7743\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7743\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -291,6 +291,8 @@ the B side because you are moving towards it.
 \section{Eistein's train}\label{eisteins-train}}
 
 Obserber M stands in the non-moving moment, and looks at two lights
-shining at A and B. If they are simultaneous, the time it took
+shining at A and B. If they are simultaneous, the obserber M would see
+both events D/c seconds after they happened, where D =\textgreater{}
+distance between
 
 \end{document}
