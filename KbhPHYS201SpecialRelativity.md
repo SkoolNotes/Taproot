@@ -52,6 +52,6 @@ Furthermore, if two events are simutaneous to one axis M, they cannot be simutan
 ***
 
 # Eistein's train 
-Obserber M stands in the non-moving moment, and looks at two lights shining through A and B. The time 
+Obserber M stands in the non-moving moment, and looks at two lights shining at A and B. If they are simultaneous, the time it took
 
 
