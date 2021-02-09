@@ -59,3 +59,5 @@ Obserber M', on the train, would instead see the left light at c-V, the rgiht c+
 ![[Screen Shot 2021-02-08 at 5.12.23 PM.png]]
 
 For the A observer, he would think that the light arrived at d/(c-V), and the B observer, d/(c+V). The smaller denominator one (A) would have a greater time — and that makes sense: you are moving away from it.
+
+However, we can't just add c-V ond c+V to the speed of light when you are moving! That's stupid. The speed of light should stay constant for every observer — whether M or M'.
