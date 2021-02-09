@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7750)}}    % original
-%\rhead{\textrmlf{Compiled }\#7750\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7750\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7751)}}    % original
+%\rhead{\textrmlf{Compiled }\#7751\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7751\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -308,6 +308,9 @@ However, we can't just add c-V ond c+V to the speed of light when you
 are moving! That's stupid. The speed of light should stay constant for
 every observer --- whether M or M'.
 
-The only way of reconcilling this problem, is that, through
+The only way of reconcilling this problem, is that, through moving
+though space-time, M' actually \emph{time traveled} --- that' from M'`s
+vantage point, A and B did not happen at the same time. In fact, B is
+more recent than A for M'. In thei
 
 \end{document}
