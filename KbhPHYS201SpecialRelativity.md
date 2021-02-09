@@ -57,3 +57,5 @@ Obserber M stands in the non-moving moment, and looks at two lights shining at A
 Obserber M', on the train, would instead see the left light at c-V, the rgiht c+V, for M' is moving at a speed of V towards B
 
 ![[Screen Shot 2021-02-08 at 5.12.23 PM.png]]
+
+For the A observer, he would think that the light arrived at d/(c-V), and the B ob

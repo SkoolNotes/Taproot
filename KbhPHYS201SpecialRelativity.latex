@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7745)}}    % original
-%\rhead{\textrmlf{Compiled }\#7745\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7745\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7746)}}    % original
+%\rhead{\textrmlf{Compiled }\#7746\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7746\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -299,5 +299,8 @@ Obserber M', on the train, would instead see the left light at c-V, the
 rgiht c+V, for M' is moving at a speed of V towards B
 
 {[}{[}Screen Shot 2021-02-08 at 5.12.23 PM.png{]}{]}
+
+For the A observer, he would think that the light arrived at d/(c-V),
+and the B ob
 
 \end{document}
