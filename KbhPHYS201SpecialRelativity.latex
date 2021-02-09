@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7749)}}    % original
-%\rhead{\textrmlf{Compiled }\#7749\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7749\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7750)}}    % original
+%\rhead{\textrmlf{Compiled }\#7750\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7750\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -307,5 +307,7 @@ a greater time --- and that makes sense: you are moving away from it.
 However, we can't just add c-V ond c+V to the speed of light when you
 are moving! That's stupid. The speed of light should stay constant for
 every observer --- whether M or M'.
+
+The only way of reconcilling this problem, is that, through
 
 \end{document}
