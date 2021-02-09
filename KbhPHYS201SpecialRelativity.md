@@ -49,5 +49,8 @@ However, how do we know that light travels at the same speed from two directions
 
 Furthermore, if two events are simutaneous to one axis M, they cannot be simutaneous on another axis M' that is moving w.r.t. M. Becauese.. THINK — if you are on a train, and moving towards a point, the light coming from both ends equal for M would, in the case of M', come quicker from the B side because you are moving towards it. 
 
+***
+
+Light fro
 
 
