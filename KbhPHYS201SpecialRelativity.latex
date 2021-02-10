@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7755)}}    % original
-%\rhead{\textrmlf{Compiled }\#7755\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7755\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7756)}}    % original
+%\rhead{\textrmlf{Compiled }\#7756\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7756\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -315,14 +315,18 @@ more recent than A for M'. In this way, M' could still move, see light
 at the same speed, but see them at different instants ---
 \textbf{simutinaety is relative to the vantage point}.
 
-Let's say you are standing inside a mirror, and light traves from you +
-bounces back.
+Let's say you (obs. M') are standing inside a mirror, and light traves
+from you + bounces back.
 
 {[}{[}Pasted image 20210210094000.png{]}{]}
 
 However, what if even A actually takes place on a moving surface
-traveling to the right at a speed V w.r.t. another obserber M?
+traveling to the right at a speed V w.r.t. another ``stationary w.r.t.
+ground'' obserber M?
 
 {[}{[}Pasted image 20210210094151.png{]}{]}
+
+First of all, note that distance L did not change --- \textbf{distances
+could only be affected by the direction of travel.}
 
 \end{document}
