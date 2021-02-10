@@ -98,4 +98,6 @@ Physicsts tend to define a $\gamma$ and write the same equation as follows:
 
 ![[Pasted image 20210210095218.png]]
 
-Now.... If $v$ is small, $\gamma=1$  and hence $\delta t = \delta $
+Now.... Notice! If $v$ is small, $\gamma=1$  and hence $\delta t = \delta t'$
+
+As $v \to c$, $\gamma$ increases. 
