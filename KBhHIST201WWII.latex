@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7790)}}    % original
-%\rhead{\textrmlf{Compiled }\#7790\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7790\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7791)}}    % original
+%\rhead{\textrmlf{Compiled }\#7791\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7791\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -190,5 +190,14 @@ avoid to get into dragged into another war.
 \item
   Hitler's diplomatic strategy was also based on appeasement
 \end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{holocoust-id-cards}{%
+\subsection{Holocoust ID Cards}\label{holocoust-id-cards}}
+
+``Some Catholic friends helped her family obtain
+\href{https://encyclopedia.ushmm.org/narrative/7723/en}{false papers}
+and rented them a house in a nearby village.''
 
 \end{document}

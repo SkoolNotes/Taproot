@@ -12,5 +12,8 @@ course: HIST201
  - Europe did not really like the treaty of versallis
  - Hitler's diplomatic strategy was also based on appeasement
 
+*** 
 
+## Holocoust ID Cards
+"Some Catholic friends helped her family obtain [false papers](https://encyclopedia.ushmm.org/narrative/7723/en) and rented them a house in a nearby village."
 
