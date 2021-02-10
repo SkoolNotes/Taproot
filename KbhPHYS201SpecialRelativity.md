@@ -65,6 +65,7 @@ However, we can't just add c-V ond c+V to the speed of light when you are moving
 The only way of reconcilling this problem, is that, through moving though space-time, M' actually *time traveled* — that' from M''s vantage point, A and B did not happen at the same time. In fact, B is more recent than A for M'. In this way, M' could still move, see light at the same speed, but see them at different instants — **simutinaety is relative to the vantage point**.
 
 # Time Dialation
+The process by which, when 
 
 Let's say you (obs. M') are standing inside a mirror, and light traves from you + bounces back.
 

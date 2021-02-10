@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7768)}}    % original
-%\rhead{\textrmlf{Compiled }\#7768\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7768\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7769)}}    % original
+%\rhead{\textrmlf{Compiled }\#7769\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7769\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -317,6 +317,8 @@ at the same speed, but see them at different instants ---
 
 \hypertarget{time-dialation}{%
 \section{Time Dialation}\label{time-dialation}}
+
+The process by which, when
 
 Let's say you (obs. M') are standing inside a mirror, and light traves
 from you + bounces back.
