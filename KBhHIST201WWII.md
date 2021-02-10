@@ -22,4 +22,4 @@ course: HIST201
 ## Medical involvement
 Medicatically trained scientists — psycologists, genetisists, and antropologists — supported and implemented the biological basis for the Nazi reasoning of genocide and eugenics.
 
-Because Natism advocated for eugetnics and supported their research, they w
+Because Natism advocated for eugetnics and supported their research, they were happy to welcome them.
