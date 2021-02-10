@@ -64,9 +64,12 @@ However, we can't just add c-V ond c+V to the speed of light when you are moving
 
 The only way of reconcilling this problem, is that, through moving though space-time, M' actually *time traveled* — that' from M''s vantage point, A and B did not happen at the same time. In fact, B is more recent than A for M'. In this way, M' could still move, see light at the same speed, but see them at different instants — **simutinaety is relative to the vantage point**.
 
-Let's say you are standing inside a mirror, and light traves from you + bounces back.
+Let's say you (obs. M') are standing inside a mirror, and light traves from you + bounces back.
 
 ![[Pasted image 20210210094000.png]]
 
-However, what if even A actuall takes pl
+However, what if even A actually takes place on a moving surface traveling to the right at a speed V w.r.t. another "stationary w.r.t. ground" obserber M?
 
+![[Pasted image 20210210094151.png]]
+
+First of all, note th

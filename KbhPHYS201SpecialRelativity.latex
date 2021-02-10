@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7754)}}    % original
-%\rhead{\textrmlf{Compiled }\#7754\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7754\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7755)}}    % original
+%\rhead{\textrmlf{Compiled }\#7755\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7755\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -320,6 +320,9 @@ bounces back.
 
 {[}{[}Pasted image 20210210094000.png{]}{]}
 
-However, what if even A actuall takes pl
+However, what if even A actually takes place on a moving surface
+traveling to the right at a speed V w.r.t. another obserber M?
+
+{[}{[}Pasted image 20210210094151.png{]}{]}
 
 \end{document}
