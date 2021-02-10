@@ -80,4 +80,6 @@ To figure out the distance between event A and the mirror, it is simply $\frac{\
 
 And lastly, to figure out how much light travels, it is simply the hipotenuse between L and $\frac{\delta t}{2} \times V$.
 
+![[Pasted image 20210210094759.png]]
 
+Notice! With this roundabout way, we have an equation with $\delta t$ on both sides. Becaues we could figure out the distance of light travel
