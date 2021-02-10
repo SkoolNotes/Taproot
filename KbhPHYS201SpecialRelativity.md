@@ -106,3 +106,5 @@ Now.... Notice! If $v$ is small, $\gamma=1$  and hence $\delta t = \delta t'$
 As $v \to c$, $\gamma$ increases and hence, to M, M' will be traveling quickly foward to time 
 
 ![[Pasted image 20210210100247.png]]
+
+Two objects will 
