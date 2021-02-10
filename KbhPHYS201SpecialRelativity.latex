@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7777)}}    % original
-%\rhead{\textrmlf{Compiled }\#7777\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7777\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7778)}}    % original
+%\rhead{\textrmlf{Compiled }\#7778\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7778\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -378,7 +378,7 @@ traveling quickly foward to time
 {[}{[}Pasted image 20210210100247.png{]}{]}
 
 So. Knowledges: \(\gamma(v) = \frac{1}{\sqrt{1-(v^2/c^2)**2}}\). which
-means, for speeds at \%c,
+means, for speeds at \%c, \(\gamma(pc) = \frac{1}{\sqrt{1-pc^2}}\)
 
 Remember: two objects will need to be parallel to each other and one
 traveling in a linear motion while the other stationary for this to

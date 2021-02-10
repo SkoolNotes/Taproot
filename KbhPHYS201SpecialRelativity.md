@@ -107,7 +107,7 @@ As $v \to c$, $\gamma$ increases and hence, to M, M' will be traveling quickly f
 
 ![[Pasted image 20210210100247.png]]
 
-So. Knowledges: $\gamma(v) = \frac{1}{\sqrt{1-(v^2/c^2)**2}}$. which means, for speeds at %c, 
+So. Knowledges: $\gamma(v) = \frac{1}{\sqrt{1-(v^2/c^2)**2}}$. which means, for speeds at %c, $\gamma(pc) = \frac{1}{\sqrt{1-pc^2}}$. And finally, for stationary observer $x$
 
 Remember: two objects will need to be parallel to each other and one traveling in a linear motion while the other stationary for this to work!
 
