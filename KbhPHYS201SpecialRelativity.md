@@ -109,7 +109,7 @@ As $v \to c$, $\gamma$ increases and hence, to M, M' will be traveling quickly f
 
 So. Knowledges: $\gamma(v) = \frac{1}{\sqrt{1-(v^2/c^2)**2}}$. which means, for speeds at %c, $\gamma(pc) = \frac{1}{\sqrt{1-pc^2}}$. And finally, for stationary observer $x$ and moving observer $x'$, $\delta t  = \delta t' \gamma$.
 
-What's even cooler? this principle applies to distance as well. That, at a moving frame, $D = D' \gamma$, where $D$ is distance between two places to the non-moving frame, and $D'$ the distance between those two places 
+What's even cooler? this principle applies to distance as well. That, at a moving frame, $D = D' \gamma$, where $D$ is distance between two places to the non-moving frame, and $D'$ the distance between those two places to the moving frame.
 
 Remember: two objects will need to be parallel to each other and one traveling in a linear motion while the other stationary for this to work!
 
