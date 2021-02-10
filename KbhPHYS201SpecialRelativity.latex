@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7767)}}    % original
-%\rhead{\textrmlf{Compiled }\#7767\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7767\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7768)}}    % original
+%\rhead{\textrmlf{Compiled }\#7768\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7768\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -315,6 +315,9 @@ more recent than A for M'. In this way, M' could still move, see light
 at the same speed, but see them at different instants ---
 \textbf{simutinaety is relative to the vantage point}.
 
+\hypertarget{time-dialation}{%
+\section{Time Dialation}\label{time-dialation}}
+
 Let's say you (obs. M') are standing inside a mirror, and light traves
 from you + bounces back.
 
@@ -367,6 +370,6 @@ follows:
 Now\ldots. Notice! If \(v\) is small, \(\gamma=1\) and hence
 \(\delta t = \delta t'\)
 
-As \(v \to c\), \(\gamma increases\)
+As \(v \to c\), \(\gamma\) increases.
 
 \end{document}
