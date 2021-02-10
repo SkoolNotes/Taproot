@@ -124,6 +124,8 @@ source: #index
 	*  [[KBhHIST201WWIEssayOutlineJack]]  
 * Russian Revolution
 	* [[KBhHIST201RussianRevolution]]
+* WWII
+	* [[KBhHIST201WWII]]
 * Self Evals [[KBxHistSelfEval2020]]
 
 ## Meta References
