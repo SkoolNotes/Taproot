@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7780)}}    % original
-%\rhead{\textrmlf{Compiled }\#7780\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7780\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7781)}}    % original
+%\rhead{\textrmlf{Compiled }\#7781\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7781\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -383,7 +383,8 @@ finally, for stationary observer \(x\) and moving observer \(x'\),
 \(\delta t = \delta t' \gamma\).
 
 What's even cooler? this principle applies to distance as well. That, at
-a moving frame,
+a moving frame, \(D = D' \gamma\), where \(D\) is distance to the
+non-moving frame, and \(D'\)
 
 Remember: two objects will need to be parallel to each other and one
 traveling in a linear motion while the other stationary for this to
