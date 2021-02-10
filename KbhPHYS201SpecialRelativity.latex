@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7785)}}    % original
-%\rhead{\textrmlf{Compiled }\#7785\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7785\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7786)}}    % original
+%\rhead{\textrmlf{Compiled }\#7786\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7786\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -385,8 +385,13 @@ finally, for stationary observer \(x\) and moving observer \(x'\),
 What's even cooler? this principle applies to the length of the moving
 frame as well. That, at a moving frame, \(D = D' \gamma\), where \(D\)
 is size of the moving frame (``length of the spaceship'') when it is not
-moving to the non-moving frame, and \(D'\) the size of the moving
-framewhen it is moving to the non-moving frame .
+moving to the non-moving frame, and \(D'\) the size of the moving frame
+when it is moving to the non-moving frame .
+
+Of course, beware of thinking this as the ``length of the ship'',
+though. For instance, if your stationary frame is the spaceship, the
+``length of the spaceship'' would then be the distance between the
+planets.
 
 Remember: two objects will need to be parallel to each other and one
 traveling in a linear motion while the other stationary for this to
