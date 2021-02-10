@@ -109,7 +109,7 @@ As $v \to c$, $\gamma$ increases and hence, to M, M' will be traveling quickly f
 
 So. Knowledges: $\gamma(v) = \frac{1}{\sqrt{1-(v^2/c^2)**2}}$. which means, for speeds at %c, $\gamma(pc) = \frac{1}{\sqrt{1-pc^2}}$. And finally, for stationary observer $x$ and moving observer $x'$, $\delta t  = \delta t' \gamma$.
 
-What's even cooler? this principle applies to the length of the moving frame as well. That, at a moving frame, $D = D' \gamma$, where $D$ is size of the moving frame ("length of the spaceship") when it is not moving to the non-moving frame, and $D'$ the size of the moving frame when it is moving to the non-moving frame .
+What's even cooler? this principle applies to the length of the moving frame as well — but backwards. That, at a moving frame, $D' = D \gamma$, where $D$ is size of the moving frame ("length of the spaceship") when it is not moving to the non-moving frame, and $D'$ the size of the moving frame when it is moving to the non-moving frame.
 
 Of course, beware of thinking this as the "length of the ship", though. For instance, if your stationary frame is the spaceship, the "length of the spaceship" would then be the distance between the planets.
 
