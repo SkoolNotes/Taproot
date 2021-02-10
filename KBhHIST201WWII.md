@@ -23,3 +23,5 @@ course: HIST201
 Medicatically trained scientists — psycologists, genetisists, and antropologists — supported and implemented the biological basis for the Nazi reasoning of genocide and eugenics.
 
 Because Natism advocated for eugetnics and supported their research, they were happy to welcome them.
+
+Scientists dreamed to create the pefect society by controlling the gentic makeup of the population.
