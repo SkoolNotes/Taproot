@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7759)}}    % original
-%\rhead{\textrmlf{Compiled }\#7759\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7759\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7760)}}    % original
+%\rhead{\textrmlf{Compiled }\#7760\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7760\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -337,8 +337,8 @@ To figure out the distance between event A and the mirror, it is simply
 distance between A and B).
 
 And lastly, to figure out how much light travels, it is simply the
-hipotenuse.
+hipotenuse between L and \(\frac{\delta t}{2} \times V\).
 
-{[}{[}Pasted image 20210210094639.png{]}{]}
+{[}{[}Pasted image 20210210094725.png{]}{]}
 
 \end{document}
