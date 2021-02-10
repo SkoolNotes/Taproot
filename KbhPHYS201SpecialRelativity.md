@@ -76,4 +76,6 @@ First of all, note that distance L did not change — **distances could only be 
 
 ![[Pasted image 20210210094431.png]]
 
-To figure out the distance between event A and the mirror
+To figure out the distance between event A and the mirror, it is simply $\frac{\delta t}{2} \times V$ (speed of prime travel times half the distance between A and B).
+
+And lastly, to figure out how much light travels, it is simply the
