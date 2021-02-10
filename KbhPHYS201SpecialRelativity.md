@@ -92,4 +92,6 @@ But notice! We could divide the top and bottom by $c$
 
 ![[Pasted image 20210210095115.png]]
 
-Why is $2L/c = \delta t'$
+Why is $2L/c = \delta t'$? Think! look at the primed (moving) frame. W.r.t. the moving object, the light is traveling exactly perpendicular up and down. So, the change in time in that case is just the vertical distance.
+
+![[Pasted image 20210210095218.png]]
