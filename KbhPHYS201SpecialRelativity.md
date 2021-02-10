@@ -82,4 +82,5 @@ And lastly, to figure out how much light travels, it is simply the hipotenuse be
 
 ![[Pasted image 20210210094759.png]]
 
-Notice! With this roundabout way, we have an equation with $\delta t$ on both sides. Becaues we could figure out the distance of light travel
+Notice! With this roundabout way, we have an equation with $\delta t$ on both sides: becaues we could figure out the distance of light travel to mirror, doubling that divided by speed of light will result in $\delta t$ again!
+
