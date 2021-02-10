@@ -27,3 +27,5 @@ Because Natism advocated for eugetnics and supported their research, they were h
 Scientists dreamed to create the pefect society by controlling the gentic makeup of the population.
 
 American Eugenicists even supported the earlier efforts of eugenics: that the German state had the "bold" step to commit eugetics to rid of the ill was actualyl praised.
+
+Catholic oppositions blocked sterializations proposed in Great Britian 
