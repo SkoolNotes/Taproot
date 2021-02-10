@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7756)}}    % original
-%\rhead{\textrmlf{Compiled }\#7756\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7756\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7757)}}    % original
+%\rhead{\textrmlf{Compiled }\#7757\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7757\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -327,6 +327,11 @@ ground'' obserber M?
 {[}{[}Pasted image 20210210094151.png{]}{]}
 
 First of all, note that distance L did not change --- \textbf{distances
-could only be affected by the direction of travel.}
+could only be affected by the direction of lght travel, not
+perpandicular to it.}
+
+{[}{[}Pasted image 20210210094431.png{]}{]}
+
+To figure out the distance between event A and the mirror
 
 \end{document}

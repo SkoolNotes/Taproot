@@ -73,3 +73,7 @@ However, what if even A actually takes place on a moving surface traveling to th
 ![[Pasted image 20210210094151.png]]
 
 First of all, note that distance L did not change — **distances could only be affected by the direction of lght travel, not perpandicular to it.**
+
+![[Pasted image 20210210094431.png]]
+
+To figure out the distance between event A and the mirror
