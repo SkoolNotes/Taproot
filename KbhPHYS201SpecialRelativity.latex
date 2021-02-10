@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7765)}}    % original
-%\rhead{\textrmlf{Compiled }\#7765\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7765\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7766)}}    % original
+%\rhead{\textrmlf{Compiled }\#7766\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7766\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -363,5 +363,7 @@ Physicsts tend to define a \(\gamma\) and write the same equation as
 follows:
 
 {[}{[}Pasted image 20210210095218.png{]}{]}
+
+Now\ldots. If \(v\) is small, \(\gamma=1\) and hence
 
 \end{document}
