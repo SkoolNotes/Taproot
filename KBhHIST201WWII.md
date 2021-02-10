@@ -10,5 +10,7 @@ course: HIST201
  
  - Germany did not really want war
  - Europe did not really like the treaty of versallis
- - Hitler's 
+ - Hitler's diplomatic strategy was also based on appeasement
+
+
 
