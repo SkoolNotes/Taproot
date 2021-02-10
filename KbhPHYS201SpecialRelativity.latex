@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7769)}}    % original
-%\rhead{\textrmlf{Compiled }\#7769\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7769\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7770)}}    % original
+%\rhead{\textrmlf{Compiled }\#7770\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7770\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -373,5 +373,7 @@ Now\ldots. Notice! If \(v\) is small, \(\gamma=1\) and hence
 \(\delta t = \delta t'\)
 
 As \(v \to c\), \(\gamma\) increases.
+
+{[}{[}Pasted image 20210210100247.png{]}{]}
 
 \end{document}
