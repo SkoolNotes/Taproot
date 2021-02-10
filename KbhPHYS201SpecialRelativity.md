@@ -68,5 +68,5 @@ Let's say you are standing inside a mirror, and light traves from you + bounces 
 
 ![[Pasted image 20210210094000.png]]
 
-
+However, what if even A actuall takes pl
 

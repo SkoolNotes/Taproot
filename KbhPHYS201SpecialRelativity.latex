@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7753)}}    % original
-%\rhead{\textrmlf{Compiled }\#7753\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7753\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7754)}}    % original
+%\rhead{\textrmlf{Compiled }\#7754\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7754\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -315,8 +315,11 @@ more recent than A for M'. In this way, M' could still move, see light
 at the same speed, but see them at different instants ---
 \textbf{simutinaety is relative to the vantage point}.
 
-Let's say you are standing next to a mirror
+Let's say you are standing inside a mirror, and light traves from you +
+bounces back.
 
 {[}{[}Pasted image 20210210094000.png{]}{]}
+
+However, what if even A actuall takes pl
 
 \end{document}
