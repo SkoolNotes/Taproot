@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7762)}}    % original
-%\rhead{\textrmlf{Compiled }\#7762\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7762\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7763)}}    % original
+%\rhead{\textrmlf{Compiled }\#7763\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7763\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -345,5 +345,11 @@ Notice! With this roundabout way, we have an equation with \(\delta t\)
 on both sides: becaues we could figure out the distance of light travel
 to mirror, doubling that divided by speed of light will result in
 \(\delta t\) again!
+
+Doing some algebra to seperate the \(\delta t\), we shall get that:
+
+{[}{[}Pasted image 20210210095050.png{]}{]}
+
+But notice! We could divide the to
 
 \end{document}

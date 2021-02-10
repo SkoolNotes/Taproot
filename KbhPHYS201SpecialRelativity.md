@@ -84,3 +84,12 @@ And lastly, to figure out how much light travels, it is simply the hipotenuse be
 
 Notice! With this roundabout way, we have an equation with $\delta t$ on both sides: becaues we could figure out the distance of light travel to mirror, doubling that divided by speed of light will result in $\delta t$ again!
 
+Doing some algebra to seperate the $\delta t$, we shall get that:
+
+![[Pasted image 20210210095050.png]]
+
+But notice! We could divide the top and bottom by $c$
+
+![[Pasted image 20210210095115.png]]
+
+Why is $2L/c = \delta t'$
