@@ -107,7 +107,7 @@ As $v \to c$, $\gamma$ increases and hence, to M, M' will be traveling quickly f
 
 ![[Pasted image 20210210100247.png]]
 
-So. Knowledges: $
+So. Knowledges: $\gamma(percent\) = \frac{1}{}
 
 Remember: two objects will need to be parallel to each other and one traveling in a linear motion while the other stationary for this to work!
 
