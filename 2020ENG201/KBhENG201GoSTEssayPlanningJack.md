@@ -36,6 +36,7 @@ You may think of this analysis in two pieces:
 - (Bottles) “She even locked her sad, paint-flaking fridge, where she kept her week’s supply of cream buns that Kochu Maria brought her from Bestbakery in Kottayam. And the two bottles of rice water that she drank instead of ordinary water.” (w.r.t. Baby Kochamma)
 - (Bottle (sealing)) “He commuted his pension and provident fund to buy a Bharat bottle-sealing machine. Mammachi just ran it like a large kitchen. Chacko had it registered as a partnership and informed Mammachi that she was the Sleeping Partner. He invested in equipment (canning machines, cauldrons, cookers) and expanded the labor force. Almost immediately, the financial slide began”
 - (Bottles) “On Estha’s side of the road was a tea shack that sold tea and stale glucose biscuits in dim glass cases with flies. There was lemon soda in thick bottles with blue marble stoppers to keep the fizz in. And a red icebox that said rather sadly THINGS GO BETTER WITH COCA-COLA.”
+- (Bottles and Cans) “A dirty broom, a squash bottle half-full of a milky liquid (phenyl) with floaty black things in it. A limp floorswab, and two rusty tin cans of nothing.”
 
 
 
