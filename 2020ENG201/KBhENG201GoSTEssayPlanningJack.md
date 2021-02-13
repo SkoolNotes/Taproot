@@ -19,11 +19,11 @@ You may think of this analysis in two pieces:
 -   A deep engagement with textual evidence, close reading, and a thematic scope of Roy’s _The God of Small Things_
 -   A tracking and analysis of a pattern, theme, motif, or element of the narrative. Your analysis MUST include the significance of this tracking. It is not enough to notice a pattern, you must examine WHY and HOW that pattern functions within the broader scope of the narrative.
 
+## Evidence bin
+- "“Wild creepers burst through latente banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.”
+
+
 ## Claim Synthesis
-
-
-
-
 	
 ## Defluffifying
 CHOSEN THESIS CLAIM
