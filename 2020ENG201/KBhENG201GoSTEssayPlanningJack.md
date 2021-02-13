@@ -20,8 +20,9 @@ You may think of this analysis in two pieces:
 -   A tracking and analysis of a pattern, theme, motif, or element of the narrative. Your analysis MUST include the significance of this tracking. It is not enough to notice a pattern, you must examine WHY and HOW that pattern functions within the broader scope of the narrative.
 
 ## Evidence bin
-- “Wild creepers burst through latente banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.”
-- “Steelshrill police whistles pierced holes in the Noise Umbrella. Through the jagged umbrella holes Rahel could see pieces of red sky.” (w.r.t. communism march)
+- (Holes) “Wild creepers burst through latente banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.”
+- (Holes) “Steelshrill police whistles pierced holes in the Noise Umbrella. Through the jagged umbrella holes Rahel could see pieces of red sky.” (w.r.t. communism march)
+- (Smash)
 
 
 
