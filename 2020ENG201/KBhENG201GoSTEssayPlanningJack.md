@@ -48,6 +48,7 @@ You may think of this analysis in two pieces:
 ### Eggs and Bubbles
 - (Eggs) “Rahel had come to see her brother, Estha. They were two-egg twins. “Dizygotic” doctors called them. Born from separate but simultaneously fertilized eggs. Estha—Esthappen—was the older by eighteen minutes.”
 - (Eggs) "'I tell you, these Hindus,'' Baby Kochamma said piously. 'They have no sense of privacy' // 'They have horns and scaly skins,'' Chacko said sarcastically. 'And I’ve heard that their babies hatch from eggs.''"
+- Ok so this again. I am so sorry. (Eggs) “Then the gristly-bristly face contorted, and Estha’s hand was wet and hot and sticky. It had egg white on it. White egg white. Quarter-boiled.”
 - 
 
 
