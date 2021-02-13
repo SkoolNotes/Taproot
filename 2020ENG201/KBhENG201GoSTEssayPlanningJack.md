@@ -5,7 +5,7 @@ author: Houjun Liu
 course: ENG201
 ---
 
-# Essay Template
+# God of Small Things Essay
 ## General Information
 | Due Date | Topic | Important Documents |
 | :-- | :-- | :-- |
