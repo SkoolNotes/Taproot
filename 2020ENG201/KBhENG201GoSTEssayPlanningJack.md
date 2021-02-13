@@ -34,7 +34,8 @@ You may think of this analysis in two pieces:
 ### Bottles and Cans
 - (Bottles) “Red bananas ripen. Jackfruits burst. Dissolute bluebottles hum vacuously in the fruity air.”
 - (Bottles) “She even locked her sad, paint-flaking fridge, where she kept her week’s supply of cream buns that Kochu Maria brought her from Bestbakery in Kottayam. And the two bottles of rice water that she drank instead of ordinary water.” (w.r.t. Baby Kochamma)
-- 
+- (Bottle (sealing)) “He commuted his pension and provident fund to buy a Bharat bottle-sealing machine. ”
+
 
 
 ## Claim Synthesis
