@@ -38,6 +38,7 @@ You may think of this analysis in two pieces:
 - (Bottles) “On Estha’s side of the road was a tea shack that sold tea and stale glucose biscuits in dim glass cases with flies. There was lemon soda in thick bottles with blue marble stoppers to keep the fizz in. And a red icebox that said rather sadly THINGS GO BETTER WITH COCA-COLA.”
 - (Bottles and Cans) “A dirty broom, a squash bottle half-full of a milky liquid (phenyl) with floaty black things in it. A limp floorswab, and two rusty tin cans of nothing.”
 - (Cans) “Estha Alone organized the rusty cans of nothing in front of the urinal. He stood on them, one foot on each, and pissed carefully, with minimal wobble.”
+- 
 
 
 
