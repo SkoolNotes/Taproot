@@ -22,6 +22,8 @@ You may think of this analysis in two pieces:
 ## Claim Synthesis
 
 
+
+
 	
 ## Defluffifying
 CHOSEN THESIS CLAIM
