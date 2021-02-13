@@ -9,26 +9,19 @@ course: ENG201
 ## General Information
 | Due Date | Topic | Important Documents |
 | :-- | :-- | :-- |
-| DUE DATE | TOPIC | DOCUMENTS, HERE |
+| March 5th, 5PM | GoST | _GoST_ |
 
 ## Prompt
-THE PROMPT
+For this assignment, you will craft a literary analysis essay that shows your understanding and close reading of a thematic aspect of Roy’s _The God of Small Things_. As always, close reading can involve tracking a repetition of some type in the text, including but not limited to repetitions in diction, images, structure, syntax, or characters’ behaviors. You might also think about tracking a change of some kind in the novel. 
 
-## Claim Synthesis (Babingtonization)
-### Development phase – How and So-What
-- *CLAIM*
-	- How THING THAT ATTACKS INTERGRITY OF CLAIM
-		- EVIDENCE and SPECIFICITY
-	- So what (local), THING THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS THE BROADER PICTURE
-- *CLAIM*
-	- Repeat...
-	
-### Testing phase – Why and So-What
-- *CLAIM*
-	- Why DOES THE CLAIM ANSWER THE PROMPT?
-	- So what (global), THING THAT ATTACKS THE BROADER IMPACT OF THE CLAIM
-- *CLAIM*
-	- Repeat...
+You may think of this analysis in two pieces: 
+
+-   A deep engagement with textual evidence, close reading, and a thematic scope of Roy’s _The God of Small Things_
+-   A tracking and analysis of a pattern, theme, motif, or element of the narrative. Your analysis MUST include the significance of this tracking. It is not enough to notice a pattern, you must examine WHY and HOW that pattern functions within the broader scope of the narrative.
+
+## Claim Synthesis
+
+
 	
 ## Defluffifying
 CHOSEN THESIS CLAIM
