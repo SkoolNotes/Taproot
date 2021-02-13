@@ -23,7 +23,9 @@ You may think of this analysis in two pieces:
 - (Holes) “Wild creepers burst through latente banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.”
 - (Holes) “Steelshrill police whistles pierced holes in the Noise Umbrella. Through the jagged umbrella holes Rahel could see pieces of red sky.” (w.r.t. communism march)
 - (Smash) “Steelshrill police whistles pierced holes in the Noise Umbrella. Through the jagged umbrella holes Rahel could see pieces of red sky.”
-- 
+- (Holes “Vellya Paapen had assured the twins that there was no such thing in the world as a black cat. He said that there were only black cat-shaped holes in the Universe. // There were so many stains on the road.  // Squashed Miss Mitten-shaped stains in the Universe. // Squashed frog-shaped stains in the Universe. // Squashed crows that had tried to eat the squashed frog-shaped stains in the Universe. // Squashed dogs that ate the squashed crow-shaped stains in the Universe. // Feathers. Mangoes. Spit. // All the way to Cochin.”
+
+Excerpt From: Arundhati Roy. “The God of Small Things.” Apple Books. 
 
 
 
