@@ -28,7 +28,8 @@ You may think of this analysis in two pieces:
 - (Holes) “Chacko marveled at how someone so small and undefined, so vague in her resemblances, could so completely command the attention, the love, the sanity, of a grown man. // When he left, he felt that something had been torn out of him. Something big. // But Joe was dead now. Killed in a car crash. Dead as a doorknob. A Joe-shaped Hole in the Universe.”
 - (Holes) “Estha wouldn’t look up. His mind was full of trains. He blocked the light from the door. An Estha-shaped Hole in the Universe.” (no, train was not mentioned elsewhere)
 - (Holes) “How marvelous!” Margaret Kochamma said. 'It’s a sort of sniffing! Do the Men and Women do it to each other too?'' She hadn’t meant it to sound quite like that, and she blushed. An embarrassed schoolteacher-shaped Hole in the Universe.”
-- (Holes) “Esthappen and Rahel both knew that there were several perpetrators (besides themselves) that day. But only one victim. And he had blood-red nails and a brown leaf on his back that made the monsoons come on time. He left behind a Hole in the Universe through which darkness poured like liquid tar.” 
+- (Holes) “Esthappen and Rahel both knew that there were several perpetrators (besides themselves) that day. But only one victim. ... He left behind a Hole in the Universe through which darkness poured like liquid tar.” 
+- 
 
 
 
