@@ -29,8 +29,10 @@ You may think of this analysis in two pieces:
 - (Holes) “Estha wouldn’t look up. His mind was full of trains. He blocked the light from the door. An Estha-shaped Hole in the Universe.” (no, train was not mentioned elsewhere)
 - (Holes) “How marvelous!” Margaret Kochamma said. 'It’s a sort of sniffing! Do the Men and Women do it to each other too?'' She hadn’t meant it to sound quite like that, and she blushed. An embarrassed schoolteacher-shaped Hole in the Universe.”
 - (Holes) “Esthappen and Rahel both knew that there were several perpetrators (besides themselves) that day. But only one victim. ... He left behind a Hole in the Universe through which darkness poured like liquid tar.” 
-- 
+- (Holes) “She concealed her anguish under the brisk, practical mask of a schoolteacher. The stern, schoolteacher-shaped Hole in the Universe (who sometimes slapped).”
 
+### Bottles and Cans
+- “Red bananas ripen. Jackfruits burst. Dissolute bluebottles hum vacuously in the fruity air.”
 
 
 
