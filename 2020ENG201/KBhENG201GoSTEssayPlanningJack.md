@@ -51,7 +51,7 @@ You may think of this analysis in two pieces:
 - Ok so this again. I am so sorry. (Eggs) “Then the gristly-bristly face contorted, and Estha’s hand was wet and hot and sticky. It had egg white on it. White egg white. Quarter-boiled.”
 - (Eggs) “The moth on Rahel’s heart lifted a downy leg. Then put it back. Its little leg was cold. A little less her mother loved her. The Sea Queen room smelled of eggs and filter coffee.”
 - (Eggs) “When the red cement floor [to the Ayemenem House] was laid, the egg whites from nearly nine hundred eggs went into it. It took a high polish.”
-
+- “War could have been the stallion that he rode, part of, if not all, the way to the 
 
 ## Claim Synthesis
 	
