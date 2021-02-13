@@ -46,8 +46,8 @@ You may think of this analysis in two pieces:
 - (Cans) “They gave him rusted film cans in which to put the vegetables he picked. He never bargained. They never cheated him. When the vegetables had been weighed and paid for, they would transfer them to his red plastic shopping basket”
 
 ### Eggs and Bubbles
-
-
+- (Eggs) “Rahel had come to see her brother, Estha. They were two-egg twins. “Dizygotic” doctors called them. Born from separate but simultaneously fertilized eggs. Estha—Esthappen—was the older by eighteen minutes.”
+- (Eggs) “I tell you, these Hindus,” Baby Kochamma said piously. “They have no sense of privacy” “They have horns and scaly skins,” Chacko said sarcastically. “And I’ve heard that their babies hatch from eggs.”  Excerpt From: Arundhati Roy. “The God of Small Things.” Apple Books. 
 
 
 ## Claim Synthesis
