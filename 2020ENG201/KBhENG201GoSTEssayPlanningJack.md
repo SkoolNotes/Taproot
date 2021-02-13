@@ -32,8 +32,9 @@ You may think of this analysis in two pieces:
 - (Holes) “She concealed her anguish under the brisk, practical mask of a schoolteacher. The stern, schoolteacher-shaped Hole in the Universe (who sometimes slapped).”
 
 ### Bottles and Cans
-- “Red bananas ripen. Jackfruits burst. Dissolute bluebottles hum vacuously in the fruity air.”
-
+- (Bottles) “Red bananas ripen. Jackfruits burst. Dissolute bluebottles hum vacuously in the fruity air.”
+- (Bottles) “She even locked her sad, paint-flaking fridge, where she kept her week’s supply of cream buns that Kochu Maria brought her from Bestbakery in Kottayam. And the two bottles of rice water that she drank instead of ordinary water.” (w.r.t. Baby Kochamma)
+- 
 
 
 ## Claim Synthesis
