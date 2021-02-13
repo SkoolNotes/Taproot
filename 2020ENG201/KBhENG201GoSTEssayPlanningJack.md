@@ -53,8 +53,8 @@ You may think of this analysis in two pieces:
 - (Eggs) “When the red cement floor [to the Ayemenem House] was laid, the egg whites from nearly nine hundred eggs went into it. It took a high polish.”
 - (Eggs) “War could have been the stallion that he rode, part of, if not all, the way to the Legislative Assembly, whereas victory left him no better off than when he started out. He broke the eggs but burned the omelette.” 
 - (Eggs) “Father Mulligan was in saffron. A yolk addressing a sea of boiled eggs. His white beard and hair were long, but combed and groomed”
-- “Rahel ignored her and blew an inadvertent spit bubble. Ammu hated them blowing spit bubbles. She said it reminded her of Babà. Their father. She said that he used to blow spit bubbles and shiver his leg. According to Ammu, only clerks behaved like that, not aristocrats.”
-- 
+- (Bubbles) “Rahel ignored her and blew an inadvertent spit bubble. Ammu hated them blowing spit bubbles. She said it reminded her of Babà. Their father. She said that he used to blow spit bubbles and shiver his leg. According to Ammu, only clerks behaved like that, not aristocrats.”
+- (Bubbles) “Blowing through the straw (while his other hand moved), Estha blew bubbles into the bottle. Stickysweet lemon bubbles of the drink he couldn’t drink.”
 
 
 
