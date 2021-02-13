@@ -20,6 +20,8 @@ You may think of this analysis in two pieces:
 -   A tracking and analysis of a pattern, theme, motif, or element of the narrative. Your analysis MUST include the significance of this tracking. It is not enough to notice a pattern, you must examine WHY and HOW that pattern functions within the broader scope of the narrative.
 
 ## Evidence bin
+"Whole was very frequent"
+
 ### Holes and Smashed
 - (Holes) “Wild creepers burst through latente banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.”
 - (Holes) “Steelshrill police whistles pierced holes in the Noise Umbrella. Through the jagged umbrella holes Rahel could see pieces of red sky.” (w.r.t. communism march)
@@ -41,6 +43,10 @@ You may think of this analysis in two pieces:
 - (Bottles (Closing)) “Sound of Music smell that Rahel remembered and treasured. Smells, like music, hold memories. She breathed deep, and bottled it up for posterity.”
 - (Bottles, and other things.) Welp welp welp this is a quote from the book so here goes nothing “He got a cold bottle and a straw. So he held a bottle in one hand and a penis in the other. ”
 - (Cans) “When she was questioned by the Principal about her behavior (cajoled, caned, starved), she eventually admitted that she had done it to find out whether breasts hurt.”
+- (Cans) “They gave him rusted film cans in which to put the vegetables he picked. He never bargained. They never cheated him. When the vegetables had been weighed and paid for, they would transfer them to his red plastic shopping basket”
+
+### Eggs and Bubbles
+
 
 
 
