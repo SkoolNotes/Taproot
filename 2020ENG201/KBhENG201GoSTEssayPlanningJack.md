@@ -40,9 +40,7 @@ You may think of this analysis in two pieces:
 - (Cans) “Estha Alone organized the rusty cans of nothing in front of the urinal. He stood on them, one foot on each, and pissed carefully, with minimal wobble.”
 - (Bottles (Closing)) “Sound of Music smell that Rahel remembered and treasured. Smells, like music, hold memories. She breathed deep, and bottled it up for posterity.”
 - (Bottles, and other things.) Welp welp welp this is a quote from the book so here goes nothing “He got a cold bottle and a straw. So he held a bottle in one hand and a penis in the other. ”
-
-
-Excerpt From: Arundhati Roy. “The God of Small Things.” Apple Books. 
+- (Cans) “When she was questioned by the Principal about her behavior (cajoled, caned, starved), she eventually admitted that she had done it to find out whether breasts hurt.”
 
 
 
