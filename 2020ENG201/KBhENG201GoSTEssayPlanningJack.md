@@ -71,7 +71,6 @@ You may think of this analysis in two pieces:
 - BF Rahel "canned" by principle due to her childlike nature
 - BG silent Estha places vegetables in film cans
 
-- CA twins as "two-egged"
 - CB Chacko sarcastically relates babies of Hindus as being from eggs
 - CC abuser having given Estha eggs
 - CD sad sea queen where Rachel is loved less smelt of eggs
@@ -91,15 +90,17 @@ The "empty" cans/eggs — filled with vegetables, babies
 
 When factory got broken by comrad, eggs were shattered. When Rachel is loved less, the room smelt of eggs.
 
-Togetherness as manifest by eggs...
+Togetherness as manifest by eggs... But not necessarily positive.
+
+- CA twins as "two-egged" 
 
 
-
+- CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory
 
 
 
 - AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution. Holes as retrobution.
-- CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory: eggs here breaking broken means that traditional orders broke
+: eggs here breaking broken means that traditional orders broke
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
