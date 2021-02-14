@@ -89,6 +89,11 @@ The "full" holes — filled with vengence, sadness, fear, => "black tar".
 
 The "empty" cans/eggs — filled with vegetables, babies
 
+When factory got broken by comrad, eggs were shattered. When Rachel is loved less, the room smelt of eggs.
+
+
+
+
 - AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution. Holes as retrobution.
 - CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory: eggs here breaking broken means that traditional orders broke
 
