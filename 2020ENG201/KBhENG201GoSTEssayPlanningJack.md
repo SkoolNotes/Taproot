@@ -117,9 +117,9 @@ BE abuse as balance between bottle and um... that other thing. Which is also a b
 ### Bottled Emotions are Handled to Little Gain
 Items, once bottled up, are frequently handled by characters overprotective of the bottled emotions in order to gain often minimal results. 
 
-BA Baby Kochamma — the opportunist that also looses drinks weak gruel locked away instead of water (seeking to gain small gains by taking the wastewater of rice cooking) — literally valuing the wastewater of a paulper.
+BA Baby Kochamma — the opportunist that also looses the big picture — drinks weak gruel locked away instead of water (seeking to gain small gains by taking the wastewater of rice cooking) — literally valuing the wastewater of a paulper.
 
-- BC Estha attempting to carefully ride above emotions (cans) in order to prove his manhood
+In order to proof his manhood, Estha BC attempting to carefully ride above emotions (cans) in order to prove his manhood
 
 - BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
