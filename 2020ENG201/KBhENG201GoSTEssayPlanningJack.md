@@ -113,7 +113,7 @@ Bottles contain emotions:
 - BB Industrial botteling machine for sealing bottles leads to financial slide
 - DA Factory floor as gloomy after family is seperated
 
-**Through tracking characters' use of the bottle as an instrument to contain strong emotions in the  _God of Small Things_, the novel paints a cautinary tale against the forcible containment of raw emotions which will lead to a depressive and gloomy downfall.**
+**Through tracking characters' use of the bottle as an instrument to contain strong emotions in the  _God of Small Things_ — namely, that of love, as represented by the Egg, and of fear, as in the Hole — , the novel paints a cautinary tale against the forcible containment of raw emotions which will lead to a depressive and gloomy downfall.**
 
 ## Outline
 - 
