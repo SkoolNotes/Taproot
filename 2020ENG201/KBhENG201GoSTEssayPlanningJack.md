@@ -98,17 +98,18 @@ Holes eminate sadness + fear:
 - AD death as leaving a hole + leaving as tearing a hole
 - CI Estha blew bubbles into abuser's drink
 - CJ bubbled cold drink as fear
-
+- AG Valutha died as a victim, while bleeding black, rebtrobuting liquid from his hole
+- AE Estha experiences retrobution? death? by himself
+- AH Joe died, and Margret Kochamma hid that using a hole
 
 Bottles contain emotions:
 
 - BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
 - BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles" — work above emotions?
+- BD smell of movies bottled up for memories
+- BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
 
-
-
-Bottling emotions leads to downfall!!
 
 
 ## Defluffifying
