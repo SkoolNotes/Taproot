@@ -114,7 +114,9 @@ BE abuse as balance between bottle and um... that other thing. Which is also a b
 - CJ first, bubbled cold drink as fear. (maybe the other (sickly sweet) quote?) 
 - Of half-cooked eggwhites — of deformed love. => CC abuser having given Estha eggs as a product of love.
 
-### Bottled Emotions are Handled to no Avail
+### Bottled Emotions are Handled to Little Gain
+Items, once bottled up, are frequently handled by characters in the story in order to achive some gain. 
+
 - BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
 - BC Estha attempting to carefully ride above emotions (cans) in order to prove his manhood
 
