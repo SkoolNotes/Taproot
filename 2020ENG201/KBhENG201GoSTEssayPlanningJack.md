@@ -68,7 +68,6 @@ You may think of this analysis in two pieces:
 
 - BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
 - BB Industrial botteling machine for sealing bottles leads to financial slide
-- BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles"
 - BD smell of movies bottled up for memories
 - BE abuse as balance between bottle and um... that other thing
 - BF Rahel "canned" by principle due to her childlike nature
@@ -97,6 +96,7 @@ Eggs as a symbolism of love and connection:
 
 Bottles contain
 - BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
+- BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles"
 - BB Industrial botteling machine for sealing bottles leads to financial slide
 
 Bottling emotions leads to downfall!!

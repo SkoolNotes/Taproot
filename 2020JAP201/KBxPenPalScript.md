@@ -64,7 +64,7 @@ I'm the type who likes to work on projects and talk with friends.
 
 おもしろくて、やさしいともだちをさがしています.
 
-ぼくは、書いたり、詩をつくったりするのが好きなタイプです。
+ぼくは, プロジェクトにとりこんたり、ともだちとはなしをしたりするのが好きなタイプです。
 
 
 
