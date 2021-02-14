@@ -41,7 +41,7 @@ You may think of this analysis in two pieces:
 - (Cans) “When she was questioned by the Principal about her behavior (cajoled, caned, starved), she eventually admitted that she had done it to find out whether breasts hurt.” BF
 - (Cans) “They gave him rusted film cans in which to put the vegetables he picked. He never bargained. They never cheated him. When the vegetables had been weighed and paid for, they would transfer them to his red plastic shopping basket” BG
 - (Cans) “Rahel thought of the someone who had taken the trouble to go up there with cans of paint, white for the clouds, blue for the sky, silver for the jets, and brushes, and thinner.” BH
-- (Bottles) “The pickled mangoes had absorbed oil and expanded, making the bottles leak.” BI => BI Mamachi's bottles always leak a little
+- (Bottles) “The pickled mangoes had absorbed oil and expanded, making the bottles leak.” BI
 
 ### Eggs and Bubbles
 - (Eggs) “Rahel had come to see her brother, Estha. They were two-egg twins. “Dizygotic” doctors called them. Born from separate but simultaneously fertilized eggs. Estha—Esthappen—was the older by eighteen minutes.” CA
@@ -107,16 +107,12 @@ Holes eminate sadness + fear:
 - DA Factory floor as gloomy after family is seperated-->
 
 ### Bottles Contain Emotions
-=> BH Cans of paint paints the funeral church sky
-
 Fear was handed to Estha bottled in Two Bottles:
 
 BE abuse as balance between bottle and um... that other thing. Which is also a bottle. Think about it a little bit harder.
 
 - CJ first, bubbled cold drink as fear. (maybe the other (sickly sweet) quote?) 
 - Of half-cooked eggwhites — of deformed love. => CC abuser having given Estha eggs as a product of love.
-
-
 
 ### Bottled Emotions are Handled to Little Gain
 Items, once bottled up, are frequently handled by characters overprotective of the bottled emotions in order to gain often minimal results. 
