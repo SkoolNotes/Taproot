@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7900)}}    % original
-%\rhead{\textrmlf{Compiled }\#7900\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7900\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7901)}}    % original
+%\rhead{\textrmlf{Compiled }\#7901\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7901\textrmlf{ on} \today}       % new date
 \lfoot{Go Away \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -212,5 +212,7 @@ My name is Huxley!
 I am 15, and I am in my second year of high school
 
 My favorite hobby is coding
+
+I'm looking for an intresting and kind.
 
 \end{document}

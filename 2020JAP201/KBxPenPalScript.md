@@ -46,6 +46,6 @@ I am 15, and I am in my second year of high school
 
 My favorite hobby is coding
 
-
+I'm looking for an intresting and kind.
 
 
