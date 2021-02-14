@@ -116,7 +116,7 @@ BE abuse as balance between bottle and um... that other thing. Which is also a b
 
 ### Bottled Emotions are Handled to no Avail
 - BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
-- BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles"
+- BC Estha attempting to carefully ride above emotions (cans) in order to prove his manhood
 
 - BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
