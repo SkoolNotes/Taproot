@@ -41,6 +41,7 @@ You may think of this analysis in two pieces:
 - (Cans) “When she was questioned by the Principal about her behavior (cajoled, caned, starved), she eventually admitted that she had done it to find out whether breasts hurt.” BF
 - (Cans) “They gave him rusted film cans in which to put the vegetables he picked. He never bargained. They never cheated him. When the vegetables had been weighed and paid for, they would transfer them to his red plastic shopping basket” BG
 - (Cans) “Rahel thought of the someone who had taken the trouble to go up there with cans of paint, white for the clouds, blue for the sky, silver for the jets, and brushes, and thinner.” BH
+- (Bottles) “The pickled mangoes had absorbed oil and expanded, making the bottles leak.” BI => BI Mamachi's bottles always leak a little
 
 ### Eggs and Bubbles
 - (Eggs) “Rahel had come to see her brother, Estha. They were two-egg twins. “Dizygotic” doctors called them. Born from separate but simultaneously fertilized eggs. Estha—Esthappen—was the older by eighteen minutes.” CA
