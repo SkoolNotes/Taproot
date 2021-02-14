@@ -111,7 +111,7 @@ Bottles contain emotions:
 - BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
 
-**Through tracking characters' use of the bottle as a container of strong emotions in GoST, Roy's novel paints a cautinary tale against the forcible containment of raw emotions which will lead to a depressive and gloomy downfall.**
+**Through tracking characters' use of the bottle as an instrument to contain strong emotions in the God of Small Things, the author novel paints a cautinary tale against the forcible containment of raw emotions which will lead to a depressive and gloomy downfall.**
 
 ## Outline
 - 
