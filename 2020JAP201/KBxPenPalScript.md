@@ -53,6 +53,7 @@ I'm the type who likes to work on projects and talk with friends.
 
 ペンパルできることをたのしみにしています。
 
+---
 
 はじめまして。
 
@@ -62,11 +63,11 @@ I'm the type who likes to work on projects and talk with friends.
 
 しゅみはコーディングです。
 
-おもしろくて、やさしいともだちをさがしています.
+おもしろくて、やさしいともだちをさがしています。
 
 ぼくは, プロジェクトにとりこんだり、ともだちとはなしをしたりするのがすきなタイプです。
 
-
+ペンパルできることをたのしみにしています。
 
 
 
