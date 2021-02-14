@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7902)}}    % original
-%\rhead{\textrmlf{Compiled }\#7902\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7902\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7903)}}    % original
+%\rhead{\textrmlf{Compiled }\#7903\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7903\textrmlf{ on} \today}       % new date
 \lfoot{Go Away \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -214,5 +214,7 @@ I am 15, and I am in my second year of high school
 My favorite hobby is coding
 
 I'm looking for an interesting and kind friend.
+
+I'm the type who likes to work on projects and talk with friends.
 
 \end{document}

@@ -48,4 +48,6 @@ My favorite hobby is coding
 
 I'm looking for an interesting and kind friend.
 
+I'm the type who likes to work on projects and talk with friends.
+
 
