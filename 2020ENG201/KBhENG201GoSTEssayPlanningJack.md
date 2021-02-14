@@ -84,6 +84,7 @@ You may think of this analysis in two pieces:
 - DA Factory floor as gloomy after family is seperated
 
 ### The Synthesis
+<!--
 Eggs express love, holes express sadness, fear, bottles contain emotions
 
 Eggs eminate love:
@@ -101,7 +102,7 @@ Holes eminate sadness + fear:
 - AG Valutha died as a victim, while bleeding black, rebtrobuting liquid from his hole
 - AE Estha experiences retrobution? death? by himself
 - AH Joe died, and Margret Kochamma hid that using a hole
-- DA Factory floor as gloomy after family is seperated
+- DA Factory floor as gloomy after family is seperated-->
 
 Bottles contain emotions:
 
@@ -110,8 +111,9 @@ Bottles contain emotions:
 - BD smell of movies bottled up for memories
 - BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
+- DA Factory floor as gloomy after family is seperated
 
-**Through tracking characters' use of the bottle as an instrument to contain strong emotions in the God of Small Things, the author novel paints a cautinary tale against the forcible containment of raw emotions which will lead to a depressive and gloomy downfall.**
+**Through tracking characters' use of the bottle as an instrument to contain strong emotions in the  _God of Small Things_, the novel paints a cautinary tale against the forcible containment of raw emotions which will lead to a depressive and gloomy downfall.**
 
 ## Outline
 - 
