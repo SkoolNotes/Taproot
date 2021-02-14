@@ -76,7 +76,6 @@ You may think of this analysis in two pieces:
 - CC abuser having given Estha eggs
 - CD sad sea queen where Rachel is loved less smelt of eggs
 - CF egg whites as polishing the ground floor of house
-- CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory
 - CH spit bubbles reminds Ammu of the twins' degenerate father
 - CI Estha blew bubbles into abuser's drink
 - CJ bubbled cold drink as fear
@@ -85,6 +84,8 @@ You may think of this analysis in two pieces:
 Wholedness: that one complements another.
 
 - AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution. Holes as retrobution.
+
+- CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
