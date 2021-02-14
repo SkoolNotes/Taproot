@@ -106,12 +106,16 @@ Holes eminate sadness + fear:
 - DA Factory floor as gloomy after family is seperated-->
 
 ### Bottles Contain Emotions
-Immediatly, Fear was handed to Estha bottled in Two Bottles:
+=> BH Cans of paint paints the funeral church sky
+
+Fear was handed to Estha bottled in Two Bottles:
 
 BE abuse as balance between bottle and um... that other thing. Which is also a bottle. Think about it a little bit harder.
 
 - CJ first, bubbled cold drink as fear. (maybe the other (sickly sweet) quote?) 
 - Of half-cooked eggwhites — of deformed love. => CC abuser having given Estha eggs as a product of love.
+
+
 
 ### Bottled Emotions are Handled to Little Gain
 Items, once bottled up, are frequently handled by characters overprotective of the bottled emotions in order to gain often minimal results. 
