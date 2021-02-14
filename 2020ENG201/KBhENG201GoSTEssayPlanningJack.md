@@ -110,9 +110,10 @@ Right before the abuse, Rahel attempted to capture the final reminants of her po
 
 Immediatly, Fear was handed to Estha as Two Bottles:
 
-- BE abuse as balance between bottle and um... that other thing. Which is also a bottle. Of half
-- 
-- (that contains fizzy drink of fear) => CJ bubbled cold drink as fear. (maybe the other quote?)
+- CJ bubbled cold drink as fear. (maybe the other quote?)
+- BE abuse as balance between bottle and um... that other thing. Which is also a bottle. Of half-cooked eggwhites — of deformed love.
+
+- (that contains fizzy drink of fear) => 
 
 - BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
 - BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles" — work above emotions?
