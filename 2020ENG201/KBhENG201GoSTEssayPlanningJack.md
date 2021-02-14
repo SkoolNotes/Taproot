@@ -43,11 +43,11 @@ You may think of this analysis in two pieces:
 
 ### Eggs and Bubbles
 - (Eggs) “Rahel had come to see her brother, Estha. They were two-egg twins. “Dizygotic” doctors called them. Born from separate but simultaneously fertilized eggs. Estha—Esthappen—was the older by eighteen minutes.” CA
-- (Eggs) "'I tell you, these Hindus,'' Baby Kochamma said piously. 'They have no sense of privacy' // 'They have horns and scaly skins,'' Chacko said sarcastically. 'And I’ve heard that their babies hatch from eggs.''" CB => CB Chacko sarcastically relates babies of Hindus as being from eggs
-- Ok so this again. I am so sorry. (Eggs) “Then the gristly-bristly face contorted, and Estha’s hand was wet and hot and sticky. It had egg white on it. White egg white. Quarter-boiled.” CC => CC abuser having given Estha eggs
-- (Eggs) “The moth on Rahel’s heart lifted a downy leg. Then put it back. Its little leg was cold. A little less her mother loved her. The Sea Queen room smelled of eggs and filter coffee.” CD => CD sad sea queen where Rachel is loved less smelt of eggs
-- (Eggs) “When the red cement floor [to the Ayemenem House] was laid, the egg whites from nearly nine hundred eggs went into it. It took a high polish.” CF => CF egg whites as polishing the ground floor of house
-- (Eggs) “War could have been the stallion that he rode, part of, if not all, the way to the Legislative Assembly, whereas victory left him no better off than when he started out. He broke the eggs but burned the omelette.” CG => CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory
+- (Eggs) "'I tell you, these Hindus,'' Baby Kochamma said piously. 'They have no sense of privacy' // 'They have horns and scaly skins,'' Chacko said sarcastically. 'And I’ve heard that their babies hatch from eggs.''" CB
+- Ok so this again. I am so sorry. (Eggs) “Then the gristly-bristly face contorted, and Estha’s hand was wet and hot and sticky. It had egg white on it. White egg white. Quarter-boiled.” CC
+- (Eggs) “The moth on Rahel’s heart lifted a downy leg. Then put it back. Its little leg was cold. A little less her mother loved her. The Sea Queen room smelled of eggs and filter coffee.” CD
+- (Eggs) “When the red cement floor [to the Ayemenem House] was laid, the egg whites from nearly nine hundred eggs went into it. It took a high polish.” CF
+- (Eggs) “War could have been the stallion that he rode, part of, if not all, the way to the Legislative Assembly, whereas victory left him no better off than when he started out. He broke the eggs but burned the omelette.” CG
 - (Bubbles) “Rahel ignored her and blew an inadvertent spit bubble. Ammu hated them blowing spit bubbles. She said it reminded her of Babà. Their father. She said that he used to blow spit bubbles and shiver his leg. According to Ammu, only clerks behaved like that, not aristocrats.” CH => CH spit bubbles reminds Ammu of the twins' degenerate father
 - (Bubbles) “Blowing through the straw (while his other hand moved), Estha blew bubbles into the bottle. Stickysweet lemon bubbles of the drink he couldn’t drink.” CI => CI Estha blew bubbles into abuser's drink
 - (Bubbles) “So once again, in the space of two weeks, bottled Fear for Estha. Chilled. Fizzed. Sometimes Things went worse with Coke. The fizz went up his nose. He burped. Rahel giggled. She blew through her straw till the drink bubbled over onto her dress. All over the floor.” CJ => CJ bubbled cold drink as fear
@@ -73,6 +73,13 @@ BF Rahel "canned" by principle due to her childlike nature
 BE silent Estha places vegetables in film cans
 
 CA twins as "two-egged"
+CB Chacko sarcastically relates babies of Hindus as being from eggs
+CC abuser having given Estha eggs
+CD sad sea queen where Rachel is loved less smelt of eggs
+CF egg whites as polishing the ground floor of house
+ => CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory
+
+
 
 	
 ## Defluffifying
