@@ -105,7 +105,6 @@ Holes eminate sadness + fear:
 - DA Factory floor as gloomy after family is seperated-->
 
 ### Bottles Contain Emotions
-Right before the abuse, Rahel attempted to capture the final reminants of her positive emotion into a "bottle", BD smell of movies bottled up for memories.
 
 Immediatly, Fear was handed to Estha bottled in Two Bottles:
 
@@ -121,6 +120,7 @@ BA Baby Kochamma — the opportunist that also looses the big picture — drinks
 
 In order to proof his manhood, Estha BC attempting to carefully ride above emotions (cans). This restraint of emotions ("sing outside"), of course, lead to him being abused.
 
+### The Bottling Process Ultimately Leads to Downfall
 - BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
 - DA Factory floor as gloomy after family is seperated
