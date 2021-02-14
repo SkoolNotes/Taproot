@@ -115,9 +115,10 @@ BE abuse as balance between bottle and um... that other thing. Which is also a b
 - Of half-cooked eggwhites — of deformed love. => CC abuser having given Estha eggs as a product of love.
 
 ### Bottled Emotions are Handled to Little Gain
-Items, once bottled up, are frequently handled by characters in the story in order to achive some gain. 
+Items, once bottled up, are frequently handled by characters overprotective of the bottled emotions in order to gain often minimal results. 
 
-- BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
+BA Baby Kochamma — the opportunist that also looses drinks weak gruel locked away instead of water (seeking to gain small gains by taking the wastewater of rice cooking) — literally valuing the wastewater of a paulper.
+
 - BC Estha attempting to carefully ride above emotions (cans) in order to prove his manhood
 
 - BF Rahel "canned" by principle due to her childlike nature
