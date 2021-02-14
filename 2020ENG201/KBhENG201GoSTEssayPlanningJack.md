@@ -83,7 +83,10 @@ You may think of this analysis in two pieces:
 ### The Synthesis
 Wholedness: that one complements another.
 
+Eggs as leniency, holes as retrobution
+
 - AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution. Holes as retrobution.
+
 
 - CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory
 
