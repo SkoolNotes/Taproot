@@ -96,8 +96,11 @@ Eggs as a symbolism of love and connection:
 - CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory/family
 
 
-- AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution. Holes as retrobution.
-: eggs here breaking broken means that traditional orders broke
+
+
+
+
+
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
