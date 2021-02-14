@@ -42,7 +42,7 @@ You may think of this analysis in two pieces:
 - (Cans) “They gave him rusted film cans in which to put the vegetables he picked. He never bargained. They never cheated him. When the vegetables had been weighed and paid for, they would transfer them to his red plastic shopping basket” BE
 
 ### Eggs and Bubbles
-- (Eggs) “Rahel had come to see her brother, Estha. They were two-egg twins. “Dizygotic” doctors called them. Born from separate but simultaneously fertilized eggs. Estha—Esthappen—was the older by eighteen minutes.” CA => CA twins as "two-egged"
+- (Eggs) “Rahel had come to see her brother, Estha. They were two-egg twins. “Dizygotic” doctors called them. Born from separate but simultaneously fertilized eggs. Estha—Esthappen—was the older by eighteen minutes.” CA
 - (Eggs) "'I tell you, these Hindus,'' Baby Kochamma said piously. 'They have no sense of privacy' // 'They have horns and scaly skins,'' Chacko said sarcastically. 'And I’ve heard that their babies hatch from eggs.''" CB => CB Chacko sarcastically relates babies of Hindus as being from eggs
 - Ok so this again. I am so sorry. (Eggs) “Then the gristly-bristly face contorted, and Estha’s hand was wet and hot and sticky. It had egg white on it. White egg white. Quarter-boiled.” CC => CC abuser having given Estha eggs
 - (Eggs) “The moth on Rahel’s heart lifted a downy leg. Then put it back. Its little leg was cold. A little less her mother loved her. The Sea Queen room smelled of eggs and filter coffee.” CD => CD sad sea queen where Rachel is loved less smelt of eggs
@@ -70,7 +70,9 @@ BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottl
 BD smell of movies bottled up for memories
 BE abuse as balance between bottle and um... that other thing
 BF Rahel "canned" by principle due to her childlike nature
- => BE silent Estha places vegetables in film cans
+BE silent Estha places vegetables in film cans
+
+CA twins as "two-egged"
 
 	
 ## Defluffifying
