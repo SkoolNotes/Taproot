@@ -110,7 +110,7 @@ Right before the abuse, Rahel attempted to capture the final reminants of her po
 
 Immediatly, Fear was handed to Estha bottled in Two Bottles:
 
-BE abuse as balance between bottle and um... that other thing. Which is also a bottle. Th
+BE abuse as balance between bottle and um... that other thing. Which is also a bottle. Think about it a little bit harder.
 
 - CJ first, bubbled cold drink as fear. (maybe the other (sickly sweet) quote?) 
 - Of half-cooked eggwhites — of deformed love. => CC abuser having given Estha eggs as a product of love.
