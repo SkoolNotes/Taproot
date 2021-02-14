@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7904)}}    % original
-%\rhead{\textrmlf{Compiled }\#7904\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7904\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7905)}}    % original
+%\rhead{\textrmlf{Compiled }\#7905\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7905\textrmlf{ on} \today}       % new date
 \lfoot{Go Away \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 

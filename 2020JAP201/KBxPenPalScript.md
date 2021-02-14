@@ -38,6 +38,7 @@ For example, 「私は、書いたり、詩（し＝poem）をつくったりす
 #3: I'll look forward to doing pen pal with you. ＝ペンパルできることをたのしみにしています。
 
 
+
 hajimemashite!
 
 My name is Huxley!
@@ -51,3 +52,25 @@ I'm looking for an interesting and kind friend.
 I'm the type who likes to work on projects and talk with friends.
 
 ペンパルできることをたのしみにしています。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
