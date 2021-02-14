@@ -95,8 +95,8 @@ The "empty" cans/eggs — filled with vegetables, babies
 
 When factory got broken by comrad, eggs were shattered. When Rachel is loved less, the room smelt of eggs.
 
-Connection as manifest by eggs... But not necessarily positive connection
 
+Connections manifested by eggs
 - CA twins as "two-egged" — that they are in some respects inseperalbe
 - CD sad sea queen where Rachel is loved less smelt of eggs — Rahel is loved a little less, and she "smells" others being loved (Sophie Mol?)
 - CC abuser having given Estha eggs: "I know where you live" — Estha fully connected with his abuser and his potential arrival haunts him

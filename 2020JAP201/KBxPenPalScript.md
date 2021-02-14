@@ -56,7 +56,9 @@ I'm the type who likes to work on projects and talk with friends.
 
 はじめまして。
 
-ぼくのなまえは
+ぼくのなまえはハクスリーです。
+
+じゅうごさいです。こうこう
 
 
 
