@@ -101,6 +101,7 @@ Holes eminate sadness + fear:
 - AG Valutha died as a victim, while bleeding black, rebtrobuting liquid from his hole
 - AE Estha experiences retrobution? death? by himself
 - AH Joe died, and Margret Kochamma hid that using a hole
+- DA Factory floor as gloomy after family is seperated
 
 Bottles contain emotions:
 
@@ -110,7 +111,7 @@ Bottles contain emotions:
 - BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
 
-**Through tracking symbolistic small objects in GoST — the loving egg, the fearful hole, and the supressive bottle — Roy paints a cautinary tale against the forcible containment of raw emotions which would**
+**Through tracking symbolistic small objects in GoST — the loving egg, the fearful hole, and the supressive bottle — Roy paints a cautinary tale against the forcible containment of raw emotions which will lead to **
 
 ## Outline
 - Claim 1: *claim*
