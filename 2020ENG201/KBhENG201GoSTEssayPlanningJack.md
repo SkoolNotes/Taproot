@@ -94,8 +94,8 @@ Connection as manifest by eggs... But not necessarily positive.
 
 - CA twins as "two-egged" — that they are in some respects inseperalbe
 - CD sad sea queen where Rachel is loved less smelt of eggs — Rahel is loved a little less, and she "smells" others being loved (Sophie Mol?)
+- CC abuser having given Estha eggs: "I know where you live" — Estha fully connected with his abuser and his potential arrival haunts him
 - CF egg whites as polishing the ground floor of house: the house itself is originally a place of togetherness
-- CC abuser having given Estha eggs: "I know where you live" — Estha fully connected with his abuser and he haunts him
 
 
 - CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory
