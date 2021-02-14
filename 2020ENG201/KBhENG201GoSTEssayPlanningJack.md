@@ -23,10 +23,10 @@ You may think of this analysis in two pieces:
 "Whole was very frequent"
 
 ### Holes and Smashed
-- (Holes) “Wild creepers burst through latente banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.” AA => AA muddy water fills public works' caused holes in road
-- (Holes) “Steelshrill police whistles pierced holes in the Noise Umbrella. Through the jagged umbrella holes Rahel could see pieces of red sky.” (w.r.t. communism march) AB => AB holes in communist umbrella reveal sky?
-- (Holes + Squash) “Vellya Paapen had assured the twins that there was no such thing in the world as a black cat. He said that there were only black cat-shaped holes in the Universe. // Squashed Miss Mitten-shaped stains in the Universe. // Squashed frog-shaped stains in the Universe.” AC => AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution. Holes as retrobution.
-- (Holes) “Chacko marveled at how someone so small and undefined, so vague in her resemblances, could so completely command the attention, the love, the sanity, of a grown man. // When he left, he felt that something had been torn out of him. Something big. // But Joe was dead now. Killed in a car crash. Dead as a doorknob. A Joe-shaped Hole in the Universe.” AD => AD death as leaving a hole + leaving as tearing a hole
+- (Holes) “Wild creepers burst through latente banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.” AA
+- (Holes) “Steelshrill police whistles pierced holes in the Noise Umbrella. Through the jagged umbrella holes Rahel could see pieces of red sky.” (w.r.t. communism march) AB
+- (Holes + Squash) “Vellya Paapen had assured the twins that there was no such thing in the world as a black cat. He said that there were only black cat-shaped holes in the Universe. // Squashed Miss Mitten-shaped stains in the Universe. // Squashed frog-shaped stains in the Universe.” AC
+- (Holes) “Chacko marveled at how someone so small and undefined, so vague in her resemblances, could so completely command the attention, the love, the sanity, of a grown man. // When he left, he felt that something had been torn out of him. Something big. // But Joe was dead now. Killed in a car crash. Dead as a doorknob. A Joe-shaped Hole in the Universe.” AD
 - (Holes) “Estha wouldn’t look up. His mind was full of trains. He blocked the light from the door. An Estha-shaped Hole in the Universe.” (no, train was not mentioned elsewhere) AE => AE Estha experiences retrobution? death? by himself
 - (Holes) “How marvelous!” Margaret Kochamma said. 'It’s a sort of sniffing! Do the Men and Women do it to each other too?'' She hadn’t meant it to sound quite like that, and she blushed. An embarrassed schoolteacher-shaped Hole in the Universe.” AE => AE British people looking down upon Indians, having been snapped at, "dies" and gets hole-y retrobution
 - (Holes) “Esthappen and Rahel both knew that there were several perpetrators (besides themselves) that day. But only one victim. ... He left behind a Hole in the Universe through which darkness poured like liquid tar.”  AF => AF Valutha died as a victim, while bleeding black, rebtrobuting liquid from his hole
@@ -55,8 +55,13 @@ You may think of this analysis in two pieces:
 
 ## Claim Synthesis
 ### The Bin
-
-
+AA muddy water fills public works' caused holes in road
+AB holes in communist umbrella reveal sky?
+AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution. Holes as retrobution.
+AD death as leaving a hole + leaving as tearing a hole
+	
+	
+	
 	
 ## Defluffifying
 CHOSEN THESIS CLAIM
