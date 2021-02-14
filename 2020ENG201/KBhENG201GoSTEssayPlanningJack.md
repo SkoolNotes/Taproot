@@ -95,15 +95,14 @@ Eggs as a symbolism of love and connection:
 - CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory/family
 
 Bottles contain emotions
+
 - BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
 - BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles" — work above emotions?
 - BB Industrial botteling machine for sealing bottles leads to financial slide
 
+
+
 Bottling emotions leads to downfall!!
-
-
-
-
 
 
 ## Defluffifying
