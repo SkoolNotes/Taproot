@@ -121,13 +121,15 @@ BA Baby Kochamma — the opportunist that also looses the big picture — drinks
 
 In order to proof his manhood, Estha BC attempting to carefully ride above emotions (cans). This restraint of emotions ("sing outside"), of course, lead to him being abused.
 
+ => BI Mamachi's bottles always leak a little
+
 ### The Bottling Process Ultimately Leads to Downfall
 Right before the abuse, Rahel attempted to capture the final reminants of her positive emotion into a "bottle", BD smell of movies bottled up for memories.
 - BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
 - DA Factory floor as gloomy after family is seperated
 
-**Through tracking characters' use of the bottle as an instrument to contain strong emotions in the  _God of Small Things_ — namely, that of love, as represented by the Egg, and of fear, as in the Hole — the novel paints a cautinary tale against the forcible containment of raw emotions which will lead to a depressive and gloomy downfall.**
+**Through tracking characters' use of the container as an instrument to preserve strong emotions in the  _God of Small Things_ — namely, that of love, as represented by the Egg, and of fear, as in the Hole — the novel paints a cautinary tale against the forcible containment of raw emotions which will lead to a depressive and gloomy downfall.**
 
 ## Outline
 - 
