@@ -54,7 +54,9 @@ I'm the type who likes to work on projects and talk with friends.
 ペンパルできることをたのしみにしています。
 
 
+はじめまして。
 
+ぼくのなまえは
 
 
 
