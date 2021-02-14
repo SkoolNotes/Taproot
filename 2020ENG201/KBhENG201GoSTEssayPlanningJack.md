@@ -85,18 +85,7 @@ You may think of this analysis in two pieces:
 - DA Factory floor as gloomy after family is seperated
 
 ### The Synthesis
-Wholedness: that one complements another.
-
-God of Small Things: contrast.
-
-The "full" holes — filled with vengence, sadness, fear, => "black tar".
-
-The "empty" cans/eggs — filled with vegetables, babies
-
-When factory got broken by comrad, eggs were shattered. When Rachel is loved less, the room smelt of eggs.
-
-
-Eggs connect, bottles contain, 
+Eggs connect, bottles contain, holes express emotion of sadness, fear, vengence => "black tar".
 
 Eggs as a symbolism of love and connection:
 
