@@ -111,7 +111,7 @@ Bottles contain emotions:
 - BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
 
-**Through tracking characters' use of symbolistic small objects in GoST — that cans and bottles are used to contain both the egg's emination of love and the hole's spread of fear and hate — Roy's novel paints a cautinary tale against the forcible containment of raw emotions which will lead to a depressive and gloomy downfall.**
+**Through tracking characters' use of the bottle as a container of strong emotions in GoST, Roy's novel paints a cautinary tale against the forcible containment of raw emotions which will lead to a depressive and gloomy downfall.**
 
 ## Outline
 - 
