@@ -43,9 +43,9 @@ You may think of this analysis in two pieces:
 
 ### Eggs and Bubbles
 - (Eggs) “Rahel had come to see her brother, Estha. They were two-egg twins. “Dizygotic” doctors called them. Born from separate but simultaneously fertilized eggs. Estha—Esthappen—was the older by eighteen minutes.” CA => CA twins as "two-egged"
-- (Eggs) "'I tell you, these Hindus,'' Baby Kochamma said piously. 'They have no sense of privacy' // 'They have horns and scaly skins,'' Chacko said sarcastically. 'And I’ve heard that their babies hatch from eggs.''" CB => CB C
-- Ok so this again. I am so sorry. (Eggs) “Then the gristly-bristly face contorted, and Estha’s hand was wet and hot and sticky. It had egg white on it. White egg white. Quarter-boiled.”
-- (Eggs) “The moth on Rahel’s heart lifted a downy leg. Then put it back. Its little leg was cold. A little less her mother loved her. The Sea Queen room smelled of eggs and filter coffee.”
+- (Eggs) "'I tell you, these Hindus,'' Baby Kochamma said piously. 'They have no sense of privacy' // 'They have horns and scaly skins,'' Chacko said sarcastically. 'And I’ve heard that their babies hatch from eggs.''" CB => CB Chacko sarcastically relates babies of Hindus as being from eggs
+- Ok so this again. I am so sorry. (Eggs) “Then the gristly-bristly face contorted, and Estha’s hand was wet and hot and sticky. It had egg white on it. White egg white. Quarter-boiled.” CC => CC abuser having given Estha eggs
+- (Eggs) “The moth on Rahel’s heart lifted a downy leg. Then put it back. Its little leg was cold. A little less her mother loved her. The Sea Queen room smelled of eggs and filter coffee.” CD => CD sad sea queen where Rachel is loved less smelt of eggs
 - (Eggs) “When the red cement floor [to the Ayemenem House] was laid, the egg whites from nearly nine hundred eggs went into it. It took a high polish.”
 - (Eggs) “War could have been the stallion that he rode, part of, if not all, the way to the Legislative Assembly, whereas victory left him no better off than when he started out. He broke the eggs but burned the omelette.” 
 - (Eggs) “Father Mulligan was in saffron. A yolk addressing a sea of boiled eggs. His white beard and hair were long, but combed and groomed”
