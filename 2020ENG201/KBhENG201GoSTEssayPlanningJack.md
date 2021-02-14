@@ -35,7 +35,7 @@ You may think of this analysis in two pieces:
 ### Bottles and Cans
 - (Bottles) “She even locked her sad, paint-flaking fridge, where she kept her week’s supply of cream buns that Kochu Maria brought her from Bestbakery in Kottayam. And the two bottles of rice water that she drank instead of ordinary water.” (w.r.t. Baby Kochamma) BA
 - (Bottle (sealing)) “He commuted his pension and provident fund to buy a Bharat bottle-sealing machine. Mammachi just ran it like a large kitchen. Chacko had it registered as a partnership and informed Mammachi that she was the Sleeping Partner. He invested in equipment (canning machines, cauldrons, cookers) and expanded the labor force. Almost immediately, the financial slide began” BB
-- (Cans) “His honor redeemed by his grandmother’s cans, Estha Alone organized the rusty cans of nothing in front of the urinal. He stood on them, one foot on each, and pissed carefully, with minimal wobble.” BC
+- (Cans) “His honor redeemed by his grandmother’s cans, Estha Alone organized the rusty cans of nothing in front of the urinal. He stood on them, one foot on each, and pissed carefully, with minimal wobble. Like a Man.” BC
 - (Bottles (Closing)) “Sound of Music smell that Rahel remembered and treasured. Smells, like music, hold memories. She breathed deep, and bottled it up for posterity.” BD
 - (Bottles, and other things.) Welp welp welp this is a quote from the book so here goes nothing “He got a cold bottle and a straw. So he held a bottle in one hand and a penis in the other.” BE
 - (Cans) “When she was questioned by the Principal about her behavior (cajoled, caned, starved), she eventually admitted that she had done it to find out whether breasts hurt.” BF
@@ -116,9 +116,8 @@ BE abuse as balance between bottle and um... that other thing. Which is also a b
 
 ### Bottled Emotions are Handled to no Avail
 - BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
+- BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles"
 
-
-- BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles" — work above emotions?
 - BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
 - DA Factory floor as gloomy after family is seperated
