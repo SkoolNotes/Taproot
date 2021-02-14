@@ -91,7 +91,7 @@ Eggs eminate love:
 - CA twins as "two-egged" — that they are in some respects inseperalbe
 - CD sad sea queen where Rachel is loved less smelt of eggs — Rahel is loved a little less, and she "smells" others being loved (Sophie Mol?)
 - CC abuser having given Estha eggs: "I know where you live" — Estha fully connected with his abuser and his potential arrival haunts him
-- CF egg whites as polishing the ground floor of house: the house itself is originally a place of togetherness => DA Factory floor as gloomy after family is seperated (no longer has the polish of egg whites)
+- CF egg whites as polishing the ground floor of house: the house itself is originally a place of togetherness
 - CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory/family
 
 Holes eminate sadness + fear:
@@ -111,7 +111,7 @@ Bottles contain emotions:
 - BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
 
-**Through tracking symbolistic small objects in GoST — the loving egg, the fearful hole, and the supressive bottle — Roy paints a cautinary tale against the forcible containment of raw emotions which will lead to **
+**Through tracking symbolistic small objects in GoST — the loving egg, the fearful hole, and the supressive bottle — Roy paints a cautinary tale against the forcible containment of raw emotions which will lead to a gloomy downfall.**
 
 ## Outline
 - Claim 1: *claim*
