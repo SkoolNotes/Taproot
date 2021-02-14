@@ -23,7 +23,7 @@ You may think of this analysis in two pieces:
 "Whole was very frequent"
 
 ### Holes and Smashed
-- (Holes) “Wild creepers burst through latente banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.”
+- (Holes) “Wild creepers burst through latente banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.” AA => AA 
 - (Holes) “Steelshrill police whistles pierced holes in the Noise Umbrella. Through the jagged umbrella holes Rahel could see pieces of red sky.” (w.r.t. communism march)
 - (Smash) “Steelshrill police whistles pierced holes in the Noise Umbrella. Through the jagged umbrella holes Rahel could see pieces of red sky.”
 - (Holes + Squash) “Vellya Paapen had assured the twins that there was no such thing in the world as a black cat. He said that there were only black cat-shaped holes in the Universe. // Squashed Miss Mitten-shaped stains in the Universe. // Squashed frog-shaped stains in the Universe.”
@@ -55,7 +55,7 @@ You may think of this analysis in two pieces:
 - (Eggs) “Father Mulligan was in saffron. A yolk addressing a sea of boiled eggs. His white beard and hair were long, but combed and groomed”
 - (Bubbles) “Rahel ignored her and blew an inadvertent spit bubble. Ammu hated them blowing spit bubbles. She said it reminded her of Babà. Their father. She said that he used to blow spit bubbles and shiver his leg. According to Ammu, only clerks behaved like that, not aristocrats.”
 - (Bubbles) “Blowing through the straw (while his other hand moved), Estha blew bubbles into the bottle. Stickysweet lemon bubbles of the drink he couldn’t drink.”
-
+- (Bubbles) “So once again, in the space of two weeks, bottled Fear for Estha. Chilled. Fizzed. Sometimes Things went worse with Coke. The fizz went up his nose. He burped. Rahel giggled. She blew through her straw till the drink bubbled over onto her dress. All over the floor.”
 
 
 ## Claim Synthesis
