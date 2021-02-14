@@ -38,12 +38,12 @@ You may think of this analysis in two pieces:
 - (Cans) “His honor redeemed by his grandmother’s cans, Estha Alone organized the rusty cans of nothing in front of the urinal. He stood on them, one foot on each, and pissed carefully, with minimal wobble.” BC => BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles"
 - (Bottles (Closing)) “Sound of Music smell that Rahel remembered and treasured. Smells, like music, hold memories. She breathed deep, and bottled it up for posterity.” BD => BD smell of movies bottled up for memories
 - (Bottles, and other things.) Welp welp welp this is a quote from the book so here goes nothing “He got a cold bottle and a straw. So he held a bottle in one hand and a penis in the other.” BE => BE abuse as balance between bottle and um... that other thing
-- (Cans) “When she was questioned by the Principal about her behavior (cajoled, caned, starved), she eventually admitted that she had done it to find out whether breasts hurt.” BF => BF Rahel "canned" 
-- (Cans) “They gave him rusted film cans in which to put the vegetables he picked. He never bargained. They never cheated him. When the vegetables had been weighed and paid for, they would transfer them to his red plastic shopping basket”
+- (Cans) “When she was questioned by the Principal about her behavior (cajoled, caned, starved), she eventually admitted that she had done it to find out whether breasts hurt.” BF => BF Rahel "canned" by principle due to her childlike nature
+- (Cans) “They gave him rusted film cans in which to put the vegetables he picked. He never bargained. They never cheated him. When the vegetables had been weighed and paid for, they would transfer them to his red plastic shopping basket” BE => BE silent Estha places vegetables in film cans
 
 ### Eggs and Bubbles
-- (Eggs) “Rahel had come to see her brother, Estha. They were two-egg twins. “Dizygotic” doctors called them. Born from separate but simultaneously fertilized eggs. Estha—Esthappen—was the older by eighteen minutes.”
-- (Eggs) "'I tell you, these Hindus,'' Baby Kochamma said piously. 'They have no sense of privacy' // 'They have horns and scaly skins,'' Chacko said sarcastically. 'And I’ve heard that their babies hatch from eggs.''"
+- (Eggs) “Rahel had come to see her brother, Estha. They were two-egg twins. “Dizygotic” doctors called them. Born from separate but simultaneously fertilized eggs. Estha—Esthappen—was the older by eighteen minutes.” CA => CA twins as "two-egged"
+- (Eggs) "'I tell you, these Hindus,'' Baby Kochamma said piously. 'They have no sense of privacy' // 'They have horns and scaly skins,'' Chacko said sarcastically. 'And I’ve heard that their babies hatch from eggs.''" CB => CB C
 - Ok so this again. I am so sorry. (Eggs) “Then the gristly-bristly face contorted, and Estha’s hand was wet and hot and sticky. It had egg white on it. White egg white. Quarter-boiled.”
 - (Eggs) “The moth on Rahel’s heart lifted a downy leg. Then put it back. Its little leg was cold. A little less her mother loved her. The Sea Queen room smelled of eggs and filter coffee.”
 - (Eggs) “When the red cement floor [to the Ayemenem House] was laid, the egg whites from nearly nine hundred eggs went into it. It took a high polish.”
