@@ -23,8 +23,8 @@ You may think of this analysis in two pieces:
 "Whole was very frequent"
 
 ### Holes and Smashed
-- (Holes) “Wild creepers burst through latente banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.” AA => AA 
-- (Holes) “Steelshrill police whistles pierced holes in the Noise Umbrella. Through the jagged umbrella holes Rahel could see pieces of red sky.” (w.r.t. communism march)
+- (Holes) “Wild creepers burst through latente banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.” AA => AA muddy water fills public works' caused holes in road
+- (Holes) “Steelshrill police whistles pierced holes in the Noise Umbrella. Through the jagged umbrella holes Rahel could see pieces of red sky.” (w.r.t. communism march) AB => AB
 - (Smash) “Steelshrill police whistles pierced holes in the Noise Umbrella. Through the jagged umbrella holes Rahel could see pieces of red sky.”
 - (Holes + Squash) “Vellya Paapen had assured the twins that there was no such thing in the world as a black cat. He said that there were only black cat-shaped holes in the Universe. // Squashed Miss Mitten-shaped stains in the Universe. // Squashed frog-shaped stains in the Universe.”
 - (Holes) “Chacko marveled at how someone so small and undefined, so vague in her resemblances, could so completely command the attention, the love, the sanity, of a grown man. // When he left, he felt that something had been torn out of him. Something big. // But Joe was dead now. Killed in a car crash. Dead as a doorknob. A Joe-shaped Hole in the Universe.”
