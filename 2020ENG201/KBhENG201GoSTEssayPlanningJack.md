@@ -39,7 +39,7 @@ You may think of this analysis in two pieces:
 - (Bottles (Closing)) “Sound of Music smell that Rahel remembered and treasured. Smells, like music, hold memories. She breathed deep, and bottled it up for posterity.” BD
 - (Bottles, and other things.) Welp welp welp this is a quote from the book so here goes nothing “He got a cold bottle and a straw. So he held a bottle in one hand and a penis in the other.” BE
 - (Cans) “When she was questioned by the Principal about her behavior (cajoled, caned, starved), she eventually admitted that she had done it to find out whether breasts hurt.” BF
-- (Cans) “They gave him rusted film cans in which to put the vegetables he picked. He never bargained. They never cheated him. When the vegetables had been weighed and paid for, they would transfer them to his red plastic shopping basket” BE
+- (Cans) “They gave him rusted film cans in which to put the vegetables he picked. He never bargained. They never cheated him. When the vegetables had been weighed and paid for, they would transfer them to his red plastic shopping basket” BG
 
 ### Eggs and Bubbles
 - (Eggs) “Rahel had come to see her brother, Estha. They were two-egg twins. “Dizygotic” doctors called them. Born from separate but simultaneously fertilized eggs. Estha—Esthappen—was the older by eighteen minutes.” CA
@@ -87,7 +87,7 @@ God of Small Things: contrast.
 
 The "full" holes — filled with vengence, sadness, fear, => "black tar".
 
-The "empty" cans/eggs — filled
+The "empty" cans/eggs — filled with vegetables, babies
 
 - AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution. Holes as retrobution.
 - CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory: eggs here breaking broken means that traditional orders broke
