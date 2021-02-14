@@ -110,7 +110,7 @@ Bottles contain emotions:
 - BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
 
-
+Through tracking ssmall objects in GoST, Roy paints a cautinary tale agains
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
