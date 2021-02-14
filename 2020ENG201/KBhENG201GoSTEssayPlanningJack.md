@@ -48,39 +48,39 @@ You may think of this analysis in two pieces:
 - (Eggs) “The moth on Rahel’s heart lifted a downy leg. Then put it back. Its little leg was cold. A little less her mother loved her. The Sea Queen room smelled of eggs and filter coffee.” CD
 - (Eggs) “When the red cement floor [to the Ayemenem House] was laid, the egg whites from nearly nine hundred eggs went into it. It took a high polish.” CF
 - (Eggs) “War could have been the stallion that he rode, part of, if not all, the way to the Legislative Assembly, whereas victory left him no better off than when he started out. He broke the eggs but burned the omelette.” CG
-- (Bubbles) “Rahel ignored her and blew an inadvertent spit bubble. Ammu hated them blowing spit bubbles. She said it reminded her of Babà. Their father. She said that he used to blow spit bubbles and shiver his leg. According to Ammu, only clerks behaved like that, not aristocrats.” CH => CH spit bubbles reminds Ammu of the twins' degenerate father
-- (Bubbles) “Blowing through the straw (while his other hand moved), Estha blew bubbles into the bottle. Stickysweet lemon bubbles of the drink he couldn’t drink.” CI => CI Estha blew bubbles into abuser's drink
-- (Bubbles) “So once again, in the space of two weeks, bottled Fear for Estha. Chilled. Fizzed. Sometimes Things went worse with Coke. The fizz went up his nose. He burped. Rahel giggled. She blew through her straw till the drink bubbled over onto her dress. All over the floor.” CJ => CJ bubbled cold drink as fear
+- (Bubbles) “Rahel ignored her and blew an inadvertent spit bubble. Ammu hated them blowing spit bubbles. She said it reminded her of Babà. Their father. She said that he used to blow spit bubbles and shiver his leg. According to Ammu, only clerks behaved like that, not aristocrats.” CH
+- (Bubbles) “Blowing through the straw (while his other hand moved), Estha blew bubbles into the bottle. Stickysweet lemon bubbles of the drink he couldn’t drink.” CI
+- (Bubbles) “So once again, in the space of two weeks, bottled Fear for Estha. Chilled. Fizzed. Sometimes Things went worse with Coke. The fizz went up his nose. He burped. Rahel giggled. She blew through her straw till the drink bubbled over onto her dress. All over the floor.” CJ
 
 
 ## Claim Synthesis
 ### The Bin
-AA muddy water fills public works' caused holes in road
-AB holes in communist umbrella reveal sky?
-AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution. Holes as retrobution.
-AD death as leaving a hole + leaving as tearing a hole
-AE Estha experiences retrobution? death? by himself
-AF British people looking down upon Indians, having been snapped at, "dies" and gets hole-y retrobution
-AG Valutha died as a victim, while bleeding black, rebtrobuting liquid from his hole
-AH Joe died, and Margret Kochamma hid that using a hole
+- AA muddy water fills public works' caused holes in road
+- AB holes in communist umbrella reveal sky?
+- AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution. Holes as retrobution.
+- AD death as leaving a hole + leaving as tearing a hole
+- AE Estha experiences retrobution? death? by himself
+- AF British people looking down upon Indians, having been snapped at, "dies" and gets hole-y retrobution
+- AG Valutha died as a victim, while bleeding black, rebtrobuting liquid from his hole
+- AH Joe died, and Margret Kochamma hid that using a hole
 
-BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
-BB Industrial botteling machine for sealing bottles leads to financial slide
-BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles"
-BD smell of movies bottled up for memories
-BE abuse as balance between bottle and um... that other thing
-BF Rahel "canned" by principle due to her childlike nature
-BE silent Estha places vegetables in film cans
+- BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
+- BB Industrial botteling machine for sealing bottles leads to financial slide
+- BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles"
+- BD smell of movies bottled up for memories
+- BE abuse as balance between bottle and um... that other thing
+- BF Rahel "canned" by principle due to her childlike nature
+- BE silent Estha places vegetables in film cans
 
-CA twins as "two-egged"
-CB Chacko sarcastically relates babies of Hindus as being from eggs
-CC abuser having given Estha eggs
-CD sad sea queen where Rachel is loved less smelt of eggs
-CF egg whites as polishing the ground floor of house
- => CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory
-
-
-
+- CA twins as "two-egged"
+- CB Chacko sarcastically relates babies of Hindus as being from eggs
+- CC abuser having given Estha eggs
+- CD sad sea queen where Rachel is loved less smelt of eggs
+- CF egg whites as polishing the ground floor of house
+- CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory
+- CH spit bubbles reminds Ammu of the twins' degenerate father
+- CI Estha blew bubbles into abuser's drink
+- CJ bubbled cold drink as fear
 	
 ## Defluffifying
 CHOSEN THESIS CLAIM
