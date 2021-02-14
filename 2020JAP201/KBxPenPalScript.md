@@ -38,12 +38,10 @@ For example, 「私は、書いたり、詩（し＝poem）をつくったりす
 #3: I'll look forward to doing pen pal with you. ＝ペンパルできることをたのしみにしています。
 
 
-hajimemashita
+hajimemashite!
 
 My name is Huxley!
 
-I am 15, and I am 
-
-
+I am 15, and I am in my second year of high school 
 
 
