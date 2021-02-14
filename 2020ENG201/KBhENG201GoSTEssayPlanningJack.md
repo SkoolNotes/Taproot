@@ -110,20 +110,7 @@ Bottles contain emotions:
 - BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
 
-Through tracking symbolistic small objects in GoST — the loving egg, the fearful hole, and the supressive bottle, Roy paints a cautinary tale against the forcible containment of raw emotions throug
-
-## Defluffifying
-CHOSEN THESIS CLAIM
-
-* Point a 
-* Point b
-* Point c
-
-So what? SO WHAT
-
-Now, defluffify by re-writing the three points + so what in as little words as possible.
-
-**RESTATED CLAIM**
+**Through tracking symbolistic small objects in GoST — the loving egg, the fearful hole, and the supressive bottle — Roy paints a cautinary tale against the forcible containment of raw emotions which would**
 
 ## Outline
 - Claim 1: *claim*
