@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7965)}}    % original
-%\rhead{\textrmlf{Compiled }\#7965\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7965\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7966)}}    % original
+%\rhead{\textrmlf{Compiled }\#7966\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7966\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 

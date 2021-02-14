@@ -86,26 +86,6 @@ You may think of this analysis in two pieces:
 - DA Factory floor as gloomy after family is seperated
 
 ### The Synthesis
-<!--
-Eggs express love, holes express sadness, fear, bottles contain emotions
-
-Eggs eminate love:
-
-- CA twins as "two-egged" — that they are in some respects inseperalbe
-- CD sad sea queen where Rachel is loved less smelt of eggs — Rahel is loved a little less, and she "smells" others being loved (Sophie Mol?)
-- 
-- CF egg whites as polishing the ground floor of house: the house itself is originally a place of togetherness
-- CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory/family
-
-Holes eminate sadness + fear:
-- AD death as leaving a hole + leaving as tearing a hole
-- CI Estha blew bubbles into abuser's drink
-- CJ bubbled cold drink as fear
-- AG Valutha died as a victim, while bleeding black, rebtrobuting liquid from his hole
-- AE Estha experiences retrobution? death? by himself
-- AH Joe died, and Margret Kochamma hid that using a hole
-- DA Factory floor as gloomy after family is seperated-->
-
 ### Bottles Contain Emotions
 Fear was handed to Estha bottled in Two Bottles:
 
