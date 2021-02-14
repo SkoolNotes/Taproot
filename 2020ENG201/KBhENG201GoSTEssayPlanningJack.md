@@ -30,12 +30,12 @@ You may think of this analysis in two pieces:
 - (Holes) “Estha wouldn’t look up. His mind was full of trains. He blocked the light from the door. An Estha-shaped Hole in the Universe.” (no, train was not mentioned elsewhere) AE
 - (Holes) “How marvelous!” Margaret Kochamma said. 'It’s a sort of sniffing! Do the Men and Women do it to each other too?'' She hadn’t meant it to sound quite like that, and she blushed. An embarrassed schoolteacher-shaped Hole in the Universe.” AF
 - (Holes) “Esthappen and Rahel both knew that there were several perpetrators (besides themselves) that day. But only one victim. ... He left behind a Hole in the Universe through which darkness poured like liquid tar.”  AG
-- (Holes) “She concealed her anguish under the brisk, practical mask of a schoolteacher. The stern, schoolteacher-shaped Hole in the Universe (who sometimes slapped).” AH => AH Joe died, and Margret Kochamma hid that using a hole
+- (Holes) “She concealed her anguish under the brisk, practical mask of a schoolteacher. The stern, schoolteacher-shaped Hole in the Universe (who sometimes slapped).” AH
 
 ### Bottles and Cans
-- (Bottles) “She even locked her sad, paint-flaking fridge, where she kept her week’s supply of cream buns that Kochu Maria brought her from Bestbakery in Kottayam. And the two bottles of rice water that she drank instead of ordinary water.” (w.r.t. Baby Kochamma) BA => BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
-- (Bottle (sealing)) “He commuted his pension and provident fund to buy a Bharat bottle-sealing machine. Mammachi just ran it like a large kitchen. Chacko had it registered as a partnership and informed Mammachi that she was the Sleeping Partner. He invested in equipment (canning machines, cauldrons, cookers) and expanded the labor force. Almost immediately, the financial slide began” BB => BB Industrial botteling machine for sealing bottles leads to financial slide
-- (Cans) “His honor redeemed by his grandmother’s cans, Estha Alone organized the rusty cans of nothing in front of the urinal. He stood on them, one foot on each, and pissed carefully, with minimal wobble.” BC => BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles"
+- (Bottles) “She even locked her sad, paint-flaking fridge, where she kept her week’s supply of cream buns that Kochu Maria brought her from Bestbakery in Kottayam. And the two bottles of rice water that she drank instead of ordinary water.” (w.r.t. Baby Kochamma) BA
+- (Bottle (sealing)) “He commuted his pension and provident fund to buy a Bharat bottle-sealing machine. Mammachi just ran it like a large kitchen. Chacko had it registered as a partnership and informed Mammachi that she was the Sleeping Partner. He invested in equipment (canning machines, cauldrons, cookers) and expanded the labor force. Almost immediately, the financial slide began” BB
+- (Cans) “His honor redeemed by his grandmother’s cans, Estha Alone organized the rusty cans of nothing in front of the urinal. He stood on them, one foot on each, and pissed carefully, with minimal wobble.” BC
 - (Bottles (Closing)) “Sound of Music smell that Rahel remembered and treasured. Smells, like music, hold memories. She breathed deep, and bottled it up for posterity.” BD => BD smell of movies bottled up for memories
 - (Bottles, and other things.) Welp welp welp this is a quote from the book so here goes nothing “He got a cold bottle and a straw. So he held a bottle in one hand and a penis in the other.” BE => BE abuse as balance between bottle and um... that other thing
 - (Cans) “When she was questioned by the Principal about her behavior (cajoled, caned, starved), she eventually admitted that she had done it to find out whether breasts hurt.” BF => BF Rahel "canned" by principle due to her childlike nature
@@ -61,7 +61,12 @@ AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution
 AD death as leaving a hole + leaving as tearing a hole
 AE Estha experiences retrobution? death? by himself
 AF British people looking down upon Indians, having been snapped at, "dies" and gets hole-y retrobution
- AG Valutha died as a victim, while bleeding black, rebtrobuting liquid from his hole
+AG Valutha died as a victim, while bleeding black, rebtrobuting liquid from his hole
+AH Joe died, and Margret Kochamma hid that using a hole
+
+BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
+BB Industrial botteling machine for sealing bottles leads to financial slide
+BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles"
 	
 ## Defluffifying
 CHOSEN THESIS CLAIM
