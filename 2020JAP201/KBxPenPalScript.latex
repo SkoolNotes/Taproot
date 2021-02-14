@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7908)}}    % original
-%\rhead{\textrmlf{Compiled }\#7908\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7908\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7910)}}    % original
+%\rhead{\textrmlf{Compiled }\#7910\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7910\textrmlf{ on} \today}       % new date
 \lfoot{Go Away \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -225,6 +225,6 @@ I'm the type who likes to work on projects and talk with friends.
 
 じゅうごさいです。こうこうにねんせいです。
 
-しゅ、
+しゅみはコーディングです。
 
 \end{document}

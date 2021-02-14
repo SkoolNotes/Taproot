@@ -96,9 +96,7 @@ The "empty" cans/eggs — filled with vegetables, babies
 When factory got broken by comrad, eggs were shattered. When Rachel is loved less, the room smelt of eggs.
 
 
-Connections manifested by eggs
-
-Personal connections as fostered by eggs
+Eggs as a symbolism of love and connection:
 
 - CA twins as "two-egged" — that they are in some respects inseperalbe
 - CD sad sea queen where Rachel is loved less smelt of eggs — Rahel is loved a little less, and she "smells" others being loved (Sophie Mol?)
@@ -106,6 +104,7 @@ Personal connections as fostered by eggs
 - CF egg whites as polishing the ground floor of house: the house itself is originally a place of togetherness => DA Factory floor as gloomy after family is seperated (no longer has the polish of egg whites)
 - CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory/family
 
+Holes 
 
 - AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution. Holes as retrobution.
 : eggs here breaking broken means that traditional orders broke
