@@ -97,6 +97,9 @@ When factory got broken by comrad, eggs were shattered. When Rachel is loved les
 
 
 Connections manifested by eggs
+
+Personal connections as fostered by eggs
+
 - CA twins as "two-egged" — that they are in some respects inseperalbe
 - CD sad sea queen where Rachel is loved less smelt of eggs — Rahel is loved a little less, and she "smells" others being loved (Sophie Mol?)
 - CC abuser having given Estha eggs: "I know where you live" — Estha fully connected with his abuser and his potential arrival haunts him
