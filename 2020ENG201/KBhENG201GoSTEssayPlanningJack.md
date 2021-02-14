@@ -90,9 +90,11 @@ The "empty" cans/eggs — filled with vegetables, babies
 
 When factory got broken by comrad, eggs were shattered. When Rachel is loved less, the room smelt of eggs.
 
-Togetherness as manifest by eggs... But not necessarily positive.
+Connection as manifest by eggs... But not necessarily positive.
 
-- CA twins as "two-egged" 
+- CA twins as "two-egged" — that they are in some respects inseperalbe
+- CD sad sea queen where Rachel is loved less smelt of eggs — Rahel is loved a little less, and she "smells" others being loved (Sophie Mol?)
+- 
 
 
 - CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory
