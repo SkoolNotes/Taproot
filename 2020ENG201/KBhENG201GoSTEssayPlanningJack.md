@@ -55,9 +55,8 @@ You may think of this analysis in two pieces:
 
 ## Claim Synthesis
 ### The Bin
-- AA muddy water fills public works' caused holes in road
+- AA muddy water fills public works' holes in road
 - AB holes in communist umbrella reveal sky?
-- AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution. Holes as retrobution.
 - AD death as leaving a hole + leaving as tearing a hole
 - AE Estha experiences retrobution? death? by himself
 - AF British people looking down upon Indians, having been snapped at, "dies" and gets hole-y retrobution
@@ -81,7 +80,12 @@ You may think of this analysis in two pieces:
 - CH spit bubbles reminds Ammu of the twins' degenerate father
 - CI Estha blew bubbles into abuser's drink
 - CJ bubbled cold drink as fear
-	
+
+### The Synthesis
+Wholedness: that one complements another.
+
+- AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution. Holes as retrobution.
+
 ## Defluffifying
 CHOSEN THESIS CLAIM
 
