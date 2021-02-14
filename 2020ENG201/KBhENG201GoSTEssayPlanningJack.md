@@ -86,7 +86,7 @@ You may think of this analysis in two pieces:
 ### The Synthesis
 Eggs express love, holes express sadness, fear, bottles contain emotions
 
-Eggs as a symbolism of love and connection:
+Eggs eminate love:
 
 - CA twins as "two-egged" — that they are in some respects inseperalbe
 - CD sad sea queen where Rachel is loved less smelt of eggs — Rahel is loved a little less, and she "smells" others being loved (Sophie Mol?)
@@ -94,7 +94,13 @@ Eggs as a symbolism of love and connection:
 - CF egg whites as polishing the ground floor of house: the house itself is originally a place of togetherness => DA Factory floor as gloomy after family is seperated (no longer has the polish of egg whites)
 - CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory/family
 
-Bottles contain emotions
+Holes eminate sadness + fear:
+- AD death as leaving a hole + leaving as tearing a hole
+- CI Estha blew bubbles into abuser's drink
+- CJ bubbled cold drink as fear
+
+
+Bottles contain emotions:
 
 - BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
 - BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles" — work above emotions?
