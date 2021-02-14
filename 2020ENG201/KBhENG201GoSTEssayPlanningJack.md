@@ -106,14 +106,15 @@ Holes eminate sadness + fear:
 
 Bottles contain emotions:
 
+- BD smell of movies bottled up for memories
+
 - BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
 - BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles" — work above emotions?
-- BD smell of movies bottled up for memories
 - BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
 - DA Factory floor as gloomy after family is seperated
 
-**Through tracking characters' use of the bottle as an instrument to contain strong emotions in the  _God of Small Things_ — namely, that of love, as represented by the Egg, and of fear, as in the Hole — , the novel paints a cautinary tale against the forcible containment of raw emotions which will lead to a depressive and gloomy downfall.**
+**Through tracking characters' use of the bottle as an instrument to contain strong emotions in the  _God of Small Things_ — namely, that of love, as represented by the Egg, and of fear, as in the Hole — the novel paints a cautinary tale against the forcible containment of raw emotions which will lead to a depressive and gloomy downfall.**
 
 ## Outline
 - 
