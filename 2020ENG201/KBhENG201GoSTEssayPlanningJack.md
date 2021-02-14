@@ -106,9 +106,13 @@ Holes eminate sadness + fear:
 
 Bottles contain emotions:
 
-Right before the abuse, Rahel attempt
-- BD smell of movies bottled up for memories
-- BE abuse as balance between bottle and um... that other thing (that contains fizzy drink of fear) => CJ bubbled cold drink as fear. (maybe the other quote?)
+Right before the abuse, Rahel attempted to capture the final reminants of her positive emotion into a "bottle", BD smell of movies bottled up for memories.
+
+Immediatly, Fear was handed to Estha as Two Bottles:
+
+- BE abuse as balance between bottle and um... that other thing. Which is also a bottle. Of half
+- 
+- (that contains fizzy drink of fear) => CJ bubbled cold drink as fear. (maybe the other quote?)
 
 - BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
 - BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles" — work above emotions?
