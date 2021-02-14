@@ -52,6 +52,9 @@ You may think of this analysis in two pieces:
 - (Bubbles) “Blowing through the straw (while his other hand moved), Estha blew bubbles into the bottle. Stickysweet lemon bubbles of the drink he couldn’t drink.” CI
 - (Bubbles) “So once again, in the space of two weeks, bottled Fear for Estha. Chilled. Fizzed. Sometimes Things went worse with Coke. The fizz went up his nose. He burped. Rahel giggled. She blew through her straw till the drink bubbled over onto her dress. All over the floor.” CJ
 
+### Misc.
+- (Floor) “The low cement pickle vats silhouetted in the gloom made the factory floor look like an indoor cemetery for the cylindrical dead.” DA
+
 
 ## Claim Synthesis
 ### The Bin
@@ -79,6 +82,8 @@ You may think of this analysis in two pieces:
 - CI Estha blew bubbles into abuser's drink
 - CJ bubbled cold drink as fear
 
+- DA Factory floor as gloomy after family is seperated
+
 ### The Synthesis
 Wholedness: that one complements another.
 
@@ -90,15 +95,13 @@ The "empty" cans/eggs — filled with vegetables, babies
 
 When factory got broken by comrad, eggs were shattered. When Rachel is loved less, the room smelt of eggs.
 
-Connection as manifest by eggs... But not necessarily positive.
+Connection as manifest by eggs... But not necessarily positive connection
 
 - CA twins as "two-egged" — that they are in some respects inseperalbe
 - CD sad sea queen where Rachel is loved less smelt of eggs — Rahel is loved a little less, and she "smells" others being loved (Sophie Mol?)
 - CC abuser having given Estha eggs: "I know where you live" — Estha fully connected with his abuser and his potential arrival haunts him
-- CF egg whites as polishing the ground floor of house: the house itself is originally a place of togetherness
-
-
-- CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory
+- CF egg whites as polishing the ground floor of house: the house itself is originally a place of togetherness => DA Factory floor as gloomy after family is seperated (no longer has the polish of egg whites)
+- CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory/f
 
 
 
