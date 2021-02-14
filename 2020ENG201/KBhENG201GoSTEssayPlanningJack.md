@@ -110,10 +110,11 @@ Right before the abuse, Rahel attempted to capture the final reminants of her po
 
 Immediatly, Fear was handed to Estha bottled in Two Bottles:
 
-- CJ first, bubbled cold drink as fear. (maybe the other (sickly sweet) quote?) 
-- BE abuse as balance between bottle and um... that other thing. Which is also a bottle. Of half-cooked eggwhites — of deformed love. => CC abuser having given Estha eggs: "I know where you live" — Estha fully connected with his abuser and his potential arrival haunts him
+BE abuse as balance between bottle and um... that other thing. Which is also a bottle. Th
 
-- (that contains fizzy drink of fear) => 
+- CJ first, bubbled cold drink as fear. (maybe the other (sickly sweet) quote?) 
+- Of half-cooked eggwhites — of deformed love. => CC abuser having given Estha eggs as a product of love.
+
 
 - BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
 - BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles" — work above emotions?
