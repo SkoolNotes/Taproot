@@ -69,7 +69,7 @@ You may think of this analysis in two pieces:
 - BD smell of movies bottled up for memories
 - BE abuse as balance between bottle and um... that other thing
 - BF Rahel "canned" by principle due to her childlike nature
-- BE silent Estha places vegetables in film cans
+- BG silent Estha places vegetables in film cans
 
 - CA twins as "two-egged"
 - CB Chacko sarcastically relates babies of Hindus as being from eggs
@@ -83,7 +83,11 @@ You may think of this analysis in two pieces:
 ### The Synthesis
 Wholedness: that one complements another.
 
-Eggs being ordered, and holes, disorder
+God of Small Things: contrast.
+
+The "full" holes — filled with vengence, sadness, fear, => "black tar".
+
+The "empty" cans/eggs — filled
 
 - AC Black Cats as Holes; Death as Holes. Black associated with God of Retrobution. Holes as retrobution.
 - CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory: eggs here breaking broken means that traditional orders broke
