@@ -91,7 +91,7 @@ Eggs eminate love:
 
 - CA twins as "two-egged" — that they are in some respects inseperalbe
 - CD sad sea queen where Rachel is loved less smelt of eggs — Rahel is loved a little less, and she "smells" others being loved (Sophie Mol?)
-- CC abuser having given Estha eggs: "I know where you live" — Estha fully connected with his abuser and his potential arrival haunts him
+- 
 - CF egg whites as polishing the ground floor of house: the house itself is originally a place of togetherness
 - CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory/family
 
@@ -108,10 +108,10 @@ Bottles contain emotions:
 
 Right before the abuse, Rahel attempted to capture the final reminants of her positive emotion into a "bottle", BD smell of movies bottled up for memories.
 
-Immediatly, Fear was handed to Estha as Two Bottles:
+Immediatly, Fear was handed to Estha bottled in Two Bottles:
 
-- CJ bubbled cold drink as fear. (maybe the other quote?)
-- BE abuse as balance between bottle and um... that other thing. Which is also a bottle. Of half-cooked eggwhites — of deformed love.
+- CJ first, bubbled cold drink as fear. (maybe the other (sickly sweet) quote?) 
+- BE abuse as balance between bottle and um... that other thing. Which is also a bottle. Of half-cooked eggwhites — of deformed love. => CC abuser having given Estha eggs: "I know where you live" — Estha fully connected with his abuser and his potential arrival haunts him
 
 - (that contains fizzy drink of fear) => 
 
