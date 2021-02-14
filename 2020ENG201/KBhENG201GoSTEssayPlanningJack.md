@@ -114,10 +114,10 @@ BE abuse as balance between bottle and um... that other thing. Which is also a b
 - CJ first, bubbled cold drink as fear. (maybe the other (sickly sweet) quote?) 
 - Of half-cooked eggwhites — of deformed love. => CC abuser having given Estha eggs as a product of love.
 
-### Bottled Emotions are Handled
-
-
+### Bottled Emotions are Handled to no Avail
 - BA Baby Kochamma drinks weak gruel instead of water (seeking to gain small gains by taking the wastewater of rice cooking)
+
+
 - BC humiliation/undue sense of male responsibilty lead Estha to "balance on bottles" — work above emotions?
 - BF Rahel "canned" by principle due to her childlike nature
 - BB Industrial botteling machine for sealing bottles leads to financial slide
