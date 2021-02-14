@@ -91,6 +91,10 @@ The "empty" cans/eggs — filled with vegetables, babies
 
 When factory got broken by comrad, eggs were shattered. When Rachel is loved less, the room smelt of eggs.
 
+Togetherness as manifest by eggs...
+
+
+
 
 
 
