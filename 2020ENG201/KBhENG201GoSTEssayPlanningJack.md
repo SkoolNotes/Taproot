@@ -85,7 +85,7 @@ You may think of this analysis in two pieces:
 - DA Factory floor as gloomy after family is seperated
 
 ### The Synthesis
-Eggs connect, bottles contain, holes express emotion of sadness, fear, vengence => "black tar".
+Eggs express love, bottles contain, holes express emotion of sadness, fear, vengence => "black tar".
 
 Eggs as a symbolism of love and connection:
 
@@ -95,7 +95,7 @@ Eggs as a symbolism of love and connection:
 - CF egg whites as polishing the ground floor of house: the house itself is originally a place of togetherness => DA Factory floor as gloomy after family is seperated (no longer has the polish of egg whites)
 - CG "eggs" were broken but omlet was burnt (having achived no avail) when Comrad Pile brought down the picle factory/family
 
-
+Bottles conta
 
 
 
