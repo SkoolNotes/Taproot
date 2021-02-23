@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7993)}}    % original
-%\rhead{\textrmlf{Compiled }\#7993\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7993\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7994)}}    % original
+%\rhead{\textrmlf{Compiled }\#7994\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7994\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -254,6 +254,11 @@ and the graph is thus concave up.
 
 \hypertarget{differentials}{%
 \section{differentials}\label{differentials}}
+
+For a function \(y = f(x)\), \(dy\) and \(dx\) are diferentials and the
+relationship is \(dy = f'(x) dx\).
+
+For a
 
 \hypertarget{cube-error}{%
 \subsection{cube error}\label{cube-error}}
