@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7983)}}    % original
-%\rhead{\textrmlf{Compiled }\#7983\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7983\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7984)}}    % original
+%\rhead{\textrmlf{Compiled }\#7984\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7984\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -219,6 +219,10 @@ known}\label{unknown-function-only-some-points-known}}
 \hypertarget{approximation-2}{%
 \subsection{approximation}\label{approximation-2}}
 
-\[ y = \frac{d}{dx} f(x) \Bigr|_c (x-c) + f(c) \text{ where } c=1 \]
+\[ y = \frac{d}{dx} f(x) \Bigr|_c (x-c) + f(c) \] plugging in \(c = 1\),
+\[ y = 5(x-1)-4 \]
+
+\hypertarget{estimations-1}{%
+\subsection{estimations}\label{estimations-1}}
 
 \end{document}
