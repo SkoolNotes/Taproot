@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8010)}}    % original
-%\rhead{\textrmlf{Compiled }\#8010\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8010\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8012)}}    % original
+%\rhead{\textrmlf{Compiled }\#8012\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8012\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -290,5 +290,13 @@ measured value (\(2\)) and \(dx\) is the uncertainty (delta x), or
        &= 8.\overline 3
     \end{aligned}
     \]
+
+\hypertarget{sphere-measuring}{%
+\subsection{sphere measuring}\label{sphere-measuring}}
+
+\[
+   \begin{aligned}
+   \end{aligned}
+   \]
 
 \end{document}
