@@ -18,4 +18,6 @@
 * sin(x)
 
 ** approximation
-   \[ y = \left(\frac{d}{dx} \Bigr|_0 \sin x \right) (x-0) + \sin 0 = x \]
+   \[ y = \frac{d}{dx} \sin x \Bigr|_0 (x-0) + \sin 0 = x \]
+
+** remainder skipped
