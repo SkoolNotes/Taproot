@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7987)}}    % original
-%\rhead{\textrmlf{Compiled }\#7987\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7987\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7988)}}    % original
+%\rhead{\textrmlf{Compiled }\#7988\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7988\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,7 +182,7 @@
 
 \[ (1+x)^{\frac{1}{3}} \to \frac{1}{3} (1+x)^{\frac{-2}{3}} \] at
 \(x = 0\) is \[ \frac{1}{3} (1+0) ^ {\text{...}} = \frac{1}{3} \] so the
-linear approximation is \[ y = m(x-0)+f(0) = \frac{1}{3}x+1 \]
+linear approximation is \[ y \approx m(x-0)+f(0) = \frac{1}{3}x+1 \]
 
 \hypertarget{estimations}{%
 \subsection{estimations}\label{estimations}}
@@ -206,11 +206,10 @@ reigon.
 \hypertarget{approximation-1}{%
 \subsection{approximation}\label{approximation-1}}
 
-\[ y = \frac{d}{dx} \sin x \Bigr|_0 (x-0) + \sin 0 = x \]
+\[ y \approx \frac{d}{dx} \sin x \Bigr|_0 (x-0) + \sin 0 = x \]
 
-\hypertarget{remainder-skipped-temporarily}{%
-\subsection{remainder skipped
-temporarily}\label{remainder-skipped-temporarily}}
+\hypertarget{estimates}{%
+\subsection{estimates}\label{estimates}}
 
 \hypertarget{unknown-function-only-some-points-known}{%
 \section{unknown function (only some points
@@ -219,8 +218,8 @@ known}\label{unknown-function-only-some-points-known}}
 \hypertarget{approximation-2}{%
 \subsection{approximation}\label{approximation-2}}
 
-\[ y = \frac{d}{dx} f(x) \Bigr|_c (x-c) + f(c) \] plugging in \(c = 1\),
-\[ y = 5(x-1)-4 \]
+\[ y \approx \frac{d}{dx} f(x) \Bigr|_c (x-c) + f(c) \] plugging in
+\(c = 1\), \[ y \approx 5(x-1)-4 \]
 
 \hypertarget{estimations-1}{%
 \subsection{estimations}\label{estimations-1}}
