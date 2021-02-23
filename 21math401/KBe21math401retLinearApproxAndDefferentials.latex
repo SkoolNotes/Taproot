@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8001)}}    % original
-%\rhead{\textrmlf{Compiled }\#8001\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8001\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8002)}}    % original
+%\rhead{\textrmlf{Compiled }\#8002\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8002\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -275,6 +275,7 @@ are \(df\) and \(dx\) and the relationship is the same:
 
 If I understand the use of differentials corretly, then \(x\) is the
 measured value (\(2\)) and \(dx\) is the uncertainty (delta x), or
-\(0.2 \text{ft}\).
+\(0.2 \text{ft}\). Then, the change in the volume (change in fuction or
+\(df\)) would be \(3(2)^2 (0.2) = 2.4\)
 
 \end{document}
