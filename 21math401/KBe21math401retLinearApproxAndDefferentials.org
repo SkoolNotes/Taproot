@@ -65,10 +65,10 @@
 *** max error for some $\epsilon$
 	\[
 	\begin{aligned}
-	df &= 3x^2 dx\\
-	dx &= \frac{df}{3x^2}\\
-       &= \frac{1}{3(2)^2}\\
-       &= 8.\overline 3
+	df &\approx 3x^2 dx\\
+	dx &\approx \frac{df}{3x^2}\\
+       &\approx \frac{1}{3(2)^2}\\
+       &\approx \frac{1}{12} = 1 \text{in}
 	\end{aligned}
 	\]
 
