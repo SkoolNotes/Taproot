@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7981)}}    % original
-%\rhead{\textrmlf{Compiled }\#7981\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7981\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7982)}}    % original
+%\rhead{\textrmlf{Compiled }\#7982\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7982\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -207,5 +207,16 @@ reigon.
 \subsection{approximation}\label{approximation-1}}
 
 \[ y = \frac{d}{dx} \sin x \Bigr|_0 (x-0) + \sin 0 = x \]
+
+\hypertarget{remainder-skipped-temporarily}{%
+\subsection{remainder skipped
+temporarily}\label{remainder-skipped-temporarily}}
+
+\hypertarget{unknown-function-only-some-points-known}{%
+\section{unknown function (only some points
+known}\label{unknown-function-only-some-points-known}}
+
+\hypertarget{approximation-2}{%
+\subsection{approximation}\label{approximation-2}}
 
 \end{document}
