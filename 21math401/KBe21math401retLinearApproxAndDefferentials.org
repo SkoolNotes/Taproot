@@ -18,4 +18,4 @@
 * sin(x)
 
 ** approximation
-   \[ y = \left(\frac{d}{dx} \sin(x)\right)(0) (x-0) + \sin(0) \]
+   \[ y = \left(\frac{d}{dx} \sin x \right)\bigbar_0 (x-0) + \sin 0 = x \]
