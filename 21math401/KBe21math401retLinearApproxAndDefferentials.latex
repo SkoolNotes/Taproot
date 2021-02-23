@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7976)}}    % original
-%\rhead{\textrmlf{Compiled }\#7976\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7976\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7977)}}    % original
+%\rhead{\textrmlf{Compiled }\#7977\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7977\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -199,5 +199,11 @@ value & estimate \\ \addlinespace
 
 These will be overestimates because the graph is concave down in this
 reigon.
+
+\hypertarget{sinx}{%
+\section{sin(x)}\label{sinx}}
+
+\hypertarget{approximation-1}{%
+\subsection{approximation}\label{approximation-1}}
 
 \end{document}
