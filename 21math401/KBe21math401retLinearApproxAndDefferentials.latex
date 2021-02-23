@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8005)}}    % original
-%\rhead{\textrmlf{Compiled }\#8005\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8005\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8006)}}    % original
+%\rhead{\textrmlf{Compiled }\#8006\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8006\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -268,7 +268,7 @@ are \(df\) and \(dx\) and the relationship is the same:
 \hypertarget{differential}{%
 \subsubsection{differential}\label{differential}}
 
-\[ df = f'(x) dx = 3x^2 dx \]
+\[\begin{split}df = f'(x) dx = 3x^2 dx\end{split}\]
 
 \hypertarget{volume-error}{%
 \subsubsection{volume error}\label{volume-error}}

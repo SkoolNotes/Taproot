@@ -56,7 +56,7 @@
 
 *** differential
 
-	\[ df = f'(x) dx = 3x^2 dx \]
+	\[\begin{split}df = f'(x) dx\\ = 3x^2 dx\end{split}\]
 
 *** volume error
 	If I understand the use of differentials corretly, then $x$ is the measured value ($2$) and $dx$ is the uncertainty (delta x), or $0.2 \text{ft}$.
