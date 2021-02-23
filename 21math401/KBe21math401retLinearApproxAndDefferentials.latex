@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8018)}}    % original
-%\rhead{\textrmlf{Compiled }\#8018\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8018\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8019)}}    % original
+%\rhead{\textrmlf{Compiled }\#8019\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8019\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -286,7 +286,7 @@ measured value (\(2\)) and \(dx\) is the uncertainty (delta x), or
     \begin{aligned}
     df &= 3x^2 dx\\
     dx &= \frac{df}{3x^2}\\
-       &= \frac{0.1}{3(2)^2}\\
+       &= \frac{1}{3(2)^2}\\
        &= 8.\overline 3
     \end{aligned}
     \]
