@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8017)}}    % original
-%\rhead{\textrmlf{Compiled }\#8017\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8017\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8018)}}    % original
+%\rhead{\textrmlf{Compiled }\#8018\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8018\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -299,7 +299,7 @@ measured value (\(2\)) and \(dx\) is the uncertainty (delta x), or
    f(r) &= 4\pi r^2\\
    \frac{d}{dr} f(r) &= 8\pi r\\
    df &= 8\pi r (dr)\\
-   &= 8\pi 21 (0.05) = 8.4 \pi =
+   &= 8\pi 21 (0.05) = \pm8.4 \pi
    \end{aligned}
    \]
 
