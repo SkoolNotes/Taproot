@@ -63,4 +63,9 @@
 	Then, the change in the volume (change in fuction or $df$) would be $3(2)^2 (0.2) = 2.4$
 
 *** max error for some $\epsilon$
-	$df
+	\[
+	\begin{aligned}
+	df &= 3x^2 dx\\
+	dx &= \frac{df}{3x^2}
+	\end{aligned}
+	\]

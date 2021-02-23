@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8004)}}    % original
-%\rhead{\textrmlf{Compiled }\#8004\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8004\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8005)}}    % original
+%\rhead{\textrmlf{Compiled }\#8005\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8005\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -282,6 +282,11 @@ measured value (\(2\)) and \(dx\) is the uncertainty (delta x), or
 \subsubsection{\texorpdfstring{max error for some
 \(\epsilon\)}{max error for some \textbackslash epsilon}}\label{max-error-for-some-epsilon}}
 
-\$df
+\[
+    \begin{aligned}
+    df &= 3x^2 dx\\
+    dx &= \frac{df}{3x^2}
+    \end{aligned}
+    \]
 
 \end{document}
