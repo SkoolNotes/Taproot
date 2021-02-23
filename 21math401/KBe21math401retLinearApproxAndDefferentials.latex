@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7979)}}    % original
-%\rhead{\textrmlf{Compiled }\#7979\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7979\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7980)}}    % original
+%\rhead{\textrmlf{Compiled }\#7980\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7980\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -206,6 +206,6 @@ reigon.
 \hypertarget{approximation-1}{%
 \subsection{approximation}\label{approximation-1}}
 
-\[ y = \left(\frac{d}{dx} \sin x \right)(0) (x-0) + \sin 0 = x \]
+\[ y = \left(\frac{d}{dx} \Bigr|_0 \sin x \right) (x-0) + \sin 0 = x \]
 
 \end{document}
