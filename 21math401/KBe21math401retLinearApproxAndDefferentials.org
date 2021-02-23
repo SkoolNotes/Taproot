@@ -25,3 +25,5 @@
 * unknown function (only some points known
 
 ** approximation
+   \[ y = \frac{d}{dx} f(x) \Bigr|_c (x-c) + f(c) \]
+   plugging in $c = 1$
