@@ -23,9 +23,10 @@
 ** estimates
    | value | estimate |
    |-------+----------|
-   |  -0.1 |        1 |
-   | 0.1   |          |
+   |  -0.1 |     -0.1 |
+   |   0.1 |      0.1 |
 
+   The first estimate will be an underestimate because $\sin x$ is concave up in that reigon. The opposite is true for 
 * unknown function (only some points known
 
 ** approximation
