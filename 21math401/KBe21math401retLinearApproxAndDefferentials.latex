@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7994)}}    % original
-%\rhead{\textrmlf{Compiled }\#7994\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7994\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7996)}}    % original
+%\rhead{\textrmlf{Compiled }\#7996\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7996\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -258,7 +258,9 @@ and the graph is thus concave up.
 For a function \(y = f(x)\), \(dy\) and \(dx\) are diferentials and the
 relationship is \(dy = f'(x) dx\).
 
-For a
+For a function written \(f(x) = \text{(something)}\), the differentials
+are \(df\) and \(dx\) and the relationship is the same:
+\(df = f'(x) dx\).
 
 \hypertarget{cube-error}{%
 \subsection{cube error}\label{cube-error}}
