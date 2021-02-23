@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8000)}}    % original
-%\rhead{\textrmlf{Compiled }\#8000\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8000\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8001)}}    % original
+%\rhead{\textrmlf{Compiled }\#8001\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8001\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -272,5 +272,9 @@ are \(df\) and \(dx\) and the relationship is the same:
 
 \hypertarget{volume-error}{%
 \subsubsection{volume error}\label{volume-error}}
+
+If I understand the use of differentials corretly, then \(x\) is the
+measured value (\(2\)) and \(dx\) is the uncertainty (delta x), or
+\(0.2 \text{ft}\).
 
 \end{document}
