@@ -40,4 +40,10 @@ Postwar world's rules
 ### Kensian Capitalism
 - Capitalism is not self-regulating
 - Capitalism need an external structure for making it work well
-	=> In economic downturns, the govrenment should put money in circulation, in upward economy, the economy should
+
+=> In economic downturns, the govrenment should put money in circulation, in upward economy, the economy should start regulating economy
+
+### Neoliberalistic Capitalism
+- Capitalism is self-correcting
+- Capitalism needs guardrails against inflation, but generally they will self-correct
+
