@@ -18,4 +18,8 @@ legacy-name: KB20200825131900
 - Add and multiply
 - abs(x) <= 2
 
+# Eigen
+- 'german' meaning own, characteristic
+- cannot have an eigenspace without an eigenvalue/eigenvector
+
 ---
