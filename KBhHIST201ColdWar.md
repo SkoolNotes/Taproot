@@ -50,5 +50,10 @@ Postwar world's rules
 => Goverments will worsen inflation, which is the boogieman, so capitalism needs guardrails against inflation, but generally they will self-correct and so leave them to self-correct
 
 
+## Global Market
+
+![[Pasted image 20210224140335.png]]
 
 
+
+IMF =
