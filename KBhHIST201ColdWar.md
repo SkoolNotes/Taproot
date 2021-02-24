@@ -10,7 +10,8 @@ course: HIST201
 ## Causes of WWII: a brainstorm
 - The failure of the treaty of versailies
 - WWI not being as hard and did not destroy the prospects of german nationalism
-- 
+- The rise of the brutal systems of structure throughout the world — i.e. strong alt-right nationalism
+-  
 
 
 
