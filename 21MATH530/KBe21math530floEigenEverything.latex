@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8053)}}    % original
-%\rhead{\textrmlf{Compiled }\#8053\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8053\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8054)}}    % original
+%\rhead{\textrmlf{Compiled }\#8054\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8054\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -237,6 +237,14 @@ Now just plug in \(\lambda\) and find the null space using RREF. The
 null space for \(\lambda = 3\) has null space \(\text{span}(x, 0)\), so
 we just pick one of those vectors (ex. \((1, 0)\)) to be the
 eigenvector.
+
+\hypertarget{review-of-terms}{%
+\subsection{review of terms}\label{review-of-terms}}
+
+\hypertarget{span1-0-is-an-invariant-subspace.-also-whatever-you-get-for-lambda-2}{%
+\subsubsection{\texorpdfstring{\(span(1, 0)\) is an invariant subspace.
+(also whatever you get for
+\(\lambda = 2\)}{span(1, 0) is an invariant subspace. (also whatever you get for \textbackslash lambda = 2}}\label{span1-0-is-an-invariant-subspace.-also-whatever-you-get-for-lambda-2}}
 
 \hypertarget{depends-on}{%
 \section{depends on}\label{depends-on}}
