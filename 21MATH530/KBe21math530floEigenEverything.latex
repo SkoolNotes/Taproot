@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8045)}}    % original
-%\rhead{\textrmlf{Compiled }\#8045\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8045\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8046)}}    % original
+%\rhead{\textrmlf{Compiled }\#8046\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8046\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -201,6 +201,11 @@ now this can be factored and roots can be found. also it's an operator.
 \hypertarget{axler-5.6-equivalent-conditions}{%
 \subsection{Axler 5.6 equivalent
 conditions}\label{axler-5.6-equivalent-conditions}}
+
+\hypertarget{t-lambda-i-is-not-injective-because-both-v-0-are-in-the-null-space.}{%
+\subsubsection{\texorpdfstring{\(T-\lambda I\) is not injective, because
+both \(v, 0\) are in the null
+space.}{T-\textbackslash lambda I is not injective, because both v, 0 are in the null space.}}\label{t-lambda-i-is-not-injective-because-both-v-0-are-in-the-null-space.}}
 
 \hypertarget{depends-on}{%
 \section{depends on}\label{depends-on}}
