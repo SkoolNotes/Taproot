@@ -95,6 +95,8 @@ Used to keep out western influence
 
 The civil rights movements picked up heat in the united states: that the collective realization that the USSR attempted to foment racial anger in the United States.
 
+Moderate-left group excluded communists, but they were the most "brave" to stand up to societal injustices
+
 
 
 
