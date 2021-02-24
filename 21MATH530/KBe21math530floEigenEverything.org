@@ -5,6 +5,8 @@
 
   \[ Tv = \lambda v \]
 
+  Where $v \neq 0$. (we ignore it because its no fun to send zero to zero, and bc the span is empty).
+
   *T must be an operator!* Otherwise the matrix sizes don't work out when subtracting $\lambda I$.
 
   where $v$ is the eigenvector and $\lambda$ is the eigenvalue. The equation is often rewritten as:
@@ -19,6 +21,7 @@
 
   now this can be factored and roots can be found. also it's an operator.
 ** Axler 5.6 equivalent conditions
+   Only when $V$ is finite dimensional!
 *** $T-\lambda I$ is not injective, because both $v, 0$ are in the null space.
 *** $T-\lambda I$ is also not surjective or invertible bc finite dim operator.
 
