@@ -26,4 +26,8 @@ course: HIST201
 - Weaking individual economic control
 
 **Strategies to prevent**
+- Diminished economic freedom
+- Co-operation across countries
+- GIVE PEOPLE NUKES!!!!!! (mutually assured destruction)
+-  
 
