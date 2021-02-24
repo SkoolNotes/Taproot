@@ -6,7 +6,12 @@
 
   where $v$ is the eigenvector and $\lambda$ is the eigenvalue. The equation is often rewritten as:
 
-  \[ Tv - \lambda v = 0\]
+  \[
+  \begin{aligned}
+  Tv - \lambda v &= 0
+  Tv - \lambda Iv &= 0
+  \end{aligned}
+\]
 
   now this can be factored and roots can be found
 
