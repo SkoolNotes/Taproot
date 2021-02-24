@@ -88,4 +88,7 @@ Features of the USSR: that the leadership have unchecked power to act without th
 
 **Both sides believe that the other side will collapse under its own weight.**
 
+Used to keep out western influence 
 
+- To keep control of their own populatino
+- To hasten the collapse of western democracy
