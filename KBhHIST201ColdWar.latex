@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8093)}}    % original
-%\rhead{\textrmlf{Compiled }\#8093\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8093\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8094)}}    % original
+%\rhead{\textrmlf{Compiled }\#8094\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8094\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -291,5 +291,9 @@ To standardize, everything is pegged against the dollar, which is pegged
 against \$36/oz.
 
 This post-war order allows effective stability and balance
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+If you have two powers, they almost always result
 
 \end{document}
