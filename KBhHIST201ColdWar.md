@@ -83,3 +83,4 @@ Allie meetings at Tehran, Yalta, and Postdam
 The **united nations** failed to fufill its final goals: became a forum instead of a dicipline body
 
 ![[Pasted image 20210224142636.png]]
+
