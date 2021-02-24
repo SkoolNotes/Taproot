@@ -62,4 +62,4 @@ World Bank = roll infrastructure loans to countries for the long economic develo
 
 To standardize, everything is pegged against the dollar, which is pegged against $36/oz.
 
-This post-war order allows efective stability 
+This post-war order allows effective stability and balance
