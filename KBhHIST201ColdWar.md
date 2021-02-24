@@ -24,3 +24,5 @@ course: HIST201
 
 **Under the assumption of global cooperation**
 - Weaking individual economic control
+
+Awarding
