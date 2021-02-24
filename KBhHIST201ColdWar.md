@@ -15,5 +15,7 @@ course: HIST201
 - The ruthless desire to peace
 - The destroying of present systems of the balance of power by higher-level fighting tools
 
-## How not to Hitler
--
+## How not to get a bonus Hitler
+- Weaken individual control
+- Operate under the shared assumption of peacekeeping and democracy
+- Find shared goals, ideals
