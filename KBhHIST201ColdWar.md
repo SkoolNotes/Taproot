@@ -60,4 +60,6 @@ IMF = create and loan out short-term trade deficits and regulate exchanges
 
 World Bank = roll infrastructure loans to countries for the long economic development
 
-To standardize, everything is pegged against the dollar, which is pegge
+To standardize, everything is pegged against the dollar, which is pegged against $36/oz.
+
+This post-war order allows efective stability 
