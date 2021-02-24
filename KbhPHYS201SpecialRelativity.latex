@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8057)}}    % original
-%\rhead{\textrmlf{Compiled }\#8057\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8057\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8058)}}    % original
+%\rhead{\textrmlf{Compiled }\#8058\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8058\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -411,6 +411,11 @@ at \%c, \(\gamma(pc) = \frac{1}{\sqrt{1-pc^2}}\)
 \subsection{Time Dilation}\label{time-dilation}}
 
 Should Ted be moving at a velocity \(V\) according to the refrence frame
-of Sally. \(t\) for Ted would be \$\gamma 
+of Sally. \(t\) for Ted would be \(\gamma \times t\) for sally.
+
+\hypertarget{length-contraction}{%
+\subsection{Length Contraction}\label{length-contraction}}
+
+Should
 
 \end{document}

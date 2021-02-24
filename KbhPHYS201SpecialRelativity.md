@@ -123,3 +123,6 @@ $\gamma(v) = \frac{1}{\sqrt{1-(v^2/c^2)**2}}$. which means, for speeds at %c, $\
 
 ## Time Dilation
 Should Ted be moving at a velocity $V$ according to the refrence frame of Sally. $t$ for Ted would be $\gamma \times t$ for sally.
+
+## Length Contraction
+Should 
