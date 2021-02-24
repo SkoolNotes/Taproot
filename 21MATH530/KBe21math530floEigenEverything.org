@@ -33,5 +33,8 @@
 
   Then, we just need to find whether it is non-invertible aka singular aka determinant.
 
+  \[ (3-\lambda)(2-\lambda) = 0 \]
+  The solutions are $\lambda = 2 \text{ or } 3$. These are the eigenvalues.
+
 * depends on
 ** finding roots is helpful

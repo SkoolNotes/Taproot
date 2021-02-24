@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8050)}}    % original
-%\rhead{\textrmlf{Compiled }\#8050\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8050\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8051)}}    % original
+%\rhead{\textrmlf{Compiled }\#8051\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8051\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -229,6 +229,9 @@ Now that we have that other fomulation, we can just subtract
 
 Then, we just need to find whether it is non-invertible aka singular aka
 determinant.
+
+\[ (3-\lambda)(2-\lambda) = 0 \] The solutions are
+\(\lambda = 2 \text{ or } 3\). These are the eigenvalues.
 
 \hypertarget{depends-on}{%
 \section{depends on}\label{depends-on}}
