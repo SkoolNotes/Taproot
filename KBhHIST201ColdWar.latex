@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8073)}}    % original
-%\rhead{\textrmlf{Compiled }\#8073\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8073\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8074)}}    % original
+%\rhead{\textrmlf{Compiled }\#8074\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8074\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -207,7 +207,6 @@ brainstorm}\label{causes-of-wwii-a-brainstorm}}
 Hitler}\label{how-not-to-get-a-bonus-hitler}}
 
 \begin{itemize}
-\tightlist
 \item
   Weaken individual control
 \item
@@ -219,6 +218,7 @@ Hitler}\label{how-not-to-get-a-bonus-hitler}}
 \item
   Build up collective force to be able to enforce treties (up and not
   limited to the threat of nuclear)
+\item
 \end{itemize}
 
 \end{document}
