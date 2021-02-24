@@ -22,5 +22,5 @@ course: HIST201
 - Set clear guidelines for treaties and consiquences
 - Build up collective force to be able to enforce treties (up and not limited to the threat of nuclear)
 
-**Under the assumption **
-- 
+**Under the assumption of global cooperation**
+- Weaking individual economic control
