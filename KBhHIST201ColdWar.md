@@ -45,5 +45,8 @@ Postwar world's rules
 
 ### Neoliberalistic Capitalism
 - Capitalism is self-correcting
+- Inflation is the thing you should fear
+
+=> Goverments
 - Capitalism needs guardrails against inflation, but generally they will self-correct
 
