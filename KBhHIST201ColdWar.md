@@ -67,4 +67,7 @@ This post-war order allows effective stability and balance
 
 ***
 
-If you have two powers, they almost always result
+If you have two powers, they almost always result in some form of conflict.
+
+"The attitutes around the constrsuction of the post-war world lead to the need for a global hegemone that ensures stability." And, at that moment, the United States is the target to achieve that hegemony.
+
