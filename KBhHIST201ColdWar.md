@@ -92,3 +92,5 @@ Used to keep out western influence
 
 - To keep control of their own populatino
 - To hasten the collapse of western democracy
+
+The t
