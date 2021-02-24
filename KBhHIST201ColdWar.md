@@ -47,6 +47,8 @@ Postwar world's rules
 - Capitalism is self-correcting
 - Inflation is the thing you should fear
 
-=> Goverments
-- Capitalism needs guardrails against inflation, but generally they will self-correct
+=> Goverments will worsen inflation, which is the boogieman, so capitalism needs guardrails against inflation, but generally they will self-correct and so leave them to self-correct
+
+
+
 
