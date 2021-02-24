@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8055)}}    % original
-%\rhead{\textrmlf{Compiled }\#8055\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8055\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8056)}}    % original
+%\rhead{\textrmlf{Compiled }\#8056\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8056\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -253,6 +253,12 @@ eigenvector}\label{any-vector-in-an-invariant-subspace-is-an-eigenvector}}
 \hypertarget{the-eigenvalues-are-2-3}{%
 \subsubsection{\texorpdfstring{the eigenvalues are
 \(2, 3\)}{the eigenvalues are 2, 3}}\label{the-eigenvalues-are-2-3}}
+
+\hypertarget{general-idea}{%
+\subsection{general idea}\label{general-idea}}
+
+the point of eigenvectors is to figure out where other vectors go by
+looking at pieces that only get streched or shrunk.
 
 \hypertarget{depends-on}{%
 \section{depends on}\label{depends-on}}
