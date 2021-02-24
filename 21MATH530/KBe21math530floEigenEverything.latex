@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8043)}}    % original
-%\rhead{\textrmlf{Compiled }\#8043\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8043\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8044)}}    % original
+%\rhead{\textrmlf{Compiled }\#8044\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8044\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -178,7 +178,11 @@
 \section{eigenvalues}\label{eigenvalues}}
 
 eigenvalue: multiplied by a scalar? a subspace that, when put through a
-linear map, only gets scaled. \[ Tv = \lambda v \]
+linear map, only gets scaled.
+
+\[ Tv = \lambda v \]
+
+\textbf{T must be an operator!}
 
 where \(v\) is the eigenvector and \(\lambda\) is the eigenvalue. The
 equation is often rewritten as:
