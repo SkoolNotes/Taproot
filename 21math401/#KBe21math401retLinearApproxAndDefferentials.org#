@@ -48,7 +48,7 @@
 
 
 * differentials
-  For a function $y = f(x)$, $dy$ and $dx$ are diferentials and the relationship is $dy = f'(x) dx = L(a+\Delta a)-L($.
+  For a function $y = f(x)$, $dy$ and $dx$ are diferentials and the relationship is           $dy = f'(x) dx = \frac{L(a+\Delta a)-L(a)}{\cancel{dx}} \cancel{dx}$         .
 
   For a function written $f(x) = \text{(something)}$, the differentials are $df$ and $dx$ and the relationship is the same: $df = f'(x) dx$.
 
