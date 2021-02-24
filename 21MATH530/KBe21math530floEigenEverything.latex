@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8047)}}    % original
-%\rhead{\textrmlf{Compiled }\#8047\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8047\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8048)}}    % original
+%\rhead{\textrmlf{Compiled }\#8048\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8048\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,6 +182,9 @@ linear map, only gets scaled.
 
 \[ Tv = \lambda v \]
 
+Where \(v \neq 0\). (we ignore it because its no fun to send zero to
+zero, and bc the span is empty).
+
 \textbf{T must be an operator!} Otherwise the matrix sizes don't work
 out when subtracting \(\lambda I\).
 
@@ -213,6 +216,9 @@ space.}{T-\textbackslash lambda I is not injective, because both v, 0 are in the
 \subsubsection{\texorpdfstring{\(T-\lambda I\) is also not surjective or
 invertible bc finite dim
 operator.}{T-\textbackslash lambda I is also not surjective or invertible bc finite dim operator.}}\label{t-lambda-i-is-also-not-surjective-or-invertible-bc-finite-dim-operator.}}
+
+\hypertarget{an-example}{%
+\section{an example}\label{an-example}}
 
 \hypertarget{depends-on}{%
 \section{depends on}\label{depends-on}}
