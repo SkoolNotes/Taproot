@@ -93,4 +93,4 @@ Used to keep out western influence
 - To keep control of their own populatino
 - To hasten the collapse of western democracy
 
-The t
+The civil rights movements picked up heat in the united states: that the collective realization that the USSR
