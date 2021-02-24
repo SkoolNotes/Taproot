@@ -15,9 +15,3 @@ course: HIST201
 - The ruthless desire to peace
 - The destroying of present systems of the balance of power by higher-level fighting tools
 
-
-
-
-
-
-
