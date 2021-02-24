@@ -36,7 +36,7 @@
   \[ (3-\lambda)(2-\lambda) = 0 \]
   The solutions are $\lambda = 2 \text{ or } 3$. These are the eigenvalues.
 
-  Now just plug in $\lambda$ and find the null space using RREF.
+  Now just plug in $\lambda$ and find the null space using RREF. The null space for $\lambda = 3$ has null space $\text{span}(x, 0)$, so we just pick one of those vectors (ex. $(1, 0)$) to be the eigenvector.
 
 * depends on
 ** finding roots is helpful

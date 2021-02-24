@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8052)}}    % original
-%\rhead{\textrmlf{Compiled }\#8052\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8052\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8053)}}    % original
+%\rhead{\textrmlf{Compiled }\#8053\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8053\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -233,7 +233,10 @@ determinant.
 \[ (3-\lambda)(2-\lambda) = 0 \] The solutions are
 \(\lambda = 2 \text{ or } 3\). These are the eigenvalues.
 
-Now just plug in \(\lambda\) and find the null space using RREF.
+Now just plug in \(\lambda\) and find the null space using RREF. The
+null space for \(\lambda = 3\) has null space \(\text{span}(x, 0)\), so
+we just pick one of those vectors (ex. \((1, 0)\)) to be the
+eigenvector.
 
 \hypertarget{depends-on}{%
 \section{depends on}\label{depends-on}}
