@@ -80,4 +80,6 @@ Allie meetings at Tehran, Yalta, and Postdam
 - Germany will be occupied by US, UK, France, and USSR
 - Korea will be occupied by the US and USSR for the moment, but it will eventually be turned over
 
-The **united nations** failed to fufill its final goals
+The **united nations** failed to fufill its final goals: became a forum instead of a dicipline body
+
+![[Pasted image 20210224142636.png]]
