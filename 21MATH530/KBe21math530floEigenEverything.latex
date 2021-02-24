@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8051)}}    % original
-%\rhead{\textrmlf{Compiled }\#8051\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8051\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8052)}}    % original
+%\rhead{\textrmlf{Compiled }\#8052\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8052\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -232,6 +232,8 @@ determinant.
 
 \[ (3-\lambda)(2-\lambda) = 0 \] The solutions are
 \(\lambda = 2 \text{ or } 3\). These are the eigenvalues.
+
+Now just plug in \(\lambda\) and find the null space using RREF.
 
 \hypertarget{depends-on}{%
 \section{depends on}\label{depends-on}}
