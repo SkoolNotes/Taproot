@@ -37,4 +37,7 @@ Postwar world's rules
 - => Really, markets are cultivated. The plants are growing independently, but the gardener is responsible for cultivating the garden and preventing weeds
 
 
-
+### Kensian Capitalism
+- Capitalism is not self-regulating
+- Capitalism need an external structure for making it work well
+	=> In economic downturns, the govrenment should put money in circulation, in upward economy, the economy should
