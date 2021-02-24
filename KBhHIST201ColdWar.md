@@ -34,5 +34,7 @@ Postwar world's rules
 
 - Constructing economic systems and global market
 - "If you depend on a country for trade, you won't nuke them."
-- => Really, markets are cultivated. The plants are growing independently, but the gardener is responsi
+- => Really, markets are cultivated. The plants are growing independently, but the gardener is responsible for cultivating the garden and preventing weeds
+
+
 

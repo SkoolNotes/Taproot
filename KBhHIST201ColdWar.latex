@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8083)}}    % original
-%\rhead{\textrmlf{Compiled }\#8083\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8083\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8084)}}    % original
+%\rhead{\textrmlf{Compiled }\#8084\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8084\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -238,7 +238,8 @@ Postwar world's rules
   ``If you depend on a country for trade, you won't nuke them.''
 \item
   =\textgreater{} Really, markets are cultivated. The plants are growing
-  independe
+  independently, but the gardener is responsible for cultivating the
+  garden and preventing weeds
 \end{itemize}
 
 \end{document}
