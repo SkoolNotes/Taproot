@@ -78,4 +78,6 @@ The United States posted the most likely hegemone, but becaues the soviet union 
 Allie meetings at Tehran, Yalta, and Postdam
 
 - Germany will be occupied by US, UK, France, and USSR
-- Korea will be occupied by
+- Korea will be occupied by the US and USSR for the moment, but it will eventually be turned over
+
+The **united nations** failed to fufill its final goals
