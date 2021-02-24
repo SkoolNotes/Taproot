@@ -5,7 +5,7 @@ author: Houjun Liu
 course: HIST201
 ---
 
-# WWII and the Rise of teh Cold War Tensions
+# WWII and the Rise of the Cold War Tensions
 
 ## Causes of WWII: a brainstorm
 - The failure of the treaty of versailies
