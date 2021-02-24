@@ -22,4 +22,5 @@ course: HIST201
 - Set clear guidelines for treaties and consiquences
 - Build up collective force to be able to enforce treties (up and not limited to the threat of nuclear)
 
-- TH 
+**Under the assumption **
+- 
