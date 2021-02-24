@@ -31,5 +31,7 @@
   Now that we have that other fomulation, we can just subtract $\lambda I$ from $T$ to get
 \[ \begin{pmatrix}3-\lambda &1\\0&2-lambda \end{pmatrix} \]
 
+  Then, we just need to find whether it is non-invertible aka singular aka determinant.
+
 * depends on
 ** finding roots is helpful

@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8049)}}    % original
-%\rhead{\textrmlf{Compiled }\#8049\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8049\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8050)}}    % original
+%\rhead{\textrmlf{Compiled }\#8050\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8050\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -226,6 +226,9 @@ eigenvalues and eigenvectors.
 Now that we have that other fomulation, we can just subtract
 \(\lambda I\) from \(T\) to get
 \[ \begin{pmatrix}3-\lambda &1\\0&2-lambda \end{pmatrix} \]
+
+Then, we just need to find whether it is non-invertible aka singular aka
+determinant.
 
 \hypertarget{depends-on}{%
 \section{depends on}\label{depends-on}}
