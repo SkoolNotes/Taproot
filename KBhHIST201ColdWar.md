@@ -93,4 +93,8 @@ Used to keep out western influence
 - To keep control of their own populatino
 - To hasten the collapse of western democracy
 
-The civil rights movements picked up heat in the united states: that the collective realization that the USSR
+The civil rights movements picked up heat in the united states: that the collective realization that the USSR attempted to foment racial anger in the United States.
+
+
+
+
