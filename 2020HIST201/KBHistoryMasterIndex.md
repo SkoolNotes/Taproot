@@ -126,6 +126,8 @@ source: #index
 	* [[KBhHIST201RussianRevolution]]
 * WWII
 	* [[KBhHIST201WWII]]
+* From WWII to Cold War
+	* [[KBhHIST201ColdWar]] 
 * Self Evals [[KBxHistSelfEval2020]]
 
 ## Meta References
