@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7787)}}    % original
-%\rhead{\textrmlf{Compiled }\#7787\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7787\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8057)}}    % original
+%\rhead{\textrmlf{Compiled }\#8057\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8057\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -397,5 +397,20 @@ planets.
 Remember: two objects will need to be parallel to each other and one
 traveling in a linear motion while the other stationary for this to
 work!
+
+\textbf{Displacement equales velocity multiplied by the time interval}
+(and gamma.)
+
+\hypertarget{knowledges-that-importance}{%
+\section{Knowledges That Importance}\label{knowledges-that-importance}}
+
+\(\gamma(v) = \frac{1}{\sqrt{1-(v^2/c^2)**2}}\). which means, for speeds
+at \%c, \(\gamma(pc) = \frac{1}{\sqrt{1-pc^2}}\)
+
+\hypertarget{time-dilation}{%
+\subsection{Time Dilation}\label{time-dilation}}
+
+Should Ted be moving at a velocity \(V\) according to the refrence frame
+of Sally. \(t\) for Ted would be \$\gamma 
 
 \end{document}

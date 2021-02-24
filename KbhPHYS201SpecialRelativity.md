@@ -115,3 +115,11 @@ Of course, beware of thinking this as the "length of the ship", though. For inst
 
 Remember: two objects will need to be parallel to each other and one traveling in a linear motion while the other stationary for this to work!
 
+**Displacement equales velocity multiplied by the time interval** (and gamma.)
+
+
+# Knowledges That Importance
+$\gamma(v) = \frac{1}{\sqrt{1-(v^2/c^2)**2}}$. which means, for speeds at %c, $\gamma(pc) = \frac{1}{\sqrt{1-pc^2}}$
+
+## Time Dilation
+Should Ted be moving at a velocity $V$ according to the refrence frame of Sally. $t$ for Ted would be $\gamma \times t$ for sally.

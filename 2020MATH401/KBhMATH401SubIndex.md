@@ -12,3 +12,4 @@ source: KBCalculusMasterIndex
 - [[KbhMATH401e]]
 - [[KBhMATH401Derivatives]]
 - [[KBhMATH401Intergrals]]
+- [[KBhMATH401TaylorSeriesApprox]]

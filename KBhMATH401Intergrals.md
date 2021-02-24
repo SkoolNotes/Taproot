@@ -21,6 +21,8 @@ Antiderivatives table
 | $\frac{-1}{\sqrt{k^2-(ax)^2}}$ | $cos^-1(\frac{ax}{k})$ |
 | $ln(x)$|$xln(x)-x$|
 |$\int f(x)g'(x) dx$|$f(x)g(x)-\int f'(x)g(x) dx$ With this one, try to make f(x) the simpler derivative, and g(x) the simpler antiderivative|
+| Arc Length  of function $f(x)$ | $\sqrt{1+f'(x)^2} dx$ |
+
 
 ## Useful thing
 * Intergration by Parts (reverse product rule) (the f(x)g'(x) rule above)

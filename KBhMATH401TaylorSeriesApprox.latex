@@ -117,7 +117,7 @@
 
 
 \newcommand{\thecourse}{ MATH401 }
-\newcommand{\thelesson}{ Jack's Calculus Subindex }
+\newcommand{\thelesson}{ Talor Series Approx. }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -133,7 +133,7 @@
 %\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8057)}}    % original
 %\rhead{\textrmlf{Compiled }\#8057\textrmlf{ on} \today }      % old date
 \rhead{\textrmlf{Compiled }\#8057\textrmlf{ on} \today}       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -172,32 +172,16 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBCalculusMasterIndex}{\tiny\textulf{[[}\textbf{KBCalculusMasterIndex}\textulf{]]}}}\thinspace
 
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Day 1 Aftercare}
+\hypertarget{linear-talor-series-approximations}{%
+\section{(Linear) Talor Series
+Approximations}\label{linear-talor-series-approximations}}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    {[}{[}KBhMATH401Day1{]}{]} Day 1 with Veena
-  \end{itemize}
-\item
-  {[}{[}KBhMATH401FirstAndSecondOrder{]}{]} First and Second Order
-  Differences
-\item
-  {[}{[}KBhMATH401Limits{]}{]}
-\item
-  {[}{[}KbhMATH401e{]}{]}
-\item
-  {[}{[}KBhMATH401Derivatives{]}{]}
-\item
-  {[}{[}KBhMATH401Intergrals{]}{]}
-\item
-  {[}{[}KBhMATH401TaylorSeriesApprox{]}{]}
-\end{itemize}
+Linear approximations are represented by L. So, say if we are at a point
+4; we colud say that, using the linear approximation at x=4, get f(4.1).
+
+That could also be represented as L(4.1): ``linear approximation of''
+
+Difference between true function value
 
 \end{document}

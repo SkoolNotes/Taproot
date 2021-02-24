@@ -38,7 +38,6 @@ You may think of this analysis in two pieces:
 - (Cans) “His honor redeemed by his grandmother’s cans, Estha Alone organized the rusty cans of nothing in front of the urinal. He stood on them, one foot on each, and pissed carefully, with minimal wobble. Like a Man.” BC
 - (Bottles (Closing)) “Sound of Music smell that Rahel remembered and treasured. Smells, like music, hold memories. She breathed deep, and bottled it up for posterity.” BD
 - (Bottles, and other things.) Welp welp welp this is a quote from the book so here goes nothing “He got a cold bottle and a straw. So he held a bottle in one hand and a penis in the other.” BE
-- (Cans) “When she was questioned by the Principal about her behavior (cajoled, caned, starved), she eventually admitted that she had done it to find out whether breasts hurt.” BF
 - (Cans) “They gave him rusted film cans in which to put the vegetables he picked. He never bargained. They never cheated him. When the vegetables had been weighed and paid for, they would transfer them to his red plastic shopping basket” BG
 - (Cans) “Rahel thought of the someone who had taken the trouble to go up there with cans of paint, white for the clouds, blue for the sky, silver for the jets, and brushes, and thinner.” BH
 - (Bottles) “The pickled mangoes had absorbed oil and expanded, making the bottles leak.” BI
