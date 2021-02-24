@@ -126,3 +126,5 @@ Should Ted be moving at a velocity $V$ according to the refrence frame of Sally.
 
 ## Length Contraction
 Should Ted be moving at a velocity $V$ according to the refrence frame of Sally. Distance $D$ away from Sally and Ted's shared $D_0$ for Ted would be $\frac{D}{\gamma}$ for sally.
+
+![[Pasted image 20210224111737.png]]

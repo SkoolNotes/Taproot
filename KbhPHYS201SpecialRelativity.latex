@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8059)}}    % original
-%\rhead{\textrmlf{Compiled }\#8059\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8059\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8060)}}    % original
+%\rhead{\textrmlf{Compiled }\#8060\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8060\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -419,5 +419,7 @@ of Sally. Time \(t\) for Ted would be \(\gamma \times t\) for sally.
 Should Ted be moving at a velocity \(V\) according to the refrence frame
 of Sally. Distance \(D\) away from Sally and Ted's shared \(D_0\) for
 Ted would be \(\frac{D}{\gamma}\) for sally.
+
+{[}{[}Pasted image 20210224111737.png{]}{]}
 
 \end{document}
