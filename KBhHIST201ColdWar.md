@@ -29,5 +29,8 @@ course: HIST201
 - Diminished economic freedom
 - Co-operation across countries
 - GIVE PEOPLE NUKES!!!!!! (mutually assured destruction)
--  
+
+Postwar world's rules
+
+- 
 
