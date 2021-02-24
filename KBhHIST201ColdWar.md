@@ -20,4 +20,4 @@ course: HIST201
 - Operate under the shared assumption of peacekeeping and democracy
 - Find shared goals and ideals to operate upon
 - Set clear guidelines for treaties and consiquences
-- Build up collective force to be able to enforce treties (up and not limited to the threat of nuclear )
+- Build up collective force to be able to enforce treties (up and not limited to the threat of nuclear)
