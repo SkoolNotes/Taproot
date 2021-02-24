@@ -75,8 +75,8 @@
 ** sphere measuring
    \[
    \begin{aligned}
-   f(r) &= 4\pi r^2\\
-   \frac{d}{dr} f(r) &= 8\pi r\\
+   f(r) &= \frac{4}{3}\pi r^3\\
+   \frac{df}{dr} &= 4\pi r^2\\
    df &= 8\pi r (dr)\\
    &= 8\pi 21 (0.05) = \pm8.4 \pi \text{ cm}^3
    \end{aligned}
