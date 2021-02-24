@@ -84,3 +84,4 @@ The **united nations** failed to fufill its final goals: became a forum instead 
 
 ![[Pasted image 20210224142636.png]]
 
+Features of the USSR: that the leadership have unchecked power to act without the support
