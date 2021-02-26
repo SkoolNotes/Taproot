@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8108)}}    % original
-%\rhead{\textrmlf{Compiled }\#8108\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8108\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8109)}}    % original
+%\rhead{\textrmlf{Compiled }\#8109\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8109\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -205,7 +205,7 @@ antiderivative \\ \addlinespace
 Arc Length of function \(f(x)\) &
 \(\sqrt{1+f'(x)^2} dx\) \\ \addlinespace
 Arc length of polar function \(x(t), y(t)\) &
-\$(dt)\sqrt{x'(t)^2 + y} \\ \addlinespace
+\(\sqrt{x'(t)^2 + y'(t)^2}(dt)\) \\ \addlinespace
 \bottomrule
 \end{longtable}
 

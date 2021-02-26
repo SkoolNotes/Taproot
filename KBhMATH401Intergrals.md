@@ -22,7 +22,7 @@ Antiderivatives table
 | $ln(x)$|$xln(x)-x$|
 |$\int f(x)g'(x) dx$|$f(x)g(x)-\int f'(x)g(x) dx$ With this one, try to make f(x) the simpler derivative, and g(x) the simpler antiderivative|
 | Arc Length  of function $f(x)$ | $\sqrt{1+f'(x)^2} dx$ |
-| Arc length of polar function $x(t), y(t)$ | $(dt)\sqrt{x'(t)^2 + y}
+| Arc length of polar function $x(t), y(t)$ | $\sqrt{x'(t)^2 + y'(t)^2}(dt)$
 
 
 ## Useful thing
