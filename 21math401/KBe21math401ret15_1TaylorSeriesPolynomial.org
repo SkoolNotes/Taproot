@@ -7,6 +7,6 @@
 		&= \cos(0) &-&\sin(0)x &+& \frac{-\cos(0)}{2!}x^2 &+& \frac{\sin(0)}{3!}x^3 &+& \cdots\\
 		&= 1 &-& 0 x &-& \frac{1}{2!}x^2 &+& \frac{0}{3!}x^3 &+& \cdots\\
 		&= 1 && &-& \frac{1}{2!}x^2 && &+& \frac{1}{4!} x^4 + \cdots\\
-        &= \sum_{k=0}
+        &= \sum_{k=0} \frac{(-1)^k}{(2k)!}x^{2k}
    \end{aligned}
    \]
