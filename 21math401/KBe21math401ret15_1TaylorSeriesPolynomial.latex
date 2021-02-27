@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8121)}}    % original
-%\rhead{\textrmlf{Compiled }\#8121\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8121\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8122)}}    % original
+%\rhead{\textrmlf{Compiled }\#8122\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8122\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -181,10 +181,10 @@
 \subsection{\texorpdfstring{\(y = \cos(x)\)}{y = \textbackslash cos(x)}}\label{y-cosx}}
 
 \[
-   \begin{align*}
-P_n(x) &= f(0) +& \frac{d}{dx}f(0)x +& \frac{\frac{d^2}{d^2x}f(0)}{2!}x^2 +& \frac{\frac{d^3}{d^3x}f(0)}{3!}x^3 +& \cdots\\
-       &= \cos(0) -&\sin(0)x +& \frac{-\cos(0)}{2!}x^2 +& \frac{\sin(0)}{3!}x^3 +& \cdots\\
-   \end{align*}
+   \begin{aligned}
+P_n(x) &= f(0) &+& \frac{d}{dx}f(0)x &+& \frac{\frac{d^2}{d^2x}f(0)}{2!}x^2 &+& \frac{\frac{d^3}{d^3x}f(0)}{3!}x^3 &+& \cdots\\
+       &= \cos(0) &-&\sin(0)x &+& \frac{-\cos(0)}{2!}x^2 &+& \frac{\sin(0)}{3!}x^3 &+& \cdots\\
+   \end{aligned}
    \]
 
 \end{document}
