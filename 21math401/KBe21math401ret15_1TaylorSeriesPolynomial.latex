@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8131)}}    % original
-%\rhead{\textrmlf{Compiled }\#8131\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8131\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8132)}}    % original
+%\rhead{\textrmlf{Compiled }\#8132\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8132\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -189,5 +189,11 @@
         &= \sum_{k=0} \frac{(-1)^k}{(2k)!}x^{2k}
    \end{aligned}
    \]
+
+\hypertarget{y-ex}{%
+\subsection{\texorpdfstring{\(y = e^x\)}{y = e\^{}x}}\label{y-ex}}
+
+\[\begin{aligned}
+   \end{aligned}\]
 
 \end{document}
