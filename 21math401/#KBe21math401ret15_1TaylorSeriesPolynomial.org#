@@ -3,6 +3,6 @@
 ** $y = \cos(x)$
    \[
    \begin{aligned}
-P_n(x) = f(0) + \frac{d}{dx}f(0)x + \frac{d^2}{d^2x}f(0)x
+P_n(x) = f(0) + \frac{d}{dx}f(0)x + \frac{\frac{d^2}{d^2x}f(0)}{2!}x^2 + \cdots
    \end{aligned}
    \]
