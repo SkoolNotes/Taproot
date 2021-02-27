@@ -13,5 +13,5 @@
 ** $y = e^x$
    \[\begin{aligned}
    P_n(x) &= f(0) &+& \frac{d}{dx}f(0)x &+& \frac{\frac{d^2}{d^2x}f(0)}{2!}x^2 &+& \frac{\frac{d^3}{d^3x}f(0)}{3!}x^3 &+& \cdots\\
-          &= e^0 &+& \frac{d}{dx}f(0)x &+& \frac{\frac{d^2}{d^2x}f(0)}{2!}x^2 &+& \frac{\frac{d^3}{d^3x}f(0)}{3!}x^3 &+& \cdots\\
+          &= e^x &+& \frac{d}{dx}f(0)x &+& \frac{\frac{d^2}{d^2x}f(0)}{2!}x^2 &+& \frac{\frac{d^3}{d^3x}f(0)}{3!}x^3 &+& \cdots\\
    \end{aligned}\]
