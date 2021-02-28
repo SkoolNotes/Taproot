@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8144)}}    % original
-%\rhead{\textrmlf{Compiled }\#8144\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8144\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8145)}}    % original
+%\rhead{\textrmlf{Compiled }\#8145\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8145\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -249,11 +249,5 @@ This shows that if \(U \nsubseteq \text{null }T\), then
 \(S \notin \mathcal L(V/U, W)\) or \(T \neq S \circ \pi\). Thus, if
 \(S \in \mathcal L(V/U, W)\) and \(T = S \circ \pi\), then
 \(U \subseteq \text{null }T\).
-
-\[
-
-  amazin => stuff
-
-  \]
 
 \end{document}
