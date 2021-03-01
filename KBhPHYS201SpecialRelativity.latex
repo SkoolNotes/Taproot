@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8153)}}    % original
-%\rhead{\textrmlf{Compiled }\#8153\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8153\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8154)}}    % original
+%\rhead{\textrmlf{Compiled }\#8154\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8154\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -424,5 +424,14 @@ Ted would be \(\frac{D}{\gamma}\) for sally.
 
 =\textgreater{} ``Finding the distance to origin, and multiply by
 gamma''
+
+\hypertarget{linear-momentum}{%
+\subsection{Linear Momentum}\label{linear-momentum}}
+
+\begin{figure}
+\centering
+\includegraphics{2020PHYS201/linearmomentum.png}
+\caption{Linear Momentum}
+\end{figure}
 
 \end{document}
