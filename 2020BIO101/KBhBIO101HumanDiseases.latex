@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8147)}}    % original
-%\rhead{\textrmlf{Compiled }\#8147\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8147\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8148)}}    % original
+%\rhead{\textrmlf{Compiled }\#8148\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8148\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -1554,11 +1554,5 @@ The process of DNA replication is semiconservative, such that takes place throug
 
 - The end of a DNA molecule are called telomeres (not in circular genome e.g. bacteria), and shorten during each replication (Hayflick limit). Noncoding, repeating units of nucleotides act as protection from losing essential genetic information by shorting. 
 \end{verbatim}
-
-\begin{figure}
-\centering
-\includegraphics{copying 1.png}
-\caption{copying 1.png}
-\end{figure}
 
 \end{document}

@@ -599,8 +599,3 @@ The process of DNA replication is semiconservative, such that takes place throug
 
 - The end of a DNA molecule are called telomeres (not in circular genome e.g. bacteria), and shorten during each replication (Hayflick limit). Noncoding, repeating units of nucleotides act as protection from losing essential genetic information by shorting. 
 ```
-
-![copying 1.png](copying 1.png)
-
-
-
