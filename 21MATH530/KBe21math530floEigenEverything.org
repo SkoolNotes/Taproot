@@ -19,6 +19,7 @@
   \end{aligned} \]
 
   We want $T-\lambda I$ to be singular, because we want the null space to include $v$.
+  So we subtract $\lambda$ from the $I$ diagonal of $T$ and then find values of $v$ which are equal to zero?
 
   now this can be factored and roots can be found. also it's an operator.
 

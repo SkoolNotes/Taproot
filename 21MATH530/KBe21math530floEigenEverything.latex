@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8151)}}    % original
-%\rhead{\textrmlf{Compiled }\#8151\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8151\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8152)}}    % original
+%\rhead{\textrmlf{Compiled }\#8152\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8152\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -199,7 +199,8 @@ equation is often rewritten as:
   \end{aligned} \]
 
 We want \(T-\lambda I\) to be singular, because we want the null space
-to include \(v\).
+to include \(v\). So we subtract \(\lambda\) from the \(I\) diagonal of
+\(T\) and then find values of \(v\) which are equal to zero?
 
 now this can be factored and roots can be found. also it's an operator.
 
