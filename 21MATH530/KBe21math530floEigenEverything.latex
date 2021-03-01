@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8143)}}    % original
-%\rhead{\textrmlf{Compiled }\#8143\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8143\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8149)}}    % original
+%\rhead{\textrmlf{Compiled }\#8149\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8149\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -196,9 +196,7 @@ equation is often rewritten as:
   Tv - \lambda v &= 0
   Tv - \lambda Iv &= 0
   (T-\lambda I) v &= 0
-  \end{aligned}
-
-\]
+  \end{aligned} \]
 
 now this can be factored and roots can be found. also it's an operator.
 
