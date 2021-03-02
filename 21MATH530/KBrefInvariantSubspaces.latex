@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8176)}}    % original
-%\rhead{\textrmlf{Compiled }\#8176\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8176\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8179)}}    % original
+%\rhead{\textrmlf{Compiled }\#8179\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8179\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -191,7 +191,15 @@ Suppose \(T \in \mathcal L(V)\). A subpsace \(U\) of \(V\) is called
 \subsection{intuit}\label{intuit}}
 
 A subspace \(U\) is called invariant on \(T\) if \(T\big|_U\) is closed
-in \(U\). (BUT it is not neseccarily an operator!) Aka the map is closed
+in \(U\). (BUT it is not nessecarily an operator!) Aka the map is closed
 under the subspace.
+
+\hypertarget{results}{%
+\subsection{results}\label{results}}
+
+\hypertarget{finite-dimensional-subspaces-of-sufficiently-large-dimension-1-for-mathbb-f-mathbb-c-and-2-for-mathbb-f-mathbb-r}{%
+\subsubsection{\texorpdfstring{finite dimensional subspaces of
+sufficiently large dimension (1 for \(\mathbb F = \mathbb C\) and 2 for
+\(\mathbb F = \mathbb R\))}{finite dimensional subspaces of sufficiently large dimension (1 for \textbackslash mathbb F = \textbackslash mathbb C and 2 for \textbackslash mathbb F = \textbackslash mathbb R)}}\label{finite-dimensional-subspaces-of-sufficiently-large-dimension-1-for-mathbb-f-mathbb-c-and-2-for-mathbb-f-mathbb-r}}
 
 \end{document}
