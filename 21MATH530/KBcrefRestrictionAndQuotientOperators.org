@@ -12,3 +12,5 @@
 	\[ (T/U)(v+U) = Tv + U \]
 	for $v \in V$.
   #+end_quote
+** motivation
+   By using these two operators, we can study a map $T$ on a big space $V$ by looking at what it does to vectors in $U$ and not in $U$, with $T \big|_U$ and $T/U$ respectively.
