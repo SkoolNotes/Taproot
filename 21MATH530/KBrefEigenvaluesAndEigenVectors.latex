@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8190)}}    % original
-%\rhead{\textrmlf{Compiled }\#8190\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8190\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8191)}}    % original
+%\rhead{\textrmlf{Compiled }\#8191\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8191\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -190,5 +190,9 @@ The simplest non-trivial invariant subspaces are one-dimensional. Let
 \[ Tu \in U : u \in U \] Because \(U = \text{span} (u)\), this implies
 \[ Tu = \lambda u \] which defines an eigenvalue (\(\lambda\)) and
 eigenvector(\(u\)) pair.
+
+\hypertarget{eigenvalue}{%
+\section{\texorpdfstring{eigenvalue
+{\textsc{def}}}{eigenvalue def}}\label{eigenvalue}}
 
 \end{document}

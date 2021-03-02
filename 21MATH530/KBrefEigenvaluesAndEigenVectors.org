@@ -8,3 +8,7 @@
   Because $U = \text{span} (u)$, this implies
   \[ Tu = \lambda u \]
   which defines an eigenvalue ($\lambda$) and eigenvector($u$) pair.
+* eigenvalue                                                            :def:
+  #+begin_quote
+  Suppose $T \in \mathcal L(V)$. A number $\lambda \in \mathbb F$ is called an /eigenvalue/ of $T$ if there exists $v \in V$ s.t. $v \neq 0$ and $Tv = \lambda v$.
+  #+end_quote
