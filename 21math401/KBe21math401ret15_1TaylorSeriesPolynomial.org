@@ -24,3 +24,7 @@
 * prove approximations
 ** $\frac{1}{1-x} = 1 + x + x^2 + x^3 + \cdots$
    Proof by geometric series
+** $\frac{1}{1+x} = 1 - x + x^2 - x^3 + \cdots$
+   Plug $-x$ for $x$ in the previous equation.
+** $\frac{1}{1+x^2} = 1 - x^2 + x^4 - x^6 + \cdots$
+   Plug $x^2$ for $x$ in the previous
