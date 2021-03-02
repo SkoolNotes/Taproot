@@ -42,4 +42,8 @@
 
 *** axler5.10 linearly independent eigenvectors
 	#+begin_quote
-	Let $T \in \mathcal L(V). Suppose $\lambda_1, \ldots, \lambda_m$ are distinct eigenvalues of $T$ and $v_1, \lo#+end_quote
+	Let $T \in \mathcal L(V). Suppose $\lambda_1, \ldots, \lambda_m$ are distinct eigenvalues of $T$ and $v_1, \ldots, v_m$ are corresponding eigenvectors. Then $v_1,ldots, v_m$ is linearly independent.
+	#+end_quote
+	
+**** intuit                                                          :intuit:
+	 If some list of eigenvalues is distinct, then the corresponding eigenv

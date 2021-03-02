@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8202)}}    % original
-%\rhead{\textrmlf{Compiled }\#8202\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8202\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8203)}}    % original
+%\rhead{\textrmlf{Compiled }\#8203\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8203\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -260,5 +260,11 @@ Because \(Tv = \lambda v\) iff \(\left(T-\lambda I\right)v = 0\)
 \hypertarget{axler5.10-linearly-independent-eigenvectors}{%
 \subsubsection{axler5.10 linearly independent
 eigenvectors}\label{axler5.10-linearly-independent-eigenvectors}}
+
+\begin{quote}
+Let \$T ∈ \mathcal L(V). Suppose \(\lambda_1, \ldots, \lambda_m\) are
+distinct eigenvalues of \(T\) and \(v_1, \ldots, v_m\) are corresponding
+eigenvectors. Then \(v_1,ldots, v_m\) is linearly independent.
+\end{quote}
 
 \end{document}
