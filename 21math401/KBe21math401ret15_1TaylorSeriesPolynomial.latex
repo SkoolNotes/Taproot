@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8273)}}    % original
-%\rhead{\textrmlf{Compiled }\#8273\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8273\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8274)}}    % original
+%\rhead{\textrmlf{Compiled }\#8274\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8274\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -233,8 +233,8 @@ ln (1+x)\$}{TODO \$ y = ln (1+x)\$}}\label{y-ln-1x}}
 \subsection{\texorpdfstring{{TODO}
 \(y = \tan^- x\)}{TODO y = \textbackslash tan\^{}- x}}\label{y-tan--x}}
 
-\hypertarget{y-1-xk}{%
+\hypertarget{y-1xk}{%
 \subsection{\texorpdfstring{{TODO}
-\(y = (1-x)^k\)}{TODO y = (1-x)\^{}k}}\label{y-1-xk}}
+\(y = (1+x)^k\)}{TODO y = (1+x)\^{}k}}\label{y-1xk}}
 
 \end{document}
