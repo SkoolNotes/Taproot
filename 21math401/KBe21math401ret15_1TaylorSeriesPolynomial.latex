@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8269)}}    % original
-%\rhead{\textrmlf{Compiled }\#8269\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8269\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8270)}}    % original
+%\rhead{\textrmlf{Compiled }\#8270\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8270\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -220,6 +220,6 @@ Plug \(-x\) for \(x\) in the previous equation.
 \hypertarget{frac11x2-1---x2-x4---x6-cdots}{%
 \subsection{\texorpdfstring{\(\frac{1}{1+x^2} = 1 - x^2 + x^4 - x^6 + \cdots\)}{\textbackslash frac\{1\}\{1+x\^{}2\} = 1 - x\^{}2 + x\^{}4 - x\^{}6 + \textbackslash cdots}}\label{frac11x2-1---x2-x4---x6-cdots}}
 
-Plug \(x^2\) for \(x\) in the previous
+Plug \(x^2\) for \(x\) in the previous equation.
 
 \end{document}
