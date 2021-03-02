@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8267)}}    % original
-%\rhead{\textrmlf{Compiled }\#8267\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8267\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8268)}}    % original
+%\rhead{\textrmlf{Compiled }\#8268\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8268\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -206,5 +206,10 @@
 
 \hypertarget{prove-approximations}{%
 \section{prove approximations}\label{prove-approximations}}
+
+\hypertarget{frac11-x-1-x-x2-x3-cdots}{%
+\subsection{\texorpdfstring{\(\frac{1}{1-x} = 1 + x + x^2 + x^3 + \cdots\)}{\textbackslash frac\{1\}\{1-x\} = 1 + x + x\^{}2 + x\^{}3 + \textbackslash cdots}}\label{frac11-x-1-x-x2-x3-cdots}}
+
+Proof by geometric series
 
 \end{document}
