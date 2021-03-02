@@ -29,4 +29,7 @@
   Suppose $T$ \in \mathcal L(V)$ and $\lambda \in \mathbb F$ is an eigenvalue of $T$. A vector $v \in V$ is called an /eigenvector/ of $T$ corresponding to $\lambda$ if $v \neq 0$ and $Tv = \lambda v$.
   #+end_quote
 
+** intuit                                                            :intuit:
+   $v$ can't be zero because that would be trivial. Otherwise, this is just terminology based on the prev definition: if it gets scaled but stays in the same space, then its called an eigenvector. Note that each eigenvalue $\lambda$ has a whole $\text{span}v$ of associated eigenvectors.
+
 ** results

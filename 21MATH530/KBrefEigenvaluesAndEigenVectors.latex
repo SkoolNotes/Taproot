@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8196)}}    % original
-%\rhead{\textrmlf{Compiled }\#8196\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8196\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8198)}}    % original
+%\rhead{\textrmlf{Compiled }\#8198\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8198\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -233,6 +233,16 @@ eigenvalue of \(T\). A vector \(v \in V\) is called an
 \emph{eigenvector} of \(T\) corresponding to \(\lambda\) if \(v \neq 0\)
 and \(Tv = \lambda v\).
 \end{quote}
+
+\hypertarget{intuit}{%
+\subsection{\texorpdfstring{intuit
+{\textsc{intuit}}}{intuit intuit}}\label{intuit}}
+
+\(v\) can't be zero because that would be trivial. Otherwise, this is
+just terminology based on the prev definition: if it gets scaled but
+stays in the same space, then its called an eigenvector. Note that each
+eigenvalue \(\lambda\) has a whole \(\text{span}v\) of associated
+eigenvectors.
 
 \hypertarget{results-1}{%
 \subsection{results}\label{results-1}}
