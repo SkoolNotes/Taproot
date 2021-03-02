@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8240)}}    % original
-%\rhead{\textrmlf{Compiled }\#8240\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8240\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8243)}}    % original
+%\rhead{\textrmlf{Compiled }\#8243\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8243\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -213,9 +213,13 @@ multiplicity is \(\boxed{1}\)?
 \hypertarget{geometric}{%
 \subsubsection{Geometric}\label{geometric}}
 
-Null space \((x, 0, 0)\) has dim 1.
+Null space of 1 (\((x, 0, 0)\)) has dim 1.
 
 \hypertarget{algebraic}{%
 \subsubsection{Algebraic}\label{algebraic}}
+
+The determinant simplifies to one factored term:
+\[ (1-\lambda)^2(3-\lambda) \] So 1 has a multiplicity 2 and 3 has
+multiplicity 1?
 
 \end{document}
