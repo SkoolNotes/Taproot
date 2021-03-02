@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8191)}}    % original
-%\rhead{\textrmlf{Compiled }\#8191\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8191\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8192)}}    % original
+%\rhead{\textrmlf{Compiled }\#8192\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8192\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -194,5 +194,23 @@ eigenvector(\(u\)) pair.
 \hypertarget{eigenvalue}{%
 \section{\texorpdfstring{eigenvalue
 {\textsc{def}}}{eigenvalue def}}\label{eigenvalue}}
+
+\begin{quote}
+Suppose \(T \in \mathcal L(V)\). A number \(\lambda \in \mathbb F\) is
+called an \emph{eigenvalue} of \(T\) if there exists \(v \in V\) s.t.
+\(v \neq 0\) and \(Tv = \lambda v\).
+\end{quote}
+
+\hypertarget{results}{%
+\subsection{results}\label{results}}
+
+\hypertarget{axler5.6-equivalent-conditions}{%
+\subsubsection{Axler5.6 equivalent
+conditions}\label{axler5.6-equivalent-conditions}}
+
+\begin{enumerate}
+\item
+  When \(V\) is finite-dimensional
+\end{enumerate}
 
 \end{document}
