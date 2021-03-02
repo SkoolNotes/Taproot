@@ -1,0 +1,20 @@
+#+AUTHOR: Exr0n
+#+TITLE: Eigenstuff Followup
+* Algebreic and Geometric Multiplicities
+  I missed the last ten minutes of class and had to look up what the algebreic and geometric multiplicities are. I used this [[https://people.math.carleton.ca/~kcheung/math/notes/MATH1107/wk10/10_algebraic_and_geometric_multiplicities.html][source]].
+
+  Also it says something about
+  #+begin_quote
+  It is a fact that summing up the algebraic multiplicities of all the eigenvalues of an $n\times n$ matrix $A$ gives exactly $n$.
+  #+end_quote
+  Which reminds me of the fundamental theorem of algebra...
+
+** $\begin{pmatrix}4&-12\\2&0\end{pmatrix}$
+
+*** Geometric multiplicity
+	The null space is $\text{span } \begin{pmatrix}1\\1\end{pmatrix}$ which is dimension 1.
+
+*** Algebraic multiplicity
+	The determinant of $\begin{pmatrix}2&-2\\2&-2\end{pmatrix}$ is
+	\[ (2\cdot -2)-(2\cdot -2) = 0 \]
+	which makes sense because the matrix is singular. 
