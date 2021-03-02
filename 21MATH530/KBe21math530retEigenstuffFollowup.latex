@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8247)}}    % original
-%\rhead{\textrmlf{Compiled }\#8247\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8247\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8248)}}    % original
+%\rhead{\textrmlf{Compiled }\#8248\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8248\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -228,5 +228,7 @@ multiplicity 1?
 
 \hypertarget{geometric-1}{%
 \subsubsection{Geometric}\label{geometric-1}}
+
+For \$λ = 1\%, null space is \((x, y, 0)\)
 
 \end{document}
