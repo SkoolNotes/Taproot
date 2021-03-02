@@ -117,7 +117,8 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ Relationship between Restriction and Quotient }
+\newcommand{\thelesson}{ Relationship between Restriction of Map and
+Quotient of Space }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -130,9 +131,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8211)}}    % original
-%\rhead{\textrmlf{Compiled }\#8211\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8211\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8212)}}    % original
+%\rhead{\textrmlf{Compiled }\#8212\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8212\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -174,6 +175,11 @@
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
 
+\hypertarget{source}{%
+\section{\texorpdfstring{source
+{\textsc{source}}}{source source}}\label{source}}
 
+\hypertarget{axler5.14}{%
+\subsection{axler5.14}\label{axler5.14}}
 
 \end{document}
