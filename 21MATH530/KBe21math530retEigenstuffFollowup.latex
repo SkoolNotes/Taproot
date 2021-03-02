@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8220)}}    % original
-%\rhead{\textrmlf{Compiled }\#8220\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8220\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8222)}}    % original
+%\rhead{\textrmlf{Compiled }\#8222\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8222\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -181,5 +181,14 @@ Multiplicities}\label{algebreic-and-geometric-multiplicities}}
 I missed the last ten minutes of class and had to look up what the
 algebreic and geometric multiplicities are. I used this
 \href{https://people.math.carleton.ca/~kcheung/math/notes/MATH1107/wk10/10_algebraic_and_geometric_multiplicities.html}{source}.
+
+Also it says something about
+
+\begin{quote}
+It is a fact that summing up the algebraic multiplicities of all the
+eigenvalues of an \(n\times n\) matrix \(A\) gives exactly \(n\).
+\end{quote}
+
+Which reminds me of the fundamental theorem of algebra\ldots{}
 
 \end{document}
