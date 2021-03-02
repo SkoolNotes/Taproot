@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8227)}}    % original
-%\rhead{\textrmlf{Compiled }\#8227\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8227\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8228)}}    % original
+%\rhead{\textrmlf{Compiled }\#8228\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8228\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -195,9 +195,12 @@ Which reminds me of the fundamental theorem of algebra\ldots{}
 \subsection{\texorpdfstring{\(\begin{pmatrix}4&-12\\2&0\end{pmatrix}\)}{\textbackslash begin\{pmatrix\}4\&-12\textbackslash\textbackslash2\&0\textbackslash end\{pmatrix\}}}\label{beginpmatrix4-1220endpmatrix}}
 
 \hypertarget{geometric-multiplicity}{%
-\subsubsection{Geometric Multiplicity}\label{geometric-multiplicity}}
+\subsubsection{Geometric multiplicity}\label{geometric-multiplicity}}
 
 The null space is \(\text{span } \begin{pmatrix}1\\1\end{pmatrix}\)
 which is dimension 1.
+
+\hypertarget{algebraic-multiplicity}{%
+\subsubsection{Algebraic multiplicity}\label{algebraic-multiplicity}}
 
 \end{document}
