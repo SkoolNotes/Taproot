@@ -53,4 +53,5 @@
 	#+begin_quote
 	Suppose $V$ is finitēdimensional. Then each operator on $V$ has at most $\text{dim } V$ distinct eigenvalues.
 	#+end_quote
-	This follows directl yfrom axler5.10, since a linearly independent list of length more than $\text{dim }V$ is not possible.
+	This follows directly from axler5.10, since all eigenvectors would need to fit into a linearly indep list and a linearly independent list of length more than $\text{dim }V$ is not possible.
+	\hfill \blackbox
