@@ -16,5 +16,5 @@
 
 *** Algebraic multiplicity
 	The determinant of $\begin{pmatrix}2&-2\\2&-2\end{pmatrix}$ is
-	\[ (2\cdot -2)-(2\cdot -2) = 0 \]
+	\[ (4-\lambda \cdot -2)-(2\cdot -\lambda) = 0 \]
 	which makes sense because the matrix is singular.
