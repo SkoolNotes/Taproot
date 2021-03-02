@@ -2,4 +2,8 @@
 #+TITLE: Relationship between Restriction of Map and Quotient of Space
 * source                                                             :source:
 ** axler5.14
-* $T\big|
+* $T\big|_U$ and $T/U$                                                  :def:
+  #+begin_quote
+  Suppose $T \in \mathcal L(V)$ and U is a subspace of $V$ invariant under $T$.
+  - The /restriction operator/ $T \big| _U \in \mathcal
+  #+end_quote

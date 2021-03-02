@@ -131,9 +131,9 @@ Quotient of Space }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8212)}}    % original
-%\rhead{\textrmlf{Compiled }\#8212\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8212\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8213)}}    % original
+%\rhead{\textrmlf{Compiled }\#8213\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8213\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -181,5 +181,14 @@ Quotient of Space }
 
 \hypertarget{axler5.14}{%
 \subsection{axler5.14}\label{axler5.14}}
+
+\hypertarget{tbig_u-and-tu}{%
+\section{\texorpdfstring{\(T\big|_U\) and \(T/U\)
+{\textsc{def}}}{T\textbackslash big\textbar\_U and T/U def}}\label{tbig_u-and-tu}}
+
+\begin{quote}
+Suppose \(T \in \mathcal L(V)\) and U is a subspace of \(V\) invariant
+under \(T\).
+\end{quote}
 
 \end{document}
