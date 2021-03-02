@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8170)}}    % original
-%\rhead{\textrmlf{Compiled }\#8170\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8170\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8172)}}    % original
+%\rhead{\textrmlf{Compiled }\#8172\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8172\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -183,6 +183,13 @@
 {\textsc{def}}}{invariant subspace def}}\label{invariant-subspace}}
 
 \begin{quote}
+Suppose \(T \in \mathcal L(V)\). A subpsace \(U\) of \(V\) is called
+\emph{invariant} under \(T\) if \(u \in U\) implies \(Tu \in U\).
 \end{quote}
+
+\hypertarget{intuit}{%
+\subsection{intuit}\label{intuit}}
+
+A subspace \(U\) is called invariant on \(T\) if \(T\Bigr_U\)
 
 \end{document}
