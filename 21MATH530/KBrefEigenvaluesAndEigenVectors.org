@@ -35,3 +35,6 @@
 ** results
 
 *** equivalent condition
+	#+begin_quote
+	Because $Tv = \lambda v$ iff $\left(T-\lambda I\right)v = 0$ (algebra), a vector $v \in V$ with $v \neq 0$ is an eigenvector of $T$ corresponding to $\lambda$ iff $v \in \text{null}\left(T-\lambda I)\right)$
+	#+end_quote
