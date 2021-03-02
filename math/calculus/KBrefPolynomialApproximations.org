@@ -1,2 +1,5 @@
 #+AUTHOR: Exr0n
 #+TITLE: Polynomial Approximations Reference
+| Function | Series | Sum | Derived From |
+|----------+--------+-----+--------------|
+| $\sin x$ | $x-\frac{x^3}{3!} + \frac{x^5}{5!} + \cdots$ |     |              |
