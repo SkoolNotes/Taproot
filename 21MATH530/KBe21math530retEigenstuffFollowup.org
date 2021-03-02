@@ -15,3 +15,6 @@
 	The null space is $\text{span } \begin{pmatrix}1\\1\end{pmatrix}$ which is dimension 1.
 
 *** Algebraic multiplicity
+	The determinant of $\begin{pmatrix}2&-2\\2&-2\end{pmatrix}$ is
+	\[ (2\cdot -2)-(2\cdot -2) = 0 \]
+	which makes sense because the matrix is singular.

@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8228)}}    % original
-%\rhead{\textrmlf{Compiled }\#8228\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8228\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8230)}}    % original
+%\rhead{\textrmlf{Compiled }\#8230\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8230\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -202,5 +202,8 @@ which is dimension 1.
 
 \hypertarget{algebraic-multiplicity}{%
 \subsubsection{Algebraic multiplicity}\label{algebraic-multiplicity}}
+
+The determinant of \(\begin{pmatrix}2&-2\\2&-2\end{pmatrix}\) is
+\[ (2\cdot -2)-(2\cdot -2) = 0 \]
 
 \end{document}
