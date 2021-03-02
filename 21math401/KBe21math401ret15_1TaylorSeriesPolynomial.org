@@ -36,3 +36,5 @@
    \[\begin{aligned}
    P_n(x) &= f(0) &+& \frac{d}{dx}f(0)x &+& \frac{\frac{d^2}{d^2x}f(0)}{2!}x^2 &+& \frac{\frac{d^3}{d^3x}f(0)}{3!}x^3 &+& \cdots\\
           &= k(1)^k &+& k(k-1)(1)^{k-1}x &+& \frac{k(k-1)(k-2)(1)^{k-2}}{2!}x^2 &+& \frac{k(k-1)(k-2)(k-3)(1)^{k-3}}{3!}x^3 &+& \cdots\\
+          &= k(1)^k &+& k(k-1)(1)^{k-1}x &+& \frac{k(k-1)(k-2)(1)^{k-2}}{2!}x^2 &+& \frac{k(k-1)(k-2)(k-3)(1)^{k-3}}{3!}x^3 &+& \cdots\\
+	\end{aligned}\]
