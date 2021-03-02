@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8251)}}    % original
-%\rhead{\textrmlf{Compiled }\#8251\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8251\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8253)}}    % original
+%\rhead{\textrmlf{Compiled }\#8253\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8253\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -204,8 +204,8 @@ which is dimension \(\boxed{1}\).
 \subsubsection{Algebraic multiplicity}\label{algebraic-multiplicity}}
 
 The determinant of \(\begin{pmatrix}2&-2\\2&-2\end{pmatrix}\) is
-\[ -2(4-\lambda)-2(-\lambda) = 4(\lambda -1) \] So the algebraic
-multiplicity is \(\boxed{1}\)?
+\[ -\lambda(4-\lambda) - (-4) = \lambda ^2 -4\lambda + 4 = (\lambda -2)^2 \]
+So the algebraic multiplicity is \(\boxed{2}\)
 
 \hypertarget{beginpmatrix11201-1003endpmatrix}{%
 \subsection{\texorpdfstring{\(\begin{pmatrix}1&1&2\\0&1&-1\\0&0&3\end{pmatrix}\)}{\textbackslash begin\{pmatrix\}1\&1\&2\textbackslash\textbackslash0\&1\&-1\textbackslash\textbackslash0\&0\&3\textbackslash end\{pmatrix\}}}\label{beginpmatrix11201-1003endpmatrix}}

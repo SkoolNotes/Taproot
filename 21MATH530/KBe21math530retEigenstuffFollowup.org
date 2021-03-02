@@ -16,8 +16,8 @@
 
 *** Algebraic multiplicity
 	The determinant of $\begin{pmatrix}2&-2\\2&-2\end{pmatrix}$ is
-	\[ -2(4-\lambda)-2(-\lambda) = 4(\lambda -1) \]
-	So the algebraic multiplicity is $\boxed{1}$?
+	\[ -\lambda(4-\lambda) - (-4) = \lambda ^2 -4\lambda + 4 = (\lambda -2)^2 \]
+	So the algebraic multiplicity is $\boxed{2}$
 
 ** $\begin{pmatrix}1&1&2\\0&1&-1\\0&0&3\end{pmatrix}$
 
