@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8186)}}    % original
-%\rhead{\textrmlf{Compiled }\#8186\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8186\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8188)}}    % original
+%\rhead{\textrmlf{Compiled }\#8188\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8188\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -185,6 +185,7 @@
 \hypertarget{motivation}{%
 \section{motivation}\label{motivation}}
 
-The simplest non-trivial invariant subspaces are one dimensional.
+The simplest non-trivial invariant subspaces are one-dimensional. Let
+\(U\) be a one-dimensional
 
 \end{document}
