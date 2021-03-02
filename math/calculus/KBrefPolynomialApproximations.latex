@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8258)}}    % original
-%\rhead{\textrmlf{Compiled }\#8258\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8258\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8259)}}    % original
+%\rhead{\textrmlf{Compiled }\#8259\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8259\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,6 +182,10 @@ Function & Series & Sum & Derived From \\ \addlinespace
 \(\sin x\) & \(x-\frac{x^3}{3!} + \frac{x^5}{5!} + \cdots\) &
 \(\sum\limits_{k=0} \frac{(-1)^k x^{2k+1}}{(2k+1)!}\) &
 raw \\ \addlinespace
+\(\cos x\) & \(1-\frac{x^2}{2!} + \frac{x^4}{4!} + \cdots\) &
+\(\sum\limits_{k=0} \frac{(-1)^k x^{2k}}{(2k)!}\) & raw \\ \addlinespace
+\(e^x\) & \(1-\frac{x^2}{2!} + \frac{x^4}{4!} + \cdots\) &
+\(\sum\limits_{k=0} \frac{(-1)^k x^{2k}}{(2k)!}\) & raw \\ \addlinespace
 \bottomrule
 \end{longtable}
 
