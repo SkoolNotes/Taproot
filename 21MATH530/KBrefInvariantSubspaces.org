@@ -6,5 +6,5 @@
   Suppose $T \in \mathcal L(V)$. A subpsace $U$ of $V$ is called /invariant/ under $T$ if $u \in U$ implies $Tu \in U$.
   #+end_quote
 ** intuit
-   A subspace $U$ is called invariant on $T$ if $T\big|_U$ is an operator on $U$.
+   A subspace $U$ is called invariant on $T$ if $T\big|_U$ is closed in $U$. (BUT it is not nessecarily an operator!)
    Aka the map is closed under the subspace.
