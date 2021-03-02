@@ -131,9 +131,9 @@ Quotient of Space }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8213)}}    % original
-%\rhead{\textrmlf{Compiled }\#8213\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8213\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8214)}}    % original
+%\rhead{\textrmlf{Compiled }\#8214\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8214\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -189,6 +189,13 @@ Quotient of Space }
 \begin{quote}
 Suppose \(T \in \mathcal L(V)\) and U is a subspace of \(V\) invariant
 under \(T\).
+
+\begin{itemize}
+\tightlist
+\item
+  The \emph{restriction operator} \(T \big| _U \in \mathcal L(U)\) is
+  defined by \[ T \big| _U (u) = Tu \]
+\end{itemize}
 \end{quote}
 
 \end{document}

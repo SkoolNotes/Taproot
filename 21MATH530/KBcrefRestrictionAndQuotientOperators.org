@@ -5,4 +5,6 @@
 * $T\big|_U$ and $T/U$                                                  :def:
   #+begin_quote
   Suppose $T \in \mathcal L(V)$ and U is a subspace of $V$ invariant under $T$.
+  - The /restriction operator/ $T \big| _U \in \mathcal L(U)$ is defined by
+	\[ T \big| _U (u) = Tu \]
   #+end_quote

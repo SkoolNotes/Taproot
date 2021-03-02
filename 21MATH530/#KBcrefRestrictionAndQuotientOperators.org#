@@ -5,5 +5,9 @@
 * $T\big|_U$ and $T/U$                                                  :def:
   #+begin_quote
   Suppose $T \in \mathcal L(V)$ and U is a subspace of $V$ invariant under $T$.
-  - The /restriction operator/ $T \big| _U \in \mathcal
+  - The /restriction operator/ $T \big| _U \in \mathcal L(U)$ is defined by
+	\[ T \big| _U (u) = Tu \]
+	for $u \in U$
+  - The /quotient operator/ $T/U \in \mathcal L(V/U)$ is defined by
+	\[ (T/U)(v+U
   #+end_quote
