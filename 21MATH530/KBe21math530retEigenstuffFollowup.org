@@ -22,7 +22,7 @@
 ** $\begin{pmatrix}1&1&2\\0&1&-1\\0&0&3\end{pmatrix}$
 
 *** Geometric
-	Null space of 1 ($(x, 0, 0)$) has dim 1.
+	Null space of 1 ($(x, 0, 0)$) has dim 1. Null space of 3 ($\left(x, \frac{-2x}{3}, \frac{4x}{3}\right)$) has dim 1 as well.
 
 *** Algebraic
 	The determinant simplifies to one factored term:
