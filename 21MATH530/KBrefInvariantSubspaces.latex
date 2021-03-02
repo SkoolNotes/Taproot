@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8169)}}    % original
-%\rhead{\textrmlf{Compiled }\#8169\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8169\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8170)}}    % original
+%\rhead{\textrmlf{Compiled }\#8170\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8170\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -177,5 +177,12 @@
 \hypertarget{axler-3.a}{%
 \section{\texorpdfstring{Axler 3.A
 {\textsc{source}}}{Axler 3.A source}}\label{axler-3.a}}
+
+\hypertarget{invariant-subspace}{%
+\section{\texorpdfstring{invariant subspace
+{\textsc{def}}}{invariant subspace def}}\label{invariant-subspace}}
+
+\begin{quote}
+\end{quote}
 
 \end{document}
