@@ -117,7 +117,7 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thelesson}{ Eigenvalues and Eigenvectors }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8180)}}    % original
-%\rhead{\textrmlf{Compiled }\#8180\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8180\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8182)}}    % original
+%\rhead{\textrmlf{Compiled }\#8182\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8182\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -174,6 +174,12 @@
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
 
+\hypertarget{sources}{%
+\section{\texorpdfstring{sources
+{\textsc{source}}}{sources source}}\label{sources}}
 
+\hypertarget{linear-algebra-done-right-axler-5.a}{%
+\subsection{linear algebra done right (Axler
+5.A)}\label{linear-algebra-done-right-axler-5.a}}
 
 \end{document}
