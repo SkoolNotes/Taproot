@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8264)}}    % original
-%\rhead{\textrmlf{Compiled }\#8264\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8264\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8265)}}    % original
+%\rhead{\textrmlf{Compiled }\#8265\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8265\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -186,7 +186,8 @@ raw \\ \addlinespace
 \(\sum\limits_{k=0} \frac{(-1)^k x^{2k}}{(2k)!}\) & raw \\ \addlinespace
 \(e^x\) & \(1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \cdots\) &
 \(\sum\limits_{k=0} \frac{x^k }{k!}\) & raw \\ \addlinespace
-\(\frac{1}{1-x}\) & \(1+x+x^2+x^3+\cdots\) & & \\ \addlinespace
+\(\frac{1}{1-x}\) & \(1+x+x^2+x^3+\cdots\) & \$∑
+\limits\textsubscript{k=0} x\textsuperscript{k} & \\ \addlinespace
 \bottomrule
 \end{longtable}
 
