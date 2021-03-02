@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8200)}}    % original
-%\rhead{\textrmlf{Compiled }\#8200\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8200\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8202)}}    % original
+%\rhead{\textrmlf{Compiled }\#8202\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8202\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -254,7 +254,11 @@ eigenvectors.
 Because \(Tv = \lambda v\) iff \(\left(T-\lambda I\right)v = 0\)
 (algebra), a vector \(v \in V\) with \(v \neq 0\) is an eigenvector of
 \(T\) corresponding to \(\lambda\) iff
-\(v \in \text{null}\left(T-\lambda I)\right)\)
+\(v \in \text{null}\left(T-\lambda I\right)\)
 \end{quote}
+
+\hypertarget{axler5.10-linearly-independent-eigenvectors}{%
+\subsubsection{axler5.10 linearly independent
+eigenvectors}\label{axler5.10-linearly-independent-eigenvectors}}
 
 \end{document}
