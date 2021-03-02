@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8239)}}    % original
-%\rhead{\textrmlf{Compiled }\#8239\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8239\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8240)}}    % original
+%\rhead{\textrmlf{Compiled }\#8240\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8240\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -214,5 +214,8 @@ multiplicity is \(\boxed{1}\)?
 \subsubsection{Geometric}\label{geometric}}
 
 Null space \((x, 0, 0)\) has dim 1.
+
+\hypertarget{algebraic}{%
+\subsubsection{Algebraic}\label{algebraic}}
 
 \end{document}
