@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8189)}}    % original
-%\rhead{\textrmlf{Compiled }\#8189\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8189\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8190)}}    % original
+%\rhead{\textrmlf{Compiled }\#8190\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8190\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -187,6 +187,8 @@
 
 The simplest non-trivial invariant subspaces are one-dimensional. Let
 \(U\) be a one-dimensional invariant subspace under \(T\), then
-\[ $Tu \in U : u \in U \] Because \(U = \text{span} (u)\)
+\[ Tu \in U : u \in U \] Because \(U = \text{span} (u)\), this implies
+\[ Tu = \lambda u \] which defines an eigenvalue (\(\lambda\)) and
+eigenvector(\(u\)) pair.
 
 \end{document}
