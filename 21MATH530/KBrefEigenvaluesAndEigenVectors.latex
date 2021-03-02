@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8198)}}    % original
-%\rhead{\textrmlf{Compiled }\#8198\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8198\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8199)}}    % original
+%\rhead{\textrmlf{Compiled }\#8199\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8199\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -246,5 +246,8 @@ eigenvectors.
 
 \hypertarget{results-1}{%
 \subsection{results}\label{results-1}}
+
+\hypertarget{equivalent-condition}{%
+\subsubsection{equivalent condition}\label{equivalent-condition}}
 
 \end{document}
