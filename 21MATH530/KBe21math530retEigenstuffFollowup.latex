@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8237)}}    % original
-%\rhead{\textrmlf{Compiled }\#8237\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8237\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8239)}}    % original
+%\rhead{\textrmlf{Compiled }\#8239\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8239\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -209,5 +209,10 @@ multiplicity is \(\boxed{1}\)?
 
 \hypertarget{beginpmatrix11201-1003endpmatrix}{%
 \subsection{\texorpdfstring{\(\begin{pmatrix}1&1&2\\0&1&-1\\0&0&3\end{pmatrix}\)}{\textbackslash begin\{pmatrix\}1\&1\&2\textbackslash\textbackslash0\&1\&-1\textbackslash\textbackslash0\&0\&3\textbackslash end\{pmatrix\}}}\label{beginpmatrix11201-1003endpmatrix}}
+
+\hypertarget{geometric}{%
+\subsubsection{Geometric}\label{geometric}}
+
+Null space \((x, 0, 0)\) has dim 1.
 
 \end{document}
