@@ -131,9 +131,9 @@ Quotient of Space }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8217)}}    % original
-%\rhead{\textrmlf{Compiled }\#8217\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8217\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8218)}}    % original
+%\rhead{\textrmlf{Compiled }\#8218\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8218\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -207,5 +207,8 @@ under \(T\).
 By using these two operators, we can study a map \(T\) on a big space
 \(V\) by looking at what it does to vectors in \(U\) and not in \(U\),
 with \(T \big|_U\) and \(T/U\) respectively.
+
+However, Axler gives an example of how this is not always enough info
+(see Axler5.15).
 
 \end{document}
