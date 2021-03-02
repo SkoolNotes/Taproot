@@ -23,3 +23,10 @@
 ***** $T - \lambda I$ is not invertible
 
 ***** we don't want $T - \lambda I$ to be invertible because we want it to be zero  (rearranging the prev equation) :intuit:
+
+* eigenvector                                                           :def:
+  #+begin_quote
+  Suppose $T$ \in \mathcal L(V)$ and $\lambda \in \mathbb F$ is an eigenvalue of $T$. A vector $v \in V$ is called an /eigenvector/ of $T$ corresponding to $\lambda$ if $v \neq 0$ and $Tv = \lambda v$.
+  #+end_quote
+
+** results
