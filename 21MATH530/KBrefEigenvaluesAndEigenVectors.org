@@ -44,3 +44,6 @@
 	#+begin_quote
 	Let $T \in \mathcal L(V). Suppose $\lambda_1, \ldots, \lambda_m$ are distinct eigenvalues of $T$ and $v_1, \ldots, v_m$ are corresponding eigenvectors. Then $v_1,ldots, v_m$ is linearly independent.
 	#+end_quote
+
+**** intuit                                                          :intuit:
+	 If some list of eigenvalues is distinct, then the corresponding eigenvectors will be linearly independent because if any subset linear combination could add to another, then something would be funny about dimension?

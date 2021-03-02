@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8203)}}    % original
-%\rhead{\textrmlf{Compiled }\#8203\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8203\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8205)}}    % original
+%\rhead{\textrmlf{Compiled }\#8205\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8205\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -266,5 +266,15 @@ Let \$T ∈ \mathcal L(V). Suppose \(\lambda_1, \ldots, \lambda_m\) are
 distinct eigenvalues of \(T\) and \(v_1, \ldots, v_m\) are corresponding
 eigenvectors. Then \(v_1,ldots, v_m\) is linearly independent.
 \end{quote}
+
+\begin{enumerate}
+\item
+  intuit {\textsc{intuit}}
+
+  If some list of eigenvalues is distinct, then the corresponding
+  eigenvectors will be linearly independent because if any subset linear
+  combination could add to another, then something would be funny about
+  dimension?
+\end{enumerate}
 
 \end{document}
