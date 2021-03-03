@@ -84,8 +84,12 @@ stain on the road than a frog. Rahel wondered if Miss Mitten
 had been squashed into a Miss Mitten-shaped stain by the milk 
 truck that killed her."
 
-
-
+"Rahel liked all this. Holding the handbag. Everyone pissing 
+in front of everyone. Like friends. She knew nothing then, of 
+how precious a feeling this was. Like Jriends. They would never 
+be together like this again. Ammu, Baby Kochamma and she. 
+When Baby Kochamma finished, Rahel looked at her watch. 
+‘So long you took, Baby Kochamma,’ she said. ‘It’s ten to two.’"
 
 
 

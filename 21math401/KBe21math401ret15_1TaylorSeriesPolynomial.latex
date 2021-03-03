@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8327)}}    % original
-%\rhead{\textrmlf{Compiled }\#8327\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8327\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8328)}}    % original
+%\rhead{\textrmlf{Compiled }\#8328\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8328\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -251,5 +251,16 @@ ln (1+x)\$}{TODO \$ y = ln (1+x)\$}}\label{y-ln-1x}}
           &= {k \choose 0} + {k \choose 1}x &+& {k \choose 2}x^2 &+& {k \choose 3}x^3 &+& \cdots\\
           &= \sum_{i=0} {k \choose i} x^i
     \end{aligned}\]
+
+\hypertarget{find-sum-of-series-by-recognizing-taylor-series-approximations-of-some-functions}{%
+\section{find sum of series by recognizing Taylor Series approximations
+of some
+functions}\label{find-sum-of-series-by-recognizing-taylor-series-approximations-of-some-functions}}
+
+\hypertarget{frac92-frac273-frac814}{%
+\subsection{\texorpdfstring{\(3 + \frac{9}{2!} + \frac{27}{3!} + \frac{81}{4!}\)}{3 + \textbackslash frac\{9\}\{2!\} + \textbackslash frac\{27\}\{3!\} + \textbackslash frac\{81\}\{4!\}}}\label{frac92-frac273-frac814}}
+
+\textbackslash{[}\textbackslash begin\{aligned\} 3 + \frac{9}{2!} +
+\frac{27}{3!} + \frac{81}{4!}
 
 \end{document}
