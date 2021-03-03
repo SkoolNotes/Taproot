@@ -16,3 +16,10 @@ The Quantum of US Currency => $0.01
 
 The radiation from hot, solid materials looks samey (bright yellow) unlike every gas, however, had a spectral emission (think - neon lights.)
 
+But!
+
+![[Pasted image 20210303111558.png]]
+
+The spectrum did depend on temperature
+
+
