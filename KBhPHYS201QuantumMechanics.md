@@ -30,4 +30,4 @@ Max Plank's Model 1 in this manner matched well with observations at long wavele
 
 So, he made it better.
 
-Max Plank's Model 2 is just Model 1, but an additional assumption that when Energy Transfers from e^- to EMW, $\delta E$ must be  
+Max Plank's Model 2 is just Model 1, but an additional assumption that when Energy Transfers from e^- to EMWave, $\delta E$ must be some constant * frequency of light. 
