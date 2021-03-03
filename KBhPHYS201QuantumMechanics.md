@@ -6,4 +6,9 @@ course: PHYS201
 ---
 
 # Quantum Mechanics
-**What is quantum mechanic
+**What is quantum mechanics?**
+Quantum => in small/discrete steps
+
+The Quantum of US Currency => $0.01
+
+
