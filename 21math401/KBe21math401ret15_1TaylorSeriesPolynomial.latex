@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8334)}}    % original
-%\rhead{\textrmlf{Compiled }\#8334\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8334\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8335)}}    % original
+%\rhead{\textrmlf{Compiled }\#8335\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8335\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -264,6 +264,11 @@ functions}\label{find-sum-of-series-by-recognizing-taylor-series-approximations-
    3 &+& \frac{9}{2!} &+& \frac{27}{3!} &+& \frac{81}{4!} = e^3 - 1
    \end{aligned}\]
 
-**
+\hypertarget{ln-2-fracln-2-22-fracln-3-23-cdots}{%
+\subsection{\texorpdfstring{\(1-\ln 2 + \frac{\ln ^2 2}{2!} + \frac{\ln ^3 2}{3!} + \cdots\)}{1-\textbackslash ln 2 + \textbackslash frac\{\textbackslash ln \^{}2 2\}\{2!\} + \textbackslash frac\{\textbackslash ln \^{}3 2\}\{3!\} + \textbackslash cdots}}\label{ln-2-fracln-2-22-fracln-3-23-cdots}}
+
+\[\begin{aligned}
+      3 &+& \frac{9}{2!} &+& \frac{27}{3!} &+& \frac{81}{4!} = e^3 - 1
+    \end{aligned}\]
 
 \end{document}
