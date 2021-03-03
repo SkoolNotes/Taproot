@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8404)}}    % original
-%\rhead{\textrmlf{Compiled }\#8404\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8404\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8405)}}    % original
+%\rhead{\textrmlf{Compiled }\#8405\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8405\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -216,6 +216,11 @@ Max Plank's Model 2 is just Model 1, but an additional assumption that
 when Energy Transfers from e\^{}- to EMWave, \(\delta E\) must be some
 constant * frequency of light.
 
-So, to synthesize high frequencies
+So, to synthesize high frequencies, this cop out had the effect of
+supressing the infinite growth as \(\delta E\) would grow bigger and
+bigger.
+
+Which is like\ldots{} Kind of a cop out. But it did fit medium
+frequencies better.
 
 \end{document}

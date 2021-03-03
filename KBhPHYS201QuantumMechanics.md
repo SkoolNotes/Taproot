@@ -32,4 +32,7 @@ So, he made it better.
 
 Max Plank's Model 2 is just Model 1, but an additional assumption that when Energy Transfers from e^- to EMWave, $\delta E$ must be some constant * frequency of light. 
 
-So, to synthesize high frequencies
+So, to synthesize high frequencies, this cop out had the effect of supressing the infinite growth as $\delta E$ would grow bigger and bigger.
+
+Which is like... Kind of a cop out. But it did fit medium frequencies better.
+
