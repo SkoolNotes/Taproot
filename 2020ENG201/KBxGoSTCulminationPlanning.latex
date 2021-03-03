@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8347)}}    % original
-%\rhead{\textrmlf{Compiled }\#8347\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8347\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8348)}}    % original
+%\rhead{\textrmlf{Compiled }\#8348\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8348\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -225,9 +225,13 @@ format you choose for the assignment:
 
 close reading on wrist watch? model wrist watch in blender?
 
-apearence: cheap plastic, ten to two. under grass buried in the ground.
+\hypertarget{apearence}{%
+\subsection{apearence:}\label{apearence}}
 
-qoute bin:
+cheap plastic, ten to two. under grass buried in the ground.
+
+\hypertarget{qoute-bin}{%
+\subsection{qoute bin:}\label{qoute-bin}}
 
 ``The Waiting filled Rahel until she was ready to burst. She looked at
 her watch. It was ten to two. She thought of Julie Andrews and
@@ -298,8 +302,11 @@ Nobody saw them.
 
 Bats, of course, are blind"
 
-analysis:
+\hypertarget{analysis}{%
+\subsection{analysis:}\label{analysis}}
 
-about frozen
+about frozen time?
+
+twins are stuck in time?
 
 \end{document}

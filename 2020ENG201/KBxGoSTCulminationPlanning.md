@@ -61,10 +61,11 @@ close reading on wrist watch? model wrist watch in blender?
 
 
 
-apearence: cheap plastic, ten to two. under grass buried in the ground.
+## apearence:
+cheap plastic, ten to two. under grass buried in the ground.
 
 
-qoute bin: 
+## qoute bin: 
 
 "The Waiting filled Rahel until she was ready to burst. She 
 looked at her watch. It was ten to two. She thought of Julie 
@@ -147,12 +148,12 @@ Bats, of course, are blind"
 
 
 
-analysis:
+## analysis:
 
 
-about frozen
+about frozen time? 
 
-
+twins are stuck in time?
 
 
 
