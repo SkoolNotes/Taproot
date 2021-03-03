@@ -71,7 +71,7 @@
 ** $\lim\limits_{x\to 0} \frac{\sin x - x + \frac{1}{6} x^3}{x^5}$
    \[\begin{aligned}
 	\lim\limits_{x\to 0} \frac{\sin x - x + \frac{1}{6} x^3}{x^5}\\
-	\lim\limits_{x\to 0} \frac{\sum\limits_{k=0} \frac{(-1)^k x^{2k+1}}{(2k+1)!} - x + \frac{1}{6} x^3}{x^5}\\
+	\lim\limits_{x\to 0} \frac{x-\f - x + \frac{1}{6} x^3}{x^5}\\
    \end{aligned}\]
 
 ** TODO $\lim\limits_{x\to 0}\frac{x-\tan^- x}{x^3}$
