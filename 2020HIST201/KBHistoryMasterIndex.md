@@ -128,6 +128,7 @@ source: #index
 	* [[KBhHIST201WWII]]
 * From WWII to Cold War
 	* [[KBhHIST201ColdWar]] 
+	* [[KBhHIST201ColdWarEssayPlanning]]
 * Self Evals [[KBxHistSelfEval2020]]
 
 ## Meta References
