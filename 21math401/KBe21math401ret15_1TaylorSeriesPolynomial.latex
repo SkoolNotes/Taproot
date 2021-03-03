@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8364)}}    % original
-%\rhead{\textrmlf{Compiled }\#8364\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8364\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8366)}}    % original
+%\rhead{\textrmlf{Compiled }\#8366\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8366\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -287,14 +287,14 @@ approx}\label{evaluate-limits-using-taylor-series-approx}}
 \hypertarget{limlimits_xto-0-fracsin-x---x-frac16-x3x5}{%
 \subsection{\texorpdfstring{\(\lim\limits_{x\to 0} \frac{\sin x - x + \frac{1}{6} x^3}{x^5}\)}{\textbackslash lim\textbackslash limits\_\{x\textbackslash to 0\} \textbackslash frac\{\textbackslash sin x - x + \textbackslash frac\{1\}\{6\} x\^{}3\}\{x\^{}5\}}}\label{limlimits_xto-0-fracsin-x---x-frac16-x3x5}}
 
-\[\begin{aligned}
+\[\begin{flalign}
     \lim\limits_{x\to 0} \frac{\sin x - x + \frac{1}{6} x^3}{x^5}\\
     &=& \lim\limits_{x\to 0} \frac{\cancel x-\frac{x^3}{6}+\frac{x^5}{5!} + \cdots \cancel{- x} + \frac{x^3}{6}}{x^5}\\
     &=& \lim\limits_{x\to 0} \frac{\cancel{-\frac{x^3}{6}+}\frac{x^5}{5!} + \cdots \cancel{+ \frac{x^3}{6}}}{x^5}\\
     &=& \lim\limits_{x\to 0} \frac{\cancel{\frac{x^5}{5!}} + \cdots}{x^5}\\
     &=& \lim\limits_{x\to 0} \frac{x^7}{x^5 7!} + \frac{x^9}{x^5 9!} \cdots\\
     &=& 0
-   \end{aligned}\]
+   \end{flalign}\]
 
 \hypertarget{limlimits_xto-0fracx-tan--xx3}{%
 \subsection{\texorpdfstring{{TODO}
