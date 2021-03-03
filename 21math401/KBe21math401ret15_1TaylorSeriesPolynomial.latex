@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8360)}}    % original
-%\rhead{\textrmlf{Compiled }\#8360\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8360\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8361)}}    % original
+%\rhead{\textrmlf{Compiled }\#8361\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8361\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -289,7 +289,7 @@ approx}\label{evaluate-limits-using-taylor-series-approx}}
 
 \[\begin{aligned}
     \lim\limits_{x\to 0} \frac{\sin x - x + \frac{1}{6} x^3}{x^5}\\
-    \lim\limits_{x\to 0} \frac{\sum\limits_{k=0} \frac{(-1)^k x^{2k+1}}{(2k+1)!} - x + \frac{1}{6} x^3}{x^5}\\
+    \lim\limits_{x\to 0} \frac{\cancel x-\frac{x^3}{3!}+\frac{x^5}{5!} + \cdots \cancel{- x} + \frac{1}{6} x^3}{x^5}\\
    \end{aligned}\]
 
 \hypertarget{limlimits_xto-0fracx-tan--xx3}{%
