@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8339)}}    % original
-%\rhead{\textrmlf{Compiled }\#8339\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8339\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8340)}}    % original
+%\rhead{\textrmlf{Compiled }\#8340\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8340\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -275,7 +275,8 @@ functions}\label{find-sum-of-series-by-recognizing-taylor-series-approximations-
 \subsection{\texorpdfstring{\(\sum_{k=0}^\infty \frac{(-1)^n \pi^{2n+1}}{4^{2n+1}(2n+1)!}\)}{\textbackslash sum\_\{k=0\}\^{}\textbackslash infty \textbackslash frac\{(-1)\^{}n \textbackslash pi\^{}\{2n+1\}\}\{4\^{}\{2n+1\}(2n+1)!\}}}\label{sum_k0infty-frac-1n-pi2n142n12n1}}
 
 \[\begin{aligned}
-\sum_{k=0}^\infty \frac{(-1)^n \pi^{2n+1}}{4^{2n+1}(2n+1)!}
+\sum_{k=0}^\infty \frac{(-1)^n \pi^{2n+1}}{4^{2n+1}(2n+1)!} =
+\sum_{k=0}^\infty \frac{(-1)^n \frac{\pi}{4}^{2n+1}}{(2n+1)!} = \sin(\frac{\pi}{4})
 \end{aligned}\]
 
 \end{document}
