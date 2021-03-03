@@ -9,7 +9,7 @@ source: KBHistoryMasterIndex
 ## General Information
 | Due Date | Topic | Important Documents |
 | :-- | :-- | :-- |
-| DUE DATE | TOPIC | JSTOR |
+| DUE DATE | | JSTOR, Palmer 23 |
 
 ## Prompt
 THE PROMPT
