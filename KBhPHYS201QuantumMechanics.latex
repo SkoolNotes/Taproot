@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8399)}}    % original
-%\rhead{\textrmlf{Compiled }\#8399\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8399\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8400)}}    % original
+%\rhead{\textrmlf{Compiled }\#8400\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8400\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -205,7 +205,9 @@ from rays as basically all absorbed and not bounced back.
 
 {[}{[}Pasted image 20210303111810.png{]}{]}
 
-Max's Plank's Model 1 matched well with long wavelengths (red hot)
-=\textgreater{} that
+Max's Plank's Model 1 in this manner matched well with observations at
+long wavelengths (red hot) =\textgreater{} that
+
+It predicted infinitely brightness as lambda =\textgreater{} 0
 
 \end{document}
