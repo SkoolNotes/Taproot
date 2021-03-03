@@ -43,5 +43,6 @@
           &= k &+& k(k-1)x &+& \frac{k(k-1)(k-2)}{2!}x^2 &+& \frac{k(k-1)(k-2)(k-3)}{3!}x^3 &+& \cdots\\
           &= k &+& \frac{k!}{(k-1)!}x &+& \frac{\frac{k!}{(k-2)!}}{2!}x^2 &+& \frac{\frac{k!}{(k-3)!}}{3!}x^3 &+& \cdots\\
           &= k &+& \frac{k!x}{(k-1)!} &+& \frac{k!}{(k-2)!2!}x^2 &+& \frac{k!}{(k-3)!3!}x^3 &+& \cdots\\
-		  &= {k \choose 1}x &+& {k \choose 2}x^2 &+& {k \choose 3}x^3 &+& \cdots
+		  &= {k \choose 1}x &+& {k \choose 2}x^2 &+& {k \choose 3}x^3 &+& \cdots\\
+		  &= \sum_{i=1} {k \choose 1} x
 	\end{aligned}\]
