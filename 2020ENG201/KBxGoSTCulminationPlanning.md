@@ -168,7 +168,7 @@ rahel talks about being able to change the time whenever she wants, roy does jus
 
 time is representation
 
-
+time, like frog, is dead? does not move, according to watch.
 
 
 
