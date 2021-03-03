@@ -116,7 +116,7 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS201 }
+\newcommand{\thecourse}{ MATH201 }
 \newcommand{\thelesson}{ Intergration and Anti-Derivation }
 
 \title{\textbf{\thecourse}\thelesson}
@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8123)}}    % original
-%\rhead{\textrmlf{Compiled }\#8123\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8123\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8288)}}    % original
+%\rhead{\textrmlf{Compiled }\#8288\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8288\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -180,9 +180,7 @@
 
 Antiderivatives table
 
-\begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}@{}}
+\begin{longtable}[]{@{}ll@{}}
 \toprule
 Function & Antidervative \\ \addlinespace
 \midrule
@@ -199,15 +197,17 @@ Function & Antidervative \\ \addlinespace
 \(\frac{-1}{\sqrt{k^2-(ax)^2}}\) &
 \(cos^-1(\frac{ax}{k})\) \\ \addlinespace
 \(ln(x)\) & \(xln(x)-x\) \\ \addlinespace
-\(\int f(x)g'(x) dx\) & \(f(x)g(x)-\int f'(x)g(x) dx\) With this one,
-try to make f(x) the simpler derivative, and g(x) the simpler
-antiderivative \\ \addlinespace
+\(\int f(x)g'(x) dx\) & \(f(x)g(x)-\int f'(x)g(x) dx\) \\ \addlinespace
 Arc Length of function \(f(x)\) &
 \(\sqrt{1+f'(x)^2} dx\) \\ \addlinespace
 Arc length of polar function \(x(t), y(t)\) &
 \(\sqrt{x'(t)^2 + y'(t)^2}(dt)\) \\ \addlinespace
+\(r(\theta)\) & \(\int_a^B (r(\theta)^2)d\theta\) \\ \addlinespace
 \bottomrule
 \end{longtable}
+
+With the reverse product rule, try to make f(x) the simpler derivative,
+and g(x) the simpler antiderivative
 
 \hypertarget{useful-thing}{%
 \subsection{Useful thing}\label{useful-thing}}

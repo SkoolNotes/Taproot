@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8057)}}    % original
-%\rhead{\textrmlf{Compiled }\#8057\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8057\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8288)}}    % original
+%\rhead{\textrmlf{Compiled }\#8288\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8288\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -198,6 +198,8 @@
   {[}{[}KBhMATH401Intergrals{]}{]}
 \item
   {[}{[}KBhMATH401TaylorSeriesApprox{]}{]}
+\item
+  {[}{[}KBhMATH401TalorSeriesExpansions{]}{]}
 \end{itemize}
 
 \end{document}

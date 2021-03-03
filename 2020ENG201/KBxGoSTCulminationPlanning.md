@@ -1,0 +1,87 @@
+---
+title:   GoST Culmination Assignment Planning
+context: ENG201
+author:  Huxley
+source:  #index
+---
+
+#flo #ret #disorganized #incomplete
+
+---
+
+
+
+```
+Instructions: 
+
+For this assignment, you will be producing a project that shows your understanding and close reading of a thematic aspect of Roy’s _The God of Small Things_. As always, close reading can involve tracking a repetition of some type in the text, including but not limited to repetitions in diction, structure, syntax, or characters’ behaviors. You might also think about tracking a change of some kind in the novel. This project is focused on your close reading skills, but you will likely be applying them in a way that is different from a traditional analytical essay. For this project, “Writer’s Voice” will be assessed and will be loosely defined as either a) creative writing or b) the way you use visual elements to connect to your audience.
+
+ Using any medium (suggestions below), create a piece of art or an artistic representation that captures one of the central themes of the novel. You are being given two weeks to complete this project, so the end result should reflect this extended period of time. This is not a project that you can pull off the night before it is due and receive an exemplary assessment. Plan accordingly. Some ideas:
+
+-   Make a TV news story on an aspect of the book with which you also hand in a script.
+-   Create a copy of the Ayemenem local newspaper for a) a notable day from the story or b) a mundane day-in-the-life of Ayemenem’s inhabitants.
+-   Prepare a funeral for a character who dies that (perhaps) doubles as a social justice call to action. These funeral logistics should include a written eulogy component.
+-   Create a video in which you act out/interpret a scene in _The God of Small Things_ (this option lends itself to collaboration with peers).
+-   Make a day-in-the-life of Rahel film.
+-   Create a Spotify playlist as a soundtrack for the text and include explanations (liner notes) for songs that incorporate close reading.
+-   Create a visual art option with written component that includes close reading.
+-   Write a pastiche of _The God of Small Things_ and include written explanation/analysis.
+-   Write a long poem out of fragments of the book (this is a kind of pastiche)--describe how you used pieces of the book to illustrate the important themes and how those influence the novel.
+-   You may also suggest your own creative project
+-   You may also write a traditional close reading or literary essay.
+
+With the creative options above, you must include an expository writing piece of two pages (double-spaced) that includes close readings of textual evidence from the book. You may think of this exposition in two pieces: 1) deeper engagement with textual evidence and a thematic scope from _The God of Small Things_, and 2) connecting your creative work to this thematic scope. In short, show us how your creative work engages with a theme in the novel_._ How does your creative work derive from and represent your own (close) reading of the novel? While you are allowed to collaborate on any of the above projects (with prior approval from your teacher), each student will be required to turn in their own unique reflection.
+
+**Timeline:**
+
+By 2/11: Receive project prompt
+
+February Break: No homework, but you are welcomed to start brainstorming project ideas
+
+Week of 2/22: In-class work periods for project
+
+Week of 3/1: Project due
+
+**Goals**:
+
+It is your job to make sure you demonstrate the following template items, no matter the
+
+format you choose for the assignment:
+
+1.  Understanding Literature
+2.  Close Reading
+3.  Structure & Mechanics
+4.  Writer’s Voice
+5.  Responsibility
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

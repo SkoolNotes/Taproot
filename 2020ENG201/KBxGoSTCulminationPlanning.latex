@@ -1,0 +1,226 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ENG201 }
+\newcommand{\thelesson}{ GoST Culmination Assignment Planning }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8288)}}    % original
+%\rhead{\textrmlf{Compiled }\#8288\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8288\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\#flo \#ret \#disorganized \#incomplete
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{verbatim}
+Instructions: 
+
+For this assignment, you will be producing a project that shows your understanding and close reading of a thematic aspect of Roy’s _The God of Small Things_. As always, close reading can involve tracking a repetition of some type in the text, including but not limited to repetitions in diction, structure, syntax, or characters’ behaviors. You might also think about tracking a change of some kind in the novel. This project is focused on your close reading skills, but you will likely be applying them in a way that is different from a traditional analytical essay. For this project, “Writer’s Voice” will be assessed and will be loosely defined as either a) creative writing or b) the way you use visual elements to connect to your audience.
+
+ Using any medium (suggestions below), create a piece of art or an artistic representation that captures one of the central themes of the novel. You are being given two weeks to complete this project, so the end result should reflect this extended period of time. This is not a project that you can pull off the night before it is due and receive an exemplary assessment. Plan accordingly. Some ideas:
+
+-   Make a TV news story on an aspect of the book with which you also hand in a script.
+-   Create a copy of the Ayemenem local newspaper for a) a notable day from the story or b) a mundane day-in-the-life of Ayemenem’s inhabitants.
+-   Prepare a funeral for a character who dies that (perhaps) doubles as a social justice call to action. These funeral logistics should include a written eulogy component.
+-   Create a video in which you act out/interpret a scene in _The God of Small Things_ (this option lends itself to collaboration with peers).
+-   Make a day-in-the-life of Rahel film.
+-   Create a Spotify playlist as a soundtrack for the text and include explanations (liner notes) for songs that incorporate close reading.
+-   Create a visual art option with written component that includes close reading.
+-   Write a pastiche of _The God of Small Things_ and include written explanation/analysis.
+-   Write a long poem out of fragments of the book (this is a kind of pastiche)--describe how you used pieces of the book to illustrate the important themes and how those influence the novel.
+-   You may also suggest your own creative project
+-   You may also write a traditional close reading or literary essay.
+
+With the creative options above, you must include an expository writing piece of two pages (double-spaced) that includes close readings of textual evidence from the book. You may think of this exposition in two pieces: 1) deeper engagement with textual evidence and a thematic scope from _The God of Small Things_, and 2) connecting your creative work to this thematic scope. In short, show us how your creative work engages with a theme in the novel_._ How does your creative work derive from and represent your own (close) reading of the novel? While you are allowed to collaborate on any of the above projects (with prior approval from your teacher), each student will be required to turn in their own unique reflection.
+
+**Timeline:**
+
+By 2/11: Receive project prompt
+
+February Break: No homework, but you are welcomed to start brainstorming project ideas
+
+Week of 2/22: In-class work periods for project
+
+Week of 3/1: Project due
+
+**Goals**:
+
+It is your job to make sure you demonstrate the following template items, no matter the
+
+format you choose for the assignment:
+
+1.  Understanding Literature
+2.  Close Reading
+3.  Structure & Mechanics
+4.  Writer’s Voice
+5.  Responsibility
+\end{verbatim}
+
+\end{document}

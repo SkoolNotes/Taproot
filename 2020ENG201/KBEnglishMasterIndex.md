@@ -76,8 +76,9 @@ source: #index
 
 - Huxley [[KBxInClassCloseReadingGOST1]]
 
+## MA2
 
-
+- Huxley [[KBxGoSTCulminationPlanning]]
 
 
 
