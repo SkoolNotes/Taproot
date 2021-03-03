@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8395)}}    % original
-%\rhead{\textrmlf{Compiled }\#8395\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8395\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8396)}}    % original
+%\rhead{\textrmlf{Compiled }\#8396\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8396\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -193,6 +193,11 @@ The radiation from hot, solid materials looks samey (bright yellow)
 unlike every gas, however, had a spectral emission (think - neon
 lights.)
 
-{[}{[}Pasted image 20210303111537.png{]}{]}
+But!
+
+{[}{[}Pasted image 20210303111558.png{]}{]}
+
+The light spectrum did depend on temperature, so what happened? Why is
+everything hot?
 
 \end{document}

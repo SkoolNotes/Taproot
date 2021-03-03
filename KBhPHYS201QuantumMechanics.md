@@ -20,6 +20,5 @@ But!
 
 ![[Pasted image 20210303111558.png]]
 
-The spectrum did depend on temperature
-
+The light spectrum did depend on temperature, so what happened? Why is everything hot?
 
