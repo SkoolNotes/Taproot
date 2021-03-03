@@ -171,8 +171,8 @@ time is representation
 time, like frog, is dead? does not move, according to watch.
 
 
-
-
+the book is frozen in time, in the sense that it doesnt progress
+centered around where the watch it left
 
 
 
