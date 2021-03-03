@@ -66,8 +66,12 @@ apearence: cheap plastic, ten to two.
 
 qoute bin: 
 
-
-
+"The Waiting filled Rahel until she was ready to burst. She 
+looked at her watch. It was ten to two. She thought of Julie 
+Andrews and Christopher Plummer kissing each other sideways 
+so that their noses didn’t collide. She wondered whether people 
+always kissed each other sideways. She tried to think of whom 
+to ask."
 
 
 
