@@ -73,7 +73,16 @@ so that their noses didn’t collide. She wondered whether people
 always kissed each other sideways. She tried to think of whom 
 to ask."
 
-
+"From the way Ammu held her head, Rahel could tell that 
+she was still angry. Rahel looked at her watch. Ten to two. Still 
+no train. She put her chin on the window sill. She could feel 
+the grey gristle of the felt that cushioned the window glass 
+pressing into her chinskin. She took off her sunglasses to get a 
+better look at the dead frog squashed on the road. It was so 
+dead and squashed so flat that it looked more like a frog-shaped 
+stain on the road than a frog. Rahel wondered if Miss Mitten 
+had been squashed into a Miss Mitten-shaped stain by the milk 
+truck that killed her."
 
 
 
