@@ -61,7 +61,7 @@ close reading on wrist watch? model wrist watch in blender?
 
 
 
-apearence: cheap plastic, ten to two. 
+apearence: cheap plastic, ten to two. under grass buried in the ground.
 
 
 qoute bin: 
