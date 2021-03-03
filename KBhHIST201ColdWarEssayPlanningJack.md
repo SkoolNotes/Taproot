@@ -9,7 +9,7 @@ source: KBHistoryMasterIndex
 ## General Information
 | Due Date | Topic | Important Documents |
 | :-- | :-- | :-- |
-| DUE DATE | TOPIC | DOCUMENTS, HERE |
+| DUE DATE | TOPIC | JSTOR |
 
 ## Prompt
 THE PROMPT
