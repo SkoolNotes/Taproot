@@ -26,6 +26,8 @@ Antiderivatives table
 | $r(\theta)$                               | $\int_a^B (r(\theta)^2)d\theta$  |
 
 Also, fun other things
+| Function.           | Other Function                                |
+| --- | ---|
 |$sin^2\theta$|$\frac{1}{2}(1-cos2\theta)$|
 
 With the reverse product rule, try to make f(x) the simpler derivative, and g(x) the simpler antiderivative
