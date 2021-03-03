@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8332)}}    % original
-%\rhead{\textrmlf{Compiled }\#8332\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8332\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8333)}}    % original
+%\rhead{\textrmlf{Compiled }\#8333\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8333\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -257,11 +257,11 @@ ln (1+x)\$}{TODO \$ y = ln (1+x)\$}}\label{y-ln-1x}}
 of some
 functions}\label{find-sum-of-series-by-recognizing-taylor-series-approximations-of-some-functions}}
 
-\hypertarget{frac92-frac273-frac814}{%
-\subsection{\texorpdfstring{\(3 + \frac{9}{2!} + \frac{27}{3!} + \frac{81}{4!}\)}{3 + \textbackslash frac\{9\}\{2!\} + \textbackslash frac\{27\}\{3!\} + \textbackslash frac\{81\}\{4!\}}}\label{frac92-frac273-frac814}}
+\hypertarget{frac92-frac273-frac814-cdots}{%
+\subsection{\texorpdfstring{\(3 + \frac{9}{2!} + \frac{27}{3!} + \frac{81}{4!} + \cdots\)}{3 + \textbackslash frac\{9\}\{2!\} + \textbackslash frac\{27\}\{3!\} + \textbackslash frac\{81\}\{4!\} + \textbackslash cdots}}\label{frac92-frac273-frac814-cdots}}
 
 \[\begin{aligned}
-   3 &+& \frac{9}{2!} &+& \frac{27}{3!} &+& \frac{81}{4!}\\
+   3 &+& \frac{9}{2!} &+& \frac{27}{3!} &+& \frac{81}{4!} = e^3 - 1
    \end{aligned}\]
 
 \end{document}
