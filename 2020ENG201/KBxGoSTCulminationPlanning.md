@@ -188,7 +188,9 @@ passage of time means nothing?
 
 
 
+two interpretations 
 
+time does not pass, and past stays with us.
 
 
 
