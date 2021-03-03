@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8390)}}    % original
-%\rhead{\textrmlf{Compiled }\#8390\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8390\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8391)}}    % original
+%\rhead{\textrmlf{Compiled }\#8391\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8391\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -182,5 +182,7 @@
 small/discrete steps
 
 The Quantum of US Currency =\textgreater{} \$0.01
+
+Two Troubling Ideas: the Speed of Light
 
 \end{document}
