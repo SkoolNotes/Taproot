@@ -26,5 +26,8 @@ The light spectrum did depend on temperature, so what happened? Why is everythin
 
 ![[Pasted image 20210303111810.png]]
 
-Max's Plank's Model 1 in this manner matched well with observations at long wavelengths (red hot). But, it predicted infinite brightness (it will just "keep bouncing") as wavelength => 0, which is wrong.
+Max Plank's Model 1 in this manner matched well with observations at long wavelengths (red hot). But, it predicted infinite brightness (it will just "keep bouncing") as wavelength => 0, which is wrong.
 
+So, he made it better.
+
+Max Plank's Model 2 is just Model 1, but an additional assumption that when Energy Transfers from e^- to EMW, $\delta E$ must be  
