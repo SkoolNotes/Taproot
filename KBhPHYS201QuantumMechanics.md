@@ -14,4 +14,5 @@ The Quantum of US Currency => $0.01
 ## Puzzle of the Blackbody Radiation
 ("black" => opaque): from solid materials, liquids
 
-The radiation from hot, solid materials looks samey. 
+The radiation from hot, solid materials looks samey (bright yellow) unlike every gas, however, had a spectral emission (think - neon lights.)
+
