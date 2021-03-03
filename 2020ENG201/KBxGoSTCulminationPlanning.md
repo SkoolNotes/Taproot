@@ -114,6 +114,35 @@ Ten to two it said."
 
 
 
+"The Q^ntas koala they took for their children. 
+
+And the pens and socks Police children with multi-coloured 
+toes 
+
+They burst the goose with a cigarette Bang. And buncd the 
+rubber scraps 
+
+Yooseless goose Too recognizable 
+
+The gasses one of them wore. The others laughed so he kept 
+them on for a while. The watch they all forgot It stayed behind 
+in the History House. In the back verandah A faulty record of 
+the time. Ten to two. 
+
+They left 
+
+Six princes, their pockets stuffed with toys 
+
+A pair of two-egg twins. 
+
+And the God of Loss. 
+
+He couldn’t walk. So they dragged him 
+
+Nobody saw them. 
+
+Bats, of course, are blind"
+
 
 
 
