@@ -106,12 +106,12 @@ html {
             <h2 id="y-1xk"><span class="math inline">\(y = (1+x)^k\)</span></h2>
             <p><span class="math display">\[\begin{aligned}
                P_n(x) &amp;= f(0) &amp;+&amp; \frac{d}{dx}f(0)x &amp;+&amp; \frac{\frac{d^2}{d^2x}f(0)}{2!}x^2 &amp;+&amp; \frac{\frac{d^3}{d^3x}f(0)}{3!}x^3 &amp;+&amp; \cdots\\
-                      &amp;= k(1)^k &amp;+&amp; k(k-1)(1)^{k-1}x &amp;+&amp; \frac{k(k-1)(k-2)(1)^{k-2}}{2!}x^2 &amp;+&amp; \frac{k(k-1)(k-2)(k-3)(1)^{k-3}}{3!}x^3 &amp;+&amp; \cdots\\
-                      &amp;= k &amp;+&amp; k(k-1)x &amp;+&amp; \frac{k(k-1)(k-2)}{2!}x^2 &amp;+&amp; \frac{k(k-1)(k-2)(k-3)}{3!}x^3 &amp;+&amp; \cdots\\
-                      &amp;= k &amp;+&amp; \frac{k!}{(k-1)!}x &amp;+&amp; \frac{\frac{k!}{(k-2)!}}{2!}x^2 &amp;+&amp; \frac{\frac{k!}{(k-3)!}}{3!}x^3 &amp;+&amp; \cdots\\
-                      &amp;= k &amp;+&amp; \frac{k!x}{(k-1)!} &amp;+&amp; \frac{k!}{(k-2)!2!}x^2 &amp;+&amp; \frac{k!}{(k-3)!3!}x^3 &amp;+&amp; \cdots\\
-                      &amp;= {k \choose 1}x &amp;+&amp; {k \choose 2}x^2 &amp;+&amp; {k \choose 3}x^3 &amp;+&amp; \cdots\\
-                      &amp;= \sum_{i=1} {k \choose 1} x
+                      &amp;= 1 + k(1)^k &amp;+&amp; k(k-1)(1)^{k-1}x &amp;+&amp; \frac{k(k-1)(k-2)(1)^{k-2}}{2!}x^2 &amp;+&amp; \frac{k(k-1)(k-2)(k-3)(1)^{k-3}}{3!}x^3 &amp;+&amp; \cdots\\
+                      &amp;= 1 + k &amp;+&amp; k(k-1)x &amp;+&amp; \frac{k(k-1)(k-2)}{2!}x^2 &amp;+&amp; \frac{k(k-1)(k-2)(k-3)}{3!}x^3 &amp;+&amp; \cdots\\
+                      &amp;= 1 + k &amp;+&amp; \frac{k!}{(k-1)!}x &amp;+&amp; \frac{\frac{k!}{(k-2)!}}{2!}x^2 &amp;+&amp; \frac{\frac{k!}{(k-3)!}}{3!}x^3 &amp;+&amp; \cdots\\
+                      &amp;= 1 + k &amp;+&amp; \frac{k!x}{(k-1)!} &amp;+&amp; \frac{k!}{(k-2)!2!}x^2 &amp;+&amp; \frac{k!}{(k-3)!3!}x^3 &amp;+&amp; \cdots\\
+                      &amp;= {k \choose 0} + {k \choose 1}x &amp;+&amp; {k \choose 2}x^2 &amp;+&amp; {k \choose 3}x^3 &amp;+&amp; \cdots\\
+                      &amp;= \sum_{i=0} {k \choose i} x
                 \end{aligned}\]</span></p>
         </div>
 
