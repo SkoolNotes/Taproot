@@ -26,3 +26,4 @@ The light spectrum did depend on temperature, so what happened? Why is everythin
 
 ![[Pasted image 20210303111810.png]]
 
+Max's Plank's Model 1 matched well with long wavelengths (red hot) => that 
