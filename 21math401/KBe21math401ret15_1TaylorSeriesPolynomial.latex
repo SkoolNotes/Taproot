@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8346)}}    % original
-%\rhead{\textrmlf{Compiled }\#8346\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8346\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8347)}}    % original
+%\rhead{\textrmlf{Compiled }\#8347\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8347\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -294,5 +294,12 @@ approx}\label{evaluate-limits-using-taylor-series-approx}}
 \hypertarget{limlimits_xto-0fracx-tan--xx3}{%
 \subsection{\texorpdfstring{{TODO}
 \(\lim\limits_{x\to 0}\frac{x-\tan^- x}{x^3}\)}{TODO \textbackslash lim\textbackslash limits\_\{x\textbackslash to 0\}\textbackslash frac\{x-\textbackslash tan\^{}- x\}\{x\^{}3\}}}\label{limlimits_xto-0fracx-tan--xx3}}
+
+\hypertarget{find-taylor-series-approximations}{%
+\section{find taylor series
+approximations}\label{find-taylor-series-approximations}}
+
+\hypertarget{y-ex-e-x}{%
+\subsection{\texorpdfstring{\(y = e^x + e^{-x}\)}{y = e\^{}x + e\^{}\{-x\}}}\label{y-ex-e-x}}
 
 \end{document}
