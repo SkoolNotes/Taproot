@@ -117,7 +117,7 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ Linear Escape }
+\newcommand{\thelesson}{ Special Relativity Problem: Linear Escape }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8306)}}    % original
-%\rhead{\textrmlf{Compiled }\#8306\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8306\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8307)}}    % original
+%\rhead{\textrmlf{Compiled }\#8307\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8307\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
