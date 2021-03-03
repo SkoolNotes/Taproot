@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8354)}}    % original
-%\rhead{\textrmlf{Compiled }\#8354\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8354\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8355)}}    % original
+%\rhead{\textrmlf{Compiled }\#8355\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8355\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -314,6 +314,7 @@ approximations}\label{find-taylor-series-approximations}}
 \subsection{\texorpdfstring{\(y = \sin (\pi x)\)}{y = \textbackslash sin (\textbackslash pi x)}}\label{y-sin-pi-x}}
 
 \[\begin{aligned}
+   \sin (\pi x) = \sum_{k=0}
    \end{aligned}\]
 
 \end{document}
