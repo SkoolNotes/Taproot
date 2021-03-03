@@ -18,7 +18,7 @@
    P_n(x) &= f(0) &+& \frac{d}{dx}f(0)x &+& \frac{\frac{d^2}{d^2x}f(0)}{2!}x^2 &+& \frac{\frac{d^3}{d^3x}f(0)}{3!}x^3 &+& \cdots\\
           &= e^0 &+& e^0x &+& \frac{e^0}{2!}x^2 &+& \frac{e^0}{3!}x^3 &+& \cdots\\
           &= 1 &+& x &+& \frac{1}{2!}x^2 &+& \frac{1}{3!}x^3 &+& \cdots\\
-          &= \sum_{k=0} \frac{1}{k!}x^k
+          &= \sum_{k=0} \frac{x^k}{k!}
    \end{aligned}\]
 ** $y = \sqrt x$ centered at $x=1$
    \[\begin{aligned}
@@ -51,4 +51,4 @@
 ** $3 + \frac{9}{2!} + \frac{27}{3!} + \frac{81}{4!}$
    \[\begin{aligned}
    3 &+& \frac{9}{2!} &+& \frac{27}{3!} &+& \frac{81}{4!}\\
-   3 &+& \frac{3^2}{2!} &+& \frac{3^3}{3!} &+& \frac{3^4}{4!}\\
+   = 3 &+& \frac{3^2}{2!} &+& \frac{3^3}{3!} &+& \frac{3^4}{4!}\\
