@@ -122,7 +122,7 @@ Remember: two objects will need to be parallel to each other and one traveling i
 $\gamma(v) = \frac{1}{\sqrt{1-(v^2/c^2)**2}}$. which means, for speeds at %c, $\gamma(pc) = \frac{1}{\sqrt{1-pc^2}}$
 
 ## Time Dilation
-Should Ted be moving at a velocity $V$ according to the refrence frame of Sally. Time $t$ for Ted would be $\gamma \times t$ for sally.
+Should Ted be moving at a velocity $V$ according to the refrence frame of Sally. Time $t'$ for Ted would be $\gamma \times t' = t$ for sally.
 
 ## Length Contraction
 Should Ted be moving at a velocity $V$ according to the refrence frame of Sally. Distance $D$ away from Sally and Ted's shared $D_0$ for Ted would be $\frac{D}{\gamma}$ for sally.
