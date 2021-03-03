@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8405)}}    % original
-%\rhead{\textrmlf{Compiled }\#8405\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8405\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8406)}}    % original
+%\rhead{\textrmlf{Compiled }\#8406\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8406\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -208,7 +208,7 @@ from rays as basically all absorbed and not bounced back.
 Max Plank's Model 1 in this manner matched well with observations at
 long wavelengths (red hot). But, it predicted infinite brightness (it
 will just ``keep bouncing'') as wavelength =\textgreater{} 0, which is
-wrong.
+wrong. This is the ``ultraviolet catastrophie.''
 
 So, he made it better.
 
@@ -218,7 +218,8 @@ constant * frequency of light.
 
 So, to synthesize high frequencies, this cop out had the effect of
 supressing the infinite growth as \(\delta E\) would grow bigger and
-bigger.
+bigger to the point where all your energy would not go into the EMWave
+but to this transferring factor.
 
 Which is like\ldots{} Kind of a cop out. But it did fit medium
 frequencies better.

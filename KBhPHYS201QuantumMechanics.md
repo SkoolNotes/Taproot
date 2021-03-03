@@ -26,13 +26,13 @@ The light spectrum did depend on temperature, so what happened? Why is everythin
 
 ![[Pasted image 20210303111810.png]]
 
-Max Plank's Model 1 in this manner matched well with observations at long wavelengths (red hot). But, it predicted infinite brightness (it will just "keep bouncing") as wavelength => 0, which is wrong.
+Max Plank's Model 1 in this manner matched well with observations at long wavelengths (red hot). But, it predicted infinite brightness (it will just "keep bouncing") as wavelength => 0, which is wrong. This is the "ultraviolet catastrophie."
 
 So, he made it better.
 
 Max Plank's Model 2 is just Model 1, but an additional assumption that when Energy Transfers from e^- to EMWave, $\delta E$ must be some constant * frequency of light. 
 
-So, to synthesize high frequencies, this cop out had the effect of supressing the infinite growth as $\delta E$ would grow bigger and bigger.
+So, to synthesize high frequencies, this cop out had the effect of supressing the infinite growth as $\delta E$ would grow bigger and bigger to the point where all your energy would not go into the EMWave but to this transferring factor.
 
 Which is like... Kind of a cop out. But it did fit medium frequencies better.
 
