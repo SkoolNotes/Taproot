@@ -47,7 +47,7 @@ Week of 3/1: Project due
 It is your job to make sure you demonstrate the following template items, no matter the
 
 format you choose for the assignment:
-
+[](https://archive.org/stream/in.ernet.dli.2015.201707/2015.201707.The-God_djvu.txt)
 1.  Understanding Literature
 2.  Close Reading
 3.  Structure & Mechanics
