@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8328)}}    % original
-%\rhead{\textrmlf{Compiled }\#8328\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8328\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8329)}}    % original
+%\rhead{\textrmlf{Compiled }\#8329\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8329\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -260,7 +260,8 @@ functions}\label{find-sum-of-series-by-recognizing-taylor-series-approximations-
 \hypertarget{frac92-frac273-frac814}{%
 \subsection{\texorpdfstring{\(3 + \frac{9}{2!} + \frac{27}{3!} + \frac{81}{4!}\)}{3 + \textbackslash frac\{9\}\{2!\} + \textbackslash frac\{27\}\{3!\} + \textbackslash frac\{81\}\{4!\}}}\label{frac92-frac273-frac814}}
 
-\textbackslash{[}\textbackslash begin\{aligned\} 3 + \frac{9}{2!} +
-\frac{27}{3!} + \frac{81}{4!}
+\textbackslash{[}\textbackslash begin\{aligned\} 3 \&+\& \frac{9}{2!}
+\&+\& \frac{27}{3!} \&+\& \frac{81}{4!}\\
+3 \&+\& \frac{3^2}{2!} \&+\& \frac{3^3}{3!} \&+\& \frac{3^4}{4!}\\
 
 \end{document}
