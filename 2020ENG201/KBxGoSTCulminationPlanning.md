@@ -67,7 +67,7 @@ cheap plastic, ten to two. under grass buried in the ground.
 
 ## qoute bin: 
 
-"The Waiting filled Rahel until she was ready to burst. She 
+"The Waiting filled Rahel until she was ready to burst. She
 looked at her watch. It was ten to two. She thought of Julie 
 Andrews and Christopher Plummer kissing each other sideways 
 so that their noses didn’t collide. She wondered whether people 
