@@ -11,7 +11,7 @@ Quantum => in small/discrete steps
 
 The Quantum of US Currency => $0.01
 
+## Puzzle of the Blackbody Radiation
+("black" => opaque): from solid materials, liquids
 
-Two Troubling Ideas: the Speed of Light
-
-Puzzle of the Bl
+The radiation from hot, solid materials looks samey. 

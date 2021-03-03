@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8392)}}    % original
-%\rhead{\textrmlf{Compiled }\#8392\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8392\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8393)}}    % original
+%\rhead{\textrmlf{Compiled }\#8393\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8393\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -183,8 +183,12 @@ small/discrete steps
 
 The Quantum of US Currency =\textgreater{} \$0.01
 
-Two Troubling Ideas: the Speed of Light
+\hypertarget{puzzle-of-the-blackbody-radiation}{%
+\subsection{Puzzle of the Blackbody
+Radiation}\label{puzzle-of-the-blackbody-radiation}}
 
-Puzzle of the Bl
+(``black'' =\textgreater{} opaque): from solid materials, liquids
+
+The radiation from hot, solid materials looks samey.
 
 \end{document}
