@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8386)}}    % original
-%\rhead{\textrmlf{Compiled }\#8386\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8386\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8387)}}    % original
+%\rhead{\textrmlf{Compiled }\#8387\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8387\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -206,9 +206,16 @@ Arc length of polar function \(x(t), y(t)\) &
 \bottomrule
 \end{longtable}
 
-Also, fun other things \textbar{} Function. \textbar{} Other Function
-\textbar{} \textbar{} --- \textbar{} ---\textbar{}
-\textbar{}\(sin^2\theta\)\textbar{}\(\frac{1}{2}(1-cos2\theta)\)\textbar{}
+Also, fun other things
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+Function & Other Function \\ \addlinespace
+\midrule
+\endhead
+\(sin^2\theta\) & \(\frac{1}{2}(1-cos2\theta)\) \\ \addlinespace
+\bottomrule
+\end{longtable}
 
 With the reverse product rule, try to make f(x) the simpler derivative,
 and g(x) the simpler antiderivative
