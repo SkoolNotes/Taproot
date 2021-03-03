@@ -25,6 +25,9 @@ Antiderivatives table
 | Arc length of polar function $x(t), y(t)$ | $\sqrt{x'(t)^2 + y'(t)^2}(dt)$   |
 | $r(\theta)$                               | $\int_a^B (r(\theta)^2)d\theta$  |
 
+Also, fun other things
+|$sin^2\theta$||
+
 With the reverse product rule, try to make f(x) the simpler derivative, and g(x) the simpler antiderivative
 
 
