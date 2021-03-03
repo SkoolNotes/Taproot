@@ -91,8 +91,26 @@ be together like this again. Ammu, Baby Kochamma and she.
 When Baby Kochamma finished, Rahel looked at her watch. 
 ‘So long you took, Baby Kochamma,’ she said. ‘It’s ten to two.’"
 
+"The back verandah of the History House (where a posse of 
+Touchable policemen converged, where an inflatable goose was 
+burst) had been enclosed and converted into the air>^ hotel 
+kitchen. Nothing worse than kebabs and caramel custard hap- 
+pened there now. The Terror was past. Overcome by the smell 
+of food. Silenced by the humming of cooks. The cheerful chop- 
+chop-chopping of ginger and garlic. The disembowelling of 
+lesser mammals ~ pigs, goats. The dicing of meat. The scaling 
+of fish. 
 
+Something lay buried in the ground. Under grass. Under 
+twenty- three years of June rain. 
 
+A small forgotten thing. 
+
+Nothing that the world would miss. 
+
+A child’s plastic wristwatch with the time painted on it. 
+
+Ten to two it said."
 
 
 
