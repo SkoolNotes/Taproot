@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8368)}}    % original
-%\rhead{\textrmlf{Compiled }\#8368\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8368\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8369)}}    % original
+%\rhead{\textrmlf{Compiled }\#8369\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8369\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -276,7 +276,7 @@ functions}\label{find-sum-of-series-by-recognizing-taylor-series-approximations-
 
 \[\begin{aligned}
 \sum_{k=0}^\infty \frac{(-1)^k \pi^{2k+1}}{4^{2k+1}(2k+1)!} =
-\sum_{k=0}^\infty \frac{(-1)^k \frac{\pi}{4}^{2k+1}}{(2k+1)!} =
+\sum_{k=0}^\infty \frac{(-1)^k \left(\frac{\pi}{4}^{2k+1}\right)}{(2k+1)!} =
 \sin \frac{\pi}{4} = \frac{\sqrt 2}{2}
 \end{aligned}\]
 

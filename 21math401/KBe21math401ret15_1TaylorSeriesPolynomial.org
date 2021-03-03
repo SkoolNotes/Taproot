@@ -62,7 +62,7 @@
 ** $\sum_{k=0}^\infty \frac{(-1)^k \pi^{2k+1}}{4^{2k+1}(2k+1)!}$
 \[\begin{aligned}
 \sum_{k=0}^\infty \frac{(-1)^k \pi^{2k+1}}{4^{2k+1}(2k+1)!} =
-\sum_{k=0}^\infty \frac{(-1)^k \frac{\pi}{4}^{2k+1}}{(2k+1)!} =
+\sum_{k=0}^\infty \frac{(-1)^k \left(\frac{\pi}{4}^{2k+1}\right)}{(2k+1)!} =
 \sin \frac{\pi}{4} = \frac{\sqrt 2}{2}
 \end{aligned}\]
 
