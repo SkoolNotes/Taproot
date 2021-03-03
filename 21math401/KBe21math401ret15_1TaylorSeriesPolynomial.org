@@ -20,11 +20,12 @@
           &= 1 &+& x &+& \frac{1}{2!}x^2 &+& \frac{1}{3!}x^3 &+& \cdots\\
           &= \sum_{k=0} \frac{1}{k!}x^k
    \end{aligned}\]
-** TODO $y = \sqrt x$ centered at $x=1$
+** $y = \sqrt x$ centered at $x=1$
    \[\begin{aligned}
    P_n(x) &= f(1) &+& \frac{d}{dx}f(1)(x-1) &+& \frac{\frac{d^2}{d^2x}f(1)}{2!}(x-1)^2 &+& \frac{\frac{d^3}{d^3x}f(1)}{3!}(x-1)^3 &+& \cdots\\
           &= 1 &+& \frac{1}{2}(x-1) &+& \frac{\frac{1}{2}\frac{-1}{2}}{2!}(x-1)^2 &+& \frac{\frac{1}{2}\frac{-1}{2}\frac{-3}{2}}{3!}(x-1)^3 &+& \cdots\\
    \end{aligned}\]
+   I don't know how to write it using summation notation though..
 
 * prove approximations
 ** $\frac{1}{1-x} = 1 + x + x^2 + x^3 + \cdots$
@@ -46,3 +47,4 @@
 		  &= {k \choose 0} + {k \choose 1}x &+& {k \choose 2}x^2 &+& {k \choose 3}x^3 &+& \cdots\\
 		  &= \sum_{i=0} {k \choose i} x^i
 	\end{aligned}\]
+* find sum of series by recognizing Taylor Series approximations of some functions
