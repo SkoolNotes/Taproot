@@ -195,7 +195,7 @@ time does not pass, and past stays with us.
 the past vs past, time vs Time
 
 
-
+grass has grown, time has passed.
 
 
 

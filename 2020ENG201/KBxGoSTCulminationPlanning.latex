@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8376)}}    % original
-%\rhead{\textrmlf{Compiled }\#8376\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8376\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8377)}}    % original
+%\rhead{\textrmlf{Compiled }\#8377\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8377\textrmlf{ on} \today}       % new date
 \lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -339,5 +339,7 @@ two interpretations
 time does not pass, and past stays with us.
 
 the past vs past, time vs Time
+
+grass has grown, time has passed.
 
 \end{document}
