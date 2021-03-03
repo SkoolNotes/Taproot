@@ -57,7 +57,7 @@ format you choose for the assignment:
 
 
 
-
+close reading on wrist watch? model wrist watch in blender?
 
 
 
