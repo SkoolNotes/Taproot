@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8341)}}    % original
-%\rhead{\textrmlf{Compiled }\#8341\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8341\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8342)}}    % original
+%\rhead{\textrmlf{Compiled }\#8342\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8342\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -268,7 +268,7 @@ functions}\label{find-sum-of-series-by-recognizing-taylor-series-approximations-
 \subsection{\texorpdfstring{\(1-\ln 2 + \frac{\ln ^2 2}{2!} + \frac{\ln ^3 2}{3!} + \cdots\)}{1-\textbackslash ln 2 + \textbackslash frac\{\textbackslash ln \^{}2 2\}\{2!\} + \textbackslash frac\{\textbackslash ln \^{}3 2\}\{3!\} + \textbackslash cdots}}\label{ln-2-fracln-2-22-fracln-3-23-cdots}}
 
 \[\begin{aligned}
-   1-\ln 2 + \frac{\ln ^2 2}{2!} + \frac{\ln ^3 2}{3!} + \cdots = e^{-\ln 2}
+   1-\ln 2 + \frac{\ln ^2 2}{2!} + \frac{\ln ^3 2}{3!} + \cdots = e^{-\ln 2} = \frac{1}{2}
     \end{aligned}\]
 
 \hypertarget{sum_k0infty-frac-1n-pi2n142n12n1}{%
