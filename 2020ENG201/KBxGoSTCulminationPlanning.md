@@ -175,12 +175,12 @@ the book is frozen in time, in the sense that it doesnt progress
 centered around where the watch it left
 
 
+frozen time -> oxymoron
 
 
+people are frozen, stuck in the past. 
 
-
-
-
+passage of time means nothing?
 
 
 
