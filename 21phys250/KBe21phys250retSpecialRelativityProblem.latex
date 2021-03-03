@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8299)}}    % original
-%\rhead{\textrmlf{Compiled }\#8299\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8299\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8300)}}    % original
+%\rhead{\textrmlf{Compiled }\#8300\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8300\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -184,6 +184,8 @@ Bessie has to turn on a light so Elsie sees it exactly five seconds
 after the challenge begins. Then, Farmer John will be satisfied that his
 cows are properly educated.
 
-How long should Bessie wait before turning on the light?
+Bessie has a terrible sense of time and can only measure how far she has
+gone by regular 1-lightsecond markings on the tunnel wall. How far from
+the start should Bessie be when she turns on the light?
 
 \end{document}
