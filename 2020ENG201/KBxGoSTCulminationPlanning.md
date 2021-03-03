@@ -161,9 +161,9 @@ about frozen time?
 
 twins are stuck in time?
 
-book plays with time,  
+book plays with time. 
 
-
+rahel talks about being able to change the time whenever she wants, roy does just that
 
 
 
