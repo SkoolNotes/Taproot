@@ -74,6 +74,12 @@ so that their noses didn’t collide. She wondered whether people
 always kissed each other sideways. She tried to think of whom 
 to ask."
 
+"Rahel’s toy wristwatch had the time painted on it. Ten to 
+two. One of her ambitions was to own a watch on which she 
+could change the time whenever she wanted to (which according 
+to her was what Time was meant for in the first place)."
+
+
 "From the way Ammu held her head, Rahel could tell that 
 she was still angry. Rahel looked at her watch. Ten to two. Still 
 no train. She put her chin on the window sill. She could feel 
