@@ -22,4 +22,7 @@ But!
 
 The light spectrum did depend on temperature, so what happened? Why is everything hot?
 
-**Max Plank** => trying to model 
+**Max Plank** => trying to model incoming light source from rays as basically all absorbed and not bounced back.
+
+![[Pasted image 20210303111810.png]]
+
