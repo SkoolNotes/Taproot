@@ -82,8 +82,7 @@ In a ~4 page paper, evaluate how a global perspective for the Cold War helps to 
 #### French View
 **Value-Based Decisions**
 
-- The French approached Sino-French relations cautiously, not wanting to give in too much,  and
-	-  AO portray France as a great, unwilling to submit power 
+- The French approached Sino-French relations cautiously, not wanting to give in too much,  and AO portray France as a great, unwilling to submit power 
 - For instance, when  
 	-  AQ Zhou tried to bring up One-China principle, and Faure said: No.
 - is a scene where French were willing to risk inacceptance over their formal diplomatic relations
@@ -162,6 +161,7 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 - Both countries reasoned the reconsiliation  on practical grounds and avoided ideological promises
 	-  Practical Negotiation...
 		- Of the French  
+			- The French approached Sino-French relations cautiously, not wanting to give in too much,  and AO portray France as a great, unwilling to submit power
 			-  L4B deGaull reasoned that it would be impossible to solve the East Asia problem w/o China
 			-  AL deGaull know that LTBT did not prevent PRC/France from trying Kaboom; so, expecting China to try blowing things up soon, deGaull reasoned that China will soon become a superpower once they could make things go Kaboom.
 			-  L2C the French need to set an example in approaching China, otherwise china is going to approach the Indep. French colonies first, which would be awkward
