@@ -163,7 +163,8 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 		-  AL deGaull know that LTBT did not prevent PRC/France from trying Kaboom; so, expecting China to try blowing things up soon, deGaull reasoned that China will soon become a superpower once they could make things go Kaboom.
 		-  L4B deGaull reasoned that it would be impossible to solve the East Asia problem w/o China
 		-  L2C the French need to set an example in approaching China, otherwise china is going to approach the Indep. French colonies first, which would be awkward
-	- The Chinese approached it from a need of international recognition, and potentially the advance
+	- The Chinese approached it from a need of international recognition, and potentially the advance of the 1 china policy. 
+		- 
 	- The French approached Sino-French relations cautiously, not wanting to give in too much,  and AO portray France as a great, unwilling to submit power
 
 	- 
