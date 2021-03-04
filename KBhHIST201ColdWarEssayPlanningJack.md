@@ -170,8 +170,9 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 		-  L3B Sino-French corroporation will oppose US + imperialism
 - Both parties approached the negotiations cautiously; but the Chinese were willing to give up ideological grounds for practical gain while the French guarded their ideologial bottom line
 	- The French approached Sino-French relations cautiously, not wanting to give in too much,  and AO portray France as a great, unwilling to submit power
-
-	- 
+	-  L4C deGaulle also stressed that PRC recognition is not an approval of it policies/institutios
+	-  AX Zhou decided that if the French was really not up to the one-china thing in the comminque, it is ok to just drop it. the French was no ok, so they dropped it!
+	-  AY Zhou was even open to negotiatinos even if deBeaumarchais (deGaull + friends) wanted to maintain a Two-China policy
 
 #### Discussions with Tom
 How does the Chinese people get sold on the idea of establishing relationships with the French? Was it authoritarianism?
