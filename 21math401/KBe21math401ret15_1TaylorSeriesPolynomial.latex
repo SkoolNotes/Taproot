@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8413)}}    % original
-%\rhead{\textrmlf{Compiled }\#8413\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8413\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8415)}}    % original
+%\rhead{\textrmlf{Compiled }\#8415\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8415\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -292,7 +292,7 @@ approx}\label{evaluate-limits-using-taylor-series-approx}}
     &=& \lim\limits_{x\to 0} \frac{\cancel{-\frac{x^3}{6}+}\frac{x^5}{5!} + \cdots \cancel{+ \frac{x^3}{6}}}{x^5}&\\
     &=& \lim\limits_{x\to 0} \frac{\frac{\cancel{x^5}}{5!} + \cdots}{x^5}&\\
     &=& \lim\limits_{x\to 0} \frac{1}{5!} + \frac{x^7}{x^5 7!} + \frac{x^9}{x^5 9!} \cdots&\\
-    &=& 0&
+    &=& \frac{1}{5!}&
    \end{flalign}\]
 
 \hypertarget{limlimits_xto-0fracx-tan--xx3}{%
@@ -319,7 +319,8 @@ approximations}\label{find-taylor-series-approximations}}
 
 \[\begin{aligned}
    \sin (\pi x) = \sum_{k=0} \frac{(-1)^k (\pi x)^{2k+1}}{(2k+1)!}
-   \end{aligned}\] (just plug it in)
+   \end{aligned}
+\] (just plug it in)
 
 \hypertarget{y-sin2-x}{%
 \subsection{\texorpdfstring{{TODO}
