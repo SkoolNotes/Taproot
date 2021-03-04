@@ -113,6 +113,7 @@ The French wanted to help China as a way of advacing its own nationalistic goals
 **Realism-Based Reflections**
 
 -  AI the french ambassidor had the impression that "The Chinese had extended a hand, and they believed it was now up to the French to accept it.""
+-  L1B cuban missle crisis showed that american/russia did not want to make world go kaboom, so medium states feel better to persue independent policies
 -  L4A deGaull thinks that China's large economy no longer controlled by USSR is a fact of life, so #dealwithit 
 -  L4B deGaull reasoned that it would be impossible to solve the East Asia problem w/o China
 
@@ -197,7 +198,6 @@ Revolutionary seniments used and the sense of "fellow revolutionary" mentality a
 -  AW deGaulle wanted Occam's Razor Chinese Relations
 -  L1 a five point argument of why relationships established
 	-  L1A End of the Algerian war eased tensions
-	-  L1B cuban missle crisis showed that american/russia did not want to make world go kaboom, so medium states feel better to persue independent policies
 	-  L1C Sino-French recognition is a follow up to deGaulle's de-angloamerican dominance campaign
 	-  L1D deGaulle felt LTBT was an attach on French interests
 	-  L1E south Vietnam instability became triggering point for shared political agreement against Ngo Dinh Diem
