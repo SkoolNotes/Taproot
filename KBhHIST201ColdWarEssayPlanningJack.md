@@ -156,7 +156,7 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 	- On the Chinese side, they saw the Cold War as an opportunity of growth admidst European chaos:
 		-  AM Zhou Enlai concluded that he Sino-Soviet split + US Soviet Nuclear Reapporachment — a product of the cold war — means that international BoP will change soon, so might as well build relations with France (connect CA)
 		- AJ Mao departed from his earlier thinking of Europe in two **a la cold war** and moved to a European countries is unhappy with both US and Soviet stance (connect CA)
-	- On the French side, the  
+	- On the French side, the combination of the the cuban missle crisis + LTBT gave the french a carrot and a stick to persue idependent dipolmacy from major European powers
 	-  L1B cuban missle crisis showed that american/russia did not want to make world go kaboom, so medium states feel better to persue independent policies
 	-  
 
