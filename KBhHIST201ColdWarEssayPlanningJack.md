@@ -165,7 +165,9 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 		-  L4B deGaull reasoned that it would be impossible to solve the East Asia problem w/o China
 		-  L2C the French need to set an example in approaching China, otherwise china is going to approach the Indep. French colonies first, which would be awkward
 	- The Chinese approached it from a need of international recognition, and potentially the advance of the 1 china policy. 
-		- 
+		-  AK the reconciliation between Moscow and Beijing did a die after LTBT negotiations in Moscow (connection BA)
+		-  L3A Zhou believed that reappoarchment with France will eveuntally cause US to stop blocading PRC + increase Chineses status
+		-  
 	- The French approached Sino-French relations cautiously, not wanting to give in too much,  and AO portray France as a great, unwilling to submit power
 
 	- 
