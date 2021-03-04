@@ -160,7 +160,7 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 		-  *The carrot*: L1B cuban missle crisis showed that american/russia did not want to make world go kaboom, so medium states feel better to persue independent policies
 		- *The stick*: AE The actualy LTBT doesen't really matter to the French, but its more about deGaulle not wanting to be the dog of British-American-Soviet relations
 - Both countries went for the items with the highest pragmatic value whilst avoiding ideological pitfalls
-	- 
+	-  L4B deGaull reasoned that it would be impossible to solve the East Asia problem w/o China
 
 #### Discussions with Tom
 How does the Chinese people get sold on the idea of establishing relationships with the French? Was it authoritarianism?
