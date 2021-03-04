@@ -153,8 +153,9 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 **The Cold War gave an opportunity for the capitalist French Republic and the communist PRC an opportunity of cross-aisle collaboration: leveraging shared gains under political pragmatism and rallying citizens through a sense of nationalistic pride whilst resisting fundimental changes of values and morals.**
 
 - The cold war created the ideal circumstance for sino-french collaboration
-	-  AM Zhou Enlai concluded that he Sino-Soviet split + US Soviet Nuclear Reapporachment — a product of the cold war — means that international BoP will change soon, so might as well build relations with France (connect CA)
-	- AJ Mao departed from his earlier thinking of Europe in two **a la cold war** and moved to a European countries is unhappy with both US and Soviet stance (connect CA)
+	- And the Chinese side, they saw the Cold War as an opportunity of growth admidst European chaos
+		-  AM Zhou Enlai concluded that he Sino-Soviet split + US Soviet Nuclear Reapporachment — a product of the cold war — means that international BoP will change soon, so might as well build relations with France (connect CA)
+		- AJ Mao departed from his earlier thinking of Europe in two **a la cold war** and moved to a European countries is unhappy with both US and Soviet stance (connect CA)
 	-  L1B cuban missle crisis showed that american/russia did not want to make world go kaboom, so medium states feel better to persue independent policies
 	-  
 
