@@ -167,7 +167,7 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 	- The Chinese approached it from a need of international recognition, and potentially the advance of the 1 china policy. 
 		-  AK the reconciliation between Moscow and Beijing did a die after LTBT negotiations in Moscow (connection BA)
 		-  L3A Zhou believed that reappoarchment with France will eveuntally cause US to stop blocading PRC + increase Chineses status
-		-  
+		-  L3B Sino-French corroporation will oppose US + imperialism
 	- The French approached Sino-French relations cautiously, not wanting to give in too much,  and AO portray France as a great, unwilling to submit power
 
 	- 
