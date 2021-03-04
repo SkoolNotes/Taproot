@@ -159,7 +159,7 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 	- On the French side, the combination of the the cuban missle crisis + LTBT gave the french a carrot and a stick to persue idependent dipolmacy from major European powers
 		-  *The carrot*: L1B cuban missle crisis showed that american/russia did not want to make world go kaboom, so medium states feel better to persue independent policies
 		- *The stick*: AE The actualy LTBT doesen't really matter to the French, but its more about deGaulle not wanting to be the dog of British-American-Soviet relations
-- Both countries reasoned the reconsiliation on practical grounds and avoided ideological promises
+- Both countries reasoned the reconsiliation on practical grounds
 	-  The French reasoned the necessesity of Sino-French relationships based on the fact that China will be a major player at least in the East whether it liked it or not, so...
 		-  AL deGaull know that LTBT did not prevent PRC/France from trying Kaboom; so, expecting China to try blowing things up soon, deGaull reasoned that China will soon become a superpower once they could make things go Kaboom.
 		-  L4B deGaull reasoned that it would be impossible to solve the East Asia problem w/o China
@@ -168,6 +168,7 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 		-  AK the reconciliation between Moscow and Beijing did a die after LTBT negotiations in Moscow (connection BA)
 		-  L3A Zhou believed that reappoarchment with France will eveuntally cause US to stop blocading PRC + increase Chineses status
 		-  L3B Sino-French corroporation will oppose US + imperialism
+- Both parties approached the negotiations cautiously; but the Chinese were willing to give up ideological grounds for practical gain while the French guarded their ideologial bottom line
 	- The French approached Sino-French relations cautiously, not wanting to give in too much,  and AO portray France as a great, unwilling to submit power
 
 	- 
