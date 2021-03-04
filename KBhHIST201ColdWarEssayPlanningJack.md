@@ -159,7 +159,8 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 	- On the French side, the combination of the the cuban missle crisis + LTBT gave the french a carrot and a stick to persue idependent dipolmacy from major European powers
 		-  *The carrot*: L1B cuban missle crisis showed that american/russia did not want to make world go kaboom, so medium states feel better to persue independent policies
 		- *The stick*: AE The actualy LTBT doesen't really matter to the French, but its more about deGaulle not wanting to be the dog of British-American-Soviet relations
-	-  
+- Both countries went for the items with the highest pragmatic value whilst avoiding ideological pitfalls
+	- 
 
 #### Discussions with Tom
 How does the Chinese people get sold on the idea of establishing relationships with the French? Was it authoritarianism?
