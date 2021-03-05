@@ -14,6 +14,6 @@ Daniel became more of a mentor role. Misha => potential new member. Serena, Juil
 
 Getting data from walking around. COVID is a problem to getting data because of physical distance. 
 
-A
+From a material sciences perspective, engineering is needed to make comfort.
 
 
