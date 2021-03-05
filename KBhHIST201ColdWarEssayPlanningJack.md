@@ -215,11 +215,11 @@ Maintainence of ideological commitments as a means to National preeminence => id
 
 - Cold war create an opportuntity => foregoround it with how the author is defining the cold war moment. The author is conciously decenter the cold war in order to compare China with France
 - Sino french leverage opportunity with pragmatic ways
-- Nationalism as a
+- Nationalism as a end whilst value maintainnence as a means to that end
 
-Finally, define the results of the focus on the sidelines of the Cold War.
+Finally, define the results of the athour's focus on the sidelines of the Cold War.
 
-Engage with the projects of the author / their choince.
+Engage with the projects of the author / their choices.
 
 ****
 
