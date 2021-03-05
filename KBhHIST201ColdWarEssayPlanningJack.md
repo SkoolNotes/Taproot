@@ -187,8 +187,6 @@ Thesis feel... unfocused;
 
 Be more specific!
 
-1) In the 1960s, CW dynamics created an timely opportunity for china + us to assert national position on the international stage
-2) To do so, however, countries had to balance values and pragmatism in order to ultimately support their goal of doing so. 
 
 Pragmatism, yes, but what are the goals??
 
@@ -210,6 +208,11 @@ Maintainence of ideological commitments as a means to National preeminence => id
 "Why is it important for the French to maintain their conservatism?"
 
 
+1) In the 1960s, CW dynamics created an timely opportunity for china + us to assert national position on the international stage
+2) To do so, however, countries had to balance values and pragmatism in order to ultimately support their goal of doing so. 
+
+
+**Cold war dynamics of the 1960s created  of Sino-French relationships
 
 ****
 
