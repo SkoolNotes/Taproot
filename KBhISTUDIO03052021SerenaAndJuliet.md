@@ -12,17 +12,3 @@ Used different parts of the sensor {acceleromiter, gyro, etc.}
 
 Daniel became more of a mentor role. Misha => potential new member. Serena, Juilet, Ellie, Misha, Lauren, Umrutha.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
