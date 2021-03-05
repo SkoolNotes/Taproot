@@ -181,10 +181,7 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 #### Discussions with Tom
 Thesis feel... unfocused;
 
-- I am doing two things in one sentence. Should break into two sentences
-	- "How is the cold war impacting the global situation w.r.t. France + China" 
-		- => Cold war creates an **opportunity** of nationalist abmitions
-		- => Cold war creates a **sense of diplomatic timeliness (urgency)** + opportunity, which brings urgency to both affirm nationalistic values // inter. preeminence
+
 
 "The cold war gave an opportunity with an experiation date"
 
@@ -210,12 +207,17 @@ Maintainence of ideological commitments as a means to National preeminence => id
 
 "Why is it important for the French to maintain their conservatism?"
 
+- I am doing two things in one sentence. Should break into two sentences
+	- "How is the cold war impacting the global situation w.r.t. France + China" 
+		- => Cold war creates an **opportunity** of nationalist abmitions
+		- => Cold war creates a **sense of diplomatic timeliness (urgency)** + opportunity, which brings urgency to both affirm nationalistic values // inter. preeminence
+
 
 1) In the 1960s, CW dynamics created an timely opportunity for china + us to assert national position on the international stage
 2) To do so, however, countries had to balance values and pragmatism in order to ultimately support their goal of doing so. 
 
 
-**Cold war dynamics of the 1960s created a timely opportunity for the development of Sino-French relationships for both states to assert their position on the international stage.
+**Cold war dynamics of the 1960s created a diplomatically timely opportunity for the development of Sino-French relationships for both states to assert their need for increased international recognition. In order to 
 
 ****
 
