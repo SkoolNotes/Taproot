@@ -194,7 +194,7 @@ Maintainence of ideological commitments as a means to National preeminence => id
 2) To do so, however, countries had to balance values and pragmatism in order to ultimately support their goal of doing so. 
 
 
-**Cold war dynamics of the 1960s created a diplomatically timely opportunity for the development of Sino-French relationships for both states to assert their need for increased international recognition; to garner heightened recognitions, both nations leveraged nationalistic values in negotiation but 
+**Cold war dynamics of the 1960s created a diplomatically timely opportunity for the development of Sino-French relationships for both states to assert their nationalism-fueled need for increased international recognition; to garner heightened recognition, both had to leverage diplomatic pragmatism in balancing their values with their realities to ultimatel
 
 ****
 
