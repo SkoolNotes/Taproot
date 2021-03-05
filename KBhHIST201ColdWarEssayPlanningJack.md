@@ -156,13 +156,11 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 
 **Cold war dynamics of the 1960s created a diplomatically timely opportunity for the development of Sino-French relationships for both states to assert their nationalism-fueled need for increased international recognition; to garner heightened recognition, both had to leverage diplomatic pragmatism in balancing their values with their realities to ultimately achieve their nationalistic goals of added recognition.**
 
+*Finally, define the results of the athour's focus on the sidelines of the Cold War. Engage with the projects of the author / their choices.*
+
 - Cold war create an opportuntity => *foregoround it with how the author is defining the cold war moment. The author is conciously decenter the cold war in order to compare China with France*
 - Sino french leverage opportunity with pragmatic ways
 - Nationalism as a end whilst value maintainnence as a means to that end
-
-*Finally, define the results of the athour's focus on the sidelines of the Cold War.*
-
-Engage with the projects of the author / their choices.
 
 - The cold war created the ideal circumstance for sino-french collaboration
 	- On the Chinese side, they saw the Cold War as an opportunity of growth and assertion of national identity admidst European chaos:
