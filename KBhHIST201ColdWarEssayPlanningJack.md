@@ -74,7 +74,6 @@ In a ~4 page paper, evaluate how a global perspective for the Cold War helps to 
 #### Scholarly View
 - AA France and China moved away from military political conflict and towards view alignment
 
-
 #### Shared View
 - AB shared uneasiness over LTBT that triggered french recognition
 - AF although PRC and France disagreed on what happens to vietnam, they both hated the US boogieman meddling with Vietnam
@@ -149,7 +148,11 @@ Realistically, China believed that the cold war's BOP shift will offer them a ch
 
 More better question: how does the Cold War influence the Franco-Chinese balance of Ideloogy vs. Pragmatism?
 
-**The Cold War gave an opportunity for the capitalist French Republic and the communist PRC an opportunity of cross-aisle collaboration: leveraging shared gains under political pragmatism and rallying plans via a sense of nationalistic pride whilst resisting fundimental changes of values and morals.**
+***
+
+## The Claim
+
+<!--**The Cold War gave an opportunity for the capitalist French Republic and the communist PRC an opportunity of cross-aisle collaboration: leveraging shared gains under political pragmatism and rallying plans via a sense of nationalistic pride whilst resisting fundimental changes of values and morals.**-->
 
 - The cold war created the ideal circumstance for sino-french collaboration
 	- On the Chinese side, they saw the Cold War as an opportunity of growth and assertion of national identity admidst European chaos:
