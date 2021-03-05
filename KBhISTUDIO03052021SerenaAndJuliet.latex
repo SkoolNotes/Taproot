@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8481)}}    % original
-%\rhead{\textrmlf{Compiled }\#8481\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8482)}}    % original
+%\rhead{\textrmlf{Compiled }\#8482\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8481
+  \#8482
   \textrmlf{ on}
       \today
   }       % new date
@@ -195,5 +195,7 @@ Used different parts of the sensor \{acceleromiter, gyro, etc.\}
 
 Daniel became more of a mentor role. Misha =\textgreater{} potential new
 member. Serena, Juilet, Ellie, Misha, Lauren, Umrutha.
+
+Getting data from walking around.
 
 \end{document}
