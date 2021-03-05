@@ -14,4 +14,5 @@ source: KBCalculusMasterIndex
 - [[KBhMATH401Intergrals]]
 - [[KBhMATH401TaylorSeriesApprox]]
 - [[KBhMATH401TalorSeriesExpansions]] 
+- [[KBhMATH401SeriesConvergence]]
 
