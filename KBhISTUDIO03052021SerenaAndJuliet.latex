@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8478)}}    % original
-%\rhead{\textrmlf{Compiled }\#8478\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8479)}}    % original
+%\rhead{\textrmlf{Compiled }\#8479\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8478
+  \#8479
   \textrmlf{ on}
       \today
   }       % new date
@@ -186,5 +186,12 @@
 \section{Kyntic}\label{kyntic}}
 
 Used different parts of the sensor \{acceleromiter, gyro, etc.\}
+
+\begin{itemize}
+\tightlist
+\item
+  Exploring Euler's angles + linear exploration
+\item
+\end{itemize}
 
 \end{document}

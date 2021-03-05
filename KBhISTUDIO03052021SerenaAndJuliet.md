@@ -8,6 +8,14 @@ course: ISTUDIO
 # Kyntic 
 Used different parts of the sensor {acceleromiter, gyro, etc.}
 
+- Exploring Euler's angles + linear exploration
+- 
+
+
+
+
+
+
 
 
 
