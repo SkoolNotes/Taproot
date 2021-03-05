@@ -179,24 +179,6 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 	-  AY Zhou was even open to negotiatinos even if deBeaumarchais (deGaull + friends) wanted to maintain a Two-China policy
 
 #### Discussions with Tom
-Thesis feel... unfocused;
-
-
-
-"The cold war gave an opportunity with an experiation date"
-
-Be more specific!
-
-
-Pragmatism, yes, but what are the goals??
-
-But! China's actions represented a more pragmatic focus, whereas the french was guided by their strong commitment to their ideloogy.
-
-
-- Cold war makes an opporutinity
-- What each countries goals are in leveraging this opporuntiny
-- Lastly, how did China vs France balance their ideology with pragmatic consessions => how did the eventual relationship reflect
-
 
 Asserting a French power to reaffirm the "specialness" of France => nationalism! Not ideology.
 
@@ -207,17 +189,12 @@ Maintainence of ideological commitments as a means to National preeminence => id
 
 "Why is it important for the French to maintain their conservatism?"
 
-- I am doing two things in one sentence. Should break into two sentences
-	- "How is the cold war impacting the global situation w.r.t. France + China" 
-		- => Cold war creates an **opportunity** of nationalist abmitions
-		- => Cold war creates a **sense of diplomatic timeliness (urgency)** + opportunity, which brings urgency to both affirm nationalistic values // inter. preeminence
-
 
 1) In the 1960s, CW dynamics created an timely opportunity for china + us to assert national position on the international stage
 2) To do so, however, countries had to balance values and pragmatism in order to ultimately support their goal of doing so. 
 
 
-**Cold war dynamics of the 1960s created a diplomatically timely opportunity for the development of Sino-French relationships for both states to assert their need for increased international recognition. In order to 
+**Cold war dynamics of the 1960s created a diplomatically timely opportunity for the development of Sino-French relationships for both states to assert their need for increased international recognition; to garner heightened recognitions, both nations leveraged nationalistic values but 
 
 ****
 
