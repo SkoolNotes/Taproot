@@ -118,8 +118,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ ISTUDIO }
+\newcommand{\thelesson}{ iStudio Check-Ins Serena Juliet }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -132,15 +132,15 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8477)}}    % original
-%\rhead{\textrmlf{Compiled }\#8477\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8478)}}    % original
+%\rhead{\textrmlf{Compiled }\#8478\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8477
+  \#8478
   \textrmlf{ on}
       \today
   }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -179,9 +179,12 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhISTUDIOCheckins}{\tiny\textulf{[[}\textbf{KBhISTUDIOCheckins}\textulf{]]}}}\thinspace
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{kyntic}{%
+\section{Kyntic}\label{kyntic}}
 
-title: iStudio Check-Ins Serena Juliet source: {[}{[}istud{]}{]}
+Used different parts of the sensor \{acceleromiter, gyro, etc.\}
 
 \end{document}
