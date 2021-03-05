@@ -1,0 +1,261 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Quiz Prep }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8446)}}    % original
+%\rhead{\textrmlf{Compiled }\#8446\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8446\textrmlf{ on} \today}       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{derivatives}{%
+\section{Derivatives}\label{derivatives}}
+
+\hypertarget{common}{%
+\subsection{Common}\label{common}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+function & derivative \\ \addlinespace
+\midrule
+\endhead
+\(\sin x\) & \(\cos x\) \\ \addlinespace
+\(\cos x\) & \(-\sin x\) \\ \addlinespace
+\(\tan x\) & \(\frac{1}{sin^2 x}\) \\ \addlinespace
+\(\sin x^-\) & \(\frac{1}{\sqrt{1-x}}\) \\ \addlinespace
+\(\cos x^-\) & \(\frac{-1}{\sqrt{1-x}}\) \\ \addlinespace
+\(\tan x^-\) & \(\frac{1}{1+x^2}\) \\ \addlinespace
+\(a^x\) & \(\ln(a) a^x\) \\ \addlinespace
+\(\log_a x\) & \(\frac{1}{\ln(a) x}\) \\ \addlinespace
+& \\ \addlinespace
+\bottomrule
+\end{longtable}
+
+\hypertarget{rules}{%
+\subsection{Rules}\label{rules}}
+
+\hypertarget{addsubtract}{%
+\subsubsection{Add/Subtract}\label{addsubtract}}
+
+\[ \frac{d}{dx} f(x) + g(x) = \frac{d}{dx} f(x) + \frac{d}{dx} g(x) \]
+
+\hypertarget{multiply}{%
+\subsubsection{Multiply}\label{multiply}}
+
+\[ \frac{d}{dx} \left(f(x) g(x)\right) = \left(\frac{d}{dx} f(x)\right) g(x) + f(x)\left( \frac{d}{dx}g(x)\right) \]
+
+\hypertarget{divide}{%
+\subsubsection{Divide}\label{divide}}
+
+\[ \frac{d}{dx} \frac{f(x)}{g(x)} = \frac{g(x)\frac{d}{dx}f(x) - f(x) \frac{d}{dx} g(x) }{g^2(x)} \]
+
+\hypertarget{chain-rule}{%
+\subsubsection{Chain Rule}\label{chain-rule}}
+
+\[ \frac{d}{dx} f(g(x)) = \left(\frac{d}{dx} f\right)(g(x))\left(\frac{d}{dx} g(x)\right) \]
+
+\hypertarget{power-rule-only-take-out-const-multiples}{%
+\subsubsection{Power Rule (ONLY TAKE OUT CONST
+MULTIPLES)}\label{power-rule-only-take-out-const-multiples}}
+
+\[ \frac{d}{dx} x^n = nx^{n-1} \]
+
+\hypertarget{approximation}{%
+\section{Approximation}\label{approximation}}
+
+\hypertarget{linear-approximation-at-a-point}{%
+\subsection{Linear Approximation at a
+Point}\label{linear-approximation-at-a-point}}
+
+\[ y = f(a) + f'(a)(x-a) \] (First order taylor series)
+
+\hypertarget{differentials}{%
+\subsection{Differentials}\label{differentials}}
+
+\[ dy = f'(x)dx \] Basically use the slope of the linear approximation
+to approximate the change (\(dy\)) in the function given a change an
+\(x\) (\(dx\)).
+
+\hypertarget{implicit-differentiation}{%
+\section{Implicit Differentiation}\label{implicit-differentiation}}
+
+REMEMBER that \(y\) is \(f(x)\) which means it's a function of \$x\$!
+Use the chain rule!
+
+Then solve for \(f'(x)\) and if necessary, plug in the original
+definition of \(f(x)\).
+
+Use point slope form to find tangent lines.
+
+\hypertarget{derivative-of-inverse-functions}{%
+\section{Derivative of Inverse
+Functions}\label{derivative-of-inverse-functions}}
+
+\[ f^{-}'(x) = \frac{1}{f'\left(f^-(x)\right)} \]
+
+\end{document}

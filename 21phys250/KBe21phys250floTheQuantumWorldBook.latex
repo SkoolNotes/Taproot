@@ -1,0 +1,433 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Notes on The Quantum World by Kenneth W Ford }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8446)}}    % original
+%\rhead{\textrmlf{Compiled }\#8446\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8446\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{beneath-the-surface-of-things}{%
+\section{beneath the surface of
+things}\label{beneath-the-surface-of-things}}
+
+\hypertarget{scale}{%
+\subsection{scale}\label{scale}}
+
+\hypertarget{wood-seems-solid-but-is-mostly-empty-space-atoms.-quantum-effects-are-noticable-on-even-smaller-scales}{%
+\subsubsection{wood seems solid, but is mostly empty space (atoms).
+Quantum effects are noticable on even smaller
+scales}\label{wood-seems-solid-but-is-mostly-empty-space-atoms.-quantum-effects-are-noticable-on-even-smaller-scales}}
+
+Atoms are like Propeller analogy: easy for something small and fast to
+get through, but hard for something large and slow.
+
+\hypertarget{unintuitive}{%
+\subsection{unintuitive}\label{unintuitive}}
+
+Small (quantum mechanics) and fast (special relativity) things behave
+unintuitively
+
+\hypertarget{particle-history}{%
+\subsection{particle history}\label{particle-history}}
+
+\hypertarget{electron-and-proton}{%
+\subsubsection{electron and proton}\label{electron-and-proton}}
+
+known to exist in 1926
+
+\hypertarget{photon}{%
+\subsubsection{photon}\label{photon}}
+
+no mass, created/detsroyed easily, was thought of as a funky 'almost
+particle' until it was discovered that they behave similarly to
+electrons and that electrons can be created/destroyed easily too
+
+\hypertarget{fundamental-discoveries-in-1924-1928}{%
+\subsection{fundamental discoveries in
+1924-1928}\label{fundamental-discoveries-in-1924-1928}}
+
+\hypertarget{matter-has-wave-properties}{%
+\subsubsection{matter has wave
+properties}\label{matter-has-wave-properties}}
+
+\hypertarget{fundamental-laws-are-probabliistic}{%
+\subsubsection{fundamental laws are
+probabliistic}\label{fundamental-laws-are-probabliistic}}
+
+\hypertarget{heisenburg-uncertainty}{%
+\subsubsection{heisenburg uncertainty}\label{heisenburg-uncertainty}}
+
+\hypertarget{discrete-electron-spin}{%
+\subsubsection{discrete electron spin}\label{discrete-electron-spin}}
+
+\hypertarget{every-particle-has-an-antiparticle}{%
+\subsubsection{every particle has an
+antiparticle}\label{every-particle-has-an-antiparticle}}
+
+\hypertarget{multiple-momentums-simultaneously}{%
+\subsubsection{multiple momentums
+simultaneously}\label{multiple-momentums-simultaneously}}
+
+\hypertarget{no-two-electrons-can-be-in-the-same-state-of-motion-at-the-same-time}{%
+\subsubsection{no two electrons can be in the same state of motion at
+the same
+time?}\label{no-two-electrons-can-be-in-the-same-state-of-motion-at-the-same-time}}
+
+\hypertarget{unlike-classical-mechanics-properties-and-actions-are-not-as-distinct-in-the-quantum-world}{%
+\subsection{unlike classical mechanics, properties and actions are not
+as distinct in the quantum
+world}\label{unlike-classical-mechanics-properties-and-actions-are-not-as-distinct-in-the-quantum-world}}
+
+\hypertarget{quantum-mechanics-wont-follow-common-sense-which-is-to-be-expected-because-common-sense-is-based-on-much-larger-things}{%
+\subsection{quantum mechanics won't follow common sense, which is to be
+expected because common sense is based on much larger
+things}\label{quantum-mechanics-wont-follow-common-sense-which-is-to-be-expected-because-common-sense-is-based-on-much-larger-things}}
+
+\hypertarget{subatomic-vs-fundamental-particles}{%
+\subsection{subatomic vs fundamental
+particles}\label{subatomic-vs-fundamental-particles}}
+
+\hypertarget{hundreds-of-subatomic-particles-but-only-a-few-are-fundamental}{%
+\subsubsection{hundreds of subatomic particles, but only a few are
+fundamental}\label{hundreds-of-subatomic-particles-but-only-a-few-are-fundamental}}
+
+\hypertarget{most-are-composite}{%
+\subsubsection{most are composite}\label{most-are-composite}}
+
+\hypertarget{just-like-how-there-are-hundreds-of-atoms-but-they-are-all-composed-of-electrons-protons-neutrons}{%
+\subsubsection{just like how there are hundreds of atoms but they are
+all composed of electrons, protons,
+neutrons}\label{just-like-how-there-are-hundreds-of-atoms-but-they-are-all-composed-of-electrons-protons-neutrons}}
+
+\hypertarget{there-are-24-fundamental-particles-excluding-the-higgs-boson-graviton-which-is-not-yet-proven-and-antiparticles.}{%
+\subsubsection{there are 24 fundamental particles excluding the higgs
+boson, graviton (which is not yet proven), and
+antiparticles.}\label{there-are-24-fundamental-particles-excluding-the-higgs-boson-graviton-which-is-not-yet-proven-and-antiparticles.}}
+
+\hypertarget{how-small-is-small-how-fast-is-fast-scale}{%
+\section{how small is small? How fast is fast?
+(scale)}\label{how-small-is-small-how-fast-is-fast-scale}}
+
+\hypertarget{convienent-units}{%
+\subsection{convienent units}\label{convienent-units}}
+
+\hypertarget{femtometer-fm-10-15-m}{%
+\subsubsection{\texorpdfstring{femtometer (fm,
+\(10^{-15} m\))}{femtometer (fm, 10\^{}\{-15\} m)}}\label{femtometer-fm-10-15-m}}
+
+\begin{enumerate}
+\item
+  roughly a proton diameter
+\item
+  6 miles is geometrically centered between the smallest particle probe
+  and the radius of the known universe.
+\item
+  smallest prob is \(10^{-18}\) meters. The plank length is \(10^{-35}\)
+  meters
+\end{enumerate}
+
+\hypertarget{speed-of-light-c-3-times-108-ms2}{%
+\subsubsection{\texorpdfstring{speed of light (c,
+\(3 \times 10^8 m/s^2\))}{speed of light (c, 3 \textbackslash times 10\^{}8 m/s\^{}2)}}\label{speed-of-light-c-3-times-108-ms2}}
+
+\begin{enumerate}
+\item
+  not as sped as distances are small
+\item
+  atoms and molecules vibrate roughly \(10^{-5} c\) or \(10^{-6} c\)
+\item
+  the lighter something is, the faster it can go, so its likely that the
+  rest-massless photon is the fastest
+\item
+  some theoretical tachyon business which can maybe go faster
+\end{enumerate}
+
+\hypertarget{time}{%
+\subsubsection{time}\label{time}}
+
+\begin{enumerate}
+\item
+  humans
+
+  \begin{enumerate}
+  \item
+    image flashed for a hundreth of a second (10 ms) can be precieved
+    but not a thousandth
+  \item
+    average human reaction time is 150-300ms
+  \end{enumerate}
+\item
+  time to cross diameter of a proton at sped of light = \(10^{-23}s\)
+\item
+  particles that live long enough to leave trails in the detector live
+  roughly \(10^{-10}\) to \(10^{-6}\)
+\item
+  longest living is proton for 15 min (10\textsuperscript{3})
+\end{enumerate}
+
+\hypertarget{mass}{%
+\subsubsection{mass}\label{mass}}
+
+\begin{enumerate}
+\item
+  mass is inertia, measured by how hard it is to accelerate them (change
+  their motion)
+\item
+  often measured as energy via \(E = mc^2\)
+
+  \begin{enumerate}
+  \item
+    proton = 938MeV is easier to say than \(1.67\times 10^{-27}kg\)
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{electron-volt-ev-energy-auired-by-an-electron-being-accelerated-through-an-electric-potential-of-1-volt}{%
+\subsubsection{electron volt (eV, energy auired by an electron being
+accelerated through an electric potential of 1
+volt)}\label{electron-volt-ev-energy-auired-by-an-electron-being-accelerated-through-an-electric-potential-of-1-volt}}
+
+\begin{enumerate}
+\item
+  roughly a photon of red light
+\item
+  particle accelerators are made to create high energy particles that
+  can then be converted to mass
+\item
+  modern accelerators go to roughly 1TeV, while protons move with only
+  1eV on the surface of the sun and weigh almost 1GeV.
+\end{enumerate}
+
+\hypertarget{charge-e-1.6times-10-19c}{%
+\subsubsection{\texorpdfstring{charge
+(\(e, 1.6\times 10^{-19}C\))}{charge (e, 1.6\textbackslash times 10\^{}\{-19\}C)}}\label{charge-e-1.6times-10-19c}}
+
+\begin{enumerate}
+\item
+  protons and electrons have the same magnitude of charge, deemed one
+  unit. quarks have fractional charges
+\item
+  open questions
+
+  \begin{enumerate}
+  \item
+    why is charge quantized/descrete
+  \item
+    what happens near charged particles? inf charge as dist → zero
+  \item
+    if particles are physically sized, why dont parts of the particle
+    repel itself
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{spin}{%
+\subsubsection{spin}\label{spin}}
+
+\begin{enumerate}
+\item
+  two types: spin and orbital motion
+\item
+  measured with angular momentum
+\item
+  fundamental particles don't have a descernible spin but do have an
+  angular momentum
+\item
+  \(\hbar = \frac{h}{2\pi} = 1.05\times 10^{-34} kgm^2/s\)
+\item
+  orbital angular momentum must be a multiple of \(\hbar\) and spin
+  angular momentum can be a multiple of \(\frac{1}{2}\hbar\)?
+\item
+  a particle type can have many spins, but the change in spin is often
+  so drastic that they are considered two different particles
+\end{enumerate}
+
+\hypertarget{fundamental-constants}{%
+\subsubsection{fundamental constants}\label{fundamental-constants}}
+
+\begin{enumerate}
+\item
+  most units are chosen arbitrarily based on earths size or something,
+  but there are two fundamental ones
+\item
+  plank's constant \(h\) defines the quantum scale\ldots{} larger \(h\)
+  would make the universe 'lumpier' or 'more pixelated'
+\item
+  the speed of light \(c\) is the fastest speed, or something.
+\item
+  there is expceted to be a third constant to form a complete basis, but
+  we haven't found one yet
+
+  \begin{enumerate}
+  \item
+    it would be a length or a time
+  \end{enumerate}
+\end{enumerate}
+
+\end{document}

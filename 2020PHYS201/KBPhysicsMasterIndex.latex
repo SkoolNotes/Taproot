@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8388)}}    % original
-%\rhead{\textrmlf{Compiled }\#8388\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8388\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8446)}}    % original
+%\rhead{\textrmlf{Compiled }\#8446\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8446\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -294,6 +294,8 @@
 \tightlist
 \item
   {[}{[}KBhPHYS201QuantumMechanics{]}{]}
+\item
+  {[}{[}KBhPHYS201QuantumWorldBook{]}{]}
 \end{itemize}
 
 \hypertarget{references}{%

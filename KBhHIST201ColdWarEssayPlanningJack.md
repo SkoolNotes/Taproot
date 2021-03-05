@@ -176,6 +176,55 @@ More better question: how does the Cold War influence the Franco-Chinese balance
 	-  AY Zhou was even open to negotiatinos even if deBeaumarchais (deGaull + friends) wanted to maintain a Two-China policy
 
 #### Discussions with Tom
+Thesis feel... unfocused;
+
+- I am doing two things in one sentence. Should break into two sentences
+	- "How is the cold war impacting the global situation w.r.t. France + China" 
+		- => Cold war creates an **opportunity** of nationalist abmitions
+		- => Cold war creates a **sense of diplomatic timeliness (urgency)** + opportunity, which brings urgency to both affirm nationalistic values // inter. preeminence
+
+"The cold war gave an opportunity with an experiation date"
+
+Be more specific!
+
+1) In the 1960s, CW dynamics created an timely opportunity for china + us to assert national position on the international stage
+2) To do so, however, countries had to balance values and pragmatism in order to ultimately support their goal of doing so. 
+
+Pragmatism, yes, but what are the goals??
+
+But! China's actions represented a more pragmatic focus, whereas the french was guided by their strong commitment to their ideloogy.
+
+
+- Cold war makes an opporutinity
+- What each countries goals are in leveraging this opporuntiny
+- Lastly, how did China vs France balance their ideology with pragmatic consessions => how did the eventual relationship reflect
+
+
+Asserting a French power to reaffirm the "specialness" of France => nationalism! Not ideology.
+
+Maintainence of ideological commitments as a means to National preeminence => ideology is trans-national 
+
+-  France maintains ideological commitments to not appear as capitulating
+-  Disentangle nationalism from idelogy
+
+"Why is it important for the French to maintain their conservatism?"
+
+
+
+****
+
+- Cold war create an opportuntity => foregoround it with how the author is defining the cold war moment. The author is conciously decenter the cold war in order to compare China with France
+- Sino french leverage opportunity with pragmatic ways
+- Nationalism as a
+
+Finally, define the results of the focus on the sidelines of the Cold War.
+
+Engage with the projects of the author / their choince.
+
+****
+
+
+
 How does the Chinese people get sold on the idea of establishing relationships with the French? Was it authoritarianism?
 
 How does nationalism inform the decision between deGaulle and Mao? deGaulle's wish to play/dominate European politics + Mao's wish to establish "principles of equality" => both sentiments of Nationalism.

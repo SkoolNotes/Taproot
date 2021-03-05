@@ -43,10 +43,11 @@ source: #index
 - [[KBhPHYS201NuclearPhysics]] 
 
 # Relativity
-- [[KBhPHYS201SpecialRelativity]]
+- [[KBhPHYS201SpecialRelativity]] 
 
 # Quantum Mechanics
 - [[KBhPHYS201QuantumMechanics]]
+- [[KBhPHYS201QuantumWorldBook]]
 
 # References
 * [[KBPHYS201ZachsPhysicsNotesForTest]] Physics quiz Notes
