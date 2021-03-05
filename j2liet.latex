@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8449)}}    % original
-%\rhead{\textrmlf{Compiled }\#8449\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8449\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8451)}}    % original
+%\rhead{\textrmlf{Compiled }\#8451\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8451\textrmlf{ on} \today}       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -177,6 +177,7 @@
 
 ;A ;A
 
-\] \[ \]
+\]
+\[  \forall \alpha \in \FF \exists \beta \in \CC : \beta + \alpha = 0 \]
 
 \end{document}
