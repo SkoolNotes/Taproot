@@ -118,8 +118,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ iStudio }
-\newcommand{\thelesson}{ iStudio check-ins }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -140,7 +140,7 @@
   \textrmlf{ on}
       \today
   }       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -180,39 +180,8 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{log}{%
-\section{Log}\label{log}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhISTUDIO09302020LucieandTara{]}{]}
-\item
-  {[}{[}KBhISTUDIO09302020JulietandSerena{]}{]}
-\item
-  {[}{[}KbhISTUDIO10052020AksharandAnna{]}{]}
-\item
-  {[}{[}KBhISTUDIO10222020TaraandLucie{]}{]}
-\item
-  {[}{[}KBhISTUDIO10282020SerenaAndJuliet{]}{]}
-\item
-  {[}{[}KBhISTUDIO11022020AksharandAnna{]}{]}
-\item
-  {[}{[}KBhISTUDIO12022020SerenaAndJuliet{]}{]}
-\item
-  {[}{[}KBhISTUDIO12072020LucieandTara{]}{]}
-\item
-  {[}{[}KbhISTUDIO12092020AksharandAnna{]}{]}
-\item
-  {[}{[}KBhISTUDIO01112021AksharAndAnna{]}{]}
-\item
-  {[}{[}KBhISTUDIO01122020LucieandTara{]}{]}
-\item
-  {[}{[}KBhISTUDIO02082021AksharAndAnna{]}{]}
-\item
-  {[}{[}KBhISTUDIO03012021AksharAndAnna{]}{]}
-\item
-  {[}{[}KBhISTUDIO03052021SerenaAndJuliet{]}{]}
-\end{itemize}
+title: Checking
 
 \end{document}
