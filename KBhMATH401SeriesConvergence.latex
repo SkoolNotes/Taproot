@@ -130,9 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8468)}}    % original
-%\rhead{\textrmlf{Compiled }\#8468\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8468\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8469)}}    % original
+%\rhead{\textrmlf{Compiled }\#8469\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8469\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -177,5 +177,7 @@
 
 \hypertarget{series-convergence}{%
 \section{Series Convergence}\label{series-convergence}}
+
+In \(\sum_{k=0}^\inf a(r^k)\), where \$
 
 \end{document}

@@ -7,6 +7,6 @@ author: Houjun Liu
 
 # Series Convergence
 
-$\sum_{k=0}
+In $\sum_{k=0}^\infty a(r^k)$, where $|r|<1$, $\sum_{k=0}^\infty a(r^k) = \frac{a}{1-r}$ 
 
 
