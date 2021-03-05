@@ -212,7 +212,7 @@ Maintainence of ideological commitments as a means to National preeminence => id
 2) To do so, however, countries had to balance values and pragmatism in order to ultimately support their goal of doing so. 
 
 
-**Cold war dynamics of the 1960s created  of Sino-French relationships
+**Cold war dynamics of the 1960s created a timely opportunity for the development of Sino-French relationships for both states to assert their position on the international stage.
 
 ****
 
