@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8532)}}    % original
-%\rhead{\textrmlf{Compiled }\#8532\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8533)}}    % original
+%\rhead{\textrmlf{Compiled }\#8533\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8532
+  \#8533
   \textrmlf{ on}
       \today
   }       % new date
@@ -422,5 +422,7 @@ practice, does not create change. I represented this with the unchanging
 watch in the center of the frame, where even ``under twenty-three years
 of June rain,'' Rahel's ``plastic wristwatch with the time painted on it
 {[}\ldots{]} stays buried. {[}\ldots{]} Ten to two it said.''
+(citation). The passage of time fails to change the postions of the
+hands,
 
 \end{document}
