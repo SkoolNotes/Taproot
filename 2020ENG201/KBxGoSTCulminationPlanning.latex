@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8554)}}    % original
-%\rhead{\textrmlf{Compiled }\#8554\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8555)}}    % original
+%\rhead{\textrmlf{Compiled }\#8555\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8554
+  \#8555
   \textrmlf{ on}
       \today
   }       % new date
@@ -439,6 +439,6 @@ leaking leaves her wondering ``whether she would ever master the art of
 perfect preservation'' for her entire life (citation).
 
 The second way time can be frozen is best demonstrated by a quote from
-William
+William Faulkner: ``The past is never dead. It's not even past.''
 
 \end{document}
