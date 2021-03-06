@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8577)}}    % original
-%\rhead{\textrmlf{Compiled }\#8577\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8578)}}    % original
+%\rhead{\textrmlf{Compiled }\#8578\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8577
+  \#8578
   \textrmlf{ on}
       \today
   }       % new date
@@ -192,7 +192,7 @@ In \(\sum_{k=0}^n a(r^k)\),
 \(\sum_{k=0}^n a(r^k) = \frac{a-ar^{n+1}}{1-r}\)
 
 If the intergral to infinity is convergent, the sequence is convergent
-as long as the sequence is continuous and decreasing. The inverse
-applies, too.
+as long as the sequence is continuous, positive, and decreasing. The
+inverse applies, too.
 
 \end{document}
