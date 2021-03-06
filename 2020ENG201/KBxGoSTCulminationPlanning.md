@@ -210,8 +210,9 @@ waiting is the only place where we are aware of time?
 
 rahels watch has drawn on hands.
 
+time is frozen.
 
-
+frozen in two ways,
 
 
 

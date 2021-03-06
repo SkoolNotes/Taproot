@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8491)}}    % original
-%\rhead{\textrmlf{Compiled }\#8491\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8492)}}    % original
+%\rhead{\textrmlf{Compiled }\#8492\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8491
+  \#8492
   \textrmlf{ on}
       \today
   }       % new date
@@ -358,5 +358,9 @@ waiting is the only place where we are aware of time?
 \subsection{here we are, outlining.}\label{here-we-are-outlining.}}
 
 rahels watch has drawn on hands.
+
+time is frozen.
+
+frozen in two ways,
 
 \end{document}
