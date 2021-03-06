@@ -231,7 +231,7 @@ always leaking pickle jars
 
 "the past insnt dead. it isnt even past." faulker
 
-
+the past traps us. 
 
 
 
