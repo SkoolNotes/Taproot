@@ -226,8 +226,7 @@ caste system, not escaped even in communist ranks.
 
 baby kochamma and her love
 
-chacko, 
-
+always leaking picke jars
 
 
 
