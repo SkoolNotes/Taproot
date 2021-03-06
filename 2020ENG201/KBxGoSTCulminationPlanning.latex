@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8517)}}    % original
-%\rhead{\textrmlf{Compiled }\#8517\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8518)}}    % original
+%\rhead{\textrmlf{Compiled }\#8518\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8517
+  \#8518
   \textrmlf{ on}
       \today
   }       % new date
@@ -410,6 +410,8 @@ repeated, ``it was ten to two,''(citation) is not ten before two, ten
 till two, or even 1:50. Instead, it is deliberately chosen to be ``ten
 to two,'' which could easily be misinterpreted as ten two two. But it
 doesn't matter, and that's the point. Frozen time is practically an
-oxymoron; time has become meaningless.
+oxymoron; time has become meaningless. Furthermore, the book reads ``it
+was,'' asserting that the watch is correct about the time. Time has lost
+it's meaning
 
 \end{document}
