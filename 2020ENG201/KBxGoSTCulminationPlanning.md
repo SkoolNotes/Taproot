@@ -201,6 +201,9 @@ grass has grown, time has passed.
 ten too two, could be ten two two
 when time is frozen, it becomes meaningless.
 
+she only mentions it in the point when she is waiting! what does that mean
+
+waiting is the only place where we are aware of time?
 
 
 ## here we are, outlining.
