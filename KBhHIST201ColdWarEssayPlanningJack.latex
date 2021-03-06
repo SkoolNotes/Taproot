@@ -17,6 +17,8 @@
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
 
+\usepackage{lastpage}
+
 \usepackage{enumitem}
 \setlistdepth{9}
 
@@ -130,11 +132,16 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8467)}}    % original
-%\rhead{\textrmlf{Compiled }\#8467\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8467\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8579)}}    % original
+%\rhead{\textrmlf{Compiled }\#8579\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#8579
+  \textrmlf{ on}
+      \today
+  }       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -262,9 +269,8 @@ your region?
   the old nationalist aim ofrestoring China to its former glory and
   greatness in international relations; it also conveyed the aspiration
   ofthe Communist leaders to obtain recognition from non-Communist
-  states, based on the ``principles of equality''" AD
-\item
-  ``The PRC explicitly warned the Soviet Union against assuming legal
+  states, based on the ``principles of equality''" AD n- ``The PRC
+  explicitly warned the Soviet Union against assuming legal
   ``responsibilities in lieu of China. Even now, decades after the
   signing of the LTBT, Chinese publications still claim that the treaty
   deprived the PRC ofthe right to develop and test nuclear weapons.'' AE
