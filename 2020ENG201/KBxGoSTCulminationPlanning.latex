@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8506)}}    % original
-%\rhead{\textrmlf{Compiled }\#8506\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8507)}}    % original
+%\rhead{\textrmlf{Compiled }\#8507\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8506
+  \#8507
   \textrmlf{ on}
       \today
   }       % new date
@@ -384,5 +384,8 @@ changed.
 
 the watch is only mentioned when rahel is waiting, which is when we are
 aware of time. time is still passing, but the past is never gone.
+
+it's at the history house, history all about the pasts effect on the
+future.
 
 \end{document}
