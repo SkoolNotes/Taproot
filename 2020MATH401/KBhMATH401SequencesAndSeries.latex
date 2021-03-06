@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8571)}}    % original
-%\rhead{\textrmlf{Compiled }\#8571\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8572)}}    % original
+%\rhead{\textrmlf{Compiled }\#8572\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8571
+  \#8572
   \textrmlf{ on}
       \today
   }       % new date
@@ -185,7 +185,9 @@
 \hypertarget{talor-series-expansions}{%
 \section{Talor Series Expansions}\label{talor-series-expansions}}
 
-\hypertarget{partia}{%
-\section{Partia}\label{partia}}
+\hypertarget{partial-sums}{%
+\section{Partial Sums}\label{partial-sums}}
+
+Partial sum \(S_n\) of a set, \(S_n = \frac{n^2-3}{n^3+4}\)
 
 \end{document}

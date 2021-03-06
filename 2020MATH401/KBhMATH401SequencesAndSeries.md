@@ -7,7 +7,8 @@ source: KBhMATH401SubIndex
 
 # Talor Series Expansions
 
-# Partia
+# Partial Sums
+Partial sum $S_n$ of a set, $S_n = \frac{n^2-3}{n^3+4}$
 
 
 
