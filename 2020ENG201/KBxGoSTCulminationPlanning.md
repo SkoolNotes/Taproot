@@ -255,6 +255,9 @@ Frozen time can take primarily two meanings, both of which appear in the book. T
 
 The second way time can be frozen is best demonstrated by a quote from William Faulkner: "The past is never dead. It's not even past." The past stays with us in the sense that we can never escape its effects. I chose to represent this with the grass growing. The world is not frozen, time still passes, and yet, the watch remains; untouched, trapped. This sense of frozen time also appears throughout the book. The phrase "ten to two" only ever appears when Rahel is waiting. The very first use of the phrase appears while in the train station: "The Waiting filled Rahel until she was ready to burst. She looked at her watch. It was ten to two." (citation). When one is waiting, they are acutely aware of the time. Time is passing, and yet it remains ten to two. The one time the phrase appears when Rahel is not waiting is when the watch is left at the History House. History itself is about the past and its impacts, ones we can never escape. Estha becomes mute because of his past trauma, 
 
+Once the quietness arrived, it stayed and spread in
+
+Estha.
 
 
 Wether it's waiting for a train, 
