@@ -205,6 +205,8 @@ she only mentions it in the point when she is waiting! what does that mean
 
 waiting is the only place where we are aware of time?
 
+second definition, aware of time, but still unable to move past.
+
 
 ## here we are, outlining.
 
