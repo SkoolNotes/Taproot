@@ -216,11 +216,11 @@ time is frozen.
 
 frozen can be two ways:
 
-unable to be changed, and 
+unable to be changed, and unable to escape the past.
 
 
 
-
+unable to be changed. represented by the unchanging w
 
 
 
