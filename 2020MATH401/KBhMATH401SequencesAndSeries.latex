@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8572)}}    % original
-%\rhead{\textrmlf{Compiled }\#8572\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8575)}}    % original
+%\rhead{\textrmlf{Compiled }\#8575\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8572
+  \#8575
   \textrmlf{ on}
       \today
   }       % new date
@@ -188,6 +188,8 @@
 \hypertarget{partial-sums}{%
 \section{Partial Sums}\label{partial-sums}}
 
-Partial sum \(S_n\) of a set, \(S_n = \frac{n^2-3}{n^3+4}\)
+Calculating partial sums of a series
+
+{[}{[}Pasted image 20210306075949.png{]}{]}
 
 \end{document}
