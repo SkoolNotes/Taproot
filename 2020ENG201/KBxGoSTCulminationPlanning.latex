@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8509)}}    % original
-%\rhead{\textrmlf{Compiled }\#8509\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8510)}}    % original
+%\rhead{\textrmlf{Compiled }\#8510\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8509
+  \#8510
   \textrmlf{ on}
       \today
   }       % new date
@@ -390,5 +390,7 @@ future.
 
 \hypertarget{batman-begins.}{%
 \subsection{batman begins.}\label{batman-begins.}}
+
+Link!
 
 \end{document}
