@@ -253,7 +253,7 @@ For my creative project, I chose to create a rendition of Rahel's watch. I made 
 
 Frozen time can take primarily two meanings, both of which appear in the book. The first meaning is that time simply does not pass, or in practice, does not create change. I represented this with the unchanging watch in the center of the frame, where even "under twenty-three years of June rain," Rahel's "plastic wristwatch with the time painted on it [...] stays buried. [...] Ten to two it said." (citation). The passage of time fails to change the positions of the hands, just as it fails to change much else in the book. Immutable or unchanging things are, in a sense, frozen in time. This theme of immutability appears often throughout the book, perhaps most apparently with the caste system. Despite Velutha's infinite kindness, he is still beaten to death. Even the communist party, described as "a cocktail revolution," is prejudiced against low class members. (citation) Even when the ideology directly contradicts it, the caste system is still unchanged; it is frozen in time. This theme appears again with Baby Kochamma's love for Father Mulligan, when even "Father Mulligan’s death did not alter the text of the entries in Baby Kochamma’s diary," all declaring her love (citation). The theme even sneaks into smaller instances, such as Mammachi's inability to stop her pickle jars from leaking leaves her wondering "whether she would ever master the art of perfect preservation" for her entire life (citation).
 
-The second way time can be frozen is best demonstrated by
+The second way time can be frozen is best demonstrated by a quote from William  
 
 
 
