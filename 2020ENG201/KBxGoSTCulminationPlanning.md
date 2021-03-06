@@ -231,7 +231,7 @@ always leaking pickle jars
 
 "the past insnt dead. it isnt even past." faulker
 
-the past traps us. 
+the past traps us. estha cannot move on. everyones lives are forever changed.
 
 
 
