@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8527)}}    % original
-%\rhead{\textrmlf{Compiled }\#8527\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8528)}}    % original
+%\rhead{\textrmlf{Compiled }\#8528\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8527
+  \#8528
   \textrmlf{ on}
       \today
   }       % new date
@@ -417,6 +417,8 @@ sense of the word, becomes meaningless, arbitrary, and changeable. But
 this begs the question, what does frozen time mean?
 
 Frozen time can take primarily two meanings, both of which appear in the
-book. The first meaning is that time simply does not pass.
+book. The first meaning is that time simply does not pass, or in
+practice, does not create change. I represented this with the unchanging
+watch
 
 \end{document}
