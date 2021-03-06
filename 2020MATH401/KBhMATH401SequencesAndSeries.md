@@ -16,3 +16,4 @@ Calculating partial sums of a series
 
 
 
+
