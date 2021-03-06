@@ -235,7 +235,8 @@ represented by the grass growing.
 
 the past traps us. estha cannot move on. everyones lives are forever changed.
 
-
+the watch is only mentioned when rahel is waiting, which is when we are aware of time. 
+time is still passing, 
 
 
 
