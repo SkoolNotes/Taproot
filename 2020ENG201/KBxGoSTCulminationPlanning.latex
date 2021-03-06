@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8522)}}    % original
-%\rhead{\textrmlf{Compiled }\#8522\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8523)}}    % original
+%\rhead{\textrmlf{Compiled }\#8523\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8522
+  \#8523
   \textrmlf{ on}
       \today
   }       % new date
@@ -415,7 +415,5 @@ was,'' asserting that the watch is correct about the time, which of
 course, it isn't. Time has become frozen, and thus, in the classical
 sense of the word, becomes meaningless, arbitrary, and changeable. But
 this begs the question, what does frozen time mean?
-
-Time has lost it's meaning
 
 \end{document}
