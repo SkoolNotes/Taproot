@@ -226,10 +226,10 @@ caste system, not escaped even in communist ranks.
 
 baby kochamma and her love
 
-always leaking picke jars
+always leaking pickle jars
 
 
-
+"the past insnt dead. it isnt even past." faulker
 
 
 
