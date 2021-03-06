@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8488)}}    % original
-%\rhead{\textrmlf{Compiled }\#8488\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8489)}}    % original
+%\rhead{\textrmlf{Compiled }\#8489\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8488
+  \#8489
   \textrmlf{ on}
       \today
   }       % new date
@@ -348,5 +348,8 @@ grass has grown, time has passed.
 
 ten too two, could be ten two two when time is frozen, it becomes
 meaningless.
+
+\hypertarget{here-we-are-outlining.}{%
+\subsection{here we are, outlining.}\label{here-we-are-outlining.}}
 
 \end{document}

@@ -203,9 +203,9 @@ when time is frozen, it becomes meaningless.
 
 
 
+## here we are, outlining.
 
-
-
+rahels watch is frozen.
 
 
 
