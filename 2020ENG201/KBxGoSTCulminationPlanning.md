@@ -220,9 +220,9 @@ unable to be changed, and unable to escape the past.
 
 
 
-unable to be changed. represented by the unchanging w
+unable to be changed. represented by the unchanging discarded watch. 
 
-
+caste system
 
 
 
