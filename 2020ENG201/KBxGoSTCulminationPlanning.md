@@ -199,7 +199,7 @@ grass has grown, time has passed.
 
 
 ten too two, could be ten two two
-when time is frozen, it becomes meaningling.
+when time is frozen, it becomes meaningless.
 
 
 
