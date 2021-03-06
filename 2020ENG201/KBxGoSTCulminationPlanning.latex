@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8510)}}    % original
-%\rhead{\textrmlf{Compiled }\#8510\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8511)}}    % original
+%\rhead{\textrmlf{Compiled }\#8511\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8510
+  \#8511
   \textrmlf{ on}
       \today
   }       % new date
@@ -392,5 +392,7 @@ future.
 \subsection{batman begins.}\label{batman-begins.}}
 
 Link!
+
+For my creative project, I chose to create a
 
 \end{document}
