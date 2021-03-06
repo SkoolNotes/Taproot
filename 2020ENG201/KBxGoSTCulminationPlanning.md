@@ -249,7 +249,7 @@ it's at the history house, history all about the pasts effect on the future.
 Link!
 
 
-For my creative project, I chose to create a 
+For my creative project, I chose to create a rendition of Rahel's watch. I made my model as close as possible to how Rahel's watch is described in the novel, from the toy-like shoddy manufacturing to the painted on hands. These hands are placed at ten to two, a phrased frequently repeated throughout the entire novel. Of course, a watch with painted on hands defeats the very purpose of a watch; after all, how can it tell the time if it never changes? Rahel wants to "own a watch on which she could change the time whenever she wanted to (which according to her was what Time was meant for in the first place)." (citation). Arundhati Roy, the author of the book and the constructor of its world, does just this. The story is told non-linearly; the laws of Time are changed and broken constantly, whenever Roy wants to. 
 
 
 
