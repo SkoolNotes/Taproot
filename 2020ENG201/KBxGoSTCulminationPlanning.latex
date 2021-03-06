@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8485)}}    % original
-%\rhead{\textrmlf{Compiled }\#8485\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8486)}}    % original
+%\rhead{\textrmlf{Compiled }\#8486\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8485
+  \#8486
   \textrmlf{ on}
       \today
   }       % new date
@@ -345,5 +345,8 @@ time does not pass, and past stays with us.
 the past vs past, time vs Time
 
 grass has grown, time has passed.
+
+ten too two, could be ten two two when time is frozen, it becomes
+meaningling.
 
 \end{document}
