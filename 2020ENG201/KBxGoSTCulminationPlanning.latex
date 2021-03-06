@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8530)}}    % original
-%\rhead{\textrmlf{Compiled }\#8530\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8531)}}    % original
+%\rhead{\textrmlf{Compiled }\#8531\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8530
+  \#8531
   \textrmlf{ on}
       \today
   }       % new date
@@ -420,6 +420,6 @@ Frozen time can take primarily two meanings, both of which appear in the
 book. The first meaning is that time simply does not pass, or in
 practice, does not create change. I represented this with the unchanging
 watch in the center of the frame, where even ``under twenty-three years
-of June rain,''
+of June rain,'' the watch still stay
 
 \end{document}
