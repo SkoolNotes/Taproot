@@ -5,4 +5,9 @@ course: MATH401
 source: KBhMATH401SubIndex
 ---
 
+# Talor Series Expansions
+
+# Partia
+
+
 

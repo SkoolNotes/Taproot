@@ -13,6 +13,6 @@ source: KBCalculusMasterIndex
 - [[KBhMATH401Derivatives]]
 - [[KBhMATH401Intergrals]]
 - [[KBhMATH401TaylorSeriesApprox]]
-- [[KBhMATH401TalorSeriesExpansions]] 
+- [[KBhMATH401SequencesAndSeries]] 
 - [[KBhMATH401SeriesConvergence]]
 
