@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8489)}}    % original
-%\rhead{\textrmlf{Compiled }\#8489\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8490)}}    % original
+%\rhead{\textrmlf{Compiled }\#8490\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8489
+  \#8490
   \textrmlf{ on}
       \today
   }       % new date
@@ -351,5 +351,7 @@ meaningless.
 
 \hypertarget{here-we-are-outlining.}{%
 \subsection{here we are, outlining.}\label{here-we-are-outlining.}}
+
+rahels watch has drawn on hands.
 
 \end{document}
