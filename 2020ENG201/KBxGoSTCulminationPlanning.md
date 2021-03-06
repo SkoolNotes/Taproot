@@ -214,9 +214,9 @@ rahels watch has drawn on hands.
 
 time is frozen.
 
-frozen in two ways,
+frozen can be two ways:
 
-
+unable to be changed, and 
 
 
 
