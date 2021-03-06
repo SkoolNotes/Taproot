@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8513)}}    % original
-%\rhead{\textrmlf{Compiled }\#8513\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8514)}}    % original
+%\rhead{\textrmlf{Compiled }\#8514\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8513
+  \#8514
   \textrmlf{ on}
       \today
   }       % new date
@@ -406,6 +406,6 @@ Roy, the author of the book and the constructor of its world, does just
 this. The story is told non-linearly; the laws of Time are changed and
 broken constantly, whenever Roy wants to. The passage of time becomes
 almost meaningless, as the story is not about chronology. The phrase
-repeated is "
+repeated is ``ten to two.''
 
 \end{document}
