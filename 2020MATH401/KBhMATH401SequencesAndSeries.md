@@ -17,7 +17,11 @@ Calculating partial sums of a series
 
 
 ## Power Series
-$\sum^{\infty}_{n=1} \frac{1}{}
+$\sum^{\infty}_{n=1} \frac{1}{n^p}$
+
+If a p-series has a p > 1, the p-series will converge
+
+If a p-series has a p <= 1, the p-series will diverge
 
 
 

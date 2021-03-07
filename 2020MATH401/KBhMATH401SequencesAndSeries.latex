@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8600)}}    % original
-%\rhead{\textrmlf{Compiled }\#8600\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8601)}}    % original
+%\rhead{\textrmlf{Compiled }\#8601\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8600
+  \#8601
   \textrmlf{ on}
       \today
   }       % new date
@@ -197,6 +197,10 @@ Calculating partial sums of a series
 \hypertarget{power-series}{%
 \subsection{Power Series}\label{power-series}}
 
-\$\sum\^{}\{\infty\}\_\{n=1\} \frac{1}{}
+\(\sum^{\infty}_{n=1} \frac{1}{n^p}\)
+
+If a p-series has a p \textgreater{} 1, the p-series will converge
+
+If a p-series has a p \textless= 1, the p-series will diverge
 
 \end{document}
