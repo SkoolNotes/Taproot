@@ -13,7 +13,11 @@ Calculating partial sums of a series
 ![[Pasted image 20210306075949.png]]
 
 
+![[Pasted image 20210307095925.png]]
 
+
+## Power Series
+$\sum^{\infty}_{n=1} \frac{1}{}
 
 
 
