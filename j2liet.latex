@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8590)}}    % original
-%\rhead{\textrmlf{Compiled }\#8590\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8591)}}    % original
+%\rhead{\textrmlf{Compiled }\#8591\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8590
+  \#8591
   \textrmlf{ on}
       \today
   }       % new date
@@ -182,7 +182,7 @@
 
 hello? Is anyone home?
 
-\$ LaTeX in a math block\$
+\(\LaTeX in a math block\)
 
 LaTeX outside
 
