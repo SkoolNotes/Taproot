@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8592)}}    % original
-%\rhead{\textrmlf{Compiled }\#8592\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8593)}}    % original
+%\rhead{\textrmlf{Compiled }\#8593\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8592
+  \#8593
   \textrmlf{ on}
       \today
   }       % new date
@@ -187,5 +187,9 @@ hello? Is anyone home?
 LaTeX outside
 
 \[ a^e a \times b \frac{c}{d} \]
+
+\[
+e^{i \pi} -1 = 0
+\]
 
 \end{document}
