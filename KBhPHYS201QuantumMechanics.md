@@ -54,6 +54,6 @@ $E_{photon} = h \times f$
 
 Instead of Hertz, however, the frequency of F could better be represented with $\omega$, a unit of $\frac{radians}{sec}$ that is derived as $2 \pi f (\frac{radians}{s})$
 
-So to calculate energy with $\omega$, simply use $\ba
+So to calculate energy with $\omega$, simply use $\bar{h} = \frac{h}{2\pi}$ and so $E = \bar{h}\omega$
 
 ![[Pasted image 20210308111422.png]]
