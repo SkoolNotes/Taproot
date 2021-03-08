@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8697)}}    % original
-%\rhead{\textrmlf{Compiled }\#8697\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8698)}}    % original
+%\rhead{\textrmlf{Compiled }\#8698\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8697
+  \#8698
   \textrmlf{ on}
       \today
   }       % new date
@@ -381,7 +381,9 @@ masses are actually pretty large with the eV unit.
   Angular momentum is used to measure both orbital motion and rotation
   on one's own axis
 \item
-  Fundemental particles have angular momentum, but a
+  Fundemental particles have measurable angular momentum, but a rate of
+  rotation cannot be specified
+\item
 \end{itemize}
 
 \end{document}
