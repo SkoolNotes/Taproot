@@ -104,4 +104,6 @@ Taking the angle, and dividing it by 3000, which is $\frac{1}{60}$ degrees.
 Even though Plank's constant is a tiny number, it effects how sharply you eyes could see b/c of this uncertainty.
 
 
-There are three "flavor"s of Leptons, each with two variations — creating six different le
+There are three "flavor"s of Leptons, each with two variations — creating six different leptons. 
+
+Lepton => "small", but they are not actually that small as what their original namer had suggested.

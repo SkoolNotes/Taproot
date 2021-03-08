@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8743)}}    % original
-%\rhead{\textrmlf{Compiled }\#8743\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8744)}}    % original
+%\rhead{\textrmlf{Compiled }\#8744\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8743
+  \#8744
   \textrmlf{ on}
       \today
   }       % new date
@@ -311,6 +311,9 @@ Even though Plank's constant is a tiny number, it effects how sharply
 you eyes could see b/c of this uncertainty.
 
 There are three ``flavor''s of Leptons, each with two variations ---
-creating six different le
+creating six different leptons.
+
+Lepton =\textgreater{} ``small'', but they are not actually that small
+as what their original namer had suggested.
 
 \end{document}
