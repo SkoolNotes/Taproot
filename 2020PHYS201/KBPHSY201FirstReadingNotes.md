@@ -28,4 +28,5 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
  - The only viable way to measure distances that small are through scattering experiments involving shooting electrons at say a proton and observing the scatter pattern
 	 - The diameter of 1 proton is approximately 1 fermi
  - Short Wavelengths can also be observed to estimate the size of such small particles
- - The Planck size 
+ - The Planck size is the smallest meaningful distance before spacetime breaks down into quantum foam
+ - 

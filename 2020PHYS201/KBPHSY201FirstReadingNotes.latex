@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8671)}}    % original
-%\rhead{\textrmlf{Compiled }\#8671\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8672)}}    % original
+%\rhead{\textrmlf{Compiled }\#8672\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8671
+  \#8672
   \textrmlf{ on}
       \today
   }       % new date
@@ -250,7 +250,9 @@ masses are actually pretty large with the eV unit.
   Short Wavelengths can also be observed to estimate the size of such
   small particles
 \item
-  The Planck size
+  The Planck size is the smallest meaningful distance before spacetime
+  breaks down into quantum foam
+\item
 \end{itemize}
 
 \end{document}
