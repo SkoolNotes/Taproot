@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8686)}}    % original
-%\rhead{\textrmlf{Compiled }\#8686\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8687)}}    % original
+%\rhead{\textrmlf{Compiled }\#8687\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8686
+  \#8687
   \textrmlf{ on}
       \today
   }       % new date
@@ -332,6 +332,15 @@ Distance}\label{relative-scales-distance}}
   \tightlist
   \item
     Rest mas is different from mass
+  \end{itemize}
+\item
+  Mass represents a highly concentrated form of energy
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A little mass leads to a lot of energy while a lot of energy can
+    yield a little mass
   \end{itemize}
 \item
 \end{itemize}

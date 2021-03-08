@@ -51,4 +51,6 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
  - Energy and its conservation make it perhaps one of the most important things in physics
  - Kinetic energy and mass energy are the most important types when it comes to particles
 	 - Rest mas is different from mass
+ - Mass represents a highly concentrated form of energy
+	 - A little mass leads to a lot of energy while a lot of energy can yield a little mass
  - 
