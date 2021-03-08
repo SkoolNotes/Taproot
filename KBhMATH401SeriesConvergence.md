@@ -13,4 +13,6 @@ In $\sum_{k=0}^n a(r^k)$,  $\sum_{k=0}^n a(r^k) = \frac{a-ar^{n+1}}{1-r}$
 
 If the intergral to infinity is convergent, the sequence is convergent as long as the sequence is continuous, positive, and decreasing. The inverse applies, too.
 
+![[Pasted image 20210308082201.png]]
 
+$
