@@ -19,5 +19,9 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 
 **Particle Masses** can also be expressed in eV units. Particle masses are actually pretty large with the eV unit.
 
-
+### Relative Scales
+ - The nucleus takes up a very small amount of a particle
+	 - Comparison drawn here is a basketball in an airport for a large nucleus and a golf ball for smaller ones
+ - Electrons occupy in a probability distribution the rest of the space more or less
+ - 
 

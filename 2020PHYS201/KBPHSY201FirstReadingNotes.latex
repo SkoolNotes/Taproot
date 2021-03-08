@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8623)}}    % original
-%\rhead{\textrmlf{Compiled }\#8623\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8624)}}    % original
+%\rhead{\textrmlf{Compiled }\#8624\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8623
+  \#8624
   \textrmlf{ on}
       \today
   }       % new date
@@ -216,5 +216,25 @@ For \textbf{speed} we use fractions of the speed of light c
 
 \textbf{Particle Masses} can also be expressed in eV units. Particle
 masses are actually pretty large with the eV unit.
+
+\hypertarget{relative-scales}{%
+\subsubsection{Relative Scales}\label{relative-scales}}
+
+\begin{itemize}
+\tightlist
+\item
+  The nucleus takes up a very small amount of a particle
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Comparison drawn here is a basketball in an airport for a large
+    nucleus and a golf ball for smaller ones
+  \end{itemize}
+\item
+  Electrons occupy in a probability distribution the rest of the space
+  more or less
+\item
+\end{itemize}
 
 \end{document}
