@@ -107,3 +107,6 @@ Even though Plank's constant is a tiny number, it effects how sharply you eyes c
 There are three "flavor"s of Leptons, each with two variations — creating six different leptons. 
 
 Lepton => "small", but they are not actually that small as what their original namer had suggested.
+
+## Famous Leptions
+- The Electron

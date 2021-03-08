@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8744)}}    % original
-%\rhead{\textrmlf{Compiled }\#8744\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8745)}}    % original
+%\rhead{\textrmlf{Compiled }\#8745\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8744
+  \#8745
   \textrmlf{ on}
       \today
   }       % new date
@@ -315,5 +315,14 @@ creating six different leptons.
 
 Lepton =\textgreater{} ``small'', but they are not actually that small
 as what their original namer had suggested.
+
+\hypertarget{famous-leptions}{%
+\subsection{Famous Leptions}\label{famous-leptions}}
+
+\begin{itemize}
+\tightlist
+\item
+  The Electron
+\end{itemize}
 
 \end{document}
