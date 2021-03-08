@@ -27,6 +27,7 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
  - Electrons occupy in a probability distribution the rest of the space more or less
  - The only viable way to measure distances that small are through scattering experiments involving shooting electrons at say a proton and observing the scatter pattern
 	 - The diameter of 1 proton is approximately 1 fermi
+ - We live in a relative distance average
  - Short Wavelengths can also be observed to estimate the size of such small particles
  - The Planck size is the smallest meaningful distance before spacetime breaks down into quantum foam
 
@@ -37,4 +38,6 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 	 - However, physicists have studied the Tachyon which is theoretically capable of doing so but has not been discovered and also creates strange circumstances
 
 ### Relative Scales Time
- - 
+ - The longest known time is the lifespan of the universe
+	 - This is currently estimated to be about 13.7 billion years
+	 - 

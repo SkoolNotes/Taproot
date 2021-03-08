@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8678)}}    % original
-%\rhead{\textrmlf{Compiled }\#8678\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8679)}}    % original
+%\rhead{\textrmlf{Compiled }\#8679\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8678
+  \#8679
   \textrmlf{ on}
       \today
   }       % new date
@@ -248,6 +248,8 @@ Distance}\label{relative-scales-distance}}
     The diameter of 1 proton is approximately 1 fermi
   \end{itemize}
 \item
+  We live in a relative distance average
+\item
   Short Wavelengths can also be observed to estimate the size of such
   small particles
 \item
@@ -286,6 +288,14 @@ Distance}\label{relative-scales-distance}}
 \begin{itemize}
 \tightlist
 \item
+  The longest known time is the lifespan of the universe
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is currently estimated to be about 13.7 billion years
+  \item
+  \end{itemize}
 \end{itemize}
 
 \end{document}
