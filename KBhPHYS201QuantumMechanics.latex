@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8745)}}    % original
-%\rhead{\textrmlf{Compiled }\#8745\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8746)}}    % original
+%\rhead{\textrmlf{Compiled }\#8746\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8745
+  \#8746
   \textrmlf{ on}
       \today
   }       % new date
@@ -323,6 +323,14 @@ as what their original namer had suggested.
 \tightlist
 \item
   The Electron
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Dirac's equations predicted the existance of a certain ``positiron''
+    which would be the oppostite of an electron.
+  \end{itemize}
+\item
 \end{itemize}
 
 \end{document}

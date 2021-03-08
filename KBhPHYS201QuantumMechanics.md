@@ -109,4 +109,6 @@ There are three "flavor"s of Leptons, each with two variations — creating six 
 Lepton => "small", but they are not actually that small as what their original namer had suggested.
 
 ## Famous Leptions
-- The Electron
+- The Electron 
+	- Dirac's equations predicted the existance of a certain "positiron" which would be the oppostite of an electron. 
+- 
