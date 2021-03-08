@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8695)}}    % original
-%\rhead{\textrmlf{Compiled }\#8695\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8696)}}    % original
+%\rhead{\textrmlf{Compiled }\#8696\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8695
+  \#8696
   \textrmlf{ on}
       \today
   }       % new date
@@ -377,6 +377,7 @@ masses are actually pretty large with the eV unit.
 \item
   Spin occurs with anything from the largest galaxies down to the
   smallest particles
+\item
 \end{itemize}
 
 \end{document}
