@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8652)}}    % original
-%\rhead{\textrmlf{Compiled }\#8652\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8653)}}    % original
+%\rhead{\textrmlf{Compiled }\#8653\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8652
+  \#8653
   \textrmlf{ on}
       \today
   }       % new date
