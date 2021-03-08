@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8679)}}    % original
-%\rhead{\textrmlf{Compiled }\#8679\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8680)}}    % original
+%\rhead{\textrmlf{Compiled }\#8680\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8679
+  \#8680
   \textrmlf{ on}
       \today
   }       % new date
@@ -294,8 +294,21 @@ Distance}\label{relative-scales-distance}}
   \tightlist
   \item
     This is currently estimated to be about 13.7 billion years
-  \item
   \end{itemize}
+\item
+  The speed of light is the natural link between distance and time
+  measurements
+\end{itemize}
+
+\hypertarget{relative-scales-mass}{%
+\subsubsection{Relative Scales Mass}\label{relative-scales-mass}}
+
+\begin{itemize}
+\tightlist
+\item
+  Mass is a measure of inertia meaning how hard something is to
+  accelerate
+\item
 \end{itemize}
 
 \end{document}

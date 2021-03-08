@@ -40,4 +40,8 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 ### Relative Scales Time
  - The longest known time is the lifespan of the universe
 	 - This is currently estimated to be about 13.7 billion years
-	 - 
+ - The speed of light is the natural link between distance and time measurements
+
+### Relative Scales Mass
+ - Mass is a measure of inertia meaning how hard something is to accelerate
+ - 
