@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8621)}}    % original
-%\rhead{\textrmlf{Compiled }\#8621\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8622)}}    % original
+%\rhead{\textrmlf{Compiled }\#8622\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8621
+  \#8622
   \textrmlf{ on}
       \today
   }       % new date
@@ -213,5 +213,7 @@ For \textbf{speed} we use fractions of the speed of light c
 \textasciitilde{}\(3*10^{8}m/s\)
 
 \textbf{Volts} are used for charge.
+
+\textbf{Particle Masses} can also be expressed in eV units
 
 \end{document}
