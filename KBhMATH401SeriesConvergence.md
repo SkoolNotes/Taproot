@@ -26,4 +26,6 @@ If a p-series has a p <= 1, the p-series will diverge
 
 ![[Pasted image 20210308082201.png]]
 
+A lso, if $\lim_{n \to \infty} \frac{a_n}{b_n} = C\ (0<c<\infty)$, the two series will either both converge or both diverge. So you only need to test one.
+
 Provided that $a_n,b_n \geq 0\ \&\ a_n \leq b_n$

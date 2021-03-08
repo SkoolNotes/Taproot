@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8708)}}    % original
-%\rhead{\textrmlf{Compiled }\#8708\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8709)}}    % original
+%\rhead{\textrmlf{Compiled }\#8709\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8708
+  \#8709
   \textrmlf{ on}
       \today
   }       % new date
@@ -210,6 +210,10 @@ If a p-series has a p \textless= 1, the p-series will diverge
 {[}{[}Pasted image 20210308082352.png{]}{]}
 
 {[}{[}Pasted image 20210308082201.png{]}{]}
+
+A lso, if \(\lim_{n \to \infty} \frac{a_n}{b_n} = C\ (0<c<\infty)\), the
+two series will either both converge or both diverge. So you only need
+to test one.
 
 Provided that \(a_n,b_n \geq 0\ \&\ a_n \leq b_n\)
 
