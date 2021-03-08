@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8603)}}    % original
-%\rhead{\textrmlf{Compiled }\#8603\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8604)}}    % original
+%\rhead{\textrmlf{Compiled }\#8604\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8603
+  \#8604
   \textrmlf{ on}
       \today
   }       % new date
@@ -182,6 +182,13 @@
 \textbf{Source}:\thinspace
 {\href{http://taproot.shabang.cf/relay?request=KBPhysicsMasterIndex}{\tiny\textulf{[[}\textbf{KBPhysicsMasterIndex}\textulf{]]}}}\thinspace
 
+\hypertarget{first-reading-ch1-ch2}{%
+\subsection{First Reading (Ch1-Ch2)}\label{first-reading-ch1-ch2}}
 
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KB{]}{]}
+\end{itemize}
 
 \end{document}
