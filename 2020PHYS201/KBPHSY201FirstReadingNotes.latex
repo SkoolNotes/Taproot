@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8625)}}    % original
-%\rhead{\textrmlf{Compiled }\#8625\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8626)}}    % original
+%\rhead{\textrmlf{Compiled }\#8626\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8625
+  \#8626
   \textrmlf{ on}
       \today
   }       % new date
@@ -242,8 +242,9 @@ masses are actually pretty large with the eV unit.
   \begin{itemize}
   \tightlist
   \item
-    The distance of 1 proton is approximately 1 fermi
+    The diameter of 1 proton is approximately 1 fermi
   \end{itemize}
+\item
 \end{itemize}
 
 \end{document}
