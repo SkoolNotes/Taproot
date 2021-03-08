@@ -75,7 +75,7 @@ As long as the units of two deltas end up as $J \times s$, they would be related
 
 
 
-**For instance, $\Delta \vec{p} \times \Delta \vec{x} \approx \bar{h}$.**
+ THIS IS IMPORTANT, TOO! **For instance, $\Delta \vec{p} \times \Delta \vec{x} \approx \bar{h}$.**
 
 
 
