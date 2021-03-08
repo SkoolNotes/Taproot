@@ -5,4 +5,5 @@ course: PHYS201
 source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
 ---
 
-# How Small is Small?
+# Large 
+ - Scientific notation is required due to how small particles are

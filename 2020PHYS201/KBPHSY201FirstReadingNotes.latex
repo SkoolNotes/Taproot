@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8607)}}    % original
-%\rhead{\textrmlf{Compiled }\#8607\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8608)}}    % original
+%\rhead{\textrmlf{Compiled }\#8608\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8607
+  \#8608
   \textrmlf{ on}
       \today
   }       % new date
@@ -182,7 +182,13 @@
 \textbf{Source}:\thinspace
 {\href{http://taproot.shabang.cf/relay?request=KBhPHYS201QuantumWorldBookNotesIndex}{\tiny\textulf{[[}\textbf{KBhPHYS201QuantumWorldBookNotesIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{how-small-is-small}{%
-\section{How Small is Small?}\label{how-small-is-small}}
+\hypertarget{large}{%
+\section{Large}\label{large}}
+
+\begin{itemize}
+\tightlist
+\item
+  Scientific notation is required due to how small particles are
+\end{itemize}
 
 \end{document}
