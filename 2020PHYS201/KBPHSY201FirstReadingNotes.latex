@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8673)}}    % original
-%\rhead{\textrmlf{Compiled }\#8673\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8674)}}    % original
+%\rhead{\textrmlf{Compiled }\#8674\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8673
+  \#8674
   \textrmlf{ on}
       \today
   }       % new date
@@ -262,6 +262,9 @@ Distance}\label{relative-scales-distance}}
 \tightlist
 \item
   The fastest anything can go so far as we know is the speed of light
+\item
+  It's hard to get anything close to the speed of light, but for stuff
+  like particle accelerators and cosmic rays it isn't super uncommon
 \item
 \end{itemize}
 
