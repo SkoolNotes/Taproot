@@ -68,3 +68,7 @@ Lifetime of the upper level => $\Delta t$
 (Mean) lifetime of the "upper" energy level => $\Delta t$. So, $\Delta E = \frac{\bar{h}}{\Delta t}$.
 
 If $\Delta t$ is small, $\Delta E$ is large.
+
+
+As long as the units of two deltas end up as $J \times s$, they w
+$\Delta \vec{p} \times \Delta \vec{x} \approx \bar{h}$.
