@@ -7,11 +7,20 @@ author: Houjun Liu
 
 # Series Convergence
 
-In $\sum_{k=0}^\infty a(r^k)$, where $|r|<1$, $\sum_{k=0}^\infty a(r^k) = \frac{a}{1-r}$ 
+In $\sum_{k=0}^\infty a(r^k)$, where $|r|<1$, the series converges to $\sum_{k=0}^\infty a(r^k) = \frac{a}{1-r}$ 
 
 In $\sum_{k=0}^n a(r^k)$,  $\sum_{k=0}^n a(r^k) = \frac{a-ar^{n+1}}{1-r}$ 
 
 If the intergral to infinity is convergent, the sequence is convergent as long as the sequence is continuous, positive, and decreasing. The inverse applies, too.
+
+## Power Series
+$\sum^{\infty}_{n=1} \frac{1}{n^p}$
+
+If a p-series has a p > 1, the p-series will converge
+
+If a p-series has a p <= 1, the p-series will diverge
+
+## Comparison Test
 
 ![[Pasted image 20210308082352.png]]
 
