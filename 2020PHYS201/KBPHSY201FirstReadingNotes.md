@@ -56,3 +56,6 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
  - In the subatomic world mass and energy are typically both measured using the electron volt
 
 ### Relative Scales Charge
+
+ - Electric charge is that thing that makes a particle attractive to another type of particle
+ - 
