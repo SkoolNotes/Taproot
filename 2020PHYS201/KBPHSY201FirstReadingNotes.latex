@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8667)}}    % original
-%\rhead{\textrmlf{Compiled }\#8667\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8668)}}    % original
+%\rhead{\textrmlf{Compiled }\#8668\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8667
+  \#8668
   \textrmlf{ on}
       \today
   }       % new date
@@ -244,6 +244,9 @@ masses are actually pretty large with the eV unit.
   \item
     The diameter of 1 proton is approximately 1 fermi
   \end{itemize}
+\item
+  Short Wavelengths can also be observed to estimate the size of such
+  small particles
 \item
 \end{itemize}
 
