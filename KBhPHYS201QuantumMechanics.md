@@ -57,3 +57,8 @@ Instead of Hertz, however, the frequency of F could better be represented with $
 So to calculate energy with $\omega$, simply use $\bar{h} = \frac{h}{2\pi}$ and so $E = \bar{h}\omega$
 
 ![[Pasted image 20210308111422.png]]
+
+## Heisenberg Uncertainty
+$\Delta E \times \Delta t = \bar{h}$  => "uncertainty of energy times uncertanity in time is the reduced plank's contstant"
+
+![[Pasted image 20210308111709.png]]

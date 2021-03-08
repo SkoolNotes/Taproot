@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8720)}}    % original
-%\rhead{\textrmlf{Compiled }\#8720\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8721)}}    % original
+%\rhead{\textrmlf{Compiled }\#8721\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8720
+  \#8721
   \textrmlf{ on}
       \today
   }       % new date
@@ -257,5 +257,11 @@ So to calculate energy with \(\omega\), simply use
 \(\bar{h} = \frac{h}{2\pi}\) and so \(E = \bar{h}\omega\)
 
 {[}{[}Pasted image 20210308111422.png{]}{]}
+
+\hypertarget{heisenberg-uncertainty}{%
+\subsection{Heisenberg Uncertainty}\label{heisenberg-uncertainty}}
+
+\(\Delta E \times \Delta t = \bar{h}\) =\textgreater{} ``uncertainty of
+energy times uncertanity in time is the reduced plank's contstant''
 
 \end{document}
