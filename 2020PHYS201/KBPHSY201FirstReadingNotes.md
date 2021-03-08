@@ -15,5 +15,7 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
 
 For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 
+**Volts** are used for charge.
+
 
 
