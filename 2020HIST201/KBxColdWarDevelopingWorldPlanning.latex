@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8740)}}    % original
-%\rhead{\textrmlf{Compiled }\#8740\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8741)}}    % original
+%\rhead{\textrmlf{Compiled }\#8741\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8740
+  \#8741
   \textrmlf{ on}
       \today
   }       % new date
@@ -183,5 +183,10 @@
 \#flo \#ref \#disorganized \#incomplete
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+asssignment:
+https://docs.google.com/document/d/18pAQO6g8R1x7d8ufiJEgW8v3zi-qmJeRJX5nueh9W\_Y/edit
+
+imagine links
 
 \end{document}
