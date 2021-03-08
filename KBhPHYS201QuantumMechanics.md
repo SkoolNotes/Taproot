@@ -36,3 +36,6 @@ So, to synthesize high frequencies, this cop out had the effect of supressing th
 
 Which is like... Kind of a cop out. But it did fit medium frequencies better.
 
+***
+
+Einstein 
