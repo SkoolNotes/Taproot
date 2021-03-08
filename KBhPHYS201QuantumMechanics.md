@@ -38,4 +38,4 @@ Which is like... Kind of a cop out. But it did fit medium frequencies better.
 
 ***
 
-Einstein 
+Einstein => Light != "wave"; instead, light are photon particles moving through space.
