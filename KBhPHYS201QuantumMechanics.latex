@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8732)}}    % original
-%\rhead{\textrmlf{Compiled }\#8732\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8733)}}    % original
+%\rhead{\textrmlf{Compiled }\#8733\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8732
+  \#8733
   \textrmlf{ on}
       \today
   }       % new date
@@ -299,5 +299,9 @@ We could see a similar pattern in passing photons through a llit.
 
 This limits the width of the lens of a camera because of the uncertanity
 in momentum.
+
+Taking the agle, and dividing it by 3000
+
+{[}{[}Pasted image 20210308113318.png{]}{]}
 
 \end{document}

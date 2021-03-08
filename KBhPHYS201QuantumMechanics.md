@@ -94,3 +94,7 @@ We could see a similar pattern in passing photons through a llit. $Slit large, \
 ![[Pasted image 20210308112427.png]]
 
 This limits the width of the lens of a camera because of the uncertanity in momentum.
+
+Taking the agle, and dividing it by 3000
+
+![[Pasted image 20210308113318.png]]
