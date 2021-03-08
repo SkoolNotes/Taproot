@@ -17,6 +17,8 @@
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
 
+\usepackage{lastpage}
+
 \usepackage{enumitem}
 \setlistdepth{9}
 
@@ -130,12 +132,17 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8409)}}    % original
-%\rhead{\textrmlf{Compiled }\#8409\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8409\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8738)}}    % original
+%\rhead{\textrmlf{Compiled }\#8738\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#8738
+  \textrmlf{ on}
+      \today
+  }       % new date
 \lfoot{Houjun Liu, Exr0n, Huxley Marvit, Zachary
 Sayyah \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -173,8 +180,6 @@ Sayyah \(\cdot\) \textbf{2020-2021}}
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
 \#ref \#source
 
@@ -557,6 +562,8 @@ BOP}\label{unit-4-wwi-w.r.t.-early-european-bop}}
   {[}{[}KBxWW1EssayPlanning{]}{]}
 \item
   {[}{[}KBxPopExibhit{]}{]}
+\item
+  {[}{[}KBxColdWarDevelopingWorldPlanning{]}{]}
 \end{itemize}
 
 \end{document}
