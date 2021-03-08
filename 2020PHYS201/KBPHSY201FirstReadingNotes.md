@@ -13,7 +13,7 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
 ### Units
 **Fentometers** are used as a unit of measurement in the atomic world. They're $10^{15}m$. 
 
-For **speed we use fractions of the speed of light c ~$3*10^{8}m/s$
+For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 
 
 
