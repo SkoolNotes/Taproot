@@ -39,3 +39,5 @@ Which is like... Kind of a cop out. But it did fit medium frequencies better.
 ***
 
 Einstein => Light != "wave"; instead, light are photon particles moving through space.
+
+Energy of each photon is equal to the plank constant (h) times the frequency (f). $E = h*f$.
