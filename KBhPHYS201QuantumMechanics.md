@@ -79,4 +79,4 @@ For instance, $\Delta \vec{p} \times \Delta \vec{x} \approx \bar{h}$.
 
 Meaning, in the subatomic world, everything exists based on differening upper-energy-state-time based uncertainties. 
 
-We could see a similar pattern in passing photons through a llit.
+We could see a similar pattern in passing photons through a llit. Slit large, $\Delta P_x small$
