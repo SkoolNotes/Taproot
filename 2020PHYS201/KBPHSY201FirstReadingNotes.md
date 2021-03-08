@@ -17,5 +17,7 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 
 **Volts** are used for charge.
 
-**Particle Masses** can also be expressed in eV units 
+**Particle Masses** can also be expressed in eV units. Particle masses are actually pretty large with the eV unit.
+
+
 
