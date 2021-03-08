@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8699)}}    % original
-%\rhead{\textrmlf{Compiled }\#8699\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8700)}}    % original
+%\rhead{\textrmlf{Compiled }\#8700\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8699
+  \#8700
   \textrmlf{ on}
       \today
   }       % new date
@@ -219,7 +219,8 @@ masses are actually pretty large with the eV unit.
 
 \textbf{Planck Size} is about \(10^{-35}m\)
 
-\textbf{Angular Momentum} is Planck's constant divided by 2π
+\textbf{Angular Momentum} can be measured in h-bars which are Planck's
+constant divided by 2π
 
 \hypertarget{relative-scales-distance}{%
 \subsection{Relative Scales Distance}\label{relative-scales-distance}}

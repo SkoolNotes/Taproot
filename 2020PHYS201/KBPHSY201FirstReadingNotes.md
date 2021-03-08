@@ -21,7 +21,7 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 
 **Planck Size** is about $10^{-35}m$
 
-**Angular Momentum** is Planck's constant divided by 2π
+**Angular Momentum** can be measured in h-bars which are Planck's constant divided by 2π
 
 ## Relative Scales Distance
  - The nucleus takes up a very small amount of a particle
