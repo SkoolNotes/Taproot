@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8677)}}    % original
-%\rhead{\textrmlf{Compiled }\#8677\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8678)}}    % original
+%\rhead{\textrmlf{Compiled }\#8678\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8677
+  \#8678
   \textrmlf{ on}
       \today
   }       % new date
@@ -278,6 +278,13 @@ Distance}\label{relative-scales-distance}}
     capable of doing so but has not been discovered and also creates
     strange circumstances
   \end{itemize}
+\end{itemize}
+
+\hypertarget{relative-scales-time}{%
+\subsubsection{Relative Scales Time}\label{relative-scales-time}}
+
+\begin{itemize}
+\tightlist
 \item
 \end{itemize}
 
