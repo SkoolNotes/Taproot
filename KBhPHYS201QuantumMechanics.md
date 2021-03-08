@@ -77,4 +77,6 @@ For instance, $\Delta \vec{p} \times \Delta \vec{x} \approx \bar{h}$.
 
 ![[Pasted image 20210308112111.png]]
 
-Meaning, in the subatomic world, everything exists based on differening energy-state based uncertainties.
+Meaning, in the subatomic world, everything exists based on differening upper-energy-state-time based uncertainties. 
+
+We could see a similar pattern in passing photons through a llit.
