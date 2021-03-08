@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8692)}}    % original
-%\rhead{\textrmlf{Compiled }\#8692\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8693)}}    % original
+%\rhead{\textrmlf{Compiled }\#8693\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8692
+  \#8693
   \textrmlf{ on}
       \today
   }       % new date
@@ -204,7 +204,7 @@ Small}\label{how-to-deal-with-large-and-small}}
 \end{itemize}
 
 \hypertarget{units}{%
-\subsubsection{Units}\label{units}}
+\subsection{Units}\label{units}}
 
 \textbf{Fentometers} are used as a unit of measurement in the atomic
 world. They're \(10^{15}m\).
@@ -220,8 +220,7 @@ masses are actually pretty large with the eV unit.
 \textbf{Planck Size} is about \(10^{-35}m\)
 
 \hypertarget{relative-scales-distance}{%
-\subsubsection{Relative Scales
-Distance}\label{relative-scales-distance}}
+\subsection{Relative Scales Distance}\label{relative-scales-distance}}
 
 \begin{itemize}
 \tightlist
@@ -258,7 +257,7 @@ Distance}\label{relative-scales-distance}}
 \end{itemize}
 
 \hypertarget{relative-scales-speed}{%
-\subsubsection{Relative Scales Speed}\label{relative-scales-speed}}
+\subsection{Relative Scales Speed}\label{relative-scales-speed}}
 
 \begin{itemize}
 \tightlist
@@ -283,7 +282,7 @@ Distance}\label{relative-scales-distance}}
 \end{itemize}
 
 \hypertarget{relative-scales-time}{%
-\subsubsection{Relative Scales Time}\label{relative-scales-time}}
+\subsection{Relative Scales Time}\label{relative-scales-time}}
 
 \begin{itemize}
 \tightlist
@@ -301,7 +300,7 @@ Distance}\label{relative-scales-distance}}
 \end{itemize}
 
 \hypertarget{relative-scales-mass}{%
-\subsubsection{Relative Scales Mass}\label{relative-scales-mass}}
+\subsection{Relative Scales Mass}\label{relative-scales-mass}}
 
 \begin{itemize}
 \tightlist
@@ -317,7 +316,7 @@ Distance}\label{relative-scales-distance}}
 \end{itemize}
 
 \hypertarget{relative-scales-energy}{%
-\subsubsection{Relative Scales Energy}\label{relative-scales-energy}}
+\subsection{Relative Scales Energy}\label{relative-scales-energy}}
 
 \begin{itemize}
 \tightlist
@@ -348,7 +347,7 @@ Distance}\label{relative-scales-distance}}
 \end{itemize}
 
 \hypertarget{relative-scales-charge}{%
-\subsubsection{Relative Scales Charge}\label{relative-scales-charge}}
+\subsection{Relative Scales Charge}\label{relative-scales-charge}}
 
 \begin{itemize}
 \tightlist

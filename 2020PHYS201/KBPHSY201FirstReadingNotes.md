@@ -10,7 +10,7 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
 	 - This is required in much of particle physics since particles tend to be very small and fast
  - People also tend to create more fitting units for a specific application
 
-### Units
+## Units
 **Fentometers** are used as a unit of measurement in the atomic world. They're $10^{15}m$. 
 
 For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
@@ -21,7 +21,7 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 
 **Planck Size** is about $10^{-35}m$
 
-### Relative Scales Distance
+## Relative Scales Distance
  - The nucleus takes up a very small amount of a particle
 	 - Comparison drawn here is a basketball in an airport for a large nucleus and a golf ball for smaller ones
  - Electrons occupy in a probability distribution the rest of the space more or less
@@ -31,23 +31,23 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
  - Short Wavelengths can also be observed to estimate the size of such small particles
  - The Planck size is the smallest meaningful distance before spacetime breaks down into quantum foam
 
-### Relative Scales Speed
+## Relative Scales Speed
  - The fastest anything can go so far as we know is the speed of light
  - It's hard to get anything close to the speed of light, but for stuff like particle accelerators and cosmic rays it isn't super uncommon to get close
  - Mass being the reluctance to accelerate means that the mass-less photon should be the fastest particle requiring no energy to reach the speed of light. For anything to go faster would be difficult.
 	 - However, physicists have studied the Tachyon which is theoretically capable of doing so but has not been discovered and also creates strange circumstances
 
-### Relative Scales Time
+## Relative Scales Time
  - The longest known time is the lifespan of the universe
 	 - This is currently estimated to be about 13.7 billion years
  - The speed of light is the natural link between distance and time measurements
 
-### Relative Scales Mass
+## Relative Scales Mass
  - Mass is a measure of inertia meaning how hard something is to accelerate
  - We measure particle's speed by measuring their resistance to acceleration with knowledge of their speed
  - With particle masses it becomes more sensical to use MeV instead of kg since the units make more sense
 
-### Relative Scales Energy
+## Relative Scales Energy
  - Energy and its conservation make it perhaps one of the most important things in physics
  - Kinetic energy and mass energy are the most important types when it comes to particles
 	 - Rest mas is different from mass
@@ -55,7 +55,7 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 	 - A little mass leads to a lot of energy while a lot of energy can yield a little mass
  - In the subatomic world mass and energy are typically both measured using the electron volt
 
-### Relative Scales Charge
+## Relative Scales Charge
 
  - Electric charge is that thing that makes a particle attractive to another type of particle
  - If the Gluons are overcome by the repulsion of the protons a nucleus will break apart
