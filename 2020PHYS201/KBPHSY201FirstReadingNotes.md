@@ -44,4 +44,5 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 
 ### Relative Scales Mass
  - Mass is a measure of inertia meaning how hard something is to accelerate
+ - We measure particle's speed by measuring their resistance to acceleration with knowledge of their speed
  - 
