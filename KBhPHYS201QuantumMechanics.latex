@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8725)}}    % original
-%\rhead{\textrmlf{Compiled }\#8725\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8726)}}    % original
+%\rhead{\textrmlf{Compiled }\#8726\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8725
+  \#8726
   \textrmlf{ on}
       \today
   }       % new date
@@ -281,5 +281,8 @@ For instance, \(\Delta \vec{p} \times \Delta \vec{x} \approx \bar{h}\).
 {[}{[}Pasted image 20210308112058.png{]}{]}
 
 {[}{[}Pasted image 20210308112111.png{]}{]}
+
+Meaning, in the subatomic world, everything exists based on differening
+energy-state based uncertainties.
 
 \end{document}

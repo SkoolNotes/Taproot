@@ -76,3 +76,5 @@ For instance, $\Delta \vec{p} \times \Delta \vec{x} \approx \bar{h}$.
 ![[Pasted image 20210308112058.png]]
 
 ![[Pasted image 20210308112111.png]]
+
+Meaning, in the subatomic world, everything exists based on differening energy-state based uncertainties.
