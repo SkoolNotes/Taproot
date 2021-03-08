@@ -118,8 +118,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS201 }
-\newcommand{\thelesson}{ Physics Master Index }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -140,7 +140,7 @@
   \textrmlf{ on}
       \today
   }       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -180,147 +180,6 @@
 
 % DID YOU SET SPELL????
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhPHYS201GettingStarted{]}{]} Getting started with Physics
-\item
-  Exr0n Ret Index {[}{[}exr0n20phys201retIndex{]}{]}
-\end{itemize}
 
-\hypertarget{electronics}{%
-\section{Electronics}\label{electronics}}
-
-\hypertarget{electrostatics}{%
-\subsection{Electrostatics}\label{electrostatics}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhPHYS201IntroToElectrostaticsLN{]}{]} Intro to Electrostatics
-\item
-  {[}{[}KB20200825090600{]}{]} Physics day 1
-\item
-  {[}{[}KBRemoteRollingBall{]}{]}
-\item
-  {[}{[}KBVectorIntro{]}{]}
-\item
-  {[}{[}physQuestions{]}{]}
-\item
-  {[}{[}KBe20phys201flo5vandegraph{]}{]}
-\item
-  Voltage and Current with Gravity annotated docs
-
-  \begin{itemize}
-  \tightlist
-  \item
-    {[}{[}exr0n20phys201retIntroVoltageWithGravity.pdf{]}{]}
-  \item
-    {[}{[}KBe20phys201srcVoltageCurrentGravity2.pdf{]}{]}
-  \end{itemize}
-\item
-  PHET Simulation w/ Eletric Field
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Jack {[}{[}KBhPHYS201PHETElectricFields{]}{]}
-  \end{itemize}
-\end{itemize}
-
-\hypertarget{circuits}{%
-\subsection{Circuits}\label{circuits}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhPHYS201Capacitors{]}{]}
-\item
-  {[}{[}KBhPHYS201CircuitsIndex{]}{]} Circuits!
-\end{itemize}
-
-\hypertarget{capacitors}{%
-\subsubsection{Capacitors}\label{capacitors}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhPHYS201Capacitors{]}{]}
-\item
-  {[}{[}KBe20phys250retCapacitenceResistanceQuestion{]}{]}
-\item
-  {[}{[}KBe20phys250retCapacitorsLab{]}{]}
-\item
-  {[}{[}KBe20Phys201refCapacitorSeriesParralel{]}{]}
-\end{itemize}
-
-\hypertarget{silicon-things}{%
-\subsection{Silicon Things}\label{silicon-things}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhPHYS201Silicon{]}{]}
-\item
-  Base Conversion {[}{[}KBhPHYS201DigitalLogic{]}{]}
-\end{itemize}
-
-\hypertarget{magnetism}{%
-\section{Magnetism}\label{magnetism}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhPHYS201MagneticSolids{]}{]}
-\end{itemize}
-
-\hypertarget{nuclear-physics}{%
-\section{Nuclear Physics}\label{nuclear-physics}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhPHYS201NuclearPhysics{]}{]}
-\end{itemize}
-
-\hypertarget{relativity}{%
-\section{Relativity}\label{relativity}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhPHYS201SpecialRelativity{]}{]}
-\end{itemize}
-
-\hypertarget{quantum-mechanics}{%
-\section{Quantum Mechanics}\label{quantum-mechanics}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhPHYS201QuantumMechanics{]}{]}
-\item
-  {[}{[}KBhPHYS201QuantumWorldBook{]}{]}
-\item
-  {[}{[}KBhPHYS201QuantumWorldBookNotesIndex{]}{]}
-\end{itemize}
-
-\hypertarget{references}{%
-\section{References}\label{references}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBPHYS201ZachsPhysicsNotesForTest{]}{]} Physics quiz Notes
-\end{itemize}
-
-\hypertarget{misc}{%
-\section{Misc}\label{misc}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBxPhysSelvEval2020{]}{]}
-\end{itemize}
 
 \end{document}

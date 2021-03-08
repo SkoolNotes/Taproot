@@ -48,6 +48,7 @@ source: #index
 # Quantum Mechanics
 - [[KBhPHYS201QuantumMechanics]]
 - [[KBhPHYS201QuantumWorldBook]]
+- [[KBhPHYS201QuantumWorldBookNotesIndex]]
 
 # References
 * [[KBPHYS201ZachsPhysicsNotesForTest]] Physics quiz Notes
