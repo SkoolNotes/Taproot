@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8714)}}    % original
-%\rhead{\textrmlf{Compiled }\#8714\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8715)}}    % original
+%\rhead{\textrmlf{Compiled }\#8715\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8714
+  \#8715
   \textrmlf{ on}
       \today
   }       % new date
@@ -242,5 +242,7 @@ frequency (f). \(E = h*f\).
 {[}{[}Pasted image 20210308100848.png{]}{]}
 
 {[}{[}Pasted image 20210308101013.png{]}{]}
+
+\(\lambda * f = c\)
 
 \end{document}
