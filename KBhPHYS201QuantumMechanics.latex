@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8724)}}    % original
-%\rhead{\textrmlf{Compiled }\#8724\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8725)}}    % original
+%\rhead{\textrmlf{Compiled }\#8725\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8724
+  \#8725
   \textrmlf{ on}
       \today
   }       % new date
@@ -273,7 +273,13 @@ Lifetime of the upper level =\textgreater{} \(\Delta t\)
 
 If \(\Delta t\) is small, \(\Delta E\) is large.
 
-As long as the units of two deltas end up as \(J \times s\), they w
-\(\Delta \vec{p} \times \Delta \vec{x} \approx \bar{h}\).
+As long as the units of two deltas end up as \(J \times s\), they would
+be related by the same way with \(\bar{h}\)
+
+For instance, \(\Delta \vec{p} \times \Delta \vec{x} \approx \bar{h}\).
+
+{[}{[}Pasted image 20210308112058.png{]}{]}
+
+{[}{[}Pasted image 20210308112111.png{]}{]}
 
 \end{document}

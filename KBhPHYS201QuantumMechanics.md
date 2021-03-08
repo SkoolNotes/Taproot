@@ -69,6 +69,10 @@ Lifetime of the upper level => $\Delta t$
 
 If $\Delta t$ is small, $\Delta E$ is large.
 
+As long as the units of two deltas end up as $J \times s$, they would be related by the same way with $\bar{h}$
 
-As long as the units of two deltas end up as $J \times s$, they w
-$\Delta \vec{p} \times \Delta \vec{x} \approx \bar{h}$.
+For instance, $\Delta \vec{p} \times \Delta \vec{x} \approx \bar{h}$.
+
+![[Pasted image 20210308112058.png]]
+
+![[Pasted image 20210308112111.png]]
