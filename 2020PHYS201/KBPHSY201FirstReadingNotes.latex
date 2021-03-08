@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8693)}}    % original
-%\rhead{\textrmlf{Compiled }\#8693\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8694)}}    % original
+%\rhead{\textrmlf{Compiled }\#8694\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8693
+  \#8694
   \textrmlf{ on}
       \today
   }       % new date
@@ -367,7 +367,9 @@ masses are actually pretty large with the eV unit.
   \end{itemize}
 \item
   Negative and positive is entirely arbitrary they are just opposites
-\item
 \end{itemize}
+
+\hypertarget{relative-scales-spin}{%
+\subsection{\#\# Relative Scales Spin}\label{relative-scales-spin}}
 
 \end{document}
