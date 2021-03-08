@@ -73,11 +73,11 @@ As long as the units of two deltas end up as $J \times s$, they would be related
 
 
 
+This $\Delta P$ has an actual effect on our vision
 
+**THIS IS IMPORTANT, TOO!** $\Delta \vec{p} \times \Delta \vec{x} \approx \bar{h}$.
 
- THIS IS IMPORTANT, TOO! **For instance, $\Delta \vec{p} \times \Delta \vec{x} \approx \bar{h}$.**
-
-
+![[Pasted image 20210308112755.png]]
 
 
 
