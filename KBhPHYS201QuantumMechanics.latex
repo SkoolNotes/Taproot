@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8734)}}    % original
-%\rhead{\textrmlf{Compiled }\#8734\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8735)}}    % original
+%\rhead{\textrmlf{Compiled }\#8735\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8734
+  \#8735
   \textrmlf{ on}
       \today
   }       % new date
@@ -302,6 +302,7 @@ in momentum.
 
 {[}{[}Pasted image 20210308113318.png{]}{]}
 
-Taking the angle, and dividing it by 3000
+Taking the angle, and dividing it by 3000, which is \(\frac{1}{60}\)
+degrees.
 
 \end{document}
