@@ -21,6 +21,8 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 
 **Planck Size** is about $10^{-35}m$
 
+**Angular Momentum** is Planck's constant divided by 2π
+
 ## Relative Scales Distance
  - The nucleus takes up a very small amount of a particle
 	 - Comparison drawn here is a basketball in an airport for a large nucleus and a golf ball for smaller ones
@@ -66,4 +68,5 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 - Spin occurs with anything from the largest galaxies down to the smallest particles
 - Angular momentum is used to measure both orbital motion and rotation on one's own axis
 - Fundemental particles have measurable angular momentum, but a rate of rotation cannot be specified
+- Planck's constant divided by 2π is the fundamental quantum unit of rotation
 - 
