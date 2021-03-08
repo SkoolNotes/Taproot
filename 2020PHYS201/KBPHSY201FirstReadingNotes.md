@@ -53,4 +53,5 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 	 - Rest mas is different from mass
  - Mass represents a highly concentrated form of energy
 	 - A little mass leads to a lot of energy while a lot of energy can yield a little mass
+ - In the subatomic world mass and energy are typically both measured using the electron volt
  - 

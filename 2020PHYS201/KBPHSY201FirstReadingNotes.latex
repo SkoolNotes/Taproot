@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8687)}}    % original
-%\rhead{\textrmlf{Compiled }\#8687\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8688)}}    % original
+%\rhead{\textrmlf{Compiled }\#8688\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8687
+  \#8688
   \textrmlf{ on}
       \today
   }       % new date
@@ -342,6 +342,9 @@ Distance}\label{relative-scales-distance}}
     A little mass leads to a lot of energy while a lot of energy can
     yield a little mass
   \end{itemize}
+\item
+  In the subatomic world mass and energy are typically both measured
+  using the electron volt
 \item
 \end{itemize}
 
