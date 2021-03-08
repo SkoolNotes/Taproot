@@ -72,4 +72,3 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 - Difference in spin is drastic enough for us to call particles with different spin new particles
 - All electrons have the same spin
 	- Spin is quantized and things such as electrons are either "up" or "down"
-- 

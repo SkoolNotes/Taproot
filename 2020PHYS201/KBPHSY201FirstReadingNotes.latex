@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8703)}}    % original
-%\rhead{\textrmlf{Compiled }\#8703\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8704)}}    % original
+%\rhead{\textrmlf{Compiled }\#8704\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8703
+  \#8704
   \textrmlf{ on}
       \today
   }       % new date
@@ -409,7 +409,6 @@ constant divided by 2π
     Spin is quantized and things such as electrons are either ``up'' or
     ``down''
   \end{itemize}
-\item
 \end{itemize}
 
 \end{document}
