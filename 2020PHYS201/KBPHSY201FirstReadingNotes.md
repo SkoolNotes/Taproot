@@ -49,4 +49,6 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 
 ### Relative Scales Energy
  - Energy and its conservation make it perhaps one of the most important things in physics
+ - Kinetic energy and mass energy are the most important types when it comes to particles
+	 - Rest mas is different from mass
  - 
