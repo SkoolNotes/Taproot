@@ -5,5 +5,7 @@ course: PHYS201
 source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
 ---
 
-# Large 
- - Scientific notation is required due to how small particles are
+# Large and Small
+ - Scientific notation is required to deal with large and small quantities
+	 - This is required in much of particle physics since particles tend to be very small and fast
+ - 

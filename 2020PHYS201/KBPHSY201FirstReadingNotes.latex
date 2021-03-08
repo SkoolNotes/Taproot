@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8608)}}    % original
-%\rhead{\textrmlf{Compiled }\#8608\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8609)}}    % original
+%\rhead{\textrmlf{Compiled }\#8609\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8608
+  \#8609
   \textrmlf{ on}
       \today
   }       % new date
@@ -182,13 +182,22 @@
 \textbf{Source}:\thinspace
 {\href{http://taproot.shabang.cf/relay?request=KBhPHYS201QuantumWorldBookNotesIndex}{\tiny\textulf{[[}\textbf{KBhPHYS201QuantumWorldBookNotesIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{large}{%
-\section{Large}\label{large}}
+\hypertarget{large-and-small}{%
+\section{Large and Small}\label{large-and-small}}
 
 \begin{itemize}
 \tightlist
 \item
-  Scientific notation is required due to how small particles are
+  Scientific notation is required to deal with large and small
+  quantities
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is required in much of particle physics since particles tend to
+    be very small and fast
+  \end{itemize}
+\item
 \end{itemize}
 
 \end{document}
