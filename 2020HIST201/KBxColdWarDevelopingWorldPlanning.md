@@ -1,11 +1,23 @@
 ---
-title:   Cold War in the Developing World 
-context: 
-author:  
+title:   Cold War in the Developing World Planning 
+context: HIST201
+author:  Huxley
 source:  #index
 ---
 
-#flo #ref #ret 
-#disorganized #incomplete
+#flo #ref #disorganized #incomplete
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
