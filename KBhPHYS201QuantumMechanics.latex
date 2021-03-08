@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8737)}}    % original
-%\rhead{\textrmlf{Compiled }\#8737\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8743)}}    % original
+%\rhead{\textrmlf{Compiled }\#8743\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8737
+  \#8743
   \textrmlf{ on}
       \today
   }       % new date
@@ -309,5 +309,8 @@ degrees.
 
 Even though Plank's constant is a tiny number, it effects how sharply
 you eyes could see b/c of this uncertainty.
+
+There are three ``flavor''s of Leptons, each with two variations ---
+creating six different le
 
 \end{document}
