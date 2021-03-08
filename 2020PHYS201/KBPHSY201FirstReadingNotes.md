@@ -70,5 +70,6 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 	- Fundemental particles have measurable angular momentum, but a rate of rotation cannot be specified
 		- Planck's constant divided by 2π is the fundamental quantum unit of rotation
 - Difference in spin is drastic enough for us to call particles with different spin new particles
-	- All electrons have the same spin
+- All electrons have the same spin
+	- Spin is quantized and things such as electrons are either "up" or "down"
 - 

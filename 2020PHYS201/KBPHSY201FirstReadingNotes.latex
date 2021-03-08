@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8702)}}    % original
-%\rhead{\textrmlf{Compiled }\#8702\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8703)}}    % original
+%\rhead{\textrmlf{Compiled }\#8703\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8702
+  \#8703
   \textrmlf{ on}
       \today
   }       % new date
@@ -400,11 +400,14 @@ constant divided by 2π
 \item
   Difference in spin is drastic enough for us to call particles with
   different spin new particles
+\item
+  All electrons have the same spin
 
   \begin{itemize}
   \tightlist
   \item
-    All electrons have the same spin
+    Spin is quantized and things such as electrons are either ``up'' or
+    ``down''
   \end{itemize}
 \item
 \end{itemize}
