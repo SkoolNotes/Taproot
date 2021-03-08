@@ -64,3 +64,7 @@ $\Delta E \times \Delta t = \bar{h}$  => "uncertainty of energy times uncertanit
 ![[Pasted image 20210308111709.png]]
 
 Lifetime of the upper level => $\Delta t$
+
+(Mean) lifetime of the "upper" energy level => $\Delta t$. So, $\Delta E = \frac{\bar{h}}{\Delta t}$.
+
+If $\Delta t$ is small, $\Delta E$ is large.
