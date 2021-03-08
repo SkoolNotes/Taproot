@@ -69,4 +69,5 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 - Angular momentum is used to measure both orbital motion and rotation on one's own axis
 - Fundemental particles have measurable angular momentum, but a rate of rotation cannot be specified
 - Planck's constant divided by 2π is the fundamental quantum unit of rotation
+- Difference in spin is drastic enough for us to call particles with different spin new particles
 - 
