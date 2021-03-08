@@ -97,4 +97,8 @@ This limits the width of the lens of a camera because of the uncertanity in mome
 
 ![[Pasted image 20210308113318.png]]
 
+![[Pasted image 20210308113628.png]]
+
 Taking the angle, and dividing it by 3000, which is $\frac{1}{60}$ degrees.
+
+Even though Plank's constant is a tiny number, it effects how sharply you eyes could see.
