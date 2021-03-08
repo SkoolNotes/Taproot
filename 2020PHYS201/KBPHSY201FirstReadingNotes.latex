@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8691)}}    % original
-%\rhead{\textrmlf{Compiled }\#8691\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8692)}}    % original
+%\rhead{\textrmlf{Compiled }\#8692\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8691
+  \#8692
   \textrmlf{ on}
       \today
   }       % new date
@@ -366,6 +366,8 @@ Distance}\label{relative-scales-distance}}
     realistically since it would require too much energy to keep
     together than the gluons can offer
   \end{itemize}
+\item
+  Negative and positive is entirely arbitrary they are just opposites
 \item
 \end{itemize}
 

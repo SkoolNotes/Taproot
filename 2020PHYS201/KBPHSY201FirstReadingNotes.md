@@ -60,4 +60,5 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
  - Electric charge is that thing that makes a particle attractive to another type of particle
  - If the Gluons are overcome by the repulsion of the protons a nucleus will break apart
 	 - This is why there is a cap for how large an atom can be realistically since it would require too much energy to keep together than the gluons can offer
+ - Negative and positive is entirely arbitrary they are just opposites
  - 
