@@ -51,3 +51,5 @@ Energy of each photon is equal to the plank constant (h) times the frequency (f)
 $\lambda * f = c$
 
 $E_{photon} = h \times f$
+
+Instead of Hertz, however, the frequency of F could better be represented with $\omega$, a unit of $\frac{radians}{sec}$ that is derived as $2 \pi f
