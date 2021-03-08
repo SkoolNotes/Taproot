@@ -48,4 +48,5 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
  - With particle masses it becomes more sensical to use MeV instead of kg since the units make more sense
 
 ### Relative Scales Energy
+ - Energy and its conservation make it perhaps one of the most important things in physics
  - 
