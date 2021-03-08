@@ -63,4 +63,4 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
  - Negative and positive is entirely arbitrary they are just opposites
 
 ## Relative Scales Spin
-- 
+- Spin occurs with anything from the largest galaxies down to the smallest particles

@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8694)}}    % original
-%\rhead{\textrmlf{Compiled }\#8694\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8695)}}    % original
+%\rhead{\textrmlf{Compiled }\#8695\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8694
+  \#8695
   \textrmlf{ on}
       \today
   }       % new date
@@ -370,6 +370,13 @@ masses are actually pretty large with the eV unit.
 \end{itemize}
 
 \hypertarget{relative-scales-spin}{%
-\subsection{\#\# Relative Scales Spin}\label{relative-scales-spin}}
+\subsection{Relative Scales Spin}\label{relative-scales-spin}}
+
+\begin{itemize}
+\tightlist
+\item
+  Spin occurs with anything from the largest galaxies down to the
+  smallest particles
+\end{itemize}
 
 \end{document}
