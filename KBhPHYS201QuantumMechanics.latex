@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8718)}}    % original
-%\rhead{\textrmlf{Compiled }\#8718\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8719)}}    % original
+%\rhead{\textrmlf{Compiled }\#8719\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8718
+  \#8719
   \textrmlf{ on}
       \today
   }       % new date
@@ -251,6 +251,10 @@ frequency (f). \(E = h*f\).
 
 Instead of Hertz, however, the frequency of F could better be
 represented with \(\omega\), a unit of \(\frac{radians}{sec}\) that is
-derived as \$2\pi 
+derived as \(2 \pi f (\frac{radians}{s})\)
+
+So to calculate energy with \(\omega\), simply use \$\ba
+
+{[}{[}Pasted image 20210308111422.png{]}{]}
 
 \end{document}
