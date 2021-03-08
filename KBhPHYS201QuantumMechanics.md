@@ -62,3 +62,5 @@ So to calculate energy with $\omega$, simply use $\bar{h} = \frac{h}{2\pi}$ and 
 $\Delta E \times \Delta t = \bar{h}$  => "uncertainty of energy times uncertanity in time is the reduced plank's contstant"
 
 ![[Pasted image 20210308111709.png]]
+
+Lifetime of the upper level => $\Delta t$

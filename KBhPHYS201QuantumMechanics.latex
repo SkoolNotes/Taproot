@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8721)}}    % original
-%\rhead{\textrmlf{Compiled }\#8721\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8722)}}    % original
+%\rhead{\textrmlf{Compiled }\#8722\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8721
+  \#8722
   \textrmlf{ on}
       \today
   }       % new date
@@ -263,5 +263,9 @@ So to calculate energy with \(\omega\), simply use
 
 \(\Delta E \times \Delta t = \bar{h}\) =\textgreater{} ``uncertainty of
 energy times uncertanity in time is the reduced plank's contstant''
+
+{[}{[}Pasted image 20210308111709.png{]}{]}
+
+Lifetime of the upper level =\textgreater{} \(\Delta t\)
 
 \end{document}
