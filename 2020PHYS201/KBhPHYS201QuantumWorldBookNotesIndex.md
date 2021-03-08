@@ -6,4 +6,4 @@ source: [[KBPhysicsMasterIndex]]
 ---
 
 ## First Reading (Ch1-Ch2)
- - [[KB]]
+ - [[KBPHSY201FirstReadingNotes]]
