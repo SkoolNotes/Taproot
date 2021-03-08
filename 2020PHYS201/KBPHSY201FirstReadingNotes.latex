@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8690)}}    % original
-%\rhead{\textrmlf{Compiled }\#8690\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8691)}}    % original
+%\rhead{\textrmlf{Compiled }\#8691\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8690
+  \#8691
   \textrmlf{ on}
       \today
   }       % new date
@@ -355,6 +355,17 @@ Distance}\label{relative-scales-distance}}
 \item
   Electric charge is that thing that makes a particle attractive to
   another type of particle
+\item
+  If the Gluons are overcome by the repulsion of the protons a nucleus
+  will break apart
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is why there is a cap for how large an atom can be
+    realistically since it would require too much energy to keep
+    together than the gluons can offer
+  \end{itemize}
 \item
 \end{itemize}
 
