@@ -49,3 +49,5 @@ Energy of each photon is equal to the plank constant (h) times the frequency (f)
 ![[Pasted image 20210308101013.png]]
 
 $\lambda * f = c$
+
+$E_{photon} = h \times f$
