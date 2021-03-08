@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8618)}}    % original
-%\rhead{\textrmlf{Compiled }\#8618\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8619)}}    % original
+%\rhead{\textrmlf{Compiled }\#8619\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8618
+  \#8619
   \textrmlf{ on}
       \today
   }       % new date
@@ -199,17 +199,17 @@ Small}\label{how-to-deal-with-large-and-small}}
     be very small and fast
   \end{itemize}
 \item
-  People also ten to create more fitting units for a specific
+  People also tend to create more fitting units for a specific
   application
 \end{itemize}
 
 \hypertarget{units}{%
 \subsubsection{Units}\label{units}}
 
-Fentometers are used as a unit of measurement in the atomic world.
-They're \(10^{15}m\).
+\textbf{Fentometers} are used as a unit of measurement in the atomic
+world. They're \(10^{15}m\).
 
-For speed we use fractions of the speed of light c
+For **speed we use fractions of the speed of light c
 \textasciitilde{}\(3*10^{8}m/s\)
 
 \end{document}
