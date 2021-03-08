@@ -15,4 +15,4 @@ If the intergral to infinity is convergent, the sequence is convergent as long a
 
 ![[Pasted image 20210308082201.png]]
 
-$
+Provided that $a_n,b_n \geq 0\ \&\ a_n \leq b_n$
