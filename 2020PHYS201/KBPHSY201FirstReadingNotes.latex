@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8675)}}    % original
-%\rhead{\textrmlf{Compiled }\#8675\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8676)}}    % original
+%\rhead{\textrmlf{Compiled }\#8676\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8675
+  \#8676
   \textrmlf{ on}
       \today
   }       % new date
@@ -267,6 +267,15 @@ Distance}\label{relative-scales-distance}}
   like particle accelerators and cosmic rays it isn't super uncommon to
   get close
 \item
+  Mass being the reluctance to accelerate means that the mass-less
+  photon should be the fastest particle requiring no energy to reach the
+  speed of light. For anything to go faster would be difficult.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    However, physicists have studied the Tach
+  \end{itemize}
 \end{itemize}
 
 \end{document}

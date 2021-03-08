@@ -33,4 +33,5 @@ For **speed** we use fractions of the speed of light c ~$3*10^{8}m/s$
 ### Relative Scales Speed
  - The fastest anything can go so far as we know is the speed of light
  - It's hard to get anything close to the speed of light, but for stuff like particle accelerators and cosmic rays it isn't super uncommon to get close
- - 
+ - Mass being the reluctance to accelerate means that the mass-less photon should be the fastest particle requiring no energy to reach the speed of light. For anything to go faster would be difficult.
+	 - However, physicists have studied the Tach
