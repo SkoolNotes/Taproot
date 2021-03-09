@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8754)}}    % original
-%\rhead{\textrmlf{Compiled }\#8754\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8755)}}    % original
+%\rhead{\textrmlf{Compiled }\#8755\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8754
+  \#8755
   \textrmlf{ on}
       \today
   }       % new date
@@ -359,6 +359,10 @@ Mesons & Composite particles made of quarks + has 0, 1, or any interger
 spin \\ \addlinespace
 Quarks & Fundimental strongly interacting particles that never appear
 singly \\ \addlinespace
+Hadrons & Bayrons and Mesons that strongnly interact \\ \addlinespace
+Nucleaons & Neutrons and protons that reside in the
+nucleai \\ \addlinespace
+& \\ \addlinespace
 \bottomrule
 \end{longtable}
 
