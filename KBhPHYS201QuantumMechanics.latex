@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8750)}}    % original
-%\rhead{\textrmlf{Compiled }\#8750\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8751)}}    % original
+%\rhead{\textrmlf{Compiled }\#8751\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8750
+  \#8751
   \textrmlf{ on}
       \today
   }       % new date
@@ -340,5 +340,7 @@ and annihilation of particles.}
 Neutrinos interact only by weak interactions, which is (bar gravity,
 which is the weakest physical interaction) a very weak physical
 interaction.
+
+Pions and Muons are two pairtcles
 
 \end{document}
