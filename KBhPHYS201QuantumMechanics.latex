@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8755)}}    % original
-%\rhead{\textrmlf{Compiled }\#8755\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8756)}}    % original
+%\rhead{\textrmlf{Compiled }\#8756\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8755
+  \#8756
   \textrmlf{ on}
       \today
   }       % new date
@@ -341,8 +341,8 @@ Neutrinos interact only by weak interactions, which is (bar gravity,
 which is the weakest physical interaction) a very weak physical
 interaction.
 
-\hypertarget{a-table-of-partiles}{%
-\subsection{A table of partiles}\label{a-table-of-partiles}}
+\hypertarget{a-table-of-particles}{%
+\subsection{A table of particles}\label{a-table-of-particles}}
 
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}
@@ -362,7 +362,10 @@ singly \\ \addlinespace
 Hadrons & Bayrons and Mesons that strongnly interact \\ \addlinespace
 Nucleaons & Neutrons and protons that reside in the
 nucleai \\ \addlinespace
-& \\ \addlinespace
+Fermions & Leptons, quarks, and nucleans: all have 1/2 odd interger
+spin \\ \addlinespace
+Bosons & Force carriers, like mesons, have intergin
+spin \\ \addlinespace
 \bottomrule
 \end{longtable}
 

@@ -116,7 +116,7 @@ Lepton => "small", but they are not actually that small as what their original n
 
 Neutrinos interact only by weak interactions, which is (bar gravity, which is the weakest physical interaction) a very weak physical interaction.
 
-## A table of partiles
+## A table of particles
 | Particle | Wat |
 |---|---|
 | Leptons | Fundimental one-half spin particles, experience strong interaction, have no quarks |
@@ -125,4 +125,5 @@ Neutrinos interact only by weak interactions, which is (bar gravity, which is th
 | Quarks | Fundimental strongly interacting particles that never appear singly |
 | Hadrons | Bayrons and Mesons that strongnly interact |
 | Nucleaons | Neutrons and protons that reside in the nucleai |
-|
+| Fermions | Leptons, quarks, and nucleans: all have 1/2 odd interger spin |
+| Bosons | Force carriers, like mesons, have intergin spin | 
