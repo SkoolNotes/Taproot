@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8769)}}    % original
-%\rhead{\textrmlf{Compiled }\#8769\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8772)}}    % original
+%\rhead{\textrmlf{Compiled }\#8772\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8769
+  \#8772
   \textrmlf{ on}
       \today
   }       % new date
@@ -191,7 +191,9 @@ Function & First four terms & Generalized \\ \addlinespace
 \endhead
 \(\frac{1}{1-2x}\) & \(1+2x+4x^2+8x^3+\cdots\) &
 \(\sum_{k=0} 2^k x^k\) \\ \addlinespace
-\$\$ & \$ & \\ \addlinespace
+\(\cos(3x)\) &
+\(1-\frac{9x^2}{2!}+\frac{81x^4}{4!}-\frac{729x^6}{6!}+\cdots\) &
+\(\sum_{k=0} \frac{(-1)^k (3x)^{2k}}{2k!}\) \\ \addlinespace
 \bottomrule
 \end{longtable}
 
