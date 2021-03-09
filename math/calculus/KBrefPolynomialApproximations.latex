@@ -17,6 +17,8 @@
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
 
+\usepackage{lastpage}
+
 \usepackage{enumitem}
 \setlistdepth{9}
 
@@ -130,11 +132,16 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8338)}}    % original
-%\rhead{\textrmlf{Compiled }\#8338\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8338\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8777)}}    % original
+%\rhead{\textrmlf{Compiled }\#8777\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#8777
+  \textrmlf{ on}
+      \today
+  }       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -172,7 +179,6 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
 
 \begin{longtable}[]{@{}llll@{}}
 \toprule
@@ -186,7 +192,7 @@ raw \\ \addlinespace
 \(\sum\limits_{k=0} \frac{(-1)^k x^{2k}}{(2k)!}\) & raw \\ \addlinespace
 \(e^x\) & \(1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \cdots\) &
 \(\sum\limits_{k=0} \frac{x^k }{k!}\) & raw \\ \addlinespace
-\(\frac{1}{1-x}\) & \(1-x+x^2-x^3+\cdots\) &
+\(\frac{1}{1-x}\) & \(1+x+x^2+x^3+\cdots\) &
 \(\sum \limits_{k=0} (-x)^k\) & geometric series \\ \addlinespace
 & & & \\ \addlinespace
 \bottomrule
