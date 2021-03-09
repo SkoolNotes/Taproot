@@ -1,6 +1,7 @@
 #+AUTHOR: Exr0n
 * Complete the Representation
-  | Function         | First four terms        | Generalized             |
-  |------------------+-------------------------+-------------------------|
-  | $\frac{1}{1-2x}$ | $1+2x+4x^2+8x^3+\cdots$ | $\sum_{k=0} 2^k x^k$ |
-  | $\cos(3x)$       | $1-\frac{9x^2}{2!}+\frac{81x^4}{4!}-\frac{729x^6}{6!}+\cdots$ | $\sum_{k=0} \frac{(-1)^k (3x)^{2k}}{2k!}$ |
+  | Function          | First four terms                                              | Generalized                               |
+  |-------------------+---------------------------------------------------------------+-------------------------------------------|
+  | $\frac{1}{1-2x}$  | $1+2x+4x^2+8x^3+\cdots$                                       | $\sum_{k=0} 2^k x^k$                      |
+  | $\cos(3x)$        | $1-\frac{9x^2}{2!}+\frac{81x^4}{4!}-\frac{729x^6}{6!}+\cdots$ | $\sum_{k=0} \frac{(-1)^k (3x)^{2k}}{2k!}$ |
+  | $\frac{e^x}{e^2}$ | $\frac{1}{e^2} + \frac{x}{e^2} + \frac{x^2}{e^2 2!} + \cdots$ |                                           |

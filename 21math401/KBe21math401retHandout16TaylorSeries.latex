@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8772)}}    % original
-%\rhead{\textrmlf{Compiled }\#8772\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8773)}}    % original
+%\rhead{\textrmlf{Compiled }\#8773\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8772
+  \#8773
   \textrmlf{ on}
       \today
   }       % new date
@@ -194,6 +194,9 @@ Function & First four terms & Generalized \\ \addlinespace
 \(\cos(3x)\) &
 \(1-\frac{9x^2}{2!}+\frac{81x^4}{4!}-\frac{729x^6}{6!}+\cdots\) &
 \(\sum_{k=0} \frac{(-1)^k (3x)^{2k}}{2k!}\) \\ \addlinespace
+\(\frac{e^x}{e^2}\) &
+\(\frac{1}{e^2} + \frac{x}{e^2} + \frac{x^2}{e^2 2!} + \cdots\)
+& \\ \addlinespace
 \bottomrule
 \end{longtable}
 
