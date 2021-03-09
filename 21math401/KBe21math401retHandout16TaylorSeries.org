@@ -8,4 +8,5 @@
   | $\sin(x^2)$             | $\frac{x^2-\frac{x^6}{3!} + \frac{x^10}{5!} + \frac{x^14}{7!} + \cdots$   | $\sum_{k=0} \frac{(-1)^k x^2^{2k+1}}{(2k+1)!}$ |
   | $\frac{1}{1+x^4}$       | $1 - x^4 + x^8 - x^16 + \cdots$                                           | $\sum_{k=0} (-x^4)^k$                          |
   | $e^(x-1)$               | $1+\frac{(x-1)^2}{2!} + \frac{(x-1)^4}{4!} + \frac{(x-1)^6}{6!} + \cdots$ | $\sum_{k=0} \frac{(x-1)^{2k}}{k!}$             |
-  | $\frac{\cos(x)-1}{x^2}$ | $-\frac{1}{2!} + \frac{x^2}{4!} - \frac{x^4}{ 6!} + \cdots$ | $\sum_{k=1} \frac{(-1)^k x^{2(k-1)}}{(2k)!}$ |
+  | $\frac{\cos(x)-1}{x^2}$ | $-\frac{1}{2!} + \frac{x^2}{4!} - \frac{x^4}{ 6!} + \cdots$               | $\sum_{k=1} \frac{(-1)^k x^{2(k-1)}}{(2k)!}$   |
+  | $2x \ln (1+2x)$         |                                                                           |                                                |
