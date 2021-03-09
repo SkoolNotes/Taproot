@@ -127,3 +127,7 @@ Neutrinos interact only by weak interactions, which is (bar gravity, which is th
 | Nucleaons | Neutrons and protons that reside in the nucleai |
 | Fermions | Leptons, quarks, and nucleans: all have 1/2 odd interger spin |
 | Bosons | Force carriers, like mesons, have intergin spin | 
+
+Positive pion decays into a positive muon, an *antimuon*, and a neutrino. 
+
+The negative pion decays into a negative muon and an antineutrino.

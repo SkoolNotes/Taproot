@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8756)}}    % original
-%\rhead{\textrmlf{Compiled }\#8756\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8757)}}    % original
+%\rhead{\textrmlf{Compiled }\#8757\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8756
+  \#8757
   \textrmlf{ on}
       \today
   }       % new date
@@ -368,5 +368,10 @@ Bosons & Force carriers, like mesons, have intergin
 spin \\ \addlinespace
 \bottomrule
 \end{longtable}
+
+Positive pion decays into a positive muon, an \emph{antimuon}, and a
+neutrino.
+
+The negative pion decays into a negative muon and an antineutrino.
 
 \end{document}
