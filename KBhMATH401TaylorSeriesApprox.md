@@ -11,3 +11,5 @@ Linear approximations are represented by L. So, say if we are at a point 4; we c
 That could also be represented as L(4.1): "linear approximation of "
 
 Difference between true function value
+
+![[gm76m3.gif]]
