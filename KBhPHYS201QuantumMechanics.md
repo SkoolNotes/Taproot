@@ -120,4 +120,6 @@ Neutrinos interact only by weak interactions, which is (bar gravity, which is th
 | Particle | Wat |
 |---|---|
 | Leptons | Fundimental one-half spin particles, experience strong interaction, have no quarks |
-| Baryons | Componsite particles made of quarks + has 1/2, or 3/2, or 5/2 spin 
+| Baryons | Componsite particles made of quarks + has 1/2, or 3/2, or 5/2 spin |
+| Mesons | Composite particles made of quarks + has 0, 1, or any interger spin |
+| Quarks | Fundimental strongly
