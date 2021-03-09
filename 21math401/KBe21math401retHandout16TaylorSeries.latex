@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8785)}}    % original
-%\rhead{\textrmlf{Compiled }\#8785\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8786)}}    % original
+%\rhead{\textrmlf{Compiled }\#8786\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8785
+  \#8786
   \textrmlf{ on}
       \today
   }       % new date
@@ -206,8 +206,8 @@ Function & First four terms & Generalized \\ \addlinespace
 \(1+\frac{(x-1)^2}{2!} + \frac{(x-1)^4}{4!} + \frac{(x-1)^6}{6!} + \cdots\)
 & \(\sum_{k=0} \frac{(x-1)^{2k}}{k!}\) \\ \addlinespace
 \(\frac{\cos(x)-1}{x^2}\) &
-\(-\frac{1}{2!} + \frac{x^2}{4!} - \frac{x^4}{ 6!} + \cdots\)
-& \\ \addlinespace
+\(-\frac{1}{2!} + \frac{x^2}{4!} - \frac{x^4}{ 6!} + \cdots\) &
+\(\sum_{k=1} \frac{(-1}^k x^{2(k-1)}}{(k+1)!}\) \\ \addlinespace
 \bottomrule
 \end{longtable}
 
