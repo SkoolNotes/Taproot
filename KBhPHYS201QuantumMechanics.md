@@ -114,5 +114,5 @@ Lepton => "small", but they are not actually that small as what their original n
 	
 **Interactions in the small scale world occur through the creation and annihilation of particles.**
 
-
+Neutrinos interact only by weak interactions, whi
 
