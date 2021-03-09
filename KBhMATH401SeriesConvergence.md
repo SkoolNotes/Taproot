@@ -31,3 +31,4 @@ A lso, if $\lim_{n \to \infty} \frac{a_n}{b_n} = C\ (0<c<\infty)$, the two serie
 Provided that $a_n,b_n \geq 0\ \&\ a_n \leq b_n$
 
 ## Alternating Series Test
+![[Pasted image 20210309081249.png]]

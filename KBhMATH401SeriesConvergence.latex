@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8761)}}    % original
-%\rhead{\textrmlf{Compiled }\#8761\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8762)}}    % original
+%\rhead{\textrmlf{Compiled }\#8762\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8761
+  \#8762
   \textrmlf{ on}
       \today
   }       % new date
@@ -219,5 +219,7 @@ Provided that \(a_n,b_n \geq 0\ \&\ a_n \leq b_n\)
 
 \hypertarget{alternating-series-test}{%
 \subsection{Alternating Series Test}\label{alternating-series-test}}
+
+{[}{[}Pasted image 20210309081249.png{]}{]}
 
 \end{document}
