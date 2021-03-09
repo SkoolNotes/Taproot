@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8751)}}    % original
-%\rhead{\textrmlf{Compiled }\#8751\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8752)}}    % original
+%\rhead{\textrmlf{Compiled }\#8752\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8751
+  \#8752
   \textrmlf{ on}
       \today
   }       % new date
@@ -341,6 +341,21 @@ Neutrinos interact only by weak interactions, which is (bar gravity,
 which is the weakest physical interaction) a very weak physical
 interaction.
 
-Pions and Muons are two pairtcles
+\hypertarget{a-table-of-partiles}{%
+\subsection{A table of partiles}\label{a-table-of-partiles}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}@{}}
+\toprule
+Particle & Wat \\ \addlinespace
+\midrule
+\endhead
+Leptons & Fundimental one-half spin particles, experience strong
+interaction, have no quarks \\ \addlinespace
+Baryons & Componsite particles made of quarks + has 1/2, or 3/2, or 5/2
+spin \\ \addlinespace
+\bottomrule
+\end{longtable}
 
 \end{document}

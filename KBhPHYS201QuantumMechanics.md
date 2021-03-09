@@ -116,5 +116,8 @@ Lepton => "small", but they are not actually that small as what their original n
 
 Neutrinos interact only by weak interactions, which is (bar gravity, which is the weakest physical interaction) a very weak physical interaction.
 
-Pions and Muons are two pairtcles
-
+## A table of partiles
+| Particle | Wat |
+|---|---|
+| Leptons | Fundimental one-half spin particles, experience strong interaction, have no quarks |
+| Baryons | Componsite particles made of quarks + has 1/2, or 3/2, or 5/2 spin 
