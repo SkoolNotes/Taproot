@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8806)}}    % original
-%\rhead{\textrmlf{Compiled }\#8806\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8807)}}    % original
+%\rhead{\textrmlf{Compiled }\#8807\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8806
+  \#8807
   \textrmlf{ on}
       \today
   }       % new date
@@ -226,6 +226,12 @@
 \item
   Equations to bridge relativity and quantum mechanics in order to
   describe the electron predicted 1/2 spin and also anti-matter
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Some particles are their own anti-particles
+  \end{itemize}
 \item
 \end{itemize}
 

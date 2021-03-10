@@ -20,4 +20,5 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
  - Effectively launched particle physics as we know it
  - Is beta radiation
  - Equations to bridge relativity and quantum mechanics in order to describe the electron predicted 1/2 spin and also anti-matter
+	 - Some particles are their own anti-particles
  - 
