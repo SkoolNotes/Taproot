@@ -43,9 +43,14 @@ Both provided that $a_n,b_n \geq 0\ \&\ a_n \leq b_n$
 ## Ratio Test
 In a geometric series, the common ratio is simply $r = \frac{r^{n+1}}{r^n}$.
 
-As limit goes to infinity in the $r$, if the common ratio approaches 0, that means that the ra
+If $r$ is an real value, $|r|<1$, then series converges. If $|r| \geq 1$, the series diverges.
+
+As limit goes to infinity in the $r$, if the common ratio approaches <1, that means that the ratio will get smaller and smaller, just like if $r$ were to be a real value and it was smaller than one. Meaning that the series **converges.**
 
 ![[Pasted image 20210310083028.png]]
 
-If $r$ is an real value, $|r|<1$, then series converges. If $|r| \geq 1$, the series diverges.
+And so, formally.
+
+![[Pasted image 20210310083142.png]]
+
 
