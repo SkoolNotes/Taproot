@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8798)}}    % original
-%\rhead{\textrmlf{Compiled }\#8798\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8799)}}    % original
+%\rhead{\textrmlf{Compiled }\#8799\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8798
+  \#8799
   \textrmlf{ on}
       \today
   }       % new date
@@ -193,8 +193,11 @@
   \begin{itemize}
   \tightlist
   \item
-    Flavor 1: The electron and it's nuetrino
+    Flavor 1: the electron and it's nuetrino
   \item
+    Flavor 2: the Muon and it's nuetrino
+  \item
+    Flavor 3: the
   \end{itemize}
 \end{itemize}
 
