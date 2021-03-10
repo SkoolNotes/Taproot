@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8873)}}    % original
-%\rhead{\textrmlf{Compiled }\#8873\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8874)}}    % original
+%\rhead{\textrmlf{Compiled }\#8874\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8873
+  \#8874
   \textrmlf{ on}
       \today
   }       % new date
@@ -486,6 +486,12 @@ charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multipl
 \begin{enumerate}
 \item
   another type of 'charge' that is also conserved
+\item
+  protons and neutrons are both baryonic (meaning they have baryon
+  number?)
+\item
+  like leptons, the lightest baryon cannot decay because there is
+  nothing to decay into (the proton)
 \end{enumerate}
 
 \end{document}
