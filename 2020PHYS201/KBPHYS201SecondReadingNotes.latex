@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8831)}}    % original
-%\rhead{\textrmlf{Compiled }\#8831\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8832)}}    % original
+%\rhead{\textrmlf{Compiled }\#8832\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8831
+  \#8832
   \textrmlf{ on}
       \today
   }       % new date
@@ -309,7 +309,9 @@
       This brings us back to it being a different \emph{flavor}
     \end{itemize}
   \end{itemize}
-\item
 \end{itemize}
+
+\hypertarget{the-muon-neutrino}{%
+\subsection{\#\#\# The Muon Neutrino}\label{the-muon-neutrino}}
 
 \end{document}

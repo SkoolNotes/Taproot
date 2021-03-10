@@ -42,4 +42,6 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
  - Muons appeared exactly like electrons but more massive
 	 - For some reason however it doesn't decay into an electron and like a gamma ray so we can assume it is somehow fundamentally different
 		 - This brings us back to it being a different *flavor*
- - 
+
+### The Muon Neutrino
+- 
