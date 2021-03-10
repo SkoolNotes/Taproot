@@ -10,4 +10,5 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
 	 - Flavor 1: the electron and it's nuetrino
 	 - Flavor 2: the Muon and it's nuetrino
 	 - Flavor 3: the the tau lepton and it's nuetrino
- - Leptons either carry one unit of spin 
+ - Leptons carry one-half unit of spin and are either neutral or have 1 negative charge
+ - For every lepton there's an anti-lepton with an opposite unit of charge 
