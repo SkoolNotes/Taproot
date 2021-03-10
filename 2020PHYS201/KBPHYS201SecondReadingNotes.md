@@ -15,7 +15,8 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
  - Leptons have no known size and in all theories describing them are point particles
 
 ## Particles
-- **Leptons** 
+- **Leptons** are fundemental spin one half particles that experience no strong interactions and contain no quarks
+- 
 
 ## Electrons
  - Electrons are Leptons
