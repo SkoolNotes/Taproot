@@ -179,4 +179,6 @@ Hence: $hf = WF + KE_{e^-}$
 
 To measure the ejection, you need to chuck the whole apparutus in a vaccume. Because if there are air molecules, it would absorbe the electrons.
 
-To continually eject electrons (otherwise, you would eject a few, your metal becomes positive, and no more electrons for you), you also need to collect the ejected electrons and put them back into the metal
+To continually eject electrons (otherwise, you would eject a few, your metal becomes positive, and no more electrons for you), you also need to collect the ejected electrons and put them back into the metal.
+
+To figure out the amount
