@@ -176,3 +176,7 @@ Electron will be ejected as long as your kinetic energy gets there.
 Energy of yoru photons goes to two places => satisfying the work function + Kinetic energy of the ejected electron
 
 Hence: $hf = WF + KE_{e^-}$
+
+To measure the ejection, you need to chuck the whole apparutus in a vaccume. Because if there are air molecules, it would absorbe the electrons.
+
+To continually eject electrons (otherwise, you would eject a few, your metal becomes positive, and no more electrons for you), you also need to 
