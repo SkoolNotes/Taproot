@@ -56,3 +56,9 @@ And so, formally.
 The inverse is true, too.
 
 **However, if the ratio is equal to one, the test is inconclusive.**
+
+***
+
+Absolute Convergence => series who converge and whose absolute value converges
+
+Conditional Convergence => series who converge and whose absolute value does not converge
