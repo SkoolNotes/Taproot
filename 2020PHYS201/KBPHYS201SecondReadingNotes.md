@@ -31,3 +31,5 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
  - We detected Nuetrinos through weak interactions with things around them
 
 ## Muons
+ - Cosmic radiation kept giving rise to the theory that there were charged particles around 200x more massive than an electron
+ - 
