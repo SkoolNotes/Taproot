@@ -14,7 +14,7 @@ In $\sum_{k=0}^\infty a(r^k)$, where $|r|<1$, the series converges to $\sum_{k=0
 In $\sum_{k=0}^n a(r^k)$,  $\sum_{k=0}^n a(r^k) = \frac{a-ar^{n+1}}{1-r}$ 
 
 ## nth term divergence test
-If $\lim_{n \to \infty} a_n$ is not zero, the series **will** diverge. The inverse is not true.
+If $\lim_{n \to \infty} a_n$ is not zero, the series **will** diverge. The inverse is not necessarily true; that is, if this fails, use another test to test convergence.
 
 ## Intergral Test
 

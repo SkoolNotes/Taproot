@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8837)}}    % original
-%\rhead{\textrmlf{Compiled }\#8837\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8838)}}    % original
+%\rhead{\textrmlf{Compiled }\#8838\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8837
+  \#8838
   \textrmlf{ on}
       \today
   }       % new date
@@ -198,7 +198,8 @@ In \(\sum_{k=0}^n a(r^k)\),
 \subsection{nth term divergence test}\label{nth-term-divergence-test}}
 
 If \(\lim_{n \to \infty} a_n\) is not zero, the series \textbf{will}
-diverge. The inverse is not true.
+diverge. The inverse is not necessarily true; that is, if this fails,
+use another test to test convergence.
 
 \hypertarget{intergral-test}{%
 \subsection{Intergral Test}\label{intergral-test}}
