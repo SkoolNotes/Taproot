@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8826)}}    % original
-%\rhead{\textrmlf{Compiled }\#8826\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8827)}}    % original
+%\rhead{\textrmlf{Compiled }\#8827\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8826
+  \#8827
   \textrmlf{ on}
       \today
   }       % new date
@@ -229,6 +229,10 @@
   \textbf{Quarks} are the fundamentally strongly interacting particles
   that are constituents of Baryons and have baryonic charge giving them
   a charge of 0 if two of them are united and 1 if 3 of them are
+\item
+  \textbf{Force carriers} are particles whose creation, annihilation,
+  and exchange create forces. It is these particles that we believe have
+  no substructure
 \item
 \end{itemize}
 

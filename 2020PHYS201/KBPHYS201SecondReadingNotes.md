@@ -19,6 +19,7 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
 - **Baryons** are strong interacting particles that *do* contain quarks and have spin one half, but also 3/2 and 5/2 in some cases and are relatively heavy
 - **Mesons** are composite strongly interacting particles also made of quarks that have spin either 0 or 1.
 - **Quarks** are the fundamentally strongly interacting particles that are constituents of Baryons and have baryonic charge giving them a charge of 0 if two of them are united and 1 if 3 of them are
+- **Force carriers** are particles whose creation, annihilation, and exchange create forces. It is these particles that we believe have no substructure
 - 
 
 ## Electrons
