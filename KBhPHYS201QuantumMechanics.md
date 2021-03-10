@@ -169,4 +169,8 @@ So each e- in metal interacts with one photon at a time.
 
 ![[Pasted image 20210310113322.png]]
 
-A certain minimum amonut of energy is needed for electron to escape. This is called the
+A certain minimum amonut of energy is needed for electron to escape. The minimum escape energy is called the "work function" of the metal.
+
+Electron will be ejected as long as your kinetic energy gets there.
+
+Energy of yoru photons goes to two places => satisfying the work function,
