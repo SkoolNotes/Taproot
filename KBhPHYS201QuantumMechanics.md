@@ -145,6 +145,15 @@ If you take a piece of conductor, for instance, a metal, and shine a EM radiatio
 
 Most effective way of doing this: large Force, and shine for a long time.
 
-Wrong but intuitiv
+**Wrong but intuitive**:
+
 Large force => large electric field => bright light.
 Long wavelength light => long time => red light.
+
+**But!**
+Long wavelength light, no matter how bright, ejected nothing.
+Short wavelength light, no mater how dim, ejected electron.
+
+Kinetic energy of the ejected electrons was related to the frequency of the electron used. Higher frequencies gave electrons more frequency.
+
+The brightness of 
