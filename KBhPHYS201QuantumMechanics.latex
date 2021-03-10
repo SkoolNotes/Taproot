@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8850)}}    % original
-%\rhead{\textrmlf{Compiled }\#8850\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8851)}}    % original
+%\rhead{\textrmlf{Compiled }\#8851\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8850
+  \#8851
   \textrmlf{ on}
       \today
   }       % new date
@@ -403,6 +403,7 @@ nothing. Short wavelength light, no mater how dim, ejected electron.
 Kinetic energy of the ejected electrons was related to the frequency of
 the electron used. Higher frequencies gave electrons more frequency.
 
-Th
+The brightness of light only had to do with electrons/sec.~If you make
+the light brighter, you just get more of electrons, but they have the
 
 \end{document}

@@ -156,4 +156,4 @@ Short wavelength light, no mater how dim, ejected electron.
 
 Kinetic energy of the ejected electrons was related to the frequency of the electron used. Higher frequencies gave electrons more frequency.
 
-The brightness of 
+The brightness of light only had to do with electrons/sec. If you make the light brighter, you just get more of electrons, but they have the 
