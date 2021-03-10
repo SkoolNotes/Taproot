@@ -156,4 +156,14 @@ Short wavelength light, no mater how dim, ejected electron.
 
 Kinetic energy of the ejected electrons was related to the frequency of the electron used. Higher frequencies gave electrons more frequency.
 
-The brightness of light only had to do with electrons/sec. If you make the light brighter, you just get more of electrons, but they have the 
+The brightness of light only had to do with electrons/sec. If you make the light brighter, you just get more of electrons, but they have the same energy.
+
+this is because....
+
+
+**Light is a particle! A photon.**
+
+Each photon has an energy porportional to its frequency; that is, $E=hf$, where f is plank's constant and f the frequency.
+
+So each e- in metal interacts with one photon at a time.
+
