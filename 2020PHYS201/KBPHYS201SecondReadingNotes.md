@@ -17,7 +17,8 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
 ## Particles
 - **Leptons** are fundemental spin one half particles that experience no strong interactions and contain no quarks
 - **Baryons** are strong interacting particles that *do* contain quarks and have spin one half, but also 3/2 and 5/2 in some cases and are relatively heavy
-- **Mesons** are composite strongly interacting particles also made of quarks that have spin either 0 or 1. 
+- **Mesons** are composite strongly interacting particles also made of quarks that have spin either 0 or 1.
+- **Quarks** are the fundamentally strongly interacting particles 
 
 ## Electrons
  - Electrons are Leptons
