@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8823)}}    % original
-%\rhead{\textrmlf{Compiled }\#8823\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8824)}}    % original
+%\rhead{\textrmlf{Compiled }\#8824\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8823
+  \#8824
   \textrmlf{ on}
       \today
   }       % new date
@@ -224,7 +224,7 @@
   cases and are relatively heavy
 \item
   \textbf{Mesons} are composite strongly interacting particles also made
-  of quarks,
+  of quarks that have spin either 0 or 1.
 \end{itemize}
 
 \hypertarget{electrons}{%
