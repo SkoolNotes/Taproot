@@ -28,4 +28,5 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
  - Neutrino was suggested as a way to solve some of beta decay's issues
 	 - So was neutron
  - There are 3 types of neutrinos known
+ - We detected Nuetrinos through weak interactions with things around them
  - 

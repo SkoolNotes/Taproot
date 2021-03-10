@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8816)}}    % original
-%\rhead{\textrmlf{Compiled }\#8816\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8817)}}    % original
+%\rhead{\textrmlf{Compiled }\#8817\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8816
+  \#8817
   \textrmlf{ on}
       \today
   }       % new date
@@ -256,6 +256,9 @@
   \end{itemize}
 \item
   There are 3 types of neutrinos known
+\item
+  We detected Nuetrinos through weak interactions with things around
+  them
 \item
 \end{itemize}
 
