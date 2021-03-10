@@ -7,3 +7,4 @@ source: [[KBPhysicsMasterIndex]]
 
 ## First Reading (Ch1-Ch2)
  - [[KBPHSY201FirstReadingNotes]]
+ - [[KBPHYS201SecondReadingNotes]]

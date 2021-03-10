@@ -118,8 +118,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS201 }
-\newcommand{\thelesson}{ Quantum World Book Notes Index }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -140,7 +140,7 @@
   \textrmlf{ on}
       \today
   }       % new date
-\lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -179,18 +179,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBPhysicsMasterIndex}{\tiny\textulf{[[}\textbf{KBPhysicsMasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{first-reading-ch1-ch2}{%
-\subsection{First Reading (Ch1-Ch2)}\label{first-reading-ch1-ch2}}
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBPHSY201FirstReadingNotes{]}{]}
-\item
-  {[}{[}KBPHYS201SecondReadingNotes{]}{]}
-\end{itemize}
 
 \end{document}
