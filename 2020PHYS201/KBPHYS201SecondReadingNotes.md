@@ -14,6 +14,9 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
  - For every lepton there's an anti-lepton with an opposite unit of charge and the same mass
  - Leptons have no known size and in all theories describing them are point particles
 
+## Particles
+- **Leptons** 
+
 ## Electrons
  - Electrons are Leptons
  - Has an opposite which is the positron
