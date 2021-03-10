@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8875)}}    % original
-%\rhead{\textrmlf{Compiled }\#8875\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8876)}}    % original
+%\rhead{\textrmlf{Compiled }\#8876\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8875
+  \#8876
   \textrmlf{ on}
       \today
   }       % new date
@@ -496,12 +496,15 @@ charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multipl
   quarks have one-third baryon number also
 \end{enumerate}
 
-\hypertarget{antiquqarks}{%
-\subsubsection{antiquqarks}\label{antiquqarks}}
+\hypertarget{antiquarks}{%
+\subsubsection{antiquarks}\label{antiquarks}}
 
 \begin{enumerate}
 \item
-  made
+  makes up meson with another singular quark (For a total baryon number
+  of 0)
+\item
+  antiquark particles are unstable
 \end{enumerate}
 
 \end{document}
