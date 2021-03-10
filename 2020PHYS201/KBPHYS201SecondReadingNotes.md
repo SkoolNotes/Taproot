@@ -40,4 +40,6 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
 ## Muons
  - Cosmic radiation kept giving rise to the theory that there were charged particles around 200x more massive than an electron
  - Muons appeared exactly like electrons but more massive
+	 - For some reason however it doesn't decay into an electron and like a gamma ray so we can assume it is somehow fundamentally different
+		 - This brings us back to it being a different *flavor*
  - 

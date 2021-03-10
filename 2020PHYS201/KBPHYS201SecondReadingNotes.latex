@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8830)}}    % original
-%\rhead{\textrmlf{Compiled }\#8830\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8831)}}    % original
+%\rhead{\textrmlf{Compiled }\#8831\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8830
+  \#8831
   \textrmlf{ on}
       \today
   }       % new date
@@ -296,6 +296,19 @@
   charged particles around 200x more massive than an electron
 \item
   Muons appeared exactly like electrons but more massive
+
+  \begin{itemize}
+  \tightlist
+  \item
+    For some reason however it doesn't decay into an electron and like a
+    gamma ray so we can assume it is somehow fundamentally different
+
+    \begin{itemize}
+    \tightlist
+    \item
+      This brings us back to it being a different \emph{flavor}
+    \end{itemize}
+  \end{itemize}
 \item
 \end{itemize}
 
