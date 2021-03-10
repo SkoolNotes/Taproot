@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8871)}}    % original
-%\rhead{\textrmlf{Compiled }\#8871\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8872)}}    % original
+%\rhead{\textrmlf{Compiled }\#8872\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8871
+  \#8872
   \textrmlf{ on}
       \today
   }       % new date
@@ -474,5 +474,10 @@ three}\label{six-of-them-in-groups-of-three}}
 \hypertarget{they-group-up-in-the-wild-to-make-up-other-composite-particles}{%
 \subsubsection{they group up in the wild to make up other composite
 particles}\label{they-group-up-in-the-wild-to-make-up-other-composite-particles}}
+
+\hypertarget{particles-have-integer-charge-but-quarks-come-in-one-third-multiples-of-charge}{%
+\subsubsection{particles have integer charge, but quarks come in
+one-third multiples of
+charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multiples-of-charge}}
 
 \end{document}
