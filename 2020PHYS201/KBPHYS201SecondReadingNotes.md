@@ -27,4 +27,5 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
  - Gamma radiation is produced by a change in quantum state of the protons
  - Neutrino was suggested as a way to solve some of beta decay's issues
 	 - So was neutron
+ - There are 3 types of neutrinos known
  - 
