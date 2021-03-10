@@ -7,9 +7,16 @@ author: Houjun Liu
 
 # Series Convergence
 
+## Geometric Series
+
 In $\sum_{k=0}^\infty a(r^k)$, where $|r|<1$, the series converges to $\sum_{k=0}^\infty a(r^k) = \frac{a}{1-r}$ 
 
 In $\sum_{k=0}^n a(r^k)$,  $\sum_{k=0}^n a(r^k) = \frac{a-ar^{n+1}}{1-r}$ 
+
+## nth term divergence test
+If $\lim_{n \to \infty} a_n$ is not zero, the series **will** diverge. The inverse is not true.
+
+## Intergral Test
 
 If the intergral to infinity is convergent, the sequence is convergent as long as the sequence is continuous, positive, and decreasing. The inverse applies, too.
 

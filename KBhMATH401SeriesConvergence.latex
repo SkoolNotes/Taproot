@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8836)}}    % original
-%\rhead{\textrmlf{Compiled }\#8836\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8837)}}    % original
+%\rhead{\textrmlf{Compiled }\#8837\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8836
+  \#8837
   \textrmlf{ on}
       \today
   }       % new date
@@ -185,11 +185,23 @@
 \hypertarget{series-convergence}{%
 \section{Series Convergence}\label{series-convergence}}
 
+\hypertarget{geometric-series}{%
+\subsection{Geometric Series}\label{geometric-series}}
+
 In \(\sum_{k=0}^\infty a(r^k)\), where \(|r|<1\), the series converges
 to \(\sum_{k=0}^\infty a(r^k) = \frac{a}{1-r}\)
 
 In \(\sum_{k=0}^n a(r^k)\),
 \(\sum_{k=0}^n a(r^k) = \frac{a-ar^{n+1}}{1-r}\)
+
+\hypertarget{nth-term-divergence-test}{%
+\subsection{nth term divergence test}\label{nth-term-divergence-test}}
+
+If \(\lim_{n \to \infty} a_n\) is not zero, the series \textbf{will}
+diverge. The inverse is not true.
+
+\hypertarget{intergral-test}{%
+\subsection{Intergral Test}\label{intergral-test}}
 
 If the intergral to infinity is convergent, the sequence is convergent
 as long as the sequence is continuous, positive, and decreasing. The
