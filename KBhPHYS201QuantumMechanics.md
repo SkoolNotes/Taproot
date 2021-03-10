@@ -175,7 +175,7 @@ Electron will be ejected as long as your kinetic energy gets there.
 
 Energy of yoru photons goes to two places => satisfying the work function + Kinetic energy of the ejected electron
 
-Hence: $hf = WF + KE_{e^-}$
+Hence: $hf = WF + KE_{e^-}$, where WF is the work function of the material.
 
 To measure the ejection, you need to chuck the whole apparutus in a vaccume. Because if there are air molecules, it would absorbe the electrons.
 
@@ -185,4 +185,6 @@ To figure out the amount of kinetic energy, simply figure out how much voltage n
 
 Increase Vstop untill current drops to 0.
 
-$V_{stop} \times Q_e = KE$. The kinetic energy of ejected electrons multiplied by Vstop is
+$V_{stop} \times Q_e = KE$. The kinetic energy of ejected electrons is charge of an electron times the stopping voltage multiplied by.
+
+Finally, plugging stuff into the previous hf equation: $hf = WF + Q_e \times V_{stop}$
