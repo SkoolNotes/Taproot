@@ -181,4 +181,8 @@ To measure the ejection, you need to chuck the whole apparutus in a vaccume. Bec
 
 To continually eject electrons (otherwise, you would eject a few, your metal becomes positive, and no more electrons for you), you also need to collect the ejected electrons and put them back into the metal.
 
-To figure out the amount of kinetic energy, simply figure out how much voltage need to be added to stop the protons. If the stopping voltage is small, it will need to fight the voltage but completes the circut. AS you 
+To figure out the amount of kinetic energy, simply figure out how much voltage need to be added to stop the protons. If the stopping voltage is small, it will need to fight the voltage but completes the circut. As you increase the stopping voltage, you want to figure out when the electrons don't have enough energy to complete the circut.
+
+Increase Vstop untill current drops to 0.
+
+$V_{stop} \times Q_e = KE$. The kinetic energy of ejected electrons multiplied by Vstop is

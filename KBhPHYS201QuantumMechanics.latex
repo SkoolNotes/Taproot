@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8860)}}    % original
-%\rhead{\textrmlf{Compiled }\#8860\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8861)}}    % original
+%\rhead{\textrmlf{Compiled }\#8861\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8860
+  \#8861
   \textrmlf{ on}
       \today
   }       % new date
@@ -439,7 +439,13 @@ collect the ejected electrons and put them back into the metal.
 
 To figure out the amount of kinetic energy, simply figure out how much
 voltage need to be added to stop the protons. If the stopping voltage is
-small, it will need to fight the voltage but completes the circut. AS
-you
+small, it will need to fight the voltage but completes the circut. As
+you increase the stopping voltage, you want to figure out when the
+electrons don't have enough energy to complete the circut.
+
+Increase Vstop untill current drops to 0.
+
+\(V_{stop} \times Q_e = KE\). The kinetic energy of ejected electrons
+multiplied by Vstop is
 
 \end{document}
