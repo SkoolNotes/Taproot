@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8803)}}    % original
-%\rhead{\textrmlf{Compiled }\#8803\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8804)}}    % original
+%\rhead{\textrmlf{Compiled }\#8804\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8803
+  \#8804
   \textrmlf{ on}
       \today
   }       % new date
@@ -208,6 +208,15 @@
 \item
   Leptons have no known size and in all theories describing them are
   point particles
+\end{itemize}
+
+\hypertarget{electrons}{%
+\subsection{Electrons}\label{electrons}}
+
+\begin{itemize}
+\tightlist
+\item
+  Electrons are Leptons
 \item
 \end{itemize}
 

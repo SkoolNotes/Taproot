@@ -13,4 +13,7 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
  - Leptons carry one-half unit of spin and are either neutral or have 1 negative charge
  - For every lepton there's an anti-lepton with an opposite unit of charge and the same mass
  - Leptons have no known size and in all theories describing them are point particles
+
+## Electrons
+ - Electrons are Leptons
  - 
