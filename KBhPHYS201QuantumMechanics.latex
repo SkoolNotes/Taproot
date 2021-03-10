@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8856)}}    % original
-%\rhead{\textrmlf{Compiled }\#8856\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8857)}}    % original
+%\rhead{\textrmlf{Compiled }\#8857\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8856
+  \#8857
   \textrmlf{ on}
       \today
   }       % new date
@@ -435,5 +435,6 @@ electrons.
 
 To continually eject electrons (otherwise, you would eject a few, your
 metal becomes positive, and no more electrons for you), you also need to
+collect the ejected electrons and put them back into the metal
 
 \end{document}
