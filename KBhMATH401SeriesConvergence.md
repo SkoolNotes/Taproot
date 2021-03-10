@@ -36,3 +36,6 @@ Both provided that $a_n,b_n \geq 0\ \&\ a_n \leq b_n$
 ## Ratio Test
 In a geometric series, the common ratio is simply $r$.
 
+If $|r|<1$, then series converges. If $|r| \geq 1$, the series diverges.
+
+
