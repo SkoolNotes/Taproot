@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8870)}}    % original
-%\rhead{\textrmlf{Compiled }\#8870\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8871)}}    % original
+%\rhead{\textrmlf{Compiled }\#8871\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8870
+  \#8871
   \textrmlf{ on}
       \today
   }       % new date
@@ -466,5 +466,13 @@ family}\label{the-rest-of-the-extended-family}}
 
 \hypertarget{quarks}{%
 \subsection{quarks}\label{quarks}}
+
+\hypertarget{six-of-them-in-groups-of-three}{%
+\subsubsection{six of them in groups of
+three}\label{six-of-them-in-groups-of-three}}
+
+\hypertarget{they-group-up-in-the-wild-to-make-up-other-composite-particles}{%
+\subsubsection{they group up in the wild to make up other composite
+particles}\label{they-group-up-in-the-wild-to-make-up-other-composite-particles}}
 
 \end{document}
