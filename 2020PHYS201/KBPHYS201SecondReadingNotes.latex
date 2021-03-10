@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8807)}}    % original
-%\rhead{\textrmlf{Compiled }\#8807\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8808)}}    % original
+%\rhead{\textrmlf{Compiled }\#8808\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8807
+  \#8808
   \textrmlf{ on}
       \today
   }       % new date
@@ -211,7 +211,7 @@
 \end{itemize}
 
 \hypertarget{electrons}{%
-\subsection{Electrons}\label{electrons}}
+\subsubsection{Electrons}\label{electrons}}
 
 \begin{itemize}
 \tightlist
@@ -232,7 +232,16 @@
   \item
     Some particles are their own anti-particles
   \end{itemize}
+\end{itemize}
+
+\hypertarget{radioactivity}{%
+\subsubsection{Radioactivity}\label{radioactivity}}
+
+\begin{itemize}
+\tightlist
 \item
+  They realized that helium nucleus's shouldn't be able to escape the
+  nucleus of a particle
 \end{itemize}
 
 \end{document}

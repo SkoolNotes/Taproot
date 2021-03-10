@@ -14,11 +14,13 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
  - For every lepton there's an anti-lepton with an opposite unit of charge and the same mass
  - Leptons have no known size and in all theories describing them are point particles
 
-## Electrons
+### Electrons
  - Electrons are Leptons
  - Has an opposite which is the positron
  - Effectively launched particle physics as we know it
  - Is beta radiation
  - Equations to bridge relativity and quantum mechanics in order to describe the electron predicted 1/2 spin and also anti-matter
 	 - Some particles are their own anti-particles
- - 
+
+### Radioactivity
+ - They realized that helium nucleus's shouldn't be able to escape the nucleus of a particle 
