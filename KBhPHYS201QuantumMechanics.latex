@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8862)}}    % original
-%\rhead{\textrmlf{Compiled }\#8862\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8863)}}    % original
+%\rhead{\textrmlf{Compiled }\#8863\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8862
+  \#8863
   \textrmlf{ on}
       \today
   }       % new date
@@ -427,8 +427,8 @@ Electron will be ejected as long as your kinetic energy gets there.
 Energy of yoru photons goes to two places =\textgreater{} satisfying the
 work function + Kinetic energy of the ejected electron
 
-Hence: \(hf = WF + KE_{e^-}\), where WF is the work function of the
-material.
+Hence: \(h \times f = WF + KE_{e^-}\), where WF is the work function of
+the material, and h, planks constant, f is the frequency
 
 To measure the ejection, you need to chuck the whole apparutus in a
 vaccume. Because if there are air molecules, it would absorbe the
@@ -450,6 +450,6 @@ Increase Vstop untill current drops to 0.
 charge of an electron times the stopping voltage multiplied by.
 
 Finally, plugging stuff into the previous hf equation:
-\(hf = WF + Q_e \times V_{stop}\)
+\(h \times f = WF + Q_e \times V_{stop}\)
 
 \end{document}

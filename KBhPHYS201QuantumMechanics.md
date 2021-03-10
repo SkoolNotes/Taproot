@@ -175,7 +175,7 @@ Electron will be ejected as long as your kinetic energy gets there.
 
 Energy of yoru photons goes to two places => satisfying the work function + Kinetic energy of the ejected electron
 
-Hence: $hf = WF + KE_{e^-}$, where WF is the work function of the material.
+Hence: $h \times f = WF + KE_{e^-}$, where WF is the work function of the material, and h, planks constant, f is the frequency
 
 To measure the ejection, you need to chuck the whole apparutus in a vaccume. Because if there are air molecules, it would absorbe the electrons.
 
@@ -187,4 +187,4 @@ Increase Vstop untill current drops to 0.
 
 $V_{stop} \times Q_e = KE$. The kinetic energy of ejected electrons is charge of an electron times the stopping voltage multiplied by.
 
-Finally, plugging stuff into the previous hf equation: $hf = WF + Q_e \times V_{stop}$
+Finally, plugging stuff into the previous hf equation: $h \times f = WF + Q_e \times V_{stop}$
