@@ -16,7 +16,7 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
 
 ## Particles
 - **Leptons** are fundemental spin one half particles that experience no strong interactions and contain no quarks
-- 
+- **Baryons** are strong interacting particles that *do* contain quarks 
 
 ## Electrons
  - Electrons are Leptons
