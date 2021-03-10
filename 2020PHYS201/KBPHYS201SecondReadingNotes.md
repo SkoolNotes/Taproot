@@ -9,4 +9,5 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
  - There are three families of subatomic particles
 	 - Flavor 1: the electron and it's nuetrino
 	 - Flavor 2: the Muon and it's nuetrino
-	 - Flavor 3: the 
+	 - Flavor 3: the the tau lepton and it's nuetrino
+ - 
