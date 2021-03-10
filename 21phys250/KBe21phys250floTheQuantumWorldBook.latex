@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8872)}}    % original
-%\rhead{\textrmlf{Compiled }\#8872\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8873)}}    % original
+%\rhead{\textrmlf{Compiled }\#8873\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8872
+  \#8873
   \textrmlf{ on}
       \today
   }       % new date
@@ -479,5 +479,13 @@ particles}\label{they-group-up-in-the-wild-to-make-up-other-composite-particles}
 \subsubsection{particles have integer charge, but quarks come in
 one-third multiples of
 charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multiples-of-charge}}
+
+\hypertarget{baryon-number}{%
+\subsubsection{baryon number}\label{baryon-number}}
+
+\begin{enumerate}
+\item
+  another type of 'charge' that is also conserved
+\end{enumerate}
 
 \end{document}
