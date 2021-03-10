@@ -139,4 +139,8 @@ A pair of electrons could collide and form a pair of tou particles.
 Three flavours of leptons cannot interchange or become each other, but they could interact.
 
 # Photoelectric Effects
-If you take a piece of conductor, for instance, a metal, we 
+If you take a piece of conductor, for instance, a metal, and shine a EM radiation on it (a light), you will know that there is a possiblilty for electrons to escape the surface
+
+![[Pasted image 20210310112755.png]]
+
+Most effective way of photoelectric 
