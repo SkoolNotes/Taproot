@@ -19,4 +19,5 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
  - Has an opposite which is the positron
  - Effectively launched particle physics as we know it
  - Is beta radiation
+ - Equations to bridge relativity and quantum mechanics in order to describe the electron predicted 1/2 spin and also anti-matter
  - 
