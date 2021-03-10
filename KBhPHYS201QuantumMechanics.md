@@ -167,3 +167,6 @@ Each photon has an energy porportional to its frequency; that is, $E=hf$, where 
 
 So each e- in metal interacts with one photon at a time.
 
+![[Pasted image 20210310113322.png]]
+
+A certain minimum amonut of energy is needed for electron to escape. This is called the
