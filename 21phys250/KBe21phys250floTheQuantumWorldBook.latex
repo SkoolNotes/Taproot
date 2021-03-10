@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8864)}}    % original
-%\rhead{\textrmlf{Compiled }\#8864\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8865)}}    % original
+%\rhead{\textrmlf{Compiled }\#8865\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8864
+  \#8865
   \textrmlf{ on}
       \today
   }       % new date
@@ -438,5 +438,11 @@ volt)}\label{electron-volt-ev-energy-auired-by-an-electron-being-accelerated-thr
 
 \hypertarget{meet-the-leptons}{%
 \section{meet the leptons}\label{meet-the-leptons}}
+
+\hypertarget{types-flavor}{%
+\subsection{types (flavor)}\label{types-flavor}}
+
+\hypertarget{electron-muon-tau}{%
+\subsubsection{electron, muon, tau}\label{electron-muon-tau}}
 
 \end{document}
