@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8845)}}    % original
-%\rhead{\textrmlf{Compiled }\#8845\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8846)}}    % original
+%\rhead{\textrmlf{Compiled }\#8846\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8845
+  \#8846
   \textrmlf{ on}
       \today
   }       % new date
@@ -381,5 +381,7 @@ they could interact.
 
 \hypertarget{photoelectric-effects}{%
 \section{Photoelectric Effects}\label{photoelectric-effects}}
+
+If you take a piece of conductor, for instance, a metal, we
 
 \end{document}
