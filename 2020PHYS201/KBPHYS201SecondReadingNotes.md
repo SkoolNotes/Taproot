@@ -40,4 +40,4 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
 ## Muons
  - Cosmic radiation kept giving rise to the theory that there were charged particles around 200x more massive than an electron
  - Muons appeared exactly like electrons but more massive
-	 - They decay into 
+ - 
