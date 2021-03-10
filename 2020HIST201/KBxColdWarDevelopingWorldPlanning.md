@@ -26,7 +26,7 @@ https://www.jstor.org/stable/2936421?seq=1
 
 title? 
 
-Powers Edge: Attempted Ideological Change in 
+Powers Edge: Ideological Manipulation in Foreign Countries
 
 
 
