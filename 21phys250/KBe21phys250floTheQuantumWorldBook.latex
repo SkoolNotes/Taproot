@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8866)}}    % original
-%\rhead{\textrmlf{Compiled }\#8866\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8868)}}    % original
+%\rhead{\textrmlf{Compiled }\#8868\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8866
+  \#8868
   \textrmlf{ on}
       \today
   }       % new date
@@ -446,5 +446,10 @@ tau}\label{types-flavor-electron-muon-tau}}
 \hypertarget{conserve-charge-flavor-energy-momentum}{%
 \subsection{conserve \{charge, flavor, energy,
 momentum\}}\label{conserve-charge-flavor-energy-momentum}}
+
+\hypertarget{neutrinos-are-like-the-soul-of-its-particle---tiny-mass-but-same-flavor}{%
+\subsection{neutrinos are like the soul of its particle - tiny mass but
+same
+flavor}\label{neutrinos-are-like-the-soul-of-its-particle---tiny-mass-but-same-flavor}}
 
 \end{document}
