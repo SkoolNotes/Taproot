@@ -53,4 +53,6 @@ And so, formally.
 
 ![[Pasted image 20210310083142.png]]
 
+The inverse is true, too.
 
+**However, if the ratio is equal to one, the test is inconclusive.**

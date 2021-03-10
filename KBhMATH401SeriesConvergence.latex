@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8842)}}    % original
-%\rhead{\textrmlf{Compiled }\#8842\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8843)}}    % original
+%\rhead{\textrmlf{Compiled }\#8843\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8842
+  \#8843
   \textrmlf{ on}
       \today
   }       % new date
@@ -254,5 +254,10 @@ Meaning that the series \textbf{converges.}
 And so, formally.
 
 {[}{[}Pasted image 20210310083142.png{]}{]}
+
+The inverse is true, too.
+
+\textbf{However, if the ratio is equal to one, the test is
+inconclusive.}
 
 \end{document}
