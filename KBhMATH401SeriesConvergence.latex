@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8840)}}    % original
-%\rhead{\textrmlf{Compiled }\#8840\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8841)}}    % original
+%\rhead{\textrmlf{Compiled }\#8841\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8840
+  \#8841
   \textrmlf{ on}
       \today
   }       % new date
@@ -241,7 +241,10 @@ Both provided that \(a_n,b_n \geq 0\ \&\ a_n \leq b_n\)
 In a geometric series, the common ratio is simply
 \(r = \frac{r^{n+1}}{r^n}\).
 
-As limit goes to infinity in the \(r\)
+As limit goes to infinity in the \(r\), if the common ratio approaches
+0, that means that the ra
+
+{[}{[}Pasted image 20210310083028.png{]}{]}
 
 If \(r\) is an real value, \(|r|<1\), then series converges. If
 \(|r| \geq 1\), the series diverges.
