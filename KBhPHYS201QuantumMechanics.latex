@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8848)}}    % original
-%\rhead{\textrmlf{Compiled }\#8848\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8849)}}    % original
+%\rhead{\textrmlf{Compiled }\#8849\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8848
+  \#8849
   \textrmlf{ on}
       \today
   }       % new date
@@ -391,7 +391,8 @@ electrons to escape the surface
 Most effective way of doing this: large Force, and shine for a long
 time.
 
-Large force =\textgreater{} large electric field =\textgreater{} bright
-light.
+Wrong but intuitiv Large force =\textgreater{} large electric field
+=\textgreater{} bright light. Long wavelength light =\textgreater{} long
+time =\textgreater{} red light.
 
 \end{document}

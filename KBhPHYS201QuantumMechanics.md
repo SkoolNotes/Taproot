@@ -145,4 +145,6 @@ If you take a piece of conductor, for instance, a metal, and shine a EM radiatio
 
 Most effective way of doing this: large Force, and shine for a long time.
 
+Wrong but intuitiv
 Large force => large electric field => bright light.
+Long wavelength light => long time => red light.
