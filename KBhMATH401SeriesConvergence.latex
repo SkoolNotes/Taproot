@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8763)}}    % original
-%\rhead{\textrmlf{Compiled }\#8763\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8834)}}    % original
+%\rhead{\textrmlf{Compiled }\#8834\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8763
+  \#8834
   \textrmlf{ on}
       \today
   }       % new date
@@ -221,5 +221,8 @@ Both provided that \(a_n,b_n \geq 0\ \&\ a_n \leq b_n\)
 \subsection{Alternating Series Test}\label{alternating-series-test}}
 
 {[}{[}Pasted image 20210309081249.png{]}{]}
+
+\hypertarget{ratio-test}{%
+\subsection{Ratio Test}\label{ratio-test}}
 
 \end{document}
