@@ -24,4 +24,5 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
 
 ### Radioactivity
  - They realized that helium nucleus's shouldn't be able to escape the nucleus of a particle and that it would have to escape through quantum tunneling
+ - Gamma radiation is produced by a change in quantum state of the protons
  - 
