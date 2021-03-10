@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8759)}}    % original
-%\rhead{\textrmlf{Compiled }\#8759\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8845)}}    % original
+%\rhead{\textrmlf{Compiled }\#8845\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8759
+  \#8845
   \textrmlf{ on}
       \today
   }       % new date
@@ -378,5 +378,8 @@ A pair of electrons could collide and form a pair of tou particles.
 
 Three flavours of leptons cannot interchange or become each other, but
 they could interact.
+
+\hypertarget{photoelectric-effects}{%
+\section{Photoelectric Effects}\label{photoelectric-effects}}
 
 \end{document}
