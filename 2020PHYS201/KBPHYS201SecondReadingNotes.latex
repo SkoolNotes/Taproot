@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8827)}}    % original
-%\rhead{\textrmlf{Compiled }\#8827\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8828)}}    % original
+%\rhead{\textrmlf{Compiled }\#8828\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8827
+  \#8828
   \textrmlf{ on}
       \today
   }       % new date
@@ -233,7 +233,6 @@
   \textbf{Force carriers} are particles whose creation, annihilation,
   and exchange create forces. It is these particles that we believe have
   no substructure
-\item
 \end{itemize}
 
 \hypertarget{electrons}{%
