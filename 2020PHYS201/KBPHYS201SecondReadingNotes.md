@@ -23,4 +23,5 @@ source: [[KBhPHYS201QuantumWorldBookNotesIndex]]
 	 - Some particles are their own anti-particles
 
 ### Radioactivity
- - They realized that helium nucleus's shouldn't be able to escape the nucleus of a particle 
+ - They realized that helium nucleus's shouldn't be able to escape the nucleus of a particle and that it would have to escape through quantum tunneling
+ - 

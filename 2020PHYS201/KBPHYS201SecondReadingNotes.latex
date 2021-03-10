@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8808)}}    % original
-%\rhead{\textrmlf{Compiled }\#8808\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8809)}}    % original
+%\rhead{\textrmlf{Compiled }\#8809\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8808
+  \#8809
   \textrmlf{ on}
       \today
   }       % new date
@@ -241,7 +241,9 @@
 \tightlist
 \item
   They realized that helium nucleus's shouldn't be able to escape the
-  nucleus of a particle
+  nucleus of a particle and that it would have to escape through quantum
+  tunneling
+\item
 \end{itemize}
 
 \end{document}
