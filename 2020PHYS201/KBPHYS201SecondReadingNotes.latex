@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8802)}}    % original
-%\rhead{\textrmlf{Compiled }\#8802\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8803)}}    % original
+%\rhead{\textrmlf{Compiled }\#8803\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8802
+  \#8803
   \textrmlf{ on}
       \today
   }       % new date
@@ -204,7 +204,11 @@
   negative charge
 \item
   For every lepton there's an anti-lepton with an opposite unit of
-  charge
+  charge and the same mass
+\item
+  Leptons have no known size and in all theories describing them are
+  point particles
+\item
 \end{itemize}
 
 \end{document}
