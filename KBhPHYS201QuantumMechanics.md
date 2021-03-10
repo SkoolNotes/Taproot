@@ -181,4 +181,4 @@ To measure the ejection, you need to chuck the whole apparutus in a vaccume. Bec
 
 To continually eject electrons (otherwise, you would eject a few, your metal becomes positive, and no more electrons for you), you also need to collect the ejected electrons and put them back into the metal.
 
-To figure out the amount
+To figure out the amount of kinetic energy, simply figure out how much voltage need to be added to stop the protons.
