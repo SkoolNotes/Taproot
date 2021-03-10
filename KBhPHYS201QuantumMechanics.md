@@ -143,4 +143,6 @@ If you take a piece of conductor, for instance, a metal, and shine a EM radiatio
 
 ![[Pasted image 20210310112755.png]]
 
-Most effective way of photoelectric 
+Most effective way of doing this: large Force, and shine for a long time.
+
+Large force => large electric field => bright light.
