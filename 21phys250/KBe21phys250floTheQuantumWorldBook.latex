@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9022)}}    % original
-%\rhead{\textrmlf{Compiled }\#9022\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9024)}}    % original
+%\rhead{\textrmlf{Compiled }\#9024\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9022
+  \#9024
   \textrmlf{ on}
       \today
   }       % new date
@@ -579,6 +579,12 @@ charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multipl
     an anti-up quark, partly a down quark and an anti-down quark, so we
     write its composition as \(u \bar u \& d \bar d\)' what the heck
     {\textsc{question}}
+  \item
+    some different mesons have the same composition (neutral pion and
+    eta)
+  \item
+    mesons can decay entirely into leptons (while baryons cannot because
+    they must conserve their non-zero baryon number)
   \end{enumerate}
 \end{enumerate}
 
