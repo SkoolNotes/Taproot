@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8939)}}    % original
-%\rhead{\textrmlf{Compiled }\#8939\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8940)}}    % original
+%\rhead{\textrmlf{Compiled }\#8940\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8939
+  \#8940
   \textrmlf{ on}
       \today
   }       % new date
@@ -200,8 +200,8 @@ Function & First four terms & Generalized \\ \addlinespace
 \(\frac{1}{e^2} + \frac{x}{e^2} + \frac{x^2}{e^2 2!} + \cdots\) &
 \(\sum_{k=0} \frac{x^k}{e^2 k!}\) \\ \addlinespace
 \(\sin(x^2)\) &
-\(\frac{x^2}{}-\frac{x^6}{3!} + \frac{x^10}{5!} + \frac{x^14}{7!} + \cdots\)
-& \(\sum_{k=0} \frac{(-1)^k x^{2^{2k+1}}}{(2k+1)!}\) \\ \addlinespace
+\(x^2-\frac{x^6}{3!} + \frac{x^10}{5!} + \frac{x^14}{7!} + \cdots\) &
+\(\sum_{k=0} \frac{(-1)^k x^{2^{2k+1}}}{(2k+1)!}\) \\ \addlinespace
 \(\frac{1}{1+x^4}\) & \(1 - x^4 + x^8 - x^16 + \cdots\) &
 \(\sum_{k=0} (-x^4)^k\) \\ \addlinespace
 \(e^(x-1)\) &
