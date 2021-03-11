@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9035)}}    % original
-%\rhead{\textrmlf{Compiled }\#9035\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9036)}}    % original
+%\rhead{\textrmlf{Compiled }\#9036\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9035
+  \#9036
   \textrmlf{ on}
       \today
   }       % new date
@@ -633,6 +633,13 @@ three}\label{there-are-six-particle-types-with-one-for-each-of-the-fundamental-f
   \end{enumerate}
 \item
   weak force carriers (W and Z)
+
+  \begin{enumerate}
+  \item
+    very massive but lacking physical size?? {\textsc{question}}
+  \item
+    they are actually three close siblings (
+  \end{enumerate}
 \end{enumerate}
 
 \end{document}
