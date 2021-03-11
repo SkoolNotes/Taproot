@@ -42,4 +42,4 @@ at everyone
    \end{aligned}\]
    is undefined at zero. However, the top of the fraction will be negative ($x^3 \sin x$ is even and $x \cos x - \sin x = x ( \cos x - \frac{\sin x}{x}$), so the second derivative is zero at $x$. (Checked with desmos). Thus, the function has a local maximum at $x = 0$.
 
-** show approximation
+** show approximation at $x=1$ is within $\epsilon < \frac{1}{100}$ with $1-\frac{1}{3!}$
