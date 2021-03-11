@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9011)}}    % original
-%\rhead{\textrmlf{Compiled }\#9011\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9013)}}    % original
+%\rhead{\textrmlf{Compiled }\#9013\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9011
+  \#9013
   \textrmlf{ on}
       \today
   }       % new date
@@ -538,6 +538,21 @@ charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multipl
 \item
   baryons are fermions and mesons are bosons. all are hadrons (strongly
   interacting) bc quarks are strongly interacting
+\end{enumerate}
+
+\hypertarget{some-baryons}{%
+\subsubsection{some baryons}\label{some-baryons}}
+
+\begin{enumerate}
+\item
+  lightest are proton and neutron (made up up and down quarks)
+\item
+  then heavier ones have strange quarks, and some even heavier have
+  charm and bottom quarks
+\item
+  have not found a baryon that contains a top quark yet
+\item
+  other than the proton, all 'baryons are unstable (radoactive)'
 \end{enumerate}
 
 \end{document}
