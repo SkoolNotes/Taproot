@@ -22,7 +22,7 @@ only practiced ear can catch thoughts
 
 breaths in the mist, breaths in the tranquility
 
-
+> breath in vs. discourse
 
 
 
