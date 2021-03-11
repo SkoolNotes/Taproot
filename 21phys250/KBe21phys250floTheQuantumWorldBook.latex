@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9049)}}    % original
-%\rhead{\textrmlf{Compiled }\#9049\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9051)}}    % original
+%\rhead{\textrmlf{Compiled }\#9051\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9049
+  \#9051
   \textrmlf{ on}
       \today
   }       % new date
@@ -700,5 +700,17 @@ three}\label{there-are-six-particle-types-with-one-for-each-of-the-fundamental-f
 
 \hypertarget{feynmann-diagrams}{%
 \subsection{feynmann diagrams}\label{feynmann-diagrams}}
+
+\hypertarget{start-with-something-like-a-spacetime-diagram}{%
+\subsubsection{start with something like a spacetime
+diagram}\label{start-with-something-like-a-spacetime-diagram}}
+
+\begin{enumerate}
+\item
+  the path tells us everything there is to know about a particle
+\item
+  but at events (ex. where the path changes directions) any number of
+  things might happen
+\end{enumerate}
 
 \end{document}
