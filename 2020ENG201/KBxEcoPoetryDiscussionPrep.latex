@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8982)}}    % original
-%\rhead{\textrmlf{Compiled }\#8982\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8983)}}    % original
+%\rhead{\textrmlf{Compiled }\#8983\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8982
+  \#8983
   \textrmlf{ on}
       \today
   }       % new date
@@ -227,5 +227,8 @@ about redwoods dying and being at peace?
 
 \hypertarget{wild-geese}{%
 \subsubsection{Wild Geese}\label{wild-geese}}
+
+\hypertarget{the-kingfisher}{%
+\subsubsection{The Kingfisher}\label{the-kingfisher}}
 
 \end{document}
