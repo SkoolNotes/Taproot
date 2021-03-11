@@ -19,6 +19,8 @@ at everyone
 ** find maclaurin series for $f'(x)$ where $f(x) = \sum_{k=0} \frac{(2x)^{k+1}}{k+1}$
    ~\[ \frac{d}{dx} \frac{(2x)^{n+1}}{n+1} = \frac{\cancel{(n+1)^2} (2x)^n (2)}{\cancel{(n+1)^2}} = 2(2x)^n \]~
 
+   Instead of using the qu
+
    So, our series is just
    \[\begin{aligned}
    \sum_{k=0} 2(2x)^k = 2 + 4x + 8x^2 + 16x^3 + \cdots
