@@ -40,4 +40,4 @@ at everyone
 \frac{x^2 \left( -x \sin x \cancel{+ \cos x - \cos x} \right) - \left( x \cos x - \sin x \right)(2x) }{x^4}\\
 = \frac{-x^3 \sin x - 2x\left( x \cos x - \sin x \right) }{x^4}
    \end{aligned}\]
-   is undefined at zero. However, the top of the fraction will be negative ($x^3 \sin x$ is even and $x \cos x - \sin x = x ( \cos x - \frac{\sin x}{x}$), so the second derivative is zero at $x$. (Checked with desmos).
+   is undefined at zero. However, the top of the fraction will be negative ($x^3 \sin x$ is even and $x \cos x - \sin x = x ( \cos x - \frac{\sin x}{x}$), so the second derivative is zero at $x$. (Checked with desmos). Thus, the function has a local maximum at $x = 0$.

@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8948)}}    % original
-%\rhead{\textrmlf{Compiled }\#8948\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8949)}}    % original
+%\rhead{\textrmlf{Compiled }\#8949\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8948
+  \#8949
   \textrmlf{ on}
       \today
   }       % new date
@@ -259,6 +259,7 @@ derivative: \[\begin{aligned}
    \end{aligned}\] is undefined at zero. However, the top of the
 fraction will be negative (\(x^3 \sin x\) is even and
 \(x \cos x - \sin x = x ( \cos x - \frac{\sin x}{x}\)), so the second
-derivative is zero at \(x\). (Checked with desmos).
+derivative is zero at \(x\). (Checked with desmos). Thus, the function
+has a local maximum at \(x = 0\).
 
 \end{document}
