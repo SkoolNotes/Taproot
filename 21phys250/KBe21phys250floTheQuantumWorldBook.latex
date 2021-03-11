@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9034)}}    % original
-%\rhead{\textrmlf{Compiled }\#9034\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9035)}}    % original
+%\rhead{\textrmlf{Compiled }\#9035\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9034
+  \#9035
   \textrmlf{ on}
       \today
   }       % new date
@@ -631,6 +631,8 @@ three}\label{there-are-six-particle-types-with-one-for-each-of-the-fundamental-f
     not much to say apparently, it cant be v precisely measured bc its
     so weak
   \end{enumerate}
+\item
+  weak force carriers (W and Z)
 \end{enumerate}
 
 \end{document}
