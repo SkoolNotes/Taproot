@@ -47,7 +47,22 @@ sun tranfered and reprinted -> reflection on the ocean
 
 winds wright clouds? made out of mist?
 
+
+
 ## Whitman
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Oliver
