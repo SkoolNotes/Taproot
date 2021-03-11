@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8943)}}    % original
-%\rhead{\textrmlf{Compiled }\#8943\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8944)}}    % original
+%\rhead{\textrmlf{Compiled }\#8944\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8943
+  \#8944
   \textrmlf{ on}
       \today
   }       % new date
@@ -256,6 +256,7 @@ derivative: \[\begin{aligned}
 \frac{d}{dx} \frac{x \cos x - \sin x}{x^2} =
 \frac{x^2 \left( -x \sin x \cancel{+ \cos x - \cos x} \right) - \left( x \cos x - \sin x \right)(2x) }{x^4}\\
 = \frac{-x^3 \sin x - 2x\left( x \cos x - \sin x \right) }{x^4}
-   \end{aligned}\] is positive at zero.
+   \end{aligned}\] is undefined at zero. However, taking the
+\(\lim x \to 0\)
 
 \end{document}
