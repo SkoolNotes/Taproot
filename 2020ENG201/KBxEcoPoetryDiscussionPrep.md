@@ -24,7 +24,7 @@ sun exhbits himself as impartial?
 
 narrow skylight?
 
-
+blue vault that spans thy floud = sky?
 
 
 ## Whitman
