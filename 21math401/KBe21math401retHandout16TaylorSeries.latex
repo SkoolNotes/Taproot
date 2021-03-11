@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8918)}}    % original
-%\rhead{\textrmlf{Compiled }\#8918\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8920)}}    % original
+%\rhead{\textrmlf{Compiled }\#8920\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8918
+  \#8920
   \textrmlf{ on}
       \today
   }       % new date
@@ -243,7 +243,8 @@ So, our series is just \[\begin{aligned}
 \hypertarget{page-4}{%
 \section{page 4}\label{page-4}}
 
-\hypertarget{find-hi}{%
-\subsection{\texorpdfstring{find \( hi \)}{find  hi }}\label{find-hi}}
+\hypertarget{find-1-fracx23fracx45-fracx67cdots}{%
+\subsection{\texorpdfstring{find
+\(1-\frac{x^2}{3!}+\frac{x^4}{5!}-\frac{x^6}{7!}+\cdots\)}{find 1-\textbackslash frac\{x\^{}2\}\{3!\}+\textbackslash frac\{x\^{}4\}\{5!\}-\textbackslash frac\{x\^{}6\}\{7!\}+\textbackslash cdots}}\label{find-1-fracx23fracx45-fracx67cdots}}
 
 \end{document}
