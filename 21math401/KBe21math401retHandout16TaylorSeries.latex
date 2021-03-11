@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8984)}}    % original
-%\rhead{\textrmlf{Compiled }\#8984\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8987)}}    % original
+%\rhead{\textrmlf{Compiled }\#8987\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8984
+  \#8987
   \textrmlf{ on}
       \today
   }       % new date
@@ -205,7 +205,7 @@ Function & First four terms & Generalized \\
 \(\frac{1}{1+x^4}\) & \(1 - x^4 + x^8 - x^{16} + \cdots\) &
 \(\sum_{k=0} (-x^4)^k\) \\
 \(e^{x-1}\) &
-\(1+\frac{(x-1)^2}{2!} + \frac{(x-1)^4}{4!} + \frac{(x-1)^6}{6!} + \cdots\)
+\(1+\frac{(x-1)^2} + \frac{(x-1)^4}{2!} + \frac{(x-1)^6}{3!} + \cdots\)
 & \(\sum_{k=0} \frac{(x-1)^{2k}}{k!}\) \\
 \(\frac{\cos(x)-1}{x^2}\) &
 \(-\frac{1}{2!} + \frac{x^2}{4!} - \frac{x^4}{ 6!} + \cdots\) &
