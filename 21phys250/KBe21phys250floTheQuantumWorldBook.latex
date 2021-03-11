@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9015)}}    % original
-%\rhead{\textrmlf{Compiled }\#9015\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9016)}}    % original
+%\rhead{\textrmlf{Compiled }\#9016\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9015
+  \#9016
   \textrmlf{ on}
       \today
   }       % new date
@@ -564,6 +564,12 @@ charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multipl
 \begin{enumerate}
 \item
   the pion (lightest meson)
+
+  \begin{enumerate}
+  \item
+    Yukawa thought pions moving around gave rise to the strong nuclear
+    force, but now we think its quarks exchanging gluons
+  \end{enumerate}
 \end{enumerate}
 
 \end{document}
