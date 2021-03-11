@@ -16,7 +16,7 @@ source:  #index
 
 stranger to speech
 
-listen for the waves
+listen for the waves/words with practice
 
 
 
