@@ -31,4 +31,4 @@
    \[\begin{aligned}
    f(x) = \frac{\sin x}{x}
    \end{aligned}\]
-   So the derivative at zero is zero, and the second derivative (\frac{$d}{dx} \frac{x \cos x - \sin x}{x^2} = \frac{-x \sin x + \cos x - }{}$ at zero) is positive.
+   So the derivative at zero is zero, and the second derivative (\frac{$d}{dx} \frac{x \cos x - \sin x}{x^2} = \frac{x^2 \left( -x \sin x + \cancel{\cos x - \cos x \right) - x \cos x }}{}$ at zero) is positive.
