@@ -17,7 +17,7 @@ at everyone
 * page 3
 ** a: skipped
 ** find maclaurin series for $f'(x)$ where $f(x) = \sum_{k=0} \frac{(2x)^{k+1}}{k+1}$
-   +\[ \frac{d}{dx} \frac{(2x)^{n+1}}{n+1} = \frac{\cancel{(n+1)^2} (2x)^n (2)}{\cancel{(n+1)^2}} = 2(2x)^n \]+
+   \[ \frac{d}{dx} \frac{(2x)^{n+1}}{n+1} = \frac{\cancel{(n+1)^2} (2x)^n (2)}{\cancel{(n+1)^2}} = 2(2x)^n \]
 
    Instead of using the quotient rule, $\frac{1}{k+1}$ is a constant for each term so we can just use the chain and power rules:
 
