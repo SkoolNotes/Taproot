@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8973)}}    % original
-%\rhead{\textrmlf{Compiled }\#8973\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8974)}}    % original
+%\rhead{\textrmlf{Compiled }\#8974\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8973
+  \#8974
   \textrmlf{ on}
       \today
   }       % new date
@@ -242,7 +242,7 @@ When only using the first 4 terms: \[\begin{aligned}
    2 + 4\frac{-1}{3} + 8 \left(\frac{-1}{3}\right)^2 + 16 \left(\frac{-1}{3}\right)^2 = \frac{10}{3}
    \end{aligned}\]
 
-For the entire sequence:
+For the entire sequence: \boxed{hello}
 
 \[\begin{aligned}
    \sum_{k=0} 2\left(\frac{-2}{3}\right)^k = 2 \sum_{k=0}\left(-\frac{2}{3}\right)^k = \frac{2}{1--\frac{2}{3}} = \frac{2}{\frac{5}{3}} = \frac{6}{5}

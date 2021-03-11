@@ -18,7 +18,7 @@ stranger to speech
 
 listen for the waves/words with practice
 
-
+only practiced ear can catch thoughts
 
 
 
