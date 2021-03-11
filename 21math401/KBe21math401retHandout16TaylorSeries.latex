@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8993)}}    % original
-%\rhead{\textrmlf{Compiled }\#8993\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8994)}}    % original
+%\rhead{\textrmlf{Compiled }\#8994\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8993
+  \#8994
   \textrmlf{ on}
       \today
   }       % new date
@@ -230,7 +230,7 @@ Function & First four terms & Generalized \\
 
 \sout{\[ \frac{d}{dx} \frac{(2x)^{n+1}}{n+1} = \frac{\cancel{(n+1)^2} (2x)^n (2)}{\cancel{(n+1)^2}} = 2(2x)^n \]}
 
-Instead of using the quotient rule,
+Instead of using the quotient rule, \(\frac{1}{k+1}\)
 
 So, our series is just \[\begin{aligned}
    \sum_{k=0} 2(2x)^k = 2 + 4x + 8x^2 + 16x^3 + \cdots
