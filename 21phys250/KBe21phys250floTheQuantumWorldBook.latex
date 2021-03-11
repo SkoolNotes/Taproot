@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9016)}}    % original
-%\rhead{\textrmlf{Compiled }\#9016\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9017)}}    % original
+%\rhead{\textrmlf{Compiled }\#9017\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9016
+  \#9017
   \textrmlf{ on}
       \today
   }       % new date
@@ -538,6 +538,8 @@ charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multipl
 \item
   baryons are fermions and mesons are bosons. all are hadrons (strongly
   interacting) bc quarks are strongly interacting
+\item
+  mesons have baryon number zero
 \end{enumerate}
 
 \hypertarget{some-baryons}{%
