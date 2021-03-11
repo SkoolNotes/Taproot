@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9048)}}    % original
-%\rhead{\textrmlf{Compiled }\#9048\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9049)}}    % original
+%\rhead{\textrmlf{Compiled }\#9049\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9048
+  \#9049
   \textrmlf{ on}
       \today
   }       % new date
@@ -697,5 +697,8 @@ three}\label{there-are-six-particle-types-with-one-for-each-of-the-fundamental-f
     more quarks and antiquarks and you might get a pion out (bruh)
   \end{enumerate}
 \end{enumerate}
+
+\hypertarget{feynmann-diagrams}{%
+\subsection{feynmann diagrams}\label{feynmann-diagrams}}
 
 \end{document}
