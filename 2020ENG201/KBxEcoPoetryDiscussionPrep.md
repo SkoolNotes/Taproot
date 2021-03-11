@@ -26,7 +26,7 @@ narrow skylight?
 
 blue vault that spans thy floud = sky?
 
-gods of wind, 
+gods of wind, dipped pens in mist -- thought? 
 
 
 ## Whitman
