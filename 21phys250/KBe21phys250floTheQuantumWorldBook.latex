@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9043)}}    % original
-%\rhead{\textrmlf{Compiled }\#9043\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9044)}}    % original
+%\rhead{\textrmlf{Compiled }\#9044\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9043
+  \#9044
   \textrmlf{ on}
       \today
   }       % new date
@@ -675,8 +675,15 @@ three}\label{there-are-six-particle-types-with-one-for-each-of-the-fundamental-f
   \item
     there are 8 of them, and 8 more antiparticles
   \item
-    made up of two colors (red antiblue or antigreen blue) for
-    2\textsuperscript{3}
+    made up of two colors (red antiblue or blue antigreen) for
+    2\textsuperscript{3} = 8 combinations
+
+    \begin{enumerate}
+    \item
+      are colors allowed to repeat (red antired) and is it always
+      normal-anti (or is antired-green diff from green antired)
+      {\textsc{question}}
+    \end{enumerate}
   \end{enumerate}
 \end{enumerate}
 
