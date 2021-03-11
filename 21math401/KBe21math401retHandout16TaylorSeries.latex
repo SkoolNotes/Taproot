@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8923)}}    % original
-%\rhead{\textrmlf{Compiled }\#8923\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8924)}}    % original
+%\rhead{\textrmlf{Compiled }\#8924\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8923
+  \#8924
   \textrmlf{ on}
       \today
   }       % new date
@@ -250,7 +250,7 @@ So, our series is just \[\begin{aligned}
 That series is just the taylor series for \[\begin{aligned}
    f(x) = \frac{\sin x}{x}
    \end{aligned}\] So the derivative at zero is zero, and the second
-derivative (derivative of \(\frac{x \cos x - \sin x}{x^2}\) at zero) is
+derivative (\frac{$d}{dx} \frac{x \cos x - \sin x}{x^2}\$ at zero) is
 positive.
 
 \end{document}
