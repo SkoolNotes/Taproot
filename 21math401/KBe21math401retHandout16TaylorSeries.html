@@ -134,6 +134,9 @@ html {
             <h2 id="find-maclaurin-series-for-fx-where-fx-sum_k0-frac2xk1k1">find maclaurin series for <span class="math inline">\(f&#39;(x)\)</span> where <span class="math inline">\(f(x) = \sum_{k=0} \frac{(2x)^{k+1}}{k+1}\)</span></h2>
             <p><del><span class="math display">\[\frac{d}{dx} \frac{(2x)^{n+1}}{n+1} = \frac{\cancel{(n+1)^2} (2x)^n (2)}{\cancel{(n+1)^2}} = 2(2x)^n\]</span></del></p>
             <p>Instead of using the quotient rule, <span class="math inline">\(\frac{1}{k+1}\)</span> is a constant for each term so we can just use the chain and power rules:</p>
+            <p><span class="math display">\[\begin{aligned}
+               \frac{d}{dx} \frac{(2x)^{k+1}}{k+1} = \frac{1}{k+1}\frac{d}{dx}(2x)^{k+1}
+               \end{aligned}\]</span></p>
             <p>So, our series is just <span class="math display">\[\begin{aligned}
                \sum_{k=0} 2(2x)^k = 2 + 4x + 8x^2 + 16x^3 + \cdots
                \end{aligned}\]</span></p>
