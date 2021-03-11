@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9009)}}    % original
-%\rhead{\textrmlf{Compiled }\#9009\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9010)}}    % original
+%\rhead{\textrmlf{Compiled }\#9010\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9009
+  \#9010
   \textrmlf{ on}
       \today
   }       % new date
@@ -532,6 +532,9 @@ charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multipl
 \item
   baryons have half odd integral spins (1/2, 3/2, 5/2) while mesons have
   integral spins
+\item
+  baryons are made of 3 quarks each while mesons are made up of a quark
+  and an antiquark
 \end{enumerate}
 
 \end{document}
