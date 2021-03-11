@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8880)}}    % original
-%\rhead{\textrmlf{Compiled }\#8880\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8881)}}    % original
+%\rhead{\textrmlf{Compiled }\#8881\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8880
+  \#8881
   \textrmlf{ on}
       \today
   }       % new date
@@ -209,8 +209,9 @@ Function & First four terms & Generalized \\ \addlinespace
 \(-\frac{1}{2!} + \frac{x^2}{4!} - \frac{x^4}{ 6!} + \cdots\) &
 \(\sum_{k=1} \frac{(-1)^k x^{2(k-1)}}{(2k)!}\) \\ \addlinespace
 \(2x \ln (1+2x)\) &
-\((2x)(2x)-\frac{(2x)(2x)^2}{2!} + \frac{(2x)(2x)^3}{3!} - \frac{(2x)(2x)^4}{4!} + \cdots\)
-& \(\sum_{k=0} \frac{(-1)^k(2x)(1+2x)^k}{k!}\) \\ \addlinespace
+\((2x)(2x)-\frac{(2x)(2x)^2}{2} + \frac{(2x)(2x)^3}{3} - \frac{(2x)(2x)^4}{4} + \cdots\)
+&
+\(2x\sum_{n=1}^{a}\frac{\left(-1\right)^{\left(n-1\right)}\left(2x\right)^{n}}{n}\) \\ \addlinespace
 \bottomrule
 \end{longtable}
 
