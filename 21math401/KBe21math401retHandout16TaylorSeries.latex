@@ -119,7 +119,7 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thelesson}{ Handout 16 Problems }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9004)}}    % original
-%\rhead{\textrmlf{Compiled }\#9004\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9006)}}    % original
+%\rhead{\textrmlf{Compiled }\#9006\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9004
+  \#9006
   \textrmlf{ on}
       \today
   }       % new date
@@ -179,8 +179,6 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-at everyone
 
 \hypertarget{complete-the-representation}{%
 \section{Complete the
