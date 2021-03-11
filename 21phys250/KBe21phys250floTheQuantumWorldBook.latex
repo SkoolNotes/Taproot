@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9020)}}    % original
-%\rhead{\textrmlf{Compiled }\#9020\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9022)}}    % original
+%\rhead{\textrmlf{Compiled }\#9022\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9020
+  \#9022
   \textrmlf{ on}
       \today
   }       % new date
@@ -574,8 +574,11 @@ charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multipl
   \item
     there is a charged version of the pion which is made of a down quark
     and an anti-up quark (written \(d\bar u\))
-
-    \textbf{***}
+  \item
+    the uncharged pion is made up of 'a mixture, pratly an up quark and
+    an anti-up quark, partly a down quark and an anti-down quark, so we
+    write its composition as \(u \bar u \& d \bar d\)' what the heck
+    {\textsc{question}}
   \end{enumerate}
 \end{enumerate}
 
