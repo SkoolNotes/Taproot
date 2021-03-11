@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8936)}}    % original
-%\rhead{\textrmlf{Compiled }\#8936\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8937)}}    % original
+%\rhead{\textrmlf{Compiled }\#8937\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8936
+  \#8937
   \textrmlf{ on}
       \today
   }       % new date
@@ -198,7 +198,7 @@ Function & First four terms & Generalized \\ \addlinespace
 \(\sum_{k=0} \frac{(-1)^k (3x)^{2k}}{2k!}\) \\ \addlinespace
 \(\frac{e^x}{e^2}\) &
 \(\frac{1}{e^2} + \frac{x}{e^2} + \frac{x^2}{e^2 2!} + \cdots\) &
-\(\sum_{k=0} \frac{x^k}{e^2 k!\) \\ \addlinespace
+\(\sum_{k=0} \frac{x^k}{e^2 k!}\) \\ \addlinespace
 \(\sin(x^2)\) &
 \(\frac{x^2-\frac{x^6}{3!} + \frac{x^10}{5!} + \frac{x^14}{7!} + \cdots\)
 & \(\sum_{k=0} \frac{(-1)^k x^2^{2k+1}}{(2k+1)!}\) \\ \addlinespace
