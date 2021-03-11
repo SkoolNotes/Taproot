@@ -18,6 +18,7 @@ pebbled lips?
 
 thought = waves
 
+stars come to catch blessing of our expression..?
 
 
 
