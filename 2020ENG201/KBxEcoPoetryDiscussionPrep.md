@@ -26,6 +26,8 @@ narrow skylight?
 
 blue vault that spans thy floud = sky?
 
+gods of wind, 
+
 
 ## Whitman
 
