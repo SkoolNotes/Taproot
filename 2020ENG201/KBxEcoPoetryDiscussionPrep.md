@@ -20,8 +20,9 @@ thought = waves
 
 stars come to catch blessing of our expression..?
 
+sun exhbits himself as impartial? 
 
-
+narrow skylight?
 
 
 
