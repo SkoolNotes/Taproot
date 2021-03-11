@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8992)}}    % original
-%\rhead{\textrmlf{Compiled }\#8992\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8993)}}    % original
+%\rhead{\textrmlf{Compiled }\#8993\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8992
+  \#8993
   \textrmlf{ on}
       \today
   }       % new date
@@ -228,7 +228,9 @@ Function & First four terms & Generalized \\
 \subsection{\texorpdfstring{find maclaurin series for \(f'(x)\) where
 \(f(x) = \sum_{k=0} \frac{(2x)^{k+1}}{k+1}\)}{find maclaurin series for f'(x) where f(x) = \textbackslash sum\_\{k=0\} \textbackslash frac\{(2x)\^{}\{k+1\}\}\{k+1\}}}\label{find-maclaurin-series-for-fx-where-fx-sum_k0-frac2xk1k1}}
 
-\texttt{\textbackslash{}{[}\ \textbackslash{}frac\{d\}\{dx\}\ \textbackslash{}frac\{(2x)\^{}\{n+1\}\}\{n+1\}\ =\ \textbackslash{}frac\{\textbackslash{}cancel\{(n+1)\^{}2\}\ (2x)\^{}n\ (2)\}\{\textbackslash{}cancel\{(n+1)\^{}2\}\}\ =\ 2(2x)\^{}n\ \textbackslash{}{]}}
+\sout{\[ \frac{d}{dx} \frac{(2x)^{n+1}}{n+1} = \frac{\cancel{(n+1)^2} (2x)^n (2)}{\cancel{(n+1)^2}} = 2(2x)^n \]}
+
+Instead of using the quotient rule,
 
 So, our series is just \[\begin{aligned}
    \sum_{k=0} 2(2x)^k = 2 + 4x + 8x^2 + 16x^3 + \cdots
