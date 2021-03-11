@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8891)}}    % original
-%\rhead{\textrmlf{Compiled }\#8891\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8892)}}    % original
+%\rhead{\textrmlf{Compiled }\#8892\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8891
+  \#8892
   \textrmlf{ on}
       \today
   }       % new date
@@ -186,6 +186,8 @@
 
 \hypertarget{thoreau-walden}{%
 \subsection{Thoreau: Walden}\label{thoreau-walden}}
+
+pebbled lips?
 
 \hypertarget{whitman}{%
 \subsection{Whitman}\label{whitman}}

@@ -13,4 +13,4 @@
   | $\frac{x}{1+x^2}$       | $2x - 2x^3 + 2x^5 - 2x^7 + \cdots$                                                     |  $\sum_{k=0}2x (-1)^k x^{2k}$   |
 * page 3
 ** a: skipped
-** find maclaurin series for 'f'(x)' where $f(x) = 
+** find maclaurin series for $f'(x)$ where $f(x) = \sum_{k=0} \frac{(2x)^{n+1}}{n+1}$
