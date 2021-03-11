@@ -14,6 +14,19 @@ source:  #index
 
 ## Thoreau: Walden
 
+stranger to speech
+
+listen for the waves
+
+
+
+
+
+
+
+
+
+
 pebbled lips?
 
 thought = waves

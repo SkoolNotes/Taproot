@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8971)}}    % original
-%\rhead{\textrmlf{Compiled }\#8971\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8972)}}    % original
+%\rhead{\textrmlf{Compiled }\#8972\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8971
+  \#8972
   \textrmlf{ on}
       \today
   }       % new date
@@ -243,8 +243,8 @@ So, our series is just \[\begin{aligned}
    \end{aligned}\] for the entire sequence\ldots{}
 
 \[\begin{aligned}
-   \sum_{k=0} 2\left(\frac{-2}{3}\right)^k = 2 \sum_{k=0}\left(-\frac{2}{3}\right)^k = \frac{2}{1--\frac{2}{3}}
-   \end{aligned}\]
+   \sum_{k=0} 2\left(\frac{-2}{3}\right)^k = 2 \sum_{k=0}\left(-\frac{2}{3}\right)^k = \frac{2}{1--\frac{2}{3}} = \frac{2}{\frac{5}{3}} = \frac{6}{5}
+   \end{aligned}\] because it is a geometric series.
 
 \hypertarget{page-4}{%
 \section{page 4}\label{page-4}}
