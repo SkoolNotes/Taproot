@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8903)}}    % original
-%\rhead{\textrmlf{Compiled }\#8903\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8904)}}    % original
+%\rhead{\textrmlf{Compiled }\#8904\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8903
+  \#8904
   \textrmlf{ on}
       \today
   }       % new date
@@ -228,6 +228,6 @@ Function & First four terms & Generalized \\ \addlinespace
 
 \[ \frac{d}{dx} \frac{(2x)^{n+1}}{n+1} = \frac{\cancel{(n+1)^2} (2x)^n (2)}{\cancel{(n+1)^2}} = 2(2x)^n \]
 
-So, our series is just:T
+So, our series is just \[  \left( \right) :T O(n)  :T :T \]
 
 \end{document}

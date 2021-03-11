@@ -16,4 +16,5 @@
 ** find maclaurin series for $f'(x)$ where $f(x) = \sum_{k=0} \frac{(2x)^{k+1}}{k+1}$
    \[ \frac{d}{dx} \frac{(2x)^{n+1}}{n+1} = \frac{\cancel{(n+1)^2} (2x)^n (2)}{\cancel{(n+1)^2}} = 2(2x)^n \]
 
-   So, our series is just:T
+   So, our series is just
+   \[  \left( \right) :T O(n)  :T :T \]
