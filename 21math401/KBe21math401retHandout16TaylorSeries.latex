@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8997)}}    % original
-%\rhead{\textrmlf{Compiled }\#8997\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8999)}}    % original
+%\rhead{\textrmlf{Compiled }\#8999\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8997
+  \#8999
   \textrmlf{ on}
       \today
   }       % new date
@@ -234,7 +234,7 @@ Instead of using the quotient rule, \(\frac{1}{k+1}\) is a constant for
 each term so we can just use the chain and power rules:
 
 \[\begin{aligned}
-   \frac{d}{dx} \frac{(2x)^{k+1}}{k+1} = \frac{1}{k+1}\frac{d}{dx}(2x)^{k+1} = \frac{1}{k+1}(k+1)(2x)^k
+   \frac{d}{dx} \frac{(2x)^{k+1}}{k+1} = \frac{1}{k+1}\frac{d}{dx}(2x)^{k+1} = \frac{1}{\cancel{k+1}}\cancel{(k+1)}(2x)^k
    \end{aligned}\]
 
 So, our series is just \[\begin{aligned}
