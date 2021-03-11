@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8938)}}    % original
-%\rhead{\textrmlf{Compiled }\#8938\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8939)}}    % original
+%\rhead{\textrmlf{Compiled }\#8939\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8938
+  \#8939
   \textrmlf{ on}
       \today
   }       % new date
@@ -201,7 +201,7 @@ Function & First four terms & Generalized \\ \addlinespace
 \(\sum_{k=0} \frac{x^k}{e^2 k!}\) \\ \addlinespace
 \(\sin(x^2)\) &
 \(\frac{x^2}{}-\frac{x^6}{3!} + \frac{x^10}{5!} + \frac{x^14}{7!} + \cdots\)
-& \(\sum_{k=0} \frac{(-1)^k x^2^{2k+1}}{(2k+1)!}\) \\ \addlinespace
+& \(\sum_{k=0} \frac{(-1)^k x^{2^{2k+1}}}{(2k+1)!}\) \\ \addlinespace
 \(\frac{1}{1+x^4}\) & \(1 - x^4 + x^8 - x^16 + \cdots\) &
 \(\sum_{k=0} (-x^4)^k\) \\ \addlinespace
 \(e^(x-1)\) &
