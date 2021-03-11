@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8970)}}    % original
-%\rhead{\textrmlf{Compiled }\#8970\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8971)}}    % original
+%\rhead{\textrmlf{Compiled }\#8971\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8970
+  \#8971
   \textrmlf{ on}
       \today
   }       % new date
@@ -243,7 +243,7 @@ So, our series is just \[\begin{aligned}
    \end{aligned}\] for the entire sequence\ldots{}
 
 \[\begin{aligned}
-   \sum_{k=0} 2\left(\frac{-2}{3}\right)^k = 2 \sum_{k=0}
+   \sum_{k=0} 2\left(\frac{-2}{3}\right)^k = 2 \sum_{k=0}\left(-\frac{2}{3}\right)^k = \frac{2}{1--\frac{2}{3}}
    \end{aligned}\]
 
 \hypertarget{page-4}{%
