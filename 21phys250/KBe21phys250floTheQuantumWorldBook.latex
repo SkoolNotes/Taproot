@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9051)}}    % original
-%\rhead{\textrmlf{Compiled }\#9051\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9052)}}    % original
+%\rhead{\textrmlf{Compiled }\#9052\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9051
+  \#9052
   \textrmlf{ on}
       \today
   }       % new date
@@ -711,6 +711,9 @@ diagram}\label{start-with-something-like-a-spacetime-diagram}}
 \item
   but at events (ex. where the path changes directions) any number of
   things might happen
+\item
+  subatomic events seem to be instant and unsurvivable (nothing goes in
+  and also comes out)
 \end{enumerate}
 
 \end{document}
