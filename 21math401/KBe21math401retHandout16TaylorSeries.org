@@ -54,5 +54,5 @@ at everyone
 
    \[\begin{aligned}
    xy' + y = \cos x \implies y &= \cos x - xy'\\
-   &=
+   &= \cos x - \cancel x \frac{\sin x}{\cancel x}
    \end{aligned}\]
