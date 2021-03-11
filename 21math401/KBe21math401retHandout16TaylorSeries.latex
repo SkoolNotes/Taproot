@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8932)}}    % original
-%\rhead{\textrmlf{Compiled }\#8932\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8936)}}    % original
+%\rhead{\textrmlf{Compiled }\#8936\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8932
+  \#8936
   \textrmlf{ on}
       \today
   }       % new date
@@ -179,6 +179,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+
+at everyone
 
 \hypertarget{complete-the-representation}{%
 \section{Complete the
