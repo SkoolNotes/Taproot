@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8959)}}    % original
-%\rhead{\textrmlf{Compiled }\#8959\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8960)}}    % original
+%\rhead{\textrmlf{Compiled }\#8960\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8959
+  \#8960
   \textrmlf{ on}
       \today
   }       % new date
@@ -279,7 +279,7 @@ has a local maximum at \(x = 0\).
 
 \[\begin{aligned}
    xy' + y = \cos x \implies y &= \cos x - xy'\\
-   &= \cos x - \cancel x \frac{\sin x}{\cancel x}
+   &= \cos x -  \cancel x \frac{x \cos x - \sin x}{x^{\cancel 2}}
    \end{aligned}\]
 
 \end{document}
