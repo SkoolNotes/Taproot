@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8894)}}    % original
-%\rhead{\textrmlf{Compiled }\#8894\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8895)}}    % original
+%\rhead{\textrmlf{Compiled }\#8895\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8894
+  \#8895
   \textrmlf{ on}
       \today
   }       % new date
@@ -226,6 +226,6 @@ Function & First four terms & Generalized \\ \addlinespace
 \subsection{\texorpdfstring{find maclaurin series for \(f'(x)\) where
 \(f(x) = \sum_{k=0} \frac{(2x)^{k+1}}{k+1}\)}{find maclaurin series for f'(x) where f(x) = \textbackslash sum\_\{k=0\} \textbackslash frac\{(2x)\^{}\{k+1\}\}\{k+1\}}}\label{find-maclaurin-series-for-fx-where-fx-sum_k0-frac2xk1k1}}
 
-\[ \frac{d}{dx} \frac{(2x)^{n+1}}{n+1} = \frac{(n+1)^2 (2x) (2) - (2x)^{n+1}}{} \]
+\[ \frac{d}{dx} \frac{(2x)^{n+1}}{n+1} = \frac{(n+1)^2 (2x) (2) - (2x)^{n+1}}{(n+1)^2} \]
 
 \end{document}
