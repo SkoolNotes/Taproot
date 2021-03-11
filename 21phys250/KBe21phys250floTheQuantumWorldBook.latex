@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9055)}}    % original
-%\rhead{\textrmlf{Compiled }\#9055\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9057)}}    % original
+%\rhead{\textrmlf{Compiled }\#9057\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9055
+  \#9057
   \textrmlf{ on}
       \today
   }       % new date
@@ -721,5 +721,19 @@ diagram}\label{start-with-something-like-a-spacetime-diagram}}
 \hypertarget{features-of-the-feynmann-diagram}{%
 \subsubsection{features of the feynmann
 diagram}\label{features-of-the-feynmann-diagram}}
+
+\begin{enumerate}
+\item
+  every vertex has three points, with two fermion lines (particles) and
+  one boson line (force carrier)
+
+  \begin{enumerate}
+  \item
+    \textbf{every interaction in the universe is the result of two
+    fermions and a boson meeting in these triads}
+
+    \textbf{**}
+  \end{enumerate}
+\end{enumerate}
 
 \end{document}
