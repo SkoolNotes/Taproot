@@ -188,3 +188,8 @@ Increase Vstop untill current drops to 0.
 $V_{stop} \times Q_e = KE$. The kinetic energy of ejected electrons is charge of an electron times the stopping voltage multiplied by.
 
 Finally, plugging stuff into the previous hf equation: $h \times f = WF + Q_e \times V_{stop}$
+
+
+Quarks combine their fractional charges into particles of full charge. The number of leptos (electron, muon, yadda) and bayons (neutron, proton, pion, yadda) should be conserved though an reaction
+
+

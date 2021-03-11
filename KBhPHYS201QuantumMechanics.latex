@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8863)}}    % original
-%\rhead{\textrmlf{Compiled }\#8863\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8935)}}    % original
+%\rhead{\textrmlf{Compiled }\#8935\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8863
+  \#8935
   \textrmlf{ on}
       \today
   }       % new date
@@ -451,5 +451,9 @@ charge of an electron times the stopping voltage multiplied by.
 
 Finally, plugging stuff into the previous hf equation:
 \(h \times f = WF + Q_e \times V_{stop}\)
+
+Quarks combine their fractional charges into particles of full charge.
+The number of leptos (electron, muon, yadda) and bayons (neutron,
+proton, pion, yadda) should be conserved though an reaction
 
 \end{document}
