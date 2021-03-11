@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9040)}}    % original
-%\rhead{\textrmlf{Compiled }\#9040\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9041)}}    % original
+%\rhead{\textrmlf{Compiled }\#9041\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9040
+  \#9041
   \textrmlf{ on}
       \today
   }       % new date
@@ -654,6 +654,19 @@ three}\label{there-are-six-particle-types-with-one-for-each-of-the-fundamental-f
     actually zero mass and zero size
   \item
     force carrier for electromagnitism
+  \item
+    electroweak theory
+
+    \begin{enumerate}
+    \item
+      says that electromagnetic and weak forces are the same thing but
+      on different scales
+    \item
+      suggests heaver force carrier means weaker force and shorter range
+    \item
+      except the electromagnetic force only cares about charged
+      particles while the weak force affects all particles
+    \end{enumerate}
   \end{enumerate}
 \end{enumerate}
 
