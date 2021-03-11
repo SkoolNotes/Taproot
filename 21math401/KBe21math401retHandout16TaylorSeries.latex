@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8916)}}    % original
-%\rhead{\textrmlf{Compiled }\#8916\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8918)}}    % original
+%\rhead{\textrmlf{Compiled }\#8918\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8916
+  \#8918
   \textrmlf{ on}
       \today
   }       % new date
@@ -243,7 +243,7 @@ So, our series is just \[\begin{aligned}
 \hypertarget{page-4}{%
 \section{page 4}\label{page-4}}
 
-\hypertarget{find}{%
-\subsection{find}\label{find}}
+\hypertarget{find-hi}{%
+\subsection{\texorpdfstring{find \( hi \)}{find  hi }}\label{find-hi}}
 
 \end{document}
