@@ -56,6 +56,6 @@ at everyone
    xy' + y = \cos x \implies y &= \cos x - xy'\\
    &= \cos x -  \cancel x \frac{x \cos x - \sin x}{x^{\cancel 2}}\\
    &= \cos x - \frac{x \cos x - \sin x}{x}\\
-   &= \cancel{\cos x - \cos x} + \frac{\sin x}{x}\\
-   &= \frac{\sin x}{x}
+   &= \cancel{\cos x - \frac{\cancel x \cos x}{\cancel x}} + \frac{\sin x}{x}\\
+   y &= \frac{\sin x}{x}
    \end{aligned}\]
