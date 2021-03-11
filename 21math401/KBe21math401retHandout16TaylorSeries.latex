@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8945)}}    % original
-%\rhead{\textrmlf{Compiled }\#8945\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8947)}}    % original
+%\rhead{\textrmlf{Compiled }\#8947\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8945
+  \#8947
   \textrmlf{ on}
       \today
   }       % new date
@@ -256,7 +256,7 @@ derivative: \[\begin{aligned}
 \frac{d}{dx} \frac{x \cos x - \sin x}{x^2} =
 \frac{x^2 \left( -x \sin x \cancel{+ \cos x - \cos x} \right) - \left( x \cos x - \sin x \right)(2x) }{x^4}\\
 = \frac{-x^3 \sin x - 2x\left( x \cos x - \sin x \right) }{x^4}
-   \end{aligned}\] is undefined at zero. However, taking the
-\(\lim x \to 0\) gives
+   \end{aligned}\] is undefined at zero. However, the top of the
+fraction will be negative
 
 \end{document}
