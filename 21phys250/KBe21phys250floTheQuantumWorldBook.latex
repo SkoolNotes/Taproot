@@ -19,6 +19,9 @@
 
 \usepackage{lastpage}
 
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
 \usepackage{enumitem}
 \setlistdepth{9}
 
@@ -132,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8878)}}    % original
-%\rhead{\textrmlf{Compiled }\#8878\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9009)}}    % original
+%\rhead{\textrmlf{Compiled }\#9009\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8878
+  \#9009
   \textrmlf{ on}
       \today
   }       % new date
@@ -517,6 +520,18 @@ charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multipl
   all three or a normal with an anti is colorless..???
 
   ended page 71
+\end{enumerate}
+
+\hypertarget{composite-particles}{%
+\subsection{composite particles}\label{composite-particles}}
+
+\hypertarget{baryons-vs-mesons}{%
+\subsubsection{baryons vs mesons}\label{baryons-vs-mesons}}
+
+\begin{enumerate}
+\item
+  baryons have half odd integral spins (1/2, 3/2, 5/2) while mesons have
+  integral spins
 \end{enumerate}
 
 \end{document}
