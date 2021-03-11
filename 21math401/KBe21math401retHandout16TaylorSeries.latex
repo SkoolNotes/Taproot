@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8887)}}    % original
-%\rhead{\textrmlf{Compiled }\#8887\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8888)}}    % original
+%\rhead{\textrmlf{Compiled }\#8888\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8887
+  \#8888
   \textrmlf{ on}
       \today
   }       % new date
@@ -211,7 +211,8 @@ Function & First four terms & Generalized \\ \addlinespace
 \(2x \ln (1+2x)\) &
 \((2x)(2x)-\frac{(2x)(2x)^2}{2} + \frac{(2x)(2x)^3}{3} - \frac{(2x)(2x)^4}{4} + \cdots\)
 & \(\sum_{k=1}\frac{2x(-1)^{k-1}(2x)^k}{k}\) \\ \addlinespace
-\(\frac{x}{1+x^2}\) & \$2x - & \\ \addlinespace
+\(\frac{x}{1+x^2}\) & \(2x - 2x^3 + 2x^5 - 2x^7 + \cdots\)
+& \\ \addlinespace
 \bottomrule
 \end{longtable}
 
