@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9036)}}    % original
-%\rhead{\textrmlf{Compiled }\#9036\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9037)}}    % original
+%\rhead{\textrmlf{Compiled }\#9037\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9036
+  \#9037
   \textrmlf{ on}
       \today
   }       % new date
@@ -638,7 +638,10 @@ three}\label{there-are-six-particle-types-with-one-for-each-of-the-fundamental-f
   \item
     very massive but lacking physical size?? {\textsc{question}}
   \item
-    they are actually three close siblings (
+    they are actually three close siblings (much like the positive,
+    negative, and neutral versions of pions)
+  \item
+    discovered at proton synchotron at CERN
   \end{enumerate}
 \end{enumerate}
 
