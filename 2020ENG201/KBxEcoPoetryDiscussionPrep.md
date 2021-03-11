@@ -51,7 +51,7 @@ winds wright clouds? made out of mist?
 
 ## Whitman
 
-
+about redwoods dying and being at peace?
 
 
 
