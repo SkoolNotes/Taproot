@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9025)}}    % original
-%\rhead{\textrmlf{Compiled }\#9025\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9027)}}    % original
+%\rhead{\textrmlf{Compiled }\#9027\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9025
+  \#9027
   \textrmlf{ on}
       \today
   }       % new date
@@ -595,5 +595,15 @@ charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multipl
 \subsubsection{physics is about things and what happens to them, and
 those particles were the things. these are what
 happens}\label{physics-is-about-things-and-what-happens-to-them-and-those-particles-were-the-things.-these-are-what-happens}}
+
+\hypertarget{all-are-bosons-integer-spins-and-there-are-no-conservation-laws-so-they-can-do-whatever-they-want}{%
+\subsubsection{all are bosons (integer spins) and there are no
+conservation laws so they can do whatever they
+want}\label{all-are-bosons-integer-spins-and-there-are-no-conservation-laws-so-they-can-do-whatever-they-want}}
+
+\begin{enumerate}
+\item
+  not even conservation of angular momentum/spin? {\textsc{question}}
+\end{enumerate}
 
 \end{document}
