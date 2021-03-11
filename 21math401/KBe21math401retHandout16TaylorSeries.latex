@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8990)}}    % original
-%\rhead{\textrmlf{Compiled }\#8990\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8991)}}    % original
+%\rhead{\textrmlf{Compiled }\#8991\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8990
+  \#8991
   \textrmlf{ on}
       \today
   }       % new date
@@ -205,8 +205,8 @@ Function & First four terms & Generalized \\
 \(\frac{1}{1+x^4}\) & \(1 - x^4 + x^8 - x^{16} + \cdots\) &
 \(\sum_{k=0} (-x^4)^k\) \\
 \(e^{\left((x-1)^2\right)}\) &
-\(1+\frac{(x-1)^2} + \frac{(x-1)^4}{2!} + \frac{(x-1)^6}{3!} + \cdots\)
-& \(\sum_{k=0} \frac{(x-1)^{2k}}{k!}\) \\
+\(1+(x-1)^2 + \frac{(x-1)^4}{2!} + \frac{(x-1)^6}{3!} + \cdots\) &
+\(\sum_{k=0} \frac{(x-1)^{2k}}{k!}\) \\
 \(\frac{\cos(x)-1}{x^2}\) &
 \(-\frac{1}{2!} + \frac{x^2}{4!} - \frac{x^4}{ 6!} + \cdots\) &
 \(\sum_{k=1} \frac{(-1)^k x^{2(k-1)}}{(2k)!}\) \\
