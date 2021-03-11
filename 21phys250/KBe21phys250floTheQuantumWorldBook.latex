@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9057)}}    % original
-%\rhead{\textrmlf{Compiled }\#9057\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9058)}}    % original
+%\rhead{\textrmlf{Compiled }\#9058\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9057
+  \#9058
   \textrmlf{ on}
       \today
   }       % new date
@@ -731,9 +731,10 @@ diagram}\label{features-of-the-feynmann-diagram}}
   \item
     \textbf{every interaction in the universe is the result of two
     fermions and a boson meeting in these triads}
-
-    \textbf{**}
   \end{enumerate}
+\item
+  arrows denote anti-ness (a forwards-in-time positron is the same as a
+  backwards-in-time electron)
 \end{enumerate}
 
 \end{document}
