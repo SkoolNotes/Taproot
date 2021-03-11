@@ -33,6 +33,7 @@
    \end{aligned}\]
    So the derivative at zero is zero, and the second derivative:
    \[\begin{aligned}
-\frac{d}{dx} \frac{x \cos x - \sin x}{x^2} = \frac{x^2 \left( -x \sin x + \cancel{\cos x - \cos x \right) - \left( x \cos x - \sin x \right)(2x) }}{x^4} = \frac{x^2 \left( -x \sin x + \cancel{\cos x - \cos x \right) - \left( x \cos x - \sin x \right)(2x) }}{x^4}
+\frac{d}{dx} \frac{x \cos x - \sin x}{x^2} = \frac{x^2 \left( -x \sin x \cancel{+ \cos x - \cos x} \right) - \left( x \cos x - \sin x \right)(2x) }}{x^4}\\
+= \frac{x^2 \left( -x \sin x \cancel{+ \cos x - \cos x} \right) - \left( x \cos x - \sin x \right)(2x) }}{x^4}
    \end{aligned}\]
    is positive at zero.

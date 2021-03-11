@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8927)}}    % original
-%\rhead{\textrmlf{Compiled }\#8927\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8928)}}    % original
+%\rhead{\textrmlf{Compiled }\#8928\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8927
+  \#8928
   \textrmlf{ on}
       \today
   }       % new date
@@ -251,7 +251,8 @@ That series is just the taylor series for \[\begin{aligned}
    f(x) = \frac{\sin x}{x}
    \end{aligned}\] So the derivative at zero is zero, and the second
 derivative: \[\begin{aligned}
-\frac{d}{dx} \frac{x \cos x - \sin x}{x^2} = \frac{x^2 \left( -x \sin x + \cancel{\cos x - \cos x \right) - \left( x \cos x - \sin x \right)(2x) }}{x^4} = \frac{x^2 \left( -x \sin x + \cancel{\cos x - \cos x \right) - \left( x \cos x - \sin x \right)(2x) }}{x^4}
+\frac{d}{dx} \frac{x \cos x - \sin x}{x^2} = \frac{x^2 \left( -x \sin x \cancel{+ \cos x - \cos x} \right) - \left( x \cos x - \sin x \right)(2x) }}{x^4}\\
+= \frac{x^2 \left( -x \sin x \cancel{+ \cos x - \cos x} \right) - \left( x \cos x - \sin x \right)(2x) }}{x^4}
    \end{aligned}\] is positive at zero.
 
 \end{document}
