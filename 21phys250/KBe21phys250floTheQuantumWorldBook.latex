@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9024)}}    % original
-%\rhead{\textrmlf{Compiled }\#9024\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9025)}}    % original
+%\rhead{\textrmlf{Compiled }\#9025\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9024
+  \#9025
   \textrmlf{ on}
       \today
   }       % new date
@@ -587,5 +587,13 @@ charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multipl
     they must conserve their non-zero baryon number)
   \end{enumerate}
 \end{enumerate}
+
+\hypertarget{force-carriers}{%
+\subsection{force carriers}\label{force-carriers}}
+
+\hypertarget{physics-is-about-things-and-what-happens-to-them-and-those-particles-were-the-things.-these-are-what-happens}{%
+\subsubsection{physics is about things and what happens to them, and
+those particles were the things. these are what
+happens}\label{physics-is-about-things-and-what-happens-to-them-and-those-particles-were-the-things.-these-are-what-happens}}
 
 \end{document}
