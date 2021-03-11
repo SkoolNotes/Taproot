@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9013)}}    % original
-%\rhead{\textrmlf{Compiled }\#9013\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9015)}}    % original
+%\rhead{\textrmlf{Compiled }\#9015\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9013
+  \#9015
   \textrmlf{ on}
       \today
   }       % new date
@@ -553,6 +553,17 @@ charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multipl
   have not found a baryon that contains a top quark yet
 \item
   other than the proton, all 'baryons are unstable (radoactive)'
+\item
+  they all live a really short time (see the table) roughly \(10^{-10}\)
+  to \(10^{-19}\) seconds
+\end{enumerate}
+
+\hypertarget{some-mesons}{%
+\subsubsection{some mesons}\label{some-mesons}}
+
+\begin{enumerate}
+\item
+  the pion (lightest meson)
 \end{enumerate}
 
 \end{document}
