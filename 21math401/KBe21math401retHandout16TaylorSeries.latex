@@ -132,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8987)}}    % original
-%\rhead{\textrmlf{Compiled }\#8987\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8988)}}    % original
+%\rhead{\textrmlf{Compiled }\#8988\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8987
+  \#8988
   \textrmlf{ on}
       \today
   }       % new date
@@ -204,7 +204,7 @@ Function & First four terms & Generalized \\
 \(\sum_{k=0} \frac{(-1)^k x^{2^{2k+1}}}{(2k+1)!}\) \\
 \(\frac{1}{1+x^4}\) & \(1 - x^4 + x^8 - x^{16} + \cdots\) &
 \(\sum_{k=0} (-x^4)^k\) \\
-\(e^{x-1}\) &
+\(e^{(x-1)^2}\) &
 \(1+\frac{(x-1)^2} + \frac{(x-1)^4}{2!} + \frac{(x-1)^6}{3!} + \cdots\)
 & \(\sum_{k=0} \frac{(x-1)^{2k}}{k!}\) \\
 \(\frac{\cos(x)-1}{x^2}\) &
