@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9030)}}    % original
-%\rhead{\textrmlf{Compiled }\#9030\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9031)}}    % original
+%\rhead{\textrmlf{Compiled }\#9031\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9030
+  \#9031
   \textrmlf{ on}
       \today
   }       % new date
@@ -613,7 +613,11 @@ three}\label{there-are-six-particle-types-with-one-for-each-of-the-fundamental-f
 
 \begin{enumerate}
 \item
-  graviton (the weakest force)
+  graviton (the weakest force) (but it is the one we see the most
+  because all the other forces can be negative are balanced (ex positive
+  and negative charges))
+
+  \textbf{***}
 \end{enumerate}
 
 \end{document}
