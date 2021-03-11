@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9045)}}    % original
-%\rhead{\textrmlf{Compiled }\#9045\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9046)}}    % original
+%\rhead{\textrmlf{Compiled }\#9046\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9045
+  \#9046
   \textrmlf{ on}
       \today
   }       % new date
@@ -689,6 +689,9 @@ three}\label{there-are-six-particle-types-with-one-for-each-of-the-fundamental-f
   \item
     gluons can also directly exert force on one another (while photons
     can only interact with eachother via charged particles)
+  \item
+    strong force holds quarks within the particle, and gets stronger as
+    distance increases
   \end{enumerate}
 \end{enumerate}
 
