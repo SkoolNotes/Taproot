@@ -17,6 +17,8 @@
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
 
+\usepackage{lastpage}
+
 \usepackage{enumitem}
 \setlistdepth{9}
 
@@ -130,11 +132,16 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8446)}}    % original
-%\rhead{\textrmlf{Compiled }\#8446\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8446\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8885)}}    % original
+%\rhead{\textrmlf{Compiled }\#8885\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#8885
+  \textrmlf{ on}
+      \today
+  }       % new date
 \lfoot{Houjun Liu, Exr0n \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -172,8 +179,6 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
 \#source
 
@@ -367,5 +372,10 @@ Is Never Alone} + imperialism notes \textbar{}
 \item
   Huxley {[}{[}KBxGoSTCulminationPlanning{]}{]}
 \end{itemize}
+
+\hypertarget{eco-poetry}{%
+\subsection{Eco Poetry}\label{eco-poetry}}
+
+{[}{[}KBxEcoPoetry
 
 \end{document}
