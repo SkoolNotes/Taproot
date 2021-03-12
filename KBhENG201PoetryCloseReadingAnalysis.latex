@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9067)}}    % original
-%\rhead{\textrmlf{Compiled }\#9067\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9068)}}    % original
+%\rhead{\textrmlf{Compiled }\#9068\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9067
+  \#9068
   \textrmlf{ on}
       \today
   }       % new date
@@ -206,14 +206,75 @@ DUE DATE & TOPIC & DOCUMENTS, HERE \\
 \hypertarget{prompt}{%
 \subsection{Prompt}\label{prompt}}
 
-THE PROMPT \#\# Claim Synthesis (Babingtonization) \#\#\# Development
-phase -- How and So-What - \emph{CLAIM} - How THING THAT ATTACKS
-INTERGRITY OF CLAIM - EVIDENCE and SPECIFICITY - So what (local), THING
-THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS THE BROADER PICTURE -
-\emph{CLAIM} - Repeat\ldots{} \#\#\# Testing phase -- Why and So-What -
-\emph{CLAIM} - Why DOES THE CLAIM ANSWER THE PROMPT? - So what (global),
-THING THAT ATTACKS THE BROADER IMPACT OF THE CLAIM - \emph{CLAIM} -
-Repeat\ldots{} \#\# Defluffifying CHOSEN THESIS CLAIM
+THE PROMPT
+
+\hypertarget{claim-synthesis-babingtonization}{%
+\subsection{Claim Synthesis
+(Babingtonization)}\label{claim-synthesis-babingtonization}}
+
+\hypertarget{development-phase-how-and-so-what}{%
+\subsubsection{Development phase -- How and
+So-What}\label{development-phase-how-and-so-what}}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{CLAIM}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How THING THAT ATTACKS INTERGRITY OF CLAIM
+
+    \begin{itemize}
+    \tightlist
+    \item
+      EVIDENCE and SPECIFICITY
+    \end{itemize}
+  \item
+    So what (local), THING THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS
+    THE BROADER PICTURE
+  \end{itemize}
+\item
+  \emph{CLAIM}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Repeat\ldots{}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{testing-phase-why-and-so-what}{%
+\subsubsection{Testing phase -- Why and
+So-What}\label{testing-phase-why-and-so-what}}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{CLAIM}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Why DOES THE CLAIM ANSWER THE PROMPT?
+  \item
+    So what (global), THING THAT ATTACKS THE BROADER IMPACT OF THE CLAIM
+  \end{itemize}
+\item
+  \emph{CLAIM}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Repeat\ldots{}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{defluffifying}{%
+\subsection{Defluffifying}\label{defluffifying}}
+
+CHOSEN THESIS CLAIM
 
 \begin{itemize}
 \tightlist
@@ -230,13 +291,86 @@ So what? SO WHAT
 Now, defluffify by re-writing the three points + so what in as little
 words as possible.
 
-\textbf{RESTATED CLAIM} \#\# Outline - Claim 1: \emph{claim} - How - HOW
-IS CLAIM TRUE? - Evidence -\textgreater{} HOW IS YOUR REASONING TRUE? -
-So What - WHY DO I CARE? - Claim 2: \emph{claim} - How - HOW IS CLAIM
-TRUE? - Evidence -\textgreater{} HOW IS YOUR REASONING TRUE? - So What -
-WHY DO I CARE? - Claim 3: \emph{claim} - How - HOW IS CLAIM TRUE? -
-Evidence -\textgreater{} HOW IS YOUR REASONING TRUE? - So What - WHY DO
-I CARE?
+\textbf{RESTATED CLAIM}
+
+\hypertarget{outline}{%
+\subsection{Outline}\label{outline}}
+
+\begin{itemize}
+\tightlist
+\item
+  Claim 1: \emph{claim}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How
+
+    \begin{itemize}
+    \tightlist
+    \item
+      HOW IS CLAIM TRUE?
+    \item
+      Evidence -\textgreater{} HOW IS YOUR REASONING TRUE?
+    \end{itemize}
+  \item
+    So What
+
+    \begin{itemize}
+    \tightlist
+    \item
+      WHY DO I CARE?
+    \end{itemize}
+  \end{itemize}
+\item
+  Claim 2: \emph{claim}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How
+
+    \begin{itemize}
+    \tightlist
+    \item
+      HOW IS CLAIM TRUE?
+    \item
+      Evidence -\textgreater{} HOW IS YOUR REASONING TRUE?
+    \end{itemize}
+  \item
+    So What
+
+    \begin{itemize}
+    \tightlist
+    \item
+      WHY DO I CARE?
+    \end{itemize}
+  \end{itemize}
+\item
+  Claim 3: \emph{claim}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How
+
+    \begin{itemize}
+    \tightlist
+    \item
+      HOW IS CLAIM TRUE?
+    \item
+      Evidence -\textgreater{} HOW IS YOUR REASONING TRUE?
+    \end{itemize}
+  \item
+    So What
+
+    \begin{itemize}
+    \tightlist
+    \item
+      WHY DO I CARE?
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
