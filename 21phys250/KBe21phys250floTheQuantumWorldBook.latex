@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9063)}}    % original
-%\rhead{\textrmlf{Compiled }\#9063\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9064)}}    % original
+%\rhead{\textrmlf{Compiled }\#9064\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9063
+  \#9064
   \textrmlf{ on}
       \today
   }       % new date
@@ -750,6 +750,10 @@ diagram}\label{features-of-the-feynmann-diagram}}
   gluon particles are determined by the quark pairs that they interact
   with? so a gluon being released and then absorbed by a diff quark
   essentially swaps the colors of the two quarks? {\textsc{question}}
+\item
+  is there a difference between a red quark sending a blue quark a red
+  antiblue gluon and a blue quark sending a red quark a red antiblue
+  glueon? {\textsc{question}}
 \end{enumerate}
 
 \end{document}
