@@ -10,27 +10,15 @@ author: Houjun Liu
 ## General Information
 | Due Date | Topic | Important Documents |
 | :-- | :-- | :-- |
-| DUE DATE | TOPIC | DOCUMENTS, HERE |
+| Mar 22nd, 6PM | Poetry Close Reading | Poems |
 
 ## Prompt
-THE PROMPT
+A close reading analysis about how the poems we read, discussed and analyzed in class inspired your original work.
 
-## Claim Synthesis (Babingtonization)
+## Claim Synthesis
 ### Development phase – How and So-What
-- *CLAIM*
-	- How THING THAT ATTACKS INTERGRITY OF CLAIM
-		- EVIDENCE and SPECIFICITY
-	- So what (local), THING THAT ATTACKS THE RELEVANCE OF CLAIM TOWARDS THE BROADER PICTURE
-- *CLAIM*
-	- Repeat...
-	
-### Testing phase – Why and So-What
-- *CLAIM*
-	- Why DOES THE CLAIM ANSWER THE PROMPT?
-	- So what (global), THING THAT ATTACKS THE BROADER IMPACT OF THE CLAIM
-- *CLAIM*
-	- Repeat...
-	
+
+
 ## Defluffifying
 CHOSEN THESIS CLAIM
 
