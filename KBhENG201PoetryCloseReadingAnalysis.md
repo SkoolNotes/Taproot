@@ -17,8 +17,7 @@ A close reading analysis about how the poems we read, discussed and analyzed in 
 
 ## Claim Synthesis
 ### Development phase – How and So-What
-Enjambment: 
-
+Effect of enjambment: "Hot // lies, rot-//ting hulls" => a sense of
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
