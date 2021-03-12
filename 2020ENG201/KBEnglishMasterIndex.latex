@@ -19,6 +19,9 @@
 
 \usepackage{lastpage}
 
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
 \usepackage{enumitem}
 \setlistdepth{9}
 
@@ -132,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8886)}}    % original
-%\rhead{\textrmlf{Compiled }\#8886\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9066)}}    % original
+%\rhead{\textrmlf{Compiled }\#9066\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#8886
+  \#9066
   \textrmlf{ on}
       \today
   }       % new date
@@ -319,6 +322,8 @@ Apart}}{Things Fall Apart}}\label{things-fall-apart}}
 \end{itemize}
 
 Eco-Poetry {[}{[}KBhENG201EcoPoetry{]}{]}
+
+{[}{[}KBhENG201PoetryCloseReadingAnalysis{]}{]}
 
 \hypertarget{a-small-place}{%
 \section{A Small Place}\label{a-small-place}}

@@ -56,6 +56,8 @@ source: #index
 Eco-Poetry
 [[KBhENG201EcoPoetry]]
 
+[[KBhENG201PoetryCloseReadingAnalysis]]
+
 
 # A Small Place 
 * Huxley Pastiche Planning [[KBxPastichePlanning]]
