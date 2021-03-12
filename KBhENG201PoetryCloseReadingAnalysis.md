@@ -17,6 +17,7 @@ A close reading analysis about how the poems we read, discussed and analyzed in 
 
 ## Claim Synthesis
 ### Development phase – How and So-What
+Enjambment: 
 
 
 ## Defluffifying
