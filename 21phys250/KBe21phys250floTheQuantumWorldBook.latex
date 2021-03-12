@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9064)}}    % original
-%\rhead{\textrmlf{Compiled }\#9064\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9065)}}    % original
+%\rhead{\textrmlf{Compiled }\#9065\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9064
+  \#9065
   \textrmlf{ on}
       \today
   }       % new date
@@ -689,6 +689,11 @@ three}\label{there-are-six-particle-types-with-one-for-each-of-the-fundamental-f
   \item
     gluons can also directly exert force on one another (while photons
     can only interact with eachother via charged particles)
+
+    \begin{enumerate}
+    \item
+      is there an example of this {\textsc{question}}
+    \end{enumerate}
   \item
     strong force holds quarks within the particle, and gets stronger as
     distance increases
@@ -742,8 +747,9 @@ diagram}\label{features-of-the-feynmann-diagram}}
   their constituent quarks
 \end{enumerate}
 
-\hypertarget{gluon-exchange}{%
-\subsubsection{gluon exchange}\label{gluon-exchange}}
+\hypertarget{gluon-exchange-between-quarks}{%
+\subsubsection{gluon exchange between
+quarks}\label{gluon-exchange-between-quarks}}
 
 \begin{enumerate}
 \item
@@ -754,6 +760,9 @@ diagram}\label{features-of-the-feynmann-diagram}}
   is there a difference between a red quark sending a blue quark a red
   antiblue gluon and a blue quark sending a red quark a red antiblue
   glueon? {\textsc{question}}
+\item
+  quarks don't change their type (up down strange charm top bottom) when
+  getting glueoned
 \end{enumerate}
 
 \end{document}
