@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9058)}}    % original
-%\rhead{\textrmlf{Compiled }\#9058\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9059)}}    % original
+%\rhead{\textrmlf{Compiled }\#9059\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9058
+  \#9059
   \textrmlf{ on}
       \today
   }       % new date
@@ -735,6 +735,8 @@ diagram}\label{features-of-the-feynmann-diagram}}
 \item
   arrows denote anti-ness (a forwards-in-time positron is the same as a
   backwards-in-time electron)
+\item
+  conservation laws are consistent at each vertex
 \end{enumerate}
 
 \end{document}
