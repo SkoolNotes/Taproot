@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9105)}}    % original
-%\rhead{\textrmlf{Compiled }\#9105\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9106)}}    % original
+%\rhead{\textrmlf{Compiled }\#9106\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9105
+  \#9106
   \textrmlf{ on}
       \today
   }       % new date
@@ -211,7 +211,8 @@ equivalent to:
   \end{aligned}\] \left( T/(\onull T) \left( v+(\onull T)\right) =
 \onull T \right) \&⇔ \left( v+\left( \onull T \right) = \onull T
 \right)\\
-We can also rewrite the second condition for easier manipulation:
+We can also rewrite the second condition for easier manipulation. "If
+\(v \in \onull T\) then \(v \notin \orange T\)" is the same as:
 
 \[\begin{aligned}
 
