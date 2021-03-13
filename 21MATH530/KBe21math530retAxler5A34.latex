@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9087)}}    % original
-%\rhead{\textrmlf{Compiled }\#9087\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9088)}}    % original
+%\rhead{\textrmlf{Compiled }\#9088\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9087
+  \#9088
   \textrmlf{ on}
       \today
   }       % new date
@@ -194,5 +194,8 @@
 Suppose \(T \in \mathcal L (V)\). Prove that \(T / (\null T)\) is
 injective if and only if \( (\null T) \cap (\range T) = \{ 0 \} \)
 \end{quote}
+
+\hypertarget{proof}{%
+\section{Proof}\label{proof}}
 
 \end{document}
