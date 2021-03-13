@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9109)}}    % original
-%\rhead{\textrmlf{Compiled }\#9109\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9111)}}    % original
+%\rhead{\textrmlf{Compiled }\#9111\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9109
+  \#9111
   \textrmlf{ on}
       \today
   }       % new date
@@ -218,5 +218,8 @@ We can also rewrite the second condition for easier manipulation. "If
   \left( w \in \onull T \right) &\implies \left( \nexists v : Tv = w \right)\\
   \left( Tw = 0 \right) &\implies \left( \nexists v : Tv = w \right)\\
   \end{aligned}\]
+
+Note that the original statement along with its contrapositive implies
+\( (\onull T) \cap (\orange T) = \{0\} \).
 
 \end{document}

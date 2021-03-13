@@ -21,6 +21,7 @@
   \[\begin{aligned}
   \left( w \in \onull T \right) &\implies \left( \nexists v : Tv = w \right)\\
   \left( Tw = 0 \right) &\implies \left( \nexists v : Tv = w \right)\\
+  
   \end{aligned}\]
 
-  Note that the original statement along with its contrapositive implies \(\)
+  Note that the original statement along with its contrapositive implies \( (\onull T) \cap (\orange T) = \{0\} \).
