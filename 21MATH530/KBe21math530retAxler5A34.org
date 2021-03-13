@@ -24,6 +24,8 @@
   w \nin \onull T &\implies t^2 w \neq 0
   \end{aligned}\]
 
+  Add the assumption that $w \neq 0$ in again
+
   Note that the original statement along with its contrapositive implies \( (\onull T) \cap (\orange T) = \{0\} \).
 
   \left( w \neq 0 \land w \in \onull T \right) &\implies \left( \nexists v : Tv = w \right)\\
