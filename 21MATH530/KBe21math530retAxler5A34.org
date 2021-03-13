@@ -21,6 +21,7 @@
   \[\begin{aligned}
   \left( \exists v : Tv = w \right) &\implies  \left( Tw \neq  0 \right) \\
   \forall w \nin \left( \onull T \right)&,T^2 w \neq  0\\
+  w \nin \onull T &\implies t^2 w \neq 0
   \end{aligned}\]
 
   Note that the original statement along with its contrapositive implies \( (\onull T) \cap (\orange T) = \{0\} \).
