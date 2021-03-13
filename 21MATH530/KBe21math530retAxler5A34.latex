@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9107)}}    % original
-%\rhead{\textrmlf{Compiled }\#9107\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9108)}}    % original
+%\rhead{\textrmlf{Compiled }\#9108\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9107
+  \#9108
   \textrmlf{ on}
       \today
   }       % new date
@@ -212,10 +212,10 @@ equivalent to:
 \onull T \right) \&⇔ \left( v+\left( \onull T \right) = \onull T
 \right)\\
 We can also rewrite the second condition for easier manipulation. "If
-\(v \in \onull T\) then \(v \notin \orange T\)" is the same as:
+\(w \in \onull T\) then \(w \notin \orange T\)" is the same as:
 
 \[\begin{aligned}
-  \left( v \in \onull T \implies
+  \left( w \in \onull T \right) \implies \left( \notexists w : T
   \end{aligned}\]
 
 \end{document}
