@@ -19,7 +19,7 @@ A close reading analysis about how the poems we read, discussed and analyzed in 
 ### Development phase – How and So-What
 Effect of enjambment: "Hot // lies, rot-//ting hulls" => provides a sign of resignation.
 
-
+Rhythmic nature of *Calypso* => s
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
@@ -33,26 +33,6 @@ So what? SO WHAT
 Now, defluffify by re-writing the three points + so what in as little words as possible.
 
 **RESTATED CLAIM**
-
-## Outline
-- Claim 1: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
-- Claim 2: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
-- Claim 3: *claim*
-	- How
-		- HOW IS CLAIM TRUE?
-		- Evidence -> HOW IS YOUR REASONING TRUE?
-	- So What
-		- WHY DO I CARE?
 
 ***
 There is always [UCLA Writing Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf)
