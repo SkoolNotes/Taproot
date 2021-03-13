@@ -1,0 +1,29 @@
+#+TITLE: Axler 5.A 34
+#+AUTHOR: Albert Huang
+* Problem
+  #+begin_quote
+  Suppose \(T \in \mathcal L (V)\). Prove that \(T / (\onull T)\) is injective if and only if \( (\onull T) \cap (\orange T) = \{ 0 \} \)
+  #+end_quote
+* Proof
+  First, we will rewrite the problem as logical statements for easier manipulation. The left-hand side "$T / (\onull T)$ is injective" is equivalent to:
+
+  \[\begin{aligned}
+  \left( T/U \left( v+U\right) = 0 \right)  &\iff \left(  v+U = 0 \right) \\
+  Tv + U = \onull T &\iff v + U = \onull T \\
+  Tv + \left( \onull T \right) = \onull T &\iff v + \left( \onull T \right) = \onull T \\
+  Tv \in \onull T &\iff v \in \onull T\\
+  T^2v = 0 &\iff Tv = 0
+  \end{aligned}\]
+  \left( T/(\onull T) \left( v+(\onull T)\right) =  \onull T \right)  &\iff \left(  v+\left( \onull T \right) = \onull T \right) \\
+
+  We can also rewrite the second condition for easier manipulation. The intersection of the null space and the range being $0$ is the same as (assuming $w \neq 0$) "if $w \in \onull T$ then $w \notin \orange T$" and "if $w \in \orange T$ then $w \nin \onull T$". Note that these are contrapositives of eachother, so we just need to work with the second statement.
+
+  \[\begin{aligned}
+  \left( \exists v : Tv = w \right) &\implies  \left( Tw \neq  0 \right) \\
+  \forall w \nin \left( \onull T \right) \exists 
+  \end{aligned}\]
+
+  Note that the original statement along with its contrapositive implies \( (\onull T) \cap (\orange T) = \{0\} \).
+
+  \left( w \neq 0 \land w \in \onull T \right) &\implies \left( \nexists v : Tv = w \right)\\
+  \left( w \neq 0 \land Tw = 0 \right) &\implies \left( \nexists v : Tv = w \right)\\
