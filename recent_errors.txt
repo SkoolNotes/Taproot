@@ -1,16 +1,13 @@
-        Log for attempt at Sat Mar 13 02:43:02 PM PST 2021 (9086)
-        Sat Mar 13 02:43:02 PM PST 2021 Converting 21MATH530/KBe21math530retAxler5A34.org...
+        Log for attempt at Sat Mar 13 02:43:50 PM PST 2021 (9087)
+        Sat Mar 13 02:43:50 PM PST 2021 Converting 21MATH530/KBe21math530retAxler5A34.org...
 Error producing PDF.
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.186 \DeclareMathOperator
+! Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.184 \DeclareMathOperator
 
 
-Error at "source" (line 186, column 22):
+Error at "source" (line 183, column 22):
 unexpected range
 \DeclareMathOperator{range}
                      ^
