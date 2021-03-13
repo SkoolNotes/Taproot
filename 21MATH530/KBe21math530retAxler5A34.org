@@ -21,8 +21,8 @@
   Assuming $w \neq 0$,
   \[\begin{aligned}
   \left( \exists v : Tv = w \right) &\implies&  \left( Tw \neq  0 \right) \\
-  T^2 w \neq  0 & &\forall w \notin \left( \onull T \right)\\
-  w \notin \onull T &\implies& T^2 w \neq 0
+  T^2 v \neq  0 & &\forall v \notin \left( \onull T \right)\\
+  v \notin \onull T &\implies& T^2 v \neq 0
   \end{aligned}\]
 
   Add the assumption that $w \neq 0$ in again
