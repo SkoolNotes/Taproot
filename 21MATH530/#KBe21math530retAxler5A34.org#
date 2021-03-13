@@ -2,11 +2,11 @@
 #+AUTHOR: Albert Huang
 * Problem
   #+begin_quote
-  Suppose \(T \in \mathcal L (V)\). Prove that \(T / (\onull T)\) is injective if and only if \( (\onull T) \cap (\range T) = \{ 0 \} \)
+  Suppose \(T \in \mathcal L (V)\). Prove that \(T / (\onull T)\) is injective if and only if \( (\onull T) \cap (\orange T) = \{ 0 \} \)
   #+end_quote
 * Proof
-  First, we will rewrite the problem as logical statements for easier manipulation. The left-hand side "$T / (\null T)$ is injective" is equivalent to:
+  First, we will rewrite the problem as logical statements for easier manipulation. The left-hand side "$T / (\onull T)$ is injective" is equivalent to:
 
   \[\begin{aligned}
-  & T/(\onull T)
+  & T/(\onull T) (v+U) = 0 
   \end{aligned}\]

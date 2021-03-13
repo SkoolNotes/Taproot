@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9091)}}    % original
-%\rhead{\textrmlf{Compiled }\#9091\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9093)}}    % original
+%\rhead{\textrmlf{Compiled }\#9093\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9091
+  \#9093
   \textrmlf{ on}
       \today
   }       % new date
@@ -180,8 +180,8 @@
 }
 
 % exr0n linear algebra mathops
-\DeclareMathOperator{\range}{\text{range}}
-\DeclareMathOperator{\null}{\text{null}}
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\onull}{\text{null}}
 
 \begin{document}
 
@@ -191,19 +191,19 @@
 \section{Problem}\label{problem}}
 
 \begin{quote}
-Suppose \(T \in \mathcal L (V)\). Prove that \(T / (\null T)\) is
-injective if and only if \( (\null T) \cap (\range T) = \{ 0 \} \)
+Suppose \(T \in \mathcal L (V)\). Prove that \(T / (\onull T)\) is
+injective if and only if \( (\onull T) \cap (\orange T) = \{ 0 \} \)
 \end{quote}
 
 \hypertarget{proof}{%
 \section{Proof}\label{proof}}
 
 First, we will rewrite the problem as logical statements for easier
-manipulation. The left-hand side "\(T / (\null T)\) is injective" is
+manipulation. The left-hand side "\(T / (\onull T)\) is injective" is
 equivalent to:
 
 \[\begin{aligned}
-  & T/(\null T)
+  & T/(\onull T)
   \end{aligned}\]
 
 \end{document}
