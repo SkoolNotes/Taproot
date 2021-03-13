@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9088)}}    % original
-%\rhead{\textrmlf{Compiled }\#9088\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9090)}}    % original
+%\rhead{\textrmlf{Compiled }\#9090\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9088
+  \#9090
   \textrmlf{ on}
       \today
   }       % new date
@@ -180,8 +180,8 @@
 }
 
 % exr0n linear algebra mathops
-\DeclareMathOperator{range}
-\DeclareMathOperator{null}
+\DeclareMathOperator{\range}{\text{range}}
+\DeclareMathOperator{\null}{\text{null}}
 
 \begin{document}
 
@@ -197,5 +197,9 @@ injective if and only if \( (\null T) \cap (\range T) = \{ 0 \} \)
 
 \hypertarget{proof}{%
 \section{Proof}\label{proof}}
+
+First, we will rewrite the problem as logical statements for easier
+manipulation. The left-hand side "\(T / (\null T)\) is injective" is
+equivalent to:
 
 \end{document}
