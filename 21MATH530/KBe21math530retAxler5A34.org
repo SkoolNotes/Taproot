@@ -1,6 +1,10 @@
 #+TITLE: Axler 5.A 34
 #+AUTHOR: Albert Huang
+#+begin_latex
+\DeclareMathOperator{range}
+\DeclareMathOperator{null}
+#+end_latex
 * Problem
   #+begin_quote
-  Suppose \(T \in \mathcal L (V)\)Prove that \(T / (\text{null}
+  Suppose \(T \in \mathcal L (V)\)Prove that \(T / (\null
   #+end_quote

@@ -1,2 +1,16 @@
-        Log for attempt at Sat Mar 13 02:38:02 PM PST 2021 (9083)
-        Sat Mar 13 02:38:02 PM PST 2021 Converting 21MATH530/KBe21math530retAxler5A34.org...
+        Log for attempt at Sat Mar 13 02:40:55 PM PST 2021 (9084)
+        Sat Mar 13 02:40:55 PM PST 2021 Converting 21MATH530/KBe21math530retAxler5A34.org...
+Error producing PDF.
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.186 \DeclareMathOperator
+
+
+Error at "source" (line 186, column 22):
+unexpected range
+\DeclareMathOperator{range}
+                     ^

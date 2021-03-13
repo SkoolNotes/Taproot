@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9083)}}    % original
-%\rhead{\textrmlf{Compiled }\#9083\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9084)}}    % original
+%\rhead{\textrmlf{Compiled }\#9084\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9083
+  \#9084
   \textrmlf{ on}
       \today
   }       % new date
@@ -183,11 +183,14 @@
 
 % DID YOU SET SPELL????
 
+\DeclareMathOperator{range}
+\DeclareMathOperator{null}
+
 \hypertarget{problem}{%
 \section{Problem}\label{problem}}
 
 \begin{quote}
-Suppose \(T \in \mathcal L (V)\)Prove that \textbackslash(T / (null
+Suppose \(T \in \mathcal L (V)\)Prove that \textbackslash(T / (\null
 \end{quote}
 
 \end{document}
