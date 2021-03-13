@@ -12,7 +12,9 @@
   Tv + U = \onull T &\iff v + U = \onull T \\
   Tv + \left( \onull T \right) = \onull T &\iff v + \left( \onull T \right) = \onull T \\
   Tv \in \onull T &\iff v \in \onull T\\
-  T^2v = 0 i
+  T^2v = 0 &\iff Tv = 0
   \end{aligned}\]
+
+  We can also rewrite the second o
 
   \left( T/(\onull T) \left( v+(\onull T)\right) =  \onull T \right)  &\iff \left(  v+\left( \onull T \right) = \onull T \right) \\
