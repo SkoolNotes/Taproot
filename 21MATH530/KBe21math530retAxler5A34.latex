@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9090)}}    % original
-%\rhead{\textrmlf{Compiled }\#9090\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9091)}}    % original
+%\rhead{\textrmlf{Compiled }\#9091\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9090
+  \#9091
   \textrmlf{ on}
       \today
   }       % new date
@@ -201,5 +201,9 @@ injective if and only if \( (\null T) \cap (\range T) = \{ 0 \} \)
 First, we will rewrite the problem as logical statements for easier
 manipulation. The left-hand side "\(T / (\null T)\) is injective" is
 equivalent to:
+
+\[\begin{aligned}
+  & T/(\null T)
+  \end{aligned}\]
 
 \end{document}
