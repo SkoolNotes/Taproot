@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9104)}}    % original
-%\rhead{\textrmlf{Compiled }\#9104\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9105)}}    % original
+%\rhead{\textrmlf{Compiled }\#9105\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9104
+  \#9105
   \textrmlf{ on}
       \today
   }       % new date
@@ -208,9 +208,13 @@ equivalent to:
   Tv + \left( \onull T \right) = \onull T &\iff v + \left( \onull T \right) = \onull T \\
   Tv \in \onull T &\iff v \in \onull T\\
   T^2v = 0 &\iff Tv = 0
-  \end{aligned}\]
+  \end{aligned}\] \left( T/(\onull T) \left( v+(\onull T)\right) =
+\onull T \right) \&⇔ \left( v+\left( \onull T \right) = \onull T
+\right)\\
+We can also rewrite the second condition for easier manipulation:
 
-\left( T/(\onull T) \left( v+(\onull T)\right) = \onull T \right) \&⇔
-\left( v+\left( \onull T \right) = \onull T \right)\\
+\[\begin{aligned}
+
+  \end{aligned}\]
 
 \end{document}
