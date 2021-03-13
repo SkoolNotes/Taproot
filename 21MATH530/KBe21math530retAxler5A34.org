@@ -16,12 +16,12 @@
   \end{aligned}\]
   \left( T/(\onull T) \left( v+(\onull T)\right) =  \onull T \right)  &\iff \left(  v+\left( \onull T \right) = \onull T \right) \\
 
-  We can also rewrite the second condition for easier manipulation. The intersection of the null space and the range being $0$ is the same as (assuming $w \neq 0$) "if $w \in \onull T$ then $w \notin \orange T$" and "if $w \in \orange T$ then $w \nin \onull T$". Note that these are contrapositives of eachother, so we just need to work with the second statement.
+  We can also rewrite the second condition for easier manipulation. The intersection of the null space and the range being $0$ is the same as (assuming $w \neq 0$) "if $w \in \onull T$ then $w \notin \orange T$" and "if $w \in \orange T$ then $w \notin \onull T$". Note that these are contrapositives of eachother, so we just need to work with the second statement.
 
   \[\begin{aligned}
   \left( \exists v : Tv = w \right) &\implies&  \left( Tw \neq  0 \right) \\
-  T^2 w \neq  0 & &\forall w \nin \left( \onull T \right)\\
-  w \nin \onull T &\implies t^2 w \neq 0
+  T^2 w \neq  0 & &\forall w \notin \left( \onull T \right)\\
+  w \notin \onull T &\implies& T^2 w \neq 0
   \end{aligned}\]
 
   Add the assumption that $w \neq 0$ in again
