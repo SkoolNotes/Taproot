@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9126)}}    % original
-%\rhead{\textrmlf{Compiled }\#9126\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9127)}}    % original
+%\rhead{\textrmlf{Compiled }\#9127\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9126
+  \#9127
   \textrmlf{ on}
       \today
   }       % new date
@@ -220,7 +220,7 @@ so we just need to work with the second statement.
 
 \[\begin{aligned}
   \left( \exists v : Tv = w \right) &\implies  \left( Tw \neq  0 \right) \\
-  \forall w \nin \left( \onull T \right)&,T^2 w \neq  0\\
+  T^2 w \neq  0 & &\forall w \nin \left( \onull T \right)\\
   w \nin \onull T &\implies t^2 w \neq 0
   \end{aligned}\]
 
