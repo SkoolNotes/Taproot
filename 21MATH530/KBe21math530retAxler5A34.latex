@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9116)}}    % original
-%\rhead{\textrmlf{Compiled }\#9116\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9117)}}    % original
+%\rhead{\textrmlf{Compiled }\#9117\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9116
+  \#9117
   \textrmlf{ on}
       \today
   }       % new date
@@ -214,7 +214,8 @@ equivalent to:
 We can also rewrite the second condition for easier manipulation. The
 intersection of the null space and the range being \(0\) is the same as
 "if \(w \neq 0 \land w \in \onull T\) then \(w \notin \orange T\) and if
-" is the same as:
+\(w \neq 0 \land \exists v : Tv = w\) then \(w \nin \onull T\)" is the
+same as:
 
 \[\begin{aligned}
   \left( w \neq 0 \land w \in \onull T \right) &\implies \left( \nexists v : Tv = w \right)\\
