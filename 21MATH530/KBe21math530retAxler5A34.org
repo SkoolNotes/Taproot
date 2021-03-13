@@ -8,6 +8,8 @@
   First, we will rewrite the problem as logical statements for easier manipulation. The left-hand side "$T / (\onull T)$ is injective" is equivalent to:
 
   \[\begin{aligned}
-  \left( T/(\onull T) \left( v+(\onull T)\right) =  \onull T \right)  &\iff \left(  v+\left( \onull T \right) = \onull T \right) \\
+  \left( T/U \left( v+U\right) = U \right)  &\iff \left(  v+U = U \right) \\
   Tv + \left( \onull T \right) = \onull T &\iff v + \left( \onull T \right) = \onull T \\
   \end{aligned}\]
+
+  \left( T/(\onull T) \left( v+(\onull T)\right) =  \onull T \right)  &\iff \left(  v+\left( \onull T \right) = \onull T \right) \\

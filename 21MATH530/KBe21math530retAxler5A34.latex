@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9099)}}    % original
-%\rhead{\textrmlf{Compiled }\#9099\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9100)}}    % original
+%\rhead{\textrmlf{Compiled }\#9100\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9099
+  \#9100
   \textrmlf{ on}
       \today
   }       % new date
@@ -203,8 +203,11 @@ manipulation. The left-hand side "\(T / (\onull T)\) is injective" is
 equivalent to:
 
 \[\begin{aligned}
-  \left( T/(\onull T) \left( v+(\onull T)\right) =  \onull T \right)  &\iff \left(  v+\left( \onull T \right) = \onull T \right) \\
+  \left( T/U \left( v+U\right) = U \right)  &\iff \left(  v+U = U \right) \\
   Tv + \left( \onull T \right) = \onull T &\iff v + \left( \onull T \right) = \onull T \\
   \end{aligned}\]
+
+\left( T/(\onull T) \left( v+(\onull T)\right) = \onull T \right) \&⇔
+\left( v+\left( \onull T \right) = \onull T \right)\\
 
 \end{document}
