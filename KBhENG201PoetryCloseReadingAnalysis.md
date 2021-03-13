@@ -21,7 +21,7 @@ Effect of enjambment: "Hot // lies, rot-//ting hulls" => provides a sign of resi
 
 Rhythmic nature of *Calypso* => sense of systemicism w.r.t. colonialism + enviromental destruction
 
-
+Us them dynamic => 
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
