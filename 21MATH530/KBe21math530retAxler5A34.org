@@ -16,7 +16,7 @@
   \end{aligned}\]
   \left( T/(\onull T) \left( v+(\onull T)\right) =  \onull T \right)  &\iff \left(  v+\left( \onull T \right) = \onull T \right) \\
 
-  We can also rewrite the second condition for easier manipulation. The intersection of the null space and the range being $0$ is the same as "if $w \neq 0 \land w \in \onull T$ then $w \notin \orange T$" and "if $w \neq 0 \land \exists v : Tv = w$ then $w \nin \onull T$" is the same as:
+  We can also rewrite the second condition for easier manipulation. The intersection of the null space and the range being $0$ is the same as (assuming $w \neq 0$) "if $w \in \onull T$ then $w \notin \orange T$" and "if \exists v : Tv = w$ then $w \nin \onull T$". Note that these are contrapositives of eachother, so
 
   \[\begin{aligned}
   \left( w \neq 0 \land w \in \onull T \right) &\implies \left( \nexists v : Tv = w \right)\\
