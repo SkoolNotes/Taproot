@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9095)}}    % original
-%\rhead{\textrmlf{Compiled }\#9095\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9096)}}    % original
+%\rhead{\textrmlf{Compiled }\#9096\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9095
+  \#9096
   \textrmlf{ on}
       \today
   }       % new date
@@ -203,8 +203,8 @@ manipulation. The left-hand side "\(T / (\onull T)\) is injective" is
 equivalent to:
 
 \[\begin{aligned}
-  & T/(\onull T) \left( v+(\onull T)\right) = 0 \iff v+\left( null T \right) = 0\\
-
+  T/(\onull T) \left( v+(\onull T)\right) = \left( \onull T \right)  \iff v+\left( \onull T \right) = \left( \onull T \right) \\
+  \\
   \end{aligned}\]
 
 \end{document}
