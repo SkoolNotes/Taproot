@@ -19,5 +19,6 @@
   We can also rewrite the second condition for easier manipulation. "If $w \in \onull T$ then $w \notin \orange T$" is the same as:
 
   \[\begin{aligned}
-  \left( w \in \onull T \right) \implies \left( \notexists w : T
+  \left( w \in \onull T \right) &\implies \left( \nexists v : Tv = w \right)\\
+  \left( Tw = 0 \right) &\implies \left( \nexists v : Tv = w \right)\\
   \end{aligned}\]
