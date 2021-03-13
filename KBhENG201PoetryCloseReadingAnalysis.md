@@ -19,7 +19,9 @@ A close reading analysis about how the poems we read, discussed and analyzed in 
 ### Development phase – How and So-What
 Effect of enjambment: "Hot // lies, rot-//ting hulls" => provides a sign of resignation.
 
-Rhythmic nature of *Calypso* => sense of systemicism w.r.t. natural destruction
+Rhythmic nature of *Calypso* => sense of systemicism w.r.t. colonialism + enviromental destruction
+
+
 
 ## Defluffifying
 CHOSEN THESIS CLAIM
