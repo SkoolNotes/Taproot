@@ -23,6 +23,9 @@ Rhythmic nature of *Calypso* => sense of systemicism w.r.t. colonialism + enviro
 
 Us them dynamic => "Our hours lifted their lacy black veils— //  a procession of grieving women."
 
+
+
+
 ## Defluffifying
 CHOSEN THESIS CLAIM
 
