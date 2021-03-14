@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9223)}}    % original
-%\rhead{\textrmlf{Compiled }\#9223\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9224)}}    % original
+%\rhead{\textrmlf{Compiled }\#9224\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9223
+  \#9224
   \textrmlf{ on}
       \today
   }       % new date
@@ -279,5 +279,7 @@ absolute value does not converge
 \hypertarget{so-what-is-the-error-of-a-talor-series}{%
 \subsection{So what is the error of a talor
 series?}\label{so-what-is-the-error-of-a-talor-series}}
+
+Between \(a\), and \(b\), with a \(n\)th degree talor polynomials
 
 \end{document}
