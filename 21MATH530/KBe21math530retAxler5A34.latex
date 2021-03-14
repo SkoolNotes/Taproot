@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9139)}}    % original
-%\rhead{\textrmlf{Compiled }\#9139\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9140)}}    % original
+%\rhead{\textrmlf{Compiled }\#9140\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9139
+  \#9140
   \textrmlf{ on}
       \today
   }       % new date
@@ -227,7 +227,10 @@ Assuming \(w \neq 0\), \[\begin{aligned}
 Keeping in mind that \(w = Tv\) and \(w \neq 0\),
 
 \[\begin{aligned}
-  &T^2 v \neq 0\\ \implies& Tw \neq 0
+  T^2 v \neq 0\\
+  T(Tv) \neq 0\\
+  Tw \neq 0\\
+  w \notin \null T
   \end{aligned}\]
 
 Note that the original statement along with its contrapositive implies
