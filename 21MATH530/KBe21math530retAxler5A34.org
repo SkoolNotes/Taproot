@@ -25,6 +25,7 @@
 	Thus, assuming \(w \neq 0\), these statements are equivalent:
 
 	\[\begin{aligned}
+	\left( Tw = 0 \right)  &\implies& \left(\nexists v : Tv = w\right)\\
 	\left( \exists v : Tv = w \right) &\implies&  \left( Tw \neq  0 \right) \\
 	T^2 v \neq  0 & &\forall v \notin \onull T \\
 	v \notin \onull T &\implies& T^2 v \neq 0
