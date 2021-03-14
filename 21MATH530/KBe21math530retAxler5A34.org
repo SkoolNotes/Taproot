@@ -14,8 +14,8 @@
 	\[\begin{aligned}
 	\left( T/U \left( v+U\right) = 0 \right)  &\implies \left(  v+U = 0 \right) &&\text{(alternate definition of injective)}\\
 	Tv + U = \onull T &\implies v + U = \onull T &&\text{(\(T/U(v+U)\) is defined as \(Tv + U\))}\\
-	Tv + \left( \onull T \right) = \onull T &\implies v + \left( \onull T \right) = \onull T \\
-	Tv \in \onull T &\implies v \in \onull T &&\text{(}U=\onull T\text)\\
+	Tv + \left( \onull T \right) = \onull T &\implies v + \left( \onull T \right) = \onull T  &&\text{(}U=\onull T\text)\\
+	Tv \in \onull T &\implies v \in \onull T\\
 	T^2v = 0 &\implies v \in \onull T
 	\end{aligned}\]
 
@@ -31,4 +31,4 @@
 	\end{aligned}\]
 
 ** Proof
-   The statements are equivalent.
+   The statements are equivalent. \hfill\blanksquare
