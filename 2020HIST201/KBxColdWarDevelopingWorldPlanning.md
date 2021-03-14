@@ -61,10 +61,8 @@ dictators because fighting against the wants of the people
 - indeonesia was important because:
 	- > the sprawling archipelago bestrode the sea lanes connecting the Indian Ocean to the Pacific;
 	- outflanked vietnam
-	- 
-
-
-
+	- >   it threatened havoc on the security of the Philippines and the American bases there
+	- had a wealth of natural resources
 
 
 
