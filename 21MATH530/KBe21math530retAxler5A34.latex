@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9148)}}    % original
-%\rhead{\textrmlf{Compiled }\#9148\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9149)}}    % original
+%\rhead{\textrmlf{Compiled }\#9149\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9148
+  \#9149
   \textrmlf{ on}
       \today
   }       % new date
@@ -205,7 +205,7 @@ First, we will rewrite the problem as logical statements for easier
 manipulation.
 
 \hypertarget{left-condition}{%
-\subsubsection{Left condition}\label{left-condition}}
+\subsubsection{Left Condition}\label{left-condition}}
 
 The left-hand side "\(T / (\onull T)\) is injective" is equivalent to:
 
@@ -216,6 +216,9 @@ The left-hand side "\(T / (\onull T)\) is injective" is equivalent to:
     Tv \in \onull T &\iff v \in \onull T\\
     T^2v = 0 &\iff Tv = 0
     \end{aligned}\]
+
+\hypertarget{right-condition}{%
+\subsubsection{Right Condition}\label{right-condition}}
 
 We can also rewrite the second condition for easier manipulation. The
 intersection of the null space and the range being \(0\) is the same as

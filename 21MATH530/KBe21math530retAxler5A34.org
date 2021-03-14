@@ -8,7 +8,7 @@
 ** Condition Manipulation
    First, we will rewrite the problem as logical statements for easier manipulation.
 
-*** Left condition
+*** Left Condition
 
 	The left-hand side "\(T / (\onull T)\) is injective" is equivalent to:
 
@@ -19,6 +19,8 @@
 	Tv \in \onull T &\iff v \in \onull T\\
 	T^2v = 0 &\iff Tv = 0
 	\end{aligned}\]
+
+*** Right Condition
 
 	We can also rewrite the second condition for easier manipulation. The intersection of the null space and the range being \(0\) is the same as (assuming \(w \neq 0\)) "if \(w \in \onull T\) then \(w \notin \orange T\)" and "if \(w \in \orange T\) then \(w \notin \onull T\)". Note that these are contrapositives of eachother, so we just need to work with the second statement.
 
