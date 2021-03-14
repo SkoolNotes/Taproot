@@ -64,8 +64,8 @@ dictators because fighting against the wants of the people
 	- >   it threatened havoc on the security of the Philippines and the American bases there
 	- had a wealth of natural resources
 
-
-
+- sukarno was super charismatic, let him rise to the top
+- 
 
 
 
