@@ -26,8 +26,8 @@
 
 	\[\begin{aligned}
 	\left( \exists v : Tv = w \right) &\implies  \left( Tw \neq  0 \right) \\
-	v \notin \onull T &\implies T^2 v \neq 0 &&\quad(w \neq 0)\\
-	T^2 v = 0 &\implies v \in \onull T
+	v \notin \onull T &\implies T^2 v \neq 0                                   &&\quad(w \neq 0)\\
+	T^2 v = 0 &\implies v \in \onull T                                         \tag{contrapositive}
 	\end{aligned}\]
 
 ** Proof
