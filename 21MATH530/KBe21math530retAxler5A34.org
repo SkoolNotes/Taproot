@@ -25,7 +25,7 @@
   v \notin \onull T &\implies& T^2 v \neq 0
   \end{aligned}\]
 
-  Add the assumption that $w \neq 0$ in again
+  Keeping in mind that $w = Tv$ and $w \notin \null T$
 
   Note that the original statement along with its contrapositive implies \( (\onull T) \cap (\orange T) = \{0\} \).
 

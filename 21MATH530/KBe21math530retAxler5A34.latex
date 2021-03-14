@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9131)}}    % original
-%\rhead{\textrmlf{Compiled }\#9131\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9134)}}    % original
+%\rhead{\textrmlf{Compiled }\#9134\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9131
+  \#9134
   \textrmlf{ on}
       \today
   }       % new date
@@ -224,7 +224,7 @@ Assuming \(w \neq 0\), \[\begin{aligned}
   v \notin \onull T &\implies& T^2 v \neq 0
   \end{aligned}\]
 
-Add the assumption that \(w \neq 0\) in again
+Keeping in mind that \(w = Tv\) and \(w \notin \null T\)
 
 Note that the original statement along with its contrapositive implies
 \( (\onull T) \cap (\orange T) = \{0\} \).
