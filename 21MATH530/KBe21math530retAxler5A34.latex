@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9199)}}    % original
-%\rhead{\textrmlf{Compiled }\#9199\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9201)}}    % original
+%\rhead{\textrmlf{Compiled }\#9201\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9199
+  \#9201
   \textrmlf{ on}
       \today
   }       % new date
@@ -230,7 +230,7 @@ eachother, so we just need to work with the second statement.
 Thus, assuming \(w \neq 0\), these statements are equivalent:
 
 \[\begin{aligned}
-    \left( \exists v : Tv = w \right) &\implies  \left( Tw \neq  0 \right) \\
+    \left( \exists v : Tv = w \right) &\implies  \left( Tw \neq  0 \right)     &&\text{(definitions of null space and range)}\\
     v \notin \onull T &\implies T^2 v \neq 0                                   &&\text{(}w \neq 0\text{)}\\
     T^2 v = 0 &\implies v \in \onull T                                         &&\text{(contrapositive)}
     \end{aligned}\]
