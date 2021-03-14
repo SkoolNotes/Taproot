@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9190)}}    % original
-%\rhead{\textrmlf{Compiled }\#9190\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9192)}}    % original
+%\rhead{\textrmlf{Compiled }\#9192\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9190
+  \#9192
   \textrmlf{ on}
       \today
   }       % new date
@@ -211,9 +211,9 @@ The left-hand side "\(T / (\onull T)\) is injective" is equivalent to:
 
 \[\begin{aligned}
     \left( T/U \left( v+U\right) = 0 \right)  &\implies \left(  v+U = 0 \right) &&\text{(alternate definition of injective)}\\
-    Tv + U = \onull T &\implies v + U = \onull T \\
+    Tv + U = \onull T &\implies v + U = \onull T &&\text{(\(T/U(v+U)\) is defined as \(Tv + U\))}\\
     Tv + \left( \onull T \right) = \onull T &\implies v + \left( \onull T \right) = \onull T \\
-    Tv \in \onull T &\implies v \in \onull T\\
+    Tv \in \onull T &\implies v \in \onull T &&\text{(}U=\onull T\text)\\
     T^2v = 0 &\implies v \in \onull T
     \end{aligned}\]
 
