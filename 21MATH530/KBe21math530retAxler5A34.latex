@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9150)}}    % original
-%\rhead{\textrmlf{Compiled }\#9150\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9151)}}    % original
+%\rhead{\textrmlf{Compiled }\#9151\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9150
+  \#9151
   \textrmlf{ on}
       \today
   }       % new date
@@ -220,14 +220,15 @@ The left-hand side "\(T / (\onull T)\) is injective" is equivalent to:
 \hypertarget{right-condition}{%
 \subsubsection{Right Condition}\label{right-condition}}
 
-We can also rewrite the second condition for easier manipulation. The
-intersection of the null space and the range being \(0\) is the same as
-(assuming \(w \neq 0\)) "if \(w \in \onull T\) then
+We can also rewrite the right-hand condition for easier manipulation.
+The intersection of the null space and the range being \(0\) is the same
+as (assuming \(w \neq 0\)) "if \(w \in \onull T\) then
 \(w \notin \orange T\)" and "if \(w \in \orange T\) then
 \(w \notin \onull T\)". Note that these are contrapositives of
 eachother, so we just need to work with the second statement.
 
 Assuming \(w \neq 0\), these statements are equivalent:
+
 \[\begin{aligned}
     \left( \exists v : Tv = w \right) &\implies&  \left( Tw \neq  0 \right) \\
     T^2 v \neq  0 & &\forall v \notin \left( \onull T \right)\\
