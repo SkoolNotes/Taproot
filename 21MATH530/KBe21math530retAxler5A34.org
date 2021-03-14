@@ -24,7 +24,7 @@
   v \notin \onull T &\implies& T^2 v \neq 0
   \end{aligned}\]
 
-  Note that this statement along with its contrapositive implies \( (\onull T) \cap (\orange T) = \{0\} \).
+  Note that this statement, along with its contrapositive, implies the original \( (\onull T) \cap (\orange T) = \{0\} \) as desired.
 
   Furthermore, keeping in mind that \(w = Tv\) and \(w \neq 0\),
 
@@ -35,3 +35,7 @@
   \end{aligned}\]
 
   which shows the previous relation is an if-and-only-if relation:
+
+  \[\begin{aligned}
+  v \notin \onull T \iff T^2 v \neq  0
+  \end{aligned}\]
