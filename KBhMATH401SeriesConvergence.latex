@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9227)}}    % original
-%\rhead{\textrmlf{Compiled }\#9227\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9228)}}    % original
+%\rhead{\textrmlf{Compiled }\#9228\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9227
+  \#9228
   \textrmlf{ on}
       \today
   }       % new date
@@ -280,9 +280,9 @@ absolute value does not converge
 \subsection{So what is the error of a talor
 series?}\label{so-what-is-the-error-of-a-talor-series}}
 
-Between \(a\), and \(b\), with a \(n\)th degree talor polynomial
-modeling a function with a maximum value \(M\) between \(a\) and
-\(b\)\ldots{}
+The error at point \(x\) of a \(n\)th degree talor polynomial modeling a
+function with a maximum value \(M\) between \(a\) and \(b\) between
+\(a\), and \(b\)
 
 \(|E(x)| \leq \frac{M(x-a)^{n+1}}{}\)
 
