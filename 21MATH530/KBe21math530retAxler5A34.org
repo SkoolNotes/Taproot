@@ -28,7 +28,8 @@
 	\left( \exists v : Tv = w \right) &\implies&  \left( Tw \neq  0 \right) \\
 	T^2 v \neq  0 & &\forall v \notin \onull T \\
 	v \notin \onull T &\implies& T^2 v \neq 0\\
-	T^2 v = 0 &\implies & v \in \onull T
+	Tv = 0 &\implies& T^2 v \neq 0\\
+	T^2 v = 0 &\implies & Tv = 0
 	\end{aligned}\]
 
 	Note that the last two statements imply the original \( (\onull T) \cap (\orange T) = \{0\} \).
