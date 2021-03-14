@@ -5,6 +5,7 @@
   Suppose \(T \in \mathcal L (V)\). Prove that \(T / (\onull T)\) is injective if and only if \( (\onull T) \cap (\orange T) = \{ 0 \} \)
   #+end_quote
 * Proof
+  
   First, we will rewrite the problem as logical statements for easier manipulation. The left-hand side "\(T / (\onull T)\) is injective" is equivalent to:
 
   \[\begin{aligned}
@@ -39,3 +40,4 @@
   \[\begin{aligned}
   v \notin \onull T \iff T^2 v \neq 0
   \end{aligned}\]
+* 
