@@ -20,7 +20,7 @@
 	\end{aligned}\]
 
 *** Right Condition
-	We can also rewrite the right-hand condition for easier manipulation. The intersection of the null space and the range being \(0\) is the same as (assuming \(w \neq 0\)) "if \(w \in \onull T\) then \(w \notin \orange T\)" and "if \(w \in \orange T\) then \(w \notin \onull T\)". Note that these are contrapositives of eachother, so we just need to work with the second statement.
+	We can also rewrite the right-hand condition for easier manipulation. The intersection of the null space and the range being \(0\) is the same as (assuming \(w \neq 0\)) "if \(w \in \onull T\) then \(w \notin \orange T\)" and "if \(w \in \orange T\) then \(w \notin \onull T\)". Note that these are contrapositives of eachother, so we just need to work with the first statement.
 
 	Thus, assuming \(w \neq 0\), these statements are equivalent:
 
@@ -30,7 +30,7 @@
 	v \notin \onull T &\implies& T^2 v \neq 0
 	\end{aligned}\]
 
-	Note that this statement, along with its contrapositive, implies the original \( (\onull T) \cap (\orange T) = \{0\} \).
+	Note again that this statement, along with its contrapositive, implies the original \( (\onull T) \cap (\orange T) = \{0\} \).
 
 	Furthermore, keeping in mind that \(w = Tv\) and \(w \neq 0\),
 
