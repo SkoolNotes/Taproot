@@ -80,21 +80,21 @@ html {
             <p>First, we will rewrite the problem as logical statements for easier manipulation.</p>
             <h3 id="left-condition">Left Condition</h3>
             <p>The left-hand side "<span class="math inline">\(T / (\mathop{\mathrm{\text{null}}}T)\)</span> is injective" is equivalent to:</p>
-            <p><span class="math display">\[\begin{align*}
-                \left( T/U \left( v+U\right) = 0 \right)  &amp;\implies \left(  v+U = 0 \right) \tag{alternate definition of injective}\\
+            <p><span class="math display">\[\begin{aligned}
+                \left( T/U \left( v+U\right) = 0 \right)  &amp;\implies \left(  v+U = 0 \right) &amp;&amp;\text{(alternate definition of injective)}\\
                 Tv + U = \mathop{\mathrm{\text{null}}}T &amp;\implies v + U = \mathop{\mathrm{\text{null}}}T \\
                 Tv + \left( \mathop{\mathrm{\text{null}}}T \right) = \mathop{\mathrm{\text{null}}}T &amp;\implies v + \left( \mathop{\mathrm{\text{null}}}T \right) = \mathop{\mathrm{\text{null}}}T \\
                 Tv \in \mathop{\mathrm{\text{null}}}T &amp;\implies v \in \mathop{\mathrm{\text{null}}}T\\
                 T^2v = 0 &amp;\implies v \in \mathop{\mathrm{\text{null}}}T
-                \end{align*}\]</span></p>
+                \end{aligned}\]</span></p>
             <h3 id="right-condition">Right Condition</h3>
             <p>We can also rewrite the right-hand condition for easier manipulation. The intersection of the null space and the range being <span class="math inline">\(0\)</span> is the same as (assuming <span class="math inline">\(w \neq 0\)</span>) "if <span class="math inline">\(w \in \mathop{\mathrm{\text{null}}}T\)</span> then <span class="math inline">\(w \notin \mathop{\mathrm{\text{range}}}T\)</span>" and "if <span class="math inline">\(w \in \mathop{\mathrm{\text{range}}}T\)</span> then <span class="math inline">\(w \notin \mathop{\mathrm{\text{null}}}T\)</span>". Note that these are contrapositives of eachother, so we just need to work with the second statement.</p>
             <p>Thus, assuming <span class="math inline">\(w \neq 0\)</span>, these statements are equivalent:</p>
-            <p><span class="math display">\[\begin{align*}
+            <p><span class="math display">\[\begin{aligned}
                 \left( \exists v : Tv = w \right) &amp;\implies  \left( Tw \neq  0 \right) \\
                 v \notin \mathop{\mathrm{\text{null}}}T &amp;\implies T^2 v \neq 0                                   &amp;&amp;\quad(w \neq 0)\\
-                T^2 v = 0 &amp;\implies v \in \mathop{\mathrm{\text{null}}}T                                         \tag{contrapositive}
-                \end{align*}\]</span></p>
+                T^2 v = 0 &amp;\implies v \in \mathop{\mathrm{\text{null}}}T                                         &amp;&amp;\text{(contrapositive)}
+                \end{aligned}\]</span></p>
             <h2 id="proof-1">Proof</h2>
             <p>The statements are equivalent.</p>
         </div>
