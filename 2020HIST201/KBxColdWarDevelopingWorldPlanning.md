@@ -59,6 +59,8 @@ dictators because fighting against the wants of the people
 	- cia admitted that they didnt have a connection
 	
 - indeonesia was important because:
+	- > the sprawling archipelago bestrode the sea lanes connecting the Indian Ocean to the Pacific;
+	- outflanked vietnam
 	- 
 
 

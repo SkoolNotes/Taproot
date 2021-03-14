@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9216)}}    % original
-%\rhead{\textrmlf{Compiled }\#9216\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9217)}}    % original
+%\rhead{\textrmlf{Compiled }\#9217\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9216
+  \#9217
   \textrmlf{ on}
       \today
   }       % new date
@@ -252,7 +252,13 @@ the people
   indeonesia was important because:
 
   \begin{itemize}
-  \tightlist
+  \item
+    \begin{quote}
+    the sprawling archipelago bestrode the sea lanes connecting the
+    Indian Ocean to the Pacific;
+    \end{quote}
+  \item
+    outflanked vietnam
   \item
   \end{itemize}
 \end{itemize}
