@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9163)}}    % original
-%\rhead{\textrmlf{Compiled }\#9163\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9164)}}    % original
+%\rhead{\textrmlf{Compiled }\#9164\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9163
+  \#9164
   \textrmlf{ on}
       \today
   }       % new date
@@ -233,8 +233,7 @@ Thus, assuming \(w \neq 0\), these statements are equivalent:
     \left( \exists v : Tv = w \right) &\implies&  \left( Tw \neq  0 \right) \\
     T^2 v \neq  0 & &\forall v \notin \onull T \\
     v \notin \onull T &\implies& T^2 v \neq 0\\
-    Tv \neq 0 &\implies& T^2 v \neq 0\\
-    T^2 v = 0 &\implies & Tv = 0
+    T^2 v = 0 &\implies & v \in \onull T
     \end{aligned}\]
 
 Note that the last two statements imply the original
