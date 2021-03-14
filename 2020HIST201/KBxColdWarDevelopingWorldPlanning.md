@@ -44,7 +44,7 @@ dictators because fighting against the wants of the people
 - evidence that america was involed? 
 
 - america had already participated in a revolt against sukar in 1958
-- america congragulated suharto and themselves whenhe 
+- america congragulated suharto and themselves when he smashed the commies
 
 
 
