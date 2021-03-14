@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9165)}}    % original
-%\rhead{\textrmlf{Compiled }\#9165\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9167)}}    % original
+%\rhead{\textrmlf{Compiled }\#9167\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9165
+  \#9167
   \textrmlf{ on}
       \today
   }       % new date
@@ -230,10 +230,10 @@ eachother, so we just need to work with the second statement.
 Thus, assuming \(w \neq 0\), these statements are equivalent:
 
 \[\begin{aligned}
-    \left( \exists v : Tv = w \right) &\implies&  \left( Tw \neq  0 \right) \\
-    T^2 v \neq  0 & &\forall v \notin \onull T \\
-    v \notin \onull T &\implies& T^2 v \neq 0\\
-    T^2 v = 0 &\implies & v \in \onull T
+    \left( \exists v : Tv = w \right) &\implies  \left( Tw \neq  0 \right) \\
+    T^2 v \neq  0 & \forall& v \notin \onull T \\
+    v \notin \onull T &\implies T^2 v \neq 0\\
+    T^2 v = 0 &\implies  v \in \onull T
     \end{aligned}\]
 
 \hypertarget{proof-1}{%
