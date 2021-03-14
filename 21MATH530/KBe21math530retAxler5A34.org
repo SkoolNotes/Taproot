@@ -14,7 +14,6 @@
   Tv \in \onull T &\iff v \in \onull T\\
   T^2v = 0 &\iff Tv = 0
   \end{aligned}\]
-  \left( T/(\onull T) \left( v+(\onull T)\right) =  \onull T \right)  &\iff \left(  v+\left( \onull T \right) = \onull T \right) \\
 
   We can also rewrite the second condition for easier manipulation. The intersection of the null space and the range being \(0\) is the same as (assuming \(w \neq 0\)) "if \(w \in \onull T\) then \(w \notin \orange T\)" and "if \(w \in \orange T\) then \(w \notin \onull T\)". Note that these are contrapositives of eachother, so we just need to work with the second statement.
 
@@ -37,8 +36,3 @@
   \end{aligned}\]
 
   which shows the previous relation is an if-and-only-if relation.
-
-
-
-  \left( w \neq 0 \land w \in \onull T \right) &\implies \left( \nexists v : Tv = w \right)\\
-  \left( w \neq 0 \land Tw = 0 \right) &\implies \left( \nexists v : Tv = w \right)\\
