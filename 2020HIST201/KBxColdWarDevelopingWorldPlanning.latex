@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9219)}}    % original
-%\rhead{\textrmlf{Compiled }\#9219\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9220)}}    % original
+%\rhead{\textrmlf{Compiled }\#9220\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9219
+  \#9220
   \textrmlf{ on}
       \today
   }       % new date
@@ -269,6 +269,12 @@ the people
   \end{itemize}
 \item
   sukarno was super charismatic, let him rise to the top
+
+  \begin{itemize}
+  \tightlist
+  \item
+    survived a coup, and a buncha other things
+  \end{itemize}
 \item
 \end{itemize}
 
