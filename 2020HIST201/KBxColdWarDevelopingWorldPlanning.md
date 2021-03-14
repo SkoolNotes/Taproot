@@ -57,7 +57,10 @@ dictators because fighting against the wants of the people
 - cia was on a short leash, if they had plans to move against, then washintion would know 
 	- he didnt, and thus, CIA was not involved.
 	- cia admitted that they didnt have a connection
-- 
+	
+- indeonesia was important because:
+	- 
+
 
 
 
