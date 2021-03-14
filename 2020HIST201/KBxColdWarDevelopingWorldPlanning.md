@@ -37,6 +37,19 @@ dictators because fighting against the wants of the people
 
 
 
+## Note-taking, begin!
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

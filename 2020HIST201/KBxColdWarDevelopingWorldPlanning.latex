@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9204)}}    % original
-%\rhead{\textrmlf{Compiled }\#9204\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9205)}}    % original
+%\rhead{\textrmlf{Compiled }\#9205\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9204
+  \#9205
   \textrmlf{ on}
       \today
   }       % new date
@@ -208,5 +208,8 @@ Powers Edge: Ideological Manipulation in Foreign Countries
 instating leaders in foreign coutries -\textgreater{} dictators that we
 cant do anything about dictators because fighting against the wants of
 the people
+
+\hypertarget{note-taking-begin}{%
+\subsection{Note-taking, begin!}\label{note-taking-begin}}
 
 \end{document}
