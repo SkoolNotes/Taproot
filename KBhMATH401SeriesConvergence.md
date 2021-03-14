@@ -62,3 +62,5 @@ The inverse is true, too.
 Absolute Convergence => series who converge and whose absolute value converges
 
 Conditional Convergence => series who converge and whose absolute value does not converge
+
+## So what is the error of a talor series?
