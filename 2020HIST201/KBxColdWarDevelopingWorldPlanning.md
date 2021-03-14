@@ -67,7 +67,7 @@ dictators because fighting against the wants of the people
 - sukarno was super charismatic, let him rise to the top
 	- survived a coup, and a buncha other things
 
-- 
+- america doesnt want to push sukarno into greater
 
 
 
