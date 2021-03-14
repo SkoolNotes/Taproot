@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9229)}}    % original
-%\rhead{\textrmlf{Compiled }\#9229\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9230)}}    % original
+%\rhead{\textrmlf{Compiled }\#9230\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9229
+  \#9230
   \textrmlf{ on}
       \today
   }       % new date
@@ -283,6 +283,6 @@ series?}\label{so-what-is-the-error-of-a-talor-series}}
 The error at point \(x\) of a \(n\)th degree talor polynomial modeling a
 function with a maximum value \(M\) between \(a\) and \(b\):
 
-\(|E(x)| \leq \frac{M(x-a)^{n+1}}{}\)
+\(|E(x)| \leq \frac{M(x-a)^{n+1}}{(n+1)!}\)
 
 \end{document}

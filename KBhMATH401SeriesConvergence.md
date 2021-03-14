@@ -67,4 +67,4 @@ Conditional Convergence => series who converge and whose absolute value does not
 ## So what is the error of a talor series?
 The error at point $x$ of a $n$th degree talor polynomial modeling a function with a maximum value $M$ between $a$ and $b$:
 
-$|E(x)| \leq \frac{M(x-a)^{n+1}}{}$
+$|E(x)| \leq \frac{M(x-a)^{n+1}}{(n+1)!}$
