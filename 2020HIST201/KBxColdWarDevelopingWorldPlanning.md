@@ -46,8 +46,11 @@ dictators because fighting against the wants of the people
 - america had already participated in a revolt against sukar in 1958
 - america congragulated suharto and themselves when he smashed the commies
 
+- this guy argues that america didnt play a large role
 
-
+- america prodded the army to take down sukaro but it didnt work
+	- they had "bassically given up"
+- 
 
 
 
