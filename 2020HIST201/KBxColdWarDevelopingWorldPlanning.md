@@ -39,7 +39,7 @@ dictators because fighting against the wants of the people
 
 ## Note-taking, begin!
 
-
+- America overthrew Sukarno in 1965, and replaced him with the right wing Suharto who was big bad news
 
 
 
