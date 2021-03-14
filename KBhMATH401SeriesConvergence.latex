@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9224)}}    % original
-%\rhead{\textrmlf{Compiled }\#9224\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9226)}}    % original
+%\rhead{\textrmlf{Compiled }\#9226\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9224
+  \#9226
   \textrmlf{ on}
       \today
   }       % new date
@@ -228,6 +228,8 @@ If a p-series has a p \textless= 1, the p-series will diverge
 \hypertarget{comparison-test}{%
 \subsection{Comparison Test}\label{comparison-test}}
 
+Both provided that \(a_n,b_n \geq 0\ \&\ a_n \leq b_n\)
+
 {[}{[}Pasted image 20210308082352.png{]}{]}
 
 {[}{[}Pasted image 20210308082201.png{]}{]}
@@ -235,8 +237,6 @@ If a p-series has a p \textless= 1, the p-series will diverge
 Also, if \(\lim_{n \to \infty} \frac{a_n}{b_n} = C\ (0<c<\infty)\), the
 two series will either both converge or both diverge. So you only need
 to test one.
-
-Both provided that \(a_n,b_n \geq 0\ \&\ a_n \leq b_n\)
 
 \hypertarget{alternating-series-test}{%
 \subsection{Alternating Series Test}\label{alternating-series-test}}
