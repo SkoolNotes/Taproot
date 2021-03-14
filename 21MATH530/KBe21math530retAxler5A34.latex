@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9178)}}    % original
-%\rhead{\textrmlf{Compiled }\#9178\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9182)}}    % original
+%\rhead{\textrmlf{Compiled }\#9182\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9178
+  \#9182
   \textrmlf{ on}
       \today
   }       % new date
@@ -209,13 +209,13 @@ manipulation.
 
 The left-hand side "\(T / (\onull T)\) is injective" is equivalent to:
 
-\[\begin{align}
+\[\begin{align*}
     \left( T/U \left( v+U\right) = 0 \right)  &\implies \left(  v+U = 0 \right) \tag{alternate definition of injective}\\
     Tv + U = \onull T &\implies v + U = \onull T \\
     Tv + \left( \onull T \right) = \onull T &\implies v + \left( \onull T \right) = \onull T \\
     Tv \in \onull T &\implies v \in \onull T\\
     T^2v = 0 &\implies v \in \onull T
-    \end{align}\]
+    \end{align*}\]
 
 \hypertarget{right-condition}{%
 \subsubsection{Right Condition}\label{right-condition}}
@@ -229,11 +229,11 @@ eachother, so we just need to work with the second statement.
 
 Thus, assuming \(w \neq 0\), these statements are equivalent:
 
-\[\begin{align}
+\[\begin{align*}
     \left( \exists v : Tv = w \right) &\implies  \left( Tw \neq  0 \right) \\
     v \notin \onull T &\implies T^2 v \neq 0                                   &&\quad(w \neq 0)\\
     T^2 v = 0 &\implies v \in \onull T                                         \tag{contrapositive}
-    \end{align}\]
+    \end{align*}\]
 
 \hypertarget{proof-1}{%
 \subsection{Proof}\label{proof-1}}
