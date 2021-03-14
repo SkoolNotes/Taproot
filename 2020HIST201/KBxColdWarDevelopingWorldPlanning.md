@@ -32,8 +32,8 @@ Powers Edge: Ideological Manipulation in Foreign Countries
 
 
 
-
-
+instating leaders in foreign coutries -> dictators that we cant do anything about
+dictators because fighting against the wants of the people
 
 
 
