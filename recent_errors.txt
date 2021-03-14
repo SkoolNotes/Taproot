@@ -1,11 +1,12 @@
-        Log for attempt at Sat Mar 13 07:12:34 PM PST 2021 (9173)
-        Sat Mar 13 07:12:34 PM PST 2021 Converting 21MATH530/KBe21math530retAxler5A34.org...
+        Log for attempt at Sat Mar 13 07:13:54 PM PST 2021 (9174)
+        Sat Mar 13 07:13:54 PM PST 2021 Converting 21MATH530/KBe21math530retAxler5A34.org...
 Error producing PDF.
-! Package amsmath Error: \tag not allowed here.
+! Package amsmath Error: Erroneous nesting of equation structures;
+(amsmath)                trying to recover with `aligned'.
 
 See the amsmath package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.235 ...                                     \tag
+l.218     \end{align}
 
