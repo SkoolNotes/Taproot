@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9231)}}    % original
-%\rhead{\textrmlf{Compiled }\#9231\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9232)}}    % original
+%\rhead{\textrmlf{Compiled }\#9232\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9231
+  \#9232
   \textrmlf{ on}
       \today
   }       % new date
@@ -276,13 +276,13 @@ absolute value converges
 Conditional Convergence =\textgreater{} series who converge and whose
 absolute value does not converge
 
-\hypertarget{so-what-is-the-error-of-a-talor-series}{%
-\subsection{So what is the error of a talor
-series?}\label{so-what-is-the-error-of-a-talor-series}}
+\hypertarget{so-what-is-the-error-of-a-talor-series-lagrange-error}{%
+\subsection{So what is the error of a talor series? (Lagrange
+Error)}\label{so-what-is-the-error-of-a-talor-series-lagrange-error}}
 
 The error at point \(x\) of a \(n\)th degree talor polynomial centered
-at \(a\) modeling a function with a maximum value \(M\) between a bound
-in which \(x\) resides:
+at \(a\) modeling a function with an absolute maximum value \(M\)
+between a bound containing 0 and \(x\):
 
 \(|E(x)| \leq \frac{M(x-a)^{n+1}}{(n+1)!}\)
 

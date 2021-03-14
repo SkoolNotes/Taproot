@@ -64,7 +64,7 @@ Absolute Convergence => series who converge and whose absolute value converges
 
 Conditional Convergence => series who converge and whose absolute value does not converge
 
-## So what is the error of a talor series?
-The error at point $x$ of a $n$th degree talor polynomial centered at $a$ modeling a function with a maximum value $M$ between a bound in which $x$ resides:
+## So what is the error of a talor series? (Lagrange Error)
+The error at point $x$ of a $n$th degree talor polynomial centered at $a$ modeling a function with an absolute maximum value $M$ between a bound containing 0 and $x$:
 
 $|E(x)| \leq \frac{M(x-a)^{n+1}}{(n+1)!}$
