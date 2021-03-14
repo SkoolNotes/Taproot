@@ -135,11 +135,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9147)}}    % original
-%\rhead{\textrmlf{Compiled }\#9147\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9148)}}    % original
+%\rhead{\textrmlf{Compiled }\#9148\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9147
+  \#9148
   \textrmlf{ on}
       \today
   }       % new date
@@ -198,17 +198,24 @@ injective if and only if \( (\onull T) \cap (\orange T) = \{ 0 \} \)
 \hypertarget{proof}{%
 \section{Proof}\label{proof}}
 
+\hypertarget{condition-manipulation}{%
+\subsection{Condition Manipulation}\label{condition-manipulation}}
+
 First, we will rewrite the problem as logical statements for easier
-manipulation. The left-hand side "\(T / (\onull T)\) is injective" is
-equivalent to:
+manipulation.
+
+\hypertarget{left-condition}{%
+\subsubsection{Left condition}\label{left-condition}}
+
+The left-hand side "\(T / (\onull T)\) is injective" is equivalent to:
 
 \[\begin{aligned}
-  \left( T/U \left( v+U\right) = 0 \right)  &\iff \left(  v+U = 0 \right) \\
-  Tv + U = \onull T &\iff v + U = \onull T \\
-  Tv + \left( \onull T \right) = \onull T &\iff v + \left( \onull T \right) = \onull T \\
-  Tv \in \onull T &\iff v \in \onull T\\
-  T^2v = 0 &\iff Tv = 0
-  \end{aligned}\]
+    \left( T/U \left( v+U\right) = 0 \right)  &\iff \left(  v+U = 0 \right) \\
+    Tv + U = \onull T &\iff v + U = \onull T \\
+    Tv + \left( \onull T \right) = \onull T &\iff v + \left( \onull T \right) = \onull T \\
+    Tv \in \onull T &\iff v \in \onull T\\
+    T^2v = 0 &\iff Tv = 0
+    \end{aligned}\]
 
 We can also rewrite the second condition for easier manipulation. The
 intersection of the null space and the range being \(0\) is the same as
@@ -219,10 +226,10 @@ eachother, so we just need to work with the second statement.
 
 Assuming \(w \neq 0\), these statements are equivalent:
 \[\begin{aligned}
-  \left( \exists v : Tv = w \right) &\implies&  \left( Tw \neq  0 \right) \\
-  T^2 v \neq  0 & &\forall v \notin \left( \onull T \right)\\
-  v \notin \onull T &\implies& T^2 v \neq 0
-  \end{aligned}\]
+    \left( \exists v : Tv = w \right) &\implies&  \left( Tw \neq  0 \right) \\
+    T^2 v \neq  0 & &\forall v \notin \left( \onull T \right)\\
+    v \notin \onull T &\implies& T^2 v \neq 0
+    \end{aligned}\]
 
 Note that this statement, along with its contrapositive, implies the
 original \( (\onull T) \cap (\orange T) = \{0\} \) as desired.
@@ -230,15 +237,15 @@ original \( (\onull T) \cap (\orange T) = \{0\} \) as desired.
 Furthermore, keeping in mind that \(w = Tv\) and \(w \neq 0\),
 
 \[\begin{aligned}
-  T^2 v \neq 0 &\implies T(Tv) \neq 0\\
-  &\implies Tw \neq 0\\
-  &\implies w \notin \onull T
-  \end{aligned}\]
+    T^2 v \neq 0 &\implies T(Tv) \neq 0\\
+    &\implies Tw \neq 0\\
+    &\implies w \notin \onull T
+    \end{aligned}\]
 
 which shows the previous relation is an if-and-only-if relation:
 
 \[\begin{aligned}
-  v \notin \onull T \iff T^2 v \neq 0
-  \end{aligned}\]
+    v \notin \onull T \iff T^2 v \neq 0
+    \end{aligned}\]
 
 \end{document}

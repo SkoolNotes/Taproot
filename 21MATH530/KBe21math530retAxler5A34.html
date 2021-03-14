@@ -76,31 +76,34 @@ html {
             <p>Suppose <span class="math inline">\(T \in \mathcal L (V)\)</span>. Prove that <span class="math inline">\(T / (\mathop{\mathrm{\text{null}}}T)\)</span> is injective if and only if <span class="math inline">\((\mathop{\mathrm{\text{null}}}T) \cap (\mathop{\mathrm{\text{range}}}T) = \{ 0 \}\)</span></p>
             </blockquote>
             <h1 id="proof">Proof</h1>
-            <p>First, we will rewrite the problem as logical statements for easier manipulation. The left-hand side "<span class="math inline">\(T / (\mathop{\mathrm{\text{null}}}T)\)</span> is injective" is equivalent to:</p>
+            <h2 id="condition-manipulation">Condition Manipulation</h2>
+            <p>First, we will rewrite the problem as logical statements for easier manipulation.</p>
+            <h3 id="left-condition">Left condition</h3>
+            <p>The left-hand side "<span class="math inline">\(T / (\mathop{\mathrm{\text{null}}}T)\)</span> is injective" is equivalent to:</p>
             <p><span class="math display">\[\begin{aligned}
-              \left( T/U \left( v+U\right) = 0 \right)  &amp;\iff \left(  v+U = 0 \right) \\
-              Tv + U = \mathop{\mathrm{\text{null}}}T &amp;\iff v + U = \mathop{\mathrm{\text{null}}}T \\
-              Tv + \left( \mathop{\mathrm{\text{null}}}T \right) = \mathop{\mathrm{\text{null}}}T &amp;\iff v + \left( \mathop{\mathrm{\text{null}}}T \right) = \mathop{\mathrm{\text{null}}}T \\
-              Tv \in \mathop{\mathrm{\text{null}}}T &amp;\iff v \in \mathop{\mathrm{\text{null}}}T\\
-              T^2v = 0 &amp;\iff Tv = 0
-              \end{aligned}\]</span></p>
+                \left( T/U \left( v+U\right) = 0 \right)  &amp;\iff \left(  v+U = 0 \right) \\
+                Tv + U = \mathop{\mathrm{\text{null}}}T &amp;\iff v + U = \mathop{\mathrm{\text{null}}}T \\
+                Tv + \left( \mathop{\mathrm{\text{null}}}T \right) = \mathop{\mathrm{\text{null}}}T &amp;\iff v + \left( \mathop{\mathrm{\text{null}}}T \right) = \mathop{\mathrm{\text{null}}}T \\
+                Tv \in \mathop{\mathrm{\text{null}}}T &amp;\iff v \in \mathop{\mathrm{\text{null}}}T\\
+                T^2v = 0 &amp;\iff Tv = 0
+                \end{aligned}\]</span></p>
             <p>We can also rewrite the second condition for easier manipulation. The intersection of the null space and the range being <span class="math inline">\(0\)</span> is the same as (assuming <span class="math inline">\(w \neq 0\)</span>) "if <span class="math inline">\(w \in \mathop{\mathrm{\text{null}}}T\)</span> then <span class="math inline">\(w \notin \mathop{\mathrm{\text{range}}}T\)</span>" and "if <span class="math inline">\(w \in \mathop{\mathrm{\text{range}}}T\)</span> then <span class="math inline">\(w \notin \mathop{\mathrm{\text{null}}}T\)</span>". Note that these are contrapositives of eachother, so we just need to work with the second statement.</p>
             <p>Assuming <span class="math inline">\(w \neq 0\)</span>, these statements are equivalent: <span class="math display">\[\begin{aligned}
-              \left( \exists v : Tv = w \right) &amp;\implies&amp;  \left( Tw \neq  0 \right) \\
-              T^2 v \neq  0 &amp; &amp;\forall v \notin \left( \mathop{\mathrm{\text{null}}}T \right)\\
-              v \notin \mathop{\mathrm{\text{null}}}T &amp;\implies&amp; T^2 v \neq 0
-              \end{aligned}\]</span></p>
+                \left( \exists v : Tv = w \right) &amp;\implies&amp;  \left( Tw \neq  0 \right) \\
+                T^2 v \neq  0 &amp; &amp;\forall v \notin \left( \mathop{\mathrm{\text{null}}}T \right)\\
+                v \notin \mathop{\mathrm{\text{null}}}T &amp;\implies&amp; T^2 v \neq 0
+                \end{aligned}\]</span></p>
             <p>Note that this statement, along with its contrapositive, implies the original <span class="math inline">\((\mathop{\mathrm{\text{null}}}T) \cap (\mathop{\mathrm{\text{range}}}T) = \{0\}\)</span> as desired.</p>
             <p>Furthermore, keeping in mind that <span class="math inline">\(w = Tv\)</span> and <span class="math inline">\(w \neq 0\)</span>,</p>
             <p><span class="math display">\[\begin{aligned}
-              T^2 v \neq 0 &amp;\implies T(Tv) \neq 0\\
-              &amp;\implies Tw \neq 0\\
-              &amp;\implies w \notin \mathop{\mathrm{\text{null}}}T
-              \end{aligned}\]</span></p>
+                T^2 v \neq 0 &amp;\implies T(Tv) \neq 0\\
+                &amp;\implies Tw \neq 0\\
+                &amp;\implies w \notin \mathop{\mathrm{\text{null}}}T
+                \end{aligned}\]</span></p>
             <p>which shows the previous relation is an if-and-only-if relation:</p>
             <p><span class="math display">\[\begin{aligned}
-              v \notin \mathop{\mathrm{\text{null}}}T \iff T^2 v \neq 0
-              \end{aligned}\]</span></p>
+                v \notin \mathop{\mathrm{\text{null}}}T \iff T^2 v \neq 0
+                \end{aligned}\]</span></p>
         </div>
 
         <script>
