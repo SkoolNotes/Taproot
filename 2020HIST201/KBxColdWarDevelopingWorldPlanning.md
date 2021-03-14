@@ -54,9 +54,9 @@ dictators because fighting against the wants of the people
 
 - lyndon b johson and w post watergate means we get info
 
+- cia was on a short leash, if they had plans to move against, then washintion would know
+
 - 
-
-
 
 
 
