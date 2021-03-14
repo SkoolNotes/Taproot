@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9232)}}    % original
-%\rhead{\textrmlf{Compiled }\#9232\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9233)}}    % original
+%\rhead{\textrmlf{Compiled }\#9233\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9232
+  \#9233
   \textrmlf{ on}
       \today
   }       % new date
@@ -281,8 +281,8 @@ absolute value does not converge
 Error)}\label{so-what-is-the-error-of-a-talor-series-lagrange-error}}
 
 The error at point \(x\) of a \(n\)th degree talor polynomial centered
-at \(a\) modeling a function with an absolute maximum value \(M\)
-between a bound containing 0 and \(x\):
+at \(a\) modeling a function with an absolute maximum value of \(M\) in
+its \(n+1\)th dervitave between a bound containing 0 and \(x\):
 
 \(|E(x)| \leq \frac{M(x-a)^{n+1}}{(n+1)!}\)
 
