@@ -51,9 +51,10 @@ dictators because fighting against the wants of the people
 - america prodded the army to take down sukaro but it didnt work
 	- they had "bassically given up"
 - Amercia gave up, the coup caught the CIA by surprise
+
+- lyndon b johson and w post watergate means we get info
+
 - 
-
-
 
 
 
