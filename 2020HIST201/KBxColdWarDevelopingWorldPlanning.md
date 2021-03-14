@@ -41,7 +41,7 @@ dictators because fighting against the wants of the people
 
 - America overthrew Sukarno in 1965, and replaced him with the right wing Suharto who was big bad news
 
-
+- evidence that america was involed? 
 
 
 
