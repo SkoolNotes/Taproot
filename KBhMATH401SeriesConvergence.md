@@ -78,3 +78,5 @@ For instance, a geometric series is a special power series...
 $g(x) = \sum_{n=0}^{\infty} = ax^n$
 
 This geometric series converges if $|x|<1$, and so it has an interval of convergence of $-1 < x < 1$. If this converges, this function will converge to $\frac{a}{1-x}$
+
+**Interval of Convergence**: at wh
