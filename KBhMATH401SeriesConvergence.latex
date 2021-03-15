@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9233)}}    % original
-%\rhead{\textrmlf{Compiled }\#9233\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9234)}}    % original
+%\rhead{\textrmlf{Compiled }\#9234\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9233
+  \#9234
   \textrmlf{ on}
       \today
   }       % new date
@@ -282,7 +282,7 @@ Error)}\label{so-what-is-the-error-of-a-talor-series-lagrange-error}}
 
 The error at point \(x\) of a \(n\)th degree talor polynomial centered
 at \(a\) modeling a function with an absolute maximum value of \(M\) in
-its \(n+1\)th dervitave between a bound containing 0 and \(x\):
+its \(n+1\)th dervitave between a bound containing \(x\) and \(a\):
 
 \(|E(x)| \leq \frac{M(x-a)^{n+1}}{(n+1)!}\)
 

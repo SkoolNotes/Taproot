@@ -70,6 +70,95 @@ dictators because fighting against the wants of the people
 - america doesnt want to push sukarno into greater reliance on the Chinese and the Russions (commies)
 
 
+- sukarno had a phycological war against malasia
+- CIA thought of sukarno more of a speaker rather than a thinker
+	- > more improviser than ideologue
+	
+- sukarno needed the PKI, the PKI needed sukarno
+- sukarno has the same deal with the army, who also ballanced the PKI
+
+- american aid had to be low due to pressure from congress, but they tried to do enough to keep sukarno from behaving even more badly
+
+- > "When any nation offers us aid with political strings attached, then I will tell them," here Sukarno switched to English for emphasis,  "'Go to hell with your aid!"'
+	- people didnt like that.
+
+- cia thought that sukarno was becoming "mentally unhinged"
+- sukarno made another speech that was very clearly anti american
+
+- rusk said that internal anti comunist action could not develop independent of sukarno
+- and that they should think of it as a communist dictatorship
+
+- sukarno declined americans a bunch (pg 16)
+
+- ball said: 
+	- > so long as sukarno is alve, the prospects of an army revolt against him are slim
+
+- their were rumors of sukarno being ill, tons of misinformation
+
+idk...
+
+- america likes to take credit when things go right?
+
+- 
+
+
+## planin
+
+big (small) idea: we live in contexts, america provided the context for suharto to do the coup
+
+trying to fit the situation into the binary of blame is not nueanced enough
+wheeee
+
+
+
+1. **Title (Something catchy: short summary of topic)**
+	1. TBD
+2. **Lede/hook (~1 paragraph)**
+
+	1. description of the coup?
+	
+3. **Context for the case study (~1-2 paragraphs)**
+	1. talk about inddonesia and it's positioning, what it meant
+		1. indonesia had large strategic signifigance:
+			1. right in the middle of the sea lanes connecting "the Indian Ocean to the Pacific; it outflanked Vietnam; it threatened havoc on the security of the Philippines and the American bases there. Economically the country's clout rested on a wealth of natural resources, and although no one could say just how abundant they might be, American oil com- panies had bet some half-billion dollars on Indonesia's future.6 Politically Sukarno had early claimed stature among Third World neutralists by hosting the seminal Bandung conference of 1955; nearly a decade later he remained a heavyweight in the nonaligned movement."
+		2. 
+	
+	
+	
+4. **Source analysis (~1-2 paragraphs)** 
+	1. summary?
+		1. Pick at least one reading and provide a brief review of the article’s main contributions. To do so, identify both the purpose and the argument of the piece. What justifications does the author provide about the topic selection and the significance of the arguments? 
+			1. > This brings us back to the most serious deficiency of covert warfare: its inevitable tendency to poison the well of public opinion. Each actual operation discovered   gives rise to a hundred imagined, which for all their illusiveness are no less con- vincing to an international audience and damaging to the United States.
+			2. Covert operations and secrecy -> intense speculation, damages public opinion, truth is important. this is the truth. 
+			3. Argument: Sukarno's overthrow was not done by americans
+		2. Here would also be the place to provide a brief summary of the contents of the article: what specifics does the article focus on and how do those choices help to advance the author’s argument?
+			1. America tried, failed. Gave up.
+			2. we had info, we didnt know. caught us by surprise.
+			3. america had incentive, made sense,
+			4. but we ultimently didnt do it.
+
+5. **“Literature review” (~1-2 pagagraphs)**
+	1. How does your secondary source engage with the theme of triangularity and the global cold war?
+		1. it acknolwges the global cold war, and explores an edge case
+			1. intellectual expanse, how truly global the cold war was.
+	2. Here you should connect your reading to the larger field. What is distinct about their approach and how effective is that approach at capturing the triangular relationship of the global cold war?
+		1. another attempt to make sense and find truth from the knowledge pool
+		2. another aspect of the global cold war: where it isnt, where it's imagined to be
+
+
+6. **Evaluation: How did the Cold War system shape development and/or decolonization in your region?** 
+	1. connection to Munro: 
+		1. > “The so-called Cold War…was far less the confrontation of the United States with Russia than America’s expansion into the entire world.”  
+		2. the fact that this event was thought to be done by the americans demstrates the expanse
+	2. context creation, blame, ect
+
+
+
+
+
+
+
+
 
 
 
