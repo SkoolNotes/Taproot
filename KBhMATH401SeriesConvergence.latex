@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9238)}}    % original
-%\rhead{\textrmlf{Compiled }\#9238\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9239)}}    % original
+%\rhead{\textrmlf{Compiled }\#9239\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9238
+  \#9239
   \textrmlf{ on}
       \today
   }       % new date
@@ -304,5 +304,8 @@ series converge?
 
 \textbf{Radius of Convergence}: at what absolute distance from \(c\)
 (the ``centering'' of the series) will the series converge?
+
+To figure the interval of convergence, simply use the ratio test and
+solve for \(x\) that makes the radio \(<\) 1.
 
 \end{document}

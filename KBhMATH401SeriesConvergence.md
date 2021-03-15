@@ -82,3 +82,5 @@ This geometric series converges if $|x|<1$, and so it has an interval of converg
 **Interval of Convergence**: at what values of $x$ does the series converge?
 
 **Radius of Convergence**: at what absolute distance from $c$ (the "centering" of the series) will the series converge?
+
+To figure the interval of convergence, simply use the ratio test and solve for $x$ that makes the radio $<$ 1.
