@@ -83,4 +83,4 @@ This geometric series converges if $|x|<1$, and so it has an interval of converg
 
 **Radius of Convergence**: at what absolute distance from $c$ (the "centering" of the series) will the series converge?
 
-To figure the interval of convergence, simply use the ratio test and solve for $x$ that makes the radio $<$ 1.
+To figure the interval of convergence, simply use the ratio test and solve for $x$ that makes the ratio $< 1$. Then, think about the inconclusive cases whereby ratio $= 0$ — then, use the comparison test, or intergral test.
