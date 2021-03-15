@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9241)}}    % original
-%\rhead{\textrmlf{Compiled }\#9241\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9242)}}    % original
+%\rhead{\textrmlf{Compiled }\#9242\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9241
+  \#9242
   \textrmlf{ on}
       \today
   }       % new date
@@ -289,7 +289,7 @@ its \(n+1\)th dervitave between a bound containing \(x\) and \(a\):
 \hypertarget{power-series-1}{%
 \subsection{Power Series}\label{power-series-1}}
 
-\(f(x) = \sum_{n=0}^{\infty} = a_n(x-c)^n\)
+\(f(x) = \sum_{n=0}^{\infty} a_n(x-c)^n= a_n(x-c)^0 + a_n(x-c)^1 ...\)
 
 For instance, a geometric series is a special power series\ldots{}
 

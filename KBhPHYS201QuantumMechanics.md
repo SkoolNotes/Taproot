@@ -193,3 +193,7 @@ Finally, plugging stuff into the previous hf equation: $h \times f = WF + Q_e \t
 Quarks combine their fractional charges into particles of full charge. The number of leptos (electron, muon, yadda) and bayons (neutron, proton, pion, yadda) should be conserved though a decay
 
 
+3 Quarks form a baryon => all colourless (RGB => W)
+
+Hedron => Particles that are affected by Strong force; so all assembleges of quarks.
+

@@ -71,7 +71,7 @@ $|E(x)| \leq \frac{M(x-a)^{n+1}}{(n+1)!}$
 
 
 ## Power Series
-$f(x) = \sum_{n=0}^{\infty} = a_n(x-c)^n$
+$f(x) = \sum_{n=0}^{\infty} a_n(x-c)^n= a_n(x-c)^0 + a_n(x-c)^1 ...$
 
 For instance, a geometric series is a special power series...
 
