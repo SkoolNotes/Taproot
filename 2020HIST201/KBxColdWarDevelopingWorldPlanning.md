@@ -116,12 +116,12 @@ wheeee
 2. **Lede/hook (~1 paragraph)**
 
 	1. description of the coup?
+		1. describe in way that makes it seem like america did it.
 	
 3. **Context for the case study (~1-2 paragraphs)**
 	1. talk about inddonesia and it's positioning, what it meant
 		1. indonesia had large strategic signifigance:
-			1. right in the middle of the sea lanes connecting "the Indian Ocean to the Pacific; it outflanked Vietnam; it threatened havoc on the security of the Philippines and the American bases there. Economically the country's clout rested on a wealth of natural resources, and although no one could say just how abundant they might be, American oil com- panies had bet some half-billion dollars on Indonesia's future.6 Politically Sukarno had early claimed stature among Third World neutralists by hosting the seminal Bandung conference of 1955; nearly a decade later he remained a heavyweight in the nonaligned movement."
-		2. 
+			1. > right in the middle of the sea lanes connecting "the Indian Ocean to the Pacific; it outflanked Vietnam; it threatened havoc on the security of the Philippines and the American bases there. Economically the country's clout rested on a wealth of natural resources, and although no one could say just how abundant they might be, American oil com- panies had bet some half-billion dollars on Indonesia's future.6 Politically Sukarno had early claimed stature among Third World neutralists by hosting the seminal Bandung conference of 1955; nearly a decade later he remained a heavyweight in the nonaligned movement."
 	
 	
 	

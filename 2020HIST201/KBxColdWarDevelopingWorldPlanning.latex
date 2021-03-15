@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9234)}}    % original
-%\rhead{\textrmlf{Compiled }\#9234\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9236)}}    % original
+%\rhead{\textrmlf{Compiled }\#9236\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9234
+  \#9236
   \textrmlf{ on}
       \today
   }       % new date
@@ -369,6 +369,13 @@ enough wheeee
   \tightlist
   \item
     description of the coup?
+
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii}.}
+    \tightlist
+    \item
+      describe in way that makes it seem like america did it.
+    \end{enumerate}
   \end{enumerate}
 \item
   \textbf{Context for the case study (\textasciitilde1-2 paragraphs)}
@@ -387,8 +394,8 @@ enough wheeee
 
       \begin{enumerate}
       \def\labelenumiv{\arabic{enumiv}.}
-      \tightlist
       \item
+        \begin{quote}
         right in the middle of the sea lanes connecting ``the Indian
         Ocean to the Pacific; it outflanked Vietnam; it threatened havoc
         on the security of the Philippines and the American bases there.
@@ -399,8 +406,8 @@ enough wheeee
         claimed stature among Third World neutralists by hosting the
         seminal Bandung conference of 1955; nearly a decade later he
         remained a heavyweight in the nonaligned movement.''
+        \end{quote}
       \end{enumerate}
-    \item
     \end{enumerate}
   \end{enumerate}
 \item

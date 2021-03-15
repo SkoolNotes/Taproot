@@ -68,3 +68,13 @@ Conditional Convergence => series who converge and whose absolute value does not
 The error at point $x$ of a $n$th degree talor polynomial centered at $a$ modeling a function with an absolute maximum value of $M$ in its $n+1$th dervitave between a bound containing $x$ and $a$:
 
 $|E(x)| \leq \frac{M(x-a)^{n+1}}{(n+1)!}$
+
+
+## Power Series
+$f(x) = \sum_{n=0}^{\infty} = a_n(x-c)^n$
+
+For instance, a geometric series is a special power series...
+
+$g(x) = \sum_{n=0}^{\infty} = ax^n$
+
+This geometric series converges if $|x|<1$, and so it has an interval of convergence of $-1 < x < 1$. If this converges, this function will converge to $\frac{a}{1-x}$

@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9234)}}    % original
-%\rhead{\textrmlf{Compiled }\#9234\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9236)}}    % original
+%\rhead{\textrmlf{Compiled }\#9236\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9234
+  \#9236
   \textrmlf{ on}
       \today
   }       % new date
@@ -285,5 +285,18 @@ at \(a\) modeling a function with an absolute maximum value of \(M\) in
 its \(n+1\)th dervitave between a bound containing \(x\) and \(a\):
 
 \(|E(x)| \leq \frac{M(x-a)^{n+1}}{(n+1)!}\)
+
+\hypertarget{power-series-1}{%
+\subsection{Power Series}\label{power-series-1}}
+
+\(f(x) = \sum_{n=0}^{\infty} = a_n(x-c)^n\)
+
+For instance, a geometric series is a special power series\ldots{}
+
+\(g(x) = \sum_{n=0}^{\infty} = ax^n\)
+
+This geometric series converges if \(|x|<1\), and so it has an interval
+of convergence of \(-1 < x < 1\). If this converges, this function will
+converge to \(\frac{a}{1-x}\)
 
 \end{document}
