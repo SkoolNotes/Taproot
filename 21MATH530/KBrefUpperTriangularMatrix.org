@@ -19,3 +19,5 @@
 	#+end_quote
 **** intuition
 	 There are $n$ eigenvalues (fundamental theorem of linear algebra) and each one should have a corresponding eigenvector that can sweep out a column? What happens when an eigenvalue has higher multiplicity?
+**** proof
+***** induction on the dimension of $V$. use the fact that the first column can be found, then use the remaining basis vectors as a smaller subspace and do the same thing?
