@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9412)}}    % original
-%\rhead{\textrmlf{Compiled }\#9412\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9413)}}    % original
+%\rhead{\textrmlf{Compiled }\#9413\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9412
+  \#9413
   \textrmlf{ on}
       \today
   }       % new date
@@ -243,7 +243,7 @@ wrt some basis of \(V\).
 
   There are \(n\) eigenvalues (fundamental theorem of linear algebra)
   and each one should have a corresponding eigenvector that can sweep
-  out a column?
+  out a column? What happens when an eigenvalue has higher multiplicity?
 \end{enumerate}
 
 \end{document}
