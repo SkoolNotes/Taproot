@@ -157,7 +157,7 @@ wheeee
 
 
 
-September, 1957: Eisenhower gives the command, and the CIA begins planning its coup to overthrow Sukarno. 1958, it fails, forcing Sukarno into greater reliance on the PKI — the Communist party of Indonesia. 
+September, 1957: Eisenhower gives the command, and the CIA begins planning its coup to overthrow Sukarno.  1958, it fails, forcing Sukarno into greater reliance on the PKI — the Communist party of Indonesia. 
 
 
 
