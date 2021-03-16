@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9391)}}    % original
-%\rhead{\textrmlf{Compiled }\#9391\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9392)}}    % original
+%\rhead{\textrmlf{Compiled }\#9392\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9391
+  \#9392
   \textrmlf{ on}
       \today
   }       % new date
@@ -214,18 +214,18 @@ Specify a basis with
 \subsubsection{each column is where the map takes a basis
 vector}\label{each-column-is-where-the-map-takes-a-basis-vector}}
 
-\hypertarget{foreshadowing}{%
-\subsection{foreshadowing}\label{foreshadowing}}
+\hypertarget{simplifying-the-matrix-representation}{%
+\section{Simplifying The Matrix
+Representation}\label{simplifying-the-matrix-representation}}
 
 \hypertarget{a-central-goal-of-linear-algebra-is-to-show-that-given-an-operator-t-in-mathcall-v-there-exists-a-basis-of-v-wrt-which-t-has-a-reasonably-simple-matrix}{%
-\subsubsection{\texorpdfstring{'A central goal of linear algebra is to
-show that given an operator \(T \in  \mathcal{L} (V)\), there exists a
-basis of \(V\) wrt which \(T\) has a reasonably simple
+\subsection{\texorpdfstring{'A central goal of linear algebra is to show
+that given an operator \(T \in  \mathcal{L} (V)\), there exists a basis
+of \(V\) wrt which \(T\) has a reasonably simple
 matrix'}{'A central goal of linear algebra is to show that given an operator T \textbackslash in  \textbackslash mathcal\{L\} (V), there exists a basis of V wrt which T has a reasonably simple matrix'}}\label{a-central-goal-of-linear-algebra-is-to-show-that-given-an-operator-t-in-mathcall-v-there-exists-a-basis-of-v-wrt-which-t-has-a-reasonably-simple-matrix}}
 
-\begin{enumerate}
-\item
-  To make "simple" more precise, we can shoot for RREF
-\end{enumerate}
+\hypertarget{to-make-simple-more-precise-we-can-shoot-for-rref}{%
+\subsubsection{To make "simple" more precise, we can shoot for
+RREF}\label{to-make-simple-more-precise-we-can-shoot-for-rref}}
 
 \end{document}
