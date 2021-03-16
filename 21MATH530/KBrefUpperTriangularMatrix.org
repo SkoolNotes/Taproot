@@ -33,3 +33,7 @@
 	Suppose $T \in  \mathcal{L} (V)$ has an upper-triangular matrix wrt some basis of $V$. Then the eigenvalues of $T$ are precisely the entries on the diagonal of that upper-triangular matrix.
 	#+end_quote
 **** proof
+
+	 \[\begin{aligned}
+     \mathcal{M} (T) = \begin{pmatrix}\lambda _1 & & &*\\&\lambda _2&&\\&&\ddots&\\0&&\lambda _n\end{pmatrix}
+	 \end{aligned}\]

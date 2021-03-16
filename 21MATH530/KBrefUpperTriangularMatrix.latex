@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9423)}}    % original
-%\rhead{\textrmlf{Compiled }\#9423\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9424)}}    % original
+%\rhead{\textrmlf{Compiled }\#9424\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9423
+  \#9424
   \textrmlf{ on}
       \today
   }       % new date
@@ -290,5 +290,14 @@ Suppose \(T \in  \mathcal{L} (V)\) has an upper-triangular matrix wrt
 some basis of \(V\). Then the eigenvalues of \(T\) are precisely the
 entries on the diagonal of that upper-triangular matrix.
 \end{quote}
+
+\begin{enumerate}
+\item
+  proof
+
+  \[\begin{aligned}
+       \mathcal{M} (T) = \begin{pmatrix}\lambda _1 & & &*\\&\lambda _2&&\\&&\ddots&\\0&&\lambda _n\end{pmatrix}
+       \end{aligned}\]
+\end{enumerate}
 
 \end{document}
