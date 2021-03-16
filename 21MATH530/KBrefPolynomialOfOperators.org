@@ -15,3 +15,9 @@
 ** [[file:KBrefOperatorExponents.org][Operator Exponents]]
 * intuition
 ** Exactly how you would expect it to work
+* results
+** For some operator $T \in  \mathcal{L} (V)$ the function from $\mathcal{P} (\mathbb{F} )$ to $\mathcal{L} (V)$
+   \[\begin{aligned}
+   p \mapsto p(T)
+   \end{aligned}\]
+   is linear

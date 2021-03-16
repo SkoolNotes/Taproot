@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9362)}}    % original
-%\rhead{\textrmlf{Compiled }\#9362\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9364)}}    % original
+%\rhead{\textrmlf{Compiled }\#9364\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9362
+  \#9364
   \textrmlf{ on}
       \today
   }       % new date
@@ -217,5 +217,17 @@ Exponents}}{Operator Exponents}}\label{operator-exponents}}
 \hypertarget{exactly-how-you-would-expect-it-to-work}{%
 \subsection{Exactly how you would expect it to
 work}\label{exactly-how-you-would-expect-it-to-work}}
+
+\hypertarget{results}{%
+\section{results}\label{results}}
+
+\hypertarget{for-some-operator-t-in-mathcall-v-the-function-from-mathcalp-mathbbf-to-mathcall-v}{%
+\subsection{\texorpdfstring{For some operator \(T \in  \mathcal{L} (V)\)
+the function from \(\mathcal{P} (\mathbb{F} )\) to
+\(\mathcal{L} (V)\)}{For some operator T \textbackslash in  \textbackslash mathcal\{L\} (V) the function from \textbackslash mathcal\{P\} (\textbackslash mathbb\{F\} ) to \textbackslash mathcal\{L\} (V)}}\label{for-some-operator-t-in-mathcall-v-the-function-from-mathcalp-mathbbf-to-mathcall-v}}
+
+\[\begin{aligned}
+   p \mapsto p(T)
+   \end{aligned}\] is linear??
 
 \end{document}
