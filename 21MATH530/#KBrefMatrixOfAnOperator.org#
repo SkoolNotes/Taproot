@@ -1,0 +1,18 @@
+#+TITLE: Axler5.22 Matrix of an Operator
+* Axler5.22 matrix of an operator, $\mathcal{M} (T)$                    :def:
+  #+begin_quote
+  Suppose $T \in  \mathcal{L} (V)$ and $v_1, \ldots, v_n$ is a basis of $V$. The /matrix of $T$/ wrt this basis is the /n/-by-/n/ matrix
+  \[\begin{aligned}
+  \mathcal{M} (T) = \begin{pmatrix}A_{1,1} & \cdots & A_{1, n} \\ \vdots & \ddots & \vdots \\ A_{n, 1} & \cdots & A_{n, n} \end{pmatrix}
+  \end{aligned}\]
+  whose entries $A_{j, k}$ are defined by
+  \[\begin{aligned}
+  Tv_k = A_{1, k}v_1 + \cdots + A_{n,k}v_n
+  \end{aligned}\]
+
+  Specify a basis with $\mathcal{M} \left( T, (v_1, \ldots, v_n) \right)$
+  #+end_quote
+** intuition
+*** each column is where the map takes a basis vector
+** foreshadowing
+*** 'A central goal of linear algebra is to show that given an ope
