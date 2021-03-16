@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9396)}}    % original
-%\rhead{\textrmlf{Compiled }\#9396\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9398)}}    % original
+%\rhead{\textrmlf{Compiled }\#9398\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9396
+  \#9398
   \textrmlf{ on}
       \today
   }       % new date
@@ -188,6 +188,13 @@
 
 % DID YOU SET SPELL????
 
+\hypertarget{diagonal-of-a-matrix-1}{%
+\section{\texorpdfstring{diagonal of a matrix
+{\textsc{def}}}{diagonal of a matrix def}}\label{diagonal-of-a-matrix-1}}
 
+The diagonal of an \emph{n}-by-\emph{n} matrix is all the entries of the
+form \(a_{i,i}\) for \(0 < i \leq n\) \[\begin{aligned}
+
+  \end{aligned}\]
 
 \end{document}
