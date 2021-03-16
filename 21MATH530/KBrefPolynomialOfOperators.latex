@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9361)}}    % original
-%\rhead{\textrmlf{Compiled }\#9361\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9362)}}    % original
+%\rhead{\textrmlf{Compiled }\#9362\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9361
+  \#9362
   \textrmlf{ on}
       \today
   }       % new date
@@ -206,5 +206,16 @@ p(T) = a_0I + a_1T + a_2T^2 + \cdots + a_m T^m
 \hypertarget{using}{%
 \section{\texorpdfstring{using
 {\textsc{deps}}}{using deps}}\label{using}}
+
+\hypertarget{operator-exponents}{%
+\subsection{\texorpdfstring{\href{KBrefOperatorExponents.org}{Operator
+Exponents}}{Operator Exponents}}\label{operator-exponents}}
+
+\hypertarget{intuition}{%
+\section{intuition}\label{intuition}}
+
+\hypertarget{exactly-how-you-would-expect-it-to-work}{%
+\subsection{Exactly how you would expect it to
+work}\label{exactly-how-you-would-expect-it-to-work}}
 
 \end{document}
