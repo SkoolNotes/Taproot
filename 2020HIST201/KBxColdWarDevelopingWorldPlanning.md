@@ -168,7 +168,7 @@ Indonesia itself had incredible value to the United States during the cold war. 
 
 However, H. W. Brands argues that America had virtually no involvement with the coup that took down Sukarno and replaced him with Suharto.
 
-brands says that lyndon b johnson 
+brands says that lyndon b johnson wanted info, watergate leaked the docs
 
 Brands starts by stating his information sources
 
