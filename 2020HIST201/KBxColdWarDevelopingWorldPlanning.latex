@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9251)}}    % original
-%\rhead{\textrmlf{Compiled }\#9251\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9252)}}    % original
+%\rhead{\textrmlf{Compiled }\#9252\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9251
+  \#9252
   \textrmlf{ on}
       \today
   }       % new date
@@ -538,5 +538,6 @@ enough wheeee
 September, 1957: Eisenhower gives the command, and the CIA begins
 planning its coup to overthrow Sukarno. 1958, it fails, forcing Sukarno
 into greater reliance on the PKI --- the Communist party of Indonesia.
+He then gives a speech
 
 \end{document}
