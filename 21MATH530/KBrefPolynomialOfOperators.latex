@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9360)}}    % original
-%\rhead{\textrmlf{Compiled }\#9360\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9361)}}    % original
+%\rhead{\textrmlf{Compiled }\#9361\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9360
+  \#9361
   \textrmlf{ on}
       \today
   }       % new date
@@ -202,5 +202,9 @@ P(z) = a_0 + a_1z + a_2z^2 + \cdots + a_m z^m
 p(T) = a_0I + a_1T + a_2T^2 + \cdots + a_m T^m
 \end{aligned}\]
 \end{quote}
+
+\hypertarget{using}{%
+\section{\texorpdfstring{using
+{\textsc{deps}}}{using deps}}\label{using}}
 
 \end{document}
