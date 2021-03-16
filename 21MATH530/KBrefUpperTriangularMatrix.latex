@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9410)}}    % original
-%\rhead{\textrmlf{Compiled }\#9410\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9411)}}    % original
+%\rhead{\textrmlf{Compiled }\#9411\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9410
+  \#9411
   \textrmlf{ on}
       \today
   }       % new date
@@ -230,5 +230,16 @@ Suppose \(T ;i \mathcal{L} (V)\) and \(v_1, \ldots, v_n\) is a basis of
 \subsubsection{\texorpdfstring{Axler5.27 Over \(\mathbb{C}\), every
 operator has an upper-triangular
 matrix}{Axler5.27 Over \textbackslash mathbb\{C\}, every operator has an upper-triangular matrix}}\label{axler5.27-over-mathbbc-every-operator-has-an-upper-triangular-matrix}}
+
+\begin{quote}
+Suppose \(V\) is a finite-dimensional complex vector space and
+\(T \in  \mathcal{L} (V)\). Then \(T\) has an upper-triangular matrix
+wrt some basis of \(V\).
+\end{quote}
+
+\begin{enumerate}
+\item
+  intuition
+\end{enumerate}
 
 \end{document}
