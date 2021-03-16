@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9355)}}    % original
-%\rhead{\textrmlf{Compiled }\#9355\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9356)}}    % original
+%\rhead{\textrmlf{Compiled }\#9356\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9355
+  \#9356
   \textrmlf{ on}
       \today
   }       % new date
@@ -200,5 +200,17 @@ T^0 = I\\
 T^{-m} \text{ for an invertible map $T$ } = \left( T^{-1} \right) ^m
 \end{aligned}\]
 \end{quote}
+
+\hypertarget{results}{%
+\section{results}\label{results}}
+
+\hypertarget{exponent-rules-work}{%
+\subsection{exponent rules work}\label{exponent-rules-work}}
+
+\hypertarget{tmtn-tmn}{%
+\subsubsection{\texorpdfstring{\(T^mT^n = T^{m+n}\)}{T\^{}mT\^{}n = T\^{}\{m+n\}}}\label{tmtn-tmn}}
+
+\hypertarget{left-tmright-n-tmn}{%
+\subsubsection{\texorpdfstring{\(\left( T^m\right) ^n = T^{mn}\)}{\textbackslash left( T\^{}m\textbackslash right) \^{}n = T\^{}\{mn\}}}\label{left-tmright-n-tmn}}
 
 \end{document}
