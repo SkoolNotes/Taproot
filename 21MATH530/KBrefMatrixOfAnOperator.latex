@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9380)}}    % original
-%\rhead{\textrmlf{Compiled }\#9380\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9381)}}    % original
+%\rhead{\textrmlf{Compiled }\#9381\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9380
+  \#9381
   \textrmlf{ on}
       \today
   }       % new date
@@ -194,6 +194,7 @@
 {\textsc{def}}}{Axler5.22 matrix of an operator, \textbackslash mathcal\{M\} (T) def}}\label{axler5.22-matrix-of-an-operator-mathcalm-t}}
 
 \begin{quote}
+Suppose \(T \in  \mathcal{L} (V)\) and
 \end{quote}
 
 \end{document}
