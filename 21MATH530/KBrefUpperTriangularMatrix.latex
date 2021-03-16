@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9403)}}    % original
-%\rhead{\textrmlf{Compiled }\#9403\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9404)}}    % original
+%\rhead{\textrmlf{Compiled }\#9404\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9403
+  \#9404
   \textrmlf{ on}
       \today
   }       % new date
@@ -208,5 +208,17 @@ A matrix in which all entries below the
 \hypertarget{axler5.26-conditions-for-upper-triangular-matrix}{%
 \subsubsection{Axler5.26 Conditions for upper-triangular
 matrix}\label{axler5.26-conditions-for-upper-triangular-matrix}}
+
+\begin{quote}
+Suppose \(T ;i \mathcal{L} (V)\) and \(v_1, \ldots, v_n\) is a basis of
+\(V\). The following are equivalent:
+
+\begin{itemize}
+\tightlist
+\item
+  the matrix of \(T\) with respect to \(v_1, \ldots, v_n\) is upper
+  triangular
+\end{itemize}
+\end{quote}
 
 \end{document}
