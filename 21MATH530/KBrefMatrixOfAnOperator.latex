@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9387)}}    % original
-%\rhead{\textrmlf{Compiled }\#9387\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9389)}}    % original
+%\rhead{\textrmlf{Compiled }\#9389\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9387
+  \#9389
   \textrmlf{ on}
       \today
   }       % new date
@@ -202,6 +202,9 @@ of \(V\). The \emph{matrix of \$T\$} wrt this basis is the
 \[\begin{aligned}
 Tv_k = A_{1, k}v_1 + \cdots + A_{n,k}v_n
 \end{aligned}\]
+
+Specify a basis with
+\(\mathcal{M} \left( T, (v_1, \ldots, v_n) \right)\)
 \end{quote}
 
 \hypertarget{intuition}{%

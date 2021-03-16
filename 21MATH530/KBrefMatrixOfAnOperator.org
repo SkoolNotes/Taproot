@@ -9,6 +9,8 @@
   \[\begin{aligned}
   Tv_k = A_{1, k}v_1 + \cdots + A_{n,k}v_n
   \end{aligned}\]
+
+  Specify a basis with $\mathcal{M} \left( T, (v_1, \ldots, v_n) \right)$
   #+end_quote
 ** intuition
 *** each column is where the map takes a basis vector
