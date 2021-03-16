@@ -38,6 +38,9 @@
 
 \renewlist{itemize}{itemize}{9}
 
+\usepackage{mathdots}
+\usepackage{tikz}
+
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -136,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9378)}}    % original
-%\rhead{\textrmlf{Compiled }\#9378\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9406)}}    % original
+%\rhead{\textrmlf{Compiled }\#9406\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9378
+  \#9406
   \textrmlf{ on}
       \today
   }       % new date
@@ -182,6 +185,7 @@
 
 % exr0n linear algebra mathops
 \DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
 \DeclareMathOperator{\onull}{\text{null}}
 
 \begin{document}
@@ -595,7 +599,8 @@ for information,'' leading to much of the CIA's activity being
 documented.(CITE) After the Bay of Pigs invasion, the CIA was put on a
 far shorter leash. The documents on Indonesia later got revealed to the
 public when they came up for review in the Watergate scandal. Brands
-then goes on to describe America's dealings with Sukarno,
+then goes on to describe America's dealings with Sukarno, from the CIA
+prodding the army to move against him
 
 brands says that lyndon b johnson wanted info, watergate leaked the docs
 

@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9405)}}    % original
-%\rhead{\textrmlf{Compiled }\#9405\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9406)}}    % original
+%\rhead{\textrmlf{Compiled }\#9406\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9405
+  \#9406
   \textrmlf{ on}
       \today
   }       % new date
@@ -220,7 +220,7 @@ Suppose \(T ;i \mathcal{L} (V)\) and \(v_1, \ldots, v_n\) is a basis of
   the matrix of \(T\) with respect to \(v_1, \ldots, v_n\) is upper
   triangular
 \item
-  \$Tv\textsubscript{j} ∈ \ospan \$
+  \(Tv_j \in \ospan(v_1, \ldots, v_j)\) for each \(j = 1, \ldots, n\)
 \end{itemize}
 \end{quote}
 
