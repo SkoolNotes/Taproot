@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9421)}}    % original
-%\rhead{\textrmlf{Compiled }\#9421\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9422)}}    % original
+%\rhead{\textrmlf{Compiled }\#9422\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9421
+  \#9422
   \textrmlf{ on}
       \today
   }       % new date
@@ -279,5 +279,10 @@ the diagonal of the upper-triangular matrix are nonzero.
     contradiction.
   \end{enumerate}
 \end{enumerate}
+
+\hypertarget{axler-5.32-determination-of-eigenvalues-from-upper-triangular-matrix}{%
+\subsubsection{Axler 5.32 Determination of eigenvalues from
+upper-triangular
+matrix}\label{axler-5.32-determination-of-eigenvalues-from-upper-triangular-matrix}}
 
 \end{document}
