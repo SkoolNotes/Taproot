@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9418)}}    % original
-%\rhead{\textrmlf{Compiled }\#9418\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9419)}}    % original
+%\rhead{\textrmlf{Compiled }\#9419\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9418
+  \#9419
   \textrmlf{ on}
       \today
   }       % new date
@@ -265,5 +265,16 @@ Suppose \(T \in  \mathcal{L} (V)\) has an upper-tringular matrix wrt
 some basis of \(V\). Then, \(T\) is invertible iff all the entries on
 the diagonal of the upper-triangular matrix are nonzero.
 \end{quote}
+
+\begin{enumerate}
+\item
+  intuition
+
+  \begin{enumerate}
+  \item
+    if one of the diagonal vectors is zero, then there is an
+    injectivity/surjectivity problem and the operator is singular
+  \end{enumerate}
+\end{enumerate}
 
 \end{document}
