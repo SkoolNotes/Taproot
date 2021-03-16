@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9354)}}    % original
-%\rhead{\textrmlf{Compiled }\#9354\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9355)}}    % original
+%\rhead{\textrmlf{Compiled }\#9355\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9354
+  \#9355
   \textrmlf{ on}
       \today
   }       % new date
@@ -195,8 +195,9 @@
 Supppose \(T \in \mathcal{L} (V)\) and \(m\) is a positive integer.
 
 \[\begin{aligned}
-T^m = \underbrace{T\cdots T}_{\text{ $m$ times }}
-T^0 = I
+T^m = \underbrace{T\cdots T}_{\text{ $m$ times }}\\
+T^0 = I\\
+T^{-m} \text{ for an invertible map $T$ } = \left( T^{-1} \right) ^m
 \end{aligned}\]
 \end{quote}
 
