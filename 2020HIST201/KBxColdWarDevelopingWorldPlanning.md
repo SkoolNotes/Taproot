@@ -168,6 +168,8 @@ Indonesia itself had incredible value to the United States during the cold war. 
 
 However, H. W. Brands argues that America had virtually no involvement with the coup that took down Sukarno and replaced him with Suharto. Brands first states why the information surrounding the event is available to the public: Lyndon B. Johnson had an "insatiable appetite for information," leading to much of the CIA's activity being documented. The documents on Indonesia later got revealed to the public when they came up for review in the Watergate scandal. 
 
+
+
 brands says that lyndon b johnson wanted info, watergate leaked the docs
 
 Brands starts by stating his information sources
