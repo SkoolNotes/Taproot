@@ -168,10 +168,10 @@ Indonesia itself had incredible value to the United States during the cold war. 
 
 
 
+main points, 
 
 
-
-
+ending point about covert operations
 
 
 
