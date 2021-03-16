@@ -162,7 +162,7 @@ September, 1957: Eisenhower gives the command, and the CIA begins planning its c
 
 it's importance in the Cold War. 
 
-To understand the events that took place in Indonesia, one must first understand Indonesia's surrounding context. The initial coup took place just a few years after Eisenhower's election, and the transfer of power from Sukarno to Suharto just at the start of the Cold War's height. The ssec
+To understand the events that took place in Indonesia, one must first understand Indonesia's surrounding context. The initial coup took place just a few years after Eisenhower's election, and the transfer of power from Sukarno to Suharto just at the start of the Cold War's height. The second coup also took place chronologically in the middle of the Vietnam war. 
 
 
 
