@@ -166,6 +166,7 @@ To understand the events that took place in Indonesia, one must first understand
 
 Indonesia itself had incredible value to the United States during the cold war. It's unique location contributed greatly to this value; Indonesia spanned the sea lanes linking the Pacific and Indian Oceans, providing a crucial choke-point. It also outflanked Vietnam, providing crucial positioning to the ongoing war. Complimenting its locational and strategical advantages, Indonesia was rich with natural resources. Along with an abundance of oil and natural gas, it carried a slew of valuable metals. {}
 
+However, 
 
 
 main points, 
