@@ -137,11 +137,11 @@ eigenvalues }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9375)}}    % original
-%\rhead{\textrmlf{Compiled }\#9375\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9377)}}    % original
+%\rhead{\textrmlf{Compiled }\#9377\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9375
+  \#9377
   \textrmlf{ on}
       \today
   }       % new date
@@ -197,5 +197,13 @@ eigenvalue}\label{axler5.21-complex-vector-spaces-have-atleast-one-eigenvalue}}
 Every operator on a finite-dimensional, nonzero, complex vector space
 has an eigenvalue.
 \end{quote}
+
+\hypertarget{intuition}{%
+\section{intuition}\label{intuition}}
+
+\hypertarget{by-the-fundamental-theorem-of-algebra-the-characteristic-polynomial-will-have-roots-and-thus-there-will-be-eigenvalues.}{%
+\subsection{by the fundamental theorem of algebra, the characteristic
+polynomial will have roots and thus there will be
+eigenvalues.}\label{by-the-fundamental-theorem-of-algebra-the-characteristic-polynomial-will-have-roots-and-thus-there-will-be-eigenvalues.}}
 
 \end{document}
