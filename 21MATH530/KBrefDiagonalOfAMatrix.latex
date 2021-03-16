@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9398)}}    % original
-%\rhead{\textrmlf{Compiled }\#9398\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9399)}}    % original
+%\rhead{\textrmlf{Compiled }\#9399\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9398
+  \#9399
   \textrmlf{ on}
       \today
   }       % new date
@@ -194,7 +194,7 @@
 
 The diagonal of an \emph{n}-by-\emph{n} matrix is all the entries of the
 form \(a_{i,i}\) for \(0 < i \leq n\) \[\begin{aligned}
-
+  \begin{pmatrix}x &&\\&\ddots&\\&&x\end{pmatrix}
   \end{aligned}\]
 
 \end{document}
