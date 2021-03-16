@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9425)}}    % original
-%\rhead{\textrmlf{Compiled }\#9425\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9426)}}    % original
+%\rhead{\textrmlf{Compiled }\#9426\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9425
+  \#9426
   \textrmlf{ on}
       \today
   }       % new date
@@ -298,7 +298,8 @@ entries on the diagonal of that upper-triangular matrix.
   \[\begin{aligned}
        \mathcal{M} (T) = \begin{pmatrix}\lambda _1 & & &*\\&\lambda _2&&\\&&\ddots&\\0&&&\lambda _n\end{pmatrix}\\
        \mathcal{M} (T-\lambda I) = \begin{pmatrix}\lambda _1-\lambda  & & &*\\&\lambda _2-\lambda &&\\&&\ddots&\\0&&&\lambda _n-\lambda \end{pmatrix}
-       \end{aligned}\]
+       \end{aligned}\] And that second matrix is only singular when
+  \(\lambda \in \lambda _1, \ldots, \lambda _n\)
 \end{enumerate}
 
 \end{document}

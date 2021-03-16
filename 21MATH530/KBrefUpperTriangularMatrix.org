@@ -38,3 +38,4 @@
      \mathcal{M} (T) = \begin{pmatrix}\lambda _1 & & &*\\&\lambda _2&&\\&&\ddots&\\0&&&\lambda _n\end{pmatrix}\\
 	 \mathcal{M} (T-\lambda I) = \begin{pmatrix}\lambda _1-\lambda  & & &*\\&\lambda _2-\lambda &&\\&&\ddots&\\0&&&\lambda _n-\lambda \end{pmatrix}
 	 \end{aligned}\]
+	 And that second matrix is only singular when $\lambda \in \lambda _1, \ldots, \lambda _n$
