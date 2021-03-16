@@ -166,7 +166,7 @@ To understand the events that took place in Indonesia, one must first understand
 
 Indonesia itself had incredible value to the United States during the cold war. It's unique location contributed greatly to this value; Indonesia spanned the sea lanes linking the Pacific and Indian Oceans, providing a crucial choke-point. It also outflanked Vietnam, providing crucial positioning to the ongoing war. https://www.jstor.org/stable/resrep05921.11?seq=1#metadata_info_tab_contents Complimenting its locational and strategical advantages, Indonesia was rich with natural resources. Along with an abundance of oil and natural gas, it carried a slew of valuable metals. {} https://www.worldatlas.com/articles/what-are-the-major-natural-resources-of-indonesia.html
 
-However, H. W. Brands argues that America had virtually no involvement with the coup that took down Sukarno and replaced him with Suharto.
+However, H. W. Brands argues that America had virtually no involvement with the coup that took down Sukarno and replaced him with Suharto. Brands prefaces his arguments 
 
 
 
