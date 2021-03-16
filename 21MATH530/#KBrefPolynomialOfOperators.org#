@@ -1,5 +1,10 @@
 #+TITLE: Polynomials of Operators
 * $p(T)$                                                                :def:
   #+begin_quote
-  Suppose $T \in  \mathcal{L} (V)$ and $p \in \mathcal{P} $
+  Suppose $T \in  \mathcal{L} (V)$ and $p \in \mathcal{P} (\mathbb{F} )$ is a polynomial given by
+  
+  \[\begin{aligned}
+  P(z) = a_0 + a_1z + a_2z^2 + \cdots + a_m z^m
+  \end{aligned}\]
+  for 
   #+end_quote
