@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9357)}}    % original
-%\rhead{\textrmlf{Compiled }\#9357\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9360)}}    % original
+%\rhead{\textrmlf{Compiled }\#9360\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9357
+  \#9360
   \textrmlf{ on}
       \today
   }       % new date
@@ -190,5 +190,17 @@
 
 \hypertarget{pt}{%
 \section{\texorpdfstring{\(p(T)\) {\textsc{def}}}{p(T) def}}\label{pt}}
+
+\begin{quote}
+Suppose \(T \in  \mathcal{L} (V)\) and
+\(p \in \mathcal{P} (\mathbb{F} )\) is a polynomial given by
+
+\[\begin{aligned}
+P(z) = a_0 + a_1z + a_2z^2 + \cdots + a_m z^m
+\end{aligned}\] for \$z ∈ 𝔽 \$. Then \(p(T)\) is the operator defined by
+\[\begin{aligned}
+p(T) = a_0I + a_1T + a_2T^2 + \cdots + a_m T^m
+\end{aligned}\]
+\end{quote}
 
 \end{document}
