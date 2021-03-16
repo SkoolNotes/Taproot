@@ -2,10 +2,10 @@
 * \(T^m\)                                                               :def:
   #+begin_quote
   Supppose $T \in \mathcal{L} (V)$ and $m$ is a positive integer.
-  
+
   \[\begin{aligned}
-  T^m = T\cdot 
+  T^m = \underbrace{T\cdots T}_{\text{ $m$ times }}
   \end{aligned}\]
+  
 
   #+end_quote
-  
