@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9419)}}    % original
-%\rhead{\textrmlf{Compiled }\#9419\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9420)}}    % original
+%\rhead{\textrmlf{Compiled }\#9420\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9419
+  \#9420
   \textrmlf{ on}
       \today
   }       % new date
@@ -274,6 +274,9 @@ the diagonal of the upper-triangular matrix are nonzero.
   \item
     if one of the diagonal vectors is zero, then there is an
     injectivity/surjectivity problem and the operator is singular
+  \item
+    proof is by assuming all are nonzero and showing surjective, then by
+    contrapositive.
   \end{enumerate}
 \end{enumerate}
 
