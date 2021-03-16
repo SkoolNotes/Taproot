@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9369)}}    % original
-%\rhead{\textrmlf{Compiled }\#9369\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9373)}}    % original
+%\rhead{\textrmlf{Compiled }\#9373\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9369
+  \#9373
   \textrmlf{ on}
       \today
   }       % new date
@@ -203,5 +203,11 @@ If \(p, q \in \mathcal{P} (F)\), then
 \hypertarget{axler5.20-multiplicative-properties-of-polynomials}{%
 \subsection{Axler5.20 Multiplicative Properties of
 Polynomials}\label{axler5.20-multiplicative-properties-of-polynomials}}
+
+\hypertarget{pqt-pt-qt}{%
+\subsubsection{\texorpdfstring{\((pq)(T) = p(T) q(T)\)}{(pq)(T) = p(T) q(T)}}\label{pqt-pt-qt}}
+
+\hypertarget{ptqt-qtpt}{%
+\subsubsection{\texorpdfstring{\(p(T)q(T) = q(T)p(T)\)}{p(T)q(T) = q(T)p(T)}}\label{ptqt-qtpt}}
 
 \end{document}
