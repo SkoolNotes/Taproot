@@ -164,7 +164,7 @@ it's importance in the Cold War.
 To understand the events that took place in Indonesia, one must first understand Indonesia's surrounding context.
 
 
-
+Indonesia's value.
 
 
 
