@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9422)}}    % original
-%\rhead{\textrmlf{Compiled }\#9422\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9423)}}    % original
+%\rhead{\textrmlf{Compiled }\#9423\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9422
+  \#9423
   \textrmlf{ on}
       \today
   }       % new date
@@ -284,5 +284,11 @@ the diagonal of the upper-triangular matrix are nonzero.
 \subsubsection{Axler 5.32 Determination of eigenvalues from
 upper-triangular
 matrix}\label{axler-5.32-determination-of-eigenvalues-from-upper-triangular-matrix}}
+
+\begin{quote}
+Suppose \(T \in  \mathcal{L} (V)\) has an upper-triangular matrix wrt
+some basis of \(V\). Then the eigenvalues of \(T\) are precisely the
+entries on the diagonal of that upper-triangular matrix.
+\end{quote}
 
 \end{document}
