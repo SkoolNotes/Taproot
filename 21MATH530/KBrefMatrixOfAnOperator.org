@@ -5,5 +5,10 @@
   \[\begin{aligned}
   \mathcal{M} (T) = \begin{pmatrix}A_{1,1} & \cdots & A_{1, n} \\ \vdots & \ddots & \vdots \\ A_{n, 1} & \cdots & A_{n, n} \end{pmatrix}
   \end{aligned}\]
-
+  whose entries $A_{j, k}$ are defined by
+  \[\begin{aligned}
+  Tv_k = A_{1, k}v_1 + \cdots + A_{n,k}v_n
+  \end{aligned}\]
   #+end_quote
+** intuition
+*** each row is where the map takes a basis vector

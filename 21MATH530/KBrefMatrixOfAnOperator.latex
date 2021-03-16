@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9384)}}    % original
-%\rhead{\textrmlf{Compiled }\#9384\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9386)}}    % original
+%\rhead{\textrmlf{Compiled }\#9386\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9384
+  \#9386
   \textrmlf{ on}
       \today
   }       % new date
@@ -198,7 +198,17 @@ Suppose \(T \in  \mathcal{L} (V)\) and \(v_1, \ldots, v_n\) is a basis
 of \(V\). The \emph{matrix of \$T\$} wrt this basis is the
 \emph{n}-by-\emph{n} matrix \[\begin{aligned}
 \mathcal{M} (T) = \begin{pmatrix}A_{1,1} & \cdots & A_{1, n} \\ \vdots & \ddots & \vdots \\ A_{n, 1} & \cdots & A_{n, n} \end{pmatrix}
+\end{aligned}\] whose entries \(A_{j, k}\) are defined by
+\[\begin{aligned}
+Tv_k = A_{1, k}v_1 + \cdots + A_{n,k}v_n
 \end{aligned}\]
 \end{quote}
+
+\hypertarget{intuition}{%
+\subsection{intuition}\label{intuition}}
+
+\hypertarget{each-row-is-where-the-map-takes-a-basis-vector}{%
+\subsubsection{each row is where the map takes a basis
+vector}\label{each-row-is-where-the-map-takes-a-basis-vector}}
 
 \end{document}
