@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9243)}}    % original
-%\rhead{\textrmlf{Compiled }\#9243\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9244)}}    % original
+%\rhead{\textrmlf{Compiled }\#9244\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9243
+  \#9244
   \textrmlf{ on}
       \today
   }       % new date
@@ -536,6 +536,6 @@ enough wheeee
 \subsection{writing? here we go.}\label{writing-here-we-go.}}
 
 September, 1957: Eisenhower gives the command, and the CIA begins
-planning its coup to overthrow Sukarno.
+planning its coup to overthrow Sukarno. 1958, it fails,
 
 \end{document}
