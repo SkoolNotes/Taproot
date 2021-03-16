@@ -157,7 +157,7 @@ wheeee
 
 
 
-September, 1957: Eisenhower gives the command, and the CIA begins planning its coup to overthrow Sukarno. 1958, it fails, forcing Sukarno into greater reliance on the PKI — the Communist party of Indonesia. He gives his famous speech, declaring loudly to the United States: "When any nation offers us aid with political strings attached, then I will tell them, go to hell with your aid!" America's influence over Sukarno had been admitted and destroyed in one fell swoop. A year later, Sukarno becomes the first to drop out of the United Nations. Sukarno then gives another speech, recorded by Francis Galbraith, the American embasys Chief of Mission, 
+September, 1957: Eisenhower gives the command, and the CIA begins planning its coup to overthrow Sukarno. 1958, it fails, forcing Sukarno into greater reliance on the PKI — the Communist party of Indonesia. He gives his famous speech, declaring loudly to the United States: "When any nation offers us aid with political strings attached, then I will tell them, go to hell with your aid!" America's influence over Sukarno had been admitted and destroyed in one fell swoop. A year later, Sukarno becomes the first to drop out of the United Nations. Sukarno then gives another speech, recorded by Francis Galbraith, the American embassy's Chief of Mission. Galbraith wrote, "Sukarno declares Indonesia in the camp of the Asian Communist countries and opposed to the U.S"
 
 
 
