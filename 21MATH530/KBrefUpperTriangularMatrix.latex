@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9406)}}    % original
-%\rhead{\textrmlf{Compiled }\#9406\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9410)}}    % original
+%\rhead{\textrmlf{Compiled }\#9410\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9406
+  \#9410
   \textrmlf{ on}
       \today
   }       % new date
@@ -221,7 +221,14 @@ Suppose \(T ;i \mathcal{L} (V)\) and \(v_1, \ldots, v_n\) is a basis of
   triangular
 \item
   \(Tv_j \in \ospan(v_1, \ldots, v_j)\) for each \(j = 1, \ldots, n\)
+\item
+  The span of each prefix of the basis is invariant under \(T\).
 \end{itemize}
 \end{quote}
+
+\hypertarget{axler5.27-over-mathbbc-every-operator-has-an-upper-triangular-matrix}{%
+\subsubsection{\texorpdfstring{Axler5.27 Over \(\mathbb{C}\), every
+operator has an upper-triangular
+matrix}{Axler5.27 Over \textbackslash mathbb\{C\}, every operator has an upper-triangular matrix}}\label{axler5.27-over-mathbbc-every-operator-has-an-upper-triangular-matrix}}
 
 \end{document}
