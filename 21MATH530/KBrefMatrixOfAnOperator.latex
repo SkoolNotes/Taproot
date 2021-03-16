@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9392)}}    % original
-%\rhead{\textrmlf{Compiled }\#9392\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9393)}}    % original
+%\rhead{\textrmlf{Compiled }\#9393\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9392
+  \#9393
   \textrmlf{ on}
       \today
   }       % new date
@@ -224,8 +224,10 @@ that given an operator \(T \in  \mathcal{L} (V)\), there exists a basis
 of \(V\) wrt which \(T\) has a reasonably simple
 matrix'}{'A central goal of linear algebra is to show that given an operator T \textbackslash in  \textbackslash mathcal\{L\} (V), there exists a basis of V wrt which T has a reasonably simple matrix'}}\label{a-central-goal-of-linear-algebra-is-to-show-that-given-an-operator-t-in-mathcall-v-there-exists-a-basis-of-v-wrt-which-t-has-a-reasonably-simple-matrix}}
 
-\hypertarget{to-make-simple-more-precise-we-can-shoot-for-rref}{%
-\subsubsection{To make "simple" more precise, we can shoot for
-RREF}\label{to-make-simple-more-precise-we-can-shoot-for-rref}}
+\hypertarget{if-by-simple-we-mean-has-many-zeros-or-rref-then-we-know-enough-to-ensure-that-there-exists-a-basis-s.t.-the-first-column-has-zeros-everywhere-except-the-first-row.}{%
+\subsection{If by simple we mean "has many zeros" or RREF, then we know
+enough to ensure that there exists a basis s.t. the first column has
+zeros everywhere except the first
+row.}\label{if-by-simple-we-mean-has-many-zeros-or-rref-then-we-know-enough-to-ensure-that-there-exists-a-basis-s.t.-the-first-column-has-zeros-everywhere-except-the-first-row.}}
 
 \end{document}
