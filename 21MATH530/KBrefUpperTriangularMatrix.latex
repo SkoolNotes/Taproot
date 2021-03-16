@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9411)}}    % original
-%\rhead{\textrmlf{Compiled }\#9411\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9412)}}    % original
+%\rhead{\textrmlf{Compiled }\#9412\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9411
+  \#9412
   \textrmlf{ on}
       \today
   }       % new date
@@ -240,6 +240,10 @@ wrt some basis of \(V\).
 \begin{enumerate}
 \item
   intuition
+
+  There are \(n\) eigenvalues (fundamental theorem of linear algebra)
+  and each one should have a corresponding eigenvector that can sweep
+  out a column?
 \end{enumerate}
 
 \end{document}

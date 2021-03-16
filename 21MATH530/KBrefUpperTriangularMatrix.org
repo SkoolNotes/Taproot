@@ -18,3 +18,4 @@
 	Suppose $V$ is a finite-dimensional complex vector space and $T \in  \mathcal{L} (V)$. Then $T$ has an upper-triangular matrix wrt some basis of $V$.
 	#+end_quote
 **** intuition
+	 There are $n$ eigenvalues (fundamental theorem of linear algebra) and each one should have a corresponding eigenvector that can sweep out a column?
