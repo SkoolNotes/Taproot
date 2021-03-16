@@ -157,9 +157,8 @@ wheeee
 
 
 
-September, 1957: Eisenhower gives the command, and the CIA begins planning it coup to overthrow Sukarno.
+September, 1957: Eisenhower gives the command, and the CIA begins planning its coup to overthrow Sukarno.
 
-Sukarno, the leader of Indonesia, survives a coup planned by the CIA in 1958. 
 
 
 
