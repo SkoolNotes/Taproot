@@ -136,11 +136,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9389)}}    % original
-%\rhead{\textrmlf{Compiled }\#9389\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9391)}}    % original
+%\rhead{\textrmlf{Compiled }\#9391\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9389
+  \#9391
   \textrmlf{ on}
       \today
   }       % new date
@@ -213,5 +213,19 @@ Specify a basis with
 \hypertarget{each-column-is-where-the-map-takes-a-basis-vector}{%
 \subsubsection{each column is where the map takes a basis
 vector}\label{each-column-is-where-the-map-takes-a-basis-vector}}
+
+\hypertarget{foreshadowing}{%
+\subsection{foreshadowing}\label{foreshadowing}}
+
+\hypertarget{a-central-goal-of-linear-algebra-is-to-show-that-given-an-operator-t-in-mathcall-v-there-exists-a-basis-of-v-wrt-which-t-has-a-reasonably-simple-matrix}{%
+\subsubsection{\texorpdfstring{'A central goal of linear algebra is to
+show that given an operator \(T \in  \mathcal{L} (V)\), there exists a
+basis of \(V\) wrt which \(T\) has a reasonably simple
+matrix'}{'A central goal of linear algebra is to show that given an operator T \textbackslash in  \textbackslash mathcal\{L\} (V), there exists a basis of V wrt which T has a reasonably simple matrix'}}\label{a-central-goal-of-linear-algebra-is-to-show-that-given-an-operator-t-in-mathcall-v-there-exists-a-basis-of-v-wrt-which-t-has-a-reasonably-simple-matrix}}
+
+\begin{enumerate}
+\item
+  To make "simple" more precise, we can shoot for RREF
+\end{enumerate}
 
 \end{document}
