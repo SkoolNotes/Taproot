@@ -17,8 +17,8 @@
 * Simplifying The Matrix Representation
 ** 'A central goal of linear algebra is to show that given an operator $T \in  \mathcal{L} (V)$, there exists a basis of $V$ wrt which $T$ has a reasonably simple matrix'
 ** If by simple we mean "has many zeros" or RREF, then we know enough to ensure that there exists a basis s.t. the first column has zeros everywhere except the first row.
-   
-   \[\begin{aligned}
-   \begin{pmatrix}\lambda &&&\\0&*&\end{pmatrix}
-   \end{aligned}\]
 
+   \[\begin{aligned}
+   \begin{pmatrix}\lambda &&&\\0&*&&\\\vdots&&&\\0&&&\end{pmatrix}
+   \end{aligned}\]
+   Where $*$ denotes the entries in all the columns other than the first
