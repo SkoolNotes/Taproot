@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9473)}}    % original
-%\rhead{\textrmlf{Compiled }\#9473\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9474)}}    % original
+%\rhead{\textrmlf{Compiled }\#9474\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9473
+  \#9474
   \textrmlf{ on}
       \today
   }       % new date
@@ -296,7 +296,7 @@ See exr1.3
 \subsection{exr1.11}\label{exr1.11}}
 
 \[\begin{aligned}
-   \int_\pi^{2\pi} \cos(x)dx = \lim_{n\to \infty}
+   \int_\pi^{2\pi} \cos(x)dx = \lim_{n\to \infty} \sum_{i=0}{n} \frac{\pi}{n}
    \end{aligned}\]
 
 \end{document}
