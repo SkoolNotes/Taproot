@@ -170,16 +170,6 @@ However, H. W. Brands argues that America had virtually no involvement with the 
 
 
 
-brands says that lyndon b johnson wanted info, watergate leaked the docs
-
-Brands starts by stating his information sources
-
-
-
-
-
-main points, 
-
 
 ending point about covert operations
 
