@@ -62,7 +62,7 @@
 *** right endpoint approx for $y=x^2$
 
 	\[\begin{aligned}
-    \sum_{i=1}^{n+1} \Delta x f(i \Delta x)
+    \sum_{i=1}^{n+1} \Delta x f(i \Delta x) = \sum_{i=1}^{n+1} \frac{1}{n} \left( \frac{i}{n}\right) ^2
 	\end{aligned}\]
 	where $\Delta x = \frac{1}{n}$
 

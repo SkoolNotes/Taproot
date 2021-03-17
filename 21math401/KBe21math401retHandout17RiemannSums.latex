@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9470)}}    % original
-%\rhead{\textrmlf{Compiled }\#9470\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9471)}}    % original
+%\rhead{\textrmlf{Compiled }\#9471\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9470
+  \#9471
   \textrmlf{ on}
       \today
   }       % new date
@@ -283,7 +283,7 @@ Not sure area wise, but the anti-derivative is guess-able:
 \(y=x^2\)}{right endpoint approx for y=x\^{}2}}\label{right-endpoint-approx-for-yx2}}
 
 \[\begin{aligned}
-    \sum_{i=1}^{n+1} \Delta x f(i \Delta x)
+    \sum_{i=1}^{n+1} \Delta x f(i \Delta x) = \sum_{i=1}^{n+1} \frac{1}{n} \left( \frac{i}{n}\right) ^2
     \end{aligned}\] where \(\Delta x = \frac{1}{n}\)
 
 \hypertarget{general-form-for-left-side-riemann-sum}{%
