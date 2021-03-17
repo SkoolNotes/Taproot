@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9465)}}    % original
-%\rhead{\textrmlf{Compiled }\#9465\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9466)}}    % original
+%\rhead{\textrmlf{Compiled }\#9466\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9465
+  \#9466
   \textrmlf{ on}
       \today
   }       % new date
@@ -278,7 +278,7 @@ Not sure area wise, but the anti-derivative is guess-able:
 \(y=x^2\)}{right endpoint approx for y=x\^{}2}}\label{right-endpoint-approx-for-yx2}}
 
 \[\begin{aligned}
-    \sum_{i=1}^{n+1
+    \sum_{i=1}^{n+1}
     \end{aligned}\]
 
 \end{document}
