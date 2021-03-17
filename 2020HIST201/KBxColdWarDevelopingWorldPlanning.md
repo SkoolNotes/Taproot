@@ -171,7 +171,7 @@ However, H. W. Brands argues that America had virtually no involvement with the 
 Brands concludes with his thoughts on covert operations as a whole. He acknowledges the credibility of America's involvement, stating that the whole event would be "a nonstory except that the myth of American responsibility has proved so hardy." (cite). By trying to get closer to the truth, Brands hopes to dispel rumors surrounding the event, as "each actual operation discovered gives rise to a hundred imagined." (cite). Listing the many deficits of covert operations, Brands claims that the "most serious deficiency of covert warfare" is its "inevitable tendency to poison the well of public opinion."(cite). Rumors of covert operations, in the minds of the public, are nearly impossible to remove — damaging the United States. Brands ends by stating: "while the United States government remains in the business of covert warfare, the list of indictments will continue to grow."  
 
 
-Brands grapples with the truly global nature of the Cold War by exploring where the Cold war is not. Even in a scenario where the United States did not meddle, it is still perceived as being a 
+Brands grapples with the truly global nature of the Cold War by exploring where the Cold war is not. Even in a scenario where the United States did not meddle, it is still perceived as the puppet master orchestrating major changes. Not only is Cold War global in the sense that the entire globe was involved, but in the sense 
 
 
 
