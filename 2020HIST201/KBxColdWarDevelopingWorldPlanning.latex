@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9480)}}    % original
-%\rhead{\textrmlf{Compiled }\#9480\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9481)}}    % original
+%\rhead{\textrmlf{Compiled }\#9481\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9480
+  \#9481
   \textrmlf{ on}
       \today
   }       % new date
@@ -628,6 +628,7 @@ stating: ``while the United States government remains in the business of
 covert warfare, the list of indictments will continue to grow.''
 
 Brands grapples with the truly global nature of the Cold War by
-exploring where the Cold war isn't.
+exploring where the Cold war is not. Even in a scenario where the United
+States did not meddle,
 
 \end{document}
