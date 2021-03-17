@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9434)}}    % original
-%\rhead{\textrmlf{Compiled }\#9434\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9437)}}    % original
+%\rhead{\textrmlf{Compiled }\#9437\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9434
+  \#9437
   \textrmlf{ on}
       \today
   }       % new date
@@ -197,5 +197,9 @@
 \hypertarget{definition-of-a-definite-integral}{%
 \section{Definition of a Definite
 Integral}\label{definition-of-a-definite-integral}}
+
+For each interval \([x_i, x_{i+1}]\), we choose \(x_i^*\) in the
+interval to be the position of the minimum (for lower bound) or maximum
+(upper bound) value.
 
 \end{document}
