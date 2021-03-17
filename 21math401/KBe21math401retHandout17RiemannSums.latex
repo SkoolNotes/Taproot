@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9461)}}    % original
-%\rhead{\textrmlf{Compiled }\#9461\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9464)}}    % original
+%\rhead{\textrmlf{Compiled }\#9464\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9461
+  \#9464
   \textrmlf{ on}
       \today
   }       % new date
@@ -265,5 +265,16 @@ Not sure area wise, but the anti-derivative is guess-able:
 \[\begin{aligned}
     \frac{d}{dx}\left( \frac{x^2}{2} -x\right) = x-1
     \end{aligned}\]
+
+\[\begin{aligned}
+    \frac{3^2}{2}-3 = 1.5
+    \end{aligned}\]
+
+\hypertarget{exr1.7}{%
+\subsection{exr1.7}\label{exr1.7}}
+
+\hypertarget{right-endpoint-approx-for-yx2}{%
+\subsubsection{\texorpdfstring{right endpoint approx for
+\(y=x^2\)}{right endpoint approx for y=x\^{}2}}\label{right-endpoint-approx-for-yx2}}
 
 \end{document}
