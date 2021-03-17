@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9455)}}    % original
-%\rhead{\textrmlf{Compiled }\#9455\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9456)}}    % original
+%\rhead{\textrmlf{Compiled }\#9456\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9455
+  \#9456
   \textrmlf{ on}
       \today
   }       % new date
@@ -248,5 +248,8 @@ Not enough information to do it for \(\Delta x = 0.5\), so I will use
 
 \hypertarget{exr1.6}{%
 \subsection{exr1.6}\label{exr1.6}}
+
+\hypertarget{int_01-sqrtx21dx}{%
+\subsubsection{\texorpdfstring{\(\int_0^1 \sqrt{x^2+1}dx\)}{\textbackslash int\_0\^{}1 \textbackslash sqrt\{x\^{}2+1\}dx}}\label{int_01-sqrtx21dx}}
 
 \end{document}
