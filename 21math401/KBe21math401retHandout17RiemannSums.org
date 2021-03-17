@@ -15,5 +15,5 @@
 
    Summation notation for left edge approximation:
    \[\begin{aligned}
-   \sum_{i=0}^n \underbrace{\frac{b-a}{n}}_{\text{ width }} \underbrace{a+\frac{b-a}{n}i}_\text{ height }
+   \sum_{i=0}^n \underbrace{\frac{b-a}{n}}_{\text{ width }} \left(\underbrace{a+\frac{b-a}{n}i}_\text{ height }\right)
    \end{aligned}\]
