@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9438)}}    % original
-%\rhead{\textrmlf{Compiled }\#9438\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9439)}}    % original
+%\rhead{\textrmlf{Compiled }\#9439\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9438
+  \#9439
   \textrmlf{ on}
       \today
   }       % new date
@@ -204,5 +204,11 @@ Integral}\label{definition-of-a-definite-integral}}
 For each interval \([x_i, x_{i+1}]\), we choose \(x_i^*\) in the
 interval to be the position of the minimum (for lower bound) or maximum
 (upper bound) value.
+
+\hypertarget{problems}{%
+\section{Problems}\label{problems}}
+
+\hypertarget{exr1.3}{%
+\subsection{exr1.3}\label{exr1.3}}
 
 \end{document}
