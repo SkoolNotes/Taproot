@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9467)}}    % original
-%\rhead{\textrmlf{Compiled }\#9467\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9468)}}    % original
+%\rhead{\textrmlf{Compiled }\#9468\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9467
+  \#9468
   \textrmlf{ on}
       \today
   }       % new date
@@ -279,6 +279,6 @@ Not sure area wise, but the anti-derivative is guess-able:
 
 \[\begin{aligned}
     \sum_{i=1}^{n+1} \Delta x f(i \Delta x)
-    \end{aligned}\]
+    \end{aligned}\] where \(\Delta x = \frac{1}{n}\)
 
 \end{document}
