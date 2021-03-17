@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9457)}}    % original
-%\rhead{\textrmlf{Compiled }\#9457\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9458)}}    % original
+%\rhead{\textrmlf{Compiled }\#9458\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9457
+  \#9458
   \textrmlf{ on}
       \today
   }       % new date
@@ -254,6 +254,10 @@ Not enough information to do it for \(\Delta x = 0.5\), so I will use
 
 \(\sqrt{x^2+1}\) is the length the hypotenuse of a triangle with
 leg-lengths 1 and \(x\). Because \(x\) is continuous, this is like the
-area of a right triangle with leg-lengths 1 and 1.
+area of a right triangle with leg-lengths 1 and 1, which is
+\boxed{\frac{1}{2}}.
+
+\hypertarget{int_03-x-1dx}{%
+\subsubsection{\texorpdfstring{\(\int_0^3 (x-1)dx\)}{\textbackslash int\_0\^{}3 (x-1)dx}}\label{int_03-x-1dx}}
 
 \end{document}
