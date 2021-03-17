@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9469)}}    % original
-%\rhead{\textrmlf{Compiled }\#9469\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9470)}}    % original
+%\rhead{\textrmlf{Compiled }\#9470\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9469
+  \#9470
   \textrmlf{ on}
       \today
   }       % new date
@@ -285,5 +285,11 @@ Not sure area wise, but the anti-derivative is guess-able:
 \[\begin{aligned}
     \sum_{i=1}^{n+1} \Delta x f(i \Delta x)
     \end{aligned}\] where \(\Delta x = \frac{1}{n}\)
+
+\hypertarget{general-form-for-left-side-riemann-sum}{%
+\subsubsection{general form for left-side riemann
+sum}\label{general-form-for-left-side-riemann-sum}}
+
+See exr1.3
 
 \end{document}

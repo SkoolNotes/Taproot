@@ -57,13 +57,14 @@
     \frac{3^2}{2}-3 = 1.5
 	\end{aligned}\]
 
-*** 
-
 ** exr1.7
 
 *** right endpoint approx for $y=x^2$
 
 	\[\begin{aligned}
-    \sum_{i=1}^{n+1} \Delta x f(i \Delta x)
+    \sum_{i=1}^{n+1} \Delta x f(i \Delta x) = \sum_{i=1}^{n+1} \Delta x f(i \Delta x)
 	\end{aligned}\]
 	where $\Delta x = \frac{1}{n}$
+
+*** general form for left-side riemann sum
+	See exr1.3
