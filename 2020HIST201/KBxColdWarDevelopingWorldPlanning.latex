@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9463)}}    % original
-%\rhead{\textrmlf{Compiled }\#9463\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9477)}}    % original
+%\rhead{\textrmlf{Compiled }\#9477\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9463
+  \#9477
   \textrmlf{ on}
       \today
   }       % new date
@@ -626,5 +626,7 @@ Rumors of covert operations, in the minds of the public, are nearly
 impossible to remove --- damaging the United States. Brands ends by
 stating: ``while the United States government remains in the business of
 covert warfare, the list of indictments will continue to grow.''
+
+Brands
 
 \end{document}
