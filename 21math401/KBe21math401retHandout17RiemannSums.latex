@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9471)}}    % original
-%\rhead{\textrmlf{Compiled }\#9471\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9472)}}    % original
+%\rhead{\textrmlf{Compiled }\#9472\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9471
+  \#9472
   \textrmlf{ on}
       \today
   }       % new date
@@ -291,5 +291,12 @@ Not sure area wise, but the anti-derivative is guess-able:
 sum}\label{general-form-for-left-side-riemann-sum}}
 
 See exr1.3
+
+\hypertarget{exr1.11}{%
+\subsection{exr1.11}\label{exr1.11}}
+
+\[\begin{aligned}
+   \int_\pi^{2\pi} \cos xdx
+   \end{aligned}\]
 
 \end{document}
