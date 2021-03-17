@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9458)}}    % original
-%\rhead{\textrmlf{Compiled }\#9458\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9461)}}    % original
+%\rhead{\textrmlf{Compiled }\#9461\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9458
+  \#9461
   \textrmlf{ on}
       \today
   }       % new date
@@ -259,5 +259,11 @@ area of a right triangle with leg-lengths 1 and 1, which is
 
 \hypertarget{int_03-x-1dx}{%
 \subsubsection{\texorpdfstring{\(\int_0^3 (x-1)dx\)}{\textbackslash int\_0\^{}3 (x-1)dx}}\label{int_03-x-1dx}}
+
+Not sure area wise, but the anti-derivative is guess-able:
+
+\[\begin{aligned}
+    \frac{d}{dx}\left( \frac{x^2}{2} -x\right) = x-1
+    \end{aligned}\]
 
 \end{document}

@@ -43,3 +43,8 @@
 	$\sqrt{x^2+1}$ is the length the hypotenuse of a triangle with leg-lengths 1 and $x$. Because $x$ is continuous, this is like the area of a right triangle with leg-lengths 1 and 1, which is \boxed{\frac{1}{2}}.
 
 *** $\int_0^3 (x-1)dx$
+	Not sure area wise, but the anti-derivative is guess-able:
+
+	\[\begin{aligned}
+    \frac{d}{dx}\left( \frac{x^2}{2} -x\right) = x-1
+	\end{aligned}\]
