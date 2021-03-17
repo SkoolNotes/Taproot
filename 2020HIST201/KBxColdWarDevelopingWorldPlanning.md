@@ -174,7 +174,9 @@ Brands concludes with his thoughts on covert operations as a whole. He acknowled
 Brands grapples with the truly global nature of the Cold War by exploring where the Cold war is not. Even in a scenario where the United States did not meddle, it is still perceived as the puppet master orchestrating major changes. The extent of the Cold War reaches farther than reality — the Cold War was so truly global that it is now assumed to be the cause of major events like the ones Brands discusses. Brands tries to unveil the truth by analyzing and compiling multiple primary sources, disagreeing with the common assumptions. But as Brands mentions, the nature of these assumptions — rooted in the "top secret" — are very hard to dismantle. Lack of evidence simply increases speculation. He demonstrates a way in which the modern day manifestation of the Cold War, despite it being over, is global in its perception.
 
 
-While very insightful, Brands tries to fit the events of Indonesia into the binary of blame. After roughly 25 pages, Brands concludes that "The United States did not overthrow Sukarno, and it was not responsible for the hundreds of thousands of deaths involved in the liquidation of the PKI." (cite). However, the United States created a context where it could be easily assumed that they were behind 
+While very insightful, Brands tries to fit the events of Indonesia into the binary of blame. After roughly 25 pages, Brands concludes that "The United States did not overthrow Sukarno, and it was not responsible for the hundreds of thousands of deaths involved in the liquidation of the PKI." (cite). While overthrowing Sukarno and being responsible for the deaths of those in the PKI are two separate things, Brands implies that the former led to the latter. 
+
+However, the United States created a context where it could be easily assumed that they were behind 
 
 
 
