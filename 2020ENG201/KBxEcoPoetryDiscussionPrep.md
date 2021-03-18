@@ -71,6 +71,39 @@ when the mind is quite it reflects -> the lake is like consuisness
 
 water as mind is a common metaphor that transendentalist poetry uses
 
+transcends space and time
+
+must have a trained mind to breath it in
+
+
+## Outline?
+
+Thoreau uses the metaphor of a pond to communicate transcendentalist truths about consciousness
+
+- it's a pond! walden pond, pebbled lips
+
+- quite mind is needed : reflection in a surface 
+- quite mind is needed to absorb truths : passive soul, mist
+- trained mind to understand quite thoughts : practiced ear
+- different way of thinking about understanding / gaining access to truth: breathing in not rigorous argument
+- clouds are thoughts, collections of mist. are doubly beitufil when reflected upon : doubly beutiful -- no exceptions!
+- consuinsess is infinite and intereconnected,
+	- transcends space : starts
+	- transcends time : gods
+
+- accepts own limitations, he cannot become truly one with nature? 
+
+
+
+
+
+
+## Writing. Time. 
+
+
+
+Throughout his poem *Walden*, Thoreau uses the metaphor of a pond to communicate transcendentalist truths about consciousness. He describes himself in conversation with the famous Walden Pond despite the fact that their "converse a stranger is to speech" (Thoreau). The pond is a stranger to speech — its thoughts instead "break and die upon thy pebbled lips," the edges of the pond (Thoreau). Here, Thoreau communicates one of the most fundamental transcendentalist beliefs: nature, despite it not communicating with words, has thoughts to express. And thus, "only the practiced ear can catch the surging words" — with practice, one can learn to understand what nature is communicating (Thoreau). Thoreau continues, writing that "thy flow of thought is noiseless as the lapse of thy own waters" (Thoreau). Just like nature's thoughts, one must have a practiced ear to hear their own thoughts, the "lapse of thy own waters." Our thoughts, just like the ponds, are "wafted as is the morning mist up from thy surface." Thoreau then communicates another fundamental transcendentalist belief: one must have a quite mind. The pond can only reflect when it is still, and only the "passive Soul doth breathe it [the mist] in, and is infected with the truth thou wouldst express" (Thoreau). The passive Soul, the quite mind, breathes in the truth. With a quite mind, one becomes infected with the truth in their own thoughts, the ones they will express. Note that Soul is capitalized, as in transcendentalism, someone's soul *is* them. Soul becomes a name, a title, an embodiment of the human. In this first stanza, Thoreau presents a very transcendentalist way of thinking about thought and consciousness.
+
 
 
 
