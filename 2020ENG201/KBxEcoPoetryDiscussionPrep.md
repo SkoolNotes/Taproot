@@ -54,21 +54,22 @@ A) 2-page close reading of one or more poems from the eco-poetry unit. For a clo
 ```
 
 
+consesnene trancends
+
+pond is a metaphor for conscuionsness
+
+the 
 
 
+thoreue uses the metaphor of a pond to communicate trancendentalist beliefs
 
+beliefs, communicated:
 
+quite mind to 
 
+when the mind is quite it reflects -> the lake is like consuisness
 
-
-
-
-
-
-
-
-
-
+water as mind is a common metaphor that transendentalist poetry uses
 
 
 
