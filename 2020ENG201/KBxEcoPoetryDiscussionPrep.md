@@ -26,7 +26,7 @@ breaths in the mist, breaths in the tranquility
 
 
 
-
+```
 pebbled lips?
 
 thought = waves
@@ -46,7 +46,7 @@ sun tranfered and reprinted -> reflection on the ocean
 
 
 winds wright clouds? made out of mist?
-
+```
 
 
 ```
