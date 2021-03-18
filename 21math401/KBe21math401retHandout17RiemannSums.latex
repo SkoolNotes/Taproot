@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9508)}}    % original
-%\rhead{\textrmlf{Compiled }\#9508\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9509)}}    % original
+%\rhead{\textrmlf{Compiled }\#9509\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9508
+  \#9509
   \textrmlf{ on}
       \today
   }       % new date
@@ -228,8 +228,8 @@ Summation notation for left edge approximation: \[\begin{aligned}
 \hypertarget{left-estimate}{%
 \subsubsection{left estimate}\label{left-estimate}}
 
-34.7 feet (add all except last number, because we are stopping at 3.0
-seconds in.)
+34.7 feet (add all except last number and divide by two, because we are
+stopping at 3.0 seconds in.)
 
 \hypertarget{right-estimate}{%
 \subsubsection{right estimate}\label{right-estimate}}
