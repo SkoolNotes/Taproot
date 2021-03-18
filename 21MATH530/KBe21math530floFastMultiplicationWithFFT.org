@@ -1,4 +1,5 @@
 #+TITLE: Fast multiplication with fast fourier transforms
 * base knowlege
 ** primitive root of unity
-*** a number $r$ is an $n$th root of unity
+*** a number $r$ is a primitive $n$th root of unity iff $n$ is the smallest counting number for which $r^n = 1$.
+*** https://mathworld.wolfram.com/PrimitiveRootofUnity.html          :source:

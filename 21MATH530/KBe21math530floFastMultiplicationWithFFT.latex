@@ -140,11 +140,11 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9514)}}    % original
-%\rhead{\textrmlf{Compiled }\#9514\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9515)}}    % original
+%\rhead{\textrmlf{Compiled }\#9515\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9514
+  \#9515
   \textrmlf{ on}
       \today
   }       % new date
@@ -199,8 +199,13 @@ transforms }
 \hypertarget{primitive-root-of-unity}{%
 \subsection{primitive root of unity}\label{primitive-root-of-unity}}
 
-\hypertarget{a-number-r-is-an-nth-root-of-unity}{%
-\subsubsection{\texorpdfstring{a number \(r\) is an \$n\$th root of
-unity}{a number r is an \$n\$th root of unity}}\label{a-number-r-is-an-nth-root-of-unity}}
+\hypertarget{a-number-r-is-a-primitive-nth-root-of-unity-iff-n-is-the-smallest-counting-number-for-which-rn-1.}{%
+\subsubsection{\texorpdfstring{a number \(r\) is a primitive \$n\$th
+root of unity iff \(n\) is the smallest counting number for which
+\(r^n = 1\).}{a number r is a primitive \$n\$th root of unity iff n is the smallest counting number for which r\^{}n = 1.}}\label{a-number-r-is-a-primitive-nth-root-of-unity-iff-n-is-the-smallest-counting-number-for-which-rn-1.}}
+
+\hypertarget{httpsmathworld.wolfram.comprimitiverootofunity.html}{%
+\subsubsection{\texorpdfstring{\url{https://mathworld.wolfram.com/PrimitiveRootofUnity.html}
+{\textsc{source}}}{https://mathworld.wolfram.com/PrimitiveRootofUnity.html source}}\label{httpsmathworld.wolfram.comprimitiverootofunity.html}}
 
 \end{document}
