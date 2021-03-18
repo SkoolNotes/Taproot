@@ -140,11 +140,11 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9515)}}    % original
-%\rhead{\textrmlf{Compiled }\#9515\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9517)}}    % original
+%\rhead{\textrmlf{Compiled }\#9517\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9515
+  \#9517
   \textrmlf{ on}
       \today
   }       % new date
@@ -207,5 +207,17 @@ root of unity iff \(n\) is the smallest counting number for which
 \hypertarget{httpsmathworld.wolfram.comprimitiverootofunity.html}{%
 \subsubsection{\texorpdfstring{\url{https://mathworld.wolfram.com/PrimitiveRootofUnity.html}
 {\textsc{source}}}{https://mathworld.wolfram.com/PrimitiveRootofUnity.html source}}\label{httpsmathworld.wolfram.comprimitiverootofunity.html}}
+
+\hypertarget{convolution-theorem}{%
+\subsection{convolution theorem}\label{convolution-theorem}}
+
+\hypertarget{depends-fundamentally-on-the-convolution-theorem-which-provides-an-efficient-way-to-compute-the-cyclic-convolution-of-two-sequences.-it-states-that-the-cyclic-convolution-of-two-vectors-can-be-found-by-taking-the-discreate-fourier-transform-of-each-of-them-multiplying-the-resulting-vectors-element-by-element-and-then-taking-the-inverse-discrete-fourier-transform.}{%
+\subsubsection{'depends fundamentally on the convolution theorem, which
+provides an efficient way to compute the cyclic convolution of two
+sequences. It states that the cyclic convolution of two vectors can be
+found by taking the discreate fourier transform of each of them,
+multiplying the resulting vectors element by element, and then taking
+the inverse discrete fourier
+transform.'}\label{depends-fundamentally-on-the-convolution-theorem-which-provides-an-efficient-way-to-compute-the-cyclic-convolution-of-two-sequences.-it-states-that-the-cyclic-convolution-of-two-vectors-can-be-found-by-taking-the-discreate-fourier-transform-of-each-of-them-multiplying-the-resulting-vectors-element-by-element-and-then-taking-the-inverse-discrete-fourier-transform.}}
 
 \end{document}
