@@ -13,3 +13,4 @@ source: #index
 [[KBNezumiPractice]]
 [[KBxJapSelfEval]]
 [[KBxPenPalScript]]
+[[KBxPenPalEmail]]

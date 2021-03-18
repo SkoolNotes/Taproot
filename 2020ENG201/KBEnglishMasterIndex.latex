@@ -5,6 +5,7 @@
 
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{amsfonts}
 
 \usepackage[normalem]{ulem}
 
@@ -36,6 +37,9 @@
 \setlist[itemize,9]{label=\textbullet}
 
 \renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -135,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9066)}}    % original
-%\rhead{\textrmlf{Compiled }\#9066\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9507)}}    % original
+%\rhead{\textrmlf{Compiled }\#9507\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9066
+  \#9507
   \textrmlf{ on}
       \today
   }       % new date
@@ -178,6 +182,11 @@
             {\\ \textrmlf{#1}}
     \end{center}
 }
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
 
 \begin{document}
 
@@ -382,5 +391,7 @@ Is Never Alone} + imperialism notes \textbar{}
 \subsection{Eco Poetry}\label{eco-poetry}}
 
 {[}{[}KBxEcoPoetryDiscussionPrep{]}{]}
+
+{[}{[}KBxEcoPoetryFinal{]}{]}
 
 \end{document}

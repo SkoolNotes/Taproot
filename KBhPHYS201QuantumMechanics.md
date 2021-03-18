@@ -197,3 +197,83 @@ Quarks combine their fractional charges into particles of full charge. The numbe
 
 Hedron => Particles that are affected by Strong force; so all assembleges of quarks.
 
+## Heisenberg Uncertantiy
+Classical physics: objectc has a position X and velocity V that are completely defined
+
+Quantum mechanics: wave function $\psi$
+$\psi(\vec(x),t) = a+bi (\vec(x),t)$.
+
+![[Pasted image 20210317093631.png]]
+
+The wave function yields the probablitiy density of finding the object at that location and at that time.
+
+The momentum ($\rho$) of an object is associated with its wavelength ($\lambda$).
+
+If $\rho$ is completely defined, its position $x$ is completely undefined
+
+If $x$ is completely defined, its position $\rho$ is completely undefined
+
+![[Pasted image 20210317093907.png]]
+
+Heisnberg Uncertainty, formally:
+
+$\Delta x \Delta \rho \approx h$. This is handwavy.
+
+$\rho_0 = \frca{h}{\lambda}$ to verify heisenberg 
+
+![[Pasted image 20210317094936.png]]
+
+Through this, we could find out that...
+
+* $\rho_0 = \frac{h}{\lambda} = \frac{\rho){}$
+
+
+## Bohr Model of the Atom
+Planck's Model:
+
+![[Pasted image 20210317103124.png]]
+
+But this is only for solid. that it glows "hotter and hotter"
+
+Gasses, however, looks different:
+
+![[Pasted image 20210317103159.png]]
+
+Whereby at discrete wavelengths/energies, it glows; yet in the other states it does not.
+
+This infers that there is only certain levels in which electron may exist, and hence these jumps occur when energy levels shift (?)
+
+Planck's constant for $\bar{h}$ had units of $J/s$. This is also the units for angular momntum.
+
+## Classical angular momentum
+![[Pasted image 20210317103521.png]]
+
+Bohr's Model: completely classical with the addition that the angular momentum must equal an interger $N$ times Planck's constant $\bar{h}$. Meaning, $angmom = N\bar{h}$. 
+
+So, the energy levels (angular momentums) in which electrons should exist should be an interger of planck's reduced constant.
+
+Goal: Electron Energy in terms of an N and a contsant (hbar)
+
+![[Pasted image 20210317103815.png]]
+
+Circular motion is a bound system ($KE=\frac{1}{2}mv^2$). Hence, as R increases, PE decreases.
+
+$PE=0 when R \to \infty$
+$PE_{electrical} = \frac{-k Q^2}{R}$; 
+
+$|PE|=2KE$.
+$E_{tot} = PE+KE = -KE$
+
+
+![[Pasted image 20210317104437.png]]
+
+
+Bohr Model: gets right — energy level of Hydrogen
+
+~~For every N, we have a unique energy + a unique angular momentum.~~
+
+Turns out, for every N, there are a variety of angular momentum that's possible
+
+Bohr's circular orbit and definite position theories are definitely wrong.
+
+There is, however, a maximum angular momentum for each N in units of H-bar.

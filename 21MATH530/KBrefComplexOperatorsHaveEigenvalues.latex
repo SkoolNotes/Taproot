@@ -38,6 +38,9 @@
 
 \renewlist{itemize}{itemize}{9}
 
+\usepackage{mathdots}
+\usepackage{tikz}
+
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -137,11 +140,11 @@ eigenvalues }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9377)}}    % original
-%\rhead{\textrmlf{Compiled }\#9377\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9507)}}    % original
+%\rhead{\textrmlf{Compiled }\#9507\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9377
+  \#9507
   \textrmlf{ on}
       \today
   }       % new date
@@ -183,6 +186,7 @@ eigenvalues }
 
 % exr0n linear algebra mathops
 \DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
 \DeclareMathOperator{\onull}{\text{null}}
 
 \begin{document}
@@ -205,5 +209,23 @@ has an eigenvalue.
 \subsection{by the fundamental theorem of algebra, the characteristic
 polynomial will have roots and thus there will be
 eigenvalues.}\label{by-the-fundamental-theorem-of-algebra-the-characteristic-polynomial-will-have-roots-and-thus-there-will-be-eigenvalues.}}
+
+\hypertarget{proof}{%
+\section{proof}\label{proof}}
+
+\hypertarget{by-factoring-we-turn-the-polynomial-of-maps-into-a-composition-of-linear-maps-of-the-form-t-lambda-i-and-the-input-vector-has-to-go-to-all-of-them.-we-choose-a-v-s.t.-it-should-be-equal-to-zero-which-means-that-one-of-the-maps-needs-to-send-the-v-to-zero-and-that-map-will-be-injective-and-that-lambda-will-be-an-eigenvalue.}{%
+\subsection{\texorpdfstring{by factoring, we turn the polynomial of maps
+into a composition of linear maps of the form \((T-\lambda I)\) and the
+input vector has to go to all of them. We choose a \(v\) s.t. it should
+be equal to zero, which means that one of the maps needs to send the
+\(v\) to zero (and that map will be injective and that lambda will be an
+eigenvalue).}{by factoring, we turn the polynomial of maps into a composition of linear maps of the form (T-\textbackslash lambda I) and the input vector has to go to all of them. We choose a v s.t. it should be equal to zero, which means that one of the maps needs to send the v to zero (and that map will be injective and that lambda will be an eigenvalue).}}\label{by-factoring-we-turn-the-polynomial-of-maps-into-a-composition-of-linear-maps-of-the-form-t-lambda-i-and-the-input-vector-has-to-go-to-all-of-them.-we-choose-a-v-s.t.-it-should-be-equal-to-zero-which-means-that-one-of-the-maps-needs-to-send-the-v-to-zero-and-that-map-will-be-injective-and-that-lambda-will-be-an-eigenvalue.}}
+
+\hypertarget{to-formalize-the-one-of-the-maps-sends-the-input-to-zero-you-can-just-use-a-prev-proof-if-a-chain-of-maps-is-not-injective-then-one-of-the-maps-is-not-injective-or-induct-because-there-is-a-finite-number-of-maps.}{%
+\subsection{to formalize the "one of the maps sends the input to zero,"
+you can just use a prev proof "if a chain of maps is not injective, then
+one of the maps is not injective" or induct because there is a finite
+number of
+maps.}\label{to-formalize-the-one-of-the-maps-sends-the-input-to-zero-you-can-just-use-a-prev-proof-if-a-chain-of-maps-is-not-injective-then-one-of-the-maps-is-not-injective-or-induct-because-there-is-a-finite-number-of-maps.}}
 
 \end{document}

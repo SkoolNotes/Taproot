@@ -49,43 +49,9 @@ winds wright clouds? made out of mist?
 
 
 
-## Whitman
-
-about redwoods dying and being at peace?
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Oliver
-
-### Wild Geese
-
-
-
-
-
-
-### The Kingfisher
-
-
-
-
-
-
-
-
-
-
-
+```
+A) 2-page close reading of one or more poems from the eco-poetry unit. For a close reading, you want to focus on HOW an author is doing something and connect with WHAT the author is doing and WHY. Follow a literary or rhetorical device, motif, imagery, etc.
+```
 
 
 

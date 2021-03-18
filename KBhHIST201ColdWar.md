@@ -98,5 +98,26 @@ The civil rights movements picked up heat in the united states: that the collect
 Moderate-left group excluded communists, but they were the most "brave" to stand up to societal injustices
 
 
+# Globalization + End of CW
+- Attitudes of capitalism different than that of the past
+- Transformation leads to reconfiguration of capitalism
+
+There were general optimizism regarding post-cold war globalization. But nowadays "globalization" is more cynical.
+
+Fukayama's dialectical model of history: that Liberalism is the endpoint for all government. => for Karl Marx, its the promise that communism will rid of class troubles. For Fukuyama, its the promise that liberalism will rid of ideological confilicts.
+
+## Globalization + Liberalism
+Globalization => increased attetion about the relationshiyp btween nation states and the markets
+
+Neoliberalism => a politicial project to promote pro-market supply-side policies; by giving people more market access, one is able to alleviate the conditions of poverty. "Markets Fundimentalism": markets and only markets are the agents of individual liberalty and social progress. Market economy as the absoulte
+
+IMF + others tried to push forward the change to neolibral capitalism
+
+***
+
+Progress requires destruction and pain: society can't progress without accepting the suffering that progress produces.
+
+
+
 
 

@@ -38,6 +38,9 @@
 
 \renewlist{itemize}{itemize}{9}
 
+\usepackage{mathdots}
+\usepackage{tikz}
+
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -136,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9242)}}    % original
-%\rhead{\textrmlf{Compiled }\#9242\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9507)}}    % original
+%\rhead{\textrmlf{Compiled }\#9507\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9242
+  \#9507
   \textrmlf{ on}
       \today
   }       % new date
@@ -182,6 +185,7 @@
 
 % exr0n linear algebra mathops
 \DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
 \DeclareMathOperator{\onull}{\text{null}}
 
 \begin{document}
@@ -309,5 +313,11 @@ To figure the interval of convergence, simply use the ratio test and
 solve for \(x\) that makes the ratio \(< 1\). Then, think about the
 inconclusive cases whereby ratio \(= 1\) --- then, use the comparison
 test, or intergral test.
+
+{[}{[}Pasted image 20210317084838.png{]}{]}
+
+\textbf{Derivatives, intergrals have the same radius of convergence as
+the parent function, but their interval may be different due to
+different behavior at endpoints}
 
 \end{document}

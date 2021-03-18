@@ -5,6 +5,7 @@
 
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{amsfonts}
 
 \usepackage[normalem]{ulem}
 
@@ -16,6 +17,11 @@
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
 
 \usepackage{enumitem}
 \setlistdepth{9}
@@ -31,6 +37,9 @@
 \setlist[itemize,9]{label=\textbullet}
 
 \renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -130,11 +139,16 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8107)}}    % original
-%\rhead{\textrmlf{Compiled }\#8107\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8107\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9507)}}    % original
+%\rhead{\textrmlf{Compiled }\#9507\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#9507
+  \textrmlf{ on}
+      \today
+  }       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -169,10 +183,15 @@
     \end{center}
 }
 
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
+\textbf{Source}:\thinspace
 {\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
 
 \hypertarget{wwii-and-the-rise-of-the-cold-war-tensions}{%
@@ -346,5 +365,43 @@ the United States.
 
 Moderate-left group excluded communists, but they were the most
 ``brave'' to stand up to societal injustices
+
+\hypertarget{globalization-end-of-cw}{%
+\section{Globalization + End of CW}\label{globalization-end-of-cw}}
+
+\begin{itemize}
+\tightlist
+\item
+  Attitudes of capitalism different than that of the past
+\item
+  Transformation leads to reconfiguration of capitalism
+\end{itemize}
+
+There were general optimizism regarding post-cold war globalization. But
+nowadays ``globalization'' is more cynical.
+
+Fukayama's dialectical model of history: that Liberalism is the endpoint
+for all government. =\textgreater{} for Karl Marx, its the promise that
+communism will rid of class troubles. For Fukuyama, its the promise that
+liberalism will rid of ideological confilicts.
+
+\hypertarget{globalization-liberalism}{%
+\subsection{Globalization + Liberalism}\label{globalization-liberalism}}
+
+Globalization =\textgreater{} increased attetion about the relationshiyp
+btween nation states and the markets
+
+Neoliberalism =\textgreater{} a politicial project to promote pro-market
+supply-side policies; by giving people more market access, one is able
+to alleviate the conditions of poverty. ``Markets Fundimentalism'':
+markets and only markets are the agents of individual liberalty and
+social progress. Market economy as the absoulte
+
+IMF + others tried to push forward the change to neolibral capitalism
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Progress requires destruction and pain: society can't progress without
+accepting the suffering that progress produces.
 
 \end{document}
