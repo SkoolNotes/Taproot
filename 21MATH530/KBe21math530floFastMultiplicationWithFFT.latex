@@ -140,11 +140,11 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9513)}}    % original
-%\rhead{\textrmlf{Compiled }\#9513\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9514)}}    % original
+%\rhead{\textrmlf{Compiled }\#9514\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9513
+  \#9514
   \textrmlf{ on}
       \today
   }       % new date
@@ -193,6 +193,14 @@ transforms }
 
 % DID YOU SET SPELL????
 
+\hypertarget{base-knowlege}{%
+\section{base knowlege}\label{base-knowlege}}
 
+\hypertarget{primitive-root-of-unity}{%
+\subsection{primitive root of unity}\label{primitive-root-of-unity}}
+
+\hypertarget{a-number-r-is-an-nth-root-of-unity}{%
+\subsubsection{\texorpdfstring{a number \(r\) is an \$n\$th root of
+unity}{a number r is an \$n\$th root of unity}}\label{a-number-r-is-an-nth-root-of-unity}}
 
 \end{document}
