@@ -72,5 +72,5 @@
 ** exr1.11
 
    \[\begin{aligned}
-   \int_\pi^{2\pi} \cos(x)dx = \lim_{n\to \infty} \sum_{i=0}^n \frac{\pi}{n}\cos\left( \pi + \frac{i}{n}\right)
+   \int_\pi^{2\pi} \cos(x)dx = \lim_{n\to \infty} \sum_{i=0}^n \frac{\pi}{n}\cos\left( \pi + \frac{i\pi}{n}\right)
    \end{aligned}\]
