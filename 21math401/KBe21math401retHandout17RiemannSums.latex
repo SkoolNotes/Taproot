@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9510)}}    % original
-%\rhead{\textrmlf{Compiled }\#9510\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9511)}}    % original
+%\rhead{\textrmlf{Compiled }\#9511\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9510
+  \#9511
   \textrmlf{ on}
       \today
   }       % new date
@@ -260,6 +260,9 @@ area of a right triangle with leg-lengths 1 and 1, which is
 \begin{enumerate}
 \item
   {TODO} Wolfram Alpha doesn't agree though
+
+  Probably because as you take approximations, there will be overlap, so
+  the actual value is bigger than I think it is.
 \end{enumerate}
 
 \hypertarget{int_03-x-1dx}{%
