@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9511)}}    % original
-%\rhead{\textrmlf{Compiled }\#9511\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9512)}}    % original
+%\rhead{\textrmlf{Compiled }\#9512\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9511
+  \#9512
   \textrmlf{ on}
       \today
   }       % new date
@@ -263,6 +263,9 @@ area of a right triangle with leg-lengths 1 and 1, which is
 
   Probably because as you take approximations, there will be overlap, so
   the actual value is bigger than I think it is.
+
+  I also don't know how to take the anti-chain-rule, so I don't know how
+  to integrate the function symbolically.
 \end{enumerate}
 
 \hypertarget{int_03-x-1dx}{%
