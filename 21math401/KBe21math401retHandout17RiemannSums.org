@@ -82,9 +82,11 @@
 ** exr1.12
 
 *** 1
+	\[\begin{aligned}
+    \lim_{n \to \infty} \sum_{k=0}^n \Delta x \sqrt{4+(1+k\Delta x)^2} \text{ where }\Delta x = \frac{2}{n}
+	\end{aligned}\]
 
+*** 2
 	\[\begin{aligned}
     \lim_{n \to  \infty} \sum_{k=0}^n \Delta x(2+k\Delta x)^2 + \frac{1}{2+k\Delta x} \text{ where } \Delta x = \frac{3}{n}
 	\end{aligned}\]
-
-***
