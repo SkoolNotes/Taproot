@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9579)}}    % original
-%\rhead{\textrmlf{Compiled }\#9579\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9580)}}    % original
+%\rhead{\textrmlf{Compiled }\#9580\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9579
+  \#9580
   \textrmlf{ on}
       \today
   }       % new date
@@ -213,5 +213,9 @@ In fact, I expect \[\begin{aligned}
 
 \hypertarget{section-1}{%
 \subsection{1.4}\label{section-1}}
+
+\[\begin{aligned}
+   \int_a^b x^2 dx =
+   \end{aligned}\]
 
 \end{document}
