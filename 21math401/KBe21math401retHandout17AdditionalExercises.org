@@ -8,3 +8,8 @@
    \[\begin{aligned}
    \int_1^2f(x)dx = \int_1^5f(x)dx - \int_2^5f(x)dx = -3-4 = -7
    \end{aligned}\]
+
+   In fact, I expect
+   \[\begin{aligned}
+   \int_a^bf(x)dx + \int_b^cf(x)dx = \int_a^cf(x)dx
+   \end{aligned}\]
