@@ -112,9 +112,9 @@
 	\end{aligned}\]
 
 ** exr1.14
-   graphically, it's the right triangle from origin to B minus the one from origin to A. Algebraically,
+   Graphically, it's the right triangle from origin to B minus the one from origin to A. Algebraically,
 
    \[\begin{aligned}
    \frac{d}{dx}\frac{1}{2}x^2 = x\\
-\implies \int_a^b xdx = \frac{1}{2}b^2 + c - (\frac{1}{2} a^2 + c) = \frac{b^2-a^2}{2}
+&\implies \int_a^b xdx = \frac{1}{2}b^2 + c - \left(\frac{1}{2} a^2 + c\right) = \frac{b^2-a^2}{2}
    \end{aligned}\]
