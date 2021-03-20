@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9567)}}    % original
-%\rhead{\textrmlf{Compiled }\#9567\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9568)}}    % original
+%\rhead{\textrmlf{Compiled }\#9568\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9567
+  \#9568
   \textrmlf{ on}
       \today
   }       % new date
@@ -321,5 +321,32 @@ See exr1.3
 \[\begin{aligned}
     \lim_{n \to  \infty} \sum_{k=0}^n \Delta x(2+k\Delta x)^2 + \frac{1}{2+k\Delta x} \text{ where } \Delta x = \frac{3}{n}
     \end{aligned}\]
+
+\hypertarget{exr1.13}{%
+\subsection{exr1.13}\label{exr1.13}}
+
+\hypertarget{section-2}{%
+\subsubsection{1}\label{section-2}}
+
+\[\begin{aligned}
+    \int_0^1 \frac{e^x}{1+x} dx
+    \end{aligned}\]
+
+\hypertarget{section-3}{%
+\subsubsection{2}\label{section-3}}
+
+\[\begin{aligned}
+    \int_2^5 x\sqrt{1+x^3}dx
+    \end{aligned}\]
+
+\hypertarget{section-4}{%
+\subsubsection{3}\label{section-4}}
+
+\[\begin{aligned}
+    \int_1^3 \frac{x}{x^2+4}dx
+    \end{aligned}\]
+
+\hypertarget{exr1.14}{%
+\subsection{exr1.14}\label{exr1.14}}
 
 \end{document}

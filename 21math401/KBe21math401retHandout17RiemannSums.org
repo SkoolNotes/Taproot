@@ -90,3 +90,25 @@
 	\[\begin{aligned}
     \lim_{n \to  \infty} \sum_{k=0}^n \Delta x(2+k\Delta x)^2 + \frac{1}{2+k\Delta x} \text{ where } \Delta x = \frac{3}{n}
 	\end{aligned}\]
+
+** exr1.13
+
+*** 1
+
+	\[\begin{aligned}
+    \int_0^1 \frac{e^x}{1+x} dx
+	\end{aligned}\]
+
+*** 2
+
+	\[\begin{aligned}
+    \int_2^5 x\sqrt{1+x^3}dx
+	\end{aligned}\]
+
+*** 3
+
+	\[\begin{aligned}
+    \int_1^3 \frac{x}{x^2+4}dx
+	\end{aligned}\]
+
+** exr1.14
