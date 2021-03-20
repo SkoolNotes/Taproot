@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9575)}}    % original
-%\rhead{\textrmlf{Compiled }\#9575\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9576)}}    % original
+%\rhead{\textrmlf{Compiled }\#9576\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9575
+  \#9576
   \textrmlf{ on}
       \today
   }       % new date
@@ -198,6 +198,9 @@
 \hypertarget{and-1.2}{%
 \subsection{1.1 and 1.2}\label{and-1.2}}
 
-{[}\url{file:./KBe21math401srcHandout17AdditionalExercises.jpg}{]}
+\includegraphics{./KBe21math401srcHandout17AdditionalExercises.jpg}
+
+\hypertarget{section}{%
+\subsection{1.3}\label{section}}
 
 \end{document}
