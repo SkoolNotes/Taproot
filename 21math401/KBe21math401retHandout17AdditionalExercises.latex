@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9586)}}    % original
-%\rhead{\textrmlf{Compiled }\#9586\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9587)}}    % original
+%\rhead{\textrmlf{Compiled }\#9587\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9586
+  \#9587
   \textrmlf{ on}
       \today
   }       % new date
@@ -217,7 +217,7 @@ In fact, I expect \[\begin{aligned}
 \[\begin{aligned}
    \int_a^b x^2 dx &= \lim_{n\to \infty} \sum_{k=0}^n \frac{b-a}{n} \left(a+k\frac{b-a}{n}\right)^2\\
 &= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=0}^n \left(a+k\frac{b-a}{n}\right)^2\\
-&= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=0}^n a^2+2ak\frac{b-a}{n} + \cancelto{k\frac{b-a}{n}}{0}\\
+&= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=0}^n a^2+2ak\frac{b-a}{n} + \cancelto{0}{k\frac{b-a}{n}}\\
    \end{aligned}\]
 
 \end{document}
