@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9578)}}    % original
-%\rhead{\textrmlf{Compiled }\#9578\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9579)}}    % original
+%\rhead{\textrmlf{Compiled }\#9579\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9578
+  \#9579
   \textrmlf{ on}
       \today
   }       % new date
@@ -210,5 +210,8 @@ I expect \[\begin{aligned}
 In fact, I expect \[\begin{aligned}
    \int_a^bf(x)dx + \int_b^cf(x)dx = \int_a^cf(x)dx
    \end{aligned}\]
+
+\hypertarget{section-1}{%
+\subsection{1.4}\label{section-1}}
 
 \end{document}
