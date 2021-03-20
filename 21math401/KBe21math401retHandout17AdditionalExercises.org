@@ -18,7 +18,7 @@
    \[\begin{aligned}
    \int_a^bf(x)dx + \int_b^cf(x)dx = \int_a^cf(x)dx
    \end{aligned}\]
-** show
+** show $\int_a^b x^2dx = \frac{b^3-a^3}{3}$
 
    \[\begin{aligned}
    \int_a^b x^2 dx &= \lim_{n\to \infty} \sum_{k=0}^n \frac{b-a}{n} \left(a+k\frac{b-a}{n}\right)^2\\
