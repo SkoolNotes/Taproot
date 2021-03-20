@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9569)}}    % original
-%\rhead{\textrmlf{Compiled }\#9569\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9570)}}    % original
+%\rhead{\textrmlf{Compiled }\#9570\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9569
+  \#9570
   \textrmlf{ on}
       \today
   }       % new date
@@ -351,5 +351,9 @@ See exr1.3
 
 graphically, it's the right triangle from origin to B minus the one from
 origin to A. Algebraically,
+
+\[\begin{aligned}
+   \frac{d}{dx}\frac{1}{2}x^2 = x
+   \end{aligned}\]
 
 \end{document}
