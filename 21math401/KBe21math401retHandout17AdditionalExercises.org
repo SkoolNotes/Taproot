@@ -16,5 +16,5 @@
 ** 1.4
 
    \[\begin{aligned}
-   \int_a^b x^2 dx =
+   \int_a^b x^2 dx = \lim_{n\to \infty} \sum_{k=0}^n \Delta x \left(\right)
    \end{aligned}\]
