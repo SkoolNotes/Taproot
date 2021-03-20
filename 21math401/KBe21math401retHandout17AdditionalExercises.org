@@ -13,10 +13,12 @@
    \[\begin{aligned}
    \int_a^bf(x)dx + \int_b^cf(x)dx = \int_a^cf(x)dx
    \end{aligned}\]
-** 1.4
+** show
 
    \[\begin{aligned}
    \int_a^b x^2 dx &= \lim_{n\to \infty} \sum_{k=0}^n \frac{b-a}{n} \left(a+k\frac{b-a}{n}\right)^2\\
 &= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=0}^n \left(a+k\frac{b-a}{n}\right)^2\\
 &= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=0}^n a^2 + \cancelto{0}{2ak\frac{b-a}{n}} + \cancelto{0}{\left(k\frac{b-a}{n}\right)^2}\\
+&= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=0}^n a^2\\
+&= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=0}^n a^2\\
    \end{aligned}\]
