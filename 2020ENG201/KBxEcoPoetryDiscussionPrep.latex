@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9608)}}    % original
-%\rhead{\textrmlf{Compiled }\#9608\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9609)}}    % original
+%\rhead{\textrmlf{Compiled }\#9609\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9608
+  \#9609
   \textrmlf{ on}
       \today
   }       % new date
@@ -365,5 +365,7 @@ What functionality do you want the website to have?
 
 Do you have some designs in mind or would you like me to design the site
 given the information you want conveyed?
+
+What is the timeline looking like? When do you need this done?
 
 \end{document}

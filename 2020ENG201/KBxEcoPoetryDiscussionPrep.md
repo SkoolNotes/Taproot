@@ -141,7 +141,7 @@ What functionality do you want the website to have?
 
 Do you have some designs in mind or would you like me to design the site given the information you want conveyed?
 
-
+What is the timeline looking like? When do you need this done?
 
 
 
