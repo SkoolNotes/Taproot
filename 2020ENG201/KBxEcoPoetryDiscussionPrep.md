@@ -131,7 +131,7 @@ not about detilals right now
 
 Hi {name}, 
 
-Thank you so much for considering me for this opportunity!
+Thank you so much for considering me for the opportunity of helping build your website!
 
 I have a few questions: 
 
