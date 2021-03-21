@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9562)}}    % original
-%\rhead{\textrmlf{Compiled }\#9562\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9598)}}    % original
+%\rhead{\textrmlf{Compiled }\#9598\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9562
+  \#9598
   \textrmlf{ on}
       \today
   }       % new date
@@ -196,8 +196,7 @@
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{thoreau-walden}{%
-\subsection{Thoreau: Walden}\label{thoreau-walden}}
+\#\# Thoreau: Walden
 
 stranger to speech
 
@@ -341,5 +340,7 @@ Eurus, Boreas {[}\ldots{]} first dipped their pens in mist'' (Thoreau).
 The gods write thoughts --- truth --- which human eye saw not. Truth is
 not meant to be communicated or heard, it simply \emph{is}. The passive
 Soul can breathe it in.
+
+jfk
 
 \end{document}

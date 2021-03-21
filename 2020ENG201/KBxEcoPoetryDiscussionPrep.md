@@ -11,8 +11,7 @@ source:  #index
 
 
 
-
-## Thoreau: Walden
+ ## Thoreau: Walden
 
 stranger to speech
 
@@ -95,3 +94,31 @@ Throughout his poem *Walden*, Thoreau uses the metaphor of a pond to communicate
 
 Thoreau goes on to describe the infinitude of consciousness. He writes at the start of his final stanza: "E'en the remotest stars have come in troops and stopped low to catch the benediction of thy countenance" (Thoreau). The remotest stars, that which span the infinitude of space, come "in troops" to be blessed by the ponds face. Here, Thoreau demonstrates two transcendentalist truths. The first, being the expanse of consciousness; consciousness is infinite in space and everywhere. It transcends space. The second, being the scale of consciousness. The entire universe is reflected in but a single pond. Everything is contained within the small. Thoreau continues, "O! tell me what the winds have writ for the last thousand years" (Thoreau). Thoreau comments on consciousness's infinitude over time — consciousness transcends time itself. He writes, "no cloud so rare but hitherward it stalked, and in thy face looked doubly beautiful." (Thoreau). The clouds, collections of mist, represent thoughts. When reflected upon, in the face of the pond, they are doubly beautiful. Thoreau concludes, "surely there was much that would have thrilled the Soul, which human eye saw not. I would give much to read that first bright page" (Thoreau). Thoreau accepts him own limitations. He accepts that there is that which he doesn't know, and that which he cannot know. Furthermore, he accepts that there is truth in what he cannot know; he ends, "when Eurus, Boreas [...] first dipped their pens in mist" (Thoreau). The gods write thoughts — truth — which human eye saw not. Truth is not meant to be communicated or heard, it simply *is*. The passive Soul can breathe it in.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jfk
