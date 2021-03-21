@@ -129,7 +129,7 @@ not about detilals right now
 
 
 
-Hi {name}, 
+Hi Jake, 
 
 Thank you so much for considering me for the opportunity of helping build your website!
 
