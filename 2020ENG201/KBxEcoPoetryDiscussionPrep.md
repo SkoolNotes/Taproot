@@ -112,14 +112,24 @@ Thoreau goes on to describe the infinitude of consciousness. He writes at the st
 
 
 
+```
+login
+desktop
+refinancing
+mobile
+not alot of browsing
+look up due dates
+functional, dont need looks right now 
+questions
+not about detilals right now
+```
 
 
 
 
 
 
-
-
+Hi {name}, 
 
 
 
