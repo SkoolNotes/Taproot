@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9614)}}    % original
-%\rhead{\textrmlf{Compiled }\#9614\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9615)}}    % original
+%\rhead{\textrmlf{Compiled }\#9615\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9614
+  \#9615
   \textrmlf{ on}
       \today
   }       % new date
@@ -218,16 +218,6 @@ In fact, I expect \[\begin{aligned}
 \subsection{\texorpdfstring{show
 \(\int_a^b x^2dx = \frac{b^3-a^3}{3}\)}{show \textbackslash int\_a\^{}b x\^{}2dx = \textbackslash frac\{b\^{}3-a\^{}3\}\{3\}}}\label{show-int_ab-x2dx-fracb3-a33}}
 
-\[\begin{aligned}
-   \xcancel{
-   \int_a^b x^2 dx &= \lim_{n\to \infty} \sum_{k=0}^n \frac{b-a}{n} \left(a+k\frac{b-a}{n}\right)^2\\
-&= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=0}^n \left(a+k\frac{b-a}{n}\right)^2\\
-&= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=0}^n \left(a^2 + 2ak\frac{b-a}{n} + \left(k\frac{b-a}{n}\right)^2\right)\\
-&= \lim_{n\to \infty} \frac{b-a}{n} \left(na^2 + \sum_{k=0}^n \left(2ak\frac{b-a}{n} + \left(k\frac{b-a}{n}\right)^2\right)\right)\\
-&= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=0}^n a^2\\
-&= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=0}^n a^2\\
-&= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=0}^n a^2 + \cancelto{0}{2ak\frac{b-a}{n}} + \cancelto{0}{\left(k\frac{b-a}{n}\right)^2}\\
-}
-   \end{aligned}\]
+(see attached pages)
 
 \end{document}
