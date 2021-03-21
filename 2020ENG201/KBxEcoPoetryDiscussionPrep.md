@@ -137,9 +137,9 @@ I have a few questions:
 
 Do you have a current database or would I be setting that up? 
 
-What functionality do you want the website to have? 
+What functionality do you want the website to have?
 
-Do you have some designs in mind or would you like me to design the site given the information you want conveyed?
+Do you have some designs in mind or would you like me to design the site given your needs?
 
 What is the timeline looking like? When do you need this done?
 
