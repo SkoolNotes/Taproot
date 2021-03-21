@@ -132,6 +132,9 @@ not about detilals right now
 Hi {name}, 
 
 
+I have a few questions about the internship I was offered. 
+
+
 
 
 
