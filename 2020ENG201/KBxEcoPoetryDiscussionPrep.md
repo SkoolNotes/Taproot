@@ -133,13 +133,13 @@ Hi {name},
 
 Thank you so much for considering me for this opportunity!
 
-I had a few questions: 
+I have a few questions: 
 
 Do you have a current database or would I be setting that up? 
 
 What functionality do you want the website to have? 
 
-Do you have some designs in mind or would you like me to design a website given 
+Do you have some designs in mind or would you like me to design the site given the information you want conveyed?
 
 
 
