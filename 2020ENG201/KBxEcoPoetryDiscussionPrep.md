@@ -131,6 +131,7 @@ not about detilals right now
 
 Hi {name}, 
 
+Thank you so much for considering me for this oppurtunity!
 
 I have a few questions about the internship I was offered. 
 
