@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9605)}}    % original
-%\rhead{\textrmlf{Compiled }\#9605\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9606)}}    % original
+%\rhead{\textrmlf{Compiled }\#9606\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9605
+  \#9606
   \textrmlf{ on}
       \today
   }       % new date
@@ -360,5 +360,7 @@ Thank you so much for considering me for this opportunity!
 I had a few questions:
 
 Do you have a current database or would I be setting that up?
+
+What functionality do you want the website to have?
 
 \end{document}

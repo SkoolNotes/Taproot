@@ -137,7 +137,7 @@ I had a few questions:
 
 Do you have a current database or would I be setting that up? 
 
-
+What functionality do you want the website to have? 
 
 
 
