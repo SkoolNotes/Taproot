@@ -133,18 +133,21 @@ Hi {name},
 
 Thank you so much for considering me for the opportunity of helping build your website!
 
-I have a few questions: 
 
-Do you have a current database or would I be setting that up? 
+I have a few questions: 
 
 What functionality do you want the website to have?
 
-Do you have some designs in mind or would you like me to design the site given your needs?
+Do you have a current database or would I be setting that up? 
+
+Do you have some designs in mind or would you like me to design the site?
 
 What is the timeline looking like? When do you need this done?
 
 
+Thanks, and best wishes,
 
+- Huxley
 
 
 

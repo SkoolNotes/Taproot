@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9611)}}    % original
-%\rhead{\textrmlf{Compiled }\#9611\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9612)}}    % original
+%\rhead{\textrmlf{Compiled }\#9612\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9611
+  \#9612
   \textrmlf{ on}
       \today
   }       % new date
@@ -360,13 +360,21 @@ build your website!
 
 I have a few questions:
 
-Do you have a current database or would I be setting that up?
-
 What functionality do you want the website to have?
 
-Do you have some designs in mind or would you like me to design the site
-given your needs?
+Do you have a current database or would I be setting that up?
+
+Do you have some designs in mind or would you like me to design the
+site?
 
 What is the timeline looking like? When do you need this done?
+
+Thanks, and best wishes,
+
+\begin{itemize}
+\tightlist
+\item
+  Huxley
+\end{itemize}
 
 \end{document}
