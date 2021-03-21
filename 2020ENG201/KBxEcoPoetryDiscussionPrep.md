@@ -135,7 +135,7 @@ Thank you so much for considering me for this opportunity!
 
 I had a few questions: 
 
-D
+Do you have a current database or would I be setting that up? 
 
 
 
