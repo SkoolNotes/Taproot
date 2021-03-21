@@ -139,7 +139,7 @@ Do you have a current database or would I be setting that up?
 
 What functionality do you want the website to have? 
 
-
+Do you have some designs in mind or would you like me to design a website given 
 
 
 
