@@ -277,3 +277,73 @@ Turns out, for every N, there are a variety of angular momentum that's possible
 Bohr's circular orbit and definite position theories are definitely wrong.
 
 There is, however, a maximum angular momentum for each N in units of H-bar.
+
+## Schroedinger's Equation
+![[Pasted image 20210322093653.png]]
+
+This equation is only useful if the particle is moving along on a potential.
+
+As time increases, the potential does not change in time
+
+![[Pasted image 20210322094031.png]]
+
+The function $\phi$ solution to schodinger's equation in probably imaginary, but, multiplied by its complex conjugate, we could find the probability density that the particle will be found at (x).
+
+![[Pasted image 20210322094217.png]]
+
+And given that its a probability density, we know a few things
+
+$\int_{-\infty}^{infty} \phi * \phi dx = 1$ because "if you look everywhere, you otta find it if it exist."
+
+$\phi(x)$ must be continuous.
+
+The phi function must follow the property of being "bounded", meaning that $\phi {x<0 \rightarrow 0, x>L => \rightarrow}$
+
+Solving for the differential equation that we proposed:
+
+![[Pasted image 20210322095234.png]]
+
+But wait! B squared here resulted in an negative number. That's either imaginary (which actually works out because $e^i = sin$, think talor), or we just use a different function:
+
+![[Pasted image 20210322095510.png]]
+
+But! Remember that this function is bounded between 0 and L. Hence, we add multiple wave functions together like standing waves. 
+
+Continuity at X=L demand $B*L = N*\pi$, whereby $N=interger$. B !=0 because otherwise the particle would be just nonexistant anywhere.
+
+For each N, a new standing wave is added. So the collapsed sum of the wave functions would be the probablitiy densities.
+
+![[Pasted image 20210322100145.png]]
+
+On classical physics, the probability of oscellations should be constant (the particle could be at any point with equal probability.)
+
+As N (location/"humps") increases, more and more smaller waves exist. So as $N\rightarrow \infty$, there would be so many oscillations that it approaches the classical view
+
+![[Pasted image 20210322100406.png]]
+
+![[Pasted image 20210322100429.png]]
+
+![[Pasted image 20210322100450.png]]
+
+![[Pasted image 20210322100650.png]]
+
+![[Pasted image 20210322100713.png]]
+
+As we know more certain its position (as L=>0, position is well known (between 0 and L smaller)), the energy goes to infinity, which makes momentum quite uncertain.
+
+Visea versa.
+
+![[Pasted image 20210322100851.png]]
+
+![[Pasted image 20210322101650.png]]
+
+Outside of the box, the expotentials on the two sides would contain a stable velocity equaling to Q outside of the possible "existance" region.
+
+![[Pasted image 20210322102027.png]]
+
+Wave function is not 0 outside the box! According to quantum physics, there is some probability of finding the object outside its physical boundary box.
+
+An analogy:
+![[Pasted image 20210322102112.png]]
+
+And this is "quantum tunneling"
