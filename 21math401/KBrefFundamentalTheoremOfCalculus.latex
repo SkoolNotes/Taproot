@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9668)}}    % original
-%\rhead{\textrmlf{Compiled }\#9668\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9669)}}    % original
+%\rhead{\textrmlf{Compiled }\#9669\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9668
+  \#9669
   \textrmlf{ on}
       \today
   }       % new date
@@ -199,8 +199,8 @@
   \int \frac{d}{dx}f(x) dx = f(x)
   \end{aligned}\]
 
-\hypertarget{significance-of-bounds}{%
-\section{significance of bounds}\label{significance-of-bounds}}
+\hypertarget{an-example}{%
+\section{an example}\label{an-example}}
 
 Imagine a function that has the bound of an integral as an argument:
 \[\begin{aligned}
