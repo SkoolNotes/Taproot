@@ -23,6 +23,7 @@ source:  #index
 	1) Without understanding the past we are doomed to repeat it. Also, by understanding where the remnants of the past exist in the modern day, we can create a better future.
 
 4) What are your goals for English for next year and beyond? What is next? Please be specific in highlighting at least two goals and giving some sense of how you might meet them.
+	1) I want to reduce the barrier between my ideas 
 
 
 

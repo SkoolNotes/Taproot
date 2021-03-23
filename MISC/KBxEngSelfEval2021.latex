@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9701)}}    % original
-%\rhead{\textrmlf{Compiled }\#9701\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9702)}}    % original
+%\rhead{\textrmlf{Compiled }\#9702\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9701
+  \#9702
   \textrmlf{ on}
       \today
   }       % new date
@@ -250,6 +250,13 @@
   What are your goals for English for next year and beyond? What is
   next? Please be specific in highlighting at least two goals and giving
   some sense of how you might meet them.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii})}
+  \tightlist
+  \item
+    I want to reduce the barrier between my ideas
+  \end{enumerate}
 \end{enumerate}
 
 \end{document}
