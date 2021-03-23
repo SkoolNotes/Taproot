@@ -14,7 +14,7 @@ source:  #index
 
 
 1) What did you discover about yourself as a learner in this class, especially since we transitioned to remote learning, and what do you feel was your greatest success?
-	1) I learned that artwork is a good way to go about exploration. 
+	1) I learned that artwork is a good way to go about exploration. Sometime
 
 2) What has been your greatest challenge in our class this term? This could be a specific text, assignment, or activity, a broader area or skill, or could be related to remote learning specifically.
 
