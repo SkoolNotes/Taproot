@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9702)}}    % original
-%\rhead{\textrmlf{Compiled }\#9702\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9703)}}    % original
+%\rhead{\textrmlf{Compiled }\#9703\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9702
+  \#9703
   \textrmlf{ on}
       \today
   }       % new date
@@ -255,7 +255,8 @@
   \def\labelenumii{\arabic{enumii})}
   \tightlist
   \item
-    I want to reduce the barrier between my ideas
+    I want to reduce the transition cost from my ideas to words on
+    paper. This is somet8ng
   \end{enumerate}
 \end{enumerate}
 
