@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9640)}}    % original
-%\rhead{\textrmlf{Compiled }\#9640\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9641)}}    % original
+%\rhead{\textrmlf{Compiled }\#9641\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9640
+  \#9641
   \textrmlf{ on}
       \today
   }       % new date
@@ -232,7 +232,7 @@ Keep in mind \[\begin{aligned}
    &= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=1}^n a^2+\sum_{k=1}^n \left( k\frac{b-a}{n}\right) ^2 +\sum_{k=1}^n  2ak\frac{b-a}{n} \\
    &= \lim_{n\to \infty} \frac{b-a}{n} \left( a^2n +\sum_{k=1}^n k^2\left(\frac{b-a}{n}\right)^2 +2a\frac{b-a}{n}\sum_{k=1}^n k\right)  \\
    &= \lim_{n\to \infty} \frac{b-a}{n} \left( a^2n + \left(\frac{b-a}{n}\right)^2\sum_{k=1}^n k^2 +2a\frac{b-a}{n}\sum_{k=1}^n k\right)  \\
-   &= \lim_{n\to \infty} \frac{b-a}{n} \left( a^2n + \left(\frac{b-a}{n}\right)^2\sum_{k=1}^n k^2 +2a\frac{b-a}{n}\frac{n(n+1)}{2}\right)  \\
+   &= \lim_{n\to \infty} \frac{b-a}{n} \left( a^2n + \left(\frac{b-a}{n}\right)^2 \frac{n(n+1)(2n+1)}{6} +2a\frac{b-a}{n}\frac{n(n+1)}{2}\right)  \\
    \end{aligned}\]
 
 \end{document}
