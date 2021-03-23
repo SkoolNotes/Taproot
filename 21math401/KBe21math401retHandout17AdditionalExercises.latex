@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9615)}}    % original
-%\rhead{\textrmlf{Compiled }\#9615\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9620)}}    % original
+%\rhead{\textrmlf{Compiled }\#9620\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9615
+  \#9620
   \textrmlf{ on}
       \today
   }       % new date
@@ -219,5 +219,9 @@ In fact, I expect \[\begin{aligned}
 \(\int_a^b x^2dx = \frac{b^3-a^3}{3}\)}{show \textbackslash int\_a\^{}b x\^{}2dx = \textbackslash frac\{b\^{}3-a\^{}3\}\{3\}}}\label{show-int_ab-x2dx-fracb3-a33}}
 
 (see attached pages)
+
+\[\begin{aligned}
+
+   \end{aligned}\]
 
 \end{document}
