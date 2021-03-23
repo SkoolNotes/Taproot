@@ -46,5 +46,6 @@
    &= \lim_{n\to \infty} (b-a) \left( a^2 + \frac{\cancel{n}}{3}\frac{(b-a)^2}{\cancel{n}} + \cancelto{0}{\frac{1}{6}\frac{(b-a)^2}{n}} + a(b-a) \right)  \\
    &= \lim_{n\to \infty} (b-a) \left( a^2 + \frac{(b-a)^2}{3} + a(b-a) \right)  \\
    &= \lim_{n\to \infty} a^2(b-a) + \frac{b^2+a^2-2ab}{3}(b-a) + a(b-a)^2 \\
+   &= \lim_{n\to \infty} a^2(b-a) + \frac{b^2+a^2-2ab}{3}(b-a) + a(b-a)^2 \\
    \\bruh\\bruh\\bruh\\bruh\\bruh\\bruh\\bruh\\bruh
    \end{aligned}\]
