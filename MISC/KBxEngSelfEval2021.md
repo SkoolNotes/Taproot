@@ -17,7 +17,7 @@ source:  #index
 	1) I learned that artwork is a good way to go about exploration. Sometimes it's hard to put ideas or truth into words; creating artwork around those ideas then reflecting on that artwork can often help understanding and reveal deeper truths. We went through this process with the Building Project, where trying to model the river forced us to understand it. We did this process again with the GoST Culminating Assignment, which I consider my greatest success this term in English class. 
 
 2) What has been your greatest challenge in our class this term? This could be a specific text, assignment, or activity, a broader area or skill, or could be related to remote learning specifically.
-	1) Speaking in class and in group discussions during remote learning is challenging. We do this a lot in English class. However, 
+	1) Speaking in class and in group discussions during remote learning is challenging. We do this a lot in English class. However, sharing ideas and discussing in chat 
 
 3) Now that you're on the other end of our year-long English 10 course, what do you see as the value of studying colonial/postcolonial literature and the literature associated with globalization, environmentalism, and science communication?
 
