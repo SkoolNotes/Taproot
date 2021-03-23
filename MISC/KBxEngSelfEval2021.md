@@ -20,6 +20,7 @@ source:  #index
 	1) Speaking in class and in group discussions during remote learning is challenging. We do this a lot in English class. However, sharing ideas and discussing in chat has made learning a lot nicer, especially because English class does a good job of incorporating the chat.
 
 3) Now that you're on the other end of our year-long English 10 course, what do you see as the value of studying colonial/postcolonial literature and the literature associated with globalization, environmentalism, and science communication?
+	1) Without understanding the past we are doomed to repeat it. 
 
 4) What are your goals for English for next year and beyond? What is next? Please be specific in highlighting at least two goals and giving some sense of how you might meet them.
 
