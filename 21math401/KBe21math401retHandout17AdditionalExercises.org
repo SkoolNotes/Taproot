@@ -23,5 +23,5 @@
 
 
    \[\begin{aligned}
-   \int_a^b x^2 dx &= \lim_{n\to \infty}
+   \int_a^b x^2 dx &= \lim_{n\to \infty} \sum_{k=0}^n
    \end{aligned}\]
