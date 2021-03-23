@@ -6,6 +6,6 @@
 * significance of bounds
   Imagine a function that has the bound of an integral as an argument:
   \[\begin{aligned}
-  g(x) = \int_0^x t dt = \frac{x^2}{2}\\
-  \frac{d}{dx}g(x) =
+  g(x) = \int_0^x t\ dt = \frac{x^2}{2}\\
+  \frac{d}{dx}g(x) = \frac{d}{dx}\int_0^x t\ dt = \frac{d}{dx}\frac{x^2}{2} = x
   \end{aligned}\]

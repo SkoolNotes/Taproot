@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9667)}}    % original
-%\rhead{\textrmlf{Compiled }\#9667\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9668)}}    % original
+%\rhead{\textrmlf{Compiled }\#9668\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9667
+  \#9668
   \textrmlf{ on}
       \today
   }       % new date
@@ -204,7 +204,8 @@
 
 Imagine a function that has the bound of an integral as an argument:
 \[\begin{aligned}
-  g(x) = \int_0^x t dt\\
+  g(x) = \int_0^x t\ dt = \frac{x^2}{2}\\
+  \frac{d}{dx}g(x) = \frac{d}{dx}\int_0^x t\ dt = \frac{d}{dx}\frac{x^2}{2} = x
   \end{aligned}\]
 
 \end{document}
