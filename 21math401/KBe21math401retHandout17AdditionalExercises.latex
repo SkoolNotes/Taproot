@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9651)}}    % original
-%\rhead{\textrmlf{Compiled }\#9651\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9652)}}    % original
+%\rhead{\textrmlf{Compiled }\#9652\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9651
+  \#9652
   \textrmlf{ on}
       \today
   }       % new date
@@ -237,7 +237,7 @@ Keep in mind \[\begin{aligned}
    &= \lim_{n\to \infty} (b-a) \left( a^2 + \frac{(b-a)^2}{n^2} \left( n\frac{(2n+1)}{6} + \frac{(2n+1)}{6}\right) +a\frac{b-a}{n}(n+1)\right)  \\
    &= \lim_{n\to \infty} (b-a) \left( a^2 + \frac{(b-a)^2}{n^2} \left( n\frac{(2n+1)}{6} + \frac{(2n+1)}{6}\right) +a\cancel{n}\frac{b-a}{\cancel{n}}+a\frac{b-a}{n}\right)  \\
    &= \lim_{n\to \infty} (b-a) \left( a^2 + \frac{(b-a)^2}{n^2} \left( n\frac{(2n+1)}{6} + \frac{(2n+1)}{6}\right) +a(b-a) +\cancelto{0}{a\frac{b-a}{n}}\right)  \\
-   &= \lim_{n\to \infty} (b-a) \left( a^2 + \frac{(b-a)^2}{n^2} \left( n\frac{(2n+1)}{6} + \frac{(2n+1)}{6}\right) +a(b-a) \right)  \\
+   &= \lim_{n\to \infty} (b-a) \left( a^2 + \frac{(b-a)^2}{n^2} n\frac{(2n+1)}{6} + \frac{(b-a)^2}{n^2} \frac{(2n+1)}{6}\right) +a(b-a) \right)  \\
    \end{aligned}\]
 
 \end{document}
