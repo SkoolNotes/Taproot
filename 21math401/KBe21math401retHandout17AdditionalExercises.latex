@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9623)}}    % original
-%\rhead{\textrmlf{Compiled }\#9623\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9624)}}    % original
+%\rhead{\textrmlf{Compiled }\#9624\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9623
+  \#9624
   \textrmlf{ on}
       \today
   }       % new date
@@ -221,7 +221,7 @@ In fact, I expect \[\begin{aligned}
 (see attached pages)
 
 Keep in mind \[\begin{aligned}
-   \sum_{k=1}^n
+   \sum_{k=1}^n af(x) = a\sum_{k=1}^n f(x)
    \end{aligned}\]
 
 \[\begin{aligned}
