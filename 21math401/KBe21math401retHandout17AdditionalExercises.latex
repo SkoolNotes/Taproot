@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9629)}}    % original
-%\rhead{\textrmlf{Compiled }\#9629\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9630)}}    % original
+%\rhead{\textrmlf{Compiled }\#9630\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9629
+  \#9630
   \textrmlf{ on}
       \today
   }       % new date
@@ -226,7 +226,7 @@ Keep in mind \[\begin{aligned}
    \end{aligned}\]
 
 \[\begin{aligned}
-   \int_a^b x^2 dx &= \lim_{n\to \infty} \sum_{k=1}^n \left( \frac{b-a}{n} \left( a+k\frac{b-a}{n}\right) ^2\right)
+   \int_a^b x^2 dx &= \lim_{n\to \infty} \sum_{k=1}^n \left( \frac{b-a}{n} \left( a+k\frac{b-a}{n}\right) ^2\right)\\
    \end{aligned}\]
 
 \end{document}
