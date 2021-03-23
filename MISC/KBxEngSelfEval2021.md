@@ -23,7 +23,7 @@ source:  #index
 	1) Without understanding the past we are doomed to repeat it. Also, by understanding where the remnants of the past exist in the modern day, we can create a better future.
 
 4) What are your goals for English for next year and beyond? What is next? Please be specific in highlighting at least two goals and giving some sense of how you might meet them.
-	1) I want to reduce the transition cost from my ideas to words on paper. This is something English class has already helped me do immensely, and something I want to continue improving on. The best way I have found to improve is with the practice given to me by English assignments. I also want to get better at analyzing poetry, something I found challenging in the last unit. 
+	1) I want to reduce the transition cost from my ideas to words on paper. This is something English class has already helped me do immensely, and something I want to continue improving on. The best way I have found to improve is with the practice given to me by English assignments. I also want to get better at analyzing poetry, something I found challenging in the last unit. I'm going to try and do this by getting more practice.
 
 
 
