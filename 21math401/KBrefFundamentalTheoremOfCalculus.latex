@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9719)}}    % original
-%\rhead{\textrmlf{Compiled }\#9719\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9720)}}    % original
+%\rhead{\textrmlf{Compiled }\#9720\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9719
+  \#9720
   \textrmlf{ on}
       \today
   }       % new date
@@ -201,6 +201,11 @@
 
 \hypertarget{formal-definition}{%
 \section{formal definition}\label{formal-definition}}
+
+The theorem comes in two parts, apparently
+
+\hypertarget{part-1}{%
+\subsection{part 1}\label{part-1}}
 
 \hypertarget{an-example}{%
 \section{an example}\label{an-example}}
