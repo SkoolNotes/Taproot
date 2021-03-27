@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9726)}}    % original
-%\rhead{\textrmlf{Compiled }\#9726\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9727)}}    % original
+%\rhead{\textrmlf{Compiled }\#9727\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9726
+  \#9727
   \textrmlf{ on}
       \today
   }       % new date
@@ -236,6 +236,10 @@ to itself.
   any integrable function and any continuous function has an
   anti-derivative
 \end{enumerate}
+
+\hypertarget{part-2-the-evaluation-theorem}{%
+\subsection{part 2: the evaluation
+theorem}\label{part-2-the-evaluation-theorem}}
 
 \hypertarget{an-example}{%
 \section{an example}\label{an-example}}
