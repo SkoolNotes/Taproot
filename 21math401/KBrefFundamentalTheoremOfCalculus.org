@@ -15,6 +15,9 @@
    #+end_quote
 *** intuition
 	Note that its $\int_{a}^{x} f(t) dt$ because $x$ is an argument to the function and $t$ is just the iteration variable.
+
+	Note that the integral can start anywhere to the left (arbitrary $a$) because that is removed as a constant when taking the derivative
+*** results
 * an example
   Imagine a function that has the bound of an integral as an argument:
   \[\begin{aligned}

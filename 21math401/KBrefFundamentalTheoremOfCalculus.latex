@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9722)}}    % original
-%\rhead{\textrmlf{Compiled }\#9722\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9723)}}    % original
+%\rhead{\textrmlf{Compiled }\#9723\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9722
+  \#9723
   \textrmlf{ on}
       \today
   }       % new date
@@ -219,6 +219,12 @@ F(x) = \int_{a}^{x} f(t) dt
 
 Note that its \(\int_{a}^{x} f(t) dt\) because \(x\) is an argument to
 the function and \(t\) is just the iteration variable.
+
+Note that the integral can start anywhere to the left (arbitrary \(a\))
+because that is removed as a constant when taking the derivative
+
+\hypertarget{results}{%
+\subsubsection{results}\label{results}}
 
 \hypertarget{an-example}{%
 \section{an example}\label{an-example}}
