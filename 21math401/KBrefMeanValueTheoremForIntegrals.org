@@ -5,5 +5,10 @@
   \[\begin{aligned}
   f(c) = \frac{1}{b-a} \int_{a}^{b} f(x)dx
   \end{aligned}\]
+  or equivalently,
+  \[\begin{aligned}
+  \int_{a}^{b} f(x) dx = f(c)(b-a)
+  \end{aligned}\]
+  for some $c \in [a, b]$
 
   #+end_quote

@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9715)}}    % original
-%\rhead{\textrmlf{Compiled }\#9715\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9716)}}    % original
+%\rhead{\textrmlf{Compiled }\#9716\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9715
+  \#9716
   \textrmlf{ on}
       \today
   }       % new date
@@ -200,7 +200,9 @@
 If \(f(X)\) is continuous over an interval \(\[a, b\]\), then there is
 at least one point \(c \in  [a, b]\) s.t. \[\begin{aligned}
 f(c) = \frac{1}{b-a} \int_{a}^{b} f(x)dx
-\end{aligned}\]
+\end{aligned}\] or equivalently, \[\begin{aligned}
+\int_{a}^{b} f(x) dx = f(c)(b-a)
+\end{aligned}\] for some \(c \in [a, b]\)
 \end{quote}
 
 \end{document}
