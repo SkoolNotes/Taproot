@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9717)}}    % original
-%\rhead{\textrmlf{Compiled }\#9717\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9718)}}    % original
+%\rhead{\textrmlf{Compiled }\#9718\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9717
+  \#9718
   \textrmlf{ on}
       \today
   }       % new date
@@ -209,6 +209,8 @@ f(c) = \frac{1}{b-a} \int_{a}^{b} f(x)dx
 \subsection{intuition}\label{intuition}}
 
 The mean of an interval will be less than the minimum and more than the
-maximum
+maximum value of \(f\) along that interval. If \(f\) is continuous along
+the interval, then by the intermediate value theorem, there must be some
+point where \(f(c)\) equals the mean value.
 
 \end{document}
