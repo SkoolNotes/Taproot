@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9729)}}    % original
-%\rhead{\textrmlf{Compiled }\#9729\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9730)}}    % original
+%\rhead{\textrmlf{Compiled }\#9730\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9729
+  \#9730
   \textrmlf{ on}
       \today
   }       % new date
@@ -250,6 +250,10 @@ any anti-derivative of \(f(x)\), then \[\begin{aligned}
 
 \hypertarget{intuition-1}{%
 \subsubsection{intuition}\label{intuition-1}}
+
+If you can find the anti-derivative, then the sum between the regions is
+just the difference in the anti-derivative, which makes sense. Basically
+contiguous areas add up.
 
 \hypertarget{an-example}{%
 \section{an example}\label{an-example}}

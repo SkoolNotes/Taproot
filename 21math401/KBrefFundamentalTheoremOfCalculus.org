@@ -29,6 +29,7 @@
    \end{aligned}\]
    #+end_quote
 *** intuition
+	If you can find the anti-derivative, then the sum between the regions is just the difference in the anti-derivative, which makes sense. Basically contiguous areas add up.
 * an example
   Imagine a function that has the bound of an integral as an argument:
   \[\begin{aligned}
