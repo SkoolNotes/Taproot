@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9669)}}    % original
-%\rhead{\textrmlf{Compiled }\#9669\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9719)}}    % original
+%\rhead{\textrmlf{Compiled }\#9719\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9669
+  \#9719
   \textrmlf{ on}
       \today
   }       % new date
@@ -192,12 +192,15 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{definition}{%
-\section{definition}\label{definition}}
+\hypertarget{loose-definition}{%
+\section{loose definition}\label{loose-definition}}
 
 \[\begin{aligned}
   \int \frac{d}{dx}f(x) dx = f(x)
   \end{aligned}\]
+
+\hypertarget{formal-definition}{%
+\section{formal definition}\label{formal-definition}}
 
 \hypertarget{an-example}{%
 \section{an example}\label{an-example}}
