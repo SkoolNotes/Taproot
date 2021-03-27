@@ -17,6 +17,8 @@
 	Note that its $\int_{a}^{x} f(t) dt$ because $x$ is an argument to the function and $t$ is just the iteration variable.
 
 	Note that the integral can start anywhere to the left (arbitrary $a$) because that is removed as a constant when taking the derivative
+
+	Proof is by taking the limit form of a derivative of the integrals to $x$ and $x+h$, and seeing that it collapses to the mean value. As the range of the mean value expression goes to zero, the value converges to itself.
 *** results
 **** any integrable function and any continuous function has an anti-derivative
 * an example
