@@ -6,6 +6,14 @@
 * formal definition
   The theorem comes in two parts, apparently
 ** part 1
+   #+begin_quote
+   If $f(x)$ is continuous over an interval $[a, b]$, and the function $F(x)$ is defined by
+   \[\begin{aligned}
+   F(x) = \int_{a}^{x} f(t) dt
+   \end{aligned}\]
+   then $F'(x) = f(x)$ over $[a, b]$.
+   #+end_quote
+*** intuition
 * an example
   Imagine a function that has the bound of an integral as an argument:
   \[\begin{aligned}

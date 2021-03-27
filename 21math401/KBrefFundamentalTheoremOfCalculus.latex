@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9720)}}    % original
-%\rhead{\textrmlf{Compiled }\#9720\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9721)}}    % original
+%\rhead{\textrmlf{Compiled }\#9721\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9720
+  \#9721
   \textrmlf{ on}
       \today
   }       % new date
@@ -206,6 +206,16 @@ The theorem comes in two parts, apparently
 
 \hypertarget{part-1}{%
 \subsection{part 1}\label{part-1}}
+
+\begin{quote}
+If \(f(x)\) is continuous over an interval \([a, b]\), and the function
+\(F(x)\) is defined by \[\begin{aligned}
+F(x) = \int_{a}^{x} f(t) dt
+\end{aligned}\] then \(F'(x) = f(x)\) over \([a, b]\).
+\end{quote}
+
+\hypertarget{intuition}{%
+\subsubsection{intuition}\label{intuition}}
 
 \hypertarget{an-example}{%
 \section{an example}\label{an-example}}
