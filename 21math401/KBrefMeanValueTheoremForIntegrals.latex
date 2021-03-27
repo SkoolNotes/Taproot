@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9713)}}    % original
-%\rhead{\textrmlf{Compiled }\#9713\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9715)}}    % original
+%\rhead{\textrmlf{Compiled }\#9715\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9713
+  \#9715
   \textrmlf{ on}
       \today
   }       % new date
@@ -193,7 +193,14 @@
 % DID YOU SET SPELL????
 
 \hypertarget{mean-value-theorem-for-integrals-1}{%
-\section{Mean value theorem for
-integrals}\label{mean-value-theorem-for-integrals-1}}
+\section{\texorpdfstring{Mean value theorem for integrals
+{\textsc{def}}}{Mean value theorem for integrals def}}\label{mean-value-theorem-for-integrals-1}}
+
+\begin{quote}
+If \(f(X)\) is continuous over an interval \(\[a, b\]\), then there is
+at least one point \(c \in  [a, b]\) s.t. \[\begin{aligned}
+f(c) = \frac{1}{b-a} \int_{a}^{b} f(x)dx
+\end{aligned}\]
+\end{quote}
 
 \end{document}
