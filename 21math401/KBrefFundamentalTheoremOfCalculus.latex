@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9723)}}    % original
-%\rhead{\textrmlf{Compiled }\#9723\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9724)}}    % original
+%\rhead{\textrmlf{Compiled }\#9724\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9723
+  \#9724
   \textrmlf{ on}
       \today
   }       % new date
@@ -225,6 +225,12 @@ because that is removed as a constant when taking the derivative
 
 \hypertarget{results}{%
 \subsubsection{results}\label{results}}
+
+\begin{enumerate}
+\item
+  any integrable function and any continuous function has an
+  anti-derivative
+\end{enumerate}
 
 \hypertarget{an-example}{%
 \section{an example}\label{an-example}}
