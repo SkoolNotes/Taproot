@@ -23,8 +23,13 @@
 **** any integrable function and any continuous function has an anti-derivative
 ** part 2: the evaluation theorem
    #+begin_quote
-   If $f(x)$ is continuous over the interval $[a, b]$ and $F(x)$ is any antiderivative 
+   If $f(x)$ is continuous over the interval $[a, b]$ and $F(x)$ is any anti-derivative of $f(x)$, then
+   \[\begin{aligned}
+   \int_{a}^{b} f(x) dx = F(b) - F(a)
+   \end{aligned}\]
    #+end_quote
+*** intuition
+	If you can find the antiderivative, then the sum between the reigons is just 
 * an example
   Imagine a function that has the bound of an integral as an argument:
   \[\begin{aligned}

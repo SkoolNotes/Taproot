@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9727)}}    % original
-%\rhead{\textrmlf{Compiled }\#9727\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9729)}}    % original
+%\rhead{\textrmlf{Compiled }\#9729\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9727
+  \#9729
   \textrmlf{ on}
       \today
   }       % new date
@@ -240,6 +240,16 @@ to itself.
 \hypertarget{part-2-the-evaluation-theorem}{%
 \subsection{part 2: the evaluation
 theorem}\label{part-2-the-evaluation-theorem}}
+
+\begin{quote}
+If \(f(x)\) is continuous over the interval \([a, b]\) and \(F(x)\) is
+any anti-derivative of \(f(x)\), then \[\begin{aligned}
+\int_{a}^{b} f(x) dx = F(b) - F(a)
+\end{aligned}\]
+\end{quote}
+
+\hypertarget{intuition-1}{%
+\subsubsection{intuition}\label{intuition-1}}
 
 \hypertarget{an-example}{%
 \section{an example}\label{an-example}}
