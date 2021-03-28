@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9736)}}    % original
-%\rhead{\textrmlf{Compiled }\#9736\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9737)}}    % original
+%\rhead{\textrmlf{Compiled }\#9737\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9736
+  \#9737
   \textrmlf{ on}
       \today
   }       % new date
@@ -213,6 +213,7 @@ has an eigenvalue.
 \end{quote}
 
 \(W\) is given as a complex vector space, so to have no eigenvalues, it
-must be zero or infinite-dimensional.
+must be zero or infinite-dimensional. If the subspace is zero, then all
+subspaces must also be zero.
 
 \end{document}
