@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9740)}}    % original
-%\rhead{\textrmlf{Compiled }\#9740\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9741)}}    % original
+%\rhead{\textrmlf{Compiled }\#9741\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9740
+  \#9741
   \textrmlf{ on}
       \today
   }       % new date
@@ -217,7 +217,7 @@ must be zero or infinite-dimensional. If the subspace is zero, then all
 subspaces must also be zero. Thus, only the infinite-dimensional case
 remains to be shown.
 
-A subspace \(U\) of \(W\) is invariant under \(T\) if and only if
-\(T\big|_U \in \mathcal{L} (U)\).
+For all subspaces \(U\) of \(W\) invariant under \(T\), \(T\big|_U\)
+exists in \(\mathcal{L} (U)\).
 
 \end{document}
