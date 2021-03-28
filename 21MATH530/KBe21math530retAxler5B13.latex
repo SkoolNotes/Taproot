@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9733)}}    % original
-%\rhead{\textrmlf{Compiled }\#9733\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9735)}}    % original
+%\rhead{\textrmlf{Compiled }\#9735\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9733
+  \#9735
   \textrmlf{ on}
       \today
   }       % new date
@@ -204,5 +204,12 @@ has no eigenvalues. Prove that every subspace of \(W\) invariant under
 
 \hypertarget{proof}{%
 \section{Proof}\label{proof}}
+
+5.21 states
+
+\begin{quote}
+Every operator on a finite-dimensional, nonzero, complex vector space
+has an eigenvalue.
+\end{quote}
 
 \end{document}
