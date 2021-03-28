@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9758)}}    % original
-%\rhead{\textrmlf{Compiled }\#9758\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9759)}}    % original
+%\rhead{\textrmlf{Compiled }\#9759\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9758
+  \#9759
   \textrmlf{ on}
       \today
   }       % new date
@@ -198,7 +198,10 @@
 
 \begin{quote}
 Suppose \(T \in  \mathcal{L} (V)\) and \(\lambda \in \mathbb{F}\). The
-\emph{eigenspace} of \(T\) corresponding to \(\lambda\)
+\emph{eigenspace} of \(T\) corresponding to \(\lambda\) denoted
+\(E(\lambda, T)\), is defined by \[\begin{aligned}
+E(\lambda , T) = \onull(T-\lambda I)
+\end{aligned}\]
 \end{quote}
 
 \end{document}
