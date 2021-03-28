@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9752)}}    % original
-%\rhead{\textrmlf{Compiled }\#9752\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9753)}}    % original
+%\rhead{\textrmlf{Compiled }\#9753\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9752
+  \#9753
   \textrmlf{ on}
       \today
   }       % new date
@@ -213,7 +213,7 @@ has an eigenvalue.
 \end{quote}
 
 \(W\) is given as a complex vector space, so to have no eigenvalues, it
-must be zero or infinite-dimensional. If the subspace is zero, then all
+must be zero or infinite-dimensional. If \(W\) is zero, then all
 subspaces must also be zero. Thus, only the infinite-dimensional case
 remains to be shown.
 
@@ -225,6 +225,13 @@ finite-dimensional. By 5.21, \(T\big|_V\) has an eigenvalue. Then, there
 exists some \(\lambda \in \mathbb{C} \) and some \(v \neq 0 \in V\) s.t.
 \[\begin{aligned}
   T\big|_V(v) = \lambda v
-  \end{aligned}\] However, \(T\big|_V\) is defined by \(v \mapsto Tv\)
+  \end{aligned}\] However, \(T\big|_V\) is defined by \(v \mapsto Tv\),
+which implies that \[\begin{aligned}
+  Tv = T\big|_U(v) = \lambda v
+  \end{aligned}\] for \(v \neq 0 \in W\), which makes \(\lambda\) an
+eigenvalue of \(T\). This contradicts \(T\) having no eigenvalues, so
+there must be no subspaces \(V\) invariant under \(T\) that are nonzero
+and finite-dimensional. Thus, all such subspaces must be \(0\) on
+infinite-dimensional. \hfill ▪
 
 \end{document}
