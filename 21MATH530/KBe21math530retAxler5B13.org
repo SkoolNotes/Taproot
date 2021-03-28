@@ -12,3 +12,5 @@
   $W$ is given as a complex vector space, so to have no eigenvalues, it must be zero or infinite-dimensional. If the subspace is zero, then all subspaces must also be zero. Thus, only the infinite-dimensional case remains to be shown.
 
   By definition (5.14), for all subspaces $U$ of $W$ invariant under $T$, $T\big|_U$ exists in $\mathcal{L} (U)$.
+
+  Suppose for the sake of contradiction that $U$ has an eigenvalue. Then, there exists some $$
