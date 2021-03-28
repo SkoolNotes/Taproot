@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9747)}}    % original
-%\rhead{\textrmlf{Compiled }\#9747\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9748)}}    % original
+%\rhead{\textrmlf{Compiled }\#9748\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9747
+  \#9748
   \textrmlf{ on}
       \today
   }       % new date
@@ -217,11 +217,13 @@ must be zero or infinite-dimensional. If the subspace is zero, then all
 subspaces must also be zero. Thus, only the infinite-dimensional case
 remains to be shown.
 
-By definition (5.14), for all subspaces \(U\) of \(W\) invariant under
-\(T\), \(T\big|_U\) exists in \(\mathcal{L} (U)\).
+By definition (5.14), for all subspaces \(V\) of \(W\) invariant under
+\(T\), \(T\big|_V\) exists in \(\mathcal{L} (V)\).
 
 Suppose for the sake of contradiction that \(U\) has an eigenvalue.
 Then, there exists some \(\lambda \in \mathbb{C} \) and some
-\(v \neq 0 \in U\)
+\(v \neq 0 \in V\) s.t. \[\begin{aligned}
+  T\big|_U(v) = \lambda v
+  \end{aligned}\]
 
 \end{document}
