@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9748)}}    % original
-%\rhead{\textrmlf{Compiled }\#9748\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9749)}}    % original
+%\rhead{\textrmlf{Compiled }\#9749\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9748
+  \#9749
   \textrmlf{ on}
       \today
   }       % new date
@@ -220,9 +220,10 @@ remains to be shown.
 By definition (5.14), for all subspaces \(V\) of \(W\) invariant under
 \(T\), \(T\big|_V\) exists in \(\mathcal{L} (V)\).
 
-Suppose for the sake of contradiction that \(U\) has an eigenvalue.
-Then, there exists some \(\lambda \in \mathbb{C} \) and some
-\(v \neq 0 \in V\) s.t. \[\begin{aligned}
+Suppose for the sake of contradiction that \(V\) is nonzero and
+finite-dimensional. \(T\) has an eigenvalue. Then, there exists some
+\(\lambda \in \mathbb{C} \) and some \(v \neq 0 \in V\) s.t.
+\[\begin{aligned}
   T\big|_U(v) = \lambda v
   \end{aligned}\]
 

@@ -13,7 +13,7 @@
 
   By definition (5.14), for all subspaces $V$ of $W$ invariant under $T$, $T\big|_V$ exists in $\mathcal{L} (V)$.
 
-  Suppose for the sake of contradiction that $U$ has an eigenvalue. Then, there exists some \(\lambda \in \mathbb{C} \) and some $v \neq 0 \in V$ s.t.
+  Suppose for the sake of contradiction that $V$ is nonzero and finite-dimensional. $T$ has an eigenvalue. Then, there exists some \(\lambda \in \mathbb{C} \) and some $v \neq 0 \in V$ s.t.
   \[\begin{aligned}
   T\big|_U(v) = \lambda v
   \end{aligned}\]
