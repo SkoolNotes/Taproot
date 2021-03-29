@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9766)}}    % original
-%\rhead{\textrmlf{Compiled }\#9766\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9767)}}    % original
+%\rhead{\textrmlf{Compiled }\#9767\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9766
+  \#9767
   \textrmlf{ on}
       \today
   }       % new date
@@ -219,5 +219,8 @@ sum}\label{axler5.38-sum-of-eigenspaces-is-a-direct-sum}}
 
 Because \href{KBrefEigenvaluesAndEigenVectors.org}{Axler5.10 linearly
 independent eigenvectors}
+
+Also, the dimension of the sum of eigenspaces will be less-equal than
+the dimension of the containing space (duh)
 
 \end{document}
