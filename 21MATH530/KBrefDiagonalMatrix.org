@@ -12,5 +12,7 @@
 ** results
 *** Axler5.41 conditions equivalent to diagonalizability
 	#+begin_quote
-	Suppose $V$ is finite-dimensional  and $T \in  \mathcal{L} (V)$. Let $\lambda_1, \ldots, \lambda_m$ denote the destinct eigenvalues of $T$. Then the following are equivalent:
+	Suppose $V$ is finite-dimensional  and $T \in  \mathcal{L} (V)$. Let $\lambda_1, \ldots, \lambda_m$ denote the distinct eigenvalues of $T$. Then the following are equivalent:
+	1. $T$ is diagonalizable
+	2. $V$ has a basis consisting of eigenvaules of $T$
 	#+end_quote
