@@ -1,4 +1,4 @@
-#+TITLE: Diagonal Matrix
+#+TITLE: Diagonal Matrix and Diagonalizability
 * diagonal matrix                                                       :def:
   #+begin_quote
   A /diagonal matrix/ is a square matrix that is zero everywhere except possibly along the [[file:KBrefDiagonalOfAMatrix.org][diagonal]].
@@ -6,3 +6,6 @@
 ** results
 *** every diagonal matrix is upper triangular
 * diagonalizable                                                        :def:
+  #+begin_quote
+  An operator $T \in  \mathcal{L} (V)$ is called /diagonalizable/ if the operator has a diagonal matrix with respect to some basis of $V$.
+  #+end_quote
