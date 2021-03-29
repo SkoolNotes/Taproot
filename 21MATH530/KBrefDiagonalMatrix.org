@@ -14,5 +14,10 @@
 	#+begin_quote
 	Suppose $V$ is finite-dimensional  and $T \in  \mathcal{L} (V)$. Let $\lambda_1, \ldots, \lambda_m$ denote the distinct eigenvalues of $T$. Then the following are equivalent:
 	1. $T$ is diagonalizable
-	2. $V$ has a basis consisting of eigenvaules of $T$
+	2. $V$ has a basis consisting of eigenvalues of $T$
+	3. there exist 1-dimensional subspaces $U_1, \ldots, U_n$ of $V$, each invariant under $T$, s.t.
+	\[\begin{aligned}
+    V = U_1
+	\end{aligned}\]
+
 	#+end_quote

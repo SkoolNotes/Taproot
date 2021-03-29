@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9772)}}    % original
-%\rhead{\textrmlf{Compiled }\#9772\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9773)}}    % original
+%\rhead{\textrmlf{Compiled }\#9773\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9772
+  \#9773
   \textrmlf{ on}
       \today
   }       % new date
@@ -235,8 +235,15 @@ Suppose \(V\) is finite-dimensional and \(T \in  \mathcal{L} (V)\). Let
 \item
   \(T\) is diagonalizable
 \item
-  \(V\) has a basis consisting of eigenvaules of \(T\)
+  \(V\) has a basis consisting of eigenvalues of \(T\)
+\item
+  there exist 1-dimensional subspaces \(U_1, \ldots, U_n\) of \(V\),
+  each invariant under \(T\), s.t.
 \end{enumerate}
+
+\[\begin{aligned}
+V = U_1
+\end{aligned}\]
 \end{quote}
 
 \end{document}
