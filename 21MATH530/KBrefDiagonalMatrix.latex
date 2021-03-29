@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9770)}}    % original
-%\rhead{\textrmlf{Compiled }\#9770\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9771)}}    % original
+%\rhead{\textrmlf{Compiled }\#9771\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9770
+  \#9771
   \textrmlf{ on}
       \today
   }       % new date
@@ -224,5 +224,11 @@ if the operator has a diagonal matrix with respect to some basis of
 \hypertarget{axler5.41-conditions-equivalent-to-diagonalizability}{%
 \subsubsection{Axler5.41 conditions equivalent to
 diagonalizability}\label{axler5.41-conditions-equivalent-to-diagonalizability}}
+
+\begin{quote}
+Suppose \(V\) is finite-dimensional and \(T \in  \mathcal{L} (V)\). Let
+\(\lambda_1, \ldots, \lambda_m\) denote the destinct eigenvalues of
+\(T\). Then the following are equivalent:
+\end{quote}
 
 \end{document}
