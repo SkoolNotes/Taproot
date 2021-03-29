@@ -19,6 +19,6 @@
   \end{aligned}\]
   However, $T\big|_V$ is defined by $v \mapsto Tv$, which implies that
   \[\begin{aligned}
-  Tv = T\big|_U(v) = \lambda v
+  Tv = T\big|_V(v) = \lambda v
   \end{aligned}\]
-  for $v \neq 0 \in W$, which makes $\lambda$ an eigenvalue of $T$. This contradicts $T$ having no eigenvalues, so there must be no subspaces $V$ invariant under $T$ that are nonzero and finite-dimensional. Thus, all such subspaces must be $0$ on infinite-dimensional. \hfill \blacksquare
+  for $v \neq 0 \in W$, which makes $\lambda$ an eigenvalue of $T$. This contradicts $T$ having no eigenvalues, so there must be no subspaces $V$ invariant under $T$ that are nonzero and finite-dimensional. Thus, all such subspaces must be $0$ or infinite-dimensional. \hfill \blacksquare
