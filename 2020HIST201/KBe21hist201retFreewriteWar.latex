@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9780)}}    % original
-%\rhead{\textrmlf{Compiled }\#9780\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9781)}}    % original
+%\rhead{\textrmlf{Compiled }\#9781\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9780
+  \#9781
   \textrmlf{ on}
       \today
   }       % new date
@@ -232,5 +232,10 @@ everyone.}\label{however-is-goodness-relative-there-seem-to-be-some-things-which
 \subsection{if there is something that all parties agree are good, then
 that would be a just
 war?}\label{if-there-is-something-that-all-parties-agree-are-good-then-that-would-be-a-just-war}}
+
+\hypertarget{maybe-there-is-a-real-ground-truth-good-but-we-cant-know-what-it-is}{%
+\subsection{maybe there is a real ground-truth good, but we can't know
+what it
+is}\label{maybe-there-is-a-real-ground-truth-good-but-we-cant-know-what-it-is}}
 
 \end{document}
