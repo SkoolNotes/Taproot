@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9769)}}    % original
-%\rhead{\textrmlf{Compiled }\#9769\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9770)}}    % original
+%\rhead{\textrmlf{Compiled }\#9770\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9769
+  \#9770
   \textrmlf{ on}
       \today
   }       % new date
@@ -217,5 +217,12 @@ An operator \(T \in  \mathcal{L} (V)\) is called \emph{diagonalizable}
 if the operator has a diagonal matrix with respect to some basis of
 \(V\).
 \end{quote}
+
+\hypertarget{results-1}{%
+\subsection{results}\label{results-1}}
+
+\hypertarget{axler5.41-conditions-equivalent-to-diagonalizability}{%
+\subsubsection{Axler5.41 conditions equivalent to
+diagonalizability}\label{axler5.41-conditions-equivalent-to-diagonalizability}}
 
 \end{document}
