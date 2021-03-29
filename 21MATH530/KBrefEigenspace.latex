@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9760)}}    % original
-%\rhead{\textrmlf{Compiled }\#9760\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9763)}}    % original
+%\rhead{\textrmlf{Compiled }\#9763\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9760
+  \#9763
   \textrmlf{ on}
       \today
   }       % new date
@@ -208,5 +208,9 @@ vector.
 
 \hypertarget{results}{%
 \subsection{results}\label{results}}
+
+\hypertarget{lambda-is-an-eigenvalue-of-t-iff-elambda-t-neq-0}{%
+\subsubsection{\texorpdfstring{\(\lambda\) is an eigenvalue of \(T\) iff
+\(E(\lambda ,T) \neq  \{0\}\)}{\textbackslash lambda is an eigenvalue of T iff E(\textbackslash lambda ,T) \textbackslash neq  \textbackslash\{0\textbackslash\}}}\label{lambda-is-an-eigenvalue-of-t-iff-elambda-t-neq-0}}
 
 \end{document}
