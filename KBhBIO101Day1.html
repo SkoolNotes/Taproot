@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title> BIO101 Biology Day 1 </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>BIO101</strong> Biology Day 1 </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBISOSMasterIndex"><span><strong>[[</strong></span><strong>KBISOSMasterIndex</strong><span><strong>]]</strong></span></a></span></p>
+            <h1 id="biology-day-1">Biology Day 1</h1>
+            <ol>
+            <li><p>What characteristics unite all life on earth (plants, animals, fungi, bacteria (and archaea))? Describe these characteristics <strong>in terms of the biological macromolecules</strong> you learned about in the fall.</p></li>
+            </ol>
+            <p>All life forms contain at least one cell that includes genomic information stored as DNA — a compound formed by nucleic acids, a form of seperation from the outside — through the use of a phosolipid layer, and other constituent “cellular machinary” aimed at synthesizing proteans — created by synthesizing amino acids by the ribosome— for their functions; the functional proteins are all coded using three-letter codons that code for specific amino acids to create the proteins in question.</p>
+            <p>Each living cell metabolizes, and they all synthesize ATP, a large molecule, used by all for energy to drive cellurar processses. All cells reproduce to share their DNA.</p>
+            <ol>
+            <li><p>The video revealed that all living things share a core set of 200-300 genes that have important functions in organisms (although the sequences of the genes vary somewhat from organism to organism). Based on what you learned in the fall, <strong>predict what kinds of proteins might be encoded by these core genes and share the reasoning behind your ideas</strong>.</p></li>
+            </ol>
+            <p>Such shared genes would probably drive the actions mentioned in question 1 — especially on the front of DNA translation, transcription which would synthesize proteins that then helps to create the specialised parts of the cell.</p>
+            <p>Furthermore, the production of energy, with ATP being the shared molecular storage thereof, will probably involve a similar pathway.</p>
+            <p>Hence, the genes perhaps encode the creation of mitocondria (for energy), ribosomes and the basic machinary of creating m+tRNA (RNA polymerease), and the foundations of cell wall/membranes (the orientation of phospholipids) which are fundimentally common to all cells.</p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

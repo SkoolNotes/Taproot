@@ -5,6 +5,7 @@
 
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{amsfonts}
 
 \usepackage[normalem]{ulem}
 
@@ -16,6 +17,11 @@
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
 
 \usepackage{enumitem}
 \setlistdepth{9}
@@ -31,6 +37,9 @@
 \setlist[itemize,9]{label=\textbullet}
 
 \renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -130,11 +139,16 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8061)}}    % original
-%\rhead{\textrmlf{Compiled }\#8061\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8061\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9793)}}    % original
+%\rhead{\textrmlf{Compiled }\#9793\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#9793
+  \textrmlf{ on}
+      \today
+  }       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -169,10 +183,15 @@
     \end{center}
 }
 
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
+\textbf{Source}:\thinspace
 {\href{http://taproot.shabang.cf/relay?request=KBPhysicsMasterIndex}{\tiny\textulf{[[}\textbf{KBPhysicsMasterIndex}\textulf{]]}}}\thinspace
 
 \hypertarget{special-relativity}{%
@@ -411,7 +430,8 @@ at \%c, \(\gamma(pc) = \frac{1}{\sqrt{1-pc^2}}\)
 \subsection{Time Dilation}\label{time-dilation}}
 
 Should Ted be moving at a velocity \(V\) according to the refrence frame
-of Sally. Time \(t\) for Ted would be \(\gamma \times t\) for sally.
+of Sally. Time \(t'\) for Ted would be \(\gamma \times t' = t\) for
+sally.
 
 \hypertarget{length-contraction}{%
 \subsection{Length Contraction}\label{length-contraction}}
@@ -424,5 +444,14 @@ Ted would be \(\frac{D}{\gamma}\) for sally.
 
 =\textgreater{} ``Finding the distance to origin, and multiply by
 gamma''
+
+\hypertarget{linear-momentum}{%
+\subsection{Linear Momentum}\label{linear-momentum}}
+
+\begin{figure}
+\centering
+\includegraphics{2020PHYS201/linearmomentum.png}
+\caption{Linear Momentum}
+\end{figure}
 
 \end{document}
