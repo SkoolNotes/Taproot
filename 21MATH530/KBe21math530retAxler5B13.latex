@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9754)}}    % original
-%\rhead{\textrmlf{Compiled }\#9754\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9761)}}    % original
+%\rhead{\textrmlf{Compiled }\#9761\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9754
+  \#9761
   \textrmlf{ on}
       \today
   }       % new date
@@ -212,10 +212,10 @@ Every operator on a finite-dimensional, nonzero, complex vector space
 has an eigenvalue.
 \end{quote}
 
-\(W\) is given as a complex vector space, so to have no eigenvalues, it
-must be zero or infinite-dimensional. If \(W\) is zero, then all
-subspaces must also be zero. Thus, only the infinite-dimensional case
-remains.
+\(W\) is given as a complex vector space, so for \(T\) to have no
+eigenvalues, it must be zero or infinite-dimensional. If \(W\) is zero,
+then all subspaces must also be zero. Thus, only the
+infinite-dimensional case remains.
 
 By definition (5.14), for all subspaces \(V\) of \(W\) invariant under
 \(T\), \(T\big|_V\) exists in \(\mathcal{L} (V)\).
