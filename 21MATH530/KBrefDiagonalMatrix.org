@@ -28,5 +28,7 @@
 	If $T\in \mathcal{L} (V)$ has $\odim V$ distinct eigenvalues, then $T$ is diagonalizable.
 	#+end_quote
 **** intuition
-	 Because distinct eigenvalues correspond to linearly independent eigenvectors, so there will be enough linearly independent eigenvecs to form a basis and thus a diagonal matrix
+	 Because distinct eigenvalues correspond to linearly independent eigenvectors, so there will be enough linearly independent eigenvecs to form a basis and thus a diagonal matrix.
+
+	 In fact, we just need the geometric multiplicities to add up (a result Axler promises in later chapters)
 ***
