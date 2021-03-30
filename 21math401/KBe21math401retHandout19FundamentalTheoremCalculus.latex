@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9804)}}    % original
-%\rhead{\textrmlf{Compiled }\#9804\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9805)}}    % original
+%\rhead{\textrmlf{Compiled }\#9805\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9804
+  \#9805
   \textrmlf{ on}
       \today
   }       % new date
@@ -199,5 +199,13 @@ calculus }
 
 \hypertarget{complete-the-table}{%
 \subsection{complete the table}\label{complete-the-table}}
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+\endhead
+x & 0 & 1 & 2 & 3 & 4 \\
+F(x) & 0 & \(\frac{4}{3}\) & \(\frac{8}{3}\) & \(\frac{4}{3}\) & \\
+\bottomrule
+\end{longtable}
 
 \end{document}
