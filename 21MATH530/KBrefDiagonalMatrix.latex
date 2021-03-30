@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9859)}}    % original
-%\rhead{\textrmlf{Compiled }\#9859\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9860)}}    % original
+%\rhead{\textrmlf{Compiled }\#9860\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9859
+  \#9860
   \textrmlf{ on}
       \today
   }       % new date
@@ -258,5 +258,10 @@ V = U_1 \oplus \cdots \oplus U_n
 \hypertarget{axler5.44-enough-eigenvalues-implies-diagonalizability}{%
 \subsubsection{Axler5.44 Enough eigenvalues implies
 diagonalizability}\label{axler5.44-enough-eigenvalues-implies-diagonalizability}}
+
+\begin{quote}
+If \(T\in \mathcal{L} (V)\) has \(\odim V\) distinct eigenvalues, then
+\(T\) is diagonalizable.
+\end{quote}
 
 \end{document}
