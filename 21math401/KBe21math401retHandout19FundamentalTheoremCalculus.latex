@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9803)}}    % original
-%\rhead{\textrmlf{Compiled }\#9803\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9804)}}    % original
+%\rhead{\textrmlf{Compiled }\#9804\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9803
+  \#9804
   \textrmlf{ on}
       \today
   }       % new date
@@ -193,6 +193,11 @@ calculus }
 
 % DID YOU SET SPELL????
 
+\hypertarget{let-fx-int_0x-ft-dt}{%
+\section{\texorpdfstring{Let
+\(F(x) = \int_{0}^{x} f(t) dt\)}{Let F(x) = \textbackslash int\_\{0\}\^{}\{x\} f(t) dt}}\label{let-fx-int_0x-ft-dt}}
 
+\hypertarget{complete-the-table}{%
+\subsection{complete the table}\label{complete-the-table}}
 
 \end{document}
