@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9830)}}    % original
-%\rhead{\textrmlf{Compiled }\#9830\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9831)}}    % original
+%\rhead{\textrmlf{Compiled }\#9831\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9830
+  \#9831
   \textrmlf{ on}
       \today
   }       % new date
@@ -302,5 +302,8 @@ down, by up to the range of the function.
 
 \hypertarget{f_3x-int_02x-ft-dt}{%
 \subsection{\texorpdfstring{\(F_3(x) = \int_{0}^{2x} f(t) dt\)}{F\_3(x) = \textbackslash int\_\{0\}\^{}\{2x\} f(t) dt}}\label{f_3x-int_02x-ft-dt}}
+
+\(F_3(x) = F(2x)\) which is a parent function transformation which
+compresses the graph along the x-axis.
 
 \end{document}
