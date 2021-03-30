@@ -48,3 +48,4 @@
    $F(x)$ but reflected across the x-axis (negated)
 
 ** $F_2(x) = \int_{0}^{x} f(-t) dt$
+   $f$ is an odd function so $f(-t) = -f(t)$ so $F_2 = F_1$
