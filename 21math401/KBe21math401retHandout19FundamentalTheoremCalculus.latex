@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9847)}}    % original
-%\rhead{\textrmlf{Compiled }\#9847\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9848)}}    % original
+%\rhead{\textrmlf{Compiled }\#9848\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9847
+  \#9848
   \textrmlf{ on}
       \today
   }       % new date
@@ -326,5 +326,11 @@ functions}\label{derivatives-of-integral-functions}}
 
 \hypertarget{fx-int_-1x2-sint3-1-dt}{%
 \subsection{\texorpdfstring{\(F(x) = \int_{-1}^{x^2} \sin(t^3-1) dt\)}{F(x) = \textbackslash int\_\{-1\}\^{}\{x\^{}2\} \textbackslash sin(t\^{}3-1) dt}}\label{fx-int_-1x2-sint3-1-dt}}
+
+\[\begin{aligned}
+   f(x) &= \int_{-1}^{x} \sin(t^3-1) dt\\
+   F(x) &= f(x^2)\\
+   \frac{d}{dx}F(x) &= \frac{d}{dx}f(x^2)\\
+   \end{aligned}\]
 
 \end{document}
