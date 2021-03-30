@@ -35,7 +35,9 @@
   The other columns are the same, because $H(x) = F(x)$ and $G(x) = H(x)-\frac{8}{3}$.
 
 * why does it work over the entire domain?
-  The argument for each cell is the same: it should work across the domain because the function is periodic.
+  The argument for each cell is the same: it should work across the domain because those are the points where the derivative of $F(x)$ (which is $f(x)$) is zero and function is periodic.
+
+  $F(x)$ increases when $f(x)$ is positive.
 
 * family of functions
   Changing the 'zero point' of the derivative just shifts the graph up and down, by up to the range of the function.
