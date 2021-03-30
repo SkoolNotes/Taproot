@@ -60,3 +60,8 @@
 ** $F_5(x) = \int_{0}^{x} |f(t)| dt$
    Instead of being a periodic function, this function will be even (all the decreasing parts of $F(x)$ become increasing with the same shape)
    [[file:KBe21math401ret19src7e.png]]
+
+
+* derivatives of integral functions
+
+** $F(x) = \int_{-1}^{x^2} \sin(t^3-1) dt$
