@@ -49,3 +49,5 @@ A same idea as Phosophilids, but instead in a big wad of Phosolipids. this arran
 
 ## Steroids
 ![Screen Shot 2020-09-11 at 2.43.35 PM.png](./Screen Shot 2020-09-11 at 2.43.35 PM.png)
+
+St
