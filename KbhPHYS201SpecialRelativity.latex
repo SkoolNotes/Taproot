@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9795)}}    % original
-%\rhead{\textrmlf{Compiled }\#9795\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9796)}}    % original
+%\rhead{\textrmlf{Compiled }\#9796\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9795
+  \#9796
   \textrmlf{ on}
       \today
   }       % new date
@@ -430,7 +430,8 @@ at \%c, \(\gamma(pc) = \frac{1}{\sqrt{1-pc^2}}\)
 \subsection{Time Dilation}\label{time-dilation}}
 
 Should Ted be moving at a velocity \(V\) according to the refrence frame
-of Sally. Time \(t\) for Ted would be \(\gamma \times t\) for sally.
+of Sally. Time \(t'\) for Ted would be \(\gamma \times t' = t\) for
+sally.
 
 \hypertarget{length-contraction}{%
 \subsection{Length Contraction}\label{length-contraction}}
@@ -443,5 +444,14 @@ Ted would be \(\frac{D}{\gamma}\) for sally.
 
 =\textgreater{} ``Finding the distance to origin, and multiply by
 gamma''
+
+\hypertarget{linear-momentum}{%
+\subsection{Linear Momentum}\label{linear-momentum}}
+
+\begin{figure}
+\centering
+\includegraphics{2020PHYS201/linearmomentum.png}
+\caption{Linear Momentum}
+\end{figure}
 
 \end{document}
