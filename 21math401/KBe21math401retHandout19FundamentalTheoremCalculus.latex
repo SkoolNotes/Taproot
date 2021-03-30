@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9823)}}    % original
-%\rhead{\textrmlf{Compiled }\#9823\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9824)}}    % original
+%\rhead{\textrmlf{Compiled }\#9824\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9823
+  \#9824
   \textrmlf{ on}
       \today
   }       % new date
@@ -277,5 +277,11 @@ domain?}\label{why-does-it-work-over-the-entire-domain}}
 
 The argument for each cell is the same: it should work across the domain
 because the function is periodic.
+
+\hypertarget{family-of-functions}{%
+\section{family of functions}\label{family-of-functions}}
+
+Changing the 'zero point' of the derivative just shifts the graph up and
+down, by up to the range of the function.
 
 \end{document}
