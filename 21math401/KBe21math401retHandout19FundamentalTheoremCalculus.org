@@ -33,3 +33,6 @@
   | increases | [4x, 4x+2] |        |        |
   | decreases | [4x-2, 4x] |        |        |
   The other columns are the same, because $H(x) = F(x)$ and $G(x) = H(x)-\frac{8}{3}$.
+
+* why does it work over the entire domain?
+  The argument for each cell is the same: it should work across the domain because the function is periodic.
