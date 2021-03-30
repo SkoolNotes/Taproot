@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9826)}}    % original
-%\rhead{\textrmlf{Compiled }\#9826\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9827)}}    % original
+%\rhead{\textrmlf{Compiled }\#9827\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9826
+  \#9827
   \textrmlf{ on}
       \today
   }       % new date
@@ -292,5 +292,7 @@ down, by up to the range of the function.
 
 \hypertarget{f_1x-int_x0-ft-dt}{%
 \subsection{\texorpdfstring{\(F_1(x) = \int_{x}^{0} f(t) dt\)}{F\_1(x) = \textbackslash int\_\{x\}\^{}\{0\} f(t) dt}}\label{f_1x-int_x0-ft-dt}}
+
+\(F(x)\) but reflected across the x-axis (negated)
 
 \end{document}
