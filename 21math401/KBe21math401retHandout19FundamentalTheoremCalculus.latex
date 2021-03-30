@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9819)}}    % original
-%\rhead{\textrmlf{Compiled }\#9819\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9821)}}    % original
+%\rhead{\textrmlf{Compiled }\#9821\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9819
+  \#9821
   \textrmlf{ on}
       \today
   }       % new date
@@ -261,7 +261,7 @@ same as 1b
 \toprule
 \endhead
 & \(F(x)\) & \(G(x)\) & \(H(x)\) \\
-maximum & & & \\
+maximum & 4x+2 & & \\
 minimum & & & \\
 increases & & & \\
 decreases & & & \\
