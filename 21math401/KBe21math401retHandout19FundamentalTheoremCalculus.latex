@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9817)}}    % original
-%\rhead{\textrmlf{Compiled }\#9817\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9818)}}    % original
+%\rhead{\textrmlf{Compiled }\#9818\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9817
+  \#9818
   \textrmlf{ on}
       \today
   }       % new date
@@ -248,5 +248,10 @@ H(x) & \(0\) & \(\frac{4}{3}\) & \(\frac{8}{3}\) & \(\frac{4}{3}\) &
 \(0\) \\
 \bottomrule
 \end{longtable}
+
+\hypertarget{sketch-the-function-2}{%
+\subsection{sketch the function}\label{sketch-the-function-2}}
+
+same as 1b
 
 \end{document}
