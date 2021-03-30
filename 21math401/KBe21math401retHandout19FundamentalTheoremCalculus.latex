@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9835)}}    % original
-%\rhead{\textrmlf{Compiled }\#9835\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9838)}}    % original
+%\rhead{\textrmlf{Compiled }\#9838\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9835
+  \#9838
   \textrmlf{ on}
       \today
   }       % new date
@@ -310,6 +310,7 @@ compresses the graph along the x-axis.
 \subsection{\texorpdfstring{\(F_4(x) = \int_{0}^{x} f(|t|) dt\)}{F\_4(x) = \textbackslash int\_\{0\}\^{}\{x\} f(\textbar t\textbar) dt}}\label{f_4x-int_0x-ft-dt}}
 
 For \(x \ge 0\), \(F_4(x) = F(x)\). However, for \(x < 0\), the function
-will be the negative of the \$x ≥ 0 \$ case because
+will be the negative of the \$x ≥ 0 \$ case because the integral is from
+right to left.
 
 \end{document}
