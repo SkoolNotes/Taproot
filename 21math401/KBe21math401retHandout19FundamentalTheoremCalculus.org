@@ -46,3 +46,5 @@
 
 ** $F_1(x) = \int_{x}^{0} f(t) dt$
    $F(x)$ but reflected across the x-axis (negated)
+
+** $F_2(x) = \int_{0}^{x} f(-t) dt$
