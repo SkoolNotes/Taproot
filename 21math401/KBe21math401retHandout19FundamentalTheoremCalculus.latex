@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9825)}}    % original
-%\rhead{\textrmlf{Compiled }\#9825\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9826)}}    % original
+%\rhead{\textrmlf{Compiled }\#9826\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9825
+  \#9826
   \textrmlf{ on}
       \today
   }       % new date
@@ -286,5 +286,11 @@ because those are the points where the derivative of \(F(x)\) (which is
 
 Changing the 'zero point' of the derivative just shifts the graph up and
 down, by up to the range of the function.
+
+\hypertarget{sketching-more-functions}{%
+\section{sketching more functions}\label{sketching-more-functions}}
+
+\hypertarget{f_1x-int_x0-ft-dt}{%
+\subsection{\texorpdfstring{\(F_1(x) = \int_{x}^{0} f(t) dt\)}{F\_1(x) = \textbackslash int\_\{x\}\^{}\{0\} f(t) dt}}\label{f_1x-int_x0-ft-dt}}
 
 \end{document}
