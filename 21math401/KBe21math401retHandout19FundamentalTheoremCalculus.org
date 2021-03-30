@@ -55,3 +55,5 @@
 
 ** $F_4(x) = \int_{0}^{x} f(|t|) dt$
    For $x \ge 0$, $F_4(x) = F(x)$. However, for $x < 0$, the function will be the negative of the $x\geq0 $ case because the integral is from right to left.
+
+** $F_5(x) = \int_{0}^{x} |f(t)| dt$
