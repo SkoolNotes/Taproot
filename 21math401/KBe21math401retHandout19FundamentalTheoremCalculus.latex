@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9852)}}    % original
-%\rhead{\textrmlf{Compiled }\#9852\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9854)}}    % original
+%\rhead{\textrmlf{Compiled }\#9854\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9852
+  \#9854
   \textrmlf{ on}
       \today
   }       % new date
@@ -332,7 +332,7 @@ functions}\label{derivatives-of-integral-functions}}
    F(x) &= f(x^2)\\
    \frac{d}{dx}F(x) &= \frac{d}{dx}f(x^2)\\
    &= f'(x^2)(2x)\\
-   &= 2x \sin (x^3-1)
+   &= 2x \sin (x^{2^3}-1)
    \end{aligned}\]
 
 \hypertarget{fx-int_02x-lnt-3-dt}{%
