@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9808)}}    % original
-%\rhead{\textrmlf{Compiled }\#9808\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9809)}}    % original
+%\rhead{\textrmlf{Compiled }\#9809\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9808
+  \#9809
   \textrmlf{ on}
       \today
   }       % new date
@@ -211,5 +211,9 @@ F(x) & \(0\) & \(\frac{4}{3}\) & \(\frac{8}{3}\) & \(\frac{4}{3}\) &
 
 \hypertarget{sketch-the-function}{%
 \subsection{sketch the function}\label{sketch-the-function}}
+
+\includegraphics{KBe21math401ret19src1b.png}
+
+**
 
 \end{document}
