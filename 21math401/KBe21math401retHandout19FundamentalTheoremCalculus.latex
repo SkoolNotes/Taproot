@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9854)}}    % original
-%\rhead{\textrmlf{Compiled }\#9854\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9855)}}    % original
+%\rhead{\textrmlf{Compiled }\#9855\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9854
+  \#9855
   \textrmlf{ on}
       \today
   }       % new date
@@ -339,7 +339,8 @@ functions}\label{derivatives-of-integral-functions}}
 \subsection{\texorpdfstring{\(F(x) = \int_{0}^{2x} \ln(t-3) dt\)}{F(x) = \textbackslash int\_\{0\}\^{}\{2x\} \textbackslash ln(t-3) dt}}\label{fx-int_02x-lnt-3-dt}}
 
 \[\begin{aligned}
-   \frac{d}{dx}\left( \int_{0}^{2x} \ln(t-3) dt\right) = 2 \frac{d}{dx}\int_{0}^{x} \ln(t-3)dt
+   \frac{d}{dx}\left( \int_{0}^{2x} \ln(t-3) dt\right) &= 2 \frac{d}{dx}\int_{0}^{2x} \ln(t-3)dt\\
+   &= 2 \ln(2x-3)
    \end{aligned}\]
 
 \end{document}
