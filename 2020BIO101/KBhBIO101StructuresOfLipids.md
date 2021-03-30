@@ -50,4 +50,4 @@ A same idea as Phosophilids, but instead in a big wad of Phosolipids. this arran
 ## Steroids
 ![Screen Shot 2020-09-11 at 2.43.35 PM.png](./Screen Shot 2020-09-11 at 2.43.35 PM.png)
 
-Steroids tipically are lipids that contain a ring structure, which usually contains 16 carbon lipids
+Steroids tipically are lipids that contain a ring structure, which usually contains 17 carbon lipids with 5-6 carbons each
