@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9840)}}    % original
-%\rhead{\textrmlf{Compiled }\#9840\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9841)}}    % original
+%\rhead{\textrmlf{Compiled }\#9841\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9840
+  \#9841
   \textrmlf{ on}
       \today
   }       % new date
@@ -311,12 +311,13 @@ compresses the graph along the x-axis.
 
 For \(x \ge 0\), \(F_4(x) = F(x)\). However, for \(x < 0\), the function
 will be the negative of the \$x ≥ 0 \$ case because the integral is from
-right to left.
+right to left. \includegraphics{KBe21math401ret19src7d.png}
 
 \hypertarget{f_5x-int_0x-ft-dt}{%
 \subsection{\texorpdfstring{\(F_5(x) = \int_{0}^{x} |f(t)| dt\)}{F\_5(x) = \textbackslash int\_\{0\}\^{}\{x\} \textbar f(t)\textbar{} dt}}\label{f_5x-int_0x-ft-dt}}
 
 Instead of being a periodic function, this function will be even (all
 the decreasing parts of \(F(x)\) become increasing with the same shape)
+\includegraphics{KBe21math401ret19src7e.png}
 
 \end{document}
