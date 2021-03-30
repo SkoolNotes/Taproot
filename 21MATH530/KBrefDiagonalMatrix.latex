@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9861)}}    % original
-%\rhead{\textrmlf{Compiled }\#9861\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9862)}}    % original
+%\rhead{\textrmlf{Compiled }\#9862\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9861
+  \#9862
   \textrmlf{ on}
       \today
   }       % new date
@@ -270,7 +270,7 @@ If \(T\in \mathcal{L} (V)\) has \(\odim V\) distinct eigenvalues, then
 
   Because distinct eigenvalues correspond to linearly independent
   eigenvectors, so there will be enough linearly independent eigenvecs
-  to form a basis
+  to form a basis and thus a diagonal matrix \textbf{*}
 \end{enumerate}
 
 \end{document}
