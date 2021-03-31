@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9921)}}    % original
-%\rhead{\textrmlf{Compiled }\#9921\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9922)}}    % original
+%\rhead{\textrmlf{Compiled }\#9922\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9921
+  \#9922
   \textrmlf{ on}
       \today
   }       % new date
@@ -209,5 +209,9 @@ losses)}\label{why-not-stop-why-didnt-they-cut-their-losses}}
 
 \hypertarget{sunk-cost-fallacy}{%
 \subsection{sunk cost fallacy}\label{sunk-cost-fallacy}}
+
+\hypertarget{people-had-been-expecting-it}{%
+\subsection{people had been expecting
+it}\label{people-had-been-expecting-it}}
 
 \end{document}
