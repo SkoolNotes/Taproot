@@ -21,3 +21,4 @@ This TATA binding protein will then serve as the landmark for the actual RNA pol
 ## Helpers to TATA
 TATA is part of a larger transcription factor called TFIID. TFIID, upon binding, calls for other transcription factor to bind, creating a big'ol protein to decide whether or not transtription will happen.
 
+These factors sometimes promote the start of transcription, others inhibit the strate of transcription. TATA always is the anchoring point that calls all of these tegether.
