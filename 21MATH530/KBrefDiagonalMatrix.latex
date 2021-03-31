@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9876)}}    % original
-%\rhead{\textrmlf{Compiled }\#9876\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9879)}}    % original
+%\rhead{\textrmlf{Compiled }\#9879\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9876
+  \#9879
   \textrmlf{ on}
       \today
   }       % new date
@@ -276,9 +276,9 @@ If \(T\in \mathcal{L} (V)\) has \(\odim V\) distinct eigenvalues, then
   Axler promises in later chapters)
 \end{enumerate}
 
-\hypertarget{relationship-to-non-diagonal-matrix-in-class-21-march-2021}{%
-\subsubsection{Relationship to non-diagonal matrix (in class 21 March
-2021)}\label{relationship-to-non-diagonal-matrix-in-class-21-march-2021}}
+\hypertarget{relationship-to-non-diagonal-matrix-in-class-31-march-2021}{%
+\subsubsection{Relationship to non-diagonal matrix (in class 31 March
+2021)}\label{relationship-to-non-diagonal-matrix-in-class-31-march-2021}}
 
 Suppose \(A\) is the original map (not diagonal), and that \(P\) is the
 matrix where each column is an eigenvector written in terms of the
