@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9917)}}    % original
-%\rhead{\textrmlf{Compiled }\#9917\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9918)}}    % original
+%\rhead{\textrmlf{Compiled }\#9918\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9917
+  \#9918
   \textrmlf{ on}
       \today
   }       % new date
@@ -391,6 +391,8 @@ avoided}\label{how-could-this-have-been-avoided}}
   mutually assured destruction
 \item
   existing alliances
+\item
+  a balancer like the US could have mediated
 \end{enumerate}
 
 \end{document}
