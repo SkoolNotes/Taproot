@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9959)}}    % original
-%\rhead{\textrmlf{Compiled }\#9959\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9960)}}    % original
+%\rhead{\textrmlf{Compiled }\#9960\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9959
+  \#9960
   \textrmlf{ on}
       \today
   }       % new date
@@ -248,6 +248,7 @@ created this protein after two copies of the same gene is combined.
 \hypertarget{sca17}{%
 \subsection{SCA17}\label{sca17}}
 
-Sometimes, the transcription of the TBP goes wrong and create
+Sometimes, the transcription of the TBP goes wrong and create a repeat
+in the CAG/CAA factors in the TBP; with an average
 
 \end{document}
