@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9874)}}    % original
-%\rhead{\textrmlf{Compiled }\#9874\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9876)}}    % original
+%\rhead{\textrmlf{Compiled }\#9876\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9874
+  \#9876
   \textrmlf{ on}
       \today
   }       % new date
@@ -285,5 +285,11 @@ matrix where each column is an eigenvector written in terms of the
 original basis (standard basis, usually). Then \[\begin{aligned}
     AP = PD
     \end{aligned}\] where \(D\) is the diagonal matrix.
+
+\begin{enumerate}
+\item
+  this (or a conjugation??) forms a similarity transform, which is a
+  type of equivalence relation
+\end{enumerate}
 
 \end{document}
