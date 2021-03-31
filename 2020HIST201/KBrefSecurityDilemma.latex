@@ -125,8 +125,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ HIST201 }
-\newcommand{\thelesson}{ Realism }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ The security dilemma }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -147,7 +147,7 @@
   \textrmlf{ on}
       \today
   }       % new date
-\lfoot{Houjun Liu, Alb \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -191,46 +191,7 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBhHIST201WWITriggering}{\tiny\textulf{[[}\textbf{KBhHIST201WWITriggering}\textulf{]]}}}\thinspace
 
-\hypertarget{realism}{%
-\section{Realism:}\label{realism}}
 
-\emph{A Raison de etat inspired international relations theory}
-
-\begin{itemize}
-\tightlist
-\item
-  Community of states exists in \textbf{anarchy}: no worldwide ``911''
-  event, and there's no universal world policy
-\item
-  Thus, international politics is a \textbf{self-help} system; allies
-  could help but security is not guaranteed
-
-  \begin{itemize}
-  \tightlist
-  \item
-    allies are like the friend in the locker room: they may help you
-    beat someone up, but they aren't gaurenteed to be there
-  \end{itemize}
-\item
-  \textbf{Power} is the key to maintain security
-
-  \begin{itemize}
-  \tightlist
-  \item
-    you never know how much power you need to stay safe
-  \end{itemize}
-\item
-  \textbf{Security} is an act of re-balance: one state's security hurt
-  the security of other states
-\end{itemize}
-
-\textbf{Longer term factors are nearly invisible.}
-
-Causality exists between long term and short term events =\textgreater{}
-Short term changes are caused therefore by longer term change while long
-term events are hyped up by shorter events
 
 \end{document}
