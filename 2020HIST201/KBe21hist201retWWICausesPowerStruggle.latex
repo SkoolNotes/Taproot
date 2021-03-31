@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9915)}}    % original
-%\rhead{\textrmlf{Compiled }\#9915\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9916)}}    % original
+%\rhead{\textrmlf{Compiled }\#9916\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9915
+  \#9916
   \textrmlf{ on}
       \today
   }       % new date
@@ -387,6 +387,8 @@ avoided}\label{how-could-this-have-been-avoided}}
 \begin{enumerate}
 \item
   third party to hold everyone accountable/defensive
+\item
+  mutually assured destruction
 \end{enumerate}
 
 \end{document}
