@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9865)}}    % original
-%\rhead{\textrmlf{Compiled }\#9865\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9867)}}    % original
+%\rhead{\textrmlf{Compiled }\#9867\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9865
+  \#9867
   \textrmlf{ on}
       \today
   }       % new date
@@ -234,8 +234,8 @@ G(x) & \(-\frac{8}{3}\) & \(-\frac{4}{3}\) & \(0\) & -\(\frac{4}{3}\) &
 
 \includegraphics{KBe21math401ret19src2b.png}
 
-\hypertarget{section}{%
-\section{3}\label{section}}
+\hypertarget{hx-int_4x-ft-dt}{%
+\section{\texorpdfstring{\(H(x) = \int_4^x f(t) dt\)}{H(x) = \textbackslash int\_4\^{}x f(t) dt}}\label{hx-int_4x-ft-dt}}
 
 \hypertarget{complete-the-table-2}{%
 \subsection{complete the table}\label{complete-the-table-2}}
