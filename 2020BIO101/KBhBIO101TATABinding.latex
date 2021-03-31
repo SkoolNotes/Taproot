@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9953)}}    % original
-%\rhead{\textrmlf{Compiled }\#9953\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9954)}}    % original
+%\rhead{\textrmlf{Compiled }\#9954\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9953
+  \#9954
   \textrmlf{ on}
       \today
   }       % new date
@@ -229,5 +229,14 @@ protein to decide whether or not transtription will happen.
 These factors sometimes promote the start of transcription, others
 inhibit the strate of transcription. TATA always is the anchoring point
 that calls all of these together to start the process.
+
+\hypertarget{so-hows-the-tata-sequence-recognized}{%
+\subsection{So, How's the TATA sequence
+recognized?}\label{so-hows-the-tata-sequence-recognized}}
+
+The TATA protein has a string of lysing and argenine, which inteacts
+with the phosphate group of the DNA \& glues the proton to the DNA.
+
+The protein also uses special amino acids to interact w/ DNA bases.
 
 \end{document}
