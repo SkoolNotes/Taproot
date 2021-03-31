@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9871)}}    % original
-%\rhead{\textrmlf{Compiled }\#9871\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9872)}}    % original
+%\rhead{\textrmlf{Compiled }\#9872\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9871
+  \#9872
   \textrmlf{ on}
       \today
   }       % new date
@@ -204,5 +204,10 @@ TST^-, T^-ST
 
 \hypertarget{significance}{%
 \section{significance}\label{significance}}
+
+Kind of like changing the basis of the map in the middle.
+
+Also tells us something about how \(T, S\) commute, because if they
+commuted fully then the expression would just be \(S\).
 
 \end{document}
