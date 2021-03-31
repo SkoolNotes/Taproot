@@ -60,3 +60,8 @@ The process of DNA replication is semiconservative, such that takes place throug
 ```
 
 ![copying 1.png](copying 1.png)
+
+
+***
+
+

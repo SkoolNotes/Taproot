@@ -41,3 +41,11 @@ See [[KBhBIO101RNAReplication]]
 | RNA-Dependent RNA Polymerase | _replicates_: takes RNA and makes more copy of it. Basically only viruses use it. |
 | Promoter | _signals_: DNA signal of the start of the DNA. | 
 | Terminator | _signals_: DNA signal of the end of the DNA. | 
+
+***
+
+# Central Dogma in a Paragraph
+
+The "silly" explanation of the Central Dogma that's a bit problematic is the phrase "DNA" informs "RNA" informs "Proteins". But of course the enviromental variablity, mutatability, and the surprising lack of permanence of all parts of this system makes this not entirely fully accurate.
+
+DNA could of course replicate, that's how one makes new cells. But in addition to this, during the process of transcription, there are also enviromental variations to the performance of promoters, etc.

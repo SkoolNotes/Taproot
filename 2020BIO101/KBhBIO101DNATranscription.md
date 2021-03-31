@@ -15,7 +15,7 @@ The point of transcription is to recognize the series of promoters that code for
 => "Promoter"s denotes beginning of a gene. "Terminator"s denotes the end of gene.
 
 ## Starting Transcription
-1. Series of utility "factors" proteins begin to assemble at the promoter which signals transcription to call the attention of RNA polymerase.
+1. Series of utility "factors" proteins begin to assemble at the promoter which signals transcription to call the attention of RNA polymerase. One such signaling factors is the [[KBhBIO101TATABinding]].
 2. RNA polyamerase binds to the Sigma Subunit => form a holoenzyme to unwind DNA — creates a **transcription bubble**
 3. Sigma subunit informs the enzyme where to find a promoter (beginning of binding)
 4. "Enhancer" gene sequences help bind with activator proteins to help attract RNA polymerase II

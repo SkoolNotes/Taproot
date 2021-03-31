@@ -20,4 +20,7 @@ source:  KBBiologyMasterIndex
 	 - Notes on that can be found here [[KBBIO101TranscriptionTranslation]]
  - DNA and RNA are very close aside from Uracil and Thymine
 	 - Both of the codes are formed by patterns of charges
+	 
+	 
+
  

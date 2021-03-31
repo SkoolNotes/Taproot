@@ -5,6 +5,7 @@
 
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{amsfonts}
 
 \usepackage[normalem]{ulem}
 
@@ -16,6 +17,11 @@
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
 
 \usepackage{enumitem}
 \setlistdepth{9}
@@ -31,6 +37,9 @@
 \setlist[itemize,9]{label=\textbullet}
 
 \renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -72,13 +81,21 @@
 
 \usepackage{mathspec}
 \setmainfont[
-   ItalicFont     = HelveticaNeue-Italic,
-   BoldFont       = HelveticaNeue-Bold,
-   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
 \newfontfamily\NHLight[
-   ItalicFont     = HelveticaNeue-LightItalic,
-   BoldFont       = HelveticaNeue-UltraLight,
-   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -122,11 +139,16 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5432)}}    % original
-%\rhead{\textrmlf{Compiled }\#5432\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5432\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9948)}}    % original
+%\rhead{\textrmlf{Compiled }\#9948\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#9948
+  \textrmlf{ on}
+      \today
+  }       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -161,10 +183,15 @@
     \end{center}
 }
 
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
+\textbf{Source}:\thinspace
 {\href{http://taproot.shabang.cf/relay?request=KBhBIO101NucleicAcidsDNARNA}{\tiny\textulf{[[}\textbf{KBhBIO101NucleicAcidsDNARNA}\textulf{]]}}}\thinspace
 
 \hypertarget{central-dogma}{%
@@ -232,42 +259,37 @@ See {[}{[}KBhBIO101RNAReplication{]}{]}
 \hypertarget{list-of-kool-proteins}{%
 \subsection{List of Kool Proteins}\label{list-of-kool-proteins}}
 
-\begin{longtable}[]{@{}ll@{}}
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}@{}}
 \toprule
-\begin{minipage}[b]{0.47\columnwidth}\raggedright
-Name\strut
-\end{minipage} & \begin{minipage}[b]{0.47\columnwidth}\raggedright
-Function\strut
-\end{minipage}\tabularnewline
+Name & Function \\
 \midrule
 \endhead
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-RNA Polymerase\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-\emph{transcripts}: takes DNA and turns into mRNA\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-DNA Polymerase\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-\emph{replicates}: takes DNA and makes more copy of it\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-RNA-Dependent RNA Polymerase\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-\emph{replicates}: takes RNA and makes more copy of it. Basically only
-viruses use it.\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Promoter\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-\emph{signals}: DNA signal of the start of the DNA.\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Terminator\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-\emph{signals}: DNA signal of the end of the DNA.\strut
-\end{minipage}\tabularnewline
+RNA Polymerase & \emph{transcripts}: takes DNA and turns into mRNA \\
+DNA Polymerase & \emph{replicates}: takes DNA and makes more copy of
+it \\
+RNA-Dependent RNA Polymerase & \emph{replicates}: takes RNA and makes
+more copy of it. Basically only viruses use it. \\
+Promoter & \emph{signals}: DNA signal of the start of the DNA. \\
+Terminator & \emph{signals}: DNA signal of the end of the DNA. \\
 \bottomrule
 \end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{central-dogma-in-a-paragraph}{%
+\section{Central Dogma in a
+Paragraph}\label{central-dogma-in-a-paragraph}}
+
+The ``silly'' explanation of the Central Dogma that's a bit problematic
+is the phrase ``DNA'' informs ``RNA'' informs ``Proteins''. But of
+course the enviromental variablity, mutatability, and the surprising
+lack of permanence of all parts of this system makes this not entirely
+fully accurate.
+
+DNA could of course replicate, that's how one makes new cells. But in
+addition to this, during the process of transcription, there are also
+enviromental variations to the performance of promoters, etc.
 
 \end{document}
