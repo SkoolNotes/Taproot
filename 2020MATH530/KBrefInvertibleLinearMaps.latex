@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9877)}}    % original
-%\rhead{\textrmlf{Compiled }\#9877\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9878)}}    % original
+%\rhead{\textrmlf{Compiled }\#9878\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9877
+  \#9878
   \textrmlf{ on}
       \today
   }       % new date
@@ -254,8 +254,8 @@ invertible}\label{non-singular-matrices-are-invertible}}
 \subsubsection{operators that are injective or surjective are
 bijective}\label{operators-that-are-injective-or-surjective-are-bijective}}
 
-\hypertarget{matrices-with-linearly-independent-columns-and-rows-are-injective}{%
+\hypertarget{matrices-with-linearly-independent-columns-and-rows-are-bijective}{%
 \subsubsection{matrices with linearly independent columns and rows are
-injective}\label{matrices-with-linearly-independent-columns-and-rows-are-injective}}
+bijective}\label{matrices-with-linearly-independent-columns-and-rows-are-bijective}}
 
 \end{document}
