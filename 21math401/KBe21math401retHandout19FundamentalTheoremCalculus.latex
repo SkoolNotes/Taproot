@@ -140,11 +140,11 @@ calculus }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9868)}}    % original
-%\rhead{\textrmlf{Compiled }\#9868\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9869)}}    % original
+%\rhead{\textrmlf{Compiled }\#9869\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9868
+  \#9869
   \textrmlf{ on}
       \today
   }       % new date

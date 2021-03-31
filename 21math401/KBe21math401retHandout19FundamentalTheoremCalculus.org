@@ -27,9 +27,9 @@
    same as 1b
 
 * complete the table
-  |           | $F(x)$     | $G(x)$ | $H(x)$ |
-  | maximum   | 4n+2       |        |        |
-  | minimum   | 4n         |        |        |
+  |           | $F(x)$       | $G(x)$ | $H(x)$ |
+  | maximum   | 4n+2         |        |        |
+  | minimum   | 4n           |        |        |
   | increases | \[4n, 4n+2\] |        |        |
   | decreases | \[4n-2, 4n\] |        |        |
   The other columns are the same, because $H(x) = F(x)$ and $G(x) = H(x)-\frac{8}{3}$.
