@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9935)}}    % original
-%\rhead{\textrmlf{Compiled }\#9935\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9936)}}    % original
+%\rhead{\textrmlf{Compiled }\#9936\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9935
+  \#9936
   \textrmlf{ on}
       \today
   }       % new date
@@ -296,5 +296,9 @@ win'}\label{if-we-can-last-one-day-longer-then-we-win}}
 
 \hypertarget{mutinies-everywhere}{%
 \subsection{mutinies everywhere}\label{mutinies-everywhere}}
+
+\hypertarget{leveraging-ethnic-diversity}{%
+\section{leveraging ethnic
+diversity}\label{leveraging-ethnic-diversity}}
 
 \end{document}
