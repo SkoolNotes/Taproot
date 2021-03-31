@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9956)}}    % original
-%\rhead{\textrmlf{Compiled }\#9956\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9957)}}    % original
+%\rhead{\textrmlf{Compiled }\#9957\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9956
+  \#9957
   \textrmlf{ on}
       \today
   }       % new date
@@ -240,6 +240,9 @@ protein also uses special amino acids to interact w/ DNA bases.
 
 The simmetric nature of the two halves of the TATA binding proteins
 means that it's able to recognize the proper binding sequence and jam
-intself into the DNA.
+itself into the DNA.
+
+It is thought that a gene duplication mutation from a long time ago
+created this protein after two copies of the same gene is combined.
 
 \end{document}

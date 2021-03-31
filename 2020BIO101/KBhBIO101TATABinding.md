@@ -26,7 +26,9 @@ These factors sometimes promote the start of transcription, others inhibit the s
 ## So, How's the TATA sequence recognized?
 The TATA protein has a string of lysing and argenine, which inteacts with the phosphate group of the DNA & glues the proton to the DNA. The protein also uses special amino acids to interact w/ DNA bases.
 
-The simmetric nature of the two halves of the TATA binding proteins means that it's able to recognize the proper binding sequence and jam intself into the DNA.
+The simmetric nature of the two halves of the TATA binding proteins means that it's able to recognize the proper binding sequence and jam itself into the DNA.
+
+It is thought that a gene duplication mutation from a long time ago  created this protein after two copies of the same gene is combined.
 
 
 
