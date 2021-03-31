@@ -139,15 +139,15 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9880)}}    % original
-%\rhead{\textrmlf{Compiled }\#9880\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9881)}}    % original
+%\rhead{\textrmlf{Compiled }\#9881\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9880
+  \#9881
   \textrmlf{ on}
       \today
   }       % new date
-\lfoot{Houjun Liu, Alb \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 

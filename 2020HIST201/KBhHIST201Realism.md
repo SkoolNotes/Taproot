@@ -1,6 +1,6 @@
 ---
 title: Realism
-author: Houjun Liu, Alb
+author: Houjun Liu
 course: HIST201
 source: KBhHIST201WWITriggering
 ---
