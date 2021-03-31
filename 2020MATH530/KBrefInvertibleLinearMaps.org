@@ -1,5 +1,5 @@
 #+AUTHOR: Exr0n
-#+TITLE: INvertibility of Linear Maps
+#+TITLE: Invertibility of Linear Maps
 * invertible, inverse                                                   :def:
 #+begin_quote
 - A linear map $T \in \mathcal L(V, W)$ is /invertible/ if there exists a linear map $S\in \mathcal(W, V)$ such that $ST$ equals the identity map on $V$ and $TS$ equals the identity map on $W$.
@@ -17,3 +17,5 @@
 *** Equivalent Condition with eigenvalues
 	if a map has zero as an eigenvalue, then it is singular (5.A exercise 21)
 *** non-singular matrices are invertible
+*** operators that are injective or surjective are bijective
+*** matrices with linearly independent columns and rows are injective

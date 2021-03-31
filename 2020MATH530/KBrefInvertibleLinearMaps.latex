@@ -126,7 +126,7 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ INvertibility of Linear Maps }
+\newcommand{\thelesson}{ Invertibility of Linear Maps }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9875)}}    % original
-%\rhead{\textrmlf{Compiled }\#9875\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9877)}}    % original
+%\rhead{\textrmlf{Compiled }\#9877\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9875
+  \#9877
   \textrmlf{ on}
       \today
   }       % new date
@@ -249,5 +249,13 @@ if a map has zero as an eigenvalue, then it is singular (5.A exercise
 \hypertarget{non-singular-matrices-are-invertible}{%
 \subsubsection{non-singular matrices are
 invertible}\label{non-singular-matrices-are-invertible}}
+
+\hypertarget{operators-that-are-injective-or-surjective-are-bijective}{%
+\subsubsection{operators that are injective or surjective are
+bijective}\label{operators-that-are-injective-or-surjective-are-bijective}}
+
+\hypertarget{matrices-with-linearly-independent-columns-and-rows-are-injective}{%
+\subsubsection{matrices with linearly independent columns and rows are
+injective}\label{matrices-with-linearly-independent-columns-and-rows-are-injective}}
 
 \end{document}
