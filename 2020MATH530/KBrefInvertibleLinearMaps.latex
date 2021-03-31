@@ -38,6 +38,9 @@
 
 \renewlist{itemize}{itemize}{9}
 
+\usepackage{mathdots}
+\usepackage{tikz}
+
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -136,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9242)}}    % original
-%\rhead{\textrmlf{Compiled }\#9242\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9875)}}    % original
+%\rhead{\textrmlf{Compiled }\#9875\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9242
+  \#9875
   \textrmlf{ on}
       \today
   }       % new date
@@ -182,6 +185,7 @@
 
 % exr0n linear algebra mathops
 \DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
 \DeclareMathOperator{\onull}{\text{null}}
 
 \begin{document}
@@ -241,5 +245,9 @@ eigenvalues}\label{equivalent-condition-with-eigenvalues}}
 
 if a map has zero as an eigenvalue, then it is singular (5.A exercise
 21)
+
+\hypertarget{non-singular-matrices-are-invertible}{%
+\subsubsection{non-singular matrices are
+invertible}\label{non-singular-matrices-are-invertible}}
 
 \end{document}
