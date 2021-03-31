@@ -24,9 +24,9 @@ TATA is part of a larger transcription factor called TFIID. TFIID, upon binding,
 These factors sometimes promote the start of transcription, others inhibit the strate of transcription. TATA always is the anchoring point that calls all of these together to start the process.
 
 ## So, How's the TATA sequence recognized?
-The TATA protein has a string of lysing and argenine, which inteacts with the phosphate group of the DNA & glues the proton to the DNA.
+The TATA protein has a string of lysing and argenine, which inteacts with the phosphate group of the DNA & glues the proton to the DNA. The protein also uses special amino acids to interact w/ DNA bases.
 
-The protein also uses special amino acids to interact w/ DNA bases.
+The simmetric nature of the two halves of the TATA binding proteins means that it's able to recognize the proper binding sequence
 
 
 

@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9954)}}    % original
-%\rhead{\textrmlf{Compiled }\#9954\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9955)}}    % original
+%\rhead{\textrmlf{Compiled }\#9955\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9954
+  \#9955
   \textrmlf{ on}
       \today
   }       % new date
@@ -235,8 +235,10 @@ that calls all of these together to start the process.
 recognized?}\label{so-hows-the-tata-sequence-recognized}}
 
 The TATA protein has a string of lysing and argenine, which inteacts
-with the phosphate group of the DNA \& glues the proton to the DNA.
+with the phosphate group of the DNA \& glues the proton to the DNA. The
+protein also uses special amino acids to interact w/ DNA bases.
 
-The protein also uses special amino acids to interact w/ DNA bases.
+The simmetric nature of the two halves of the TATA binding proteins
+means that it's able to recognize the proper binding sequence
 
 \end{document}
