@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9957)}}    % original
-%\rhead{\textrmlf{Compiled }\#9957\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9959)}}    % original
+%\rhead{\textrmlf{Compiled }\#9959\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9957
+  \#9959
   \textrmlf{ on}
       \today
   }       % new date
@@ -244,5 +244,10 @@ itself into the DNA.
 
 It is thought that a gene duplication mutation from a long time ago
 created this protein after two copies of the same gene is combined.
+
+\hypertarget{sca17}{%
+\subsection{SCA17}\label{sca17}}
+
+Sometimes, the transcription of the TBP goes wrong and create
 
 \end{document}
