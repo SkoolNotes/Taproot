@@ -28,10 +28,10 @@
 
 * complete the table
   |           | $F(x)$     | $G(x)$ | $H(x)$ |
-  | maximum   | 4x+2       |        |        |
-  | minimum   | 4x         |        |        |
-  | increases | [4x, 4x+2] |        |        |
-  | decreases | [4x-2, 4x] |        |        |
+  | maximum   | 4n+2       |        |        |
+  | minimum   | 4n         |        |        |
+  | increases | \[4n, 4n+2\] |        |        |
+  | decreases | \[4n-2, 4n\] |        |        |
   The other columns are the same, because $H(x) = F(x)$ and $G(x) = H(x)-\frac{8}{3}$.
 
 * why does it work over the entire domain?
