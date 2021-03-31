@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9873)}}    % original
-%\rhead{\textrmlf{Compiled }\#9873\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9874)}}    % original
+%\rhead{\textrmlf{Compiled }\#9874\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9873
+  \#9874
   \textrmlf{ on}
       \today
   }       % new date
@@ -279,5 +279,11 @@ If \(T\in \mathcal{L} (V)\) has \(\odim V\) distinct eigenvalues, then
 \hypertarget{relationship-to-non-diagonal-matrix-in-class-21-march-2021}{%
 \subsubsection{Relationship to non-diagonal matrix (in class 21 March
 2021)}\label{relationship-to-non-diagonal-matrix-in-class-21-march-2021}}
+
+Suppose \(A\) is the original map (not diagonal), and that \(P\) is the
+matrix where each column is an eigenvector written in terms of the
+original basis (standard basis, usually). Then \[\begin{aligned}
+    AP = PD
+    \end{aligned}\] where \(D\) is the diagonal matrix.
 
 \end{document}

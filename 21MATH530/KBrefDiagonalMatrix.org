@@ -32,3 +32,8 @@
 
 	 In fact, we just need the geometric multiplicities to add up (a result Axler promises in later chapters)
 *** Relationship to non-diagonal matrix (in class 21 March 2021)
+	Suppose $A$ is the original map (not diagonal), and that $P$ is the matrix where each column is an eigenvector written in terms of the original basis (standard basis, usually). Then
+	\[\begin{aligned}
+    AP = PD
+	\end{aligned}\]
+	where $D$ is the diagonal matrix.
