@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9881)}}    % original
-%\rhead{\textrmlf{Compiled }\#9881\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9882)}}    % original
+%\rhead{\textrmlf{Compiled }\#9882\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9881
+  \#9882
   \textrmlf{ on}
       \today
   }       % new date
@@ -200,14 +200,28 @@
 \emph{A Raison de etat inspired international relations theory}
 
 \begin{itemize}
+\tightlist
 \item
   Community of states exists in \textbf{anarchy}: no worldwide ``911''
   event, and there's no universal world policy
 \item
   Thus, international politics is a \textbf{self-help} system; allies
   could help but security is not guaranteed
+
+  \begin{itemize}
+  \tightlist
+  \item
+    allies are like the friend in the locker room: they may help you
+    beat someone up, but they aren't gaurenteed to be there
+  \end{itemize}
 \item
   \textbf{Power} is the key to maintain security
+
+  \begin{itemize}
+  \tightlist
+  \item
+    you never know how much power you need to stay safe
+  \end{itemize}
 \item
   \textbf{Security} is an act of re-balance: one state's security hurt
   the security of other states
