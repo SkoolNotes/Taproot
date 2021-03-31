@@ -33,7 +33,7 @@ It is thought that a gene duplication mutation from a long time ago  created thi
 ## SCA17
 Sometimes, the transcription of the TBP goes wrong and create a repeat in the CAG/CAA factors in the TBP; with an average of over 41 repeats.
 
-This results in an abundance of glutamite, which means that this will result in 
+This results in an abundance of glutamite, which means that this will result in symptoms of psycoatric problems like involuntary movements, dementia, and ataxia (not being able to control movement.)
 
 
 
