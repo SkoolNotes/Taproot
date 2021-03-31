@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9912)}}    % original
-%\rhead{\textrmlf{Compiled }\#9912\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9913)}}    % original
+%\rhead{\textrmlf{Compiled }\#9913\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9912
+  \#9913
   \textrmlf{ on}
       \today
   }       % new date
@@ -349,5 +349,28 @@ nowhere}\label{everyone-reciprocates-japan-comes-in-from-nowhere}}
 \hypertarget{leaders-believed-that-new-technologies-favored-the-offensive}{%
 \subsubsection{leaders believed that new technologies favored the
 offensive}\label{leaders-believed-that-new-technologies-favored-the-offensive}}
+
+\hypertarget{formalizing-the-problem}{%
+\subsubsection{formalizing the problem}\label{formalizing-the-problem}}
+
+\begin{enumerate}
+\item
+  states can preempt or defend
+\item
+  outcomes
+
+  \begin{enumerate}
+  \item
+    best: i preempt, you defend (surprised)
+  \item
+    both defend (peace)
+  \item
+    both preempt (war)
+  \item
+    i defend, you preempt (bad news bears for me)
+  \item
+    \textbf{assumption is that preemption is better than defenese}
+  \end{enumerate}
+\end{enumerate}
 
 \end{document}
