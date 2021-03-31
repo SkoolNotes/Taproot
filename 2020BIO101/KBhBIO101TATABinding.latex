@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9951)}}    % original
-%\rhead{\textrmlf{Compiled }\#9951\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9952)}}    % original
+%\rhead{\textrmlf{Compiled }\#9952\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9951
+  \#9952
   \textrmlf{ on}
       \today
   }       % new date
@@ -228,6 +228,6 @@ protein to decide whether or not transtription will happen.
 
 These factors sometimes promote the start of transcription, others
 inhibit the strate of transcription. TATA always is the anchoring point
-that calls all of these tegether.
+that calls all of these together.
 
 \end{document}
