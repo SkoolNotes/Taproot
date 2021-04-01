@@ -7,6 +7,6 @@
 * Derive the kinematic equations for constant acceleration
 
   \[\begin{aligned}
-  v = \int_{}^{} a dt = at + C_v\\
-  x = \int_{}^{} v dt = \int_{}^{} (at+C_v) dt =
+  v &= \int_{}^{} a dt &= at + C_v\\
+  x &= \int_{}^{} v dt = \int_{}^{} (at+C_v) dt &= \frac{1}{2}at^2 + C_v t + C_x
   \end{aligned}\]
