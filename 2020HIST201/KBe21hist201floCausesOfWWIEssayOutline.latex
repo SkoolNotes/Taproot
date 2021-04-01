@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9988)}}    % original
-%\rhead{\textrmlf{Compiled }\#9988\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9989)}}    % original
+%\rhead{\textrmlf{Compiled }\#9989\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9988
+  \#9989
   \textrmlf{ on}
       \today
   }       % new date
@@ -288,6 +288,9 @@ war)}\label{german-historian-heinrich-von-treitschke-1834-1896-glorified-warfare
 \item
   those who appeal to peace / Christianity are cowards ('the leader
   should wield the sword')
+\item
+  (peace is reactionary -\textgreater{} bad) -\textgreater{} (banishing
+  war -\textgreater{} banishing progress)
 \end{enumerate}
 
 \hypertarget{the-book-dude}{%
