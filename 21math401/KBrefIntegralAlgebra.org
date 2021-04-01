@@ -15,8 +15,8 @@
 
   \[\begin{aligned}
   \int_{}^{} f'(x) dx = f(x) + C\\
-  \frac{d}{dx} \int_{}^{} f(x) dx = f(x)
-  \frac{d}{dx}\int_{a}^{x} f(t) dt
+  \frac{d}{dx} \int_{}^{} f(x) dx = f(x)\\
+  \frac{d}{dx}\int_{a}^{x} f(t) dt = f(x)
   \end{aligned}\]
 
   (second one doesn't have a $+C$ because the derivative sends that to zero)
