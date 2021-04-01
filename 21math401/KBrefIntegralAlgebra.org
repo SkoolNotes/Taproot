@@ -26,4 +26,5 @@
 
   \[\begin{aligned}
   \frac{d}{dx}\int_{a}^{x} f(x) dx = f(x) + f(a)
+  \int_{a}^{x} f'(x) dx = f(x)
   \end{aligned}\]
