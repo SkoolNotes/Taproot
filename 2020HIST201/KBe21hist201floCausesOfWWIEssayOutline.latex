@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9967)}}    % original
-%\rhead{\textrmlf{Compiled }\#9967\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9968)}}    % original
+%\rhead{\textrmlf{Compiled }\#9968\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9967
+  \#9968
   \textrmlf{ on}
       \today
   }       % new date
@@ -250,5 +250,14 @@ chronology}\label{reference-specific-events-places-dates-and-people-with-a-clear
 
 \hypertarget{evidence}{%
 \section{evidence}\label{evidence}}
+
+\hypertarget{todos}{%
+\section{todos}\label{todos}}
+
+\hypertarget{read-primary-source-documents-primary-sources-as-well.}{%
+\subsection{\texorpdfstring{{TODO} read primary source
+documents\href{https://drive.google.com/drive/folders/1KTggTDz3Yl7fT9MxwG4l25qMPNyiUioe?usp=sharing}{
+primary sources as
+well}.}{TODO read primary source documents primary sources as well.}}\label{read-primary-source-documents-primary-sources-as-well.}}
 
 \end{document}
