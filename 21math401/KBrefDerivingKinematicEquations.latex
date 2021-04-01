@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10036)}}    % original
-%\rhead{\textrmlf{Compiled }\#10036\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10037)}}    % original
+%\rhead{\textrmlf{Compiled }\#10037\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10036
+  \#10037
   \textrmlf{ on}
       \today
   }       % new date
@@ -196,7 +196,7 @@
 \section{Given}\label{given}}
 
 \[\begin{aligned}
-  \begin{matrix}a=\frac{dv}{dt} & v = \int_{}^{} a dt\\ v = \frac{dx}{dt} & x = \int_{}^{} v dt\end{matrix}
+  \begin{matrix}a=\frac{dv}{dt} & v = \int a dt\\ v = \frac{dx}{dt} & x = \int v dt\end{matrix}
   \end{aligned}\]
 
 \hypertarget{derive-the-kinematic-equations-for-constant-acceleration}{%
@@ -204,8 +204,8 @@
 acceleration}\label{derive-the-kinematic-equations-for-constant-acceleration}}
 
 \[\begin{aligned}
-  v &= \int_{}^{} a dt &= at + C_v\\
-  x &= \int_{}^{} v dt = \int_{}^{} (at+C_v) dt &= \frac{1}{2}at^2 + C_v t + C_x
+  v &= \int a dt &= at + C_v\\
+  x &= \int v dt = \int (at+C_v) dt &= \frac{1}{2}at^2 + C_v t + C_x
   \end{aligned}\] Letting \(x_0 = C_x\) and \(v_0 = C_v\),
 \[\begin{aligned}
   x = x_0+v_0t+\frac{1}{2}a_0t^2
