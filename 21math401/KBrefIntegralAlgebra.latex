@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10010)}}    % original
-%\rhead{\textrmlf{Compiled }\#10010\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10011)}}    % original
+%\rhead{\textrmlf{Compiled }\#10011\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10010
+  \#10011
   \textrmlf{ on}
       \today
   }       % new date
@@ -211,5 +211,10 @@
 \section{\texorpdfstring{\href{KBrefFundamentalTheoremOfCalculus.org}{fundamental
 theorem of
 calculus}}{fundamental theorem of calculus}}\label{fundamental-theorem-of-calculus}}
+
+\[\begin{aligned}
+  \int_{}^{} f'(x) dx = f(x) + C\\
+  \frac{d}{dx} \int_{}^{} f(x) dx = f(x)
+  \end{aligned}\]
 
 \end{document}
