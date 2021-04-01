@@ -1,7 +1,14 @@
 #+TITLE: Algebra with Integrals
 * additive
+
+  \[\begin{aligned}
+
+  \end{aligned}\]
+
 * change of lower bound
   \[\begin{aligned}
   \int_{a}^{b} f(x) dx + \int_{b}^{c} f(x) dx = \int_{a}^{c} f(x) dx\\
   \implies \int_{a}^{x} f(t) dt = \int_{b}^{x} f(t) dt - \int_{a}^{b} f(t) dt
   \end{aligned}\]
+
+* [[file:KBrefFundamentalTheoremOfCalculus.org][fundamental theorem of calculus]]
