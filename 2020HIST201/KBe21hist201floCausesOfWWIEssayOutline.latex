@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10005)}}    % original
-%\rhead{\textrmlf{Compiled }\#10005\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10006)}}    % original
+%\rhead{\textrmlf{Compiled }\#10006\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10005
+  \#10006
   \textrmlf{ on}
       \today
   }       % new date
@@ -397,9 +397,9 @@ trenches}\label{poems-from-dudes-in-the-trenches}}
 \section{todos}\label{todos}}
 
 \hypertarget{read-primary-sources.}{%
-\subsection{\texorpdfstring{{TODO} read
+\subsection{\texorpdfstring{{DONE} read
 \href{https://drive.google.com/drive/folders/1KTggTDz3Yl7fT9MxwG4l25qMPNyiUioe?usp=sharing}{primary
-sources}.}{TODO read primary sources.}}\label{read-primary-sources.}}
+sources}.}{DONE read primary sources.}}\label{read-primary-sources.}}
 
 \hypertarget{review-evidencenotes}{%
 \subsection{\texorpdfstring{{TODO} review
