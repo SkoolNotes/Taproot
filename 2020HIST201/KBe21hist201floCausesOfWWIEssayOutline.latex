@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9983)}}    % original
-%\rhead{\textrmlf{Compiled }\#9983\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9984)}}    % original
+%\rhead{\textrmlf{Compiled }\#9984\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9983
+  \#9984
   \textrmlf{ on}
       \today
   }       % new date
@@ -312,6 +312,8 @@ thesis}\label{written-expression-use-precise-terminology-and-express-nuanced-tho
   game theoretic prisoner's dilemma style cost matrix
 \item
   no common power to hold states accountable to the both-defend policy
+\item
+  security dilemma
 \end{enumerate}
 
 \hypertarget{todos}{%
