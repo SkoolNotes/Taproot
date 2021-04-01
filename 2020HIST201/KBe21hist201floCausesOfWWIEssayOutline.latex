@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9981)}}    % original
-%\rhead{\textrmlf{Compiled }\#9981\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9982)}}    % original
+%\rhead{\textrmlf{Compiled }\#9982\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9981
+  \#9982
   \textrmlf{ on}
       \today
   }       % new date
@@ -296,6 +296,16 @@ thesis}\label{written-expression-use-precise-terminology-and-express-nuanced-tho
 \item
   leaders expected war to come, so that may have made it more
   innevitable
+\end{enumerate}
+
+\hypertarget{level-3}{%
+\subsubsection{level 3}\label{level-3}}
+
+\begin{enumerate}
+\item
+  game theoretic prisoner's dilemma style cost matrix
+\item
+  no common power to hold states accountable to the both-defend policy
 \end{enumerate}
 
 \hypertarget{todos}{%
