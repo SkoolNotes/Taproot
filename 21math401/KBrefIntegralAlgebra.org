@@ -1,2 +1,7 @@
 #+TITLE: Algebra with Integrals
 * additive
+* change of lower bound
+
+  \[\begin{aligned}
+  \int_{a}^{b} f(x) dx + \int_{b}^{c} f(x) dx = \int_{a}^{c} f(x) dx
+  \end{aligned}\]
