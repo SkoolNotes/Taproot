@@ -25,6 +25,6 @@
 * net change theorem
 
   \[\begin{aligned}
-  \frac{d}{dx}\int_{a}^{x} f(x) dx = f(x) + f(a)
+  \frac{d}{dx}\int_{a}^{x} f(x) dx = f(x) - f(a)
   \int_{a}^{x} f'(x) dx = f(x) - f(a)
   \end{aligned}\]

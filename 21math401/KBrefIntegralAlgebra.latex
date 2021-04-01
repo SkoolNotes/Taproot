@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10019)}}    % original
-%\rhead{\textrmlf{Compiled }\#10019\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10020)}}    % original
+%\rhead{\textrmlf{Compiled }\#10020\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10019
+  \#10020
   \textrmlf{ on}
       \today
   }       % new date
@@ -225,7 +225,7 @@ zero)
 \section{net change theorem}\label{net-change-theorem}}
 
 \[\begin{aligned}
-  \frac{d}{dx}\int_{a}^{x} f(x) dx = f(x) + f(a)
+  \frac{d}{dx}\int_{a}^{x} f(x) dx = f(x) - f(a)
   \int_{a}^{x} f'(x) dx = f(x) - f(a)
   \end{aligned}\]
 
