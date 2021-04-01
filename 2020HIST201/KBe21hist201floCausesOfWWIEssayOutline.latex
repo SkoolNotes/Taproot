@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9969)}}    % original
-%\rhead{\textrmlf{Compiled }\#9969\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9970)}}    % original
+%\rhead{\textrmlf{Compiled }\#9970\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9969
+  \#9970
   \textrmlf{ on}
       \today
   }       % new date
@@ -263,11 +263,12 @@ sources}.}{TODO read primary sources.}}\label{read-primary-sources.}}
 \subsection{\texorpdfstring{{TODO} review
 evidence/notes}{TODO review evidence/notes}}\label{review-evidencenotes}}
 
-\hypertarget{come-up-with-argument}{%
-\subsection{\texorpdfstring{{TODO} come up with
-argument}{TODO come up with argument}}\label{come-up-with-argument}}
+\hypertarget{come-up-with-general-frame}{%
+\subsection{\texorpdfstring{{TODO} come up with general
+frame}{TODO come up with general frame}}\label{come-up-with-general-frame}}
 
-\hypertarget{todo}{%
-\subsection{TODO}\label{todo}}
+\hypertarget{come-up-with-argument-body-paragraphs}{%
+\subsection{\texorpdfstring{{TODO} come up with argument, body
+paragraphs}{TODO come up with argument, body paragraphs}}\label{come-up-with-argument-body-paragraphs}}
 
 \end{document}
