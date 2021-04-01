@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10030)}}    % original
-%\rhead{\textrmlf{Compiled }\#10030\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10031)}}    % original
+%\rhead{\textrmlf{Compiled }\#10031\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10030
+  \#10031
   \textrmlf{ on}
       \today
   }       % new date
@@ -204,7 +204,7 @@
 acceleration}\label{derive-the-kinematic-equations-for-constant-acceleration}}
 
 \[\begin{aligned}
-  v = \int_{}^{} a dt
+  v = \int_{}^{} a dt = at + C_v
   \end{aligned}\]
 
 \end{document}
