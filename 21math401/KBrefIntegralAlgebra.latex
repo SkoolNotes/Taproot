@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10015)}}    % original
-%\rhead{\textrmlf{Compiled }\#10015\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10016)}}    % original
+%\rhead{\textrmlf{Compiled }\#10016\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10015
+  \#10016
   \textrmlf{ on}
       \today
   }       % new date
@@ -220,5 +220,12 @@ calculus}}{fundamental theorem of calculus}}\label{fundamental-theorem-of-calcul
 
 (second one doesn't have a \(+C\) because the derivative sends that to
 zero)
+
+\hypertarget{net-change-theorem}{%
+\section{net change theorem}\label{net-change-theorem}}
+
+\[\begin{aligned}
+  \frac{d}{dx}\int_{a}^{x} f(x) dx
+  \end{aligned}\]
 
 \end{document}
