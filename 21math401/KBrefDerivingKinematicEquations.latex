@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10037)}}    % original
-%\rhead{\textrmlf{Compiled }\#10037\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10038)}}    % original
+%\rhead{\textrmlf{Compiled }\#10038\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10037
+  \#10038
   \textrmlf{ on}
       \today
   }       % new date
@@ -206,8 +206,9 @@ acceleration}\label{derive-the-kinematic-equations-for-constant-acceleration}}
 \[\begin{aligned}
   v &= \int a dt &= at + C_v\\
   x &= \int v dt = \int (at+C_v) dt &= \frac{1}{2}at^2 + C_v t + C_x
-  \end{aligned}\] Letting \(x_0 = C_x\) and \(v_0 = C_v\),
-\[\begin{aligned}
+  \end{aligned}\]
+
+Letting \(x_0 = C_x\) and \(v_0 = C_v\), \[\begin{aligned}
   x = x_0+v_0t+\frac{1}{2}a_0t^2
   \end{aligned}\]
 
