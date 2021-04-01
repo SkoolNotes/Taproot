@@ -25,5 +25,5 @@
 * net change theorem
 
   \[\begin{aligned}
-  \frac{d}{dx}\int_{a}^{x} f(x) dx
+  \frac{d}{dx}\int_{a}^{x} f(x) dx = f(x) + f(a)
   \end{aligned}\]
