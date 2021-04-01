@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9980)}}    % original
-%\rhead{\textrmlf{Compiled }\#9980\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9981)}}    % original
+%\rhead{\textrmlf{Compiled }\#9981\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9980
+  \#9981
   \textrmlf{ on}
       \today
   }       % new date
@@ -293,6 +293,9 @@ thesis}\label{written-expression-use-precise-terminology-and-express-nuanced-tho
 \begin{enumerate}
 \item
   germany rose up, making france and russia concerned
+\item
+  leaders expected war to come, so that may have made it more
+  innevitable
 \end{enumerate}
 
 \hypertarget{todos}{%
