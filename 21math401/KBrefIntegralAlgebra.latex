@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10021)}}    % original
-%\rhead{\textrmlf{Compiled }\#10021\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10022)}}    % original
+%\rhead{\textrmlf{Compiled }\#10022\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10021
+  \#10022
   \textrmlf{ on}
       \today
   }       % new date
@@ -227,7 +227,11 @@ zero)
 \[\begin{aligned}
   \frac{d}{dx}\int_{a}^{x} f(x) dx = f(x)\\
   \int_{a}^{x} f'(x) dx = f(x) - f(a)\\
-  \frac{d}{dx}\int_{a}^{p(x)} f(x) dx = f(p(x))\\
-  \end{aligned}\]
+  \frac{d}{dx}\int_{a}^{p(x)} f(x) dx = f(p(x))p'(x)\\
+  \end{aligned}\] That last one uses chain rule
+
+\hypertarget{splitting-integrals-with-variable-upper-and-lower-bounds}{%
+\section{splitting integrals with variable upper and lower
+bounds}\label{splitting-integrals-with-variable-upper-and-lower-bounds}}
 
 \end{document}
