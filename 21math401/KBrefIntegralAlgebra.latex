@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10023)}}    % original
-%\rhead{\textrmlf{Compiled }\#10023\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10024)}}    % original
+%\rhead{\textrmlf{Compiled }\#10024\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10023
+  \#10024
   \textrmlf{ on}
       \today
   }       % new date
@@ -227,14 +227,13 @@ zero)
 \[\begin{aligned}
   \frac{d}{dx}\int_{a}^{x} f(x) dx = f(x)\\
   \int_{a}^{x} f'(x) dx = f(x) - f(a)\\
-  \frac{d}{dx}\int_{a}^{p(x)} f(x) dx = f(p(x))p'(x)\\
   \end{aligned}\] That last one uses chain rule
 
-\hypertarget{splitting-integrals-with-variable-upper-and-lower-bounds}{%
-\section{splitting integrals with variable upper and lower
-bounds}\label{splitting-integrals-with-variable-upper-and-lower-bounds}}
+\hypertarget{variable-bounds}{%
+\section{variable bounds}\label{variable-bounds}}
 
 \[\begin{aligned}
+  \frac{d}{dx}\int_{a}^{p(x)} f(x) dx = f(p(x))p'(x)\\
   \int_{p(x)}^{q(x)} f(t)dt = \int_{0}^{q(x)} f(t)dt - \int_{0}^{p(x)} f(t)dt
   \end{aligned}\]
 

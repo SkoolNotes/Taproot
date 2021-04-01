@@ -27,12 +27,12 @@
   \[\begin{aligned}
   \frac{d}{dx}\int_{a}^{x} f(x) dx = f(x)\\
   \int_{a}^{x} f'(x) dx = f(x) - f(a)\\
-  \frac{d}{dx}\int_{a}^{p(x)} f(x) dx = f(p(x))p'(x)\\
   \end{aligned}\]
   That last one uses chain rule
 
-* splitting integrals with variable upper and lower bounds
+* variable bounds
 
   \[\begin{aligned}
+  \frac{d}{dx}\int_{a}^{p(x)} f(x) dx = f(p(x))p'(x)\\
   \int_{p(x)}^{q(x)} f(t)dt = \int_{0}^{q(x)} f(t)dt - \int_{0}^{p(x)} f(t)dt
   \end{aligned}\]
