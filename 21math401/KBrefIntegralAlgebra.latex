@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10008)}}    % original
-%\rhead{\textrmlf{Compiled }\#10008\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10009)}}    % original
+%\rhead{\textrmlf{Compiled }\#10009\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10008
+  \#10009
   \textrmlf{ on}
       \today
   }       % new date
@@ -197,5 +197,10 @@
 
 \hypertarget{change-of-lower-bound}{%
 \section{change of lower bound}\label{change-of-lower-bound}}
+
+\[\begin{aligned}
+  \int_{a}^{b} f(x) dx + \int_{b}^{c} f(x) dx = \int_{a}^{c} f(x) dx\\
+  \implies \int_{a}^{x} f(t) dt = \int_{b}^{x} f(t) dt - \int_{a}^{b} f(t) dt
+  \end{aligned}\]
 
 \end{document}
