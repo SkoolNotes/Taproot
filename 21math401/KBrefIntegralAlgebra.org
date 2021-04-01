@@ -32,3 +32,7 @@
   That last one uses chain rule
 
 * splitting integrals with variable upper and lower bounds
+
+  \[\begin{aligned}
+  \int_{p(x)}^{q(x)} f(t)dt = \int_{0}^{q(x)} f(t)dt - \int_{0}^{p(x)} f(t)dt
+  \end{aligned}\]

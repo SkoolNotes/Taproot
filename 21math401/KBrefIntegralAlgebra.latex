@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10022)}}    % original
-%\rhead{\textrmlf{Compiled }\#10022\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10023)}}    % original
+%\rhead{\textrmlf{Compiled }\#10023\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10022
+  \#10023
   \textrmlf{ on}
       \today
   }       % new date
@@ -233,5 +233,9 @@ zero)
 \hypertarget{splitting-integrals-with-variable-upper-and-lower-bounds}{%
 \section{splitting integrals with variable upper and lower
 bounds}\label{splitting-integrals-with-variable-upper-and-lower-bounds}}
+
+\[\begin{aligned}
+  \int_{p(x)}^{q(x)} f(t)dt = \int_{0}^{q(x)} f(t)dt - \int_{0}^{p(x)} f(t)dt
+  \end{aligned}\]
 
 \end{document}
