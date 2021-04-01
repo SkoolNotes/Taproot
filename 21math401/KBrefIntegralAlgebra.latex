@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10024)}}    % original
-%\rhead{\textrmlf{Compiled }\#10024\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10026)}}    % original
+%\rhead{\textrmlf{Compiled }\#10026\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10024
+  \#10026
   \textrmlf{ on}
       \today
   }       % new date
@@ -235,6 +235,13 @@ zero)
 \[\begin{aligned}
   \frac{d}{dx}\int_{a}^{p(x)} f(x) dx = f(p(x))p'(x)\\
   \int_{p(x)}^{q(x)} f(t)dt = \int_{0}^{q(x)} f(t)dt - \int_{0}^{p(x)} f(t)dt
+  \end{aligned}\]
+
+An example
+
+\[\begin{aligned}
+  k(x) = \int_{x^2}^{e^x} \sqrt{\sin t} dt = \int_{0}^{e^x} \sqrt{\sin t}dt - \int_{0}^{x^2} \sqrt{\sin t} dt\\
+  k'(x) = \sqrt{\sin e^x}e^x - 2x\sqrt{\sin x^2}
   \end{aligned}\]
 
 \end{document}
