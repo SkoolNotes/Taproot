@@ -4,3 +4,4 @@
   Suppose $T \in  \mathcal{L} (V)$ has a diagonal matrix $A$ with respect to some basis of $V$ and that $\lambda \in \mathbb{F}$. Prove that $\lambda$ appears on the diagonal of $A$ precisely $\odim E(\lambda, T)$ times.
   #+end_quote
 * Proof
+  There must be $\odim V$ (non-distinct) eigenvalues on the diagonal.

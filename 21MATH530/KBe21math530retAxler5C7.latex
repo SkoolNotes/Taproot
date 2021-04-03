@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10076)}}    % original
-%\rhead{\textrmlf{Compiled }\#10076\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10077)}}    % original
+%\rhead{\textrmlf{Compiled }\#10077\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10076
+  \#10077
   \textrmlf{ on}
       \today
   }       % new date
@@ -204,5 +204,7 @@ Prove that \(\lambda\) appears on the diagonal of \(A\) precisely
 
 \hypertarget{proof}{%
 \section{Proof}\label{proof}}
+
+There must be \(\odim V\) (non-distinct) eigenvalues on the diagonal.
 
 \end{document}
