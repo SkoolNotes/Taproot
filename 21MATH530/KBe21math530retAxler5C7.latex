@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10084)}}    % original
-%\rhead{\textrmlf{Compiled }\#10084\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10085)}}    % original
+%\rhead{\textrmlf{Compiled }\#10085\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10084
+  \#10085
   \textrmlf{ on}
       \today
   }       % new date
@@ -205,7 +205,7 @@ Prove that \(\lambda\) appears on the diagonal of \(A\) precisely
 \hypertarget{proof}{%
 \section{Proof}\label{proof}}
 
-There must be \(\odim V\) (non-distinct) eigenvalues on the diagonal.
+\texttt{There\ must\ be\ \$\textbackslash{}odim\ V\$\ (non-distinct)\ eigenvalues\ on\ the\ diagonal.}
 
 Any eigenvalue \(\lambda\) must have \(\odim E(\lambda ,T)\) associated
 eigenvectors, by definition. ("In other words, \(E(\lambda , T)\) is the
