@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10073)}}    % original
-%\rhead{\textrmlf{Compiled }\#10073\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10074)}}    % original
+%\rhead{\textrmlf{Compiled }\#10074\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10073
+  \#10074
   \textrmlf{ on}
       \today
   }       % new date
@@ -192,6 +192,12 @@
 
 % DID YOU SET SPELL????
 
+\hypertarget{exercise-7}{%
+\section{Exercise 7}\label{exercise-7}}
 
+\begin{quote}
+Suppose \(T \in  \mathcal{L} (V)\) has a diagonal matrix \(A\) with
+respect to some basis of \(V\) and that \(\lambda \in \mathbb{F}\)
+\end{quote}
 
 \end{document}
