@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10046)}}    % original
-%\rhead{\textrmlf{Compiled }\#10046\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10047)}}    % original
+%\rhead{\textrmlf{Compiled }\#10047\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10046
+  \#10047
   \textrmlf{ on}
       \today
   }       % new date
@@ -392,6 +392,9 @@ trenches}\label{poems-from-dudes-in-the-trenches}}
 \item
   security dilemma
 \end{enumerate}
+
+\hypertarget{outline}{%
+\section{outline}\label{outline}}
 
 \hypertarget{todos}{%
 \section{todos}\label{todos}}
