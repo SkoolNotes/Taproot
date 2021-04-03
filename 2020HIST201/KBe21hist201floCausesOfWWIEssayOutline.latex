@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10055)}}    % original
-%\rhead{\textrmlf{Compiled }\#10055\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10056)}}    % original
+%\rhead{\textrmlf{Compiled }\#10056\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10055
+  \#10056
   \textrmlf{ on}
       \today
   }       % new date
@@ -400,7 +400,7 @@ trenches}\label{poems-from-dudes-in-the-trenches}}
 \subsection{Intro}\label{intro}}
 
 \hypertarget{thesis}{%
-\subsection{Thesis}\label{thesis}}
+\subsection{\texorpdfstring{{TODO} Thesis}{TODO Thesis}}\label{thesis}}
 
 \hypertarget{e}{%
 \subsubsection{\texorpdfstring{\textbf{e}}{e}}\label{e}}
@@ -408,6 +408,9 @@ trenches}\label{poems-from-dudes-in-the-trenches}}
 \hypertarget{bp1-citizens-start-the-war}{%
 \subsection{BP1: citizens start the
 war}\label{bp1-citizens-start-the-war}}
+
+\hypertarget{primary-sources-1}{%
+\subsubsection{primary sources}\label{primary-sources-1}}
 
 \hypertarget{bp2-governments-keep-the-war}{%
 \subsection{BP2: governments keep the
