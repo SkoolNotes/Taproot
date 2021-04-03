@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10045)}}    % original
-%\rhead{\textrmlf{Compiled }\#10045\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10046)}}    % original
+%\rhead{\textrmlf{Compiled }\#10046\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10045
+  \#10046
   \textrmlf{ on}
       \today
   }       % new date
@@ -216,8 +216,8 @@ war inevitable.
 
 Analyze World War 1 according to one (or a blend) of these levels of
 analysis. Which best explains the general causes of the war as well as
-the specific sequence of events (including events that prolonged the war
-beyond the initial outbreak)?
+the specific sequence of events (\textbf{including events that prolonged
+the war beyond the initial outbreak})?
 
 Essays should cite from the Palmer reading, and, if you want to aim for
 the exemplary evidence standard, any of these
