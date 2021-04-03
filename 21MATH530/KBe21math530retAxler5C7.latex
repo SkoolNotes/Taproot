@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10080)}}    % original
-%\rhead{\textrmlf{Compiled }\#10080\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10081)}}    % original
+%\rhead{\textrmlf{Compiled }\#10081\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10080
+  \#10081
   \textrmlf{ on}
       \today
   }       % new date
@@ -211,5 +211,8 @@ Any eigenvalue \(\lambda\) must have \(\odim E(\lambda ,T)\) associated
 eigenvectors, by definition. ("In other words, \(E(\lambda , T)\) is the
 set of all eigenvectors of \(T\) corresponding to \(\lambda\), along
 with the \(0\) vector").
+
+\(\lambda\) appears exactly once for each associated eigenvalue. All
+linearly-independent eigenvectors appear exactly once on the diagonal,
 
 \end{document}
