@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10081)}}    % original
-%\rhead{\textrmlf{Compiled }\#10081\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10083)}}    % original
+%\rhead{\textrmlf{Compiled }\#10083\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10081
+  \#10083
   \textrmlf{ on}
       \today
   }       % new date
@@ -212,7 +212,9 @@ eigenvectors, by definition. ("In other words, \(E(\lambda , T)\) is the
 set of all eigenvectors of \(T\) corresponding to \(\lambda\), along
 with the \(0\) vector").
 
-\(\lambda\) appears exactly once for each associated eigenvalue. All
-linearly-independent eigenvectors appear exactly once on the diagonal,
+\(\lambda\) appears exactly once for each associated eigenvalue. The
+diagonal is comprised of the basis vectors of the eigenspaces, implying
+that each eigenspace of \(\lambda\) is represented by
+\(\odim E(\lambda ,T)\)
 
 \end{document}
