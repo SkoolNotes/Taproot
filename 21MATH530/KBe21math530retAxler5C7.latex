@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10074)}}    % original
-%\rhead{\textrmlf{Compiled }\#10074\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10075)}}    % original
+%\rhead{\textrmlf{Compiled }\#10075\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10074
+  \#10075
   \textrmlf{ on}
       \today
   }       % new date
@@ -197,7 +197,9 @@
 
 \begin{quote}
 Suppose \(T \in  \mathcal{L} (V)\) has a diagonal matrix \(A\) with
-respect to some basis of \(V\) and that \(\lambda \in \mathbb{F}\)
+respect to some basis of \(V\) and that \(\lambda \in \mathbb{F}\).
+Prove that \(\lambda\) appears on the diagonal of \(A\) precisely
+\(\odim E(\lambda, T)\) times.
 \end{quote}
 
 \end{document}
