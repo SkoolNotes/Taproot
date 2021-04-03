@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10054)}}    % original
-%\rhead{\textrmlf{Compiled }\#10054\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10055)}}    % original
+%\rhead{\textrmlf{Compiled }\#10055\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10054
+  \#10055
   \textrmlf{ on}
       \today
   }       % new date
@@ -421,7 +421,9 @@ war}\label{bp2-governments-keep-the-war}}
 
 \begin{enumerate}
 \item
-  'just outlast others' \textless{} shipping blockades
+  {TODO} 'just outlast others' \textless{} shipping blockades
+\item
+  war on others' turf
 \end{enumerate}
 
 \hypertarget{bp3-greater-power-couldve-stopped-the-reaction-at-any-time}{%
