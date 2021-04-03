@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10075)}}    % original
-%\rhead{\textrmlf{Compiled }\#10075\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10076)}}    % original
+%\rhead{\textrmlf{Compiled }\#10076\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10075
+  \#10076
   \textrmlf{ on}
       \today
   }       % new date
@@ -201,5 +201,8 @@ respect to some basis of \(V\) and that \(\lambda \in \mathbb{F}\).
 Prove that \(\lambda\) appears on the diagonal of \(A\) precisely
 \(\odim E(\lambda, T)\) times.
 \end{quote}
+
+\hypertarget{proof}{%
+\section{Proof}\label{proof}}
 
 \end{document}
