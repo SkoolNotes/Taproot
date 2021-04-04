@@ -43,7 +43,9 @@ Write a mini-essay (5-8 sentences) about your favorite gift that you gave or rec
 
 I love pickles.
 In quarantine, we were unable to buy pickles for months.
-But, on chrismas, I received 6 jar of pickles
+On chrismas, my mom gave me a masive 
+
+I received 6 jar of pickles
 
 
 
