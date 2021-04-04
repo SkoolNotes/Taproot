@@ -30,9 +30,11 @@
   \implies& \boxed{x=\frac{3}{2}}
   \end{aligned}\]
 * approximate area under the curve graphically
-  The function looks symmetric about $x=12$, so I will focus on $\[0, 12\]$.
+  The function looks symmetric about $x=12$, so I will focus on $[0, 12]$.
 
-  On the interval $\[0, 6)$ a little under $6\cdot 100$ barrels of oil flow through.
+  On the interval $[0, 6)$ a little under $6\cdot 100$ barrels of oil flow through.
 
-  On the interval $\[6, 12)$ a little over $6\cdot 100 + \frac{1}{2}6\cdot 100$ barrels flow through, for a total of $\approx 2(6*100+6*100+\frac{1}{2}6*100) = 3000$ barrels of oil.
+  On the interval $[6, 12)$ a little over $6\cdot 100 + \frac{1}{2}6\cdot 100$ barrels flow through, for a total of $\approx 2(6*100+6*100+\frac{1}{2}6*100) = 3000$ barrels of oil.
 * fundamental theorem of calculus but worded confusingly
+
+  $F(x)$ is the antiderivative of $f(x)$, so differences in it are values of definite integrals.
