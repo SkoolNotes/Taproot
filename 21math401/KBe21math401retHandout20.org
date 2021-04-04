@@ -21,4 +21,8 @@
   \end{aligned}\]
 * definite integral as area under a curve
   The area in the triangle is 3 square units, so $5+3 = \boxed{8}$
-* minimum value of $f(x) = \int_{-2}^{x^2-3x} e^t^2 dt$
+* minimum value of $f(x) = \int_{-2}^{x^2-3x} e^{t^2} dt$
+
+  \[\begin{aligned}
+  \frac{d}{dx} f(x) = e^{(x^2-3x)^2}(2x-3)
+  \end{aligned}\]
