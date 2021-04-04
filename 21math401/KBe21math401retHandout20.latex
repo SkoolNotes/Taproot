@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{amsfonts}
+\usepackage{gensymb}
 
 \usepackage[normalem]{ulem}
 
@@ -140,11 +141,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10150)}}    % original
-%\rhead{\textrmlf{Compiled }\#10150\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10151)}}    % original
+%\rhead{\textrmlf{Compiled }\#10151\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10150
+  \#10151
   \textrmlf{ on}
       \today
   }       % new date
@@ -244,6 +245,6 @@ flow through.
 
 On the interval \(\[6, 12)\) a little over
 \(6\cdot 100 + \frac{1}{2}6\cdot 100\) barrels flow through, for a total
-of \(\approx 2(6*100+6*100+\frac{1}{2}6*100) = 3000\) barrels of oil.
+of \(\approx 2(6*100+6*100+\frac{1}{2}6*100) = 3000\) barrels of oil. *
 
 \end{document}
