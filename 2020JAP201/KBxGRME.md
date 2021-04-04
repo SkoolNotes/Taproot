@@ -58,7 +58,7 @@ I was very happy, and gave everyone some of my pickles to enjoy.
 はこをあけると、わたしはたくさんのピクルスを、クリスマスプレゼントとして、もらいました。
 ピクルスがだいすきです。
 COVID-19のせいで、なんかげつも、ピクルスをかえなかったのです。
-
+わたしはとてもうれしかったのです。みなさんに、
 
 
 
