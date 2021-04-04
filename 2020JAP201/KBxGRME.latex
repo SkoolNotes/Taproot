@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10095)}}    % original
-%\rhead{\textrmlf{Compiled }\#10095\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10096)}}    % original
+%\rhead{\textrmlf{Compiled }\#10096\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10095
+  \#10096
   \textrmlf{ on}
       \today
   }       % new date
@@ -241,5 +241,7 @@ enjoy.
 
 \hypertarget{japanese}{%
 \subsection{Japanese}\label{japanese}}
+
+クリスマス
 
 \end{document}
