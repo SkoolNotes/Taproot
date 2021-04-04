@@ -141,11 +141,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10165)}}    % original
-%\rhead{\textrmlf{Compiled }\#10165\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10166)}}    % original
+%\rhead{\textrmlf{Compiled }\#10166\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10165
+  \#10166
   \textrmlf{ on}
       \today
   }       % new date
@@ -262,8 +262,8 @@ are definite integrals. In this case, \[\begin{aligned}
   \end{aligned}\]
 
 \hypertarget{amusement-park-word-problem}{%
-\section{amusement park word
-problem}\label{amusement-park-word-problem}}
+\section{\texorpdfstring{{TODO} amusement park word
+problem}{TODO amusement park word problem}}\label{amusement-park-word-problem}}
 
 \[\begin{aligned}
   E(t) = \frac{15600}{t^2-24t+160}\\
