@@ -141,11 +141,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10151)}}    % original
-%\rhead{\textrmlf{Compiled }\#10151\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10152)}}    % original
+%\rhead{\textrmlf{Compiled }\#10152\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10151
+  \#10152
   \textrmlf{ on}
       \today
   }       % new date
@@ -245,6 +245,10 @@ flow through.
 
 On the interval \(\[6, 12)\) a little over
 \(6\cdot 100 + \frac{1}{2}6\cdot 100\) barrels flow through, for a total
-of \(\approx 2(6*100+6*100+\frac{1}{2}6*100) = 3000\) barrels of oil. *
+of \(\approx 2(6*100+6*100+\frac{1}{2}6*100) = 3000\) barrels of oil.
+
+\hypertarget{fundamental-theorem-of-calculus-but-worded-confusingly}{%
+\section{fundamental theorem of calculus but worded
+confusingly}\label{fundamental-theorem-of-calculus-but-worded-confusingly}}
 
 \end{document}
