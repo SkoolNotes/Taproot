@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10141)}}    % original
-%\rhead{\textrmlf{Compiled }\#10141\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10142)}}    % original
+%\rhead{\textrmlf{Compiled }\#10142\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10141
+  \#10142
   \textrmlf{ on}
       \today
   }       % new date
@@ -248,5 +248,10 @@ An example
 
 \hypertarget{mean-value-theorem}{%
 \section{mean value theorem}\label{mean-value-theorem}}
+
+There exists some point \(c\) over an integrable interval \(\[a, b\]\)
+s.t. \[\begin{aligned}
+  f(c) = \frac{1}{b-a}\int_{a}^{b} f(x) dx
+  \end{aligned}\]
 
 \end{document}

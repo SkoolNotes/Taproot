@@ -45,3 +45,8 @@
   \end{aligned}\]
 
 * mean value theorem
+
+  There exists some point $c$ over an integrable interval $\[a, b\]$ s.t.
+  \[\begin{aligned}
+  f(c) = \frac{1}{b-a}\int_{a}^{b} f(x) dx
+  \end{aligned}\]
