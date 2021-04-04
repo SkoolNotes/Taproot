@@ -63,8 +63,9 @@
    \int_{9}^{x} E(t) dt = \int_{9}^{x} \frac{15600}{t^2-24t+160} dx\\
    &= 15600 \ln (t^2-24t+160) (2t-24) ?????
    \end{aligned}\]
+
    I don't know how to integrate this symbolically, and WolframAlpha says it contains an inverse tangent. Thus, I will use a calculator:
 
    \[\begin{aligned}
-   \int_{9}^{15} \frac{15600}{t^2-24t+160} dt = 5019.3
+   \int_{9}^{15} \frac{15600}{t^2-24t+160} dt \approx \boxed{5019}
    \end{aligned}\]
