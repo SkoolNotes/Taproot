@@ -140,11 +140,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10132)}}    % original
-%\rhead{\textrmlf{Compiled }\#10132\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10133)}}    % original
+%\rhead{\textrmlf{Compiled }\#10133\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10132
+  \#10133
   \textrmlf{ on}
       \today
   }       % new date
@@ -220,5 +220,9 @@ Using the net change theorem,
 curve}\label{definite-integral-as-area-under-a-curve}}
 
 The area in the triangle is 3 square units, so \(5+3 = \boxed{8}\)
+
+\hypertarget{minimum-value-of-fx-int_-2x2-3x-et2-dt}{%
+\section{\texorpdfstring{minimum value of
+\(f(x) = \int_{-2}^{x^2-3x} e^t^2 dt\)}{minimum value of f(x) = \textbackslash int\_\{-2\}\^{}\{x\^{}2-3x\} e\^{}t\^{}2 dt}}\label{minimum-value-of-fx-int_-2x2-3x-et2-dt}}
 
 \end{document}
