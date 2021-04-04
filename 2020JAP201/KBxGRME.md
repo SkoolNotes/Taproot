@@ -42,9 +42,9 @@ Write a mini-essay (5-8 sentences) about your favorite gift that you gave or rec
 ## English
 
 I love pickles.
-In quarantine, we were unable to buy pickels for months.
+In quarantine, we were unable to buy pickles for months.
+But, on chrismas, I received 6 jar of pickles
 
-On my birthday 
 
 
 
