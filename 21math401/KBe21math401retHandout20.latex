@@ -140,11 +140,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10131)}}    % original
-%\rhead{\textrmlf{Compiled }\#10131\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10132)}}    % original
+%\rhead{\textrmlf{Compiled }\#10132\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10131
+  \#10132
   \textrmlf{ on}
       \today
   }       % new date
@@ -218,5 +218,7 @@ Using the net change theorem,
 \hypertarget{definite-integral-as-area-under-a-curve}{%
 \section{definite integral as area under a
 curve}\label{definite-integral-as-area-under-a-curve}}
+
+The area in the triangle is 3 square units, so \(5+3 = \boxed{8}\)
 
 \end{document}
