@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10088)}}    % original
-%\rhead{\textrmlf{Compiled }\#10088\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10089)}}    % original
+%\rhead{\textrmlf{Compiled }\#10089\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10088
+  \#10089
   \textrmlf{ on}
       \today
   }       % new date
@@ -229,5 +229,13 @@ about something you gave or received in the past.~ がんばって！
 👨‍👦　父の日（ちちのひ）
 
 **
+
+\hypertarget{english}{%
+\subsection{English}\label{english}}
+
+j On my birthday
+
+\hypertarget{japanese}{%
+\subsection{Japanese}\label{japanese}}
 
 \end{document}

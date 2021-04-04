@@ -39,11 +39,20 @@ Write a mini-essay (5-8 sentences) about your favorite gift that you gave or rec
 
 **
 
+## English
+
+
+j
+On my birthday 
 
 
 
 
 
+
+
+
+## Japanese
 
 
 
