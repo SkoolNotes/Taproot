@@ -141,11 +141,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10169)}}    % original
-%\rhead{\textrmlf{Compiled }\#10169\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10170)}}    % original
+%\rhead{\textrmlf{Compiled }\#10170\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10169
+  \#10170
   \textrmlf{ on}
       \today
   }       % new date
@@ -281,5 +281,9 @@ time}\label{number-of-people-who-have-entered-the-park-by-some-time}}
    \end{aligned}\] I don't know how to integrate this symbolically, and
 WolframAlpha says it contains an inverse tangent. Thus, I will use a
 calculator:
+
+\[\begin{aligned}
+   \int_{9}^{15} \frac{15600}{t^2-24t+160} dx =
+   \end{aligned}\]
 
 \end{document}
