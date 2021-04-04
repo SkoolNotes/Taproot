@@ -140,11 +140,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10148)}}    % original
-%\rhead{\textrmlf{Compiled }\#10148\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10149)}}    % original
+%\rhead{\textrmlf{Compiled }\#10149\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10148
+  \#10149
   \textrmlf{ on}
       \today
   }       % new date
@@ -243,5 +243,7 @@ On the interval \(\[0, 6)\) a little under \(6\cdot 100\) barrels of oil
 flow through.
 
 On the interval \(\[6, 12)\) a little under
+\(6\cdot 100 + \frac{1}{2}6\cdot 100\) barrels flow through, for a total
+of \$ ≈ 2(6*100+6*100+\frac{1}{2}6*100) = \$
 
 \end{document}
