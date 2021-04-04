@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10162)}}    % original
-%\rhead{\textrmlf{Compiled }\#10162\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10163)}}    % original
+%\rhead{\textrmlf{Compiled }\#10163\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10162
+  \#10163
   \textrmlf{ on}
       \today
   }       % new date
@@ -251,7 +251,7 @@ An example
 \section{mean value theorem (for
 integrals)}\label{mean-value-theorem-for-integrals}}
 
-There exists some point \(c\) over an integrable interval \(\[a, b\]\)
+There exists some point \(c\) over an integrable interval \([a, b]\)
 s.t. \[\begin{aligned}
   f(c) = \frac{1}{b-a}\int_{a}^{b} f(x) dx
   \end{aligned}\]
@@ -261,5 +261,9 @@ s.t. \[\begin{aligned}
 
 \hypertarget{power-rule-for-integrals}{%
 \subsection{power rule for integrals}\label{power-rule-for-integrals}}
+
+\[\begin{aligned}
+   in
+   \end{aligned}\]
 
 \end{document}
