@@ -5,6 +5,8 @@
 
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
 
 \usepackage[normalem]{ulem}
 
@@ -16,6 +18,11 @@
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
 
 \usepackage{enumitem}
 \setlistdepth{9}
@@ -31,6 +38,9 @@
 \setlist[itemize,9]{label=\textbullet}
 
 \renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -130,11 +140,16 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7438)}}    % original
-%\rhead{\textrmlf{Compiled }\#7438\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#7438\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10219)}}    % original
+%\rhead{\textrmlf{Compiled }\#10219\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#10219
+  \textrmlf{ on}
+      \today
+  }       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -169,10 +184,16 @@
     \end{center}
 }
 
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
+\textbf{Source}:\thinspace
 {\href{http://taproot.shabang.cf/relay?request=KBhMATH401SubIndex}{\tiny\textulf{[[}\textbf{KBhMATH401SubIndex}\textulf{]]}}}\thinspace
 
 \hypertarget{derivatives}{%
@@ -213,29 +234,28 @@ Derivatives}\label{useful-table-of-derivatives}}
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
-f(x) & f'(x) \\ \addlinespace
+f(x) & f'(x) \\
 \midrule
 \endhead
-\(x^2\) & \(2x\) \\ \addlinespace
-\(x^3\) & \(3x^2\) \\ \addlinespace
-\(x^n\) & \(nx^{n-1}\) \\ \addlinespace
-\(\frac{1}{x}\) & \(\frac{-1}{x^2}\) \\ \addlinespace
-\(\sqrt{x}\) & \(\frac{1}{2 \sqrt{x}}\) \\ \addlinespace
-\(\sin(x)\) & \(\cos (x)\) \\ \addlinespace
-\(\cos(x)\) & \(-\sin (x)\) \\ \addlinespace
-\(\tan(x)\) & \(1 + \tan^2 (x) = sec^2(x)\) \\ \addlinespace
-\(\cot(x)\) & \(-\csc^2 (x)\) \\ \addlinespace
-\(\sec(x)\) & \(\tan(x) \sec(x)\) \\ \addlinespace
-\(\sec^2(x)\) & \(\tan(x)\) \\ \addlinespace
-\(\csc(x)\) & \(-\cot(x) \csc(x)\) \\ \addlinespace
-\(e^x\) & \(e^x\) \\ \addlinespace
-\(ln(x)\) & \(\frac{1}{x}\) \\ \addlinespace
-\(a^x\) & \(a^x ln(a)\) \\ \addlinespace
-\(log_a(x)\) & \(\frac{1}{x ln(a)}\) \\ \addlinespace
-\(f^-1(x)\) & \(\frac{1}{f'(f^-1(x))}\) \\ \addlinespace
-\(sin^-1(ax)\) & \(\frac{a}{\sqrt{1-(ax)^2}}\) \\ \addlinespace
-\(cos^-1(ax)\) & \(\frac{-1}{\sqrt{1-(ax)^2}}\) \\ \addlinespace
-\(tan^-1(ax)\) & \(\frac{1}{1+(ax)^2}\) \\ \addlinespace
+\(x^2\) & \(2x\) \\
+\(x^3\) & \(3x^2\) \\
+\(x^n\) & \(nx^{n-1}\) \\
+\(\frac{1}{x}\) & \(\frac{-1}{x^2}\) \\
+\(\sqrt{x}\) & \(\frac{1}{2 \sqrt{x}}\) \\
+\(\sin(x)\) & \(\cos (x)\) \\
+\(\cos(x)\) & \(-\sin (x)\) \\
+\(\tan(x)\) & \(1 + \tan^2 (x) = sec^2(x)\) \\
+\(\cot(x)\) & \(-\csc^2 (x)\) \\
+\(\sec(x)\) & \(\tan(x) \sec(x)\) \\
+\(\csc(x)\) & \(-\cot(x) \csc(x)\) \\
+\(e^x\) & \(e^x\) \\
+\(ln(x)\) & \(\frac{1}{x}\) \\
+\(a^x\) & \(a^x ln(a)\) \\
+\(log_a(x)\) & \(\frac{1}{x ln(a)}\) \\
+\(f^-1(x)\) & \(\frac{1}{f'(f^-1(x))}\) \\
+\(sin^-1(ax)\) & \(\frac{a}{\sqrt{1-(ax)^2}}\) \\
+\(cos^-1(ax)\) & \(\frac{-1}{\sqrt{1-(ax)^2}}\) \\
+\(tan^-1(ax)\) & \(\frac{1}{1+(ax)^2}\) \\
 \bottomrule
 \end{longtable}
 

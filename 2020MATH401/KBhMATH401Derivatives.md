@@ -32,7 +32,6 @@ Derivative of $f(x)$ => $\frac{dy}{dx}$
 | $\tan(x)$     | $1 + \tan^2 (x) = sec^2(x)$      |
 | $\cot(x)$     | $-\csc^2 (x)$          |
 | $\sec(x)$     | $\tan(x) \sec(x)$      |
-| $\sec^2(x)$     | $\tan(x)$      |
 | $\csc(x)$     | $-\cot(x) \csc(x)$     |
 | $e^x$         | $e^x$                  |
 | $ln(x)$       | $\frac{1}{x}$          |
