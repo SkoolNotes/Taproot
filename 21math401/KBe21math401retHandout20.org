@@ -34,10 +34,12 @@
 
   On the interval $[0, 6)$ a little under $6\cdot 100$ barrels of oil flow through.
 
-  On the interval $[6, 12)$ a little over $6\cdot 100 + \frac{1}{2}6\cdot 100$ barrels flow through, for a total of $\approx 2(6*100+6*100+\frac{1}{2}6*100) = 3000$ barrels of oil.
+  On the interval $[6, 12)$ a little over $6\cdot 100 + \frac{1}{2}6\cdot 100$ barrels flow through, for a total of
+  \[\approx 2(6\cdot 100+6 \cdot 100+\frac{1}{2}6 \cdot 100) = 3000\]
+  barrels of oil.
 * fundamental theorem of calculus but worded confusingly
 
-  $F(x)$ is the antiderivative of $f(x)$, so differences in it are values of definite integrals. In this case,
+  $F(x)$ is the antiderivative of $f(x)$, so differences of its values are definite integrals. In this case,
   \[\begin{aligned}
   F(3) - F(0) = \int_{0}^{3} f(x) dx  = \int_{0}^{1} f(x) dx + \int_{1}^{3} f(x) dx  = 2 + 2.3 = \boxed{4.3}
   \end{aligned}\]
