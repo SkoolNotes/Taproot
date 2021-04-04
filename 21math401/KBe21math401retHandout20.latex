@@ -141,11 +141,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10181)}}    % original
-%\rhead{\textrmlf{Compiled }\#10181\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10182)}}    % original
+%\rhead{\textrmlf{Compiled }\#10182\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10181
+  \#10182
   \textrmlf{ on}
       \today
   }       % new date
