@@ -141,11 +141,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10161)}}    % original
-%\rhead{\textrmlf{Compiled }\#10161\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10165)}}    % original
+%\rhead{\textrmlf{Compiled }\#10165\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10161
+  \#10165
   \textrmlf{ on}
       \today
   }       % new date
@@ -277,6 +277,7 @@ time}\label{number-of-people-who-have-entered-the-park-by-some-time}}
 
 \[\begin{aligned}
    \int_{9}^{x} E(t) dt = \int_{9}^{x} \frac{15600}{t^2-24t+160} dx\\
+   &= 15600 \ln (t^2-24t+160) (2t-24)
    \end{aligned}\]
 
 \end{document}
