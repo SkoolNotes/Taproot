@@ -140,11 +140,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10120)}}    % original
-%\rhead{\textrmlf{Compiled }\#10120\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10121)}}    % original
+%\rhead{\textrmlf{Compiled }\#10121\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10120
+  \#10121
   \textrmlf{ on}
       \today
   }       % new date
@@ -202,7 +202,7 @@ Compute \[\begin{aligned}
   \end{aligned}\] to the nearest degree.
 
 \[\begin{aligned}
-  \int -110e^{-0.4t} dt = \frac{-110}{-0.4}e^{-0.4t}
+  \int -110e^{-0.4t} dt = \frac{-110}{-0.4}e^{-0.4t} = \frac{-110}{-0.4}e^{-0.4t}
   \end{aligned}\]
 
 \end{document}
