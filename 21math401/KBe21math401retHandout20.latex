@@ -140,11 +140,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10129)}}    % original
-%\rhead{\textrmlf{Compiled }\#10129\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10130)}}    % original
+%\rhead{\textrmlf{Compiled }\#10130\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10129
+  \#10130
   \textrmlf{ on}
       \today
   }       % new date
@@ -212,7 +212,10 @@ Using the net change theorem,
   &= 275e^{-0.4(5)} &- 275e^{0}\\
   &= 37.21720289 &- 275\\
   &= 37.21720289 &- 275\\
-  &= 300-237.78279711 &&\approx \boxed{62} \degree F
+  &= 300-237.78279711 &&\approx \boxed{62 \degree F}
   \end{aligned}\]
+
+\hypertarget{graphical-integration}{%
+\section{Graphical integration}\label{graphical-integration}}
 
 \end{document}
