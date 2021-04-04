@@ -53,7 +53,7 @@ I was very happy, and gave everyone some of my pickles to enjoy.
 
 ## Japanese
 
-クリスマス
+きょねんのクリスマスのとき、母はひとつのおおきいはご
 
 
 
