@@ -141,11 +141,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10159)}}    % original
-%\rhead{\textrmlf{Compiled }\#10159\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10160)}}    % original
+%\rhead{\textrmlf{Compiled }\#10160\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10159
+  \#10160
   \textrmlf{ on}
       \today
   }       % new date
@@ -270,5 +270,9 @@ problem}\label{amusement-park-word-problem}}
   L(t) = \frac{9890}{t^2-38t+370}
   \end{aligned}\] valid over the domain \([9, 23]\), and there are zero
 people in the park at \(t=9\).
+
+\hypertarget{number-of-people-who-have-entered-the-park-by-some-time}{%
+\subsection{number of people who have entered the park by some
+time}\label{number-of-people-who-have-entered-the-park-by-some-time}}
 
 \end{document}
