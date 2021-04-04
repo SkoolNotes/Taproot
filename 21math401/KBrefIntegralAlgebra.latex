@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10140)}}    % original
-%\rhead{\textrmlf{Compiled }\#10140\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10141)}}    % original
+%\rhead{\textrmlf{Compiled }\#10141\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10140
+  \#10141
   \textrmlf{ on}
       \today
   }       % new date
@@ -245,5 +245,8 @@ An example
   k(x) = \int_{x^2}^{e^x} \sqrt{\sin t} dt = \int_{0}^{e^x} \sqrt{\sin t}dt - \int_{0}^{x^2} \sqrt{\sin t} dt\\
   k'(x) = \sqrt{\sin e^x}e^x - 2x\sqrt{\sin x^2}
   \end{aligned}\]
+
+\hypertarget{mean-value-theorem}{%
+\section{mean value theorem}\label{mean-value-theorem}}
 
 \end{document}
