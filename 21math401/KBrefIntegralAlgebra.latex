@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{amsfonts}
+\usepackage{gensymb}
 
 \usepackage[normalem]{ulem}
 
@@ -139,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10143)}}    % original
-%\rhead{\textrmlf{Compiled }\#10143\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10162)}}    % original
+%\rhead{\textrmlf{Compiled }\#10162\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10143
+  \#10162
   \textrmlf{ on}
       \today
   }       % new date
@@ -254,5 +255,11 @@ There exists some point \(c\) over an integrable interval \(\[a, b\]\)
 s.t. \[\begin{aligned}
   f(c) = \frac{1}{b-a}\int_{a}^{b} f(x) dx
   \end{aligned}\]
+
+\hypertarget{integration-rules}{%
+\section{integration rules}\label{integration-rules}}
+
+\hypertarget{power-rule-for-integrals}{%
+\subsection{power rule for integrals}\label{power-rule-for-integrals}}
 
 \end{document}
