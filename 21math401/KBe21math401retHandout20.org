@@ -75,6 +75,7 @@
    $H$ represents the number of people in the amusement park.
 
    \[\begin{aligned}
-   \frac{d}{dx}\int_{9}^{t} \left( E(x)-L(x)\right) dx = E(x)-L(x)
+   \frac{d}{dx}\int_{9}^{t} \left( E(x)-L(x)\right) dx = E(x)-L(x)\\
+   E(x)-L(x) =
    \end{aligned}\]
    $H'$represents the change in the number of people in the park, per hour.
