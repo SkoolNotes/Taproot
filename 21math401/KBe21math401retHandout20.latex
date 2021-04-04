@@ -140,11 +140,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10138)}}    % original
-%\rhead{\textrmlf{Compiled }\#10138\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10139)}}    % original
+%\rhead{\textrmlf{Compiled }\#10139\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10138
+  \#10139
   \textrmlf{ on}
       \today
   }       % new date
@@ -229,7 +229,7 @@ The area in the triangle is 3 square units, so \(5+3 = \boxed{8}\)
   \frac{d}{dx} f(x) =& e^{(x^2-3x)^2}(2x-3) = 0\\
   \implies& 2x-3 = 0 \\
   \implies& 2x=3\\
-  \implies& x=\frac{3}{2}
-  \end{aligned}\]
+  \implies& \boxed{x=\frac{3}{2}}
+  \end{aligned}\] *
 
 \end{document}
