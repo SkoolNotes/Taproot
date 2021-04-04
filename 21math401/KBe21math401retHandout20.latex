@@ -141,11 +141,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10185)}}    % original
-%\rhead{\textrmlf{Compiled }\#10185\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10186)}}    % original
+%\rhead{\textrmlf{Compiled }\#10186\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10185
+  \#10186
   \textrmlf{ on}
       \today
   }       % new date
@@ -295,7 +295,7 @@ it contains an inverse tangent. Thus, I will use a calculator:
 
 \[\begin{aligned}
    \frac{d}{dx}\int_{9}^{t} \left( E(x)-L(x)\right) dx = E(x)-L(x)\\
-   E(17)-L(17) = \frac{15600}{t^2-24t+160} - \frac{9890}{t^2-38t+370}
+   E(17)-L(17) = \frac{15600}{t^2-24t+160} - \frac{9890}{t^2-38t+370} \approx -380.281425891
    \end{aligned}\] \(H'\) represents the change in the number of people
 in the park, per hour.
 
