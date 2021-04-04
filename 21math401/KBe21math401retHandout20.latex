@@ -140,11 +140,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10139)}}    % original
-%\rhead{\textrmlf{Compiled }\#10139\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10144)}}    % original
+%\rhead{\textrmlf{Compiled }\#10144\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10139
+  \#10144
   \textrmlf{ on}
       \today
   }       % new date
@@ -230,6 +230,10 @@ The area in the triangle is 3 square units, so \(5+3 = \boxed{8}\)
   \implies& 2x-3 = 0 \\
   \implies& 2x=3\\
   \implies& \boxed{x=\frac{3}{2}}
-  \end{aligned}\] *
+  \end{aligned}\]
+
+\hypertarget{approximate-area-under-the-curve-graphically}{%
+\section{approximate area under the curve
+graphically}\label{approximate-area-under-the-curve-graphically}}
 
 \end{document}
