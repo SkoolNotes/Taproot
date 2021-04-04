@@ -43,11 +43,11 @@ Write a mini-essay (5-8 sentences) about your favorite gift that you gave or rec
 
 On chrismas, my mom gave me a big box. 
 She asked us all to geuss what was in it.
+Eventually, we opened the box, and i received 6 jars of pickles.
 I love pickles.
 In quarantine, we were unable to buy pickles for months.
 
 
-I received 6 jar of pickles
 
 
 
