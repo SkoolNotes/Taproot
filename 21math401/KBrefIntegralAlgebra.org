@@ -25,6 +25,7 @@
 * net change theorem
 
   \[\begin{aligned}
+  \int_{a}^{b} f'(x) dx = f(b) - f(a)
   \frac{d}{dx}\int_{a}^{x} f(x) dx = f(x)\\
   \int_{a}^{x} f'(x) dx = f(x) - f(a)\\
   \end{aligned}\]
