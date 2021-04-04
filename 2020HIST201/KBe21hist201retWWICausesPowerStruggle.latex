@@ -6,6 +6,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{amsfonts}
+\usepackage{gensymb}
 
 \usepackage[normalem]{ulem}
 
@@ -139,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10063)}}    % original
-%\rhead{\textrmlf{Compiled }\#10063\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10195)}}    % original
+%\rhead{\textrmlf{Compiled }\#10195\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10063
+  \#10195
   \textrmlf{ on}
       \today
   }       % new date
@@ -187,6 +188,7 @@
 \DeclareMathOperator{\orange}{\text{range}}
 \DeclareMathOperator{\ospan}{\text{span}}
 \DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
 
 \begin{document}
 
@@ -308,6 +310,14 @@ backyard}\label{power-vacuum-in-austriarussias-backyard}}
 \hypertarget{archduke-gets-killed-and-a-buch-of-preemptive-wars-are-declared}{%
 \subsection{archduke gets killed and a buch of preemptive wars are
 declared}\label{archduke-gets-killed-and-a-buch-of-preemptive-wars-are-declared}}
+
+\hypertarget{flo-balkan-crisis-from-palmer-662-664}{%
+\subsection{flo balkan crisis from palmer
+662-664}\label{flo-balkan-crisis-from-palmer-662-664}}
+
+\hypertarget{general-crises-in-the-balkans}{%
+\subsubsection{general crises in the
+balkans}\label{general-crises-in-the-balkans}}
 
 \hypertarget{cult-of-the-offensive-prisoners-dilemma-style}{%
 \section{cult of the offensive (prisoners dilemma
