@@ -141,11 +141,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10170)}}    % original
-%\rhead{\textrmlf{Compiled }\#10170\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10171)}}    % original
+%\rhead{\textrmlf{Compiled }\#10171\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10170
+  \#10171
   \textrmlf{ on}
       \today
   }       % new date
@@ -283,7 +283,7 @@ WolframAlpha says it contains an inverse tangent. Thus, I will use a
 calculator:
 
 \[\begin{aligned}
-   \int_{9}^{15} \frac{15600}{t^2-24t+160} dx =
+   \int_{9}^{15} \frac{15600}{t^2-24t+160} dt = 5019.3
    \end{aligned}\]
 
 \end{document}
