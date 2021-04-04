@@ -1,0 +1,19 @@
+#+TITLE: Handout 20: Applications of FTC and Net Change Theorem
+* cooling pizza
+  Compute
+  \[\begin{aligned}
+  \int_{0}^{5} -110e^{-0.4t} dt
+  \end{aligned}\]
+  to the nearest degree.
+
+  \[\begin{aligned}
+  \int -110e^{-0.4t} dt = \frac{-110}{-0.4}e^{-0.4t} = 275e^{-0.4t}
+  \end{aligned}\]
+
+  Using the net change theorem,
+
+  \[\begin{aligned}
+  \int_{0}^{5} -110e^{-0.4t} dt = \int -110e^{-0.4(5)} dt - \int -110e^{-0.4(0)} dt\\
+  &= 275e^{-0.4(5)} - 275e^{0}\\
+  &= 275e^{-0.4(5)} - 275e^{0}\\
+  \end{aligned}\]
