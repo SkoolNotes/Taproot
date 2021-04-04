@@ -140,11 +140,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10145)}}    % original
-%\rhead{\textrmlf{Compiled }\#10145\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10146)}}    % original
+%\rhead{\textrmlf{Compiled }\#10146\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10145
+  \#10146
   \textrmlf{ on}
       \today
   }       % new date
@@ -238,5 +238,10 @@ graphically}\label{approximate-area-under-the-curve-graphically}}
 
 The function looks symmetric about \(x=12\), so I will focus on
 \(\[0, 12\]\).
+
+On the interval \(\[0, 6\]\) a little under \(6\cdot 100\) barrels of
+oil flow through.
+
+On the interval
 
 \end{document}
