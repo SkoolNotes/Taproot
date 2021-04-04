@@ -58,3 +58,7 @@
   valid over the domain $[9, 23]$, and there are zero people in the park at $t=9$.
 
 ** number of people who have entered the park by some time
+
+   \[\begin{aligned}
+   \int_{9}^{x} E(t) dt = \int_{9}^{x} \frac{15600}{t^2-24t+160} dx\\
+   \end{aligned}\]
