@@ -141,11 +141,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10158)}}    % original
-%\rhead{\textrmlf{Compiled }\#10158\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10159)}}    % original
+%\rhead{\textrmlf{Compiled }\#10159\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10158
+  \#10159
   \textrmlf{ on}
       \today
   }       % new date
@@ -268,6 +268,7 @@ problem}\label{amusement-park-word-problem}}
 \[\begin{aligned}
   E(t) = \frac{15600}{t^2-24t+160}\\
   L(t) = \frac{9890}{t^2-38t+370}
-  \end{aligned}\]
+  \end{aligned}\] valid over the domain \([9, 23]\), and there are zero
+people in the park at \(t=9\).
 
 \end{document}
