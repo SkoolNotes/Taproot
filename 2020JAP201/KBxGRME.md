@@ -54,7 +54,7 @@ I was very happy, and gave everyone some of my pickles to enjoy.
 ## Japanese
 
 きょねんのクリスマスのとき、母はひとつのおおきいはこをくれました。
-なにがはいっているか、母が
+なにがはいっているか、母がみなさんにききました。クリスマス
 
 
 
