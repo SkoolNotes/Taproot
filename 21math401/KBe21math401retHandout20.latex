@@ -141,11 +141,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10168)}}    % original
-%\rhead{\textrmlf{Compiled }\#10168\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10169)}}    % original
+%\rhead{\textrmlf{Compiled }\#10169\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10168
+  \#10169
   \textrmlf{ on}
       \today
   }       % new date
@@ -278,6 +278,8 @@ time}\label{number-of-people-who-have-entered-the-park-by-some-time}}
 \[\begin{aligned}
    \int_{9}^{x} E(t) dt = \int_{9}^{x} \frac{15600}{t^2-24t+160} dx\\
    &= 15600 \ln (t^2-24t+160) (2t-24) ?????
-   \end{aligned}\] I don't know how to
+   \end{aligned}\] I don't know how to integrate this symbolically, and
+WolframAlpha says it contains an inverse tangent. Thus, I will use a
+calculator:
 
 \end{document}
