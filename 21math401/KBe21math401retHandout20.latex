@@ -141,11 +141,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10174)}}    % original
-%\rhead{\textrmlf{Compiled }\#10174\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10175)}}    % original
+%\rhead{\textrmlf{Compiled }\#10175\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10174
+  \#10175
   \textrmlf{ on}
       \today
   }       % new date
@@ -286,5 +286,7 @@ it contains an inverse tangent. Thus, I will use a calculator:
 \[\begin{aligned}
    \int_{9}^{17} \frac{15600}{t^2-24t+160} dt \approx \boxed{6004}
    \end{aligned}\]
+
+**
 
 \end{document}
