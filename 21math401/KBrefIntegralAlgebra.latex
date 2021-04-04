@@ -139,11 +139,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10038)}}    % original
-%\rhead{\textrmlf{Compiled }\#10038\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10135)}}    % original
+%\rhead{\textrmlf{Compiled }\#10135\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10038
+  \#10135
   \textrmlf{ on}
       \today
   }       % new date
@@ -187,6 +187,7 @@
 \DeclareMathOperator{\orange}{\text{range}}
 \DeclareMathOperator{\ospan}{\text{span}}
 \DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
 
 \begin{document}
 
@@ -227,7 +228,7 @@ zero)
 \[\begin{aligned}
   \frac{d}{dx}\int_{a}^{x} f(x) dx = f(x)\\
   \int_{a}^{x} f'(x) dx = f(x) - f(a)\\
-  \end{aligned}\] That last one uses chain rule
+  \end{aligned}\]
 
 \hypertarget{variable-bounds}{%
 \section{variable bounds}\label{variable-bounds}}
