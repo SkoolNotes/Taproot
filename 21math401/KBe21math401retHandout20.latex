@@ -141,11 +141,11 @@ Theorem }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10186)}}    % original
-%\rhead{\textrmlf{Compiled }\#10186\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10187)}}    % original
+%\rhead{\textrmlf{Compiled }\#10187\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10186
+  \#10187
   \textrmlf{ on}
       \today
   }       % new date
@@ -291,11 +291,13 @@ it contains an inverse tangent. Thus, I will use a calculator:
 \subsection{\texorpdfstring{value of
 \(H'(17)\)}{value of H'(17)}}\label{value-of-h17}}
 
-\(H\) represents the number of people in the amusement park.
+\(H\) represents the number of people in the amusement park. \$H(17) ≈
+\$
 
 \[\begin{aligned}
    \frac{d}{dx}\int_{9}^{t} \left( E(x)-L(x)\right) dx = E(x)-L(x)\\
-   E(17)-L(17) = \frac{15600}{t^2-24t+160} - \frac{9890}{t^2-38t+370} \approx -380.281425891
+   \frac{d}{dx}\int_{9}^{t} \left( \frac{15600}{t^2-24t+160} - \frac{9890}{t^2-38t+370} \right) dx
+   E(17)-L(17) = \frac{15600}{t^2-24t+160} - \frac{9890}{t^2-38t+370} \approx -380
    \end{aligned}\] \(H'\) represents the change in the number of people
 in the park, per hour.
 
