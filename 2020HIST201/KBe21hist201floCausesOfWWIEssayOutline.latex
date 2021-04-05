@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10258)}}    % original
-%\rhead{\textrmlf{Compiled }\#10258\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10262)}}    % original
+%\rhead{\textrmlf{Compiled }\#10262\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10258
+  \#10262
   \textrmlf{ on}
       \today
   }       % new date
@@ -487,8 +487,8 @@ don't actually need much/anything here, as long as the thesis is
 understandable
 
 \hypertarget{thesis-1}{%
-\subsection{\texorpdfstring{{TODO}
-thesis}{TODO thesis}}\label{thesis-1}}
+\subsection{\texorpdfstring{{DONE}
+thesis}{DONE thesis}}\label{thesis-1}}
 
 \hypertarget{bp1-level-3-security-dilemmacult-of-the-offensive-puts-everyone-on-edge}{%
 \subsection{\texorpdfstring{{TODO} BP1: level 3 security dilemma/cult of
