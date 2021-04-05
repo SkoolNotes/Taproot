@@ -17,3 +17,9 @@ Also, know what...
 ![[Pasted image 20210405130601.png]]
 
 is doing.
+
+***
+
+To form a pair of sister chromatids: genetic material is duplicated as part of [[KBhBIO101DNAReplication]].
+
+
