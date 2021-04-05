@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10250)}}    % original
-%\rhead{\textrmlf{Compiled }\#10250\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10254)}}    % original
+%\rhead{\textrmlf{Compiled }\#10254\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10250
+  \#10254
   \textrmlf{ on}
       \today
   }       % new date
@@ -218,5 +218,7 @@ is doing.
 
 To form a pair of sister chromatids: genetic material is duplicated as
 part of {[}{[}KBhBIO101DNAReplication{]}{]}.
+
+Each chromasome
 
 \end{document}
