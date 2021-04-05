@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10244)}}    % original
-%\rhead{\textrmlf{Compiled }\#10244\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10245)}}    % original
+%\rhead{\textrmlf{Compiled }\#10245\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10244
+  \#10245
   \textrmlf{ on}
       \today
   }       % new date
@@ -468,6 +468,10 @@ war}{TODO BP2: governments keep the war}}\label{bp2-governments-keep-the-war}}
   \item
     4.14.8 "to starve out the enemy and ruin his economy was precisely
     the purpose"
+  \item
+    famines
+  \item
+    u boats @ civilan ships
   \end{enumerate}
 \item
   war on others' turf
