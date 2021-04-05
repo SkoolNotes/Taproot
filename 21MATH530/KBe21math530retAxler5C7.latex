@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10224)}}    % original
-%\rhead{\textrmlf{Compiled }\#10224\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10227)}}    % original
+%\rhead{\textrmlf{Compiled }\#10227\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10224
+  \#10227
   \textrmlf{ on}
       \today
   }       % new date
@@ -207,12 +207,10 @@ Prove that \(\lambda\) appears on the diagonal of \(A\) precisely
 \hypertarget{proof}{%
 \section{Proof}\label{proof}}
 
-\texttt{There\ must\ be\ \$\textbackslash{}odim\ V\$\ (non-distinct)\ eigenvalues\ on\ the\ diagonal.}
-
-Any eigenvalue \(\lambda\) must have \(\odim E(\lambda ,T)\) associated
-eigenvectors, by definition. ("In other words, \(E(\lambda , T)\) is the
-set of all eigenvectors of \(T\) corresponding to \(\lambda\), along
-with the \(0\) vector").
+Any eigenvalue \(\lambda\) must have \(\odim E(\lambda ,T)\) linearly
+independent associated eigenvectors, by definition. ("In other words,
+\(E(\lambda , T)\) is the set of all eigenvectors of \(T\) corresponding
+to \(\lambda\), along with the \(0\) vector").
 
 The diagonal is comprised of the basis vector coefficients of the
 eigenspaces, implying that each eigenspace of \(\lambda\) is represented
