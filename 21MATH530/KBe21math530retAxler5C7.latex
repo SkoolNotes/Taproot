@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10228)}}    % original
-%\rhead{\textrmlf{Compiled }\#10228\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10229)}}    % original
+%\rhead{\textrmlf{Compiled }\#10229\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10228
+  \#10229
   \textrmlf{ on}
       \today
   }       % new date
@@ -218,9 +218,15 @@ has at least \(m\) eigenvectors corresponding to \(\lambda\). These
 \(m\) eigenvectors can be extended to a basis of \(E(\lambda, T)\),
 implying that \(\dim E(\lambda T) \geq m\).
 
-\hypertarget{suppose-lambda-is-on-the-diagonal-m-times.}{%
+\hypertarget{suppose-lambda-is-on-the-diagonal-m-times.-show-that-there-are-at-most-dim-el-t-occurances-on-the-diagonal}{%
 \subsection{\texorpdfstring{{TODO} Suppose \(\lambda\) is on the
-diagonal \(m\)
-times.}{TODO Suppose \textbackslash lambda is on the diagonal m times.}}\label{suppose-lambda-is-on-the-diagonal-m-times.}}
+diagonal \(m\) times. show that there are at most dim E(;l, T)
+occurances on the
+diagonal}{TODO Suppose \textbackslash lambda is on the diagonal m times. show that there are at most dim E(;l, T) occurances on the diagonal}}\label{suppose-lambda-is-on-the-diagonal-m-times.-show-that-there-are-at-most-dim-el-t-occurances-on-the-diagonal}}
+
+\hypertarget{export}{%
+\section{Export}\label{export}}
+
+\url{https://www.overleaf.com/project/606b2fa8be363f9005d8ce03}
 
 \end{document}
