@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10266)}}    % original
-%\rhead{\textrmlf{Compiled }\#10266\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10267)}}    % original
+%\rhead{\textrmlf{Compiled }\#10267\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10266
+  \#10267
   \textrmlf{ on}
       \today
   }       % new date
@@ -515,6 +515,16 @@ perspective}\label{a-game-theoretic-perspective}}
 \hypertarget{mutually-assured-destruction}{%
 \subsubsection{mutually assured
 destruction}\label{mutually-assured-destruction}}
+
+\begin{enumerate}
+\tightlist
+\item
+  We attack, they attack
+\item
+  We attack, they defend
+\item
+  We defend, they attack
+\end{enumerate}
 
 \hypertarget{bp2-upset-war-hungry-people-are-required-to-spark-the-war}{%
 \subsection{\texorpdfstring{{TODO} BP2: upset / war hungry people are
