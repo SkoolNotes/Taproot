@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10234)}}    % original
-%\rhead{\textrmlf{Compiled }\#10234\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10237)}}    % original
+%\rhead{\textrmlf{Compiled }\#10237\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10234
+  \#10237
   \textrmlf{ on}
       \today
   }       % new date
@@ -463,6 +463,12 @@ war}{TODO BP2: governments keep the war}}\label{bp2-governments-keep-the-war}}
 \begin{enumerate}
 \item
   {TODO} 'just outlast others' \textless{} shipping blockades
+
+  \begin{enumerate}
+  \item
+    4.14.8 "to starve out the enemy and ruin their economy was precisely
+    the purpose"
+  \end{enumerate}
 \item
   war on others' turf
 \end{enumerate}
