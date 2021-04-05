@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10271)}}    % original
-%\rhead{\textrmlf{Compiled }\#10271\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10273)}}    % original
+%\rhead{\textrmlf{Compiled }\#10273\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10271
+  \#10273
   \textrmlf{ on}
       \today
   }       % new date
@@ -521,8 +521,21 @@ Assured Destruction, the relative ordering of possibilites and therefore
 the cost matrix would've prevented all out war between such parties. For
 example, in a nuclear scenerio where any attacked country can retaliate
 with their own warheads, the utility of each scenerio would be ordered
-as follows: 4 we defend, they defend 3 we attack, they attack 2 we
-attack, they defend 1 we defend, they attack
+as follows:
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Utility & Our Actions & Their Actions \\
+\midrule
+\endhead
+4 & Defend & Defend \\
+3 & Attack & Defend \\
+2 & Attack & Attack \\
+1 & Defend & Attack \\
+\bottomrule
+\end{longtable}
+
+And in a two party system,
 
 \hypertarget{bp2-upset-war-hungry-people-are-required-to-spark-the-war}{%
 \subsection{\texorpdfstring{{TODO} BP2: upset / war hungry people are

@@ -138,10 +138,16 @@ Tips: See the essay rubric guide below for questions to ask yourself as you writ
 
 *** mutually assured destruction
 	In fact, had a there been an international disencentive such as Mutually Assured Destruction, the relative ordering of possibilites and therefore the cost matrix would've prevented all out war between such parties. For example, in a nuclear scenerio where any attacked country can retaliate with their own warheads, the utility of each scenerio would be ordered as follows:
-	4 we defend, they defend
-	3 we attack, they attack
-	2 we attack, they defend
-	1 we defend, they attack
+
+	| Utility | Our Actions | Their Actions |
+	|---------+-------------+---------------|
+	|       4 | Defend      | Defend        |
+	|       3 | Attack      | Defend        |
+	|       2 | Attack      | Attack        |
+	|       1 | Defend      | Attack        |
+
+	And in a two party system,
+
 
 ** TODO BP2: upset / war hungry people are required to spark the war
 
