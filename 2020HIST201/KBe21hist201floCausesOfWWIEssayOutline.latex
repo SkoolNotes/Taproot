@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10274)}}    % original
-%\rhead{\textrmlf{Compiled }\#10274\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10275)}}    % original
+%\rhead{\textrmlf{Compiled }\#10275\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10274
+  \#10275
   \textrmlf{ on}
       \today
   }       % new date
@@ -539,11 +539,11 @@ And in a two party system,
 
 \begin{longtable}[]{@{}lll@{}}
 \toprule
-& Attack & Defend \\
+Top,Left & Attack & Defend \\
 \midrule
 \endhead
-Attack & & \\
-Defend & & \\
+Attack & 2, 2 & 1, 4 \\
+Defend & 4, 1 & 4, 4 \\
 \bottomrule
 \end{longtable}
 
