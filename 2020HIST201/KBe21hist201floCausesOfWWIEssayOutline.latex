@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10257)}}    % original
-%\rhead{\textrmlf{Compiled }\#10257\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10258)}}    % original
+%\rhead{\textrmlf{Compiled }\#10258\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10257
+  \#10258
   \textrmlf{ on}
       \today
   }       % new date
@@ -481,7 +481,10 @@ Conclusion}{TODO Conclusion}}\label{conclusion}}
 \section{outline2 barley boogaloo}\label{outline2-barley-boogaloo}}
 
 \hypertarget{intro-1}{%
-\subsection{\texorpdfstring{{TODO} intro}{TODO intro}}\label{intro-1}}
+\subsection{intro}\label{intro-1}}
+
+don't actually need much/anything here, as long as the thesis is
+understandable
 
 \hypertarget{thesis-1}{%
 \subsection{\texorpdfstring{{TODO}
