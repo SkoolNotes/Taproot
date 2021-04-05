@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10248)}}    % original
-%\rhead{\textrmlf{Compiled }\#10248\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10249)}}    % original
+%\rhead{\textrmlf{Compiled }\#10249\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10248
+  \#10249
   \textrmlf{ on}
       \today
   }       % new date
@@ -284,7 +284,9 @@ because that would help correct any errors in joining these fragments}
 But where does the materials (the nucleotide necessary to make new DNA +
 primer RNA come from?)
 
-There' ***
+Remember that this whole process happens in the nucleus. There's
+apparently just a crap tonne of random nucleotide floating around in the
+nucleus ***
 
 \hypertarget{dna-proofreading}{%
 \subsubsection{DNA Proofreading}\label{dna-proofreading}}

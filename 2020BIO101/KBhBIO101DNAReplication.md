@@ -41,7 +41,7 @@ _A quick break..._
 
 But where does the materials (the nucleotide necessary to make new DNA + primer RNA come from?)
 
-There'
+Remember that this whole process happens in the nucleus. There's apparently just a crap tonne of random nucleotide floating around in the nucleus
 ***
 
 ### DNA Proofreading
