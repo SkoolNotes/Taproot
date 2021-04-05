@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10243)}}    % original
-%\rhead{\textrmlf{Compiled }\#10243\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10244)}}    % original
+%\rhead{\textrmlf{Compiled }\#10244\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10243
+  \#10244
   \textrmlf{ on}
       \today
   }       % new date
@@ -471,6 +471,14 @@ war}{TODO BP2: governments keep the war}}\label{bp2-governments-keep-the-war}}
   \end{enumerate}
 \item
   war on others' turf
+
+  \begin{enumerate}
+  \item
+    maybe just show an example - germany wants to keep the fight in
+    belgium (invade france through belgium)
+  \item
+    captials location
+  \end{enumerate}
 \end{enumerate}
 
 \hypertarget{bp3-greater-power-couldve-stopped-the-reaction-at-any-time}{%
