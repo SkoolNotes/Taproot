@@ -66,6 +66,6 @@ Drivers tell cells when to divide. The processes that move a cell forward throug
 
 * Drivers consists of two parts: a switch + a cyclin
 	* a "switch" turns on a "cyclin" protein
-	* this cyclin protein
-* 
+	* this cyclin protein actually drive cell forward
+* Checkpoints regulate drivers' actions
  

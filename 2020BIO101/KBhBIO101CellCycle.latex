@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10298)}}    % original
-%\rhead{\textrmlf{Compiled }\#10298\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10299)}}    % original
+%\rhead{\textrmlf{Compiled }\#10299\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10298
+  \#10299
   \textrmlf{ on}
       \today
   }       % new date
@@ -342,10 +342,10 @@ forward through its life are called ``drivers''.
   \item
     a ``switch'' turns on a ``cyclin'' protein
   \item
-    this cyclin protein
+    this cyclin protein actually drive cell forward
   \end{itemize}
 \item
-  ~
+  Checkpoints regulate drivers' actions ~
 \end{itemize}
 
 \end{document}
