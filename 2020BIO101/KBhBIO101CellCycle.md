@@ -7,6 +7,8 @@ author: Houjun Liu
 
 # The Cell Cycle
 ## So, why do cell divide
+[[KBhBIO101CellReproduction]]
+
 > The ability to produce organisms more of their kind is one characteristic that best distinguishes living things from nonliving matter
 
 Viruses + Organelles challenge this definition => they are symbiotic and cannot reproduce on their own. We tend to think that cells
@@ -57,3 +59,5 @@ Sperm + Egg (imcomplete cells) combine together to form a "zygote" => a single c
 
 ## Cell cycle regulation
 Cell regulators are proteins that manage and sheperard the process of cell division. They respond to molecular signals throughout the cell and check for internal signals like DNA damage to control the rate and progress of cell division.
+
+

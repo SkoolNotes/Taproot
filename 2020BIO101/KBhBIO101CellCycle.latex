@@ -5,6 +5,8 @@
 
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
 
 \usepackage[normalem]{ulem}
 
@@ -16,6 +18,11 @@
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
 
 \usepackage{enumitem}
 \setlistdepth{9}
@@ -31,6 +38,9 @@
 \setlist[itemize,9]{label=\textbullet}
 
 \renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -72,13 +82,21 @@
 
 \usepackage{mathspec}
 \setmainfont[
-   ItalicFont     = HelveticaNeue-Italic,
-   BoldFont       = HelveticaNeue-Bold,
-   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
 \newfontfamily\NHLight[
-   ItalicFont     = HelveticaNeue-LightItalic,
-   BoldFont       = HelveticaNeue-UltraLight,
-   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -122,11 +140,16 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5496)}}    % original
-%\rhead{\textrmlf{Compiled }\#5496\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#5496\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10233)}}    % original
+%\rhead{\textrmlf{Compiled }\#10233\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#10233
+  \textrmlf{ on}
+      \today
+  }       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -161,10 +184,16 @@
     \end{center}
 }
 
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
+\textbf{Source}:\thinspace
 {\href{http://taproot.shabang.cf/relay?request=KBhBIO101Cells}{\tiny\textulf{[[}\textbf{KBhBIO101Cells}\textulf{]]}}}\thinspace
 
 \hypertarget{the-cell-cycle}{%
@@ -172,6 +201,8 @@
 
 \hypertarget{so-why-do-cell-divide}{%
 \subsection{So, why do cell divide}\label{so-why-do-cell-divide}}
+
+{[}{[}KBhBIO101CellReproduction{]}{]}
 
 \begin{quote}
 The ability to produce organisms more of their kind is one
