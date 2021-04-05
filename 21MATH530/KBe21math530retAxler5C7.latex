@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10227)}}    % original
-%\rhead{\textrmlf{Compiled }\#10227\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10228)}}    % original
+%\rhead{\textrmlf{Compiled }\#10228\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10227
+  \#10228
   \textrmlf{ on}
       \today
   }       % new date
@@ -207,15 +207,20 @@ Prove that \(\lambda\) appears on the diagonal of \(A\) precisely
 \hypertarget{proof}{%
 \section{Proof}\label{proof}}
 
-Any eigenvalue \(\lambda\) must have \(\odim E(\lambda ,T)\) linearly
-independent associated eigenvectors, by definition. ("In other words,
-\(E(\lambda , T)\) is the set of all eigenvectors of \(T\) corresponding
-to \(\lambda\), along with the \(0\) vector").
+We will show that for each eigenvalue \(\lambda\), there are at least
+\(E(\lambda, T)\) occurrences of that eigenvalue and at most
+\(E(\lambda, T)\) occurrences.
 
-The diagonal is comprised of the basis vector coefficients of the
-eigenspaces, implying that each eigenspace of \(\lambda\) is represented
-by \(\odim E(\lambda ,T)\) eigenvectors. \(\lambda\) appears exactly
-once for each associated eigenvector, or precisely
-\(\odim E(\lambda, T)\) times in total.
+Suppose \(\lambda\) is on the diagonal \(m\) times. Each of those
+occurrences corresponds to where the diagonal matrix sends a (linearly
+independent) basis eigenvector, which implies that the basis of \(V\)
+has at least \(m\) eigenvectors corresponding to \(\lambda\). These
+\(m\) eigenvectors can be extended to a basis of \(E(\lambda, T)\),
+implying that \(\dim E(\lambda T) \geq m\).
+
+\hypertarget{suppose-lambda-is-on-the-diagonal-m-times.}{%
+\subsection{\texorpdfstring{{TODO} Suppose \(\lambda\) is on the
+diagonal \(m\)
+times.}{TODO Suppose \textbackslash lambda is on the diagonal m times.}}\label{suppose-lambda-is-on-the-diagonal-m-times.}}
 
 \end{document}
