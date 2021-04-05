@@ -36,6 +36,14 @@ Because DNA polymerase could only add nucleotides 5' to 3', there is two types o
 
 ![leadinglagging.png](leadinglagging.png)
 		
+***
+_A quick break..._
+
+But where does the materials (the nucleotide necessary to make new DNA + primer RNA come from?)
+
+There'
+***
+
 ### DNA Proofreading
 DNA polymerse will detect unfitting bonds and remove leftover RNA primer bootstrap units to repair them in a process called "proofreading." DNA polimersease is assisted with "glue" ligase to help the DNA polymerease pick out and replace problematic/unneeded nucleotides and perhaps their neighbors. This is where the Ogazaki fragments get joined.
 
