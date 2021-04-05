@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10270)}}    % original
-%\rhead{\textrmlf{Compiled }\#10270\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10271)}}    % original
+%\rhead{\textrmlf{Compiled }\#10271\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10270
+  \#10271
   \textrmlf{ on}
       \today
   }       % new date
@@ -517,19 +517,12 @@ perspective}\label{a-game-theoretic-perspective}}
 destruction}\label{mutually-assured-destruction}}
 
 In fact, had a there been an international disencentive such as Mutually
-Assured Destruction,
-
-\begin{enumerate}
-\tightlist
-\item
-  We defend, they defend
-\item
-  We attack, they attack
-\item
-  We attack, they defend
-\item
-  We defend, they attack
-\end{enumerate}
+Assured Destruction, the relative ordering of possibilites and therefore
+the cost matrix would've prevented all out war between such parties. For
+example, in a nuclear scenerio where any attacked country can retaliate
+with their own warheads, the utility of each scenerio would be ordered
+as follows: 4 we defend, they defend 3 we attack, they attack 2 we
+attack, they defend 1 we defend, they attack
 
 \hypertarget{bp2-upset-war-hungry-people-are-required-to-spark-the-war}{%
 \subsection{\texorpdfstring{{TODO} BP2: upset / war hungry people are
