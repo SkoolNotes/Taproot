@@ -65,6 +65,7 @@ The Problem: **Cells need to know whence to divide itself.**
 Drivers tell cells when to divide. The processes that move a cell forward through its life are called "drivers".
 
 * Drivers consists of two parts: a switch + a cyclin
-	* the "switch" turns
+	* a "switch" turns on a "cyclin" protein
+	* this cyclin protein
 * 
  
