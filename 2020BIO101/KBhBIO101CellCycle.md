@@ -62,7 +62,8 @@ Cell regulators are proteins that manage and sheperard the process of cell divis
 
 The Problem: **Cells need to know whence to divide itself.**
 
-Drivers tell whence cells. The processes that move a cell forward through its life are called "drivers".
+Drivers tell cells when to divide. The processes that move a cell forward through its life are called "drivers".
 
-* 
+* Drivers are a group of proteins called **cyclins**.
+* Cyclins
  
