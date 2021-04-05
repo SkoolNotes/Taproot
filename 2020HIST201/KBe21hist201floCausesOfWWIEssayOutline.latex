@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10273)}}    % original
-%\rhead{\textrmlf{Compiled }\#10273\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10274)}}    % original
+%\rhead{\textrmlf{Compiled }\#10274\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10273
+  \#10274
   \textrmlf{ on}
       \today
   }       % new date
@@ -536,6 +536,16 @@ Utility & Our Actions & Their Actions \\
 \end{longtable}
 
 And in a two party system,
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+& Attack & Defend \\
+\midrule
+\endhead
+Attack & & \\
+Defend & & \\
+\bottomrule
+\end{longtable}
 
 \hypertarget{bp2-upset-war-hungry-people-are-required-to-spark-the-war}{%
 \subsection{\texorpdfstring{{TODO} BP2: upset / war hungry people are
