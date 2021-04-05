@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10234)}}    % original
-%\rhead{\textrmlf{Compiled }\#10234\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10235)}}    % original
+%\rhead{\textrmlf{Compiled }\#10235\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10234
+  \#10235
   \textrmlf{ on}
       \today
   }       % new date
@@ -201,5 +201,7 @@
 
 =\textgreater{} Cell division is for \textbf{asexual production}, and
 growth/development + tissue renewal.
+
+At some point
 
 \end{document}
