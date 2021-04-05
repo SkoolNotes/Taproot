@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10303)}}    % original
-%\rhead{\textrmlf{Compiled }\#10303\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10304)}}    % original
+%\rhead{\textrmlf{Compiled }\#10304\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10303
+  \#10304
   \textrmlf{ on}
       \today
   }       % new date
@@ -329,8 +329,33 @@ progress of cell division.
 
 The Problem: \textbf{Cells need to know whence to divide itself.}
 
-Drivers tell whence the cell should move forward. The processes that
-move a cell forward through its life are called ``drivers''.
+Drivers tell cells when to divide. The processes that move a cell
+forward through its life are called ``drivers''.
+
+\begin{itemize}
+\tightlist
+\item
+  Drivers consists of two parts: a switch + a cyclin
+
+  \begin{itemize}
+  \tightlist
+  \item
+    a ``switch'' turns on a ``cyclin'' protein
+  \item
+    this cyclin protein actually drive cell forward
+  \end{itemize}
+\item
+  Checkpoints regulate drivers' actions
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Should the cells not meet the requirements of a checkpoint, its
+    driver would be stopped; and/or
+  \item
+    It will be called to self-destruct
+  \end{itemize}
+\end{itemize}
 
 ~
 
