@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10249)}}    % original
-%\rhead{\textrmlf{Compiled }\#10249\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10250)}}    % original
+%\rhead{\textrmlf{Compiled }\#10250\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10249
+  \#10250
   \textrmlf{ on}
       \today
   }       % new date
@@ -286,7 +286,7 @@ primer RNA come from?)
 
 Remember that this whole process happens in the nucleus. There's
 apparently just a crap tonne of random nucleotide floating around in the
-nucleus ***
+nucleus, so simple chemical attraction is good enough. ***
 
 \hypertarget{dna-proofreading}{%
 \subsubsection{DNA Proofreading}\label{dna-proofreading}}
