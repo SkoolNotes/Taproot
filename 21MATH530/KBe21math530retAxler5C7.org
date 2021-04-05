@@ -5,6 +5,8 @@
   Suppose $T \in  \mathcal{L} (V)$ has a diagonal matrix $A$ with respect to some basis of $V$ and that $\lambda \in \mathbb{F}$. Prove that $\lambda$ appears on the diagonal of $A$ precisely $\odim E(\lambda, T)$ times.
   #+end_quote
 * Proof
+  ~There must be $\odim V$ (non-distinct) eigenvalues on the diagonal.~
+
   Any eigenvalue $\lambda$ must have $\odim E(\lambda ,T)$ associated eigenvectors, by definition. ("In other words, $E(\lambda , T)$ is the set of all eigenvectors of $T$ corresponding to $\lambda$, along with the $0$ vector").
-  Therefore, $\lambda$ appears exactly once for each associated eigenvector, which is precisely $\odim E(\lambda ,T)$.
-  \hfill \blacksquare
+
+  The diagonal is comprised of the basis vector coefficients of the eigenspaces, implying that each eigenspace of $\lambda$ is represented by $\odim E(\lambda ,T)$ eigenvectors. $\lambda$ appears exactly once for each associated eigenvector.
