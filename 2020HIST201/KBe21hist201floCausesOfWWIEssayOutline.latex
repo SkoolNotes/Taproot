@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10268)}}    % original
-%\rhead{\textrmlf{Compiled }\#10268\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10270)}}    % original
+%\rhead{\textrmlf{Compiled }\#10270\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10268
+  \#10270
   \textrmlf{ on}
       \today
   }       % new date
@@ -515,6 +515,9 @@ perspective}\label{a-game-theoretic-perspective}}
 \hypertarget{mutually-assured-destruction}{%
 \subsubsection{mutually assured
 destruction}\label{mutually-assured-destruction}}
+
+In fact, had a there been an international disencentive such as Mutually
+Assured Destruction,
 
 \begin{enumerate}
 \tightlist
