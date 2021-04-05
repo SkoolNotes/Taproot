@@ -24,4 +24,4 @@ To form a pair of sister chromatids: genetic material is duplicated as part of [
 
 ![[Pasted image 20210405132325.png]]
 
-You get a set of chromatids for each chromasome. If the chromosome gets overduplicated, you don't have a lot of fun: 18 repeat => down's syndrome.
+You get a set of chromatids for each chromosome. If the chromosome gets over-duplicated, you don't have a lot of fun: 18 repeat => down's syndrome.
