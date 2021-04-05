@@ -60,5 +60,8 @@ Sperm + Egg (imcomplete cells) combine together to form a "zygote" => a single c
 ## Cell cycle regulation
 Cell regulators are proteins that manage and sheperard the process of cell division. They respond to molecular signals throughout the cell and check for internal signals like DNA damage to control the rate and progress of cell division.
 
+The processes that move a cell forward through its life are called "drivers".
+
+**Cells need to know whence to divide itself.**
 
 
