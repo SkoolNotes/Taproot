@@ -22,6 +22,7 @@ is doing.
 
 To form a pair of sister chromatids: genetic material is duplicated as part of [[KBhBIO101DNAReplication]].
 
+
 ![[Pasted image 20210405132325.png]]
 
 
