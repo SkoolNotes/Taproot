@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10220)}}    % original
-%\rhead{\textrmlf{Compiled }\#10220\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10221)}}    % original
+%\rhead{\textrmlf{Compiled }\#10221\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10220
+  \#10221
   \textrmlf{ on}
       \today
   }       % new date
@@ -214,9 +214,7 @@ eigenvectors, by definition. ("In other words, \(E(\lambda , T)\) is the
 set of all eigenvectors of \(T\) corresponding to \(\lambda\), along
 with the \(0\) vector").
 
-\(\lambda\) appears exactly once for each associated eigenvector. The
-diagonal is comprised of the basis vector coefficients of the
-eigenspaces, implying that each eigenspace of \(\lambda\) is represented
-by \(\odim E(\lambda ,T)\) eigenvectors.
+Therefore, \(\lambda\) appears exactly once for each associated
+eigenvector, which is precisely \(\odim E(\lambda ,T)\). \hfill ▪
 
 \end{document}
