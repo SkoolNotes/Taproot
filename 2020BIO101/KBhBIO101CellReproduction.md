@@ -8,5 +8,5 @@ course: BIO101
 # Cell Reproduction
 => Cell division is for **asexual production**, and growth/development + tissue renewal.
 
-At some point
+At some point, the different po
 
