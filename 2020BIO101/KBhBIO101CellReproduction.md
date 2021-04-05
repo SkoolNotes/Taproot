@@ -12,4 +12,8 @@ At some point, stuff ends up in different positions and that causes the speciali
 
 **Most cell division results in genetically identical daughter cell.** Importantly, _most_: meaning that the
 
-Also, know what the 
+Also, know what...
+
+![[Pasted image 20210405130601.png]]
+
+is doing.
