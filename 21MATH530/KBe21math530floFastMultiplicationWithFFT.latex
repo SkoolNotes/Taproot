@@ -141,11 +141,11 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10328)}}    % original
-%\rhead{\textrmlf{Compiled }\#10328\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10329)}}    % original
+%\rhead{\textrmlf{Compiled }\#10329\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10328
+  \#10329
   \textrmlf{ on}
       \today
   }       % new date
@@ -234,5 +234,14 @@ algorithm}}{explanation of multiplication algorithm}}\label{explanation-of-multi
 \subsection{\texorpdfstring{\href{https://www.google.com/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=\&ved=2ahUKEwjtqdjE57jvAhV_HzQIHeAwALsQFjAFegQIEhAD\&url=http\%3A\%2F\%2Fwww.cs.rug.nl\%2F~ando\%2Fpdfs\%2FAndo_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf\&usg=AOvVaw1Sf0WR5er7An2U2vjzypZy}{paper
 explaining the multiplication ANDO EMERENCIA
 (S1283936)}}{paper explaining the multiplication ANDO EMERENCIA (S1283936)}}\label{paper-explaining-the-multiplication-ando-emerencia-s1283936}}
+
+\hypertarget{fft-medium-blog-post}{%
+\subsection{\texorpdfstring{\href{https://medium.com/@aiswaryamathur/understanding-fast-fourier-transform-from-scratch-to-solve-polynomial-multiplication-8018d511162f}{FFT
+Medium Blog Post}}{FFT Medium Blog Post}}\label{fft-medium-blog-post}}
+
+\hypertarget{wikipedia-on-schonhage-strassen-multiplication-algo}{%
+\subsection{\texorpdfstring{\href{https://en.wikipedia.org/wiki/Sch\%C3\%B6nhage\%E2\%80\%93Strassen_algorithm}{wikipedia
+on schonhage-strassen (multiplication
+algo)}}{wikipedia on schonhage-strassen (multiplication algo)}}\label{wikipedia-on-schonhage-strassen-multiplication-algo}}
 
 \end{document}
