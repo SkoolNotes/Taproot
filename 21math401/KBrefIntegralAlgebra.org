@@ -59,3 +59,22 @@
    \[\begin{aligned}
    \int x^n dx = \frac{x^{n+1}}{n+1} +C
    \end{aligned}\]
+
+** u substitution
+   if it happens to work:
+   \[\begin{aligned}
+   \int f'(g(x)) g'(x)dx = f(g(x)) + C
+   \end{aligned}\]
+
+   an example:
+
+   \[\begin{aligned}
+   \int 2x \sin (x^2) dx\\
+   \end{aligned}\]
+   Let $u = x^2$ and $\du = frac{du}{dx} dx = 2x dx$
+
+   \[\begin{aligned}
+   \int \sin x^2 2x dx &= \int \sin u du\\
+   &= -\cos (u) +C\\
+   &= -\cos (x^2) +C
+   \end{aligned}\]

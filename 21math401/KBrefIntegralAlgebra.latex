@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10181)}}    % original
-%\rhead{\textrmlf{Compiled }\#10181\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10321)}}    % original
+%\rhead{\textrmlf{Compiled }\#10321\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10181
+  \#10321
   \textrmlf{ on}
       \today
   }       % new date
@@ -264,6 +264,25 @@ s.t. \[\begin{aligned}
 
 \[\begin{aligned}
    \int x^n dx = \frac{x^{n+1}}{n+1} +C
+   \end{aligned}\]
+
+\hypertarget{u-substitution}{%
+\subsection{u substitution}\label{u-substitution}}
+
+if it happens to work: \[\begin{aligned}
+   \int f'(g(x)) g'(x)dx = f(g(x)) + C
+   \end{aligned}\]
+
+an example:
+
+\[\begin{aligned}
+   \int 2x \sin (x^2) dx\\
+   \end{aligned}\] Let \(u = x^2\) and \(\du = frac{du}{dx} dx = 2x dx\)
+
+\[\begin{aligned}
+   \int \sin x^2 2x dx &= \int \sin u du\\
+   &= -\cos (u) +C\\
+   &= -\cos (x^2) +C
    \end{aligned}\]
 
 \end{document}

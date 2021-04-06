@@ -5,6 +5,8 @@
 
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
 
 \usepackage[normalem]{ulem}
 
@@ -16,6 +18,11 @@
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
 
 \usepackage{enumitem}
 \setlistdepth{9}
@@ -31,6 +38,9 @@
 \setlist[itemize,9]{label=\textbullet}
 
 \renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -130,11 +140,16 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8446)}}    % original
-%\rhead{\textrmlf{Compiled }\#8446\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#8446\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10321)}}    % original
+%\rhead{\textrmlf{Compiled }\#10321\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#10321
+  \textrmlf{ on}
+      \today
+  }       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -169,22 +184,30 @@
     \end{center}
 }
 
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
 \begin{document}
 
 % DID YOU SET SPELL????
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
-function & derivative \\ \addlinespace
+function & derivative \\
 \midrule
 \endhead
-x\textsuperscript{n} & nx\textsuperscript{n-1} \\ \addlinespace
-sin  x & cos  x \\ \addlinespace
-e\textsuperscript{x} & e\textsuperscript{x} \\ \addlinespace
-ln  x & \frac{1}{x} \\ \addlinespace
-ln  (1+x) & \frac{1}{1+x} \\ \addlinespace
-sin \^{}- x & \frac{1}{\sqrt{1-x^2}} \\ \addlinespace
-tan \^{}- x & \frac{1}{1+x^2} \\ \addlinespace
+x\textsuperscript{n} & nx\textsuperscript{n-1} \\
+sin  x & cos  x \\
+e\textsuperscript{x} & e\textsuperscript{x} \\
+ln  x & \frac{1}{x} \\
+ln  (1+x) & \frac{1}{1+x} \\
+sin \^{}- x & \frac{1}{\sqrt{1-x^2}} \\
+tan \^{}- x & \frac{1}{1+x^2} \\
+sec  x & sin  x cos \textsuperscript{-2}x = tan  x sec  x \\
+csc  x & cot  x csc  x \\
 \bottomrule
 \end{longtable}
 

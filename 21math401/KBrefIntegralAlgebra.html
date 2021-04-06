@@ -112,6 +112,19 @@ html {
             <p><span class="math display">\[\begin{aligned}
                \int x^n dx = \frac{x^{n+1}}{n+1} +C
                \end{aligned}\]</span></p>
+            <h2 id="u-substitution">u substitution</h2>
+            <p>if it happens to work: <span class="math display">\[\begin{aligned}
+               \int f&#39;(g(x)) g&#39;(x)dx = f(g(x)) + C
+               \end{aligned}\]</span></p>
+            <p>an example:</p>
+            <p><span class="math display">\[\begin{aligned}
+               \int 2x \sin (x^2) dx\\
+               \end{aligned}\]</span> Let <span class="math inline">\(u = x^2\)</span> and <span class="math inline">\(\du = frac{du}{dx} dx = 2x dx\)</span></p>
+            <p><span class="math display">\[\begin{aligned}
+               \int \sin x^2 2x dx &amp;= \int \sin u du\\
+               &amp;= -\cos (u) +C\\
+               &amp;= -\cos (x^2) +C
+               \end{aligned}\]</span></p>
         </div>
 
         <script>
