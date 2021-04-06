@@ -141,11 +141,11 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10327)}}    % original
-%\rhead{\textrmlf{Compiled }\#10327\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10328)}}    % original
+%\rhead{\textrmlf{Compiled }\#10328\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10327
+  \#10328
   \textrmlf{ on}
       \today
   }       % new date
@@ -229,5 +229,10 @@ transform.'}\label{depends-fundamentally-on-the-convolution-theorem-which-provid
 \subsection{\texorpdfstring{\href{http://numbers.computation.free.fr/Constants/Algorithms/fft.html}{explanation
 of multiplication
 algorithm}}{explanation of multiplication algorithm}}\label{explanation-of-multiplication-algorithm}}
+
+\hypertarget{paper-explaining-the-multiplication-ando-emerencia-s1283936}{%
+\subsection{\texorpdfstring{\href{https://www.google.com/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=\&ved=2ahUKEwjtqdjE57jvAhV_HzQIHeAwALsQFjAFegQIEhAD\&url=http\%3A\%2F\%2Fwww.cs.rug.nl\%2F~ando\%2Fpdfs\%2FAndo_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf\&usg=AOvVaw1Sf0WR5er7An2U2vjzypZy}{paper
+explaining the multiplication ANDO EMERENCIA
+(S1283936)}}{paper explaining the multiplication ANDO EMERENCIA (S1283936)}}\label{paper-explaining-the-multiplication-ando-emerencia-s1283936}}
 
 \end{document}

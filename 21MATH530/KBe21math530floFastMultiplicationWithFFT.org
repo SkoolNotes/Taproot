@@ -7,3 +7,4 @@
 *** 'depends fundamentally on the convolution theorem, which provides an efficient way to compute the cyclic convolution of two sequences. It states that the cyclic convolution of two vectors can be found by taking the discreate fourier transform of each of them, multiplying the resulting vectors element by element, and then taking the inverse discrete fourier transform.'
 * sources
 ** [[http://numbers.computation.free.fr/Constants/Algorithms/fft.html][explanation of multiplication algorithm]]
+** [[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjtqdjE57jvAhV_HzQIHeAwALsQFjAFegQIEhAD&url=http%3A%2F%2Fwww.cs.rug.nl%2F~ando%2Fpdfs%2FAndo_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf&usg=AOvVaw1Sf0WR5er7An2U2vjzypZy][paper explaining the multiplication ANDO EMERENCIA (S1283936)]]
