@@ -127,7 +127,8 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ MA1: Close Reading Paragraph }
+\newcommand{\thelesson}{ MA1: God of Small Things Close Reading
+Paragraph }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -140,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10322)}}    % original
-%\rhead{\textrmlf{Compiled }\#10322\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10323)}}    % original
+%\rhead{\textrmlf{Compiled }\#10323\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10322
+  \#10323
   \textrmlf{ on}
       \today
   }       % new date
@@ -194,6 +195,10 @@
 
 % DID YOU SET SPELL????
 
+\hypertarget{text}{%
+\section{text}\label{text}}
 
+\hypertarget{brainstorm}{%
+\section{brainstorm}\label{brainstorm}}
 
 \end{document}
