@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10331)}}    % original
-%\rhead{\textrmlf{Compiled }\#10331\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10332)}}    % original
+%\rhead{\textrmlf{Compiled }\#10332\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10331
+  \#10332
   \textrmlf{ on}
       \today
   }       % new date
@@ -216,14 +216,14 @@ We will show that for each eigenvalue \(\lambda\), there are at least
 \(E(\lambda, T)\) occurrences of that eigenvalue and at most
 \(E(\lambda, T)\) occurrences.
 
-Suppose \(\lambda\) appears on the diagonal \(m\) times.
+Suppose \(\dim E(\lambda , T) = m\)
 
-Suppose again that \(\lambda\) is on the diagonal \(m\) times. Each of
-those occurrences corresponds to where the diagonal matrix sends a
-(linearly independent) basis eigenvector, which implies that the basis
-of \(V\) has at least \(m\) eigenvectors corresponding to \(\lambda\).
-These \(m\) eigenvectors can be extended to a basis of
-\(E(\lambda, T)\), implying that \(\dim E(\lambda, T) \geq m\).
+Suppose \(\lambda\) is on the diagonal \(m\) times. Each of those
+occurrences corresponds to where the diagonal matrix sends a (linearly
+independent) basis eigenvector, which implies that the basis of \(V\)
+has at least \(m\) eigenvectors corresponding to \(\lambda\). These
+\(m\) eigenvectors can be extended to a basis of \(E(\lambda, T)\),
+implying that \(\dim E(\lambda, T) \geq m\).
 
 \hypertarget{suppose-lambda-is-on-the-diagonal-m-times.-show-that-there-are-at-most-dim-el-t-occurances-on-the-diagonal}{%
 \subsection{\texorpdfstring{{TODO} Suppose \(\lambda\) is on the
