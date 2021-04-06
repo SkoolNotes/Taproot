@@ -6,3 +6,4 @@
 ** convolution theorem
 *** 'depends fundamentally on the convolution theorem, which provides an efficient way to compute the cyclic convolution of two sequences. It states that the cyclic convolution of two vectors can be found by taking the discreate fourier transform of each of them, multiplying the resulting vectors element by element, and then taking the inverse discrete fourier transform.'
 * sources
+** [[http://numbers.computation.free.fr/Constants/Algorithms/fft.html][explanation of multiplication algorithm]]
