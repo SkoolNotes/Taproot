@@ -10,6 +10,6 @@
 * Proof
   We will show that for each eigenvalue $\lambda$, there are at least $E(\lambda, T)$ occurrences of that eigenvalue and at most $E(\lambda, T)$ occurrences.
 
-  Suppose $\lambda$ is on the diagonal $m$ times. Each of those occurrences corresponds to where the diagonal matrix sends a (linearly independent) basis eigenvector, which implies that the basis of $V$ has at least $m$ eigenvectors corresponding to $\lambda$. These $m$ eigenvectors can be extended to a basis of $E(\lambda, T)$, implying that $\dim E(\lambda T) \geq m$.
+  Suppose $\lambda$ is on the diagonal $m$ times. Each of those occurrences corresponds to where the diagonal matrix sends a (linearly independent) basis eigenvector, which implies that the basis of $V$ has at least $m$ eigenvectors corresponding to $\lambda$. These $m$ eigenvectors can be extended to a basis of $E(\lambda, T)$, implying that $\dim E(\lambda, T) \geq m$.
 
 ** TODO Suppose $\lambda$ is on the diagonal $m$ times. show that there are at most dim E(;l, T) occurances on the diagonal
