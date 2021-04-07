@@ -1,0 +1,17 @@
+#+TITLE: Axler 5.C exercise 7
+#+AUTHOR: Yoav, Albert
+* Export
+  https://www.overleaf.com/project/606b2fa8be363f9005d8ce03
+
+* Exercise 7
+  #+begin_quote
+  Suppose $T \in  \mathcal{L} (V)$ has a diagonal matrix $A$ with respect to some basis of $V$ and that $\lambda \in \mathbb{F}$. Prove that $\lambda$ appears on the diagonal of $A$ precisely $\odim E(\lambda, T)$ times.
+  #+end_quote
+* Proof
+  We will show that for each eigenvalue $\lambda$, there are at least $E(\lambda, T)$ occurrences of that eigenvalue and at most $E(\lambda, T)$ occurrences.
+
+  Suppose $\dim E(\lambda , T) = m$ and $\lambda_1, \ldots, \lambda_m$ is a basis of $E(\lambda , T)$. In the diagonal 
+
+  Suppose $\lambda$ is on the diagonal $m$ times. Each of those occurrences corresponds to where the diagonal matrix sends a (linearly independent) basis eigenvector, which implies that the basis of $V$ has at least $m$ eigenvectors corresponding to $\lambda$. These $m$ eigenvectors can be extended to a basis of $E(\lambda, T)$, implying that $\dim E(\lambda, T) \geq m$.
+
+** TODO Suppose $\lambda$ is on the diagonal $m$ times. show that there are at most dim E(;l, T) occurances on the diagonal
