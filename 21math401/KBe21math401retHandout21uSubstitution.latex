@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10539)}}    % original
-%\rhead{\textrmlf{Compiled }\#10539\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10540)}}    % original
+%\rhead{\textrmlf{Compiled }\#10540\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10539
+  \#10540
   \textrmlf{ on}
       \today
   }       % new date
@@ -194,7 +194,10 @@
 
 % DID YOU SET SPELL????
 
-* * * * *
+\hypertarget{int-fracsqrtx-1x-dx}{%
+\section{\texorpdfstring{\(\int \frac{\sqrt{x-1}}{x} dx\)}{\textbackslash int \textbackslash frac\{\textbackslash sqrt\{x-1\}\}\{x\} dx}}\label{int-fracsqrtx-1x-dx}}
+
+* * * *
 
 \hypertarget{int-tan2x-1-dx}{%
 \section{\texorpdfstring{\(\int \tan^2x +1 dx\)}{\textbackslash int \textbackslash tan\^{}2x +1 dx}}\label{int-tan2x-1-dx}}
