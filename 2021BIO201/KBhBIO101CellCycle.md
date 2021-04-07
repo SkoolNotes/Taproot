@@ -42,9 +42,9 @@ The pairs of DNA begins bundling and condensing; the DNA is also checked upon an
 At this point, the enzymes neede
 
 ### M => Mitosis!
-* Chromesomes line up in equator
-* Each chromesome has two chromatid exactly the same
-* Microtubials to pull chromesomes appart connected to kinecore, a joint in the chromatid
+* Chromosomes line up in equator
+* Each chromosome has two chromatid exactly the same
+* Microtubials to pull chromosomes apart connected to kinecore, a joint in the chromatid
 * Kinetore senses tension, and when it is correct, molecules are sent down the microtubials to send a split signal
 
 ## Features of the Cell Cycle
