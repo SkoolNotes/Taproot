@@ -25,6 +25,12 @@ Viruses + Organelles challenge this definition => they are symbiotic and cannot 
 ![lecellcycle.png](lecellcycle.pn)
 
 ## The (actual) Cell Cycle
+The cell cycle is roughly three parts which is really 5 parts which is really 9 parts.
+
+The three main parts are
+
+- **Interphase** -- 
+
 ### G1 => Rest Phase, Gap 1
 This is the phase which is the "daily life of a cell". There are two major checkpoints in this phase which, upon it is reached, sets the rest of the cell cycle into motion.
 
