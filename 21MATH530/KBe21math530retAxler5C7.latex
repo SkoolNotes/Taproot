@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10334)}}    % original
-%\rhead{\textrmlf{Compiled }\#10334\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10335)}}    % original
+%\rhead{\textrmlf{Compiled }\#10335\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10334
+  \#10335
   \textrmlf{ on}
       \today
   }       % new date
@@ -217,11 +217,12 @@ We will show that for each eigenvalue \(\lambda\), there are at least
 \(E(\lambda, T)\) occurrences.
 
 Suppose \(\dim E(\lambda , T) = m\) and \(v_1, \ldots, v_m\) is a basis
-of \(E(\lambda , T)\). In the diagonal matrix, the entry corresponding
-to each of the \(m\) eigenvectors is the coefficient of
+of \(E(\lambda , T)\). In the diagonal matrix, the column corresponding
+to each of the \(m\) eigenvectors is comprised of the coefficients of
 \[\begin{aligned}
-  Tv_j = \lambda
-  \end{aligned}\]
+  Tv_j = \lambda v_j
+  \end{aligned}\] Thus, \(\lambda\) appears on the diagonal at least
+\(m\) times.
 
 Suppose \(\lambda\) is on the diagonal \(m\) times. Each of those
 occurrences corresponds to where the diagonal matrix sends a (linearly
