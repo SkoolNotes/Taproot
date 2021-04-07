@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10304)}}    % original
-%\rhead{\textrmlf{Compiled }\#10304\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10426)}}    % original
+%\rhead{\textrmlf{Compiled }\#10426\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10304
+  \#10426
   \textrmlf{ on}
       \today
   }       % new date
@@ -280,6 +280,8 @@ cell.
 
 \hypertarget{m-mitosis}{%
 \subsubsection{M =\textgreater{} Mitosis!}\label{m-mitosis}}
+
+See {[}{[}KBhBIO101Mito
 
 \begin{itemize}
 \tightlist
