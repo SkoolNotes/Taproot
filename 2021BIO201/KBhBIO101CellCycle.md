@@ -68,7 +68,8 @@ The spindle apparutus now disassembles; the microtubuals are broken down futher 
 
 **Cytokinesis**
 In animals... the cleavage furrow deepends even more and extends to the point where the two cells fully seperate.
-In plants... because there's no actin fibers to constrict the cell wall (it's too hard), vescles between the new cells form that pads out the twe newly-formed cells called the "cell plate."
+In plants... because there's no actin fibers to constrict the cell wall (it's too hard), vescles between the new cells form that pads out the twe newly-formed cells called the "cell plate." During cytokinesis, the cell plate widens to the point where two cells seperate.
+
 
 ## Features of the Cell Cycle
 

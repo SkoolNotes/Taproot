@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10454)}}    % original
-%\rhead{\textrmlf{Compiled }\#10454\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10455)}}    % original
+%\rhead{\textrmlf{Compiled }\#10455\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10454
+  \#10455
   \textrmlf{ on}
       \today
   }       % new date
@@ -328,7 +328,9 @@ the new cells.
 even more and extends to the point where the two cells fully seperate.
 In plants\ldots{} because there's no actin fibers to constrict the cell
 wall (it's too hard), vescles between the new cells form that pads out
-the twe newly-formed cells called the ``cell plate.''
+the twe newly-formed cells called the ``cell plate.'' During
+cytokinesis, the cell plate widens to the point where two cells
+seperate.
 
 \hypertarget{features-of-the-cell-cycle}{%
 \subsection{Features of the Cell
