@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10428)}}    % original
-%\rhead{\textrmlf{Compiled }\#10428\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10429)}}    % original
+%\rhead{\textrmlf{Compiled }\#10429\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10428
+  \#10429
   \textrmlf{ on}
       \today
   }       % new date
@@ -281,12 +281,24 @@ The pairs of DNA begins bundling and condensing; the DNA is also checked
 upon and verified for consistency and dumped based the needs of the
 cell.
 
-At this point, the enzymes
+At this point, the enzymes neede
 
 \hypertarget{m-mitosis}{%
 \subsubsection{M =\textgreater{} Mitosis!}\label{m-mitosis}}
 
-See {[}{[}KBhBIO101Mitosis{]}{]}{]}
+\begin{itemize}
+\tightlist
+\item
+  Chromesomes line up in equator
+\item
+  Each chromesome has two chromatid exactly the same
+\item
+  Microtubials to pull chromesomes appart connected to kinecore, a joint
+  in the chromatid
+\item
+  Kinetore senses tension, and when it is correct, molecules are sent
+  down the microtubials to send a split signal
+\end{itemize}
 
 \hypertarget{features-of-the-cell-cycle}{%
 \subsection{Features of the Cell
