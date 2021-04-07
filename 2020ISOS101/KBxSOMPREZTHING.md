@@ -46,4 +46,4 @@ edge of these puddles, stuff like rna
 
 so this rna-like substance would bind, and form it's counterpart, then at low tide it would dissociate
 
-3.5 
+3.5 billion years ago, prokayryotes

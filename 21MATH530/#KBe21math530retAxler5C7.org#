@@ -14,6 +14,6 @@
   \[\begin{aligned}
   Tv_j = \lambda v_j
   \end{aligned}\]
-  The coefficients of an eigenvector linear combination are just the eigenvalue, Thus, $\lambda$ appears on the diagonal at least $m$ times.
+  The coefficients of an eigenvector linear combination are just the eigenvalue, so thThus, $\lambda$ appears on the diagonal at least $m$ times.
 
   Suppose then that $\lambda$ is on the diagonal $m$ times. Each of those occurrences corresponds to where the diagonal matrix sends a (linearly independent) basis eigenvector, which implies that the basis of $V$ has at least $m$ eigenvectors corresponding to $\lambda$. These $m$ eigenvectors can be extended to a basis of $E(\lambda, T)$, implying that $\dim E(\lambda, T) \geq m$.
