@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10462)}}    % original
-%\rhead{\textrmlf{Compiled }\#10462\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10508)}}    % original
+%\rhead{\textrmlf{Compiled }\#10508\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10462
+  \#10508
   \textrmlf{ on}
       \today
   }       % new date
@@ -322,6 +322,9 @@ attach to a spindle after the nuclar envelope erupts.
 
 The microtubuals guide the proteins to align in the equator of the cell
 called the ``metaphase plate''.
+
+Organelles are also moved by being pulled by the motor proteins and
+their spindles.
 
 \textbf{Anaphase} The centromere's centre degrades, freeing the two
 halfs of the chromasomes.

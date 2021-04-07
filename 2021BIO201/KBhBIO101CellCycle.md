@@ -64,6 +64,8 @@ Protein "joints" in the centromeres of chromasomes called kineticore attach to a
 
 The microtubuals guide the proteins to align in the equator of the cell called the "metaphase plate".
 
+Organelles are also moved by being pulled by the motor proteins and their spindles.
+
 **Anaphase**
 The centromere's centre degrades, freeing the two halfs of the chromasomes.
 
