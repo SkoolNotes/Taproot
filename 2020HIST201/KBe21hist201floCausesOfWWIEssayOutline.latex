@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10425)}}    % original
-%\rhead{\textrmlf{Compiled }\#10425\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10485)}}    % original
+%\rhead{\textrmlf{Compiled }\#10485\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10425
+  \#10485
   \textrmlf{ on}
       \today
   }       % new date
@@ -762,6 +762,13 @@ intro / conclusion?
   conclusion: what do you know now? why is this cool? whats not obvious
   from the thesis?
 \end{enumerate}
+
+\hypertarget{questions-7-april-2021}{%
+\subsection{questions 7 april 2021}\label{questions-7-april-2021}}
+
+\hypertarget{what-trends-are-there}{%
+\subsubsection{\texorpdfstring{{TODO} what trends are
+there?}{TODO what trends are there?}}\label{what-trends-are-there}}
 
 \hypertarget{come-up-with-general-frame}{%
 \subsection{\texorpdfstring{{DONE} come up with general
