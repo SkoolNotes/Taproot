@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10518)}}    % original
-%\rhead{\textrmlf{Compiled }\#10518\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10525)}}    % original
+%\rhead{\textrmlf{Compiled }\#10525\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10518
+  \#10525
   \textrmlf{ on}
       \today
   }       % new date
@@ -764,12 +764,12 @@ is last paragraph level 2 or level 1? phrase as a 'all human nature
 thing', imagine how it would happen in liberal democracies
 
 \hypertarget{length}{%
-\subsubsection{\texorpdfstring{{TODO}
-length?}{TODO length?}}\label{length}}
+\subsubsection{\texorpdfstring{{DONE}
+length?}{DONE length?}}\label{length}}
 
 \hypertarget{so-what}{%
-\subsubsection{\texorpdfstring{{TODO} so
-what?}{TODO so what?}}\label{so-what}}
+\subsubsection{\texorpdfstring{{DONE} so
+what?}{DONE so what?}}\label{so-what}}
 
 \hypertarget{come-up-with-general-frame}{%
 \subsection{\texorpdfstring{{DONE} come up with general
