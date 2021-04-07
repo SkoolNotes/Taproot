@@ -7,8 +7,7 @@
 * $\int tan^2x +1 dx$
 
   \[\begin{aligned}
-  \int tan^2x +1 dx\\
-  \int sec^2x -1 +1 dx \\
-  \int sec^2x dx \\
+  \int tan^2x +1 dx &= \int sec^2x -1 +1 dx \\
+  &= \int sec^2x dx \\
+  &= tan x +C
   \end{aligned}\]
-  Let $u = sec x$, then $du = $
