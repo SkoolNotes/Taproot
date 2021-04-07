@@ -100,6 +100,7 @@ Drivers tell cells when to divide. The processes that move a cell forward throug
 
 ### Common cell-cycle checkpoints
 * **G1/S Checkpoint** — external factors and growth factors, along with measurements of the volume, shape of the cell and the duplicated DNA, ensure that the pre-G2 cell is intact and healthy before moving onto G2
-* 
+* **G2/M Checkpoint** — before mitosis, check that the cell has correctly duplicated parts and tools needed for replication
+* **Spindle Checkpoint** — checking for the attachment of all kineticores to the spindles such that all the chromasomes could be correctly lined up
 
  
