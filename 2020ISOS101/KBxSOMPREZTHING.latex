@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10465)}}    % original
-%\rhead{\textrmlf{Compiled }\#10465\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10466)}}    % original
+%\rhead{\textrmlf{Compiled }\#10466\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10465
+  \#10466
   \textrmlf{ on}
       \today
   }       % new date
@@ -234,5 +234,7 @@ edge of these puddles, stuff like rna
 
 so this rna-like substance would bind, and form it's counterpart, then
 at low tide it would dissociate
+
+3.5
 
 \end{document}
