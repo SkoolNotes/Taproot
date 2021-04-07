@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10480)}}    % original
-%\rhead{\textrmlf{Compiled }\#10480\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10481)}}    % original
+%\rhead{\textrmlf{Compiled }\#10481\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10480
+  \#10481
   \textrmlf{ on}
       \today
   }       % new date
@@ -246,5 +246,7 @@ they cause the ``great oxidation event''
 2 billion years ago, their's the first instance of Eukaryotic cells
 
 530 million years ago, first vertabrete apears
+
+7 million years ago,
 
 \end{document}

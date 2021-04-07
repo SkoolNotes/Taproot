@@ -57,7 +57,7 @@ flash forward to 2.4 billion years ago, cyanobacteria rule the earth and they ca
 
 530 million years ago, first vertabrete apears
 
-
+7 million years ago, 
 
 
 
