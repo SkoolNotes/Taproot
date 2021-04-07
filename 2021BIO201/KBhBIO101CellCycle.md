@@ -118,7 +118,7 @@ Drivers tell cells when to divide. The processes that move a cell forward throug
 
 Growth Factors that the cells measure: the 1) Size of the cell 2) the nutritional state of the cell
 
-**Positive Regulators** push the cell cycle forward
+**Positive Regulators** push the cell cycle forward, CDK, upon lots of binding to it, 
 
 **Negative Regulators** hold the cell cycle back due to a response to a checkpoint or an environmental factor
  
