@@ -46,6 +46,6 @@ edge of these puddles, stuff like rna
 
 so this rna-like substance would bind, and form it's counterpart, then at low tide it would dissociate
 
-3.5 billion years ago, prokayryotes
+3.8 billion years ago, prokayryotes
 
 3 billion years ago, photosyntesis. evolved indipendantly over fifty times
