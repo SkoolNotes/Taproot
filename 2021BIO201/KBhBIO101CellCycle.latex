@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10427)}}    % original
-%\rhead{\textrmlf{Compiled }\#10427\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10428)}}    % original
+%\rhead{\textrmlf{Compiled }\#10428\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10427
+  \#10428
   \textrmlf{ on}
       \today
   }       % new date
@@ -262,6 +262,9 @@ of the cell cycle into motion.
   to work harder to transport things to the centre
 \end{itemize}
 
+At this phase, the organelles in the cytoplasm also replicates in
+preparation for the S phase.
+
 \hypertarget{s-s-phase-duplicate-dna.-150-mins}{%
 \subsubsection{S =\textgreater{} S Phase, duplicate DNA. 150
 mins}\label{s-s-phase-duplicate-dna.-150-mins}}
@@ -277,6 +280,8 @@ cell in half.
 The pairs of DNA begins bundling and condensing; the DNA is also checked
 upon and verified for consistency and dumped based the needs of the
 cell.
+
+At this point, the enzymes
 
 \hypertarget{m-mitosis}{%
 \subsubsection{M =\textgreater{} Mitosis!}\label{m-mitosis}}
