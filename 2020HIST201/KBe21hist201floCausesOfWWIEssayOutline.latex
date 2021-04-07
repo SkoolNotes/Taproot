@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10387)}}    % original
-%\rhead{\textrmlf{Compiled }\#10387\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10388)}}    % original
+%\rhead{\textrmlf{Compiled }\#10388\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10387
+  \#10388
   \textrmlf{ on}
       \today
   }       % new date
@@ -749,8 +749,8 @@ intro / conclusion?
 frame}{DONE come up with general frame}}\label{come-up-with-general-frame}}
 
 \hypertarget{come-up-with-argument-body-paragraphs}{%
-\subsection{\texorpdfstring{{TODO} come up with argument, body
-paragraphs}{TODO come up with argument, body paragraphs}}\label{come-up-with-argument-body-paragraphs}}
+\subsection{\texorpdfstring{{DONE} come up with argument, body
+paragraphs}{DONE come up with argument, body paragraphs}}\label{come-up-with-argument-body-paragraphs}}
 
 \hypertarget{outline-write-edit-for-standards}{%
 \subsection{\texorpdfstring{{TODO} \{ outline, write, edit \} for
