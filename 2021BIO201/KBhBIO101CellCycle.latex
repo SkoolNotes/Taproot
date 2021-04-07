@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10456)}}    % original
-%\rhead{\textrmlf{Compiled }\#10456\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10457)}}    % original
+%\rhead{\textrmlf{Compiled }\#10457\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10456
+  \#10457
   \textrmlf{ on}
       \today
   }       % new date
@@ -402,7 +402,10 @@ checkpoints}\label{common-cell-cycle-checkpoints}}
 \tightlist
 \item
   \textbf{G1/S Checkpoint} --- external factors and growth factors,
-  along with measurements of the volume and shape of the cell,
+  along with measurements of the volume, shape of the cell and the
+  duplicated DNA, ensure that the pre-G2 cell is intact and healthy
+  before moving onto G2
+\item
 \end{itemize}
 
 ~

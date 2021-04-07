@@ -99,6 +99,7 @@ Drivers tell cells when to divide. The processes that move a cell forward throug
 	* It will be called to self-destruct
 
 ### Common cell-cycle checkpoints
-* **G1/S Checkpoint** — external factors and growth factors, along with measurements of the volume and shape of the cell,
+* **G1/S Checkpoint** — external factors and growth factors, along with measurements of the volume, shape of the cell and the duplicated DNA, ensure that the pre-G2 cell is intact and healthy before moving onto G2
+* 
 
  

@@ -33,3 +33,4 @@ future life
 
 
 starts with the big bang, but we are going to jump pretty far past that
+to the early, cooled earth
