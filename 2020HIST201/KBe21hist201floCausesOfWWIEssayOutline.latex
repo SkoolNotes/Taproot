@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10486)}}    % original
-%\rhead{\textrmlf{Compiled }\#10486\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10487)}}    % original
+%\rhead{\textrmlf{Compiled }\#10487\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10486
+  \#10487
   \textrmlf{ on}
       \today
   }       % new date
@@ -782,6 +782,10 @@ paragraphs?}{TODO check thesis? does it work for body paragraphs?}}\label{check-
 \hypertarget{length}{%
 \subsubsection{\texorpdfstring{{TODO}
 length?}{TODO length?}}\label{length}}
+
+\hypertarget{so-what}{%
+\subsubsection{\texorpdfstring{{TODO} so
+what?}{TODO so what?}}\label{so-what}}
 
 \hypertarget{come-up-with-general-frame}{%
 \subsection{\texorpdfstring{{DONE} come up with general
