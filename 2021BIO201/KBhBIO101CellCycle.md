@@ -95,6 +95,8 @@ Sperm + Egg (imcomplete cells) combine together to form a "zygote" => a single c
 ![Screen Shot 2020-11-09 at 3.16.12 PM.png](Screen Shot 2020-11-09 at 3.16.12 PM.png)
 
 ## Cell cycle regulation
+Purpose of regulation: **Cells must meet certain conditions before moving onto the next phase.**
+
 Cell regulators are proteins that manage and sheperard the process of cell division. They respond to molecular signals throughout the cell and check for internal signals like DNA damage to control the rate and progress of cell division.
 
 The Problem: **Cells need to know whence to divide itself.**

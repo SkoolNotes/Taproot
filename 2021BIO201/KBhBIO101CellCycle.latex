@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10508)}}    % original
-%\rhead{\textrmlf{Compiled }\#10508\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10511)}}    % original
+%\rhead{\textrmlf{Compiled }\#10511\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10508
+  \#10511
   \textrmlf{ on}
       \today
   }       % new date
@@ -377,6 +377,9 @@ Cell Cycle Primer}
 
 \hypertarget{cell-cycle-regulation}{%
 \subsection{Cell cycle regulation}\label{cell-cycle-regulation}}
+
+Purpose of regulation: \textbf{Cells must meet certain conditions before
+moving onto the next phase.}
 
 Cell regulators are proteins that manage and sheperard the process of
 cell division. They respond to molecular signals throughout the cell and
