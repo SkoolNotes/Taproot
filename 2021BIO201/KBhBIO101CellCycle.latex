@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10459)}}    % original
-%\rhead{\textrmlf{Compiled }\#10459\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10460)}}    % original
+%\rhead{\textrmlf{Compiled }\#10460\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10459
+  \#10460
   \textrmlf{ on}
       \today
   }       % new date
@@ -401,13 +401,13 @@ checkpoints}\label{common-cell-cycle-checkpoints}}
 \begin{itemize}
 \tightlist
 \item
-  \textbf{G1/S Checkpoint} --- external factors and growth factors,
-  along with measurements of the volume, shape of the cell and the
-  duplicated DNA, ensure that the pre-G2 cell is intact and healthy
+  \textbf{G1/S Checkpoint} (After S) --- external factors and growth
+  factors, along with measurements of the volume, shape of the cell and
+  the duplicated DNA, ensure that the pre-G2 cell is intact and healthy
   before moving onto G2
 \item
-  \textbf{G2/M Checkpoint} --- before mitosis, check that the cell has
-  correctly duplicated parts and tools needed for replication
+  \textbf{G2/M Checkpoint} (After G2) --- before mitosis, check that the
+  cell has correctly duplicated parts and tools needed for replication
 \item
   \textbf{Spindle Checkpoint} --- checking for the attachment of all
   kineticores to the spindles such that all the chromasomes could be
