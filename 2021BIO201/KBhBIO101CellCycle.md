@@ -59,14 +59,12 @@ The microtubuals guide the proteins to align in the equator of the cell called t
 **Anaphase**
 The centromere's centre degrades, freeing the two halfs of the chromasomes.
 
-Yanked by their kineticores by the microtubuals, each copy of the chromatid moves towards one pole of the cell.
+Kinetore senses tension, and when it is correct, molecules are sent down the microtubials to send a split signal. Yanked by their kineticores by the microtubuals, each copy of the chromatid moves towards one pole of the cell.
 
 **Telophase**
 A "cleavage furrow" forms in the centre of the cell created by actin on the circumference constricting. As this cleavage deepens (the actin constricting further), the chromasomes unravel whilst a new nuclear envelope forms.
 
-* Microtubials to pull chromosomes apart connected to kinecore, a joint in the chromatid
 
-* Kinetore senses tension, and when it is correct, molecules are sent down the microtubials to send a split signal
 
 ## Features of the Cell Cycle
 

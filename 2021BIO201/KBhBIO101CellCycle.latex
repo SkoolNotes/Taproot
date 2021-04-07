@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10448)}}    % original
-%\rhead{\textrmlf{Compiled }\#10448\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10449)}}    % original
+%\rhead{\textrmlf{Compiled }\#10449\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10448
+  \#10449
   \textrmlf{ on}
       \today
   }       % new date
@@ -309,22 +309,15 @@ called the ``metaphase plate''.
 \textbf{Anaphase} The centromere's centre degrades, freeing the two
 halfs of the chromasomes.
 
-Yanked by their kineticores by the microtubuals, each copy of the
-chromatid moves towards one pole of the cell.
+Kinetore senses tension, and when it is correct, molecules are sent down
+the microtubials to send a split signal. Yanked by their kineticores by
+the microtubuals, each copy of the chromatid moves towards one pole of
+the cell.
 
 \textbf{Telophase} A ``cleavage furrow'' forms in the centre of the cell
 created by actin on the circumference constricting. As this cleavage
 deepens (the actin constricting further), the chromasomes unravel whilst
 a new nuclear envelope forms.
-
-\begin{itemize}
-\item
-  Microtubials to pull chromosomes apart connected to kinecore, a joint
-  in the chromatid
-\item
-  Kinetore senses tension, and when it is correct, molecules are sent
-  down the microtubials to send a split signal
-\end{itemize}
 
 \hypertarget{features-of-the-cell-cycle}{%
 \subsection{Features of the Cell

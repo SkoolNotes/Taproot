@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10448)}}    % original
-%\rhead{\textrmlf{Compiled }\#10448\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10449)}}    % original
+%\rhead{\textrmlf{Compiled }\#10449\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10448
+  \#10449
   \textrmlf{ on}
       \today
   }       % new date
@@ -206,6 +206,18 @@ modern life
 
 future life
 
-hard to define life
+\begin{itemize}
+\tightlist
+\item
+  hard to define life
+
+  \begin{itemize}
+  \tightlist
+  \item
+    hard to draw the line
+  \item
+    we are gonna go broad so we don't need to
+  \end{itemize}
+\end{itemize}
 
 \end{document}
