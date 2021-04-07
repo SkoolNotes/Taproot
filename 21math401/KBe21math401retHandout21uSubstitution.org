@@ -9,5 +9,8 @@
   \[\begin{aligned}
   \int tan^2x +1 dx &= \int sec^2x -1 +1 dx \\
   &= \int sec^2x dx \\
-  &= tan x +C
+  \text{Let} u = x, du = 1\\
+  &= \int sec^2u du \\
+  &= tan u +C\\
+  &= \boxed{tan x +C}
   \end{aligned}\]
