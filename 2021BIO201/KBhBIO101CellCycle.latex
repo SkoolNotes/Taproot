@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10461)}}    % original
-%\rhead{\textrmlf{Compiled }\#10461\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10462)}}    % original
+%\rhead{\textrmlf{Compiled }\#10462\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10461
+  \#10462
   \textrmlf{ on}
       \today
   }       % new date
@@ -252,7 +252,12 @@ The three main parts are
 \begin{itemize}
 \tightlist
 \item
-  \textbf{Interphase} --
+  \textbf{Interphase} --- G1, S, G2: systems preperation for mitosis
+\item
+  \textbf{Mitosis} --- Separation of the duplicated chromosomes
+\item
+  \textbf{Cytokinesis} --- the splitting of the cell itself. Really part
+  of mitosis
 \end{itemize}
 
 \hypertarget{g1-rest-phase-gap-1}{%
@@ -332,7 +337,7 @@ deepens (the actin constricting further), the chromasomes unravel whilst
 a new nuclear envelope forms.
 
 The spindle apparutus now disassembles; the microtubuals are broken down
-futher into monomers that will eventually construct the exoskeleton of
+further into monomers that will eventually construct the exoskeleton of
 the new cells.
 
 \textbf{Cytokinesis} In animals\ldots{} the cleavage furrow deepends

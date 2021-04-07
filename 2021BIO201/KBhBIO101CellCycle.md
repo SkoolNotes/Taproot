@@ -29,7 +29,9 @@ The cell cycle is roughly three parts which is really 5 parts which is really 9 
 
 The three main parts are
 
-- **Interphase** -- 
+- **Interphase** — G1, S, G2: systems preperation for mitosis
+- **Mitosis** — Separation of the duplicated chromosomes
+- **Cytokinesis** — the splitting of the cell itself. Really part of mitosis
 
 ### G1 => Rest Phase, Gap 1
 This is the phase which is the "daily life of a cell". There are two major checkpoints in this phase which, upon it is reached, sets the rest of the cell cycle into motion.
@@ -70,7 +72,7 @@ Kinetore senses tension, and when it is correct, molecules are sent down the mic
 **Telophase**
 A "cleavage furrow" forms in the centre of the cell created by actin on the circumference constricting. As this cleavage deepens (the actin constricting further), the chromasomes unravel whilst a new nuclear envelope forms.
 
-The spindle apparutus now disassembles; the microtubuals are broken down futher into monomers that will eventually construct the exoskeleton of the new cells.
+The spindle apparutus now disassembles; the microtubuals are broken down further into monomers that will eventually construct the exoskeleton of the new cells.
 
 **Cytokinesis**
 In animals... the cleavage furrow deepends even more and **extends** to the point where the two cells fully seperate.
