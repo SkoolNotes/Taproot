@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10535)}}    % original
-%\rhead{\textrmlf{Compiled }\#10535\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10536)}}    % original
+%\rhead{\textrmlf{Compiled }\#10536\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10535
+  \#10536
   \textrmlf{ on}
       \today
   }       % new date
@@ -201,6 +201,8 @@
 
 \[\begin{aligned}
   \int tan^2x +1 dx\\
-  \end{aligned}\]
+  \int sec^2x -1 +1 dx \\
+  \int sec^2x dx \\
+  \end{aligned}\] Let \(u = sec x\), then \$du = \$
 
 \end{document}
