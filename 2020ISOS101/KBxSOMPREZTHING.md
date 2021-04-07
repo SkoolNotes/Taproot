@@ -49,3 +49,5 @@ so this rna-like substance would bind, and form it's counterpart, then at low ti
 3.8 billion years ago, prokayryotes
 
 3 billion years ago, photosyntesis. evolved indipendantly over fifty times
+
+
