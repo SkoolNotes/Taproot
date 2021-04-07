@@ -51,4 +51,4 @@ so this rna-like substance would bind, and form it's counterpart, then at low ti
 3 billion years ago, photosyntesis. evolved indipendantly over fifty times
 
 
-flash forward to 2.4 billion years ago, cyanobacteria rule the earth and they 
+flash forward to 2.4 billion years ago, cyanobacteria rule the earth and they cause the "great oxidation event"
