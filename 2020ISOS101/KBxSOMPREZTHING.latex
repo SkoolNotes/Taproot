@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10443)}}    % original
-%\rhead{\textrmlf{Compiled }\#10443\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10448)}}    % original
+%\rhead{\textrmlf{Compiled }\#10448\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10443
+  \#10448
   \textrmlf{ on}
       \today
   }       % new date
@@ -205,5 +205,7 @@ start of life
 modern life
 
 future life
+
+hard to define life
 
 \end{document}
