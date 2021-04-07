@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10438)}}    % original
-%\rhead{\textrmlf{Compiled }\#10438\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10439)}}    % original
+%\rhead{\textrmlf{Compiled }\#10439\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10438
+  \#10439
   \textrmlf{ on}
       \today
   }       % new date
@@ -298,19 +298,21 @@ The centrioles, the proteins connecting all the spindles, separate to
 opposite poles of the cell and establishes the bridge of all the
 microtubuels called the ``spindle apparatus''.
 
-Proteins in the centromeres of chromasomes called kineticore attach to a
-spindle after the nuclar envelope erupts.
+Protein ``joints'' in the centromeres of chromasomes called kineticore
+attach to a spindle after the nuclar envelope erupts.
 
 \textbf{Metaphase}
 
 The microtubuals guide the proteins to align in the equator of the cell
 called the ``metaphase plate''.
 
-\textbf{Anaphase} * Microtubials to pull chromosomes apart connected to
-kinecore, a joint in the chromatid
+\textbf{Anaphase} The centromere's centre degrades, freeing the two
+halfs of the chromasomes.
 
 \begin{itemize}
-\tightlist
+\item
+  Microtubials to pull chromosomes apart connected to kinecore, a joint
+  in the chromatid
 \item
   Kinetore senses tension, and when it is correct, molecules are sent
   down the microtubials to send a split signal

@@ -50,13 +50,17 @@ The cytoskeleton of a cell disassembles, and the spindles to seperate the cell b
 
 The centrioles, the proteins connecting all the spindles, separate to opposite poles of the cell and establishes the bridge of all the microtubuels called the "spindle apparatus".
 
-Proteins in the centromeres of chromasomes called kineticore attach to a spindle after the nuclar envelope erupts.
+Protein "joints" in the centromeres of chromasomes called kineticore attach to a spindle after the nuclar envelope erupts.
 
 **Metaphase**
 
 The microtubuals guide the proteins to align in the equator of the cell called the "metaphase plate".
 
 **Anaphase**
+The centromere's centre degrades, freeing the two halfs of the chromasomes.
+
+
+
 * Microtubials to pull chromosomes apart connected to kinecore, a joint in the chromatid
 
 * Kinetore senses tension, and when it is correct, molecules are sent down the microtubials to send a split signal
