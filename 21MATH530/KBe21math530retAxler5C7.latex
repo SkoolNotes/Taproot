@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10467)}}    % original
-%\rhead{\textrmlf{Compiled }\#10467\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10468)}}    % original
+%\rhead{\textrmlf{Compiled }\#10468\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10467
+  \#10468
   \textrmlf{ on}
       \today
   }       % new date
@@ -222,8 +222,9 @@ corresponding to each of the \(m\) eigenvectors is comprised of the
 coefficients of \[\begin{aligned}
   Tv_j = \lambda v_j
   \end{aligned}\] The coefficients of an eigenvector linear combination
-are just the eigenvalue, Thus, \(\lambda\) appears on the diagonal at
-least \(m\) times.
+are just the eigenvalue, so the associated eigenvalue (\(\lambda\))
+appears once for each eigenvector. Thus, \(\lambda\) appears on the
+diagonal at least \(m\) times.
 
 Suppose then that \(\lambda\) is on the diagonal \(m\) times. Each of
 those occurrences corresponds to where the diagonal matrix sends a
