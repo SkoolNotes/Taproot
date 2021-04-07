@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10517)}}    % original
-%\rhead{\textrmlf{Compiled }\#10517\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10518)}}    % original
+%\rhead{\textrmlf{Compiled }\#10518\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10517
+  \#10518
   \textrmlf{ on}
       \today
   }       % new date
@@ -544,12 +544,18 @@ Leaders at the time believed that preempting war would allow a fast and
 decisive victory. Even simplifying the outcomes to two countries and
 four possibilites, where each country either attacks or defends, greedy
 actors will choose to preempt war. As a result, each country prepared to
-invade it's neighboors, and European tensions grew. In fact, had a there
-been an international disencentive such as Mutually Assured Destruction,
-the relative ordering of possibilites and therefore the cost matrix
-would've prevented all out war between such parties. For example, in a
-nuclear scenerio where any attacked country can retaliate with their own
-warheads, the utility of each scenerio would be ordered as follows:
+invade it's neighboors, and European tensions grew.
+
+\hypertarget{mutually-assured-destruction}{%
+\subsubsection{mutually assured
+destruction}\label{mutually-assured-destruction}}
+
+In fact, had a there been an international disencentive such as Mutually
+Assured Destruction, the relative ordering of possibilites and therefore
+the cost matrix would've prevented all out war between such parties. For
+example, in a nuclear scenerio where any attacked country can retaliate
+with their own warheads, the utility of each scenerio would be ordered
+as follows:
 
 \begin{longtable}[]{@{}lll@{}}
 \toprule
