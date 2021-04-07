@@ -42,6 +42,8 @@ couple theories
 
 just gonna go over one
 
-puddles, 
+edge of these puddles, stuff like rna
+
+so this rna-like substance would bind, and form it's counterpart, then at low tide it would dissociate
 
 
