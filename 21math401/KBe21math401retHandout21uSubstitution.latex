@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10540)}}    % original
-%\rhead{\textrmlf{Compiled }\#10540\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10541)}}    % original
+%\rhead{\textrmlf{Compiled }\#10541\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10540
+  \#10541
   \textrmlf{ on}
       \today
   }       % new date
@@ -196,6 +196,10 @@
 
 \hypertarget{int-fracsqrtx-1x-dx}{%
 \section{\texorpdfstring{\(\int \frac{\sqrt{x-1}}{x} dx\)}{\textbackslash int \textbackslash frac\{\textbackslash sqrt\{x-1\}\}\{x\} dx}}\label{int-fracsqrtx-1x-dx}}
+
+Let \(u= \sqrt{x-1}\), \$du = \$ \[\begin{aligned}
+  \int \frac{\sqrt{x-1}}{x} dx
+  \end{aligned}\]
 
 * * * *
 
