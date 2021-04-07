@@ -48,7 +48,7 @@ Mitosis is the process by which the cell actually divide. It consists of four pa
 
 The cytospeleton of a cell disassembles, and the spindles to seperate the cell begins to form.
 
-The centrioles, the proteins connecting all the spindles, separate to opposite poles of the cell and 
+The centrioles, the proteins connecting all the spindles, separate to opposite poles of the cell and establishes the bridge of all the microtubuels.
 
 * Chromosomes line up in equator
 * Each chromosome has two chromatid exactly the same
