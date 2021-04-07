@@ -55,9 +55,9 @@ flash forward to 2.4 billion years ago, cyanobacteria rule the earth and they ca
 
 2 billion years ago, their's the first instance of Eukaryotic cells
 
-530 million years ago, first vertabrete apears
+530 million years ago, first vertebrate appears
 
-7 million years ago, 
+7 million years ago, first "humans" appear
 
 
 
