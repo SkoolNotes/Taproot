@@ -59,6 +59,9 @@ flash forward to 2.4 billion years ago, cyanobacteria rule the earth and they ca
 
 7 million years ago, first "humans" appear
 
+and, here we are today
+
+the next question is the future
 
 
 
