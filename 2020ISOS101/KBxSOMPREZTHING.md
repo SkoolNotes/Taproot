@@ -61,7 +61,7 @@ flash forward to 2.4 billion years ago, cyanobacteria rule the earth and they ca
 
 and, here we are today
 
-the next question is the future
+the next question is the future, where we will gadully become more integrated with technolgy. we don't know where it will take us
 
 
 
