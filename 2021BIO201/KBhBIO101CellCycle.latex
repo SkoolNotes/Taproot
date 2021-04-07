@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10458)}}    % original
-%\rhead{\textrmlf{Compiled }\#10458\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10459)}}    % original
+%\rhead{\textrmlf{Compiled }\#10459\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10458
+  \#10459
   \textrmlf{ on}
       \today
   }       % new date
@@ -411,8 +411,11 @@ checkpoints}\label{common-cell-cycle-checkpoints}}
 \item
   \textbf{Spindle Checkpoint} --- checking for the attachment of all
   kineticores to the spindles such that all the chromasomes could be
-  correctly lined up
+  correctly lined up and seperated later
 \end{itemize}
+
+Growth Factors that the cells measure: the 1) Size of the cell 2) the
+nutritional state of the cell
 
 ~
 
