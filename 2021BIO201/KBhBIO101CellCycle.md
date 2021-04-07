@@ -39,9 +39,13 @@ In this process, all of the DNA that is in the nucleus will be [[KBhBIO101DNARep
 ### G2 => Rest Phrase, Gap 2. 
 The pairs of DNA begins bundling and condensing; the DNA is also checked upon and verified for consistency and dumped based the needs of the cell.
 
-At this point, the enzymes neede
+At this point, the enzymes needed to assist Mitosis is also synthesized.
 
 ### M => Mitosis!
+Mitosis is the process by which the cell actually divide. It consists of four parts: prophase, metaphase, anaphase, telophase.
+
+**Prophase**
+
 * Chromosomes line up in equator
 * Each chromosome has two chromatid exactly the same
 * Microtubials to pull chromosomes apart connected to kinecore, a joint in the chromatid
