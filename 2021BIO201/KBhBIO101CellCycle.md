@@ -59,7 +59,7 @@ The microtubuals guide the proteins to align in the equator of the cell called t
 **Anaphase**
 The centromere's centre degrades, freeing the two halfs of the chromasomes.
 
-Yanked by their kineticores,
+Yanked by their kineticores by the microtubuals,
 
 * Microtubials to pull chromosomes apart connected to kinecore, a joint in the chromatid
 
