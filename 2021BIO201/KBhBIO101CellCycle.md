@@ -46,11 +46,16 @@ Mitosis is the process by which the cell actually divide. It consists of four pa
 
 **Prophase**
 
-The cytospeleton of a cell disassembles, and the spindles to seperate the cell begins to form.
+The cytoskeleton of a cell disassembles, and the spindles to seperate the cell begins to form.
 
 The centrioles, the proteins connecting all the spindles, separate to opposite poles of the cell and establishes the bridge of all the microtubuels called the "spindle apparatus".
 
-Proteins in the centromeres of chromasomes attach to a spindle after the nuclar envelope erupts.
+Proteins in the centromeres of chromasomes called kinetechromes attach to a spindle after the nuclar envelope erupts.
+
+**Metaphase**
+
+The microtubuals guide the proteins to align in the equator of the cell called the "metaphase plate.
+
 
 
 * Chromosomes line up in equator
