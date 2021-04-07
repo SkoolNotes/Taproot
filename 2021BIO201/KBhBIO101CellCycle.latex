@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10453)}}    % original
-%\rhead{\textrmlf{Compiled }\#10453\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10454)}}    % original
+%\rhead{\textrmlf{Compiled }\#10454\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10453
+  \#10454
   \textrmlf{ on}
       \today
   }       % new date
@@ -288,7 +288,7 @@ At this point, the enzymes needed to assist Mitosis is also synthesized.
 
 Mitosis is the process by which the cell actually divide. It consists of
 four parts --- prophase, metaphase, anaphase, telophase --- and a final
-seperation called cytokenisis (for animals)
+seperation called cytokenisis
 
 \textbf{Prophase}
 
@@ -324,8 +324,11 @@ The spindle apparutus now disassembles; the microtubuals are broken down
 futher into monomers that will eventually construct the exoskeleton of
 the new cells.
 
-Animals: \textbf{Cytokinesis} The cleavage furrow deepends even more and
-extends to the point where the two cells fully seperate.
+\textbf{Cytokinesis} In animals\ldots{} the cleavage furrow deepends
+even more and extends to the point where the two cells fully seperate.
+In plants\ldots{} because there's no actin fibers to constrict the cell
+wall (it's too hard), vescles between the new cells form that pads out
+the twe newly-formed cells called the ``cell plate.''
 
 \hypertarget{features-of-the-cell-cycle}{%
 \subsection{Features of the Cell

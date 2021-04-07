@@ -42,7 +42,7 @@ The pairs of DNA begins bundling and condensing; the DNA is also checked upon an
 At this point, the enzymes needed to assist Mitosis is also synthesized.
 
 ### M => Mitosis!
-Mitosis is the process by which the cell actually divide. It consists of four parts — prophase, metaphase, anaphase, telophase — and a final seperation called cytokenisis (for animals) 
+Mitosis is the process by which the cell actually divide. It consists of four parts — prophase, metaphase, anaphase, telophase — and a final seperation called cytokenisis 
 
 **Prophase**
 
@@ -66,8 +66,9 @@ A "cleavage furrow" forms in the centre of the cell created by actin on the circ
 
 The spindle apparutus now disassembles; the microtubuals are broken down futher into monomers that will eventually construct the exoskeleton of the new cells.
 
-Animals: **Cytokinesis**
-The cleavage furrow deepends even more and extends to the point where the two cells fully seperate.
+**Cytokinesis**
+In animals... the cleavage furrow deepends even more and extends to the point where the two cells fully seperate.
+In plants... because there's no actin fibers to constrict the cell wall (it's too hard), vescles between the new cells form that pads out the twe newly-formed cells called the "cell plate."
 
 ## Features of the Cell Cycle
 
