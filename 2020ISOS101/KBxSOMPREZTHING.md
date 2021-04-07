@@ -1,11 +1,21 @@
 ---
 title:   Som Prez Thing
 context: SOM201
-author:  
+author:  eh
 source:  #index
 ---
 
-#flo #ref #ret 
-#disorganized #incomplete
+#ret 
 
 ---
+
+
+reqs: like, 15 slides? idk man
+
+
+
+
+
+
+
+

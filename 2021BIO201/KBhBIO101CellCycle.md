@@ -46,6 +46,10 @@ Mitosis is the process by which the cell actually divide. It consists of four pa
 
 **Prophase**
 
+The cytospeleton of a cell disassembles, and the spindles to seperate the cell begins to form.
+
+The centrioles, the proteins connecting all the spindles, separate to opposite poles of the cell and 
+
 * Chromosomes line up in equator
 * Each chromosome has two chromatid exactly the same
 * Microtubials to pull chromosomes apart connected to kinecore, a joint in the chromatid
