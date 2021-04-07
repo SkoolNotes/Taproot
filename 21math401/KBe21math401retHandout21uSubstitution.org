@@ -4,13 +4,14 @@
 *
 *
 *
-* $\int tan^2x +1 dx$
+* $\int \tan^2x +1 dx$
 
   \[\begin{aligned}
-  \int tan^2x +1 dx &= \int sec^2x -1 +1 dx \\
-  &= \int sec^2x dx \\
+  \int \tan^2x +1 dx &= \int \sec^2x -1 +1 dx \\
+  &= \int \sec^2x dx \\
   \text{Let} u = x, du = 1\\
-  &= \int sec^2u du \\
-  &= tan u +C\\
-  &= \boxed{tan x +C}
+  &= \int \sec^2u du \\
+  &= \tan u +C\\
+  &= \boxed{\tan x +C}
   \end{aligned}\]
+*

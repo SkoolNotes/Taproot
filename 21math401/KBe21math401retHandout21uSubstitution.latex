@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10538)}}    % original
-%\rhead{\textrmlf{Compiled }\#10538\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10539)}}    % original
+%\rhead{\textrmlf{Compiled }\#10539\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10538
+  \#10539
   \textrmlf{ on}
       \today
   }       % new date
@@ -197,15 +197,15 @@
 * * * * *
 
 \hypertarget{int-tan2x-1-dx}{%
-\section{\texorpdfstring{\(\int tan^2x +1 dx\)}{\textbackslash int tan\^{}2x +1 dx}}\label{int-tan2x-1-dx}}
+\section{\texorpdfstring{\(\int \tan^2x +1 dx\)}{\textbackslash int \textbackslash tan\^{}2x +1 dx}}\label{int-tan2x-1-dx}}
 
 \[\begin{aligned}
-  \int tan^2x +1 dx &= \int sec^2x -1 +1 dx \\
-  &= \int sec^2x dx \\
+  \int \tan^2x +1 dx &= \int \sec^2x -1 +1 dx \\
+  &= \int \sec^2x dx \\
   \text{Let} u = x, du = 1\\
-  &= \int sec^2u du \\
-  &= tan u +C\\
-  &= \boxed{tan x +C}
-  \end{aligned}\]
+  &= \int \sec^2u du \\
+  &= \tan u +C\\
+  &= \boxed{\tan x +C}
+  \end{aligned}\] *
 
 \end{document}
