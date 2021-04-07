@@ -38,12 +38,8 @@ In this process, all of the DNA that is in the nucleus will be [[KBhBIO101DNARep
 The pairs of DNA begins bundling and condensing; the DNA is also checked upon and verified for consistency and dumped based the needs of the cell.
 
 ### M => Mitosis!
-See [[KBhBIO101Mito
+See [[KBhBIO101Mitosis]]]
 
-* Chromesomes line up in equator
-* Each chromesome has two chromatid exactly the same
-* Microtubials to pull chromesomes appart connected to kinecore, a joint in the chromatid
-* Kinetore senses tension, and when it is correct, molecules are sent down the microtubials to send a split signal
 
 ## Features of the Cell Cycle
 
