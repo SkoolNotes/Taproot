@@ -52,3 +52,5 @@ so this rna-like substance would bind, and form it's counterpart, then at low ti
 
 
 flash forward to 2.4 billion years ago, cyanobacteria rule the earth and they cause the "great oxidation event"
+
+2 billion years ago 
