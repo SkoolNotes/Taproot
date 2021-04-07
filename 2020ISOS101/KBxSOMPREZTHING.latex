@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10434)}}    % original
-%\rhead{\textrmlf{Compiled }\#10434\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10440)}}    % original
+%\rhead{\textrmlf{Compiled }\#10440\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10434
+  \#10440
   \textrmlf{ on}
       \today
   }       % new date
@@ -199,5 +199,7 @@
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 reqs: like, 15 slides? idk man
+
+start of life
 
 \end{document}
