@@ -66,6 +66,9 @@ A "cleavage furrow" forms in the centre of the cell created by actin on the circ
 
 The spindle apparutus now disassembles; the microtubuals are broken down futher into monomers that will eventually construct the exoskeleton of the new cells.
 
+**Cytokinesis**
+The cleavage 
+
 ## Features of the Cell Cycle
 
 **Most cell division results in genetically identical daughter cell**
