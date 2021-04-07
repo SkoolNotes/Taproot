@@ -42,7 +42,7 @@ The pairs of DNA begins bundling and condensing; the DNA is also checked upon an
 At this point, the enzymes needed to assist Mitosis is also synthesized.
 
 ### M => Mitosis!
-Mitosis is the process by which the cell actually divide. It consists of four parts: prophase, metaphase, anaphase, telophase and a final 
+Mitosis is the process by which the cell actually divide. It consists of four parts — prophase, metaphase, anaphase, telophase — and a final seperation called cytokenisis (for animals) 
 
 **Prophase**
 
