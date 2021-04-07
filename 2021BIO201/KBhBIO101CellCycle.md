@@ -67,9 +67,8 @@ A "cleavage furrow" forms in the centre of the cell created by actin on the circ
 The spindle apparutus now disassembles; the microtubuals are broken down futher into monomers that will eventually construct the exoskeleton of the new cells.
 
 **Cytokinesis**
-In animals... the cleavage furrow deepends even more and extends to the point where the two cells fully seperate.
+In animals... the cleavage furrow deepends even more and **extends** to the point where the two cells fully seperate.
 In plants... because there's no actin fibers to constrict the cell wall (it's too hard), vescles between the new cells form that pads out the twe newly-formed cells called the "cell plate." During cytokinesis, the cell plate widens to the point where two cells seperate.
-
 
 ## Features of the Cell Cycle
 
@@ -98,5 +97,8 @@ Drivers tell cells when to divide. The processes that move a cell forward throug
 * Checkpoints regulate drivers' actions
 	* Should the cells not meet the requirements of a checkpoint, its driver would be stopped; and/or 
 	* It will be called to self-destruct
+
+### Common cell-cycle checkpoints
+* **G1/S Checkpoint** — external factors and growth factors, along with measurements of the volume and shape of the cell,
 
  
