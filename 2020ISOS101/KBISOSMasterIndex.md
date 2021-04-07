@@ -37,6 +37,6 @@ source: #index
 	* Huxley's Take: [[KBsciencenotbrokenotes]]
 * Self Eval's
 	* [[KBxIsosSE]]
-* [[KBx
+* [[KBxSOMPREZTHING]]
 
 	
