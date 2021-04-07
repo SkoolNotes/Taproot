@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10478)}}    % original
-%\rhead{\textrmlf{Compiled }\#10478\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10479)}}    % original
+%\rhead{\textrmlf{Compiled }\#10479\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10478
+  \#10479
   \textrmlf{ on}
       \today
   }       % new date
@@ -244,5 +244,7 @@ flash forward to 2.4 billion years ago, cyanobacteria rule the earth and
 they cause the ``great oxidation event''
 
 2 billion years ago, their's the first instance of Eukaryotic cells
+
+530 million years ago, first vertabrete
 
 \end{document}
