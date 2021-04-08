@@ -28,7 +28,8 @@
 * $\int \frac{\sec ^2 x}{\csc x} sin x dx$
 
   \[\begin{aligned}
-  \int \frac{\sec ^2 x}{\csc x} sin x dx
+  \int \frac{\sec ^2 x}{\csc x} sin x dx &= \int \tan^2 x dx \\
+  &= \int sec^2x - 1 dx
   \end{aligned}\]
 
 

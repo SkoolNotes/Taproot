@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10544)}}    % original
-%\rhead{\textrmlf{Compiled }\#10544\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10545)}}    % original
+%\rhead{\textrmlf{Compiled }\#10545\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10544
+  \#10545
   \textrmlf{ on}
       \today
   }       % new date
@@ -235,7 +235,8 @@ Let \(u= \sqrt{x-1}\), \(du = 1\) \[\begin{aligned}
 \section{\texorpdfstring{\(\int \frac{\sec ^2 x}{\csc x} sin x dx\)}{\textbackslash int \textbackslash frac\{\textbackslash sec \^{}2 x\}\{\textbackslash csc x\} sin x dx}}\label{int-fracsec-2-xcsc-x-sin-x-dx}}
 
 \[\begin{aligned}
-  \int \frac{\sec ^2 x}{\csc x} sin x dx
+  \int \frac{\sec ^2 x}{\csc x} sin x dx &= \int \tan^2 x dx \\
+  &= \int sec^2x - 1 dx
   \end{aligned}\]
 
 \hypertarget{section-6}{%

@@ -1,14 +1,15 @@
 #+TITLE: Handout 20: u-substitution
 * $\int \frac{\sqrt{x-1}}{x} dx$
-  
+
+  Let $u= \sqrt{x-1}$, $du = 1$
   \[\begin{aligned}
-  \int  dx 
+  \int \frac{\sqrt{x-1}}{x} dx
   \end{aligned}\]
 
-*
-*
-*
-*
+* 2
+* 3
+* 4
+* 5
 * $\int \tan^2x +1 dx$
 
   \[\begin{aligned}
@@ -19,4 +20,26 @@
   &= \tan u +C\\
   &= \boxed{\tan x +C}
   \end{aligned}\]
-*
+
+* 7
+
+* 8
+
+* $\int \frac{\sec ^2 x}{\csc x} sin x dx$
+
+  \[\begin{aligned}
+  \int \frac{\sec ^2 x}{\csc x} sin x dx &= \int \tan^2 x dx \\
+  &= \int sec^2x - 1 dx\\
+  &= \int sec^2 x dx - 
+  \end{aligned}\]
+
+
+* 10
+
+* 11
+
+* 12
+
+* 13
+
+* 14
