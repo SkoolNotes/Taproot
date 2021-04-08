@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10731)}}    % original
-%\rhead{\textrmlf{Compiled }\#10731\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10732)}}    % original
+%\rhead{\textrmlf{Compiled }\#10732\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10731
+  \#10732
     \textrmlf{ }
     \today
   }       % new date
@@ -199,5 +199,7 @@
 \section{Two Truths and a Lie}\label{two-truths-and-a-lie}}
 
 Nunca juego un video huego en mi vida.
+
+Todavía uso una technología de los
 
 \end{document}

@@ -7,4 +7,4 @@ course: SPAN301
 # Two Truths and a Lie
 Nunca juego un video huego en mi vida.
 
-
+Todavía uso una technología de los 
