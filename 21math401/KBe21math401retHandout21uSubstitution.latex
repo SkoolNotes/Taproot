@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10606)}}    % original
-%\rhead{\textrmlf{Compiled }\#10606\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10607)}}    % original
+%\rhead{\textrmlf{Compiled }\#10607\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10606
+  \#10607
   \textrmlf{ on}
       \today
   }       % new date
@@ -230,7 +230,9 @@ Let \(u = x^2+1\), \(du = 2x dx\) \[\begin{aligned}
 \section{\texorpdfstring{\(\int (x+1)e^{x^2+2x} dx\)}{\textbackslash int (x+1)e\^{}\{x\^{}2+2x\} dx}}\label{int-x1ex22x-dx}}
 
 Let \(u = x^2+2x\), \(du = x+1\) \[\begin{aligned}
-  \int (x+1)e^{x^2+2x} dx &= \frac{1}{2}\int e^u du
+  \int (x+1)e^{x^2+2x} dx &= \frac{1}{2}\int e^u du\\
+  &= e^u\\
+  &= \boxed{e^{x^2r+2x}}
   \end{aligned}\]
 
 \hypertarget{int-tan2x-1-dx}{%

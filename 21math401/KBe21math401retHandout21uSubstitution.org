@@ -32,7 +32,9 @@
 
   Let $u = x^2+2x$, $du = x+1$
   \[\begin{aligned}
-  \int (x+1)e^{x^2+2x} dx &= \frac{1}{2}\int e^u du
+  \int (x+1)e^{x^2+2x} dx &= \frac{1}{2}\int e^u du\\
+  &= e^u\\
+  &= \boxed{e^{x^2r+2x}}
   \end{aligned}\]
 
 * $\int \tan^2x +1 dx$
