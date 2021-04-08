@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10742)}}    % original
-%\rhead{\textrmlf{Compiled }\#10742\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10743)}}    % original
+%\rhead{\textrmlf{Compiled }\#10743\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10742
+  \#10743
     \textrmlf{ }
     \today
   }       % new date
@@ -340,7 +340,7 @@ an example:
 
 \[\begin{aligned}
    \int 2x \sin (x^2) dx\\
-   \end{aligned}\] Let \(u = x^2\) and \(\du = frac{du}{dx} dx = 2x dx\)
+   \end{aligned}\] Let \(u = x^2\) and \(du = frac{du}{dx} dx = 2x dx\)
 
 \[\begin{aligned}
    \int \sin x^2 2x dx &= \int \sin u du\\

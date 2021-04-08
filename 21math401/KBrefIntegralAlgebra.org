@@ -116,7 +116,7 @@
    \[\begin{aligned}
    \int 2x \sin (x^2) dx\\
    \end{aligned}\]
-   Let $u = x^2$ and $\du = frac{du}{dx} dx = 2x dx$
+   Let $u = x^2$ and $du = frac{du}{dx} dx = 2x dx$
 
    \[\begin{aligned}
    \int \sin x^2 2x dx &= \int \sin u du\\
