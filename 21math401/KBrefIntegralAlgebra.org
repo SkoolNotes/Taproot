@@ -89,6 +89,14 @@
 *** for $\sec x$ and $\tan x$,
 	We know their derivatives contain themselves, so we can look for something cyclic.
 
+	For example,
+
+	\[\begin{aligned}
+    \int \sec x dx &= \int \sec x \frac{\sec  x + \tan  x}{\sec x+\tan x} dx \\
+	&= \int \frac{\sec ^2x + \sec x \tan x}{\sec x+\tan x} dx \\
+	\end{aligned}\]
+
+
 ** u substitution
    if it happens to work:
    \[\begin{aligned}

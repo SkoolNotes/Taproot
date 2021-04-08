@@ -132,6 +132,11 @@ html {
             <p>Use the double angle identity for <span class="math inline">\(\sin 2x = 2 \sin x \cos  x\)</span>.</p>
             <h3 id="for-sec-x-and-tan-x">for <span class="math inline">\(\sec x\)</span> and <span class="math inline">\(\tan x\)</span>,</h3>
             <p>We know their derivatives contain themselves, so we can look for something cyclic.</p>
+            <p>For example,</p>
+            <p><span class="math display">\[\begin{aligned}
+                \int \sec x dx &amp;= \int \sec x \frac{\sec  x + \tan  x}{\sec x+\tan x} dx \\
+                &amp;= \int \frac{\sec ^2x + \sec x \tan x}{\sec x+\tan x} dx \\
+                \end{aligned}\]</span></p>
             <h2 id="u-substitution">u substitution</h2>
             <p>if it happens to work: <span class="math display">\[\begin{aligned}
                \int f&#39;(g(x)) g&#39;(x)dx = f(g(x)) + C

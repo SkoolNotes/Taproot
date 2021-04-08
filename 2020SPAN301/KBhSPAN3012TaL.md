@@ -9,4 +9,4 @@ Nunca juego un video huego en mi vida.
 
 Todavía uso una technología de los siglo dieciocho.
 
-Nací en un pueblo pequeño
+Nací en un pueblo pequeño en Canadá.

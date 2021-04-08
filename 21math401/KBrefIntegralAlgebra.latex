@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10734)}}    % original
-%\rhead{\textrmlf{Compiled }\#10734\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10735)}}    % original
+%\rhead{\textrmlf{Compiled }\#10735\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10734
+  \#10735
     \textrmlf{ }
     \today
   }       % new date
@@ -311,6 +311,13 @@ Use the double angle identity for \(\sin 2x = 2 \sin x \cos  x\).
 
 We know their derivatives contain themselves, so we can look for
 something cyclic.
+
+For example,
+
+\[\begin{aligned}
+    \int \sec x dx &= \int \sec x \frac{\sec  x + \tan  x}{\sec x+\tan x} dx \\
+    &= \int \frac{\sec ^2x + \sec x \tan x}{\sec x+\tan x} dx \\
+    \end{aligned}\]
 
 \hypertarget{u-substitution}{%
 \subsection{u substitution}\label{u-substitution}}
