@@ -63,8 +63,8 @@
 ** k-angle formulas for sinusoids
 
    \[\begin{aligned}
-   \int \sin kx dx = - \frac{\cos kx}{k}
-   \int \cos kx dx = - \frac{\cos kx}{k}
+   \int \sin kx dx &= - \frac{\cos kx}{k}\\
+   \int \cos kx dx &= \frac{\sin kx}{k}
    \end{aligned}\]
 
 ** u substitution
