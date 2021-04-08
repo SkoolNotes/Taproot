@@ -3,7 +3,7 @@
 ** split fractions
    Always consider splitting sums of fractions
    \[\begin{aligned}
-
+   \int \frac{a+b}{c} dx = \int \frac{a}{c} dx +\int \frac{b}{c} dx
    \end{aligned}\]
 
 * additive
