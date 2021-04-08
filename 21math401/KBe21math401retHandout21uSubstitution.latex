@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10566)}}    % original
-%\rhead{\textrmlf{Compiled }\#10566\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10567)}}    % original
+%\rhead{\textrmlf{Compiled }\#10567\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10566
+  \#10567
   \textrmlf{ on}
       \today
   }       % new date
@@ -201,7 +201,8 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}dx\)
 \[\begin{aligned}
   \int \frac{\sqrt{x-1}}{x} dx &= \int \frac{u}{u^2+1} 2u du\\
   &= 2\int \frac{(u^2+1)-1}{u^2+1}du\\
-  &= 2\int \frac{-1}{1}du\\
+  &= 2\int \frac{\cancel{u^2+1}}{\cancel{u^2+1}} + \frac{-1}{u^2+1}du\\
+  &= 2\int 1 + \frac{-1}{u^2+1}du\\
   \end{aligned}\]
 
 \hypertarget{section}{%
