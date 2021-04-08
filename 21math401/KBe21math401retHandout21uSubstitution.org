@@ -97,6 +97,11 @@
   Let $$,
 
 * $\int x^2 e^{x^3}dx$
-  Let $u = x^3$, $du = \frac{1}{3}x^2$
+  Let $u = x^3$, $du = \frac{1}{3}x^2dx$
+
+  \[\begin{aligned}
+  \int x^2 e^{x^3} dx &= 3\int e^u du\\
+  \end{aligned}\]
+
 
 * 14
