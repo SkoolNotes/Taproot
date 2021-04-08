@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10713)}}    % original
-%\rhead{\textrmlf{Compiled }\#10713\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10714)}}    % original
+%\rhead{\textrmlf{Compiled }\#10714\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10713
+  \#10714
     \textrmlf{ }
     \today
   }       % new date
@@ -291,7 +291,7 @@ Let \(u = x^2+2x\), \(du = x+1 dx\) \[\begin{aligned}
   \int \frac{\sec ^2 x}{\csc x} \sin x dx &= \int \tan^2 x dx \\
   &= \int \sec^2x - 1 dx\\
   &= \int \sec^2 x dx - \int 1 dx \\
-  &= \boxed{\tan x - x}
+  &= \boxed{\tan x - x +C}
   \end{aligned}\]
 
 \hypertarget{int-sin-x-cos-x-dx}{%
@@ -302,7 +302,7 @@ Let \(u = \sin x\), then \(du = \cos x dx\)
 \[\begin{aligned}
   \int \sin x \cos x dx &= \int u du\\
   &= \frac{1}{2}u^2\\
-  &= \boxed{\frac{1}{2}\sin ^2x}
+  &= \boxed{\frac{1}{2}\sin ^2x +C}
   \end{aligned}\]
 
 \hypertarget{int-frace2-ln-sin-xe2ln-cos-xe2-ln-tan-x-e2-ln-1-dx}{%
