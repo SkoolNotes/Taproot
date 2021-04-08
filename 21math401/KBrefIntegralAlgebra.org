@@ -127,6 +127,8 @@
 ** integration by parts (on products, product rule)
 
    \[\begin{aligned}
-   \frac{d}{dx}f(x)g(x) = f'(x)g(x) + g'(x)f(x)\\
-   \int \frac{d}{dx}f(x)g(x) dx = \int  f'(x)g(x) + g'(x)f(x) dx \\
+   &\frac{d}{dx}f(x)g(x) &= f'(x)g(x) + g'(x)f(x)\\
+   &\int \frac{d}{dx}f(x)g(x) dx &= \int  f'(x)g(x) + g'(x)f(x) dx \\
+   &f(x)g(x)+C &= \int f'(x)g(x) dx + \int g'(x)f(x) dx \\
+
    \end{aligned}\]

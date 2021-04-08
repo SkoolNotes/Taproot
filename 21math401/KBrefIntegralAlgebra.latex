@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10739)}}    % original
-%\rhead{\textrmlf{Compiled }\#10739\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10740)}}    % original
+%\rhead{\textrmlf{Compiled }\#10740\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10739
+  \#10740
     \textrmlf{ }
     \today
   }       % new date
@@ -353,8 +353,10 @@ an example:
 rule)}\label{integration-by-parts-on-products-product-rule}}
 
 \[\begin{aligned}
-   \frac{d}{dx}f(x)g(x) = f'(x)g(x) + g'(x)f(x)\\
-   \int \frac{d}{dx}f(x)g(x) dx = \int  f'(x)g(x) + g'(x)f(x) dx \\
+   &\frac{d}{dx}f(x)g(x) &= f'(x)g(x) + g'(x)f(x)\\
+   &\int \frac{d}{dx}f(x)g(x) dx &= \int  f'(x)g(x) + g'(x)f(x) dx \\
+   &f(x)g(x)+C &= \int f'(x)g(x) dx + \int g'(x)f(x) dx \\
+
    \end{aligned}\]
 
 \end{document}
