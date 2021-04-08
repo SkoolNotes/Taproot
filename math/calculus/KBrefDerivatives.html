@@ -71,56 +71,18 @@ html {
             <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong></strong> </span></div>
         </div>
         <div id="center-viewport">
-            <table>
-            <thead>
-            <tr class="header">
-            <th style="text-align: left;">function</th>
-            <th style="text-align: left;">derivative</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr class="odd">
-            <td style="text-align: left;">x<sup>n</sup></td>
-            <td style="text-align: left;">nx<sup>n-1</sup></td>
-            </tr>
-            <tr class="even">
-            <td style="text-align: left;">sin  x</td>
-            <td style="text-align: left;">cos  x</td>
-            </tr>
-            <tr class="odd">
-            <td style="text-align: left;">e<sup>x</sup></td>
-            <td style="text-align: left;">e<sup>x</sup></td>
-            </tr>
-            <tr class="even">
-            <td style="text-align: left;">ln  x</td>
-            <td style="text-align: left;"></td>
-            </tr>
-            <tr class="odd">
-            <td style="text-align: left;">ln  (1+x)</td>
-            <td style="text-align: left;"></td>
-            </tr>
-            <tr class="even">
-            <td style="text-align: left;">sin ^- x</td>
-            <td style="text-align: left;"></td>
-            </tr>
-            <tr class="odd">
-            <td style="text-align: left;">tan ^- x</td>
-            <td style="text-align: left;"></td>
-            </tr>
-            <tr class="even">
-            <td style="text-align: left;">sec  x</td>
-            <td style="text-align: left;">sin  x cos <sup>-2</sup>x = tan  x sec  x</td>
-            </tr>
-            <tr class="odd">
-            <td style="text-align: left;">csc  x</td>
-            <td style="text-align: left;">cot  x csc  x</td>
-            </tr>
-            <tr class="even">
-            <td style="text-align: left;"><span class="math inline">\(\ln \vert\sin x\vert\)</span></td>
-            <td style="text-align: left;"></td>
-            </tr>
-            </tbody>
-            </table>
+            <p><span class="math display">\[| function               | derivative                        |
+            |------------------------+-----------------------------------|
+            | x^n                    | nx^{n-1}                          |
+            | \sin x                 | \cos x                            |
+            | e^x                    | e^x                               |
+            | \ln x                  | \frac{1}{x}                       |
+            | \ln (1+x)              | \frac{1}{1+x}                     |
+            | \sin^- x               | \frac{1}{\sqrt{1-x^2}}            |
+            | \tan^- x               | \frac{1}{1+x^2}                   |
+            | \sec x                 | \sin x \cos^{-2}x = \tan x \sec x |
+            | \csc x                 | \cot x \csc x                     |
+            | $\ln \vert\sin x\vert$ | \cot x                            |\]</span></p>
         </div>
 
         <script>

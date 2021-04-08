@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10725)}}    % original
-%\rhead{\textrmlf{Compiled }\#10725\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10726)}}    % original
+%\rhead{\textrmlf{Compiled }\#10726\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10725
+  \#10726
     \textrmlf{ }
     \today
   }       % new date
@@ -195,22 +195,19 @@
 
 % DID YOU SET SPELL????
 
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-function & derivative \\
-\midrule
-\endhead
-x\textsuperscript{n} & nx\textsuperscript{n-1} \\
-sin  x & cos  x \\
-e\textsuperscript{x} & e\textsuperscript{x} \\
-ln  x & \frac{1}{x} \\
-ln  (1+x) & \frac{1}{1+x} \\
-sin \^{}- x & \frac{1}{\sqrt{1-x^2}} \\
-tan \^{}- x & \frac{1}{1+x^2} \\
-sec  x & sin  x cos \textsuperscript{-2}x = tan  x sec  x \\
-csc  x & cot  x csc  x \\
-\(\ln \vert\sin x\vert\) & \\
-\bottomrule
-\end{longtable}
+\[
+| function               | derivative                        |
+|------------------------+-----------------------------------|
+| x^n                    | nx^{n-1}                          |
+| \sin x                 | \cos x                            |
+| e^x                    | e^x                               |
+| \ln x                  | \frac{1}{x}                       |
+| \ln (1+x)              | \frac{1}{1+x}                     |
+| \sin^- x               | \frac{1}{\sqrt{1-x^2}}            |
+| \tan^- x               | \frac{1}{1+x^2}                   |
+| \sec x                 | \sin x \cos^{-2}x = \tan x \sec x |
+| \csc x                 | \cot x \csc x                     |
+| $\ln \vert\sin x\vert$ | \cot x                            |
+\]
 
 \end{document}
