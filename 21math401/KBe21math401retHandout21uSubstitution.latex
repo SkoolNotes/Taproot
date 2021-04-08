@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10635)}}    % original
-%\rhead{\textrmlf{Compiled }\#10635\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10636)}}    % original
+%\rhead{\textrmlf{Compiled }\#10636\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10635
+  \#10636
   \textrmlf{ on}
       \today
   }       % new date
@@ -303,7 +303,7 @@ Let \(u = \sin x\), then \(du = \cos x dx\)
   &= \int \cos ^2x dx\\
   &= \int \frac{1}{2}(\cos 2x + 1) dx\\
   &= \frac{1}{2} \int \cos 2x + 1 dx\\
-  &= \frac{1}{2} \int \cos 2x + 1 dx\\
+  &= \frac{1}{2} \int \cos 2x dx + \int 1 dx\\
   \end{aligned}\]
 
 \hypertarget{int-fracsec-x-tan-x1sec-2x-dx}{%
