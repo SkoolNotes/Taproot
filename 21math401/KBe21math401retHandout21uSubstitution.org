@@ -106,3 +106,8 @@
   \end{aligned}\]
 
 * $\int \frac{e^\sqrt{x}}{\sqrt{x}} dx$
+  Let $u=\sqrt{x}$, $du = \frac{1}{2\sqrt{x}}dx$
+
+  \[\begin{aligned}
+  \int \frac{e^\sqrt{x}}{\sqrt{x}} dx &= \int \sqrt{e^u}du
+  \end{aligned}\]

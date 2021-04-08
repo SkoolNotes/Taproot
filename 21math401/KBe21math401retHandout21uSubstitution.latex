@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10619)}}    % original
-%\rhead{\textrmlf{Compiled }\#10619\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10620)}}    % original
+%\rhead{\textrmlf{Compiled }\#10620\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10619
+  \#10620
   \textrmlf{ on}
       \today
   }       % new date
@@ -317,5 +317,11 @@ Let \(u = x^3\), \(du = 3x^2dx\)
 
 \hypertarget{int-fracesqrtxsqrtx-dx}{%
 \section{\texorpdfstring{\(\int \frac{e^\sqrt{x}}{\sqrt{x}} dx\)}{\textbackslash int \textbackslash frac\{e\^{}\textbackslash sqrt\{x\}\}\{\textbackslash sqrt\{x\}\} dx}}\label{int-fracesqrtxsqrtx-dx}}
+
+Let \(u=\sqrt{x}\), \(du = \frac{1}{2\sqrt{x}}dx\)
+
+\[\begin{aligned}
+  \int \frac{e^\sqrt{x}}{\sqrt{x}} dx &= \int \sqrt{e^u}du
+  \end{aligned}\]
 
 \end{document}
