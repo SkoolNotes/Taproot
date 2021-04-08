@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10577)}}    % original
-%\rhead{\textrmlf{Compiled }\#10577\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10578)}}    % original
+%\rhead{\textrmlf{Compiled }\#10578\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10577
+  \#10578
   \textrmlf{ on}
       \today
   }       % new date
@@ -253,8 +253,11 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}dx\)
 
 Let \(u = \sin x\), then \(du = \cos x dx\)
 
-\begin{align*}
-\end{align*}
+\begin{aligned}
+    a = b\\
+    b = c
+    caaa = d
+\end{aligned}
 
 \[\begin{aligned}
   \int \sin x \cos x dx &= \int u du\\

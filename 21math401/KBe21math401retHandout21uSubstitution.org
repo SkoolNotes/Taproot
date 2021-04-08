@@ -43,8 +43,11 @@
 * $\int \sin x \cos x dx $
   Let $u = \sin x$, then $du = \cos x dx$
 
-  \begin{align*}
-  \end{align*}
+  \begin{aligned}
+	a = b\\
+	b = c
+	caaa = d
+  \end{aligned}
 
   \[\begin{aligned}
   \int \sin x \cos x dx &= \int u du\\
