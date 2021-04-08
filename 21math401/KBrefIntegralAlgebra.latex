@@ -14,6 +14,7 @@
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
+\usepackage{setspace}
 
 \usepackage{graphicx}
 \usepackage{xesearch}
@@ -140,13 +141,13 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10321)}}    % original
-%\rhead{\textrmlf{Compiled }\#10321\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10717)}}    % original
+%\rhead{\textrmlf{Compiled }\#10717\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10321
-  \textrmlf{ on}
-      \today
+  \#10717
+    \textrmlf{ }
+    \today
   }       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
@@ -265,6 +266,10 @@ s.t. \[\begin{aligned}
 \[\begin{aligned}
    \int x^n dx = \frac{x^{n+1}}{n+1} +C
    \end{aligned}\]
+
+\hypertarget{k-angle-formulas-for-sinusoids}{%
+\subsection{k-angle formulas for
+sinusoids}\label{k-angle-formulas-for-sinusoids}}
 
 \hypertarget{u-substitution}{%
 \subsection{u substitution}\label{u-substitution}}
