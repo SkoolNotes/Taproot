@@ -1,4 +1,8 @@
 #+TITLE: Handout 20: u-substitution
+#+begin_export latex
+\setcounter{section}{-1}
+#+end_export
+*
 * $\int \frac{\sqrt{x-1}}{x} dx$
 
   Let $u= \sqrt{x-1}$, $du = \frac{1}{2\sqrt{x-1}}dx$
