@@ -95,6 +95,7 @@
     \int \sec x dx &= \int \sec x \frac{\sec  x + \tan  x}{\sec x+\tan x} dx \\
 	&= \int \frac{\sec ^2x + \sec x \tan x}{\sec x+\tan x} dx \\
 	\end{aligned}\]
+
 	Let $u = \sec x+\tan x$, $du = \sec x\tan x + \sec ^2x$
 
 	\[\begin{aligned}
@@ -104,7 +105,7 @@
 	&= \ln | \sec x+\tan x|
 	\end{aligned}\]
 
-** u substitution
+** u-substitution
    if it happens to work:
    \[\begin{aligned}
    \int f'(g(x)) g'(x)dx = f(g(x)) + C
@@ -122,3 +123,5 @@
    &= -\cos (u) +C\\
    &= -\cos (x^2) +C
    \end{aligned}\]
+
+** integration by parts

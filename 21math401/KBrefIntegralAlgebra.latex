@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10736)}}    % original
-%\rhead{\textrmlf{Compiled }\#10736\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10737)}}    % original
+%\rhead{\textrmlf{Compiled }\#10737\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10736
+  \#10737
     \textrmlf{ }
     \today
   }       % new date
@@ -317,8 +317,9 @@ For example,
 \[\begin{aligned}
     \int \sec x dx &= \int \sec x \frac{\sec  x + \tan  x}{\sec x+\tan x} dx \\
     &= \int \frac{\sec ^2x + \sec x \tan x}{\sec x+\tan x} dx \\
-    \end{aligned}\] Let \(u = \sec x+\tan x\),
-\(du = \sec x\tan x + \sec ^2x\)
+    \end{aligned}\]
+
+Let \(u = \sec x+\tan x\), \(du = \sec x\tan x + \sec ^2x\)
 
 \[\begin{aligned}
     \int \sec x dx &= \int \frac{du}{u} dx \\
@@ -328,7 +329,7 @@ For example,
     \end{aligned}\]
 
 \hypertarget{u-substitution}{%
-\subsection{u substitution}\label{u-substitution}}
+\subsection{u-substitution}\label{u-substitution}}
 
 if it happens to work: \[\begin{aligned}
    \int f'(g(x)) g'(x)dx = f(g(x)) + C
@@ -345,5 +346,8 @@ an example:
    &= -\cos (u) +C\\
    &= -\cos (x^2) +C
    \end{aligned}\]
+
+\hypertarget{integration-by-parts}{%
+\subsection{integration by parts}\label{integration-by-parts}}
 
 \end{document}
