@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10704)}}    % original
-%\rhead{\textrmlf{Compiled }\#10704\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10705)}}    % original
+%\rhead{\textrmlf{Compiled }\#10705\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10704
+  \#10705
     \textrmlf{ }
     \today
   }       % new date
@@ -211,21 +211,33 @@ Radicals}\label{the-inevitable-shift-how-international-incentives-cause-individu
     As countries formed aliances and grew their militaries, opposing parties were forced to keep up in the arms race. This so called "security dilemma" doubled the number of military and navel personel worldwide in the 30 years between the German unification and the war, and nearly tripled the global warship tonnage (Kennedy, Table 19-20). A level two perspcetive would explain this aggression with Germany's expansionistic ideals, but even Britain's liberal parliamentary democracy quadrupled it's naval tonnage.
     Leaders at the time believed that preempting war would allow a fast and decisive victory. Even simplifying the outcomes to two countries and four possibilites, where each country either attacks or defends, greedy actors will choose to preempt war. As a result, each country prepared to invade it's neighboors, and European tensions grew.
     In fact, had a there been an international disencentive such as Mutually Assured Destruction, the relative ordering of possibilites and therefore the cost matrix would've prevented all out war between such parties. For example, in a nuclear scenerio where any attacked country can retaliate with their own warheads, the utility of each scenerio would be ordered as follows:
+\end{doublespacing}
 
-    | Utility | Our Actions | Their Actions |
-    |---------+-------------+---------------|
-    |       4 | Defend      | Defend        |
-    |       3 | Attack      | Defend        |
-    |       2 | Attack      | Attack        |
-    |       1 | Defend      | Attack        |
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Utility & Our Actions & Their Actions \\
+\midrule
+\endhead
+4 & Defend & Defend \\
+3 & Attack & Defend \\
+2 & Attack & Attack \\
+1 & Defend & Attack \\
+\bottomrule
+\end{longtable}
 
-    And in a two party system,
+And in a two party system,
 
-    | Top,Left | Attack | Defend |
-    |----------+--------+--------|
-    | Attack   | 2, 2   | 1, 3   |
-    | Defend   | 3, 1   | 4, 4   |
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Top,Left & Attack & Defend \\
+\midrule
+\endhead
+Attack & 2, 2 & 1, 3 \\
+Defend & 3, 1 & 4, 4 \\
+\bottomrule
+\end{longtable}
 
+\begin{doublespacing}
     Although it may seem less risky for any given party to attack, the utility of both defend increases as weapons get stronger until both parties opt for a defense strategy under MAD. Modern mutually assured destruction has so far prevented all out war, and a lack of such disincentives made war more likely in the early 1900s.
 
    As a side effect of this global militarization, the populous glorified and anticipated war. This level three influence on the level one psyche inflamed nationalist ideals across Europe and primed a now-ticking explosive.
@@ -238,9 +250,11 @@ Radicals}\label{the-inevitable-shift-how-international-incentives-cause-individu
 
     As countries militarized and nationalist views grew, ethnic and religious divisions intensified until something inevitably sparked war.
     The level three influences also shifted the general psyche to become more war-like, pushing a few individuals near the extreme end of the bell curve past a critical point.
+\end{doublespacing}
 
-[[file:KBe21hist201retCausesOfWWIEssayDiagram.png]]
+\includegraphics{KBe21hist201retCausesOfWWIEssayDiagram.png}
 
+\begin{doublespacing}
     In the case of WWI, the weakest link was the religious divide in Austria-Hungary. Over the course of a number of "Balkan crises," the Eastern Orthodox Serbs and Bosnians in southern Austria-Hungary grew discontent with the Roman Catholic Dual Monarchy that ruled the Habsburg empire-soon to be Austria-Hungary. As the Ottoman empire declined, the Serbs marked Bosnia as their own and were infuriated when Austria annexed Bosnia in 1908. When a the Balkan wars saw Austria cut Serbia off from the sea, Serbs both independent and Austrian grew exasperated and desperate (Palmer, 662).
     This chain of events was driven by recent level three influences: the ongoing security-dilemma-induced arms race had Germany's neighbors scrambling for land and power. States and citizens alike were expecting war, and looking to gain as much of an upper hand as possible before it broke out.
 
@@ -258,8 +272,7 @@ Radicals}\label{the-inevitable-shift-how-international-incentives-cause-individu
 \tightlist
 \item
   "About: Sacred Union." DBPedia,
-  dbpedia.org/page/Sacred\textbackslash{}\textsubscript{Union}. Accessed
-  7 Apr. 2021.
+  dbpedia.org/page/Sacred\textsubscript{Union}. Accessed 7 Apr. 2021.
 \item
   Palmer et al. A History of the Modern World, 9th Edition.
 \end{itemize}
