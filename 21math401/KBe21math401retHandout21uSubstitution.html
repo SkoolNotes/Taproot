@@ -153,7 +153,9 @@ html {
             <h1 id="int-fracesqrtxsqrtx-dx"><span class="math inline">\(\int \frac{e^\sqrt{x}}{\sqrt{x}} dx\)</span></h1>
             <p>Let <span class="math inline">\(u=\sqrt{x}\)</span>, <span class="math inline">\(du = \frac{1}{2\sqrt{x}}dx\)</span></p>
             <p><span class="math display">\[\begin{aligned}
-              \int \frac{e^\sqrt{x}}{\sqrt{x}} dx &amp;= \int \sqrt{e^u}du
+              \int \frac{e^\sqrt{x}}{\sqrt{x}} dx &amp;= 2\int e^udu\\
+              &amp;= 2 e^u +C\\
+              &amp;= \boxed{2e^\sqrt{x}+C}
               \end{aligned}\]</span></p>
         </div>
 
