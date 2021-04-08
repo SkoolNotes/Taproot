@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10571)}}    % original
-%\rhead{\textrmlf{Compiled }\#10571\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10572)}}    % original
+%\rhead{\textrmlf{Compiled }\#10572\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10571
+  \#10572
   \textrmlf{ on}
       \today
   }       % new date
@@ -205,6 +205,7 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}dx\)
   &= 2\int 1 du- \frac{1}{u^2+1} +C\\
   &= 2\int 1du-\tan^- u +C\\
   &= 2u - \tan^- u +C\\
+  &= \boxed{2\sqrt{x-1} - \tan^-\left( \sqrt{x-1}\right)  +C}\\
   \end{aligned}\]
 
 \hypertarget{section}{%
