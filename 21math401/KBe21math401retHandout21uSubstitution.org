@@ -103,7 +103,12 @@
   &= \frac{1}{2} \int \cos 2x + 1 dx\\
   &= \frac{1}{2} \int \cos 2x dx + \int 1 dx\\
   \end{aligned}\]
-  Let $u = \cos x$, $du = -\sin x$
+  Let $u = 2x$, $du = 2dx$
+
+  \[\begin{aligned}
+  \frac{1}{2}\int \cos 2x dx + x + C &= \frac{1}{4}\int \cos u du
+  \end{aligned}\]
+
 
 * TODO $\int \frac{\sec x \tan x}{1+\sec ^2x} dx$
   Let $$,
