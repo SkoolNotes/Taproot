@@ -113,6 +113,14 @@
 
 
 * TODO $\int \frac{\sec x \tan x}{1+\sec ^2x} dx$
+  Let $u = \sec  x$, $du = \sec  x \tan  x$
+
+  \[\begin{aligned}
+  \int \frac{\sec x\tan x}{1+\sec^2x} dx &= \int \frac{du}{1+u^2} dx \\
+  &= \tan ^-u du\\
+  &=
+  \end{aligned}\]
+
 
 
 
