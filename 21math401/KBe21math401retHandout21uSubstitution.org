@@ -54,6 +54,11 @@
 
 * TODO $\int \frac{6x^2-4}{x} dx$
 
+  \[\begin{aligned}
+  \int \frac{6x^2-4}{x} dx &= \int \frac{6x^2}{x} dx - 4 \int \frac{1}{x} dx
+  \end{aligned}\]
+
+
 * $\int \frac{e^x-1}{e^x} dx$
 
   \[\begin{aligned}
