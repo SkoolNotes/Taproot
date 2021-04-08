@@ -44,7 +44,7 @@
 
 * $\int (x+1)e^{x^2+2x} dx$
 
-  Let $u = x^2+2x$, $du = x+1$
+  Let $u = x^2+2x$, $du = x+1 dx$
   \[\begin{aligned}
   \int (x+1)e^{x^2+2x} dx &= \frac{1}{2}\int e^u du\\
   &= \frac{1}{2}e^u\\
