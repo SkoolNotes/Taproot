@@ -5,5 +5,6 @@ course: SPAN301
 ---
 
 # Two Truths and a Lie
-Nunca jug
+Nunca juego un video huego en mi vida.
+
 
