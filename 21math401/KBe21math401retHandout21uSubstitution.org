@@ -28,7 +28,8 @@
 
   \[\begin{aligned}
   \int \frac{x-4}{x^2} dx &= \int \frac{x}{x^2} \frac{4}{x^2} dx
-  &= \int \frac{1}{x} dx + \int 4 \frac{1}{x^2} dx
+  &= \int \frac{1}{x} dx + 4 \int \frac{1}{x^2} dx\\
+  &= \ln x - \frac{1}{x}
   \end{aligned}\]
 
 * $\int (x+1)e^{x^2+2x} dx$

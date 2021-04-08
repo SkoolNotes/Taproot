@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10627)}}    % original
-%\rhead{\textrmlf{Compiled }\#10627\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10628)}}    % original
+%\rhead{\textrmlf{Compiled }\#10628\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10627
+  \#10628
   \textrmlf{ on}
       \today
   }       % new date
@@ -226,7 +226,8 @@ Let \(u = x-4\), \(du = dx\)
 
 \[\begin{aligned}
   \int \frac{x-4}{x^2} dx &= \int \frac{x}{x^2} \frac{4}{x^2} dx
-  &= \int \frac{1}{x} dx + \int 4 \frac{1}{x^2} dx
+  &= \int \frac{1}{x} dx + 4 \int \frac{1}{x^2} dx\\
+  &= \ln x - \frac{1}{x}
   \end{aligned}\]
 
 \hypertarget{int-x1ex22x-dx}{%
