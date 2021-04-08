@@ -14,6 +14,7 @@
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
+\usepackage{setspace}
 
 \usepackage{graphicx}
 \usepackage{xesearch}
@@ -140,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10699)}}    % original
-%\rhead{\textrmlf{Compiled }\#10699\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10700)}}    % original
+%\rhead{\textrmlf{Compiled }\#10700\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10699
+  \#10700
   \textrmlf{ on}
       \today
   }       % new date
