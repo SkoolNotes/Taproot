@@ -17,6 +17,9 @@
   Let $u = x^2+1$, $du = 2x dx$
   \[\begin{aligned}
   \int \frac{x^3}{x^2+1} dx &= \frac{1}{2} \int \frac{u-1}{u} du\\
+  &= \frac{1}{2} \left( u - \int \frac{1}{u} du \right) +C\\
+  &= \frac{1}{2} \left( u - \ln u \right) +C
+  &= \frac{1}{2} \left( u - \ln u \right) +C
   \end{aligned}\]
 
 * 3
