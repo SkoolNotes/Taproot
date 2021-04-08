@@ -5,8 +5,7 @@ course: SPAN301
 ---
 
 # Two Truths and a Lie
-Nunca juego un video huego en mi vida.
-
+Nunca juego un videohuego en mi vida.
+Nací en un pueblo pequeño en Canadá.
 Todavía uso una technología de los siglo dieciocho.
 
-Nací en un pueblo pequeño en Canadá.
