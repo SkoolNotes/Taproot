@@ -43,10 +43,13 @@
 * $\int \sin x \cos x dx $
   Let $u = \sin x$, then $du = \cos x dx$
 
+  \begin{align*}
+  \end{align*}
+
   \[\begin{aligned}
   \int \sin x \cos x dx &= \int u du\\
   &= \frac{1}{2}u^2\\
-  &= \boxed{\frac{1}{2}\cos ^2x}
+  &= \boxed{\frac{1}{2}\sin ^2x}
   \end{aligned}\]
 
 
