@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10747)}}    % original
-%\rhead{\textrmlf{Compiled }\#10747\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10748)}}    % original
+%\rhead{\textrmlf{Compiled }\#10748\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10747
+  \#10748
     \textrmlf{ }
     \today
   }       % new date
@@ -272,6 +272,9 @@ Defend & 3, 1 & 4, 4 \\
 \begin{itemize}
 \tightlist
 \item
+  Kennedy, Paul M. \emph{The Rise and Fall of the Great Powers: Economic
+  Change and Military Conflict from 1500 to 2000}. 1987. Print.
+\item
   "About: Sacred Union." DBPedia,
   dbpedia.org/page/Sacred\textsubscript{Union}. Accessed 7 Apr. 2021.
 \item
@@ -279,9 +282,6 @@ Defend & 3, 1 & 4, 4 \\
 \item
   Perry, Jonathan S. \emph{Sources for Europe in the Modern World}.
   Oxford University Press, 2016.
-\item
-  Kennedy, Paul M. The Rise and Fall of the Great Powers: Economic
-  Change and Military Conflict from 1500 to 2000. , 1987. Print.
 \end{itemize}
 
 \end{document}
