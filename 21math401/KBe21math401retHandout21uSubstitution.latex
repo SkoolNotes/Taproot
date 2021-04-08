@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10625)}}    % original
-%\rhead{\textrmlf{Compiled }\#10625\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10626)}}    % original
+%\rhead{\textrmlf{Compiled }\#10626\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10625
+  \#10626
   \textrmlf{ on}
       \today
   }       % new date
@@ -293,7 +293,7 @@ Let \(u = \sin x\), then \(du = \cos x dx\)
   \int \frac{e^{2 \ln \sin x}+e^{2\ln \cos x}}{e^{2 \ln \tan x} + e^{2 \ln 1}} dx &= \int \frac{\sin^2 x + \cos ^2 x}{\tan^2x + 1} dx\\
   &= \int \frac{1}{\tan^2x + 1} dx \\
   &= \int \frac{1}{\sec ^2x} dx \\
-  &= \int \cos ^2x dx
+  &= \int \cos ^2x dx\\
   &= \int \frac{1}{2}(\cos 2x + 1) dx
   \end{aligned}\]
 
