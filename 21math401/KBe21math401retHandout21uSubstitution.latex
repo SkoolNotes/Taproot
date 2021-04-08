@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10650)}}    % original
-%\rhead{\textrmlf{Compiled }\#10650\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10651)}}    % original
+%\rhead{\textrmlf{Compiled }\#10651\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10650
+  \#10651
   \textrmlf{ on}
       \today
   }       % new date
@@ -325,7 +325,7 @@ Let \(u = \sin x\), then \(du = \cos x dx\)
 Let \(u = \sec  x\), \(du = \sec  x \tan  x\)
 
 \[\begin{aligned}
-  \int \frac{\sec x\tan x}{1+\sec^2x} dx &= \int \frac{du}{1+u^2} dx \\
+  \int \frac{\sec x\tan x}{1+\sec^2 x} dx &= \int \frac{du}{1+u^2} dx \\
   &= \int \frac{1}{1+u^2} du\\
   &= \tan ^- u +C\\
   &= \boxed{\tan ^- \sec x +C}
@@ -343,7 +343,7 @@ Let \(u = x^3\), \(du = 3x^2dx\)
   \end{aligned}\]
 
 \hypertarget{int-fracesqrtxsqrtx-dx}{%
-\section{\texorpdfstring{\(\int \frac{e^\sqrt{x}}{\sqrt{x}} dx\)}{\textbackslash int \textbackslash frac\{e\^{}\textbackslash sqrt\{x\}\}\{\textbackslash sqrt\{x\}\} dx}}\label{int-fracesqrtxsqrtx-dx}}
+\section{\texorpdfstring{\(\int \frac{e^{\sqrt{x}}}{\sqrt{x}} dx\)}{\textbackslash int \textbackslash frac\{e\^{}\{\textbackslash sqrt\{x\}\}\}\{\textbackslash sqrt\{x\}\} dx}}\label{int-fracesqrtxsqrtx-dx}}
 
 Let \(u=\sqrt{x}\), \(du = \frac{1}{2\sqrt{x}}dx\)
 
