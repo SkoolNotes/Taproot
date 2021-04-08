@@ -29,7 +29,12 @@
 
 * 7
 
-* 8
+* $\int \frac{e^x-1}{e^x} dx$
+
+  \[\begin{aligned}
+  \int \frac{e^x-1}{e^x} dx &= \int 1 - \frac{1}{e^x} dx\\
+  \end{aligned}\]
+
 
 * $\int \frac{\sec ^2 x}{\csc x} sin x dx$
 

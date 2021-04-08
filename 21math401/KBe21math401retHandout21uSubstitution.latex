@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10579)}}    % original
-%\rhead{\textrmlf{Compiled }\#10579\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10580)}}    % original
+%\rhead{\textrmlf{Compiled }\#10580\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10579
+  \#10580
   \textrmlf{ on}
       \today
   }       % new date
@@ -235,8 +235,12 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}dx\)
 \hypertarget{section-4}{%
 \section{7}\label{section-4}}
 
-\hypertarget{section-5}{%
-\section{8}\label{section-5}}
+\hypertarget{int-fracex-1ex-dx}{%
+\section{\texorpdfstring{\(\int \frac{e^x-1}{e^x} dx\)}{\textbackslash int \textbackslash frac\{e\^{}x-1\}\{e\^{}x\} dx}}\label{int-fracex-1ex-dx}}
+
+\[\begin{aligned}
+  \int \frac{e^x-1}{e^x} dx &= \int 1 - \frac{1}{e^x} dx\\
+  \end{aligned}\]
 
 \hypertarget{int-fracsec-2-xcsc-x-sin-x-dx}{%
 \section{\texorpdfstring{\(\int \frac{\sec ^2 x}{\csc x} sin x dx\)}{\textbackslash int \textbackslash frac\{\textbackslash sec \^{}2 x\}\{\textbackslash csc x\} sin x dx}}\label{int-fracsec-2-xcsc-x-sin-x-dx}}
@@ -270,13 +274,13 @@ Let \(u = \sin x\), then \(du = \cos x dx\)
   &= \int \cos ^2x dx
   \end{aligned}\]
 
+\hypertarget{section-5}{%
+\section{12}\label{section-5}}
+
 \hypertarget{section-6}{%
-\section{12}\label{section-6}}
+\section{13}\label{section-6}}
 
 \hypertarget{section-7}{%
-\section{13}\label{section-7}}
-
-\hypertarget{section-8}{%
-\section{14}\label{section-8}}
+\section{14}\label{section-7}}
 
 \end{document}
