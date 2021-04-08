@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10573)}}    % original
-%\rhead{\textrmlf{Compiled }\#10573\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10574)}}    % original
+%\rhead{\textrmlf{Compiled }\#10574\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10573
+  \#10574
   \textrmlf{ on}
       \today
   }       % new date
@@ -248,8 +248,10 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}dx\)
   &= \boxed{\tan x - x}
   \end{aligned}\]
 
-\hypertarget{section-6}{%
-\section{10}\label{section-6}}
+\hypertarget{sin-x-cos-x-dx}{%
+\section{\$∫ sin  x cos  x dx \$}\label{sin-x-cos-x-dx}}
+
+Let \(u = \sin x\), then \(du = \cos x\)
 
 \hypertarget{int-frace2-ln-sin-xe2ln-cos-xe2-ln-tan-x-e2-ln-1-dx}{%
 \section{\texorpdfstring{{TODO}
@@ -262,13 +264,13 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}dx\)
   &= \int \cos ^2x dx
   \end{aligned}\]
 
+\hypertarget{section-6}{%
+\section{12}\label{section-6}}
+
 \hypertarget{section-7}{%
-\section{12}\label{section-7}}
+\section{13}\label{section-7}}
 
 \hypertarget{section-8}{%
-\section{13}\label{section-8}}
-
-\hypertarget{section-9}{%
-\section{14}\label{section-9}}
+\section{14}\label{section-8}}
 
 \end{document}
