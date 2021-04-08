@@ -33,6 +33,9 @@
 
   \[\begin{aligned}
   \int \frac{e^x-1}{e^x} dx &= \int 1 - \frac{1}{e^x} dx\\
+  &= \int 1 - e^-x dx\\
+  &= x + e^x +C\\
+  &= \boxed{e^x + x +C}
   \end{aligned}\]
 
 

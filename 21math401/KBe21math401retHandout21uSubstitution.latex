@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10580)}}    % original
-%\rhead{\textrmlf{Compiled }\#10580\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10581)}}    % original
+%\rhead{\textrmlf{Compiled }\#10581\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10580
+  \#10581
   \textrmlf{ on}
       \today
   }       % new date
@@ -240,6 +240,9 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}dx\)
 
 \[\begin{aligned}
   \int \frac{e^x-1}{e^x} dx &= \int 1 - \frac{1}{e^x} dx\\
+  &= \int 1 - e^-x dx\\
+  &= x + e^x +C\\
+  &= \boxed{e^x + x +C}
   \end{aligned}\]
 
 \hypertarget{int-fracsec-2-xcsc-x-sin-x-dx}{%
