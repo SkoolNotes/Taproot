@@ -6,7 +6,8 @@
   \int \frac{\sqrt{x-1}}{x} dx &= \int \frac{u}{u^2+1} 2u du\\
   &= 2\int \frac{(u^2+1)-1}{u^2+1}du\\
   &= 2\int \frac{\cancel{u^2+1}}{\cancel{u^2+1}} + \frac{-1}{u^2+1}du\\
-  &= 2\int 1 + \frac{-1}{u^2+1}du\\
+  &= 2\int 1 - \frac{1}{u^2+1}du\\
+  &= 1 \int 1-\tan ^- u du
   \end{aligned}\]
 
 * 2
