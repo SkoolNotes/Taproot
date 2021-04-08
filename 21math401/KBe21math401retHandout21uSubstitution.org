@@ -16,7 +16,7 @@
 
   Let $u = x^2+1$, $du = 2x dx$
   \[\begin{aligned}
-  \int \frac{x^2}{x^2+1} dx &=
+  \int \frac{x^3}{x^2+1} dx &= \frac{1}{2} \int \frac{u-1}{u} du
   \end{aligned}\]
 
 * 3

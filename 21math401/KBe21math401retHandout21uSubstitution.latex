@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10589)}}    % original
-%\rhead{\textrmlf{Compiled }\#10589\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10590)}}    % original
+%\rhead{\textrmlf{Compiled }\#10590\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10589
+  \#10590
   \textrmlf{ on}
       \today
   }       % new date
@@ -212,7 +212,7 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}dx\)
 \section{\texorpdfstring{\(\int \frac{x^2}{x^2+1} dx\)}{\textbackslash int \textbackslash frac\{x\^{}2\}\{x\^{}2+1\} dx}}\label{int-fracx2x21-dx}}
 
 Let \(u = x^2+1\), \(du = 2x dx\) \[\begin{aligned}
-  \int \frac{x^2}{x^2+1} dx &=
+  \int \frac{x^3}{x^2+1} dx &= \frac{1}{2} \int \frac{u-1}{u} du
   \end{aligned}\]
 
 \hypertarget{section}{%
