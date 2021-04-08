@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10703)}}    % original
-%\rhead{\textrmlf{Compiled }\#10703\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10704)}}    % original
+%\rhead{\textrmlf{Compiled }\#10704\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10703
+  \#10704
     \textrmlf{ }
     \today
   }       % new date
@@ -239,7 +239,7 @@ Radicals}\label{the-inevitable-shift-how-international-incentives-cause-individu
     As countries militarized and nationalist views grew, ethnic and religious divisions intensified until something inevitably sparked war.
     The level three influences also shifted the general psyche to become more war-like, pushing a few individuals near the extreme end of the bell curve past a critical point.
 
-    [[./KBe21hist201retCausesOfWWIEssayDiagram.png]]
+[[file:KBe21hist201retCausesOfWWIEssayDiagram.png]]
 
     In the case of WWI, the weakest link was the religious divide in Austria-Hungary. Over the course of a number of "Balkan crises," the Eastern Orthodox Serbs and Bosnians in southern Austria-Hungary grew discontent with the Roman Catholic Dual Monarchy that ruled the Habsburg empire-soon to be Austria-Hungary. As the Ottoman empire declined, the Serbs marked Bosnia as their own and were infuriated when Austria annexed Bosnia in 1908. When a the Balkan wars saw Austria cut Serbia off from the sea, Serbs both independent and Austrian grew exasperated and desperate (Palmer, 662).
     This chain of events was driven by recent level three influences: the ongoing security-dilemma-induced arms race had Germany's neighbors scrambling for land and power. States and citizens alike were expecting war, and looking to gain as much of an upper hand as possible before it broke out.
@@ -254,8 +254,14 @@ Radicals}\label{the-inevitable-shift-how-international-incentives-cause-individu
 \hypertarget{works-cited}{%
 \section{Works Cited}\label{works-cited}}
 
-"About: Sacred Union." DBPedia,
-dbpedia.org/page/Sacred\textbackslash{}\textsubscript{Union}. Accessed 7
-Apr. 2021. Palmer et al. A History of the Modern World, 9th Edition.
+\begin{itemize}
+\tightlist
+\item
+  "About: Sacred Union." DBPedia,
+  dbpedia.org/page/Sacred\textbackslash{}\textsubscript{Union}. Accessed
+  7 Apr. 2021.
+\item
+  Palmer et al. A History of the Modern World, 9th Edition.
+\end{itemize}
 
 \end{document}
