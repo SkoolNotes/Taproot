@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10610)}}    % original
-%\rhead{\textrmlf{Compiled }\#10610\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10611)}}    % original
+%\rhead{\textrmlf{Compiled }\#10611\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10610
+  \#10611
   \textrmlf{ on}
       \today
   }       % new date
@@ -221,6 +221,8 @@ Let \(u = x^2+1\), \(du = 2x dx\) \[\begin{aligned}
 \hypertarget{int-fracx-4x2-dx}{%
 \section{\texorpdfstring{{TODO}
 \(\int \frac{x-4}{x^2} dx\)}{TODO \textbackslash int \textbackslash frac\{x-4\}\{x\^{}2\} dx}}\label{int-fracx-4x2-dx}}
+
+Let \(u = x-4\), \(du = 1\)
 
 \[\begin{aligned}
   \int \frac{x-4}{x^2} dx &=
