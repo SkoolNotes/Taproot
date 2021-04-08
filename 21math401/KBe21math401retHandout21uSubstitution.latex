@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10558)}}    % original
-%\rhead{\textrmlf{Compiled }\#10558\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10559)}}    % original
+%\rhead{\textrmlf{Compiled }\#10559\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10558
+  \#10559
   \textrmlf{ on}
       \today
   }       % new date
@@ -245,7 +245,8 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}\) \[\begin{aligned}
 \section{10}\label{section-6}}
 
 \hypertarget{int-frace2-ln-sin-xe2ln-cos-xe2-ln-tan-x-e2-ln-1-dx}{%
-\section{\texorpdfstring{\(\int \frac{e^{2 \ln \sin x}+e^{2\ln \cos x}}{e^{2 \ln \tan x} + e^{2 \ln 1}} dx\)}{\textbackslash int \textbackslash frac\{e\^{}\{2 \textbackslash ln \textbackslash sin x\}+e\^{}\{2\textbackslash ln \textbackslash cos x\}\}\{e\^{}\{2 \textbackslash ln \textbackslash tan x\} + e\^{}\{2 \textbackslash ln 1\}\} dx}}\label{int-frace2-ln-sin-xe2ln-cos-xe2-ln-tan-x-e2-ln-1-dx}}
+\section{\texorpdfstring{{TODO}
+\(\int \frac{e^{2 \ln \sin x}+e^{2\ln \cos x}}{e^{2 \ln \tan x} + e^{2 \ln 1}} dx\)}{TODO \textbackslash int \textbackslash frac\{e\^{}\{2 \textbackslash ln \textbackslash sin x\}+e\^{}\{2\textbackslash ln \textbackslash cos x\}\}\{e\^{}\{2 \textbackslash ln \textbackslash tan x\} + e\^{}\{2 \textbackslash ln 1\}\} dx}}\label{int-frace2-ln-sin-xe2ln-cos-xe2-ln-tan-x-e2-ln-1-dx}}
 
 \[\begin{aligned}
   \int \frac{e^{2 \ln \sin x}+e^{2\ln \cos x}}{e^{2 \ln \tan x} + e^{2 \ln 1}} dx &= \int \frac{\sin^2 x + \cos ^2 x}{\tan^2x + 1} dx\\
