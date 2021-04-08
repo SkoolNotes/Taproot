@@ -4,6 +4,7 @@
   Let $u= \sqrt{x-1}$, $du = \frac{1}{2\sqrt{x-1}}dx$
   \[\begin{aligned}
   \int \frac{\sqrt{x-1}}{x} dx &= \int \frac{u}{u^2+1} 2u du\\
+  &= 2\int \frac{u^2}{u^2+1}du\\
   &= \int 2u^2\frac{1}{u^2+1}du\\
   \end{aligned}\]
 
