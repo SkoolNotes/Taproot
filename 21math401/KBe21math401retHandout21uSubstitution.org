@@ -3,7 +3,7 @@
 
   Let $u= \sqrt{x-1}$, $du = \frac{1}{2\sqrt{x-1}}$
   \[\begin{aligned}
-  \int \frac{\sqrt{x-1}}{x} dx &= \int \frac{u}{TODO} dx
+  \int \frac{\sqrt{x-1}}{x} dx &= \int \frac{u}{u^2+1} dx
   \end{aligned}\]
 
 * 2
