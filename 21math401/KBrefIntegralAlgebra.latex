@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10719)}}    % original
-%\rhead{\textrmlf{Compiled }\#10719\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10721)}}    % original
+%\rhead{\textrmlf{Compiled }\#10721\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10719
+  \#10721
     \textrmlf{ }
     \today
   }       % new date
@@ -275,6 +275,18 @@ sinusoids}\label{k-angle-formulas-for-sinusoids}}
    \int \sin kx dx &= - \frac{\cos kx}{k}\\
    \int \cos kx dx &= \frac{\sin kx}{k}
    \end{aligned}\]
+
+\hypertarget{for-sin-2x-or-cos-2x}{%
+\subsubsection{\texorpdfstring{for \(\sin ^2x\) or
+\(\cos ^2x\),}{for \textbackslash sin \^{}2x or \textbackslash cos \^{}2x,}}\label{for-sin-2x-or-cos-2x}}
+
+Try to get a double angle using the \(\cos 2x\) identities.
+
+\hypertarget{for-a-product-of-sin-x-cos-x-or-similar}{%
+\subsubsection{\texorpdfstring{for a product of \(\sin x \cos  x\) or
+similar,}{for a product of \textbackslash sin x \textbackslash cos  x or similar,}}\label{for-a-product-of-sin-x-cos-x-or-similar}}
+
+Use the double angle identity for \(\sin 2x = 2 \sin x \cos  x\).
 
 \hypertarget{u-substitution}{%
 \subsection{u substitution}\label{u-substitution}}
