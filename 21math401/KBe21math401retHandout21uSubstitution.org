@@ -38,8 +38,6 @@
 
 * $\int \frac{x-4}{x^2} dx$
 
-  Let $u = x-4$, $du = dx$
-
   \[\begin{aligned}
   \int \frac{x-4}{x^2} dx &= \int \frac{x}{x^2} \frac{4}{x^2} dx\\
   &= \int \frac{1}{x} dx + 4 \int \frac{1}{x^2} dx\\
