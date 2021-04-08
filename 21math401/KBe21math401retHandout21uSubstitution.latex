@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10587)}}    % original
-%\rhead{\textrmlf{Compiled }\#10587\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10588)}}    % original
+%\rhead{\textrmlf{Compiled }\#10588\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10587
+  \#10588
   \textrmlf{ on}
       \today
   }       % new date
@@ -208,17 +208,17 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}dx\)
   &= \boxed{2\sqrt{x-1} - \tan^-\left( \sqrt{x-1}\right)  +C}\\
   \end{aligned}\]
 
+\hypertarget{int-fracx2x21-dx}{%
+\section{\texorpdfstring{\(\int \frac{x^2}{x^2+1} dx\)}{\textbackslash int \textbackslash frac\{x\^{}2\}\{x\^{}2+1\} dx}}\label{int-fracx2x21-dx}}
+
 \hypertarget{section}{%
-\section{2}\label{section}}
+\section{3}\label{section}}
 
 \hypertarget{section-1}{%
-\section{3}\label{section-1}}
+\section{4}\label{section-1}}
 
 \hypertarget{section-2}{%
-\section{4}\label{section-2}}
-
-\hypertarget{section-3}{%
-\section{5}\label{section-3}}
+\section{5}\label{section-2}}
 
 \hypertarget{int-tan2x-1-dx}{%
 \section{\texorpdfstring{\(\int \tan^2x +1 dx\)}{\textbackslash int \textbackslash tan\^{}2x +1 dx}}\label{int-tan2x-1-dx}}
@@ -232,8 +232,8 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}dx\)
   &= \boxed{\tan x +C}
   \end{aligned}\]
 
-\hypertarget{section-4}{%
-\section{7}\label{section-4}}
+\hypertarget{section-3}{%
+\section{7}\label{section-3}}
 
 \hypertarget{int-fracex-1ex-dx}{%
 \section{\texorpdfstring{\(\int \frac{e^x-1}{e^x} dx\)}{\textbackslash int \textbackslash frac\{e\^{}x-1\}\{e\^{}x\} dx}}\label{int-fracex-1ex-dx}}
@@ -280,13 +280,13 @@ Let \(u = \sin x\), then \(du = \cos x dx\)
   &= \int \cos ^2x dx
   \end{aligned}\]
 
+\hypertarget{section-4}{%
+\section{12}\label{section-4}}
+
 \hypertarget{section-5}{%
-\section{12}\label{section-5}}
+\section{13}\label{section-5}}
 
 \hypertarget{section-6}{%
-\section{13}\label{section-6}}
-
-\hypertarget{section-7}{%
-\section{14}\label{section-7}}
+\section{14}\label{section-6}}
 
 \end{document}
