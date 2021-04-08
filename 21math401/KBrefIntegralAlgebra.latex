@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10737)}}    % original
-%\rhead{\textrmlf{Compiled }\#10737\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10738)}}    % original
+%\rhead{\textrmlf{Compiled }\#10738\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10737
+  \#10738
     \textrmlf{ }
     \today
   }       % new date
@@ -328,8 +328,9 @@ Let \(u = \sec x+\tan x\), \(du = \sec x\tan x + \sec ^2x\)
     &= \ln | \sec x+\tan x|
     \end{aligned}\]
 
-\hypertarget{u-substitution}{%
-\subsection{u-substitution}\label{u-substitution}}
+\hypertarget{u-substitution-on-products-chain-rule}{%
+\subsection{u-substitution (on products, chain
+rule)}\label{u-substitution-on-products-chain-rule}}
 
 if it happens to work: \[\begin{aligned}
    \int f'(g(x)) g'(x)dx = f(g(x)) + C
@@ -347,7 +348,8 @@ an example:
    &= -\cos (x^2) +C
    \end{aligned}\]
 
-\hypertarget{integration-by-parts}{%
-\subsection{integration by parts}\label{integration-by-parts}}
+\hypertarget{integration-by-parts-product-rule}{%
+\subsection{integration by parts (product
+rule)}\label{integration-by-parts-product-rule}}
 
 \end{document}
