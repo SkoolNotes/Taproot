@@ -29,6 +29,12 @@
   \end{aligned}\]
 
 * $\int (x+1)e^{x^2+2x} dx$
+
+  Let $u = x^2+2x$, $du = x+1$
+  \[\begin{aligned}
+  \int (x+1)e^{x^2+2x} dx &= \frac{1}{2}\int e^u du
+  \end{aligned}\]
+
 * $\int \tan^2x +1 dx$
 
   \[\begin{aligned}
