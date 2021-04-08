@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10542)}}    % original
-%\rhead{\textrmlf{Compiled }\#10542\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10543)}}    % original
+%\rhead{\textrmlf{Compiled }\#10543\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10542
+  \#10543
   \textrmlf{ on}
       \today
   }       % new date
@@ -201,7 +201,17 @@ Let \(u= \sqrt{x-1}\), \(du = 1\) \[\begin{aligned}
   \int \frac{\sqrt{x-1}}{x} dx
   \end{aligned}\]
 
-* * * *
+\hypertarget{section}{%
+\section{2}\label{section}}
+
+\hypertarget{section-1}{%
+\section{3}\label{section-1}}
+
+\hypertarget{section-2}{%
+\section{4}\label{section-2}}
+
+\hypertarget{section-3}{%
+\section{5}\label{section-3}}
 
 \hypertarget{int-tan2x-1-dx}{%
 \section{\texorpdfstring{\(\int \tan^2x +1 dx\)}{\textbackslash int \textbackslash tan\^{}2x +1 dx}}\label{int-tan2x-1-dx}}
@@ -215,6 +225,28 @@ Let \(u= \sqrt{x-1}\), \(du = 1\) \[\begin{aligned}
   &= \boxed{\tan x +C}
   \end{aligned}\]
 
-*
+\hypertarget{section-4}{%
+\section{7}\label{section-4}}
+
+\hypertarget{section-5}{%
+\section{8}\label{section-5}}
+
+\hypertarget{int-fracsec-2-xcsc-x-sin-x-dx}{%
+\section{\texorpdfstring{\(\int \frac{\sec ^2 x}{\csc x} sin x dx\)}{\textbackslash int \textbackslash frac\{\textbackslash sec \^{}2 x\}\{\textbackslash csc x\} sin x dx}}\label{int-fracsec-2-xcsc-x-sin-x-dx}}
+
+\hypertarget{section-6}{%
+\section{10}\label{section-6}}
+
+\hypertarget{section-7}{%
+\section{11}\label{section-7}}
+
+\hypertarget{section-8}{%
+\section{12}\label{section-8}}
+
+\hypertarget{section-9}{%
+\section{13}\label{section-9}}
+
+\hypertarget{section-10}{%
+\section{14}\label{section-10}}
 
 \end{document}
