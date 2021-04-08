@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10717)}}    % original
-%\rhead{\textrmlf{Compiled }\#10717\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10718)}}    % original
+%\rhead{\textrmlf{Compiled }\#10718\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10717
+  \#10718
     \textrmlf{ }
     \today
   }       % new date
@@ -270,6 +270,11 @@ s.t. \[\begin{aligned}
 \hypertarget{k-angle-formulas-for-sinusoids}{%
 \subsection{k-angle formulas for
 sinusoids}\label{k-angle-formulas-for-sinusoids}}
+
+\[\begin{aligned}
+   \int \sin kx dx = - \frac{\cos kx}{k}
+   \int \cos kx dx = - \frac{\cos kx}{k}
+   \end{aligned}\]
 
 \hypertarget{u-substitution}{%
 \subsection{u substitution}\label{u-substitution}}
