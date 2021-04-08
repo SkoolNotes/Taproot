@@ -29,7 +29,9 @@
 
   \[\begin{aligned}
   \int \frac{\sec ^2 x}{\csc x} sin x dx &= \int \tan^2 x dx \\
-  &= \int sec^2x - 1 dx
+  &= \int \sec^2x - 1 dx\\
+  &= \int \sec^2 x dx - \int 1 dx \\
+  &= \tan x - x
   \end{aligned}\]
 
 
