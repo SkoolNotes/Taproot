@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10574)}}    % original
-%\rhead{\textrmlf{Compiled }\#10574\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10575)}}    % original
+%\rhead{\textrmlf{Compiled }\#10575\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10574
+  \#10575
   \textrmlf{ on}
       \today
   }       % new date
@@ -251,7 +251,11 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}dx\)
 \hypertarget{sin-x-cos-x-dx}{%
 \section{\$∫ sin  x cos  x dx \$}\label{sin-x-cos-x-dx}}
 
-Let \(u = \sin x\), then \(du = \cos x\)
+Let \(u = \sin x\), then \(du = \cos x dx\)
+
+\[\begin{aligned}
+  \int \sin x \cos x dx &= \int u du\\
+  \end{aligned}\]
 
 \hypertarget{int-frace2-ln-sin-xe2ln-cos-xe2-ln-tan-x-e2-ln-1-dx}{%
 \section{\texorpdfstring{{TODO}
