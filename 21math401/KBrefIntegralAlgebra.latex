@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10724)}}    % original
-%\rhead{\textrmlf{Compiled }\#10724\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10734)}}    % original
+%\rhead{\textrmlf{Compiled }\#10734\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10724
+  \#10734
     \textrmlf{ }
     \today
   }       % new date
@@ -304,6 +304,13 @@ Try to get a double angle using the \(\cos 2x\) identities.
 similar,}{for a product of \textbackslash sin x \textbackslash cos  x or similar,}}\label{for-a-product-of-sin-x-cos-x-or-similar}}
 
 Use the double angle identity for \(\sin 2x = 2 \sin x \cos  x\).
+
+\hypertarget{for-sec-x-and-tan-x}{%
+\subsubsection{\texorpdfstring{for \(\sec x\) and
+\(\tan x\),}{for \textbackslash sec x and \textbackslash tan x,}}\label{for-sec-x-and-tan-x}}
+
+We know their derivatives contain themselves, so we can look for
+something cyclic.
 
 \hypertarget{u-substitution}{%
 \subsection{u substitution}\label{u-substitution}}

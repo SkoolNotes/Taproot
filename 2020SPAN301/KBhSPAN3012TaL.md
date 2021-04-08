@@ -9,4 +9,4 @@ Nunca juego un video huego en mi vida.
 
 Todavía uso una technología de los siglo dieciocho.
 
-Nocï
+Nací en un pueblo pequeño
