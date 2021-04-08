@@ -1,7 +1,7 @@
 #+TITLE: Handout 20: u-substitution
 * $\int \frac{\sqrt{x-1}}{x} dx$
 
-  Let $u= \sqrt{x-1}$, $du = $
+  Let $u= \sqrt{x-1}$, $du = 1$
   \[\begin{aligned}
   \int \frac{\sqrt{x-1}}{x} dx
   \end{aligned}\]
@@ -20,4 +20,5 @@
   &= \tan u +C\\
   &= \boxed{\tan x +C}
   \end{aligned}\]
+
 *
