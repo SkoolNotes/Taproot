@@ -101,7 +101,7 @@
   &= \int \cos ^2x dx\\
   &= \int \frac{1}{2}(\cos 2x + 1) dx\\
   &= \frac{1}{2} \int \cos 2x + 1 dx\\
-  &= \frac{1}{2} \int \cos 2x dx + \int 1 dx\\
+  &= \frac{1}{2} \left( \int \cos 2x dx + \int 1 dx\right) \\
   \end{aligned}\]
   Let $u = 2x$, $du = 2dx$
 
