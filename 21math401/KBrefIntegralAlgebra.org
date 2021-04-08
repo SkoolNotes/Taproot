@@ -5,6 +5,12 @@
    \[\begin{aligned}
    \int \frac{a+b}{c} dx = \int \frac{a}{c} dx +\int \frac{b}{c} dx
    \end{aligned}\]
+** pull out constant factors
+
+   \[\begin{aligned}
+   \int af(x) dx = a \int f(x) dx
+   \end{aligned}\]
+
 
 * additive
 
