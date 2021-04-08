@@ -1,8 +1,15 @@
 #+TITLE: Algebra with Integrals
+* general trends
+** split fractions
+   Always consider splitting sums of fractions
+   \[\begin{aligned}
+
+   \end{aligned}\]
+
 * additive
 
   \[\begin{aligned}
-
+  \int f(x) + g(x) dx = \int f(x) dx  + \int g(x) dx
   \end{aligned}\]
 
 * change of lower bound
