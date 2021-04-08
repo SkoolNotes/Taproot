@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10608)}}    % original
-%\rhead{\textrmlf{Compiled }\#10608\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10609)}}    % original
+%\rhead{\textrmlf{Compiled }\#10609\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10608
+  \#10609
   \textrmlf{ on}
       \today
   }       % new date
@@ -247,8 +247,8 @@ Let \(u = x^2+2x\), \(du = x+1\) \[\begin{aligned}
   &= \boxed{\tan x +C}
   \end{aligned}\]
 
-\hypertarget{section}{%
-\section{7}\label{section}}
+\hypertarget{int-frac6x2-4x-dx}{%
+\section{\texorpdfstring{\(\int \frac{6x^2-4}{x} dx\)}{\textbackslash int \textbackslash frac\{6x\^{}2-4\}\{x\} dx}}\label{int-frac6x2-4x-dx}}
 
 \hypertarget{int-fracex-1ex-dx}{%
 \section{\texorpdfstring{\(\int \frac{e^x-1}{e^x} dx\)}{\textbackslash int \textbackslash frac\{e\^{}x-1\}\{e\^{}x\} dx}}\label{int-fracex-1ex-dx}}
@@ -300,10 +300,10 @@ Let \(u = \sin x\), then \(du = \cos x dx\)
 
 Let \$\$,
 
-\hypertarget{section-1}{%
-\section{13}\label{section-1}}
+\hypertarget{section}{%
+\section{13}\label{section}}
 
-\hypertarget{section-2}{%
-\section{14}\label{section-2}}
+\hypertarget{section-1}{%
+\section{14}\label{section-1}}
 
 \end{document}
