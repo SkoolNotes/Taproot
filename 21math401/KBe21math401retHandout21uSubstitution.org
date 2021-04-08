@@ -56,8 +56,8 @@
 
   \[\begin{aligned}
   \int \frac{6x^2-4}{x} dx &= \int \frac{6x^2}{x} dx - 4 \int \frac{1}{x} dx\\
-  &= \int 2x dx - 4 \ln x +C\\
-  &= \boxed{x^2 - 4 \ln  x +C}
+  &= \int 3x dx - 4 \ln x +C\\
+  &= \boxed{3x^2 - 4 \ln  x +C}
   \end{aligned}\]
 
 
