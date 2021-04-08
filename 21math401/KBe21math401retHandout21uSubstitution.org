@@ -141,7 +141,7 @@
   Let $u=\sqrt{x}$, $du = \frac{1}{2\sqrt{x}}dx$
 
   \[\begin{aligned}
-  \int \frac{e^\sqrt{x}}{\sqrt{x}} dx &= 2\int e^udu\\
+  \int \frac{e^{\sqrt{x}}}{\sqrt{x}} dx &= 2\int e^udu\\
   &= 2 e^u +C\\
   &= \boxed{2e^{\sqrt{x}}+C}
   \end{aligned}\]

@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10651)}}    % original
-%\rhead{\textrmlf{Compiled }\#10651\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10652)}}    % original
+%\rhead{\textrmlf{Compiled }\#10652\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10651
+  \#10652
   \textrmlf{ on}
       \today
   }       % new date
@@ -348,7 +348,7 @@ Let \(u = x^3\), \(du = 3x^2dx\)
 Let \(u=\sqrt{x}\), \(du = \frac{1}{2\sqrt{x}}dx\)
 
 \[\begin{aligned}
-  \int \frac{e^\sqrt{x}}{\sqrt{x}} dx &= 2\int e^udu\\
+  \int \frac{e^{\sqrt{x}}}{\sqrt{x}} dx &= 2\int e^udu\\
   &= 2 e^u +C\\
   &= \boxed{2e^{\sqrt{x}}+C}
   \end{aligned}\]
