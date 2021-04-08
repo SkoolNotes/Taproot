@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10645)}}    % original
-%\rhead{\textrmlf{Compiled }\#10645\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10646)}}    % original
+%\rhead{\textrmlf{Compiled }\#10646\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10645
+  \#10646
   \textrmlf{ on}
       \today
   }       % new date
@@ -313,15 +313,15 @@ Let \(u = \sin x\), then \(du = \cos x dx\)
   \end{aligned}\]
 
 \hypertarget{int-fracsec-x-tan-x1sec-2x-dx}{%
-\section{\texorpdfstring{{TODO}
-\(\int \frac{\sec x \tan x}{1+\sec ^2x} dx\)}{TODO \textbackslash int \textbackslash frac\{\textbackslash sec x \textbackslash tan x\}\{1+\textbackslash sec \^{}2x\} dx}}\label{int-fracsec-x-tan-x1sec-2x-dx}}
+\section{\texorpdfstring{\(\int \frac{\sec x \tan x}{1+\sec ^2x} dx\)}{\textbackslash int \textbackslash frac\{\textbackslash sec x \textbackslash tan x\}\{1+\textbackslash sec \^{}2x\} dx}}\label{int-fracsec-x-tan-x1sec-2x-dx}}
 
 Let \(u = \sec  x\), \(du = \sec  x \tan  x\)
 
 \[\begin{aligned}
   \int \frac{\sec x\tan x}{1+\sec^2x} dx &= \int \frac{du}{1+u^2} dx \\
-  &= \tan ^-u du\\
-  &=
+  &= \int \frac{1}{1+u^2} du\\
+  &= \tan ^- u +C\\
+  &= \boxed{\tan ^- \sec x +C}
   \end{aligned}\]
 
 \hypertarget{int-x2-ex3dx}{%
