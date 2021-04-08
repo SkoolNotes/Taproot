@@ -140,11 +140,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10572)}}    % original
-%\rhead{\textrmlf{Compiled }\#10572\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10573)}}    % original
+%\rhead{\textrmlf{Compiled }\#10573\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10572
+  \#10573
   \textrmlf{ on}
       \today
   }       % new date
@@ -226,7 +226,7 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}dx\)
 \[\begin{aligned}
   \int \tan^2x +1 dx &= \int \sec^2x -1 +1 dx \\
   &= \int \sec^2x dx \\
-  \text{Let} u = x, du = 1\\
+  \text{Let } u = x, du = 1\\
   &= \int \sec^2u du \\
   &= \tan u +C\\
   &= \boxed{\tan x +C}
@@ -245,7 +245,7 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}dx\)
   \int \frac{\sec ^2 x}{\csc x} sin x dx &= \int \tan^2 x dx \\
   &= \int \sec^2x - 1 dx\\
   &= \int \sec^2 x dx - \int 1 dx \\
-  &= \tan x - x
+  &= \boxed{\tan x - x}
   \end{aligned}\]
 
 \hypertarget{section-6}{%

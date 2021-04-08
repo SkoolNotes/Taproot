@@ -21,7 +21,7 @@
   \[\begin{aligned}
   \int \tan^2x +1 dx &= \int \sec^2x -1 +1 dx \\
   &= \int \sec^2x dx \\
-  \text{Let} u = x, du = 1\\
+  \text{Let } u = x, du = 1\\
   &= \int \sec^2u du \\
   &= \tan u +C\\
   &= \boxed{\tan x +C}
@@ -37,13 +37,12 @@
   \int \frac{\sec ^2 x}{\csc x} sin x dx &= \int \tan^2 x dx \\
   &= \int \sec^2x - 1 dx\\
   &= \int \sec^2 x dx - \int 1 dx \\
-  &= \tan x - x
+  &= \boxed{\tan x - x}
   \end{aligned}\]
 
 * 10
 
 * TODO $\int \frac{e^{2 \ln \sin x}+e^{2\ln \cos x}}{e^{2 \ln \tan x} + e^{2 \ln 1}} dx$
-
 
   \[\begin{aligned}
   \int \frac{e^{2 \ln \sin x}+e^{2\ln \cos x}}{e^{2 \ln \tan x} + e^{2 \ln 1}} dx &= \int \frac{\sin^2 x + \cos ^2 x}{\tan^2x + 1} dx\\
