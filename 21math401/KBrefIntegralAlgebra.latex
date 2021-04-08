@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10741)}}    % original
-%\rhead{\textrmlf{Compiled }\#10741\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10742)}}    % original
+%\rhead{\textrmlf{Compiled }\#10742\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10741
+  \#10742
     \textrmlf{ }
     \today
   }       % new date
@@ -353,10 +353,10 @@ an example:
 rule)}\label{integration-by-parts-on-products-product-rule}}
 
 \[\begin{aligned}
-   &\frac{d}{dx}f(x)g(x) &= f'(x)g(x) + g'(x)f(x)\\
-   &\int \frac{d}{dx}f(x)g(x) dx &= \int  f'(x)g(x) + g'(x)f(x) dx \\
-   &f(x)g(x)+C &= \int f'(x)g(x) dx + \int g'(x)f(x) dx \\
-   \implies & \int f'(x)g(x) dx &= f(x)g(x) - \int g'(x)f(x) dx +C
+   &\frac{d}{dx}f(x)g(x) &=& f'(x)g(x) + g'(x)f(x)\\
+   &\int \frac{d}{dx}f(x)g(x) dx &=& \int  f'(x)g(x) + g'(x)f(x) dx\\
+   &f(x)g(x)+C &=& \int f'(x)g(x) dx + \int g'(x)f(x) dx\\
+   \implies & \int f'(x)g(x) dx &=& f(x)g(x) - \int g'(x)f(x) dx +C
    \end{aligned}\]
 
 \end{document}
