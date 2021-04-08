@@ -1,9 +1,9 @@
 #+TITLE: Handout 20: u-substitution
 * $\int \frac{\sqrt{x-1}}{x} dx$
 
-  Let $u= \sqrt{x-1}$, $du = 1$
+  Let $u= \sqrt{x-1}$, $du = \frac{1}{2\sqrt{x-1}}$
   \[\begin{aligned}
-  \int \frac{\sqrt{x-1}}{x} dx &=
+  \int \frac{\sqrt{x-1}}{x} dx &= \int \frac{u}{TODO} dx
   \end{aligned}\]
 
 * 2
