@@ -50,7 +50,7 @@
   \[\begin{aligned}
   \int (x+1)e^{x^2+2x} dx &= \frac{1}{2}\int e^u du\\
   &= \frac{1}{2}e^u\\
-  &= \boxed{\frac{1}{2}e^{x^2+2x}}
+  &= \boxed{\frac{1}{2}e^{x^2+2x} +C}
   \end{aligned}\]
 
 * $\int \tan^2x +1 dx$
@@ -100,6 +100,8 @@
   &= \frac{1}{2}u^2\\
   &= \boxed{\frac{1}{2}\sin ^2x +C}
   \end{aligned}\]
+
+  *Product of $\sin $ and $\cos $, so we can use a double angle formula*
 
 * $\int \frac{e^{2 \ln \sin x}+e^{2\ln \cos x}}{e^{2 \ln \tan x} + e^{2 \ln 1}} dx$
 
