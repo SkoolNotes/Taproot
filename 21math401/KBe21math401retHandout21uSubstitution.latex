@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10708)}}    % original
-%\rhead{\textrmlf{Compiled }\#10708\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10710)}}    % original
+%\rhead{\textrmlf{Compiled }\#10710\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10708
+  \#10710
     \textrmlf{ }
     \today
   }       % new date
@@ -218,6 +218,10 @@ Let \(u= \sqrt{x-1}\), \(du = \frac{1}{2\sqrt{x-1}}dx\)
   \end{aligned}\]
 
 \textbf{Polynomial long division?}
+
+\textbf{When you have a square root with a sum/difference inside,
+there's not much you can do. So, your best bet is to substitute either
+the stuff inside the root as \(u\) or the entire radical as \(u\).}
 
 \hypertarget{int-fracx2x21-dx}{%
 \section{\texorpdfstring{\(\int \frac{x^2}{x^2+1} dx\)}{\textbackslash int \textbackslash frac\{x\^{}2\}\{x\^{}2+1\} dx}}\label{int-fracx2x21-dx}}

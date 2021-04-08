@@ -20,6 +20,9 @@
   \end{aligned}\]
 
   *Polynomial long division?*
+
+  *When you have a square root with a sum/difference inside, there's not much you can do. So, your best bet is to substitute either the stuff inside the root as $u$ or the entire radical as $u$.*
+
 * $\int \frac{x^2}{x^2+1} dx$
 
   Let $u = x^2+1$, $du = 2x dx$
