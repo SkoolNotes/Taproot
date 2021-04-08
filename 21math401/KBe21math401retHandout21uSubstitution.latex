@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10712)}}    % original
-%\rhead{\textrmlf{Compiled }\#10712\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10713)}}    % original
+%\rhead{\textrmlf{Compiled }\#10713\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10712
+  \#10713
     \textrmlf{ }
     \today
   }       % new date
@@ -270,8 +270,8 @@ Let \(u = x^2+2x\), \(du = x+1 dx\) \[\begin{aligned}
 
 \[\begin{aligned}
   \int \frac{6x^2-4}{x} dx &= \int \frac{6x^2}{x} dx - 4 \int \frac{1}{x} dx\\
-  &= \int 3x dx - 4 \ln x +C\\
-  &= \boxed{3x^2 - 4 \ln  x +C}
+  &= \int 3x dx - 4 \ln |x| +C\\
+  &= \boxed{3x^2 - 4 \ln  |x| +C}
   \end{aligned}\]
 
 \hypertarget{int-fracex-1ex-dx}{%
