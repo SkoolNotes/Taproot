@@ -27,8 +27,8 @@
   Let $u = x-4$, $du = dx$
 
   \[\begin{aligned}
-  \int \frac{x-4}{x^2} dx &= \int \frac{u}{(u+4)^2} dx \\
-  &= \int \frac{u}{u^2+8u+16} du
+  \int \frac{x-4}{x^2} dx &= \int \frac{x}{x^2} \frac{4}{x^2} dx
+  &= \int \frac{1}{x} dx + \int 4 \frac{1}{x^2} dx
   \end{aligned}\]
 
 * $\int (x+1)e^{x^2+2x} dx$
