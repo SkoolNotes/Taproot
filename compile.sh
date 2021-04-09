@@ -2,10 +2,14 @@
 
 BUILDNUMBER_FILE="buildID.txt"
 
+# declare input filetype mappings
 declare -A filetype
 filetype[md]=markdown
 filetype[org]=org
 
+# prepare lua filters
+
+# buildid
 [[ -f $BUILDNUMBER_FILE ]] || echo 0 > $BUILDNUMBER_FILE;
 buildid="$(cat $BUILDNUMBER_FILE)"
 buildid=$(( $buildid + 1 ))
