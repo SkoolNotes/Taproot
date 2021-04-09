@@ -142,8 +142,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10917)}}    % original
-%\rhead{\textrmlf{Compiled }\#10917\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10918)}}    % original
+%\rhead{\textrmlf{Compiled }\#10918\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -258,9 +258,9 @@ No matter the axis and the shape of the distribution, the level three influences
 \item
   Palmer et al. \emph{A History of the Modern World}, 9th Edition.
 \item
-  Urban, Tim. ``The Enlightenment Kids.'' Wait But Why, 3 Oct. 2020,
-  waitbutwhy.com/2019/09/enlightenment-kids.html. Political spectra
-  loosely inspired by this blog post.
+  Urban, Tim. ``The Enlightenment Kids.'' \emph{Wait But Why}, 3 Oct.
+  2020, waitbutwhy.com/2019/09/enlightenment-kids.html. Sentiment
+  distribution chart loosely inspired by this blog post.
 \end{itemize}
 
 \end{document}
