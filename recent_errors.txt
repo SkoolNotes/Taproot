@@ -1,47 +1,47 @@
-        Log for attempt at Fri Apr  9 11:46:22 AM PDT 2021 (10927)
-        Fri Apr  9 11:46:22 AM PDT 2021 Converting 2020HIST201/KBe21hist201retCausesOfWWIEssay.org...
+        Log for attempt at Fri Apr  9 11:47:46 AM PDT 2021 (10928)
+        Fri Apr  9 11:47:46 AM PDT 2021 Converting 2020HIST201/KBe21hist201retCausesOfWWIEssay.org...
 
-kpathsea: Running mktextfm Iosevka-Etoile
-/usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation I for Iosevka-Etoile.
+kpathsea: Running mktextfm Iosevka-Aile
+/usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation I for Iosevka-Aile.
 /usr/share/texmf-dist/web2c/mktexnam: Need to update /usr/share/texmf-dist/fonts/map/fontname/special.map?
-mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka-Etoile
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka-Aile
 This is METAFONT, Version 2.7182818 (TeX Live 2020/Arch Linux) (preloaded base=mf)
 
-kpathsea: Running mktexmf Iosevka-Etoile
+kpathsea: Running mktexmf Iosevka-Aile
 
-! I can't find file `Iosevka-Etoile'.
-<*> ...mag:=1; ; nonstopmode; input Iosevka-Etoile
+! I can't find file `Iosevka-Aile'.
+<*> ...; mag:=1; ; nonstopmode; input Iosevka-Aile
                                                   
 Please type another input file name
 ! Emergency stop.
-<*> ...mag:=1; ; nonstopmode; input Iosevka-Etoile
+<*> ...; mag:=1; ; nonstopmode; input Iosevka-Aile
                                                   
 Transcript written on mfput.log.
-grep: Iosevka-Etoile.log: No such file or directory
-mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka-Etoile' failed to make Iosevka-Etoile.tfm.
+grep: Iosevka-Aile.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka-Aile' failed to make Iosevka-Aile.tfm.
 kpathsea: Appending font creation commands to missfont.log.
 
-kpathsea: Running mktextfm Iosevka-Etoile
-/usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation I for Iosevka-Etoile.
+kpathsea: Running mktextfm Iosevka-Aile
+/usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation I for Iosevka-Aile.
 /usr/share/texmf-dist/web2c/mktexnam: Need to update /usr/share/texmf-dist/fonts/map/fontname/special.map?
-mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka-Etoile
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka-Aile
 This is METAFONT, Version 2.7182818 (TeX Live 2020/Arch Linux) (preloaded base=mf)
 
-kpathsea: Running mktexmf Iosevka-Etoile
+kpathsea: Running mktexmf Iosevka-Aile
 
-! I can't find file `Iosevka-Etoile'.
-<*> ...mag:=1; ; nonstopmode; input Iosevka-Etoile
+! I can't find file `Iosevka-Aile'.
+<*> ...; mag:=1; ; nonstopmode; input Iosevka-Aile
                                                   
 Please type another input file name
 ! Emergency stop.
-<*> ...mag:=1; ; nonstopmode; input Iosevka-Etoile
+<*> ...; mag:=1; ; nonstopmode; input Iosevka-Aile
                                                   
 Transcript written on mfput.log.
-grep: Iosevka-Etoile.log: No such file or directory
-mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka-Etoile' failed to make Iosevka-Etoile.tfm.
+grep: Iosevka-Aile.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka-Aile' failed to make Iosevka-Aile.tfm.
 kpathsea: Appending font creation commands to missfont.log.
 Error producing PDF.
-! Package fontspec Error: The font "Iosevka-Etoile" cannot be found.
+! Package fontspec Error: The font "Iosevka-Aile" cannot be found.
 
 For immediate help type H <return>.
  ...                                              
