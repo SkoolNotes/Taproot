@@ -142,14 +142,15 @@ Incentives Cause Individual Radicals }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10791)}}    % original
-%\rhead{\textrmlf{Compiled }\#10791\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10793)}}    % original
+%\rhead{\textrmlf{Compiled }\#10793\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10791
+  \#10793
     \textrmlf{ }
     \today
-  }       % new date
+  essay
+}       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
@@ -195,6 +196,8 @@ Incentives Cause Individual Radicals }
 \begin{document}
 
 % DID YOU SET SPELL????
+
+eeeeeeeeeeee
 
 \setlength\parindent{1in}
 
