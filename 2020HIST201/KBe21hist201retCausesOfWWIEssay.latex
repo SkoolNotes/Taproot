@@ -83,22 +83,14 @@
 }
 
 \usepackage{mathspec}
-\setmainfont[
-  ItalicFont     = HelveticaNeue-Italic,
-  BoldFont       = HelveticaNeue-Bold,
-  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+ \setmainfont[
+    ItalicFont     = Iosevka-Alie-Italic,
+    BoldFont       = Iosevka-Alie-Bold,
+    BoldItalicFont = Iosevka-Alie-Bold-Italic]{Iosevka-Alie}
 \newfontfamily\NHLight[
   ItalicFont     = HelveticaNeue-LightItalic,
   BoldFont       = HelveticaNeue-UltraLight,
   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
-% \setmainfont[
-%    ItalicFont     = Iosevka-Aile-Italic,
-%    BoldFont       = Iosevka-Aile-Bold,
-%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
-% \newfontfamily\NHLight[
-%    ItalicFont     = Iosevka-Aile-Light-Italic,
-%    BoldFont       = Iosevka-Aile-Light,
-%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -142,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10925)}}    % original
-%\rhead{\textrmlf{Compiled }\#10925\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10926)}}    % original
+%\rhead{\textrmlf{Compiled }\#10926\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
