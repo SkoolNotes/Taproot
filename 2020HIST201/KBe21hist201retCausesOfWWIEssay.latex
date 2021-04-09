@@ -83,7 +83,7 @@
 }
 
 \usepackage{mathspec}
-\setmainfont{Open Sans}
+\setmainfont{Helvetica:Light}
 \newfontfamily\NHLight[
   ItalicFont     = HelveticaNeue-LightItalic,
   BoldFont       = HelveticaNeue-UltraLight,
@@ -131,11 +131,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10987)}}    % original
-%\rhead{\textrmlf{Compiled }\#10987\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10988)}}    % original
+%\rhead{\textrmlf{Compiled }\#10988\textrmlf{ on} \today }      % old date
 \rhead{
       \textrmlf{Compiled }
-  \#10987
+  \#10988
   \textrmlf{ }
     \textrmlf{on} April 9, 2021
     }       % new date
