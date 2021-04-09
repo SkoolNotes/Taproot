@@ -142,11 +142,11 @@ Incentives Cause Individual Radicals }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10766)}}    % original
-%\rhead{\textrmlf{Compiled }\#10766\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10767)}}    % original
+%\rhead{\textrmlf{Compiled }\#10767\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10766
+  \#10767
     \textrmlf{ }
     \today
   }       % new date
@@ -196,7 +196,6 @@ Incentives Cause Individual Radicals }
 
 % DID YOU SET SPELL????
 
-\usepackage{setspace}
 \setlength\parindent{30pt}
 
 \begin{doublespacing}
