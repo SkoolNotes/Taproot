@@ -1,47 +1,9 @@
-        Log for attempt at Fri Apr  9 12:08:18 PM PDT 2021 (10952)
-        Fri Apr  9 12:08:18 PM PDT 2021 Converting 2020HIST201/KBe21hist201retCausesOfWWIEssay.org...
-
-kpathsea: Running mktextfm Iosevka
-/usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation I for Iosevka.
-/usr/share/texmf-dist/web2c/mktexnam: Need to update /usr/share/texmf-dist/fonts/map/fontname/special.map?
-mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka
-This is METAFONT, Version 2.7182818 (TeX Live 2020/Arch Linux) (preloaded base=mf)
-
-kpathsea: Running mktexmf Iosevka
-
-! I can't find file `Iosevka'.
-<*> ...jfour; mag:=1; ; nonstopmode; input Iosevka
-                                                  
-Please type another input file name
-! Emergency stop.
-<*> ...jfour; mag:=1; ; nonstopmode; input Iosevka
-                                                  
-Transcript written on mfput.log.
-grep: Iosevka.log: No such file or directory
-mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka' failed to make Iosevka.tfm.
-kpathsea: Appending font creation commands to missfont.log.
-
-kpathsea: Running mktextfm Iosevka
-/usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation I for Iosevka.
-/usr/share/texmf-dist/web2c/mktexnam: Need to update /usr/share/texmf-dist/fonts/map/fontname/special.map?
-mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka
-This is METAFONT, Version 2.7182818 (TeX Live 2020/Arch Linux) (preloaded base=mf)
-
-kpathsea: Running mktexmf Iosevka
-
-! I can't find file `Iosevka'.
-<*> ...jfour; mag:=1; ; nonstopmode; input Iosevka
-                                                  
-Please type another input file name
-! Emergency stop.
-<*> ...jfour; mag:=1; ; nonstopmode; input Iosevka
-                                                  
-Transcript written on mfput.log.
-grep: Iosevka.log: No such file or directory
-mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka' failed to make Iosevka.tfm.
-kpathsea: Appending font creation commands to missfont.log.
+        Log for attempt at Fri Apr  9 12:09:55 PM PDT 2021 (10955)
+        Fri Apr  9 12:09:55 PM PDT 2021 Converting 2020HIST201/KBe21hist201retCausesOfWWIEssay.org...
+kpathsea:make_tex: Invalid filename `Iosevka-Aile-Bold/OT:script=latn;language=dflt;', contains ':'
+kpathsea:make_tex: Invalid filename `Iosevka-Aile-Bold/OT:script=latn;language=dflt;', contains ':'
 Error producing PDF.
-! Package fontspec Error: The font "Iosevka" cannot be found.
+! Package fontspec Error: The font "Iosevka-Aile-Bold" cannot be found.
 
 For immediate help type H <return>.
  ...                                              
