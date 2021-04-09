@@ -21,7 +21,7 @@ for f in ${(@f)changes}; do
         #sed -E -e 's/!\[\[(.+\.(png|jpg))\]\]/![\1](\1)/g' -i '' $f
     fi
     pandoc -f $formatname -t pdf   $f --pdf-engine=xelatex --mathjax -s\
-        --lua-filter=~/.pandoc/filters/default.latex -o "${f%.*}.pdf"\
+        --lua-filter ~/.pandoc/filters/default.latex -o "${f%.*}.pdf"\
         --resource-path="$f:h" -V BUILDID=$buildid 2>>recent_errors.txt
     printf "1/3:     \r"
     pandoc -f $formatname -t latex $f --pdf-engine=xelatex --mathjax\
