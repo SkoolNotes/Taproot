@@ -1,47 +1,47 @@
-        Log for attempt at Fri Apr  9 11:50:43 AM PDT 2021 (10934)
-        Fri Apr  9 11:50:43 AM PDT 2021 Converting 2020HIST201/KBe21hist201retCausesOfWWIEssay.org...
+        Log for attempt at Fri Apr  9 11:51:36 AM PDT 2021 (10936)
+        Fri Apr  9 11:51:36 AM PDT 2021 Converting 2020HIST201/KBe21hist201retCausesOfWWIEssay.org...
 
-kpathsea: Running mktextfm Iosevka-Sparkle
-/usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation I for Iosevka-Sparkle.
+kpathsea: Running mktextfm IosevkaSparkle
+/usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation I for IosevkaSparkle.
 /usr/share/texmf-dist/web2c/mktexnam: Need to update /usr/share/texmf-dist/fonts/map/fontname/special.map?
-mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka-Sparkle
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input IosevkaSparkle
 This is METAFONT, Version 2.7182818 (TeX Live 2020/Arch Linux) (preloaded base=mf)
 
-kpathsea: Running mktexmf Iosevka-Sparkle
+kpathsea: Running mktexmf IosevkaSparkle
 
-! I can't find file `Iosevka-Sparkle'.
-<*> ...ag:=1; ; nonstopmode; input Iosevka-Sparkle
+! I can't find file `IosevkaSparkle'.
+<*> ...mag:=1; ; nonstopmode; input IosevkaSparkle
                                                   
 Please type another input file name
 ! Emergency stop.
-<*> ...ag:=1; ; nonstopmode; input Iosevka-Sparkle
+<*> ...mag:=1; ; nonstopmode; input IosevkaSparkle
                                                   
 Transcript written on mfput.log.
-grep: Iosevka-Sparkle.log: No such file or directory
-mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka-Sparkle' failed to make Iosevka-Sparkle.tfm.
+grep: IosevkaSparkle.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input IosevkaSparkle' failed to make IosevkaSparkle.tfm.
 kpathsea: Appending font creation commands to missfont.log.
 
-kpathsea: Running mktextfm Iosevka-Sparkle
-/usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation I for Iosevka-Sparkle.
+kpathsea: Running mktextfm IosevkaSparkle
+/usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation I for IosevkaSparkle.
 /usr/share/texmf-dist/web2c/mktexnam: Need to update /usr/share/texmf-dist/fonts/map/fontname/special.map?
-mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka-Sparkle
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input IosevkaSparkle
 This is METAFONT, Version 2.7182818 (TeX Live 2020/Arch Linux) (preloaded base=mf)
 
-kpathsea: Running mktexmf Iosevka-Sparkle
+kpathsea: Running mktexmf IosevkaSparkle
 
-! I can't find file `Iosevka-Sparkle'.
-<*> ...ag:=1; ; nonstopmode; input Iosevka-Sparkle
+! I can't find file `IosevkaSparkle'.
+<*> ...mag:=1; ; nonstopmode; input IosevkaSparkle
                                                   
 Please type another input file name
 ! Emergency stop.
-<*> ...ag:=1; ; nonstopmode; input Iosevka-Sparkle
+<*> ...mag:=1; ; nonstopmode; input IosevkaSparkle
                                                   
 Transcript written on mfput.log.
-grep: Iosevka-Sparkle.log: No such file or directory
-mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input Iosevka-Sparkle' failed to make Iosevka-Sparkle.tfm.
+grep: IosevkaSparkle.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input IosevkaSparkle' failed to make IosevkaSparkle.tfm.
 kpathsea: Appending font creation commands to missfont.log.
 Error producing PDF.
-! Package fontspec Error: The font "Iosevka-Sparkle" cannot be found.
+! Package fontspec Error: The font "IosevkaSparkle" cannot be found.
 
 For immediate help type H <return>.
  ...                                              
