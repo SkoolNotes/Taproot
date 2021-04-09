@@ -84,9 +84,9 @@
 
 \usepackage{mathspec}
  \setmainfont[
-    ItalicFont     = Iosevka-Aile-Italic,
-    BoldFont       = Iosevka-Aile-Bold,
-    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka-Aile}
+    ItalicFont     = Iosevka-Sparkle-Italic,
+    BoldFont       = Iosevka-Sparkle-Bold,
+    BoldItalicFont = Iosevka-Sparkle-Bold-Italic]{Iosevka-Sparkle}
 \newfontfamily\NHLight[
   ItalicFont     = HelveticaNeue-LightItalic,
   BoldFont       = HelveticaNeue-UltraLight,
@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10931)}}    % original
-%\rhead{\textrmlf{Compiled }\#10931\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10934)}}    % original
+%\rhead{\textrmlf{Compiled }\#10934\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
