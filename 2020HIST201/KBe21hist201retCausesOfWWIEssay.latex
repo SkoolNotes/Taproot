@@ -1,5 +1,5 @@
 \documentclass[
-  12px,
+  24px,
 ]{article}
 
 \setlength\parindent{0pt}
@@ -142,8 +142,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10853)}}    % original
-%\rhead{\textrmlf{Compiled }\#10853\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10855)}}    % original
+%\rhead{\textrmlf{Compiled }\#10855\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
