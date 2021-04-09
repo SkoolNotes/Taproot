@@ -28,13 +28,13 @@ for f in ${(@f)changes}; do
         #sed -E -e 's/!\[\[(.+\.(png|jpg))\]\]/![\1](\1)/g' -i '' $f
     fi
     pandoc -f $formatname -t pdf   $f --pdf-engine=xelatex --mathjax -s\
-        --template=~/.pandoc/templates/default.latex \
-        "${filter_list[@]/#/--lua-filter=}" -o "${f%.*}.pdf"\
+        --template=~/.pandoc/templates/default.latex -o "${f%.*}.pdf"\
+        "${filter_list[@]/#/--lua-filter=}"\
         --resource-path="$f:h" -V BUILDID=$buildid 2>>recent_errors.txt
     printf "1/3:     \r"
     pandoc -f $formatname -t latex $f --pdf-engine=xelatex --mathjax\
-        --template=~/.pandoc/templates/default.latex \
-        "${filter_list[@]/#/--lua-filter=}"  -o "${f%.*}.latex" -s\
+        --template=~/.pandoc/templates/default.latex -o "${f%.*}.latex" -s\
+        "${filter_list[@]/#/--lua-filter=}"\
         --resource-path="$f:h" -V BUILDID=$buildid 2>>recent_errors.txt
     printf "2/3:     \r"
     pandoc -f latex -t html "${f%.*}.latex" --pdf-engine=xelatex --mathjax -s\
