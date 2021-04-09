@@ -32,7 +32,7 @@ for f in ${(@f)changes}; do
         --resource-path="$f:h" -V BUILDID=$buildid 2>>recent_errors.txt
     printf "1/3:     \r"
     pandoc -f $formatname -t latex $f --pdf-engine=xelatex --mathjax\
-        --template=~/.pandoc/templates/default.latex -o "${f%.*}.latex" -s\
+        "${filter_list[@]/#/--lua-filter }"  -o "${f%.*}.latex" -s\
         --resource-path="$f:h" -V BUILDID=$buildid 2>>recent_errors.txt
     printf "2/3:     \r"
     pandoc -f latex -t html "${f%.*}.latex" --pdf-engine=xelatex --mathjax -s\
