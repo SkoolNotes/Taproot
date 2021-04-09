@@ -142,13 +142,14 @@ Incentives Cause Individual Radicals }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10767)}}    % original
-%\rhead{\textrmlf{Compiled }\#10767\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10768)}}    % original
+%\rhead{\textrmlf{Compiled }\#10768\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10767
+  \#10768
     \textrmlf{ }
     \today
+  hi there
   }       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
