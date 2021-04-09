@@ -141,11 +141,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10763)}}    % original
-%\rhead{\textrmlf{Compiled }\#10763\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10764)}}    % original
+%\rhead{\textrmlf{Compiled }\#10764\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10763
+  \#10764
     \textrmlf{ }
     \today
   }       % new date
@@ -194,6 +194,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+
+\setlength\parindent{30pt}
 
 \hypertarget{the-inevitable-shift-how-international-incentives-cause-individual-radicals}{%
 \section{The Inevitable Shift: How International Incentives Cause
