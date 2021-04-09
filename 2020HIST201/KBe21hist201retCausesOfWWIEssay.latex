@@ -1,4 +1,5 @@
 \documentclass[
+  12px,
 ]{article}
 
 \setlength\parindent{0pt}
@@ -141,8 +142,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10851)}}    % original
-%\rhead{\textrmlf{Compiled }\#10851\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10853)}}    % original
+%\rhead{\textrmlf{Compiled }\#10853\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -235,8 +236,6 @@ The level three influences also shifted the general psyche to become more war-li
  As power dynamics shifted around the turn of the twentieth century, the defined scarcity of state goals-such as the British ambition of having the largest navy-set off a chain of events that led ultimately and inevitably to global war. Without a change of level three incentives, such as a global mediator or mutually assured destruction, shifting power dynamics and the cult of the offensive will lead inescapably to a security-dilemma-induced arms race and growing tensions which cause nationalist viewpoints and breed rash individuals. Thus, international disincentives like mutually assured destruction are key to keeping political and economic incentives from inflaming ideological divides and causing warfare.
 
 \end{doublespacing}
-
-\clearpage
 
 \hypertarget{works-cited}{%
 \section{Works Cited}\label{works-cited}}
