@@ -109,6 +109,7 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 
+essay
 
 \usepackage[margin=1in]{geometry}
 
@@ -142,14 +143,13 @@ Incentives Cause Individual Radicals }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10768)}}    % original
-%\rhead{\textrmlf{Compiled }\#10768\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10780)}}    % original
+%\rhead{\textrmlf{Compiled }\#10780\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#10768
+  \#10780
     \textrmlf{ }
     \today
-  hi there
   }       % new date
 \lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
@@ -200,7 +200,6 @@ Incentives Cause Individual Radicals }
 \setlength\parindent{30pt}
 
 \begin{doublespacing}
-
  At the turn of the twentieth century, Europe was locked in an arms race caused by level three international political and economic incentives. As tensions grew, level one cultural strifes inevitably intensified and ultimately sparked war.
  Although a lack of enforcement of international order and ballooning militaries both incentivized and enabled WWI, the necessary spark was provided by individual civilian interests.
 
@@ -236,6 +235,7 @@ The level three influences also shifted the general psyche to become more war-li
 
 \end{doublespacing}
 
+\hfill\break
 \textbf{Works Cited}
 
 \begin{itemize}
