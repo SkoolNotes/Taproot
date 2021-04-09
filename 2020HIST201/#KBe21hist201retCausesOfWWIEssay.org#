@@ -1,208 +1,20 @@
-\documentclass[
-  24px,
-]{article}
+#+TITLE: Causes of World War I Essay
+#+AUTHOR: Albert Huang
+#+course: 21HIST201
+#+taproottypessay: essay
+#+fontsize: 24px
+#+documentclass: article
 
-\setlength\parindent{0pt}
+* The Inevitable Shift: How International Incentives Cause Individual Radicals
 
-\usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage{amsfonts}
-\usepackage{gensymb}
-
-\usepackage[normalem]{ulem}
-
-\usepackage{cancel}
-
-\usepackage{ifthen}
-\usepackage{trimspaces}
-\usepackage{setspace}
-
-\usepackage{graphicx}
-\usepackage{xesearch}
-\usepackage[dvipsnames]{xcolor}
-
-\usepackage{lastpage}
-
-\usepackage{siunitx}
-\sisetup{per-mode=symbol}
-
-\usepackage{enumitem}
-\setlistdepth{9}
-
-\setlist[itemize,1]{label=\textbullet}
-\setlist[itemize,2]{label=\textbullet}
-\setlist[itemize,3]{label=\textbullet}
-\setlist[itemize,4]{label=\textbullet}
-\setlist[itemize,5]{label=\textbullet}
-\setlist[itemize,6]{label=\textbullet}
-\setlist[itemize,7]{label=\textbullet}
-\setlist[itemize,8]{label=\textbullet}
-\setlist[itemize,9]{label=\textbullet}
-
-\renewlist{itemize}{itemize}{9}
-
-\usepackage{mathdots}
-\usepackage{tikz}
-
-\makeatletter
-\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-\makeatother
-
-
-\UndoBoundary{[, ], \_}
-\SearchList{startbrac}{}{*[?}
-\SearchList{endbrac}{}{*]?}
-\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
-
-
-
-% Scale images if necessary, so that they will not overflow the page
-% margins by default, and it is still possible to overwrite the defaults
-% using explicit options in \includegraphics[width, height, ...]{}
-\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-% Set default figure placement to htbp
-\makeatletter
-\def\fps@figure{htbp}
-\makeatother
-
-\graphicspath{ {./} }
-
-\usepackage{titlesec}
-\usepackage{titling}
-\usepackage{makecell}
-\usepackage{bookmark}
-
-\usepackage{float}
-\let\origfigure\figure
-\let\endorigfigure\endfigure
-\renewenvironment{figure}[1][2] {
-    \expandafter\origfigure\expandafter[H]
-} {
-    \endorigfigure
-}
-
-\usepackage{mathspec}
-\setmainfont[
-  ItalicFont     = HelveticaNeue-Italic,
-  BoldFont       = HelveticaNeue-Bold,
-  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
-\newfontfamily\NHLight[
-  ItalicFont     = HelveticaNeue-LightItalic,
-  BoldFont       = HelveticaNeue-UltraLight,
-  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
-% \setmainfont[
-%    ItalicFont     = Iosevka-Aile-Italic,
-%    BoldFont       = Iosevka-Aile-Bold,
-%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
-% \newfontfamily\NHLight[
-%    ItalicFont     = Iosevka-Aile-Light-Italic,
-%    BoldFont       = Iosevka-Aile-Light,
-%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
-
-\newcommand\textrmlf[1]{{\NHLight#1}}
-\newcommand\textitlf[1]{{\NHLight\itshape#1}}
-\let\textbflf\textrm
-\newcommand\textulf[1]{{\NHLight\bfseries#1}}
-\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
-
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-
-
-
-\usepackage[margin=1in]{geometry}
-
-\usepackage{fancyhdr}
-\usepackage{hyperref}
-
-\usepackage{longtable,booktabs}
-\usepackage{caption}
-% Correct order of tables after \paragraph or \subparagraph
-\usepackage{etoolbox}
-\makeatletter
-\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
-\makeatother
-% Allow footnotes in longtable head/foot
-\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
-\makesavenoteenv{longtable}
-
-
-\newcommand{\thecourse}{ 21HIST201 }
-\newcommand{\thelesson}{ Causes of World War I Essay }
-
-\title{\textbf{\thecourse}\thelesson}
-
-\pagestyle{fancy}
-
-\fancyfoot{}
-
-\makeatletter
-\trim@spaces@in \thecourse
-\trim@spaces@in \thelesson
-\makeatother
-\lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10900)}}    % original
-%\rhead{\textrmlf{Compiled }\#10900\textrmlf{ on} \today }      % old date
-\rhead{
-    \today
-    }       % new date
-\lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
-
-
-\titleformat{\section}
-{\Large}
-{\textrmlf{\thesection} {|}}
-{0.3em}
-{\textbf}
-
-
-\titleformat{\subsection}
-{\large}
-{\textrmlf{\thesubsection} {|}}
-{0.2em}
-{\textbf}
-
-\titleformat{\subsubsection}
-{\large}
-{\textrmlf{\thesubsubsection} {|}}
-{0.1em}
-{\textbf}
-
-\setlength{\parskip}{0.45em}
-
-\newcounter{definitionct}
-\newcommand{\definition}[3][]{
-    \stepcounter{definitionct}
-    \begin{center}
-        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
-        \ifthenelse{ \equal{#1}{} }
-            {}
-            {\\ \textrmlf{#1}}
-    \end{center}
-}
-
-% exr0n linear algebra mathops
-\DeclareMathOperator{\orange}{\text{range}}
-\DeclareMathOperator{\ospan}{\text{span}}
-\DeclareMathOperator{\onull}{\text{null}}
-\DeclareMathOperator{\odim}{\text{dim}}
-
-\begin{document}
-
-% DID YOU SET SPELL????
-
-\hypertarget{the-inevitable-shift-how-international-incentives-cause-individual-radicals}{%
-\section{The Inevitable Shift: How International Incentives Cause
-Individual
-Radicals}\label{the-inevitable-shift-how-international-incentives-cause-individual-radicals}}
-
+#+begin_export latex
 \setlength\parindent{0.5in}
+#+end_export
 
-\begin{doublespacing}
+  \begin{doublespacing}
 
   At the turn of the twentieth century, Europe was locked in an arms race caused by level three international political and economic incentives. As tensions grew, level one cultural strifes inevitably intensified and ultimately sparked war.
+ These 
  Although a lack of enforcement of international order and ballooning militaries both incentivized and enabled WWI, the necessary spark was provided by individual civilian interests.
 
  Reinforcing international incentives such as the security dilemma and cult of the offensive put the international powers on edge, bringing the European powers closer to war.
@@ -225,11 +37,11 @@ An exclusively level one viewpoint may counter that German writers like Heinrich
 As countries militarized and nationalist views grew, ethnic and religious divisions intensified until something inevitably sparked war.
 The level three influences also shifted the general psyche to become more warlike, pushing a few individuals near the extreme end of the ideological bell curve past a critical point.
 
-\end{doublespacing}
+	\end{doublespacing}
 
-\includegraphics{KBe21hist201retCausesOfWWIEssayDiagram.png}
+  [[file:KBe21hist201retCausesOfWWIEssayDiagram.png]]
 
-\begin{doublespacing}
+  \begin{doublespacing}
 
   In the case of WWI, the weakest link was the religious divide in Austria-Hungary. Over the course of a number of "Balkan crises," the Eastern Orthodox Serbs and Bosnians in southern Austria-Hungary grew discontent with the Roman Catholic Dual Monarchy that ruled the Habsburg empire—soon to be Austria-Hungary. As the Ottoman Empire declined, the Serbs marked Bosnia as their own and were infuriated when Austria annexed Bosnia in 1908. When the Balkan wars saw Austria cut Serbia off from the sea, Serbs both independent and Austrian grew exasperated and desperate (Palmer 662).
   This chain of events was driven by the recent level three influences—the ongoing security-dilemma-induced arms race had Germany's neighbors scrambling for land and power. States and citizens alike were expecting war, and looking to gain as much of an upper hand as possible before it broke out.
@@ -237,24 +49,11 @@ The level three influences also shifted the general psyche to become more warlik
 
  As power dynamics shifted around the turn of the twentieth century, the defined scarcity of state goals---such as the British ambition of having the largest navy---set off a chain of events that ultimately led to the inevitable global war. Without a change of level three incentives, such as a global mediator or mutually assured destruction, shifting power dynamics and the cult of the offensive will lead, and did lead, inescapably to a security-dilemma-induced arms race and growing tensions which cause nationalist viewpoints and inspire rash individuals. Thus, international disincentives like mutually assured destruction are key to keeping political and economic incentives from inflaming ideological divides and causing warfare.
 
-\end{doublespacing}
+ \end{doublespacing}
 
-\hypertarget{works-cited}{%
-\section{Works Cited}\label{works-cited}}
+* Works Cited
 
-\begin{itemize}
-\tightlist
-\item
-  Kennedy, Paul M. \emph{The Rise and Fall of the Great Powers: Economic
-  Change and Military Conflict from 1500 to 2000}. 1987. Print.
-\item
-  Perry, Jonathan S. \emph{Sources for Europe in the Modern World}.
-  Oxford University Press, 2016.
-\item
-  "About: Sacred Union." DBPedia, dbpedia.org/page/Sacred\_ Union.
-  Accessed 7 Apr. 2021.
-\item
-  Palmer et al. \emph{A History of the Modern World}, 9th Edition.
-\end{itemize}
-
-\end{document}
+- Kennedy, Paul M. /The Rise and Fall of the Great Powers: Economic Change and Military Conflict from 1500 to 2000/. 1987. Print.
+- Perry, Jonathan S. /Sources for Europe in the Modern World/. Oxford University Press, 2016.
+- "About: Sacred Union." DBPedia, dbpedia.org/page/Sacred_ Union. Accessed 7 Apr. 2021.
+- Palmer et al. /A History of the Modern World/, 9th Edition.
