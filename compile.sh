@@ -8,6 +8,9 @@ filetype[md]=markdown
 filetype[org]=org
 
 # prepare lua filters
+set -G  # nullglob
+filter_list=( ~/.pandoc/filters/*.lua )
+unsetopt -G
 
 # buildid
 [[ -f $BUILDNUMBER_FILE ]] || echo 0 > $BUILDNUMBER_FILE;
