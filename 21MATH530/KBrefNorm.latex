@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11021)}}    % original
-%\rhead{\textrmlf{Compiled }\#11021\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11022)}}    % original
+%\rhead{\textrmlf{Compiled }\#11022\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -197,5 +197,10 @@ For some \(x \in \RR ^n\), \[\begin{aligned}
 
 \hypertarget{aka-euclidean-distance}{%
 \section{aka euclidean distance}\label{aka-euclidean-distance}}
+
+\hypertarget{not-linear-so-we-use-the-dot-product-to-inject-linearity}{%
+\section{\texorpdfstring{not linear, so we use the
+\href{KBrefDotProduct.org}{dot product} to 'inject
+linearity'}{not linear, so we use the dot product to 'inject linearity'}}\label{not-linear-so-we-use-the-dot-product-to-inject-linearity}}
 
 \end{document}
