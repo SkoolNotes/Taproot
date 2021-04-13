@@ -11,5 +11,6 @@
   The important algebra is just setting up a system of equations and noticing that orthogonality implies
   \[\begin{aligned}
   &0 = \langle u - cv, v \rangle\\
-  \implies &
+  \implies & 0 = \langle u -cv, v \rangle &= \langle u, v \rangle - \langle cv, v \rangle\\
+  &&= \langle u, v \rangle -
   \end{aligned}\]
