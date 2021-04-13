@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11050)}}    % original
-%\rhead{\textrmlf{Compiled }\#11050\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11051)}}    % original
+%\rhead{\textrmlf{Compiled }\#11051\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -214,7 +214,9 @@ to
 \hypertarget{langle-0-u-rangle-0-langle-u-0-rangle-forall-u-in-v}{%
 \subsubsection{\texorpdfstring{\(\langle 0, u \rangle = 0 = \langle u, 0 \rangle \forall u \in V\)}{\textbackslash langle 0, u \textbackslash rangle = 0 = \textbackslash langle u, 0 \textbackslash rangle \textbackslash forall u \textbackslash in V}}\label{langle-0-u-rangle-0-langle-u-0-rangle-forall-u-in-v}}
 
-\hypertarget{langle-u-lambda-v-rangle-overlinelambdalangle-uv-rangle}{%
-\subsubsection{\texorpdfstring{\(\langle u, \lambda v \rangle = \overline{\lambda}\langle u,v \rangle\)}{\textbackslash langle u, \textbackslash lambda v \textbackslash rangle = \textbackslash overline\{\textbackslash lambda\}\textbackslash langle u,v \textbackslash rangle}}\label{langle-u-lambda-v-rangle-overlinelambdalangle-uv-rangle}}
+\hypertarget{langle-u-lambda-v-rangle-overlinelambdalangle-uv-rangle-for-all-lambda-in-ff-and-u-v-in-v}{%
+\subsubsection{\texorpdfstring{\(\langle u, \lambda v \rangle = \overline{\lambda}\langle u,v \rangle\)
+for all \(\lambda \in \FF\) and
+\(u, v \in  V\)}{\textbackslash langle u, \textbackslash lambda v \textbackslash rangle = \textbackslash overline\{\textbackslash lambda\}\textbackslash langle u,v \textbackslash rangle for all \textbackslash lambda \textbackslash in \textbackslash FF and u, v \textbackslash in  V}}\label{langle-u-lambda-v-rangle-overlinelambdalangle-uv-rangle-for-all-lambda-in-ff-and-u-v-in-v}}
 
 \end{document}
