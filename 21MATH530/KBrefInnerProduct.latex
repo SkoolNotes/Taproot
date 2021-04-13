@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11033)}}    % original
-%\rhead{\textrmlf{Compiled }\#11033\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11034)}}    % original
+%\rhead{\textrmlf{Compiled }\#11034\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -193,6 +193,12 @@
 An \emph{inner product} on \(V\) is a function that takes each ordered
 pair \((u, v)\) of elements of \(V\) to a number
 \(\langle u, v \rangle \in \FF\) and has the following properties
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{positivity} \(\langle v, v \rangle \geq  0 \forall v\in V\)
+\end{itemize}
 \end{quote}
 
 \hypertarget{motivation}{%
