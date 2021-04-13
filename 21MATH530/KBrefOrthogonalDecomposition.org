@@ -10,8 +10,8 @@
   #+end_quote
   The important algebra is just setting up a system of equations and noticing that orthogonality implies
   \[\begin{aligned}
-  &0 = \langle u - cv, v \rangle\\
-  \implies & 0 = \langle u -cv, v \rangle &= \langle u, v \rangle - \langle cv, v \rangle\\
-  &&= \langle u, v \rangle - c \langle v, v \rangle \\
-  &&= \langle u, v \rangle - c \lVert v \rVert^2
+  0 = \langle u - cv, v \rangle\\
+  \implies  0 = \langle u -cv, v \rangle &= \langle u, v \rangle - \langle cv, v \rangle\\
+  &= \langle u, v \rangle - c \langle v, v \rangle \\
+  &= \langle u, v \rangle - c \lVert v \rVert^2
   \end{aligned}\]
