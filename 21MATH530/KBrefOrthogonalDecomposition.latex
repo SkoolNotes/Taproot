@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11075)}}    % original
-%\rhead{\textrmlf{Compiled }\#11075\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11076)}}    % original
+%\rhead{\textrmlf{Compiled }\#11076\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -199,5 +199,11 @@ Suppose \(u, v \in V\), with \(v \neq 0\). Set
 \langle w, v \rangle = 0\text{   and   } u = cv + w
 \end{aligned}\]
 \end{quote}
+
+The important algebra is just setting up a system of equations and
+noticing that orthogonality implies \[\begin{aligned}
+  &0 = \langle u - cv, v \rangle\\
+  \implies &
+  \end{aligned}\]
 
 \end{document}

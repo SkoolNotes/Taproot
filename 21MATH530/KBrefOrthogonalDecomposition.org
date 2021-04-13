@@ -8,3 +8,8 @@
   \langle w, v \rangle = 0\text{   and   } u = cv + w
   \end{aligned}\]
   #+end_quote
+  The important algebra is just setting up a system of equations and noticing that orthogonality implies
+  \[\begin{aligned}
+  &0 = \langle u - cv, v \rangle\\
+  \implies &
+  \end{aligned}\]
