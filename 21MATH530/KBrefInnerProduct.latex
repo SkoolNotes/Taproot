@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11038)}}    % original
-%\rhead{\textrmlf{Compiled }\#11038\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11039)}}    % original
+%\rhead{\textrmlf{Compiled }\#11039\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -206,6 +206,9 @@ pair \((u, v)\) of elements of \(V\) to a number
 \item
   \textbf{homogeneity in first slot}
   \(\langle \lambda u, v \rangle = \lambda \langle u,v \rangle \forall \lambda \in \FF, u,v \in  V\)
+\item
+  \textbf{conjugate symmetry}
+  \(\langle u,v \rangle = \overline{\langle v,u \rangle} \forall u,v \in V\)
 \end{itemize}
 \end{quote}
 
