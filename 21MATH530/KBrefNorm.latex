@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11015)}}    % original
-%\rhead{\textrmlf{Compiled }\#11015\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11016)}}    % original
+%\rhead{\textrmlf{Compiled }\#11016\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,6 +185,8 @@
 
 % DID YOU SET SPELL????
 
-
+\hypertarget{norm-midmid-x-midmid}{%
+\section{\texorpdfstring{norm, \(\mid\mid x \mid\mid\)
+{\textsc{def}}}{norm, \textbackslash mid\textbackslash mid x \textbackslash mid\textbackslash mid def}}\label{norm-midmid-x-midmid}}
 
 \end{document}
