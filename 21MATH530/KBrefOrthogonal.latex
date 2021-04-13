@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11061)}}    % original
-%\rhead{\textrmlf{Compiled }\#11061\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11062)}}    % original
+%\rhead{\textrmlf{Compiled }\#11062\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -188,5 +188,10 @@
 \hypertarget{orthogonal-1}{%
 \section{\texorpdfstring{orthogonal
 {\textsc{def}}}{orthogonal def}}\label{orthogonal-1}}
+
+\begin{quote}
+Two vectors \(u, v \in V\) are called \emph{orthogonal} if
+\(\langle u, v \rangle = 0\)
+\end{quote}
 
 \end{document}

@@ -1,3 +1,6 @@
 #+TITLE: Orthogonal
 #+context: linear algebra
-* orthogonal                                                            :def:
+* orthogonal                                                           :def:
+  #+begin_quote
+  Two vectors $u, v \in V$ are called /orthogonal/ if $\langle u, v \rangle = 0$
+  #+end_quote
