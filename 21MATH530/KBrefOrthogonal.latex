@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11064)}}    % original
-%\rhead{\textrmlf{Compiled }\#11064\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11065)}}    % original
+%\rhead{\textrmlf{Compiled }\#11065\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -213,5 +213,9 @@ zero}\label{axler-6.12-orthogonality-and-zero}}
 \subsubsection{\texorpdfstring{0 is the only vector in \(V\) that is
 orthogonal to
 itself}{0 is the only vector in V that is orthogonal to itself}}\label{is-the-only-vector-in-v-that-is-orthogonal-to-itself}}
+
+\hypertarget{axler-6.13-pythagorean-theorem}{%
+\subsection{Axler 6.13 Pythagorean
+Theorem}\label{axler-6.13-pythagorean-theorem}}
 
 \end{document}
