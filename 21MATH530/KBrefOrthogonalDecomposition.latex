@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11073)}}    % original
-%\rhead{\textrmlf{Compiled }\#11073\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11074)}}    % original
+%\rhead{\textrmlf{Compiled }\#11074\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -193,7 +193,11 @@ An orthogonal decomposition is a way of writing some vector
 orthogonal component
 
 \begin{quote}
-Suppose \(u, v \in V\), with \(v \neq 0\).
+Suppose \(u, v \in V\), with \(v \neq 0\). Set
+\(c =\frac{\langle u, v \rangle}{\lVert v \rVert^2}\) and
+\(w = u - cv\). Then, \[\begin{aligned}
+\langle w, v \rangle = 0\text{   and   } u = cv + w
+\end{aligned}\]
 \end{quote}
 
 \end{document}
