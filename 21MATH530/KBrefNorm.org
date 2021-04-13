@@ -18,5 +18,6 @@
   \end{aligned}\]
   #+end_quote
 * properties
+** $\lVert v \rVert = 0 \iff  v=0$
 * aka euclidean distance
 * not linear, so we use the [[file:KBrefDotProduct.org][dot product]] to 'inject linearity'
