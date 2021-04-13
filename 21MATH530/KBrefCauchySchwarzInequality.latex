@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11082)}}    % original
-%\rhead{\textrmlf{Compiled }\#11082\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11083)}}    % original
+%\rhead{\textrmlf{Compiled }\#11083\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -192,6 +192,10 @@
 'One of the most important inequalities in mathematics'
 
 \begin{quote}
+Suppose \(u, v \in V\) (where \(V\) is an inner product space). Then
+\[\begin{aligned}
+|\langle u, v \rangle |
+\end{aligned}\]
 \end{quote}
 
 \end{document}

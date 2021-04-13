@@ -3,4 +3,9 @@
 * Cauchy-Schwarz Inequality                                       :important:
   'One of the most important inequalities in mathematics'
   #+begin_quote
+  Suppose $u, v \in V$ (where $V$ is an inner product space). Then
+  \[\begin{aligned}
+  |\langle u, v \rangle |
+  \end{aligned}\]
+
   #+end_quote
