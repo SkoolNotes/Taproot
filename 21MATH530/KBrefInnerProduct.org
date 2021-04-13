@@ -5,7 +5,7 @@
   An /inner product/ on $V$ is a function that takes each ordered pair $(u, v)$ of elements of $V$ to a number $\langle u, v \rangle \in \FF$  and has the following properties
   - *positivity* $\langle v, v \rangle \geq  0 \forall v\in V$
   - *definiteness* $\langle v, v \rangle = 0 \iff v = 0$
-  -
+  - *additivity in first slot* $\langle u+v, w \rangle = \langle u, w \rangle + \langle v, w \rangle \forall u, v, w, \in V$
   #+end_quote
 * motivation
 ** The norm of a complex number $\lVert z \rVert$ should be non-negative, so we can define it as

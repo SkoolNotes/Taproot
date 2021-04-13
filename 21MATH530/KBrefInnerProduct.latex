@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11035)}}    % original
-%\rhead{\textrmlf{Compiled }\#11035\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11037)}}    % original
+%\rhead{\textrmlf{Compiled }\#11037\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -201,6 +201,8 @@ pair \((u, v)\) of elements of \(V\) to a number
 \item
   \textbf{definiteness} \(\langle v, v \rangle = 0 \iff v = 0\)
 \item
+  \textbf{additivity in first slot}
+  \(\langle u+v, w \rangle = \langle u, w \rangle + \langle v, w \rangle \forall u, v, w, \in V\)
 \end{itemize}
 \end{quote}
 
