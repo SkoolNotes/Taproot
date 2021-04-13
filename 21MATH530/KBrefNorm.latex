@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11055)}}    % original
-%\rhead{\textrmlf{Compiled }\#11055\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11056)}}    % original
+%\rhead{\textrmlf{Compiled }\#11056\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -193,10 +193,16 @@
 For some \(x \in \RR ^n\), \[\begin{aligned}
 \lVert x \rVert =\sqrt{x_1^2 + \cdots + x_n^2}
 \end{aligned}\]
+\end{quote}
 
 Using the definition of an \href{KBrefInnerProduct.org}{inner product},
 norms can be defined for complex vectors in
 \href{KBrefInnerProductSpaces.org}{inner product spaces}
+
+\begin{quote}
+For \[\begin{aligned}
+
+\end{aligned}\]
 \end{quote}
 
 \hypertarget{aka-euclidean-distance}{%
