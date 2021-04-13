@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11081)}}    % original
-%\rhead{\textrmlf{Compiled }\#11081\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11082)}}    % original
+%\rhead{\textrmlf{Compiled }\#11082\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,6 +185,13 @@
 
 % DID YOU SET SPELL????
 
+\hypertarget{cauchy-schwarz-inequality}{%
+\section{\texorpdfstring{Cauchy-Schwarz Inequality
+{\textsc{important}}}{Cauchy-Schwarz Inequality important}}\label{cauchy-schwarz-inequality}}
 
+'One of the most important inequalities in mathematics'
+
+\begin{quote}
+\end{quote}
 
 \end{document}
