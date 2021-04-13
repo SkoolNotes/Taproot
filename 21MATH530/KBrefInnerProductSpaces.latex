@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11044)}}    % original
-%\rhead{\textrmlf{Compiled }\#11044\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11045)}}    % original
+%\rhead{\textrmlf{Compiled }\#11045\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -193,8 +193,10 @@
 An \emph{inner product space} is a vector space \(V\) along with an
 \href{KBrefInnerProduct.org}{inner product} on \(V\).
 
-When \(V = \FF ^n\), assume the inner product is the (or Euclidean inner
-product)
+When \(V = \FF ^n\), assume the inner product is the Euclidean inner
+product \[\begin{aligned}
+\langle (w_1, \ldots, w_n), (z_1, \ldots, z_n) \rangle = w_1 \overline{z_1} + \cdots w_n \overline{z_n}
+\end{aligned}\]
 \end{quote}
 
 *

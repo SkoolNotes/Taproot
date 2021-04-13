@@ -3,6 +3,10 @@
   #+begin_quote
   An /inner product space/ is a vector space $V$ along with an [[file:KBrefInnerProduct.org][inner product]] on $V$.
 
-  When $V = \FF ^n$, assume the inner product is the (or Euclidean inner product)
+  When $V = \FF ^n$, assume the inner product is the Euclidean inner product
+  \[\begin{aligned}
+  \langle (w_1, \ldots, w_n), (z_1, \ldots, z_n) \rangle = w_1 \overline{z_1} + \cdots w_n \overline{z_n}
+  \end{aligned}\]
+
   #+end_quote
 *
