@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11048)}}    % original
-%\rhead{\textrmlf{Compiled }\#11048\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11049)}}    % original
+%\rhead{\textrmlf{Compiled }\#11049\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -213,5 +213,7 @@ to
 
 \hypertarget{langle-0-u-rangle-0-langle-u-0-rangle-forall-u-in-v}{%
 \subsubsection{\texorpdfstring{\(\langle 0, u \rangle = 0 = \langle u, 0 \rangle \forall u \in V\)}{\textbackslash langle 0, u \textbackslash rangle = 0 = \textbackslash langle u, 0 \textbackslash rangle \textbackslash forall u \textbackslash in V}}\label{langle-0-u-rangle-0-langle-u-0-rangle-forall-u-in-v}}
+
+\textbf{*}
 
 \end{document}
