@@ -8,6 +8,7 @@
   - *additivity in first slot* $\langle u+v, w \rangle = \langle u, w \rangle + \langle v, w \rangle \forall u, v, w, \in V$
   - *homogeneity in first slot* $\langle \lambda u, v \rangle = \lambda \langle u,v \rangle \forall \lambda \in \FF, u,v \in  V$
   - *conjugate symmetry* $\langle u,v \rangle = \overline{\langle v,u \rangle} \forall u,v \in V$
+	- Over the reals, this is equal to $\langle u,v \rangle = \langle v, u \rangle$
   #+end_quote
 * motivation
 ** The norm of a complex number $\lVert z \rVert$ should be non-negative, so we can define it as

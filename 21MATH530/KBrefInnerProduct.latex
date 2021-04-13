@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11039)}}    % original
-%\rhead{\textrmlf{Compiled }\#11039\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11040)}}    % original
+%\rhead{\textrmlf{Compiled }\#11040\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -209,6 +209,13 @@ pair \((u, v)\) of elements of \(V\) to a number
 \item
   \textbf{conjugate symmetry}
   \(\langle u,v \rangle = \overline{\langle v,u \rangle} \forall u,v \in V\)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Over the reals, this is equal to
+    \(\langle u,v \rangle = \langle v, u \rangle\)
+  \end{itemize}
 \end{itemize}
 \end{quote}
 
