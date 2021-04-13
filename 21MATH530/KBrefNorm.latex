@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11056)}}    % original
-%\rhead{\textrmlf{Compiled }\#11056\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11057)}}    % original
+%\rhead{\textrmlf{Compiled }\#11057\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -200,8 +200,9 @@ norms can be defined for complex vectors in
 \href{KBrefInnerProductSpaces.org}{inner product spaces}
 
 \begin{quote}
-For \[\begin{aligned}
-
+For \(v \in  V\), the \emph{norm} of \(v\), denoted \(\lVert v \rVert\),
+is defined by \[\begin{aligned}
+\lVert v \rVert =\sqrt{\langle v, v \rangle}
 \end{aligned}\]
 \end{quote}
 

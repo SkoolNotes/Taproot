@@ -11,11 +11,10 @@
   Using the definition of an [[file:KBrefInnerProduct.org][inner product]], norms can be defined for complex vectors in [[file:KBrefInnerProductSpaces.org][inner product spaces]]
 
   #+begin_quote
-  For
+  For $v \in  V$, the /norm/ of $v$, denoted $\lVert v \rVert$, is defined by
   \[\begin{aligned}
-
+  \lVert v \rVert =\sqrt{\langle v, v \rangle}
   \end{aligned}\]
-
   #+end_quote
 * aka euclidean distance
 * not linear, so we use the [[file:KBrefDotProduct.org][dot product]] to 'inject linearity'
