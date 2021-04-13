@@ -2,4 +2,7 @@
 * inner product space                                                   :def:
   #+begin_quote
   An /inner product space/ is a vector space $V$ along with an [[file:KBrefInnerProduct.org][inner product]] on $V$.
+
+  When $V = \FF ^n$, assume the inner product is the norm (or Euclidean distance)
   #+end_quote
+*
