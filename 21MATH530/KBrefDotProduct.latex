@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11012)}}    % original
-%\rhead{\textrmlf{Compiled }\#11012\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11013)}}    % original
+%\rhead{\textrmlf{Compiled }\#11013\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,6 +185,12 @@
 
 % DID YOU SET SPELL????
 
+\hypertarget{dot-product-1}{%
+\section{\texorpdfstring{dot product
+{\textsc{def}}}{dot product def}}\label{dot-product-1}}
 
+\begin{quote}
+For \(x, y \in \RR ^n\),
+\end{quote}
 
 \end{document}
