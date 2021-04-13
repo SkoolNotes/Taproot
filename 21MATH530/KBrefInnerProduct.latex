@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11031)}}    % original
-%\rhead{\textrmlf{Compiled }\#11031\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11033)}}    % original
+%\rhead{\textrmlf{Compiled }\#11033\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -188,6 +188,12 @@
 \hypertarget{inner-product-1}{%
 \section{\texorpdfstring{inner product
 {\textsc{def}}}{inner product def}}\label{inner-product-1}}
+
+\begin{quote}
+An \emph{inner product} on \(V\) is a function that takes each ordered
+pair \((u, v)\) of elements of \(V\) to a number
+\(\langle u, v \rangle \in \FF\) and has the following properties
+\end{quote}
 
 \hypertarget{motivation}{%
 \section{motivation}\label{motivation}}
