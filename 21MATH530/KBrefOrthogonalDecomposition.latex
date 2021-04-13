@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11079)}}    % original
-%\rhead{\textrmlf{Compiled }\#11079\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11080)}}    % original
+%\rhead{\textrmlf{Compiled }\#11080\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -206,6 +206,6 @@ noticing that orthogonality implies \[\begin{aligned}
   \implies  0 = \langle u -cv, v \rangle &= \langle u, v \rangle - \langle cv, v \rangle\\
   &= \langle u, v \rangle - c \langle v, v \rangle \\
   &= \langle u, v \rangle - c \lVert v \rVert^2
-  \end{aligned}\]
+  \end{aligned}\] which can then be solved for \(c\)
 
 \end{document}
