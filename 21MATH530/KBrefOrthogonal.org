@@ -16,3 +16,10 @@
    \lVert u+v \rVert^2 = \lVert u \rVert^2 + \lVert v \rVert^2
    \end{aligned}\]
    #+end_quote
+*** proof with more algebra written out
+
+	\[\begin{aligned}
+	\lVert u+v \rVert^2 &= \langle u+v, u+v \rangle\\
+	&= \langle u, u+v \rangle + \langle v, u+v \rangle\\
+	&= \langle u,u \rangle + \langle u, v \rangle + \langle v, u \rangle + \langle v,v \rangle\\
+	\end{aligned}\]
