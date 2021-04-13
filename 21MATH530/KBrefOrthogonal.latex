@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11067)}}    % original
-%\rhead{\textrmlf{Compiled }\#11067\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11068)}}    % original
+%\rhead{\textrmlf{Compiled }\#11068\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -232,7 +232,7 @@ out}\label{proof-with-more-algebra-written-out}}
 \[\begin{aligned}
     \lVert u+v \rVert^2 &= \langle u+v, u+v \rangle\\
     &= \langle u, u+v \rangle + \langle v, u+v \rangle\\
-    &= \langle u,u \rangle + \langle u, v \rangle + \langle v, u \rangle + \langle v,v \rangle\\
+    &= \langle u,u \rangle + \cancelto{0}{\langle u, v \rangle} + \cancelto{0}{\langle v, u \rangle} + \langle v,v \rangle\\
     \end{aligned}\]
 
 \end{document}
