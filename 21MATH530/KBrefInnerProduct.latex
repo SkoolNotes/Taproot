@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11034)}}    % original
-%\rhead{\textrmlf{Compiled }\#11034\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11035)}}    % original
+%\rhead{\textrmlf{Compiled }\#11035\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -198,6 +198,9 @@ pair \((u, v)\) of elements of \(V\) to a number
 \tightlist
 \item
   \textbf{positivity} \(\langle v, v \rangle \geq  0 \forall v\in V\)
+\item
+  \textbf{definiteness} \(\langle v, v \rangle = 0 \iff v = 0\)
+\item
 \end{itemize}
 \end{quote}
 
