@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11065)}}    % original
-%\rhead{\textrmlf{Compiled }\#11065\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11066)}}    % original
+%\rhead{\textrmlf{Compiled }\#11066\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -217,5 +217,12 @@ itself}{0 is the only vector in V that is orthogonal to itself}}\label{is-the-on
 \hypertarget{axler-6.13-pythagorean-theorem}{%
 \subsection{Axler 6.13 Pythagorean
 Theorem}\label{axler-6.13-pythagorean-theorem}}
+
+\begin{quote}
+Suppose \(u\) and \(v\) are orthogonal vectors in \(V\). Then
+\[\begin{aligned}
+\lVert u+v \rVert^2 = \lVert u \rVert^2 + \lVert v \rVert^2
+\end{aligned}\]
+\end{quote}
 
 \end{document}
