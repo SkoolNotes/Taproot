@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11046)}}    % original
-%\rhead{\textrmlf{Compiled }\#11046\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11047)}}    % original
+%\rhead{\textrmlf{Compiled }\#11047\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -205,7 +205,12 @@ product \[\begin{aligned}
 \hypertarget{axler6.7-properties}{%
 \subsection{Axler6.7 properties}\label{axler6.7-properties}}
 
-\hypertarget{section}{%
-\subsubsection{\$\$}\label{section}}
+\hypertarget{for-each-fixed-u-in-v-the-function-that-takes-v-to-langle-v-u-rangle-is-a-linear-map-from-v-to-ff}{%
+\subsubsection{\texorpdfstring{For each fixed \(u \in V\), the function
+that takes \(v\) to \(\langle v, u \rangle\) is a linear map from \(V\)
+to
+\(\FF\)}{For each fixed u \textbackslash in V, the function that takes v to \textbackslash langle v, u \textbackslash rangle is a linear map from V to \textbackslash FF}}\label{for-each-fixed-u-in-v-the-function-that-takes-v-to-langle-v-u-rangle-is-a-linear-map-from-v-to-ff}}
+
+\textbf{*}
 
 \end{document}
