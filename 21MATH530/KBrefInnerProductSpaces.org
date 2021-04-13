@@ -13,4 +13,5 @@
 ** Axler6.7 properties
 *** For each fixed $u \in V$, the function that takes $v$ to $\langle v, u \rangle$ is a linear map from $V$ to $\FF$
 *** $\langle 0, u \rangle = 0 = \langle u, 0 \rangle \forall u \in V$
+*** $\langle u, v+w \rangle = \langle u,v \rangle + \langle u, w \rangle$ for all $u, v, w \in  V$
 *** $\langle u, \lambda v \rangle = \overline{\lambda}\langle u,v \rangle$ for all $\lambda \in \FF$ and $u, v \in  V$
