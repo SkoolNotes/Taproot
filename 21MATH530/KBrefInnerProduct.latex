@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11025)}}    % original
-%\rhead{\textrmlf{Compiled }\#11025\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11026)}}    % original
+%\rhead{\textrmlf{Compiled }\#11026\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -191,5 +191,14 @@
 
 \hypertarget{motivation}{%
 \section{motivation}\label{motivation}}
+
+\hypertarget{the-norm-of-a-complex-number-lvert-z-rvert-should-be-non-negative-so-we-can-define-it-as}{%
+\subsection{\texorpdfstring{The norm of a complex number
+\(\lVert z \rVert\) should be non-negative, so we can define it
+as}{The norm of a complex number \textbackslash lVert z \textbackslash rVert should be non-negative, so we can define it as}}\label{the-norm-of-a-complex-number-lvert-z-rvert-should-be-non-negative-so-we-can-define-it-as}}
+
+\[\begin{aligned}
+   \lVert z \rVert =\sqrt{|z_1|^2 + \cdots + |z_n| ^2}
+   \end{aligned}\]
 
 \end{document}
