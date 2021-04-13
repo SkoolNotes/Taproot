@@ -20,4 +20,5 @@
     \lVert u+v \rVert \leq \lVert u \rVert + \lVert v \rVert
 	\end{aligned}\]
 
+	The inequality is an equality if and only if one of $u, v$ is a non-negative multiple of the other (degenerate triangle)
 	#+end_quote
