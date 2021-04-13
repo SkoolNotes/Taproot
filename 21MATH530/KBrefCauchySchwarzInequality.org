@@ -23,3 +23,10 @@
 	The inequality is an equality if and only if one of $u, v$ is a non-negative multiple of the other (degenerate triangle)
 	#+end_quote
 *** Parallelogram Equality
+	#+begin_quote
+	Suppose $u, v \in V$. Then
+	\[\begin{aligned}
+    \lVert u+v \rVert^2 + \lVert u-v \rVert^2 = 2(\lVert u \rVert^2 + \lVert v \rVert^2)
+	\end{aligned}\]
+
+	#+end_quote
