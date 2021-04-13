@@ -19,5 +19,6 @@
   #+end_quote
 * properties
 ** $\lVert v \rVert = 0 \iff  v=0$
+** $\lVert \lambda v \rVert = |\lambda | \lVert v \rVert$ for all $\lambda \in  \FF$
 * aka euclidean distance
 * not linear, so we use the [[file:KBrefDotProduct.org][dot product]] to 'inject linearity'

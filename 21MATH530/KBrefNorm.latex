@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11059)}}    % original
-%\rhead{\textrmlf{Compiled }\#11059\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11060)}}    % original
+%\rhead{\textrmlf{Compiled }\#11060\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -211,6 +211,11 @@ is defined by \[\begin{aligned}
 
 \hypertarget{lvert-v-rvert-0-iff-v0}{%
 \subsection{\texorpdfstring{\(\lVert v \rVert = 0 \iff  v=0\)}{\textbackslash lVert v \textbackslash rVert = 0 \textbackslash iff  v=0}}\label{lvert-v-rvert-0-iff-v0}}
+
+\hypertarget{lvert-lambda-v-rvert-lambda-lvert-v-rvert-for-all-lambda-in-ff}{%
+\subsection{\texorpdfstring{\(\lVert \lambda v \rVert = |\lambda | \lVert v \rVert\)
+for all
+\(\lambda \in  \FF\)}{\textbackslash lVert \textbackslash lambda v \textbackslash rVert = \textbar\textbackslash lambda \textbar{} \textbackslash lVert v \textbackslash rVert for all \textbackslash lambda \textbackslash in  \textbackslash FF}}\label{lvert-lambda-v-rvert-lambda-lvert-v-rvert-for-all-lambda-in-ff}}
 
 \hypertarget{aka-euclidean-distance}{%
 \section{aka euclidean distance}\label{aka-euclidean-distance}}
