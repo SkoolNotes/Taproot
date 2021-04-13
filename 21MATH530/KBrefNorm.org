@@ -1,3 +1,11 @@
 #+TITLE: Norm
 #+context: linear algebra
 * norm, $\lVert x \rVert$                                               :def:
+
+  #+begin_quote
+  For some $x \in \RR ^n$,
+  \[\begin{aligned}
+  \lVert x \rVert =\sqrt{x_1^2 + \cdots + x_n^2}
+  \end{aligned}\]
+
+  #+end_quote
