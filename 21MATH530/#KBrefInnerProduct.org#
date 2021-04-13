@@ -1,9 +1,0 @@
-#+TITLE: Inner Product
-#+context: linear algebra
-* inner product                                                         :def:
-* motivation
-** The norm of a complex number $\lVert z \rVert$ should be non-negative, so we can define it as
-   \[\begin{aligned}
-   \lVert z \rVert =\sqrt{|z_1|^2 + \cdots + |z_n| ^2}
-   \end{aligned}\]
-   Since the square of the absolute value is just a complex number times a conjugate, and because 

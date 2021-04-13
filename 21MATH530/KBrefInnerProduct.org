@@ -6,4 +6,7 @@
    \[\begin{aligned}
    \lVert z \rVert =\sqrt{|z_1|^2 + \cdots + |z_n| ^2}
    \end{aligned}\]
-   Since the square of the absolute value is just a complex number times a conjugate,
+   Since the square of the absolute value is just a complex number times a conjugate, and because the norm squared should be the inner product of $z$ with itself, maybe the inner product of $w, z \in  \CC ^n$ should equal
+   \[\begin{aligned}
+   w_1 \overline{z_1} + \cdots + w_n \overline{z_n}
+   \end{aligned}\]

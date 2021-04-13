@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11027)}}    % original
-%\rhead{\textrmlf{Compiled }\#11027\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11029)}}    % original
+%\rhead{\textrmlf{Compiled }\#11029\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -200,6 +200,10 @@ as}{The norm of a complex number \textbackslash lVert z \textbackslash rVert sho
 \[\begin{aligned}
    \lVert z \rVert =\sqrt{|z_1|^2 + \cdots + |z_n| ^2}
    \end{aligned}\] Since the square of the absolute value is just a
-complex number times a conjugate,
+complex number times a conjugate, and because the norm squared should be
+the inner product of \(z\) with itself, maybe the inner product of
+\(w, z \in  \CC ^n\) should equal \[\begin{aligned}
+   w_1 \overline{z_1} + \cdots + w_n \overline{z_n}
+   \end{aligned}\]
 
 \end{document}
