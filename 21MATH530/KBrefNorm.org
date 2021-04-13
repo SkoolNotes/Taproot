@@ -2,6 +2,7 @@
 #+context: linear algebra
 * norm, $\lVert x \rVert$                                               :def:
 
+
   #+begin_quote
   For some $x \in \RR ^n$,
   \[\begin{aligned}
@@ -16,5 +17,6 @@
   \lVert v \rVert =\sqrt{\langle v, v \rangle}
   \end{aligned}\]
   #+end_quote
+* properties
 * aka euclidean distance
 * not linear, so we use the [[file:KBrefDotProduct.org][dot product]] to 'inject linearity'
