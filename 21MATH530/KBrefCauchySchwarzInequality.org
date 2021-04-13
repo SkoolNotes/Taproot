@@ -5,7 +5,8 @@
   #+begin_quote
   Suppose $u, v \in V$ (where $V$ is an inner product space). Then
   \[\begin{aligned}
-  |\langle u, v \rangle |
+  \vert \langle u, v \rangle \vert \leq \lVert u \rVert \lVert v \rVert
   \end{aligned}\]
 
+  The inequality is an equality iff one of $u, v$ is a scalar multiple of the other.
   #+end_quote

@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11083)}}    % original
-%\rhead{\textrmlf{Compiled }\#11083\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11084)}}    % original
+%\rhead{\textrmlf{Compiled }\#11084\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -194,8 +194,11 @@
 \begin{quote}
 Suppose \(u, v \in V\) (where \(V\) is an inner product space). Then
 \[\begin{aligned}
-|\langle u, v \rangle |
+\vert \langle u, v \rangle \vert \leq \lVert u \rVert \lVert v \rVert
 \end{aligned}\]
+
+The inequality is an equality iff one of \(u, v\) is a scalar multiple
+of the other.
 \end{quote}
 
 \end{document}
