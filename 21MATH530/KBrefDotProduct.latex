@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11013)}}    % original
-%\rhead{\textrmlf{Compiled }\#11013\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11014)}}    % original
+%\rhead{\textrmlf{Compiled }\#11014\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -190,7 +190,12 @@
 {\textsc{def}}}{dot product def}}\label{dot-product-1}}
 
 \begin{quote}
-For \(x, y \in \RR ^n\),
+For \(x, y \in \RR ^n\), the \emph{dot product} of \(x\) and \(y\),
+denoted \(x \cdot y\), is defined by
+
+\[\begin{aligned}
+x\cdot y = x_1 y_1 + \cdots + x_n y_n
+\end{aligned}\]
 \end{quote}
 
 \end{document}
