@@ -14,6 +14,7 @@
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
+\usepackage{setspace}
 
 \usepackage{graphicx}
 \usepackage{xesearch}
@@ -21,6 +22,7 @@
 
 \usepackage{lastpage}
 
+\usepackage{physics}
 \usepackage{siunitx}
 \sisetup{per-mode=symbol}
 
@@ -89,14 +91,6 @@
   ItalicFont     = HelveticaNeue-LightItalic,
   BoldFont       = HelveticaNeue-UltraLight,
   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
-% \setmainfont[
-%    ItalicFont     = Iosevka-Aile-Italic,
-%    BoldFont       = Iosevka-Aile-Bold,
-%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
-% \newfontfamily\NHLight[
-%    ItalicFont     = Iosevka-Aile-Light-Italic,
-%    BoldFont       = Iosevka-Aile-Light,
-%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -141,14 +135,11 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10329)}}    % original
-%\rhead{\textrmlf{Compiled }\#10329\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11102)}}    % original
+%\rhead{\textrmlf{Compiled }\#11102\textrmlf{ on} \today }      % old date
 \rhead{
-    \textrmlf{Compiled }
-  \#10329
-  \textrmlf{ on}
-      \today
-  }       % new date
+    \today
+    }       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
@@ -243,5 +234,8 @@ Medium Blog Post}}{FFT Medium Blog Post}}\label{fft-medium-blog-post}}
 \subsection{\texorpdfstring{\href{https://en.wikipedia.org/wiki/Sch\%C3\%B6nhage\%E2\%80\%93Strassen_algorithm}{wikipedia
 on schonhage-strassen (multiplication
 algo)}}{wikipedia on schonhage-strassen (multiplication algo)}}\label{wikipedia-on-schonhage-strassen-multiplication-algo}}
+
+\hypertarget{uses-of-fft}{%
+\section{uses of FFT}\label{uses-of-fft}}
 
 \end{document}
