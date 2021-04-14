@@ -11,3 +11,5 @@
 ** [[https://medium.com/@aiswaryamathur/understanding-fast-fourier-transform-from-scratch-to-solve-polynomial-multiplication-8018d511162f][FFT Medium Blog Post]]
 ** [[https://en.wikipedia.org/wiki/Sch%C3%B6nhage%E2%80%93Strassen_algorithm][wikipedia on schonhage-strassen (multiplication algo)]]
 * uses of FFT
+** convert mixed signals into constituent sinusoids
+** multiply polynomials using convolution theorem
