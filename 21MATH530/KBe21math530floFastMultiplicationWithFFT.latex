@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11106)}}    % original
-%\rhead{\textrmlf{Compiled }\#11106\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11107)}}    % original
+%\rhead{\textrmlf{Compiled }\#11107\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -254,7 +254,9 @@ dimensionality}\label{reduce-matrix-dimensionality}}
 \subsection{audio processing (eg. bass boost, or radio denoising for eg.
 wifi)}\label{audio-processing-eg.-bass-boost-or-radio-denoising-for-eg.-wifi}}
 
-\hypertarget{mri-machines}{%
-\subsection{MRI machines?}\label{mri-machines}}
+\hypertarget{mri-machines-scan-certain-parts-using-different-overlapping-sinusoidal-magnitudes-of-magnetic-field}{%
+\subsection{MRI machines? scan certain parts using different overlapping
+sinusoidal magnitudes of magnetic
+field}\label{mri-machines-scan-certain-parts-using-different-overlapping-sinusoidal-magnitudes-of-magnetic-field}}
 
 \end{document}
