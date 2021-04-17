@@ -21,7 +21,7 @@
 *** the fourier transform graph says something about correlation
 **** eg. for a pure signal (sine 5Hz), a winding frequency of $\xi=5.01$ will come out pretty high on the almost-fourier-transform graph, aka it is closely correlated
 **** since the actual fourier transform isn't divided by signal length, longer signals will lead to higher (and steeper) peaks
-**** these steeper peaks represent more certainty
+**** these steeper peaks represent more certainty, and a shorter signal means fewer cycles means the signal has less time to balance itself out means the almost-fourier-transform will have shallower and wider peak means less certainty
 * 3b1b video [[https://www.youtube.com/watch?v=spUNpyF58BY]]
 ** unmixing waves
 *** the added up ones seem needlessly complex for such a little amount of info

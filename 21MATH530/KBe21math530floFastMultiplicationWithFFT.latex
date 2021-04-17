@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11153)}}    % original
-%\rhead{\textrmlf{Compiled }\#11153\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11155)}}    % original
+%\rhead{\textrmlf{Compiled }\#11155\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -281,7 +281,10 @@ correlation}\label{the-fourier-transform-graph-says-something-about-correlation}
   since the actual fourier transform isn't divided by signal length,
   longer signals will lead to higher (and steeper) peaks
 \item
-  these steeper peaks
+  these steeper peaks represent more certainty, and a shorter signal
+  means fewer cycles means the signal has less time to balance itself
+  out means the almost-fourier-transform will have shallower and wider
+  peak means less certainty
 \end{enumerate}
 
 \hypertarget{b1b-video-httpswww.youtube.comwatchvspunpyf58by}{%
