@@ -107,3 +107,4 @@
 *** a problem: we need to choose positive/negative pairs but since the recursed ones are squared, then everything will be positive
 **** how to solve this problem... work over the complex numbers!
 **** now what initial points do we want to choose... an example shows that it should be $x^n = 1$ for a fourth degree polynomial
+**** so we want roots of unity, for some $n \leq d+1$ and $n = 2^k$

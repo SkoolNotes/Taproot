@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11180)}}    % original
-%\rhead{\textrmlf{Compiled }\#11180\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11181)}}    % original
+%\rhead{\textrmlf{Compiled }\#11181\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -546,6 +546,8 @@ positive}\label{a-problem-we-need-to-choose-positivenegative-pairs-but-since-the
 \item
   now what initial points do we want to choose\ldots{} an example shows
   that it should be \(x^n = 1\) for a fourth degree polynomial
+\item
+  so we want roots of unity, for some \(n \leq d+1\) and \(n = 2^k\)
 \end{enumerate}
 
 \end{document}
