@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11178)}}    % original
-%\rhead{\textrmlf{Compiled }\#11178\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11179)}}    % original
+%\rhead{\textrmlf{Compiled }\#11179\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -544,7 +544,7 @@ positive}\label{a-problem-we-need-to-choose-positivenegative-pairs-but-since-the
 \item
   how to solve this problem\ldots{} work over the complex numbers!
 \item
-  now what initial points do we want to choose\ldots{}
+  now what initial points do we want to choose\ldots{} an example shows
 \end{enumerate}
 
 \end{document}
