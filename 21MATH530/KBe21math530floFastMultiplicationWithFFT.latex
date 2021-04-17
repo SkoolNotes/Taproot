@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11162)}}    % original
-%\rhead{\textrmlf{Compiled }\#11162\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11163)}}    % original
+%\rhead{\textrmlf{Compiled }\#11163\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -452,5 +452,13 @@ change the frequency: \[\begin{aligned}
   This means that when a frequency persists for a long time, it gets
   scaled more
 \end{enumerate}
+
+\hypertarget{reducible-on-fft}{%
+\section{\texorpdfstring{\href{https://www.youtube.com/watch?v=h7apO7q16V0}{Reducible
+on FFT}}{Reducible on FFT}}\label{reducible-on-fft}}
+
+\hypertarget{intro-its-important-and-beautiful}{%
+\subsection{intro: its important and
+beautiful}\label{intro-its-important-and-beautiful}}
 
 \end{document}
