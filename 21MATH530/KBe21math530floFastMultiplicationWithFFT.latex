@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11168)}}    % original
-%\rhead{\textrmlf{Compiled }\#11168\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11169)}}    % original
+%\rhead{\textrmlf{Compiled }\#11169\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -485,10 +485,11 @@ representation}\label{another-option-two-point-representation}}
   its a bijection, lets call it the value representation
 \end{enumerate}
 
-\hypertarget{now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-the-five-points-to-get-five-points-on-the-product-polynomial-and-then}{%
-\subsubsection{now to multiply, we can just take enough points on each
-polynomial and multiply the five points to get five points on the
-product polynomial, and
-then}\label{now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-the-five-points-to-get-five-points-on-the-product-polynomial-and-then}}
+\hypertarget{now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-those-points-to-get-n_1-n_2-1-points-on-the-product-polynomial-and-then-solve-for-the-actual-equation}{%
+\subsubsection{\texorpdfstring{now to multiply, we can just take enough
+points on each polynomial and multiply those points to get
+\(n_1 + n_2 + 1\) points on the product polynomial, and then solve for
+the actual
+equation}{now to multiply, we can just take enough points on each polynomial and multiply those points to get n\_1 + n\_2 + 1 points on the product polynomial, and then solve for the actual equation}}\label{now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-those-points-to-get-n_1-n_2-1-points-on-the-product-polynomial-and-then-solve-for-the-actual-equation}}
 
 \end{document}
