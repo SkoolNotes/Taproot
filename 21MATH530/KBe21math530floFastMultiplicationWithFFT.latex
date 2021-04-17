@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11155)}}    % original
-%\rhead{\textrmlf{Compiled }\#11155\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11157)}}    % original
+%\rhead{\textrmlf{Compiled }\#11157\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -285,6 +285,9 @@ correlation}\label{the-fourier-transform-graph-says-something-about-correlation}
   means fewer cycles means the signal has less time to balance itself
   out means the almost-fourier-transform will have shallower and wider
   peak means less certainty
+\item
+  can also use the norm of the fourier transform (to capture both x and
+  y bc complex)
 \end{enumerate}
 
 \hypertarget{b1b-video-httpswww.youtube.comwatchvspunpyf58by}{%
