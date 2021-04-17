@@ -131,11 +131,11 @@ html {
                    \end{aligned}\]</span></p></li>
             <li><p>tracking ’center of mass’: sample points and average them</p>
             <p>if <span class="math inline">\(N\)</span> is the number of points that you sample and <span class="math inline">\(t_k\)</span> is the k-th sampled point, <span class="math display">\[\begin{aligned}
-                  \sum_{i=1}^{N} g(t_k) e^{-2\pi i f t_k}
+                  \frac{1}{N}\sum_{i=1}^{N} g(t_k) e^{-2\pi i f t_k}
                    \end{aligned}\]</span></p></li>
             <li><p>and if we want a more accurate sample, just take the limit to infinity</p>
             <p><span class="math display">\[\begin{aligned}
-                  \lim_{N \to\infty }
+                  \lim_{N \to\infty }\frac{1}{N} \sum_{i=1}^{N} g(t_k) e^{-2\pi i f t_k}
                    \end{aligned}\]</span></p></li>
             </ol>
         </div>

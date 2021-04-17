@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11139)}}    % original
-%\rhead{\textrmlf{Compiled }\#11139\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11140)}}    % original
+%\rhead{\textrmlf{Compiled }\#11140\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -381,13 +381,13 @@ change the frequency: \[\begin{aligned}
 
   if \(N\) is the number of points that you sample and \(t_k\) is the
   k-th sampled point, \[\begin{aligned}
-      \sum_{i=1}^{N} g(t_k) e^{-2\pi i f t_k}
+      \frac{1}{N}\sum_{i=1}^{N} g(t_k) e^{-2\pi i f t_k}
        \end{aligned}\]
 \item
   and if we want a more accurate sample, just take the limit to infinity
 
   \[\begin{aligned}
-      \lim_{N \to\infty }
+      \lim_{N \to\infty }\frac{1}{N} \sum_{i=1}^{N} g(t_k) e^{-2\pi i f t_k}
        \end{aligned}\]
 \end{enumerate}
 

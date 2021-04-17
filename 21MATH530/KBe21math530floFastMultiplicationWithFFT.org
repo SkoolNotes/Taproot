@@ -58,10 +58,10 @@
 
 	 if $N$ is the number of points that you sample and $t_k$ is the k-th sampled point,
 	 \[\begin{aligned}
-	\sum_{i=1}^{N} g(t_k) e^{-2\pi i f t_k}
+	\frac{1}{N}\sum_{i=1}^{N} g(t_k) e^{-2\pi i f t_k}
 	 \end{aligned}\]
 **** and if we want a more accurate sample, just take the limit to infinity
 
 	 \[\begin{aligned}
-    \lim_{N \to\infty }
+    \lim_{N \to\infty }\frac{1}{N} \sum_{i=1}^{N} g(t_k) e^{-2\pi i f t_k}
 	 \end{aligned}\]
