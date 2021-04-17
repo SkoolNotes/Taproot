@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11116)}}    % original
-%\rhead{\textrmlf{Compiled }\#11116\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11118)}}    % original
+%\rhead{\textrmlf{Compiled }\#11118\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -306,5 +306,17 @@ frequency}\label{center-of-mass-as-a-function-of-the-winding-frequency}}
   frequency of zero is high, and then it wobbles for a while until a
   frequency matches
 \end{enumerate}
+
+\hypertarget{central-construct}{%
+\subsection{central construct}\label{central-construct}}
+
+\hypertarget{original-plot}{%
+\subsubsection{original plot}\label{original-plot}}
+
+\hypertarget{winding-chart}{%
+\subsubsection{winding chart}\label{winding-chart}}
+
+\hypertarget{center-of-mass-plot}{%
+\subsubsection{center-of-mass plot}\label{center-of-mass-plot}}
 
 \end{document}
