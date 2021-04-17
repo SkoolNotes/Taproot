@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11169)}}    % original
-%\rhead{\textrmlf{Compiled }\#11169\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11170)}}    % original
+%\rhead{\textrmlf{Compiled }\#11170\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -491,5 +491,13 @@ points on each polynomial and multiply those points to get
 \(n_1 + n_2 + 1\) points on the product polynomial, and then solve for
 the actual
 equation}{now to multiply, we can just take enough points on each polynomial and multiply those points to get n\_1 + n\_2 + 1 points on the product polynomial, and then solve for the actual equation}}\label{now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-those-points-to-get-n_1-n_2-1-points-on-the-product-polynomial-and-then-solve-for-the-actual-equation}}
+
+\hypertarget{only-od-operations}{%
+\subsubsection{only O(d) operations}\label{only-od-operations}}
+
+\hypertarget{now-we-need-a-function-take-coefficients-to-values-and-values-to-coefficients}{%
+\subsubsection{now, we need a function take coefficients to values and
+values to
+coefficients}\label{now-we-need-a-function-take-coefficients-to-values-and-values-to-coefficients}}
 
 \end{document}
