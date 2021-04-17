@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11124)}}    % original
-%\rhead{\textrmlf{Compiled }\#11124\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11125)}}    % original
+%\rhead{\textrmlf{Compiled }\#11125\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -337,5 +337,10 @@ transform'}\label{he-calls-this-the-almost-fourier-transform}}
 or you can take the sum first and you will get the same center-of-mass
 plot
 out}\label{additive-you-can-take-the-almost-fourier-transform-first-or-you-can-take-the-sum-first-and-you-will-get-the-same-center-of-mass-plot-out}}
+
+\begin{enumerate}
+\item
+  pause and ponder: multiple arrows going around the circle, tip to tail
+\end{enumerate}
 
 \end{document}
