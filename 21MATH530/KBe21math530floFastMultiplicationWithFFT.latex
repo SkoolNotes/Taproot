@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11183)}}    % original
-%\rhead{\textrmlf{Compiled }\#11183\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11185)}}    % original
+%\rhead{\textrmlf{Compiled }\#11185\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -553,6 +553,12 @@ positive}\label{a-problem-we-need-to-choose-positivenegative-pairs-but-since-the
 
   \[\begin{aligned}
        \omega = e^{\frac{2\pi i}{n}}
+       \end{aligned}\]
+
+  Then each root of unity can be expressed as a power of \(\omega\)
+
+  evaluate P(x) at \[\begin{aligned}
+       [1, \omega , \omega ^2, \ldots, \omega ^{n-1}]
        \end{aligned}\]
 \end{enumerate}
 
