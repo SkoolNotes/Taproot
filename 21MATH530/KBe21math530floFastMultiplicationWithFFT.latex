@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11160)}}    % original
-%\rhead{\textrmlf{Compiled }\#11160\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11161)}}    % original
+%\rhead{\textrmlf{Compiled }\#11161\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -297,6 +297,13 @@ complex)}\label{can-also-use-the-norm-of-the-fourier-transform-to-capture-both-x
 position normally and velocity using Doppler shift), this trade off the
 uncertainty principle shows
 up}\label{when-using-doppler-radar-in-which-a-single-pulse-detects-position-normally-and-velocity-using-doppler-shift-this-trade-off-the-uncertainty-principle-shows-up}}
+
+\begin{enumerate}
+\item
+  since longer radar pulse introduce distance uncertainty and shorter
+  radar pulses have the frequency uncertainty implied by the fourier
+  transform as correlation above
+\end{enumerate}
 
 \hypertarget{b1b-video-httpswww.youtube.comwatchvspunpyf58by}{%
 \section{\texorpdfstring{3b1b video
