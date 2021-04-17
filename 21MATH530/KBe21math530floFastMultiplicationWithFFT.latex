@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11173)}}    % original
-%\rhead{\textrmlf{Compiled }\#11173\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11174)}}    % original
+%\rhead{\textrmlf{Compiled }\#11174\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -517,7 +517,11 @@ better}{naive: evaluating each point takes O(d) operations which means the total
   suppose \(f(x) = x^2\), then picking points that are symmetric (bc
   even function) means you only have to evaluate half of them
 \item
-  can also do something similar for odd functions.
+  can also do something similar for odd functions. so when you split a
+  general polynomial into even terms and odd terms, then we can just
+  eval each and get double the results
+\item
+  he calls them \(P_e(x^2)\) and \(P_o(x^2)\)
 \end{enumerate}
 
 \end{document}

@@ -100,4 +100,5 @@
 *** naive: evaluating each point takes O(d) operations which means the total eval will be $d^2$, which is no better
 *** simpler problem
 **** suppose $f(x) = x^2$, then picking points that are symmetric (bc even function) means you only have to evaluate half of them
-**** can also do something similar for odd functions.
+**** can also do something similar for odd functions. so when you split a general polynomial into even terms and odd terms, then we can just eval each and get double the results
+**** he calls them $P_e(x^2)$ and $P_o(x^2)$
