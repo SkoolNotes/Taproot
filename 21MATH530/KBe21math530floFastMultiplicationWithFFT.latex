@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11142)}}    % original
-%\rhead{\textrmlf{Compiled }\#11142\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11143)}}    % original
+%\rhead{\textrmlf{Compiled }\#11143\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -391,6 +391,12 @@ change the frequency: \[\begin{aligned}
        \end{aligned}\]
 \item
   which is really the same as taking the integral
+
+  \[\begin{aligned}
+       \frac{1}{t_2-t_1}\int_{t_1}^{t_2} g(t) e^{-2\pi ift} dt
+       \end{aligned}\]
+\item
+  but we don't actually need to divide by the time interval
 
   \[\begin{aligned}
        \frac{1}{t_2-t_1}\int_{t_1}^{t_2} g(t) e^{-2\pi ift} dt

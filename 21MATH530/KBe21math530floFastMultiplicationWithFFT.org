@@ -70,3 +70,8 @@
 	 \[\begin{aligned}
      \frac{1}{t_2-t_1}\int_{t_1}^{t_2} g(t) e^{-2\pi ift} dt
 	 \end{aligned}\]
+**** but we don't actually need to divide by the time interval
+
+	 \[\begin{aligned}
+     \frac{1}{t_2-t_1}\int_{t_1}^{t_2} g(t) e^{-2\pi ift} dt
+	 \end{aligned}\]
