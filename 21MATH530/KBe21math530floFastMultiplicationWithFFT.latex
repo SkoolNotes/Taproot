@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11120)}}    % original
-%\rhead{\textrmlf{Compiled }\#11120\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11121)}}    % original
+%\rhead{\textrmlf{Compiled }\#11121\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -321,5 +321,11 @@ frequency)}\label{winding-chart-wound-signal-signal-winding-frequency}}
 \hypertarget{center-of-mass-plot-x-coord-winding-frequency}{%
 \subsubsection{center-of-mass plot (x coord \textbar{} winding
 frequency)}\label{center-of-mass-plot-x-coord-winding-frequency}}
+
+\begin{enumerate}
+\item
+  the spike at zero only happens because the original freq doesn't
+  oscillate about zero
+\end{enumerate}
 
 \end{document}
