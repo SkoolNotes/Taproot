@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11151)}}    % original
-%\rhead{\textrmlf{Compiled }\#11151\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11153)}}    % original
+%\rhead{\textrmlf{Compiled }\#11153\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -277,8 +277,11 @@ correlation}\label{the-fourier-transform-graph-says-something-about-correlation}
   eg. for a pure signal (sine 5Hz), a winding frequency of \(\xi=5.01\)
   will come out pretty high on the almost-fourier-transform graph, aka
   it is closely correlated
-
-  \textbf{**}
+\item
+  since the actual fourier transform isn't divided by signal length,
+  longer signals will lead to higher (and steeper) peaks
+\item
+  these steeper peaks
 \end{enumerate}
 
 \hypertarget{b1b-video-httpswww.youtube.comwatchvspunpyf58by}{%
