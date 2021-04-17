@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11125)}}    % original
-%\rhead{\textrmlf{Compiled }\#11125\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11126)}}    % original
+%\rhead{\textrmlf{Compiled }\#11126\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -342,5 +342,9 @@ out}\label{additive-you-can-take-the-almost-fourier-transform-first-or-you-can-t
 \item
   pause and ponder: multiple arrows going around the circle, tip to tail
 \end{enumerate}
+
+\hypertarget{formalizing-the-center-of-mass}{%
+\subsection{formalizing the 'center of
+mass'}\label{formalizing-the-center-of-mass}}
 
 \end{document}
