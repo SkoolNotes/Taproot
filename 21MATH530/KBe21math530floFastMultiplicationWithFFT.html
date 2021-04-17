@@ -170,7 +170,7 @@ html {
             <li><p>proof: write as a system of equations, matrixify, and we know that the matrix will be invertible</p></li>
             <li><p>its a bijection, lets call it the value representation</p></li>
             </ol>
-            <h3 id="now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-those-points-to-get-n_1-n_2-1-points-on-the-product-polynomial-and-then-solve-for-the-actual-equation">now to multiply, we can just take enough points on each polynomial and multiply those points to get <span class="math inline">\(n_1 + n_2 + 1\)</span> points on the product polynomial, and then solve for the actual equation</h3>
+            <h3 id="now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-those-points-to-get-d_1-d_2-1-points-on-the-product-polynomial-and-then-solve-for-the-actual-equation">now to multiply, we can just take enough points on each polynomial and multiply those points to get <span class="math inline">\(d_1 + d_2 + 1\)</span> points on the product polynomial, and then solve for the actual equation</h3>
             <h3 id="only-od-operations">only O(d) operations</h3>
             <h3 id="now-we-need-a-function-take-coefficients-to-values-and-values-to-coefficients-this-box-is-the-fast-fourier-transform">now, we need a function take coefficients to values and values to coefficients, this box is the fast fourier transform</h3>
             <h2 id="forward-direction-evaluation">forward direction: evaluation</h2>
@@ -190,6 +190,10 @@ html {
             <li><p>how to solve this problem… work over the complex numbers!</p></li>
             <li><p>now what initial points do we want to choose… an example shows that it should be <span class="math inline">\(x^n = 1\)</span> for a fourth degree polynomial</p></li>
             <li><p>so we want roots of unity, for some <span class="math inline">\(n \leq d+1\)</span> and <span class="math inline">\(n = 2^k\)</span></p></li>
+            <li><p>how to write it:</p>
+            <p><span class="math display">\[\begin{aligned}
+                   \omega = e^{\frac{2\pi i}{n}}
+                   \end{aligned}\]</span></p></li>
             </ol>
         </div>
 

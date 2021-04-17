@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11181)}}    % original
-%\rhead{\textrmlf{Compiled }\#11181\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11183)}}    % original
+%\rhead{\textrmlf{Compiled }\#11183\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -485,12 +485,12 @@ representation}\label{another-option-two-point-representation}}
   its a bijection, lets call it the value representation
 \end{enumerate}
 
-\hypertarget{now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-those-points-to-get-n_1-n_2-1-points-on-the-product-polynomial-and-then-solve-for-the-actual-equation}{%
+\hypertarget{now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-those-points-to-get-d_1-d_2-1-points-on-the-product-polynomial-and-then-solve-for-the-actual-equation}{%
 \subsubsection{\texorpdfstring{now to multiply, we can just take enough
 points on each polynomial and multiply those points to get
-\(n_1 + n_2 + 1\) points on the product polynomial, and then solve for
+\(d_1 + d_2 + 1\) points on the product polynomial, and then solve for
 the actual
-equation}{now to multiply, we can just take enough points on each polynomial and multiply those points to get n\_1 + n\_2 + 1 points on the product polynomial, and then solve for the actual equation}}\label{now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-those-points-to-get-n_1-n_2-1-points-on-the-product-polynomial-and-then-solve-for-the-actual-equation}}
+equation}{now to multiply, we can just take enough points on each polynomial and multiply those points to get d\_1 + d\_2 + 1 points on the product polynomial, and then solve for the actual equation}}\label{now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-those-points-to-get-d_1-d_2-1-points-on-the-product-polynomial-and-then-solve-for-the-actual-equation}}
 
 \hypertarget{only-od-operations}{%
 \subsubsection{only O(d) operations}\label{only-od-operations}}
@@ -548,6 +548,12 @@ positive}\label{a-problem-we-need-to-choose-positivenegative-pairs-but-since-the
   that it should be \(x^n = 1\) for a fourth degree polynomial
 \item
   so we want roots of unity, for some \(n \leq d+1\) and \(n = 2^k\)
+\item
+  how to write it:
+
+  \[\begin{aligned}
+       \omega = e^{\frac{2\pi i}{n}}
+       \end{aligned}\]
 \end{enumerate}
 
 \end{document}
