@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11172)}}    % original
-%\rhead{\textrmlf{Compiled }\#11172\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11173)}}    % original
+%\rhead{\textrmlf{Compiled }\#11173\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -511,5 +511,13 @@ better}{naive: evaluating each point takes O(d) operations which means the total
 
 \hypertarget{simpler-problem}{%
 \subsubsection{simpler problem}\label{simpler-problem}}
+
+\begin{enumerate}
+\item
+  suppose \(f(x) = x^2\), then picking points that are symmetric (bc
+  even function) means you only have to evaluate half of them
+\item
+  can also do something similar for odd functions.
+\end{enumerate}
 
 \end{document}

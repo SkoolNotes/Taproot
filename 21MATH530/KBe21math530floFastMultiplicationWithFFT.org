@@ -99,3 +99,5 @@
 ** forward direction: evaluation
 *** naive: evaluating each point takes O(d) operations which means the total eval will be $d^2$, which is no better
 *** simpler problem
+**** suppose $f(x) = x^2$, then picking points that are symmetric (bc even function) means you only have to evaluate half of them
+**** can also do something similar for odd functions.
