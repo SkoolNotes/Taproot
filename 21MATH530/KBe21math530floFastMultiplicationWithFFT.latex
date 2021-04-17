@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11132)}}    % original
-%\rhead{\textrmlf{Compiled }\#11132\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11133)}}    % original
+%\rhead{\textrmlf{Compiled }\#11133\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -370,7 +370,12 @@ change the frequency: \[\begin{aligned}
        e^{-2\pi ift}
        \end{aligned}\]
 \item
-  let the original function be called \(g(t)\)
+  let the original function be called \(g(t)\), then scale by that for
+  the 'vector following the original graph magnitude'
+
+  \[\begin{aligned}
+       g(t) e^{-2\pi ift}
+       \end{aligned}\]
 \end{enumerate}
 
 \end{document}

@@ -49,4 +49,8 @@
 	 \[\begin{aligned}
      e^{-2\pi ift}
 	 \end{aligned}\]
-**** let the original function be called $g(t)$
+**** let the original function be called $g(t)$, then scale by that for the 'vector following the original graph magnitude'
+
+	 \[\begin{aligned}
+     g(t) e^{-2\pi ift}
+	 \end{aligned}\]
