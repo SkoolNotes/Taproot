@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11176)}}    % original
-%\rhead{\textrmlf{Compiled }\#11176\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11177)}}    % original
+%\rhead{\textrmlf{Compiled }\#11177\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -529,5 +529,14 @@ better}{naive: evaluating each point takes O(d) operations which means the total
 
 \hypertarget{so-now-we-recurse}{%
 \subsubsection{so now we recurse}\label{so-now-we-recurse}}
+
+\begin{enumerate}
+\item
+  now it will be \(O(n \log  n)\)
+\end{enumerate}
+
+\hypertarget{a-problem-we-need-to-choose-positivenegative-pairs}{%
+\subsubsection{a problem: we need to choose positive/negative
+pairs}\label{a-problem-we-need-to-choose-positivenegative-pairs}}
 
 \end{document}

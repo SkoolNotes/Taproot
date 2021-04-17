@@ -103,3 +103,5 @@
 **** can also do something similar for odd functions. so when you split a general polynomial into even terms and odd terms, then we can just eval each and get double the results
 *** he calls them $P_e(x^2)$ and $P_o(x^2)$, and they are polynomials of $x^2$ so deg 2?? :toexpand:
 *** so now we recurse
+**** now it will be $O(n \log  n)$
+*** a problem: we need to choose positive/negative pairs
