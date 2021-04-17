@@ -92,4 +92,5 @@
 *** another option: two-point representation
 **** extension: any degree $n$ polynomial can be represented by $n+1$ points uniquely
 **** proof: write as a system of equations, matrixify, and we know that the matrix will be invertible
-**** its a bijection
+**** its a bijection, lets call it the value representation
+*** now to multiply, we can just take enough points on each polynomial and multiply the five points to get five points on the product polynomial, and then

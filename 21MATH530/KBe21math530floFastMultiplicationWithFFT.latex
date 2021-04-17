@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11167)}}    % original
-%\rhead{\textrmlf{Compiled }\#11167\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11168)}}    % original
+%\rhead{\textrmlf{Compiled }\#11168\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -482,7 +482,13 @@ representation}\label{another-option-two-point-representation}}
   proof: write as a system of equations, matrixify, and we know that the
   matrix will be invertible
 \item
-  its a bijection
+  its a bijection, lets call it the value representation
 \end{enumerate}
+
+\hypertarget{now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-the-five-points-to-get-five-points-on-the-product-polynomial-and-then}{%
+\subsubsection{now to multiply, we can just take enough points on each
+polynomial and multiply the five points to get five points on the
+product polynomial, and
+then}\label{now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-the-five-points-to-get-five-points-on-the-product-polynomial-and-then}}
 
 \end{document}
