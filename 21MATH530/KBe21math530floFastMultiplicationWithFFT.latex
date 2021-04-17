@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11126)}}    % original
-%\rhead{\textrmlf{Compiled }\#11126\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11128)}}    % original
+%\rhead{\textrmlf{Compiled }\#11128\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -346,5 +346,14 @@ out}\label{additive-you-can-take-the-almost-fourier-transform-first-or-you-can-t
 \hypertarget{formalizing-the-center-of-mass}{%
 \subsection{formalizing the 'center of
 mass'}\label{formalizing-the-center-of-mass}}
+
+\hypertarget{complex-numbers-works-well-for-2d-plane-and-rotation-can-be-described-by}{%
+\subsubsection{complex numbers: works well for 2d plane and rotation can
+be described
+by}\label{complex-numbers-works-well-for-2d-plane-and-rotation-can-be-described-by}}
+
+\[\begin{aligned}
+    e^{2\pi i t}
+    \end{aligned}\]
 
 \end{document}
