@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11175)}}    % original
-%\rhead{\textrmlf{Compiled }\#11175\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11176)}}    % original
+%\rhead{\textrmlf{Compiled }\#11176\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -520,9 +520,14 @@ better}{naive: evaluating each point takes O(d) operations which means the total
   can also do something similar for odd functions. so when you split a
   general polynomial into even terms and odd terms, then we can just
   eval each and get double the results
-\item
-  he calls them \(P_e(x^2)\) and \(P_o(x^2)\), and they are polynomials
-  of \(x^2\) so deg 2?? {\textsc{toexpand}}
 \end{enumerate}
+
+\hypertarget{he-calls-them-p_ex2-and-p_ox2-and-they-are-polynomials-of-x2-so-deg-2}{%
+\subsubsection{\texorpdfstring{he calls them \(P_e(x^2)\) and
+\(P_o(x^2)\), and they are polynomials of \(x^2\) so deg 2??
+{\textsc{toexpand}}}{he calls them P\_e(x\^{}2) and P\_o(x\^{}2), and they are polynomials of x\^{}2 so deg 2?? toexpand}}\label{he-calls-them-p_ex2-and-p_ox2-and-they-are-polynomials-of-x2-so-deg-2}}
+
+\hypertarget{so-now-we-recurse}{%
+\subsubsection{so now we recurse}\label{so-now-we-recurse}}
 
 \end{document}

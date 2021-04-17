@@ -101,4 +101,5 @@
 *** simpler problem
 **** suppose $f(x) = x^2$, then picking points that are symmetric (bc even function) means you only have to evaluate half of them
 **** can also do something similar for odd functions. so when you split a general polynomial into even terms and odd terms, then we can just eval each and get double the results
-**** he calls them $P_e(x^2)$ and $P_o(x^2)$, and they are polynomials of $x^2$ so deg 2?? :toexpand:
+*** he calls them $P_e(x^2)$ and $P_o(x^2)$, and they are polynomials of $x^2$ so deg 2?? :toexpand:
+*** so now we recurse
