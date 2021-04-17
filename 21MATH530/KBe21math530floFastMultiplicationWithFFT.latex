@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11157)}}    % original
-%\rhead{\textrmlf{Compiled }\#11157\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11160)}}    % original
+%\rhead{\textrmlf{Compiled }\#11160\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -285,10 +285,18 @@ correlation}\label{the-fourier-transform-graph-says-something-about-correlation}
   means fewer cycles means the signal has less time to balance itself
   out means the almost-fourier-transform will have shallower and wider
   peak means less certainty
-\item
-  can also use the norm of the fourier transform (to capture both x and
-  y bc complex)
 \end{enumerate}
+
+\hypertarget{can-also-use-the-norm-of-the-fourier-transform-to-capture-both-x-and-y-bc-complex}{%
+\subsubsection{can also use the norm of the fourier transform (to
+capture both x and y bc
+complex)}\label{can-also-use-the-norm-of-the-fourier-transform-to-capture-both-x-and-y-bc-complex}}
+
+\hypertarget{when-using-doppler-radar-in-which-a-single-pulse-detects-position-normally-and-velocity-using-doppler-shift-this-trade-off-the-uncertainty-principle-shows-up}{%
+\subsubsection{when using Doppler radar (in which a single pulse detects
+position normally and velocity using Doppler shift), this trade off the
+uncertainty principle shows
+up}\label{when-using-doppler-radar-in-which-a-single-pulse-detects-position-normally-and-velocity-using-doppler-shift-this-trade-off-the-uncertainty-principle-shows-up}}
 
 \hypertarget{b1b-video-httpswww.youtube.comwatchvspunpyf58by}{%
 \section{\texorpdfstring{3b1b video
