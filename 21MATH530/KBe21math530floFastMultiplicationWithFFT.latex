@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11186)}}    % original
-%\rhead{\textrmlf{Compiled }\#11186\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11187)}}    % original
+%\rhead{\textrmlf{Compiled }\#11187\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -570,6 +570,16 @@ positive}\label{a-problem-we-need-to-choose-positivenegative-pairs-but-since-the
     when squared, the n roots of unity become the n/2 roots of unity,
     which still have points across the circle
   \end{enumerate}
+\end{enumerate}
+
+\hypertarget{recursion-time}{%
+\subsubsection{recursion time}\label{recursion-time}}
+
+\begin{enumerate}
+\item
+  base case: n = 1 -\textgreater{} P(1)
+\item
+  recurse
 \end{enumerate}
 
 \end{document}
