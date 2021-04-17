@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11171)}}    % original
-%\rhead{\textrmlf{Compiled }\#11171\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11172)}}    % original
+%\rhead{\textrmlf{Compiled }\#11172\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -503,5 +503,13 @@ transform}\label{now-we-need-a-function-take-coefficients-to-values-and-values-t
 \hypertarget{forward-direction-evaluation}{%
 \subsection{forward direction:
 evaluation}\label{forward-direction-evaluation}}
+
+\hypertarget{naive-evaluating-each-point-takes-od-operations-which-means-the-total-eval-will-be-d2-which-is-no-better}{%
+\subsubsection{\texorpdfstring{naive: evaluating each point takes O(d)
+operations which means the total eval will be \(d^2\), which is no
+better}{naive: evaluating each point takes O(d) operations which means the total eval will be d\^{}2, which is no better}}\label{naive-evaluating-each-point-takes-od-operations-which-means-the-total-eval-will-be-d2-which-is-no-better}}
+
+\hypertarget{simpler-problem}{%
+\subsubsection{simpler problem}\label{simpler-problem}}
 
 \end{document}
