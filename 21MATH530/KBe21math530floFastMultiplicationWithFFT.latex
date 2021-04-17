@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11131)}}    % original
-%\rhead{\textrmlf{Compiled }\#11131\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11132)}}    % original
+%\rhead{\textrmlf{Compiled }\#11132\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -369,6 +369,8 @@ change the frequency: \[\begin{aligned}
   \[\begin{aligned}
        e^{-2\pi ift}
        \end{aligned}\]
+\item
+  let the original function be called \(g(t)\)
 \end{enumerate}
 
 \end{document}
