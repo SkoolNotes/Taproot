@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11185)}}    % original
-%\rhead{\textrmlf{Compiled }\#11185\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11186)}}    % original
+%\rhead{\textrmlf{Compiled }\#11186\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -560,6 +560,16 @@ positive}\label{a-problem-we-need-to-choose-positivenegative-pairs-but-since-the
   evaluate P(x) at \[\begin{aligned}
        [1, \omega , \omega ^2, \ldots, \omega ^{n-1}]
        \end{aligned}\]
+\item
+  why these
+
+  \begin{enumerate}
+  \item
+    positive-negative paired: the point across the circle is the pair
+  \item
+    when squared, the n roots of unity become the n/2 roots of unity,
+    which still have points across the circle
+  \end{enumerate}
 \end{enumerate}
 
 \end{document}
