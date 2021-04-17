@@ -87,3 +87,5 @@
 	 This means that when a frequency persists for a long time, it gets scaled more
 * [[https://www.youtube.com/watch?v=h7apO7q16V0][Reducible on FFT]]
 ** intro: its important and beautiful
+** start with multiplying polynomials
+*** represent by list of coefficients in ascending order (index = degree of term) (polynomial representation)
