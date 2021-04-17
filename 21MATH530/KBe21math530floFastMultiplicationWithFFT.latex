@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11138)}}    % original
-%\rhead{\textrmlf{Compiled }\#11138\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11139)}}    % original
+%\rhead{\textrmlf{Compiled }\#11139\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -387,7 +387,7 @@ change the frequency: \[\begin{aligned}
   and if we want a more accurate sample, just take the limit to infinity
 
   \[\begin{aligned}
-       lim
+      \lim_{N \to\infty }
        \end{aligned}\]
 \end{enumerate}
 
