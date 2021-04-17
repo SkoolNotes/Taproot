@@ -56,7 +56,8 @@
 	 \end{aligned}\]
 **** tracking 'center of mass': sample points and average them
 
-	 if $N$ is the number of points that you sample,
+	 if $N$ is the number of points that you sample and $t_k$ is the k-th sampled point,
 	 \[\begin{aligned}
-
+	\sum_{i=1}^{N} g(t_k) e^{-2\pi i f t_k}
 	 \end{aligned}\]
+****
