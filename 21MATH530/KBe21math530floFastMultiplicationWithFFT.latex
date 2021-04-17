@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11140)}}    % original
-%\rhead{\textrmlf{Compiled }\#11140\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11141)}}    % original
+%\rhead{\textrmlf{Compiled }\#11141\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -389,6 +389,8 @@ change the frequency: \[\begin{aligned}
   \[\begin{aligned}
       \lim_{N \to\infty }\frac{1}{N} \sum_{i=1}^{N} g(t_k) e^{-2\pi i f t_k}
        \end{aligned}\]
+\item
+  which is really the same as taking the integral
 \end{enumerate}
 
 \end{document}
