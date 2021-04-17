@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11119)}}    % original
-%\rhead{\textrmlf{Compiled }\#11119\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11120)}}    % original
+%\rhead{\textrmlf{Compiled }\#11120\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -310,11 +310,13 @@ frequency}\label{center-of-mass-as-a-function-of-the-winding-frequency}}
 \hypertarget{central-construct}{%
 \subsection{central construct}\label{central-construct}}
 
-\hypertarget{original-plot}{%
-\subsubsection{original plot}\label{original-plot}}
+\hypertarget{original-plot-intensity-time}{%
+\subsubsection{original plot (intensity \textbar{}
+time)}\label{original-plot-intensity-time}}
 
-\hypertarget{winding-chart}{%
-\subsubsection{winding chart}\label{winding-chart}}
+\hypertarget{winding-chart-wound-signal-signal-winding-frequency}{%
+\subsubsection{winding chart (wound signal \textbar{} signal, winding
+frequency)}\label{winding-chart-wound-signal-signal-winding-frequency}}
 
 \hypertarget{center-of-mass-plot-x-coord-winding-frequency}{%
 \subsubsection{center-of-mass plot (x coord \textbar{} winding
