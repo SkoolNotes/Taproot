@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11170)}}    % original
-%\rhead{\textrmlf{Compiled }\#11170\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11171)}}    % original
+%\rhead{\textrmlf{Compiled }\#11171\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -495,9 +495,13 @@ equation}{now to multiply, we can just take enough points on each polynomial and
 \hypertarget{only-od-operations}{%
 \subsubsection{only O(d) operations}\label{only-od-operations}}
 
-\hypertarget{now-we-need-a-function-take-coefficients-to-values-and-values-to-coefficients}{%
+\hypertarget{now-we-need-a-function-take-coefficients-to-values-and-values-to-coefficients-this-box-is-the-fast-fourier-transform}{%
 \subsubsection{now, we need a function take coefficients to values and
-values to
-coefficients}\label{now-we-need-a-function-take-coefficients-to-values-and-values-to-coefficients}}
+values to coefficients, this box is the fast fourier
+transform}\label{now-we-need-a-function-take-coefficients-to-values-and-values-to-coefficients-this-box-is-the-fast-fourier-transform}}
+
+\hypertarget{forward-direction-evaluation}{%
+\subsection{forward direction:
+evaluation}\label{forward-direction-evaluation}}
 
 \end{document}
