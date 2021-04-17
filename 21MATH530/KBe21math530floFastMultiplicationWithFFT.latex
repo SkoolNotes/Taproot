@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11128)}}    % original
-%\rhead{\textrmlf{Compiled }\#11128\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11130)}}    % original
+%\rhead{\textrmlf{Compiled }\#11130\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -354,6 +354,9 @@ by}\label{complex-numbers-works-well-for-2d-plane-and-rotation-can-be-described-
 
 \[\begin{aligned}
     e^{2\pi i t}
+    \end{aligned}\] by multiplying that \(t\) by a scalar, you can
+change the frequency: \[\begin{aligned}
+    e^{2\pi i f t }
     \end{aligned}\]
 
 \end{document}
