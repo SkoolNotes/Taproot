@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11145)}}    % original
-%\rhead{\textrmlf{Compiled }\#11145\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11146)}}    % original
+%\rhead{\textrmlf{Compiled }\#11146\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -266,6 +266,15 @@ decomposition}\label{microscope-or-astronomy-image-decomposition}}
 \hypertarget{connection-to-heisenberg-uncertainty-principle}{%
 \subsection{connection to Heisenberg uncertainty
 principle}\label{connection-to-heisenberg-uncertainty-principle}}
+
+\hypertarget{the-fourier-transform-graph-says-something-about-correlation}{%
+\subsubsection{the fourier transform graph says something about
+correlation}\label{the-fourier-transform-graph-says-something-about-correlation}}
+
+\begin{enumerate}
+\item
+  eg. for a pure signal (sine 5Hz), \(\vareigen\)
+\end{enumerate}
 
 \hypertarget{b1b-video-httpswww.youtube.comwatchvspunpyf58by}{%
 \section{\texorpdfstring{3b1b video
