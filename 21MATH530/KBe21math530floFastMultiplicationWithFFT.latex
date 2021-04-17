@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11130)}}    % original
-%\rhead{\textrmlf{Compiled }\#11130\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11131)}}    % original
+%\rhead{\textrmlf{Compiled }\#11131\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -358,5 +358,17 @@ by}\label{complex-numbers-works-well-for-2d-plane-and-rotation-can-be-described-
 change the frequency: \[\begin{aligned}
     e^{2\pi i f t }
     \end{aligned}\]
+
+\hypertarget{actual-formalization}{%
+\subsubsection{actual formalization}\label{actual-formalization}}
+
+\begin{enumerate}
+\item
+  convention: rotate in clockwise direction
+
+  \[\begin{aligned}
+       e^{-2\pi ift}
+       \end{aligned}\]
+\end{enumerate}
 
 \end{document}
