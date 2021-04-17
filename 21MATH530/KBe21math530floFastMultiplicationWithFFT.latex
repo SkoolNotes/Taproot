@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11177)}}    % original
-%\rhead{\textrmlf{Compiled }\#11177\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11178)}}    % original
+%\rhead{\textrmlf{Compiled }\#11178\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -535,8 +535,16 @@ better}{naive: evaluating each point takes O(d) operations which means the total
   now it will be \(O(n \log  n)\)
 \end{enumerate}
 
-\hypertarget{a-problem-we-need-to-choose-positivenegative-pairs}{%
-\subsubsection{a problem: we need to choose positive/negative
-pairs}\label{a-problem-we-need-to-choose-positivenegative-pairs}}
+\hypertarget{a-problem-we-need-to-choose-positivenegative-pairs-but-since-the-recursed-ones-are-squared-then-everything-will-be-positive}{%
+\subsubsection{a problem: we need to choose positive/negative pairs but
+since the recursed ones are squared, then everything will be
+positive}\label{a-problem-we-need-to-choose-positivenegative-pairs-but-since-the-recursed-ones-are-squared-then-everything-will-be-positive}}
+
+\begin{enumerate}
+\item
+  how to solve this problem\ldots{} work over the complex numbers!
+\item
+  now what initial points do we want to choose\ldots{}
+\end{enumerate}
 
 \end{document}

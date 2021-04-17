@@ -104,4 +104,6 @@
 *** he calls them $P_e(x^2)$ and $P_o(x^2)$, and they are polynomials of $x^2$ so deg 2?? :toexpand:
 *** so now we recurse
 **** now it will be $O(n \log  n)$
-*** a problem: we need to choose positive/negative pairs
+*** a problem: we need to choose positive/negative pairs but since the recursed ones are squared, then everything will be positive
+**** how to solve this problem... work over the complex numbers!
+**** now what initial points do we want to choose...
