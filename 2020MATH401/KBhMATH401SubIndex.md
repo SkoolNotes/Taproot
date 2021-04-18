@@ -15,4 +15,5 @@ source: KBCalculusMasterIndex
 - [[KBhMATH401TaylorSeriesApprox]]
 - [[KBhMATH401SequencesAndSeries]] 
 - [[KBhMATH401SeriesConvergence]]
+- [[KBhMATH401APCalc]]
 
