@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11202)}}    % original
-%\rhead{\textrmlf{Compiled }\#11202\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11203)}}    % original
+%\rhead{\textrmlf{Compiled }\#11203\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -624,6 +624,8 @@ interpolation}\label{backward-direction-interpolation}}
 \item
   after inverting the matrix, you find that each corresponding
   \(\omega\) became \(\frac{1}{n}\omega^{-1}\)
+\item
+  so now we define the inverse fft as just the fft but with new inputs
 \end{enumerate}
 
 \end{document}
