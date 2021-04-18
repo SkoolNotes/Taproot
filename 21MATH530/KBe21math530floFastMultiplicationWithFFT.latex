@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11210)}}    % original
-%\rhead{\textrmlf{Compiled }\#11210\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11211)}}    % original
+%\rhead{\textrmlf{Compiled }\#11211\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -661,5 +661,15 @@ terms}{begin with the DFT (vandermonde) matrix. naive calculation is N\^{}2, sin
 \subsection{\texorpdfstring{spends a bunch of time talking about \(N^2\)
 is way worse than \(N \log  N\), eg.
 \(4KHz \times 10 sec\)}{spends a bunch of time talking about N\^{}2 is way worse than N \textbackslash log  N, eg. 4KHz \textbackslash times 10 sec}}\label{spends-a-bunch-of-time-talking-about-n2-is-way-worse-than-n-log-n-eg.-4khz-times-10-sec}}
+
+\hypertarget{uses}{%
+\subsection{uses}\label{uses}}
+
+\hypertarget{derivatives---partial-differential-equations}{%
+\subsubsection{derivatives -\textgreater{} partial differential
+equations}\label{derivatives---partial-differential-equations}}
+
+\hypertarget{data-de-noising}{%
+\subsubsection{data de-noising}\label{data-de-noising}}
 
 \end{document}

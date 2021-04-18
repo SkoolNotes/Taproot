@@ -146,3 +146,6 @@
 * FFT video by steve brunton
 ** begin with the DFT (vandermonde) matrix. naive calculation is $N^2$, since there are $N^2$ terms
 ** spends a bunch of time talking about $N^2$ is way worse than $N \log  N$, eg. $4KHz \times 10 sec$
+** uses
+*** derivatives -> partial differential equations
+*** data de-noising
