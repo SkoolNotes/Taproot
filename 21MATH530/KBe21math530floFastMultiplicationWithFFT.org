@@ -161,3 +161,8 @@
 	\begin{pmatrix}&&&&&\\&&&&&\\&&&&&\\&&&&&\end{pmatrix}
 	\begin{pmatrix}f_1 \\ f_2\\f_3\\\vdots \\f_n\end{pmatrix}
 	\end{aligned}\]
+
+	For each $1 \leq  k \leq n$,
+	\[\begin{aligned}
+    \hat{f} _k =\sum_{j=0}^{n-1} f_j e^{\frac{-i 2\pi k}{n}}
+	\end{aligned}\]
