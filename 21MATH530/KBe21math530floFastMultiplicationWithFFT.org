@@ -167,3 +167,8 @@
     \hat{f} _k =\sum_{j=0}^{n-1} f_j e^{\frac{-i 2\pi k}{n}}\\
     f _k = \frac{1}{n}\sum_{j=0}^{n-1} \hat{f} _j e^{\frac{i 2\pi k}{n}}\\
 	\end{aligned}\]
+
+	The omegas, he calls 'fundamental frequencies'
+	\[\begin{aligned}
+    \omega _n = e^{-2\pi \frac{i}{n}}
+	\end{aligned}\]
