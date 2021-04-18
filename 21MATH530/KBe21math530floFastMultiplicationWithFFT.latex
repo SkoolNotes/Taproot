@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11225)}}    % original
-%\rhead{\textrmlf{Compiled }\#11225\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11227)}}    % original
+%\rhead{\textrmlf{Compiled }\#11227\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -696,9 +696,9 @@ vector of data
 \subsubsection{what we want}\label{what-we-want}}
 
 \[\begin{aligned}
-    \begin{pmatrix}\hat{f}_1 \\ \hat{f}_2 \\ \hat{f}_3 \\ \vdots \\ \hat{f}_n\end{pmatrix} =
+    \begin{pmatrix}\hat{f}_0 \\ \hat{f}_1 \\ \hat{f}_2 \\ \vdots \\ \hat{f}_{n-1}\end{pmatrix} =
     \begin{pmatrix}&&&&&\\&&&&&\\&&&&&\\&&&&&\\&&&&&\end{pmatrix}
-    \begin{pmatrix}f_1 \\ f_2\\f_3\\\vdots \\f_n\end{pmatrix}
+    \begin{pmatrix}f_0 \\ f_1\\f_2\\\vdots \\f_{n-1}\end{pmatrix}
     \end{aligned}\]
 
 For each \(1 \leq  k \leq n\), \[\begin{aligned}
@@ -715,7 +715,7 @@ The omegas, he calls 'fundamental frequencies' \[\begin{aligned}
 
 \[\begin{aligned}
     \begin{pmatrix}\hat{f}_1 \\ \hat{f}_2 \\ \hat{f}_3 \\ \vdots \\ \hat{f}_n\end{pmatrix} =
-    \begin{pmatrix}&&&&&\\&&&&&\\&&&&&\\&&&&&\end{pmatrix}
+    \begin{pmatrix}1 & 1 & 1 & \cdots & 1\end{pmatrix}
     \begin{pmatrix}f_1 \\ f_2\\f_3\\\vdots \\f_n\end{pmatrix}
     \end{aligned}\]
 

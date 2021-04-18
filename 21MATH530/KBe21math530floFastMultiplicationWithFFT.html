@@ -245,9 +245,9 @@ html {
             <h3 id="discrete-locations---a-vector-of-data-beginpmatrixf_1-f_2-ldots-f_nendpmatrix">discrete locations -&gt; a vector of data <span class="math inline">\(\begin{pmatrix}f_1, f_2, \ldots, f_n\end{pmatrix}\)</span></h3>
             <h3 id="what-we-want">what we want</h3>
             <p><span class="math display">\[\begin{aligned}
-                \begin{pmatrix}\hat{f}_1 \\ \hat{f}_2 \\ \hat{f}_3 \\ \vdots \\ \hat{f}_n\end{pmatrix} =
+                \begin{pmatrix}\hat{f}_0 \\ \hat{f}_1 \\ \hat{f}_2 \\ \vdots \\ \hat{f}_{n-1}\end{pmatrix} =
                 \begin{pmatrix}&amp;&amp;&amp;&amp;&amp;\\&amp;&amp;&amp;&amp;&amp;\\&amp;&amp;&amp;&amp;&amp;\\&amp;&amp;&amp;&amp;&amp;\\&amp;&amp;&amp;&amp;&amp;\end{pmatrix}
-                \begin{pmatrix}f_1 \\ f_2\\f_3\\\vdots \\f_n\end{pmatrix}
+                \begin{pmatrix}f_0 \\ f_1\\f_2\\\vdots \\f_{n-1}\end{pmatrix}
                 \end{aligned}\]</span></p>
             <p>For each <span class="math inline">\(1 \leq  k \leq n\)</span>, <span class="math display">\[\begin{aligned}
                 \hat{f} _k =\sum_{j=0}^{n-1} f_j e^{\frac{-i 2\pi k}{n}}\\
@@ -259,7 +259,7 @@ html {
             <h3 id="now-matrixify">now matrixify</h3>
             <p><span class="math display">\[\begin{aligned}
                 \begin{pmatrix}\hat{f}_1 \\ \hat{f}_2 \\ \hat{f}_3 \\ \vdots \\ \hat{f}_n\end{pmatrix} =
-                \begin{pmatrix}&amp;&amp;&amp;&amp;&amp;\\&amp;&amp;&amp;&amp;&amp;\\&amp;&amp;&amp;&amp;&amp;\\&amp;&amp;&amp;&amp;&amp;\end{pmatrix}
+                \begin{pmatrix}1 &amp; 1 &amp; 1 &amp; \cdots &amp; 1\end{pmatrix}
                 \begin{pmatrix}f_1 \\ f_2\\f_3\\\vdots \\f_n\end{pmatrix}
                 \end{aligned}\]</span></p>
         </div>
