@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11221)}}    % original
-%\rhead{\textrmlf{Compiled }\#11221\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11222)}}    % original
+%\rhead{\textrmlf{Compiled }\#11222\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -702,7 +702,8 @@ vector of data
     \end{aligned}\]
 
 For each \(1 \leq  k \leq n\), \[\begin{aligned}
-    \hat{f} _k =\sum_{j=0}^{n-1} f_j e^{\frac{-i 2\pi k}{n}}
+    \hat{f} _k =\sum_{j=0}^{n-1} f_j e^{\frac{-i 2\pi k}{n}}\\
+    f _k = \frac{1}{n}\sum_{j=0}^{n-1} \hat{f} _j e^{\frac{i 2\pi k}{n}}\\
     \end{aligned}\]
 
 \end{document}
