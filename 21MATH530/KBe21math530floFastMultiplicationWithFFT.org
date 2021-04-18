@@ -155,3 +155,7 @@
 ** DFT video
 *** discrete locations -> a vector of data $\begin{pmatrix}f_1, f_2, \ldots, f_n\end{pmatrix}$
 *** what we want
+
+	\[\begin{aligned}
+	\begin{pmatrix}\hat{f}_1 \\ \hat{f}_2 \\ \hat{f}_3 \\ \vdots \\ \hat{f}_n\end{pmatrix}
+	\end{aligned}\]

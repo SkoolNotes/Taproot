@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11217)}}    % original
-%\rhead{\textrmlf{Compiled }\#11217\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11218)}}    % original
+%\rhead{\textrmlf{Compiled }\#11218\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -694,5 +694,9 @@ vector of data
 
 \hypertarget{what-we-want}{%
 \subsubsection{what we want}\label{what-we-want}}
+
+\[\begin{aligned}
+    \begin{pmatrix}\hat{f}_1 \\ \hat{f}_2 \\ \hat{f}_3 \\ \vdots \\ \hat{f}_n\end{pmatrix}
+    \end{aligned}\]
 
 \end{document}
