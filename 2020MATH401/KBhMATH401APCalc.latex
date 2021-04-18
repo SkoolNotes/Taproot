@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11233)}}    % original
-%\rhead{\textrmlf{Compiled }\#11233\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11234)}}    % original
+%\rhead{\textrmlf{Compiled }\#11234\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -187,6 +187,15 @@
 \textbf{Source}:\thinspace
 {\href{http://taproot.shabang.cf/relay?request=KBhMATH401SubIndex}{\tiny\textulf{[[}\textbf{KBhMATH401SubIndex}\textulf{]]}}}\thinspace
 
+\hypertarget{final-things-to-clear-up-by-the-test}{%
+\section{Final things to clear up by the
+test}\label{final-things-to-clear-up-by-the-test}}
 
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  The Washer, Disk, methods, etc.
+\end{enumerate}
 
 \end{document}
