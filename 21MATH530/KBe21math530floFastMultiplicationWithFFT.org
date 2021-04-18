@@ -144,3 +144,4 @@
 *** evaluation at complex $n$-th roots of unity allows proper recursion
 *** backwards direction is the same thing with matrix inverse
 * FFT video by steve brunton
+** begin with the DFT (vandermonde) matrix. naive calculation is $N^2$, since there are $N^2$ terms
