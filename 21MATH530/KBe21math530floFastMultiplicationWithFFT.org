@@ -179,6 +179,7 @@
 	\begin{pmatrix}
 	1 & 1 & 1 & \cdots & 1 \\
 	1 & \omega & \omega ^2 & \cdots & \omega ^{n-1}\\
+	1 & \omega^2 & \omega ^4 & \cdots & \omega ^{2(n-1)}\\
 	\end{pmatrix}
 	\begin{pmatrix}f_1 \\ f_2\\f_3\\\vdots \\f_n\end{pmatrix}
 	\end{aligned}\]
