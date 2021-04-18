@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11199)}}    % original
-%\rhead{\textrmlf{Compiled }\#11199\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11200)}}    % original
+%\rhead{\textrmlf{Compiled }\#11200\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -613,5 +613,8 @@ interpolation}\label{backward-direction-interpolation}}
 \item
   interpolation is just the inverse of the DFT matrix
 \end{enumerate}
+
+\hypertarget{inverse-fft}{%
+\subsubsection{inverse FFT}\label{inverse-fft}}
 
 \end{document}
