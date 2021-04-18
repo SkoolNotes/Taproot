@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11215)}}    % original
-%\rhead{\textrmlf{Compiled }\#11215\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11216)}}    % original
+%\rhead{\textrmlf{Compiled }\#11216\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -686,5 +686,10 @@ multiplication}\label{polynomial-multiplication}}
 
 \hypertarget{dft-video}{%
 \subsection{DFT video}\label{dft-video}}
+
+\hypertarget{discrete-locations---a-vector-of-data-beginpmatrixf_1-f_2-ldots-f_nendpmatrix}{%
+\subsubsection{\texorpdfstring{discrete locations -\textgreater{} a
+vector of data
+\(\begin{pmatrix}f_1, f_2, \ldots, f_n\end{pmatrix}\)}{discrete locations -\textgreater{} a vector of data \textbackslash begin\{pmatrix\}f\_1, f\_2, \textbackslash ldots, f\_n\textbackslash end\{pmatrix\}}}\label{discrete-locations---a-vector-of-data-beginpmatrixf_1-f_2-ldots-f_nendpmatrix}}
 
 \end{document}
