@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11187)}}    % original
-%\rhead{\textrmlf{Compiled }\#11187\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11190)}}    % original
+%\rhead{\textrmlf{Compiled }\#11190\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -580,6 +580,13 @@ positive}\label{a-problem-we-need-to-choose-positivenegative-pairs-but-since-the
   base case: n = 1 -\textgreater{} P(1)
 \item
   recurse
+
+  \begin{enumerate}
+  \item
+    split into even/odd degree terms
+  \item
+    recurse to get \(y_e, y_o\)
+  \end{enumerate}
 \end{enumerate}
 
 \end{document}

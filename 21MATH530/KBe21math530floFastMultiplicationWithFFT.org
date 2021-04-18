@@ -126,3 +126,5 @@
 *** recursion time
 **** base case: n = 1 -> P(1)
 **** recurse
+***** split into even/odd degree terms
+***** recurse to get $y_e, y_o$
