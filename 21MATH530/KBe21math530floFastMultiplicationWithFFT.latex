@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11211)}}    % original
-%\rhead{\textrmlf{Compiled }\#11211\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11212)}}    % original
+%\rhead{\textrmlf{Compiled }\#11212\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -669,7 +669,18 @@ is way worse than \(N \log  N\), eg.
 \subsubsection{derivatives -\textgreater{} partial differential
 equations}\label{derivatives---partial-differential-equations}}
 
-\hypertarget{data-de-noising}{%
-\subsubsection{data de-noising}\label{data-de-noising}}
+\hypertarget{data-de-noising-remove-certain-frequencies}{%
+\subsubsection{data de-noising (remove certain
+frequencies)}\label{data-de-noising-remove-certain-frequencies}}
+
+\hypertarget{data-analysis}{%
+\subsubsection{data analysis}\label{data-analysis}}
+
+\hypertarget{audioimage-compression}{%
+\subsubsection{audio/image compression}\label{audioimage-compression}}
+
+\hypertarget{polynomial-multiplication}{%
+\subsubsection{polynomial
+multiplication}\label{polynomial-multiplication}}
 
 \end{document}
