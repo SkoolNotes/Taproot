@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11198)}}    % original
-%\rhead{\textrmlf{Compiled }\#11198\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11199)}}    % original
+%\rhead{\textrmlf{Compiled }\#11199\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -610,6 +610,8 @@ interpolation}\label{backward-direction-interpolation}}
 \item
   evaluation was a matrix vector product, and using the \(k\)-th roots
   of unity allows us to simplify the product
+\item
+  interpolation is just the inverse of the DFT matrix
 \end{enumerate}
 
 \end{document}
