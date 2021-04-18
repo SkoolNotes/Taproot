@@ -131,3 +131,5 @@
 ***** some math ( $x_j = \omega ^j$, $-\omega ^j = \omega ^{j+\frac{n}{2}}$, $y_e[j] = P_e(\omega ^{2j}), y_o[j] = P_o(\omega ^{2j})$ ) shows $P(\omega ^j) = y_e[j] + \omega ^j y_o[j], P(\omega ^{j+\frac{n}{2}}) = y_e[j] - \omega ^j y_o[j]$
 *** its clean to use $d$ is a power of two, but there are impls that can handle others also
 ** backward direction: interpolation
+*** step back
+**** evaluation was a matrix vector product, and using the $k$-th roots of unity allows us to simplify the product

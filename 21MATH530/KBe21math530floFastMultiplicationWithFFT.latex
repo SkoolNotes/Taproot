@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11197)}}    % original
-%\rhead{\textrmlf{Compiled }\#11197\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11198)}}    % original
+%\rhead{\textrmlf{Compiled }\#11198\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -602,5 +602,14 @@ also}{its clean to use d is a power of two, but there are impls that can handle 
 \hypertarget{backward-direction-interpolation}{%
 \subsection{backward direction:
 interpolation}\label{backward-direction-interpolation}}
+
+\hypertarget{step-back}{%
+\subsubsection{step back}\label{step-back}}
+
+\begin{enumerate}
+\item
+  evaluation was a matrix vector product, and using the \(k\)-th roots
+  of unity allows us to simplify the product
+\end{enumerate}
 
 \end{document}
