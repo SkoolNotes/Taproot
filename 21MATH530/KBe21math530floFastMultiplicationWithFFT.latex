@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11200)}}    % original
-%\rhead{\textrmlf{Compiled }\#11200\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11201)}}    % original
+%\rhead{\textrmlf{Compiled }\#11201\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -616,5 +616,11 @@ interpolation}\label{backward-direction-interpolation}}
 
 \hypertarget{inverse-fft}{%
 \subsubsection{inverse FFT}\label{inverse-fft}}
+
+\begin{enumerate}
+\item
+  given polynomial evaluated at roots of unity, get the coefficients
+  back out
+\end{enumerate}
 
 \end{document}

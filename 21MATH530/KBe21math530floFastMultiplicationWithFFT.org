@@ -135,3 +135,4 @@
 **** evaluation was a matrix vector product, and using the $k$-th roots of unity allows us to simplify the product
 **** interpolation is just the inverse of the DFT matrix
 *** inverse FFT
+**** given polynomial evaluated at roots of unity, get the coefficients back out
