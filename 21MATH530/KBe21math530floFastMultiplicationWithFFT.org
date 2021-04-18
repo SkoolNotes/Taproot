@@ -137,4 +137,4 @@
 *** inverse FFT
 **** given polynomial evaluated at roots of unity, get the coefficients back out
 **** after inverting the matrix, you find that each corresponding $\omega$ became $\frac{1}{n}\omega^{-1}$
-**** so now we define the inverse fft as just the fft but with new inputs
+**** so now we define the inverse fft as just the fft but with new inputs: define $\omega = \frac{1}{n}e^{\frac{-2\pi i}{n}}$
