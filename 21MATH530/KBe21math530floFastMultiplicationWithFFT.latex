@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11223)}}    % original
-%\rhead{\textrmlf{Compiled }\#11223\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11225)}}    % original
+%\rhead{\textrmlf{Compiled }\#11225\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -697,7 +697,7 @@ vector of data
 
 \[\begin{aligned}
     \begin{pmatrix}\hat{f}_1 \\ \hat{f}_2 \\ \hat{f}_3 \\ \vdots \\ \hat{f}_n\end{pmatrix} =
-    \begin{pmatrix}&&&&&\\&&&&&\\&&&&&\\&&&&&\end{pmatrix}
+    \begin{pmatrix}&&&&&\\&&&&&\\&&&&&\\&&&&&\\&&&&&\end{pmatrix}
     \begin{pmatrix}f_1 \\ f_2\\f_3\\\vdots \\f_n\end{pmatrix}
     \end{aligned}\]
 
@@ -708,6 +708,15 @@ For each \(1 \leq  k \leq n\), \[\begin{aligned}
 
 The omegas, he calls 'fundamental frequencies' \[\begin{aligned}
     \omega _n = e^{-2\pi \frac{i}{n}}
+    \end{aligned}\]
+
+\hypertarget{now-matrixify}{%
+\subsubsection{now matrixify}\label{now-matrixify}}
+
+\[\begin{aligned}
+    \begin{pmatrix}\hat{f}_1 \\ \hat{f}_2 \\ \hat{f}_3 \\ \vdots \\ \hat{f}_n\end{pmatrix} =
+    \begin{pmatrix}&&&&&\\&&&&&\\&&&&&\\&&&&&\end{pmatrix}
+    \begin{pmatrix}f_1 \\ f_2\\f_3\\\vdots \\f_n\end{pmatrix}
     \end{aligned}\]
 
 \end{document}
