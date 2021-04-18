@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11190)}}    % original
-%\rhead{\textrmlf{Compiled }\#11190\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11191)}}    % original
+%\rhead{\textrmlf{Compiled }\#11191\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -586,6 +586,8 @@ positive}\label{a-problem-we-need-to-choose-positivenegative-pairs-but-since-the
     split into even/odd degree terms
   \item
     recurse to get \(y_e, y_o\)
+  \item
+    some math ( ) shows
   \end{enumerate}
 \end{enumerate}
 
