@@ -141,4 +141,5 @@
 ** recap:
 *** polynomial multiplication is sped in value representation
 *** evaluation at +/- pairs allows splitting the computation
-*** evaluation at $n$-th roots of unity -> FFT
+*** evaluation at complex $n$-th roots of unity allows proper recursion
+*** backwards direction is the same thing with matrix inverse

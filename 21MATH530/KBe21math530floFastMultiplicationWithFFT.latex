@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11205)}}    % original
-%\rhead{\textrmlf{Compiled }\#11205\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11206)}}    % original
+%\rhead{\textrmlf{Compiled }\#11206\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -640,9 +640,13 @@ representation}\label{polynomial-multiplication-is-sped-in-value-representation}
 \subsubsection{evaluation at +/- pairs allows splitting the
 computation}\label{evaluation-at---pairs-allows-splitting-the-computation}}
 
-\hypertarget{evaluation-at-n-th-roots-of-unity---fft}{%
-\subsubsection{\texorpdfstring{evaluation at \(n\)-th roots of unity
--\textgreater{}
-FFT}{evaluation at n-th roots of unity -\textgreater{} FFT}}\label{evaluation-at-n-th-roots-of-unity---fft}}
+\hypertarget{evaluation-at-complex-n-th-roots-of-unity-allows-proper-recursion}{%
+\subsubsection{\texorpdfstring{evaluation at complex \(n\)-th roots of
+unity allows proper
+recursion}{evaluation at complex n-th roots of unity allows proper recursion}}\label{evaluation-at-complex-n-th-roots-of-unity-allows-proper-recursion}}
+
+\hypertarget{backwards-direction-is-the-same-thing-with-matrix-inverse}{%
+\subsubsection{backwards direction is the same thing with matrix
+inverse}\label{backwards-direction-is-the-same-thing-with-matrix-inverse}}
 
 \end{document}
