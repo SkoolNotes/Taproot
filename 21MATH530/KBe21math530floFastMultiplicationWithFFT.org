@@ -136,3 +136,4 @@
 **** interpolation is just the inverse of the DFT matrix
 *** inverse FFT
 **** given polynomial evaluated at roots of unity, get the coefficients back out
+**** after inverting the matrix, you find that each corresponding $\omega$ became $\frac{1}{n}\omega^{-1}$
