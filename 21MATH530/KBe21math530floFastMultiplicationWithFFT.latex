@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11213)}}    % original
-%\rhead{\textrmlf{Compiled }\#11213\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11215)}}    % original
+%\rhead{\textrmlf{Compiled }\#11215\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -683,5 +683,8 @@ transform}\label{audioimage-compression---wavelet-transform}}
 \hypertarget{polynomial-multiplication}{%
 \subsubsection{polynomial
 multiplication}\label{polynomial-multiplication}}
+
+\hypertarget{dft-video}{%
+\subsection{DFT video}\label{dft-video}}
 
 \end{document}
