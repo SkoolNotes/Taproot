@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11195)}}    % original
-%\rhead{\textrmlf{Compiled }\#11195\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11196)}}    % original
+%\rhead{\textrmlf{Compiled }\#11196\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -593,5 +593,10 @@ positive}\label{a-problem-we-need-to-choose-positivenegative-pairs-but-since-the
     \(P(\omega ^j) = y_e[j] + \omega ^j y_o[j], P(\omega ^{j+\frac{n}{2}}) = y_e[j] - \omega ^j y_o[j]\)
   \end{enumerate}
 \end{enumerate}
+
+\hypertarget{its-clean-to-use-d-is-a-power-of-two-but-there-are-impls-that-can-handle-others-also}{%
+\subsubsection{\texorpdfstring{its clean to use \(d\) is a power of two,
+but there are impls that can handle others
+also}{its clean to use d is a power of two, but there are impls that can handle others also}}\label{its-clean-to-use-d-is-a-power-of-two-but-there-are-impls-that-can-handle-others-also}}
 
 \end{document}
