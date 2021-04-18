@@ -176,6 +176,9 @@
 
 	\[\begin{aligned}
 	\begin{pmatrix}\hat{f}_1 \\ \hat{f}_2 \\ \hat{f}_3 \\ \vdots \\ \hat{f}_n\end{pmatrix} =
-	\begin{pmatrix}1 & 1 & 1 & \cdots & 1 \\ 1 & \omega & \omega ^2 & \cdots & \omega ^{n-1}\end{pmatrix}
+	\begin{pmatrix}
+	1 & 1 & 1 & \cdots & 1 \\
+	1 & \omega & \omega ^2 & \cdots & \omega ^{n-1}\\
+	\end{pmatrix}
 	\begin{pmatrix}f_1 \\ f_2\\f_3\\\vdots \\f_n\end{pmatrix}
 	\end{aligned}\]
