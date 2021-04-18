@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11196)}}    % original
-%\rhead{\textrmlf{Compiled }\#11196\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11197)}}    % original
+%\rhead{\textrmlf{Compiled }\#11197\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -598,5 +598,9 @@ positive}\label{a-problem-we-need-to-choose-positivenegative-pairs-but-since-the
 \subsubsection{\texorpdfstring{its clean to use \(d\) is a power of two,
 but there are impls that can handle others
 also}{its clean to use d is a power of two, but there are impls that can handle others also}}\label{its-clean-to-use-d-is-a-power-of-two-but-there-are-impls-that-can-handle-others-also}}
+
+\hypertarget{backward-direction-interpolation}{%
+\subsection{backward direction:
+interpolation}\label{backward-direction-interpolation}}
 
 \end{document}
