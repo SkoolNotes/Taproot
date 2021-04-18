@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11208)}}    % original
-%\rhead{\textrmlf{Compiled }\#11208\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11210)}}    % original
+%\rhead{\textrmlf{Compiled }\#11210\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -656,5 +656,10 @@ inverse}\label{backwards-direction-is-the-same-thing-with-matrix-inverse}}
 \subsection{\texorpdfstring{begin with the DFT (vandermonde) matrix.
 naive calculation is \(N^2\), since there are \(N^2\)
 terms}{begin with the DFT (vandermonde) matrix. naive calculation is N\^{}2, since there are N\^{}2 terms}}\label{begin-with-the-dft-vandermonde-matrix.-naive-calculation-is-n2-since-there-are-n2-terms}}
+
+\hypertarget{spends-a-bunch-of-time-talking-about-n2-is-way-worse-than-n-log-n-eg.-4khz-times-10-sec}{%
+\subsection{\texorpdfstring{spends a bunch of time talking about \(N^2\)
+is way worse than \(N \log  N\), eg.
+\(4KHz \times 10 sec\)}{spends a bunch of time talking about N\^{}2 is way worse than N \textbackslash log  N, eg. 4KHz \textbackslash times 10 sec}}\label{spends-a-bunch-of-time-talking-about-n2-is-way-worse-than-n-log-n-eg.-4khz-times-10-sec}}
 
 \end{document}
