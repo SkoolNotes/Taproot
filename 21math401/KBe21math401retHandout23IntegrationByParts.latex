@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11300)}}    % original
-%\rhead{\textrmlf{Compiled }\#11300\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11301)}}    % original
+%\rhead{\textrmlf{Compiled }\#11301\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -274,8 +274,8 @@ Let \(u = x^2\)
 \section{\texorpdfstring{\(\int \cos \ln x dx\)}{\textbackslash int \textbackslash cos \textbackslash ln x dx}}\label{int-cos-ln-x-dx}}
 
 \[\begin{aligned}
-  \int \cos  \ln  x dx &= x \cos  \ln  x + \int \sin  \ln  x dx\\
-  &= x \cos  \ln  x + x \sin \ln  x + \int \cos \ln  x dx\\
+  \int \cos  \ln  x dx &= x \cos  \ln  x - \int \sin  \ln  x dx\\
+  &= x \cos  \ln  x - x \sin \ln  x - \int \cos \ln  x dx\\
   \end{aligned}\]
 
 \end{document}
