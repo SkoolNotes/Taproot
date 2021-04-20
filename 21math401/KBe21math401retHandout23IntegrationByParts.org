@@ -59,5 +59,6 @@
   \[\begin{aligned}
   \int x^3 e^{x^2} dx &=\int x^2 x e^{x^2} dx \\
   &=\int u \frac{1}{2}du e^u\\
-  &= \frac{1}{2} u e^u du
+  &= \frac{1}{2}\int u e^u du
+  &= \frac{1}{2} u e^u
   \end{aligned}\]
