@@ -75,3 +75,7 @@
   \end{aligned}\]
 
 * $\int \cos \ln x dx$
+
+  \[\begin{aligned}
+  \int \cos  \ln  x dx &= x \cos  \ln  x + \int x \sin  \ln  x dx
+  \end{aligned}\]

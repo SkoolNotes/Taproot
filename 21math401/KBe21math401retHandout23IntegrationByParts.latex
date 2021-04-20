@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11292)}}    % original
-%\rhead{\textrmlf{Compiled }\#11292\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11293)}}    % original
+%\rhead{\textrmlf{Compiled }\#11293\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -272,5 +272,9 @@ Let \(u = x^2\)
 
 \hypertarget{int-cos-ln-x-dx}{%
 \section{\texorpdfstring{\(\int \cos \ln x dx\)}{\textbackslash int \textbackslash cos \textbackslash ln x dx}}\label{int-cos-ln-x-dx}}
+
+\[\begin{aligned}
+  \int \cos  \ln  x dx &= x \cos  \ln  x + \int x \sin  \ln  x dx
+  \end{aligned}\]
 
 \end{document}
