@@ -79,4 +79,5 @@
   \[\begin{aligned}
   \int \cos  \ln  x dx &= x \cos  \ln  x + \int \sin  \ln  x dx\\
   &= x \cos  \ln  x + x \sin \ln  x + \int \cos \ln  x dx\\
+  0 &= x \cos  \ln  x + x \sin \ln  x
   \end{aligned}\]
