@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11281)}}    % original
-%\rhead{\textrmlf{Compiled }\#11281\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11282)}}    % original
+%\rhead{\textrmlf{Compiled }\#11282\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -248,8 +248,7 @@ Find \(f(x)\) \[\begin{aligned}
   \end{aligned}\]
 
 \hypertarget{int-x3-ex2-dx}{%
-\section{\texorpdfstring{{TODO}
-\(\int x^3 e^{x^2} dx\)}{TODO \textbackslash int x\^{}3 e\^{}\{x\^{}2\} dx}}\label{int-x3-ex2-dx}}
+\section{\texorpdfstring{\(\int x^3 e^{x^2} dx\)}{\textbackslash int x\^{}3 e\^{}\{x\^{}2\} dx}}\label{int-x3-ex2-dx}}
 
 Let \(u = x^2\)
 
