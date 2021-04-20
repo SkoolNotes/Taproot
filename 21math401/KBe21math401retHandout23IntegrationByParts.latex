@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11274)}}    % original
-%\rhead{\textrmlf{Compiled }\#11274\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11275)}}    % original
+%\rhead{\textrmlf{Compiled }\#11275\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -203,8 +203,8 @@
 \[\begin{aligned}
   \int\tan ^-x dx &= x \tan^- x -\int x \frac{1}{x^2+1} dx \\
   &= x\tan ^- x - \frac{1}{2}\int \frac{du}{u}\\
-  &= x\tan ^- x  \frac{1}{2}\ln  u + C\\
-  &= x\tan ^- x  \frac{1}{2}\ln (x^2+1) +C
+  &= x\tan ^- x - \frac{1}{2}\ln  u + C\\
+  &= x\tan ^- x - \frac{1}{2}\ln (x^2+1) +C
   \end{aligned}\]
 
 \hypertarget{int-xsec-2-x-dx}{%
