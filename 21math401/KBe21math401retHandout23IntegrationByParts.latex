@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11239)}}    % original
-%\rhead{\textrmlf{Compiled }\#11239\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11240)}}    % original
+%\rhead{\textrmlf{Compiled }\#11240\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,6 +185,12 @@
 
 % DID YOU SET SPELL????
 
+\hypertarget{int-ln-x-dx}{%
+\section{\texorpdfstring{\(\int \ln x dx\)}{\textbackslash int \textbackslash ln x dx}}\label{int-ln-x-dx}}
 
+\[\begin{aligned}
+  \int \ln  x dx &=\int 1 \ln  x dx \\
+  &=
+  \end{aligned}\]
 
 \end{document}
