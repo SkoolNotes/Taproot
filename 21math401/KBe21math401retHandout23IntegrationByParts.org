@@ -53,5 +53,5 @@
 * $\int x^3 e^{x^2} dx$
 
   \[\begin{aligned}
-  \int x^3 e^{x^2} dx
+  \int x^3 e^{x^2} dx &= \frac{1}{4}x^4 e^{x^2} -\int \frac{1}{4}x^4 e^{x^2}2x dx\\
   \end{aligned}\]
