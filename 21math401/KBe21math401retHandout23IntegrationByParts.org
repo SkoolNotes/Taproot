@@ -43,3 +43,8 @@
   \end{aligned}\]
 
 * $\int x^2\sin x dx$
+
+  \[\begin{aligned}
+  \int x^2 \sin  x dx &= - x \cos  x -\int - \cos  x dx \\
+  &= - x \cos  x - \sin  x dx
+  \end{aligned}\]
