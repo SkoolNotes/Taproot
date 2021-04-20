@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11252)}}    % original
-%\rhead{\textrmlf{Compiled }\#11252\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11253)}}    % original
+%\rhead{\textrmlf{Compiled }\#11253\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -209,7 +209,7 @@
 \section{\texorpdfstring{\(\int x\sec ^2 x dx\)}{\textbackslash int x\textbackslash sec \^{}2 x dx}}\label{int-xsec-2-x-dx}}
 
 \[\begin{aligned}
-  \int x\sec ^2 x dx &= \frac{1}{2}x ^2\sec ^2 x -\int \frac{1}{2}x^2  dx
+  \int x\sec ^2 x dx &= x\tan x -\int\tan x dx
   \end{aligned}\]
 
 \end{document}

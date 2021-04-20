@@ -18,5 +18,5 @@
 * $\int x\sec ^2 x dx$
 
   \[\begin{aligned}
-  \int x\sec ^2 x dx &= \frac{1}{2}x ^2\sec ^2 x -\int \frac{1}{2}x^2  dx
+  \int x\sec ^2 x dx &= x\tan x -\int\tan x dx
   \end{aligned}\]
