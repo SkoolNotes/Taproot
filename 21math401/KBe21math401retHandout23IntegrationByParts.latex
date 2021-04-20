@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11277)}}    % original
-%\rhead{\textrmlf{Compiled }\#11277\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11278)}}    % original
+%\rhead{\textrmlf{Compiled }\#11278\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -251,9 +251,12 @@ Find \(f(x)\) \[\begin{aligned}
 \section{\texorpdfstring{{TODO}
 \(\int x^3 e^{x^2} dx\)}{TODO \textbackslash int x\^{}3 e\^{}\{x\^{}2\} dx}}\label{int-x3-ex2-dx}}
 
+Let \(u = x^2\)
+
 \[\begin{aligned}
   \int x^3 e^{x^2} dx &=\int x^2 x e^{x^2} dx \\
-  &=\int u \frac{1}{2}du e^u dx\\
+  &=\int u \frac{1}{2}du e^u\\
+  &= \frac{1}{2} u e^u du
   \end{aligned}\]
 
 \end{document}
