@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11243)}}    % original
-%\rhead{\textrmlf{Compiled }\#11243\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11244)}}    % original
+%\rhead{\textrmlf{Compiled }\#11244\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -200,7 +200,7 @@
 \$}{\$∫tan  -x dx \$}}\label{tan--x-dx}}
 
 \[\begin{aligned}
-  x \tan^- x
+  x \tan^- x -\int x \frac{1}{x^2+1} dx
   \end{aligned}\]
 
 \end{document}
