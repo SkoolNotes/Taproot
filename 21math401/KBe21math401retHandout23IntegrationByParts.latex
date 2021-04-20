@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11267)}}    % original
-%\rhead{\textrmlf{Compiled }\#11267\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11268)}}    % original
+%\rhead{\textrmlf{Compiled }\#11268\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -236,5 +236,8 @@ Find \(f(x)\) \[\begin{aligned}
   \int x \cos  x dx &= x \sin  x -\int \sin  x dx \\
   &= x \sin  x + \cos  x + C
   \end{aligned}\]
+
+\hypertarget{int-x2sin-x-dx}{%
+\section{\texorpdfstring{\(\int x^2\sin x dx\)}{\textbackslash int x\^{}2\textbackslash sin x dx}}\label{int-x2sin-x-dx}}
 
 \end{document}
