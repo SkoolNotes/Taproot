@@ -68,6 +68,8 @@
 
 * $\int x^2 \ln x dx$
 
+
   \[\begin{aligned}
-  \int x^2 \ln x dx &= x^2 (x \ln  x - x) -\int 2x (x \ln  x - x) dx
+  \int x^2 \ln x dx &= \frac{1}{3}x^3 \ln  x -\int \frac{1}{3} x^3 \frac{1}{x} dx\\
+  &= \frac{1}{3}x^3 \ln  x - \int \frac{1}{3} x^2 dx
   \end{aligned}\]
