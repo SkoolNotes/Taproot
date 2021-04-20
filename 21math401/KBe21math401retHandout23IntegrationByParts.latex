@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11272)}}    % original
-%\rhead{\textrmlf{Compiled }\#11272\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11273)}}    % original
+%\rhead{\textrmlf{Compiled }\#11273\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -246,10 +246,12 @@ Find \(f(x)\) \[\begin{aligned}
   \end{aligned}\]
 
 \hypertarget{int-x3-ex2-dx}{%
-\section{\texorpdfstring{\(\int x^3 e^{x^2} dx\)}{\textbackslash int x\^{}3 e\^{}\{x\^{}2\} dx}}\label{int-x3-ex2-dx}}
+\section{\texorpdfstring{{TODO}
+\(\int x^3 e^{x^2} dx\)}{TODO \textbackslash int x\^{}3 e\^{}\{x\^{}2\} dx}}\label{int-x3-ex2-dx}}
 
 \[\begin{aligned}
   \int x^3 e^{x^2} dx &= \frac{1}{4}x^4 e^{x^2} -\int \frac{1}{4}x^4 e^{x^2}2x dx\\
+  &= \frac{1}{4} x^4 e^{x^2} - ?????????
   \end{aligned}\]
 
 \end{document}
