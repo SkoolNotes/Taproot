@@ -1,4 +1,7 @@
 #+TITLE: Integration By Parts
+#+begin_export latex
+\setcounter{section}{2}
+#+end_export
 * $\int \ln x dx$
 
   \[\begin{aligned}
@@ -12,7 +15,7 @@
   \[\begin{aligned}
   \int\tan ^-x dx &= x \tan^- x -\int x \frac{1}{x^2+1} dx \\
   &= x\tan ^- x - \frac{1}{2}\int \frac{du}{u}\\
-  &= x\tan ^- x  \frac{1}{2}\ln  u + C
+  &= x\tan ^- x  \frac{1}{2}\ln  u + C\\
   &= x\tan ^- x  \frac{1}{2}\ln (x^2+1) +C
   \end{aligned}\]
 * $\int x\sec ^2 x dx$
