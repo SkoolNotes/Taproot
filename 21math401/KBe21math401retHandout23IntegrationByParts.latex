@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11276)}}    % original
-%\rhead{\textrmlf{Compiled }\#11276\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11277)}}    % original
+%\rhead{\textrmlf{Compiled }\#11277\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -252,8 +252,8 @@ Find \(f(x)\) \[\begin{aligned}
 \(\int x^3 e^{x^2} dx\)}{TODO \textbackslash int x\^{}3 e\^{}\{x\^{}2\} dx}}\label{int-x3-ex2-dx}}
 
 \[\begin{aligned}
-  \int x^3 e^{x^2} dx &=
-  &= \frac{1}{4} x^4 e^{x^2} - ?????????
+  \int x^3 e^{x^2} dx &=\int x^2 x e^{x^2} dx \\
+  &=\int u \frac{1}{2}du e^u dx\\
   \end{aligned}\]
 
 \end{document}

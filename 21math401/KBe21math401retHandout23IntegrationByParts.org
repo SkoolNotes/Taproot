@@ -56,6 +56,6 @@
 * TODO $\int x^3 e^{x^2} dx$
 
   \[\begin{aligned}
-  \int x^3 e^{x^2} dx &=
-  &= \frac{1}{4} x^4 e^{x^2} - ?????????
+  \int x^3 e^{x^2} dx &=\int x^2 x e^{x^2} dx \\
+  &=\int u \frac{1}{2}du e^u dx\\
   \end{aligned}\]
