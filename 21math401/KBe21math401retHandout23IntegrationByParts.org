@@ -3,5 +3,7 @@
 
   \[\begin{aligned}
   \int \ln  x dx &=\int 1 \ln  x dx \\
-  &=
+  &= x \ln  x -\int x \frac{1}{x} dx \\
+  &= x \ln  x -\int 1 dx \\
+  &= \boxed{x \ln  x - x}
   \end{aligned}\]
