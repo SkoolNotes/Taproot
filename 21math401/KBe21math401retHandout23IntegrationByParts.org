@@ -11,5 +11,7 @@
 
   \[\begin{aligned}
   \int\tan ^-x dx &= x \tan^- x -\int x \frac{1}{x^2+1} dx \\
-  &= x\tan ^- x -\int \frac{du}{u}
+  &= x\tan ^- x -\int \frac{du}{u}\\
+  &= x\tan ^- x \ln  u + C
+  &= x\tan ^- x \ln (x^2+1)
   \end{aligned}\]
