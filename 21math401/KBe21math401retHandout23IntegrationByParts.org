@@ -38,5 +38,6 @@
 * $\int x\cos x  dx$
 
   \[\begin{aligned}
-  \int x \cos  x dx &= x \sin  x -\int \sin  x dx
+  \int x \cos  x dx &= x \sin  x -\int \sin  x dx \\
+  &= x \sin  x + \cos  x + C
   \end{aligned}\]

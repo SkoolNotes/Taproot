@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11266)}}    % original
-%\rhead{\textrmlf{Compiled }\#11266\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11267)}}    % original
+%\rhead{\textrmlf{Compiled }\#11267\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -233,7 +233,8 @@ Find \(f(x)\) \[\begin{aligned}
 \section{\texorpdfstring{\(\int x\cos x  dx\)}{\textbackslash int x\textbackslash cos x  dx}}\label{int-xcos-x-dx}}
 
 \[\begin{aligned}
-  \int x \cos  x dx &= x \sin  x -\int \sin  x dx
+  \int x \cos  x dx &= x \sin  x -\int \sin  x dx \\
+  &= x \sin  x + \cos  x + C
   \end{aligned}\]
 
 \end{document}
