@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11255)}}    % original
-%\rhead{\textrmlf{Compiled }\#11255\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11256)}}    % original
+%\rhead{\textrmlf{Compiled }\#11256\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -215,5 +215,9 @@
 
 \hypertarget{int-x2-e5x-dx}{%
 \section{\texorpdfstring{\(\int x^2 e^{5x} dx\)}{\textbackslash int x\^{}2 e\^{}\{5x\} dx}}\label{int-x2-e5x-dx}}
+
+\[\begin{aligned}
+  \int x^2 e^{5x} dx &= x^2 5e^{5x} - \int 2x 5e^{5x} dx
+  \end{aligned}\]
 
 \end{document}
