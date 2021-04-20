@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11241)}}    % original
-%\rhead{\textrmlf{Compiled }\#11241\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11242)}}    % original
+%\rhead{\textrmlf{Compiled }\#11242\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -194,5 +194,9 @@
   &= x \ln  x -\int 1 dx \\
   &= \boxed{x \ln  x - x}
   \end{aligned}\]
+
+\hypertarget{tan--x-dx}{%
+\section{\texorpdfstring{\$∫tan  \textsuperscript{-x} dx
+\$}{\$∫tan  -x dx \$}}\label{tan--x-dx}}
 
 \end{document}
