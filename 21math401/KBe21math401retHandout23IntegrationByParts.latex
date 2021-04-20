@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11254)}}    % original
-%\rhead{\textrmlf{Compiled }\#11254\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11255)}}    % original
+%\rhead{\textrmlf{Compiled }\#11255\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -212,5 +212,8 @@
   \int x\sec ^2 x dx &= x\tan x -\int\tan x dx\\
   &= x\tan x + \ln | \cos  x | + C
   \end{aligned}\]
+
+\hypertarget{int-x2-e5x-dx}{%
+\section{\texorpdfstring{\(\int x^2 e^{5x} dx\)}{\textbackslash int x\^{}2 e\^{}\{5x\} dx}}\label{int-x2-e5x-dx}}
 
 \end{document}
