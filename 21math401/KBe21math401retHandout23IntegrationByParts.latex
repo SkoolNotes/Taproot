@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11282)}}    % original
-%\rhead{\textrmlf{Compiled }\#11282\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11283)}}    % original
+%\rhead{\textrmlf{Compiled }\#11283\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -260,5 +260,8 @@ Let \(u = x^2\)
   &= \frac{1}{2} u e^u - \frac{1}{2} e^u  +C\\
   &= \frac{1}{2} x^2 e^{x^2} - \frac{1}{2} e^{x^2}
   \end{aligned}\]
+
+\hypertarget{int-x2-ln-x-dx}{%
+\section{\texorpdfstring{\(\int x^2 \ln x dx\)}{\textbackslash int x\^{}2 \textbackslash ln x dx}}\label{int-x2-ln-x-dx}}
 
 \end{document}
