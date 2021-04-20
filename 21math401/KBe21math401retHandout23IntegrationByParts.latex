@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11242)}}    % original
-%\rhead{\textrmlf{Compiled }\#11242\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11243)}}    % original
+%\rhead{\textrmlf{Compiled }\#11243\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -198,5 +198,9 @@
 \hypertarget{tan--x-dx}{%
 \section{\texorpdfstring{\$∫tan  \textsuperscript{-x} dx
 \$}{\$∫tan  -x dx \$}}\label{tan--x-dx}}
+
+\[\begin{aligned}
+  x \tan^- x
+  \end{aligned}\]
 
 \end{document}
