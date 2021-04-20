@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11244)}}    % original
-%\rhead{\textrmlf{Compiled }\#11244\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11245)}}    % original
+%\rhead{\textrmlf{Compiled }\#11245\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -195,12 +195,11 @@
   &= \boxed{x \ln  x - x}
   \end{aligned}\]
 
-\hypertarget{tan--x-dx}{%
-\section{\texorpdfstring{\$∫tan  \textsuperscript{-x} dx
-\$}{\$∫tan  -x dx \$}}\label{tan--x-dx}}
+\hypertarget{inttan--x-dx}{%
+\section{\texorpdfstring{\(\int\tan ^-x dx\)}{\textbackslash int\textbackslash tan \^{}-x dx}}\label{inttan--x-dx}}
 
 \[\begin{aligned}
-  x \tan^- x -\int x \frac{1}{x^2+1} dx
+  \int\tan ^-x dx &= x \tan^- x -\int x \frac{1}{x^2+1} dx \\
   \end{aligned}\]
 
 \end{document}
