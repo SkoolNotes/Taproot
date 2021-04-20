@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11294)}}    % original
-%\rhead{\textrmlf{Compiled }\#11294\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11295)}}    % original
+%\rhead{\textrmlf{Compiled }\#11295\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -275,7 +275,7 @@ Let \(u = x^2\)
 
 \[\begin{aligned}
   \int \cos  \ln  x dx &= x \cos  \ln  x + \int x \sin  \ln  x dx\\
-  \text{ Let } u = \ln  x
+  \text{ Let } u = \ln  x, du = \frac{1}{x} dx
   \end{aligned}\]
 
 \end{document}
