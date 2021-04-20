@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11302)}}    % original
-%\rhead{\textrmlf{Compiled }\#11302\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11303)}}    % original
+%\rhead{\textrmlf{Compiled }\#11303\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -244,7 +244,7 @@ Find \(f(x)\) \[\begin{aligned}
 
 \[\begin{aligned}
   \int x^2 \sin  x dx &= - x \cos  x -\int - \cos  x dx \\
-  &= - x \cos  x - \sin  x dx
+  &= - x \cos  x - \sin  x dx +C
   \end{aligned}\]
 
 \hypertarget{int-x3-ex2-dx}{%
@@ -277,7 +277,7 @@ Let \(u = x^2\)
   \int \cos  \ln  x dx &= x \cos  \ln  x - \int \sin  \ln  x dx\\
   &= x \cos  \ln  x - x \sin \ln  x - \int \cos \ln  x dx\\
   2\int \cos  \ln  x dx &= x \cos  \ln  x - x \sin \ln  x\\
-  \int \cos  \ln  x dx &= \frac{1}{2}\left(  x \cos  \ln  x - x \sin \ln  x\right)
+  \int \cos  \ln  x dx &= \frac{1}{2}\left(  x \cos  \ln  x - x \sin \ln  x\right) +C
   \end{aligned}\]
 
 \end{document}
