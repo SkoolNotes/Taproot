@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11262)}}    % original
-%\rhead{\textrmlf{Compiled }\#11262\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11263)}}    % original
+%\rhead{\textrmlf{Compiled }\#11263\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -221,5 +221,8 @@
   &= x^2 \frac{1}{5}e^{5x} - 2x \frac{1}{25}e^{5x} +\int 2 \frac{1}{25}e^{5x} dx\\
   &= \frac{1}{5} e^{5x} ( x^2 - \frac{2}{5}x + \frac{2}{25} ) +C
   \end{aligned}\]
+
+\hypertarget{int-x-2cos-x-dx-fx--int-2xsin-x-dx}{%
+\section{\texorpdfstring{\(\int x ^2\cos x  dx = f(x) -\int 2x\sin x dx\)}{\textbackslash int x \^{}2\textbackslash cos x  dx = f(x) -\textbackslash int 2x\textbackslash sin x dx}}\label{int-x-2cos-x-dx-fx--int-2xsin-x-dx}}
 
 \end{document}
