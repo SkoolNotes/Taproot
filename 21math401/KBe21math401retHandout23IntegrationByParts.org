@@ -77,6 +77,6 @@
 * $\int \cos \ln x dx$
 
   \[\begin{aligned}
-  \int \cos  \ln  x dx &= x \cos  \ln  x + \int x \sin  \ln  x dx\\
+  \int \cos  \ln  x dx &= x \cos  \ln  x + \int \sin  \ln  x dx\\
   \text{ Let } u = \ln  x, du = \frac{1}{x} dx
   \end{aligned}\]
