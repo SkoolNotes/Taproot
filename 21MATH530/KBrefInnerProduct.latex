@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11311)}}    % original
-%\rhead{\textrmlf{Compiled }\#11311\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11315)}}    % original
+%\rhead{\textrmlf{Compiled }\#11315\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -236,6 +236,10 @@ the inner product of \(z\) with itself, maybe the inner product of
    w_1 \overline{z_1} + \cdots + w_n \overline{z_n}
    \end{aligned}\]
 
+\hypertarget{positivity-we-want-inner-product-to-be-the-size-of}{%
+\subsection{positivity: we want inner product to be the size
+of}\label{positivity-we-want-inner-product-to-be-the-size-of}}
+
 \hypertarget{notation}{%
 \subsection{notation}\label{notation}}
 
@@ -257,10 +261,10 @@ with.}\label{additivityhomogeneity-in-the-first-slot-also-implies-it-in-the-seco
 complex conjugate of the second
 one}\label{we-want-the-norm-to-be-a-real-scalar-so-we-need-to-take-the-complex-conjugate-of-the-second-one}}
 
-\hypertarget{so-the-euclidian-inner-product-is-conjugate-the-second-then-dot-prodcut}{%
-\subsubsection{so, the Euclidian inner product is conjugate the second,
+\hypertarget{so-the-euclidean-inner-product-is-conjugate-the-second-then-dot-product}{%
+\subsubsection{so, the Euclidean inner product is conjugate the second,
 then dot
-prodcut}\label{so-the-euclidian-inner-product-is-conjugate-the-second-then-dot-prodcut}}
+product}\label{so-the-euclidean-inner-product-is-conjugate-the-second-then-dot-product}}
 
 \[\begin{aligned}
     \langle u, v \rangle = u \overline{z}
