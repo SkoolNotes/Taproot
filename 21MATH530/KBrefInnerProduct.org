@@ -26,3 +26,7 @@
 * intuition
 ** additivity/homogeneity in the first slot also implies it in the second slot, and vice versa. So it doesn't matter which you start with.
 ** we want the norm to be a real scalar, so we need to take the complex conjugate of the second one
+*** so, the Euclidian inner product is conjugate the second, then dot prodcut
+	\[\begin{aligned}
+    \langle u, v \rangle = u \overline{z}
+	\end{aligned}\]

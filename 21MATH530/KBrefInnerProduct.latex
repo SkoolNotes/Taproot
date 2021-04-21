@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11310)}}    % original
-%\rhead{\textrmlf{Compiled }\#11310\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11311)}}    % original
+%\rhead{\textrmlf{Compiled }\#11311\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -256,5 +256,14 @@ with.}\label{additivityhomogeneity-in-the-first-slot-also-implies-it-in-the-seco
 \subsection{we want the norm to be a real scalar, so we need to take the
 complex conjugate of the second
 one}\label{we-want-the-norm-to-be-a-real-scalar-so-we-need-to-take-the-complex-conjugate-of-the-second-one}}
+
+\hypertarget{so-the-euclidian-inner-product-is-conjugate-the-second-then-dot-prodcut}{%
+\subsubsection{so, the Euclidian inner product is conjugate the second,
+then dot
+prodcut}\label{so-the-euclidian-inner-product-is-conjugate-the-second-then-dot-prodcut}}
+
+\[\begin{aligned}
+    \langle u, v \rangle = u \overline{z}
+    \end{aligned}\]
 
 \end{document}
