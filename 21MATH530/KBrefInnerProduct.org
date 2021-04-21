@@ -23,3 +23,6 @@
    For a complex scalar $\lambda \in \CC$, $\lambda \geq 0$ means $\lambda$ is real and non-negative
 
    $\langle u, v \rangle$ denotes an inner product.
+* intuition
+** additivity/homogeneity in the first slot also implies it in the second slot, and vice versa. So it doesn't matter which you start with.
+** we want the norm to be a real scalar, so we need to take the complex conjugate of the second one
