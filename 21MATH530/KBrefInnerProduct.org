@@ -25,7 +25,7 @@
 
    $\langle u, v \rangle$ denotes an inner product.
 * intuition
-** additivity/homogeneity in the first slot also implies additivity in the second slot, and vice versa. So it doesn't matter which you start with.
+** additivity/homogeneity in the first slot also implies additivity in the second slot, and 'conjugate homogeneity in the second slot'
 ** we want the norm to be a real scalar, so we need to take the complex conjugate of the second one
 *** so, the Euclidean inner product is conjugate the second, then dot product
 	\[\begin{aligned}
