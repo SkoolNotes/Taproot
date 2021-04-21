@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11316)}}    % original
-%\rhead{\textrmlf{Compiled }\#11316\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11317)}}    % original
+%\rhead{\textrmlf{Compiled }\#11317\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -252,10 +252,11 @@ For a complex scalar \(\lambda \in \CC\), \(\lambda \geq 0\) means
 \hypertarget{intuition}{%
 \section{intuition}\label{intuition}}
 
-\hypertarget{additivityhomogeneity-in-the-first-slot-also-implies-it-in-the-second-slot-and-vice-versa.-so-it-doesnt-matter-which-you-start-with.}{%
-\subsection{additivity/homogeneity in the first slot also implies it in
-the second slot, and vice versa. So it doesn't matter which you start
-with.}\label{additivityhomogeneity-in-the-first-slot-also-implies-it-in-the-second-slot-and-vice-versa.-so-it-doesnt-matter-which-you-start-with.}}
+\hypertarget{additivityhomogeneity-in-the-first-slot-also-implies-additivity-in-the-second-slot-and-vice-versa.-so-it-doesnt-matter-which-you-start-with.}{%
+\subsection{additivity/homogeneity in the first slot also implies
+additivity in the second slot, and vice versa. So it doesn't matter
+which you start
+with.}\label{additivityhomogeneity-in-the-first-slot-also-implies-additivity-in-the-second-slot-and-vice-versa.-so-it-doesnt-matter-which-you-start-with.}}
 
 \hypertarget{we-want-the-norm-to-be-a-real-scalar-so-we-need-to-take-the-complex-conjugate-of-the-second-one}{%
 \subsection{we want the norm to be a real scalar, so we need to take the
