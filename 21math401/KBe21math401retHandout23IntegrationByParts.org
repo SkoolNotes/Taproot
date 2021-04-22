@@ -116,4 +116,5 @@
   &=\sec x\tan x -\int \sec ^3 x dx - \int \sec x dx\\
   2 \int \sec ^3 x dx &= \sec x\tan x - \int \sec x dx\\
   &=\sec x\tan x - \ln  |\sec x +\tan x | +C
+  \int \sec ^3 x dx  &= \frac{1}{2}\left( \sec x\tan x - \ln  |\sec x +\tan x |\right)  +C
   \end{aligned}\]
