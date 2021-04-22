@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11435)}}    % original
-%\rhead{\textrmlf{Compiled }\#11435\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11436)}}    % original
+%\rhead{\textrmlf{Compiled }\#11436\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -290,6 +290,10 @@ Or you could use \(u = \ln  x\), apparently.
 
 \hypertarget{int-e2x-cos-3x-dx}{%
 \subsection{\texorpdfstring{\(\int e^{2x} \cos 3x dx\)}{\textbackslash int e\^{}\{2x\} \textbackslash cos 3x dx}}\label{int-e2x-cos-3x-dx}}
+
+\[\begin{aligned}
+   \int e^{2x} \cos 3x dx &= \cos 3x \frac{1}{2}e^{2x}
+   \end{aligned}\]
 
 \hypertarget{evaluate-previous-from-0-fracpi6}{%
 \subsection{\texorpdfstring{evaluate previous from
