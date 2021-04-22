@@ -24,6 +24,10 @@ _Siblings from the same parents are related but not identical._
 
 ### One
 
+- crossing over
+- independdant assortment
+- dna errors in miosis
+- enviom
 
 
 

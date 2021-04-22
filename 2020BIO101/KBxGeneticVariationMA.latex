@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11346)}}    % original
-%\rhead{\textrmlf{Compiled }\#11346\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11347)}}    % original
+%\rhead{\textrmlf{Compiled }\#11347\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -219,5 +219,17 @@ this assignment.~
 
 \hypertarget{one}{%
 \subsubsection{One}\label{one}}
+
+\begin{itemize}
+\tightlist
+\item
+  crossing over
+\item
+  independdant assortment
+\item
+  dna errors in miosis
+\item
+  enviom
+\end{itemize}
 
 \end{document}
