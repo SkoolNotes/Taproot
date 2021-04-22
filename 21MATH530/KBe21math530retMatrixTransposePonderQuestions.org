@@ -11,3 +11,8 @@
   \begin{pmatrix}a&b\\c&d\end{pmatrix}\begin{pmatrix}a&c\\b&d\end{pmatrix} =\begin{pmatrix}a^2+b^2 & ac+bd \\ ac+bd & c^2+d^2 \end{pmatrix}
   \end{aligned}\]
   Then, $A^TA$ is the same thing, but with $b, c$ swapped.
+* For complex matrices
+
+  \[\begin{aligned}
+  \begin{pmatrix}a+bi & c+di \\ f+gi & h+ji\end{pmatrix}
+  \end{aligned}\]
