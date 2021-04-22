@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11471)}}    % original
-%\rhead{\textrmlf{Compiled }\#11471\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11472)}}    % original
+%\rhead{\textrmlf{Compiled }\#11472\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -311,14 +311,14 @@ Or you could use \(u = \ln  x\), apparently.
 \hypertarget{int-sec3-x-dx}{%
 \section{\texorpdfstring{\(\int \sec^3 x dx\)}{\textbackslash int \textbackslash sec\^{}3 x dx}}\label{int-sec3-x-dx}}
 
-\textbackslash{[}\textbackslash begin\{aligned\} ∫ sec 
-\textsuperscript{3} x dx \&=∫sec  xsec  \textsuperscript{2} x dx\\
-\&=sec  xtan  x - ∫sec  xtan \textsuperscript{2} x dx\\
-\&=sec  xtan  x -∫sec  x (sec  \textsuperscript{2} x - 1) dx\\
-\&=sec  xtan  x -∫ sec  \textsuperscript{3} x dx - ∫ sec  x dx\\
-2 ∫ sec  \textsuperscript{3} x dx \&= sec  xtan  x - ∫ sec  x dx\\
-\&=sec  xtan  x - ln  \textbar sec  x +tan  x \textbar{} +C ∫ sec 
-\textsuperscript{3} x dx \&= \frac{1}{2}\left( sec  xtan  x - ln 
-\textbar sec  x +tan  x \textbar{}\right) +C
+\[\begin{aligned}
+  \int \sec ^3 x dx  &=\int\sec x\sec ^2 x dx \\
+  &=\sec x\tan x - \int\sec x\tan^2 x dx\\
+  &=\sec x\tan x -\int\sec x (\sec ^2 x - 1) dx\\
+  &=\sec x\tan x -\int \sec ^3 x dx - \int \sec x dx\\
+  2 \int \sec ^3 x dx &= \sec x\tan x - \int \sec x dx\\
+  &=\sec x\tan x - \ln  |\sec x +\tan x | +C
+  \int \sec ^3 x dx  &= \frac{1}{2}\left( \sec x\tan x - \ln  |\sec x +\tan x |\right)  +C
+  \end{aligned}\]
 
 \end{document}
