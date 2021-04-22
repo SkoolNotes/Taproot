@@ -42,7 +42,7 @@ Viruses inject their own genetic information into its host's cells. While this f
 
 
 ### Two
-Yes, I do. Identical twins occur when a single egg splits into multiple embryos, forming  Genetic varation arising from
+Yes, I do. Identical twins occur when a single egg splits into multiple embryos. Thus, at the very least, genetic variation arising from cell division will occur. 
 
 
 
