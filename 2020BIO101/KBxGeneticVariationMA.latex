@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11326)}}    % original
-%\rhead{\textrmlf{Compiled }\#11326\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11327)}}    % original
+%\rhead{\textrmlf{Compiled }\#11327\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -189,14 +189,27 @@
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\begin{verbatim}
-You may discuss the following questions in groups but please produce your own individual responses here based on your own synthesis of the concepts. These questions are based on today's learning and **will be assessed** (reassessments are okay if needed). Submit your answers to this assignment. 
+\hypertarget{questions}{%
+\subsection{Questions}\label{questions}}
 
-_Siblings from the same parents are related but not identical._
+You may discuss the following questions in groups but please produce
+your own individual responses here based on your own synthesis of the
+concepts. These questions are based on today's learning and \textbf{will
+be assessed} (reassessments are okay if needed). Submit your answers to
+this assignment.~
 
-1) What are all the mechanisms that create this genetic variation between “full” siblings? Describe these processes in as much detail as possible.
+\emph{Siblings from the same parents are related but not identical.}
 
-2) Do you expect there to be any genetic variation between identical twins (from the same fertilized egg, which split into two separate embryos early in development)? Explain your answer.
-\end{verbatim}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\item
+  What are all the mechanisms that create this genetic variation between
+  ``full'' siblings? Describe these processes in as much detail as
+  possible.
+\item
+  Do you expect there to be any genetic variation between identical
+  twins (from the same fertilized egg, which split into two separate
+  embryos early in development)? Explain your answer.
+\end{enumerate}
 
 \end{document}
