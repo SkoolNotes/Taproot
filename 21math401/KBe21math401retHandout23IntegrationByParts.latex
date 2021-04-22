@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11455)}}    % original
-%\rhead{\textrmlf{Compiled }\#11455\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11456)}}    % original
+%\rhead{\textrmlf{Compiled }\#11456\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -305,10 +305,14 @@ Or you could use \(u = \ln  x\), apparently.
 \([0, \frac{pi}{6}]\)}{evaluate previous from {[}0, \textbackslash frac\{pi\}\{6\}{]}}}\label{evaluate-previous-from-0-fracpi6}}
 
 \[\begin{aligned}
-   \frac{3}{13}e^{ \frac{pi}{3} } - \frac{2}{13} =
+   \frac{3}{13}e^{ \frac{pi}{3} } - \frac{2}{13}
    \end{aligned}\]
 
 \hypertarget{int-sec3-x-dx}{%
 \section{\texorpdfstring{\(\int \sec^3 x dx\)}{\textbackslash int \textbackslash sec\^{}3 x dx}}\label{int-sec3-x-dx}}
+
+\[\begin{aligned}
+  \int \sec ^3 x dx  &=
+  \end{aligned}\]
 
 \end{document}
