@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11237)}}    % original
-%\rhead{\textrmlf{Compiled }\#11237\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11424)}}    % original
+%\rhead{\textrmlf{Compiled }\#11424\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -356,5 +356,9 @@ rule)}\label{integration-by-parts-on-products-product-rule}}
 \item
   can use \(1\) as the other part of the product
 \end{enumerate}
+
+\hypertarget{a-graphical-representation}{%
+\subsubsection{a graphical
+representation}\label{a-graphical-representation}}
 
 \end{document}
