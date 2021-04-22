@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11380)}}    % original
-%\rhead{\textrmlf{Compiled }\#11380\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11381)}}    % original
+%\rhead{\textrmlf{Compiled }\#11381\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -230,7 +230,7 @@ genetic variation.
 \hypertarget{crossing-over}{%
 \paragraph{Crossing Over}\label{crossing-over}}
 
-During meiosis 1, DNA segments
+During meiosis 1, DNA segments are swapped between
 
 \begin{itemize}
 \tightlist
