@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11430)}}    % original
-%\rhead{\textrmlf{Compiled }\#11430\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11431)}}    % original
+%\rhead{\textrmlf{Compiled }\#11431\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -374,6 +374,8 @@ case where one of the functions has a derivative that goes to zero (a
 power function).
 
 Take repeated derivatives on the left (with the power function) and take
-repeated integrals to the right.
+repeated integrals to the right. Match up the entries in the table, and
+alternate negatives and positives to expand the integration by parts
+relatively quickly.
 
 \end{document}
