@@ -30,6 +30,8 @@ Cell division requires the replication of DNA. This replication occurs during th
 #### Crossing Over
 During meiosis 1, DNA segments are swapped between homologous chromosomes. These homologs are aligned on the meiotic plates, where segments of each are broken then recombined with the appropriate nucleotide sequence. Mutations can also occur in the DNA synthesis that fills gaps created by this process. 
 
+#### Independent Assortment 
+During metaphase 1, 
 
 - crossing over
 - independdant assortment

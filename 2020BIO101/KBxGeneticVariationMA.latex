@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11389)}}    % original
-%\rhead{\textrmlf{Compiled }\#11389\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11390)}}    % original
+%\rhead{\textrmlf{Compiled }\#11390\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -235,6 +235,11 @@ chromosomes. These homologs are aligned on the meiotic plates, where
 segments of each are broken then recombined with the appropriate
 nucleotide sequence. Mutations can also occur in the DNA synthesis that
 fills gaps created by this process.
+
+\hypertarget{independent-assortment}{%
+\paragraph{Independent Assortment}\label{independent-assortment}}
+
+During metaphase 1,
 
 \begin{itemize}
 \tightlist
