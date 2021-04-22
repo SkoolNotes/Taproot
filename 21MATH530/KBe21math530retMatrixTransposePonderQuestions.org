@@ -16,9 +16,5 @@
   \[\begin{aligned}
   \begin{pmatrix}a+bi & c+di \\ f+gi & j+ki\end{pmatrix}
   \begin{pmatrix}a+bi & f+gi \\ c+di & j+ki\end{pmatrix} =
-  \begin{pmatrix}a^2-b^2+2abi\end{pmatrix}
-  \end{aligned}\]
-
-  \[\begin{aligned}
-  (a+bi)^2 = a^2 - b^2 + 2abi
+  \begin{pmatrix}a^2-b^2+2abi & \\ & \end{pmatrix}
   \end{aligned}\]
