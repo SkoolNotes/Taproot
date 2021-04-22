@@ -138,6 +138,9 @@
 
 **** can use $1$ as the other part of the product
 
-*** a graphical representation
+*** TODO a graphical representation
 
-	Imagine graphing $f(g(x))$ as a function of $f(x)$ and $g(x)$. Then, for some interval on $g(x)$, the bounding rectangle has area $fg(x)$, the area under 
+	Imagine graphing $f(g(x))$ as a function of $f(x)$ and $g(x)$. Then, for some interval on $g(x)$, the bounding rectangle has area $fg(x)$, the area under the curve is $\int TODO dx$
+
+*** tabular technique
+	Just syntactic sugar for integral by parts repeatedly (eg. when you have a power function 

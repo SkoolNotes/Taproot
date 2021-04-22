@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11427)}}    % original
-%\rhead{\textrmlf{Compiled }\#11427\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11428)}}    % original
+%\rhead{\textrmlf{Compiled }\#11428\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -358,11 +358,14 @@ rule)}\label{integration-by-parts-on-products-product-rule}}
 \end{enumerate}
 
 \hypertarget{a-graphical-representation}{%
-\subsubsection{a graphical
-representation}\label{a-graphical-representation}}
+\subsubsection{\texorpdfstring{{TODO} a graphical
+representation}{TODO a graphical representation}}\label{a-graphical-representation}}
 
 Imagine graphing \(f(g(x))\) as a function of \(f(x)\) and \(g(x)\).
 Then, for some interval on \(g(x)\), the bounding rectangle has area
-\(fg(x)\)
+\(fg(x)\), the area under the curve is \(\int TODO dx\)
+
+\hypertarget{tabular-technique}{%
+\subsubsection{tabular technique}\label{tabular-technique}}
 
 \end{document}
