@@ -24,6 +24,8 @@ _Siblings from the same parents are related but not identical._
 
 ### One
 
+One method of 
+
 - crossing over
 - independdant assortment
 - dna errors in miosis
