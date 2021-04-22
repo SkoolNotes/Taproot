@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11358)}}    % original
-%\rhead{\textrmlf{Compiled }\#11358\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11359)}}    % original
+%\rhead{\textrmlf{Compiled }\#11359\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -205,7 +205,7 @@ swapped.
 \[\begin{aligned}
   \begin{pmatrix}a+bi & c+di \\ f+gi & j+ki\end{pmatrix}
   \begin{pmatrix}a+bi & f+gi \\ c+di & j+ki\end{pmatrix} =
-  \begin{pmatrix}a^2-b^2+2abi + c^2-d^2+2cdi & \\ & j^2-k^2+2jki\end{pmatrix}
+  \begin{pmatrix}a^2-b^2+2abi + c^2-d^2+2cdi &  \\ & f^2-g^2+2fgi + j^2-k^2+2jki\end{pmatrix}
   \end{aligned}\]
 
 \end{document}
