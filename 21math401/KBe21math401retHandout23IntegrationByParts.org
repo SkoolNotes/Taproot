@@ -94,10 +94,10 @@
    \[\begin{aligned}
    \int e^{2x} \cos 3x dx &= \cos 3x \frac{1}{2}e^{2x} +\int 3 \sin 3x \frac{1}{2}e^{2x} dx\\
    &= \cos 3x \frac{1}{2}e^{2x} + 3\sin 3x \frac{1}{4}e^{2x} - \int 3 \cos 3x \frac{1}{4}e^{2x} dx\\
-   &= \cos 3x \frac{1}{2}e^{2x} + 3\sin 3x \frac{1}{4}e^{2x} - \frac{3}{4} \int e^{2x} \cos 3x dx\\
-   \frac{7}{4} \int e^{2x} \cos 3x dx &= \cos 3x \frac{1}{2}e^{2x} + 3 \sin 3x \frac{1}{4}e^{2x} +C\\
-   \int e^{2x} \cos 3x dx &= \frac{4}{7} \left( \cos 3x \frac{1}{2}e^{2x} + 3 \sin 3x \frac{1}{4}e^{2x} \right) +C\\
-   &=\frac{2}{7} e^{2x} \left( \cos 3x + \frac{3}{2} \sin 3x \right) +C
+   &= \cos 3x \frac{1}{2}e^{2x} + 3\sin 3x \frac{1}{4}e^{2x} - \frac{9}{4} \int e^{2x} \cos 3x dx\\
+   \frac{13}{4} \int e^{2x} \cos 3x dx &= \cos 3x \frac{1}{2}e^{2x} + 3 \sin 3x \frac{1}{4}e^{2x} +C\\
+   \int e^{2x} \cos 3x dx &= \frac{4}{13} \left( \cos 3x \frac{1}{2}e^{2x} + 3 \sin 3x \frac{1}{4}e^{2x} \right) +C\\
+   &=\frac{2}{13} e^{2x} \left( \cos 3x + \frac{3}{2} \sin 3x \right) +C
    \end{aligned}\]
 
 
