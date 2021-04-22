@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11451)}}    % original
-%\rhead{\textrmlf{Compiled }\#11451\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11452)}}    % original
+%\rhead{\textrmlf{Compiled }\#11452\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -295,9 +295,9 @@ Or you could use \(u = \ln  x\), apparently.
    \int e^{2x} \cos 3x dx &= \cos 3x \frac{1}{2}e^{2x} +\int 3 \sin 3x \frac{1}{2}e^{2x} dx\\
    &= \cos 3x \frac{1}{2}e^{2x} + 3\sin 3x \frac{1}{4}e^{2x} - \int 3 \cos 3x \frac{1}{4}e^{2x} dx\\
    &= \cos 3x \frac{1}{2}e^{2x} + 3\sin 3x \frac{1}{4}e^{2x} - \frac{3}{4} \int e^{2x} \cos 3x dx\\
-   \frac{7}{4} \int e^{2x} \cos 3x dx &= \cos 3x \frac{1}{2}e^{2x} + 3 \sin 3x \frac{1}{4}e^{2x}\\
-   \int e^{2x} \cos 3x dx &= \frac{4}{7} \left( \cos 3x \frac{1}{2}e^{2x} + 3 \sin 3x \frac{1}{4}e^{2x} \right)\\
-   &=\frac{2}{7} e^{2x} \left( \cos 3x + \frac{3}{2} \sin 3x \right)
+   \frac{7}{4} \int e^{2x} \cos 3x dx &= \cos 3x \frac{1}{2}e^{2x} + 3 \sin 3x \frac{1}{4}e^{2x} +C\\
+   \int e^{2x} \cos 3x dx &= \frac{4}{7} \left( \cos 3x \frac{1}{2}e^{2x} + 3 \sin 3x \frac{1}{4}e^{2x} \right) +C\\
+   &=\frac{2}{7} e^{2x} \left( \cos 3x + \frac{3}{2} \sin 3x \right) +C
    \end{aligned}\]
 
 \hypertarget{evaluate-previous-from-0-fracpi6}{%
