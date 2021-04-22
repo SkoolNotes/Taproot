@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11425)}}    % original
-%\rhead{\textrmlf{Compiled }\#11425\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11426)}}    % original
+%\rhead{\textrmlf{Compiled }\#11426\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -361,6 +361,7 @@ rule)}\label{integration-by-parts-on-products-product-rule}}
 \subsubsection{a graphical
 representation}\label{a-graphical-representation}}
 
-Imagine graphing \(fg(x)\) as a function of \(f(x)\) and \(g(x)\).
+Imagine graphing \(f(g(x))\) as a function of \(f(x)\) and \(g(x)\).
+Then,
 
 \end{document}
