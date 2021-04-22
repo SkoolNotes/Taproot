@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11426)}}    % original
-%\rhead{\textrmlf{Compiled }\#11426\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11427)}}    % original
+%\rhead{\textrmlf{Compiled }\#11427\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -362,6 +362,7 @@ rule)}\label{integration-by-parts-on-products-product-rule}}
 representation}\label{a-graphical-representation}}
 
 Imagine graphing \(f(g(x))\) as a function of \(f(x)\) and \(g(x)\).
-Then,
+Then, for some interval on \(g(x)\), the bounding rectangle has area
+\(fg(x)\)
 
 \end{document}
