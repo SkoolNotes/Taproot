@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11352)}}    % original
-%\rhead{\textrmlf{Compiled }\#11352\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11353)}}    % original
+%\rhead{\textrmlf{Compiled }\#11353\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -203,7 +203,8 @@ swapped.
 \section{For complex matrices}\label{for-complex-matrices}}
 
 \[\begin{aligned}
-  \begin{pmatrix}a+bi & c+di \\ f+gi & h+ji\end{pmatrix}
+  \begin{pmatrix}a+bi & c+di \\ f+gi & j+ki\end{pmatrix}
+  \begin{pmatrix}a+bi & f+gi \\ c+di & j+ki\end{pmatrix} =
   \end{aligned}\]
 
 \end{document}
