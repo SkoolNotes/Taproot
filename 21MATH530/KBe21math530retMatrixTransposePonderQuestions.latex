@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11329)}}    % original
-%\rhead{\textrmlf{Compiled }\#11329\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11330)}}    % original
+%\rhead{\textrmlf{Compiled }\#11330\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -186,6 +186,7 @@
 
 % DID YOU SET SPELL????
 
-
+\hypertarget{a-real-valued-matrix}{%
+\section{A real valued matrix}\label{a-real-valued-matrix}}
 
 \end{document}
