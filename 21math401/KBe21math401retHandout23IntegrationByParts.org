@@ -92,7 +92,8 @@
 ** $\int e^{2x} \cos 3x dx$
 
    \[\begin{aligned}
-   \int e^{2x} \cos 3x dx &= \cos 3x \frac{1}{2}e^{2x}
+   \int e^{2x} \cos 3x dx &= \cos 3x \frac{1}{2}e^{2x} +\int \sin 3x \frac{1}{2}e^{2x} dx\\
+   &= \cos 3x \frac{1}{2}e^{2x} + \int \sin 3x \frac{1}{2}e^{2x} dx\\
    \end{aligned}\]
 
 
