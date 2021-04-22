@@ -28,7 +28,7 @@ _Siblings from the same parents are related but not identical._
 Cell division requires the replication of DNA. This replication occurs during the S phase, where ribosomal errors that go undetected lead to genetic variation. 
 
 #### Crossing Over
-During meiosis 1, DNA segments are swapped between homologous chromosomes. These homologs are aligned on meiotic plates, where segments of each are broken then recombined with the appropriate nucleotide sequence.
+During meiosis 1, DNA segments are swapped between homologous chromosomes. These homologs are aligned on meiotic plates, where segments of each are broken then recombined with the appropriate nucleotide sequence. Mutations can also occur in the DNA synthesis that fills gaps created by this process. 
 
 
 - crossing over
