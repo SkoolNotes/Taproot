@@ -34,7 +34,7 @@ During meiosis 1, DNA segments are swapped between homologous chromosomes. These
 During metaphase 1, homologs align randomly and independently to form gametes. This results in significant variation of genetic information in each daughter cell. Their are 2^n combinations of chromosomes, with n being the number of unique chromosomes. 
 
 #### Environmental 
-
+Enviromental 
 
 - crossing over
 - independdant assortment
