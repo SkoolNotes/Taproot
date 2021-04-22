@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11366)}}    % original
-%\rhead{\textrmlf{Compiled }\#11366\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11367)}}    % original
+%\rhead{\textrmlf{Compiled }\#11367\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -223,7 +223,7 @@ this assignment.~
 \hypertarget{interphase}{%
 \paragraph{Interphase}\label{interphase}}
 
-During the S phase, cells replicate their DNA
+During the S phase, cells replicate their DNA.
 
 \begin{itemize}
 \tightlist

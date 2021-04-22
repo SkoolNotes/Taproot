@@ -26,7 +26,7 @@ _Siblings from the same parents are related but not identical._
 
 #### Interphase
 
-During the S phase, cells replicate their DNA
+During the S phase, cells replicate their DNA. 
 
 
 
