@@ -112,4 +112,5 @@
   \[\begin{aligned}
   \int \sec ^3 x dx  &=\int\sec x\sec ^2 x dx \\
   &=\sec x\tan x - \int\sec x\tan^2 x dx\\
+  &=\sec x\tan x -\int\sec x (\sec ^2 x - 1) dx
   \end{aligned}\]
