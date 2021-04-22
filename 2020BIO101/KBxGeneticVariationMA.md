@@ -24,7 +24,7 @@ _Siblings from the same parents are related but not identical._
 
 ### One
 
-#### DNA Replication 
+#### 
 The process of DNA 
 
 
