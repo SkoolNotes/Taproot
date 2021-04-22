@@ -24,8 +24,6 @@ _Siblings from the same parents are related but not identical._
 
 ### One
 
-#### S Phase
-Cell division requires the replication of DNA. This replication occurs during the S phase, where ribosomal errors that go undetected lead to genetic variation. 
 
 #### Crossing Over
 During meiosis 1, DNA segments are swapped between homologous chromosomes. These homologs are aligned on the meiotic plates and attached with the synaptonemal complex, where segments of each are broken then recombined with the appropriate nucleotide sequence. Mutations can also occur in the DNA synthesis that fills gaps created by this process. 
@@ -33,8 +31,11 @@ During meiosis 1, DNA segments are swapped between homologous chromosomes. These
 #### Independent Assortment 
 During metaphase 1, homologs align randomly and independently to form gametes. This results in significant variation of genetic information in each daughter cell. Their are 2^n combinations of chromosomes, with n being the number of unique chromosomes. 
 
+#### S Phase
+Cell division requires the replication of DNA. This replication occurs during the S phase, where ribosomal errors that go undetected lead to genetic variation. 
+
 #### Environmental 
-Enviromental factors can damage DNA,  leading to genetic variation. 
+Enviromental factors can damage DNA, leading to genetic variation. Errors can also result in the process of repairing or replacing this damaged DNA.
 
 - crossing over
 - independdant assortment

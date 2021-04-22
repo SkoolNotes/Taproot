@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11403)}}    % original
-%\rhead{\textrmlf{Compiled }\#11403\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11404)}}    % original
+%\rhead{\textrmlf{Compiled }\#11404\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -220,13 +220,6 @@ this assignment.~
 \hypertarget{one}{%
 \subsubsection{One}\label{one}}
 
-\hypertarget{s-phase}{%
-\paragraph{S Phase}\label{s-phase}}
-
-Cell division requires the replication of DNA. This replication occurs
-during the S phase, where ribosomal errors that go undetected lead to
-genetic variation.
-
 \hypertarget{crossing-over}{%
 \paragraph{Crossing Over}\label{crossing-over}}
 
@@ -245,10 +238,19 @@ gametes. This results in significant variation of genetic information in
 each daughter cell. Their are 2\^{}n combinations of chromosomes, with n
 being the number of unique chromosomes.
 
+\hypertarget{s-phase}{%
+\paragraph{S Phase}\label{s-phase}}
+
+Cell division requires the replication of DNA. This replication occurs
+during the S phase, where ribosomal errors that go undetected lead to
+genetic variation.
+
 \hypertarget{environmental}{%
 \paragraph{Environmental}\label{environmental}}
 
 Enviromental factors can damage DNA, leading to genetic variation.
+Errors can also result in the process of repairing or replacing this
+damaged DNA.
 
 \begin{itemize}
 \tightlist
