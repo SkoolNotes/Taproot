@@ -26,6 +26,8 @@ _Siblings from the same parents are related but not identical._
 
 #### DNA Replication 
 
+
+
 - crossing over
 - independdant assortment
 - dna errors in miosis
