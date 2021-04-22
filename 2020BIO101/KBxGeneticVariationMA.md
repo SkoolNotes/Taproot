@@ -35,7 +35,7 @@ During metaphase 1, homologs align randomly and independently to form gametes. T
 Cell division requires the replication of DNA. This replication occurs during the S phase, where ribosomal errors that go undetected lead to genetic variation. 
 
 #### Environmental 
-Enviromental factors can damage DNA, leading to genetic variation. Errors can also result in the process of repairing or replacing this damaged DNA.
+Enviromental factors can damage DNA, leading to genetic variation. Errors can also result from the process of repairing or replacing this damaged DNA.
 
 - crossing over
 - independdant assortment
