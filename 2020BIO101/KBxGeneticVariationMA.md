@@ -42,7 +42,7 @@ Viruses inject their own genetic information into its host's cells. While this f
 
 
 ### Two
-Yes, I do. Identicle twins occur whhenGenetic varation arising from
+Yes, I do. identical wins occur whhenGenetic varation arising from
 
 
 
