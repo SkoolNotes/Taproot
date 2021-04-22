@@ -38,7 +38,7 @@ Cell division requires the replication of DNA. This replication occurs during th
 Enviromental factors like UV rays or smoking can damage DNA, leading to genetic variation. Errors can also result from the process of repairing or replacing this damaged DNA. Environmental factors can also induce epigenetic change.
 
 #### Viruses
-Viru
+Viruses inject their own genetic information into its host's cells. While this foreign genetic may not be permanent, 
 
 - crossing over
 - independdant assortment

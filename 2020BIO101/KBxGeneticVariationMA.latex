@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11409)}}    % original
-%\rhead{\textrmlf{Compiled }\#11409\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11410)}}    % original
+%\rhead{\textrmlf{Compiled }\#11410\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -256,7 +256,8 @@ epigenetic change.
 \hypertarget{viruses}{%
 \paragraph{Viruses}\label{viruses}}
 
-Viru
+Viruses inject their own genetic information into its host's cells.
+While this foreign genetic may not be permanent,
 
 \begin{itemize}
 \tightlist
