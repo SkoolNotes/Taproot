@@ -40,17 +40,9 @@ Enviromental factors like UV rays or smoking can damage DNA, leading to genetic 
 #### Viruses
 Viruses inject their own genetic information into its host's cells. While this foreign genetic information may not be permanent, it is still genetic variation.
 
-- crossing over
-- independdant assortment
-- dna errors in miosis
-- enviomental
-
-
-
-
 
 ### Two
-
+Yes, I do.
 
 
 
