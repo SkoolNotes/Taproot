@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11372)}}    % original
-%\rhead{\textrmlf{Compiled }\#11372\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11373)}}    % original
+%\rhead{\textrmlf{Compiled }\#11373\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -223,8 +223,8 @@ this assignment.~
 \hypertarget{interphase}{%
 \paragraph{Interphase}\label{interphase}}
 
-Cell division requires the replication of DNA. During the S phase, cells
-replicate their DNA.
+Cell division requires the replication of DNA. This replication occurs
+during the S phase, where errors
 
 \begin{itemize}
 \tightlist

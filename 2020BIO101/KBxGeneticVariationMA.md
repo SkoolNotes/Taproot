@@ -26,7 +26,7 @@ _Siblings from the same parents are related but not identical._
 
 #### Interphase
 
-Cell division requires the replication of DNA. During the S phase, cells replicate their DNA. 
+Cell division requires the replication of DNA. This replication occurs during the S phase, where errors 
 
 
 
