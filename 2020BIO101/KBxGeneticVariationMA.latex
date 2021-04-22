@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11386)}}    % original
-%\rhead{\textrmlf{Compiled }\#11386\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11387)}}    % original
+%\rhead{\textrmlf{Compiled }\#11387\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -232,7 +232,8 @@ genetic variation.
 
 During meiosis 1, DNA segments are swapped between homologous
 chromosomes. These homologs are aligned on meiotic plates, where
-segments of each are broken then recombined with the
+segments of each are broken then recombined with the appropriate
+nucleotide sequence.
 
 \begin{itemize}
 \tightlist
