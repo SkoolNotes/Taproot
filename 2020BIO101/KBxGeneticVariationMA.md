@@ -24,8 +24,9 @@ _Siblings from the same parents are related but not identical._
 
 ### One
 
-#### 
-The process of DNA 
+#### Interphase
+
+During 
 
 
 
