@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11327)}}    % original
-%\rhead{\textrmlf{Compiled }\#11327\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11328)}}    % original
+%\rhead{\textrmlf{Compiled }\#11328\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -211,5 +211,10 @@ this assignment.~
   twins (from the same fertilized egg, which split into two separate
   embryos early in development)? Explain your answer.
 \end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{answers}{%
+\subsection{Answers!}\label{answers}}
 
 \end{document}
