@@ -25,8 +25,10 @@ _Siblings from the same parents are related but not identical._
 ### One
 
 #### S Phase
-
 Cell division requires the replication of DNA. This replication occurs during the S phase, where ribosomal errors that go undetected lead to genetic variation. 
+
+#### Crossing Over
+During meiosis 1, DNA segments 
 
 
 - crossing over

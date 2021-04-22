@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11379)}}    % original
-%\rhead{\textrmlf{Compiled }\#11379\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11380)}}    % original
+%\rhead{\textrmlf{Compiled }\#11380\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -226,6 +226,11 @@ this assignment.~
 Cell division requires the replication of DNA. This replication occurs
 during the S phase, where ribosomal errors that go undetected lead to
 genetic variation.
+
+\hypertarget{crossing-over}{%
+\paragraph{Crossing Over}\label{crossing-over}}
+
+During meiosis 1, DNA segments
 
 \begin{itemize}
 \tightlist
