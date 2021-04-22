@@ -34,7 +34,7 @@ During metaphase 1, homologs align randomly and independently to form gametes. T
 #### S Phase
 Cell division requires the replication of DNA. This replication occurs during the S phase, where ribosomal errors that go undetected lead to genetic variation. 
 
-#### Environmental 
+#### Environmental / Damage
 Enviromental factors like UV rays or smoking can damage DNA, leading to genetic variation. Errors can also result from the process of repairing or replacing this damaged DNA. Environmental factors can also induce epigenetic change.
 
 #### Viruses
@@ -42,7 +42,7 @@ Viruses inject their own genetic information into its host's cells. While this f
 
 
 ### Two
-Yes, I do. Identical twins occur when a single egg splits into multiple embryos. Thus, at the very least, genetic variation arising from cell division will occur. 
+Yes, I do. Identical twins occur when a single egg splits into multiple embryos. Thus, at the very least, genetic variation arising from cell division will occur, not to mention environmental factors and viruses.
 
 
 
