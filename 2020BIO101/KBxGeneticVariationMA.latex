@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11399)}}    % original
-%\rhead{\textrmlf{Compiled }\#11399\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11400)}}    % original
+%\rhead{\textrmlf{Compiled }\#11400\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -242,7 +242,8 @@ this process.
 
 During metaphase 1, homologs align randomly and independently to form
 gametes. This results in significant variation of genetic information in
-each daughter cell.
+each daughter cell. Their are 2\^{}n combinations of chromosomes, with n
+being the number of unique chromosomes.
 
 \begin{itemize}
 \tightlist
