@@ -21,6 +21,7 @@ source:  #index
 
 - **But, Haber was an *evil* guy. **
 	- led the German chemical warfare teams in WWI
+	- also created the poison gas the Nazi's used to murder his own relatives
 	
 	- He invented poison gas used in world war one
 		- And, thus, created Haber's rule:   $c\times t = k$
