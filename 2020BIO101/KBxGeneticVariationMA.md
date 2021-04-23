@@ -74,6 +74,7 @@ thinking through mutations:
 	- delete from the end 
 -   A silent mutation has no effect on protein sequence. Could a silent mutation ever affect an organism’s phenotype? Explain.
 	-   no... it shoudnt be able to
+	- could be on some binding site that would break? 
 -   What functional predictions would you make for a nonsense mutation that occurs very early vs. very late in a gene’s sequence?
 	- very early would make it not get created, middle would cause a strange protein, late would make little impact
     
