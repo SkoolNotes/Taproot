@@ -14,8 +14,7 @@ source:  #index
 
 - Haber invented the Haber-Bosch process, responsible for artificial nitrogen fixation
 - WIthout it, a third of the world would be unfed
-
-
+- Process: ${\displaystyle {\ce {N2 + 3 H2 -> 2 NH3}}\quad \Delta H^{\circ }=-91.8~{\text{kJ/mol}}}$
 
 
 
