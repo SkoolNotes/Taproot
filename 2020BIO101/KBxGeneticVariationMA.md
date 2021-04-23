@@ -18,7 +18,6 @@ _Siblings from the same parents are related but not identical._
 
 2) Do you expect there to be any genetic variation between identical twins (from the same fertilized egg, which split into two separate embryos early in development)? Explain your answer.
 
----
 
 ## Answers!
 
@@ -48,7 +47,7 @@ Yes, I do. Identical twins occur when a single egg splits into multiple embryos.
 
 ## More notes!
 
-### 
+### Traits 
 
 
 
