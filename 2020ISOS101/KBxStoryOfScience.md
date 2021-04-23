@@ -23,7 +23,7 @@ source:  #index
 	- He invented poison gas used in world war one
 		- And, thus, created Haber's rule:   $c\times t = k$
 			- c: concentration, t: time to breath given an effect to produce, k: constant based on the poison itself
-			- 
+		- Also created gases used in pestici
 			
 
 
