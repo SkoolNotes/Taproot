@@ -80,6 +80,7 @@ thinking through mutations:
 	- very early would make it not get created, middle would cause a strange protein, late would make little impact
     
 #### Large scale changes
+chromosonal reanrangrments are a thing. generally not called mutations 
 
 
 
