@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11551)}}    % original
-%\rhead{\textrmlf{Compiled }\#11551\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11552)}}    % original
+%\rhead{\textrmlf{Compiled }\#11552\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -332,5 +332,20 @@ little impact
 
 chromosonal reanrangrments are a thing. generally not called mutations
 deletion, duplicatio, inversion, ect. of large sections
+
+\hypertarget{impact}{%
+\paragraph{Impact}\label{impact}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Loss of function}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    complete loss of protein of function
+  \end{itemize}
+\end{itemize}
 
 \end{document}

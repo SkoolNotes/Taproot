@@ -83,8 +83,9 @@ thinking through mutations:
 chromosonal reanrangrments are a thing. generally not called mutations 
 deletion, duplicatio, inversion, ect. of large sections
 
-
-
+#### Impact
+- **Loss of function**
+	- complete loss of protein of function 
 
 
 
