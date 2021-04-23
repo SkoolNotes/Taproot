@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11545)}}    % original
-%\rhead{\textrmlf{Compiled }\#11545\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11546)}}    % original
+%\rhead{\textrmlf{Compiled }\#11546\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -316,13 +316,13 @@ component P: Collection of traits
 thinking through mutations: - Can you think of scenarios in which the
 insertion or deletion of bases in the above sequence would not result in
 a frameshift? - deleting or inserting multiples of three that are not in
-junctions - not true! will fix itself - delete what would get
-frameshifted - delete from the end - A silent mutation has no effect on
-protein sequence. Could a silent mutation ever affect an organism's
-phenotype? Explain. - no\ldots{} it shoudnt be able to - What functional
-predictions would you make for a nonsense mutation that occurs very
-early vs.~very late in a gene's sequence? - very early would make it not
-get created, middle would cause a strange protein, late would make
-little impact
+junctions - not true! will fix itself -- delete three means 1 and 2,
+combine, back to three. - delete what would get frameshifted - delete
+from the end - A silent mutation has no effect on protein sequence.
+Could a silent mutation ever affect an organism's phenotype? Explain. -
+no\ldots{} it shoudnt be able to - What functional predictions would you
+make for a nonsense mutation that occurs very early vs.~very late in a
+gene's sequence? - very early would make it not get created, middle
+would cause a strange protein, late would make little impact
 
 \end{document}

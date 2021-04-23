@@ -69,7 +69,7 @@ P: Collection of traits
 thinking through mutations:
 -   Can you think of scenarios in which the insertion or deletion of bases in the above sequence would not result in a frameshift?
 	- deleting or inserting multiples of three that are not in junctions
-		- not true! will fix itself
+		- not true! will fix itself -- delete three means 1 and 2, combine, back to three. 
 	- delete what would get frameshifted
 	- delete from the end 
 -   A silent mutation has no effect on protein sequence. Could a silent mutation ever affect an organism’s phenotype? Explain.
