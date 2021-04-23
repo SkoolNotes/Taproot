@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11570)}}    % original
-%\rhead{\textrmlf{Compiled }\#11570\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11571)}}    % original
+%\rhead{\textrmlf{Compiled }\#11571\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -372,5 +372,7 @@ germline vs.~somatic
 \hypertarget{and-the-following-questions}{%
 \subsection{And the following
 questions}\label{and-the-following-questions}}
+
+{[}{[}Pasted image 20210423165355.png{]}{]}
 
 \end{document}
