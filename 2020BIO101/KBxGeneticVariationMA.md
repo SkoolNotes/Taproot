@@ -48,7 +48,7 @@ Yes, I do. Identical twins occur when a single egg splits into multiple embryos.
 ## More notes!
 
 ### Traits 
-
+characteristics influenced by genes but can also have nurture component
 
 
 
