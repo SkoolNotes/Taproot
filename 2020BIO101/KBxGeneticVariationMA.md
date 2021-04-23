@@ -61,6 +61,8 @@ P: Collection of traits
 	- deleting two shifts the entire seqence to the right
 	- break alot of things
 	- so frameshift mutation != frameshift, and frameshift mutation sometimes leads to frameshift
+	
+- mutagens are like carcinogens for mutations
 
 
 
