@@ -93,7 +93,7 @@ deletion, duplicatio, inversion, ect. of large sections
 	- new function
 	- new expression time 
 	- +function 
-but, most proteins are like links in a chain 
+but, most proteins are like links in a chain. Jehnna's term is "pathway" which she seems to like
 
 
 
