@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11550)}}    % original
-%\rhead{\textrmlf{Compiled }\#11550\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11551)}}    % original
+%\rhead{\textrmlf{Compiled }\#11551\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -331,5 +331,6 @@ little impact
 \paragraph{Large scale changes}\label{large-scale-changes}}
 
 chromosonal reanrangrments are a thing. generally not called mutations
+deletion, duplicatio, inversion, ect. of large sections
 
 \end{document}

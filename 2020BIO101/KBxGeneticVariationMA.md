@@ -81,6 +81,7 @@ thinking through mutations:
     
 #### Large scale changes
 chromosonal reanrangrments are a thing. generally not called mutations 
+deletion, duplicatio, inversion, ect. of large sections
 
 
 
