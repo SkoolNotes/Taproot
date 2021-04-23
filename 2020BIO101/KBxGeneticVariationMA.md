@@ -54,7 +54,8 @@ P: Collection of traits
 ### Mutations 
 - point mutation 
 	- silent mutation: no effect, doesn't impact coding sequence
-	- missense: 
+	- missense: changes amino acid structure
+	- nonsense: 
 
 
 
