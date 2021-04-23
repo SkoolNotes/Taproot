@@ -65,7 +65,14 @@ P: Collection of traits
 - mutagens are like carcinogens for mutations
 
 
-
+#### Mutation Think Through
+thinking through mutations:
+-   Can you think of scenarios in which the insertion or deletion of bases in the above sequence would not result in a frameshift?
+    
+-   A silent mutation has no effect on protein sequence. Could a silent mutation ever affect an organism’s phenotype? Explain.
+    
+-   What functional predictions would you make for a nonsense mutation that occurs very early vs. very late in a gene’s sequence?
+    
 
 
 
