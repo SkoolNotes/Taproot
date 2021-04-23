@@ -19,6 +19,7 @@ source:  #index
 - Without the process, a third of the world would be unfed
 - Process: ${\displaystyle {\ce {N2 + 3 H2 -> 2 NH3}}\quad \Delta H^{\circ }=-91.8~{\text{kJ/mol}}}$
 - But, Haber was an *evil* guy. 
+	- He invented poison gas used in world war one
 
 
 
