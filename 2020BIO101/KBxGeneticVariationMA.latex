@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11574)}}    % original
-%\rhead{\textrmlf{Compiled }\#11574\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11575)}}    % original
+%\rhead{\textrmlf{Compiled }\#11575\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -375,32 +375,22 @@ questions}\label{and-the-following-questions}}
 
 !{[}{[}Pasted image 20210423165529.png{]}{]}
 
+\begin{quote}
 \emph{Red blood cells have various carbohydrate molecules attached to
 proteins on their surfaces (see diagram below). Human A-B-O blood types
 are determined by the presence or absence of two particular carbohydrate
-modifications, ``A'' and ``B.''}
-
-\emph{One gene with three main alleles controls the A-B-O trait; it
-encodes a glycosyltransferase (an enzyme that can attach carbohydrates
-to other molecules). The A and B alleles both encode a functional
-enzyme, but each version of the enzyme generates a different
-carbohydrate modification, ``A'' or ``B.'' The O allele encodes a
-non-functional enzyme.}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  What two alleles could a person with blood type A have? With type B?
-  With type AB? With type O?
-\item
-  If a person with type AB blood had a child with a type O person, what
-  possible blood types could their child have? What would be the
-  likelihood of each type?
-\item
-  If the offspring from the previous question grew up to have a child
-  with a type AB person, what blood types could their child potentially
-  have?
-\end{enumerate}
+modifications, ``A'' and ``B.''} \emph{One gene with three main alleles
+controls the A-B-O trait; it encodes a glycosyltransferase (an enzyme
+that can attach carbohydrates to other molecules). The A and B alleles
+both encode a functional enzyme, but each version of the enzyme
+generates a different carbohydrate modification, ``A'' or ``B.'' The O
+allele encodes a non-functional enzyme.}\\
+1. What two alleles could a person with blood type A have? With type B?
+With type AB? With type O? 2. If a person with type AB blood had a child
+with a type O person, what possible blood types could their child have?
+What would be the likelihood of each type? 3. If the offspring from the
+previous question grew up to have a child with a type AB person, what
+blood types could their child potentially have?
+\end{quote}
 
 \end{document}
