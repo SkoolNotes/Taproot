@@ -17,6 +17,7 @@ source:  #index
 	- lack of fixed nitrogen is actually one of the obstacles that origin of life theories hypothesize around
 - Without the process, a third of the world would be unfed
 - Process: ${\displaystyle {\ce {N2 + 3 H2 -> 2 NH3}}\quad \Delta H^{\circ }=-91.8~{\text{kJ/mol}}}$
+- But, Haber was an evil guy. 
 
 
 
