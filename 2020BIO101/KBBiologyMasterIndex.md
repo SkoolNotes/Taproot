@@ -50,7 +50,6 @@ source: #index
 - [[KBhBIO101Day1]]
 - [[KBhBIO101Mutations]]
 - [[KBxGeneticVariationMA]]
-- [[KBx
 
 ## Quiz Review Document
 * 10092020 [[KBhBIO101BioMoleculesQuizReview]]
