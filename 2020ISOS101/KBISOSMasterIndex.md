@@ -38,5 +38,6 @@ source: #index
 * Self Eval's
 	* [[KBxIsosSE]]
 * [[KBxSOMPREZTHING]]
+* [[KBxStoryOfScience]]
 
 	
