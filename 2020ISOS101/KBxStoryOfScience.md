@@ -21,9 +21,8 @@ source:  #index
 - But, Haber was an *evil* guy. 
 	- led the German chemical warfare teams in WWI
 	- He invented poison gas used in world war one
-		- And, thus, created Haber's rule: 
-
-$C\times t = k$
+		- And, thus, created Haber's rule:   $C\times t = k$
+			- C: concentration, T: 
 where {\\displaystyle C}![C](https://wikimedia.org/api/rest_v1/media/math/render/svg/4fc55753007cd3c18576f7933f6f089196732029) is the concentration of the gas (mass per unit volume), {\\displaystyle t}![t](https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560) is the amount of time necessary to breathe the gas to produce a given toxic effect, and {\\displaystyle k}![k](https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40) is a constant, depending on both the gas and the effect.
 
 
