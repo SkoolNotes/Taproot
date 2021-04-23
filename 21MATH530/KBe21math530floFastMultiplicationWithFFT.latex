@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11568)}}    % original
-%\rhead{\textrmlf{Compiled }\#11568\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11569)}}    % original
+%\rhead{\textrmlf{Compiled }\#11569\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -777,7 +777,7 @@ functions}\label{maybe-focus-on-periodic-functions}}
 \item
   what do you need to add to keep it closed under addition?
 \item
-  with finite sums
+  with finite-length sums
 \end{enumerate}
 
 \end{document}
