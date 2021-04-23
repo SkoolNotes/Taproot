@@ -52,7 +52,9 @@ T: characteristics influenced by genes but can also have nurture component
 P: Collection of traits
 
 ### Mutations 
-
+- point mutation 
+	- silent mutation: no effect, doesn't impact coding sequence
+	- missense: 
 
 
 
