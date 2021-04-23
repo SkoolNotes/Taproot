@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11505)}}    % original
-%\rhead{\textrmlf{Compiled }\#11505\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11506)}}    % original
+%\rhead{\textrmlf{Compiled }\#11506\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -224,19 +224,13 @@ notes}\label{story-of-haber-rough-notes}}
   \item
     led the German chemical warfare teams in WWI
   \item
-    He invented poison gas used in world war one
+    He invented poison gas used in world war one - And, thus, created
+    Haber's rule: \(c\times t = k\) - c: concentration, t: time to
+    breath given an effect to produce, k: constant based on the poison
+    itself
 
     \begin{itemize}
     \tightlist
-    \item
-      And, thus, created Haber's rule: \(c\times t = k\)
-
-      \begin{itemize}
-      \tightlist
-      \item
-        c: concentration, t: time to breath given an effect to produce,
-        k: constant based on the poison itself
-      \end{itemize}
     \item
       Also created poisons used in pesticides
     \item

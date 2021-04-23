@@ -23,7 +23,7 @@ source:  #index
 	- led the German chemical warfare teams in WWI
 	
 	- He invented poison gas used in world war one
-		- And, thus, created Haber's rule:   $c\times t = k$
+			- And, thus, created Haber's rule:   $c\times t = k$
 			- c: concentration, t: time to breath given an effect to produce, k: constant based on the poison itself
 		- Also created poisons used in pesticides
 		- And created the poison gas the Nazi's used to murder his own relatives
