@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11564)}}    % original
-%\rhead{\textrmlf{Compiled }\#11564\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11565)}}    % original
+%\rhead{\textrmlf{Compiled }\#11565\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -760,5 +760,12 @@ combination}}{any periodic function as a linear combination}}\label{any-periodic
 \hypertarget{maybe-focus-on-periodic-functions}{%
 \subsubsection{maybe focus on periodic
 functions}\label{maybe-focus-on-periodic-functions}}
+
+\begin{enumerate}
+\item
+  space of continouous functions is also a vector space
+\item
+  the fourier transform is classically about perodic functions
+\end{enumerate}
 
 \end{document}
