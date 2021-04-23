@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11507)}}    % original
-%\rhead{\textrmlf{Compiled }\#11507\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11508)}}    % original
+%\rhead{\textrmlf{Compiled }\#11508\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -249,6 +249,7 @@ notes}\label{story-of-haber-rough-notes}}
   \item
     how do we think about this? how does morality handle a situation
     like that?
+  \item
   \end{itemize}
 \end{itemize}
 
