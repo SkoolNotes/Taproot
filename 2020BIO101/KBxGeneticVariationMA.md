@@ -56,7 +56,8 @@ P: Collection of traits
 	- silent mutation: no effect, doesn't impact codon sequence
 	- missense: changes amino acid structure
 	- nonsense: inserts a stop codon 
-- frameshift: intesertion/deletion 
+- frameshift: insertion/deletion of n amount of bases
+	- deleting two shifts the entire seqence to the right
 
 
 
