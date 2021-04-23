@@ -95,7 +95,7 @@ deletion, duplicatio, inversion, ect. of large sections
 	- +function 
 but, most proteins are like links in a chain. Jehnna's term is "pathway" which she seems to like
 
-
+germline vs. somatic
 
 
 
