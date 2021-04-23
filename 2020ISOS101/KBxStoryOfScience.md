@@ -16,7 +16,7 @@ Story of Haber
 
 rough notes
 
-Haber invented the Haber-Bosch process, responsible for ni
+- Haber invented the Haber-Bosch process, responsible for artificial nitrogen fixation. 
 
 
 

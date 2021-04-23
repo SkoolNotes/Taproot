@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11479)}}    % original
-%\rhead{\textrmlf{Compiled }\#11479\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11480)}}    % original
+%\rhead{\textrmlf{Compiled }\#11480\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -196,6 +196,11 @@ Story of Haber
 
 rough notes
 
-Haber invented the Haber-Bosch process, responsible for ni
+\begin{itemize}
+\tightlist
+\item
+  Haber invented the Haber-Bosch process, responsible for artificial
+  nitrogen fixation.
+\end{itemize}
 
 \end{document}
