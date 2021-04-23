@@ -79,7 +79,7 @@ thinking through mutations:
 -   What functional predictions would you make for a nonsense mutation that occurs very early vs. very late in a gene’s sequence?
 	- very early would make it not get created, middle would cause a strange protein, late would make little impact
     
-
+#### Large scale changes
 
 
 
