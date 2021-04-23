@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11531)}}    % original
-%\rhead{\textrmlf{Compiled }\#11531\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11532)}}    % original
+%\rhead{\textrmlf{Compiled }\#11532\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -301,7 +301,10 @@ component P: Collection of traits
   \item
     deleting two shifts the entire seqence to the right
   \item
-    break alot of thing
+    break alot of things
+  \item
+    so frameshift mutation != frameshift, and frameshift mutation
+    sometimes leads to frameshift
   \end{itemize}
 \end{itemize}
 
