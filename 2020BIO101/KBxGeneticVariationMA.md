@@ -88,10 +88,11 @@ deletion, duplicatio, inversion, ect. of large sections
 	- complete loss of protein of function 
 	- reduction of function 
 	- -function 
-- **Gain of function* 
+- **Gain of function**
 	- increanse in function
 	- new function
 	- new expression time 
+	- +function 
 
 
 

@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11553)}}    % original
-%\rhead{\textrmlf{Compiled }\#11553\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11554)}}    % original
+%\rhead{\textrmlf{Compiled }\#11554\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -351,7 +351,7 @@ deletion, duplicatio, inversion, ect. of large sections
     -function
   \end{itemize}
 \item
-  **Gain of function*
+  \textbf{Gain of function}
 
   \begin{itemize}
   \tightlist
@@ -361,6 +361,8 @@ deletion, duplicatio, inversion, ect. of large sections
     new function
   \item
     new expression time
+  \item
+    +function
   \end{itemize}
 \end{itemize}
 
