@@ -100,8 +100,7 @@ germline vs. somatic
 ## And the following questions
 
 
-![[Pasted image 20210423165355.png]]
-
+![[Pasted image 20210423165529.png]]
 
 
 
