@@ -52,7 +52,7 @@ T: characteristics influenced by genes but can also have nurture component
 P: Collection of traits
 
 ### Mutations 
-- point mutation 
+- point mutation: single base substitution
 	- silent mutation: no effect, doesn't impact codon sequence
 	- missense: changes amino acid structure
 	- nonsense: inserts a stop codon 
