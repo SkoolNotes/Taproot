@@ -135,8 +135,8 @@ Trains }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11513)}}    % original
-%\rhead{\textrmlf{Compiled }\#11513\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11514)}}    % original
+%\rhead{\textrmlf{Compiled }\#11514\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -189,5 +189,11 @@ Trains }
 \hypertarget{first-show-all-eigenvalues-are-complete-and-at-most-1}{%
 \section{First, show all eigenvalues are complete and at most
 1}\label{first-show-all-eigenvalues-are-complete-and-at-most-1}}
+
+\hypertarget{then-it-must-converge-because-the-lambda-1-eigenvalues-send-their-inputs-to-the-same-thing-each-time-and-the-other-ones-are-less-than-one-so-they-end-up-going-to-zero}{%
+\section{\texorpdfstring{then, it must converge because the
+\(\lambda = 1\) eigenvalues send their inputs to the same thing each
+time, and the other ones are less than one so they end up going to
+zero}{then, it must converge because the \textbackslash lambda = 1 eigenvalues send their inputs to the same thing each time, and the other ones are less than one so they end up going to zero}}\label{then-it-must-converge-because-the-lambda-1-eigenvalues-send-their-inputs-to-the-same-thing-each-time-and-the-other-ones-are-less-than-one-so-they-end-up-going-to-zero}}
 
 \end{document}
