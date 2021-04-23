@@ -68,7 +68,7 @@ P: Collection of traits
 #### Mutation Think Through
 thinking through mutations:
 -   Can you think of scenarios in which the insertion or deletion of bases in the above sequence would not result in a frameshift?
-	- deleting or inserting multiples of three
+	- deleting or inserting multiples of three that are not in junctions
 	- delete what would get frameshifted
 	- delete from the end 
 -   A silent mutation has no effect on protein sequence. Could a silent mutation ever affect an organism’s phenotype? Explain.
