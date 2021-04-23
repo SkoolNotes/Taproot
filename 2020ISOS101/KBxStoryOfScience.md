@@ -28,7 +28,9 @@ source:  #index
 		- Also created poisons used in pesticides
 		- And created the poison gas the Nazi's used to murder his own relatives
 	- Wife committed suicide after a fight with Haber.... 
-	- 
+
+- **Caused so much pain and suffering, was an evil person. And yet, is responsible for the life of a third of the human race**
+	- how do we think about this? how does morality handle a situation like that?
 			
 
 
