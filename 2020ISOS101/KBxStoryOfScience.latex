@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11499)}}    % original
-%\rhead{\textrmlf{Compiled }\#11499\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11500)}}    % original
+%\rhead{\textrmlf{Compiled }\#11500\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -197,10 +197,11 @@
 notes}\label{story-of-haber-rough-notes}}
 
 \begin{itemize}
-\tightlist
-\item
-  Haber invented the Haber-Bosch process, responsible for artificial
-  nitrogen fixation
+\item ~
+  \hypertarget{haber-invented-the-haber-bosch-process-responsible-for-artificial-nitrogen-fixation}{%
+  \subsubsection{Haber invented the Haber-Bosch process, responsible for
+  artificial nitrogen
+  fixation}\label{haber-invented-the-haber-bosch-process-responsible-for-artificial-nitrogen-fixation}}
 \item
   used in fertilizers, incredibly important
 
@@ -240,7 +241,7 @@ notes}\label{story-of-haber-rough-notes}}
         k: constant based on the poison itself
       \end{itemize}
     \item
-      Also created gases used in pestici
+      Also created poisons used in pesticides
     \end{itemize}
   \end{itemize}
 \end{itemize}

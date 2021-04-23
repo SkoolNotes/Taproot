@@ -12,7 +12,7 @@ source:  #index
 # Lets go.
 ## Story of Haber | rough notes
 
-- Haber invented the Haber-Bosch process, responsible for artificial nitrogen fixation
+- ### Haber invented the Haber-Bosch process, responsible for artificial nitrogen fixation
 - used in fertilizers, incredibly important
 	- lack of fixed nitrogen is actually one of the obstacles that origin of life theories hypothesize around
 	- N2 makes up around 70% of the air we breath, but is crazy hard to fix into usable nitrogen because of its strong triple bond
@@ -23,7 +23,7 @@ source:  #index
 	- He invented poison gas used in world war one
 		- And, thus, created Haber's rule:   $c\times t = k$
 			- c: concentration, t: time to breath given an effect to produce, k: constant based on the poison itself
-		- Also created gases used in pestici
+		- Also created poisons used in pesticides
 			
 
 
