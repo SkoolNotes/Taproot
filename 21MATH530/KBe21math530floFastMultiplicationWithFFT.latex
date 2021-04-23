@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11559)}}    % original
-%\rhead{\textrmlf{Compiled }\#11559\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11560)}}    % original
+%\rhead{\textrmlf{Compiled }\#11560\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -739,5 +739,9 @@ back}\label{more-focuses-while-cutting-back}}
 \subsubsection{additional verbal explanation for people who haven't seen
 3b1b
 before}\label{additional-verbal-explanation-for-people-who-havent-seen-3b1b-before}}
+
+\hypertarget{any-periodic-function-as-a-linear-combination}{%
+\subsubsection{\texorpdfstring{any periodic function as a \emph{linear
+combination}}{any periodic function as a linear combination}}\label{any-periodic-function-as-a-linear-combination}}
 
 \end{document}
