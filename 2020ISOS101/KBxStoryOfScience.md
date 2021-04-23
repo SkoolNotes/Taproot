@@ -10,13 +10,10 @@ source:  #index
 ---
 
 # Lets go.
+## Story of Haber | rough notes
 
-Story of Haber
-
-
-rough notes
-
-- Haber invented the Haber-Bosch process, responsible for artificial nitrogen fixation. 
+- Haber invented the Haber-Bosch process, responsible for artificial nitrogen fixation
+- WIthout it, a third of the world would be unfed
 
 
 
