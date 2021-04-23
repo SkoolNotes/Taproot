@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11497)}}    % original
-%\rhead{\textrmlf{Compiled }\#11497\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11498)}}    % original
+%\rhead{\textrmlf{Compiled }\#11498\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -231,20 +231,14 @@ notes}\label{story-of-haber-rough-notes}}
     \begin{itemize}
     \tightlist
     \item
-      And, thus, created Haber's rule: \(C\times t = k\)
+      And, thus, created Haber's rule: \(c\times t = k\)
 
       \begin{itemize}
       \tightlist
       \item
-        C: concentration, T: where \{\textbackslash displaystyle
-        C\}\includegraphics{https://wikimedia.org/api/rest_v1/media/math/render/svg/4fc55753007cd3c18576f7933f6f089196732029}
-        is the concentration of the gas (mass per unit volume),
-        \{\textbackslash displaystyle
-        t\}\includegraphics{https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560}
-        is the amount of time necessary to breathe the gas to produce a
-        given toxic effect, and \{\textbackslash displaystyle
-        k\}\includegraphics{https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40}
-        is a constant, depending on both the gas and the effect.
+        c: concentration, t: time to breath given an effect to produce,
+        k: constant based on the poison itself
+      \item
       \end{itemize}
     \end{itemize}
   \end{itemize}
