@@ -27,7 +27,8 @@ source:  #index
 			- c: concentration, t: time to breath given an effect to produce, k: constant based on the poison itself
 		- Also created poisons used in pesticides
 		- And created the poison gas the Nazi's used to murder his own relatives
-	- Wife commited suicide after a fight with Haber.... 
+	- Wife committed suicide after a fight with Haber.... 
+	- 
 			
 
 
