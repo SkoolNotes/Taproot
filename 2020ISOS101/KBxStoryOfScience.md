@@ -31,7 +31,7 @@ source:  #index
 
 - **Caused so much pain and suffering, was an evil person. And yet, is responsible for the life of a third of the human race**
 	- how do we think about this? how does morality handle a situation like that?
-	- 
+	- dark, but interesting story, interesting context, interesting science!
 			
 
 
