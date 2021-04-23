@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11530)}}    % original
-%\rhead{\textrmlf{Compiled }\#11530\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11531)}}    % original
+%\rhead{\textrmlf{Compiled }\#11531\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -301,6 +301,7 @@ component P: Collection of traits
   \item
     deleting two shifts the entire seqence to the right
   \item
+    break alot of thing
   \end{itemize}
 \end{itemize}
 
