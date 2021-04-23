@@ -97,6 +97,27 @@ but, most proteins are like links in a chain. Jehnna's term is "pathway" which s
 
 germline vs. somatic
 
+## And the following questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

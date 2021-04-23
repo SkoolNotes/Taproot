@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11557)}}    % original
-%\rhead{\textrmlf{Compiled }\#11557\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11570)}}    % original
+%\rhead{\textrmlf{Compiled }\#11570\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -368,5 +368,9 @@ deletion, duplicatio, inversion, ect. of large sections
 \end{itemize}
 
 germline vs.~somatic
+
+\hypertarget{and-the-following-questions}{%
+\subsection{And the following
+questions}\label{and-the-following-questions}}
 
 \end{document}
