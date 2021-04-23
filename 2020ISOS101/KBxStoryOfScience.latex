@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11489)}}    % original
-%\rhead{\textrmlf{Compiled }\#11489\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11490)}}    % original
+%\rhead{\textrmlf{Compiled }\#11490\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -210,7 +210,8 @@ notes}\label{story-of-haber-rough-notes}}
     lack of fixed nitrogen is actually one of the obstacles that origin
     of life theories hypothesize around
   \item
-    N2 is makes up around 70\% of the air we breath,
+    N2 makes up around 70\% of the air we breath, but is crazy hard to
+    fix into usable nitrogen because of its strong triple bond
   \end{itemize}
 \item
   Without the process, a third of the world would be unfed
@@ -218,7 +219,7 @@ notes}\label{story-of-haber-rough-notes}}
   Process:
   \({\displaystyle {\ce {N2 + 3 H2 -> 2 NH3}}\quad \Delta H^{\circ }=-91.8~{\text{kJ/mol}}}\)
 \item
-  But, Haber was an evil guy.
+  But, Haber was an \emph{evil} guy.
 \end{itemize}
 
 \end{document}
