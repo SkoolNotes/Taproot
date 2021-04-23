@@ -45,5 +45,7 @@ done
 
 cat recent_errors.txt
 
+cp recent_errors.txt recent_errors.md
+
 make flush >> meta/log.txt
 
