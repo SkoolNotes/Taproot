@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11534)}}    % original
-%\rhead{\textrmlf{Compiled }\#11534\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11535)}}    % original
+%\rhead{\textrmlf{Compiled }\#11535\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -315,15 +315,9 @@ component P: Collection of traits
 
 thinking through mutations: - Can you think of scenarios in which the
 insertion or deletion of bases in the above sequence would not result in
-a frameshift?
-
-\begin{itemize}
-\item
-  A silent mutation has no effect on protein sequence. Could a silent
-  mutation ever affect an organism's phenotype? Explain.
-\item
-  What functional predictions would you make for a nonsense mutation
-  that occurs very early vs.~very late in a gene's sequence?
-\end{itemize}
+a frameshift? - A silent mutation has no effect on protein sequence.
+Could a silent mutation ever affect an organism's phenotype? Explain. -
+What functional predictions would you make for a nonsense mutation that
+occurs very early vs.~very late in a gene's sequence?
 
 \end{document}
