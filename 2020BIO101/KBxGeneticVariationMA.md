@@ -58,6 +58,7 @@ P: Collection of traits
 	- nonsense: inserts a stop codon 
 - frameshift: insertion/deletion of n amount of bases
 	- deleting two shifts the entire seqence to the right
+	- 
 
 
 
