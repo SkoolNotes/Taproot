@@ -11,13 +11,12 @@ source:  #index
 
 # Lets go.
 
-
-story ideas: heiber? 
-
+Story of Haber
 
 
+rough notes
 
-
+Haber invented the Haber-Bosch process, responsible for 
 
 
 
