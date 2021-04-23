@@ -135,8 +135,8 @@ transforms }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11232)}}    % original
-%\rhead{\textrmlf{Compiled }\#11232\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11558)}}    % original
+%\rhead{\textrmlf{Compiled }\#11558\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -724,5 +724,15 @@ The omegas, he calls 'fundamental frequencies' \[\begin{aligned}
     \end{pmatrix}
     \begin{pmatrix}f_1 \\ f_2\\f_3\\\vdots \\f_n\end{pmatrix}
     \end{aligned}\]
+
+\hypertarget{meeting}{%
+\section{meeting}\label{meeting}}
+
+\hypertarget{more-focuses-while-cutting-back}{%
+\subsection{more focuses while cutting
+back}\label{more-focuses-while-cutting-back}}
+
+\hypertarget{linear-algebra}{%
+\subsubsection{linear algebra}\label{linear-algebra}}
 
 \end{document}
