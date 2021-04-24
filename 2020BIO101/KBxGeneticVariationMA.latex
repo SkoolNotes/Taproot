@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11589)}}    % original
-%\rhead{\textrmlf{Compiled }\#11589\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11590)}}    % original
+%\rhead{\textrmlf{Compiled }\#11590\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -411,8 +411,8 @@ blood types could their child potentially have?
 \hypertarget{section-1}{%
 \paragraph{2.}\label{section-1}}
 
-AB, O -\textgreater{}
+A+B, O+A\textbar\textbar B:
 
-AO, BO
+A, O -\textgreater{} A A, A -\textgreater{} A A, B -\textgreater{} AB B
 
 \end{document}
