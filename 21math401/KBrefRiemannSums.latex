@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11623)}}    % original
-%\rhead{\textrmlf{Compiled }\#11623\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11624)}}    % original
+%\rhead{\textrmlf{Compiled }\#11624\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,6 +185,16 @@
 
 % DID YOU SET SPELL????
 
+\hypertarget{slicing-into-rectangles}{%
+\section{Slicing into Rectangles}\label{slicing-into-rectangles}}
 
+\hypertarget{area-interpretation}{%
+\section{Area Interpretation}\label{area-interpretation}}
+
+\hypertarget{upper-and-lower-bound}{%
+\section{Upper and Lower Bound}\label{upper-and-lower-bound}}
+
+\hypertarget{the-definite-integral}{%
+\section{the Definite Integral}\label{the-definite-integral}}
 
 \end{document}
