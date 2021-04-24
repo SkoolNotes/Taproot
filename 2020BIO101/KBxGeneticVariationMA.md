@@ -123,9 +123,12 @@ B + O -> B
 
 #### 3
 O+A||B, A+B:
-O + A -> A,
+O + A -> A
 O + B -> B
-
+A + A -> A
+B + B -> B
+A + B -> A+B
+B + A -> A+B
 
 
 
