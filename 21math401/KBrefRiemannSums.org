@@ -6,7 +6,7 @@
   \sum_{k=1}^{n} \frac{b-a}{n} f(a + k\frac{b-a}{n})
   \end{aligned}\]
 
-  This can be written more concisely by defining $\Delta x = \frac{b-a}{n}$ and $x_i = a + k \Delta x$:
+  This can be written more concisely by defining $\Delta x = \frac{b-a}{n}$ and $x_k = a + k \Delta x$:
 
   \[\begin{aligned}
   \sum_{k=1}^{n} \Delta x f(x_i)
@@ -29,3 +29,5 @@
   \[\begin{aligned}
   \int_{a}^{b} f(x) dx =\lim_{n \to \infty } \sum_{k=1}^{n} f(x_i) \Delta x
   \end{aligned}\]
+
+  Where once again, $\Delta x = \frac{b-a}{n}$ and $x_k = a+k\Delta x$

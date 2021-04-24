@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11640)}}    % original
-%\rhead{\textrmlf{Compiled }\#11640\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11641)}}    % original
+%\rhead{\textrmlf{Compiled }\#11641\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -199,7 +199,7 @@ rectangles \(n\):
   \end{aligned}\]
 
 This can be written more concisely by defining
-\(\Delta x = \frac{b-a}{n}\) and \(x_i = a + k \Delta x\):
+\(\Delta x = \frac{b-a}{n}\) and \(x_k = a + k \Delta x\):
 
 \[\begin{aligned}
   \sum_{k=1}^{n} \Delta x f(x_i)
@@ -233,5 +233,7 @@ Finally, we can define the definite integral as a limit of Riemann sums.
 \[\begin{aligned}
   \int_{a}^{b} f(x) dx =\lim_{n \to \infty } \sum_{k=1}^{n} f(x_i) \Delta x
   \end{aligned}\]
+
+Where once again, \(\Delta x = \frac{b-a}{n}\) and \(x_k = a+k\Delta x\)
 
 \end{document}
