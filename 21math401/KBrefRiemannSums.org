@@ -24,3 +24,8 @@
 * Upper and Lower Bound
   To get an upper and lower bound approximation using a Riemann sum, you cannot always take the left or right edge. Instead, you have to take the minimum or maximum in an interval, usually denoted $f(x_i^*)$.
 * the Definite Integral
+  Finally, we can define the definite integral as a limit of Riemann sums.
+
+  \[\begin{aligned}
+  \int_{a}^{b} f(x) dx =
+  \end{aligned}\]

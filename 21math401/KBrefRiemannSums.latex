@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11638)}}    % original
-%\rhead{\textrmlf{Compiled }\#11638\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11639)}}    % original
+%\rhead{\textrmlf{Compiled }\#11639\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -227,5 +227,11 @@ minimum or maximum in an interval, usually denoted \(f(x_i^*)\).
 
 \hypertarget{the-definite-integral}{%
 \section{the Definite Integral}\label{the-definite-integral}}
+
+Finally, we can define the definite integral as a limit of Riemann sums.
+
+\[\begin{aligned}
+  \int_{a}^{b} f(x) dx =
+  \end{aligned}\]
 
 \end{document}
