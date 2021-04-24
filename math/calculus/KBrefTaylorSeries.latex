@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11644)}}    % original
-%\rhead{\textrmlf{Compiled }\#11644\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11645)}}    % original
+%\rhead{\textrmlf{Compiled }\#11645\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -186,6 +186,9 @@
 % DID YOU SET SPELL????
 
 \hypertarget{talyor-series}{%
-\section{Talyor Series}\label{talyor-series}}
+\section{\texorpdfstring{Talyor Series
+{\textsc{def}}}{Talyor Series def}}\label{talyor-series}}
+
+A Taylor series is a (possibly infinite)
 
 \end{document}
