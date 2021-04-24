@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11632)}}    % original
-%\rhead{\textrmlf{Compiled }\#11632\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11633)}}    % original
+%\rhead{\textrmlf{Compiled }\#11633\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -204,6 +204,10 @@ This can be written more concisely by defining
 \[\begin{aligned}
   \sum_{k=1}^{n} \Delta x f(x_i)
   \end{aligned}\]
+
+These estimates all have the right endpoint of the rectangle touching
+the curve. You could also use the left endpoint, or use the minimum
+value one and add a triangle to form a trapezoid.
 
 \hypertarget{area-interpretation}{%
 \section{Area Interpretation}\label{area-interpretation}}
