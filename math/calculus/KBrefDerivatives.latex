@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11611)}}    % original
-%\rhead{\textrmlf{Compiled }\#11611\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11613)}}    % original
+%\rhead{\textrmlf{Compiled }\#11613\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,24 +185,25 @@
 
 % DID YOU SET SPELL????
 
-\[
-| function                    | derivative                        |
-|-----------------------------+-----------------------------------|
-| x^n                         | nx^{n-1}                          |
-| \sin x                      | \cos x                            |
-| e^x                         | e^x                               |
-| \ln x                       | \frac{1}{x}                       |
-| \ln (1+x)                   | \frac{1}{1+x}                     |
-| \sin^- x                    | \frac{1}{\sqrt{1-x^2}}            |
-| \tan^- x                    | \frac{1}{1+x^2}                   |
-| \tan x                      | \sec ^2 x                         |
-| \sec x                      | \sin x \cos^{-2}x = \tan x \sec x |
-| \csc x                      | \cot x \csc x                     |
-| \ln \vert\sin x\vert        | \cot x                            |
-| \ln \vert \sec  x + \tan  x | \sec x                            |
-|                             |                                   |
-\]
-
-amazing
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+function & derivative \\
+\midrule
+\endhead
+x\textsuperscript{n} & nx\textsuperscript{n-1} \\
+sin  x & cos  x \\
+e\textsuperscript{x} & e\textsuperscript{x} \\
+ln  x & \frac{1}{x} \\
+ln  (1+x) & \frac{1}{1+x} \\
+sin \^{}- x & \frac{1}{\sqrt{1-x^2}} \\
+tan \^{}- x & \frac{1}{1+x^2} \\
+tan  x & sec  \textsuperscript{2} x \\
+sec  x & sin  x cos \textsuperscript{-2}x = tan  x sec  x \\
+csc  x & cot  x csc  x \\
+ln  \textbar sin  x\textbar{} & cot  x \\
+ln  \textbar{} sec  x + tan  x & sec  x \\
+& \\
+\bottomrule
+\end{longtable}
 
 \end{document}
