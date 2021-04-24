@@ -22,4 +22,5 @@
   Traces out a quarter of a semicircle, so the area under this curve is $\frac{\pi}{4}$
 
 * Upper and Lower Bound
+  To get an upper and lower bound approximation using a Riemann sum, you cannot always take the left or right edge. Instead, you have to take the minimum or maximum in an interval, usually denoted $f(x_i^*)$.
 * the Definite Integral

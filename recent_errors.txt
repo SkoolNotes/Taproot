@@ -1,1 +1,2 @@
-        Log for attempt at Fri Apr 23 07:08:06 PM PDT 2021 (11637)
+        Log for attempt at Fri Apr 23 07:08:40 PM PDT 2021 (11638)
+        Fri Apr 23 07:08:40 PM PDT 2021 Converting 21math401/KBrefRiemannSums.org...
