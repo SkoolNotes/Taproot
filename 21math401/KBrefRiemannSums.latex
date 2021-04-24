@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11625)}}    % original
-%\rhead{\textrmlf{Compiled }\#11625\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11626)}}    % original
+%\rhead{\textrmlf{Compiled }\#11626\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -190,7 +190,7 @@
 
 The general idea of Riemann sums is to slice a curve into vertical
 non-overlapping rectangles to approximate the area between the curve and
-the x-axis.
+the x-axis. This can be expressed mathematically
 
 \hypertarget{area-interpretation}{%
 \section{Area Interpretation}\label{area-interpretation}}
