@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11649)}}    % original
-%\rhead{\textrmlf{Compiled }\#11649\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11651)}}    % original
+%\rhead{\textrmlf{Compiled }\#11651\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -200,7 +200,7 @@ For some function \(f(x)\), the Taylor series approximation near \(c\)
 is as follows:
 
 \[\begin{aligned}
-  f(x) = f(c)
+  f(x) = f(c) + f'(c)(x-c) + \frac{f''(c)}{2!}(x-c)^2 + \cdots + \frac{d^n}{dx^n} f(c) (x-c)^n
   \end{aligned}\]
 
 \end{document}

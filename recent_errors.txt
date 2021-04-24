@@ -1,1 +1,2 @@
-        Log for attempt at Fri Apr 23 07:17:22 PM PDT 2021 (11650)
+        Log for attempt at Fri Apr 23 07:17:55 PM PDT 2021 (11651)
+        Fri Apr 23 07:17:55 PM PDT 2021 Converting math/calculus/KBrefTaylorSeries.org...

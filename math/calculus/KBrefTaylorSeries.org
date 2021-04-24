@@ -8,5 +8,5 @@
   For some function $f(x)$, the Taylor series approximation near $c$ is as follows:
 
   \[\begin{aligned}
-  f(x) = f(c)
+  f(x) = f(c) + f'(c)(x-c) + \frac{f''(c)}{2!}(x-c)^2 + \cdots + \frac{d^n}{dx^n} f(c) (x-c)^n
   \end{aligned}\]
