@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11647)}}    % original
-%\rhead{\textrmlf{Compiled }\#11647\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11648)}}    % original
+%\rhead{\textrmlf{Compiled }\#11648\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -193,6 +193,7 @@ A Taylor series is a (possibly infinite) polynomial that approximates a
 function around a neighborhood (often, 0).
 
 The function has to be differentiable as many times as there are terms
-in the approximation.
+in the approximation. If the function is differentiable forever, then
+you can compute the value exactly using an infinite sum.
 
 \end{document}
