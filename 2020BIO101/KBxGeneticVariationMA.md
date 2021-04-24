@@ -103,24 +103,21 @@ germline vs. somatic
 
 > _Red blood cells have various carbohydrate molecules attached to proteins on their surfaces (see diagram below). Human A-B-O blood types are determined by the presence or absence of two particular carbohydrate modifications, “A” and “B.”_ 
 _One gene with three main alleles controls the A-B-O trait; it encodes a glycosyltransferase (an enzyme that can attach carbohydrates to other molecules). The A and B alleles both encode a functional enzyme, but each version of the enzyme generates a different carbohydrate modification, “A” or “B.” The O allele encodes a non-functional enzyme._  
->	1.  What two alleles could a person with blood type A have? With type B? With type AB? With type O?
->	2.  If a person with type AB blood had a child with a type O person, what possible blood types could their child have? What would be the likelihood of each type?
->	3.  If the offspring from the previous question grew up to have a child with a type AB person, what blood types could their child potentially have?
 
-#### 1
+####  What two alleles could a person with blood type A have? With type B? With type AB? With type O?
 - **A**: *AA, AO*
 - **B**: *BB, BO*
 - **AB**: *AB*
 - **O**: *OO*
 
-#### 2
+####  If a person with type AB blood had a child with a type O person, what possible blood types could their child have? What would be the likelihood of each type?
 A + B, O + O:
 - A + O -> A
 - B + O -> B
 
 **50% A, 50% B**
 
-#### 3
+#### If the offspring from the previous question grew up to have a child with a type AB person, what blood types could their child potentially have?
 O+A||B, A+B:
 - O + A -> A
 - O + B -> B
