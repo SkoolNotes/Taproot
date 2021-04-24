@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11615)}}    % original
-%\rhead{\textrmlf{Compiled }\#11615\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11616)}}    % original
+%\rhead{\textrmlf{Compiled }\#11616\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,24 +185,24 @@
 
 % DID YOU SET SPELL????
 
-\begin{longtable}[]{@{}ll@{}}
+\begin{longtable}[]{@{}lll@{}}
 \toprule
-function & derivative \\
+integral & function & derivative \\
 \midrule
 \endhead
-\(x^n\) & \(nx^{n-1}\) \\
-\(\sin x\) & \(\cos x\) \\
-\(e^x\) & \(e^x\) \\
-\(\ln x\) & \(\frac{1}{x}\) \\
-\(\ln (1+x)\) & \(\frac{1}{1+x}\) \\
-\(\sin^- x\) & \(\frac{1}{\sqrt{1-x^2}}\) \\
-\(\tan^- x\) & \(\frac{1}{1+x^2}\) \\
-\(\tan x\) & \(\sec ^2 x\) \\
-\(\sec x\) & \(\sin x \cos^{-2}x = \tan x \sec x\) \\
-\(\csc x\) & \(\cot x \csc x\) \\
-\(\ln \vert\sin x\vert\) & \(\cot x\) \\
-\(\ln \vert \sec x + \tan x\) & \(\sec x\) \\
-& \\
+& \(x^n\) & \(nx^{n-1}\) \\
+& \(\sin x\) & \(\cos x\) \\
+& \(e^x\) & \(e^x\) \\
+& \(\ln x\) & \(\frac{1}{x}\) \\
+& \(\ln (1+x)\) & \(\frac{1}{1+x}\) \\
+& \(\sin^- x\) & \(\frac{1}{\sqrt{1-x^2}}\) \\
+& \(\tan^- x\) & \(\frac{1}{1+x^2}\) \\
+& \(\tan x\) & \(\sec ^2 x\) \\
+& \(\sec x\) & \(\sin x \cos^{-2}x = \tan x \sec x\) \\
+& \(\csc x\) & \(\cot x \csc x\) \\
+\(\ln \vert\sin x\vert\) & \(\cot x\) & \\
+\(\ln \vert \sec x + \tan x\) & \(\sec x\) & \\
+& & \\
 \bottomrule
 \end{longtable}
 
