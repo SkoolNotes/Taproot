@@ -29,3 +29,5 @@
   \[\begin{aligned}
   \int_{a}^{b} f(x) dx =\lim_{n \to \infty } \sum_{k=1}^{n} f(x_i) \Delta x
   \end{aligned}\]
+
+  Where once again, $\Delta x = \frac{b-a}{n}$ and $ $
