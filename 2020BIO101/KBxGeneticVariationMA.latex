@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11576)}}    % original
-%\rhead{\textrmlf{Compiled }\#11576\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11577)}}    % original
+%\rhead{\textrmlf{Compiled }\#11577\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -392,5 +392,14 @@ What would be the likelihood of each type? 3. If the offspring from the
 previous question grew up to have a child with a type AB person, what
 blood types could their child potentially have?
 \end{quote}
+
+\hypertarget{section}{%
+\paragraph{1.}\label{section}}
+
+\begin{itemize}
+\tightlist
+\item
+  A:
+\end{itemize}
 
 \end{document}

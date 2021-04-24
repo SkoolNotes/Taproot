@@ -107,7 +107,8 @@ _One gene with three main alleles controls the A-B-O trait; it encodes a glycosy
 >	2.  If a person with type AB blood had a child with a type O person, what possible blood types could their child have? What would be the likelihood of each type?
 >	3.  If the offspring from the previous question grew up to have a child with a type AB person, what blood types could their child potentially have?
 
-
+#### 1. 
+- A: 
 
 
 
