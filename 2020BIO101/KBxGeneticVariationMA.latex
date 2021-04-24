@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11583)}}    % original
-%\rhead{\textrmlf{Compiled }\#11583\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11584)}}    % original
+%\rhead{\textrmlf{Compiled }\#11584\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -401,9 +401,11 @@ blood types could their child potentially have?
 \item
   \textbf{A}: \emph{AA, AO}
 \item
-  \textbf{B}: \emph{BO, BB}
+  \textbf{B}: \emph{BB, BB}
 \item
   \textbf{AB}: \emph{A+B}
+\item
+  \textbf{O}: \emph{O+O}
 \end{itemize}
 
 \end{document}
