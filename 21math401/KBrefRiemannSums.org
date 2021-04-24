@@ -6,6 +6,8 @@
   \sum_{k=1}^{n} \frac{b-a}{n} f(a + k\frac{b-a}{n})
   \end{aligned}\]
 
+  This can be written more concisely by defining $\Delta x = \frac{b-a}{n}$ and $x_i = a + k \Delta x$
+
 * Area Interpretation
 * Upper and Lower Bound
 * the Definite Integral
