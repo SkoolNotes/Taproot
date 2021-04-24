@@ -17,8 +17,9 @@
 * Area Interpretation
   Areas under curves can be estimated if you recognize the function. For example:
   \[\begin{aligned}
-  \int_{0}^{1} \sqrt{x^2 -1} dx
+  \int_{0}^{1} \sqrt{1-x^2} dx
   \end{aligned}\]
+  Traces out a quarter of a semicircle, so the area under this curve is $\frac{\pi}{4}$
 
 * Upper and Lower Bound
 * the Definite Integral

@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11635)}}    % original
-%\rhead{\textrmlf{Compiled }\#11635\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11636)}}    % original
+%\rhead{\textrmlf{Compiled }\#11636\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -214,8 +214,9 @@ value one and add a triangle to form a trapezoid.
 
 Areas under curves can be estimated if you recognize the function. For
 example: \[\begin{aligned}
-  \int_{0}^{1} \sqrt{x^2 -1} dx
-  \end{aligned}\]
+  \int_{0}^{1} \sqrt{1-x^2} dx
+  \end{aligned}\] Traces out a quarter of a semicircle, so the area
+under this curve is \(\frac{\pi}{4}\)
 
 \hypertarget{upper-and-lower-bound}{%
 \section{Upper and Lower Bound}\label{upper-and-lower-bound}}
