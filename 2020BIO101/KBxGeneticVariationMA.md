@@ -120,8 +120,8 @@ A+B, O+A||B:
 A, O -> A
 A, A -> A
 A, B -> AB
-B
-
+B, O -> B
+B, B -> B
 
 
 
