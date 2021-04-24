@@ -109,9 +109,9 @@ _One gene with three main alleles controls the A-B-O trait; it encodes a glycosy
 
 #### 1. 
 - **A**: *AA, AO*
-- **B**: *BB, BB*
-- **AB**: *A+B*
-- **O**: *O+O*
+- **B**: *BB, BO*
+- **AB**: *AB*
+- **O**: *OO*
 
 
 
