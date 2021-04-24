@@ -1,9 +1,9 @@
 #+TITLE: Riemann Sums
 * Slicing into Rectangles
-  The general idea of Riemann sums is to slice a curve into vertical non-overlapping rectangles to approximate the area between the curve and the x-axis. This can be expressed mathematically as a summation given the function $f(x)$:
+  The general idea of Riemann sums is to slice a curve into vertical non-overlapping rectangles to approximate the area between the curve and the x-axis. This can be expressed mathematically as a summation given the function $f(x)$, the range $[a, b]$, and the number of rectangles $n$:
 
   \[\begin{aligned}
-  \sum_{k=1}^{n} \frac{1}{n}
+  \sum_{k=1}^{n} \frac{1}{n} f()
   \end{aligned}\]
 
 * Area Interpretation
