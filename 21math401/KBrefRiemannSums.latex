@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11633)}}    % original
-%\rhead{\textrmlf{Compiled }\#11633\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11635)}}    % original
+%\rhead{\textrmlf{Compiled }\#11635\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -211,6 +211,11 @@ value one and add a triangle to form a trapezoid.
 
 \hypertarget{area-interpretation}{%
 \section{Area Interpretation}\label{area-interpretation}}
+
+Areas under curves can be estimated if you recognize the function. For
+example: \[\begin{aligned}
+  \int_{0}^{1} \sqrt{x^2 -1} dx
+  \end{aligned}\]
 
 \hypertarget{upper-and-lower-bound}{%
 \section{Upper and Lower Bound}\label{upper-and-lower-bound}}
