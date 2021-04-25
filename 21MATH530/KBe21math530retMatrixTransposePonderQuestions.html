@@ -105,11 +105,10 @@ html {
             <p>I have no good proof of this for larger matrices or non-square matrices, but it makes sense because both scalar addition and scalar multiplication are commutative and transposing swaps rows for columns. Thus, when a matrix on the left is multiplied by a matrix on the right, it is the same as the left matrix becoming the right matrix but after a transpose, because both operations swap the rows and columns in some sense so they "cancel out".</p>
             <h1 id="determinant-distributivity-with-matrix-multiplication">Determinant distributivity with matrix multiplication</h1>
             <p><span class="math display">\[\begin{aligned}
-              \left|\begin{pmatrix}a&amp;b\\c&amp;d\end{pmatrix}\right|\left|\begin{pmatrix}w&amp;x\\y&amp;z\end{pmatrix}\right| = (ad-bc)(wz-xy)\\
-              = adwz - adxy - bcwz + bcxy
-
               = \cancel{acwx} + adwz + bcxy + \cancel{bdyz} - (\cancel{acwx} + adxy + bcwz + \cancel{bdyz})
                (aw+by)(cx+dz) - (ax+bz)(cw+dy) = \left| \begin{pmatrix}aw+by &amp;  ax + bz\\ cw + dy &amp; cx + dz\end{pmatrix} \right|
+              = adwz - adxy - bcwz + bcxy = (ad-bc)(wz-xy)\\
+              = \left|\begin{pmatrix}a&amp;b\\c&amp;d\end{pmatrix}\right|\left|\begin{pmatrix}w&amp;x\\y&amp;z\end{pmatrix}\right|
               \end{aligned}\]</span></p>
         </div>
 
