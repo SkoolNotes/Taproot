@@ -30,3 +30,5 @@
 	 Very general: a function problem 'is a computational problem where a single output (of a total function) is expected for every input, but the output is more complex than that of a decision problem'. Basically calculate a non-binary function.
 
 	 Examples: traveling salesman, integer factorization.
+
+	 However, all function problems can be modeled as decision problems: For some function $f(*args)$

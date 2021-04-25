@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11758)}}    % original
-%\rhead{\textrmlf{Compiled }\#11758\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11759)}}    % original
+%\rhead{\textrmlf{Compiled }\#11759\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -277,6 +277,9 @@ theory}\label{wikipedia-computational-complexity-theory}}
   calculate a non-binary function.
 
   Examples: traveling salesman, integer factorization.
+
+  However, all function problems can be modeled as decision problems:
+  For some function \(f(*args)\)
 \end{enumerate}
 
 \end{document}
