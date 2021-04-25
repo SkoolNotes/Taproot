@@ -1,5 +1,5 @@
-        Log for attempt at Sat Apr 24 10:20:04 PM PDT 2021 (11674)
-        Sat Apr 24 10:20:04 PM PDT 2021 Converting 2020JAP201/KBxAdviceColumn.md...
+        Log for attempt at Sat Apr 24 10:21:15 PM PDT 2021 (11675)
+        Sat Apr 24 10:21:15 PM PDT 2021 Converting 2020JAP201/KBxAdviceColumn.md...
 [WARNING] Missing character: There is no 日 (U+65E5) in font Helvetica Neue/OT:language=dflt;mappin
 [WARNING] Missing character: There is no 本 (U+672C) in font Helvetica Neue/OT:language=dflt;mappin
 [WARNING] Missing character: There is no 語 (U+8A9E) in font Helvetica Neue/OT:language=dflt;mappin
