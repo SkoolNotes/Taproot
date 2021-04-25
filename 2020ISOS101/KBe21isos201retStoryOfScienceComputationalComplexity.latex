@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11784)}}    % original
-%\rhead{\textrmlf{Compiled }\#11784\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11785)}}    % original
+%\rhead{\textrmlf{Compiled }\#11785\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -410,6 +410,11 @@ measures}\label{machine-models-and-complexity-measures}}
   provides an upper bound on the difficulty of the problem. The problems
   that can't be turned into other problems are called "complete" for
   their class.
+
+  There are many types of reductions, but the most common type is the
+  polynomial-time reduction which means the reduction takes polynomial
+  time. If you take a non-polynomial reduction to turn a problem into a
+  polynomial problem, then you haven't done very much.
 \end{enumerate}
 
 \end{document}
