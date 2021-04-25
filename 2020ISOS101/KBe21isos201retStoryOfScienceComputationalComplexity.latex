@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11794)}}    % original
-%\rhead{\textrmlf{Compiled }\#11794\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11795)}}    % original
+%\rhead{\textrmlf{Compiled }\#11795\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -442,6 +442,9 @@ measures}\label{machine-models-and-complexity-measures}}
   problem, then many NP problems would be solvable in polynomial time.
   There are many NP problems that we would like to solve efficiently, so
   this would be a big deal.
+
+  In fact, many of the other 'important open problems' are important
+  because they would show that \(P \neq  NP\).
 \end{enumerate}
 
 \end{document}
