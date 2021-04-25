@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11371)}}    % original
-%\rhead{\textrmlf{Compiled }\#11371\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11702)}}    % original
+%\rhead{\textrmlf{Compiled }\#11702\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -209,5 +209,8 @@ swapped.
 
 I'm not sure if I'm noticing anything different from the real ones,
 although maybe the variables are just too confusing.
+
+\hypertarget{complex-conjugate}{%
+\section{Complex conjugate}\label{complex-conjugate}}
 
 \end{document}
