@@ -78,3 +78,4 @@
 
 	 There are many types of reductions, but the most common type is the polynomial-time reduction which means the reduction takes polynomial time. If you take a non-polynomial reduction to turn a problem into a polynomial problem, then you haven't proven anything.
 ***** hardness and completeness
+	  A problem $X$ is hard for a class $C$ if every problem in $C$ can be reduced to $X$. A problem $X$ is complete for $C$ if it is hard for $C$ it is in $C$.
