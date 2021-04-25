@@ -31,4 +31,4 @@
 
 	 Examples: traveling salesman, integer factorization.
 
-	 However, all function problems can be modeled as decision problems: For some function $f(*args)$
+	 However, all function problems can be modeled as decision problems: For some function $f(*args) \to ans$, it can be modeled as the decision problem of whether $(*args, ans)$ is a valid output.
