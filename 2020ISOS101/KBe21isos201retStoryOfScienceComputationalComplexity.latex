@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11792)}}    % original
-%\rhead{\textrmlf{Compiled }\#11792\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11793)}}    % original
+%\rhead{\textrmlf{Compiled }\#11793\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -437,6 +437,9 @@ measures}\label{machine-models-and-complexity-measures}}
 \begin{enumerate}
 \item
   P vs NP
+
+  If any NP-complete problem can be reduced (polynomially) to a P
+  problem, then
 \end{enumerate}
 
 \end{document}
