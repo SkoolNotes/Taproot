@@ -59,7 +59,8 @@ what do you think?
 
 ___
 
-I also don
+I also don't let my dog eat choclate. 
+chochlate is actully bad for dogs!
 
 
 
