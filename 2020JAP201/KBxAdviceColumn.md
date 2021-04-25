@@ -60,8 +60,9 @@ what do you think?
 ___
 
 I also don't let my dog eat choclate. 
-chochlate is actully bad for dogs!
-
+chochlate is actully poisanous for dogs!
+don't try to eat any
+just say no
 
 
 
