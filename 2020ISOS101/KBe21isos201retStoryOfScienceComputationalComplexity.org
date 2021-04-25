@@ -32,3 +32,5 @@
 	 Examples: traveling salesman, integer factorization.
 
 	 However, all function problems can be modeled as decision problems: For some function $f(*args) \to ans$, it can be modeled as the decision problem of whether $(*args, ans)$ is a valid output.
+***** but does this really work? how can a decision TM be used to compute the function output efficiently? :toexpand:
+**** size of an instance
