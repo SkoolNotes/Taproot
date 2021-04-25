@@ -83,4 +83,4 @@
 	  Being able to reduce a hard problem to another problem shows that that other problem is just as hard, by contradiction. Similarly, being able to reduce a hard problem to a known easy one collapses the hierarchy.
 *** important open problems
 **** P vs NP
-	 If any NP-complete problem can be reduced (polynomially) to a P problem, then
+	 If any NP-complete problem can be reduced (polynomially) to a P problem, then many NP problems would be solvable in polynomial time. There are many NP problems that we would like to solve efficiently, so this would be a big deal.

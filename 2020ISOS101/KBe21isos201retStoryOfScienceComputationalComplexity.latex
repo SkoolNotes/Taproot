@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11793)}}    % original
-%\rhead{\textrmlf{Compiled }\#11793\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11794)}}    % original
+%\rhead{\textrmlf{Compiled }\#11794\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -439,7 +439,9 @@ measures}\label{machine-models-and-complexity-measures}}
   P vs NP
 
   If any NP-complete problem can be reduced (polynomially) to a P
-  problem, then
+  problem, then many NP problems would be solvable in polynomial time.
+  There are many NP problems that we would like to solve efficiently, so
+  this would be a big deal.
 \end{enumerate}
 
 \end{document}
