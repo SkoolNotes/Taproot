@@ -9,7 +9,7 @@ source:  #index
 
 ---
 
-## Prompt: 
+## Prompt
 
 日本語３ 名前：
 
@@ -32,6 +32,23 @@ Please make a copy of this Google doc and submit it on Canvas.
 悩み（なやみ）：
 
 アドバイス：
+
+## Begin
+
+### Setup
+
+character: 
+problem:
+advice:
+
+
+
+
+
+
+
+
+
 
 
 
