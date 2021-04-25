@@ -1,2 +1,4 @@
-        Log for attempt at Sun Apr 25 04:19:52 PM PDT 2021 (11744)
-        Sun Apr 25 04:19:52 PM PDT 2021 Converting 2020HIST201/KBxSomethingElse.md...
+        Log for attempt at Sun Apr 25 04:23:02 PM PDT 2021 (11745)
+        Sun Apr 25 04:23:02 PM PDT 2021 Converting 2020ISOS101/KBe21isos201retStoryOfScienceComputationalComplexity.org...
+Error producing PDF.
+
