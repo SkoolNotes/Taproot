@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11796)}}    % original
-%\rhead{\textrmlf{Compiled }\#11796\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11798)}}    % original
+%\rhead{\textrmlf{Compiled }\#11798\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -448,6 +448,12 @@ measures}\label{machine-models-and-complexity-measures}}
 \item
   NP-indeterminate problems (in NP but not in P nor NP-complete)
   {\textsc{toexpand}}
+
+  some theorem shows that if P neq NP then there are NP-indeterminate
+  problems. If we show that there are none, then that proves P = NP.
+  Some unclassified problems (graph isomorphism problem, integer
+  factorization problem) being P would 'collapse the polynomial
+  hierarchy'.
 \end{enumerate}
 
 \end{document}
