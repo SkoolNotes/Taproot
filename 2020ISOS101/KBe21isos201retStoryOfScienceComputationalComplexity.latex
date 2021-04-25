@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11777)}}    % original
-%\rhead{\textrmlf{Compiled }\#11777\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11778)}}    % original
+%\rhead{\textrmlf{Compiled }\#11778\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -378,6 +378,11 @@ measures}\label{machine-models-and-complexity-measures}}
   machine within time f(n). (This complexity class is known as
   DTIME(f(n)).)
   \end{quote}
+
+  However, using a concrete function \(f(n)\) is often
+  computational-model-dependent, but the Cobham-Edmonds thesis states
+  that 'the time complexities in any two reasonable general models of
+  computation are polynomial related.'
 \end{enumerate}
 
 \end{document}
