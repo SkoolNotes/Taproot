@@ -37,4 +37,4 @@
 	 Size is usually the length of the input. The complexity is a function of the input size, usually representing the worst case time or space (or any other complexity measure) required for any input size.
 *** machine models and complexity measures
 **** Turing machine
-	 standard Turing machine stuff. its very general.
+	 standard Turing machine stuff. its very general. Many types of turing machines (probabilistic, non-deterministic, quantum, etc) are used to define different complexity classes.
