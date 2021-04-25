@@ -20,3 +20,8 @@
 
   I'm not sure if I'm noticing anything different from the real ones, although maybe the variables are just too confusing.
 * Complex conjugate ($A^*A$ vs $A A^*$)
+
+  \[\begin{aligned}
+  \begin{pmatrix}a+bi & c+di \\ f+gi & j+ki\end{pmatrix}
+  \begin{pmatrix}a-bi & f-gi \\ c-di & j-ki\end{pmatrix} =
+  \end{aligned}\]
