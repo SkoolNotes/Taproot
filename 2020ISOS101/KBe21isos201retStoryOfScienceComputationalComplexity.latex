@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11751)}}    % original
-%\rhead{\textrmlf{Compiled }\#11751\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11752)}}    % original
+%\rhead{\textrmlf{Compiled }\#11752\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -241,5 +241,19 @@ problem}\label{importantly-not-how-good-an-algorithm-is-this-field-deals-with-al
 \hypertarget{wikipedia-computational-complexity-theory}{%
 \subsection{Wikipedia computational complexity
 theory}\label{wikipedia-computational-complexity-theory}}
+
+\hypertarget{computational-problems}{%
+\subsubsection{computational problems}\label{computational-problems}}
+
+\begin{enumerate}
+\item
+  problem instances
+
+  A problem describes the problem. the actual "numbers" that describe a
+  specific problem is called a problem instance. sorting a list is a
+  problem, sorting \emph{this} list is a problem instance.
+\item
+  representing problem instances
+\end{enumerate}
 
 \end{document}
