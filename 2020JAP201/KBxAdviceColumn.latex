@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11669)}}    % original
-%\rhead{\textrmlf{Compiled }\#11669\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11670)}}    % original
+%\rhead{\textrmlf{Compiled }\#11670\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -236,7 +236,7 @@ don't eat the chochlate
 \hypertarget{english}{%
 \subsubsection{English}\label{english}}
 
-My name is jeffery, and I am a dog! I like to chew on socks and play in
-the grass.
+My name is jeffery, and I am a dog! \%\%I like to chew on socks and play
+in the grass. \%\%
 
 \end{document}
