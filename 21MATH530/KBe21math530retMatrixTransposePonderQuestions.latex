@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11737)}}    % original
-%\rhead{\textrmlf{Compiled }\#11737\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11738)}}    % original
+%\rhead{\textrmlf{Compiled }\#11738\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -262,6 +262,7 @@ multiplication}\label{determinant-distributivity-with-matrix-multiplication}}
   \end{aligned}\]
 
 This makes sense given that the determinant of a matrix can be
-considered a "scaling factor."
+considered a "scaling factor." We had talked about the determinant being
+the area of the parallelogram of
 
 \end{document}

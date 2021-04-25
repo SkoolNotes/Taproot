@@ -53,4 +53,4 @@
   &= \left|\begin{pmatrix}a&b\\c&d\end{pmatrix}\right|\left|\begin{pmatrix}w&x\\y&z\end{pmatrix}\right|
   \end{aligned}\]
 
-  This makes sense given that the determinant of a matrix can be considered a "scaling factor." We had talked about the determinant being the area of the parallelogram of
+  This makes sense given that the determinant of a matrix can be considered a "scaling factor." We had talked about the determinant being the area of the parallelogram of the column vectors, but not about how t
