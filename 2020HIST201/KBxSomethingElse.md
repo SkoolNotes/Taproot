@@ -15,9 +15,10 @@ source:  #index
 tailwind + vanilla react
 
 coc - tailwind
+[https://github.com/iamcco/coc-tailwindcss](https://github.com/iamcco/coc-tailwindcss "https://github.com/iamcco/coc-tailwindcss")
 
-
-
+[https://tailwindcss.com/docs/guides/create-react-app](https://tailwindcss.com/docs/guides/create-react-app "https://tailwindcss.com/docs/guides/create-react-app")
+[https://tailwindcss.com/](https://tailwindcss.com/ "https://tailwindcss.com/")
 
 
 
