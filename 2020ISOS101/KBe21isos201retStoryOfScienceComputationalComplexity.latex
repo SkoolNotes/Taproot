@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11790)}}    % original
-%\rhead{\textrmlf{Compiled }\#11790\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11792)}}    % original
+%\rhead{\textrmlf{Compiled }\#11792\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -423,7 +423,18 @@ measures}\label{machine-models-and-complexity-measures}}
     is hard for \(C\) it is in \(C\). NP-complete problems are the "most
     difficult problems in NP" because other problems can be reduced to
     them.
+
+    Being able to reduce a hard problem to another problem shows that
+    that other problem is just as hard, by contradiction. Similarly,
+    being able to reduce a hard problem to a known easy one collapses
+    the hierarchy.
   \end{enumerate}
+\end{enumerate}
+
+\hypertarget{important-open-problems}{%
+\subsubsection{important open problems}\label{important-open-problems}}
+
+\begin{enumerate}
 \item
   P vs NP
 \end{enumerate}
