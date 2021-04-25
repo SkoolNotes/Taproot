@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11713)}}    % original
-%\rhead{\textrmlf{Compiled }\#11713\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11714)}}    % original
+%\rhead{\textrmlf{Compiled }\#11714\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -237,7 +237,7 @@ multiplication}\label{transpose-distributivity-with-matrix-multiplication}}
 
 \[\begin{aligned}
   (AB)^\top =\left(\begin{pmatrix}a&b\\c&d\end{pmatrix}\begin{pmatrix}w&x\\y&z\end{pmatrix}\right) ^\top
-  =\begin{pmatrix}aw+by & cw+dy \\ ax + bz & cx + dz \end{pmatrix} =\begin{pmatrix}w&y\\x&z\end{pmatrix}\begin{pmatrix}a&c\\b&d\end{pmatrix}
+  =\begin{pmatrix}aw+by & cw+dy \\ ax + bz & cx + dz \end{pmatrix} =\begin{pmatrix}w&y\\x&z\end{pmatrix}\begin{pmatrix}a&c\\b&d\end{pmatrix} = B^\top A^\top
   \end{aligned}\]
 
 \end{document}
