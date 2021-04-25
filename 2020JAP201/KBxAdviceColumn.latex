@@ -120,8 +120,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ \%--- }
+\newcommand{\thecourse}{ JAP301 }
+\newcommand{\thelesson}{ Write your own advice column! }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -134,12 +134,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11700)}}    % original
-%\rhead{\textrmlf{Compiled }\#11700\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11701)}}    % original
+%\rhead{\textrmlf{Compiled }\#11701\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -184,9 +184,6 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-title: Write your own advice column! context: JAP301 author: Huxley
-source: \#index ---
 
 \#ret
 
@@ -239,11 +236,11 @@ don't eat the chochlate
 \hypertarget{english}{%
 \subsubsection{English}\label{english}}
 
-My name is jeffery, and I am a dog! I have a wondeful family of 5! they
-alway make me wonderful food, and sometimes I can eat some of their
-food. they love to eat chochlate, but they never let me have any! next
-week, i want to sneak into the snack drawer and have some what do you
-think?
+My name is jeffery, and I am a dog! \%\%I like to chew on socks and play
+in the grass. \%\% I have a wondeful family of 5! they alway make me
+wonderful food, and sometimes I can eat some of their food. they love to
+eat chochlate, but they never let me have any! next week, i want to
+sneak into the snack drawer and have some what do you think?
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
@@ -253,7 +250,10 @@ dogs! don't try to eat any
 \hypertarget{japanese}{%
 \subsubsection{Japanese}\label{japanese}}
 
-\%\% \#\#\#\# ワンワン わたしのなまえはジェフリーで、いぬです。
+\hypertarget{ux30efux30f3ux30efux30f3}{%
+\paragraph{ワンワン}\label{ux30efux30f3ux30efux30f3}}
+
+わたしのなまえはジェフリーで、いぬです。
 かぞくは五人で、みんなやさしいです。
 いつもおいしいたべものをつくってくれます。
 たまに、かれらのたべものをたべさせてくれます。
