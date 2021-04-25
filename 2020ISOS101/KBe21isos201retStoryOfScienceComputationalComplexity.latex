@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11779)}}    % original
-%\rhead{\textrmlf{Compiled }\#11779\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11780)}}    % original
+%\rhead{\textrmlf{Compiled }\#11780\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -387,6 +387,16 @@ measures}\label{machine-models-and-complexity-measures}}
   This suggests that all if we want to be machine-independent, all
   polynomial problems are roughly the same and belong in the same class:
   P (for decision problems) and FP (for function problems).
+
+  \begin{enumerate}
+  \item
+    why are there different classes if decision and function problems
+    are the same-ish? dunno {\textsc{toexpand}}
+  \end{enumerate}
+\item
+  important complexity classes
+
+  A nice list here but the complexity petting zoo is more friendly.
 \end{enumerate}
 
 \end{document}
