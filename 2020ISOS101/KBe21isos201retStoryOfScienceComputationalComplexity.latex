@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11795)}}    % original
-%\rhead{\textrmlf{Compiled }\#11795\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11796)}}    % original
+%\rhead{\textrmlf{Compiled }\#11796\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -445,6 +445,9 @@ measures}\label{machine-models-and-complexity-measures}}
 
   In fact, many of the other 'important open problems' are important
   because they would show that \(P \neq  NP\).
+\item
+  NP-indeterminate problems (in NP but not in P nor NP-complete)
+  {\textsc{toexpand}}
 \end{enumerate}
 
 \end{document}
