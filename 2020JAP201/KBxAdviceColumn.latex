@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11654)}}    % original
-%\rhead{\textrmlf{Compiled }\#11654\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11656)}}    % original
+%\rhead{\textrmlf{Compiled }\#11656\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -189,6 +189,9 @@
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
+\hypertarget{prompt}{%
+\subsection{Prompt:}\label{prompt}}
+
 日本語３ 名前：
 
 悩み相談（なやみそうだん）を書こう！
@@ -224,7 +227,5 @@ Please make a copy of this Google doc and submit it on Canvas.
 悩み（なやみ）：
 
 アドバイス：
-
-**
 
 \end{document}
