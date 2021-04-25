@@ -5,6 +5,8 @@
 
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
 
 \usepackage[normalem]{ulem}
 
@@ -12,10 +14,17 @@
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
+\usepackage{setspace}
 
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
 
 \usepackage{enumitem}
 \setlistdepth{9}
@@ -31,6 +40,9 @@
 \setlist[itemize,9]{label=\textbullet}
 
 \renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -71,22 +83,14 @@
 }
 
 \usepackage{mathspec}
-%\setmainfont[
-%   ItalicFont     = HelveticaNeue-Italic,
-%   BoldFont       = HelveticaNeue-Bold,
-%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
-%\newfontfamily\NHLight[
-%   ItalicFont     = HelveticaNeue-LightItalic,
-%   BoldFont       = HelveticaNeue-UltraLight,
-%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
 \setmainfont[
-   ItalicFont     = Iosevka-Aile-Italic,
-   BoldFont       = Iosevka-Aile-Bold,
-   BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
 \newfontfamily\NHLight[
-   ItalicFont     = Iosevka-Aile-Light-Italic,
-   BoldFont       = Iosevka-Aile-Light,
-   BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -130,11 +134,13 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6144)}}    % original
-%\rhead{\textrmlf{Compiled }\#6144\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6144\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11741)}}    % original
+%\rhead{\textrmlf{Compiled }\#11741\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
 \lfoot{Huxleu \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -169,11 +175,15 @@
     \end{center}
 }
 
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
 \#ref \#incomplete
 
@@ -189,6 +199,8 @@ Incomplete, due to file deletion.
   Self Eval: {[}{[}KBMlSelfEval{]}{]}
 \item
   Final Exploration: {[}{[}KBWeightAgnosticNN{]}{]}
+\item
+  {[}{[}KBxSomethingElse{]}{]}
 \end{itemize}
 
 \end{document}
