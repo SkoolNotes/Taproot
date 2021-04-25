@@ -52,3 +52,8 @@
 **** upper and lower bounds for problems
 	 Importantly, this is *not an upper or lower bound for an algorithm*. Instead, for problems in general, it's relatively easy to decide an upper bound (which is just the worst case complexity of any correct algorithm), but a lower bound is difficult (since it must involve algorithms that haven't been discovered yet).
 *** complexity classes
+**** dependencies
+	 Complexity classes are a function of the following factors
+***** problem type
+	  { decision, function, counting, optimization, promise, etc }
+***** computation model
