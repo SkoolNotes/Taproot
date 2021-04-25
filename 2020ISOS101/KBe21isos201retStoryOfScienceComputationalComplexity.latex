@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11746)}}    % original
-%\rhead{\textrmlf{Compiled }\#11746\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11747)}}    % original
+%\rhead{\textrmlf{Compiled }\#11747\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -200,6 +200,16 @@ Theory }
 
 \hypertarget{overview}{%
 \section{overview}\label{overview}}
+
+\hypertarget{computational-complexity-theory-studies-how-difficult-a-problem-is}{%
+\subsection{computational complexity theory studies how "difficult" a
+problem
+is}\label{computational-complexity-theory-studies-how-difficult-a-problem-is}}
+
+\hypertarget{importantly-not-how-good-an-algorithm-is-this-field-deals-with-all-algorithms-that-solve-a-given-problem}{%
+\subsubsection{importantly, not how "good" an algorithm is\ldots{} this
+field deals with all algorithms that solve a given
+problem}\label{importantly-not-how-good-an-algorithm-is-this-field-deals-with-all-algorithms-that-solve-a-given-problem}}
 
 \hypertarget{flows}{%
 \section{flows}\label{flows}}
