@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11756)}}    % original
-%\rhead{\textrmlf{Compiled }\#11756\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11757)}}    % original
+%\rhead{\textrmlf{Compiled }\#11757\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -270,6 +270,10 @@ theory}\label{wikipedia-computational-complexity-theory}}
   \end{enumerate}
 \item
   function problems
+
+  Very general: a function problem 'is a computational problem where a
+  single output (of a total function) is expected for every input, but
+  the output is more complex than that of a decision problem'
 \end{enumerate}
 
 \end{document}
