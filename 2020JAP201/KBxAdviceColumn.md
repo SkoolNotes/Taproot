@@ -47,9 +47,9 @@ my family is always eating choclate, but they won't let me have any! I want to s
 
 don't eat the chochlate
 
-### english 
+### English 
 
-
+My name is jeffery, and I am a dog!
 
 
 
