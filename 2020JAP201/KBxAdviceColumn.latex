@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11690)}}    % original
-%\rhead{\textrmlf{Compiled }\#11690\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11691)}}    % original
+%\rhead{\textrmlf{Compiled }\#11691\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -249,6 +249,9 @@ dogs! don't try to eat any
 
 \hypertarget{japanese}{%
 \subsubsection{Japanese}\label{japanese}}
+
+\hypertarget{section}{%
+\paragraph{}\label{section}}
 
 わたしのなまえはジェフリーで、いぬです。
 かぞくは五人で、みんなやさしいです。
