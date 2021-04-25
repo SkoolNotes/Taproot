@@ -45,5 +45,5 @@
 * Determinant distributivity with matrix multiplication
 
   \[\begin{aligned}
-  \left|  \right|
+  \left| \begin{pmatrix}aw+by &  ax + bz\\ cw + dy & cx + dz\end{pmatrix} \right|
   \end{aligned}\]
