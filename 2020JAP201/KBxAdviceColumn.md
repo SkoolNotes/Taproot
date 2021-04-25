@@ -62,7 +62,23 @@ ___
 I also don't let my dog eat choclate. 
 chochlate is actully poisanous for dogs!
 don't try to eat any
-just say no
+
+### Japanese
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
