@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11764)}}    % original
-%\rhead{\textrmlf{Compiled }\#11764\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11765)}}    % original
+%\rhead{\textrmlf{Compiled }\#11765\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -306,6 +306,11 @@ measures}\label{machine-models-and-complexity-measures}}
   standard Turing machine stuff. its very general. Many types of turing
   machines (probabilistic, non-deterministic, quantum, etc) are used to
   define different complexity classes.
+\item
+  other machine models {\textsc{toexpand}}
+
+  Other non-standard Turing machines are used, but the idea is that they
+  aren't actually any better, somehow?
 \end{enumerate}
 
 \end{document}
