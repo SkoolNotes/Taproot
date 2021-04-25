@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11762)}}    % original
-%\rhead{\textrmlf{Compiled }\#11762\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11763)}}    % original
+%\rhead{\textrmlf{Compiled }\#11763\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -293,6 +293,17 @@ theory}\label{wikipedia-computational-complexity-theory}}
   Size is usually the length of the input. The complexity is a function
   of the input size, usually representing the worst case time or space
   (or any other complexity measure) required for any input size.
+\end{enumerate}
+
+\hypertarget{machine-models-and-complexity-measures}{%
+\subsubsection{machine models and complexity
+measures}\label{machine-models-and-complexity-measures}}
+
+\begin{enumerate}
+\item
+  Turing machine
+
+  standard Turing machine stuff. its very general.
 \end{enumerate}
 
 \end{document}
