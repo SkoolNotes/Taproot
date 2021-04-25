@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11757)}}    % original
-%\rhead{\textrmlf{Compiled }\#11757\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11758)}}    % original
+%\rhead{\textrmlf{Compiled }\#11758\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -273,7 +273,10 @@ theory}\label{wikipedia-computational-complexity-theory}}
 
   Very general: a function problem 'is a computational problem where a
   single output (of a total function) is expected for every input, but
-  the output is more complex than that of a decision problem'
+  the output is more complex than that of a decision problem'. Basically
+  calculate a non-binary function.
+
+  Examples: traveling salesman, integer factorization.
 \end{enumerate}
 
 \end{document}
