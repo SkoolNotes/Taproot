@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11680)}}    % original
-%\rhead{\textrmlf{Compiled }\#11680\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11681)}}    % original
+%\rhead{\textrmlf{Compiled }\#11681\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -250,6 +250,6 @@ dogs! don't try to eat any
 \hypertarget{japanese}{%
 \subsubsection{Japanese}\label{japanese}}
 
-わたしのなまえはジェフリーです。
+わたしのなまえはジェフリーで、いぬです。
 
 \end{document}
