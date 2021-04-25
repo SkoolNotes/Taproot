@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11704)}}    % original
-%\rhead{\textrmlf{Compiled }\#11704\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11706)}}    % original
+%\rhead{\textrmlf{Compiled }\#11706\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -215,8 +215,9 @@ although maybe the variables are just too confusing.
 \(A A^*\))}{Complex conjugate (A\^{}*A vs A A\^{}*)}}\label{complex-conjugate-aa-vs-a-a}}
 
 \[\begin{aligned}
-  \begin{pmatrix}a+bi & c+di \\ f+gi & j+ki\end{pmatrix}
-  \begin{pmatrix}a-bi & f-gi \\ c-di & j-ki\end{pmatrix} =
+  \begin{pmatrix}a+bi & c+di \\ f+gi & j+ki \end{pmatrix}
+  \begin{pmatrix}a-bi & f-gi \\ c-di & j-ki \end{pmatrix} =
+  \begin{pmatrix} a^2 + b^2 + c^2 + d^2 & () \\ () & f^2 + g^2 + j^2 + k^2 \end{pmatrix}
   \end{aligned}\]
 
 \end{document}
