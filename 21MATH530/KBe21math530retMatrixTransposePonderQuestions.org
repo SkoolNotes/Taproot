@@ -53,4 +53,6 @@
   &= \left|\begin{pmatrix}a&b\\c&d\end{pmatrix}\right|\left|\begin{pmatrix}w&x\\y&z\end{pmatrix}\right|
   \end{aligned}\]
 
-  This makes sense given that the determinant of a matrix can be considered a "scaling factor." We had talked about the determinant being the area of the parallelogram of the column vectors, but not about how that represented the matrix multiplied by the identity whose column parallelogram has area one.
+  This makes sense given that the determinant of a matrix can be considered a "scaling factor." We had talked about the determinant being the area of the parallelogram of the column vectors, but not about how that represented the matrix multiplied by the identity whose column parallelogram has area one. Thus, the composition should multiply areas, which it seems to do.
+
+  This can probably be the base case of an induction proof that extends this to larger matrices, since determinants are defined recursively.

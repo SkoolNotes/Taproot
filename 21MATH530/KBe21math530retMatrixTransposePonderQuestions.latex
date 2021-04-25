@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11739)}}    % original
-%\rhead{\textrmlf{Compiled }\#11739\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11740)}}    % original
+%\rhead{\textrmlf{Compiled }\#11740\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -265,6 +265,10 @@ This makes sense given that the determinant of a matrix can be
 considered a "scaling factor." We had talked about the determinant being
 the area of the parallelogram of the column vectors, but not about how
 that represented the matrix multiplied by the identity whose column
-parallelogram has area one.
+parallelogram has area one. Thus, the composition should multiply areas,
+which it seems to do.
+
+This can probably be the base case of an induction proof that extends
+this to larger matrices, since determinants are defined recursively.
 
 \end{document}
