@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11714)}}    % original
-%\rhead{\textrmlf{Compiled }\#11714\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11716)}}    % original
+%\rhead{\textrmlf{Compiled }\#11716\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -239,5 +239,13 @@ multiplication}\label{transpose-distributivity-with-matrix-multiplication}}
   (AB)^\top =\left(\begin{pmatrix}a&b\\c&d\end{pmatrix}\begin{pmatrix}w&x\\y&z\end{pmatrix}\right) ^\top
   =\begin{pmatrix}aw+by & cw+dy \\ ax + bz & cx + dz \end{pmatrix} =\begin{pmatrix}w&y\\x&z\end{pmatrix}\begin{pmatrix}a&c\\b&d\end{pmatrix} = B^\top A^\top
   \end{aligned}\]
+
+I have no good proof of this for larger matrices or non-square matrices,
+but it makes sense because both scalar addition and scalar
+multiplication are commutative and transposing swaps rows for columns.
+Thus, when a matrix on the left is multiplied by a matrix on the right,
+it is the same as the left matrix becoming the right matrix but after a
+transpose, because both operations swap the rows and columns in some
+sense so they "cancel out".
 
 \end{document}
