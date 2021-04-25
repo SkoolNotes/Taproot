@@ -1,2 +1,1 @@
-        Log for attempt at Sun Apr 25 12:14:23 PM PDT 2021 (11718)
-        Sun Apr 25 12:14:23 PM PDT 2021 Converting 21MATH530/KBe21math530retMatrixTransposePonderQuestions.org...
+        Log for attempt at Sun Apr 25 12:14:59 PM PDT 2021 (11719)
