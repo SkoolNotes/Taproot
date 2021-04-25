@@ -47,3 +47,5 @@
 ***** blums complexity axioms                                      :toexpand:
 **** best/worst/average case
 	 We generally talk about worst case complexity, but some algorithms have good average-case which is good enough (eg. quicksort). Generally, best-case < average-case < amortized analysis < worst-case.
+**** upper and lower bounds for problems
+	 Importantly, this is *not an upper or lower bound for an algorithm*. Instead, for problems in general, it's relatively easy to decide

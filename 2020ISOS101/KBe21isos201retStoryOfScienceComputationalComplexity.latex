@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11769)}}    % original
-%\rhead{\textrmlf{Compiled }\#11769\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11770)}}    % original
+%\rhead{\textrmlf{Compiled }\#11770\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -332,6 +332,12 @@ measures}\label{machine-models-and-complexity-measures}}
   have good average-case which is good enough (eg. quicksort).
   Generally, best-case \textless{} average-case \textless{} amortized
   analysis \textless{} worst-case.
+\item
+  upper and lower bounds for problems
+
+  Importantly, this is \textbf{not an upper or lower bound for an
+  algorithm}. Instead, for problems in general, it's relatively easy to
+  decide
 \end{enumerate}
 
 \end{document}
