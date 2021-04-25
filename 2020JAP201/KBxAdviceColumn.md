@@ -37,21 +37,25 @@ Please make a copy of this Google doc and submit it on Canvas.
 
 ### Setup
 
-character: 
-problem:
-advice:
-
-
-
-covid 
-the vaccine is threatening to end me!
-start mutating 
+character:  dog
+problem: chochlate
+advice: dont
 
 
 i am a dog
 my family is always eating choclate, but they won't let me have any! I want to sneak into the snack drawer and eat some tmr
 
 don't eat the chochlate
+
+### english 
+
+
+
+
+
+
+
+
 
 
 
