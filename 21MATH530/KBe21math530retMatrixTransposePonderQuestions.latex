@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11726)}}    % original
-%\rhead{\textrmlf{Compiled }\#11726\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11727)}}    % original
+%\rhead{\textrmlf{Compiled }\#11727\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -254,6 +254,7 @@ multiplication}\label{determinant-distributivity-with-matrix-multiplication}}
 
 \[\begin{aligned}
   \left|\begin{pmatrix}a&b\\c&d\end{pmatrix}\right|\left|\begin{pmatrix}w&x\\y&z\end{pmatrix}\right| = (ad-bc)(wz-xy)\\
+  = adwz - adxy - bcwz + bcxy
 
    (aw+by)(cx+dz) - (ax+bz)(cw+dy) = \left| \begin{pmatrix}aw+by &  ax + bz\\ cw + dy & cx + dz\end{pmatrix} \right|
   \end{aligned}\]
