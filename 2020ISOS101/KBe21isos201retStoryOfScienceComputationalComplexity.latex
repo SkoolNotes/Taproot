@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11789)}}    % original
-%\rhead{\textrmlf{Compiled }\#11789\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11790)}}    % original
+%\rhead{\textrmlf{Compiled }\#11790\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -420,8 +420,12 @@ measures}\label{machine-models-and-complexity-measures}}
 
     A problem \(X\) is hard for a class \(C\) if every problem in \(C\)
     can be reduced to \(X\). A problem \(X\) is complete for \(C\) if it
-    is hard for \(C\) it is in \(C\).
+    is hard for \(C\) it is in \(C\). NP-complete problems are the "most
+    difficult problems in NP" because other problems can be reduced to
+    them.
   \end{enumerate}
+\item
+  P vs NP
 \end{enumerate}
 
 \end{document}
