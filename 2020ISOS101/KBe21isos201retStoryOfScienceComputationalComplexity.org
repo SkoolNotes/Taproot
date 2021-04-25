@@ -24,5 +24,6 @@
 **** representing problem instances
 	 formally strings of characters from alphabets. The input size is the length of the string. Different representations can be chosen but it should be trivial (fast) to convert from one to the other.
 **** decision problems (most basic type)
-	 Generally, given an input, the output is either yes or no.
+	 Generally, given an input, the output is either yes (accept) or no (reject). For example, deciding whether a graph is connected or not.
 ***** it can be thought of as a "formal language"                  :toexpand:
+**** function problems

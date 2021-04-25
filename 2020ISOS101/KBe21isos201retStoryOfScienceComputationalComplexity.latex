@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11755)}}    % original
-%\rhead{\textrmlf{Compiled }\#11755\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11756)}}    % original
+%\rhead{\textrmlf{Compiled }\#11756\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -261,12 +261,15 @@ theory}\label{wikipedia-computational-complexity-theory}}
 \item
   decision problems (most basic type)
 
-  Generally, given an input, the output is either yes or no.
+  Generally, given an input, the output is either yes (accept) or no
+  (reject). For example, deciding whether a graph is connected or not.
 
   \begin{enumerate}
   \item
     it can be thought of as a "formal language" {\textsc{toexpand}}
   \end{enumerate}
+\item
+  function problems
 \end{enumerate}
 
 \end{document}
