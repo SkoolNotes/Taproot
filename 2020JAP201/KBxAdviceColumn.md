@@ -51,6 +51,10 @@ don't eat the chochlate
 
 My name is jeffery, and I am a dog!
 %%I like to chew on socks and play in the grass. %%
+I have a wondeful family of 5!
+they alway make me wonderful food, and sometimes I can eat some of their food.
+they love to eat chochlate, but they never let me have any!
+
 
 
 
