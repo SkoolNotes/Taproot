@@ -54,7 +54,8 @@ My name is jeffery, and I am a dog!
 I have a wondeful family of 5!
 they alway make me wonderful food, and sometimes I can eat some of their food.
 they love to eat chochlate, but they never let me have any!
-tonight, i want to sneek 
+next week, i want to sneak into the snack drawer and have some
+what do you think?
 
 
 
