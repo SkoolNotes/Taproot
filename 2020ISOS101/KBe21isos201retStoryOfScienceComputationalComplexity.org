@@ -74,3 +74,4 @@
 **** Hierarchy theorems                                            :toexpand:
 	 We would like to establish a strict containment hierarchy within classes (but between different eg. polynomial functions). This does that, apparently?
 **** Reduction
+	 Many problems can be turned into other problems in their class, which provides an upper bound on the difficulty of the problem. The problems that can't be turned into other problems are called "complete" for their class.

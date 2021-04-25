@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11783)}}    % original
-%\rhead{\textrmlf{Compiled }\#11783\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11784)}}    % original
+%\rhead{\textrmlf{Compiled }\#11784\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -405,6 +405,11 @@ measures}\label{machine-models-and-complexity-measures}}
   that, apparently?
 \item
   Reduction
+
+  Many problems can be turned into other problems in their class, which
+  provides an upper bound on the difficulty of the problem. The problems
+  that can't be turned into other problems are called "complete" for
+  their class.
 \end{enumerate}
 
 \end{document}
