@@ -15,3 +15,4 @@ source: #index
 [[KBxPenPalScript]]
 [[KBxPenPalEmail]]
 [[KBxGRME]]
+[[KBxAdviceColumn]]

@@ -120,8 +120,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ JAP201 }
-\newcommand{\thelesson}{ Japanese Master Index }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -139,7 +139,7 @@
 \rhead{
     \today
     }       % new date
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -185,14 +185,48 @@
 
 % DID YOU SET SPELL????
 
-\#source
+\#flo \#ref \#ret \#disorganized \#incomplete
 
-\hypertarget{japanese-master-index}{%
-\section{Japanese Master Index}\label{japanese-master-index}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-{[}{[}00-Topic-KB202008241103{]}{]} Day one {[}{[}KBNezumiPractice{]}{]}
-{[}{[}KBxJapSelfEval{]}{]} {[}{[}KBxPenPalScript{]}{]}
-{[}{[}KBxPenPalEmail{]}{]} {[}{[}KBxGRME{]}{]}
-{[}{[}KBxAdviceColumn{]}{]}
+**
+
+日本語３ 名前：
+
+悩み相談（なやみそうだん）を書こう！
+
+Now that you've read some advice columns in Japanese and given some
+advice, it's time to write some of your own! As it says on the bottom of
+pg. 287 in ``Genki 2,'' imagine you are one of the following people
+(i.e., NOT yourself) and write a request for help with a problem. Also,
+write some advice for that problem.
+
+留学生（りゅうがくせい）
+
+お父さん・お母さん
+
+日本語の先生
+
+ペット（ねこや犬など）
+
+有名人（ゆうめいじん）
+
+その他（others--your choice)
+
+These do not have to be real problems--you can create something
+completely fictional and outlandish if you want, but your advice should
+be reasonable and practical.~ Your problem and advice should be about
+8-10 sentences total.~ For examples of both problems and advice, see pg.
+286 of ``Genki 2.''~ Follow the format on pg. 286 and include a title
+and some identifying information about the writer (i.e., age, gender,
+location, first name, etc).
+
+Please make a copy of this Google doc and submit it on Canvas.
+
+悩み（なやみ）：
+
+アドバイス：
+
+**
 
 \end{document}
