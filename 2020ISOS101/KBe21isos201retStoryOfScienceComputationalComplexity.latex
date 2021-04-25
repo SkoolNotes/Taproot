@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11747)}}    % original
-%\rhead{\textrmlf{Compiled }\#11747\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11748)}}    % original
+%\rhead{\textrmlf{Compiled }\#11748\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -210,6 +210,24 @@ is}\label{computational-complexity-theory-studies-how-difficult-a-problem-is}}
 \subsubsection{importantly, not how "good" an algorithm is\ldots{} this
 field deals with all algorithms that solve a given
 problem}\label{importantly-not-how-good-an-algorithm-is-this-field-deals-with-all-algorithms-that-solve-a-given-problem}}
+
+\hypertarget{key-concepts}{%
+\subsection{key concepts}\label{key-concepts}}
+
+\hypertarget{reducibility}{%
+\subsubsection{reducibility}\label{reducibility}}
+
+\hypertarget{complexity-classes}{%
+\subsubsection{complexity classes}\label{complexity-classes}}
+
+\hypertarget{hierarchy}{%
+\subsubsection{hierarchy}\label{hierarchy}}
+
+\hypertarget{key-problems}{%
+\subsection{key problems}\label{key-problems}}
+
+\hypertarget{p-vs-np}{%
+\subsubsection{P vs NP}\label{p-vs-np}}
 
 \hypertarget{flows}{%
 \section{flows}\label{flows}}
