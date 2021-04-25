@@ -41,4 +41,8 @@
 **** other machine models                                          :toexpand:
 	 Other non-standard Turing machines are used, but the idea is that they aren't actually any better, somehow?
 **** Complexity Measures
-	 Usually time or space, but any complexity measure that satisfies Blum's complexity axioms can be used.
+	 Usually time or space, but any complexity measure that satisfies Blum's complexity axioms can be used. Examples include: communication complexity, circuit complexity.
+
+	 Also constant factors don't really matter. And its usually the worst case.
+***** blums complexity axioms                                      :toexpand:
+****

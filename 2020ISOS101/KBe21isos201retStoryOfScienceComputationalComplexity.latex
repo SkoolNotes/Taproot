@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11766)}}    % original
-%\rhead{\textrmlf{Compiled }\#11766\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11767)}}    % original
+%\rhead{\textrmlf{Compiled }\#11767\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -315,7 +315,18 @@ measures}\label{machine-models-and-complexity-measures}}
   Complexity Measures
 
   Usually time or space, but any complexity measure that satisfies
-  Blum's complexity axioms can be used.
+  Blum's complexity axioms can be used. Examples include: communication
+  complexity, circuit complexity.
+
+  Also constant factors don't really matter. And its usually the worst
+  case.
+
+  \begin{enumerate}
+  \item
+    blums complexity axioms {\textsc{toexpand}}
+
+    \textbf{**}
+  \end{enumerate}
 \end{enumerate}
 
 \end{document}
