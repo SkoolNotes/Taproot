@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11774)}}    % original
-%\rhead{\textrmlf{Compiled }\#11774\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11775)}}    % original
+%\rhead{\textrmlf{Compiled }\#11775\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -364,7 +364,11 @@ measures}\label{machine-models-and-complexity-measures}}
     computation model
 
     \{ deterministic Turing machine, non-deterministic, Boolean
-    circuits, quantum TM, monotone circuits, etc \} \textbf{***}
+    circuits, quantum TM, monotone circuits, etc \}
+  \item
+    bounded resources
+
+    \{ polynomial time, logarithmic space, constant depth \}
   \end{enumerate}
 \end{enumerate}
 
