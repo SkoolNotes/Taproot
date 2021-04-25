@@ -1,12 +1,11 @@
 ---
-title:   
-context: 
-author:  
+title:   Write your own advice column!
+context: JAP301
+author:  Huxley
 source:  #index
 ---
 
-#flo #ref #ret 
-#disorganized #incomplete
+#ret 
 
 ---
 
