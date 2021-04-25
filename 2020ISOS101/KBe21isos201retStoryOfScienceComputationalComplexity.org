@@ -22,4 +22,4 @@
 **** problem instances
 	 A problem describes the problem. the actual "numbers" that describe a specific problem is called a problem instance. sorting a list is a problem, sorting /this/ list is a problem instance.
 **** representing problem instances
-	 formally strings of characters from alphabets.
+	 formally strings of characters from alphabets. The input size is the length of the string. Different representations can be chosen but it should be trivial (fast) to convert from one to the other.
