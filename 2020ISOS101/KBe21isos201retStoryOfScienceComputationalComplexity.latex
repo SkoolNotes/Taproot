@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11748)}}    % original
-%\rhead{\textrmlf{Compiled }\#11748\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11749)}}    % original
+%\rhead{\textrmlf{Compiled }\#11749\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -213,6 +213,9 @@ problem}\label{importantly-not-how-good-an-algorithm-is-this-field-deals-with-al
 
 \hypertarget{key-concepts}{%
 \subsection{key concepts}\label{key-concepts}}
+
+\hypertarget{types-of-problems}{%
+\subsubsection{types of problems}\label{types-of-problems}}
 
 \hypertarget{reducibility}{%
 \subsubsection{reducibility}\label{reducibility}}
