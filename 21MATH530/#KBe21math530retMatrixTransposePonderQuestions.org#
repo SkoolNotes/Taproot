@@ -46,5 +46,6 @@
 
   \[\begin{aligned}
   \left| \begin{pmatrix}aw+by &  ax + bz\\ cw + dy & cx + dz\end{pmatrix} \right| = (aw+by)(cx+dz) - (ax+bz)(cw+dy)
-  \begin{pmatrix}a&b\\c&d\end{pmatrix}\right|
+  \left|\begin{pmatrix}a&b\\c&d\end{pmatrix}\right|\left|\begin{pmatrix}w&x\\y&z\end{pmatrix}\right| =
+  (ad-bc)(wz=
   \end{aligned}\]
