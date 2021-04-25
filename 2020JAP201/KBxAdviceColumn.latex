@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11686)}}    % original
-%\rhead{\textrmlf{Compiled }\#11686\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11687)}}    % original
+%\rhead{\textrmlf{Compiled }\#11687\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -253,6 +253,6 @@ dogs! don't try to eat any
 わたしのなまえはジェフリーで、いぬです。
 かぞくは五人で、みんなやさしいです。
 いつもおいしいたべものをつくってくれます。
-たまに、かれらののごりものをたべさせてくれます。
+たまに、かれらのたべものをたべさせてくれます。 かれらは
 
 \end{document}
