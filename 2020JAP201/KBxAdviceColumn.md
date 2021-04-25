@@ -50,6 +50,7 @@ don't eat the chochlate
 ### English 
 
 My name is jeffery, and I am a dog!
+I like to chew on socks and play in the grass. 
 
 
 
