@@ -34,3 +34,4 @@
 	 However, all function problems can be modeled as decision problems: For some function $f(*args) \to ans$, it can be modeled as the decision problem of whether $(*args, ans)$ is a valid output.
 ***** but does this really work? how can a decision TM be used to compute the function output efficiently? :toexpand:
 **** size of an instance
+	 Size is usually the length of the input. The complexity is a function of the input size, usually representing the worst case time or space (or any other complexity measure) required for any input size.
