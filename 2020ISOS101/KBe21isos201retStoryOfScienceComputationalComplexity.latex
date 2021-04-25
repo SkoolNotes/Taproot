@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11768)}}    % original
-%\rhead{\textrmlf{Compiled }\#11768\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11769)}}    % original
+%\rhead{\textrmlf{Compiled }\#11769\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -327,6 +327,11 @@ measures}\label{machine-models-and-complexity-measures}}
   \end{enumerate}
 \item
   best/worst/average case
+
+  We generally talk about worst case complexity, but some algorithms
+  have good average-case which is good enough (eg. quicksort).
+  Generally, best-case \textless{} average-case \textless{} amortized
+  analysis \textless{} worst-case.
 \end{enumerate}
 
 \end{document}

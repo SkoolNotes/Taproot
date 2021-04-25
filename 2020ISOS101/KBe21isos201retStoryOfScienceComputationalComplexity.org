@@ -46,3 +46,4 @@
 	 Also constant factors don't really matter. And its usually the worst case.
 ***** blums complexity axioms                                      :toexpand:
 **** best/worst/average case
+	 We generally talk about worst case complexity, but some algorithms have good average-case which is good enough (eg. quicksort). Generally, best-case < average-case < amortized analysis < worst-case.
