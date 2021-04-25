@@ -40,3 +40,5 @@
 	 standard Turing machine stuff. its very general. Many types of turing machines (probabilistic, non-deterministic, quantum, etc) are used to define different complexity classes.
 **** other machine models                                          :toexpand:
 	 Other non-standard Turing machines are used, but the idea is that they aren't actually any better, somehow?
+**** Complexity Measures
+	 Usually time or space, but any complexity measure that satisfies Blum's complexity axioms can be used.
