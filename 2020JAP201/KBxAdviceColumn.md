@@ -49,8 +49,9 @@ start mutating
 
 
 i am a dog
-my family is always eating choclate, but they won't let me have any!
+my family is always eating choclate, but they won't let me have any! I want to sneak into the snack drawer and eat some tmr
 
+don't eat the chochlate
 
 
 
