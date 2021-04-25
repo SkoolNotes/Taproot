@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11716)}}    % original
-%\rhead{\textrmlf{Compiled }\#11716\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11717)}}    % original
+%\rhead{\textrmlf{Compiled }\#11717\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -247,5 +247,9 @@ Thus, when a matrix on the left is multiplied by a matrix on the right,
 it is the same as the left matrix becoming the right matrix but after a
 transpose, because both operations swap the rows and columns in some
 sense so they "cancel out".
+
+\hypertarget{determinant-distributivity-with-matrix-multiplication}{%
+\section{Determinant distributivity with matrix
+multiplication}\label{determinant-distributivity-with-matrix-multiplication}}
 
 \end{document}
