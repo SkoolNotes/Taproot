@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11724)}}    % original
-%\rhead{\textrmlf{Compiled }\#11724\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11725)}}    % original
+%\rhead{\textrmlf{Compiled }\#11725\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -253,9 +253,9 @@ sense so they "cancel out".
 multiplication}\label{determinant-distributivity-with-matrix-multiplication}}
 
 \[\begin{aligned}
-  \left| \begin{pmatrix}aw+by &  ax + bz\\ cw + dy & cx + dz\end{pmatrix} \right| = (aw+by)(cx+dz) - (ax+bz)(cw+dy)
   \left|\begin{pmatrix}a&b\\c&d\end{pmatrix}\right|\left|\begin{pmatrix}w&x\\y&z\end{pmatrix}\right| =
-
+  (ad-bc)(wz-xy) =
+   (aw+by)(cx+dz) - (ax+bz)(cw+dy) = \left| \begin{pmatrix}aw+by &  ax + bz\\ cw + dy & cx + dz\end{pmatrix} \right|
   \end{aligned}\]
 
 \end{document}

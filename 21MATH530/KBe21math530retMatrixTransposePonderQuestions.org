@@ -45,7 +45,7 @@
 * Determinant distributivity with matrix multiplication
 
   \[\begin{aligned}
-  \left| \begin{pmatrix}aw+by &  ax + bz\\ cw + dy & cx + dz\end{pmatrix} \right| = (aw+by)(cx+dz) - (ax+bz)(cw+dy)
   \left|\begin{pmatrix}a&b\\c&d\end{pmatrix}\right|\left|\begin{pmatrix}w&x\\y&z\end{pmatrix}\right| =
-
+  (ad-bc)(wz-xy) =
+   (aw+by)(cx+dz) - (ax+bz)(cw+dy) = \left| \begin{pmatrix}aw+by &  ax + bz\\ cw + dy & cx + dz\end{pmatrix} \right|
   \end{aligned}\]
