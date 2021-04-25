@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11752)}}    % original
-%\rhead{\textrmlf{Compiled }\#11752\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11753)}}    % original
+%\rhead{\textrmlf{Compiled }\#11753\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -254,6 +254,8 @@ theory}\label{wikipedia-computational-complexity-theory}}
   problem, sorting \emph{this} list is a problem instance.
 \item
   representing problem instances
+
+  formally strings of characters from alphabets.
 \end{enumerate}
 
 \end{document}

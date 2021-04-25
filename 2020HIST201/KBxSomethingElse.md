@@ -23,3 +23,4 @@ coc - tailwind
 chackra
 
 
+pictures: https://drive.google.com/drive/folders/1Fl9yKuLJ4QB7X7hz5Pd1NYlzTuy0rCP_
