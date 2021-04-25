@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11717)}}    % original
-%\rhead{\textrmlf{Compiled }\#11717\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11718)}}    % original
+%\rhead{\textrmlf{Compiled }\#11718\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -251,5 +251,9 @@ sense so they "cancel out".
 \hypertarget{determinant-distributivity-with-matrix-multiplication}{%
 \section{Determinant distributivity with matrix
 multiplication}\label{determinant-distributivity-with-matrix-multiplication}}
+
+\[\begin{aligned}
+  \left|  \right|
+  \end{aligned}\]
 
 \end{document}
