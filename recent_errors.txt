@@ -1,5 +1,5 @@
-        Log for attempt at Sat Apr 24 10:39:53 PM PDT 2021 (11696)
-        Sat Apr 24 10:39:53 PM PDT 2021 Converting 2020JAP201/KBxAdviceColumn.md...
+        Log for attempt at Sat Apr 24 10:40:29 PM PDT 2021 (11697)
+        Sat Apr 24 10:40:29 PM PDT 2021 Converting 2020JAP201/KBxAdviceColumn.md...
 [WARNING] Missing character: There is no 日 (U+65E5) in font Helvetica Neue/OT:language=dflt;mappin
 [WARNING] Missing character: There is no 本 (U+672C) in font Helvetica Neue/OT:language=dflt;mappin
 [WARNING] Missing character: There is no 語 (U+8A9E) in font Helvetica Neue/OT:language=dflt;mappin
@@ -286,3 +286,13 @@
 [WARNING] Missing character: There is no い (U+3044) in font Helvetica Neue/OT:language=dflt;mappin
 [WARNING] Missing character: There is no ぬ (U+306C) in font Helvetica Neue/OT:language=dflt;mappin
 [WARNING] Missing character: There is no に (U+306B) in font Helvetica Neue/OT:language=dflt;mappin
+[WARNING] Missing character: There is no あ (U+3042) in font Helvetica Neue/OT:language=dflt;mappin
+[WARNING] Missing character: There is no ぶ (U+3076) in font Helvetica Neue/OT:language=dflt;mappin
+[WARNING] Missing character: There is no な (U+306A) in font Helvetica Neue/OT:language=dflt;mappin
+[WARNING] Missing character: There is no い (U+3044) in font Helvetica Neue/OT:language=dflt;mappin
+[WARNING] Missing character: There is no で (U+3067) in font Helvetica Neue/OT:language=dflt;mappin
+[WARNING] Missing character: There is no す (U+3059) in font Helvetica Neue/OT:language=dflt;mappin
+[WARNING] Missing character: There is no 。 (U+3002) in font Helvetica Neue/OT:language=dflt;mappin
+[WARNING] Missing character: There is no け (U+3051) in font Helvetica Neue/OT:language=dflt;mappin
+[WARNING] Missing character: There is no っ (U+3063) in font Helvetica Neue/OT:language=dflt;mappin
+[WARNING] Missing character: There is no で (U+3067) in font Helvetica Neue/OT:language=dflt;mappin
