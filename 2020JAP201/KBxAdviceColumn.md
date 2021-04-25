@@ -1,4 +1,4 @@
----
+%%---
 title:   Write your own advice column!
 context: JAP301
 author:  Huxley
@@ -50,7 +50,6 @@ don't eat the chochlate
 ### English 
 
 My name is jeffery, and I am a dog!
-%%I like to chew on socks and play in the grass. %%
 I have a wondeful family of 5!
 they alway make me wonderful food, and sometimes I can eat some of their food.
 they love to eat chochlate, but they never let me have any!
@@ -64,7 +63,7 @@ chochlate is actully poisanous for dogs!
 don't try to eat any
 
 ### Japanese
-
+%%
 #### ワンワン
 わたしのなまえはジェフリーで、いぬです。
 かぞくは五人で、みんなやさしいです。
