@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11750)}}    % original
-%\rhead{\textrmlf{Compiled }\#11750\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11751)}}    % original
+%\rhead{\textrmlf{Compiled }\#11751\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -237,5 +237,9 @@ problem}\label{importantly-not-how-good-an-algorithm-is-this-field-deals-with-al
 
 \hypertarget{flows}{%
 \section{flows}\label{flows}}
+
+\hypertarget{wikipedia-computational-complexity-theory}{%
+\subsection{Wikipedia computational complexity
+theory}\label{wikipedia-computational-complexity-theory}}
 
 \end{document}
