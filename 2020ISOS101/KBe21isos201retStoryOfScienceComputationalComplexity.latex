@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11754)}}    % original
-%\rhead{\textrmlf{Compiled }\#11754\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11755)}}    % original
+%\rhead{\textrmlf{Compiled }\#11755\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -258,6 +258,15 @@ theory}\label{wikipedia-computational-complexity-theory}}
   formally strings of characters from alphabets. The input size is the
   length of the string. Different representations can be chosen but it
   should be trivial (fast) to convert from one to the other.
+\item
+  decision problems (most basic type)
+
+  Generally, given an input, the output is either yes or no.
+
+  \begin{enumerate}
+  \item
+    it can be thought of as a "formal language" {\textsc{toexpand}}
+  \end{enumerate}
 \end{enumerate}
 
 \end{document}
