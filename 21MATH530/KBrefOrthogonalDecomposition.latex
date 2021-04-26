@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11849)}}    % original
-%\rhead{\textrmlf{Compiled }\#11849\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11850)}}    % original
+%\rhead{\textrmlf{Compiled }\#11850\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -214,7 +214,7 @@ noticing that orthogonality implies \[\begin{aligned}
 If we have some vector \(b\) which is not in the column space of \(A\)
 (there does not exist \(x : Ax = b\)) but we still want the best
 "approximation", then we want to take the "closest" approximation.
-Suppose \(\hat{b}\) is such an approximation, then we want it's norm to
-be minimal.
+Suppose \(\hat{b}\) is such an approximation, then we want the norm of
+the difference to be minimal. That means that
 
 \end{document}
