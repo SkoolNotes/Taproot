@@ -1,0 +1,35 @@
+#+TITLE: Axler6.15 Cauchy-Schwarz Inequality
+#+context: linear algebra
+* Cauchy-Schwarz Inequality                                       :important:
+  'One of the most important inequalities in mathematics'
+  #+begin_quote
+  Suppose $u, v \in V$ (where $V$ is an inner product space). Then
+  \[\begin{aligned}
+  \vert \langle u, v \rangle \vert \leq \lVert u \rVert \lVert v \rVert
+  \end{aligned}\]
+
+  The inequality is an equality iff one of $u, v$ is a scalar multiple of the other.
+  #+end_quote
+
+** intuition
+   For the Euclidean inner product, this is true because $\langle u, v \rangle = \lVert u \rVert \lVert v $
+** proof is by [[file:KBrefOrthogonalDecomposition.org][the orthogonal decomposition]]
+
+** results
+*** triangle inequality
+	#+begin_quote
+	Suppose $u, v \in V$. Then
+
+	\[\begin{aligned}
+    \lVert u+v \rVert \leq \lVert u \rVert + \lVert v \rVert
+	\end{aligned}\]
+
+	The inequality is an equality if and only if one of $u, v$ is a non-negative multiple of the other (degenerate triangle)
+	#+end_quote
+*** Parallelogram Equality
+	#+begin_quote
+	Suppose $u, v \in V$. Then
+	\[\begin{aligned}
+    \lVert u+v \rVert^2 + \lVert u-v \rVert^2 = 2(\lVert u \rVert^2 + \lVert v \rVert^2)
+	\end{aligned}\]
+	#+end_quote
