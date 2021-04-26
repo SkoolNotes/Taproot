@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11833)}}    % original
-%\rhead{\textrmlf{Compiled }\#11833\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11834)}}    % original
+%\rhead{\textrmlf{Compiled }\#11834\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -301,6 +301,9 @@ Graph Isomorphism is NP-complete.
 Restricts space instead of time. This class is very large, and includes
 the entirety of NP (brute force check all possible proofs) and also PP
 and P\textsuperscript{\#P}, apparently.
+
+Notable PSPACE-complete examples: QBF (or QSAT), deciding the winner of
+eg. Go.
 
 \hypertarget{flows}{%
 \section{flows}\label{flows}}
