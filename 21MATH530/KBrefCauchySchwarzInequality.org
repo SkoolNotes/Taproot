@@ -16,7 +16,7 @@
 ** proof is by [[file:KBrefOrthogonalDecomposition.org][the orthogonal decomposition]]
 
    \[\begin{aligned}
-   \lVert \frac{ \langle u, v \rangle }{\lVert v \rVert} v \rVert ^2 = \left| \frac{ \langle u, v \rangle }{\lVert v \rVert}\right| \lVert v \rVert ^2
+   \leftlVert \frac{ \langle u, v \rangle }{\lVert v \rVert} v \rightrVert ^2 = \left| \frac{ \langle u, v \rangle }{\lVert v \rVert}\right| \lVert v \rVert ^2
    \end{aligned}\]
 
 
