@@ -143,7 +143,7 @@ O+A||B, A+B:
 - epistatis
 	- one gene alters another!
 - S-linked
-	- 
+	- linked by sex
 
 
 
