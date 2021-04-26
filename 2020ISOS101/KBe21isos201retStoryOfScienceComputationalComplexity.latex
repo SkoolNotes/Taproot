@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11879)}}    % original
-%\rhead{\textrmlf{Compiled }\#11879\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11880)}}    % original
+%\rhead{\textrmlf{Compiled }\#11880\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -631,6 +631,10 @@ Something about continuous functions or analog logic.
     Theory of Computing
   \item
     and also got a bunch of prizes for his work on NP-complete problems
+  \item
+    Edmonds-Karp algorithm for max flow with Jack Edmonds 1971
+  \item
+    landmark NP-completeness paper in 1972
   \end{enumerate}
 \end{enumerate}
 
