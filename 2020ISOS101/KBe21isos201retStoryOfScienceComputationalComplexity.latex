@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11812)}}    % original
-%\rhead{\textrmlf{Compiled }\#11812\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11813)}}    % original
+%\rhead{\textrmlf{Compiled }\#11813\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -497,6 +497,11 @@ Something about continuous functions or analog logic.
   years
 \item
   Blum axioms for complexity measures (1967), and the "speed-up theorem"
+\item
+  1971 Stephen Cook and Leonid Levin proved existance of practically
+  relevant NP-complete problems
+\item
+  Richard Karp (1972) showed 21 relevant and NP-complete problems (op)
 \end{enumerate}
 
 \end{document}
