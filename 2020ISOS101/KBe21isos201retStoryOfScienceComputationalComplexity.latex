@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11810)}}    % original
-%\rhead{\textrmlf{Compiled }\#11810\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11811)}}    % original
+%\rhead{\textrmlf{Compiled }\#11811\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -492,6 +492,9 @@ Something about continuous functions or analog logic.
 \item
   Edmonds (Cobham-Edmonds thesis) suggests polynomial problems are
   "good" (1965)
+\item
+  other studies of problems with bounded resources in the previous few
+  years
 \end{enumerate}
 
 \end{document}
