@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11868)}}    % original
-%\rhead{\textrmlf{Compiled }\#11868\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11869)}}    % original
+%\rhead{\textrmlf{Compiled }\#11869\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -435,8 +435,20 @@ A + B -\textgreater{} A+B - B + A -\textgreater{} A+B
   \textbf{differnet inheritence patterns}
 \item
   mendelian: dominant vs recesive
+
+  \begin{itemize}
+  \tightlist
+  \item
+    alleles, alt versions of traits, are responsible for varitations in
+    inherited traits
+  \end{itemize}
 \item
-  imcpmplete
+  incomplete
+
+  \begin{itemize}
+  \tightlist
+  \item
+  \end{itemize}
 \item
   codomidance
 \end{itemize}
