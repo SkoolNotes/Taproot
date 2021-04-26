@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11828)}}    % original
-%\rhead{\textrmlf{Compiled }\#11828\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11829)}}    % original
+%\rhead{\textrmlf{Compiled }\#11829\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -285,6 +285,9 @@ CircuitSAT or any other NP-complete problem can be solved in polynomial
 time implies that P = NP.
 
 Examples: TSP, SAT
+
+\hypertarget{ph-polynomial-hierarchy}{%
+\subsection{PH (polynomial hierarchy?)}\label{ph-polynomial-hierarchy}}
 
 \hypertarget{flows}{%
 \section{flows}\label{flows}}
