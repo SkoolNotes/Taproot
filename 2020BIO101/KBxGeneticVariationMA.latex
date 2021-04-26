@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11872)}}    % original
-%\rhead{\textrmlf{Compiled }\#11872\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11873)}}    % original
+%\rhead{\textrmlf{Compiled }\#11873\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -465,6 +465,14 @@ A + B -\textgreater{} A+B - B + A -\textgreater{} A+B
   \tightlist
   \item
     single phenotype determined the the addition of multiple
+  \end{itemize}
+\item
+  epistatis
+
+  \begin{itemize}
+  \tightlist
+  \item
+    one gene alters another!
   \end{itemize}
 \end{itemize}
 

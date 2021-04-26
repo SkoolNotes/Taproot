@@ -140,7 +140,8 @@ O+A||B, A+B:
 	- both alleles are visible in distinguishible ways
 - polygnenic inheritance
 	- single phenotype determined the the addition of multiple
-
+- epistatis
+	- one gene alters another!
 
 
 
