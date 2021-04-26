@@ -48,7 +48,7 @@
 ** P/poly
    polynomial time algorithms that solve a problem given an advice string which is at most polynomial in length and a function only of the input size. P/exp would make all problems trivial (provide a lookup table), but P/poly is actually interesting, ig. P/poly contains P, so $NP \notin P/poly$ would imply $P \neq NP$.
 ** BPP
-   Randomized algorithms where the error rate is 'bounded by a constant'.
+   Randomized algorithms where the error rate is 'bounded by a constant'. Error rate could be improved by running the algorithm 
 * flows
 ** Wikipedia computational complexity theory
 *** computational problems
