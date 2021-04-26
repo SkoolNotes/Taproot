@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11806)}}    % original
-%\rhead{\textrmlf{Compiled }\#11806\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11807)}}    % original
+%\rhead{\textrmlf{Compiled }\#11807\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -472,5 +472,14 @@ measures}\label{machine-models-and-complexity-measures}}
 Meaning "not handleable". The Cobham-Edmonds thesis suggests that all
 polynomial problems are tractable. However, in the real world, specific
 numbers matter (\(N^{15}\) is much worse than \(0.0001^N\))
+
+\hypertarget{continuous-complexity-theory}{%
+\subsubsection{\texorpdfstring{continuous complexity theory
+{\textsc{toexpand}}}{continuous complexity theory toexpand}}\label{continuous-complexity-theory}}
+
+Something about continuous functions or analog logic.
+
+\hypertarget{history}{%
+\subsubsection{History}\label{history}}
 
 \end{document}
