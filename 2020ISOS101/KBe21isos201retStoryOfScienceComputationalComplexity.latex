@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11809)}}    % original
-%\rhead{\textrmlf{Compiled }\#11809\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11810)}}    % original
+%\rhead{\textrmlf{Compiled }\#11810\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -482,10 +482,16 @@ Something about continuous functions or analog logic.
 \hypertarget{history}{%
 \subsubsection{History}\label{history}}
 
-Many foundations laid, eg. Turing machine in 1936 which allowed for
-analysis of various algorithms.
-
-First systematic study attributed to Juris Hartmanis and Richard E.
-Stearns in "On the Computational Complexity of Algorithms" (1965)
+\begin{enumerate}
+\item
+  Many foundations laid, eg. Turing machine in 1936 which allowed for
+  analysis of various algorithms.
+\item
+  First systematic study attributed to Juris Hartmanis and Richard E.
+  Stearns in "On the Computational Complexity of Algorithms" (1965)
+\item
+  Edmonds (Cobham-Edmonds thesis) suggests polynomial problems are
+  "good" (1965)
+\end{enumerate}
 
 \end{document}
