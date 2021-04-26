@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11805)}}    % original
-%\rhead{\textrmlf{Compiled }\#11805\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11806)}}    % original
+%\rhead{\textrmlf{Compiled }\#11806\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -470,6 +470,7 @@ measures}\label{machine-models-and-complexity-measures}}
 \subsubsection{Intractability}\label{intractability}}
 
 Meaning "not handleable". The Cobham-Edmonds thesis suggests that all
-polynomial problems are tractable.
+polynomial problems are tractable. However, in the real world, specific
+numbers matter (\(N^{15}\) is much worse than \(0.0001^N\))
 
 \end{document}
