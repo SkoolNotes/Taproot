@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11829)}}    % original
-%\rhead{\textrmlf{Compiled }\#11829\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11831)}}    % original
+%\rhead{\textrmlf{Compiled }\#11831\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -287,7 +287,13 @@ time implies that P = NP.
 Examples: TSP, SAT
 
 \hypertarget{ph-polynomial-hierarchy}{%
-\subsection{PH (polynomial hierarchy?)}\label{ph-polynomial-hierarchy}}
+\subsection{\texorpdfstring{PH (polynomial hierarchy?)
+{\textsc{toexpand}}}{PH (polynomial hierarchy?) toexpand}}\label{ph-polynomial-hierarchy}}
+
+Defined as the union of a set of recursively defined classes\ldots{}
+something? Something about P and NP and oracles about NP and coNP. This
+is the thing that would collapse, I guess. Eg, why people don't think
+Graph Isomorphism is NP-complete.
 
 \hypertarget{flows}{%
 \section{flows}\label{flows}}
