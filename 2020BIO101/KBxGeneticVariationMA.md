@@ -132,7 +132,7 @@ O+A||B, A+B:
 
 
 - **differnet inheritence patterns**
-- mendelian
+- mendelian: dominant vs recesive
 - imcpmplete
 - codomidance
 
