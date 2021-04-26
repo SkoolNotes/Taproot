@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11843)}}    % original
-%\rhead{\textrmlf{Compiled }\#11843\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11844)}}    % original
+%\rhead{\textrmlf{Compiled }\#11844\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -340,6 +340,10 @@ but P/poly is actually interesting, ig. P/poly contains P, so
 \subsection{BPP}\label{bpp}}
 
 Randomized algorithms where the error rate is 'bounded by a constant'.
+Error rate could be improved by running the algorithm more times and
+taking a majority vote.
+
+AKS primality test made a previously randomized algorithm deterministic,
 
 \hypertarget{flows}{%
 \section{flows}\label{flows}}
