@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11853)}}    % original
-%\rhead{\textrmlf{Compiled }\#11853\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11855)}}    % original
+%\rhead{\textrmlf{Compiled }\#11855\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -204,7 +204,8 @@ of the other.
 \hypertarget{intuition}{%
 \subsection{intuition}\label{intuition}}
 
-For the Euclidean inner product,
+For the Euclidean inner product, this is true because
+\(\langle u, v \rangle = \lVert u \rVert \lVert v \rVert \cos \theta\)
 
 \hypertarget{proof-is-by-the-orthogonal-decomposition}{%
 \subsection{\texorpdfstring{proof is by

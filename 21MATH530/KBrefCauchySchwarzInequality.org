@@ -12,7 +12,7 @@
   #+end_quote
 
 ** intuition
-   For the Euclidean inner product,
+   For the Euclidean inner product, this is true because $\langle u, v \rangle = \lVert u \rVert \lVert v \rVert \cos \theta$
 ** proof is by [[file:KBrefOrthogonalDecomposition.org][the orthogonal decomposition]]
 
 ** results

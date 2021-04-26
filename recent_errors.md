@@ -1,1 +1,2 @@
-        Log for attempt at Mon Apr 26 09:07:41 AM PDT 2021 (11854)
+        Log for attempt at Mon Apr 26 09:08:14 AM PDT 2021 (11855)
+        Mon Apr 26 09:08:14 AM PDT 2021 Converting 21MATH530/KBrefCauchySchwarzInequality.org...
