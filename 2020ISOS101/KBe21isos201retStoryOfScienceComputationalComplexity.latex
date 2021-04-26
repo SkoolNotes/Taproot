@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11800)}}    % original
-%\rhead{\textrmlf{Compiled }\#11800\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11802)}}    % original
+%\rhead{\textrmlf{Compiled }\#11802\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -457,7 +457,11 @@ measures}\label{machine-models-and-complexity-measures}}
 \item
   separations between other complexity classes
 
-  There are many classes that are improper subsets of each other. If
+  There are many classes that are improper subsets of each other. If any
+  of those relations can be shown to be a proper subset, then classes on
+  either side would be unequal. For example, many such relations exist
+  between P and NP and showing that one of those relations is a proper
+  subset relation would prove that P != NP.
 \end{enumerate}
 
 \end{document}
