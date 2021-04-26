@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11817)}}    % original
-%\rhead{\textrmlf{Compiled }\#11817\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11819)}}    % original
+%\rhead{\textrmlf{Compiled }\#11819\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -242,6 +242,10 @@ problem}\label{importantly-not-how-good-an-algorithm-is-this-field-deals-with-al
 \hypertarget{dtm-deterministic-turing-machine}{%
 \subsection{DTM, deterministic Turing
 machine}\label{dtm-deterministic-turing-machine}}
+
+A Turing machine with one infinite tape and a state function that has
+exactly one output for each (tape value, machine state) input. (Not a
+formal definition).
 
 \hypertarget{complexity-classes-1}{%
 \section{complexity classes}\label{complexity-classes-1}}
