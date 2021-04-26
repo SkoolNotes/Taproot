@@ -15,9 +15,11 @@
    For the Euclidean inner product, this is true because $\langle u, v \rangle = \lVert u \rVert \lVert v \rVert \cos \theta$. However, the Cauchy-Schwarz inequality works for all inner product spaces, using the generalized Pythagorean theorem (instead of the law of cosines).
 ** proof is by [[file:KBrefOrthogonalDecomposition.org][the orthogonal decomposition]]
 
+   By homogeneity of norms,
    \[\begin{aligned}
-   \leftlVert \frac{ \langle u, v \rangle }{\lVert v \rVert} v \rightrVert ^2 = \left| \frac{ \langle u, v \rangle }{\lVert v \rVert}\right| \lVert v \rVert ^2
+   \left\lVert \frac{ \langle u, v \rangle }{\lVert v \rVert} v \right\rVert ^2 = \left| \frac{ \langle u, v \rangle }{\lVert v \rVert}\right|^2 \lVert v \rVert ^2
    \end{aligned}\]
+
 
 
 ** results
