@@ -35,6 +35,8 @@
    Examples: TSP, SAT
 ** PH (polynomial hierarchy?)                                      :toexpand:
    Defined as the union of a set of recursively defined classes... something? Something about P and NP and oracles about NP and coNP. This is the thing that would collapse, I guess. Eg, why people don't think Graph Isomorphism is NP-complete.
+** PSPACE
+   Restricts space instead of time. This class is very large, and includes the entirety of NP (brute force check all possible proofs) and also PP and P^{#P}, apparently.
 * flows
 ** Wikipedia computational complexity theory
 *** computational problems
