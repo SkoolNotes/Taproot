@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11846)}}    % original
-%\rhead{\textrmlf{Compiled }\#11846\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11847)}}    % original
+%\rhead{\textrmlf{Compiled }\#11847\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -210,5 +210,8 @@ noticing that orthogonality implies \[\begin{aligned}
 
 \hypertarget{motivation}{%
 \section{motivation}\label{motivation}}
+
+If we have some vector \(b\) which is not in the column space of \(A\)
+(there does not exist \(x : Ax = b\)) but we still want
 
 \end{document}
