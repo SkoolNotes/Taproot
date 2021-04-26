@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11813)}}    % original
-%\rhead{\textrmlf{Compiled }\#11813\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11814)}}    % original
+%\rhead{\textrmlf{Compiled }\#11814\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -234,6 +234,15 @@ problem}\label{importantly-not-how-good-an-algorithm-is-this-field-deals-with-al
 
 \hypertarget{p-vs-np}{%
 \subsubsection{P vs NP}\label{p-vs-np}}
+
+\hypertarget{complexity-classes-1}{%
+\section{complexity classes}\label{complexity-classes-1}}
+
+\hypertarget{p}{%
+\subsection{P}\label{p}}
+
+\hypertarget{np}{%
+\subsection{NP}\label{np}}
 
 \hypertarget{flows}{%
 \section{flows}\label{flows}}
@@ -346,8 +355,8 @@ measures}\label{machine-models-and-complexity-measures}}
   involve algorithms that haven't been discovered yet).
 \end{enumerate}
 
-\hypertarget{complexity-classes-1}{%
-\subsubsection{complexity classes}\label{complexity-classes-1}}
+\hypertarget{complexity-classes-2}{%
+\subsubsection{complexity classes}\label{complexity-classes-2}}
 
 \begin{enumerate}
 \item
