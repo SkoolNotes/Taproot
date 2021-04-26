@@ -41,6 +41,8 @@
    Notable PSPACE-complete examples: QBF (or QSAT), deciding the winner of eg. Go.
 ** EXP
    run-time bounded by $2^{p(n)}$ where $p$ is a polynomial (ig). EXP is generally big enough: it contains PSPACE, the polynomial hierarchy (PH), and 'most problems we ever hope to attack'. Of course, there are bigger ones.
+** AC^0, NC^0, NC
+   small classes that have to do with circuit complexity.. generally the represent problems that can be solved quickly with massive parallelism.
 * flows
 ** Wikipedia computational complexity theory
 *** computational problems
