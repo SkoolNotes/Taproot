@@ -138,6 +138,8 @@ O+A||B, A+B:
 	- both alles are visible, neither are completely dominant
 - codomidance
 	- both alleles are visible in distinguishible ways
+- polygnenic inheritance
+	- single phenotype determined the the addition of multiple
 
 
 
