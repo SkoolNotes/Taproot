@@ -142,6 +142,8 @@ O+A||B, A+B:
 	- single phenotype determined the the addition of multiple
 - epistatis
 	- one gene alters another!
+- S-linked
+	- 
 
 
 
