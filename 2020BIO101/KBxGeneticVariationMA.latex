@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11870)}}    % original
-%\rhead{\textrmlf{Compiled }\#11870\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11871)}}    % original
+%\rhead{\textrmlf{Compiled }\#11871\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -452,6 +452,12 @@ A + B -\textgreater{} A+B - B + A -\textgreater{} A+B
   \end{itemize}
 \item
   codomidance
+
+  \begin{itemize}
+  \tightlist
+  \item
+    both alleles are visible in distinguishible ways
+  \end{itemize}
 \end{itemize}
 
 \end{document}

@@ -137,6 +137,7 @@ O+A||B, A+B:
 - incomplete dominance
 	- both alles are visible, neither are completely dominant
 - codomidance
+	- both alleles are visible in distinguishible ways
 
 
 
