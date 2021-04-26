@@ -39,6 +39,8 @@
    Restricts space instead of time. This class is very large, and includes the entirety of NP (brute force check all possible proofs) and also PP and P^{#P}, apparently.
 
    Notable PSPACE-complete examples: QBF (or QSAT), deciding the winner of eg. Go.
+** EXP
+   run-time bounded by $2^{p(n)}$ where $p$ is a polynomial (ig).
 * flows
 ** Wikipedia computational complexity theory
 *** computational problems
