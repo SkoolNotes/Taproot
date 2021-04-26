@@ -30,10 +30,9 @@
 	\end{aligned}\]
 
 	The inequality is an equality if and only if one of $u, v$ is a non-negative multiple of the other (degenerate triangle)
-
-	This is proven by noticing that $\langle u, v \rangle + \langle  v, u \rangle = \langle  u, v \rangle \overline{\langle v, u \rangle} = 2 Re \langle u, v \rangle \leq  2|\langle u, v \rangle| \leq 2\lVert u \rVert \lVert v \rVert$ by conjugate symmetry and Cauchy-Schwarz
-
 	#+end_quote
+	This is proven by noticing that $\langle u, v \rangle + \langle  v, u \rangle = \langle  u, v \rangle \overline{\langle v, u \rangle} = 2 Re \langle u, v \rangle \leq  2|\langle u, v \rangle| \leq 2\lVert u \rVert \lVert v \rVert$ by conjugate symmetry and Cauchy-Schwarz.
+
 *** Parallelogram Equality
 	#+begin_quote
 	Suppose $u, v \in V$. Then
