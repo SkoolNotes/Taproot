@@ -30,7 +30,9 @@
    Problems that can be checked "yes" in polynomial time. For example, graph isomorphism.
 *** whats up with coNP? checkin "no"??                             :toexpand:
 ** NP-complete
-   Problems that are complete for NP, aka. problems in NP that all other NP problems can be reduced to in polynomial time. The first such problem was
+   Problems that are complete for NP, aka. problems in NP that all other NP problems can be reduced to in polynomial time. One example is CircuitSAT: any NP problem can be reduced to CircuitSAT and any problem that CircuitSAT can be reduced to is also NP-complete. Showing that CircuitSAT or any other NP-complete problem can be solved in polynomial time implies that P = NP.
+
+   Examples: TSP, SAT
 * flows
 ** Wikipedia computational complexity theory
 *** computational problems
