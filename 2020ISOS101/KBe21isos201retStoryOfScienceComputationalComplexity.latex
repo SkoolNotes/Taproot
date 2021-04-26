@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11822)}}    % original
-%\rhead{\textrmlf{Compiled }\#11822\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11823)}}    % original
+%\rhead{\textrmlf{Compiled }\#11823\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -260,6 +260,9 @@ Turing machine (DTM). These problems are generally considered
 In practice, problems with large-degree solutions usually have
 smaller-degree solutions discovered later, so the division between P and
 other problems 'has turned out to be somewhat "natural"'.
+
+Examples: \{ graph reachability (whether two nodes are in the same
+component), 2SAT (SCC :)), matrix multiplication \}
 
 \hypertarget{np}{%
 \subsection{NP}\label{np}}

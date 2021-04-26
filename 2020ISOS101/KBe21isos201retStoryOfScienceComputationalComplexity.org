@@ -24,6 +24,8 @@
    Problems that can be solved in polynomial time using a deterministic Turing machine (DTM). These problems are generally considered "tractable" by the Cobham-Edmonds thesis.
 
    In practice, problems with large-degree solutions usually have smaller-degree solutions discovered later, so the division between P and other problems 'has turned out to be somewhat "natural"'.
+
+   Examples: { graph reachability (whether two nodes are in the same component), 2SAT (SCC :)), matrix multiplication }
 ** NP
 ** NP-complete
 * flows
