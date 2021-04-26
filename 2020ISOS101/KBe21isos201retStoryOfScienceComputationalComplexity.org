@@ -91,3 +91,4 @@
 **** separations between other complexity classes
 	 There are many classes that are improper subsets of each other. If any of those relations can be shown to be a proper subset, then classes on either side would be unequal. For example, many such relations exist between P and NP and showing that one of those relations is a proper subset relation would prove that P != NP. Or, proving that two classes (eg. P, PSPACE) are equal would squish all classes in between into one (in this case, showing that P = NP).
 *** Intractability
+	Meaning "not handleable". The Cobham-Edmonds thesis suggests that all polynomial problems are tractable.

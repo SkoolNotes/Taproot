@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11804)}}    % original
-%\rhead{\textrmlf{Compiled }\#11804\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11805)}}    % original
+%\rhead{\textrmlf{Compiled }\#11805\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -468,5 +468,8 @@ measures}\label{machine-models-and-complexity-measures}}
 
 \hypertarget{intractability}{%
 \subsubsection{Intractability}\label{intractability}}
+
+Meaning "not handleable". The Cobham-Edmonds thesis suggests that all
+polynomial problems are tractable.
 
 \end{document}
