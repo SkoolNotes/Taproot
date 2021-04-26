@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11855)}}    % original
-%\rhead{\textrmlf{Compiled }\#11855\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11856)}}    % original
+%\rhead{\textrmlf{Compiled }\#11856\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -205,7 +205,10 @@ of the other.
 \subsection{intuition}\label{intuition}}
 
 For the Euclidean inner product, this is true because
-\(\langle u, v \rangle = \lVert u \rVert \lVert v \rVert \cos \theta\)
+\(\langle u, v \rangle = \lVert u \rVert \lVert v \rVert \cos \theta\).
+However, the Cauchy-Schwarz inequality works for all inner product
+spaces, using the generalized Pythagorean theorem (instead of the law of
+cosines).
 
 \hypertarget{proof-is-by-the-orthogonal-decomposition}{%
 \subsection{\texorpdfstring{proof is by
