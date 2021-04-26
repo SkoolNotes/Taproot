@@ -131,7 +131,10 @@ O+A||B, A+B:
 ## More notes pt 2..
 
 
-
+- **differnet inheritence patterns**
+- mendelian
+- imcpmplete
+- codomidance
 
 
 
