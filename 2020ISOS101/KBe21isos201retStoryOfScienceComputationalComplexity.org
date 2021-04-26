@@ -21,7 +21,7 @@
    A Turing machine with one infinite tape and a state function that has exactly one output for each (tape value, machine state) input. (Not a formal definition).
 * complexity classes
 ** P
-   Problems that can be solved in polynomial time using a deterministic Turing machine (DTM).
+   Problems that can be solved in polynomial time using a deterministic Turing machine (DTM). These problems are generally considered "tractable" by the Cobham-Edmonds thesis.
 
    In practice, problems with large-degree solutions usually have smaller-degree solutions discovered later, so the division between P and other problems 'has turned out to be somewhat "natural"'.
 ** NP
