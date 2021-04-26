@@ -46,7 +46,7 @@
 ** L
    Logarithmic space (logarithmic spaces on the Turing machine tape). This is nice because space is usually limited. L is contained within P because something about deterministic Turing machines?.
 ** P/poly
-   polynomial time algorithms that solve a problem given an advice string which is at 
+   polynomial time algorithms that solve a problem given an advice string which is at most polynomial in length and a function only of the input size. P/exp would make all problems trivial (provide a lookup table), but 
 * flows
 ** Wikipedia computational complexity theory
 *** computational problems
