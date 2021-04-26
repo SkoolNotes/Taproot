@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11851)}}    % original
-%\rhead{\textrmlf{Compiled }\#11851\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11852)}}    % original
+%\rhead{\textrmlf{Compiled }\#11852\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -215,6 +215,8 @@ If we have some vector \(b\) which is not in the column space of \(A\)
 (there does not exist \(x : Ax = b\)) but we still want the best
 "approximation", then we want to take the "closest" approximation.
 Suppose \(\hat{b}\) is such an approximation, then we want the norm of
-the difference (\(b-\hat{b}\)) to be minimal.
+the difference (\(b-\hat{b}\)) to be minimal. Thus, we want
+\(b-\hat{b}\) to be orthogonal to the column space of \(A\). This
+motivates orthogonal decomposition.
 
 \end{document}
