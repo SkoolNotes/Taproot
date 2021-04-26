@@ -17,4 +17,4 @@
   \end{aligned}\]
   which can then be solved for $c$
 * motivation
-  If we have some vector $b$ which is not in the column space of $A$ (there does not exist $x : Ax = b$) but we still want the best "approximation", then we want to take the "closest" approximation
+  If we have some vector $b$ which is not in the column space of $A$ (there does not exist $x : Ax = b$) but we still want the best "approximation", then we want to take the "closest" approximation. Suppose $\hat{b}$ is such an approximation, then we want it's norm to be minimal.
