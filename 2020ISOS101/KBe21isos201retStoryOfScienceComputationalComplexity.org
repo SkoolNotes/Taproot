@@ -27,9 +27,10 @@
 
    Examples: { graph reachability (whether two nodes are in the same component), 2SAT (SCC :)), matrix multiplication }
 ** NP
-   Problems that can be checked "yes" in polynomial time.
+   Problems that can be checked "yes" in polynomial time. For example, graph isomorphism.
 *** whats up with coNP? checkin "no"??                             :toexpand:
 ** NP-complete
+   Problems that are complete for NP, aka. problems in NP that all other NP problems can be reduced to in polynomial time. The first such problem was
 * flows
 ** Wikipedia computational complexity theory
 *** computational problems
