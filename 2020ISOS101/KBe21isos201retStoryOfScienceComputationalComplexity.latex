@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11811)}}    % original
-%\rhead{\textrmlf{Compiled }\#11811\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11812)}}    % original
+%\rhead{\textrmlf{Compiled }\#11812\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -495,6 +495,8 @@ Something about continuous functions or analog logic.
 \item
   other studies of problems with bounded resources in the previous few
   years
+\item
+  Blum axioms for complexity measures (1967), and the "speed-up theorem"
 \end{enumerate}
 
 \end{document}
