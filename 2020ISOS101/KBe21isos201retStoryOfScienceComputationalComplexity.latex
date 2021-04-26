@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11815)}}    % original
-%\rhead{\textrmlf{Compiled }\#11815\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11816)}}    % original
+%\rhead{\textrmlf{Compiled }\#11816\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -240,6 +240,9 @@ problem}\label{importantly-not-how-good-an-algorithm-is-this-field-deals-with-al
 
 \hypertarget{p}{%
 \subsection{P}\label{p}}
+
+Problems that can be solved in polynomial time using a deterministic
+Turing machine.
 
 \hypertarget{np}{%
 \subsection{NP}\label{np}}
