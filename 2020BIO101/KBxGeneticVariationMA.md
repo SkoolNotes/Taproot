@@ -134,8 +134,8 @@ O+A||B, A+B:
 - **differnet inheritence patterns**
 - mendelian: dominant vs recesive
 	- alleles, alt versions of traits, are responsible for varitations in inherited traits
-- incomplete
-	- 
+- incomplete dominance
+	- both alles are visible, neither are completely dominant
 - codomidance
 
 
