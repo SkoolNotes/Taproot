@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11091)}}    % original
-%\rhead{\textrmlf{Compiled }\#11091\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11853)}}    % original
+%\rhead{\textrmlf{Compiled }\#11853\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -200,6 +200,11 @@ Suppose \(u, v \in V\) (where \(V\) is an inner product space). Then
 The inequality is an equality iff one of \(u, v\) is a scalar multiple
 of the other.
 \end{quote}
+
+\hypertarget{intuition}{%
+\subsection{intuition}\label{intuition}}
+
+For the Euclidean inner product,
 
 \hypertarget{proof-is-by-the-orthogonal-decomposition}{%
 \subsection{\texorpdfstring{proof is by

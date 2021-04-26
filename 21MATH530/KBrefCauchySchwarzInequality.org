@@ -10,7 +10,11 @@
 
   The inequality is an equality iff one of $u, v$ is a scalar multiple of the other.
   #+end_quote
+
+** intuition
+   For the Euclidean inner product,
 ** proof is by [[file:KBrefOrthogonalDecomposition.org][the orthogonal decomposition]]
+
 ** results
 *** triangle inequality
 	#+begin_quote
