@@ -16,9 +16,11 @@
 *** hierarchy
 ** key problems
 *** P vs NP
+* vocab and definitions                                                 :def:
+** DTM, deterministic Turing machine
 * complexity classes
 ** P
-   Problems that can be solved in polynomial time using a deterministic Turing machine.
+   Problems that can be solved in polynomial time using a deterministic Turing machine (DTM).
 ** NP
 ** NP-complete
 * flows
