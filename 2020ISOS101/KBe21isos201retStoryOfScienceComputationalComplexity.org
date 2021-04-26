@@ -22,6 +22,8 @@
 * complexity classes
 ** P
    Problems that can be solved in polynomial time using a deterministic Turing machine (DTM).
+
+   In practice, problems with large-degree solutions usually have smaller-degree solutions discovered later, so the division between P and other problems 'has turned out to be somewhat "natural"'.
 ** NP
 ** NP-complete
 * flows
