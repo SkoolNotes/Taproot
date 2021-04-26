@@ -50,7 +50,7 @@
 ** BPP
    Randomized algorithms where the error rate is 'bounded by a constant'. Error rate could be improved by running the algorithm more times and taking a majority vote.
 
-   AKS primality test made a previously randomized algorithm deterministic,
+   AKS primality test made a previously randomized algorithm deterministic, which was a 'key example of derandomization'. People apparently think that P = BPP (and this is an important open problem).
 * flows
 ** Wikipedia computational complexity theory
 *** computational problems
