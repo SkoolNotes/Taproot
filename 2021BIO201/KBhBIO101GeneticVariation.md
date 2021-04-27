@@ -16,7 +16,9 @@ During [[KBhBIO101Meiosis]]'s (critically, ONLY meiosis') metaphase 1, homologou
 In this fashion, genetic variation is purposefully introduced into the offspring to enable more competitive variation in downstream gametes.
 
 ## Independent Assortment
-During M1 and M2, which chromasomes/chromatids end up 
+During M1 and M2, which chromasomes/chromatids end up on which of the four daughter cells is up to random chance based on which side of the two spindles they are on.
+
+
 
 
 
