@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11984)}}    % original
-%\rhead{\textrmlf{Compiled }\#11984\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11985)}}    % original
+%\rhead{\textrmlf{Compiled }\#11985\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -287,8 +287,11 @@ them are absurd; some of them seem absurd, and are genius!
     \begin{itemize}
     \tightlist
     \item
-      mainly industrial processesf
+      mainly industrial processes
     \end{itemize}
+  \item
+    wrote a book,
+    \texttt{Experimental\ Investigations\ on\ the\ Decomposition\ and\ Combustion\ of\ Hydrocarbons}
   \end{itemize}
 \end{itemize}
 

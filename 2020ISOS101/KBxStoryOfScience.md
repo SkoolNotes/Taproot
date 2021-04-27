@@ -53,7 +53,8 @@ them are absurd; some of them seem absurd, and are genius!
  - **Haber** 
 	 - trained as organic chemist
 	 - switched to physical chem
-		 - mainly industrial processesf
+		 - mainly industrial processes
+	- wrote a book, `Experimental Investigations on the Decomposition and Combustion of Hydrocarbons`
 
 
 
