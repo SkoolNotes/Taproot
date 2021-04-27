@@ -34,4 +34,6 @@
 
   \[\begin{aligned}
   \int_{1}^{e} \sin  \ln  x dx &= x \sin  \ln  x - \int x \frac{1}{x} \cos \ln x dx\\
+  &= x \sin  \ln  x - \int \cos \ln  x dx\\
+  &= x \sin  \ln  x -\left( x \cos  \ln  x -\int x \frac{1}{x} \sin  \ln  x dx
   \end{aligned}\]

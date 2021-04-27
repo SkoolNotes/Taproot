@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11949)}}    % original
-%\rhead{\textrmlf{Compiled }\#11949\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11950)}}    % original
+%\rhead{\textrmlf{Compiled }\#11950\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -227,6 +227,8 @@
 
 \[\begin{aligned}
   \int_{1}^{e} \sin  \ln  x dx &= x \sin  \ln  x - \int x \frac{1}{x} \cos \ln x dx\\
+  &= x \sin  \ln  x - \int \cos \ln  x dx\\
+  &= x \sin  \ln  x -\left( x \cos  \ln  x -\int x \frac{1}{x} \sin  \ln  x dx
   \end{aligned}\]
 
 \end{document}
