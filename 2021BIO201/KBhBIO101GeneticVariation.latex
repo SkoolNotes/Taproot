@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11913)}}    % original
-%\rhead{\textrmlf{Compiled }\#11913\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11915)}}    % original
+%\rhead{\textrmlf{Compiled }\#11915\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -204,6 +204,12 @@ During {[}{[}KBhBIO101Meiosis{]}{]}`s (critically, ONLY meiosis')
 metaphase 1, homologous chromasomes pair with each other and exchange
 like segments of their genetic material.
 
-In this fashion,
+In this fashion, genetic variation is purposefully introduced into the
+offspring to enable more competitive variation in downstream gametes.
+
+\hypertarget{independent-assortment}{%
+\subsection{Independent Assortment}\label{independent-assortment}}
+
+During M1 and M2, which chromasomes/chromatids end up
 
 \end{document}

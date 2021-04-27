@@ -13,7 +13,10 @@ There are two main ways by which genetic variation is introduced to a cell cycle
 
 During [[KBhBIO101Meiosis]]'s (critically, ONLY meiosis') metaphase 1, homologous chromasomes pair with each other and exchange like segments of their genetic material.
 
-In this fashion, 
+In this fashion, genetic variation is purposefully introduced into the offspring to enable more competitive variation in downstream gametes.
+
+## Independent Assortment
+During M1 and M2, which chromasomes/chromatids end up
 
 
 
