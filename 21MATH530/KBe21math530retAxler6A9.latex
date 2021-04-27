@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12048)}}    % original
-%\rhead{\textrmlf{Compiled }\#12048\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12049)}}    % original
+%\rhead{\textrmlf{Compiled }\#12049\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -224,13 +224,13 @@ Cauchy-Schwarz inequality.
 Now, to show that the square of the left hand side is less than or equal
 to the square of the right hand side,
 
-\[\begin{aligned}
+\[\begin{alignat*}{2}
   =& (1-\lVert u \rVert ^2)(1- \lVert v \rVert ^2)\\
   =& 1-\lVert u \rVert ^2 - \lVert v \rVert ^2 + \lVert u \rVert ^2 \lVert v \rVert ^2\\
   =& 1- (\lVert u \rVert ^2 + \lVert v \rVert ^2 ) + \lVert u \rVert ^2 \lVert v \rVert ^2\\
   \leq & 1 - 2\lVert u \rVert \lVert v \rVert + \lVert u \rVert ^2 \lVert v \rVert ^2\\
   =& (1-\lVert u \rVert \lVert v \rVert ) ^2\\
   \leq& (1- \lvert \langle u, v \rangle \rvert ) ^2
-  \end{aligned}\]
+  \end{alignat*}\]
 
 \end{document}
