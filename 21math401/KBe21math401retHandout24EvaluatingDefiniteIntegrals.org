@@ -29,6 +29,7 @@
   &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} \left( x \sin \sqrt{x} - \int \frac{\sqrt{x}}{2} \cos \sqrt{x} dx \right) \\
   &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} \left( x \sin \sqrt{x} - \frac{\sqrt{x}}{2} \int \cos \sqrt{x} dx \right) \\
   &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} x \sin \sqrt{x} - \frac{x}{4} \int \cos \sqrt{x} dx \\
+  \frac{x+4}{4}\int \cos  \sqrt{x} dx &= x \cos  \sqrt{x} + \frac{\sqrt{x}}{2} x \sin  \sqrt{x}\\
   \end{aligned}\]
 
 
