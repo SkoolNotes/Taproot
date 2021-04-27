@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12037)}}    % original
-%\rhead{\textrmlf{Compiled }\#12037\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12038)}}    % original
+%\rhead{\textrmlf{Compiled }\#12038\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -198,12 +198,8 @@ Suppose \(u, v \in V\) and \(\lVert u \rVert \leq  1\) and
 \hypertarget{proof}{%
 \section{Proof}\label{proof}}
 
-We will prove this by showing that the left hand side is less than or
-equal to an intermediate term, which is less than or equal to the right
-hand side.
-
-\hypertarget{intermediate-value}{%
-\subsection{Intermediate Value}\label{intermediate-value}}
+\hypertarget{lemma}{%
+\subsection{Lemma}\label{lemma}}
 
 \[\begin{aligned}
   \lvert \langle u, v \rangle \rvert &\leq \lVert u \rVert \lVert v \rVert\\

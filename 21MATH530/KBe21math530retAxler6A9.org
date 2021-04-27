@@ -9,9 +9,7 @@
   #+end_quote
 * Proof
 
-  We will prove this by showing that the left hand side is less than or equal to an intermediate term, which is less than or equal to the right hand side.
-
-** Intermediate Value
+** Lemma
   \[\begin{aligned}
   \lvert \langle u, v \rangle \rvert &\leq \lVert u \rVert \lVert v \rVert\\
   1- \lVert u \rVert \lVert v \rVert &\leq 1- \lvert \langle u, v \rangle \rvert
