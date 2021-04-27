@@ -18,6 +18,8 @@
 
   [[file:KBe21math530srcAxler6A9Supplement.png]]
 
+  This proof is only valid for inner product spaces over $\mathbb{F}^n$ and the Euclidean inner product.
+
 ** Cauchy-Schwarz Corollary
   \[\begin{aligned}
   \lvert \langle u, v \rangle \rvert &\leq \lVert u \rVert \lVert v \rVert\\

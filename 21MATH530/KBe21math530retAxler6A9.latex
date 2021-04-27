@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12053)}}    % original
-%\rhead{\textrmlf{Compiled }\#12053\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12054)}}    % original
+%\rhead{\textrmlf{Compiled }\#12054\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -208,6 +208,9 @@ Suppose \(u, v \in V\) and \(\lVert u \rVert \leq  1\) and
 \end{quote}
 
 \includegraphics{KBe21math530srcAxler6A9Supplement.png}
+
+This proof is only valid for inner product spaces over \(\mathbb{F}^n\)
+and the Euclidean inner product.
 
 \hypertarget{cauchy-schwarz-corollary}{%
 \subsection{Cauchy-Schwarz Corollary}\label{cauchy-schwarz-corollary}}
