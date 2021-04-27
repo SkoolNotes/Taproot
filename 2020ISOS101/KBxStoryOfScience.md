@@ -70,6 +70,7 @@ them are absurd; some of them seem absurd, and are genius!
 			- everyone has massive armies sitting and building, which in turn caused others to build armies before wartime
 		- in germany, their was a sentiment of wanting to be in the spotlight
 		- also, general consensus was that war was inevitable when a state grows, but also good for states. 
+		- during the war, trench warfare made poisan gas incredibly effective
 		- 
 
 
