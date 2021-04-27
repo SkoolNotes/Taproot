@@ -11,5 +11,5 @@
   \[\begin{aligned}
   \int_{0}^{1} r e^{\frac{r}{2}} dx &\implies r \frac{2}{r}e^{\frac{r}{2}} \int \frac{2}{r}e^{\frac{r}{2}}dx\\
   &=  2 e^{\frac{r}{2}} \int \frac{2}{r} e^{\frac{r}{2}}dx\\
-  &=  2 e^{\frac{r}{2}} \int \frac{2}{r} e^{\frac{r}{2}}dx\\
+  &=  2 e^{\frac{r}{2}} \frac{4}{r^2} e^{\frac{r}{2}}dx\\
   \end{aligned}\]

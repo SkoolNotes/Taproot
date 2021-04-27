@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11934)}}    % original
-%\rhead{\textrmlf{Compiled }\#11934\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11935)}}    % original
+%\rhead{\textrmlf{Compiled }\#11935\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -199,7 +199,8 @@
 
 \[\begin{aligned}
   \int_{0}^{1} r e^{\frac{r}{2}} dx &\implies r \frac{2}{r}e^{\frac{r}{2}} \int \frac{2}{r}e^{\frac{r}{2}}dx\\
-  &= \frac{2}{r} e^{\frac{r}{2}}
+  &=  2 e^{\frac{r}{2}} \int \frac{2}{r} e^{\frac{r}{2}}dx\\
+  &=  2 e^{\frac{r}{2}} \int \frac{2}{r} e^{\frac{r}{2}}dx\\
   \end{aligned}\]
 
 \end{document}
