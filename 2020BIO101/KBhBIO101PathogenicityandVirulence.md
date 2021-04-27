@@ -1,9 +1,10 @@
 ---
 title: Pathogenicity and Virulence
 author: Houjun Liu
-source:[KBhBIO101Diseases
+source: KBhBIO101Diseases
 course: BIO101
 ---
+
 # Pathogenicity and Virulence
 \definition{Pathoginecity}{An agent's relative capacity to cause disease}
 
