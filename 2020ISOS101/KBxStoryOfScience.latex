@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12024)}}    % original
-%\rhead{\textrmlf{Compiled }\#12024\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12025)}}    % original
+%\rhead{\textrmlf{Compiled }\#12025\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -371,8 +371,9 @@ them are absurd; some of them seem absurd, and are genius!
     \item
       temp of \textgreater425c, psi \textgreater{} 200
     \end{itemize}
+  \item
+    converted to fluid ammonia
   \end{itemize}
-\item
 \end{itemize}
 
 \end{document}

@@ -79,7 +79,7 @@ them are absurd; some of them seem absurd, and are genius!
 	- fixing nitrogen from the air with hydrogen to produce amonia
 	- inside container normally made form rthenium or iron
 		- temp of >425c, psi > 200
-- 
+	- converted to fluid ammonia
 
 
 
