@@ -1,5 +1,5 @@
-        Log for attempt at Tue Apr 27 04:51:38 PM PDT 2021 (12054)
-        Tue Apr 27 04:51:38 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6A9.org...
+        Log for attempt at Tue Apr 27 04:52:15 PM PDT 2021 (12055)
+        Tue Apr 27 04:52:15 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6A9.org...
 Error producing PDF.
 ! Package amsmath Error: Erroneous nesting of equation structures;
 (amsmath)                trying to recover with `aligned'.
