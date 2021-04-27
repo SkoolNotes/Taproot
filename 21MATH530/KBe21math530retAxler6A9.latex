@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12044)}}    % original
-%\rhead{\textrmlf{Compiled }\#12044\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12045)}}    % original
+%\rhead{\textrmlf{Compiled }\#12045\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -202,7 +202,7 @@ Suppose \(u, v \in V\) and \(\lVert u \rVert \leq  1\) and
 \subsection{Useful Lemma}\label{useful-lemma}}
 
 \begin{quote}
-Lemma: \[\begin{aligned}
+\[\begin{aligned}
 2 \lVert u \rVert \lVert v \rVert \leq \lVert u \rVert ^2 + \lVert v \rVert ^2
 \end{aligned}\]
 \end{quote}
