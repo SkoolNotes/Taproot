@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12059)}}    % original
-%\rhead{\textrmlf{Compiled }\#12059\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12060)}}    % original
+%\rhead{\textrmlf{Compiled }\#12060\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -216,10 +216,8 @@ and the Euclidean norm. An algebraic proof would be better.
 \subsection{Cauchy-Schwarz Corollary}\label{cauchy-schwarz-corollary}}
 
 \[\begin{aligned}
-  \lvert \langle u, v \rangle \rvert &\leq \lVert u \rVert \lVert v \rVert\\
-  1- \lVert u \rVert \lVert v \rVert &\leq 1- \lvert \langle u, v \rangle \rvert
-  \end{aligned}\] This intermediate value is obtained using the
-Cauchy-Schwarz inequality.
+  \lvert \langle u, v \rangle \rvert &\leq \lVert u \rVert \lVert v \rVert \implies 1- \lVert u \rVert \lVert v \rVert &\leq 1- \lvert \langle u, v \rangle \rvert
+  \end{aligned}\]
 
 \hypertarget{main-proof}{%
 \subsection{Main Proof}\label{main-proof}}
