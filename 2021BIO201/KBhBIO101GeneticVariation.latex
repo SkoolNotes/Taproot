@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11918)}}    % original
-%\rhead{\textrmlf{Compiled }\#11918\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11919)}}    % original
+%\rhead{\textrmlf{Compiled }\#11919\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -214,6 +214,13 @@ During M1 and M2, which chromasomes/chromatids end up on which of the
 four daughter cells is up to random chance based on which side of the
 two spindles they are on.
 
-Hence, this random combination of c
+Hence, this random combination of cells then create more variation in
+how the genetic material of the grandparents are distributed amoungst
+the daughter cells.
+
+\hypertarget{also-mutations}{%
+\subsection{Also, Mutations}\label{also-mutations}}
+
+Cells could also just decide to
 
 \end{document}
