@@ -6,6 +6,12 @@ course: BIO101
 ---
 
 # Genetic Variation
-There are two main ways by which genetic variation is introduced to a cell cycle.
+There are two main ways by which genetic variation is introduced to a cell cycle. Namely, **crossing over** and **independent assortment.**
+
+## Crossing over
+=> The process by which genetic information between **homologous** (similar) chromasomes are exchanged.
+
+During [[KBhBIO101Meiosis]]
+
 
 
