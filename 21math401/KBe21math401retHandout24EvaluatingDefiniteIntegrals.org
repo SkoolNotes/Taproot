@@ -9,7 +9,7 @@
 * $\int_{0}^{1} r e^{\frac{r}{2}} dr$
 
   \[\begin{aligned}
-  \int_{0}^{1} r e^{\frac{r}{2}} dx &\implies r \frac{2}{r}e^{\frac{r}{2}} \int \frac{2}{r}e^{\frac{r}{2}}dx\\
-  &=  2 e^{\frac{r}{2}} \int \frac{2}{r} e^{\frac{r}{2}}dx\\
-  &=  2 e^{\frac{r}{2}} \int \frac{2}{r} e^{\frac{r}{2}}dx\\
+  \int_{0}^{1} r e^{\frac{r}{2}} dx &\implies r 2e^{\frac{r}{2}} \int \frac{2}{r}e^{\frac{r}{2}}dr\\
+  &=  2r e^{\frac{r}{2}} \int \frac{2}{r} e^{\frac{r}{2}}dr\\
+  &=  2r e^{\frac{r}{2}} 4 e^{\frac{r}{2}}\\
   \end{aligned}\]
