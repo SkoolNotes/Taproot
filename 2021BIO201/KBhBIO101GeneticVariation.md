@@ -11,7 +11,7 @@ There are two main ways by which genetic variation is introduced to a cell cycle
 ## Crossing over
 => The process by which genetic information between **homologous** (similar) chromasomes are exchanged.
 
-During [[KBhBIO101Meiosis]]'s (critically, ONLY meiosis') metaphase 1,
+During [[KBhBIO101Meiosis]]'s (critically, ONLY meiosis') metaphase 1, homologous chromasomes cr
 
 
 
