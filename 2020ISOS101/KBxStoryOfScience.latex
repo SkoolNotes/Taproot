@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12007)}}    % original
-%\rhead{\textrmlf{Compiled }\#12007\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12008)}}    % original
+%\rhead{\textrmlf{Compiled }\#12008\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -295,6 +295,11 @@ them are absurd; some of them seem absurd, and are genius!
   \item
     also wrote:
     \texttt{The\ Theoretical\ Basis\ of\ Technical\ Electrochemistry}
+  \item
+    worked on nitrobenzeins, the hydrogen oxygen fuel cell, and the
+    glass electrode, then wrote
+  \item
+    \texttt{“The\ Electrolytic\ Processes\ of\ Organic\ Chemistry}
   \end{itemize}
 \end{itemize}
 
