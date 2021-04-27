@@ -32,7 +32,34 @@ source:  #index
 - **Caused so much pain and suffering, was an evil person. And yet, is responsible for the life of a third of the human race**
 	- how do we think about this? how does morality handle a situation like that?
 	- dark, but interesting story, interesting context, interesting science!
-			
+
+
+## Part two! (of part one)
+
+```
+Assignment 1b - Research the context and the science: Research and write
+some notes/analysis to help you cement your understanding of 
+
+1) the context of the time period, place, and set of people of your moment; 
+
+and 2) the science of your story. Make sure you know the details of the arguments
+and claims, for this really makes a good history of science story. Some of
+them are absurd; some of them seem absurd, and are genius!
+```
+
+
+
+### Context
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -40,7 +40,8 @@ source: #index
 * [[KBxSOMPREZTHING]]
 
  ***
- 
+
+* [[KBxStoryOfScience]]
 * [[KBhISOS101StoryResearch]]
 
 
