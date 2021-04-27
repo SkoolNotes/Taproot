@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12020)}}    % original
-%\rhead{\textrmlf{Compiled }\#12020\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12021)}}    % original
+%\rhead{\textrmlf{Compiled }\#12021\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -351,5 +351,20 @@ them are absurd; some of them seem absurd, and are genius!
 
 \hypertarget{the-actual-process}{%
 \subsubsection{The actual process}\label{the-actual-process}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Overview}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    using high pressures and catalysts
+  \item
+    fixing nitrogen from the air with hydrogen to produce amonia
+  \item
+  \end{itemize}
+\end{itemize}
 
 \end{document}

@@ -74,7 +74,10 @@ them are absurd; some of them seem absurd, and are genius!
 
 ### The actual process
 
-
+- **Overview**
+	- using high pressures and catalysts 
+	- fixing nitrogen from the air with hydrogen to produce amonia
+	- 
 
 
 
