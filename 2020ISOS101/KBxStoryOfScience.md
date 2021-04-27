@@ -62,7 +62,7 @@ them are absurd; some of them seem absurd, and are genius!
 - **WWI**
 	- entirely devoted research and resources to germany during wartime preparation 
 	- nitrates could be used in explosives
-	- 
+	- pioneered chemical warfare, chlorine gas, ect. 
 
 
 
