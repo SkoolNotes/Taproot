@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12038)}}    % original
-%\rhead{\textrmlf{Compiled }\#12038\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12039)}}    % original
+%\rhead{\textrmlf{Compiled }\#12039\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -198,15 +198,17 @@ Suppose \(u, v \in V\) and \(\lVert u \rVert \leq  1\) and
 \hypertarget{proof}{%
 \section{Proof}\label{proof}}
 
-\hypertarget{lemma}{%
-\subsection{Lemma}\label{lemma}}
+\hypertarget{useful-lemma}{%
+\subsection{Useful Lemma}\label{useful-lemma}}
+
+\hypertarget{cauchy-schwarz-result}{%
+\subsection{Cauchy-Schwarz Result}\label{cauchy-schwarz-result}}
 
 \[\begin{aligned}
   \lvert \langle u, v \rangle \rvert &\leq \lVert u \rVert \lVert v \rVert\\
   1- \lVert u \rVert \lVert v \rVert &\leq 1- \lvert \langle u, v \rangle \rvert
-  \end{aligned}\]
-
-This intermediate value is obtained using the Cauchy-Schwarz inequality.
+  \end{aligned}\] This intermediate value is obtained using the
+Cauchy-Schwarz inequality.
 
 Now, to show that the square of the left hand side is less than or equal
 to the square of the right hand side,
