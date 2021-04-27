@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11901)}}    % original
-%\rhead{\textrmlf{Compiled }\#11901\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11902)}}    % original
+%\rhead{\textrmlf{Compiled }\#11902\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -245,7 +245,15 @@ each with 23 1-chromatids. This is more similar to a good-ol
   \textbf{(P)rophase 2}: new spindles form, again! and the new haploids'
   nuclear envelope will start dissoving
 \item
-  \textbf{(M)etaphase 2}: t
+  \textbf{(M)etaphase 2}: the sister chromatids (chromasomes) align
+  themselves along the metaphase plate, attaching themselves to the
+  spindles
+\item
+  \textbf{(A)naphase 2}: spindles pull the sister chromatids away from
+  each other
+\item
+  \textbf{(T)elophase 2}: new nuclear envelope forms and the chromasomes
+  dissove
 \end{itemize}
 
 \end{document}
