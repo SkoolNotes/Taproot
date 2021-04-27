@@ -66,7 +66,10 @@ them are absurd; some of them seem absurd, and are genius!
 	- became Chief of Germany’s Chemical Warfare Service
 	- **General**
 		- their was a period of high tension before ww1, eventually set off by the assination of franz ferdinand
-		- 
+		- germany was growing rapidly, caused a security dillema
+			- everyone has massive armies sitting and building, which in turn caused others to build armies before wartime
+		- in germany, their was a sentiment of wanting to be in the spotlight
+		- also, general consensus was that war was inevitable and 
 
 
 
