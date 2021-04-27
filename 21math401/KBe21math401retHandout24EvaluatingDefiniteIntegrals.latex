@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11923)}}    % original
-%\rhead{\textrmlf{Compiled }\#11923\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11925)}}    % original
+%\rhead{\textrmlf{Compiled }\#11925\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,6 +185,12 @@
 
 % DID YOU SET SPELL????
 
+\hypertarget{int_12-fracefrac1xx2-dx}{%
+\section{\texorpdfstring{\(\int_{1}^{2} \frac{e^{\frac{1}{x}}}{x^2} dx\)}{\textbackslash int\_\{1\}\^{}\{2\} \textbackslash frac\{e\^{}\{\textbackslash frac\{1\}\{x\}\}\}\{x\^{}2\} dx}}\label{int_12-fracefrac1xx2-dx}}
 
+\[\begin{aligned}
+  \int - e^{u} du &= - e^u +C\\
+  &=
+  \end{aligned}\]
 
 \end{document}
