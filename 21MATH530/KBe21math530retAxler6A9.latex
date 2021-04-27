@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12058)}}    % original
-%\rhead{\textrmlf{Compiled }\#12058\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12059)}}    % original
+%\rhead{\textrmlf{Compiled }\#12059\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -231,9 +231,9 @@ to the square of the right hand side,
   \begin{aligned}
   (1-\lVert u \rVert ^2)(1- \lVert v \rVert ^2) =& 1-\lVert u \rVert ^2 - \lVert v \rVert ^2 + \lVert u \rVert ^2 \lVert v \rVert ^2\\
   =& 1- (\lVert u \rVert ^2 + \lVert v \rVert ^2 ) + \lVert u \rVert ^2 \lVert v \rVert ^2\\
-  \leq & 1 - 2\lVert u \rVert \lVert v \rVert + \lVert u \rVert ^2 \lVert v \rVert ^2          &\quad&\text{by the earlier lemma}\\
+  \leq & 1 - 2\lVert u \rVert \lVert v \rVert + \lVert u \rVert ^2 \lVert v \rVert ^2          &&\text{by the earlier lemma}\\
   =& (1-\lVert u \rVert \lVert v \rVert ) ^2\\
-  \leq& (1- \lvert \langle u, v \rangle \rvert ) ^2                                            &\quad&\text{by the Cauchy-Schwarz corollary}
+  \leq& (1- \lvert \langle u, v \rangle \rvert ) ^2                                            &&\text{by the Cauchy-Schwarz corollary}
   \end{aligned}
   \]
 
