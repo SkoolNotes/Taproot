@@ -15,7 +15,7 @@ The purpose of meiosis 1 is to take the 23 _pairs_ of 2-chromatid chomasomes in 
 
 - **Prophase 1**: the starting cell, a diploid, dissolves its nucleaus and genetic information flows out. Also, b
 - **Metaphase 1**: homogous PAIRS (**note!** pairs!!! not the chromasomes) line up along the metaphase plate, forming a double-filed lines
-- **Anaphase 1**
+- **Anaphase 1**: 
 
 ## Meiosis 2
 The 23 2-chromatid Chromasomes becomes seperated into two more cells each with 23 1-chromatids.
