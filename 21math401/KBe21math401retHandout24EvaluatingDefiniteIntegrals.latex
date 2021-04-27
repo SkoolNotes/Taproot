@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11970)}}    % original
-%\rhead{\textrmlf{Compiled }\#11970\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11971)}}    % original
+%\rhead{\textrmlf{Compiled }\#11971\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -222,7 +222,8 @@
   &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} \left( x \sin \sqrt{x} - \frac{\sqrt{x}}{2} \int \cos \sqrt{x} dx \right) \\
   &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} x \sin \sqrt{x} - \frac{x}{4} \int \cos \sqrt{x} dx \\
   \frac{x+4}{4}\int \cos  \sqrt{x} dx &= x \cos  \sqrt{x} + \frac{\sqrt{x}}{2} x \sin  \sqrt{x}\\
-  \int \cos  \sqrt{x} dx &= \frac{4x \cos  \sqrt{x} + 2\sqrt{x}x \sin  \sqrt{x}}{x+4}
+  \int \cos  \sqrt{x} dx &= \frac{4x \cos  \sqrt{x} + 2x\sqrt{x} \sin  \sqrt{x}}{x+4}\\
+  &= \frac{4x \cos  \sqrt{x} + 2x\sqrt{x} \sin  \sqrt{x}}{x+4}\\
   \end{aligned}\]
 
 \hypertarget{int_1e-sin-ln-x-dx}{%
