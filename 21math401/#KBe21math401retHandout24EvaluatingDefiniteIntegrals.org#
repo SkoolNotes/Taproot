@@ -38,4 +38,5 @@
   &= x \sin  \ln  x -\left( x \cos  \ln  x + \int \cancel{x \frac{1}{x}} \sin  \ln  x dx\right)\\
   &= x \sin  \ln  x - x \cos  \ln  x -\int \sin \ln x dx\\
   2\int \sin  \ln  x dx  &= x \sin  \ln  x - x \cos  \ln  x
+ \int \sin  \ln  x dx &= \frac{1}{2}x 
   \end{aligned}\]
