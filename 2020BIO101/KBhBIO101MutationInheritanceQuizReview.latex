@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11886)}}    % original
-%\rhead{\textrmlf{Compiled }\#11886\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11908)}}    % original
+%\rhead{\textrmlf{Compiled }\#11908\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -211,8 +211,8 @@ Regulation}\label{cell-division-cell-cycle-its-regulation}}
     {[}{[}KBhBIO101Mitosis{]}{]} (exact copy, for somatic cells (not
     sperm/egg) only) or
   \item
-    :{[}{[}KBhBIO101Meiosis{]}{]} (half, randomly-mixed genetic info,
-    for gametes (sperm/egg) only).
+    {[}{[}KBhBIO101Meiosis{]}{]} (half, randomly-mixed genetic info, for
+    gametes (sperm/egg) only).
   \end{itemize}
 \item
   The purpose and activities of each cell cycle phase
