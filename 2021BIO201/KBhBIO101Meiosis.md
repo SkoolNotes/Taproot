@@ -13,7 +13,7 @@ Meiosis happens in two phases, which happens each in 4 phases:
 ## Meiosis 1
 The purpose of meiosis 1 is to take the 23 _pairs_ of 2-chromatid chomasomes in germline cells (2n diploid, contains two sets of homologous chromosomes) and mix them to separate into two cells containing 23 singular 2-chromatid chromasomes (1n haploid, contains only one set of genes).
 
-- **(P)rophase 1**: the starting cell, a diploid, dissolves its nucleaus and genetic information flows out. Also, b
+- **(P)rophase 1**: the starting cell, a diploid, dissolves its nucleaus and genetic information flows out. Also, [[KBhBIO101GeneticVariation]] by crossing over and independent assortment happens.
 - **(M)etaphase 1**: homogous PAIRS of chromosomes (**note!** pairs!!! not the chromasomes) line up along the metaphase plate, forming a double-filed lines
 - **(A)naphase 1**: seperate the homologous pairs to the opposite ends of the cell
 - **(T)elophase 1**: the two new half-cells proceed to seperate further, creating new nuclear envelopes enveloping the 23-unpaired sister chromatids
