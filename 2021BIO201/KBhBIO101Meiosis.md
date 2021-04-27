@@ -26,4 +26,4 @@ The 23 2-chromatid Chromasomes becomes seperated into two more cells each with 2
 - **(P)rophase 2**: new spindles form, again! and the new haploids' nuclear envelope will start dissoving
 - **(M)etaphase 2**: the sister chromatids (chromasomes) align themselves along the metaphase plate, attaching themselves to the spindles
 - **(A)naphase 2**: spindles pull the sister chromatids away from each other
-- **(T)elophase 2**: new nuclear envelope forms and the chromasomes dissove
+- **(T)elophase 2**: new nuclear envelope forms and the chromasomes dissoves
