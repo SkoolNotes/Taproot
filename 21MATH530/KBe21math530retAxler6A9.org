@@ -17,10 +17,10 @@
 
   This intermediate value is obtained using the Cauchy-Schwarz inequality.
 
-  Now, to show that the left hand side is less than or equal to the right hand side,
+  Now, to show that the square of the left hand side is less than or equal to the square of the right hand side,
 
   \[\begin{aligned}
-  &\sqrt{1-\lVert u \rVert^2} \sqrt{1- \lVert v \rVert ^2}\\
-  =& \sqrt{(1-\lVert u \rVert ^2)(1- \lVert v \rVert ^2)}\\
-  =& \sqrt{1-\lVert u \rVert ^2 - \lVert v \rVert ^2 + \lVert u \rVert ^2 \lVert v \rVert ^2}\\
+  =& (1-\lVert u \rVert ^2)(1- \lVert v \rVert ^2)\\
+  =& 1-\lVert u \rVert ^2 - \lVert v \rVert ^2 + \lVert u \rVert ^2 \lVert v \rVert ^2\\
+  =& 1-\lVert u \rVert ^2 - \lVert v \rVert ^2 + \lVert u \rVert ^2 \lVert v \rVert ^2\\
   \end{aligned}\]
