@@ -78,6 +78,7 @@ them are absurd; some of them seem absurd, and are genius!
 	- using high pressures and catalysts 
 	- fixing nitrogen from the air with hydrogen to produce amonia
 	- inside container normally made form rthenium or iron
+		- temp of >426c
 
 
 
