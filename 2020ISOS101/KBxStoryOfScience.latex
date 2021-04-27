@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11983)}}    % original
-%\rhead{\textrmlf{Compiled }\#11983\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11984)}}    % original
+%\rhead{\textrmlf{Compiled }\#11984\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -271,5 +271,25 @@ them are absurd; some of them seem absurd, and are genius!
 
 \hypertarget{context}{%
 \subsubsection{Context}\label{context}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Haber}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    trained as organic chemist
+  \item
+    switched to physical chem
+
+    \begin{itemize}
+    \tightlist
+    \item
+      mainly industrial processesf
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
 
 \end{document}
