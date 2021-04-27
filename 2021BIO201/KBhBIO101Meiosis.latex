@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11895)}}    % original
-%\rhead{\textrmlf{Compiled }\#11895\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11896)}}    % original
+%\rhead{\textrmlf{Compiled }\#11896\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -216,13 +216,19 @@ only one set of genes).
   pairs!!! not the chromasomes) line up along the metaphase plate,
   forming a double-filed lines
 \item
-  \textbf{Anaphase 1}: seperate the homologous pairs to the opposite
+  \textbf{(A)naphase 1}: seperate the homologous pairs to the opposite
   ends of the cell
 \item
-  \textbf{Telophase 1}: the two new half-cells proceed to seperate
+  \textbf{(T)elophase 1}: the two new half-cells proceed to seperate
   further, creating new nuclear envelopes enveloping the 23-unpaired
   sister chromatids
 \end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{./Pasted image 20210426220455.png}
+\caption{Pasted image 20210426220455.png}
+\end{figure}
 
 \hypertarget{meiosis-2}{%
 \subsection{Meiosis 2}\label{meiosis-2}}
