@@ -35,3 +35,5 @@
   =& (1-\lVert u \rVert \lVert v \rVert ) ^2\\
   \leq& (1- \lvert \langle u, v \rangle \rvert ) ^2                                            &\quad&\text{by the Cauchy-Schwarz corollary}
   \end{alignat*}\]
+
+  Taking square roots of both sides proves the desired result. \hfill \blacksquare
