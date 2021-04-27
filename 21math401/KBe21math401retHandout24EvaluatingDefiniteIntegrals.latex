@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11966)}}    % original
-%\rhead{\textrmlf{Compiled }\#11966\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11967)}}    % original
+%\rhead{\textrmlf{Compiled }\#11967\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -220,7 +220,7 @@
   &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} \int \sin \sqrt{x} dx\\
   &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} \left( x \sin \sqrt{x} - \int \frac{\sqrt{x}}{2} \cos \sqrt{x} dx \right) \\
   &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} \left( x \sin \sqrt{x} - \frac{\sqrt{x}}{2} \int \cos \sqrt{x} dx \right) \\
-  &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} \left( x \sin \sqrt{x} - \frac{\sqrt{x}}{2} \int \cos \sqrt{x} dx \right) \\
+  &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} x \sin \sqrt{x} - \frac{\sqrt{x}}{2} \frac{\frac{x}{4} \int \cos \sqrt{x} dx \\
   \end{aligned}\]
 
 \hypertarget{int_1e-sin-ln-x-dx}{%
