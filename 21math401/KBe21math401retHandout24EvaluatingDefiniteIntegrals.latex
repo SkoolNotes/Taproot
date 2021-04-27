@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11954)}}    % original
-%\rhead{\textrmlf{Compiled }\#11954\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11955)}}    % original
+%\rhead{\textrmlf{Compiled }\#11955\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -232,6 +232,7 @@
   &= x \sin  \ln  x - x \cos  \ln  x -\int \sin \ln x dx\\
   2\int \sin  \ln  x dx  &= x \sin  \ln  x - x \cos  \ln  x\\
  \int \sin  \ln  x dx &= \frac{1}{2}x (\sin  \ln  x - \cos  \ln  x)
+ &\implies
   \end{aligned}\]
 
 \end{document}
