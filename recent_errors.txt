@@ -1,2 +1,6 @@
-        Log for attempt at Tue Apr 27 01:17:40 PM PDT 2021 (12006)
-        Tue Apr 27 01:17:40 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6A9.org...
+        Log for attempt at Tue Apr 27 01:18:17 PM PDT 2021 (12007)
+        Tue Apr 27 01:18:17 PM PDT 2021 Converting 2020ISOS101/KBxStoryOfScience.md...
+Error producing PDF.
+! Undefined control sequence.
+l.219   \({\displaystyle {\ce
+

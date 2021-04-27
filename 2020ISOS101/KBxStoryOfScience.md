@@ -55,7 +55,7 @@ them are absurd; some of them seem absurd, and are genius!
 	 - switched to physical chem
 		 - mainly industrial processes
 	- wrote a book, `Experimental Investigations on the Decomposition and Combustion of Hydrocarbons`
-	- 
+	- also wrote: `The Theoretical Basis of Technical Electrochemistry`
 
 
 
