@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11961)}}    % original
-%\rhead{\textrmlf{Compiled }\#11961\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11962)}}    % original
+%\rhead{\textrmlf{Compiled }\#11962\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -216,7 +216,7 @@
 
 \[\begin{aligned}
   \int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx &= x \cos \sqrt{x} -\int x \frac{1}{2\sqrt{x}} \sin \sqrt{x} dx\\
-  &= x \cos \sqrt{x} -\int \sqrt{x} \frac{1}{2} \sin \sqrt{x} dx\\
+  &= x \cos \sqrt{x} -\int \frac{\sqrt{x}}{2} \sin \sqrt{x} dx\\
   \end{aligned}\]
 
 \hypertarget{int_1e-sin-ln-x-dx}{%
