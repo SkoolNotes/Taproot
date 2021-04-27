@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11943)}}    % original
-%\rhead{\textrmlf{Compiled }\#11943\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11944)}}    % original
+%\rhead{\textrmlf{Compiled }\#11944\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -202,11 +202,13 @@
   &=  2r e^{\frac{r}{2}} - \int 2 e^{\frac{r}{2}}dr\\
   &=  2r e^{\frac{r}{2}} - 4 e^{\frac{r}{2}}\\
   &= 2r e^{\frac{r}{2}} - 4 e^{\frac{r}{2}}\\
-  &\implies 2e^{\frac{1}{2}} - 4e^{\frac{1}{2}} - (- 4)
+  &\implies 2e^{\frac{1}{2}} - 4e^{\frac{1}{2}} - (- 4)\\
+  &= 4 - 2e^{\frac{1}{2}}
   \end{aligned}\]
 
 \hypertarget{int_49-frac-ln-ysqrty-dy}{%
-\section{\texorpdfstring{\(\int_{4}^{9} \frac{ \ln  y}{\sqrt{y}} dy\)}{\textbackslash int\_\{4\}\^{}\{9\} \textbackslash frac\{ \textbackslash ln  y\}\{\textbackslash sqrt\{y\}\} dy}}\label{int_49-frac-ln-ysqrty-dy}}
+\section{\texorpdfstring{{TODO}
+\(\int_{4}^{9} \frac{ \ln  y}{\sqrt{y}} dy\)}{TODO \textbackslash int\_\{4\}\^{}\{9\} \textbackslash frac\{ \textbackslash ln  y\}\{\textbackslash sqrt\{y\}\} dy}}\label{int_49-frac-ln-ysqrty-dy}}
 
 \[\begin{aligned}
 

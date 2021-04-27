@@ -13,10 +13,11 @@
   &=  2r e^{\frac{r}{2}} - \int 2 e^{\frac{r}{2}}dr\\
   &=  2r e^{\frac{r}{2}} - 4 e^{\frac{r}{2}}\\
   &= 2r e^{\frac{r}{2}} - 4 e^{\frac{r}{2}}\\
-  &\implies 2e^{\frac{1}{2}} - 4e^{\frac{1}{2}} - (- 4)
+  &\implies 2e^{\frac{1}{2}} - 4e^{\frac{1}{2}} - (- 4)\\
+  &= 4 - 2e^{\frac{1}{2}}
   \end{aligned}\]
 
-* $\int_{4}^{9} \frac{ \ln  y}{\sqrt{y}} dy$
+* TODO $\int_{4}^{9} \frac{ \ln  y}{\sqrt{y}} dy$
 
   \[\begin{aligned}
 
