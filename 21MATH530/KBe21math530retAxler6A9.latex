@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12039)}}    % original
-%\rhead{\textrmlf{Compiled }\#12039\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12040)}}    % original
+%\rhead{\textrmlf{Compiled }\#12040\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -209,6 +209,9 @@ Suppose \(u, v \in V\) and \(\lVert u \rVert \leq  1\) and
   1- \lVert u \rVert \lVert v \rVert &\leq 1- \lvert \langle u, v \rangle \rvert
   \end{aligned}\] This intermediate value is obtained using the
 Cauchy-Schwarz inequality.
+
+\hypertarget{main-proof}{%
+\subsection{Main Proof}\label{main-proof}}
 
 Now, to show that the square of the left hand side is less than or equal
 to the square of the right hand side,
