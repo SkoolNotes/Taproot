@@ -61,6 +61,7 @@ them are absurd; some of them seem absurd, and are genius!
 	- then he worked on nitrogen fixation! got a nobel for it
 - **WWI**
 	- entirely devoted research and resources to germany during wartime preparation 
+	- nitrates could be used in explosives
 	- 
 
 
