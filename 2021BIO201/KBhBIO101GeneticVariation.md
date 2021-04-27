@@ -13,7 +13,7 @@ There are two main ways by which genetic variation is introduced to a cell cycle
 
 During [[KBhBIO101Meiosis]]'s (critically, ONLY meiosis') metaphase 1, homologous chromasomes pair with each other and exchange like segments of their genetic material.
 
-In this fashion,go
+In this fashion, 
 
 
 

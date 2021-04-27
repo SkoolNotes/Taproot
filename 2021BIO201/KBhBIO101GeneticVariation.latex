@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11912)}}    % original
-%\rhead{\textrmlf{Compiled }\#11912\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11913)}}    % original
+%\rhead{\textrmlf{Compiled }\#11913\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -204,6 +204,6 @@ During {[}{[}KBhBIO101Meiosis{]}{]}`s (critically, ONLY meiosis')
 metaphase 1, homologous chromasomes pair with each other and exchange
 like segments of their genetic material.
 
-In this fashion,go
+In this fashion,
 
 \end{document}
