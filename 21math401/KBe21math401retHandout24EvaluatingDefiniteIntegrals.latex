@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11925)}}    % original
-%\rhead{\textrmlf{Compiled }\#11925\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11926)}}    % original
+%\rhead{\textrmlf{Compiled }\#11926\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -190,7 +190,7 @@
 
 \[\begin{aligned}
   \int - e^{u} du &= - e^u +C\\
-  &=
+  &= -e^{\frac{1}{2}} + e^{\frac{1}{1}}\\
   \end{aligned}\]
 
 \end{document}
