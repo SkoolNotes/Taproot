@@ -121,7 +121,7 @@
 
 
 \newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Cell Reproduction }
+\newcommand{\thelesson}{ Meiosis }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -187,41 +187,42 @@
 \textbf{Source}:\thinspace
 {\href{http://taproot.shabang.cf/relay?request=KBhBIO101CellCycle}{\tiny\textulf{[[}\textbf{KBhBIO101CellCycle}\textulf{]]}}}\thinspace
 
-\hypertarget{cell-reproduction}{%
-\section{Cell Reproduction}\label{cell-reproduction}}
-
-\textbf{How Cells Make New Cells}
-
-=\textgreater{} Cell division is used as a process for asexual
-production, and growth \& development + tissue renewal.
-
-At some point, stuff ends up in different positions and that causes the
-specialization of cells. (Outside cells become skin cells, etc.)
-
-\textbf{Most cell division results in genetically identical daughter
-cell.} Importantly, \emph{most}: meaning that there is a critical
-difference between {[}{[}KBhBIO101Meiosis{]}{]} and
-{[}{[}KBhBIO101Mitosis{]}{]}.
-
-\hypertarget{mitosis}{%
-\subsection{Mitosis}\label{mitosis}}
-
-What you think of as ``cell division''. It takes somatic cells ---
-``normal'' cells (not sperm/egg cells) --- and makes two somatic cells
-with the same DNA; essentially cloning the somatic cell. Basically, all
-cells divide this way \emph{except} for reproductive cells. For more,
-see {[}{[}KBhBIO101Mitosis{]}{]}.
-
 \hypertarget{meiosis}{%
-\subsection{Meiosis}\label{meiosis}}
+\section{Meiosis}\label{meiosis}}
 
-Meiosis is the process by which gametes (``sperm and egg cells'')
-becomes \emph{created}. NOTE! Not the word ``divided'', because gametes
-comes from the division of germline cells. Unlike mitosis, the 23
-\textbf{pairs} of chromosome in the germline cells gets randomly mixed
-(see link for details) and result in two somatic cells with 23
-chromosomes each. Why? When the sperm and egg connect together, they
-pair up and result back into 23 chromosome pairs for the child's gamete
-cells. See {[}{[}KBhBIO101Meiosis{]}{]}.
+Meiosis is the process by which sex cells (gametes cells) are produced.
+These cells have only 23 chromasomes (compared to somatic cell's 23
+\emph{pairs}), and they contain a variety of mechanisms for genetic
+variation.
+
+Meiosis happens in two phases, which happens each in 4 phases:
+
+\hypertarget{meiosis-1}{%
+\subsection{Meiosis 1}\label{meiosis-1}}
+
+The purpose of meiosis 1 is to take the 23 \emph{pairs} of 2-chromatid
+chomasomes in germline cells (2n diploid, contains two sets of
+homologous chromosomes) and mix them to separate into two cells
+containing 23 singular 2-chromatid chromasomes (1n haploid, contains
+only one set of genes).
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Prophase 1}: the starting cell, a diploid, dissolves its
+  nucleaus and genetic information flows out. Also, b
+\item
+  \textbf{Metaphase 1}: homogous PAIRS (\textbf{note!} pairs!!! not the
+  chromasomes) line up along the metaphase plate, forming a double-filed
+  lines
+\item
+  \textbf{Anaphase 1}
+\end{itemize}
+
+\hypertarget{meiosis-2}{%
+\subsection{Meiosis 2}\label{meiosis-2}}
+
+The 23 2-chromatid Chromasomes becomes seperated into two more cells
+each with 23 1-chromatids.
 
 \end{document}

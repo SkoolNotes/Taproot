@@ -121,7 +121,7 @@
 
 
 \newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Cell Reproduction }
+\newcommand{\thelesson}{ Types of Genetic Inheritance }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -185,43 +185,106 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBhBIO101CellCycle}{\tiny\textulf{[[}\textbf{KBhBIO101CellCycle}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101MutationsAllealsInheritance}{\tiny\textulf{[[}\textbf{KBhBIO101MutationsAllealsInheritance}\textulf{]]}}}\thinspace
 
-\hypertarget{cell-reproduction}{%
-\section{Cell Reproduction}\label{cell-reproduction}}
+\hypertarget{genetic-inheritance}{%
+\section{Genetic Inheritance}\label{genetic-inheritance}}
 
-\textbf{How Cells Make New Cells}
+How to deal with \textbf{Heterozygus} (two different alleals of one
+gene) genes
 
-=\textgreater{} Cell division is used as a process for asexual
-production, and growth \& development + tissue renewal.
+\begin{itemize}
+\tightlist
+\item
+  Mendelian: dominant vs recessive versions of genes (Mendel's pea
+  plants)
+\item
+  Incomplete dominance (snap dragons)
+\item
+  Codominance (human blood types)
+\item
+  Polygenic inheritance (human height \& skin color)
+\item
+  Epistasis (dog coat color)
+\item
+  Sex-linked inheritance (color-blindness)
+\end{itemize}
 
-At some point, stuff ends up in different positions and that causes the
-specialization of cells. (Outside cells become skin cells, etc.)
+\hypertarget{mendelian-inheritance}{%
+\subsection{Mendelian Inheritance}\label{mendelian-inheritance}}
 
-\textbf{Most cell division results in genetically identical daughter
-cell.} Importantly, \emph{most}: meaning that there is a critical
-difference between {[}{[}KBhBIO101Meiosis{]}{]} and
-{[}{[}KBhBIO101Mitosis{]}{]}.
+\textbf{If two alleal for a gene differ, one could dominate the
+phenotype.}
 
-\hypertarget{mitosis}{%
-\subsection{Mitosis}\label{mitosis}}
+\begin{itemize}
+\tightlist
+\item
+  In order to see the recessive gene, a plant needs two copies of their
+  traits.
+\item
+  In order to see the dominant gene, the plant only need one copy of the
+  trait
+\end{itemize}
 
-What you think of as ``cell division''. It takes somatic cells ---
-``normal'' cells (not sperm/egg cells) --- and makes two somatic cells
-with the same DNA; essentially cloning the somatic cell. Basically, all
-cells divide this way \emph{except} for reproductive cells. For more,
-see {[}{[}KBhBIO101Mitosis{]}{]}.
+But\ldots.. What's actualyl happening?
 
-\hypertarget{meiosis}{%
-\subsection{Meiosis}\label{meiosis}}
+\includegraphics{Pasted image 20210426132223.png}
 
-Meiosis is the process by which gametes (``sperm and egg cells'')
-becomes \emph{created}. NOTE! Not the word ``divided'', because gametes
-comes from the division of germline cells. Unlike mitosis, the 23
-\textbf{pairs} of chromosome in the germline cells gets randomly mixed
-(see link for details) and result in two somatic cells with 23
-chromosomes each. Why? When the sperm and egg connect together, they
-pair up and result back into 23 chromosome pairs for the child's gamete
-cells. See {[}{[}KBhBIO101Meiosis{]}{]}.
+The ``recessive'' gene usually is a gene that does not code for the
+functional enzyme. Hence, if you have one alleal with the functional
+DNA, even if the other alleal is broken, a functional enzyme is created
+and hence the individual will ``express'' this trait. It is \emph{only}
+with both copies being broken that the enzyme that create that trait
+will not exist and hence can't function.
+
+\hypertarget{incomplete-dominance}{%
+\subsection{Incomplete Dominance}\label{incomplete-dominance}}
+
+Both alleals ale visible in the phenotype, and so neither is dominant
+really. Think about the genetic explanation of inherintance above. In
+the case of ``incomplete dominance'', not enough enzymes is created to
+fully express a trait (like ``red pigment'') such that the resulting
+organism will have an ``incompletely'' dominant trait.
+
+\includegraphics{Pasted image 20210426132605.png}
+
+\hypertarget{codominance}{%
+\subsection{Codominance}\label{codominance}}
+
+Both alleals are \emph{fully present}. For instance, in blood types, the
+AB alleals will result in their codominance to created AB blood. This is
+different from incomplete dominance in that that is simply a half-mix.
+
+\hypertarget{polygenic-dominance}{%
+\subsection{Polygenic Dominance}\label{polygenic-dominance}}
+
+Where a trait exists on the gradient of the combination multiple genes
+than results in a phenotype.
+
+\hypertarget{epistasis}{%
+\subsection{Epistasis}\label{epistasis}}
+
+Alleals that could only be expressed if another alleal is already
+expressed. For instance, the \texttt{Ee} gene in labrador retrivers
+control whether a pigment could be deposited. So, if a dog has
+\texttt{ee} gene, it will have golden coat whether or not the black-ness
+\texttt{Bb} gene is expressed b/c the lack of colour expression.
+
+\includegraphics{Pasted image 20210426133425.png}
+
+\hypertarget{sex-linked-inheritance}{%
+\subsection{Sex-Linked Inheritance}\label{sex-linked-inheritance}}
+
+\begin{itemize}
+\tightlist
+\item
+  Two X chromasomes: most women
+\item
+  XY chromasomes: most man
+\end{itemize}
+
+Because men usually only have one X chromasome, even if a sex-linked
+mutation carries recessively, they do not have a chance of being
+dominated. Examples of these include red-green colour blindness.
 
 \end{document}

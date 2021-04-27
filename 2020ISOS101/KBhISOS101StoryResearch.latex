@@ -1,0 +1,303 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ISOS101 }
+\newcommand{\thelesson}{ ISOS Story Research }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11886)}}    % original
+%\rhead{\textrmlf{Compiled }\#11886\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBISOSMasterIndex}{\tiny\textulf{[[}\textbf{KBISOSMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{alan-turing-1912-1954}{%
+\section{Alan Turing (1912-1954)}\label{alan-turing-1912-1954}}
+
+Alan turing was a mathematition and chyptographer who worked to break
+German encryption and ciphers during WWI and established a series of
+theories on algorithmic computability.
+
+\hypertarget{work-at-combridge-regarding-computability-1936-1938}{%
+\subsection{Work at Combridge Regarding Computability
+(1936-1938)}\label{work-at-combridge-regarding-computability-1936-1938}}
+
+Turing crated proof that a ``universal computing machine'', as defined
+by specific parametres, could compute any mathematical operation as long
+as it is algorithmically representable.
+
+Furthermore, he showed that there are no solutions to the base-case
+decision problem (finding the provability of an theorem based on only
+axioms in O(1) time) because his ``computing machines'' could not have a
+finite state by when they halt.
+
+\hypertarget{hut8-1938-1941}{%
+\subsection{Hut8 (1938-1941)}\label{hut8-1938-1941}}
+
+Turing invented a system to decode German communication (``Enigma'')
+with a rotating weights sytem in the Hut8 program at Bletchley Park;
+however, Turing did not support the method by which the US navy decided
+to execute upon codebreaking. His codebreaking efforts, by estimate,
+shaved 2 years from the war.
+
+He also assisted in creating secured speech systems for the navy.
+
+\hypertarget{turing-test-1945-1947}{%
+\subsection{Turing test (1945-1947)}\label{turing-test-1945-1947}}
+
+Alan turing became interested the problem with artificial intellingence,
+and proposed the ``turing test'' as a way of seggregating AI with
+humans.
+
+\hypertarget{capture-prosecution-and-death-1952-death-1954}{%
+\subsection{Capture, prosecution, and Death (1952-death
+1954)}\label{capture-prosecution-and-death-1952-death-1954}}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{context-and-science-of-turings-discoveries}{%
+\section{Context and Science of Turing's
+Discoveries}\label{context-and-science-of-turings-discoveries}}
+
+Turing's career really spanned three different phases: his work on
+computability, his coding work at Hut8, and finally his brief stint of
+interest in artificial intelligence. There are different contexts under
+which each of these discoveries took place, with the war work being the
+centrepiece of his claim to international fame.
+
+\hypertarget{computability}{%
+\subsection{Computability}\label{computability}}
+
+In the early days of Turing's academic life, he worked in the early
+beginnings of computer science --- then still a form of ``mathematics.''
+
+As the study of ``algorithums'' (which evolved to be the foundation of
+CS) was gaining popularity among mathematitians; Turing published his
+work on ``Computable Numbers'' and created hypothetical devices named
+``turing machines'' that would solve any agrothmic problems.
+
+These ``turing machines'', and the theory thereof, eventually became the
+foundations for the definition of a programming language --- that any
+language sufficient to emulate a turing machine will then be capable to
+solve any algorthimic problem or implement any program.
+
+This, in addition to the lack of solution for the ``halting problem''
+with Turing machines which implies the inability to solve the decision
+problem, showed the necessity of proofs (that proofs could not be
+``inferred'' and has to be ``computed''.)
+
+\hypertarget{hut8}{%
+\subsection{Hut8}\label{hut8}}
+
+Under the context of WWII, Turing worked at Government Code and Cypher
+School, working on the cryptoanalysis of the Enigma machine.
+
+Turing is perhaps best known for his work in the cracking the German
+Naval Enigma --- solving first the naval indicator system by which the
+enigma machines communicate in 1939 and returning to Blenchley Park in
+1943.
+
+Hugh Alexander, the head at Hut8, supposed that Hut8's sucess is largely
+attributed to the work of Turing.
+
+Because of his work to break effective German code, Turing likely
+resulted in the shortening of the war and prevented thousands of deaths.
+
+\hypertarget{turing-test}{%
+\subsection{Turing Test}\label{turing-test}}
+
+After his work at Hut8, Turing retained a government advisory job and
+started returning to academia in development of early stored-program
+computers (the ACE: Automatic Computing Engine). However, he was later
+found guilty of homosectuality and commited\ldots{} Suiside? or
+Accidental Poising? shortly thereafter.
+
+With the dawn of computer programs, Turing began exploring the idea of
+computed intelligence: creating a philosophical ``Turing Test'' by which
+one could mark the standard for computed intelligence.
+
+Turing also proposed the idea of self-improving computation, that: its
+``easier to build a child mind and subject to education than bulding an
+adult mind''.
+
+The turing test became a fundimental concept in the bourgening field of
+Artificial intelligence, and the reversed form of the Turing test ---
+the CAPCHA --- is widely deployed today.
+
+\end{document}

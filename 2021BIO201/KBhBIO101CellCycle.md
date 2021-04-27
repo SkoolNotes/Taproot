@@ -121,4 +121,7 @@ Growth Factors that the cells measure: the 1) Size of the cell 2) the nutritiona
 **Positive Regulators** push the cell cycle forward, CDK, upon lots of cycling binding to it and the meeting of checkpoint.
 
 **Negative Regulators** hold the cell cycle back due to a response to a checkpoint or an environmental factor
+
+## How about Meiosis?
+[[KBhBIO101Meiosis]]
  

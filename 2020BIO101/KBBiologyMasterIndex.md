@@ -45,13 +45,11 @@ source: #index
 ## Amino Acids
 * [[KBhBIO101AminoAcids]]
 
-
 # Semester 2
 - [[KBhBIO101Day1]]
-- [[KBhBIO101Mutations]]
-- [[KBxGeneticVariationMA]]
+- [[KBhBIO101MutationsAllealsInheritance]]
 
 ## Quiz Review Document
 * 10092020 [[KBhBIO101BioMoleculesQuizReview]]
 * 11302020 [[KBhBIO101CentralDogmaQuizReview]]
-
+* 04262021 [[KBhBIO101MutationInheritanceQuizReview]]

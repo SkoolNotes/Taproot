@@ -121,7 +121,7 @@
 
 
 \newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Cell Reproduction }
+\newcommand{\thelesson}{ Mutation and Inheritance Quiz Review }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -185,43 +185,136 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBhBIO101CellCycle}{\tiny\textulf{[[}\textbf{KBhBIO101CellCycle}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{cell-reproduction}{%
-\section{Cell Reproduction}\label{cell-reproduction}}
+\hypertarget{mutation-and-inheritance}{%
+\section{Mutation and Inheritance}\label{mutation-and-inheritance}}
 
-\textbf{How Cells Make New Cells}
+\hypertarget{cell-division-cell-cycle-its-regulation}{%
+\subsection{Cell Division, Cell Cycle \& It's
+Regulation}\label{cell-division-cell-cycle-its-regulation}}
 
-=\textgreater{} Cell division is used as a process for asexual
-production, and growth \& development + tissue renewal.
+\begin{itemize}
+\item
+  Each cell lives and reproduced on a cycle; unsurprisingly, this is
+  called the {[}{[}KBhBIO101CellCycle{]}{]}!
+\item
+  At the end of the cell cycle, a little bit of a thing happens where
+  the cell replicates (or makes offsprings, so not necessarily exact
+  copies of) itself. This bit of a thing's called
+  {[}{[}KBhBIO101CellReproduction{]}{]}.
 
-At some point, stuff ends up in different positions and that causes the
-specialization of cells. (Outside cells become skin cells, etc.)
+  \begin{itemize}
+  \tightlist
+  \item
+    This reproduction process uses one of either
+    {[}{[}KBhBIO101Mitosis{]}{]} (exact copy, for somatic cells (not
+    sperm/egg) only) or
+  \item
+    :{[}{[}KBhBIO101Meiosis{]}{]} (half, randomly-mixed genetic info,
+    for gametes (sperm/egg) only).
+  \end{itemize}
+\item
+  The purpose and activities of each cell cycle phase
+\item
+  The importance of cell cycle checkpoints
+\item
+  The types and functions of cell cycle regulators
+\item
+  The organization of the human genome:
 
-\textbf{Most cell division results in genetically identical daughter
-cell.} Importantly, \emph{most}: meaning that there is a critical
-difference between {[}{[}KBhBIO101Meiosis{]}{]} and
-{[}{[}KBhBIO101Mitosis{]}{]}.
+  \begin{itemize}
+  \tightlist
+  \item
+    The idea that genes and regulatory sequences are located on
+    chromosomes
+  \item
+    The number of unique human chromosomes and how many chromosomes are
+    in each somatic cell or gamete.
+  \item
+    The concept of alleles: what they are, their relation to genes and
+    traits
+  \end{itemize}
+\item
+  The types of reproduction and how they relate to genetic variation
 
-\hypertarget{mitosis}{%
-\subsection{Mitosis}\label{mitosis}}
+  \begin{itemize}
+  \tightlist
+  \item
+    Asexual
+  \item
+    Sexual
 
-What you think of as ``cell division''. It takes somatic cells ---
-``normal'' cells (not sperm/egg cells) --- and makes two somatic cells
-with the same DNA; essentially cloning the somatic cell. Basically, all
-cells divide this way \emph{except} for reproductive cells. For more,
-see {[}{[}KBhBIO101Mitosis{]}{]}.
+    \begin{itemize}
+    \tightlist
+    \item
+      Difference between germline and somatic cells and how this relates
+      to reproduction
+    \end{itemize}
+  \end{itemize}
+\item
+  The causes and consequences of mutations
 
-\hypertarget{meiosis}{%
-\subsection{Meiosis}\label{meiosis}}
+  \begin{itemize}
+  \tightlist
+  \item
+    How different kinds of damage or mistakes can lead to mutation
+  \item
+    Different types of mutations at various scales, and how those could
+    potentially impact proteins
+  \item
+    The connection between mutations and variations in traits/phenotypes
+  \end{itemize}
+\item
+  Meiosis as the mechanism that enables sexual reproduction and
+  increases genetic variation in sexually reproducing organisms
 
-Meiosis is the process by which gametes (``sperm and egg cells'')
-becomes \emph{created}. NOTE! Not the word ``divided'', because gametes
-comes from the division of germline cells. Unlike mitosis, the 23
-\textbf{pairs} of chromosome in the germline cells gets randomly mixed
-(see link for details) and result in two somatic cells with 23
-chromosomes each. Why? When the sperm and egg connect together, they
-pair up and result back into 23 chromosome pairs for the child's gamete
-cells. See {[}{[}KBhBIO101Meiosis{]}{]}.
+  \begin{itemize}
+  \tightlist
+  \item
+    The purpose and activities of meiosis I and meiosis II, esp:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Crossing over
+    \item
+      Independent assortment
+    \item
+      diploid→ haploid chromosome reduction
+    \end{itemize}
+  \item
+    How meiosis differs from mitosis
+  \item
+    Mechanisms for genetic variation in offspring as compared to asexual
+    reproduction
+  \end{itemize}
+\item
+  Genetics and inheritance
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Connecting sequence variation at the DNA level to protein function
+  \item
+    Connecting protein function to expressed traits in organisms
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Given an individual with two particular alleles of a gene, what
+      trait would you expect to see.
+    \end{itemize}
+  \item
+    Connecting protein function and traits to inheritance patterns:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Given parents with particular alleles of genes, what would you
+      expect in their offspring and why.
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
 
 \end{document}

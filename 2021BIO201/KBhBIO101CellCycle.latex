@@ -14,6 +14,7 @@
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
+\usepackage{setspace}
 
 \usepackage{graphicx}
 \usepackage{xesearch}
@@ -21,6 +22,7 @@
 
 \usepackage{lastpage}
 
+\usepackage{physics}
 \usepackage{siunitx}
 \sisetup{per-mode=symbol}
 
@@ -89,14 +91,6 @@
   ItalicFont     = HelveticaNeue-LightItalic,
   BoldFont       = HelveticaNeue-UltraLight,
   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
-% \setmainfont[
-%    ItalicFont     = Iosevka-Aile-Italic,
-%    BoldFont       = Iosevka-Aile-Bold,
-%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
-% \newfontfamily\NHLight[
-%    ItalicFont     = Iosevka-Aile-Light-Italic,
-%    BoldFont       = Iosevka-Aile-Light,
-%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -140,14 +134,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10515)}}    % original
-%\rhead{\textrmlf{Compiled }\#10515\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11886)}}    % original
+%\rhead{\textrmlf{Compiled }\#11886\textrmlf{ on} \today }      % old date
 \rhead{
-    \textrmlf{Compiled }
-  \#10515
-  \textrmlf{ on}
-      \today
-  }       % new date
+    \today
+    }       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
@@ -447,6 +438,11 @@ nutritional state of the cell
 of cycling binding to it and the meeting of checkpoint.
 
 \textbf{Negative Regulators} hold the cell cycle back due to a response
-to a checkpoint or an environmental factor ~
+to a checkpoint or an environmental factor
+
+\hypertarget{how-about-meiosis}{%
+\subsection{How about Meiosis?}\label{how-about-meiosis}}
+
+{[}{[}KBhBIO101Meiosis{]}{]} ~
 
 \end{document}
