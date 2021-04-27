@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11994)}}    % original
-%\rhead{\textrmlf{Compiled }\#11994\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11995)}}    % original
+%\rhead{\textrmlf{Compiled }\#11995\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -201,8 +201,10 @@ Suppose \(u, v \in V\) and \(\lVert u \rVert \leq  1\) and
 We will prove this by showing that the left hand side is less than or
 equal to an intermediate term, which is less than or equal to the right
 hand side. \[\begin{aligned}
-  & \lvert \langle u, v \rangle \rvert \leq \lVert u \rVert \lVert v \rVert
-  \implies &
+  & \lvert \langle u, v \rangle \rvert \leq \lVert u \rVert \lVert v \rVert\\
+  \implies & 1- \lvert \langle u, v \rangle \rvert \geq 1- \lVert u \rVert \lVert v \rVert
   \end{aligned}\]
+
+Now, the proble
 
 \end{document}
