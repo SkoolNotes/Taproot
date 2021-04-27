@@ -21,7 +21,7 @@ The purpose of meiosis 1 is to take the 23 _pairs_ of 2-chromatid chomasomes in 
 ![Pasted image 20210426220455.png](./Pasted image 20210426220455.png)
 
 ## Meiosis 2
-The 23 2-chromatid Chromasomes becomes seperated into two more cells each with 23 1-chromatids. This is more similar to a good-ol [[meitos]]
+The 23 2-chromatid Chromasomes becomes seperated into two more cells each with 23 1-chromatids. This is more similar to a good-ol [[KBhBIO101Mitosis]].
 
 - **(P)rophase 2**: new spindles form, again! and the new haploids' nuclear envelope will start dissoving
-- **(P)
+- **(
