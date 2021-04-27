@@ -33,5 +33,5 @@
 * $\int_{1}^{e} \sin  \ln  x dx$
 
   \[\begin{aligned}
-  \int_{1}^{e} \sin  \ln  x dx &=
+  \int_{1}^{e} \sin  \ln  x dx &= x \sin  \ln  x - \int x \frac{1}{x} \cos \ln x dx\\
   \end{aligned}\]
