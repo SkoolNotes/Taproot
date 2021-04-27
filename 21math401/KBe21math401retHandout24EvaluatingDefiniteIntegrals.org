@@ -6,8 +6,9 @@
   &= -e^{\frac{1}{2}} + e^{\frac{1}{1}}\\
   &= e-e^{\frac{1}{2}}\\
   \end{aligned}\]
-* $\int_{0}^{1} r e^{\frac{r}{2}} dx$
+* $\int_{0}^{1} r e^{\frac{r}{2}} dr$
 
   \[\begin{aligned}
   \int_{0}^{1} r e^{\frac{r}{2}} dx &\implies r\int e^{\frac{r}{2}} dx\\
+  &= r \frac{2}{r} e^{\frac{r}{2}}
   \end{aligned}\]

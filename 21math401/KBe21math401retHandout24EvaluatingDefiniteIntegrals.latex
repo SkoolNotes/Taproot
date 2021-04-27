@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11931)}}    % original
-%\rhead{\textrmlf{Compiled }\#11931\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11932)}}    % original
+%\rhead{\textrmlf{Compiled }\#11932\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -194,11 +194,12 @@
   &= e-e^{\frac{1}{2}}\\
   \end{aligned}\]
 
-\hypertarget{int_01-r-efracr2-dx}{%
-\section{\texorpdfstring{\(\int_{0}^{1} r e^{\frac{r}{2}} dx\)}{\textbackslash int\_\{0\}\^{}\{1\} r e\^{}\{\textbackslash frac\{r\}\{2\}\} dx}}\label{int_01-r-efracr2-dx}}
+\hypertarget{int_01-r-efracr2-dr}{%
+\section{\texorpdfstring{\(\int_{0}^{1} r e^{\frac{r}{2}} dr\)}{\textbackslash int\_\{0\}\^{}\{1\} r e\^{}\{\textbackslash frac\{r\}\{2\}\} dr}}\label{int_01-r-efracr2-dr}}
 
 \[\begin{aligned}
   \int_{0}^{1} r e^{\frac{r}{2}} dx &\implies r\int e^{\frac{r}{2}} dx\\
+  &= r \frac{2}{r} e^{\frac{r}{2}}
   \end{aligned}\]
 
 \end{document}
