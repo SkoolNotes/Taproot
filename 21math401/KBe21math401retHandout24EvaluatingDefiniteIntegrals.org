@@ -22,6 +22,12 @@
 
 * TODO $\int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx$
 
+  \[\begin{aligned}
+  \int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx &= x \cos \sqrt{x} -\int x \frac{1}{2\sqrt{x}} \sin \sqrt{x} dx\\
+  &= x \cos \sqrt{x} -\int \sqrt{x} \frac{1}{2} \sin \sqrt{x} dx\\
+  \end{aligned}\]
+
+
 * $\int_{1}^{e} \sin  \ln  x dx$
 
   \[\begin{aligned}

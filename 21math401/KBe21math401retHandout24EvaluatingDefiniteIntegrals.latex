@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11960)}}    % original
-%\rhead{\textrmlf{Compiled }\#11960\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11961)}}    % original
+%\rhead{\textrmlf{Compiled }\#11961\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -213,6 +213,11 @@
 \hypertarget{int_0sqrtpi-cos-sqrtx-dx}{%
 \section{\texorpdfstring{{TODO}
 \(\int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx\)}{TODO \textbackslash int\_\{0\}\^{}\{\textbackslash sqrt\{\textbackslash pi\}\} \textbackslash cos \textbackslash sqrt\{x\} dx}}\label{int_0sqrtpi-cos-sqrtx-dx}}
+
+\[\begin{aligned}
+  \int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx &= x \cos \sqrt{x} -\int x \frac{1}{2\sqrt{x}} \sin \sqrt{x} dx\\
+  &= x \cos \sqrt{x} -\int \sqrt{x} \frac{1}{2} \sin \sqrt{x} dx\\
+  \end{aligned}\]
 
 \hypertarget{int_1e-sin-ln-x-dx}{%
 \section{\texorpdfstring{\(\int_{1}^{e} \sin  \ln  x dx\)}{\textbackslash int\_\{1\}\^{}\{e\} \textbackslash sin  \textbackslash ln  x dx}}\label{int_1e-sin-ln-x-dx}}
