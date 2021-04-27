@@ -12,13 +12,13 @@
 ** Useful Lemma
    #+begin_quote
    \[\begin{aligned}
-   2 \lVert u \rVert \lVert v \rVert \leq \lVert u \rVert ^2 + \lVert v \rVert ^2
+   \lVert u \rVert ^2 + \lVert v \rVert ^2 \geq 2 \lVert u \rVert \lVert v \rVert
    \end{aligned}\]
    #+end_quote
 
+  [[file:KBe21math530srcAxler6A9Supplement.png]]
 
-
-** Cauchy-Schwarz Result
+** Cauchy-Schwarz Corollary
   \[\begin{aligned}
   \lvert \langle u, v \rangle \rvert &\leq \lVert u \rVert \lVert v \rVert\\
   1- \lVert u \rVert \lVert v \rVert &\leq 1- \lvert \langle u, v \rangle \rvert
