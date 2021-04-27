@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12006)}}    % original
-%\rhead{\textrmlf{Compiled }\#12006\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12033)}}    % original
+%\rhead{\textrmlf{Compiled }\#12033\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -212,6 +212,7 @@ to the square of the right hand side,
 
 \[\begin{aligned}
   =& (1-\lVert u \rVert ^2)(1- \lVert v \rVert ^2)\\
+  =& 1-\lVert u \rVert ^2 - \lVert v \rVert ^2 + \lVert u \rVert ^2 \lVert v \rVert ^2\\
   =& 1-\lVert u \rVert ^2 - \lVert v \rVert ^2 + \lVert u \rVert ^2 \lVert v \rVert ^2\\
   =& 1-\lVert u \rVert ^2 - \lVert v \rVert ^2 + \lVert u \rVert ^2 \lVert v \rVert ^2\\
   =& 1 - 2\lVert u \rVert \lVert v \rVert + \lVert u \rVert ^2 \lVert v \rVert ^2
