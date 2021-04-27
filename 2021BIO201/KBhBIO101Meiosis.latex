@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11897)}}    % original
-%\rhead{\textrmlf{Compiled }\#11897\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11898)}}    % original
+%\rhead{\textrmlf{Compiled }\#11898\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -237,5 +237,11 @@ only one set of genes).
 
 The 23 2-chromatid Chromasomes becomes seperated into two more cells
 each with 23 1-chromatids.
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{(P)rophase 1}:
+\end{itemize}
 
 \end{document}
