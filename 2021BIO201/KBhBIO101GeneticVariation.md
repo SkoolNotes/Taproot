@@ -21,5 +21,5 @@ During M1 and M2, which chromasomes/chromatids end up on which of the four daugh
 Hence, this random combination of cells then create more variation in how the genetic material of the grandparents are distributed amoungst the daughter cells.
 
 ## Also, Mutations
-Cells could also just decide to mutate their DNAs. 
+Cells could also just decide to mutate their DNAs. Which is rather random but does introduce genetic variation. So [[KBhBIO101Mutations]]
 

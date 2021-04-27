@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11920)}}    % original
-%\rhead{\textrmlf{Compiled }\#11920\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11921)}}    % original
+%\rhead{\textrmlf{Compiled }\#11921\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -221,6 +221,8 @@ the daughter cells.
 \hypertarget{also-mutations}{%
 \subsection{Also, Mutations}\label{also-mutations}}
 
-Cells could also just decide to mutate their DNAs.
+Cells could also just decide to mutate their DNAs. Which is rather
+random but does introduce genetic variation. So
+{[}{[}KBhBIO101Mutations{]}{]}
 
 \end{document}
