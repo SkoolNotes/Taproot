@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12030)}}    % original
-%\rhead{\textrmlf{Compiled }\#12030\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12031)}}    % original
+%\rhead{\textrmlf{Compiled }\#12031\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -384,6 +384,8 @@ them are absurd; some of them seem absurd, and are genius!
   \item
     exothermic, of course
   \item
+    equilibrium const:
+    \({\displaystyle K_{eq}={\frac {p^{2}\mathrm {(NH_{3})} }{p\mathrm {(N_{2})} \cdot p^{3}\mathrm {(H_{2})} }}}\)
   \end{itemize}
 \end{itemize}
 
