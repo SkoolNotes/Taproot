@@ -56,9 +56,9 @@ them are absurd; some of them seem absurd, and are genius!
 		 - mainly industrial processes
 	- wrote a book, `Experimental Investigations on the Decomposition and Combustion of Hydrocarbons`
 	- also wrote: `The Theoretical Basis of Technical Electrochemistry`
-	- worked on nitrobenzeins, the hydrogen oxygen fuel cell, and the glass electrode, then wrote
-	- `“The Electrolytic Processes of Organic Chemistry`
-	
+	- worked on nitrobenzeins, the hydrogen oxygen fuel cell, and the glass electrode, then wrote `“The Electrolytic Processes of Organic Chemistry`
+	- got intrested in thermodynamics, wrote `The Thermodynamics of Technical Gas Reactions`
+	- 
 
 
 
