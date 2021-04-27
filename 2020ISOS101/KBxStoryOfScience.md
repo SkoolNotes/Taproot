@@ -60,6 +60,7 @@ them are absurd; some of them seem absurd, and are genius!
 	- got intrested in thermodynamics, wrote `The Thermodynamics of Technical Gas Reactions`
 	- then he worked on nitrogen fixation! got a nobel for it
 - **WWI**
+	- entirely devoted research and resources to germany during wartime preparation 
 	- 
 
 
