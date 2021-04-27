@@ -59,6 +59,8 @@ them are absurd; some of them seem absurd, and are genius!
 	- worked on nitrobenzeins, the hydrogen oxygen fuel cell, and the glass electrode, then wrote `“The Electrolytic Processes of Organic Chemistry`
 	- got intrested in thermodynamics, wrote `The Thermodynamics of Technical Gas Reactions`
 	- then he worked on nitrogen fixation! got a nobel for it
+- **WWI**
+	- 
 
 
 
