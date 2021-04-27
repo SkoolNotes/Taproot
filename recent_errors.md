@@ -1,6 +1,2 @@
-        Log for attempt at Tue Apr 27 01:57:58 PM PDT 2021 (12031)
-        Tue Apr 27 01:57:58 PM PDT 2021 Converting 2020ISOS101/KBxStoryOfScience.md...
-Error producing PDF.
-! Undefined control sequence.
-l.219   \({\displaystyle {\ce
-
+        Log for attempt at Tue Apr 27 03:29:44 PM PDT 2021 (12032)
+        Tue Apr 27 03:29:44 PM PDT 2021 Converting 2020BIO101/KBhBIO101MutationsAllealsInheritance.md...

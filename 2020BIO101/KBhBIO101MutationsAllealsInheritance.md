@@ -19,8 +19,7 @@ So if a mutation replaces adenine and guanine, it would has less of an effect be
 
 ***
 
-Lot's of things cause mutations!
-
+Lot's of things cause mutations! 
 ![](Pasted%20image%2020210423132309.png)
 
 ***
