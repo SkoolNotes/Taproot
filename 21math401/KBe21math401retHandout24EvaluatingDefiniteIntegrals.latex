@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11964)}}    % original
-%\rhead{\textrmlf{Compiled }\#11964\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11965)}}    % original
+%\rhead{\textrmlf{Compiled }\#11965\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -218,7 +218,8 @@
   \int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx &= x \cos \sqrt{x} +\int x \frac{1}{2\sqrt{x}} \sin \sqrt{x} dx\\
   &= x \cos \sqrt{x} +\int \frac{\sqrt{x}}{2} \sin \sqrt{x} dx\\
   &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} \int \sin \sqrt{x} dx\\
-  &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} \left( x \sin \sqrt{x} - \int \cos \sqrt{x} dx \right) \\
+  &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} \left( x \sin \sqrt{x} - \int \frac{\sqrt{x}}{2} \cos \sqrt{x} dx \right) \\
+  &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} \left( x \sin \sqrt{x} - \frac{\sqrt{x}}{2} \int \cos \sqrt{x} dx \right) \\
   \end{aligned}\]
 
 \hypertarget{int_1e-sin-ln-x-dx}{%
