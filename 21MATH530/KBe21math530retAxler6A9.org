@@ -33,6 +33,6 @@
   =& 1-\lVert u \rVert ^2 - \lVert v \rVert ^2 + \lVert u \rVert ^2 \lVert v \rVert ^2\\
   =& 1- (\lVert u \rVert ^2 + \lVert v \rVert ^2 ) + \lVert u \rVert ^2 \lVert v \rVert ^2\\
   \leq & 1 - 2\lVert u \rVert \lVert v \rVert + \lVert u \rVert ^2 \lVert v \rVert ^2\\
-  =& (1-\lVert u \rVert \lVert v \rVert ) ^2
-  =& (1-\lVert u \rVert \lVert v \rVert ) ^2
+  =& (1-\lVert u \rVert \lVert v \rVert ) ^2\\
+  \leq& (1- \lvert \langle u, v \rangle \rvert ) ^2
   \end{aligned}\]
