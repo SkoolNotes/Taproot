@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12040)}}    % original
-%\rhead{\textrmlf{Compiled }\#12040\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12041)}}    % original
+%\rhead{\textrmlf{Compiled }\#12041\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -200,6 +200,12 @@ Suppose \(u, v \in V\) and \(\lVert u \rVert \leq  1\) and
 
 \hypertarget{useful-lemma}{%
 \subsection{Useful Lemma}\label{useful-lemma}}
+
+\begin{quote}
+\[\begin{aligned}
+2 \lVert u \rVert \lVert v \rVert \leq \lVert u \rVert ^2 + \lVert v \rVert ^2
+\end{aligned}\]
+\end{quote}
 
 \hypertarget{cauchy-schwarz-result}{%
 \subsection{Cauchy-Schwarz Result}\label{cauchy-schwarz-result}}
