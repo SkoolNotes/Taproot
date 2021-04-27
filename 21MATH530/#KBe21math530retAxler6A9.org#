@@ -1,0 +1,15 @@
+#+TITLE: Axler 6.A exercise 9
+* Axler 6.A exercise 9
+  #+begin_quote
+  Suppose $u, v \in V$ and $\lVert u \rVert \leq  1$ and $\lVert v \rVert \leq  1$. Prove that
+  \[\begin{aligned}
+  \sqrt{1-\lVert u\rVert^2}\sqrt{1-\lVert u \rVert ^2} \leq  1- | \langle u, v \rangle |
+  \end{aligned}\]
+
+  #+end_quote
+* Proof
+
+  We will prove this by showing that the left hand side is less than or equal to an intermediate term, which is less than or equal to the right hand side.
+  \[\begin{aligned}
+  =
+  \end{aligned}\]
