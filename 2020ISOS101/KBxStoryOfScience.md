@@ -64,7 +64,9 @@ them are absurd; some of them seem absurd, and are genius!
 	- nitrates could be used in explosives
 	- pioneered chemical warfare, chlorine gas, ect. 
 	- became Chief of Germany’s Chemical Warfare Service
-	- 
+	- **General**
+		- their was a period of high tension before ww1, eventually set off by the assination of franz ferdinand
+		- 
 
 
 
