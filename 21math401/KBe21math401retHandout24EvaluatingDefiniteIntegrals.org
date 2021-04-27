@@ -9,5 +9,5 @@
 * $\int_{0}^{1} r e^{\frac{r}{2}} dx$
 
   \[\begin{aligned}
-  \int_{0}^{1} r e^{\frac{r}{2}} dx &= \int  dx
+  \int_{0}^{1} r e^{\frac{r}{2}} dx &\implies r\int e^{\frac{r}{2}} dx\\
   \end{aligned}\]
