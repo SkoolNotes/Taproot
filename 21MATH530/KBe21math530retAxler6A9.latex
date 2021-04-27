@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11988)}}    % original
-%\rhead{\textrmlf{Compiled }\#11988\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11990)}}    % original
+%\rhead{\textrmlf{Compiled }\#11990\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -189,6 +189,10 @@
 \section{Axler 6.A exercise 9}\label{axler-6.a-exercise-9-1}}
 
 \begin{quote}
+Suppose \(u, v \in V\) and \(\lVert u \rVert \leq  1\) and
+\(\lVert v \rVert \leq  1\). Prove that \[\begin{aligned}
+\sqrt{1-\lVert u\rVert^2}\sqrt{1-\lVert u \rVert ^2}
+\end{aligned}\]
 \end{quote}
 
 \hypertarget{proof}{%
