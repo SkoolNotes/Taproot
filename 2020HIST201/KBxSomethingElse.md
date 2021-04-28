@@ -45,5 +45,5 @@ Our mission is to offer loans at competitive rates so that everyone can afford a
 
 
 technology
-With 20+ years of experience in the financial industry. By applying a combination of technology and a personal touch, we set ourselves apart from the competition.
+With 20+ years of experience in the financial industry and by applying a combination of technology and a personal touch, we set ourselves apart from the competition.
 
