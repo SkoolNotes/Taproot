@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12118)}}    % original
-%\rhead{\textrmlf{Compiled }\#12118\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12121)}}    % original
+%\rhead{\textrmlf{Compiled }\#12121\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -280,5 +280,11 @@ Reduction of a protein's ability to function
 location/time
 
 \textbf{Neutral function} Does nothing :(
+
+\hypertarget{protein-pathways}{%
+\subsection{Protein Pathways}\label{protein-pathways}}
+
+Most DNA/proteins trigger in a pathway --- in that they don't just
+influence themselves, but instea
 
 \end{document}

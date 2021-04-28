@@ -58,3 +58,6 @@ Mutations does one of two things, which are both pretty obvious: they either cau
 
 **Neutral function**
 Does nothing :(
+
+## Protein Pathways
+Most DNA/proteins trigger in a pathway — in that they don't just influence themselves, but instea
