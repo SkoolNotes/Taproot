@@ -84,10 +84,10 @@ For their child to be male, the man has to pass down his Y, leaving options:
 
 xY, XY.
 
-50% chance of having hemopliliaj
+Thus, their is a 50% chance of having hemophilia.
 
 
-
+## 3
 
 
 	
