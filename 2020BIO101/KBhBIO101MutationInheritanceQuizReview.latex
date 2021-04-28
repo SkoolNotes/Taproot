@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12133)}}    % original
-%\rhead{\textrmlf{Compiled }\#12133\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12134)}}    % original
+%\rhead{\textrmlf{Compiled }\#12134\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -244,28 +244,7 @@ which one expressed?)? Well, find out at
 {[}{[}KBhBIO101Inheritance{]}{]}.
 
 Specifically, the mixture of a ``heterozygous'' alleals (different genes
-from mother and father) will be determined by {[}{[}geneinher{]}{]}
-
-\begin{itemize}
-\tightlist
-\item
-  Connecting protein function to expressed traits in organisms
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Given an individual with two particular alleles of a gene, what
-    trait would you expect to see.
-  \end{itemize}
-\item
-  Connecting protein function and traits to inheritance patterns:
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Given parents with particular alleles of genes, what would you
-    expect in their offspring and why.
-  \end{itemize}
-\end{itemize}
+from mother and father) will be determined by
+{[}{[}KBhBIO101GeneticInheritance{]}{]}.
 
 \end{document}
