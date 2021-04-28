@@ -14,6 +14,20 @@ The three main parts are:
 - **Mitosis** — Separation of the duplicated chromosomes
 - **Cytokinesis** — the splitting of the cell itself. Really part of mitosis
 
+## Features of the Cell Cycle
+
+***Most* cell division results in genetically identical daughter cell**
+
+Each cell, once specialised, chooses what parts of their chromasome to unwrap + permanently wrap.
+
+Difference in transcription results in different phenotypes.
+
+Sperm + Egg (imcomplete cells) combine together to form a "zygote" => a single cell. Each person is from a zygote.
+
+[Paul's Cell Cycle Primer](https://docs.google.com/document/d/1TIrgR9VSV3attTK_QP-AOCs33mMoBP0Cz7DQXysKoD0/edit)
+
+![Screen Shot 2020-11-09 at 3.16.12 PM.png](Screen Shot 2020-11-09 at 3.16.12 PM.png)
+
 ## The Phrases
 ### G1 => Rest Phase, Gap 1
 This is the phase which is the "daily life of a cell". There are two major checkpoints in this phase which, upon it is reached, sets the rest of the cell cycle into motion.
@@ -39,24 +53,12 @@ Mitosis is the process by which non-sex (somatic) cells actually divide. It cons
 ### M => Meiosis!
 Mitosis is the process by which sex cells (gametes) divide. It consists of four parts — prophase, metaphase, anaphase, telophase — and cytokinesis but TWICE!  This process also has clever mechanisms to ensure genetic diversity. See yourself: [[KBhBIO101Meiosis]]
 
-## Features of the Cell Cycle
-
-***Most* cell division results in genetically identical daughter cell**
-
-Each cell, once specialised, chooses what parts of their chromasome to unwrap + permanently wrap.
-
-Difference in transcription results in different phenotypes.
-
-Sperm + Egg (imcomplete cells) combine together to form a "zygote" => a single cell. Each person is from a zygote.
-
-[Paul's Cell Cycle Primer](https://docs.google.com/document/d/1TIrgR9VSV3attTK_QP-AOCs33mMoBP0Cz7DQXysKoD0/edit)
-
-![Screen Shot 2020-11-09 at 3.16.12 PM.png](Screen Shot 2020-11-09 at 3.16.12 PM.png)
-
 ## Cell cycle regulation
 Purpose of regulation: **Cells must meet certain conditions before moving onto the next phase.**
 
 Cell regulators are proteins that manage and sheperard the process of cell division. They respond to molecular signals throughout the cell and check for internal signals like DNA damage to control the rate and progress of cell division.
+
+See [[KBhBIO101CellCycleRegulation]]
 
 The Problem: **Cells need to know whence to divide itself.**
 
