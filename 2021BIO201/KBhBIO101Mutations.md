@@ -6,7 +6,7 @@ author: Houjun Liu
 ---
 
 # Mutations
-Mutations are one way by which totally random, not controlled for, and fully spont
+Mutations are one way by which totally random, not controlled for, and fully spontaneous genetic modifications happen to literally anywhere in any cell's DNA during [[KBhBIO101CellReproduction]]. Specifically, it involves an environmental factor or the sheer entropy of things to directly, or indirectly (by causing a )
 
 you are probably looking for [[KBhBIO101MutationsAllealsInheritance]]. 
 
