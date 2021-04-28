@@ -24,7 +24,7 @@ DNA's sequence could vary by itself, and that will cause a [[KBhBIO101Mutations]
 
 Organisms have different traits, and through [[KBhBIO101Meiosis]] these traits are mixed. But!  which one of these traits are expressed (dad passed blue-eye, mom passed red-eye, which one expressed?)?  Well, find out at [[KBhBIO101Inheritance]].
 
-Specifically, the mixture of a "heterozygous" of 
+Specifically, the mixture of a "heterozygous" alleals (different genes from mother and father) will be determined by [[geneinher]]
 
 -   Connecting protein function to expressed traits in organisms
 	-   Given an individual with two particular alleles of a gene, what trait would you expect to see.

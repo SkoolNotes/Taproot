@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12132)}}    % original
-%\rhead{\textrmlf{Compiled }\#12132\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12133)}}    % original
+%\rhead{\textrmlf{Compiled }\#12133\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -243,7 +243,8 @@ these traits are expressed (dad passed blue-eye, mom passed red-eye,
 which one expressed?)? Well, find out at
 {[}{[}KBhBIO101Inheritance{]}{]}.
 
-Specifically, the mixture of a ``heterozygous'' of
+Specifically, the mixture of a ``heterozygous'' alleals (different genes
+from mother and father) will be determined by {[}{[}geneinher{]}{]}
 
 \begin{itemize}
 \tightlist
