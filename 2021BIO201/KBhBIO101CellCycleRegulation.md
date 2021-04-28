@@ -23,7 +23,7 @@ There are two main types of regulators:
 
 **Negative Regulators** hold the cell cycle back due to a response to a checkpoint or an environmental factor
 
-**Here are some common checkpoints**
+Here are some common checkpoints:
 
 * **G1/S Checkpoint** (After S) — external factors and growth factors (nutrients, raw material, DNA damage) , along with measurements of the volume, shape of the cell and the duplicated DNA, ensure that the pre-G2 cell is intact and healthy before moving onto G2
 * **Inter s-checkpoint** (During S) — during S, check for DNA damage.
@@ -31,4 +31,3 @@ There are two main types of regulators:
 * **Spindle Checkpoint** — checking for the attachment of all kineticores to the spindles such that all the chromasomes could be correctly lined up and seperated later
 
 Growth Factors that the cells measure: the 1) Size of the cell 2) the nutritional state of the cell
-
