@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12185)}}    % original
-%\rhead{\textrmlf{Compiled }\#12185\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12186)}}    % original
+%\rhead{\textrmlf{Compiled }\#12186\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -321,5 +321,12 @@ hemophilia-associated allele.
 
 Meiosis produces haploid cells with only 23 singular 2-chromatid
 chromosomes. Thus, only half would have the mutant x chromosome.
+
+\hypertarget{c}{%
+\subparagraph{C}\label{c}}
+
+woman: xX, man: XY
+
+For their child to be male, the man has to pass down his Y, leaving
 
 \end{document}

@@ -78,7 +78,9 @@ Somatic cells, carrying 23 pairs of chromosomes, have all the genetic informatio
 Meiosis produces haploid cells with only 23 singular 2-chromatid chromosomes. Thus, only half would have the mutant x chromosome.
 	
 ##### C
+woman: xX, man: XY
 
+For their child to be male, the man has to pass down his Y, leaving 
 
 
 
