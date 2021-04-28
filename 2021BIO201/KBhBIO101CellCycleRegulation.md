@@ -9,8 +9,9 @@ course: BIO101
 The Problem: **Cells need to know whence to divide itself.**
 
 ## Cell Cycle Regulators
+**Drivers**
 
-Drivers tell cells when to divide. The processes that move a cell forward through its life are called "drivers".
+=> Drivers tell cells when to divide. The processes that move a cell forward through its life are called "drivers".
 
 * Drivers consists of two parts: a switch + a cyclin
 	* a "switch" turns on a "cyclin" protein
