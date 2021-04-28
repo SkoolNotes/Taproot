@@ -22,6 +22,8 @@ author: Houjun Liu
 
 DNA's sequence could vary by itself, and that will cause a [[KBhBIO101Mutations]], which is actually very rarely bad news bears and instead simply introduces genetic variation if not doing nothing at all.
 
+Organisms have different traits, and through [[KBhBIO101Meiosis]] these traits are mi
+
 -   Connecting protein function to expressed traits in organisms
 	-   Given an individual with two particular alleles of a gene, what trait would you expect to see.
 -   Connecting protein function and traits to inheritance patterns:
