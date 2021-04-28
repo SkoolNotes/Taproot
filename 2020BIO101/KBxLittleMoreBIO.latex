@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12166)}}    % original
-%\rhead{\textrmlf{Compiled }\#12166\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12167)}}    % original
+%\rhead{\textrmlf{Compiled }\#12167\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -259,12 +259,19 @@ pp, (p1p1) -\textgreater{} p pp, (p1p2) -\textgreater{} p Pp, (Pp1)
   \tightlist
   \item
     Given that ``classic PKU'' results from near complete loss of PAH
-    function, a 50\% loss
+    function, a 50\% loss would most likely be classified as ``mild
+    PKU''
   \end{enumerate}
 \item
   \textbf{A missense mutation that changes an amino acid in the PAH
   enzyme's active site, preventing any phenylalanine from binding
   there.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+  \end{enumerate}
 \item
   \textbf{A frameshift mutation very early in the coding sequence of the
   PAH gene.}

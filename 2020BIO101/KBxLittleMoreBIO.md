@@ -54,9 +54,10 @@ Pp, (Pp2) -> P
 ## 2	
 
 1. **A promoter mutation that reduces expression of PAH protein to 50% of normal levels.**
-	1. Given that "classic PKU" results from near complete loss of PAH function, a 50% loss
+	1. Given that "classic PKU" results from near complete loss of PAH function, a 50% loss would most likely be classified as "mild PKU"
 
 2. **A missense mutation that changes an amino acid in the PAH enzyme’s active site, preventing any phenylalanine from binding there.**
+	1. 
 
 3.  **A frameshift mutation very early in the coding sequence of the PAH gene.**
 
