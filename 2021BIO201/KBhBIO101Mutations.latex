@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12110)}}    % original
-%\rhead{\textrmlf{Compiled }\#12110\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12111)}}    % original
+%\rhead{\textrmlf{Compiled }\#12111\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -242,7 +242,8 @@ modified by its enviroment
 \textbf{Phenotype}: a collective subset of all the traits (``that looks
 different from wild type'') in an organism
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{and-now-an-example}{%
+\subsection{And now, an example}\label{and-now-an-example}}
 
 \includegraphics{Pasted image 20210423131153.png}
 

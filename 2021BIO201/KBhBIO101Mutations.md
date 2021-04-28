@@ -34,8 +34,7 @@ Thank you for coming to this assembly. You could leave now.
 
 **Phenotype**: a collective subset of all the traits ("that looks different from wild type") in an organism
 
-***
-
+## And now, an example
 ![](Pasted%20image%2020210423131153.png)
 
 Mutant hemoglobin could... 1) with one mutation, cause a slight change in the RBC but cause resistance to malaria 2) with two mutation, cause sickle-cell.
