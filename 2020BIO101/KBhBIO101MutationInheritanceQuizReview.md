@@ -20,7 +20,7 @@ author: Houjun Liu
 ## Genetics and Inheritance
 [[KBhBIO101GeneticVariation]] is like, really good. However, its woefully complicated and there are at least 3 ways I think of that it happens. 
 
-DNA's sequence could vary, and tha
+DNA's sequence could vary by itself, and that will cause a [[KBhBIO101Mutations]], which is actually very rarely bad news bears.
 
 
 -   Connecting sequence variation at the DNA level to protein function
