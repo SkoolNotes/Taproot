@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12157)}}    % original
-%\rhead{\textrmlf{Compiled }\#12157\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12159)}}    % original
+%\rhead{\textrmlf{Compiled }\#12159\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -225,13 +225,14 @@ that I, Huxley Marvit, have read this honor code and will abide by it.
   PKU
 
   \begin{enumerate}
-  \def\labelenumii{\alph{enumii}.}
+  \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
     m: pp, d: PP pP -\textgreater{} P
   \end{enumerate}
 
-  In any combination, their would not be two mutant PKU
+  In any combination, their would not be two mutant PAH alleles. Thus,
+  the child would have a 0\% chance of having the disorder.
 \end{enumerate}
 
 \end{document}
