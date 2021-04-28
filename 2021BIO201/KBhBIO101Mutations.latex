@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12121)}}    % original
-%\rhead{\textrmlf{Compiled }\#12121\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12122)}}    % original
+%\rhead{\textrmlf{Compiled }\#12122\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -284,7 +284,8 @@ location/time
 \hypertarget{protein-pathways}{%
 \subsection{Protein Pathways}\label{protein-pathways}}
 
-Most DNA/proteins trigger in a pathway --- in that they don't just
-influence themselves, but instea
+Most DNA/proteins trigger in a pathway --- in that an environment factor
+does not directly trigger a protein action; instead, a \emph{sequence}
+of actions happen
 
 \end{document}

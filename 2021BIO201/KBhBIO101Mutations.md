@@ -60,4 +60,4 @@ Mutations does one of two things, which are both pretty obvious: they either cau
 Does nothing :(
 
 ## Protein Pathways
-Most DNA/proteins trigger in a pathway — in that they don't just influence themselves, but instea
+Most DNA/proteins trigger in a pathway — in that an environment factor does not directly trigger a protein action; instead, a _sequence_ of actions from the surface down happen and mutation in any of that sequence of proteins may cause a difference in functio
