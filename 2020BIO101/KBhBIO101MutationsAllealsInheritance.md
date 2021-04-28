@@ -5,7 +5,7 @@ author: Houjun Liu
 course: BIO101
 ---
 
-Pssst.... There are literally three seperate things, although they are related in different
+Pssst.... There are literally three seperate things, although they are related in different places
 
 [[KBhBIO101Mutations]]
 
