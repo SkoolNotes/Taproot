@@ -14,7 +14,7 @@ The three main parts are
 - **Mitosis** — Separation of the duplicated chromosomes
 - **Cytokinesis** — the splitting of the cell itself. Really part of mitosis
 
-### G1 => Rest Phase, Gap 1
+## G1 => Rest Phase, Gap 1
 This is the phase which is the "daily life of a cell". There are two major checkpoints in this phase which, upon it is reached, sets the rest of the cell cycle into motion.
 
 - May hit s.a. to volume checkpoint => if ratio too big, the cell is too big
@@ -22,44 +22,16 @@ This is the phase which is the "daily life of a cell". There are two major check
 
 At this phase, the organelles in the cytoplasm also replicates in preparation for the S phase.
 	
-### S => S Phase, duplicate DNA. 150 mins
+## S => S Phase, duplicate DNA. 150 mins
 In this process, all of the DNA that is in the nucleus will be [[KBhBIO101DNAReplication]]ed in order to actually split the cell in half.
 
-### G2 => Rest Phrase, Gap 2. 
+## G2 => Rest Phrase, Gap 2. 
 The pairs of DNA begins bundling and condensing; the DNA is also checked upon and verified for consistency and dumped based the needs of the cell.
 
 At this point, the enzymes needed to assist Mitosis is also synthesized.
 
-### M => Mitosis!
+## M => Mitosis!
 Mitosis is the process by which the cell actually divide. It consists of four parts — prophase, metaphase, anaphase, telophase — and a final seperation called cytokenisis 
-
-**Prophase**
-
-The cytoskeleton of a cell disassembles, and the spindles to seperate the cell begins to form.
-
-The centrioles, the proteins connecting all the spindles, separate to opposite poles of the cell and establishes the bridge of all the microtubuels called the "spindle apparatus".
-
-Protein "joints" in the centromeres of chromasomes called kineticore attach to a spindle after the nuclar envelope erupts.
-
-**Metaphase**
-
-The microtubuals guide the proteins to align in the equator of the cell called the "metaphase plate".
-
-Organelles are also moved by being pulled by the motor proteins and their spindles.
-
-**Anaphase**
-The centromere's centre degrades, freeing the two halfs of the chromasomes.
-
-Kinetore senses tension, and when it is correct, molecules are sent down the microtubials to send a split signal. Yanked by their kineticores by the microtubuals, each copy of the chromatid moves towards one pole of the cell.
-
-**Telophase**
-A "cleavage furrow" forms in the centre of the cell created by actin on the circumference constricting. As this cleavage deepens (the actin constricting further), the chromasomes unravel whilst a new nuclear envelope forms.
-
-The spindle apparutus now disassembles; the microtubuals are broken down further into monomers that will eventually construct the exoskeleton of the new cells.
-
-**Cytokinesis**
-In animals... the cleavage furrow deepends even more and **extends** to the point where the two cells fully seperate.
-In plants... because there's no actin fibers to constrict the cell wall (it's too hard), vescles between the new cells form that pads out the twe newly-formed cells called the "cell plate." During cytokinesis, the cell plate widens to the point where two cells seperate.
 
 ## Features of the Cell Cycle
 
