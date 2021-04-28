@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12129)}}    % original
-%\rhead{\textrmlf{Compiled }\#12129\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12130)}}    % original
+%\rhead{\textrmlf{Compiled }\#12130\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -212,6 +212,10 @@ both A\&B are expressed.
 \item
   O =\textgreater{} OO
 \end{itemize}
+
+(psst\ldots{} this :point\_up: is a pundett square, just not in the
+square form because that's apparently ``too easy'' and ``does the work
+for you'').
 
 \textbf{O is the ``recessive'' trait: that anything like A or B will
 overtake the O enzyme}

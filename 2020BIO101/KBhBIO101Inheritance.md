@@ -17,6 +17,8 @@ One gene controlls the outcome: A&B genes create attachment to two different car
 - AB => AB
 - O => OO
 
+(psst... this :point_up: is a pundett square, just not in the square form because that's apparently "too easy" and "does the work for you").
+
 **O is the "recessive" trait: that anything like A or B will overtake the O enzyme**
 
 - AB+O => A, B, 50% split
