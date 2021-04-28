@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12107)}}    % original
-%\rhead{\textrmlf{Compiled }\#12107\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12108)}}    % original
+%\rhead{\textrmlf{Compiled }\#12108\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -209,7 +209,15 @@ like, so here goes a\ldots{}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-Pyrimides - cytosine + thymine. Single ring.
+\emph{\textbf{Special Programing!} How does DNA work?}
+
+There are two rought typos of codons on DNA, namely:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Pyrimides} - cytosine + thymine. Single ring.
+\end{itemize}
 
 These are usually paired up with
 
@@ -221,7 +229,7 @@ an adenine is replaced by thymine, we could have a bigger isuue because
 double-double ring is much longer than a traditional single/double
 match.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+Thank you for coming to assembly. You could leave now. ***
 
 Lot's of things cause mutations!
 \includegraphics{Pasted image 20210423132309.png}
