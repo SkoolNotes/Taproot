@@ -6,12 +6,13 @@ author: Houjun Liu
 ---
 
 # Mutations
-Mutations are one way by which totally random, not controlled for, and fully spontaneous genetic modifications happen to literally anywhere in any cell's DNA during [[KBhBIO101CellReproduction]]. Specifically, it involves an environmental factor or the sheer entropy of things to directly, or indirectly (by causing a )
-
-you are probably looking for [[KBhBIO101MutationsAllealsInheritance]]. 
-
+Mutations are one way by which totally random, not controlled for, and fully spontaneous genetic modifications happen to literally anywhere in any cell's DNA during [[KBhBIO101CellReproduction]]. Specifically, it involves an environmental factor or the sheer entropy of things to directly, or indirectly (by causing/creating a oopsie during [[KBhBIO101DNAReplication]]) _mutate_ the resulting supposed-to-be-exact copy of DNA.
 
 ![Pasted image 20210331134011.png](./Pasted image 20210331134011.png)
+
+To figure out how mutations work, you first need to know how DNA looks like, so here goes a...
+
+***
 
 Pyrimides - cytosine + thymine. Single ring.
 

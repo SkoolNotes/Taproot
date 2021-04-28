@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12106)}}    % original
-%\rhead{\textrmlf{Compiled }\#12106\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12107)}}    % original
+%\rhead{\textrmlf{Compiled }\#12107\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -194,16 +194,20 @@ Mutations are one way by which totally random, not controlled for, and
 fully spontaneous genetic modifications happen to literally anywhere in
 any cell's DNA during {[}{[}KBhBIO101CellReproduction{]}{]}.
 Specifically, it involves an environmental factor or the sheer entropy
-of things to directly, or indirectly (by causing a )
-
-you are probably looking for
-{[}{[}KBhBIO101MutationsAllealsInheritance{]}{]}.
+of things to directly, or indirectly (by causing/creating a oopsie
+during {[}{[}KBhBIO101DNAReplication{]}{]}) \emph{mutate} the resulting
+supposed-to-be-exact copy of DNA.
 
 \begin{figure}
 \centering
 \includegraphics{./Pasted image 20210331134011.png}
 \caption{Pasted image 20210331134011.png}
 \end{figure}
+
+To figure out how mutations work, you first need to know how DNA looks
+like, so here goes a\ldots{}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 Pyrimides - cytosine + thymine. Single ring.
 
