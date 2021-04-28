@@ -6,7 +6,7 @@ author: Houjun Liu
 ---
 
 # Mutations
-Mutations are one way by which totally random, not controlled fo
+Mutations are one way by which totally random, not controlled for, and fully spont
 
 you are probably looking for [[KBhBIO101MutationsAllealsInheritance]]. 
 
