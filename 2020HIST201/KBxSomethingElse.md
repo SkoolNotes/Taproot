@@ -41,12 +41,10 @@ freedom
 Easton Financial (“Easton”) is dedicated to help bring the freedom that comes with mobility to those who have been left behind. We’re focused on providing financing for Wheelchair Accessible Vehicles with the flexibility most banks aren’t built for. 
 
 accessability 
+Our mission is to offer loans at competitive rates so that everyone can afford a wheelchair accessible vehicle. We have our own pool of capital that we deploy to reach those who are overlooked by other lenders. 
 
 
 technology
-
-Our mission is to offer loans at competitive rates so that everyone can afford a wheelchair accessible vehicle.
-
-
+By applying a combination of technology and a personal touch, we set ourselves apart from the competition.
 
 
