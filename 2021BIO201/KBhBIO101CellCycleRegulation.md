@@ -13,9 +13,8 @@ The Problem: **Cells need to know whence to divide itself.**
 
 => Drivers tell cells when to divide. The processes that move a cell forward through its life are called "drivers".
 
-* Drivers consists of two parts: a switch + a cyclin
-	* a "switch" turns on a "cyclin" protein
-	* this cyclin protein actually drive cell forward
+Drivers consists of two parts: a switch + a cyclin. A "switch" turns on a "cyclin" protein this cyclin protein actually drive cell forward.
+
 * Checkpoints regulate drivers' actions
 	* Should the cells not meet the requirements of a checkpoint, its driver would be stopped; and/or 
 	* It will be called to self-destruct
