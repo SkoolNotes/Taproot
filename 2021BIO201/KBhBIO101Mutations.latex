@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12115)}}    % original
-%\rhead{\textrmlf{Compiled }\#12115\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12116)}}    % original
+%\rhead{\textrmlf{Compiled }\#12116\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -261,11 +261,13 @@ is not nocessarily a different RBC.
 
 There are many types/methods by which DNA mutate. These different types
 dictate when they happen ({[}{[}KBhBIO101Meiosis{]}{]} or
-{[}{[}KBhBIO101Mitosis{]}{]}?), how severe they are, and See\ldots{}
-{[}{[}KBhBIO101TypesOfMutations{]}{]}
+{[}{[}KBhBIO101Mitosis{]}{]}?), how severe they are, and also their
+frequency. See\ldots{} {[}{[}KBhBIO101TypesOfMutations{]}{]}
 
 \hypertarget{impacts-of-mutations}{%
 \subsection{Impacts of mutations}\label{impacts-of-mutations}}
+
+Mutations does one of two things, which are both pretty
 
 \textbf{Loss of function mutations}
 
@@ -274,7 +276,7 @@ dictate when they happen ({[}{[}KBhBIO101Meiosis{]}{]} or
 \item
   Complete loss of a proteins
 \item
-  Reduction of a protein's ability to function
+  Reduction of a protein's ability to functionobvioou
 \end{itemize}
 
 \textbf{Gain of function mutations}

@@ -42,16 +42,15 @@ Mutant hemoglobin could... 1) with one mutation, cause a slight change in the RB
 Remember that DNA codes for proteins, so mutations in DNA will cause different proteins BUT not necessarily different traits. In the case of 1-chromasome sickle-cell mutation, a protein is changed but the result is not nocessarily a different RBC.
 
 ## Types of Mutations
-There are many types/methods by which DNA mutate. These different types dictate when they happen ([[KBhBIO101Meiosis]] or [[KBhBIO101Mitosis]]?), how severe they are, and  See... [[KBhBIO101TypesOfMutations]]
-
-
+There are many types/methods by which DNA mutate. These different types dictate when they happen ([[KBhBIO101Meiosis]] or [[KBhBIO101Mitosis]]?), how severe they are, and also their frequency. See... [[KBhBIO101TypesOfMutations]]
 
 ## Impacts of mutations
+Mutations does one of two things, which are both pretty 
 
 **Loss of function mutations**
 
 - Complete loss of a proteins
-- Reduction of a protein's ability to function
+- Reduction of a protein's ability to functionobvioou
 
 **Gain of function mutations**
 
