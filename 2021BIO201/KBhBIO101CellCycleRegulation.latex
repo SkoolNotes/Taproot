@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12093)}}    % original
-%\rhead{\textrmlf{Compiled }\#12093\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12094)}}    % original
+%\rhead{\textrmlf{Compiled }\#12094\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -218,8 +218,7 @@ actions}\label{checkpoints-regulate-drivers-actions}}
   It will be called to self-destruct
 \end{itemize}
 
-\hypertarget{cell-cycle-checkpoints}{%
-\subsubsection{Cell-cycle checkpoints}\label{cell-cycle-checkpoints}}
+\textbf{Here are some common checkpoints}
 
 \begin{itemize}
 \tightlist

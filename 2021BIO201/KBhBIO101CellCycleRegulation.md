@@ -18,7 +18,8 @@ Drivers consists of two parts: a switch + a cyclin. A "switch" — informed by e
 * Should the cells not meet the requirements of a checkpoint, its driver would be stopped; and/or 
 * It will be called to self-destruct
 
-### Cell-cycle checkpoints
+**Here are some common checkpoints**
+
 * **G1/S Checkpoint** (After S) — external factors and growth factors (nutrients, raw material, DNA damage) , along with measurements of the volume, shape of the cell and the duplicated DNA, ensure that the pre-G2 cell is intact and healthy before moving onto G2
 * **Inter s-checkpoint** (During S) — during S, check for DNA damage.
 * **G2/M Checkpoint** (After G2) — before mitosis, check that the cell has correctly duplicated parts and tools needed for replication
