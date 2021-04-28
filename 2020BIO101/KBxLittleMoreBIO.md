@@ -60,7 +60,7 @@ Pp, (Pp2) -> P
 	1. This would completely inhibit PAH function, leading to "classic PKU"
 
 3.  **A frameshift mutation very early in the coding sequence of the PAH gene.**
-	1.  A frameshift mut
+	1.  A frameshift mutation early on would cause almost the entire sequence to be 
 
 4. **A missense mutation that changes an amino acid in an allosteric site (an enzyme site that is not directly involved in breaking down phenylalanine), leading to a 40% reduction in the rate of enzyme activity.**
     

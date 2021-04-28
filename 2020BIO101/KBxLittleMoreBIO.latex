@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12168)}}    % original
-%\rhead{\textrmlf{Compiled }\#12168\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12169)}}    % original
+%\rhead{\textrmlf{Compiled }\#12169\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -283,7 +283,8 @@ pp, (p1p1) -\textgreater{} p pp, (p1p2) -\textgreater{} p Pp, (Pp1)
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
-    A frameshift mut
+    A frameshift mutation early on would cause almost the entire
+    sequence to be
   \end{enumerate}
 \item
   \textbf{A missense mutation that changes an amino acid in an
