@@ -51,7 +51,6 @@ Pp, (Pp2) -> P
 	
 50% chance of having PKU disorder	
 	
-## 2	
 
 1. **A promoter mutation that reduces expression of PAH protein to 50% of normal levels.**
 	1. Given that "classic PKU" results from near complete loss of PAH function, a 50% loss would most likely be classified as "mild PKU"
