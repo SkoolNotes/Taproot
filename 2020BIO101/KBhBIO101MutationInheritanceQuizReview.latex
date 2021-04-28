@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11922)}}    % original
-%\rhead{\textrmlf{Compiled }\#11922\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12081)}}    % original
+%\rhead{\textrmlf{Compiled }\#12081\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -198,7 +198,13 @@ Regulation}\label{cell-division-cell-cycle-its-regulation}}
 \tightlist
 \item
   Each cell lives and reproduced on a cycle; unsurprisingly, this is
-  called the {[}{[}KBhBIO101CellCycle{]}{]}!
+  called the {[}{[}KBhBIO101CellLifecycle{]}{]}!
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These cell cycles create {[}{[}geneticvari{]}{]}
+  \end{itemize}
 \item
   At the end of the cell cycle, a little bit of a thing happens where
   the cell replicates (or makes offsprings, so not necessarily exact

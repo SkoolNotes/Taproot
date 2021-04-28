@@ -8,6 +8,7 @@ author: Houjun Liu
 # Mutation and Inheritance
 ## Cell Division, Cell Cycle & It's Regulation
 - Each cell lives and reproduced on a cycle; unsurprisingly, this is called the [[KBhBIO101CellLifecycle]]! 
+	- These cell cycles create [[geneticvari]]
 - At the end of the cell cycle, a little bit of a thing happens where the cell replicates (or makes offsprings, so not necessarily exact copies of) itself. This bit of a thing's called [[KBhBIO101CellReproduction]]. 
 	- This reproduction process uses one of either [[KBhBIO101Mitosis]] (exact copy, for somatic cells (not sperm/egg) only) or 
 	- [[KBhBIO101Meiosis]] (half, randomly-mixed genetic info, for gametes (sperm/egg) only).
