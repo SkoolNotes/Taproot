@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12111)}}    % original
-%\rhead{\textrmlf{Compiled }\#12111\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12112)}}    % original
+%\rhead{\textrmlf{Compiled }\#12112\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -256,64 +256,11 @@ different proteins BUT not necessarily different traits. In the case of
 1-chromasome sickle-cell mutation, a protein is changed but the result
 is not nocessarily a different RBC.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \hypertarget{types-of-mutations}{%
 \subsection{Types of Mutations}\label{types-of-mutations}}
 
-\hypertarget{by-place}{%
-\subsubsection{By Place}\label{by-place}}
-
-\textbf{Germline mutations} mutate the egg/cell causes no/local problems
-but pass the mutated gene down to the children fully
-
-\textbf{Somatic mutations} mutated somatic cell causes local mutations
-that does not influence much (cancer, but)
-
-\hypertarget{by-method}{%
-\subsubsection{By Method}\label{by-method}}
-
-\textbf{Point mutations}
-
-Change one codon on the gene and potentially cause something.
-
-\begin{itemize}
-\tightlist
-\item
-  Slient mutation: has no effect on protein
-\item
-  Missense: result in amino acid substitution
-\item
-  Nonsense: substitutes a stop codon for an amino acid
-\end{itemize}
-
-\textbf{Indel/Frameshift mutation}
-
-Shift by adding/substracting codons and shift the gene. Everything
-downstream to the point of mutation will be completely incorrect.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{mutations-in-other-places}{%
-\subsection{Mutations in other places}\label{mutations-in-other-places}}
-
-\textbf{Promoter/Enhancer mutation}: control the level of expression for
-genes, which could relate to cancer (over-activation) or a protein
-deficiency (lack of activation)
-
-\textbf{Splice donor and acceptor site mutation}: including extra intron
-or cutting out required exon
-
-\textbf{Ribosome binding sites}: prevents the ribosome from binding
-
-\hypertarget{large-scale-dna-changes}{%
-\subsection{Large scale DNA changes}\label{large-scale-dna-changes}}
-
-Taking whole chunks of DNA or swapping them; usually caused by your DNA
-wholly breaking (Radioactivity? Incorrectly functioning enzymes?) and
-then your repair machinary stitching it up wrongly.
-
-\includegraphics{Pasted image 20210423135639.png}
+There are many types/methods by which DNA mutate. See\ldots{}
+{[}{[}KBhBIO101TypesOfMutations{]}{]}
 
 \hypertarget{impacts-of-mutations}{%
 \subsection{Impacts of mutations}\label{impacts-of-mutations}}
