@@ -35,4 +35,5 @@ I, Huxley Marvit, affirm that I will only utilize the internet during this asses
 
 1. PKU
 	a. 
-	
+	m: pp, d: PP
+	pP -> P

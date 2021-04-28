@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12155)}}    % original
-%\rhead{\textrmlf{Compiled }\#12155\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12156)}}    % original
+%\rhead{\textrmlf{Compiled }\#12156\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -228,6 +228,7 @@ that I, Huxley Marvit, have read this honor code and will abide by it.
   \def\labelenumii{\alph{enumii}.}
   \tightlist
   \item
+    m: pp, d: PP pP -\textgreater{} P
   \end{enumerate}
 \end{enumerate}
 
