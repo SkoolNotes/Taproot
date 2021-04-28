@@ -38,7 +38,6 @@ Support and service bundles that help you manage and improve your Gatsby sites a
 
 freedom 
 
-flexibility
 
 
 
