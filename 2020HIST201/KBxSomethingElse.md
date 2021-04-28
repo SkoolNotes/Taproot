@@ -38,6 +38,7 @@ Support and service bundles that help you manage and improve your Gatsby sites a
 
 
 freedom 
+Easton Financial (“Easton”) is dedicated to help bring the freedom that comes with mobility to those who have been left behind. We’re focused on providing financing for Wheelchair Accessible Vehicles with the flexibility most banks aren’t built for. 
 
 accessability 
 
