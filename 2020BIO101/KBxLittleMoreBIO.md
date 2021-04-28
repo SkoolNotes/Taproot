@@ -48,6 +48,7 @@ Pp, (Pp2) -> P
 ## 2
 
 ##### A
+
 Most woman have two X chromosomes, whereas most men have a X chromosome and a Y chromosome. Since hemophilia is located on the X chromosome, in men, it doesn't have a chance to be dominated.
 
 ##### B
@@ -65,8 +66,7 @@ For their child to be male, the man has to pass down his Y, leaving options:
 
 xY, XY.
 
-Thus, their is a 50% chance of having hemophilia.
-
+Thus, their is a 50% chance of hemophilia.
 
 ## 3
 ##### A
