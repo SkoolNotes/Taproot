@@ -20,6 +20,7 @@ author: Houjun Liu
 ## Genetics and Inheritance
 [[KBhBIO101GeneticVariation]] is like, really good. However, its woefully complicated and there are at least 3 ways I think of that it happens. 
 
+DNA's sequence could vary, and tha
 
 
 -   Connecting sequence variation at the DNA level to protein function

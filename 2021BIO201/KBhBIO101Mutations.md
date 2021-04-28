@@ -57,7 +57,4 @@ Mutations does one of two things, which are both pretty obvious: they either cau
 - Expression of protein in new location/time
 
 **Neutral function**
-
-Does nothing
-
-***
+Does nothing :(

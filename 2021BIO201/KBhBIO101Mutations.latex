@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12117)}}    % original
-%\rhead{\textrmlf{Compiled }\#12117\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12118)}}    % original
+%\rhead{\textrmlf{Compiled }\#12118\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -279,10 +279,6 @@ Reduction of a protein's ability to function
 - Aquire new protein function - Expression of protein in new
 location/time
 
-\textbf{Neutral function}
-
-Does nothing
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\textbf{Neutral function} Does nothing :(
 
 \end{document}
