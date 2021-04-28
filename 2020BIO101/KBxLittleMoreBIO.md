@@ -71,6 +71,8 @@ Most woman have two X chromosomes, whereas most men have a X chromosome and a Y 
 
 ##### B
 
+Mitosis produces exact copys
+
 
 	
 	
