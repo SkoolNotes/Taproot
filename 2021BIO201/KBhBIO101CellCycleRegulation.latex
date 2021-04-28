@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12096)}}    % original
-%\rhead{\textrmlf{Compiled }\#12096\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12097)}}    % original
+%\rhead{\textrmlf{Compiled }\#12097\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -212,7 +212,7 @@ actions}\label{checkpoints-regulate-drivers-actions}}
 Should the cells not meet the requirements of a checkpoint, its driver
 would be stopped; and/or it will be called to self-destruct.
 
-There are t
+There are two main types of regulators:
 
 \textbf{Positive Regulators} push the cell cycle forward, CDK, upon lots
 of cycling binding to it and the meeting of checkpoint.
