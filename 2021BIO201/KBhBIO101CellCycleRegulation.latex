@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12094)}}    % original
-%\rhead{\textrmlf{Compiled }\#12094\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12095)}}    % original
+%\rhead{\textrmlf{Compiled }\#12095\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -209,14 +209,14 @@ on a ``cyclin'' protein this cyclin protein actually drive cell forward.
 \subsubsection{Checkpoints regulate drivers'
 actions}\label{checkpoints-regulate-drivers-actions}}
 
-\begin{itemize}
-\tightlist
-\item
-  Should the cells not meet the requirements of a checkpoint, its driver
-  would be stopped; and/or
-\item
-  It will be called to self-destruct
-\end{itemize}
+Should the cells not meet the requirements of a checkpoint, its driver
+would be stopped; and/or it will be called to self-destruct.
+
+There are \textbf{Positive Regulators} push the cell cycle forward, CDK,
+upon lots of cycling binding to it and the meeting of checkpoint.
+
+\textbf{Negative Regulators} hold the cell cycle back due to a response
+to a checkpoint or an environmental factor
 
 \textbf{Here are some common checkpoints}
 
@@ -242,11 +242,5 @@ actions}\label{checkpoints-regulate-drivers-actions}}
 
 Growth Factors that the cells measure: the 1) Size of the cell 2) the
 nutritional state of the cell
-
-\textbf{Positive Regulators} push the cell cycle forward, CDK, upon lots
-of cycling binding to it and the meeting of checkpoint.
-
-\textbf{Negative Regulators} hold the cell cycle back due to a response
-to a checkpoint or an environmental factor
 
 \end{document}
