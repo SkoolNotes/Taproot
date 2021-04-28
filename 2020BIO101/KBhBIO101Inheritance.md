@@ -1,5 +1,7 @@
 ---
-title: Alleals
+title: Alleals traits and Inheritance
+source: KBhBIO101MutationsAllealsInheritance
+author: Hou
 
 ***
 
