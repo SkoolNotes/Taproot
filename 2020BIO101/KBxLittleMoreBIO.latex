@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12173)}}    % original
-%\rhead{\textrmlf{Compiled }\#12173\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12174)}}    % original
+%\rhead{\textrmlf{Compiled }\#12174\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -301,5 +301,8 @@ pp, (p1p1) -\textgreater{} p pp, (p1p2) -\textgreater{} p Pp, (Pp1)
 
 \hypertarget{section-1}{%
 \subsection{2}\label{section-1}}
+
+Most woman have two X chromosomes, whereas most men have a X chromosome
+and a Y chromosome. Since hemophilia is located on the X chromosome,
 
 \end{document}
