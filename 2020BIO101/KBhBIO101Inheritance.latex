@@ -120,8 +120,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Alleals traits and Inheritance }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -134,12 +134,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12128)}}    % original
-%\rhead{\textrmlf{Compiled }\#12128\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12129)}}    % original
+%\rhead{\textrmlf{Compiled }\#12129\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -184,17 +184,13 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101MutationsAllealsInheritance}{\tiny\textulf{[[}\textbf{KBhBIO101MutationsAllealsInheritance}\textulf{]]}}}\thinspace
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{genetic-inheritance}{%
+\subsection{Genetic Inheritance}\label{genetic-inheritance}}
 
-title: Alleals traits and Inheritance source:
-KBhBIO101MutationsAllealsInheritance author: Hou
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{genetic-inherintance-the-theory-of-codominance-blood-types}{%
-\subsection{Genetic Inherintance, the theory of ``Codominance'': blood
-types}\label{genetic-inherintance-the-theory-of-codominance-blood-types}}
+\textbf{As seen on ``Blood Types!''}
 
 RBCs have various carb styles. The presence/absence of two carb
 modifications cause the difference of A\&B blood types.

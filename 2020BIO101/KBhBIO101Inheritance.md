@@ -1,11 +1,13 @@
 ---
 title: Alleals traits and Inheritance
 source: KBhBIO101MutationsAllealsInheritance
-author: Hou
+author: Houjun Liu
+course: BIO101
+---
 
-***
+## Genetic Inheritance
+**As seen on "Blood Types!"**
 
-## Genetic Inherintance, the theory of "Codominance": blood types
 RBCs have various carb styles. The presence/absence of two carb modifications cause the difference of A&B blood types. 
 
 One gene controlls the outcome: A&B genes create attachment to two different carbohydrates, A, B respectviely; O gene encodes a lack of enzyme function, which means no carb modification. A person, of course, has two alleals. If a person that has one A alleal and one B alleal, both A&B are expressed.
