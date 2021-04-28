@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12204)}}    % original
-%\rhead{\textrmlf{Compiled }\#12204\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12205)}}    % original
+%\rhead{\textrmlf{Compiled }\#12205\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -277,7 +277,7 @@ pp, (p1p1) -\textgreater{} p pp, (p1p2) -\textgreater{} p Pp, (Pp1)
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
-    40\% reduction is not near-complete, and thus would most likely be
+    40\% reduction is not near-complete, and would most likely be
     classified as ``mild PKU''
   \end{enumerate}
 \end{enumerate}

@@ -42,7 +42,7 @@ Pp, (Pp2) -> P
 	1.  A frameshift mutation early on would cause almost the entire sequence to be translated incorrectly. Most likely, this would lead to near complete loss of function, and thus, "classic PKU"
 
 4. **A missense mutation that changes an amino acid in an allosteric site (an enzyme site that is not directly involved in breaking down phenylalanine), leading to a 40% reduction in the rate of enzyme activity.**
-	1. 40% reduction is not near-complete, and thus would most likely be classified as "mild PKU"
+	1. 40% reduction is not near-complete, and would most likely be classified as "mild PKU"
 
 
 ## 2
