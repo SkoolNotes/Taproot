@@ -75,7 +75,7 @@ For the woman to be healthy and have any hemophilia-associated alleles, they mus
 
 Somatic cells, carrying 23 pairs of chromosomes, have all the genetic information which is all copied by mitosis. Thus, they will contain the hemophilia-associated allele. 
 
-Meiosis produces 
+Meiosis produces haploids, cells with only 23 singular 2-chromatid chromosomes
 	
 	
 	
