@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12201)}}    % original
-%\rhead{\textrmlf{Compiled }\#12201\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12202)}}    % original
+%\rhead{\textrmlf{Compiled }\#12202\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -352,6 +352,6 @@ occur.
 Given that RET is a positive regulator, MEN2 mutations would most likely
 cause a gain of function. The RET protein would be more prone to
 signaling for cell progression, pushing cell division forward before
-everything is nesasarrily ready.
+everything is necessarily ready. This would increase the likelyhood of
 
 \end{document}
