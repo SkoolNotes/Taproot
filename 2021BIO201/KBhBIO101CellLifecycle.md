@@ -18,7 +18,9 @@ To compensate for programmed cell death, (cell division) happen.
 **Before we continue, do yourself a favor and review [[KBhBIO101DNAStructures]]**	
 
 ## So, when do cells divide?
-The cell follows a lifecycle called... 
+The cell follows a lifecycle from new cell to cell-too-bit-aaa-gotta-divide called... you ready for this? "Cell Cycle". At the pointy bit of the cell cycle, the cell reproduces [[KBhBIO101CellReproduction]]. And et viola the cell cycle!
+
+For more, see [[KBhBIO101CellCycle]].
 
 ![lecellcycle.png](lecellcycle.png)
 
@@ -26,4 +28,3 @@ The cell follows a lifecycle called...
 [[KBhBIO101CellReproduction]]
 
 ## The (actual) Cell Cycle
-[[KBhBIO101CellCycle]]

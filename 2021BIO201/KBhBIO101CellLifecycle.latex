@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12068)}}    % original
-%\rhead{\textrmlf{Compiled }\#12068\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12069)}}    % original
+%\rhead{\textrmlf{Compiled }\#12069\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -214,7 +214,12 @@ To compensate for programmed cell death, (cell division) happen.
 \hypertarget{so-when-do-cells-divide}{%
 \subsection{So, when do cells divide?}\label{so-when-do-cells-divide}}
 
-The cell follows a lifecycle called\ldots{}
+The cell follows a lifecycle from new cell to
+cell-too-bit-aaa-gotta-divide called\ldots{} you ready for this? ``Cell
+Cycle''. At the pointy bit of the cell cycle, the cell reproduces
+{[}{[}KBhBIO101CellReproduction{]}{]}. And et viola the cell cycle!
+
+For more, see {[}{[}KBhBIO101CellCycle{]}{]}.
 
 \begin{figure}
 \centering
@@ -229,7 +234,5 @@ The cell follows a lifecycle called\ldots{}
 
 \hypertarget{the-actual-cell-cycle}{%
 \subsection{The (actual) Cell Cycle}\label{the-actual-cell-cycle}}
-
-{[}{[}KBhBIO101CellCycle{]}{]}
 
 \end{document}
