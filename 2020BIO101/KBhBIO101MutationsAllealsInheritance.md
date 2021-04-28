@@ -5,7 +5,7 @@ author: Houjun Liu
 course: BIO101
 ---
 
-# DNA Mutations
+Pssst.... There are literally three seperate things, although they are related in different
 
 [[KBhBIO101Mutations]]
 
@@ -31,5 +31,3 @@ One gene controlls the outcome: A&B genes create attachment to two different car
 These probabiltiy are not considered as a process by which these probabilities are independently assorted into children (1/6 recision probablity does not mean that the recessive gene will express in one out of six children.) Instead, it means that EACH child has 1/6 chance of the abnormality.
 
 For more, see [[KBhBIO101GeneticInheritance]]
-
-
