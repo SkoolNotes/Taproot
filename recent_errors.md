@@ -1,3 +1,4 @@
-        Log for attempt at Tue Apr 27 04:56:47 PM PDT 2021 (12060)
-        Tue Apr 27 04:56:47 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6A9.org...
-[WARNING] Missing character: There is no ▪ (U+25AA) in font Helvetica Neue/OT:language=dflt;mappin
+        Log for attempt at Tue Apr 27 05:57:43 PM PDT 2021 (12061)
+        Tue Apr 27 05:57:43 PM PDT 2021 Converting 2021BIO201/KBhBIO101Mutations.md...
+Error producing PDF.
+
