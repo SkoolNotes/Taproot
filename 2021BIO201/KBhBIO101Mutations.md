@@ -13,19 +13,16 @@ Mutations are one way by which totally random, not controlled for, and fully spo
 To figure out how mutations work, you first need to know how DNA looks like, so here goes a...
 
 ***
-_**Special Programing!** How does DNA work?_
+_**Special Programming!** How does DNA work?_
 
 There are two rought typos of codons on DNA, namely: 
 
-- **Pyrimides** - cytosine + thymine. Single ring.
+- **Pyrimides** - cytosine + thymine. Single ring.  Which are usually paired with... 
+- **Purines** -  adenine + guanine. Double ring.
 
-These are usually paired up with 
+So if a mutation replaces adenine and guanine, it would has less of an effect because a double ring is still matched with a single ring. But if an adenine is replaced by thymine, we could have a bigger issue because double-double ring is much longer than a traditional single/double match.
 
-Purines -  adenine + guanine. Double ring.
-
-So if a mutation replaces adenine and guanine, it would has less of an effect because a double ring is still matched with a single ring. But if an adenine is replaced by thymine, we could have a bigger isuue because double-double ring is much longer than a traditional single/double match.
-
-Thank you for coming to assembly. You could leave now.
+Thank you for coming to this assembly. You could leave now.
 ***
 
 Lot's of things cause mutations! 
