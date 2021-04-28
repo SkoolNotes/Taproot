@@ -45,15 +45,13 @@ Remember that DNA codes for proteins, so mutations in DNA will cause different p
 There are many types/methods by which DNA mutate. These different types dictate when they happen ([[KBhBIO101Meiosis]] or [[KBhBIO101Mitosis]]?), how severe they are, and also their frequency. See... [[KBhBIO101TypesOfMutations]]
 
 ## Impacts of mutations
-Mutations does one of two things, which are both pretty 
+Mutations does one of two things, which are both pretty obvious: they either cause a **loss of function** for the organism/cell or **gain of function** for the organism/cell (you either loose something or gain something... duh).
 
 **Loss of function mutations**
-
 - Complete loss of a proteins
-- Reduction of a protein's ability to functionobvioou
+- Reduction of a protein's ability to function
 
 **Gain of function mutations**
-
 - Increase the function of a protein
 - Aquire new protein function 
 - Expression of protein in new location/time

@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12116)}}    % original
-%\rhead{\textrmlf{Compiled }\#12116\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12117)}}    % original
+%\rhead{\textrmlf{Compiled }\#12117\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -267,29 +267,17 @@ frequency. See\ldots{} {[}{[}KBhBIO101TypesOfMutations{]}{]}
 \hypertarget{impacts-of-mutations}{%
 \subsection{Impacts of mutations}\label{impacts-of-mutations}}
 
-Mutations does one of two things, which are both pretty
+Mutations does one of two things, which are both pretty obvious: they
+either cause a \textbf{loss of function} for the organism/cell or
+\textbf{gain of function} for the organism/cell (you either loose
+something or gain something\ldots{} duh).
 
-\textbf{Loss of function mutations}
+\textbf{Loss of function mutations} - Complete loss of a proteins -
+Reduction of a protein's ability to function
 
-\begin{itemize}
-\tightlist
-\item
-  Complete loss of a proteins
-\item
-  Reduction of a protein's ability to functionobvioou
-\end{itemize}
-
-\textbf{Gain of function mutations}
-
-\begin{itemize}
-\tightlist
-\item
-  Increase the function of a protein
-\item
-  Aquire new protein function
-\item
-  Expression of protein in new location/time
-\end{itemize}
+\textbf{Gain of function mutations} - Increase the function of a protein
+- Aquire new protein function - Expression of protein in new
+location/time
 
 \textbf{Neutral function}
 
