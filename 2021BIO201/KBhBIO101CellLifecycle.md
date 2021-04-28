@@ -13,14 +13,12 @@ Everyday, 50-70 Billion die (**programmed cell death**, apoptosis), so...
 
 [[KBhBIO101Viruses]] and organelles challenge this definition => they are symbiotic and cannot reproduce on their own. But like screw them right?
 
-
 To compensate for programmed cell death, (cell division) happen. 
 
 **Before we continue, do yourself a favor and review [[KBhBIO101DNAStructures]]**	
 
 ## So, when do cells divide?
-
-***
+The cell follows a lifecycle called... 
 
 ![lecellcycle.png](lecellcycle.png)
 
