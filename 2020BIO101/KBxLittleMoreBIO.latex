@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12165)}}    % original
-%\rhead{\textrmlf{Compiled }\#12165\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12166)}}    % original
+%\rhead{\textrmlf{Compiled }\#12166\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -258,7 +258,8 @@ pp, (p1p1) -\textgreater{} p pp, (p1p2) -\textgreater{} p Pp, (Pp1)
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
-    Given that
+    Given that ``classic PKU'' results from near complete loss of PAH
+    function, a 50\% loss
   \end{enumerate}
 \item
   \textbf{A missense mutation that changes an amino acid in the PAH
