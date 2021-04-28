@@ -14,6 +14,7 @@
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
+\usepackage{setspace}
 
 \usepackage{graphicx}
 \usepackage{xesearch}
@@ -21,6 +22,7 @@
 
 \usepackage{lastpage}
 
+\usepackage{physics}
 \usepackage{siunitx}
 \sisetup{per-mode=symbol}
 
@@ -89,14 +91,6 @@
   ItalicFont     = HelveticaNeue-LightItalic,
   BoldFont       = HelveticaNeue-UltraLight,
   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
-% \setmainfont[
-%    ItalicFont     = Iosevka-Aile-Italic,
-%    BoldFont       = Iosevka-Aile-Bold,
-%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
-% \newfontfamily\NHLight[
-%    ItalicFont     = Iosevka-Aile-Light-Italic,
-%    BoldFont       = Iosevka-Aile-Light,
-%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -140,14 +134,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10301)}}    % original
-%\rhead{\textrmlf{Compiled }\#10301\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12080)}}    % original
+%\rhead{\textrmlf{Compiled }\#12080\textrmlf{ on} \today }      % old date
 \rhead{
-    \textrmlf{Compiled }
-  \#10301
-  \textrmlf{ on}
-      \today
-  }       % new date
+    \today
+    }       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
@@ -194,55 +185,53 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBhBIO101Cells}{\tiny\textulf{[[}\textbf{KBhBIO101Cells}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101CellLifecycle}{\tiny\textulf{[[}\textbf{KBhBIO101CellLifecycle}\textulf{]]}}}\thinspace
 
 \hypertarget{the-cell-cycle}{%
 \section{The Cell Cycle}\label{the-cell-cycle}}
 
-\hypertarget{so-why-do-cell-divide}{%
-\subsection{So, why do cell divide}\label{so-why-do-cell-divide}}
+The cell cycle is roughly three parts which is really 5 parts which is
+really 9 parts.
 
-{[}{[}KBhBIO101CellReproduction{]}{]}
-
-\begin{quote}
-The ability to produce organisms more of their kind is one
-characteristic that best distinguishes living things from nonliving
-matter
-\end{quote}
-
-Viruses + Organelles challenge this definition =\textgreater{} they are
-symbiotic and cannot reproduce on their own. We tend to think that cells
+The three main parts are:
 
 \begin{itemize}
 \tightlist
 \item
-  Everyday, 50-70 Billion die =\textgreater{} \textbf{programmed cell
-  death}
+  \textbf{Interphase} --- G1, S, G2: systems preperation for mitosis
 \item
-  To compensate this, Mitosis (cell division) happen
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Cell divide in opposite directions
-  \item
-    Two strands ANTIPARALLEL to each other
-  \end{itemize}
+  \textbf{Mitosis} --- Separation of the duplicated chromosomes
+\item
+  \textbf{Cytokinesis} --- the splitting of the cell itself. Really part
+  of mitosis
 \end{itemize}
 
-\textbf{Before we continue, do yourself a favor and review
-{[}{[}KBhBIO101DNAStructures{]}{]}}
+\hypertarget{features-of-the-cell-cycle}{%
+\subsection{Features of the Cell
+Cycle}\label{features-of-the-cell-cycle}}
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\textbf{\emph{Most} cell division results in genetically identical
+daughter cell}
+
+Each cell, once specialised, chooses what parts of their chromasome to
+unwrap + permanently wrap.
+
+Difference in transcription results in different phenotypes.
+
+Sperm + Egg (imcomplete cells) combine together to form a ``zygote''
+=\textgreater{} a single cell. Each person is from a zygote.
+
+\href{https://docs.google.com/document/d/1TIrgR9VSV3attTK_QP-AOCs33mMoBP0Cz7DQXysKoD0/edit}{Paul's
+Cell Cycle Primer}
 
 \begin{figure}
 \centering
-\includegraphics{lecellcycle.pn}
-\caption{lecellcycle.png}
+\includegraphics{Screen Shot 2020-11-09 at 3.16.12 PM.png}
+\caption{Screen Shot 2020-11-09 at 3.16.12 PM.png}
 \end{figure}
 
-\hypertarget{the-actual-cell-cycle}{%
-\subsection{The (actual) Cell Cycle}\label{the-actual-cell-cycle}}
+\hypertarget{the-phrases}{%
+\subsection{The Phrases}\label{the-phrases}}
 
 \hypertarget{g1-rest-phase-gap-1}{%
 \subsubsection{G1 =\textgreater{} Rest Phase, Gap
@@ -262,6 +251,9 @@ of the cell cycle into motion.
   to work harder to transport things to the centre
 \end{itemize}
 
+At this phase, the organelles in the cytoplasm also replicates in
+preparation for the S phase.
+
 \hypertarget{s-s-phase-duplicate-dna.-150-mins}{%
 \subsubsection{S =\textgreater{} S Phase, duplicate DNA. 150
 mins}\label{s-s-phase-duplicate-dna.-150-mins}}
@@ -278,81 +270,42 @@ The pairs of DNA begins bundling and condensing; the DNA is also checked
 upon and verified for consistency and dumped based the needs of the
 cell.
 
+At this point, the enzymes needed to assist Mitosis is also synthesized.
+
 \hypertarget{m-mitosis}{%
 \subsubsection{M =\textgreater{} Mitosis!}\label{m-mitosis}}
 
-\begin{itemize}
-\tightlist
-\item
-  Chromesomes line up in equator
-\item
-  Each chromesome has two chromatid exactly the same
-\item
-  Microtubials to pull chromesomes appart connected to kinecore, a joint
-  in the chromatid
-\item
-  Kinetore senses tension, and when it is correct, molecules are sent
-  down the microtubials to send a split signal
-\end{itemize}
+Mitosis is the process by which non-sex (somatic) cells actually divide.
+It consists of four parts --- prophase, metaphase, anaphase, telophase
+--- and a final seperation called cytokenisis. See
+{[}{[}KBhBIO101Mitosis{]}{]}.
 
-\hypertarget{features-of-the-cell-cycle}{%
-\subsection{Features of the Cell
-Cycle}\label{features-of-the-cell-cycle}}
+\textbf{or\ldots{}}
 
-\textbf{Most cell division results in genetically identical daughter
-cell}
+\hypertarget{m-meiosis}{%
+\subsubsection{M =\textgreater{} Meiosis!}\label{m-meiosis}}
 
-Each cell, once specialised, chooses what parts of their chromasome to
-unwrap + permanently wrap.
-
-Difference in transcription results in different phenotypes.
-
-Sperm + Egg (imcomplete cells) combine together to form a ``zygote''
-=\textgreater{} a single cell. Each person is from a zygote.
-
-\href{https://docs.google.com/document/d/1TIrgR9VSV3attTK_QP-AOCs33mMoBP0Cz7DQXysKoD0/edit}{Paul's
-Cell Cycle Primer}
-
-\begin{figure}
-\centering
-\includegraphics{Screen Shot 2020-11-09 at 3.16.12 PM.png}
-\caption{Screen Shot 2020-11-09 at 3.16.12 PM.png}
-\end{figure}
+Mitosis is the process by which sex cells (gametes) divide. It consists
+of four parts --- prophase, metaphase, anaphase, telophase --- and
+cytokinesis but TWICE! This process also has clever mechanisms to ensure
+genetic diversity. See yourself: {[}{[}KBhBIO101Meiosis{]}{]}
 
 \hypertarget{cell-cycle-regulation}{%
 \subsection{Cell cycle regulation}\label{cell-cycle-regulation}}
+
+Purpose of regulation: \textbf{Cells must meet certain conditions before
+moving onto the next phase.}
 
 Cell regulators are proteins that manage and sheperard the process of
 cell division. They respond to molecular signals throughout the cell and
 check for internal signals like DNA damage to control the rate and
 progress of cell division.
 
-The Problem: \textbf{Cells need to know whence to divide itself.}
+See {[}{[}KBhBIO101CellCycleRegulation{]}{]}
 
-Drivers tell cells when to divide. The processes that move a cell
-forward through its life are called ``drivers''.
+\hypertarget{how-about-meiosis}{%
+\subsection{How about Meiosis?}\label{how-about-meiosis}}
 
-\begin{itemize}
-\tightlist
-\item
-  Drivers consists of two parts: a switch + a cyclin
-
-  \begin{itemize}
-  \tightlist
-  \item
-    a ``switch'' turns on a ``cyclin'' protein
-  \item
-    this cyclin protein actually drive cell forward
-  \end{itemize}
-\item
-  Checkpoints regulate drivers' actions
-
-  \begin{itemize}
-  \tightlist
-  \item
-  \end{itemize}
-\end{itemize}
-
-~
+{[}{[}KBhBIO101Meiosis{]}{]} ~
 
 \end{document}
