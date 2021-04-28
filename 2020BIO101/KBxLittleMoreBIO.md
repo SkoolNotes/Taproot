@@ -37,15 +37,17 @@ I, Huxley Marvit, affirm that I will only utilize the internet during this asses
 
 ### 1
 ##### A
-m: pp, d: PP
+mom: pp, dad: PP
 pP -> P
 In any combination, their would not be two mutant PAH alleles. Thus, the child would have a 0% chance of having the disorder. 
 
 ##### B
+child: pP, partner: pp	
 	
-		
-	
-	
+pp,
+pp,
+Pp,
+Pp
 	
 	
 	

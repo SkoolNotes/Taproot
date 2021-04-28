@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12160)}}    % original
-%\rhead{\textrmlf{Compiled }\#12160\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12161)}}    % original
+%\rhead{\textrmlf{Compiled }\#12161\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -231,11 +231,15 @@ that I, Huxley Marvit, have read this honor code and will abide by it.
 \hypertarget{a}{%
 \subparagraph{A}\label{a}}
 
-m: pp, d: PP pP -\textgreater{} P In any combination, their would not be
-two mutant PAH alleles. Thus, the child would have a 0\% chance of
-having the disorder.
+mom: pp, dad: PP pP -\textgreater{} P In any combination, their would
+not be two mutant PAH alleles. Thus, the child would have a 0\% chance
+of having the disorder.
 
 \hypertarget{b}{%
 \subparagraph{B}\label{b}}
+
+child: pP, partner: pp
+
+pp, pp, Pp, Pp
 
 \end{document}
