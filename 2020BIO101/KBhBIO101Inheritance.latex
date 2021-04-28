@@ -120,8 +120,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Mutations, Allels, and Inheritance }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -139,7 +139,7 @@
 \rhead{
     \today
     }       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -184,20 +184,57 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
 
-Pssst\ldots. There are literally three separate things, although they
-are related in different places but like go into the notes plez.
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{mutations}{%
-\section{Mutations}\label{mutations}}
+title: Alleals
 
-{[}{[}KBhBIO101Mutations{]}{]}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{inheritance}{%
-\section{Inheritance}\label{inheritance}}
+\hypertarget{genetic-inherintance-the-theory-of-codominance-blood-types}{%
+\subsection{Genetic Inherintance, the theory of ``Codominance'': blood
+types}\label{genetic-inherintance-the-theory-of-codominance-blood-types}}
 
-{[}{[}KBhBIO101Inheritance{]}{]}
+RBCs have various carb styles. The presence/absence of two carb
+modifications cause the difference of A\&B blood types.
+
+One gene controlls the outcome: A\&B genes create attachment to two
+different carbohydrates, A, B respectviely; O gene encodes a lack of
+enzyme function, which means no carb modification. A person, of course,
+has two alleals. If a person that has one A alleal and one B alleal,
+both A\&B are expressed.
+
+\begin{itemize}
+\tightlist
+\item
+  A =\textgreater{} AO, AA
+\item
+  B =\textgreater{} BO, BB
+\item
+  AB =\textgreater{} AB
+\item
+  O =\textgreater{} OO
+\end{itemize}
+
+\textbf{O is the ``recessive'' trait: that anything like A or B will
+overtake the O enzyme}
+
+\begin{itemize}
+\tightlist
+\item
+  AB+O =\textgreater{} A, B, 50\% split
+\item
+  (AO\textbar BO) + AB =\textgreater{} A (50\% =\textgreater{} AO, 25\%
+  =\textgreater{} BO), AB (25\%), B (25\% =\textgreater{} AO, 50\%
+  =\textgreater{} BO)
+\end{itemize}
+
+These probabiltiy are not considered as a process by which these
+probabilities are independently assorted into children (1/6 recision
+probablity does not mean that the recessive gene will express in one out
+of six children.) Instead, it means that EACH child has 1/6 chance of
+the abnormality.
+
+For more, see {[}{[}KBhBIO101GeneticInheritance{]}{]}
 
 \end{document}
