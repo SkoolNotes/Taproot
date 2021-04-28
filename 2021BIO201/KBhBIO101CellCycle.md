@@ -7,20 +7,20 @@ author: Houjun Liu
 
 # The Cell Cycle
 ## So, why do cell divide
+Everyday, 50-70 Billion die (**programmed cell death**, apoptosis), so...
+
 > The ability to produce organisms more of their kind is one characteristic that best distinguishes living things from nonliving matter
 
-Viruses + Organelles challenge this definition => they are symbiotic and cannot reproduce on their own. We tend to think that cells
+[[KBhBIO101Viruses]] and organelles challenge this definition => they are symbiotic and cannot reproduce on their own. But like screw them right?
 
-* Everyday, 50-70 Billion die => **programmed cell death**
-* To compensate this, Mitosis (cell division) happen 
-	* Cell divide in opposite directions
-	* Two strands ANTIPARALLEL to each other
-	
+
+To compensate for programmed cell death, (cell division) happen. 
+
 **Before we continue, do yourself a favor and review [[KBhBIO101DNAStructures]]**	
 
 ***
 
-![lecellcycle.png](lecellcycle.pn)
+![lecellcycle.png](lecellcycle.png)
 
 ## So, how do cells divide?
 [[KBhBIO101CellReproduction]]
