@@ -17,13 +17,13 @@ author: Houjun Liu
 - This reproduction process uses one of either [[KBhBIO101Mitosis]] (exact copy, for somatic cells (not sperm/egg) only) or 
 - [[KBhBIO101Meiosis]] (half, randomly-mixed genetic info, for gametes (sperm/egg) only).
 
+## Genetics and Inheritance
+Un
 
-## Genetics and Inheratence
--   Genetics and inheritance
-	-   Connecting sequence variation at the DNA level to protein function
-	-   Connecting protein function to expressed traits in organisms
-		-   Given an individual with two particular alleles of a gene, what trait would you expect to see.
-	-   Connecting protein function and traits to inheritance patterns:
-		-   Given parents with particular alleles of genes, what would you expect in their offspring and why.
+-   Connecting sequence variation at the DNA level to protein function
+-   Connecting protein function to expressed traits in organisms
+	-   Given an individual with two particular alleles of a gene, what trait would you expect to see.
+-   Connecting protein function and traits to inheritance patterns:
+	-   Given parents with particular alleles of genes, what would you expect in their offspring and why.
 
 
