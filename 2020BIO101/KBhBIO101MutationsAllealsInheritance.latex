@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12120)}}    % original
-%\rhead{\textrmlf{Compiled }\#12120\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12123)}}    % original
+%\rhead{\textrmlf{Compiled }\#12123\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -243,19 +243,5 @@ For more, see {[}{[}KBhBIO101GeneticInheritance{]}{]}
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 /* what is this? */
-
-\hypertarget{protein-signals-for-cell-growth}{%
-\subsection{Protein Signals for Cell
-Growth}\label{protein-signals-for-cell-growth}}
-
-Most proteins opreate in a pathway: that an growth hormone attach to a
-receptor protein, which triggers an ``explosion'' in KRAS protein, which
-then triggers cell proliferation.
-
-In a mutant KRAS case, however, the KRAS protein does not stop
-triggering and forever triggers.
-
-This is a case of a ``gain of function'' mutation that causes an
-abnormal rapid cell cycle.
 
 \end{document}

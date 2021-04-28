@@ -33,13 +33,3 @@ These probabiltiy are not considered as a process by which these probabilities a
 For more, see [[KBhBIO101GeneticInheritance]]
 
 
-***
-/* what is this? */
-
-## Protein Signals for Cell Growth
-
-Most proteins opreate in a pathway: that an growth hormone attach to a receptor protein, which triggers an "explosion" in KRAS protein, which then triggers cell proliferation.
-
-In a mutant KRAS case, however, the KRAS protein does not stop triggering and forever triggers.
-
-This is a case of a "gain of function" mutation that causes an abnormal rapid cell cycle.

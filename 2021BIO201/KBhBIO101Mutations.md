@@ -60,4 +60,10 @@ Mutations does one of two things, which are both pretty obvious: they either cau
 Does nothing :(
 
 ## Protein Pathways
-Most DNA/proteins trigger in a pathway — in that an environment factor does not directly trigger a protein action; instead, a _sequence_ of actions from the surface down happen and mutation in any of that sequence of proteins may cause a difference in functio
+Most DNA/proteins trigger in a pathway — in that an environment factor does not directly trigger a protein action; instead, a _sequence_ of actions from the surface down happen and mutation in any of that sequence of proteins may cause a difference in function.
+
+For example, an growth hormone may attach to a receptor protein, which triggers an "explosion" in KRAS protein, which then triggers cell proliferation.
+
+In a mutant KRAS case, however, the KRAS protein does not stop triggering and forever triggers.
+
+This is a case of a "gain of function" mutation that causes an abnormal rapid cell cycle.

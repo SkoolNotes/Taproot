@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12122)}}    % original
-%\rhead{\textrmlf{Compiled }\#12122\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12123)}}    % original
+%\rhead{\textrmlf{Compiled }\#12123\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -286,6 +286,7 @@ location/time
 
 Most DNA/proteins trigger in a pathway --- in that an environment factor
 does not directly trigger a protein action; instead, a \emph{sequence}
-of actions happen
+of actions from the surface down happen and mutation in any of that
+sequence of proteins may cause a difference in function.
 
 \end{document}
