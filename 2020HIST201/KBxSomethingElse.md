@@ -44,7 +44,7 @@ accessability
 
 technology
 
-
+Our mission is to offer loans at competitive rates so that everyone can afford a wheelchair accessible vehicle.
 
 
 
