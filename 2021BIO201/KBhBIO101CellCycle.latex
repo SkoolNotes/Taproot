@@ -120,8 +120,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ The Cell Cycle }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -134,12 +134,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12066)}}    % original
-%\rhead{\textrmlf{Compiled }\#12066\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12067)}}    % original
+%\rhead{\textrmlf{Compiled }\#12067\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -184,10 +184,11 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101CellLifecycle}{\tiny\textulf{[[}\textbf{KBhBIO101CellLifecycle}\textulf{]]}}}\thinspace
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-title: The Cell Cycle source: {[}{[}ly{]}{]}
+\hypertarget{the-cell-cycle}{%
+\section{The Cell Cycle}\label{the-cell-cycle}}
 
 The cell cycle is roughly three parts which is really 5 parts which is
 really 9 parts.

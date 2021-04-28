@@ -1,8 +1,11 @@
 ---
 title: The Cell Cycle
-source: [[ly]]
+source: KBhBIO101CellLifecycle
+author: Houjun Liu
+course: BIO101
+---
 
-
+# The Cell Cycle
 The cell cycle is roughly three parts which is really 5 parts which is really 9 parts.
 
 The three main parts are
