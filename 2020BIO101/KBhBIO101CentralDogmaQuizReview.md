@@ -19,7 +19,7 @@ Raw review sheet content: [[KBhBIO101HumanDiseases]]
 	- [[KBhBIO101DNAReplication]] and [[KBhBIO101RNAReplication]]
 
 ### The Cell Cycle
-=> [[KBhBIO101CellCycle]]: the cell cycle
+=> [[KBhBIO101CellLifecycle]]: the cell cycle
 
 ### Human Diseases w.r.t viruses
 - Diseases overview [[KBhBIO101Diseases]] & [[KBhBIO101BacterialInfections]]

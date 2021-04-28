@@ -42,6 +42,6 @@ Eukaryotes have a thin membrane layer that helps them regulate nutrients, defend
 ## Cell Replication
 Eventually, at some point, cells need to replicate itself. This, of course, is due to the fact that your body needs to grow. This intricate process is dependent on [[KBhBIO101CentralDogma]], specifically, [[KBhBIO101DNAReplication]].
 
-The timeschedule of each cell replicating is dependent on something called "The Cell Cycle". See [[KBhBIO101CellCycle]]
+The timeschedule of each cell replicating is dependent on something called "The Cell Cycle". See [[KBhBIO101CellLifecycle]]
 
 

@@ -1,11 +1,11 @@
 ---
-title: The Cell Cycle
+title: The Lifecycle of a Cell
 source: KBhBIO101Cells
 course: BIO101
 author: Houjun Liu
 ---
 
-# The Cell Cycle
+# The Cell('s) (Life)Cycle
 ## So, why do cell divide
 Everyday, 50-70 Billion die (**programmed cell death**, apoptosis), so...
 
@@ -17,6 +17,8 @@ Everyday, 50-70 Billion die (**programmed cell death**, apoptosis), so...
 To compensate for programmed cell death, (cell division) happen. 
 
 **Before we continue, do yourself a favor and review [[KBhBIO101DNAStructures]]**	
+
+## So, when do cells divide?
 
 ***
 

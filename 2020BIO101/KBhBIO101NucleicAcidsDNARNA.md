@@ -53,7 +53,7 @@ See also [[KBhBIO101SenseAndAntisense]]
  See [[KBhBIO101CentralDogma]] 
  
 ## DNA-Made Structures
-In a [[KBhBIO101Cells]], DNA is organized into different shapes depending on which [[KBhBIO101CellCycle]] that the cell is in. These structures help facilitate cell replication.
+In a [[KBhBIO101Cells]], DNA is organized into different shapes depending on which [[KBhBIO101CellLifecycle]] that the cell is in. These structures help facilitate cell replication.
 
 See [[KBhBIO101DNAStructures]]
  
