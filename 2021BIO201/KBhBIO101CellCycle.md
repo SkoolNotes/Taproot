@@ -40,7 +40,7 @@ Mitosis is the process by which sex cells (gametes) divide. It consists of four 
 
 ## Features of the Cell Cycle
 
-**Most cell division results in genetically identical daughter cell**
+***Most* cell division results in genetically identical daughter cell**
 
 Each cell, once specialised, chooses what parts of their chromasome to unwrap + permanently wrap.
 

@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12075)}}    % original
-%\rhead{\textrmlf{Compiled }\#12075\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12076)}}    % original
+%\rhead{\textrmlf{Compiled }\#12076\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -267,8 +267,8 @@ genetic diversity. See yourself: {[}{[}KBhBIO101Meiosis{]}{]}
 \subsection{Features of the Cell
 Cycle}\label{features-of-the-cell-cycle}}
 
-\textbf{Most cell division results in genetically identical daughter
-cell}
+\textbf{\emph{Most} cell division results in genetically identical
+daughter cell}
 
 Each cell, once specialised, chooses what parts of their chromasome to
 unwrap + permanently wrap.
