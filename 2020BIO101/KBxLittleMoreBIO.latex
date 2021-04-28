@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12169)}}    % original
-%\rhead{\textrmlf{Compiled }\#12169\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12170)}}    % original
+%\rhead{\textrmlf{Compiled }\#12170\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -284,7 +284,8 @@ pp, (p1p1) -\textgreater{} p pp, (p1p2) -\textgreater{} p Pp, (Pp1)
   \tightlist
   \item
     A frameshift mutation early on would cause almost the entire
-    sequence to be
+    sequence to be translated incorrectly. Most likely, this would lead
+    to near complete loss of function, and thus, ``classic PKU''
   \end{enumerate}
 \item
   \textbf{A missense mutation that changes an amino acid in an
