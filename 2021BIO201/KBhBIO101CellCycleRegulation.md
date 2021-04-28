@@ -6,7 +6,6 @@ course: BIO101
 ---
 
 # Cell Cycle Regulation
-
 The Problem: **Cells need to know whence to divide itself.**
 
 Drivers tell cells when to divide. The processes that move a cell forward through its life are called "drivers".
