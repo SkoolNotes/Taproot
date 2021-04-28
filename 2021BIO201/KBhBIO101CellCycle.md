@@ -8,7 +8,7 @@ course: BIO101
 # The Cell Cycle
 The cell cycle is roughly three parts which is really 5 parts which is really 9 parts.
 
-The three main parts are
+The three main parts are:
 
 - **Interphase** — G1, S, G2: systems preperation for mitosis
 - **Mitosis** — Separation of the duplicated chromosomes
