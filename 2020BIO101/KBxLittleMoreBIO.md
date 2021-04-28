@@ -34,8 +34,25 @@ I, Huxley Marvit, affirm that I will only utilize the internet during this asses
 
 
 1. PKU
-	1. 
-	m: pp, d: PP
-	pP -> P
+
+### 1
+##### A
+m: pp, d: PP
+pP -> P
+In any combination, their would not be two mutant PAH alleles. Thus, the child would have a 0% chance of having the disorder. 
+
+##### B
 	
-	In any combination, their would not be two mutant PAH alleles. Thus, the child would have a 0% chance of having the disorder. 
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
