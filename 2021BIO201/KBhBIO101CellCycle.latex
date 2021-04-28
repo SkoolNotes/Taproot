@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11886)}}    % original
-%\rhead{\textrmlf{Compiled }\#11886\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12062)}}    % original
+%\rhead{\textrmlf{Compiled }\#12062\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -193,8 +193,6 @@
 \hypertarget{so-why-do-cell-divide}{%
 \subsection{So, why do cell divide}\label{so-why-do-cell-divide}}
 
-{[}{[}KBhBIO101CellReproduction{]}{]}
-
 \begin{quote}
 The ability to produce organisms more of their kind is one
 characteristic that best distinguishes living things from nonliving
@@ -231,6 +229,11 @@ symbiotic and cannot reproduce on their own. We tend to think that cells
 \includegraphics{lecellcycle.pn}
 \caption{lecellcycle.png}
 \end{figure}
+
+\hypertarget{so-how-do-cells-divide}{%
+\subsection{So, how do cells divide?}\label{so-how-do-cells-divide}}
+
+{[}{[}KBhBIO101CellReproduction{]}{]}
 
 \hypertarget{the-actual-cell-cycle}{%
 \subsection{The (actual) Cell Cycle}\label{the-actual-cell-cycle}}

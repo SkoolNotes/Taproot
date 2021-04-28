@@ -7,8 +7,6 @@ author: Houjun Liu
 
 # The Cell Cycle
 ## So, why do cell divide
-[[KBhBIO101CellReproduction]]
-
 > The ability to produce organisms more of their kind is one characteristic that best distinguishes living things from nonliving matter
 
 Viruses + Organelles challenge this definition => they are symbiotic and cannot reproduce on their own. We tend to think that cells
@@ -23,6 +21,9 @@ Viruses + Organelles challenge this definition => they are symbiotic and cannot 
 ***
 
 ![lecellcycle.png](lecellcycle.pn)
+
+## So, how do cells divide?
+[[KBhBIO101CellReproduction]]
 
 ## The (actual) Cell Cycle
 The cell cycle is roughly three parts which is really 5 parts which is really 9 parts.

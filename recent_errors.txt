@@ -1,4 +1,4 @@
-        Log for attempt at Tue Apr 27 05:57:43 PM PDT 2021 (12061)
-        Tue Apr 27 05:57:43 PM PDT 2021 Converting 2021BIO201/KBhBIO101Mutations.md...
-Error producing PDF.
-
+        Log for attempt at Tue Apr 27 09:41:02 PM PDT 2021 (12062)
+        Tue Apr 27 09:41:02 PM PDT 2021 Converting 2021BIO201/KBhBIO101CellCycle.md...
+[WARNING] Could not fetch resource 'lecellcycle.pn': replacing image with description
+[WARNING] Could not fetch resource 'Screen%20Shot%202020-11-09%20at%203.16.12%20PM.png': replacing image with description
