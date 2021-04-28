@@ -35,7 +35,7 @@ I, Huxley Marvit, affirm that I will only utilize the internet during this asses
 
 1. PKU
 
-### 1
+## 1
 ##### A
 mom: pp, dad: PP
 pP -> P
@@ -47,11 +47,17 @@ child: pP, partner: pp
 pp, (p1p1) -> p
 pp, (p1p2) -> p
 Pp, (Pp1) -> P
-Pp, (Pp2)
+Pp, (Pp2) -> P
 	
+50% chance of having PKU disorder	
 	
-	
-	
+## 2	
+
+
+
+
+
+
 	
 	
 	
