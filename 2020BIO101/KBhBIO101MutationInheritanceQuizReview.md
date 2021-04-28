@@ -7,7 +7,7 @@ author: Houjun Liu
 
 # Mutation and Inheritance
 ## Cell Division, Cell Cycle & It's Regulation
-**Each cell lives and reproduced on a cycle; unsurprisingly, this is called the [[KBhBIO101CellLifecycle]]! **
+**Each cell lives and reproduced on a cycle; unsurprisingly, this is called the [[KBhBIO101CellLifecycle]]!**
 
 - These cell cycles create [[KBhBIO101GeneticVariation]], even in [[KBhBIO101Mitosis]], because yes!, in mitosis, there could be [[KBhBIO101Mutations]] which introduce variation
 - However [[KBhBIO101Mutations]] could cause cancer if left unchecked, so we have [[KBhBIO101CellCycleRegulation]] to keep this cycle check.
