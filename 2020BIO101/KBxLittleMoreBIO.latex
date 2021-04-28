@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12182)}}    % original
-%\rhead{\textrmlf{Compiled }\#12182\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12183)}}    % original
+%\rhead{\textrmlf{Compiled }\#12183\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -319,6 +319,6 @@ Somatic cells, carrying 23 pairs of chromosomes, have all the genetic
 information which is all copied by mitosis. Thus, they will contain the
 hemophilia-associated allele.
 
-Meiosis takes diploids and produces
+Meiosis produces
 
 \end{document}
