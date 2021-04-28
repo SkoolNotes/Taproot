@@ -14,7 +14,8 @@ The three main parts are:
 - **Mitosis** — Separation of the duplicated chromosomes
 - **Cytokinesis** — the splitting of the cell itself. Really part of mitosis
 
-## G1 => Rest Phase, Gap 1
+## The Phrases
+### G1 => Rest Phase, Gap 1
 This is the phase which is the "daily life of a cell". There are two major checkpoints in this phase which, upon it is reached, sets the rest of the cell cycle into motion.
 
 - May hit s.a. to volume checkpoint => if ratio too big, the cell is too big
@@ -22,20 +23,20 @@ This is the phase which is the "daily life of a cell". There are two major check
 
 At this phase, the organelles in the cytoplasm also replicates in preparation for the S phase.
 	
-## S => S Phase, duplicate DNA. 150 mins
+### S => S Phase, duplicate DNA. 150 mins
 In this process, all of the DNA that is in the nucleus will be [[KBhBIO101DNAReplication]]ed in order to actually split the cell in half.
 
-## G2 => Rest Phrase, Gap 2. 
+### G2 => Rest Phrase, Gap 2. 
 The pairs of DNA begins bundling and condensing; the DNA is also checked upon and verified for consistency and dumped based the needs of the cell.
 
 At this point, the enzymes needed to assist Mitosis is also synthesized.
 
-## M => Mitosis!
+### M => Mitosis!
 Mitosis is the process by which non-sex (somatic) cells actually divide. It consists of four parts — prophase, metaphase, anaphase, telophase — and a final seperation called cytokenisis. See [[KBhBIO101Mitosis]].
 
 **or...**
 
-## M => Meiosis!
+### M => Meiosis!
 Mitosis is the process by which sex cells (gametes) divide. It consists of four parts — prophase, metaphase, anaphase, telophase — and cytokinesis but TWICE!  This process also has clever mechanisms to ensure genetic diversity. See yourself: [[KBhBIO101Meiosis]]
 
 ## Features of the Cell Cycle

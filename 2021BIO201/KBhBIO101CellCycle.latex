@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12077)}}    % original
-%\rhead{\textrmlf{Compiled }\#12077\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12078)}}    % original
+%\rhead{\textrmlf{Compiled }\#12078\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -206,8 +206,11 @@ The three main parts are:
   of mitosis
 \end{itemize}
 
+\hypertarget{the-phrases}{%
+\subsection{The Phrases}\label{the-phrases}}
+
 \hypertarget{g1-rest-phase-gap-1}{%
-\subsection{G1 =\textgreater{} Rest Phase, Gap
+\subsubsection{G1 =\textgreater{} Rest Phase, Gap
 1}\label{g1-rest-phase-gap-1}}
 
 This is the phase which is the ``daily life of a cell''. There are two
@@ -228,7 +231,7 @@ At this phase, the organelles in the cytoplasm also replicates in
 preparation for the S phase.
 
 \hypertarget{s-s-phase-duplicate-dna.-150-mins}{%
-\subsection{S =\textgreater{} S Phase, duplicate DNA. 150
+\subsubsection{S =\textgreater{} S Phase, duplicate DNA. 150
 mins}\label{s-s-phase-duplicate-dna.-150-mins}}
 
 In this process, all of the DNA that is in the nucleus will be
@@ -236,7 +239,7 @@ In this process, all of the DNA that is in the nucleus will be
 cell in half.
 
 \hypertarget{g2-rest-phrase-gap-2.}{%
-\subsection{G2 =\textgreater{} Rest Phrase, Gap
+\subsubsection{G2 =\textgreater{} Rest Phrase, Gap
 2.}\label{g2-rest-phrase-gap-2.}}
 
 The pairs of DNA begins bundling and condensing; the DNA is also checked
@@ -246,7 +249,7 @@ cell.
 At this point, the enzymes needed to assist Mitosis is also synthesized.
 
 \hypertarget{m-mitosis}{%
-\subsection{M =\textgreater{} Mitosis!}\label{m-mitosis}}
+\subsubsection{M =\textgreater{} Mitosis!}\label{m-mitosis}}
 
 Mitosis is the process by which non-sex (somatic) cells actually divide.
 It consists of four parts --- prophase, metaphase, anaphase, telophase
@@ -256,7 +259,7 @@ It consists of four parts --- prophase, metaphase, anaphase, telophase
 \textbf{or\ldots{}}
 
 \hypertarget{m-meiosis}{%
-\subsection{M =\textgreater{} Meiosis!}\label{m-meiosis}}
+\subsubsection{M =\textgreater{} Meiosis!}\label{m-meiosis}}
 
 Mitosis is the process by which sex cells (gametes) divide. It consists
 of four parts --- prophase, metaphase, anaphase, telophase --- and
