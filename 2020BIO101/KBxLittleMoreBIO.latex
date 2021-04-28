@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12193)}}    % original
-%\rhead{\textrmlf{Compiled }\#12193\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12194)}}    % original
+%\rhead{\textrmlf{Compiled }\#12194\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -341,8 +341,11 @@ Thus, their is a 50\% chance of having hemophilia.
 \subparagraph{A}\label{a-2}}
 
 P53 most likely has a loss of function mutation, making it less
-effective at doing its job of pausing cell cycle progression and
-initiating cell death. When p53 is less effective, an uncontrolled
+effective at doing its job of pausing cell cycle progression when needed
+and initiating cell death. When p53 is less effective, an uncontrolled
 overgrowth of cells is more likely to occur.
+
+\hypertarget{b-2}{%
+\subparagraph{B}\label{b-2}}
 
 \end{document}
