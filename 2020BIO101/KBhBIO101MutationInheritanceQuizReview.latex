@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12082)}}    % original
-%\rhead{\textrmlf{Compiled }\#12082\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12083)}}    % original
+%\rhead{\textrmlf{Compiled }\#12083\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -207,22 +207,21 @@ is called the {[}{[}KBhBIO101CellLifecycle{]}{]}! }
   However {[}{[}KBhBIO101Mutations{]}{]} could cause cancer if left
   unchecked, so we have {[}{[}KBhBIO101CellCycleRegulation{]}{]} to keep
   this cycle check.
-\item
-  At the end of the cell cycle, a little bit of a thing happens where
-  the cell replicates (or makes offsprings, so not necessarily exact
-  copies of) itself. This bit of a thing's called
-  {[}{[}KBhBIO101CellReproduction{]}{]}.
+\end{itemize}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    This reproduction process uses one of either
-    {[}{[}KBhBIO101Mitosis{]}{]} (exact copy, for somatic cells (not
-    sperm/egg) only) or
-  \item
-    {[}{[}KBhBIO101Meiosis{]}{]} (half, randomly-mixed genetic info, for
-    gametes (sperm/egg) only).
-  \end{itemize}
+\textbf{At the end of the cell cycle, a little bit of a thing happens
+where the cell replicates (or makes offsprings, so not necessarily exact
+copies of) itself. This bit of a thing's called
+{[}{[}KBhBIO101CellReproduction{]}{]}.}
+
+\begin{itemize}
+\item
+  This reproduction process uses one of either
+  {[}{[}KBhBIO101Mitosis{]}{]} (exact copy, for somatic cells (not
+  sperm/egg) only) or
+\item
+  {[}{[}KBhBIO101Meiosis{]}{]} (half, randomly-mixed genetic info, for
+  gametes (sperm/egg) only).
 \item
   The organization of the human genome:
 
