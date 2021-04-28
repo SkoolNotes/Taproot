@@ -18,7 +18,7 @@ author: Houjun Liu
 - [[KBhBIO101Meiosis]] (half, randomly-mixed genetic info, for gametes (sperm/egg) only).
 
 ## Genetics and Inheritance
-Un
+[[KBhBIO101GeneticVariation]] is like, really good. 
 
 -   Connecting sequence variation at the DNA level to protein function
 -   Connecting protein function to expressed traits in organisms
