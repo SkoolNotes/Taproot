@@ -90,7 +90,7 @@ Thus, their is a 50% chance of having hemophilia.
 ## 3
 ##### A
 
-P53 most likely has a loss of function mutation, making it less effective at doing its job of pausing cell cycle progression and initiating cell death. Without these functions, 
+P53 most likely has a loss of function mutation, making it less effective at doing its job of pausing cell cycle progression and initiating cell death. Without these functions, an uncontrolled overgrowth of cells is more likely to occur.
 	
 	
 	
