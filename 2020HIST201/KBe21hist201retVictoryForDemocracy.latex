@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12230)}}    % original
-%\rhead{\textrmlf{Compiled }\#12230\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12232)}}    % original
+%\rhead{\textrmlf{Compiled }\#12232\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -288,5 +288,19 @@ east}\label{mandates-and-the-middle-east}}
 
 \hypertarget{list-the-countries}{%
 \subsubsection{list the countries}\label{list-the-countries}}
+
+\begin{enumerate}
+\item
+  Syria
+\item
+  Lebanon
+
+  \begin{enumerate}
+  \item
+    created by the french 'just enough territyory to make it
+    economically viable and strategically useful, but not enough to
+    threaten Christian dominence' Gelvin 191
+  \end{enumerate}
+\end{enumerate}
 
 \end{document}
