@@ -121,7 +121,7 @@
 
 
 \newcommand{\thecourse}{ BIO201 }
-\newcommand{\thelesson}{ Addons }
+\newcommand{\thelesson}{ The Quiz! }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12203)}}    % original
-%\rhead{\textrmlf{Compiled }\#12203\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12204)}}    % original
+%\rhead{\textrmlf{Compiled }\#12204\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,22 +185,12 @@
 
 % DID YOU SET SPELL????
 
-\#flo \#ref \#ret \#disorganized \#incomplete
+\#ref \#ret
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{here-we-go}{%
-\section{here we go}\label{here-we-go}}
-
-the test:
-
-**
-
-Biology 101
-
-Assessment \#1
-
-4/28/21
+\hypertarget{begin}{%
+\section{begin!}\label{begin}}
 
 Honor Code
 
@@ -217,13 +207,6 @@ learn best by authentically engaging with the assessment rather than
 searching for answers on the internet or from my friends. I understand
 that I will be offered a reassessment opportunity if I need it. I affirm
 that I, Huxley Marvit, have read this honor code and will abide by it.
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  PKU
-\end{enumerate}
 
 \hypertarget{section}{%
 \subsection{1}\label{section}}
