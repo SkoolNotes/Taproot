@@ -80,9 +80,11 @@ Meiosis produces haploid cells with only 23 singular 2-chromatid chromosomes. Th
 ##### C
 woman: xX, man: XY
 
-For their child to be male, the man has to pass down his Y, leaving 
+For their child to be male, the man has to pass down his Y, leaving options:
 
+xY, XY.
 
+50% chance of having hemopliliaj
 
 
 
