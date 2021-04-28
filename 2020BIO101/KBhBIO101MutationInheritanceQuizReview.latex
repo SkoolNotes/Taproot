@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12131)}}    % original
-%\rhead{\textrmlf{Compiled }\#12131\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12132)}}    % original
+%\rhead{\textrmlf{Compiled }\#12132\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -238,7 +238,12 @@ bears and instead simply introduces genetic variation if not doing
 nothing at all.
 
 Organisms have different traits, and through
-{[}{[}KBhBIO101Meiosis{]}{]} these traits are mi
+{[}{[}KBhBIO101Meiosis{]}{]} these traits are mixed. But! which one of
+these traits are expressed (dad passed blue-eye, mom passed red-eye,
+which one expressed?)? Well, find out at
+{[}{[}KBhBIO101Inheritance{]}{]}.
+
+Specifically, the mixture of a ``heterozygous'' of
 
 \begin{itemize}
 \tightlist
