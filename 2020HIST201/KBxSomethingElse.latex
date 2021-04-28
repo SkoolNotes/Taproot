@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12136)}}    % original
-%\rhead{\textrmlf{Compiled }\#12136\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12137)}}    % original
+%\rhead{\textrmlf{Compiled }\#12137\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -219,5 +219,9 @@ Support and service bundles that help you manage and improve your Gatsby
 sites and apps.
 
 freedom
+
+idk
+
+technology
 
 \end{document}
