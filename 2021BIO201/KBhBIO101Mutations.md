@@ -1,5 +1,13 @@
 ---
-title: Mutatio
+title: Mutations
+source: KBhBIO101MutationsAllealsInheritance
+course: BIO101
+author: Houjun Liu
+---
+
+# Mutations
+Mutations are one way by which totally random, not controlled fo
+
 you are probably looking for [[KBhBIO101MutationsAllealsInheritance]]. 
 
 
