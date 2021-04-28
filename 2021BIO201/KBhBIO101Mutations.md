@@ -10,6 +10,9 @@ Mutations are one way by which totally random, not controlled for, and fully spo
 
 ![Pasted image 20210331134011.png](./Pasted image 20210331134011.png)
 
+Lot's of things cause mutations! 
+![](Pasted%20image%2020210423132309.png)
+
 To figure out how mutations work, you first need to know how DNA looks like, so here goes a...
 
 ***
@@ -25,16 +28,11 @@ So if a mutation replaces adenine and guanine, it would has less of an effect be
 Thank you for coming to this assembly. You could leave now.
 ***
 
-Lot's of things cause mutations! 
-![](Pasted%20image%2020210423132309.png)
-
-***
+## Mutation Vocab
 
 **Trait**: characteristic of organism influnenced by its genes & modified by its enviroment
 
 **Phenotype**: a collective subset of all the traits ("that looks different from wild type") in an organism
-
-Changes in gene structure cause a lack of sythesis for purple pigment
 
 ***
 

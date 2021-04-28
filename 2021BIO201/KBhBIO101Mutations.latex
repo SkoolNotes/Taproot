@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12109)}}    % original
-%\rhead{\textrmlf{Compiled }\#12109\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12110)}}    % original
+%\rhead{\textrmlf{Compiled }\#12110\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -204,6 +204,9 @@ supposed-to-be-exact copy of DNA.
 \caption{Pasted image 20210331134011.png}
 \end{figure}
 
+Lot's of things cause mutations!
+\includegraphics{Pasted image 20210423132309.png}
+
 To figure out how mutations work, you first need to know how DNA looks
 like, so here goes a\ldots{}
 
@@ -230,18 +233,14 @@ match.
 
 Thank you for coming to this assembly. You could leave now. ***
 
-Lot's of things cause mutations!
-\includegraphics{Pasted image 20210423132309.png}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{mutation-vocab}{%
+\subsection{Mutation Vocab}\label{mutation-vocab}}
 
 \textbf{Trait}: characteristic of organism influnenced by its genes \&
 modified by its enviroment
 
 \textbf{Phenotype}: a collective subset of all the traits (``that looks
 different from wild type'') in an organism
-
-Changes in gene structure cause a lack of sythesis for purple pigment
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
