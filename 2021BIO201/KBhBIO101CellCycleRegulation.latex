@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12092)}}    % original
-%\rhead{\textrmlf{Compiled }\#12092\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12093)}}    % original
+%\rhead{\textrmlf{Compiled }\#12093\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -196,27 +196,26 @@ The Problem: \textbf{Cells need to know whence to divide itself.}
 \subsection{Cell Cycle Regulators}\label{cell-cycle-regulators}}
 
 \hypertarget{drivers}{%
-\subsubsection{Drivers**}\label{drivers}}
+\subsubsection{Drivers}\label{drivers}}
 
 =\textgreater{} Drivers tell cells when to divide. The processes that
 move a cell forward through its life are called ``drivers''.
 
-Drivers consists of two parts: a switch + a cyclin. A ``switch'' turns
+Drivers consists of two parts: a switch + a cyclin. A ``switch'' ---
+informed by environmental factors and checkpoints (see below) --- turns
 on a ``cyclin'' protein this cyclin protein actually drive cell forward.
+
+\hypertarget{checkpoints-regulate-drivers-actions}{%
+\subsubsection{Checkpoints regulate drivers'
+actions}\label{checkpoints-regulate-drivers-actions}}
 
 \begin{itemize}
 \tightlist
 \item
-  Checkpoints regulate drivers' actions
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Should the cells not meet the requirements of a checkpoint, its
-    driver would be stopped; and/or
-  \item
-    It will be called to self-destruct
-  \end{itemize}
+  Should the cells not meet the requirements of a checkpoint, its driver
+  would be stopped; and/or
+\item
+  It will be called to self-destruct
 \end{itemize}
 
 \hypertarget{cell-cycle-checkpoints}{%

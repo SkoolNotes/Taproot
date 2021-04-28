@@ -9,15 +9,14 @@ course: BIO101
 The Problem: **Cells need to know whence to divide itself.**
 
 ## Cell Cycle Regulators
-### Drivers**
-
+### Drivers
 => Drivers tell cells when to divide. The processes that move a cell forward through its life are called "drivers".
 
-Drivers consists of two parts: a switch + a cyclin. A "switch" turns on a "cyclin" protein this cyclin protein actually drive cell forward.
+Drivers consists of two parts: a switch + a cyclin. A "switch" — informed by environmental factors and checkpoints (see below) — turns on a "cyclin" protein this cyclin protein actually drive cell forward.
 
-* Checkpoints regulate drivers' actions
-	* Should the cells not meet the requirements of a checkpoint, its driver would be stopped; and/or 
-	* It will be called to self-destruct
+### Checkpoints regulate drivers' actions
+* Should the cells not meet the requirements of a checkpoint, its driver would be stopped; and/or 
+* It will be called to self-destruct
 
 ### Cell-cycle checkpoints
 * **G1/S Checkpoint** (After S) — external factors and growth factors (nutrients, raw material, DNA damage) , along with measurements of the volume, shape of the cell and the duplicated DNA, ensure that the pre-G2 cell is intact and healthy before moving onto G2
