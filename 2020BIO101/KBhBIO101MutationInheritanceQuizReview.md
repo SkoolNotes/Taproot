@@ -7,8 +7,10 @@ author: Houjun Liu
 
 # Mutation and Inheritance
 ## Cell Division, Cell Cycle & It's Regulation
-- Each cell lives and reproduced on a cycle; unsurprisingly, this is called the [[KBhBIO101CellLifecycle]]! 
-	- These cell cycles create [[geneticvari]]
+**Each cell lives and reproduced on a cycle; unsurprisingly, this is called the [[KBhBIO101CellLifecycle]]! **
+
+- These cell cycles create [[KBhBIO101GeneticVariation]], even in [[KBhBIO101Mitosis]], because yes!, in mitosis, there could be [[KBhBIO101Mutations]] which introduce variation
+- However [[KBhBIO101Mutations]] could cause cancer if left unchecked, so we have [[KBhBIO101CellCycleRegulation]] to keep this cycle check.
 - At the end of the cell cycle, a little bit of a thing happens where the cell replicates (or makes offsprings, so not necessarily exact copies of) itself. This bit of a thing's called [[KBhBIO101CellReproduction]]. 
 	- This reproduction process uses one of either [[KBhBIO101Mitosis]] (exact copy, for somatic cells (not sperm/egg) only) or 
 	- [[KBhBIO101Meiosis]] (half, randomly-mixed genetic info, for gametes (sperm/egg) only).

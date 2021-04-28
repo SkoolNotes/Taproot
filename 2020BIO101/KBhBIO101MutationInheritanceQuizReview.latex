@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12081)}}    % original
-%\rhead{\textrmlf{Compiled }\#12081\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12082)}}    % original
+%\rhead{\textrmlf{Compiled }\#12082\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -194,17 +194,19 @@
 \subsection{Cell Division, Cell Cycle \& It's
 Regulation}\label{cell-division-cell-cycle-its-regulation}}
 
+\textbf{Each cell lives and reproduced on a cycle; unsurprisingly, this
+is called the {[}{[}KBhBIO101CellLifecycle{]}{]}! }
+
 \begin{itemize}
 \tightlist
 \item
-  Each cell lives and reproduced on a cycle; unsurprisingly, this is
-  called the {[}{[}KBhBIO101CellLifecycle{]}{]}!
-
-  \begin{itemize}
-  \tightlist
-  \item
-    These cell cycles create {[}{[}geneticvari{]}{]}
-  \end{itemize}
+  These cell cycles create {[}{[}KBhBIO101GeneticVariation{]}{]}, even
+  in {[}{[}KBhBIO101Mitosis{]}{]}, because yes!, in mitosis, there could
+  be {[}{[}KBhBIO101Mutations{]}{]} which introduce variation
+\item
+  However {[}{[}KBhBIO101Mutations{]}{]} could cause cancer if left
+  unchecked, so we have {[}{[}KBhBIO101CellCycleRegulation{]}{]} to keep
+  this cycle check.
 \item
   At the end of the cell cycle, a little bit of a thing happens where
   the cell replicates (or makes offsprings, so not necessarily exact
