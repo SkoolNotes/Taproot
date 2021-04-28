@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12170)}}    % original
-%\rhead{\textrmlf{Compiled }\#12170\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12171)}}    % original
+%\rhead{\textrmlf{Compiled }\#12171\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -292,6 +292,14 @@ pp, (p1p1) -\textgreater{} p pp, (p1p2) -\textgreater{} p Pp, (Pp1)
   allosteric site (an enzyme site that is not directly involved in
   breaking down phenylalanine), leading to a 40\% reduction in the rate
   of enzyme activity.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    40\% reduction is not near-complete, and thus would most likely be
+    classified as ``mild PKU''
+  \end{enumerate}
 \end{enumerate}
 
 \end{document}
