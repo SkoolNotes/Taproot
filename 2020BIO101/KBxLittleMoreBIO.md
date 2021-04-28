@@ -66,7 +66,7 @@ Pp, (Pp2) -> P
 
 ## 2
 
-Most woman have two X chromosomes, whereas most men have a X chromosome and a Y chromosome. Since hemophilia is located on the X chromosome, 
+Most woman have two X chromosomes, whereas most men have a X chromosome and a Y chromosome. Since hemophilia is located on the X chromosome, in men, it doesn't have a chance to be not expr
 
 	
 	
