@@ -21,7 +21,7 @@ coc - tailwind
 [https://tailwindcss.com/](https://tailwindcss.com/ "https://tailwindcss.com/")
 
 chackra
-
+https://eastonfin.com/
 
 pictures: https://drive.google.com/drive/folders/1Fl9yKuLJ4QB7X7hz5Pd1NYlzTuy0rCP_
 logos: https://drive.google.com/drive/folders/1K61YXn3kKastC4yqvXFfvgF8K0tBw_3W
