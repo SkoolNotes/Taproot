@@ -44,10 +44,10 @@ In any combination, their would not be two mutant PAH alleles. Thus, the child w
 ##### B
 child: pP, partner: pp	
 	
-pp,
-pp,
-Pp,
-Pp
+pp, (p1p1) -> p
+pp, (p1p2) -> p
+Pp, (Pp1) -> P
+Pp, (Pp2)
 	
 	
 	

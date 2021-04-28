@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12161)}}    % original
-%\rhead{\textrmlf{Compiled }\#12161\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12162)}}    % original
+%\rhead{\textrmlf{Compiled }\#12162\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -240,6 +240,7 @@ of having the disorder.
 
 child: pP, partner: pp
 
-pp, pp, Pp, Pp
+pp, (p1p1) -\textgreater{} p pp, (p1p2) -\textgreater{} p Pp, (Pp1)
+-\textgreater{} P Pp, (Pp2)
 
 \end{document}
