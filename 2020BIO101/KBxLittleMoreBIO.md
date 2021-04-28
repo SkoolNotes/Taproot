@@ -73,7 +73,7 @@ Most woman have two X chromosomes, whereas most men have a X chromosome and a Y 
 
 Mitosis produces exact copys
 
-
+Somatic cells, carrying 23 pairs of chromosomes, have all the genetic information. Mitosis copies all of this. Thus, they will contain the hemophilia-associated allele. 
 	
 	
 	
