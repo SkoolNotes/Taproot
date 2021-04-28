@@ -36,9 +36,11 @@ Easton Financial (“Easton”) is dedicated to help bring the freedom that come
 
 Support and service bundles that help you manage and improve your Gatsby sites and apps.
 
+
 freedom 
 
-idk
+accessability 
+
 
 technology
 
