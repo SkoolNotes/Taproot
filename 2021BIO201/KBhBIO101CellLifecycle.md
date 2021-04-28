@@ -28,6 +28,8 @@ To compensate for programmed cell death, (cell division) happen.
 [[KBhBIO101CellReproduction]]
 
 ## The (actual) Cell Cycle
+[[KBhBIO101CellCycle]]
+
 The cell cycle is roughly three parts which is really 5 parts which is really 9 parts.
 
 The three main parts are
