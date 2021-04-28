@@ -16,6 +16,8 @@ Honor Code
 
 I, Huxley Marvit, affirm that I will only utilize the internet during this assessment for the purpose of accessing my class notes and documents linked on the class Canvas site. I will close all other internet browser windows before beginning the assessment. I will not use any other resources, including using search engines to look up terms. I will not discuss the assessment with anyone but Jehnna, including after it’s completed. If I am confused about wording or terminology used on the assessment, I will reference the allowed materials and/or ask Jehnna to clarify by sending a private zoom message to her. I agree that I will learn best by authentically engaging with the assessment rather than searching for answers on the internet or from my friends. I understand that I will be offered a reassessment opportunity if I need it. I affirm that I, Huxley Marvit, have read this honor code and will abide by it. 
 
+---
+
 ## 1
 ##### A
 mom: pp, dad: PP
@@ -44,6 +46,7 @@ Pp, (Pp2) -> P
 4. **A missense mutation that changes an amino acid in an allosteric site (an enzyme site that is not directly involved in breaking down phenylalanine), leading to a 40% reduction in the rate of enzyme activity.**
 	1. 40% reduction is not near-complete, and would most likely be classified as "mild PKU"
 
+--- 
 
 ## 2
 
@@ -67,6 +70,8 @@ For their child to be male, the man has to pass down his Y, leaving options:
 xY, XY.
 
 Thus, their is a 50% chance of hemophilia.
+
+---
 
 ## 3
 ##### A
