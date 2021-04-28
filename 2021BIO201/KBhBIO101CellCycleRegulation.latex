@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12091)}}    % original
-%\rhead{\textrmlf{Compiled }\#12091\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12092)}}    % original
+%\rhead{\textrmlf{Compiled }\#12092\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -195,7 +195,8 @@ The Problem: \textbf{Cells need to know whence to divide itself.}
 \hypertarget{cell-cycle-regulators}{%
 \subsection{Cell Cycle Regulators}\label{cell-cycle-regulators}}
 
-\textbf{Drivers}
+\hypertarget{drivers}{%
+\subsubsection{Drivers**}\label{drivers}}
 
 =\textgreater{} Drivers tell cells when to divide. The processes that
 move a cell forward through its life are called ``drivers''.
@@ -219,7 +220,7 @@ on a ``cyclin'' protein this cyclin protein actually drive cell forward.
 \end{itemize}
 
 \hypertarget{cell-cycle-checkpoints}{%
-\subsection{Cell-cycle checkpoints}\label{cell-cycle-checkpoints}}
+\subsubsection{Cell-cycle checkpoints}\label{cell-cycle-checkpoints}}
 
 \begin{itemize}
 \tightlist
