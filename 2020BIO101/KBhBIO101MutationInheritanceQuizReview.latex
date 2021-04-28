@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12083)}}    % original
-%\rhead{\textrmlf{Compiled }\#12083\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12099)}}    % original
+%\rhead{\textrmlf{Compiled }\#12099\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -215,6 +215,7 @@ copies of) itself. This bit of a thing's called
 {[}{[}KBhBIO101CellReproduction{]}{]}.}
 
 \begin{itemize}
+\tightlist
 \item
   This reproduction process uses one of either
   {[}{[}KBhBIO101Mitosis{]}{]} (exact copy, for somatic cells (not
@@ -222,28 +223,13 @@ copies of) itself. This bit of a thing's called
 \item
   {[}{[}KBhBIO101Meiosis{]}{]} (half, randomly-mixed genetic info, for
   gametes (sperm/egg) only).
-\item
-  The organization of the human genome:
+\end{itemize}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    The idea that genes and regulatory sequences are located on
-    chromosomes
-  \item
-    The concept of alleles: what they are, their relation to genes and
-    traits
-  \end{itemize}
-\item
-  The types of reproduction and how they relate to genetic variation.
-  Asexual vs sexual reproduction
+\hypertarget{genetics-and-inheratence}{%
+\subsection{Genetics and Inheratence}\label{genetics-and-inheratence}}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Mechanisms for genetic variation in offspring as compared to asexual
-    reproduction
-  \end{itemize}
+\begin{itemize}
+\tightlist
 \item
   Genetics and inheritance
 

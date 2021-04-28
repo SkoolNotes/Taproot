@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12098)}}    % original
-%\rhead{\textrmlf{Compiled }\#12098\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12099)}}    % original
+%\rhead{\textrmlf{Compiled }\#12099\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -243,6 +243,6 @@ Here are some common checkpoints:
 \end{itemize}
 
 Growth Factors that the cells measure: the 1) Size of the cell 2) the
-nutritional state of the cell
+nutritional state of the cell.
 
 \end{document}

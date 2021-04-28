@@ -30,4 +30,4 @@ Here are some common checkpoints:
 * **G2/M Checkpoint** (After G2) — before mitosis, check that the cell has correctly duplicated parts and tools needed for replication
 * **Spindle Checkpoint** — checking for the attachment of all kineticores to the spindles such that all the chromasomes could be correctly lined up and seperated later
 
-Growth Factors that the cells measure: the 1) Size of the cell 2) the nutritional state of the cell
+Growth Factors that the cells measure: the 1) Size of the cell 2) the nutritional state of the cell.

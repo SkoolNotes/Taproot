@@ -18,12 +18,7 @@ author: Houjun Liu
 - [[KBhBIO101Meiosis]] (half, randomly-mixed genetic info, for gametes (sperm/egg) only).
 
 
-
--   The organization of the human genome:
-	-   The idea that genes and regulatory sequences are located on chromosomes
-	-   The concept of alleles: what they are, their relation to genes and traits
--   The types of reproduction and how they relate to genetic variation. Asexual vs sexual reproduction
-	-   Mechanisms for genetic variation in offspring as compared to asexual reproduction
+## Genetics and Inheratence
 -   Genetics and inheritance
 	-   Connecting sequence variation at the DNA level to protein function
 	-   Connecting protein function to expressed traits in organisms
