@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12119)}}    % original
-%\rhead{\textrmlf{Compiled }\#12119\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12120)}}    % original
+%\rhead{\textrmlf{Compiled }\#12120\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -234,12 +234,11 @@ happens.
 
 DNA's sequence could vary by itself, and that will cause a
 {[}{[}KBhBIO101Mutations{]}{]}, which is actually very rarely bad news
-bears.
+bears and instead simply introduces genetic variation if not doing
+nothing at all.
 
 \begin{itemize}
 \tightlist
-\item
-  Connecting sequence variation at the DNA level to protein function
 \item
   Connecting protein function to expressed traits in organisms
 
