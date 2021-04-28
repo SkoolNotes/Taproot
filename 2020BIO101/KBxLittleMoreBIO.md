@@ -94,21 +94,5 @@ Given that p53 is a negative regulator, it most likely has a loss of function mu
 	
 ##### B	
 
-Given that RET is a positive regulator, MEN2 mutations would most likely cause a gain of function. The RET protein would be more prone to signaling for cell progression, pushing cell division forward before everything is necessarily ready. This would increase the likelyhood of 
+Given that RET is a positive regulator, MEN2 mutations would most likely cause a gain of function. The RET protein would be more prone to signaling for cell progression, pushing cell division forward before everything is necessarily ready. This would increase the likelihood of cancer.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
