@@ -94,7 +94,9 @@ Given that p53 is a negative regulator, it most likely has a loss of function mu
 	
 ##### B	
 
-Given taht MEN2 Mutation
+Given that 
+
+MEN2 Mutation
 
 
 
