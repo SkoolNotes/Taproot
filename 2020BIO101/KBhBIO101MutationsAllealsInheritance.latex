@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12032)}}    % original
-%\rhead{\textrmlf{Compiled }\#12032\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12103)}}    % original
+%\rhead{\textrmlf{Compiled }\#12103\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -190,141 +190,7 @@
 \hypertarget{dna-mutations}{%
 \section{DNA Mutations}\label{dna-mutations}}
 
-\begin{figure}
-\centering
-\includegraphics{./Pasted image 20210331134011.png}
-\caption{Pasted image 20210331134011.png}
-\end{figure}
-
-Pyrimides - cytosine + thymine. Single ring.
-
-These are usually paired up with
-
-Purines - adenine + guanine. Double ring.
-
-So if a mutation replaces adenine and guanine, it would has less of an
-effect because a double ring is still matched with a single ring. But if
-an adenine is replaced by thymine, we could have a bigger isuue because
-double-double ring is much longer than a traditional single/double
-match.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-Lot's of things cause mutations!
-\includegraphics{Pasted image 20210423132309.png}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\textbf{Trait}: characteristic of organism influnenced by its genes \&
-modified by its enviroment
-
-\textbf{Phenotype}: a collective subset of all the traits (``that looks
-different from wild type'') in an organism
-
-Changes in gene structure cause a lack of sythesis for purple pigment
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\includegraphics{Pasted image 20210423131153.png}
-
-Mutant hemoglobin could\ldots{} 1) with one mutation, cause a slight
-change in the RBC but cause resistance to malaria 2) with two mutation,
-cause sickle-cell.
-
-Remember that DNA codes for proteins, so mutations in DNA will cause
-different proteins BUT not necessarily different traits. In the case of
-1-chromasome sickle-cell mutation, a protein is changed but the result
-is not nocessarily a different RBC.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{types-of-mutations}{%
-\subsection{Types of Mutations}\label{types-of-mutations}}
-
-\hypertarget{by-place}{%
-\subsubsection{By Place}\label{by-place}}
-
-\textbf{Germline mutations} mutate the egg/cell causes no/local problems
-but pass the mutated gene down to the children fully
-
-\textbf{Somatic mutations} mutated somatic cell causes local mutations
-that does not influence much (cancer, but)
-
-\hypertarget{by-method}{%
-\subsubsection{By Method}\label{by-method}}
-
-\textbf{Point mutations}
-
-Change one codon on the gene and potentially cause something.
-
-\begin{itemize}
-\tightlist
-\item
-  Slient mutation: has no effect on protein
-\item
-  Missense: result in amino acid substitution
-\item
-  Nonsense: substitutes a stop codon for an amino acid
-\end{itemize}
-
-\textbf{Indel/Frameshift mutation}
-
-Shift by adding/substracting codons and shift the gene. Everything
-downstream to the point of mutation will be completely incorrect.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{mutations-in-other-places}{%
-\subsection{Mutations in other places}\label{mutations-in-other-places}}
-
-\textbf{Promoter/Enhancer mutation}: control the level of expression for
-genes, which could relate to cancer (over-activation) or a protein
-deficiency (lack of activation)
-
-\textbf{Splice donor and acceptor site mutation}: including extra intron
-or cutting out required exon
-
-\textbf{Ribosome binding sites}: prevents the ribosome from binding
-
-\hypertarget{large-scale-dna-changes}{%
-\subsection{Large scale DNA changes}\label{large-scale-dna-changes}}
-
-Taking whole chunks of DNA or swapping them; usually caused by your DNA
-wholly breaking (Radioactivity? Incorrectly functioning enzymes?) and
-then your repair machinary stitching it up wrongly.
-
-\includegraphics{Pasted image 20210423135639.png}
-
-\hypertarget{impacts-of-mutations}{%
-\subsection{Impacts of mutations}\label{impacts-of-mutations}}
-
-\textbf{Loss of function mutations}
-
-\begin{itemize}
-\tightlist
-\item
-  Complete loss of a proteins
-\item
-  Reduction of a protein's ability to function
-\end{itemize}
-
-\textbf{Gain of function mutations}
-
-\begin{itemize}
-\tightlist
-\item
-  Increase the function of a protein
-\item
-  Aquire new protein function
-\item
-  Expression of protein in new location/time
-\end{itemize}
-
-\textbf{Neutral function}
-
-Does nothing
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+{[}{[}KBhBIO101Mutations{]}{]}
 
 \hypertarget{protein-signals-for-cell-growth}{%
 \subsection{Protein Signals for Cell

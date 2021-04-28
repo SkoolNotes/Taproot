@@ -20,6 +20,8 @@ author: Houjun Liu
 ## Genetics and Inheritance
 [[KBhBIO101GeneticVariation]] is like, really good. However, its woefully complicated and there are at least 3 ways I think of that it happens. 
 
+
+
 -   Connecting sequence variation at the DNA level to protein function
 -   Connecting protein function to expressed traits in organisms
 	-   Given an individual with two particular alleles of a gene, what trait would you expect to see.
