@@ -53,7 +53,14 @@ Pp, (Pp2) -> P
 	
 ## 2	
 
+1. **A promoter mutation that reduces expression of PAH protein to 50% of normal levels.**
 
+2. **A missense mutation that changes an amino acid in the PAH enzyme’s active site, preventing any phenylalanine from binding there.**
+
+3.  **A frameshift mutation very early in the coding sequence of the PAH gene.**
+
+4. **A missense mutation that changes an amino acid in an allosteric site (an enzyme site that is not directly involved in breaking down phenylalanine), leading to a 40% reduction in the rate of enzyme activity.**
+    
 
 
 

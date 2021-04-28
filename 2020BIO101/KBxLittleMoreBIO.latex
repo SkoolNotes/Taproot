@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12163)}}    % original
-%\rhead{\textrmlf{Compiled }\#12163\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12164)}}    % original
+%\rhead{\textrmlf{Compiled }\#12164\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -247,5 +247,24 @@ pp, (p1p1) -\textgreater{} p pp, (p1p2) -\textgreater{} p Pp, (Pp1)
 
 \hypertarget{section-1}{%
 \subsection{2}\label{section-1}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{A promoter mutation that reduces expression of PAH protein to
+  50\% of normal levels.}
+\item
+  \textbf{A missense mutation that changes an amino acid in the PAH
+  enzyme's active site, preventing any phenylalanine from binding
+  there.}
+\item
+  \textbf{A frameshift mutation very early in the coding sequence of the
+  PAH gene.}
+\item
+  \textbf{A missense mutation that changes an amino acid in an
+  allosteric site (an enzyme site that is not directly involved in
+  breaking down phenylalanine), leading to a 40\% reduction in the rate
+  of enzyme activity.}
+\end{enumerate}
 
 \end{document}
