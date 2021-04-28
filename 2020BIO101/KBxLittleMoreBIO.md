@@ -37,3 +37,5 @@ I, Huxley Marvit, affirm that I will only utilize the internet during this asses
 	a. 
 	m: pp, d: PP
 	pP -> P
+	
+	In any combination, their would not be two mutant PKU
