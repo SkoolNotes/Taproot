@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12113)}}    % original
-%\rhead{\textrmlf{Compiled }\#12113\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12114)}}    % original
+%\rhead{\textrmlf{Compiled }\#12114\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -195,15 +195,16 @@
 
 \textbf{Germline mutations} mutate the egg/cell's causes no/local
 problems but pass the mutated gene down to the children fully through
-cells.
+gametes.
 
 \textbf{Somatic mutations} mutated somatic cell causes local mutations
-that does not influence much (cancer, but)
+that does not influence much (cancer, but like shhh).
 
 \hypertarget{by-method}{%
-\subsubsection{By Method}\label{by-method}}
+\subsection{By Method}\label{by-method}}
 
-\textbf{Point mutations}
+\hypertarget{point-mutations}{%
+\subsubsection{Point mutations}\label{point-mutations}}
 
 Change one codon on the gene and potentially cause something.
 
@@ -217,7 +218,9 @@ Change one codon on the gene and potentially cause something.
   Nonsense: substitutes a stop codon for an amino acid
 \end{itemize}
 
-\textbf{Indel/Frameshift mutation}
+\hypertarget{indelframeshift-mutation}{%
+\subsubsection{Indel/Frameshift
+mutation}\label{indelframeshift-mutation}}
 
 Shift by adding/substracting codons and shift the gene. Everything
 downstream to the point of mutation will be completely incorrect.

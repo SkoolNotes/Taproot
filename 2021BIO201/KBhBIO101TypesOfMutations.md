@@ -7,21 +7,19 @@ course: BIO101
 
 # Types of Mutations
 ## By Place
-**Germline mutations** mutate the egg/cell's causes no/local problems but pass the mutated gene down to the children fully through cells.
+**Germline mutations** mutate the egg/cell's causes no/local problems but pass the mutated gene down to the children fully through gametes.
 
-**Somatic mutations** mutated somatic cell causes local mutations that does not influence much (cancer, but)
+**Somatic mutations** mutated somatic cell causes local mutations that does not influence much (cancer, but like shhh).
 
-### By Method
-**Point mutations**
-
+## By Method
+### Point mutations
 Change one codon on the gene and potentially cause something.
 
 - Slient mutation: has no effect on protein
 - Missense: result in amino acid substitution
 - Nonsense: substitutes a stop codon for an amino acid
 
-**Indel/Frameshift mutation**
-
+### Indel/Frameshift mutation
 Shift by adding/substracting codons and shift the gene. Everything downstream to the point of mutation will be completely incorrect.
 
 ## Mutations in other places
