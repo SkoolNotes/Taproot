@@ -88,8 +88,9 @@ Thus, their is a 50% chance of having hemophilia.
 
 
 ## 3
+##### A
 
-
+P53 most likely has a loss of function mutation, making it 
 	
 	
 	
