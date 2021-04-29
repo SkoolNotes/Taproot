@@ -69,4 +69,4 @@ $$\begin{aligned}
  &= \frac{e}{2} ( \sin  1 - \cos  1 ) + \frac{1}{2}
   \end{aligned}$$
 
-\*
+# $\int_{0}^{1} \frac{x^3}{\sqrt{4+x}} dx$
