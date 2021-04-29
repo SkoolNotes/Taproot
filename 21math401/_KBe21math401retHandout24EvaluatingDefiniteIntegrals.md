@@ -71,7 +71,7 @@ $$\begin{aligned}
 
 # $\int_{0}^{1} \frac{x^3}{\sqrt{4+x}} dx$
 
-Let $u = 4 + x^2$, $du = 2x$
+Let $u = 4 + x^2$, $du = 2xdx$
 
 $$\begin{aligned}
   \int \frac{x^3}{\sqrt{4+x}} dx &=\frac{1}{2}\int  \frac{(u-4)}{\sqrt{u}}du
