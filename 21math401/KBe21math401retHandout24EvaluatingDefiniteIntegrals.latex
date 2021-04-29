@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12291)}}    % original
-%\rhead{\textrmlf{Compiled }\#12291\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12292)}}    % original
+%\rhead{\textrmlf{Compiled }\#12292\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -233,7 +233,7 @@
 Let \(u = \sqrt{x}\), \(du = \frac{1}{2 \sqrt{x}} dx\), \(dx = 2 u du\)
 \[\begin{aligned}
   \int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx &= 2\int u \cos u  du\\
-  &= u \sin  u -\int \sin u du
+  &= 2u \sin  u - 2\int \sin u du
   \end{aligned}\]
 
 \hypertarget{int_1e-sin-ln-x-dx}{%
