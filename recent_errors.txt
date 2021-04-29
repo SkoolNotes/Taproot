@@ -1,5 +1,5 @@
-        Log for attempt at Thu Apr 29 11:10:11 AM PDT 2021 (12347)
-        Thu Apr 29 11:10:11 AM PDT 2021 Converting 21math401/KBe21math401retHandout24EvaluatingDefiniteIntegrals.org...
+        Log for attempt at Thu Apr 29 11:10:51 AM PDT 2021 (12348)
+        Thu Apr 29 11:10:51 AM PDT 2021 Converting 21math401/KBe21math401retHandout24EvaluatingDefiniteIntegrals.org...
 Error producing PDF.
 ! Misplaced alignment tab character &.
 <argument> ...}^{\sqrt {\pi }} \cos \sqrt {x} dx &

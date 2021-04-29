@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12347)}}    % original
-%\rhead{\textrmlf{Compiled }\#12347\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12348)}}    % original
+%\rhead{\textrmlf{Compiled }\#12348\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -295,7 +295,7 @@ Let \(u = 4 + x^2\), \(du = 2xdx\)
 
 \[\begin{aligned}
   \int \sin ^2 x \cos^2 x dx &= \frac{1}{2}\sin ^2x(x + \sin  x \cos  x) - \int \cos ^2 x (x+\sin  x \cos  x) dx\\
-  &= \frac{1}{2}\sin ^2x(x + \sin  x \cos  x) - \int x\cos ^2 x dx + \int x \sin  x \cos  x dx\
+  &= \frac{1}{2}\sin ^2x(x + \sin  x \cos  x) - \int x\cos ^2 x dx + \int x \sin  x \cos^3 x dx\
   \end{aligned}\]
 
 \hypertarget{sin-cb-x-dx}{%
