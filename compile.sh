@@ -21,6 +21,7 @@ echo $buildid > $BUILDNUMBER_FILE
 changes="$(git status --porcelain | cut -c4- | grep -E '(\.md|\.org)$')"
 echo "        Log for attempt at $(date) ($buildid)" > recent_errors.txt
 for f in ${(@f)changes}; do
+    if [[ $f == _*.md ]]
     echo "        $(date) Converting $f..." >> recent_errors.txt
     formatname="$filetype[${f:t:e}]"
     printf "$(date) Converting $f...\r"
