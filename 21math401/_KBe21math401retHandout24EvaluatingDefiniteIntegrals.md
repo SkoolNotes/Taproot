@@ -24,7 +24,7 @@ $$\begin{aligned}
 # [TODO]{.todo .TODO} $\int_{4}^{9} \frac{ \ln  y}{\sqrt{y}} dy$ {#int_49-frac-ln-ysqrty-dy}
 
 $$\begin{aligned}
-  \int \frac{\ln y}{\sqrt{y}} dx &= 2 \ln y \sqrt{y}- \int 2 \frac{1}{y} \sqrt{y} dx
+  \int \frac{\ln y}{\sqrt{y}} dx &= 2 \ln y \sqrt{y}- \int 2 \frac{1}{y} \sqrt{y} dx\\
   2 \sqrt{y}(\ln  y - 2)
   \end{aligned}$$
 
