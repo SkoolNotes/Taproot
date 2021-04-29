@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12332)}}    % original
-%\rhead{\textrmlf{Compiled }\#12332\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12333)}}    % original
+%\rhead{\textrmlf{Compiled }\#12333\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -269,6 +269,9 @@ Let \(u = 4 + x^2\), \(du = 2xdx\)
 
 \hypertarget{additional-problems}{%
 \section{(additional problems)}\label{additional-problems}}
+
+\hypertarget{int-sin2-x-dx}{%
+\section{\texorpdfstring{\(\int \sin^2 x dx\)}{\textbackslash int \textbackslash sin\^{}2 x dx}}\label{int-sin2-x-dx}}
 
 \hypertarget{int-cos2-x-dx}{%
 \section{\texorpdfstring{\(\int cos^2 x  dx\)}{\textbackslash int cos\^{}2 x  dx}}\label{int-cos2-x-dx}}

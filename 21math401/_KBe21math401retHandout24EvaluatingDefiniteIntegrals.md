@@ -80,6 +80,8 @@ $$\begin{aligned}
 
 # (additional problems)
 
+# $\int \sin^2 x dx$
+
 # $\int cos^2 x  dx$
 
 $$\begin{aligned}
