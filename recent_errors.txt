@@ -1,8 +1,8 @@
-        Log for attempt at Thu Apr 29 09:20:27 AM PDT 2021 (12309)
-        Thu Apr 29 09:20:27 AM PDT 2021 Converting 21math401/KBe21math401retHandout24EvaluatingDefiniteIntegrals.org...
+        Log for attempt at Thu Apr 29 09:21:05 AM PDT 2021 (12310)
+        Thu Apr 29 09:21:05 AM PDT 2021 Converting 21math401/KBe21math401retHandout24EvaluatingDefiniteIntegrals.org...
 Error producing PDF.
 ! Misplaced alignment tab character &.
 <argument> ...}^{\sqrt {\pi }} \cos \sqrt {x} dx &
                                                   = x \cos \sqrt {x} +\int x...
-l.233   }
+l.234   }
 
