@@ -68,3 +68,5 @@ $$\begin{aligned}
  \implies &\ \ \ \ \frac{1}{2}e (\sin 1 - \cos  1) - \frac{1}{2} ( \sin  0 - \cos  0)\\
  &= \frac{e}{2} ( \sin  1 - \cos  1 ) + \frac{1}{2}
   \end{aligned}$$
+
+\*
