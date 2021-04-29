@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12248)}}    % original
-%\rhead{\textrmlf{Compiled }\#12248\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12249)}}    % original
+%\rhead{\textrmlf{Compiled }\#12249\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -256,5 +256,9 @@ some content:
 finance \textbar{} ---------- --------- refinance
 
 faq
+
+h1: here to help:
+
+still ahve qestions? contact us
 
 \end{document}
