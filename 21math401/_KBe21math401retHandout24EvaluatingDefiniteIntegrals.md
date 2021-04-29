@@ -28,9 +28,10 @@ $$\begin{aligned}
   2 \sqrt{y}(\ln  y - 2)
   \end{aligned}$$
 
-# [TODO]{.todo .TODO} $\int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx$ {#int_0sqrtpi-cos-sqrtx-dx}
+# $\int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx$
 
 $$\begin{aligned}
+  \xcancel{
   \int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx &= x \cos \sqrt{x} +\int x \frac{1}{2\sqrt{x}} \sin \sqrt{x} dx\\
   &= x \cos \sqrt{x} +\int \frac{\sqrt{x}}{2} \sin \sqrt{x} dx\\
   &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} \int \sin \sqrt{x} dx\\
@@ -39,6 +40,7 @@ $$\begin{aligned}
   &= x \cos \sqrt{x} +\frac{\sqrt{x}}{2} x \sin \sqrt{x} - \frac{x}{4} \int \cos \sqrt{x} dx \\
   \frac{x+4}{4}\int \cos  \sqrt{x} dx &= x \cos  \sqrt{x} + \frac{\sqrt{x}}{2} x \sin  \sqrt{x}\\
   \int \cos  \sqrt{x} dx &= \frac{4x \cos  \sqrt{x} + 2x\sqrt{x} \sin  \sqrt{x}}{x+4}\\
+  }
   \end{aligned}$$
 
 Let $u = \sqrt{x}$, $du = \frac{1}{2 \sqrt{x}} dx$, $dx = 2 u du$
