@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12303)}}    % original
-%\rhead{\textrmlf{Compiled }\#12303\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12304)}}    % original
+%\rhead{\textrmlf{Compiled }\#12304\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -212,6 +212,8 @@
 
 \[\begin{aligned}
   \int \frac{\ln y}{\sqrt{y}} dx &= 2 \ln y \sqrt{y}- \int 2 \frac{1}{y} \sqrt{y} dx\\
+  &=  2 \ln y \sqrt{y}- \int 2 \sqrt{y} dx\\
+  &=  2 \ln y \sqrt{y}- 2 \int \sqrt{y} dx\\
   2 \sqrt{y}(\ln  y - 2)
   \end{aligned}\]
 
