@@ -89,6 +89,6 @@ $$\begin{aligned}
   \int \cos  ^2 x dx &= \frac{1}{2}\cos  x \sin  x + \frac{x}{2}
   \end{aligned}$$
 
-# \$∫ sin^2^ xcos ^2^ x dx \$
+# $\int sin^2 x\cos^2 x dx$
 
 # \$∫ sin cb x dx \$

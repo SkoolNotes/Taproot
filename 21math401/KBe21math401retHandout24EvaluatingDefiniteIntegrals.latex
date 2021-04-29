@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12329)}}    % original
-%\rhead{\textrmlf{Compiled }\#12329\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12330)}}    % original
+%\rhead{\textrmlf{Compiled }\#12330\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -280,10 +280,8 @@ Let \(u = 4 + x^2\), \(du = 2xdx\)
   \int \cos  ^2 x dx &= \frac{1}{2}\cos  x \sin  x + \frac{x}{2}
   \end{aligned}\]
 
-\hypertarget{sin2-xcos-2-x-dx}{%
-\section{\texorpdfstring{\$∫ sin\textsuperscript{2}
-xcos \textsuperscript{2} x dx
-\$}{\$∫ sin2 xcos 2 x dx \$}}\label{sin2-xcos-2-x-dx}}
+\hypertarget{int-sin2-xcos2-x-dx}{%
+\section{\texorpdfstring{\(\int sin^2 x\cos^2 x dx\)}{\textbackslash int sin\^{}2 x\textbackslash cos\^{}2 x dx}}\label{int-sin2-xcos2-x-dx}}
 
 \hypertarget{sin-cb-x-dx}{%
 \section{\$∫ sin cb x dx \$}\label{sin-cb-x-dx}}
