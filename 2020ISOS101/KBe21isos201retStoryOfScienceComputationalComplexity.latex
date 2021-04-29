@@ -135,8 +135,8 @@ Theory }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12250)}}    % original
-%\rhead{\textrmlf{Compiled }\#12250\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12251)}}    % original
+%\rhead{\textrmlf{Compiled }\#12251\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -198,6 +198,9 @@ Theory }
 \hypertarget{httpscomplexityzoo.netpetting_zoo}{%
 \subsubsection{\texorpdfstring{\url{https://complexityzoo.net/Petting_Zoo}}{https://complexityzoo.net/Petting\_Zoo}}\label{httpscomplexityzoo.netpetting_zoo}}
 
+\hypertarget{httpswww.simonsfoundation.org20131213richard-karp}{%
+\subsubsection{\texorpdfstring{\url{https://www.simonsfoundation.org/2013/12/13/richard-karp/}}{https://www.simonsfoundation.org/2013/12/13/richard-karp/}}\label{httpswww.simonsfoundation.org20131213richard-karp}}
+
 \hypertarget{overview}{%
 \section{overview}\label{overview}}
 
@@ -234,6 +237,14 @@ problem}\label{importantly-not-how-good-an-algorithm-is-this-field-deals-with-al
 
 \hypertarget{p-vs-np}{%
 \subsubsection{P vs NP}\label{p-vs-np}}
+
+\hypertarget{richard-karp-the-actual-assignment}{%
+\section{richard karp (the actual
+assignment)}\label{richard-karp-the-actual-assignment}}
+
+\hypertarget{basically-see-richard-karp}{%
+\subsection{basically, see * richard
+karp}\label{basically-see-richard-karp}}
 
 \hypertarget{vocab-and-definitions}{%
 \section{\texorpdfstring{vocab and definitions
@@ -650,10 +661,5 @@ Something about continuous functions or analog logic.
     some other work later on
   \end{enumerate}
 \end{enumerate}
-
-\hypertarget{richard-karp}{%
-\section{richard karp}\label{richard-karp}}
-
-\url{https://www.simonsfoundation.org/2013/12/13/richard-karp/}
 
 \end{document}
