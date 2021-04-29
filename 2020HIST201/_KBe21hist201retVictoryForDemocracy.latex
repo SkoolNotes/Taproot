@@ -1,0 +1,369 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Victory for Democracy Essay }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12268)}}    % original
+%\rhead{\textrmlf{Compiled }\#12268\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{meeting-arta-28-april-2021}{%
+\section{meeting Arta 28 April 2021}\label{meeting-arta-28-april-2021}}
+
+\hypertarget{domestic-politics-some-on-russia-and-some-on-germany}{%
+\subsection{domestic politics, some on russia and some on
+germany}\label{domestic-politics-some-on-russia-and-some-on-germany}}
+
+\hypertarget{russia-kind-of-thought-all-the-other-countries-were-the-same-so-it-didnt-matter-who-won}{%
+\subsection{russia kind of thought all the other countries were the same
+so it didn't matter who
+won}\label{russia-kind-of-thought-all-the-other-countries-were-the-same-so-it-didnt-matter-who-won}}
+
+\hypertarget{imperialism-thus-not-democratic}{%
+\subsection{imperialism, thus not
+democratic}\label{imperialism-thus-not-democratic}}
+
+\hypertarget{britishfrench-werent-more-democratic-than-tsars-or-germany-or-ottoman-empire}{%
+\subsubsection{british/french werent more democratic than tsars or
+germany or ottoman
+empire}\label{britishfrench-werent-more-democratic-than-tsars-or-germany-or-ottoman-empire}}
+
+\hypertarget{imperialism-is-the-highest-stage-of-capitalism-and-thus-not-marxist}{%
+\subsubsection{imperialism is the highest stage of capitalism and thus
+not
+marxist}\label{imperialism-is-the-highest-stage-of-capitalism-and-thus-not-marxist}}
+
+\hypertarget{imperialism-vs-democracy}{%
+\subsection{imperialism vs democracy}\label{imperialism-vs-democracy}}
+
+\hypertarget{gelvin-russia-publicized-the-mandates-see-gelvin}{%
+\subsubsection{gelvin: russia publicized the mandates, see
+gelvin}\label{gelvin-russia-publicized-the-mandates-see-gelvin}}
+
+\hypertarget{woodrow-wilson-also-thought-that-imperialism-was-antidemocratic}{%
+\subsubsection{woodrow wilson also thought that imperialism was
+antidemocratic}\label{woodrow-wilson-also-thought-that-imperialism-was-antidemocratic}}
+
+\hypertarget{believed-that-people-should-have-equal-say}{%
+\subsubsection{believed that people should have equal
+say}\label{believed-that-people-should-have-equal-say}}
+
+\hypertarget{didnt-join-league-of-nations-bc-senate-didnt-want-to-but-wilson-may-have-wanted-to}{%
+\subsubsection{didnt join league of nations bc senate didnt want to, but
+wilson may have wanted
+to}\label{didnt-join-league-of-nations-bc-senate-didnt-want-to-but-wilson-may-have-wanted-to}}
+
+\hypertarget{syria-wanted-to-be-an-american-mandate-in-a-comitte-in-1919}{%
+\subsubsection{syria wanted to be an american mandate (in a comitte in
+1919)}\label{syria-wanted-to-be-an-american-mandate-in-a-comitte-in-1919}}
+
+\hypertarget{body-paragraphs}{%
+\subsection{body paragraphs}\label{body-paragraphs}}
+
+\hypertarget{democracy-won-but-not-that-democratic}{%
+\subsubsection{democracy won but not that
+democratic}\label{democracy-won-but-not-that-democratic}}
+
+\hypertarget{mandates-and-middle-east}{%
+\subsubsection{mandates and middle
+east}\label{mandates-and-middle-east}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  turkey/germany became "democracies"
+\end{enumerate}
+
+\hypertarget{east-asia-japan-takes-german-colonies}{%
+\subsubsection{east asia: japan takes german
+colonies}\label{east-asia-japan-takes-german-colonies}}
+
+\hypertarget{sentence-structures}{%
+\subsection{sentence structures}\label{sentence-structures}}
+
+\hypertarget{developing-your-own-voice-recognize-what-you-like-in-other-peoples-writing}{%
+\subsubsection{developing your own voice: recognize what you like in
+other people's
+writing}\label{developing-your-own-voice-recognize-what-you-like-in-other-peoples-writing}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  see their topic sentences and transitions
+\end{enumerate}
+
+\hypertarget{marxism-leninism}{%
+\section{marxism leninism}\label{marxism-leninism}}
+
+\hypertarget{we-are-in-favor-of-a-democratic-republic-as-the-best-form-of-state-for-the-proletariat-under-capitalism.-but-we-have-no-right-to-forget-that-wage-slavery-is-the-lot-of-the-people-even-in-the-most-democratic-bourgeois-republic.}{%
+\subsection{\texorpdfstring{\sout{We are in favor of a democratic
+republic as the best form of state for the proletariat under capitalism.
+But we have no right to forget that wage slavery is the lot of the
+people even in the most democratic bourgeois
+republic.}}{We are in favor of a democratic republic as the best form of state for the proletariat under capitalism. But we have no right to forget that wage slavery is the lot of the people even in the most democratic bourgeois republic.}}\label{we-are-in-favor-of-a-democratic-republic-as-the-best-form-of-state-for-the-proletariat-under-capitalism.-but-we-have-no-right-to-forget-that-wage-slavery-is-the-lot-of-the-people-even-in-the-most-democratic-bourgeois-republic.}}
+
+\hypertarget{democracy-won-but-not-that-democratic-1}{%
+\subsection{democracy won but not that
+democratic}\label{democracy-won-but-not-that-democratic-1}}
+
+\hypertarget{mandates-and-the-middle-east}{%
+\subsection{mandates and the middle
+east}\label{mandates-and-the-middle-east}}
+
+\hypertarget{list-the-countries}{%
+\subsubsection{list the countries}\label{list-the-countries}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Syria
+
+  wanted united states or britain as mandate power, but were given to
+  france
+\item
+  Lebanon
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    created by the french 'just enough territyory to make it
+    economically viable and strategically useful, but not enough to
+    threaten Christian dominence' Gelvin 191
+  \end{enumerate}
+\item
+  Jordan
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    originally called "Trans-Jordan" or literally "across the jordan
+    {[}river{]}"
+  \item
+    solved a political problem but created an economic nightmare
+  \item
+    external help provided 45\% of government
+  \end{enumerate}
+\item
+  Palenstine
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    got split in half and the east side was given to Abdallah as Jordan
+  \item
+    the rest was "ruled like a crown colony {[}by the British{]} until
+    they withdrew in 1948"
+  \end{enumerate}
+\item
+  Iraq
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    also created to solve a political problem
+  \item
+    joined ottoman provices of basra, baghdad, and mosul
+  \item
+    given to Faysal, whose descendants ruled until 1958
+  \item
+    looked like a good idea on paper (oil state), but 'system conspired
+    against it's full political and economic development'
+  \item
+    many (6?) ethnic groups
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{quotes}{%
+\subsubsection{quotes}\label{quotes}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  "however, Britain and France accepted the mandates so that they could
+  retain control over those areas in which they felt they had vital
+  interests"
+\end{enumerate}
+
+\end{document}
