@@ -85,10 +85,10 @@ $$\begin{aligned}
 $$\begin{aligned}
   \int \cos  ^2 x dx &= \cos  x \sin  x + \int \sin^2 x dx\\
   &= \cos x \sin  x + \int 1 dx - \int \cos^2 x dx\\
-  2\int \cos  ^2 x dx &= \cos  x \sin  x + 1\\
-  \int \cos  ^2 x dx &= \frac{1}{2}\cos  x \sin  x + \frac{1}{2}
+  2\int \cos  ^2 x dx &= \cos  x \sin  x + x\\
+  \int \cos  ^2 x dx &= \frac{1}{2}\cos  x \sin  x + \frac{x}{2}
   \end{aligned}$$
 
-# \$∫ sin sr xcos  sr x dx \$
+# \$∫ sin^2^ xcos ^2^ x dx \$
 
 # \$∫ sin cb x dx \$
