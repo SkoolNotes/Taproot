@@ -46,8 +46,8 @@ $$\begin{aligned}
   \int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx &= 2\int u \cos u  du\\
   &= 2u \sin  u - 2\int \sin u du\\
   &= 2 u \sin  u + 2 \cos  u\\
-  &= 2 \sqrt{x} \sin  \sqrt{x} + 2 \cos  \sqrt{x}
-  \implies  & \ \ \ \
+  &= 2 \sqrt{x} \sin  \sqrt{x} + 2 \cos  \sqrt{x}\\
+  \implies  & \ \ \ \ something
   \end{aligned}$$
 
 # $\int_{1}^{e} \sin  \ln  x dx$
