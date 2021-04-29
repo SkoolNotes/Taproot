@@ -30,7 +30,7 @@ for f in ${(@f)changes}; do
     fi
     if [[ $formatname == "org" ]]; then
         # t2proot only works with markdown
-        pandoc $f --pdf-engine=xelatex --mathjax -s
+        pandoc $f -s
     fi
     pandoc -f $formatname -t pdf   $f --pdf-engine=xelatex --mathjax -s\
         --template=~/.pandoc/templates/default.latex -o "${f%.*}.pdf"\
