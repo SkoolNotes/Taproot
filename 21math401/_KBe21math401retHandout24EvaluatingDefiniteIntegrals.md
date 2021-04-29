@@ -47,7 +47,7 @@ $$\begin{aligned}
   &= 2u \sin  u - 2\int \sin u du\\
   &= 2 u \sin  u + 2 \cos  u\\
   &= 2 \sqrt{x} \sin  \sqrt{x} + 2 \cos  \sqrt{x}\\
-  \implies  & \ \ \ \ -2
+  \implies  & \ \ \ \ 2 pi^{\frac{1}{4}} \sin pi^{\frac{1}{4}}-2
   \end{aligned}$$
 
 # $\int_{1}^{e} \sin  \ln  x dx$
