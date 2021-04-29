@@ -41,6 +41,10 @@ $$\begin{aligned}
   \int \cos  \sqrt{x} dx &= \frac{4x \cos  \sqrt{x} + 2x\sqrt{x} \sin  \sqrt{x}}{x+4}\\
   \end{aligned}$$
 
+$$\begin{aligned}
+  \int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx &= x \cos \sqrt{x} +\int x \frac{1}{2\sqrt{x}} \sin \sqrt{x} dx\\
+  \end{aligned}$$
+
 # $\int_{1}^{e} \sin  \ln  x dx$
 
 $$\begin{aligned}
