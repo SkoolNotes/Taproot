@@ -91,4 +91,8 @@ $$\begin{aligned}
 
 # $\int sin^2 x\cos^2 x dx$
 
+$$\begin{aligned}
+  \int \sin ^2 x \cos^2 x dx &=
+  \end{aligned}$$
+
 # \$∫ sin cb x dx \$
