@@ -82,6 +82,10 @@ $$\begin{aligned}
 
 # $\int \sin^2 x dx$
 
+$$\begin{aligned}
+  \int \sin  ^2 x dx &= - \sin  x \cos  x
+  \end{aligned}$$
+
 # $\int cos^2 x  dx$
 
 $$\begin{aligned}
