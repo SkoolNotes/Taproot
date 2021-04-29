@@ -41,6 +41,7 @@
   }
   \end{aligned}\]
 
+
   Let $u = \sqrt{x}$, $du = \frac{1}{2 \sqrt{x}} dx$, $dx = 2 u du$
   \[\begin{aligned}
   \int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx &= 2\int u \cos u  du\\
