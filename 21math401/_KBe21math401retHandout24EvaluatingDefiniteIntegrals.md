@@ -26,7 +26,7 @@ $$\begin{aligned}
 $$\begin{aligned}
   \int \frac{\ln y}{\sqrt{y}} dy &= 2 \ln y \sqrt{y}- \int 2 \frac{1}{y} \sqrt{y} dy\\
   &=  2 \ln y \sqrt{y}- \int 2 \frac{1}{\sqrt{y}} dy\\
-  &=  2 \ln y \sqrt{y}- 2 \int  dy\\
+  &=  2 \ln y \sqrt{y}- 2 \int y^{-\frac{1}{2}} dy\\
   2 \sqrt{y}(\ln  y - 2)
   \end{aligned}$$
 
