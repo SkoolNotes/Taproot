@@ -27,6 +27,10 @@ for f in ${(@f)changes}; do
     if [[ $formatname == "markdown" ]]; then
         #sed -E -e 's/!\[\[(.+\.(png|jpg))\]\]/![\1](\1)/g' -i '' $f
     fi
+    if [[ $formatname == "org" ]]; then
+        # t2proot only works with markdown
+
+    fi
     pandoc -f $formatname -t pdf   $f --pdf-engine=xelatex --mathjax -s\
         --template=~/.pandoc/templates/default.latex -o "${f%.*}.pdf"\
         "${filter_list[@]/#/--lua-filter=}"\

@@ -1,2 +1,1 @@
-        Log for attempt at Wed Apr 28 07:54:16 PM PDT 2021 (12253)
-        Wed Apr 28 07:54:16 PM PDT 2021 Converting 2020ISOS101/KBe21isos201retStoryOfScienceComputationalComplexity.org...
+        Log for attempt at Wed Apr 28 08:43:38 PM PDT 2021 (12254)
