@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12322)}}    % original
-%\rhead{\textrmlf{Compiled }\#12322\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12323)}}    % original
+%\rhead{\textrmlf{Compiled }\#12323\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -264,7 +264,19 @@ Let \(u = 4 + x^2\), \(du = 2xdx\)
 
 \[\begin{aligned}
   \int \frac{x^3}{\sqrt{4+x}} dx &=\frac{1}{2}\int  \frac{(u-4)}{\sqrt{u}}du\\
-  &= \frac{1}{2}\int \sqrt{u} dx - \frac{1}{2}\int \frac{4}{\sqrt{u}} dx
+  &= \frac{1}{2}\int \sqrt{u} dx - 2\int \frac{1}{\sqrt{u}} dx
   \end{aligned}\]
+
+\hypertarget{additional-problems}{%
+\section{(additional problems)}\label{additional-problems}}
+
+\hypertarget{cos-sr-x-dx}{%
+\section{\$∫ cos sr x dx \$}\label{cos-sr-x-dx}}
+
+\hypertarget{sin-sr-xcos-sr-x-dx}{%
+\section{\$∫ sin sr xcos  sr x dx \$}\label{sin-sr-xcos-sr-x-dx}}
+
+\hypertarget{sin-cb-x-dx}{%
+\section{\$∫ sin cb x dx \$}\label{sin-cb-x-dx}}
 
 \end{document}
