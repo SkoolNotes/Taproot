@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12325)}}    % original
-%\rhead{\textrmlf{Compiled }\#12325\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12326)}}    % original
+%\rhead{\textrmlf{Compiled }\#12326\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -274,7 +274,7 @@ Let \(u = 4 + x^2\), \(du = 2xdx\)
 \section{\texorpdfstring{\(\int cos^2 x  dx\)}{\textbackslash int cos\^{}2 x  dx}}\label{int-cos2-x-dx}}
 
 \[\begin{aligned}
-  \int \cos  ^2 x dx &= \cos ^2 x -
+  \int \cos  ^2 x dx &= \cos  x \sin  x + \int \sin^2 x dx\\
   \end{aligned}\]
 
 \hypertarget{sin-sr-xcos-sr-x-dx}{%
