@@ -25,6 +25,7 @@ $$\begin{aligned}
 
 $$\begin{aligned}
   \int \frac{\ln y}{\sqrt{y}} dx &= 2 \ln y \sqrt{y}- \int 2 \frac{1}{y} \sqrt{y} dx
+  2 \sqrt{y}(\ln  y - 2)
   \end{aligned}$$
 
 # [TODO]{.todo .TODO} $\int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx$ {#int_0sqrtpi-cos-sqrtx-dx}
