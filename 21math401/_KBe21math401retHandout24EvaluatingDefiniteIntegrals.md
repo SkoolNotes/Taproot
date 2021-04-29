@@ -80,7 +80,7 @@ $$\begin{aligned}
 
 # (additional problems)
 
-# \$∫ cos sr x dx \$
+# $\int cos^2 x  dx$
 
 # \$∫ sin sr xcos  sr x dx \$
 
