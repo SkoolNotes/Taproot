@@ -84,6 +84,7 @@ $$\begin{aligned}
 
 $$\begin{aligned}
   \int \cos  ^2 x dx &= \cos  x \sin  x + \int \sin^2 x dx\\
+  &= \cos x \sin  x + \int 1 dx - \int \cos^2 x dx\\
   \end{aligned}$$
 
 # \$∫ sin sr xcos  sr x dx \$

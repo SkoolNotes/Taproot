@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12326)}}    % original
-%\rhead{\textrmlf{Compiled }\#12326\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12327)}}    % original
+%\rhead{\textrmlf{Compiled }\#12327\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -275,6 +275,7 @@ Let \(u = 4 + x^2\), \(du = 2xdx\)
 
 \[\begin{aligned}
   \int \cos  ^2 x dx &= \cos  x \sin  x + \int \sin^2 x dx\\
+  &= \cos x \sin  x + \int 1 dx - \int \cos^2 x dx\\
   \end{aligned}\]
 
 \hypertarget{sin-sr-xcos-sr-x-dx}{%
