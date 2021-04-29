@@ -18,8 +18,10 @@
 ** key problems
 *** P vs NP
 * richard karp (the actual assignment)
-** basically, see * richard karp
-
+** overview
+*** basically, see https://www.simonsfoundation.org/2013/12/13/richard-karp/
+** storyboard
+*** TODO !!!!!
 * vocab and definitions                                                 :def:
 ** DTM, deterministic Turing machine
    A Turing machine with one infinite tape and a state function that has exactly one output for each (tape value, machine state) input. (Not a formal definition).
