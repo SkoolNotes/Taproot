@@ -82,6 +82,10 @@ $$\begin{aligned}
 
 # $\int cos^2 x  dx$
 
+$$\begin{aligned}
+  \int \cos  ^2 x dx &= \cos ^2 x -
+  \end{aligned}$$
+
 # \$∫ sin sr xcos  sr x dx \$
 
 # \$∫ sin cb x dx \$
