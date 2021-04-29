@@ -101,7 +101,7 @@ $$\begin{aligned}
 # $\int sin^2 x\cos^2 x dx$
 
 $$\begin{aligned}
-  \int \sin ^2 x \cos^2 x dx &= \frac{1}{2}\sin ^2x(x + \sin  x \cos  x) - \int 2\cos ^2
+  \int \sin ^2 x \cos^2 x dx &= \frac{1}{2}\sin ^2x(x + \sin  x \cos  x) - \int \cos ^2 x (x+\sin  x \cos  x) dx
   \end{aligned}$$
 
 # \$∫ sin cb x dx \$
