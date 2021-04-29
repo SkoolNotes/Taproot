@@ -43,7 +43,8 @@ $$\begin{aligned}
 
 Let $u = \sqrt{x}$, $du = \frac{1}{2 \sqrt{x}} dx$, $dx = 2 u du$
 $$\begin{aligned}
-  \int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx &= x \cos \sqrt{x} +\int x \frac{1}{2\sqrt{x}} \sin \sqrt{x} dx\\
+  \int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx &= 2\int u \cos u  du\\
+  &= u \sin  u -\int  dx
   \end{aligned}$$
 
 # $\int_{1}^{e} \sin  \ln  x dx$
