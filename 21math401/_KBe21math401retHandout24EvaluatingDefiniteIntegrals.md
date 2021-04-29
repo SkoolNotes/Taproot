@@ -74,5 +74,6 @@ $$\begin{aligned}
 Let $u = 4 + x^2$, $du = 2xdx$
 
 $$\begin{aligned}
-  \int \frac{x^3}{\sqrt{4+x}} dx &=\frac{1}{2}\int  \frac{(u-4)}{\sqrt{u}}du
+  \int \frac{x^3}{\sqrt{4+x}} dx &=\frac{1}{2}\int  \frac{(u-4)}{\sqrt{u}}du\\
+  &=
   \end{aligned}$$
