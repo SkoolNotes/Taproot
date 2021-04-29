@@ -29,7 +29,7 @@ $$\begin{aligned}
   &=  2 \ln y \sqrt{y}- 2 \int y^{-\frac{1}{2}} dy\\
   &=  2 \ln  y \sqrt{y} - 4 \sqrt{y} +C\\
   &=  2 \sqrt{y}(\ln  y - 2) +C\\
-  \implies&\ \quad amazin
+  \implies&\ \quad 6( \ln  3 - 2) - 4
   \end{aligned}$$
 
 # $\int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx$
