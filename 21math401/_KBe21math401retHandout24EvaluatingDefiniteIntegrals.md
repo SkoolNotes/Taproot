@@ -83,7 +83,7 @@ $$\begin{aligned}
 # $\int \sin^2 x dx$
 
 $$\begin{aligned}
-  \int \sin  ^2 x dx &= - \sin  x \cos  x +\int \cos  ^2 x dx
+  \int \sin  ^2 x dx &= - \sin  x \cos  x +\int \cos  ^2 x dx\\
   \end{aligned}$$
 
 # $\int cos^2 x  dx$
