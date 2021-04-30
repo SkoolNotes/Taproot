@@ -52,6 +52,8 @@ title: Victory for Democracy Essay
 
 ### \'But we have no right to forget that wage slavery is the lot of the people even in the most democratic bourgeois republic.\' (Lenin, state and revolution)
 
+### tragedy of the majority vs tragedy of the minority
+
 ## mandates and the middle east
 
 ### list the countries
