@@ -48,6 +48,8 @@ title: Victory for Democracy Essay
 
 ## democracy won but not that democratic
 
+### \'quoted the words of Lincoln: "When the white man governs himself, that is self-government; but when he governs himself and also governs others, it is no longer self-government; it is despotism."\'
+
 ## mandates and the middle east
 
 ### list the countries
