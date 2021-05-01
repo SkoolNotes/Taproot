@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12409)}}    % original
-%\rhead{\textrmlf{Compiled }\#12409\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12410)}}    % original
+%\rhead{\textrmlf{Compiled }\#12410\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -395,5 +395,8 @@ east}\label{mandates-and-the-middle-east}}
     Aristotle \emph{Politics} 1279a32, 1279b4
   \end{enumerate}
 \end{enumerate}
+
+\hypertarget{outline}{%
+\section{outline}\label{outline}}
 
 \end{document}

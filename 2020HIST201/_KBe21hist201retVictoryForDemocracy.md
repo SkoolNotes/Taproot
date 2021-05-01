@@ -127,3 +127,5 @@ title: Victory for Democracy Essay
         (interests of the ruler); from aristocracy, oligarchy (interests
         of the wealthy); from constitutional government; democracy
         (interests of the poor)\" Aristotle *Politics* 1279a32, 1279b4
+
+# outline
