@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12403)}}    % original
-%\rhead{\textrmlf{Compiled }\#12403\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12404)}}    % original
+%\rhead{\textrmlf{Compiled }\#12404\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -384,6 +384,8 @@ east}\label{mandates-and-the-middle-east}}
     \emph{Ancient Greece. Social and Historical Documents from Archaic
     Times to the Death of Alexander the Great.} New York: Routledge.
     Aristotle, \emph{Politics} 1326b11)
+  \item
+    Aristotle \emph{Politics} 1279a32, 1279b4
   \end{enumerate}
 \end{enumerate}
 

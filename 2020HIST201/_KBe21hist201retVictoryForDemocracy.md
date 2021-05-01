@@ -118,3 +118,5 @@ title: Victory for Democracy Essay
         Garland. 2010. *Ancient Greece. Social and Historical Documents
         from Archaic Times to the Death of Alexander the Great.* New
         York: Routledge. Aristotle, *Politics* 1326b11)
+
+    2.  Aristotle *Politics* 1279a32, 1279b4
