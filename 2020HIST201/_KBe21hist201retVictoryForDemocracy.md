@@ -121,4 +121,6 @@ title: Victory for Democracy Essay
 
     2.  \"aristocracy, either because the rulers are the best men, or
         because they promote the best interests of the state and
-        citizens,Aristotle *Politics* 1279a32, 1279b4
+        citizens; when the many administer the state for the common
+        interest, the government is called a constitutional government\"
+        Aristotle *Politics* 1279a32, 1279b4
