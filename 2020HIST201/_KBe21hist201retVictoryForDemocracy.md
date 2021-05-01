@@ -129,3 +129,11 @@ title: Victory for Democracy Essay
         (interests of the poor)\" Aristotle *Politics* 1279a32, 1279b4
 
 # outline
+
+## intro
+
+## thesis
+
+## the victors of the first world war were not true democracies
+
+## the aftermath of the first world war was not democratic
