@@ -109,3 +109,9 @@ title: Victory for Democracy Essay
 2.  \'the accumulation of vast agricultural estates by the new rural
     gentry, as well as the transformation of once independent
     pasturalists and farmers into tenant labor\' (gelvin 194)
+
+3.  aristotle
+
+    1.  \'So it is clear that a polis is of best size when it has a
+        population large enough for a self-suffi cient lifestyle but one
+        that can be seen at a glance.\'
