@@ -8,13 +8,11 @@ source:
 #ref #ret 
 
 ---
-# Record of understanding:
+## Record of understanding:
 
 1.  Paper Title:  
 > A COVID-19 pandemic AI-based system with deep learning forecasting and automatic statistical data acquisition: Development and Implementation Study
     
-
-  
 
 2.  What question or phenomenon was being investigated in this study and why?
     

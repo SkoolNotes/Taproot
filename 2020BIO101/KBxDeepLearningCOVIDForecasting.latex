@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12394)}}    % original
-%\rhead{\textrmlf{Compiled }\#12394\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12395)}}    % original
+%\rhead{\textrmlf{Compiled }\#12395\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -190,14 +190,15 @@
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \hypertarget{record-of-understanding}{%
-\section{Record of understanding:}\label{record-of-understanding}}
+\subsection{Record of understanding:}\label{record-of-understanding}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \item
-  Paper Title: \#\# A COVID-19 pandemic AI-based system with deep
-  learning forecasting and automatic statistical data acquisition:
-  Development and Implementation Study
+  Paper Title:\\
+  \textgreater{} A COVID-19 pandemic AI-based system with deep learning
+  forecasting and automatic statistical data acquisition: Development
+  and Implementation Study
 \item
   What question or phenomenon was being investigated in this study and
   why?
