@@ -113,5 +113,6 @@ title: Victory for Democracy Essay
 3.  aristotle
 
     1.  \'So it is clear that a polis is of best size when it has a
-        population large enough for a self-suffi cient lifestyle but one
-        that can be seen at a glance.\'
+        population large enough for a self-sufficient lifestyle but one
+        that can be seen at a glance.\' (Aristotle, Polis: The Greek
+        City-State 1326b11)
