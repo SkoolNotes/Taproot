@@ -105,3 +105,5 @@ title: Victory for Democracy Essay
 1.  \"however, Britain and France accepted the mandates so that they
     could retain control over those areas in which they felt they had
     vital interests\" (gelvin)
+
+2.  tenant labor (gelvin 194)
