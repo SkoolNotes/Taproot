@@ -132,11 +132,11 @@ title: Victory for Democracy Essay
 
 ## intro
 
-### As Palmer concludes in his chapter on the first world war, \"the war was indeed a victory for democracy\" (Palmer 696).
+### As American historian Robert Roswell Palmer concludes in his chapter on the first world war, \"the war was indeed a victory for democracy\" (Palmer 696).
 
 ### However, as Aristotle defines in *Politics*, the democracy is a deviation from a more pure form of government--the constitutional government or polity.
 
-### As Lenin
+### Vladimir Lenin
 
 ## thesis
 
@@ -144,8 +144,6 @@ Although the first world war was \"indeed a victory for democracy,\"
 neither the victors nor the aftermath promoted widespread liberty.
 
 ## the victors of the first world war were not true democracies
-
-American historian Robert Roswell
 
 ## the aftermath of the first world war was not democratic
 
