@@ -134,6 +134,12 @@ title: Victory for Democracy Essay
 
 ## thesis
 
+Although the first world war was \"indeed a victory for democracy,\"
+
 ## the victors of the first world war were not true democracies
 
 ## the aftermath of the first world war was not democratic
+
+## sources
+
+### Palmer et al. A History of the Modern World, 9th Edition.
