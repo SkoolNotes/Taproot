@@ -125,7 +125,10 @@ title: Victory for Democracy Essay
 
     2.  \"\[The state is\] a special machine for the suppression of one
         class by another, and, what is more, of the majority by the
-        minority.\' (Lenin, *State and Revolution*, 1917)
+        minority. ... The systematic suppression of the exploited
+        majority by the exploiting minority calls for the utmost
+        ferocity and savagery ... slavery, serfdom and wage labor\'
+        (Lenin, *State and Revolution*, 1917)
 
 4.  aristotle
 
