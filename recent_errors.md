@@ -1,2 +1,1 @@
-        Log for attempt at Sat May  1 11:20:51 AM PDT 2021 (12410)
-        Sat May  1 11:20:51 AM PDT 2021 Converting 2020HIST201/KBe21hist201retVictoryForDemocracy.org...
+        Log for attempt at Sat May  1 11:21:29 AM PDT 2021 (12411)
