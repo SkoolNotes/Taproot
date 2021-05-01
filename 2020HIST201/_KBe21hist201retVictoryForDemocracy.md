@@ -156,7 +156,7 @@ title: Victory for Democracy Essay
 
 ### However, as Aristotle defines in *Politics*, the democracy is a deviation from a more pure form of government--the constitutional government or polity.
 
-### Furthermore, Vladimir Lenin
+### Furthermore, Engels and Lenin argues that \"
 
 ## thesis
 
