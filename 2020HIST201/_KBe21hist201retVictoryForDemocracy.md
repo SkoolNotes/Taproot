@@ -117,4 +117,4 @@ title: Victory for Democracy Essay
         that can be seen at a glance.\' (From Dillon, Mathew, Lynda
         Garland. 2010. *Ancient Greece. Social and Historical Documents
         from Archaic Times to the Death of Alexander the Great.* New
-        York: Routledge. Aristotle, Polis: The Greek City-State 1326b11)
+        York: Routledge. Aristotle, *Politics* 1326b11)
