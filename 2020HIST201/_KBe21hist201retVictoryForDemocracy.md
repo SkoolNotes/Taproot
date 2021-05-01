@@ -110,7 +110,17 @@ title: Victory for Democracy Essay
     gentry, as well as the transformation of once independent
     pasturalists and farmers into tenant labor\' (gelvin 194)
 
-3.  aristotle
+3.  \'And so in capitalist society we have a democracy that is
+    curtailed, wretched, false, a democracy only for the rich, for the
+    minority. The dictatorship of the proletariat, the period of
+    transition to communism, will for the first time create democracy
+    for the people, for the majority, along with the necessary
+    suppression of the exploiters, of the minority. Communism alone is
+    capable of providing really complete democracy, and the more
+    complete it is, the sooner it will become unnecessary and wither
+    away of its own accord. \' (Lenin, *State and Revolution*, 1917)
+
+4.  aristotle
 
     1.  \'So it is clear that a polis is of best size when it has a
         population large enough for a self-sufficient lifestyle but one
