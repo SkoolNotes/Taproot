@@ -114,5 +114,7 @@ title: Victory for Democracy Essay
 
     1.  \'So it is clear that a polis is of best size when it has a
         population large enough for a self-sufficient lifestyle but one
-        that can be seen at a glance.\' (Aristotle, Polis: The Greek
-        City-State 1326b11)
+        that can be seen at a glance.\' (From Dillon, Mathew, Lynda
+        Garland. 2010. *Ancient Greece. Social and Historical Documents
+        from Archaic Times to the Death of Alexander the Great.* New
+        York: Routledge. Aristotle, Polis: The Greek City-State 1326b11)
