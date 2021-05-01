@@ -156,7 +156,7 @@ title: Victory for Democracy Essay
 
 ### However, as Aristotle defines in *Politics*, the democracy is a deviation from a more pure form of government--the constitutional government or polity.
 
-### Furthermore, Engels and Lenin argue that \"the state is
+### Furthermore, Engels and Lenin argue that the state is a machine for oppression of one class by another, in democratic republics no less than in monarchies.
 
 ## thesis
 
