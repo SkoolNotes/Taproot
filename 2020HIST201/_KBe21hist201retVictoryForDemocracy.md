@@ -123,4 +123,7 @@ title: Victory for Democracy Essay
         because they promote the best interests of the state and
         citizens; when the many administer the state for the common
         interest, the government is called a constitutional government\"
-        Aristotle *Politics* 1279a32, 1279b4
+        \"deviations from these are as follows: from kingship, tyranny
+        (interests of the ruler); from aristocracy, oligarchy (interests
+        of the wealthy); from constitutional government; democracy
+        (interests of the poor)\" Aristotle *Politics* 1279a32, 1279b4
