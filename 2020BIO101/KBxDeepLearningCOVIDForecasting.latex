@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12395)}}    % original
-%\rhead{\textrmlf{Compiled }\#12395\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12396)}}    % original
+%\rhead{\textrmlf{Compiled }\#12396\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -202,6 +202,17 @@
 \item
   What question or phenomenon was being investigated in this study and
   why?
+\end{enumerate}
+
+\begin{itemize}
+\tightlist
+\item
+  Investing the covid pandemic,
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
 \item
   What background information did you need to understand in order to
   understand the question, main experiment, main finding, and
