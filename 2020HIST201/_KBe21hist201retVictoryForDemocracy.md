@@ -161,7 +161,7 @@ title: Victory for Democracy Essay
 ## thesis
 
 Although the first world war was \"indeed a victory for democracy,\"
-neither the victors nor the aftermath promoted widespread liberty.
+neither the victors, the aftermath promoted widespread liberty.
 
 ## The victors of the first world war were democracies and tyrannies, not polities, and they did not promote widespread liberty.
 
