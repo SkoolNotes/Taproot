@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12424)}}    % original
-%\rhead{\textrmlf{Compiled }\#12424\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12425)}}    % original
+%\rhead{\textrmlf{Compiled }\#12425\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -375,16 +375,23 @@ east}\label{mandates-and-the-middle-east}}
   and farmers into tenant labor' (gelvin 194)
 \item
   lenin
-\item
-  'And so in capitalist society we have a democracy that is curtailed,
-  wretched, false, a democracy only for the rich, for the minority. The
-  dictatorship of the proletariat, the period of transition to
-  communism, will for the first time create democracy for the people,
-  for the majority, along with the necessary suppression of the
-  exploiters, of the minority. Communism alone is capable of providing
-  really complete democracy, and the more complete it is, the sooner it
-  will become unnecessary and wither away of its own accord. ' (Lenin,
-  \emph{State and Revolution}, 1917)
+
+  \begin{enumerate}
+  \item
+    'And so in capitalist society we have a democracy that is curtailed,
+    wretched, false, a democracy only for the rich, for the minority.
+    The dictatorship of the proletariat, the period of transition to
+    communism, will for the first time create democracy for the people,
+    for the majority, along with the necessary suppression of the
+    exploiters, of the minority. Communism alone is capable of providing
+    really complete democracy, and the more complete it is, the sooner
+    it will become unnecessary and wither away of its own accord. '
+    (Lenin, \emph{State and Revolution}, 1917)
+  \item
+    "{[}The state is{]} a special machine for the suppression of one
+    class by another, and, what is more, of the majority by the
+    minority.' (Lenin, \emph{State and Revolution}, 1917)
+  \end{enumerate}
 \item
   aristotle
 
