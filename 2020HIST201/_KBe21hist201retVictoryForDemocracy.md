@@ -132,7 +132,7 @@ title: Victory for Democracy Essay
 
 ## intro
 
-### As American historian Robert Roswell Palmer concludes in his chapter on the first world war, \"the war was indeed a victory for democracy.\"
+### As American historian Robert Roswell Palmer concludes in his chapter on the first world war, \"the war was indeed a victory for democracy\" (Palmer 696).
 
 ## thesis
 
