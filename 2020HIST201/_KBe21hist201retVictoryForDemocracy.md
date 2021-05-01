@@ -171,6 +171,8 @@ neither the victors nor the aftermath promoted widespread liberty.
 
 ### Aristotle. *Politics*.
 
-### Lenin. *State and Revolution*, 1917.
+### Lenin, 1917. *State and Revolution*.
+
+### Gelvin, James L. 2011. *The modern Middle East: a history*, New York: Oxford University Press.
 
 ### Palmer et al. *A History of the Modern World*, 9th Edition.
