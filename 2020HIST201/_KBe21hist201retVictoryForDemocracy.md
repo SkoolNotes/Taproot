@@ -119,4 +119,6 @@ title: Victory for Democracy Essay
         from Archaic Times to the Death of Alexander the Great.* New
         York: Routledge. Aristotle, *Politics* 1326b11)
 
-    2.  Aristotle *Politics* 1279a32, 1279b4
+    2.  \"aristocracy, either because the rulers are the best men, or
+        because they promote the best interests of the state and
+        citizens,Aristotle *Politics* 1279a32, 1279b4
