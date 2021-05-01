@@ -169,4 +169,6 @@ neither the victors nor the aftermath promoted widespread liberty.
 
 ## sources
 
-### Palmer et al. A History of the Modern World, 9th Edition.
+### Palmer et al. *A History of the Modern World*, 9th Edition.
+
+### Lenin. *State and Revolution*, 1917
