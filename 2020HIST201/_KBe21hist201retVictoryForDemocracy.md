@@ -260,14 +260,14 @@ turned out to severely lack natural resources and has depended on
 foreign aid ever since---a dependency which has limited the autonomy and
 thus liberty of the government and its citizens. Syria, which declared
 independence from the Ottoman Empire towards the end of the war, sent a
-diplomatic comittee to Paris in 1819 to request that the Syria be
-allowed an indepnedent government, or at least be given to the
+diplomatic committee to Paris in 1819 to request that the Syria be
+allowed an independent government, or at least be given to the
 anti-colonial United States. The democratically elected Syrian
 parliament declared France an unacceptable mandatory power (Gelvin 191).
 However, the League of Nations truncated Syria and gave it to France as
 a mandate anyway, directly contradicting the League\'s purported goal
 national self-determination and trampling the ambitions and liberty of
-the fledgling democracy. Most embarassingly, although Iraq was created
+the fledgling democracy. Most embarrassingly, although Iraq was created
 as a dependency-theory-style producer state for the British government,
 the economic focus led to the grouping of numerous ethnic groups and
 thus extreme political instability. Although most of the inhabitants
