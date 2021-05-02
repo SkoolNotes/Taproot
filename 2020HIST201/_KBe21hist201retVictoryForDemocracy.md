@@ -253,7 +253,9 @@ arbitrarily split Palestine at the Jordan River and granted the eastern
 portion to \'Abdallah, who the British had colluded with to cause the
 Great ArabRevolt and who was threatening to declare war on France
 (Gelvin 187, 192). This plot of land, which became known as Jordan,
-turned out to severly lack natural resources
+turned out to severly lack natural resources and has depended on foreign
+aid ever since---a dependency which has limited the autonomy and thus
+liberty of the government and its citizens.
 
 ## Furthermore, no states could achieve widespread liberty?
 
