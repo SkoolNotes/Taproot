@@ -180,17 +180,19 @@ Hitler\'s authoritarian regime. Hitler\'s election was technically
 democratic, but his regime stripped liberty from vast populations.
 Hitler used the democratic \"rule of the poor\" to rise to power, and
 quickly converted the state to a tyranny focused on his own political
-viewpoints. This surface-level \"victory\" for democracy did not lead to
-widespread liberty. An additional central goal of the Paris settlement
-was to allow national self-determination in Europe. The peacemakers
-attempted to create a sovereign nation for each people in eastern
-Europe. However, the intermixing of nationalities, lack of population
-exchange, and independence declarations of various states complicated
-the process. As a result, each new state found alien minorities within
-its borders and next of kin under foreign rule (Palmer 692). These
-cultural divides, suspiciously reminiscent of the Slavic
-misrepresentations in the pre-war Austrian Empire, led to numerous
-fractured states with disgruntled populations.
+viewpoints. As Aristotle predicted, neither set of decisions were
+beneficial to the citizen body as a whole. This surface-level
+\"victory\" for democracy did not lead to widespread liberty. An
+additional central goal of the Paris settlement was to allow national
+self-determination in Europe. The peacemakers attempted to create a
+sovereign nation for each people in eastern Europe. However, the
+intermixing of nationalities, lack of population exchange, and
+independence declarations of various states complicated the process. As
+a result, each new state found alien minorities within its borders and
+next of kin under foreign rule (Palmer 692). These cultural divides,
+suspiciously reminiscent of the Slavic misrepresentations in the pre-war
+Austrian Empire, led to numerous fractured states with disgruntled
+populations.
 
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
