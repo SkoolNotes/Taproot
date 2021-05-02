@@ -252,8 +252,10 @@ Gelvin 189). In particular, the western coast of the Arabian peninsula
 (the Levant) and the fertile center of world trade (Mesopotemia) were to
 be divided into fledgling states and brought into world of western
 politics (Gelvin 184). As the major victorious powers in the League,
-British and French took advantage of their authoratative positions by
-settling the
+Britain and France were able to create, destroy, and manipulate states
+under the mandate system at will. Britain took advantage of this
+opportunity to solve political problems it had created in secret
+agreements during the war.
 
 ## Furthermore, no states could achieve widespread liberty?
 
