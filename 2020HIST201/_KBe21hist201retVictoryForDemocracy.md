@@ -191,7 +191,7 @@ independence declarations of various states complicated the process. As
 a result, each new state found alien minorities within its borders and
 next of kin under foreign rule (Palmer 692). The newly-formed buffer
 states, including Lithuania, Latvia, Poland, and Czechoslovakia, were
-generally Parliamentary democracies, These cultural divides,
+generally parliamentary democracies. However, These cultural divides,
 suspiciously reminiscent of the Slavic misrepresentations in the pre-war
 Austrian Empire, led to numerous fractured states with disgruntled
 populations.
