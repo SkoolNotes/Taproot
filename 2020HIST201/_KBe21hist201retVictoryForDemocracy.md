@@ -273,7 +273,9 @@ inhabited by Sunni Kurds and the entire country was ruled by Sunni Arab
 (Gelvin 193). Although national self-determination dictated that peoples
 should be grouped into countries by culture, the economicly-optimized
 Iraq became a hostile and violent land of oppressed and misrepresented
-citizens. In each of these cases and many more, the
+citizens. In each of these cases and many more, the British and French
+mandate decisions refused democratic demands from the citizens and
+sacrificed the liberty of the people for political or economic gains.
 
 ## Furthermore, no states could achieve widespread liberty?
 
