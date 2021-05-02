@@ -83,7 +83,9 @@ source:
 	3.  Finally, generated data on the correlation of government policies and COVID-19
     
 3.  what does that data mean?
-	1. The data means global COVID-19 trends
+	1. The dateset, innit of itself, means nothing.
+	2. the forecasting data means what we can expect for the next two weeks
+	3. the correlation data *can* mean what governmental policies work best for dealing with COVID-19
     
 
 ### 5.  What was the significance or larger impact of the main finding?
