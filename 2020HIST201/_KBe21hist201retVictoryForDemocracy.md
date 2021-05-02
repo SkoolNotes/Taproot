@@ -230,14 +230,14 @@ citizens.
 
 If there was one thing Lenin and Woodrow Wilson could agree on, it was
 that the secret and unprincipled international politics of the past had
-led the world into anarchy. In January of 1918, as U-boat attacks were
-more effectively countered and the tide seemed to be turning toward an
-allied victory, Wilson unveiled his fourteen points which outlined a
-more righteous framework for international politics (Palmer 677). At the
-1819 Paris peace confrence, Wilson negotiated heavily for one point in
-particular---the creation of a League of Nations whose purpoted purpose
-was to subvert the international anarchy and settle future conflicts. As
-a result,
+led the world into anarchy (Palmer 687-9). In January of 1918, as U-boat
+attacks were more effectively countered and the tide seemed to be
+turning toward an allied victory, Wilson unveiled his fourteen points
+which outlined a more righteous framework for international politics
+(Palmer 677). At the 1819 Paris peace confrence, Wilson negotiated
+heavily for one point in particular---the creation of a League of
+Nations whose purpoted purpose was to subvert the international anarchy
+and settle future conflicts. As a result,
 
 ## Furthermore, no states could achieve widespread liberty?
 
