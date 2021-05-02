@@ -228,6 +228,9 @@ citizens.
 
 ## Furthermore, the League of Nations and colonial aftermath of the first world war were neither democratic nor liberating for the citizens of the world.
 
+Woodrow Wilson and his fourteen points of January 1918 were hailed as
+the
+
 ## Furthermore, no states could achieve widespread liberty?
 
 ## sources
