@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12539)}}    % original
-%\rhead{\textrmlf{Compiled }\#12539\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12540)}}    % original
+%\rhead{\textrmlf{Compiled }\#12540\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -237,7 +237,7 @@
   background info?)
 \end{enumerate}
 
-ARIMA: Auto Regressive Integrated Moving Average MLP: Multilayer
+ARIMA: Auto Regressive Integrated Moving Average - MLP: Multilayer
 Perceptron Neural Networks
 
 \begin{enumerate}
