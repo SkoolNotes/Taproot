@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12597)}}    % original
-%\rhead{\textrmlf{Compiled }\#12597\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12598)}}    % original
+%\rhead{\textrmlf{Compiled }\#12598\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -391,7 +391,7 @@ so?\ldots{}}\label{what-was-the-main-thing-the-researchers-found-out-and-how-did
       \def\labelenumiv{\arabic{enumiv}.}
       \item
         \begin{quote}
-        stati
+        statistical learning model with time series regression
         \end{quote}
       \end{enumerate}
     \end{enumerate}
