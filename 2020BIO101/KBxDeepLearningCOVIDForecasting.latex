@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12550)}}    % original
-%\rhead{\textrmlf{Compiled }\#12550\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12551)}}    % original
+%\rhead{\textrmlf{Compiled }\#12551\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -240,10 +240,10 @@
 ARIMA: Auto Regressive Integrated Moving Average - Type of Auto
 Regressive (AR, not Augmented Reality) model - used for processes which
 change over time (economics, web traffic, ect.) - Very similar to ARMA,
-- Uses time series data - ie. use differences between values rather than
-the actual value - p, d, q - p: order of AR term, or time lag - d:
-``degree of differencing'' - q: order of MA term, or size of moving
-average window
+but with a more complex stochastic term - Uses time series data - ie.
+use differences between values rather than the actual value - p, d, q -
+p: order of AR term, or time lag - d: ``degree of differencing'' - q:
+order of MA term, or size of moving average window
 
 MLP: Multilayer Perceptron Neural Networks
 
