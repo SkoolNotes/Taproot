@@ -252,7 +252,8 @@ were among the hastily and selfishly created nations. The British
 arbitrarily split Palestine at the Jordan River and granted the eastern
 portion to \'Abdallah, who the British had colluded with to cause the
 Great ArabRevolt and who was threatening to declare war on France
-(Gelvin 187, 192).
+(Gelvin 187, 192). This plot of land, which became known as Jordan,
+turned out to have minimal natural resources
 
 ## Furthermore, no states could achieve widespread liberty?
 
