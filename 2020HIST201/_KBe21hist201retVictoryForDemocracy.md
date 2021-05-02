@@ -182,7 +182,9 @@ surface-level \"victory\" for democracy did not lead to widespread
 liberty. An additional central goal of the Paris settlement was to allow
 national self-determination in Europe. The peacemakers attempted to
 create a sovereign nation for each people in eastern Europe. However,
-the intermixing of nationalities
+the intermixing of nationalities, lack of population exchange, and
+independence declarations of various states complicated the process. As
+a result, each new state found alien minorities
 
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
