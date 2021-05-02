@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12577)}}    % original
-%\rhead{\textrmlf{Compiled }\#12577\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12578)}}    % original
+%\rhead{\textrmlf{Compiled }\#12578\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -325,7 +325,9 @@ Networks}}{MLP: Multilayer Perceptron Neural Networks}}\label{mlp-multilayer-per
 \item
   aka Mean Absolute Percentage Deviation
 \item
-  loss function, used for measuring forecast accuracy
+  loss function, used for measuring forecast accuracy.
+\item
+  average of percentage errors
 \end{itemize}
 
 \hypertarget{what-was-the-main-thing-the-researchers-found-out-and-how-did-they-do-so}{%

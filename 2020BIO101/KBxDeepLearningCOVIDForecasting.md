@@ -55,7 +55,8 @@ source:
  ##### MAPE: *Mean Absolute Percentage Error*
 
 - aka Mean Absolute Percentage Deviation
-- loss function, used for measuring forecast accuracy
+- loss function, used for measuring forecast accuracy.
+- average of percentage errors
 
 
 
