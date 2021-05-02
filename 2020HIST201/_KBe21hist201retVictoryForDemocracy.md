@@ -260,11 +260,11 @@ independence from the Ottoman Empire towards the end of the war, sent a
 diplomatic comittee to Paris in 1819 to request that the Syria be
 allowed an indepnedent government, or at least be given to the
 anti-colonial United States. The democratically elected Syrian
-parliament declared France an unacceptable mandatory power. However, the
-League of Nations truncated Syria and gave it to France as a mandate
-anyway, directly contradicting the purported national self-determination
-goal and trampling the ambitions of the fledgling democracy. Most
-embarassingly, Iraq
+parliament declared France an unacceptable mandatory power (Gelvin 191).
+However, the League of Nations truncated Syria and gave it to France as
+a mandate anyway, directly contradicting the purported national
+self-determination goal and trampling the ambitions of the fledgling
+democracy. Most embarassingly, Iraq
 
 ## Furthermore, no states could achieve widespread liberty?
 
