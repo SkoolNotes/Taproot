@@ -27,7 +27,7 @@ source:
 
 ### 3.  **What background information did you need to understand in order to understand the question, main experiment, main finding, and significance? (i.e. what did you find yourself digging into in the introduction or through outside sources; what was the most relevant background info?)**
 
-ARIMA: Auto Regressive Integrated Moving Average
+##### ARIMA: *Auto Regressive Integrated Moving Average*
 - Type of Auto Regressive (AR, not Augmented Reality) model
 	- used for processes which change over time (economics, web traffic, ect.)
 - Very similar to ARMA, but with a more complex stochastic term
@@ -42,14 +42,14 @@ ARIMA: Auto Regressive Integrated Moving Average
 - [Good article](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python)  
 
 
-MLP: Multilayer Perceptron Neural Networks
+##### MLP: *Multilayer Perceptron Neural Networks*
 
 
     
 
   
 
-4.  What was the main thing the researchers found out and how did they do so?...
+### 4.  What was the main thing the researchers found out and how did they do so?...
     
 
 1.  what were the main (1-2) experiments?

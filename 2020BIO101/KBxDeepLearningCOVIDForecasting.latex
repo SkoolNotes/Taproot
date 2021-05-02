@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12555)}}    % original
-%\rhead{\textrmlf{Compiled }\#12555\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12556)}}    % original
+%\rhead{\textrmlf{Compiled }\#12556\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -237,13 +237,45 @@ yourself digging into in the introduction or through outside sources;
 what was the most relevant background
 info?)}}{3. What background information did you need to understand in order to understand the question, main experiment, main finding, and significance? (i.e.~what did you find yourself digging into in the introduction or through outside sources; what was the most relevant background info?)}}\label{what-background-information-did-you-need-to-understand-in-order-to-understand-the-question-main-experiment-main-finding-and-significance-i.e.-what-did-you-find-yourself-digging-into-in-the-introduction-or-through-outside-sources-what-was-the-most-relevant-background-info}}
 
-ARIMA: Auto Regressive Integrated Moving Average - Type of Auto
-Regressive (AR, not Augmented Reality) model - used for processes which
-change over time (economics, web traffic, ect.) - Very similar to ARMA,
-but with a more complex stochastic term - Uses time series data - ie.
-use differences between values rather than the actual value - p, d, q -
-p: order of AR term, or time lag - d: ``degree of differencing'' - q:
-order of MA term, or size of moving average window
+\hypertarget{arima-auto-regressive-integrated-moving-average}{%
+\subparagraph{\texorpdfstring{ARIMA: \emph{Auto Regressive Integrated
+Moving
+Average}}{ARIMA: Auto Regressive Integrated Moving Average}}\label{arima-auto-regressive-integrated-moving-average}}
+
+\begin{itemize}
+\tightlist
+\item
+  Type of Auto Regressive (AR, not Augmented Reality) model
+
+  \begin{itemize}
+  \tightlist
+  \item
+    used for processes which change over time (economics, web traffic,
+    ect.)
+  \end{itemize}
+\item
+  Very similar to ARMA, but with a more complex stochastic term
+\item
+  Uses time series data
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ie. use differences between values rather than the actual value
+  \item
+    p, d, q
+
+    \begin{itemize}
+    \tightlist
+    \item
+      p: order of AR term, or time lag
+    \item
+      d: ``degree of differencing''
+    \item
+      q: order of MA term, or size of moving average window
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
 
 \begin{quote}
 \textbf{Predicted Y\_t = Constant + Linear combination Lags of Y (upto p
@@ -252,14 +284,17 @@ lags) + Linear Combination of Lagged forecast errors (upto q lags)} -
 article}
 \end{quote}
 
-MLP: Multilayer Perceptron Neural Networks
+\hypertarget{mlp-multilayer-perceptron-neural-networks}{%
+\subparagraph{\texorpdfstring{MLP: \emph{Multilayer Perceptron Neural
+Networks}}{MLP: Multilayer Perceptron Neural Networks}}\label{mlp-multilayer-perceptron-neural-networks}}
+
+\hypertarget{what-was-the-main-thing-the-researchers-found-out-and-how-did-they-do-so}{%
+\subsubsection{4. What was the main thing the researchers found out and
+how did they do
+so?\ldots{}}\label{what-was-the-main-thing-the-researchers-found-out-and-how-did-they-do-so}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{3}
-\item
-  What was the main thing the researchers found out and how did they do
-  so?\ldots{}
 \item
   what were the main (1-2) experiments?
 \item
