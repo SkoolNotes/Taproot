@@ -69,8 +69,8 @@ source:
 		3. statistical analysis with predefined procedure
 			1. The experimentation comes in at this step with different deep learning models and techniques
 	2. **Main Models:**
-		1. LSTM:
-			1. long term short term memory
+		1. LSTM: *long term short term memory*
+		2. ARIMA: *
     
 2.  what data did they generate?
     
