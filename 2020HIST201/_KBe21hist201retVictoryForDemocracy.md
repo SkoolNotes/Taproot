@@ -266,7 +266,8 @@ a mandate anyway, directly contradicting the League\'s purported goal
 national self-determination and trampling the ambitions and liberty of
 the fledgling democracy. Most embarassingly, although Iraq was created
 as a dependency-theory-style producer state for the British government,
-the economic focus led to extreme political instability.
+the economic focus led to the grouping of numerous ethnic groups and
+thus extreme political instability.
 
 ## Furthermore, no states could achieve widespread liberty?
 
