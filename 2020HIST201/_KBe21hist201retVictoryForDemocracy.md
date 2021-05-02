@@ -255,7 +255,7 @@ Great ArabRevolt and who was threatening to declare war on France
 (Gelvin 187, 192). This plot of land, which became known as Jordan,
 turned out to severly lack natural resources and has depended on foreign
 aid ever since---a dependency which has limited the autonomy and thus
-liberty of the government and its citizens.
+liberty of the government and its citizens. Syria
 
 ## Furthermore, no states could achieve widespread liberty?
 
