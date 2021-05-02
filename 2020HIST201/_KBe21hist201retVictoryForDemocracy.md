@@ -166,6 +166,8 @@ state can.
 
 ## The victors of the first world war were democracies and tyrannies, not polities, and they did not promote widespread liberty.
 
+**\***
+
 ## The aftermath of the first world war was neither democratic nor liberating.
 
 ## Furthermore, at
