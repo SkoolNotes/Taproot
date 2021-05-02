@@ -250,7 +250,8 @@ peoples enjoyed minimal national self-determination and the mandate
 system promoted neither democracy nor liberty. Jordan, Syria, and Iraq
 were among the hastily and selfishly created nations. The British
 arbitrarily split Palestine at the Jordan River and granted the eastern
-portion, or \"Trans-Jordan\" as it was known at the time, to \'Abdallah.
+portion, or \"Trans-Jordan\" as it was known at the time, to \'Abdallah,
+who was threatening to declare war on France.
 
 ## Furthermore, no states could achieve widespread liberty?
 
