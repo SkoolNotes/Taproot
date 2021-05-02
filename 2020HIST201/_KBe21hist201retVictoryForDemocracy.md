@@ -259,7 +259,10 @@ liberty of the government and its citizens. Syria, which declared
 independence from the Ottoman Empire towards the end of the war, sent a
 diplomatic comittee to Paris in 1819 to request that the Syria be
 allowed an indepnedent government, or at least be given to the
-anti-colonial United States.
+anti-colonial United States. The democratically elected Syrian
+parliament declared France an unacceptable mandatory power, yet the
+League of Nations truncated Syria and gave it to France as a mandate
+anyway.
 
 ## Furthermore, no states could achieve widespread liberty?
 
