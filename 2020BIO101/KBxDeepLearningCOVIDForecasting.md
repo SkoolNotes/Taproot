@@ -30,6 +30,7 @@ source:
 ARIMA: Auto Regressive Integrated Moving Average
 - Uses time series data
 	- ie. use differences between values rather than the actual value
+	- 
  
 MLP: Multilayer Perceptron Neural Networks
 
