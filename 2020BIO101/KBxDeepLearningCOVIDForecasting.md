@@ -71,7 +71,7 @@ source:
 	2. **Main Models:**
 		1. LSTM: *long term short term memory*
 			1. A type of recurrent neural network which uses a 'cell state' and forget gates to have both long and short term memory
-			2. better forecast accuracy then other models
+			2. better forecast accuracy than other models
 		2. ARIMA: *Auto Regressive Integrated Moving Average*
 			1. > statistical learning model with time series regression
 		
