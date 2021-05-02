@@ -197,7 +197,7 @@ communism from spreading to western Europe and were thus hastily drawn,
 culturally torn, and politically weak. These cultural divides that were
 suspiciously reminiscent of the Slavic misrepresentations in the pre-war
 Austrian Empire led to numerous fractured states with disgruntled
-populations---a number of technically democracies
+populations---a number of ostensible democracies
 
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
