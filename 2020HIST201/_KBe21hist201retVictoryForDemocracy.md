@@ -241,7 +241,7 @@ and settle future conflicts. As a result, numerous comprimises were made
 on the fourteen points. \<\> Starting in 1915 when the entente powers
 realized the war would not be quick, Britain and France made heavy use
 of post-war land promises to attract nations to their side of the
-battle. Such secret treaties included the Constantinople Agreement, the
+battle; such secret treaties included the Constantinople Agreement, the
 Treaty of London; the Sykes-Picot Agreement, and the Treaty of Saint
 Jean de Maurienne (Gelvin 186-7). When the war was over, one central
 purpose of the League of Nations was to fairly and humanitarianly divide
