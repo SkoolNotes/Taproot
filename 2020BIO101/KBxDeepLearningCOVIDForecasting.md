@@ -57,9 +57,7 @@ source:
 - aka Mean Absolute Percentage Deviation
 - loss function, used for measuring forecast accuracy.
 - average of percentage errors
-
-
-
+- generally not good..
 
     
 

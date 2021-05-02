@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12578)}}    % original
-%\rhead{\textrmlf{Compiled }\#12578\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12579)}}    % original
+%\rhead{\textrmlf{Compiled }\#12579\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -328,6 +328,8 @@ Networks}}{MLP: Multilayer Perceptron Neural Networks}}\label{mlp-multilayer-per
   loss function, used for measuring forecast accuracy.
 \item
   average of percentage errors
+\item
+  generally not good..
 \end{itemize}
 
 \hypertarget{what-was-the-main-thing-the-researchers-found-out-and-how-did-they-do-so}{%
