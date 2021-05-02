@@ -70,7 +70,7 @@ source:
 			1. The experimentation comes in at this step with different deep learning models and techniques
 	2. **Main Models:**
 		1. LSTM: *long term short term memory*
-		2. ARIMA: *
+		2. ARIMA: *Auto Regressive Integrated Moving Average*
     
 2.  what data did they generate?
     
