@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12580)}}    % original
-%\rhead{\textrmlf{Compiled }\#12580\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12581)}}    % original
+%\rhead{\textrmlf{Compiled }\#12581\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -341,6 +341,12 @@ so?\ldots{}}\label{what-was-the-main-thing-the-researchers-found-out-and-how-did
 \def\labelenumi{\arabic{enumi}.}
 \item
   what were the main (1-2) experiments?
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+  \end{enumerate}
 \item
   what data did they generate?
 \item
