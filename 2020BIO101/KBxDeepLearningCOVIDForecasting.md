@@ -55,6 +55,7 @@ source:
  ##### MAPE: *Mean Absolute Percentage Error*
 
 - aka Mean Absolute Percentage Deviation
+- loss function 
 
 
 
