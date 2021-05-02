@@ -95,7 +95,7 @@ source:
 	- they also made ways to visualize the data, as human understanding is ultimately the most important at this point
 - they didn't make very substantive claims about governmental policies
 - instead, they mostly made a very useful tool for data viz, prediction, and comparison. In the actual experimentation with the types of models, as expected, LSTMs did better. 
-	- they were experimenting with 
+	- they were experimenting with ARIMA, but ultimately, LSTMs win again.
 
 
 
