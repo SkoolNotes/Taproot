@@ -251,7 +251,8 @@ system promoted neither democracy nor liberty. Jordan, Syria, and Iraq
 were among the hastily and selfishly created nations. The British
 arbitrarily split Palestine at the Jordan River and granted the eastern
 portion to \'Abdallah, who the British had colluded with to cause the
-Great ArabRevolt and who was threatening to declare war on France.
+Great ArabRevolt and who was threatening to declare war on France
+(Gelvin 187, 192).
 
 ## Furthermore, no states could achieve widespread liberty?
 
