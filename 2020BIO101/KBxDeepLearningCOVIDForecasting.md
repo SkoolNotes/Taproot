@@ -37,6 +37,9 @@ ARIMA: Auto Regressive Integrated Moving Average
 		- p: order of AR term, or time lag 
 		- d: "degree of differencing"
 		- q: order of MA term, or size of moving average window
+		
+> **Predicted Yt = Constant + Linear combination Lags of Y (upto p lags) + Linear Combination of Lagged forecast errors (upto q lags)** 
+- [Good article](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python)  
  
 MLP: Multilayer Perceptron Neural Networks
 
