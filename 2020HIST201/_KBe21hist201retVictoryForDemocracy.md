@@ -239,10 +239,10 @@ heavily for one point in particular---the creation of a League of
 Nations whose purpoted purpose was to subvert the international anarchy
 and settle future conflicts. As a result, numerous comprimises were made
 on the fourteen points. \<\> One central purpose of the League of
-Nations was to fairly and humanitarianly divide the German colonies;
-however, when congress refused to join the League, the allocation of
-colonies under a \"mandate\" system was directed by France and Britain
-(Palmer 690).
+Nations was to fairly and humanitarianly divide the Ottoman empire and
+German colonies; however, when congress refused to join the League, the
+allocation of land and colonies under a \"mandate\" system was directed
+by France and Britain (Palmer 690).
 
 ## Furthermore, no states could achieve widespread liberty?
 
