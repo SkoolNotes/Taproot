@@ -247,11 +247,12 @@ Jean de Maurienne (Gelvin 186-7). When the war was over, one central
 purpose of the League of Nations was to fairly and humanitarianly divide
 the Ottoman empire and German colonies; however, when congress refused
 to join the League, the allocation of land and colonies under a
-\"mandate\" system was directed by France and Britain (Palmer 690). In
-particular, the western coast of the Arabian peninsula (the Levant) and
-the fertile center of world trade (Mesopotemia) were to be divided into
-fledgling states and brought into world of western politics (Gelvin
-184). The British and French governments
+\"mandate\" system was directed by France and Britain (Palmer 690,
+Gelvin 189). In particular, the western coast of the Arabian peninsula
+(the Levant) and the fertile center of world trade (Mesopotemia) were to
+be divided into fledgling states and brought into world of western
+politics (Gelvin 184). The British and French governments took this
+opportunity to
 
 ## Furthermore, no states could achieve widespread liberty?
 
