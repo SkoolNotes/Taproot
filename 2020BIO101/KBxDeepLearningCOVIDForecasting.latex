@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12586)}}    % original
-%\rhead{\textrmlf{Compiled }\#12586\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12587)}}    % original
+%\rhead{\textrmlf{Compiled }\#12587\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -362,7 +362,8 @@ so?\ldots{}}\label{what-was-the-main-thing-the-researchers-found-out-and-how-did
       \def\labelenumiv{\arabic{enumiv}.}
       \tightlist
       \item
-        the experimentation comes in at this step wi
+        The experimentation comes in at this step with different ML
+        model
       \end{enumerate}
     \end{enumerate}
   \end{enumerate}

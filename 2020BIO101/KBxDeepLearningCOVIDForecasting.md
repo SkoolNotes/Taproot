@@ -67,7 +67,7 @@ source:
 		1. using crawler on source 
 		2. integrating the data into existing database
 		3. statistical analysis with predefined procedure
-			1. the experimentation comes in at this step wi
+			1. The experimentation comes in at this step with different ML model
     
 2.  what data did they generate?
     
