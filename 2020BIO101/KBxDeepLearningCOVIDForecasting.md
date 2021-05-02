@@ -93,7 +93,7 @@ source:
 - the dateset itself is useful for the entire world doing data analysis
 - the forecasting data can help with rapid policy changes and preparations. Being able to see two week into the future, especially at the beginning of the pandemic, was and is incredibly useful.
 	- they also made ways to visualize the data, as human understanding is ultimately the most important at this point
-- 
+- they didn't make very subsinative claims about governmental policies
 
 
 
