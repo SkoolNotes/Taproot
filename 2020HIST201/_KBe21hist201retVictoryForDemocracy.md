@@ -226,7 +226,7 @@ numerous fractured states with disgruntled populations---a number of
 ostensible democracies that failed to rule in the interest of their
 citizens.
 
-## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
+## Furthermore, the League of Nations and colonial aftermath of the first world war were neither democratic nor liberating for the citizens of the world.
 
 ## Furthermore, no states could achieve widespread liberty?
 
