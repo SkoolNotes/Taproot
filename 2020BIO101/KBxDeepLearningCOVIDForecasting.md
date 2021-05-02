@@ -52,7 +52,9 @@ source:
 ##### MAE (vs RMSE):
  - Mean Absolute Error, which I haven't used before, is like RMSE (root mean square error) but less punishing for bigger errors.
  
- ##### MAPE
+ ##### MAPE: *Mean Absolute Percentage Error*
+
+- aka Mean Absolute Percentage Deviation
 
 
 
