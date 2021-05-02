@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12594)}}    % original
-%\rhead{\textrmlf{Compiled }\#12594\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12595)}}    % original
+%\rhead{\textrmlf{Compiled }\#12595\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -377,9 +377,9 @@ so?\ldots{}}\label{what-was-the-main-thing-the-researchers-found-out-and-how-did
     \item
       ARIMA: \emph{Auto Regressive Integrated Moving Average}
     \end{enumerate}
-  \item
-    Created a 14-day forecasting model
   \end{enumerate}
+\item
+  Created a 14-day forecasting model for COVID-19
 \item
   what data did they generate?
 \item

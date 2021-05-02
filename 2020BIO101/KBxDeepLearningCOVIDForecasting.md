@@ -71,7 +71,8 @@ source:
 	2. **Main Models:**
 		1. LSTM: *long term short term memory*
 		2. ARIMA: *Auto Regressive Integrated Moving Average*
-	3. Created a 14-day forecasting model
+		
+3. Created a 14-day forecasting model for COVID-19
     
 2.  what data did they generate?
     
