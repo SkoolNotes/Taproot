@@ -173,7 +173,7 @@ political and egotistical motivations: the British government\'s naval
 ambitions were not strictly defensive. This engineered public sentiment
 was quickly reversed when the bloody trench stalemate became apparent,
 but the war torn countries felt they needed to outlast the enemy as a
-point of pride.
+point of pride. The wage slavery and proletariat oppression of
 
 ## In addition, the new post-war Europen states was not conducive to liberty
 

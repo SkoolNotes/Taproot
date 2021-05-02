@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12529)}}    % original
-%\rhead{\textrmlf{Compiled }\#12529\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12530)}}    % original
+%\rhead{\textrmlf{Compiled }\#12530\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -220,7 +220,9 @@
   \item
     Including governmental responses
   \item
-    allows heatmap vis of different policies in different countries
+    allows heatmap vis of different policies in different countries,
+  \item
+    and predictive modeling, ofc.
   \end{itemize}
 \end{itemize}
 

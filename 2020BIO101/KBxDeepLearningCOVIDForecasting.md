@@ -21,7 +21,7 @@ source:
 - CPAIS (COVID-19 Pandemic AI System) aims to solve this by automatically compiling databases to form a worldwide dateset
 	- Including governmental responses
 	- allows heatmap vis of different policies in different countries,
-	- and 
+	- and predictive modeling, ofc.
 
   
 
