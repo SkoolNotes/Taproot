@@ -245,7 +245,7 @@ allocation of land and colonies under a \"mandate\" system was directed
 by France and Britain (Palmer 690). In particular, the western coast of
 the Arabian peninsula (the Levant) and the fertile center of world trade
 (Mesopotemia) were to be divided into fledgling states and brought into
-world of western politics.
+world of western politics (Gelvin 184).
 
 ## Furthermore, no states could achieve widespread liberty?
 
