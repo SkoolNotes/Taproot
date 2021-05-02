@@ -186,7 +186,7 @@ the intermixing of nationalities, lack of population exchange, and
 independence declarations of various states complicated the process. As
 a result, each new state found alien minorities within its borders and
 next of kin under foreign rule (Palmer 692). These cultural divides,
-suspiciously reminiscent of
+suspiciously reminiscent of the Slavic misrepresentations in the pre-war
 
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
