@@ -250,7 +250,7 @@ entente powers realized the war would not be quick, Britain and other
 allies, made heavy use of post-war land promises to attract nations to
 their side of the battle. Such secret treaties included the
 Constantinople Agreement, the Treaty of London; the Sykes-Picot
-Agreement, and the Treaty of Saint Jean de Maurienne.
+Agreement, and the Treaty of Saint Jean de Maurienne (Gelvin 186-7).
 
 ## Furthermore, no states could achieve widespread liberty?
 
