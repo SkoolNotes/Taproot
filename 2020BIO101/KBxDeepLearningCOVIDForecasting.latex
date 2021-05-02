@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12585)}}    % original
-%\rhead{\textrmlf{Compiled }\#12585\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12586)}}    % original
+%\rhead{\textrmlf{Compiled }\#12586\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -357,6 +357,13 @@ so?\ldots{}}\label{what-was-the-main-thing-the-researchers-found-out-and-how-did
       integrating the data into existing database
     \item
       statistical analysis with predefined procedure
+
+      \begin{enumerate}
+      \def\labelenumiv{\arabic{enumiv}.}
+      \tightlist
+      \item
+        the experimentation comes in at this step wi
+      \end{enumerate}
     \end{enumerate}
   \end{enumerate}
 \item
