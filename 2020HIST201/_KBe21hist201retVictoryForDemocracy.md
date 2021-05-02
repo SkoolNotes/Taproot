@@ -247,7 +247,8 @@ Britain took advantage of this opportunity to solve political problems
 it had created in secret agreements during the war and to maintain
 control over vital reigons (Gelvin 191-2). As a result, middle-eastern
 peoples enjoyed minimal national self-determination and the mandate
-system promoted neither democracy nor liberty. In particular,
+system promoted neither democracy nor liberty. Syria, Jordan, and Iraq
+were among the hastily and selfishly created nations.
 
 ## Furthermore, no states could achieve widespread liberty?
 
