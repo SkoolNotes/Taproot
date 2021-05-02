@@ -173,7 +173,7 @@ The new German republic, who professed their own ideals, did not feel
 responsible or attached to the previous regime. However, the treaty
 makers in Paris in 1919 working under public pressure and \"still in the
 heat of the war\" dealt harshly to Germany---so much so that no German
-was willing to sign the Treaty of Versailles.
+was willing to sign the Treaty of Versailles (Palmer 692-3).
 
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
