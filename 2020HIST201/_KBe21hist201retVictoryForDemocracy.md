@@ -209,4 +209,4 @@ Poland, Lithuania, and Romania,
 
 ### Palmer et al. *A History of the Modern World*, 9th Edition.
 
-### History of Latvia 1918-1940. 28 Feb. 2017, www.latvia.eu/history-latvia-1918-1940.
+### Latvian Institute, 28 Feb. 2017. History of Latvia 1918-1940. www.latvia.eu/history-latvia-1918-1940.
