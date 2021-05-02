@@ -46,7 +46,7 @@ source:
 - Just a feed forward network, but with hidden layers. Pretty ambiguous term, left relatively ambiguous in the paper.
 - They highlight: designed to solve non-linearly separable problems
 	- with sigmoid
-	- 
+- They used nnfor, which
 
 
 
