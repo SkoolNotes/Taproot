@@ -245,7 +245,9 @@ allocation of land and colonies under a \"mandate\" system was directed
 by France and Britain (Palmer 690). In particular, the western coast of
 the Arabian peninsula (the Levant) and the fertile center of world trade
 (Mesopotemia) were to be divided into fledgling states and brought into
-world of western politics (Gelvin 184).
+world of western politics (Gelvin 184). The entente powers, especially
+Britain, made heavy use of post-war land promises to attract allies to
+their side of the battle.
 
 ## Furthermore, no states could achieve widespread liberty?
 
