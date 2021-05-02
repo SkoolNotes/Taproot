@@ -50,7 +50,9 @@ source:
 - They used [nnfor](https://github.com/trnnick/nnfor), which means they used R.
 
 ##### MAE (vs RMSE):
- - Mean Absolute Error, which I haven't used before, is like RMSE (root mean square error) but less punishing
+ - Mean Absolute Error, which I haven't used before, is like RMSE (root mean square error) but less punishing for bigger errors.
+ 
+ ##### MAPE
 
 
 
