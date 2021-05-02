@@ -169,6 +169,8 @@ neither the victors nor the aftermath promoted widespread liberty.
 
 ## In addition, the post-war reparations were not conducive to liberty
 
+### Germany
+
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
 ## Furthermore, at
