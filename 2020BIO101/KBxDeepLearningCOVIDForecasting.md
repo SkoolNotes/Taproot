@@ -59,13 +59,9 @@ source:
 - average of percentage errors
 - generally not good..
 
-    
-
-  
 
 ### 4.  What was the main thing the researchers found out and how did they do so?...
     
-
 1.  what were the main (1-2) experiments?
     
 2.  what data did they generate?
@@ -75,4 +71,4 @@ source:
 
   
 
-5.  What was the significance or larger impact of the main finding?
+### 5.  What was the significance or larger impact of the main finding?
