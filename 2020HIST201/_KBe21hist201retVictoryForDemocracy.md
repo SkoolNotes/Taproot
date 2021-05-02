@@ -286,6 +286,8 @@ sacrificed the liberty of the people for political or economic gains.
 
 ## conclusion
 
+Although the first world war toppled long-standing monarchies
+
 ## sources
 
 ### Aristotle. *Politics*.
