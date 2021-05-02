@@ -152,11 +152,13 @@ title: Victory for Democracy Essay
 
 ## intro
 
-### As American historian Robert Roswell Palmer concludes in his chapter on the first world war, \"the war was indeed a victory for democracy\" (Palmer 696).
-
-### However, as Aristotle defines in *Politics*, the democracy is a deviation from a more pure form of government--the constitutional government or polity.
-
-### Furthermore, Engels and Lenin argue that the state is a machine for oppression of one class by another, in democratic republics no less than in monarchies.
+As American historian Robert Roswell Palmer concludes in his chapter on
+the first world war, \"the war was indeed a victory for democracy\"
+(Palmer 696). However, as Aristotle defines in *Politics*, the democracy
+is a deviation from a more pure form of government--the constitutional
+government or polity. Furthermore, Engels and Lenin argue that the state
+is a machine for oppression of one class by another, in democratic
+republics no less than in monarchies.
 
 ## thesis
 
@@ -278,6 +280,8 @@ mandate decisions refused democratic demands from the citizens and
 sacrificed the liberty of the people for political or economic gains.
 
 ## Furthermore, no states could achieve widespread liberty?
+
+## conclusion
 
 ## sources
 
