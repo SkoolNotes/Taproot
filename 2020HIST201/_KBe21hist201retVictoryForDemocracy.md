@@ -192,8 +192,8 @@ a result, each new state found alien minorities within its borders and
 next of kin under foreign rule (Palmer 692). These cultural divides,
 suspiciously reminiscent of the Slavic misrepresentations in the pre-war
 Austrian Empire, led to numerous fractured states with disgruntled
-populations. The created buffer states, including Czechoslovakia,
-Poland, Lithuania, and Romania,
+populations. The newly formed buffer states, including Lithuania,
+Latvia, Poland, and Czechoslovakia,
 
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
