@@ -211,22 +211,23 @@ tyrannical policy was beneficial to the citizen body as a whole. This
 surface-level \"victory\" for democracy did not lead to widespread
 liberty. An additional central goal of the Paris settlement was to allow
 national self-determination in Europe. The peacemakers attempted to
-create a sovereign nation for each people in eastern Europe. However,
-the intermixing of nationalities, lack of population exchange, and
-independence declarations of various states complicated the process. As
-a result, each new state found alien minorities within its borders and
-next of kin under foreign rule (Palmer 692). The newly-formed buffer
-states, including Lithuania, Latvia, Poland, and Czechoslovakia, were
-generally parliamentary democracies (Palmer 692, Latvian Institute).
-However, they were created to serve the purpose of buffering Bolshevik
-communism from spreading to western Europe and were thus hastily drawn,
-culturally torn, and politically weak. The first Latvian president went
-as far as to demilitarize the country, which was presently trampled in
-the second world war (Latvian Institute). These cultural divides, which
-were suspiciously reminiscent of the Slavic misrepresentations in the
-pre-war Austrian Empire, led to numerous fractured states with
-disgruntled populations---a number of ostensible democracies that failed
-to rule in the interest of their citizens.
+create a sovereign nation for each people in eastern Europe through the
+League of Nations. However, the intermixing of nationalities, lack of
+population exchange, and independence declarations of various states
+complicated the process. As a result, each new state found alien
+minorities within its borders and next of kin under foreign rule (Palmer
+692). The newly-formed buffer states, including Lithuania, Latvia,
+Poland, and Czechoslovakia, were generally parliamentary democracies
+(Palmer 692, Latvian Institute). However, they were created to serve the
+purpose of buffering Bolshevik communism from spreading to western
+Europe and were thus hastily drawn, culturally torn, and politically
+weak. The first Latvian president went as far as to demilitarize the
+country, which was presently trampled in the second world war (Latvian
+Institute). These cultural divides, which were suspiciously reminiscent
+of the Slavic misrepresentations in the pre-war Austrian Empire, led to
+numerous fractured states with disgruntled populations---a number of
+ostensible democracies that failed to rule in the interest of their
+citizens.
 
 ## Furthermore, the League of Nations and colonial aftermath of the first world war were neither democratic nor liberating for the citizens of the world.
 
