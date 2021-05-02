@@ -228,8 +228,10 @@ citizens.
 
 ## Furthermore, the League of Nations and colonial aftermath of the first world war were neither democratic nor liberating for the citizens of the world.
 
-Woodrow Wilson and his fourteen points of January 1918 were hailed as
-the
+If there was one thing Lenin and Woodrow Wilson could agree on, it was
+that the secret and unprincipled international politics of the past had
+led the world into anarchy. Wilson\'s fourteen points of January 1918
+were hailed as the
 
 ## Furthermore, no states could achieve widespread liberty?
 
