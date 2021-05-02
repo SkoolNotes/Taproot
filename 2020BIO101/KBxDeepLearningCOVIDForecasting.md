@@ -68,6 +68,7 @@ source:
 		2. integrating the data into existing database
 		3. statistical analysis with predefined procedure
 			1. The experimentation comes in at this step with different deep learning models and techniques
+	2. 
     
 2.  what data did they generate?
     
