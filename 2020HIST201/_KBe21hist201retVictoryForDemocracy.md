@@ -262,7 +262,8 @@ allowed an indepnedent government, or at least be given to the
 anti-colonial United States. The democratically elected Syrian
 parliament declared France an unacceptable mandatory power, yet the
 League of Nations truncated Syria and gave it to France as a mandate
-anyway.
+anyway, directly contradicting the purported national self-determination
+goal and trampling the ambitions of the fledgling democracy.
 
 ## Furthermore, no states could achieve widespread liberty?
 
