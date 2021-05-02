@@ -251,8 +251,9 @@ to join the League, the allocation of land and colonies under a
 Gelvin 189). In particular, the western coast of the Arabian peninsula
 (the Levant) and the fertile center of world trade (Mesopotemia) were to
 be divided into fledgling states and brought into world of western
-politics (Gelvin 184). The British and French governments took this
-opportunity to
+politics (Gelvin 184). As the major victorious powers in the League,
+British and French took advantage of their authoratative positions by
+settling the
 
 ## Furthermore, no states could achieve widespread liberty?
 
