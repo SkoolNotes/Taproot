@@ -255,7 +255,11 @@ Great ArabRevolt and who was threatening to declare war on France
 (Gelvin 187, 192). This plot of land, which became known as Jordan,
 turned out to severly lack natural resources and has depended on foreign
 aid ever since---a dependency which has limited the autonomy and thus
-liberty of the government and its citizens. Syria
+liberty of the government and its citizens. Syria, which declared
+independenc from the Ottoman Empire towards the end of the war, sent a
+diplomatic comittee to Paris in 1819 to request that the Syria be
+allowed an indepnedent government, or at least be given to the
+anti-colonial United States.
 
 ## Furthermore, no states could achieve widespread liberty?
 
