@@ -73,6 +73,7 @@ source:
 			1. A type of recurrent neural network which uses a 'cell state' and forget gates to have both long and short term memory
 			2. better forecast accuracy then other models
 		2. ARIMA: *Auto Regressive Integrated Moving Average*
+			1. > stati
 		
 3. Created a 14-day forecasting model for COVID-19
     
