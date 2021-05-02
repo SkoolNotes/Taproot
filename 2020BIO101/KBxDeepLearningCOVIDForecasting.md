@@ -30,7 +30,10 @@ source:
 ARIMA: Auto Regressive Integrated Moving Average
 - Uses time series data
 	- ie. use differences between values rather than the actual value
-	- p: 
+	- p, d, q
+		- p: order of AR term, or time lag 
+		- d: "degree of differencing"
+		- q: order of MA term, or size of moving average window
  
 MLP: Multilayer Perceptron Neural Networks
 
