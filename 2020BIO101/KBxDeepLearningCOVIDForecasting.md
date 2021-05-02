@@ -10,6 +10,8 @@ source:
 ---
 ## Record of understanding:
 
+`This
+
 1.  Paper Title:  
 > A COVID-19 pandemic AI-based system with deep learning forecasting and automatic statistical data acquisition: Development and Implementation Study
     
@@ -18,7 +20,7 @@ source:
 - COVID is a large problem, almost all of the AI studies around it are region specific or centered around a single country
 - CPAIS (COVID-19 Pandemic AI System) aims to solve this by automatically compiling databases to form a worldwide dateset
 	- Including governmental responses
-- 
+	- allows heatmap vis of 
 
   
 
