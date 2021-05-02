@@ -10,7 +10,7 @@ source:
 ---
 ## Record of understanding:
 
-`The writing style here is more similar to my notes, which I use to 
+`The writing style here is more similar to my notes, which I personally use as a record of my understanding. If you would like this to be written up more formally, please let me know!`
 
 1.  Paper Title:  
 > A COVID-19 pandemic AI-based system with deep learning forecasting and automatic statistical data acquisition: Development and Implementation Study
