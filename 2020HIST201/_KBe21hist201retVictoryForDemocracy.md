@@ -288,7 +288,8 @@ sacrificed the liberty of the people for political or economic gains.
 
 Although the first world war toppled long-standing monarchies and saw
 the victory of democratic western powers, the mandate system trampled
-fledgling democratic
+fledgling democratic ambitions and the victors did not promote
+widespread liberty.
 
 ## sources
 
