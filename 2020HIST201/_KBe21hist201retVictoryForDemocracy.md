@@ -177,7 +177,9 @@ German was willing to sign the Treaty of Versailles (Palmer 692-3).
 Although the German Empire was toppled and replaced with a more
 democratic government, the harsh treaty opened the way for Adolf
 Hitler\'s authoritarian regime. Hitler\'s election was technically
-democratic, but his regime stripped liberty from vast populations.
+democratic, but his regime stripped liberty from vast populations. This
+surface-level \"victory\" for democracy did not lead to widespread
+liberty.
 
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
