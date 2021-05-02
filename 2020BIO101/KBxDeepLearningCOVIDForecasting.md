@@ -91,7 +91,7 @@ source:
 ### 5.  What was the significance or larger impact of the main finding?
 
 - the dateset itself is useful for the entire world doing data analysis
-- the forecasting data can 
+- the forecasting data can help with rapid policy changes and preparations. Being able to see two week into the future, especially at the beginning of the pandemic, is incredibly useful.
 
 
 
