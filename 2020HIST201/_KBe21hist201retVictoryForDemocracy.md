@@ -169,7 +169,7 @@ The heavily nationalist French and English public sentiment at the
 beginning of the war was fueled by a politically motivated arms race
 (Huang, The Inevitable Shift). Although originally induced by the
 security dilemma, the rapid military expansion was often exaggerated by
-political and
+political and egotistical motivations
 
 ## In addition, the new post-war Europen states was not conducive to liberty
 
