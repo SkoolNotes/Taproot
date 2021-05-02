@@ -168,14 +168,15 @@ neither the victors nor the aftermath promoted widespread liberty.
 Although originally induced by the security dilemma, the rapid military
 expansion was often exaggerated by political and egotistical
 motivations: the British government\'s naval ambitions were not strictly
-defensive. This engineered public sentiment was quickly reversed when
-the bloody trench stalemate became apparent, but the war torn countries
-felt they needed to outlast the enemy as a point of pride. The wage
-slavery and proletariat oppression of Marx, Engels, and Lenin came in
-the form of state propaganda posters imploring women to work in
-factories and conserve bread (Khakpour, WWI Aftermath, 5). English war
-poet Charles Sorley writes of the \"millions of the mouthless dead,\"
-exposing the loss of life on the battlefield.
+defensive. The English public did not want to join the war, This
+engineered public sentiment was quickly reversed when the bloody trench
+stalemate became apparent, but the war torn countries felt they needed
+to outlast the enemy as a point of pride. The wage slavery and
+proletariat oppression of Marx, Engels, and Lenin came in the form of
+state propaganda posters imploring women to work in factories and
+conserve bread (Khakpour, WWI Aftermath, 5). English war poet Charles
+Sorley writes of the \"millions of the mouthless dead,\" exposing the
+loss of life on the battlefield.
 
 ## In addition, the new post-war Europen states was not conducive to liberty
 
