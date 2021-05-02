@@ -183,7 +183,9 @@ Sorley writes of the \"millions of the mouthless dead,\" exposing the
 loss of life on the battlefield. The English masses had not been thrust
 into the war for the common good or the liberty of the
 citizens---Britain entered the war because it\'s leadership had been
-insulted by German industrialization.
+insulted by German industrialization. In the process, the Entente powers
+amassed massive debts to the United States which their citizens would
+have to suffer in the coming years.
 
 ## In addition, the new post-war Europen states was not conducive to liberty
 
