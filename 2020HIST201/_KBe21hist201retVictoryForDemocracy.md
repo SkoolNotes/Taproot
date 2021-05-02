@@ -208,3 +208,5 @@ Poland, Lithuania, and Romania,
 ### Gelvin, James L. 2011. *The modern Middle East: a history*, New York: Oxford University Press.
 
 ### Palmer et al. *A History of the Modern World*, 9th Edition.
+
+### History of Latvia 1918-1940. 28 Feb. 2017, www.latvia.eu/history-latvia-1918-1940.
