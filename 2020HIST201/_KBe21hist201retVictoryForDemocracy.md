@@ -167,7 +167,9 @@ neither the victors nor the aftermath promoted widespread liberty.
 
 The heavily nationalist French and English public sentiment at the
 beginning of the war was fueled by a politically motivated arms race
-(Huang, The Inevitable Shift). The countries went to war not for the
+(Huang, The Inevitable Shift). Although originally induced by the
+security dilemma, the rapid military expansion was often exaggerated by
+political and
 
 ## In addition, the new post-war Europen states was not conducive to liberty
 
