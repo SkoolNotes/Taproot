@@ -163,10 +163,10 @@ title: Victory for Democracy Essay
 Although the first world war was \"indeed a victory for democracy,\"
 neither the victors nor the aftermath promoted widespread liberty.
 
-## The victors of the first world war were monarchies, not polities, and they did not promote widespread liberty.
+## The victors of the first world war were tyrannies, not polities, and they did not promote widespread liberty.
 
 The French and English public sentiment at the beginning of the war was
-fueled by nationalist propaganda
+fueled by nationalist propaganda. The countries went to war not for the
 
 ## In addition, the new post-war Europen states was not conducive to liberty
 
