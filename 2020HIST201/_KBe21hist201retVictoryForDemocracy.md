@@ -185,7 +185,8 @@ create a sovereign nation for each people in eastern Europe. However,
 the intermixing of nationalities, lack of population exchange, and
 independence declarations of various states complicated the process. As
 a result, each new state found alien minorities within its borders and
-next of kin under foreign rule (Palmer 692).
+next of kin under foreign rule (Palmer 692). These cultural divides,
+suspiciously reminiscent of
 
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
