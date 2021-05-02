@@ -274,10 +274,10 @@ thus extreme political instability. Although most of the inhabitants
 were Shi\'i Arabs, the oil-rich northern territory of Mosul was
 inhabited by Sunni Kurds and the entire country was ruled by Sunni Arab
 (Gelvin 193). These economic aims exemplify Lenin\'s theory that
-\"imperialism is the height of capitalism,\" and the insuing religous
+\"imperialism is the height of capitalism,\" and the insuring religious
 turmoil shows that unchecked capitalist ideals fail to support universal
 liberty. Although national self-determination dictated that peoples
-should be grouped into countries by culture, the economicly-optimized
+should be grouped into countries by culture, the economically-optimized
 Iraq became a hostile and violent land of oppressed and misrepresented
 citizens. In each of these cases and many more, the British and French
 mandate decisions refused democratic demands from the citizens and
