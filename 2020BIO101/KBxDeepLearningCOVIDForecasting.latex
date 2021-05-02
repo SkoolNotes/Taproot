@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12530)}}    % original
-%\rhead{\textrmlf{Compiled }\#12530\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12531)}}    % original
+%\rhead{\textrmlf{Compiled }\#12531\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -197,13 +197,12 @@
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \item
-  Paper Title:\\
-  \textgreater{} A COVID-19 pandemic AI-based system with deep learning
-  forecasting and automatic statistical data acquisition: Development
-  and Implementation Study
+  \textbf{Paper Title:} \textgreater{} A COVID-19 pandemic AI-based
+  system with deep learning forecasting and automatic statistical data
+  acquisition: Development and Implementation Study
 \item
-  What question or phenomenon was being investigated in this study and
-  why?
+  \textbf{What question or phenomenon was being investigated in this
+  study and why?}
 \end{enumerate}
 
 \begin{itemize}

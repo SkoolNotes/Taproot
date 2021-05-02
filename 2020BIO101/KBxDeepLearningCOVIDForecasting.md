@@ -12,11 +12,11 @@ source:
 
 `The writing style here is more similar to my notes, which I personally use as a record of my understanding. If you would like this to be written up more formally, please let me know!`
 
-1.  Paper Title:  
+1.  **Paper Title:**
 > A COVID-19 pandemic AI-based system with deep learning forecasting and automatic statistical data acquisition: Development and Implementation Study
     
 
-2.  What question or phenomenon was being investigated in this study and why?
+2.  **What question or phenomenon was being investigated in this study and why?**
 - COVID is a large problem, almost all of the AI studies around it are region specific or centered around a single country
 - CPAIS (COVID-19 Pandemic AI System) aims to solve this by automatically compiling databases to form a worldwide dateset
 	- Including governmental responses
