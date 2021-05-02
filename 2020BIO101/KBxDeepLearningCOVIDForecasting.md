@@ -43,7 +43,7 @@ source:
 
 
 ##### MLP: *Multilayer Perceptron Neural Networks*
-- Just a sim
+- Just a feed forward network, but with hidden layers. 
 
 
 
