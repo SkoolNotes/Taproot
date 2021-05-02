@@ -216,6 +216,8 @@ citizens.
 
 ### Aristotle. *Politics*.
 
+### Huang, Albert. \"The Inevitable Shift: How International Incentives Cause Individual Radicals\", April 2021.
+
 ### Lenin, 1917. *State and Revolution*.
 
 ### Gelvin, James L. 2011. *The modern Middle East: a history*, New York: Oxford University Press.
