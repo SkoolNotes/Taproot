@@ -49,7 +49,8 @@ source:
 	- with sigmoid
 - They used [nnfor](https://github.com/trnnick/nnfor), which means they used R.
 
-##### MAE:
+##### MAE (vs RMSE):
+ - RMSE (root mean square error) 
 
 
 
