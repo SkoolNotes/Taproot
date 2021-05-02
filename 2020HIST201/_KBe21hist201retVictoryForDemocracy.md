@@ -257,7 +257,8 @@ under the mandate system at will. Britain took advantage of this
 opportunity to solve political problems it had created in secret
 agreements during the war and to maintain control over vital reigons
 (Gelvin 191-2). As a result, middle-eastern peoples enjoyed minimal
-national self-determination and
+national self-determination and the mandate system promoted neither
+democracy nor liberty.
 
 ## Furthermore, no states could achieve widespread liberty?
 
