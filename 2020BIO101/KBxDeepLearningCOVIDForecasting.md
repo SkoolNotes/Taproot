@@ -15,7 +15,7 @@ source:
     
 
 2.  What question or phenomenon was being investigated in this study and why?
- - Investing the covid pandemic,     
+- Covid is a large problem, almost all of the AI studies around 
 
   
 
