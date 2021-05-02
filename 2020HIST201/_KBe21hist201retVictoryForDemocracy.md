@@ -165,8 +165,8 @@ neither the victors nor the aftermath promoted widespread liberty.
 
 ## The victors of the first world war were tyrannies, not polities, and they did not promote widespread liberty.
 
-Although originally induced by the security dilemma, the rapid military
-expansion was often exaggerated by political and egotistical
+Although originally induced by the security dilemma, Europe\'s rapid
+military expansion was often exaggerated by political and egotistical
 motivations: the British government\'s naval ambitions were not strictly
 defensive. The English public had been historically isolationist and did
 not want to join the war. However, the British government saw Kaiser\'s
@@ -228,37 +228,26 @@ to rule in the interest of their citizens.
 
 ## Furthermore, the League of Nations and colonial aftermath of the first world war were neither democratic nor liberating for the citizens of the world.
 
-If there was one thing Lenin and Woodrow Wilson could agree on, it was
-that the secret and unprincipled international politics of the past had
-led the world into anarchy (Palmer 687-9). In January of 1918, as U-boat
-attacks were more effectively countered and the tide seemed to be
-turning toward an allied victory, Wilson unveiled his fourteen points
-which outlined a more righteous framework for international politics
-(Palmer 677, 688). At the 1819 Paris peace confrence, Wilson negotiated
-heavily for one point in particular---the creation of a League of
-Nations whose purpoted purpose was to subvert the international anarchy
-and settle future conflicts. As a result, numerous comprimises were made
-on the fourteen points. \<\> Starting in 1915 when the entente powers
-realized the war would not be quick, Britain and France made heavy use
-of post-war land promises to attract nations to their side of the
-battle; such secret treaties included the Constantinople Agreement, the
-Treaty of London; the Sykes-Picot Agreement, and the Treaty of Saint
-Jean de Maurienne (Gelvin 186-7). When the war was over, one central
-purpose of the League of Nations was to fairly and humanitarianly divide
-the Ottoman empire and German colonies; however, when congress refused
-to join the League, the allocation of land and colonies under a
-\"mandate\" system was directed by France and Britain (Palmer 690,
-Gelvin 189). In particular, the western coast of the Arabian peninsula
-(the Levant) and the fertile center of world trade (Mesopotemia) were to
-be divided into fledgling states and brought into world of western
-politics (Gelvin 184). As the major victorious powers in the League,
-Britain and France were able to create, destroy, and manipulate states
-under the mandate system at will. Britain took advantage of this
-opportunity to solve political problems it had created in secret
-agreements during the war and to maintain control over vital reigons
-(Gelvin 191-2). As a result, middle-eastern peoples enjoyed minimal
-national self-determination and the mandate system promoted neither
-democracy nor liberty.
+Starting in 1915 when the entente powers realized the war would not be
+quick, Britain and France made heavy use of post-war land promises to
+attract nations to their side of the battle; such secret treaties
+included the Constantinople Agreement, the Treaty of London; the
+Sykes-Picot Agreement, and the Treaty of Saint Jean de Maurienne (Gelvin
+186-7). When the war was over, one central purpose of the League of
+Nations was to fairly and humanitarianly divide the Ottoman empire and
+German colonies; however, when congress refused to join the League, the
+allocation of land and colonies under a \"mandate\" system was directed
+by France and Britain (Palmer 690, Gelvin 189). In particular, the
+western coast of the Arabian peninsula (the Levant) and the fertile
+center of world trade (Mesopotemia) were to be divided into fledgling
+states and brought into world of western politics (Gelvin 184). As the
+major victorious powers in the League, Britain and France were able to
+create, destroy, and manipulate states under the mandate system at will.
+Britain took advantage of this opportunity to solve political problems
+it had created in secret agreements during the war and to maintain
+control over vital reigons (Gelvin 191-2). As a result, middle-eastern
+peoples enjoyed minimal national self-determination and the mandate
+system promoted neither democracy nor liberty. In particular,
 
 ## Furthermore, no states could achieve widespread liberty?
 
@@ -287,3 +276,15 @@ ambitions were not strictly defensive. This engineered public sentiment
 was quickly reversed when the bloody trench stalemate became apparent,
 but the war torn countries felt they needed to outlast the enemy as a
 point of pride.
+
+If there was one thing Lenin and Woodrow Wilson could agree on, it was
+that the secret and unprincipled international politics of the past had
+led the world into anarchy (Palmer 687-9). In January of 1918, as U-boat
+attacks were more effectively countered and the tide seemed to be
+turning toward an allied victory, Wilson unveiled his fourteen points
+which outlined a more righteous framework for international politics
+(Palmer 677, 688). At the 1819 Paris peace confrence, Wilson negotiated
+heavily for one point in particular---the creation of a League of
+Nations whose purpoted purpose was to subvert the international anarchy
+and settle future conflicts. As a result, numerous comprimises were made
+on the fourteen points. \<\>
