@@ -192,10 +192,10 @@ a result, each new state found alien minorities within its borders and
 next of kin under foreign rule (Palmer 692). The newly-formed buffer
 states, including Lithuania, Latvia, Poland, and Czechoslovakia, were
 generally parliamentary democracies. However, they were created as
-intermediate states to stop Bolshevik communism from spreading These
-cultural divides, suspiciously reminiscent of the Slavic
-misrepresentations in the pre-war Austrian Empire, led to numerous
-fractured states with disgruntled populations.
+intermediate states to stop Bolshevik communism from spreading to
+western Europe and were politically weak. Cultural divides suspiciously
+reminiscent of the Slavic misrepresentations in the pre-war Austrian
+Empire, led to numerous fractured states with disgruntled populations.
 
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
