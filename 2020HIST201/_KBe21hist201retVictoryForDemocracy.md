@@ -180,7 +180,10 @@ proletariat oppression of Marx, Engels, and Lenin came in the form of
 state propaganda posters imploring women to work in factories and
 conserve bread (Khakpour, WWI Aftermath, 5). English war poet Charles
 Sorley writes of the \"millions of the mouthless dead,\" exposing the
-loss of life on the battlefield.
+loss of life on the battlefield. The English masses had not been thrust
+into the war for the common good or the liberty of the
+citizens---Britain entered the war because it\'s leadership had been
+insulted by German industrialization.
 
 ## In addition, the new post-war Europen states was not conducive to liberty
 

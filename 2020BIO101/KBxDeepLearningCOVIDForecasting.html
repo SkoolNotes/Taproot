@@ -71,34 +71,56 @@ html {
         </div>
         <div id="center-viewport">
             <p>#ref #ret</p>
-            <table>
-            <tbody>
-            <tr class="odd">
-            <td style="text-align: left;">## Record of understanding:</td>
-            </tr>
-            <tr class="even">
-            <td style="text-align: left;"><code>The writing style here is more similar to my notes, which I personally use as a record of my understanding. If you would like this to be written up more formally, please let me know!</code></td>
-            </tr>
-            <tr class="odd">
-            <td style="text-align: left;">### 1. <strong>Paper Title:</strong> &gt; A COVID-19 pandemic AI-based system with deep learning forecasting and automatic statistical data acquisition: Development and Implementation Study</td>
-            </tr>
-            <tr class="even">
-            <td style="text-align: left;">### 2. <strong>What question or phenomenon was being investigated in this study and why?</strong> - COVID is a large problem, almost all of the AI studies around it are region specific or centered around a single country - CPAIS (COVID-19 Pandemic AI System) aims to solve this by automatically compiling databases to form a worldwide dateset - Including governmental responses - allows heatmap viz of different policies in different countries, - and predictive modeling, ofc.</td>
-            </tr>
-            <tr class="odd">
-            <td style="text-align: left;">### 3. <strong>What background information did you need to understand in order to understand the question, main experiment, main finding, and significance? (i.e. what did you find yourself digging into in the introduction or through outside sources; what was the most relevant background info?)</strong></td>
-            </tr>
-            <tr class="even">
-            <td style="text-align: left;">##### ARIMA: <em>Auto Regressive Integrated Moving Average</em> - Type of Auto Regressive (AR, not Augmented Reality) model - used for processes which change over time (economics, web traffic, ect.) - Very similar to ARMA, but with a more complex stochastic term - Uses time series data - ie. use differences between values rather than the actual value - p, d, q - p: order of AR term, or time lag - d: “degree of differencing” - q: order of MA term, or size of moving average window</td>
-            </tr>
-            <tr class="odd">
-            <td style="text-align: left;">&gt; <strong>Predicted Y_t = Constant + Linear combination Lags of Y (upto p lags) + Linear Combination of Lagged forecast errors (upto q lags)</strong> - <a href="https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python">Good article</a></td>
-            </tr>
-            <tr class="even">
-            <td style="text-align: left;">##### MLP: <em>Multilayer Perceptron Neural Networks</em> - Just a feed forward network, but with hidden layers. Pretty ambiguous term, left relatively ambiguous in the paper.</td>
-            </tr>
-            </tbody>
-            </table>
+            <div class="center">
+            <hr />
+            </div>
+            <h2 id="record-of-understanding">Record of understanding:</h2>
+            <p><code>The writing style here is more similar to my notes, which I personally use as a record of my understanding. If you would like this to be written up more formally, please let me know!</code></p>
+            <h3 id="paper-title">1. <strong>Paper Title:</strong></h3>
+            <blockquote>
+            <p>A COVID-19 pandemic AI-based system with deep learning forecasting and automatic statistical data acquisition: Development and Implementation Study</p>
+            </blockquote>
+            <h3 id="what-question-or-phenomenon-was-being-investigated-in-this-study-and-why">2. <strong>What question or phenomenon was being investigated in this study and why?</strong></h3>
+            <ul>
+            <li><p>COVID is a large problem, almost all of the AI studies around it are region specific or centered around a single country</p></li>
+            <li><p>CPAIS (COVID-19 Pandemic AI System) aims to solve this by automatically compiling databases to form a worldwide dateset</p>
+            <ul>
+            <li><p>Including governmental responses</p></li>
+            <li><p>allows heatmap viz of different policies in different countries,</p></li>
+            <li><p>and predictive modeling, ofc.</p></li>
+            </ul></li>
+            </ul>
+            <h3 id="what-background-information-did-you-need-to-understand-in-order-to-understand-the-question-main-experiment-main-finding-and-significance-i.e.-what-did-you-find-yourself-digging-into-in-the-introduction-or-through-outside-sources-what-was-the-most-relevant-background-info">3. <strong>What background information did you need to understand in order to understand the question, main experiment, main finding, and significance? (i.e. what did you find yourself digging into in the introduction or through outside sources; what was the most relevant background info?)</strong></h3>
+            <h5 id="arima-auto-regressive-integrated-moving-average">ARIMA: <em>Auto Regressive Integrated Moving Average</em></h5>
+            <ul>
+            <li><p>Type of Auto Regressive (AR, not Augmented Reality) model</p>
+            <ul>
+            <li><p>used for processes which change over time (economics, web traffic, ect.)</p></li>
+            </ul></li>
+            <li><p>Very similar to ARMA, but with a more complex stochastic term</p></li>
+            <li><p>Uses time series data</p>
+            <ul>
+            <li><p>ie. use differences between values rather than the actual value</p></li>
+            <li><p>p, d, q</p>
+            <ul>
+            <li><p>p: order of AR term, or time lag</p></li>
+            <li><p>d: “degree of differencing”</p></li>
+            <li><p>q: order of MA term, or size of moving average window</p></li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <blockquote>
+            <p><strong>Predicted Y_t = Constant + Linear combination Lags of Y (upto p lags) + Linear Combination of Lagged forecast errors (upto q lags)</strong> - <a href="https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python">Good article</a></p>
+            </blockquote>
+            <h5 id="mlp-multilayer-perceptron-neural-networks">MLP: <em>Multilayer Perceptron Neural Networks</em></h5>
+            <ul>
+            <li><p>Just a feed forward network, but with hidden layers. Pretty ambiguous term, left relatively ambiguous in the paper.</p></li>
+            <li><p>They highlight: designed to solve non-linearly separable problems</p>
+            <ul>
+            <li><p>with sigmoid</p></li>
+            <li></li>
+            </ul></li>
+            </ul>
             <h3 id="what-was-the-main-thing-the-researchers-found-out-and-how-did-they-do-so">4. What was the main thing the researchers found out and how did they do so?…</h3>
             <ol>
             <li><p>what were the main (1-2) experiments?</p></li>
