@@ -264,7 +264,8 @@ parliament declared France an unacceptable mandatory power (Gelvin 191).
 However, the League of Nations truncated Syria and gave it to France as
 a mandate anyway, directly contradicting the League\'s purported goal
 national self-determination and trampling the ambitions and liberty of
-the fledgling democracy. Most embarassingly, Iraq
+the fledgling democracy. Most embarassingly, Iraq was created as a
+dependency theory style
 
 ## Furthermore, no states could achieve widespread liberty?
 
