@@ -286,7 +286,8 @@ sacrificed the liberty of the people for political or economic gains.
 
 ## conclusion
 
-Although the first world war toppled long-standing monarchies
+Although the first world war toppled long-standing monarchies and saw
+the victory of democratic western powers, the
 
 ## sources
 
