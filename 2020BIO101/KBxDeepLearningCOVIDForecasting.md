@@ -79,6 +79,7 @@ source:
     
 2.  what data did they generate?
 	1.  Generated a worldwide automatically updating dateset for COVID-19 with their automation technology
+	2.  And also, generated consistent forecasting data of the next 14 days
     
 3.  what does that data mean?
     
