@@ -178,11 +178,11 @@ Although the German Empire was toppled and replaced with a more
 democratic government, the harsh treaty opened the way for Adolf
 Hitler\'s authoritarian regime. Hitler\'s election was indeed
 democratic, but his regime stripped liberty from vast populations.
-Aristotle writes that democracies are the \"rule of the poor\", Hitler
-used the democratic \"rule of the poor\" to rise to power, and quickly
-converted the state to a tyranny focused on his own political
-viewpoints. As Aristotle predicted, neither political agenda was
-beneficial to the citizen body as a whole. This surface-level
+Aristotle writes that democracies are the \"rule of the poor\", and
+Hitler leveraged the hunger and anger of the poor masses to amass power.
+and quickly converted the state to a tyranny focused on his own
+political viewpoints. As Aristotle predicted, neither political agenda
+was beneficial to the citizen body as a whole. This surface-level
 \"victory\" for democracy did not lead to widespread liberty. An
 additional central goal of the Paris settlement was to allow national
 self-determination in Europe. The peacemakers attempted to create a
