@@ -241,7 +241,8 @@ and settle future conflicts. As a result, numerous comprimises were made
 on the fourteen points. \<\> One central purpose of the League of
 Nations was to fairly and humanitarianly divide the German colonies;
 however, when congress refused to join the League, the allocation of
-colonies under a \"mandate\" system was directed by France and Britain.
+colonies under a \"mandate\" system was directed by France and Britain
+(Palmer 690).
 
 ## Furthermore, no states could achieve widespread liberty?
 
