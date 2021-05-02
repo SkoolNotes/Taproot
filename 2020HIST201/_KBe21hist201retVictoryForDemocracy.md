@@ -194,11 +194,13 @@ states, including Lithuania, Latvia, Poland, and Czechoslovakia, were
 generally parliamentary democracies (Palmer 692, Latvian Institute).
 However, they were created to serve the purpose of buffering Bolshevik
 communism from spreading to western Europe and were thus hastily drawn,
-culturally torn, and politically weak. These cultural divides that were
-suspiciously reminiscent of the Slavic misrepresentations in the pre-war
-Austrian Empire led to numerous fractured states with disgruntled
-populations---a number of ostensible democracies that failed to rule in
-the interest of their citizens.
+culturally torn, and politically weak. The first Latvian president went
+as far as to demilitarize the country, which was presently trampled in
+the second world war. These cultural divides that were suspiciously
+reminiscent of the Slavic misrepresentations in the pre-war Austrian
+Empire led to numerous fractured states with disgruntled populations---a
+number of ostensible democracies that failed to rule in the interest of
+their citizens.
 
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
