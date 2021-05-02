@@ -15,7 +15,7 @@ source:
     
 
 2.  What question or phenomenon was being investigated in this study and why?
-- Covid is a large problem, almost all of the AI studies around 
+- COVID is a large problem, almost all of the AI studies around it are region specific or centered around a single country
 
   
 
