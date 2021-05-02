@@ -247,7 +247,9 @@ the Arabian peninsula (the Levant) and the fertile center of world trade
 (Mesopotemia) were to be divided into fledgling states and brought into
 world of western politics (Gelvin 184). The entente powers, especially
 Britain, made heavy use of post-war land promises to attract allies to
-their side of the battle.
+their side of the battle. Such secret treaties included the
+Constantinople Agreement between Britain, France, and Russia; the Treaty
+of London;
 
 ## Furthermore, no states could achieve widespread liberty?
 
