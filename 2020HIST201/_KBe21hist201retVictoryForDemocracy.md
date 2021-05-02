@@ -183,7 +183,7 @@ liberty.
 
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
-## Furthermore, at
+## Furthermore, no states could achieve widespread liberty?
 
 ## sources
 
