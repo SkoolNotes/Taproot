@@ -26,7 +26,10 @@ source:
   
 
 3.  What background information did you need to understand in order to understand the question, main experiment, main finding, and significance? (i.e. what did you find yourself digging into in the introduction or through outside sources; what was the most relevant background info?)
-ARIMA, FNN, MLP
+
+ARIMA: Auto Regressive Integrated Moving Average
+FNN
+MLP
     
 
   

@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12535)}}    % original
-%\rhead{\textrmlf{Compiled }\#12535\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12536)}}    % original
+%\rhead{\textrmlf{Compiled }\#12536\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -228,12 +228,20 @@
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{2}
+\tightlist
 \item
   What background information did you need to understand in order to
   understand the question, main experiment, main finding, and
   significance? (i.e.~what did you find yourself digging into in the
   introduction or through outside sources; what was the most relevant
-  background info?) ARIMA, FNN, MLP
+  background info?)
+\end{enumerate}
+
+ARIMA: Auto Regressive Integrated Moving Average FNN MLP
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
 \item
   What was the main thing the researchers found out and how did they do
   so?\ldots{}
