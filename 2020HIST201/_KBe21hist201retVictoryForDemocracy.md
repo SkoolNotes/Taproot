@@ -176,7 +176,7 @@ in the heat of the war\" dealt harshly to Germany---so much so that no
 German was willing to sign the Treaty of Versailles (Palmer 692-3).
 Although the German Empire was toppled and replaced with a more
 democratic government, the harsh treaty opened the way for Adolf
-Hitler\'s authoritarian regime. Hitler\'s election was technically
+Hitler\'s authoritarian regime. Hitler\'s election was indeed
 democratic, but his regime stripped liberty from vast populations.
 Hitler used the democratic \"rule of the poor\" to rise to power, and
 quickly converted the state to a tyranny focused on his own political
