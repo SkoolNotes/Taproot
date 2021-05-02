@@ -78,6 +78,7 @@ source:
 3. Created a 14-day forecasting model for COVID-19
     
 2.  what data did they generate?
+	1.  Generated a worldwide automatically updating dateset for COVID-19 with their automation technology
     
 3.  what does that data mean?
     
