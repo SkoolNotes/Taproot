@@ -172,7 +172,7 @@ security dilemma, the rapid military expansion was often exaggerated by
 political and egotistical motivations: the British government\'s naval
 ambitions were not strictly defensive. This engineered public sentiment
 was quickly reversed when the bloody trench stalemate became apparent,
-but the wartorn countries felt they needed to outlast the enemy as a
+but the war torn countries felt they needed to outlast the enemy as a
 point of pride.
 
 ## In addition, the new post-war Europen states was not conducive to liberty
