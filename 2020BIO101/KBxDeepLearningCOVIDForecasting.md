@@ -80,11 +80,10 @@ source:
 2.  what data did they generate?
 	1.  Generated a worldwide automatically updating dateset for COVID-19 with their automation technology
 	2.  And also, generated consistent forecasting data of the next 14 days
+	3.  Also generated data on the correlation of government policies and COVID-19
     
 3.  what does that data mean?
     
-
-  
 
 ### 5.  What was the significance or larger impact of the main finding?
 
