@@ -70,6 +70,8 @@ source:
 			1. The experimentation comes in at this step with different deep learning models and techniques
 	2. **Main Models:**
 		1. LSTM: *long term short term memory*
+			1. A type of recurrent neural network which uses a 'cell state' and forget gates to have both long and short term memory
+			2. better forecast accuracy then other models
 		2. ARIMA: *Auto Regressive Integrated Moving Average*
 		
 3. Created a 14-day forecasting model for COVID-19
