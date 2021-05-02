@@ -269,7 +269,7 @@ as a dependency-theory-style producer state for the British government,
 the economic focus led to the grouping of numerous ethnic groups and
 thus extreme political instability. Although most of the inhabitants
 were Shi\'i Arabs, the oil-rich northern territory of Mosul was
-inhabited by Sunni Kurds,
+inhabited by Sunni Kurds and the entire country was ruled by Sunni Arab.
 
 ## Furthermore, no states could achieve widespread liberty?
 
