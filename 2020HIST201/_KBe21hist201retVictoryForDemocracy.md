@@ -237,7 +237,8 @@ which outlined a more righteous framework for international politics
 (Palmer 677). At the 1819 Paris peace confrence, Wilson negotiated
 heavily for one point in particular---the creation of a League of
 Nations whose purpoted purpose was to subvert the international anarchy
-and settle future conflicts. As a result, numerous comprimises
+and settle future conflicts. As a result, numerous comprimises were made
+on the fourteen points.
 
 ## Furthermore, no states could achieve widespread liberty?
 
