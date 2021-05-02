@@ -175,7 +175,7 @@ was quickly reversed when the bloody trench stalemate became apparent,
 but the war torn countries felt they needed to outlast the enemy as a
 point of pride. The wage slavery and proletariat oppression of Marx,
 Engels, and Lenin came in the form of state propaganda posters imploring
-women to work in factories and conserve bread.
+women to work in factories and conserve bread (Kapour, WWI Aftermath 5).
 
 ## In addition, the new post-war Europen states was not conducive to liberty
 
