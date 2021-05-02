@@ -10,7 +10,7 @@ source:
 ---
 ## Record of understanding:
 
-`This
+`These are
 
 1.  Paper Title:  
 > A COVID-19 pandemic AI-based system with deep learning forecasting and automatic statistical data acquisition: Development and Implementation Study
