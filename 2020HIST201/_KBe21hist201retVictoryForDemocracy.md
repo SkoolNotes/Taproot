@@ -248,7 +248,9 @@ it had created in secret agreements during the war and to maintain
 control over vital reigons (Gelvin 191-2). As a result, middle-eastern
 peoples enjoyed minimal national self-determination and the mandate
 system promoted neither democracy nor liberty. Jordan, Syria, and Iraq
-were among the hastily and selfishly created nations.
+were among the hastily and selfishly created nations. The British
+arbitrarily split Palestine at the Jordan River and granted the eastern
+portion, or \"Trans-Jordan\" as it was known at the time, to \'Abdallah.
 
 ## Furthermore, no states could achieve widespread liberty?
 
