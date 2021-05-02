@@ -238,19 +238,20 @@ which outlined a more righteous framework for international politics
 heavily for one point in particular---the creation of a League of
 Nations whose purpoted purpose was to subvert the international anarchy
 and settle future conflicts. As a result, numerous comprimises were made
-on the fourteen points. \<\> One central purpose of the League of
-Nations was to fairly and humanitarianly divide the Ottoman empire and
-German colonies; however, when congress refused to join the League, the
-allocation of land and colonies under a \"mandate\" system was directed
-by France and Britain (Palmer 690). Starting in 1915 when the entente
-powers realized the war would not be quick, Britain and other allies,
-made heavy use of post-war land promises to attract nations to their
-side of the battle. Such secret treaties included the Constantinople
-Agreement, the Treaty of London; the Sykes-Picot Agreement, and the
-Treaty of Saint Jean de Maurienne (Gelvin 186-7). In particular, the
-western coast of the Arabian peninsula (the Levant) and the fertile
-center of world trade (Mesopotemia) were to be divided into fledgling
-states and brought into world of western politics (Gelvin 184).
+on the fourteen points. \<\> Starting in 1915 when the entente powers
+realized the war would not be quick, Britain and other allies, made
+heavy use of post-war land promises to attract nations to their side of
+the battle. Such secret treaties included the Constantinople Agreement,
+the Treaty of London; the Sykes-Picot Agreement, and the Treaty of Saint
+Jean de Maurienne (Gelvin 186-7). When the war was over, one central
+purpose of the League of Nations was to fairly and humanitarianly divide
+the Ottoman empire and German colonies; however, when congress refused
+to join the League, the allocation of land and colonies under a
+\"mandate\" system was directed by France and Britain (Palmer 690). In
+particular, the western coast of the Arabian peninsula (the Levant) and
+the fertile center of world trade (Mesopotemia) were to be divided into
+fledgling states and brought into world of western politics (Gelvin
+184). The British and French governments
 
 ## Furthermore, no states could achieve widespread liberty?
 
