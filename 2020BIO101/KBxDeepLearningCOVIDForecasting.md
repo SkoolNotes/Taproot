@@ -29,6 +29,7 @@ source:
 
 ARIMA: Auto Regressive Integrated Moving Average
 - type of Auto Regressive (AR, not Augmented Reality) model
+	- used for processes which change over time (economics, web traffic, 
 - Uses time series data
 	- ie. use differences between values rather than the actual value
 	- p, d, q
