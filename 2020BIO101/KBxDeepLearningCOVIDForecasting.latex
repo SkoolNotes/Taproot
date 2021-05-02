@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12565)}}    % original
-%\rhead{\textrmlf{Compiled }\#12565\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12566)}}    % original
+%\rhead{\textrmlf{Compiled }\#12566\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -293,6 +293,8 @@ Networks}}{MLP: Multilayer Perceptron Neural Networks}}\label{mlp-multilayer-per
 \item
   Just a feed forward network, but with hidden layers. Pretty ambiguous
   term, left relatively ambiguous in the paper.
+\item
+  Fancy name for a vanilla neural net
 \item
   They highlight: designed to solve non-linearly separable problems
 

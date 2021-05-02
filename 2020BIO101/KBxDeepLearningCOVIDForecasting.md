@@ -44,6 +44,7 @@ source:
 
 ##### MLP: *Multilayer Perceptron Neural Networks*
 - Just a feed forward network, but with hidden layers. Pretty ambiguous term, left relatively ambiguous in the paper.
+- Fancy name for a vanilla neural net
 - They highlight: designed to solve non-linearly separable problems
 	- with sigmoid
 - They used [nnfor](https://github.com/trnnick/nnfor), which means they used R.
