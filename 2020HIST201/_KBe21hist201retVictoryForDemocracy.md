@@ -171,14 +171,16 @@ motivations: the British government\'s naval ambitions were not strictly
 defensive. The English public had been historically isolationist and did
 not want to join the war. However, the British government saw Kaiser\'s
 Kruger Telegram of 1896 and Germany\'s naval expansion as politically
-insulting. This engineered public sentiment was quickly reversed when
-the bloody trench stalemate became apparent, but the war torn countries
-felt they needed to outlast the enemy as a point of pride. The wage
-slavery and proletariat oppression of Marx, Engels, and Lenin came in
-the form of state propaganda posters imploring women to work in
-factories and conserve bread (Khakpour, WWI Aftermath, 5). English war
-poet Charles Sorley writes of the \"millions of the mouthless dead,\"
-exposing the loss of life on the battlefield.
+insulting. As tensions increased and militaries were expanded, public
+sentiment shifted to be more nationalist (Huang, The Inevitable Shift).
+This engineered public sentiment was quickly reversed when the bloody
+trench stalemate became apparent, but the war torn countries felt they
+needed to outlast the enemy as a point of pride. The wage slavery and
+proletariat oppression of Marx, Engels, and Lenin came in the form of
+state propaganda posters imploring women to work in factories and
+conserve bread (Khakpour, WWI Aftermath, 5). English war poet Charles
+Sorley writes of the \"millions of the mouthless dead,\" exposing the
+loss of life on the battlefield.
 
 ## In addition, the new post-war Europen states was not conducive to liberty
 
