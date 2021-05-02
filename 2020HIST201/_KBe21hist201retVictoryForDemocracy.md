@@ -193,10 +193,10 @@ next of kin under foreign rule (Palmer 692). The newly-formed buffer
 states, including Lithuania, Latvia, Poland, and Czechoslovakia, were
 generally parliamentary democracies. However, they were created to serve
 the purpose of buffering Bolshevik communism from spreading to western
-Europe and were politically weak. Cultural divides that were
-suspiciously reminiscent of the Slavic misrepresentations in the pre-war
-Austrian Empire led to numerous fractured states with disgruntled
-populations.
+Europe and were thus hastily drawn, culturally torn, and politically
+weak. These cultural divides that were suspiciously reminiscent of the
+Slavic misrepresentations in the pre-war Austrian Empire led to numerous
+fractured states with disgruntled populations.
 
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
