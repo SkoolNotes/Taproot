@@ -239,10 +239,10 @@ heavily for one point in particular---the creation of a League of
 Nations whose purpoted purpose was to subvert the international anarchy
 and settle future conflicts. As a result, numerous comprimises were made
 on the fourteen points. \<\> Starting in 1915 when the entente powers
-realized the war would not be quick, Britain and other allies, made
-heavy use of post-war land promises to attract nations to their side of
-the battle. Such secret treaties included the Constantinople Agreement,
-the Treaty of London; the Sykes-Picot Agreement, and the Treaty of Saint
+realized the war would not be quick, Britain and France made heavy use
+of post-war land promises to attract nations to their side of the
+battle. Such secret treaties included the Constantinople Agreement, the
+Treaty of London; the Sykes-Picot Agreement, and the Treaty of Saint
 Jean de Maurienne (Gelvin 186-7). When the war was over, one central
 purpose of the League of Nations was to fairly and humanitarianly divide
 the Ottoman empire and German colonies; however, when congress refused
@@ -255,7 +255,8 @@ politics (Gelvin 184). As the major victorious powers in the League,
 Britain and France were able to create, destroy, and manipulate states
 under the mandate system at will. Britain took advantage of this
 opportunity to solve political problems it had created in secret
-agreements during the war.
+agreements during the war and to maintain control over vital reigons
+(Gelvin 191-2).
 
 ## Furthermore, no states could achieve widespread liberty?
 
