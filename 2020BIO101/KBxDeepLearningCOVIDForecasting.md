@@ -16,6 +16,7 @@ source:
 
 2.  What question or phenomenon was being investigated in this study and why?
 - COVID is a large problem, almost all of the AI studies around it are region specific or centered around a single country
+- CPAIS (COVID-19 Pandemic AI System) 
 
   
 
