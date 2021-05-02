@@ -248,8 +248,8 @@ the Arabian peninsula (the Levant) and the fertile center of world trade
 world of western politics (Gelvin 184). The entente powers, especially
 Britain, made heavy use of post-war land promises to attract allies to
 their side of the battle. Such secret treaties included the
-Constantinople Agreement between Britain, France, and Russia; the Treaty
-of London;
+Constantinople Agreement, the Treaty of London; the Sykes-Picot
+Agreement, and the Treaty of Saint Jean de Maurienne.
 
 ## Furthermore, no states could achieve widespread liberty?
 
