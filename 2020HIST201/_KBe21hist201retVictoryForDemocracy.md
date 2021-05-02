@@ -292,7 +292,10 @@ the victory of democratic western powers, the mandate system trampled
 fledgling democratic ambitions and the victors did not promote
 widespread liberty. Indeed, the \"democratic\" victors of WWI held
 colonies with no voice in the democracy, and the decisions made by
-mandate-holding powers were not favorable for their dependent states.
+mandate-holding powers were not favorable for their dependent states. By
+Aristotle\'s classification, this \"rule by the rich for the rich\" is
+an international oligarchy that strips the liberty of the colonized for
+capitalistic gain. Thus, the aftermath of the first world war
 
 ## sources
 
