@@ -167,7 +167,7 @@ neither the victors nor the aftermath promoted widespread liberty.
 
 ### \<need something about wage slavery in the us, france, and britain\>
 
-## In addition, the post-war German \"republic\" was not conducive to liberty
+## In addition, the new post-war Europen states was not conducive to liberty
 
 The new German republic, who professed their own ideals, did not feel
 responsible or attached to the previous regime. However, the treaty
