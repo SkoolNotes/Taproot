@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12554)}}    % original
-%\rhead{\textrmlf{Compiled }\#12554\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12555)}}    % original
+%\rhead{\textrmlf{Compiled }\#12555\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -194,16 +194,20 @@
 
 \texttt{The\ writing\ style\ here\ is\ more\ similar\ to\ my\ notes,\ which\ I\ personally\ use\ as\ a\ record\ of\ my\ understanding.\ If\ you\ would\ like\ this\ to\ be\ written\ up\ more\ formally,\ please\ let\ me\ know!}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\item
-  \textbf{Paper Title:} \textgreater{} A COVID-19 pandemic AI-based
-  system with deep learning forecasting and automatic statistical data
-  acquisition: Development and Implementation Study
-\item
-  \textbf{What question or phenomenon was being investigated in this
-  study and why?}
-\end{enumerate}
+\hypertarget{paper-title}{%
+\subsubsection{\texorpdfstring{1. \textbf{Paper
+Title:}}{1. Paper Title:}}\label{paper-title}}
+
+\begin{quote}
+A COVID-19 pandemic AI-based system with deep learning forecasting and
+automatic statistical data acquisition: Development and Implementation
+Study
+\end{quote}
+
+\hypertarget{what-question-or-phenomenon-was-being-investigated-in-this-study-and-why}{%
+\subsubsection{\texorpdfstring{2. \textbf{What question or phenomenon
+was being investigated in this study and
+why?}}{2. What question or phenomenon was being investigated in this study and why?}}\label{what-question-or-phenomenon-was-being-investigated-in-this-study-and-why}}
 
 \begin{itemize}
 \tightlist
@@ -225,17 +229,13 @@
   \end{itemize}
 \end{itemize}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{2}
-\tightlist
-\item
-  \textbf{What background information did you need to understand in
-  order to understand the question, main experiment, main finding, and
-  significance? (i.e.~what did you find yourself digging into in the
-  introduction or through outside sources; what was the most relevant
-  background info?)}
-\end{enumerate}
+\hypertarget{what-background-information-did-you-need-to-understand-in-order-to-understand-the-question-main-experiment-main-finding-and-significance-i.e.-what-did-you-find-yourself-digging-into-in-the-introduction-or-through-outside-sources-what-was-the-most-relevant-background-info}{%
+\subsubsection{\texorpdfstring{3. \textbf{What background information
+did you need to understand in order to understand the question, main
+experiment, main finding, and significance? (i.e.~what did you find
+yourself digging into in the introduction or through outside sources;
+what was the most relevant background
+info?)}}{3. What background information did you need to understand in order to understand the question, main experiment, main finding, and significance? (i.e.~what did you find yourself digging into in the introduction or through outside sources; what was the most relevant background info?)}}\label{what-background-information-did-you-need-to-understand-in-order-to-understand-the-question-main-experiment-main-finding-and-significance-i.e.-what-did-you-find-yourself-digging-into-in-the-introduction-or-through-outside-sources-what-was-the-most-relevant-background-info}}
 
 ARIMA: Auto Regressive Integrated Moving Average - Type of Auto
 Regressive (AR, not Augmented Reality) model - used for processes which

@@ -12,11 +12,11 @@ source:
 
 `The writing style here is more similar to my notes, which I personally use as a record of my understanding. If you would like this to be written up more formally, please let me know!`
 
-1.  **Paper Title:**
+### 1.  **Paper Title:**
 > A COVID-19 pandemic AI-based system with deep learning forecasting and automatic statistical data acquisition: Development and Implementation Study
     
 
-2.  **What question or phenomenon was being investigated in this study and why?**
+### 2.  **What question or phenomenon was being investigated in this study and why?**
 - COVID is a large problem, almost all of the AI studies around it are region specific or centered around a single country
 - CPAIS (COVID-19 Pandemic AI System) aims to solve this by automatically compiling databases to form a worldwide dateset
 	- Including governmental responses
@@ -25,7 +25,7 @@ source:
 
   
 
-3.  **What background information did you need to understand in order to understand the question, main experiment, main finding, and significance? (i.e. what did you find yourself digging into in the introduction or through outside sources; what was the most relevant background info?)**
+### 3.  **What background information did you need to understand in order to understand the question, main experiment, main finding, and significance? (i.e. what did you find yourself digging into in the introduction or through outside sources; what was the most relevant background info?)**
 
 ARIMA: Auto Regressive Integrated Moving Average
 - Type of Auto Regressive (AR, not Augmented Reality) model
@@ -40,7 +40,8 @@ ARIMA: Auto Regressive Integrated Moving Average
 		
 > **Predicted Y_t = Constant + Linear combination Lags of Y (upto p lags) + Linear Combination of Lagged forecast errors (upto q lags)** 
 - [Good article](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python)  
- 
+
+
 MLP: Multilayer Perceptron Neural Networks
 
 
