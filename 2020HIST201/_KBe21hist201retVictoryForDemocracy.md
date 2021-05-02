@@ -283,6 +283,8 @@ goal and trampling the ambitions of the fledgling democracy.
 
 ### Latvian Institute, 28 Feb. 2017. History of Latvia 1918-1940. www.latvia.eu/history-latvia-1918-1940.
 
+## bloopers
+
 The heavily nationalist French and English public sentiment at the
 beginning of the war was fueled by a politically motivated arms race
 (Huang, The Inevitable Shift). Although originally induced by the
