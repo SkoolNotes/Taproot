@@ -43,7 +43,8 @@ source:
 
 
 ##### MLP: *Multilayer Perceptron Neural Networks*
-- Just a feed forward network, but with hidden layers. 
+- Just a feed forward network, but with hidden layers. Pretty ambiguous term, left relatively ambiguous in the paper.
+- 
 
 
 
