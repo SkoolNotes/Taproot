@@ -20,7 +20,8 @@ source:
 - COVID is a large problem, almost all of the AI studies around it are region specific or centered around a single country
 - CPAIS (COVID-19 Pandemic AI System) aims to solve this by automatically compiling databases to form a worldwide dateset
 	- Including governmental responses
-	- allows heatmap vis of 
+	- allows heatmap vis of different policies in different countries,
+	- and 
 
   
 
