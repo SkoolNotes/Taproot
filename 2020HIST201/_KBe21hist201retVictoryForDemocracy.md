@@ -167,7 +167,7 @@ neither the victors nor the aftermath promoted widespread liberty.
 
 ### \<need something about wage slavery in the us, france, and britain\>
 
-## The
+## In addition, the post-war reparations were not conducive to liberty
 
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
