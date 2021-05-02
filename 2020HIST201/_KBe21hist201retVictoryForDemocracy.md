@@ -233,6 +233,8 @@ citizens.
 
 ### Huang, Albert. \"The Inevitable Shift: How International Incentives Cause Individual Radicals\", April 2021.
 
+### Khakpour, Arta. \"WW1 aftermath - Google Slides\".
+
 ### Lenin, 1917. *State and Revolution*.
 
 ### Gelvin, James L. 2011. *The modern Middle East: a history*, New York: Oxford University Press.

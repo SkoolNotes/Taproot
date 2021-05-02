@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12564)}}    % original
-%\rhead{\textrmlf{Compiled }\#12564\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12565)}}    % original
+%\rhead{\textrmlf{Compiled }\#12565\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -302,7 +302,8 @@ Networks}}{MLP: Multilayer Perceptron Neural Networks}}\label{mlp-multilayer-per
     with sigmoid
   \end{itemize}
 \item
-  They used \href{https://github.com/trnnick/nnfor}{nnfor}, which
+  They used \href{https://github.com/trnnick/nnfor}{nnfor}, which means
+  they used R.
 \end{itemize}
 
 \hypertarget{what-was-the-main-thing-the-researchers-found-out-and-how-did-they-do-so}{%
