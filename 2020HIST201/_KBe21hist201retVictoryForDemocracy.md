@@ -171,7 +171,7 @@ neither the victors nor the aftermath promoted widespread liberty.
 
 The new German republic, who professed their own ideals, did not feel
 responsible or attached to the previous regime. However, the treaty
-makers in Paris in early 1919 working under public pressure and \"still
+makers in Paris working in early 1919 under public pressure and \"still
 in the heat of the war\" dealt harshly to Germany---so much so that no
 German was willing to sign the Treaty of Versailles (Palmer 692-3).
 
