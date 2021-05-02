@@ -245,8 +245,9 @@ allocation of land and colonies under a \"mandate\" system was directed
 by France and Britain (Palmer 690). In particular, the western coast of
 the Arabian peninsula (the Levant) and the fertile center of world trade
 (Mesopotemia) were to be divided into fledgling states and brought into
-world of western politics (Gelvin 184). The entente powers, especially
-Britain, made heavy use of post-war land promises to attract allies to
+world of western politics (Gelvin 184). Starting in 1915 when the
+entente powers realized the war would not be quick, Britain and other
+allies, made heavy use of post-war land promises to attract nations to
 their side of the battle. Such secret treaties included the
 Constantinople Agreement, the Treaty of London; the Sykes-Picot
 Agreement, and the Treaty of Saint Jean de Maurienne.
