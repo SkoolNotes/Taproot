@@ -203,16 +203,16 @@ way for Adolf Hitler\'s authoritarian regime. Hitler\'s election was
 indeed democratic, but his regime stripped liberty from vast
 populations. Aristotle writes that democracies are the \"rule of the
 poor\", and Hitler leveraged the hunger and anger of the poor masses to
-amass power. Once in control, he quickly converted the state to a
-centralized tyranny focused on his own political viewpoints---or, as
-Lenin would remark, a machine to for one group to oppress another. As
-Aristotle predicted, neither democratic nor tyrannical policy was
-beneficial to the citizen body as a whole. This surface-level
-\"victory\" for democracy did not lead to widespread liberty. An
-additional central goal of the Paris settlement was to allow national
-self-determination in Europe. The peacemakers attempted to create a
-sovereign nation for each people in eastern Europe. However, the
-intermixing of nationalities, lack of population exchange, and
+amass power (Aristotle, *Politics*). Once in control, he quickly
+converted the state to a centralized tyranny focused on his own
+political viewpoints---or, as Lenin would remark, a machine to for one
+group to oppress another. As Aristotle predicted, neither democratic nor
+tyrannical policy was beneficial to the citizen body as a whole. This
+surface-level \"victory\" for democracy did not lead to widespread
+liberty. An additional central goal of the Paris settlement was to allow
+national self-determination in Europe. The peacemakers attempted to
+create a sovereign nation for each people in eastern Europe. However,
+the intermixing of nationalities, lack of population exchange, and
 independence declarations of various states complicated the process. As
 a result, each new state found alien minorities within its borders and
 next of kin under foreign rule (Palmer 692). The newly-formed buffer
