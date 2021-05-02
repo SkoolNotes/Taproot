@@ -238,7 +238,8 @@ which outlined a more righteous framework for international politics
 heavily for one point in particular---the creation of a League of
 Nations whose purpoted purpose was to subvert the international anarchy
 and settle future conflicts. As a result, numerous comprimises were made
-on the fourteen points.
+on the fourteen points. \<\> One central purpose of the League of
+Nations was to fairly divide the remaining colonies
 
 ## Furthermore, no states could achieve widespread liberty?
 
