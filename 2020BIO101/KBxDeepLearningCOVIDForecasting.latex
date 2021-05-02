@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12545)}}    % original
-%\rhead{\textrmlf{Compiled }\#12545\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12546)}}    % original
+%\rhead{\textrmlf{Compiled }\#12546\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -230,11 +230,11 @@
 \setcounter{enumi}{2}
 \tightlist
 \item
-  What background information did you need to understand in order to
-  understand the question, main experiment, main finding, and
+  \textbf{What background information did you need to understand in
+  order to understand the question, main experiment, main finding, and
   significance? (i.e.~what did you find yourself digging into in the
   introduction or through outside sources; what was the most relevant
-  background info?)
+  background info?)}
 \end{enumerate}
 
 ARIMA: Auto Regressive Integrated Moving Average - Uses time series data
