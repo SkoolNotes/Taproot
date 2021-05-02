@@ -190,7 +190,7 @@ amassed massive debts to the United States which their citizens would
 have to suffer in the coming years. The Entente war effort led to
 democratic victories, but did not promote the liberty of their citizens.
 
-## In addition, the new post-war Europen states was not conducive to liberty
+## In addition, the new post-war European entities was not conducive to liberty
 
 The new and democratic German republic, who professed their own ideals,
 did not feel responsible or attached to the previous regime (Palmer
