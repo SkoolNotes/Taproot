@@ -165,7 +165,9 @@ neither the victors nor the aftermath promoted widespread liberty.
 
 ## The victors of the first world war were democracies and tyrannies, not polities, and they did not promote widespread liberty.
 
-**\***
+### \<need something about wage slavery in the us, france, and britain\>
+
+## The victors of the first world war were democracies and tyrannies, not polities, and they did not promote widespread liberty.
 
 ## The aftermath of the first world war was neither democratic nor liberating.
 
