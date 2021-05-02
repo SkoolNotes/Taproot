@@ -179,7 +179,8 @@ democratic government, the harsh treaty opened the way for Adolf
 Hitler\'s authoritarian regime. Hitler\'s election was technically
 democratic, but his regime stripped liberty from vast populations. This
 surface-level \"victory\" for democracy did not lead to widespread
-liberty.
+liberty. An additional central goal of the Paris settlement was to allow
+national self-determination in Europe.
 
 ## Furthermore, the colonial aftermath of the first world war was neither democratic nor liberating.
 
