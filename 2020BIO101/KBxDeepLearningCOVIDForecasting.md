@@ -115,10 +115,12 @@ source:
    
 3. **What did you find challenging about trying to understand your paper? Although the task may have felt generally challenging, try to get specific here.**
 	1. Specifically to this paper, trying to understand ARIMA was by far the most complex part.
+	2. The actual format and layout of the paper felt pretty familiar, and wasn't hard to navigate.
  
 	---
 
 4.  **What do you think you could try next time that might improve your process?**
+	1.  
     
 5.  **What type of previous experience do you have with reading papers from the scientific literature (either review articles or primary research)?**
     
