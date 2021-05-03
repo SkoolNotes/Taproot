@@ -102,6 +102,14 @@ Arguably one of the most important inventions ever
 
 50% of the worlds food production is reliant on it
 
+
+
+$[{\displaystyle \ \mathrm {N_{2}} +3\ \mathrm {H_{2}} \quad \rightleftharpoons \quad \ 2\ \mathrm {NH_{3}} \quad \quad {\Delta H=-92.28\;\mathrm {kJ} }\ ({\Delta H_{298K}=-46.14\;\mathrm {kJ/mol} })}](https://wikimedia.org/api/rest_v1/media/math/render/svg/30a2ff857b7d32261b814657b8e9b0b488f6d986)$
+
+
+
+
+
 #### yang:
 
 
