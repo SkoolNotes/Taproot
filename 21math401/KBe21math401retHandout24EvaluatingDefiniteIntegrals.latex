@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12871)}}    % original
-%\rhead{\textrmlf{Compiled }\#12871\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12872)}}    % original
+%\rhead{\textrmlf{Compiled }\#12872\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -313,6 +313,9 @@ Now we can use differentiation by parts on
   &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x -\frac{1}{2}\int \sin  ^2 x\cos ^2 x dx - \frac{1}{2}\int \sin ^4 x  dx\\
    \frac{3}{2}\int \sin^2x \cos^2 x  dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x - \frac{1}{2}\int \sin ^4 x  dx\\
   \end{aligned}\]
+
+To evaluate the integral of \(\sin  ^4 x\), we can use differentiation
+by parts after multiplying by one.
 
 \[\begin{aligned}
   \xcancel{
