@@ -24,3 +24,9 @@ title: Indian independence was good but not handled great
 ## basically the division didnt go very well but britain just left it
 
 ## people got paranoid of their neighboors based on religion
+
+# costs of independence
+
+## millions dead in hindu-muslim violence
+
+## the death of the hope of a unified indian
