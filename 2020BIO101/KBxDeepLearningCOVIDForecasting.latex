@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12828)}}    % original
-%\rhead{\textrmlf{Compiled }\#12828\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12829)}}    % original
+%\rhead{\textrmlf{Compiled }\#12829\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -463,5 +463,27 @@ finding?}\label{what-was-the-significance-or-larger-impact-of-the-main-finding}}
 
 \hypertarget{reflection-questions}{%
 \subsection{Reflection Questions}\label{reflection-questions}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\item
+  What paper did you choose and why did you choose it?
+\item
+  How did you go about trying to understand the paper that you chose?
+  What was your reading/understanding process like and why did you
+  employ that strategy?
+\item
+  What did you find challenging about trying to understand your paper?
+  Although the task may have felt generally challenging, try to get
+  specific here.
+\item
+  What do you think you could try next time that might improve your
+  process?
+\item
+  What type of previous experience do you have with reading papers from
+  the scientific literature (either review articles or primary
+  research)?
+\end{enumerate}
 
 \end{document}
