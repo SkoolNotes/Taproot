@@ -120,7 +120,7 @@ source:
 	---
 
 4.  **What do you think you could try next time that might improve your process?**
-	1.  I'm still debating how to order looking at data and discussion / conclusions. I spent a whole lookin
+	1.  I'm still debating how to order looking at data and discussion / conclusions. I spent a while looking at data before the discussion, then I went back to the data after I had finished reading. I don't want to bias my understanding of the data, but I also don't want to waste a lot of time looking at data without much background to understand it. Next time, I think I will try looking at the data a
     
 5.  **What type of previous experience do you have with reading papers from the scientific literature (either review articles or primary research)?**
     
