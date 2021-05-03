@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12829)}}    % original
-%\rhead{\textrmlf{Compiled }\#12829\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12830)}}    % original
+%\rhead{\textrmlf{Compiled }\#12830\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -466,7 +466,6 @@ finding?}\label{what-was-the-significance-or-larger-impact-of-the-main-finding}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{1}
 \item
   What paper did you choose and why did you choose it?
 \item
