@@ -107,12 +107,23 @@ $$\begin{aligned}
   &= \frac{1}{2} \sin  ^2 x +C
   \end{aligned}$$
 
+And the derivative: $$\begin{aligned}
+  \frac{d}{dx} \sin  x \cos  x &= - \sin  ^2 x + \cos  ^2 x \\
+  &= \cos  ^2 x - \sin  ^2 x
+  \end{aligned}$$
+
 Now we can use differentiation by parts on
 $(\sin  x \cos  x) (\sin  x \cos  x)$:
 
 $$\begin{aligned}
+
+  \end{aligned}$$
+
+$$\begin{aligned}
+  \xcancel{
   \int \sin ^2 x \cos^2 x dx &= \frac{1}{2}\sin ^2x(x + \sin  x \cos  x) - \int \cos ^2 x (x+\sin  x \cos  x) dx\\
   &= \frac{1}{2}\sin ^2x(x + \sin  x \cos  x) - \int x\cos ^2 x dx + \int x \sin  x \cos^3 x dx\
+  }
   \end{aligned}$$
 
 # \$∫ sin cb x dx \$
