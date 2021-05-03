@@ -158,9 +158,9 @@ the first world war, \"the war was indeed a victory for democracy\"
 is a deviation from a more pure form of government---the constitutional
 government or polity---in which the many rule in the interests of the
 poor. Although modern western writers treat democracies as the
-gold-standard of government Furthermore, Engels and Lenin argue that the
-state is a machine for oppression of one class by another, in democratic
-republics no less than in monarchies.
+gold-standard of government, the interests of the poor Furthermore,
+Engels and Lenin argue that the state is a machine for oppression of one
+class by another, in democratic republics no less than in monarchies.
 
 ## thesis
 
