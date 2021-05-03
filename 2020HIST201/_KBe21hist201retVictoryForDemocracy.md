@@ -162,81 +162,76 @@ Engels and Lenin argue that imperialism is the height of capitalism and
 that the state is a machine for oppression of one class by another, in
 democratic republics no less than in monarchies. Although the first
 world war was \"indeed a victory for democracy,\" neither the victors
-nor the aftermath promoted widespread liberty.
-
-## The victors of the first world war were tyrannies, not polities, and they did not promote widespread liberty.
-
-Although originally induced by the security dilemma, Europe\'s rapid
-military expansion was often exaggerated by political and egotistical
-motivations: the British government\'s naval ambitions were not strictly
-defensive. The English public had been historically isolationist and did
-not want to join the war. However, the British government saw Kaiser\'s
-Kruger Telegram of 1896 and Germany\'s naval expansion as politically
-insulting. As tensions increased and militaries were expanded, public
-sentiment shifted to be more nationalist (Huang, The Inevitable Shift).
-This engineered public sentiment was quickly reversed when the bloody
-trench stalemate became apparent, but the war torn countries felt they
-needed to outlast the enemy as a point of pride. The wage slavery and
-proletariat oppression of Marx, Engels, and Lenin came in the form of
-state propaganda posters imploring women to work in factories and
-conserve bread (Khakpour, WWI Aftermath, 5). English war poet Charles
-Sorley writes of the \"millions of the mouthless dead,\" exposing the
-loss of life on the battlefield. The English masses had not been thrust
-into the war for the common good or the liberty of the
-citizens---Britain entered the war because it\'s leadership had been
-insulted by German industrialization. In the process, the Entente powers
-amassed massive debts to the United States which their citizens would
-have to suffer in the coming years. The Entente war effort led to
-democratic victories, but did not promote the liberty of their citizens.
-
-## In addition, the new post-war European entities was not conducive to liberty
-
-The new and democratic German republic, who professed their own ideals,
-did not feel responsible or attached to the previous regime (Palmer
-688). However, the treaty makers in Paris working in early 1919 under
-public pressure and \"still in the heat of the war\" dealt harshly to
-Germany---so much so that no German was willing to sign the Treaty of
-Versailles (Palmer 692-3). Although the German Empire was toppled and
-replaced with a more democratic government, the harsh treaty opened the
-way for Adolf Hitler\'s authoritarian regime. Hitler\'s election was
-indeed democratic, but his regime stripped liberty from vast
-populations. Aristotle writes that democracies are the \"rule of the
-poor\", and Hitler leveraged the hunger and anger of the poor masses to
-amass power (Aristotle, *Politics*). Once in control, he quickly
-converted the state to a centralized tyranny focused on his own
-political viewpoints---or, as Lenin would remark, a machine to for one
-group to oppress another. As Aristotle predicted, neither democratic nor
-tyrannical policy was beneficial to the citizen body as a whole. This
-surface-level \"victory\" for democracy did not lead to widespread
-liberty. An additional central goal of the Paris settlement was to allow
-national self-determination in Europe. The peacemakers attempted to
-create a sovereign nation for each people in eastern Europe through the
-League of Nations. However, the intermixing of nationalities, lack of
-population exchange, and independence declarations of various states
-complicated the process. As a result, each new state found alien
-minorities within its borders and next of kin under foreign rule (Palmer
-692). The newly-formed buffer states, including Lithuania, Latvia,
-Poland, and Czechoslovakia, were generally parliamentary democracies
-(Palmer 692, Latvian Institute). However, they were created to serve the
-purpose of buffering Bolshevik communism from spreading to western
-Europe and were thus hastily drawn, culturally torn, and politically
-weak. The first Latvian president went as far as to demilitarize the
-country, which was presently trampled in the second world war (Latvian
-Institute). These cultural divides, which were suspiciously reminiscent
-of the Slavic misrepresentations in the pre-war Austrian Empire, led to
-numerous fractured states with disgruntled populations---a number of
-ostensible democracies that failed to rule in the interest of their
-citizens.
-
-## Furthermore, the League of Nations and colonial aftermath of the first world war were neither democratic nor liberating for the citizens of the world.
-
-Starting in 1915 when the entente powers realized the war would not be
-quick, Britain and France made heavy use of post-war land promises to
-attract nations to their side of the battle; such secret treaties
-included the Constantinople Agreement, the Treaty of London; the
-Sykes-Picot Agreement, and the Treaty of Saint Jean de Maurienne (Gelvin
-186-7). When the war was over, one central purpose of the League of
-Nations was to fairly and humanitarian divide the Ottoman empire and
+nor the aftermath promoted widespread liberty. The victors of the first
+world war were tyrannies, not polities, and they did not promote
+widespread liberty. Although originally induced by the security dilemma,
+Europe\'s rapid military expansion was often exaggerated by political
+and egotistical motivations: the British government\'s naval ambitions
+were not strictly defensive. The English public had been historically
+isolationist and did not want to join the war. However, the British
+government saw Kaiser\'s Kruger Telegram of 1896 and Germany\'s naval
+expansion as politically insulting. As tensions increased and militaries
+were expanded, public sentiment shifted to be more nationalist (Huang,
+The Inevitable Shift). This engineered public sentiment was quickly
+reversed when the bloody trench stalemate became apparent, but the war
+torn countries felt they needed to outlast the enemy as a point of
+pride. The wage slavery and proletariat oppression of Marx, Engels, and
+Lenin came in the form of state propaganda posters imploring women to
+work in factories and conserve bread (Khakpour, WWI Aftermath, 5).
+English war poet Charles Sorley writes of the \"millions of the
+mouthless dead,\" exposing the loss of life on the battlefield. The
+English masses had not been thrust into the war for the common good or
+the liberty of the citizens---Britain entered the war because it\'s
+leadership had been insulted by German industrialization. In the
+process, the Entente powers amassed massive debts to the United States
+which their citizens would have to suffer in the coming years. The
+Entente war effort led to democratic victories, but did not promote the
+liberty of their citizens. In addition, the new post-war European
+entities was not conducive to liberty. The new and democratic German
+republic, who professed their own ideals, did not feel responsible or
+attached to the previous regime (Palmer 688). However, the treaty makers
+in Paris working in early 1919 under public pressure and \"still in the
+heat of the war\" dealt harshly to Germany---so much so that no German
+was willing to sign the Treaty of Versailles (Palmer 692-3). Although
+the German Empire was toppled and replaced with a more democratic
+government, the harsh treaty opened the way for Adolf Hitler\'s
+authoritarian regime. Hitler\'s election was indeed democratic, but his
+regime stripped liberty from vast populations. Aristotle writes that
+democracies are the \"rule of the poor\", and Hitler leveraged the
+hunger and anger of the poor masses to amass power (Aristotle,
+*Politics*). Once in control, he quickly converted the state to a
+centralized tyranny focused on his own political viewpoints---or, as
+Lenin would remark, a machine to for one group to oppress another. As
+Aristotle predicted, neither democratic nor tyrannical policy was
+beneficial to the citizen body as a whole. This surface-level
+\"victory\" for democracy did not lead to widespread liberty. An
+additional central goal of the Paris settlement was to allow national
+self-determination in Europe. The peacemakers attempted to create a
+sovereign nation for each people in eastern Europe through the League of
+Nations. However, the intermixing of nationalities, lack of population
+exchange, and independence declarations of various states complicated
+the process. As a result, each new state found alien minorities within
+its borders and next of kin under foreign rule (Palmer 692). The
+newly-formed buffer states, including Lithuania, Latvia, Poland, and
+Czechoslovakia, were generally parliamentary democracies (Palmer 692,
+Latvian Institute). However, they were created to serve the purpose of
+buffering Bolshevik communism from spreading to western Europe and were
+thus hastily drawn, culturally torn, and politically weak. The first
+Latvian president went as far as to demilitarize the country, which was
+presently trampled in the second world war (Latvian Institute). These
+cultural divides, which were suspiciously reminiscent of the Slavic
+misrepresentations in the pre-war Austrian Empire, led to numerous
+fractured states with disgruntled populations---a number of ostensible
+democracies that failed to rule in the interest of their citizens.
+Furthermore, the League of Nations and colonial aftermath of the first
+world war were neither democratic nor liberating for the citizens of the
+world. Starting in 1915 when the entente powers realized the war would
+not be quick, Britain and France made heavy use of post-war land
+promises to attract nations to their side of the battle; such secret
+treaties included the Constantinople Agreement, the Treaty of London;
+the Sykes-Picot Agreement, and the Treaty of Saint Jean de Maurienne
+(Gelvin 186-7). When the war was over, one central purpose of the League
+of Nations was to fairly and humanitarian divide the Ottoman empire and
 German colonies; however, when congress refused to join the League, the
 allocation of land and colonies under a \"mandate\" system was directed
 by France and Britain (Palmer 690, Gelvin 189). In particular, the
