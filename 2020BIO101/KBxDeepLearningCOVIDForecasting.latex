@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12848)}}    % original
-%\rhead{\textrmlf{Compiled }\#12848\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12849)}}    % original
+%\rhead{\textrmlf{Compiled }\#12849\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -187,300 +187,100 @@
 
 \#ref \#ret
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{record-of-understanding}{%
-\subsection{Record of understanding:}\label{record-of-understanding}}
-
-\texttt{The\ writing\ style\ here\ is\ more\ similar\ to\ my\ notes,\ which\ I\ personally\ use\ as\ a\ record\ of\ my\ understanding.\ If\ you\ would\ like\ this\ to\ be\ written\ up\ more\ formally,\ please\ let\ me\ know!}
-
-\hypertarget{paper-title}{%
-\subsubsection{\texorpdfstring{1. \textbf{Paper
-Title:}}{1. Paper Title:}}\label{paper-title}}
-
-\begin{quote}
-A COVID-19 pandemic AI-based system with deep learning forecasting and
-automatic statistical data acquisition: Development and Implementation
-Study
-\end{quote}
-
-\hypertarget{what-question-or-phenomenon-was-being-investigated-in-this-study-and-why}{%
-\subsubsection{\texorpdfstring{2. \textbf{What question or phenomenon
-was being investigated in this study and
-why?}}{2. What question or phenomenon was being investigated in this study and why?}}\label{what-question-or-phenomenon-was-being-investigated-in-this-study-and-why}}
-
-\begin{itemize}
-\tightlist
-\item
-  COVID is a large problem, almost all of the AI studies around it are
-  region specific or centered around a single country
-\item
-  CPAIS (COVID-19 Pandemic AI System) aims to solve this by
-  automatically compiling databases to form a worldwide dateset
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Including governmental responses
-  \item
-    allows heatmap viz of different policies in different countries,
-  \item
-    and predictive modeling, ofc.
-  \end{itemize}
-\end{itemize}
-
-\hypertarget{what-background-information-did-you-need-to-understand-in-order-to-understand-the-question-main-experiment-main-finding-and-significance-i.e.-what-did-you-find-yourself-digging-into-in-the-introduction-or-through-outside-sources-what-was-the-most-relevant-background-info}{%
-\subsubsection{\texorpdfstring{3. \textbf{What background information
-did you need to understand in order to understand the question, main
-experiment, main finding, and significance? (i.e.~what did you find
-yourself digging into in the introduction or through outside sources;
-what was the most relevant background
-info?)}}{3. What background information did you need to understand in order to understand the question, main experiment, main finding, and significance? (i.e.~what did you find yourself digging into in the introduction or through outside sources; what was the most relevant background info?)}}\label{what-background-information-did-you-need-to-understand-in-order-to-understand-the-question-main-experiment-main-finding-and-significance-i.e.-what-did-you-find-yourself-digging-into-in-the-introduction-or-through-outside-sources-what-was-the-most-relevant-background-info}}
-
-\hypertarget{arima-auto-regressive-integrated-moving-average}{%
-\subparagraph{\texorpdfstring{ARIMA: \emph{Auto Regressive Integrated
-Moving
-Average}}{ARIMA: Auto Regressive Integrated Moving Average}}\label{arima-auto-regressive-integrated-moving-average}}
-
-\begin{itemize}
-\tightlist
-\item
-  Type of Auto Regressive (AR, not Augmented Reality) model
-
-  \begin{itemize}
-  \tightlist
-  \item
-    used for processes which change over time (economics, web traffic,
-    ect.)
-  \end{itemize}
-\item
-  Very similar to ARMA, but with a more complex stochastic term
-\item
-  Uses time series data
-
-  \begin{itemize}
-  \tightlist
-  \item
-    ie. use differences between values rather than the actual value
-  \item
-    p, d, q
-
-    \begin{itemize}
-    \tightlist
-    \item
-      p: order of AR term, or time lag
-    \item
-      d: ``degree of differencing''
-    \item
-      q: order of MA term, or size of moving average window
-    \end{itemize}
-  \end{itemize}
-\end{itemize}
-
-\begin{quote}
-\textbf{Predicted Y\_t = Constant + Linear combination Lags of Y (upto p
-lags) + Linear Combination of Lagged forecast errors (upto q lags)} -
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{0.06}}@{}}
+\toprule
+\endhead
+\#\# Record of understanding: \\
+\texttt{The\ writing\ style\ here\ is\ more\ similar\ to\ my\ notes,\ which\ I\ personally\ use\ as\ a\ record\ of\ my\ understanding.\ If\ you\ would\ like\ this\ to\ be\ written\ up\ more\ formally,\ please\ let\ me\ know!} \\
+\#\#\# 1. \textbf{Paper Title:} \textgreater{} A COVID-19 pandemic
+AI-based system with deep learning forecasting and automatic statistical
+data acquisition: Development and Implementation Study \\
+\#\#\# 2. \textbf{What question or phenomenon was being investigated in
+this study and why?} - COVID is a large problem, almost all of the AI
+studies around it are region specific or centered around a single
+country - CPAIS (COVID-19 Pandemic AI System) aims to solve this by
+automatically compiling databases to form a worldwide dateset -
+Including governmental responses - allows heatmap viz of different
+policies in different countries, - and predictive modeling, ofc. \\
+\#\#\# 3. \textbf{What background information did you need to understand
+in order to understand the question, main experiment, main finding, and
+significance? (i.e.~what did you find yourself digging into in the
+introduction or through outside sources; what was the most relevant
+background info?)} \\
+\#\#\#\#\# ARIMA: \emph{Auto Regressive Integrated Moving Average} -
+Type of Auto Regressive (AR, not Augmented Reality) model - used for
+processes which change over time (economics, web traffic, ect.) - Very
+similar to ARMA, but with a more complex stochastic term - Uses time
+series data - ie. use differences between values rather than the actual
+value - p, d, q - p: order of AR term, or time lag - d: ``degree of
+differencing'' - q: order of MA term, or size of moving average
+window \\
+\textgreater{} \textbf{Predicted Y\_t = Constant + Linear combination
+Lags of Y (upto p lags) + Linear Combination of Lagged forecast errors
+(upto q lags)} -
 \href{https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python}{Good
-article}
-\end{quote}
-
-\hypertarget{mlp-multilayer-perceptron-neural-networks}{%
-\subparagraph{\texorpdfstring{MLP: \emph{Multilayer Perceptron Neural
-Networks}}{MLP: Multilayer Perceptron Neural Networks}}\label{mlp-multilayer-perceptron-neural-networks}}
-
-\begin{itemize}
-\tightlist
-\item
-  Just a feed forward network, but with hidden layers. Pretty ambiguous
-  term, left relatively ambiguous in the paper.
-\item
-  Fancy name for a vanilla neural net
-\item
-  They highlight: designed to solve non-linearly separable problems
-
-  \begin{itemize}
-  \tightlist
-  \item
-    with sigmoid
-  \end{itemize}
-\item
-  They used \href{https://github.com/trnnick/nnfor}{nnfor}, which means
-  they used R.
-\end{itemize}
-
-\hypertarget{mae-vs-rmse}{%
-\subparagraph{MAE (vs RMSE):}\label{mae-vs-rmse}}
-
-\begin{itemize}
-\tightlist
-\item
-  Mean Absolute Error, which I haven't used before, is like RMSE (root
-  mean square error) but less punishing for bigger errors.
-\end{itemize}
-
-\#\#\#\#\# MAPE: \emph{Mean Absolute Percentage Error}
-
-\begin{itemize}
-\tightlist
-\item
-  aka Mean Absolute Percentage Deviation
-\item
-  loss function, used for measuring forecast accuracy.
-\item
-  average of percentage errors
-\item
-  generally not good..
-\end{itemize}
-
-\hypertarget{what-was-the-main-thing-the-researchers-found-out-and-how-did-they-do-so}{%
-\subsubsection{4. What was the main thing the researchers found out and
-how did they do
-so?\ldots{}}\label{what-was-the-main-thing-the-researchers-found-out-and-how-did-they-do-so}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  what were the main (1-2) experiments?
-
-  \begin{enumerate}
-  \def\labelenumii{\arabic{enumii}.}
-  \tightlist
-  \item
-    Dateset gen and renewal:
-
-    \begin{enumerate}
-    \def\labelenumiii{\arabic{enumiii}.}
-    \tightlist
-    \item
-      using crawler on source
-    \item
-      integrating the data into existing database
-    \item
-      statistical analysis with predefined procedure
-
-      \begin{enumerate}
-      \def\labelenumiv{\arabic{enumiv}.}
-      \tightlist
-      \item
-        The experimentation comes in at this step with different deep
-        learning models and techniques
-      \end{enumerate}
-    \end{enumerate}
-  \item
-    \textbf{Main Models:}
-
-    \begin{enumerate}
-    \def\labelenumiii{\arabic{enumiii}.}
-    \tightlist
-    \item
-      LSTM: \emph{long term short term memory}
-
-      \begin{enumerate}
-      \def\labelenumiv{\arabic{enumiv}.}
-      \tightlist
-      \item
-        A type of recurrent neural network which uses a `cell state' and
-        forget gates to have both long and short term memory
-      \item
-        better forecast accuracy than other models
-      \end{enumerate}
-    \item
-      ARIMA: \emph{Auto Regressive Integrated Moving Average}
-
-      \begin{enumerate}
-      \def\labelenumiv{\arabic{enumiv}.}
-      \item
-        \begin{quote}
-        statistical learning model with time series regression
-        \end{quote}
-      \end{enumerate}
-    \end{enumerate}
-  \end{enumerate}
-\item
-  what data did they generate?
-
-  \begin{enumerate}
-  \def\labelenumii{\arabic{enumii}.}
-  \tightlist
-  \item
-    Generated a worldwide automatically updating dateset for COVID-19
-    with their automation technology
-  \item
-    And also, generated consistent forecasting data of the next 14 days
-  \item
-    Finally, generated data on the correlation of government policies
-    and COVID-19
-  \end{enumerate}
-\item
-  what does that data mean?
-
-  \begin{enumerate}
-  \def\labelenumii{\arabic{enumii}.}
-  \tightlist
-  \item
-    The dateset, innit of itself, means nothing.
-  \item
-    the forecasting data means what we can expect for the next two weeks
-  \item
-    the correlation data \textbf{\emph{can}} mean what governmental
-    policies work best for dealing with COVID-19
-  \end{enumerate}
-\end{enumerate}
-
-\hypertarget{what-was-the-significance-or-larger-impact-of-the-main-finding}{%
-\subsubsection{5. What was the significance or larger impact of the main
-finding?}\label{what-was-the-significance-or-larger-impact-of-the-main-finding}}
-
-\begin{itemize}
-\tightlist
-\item
-  the dateset itself is useful for the entire world doing data analysis
-\item
-  the forecasting data can help with rapid policy changes and
-  preparations. Being able to see two weeks into the future, especially
-  at the beginning of the pandemic, was and is incredibly useful.
-
-  \begin{itemize}
-  \tightlist
-  \item
-    they also made ways to visualize the data, as human understanding is
-    ultimately the most important at this point
-  \end{itemize}
-\item
-  they didn't make very substantive claims about governmental policies
-\item
-  instead, they mostly made a very useful tool for data viz, prediction,
-  and comparison. In the actual experimentation with the types of
-  models, as expected, LSTMs did better.
-
-  \begin{itemize}
-  \tightlist
-  \item
-    they were experimenting with ARIMA, but ultimately, LSTMs win again.
-  \end{itemize}
-\end{itemize}
-
-\hypertarget{reflection-questions}{%
-\subsection{Reflection Questions}\label{reflection-questions}}
+article} \\
+\#\#\#\#\# MLP: \emph{Multilayer Perceptron Neural Networks} - Just a
+feed forward network, but with hidden layers. Pretty ambiguous term,
+left relatively ambiguous in the paper. - Fancy name for a vanilla
+neural net - They highlight: designed to solve non-linearly separable
+problems - with sigmoid - They used
+\href{https://github.com/trnnick/nnfor}{nnfor}, which means they used
+R. \\
+\#\#\#\#\# MAE (vs RMSE): - Mean Absolute Error, which I haven't used
+before, is like RMSE (root mean square error) but less punishing for
+bigger errors. \\
+\#\#\#\#\# MAPE: \emph{Mean Absolute Percentage Error} \\
+- aka Mean Absolute Percentage Deviation - loss function, used for
+measuring forecast accuracy. - average of percentage errors - generally
+not good.. \\
+\#\#\# 4. What was the main thing the researchers found out and how did
+they do so?\ldots{} \\
+1. what were the main (1-2) experiments? 1. Dateset gen and renewal: 1.
+using crawler on source 2. integrating the data into existing database
+3. statistical analysis with predefined procedure 1. The experimentation
+comes in at this step with different deep learning models and techniques
+2. \textbf{Main Models:} 1. LSTM: \emph{long term short term memory} 1.
+A type of recurrent neural network which uses a `cell state' and forget
+gates to have both long and short term memory 2. better forecast
+accuracy than other models 2. ARIMA: \emph{Auto Regressive Integrated
+Moving Average} 1. \textgreater{} statistical learning model with time
+series regression \\
+2. what data did they generate? 1. Generated a worldwide automatically
+updating dateset for COVID-19 with their automation technology 2. And
+also, generated consistent forecasting data of the next 14 days 3.
+Finally, generated data on the correlation of government policies and
+COVID-19 \\
+3. what does that data mean? 1. The dateset, innit of itself, means
+nothing. 2. the forecasting data means what we can expect for the next
+two weeks 3. the correlation data \textbf{\emph{can}} mean what
+governmental policies work best for dealing with COVID-19 \\
+\#\#\# 5. What was the significance or larger impact of the main
+finding? \\
+- the dateset itself is useful for the entire world doing data analysis
+- the forecasting data can help with rapid policy changes and
+preparations. Being able to see two weeks into the future, especially at
+the beginning of the pandemic, was and is incredibly useful. - they also
+made ways to visualize the data, as human understanding is ultimately
+the most important at this point - they didn't make very substantive
+claims about governmental policies - instead, they mostly made a very
+useful tool for data viz, prediction, and comparison. In the actual
+experimentation with the types of models, as expected, LSTMs did better.
+- they were experimenting with ARIMA, but ultimately, LSTMs win
+again. \\
+\#\# Reflection Questions \\
+1. \textbf{What paper did you choose and why did you choose it?} 1.
+\textgreater{} A COVID-19 pandemic AI-based system with deep learning
+forecasting and automatic statistical data acquisition: Development and
+Implementation Study 2. I was interested in doing some similar things
+earlier, so this paper caught my eye. \\
+\bottomrule
+\end{longtable}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\item
-  \textbf{What paper did you choose and why did you choose it?}
-
-  \begin{enumerate}
-  \def\labelenumii{\arabic{enumii}.}
-  \item
-    \begin{quote}
-    A COVID-19 pandemic AI-based system with deep learning forecasting
-    and automatic statistical data acquisition: Development and
-    Implementation Study
-    \end{quote}
-  \item
-    I was interested in doing some similar things earlier, so this paper
-    caught my eye.
-  \end{enumerate}
+\setcounter{enumi}{1}
 \item
   \textbf{How did you go about trying to understand the paper that you
   chose? What was your reading/understanding process like and why did
@@ -508,10 +308,21 @@ finding?}\label{what-was-the-significance-or-larger-impact-of-the-main-finding}}
     a topic that I was already somewhat familiar with yet had a lot of
     new terms.
   \end{enumerate}
+
+  \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 \item
   \textbf{What did you find challenging about trying to understand your
   paper? Although the task may have felt generally challenging, try to
   get specific here.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Specifically to this paper, trying to understand ARIMA
+  \end{enumerate}
+
+  \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 \item
   \textbf{What do you think you could try next time that might improve
   your process?}

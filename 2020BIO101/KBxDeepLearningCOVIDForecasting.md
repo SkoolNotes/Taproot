@@ -103,14 +103,21 @@ source:
 1.  **What paper did you choose and why did you choose it?**
 	1.   > A COVID-19 pandemic AI-based system with deep learning forecasting and automatic statistical data acquisition: Development and Implementation Study
 	2.   I was interested in doing some similar things earlier, so this paper caught my eye. 
-    
+  
+  ---
+  
 2. **How did you go about trying to understand the paper that you chose? What was your reading/understanding process like and why did you employ that strategy?**
 	1. Generally speaking, my strategy was to get background on the topic (normally by reading the abstract) and then follow my curiosity throughout the paper. When their was something I didn't know about or understand, I would look for more info on that first in the paper then in outside resources. 
 	2. I read the abstract of the paper, then learned about the terms I didn't understand from the *Introduction* and *Materials and Methods* sections. I also used the handy cmd-f functionality to search through the document. However, a lot of my time was spent looking at other articles online for deeper explanations. I then jumped into the data at the bottom, then read through the *Discussion* and such.
 	3. This seemed like the best way to go about understanding a paper with a topic that I was already somewhat familiar with yet had a lot of new terms.
-    
+   
+   ---
+   
 3. **What did you find challenging about trying to understand your paper? Although the task may have felt generally challenging, try to get specific here.**
-    
+	1. Specifically to this paper, trying to understand ARIMA
+ 
+	---
+
 4.  **What do you think you could try next time that might improve your process?**
     
 5.  **What type of previous experience do you have with reading papers from the scientific literature (either review articles or primary research)?**
