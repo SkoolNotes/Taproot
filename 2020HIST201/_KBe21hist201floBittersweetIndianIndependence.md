@@ -8,3 +8,7 @@ title: Indian independence was good but not handled great
 # nehra
 
 # jinna
+
+## muslim
+
+# britain had been dominant, until withdrawl in june 1948
