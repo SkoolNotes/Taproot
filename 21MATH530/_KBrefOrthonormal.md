@@ -25,4 +25,7 @@ $$\begin{aligned}
    \lVert a_1 e_1 + \cdots + a_m e_m \rVert ^2 = \vert a_1 \vert ^2 + \cdots + \lvert a_m \rvert^2
    \end{aligned}$$ Pythagorean theorem
 
-## Axler6.26 orthonormal bases are linearly independent
+## Axler6.26 orthonormal lists are linearly independent
+
+Any orthogonal list is linearly independent, so an orthonormal list must
+also be linearly independent.

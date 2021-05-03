@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12777)}}    % original
-%\rhead{\textrmlf{Compiled }\#12777\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12778)}}    % original
+%\rhead{\textrmlf{Compiled }\#12778\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -218,8 +218,11 @@ If \(e_1, \ldots, e_m\) is an orthonormal list of vectors in \(V\) then
    \lVert a_1 e_1 + \cdots + a_m e_m \rVert ^2 = \vert a_1 \vert ^2 + \cdots + \lvert a_m \rvert^2
    \end{aligned}\] Pythagorean theorem
 
-\hypertarget{axler6.26-orthonormal-bases-are-linearly-independent}{%
-\subsection{Axler6.26 orthonormal bases are linearly
-independent}\label{axler6.26-orthonormal-bases-are-linearly-independent}}
+\hypertarget{axler6.26-orthonormal-lists-are-linearly-independent}{%
+\subsection{Axler6.26 orthonormal lists are linearly
+independent}\label{axler6.26-orthonormal-lists-are-linearly-independent}}
+
+Any orthogonal list is linearly independent, so an orthonormal list must
+also be linearly independent.
 
 \end{document}
