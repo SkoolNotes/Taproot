@@ -296,6 +296,8 @@ mandate-holding powers were not favorable for their dependent states. By
 Aristotle\'s classification, this \"rule by the rich for the rich\" is
 an international oligarchy that strips the liberty of the colonized for
 capitalistic gain. Thus, the aftermath of the first world war suggests
+that capitalism reinforces colonialism and that colonial powers cannot
+be polities.
 
 ## sources
 
