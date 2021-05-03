@@ -125,7 +125,7 @@ source:
    ---
    
 5.  **What type of previous experience do you have with reading papers from the scientific literature (either review articles or primary research)?**
-	1.  I do a lot of projects in my free time, which often lead to me having to read papers for info. Just last night, actually, I spent a few hours reading scientific papers on different spike detection algorithms as well as Kalman filters.
+	1.  I do a lot of projects in my free time, which often lead to me having to read papers for info. Just last night, actually, I spent a few hours reading scientific papers on different spike detection algorithms as well as Kalman filters. 
     
 
 
