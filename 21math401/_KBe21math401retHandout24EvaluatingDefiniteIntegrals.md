@@ -157,4 +157,5 @@ $$\begin{aligned}
   &= x \sin  ^3 x - 3 x \sin  x \cos  x + 3\int \frac{1}{2} \sin ^2 x dx\\
   &= x \sin  ^3 x - 3 x \sin  x \cos  x + \frac{3}{2} \int \sin ^2 x dx\\
   &= x \sin  ^3 x - 3 x \sin  x \cos  x + \frac{3}{2} \frac{1}{2} (x - \sin  x \cos  x)\\
+  &= x \sin  ^3 x - 3 x \sin  x \cos  x + \frac{3}{4} (x - \sin  x \cos  x)\\
   \end{aligned}$$
