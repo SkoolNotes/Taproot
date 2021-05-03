@@ -11,6 +11,8 @@ title: Indian independence was good but not handled great
 
 # jinna
 
-## muslim
+## muslim, wanted a muslim state
 
 # britain had been dominant, until withdrawl in june 1948
+
+## partition plan
