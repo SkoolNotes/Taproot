@@ -18,4 +18,4 @@ title: Orthonormal List
 
 # results
 
-## Axler6.25 norm of an orthonormal linear combination
+## Axler6.25 norm of an orthonormal linear combination Pythagorean theorem
