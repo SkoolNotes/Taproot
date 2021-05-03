@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12806)}}    % original
-%\rhead{\textrmlf{Compiled }\#12806\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12819)}}    % original
+%\rhead{\textrmlf{Compiled }\#12819\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -225,8 +225,8 @@ since every finite dim vec space has a basis that can be Gram-schmidt-ed
 \subsection{Axler6.35 orthonormal lists extend to orthonormal
 bases}\label{axler6.35-orthonormal-lists-extend-to-orthonormal-bases}}
 
-since every list can be extended to a basis and an orthonormal basis
-exists
+just extend the orthonormal list into a basis, and then gram-schmidt-ify
+the vectors you added
 
 \hypertarget{axler6.37-upper-triangular-matrix-wrt-orthonormal-basis}{%
 \subsection{Axler6.37 upper-triangular matrix wrt orthonormal

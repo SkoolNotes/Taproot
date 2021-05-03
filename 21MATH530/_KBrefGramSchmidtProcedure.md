@@ -35,8 +35,8 @@ since every finite dim vec space has a basis that can be Gram-schmidt-ed
 
 ## Axler6.35 orthonormal lists extend to orthonormal bases
 
-since every list can be extended to a basis and an orthonormal basis
-exists
+just extend the orthonormal list into a basis, and then gram-schmidt-ify
+the vectors you added
 
 ## Axler6.37 upper-triangular matrix wrt orthonormal basis
 
