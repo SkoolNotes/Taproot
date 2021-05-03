@@ -50,3 +50,5 @@ title: Indian independence was good but not handled great
 # alternate proposal
 
 ## needfinding then look for a proposal for how to do this
+
+## ensure all veto players (people who have the power to prevent the thing) are satisfied
