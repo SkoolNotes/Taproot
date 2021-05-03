@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12782)}}    % original
-%\rhead{\textrmlf{Compiled }\#12782\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12784)}}    % original
+%\rhead{\textrmlf{Compiled }\#12784\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -199,12 +199,16 @@ Pretty self explanatory.
 \hypertarget{results}{%
 \section{results}\label{results}}
 
-\hypertarget{orthonormal-list-of-the-right-length-is-a-basis}{%
-\subsection{orthonormal list of the right length is a
-basis}\label{orthonormal-list-of-the-right-length-is-a-basis}}
+\hypertarget{axler6.28-orthonormal-list-of-the-right-length-is-a-basis}{%
+\subsection{Axler6.28 orthonormal list of the right length is a
+basis}\label{axler6.28-orthonormal-list-of-the-right-length-is-a-basis}}
 
 Because it's linearly independent, and linearly independent lists of the
 right length are bases (Axler2.39).
+
+\hypertarget{axler6.30-vector-as-a-linear-combo-of-orthonormal-basis}{%
+\subsection{Axler6.30 vector as a linear combo of orthonormal
+basis}\label{axler6.30-vector-as-a-linear-combo-of-orthonormal-basis}}
 
 \hypertarget{see-also}{%
 \section{see also}\label{see-also}}

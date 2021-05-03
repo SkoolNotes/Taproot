@@ -14,10 +14,12 @@ Pretty self explanatory.
 
 # results
 
-## orthonormal list of the right length is a basis
+## Axler6.28 orthonormal list of the right length is a basis
 
 Because it\'s linearly independent, and linearly independent lists of
 the right length are bases (Axler2.39).
+
+## Axler6.30 vector as a linear combo of orthonormal basis
 
 # see also
 
