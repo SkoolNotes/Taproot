@@ -1,2 +1,6 @@
-        Log for attempt at Sun May  2 06:20:48 PM PDT 2021 (12749)
-        Sun May  2 06:20:48 PM PDT 2021 Converting 2020HIST201/KBe21hist201retVictoryForDemocracy.org...
+        Log for attempt at Sun May  2 07:44:26 PM PDT 2021 (12750)
+        Sun May  2 07:44:26 PM PDT 2021 Converting 2020ISOS101/KBxStoryOfScience.md...
+Error producing PDF.
+! Undefined control sequence.
+l.219   \({\displaystyle {\ce
+

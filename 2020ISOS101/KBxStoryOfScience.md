@@ -86,7 +86,7 @@ them are absurd; some of them seem absurd, and are genius!
 	- equilibrium const: ${\displaystyle K_{eq}={\frac {p^{2}\mathrm {(NH_{3})} }{p\mathrm {(N_{2})} \cdot p^{3}\mathrm {(H_{2})} }}}$
 
 
-
+## First draft.
 
 
 
