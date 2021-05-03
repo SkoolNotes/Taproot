@@ -1,2 +1,1 @@
-        Log for attempt at Sun May  2 09:20:49 PM PDT 2021 (12782)
-        Sun May  2 09:20:49 PM PDT 2021 Converting 21MATH530/KBrefOrthonormalBasis.org...
+        Log for attempt at Sun May  2 09:21:27 PM PDT 2021 (12783)
