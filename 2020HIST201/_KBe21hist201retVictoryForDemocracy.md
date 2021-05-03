@@ -162,12 +162,9 @@ gold-standard of government, the interests of the poor can be and are
 manipulated in the aftermath of the first world war. Additionally,
 Engels and Lenin argue that imperialism is the height of capitalism and
 that the state is a machine for oppression of one class by another, in
-democratic republics no less than in monarchies.
-
-## thesis
-
-Although the first world war was \"indeed a victory for democracy,\"
-neither the victors nor the aftermath promoted widespread liberty.
+democratic republics no less than in monarchies. Although the first
+world war was \"indeed a victory for democracy,\" neither the victors
+nor the aftermath promoted widespread liberty.
 
 ## The victors of the first world war were tyrannies, not polities, and they did not promote widespread liberty.
 
