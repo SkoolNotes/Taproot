@@ -139,7 +139,7 @@ Plugging back into the main problem:
 $$\begin{aligned}
    \frac{3}{2}\int \sin^2x \cos^2 x  dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x - \frac{1}{2}\int \sin ^4 x  dx\\
    &= \frac{1}{2} (\sin  x \cos  x) \sin  ^2 x - \frac{1}{2} x \sin ^4 x + x \sin  ^2 x - x + \sin  x \cos x\\
-  \int \sin  ^2 x \cos  ^2 x dx &= \frac{1}{3} \sin  ^3 x \cos  x - \frac{1}{3} x \sin ^4 x + \frac{2}{3} x \sin  ^2 x - \frac{2}{3} x + \sin  x \cos  x
+  \int \sin  ^2 x \cos  ^2 x dx &= \frac{1}{3} \sin  ^3 x \cos  x - \frac{1}{3} x \sin ^4 x + \frac{2}{3} x \sin  ^2 x - \frac{2}{3} x + \frac{3}{2}\sin  x \cos  x
   \end{aligned}$$
 
 $$\begin{aligned}
