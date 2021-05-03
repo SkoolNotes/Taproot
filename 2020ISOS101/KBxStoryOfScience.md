@@ -96,7 +96,7 @@ idea: yin yang, with infographic
 
 Invented the Haber-Bosch Process
 
-Process of taking 
+Process of taking nitrogen in the air and "fixing" it 
 
 Arguably one of the most important inventions ever
 
