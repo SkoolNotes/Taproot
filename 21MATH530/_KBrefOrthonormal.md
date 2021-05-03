@@ -15,3 +15,7 @@ title: Orthonormal List
 > $$\begin{aligned}
 > \langle  e_j, e_k \rangle = \begin{cases}1 & \text{ if } j = k \\ 0 & \text{ if } j \neq  k\end{cases}
 > \end{aligned}$$
+
+# results
+
+## Axler6.25 norm of an orthonormal linear combination

@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12774)}}    % original
-%\rhead{\textrmlf{Compiled }\#12774\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12775)}}    % original
+%\rhead{\textrmlf{Compiled }\#12775\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -204,5 +204,12 @@
 \langle  e_j, e_k \rangle = \begin{cases}1 & \text{ if } j = k \\ 0 & \text{ if } j \neq  k\end{cases}
 \end{aligned}\]
 \end{quote}
+
+\hypertarget{results}{%
+\section{results}\label{results}}
+
+\hypertarget{axler6.25-norm-of-an-orthonormal-linear-combination}{%
+\subsection{Axler6.25 norm of an orthonormal linear
+combination}\label{axler6.25-norm-of-an-orthonormal-linear-combination}}
 
 \end{document}
