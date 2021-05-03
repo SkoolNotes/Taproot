@@ -282,9 +282,12 @@ turmoil shows that unchecked capitalist ideals fail to support universal
 liberty. Although national self-determination dictated that peoples
 should be grouped into countries by culture, the economically-optimized
 Iraq became a hostile and violent land of oppressed and misrepresented
-citizens. In each of these cases and many more, the British and French
-mandate decisions refused democratic demands from the citizens and
-sacrificed the liberty of the people for political or economic gains.
+citizens. Additionally, each of these cases show how governance, both
+international through the League of Nations and national through each
+mandate state, is used as a machine for oppression. In each of these
+cases and many more, the British and French mandate decisions refused
+democratic demands from the citizens and sacrificed the liberty of the
+people for political or economic gains.
 
 ## Furthermore, no states could achieve widespread liberty?
 
