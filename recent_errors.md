@@ -1,1 +1,2 @@
-        Log for attempt at Sun May  2 09:28:02 PM PDT 2021 (12791)
+        Log for attempt at Sun May  2 09:29:09 PM PDT 2021 (12792)
+        Sun May  2 09:29:09 PM PDT 2021 Converting 21MATH530/KBrefGramSchmidtProcedure.org...
