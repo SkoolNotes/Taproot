@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12779)}}    % original
-%\rhead{\textrmlf{Compiled }\#12779\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12780)}}    % original
+%\rhead{\textrmlf{Compiled }\#12780\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,6 +185,15 @@
 
 % DID YOU SET SPELL????
 
+\hypertarget{axler6.27-orthonormal-basis}{%
+\section{\texorpdfstring{Axler6.27 orthonormal basis
+{\textsc{def}}}{Axler6.27 orthonormal basis def}}\label{axler6.27-orthonormal-basis}}
 
+\begin{quote}
+An \emph{orthonormal basis} of \(V\) is an orthonormal list of vectors
+in \(V\) that is also a basis of \(V\).
+\end{quote}
+
+Pretty self explanatory.
 
 \end{document}
