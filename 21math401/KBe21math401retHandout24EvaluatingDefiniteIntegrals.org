@@ -116,6 +116,7 @@
   \[\begin{aligned}
   \int (\sin  x \cos  x) (\sin  x \cos  x) dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x -\int \left(  \cos  ^2 x - \sin  ^2 x \right)  \left( \frac{1}{2} \sin  ^2 x \right)  dx\\
   &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x -\frac{1}{2}\int \sin  ^2 x\cos ^2 x dx - \frac{1}{2}\int \sin ^4 x  dx\\
+  2\int \sin^2x \cos^2 x  dx
   \end{aligned}\]
 
   \[\begin{aligned}

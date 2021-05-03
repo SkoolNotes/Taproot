@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12868)}}    % original
-%\rhead{\textrmlf{Compiled }\#12868\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12869)}}    % original
+%\rhead{\textrmlf{Compiled }\#12869\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -311,6 +311,7 @@ Now we can use differentiation by parts on
 \[\begin{aligned}
   \int (\sin  x \cos  x) (\sin  x \cos  x) dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x -\int \left(  \cos  ^2 x - \sin  ^2 x \right)  \left( \frac{1}{2} \sin  ^2 x \right)  dx\\
   &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x -\frac{1}{2}\int \sin  ^2 x\cos ^2 x dx - \frac{1}{2}\int \sin ^4 x  dx\\
+  2\int \sin^2x \cos^2 x  dx
   \end{aligned}\]
 
 \[\begin{aligned}
