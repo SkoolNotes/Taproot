@@ -89,7 +89,10 @@ them are absurd; some of them seem absurd, and are genius!
 ## First draft.
 
 
-idea: 
+idea: yin yang, with infographic
+
+
+
 
 
 
