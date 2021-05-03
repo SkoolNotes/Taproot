@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12833)}}    % original
-%\rhead{\textrmlf{Compiled }\#12833\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12834)}}    % original
+%\rhead{\textrmlf{Compiled }\#12834\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -478,12 +478,19 @@ finding?}\label{what-was-the-significance-or-larger-impact-of-the-main-finding}}
     Implementation Study
     \end{quote}
   \item
-    I was interested in doing some similar things earlier,
+    I was interested in doing some similar things earlier, so this paper
+    caught my eye.
   \end{enumerate}
 \item
   \textbf{How did you go about trying to understand the paper that you
   chose? What was your reading/understanding process like and why did
   you employ that strategy?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+  \end{enumerate}
 \item
   \textbf{What did you find challenging about trying to understand your
   paper? Although the task may have felt generally challenging, try to
