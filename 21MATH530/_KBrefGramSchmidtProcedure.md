@@ -29,4 +29,4 @@ It\'s kind of like the orthogonal decomposition.
 
 # results
 
-## Axler6.34 orthonormal basis exists
+## Axler6.34 orthonormal basis exists in finite dim vec spaces
