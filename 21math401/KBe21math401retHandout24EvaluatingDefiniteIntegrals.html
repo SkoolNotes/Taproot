@@ -165,6 +165,10 @@ html {
               \end{aligned}\]</span></p>
             <p>To evaluate the integral of <span class="math inline">\(\sin  ^4 x\)</span>, we can use differentiation by parts after multiplying by one.</p>
             <p><span class="math display">\[\begin{aligned}
+              \int 1 \sin  ^4 x dx &amp;= x \sin ^4 x -\int 4 x \sin  x \cos  x dx \\
+              &amp;= x \sin  ^4 x - 4\left(  x\left(  \frac{1}{2} \sin  ^2 x \right)  -\int \frac{1}{2} \sin  ^2 x dx \right) \\
+              \end{aligned}\]</span></p>
+            <p><span class="math display">\[\begin{aligned}
               \xcancel{
               \int \sin ^2 x \cos^2 x dx &amp;= \frac{1}{2}\sin ^2x(x + \sin  x \cos  x) - \int \cos ^2 x (x+\sin  x \cos  x) dx\\
               &amp;= \frac{1}{2}\sin ^2x(x + \sin  x \cos  x) - \int x\cos ^2 x dx + \int x \sin  x \cos^3 x dx\
