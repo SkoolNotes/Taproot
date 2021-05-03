@@ -105,6 +105,7 @@
   &= \frac{1}{2} \sin  ^2 x +C
   \end{aligned}\]
 
+  Now we can use differentiation by parts on $(\sin  x \cos  x) (\sin  x \cos  x)$:
 
   \[\begin{aligned}
   \int \sin ^2 x \cos^2 x dx &= \frac{1}{2}\sin ^2x(x + \sin  x \cos  x) - \int \cos ^2 x (x+\sin  x \cos  x) dx\\
