@@ -98,6 +98,14 @@
 
 * $\int sin^2 x\cos^2 x dx$
 
+  First, the integral of $\sin  x \cos  x$:
+
+  \[\begin{aligned}
+  \int \sin  x \cos  x dx &= \sin  ^2 x -\int \sin  x \cos  x dx \\
+  &= \frac{1}{2} \sin  ^2 x +C
+  \end{aligned}\]
+
+
   \[\begin{aligned}
   \int \sin ^2 x \cos^2 x dx &= \frac{1}{2}\sin ^2x(x + \sin  x \cos  x) - \int \cos ^2 x (x+\sin  x \cos  x) dx\\
   &= \frac{1}{2}\sin ^2x(x + \sin  x \cos  x) - \int x\cos ^2 x dx + \int x \sin  x \cos^3 x dx\

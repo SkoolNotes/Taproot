@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12348)}}    % original
-%\rhead{\textrmlf{Compiled }\#12348\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12861)}}    % original
+%\rhead{\textrmlf{Compiled }\#12861\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -292,6 +292,13 @@ Let \(u = 4 + x^2\), \(du = 2xdx\)
 
 \hypertarget{int-sin2-xcos2-x-dx}{%
 \section{\texorpdfstring{\(\int sin^2 x\cos^2 x dx\)}{\textbackslash int sin\^{}2 x\textbackslash cos\^{}2 x dx}}\label{int-sin2-xcos2-x-dx}}
+
+First, the integral of \(\sin  x \cos  x\):
+
+\[\begin{aligned}
+  \int \sin  x \cos  x dx &= \sin  ^2 x -\int \sin  x \cos  x dx \\
+  &= \frac{1}{2} \sin  ^2 x +C
+  \end{aligned}\]
 
 \[\begin{aligned}
   \int \sin ^2 x \cos^2 x dx &= \frac{1}{2}\sin ^2x(x + \sin  x \cos  x) - \int \cos ^2 x (x+\sin  x \cos  x) dx\\
