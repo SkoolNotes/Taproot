@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12888)}}    % original
-%\rhead{\textrmlf{Compiled }\#12888\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12889)}}    % original
+%\rhead{\textrmlf{Compiled }\#12889\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -350,6 +350,7 @@ Plugging back into the main problem:
   &= x \sin  ^3 x -\int 3 x \sin  x \cos  x dx\\
   &= x \sin  ^3 x - 3 x \sin  x \cos  x + 3\int \frac{1}{2} \sin ^2 x dx\\
   &= x \sin  ^3 x - 3 x \sin  x \cos  x + \frac{3}{2} \int \sin ^2 x dx\\
+  &= x \sin  ^3 x - 3 x \sin  x \cos  x + \frac{3}{2} \frac{1}{2} (x - \sin  x \cos  x)\\
   \end{aligned}\]
 
 \end{document}
