@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12843)}}    % original
-%\rhead{\textrmlf{Compiled }\#12843\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12844)}}    % original
+%\rhead{\textrmlf{Compiled }\#12844\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -497,8 +497,8 @@ finding?}\label{what-was-the-significance-or-larger-impact-of-the-main-finding}}
     then in outside resources.
   \item
     I read the abstract of the paper, then learned about the terms I
-    didn't understand from the Introduction and \emph{Materials and
-    Methods} section. I also used the handy cmd-f functionality to
+    didn't understand from the \emph{Introduction} and \emph{Materials
+    and Methods} sections. I also used the handy cmd-f functionality to
     search through the document. However, a lot of my time was spent
     looking at other articles online for deeper explanations. I then
     jumped
