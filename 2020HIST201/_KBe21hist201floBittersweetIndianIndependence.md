@@ -40,3 +40,7 @@ title: Indian independence was good but not handled great
 # blame game
 
 ## hindu extremists, who saw it as a hindu nationalist movement -\> made muslim minorities nervous
+
+## muslim league, for pushing too hard for a separate state
+
+## indian national congress, the main group for indian independence activists, didnt comprimise enough with the muslim league or didnt fight indian extremists enough
