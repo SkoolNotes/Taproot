@@ -101,9 +101,9 @@ source:
 ## Reflection Questions
 
 1.  **What paper did you choose and why did you choose it?**
+	1.  
     
 2. **How did you go about trying to understand the paper that you chose? What was your reading/understanding process like and why did you employ that strategy?**
-	1.  I cho
     
 3. **What did you find challenging about trying to understand your paper? Although the task may have felt generally challenging, try to get specific here.**
     
