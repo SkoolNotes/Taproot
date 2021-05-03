@@ -43,4 +43,4 @@ title: Indian independence was good but not handled great
 
 ## muslim league, for pushing too hard for a separate state
 
-## indian national congress, the main group for indian independence activists, didnt comprimise enough with the muslim league or didnt fight indian extremists enough
+## indian national congress, the main group for indian independence activists, didnt comprimise enough with the muslim league or didnt fight indian extremists enough, or didnt take the risk of partition seriously (didnt beleave britain would actually go through with it)
