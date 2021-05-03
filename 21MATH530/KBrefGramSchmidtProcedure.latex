@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12795)}}    % original
-%\rhead{\textrmlf{Compiled }\#12795\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12796)}}    % original
+%\rhead{\textrmlf{Compiled }\#12796\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -209,5 +209,7 @@ s.t. each prefix span is the same as in \(v_1, \ldots, v_m\).
 
 Basically, for each vector, we divide out the components from the
 previous vectors and then normalize the size to ensure the norm is one.
+
+It's kind of like the orthogonal decomposition.
 
 \end{document}
