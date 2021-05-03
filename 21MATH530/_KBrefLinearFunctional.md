@@ -10,3 +10,7 @@ title: Linear Functional
 > A *linear functional* on $V$ is a linear map from $V$ to $\mathbb F$.
 > In other words, a linear functional is an element of
 > $\mathcal L(V, \mathbb F)$
+
+# results
+
+## Riesz Representation Theorem
