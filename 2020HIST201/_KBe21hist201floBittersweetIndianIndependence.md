@@ -29,4 +29,8 @@ title: Indian independence was good but not handled great
 
 ## millions dead in hindu-muslim violence
 
-## the death of the hope of a unified indian
+## the death of the hope of a unified indian identity
+
+## assassination of Gandhi, by an extremist of his own faith
+
+## decades of conflict between india and pakistan
