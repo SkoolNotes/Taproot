@@ -30,6 +30,12 @@ $$\begin{aligned}
    \lVert v \rVert ^2 = |\langle v, e_1 \rangle|^2 + \cdots + \lvert \langle  v, e_n \rangle \rvert ^2
    \end{aligned}$$
 
+By taking the inner product of both sides of the equation
+$$\begin{aligned}
+   v = a_1e_1 + \cdots + a_n e_n
+   \end{aligned}$$ with $e_j$ for each $e_j$. And also the Pythagorean
+theorem
+
 # see also
 
 ## [orthonormal](KBrefOrthonormal.org)
