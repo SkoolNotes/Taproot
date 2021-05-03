@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12750)}}    % original
-%\rhead{\textrmlf{Compiled }\#12750\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12751)}}    % original
+%\rhead{\textrmlf{Compiled }\#12751\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -391,5 +391,7 @@ them are absurd; some of them seem absurd, and are genius!
 
 \hypertarget{first-draft.}{%
 \subsection{First draft.}\label{first-draft.}}
+
+dea
 
 \end{document}
