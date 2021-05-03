@@ -116,7 +116,7 @@ Now we can use differentiation by parts on
 $(\sin  x \cos  x) (\sin  x \cos  x)$:
 
 $$\begin{aligned}
-  \int (\sin  x \cos  x) (\sin  x \cos  x) dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x
+  \int (\sin  x \cos  x) (\sin  x \cos  x) dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x -\int \left(  \cos  ^2 x - \sin  ^2 x \right)  \left( \frac{1}{2} \sin  ^2 x \right)  dx
   \end{aligned}$$
 
 $$\begin{aligned}
