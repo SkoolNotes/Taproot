@@ -15,6 +15,10 @@ title: Linear Functional
 
 ## Axler6.42 Riesz Representation Theorem
 
+Any map defined by $u \in  V$ that sends each $v \in  V$ to
+$\langle  u, v \rangle$ is a linear functional. This result says that
+every linear functional is such a map.
+
 > Suppose $V$ is finite-dimensional and $\varphi$ is a linear functional
 > on $V$. Then there is a unique vector $u \in  V$ s.t.
 > $$\begin{aligned}

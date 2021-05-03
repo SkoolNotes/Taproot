@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12816)}}    % original
-%\rhead{\textrmlf{Compiled }\#12816\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12818)}}    % original
+%\rhead{\textrmlf{Compiled }\#12818\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -201,6 +201,10 @@ A \emph{linear functional} on \(V\) is a linear map from \(V\) to
 \hypertarget{axler6.42-riesz-representation-theorem}{%
 \subsection{Axler6.42 Riesz Representation
 Theorem}\label{axler6.42-riesz-representation-theorem}}
+
+Any map defined by \(u \in  V\) that sends each \(v \in  V\) to
+\(\langle  u, v \rangle\) is a linear functional. This result says that
+every linear functional is such a map.
 
 \begin{quote}
 Suppose \(V\) is finite-dimensional and \(\varphi\) is a linear
