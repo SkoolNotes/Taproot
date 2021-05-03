@@ -117,9 +117,13 @@ During WWI, used the same process for explosives
 
 Led the team pioneering chemical weapons
 
-Invented chlorine gas, causing horrible horrible deaths and extending the
+Invented chlorine gas, causing horrible horrible deaths and extending the war
 
+Was thought of as a war criminal
 
+When he went home, his wife thought he was immoral for creating this gas
+
+He ignored her and threw a pa
 
 
 
