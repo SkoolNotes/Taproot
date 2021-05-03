@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12866)}}    % original
-%\rhead{\textrmlf{Compiled }\#12866\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12867)}}    % original
+%\rhead{\textrmlf{Compiled }\#12867\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -309,7 +309,8 @@ Now we can use differentiation by parts on
 \((\sin  x \cos  x) (\sin  x \cos  x)\):
 
 \[\begin{aligned}
-  \int (\sin  x \cos  x) (\sin  x \cos  x) dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x -\int \left(  \cos  ^2 x - \sin  ^2 x \right)  \left( \frac{1}{2} \sin  ^2 x \right)  dx
+  \int (\sin  x \cos  x) (\sin  x \cos  x) dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x -\int \left(  \cos  ^2 x - \sin  ^2 x \right)  \left( \frac{1}{2} \sin  ^2 x \right)  dx\\
+  &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x -\frac{1}{2}\int \sin  ^2 x\cos ^2 x dx - \frac{1}{2}\int \sin  ^2 x \right)  \left( \frac{1}{2} \sin  ^2 x \right)  dx\\
   \end{aligned}\]
 
 \[\begin{aligned}
