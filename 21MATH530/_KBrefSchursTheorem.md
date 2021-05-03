@@ -10,3 +10,5 @@ title: Schur\'s Theorem
 > Suppose $V$ is a finite-dimensional complex vector space and
 > $T \in \mathcal L(V)$. Then $T$ has an upper-triangular matrix wrt
 > some orthonormal basis of $V$.
+
+Just an application of [Axler6.37](KBrefGramSchmidtProcedure.org)

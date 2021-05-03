@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12809)}}    % original
-%\rhead{\textrmlf{Compiled }\#12809\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12810)}}    % original
+%\rhead{\textrmlf{Compiled }\#12810\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -194,5 +194,7 @@ Suppose \(V\) is a finite-dimensional complex vector space and
 \(T \in \mathcal L(V)\). Then \(T\) has an upper-triangular matrix wrt
 some orthonormal basis of \(V\).
 \end{quote}
+
+Just an application of \href{KBrefGramSchmidtProcedure.org}{Axler6.37}
 
 \end{document}
