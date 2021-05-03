@@ -100,15 +100,16 @@ source:
 
 ## Reflection Questions
 
-1.  What paper did you choose and why did you choose it?
+1.  **What paper did you choose and why did you choose it?**
     
-2.  How did you go about trying to understand the paper that you chose? What was your reading/understanding process like and why did you employ that strategy?
+2. **How did you go about trying to understand the paper that you chose? What was your reading/understanding process like and why did you employ that strategy?**
+	1.  I cho
     
-3.  What did you find challenging about trying to understand your paper? Although the task may have felt generally challenging, try to get specific here.
+3. **What did you find challenging about trying to understand your paper? Although the task may have felt generally challenging, try to get specific here.**
     
-4.  What do you think you could try next time that might improve your process?
+4.  **What do you think you could try next time that might improve your process?**
     
-5.   What type of previous experience do you have with reading papers from the scientific literature (either review articles or primary research)?
+5.  **What type of previous experience do you have with reading papers from the scientific literature (either review articles or primary research)?**
     
 
 
