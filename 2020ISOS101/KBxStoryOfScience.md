@@ -115,6 +115,10 @@ Haber won a Nobel Prize for it
 
 During WWI, used the same process for explosives
 
+Led the team pioneering chemical weapons
+
+Invented chlorine gas. When 
+
 
 
 
