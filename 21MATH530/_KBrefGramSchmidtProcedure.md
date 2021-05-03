@@ -26,3 +26,7 @@ Basically, for each vector, we divide out the components from the
 previous vectors and then normalize the size to ensure the norm is one.
 
 It\'s kind of like the orthogonal decomposition.
+
+# results
+
+## Axler6.34 orthonormal basis exists
