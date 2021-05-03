@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12780)}}    % original
-%\rhead{\textrmlf{Compiled }\#12780\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12781)}}    % original
+%\rhead{\textrmlf{Compiled }\#12781\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -195,5 +195,20 @@ in \(V\) that is also a basis of \(V\).
 \end{quote}
 
 Pretty self explanatory.
+
+\hypertarget{results}{%
+\section{results}\label{results}}
+
+\hypertarget{orthonormal-list-of-the-right-length-is-a-basis}{%
+\subsection{orthonormal list of the right length is a
+basis}\label{orthonormal-list-of-the-right-length-is-a-basis}}
+
+Because it's linearly independent, and 2.39.
+
+\hypertarget{see-also}{%
+\section{see also}\label{see-also}}
+
+\hypertarget{orthonormal}{%
+\subsection{\texorpdfstring{\href{KBrefOrthonormal.org}{orthonormal}}{orthonormal}}\label{orthonormal}}
 
 \end{document}
