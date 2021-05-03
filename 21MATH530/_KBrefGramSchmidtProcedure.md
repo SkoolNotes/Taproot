@@ -8,4 +8,5 @@ title: Gram-Schmidt Procedure
 # Axler6.31 Gram-Schmidt Procedure
 
 The Gram-Schmidt Procedure is used to turn a list into an orthonormal
-list with the same span.
+list with the same span. It\'s useful for finding [orthonormal
+bases](KBrefOrthonormalBasis.org).

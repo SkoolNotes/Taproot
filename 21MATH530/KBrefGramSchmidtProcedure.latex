@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12789)}}    % original
-%\rhead{\textrmlf{Compiled }\#12789\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12790)}}    % original
+%\rhead{\textrmlf{Compiled }\#12790\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -190,6 +190,7 @@
 Procedure}\label{axler6.31-gram-schmidt-procedure}}
 
 The Gram-Schmidt Procedure is used to turn a list into an orthonormal
-list with the same span.
+list with the same span. It's useful for finding
+\href{KBrefOrthonormalBasis.org}{orthonormal bases}.
 
 \end{document}
