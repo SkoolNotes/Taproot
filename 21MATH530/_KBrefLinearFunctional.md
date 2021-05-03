@@ -13,4 +13,4 @@ title: Linear Functional
 
 # results
 
-## Riesz Representation Theorem
+## Axler6.42 Riesz Representation Theorem
