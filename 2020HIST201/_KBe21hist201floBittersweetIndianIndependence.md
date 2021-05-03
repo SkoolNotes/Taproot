@@ -16,3 +16,7 @@ title: Indian independence was good but not handled great
 # britain had been dominant, until withdrawl in june 1948
 
 ## partition plan
+
+## but communities were integrated, so division was hard
+
+## massive migration and violence -\> eventually ethnic clensing
