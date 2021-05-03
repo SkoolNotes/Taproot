@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12818)}}    % original
-%\rhead{\textrmlf{Compiled }\#12818\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12822)}}    % original
+%\rhead{\textrmlf{Compiled }\#12822\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -213,5 +213,8 @@ functional on \(V\). Then there is a unique vector \(u \in  V\) s.t.
 \varphi (v) = \langle v, u \rangle
 \end{aligned}\] For every \(v \in V\).
 \end{quote}
+
+Any map from an \(n\)-dimensional space to a 1-dimensional space is just
+a \(1 \times n\) matrix, which is really just a linear combination.
 
 \end{document}

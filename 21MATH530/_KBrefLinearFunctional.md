@@ -24,3 +24,6 @@ every linear functional is such a map.
 > $$\begin{aligned}
 > \varphi (v) = \langle v, u \rangle
 > \end{aligned}$$ For every $v \in V$.
+
+Any map from an $n$-dimensional space to a 1-dimensional space is just a
+$1 \times n$ matrix, which is really just a linear combination.
