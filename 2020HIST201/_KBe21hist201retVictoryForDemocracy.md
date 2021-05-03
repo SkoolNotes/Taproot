@@ -287,8 +287,6 @@ cases and many more, the British and French mandate decisions refused
 democratic demands from the citizens and sacrificed the liberty of the
 people for political or economic gains.
 
-## Furthermore, no states could achieve widespread liberty?
-
 ## conclusion
 
 Although the first world war toppled long-standing monarchies and saw
