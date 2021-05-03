@@ -19,3 +19,8 @@ bases](KBrefOrthonormalBasis.org).
 >
 > Then $e_1, \ldots, e_m$ is an orthonormal list of vectors in $V$ s.t.
 > each prefix span is the same as in $v_1, \ldots, v_m$.
+
+## intuition
+
+Basically, for each vector, we divide out the components from the
+previous vectors and then normalize the size to ensure the norm is one.
