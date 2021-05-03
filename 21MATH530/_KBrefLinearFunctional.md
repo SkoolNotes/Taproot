@@ -14,3 +14,9 @@ title: Linear Functional
 # results
 
 ## Axler6.42 Riesz Representation Theorem
+
+> Suppose $V$ is finite-dimensional and $\varphi$ is a linear functional
+> on $V$. Then there is a unique vector $u \in  V$ s.t.
+> $$\begin{aligned}
+> \varphi (v) = \langle v, u \rangle
+> \end{aligned}$$ For every $v \in V$.
