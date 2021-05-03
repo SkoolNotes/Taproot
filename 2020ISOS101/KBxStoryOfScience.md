@@ -94,6 +94,8 @@ idea: yin yang, with infographic
 
 yin:
 
+Invented the Haber-Bosch Process
+
 Haber process 
 
 
