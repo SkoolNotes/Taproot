@@ -114,7 +114,7 @@ source:
    ---
    
 3. **What did you find challenging about trying to understand your paper? Although the task may have felt generally challenging, try to get specific here.**
-	1. Specifically to this paper, trying to understand ARIMA
+	1. Specifically to this paper, trying to understand ARIMA was by far the most complex part.
  
 	---
 
