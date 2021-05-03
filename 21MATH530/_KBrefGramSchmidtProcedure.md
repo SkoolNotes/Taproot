@@ -32,3 +32,5 @@ It\'s kind of like the orthogonal decomposition.
 ## Axler6.34 orthonormal basis exists in finite dim vec spaces
 
 since every finite dim vec space has a basis that can be Gram-schmidt-ed
+
+## Axler6.35 orthonormal lists extend to orthonormal bases

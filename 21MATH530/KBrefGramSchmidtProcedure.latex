@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12800)}}    % original
-%\rhead{\textrmlf{Compiled }\#12800\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12801)}}    % original
+%\rhead{\textrmlf{Compiled }\#12801\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -220,5 +220,9 @@ It's kind of like the orthogonal decomposition.
 spaces}\label{axler6.34-orthonormal-basis-exists-in-finite-dim-vec-spaces}}
 
 since every finite dim vec space has a basis that can be Gram-schmidt-ed
+
+\hypertarget{axler6.35-orthonormal-lists-extend-to-orthonormal-bases}{%
+\subsection{Axler6.35 orthonormal lists extend to orthonormal
+bases}\label{axler6.35-orthonormal-lists-extend-to-orthonormal-bases}}
 
 \end{document}
