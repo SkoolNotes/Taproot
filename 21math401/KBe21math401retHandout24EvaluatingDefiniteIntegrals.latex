@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12885)}}    % original
-%\rhead{\textrmlf{Compiled }\#12885\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12886)}}    % original
+%\rhead{\textrmlf{Compiled }\#12886\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -344,5 +344,11 @@ Plugging back into the main problem:
 
 \hypertarget{int-sin3-x-dx}{%
 \section{\texorpdfstring{\(\int \sin^3 x dx\)}{\textbackslash int \textbackslash sin\^{}3 x dx}}\label{int-sin3-x-dx}}
+
+\[\begin{aligned}
+  \int \sin^3 x dx &=\int 1 \sin  ^3 x dx \\
+  &= x \sin  ^3 x -\int 3 x \sin  x \cos  x dx\\
+  &= x \sin  ^3 x - 3 \int  dx
+  \end{aligned}\]
 
 \end{document}

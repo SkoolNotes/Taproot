@@ -150,3 +150,9 @@ $$\begin{aligned}
   \end{aligned}$$
 
 # $\int \sin^3 x dx$
+
+$$\begin{aligned}
+  \int \sin^3 x dx &=\int 1 \sin  ^3 x dx \\
+  &= x \sin  ^3 x -\int 3 x \sin  x \cos  x dx\\
+  &= x \sin  ^3 x - 3 \int  dx
+  \end{aligned}$$
