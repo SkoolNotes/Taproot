@@ -37,3 +37,5 @@ since every finite dim vec space has a basis that can be Gram-schmidt-ed
 
 since every list can be extended to a basis and an orthonormal basis
 exists
+
+## Axler6.37 upper-triangular matrix wrt orthonormal basis

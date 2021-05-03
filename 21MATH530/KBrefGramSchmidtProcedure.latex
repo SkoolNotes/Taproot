@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12802)}}    % original
-%\rhead{\textrmlf{Compiled }\#12802\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12803)}}    % original
+%\rhead{\textrmlf{Compiled }\#12803\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -227,5 +227,9 @@ bases}\label{axler6.35-orthonormal-lists-extend-to-orthonormal-bases}}
 
 since every list can be extended to a basis and an orthonormal basis
 exists
+
+\hypertarget{axler6.37-upper-triangular-matrix-wrt-orthonormal-basis}{%
+\subsection{Axler6.37 upper-triangular matrix wrt orthonormal
+basis}\label{axler6.37-upper-triangular-matrix-wrt-orthonormal-basis}}
 
 \end{document}
