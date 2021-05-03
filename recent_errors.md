@@ -1,2 +1,1 @@
-        Log for attempt at Sun May  2 10:24:57 PM PDT 2021 (12816)
-        Sun May  2 10:24:57 PM PDT 2021 Converting 21MATH530/KBrefLinearFunctional.org...
+        Log for attempt at Sun May  2 10:26:07 PM PDT 2021 (12817)
