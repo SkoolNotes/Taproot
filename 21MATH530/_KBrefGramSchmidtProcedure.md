@@ -43,7 +43,7 @@ the vectors you added
 If an upper triangular matrix exists for some operator, then an
 upper-triangular matrix exists for an orthonormal basis too.
 
-Proof: the prefix span-equality implies subspace invariance or
-something.
+Proof: prefix span invariance is a condition for an upper triangular
+matrix, so the prefix span equality
 
 An application of this is

@@ -22,6 +22,6 @@
 ** Axler6.37 upper-triangular matrix wrt orthonormal basis
    If an upper triangular matrix exists for some operator, then an upper-triangular matrix exists for an orthonormal basis too.
 
-   Proof: prefix span invariance is a condition for an upper triangular matrix, so the prefix span equality
+   Proof: prefix span invariance is a condition for an upper triangular matrix, so the prefix span equality implies that if it could be upper triangular before,
 
    An application of this is

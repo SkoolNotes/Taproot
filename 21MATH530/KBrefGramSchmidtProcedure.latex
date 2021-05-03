@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12819)}}    % original
-%\rhead{\textrmlf{Compiled }\#12819\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12820)}}    % original
+%\rhead{\textrmlf{Compiled }\#12820\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -235,8 +235,8 @@ basis}\label{axler6.37-upper-triangular-matrix-wrt-orthonormal-basis}}
 If an upper triangular matrix exists for some operator, then an
 upper-triangular matrix exists for an orthonormal basis too.
 
-Proof: the prefix span-equality implies subspace invariance or
-something.
+Proof: prefix span invariance is a condition for an upper triangular
+matrix, so the prefix span equality
 
 An application of this is
 
