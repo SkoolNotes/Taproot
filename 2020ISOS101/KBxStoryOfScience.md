@@ -121,13 +121,17 @@ Invented chlorine gas, causing horrible horrible deaths and extending the war
 
 Was thought of as a war criminal
 
-When he went home, his wife thought he was immoral for creating this gas
+When he went home, his wife thought he was immoral and they fought
 
 He ignored her and threw a party. Overnight, she took her own life.
 
-Thei
+Their son found his dead mom in the morning, and Haber left him alone and went to work.
 
+His son later also committed suicide
 
+Later on, the same chemical weapons he discovered were used by the Nazis 
+
+It was used to kill many
 
 
 
