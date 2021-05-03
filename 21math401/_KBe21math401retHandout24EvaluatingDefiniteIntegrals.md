@@ -122,7 +122,9 @@ $$\begin{aligned}
   \end{aligned}$$
 
 To evaluate the integral of $\sin  ^4 x$, we can use differentiation by
-parts after multiplying by one.
+parts after multiplying by one. We will need to use the integral of
+$\sin  x \cos  x$ from earlier in this problem, as well as the integral
+of $\sin  ^2 x$ from the previous problem.
 
 $$\begin{aligned}
   \int 1 \sin  ^4 x dx &= x \sin ^4 x - 4 \int x \sin  x \cos  x dx \\

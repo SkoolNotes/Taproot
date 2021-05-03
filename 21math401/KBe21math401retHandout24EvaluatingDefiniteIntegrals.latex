@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12875)}}    % original
-%\rhead{\textrmlf{Compiled }\#12875\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12876)}}    % original
+%\rhead{\textrmlf{Compiled }\#12876\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -315,7 +315,9 @@ Now we can use differentiation by parts on
   \end{aligned}\]
 
 To evaluate the integral of \(\sin  ^4 x\), we can use differentiation
-by parts after multiplying by one.
+by parts after multiplying by one. We will need to use the integral of
+\(\sin  x \cos  x\) from earlier in this problem, as well as the
+integral of \(\sin  ^2 x\) from the previous problem.
 
 \[\begin{aligned}
   \int 1 \sin  ^4 x dx &= x \sin ^4 x - 4 \int x \sin  x \cos  x dx \\
