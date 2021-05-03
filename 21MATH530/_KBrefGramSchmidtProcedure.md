@@ -42,3 +42,6 @@ exists
 
 If an upper triangular matrix exists for some operator, then an
 upper-triangular matrix exists for an orthonormal basis too.
+
+Proof: the prefix span-equality implies subspace invariance or
+something.
