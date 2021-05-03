@@ -12,6 +12,8 @@ title: Orthonormal Basis
 
 Pretty self explanatory.
 
+How do we find an orthonormal basis? see the
+
 # results
 
 ## Axler6.28 orthonormal list of the right length is a basis

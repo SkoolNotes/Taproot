@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12787)}}    % original
-%\rhead{\textrmlf{Compiled }\#12787\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12788)}}    % original
+%\rhead{\textrmlf{Compiled }\#12788\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -195,6 +195,8 @@ in \(V\) that is also a basis of \(V\).
 \end{quote}
 
 Pretty self explanatory.
+
+How do we find an orthonormal basis? see the
 
 \hypertarget{results}{%
 \section{results}\label{results}}
