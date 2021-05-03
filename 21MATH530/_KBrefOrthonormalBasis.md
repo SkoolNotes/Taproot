@@ -12,6 +12,13 @@ title: Orthonormal Basis
 
 Pretty self explanatory.
 
+# results
+
+## orthonormal list of the right length is a basis
+
+Because it\'s linearly independent, and linearly independent lists of
+the right length are bases (Axler2.39).
+
 # see also
 
 ## [orthonormal](KBrefOrthonormal.org)
