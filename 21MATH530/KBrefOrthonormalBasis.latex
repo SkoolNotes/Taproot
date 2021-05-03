@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12784)}}    % original
-%\rhead{\textrmlf{Compiled }\#12784\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12786)}}    % original
+%\rhead{\textrmlf{Compiled }\#12786\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -209,6 +209,15 @@ right length are bases (Axler2.39).
 \hypertarget{axler6.30-vector-as-a-linear-combo-of-orthonormal-basis}{%
 \subsection{Axler6.30 vector as a linear combo of orthonormal
 basis}\label{axler6.30-vector-as-a-linear-combo-of-orthonormal-basis}}
+
+Suppose \(e_1, \ldots, e_m\) is an orthonormal basis of \(V\) and
+\(v \in  V\). Then, \[\begin{aligned}
+   v = \langle  v, e_1 \rangle e_1 + \cdots \langle  v, e_n \rangle e_n
+   \end{aligned}\] and
+
+\[\begin{aligned}
+   \lVert v \rVert ^2 = |\langle v, e_1 \rangle|^2 + \cdots + \lvert \langle  v, e_n \rangle \rvert ^2
+   \end{aligned}\]
 
 \hypertarget{see-also}{%
 \section{see also}\label{see-also}}

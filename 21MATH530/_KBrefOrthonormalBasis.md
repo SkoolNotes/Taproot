@@ -21,6 +21,15 @@ the right length are bases (Axler2.39).
 
 ## Axler6.30 vector as a linear combo of orthonormal basis
 
+Suppose $e_1, \ldots, e_m$ is an orthonormal basis of $V$ and
+$v \in  V$. Then, $$\begin{aligned}
+   v = \langle  v, e_1 \rangle e_1 + \cdots \langle  v, e_n \rangle e_n
+   \end{aligned}$$ and
+
+$$\begin{aligned}
+   \lVert v \rVert ^2 = |\langle v, e_1 \rangle|^2 + \cdots + \lvert \langle  v, e_n \rangle \rvert ^2
+   \end{aligned}$$
+
 # see also
 
 ## [orthonormal](KBrefOrthonormal.org)
