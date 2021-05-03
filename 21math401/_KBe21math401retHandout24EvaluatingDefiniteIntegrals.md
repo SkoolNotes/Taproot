@@ -129,6 +129,7 @@ of $\sin  ^2 x$ from the previous problem.
 $$\begin{aligned}
   \int 1 \sin  ^4 x dx &= x \sin ^4 x - 4 \int x \sin  x \cos  x dx \\
   &= x \sin  ^4 x - 4\left(  x\left(  \frac{1}{2} \sin  ^2 x \right)  -\int \frac{1}{2} \sin  ^2 x dx \right) \\
+  &= x \sin  ^4 x - 4\left(  x\left(  \frac{1}{2} \sin  ^2 x \right)  -\frac{1}{2} \int \sin  ^2 x dx \right) \\
   &= x \sin ^4 x - 2x \sin  ^2 x + 2 x - 2 \sin  x \cos  x\\
   &= x \sin ^4 x - 2x \sin  ^2 x + 2 x - 2 \sin  x \cos  x
   \end{aligned}$$
