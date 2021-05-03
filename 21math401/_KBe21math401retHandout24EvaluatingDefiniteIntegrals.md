@@ -154,5 +154,5 @@ $$\begin{aligned}
 $$\begin{aligned}
   \int \sin^3 x dx &=\int 1 \sin  ^3 x dx \\
   &= x \sin  ^3 x -\int 3 x \sin  x \cos  x dx\\
-  &= x \sin  ^3 x - 3 \int  dx
+  &= x \sin  ^3 x - 3 x \sin  x \cos  x + 3\int \frac{1}{2} x \sin ^2 x dx
   \end{aligned}$$

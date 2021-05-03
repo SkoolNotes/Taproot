@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12886)}}    % original
-%\rhead{\textrmlf{Compiled }\#12886\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12887)}}    % original
+%\rhead{\textrmlf{Compiled }\#12887\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -348,7 +348,7 @@ Plugging back into the main problem:
 \[\begin{aligned}
   \int \sin^3 x dx &=\int 1 \sin  ^3 x dx \\
   &= x \sin  ^3 x -\int 3 x \sin  x \cos  x dx\\
-  &= x \sin  ^3 x - 3 \int  dx
+  &= x \sin  ^3 x - 3 x \sin  x \cos  x + 3\int \frac{1}{2} x \sin ^2 x dx
   \end{aligned}\]
 
 \end{document}
