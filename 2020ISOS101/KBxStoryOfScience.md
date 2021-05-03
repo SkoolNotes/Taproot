@@ -92,11 +92,11 @@ them are absurd; some of them seem absurd, and are genius!
 idea: yin yang, with infographic
 
 
+yin:
 
 
 
-
-
+yang:
 
 
 
