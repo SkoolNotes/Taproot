@@ -96,6 +96,11 @@ idea: yin yang, with infographic
 
 Invented the Haber-Bosch Process
 
+Process of taking 
+
+Arguably one of the most important inventions ever
+
+50% of the worlds food production is reliant on it
 
 #### yang:
 
