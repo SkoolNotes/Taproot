@@ -123,9 +123,9 @@ Was thought of as a war criminal
 
 When he went home, his wife thought he was immoral for creating this gas
 
-He ignored her and threw a pa
+He ignored her and threw a party. Overnight, she took her own life.
 
-
+Thei
 
 
 
