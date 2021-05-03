@@ -278,21 +278,17 @@ international through the League of Nations and national through each
 mandate state, is used as a machine for oppression. In each of these
 cases and many more, the British and French mandate decisions refused
 democratic demands from the citizens and sacrificed the liberty of the
-people for political or economic gains.
-
-## conclusion
-
-Although the first world war toppled long-standing monarchies and saw
-the victory of democratic western powers, the mandate system trampled
-fledgling democratic ambitions and the victors did not promote
-widespread liberty. Indeed, the \"democratic\" victors of WWI held
-colonies with no voice in the democracy, and the decisions made by
-mandate-holding powers were not favorable for their dependent states. By
-Aristotle\'s classification, this \"rule by the rich for the rich\" is
-an international oligarchy that strips the liberty of the colonized for
-capitalistic gain. Thus, the aftermath of the first world war suggests
-that capitalism reinforces colonialism and that colonial powers cannot
-be polities.
+people for political or economic gains. Although the first world war
+toppled long-standing monarchies and saw the victory of democratic
+western powers, the mandate system trampled fledgling democratic
+ambitions and the victors did not promote widespread liberty. Indeed,
+the \"democratic\" victors of WWI held colonies with no voice in the
+democracy, and the decisions made by mandate-holding powers were not
+favorable for their dependent states. By Aristotle\'s classification,
+this \"rule by the rich for the rich\" is an international oligarchy
+that strips the liberty of the colonized for capitalistic gain. Thus,
+the aftermath of the first world war suggests that capitalism reinforces
+colonialism and that colonial powers cannot be polities.
 
 ## sources
 
