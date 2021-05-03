@@ -22,3 +22,5 @@ title: Indian independence was good but not handled great
 ## massive migration and violence -\> eventually ethnic clensing
 
 ## basically the division didnt go very well but britain just left it
+
+## people got paranoid of their neighboors based on religion
