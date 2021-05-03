@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12801)}}    % original
-%\rhead{\textrmlf{Compiled }\#12801\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12802)}}    % original
+%\rhead{\textrmlf{Compiled }\#12802\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -224,5 +224,8 @@ since every finite dim vec space has a basis that can be Gram-schmidt-ed
 \hypertarget{axler6.35-orthonormal-lists-extend-to-orthonormal-bases}{%
 \subsection{Axler6.35 orthonormal lists extend to orthonormal
 bases}\label{axler6.35-orthonormal-lists-extend-to-orthonormal-bases}}
+
+since every list can be extended to a basis and an orthonormal basis
+exists
 
 \end{document}
