@@ -44,6 +44,7 @@ If an upper triangular matrix exists for some operator, then an
 upper-triangular matrix exists for an orthonormal basis too.
 
 Proof: prefix span invariance is a condition for an upper triangular
-matrix, so the prefix span equality
+matrix, so the prefix span equality implies that if it could be upper
+triangular before, then it still can be with the orthonormal basis.
 
 An application of this is
