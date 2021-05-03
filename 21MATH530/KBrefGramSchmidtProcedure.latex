@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12805)}}    % original
-%\rhead{\textrmlf{Compiled }\#12805\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12806)}}    % original
+%\rhead{\textrmlf{Compiled }\#12806\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -237,5 +237,7 @@ upper-triangular matrix exists for an orthonormal basis too.
 
 Proof: the prefix span-equality implies subspace invariance or
 something.
+
+An application of this is
 
 \end{document}

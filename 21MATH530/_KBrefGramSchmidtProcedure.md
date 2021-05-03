@@ -45,3 +45,5 @@ upper-triangular matrix exists for an orthonormal basis too.
 
 Proof: the prefix span-equality implies subspace invariance or
 something.
+
+An application of this is
