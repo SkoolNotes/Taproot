@@ -11,7 +11,7 @@ title: Indian independence was good but not handled great
 
 # jinna
 
-## muslim, wanted a muslim state
+## muslim, wanted a muslim state -\> pakistan
 
 # britain had been dominant, until withdrawl in june 1948
 
@@ -20,3 +20,5 @@ title: Indian independence was good but not handled great
 ## but communities were integrated, so division was hard
 
 ## massive migration and violence -\> eventually ethnic clensing
+
+## basically the division didnt go very well but britain just left it
