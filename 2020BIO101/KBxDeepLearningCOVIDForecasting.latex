@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12851)}}    % original
-%\rhead{\textrmlf{Compiled }\#12851\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12852)}}    % original
+%\rhead{\textrmlf{Compiled }\#12852\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -281,6 +281,7 @@ earlier, so this paper caught my eye. \\
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{1}
+\tightlist
 \item
   \textbf{How did you go about trying to understand the paper that you
   chose? What was your reading/understanding process like and why did
@@ -330,6 +331,14 @@ earlier, so this paper caught my eye. \\
 \item
   \textbf{What do you think you could try next time that might improve
   your process?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    I'm still debating how to order looking at data and discussion /
+    conclusions. I spent a whole lookin
+  \end{enumerate}
 \item
   \textbf{What type of previous experience do you have with reading
   papers from the scientific literature (either review articles or
