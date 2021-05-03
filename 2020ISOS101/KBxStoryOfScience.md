@@ -98,24 +98,20 @@ Invented the Haber-Bosch Process
 
 Process of taking nitrogen in the air and "fixing" it 
 
+${\displaystyle \ \mathrm {N_{2}} +3\ \mathrm {H_{2}} \quad \rightleftharpoons \quad \ 2\ \mathrm {NH_{3}} \quad \quad {\Delta H=-92.28\;\mathrm {kJ} }\ ({\Delta H_{298K}=-46.14\;\mathrm {kJ/mol} })}$
+
 This way, it can be used in fertilizers
 
 Previously, the main source was bat guano, which was treated like gold
-${\displaystyle \ \mathrm {N_{2}} +3\ \mathrm {H_{2}} \quad \rightleftharpoons \quad \ 2\ \mathrm {NH_{3}} \quad \quad {\Delta H=-92.28\;\mathrm {kJ} }\ ({\Delta H_{298K}=-46.14\;\mathrm {kJ/mol} })}$
 
 Arguably one of the most important inventions ever
 
 50% of the worlds food production is reliant on it
 
 
-
-
-
-
-
-
 #### yang:
 
+During WWI, used the same process for explosives
 
 
 
