@@ -121,7 +121,7 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ Orthonormal List }
+\newcommand{\thelesson}{ Orthonormal Basis }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -185,47 +185,6 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{axler6.23-orthonormal}{%
-\section{\texorpdfstring{Axler6.23 orthonormal
-{\textsc{def}}}{Axler6.23 orthonormal def}}\label{axler6.23-orthonormal}}
 
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  A list of vectors is called \emph{orthonormal} if each vector in the
-  list has norm 1 and is orthogonal to all other vectors in the list
-\item
-  in other words, a list \(e_1, \ldots, e_m\) of vectors in \(V\) is
-  orthonormal if
-\end{itemize}
-
-\[\begin{aligned}
-\langle  e_j, e_k \rangle = \begin{cases}1 & \text{ if } j = k \\ 0 & \text{ if } j \neq  k\end{cases}
-\end{aligned}\]
-\end{quote}
-
-\hypertarget{results}{%
-\section{results}\label{results}}
-
-\hypertarget{axler6.25-norm-of-an-orthonormal-linear-combination-pythagorean-theorem}{%
-\subsection{Axler6.25 norm of an orthonormal linear combination
-Pythagorean
-theorem}\label{axler6.25-norm-of-an-orthonormal-linear-combination-pythagorean-theorem}}
-
-If \(e_1, \ldots, e_m\) is an orthonormal list of vectors in \(V\) then
-\[\begin{aligned}
-   \lVert a_1 e_1 + \cdots + a_m e_m \rVert ^2 = \vert a_1 \vert ^2 + \cdots + \lvert a_m \rvert^2
-   \end{aligned}\] Pythagorean theorem
-
-\hypertarget{axler6.26-orthonormal-lists-are-linearly-independent}{%
-\subsection{Axler6.26 orthonormal lists are linearly
-independent}\label{axler6.26-orthonormal-lists-are-linearly-independent}}
-
-Any orthogonal list is linearly independent, so an orthonormal list must
-also be linearly independent.
-
-Or you can use 6.25, set it to zero, and see that all the coefficients
-must be zero.
 
 \end{document}

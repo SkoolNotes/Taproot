@@ -29,3 +29,6 @@ $$\begin{aligned}
 
 Any orthogonal list is linearly independent, so an orthonormal list must
 also be linearly independent.
+
+Or you can use 6.25, set it to zero, and see that all the coefficients
+must be zero.
