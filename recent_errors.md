@@ -1,1 +1,2 @@
-        Log for attempt at Sun May  2 10:15:03 PM PDT 2021 (12808)
+        Log for attempt at Sun May  2 10:15:47 PM PDT 2021 (12809)
+        Sun May  2 10:15:47 PM PDT 2021 Converting 21MATH530/KBrefSchursTheorem.org...

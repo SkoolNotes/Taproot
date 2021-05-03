@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12807)}}    % original
-%\rhead{\textrmlf{Compiled }\#12807\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12809)}}    % original
+%\rhead{\textrmlf{Compiled }\#12809\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,6 +185,14 @@
 
 % DID YOU SET SPELL????
 
+\hypertarget{axler6.38-schurs-theorem}{%
+\section{\texorpdfstring{Axler6.38 Schur's Theorem
+{\textsc{def}}}{Axler6.38 Schur's Theorem def}}\label{axler6.38-schurs-theorem}}
 
+\begin{quote}
+Suppose \(V\) is a finite-dimensional complex vector space and
+\(T \in \mathcal L(V)\). Then \(T\) has an upper-triangular matrix wrt
+some orthonormal basis of \(V\).
+\end{quote}
 
 \end{document}
