@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12772)}}    % original
-%\rhead{\textrmlf{Compiled }\#12772\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12774)}}    % original
+%\rhead{\textrmlf{Compiled }\#12774\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -188,5 +188,21 @@
 \hypertarget{axler6.23-orthonormal}{%
 \section{\texorpdfstring{Axler6.23 orthonormal
 {\textsc{def}}}{Axler6.23 orthonormal def}}\label{axler6.23-orthonormal}}
+
+\begin{quote}
+\begin{itemize}
+\tightlist
+\item
+  A list of vectors is called \emph{orthonormal} if each vector in the
+  list has norm 1 and is orthogonal to all other vectors in the list
+\item
+  in other words, a list \(e_1, \ldots, e_m\) of vectors in \(V\) is
+  orthonormal if
+\end{itemize}
+
+\[\begin{aligned}
+\langle  e_j, e_k \rangle = \begin{cases}1 & \text{ if } j = k \\ 0 & \text{ if } j \neq  k\end{cases}
+\end{aligned}\]
+\end{quote}
 
 \end{document}
