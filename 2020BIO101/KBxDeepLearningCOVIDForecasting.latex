@@ -120,8 +120,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ BIO201 }
-\newcommand{\thelesson}{ Bio Engaging with research project }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ \%--- }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -134,12 +134,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12858)}}    % original
-%\rhead{\textrmlf{Compiled }\#12858\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12859)}}    % original
+%\rhead{\textrmlf{Compiled }\#12859\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -184,6 +184,9 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+
+title: Bio Engaging with research project context: BIO201 author: Huxley
+source: ---
 
 \#ref \#ret
 
@@ -267,8 +270,8 @@ the most important at this point - they didn't make very substantive
 claims about governmental policies - instead, they mostly made a very
 useful tool for data viz, prediction, and comparison. In the actual
 experimentation with the types of models, as expected, LSTMs did better.
-- they were experimenting with ARIMA, but ultimately, LSTMs win
-again. \\
+- they were experimenting with ARIMA, but ultimately, LSTMs win again.
+\%\% \\
 \#\# Reflection Questions \\
 1. \textbf{What paper did you choose and why did you choose it?} 1.
 \textgreater{} A COVID-19 pandemic AI-based system with deep learning
