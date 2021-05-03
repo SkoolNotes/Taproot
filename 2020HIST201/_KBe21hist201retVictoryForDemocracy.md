@@ -292,19 +292,13 @@ colonialism and that colonial powers cannot be polities.
 
 ## sources
 
-### Aristotle. *Politics*.
-
-### Huang, Albert. \"The Inevitable Shift: How International Incentives Cause Individual Radicals\", April 2021.
-
-### Khakpour, Arta. \"WW1 aftermath - Google Slides\".
-
-### Lenin, 1917. *State and Revolution*.
-
-### Gelvin, James L. 2011. *The modern Middle East: a history*, New York: Oxford University Press.
-
-### Palmer et al. *A History of the Modern World*, 9th Edition.
-
-### Latvian Institute, 28 Feb. 2017. History of Latvia 1918-1940. www.latvia.eu/history-latvia-1918-1940.
+Aristotle. *Politics*. Huang, Albert. \"The Inevitable Shift: How
+International Incentives Cause Individual Radicals\", April 2021.
+Khakpour, Arta. \"WW1 aftermath - Google Slides\". Lenin, 1917. *State
+and Revolution*. Gelvin, James L. 2011. *The modern Middle East: a
+history*, New York: Oxford University Press. Palmer et al. *A History of
+the Modern World*, 9th Edition. Latvian Institute, 28 Feb. 2017. History
+of Latvia 1918-1940. www.latvia.eu/history-latvia-1918-1940.
 
 ## bloopers
 
