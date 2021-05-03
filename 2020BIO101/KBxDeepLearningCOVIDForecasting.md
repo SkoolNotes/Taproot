@@ -101,7 +101,8 @@ source:
 ## Reflection Questions
 
 1.  **What paper did you choose and why did you choose it?**
-	1.  
+	1.   > A COVID-19 pandemic AI-based system with deep learning forecasting and automatic statistical data acquisition: Development and Implementation Study
+	2.   I was interested in doing some similar things earlier, 
     
 2. **How did you go about trying to understand the paper that you chose? What was your reading/understanding process like and why did you employ that strategy?**
     
