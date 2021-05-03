@@ -150,8 +150,6 @@ title: Victory for Democracy Essay
 
 # outline
 
-## intro
-
 As American historian Robert Roswell Palmer concludes in his chapter on
 the first world war, \"the war was indeed a victory for democracy\"
 (Palmer 696). However, as Aristotle defines in *Politics*, the democracy
