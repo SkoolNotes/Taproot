@@ -3,27 +3,29 @@ author: Exr0n
 title: Indian independence was good but not handled great
 ---
 
-# 1945 British was struggling after WWII, and couldn\'t really run india
+# video
 
-# nehru
+## 1945 British was struggling after WWII, and couldn\'t really run india
 
-## wanted united india
+## nehru
 
-# jinna
+### wanted united india
 
-## muslim, wanted a muslim state -\> pakistan
+## jinna
 
-# britain had been dominant, until withdrawl in june 1948
+### muslim, wanted a muslim state -\> pakistan
 
-## partition plan
+## britain had been dominant, until withdrawl in june 1948
 
-## but communities were integrated, so division was hard
+### partition plan
 
-## massive migration and violence -\> eventually ethnic clensing
+### but communities were integrated, so division was hard
 
-## basically the division didnt go very well but britain just left it
+### massive migration and violence -\> eventually ethnic clensing
 
-## people got paranoid of their neighboors based on religion
+### basically the division didnt go very well but britain just left it
+
+### people got paranoid of their neighboors based on religion
 
 # costs of independence
 
@@ -34,3 +36,7 @@ title: Indian independence was good but not handled great
 ## assassination of Gandhi, by an extremist of his own faith
 
 ## decades of conflict between india and pakistan
+
+# blame game
+
+## hindu extremists, who saw it as a hindu nationalist movement -\> made muslim minorities nervous
