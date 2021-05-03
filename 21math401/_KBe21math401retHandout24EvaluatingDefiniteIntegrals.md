@@ -98,7 +98,7 @@ $$\begin{aligned}
   \int \cos  ^2 x dx &= \frac{1}{2}\cos  x \sin  x + \frac{x}{2}
   \end{aligned}$$
 
-# $\int sin^2 x\cos^2 x dx$
+# $\int \sin^2 x\cos^2 x dx$
 
 First, the integral of $\sin  x \cos  x$:
 
@@ -138,7 +138,7 @@ Plugging back into the main problem:
 
 $$\begin{aligned}
    \frac{3}{2}\int \sin^2x \cos^2 x  dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x - \frac{1}{2}\int \sin ^4 x  dx\\
-   &= \fracc{1}{2} (\sin  x \cos  x) \sin  ^2 x - \frac{1}{2} x \sin ^4 x + x \sin  ^2 x - x + \sin  x \cos x
+   &= \frac{1}{2} (\sin  x \cos  x) \sin  ^2 x - \frac{1}{2} x \sin ^4 x + x \sin  ^2 x - x + \sin  x \cos x
   \end{aligned}$$
 
 $$\begin{aligned}
@@ -148,4 +148,4 @@ $$\begin{aligned}
   }
   \end{aligned}$$
 
-# \$∫ sin cb x dx \$
+# $\int \sin^3 x dx$

@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12881)}}    % original
-%\rhead{\textrmlf{Compiled }\#12881\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12882)}}    % original
+%\rhead{\textrmlf{Compiled }\#12882\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -291,7 +291,7 @@ Let \(u = 4 + x^2\), \(du = 2xdx\)
   \end{aligned}\]
 
 \hypertarget{int-sin2-xcos2-x-dx}{%
-\section{\texorpdfstring{\(\int sin^2 x\cos^2 x dx\)}{\textbackslash int sin\^{}2 x\textbackslash cos\^{}2 x dx}}\label{int-sin2-xcos2-x-dx}}
+\section{\texorpdfstring{\(\int \sin^2 x\cos^2 x dx\)}{\textbackslash int \textbackslash sin\^{}2 x\textbackslash cos\^{}2 x dx}}\label{int-sin2-xcos2-x-dx}}
 
 First, the integral of \(\sin  x \cos  x\):
 
@@ -331,7 +331,7 @@ Plugging back into the main problem:
 
 \[\begin{aligned}
    \frac{3}{2}\int \sin^2x \cos^2 x  dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x - \frac{1}{2}\int \sin ^4 x  dx\\
-   &= \fracc{1}{2} (\sin  x \cos  x) \sin  ^2 x - \frac{1}{2} x \sin ^4 x + x \sin  ^2 x - x + \sin  x \cos x
+   &= \frac{1}{2} (\sin  x \cos  x) \sin  ^2 x - \frac{1}{2} x \sin ^4 x + x \sin  ^2 x - x + \sin  x \cos x
   \end{aligned}\]
 
 \[\begin{aligned}
@@ -341,7 +341,7 @@ Plugging back into the main problem:
   }
   \end{aligned}\]
 
-\hypertarget{sin-cb-x-dx}{%
-\section{\$∫ sin cb x dx \$}\label{sin-cb-x-dx}}
+\hypertarget{int-sin3-x-dx}{%
+\section{\texorpdfstring{\(\int \sin^3 x dx\)}{\textbackslash int \textbackslash sin\^{}3 x dx}}\label{int-sin3-x-dx}}
 
 \end{document}
