@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12836)}}    % original
-%\rhead{\textrmlf{Compiled }\#12836\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12837)}}    % original
+%\rhead{\textrmlf{Compiled }\#12837\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -491,8 +491,9 @@ finding?}\label{what-was-the-significance-or-larger-impact-of-the-main-finding}}
   \tightlist
   \item
     I read the abstract of the paper, then learned about the terms I
-    didn't understand from the introduction. A lot of my time was spent
-    looking at other articles online for deeper explanations.
+    didn't understand from the Introduction and \emph{Materials and
+    Methods} section. A lot of my time was spent looking at other
+    articles online for deeper explanations.
   \end{enumerate}
 \item
   \textbf{What did you find challenging about trying to understand your

@@ -105,7 +105,7 @@ source:
 	2.   I was interested in doing some similar things earlier, so this paper caught my eye. 
     
 2. **How did you go about trying to understand the paper that you chose? What was your reading/understanding process like and why did you employ that strategy?**
-	1. I read the abstract of the paper, then learned about the terms I didn't understand from the introduction. A lot of my time was spent looking at other articles online for deeper explanations.
+	1. I read the abstract of the paper, then learned about the terms I didn't understand from the Introduction and *Materials and Methods* section. A lot of my time was spent looking at other articles online for deeper explanations.
     
 3. **What did you find challenging about trying to understand your paper? Although the task may have felt generally challenging, try to get specific here.**
     
