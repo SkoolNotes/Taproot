@@ -8,4 +8,5 @@
   e_j = \frac{v_j - \langle  v_j, e_1 \rangle e_1 - \cdots - \langle v_j, e_{j-1} \rangle e_{j-1}}{ \lVert \text{<numerator>} \rVert  }
   \end{aligned}\]
 
+  Then $e_1, \ldots, e_m$ is an orthonormal list of vectors in $V$ s.t. each prefix span is the same as in $v_1, \ldots, v_m$.
   #+end_quote

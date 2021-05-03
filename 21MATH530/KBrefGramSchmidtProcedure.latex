@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12793)}}    % original
-%\rhead{\textrmlf{Compiled }\#12793\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12794)}}    % original
+%\rhead{\textrmlf{Compiled }\#12794\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -199,6 +199,9 @@ in \(V\). Let \(e_1 = v_1 / \lVert v_1 \rVert\). For
 \(j = 2, \ldots, m\), define \(e_j\) inductively by \[\begin{aligned}
 e_j = \frac{v_j - \langle  v_j, e_1 \rangle e_1 - \cdots - \langle v_j, e_{j-1} \rangle e_{j-1}}{ \lVert \text{<numerator>} \rVert  }
 \end{aligned}\]
+
+Then \(e_1, \ldots, e_m\) is an orthonormal list of vectors in \(V\)
+s.t. each prefix span is the same as in \(v_1, \ldots, v_m\).
 \end{quote}
 
 \end{document}
