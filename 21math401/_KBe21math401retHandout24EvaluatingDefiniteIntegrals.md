@@ -125,7 +125,7 @@ To evaluate the integral of $\sin  ^4 x$, we can use differentiation by
 parts after multiplying by one.
 
 $$\begin{aligned}
-  \int 1 \sin  ^4 x dx &= x \sin ^4 x -\int 4 x \sin  x \cos  x dx \\
+  \int 1 \sin  ^4 x dx &= x \sin ^4 x - 4 \int x \sin  x \cos  x dx \\
   &= x \sin  ^4 x - 4\left(  x\left(  \frac{1}{2} \sin  ^2 x \right)  -\int \frac{1}{2} \sin  ^2 x dx \right) \\
   \end{aligned}$$
 
