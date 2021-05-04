@@ -9,3 +9,9 @@ title: Revolution in China Stearns
 ## power vacuum competed for by \'regional warlords, loose alliance of students, politicians, secret societes, japanese, communist movement\'
 
 ## internal divisions and foreign influences paved the way for the ult victory of Mao Zedong [[claim]{.smallcaps}]{.tag tag-name="claim"} {#internal-divisions-and-foreign-influences-paved-the-way-for-the-ult-victory-of-mao-zedong}
+
+# warlord cliques
+
+## dominated chinese politics for next 3 decades
+
+## most powerful clique was in north china headed by Yuan Shikai
