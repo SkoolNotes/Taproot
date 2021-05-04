@@ -243,3 +243,10 @@ title: Revolution in China Stearns
 ### civilians were like brUh the entire time but the military was in control
 
 ## japanese industrialization and recovery
+
+### depression hit hard, but active government policies helped
+
+1.  increased spending to boost employment and generally boosted economy
+
+2.  export boom and \"virtual elimination of unemployment by 1936\"
+    after the low point in 1931
