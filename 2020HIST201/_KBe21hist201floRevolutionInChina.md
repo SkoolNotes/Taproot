@@ -208,3 +208,7 @@ title: Revolution in China Stearns
 
 2.  but it too got second-thoughty and fell in 1938, but everything was
     really a standstill
+
+### scandinavian states were somewhat socialist and neared a welfare state which was decent
+
+### british innovation (television) improved some sectors but not enough
