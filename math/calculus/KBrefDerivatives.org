@@ -6,7 +6,8 @@
 |                                   | $\ln (1+x)$          | $\frac{1}{1+x}$                     |
 | $-\cos x$                         | $\sin x$             | $\cos x$                            |
 | $\sin x$                          | $\cos x$             | $-\sin x$                           |
-| $\frac{1}{2}(x - \sin  x \cos  x )$ |                      |                                     |
+| $\frac{1}{2}(x - \sin  x \cos  x )$ | $\sin^2 x$       |                                     |
+| $\frac{1}{2}(x + \sin  x \cos  x )$ | $\cos^2 x$    |                                     |
 |                                   | $\sin^- x$           | $\frac{1}{\sqrt{1-x^2}}$            |
 |                                   | $\tan^- x$           | $\frac{1}{1+x^2}$                   |
 |                                   | $\tan x$             | $\sec ^2 x$                         |
