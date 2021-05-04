@@ -128,11 +128,11 @@
 
 * $\int \sin^3 x dx$
 
-  \[\begin{aligned}
+  \[\xcancel{\begin{aligned}
   \int \sin^3 x dx &=\int 1 \sin  ^3 x dx \\
   &= x \sin  ^3 x -\int 3 x \sin  x \cos  x dx\\
   &= x \sin  ^3 x - 3 x \sin  x \cos  x + 3\int \frac{1}{2} \sin ^2 x dx\\
   &= x \sin  ^3 x - 3 x \sin  x \cos  x + \frac{3}{2} \int \sin ^2 x dx\\
   &= x \sin  ^3 x - 3 x \sin  x \cos  x + \frac{3}{2} \frac{1}{2} (x - \sin  x \cos  x)+C\\
   &= x \sin  ^3 x - 3 x \sin  x \cos  x + \frac{3}{4} (x - \sin  x \cos  x) +C\\
-  \end{aligned}\]
+  \end{aligned}}\]

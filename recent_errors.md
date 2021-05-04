@@ -1,1 +1,2 @@
-        Log for attempt at Mon May  3 07:12:36 PM PDT 2021 (12915)
+        Log for attempt at Mon May  3 08:09:00 PM PDT 2021 (12916)
+        Mon May  3 08:09:00 PM PDT 2021 Converting 21math401/KBe21math401retHandout24EvaluatingDefiniteIntegrals.org...
