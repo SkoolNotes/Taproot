@@ -12,3 +12,5 @@ title: "Axler6.B \\#9"
 
 Suppose the list $v_1, \ldots, v_n$ is linearly dependent. Then, there
 exists some $v_j$ s.t. $v_1, \ldots, v_{j-1}$ is linearly independant
+while $v_1, \ldots, v_j$ is not. Then,
+$v_j \in \text{span}(v_1, \ldots, v_{j-1})$
