@@ -47,3 +47,9 @@ title: Revolution in China Stearns
 ### Yuan Shikai pretended to be democratic but built up military
 
 ### few years later, used military and assassinations to remove opposition
+
+## Japan and WWI
+
+### japan took german concessions in China after WWI
+
+### gave Yuan the 21 commands in early 1915
