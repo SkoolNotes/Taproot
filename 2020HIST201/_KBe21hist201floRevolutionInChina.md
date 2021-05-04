@@ -112,3 +112,5 @@ title: Revolution in China Stearns
 ### first headed by Chiang Kai-shek who didnt like the communists
 
 ### but he had to wait for the army to be trained
+
+# mao and the peasant option
