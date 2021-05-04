@@ -114,4 +114,5 @@ $$\begin{aligned}
    &=\int \cos  x (1 - \sin  ^2 x) dx \\
    &=\int \cos  x - \sin  ^2 x \cos  x dx \\
    &= \sin  x -\int \sin  ^2 x \cos  x dx \\
+   &= \sin  x -\int u ^2 du
    \end{aligned}$$

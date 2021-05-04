@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13025)}}    % original
-%\rhead{\textrmlf{Compiled }\#13025\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13026)}}    % original
+%\rhead{\textrmlf{Compiled }\#13026\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -309,6 +309,7 @@ Let \(u = 4 + x^2\), \(du = 2xdx\)
    &=\int \cos  x (1 - \sin  ^2 x) dx \\
    &=\int \cos  x - \sin  ^2 x \cos  x dx \\
    &= \sin  x -\int \sin  ^2 x \cos  x dx \\
+   &= \sin  x -\int u ^2 du
    \end{aligned}\]
 
 \end{document}
