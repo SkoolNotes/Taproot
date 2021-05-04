@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13035)}}    % original
-%\rhead{\textrmlf{Compiled }\#13035\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13036)}}    % original
+%\rhead{\textrmlf{Compiled }\#13036\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -200,5 +200,8 @@ Suppose the list \(v_1, \ldots, v_n\) is linearly dependent. Then, there
 exists some \(v_j\) s.t. \(v_1, \ldots, v_{j-1}\) is linearly
 independant while \(v_1, \ldots, v_j\) is not. Then,
 \(v_j \in \text{span}(v_1, \ldots, v_{j-1})\)
+
+Because the Gram-Schmidt procedure preserves prefix spans,
+\[ v_j \in \text{span}(e_1, \ldots, e_{j-1}) \]
 
 \end{document}
