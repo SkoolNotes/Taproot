@@ -150,3 +150,7 @@ title: Revolution in China Stearns
 ### runaway spiral of loans from the US to european countries + postwar inflation?
 
 ### optimized exploitation of colonies to produce coffee sugar rubber production worsened the same cycle
+
+# poor leadership
+
+## leaders were interested in their own debts being paid than facilitating balanced econ growth
