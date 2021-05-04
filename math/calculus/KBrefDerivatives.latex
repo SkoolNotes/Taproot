@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13021)}}    % original
-%\rhead{\textrmlf{Compiled }\#13021\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13022)}}    % original
+%\rhead{\textrmlf{Compiled }\#13022\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -197,6 +197,8 @@ integral & function & derivative \\
 \(-\cos x\) & \(\sin x\) & \(\cos x\) \\
 \(\sin x\) & \(\cos x\) & \(-\sin x\) \\
 \(\frac{1}{2}(x - \sin  x \cos  x )\) & \(\sin^2 x\) & \\
+\(\frac{1}{2}(x + \sin  x \cos  x )\) & \(\cos^2 x\) & \\
+\(\frac{1}{2}(x - \sin  x \cos  x )\) & \(\sin^3 x\) & \\
 \(\frac{1}{2}(x + \sin  x \cos  x )\) & \(\cos^2 x\) & \\
 & \(\sin^- x\) & \(\frac{1}{\sqrt{1-x^2}}\) \\
 & \(\tan^- x\) & \(\frac{1}{1+x^2}\) \\
