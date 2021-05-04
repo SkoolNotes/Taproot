@@ -212,3 +212,9 @@ title: Revolution in China Stearns
 ### scandinavian states were somewhat socialist and neared a welfare state which was decent
 
 ### british innovation (television) improved some sectors but not enough
+
+## the new deal
+
+### herbert hoover did european-like stuff that went poorly
+
+### franklin roosevelt and the new deal (1930s) offered more direct aid
