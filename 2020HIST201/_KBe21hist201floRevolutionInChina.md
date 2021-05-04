@@ -58,3 +58,7 @@ title: Revolution in China Stearns
 
 1.  a rival warlord took his support by being hostile to japan and Yuan
     resigned in 1916
+
+### after the war (1919), japan won german concessions
+
+1.  this made the students upset -\> protests and mass boycotts
