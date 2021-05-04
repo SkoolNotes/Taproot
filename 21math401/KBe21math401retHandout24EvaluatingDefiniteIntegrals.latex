@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12918)}}    % original
-%\rhead{\textrmlf{Compiled }\#12918\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12919)}}    % original
+%\rhead{\textrmlf{Compiled }\#12919\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -329,6 +329,7 @@ I think I did something wrong.
 
 \[\begin{aligned}
   \int \sin  ^3 x  dx &=\int \sin  x (1 - \cos  ^2 x) dx\\
+  &=\int \sin  x dx  -\int \cos ^2 x \sin  x dx
   \end{aligned}\]
 
 \[\xcancel{\begin{aligned}

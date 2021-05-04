@@ -135,6 +135,7 @@ I think I did something wrong.
 
 $$\begin{aligned}
   \int \sin  ^3 x  dx &=\int \sin  x (1 - \cos  ^2 x) dx\\
+  &=\int \sin  x dx  -\int \cos ^2 x \sin  x dx
   \end{aligned}$$
 
 $$\xcancel{\begin{aligned}
