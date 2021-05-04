@@ -241,3 +241,5 @@ title: Revolution in China Stearns
 ### by 1938 Japan controlled a large-ish empire. military leaders and economic leaders liked this and pressed for more conquest in WWII
 
 ### civilians were like brUh the entire time but the military was in control
+
+## japanese industrialization and recovery
