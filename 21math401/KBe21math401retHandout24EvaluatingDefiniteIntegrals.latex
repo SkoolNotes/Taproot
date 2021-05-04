@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13024)}}    % original
-%\rhead{\textrmlf{Compiled }\#13024\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13025)}}    % original
+%\rhead{\textrmlf{Compiled }\#13025\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -303,5 +303,12 @@ Let \(u = 4 + x^2\), \(du = 2xdx\)
 
 \hypertarget{int-cos-3-x-dx}{%
 \subsection{\texorpdfstring{\(\int \cos ^3 x dx\)}{\textbackslash int \textbackslash cos \^{}3 x dx}}\label{int-cos-3-x-dx}}
+
+\[\begin{aligned}
+   \int \cos  ^3 x dx  &=\int \cos x \cos  ^2 x dx \\
+   &=\int \cos  x (1 - \sin  ^2 x) dx \\
+   &=\int \cos  x - \sin  ^2 x \cos  x dx \\
+   &= \sin  x -\int \sin  ^2 x \cos  x dx \\
+   \end{aligned}\]
 
 \end{document}

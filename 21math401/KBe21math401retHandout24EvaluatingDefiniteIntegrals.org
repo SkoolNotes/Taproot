@@ -108,3 +108,10 @@
 
 
 ** $\int \cos ^3 x dx$
+
+   \[\begin{aligned}
+   \int \cos  ^3 x dx  &=\int \cos x \cos  ^2 x dx \\
+   &=\int \cos  x (1 - \sin  ^2 x) dx \\
+   &=\int \cos  x - \sin  ^2 x \cos  x dx \\
+   &= \sin  x -\int \sin  ^2 x \cos  x dx \\
+   \end{aligned}\]
