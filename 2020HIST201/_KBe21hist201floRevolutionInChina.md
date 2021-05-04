@@ -160,4 +160,10 @@ title: Revolution in China Stearns
 
 2.  protectionism reduced market opportunities and made it worse
 
-### the formal advent of the Depression (October 1929)
+## the formal advent of the Depression (October 1929)
+
+### us stock market crash brings everything down
+
+1.  bc the US gave out so many loans
+
+2.  people trying to cut losses made things worse
