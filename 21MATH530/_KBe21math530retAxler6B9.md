@@ -18,8 +18,9 @@ $v_j \in \text{span}(v_1, \ldots, v_{j-1})$
 Because the Gram-Schmidt procedure preserves prefix spans,
 $$ v_j \in \text{span}(e_1, \ldots, e_{j-1}) $$
 
-Thus, the denominator in the $j$-th step of the procedure is equivalent
-to $$
+Because of how a vector is written as a linear combination of an
+orthonormal basis, the denominator in the $j$-th step of the procedure
+is equivalent to $$
   \lVert v - v \rVert = \lVert 0 \rVert = 0
   $$ and a division by zero occurs. Thus, the Gram-Schmidt procedure
 cannot be used on a linearly dependent list.

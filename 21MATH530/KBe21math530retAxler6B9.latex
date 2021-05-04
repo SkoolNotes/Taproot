@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13039)}}    % original
-%\rhead{\textrmlf{Compiled }\#13039\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13040)}}    % original
+%\rhead{\textrmlf{Compiled }\#13040\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -204,8 +204,9 @@ independent while \(v_1, \ldots, v_j\) is not. Then,
 Because the Gram-Schmidt procedure preserves prefix spans,
 \[ v_j \in \text{span}(e_1, \ldots, e_{j-1}) \]
 
-Thus, the denominator in the \(j\)-th step of the procedure is
-equivalent to \[
+Because of how a vector is written as a linear combination of an
+orthonormal basis, the denominator in the \(j\)-th step of the procedure
+is equivalent to \[
   \lVert v - v \rVert = \lVert 0 \rVert = 0
   \] and a division by zero occurs. Thus, the Gram-Schmidt procedure
 cannot be used on a linearly dependent list.
