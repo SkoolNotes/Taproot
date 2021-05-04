@@ -90,6 +90,8 @@ $$\begin{aligned}
 $$\begin{aligned}
   \sin  2 x = 2 \sin  x \cos  x\\
   \int \sin  ^2 x \cos  ^2 x dx &= \frac{1}{4}\int \sin  ^2 2 x dx\\
+  \text{Let } u &= 2x, du = 2 dx\\
+  &= \frac{1}{8}\int \sin  ^2 u du
   \end{aligned}$$
 
 `\xcancel{

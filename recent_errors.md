@@ -1,5 +1,5 @@
-        Log for attempt at Mon May  3 08:24:52 PM PDT 2021 (12927)
-        Mon May  3 08:24:52 PM PDT 2021 Converting 21math401/KBe21math401retHandout24EvaluatingDefiniteIntegrals.org...
+        Log for attempt at Mon May  3 08:25:31 PM PDT 2021 (12928)
+        Mon May  3 08:25:31 PM PDT 2021 Converting 21math401/KBe21math401retHandout24EvaluatingDefiniteIntegrals.org...
 Error producing PDF.
 ! Package amsmath Error: \begin{aligned} allowed only in math mode.
 
@@ -7,5 +7,5 @@ See the amsmath package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.330   }
+l.332   }
 
