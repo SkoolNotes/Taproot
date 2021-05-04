@@ -137,7 +137,7 @@ $$\begin{aligned}
   \int \sin  ^2 x \cos  ^2 x dx &= \frac{1}{3} \sin  ^3 x \cos  x - \frac{1}{3} x \sin ^4 x + \frac{2}{3} x \sin  ^2 x - \frac{2}{3} x + \frac{3}{2}\sin  x \cos  x +C
   \end{aligned}\]
 
-  I think I did something wrong.
+  \text{I think I did something wrong.}
   }`{=latex}
 
 # $\int \sin^3 x dx$
