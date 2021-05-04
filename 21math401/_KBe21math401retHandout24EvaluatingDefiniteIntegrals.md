@@ -133,6 +133,10 @@ I think I did something wrong.
 
 # $\int \sin^3 x dx$
 
+$$\begin{aligned}
+  \int \sin  ^3 x  dx &=\int \sin  x (1 - \cos  ^2 x) dx\\
+  \end{aligned}$$
+
 $$\xcancel{\begin{aligned}
   \int \sin^3 x dx &=\int 1 \sin  ^3 x dx \\
   &= x \sin  ^3 x -\int 3 x \sin  x \cos  x dx\\
