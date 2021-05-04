@@ -1,4 +1,7 @@
 ---
-title: Revolution in China Searns
+title: Revolution in China Stearns
 ---
 
+# fall of Qing
+
+## Manchu 12-yo boy emperor Puyi abducted in 1912
