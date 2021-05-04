@@ -41,3 +41,9 @@ title: Revolution in China Stearns
 ## claimed mandate of heaven but warlords had true power
 
 ## set up a Parliament and elected cabinets but had minimal actual effect
+
+## Sun Yat-sen resigned in favor of Yuan Shikai in 1912 (northern warlord)
+
+### Yuan Shikai pretended to be democratic but built up military
+
+### few years later, used military and assassinations
