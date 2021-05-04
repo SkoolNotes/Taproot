@@ -191,4 +191,4 @@ title: Revolution in China Stearns
 
 ## non-western impacts
 
-### export economies got rekt
+### export economies got rekt (latain america, japan)
