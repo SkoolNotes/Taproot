@@ -140,3 +140,7 @@ title: Revolution in China Stearns
 ## a decade after WWI, caused many international crises
 
 ## caused by problems in economic systems and reliance on cheap raw goods
+
+## causation
+
+### food overproduction drove down prices
