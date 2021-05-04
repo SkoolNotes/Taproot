@@ -188,3 +188,7 @@ title: Revolution in China Stearns
 ### confused family and gender roles
 
 ### economic hesitancy caused recessions through 1939
+
+## non-western impacts
+
+### export economies got rekt
