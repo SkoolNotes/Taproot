@@ -126,3 +126,9 @@ title: Revolution in China Stearns
 ### believed revolution was violent and peasants needed to use force to overthrow landlords
 
 ## after Chaing seized control, he massacared communists in Shanghai in 1927
+
+## a later attack to communists in south central china caused Mao to spearhead a long march
+
+### 90k followers in 1934, thousands of miles to the more remote northwest
+
+### created a new communist center
