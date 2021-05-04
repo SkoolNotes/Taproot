@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13032)}}    % original
-%\rhead{\textrmlf{Compiled }\#13032\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13033)}}    % original
+%\rhead{\textrmlf{Compiled }\#13033\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,6 +185,15 @@
 
 % DID YOU SET SPELL????
 
+\hypertarget{problem}{%
+\section{Problem}\label{problem}}
 
+\begin{quote}
+What happens if the Gram--Schmidt Procedure is applied to a list of
+vectors that is not linearly independent?
+\end{quote}
+
+\hypertarget{answer}{%
+\section{Answer}\label{answer}}
 
 \end{document}
