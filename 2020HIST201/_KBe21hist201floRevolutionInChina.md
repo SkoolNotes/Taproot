@@ -253,4 +253,6 @@ title: Revolution in China Stearns
 
 3.  lots of rapid industrialization stats
 
-### distictive industrial policies
+### distinctive industrial policies
+
+1.  mass patriotism, group loyalt, lifetime contracts
