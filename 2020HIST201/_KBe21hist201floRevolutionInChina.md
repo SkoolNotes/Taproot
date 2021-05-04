@@ -55,3 +55,6 @@ title: Revolution in China Stearns
 ### gave Yuan the 21 demands in early 1915, which would reduce china to a \'dependant protectorate\'
 
 ### Yuan was indecisive and instead rallied support for himself instead of responding
+
+1.  a rival warlord took his support by being hostile to japan and Yuan
+    resigned in 1916
