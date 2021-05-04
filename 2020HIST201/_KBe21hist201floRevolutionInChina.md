@@ -21,3 +21,11 @@ title: Revolution in China Stearns
 # university students, teachers, and intellectuals
 
 ## played critical roles in civilization but were defenseless in force
+
+# secret societies
+
+## envisioned restoration of monarchical rule under a Chinese dynasty
+
+# western power intervention and japan
+
+## wanted to capitalize on power vacuum
