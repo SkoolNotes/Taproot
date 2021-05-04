@@ -96,3 +96,7 @@ title: Revolution in China Stearns
 ### few supporters but provided new ideology over confucianism
 
 # Seizure of Power by the Guomindang (nationalist party, Sun Yat-sen)
+
+## promised international and domestic change, but only implemented international change
+
+### pushed foreigners out but didnt implement land reform which is what the pheasants cared about
