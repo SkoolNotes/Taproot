@@ -11,3 +11,6 @@ title: "Axler 6.B \\#10"
 > that preserve the prefix spans.
 
 # Proof Sketch
+
+In general, during the Gram-Schmidt procedure, both $e_j$ or $-e_j$ at
+each step
