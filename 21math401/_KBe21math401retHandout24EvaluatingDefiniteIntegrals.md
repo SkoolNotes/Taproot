@@ -110,10 +110,8 @@ $$\begin{aligned}
 ## $\int \cos ^3 x dx$
 
 $$\begin{aligned}
-   \int \cos  ^3 x dx  &=\int \cos x \cos  ^2 x dx \\
-   &=\int \cos  x (1 - \sin  ^2 x) dx \\
+   \int \cos  ^3 x dx &=\int \cos  x (1 - \sin  ^2 x) dx \\
    &=\int \cos  x - \sin  ^2 x \cos  x dx \\
-   &= \sin  x -\int \sin  ^2 x \cos  x dx \\
    &= \sin  x -\int u ^2 du\\
    &= \sin  x - \frac{1}{3} u ^3 +C\\
    &= \sin  x - \frac{1}{3} \sin  ^3 x +C
