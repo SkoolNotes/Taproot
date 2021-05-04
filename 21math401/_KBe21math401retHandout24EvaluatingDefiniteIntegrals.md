@@ -49,7 +49,7 @@ $$\begin{aligned}
 
 Let $u = \sqrt{x}$, $du = \frac{1}{2 \sqrt{x}} dx$, $dx = 2 u du$
 $$\begin{aligned}
-  \int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx &= 2\int u \cos u  du\\
+  \int_{0}^{ \sqrt{\pi} } \cos \sqrt{x} dx &= 2\int u \cos u  du\\
   &= 2u \sin  u - 2\int \sin u du\\
   &= 2 u \sin  u + 2 \cos  u\\
   &= 2 \sqrt{x} \sin  \sqrt{x} + 2 \cos  \sqrt{x}\\
