@@ -76,3 +76,7 @@ title: Revolution in China Stearns
 ## Bolshevik victory in Russia
 
 ### chinese seriosuly considered marxism
+
+### Li Dazhao decided to interpret marxism for china\'s situation
+
+1.  he saw the pheasants as the vanguard of urban change
