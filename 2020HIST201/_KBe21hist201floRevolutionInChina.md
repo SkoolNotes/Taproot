@@ -138,3 +138,5 @@ title: Revolution in China Stearns
 # global great depression
 
 ## a decade after WWI, caused many international crises
+
+## caused by problems in economic systems and reliance on cheap raw goods
