@@ -192,3 +192,7 @@ title: Revolution in China Stearns
 ## non-western impacts
 
 ### export economies got rekt (latain america, japan)
+
+## western responses to the great depression
+
+### government tariffs, spending cuts, and inflation fear worsened the problem
