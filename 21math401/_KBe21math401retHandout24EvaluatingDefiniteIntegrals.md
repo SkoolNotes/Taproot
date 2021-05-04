@@ -88,7 +88,8 @@ $$\begin{aligned}
 # $\int \sin^2 x\cos^2 x dx$
 
 $$\begin{aligned}
-
+  \sin  2 x = 2 \sin  x \cos  x\\
+  \int \sin  ^2 x \cos  ^2 x dx &= \frac{1}{4}\int \sin  ^2 2 x dx\\
   \end{aligned}$$
 
 `\xcancel{
