@@ -139,6 +139,7 @@ $$\begin{aligned}
   \text{Let }& u = \cos  x, du = - \sin  x dx\\
   &=\int \sin  x dx  +\int u ^2 du\\
   &= - \cos  x + \frac{1}{3} u ^3 +C\\
+  &=
   \end{aligned}$$
 
 $$\xcancel{\begin{aligned}
