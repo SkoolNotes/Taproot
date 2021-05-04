@@ -145,12 +145,19 @@ title: Revolution in China Stearns
 
 ### food overproduction drove down prices
 
-### high prices during the war led to overconfident loans
+1.  high prices during the war led to overconfident loans
 
-### runaway spiral of loans from the US to european countries + postwar inflation?
+2.  runaway spiral of loans from the US to european countries + postwar
+    inflation?
 
-### optimized exploitation of colonies to produce coffee sugar rubber production worsened the same cycle
+3.  optimized exploitation of colonies to produce coffee sugar rubber
+    production worsened the same cycle
 
-# poor leadership
+### poor leadership
 
-## leaders were interested in their own debts being paid than facilitating balanced econ growth
+1.  leaders were interested in their own debts being paid than
+    facilitating balanced econ growth
+
+2.  protectionism reduced market opportunities and made it worse
+
+### the formal advent of the Depression (October 1929)
