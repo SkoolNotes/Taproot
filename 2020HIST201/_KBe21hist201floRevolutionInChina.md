@@ -100,3 +100,15 @@ title: Revolution in China Stearns
 ## promised international and domestic change, but only implemented international change
 
 ### pushed foreigners out but didnt implement land reform which is what the pheasants cared about
+
+## slowly forged alliances with \'key social groups\' and built an army in south of china
+
+## nationalists used communists as major link to peasants and urban workers
+
+## also asked soviets for help
+
+## soviet military academy
+
+### first headed by Chiang Kai-shek who didnt like the communists
+
+### but he had to wait for the army to be trained
