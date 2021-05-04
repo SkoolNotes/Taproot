@@ -72,3 +72,7 @@ title: Revolution in China Stearns
 ### however, elections and stuff didnt work because warlords were in control
 
 1.  so they decided more radical action was needed
+
+## Bolshevik victory in Russia
+
+### chinese seriosuly considered marxism
