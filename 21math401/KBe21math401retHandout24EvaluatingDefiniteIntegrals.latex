@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12936)}}    % original
-%\rhead{\textrmlf{Compiled }\#12936\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12937)}}    % original
+%\rhead{\textrmlf{Compiled }\#12937\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -274,7 +274,7 @@ Let \(u = 4 + x^2\), \(du = 2xdx\)
   \int \cos  ^2 x dx &= \cos  x \sin  x + \int \sin^2 x dx\\
   &= \cos x \sin  x + \int 1 dx - \int \cos^2 x dx\\
   2\int \cos  ^2 x dx &= \cos  x \sin  x + x\\
-  \int \cos  ^2 x dx &= \frac{1}{2}\cos  x \sin  x + \frac{x}{2}
+  \int \cos  ^2 x dx &= \frac{1}{2}\cos  x \sin  x + \frac{x}{2}+C
   \end{aligned}\]
 
 \hypertarget{int-sin2-xcos2-x-dx}{%
@@ -286,50 +286,8 @@ Let \(u = 4 + x^2\), \(du = 2xdx\)
   \text{Let } u &= 2x, du = 2 dx\\
   &= \frac{1}{8}\int \sin  ^2 u du\\
   &= \frac{1}{8} \frac{1}{2}  (u-\sin  u \cos  u)\\
-  &= \frac{1}{16} (2x - \sin  2x \cos  2x)
+  &= \frac{1}{16} (2x - \sin  2x \cos  2x)+C
   \end{aligned}\]
-
-\[\xcancel{
-  \text{First, the integral of $\sin  x \cos  x$:}
-
-  \[\begin{aligned}
-  \int \sin  x \cos  x dx &= \sin  ^2 x -\int \sin  x \cos  x dx \\
-  &= \frac{1}{2} \sin  ^2 x +C
-  \end{aligned}\]
-
-And the derivative: \[\begin{aligned}
-  \frac{d}{dx} \sin  x \cos  x &= - \sin  ^2 x + \cos  ^2 x \\
-  &= \cos  ^2 x - \sin  ^2 x
-  \end{aligned}\]
-
-Now we can use differentiation by parts on (sin\emph{x}cos\emph{x})(sin\emph{x}cos\emph{x}):
-
-\[\begin{aligned}
-  \int (\sin  x \cos  x) (\sin  x \cos  x) dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x -\int \left(  \cos  ^2 x - \sin  ^2 x \right)  \left( \frac{1}{2} \sin  ^2 x \right)  dx\\
-  &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x -\frac{1}{2}\int \sin  ^2 x\cos ^2 x dx - \frac{1}{2}\int \sin ^4 x  dx\\
-   \frac{3}{2}\int \sin^2x \cos^2 x  dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x - \frac{1}{2}\int \sin ^4 x  dx\\
-  \end{aligned}\]
-
-To evaluate the integral of sin\textsuperscript{4}\emph{x}, we can use differentiation by parts after multiplying by one.
-We will need to use the integral of sin \emph{x}cos \emph{x} from earlier in this problem, as well as the integral of sin\textsuperscript{2}\emph{x} from the previous problem.
-
-\[\begin{aligned}
-  \int 1 \sin  ^4 x dx &= x \sin ^4 x - 4 \int x \sin  x \cos  x dx \\
-  &= x \sin  ^4 x - 4\left(  x\left(  \frac{1}{2} \sin  ^2 x \right)  -\int \frac{1}{2} \sin  ^2 x dx \right) \\
-  &= x \sin  ^4 x - 4\left(  x\left(  \frac{1}{2} \sin  ^2 x \right)  -\frac{1}{2} \int \sin  ^2 x dx \right) \\
-  &= x \sin ^4 x - 2x \sin  ^2 x + 4\frac{1}{2}\left(  x - \sin  x \cos  x \right) \\
-  &= x \sin ^4 x - 2x \sin  ^2 x + 2 x - 2 \sin  x \cos  x
-  \end{aligned}\]
-
-Plugging back into the main problem:
-
-\[\begin{aligned}
-   \frac{3}{2}\int \sin^2x \cos^2 x  dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x - \frac{1}{2}\int \sin ^4 x  dx\\
-   &= \frac{1}{2} (\sin  x \cos  x) \sin  ^2 x - \frac{1}{2} x \sin ^4 x + x \sin  ^2 x - x + \sin  x \cos x +C\\
-  \int \sin  ^2 x \cos  ^2 x dx &= \frac{1}{3} \sin  ^3 x \cos  x - \frac{1}{3} x \sin ^4 x + \frac{2}{3} x \sin  ^2 x - \frac{2}{3} x + \frac{3}{2}\sin  x \cos  x +C
-  \end{aligned}\]
-
-I think I did something wrong. \}\textbackslash{]}
 
 \hypertarget{int-sin3-x-dx}{%
 \section{\texorpdfstring{\(\int \sin^3 x dx\)}{\textbackslash int \textbackslash sin\^{}3 x dx}}\label{int-sin3-x-dx}}
