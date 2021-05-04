@@ -176,3 +176,11 @@ title: Revolution in China Stearns
 ## comparison
 
 ### first great depression of the industrial age
+
+### also it was in the mess of the world wars which made it worse
+
+### and it lasted nearly a decade
+
+## social impacts
+
+### created fears of loss of earnings or work
