@@ -148,3 +148,5 @@ title: Revolution in China Stearns
 ### high prices during the war led to overconfident loans
 
 ### runaway spiral of loans from the US to european countries + postwar inflation?
+
+### optimized exploitation of colonies to produce coffee sugar rubber production worsened the same cycle
