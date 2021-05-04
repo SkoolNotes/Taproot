@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12986)}}    % original
-%\rhead{\textrmlf{Compiled }\#12986\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12987)}}    % original
+%\rhead{\textrmlf{Compiled }\#12987\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -525,6 +525,8 @@ down}\label{us-stock-market-crash-brings-everything-down}}
   bc the US gave out so many loans
 \item
   people trying to cut losses made things worse
+\item
+  thus lower production levels and rising unemployment
 \end{enumerate}
 
 \end{document}

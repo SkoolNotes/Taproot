@@ -167,3 +167,5 @@ title: Revolution in China Stearns
 1.  bc the US gave out so many loans
 
 2.  people trying to cut losses made things worse
+
+3.  thus lower production levels and rising unemployment
