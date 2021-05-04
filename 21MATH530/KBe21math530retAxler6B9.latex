@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13038)}}    % original
-%\rhead{\textrmlf{Compiled }\#13038\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13039)}}    % original
+%\rhead{\textrmlf{Compiled }\#13039\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -198,7 +198,7 @@ vectors that is not linearly independent?
 
 Suppose the list \(v_1, \ldots, v_n\) is linearly dependent. Then, there
 exists some \(v_j\) s.t. \(v_1, \ldots, v_{j-1}\) is linearly
-independant while \(v_1, \ldots, v_j\) is not. Then,
+independent while \(v_1, \ldots, v_j\) is not. Then,
 \(v_j \in \text{span}(v_1, \ldots, v_{j-1})\)
 
 Because the Gram-Schmidt procedure preserves prefix spans,
@@ -207,6 +207,7 @@ Because the Gram-Schmidt procedure preserves prefix spans,
 Thus, the denominator in the \(j\)-th step of the procedure is
 equivalent to \[
   \lVert v - v \rVert = \lVert 0 \rVert = 0
-  \] and a division by zero occurs.
+  \] and a division by zero occurs. Thus, the Gram-Schmidt procedure
+cannot be used on a linearly dependent list.
 
 \end{document}
