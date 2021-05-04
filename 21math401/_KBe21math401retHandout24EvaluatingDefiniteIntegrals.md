@@ -87,6 +87,10 @@ $$\begin{aligned}
 
 # $\int \sin^2 x\cos^2 x dx$
 
+$$\begin{aligned}
+
+  \end{aligned}$$
+
 `\xcancel{
   First, the integral of $\sin  x \cos  x$:
 
