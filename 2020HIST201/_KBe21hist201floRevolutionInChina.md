@@ -200,3 +200,11 @@ title: Revolution in China Stearns
 ### people turned to radicalism both left and right
 
 ### generally, parliaments were either frozen in indecision or straight up overthrown
+
+### eg. france got frozen
+
+1.  parliment reacted sluggishly, popular front (comprised of liberal,
+    socialist, and communist parties) won election in 1936
+
+2.  but it too got second-thoughty and fell in 1938, but everything was
+    really a standstill
