@@ -114,3 +114,9 @@ title: Revolution in China Stearns
 ### but he had to wait for the army to be trained
 
 # mao and the peasant option
+
+## mao background
+
+### father was a prosperous peasant, but mao rebelled early
+
+### believed revolution was violent and peasants needed to use force to overthrow landlords
