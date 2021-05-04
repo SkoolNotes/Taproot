@@ -87,49 +87,49 @@ $$\begin{aligned}
 
 # $\int \sin^2 x\cos^2 x dx$
 
-First, the integral of $\sin  x \cos  x$:
+`\xcancel{
+  First, the integral of $\sin  x \cos  x$:
 
-$$\begin{aligned}
+  \[\begin{aligned}
   \int \sin  x \cos  x dx &= \sin  ^2 x -\int \sin  x \cos  x dx \\
   &= \frac{1}{2} \sin  ^2 x +C
-  \end{aligned}$$
+  \end{aligned}\]
 
-And the derivative: $$\begin{aligned}
+  And the derivative:
+  \[\begin{aligned}
   \frac{d}{dx} \sin  x \cos  x &= - \sin  ^2 x + \cos  ^2 x \\
   &= \cos  ^2 x - \sin  ^2 x
-  \end{aligned}$$
+  \end{aligned}\]
 
-Now we can use differentiation by parts on
-$(\sin  x \cos  x) (\sin  x \cos  x)$:
+  Now we can use differentiation by parts on $(\sin  x \cos  x) (\sin  x \cos  x)$:
 
-$$\begin{aligned}
+  \[\begin{aligned}
   \int (\sin  x \cos  x) (\sin  x \cos  x) dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x -\int \left(  \cos  ^2 x - \sin  ^2 x \right)  \left( \frac{1}{2} \sin  ^2 x \right)  dx\\
   &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x -\frac{1}{2}\int \sin  ^2 x\cos ^2 x dx - \frac{1}{2}\int \sin ^4 x  dx\\
    \frac{3}{2}\int \sin^2x \cos^2 x  dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x - \frac{1}{2}\int \sin ^4 x  dx\\
-  \end{aligned}$$
+  \end{aligned}\]
 
-To evaluate the integral of $\sin  ^4 x$, we can use differentiation by
-parts after multiplying by one. We will need to use the integral of
-$\sin  x \cos  x$ from earlier in this problem, as well as the integral
-of $\sin  ^2 x$ from the previous problem.
+  To evaluate the integral of $\sin  ^4 x$, we can use differentiation by parts after multiplying by one.
+  We will need to use the integral of $\sin  x \cos  x$ from earlier in this problem, as well as the integral of $\sin  ^2 x$ from the previous problem.
 
-$$\begin{aligned}
+  \[\begin{aligned}
   \int 1 \sin  ^4 x dx &= x \sin ^4 x - 4 \int x \sin  x \cos  x dx \\
   &= x \sin  ^4 x - 4\left(  x\left(  \frac{1}{2} \sin  ^2 x \right)  -\int \frac{1}{2} \sin  ^2 x dx \right) \\
   &= x \sin  ^4 x - 4\left(  x\left(  \frac{1}{2} \sin  ^2 x \right)  -\frac{1}{2} \int \sin  ^2 x dx \right) \\
   &= x \sin ^4 x - 2x \sin  ^2 x + 4\frac{1}{2}\left(  x - \sin  x \cos  x \right) \\
   &= x \sin ^4 x - 2x \sin  ^2 x + 2 x - 2 \sin  x \cos  x
-  \end{aligned}$$
+  \end{aligned}\]
 
-Plugging back into the main problem:
+  Plugging back into the main problem:
 
-$$\begin{aligned}
+  \[\begin{aligned}
    \frac{3}{2}\int \sin^2x \cos^2 x  dx &= \frac{1}{2}(\sin  x \cos  x)\sin ^2 x - \frac{1}{2}\int \sin ^4 x  dx\\
    &= \frac{1}{2} (\sin  x \cos  x) \sin  ^2 x - \frac{1}{2} x \sin ^4 x + x \sin  ^2 x - x + \sin  x \cos x +C\\
   \int \sin  ^2 x \cos  ^2 x dx &= \frac{1}{3} \sin  ^3 x \cos  x - \frac{1}{3} x \sin ^4 x + \frac{2}{3} x \sin  ^2 x - \frac{2}{3} x + \frac{3}{2}\sin  x \cos  x +C
-  \end{aligned}$$
+  \end{aligned}\]
 
-I think I did something wrong.
+  I think I did something wrong.
+  }`{=latex}
 
 # $\int \sin^3 x dx$
 
