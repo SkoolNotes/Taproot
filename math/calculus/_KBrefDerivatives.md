@@ -4,7 +4,8 @@
                                       $e^x$                  $e^x$
   $x \ln x - x$                       $\ln x$                $\frac{1}{x}$
                                       $\ln (1+x)$            $\frac{1}{1+x}$
-                                      $\sin x$               $\cos x$
+  $-\cos x$                           $\sin x$               $\cos x$
+  $\sin x$                            $\cos x$               $-\sin x$
                                       $\sin^- x$             $\frac{1}{\sqrt{1-x^2}}$
                                       $\tan^- x$             $\frac{1}{1+x^2}$
                                       $\tan x$               $\sec ^2 x$
