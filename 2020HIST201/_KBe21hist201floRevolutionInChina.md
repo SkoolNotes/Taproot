@@ -229,3 +229,5 @@ title: Revolution in China Stearns
     system, prevented more radical movements
 
 ## militarization of japan
+
+### authoritarian military rule took over japan and had conquered Chinese Manchuria w/o civilian government backing by 1931
