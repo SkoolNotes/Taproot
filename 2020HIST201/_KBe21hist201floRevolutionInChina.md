@@ -256,3 +256,5 @@ title: Revolution in China Stearns
 ### distinctive industrial policies
 
 1.  mass patriotism, group loyalt, lifetime contracts
+
+### by 1937, japan was looking industrialized, self sustainable, and generally good
