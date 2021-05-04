@@ -227,3 +227,5 @@ title: Revolution in China Stearns
 
 4.  led to economic growth which was good, and restored faith in the US
     system, prevented more radical movements
+
+## militarization of japan
