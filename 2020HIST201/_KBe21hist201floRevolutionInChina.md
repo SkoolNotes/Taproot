@@ -233,3 +233,5 @@ title: Revolution in China Stearns
 ### authoritarian military rule took over japan and had conquered Chinese Manchuria w/o civilian government backing by 1931
 
 ### many parties and ideas, generally anti-western
+
+### in May 1932, army officers murdered the prime minister. they also put down another coup attempt in 1936, but generally prime ministers became increasingly militaristic
