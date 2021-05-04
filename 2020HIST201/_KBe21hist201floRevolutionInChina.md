@@ -2,30 +2,36 @@
 title: Revolution in China Stearns
 ---
 
-# fall of Qing
+# overview
 
-## Manchu 12-yo boy emperor Puyi abducted in 1912
+## fall of Qing
 
-## power vacuum competed for by \'regional warlords, loose alliance of students, politicians, secret societes, japanese, communist movement\'
+### Manchu 12-yo boy emperor Puyi abducted in 1912
 
-## internal divisions and foreign influences paved the way for the ult victory of Mao Zedong [[claim]{.smallcaps}]{.tag tag-name="claim"} {#internal-divisions-and-foreign-influences-paved-the-way-for-the-ult-victory-of-mao-zedong}
+### power vacuum competed for by \'regional warlords, loose alliance of students, politicians, secret societes, japanese, communist movement\'
 
-# warlord cliques
+### internal divisions and foreign influences paved the way for the ult victory of Mao Zedong [[claim]{.smallcaps}]{.tag tag-name="claim"} {#internal-divisions-and-foreign-influences-paved-the-way-for-the-ult-victory-of-mao-zedong}
 
-## dominated chinese politics for next 3 decades
+## warlord cliques
 
-## most powerful clique was in north china headed by Yuan Shikai
+### dominated chinese politics for next 3 decades
 
-## Shanghai and Canton made second power center, favored politicians like Sun Yat-sen
+### most powerful clique was in north china headed by Yuan Shikai
 
-# university students, teachers, and intellectuals
+### Shanghai and Canton made second power center, favored politicians like Sun Yat-sen
 
-## played critical roles in civilization but were defenseless in force
+## university students, teachers, and intellectuals
 
-# secret societies
+### played critical roles in civilization but were defenseless in force
 
-## envisioned restoration of monarchical rule under a Chinese dynasty
+## secret societies
 
-# western power intervention and japan
+### envisioned restoration of monarchical rule under a Chinese dynasty
 
-## wanted to capitalize on power vacuum
+## western power intervention and japan
+
+### wanted to capitalize on power vacuum
+
+### japan from mid-1890s to 1945 (end of WWI)
+
+# may fourth movement
