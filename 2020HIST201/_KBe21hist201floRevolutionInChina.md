@@ -250,3 +250,7 @@ title: Revolution in China Stearns
 
 2.  export boom and \"virtual elimination of unemployment by 1936\"
     after the low point in 1931
+
+3.  lots of rapid industrialization stats
+
+### distictive industrial policies
