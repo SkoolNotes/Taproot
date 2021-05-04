@@ -1,2 +1,1 @@
-        Log for attempt at Mon May  3 09:45:49 PM PDT 2021 (13005)
-        Mon May  3 09:45:49 PM PDT 2021 Converting 2020HIST201/KBe21hist201floRevolutionInChina.org...
+        Log for attempt at Mon May  3 09:46:29 PM PDT 2021 (13006)
