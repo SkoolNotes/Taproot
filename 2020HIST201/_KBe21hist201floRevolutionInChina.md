@@ -88,3 +88,5 @@ title: Revolution in China Stearns
 ### also believed in authoritarian state that intervened helpfully in many aspects of life
 
 ## summer of 1921
+
+### a handful of marxist leaders from different parts of China met secretly in Shanghai
