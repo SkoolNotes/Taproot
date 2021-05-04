@@ -82,3 +82,9 @@ title: Revolution in China Stearns
 1.  he saw the pheasants as the vanguard of urban change
 
 ### all chinese as proletarian, and bourgeois was the industrialized West (unification)
+
+## marxist study club (including Mao Zedong)
+
+### also believed in authoritarian state that intervened helpfully in many aspects of life
+
+## summer of 1921
