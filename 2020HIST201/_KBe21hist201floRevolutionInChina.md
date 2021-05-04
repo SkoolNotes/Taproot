@@ -35,3 +35,9 @@ title: Revolution in China Stearns
 ### japan from mid-1890s to 1945 (end of WWI)
 
 # may fourth movement
+
+## Sun Yat-sen headed Revolutionary Alliance---loose combo of anti-Qing political groups that started the 1911 revolt
+
+## claimed mandate of heaven but warlords had true power
+
+## set up a Parliament and elected cabinets but had minimal actual effect
