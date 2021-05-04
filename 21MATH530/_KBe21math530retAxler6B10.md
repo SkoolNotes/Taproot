@@ -12,5 +12,8 @@ title: "Axler 6.B \\#10"
 
 # Proof Sketch
 
-In general, during the Gram-Schmidt procedure, both $e_j$ or $-e_j$ at
-each step
+In general, during the Gram-Schmidt procedure, both $e_j$ or $-e_j$
+preserve orthonormality and prefix span equality. Thus, there are $m$
+independant binary choices and thus $2^m$ possibilities.
+
+But why does the vector space have to be real?
