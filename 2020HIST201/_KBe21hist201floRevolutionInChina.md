@@ -235,3 +235,9 @@ title: Revolution in China Stearns
 ### many parties and ideas, generally anti-western
 
 ### in May 1932, army officers murdered the prime minister. they also put down another coup attempt in 1936, but generally prime ministers became increasingly militaristic
+
+### in 1937, a small scuffle turned into a large scale battle when japanese generals decided to defeat China\'s armies to prevent future trouble
+
+### by 1938 Japan controlled a large-ish empire. military leaders and economic leaders liked this and pressed for more conquest in WWII
+
+### civilians were like brUh the entire time but the military was in control
