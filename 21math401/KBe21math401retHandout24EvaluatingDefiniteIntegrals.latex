@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12929)}}    % original
-%\rhead{\textrmlf{Compiled }\#12929\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12930)}}    % original
+%\rhead{\textrmlf{Compiled }\#12930\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -285,6 +285,8 @@ Let \(u = 4 + x^2\), \(du = 2xdx\)
   \int \sin  ^2 x \cos  ^2 x dx &= \frac{1}{4}\int \sin  ^2 2 x dx\\
   \text{Let } u &= 2x, du = 2 dx\\
   &= \frac{1}{8}\int \sin  ^2 u du\\
+  &= \frac{1}{8} \frac{1}{2}  (u-\sin  u \cos  u)\\
+  &= \frac{1}{16} 2x - \sin  2x \cos  2x\\
   \end{aligned}\]
 
 \xcancel{
