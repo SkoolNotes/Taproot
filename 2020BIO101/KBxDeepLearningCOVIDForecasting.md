@@ -1,4 +1,3 @@
-%%---
 title:   Bio Engaging with research project
 context: BIO201
 author:  Huxley
@@ -95,7 +94,6 @@ source:
 - they didn't make very substantive claims about governmental policies
 - instead, they mostly made a very useful tool for data viz, prediction, and comparison. In the actual experimentation with the types of models, as expected, LSTMs did better. 
 	- they were experimenting with ARIMA, but ultimately, LSTMs win again.
-%%
 
 
 ## Reflection Questions

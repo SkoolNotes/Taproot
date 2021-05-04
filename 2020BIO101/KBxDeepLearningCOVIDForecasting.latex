@@ -121,7 +121,7 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ \%--- }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12859)}}    % original
-%\rhead{\textrmlf{Compiled }\#12859\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13016)}}    % original
+%\rhead{\textrmlf{Compiled }\#13016\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -270,8 +270,8 @@ the most important at this point - they didn't make very substantive
 claims about governmental policies - instead, they mostly made a very
 useful tool for data viz, prediction, and comparison. In the actual
 experimentation with the types of models, as expected, LSTMs did better.
-- they were experimenting with ARIMA, but ultimately, LSTMs win again.
-\%\% \\
+- they were experimenting with ARIMA, but ultimately, LSTMs win
+again. \\
 \#\# Reflection Questions \\
 1. \textbf{What paper did you choose and why did you choose it?} 1.
 \textgreater{} A COVID-19 pandemic AI-based system with deep learning
