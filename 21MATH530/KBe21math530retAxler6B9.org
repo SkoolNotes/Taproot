@@ -5,3 +5,4 @@
 What happens if the Gram–Schmidt Procedure is applied to a list of vectors that is not linearly independent?
 #+end_quote
 * Answer
+  Suppose the list $v_1, \ldots, v_n$ is linearly dependent. Then, there exists some $v_j$ s.t. $v_1, \ldots, v_{j-1}$ is linearly independant
