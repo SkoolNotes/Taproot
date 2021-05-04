@@ -99,7 +99,7 @@ $$\begin{aligned}
 $$\xcancel{\text{
   First, the integral of $\sin  x \cos  x$:
 
-  \[\begin{aligned}
+  \begin{aligned}
   \int \sin  x \cos  x dx &= \sin  ^2 x -\int \sin  x \cos  x dx \\
   &= \frac{1}{2} \sin  ^2 x +C
   \end{aligned}$$
