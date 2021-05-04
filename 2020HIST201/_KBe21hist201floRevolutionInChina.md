@@ -184,3 +184,7 @@ title: Revolution in China Stearns
 ## social impacts
 
 ### created fears of loss of earnings or work
+
+### confused family and gender roles
+
+### economic hesitancy caused recessions through 1939
