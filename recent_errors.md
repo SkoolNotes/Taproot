@@ -1,1 +1,2 @@
-        Log for attempt at Tue May  4 09:38:45 AM PDT 2021 (13029)
+        Log for attempt at Tue May  4 09:39:22 AM PDT 2021 (13030)
+        Tue May  4 09:39:22 AM PDT 2021 Converting math/calculus/KBrefDerivatives.org...

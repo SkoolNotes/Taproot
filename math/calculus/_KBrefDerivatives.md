@@ -9,7 +9,7 @@
   $\frac{1}{2}(x - \sin  x \cos  x )$   $\sin^2 x$             
   $\frac{1}{2}(x + \sin  x \cos  x )$   $\cos^2 x$             
   $\frac{1}{3}\cos  ^3 x - \cos  x$     $\sin^3 x$             
-  $\frac{1}{2}(x + \sin  x \cos  x )$   $\cos^3 x$             
+  $\sin  x - \frac{1}{3} \sin  ^3 x$    $\cos^3 x$             
                                         $\sin^- x$             $\frac{1}{\sqrt{1-x^2}}$
                                         $\tan^- x$             $\frac{1}{1+x^2}$
                                         $\tan x$               $\sec ^2 x$
