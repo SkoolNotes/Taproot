@@ -80,3 +80,5 @@ title: Revolution in China Stearns
 ### Li Dazhao decided to interpret marxism for china\'s situation
 
 1.  he saw the pheasants as the vanguard of urban change
+
+### all chinese as proletarian, and bourgeois was the industrialized West (unification)
