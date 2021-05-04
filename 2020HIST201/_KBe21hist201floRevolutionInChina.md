@@ -5,3 +5,7 @@ title: Revolution in China Stearns
 # fall of Qing
 
 ## Manchu 12-yo boy emperor Puyi abducted in 1912
+
+## power vacuum competed for by \'regional warlords, loose alliance of students, politicians, secret societes, japanese, communist movement\'
+
+## internal divisions and foreign influences paved the way for the ult victory of Mao Zedong [[claim]{.smallcaps}]{.tag tag-name="claim"} {#internal-divisions-and-foreign-influences-paved-the-way-for-the-ult-victory-of-mao-zedong}
