@@ -16,4 +16,8 @@ while $v_1, \ldots, v_j$ is not. Then,
 $v_j \in \text{span}(v_1, \ldots, v_{j-1})$
 
 Because the Gram-Schmidt procedure preserves prefix spans,
-$$ v_j \in \text{span}(e_1, \ldots, e_n) $$
+$$ v_j \in \text{span}(e_1, \ldots, e_{j-1}) $$
+
+Thus, the denominator is equivalent to $$
+  kvj 􏰍hvj;e1ie1 􏰍􏰎􏰎􏰎􏰍hvj;ej􏰍1iej􏰍1k
+  $$
