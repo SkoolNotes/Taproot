@@ -93,7 +93,7 @@ $$\begin{aligned}
   \text{Let } u &= 2x, du = 2 dx\\
   &= \frac{1}{8}\int \sin  ^2 u du\\
   &= \frac{1}{8} \frac{1}{2}  (u-\sin  u \cos  u)\\
-  &= \frac{1}{16} 2x - \sin  2x \cos  2x\\
+  &= \frac{1}{16} (2x - \sin  2x \cos  2x)
   \end{aligned}$$
 
 `\xcancel{
