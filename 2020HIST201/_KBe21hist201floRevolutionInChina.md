@@ -15,3 +15,7 @@ title: Revolution in China Stearns
 ## dominated chinese politics for next 3 decades
 
 ## most powerful clique was in north china headed by Yuan Shikai
+
+## Shanghai and Canton made second power center, favored politicians like Sun Yat-sen
+
+# university students, teachers, and intellectuals
