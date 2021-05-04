@@ -218,3 +218,12 @@ title: Revolution in China Stearns
 ### herbert hoover did european-like stuff that went poorly
 
 ### franklin roosevelt and the new deal (1930s) offered more direct aid
+
+1.  public works projects increased employment
+
+2.  social security system to form a social baseline
+
+3.  economic planning also helped
+
+4.  led to economic growth which was good, and restored faith in the US
+    system, prevented more radical movements
