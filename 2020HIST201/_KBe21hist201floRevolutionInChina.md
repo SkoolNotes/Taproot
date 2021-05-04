@@ -90,3 +90,9 @@ title: Revolution in China Stearns
 ## summer of 1921
 
 ### a handful of marxist leaders from different parts of China met secretly in Shanghai
+
+### Communist party of China born
+
+### few supporters but provided new ideology over confucianism
+
+# Seizure of Power by the Guomindang (nationalist party, Sun Yat-sen)
