@@ -113,6 +113,10 @@ title: Revolution in China Stearns
 
 ### but he had to wait for the army to be trained
 
+## after Sun yat-sen dies in 1925, Chaing kai-shek captures and bribes warlords
+
+### becomes the head of a warlord hierarchy, essentially controlling china
+
 # mao and the peasant option
 
 ## mao background
