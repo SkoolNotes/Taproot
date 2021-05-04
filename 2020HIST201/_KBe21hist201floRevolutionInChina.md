@@ -52,4 +52,6 @@ title: Revolution in China Stearns
 
 ### japan took german concessions in China after WWI
 
-### gave Yuan the 21 commands in early 1915
+### gave Yuan the 21 demands in early 1915, which would reduce china to a \'dependant protectorate\'
+
+### Yuan was indecisive and instead rallied support for himself instead of responding
