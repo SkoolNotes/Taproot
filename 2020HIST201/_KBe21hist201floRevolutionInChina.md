@@ -196,3 +196,5 @@ title: Revolution in China Stearns
 ## western responses to the great depression
 
 ### government tariffs, spending cuts, and inflation fear worsened the problem
+
+### people turned to radicalism both left and right
