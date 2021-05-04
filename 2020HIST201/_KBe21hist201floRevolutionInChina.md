@@ -198,3 +198,5 @@ title: Revolution in China Stearns
 ### government tariffs, spending cuts, and inflation fear worsened the problem
 
 ### people turned to radicalism both left and right
+
+### generally, parliaments were either frozen in indecision or straight up overthrown
