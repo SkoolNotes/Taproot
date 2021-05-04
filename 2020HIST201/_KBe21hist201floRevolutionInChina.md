@@ -68,3 +68,7 @@ title: Revolution in China Stearns
 ### democratic thinkers toured china
 
 ### novel by Ba Jin depicts boy ignoring arranged marriage
+
+### however, elections and stuff didnt work because warlords were in control
+
+1.  so they decided more radical action was needed
