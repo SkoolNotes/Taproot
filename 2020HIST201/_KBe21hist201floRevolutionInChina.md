@@ -144,3 +144,7 @@ title: Revolution in China Stearns
 ## causation
 
 ### food overproduction drove down prices
+
+### high prices during the war led to overconfident loans
+
+### runaway spiral of loans from the US to european countries + postwar inflation?
