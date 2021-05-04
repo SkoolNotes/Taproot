@@ -1,10 +1,10 @@
-        Log for attempt at Mon May  3 08:41:16 PM PDT 2021 (12935)
-        Mon May  3 08:41:16 PM PDT 2021 Converting 21math401/KBe21math401retHandout24EvaluatingDefiniteIntegrals.org...
+        Log for attempt at Mon May  3 08:41:57 PM PDT 2021 (12936)
+        Mon May  3 08:41:57 PM PDT 2021 Converting 21math401/KBe21math401retHandout24EvaluatingDefiniteIntegrals.org...
 Error producing PDF.
 ! File ended while scanning use of \xcancel .
 <inserted text> 
                 \par 
-<*> /tmp/tex2pdf.-92cae34a2473b5b4/input.tex
+<*> /tmp/tex2pdf.-b1168cf8dd07cefc/input.tex
                                              
 Here is how much of TeX's memory you used:
  29408 strings out of 477299
@@ -15,6 +15,5 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  81i,19n,115p,426b,737s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /tmp/tex2pdf.-92cae34a2473b5b4/input.pdf (2 pages).
+Output written on /tmp/tex2pdf.-b1168cf8dd07cefc/input.pdf (2 pages).
 
-        Mon May  3 08:41:19 PM PDT 2021 Converting recent_errors.md...

@@ -96,10 +96,10 @@ $$\begin{aligned}
   &= \frac{1}{16} (2x - \sin  2x \cos  2x)
   \end{aligned}$$
 
-$$\xcancel{\text{
-  First, the integral of $\sin  x \cos  x$:
+$$\xcancel{
+  \text{First, the integral of $\sin  x \cos  x$:}
 
-  \begin{aligned}
+  \[\begin{aligned}
   \int \sin  x \cos  x dx &= \sin  ^2 x -\int \sin  x \cos  x dx \\
   &= \frac{1}{2} \sin  ^2 x +C
   \end{aligned}$$
@@ -136,7 +136,7 @@ $$\begin{aligned}
   \int \sin  ^2 x \cos  ^2 x dx &= \frac{1}{3} \sin  ^3 x \cos  x - \frac{1}{3} x \sin ^4 x + \frac{2}{3} x \sin  ^2 x - \frac{2}{3} x + \frac{3}{2}\sin  x \cos  x +C
   \end{aligned}$$
 
-I think I did something wrong. }}\\\]
+I think I did something wrong. }\\\]
 
 # $\int \sin^3 x dx$
 
