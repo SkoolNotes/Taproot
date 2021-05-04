@@ -172,3 +172,7 @@ title: Revolution in China Stearns
 
 4.  reinforcing cycle from 1929 to 1933, even France and Italy drawn
     into vortex by 1931
+
+## comparison
+
+### first great depression of the industrial age
