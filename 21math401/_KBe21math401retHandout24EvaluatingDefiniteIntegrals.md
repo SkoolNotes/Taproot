@@ -67,51 +67,51 @@ $$\begin{aligned}
 
 # (additional problems)
 
-# $\int \sin^2 x dx$
+## $\int \sin^2 x dx$
 
 $$\begin{aligned}
-  \int \sin  ^2 x dx &= - \sin  x \cos  x +\int \cos  ^2 x dx\\
-  &= - \sin  x \cos  x +\int 1 dx -\int  \sin  ^2 x dx\\
-  2\int \sin ^2 x dx &= - \sin  x \cos  x + x\\
-  \int \sin ^2 x dx  &= \frac{1}{2} (x-\sin  x \cos  x)
-  \end{aligned}$$
+   \int \sin  ^2 x dx &= - \sin  x \cos  x +\int \cos  ^2 x dx\\
+   &= - \sin  x \cos  x +\int 1 dx -\int  \sin  ^2 x dx\\
+   2\int \sin ^2 x dx &= - \sin  x \cos  x + x\\
+   \int \sin ^2 x dx  &= \frac{1}{2} (x-\sin  x \cos  x)
+   \end{aligned}$$
 
-# $\int \cos^2 x  dx$
-
-$$\begin{aligned}
-  \int \cos  ^2 x dx &= \cos  x \sin  x + \int \sin^2 x dx\\
-  &= \cos x \sin  x + \int 1 dx - \int \cos^2 x dx\\
-  2\int \cos  ^2 x dx &= \cos  x \sin  x + x\\
-  \int \cos  ^2 x dx &= \frac{1}{2}\cos  x \sin  x + \frac{x}{2}+C
-  \end{aligned}$$
-
-# $\int \sin^2 x\cos^2 x dx$
+## $\int \cos^2 x  dx$
 
 $$\begin{aligned}
-  \sin  2 x = 2 \sin  x \cos  x\\
-  \int \sin  ^2 x \cos  ^2 x dx &= \frac{1}{4}\int \sin  ^2 2 x dx\\
-  \text{Let } u &= 2x, du = 2 dx\\
-  &= \frac{1}{8}\int \sin  ^2 u du\\
-  &= \frac{1}{8} \frac{1}{2}  (u-\sin  u \cos  u)\\
-  &= \frac{1}{16} (2x - \sin  2x \cos  2x)+C
-  \end{aligned}$$
+   \int \cos  ^2 x dx &= \cos  x \sin  x + \int \sin^2 x dx\\
+   &= \cos x \sin  x + \int 1 dx - \int \cos^2 x dx\\
+   2\int \cos  ^2 x dx &= \cos  x \sin  x + x\\
+   \int \cos  ^2 x dx &= \frac{1}{2}\cos  x \sin  x + \frac{x}{2}+C
+   \end{aligned}$$
 
-# $\int \sin^3 x dx$
+## $\int \sin^2 x\cos^2 x dx$
 
 $$\begin{aligned}
-  \int \sin  ^3 x  dx &=\int \sin  x (1 - \cos  ^2 x) dx\\
-  &=\int \sin  x dx  -\int \cos ^2 x \sin  x dx\\
-  \text{Let }& u = \cos  x, du = - \sin  x dx\\
-  &=\int \sin  x dx  +\int u ^2 du\\
-  &= - \cos  x + \frac{1}{3} u ^3 +C\\
-  &= \frac{1}{3} \cos  ^3 x - \cos  x +C
-  \end{aligned}$$
+   \sin  2 x = 2 \sin  x \cos  x\\
+   \int \sin  ^2 x \cos  ^2 x dx &= \frac{1}{4}\int \sin  ^2 2 x dx\\
+   \text{Let } u &= 2x, du = 2 dx\\
+   &= \frac{1}{8}\int \sin  ^2 u du\\
+   &= \frac{1}{8} \frac{1}{2}  (u-\sin  u \cos  u)\\
+   &= \frac{1}{16} (2x - \sin  2x \cos  2x)+C
+   \end{aligned}$$
+
+## $\int \sin^3 x dx$
+
+$$\begin{aligned}
+   \int \sin  ^3 x  dx &=\int \sin  x (1 - \cos  ^2 x) dx\\
+   &=\int \sin  x dx  -\int \cos ^2 x \sin  x dx\\
+   \text{Let }& u = \cos  x, du = - \sin  x dx\\
+   &=\int \sin  x dx  +\int u ^2 du\\
+   &= - \cos  x + \frac{1}{3} u ^3 +C\\
+   &= \frac{1}{3} \cos  ^3 x - \cos  x +C
+   \end{aligned}$$
 
 $$\xcancel{\begin{aligned}
-  \int \sin^3 x dx &=\int 1 \sin  ^3 x dx \\
-  &= x \sin  ^3 x -\int 3 x \sin  x \cos  x dx\\
-  &= x \sin  ^3 x - 3 x \sin  x \cos  x + 3\int \frac{1}{2} \sin ^2 x dx\\
-  &= x \sin  ^3 x - 3 x \sin  x \cos  x + \frac{3}{2} \int \sin ^2 x dx\\
-  &= x \sin  ^3 x - 3 x \sin  x \cos  x + \frac{3}{2} \frac{1}{2} (x - \sin  x \cos  x)+C\\
-  &= x \sin  ^3 x - 3 x \sin  x \cos  x + \frac{3}{4} (x - \sin  x \cos  x) +C\\
-  \end{aligned}}$$
+   \int \sin^3 x dx &=\int 1 \sin  ^3 x dx \\
+   &= x \sin  ^3 x -\int 3 x \sin  x \cos  x dx\\
+   &= x \sin  ^3 x - 3 x \sin  x \cos  x + 3\int \frac{1}{2} \sin ^2 x dx\\
+   &= x \sin  ^3 x - 3 x \sin  x \cos  x + \frac{3}{2} \int \sin ^2 x dx\\
+   &= x \sin  ^3 x - 3 x \sin  x \cos  x + \frac{3}{2} \frac{1}{2} (x - \sin  x \cos  x)+C\\
+   &= x \sin  ^3 x - 3 x \sin  x \cos  x + \frac{3}{4} (x - \sin  x \cos  x) +C\\
+   \end{aligned}}$$
