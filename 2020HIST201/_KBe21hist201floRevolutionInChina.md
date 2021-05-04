@@ -62,3 +62,9 @@ title: Revolution in China Stearns
 ### after the war (1919), japan won german concessions
 
 1.  this made the students upset -\> protests and mass boycotts
+
+## democracy and individualism popular in urban youth
+
+### democratic thinkers toured china
+
+### novel by Ba Jin depicts boy ignoring arranged marriage
