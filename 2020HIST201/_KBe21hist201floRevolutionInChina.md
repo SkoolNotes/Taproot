@@ -19,3 +19,5 @@ title: Revolution in China Stearns
 ## Shanghai and Canton made second power center, favored politicians like Sun Yat-sen
 
 # university students, teachers, and intellectuals
+
+## played critical roles in civilization but were defenseless in force
