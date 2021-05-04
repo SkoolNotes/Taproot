@@ -134,3 +134,7 @@ title: Revolution in China Stearns
 ### created a new communist center
 
 ## long march solidified Mao\'s leadership of the Chinese communist party, but japanese eroded Chaing\'s power structure
+
+# global great depression
+
+## a decade after WWI, caused many international crises
