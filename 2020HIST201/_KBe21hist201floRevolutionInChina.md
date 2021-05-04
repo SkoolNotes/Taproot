@@ -124,3 +124,5 @@ title: Revolution in China Stearns
 ### father was a prosperous peasant, but mao rebelled early
 
 ### believed revolution was violent and peasants needed to use force to overthrow landlords
+
+## after Chaing seized control, he massacared communists in Shanghai in 1927
