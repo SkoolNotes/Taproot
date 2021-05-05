@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13107)}}    % original
-%\rhead{\textrmlf{Compiled }\#13107\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13109)}}    % original
+%\rhead{\textrmlf{Compiled }\#13109\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -184,15 +184,16 @@
 
 % maximum image size https://tex.stackexchange.com/a/145294/238240
 \let\oldincludegraphics\includegraphics
-\renewcommand{\includegraphics}[1][]{\oldincludegraphics[max width=\linewidth,max height=\textheight,keepaspectratio]{#1}}
+\renewcommand{\includegraphics}[1][]{
+\oldincludegraphics[max width=\linewidth,max height=\textheight,keepaspectratio]{#1}}
 
 \begin{document}
 
 % DID YOU SET SPELL????
 
 \begin{verbatim}
-    Log for attempt at Tue May  4 08:56:41 PM PDT 2021 (13106)
-    Tue May  4 08:56:41 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6B3.org...
+    Log for attempt at Tue May  4 08:57:17 PM PDT 2021 (13108)
+    Tue May  4 08:57:17 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6B3.org...
 \end{verbatim}
 
 Error producing PDF. ! LaTeX Error: File `' not found.
@@ -200,10 +201,6 @@ Error producing PDF. ! LaTeX Error: File `' not found.
 See the LaTeX manual or LaTeX Companion for explanation. Type H for
 immediate help. \ldots{}
 
-l.197 \textbackslash includegraphics\{
-
-\begin{verbatim}
-    Tue May  4 08:56:43 PM PDT 2021 Converting recent_errors.md...
-\end{verbatim}
+l.196 \textbackslash includegraphics\{
 
 \end{document}
