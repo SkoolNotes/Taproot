@@ -1,5 +1,5 @@
-        Log for attempt at Tue May  4 08:49:07 PM PDT 2021 (13091)
-        Tue May  4 08:49:07 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6B3.org...
+        Log for attempt at Tue May  4 08:49:48 PM PDT 2021 (13093)
+        Tue May  4 08:49:48 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6B3.org...
 Error producing PDF.
 ! Package xkeyval Error: `maxwidth' undefined in families `Gin'.
 
@@ -15,7 +15,7 @@ unexpected \includegraphics
 expecting \end{document}
 \includegraphics{KBe21math530srcAxler6B3Supplement.png}
 ^
-        Tue May  4 08:49:09 PM PDT 2021 Converting recent_errors.md...
+        Tue May  4 08:49:50 PM PDT 2021 Converting recent_errors.md...
 Error producing PDF.
 ! Package xkeyval Error: `maxwidth' undefined in families `Gin'.
 
