@@ -17,3 +17,8 @@ preserve orthonormality and prefix span equality. Thus, there are $m$
 independant binary choices and thus $2^m$ possibilities.
 
 ## But why does the vector space have to be real?
+
+Because in the real numbers, there are only two scalars with magnitude 1
+to choose from on each step. But in the complex numbers, the entire unit
+circle is fair game, so there are an infinite number of orthonormal
+bases.
