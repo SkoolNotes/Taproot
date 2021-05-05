@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13101)}}    % original
-%\rhead{\textrmlf{Compiled }\#13101\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13104)}}    % original
+%\rhead{\textrmlf{Compiled }\#13104\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,19 +185,15 @@
 % maximum image size https://tex.stackexchange.com/a/145294/238240
 \let\oldincludegraphics\includegraphics
 \renewcommand{\includegraphics}[1][]{
-  \oldincludegraphics[maxwidth=\linewidth,maxheight=\textheight,keepaspectratio]{#2}}
+  \oldincludegraphics[max width=\linewidth,max height=\textheight,keepaspectratio]{#1}}
 
 \begin{document}
 
 % DID YOU SET SPELL????
 
 \begin{verbatim}
-    Log for attempt at Tue May  4 08:55:45 PM PDT 2021 (13101)
-    Tue May  4 08:55:45 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6B3.org...
+    Log for attempt at Tue May  4 08:56:26 PM PDT 2021 (13104)
+    Tue May  4 08:56:26 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6B3.org...
 \end{verbatim}
-
-Error producing PDF. ! Illegal parameter number in definition of
-\textbackslash includegraphics. 2 l.188
-\ldots xheight=\textheight,keepaspectratio{]}\{\#2\}\}
 
 \end{document}
