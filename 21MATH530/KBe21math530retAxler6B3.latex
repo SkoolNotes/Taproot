@@ -17,7 +17,6 @@
 \usepackage{setspace}
 
 \usepackage{graphicx}
-\usepackage[export]{adjustbox}% http://ctan.org/pkg/adjustbox, https://tex.stackexchange.com/a/145294/238240
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
 
@@ -135,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13117)}}    % original
-%\rhead{\textrmlf{Compiled }\#13117\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13119)}}    % original
+%\rhead{\textrmlf{Compiled }\#13119\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -182,21 +181,10 @@
 \DeclareMathOperator{\onull}{\text{null}}
 \DeclareMathOperator{\odim}{\text{dim}}
 
-% maximum image size https://tex.stackexchange.com/a/145294/238240
-\let\oldincludegraphics\includegraphics
-\renewcommand{\includegraphics}[1][]{
-%\oldincludegraphics[max width=\linewidth,max height=\textheight,keepaspectratio]{#1}}
-    \oldincludegraphics[max width=\linewidth]{#1}}
-
 \begin{document}
 
 % DID YOU SET SPELL????
 
-\hypertarget{exercise-3}{%
-\section{Exercise 3}\label{exercise-3}}
-
 \includegraphics{KBe21math530srcAxler6B3Supplement.png}
-
-weird
 
 \end{document}
