@@ -49,6 +49,7 @@ source: #index
 - [[KBhBIO101Day1]]
 - [[KBhBIO101MutationsAllealsInheritance]]
 - [[KBxDeepLearningCOVIDForecasting]]
+- [[KBxRaceAndHumanBio]]
 
 ## Quiz Review Document
 * 10092020 [[KBhBIO101BioMoleculesQuizReview]]
