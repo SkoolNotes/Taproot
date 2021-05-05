@@ -22,7 +22,7 @@ I chose the final Ted Talk, [Skin Color is an Illusion](https://www.youtube.com/
 I didn't know Darwin didn't pick up on the connection between geography and skin color. I always assumed he had. 
 
 4.  **How should science and/or medicine address their role in perpetuating ideas about race and racism? (you can focus on the specific issue you explored or think more broadly here). If your resource didn't feel focused enough to answer this question, fell free to instead tell me more here about what you learned and how it connects to the genetics stuff we've been learning in class.**
-I don't view the entirety of `science` or `medicine` as entities. Science cannot act. I would argue instead that `science` is a way of viewing the world, and perhaps the knowledge collected from this lens. People can get it wrong, but the concept of `science` or `medicine` is not the problem. 
+I don't view the entirety of `science` or `medicine` as entities. Science cannot act. I would argue instead that `science` is a way of viewing the world, and perhaps the knowledge collected from this lens. People can get it wrong, but the concept of `science` or `medicine` is not the problem. Instead, `science` is being wielded poorly. 
 
 
 
