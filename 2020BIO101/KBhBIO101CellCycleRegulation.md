@@ -31,3 +31,4 @@ Here are some common checkpoints:
 * **Spindle Checkpoint** — checking for the attachment of all kineticores to the spindles such that all the chromasomes could be correctly lined up and seperated later
 
 Growth Factors that the cells measure: the 1) Size of the cell 2) the nutritional state of the cell.
+

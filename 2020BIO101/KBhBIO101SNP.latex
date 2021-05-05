@@ -121,7 +121,7 @@
 
 
 \newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Cell Cycle Regulation }
+\newcommand{\thelesson}{ Single Nucleotide Polymorphism }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -185,64 +185,117 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBhBIO101CellCycle}{\tiny\textulf{[[}\textbf{KBhBIO101CellCycle}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{cell-cycle-regulation}{%
-\section{Cell Cycle Regulation}\label{cell-cycle-regulation}}
+\hypertarget{snp}{%
+\section{SNP}\label{snp}}
 
-The Problem: \textbf{Cells need to know whence to divide itself.}
+\textbf{Single Nucleotipe Polymorphism}: pairs of single-base pair
+variations of genes that are not uncommon (\textgreater1\%), and hence
+not quite considered a mutation.
 
-\hypertarget{cell-cycle-regulators}{%
-\subsection{Cell Cycle Regulators}\label{cell-cycle-regulators}}
+SNPs could be in any part of the genome: sometimes in a gene, but more
+often in a non-coding region.
 
-\hypertarget{drivers}{%
-\subsubsection{Drivers}\label{drivers}}
+\begin{figure}
+\centering
+\includegraphics{./Pasted image 20210505134813.png}
+\caption{Pasted image 20210505134813.png}
+\end{figure}
 
-=\textgreater{} Drivers tell cells when to divide. The processes that
-move a cell forward through its life are called ``drivers''.
+These could do absolutely nothing, but they could also create large
+trait differences (sickle-cell is a SNP).
 
-Drivers consists of two parts: a switch + a cyclin. A ``switch'' ---
-informed by environmental factors and checkpoints (see below) --- turns
-on a ``cyclin'' protein this cyclin protein actually drive cell forward.
+\emph{The DNA by mail kits are actually just looking for SNPs!}
 
-\hypertarget{checkpoints-regulate-drivers-actions}{%
-\subsubsection{Checkpoints regulate drivers'
-actions}\label{checkpoints-regulate-drivers-actions}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-Should the cells not meet the requirements of a checkpoint, its driver
-would be stopped; and/or it will be called to self-destruct.
+\hypertarget{polymerase-chain-reaction-pcr}{%
+\subsection{Polymerase Chain Reaction
+(PCR)}\label{polymerase-chain-reaction-pcr}}
 
-There are two main types of regulators:
+\emph{A reaction by which the DNA replication process is attempted to be
+replicated out of the cell in preparation to sequence one's DNA}
 
-\textbf{Positive Regulators} push the cell cycle forward, CDK, upon lots
-of cycling binding to it and the meeting of checkpoint.
+\textbf{PCR provides a way of creating \emph{lots} of copies of a
+\emph{small} strand of DNA}
 
-\textbf{Negative Regulators} hold the cell cycle back due to a response
-to a checkpoint or an environmental factor
-
-Here are some common checkpoints:
+\hypertarget{reaction-need}{%
+\subsubsection{Reaction Need}\label{reaction-need}}
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{G1/S Checkpoint} (After S) --- external factors and growth
-  factors (nutrients, raw material, DNA damage) , along with
-  measurements of the volume, shape of the cell and the duplicated DNA,
-  ensure that the pre-G2 cell is intact and healthy before moving onto
-  G2
+  The DNA Portion (duh)
 \item
-  \textbf{Inter s-checkpoint} (During S) --- during S, check for DNA
-  damage.
+  A buffer to host the liquid
 \item
-  \textbf{G2/M Checkpoint} (After G2) --- before mitosis, check that the
-  cell has correctly duplicated parts and tools needed for replication
+  Primers - Bit of RNA to help DNA polymerase get going
 \item
-  \textbf{Spindle Checkpoint} --- checking for the attachment of all
-  kineticores to the spindles such that all the chromasomes could be
-  correctly lined up and seperated later
+  DNA Polymerase - The Enzyme to Copy the DNA =\textgreater{} Typically,
+  the TAQ Polymerease is used because it is from a bacterial that's
+  quite resistant to heat
+\item
+  DNA Nucleotides - to build the replicated DNA
 \end{itemize}
 
-Growth Factors that the cells measure: the 1) Size of the cell 2) the
-nutritional state of the cell.
+\hypertarget{steps}{%
+\subsubsection{Steps}\label{steps}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Denaturation
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Cook the DNA (``denature it''/heat it) to seperate the two strands
+    of the DNA
+  \end{enumerate}
+\item
+  Annealing
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Cool the Cooked DNA, and dump in the primers
+  \item
+    The specific temperature in this step is important because it
+    controlls where the primer binds, and hence which part of the DNA
+    you want to amplify
+  \end{enumerate}
+\item
+  DNA Synthesis =\textgreater{} make more copies of the DNA
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    This needs a slightly higher temperature than annealing, but which
+    one depends on what polymerase you used
+  \end{enumerate}
+\item
+  Go to step 1
+\end{enumerate}
+
+Note: the DNA polymerase may run over, so we just keep repeating this
+and it will slowly become more successful as the DNA polymerease repeats
+its work repeatedly.
+
+BTW: if you read carefully, you will realize that you made TWO DNA
+double-strands out of a single double strand. So exponential growth
+baybee and then you could get lots of copies of that region.
+
+\hypertarget{but-why}{%
+\subsubsection{But, why?}\label{but-why}}
+
+In order to have enough copies for gel electroprorisis (like, the
+rRT-PCR COVID test) or, for things like crime forensics, you need many
+copies of the same DNA for a clearly detectable result for analysis that
+may have a high threshold.
 
 \end{document}
