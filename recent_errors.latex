@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13087)}}    % original
-%\rhead{\textrmlf{Compiled }\#13087\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13089)}}    % original
+%\rhead{\textrmlf{Compiled }\#13089\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -192,21 +192,34 @@
 % DID YOU SET SPELL????
 
 \begin{verbatim}
-    Log for attempt at Tue May  4 08:40:50 PM PDT 2021 (13086)
-    Tue May  4 08:40:50 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6B3.org...
+    Log for attempt at Tue May  4 08:41:32 PM PDT 2021 (13088)
+    Tue May  4 08:41:32 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6B3.org...
 \end{verbatim}
 
-Error producing PDF. ! Package xkeyval Error:
-\texttt{max\ width\textquotesingle{}\ undefined\ in\ families}Gin'.
-
-See the xkeyval package documentation for explanation. Type H for
-immediate help. \ldots{}
-
-l.198 \ldots6d45e4f8f784fe1c072583fef2566acdf8ef.png\}
-
-Error at ``source'' (line 198, column 1): unexpected
+Error at ``source'' (line 199, column 1): unexpected
 \textbackslash includegraphics expecting \textbackslash end\{document\}
 \includegraphics{KBe21math530srcAxler6B3Supplement.png} \^{} Tue May 4
-08:40:53 PM PDT 2021 Converting recent\_errors.md\ldots{}
+08:41:34 PM PDT 2021 Converting recent\_errors.md\ldots{} Error
+producing PDF. ! Unable to load picture or PDF file
+`KBe21math530srcAxler6B3Supplement.png'. \} l.209
+\ldots cs\{KBe21math530srcAxler6B3Supplement.png\}
+
+Error at ``source'' (line 209, column 1): unexpected
+\textbackslash includegraphics expecting \textbackslash end\{document\}
+\includegraphics{KBe21math530srcAxler6B3Supplement.png} \^{}\{\} Tue May
+4 \^{}
+
+Error at ``source'' (line 197, column 1): unexpected
+\textbackslash includegraphics expecting \textbackslash end\{document\}
+\includegraphics{KBe21math530srcAxler6B3Supplement.png} \^{} Tue May 4
+08:41:46 PM PDT 2021 Converting recent\_errors.md\ldots{} Error
+producing PDF. ! Unable to load picture or PDF file
+`KBe21math530srcAxler6B3Supplement.png'. \} l.201
+\ldots cs\{KBe21math530srcAxler6B3Supplement.png\}
+
+Error at ``source'' (line 201, column 1): unexpected
+\textbackslash includegraphics expecting \textbackslash end\{document\}
+\includegraphics{KBe21math530srcAxler6B3Supplement.png} \^{}\{\} Tue May
+4 \^{}
 
 \end{document}

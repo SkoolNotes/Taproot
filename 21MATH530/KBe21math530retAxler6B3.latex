@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13087)}}    % original
-%\rhead{\textrmlf{Compiled }\#13087\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13088)}}    % original
+%\rhead{\textrmlf{Compiled }\#13088\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -190,8 +190,6 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\#\#+classoption: twocolumn
 
 \hypertarget{exercise-3}{%
 \section{Exercise 3}\label{exercise-3}}
