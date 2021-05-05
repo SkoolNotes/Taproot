@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13062)}}    % original
-%\rhead{\textrmlf{Compiled }\#13062\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13063)}}    % original
+%\rhead{\textrmlf{Compiled }\#13063\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -229,7 +229,9 @@ connection between science/medicine and ideas about race:}
   \texttt{science} is a way of viewing the world, and perhaps the
   knowledge collected from this lens. People can get it wrong, but the
   concept of \texttt{science} or \texttt{medicine} is not the problem.
-  Instead, \texttt{science} is being wielded poorly.
+  Instead, \texttt{science} is being wielded poorly. Frankly,
+  fundamentally, the problem lies in larger issues and biases. Supposed
+  \texttt{science} has and will continue to be twisted to su
 \end{enumerate}
 
 \end{document}
