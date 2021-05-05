@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13088)}}    % original
-%\rhead{\textrmlf{Compiled }\#13088\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13091)}}    % original
+%\rhead{\textrmlf{Compiled }\#13091\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,7 +185,7 @@
 % maximum image size https://tex.stackexchange.com/a/145294/238240
 \let\oldincludegraphics\includegraphics
 \renewcommand{\includegraphics}[2][]{%
-  \oldincludegraphics[#1,max width=\linewidth]{#2}}
+  \oldincludegraphics[#1,maxwidth=\linewidth,maxheight=\textheight,keepaspectratio]{#2}}
 
 \begin{document}
 
