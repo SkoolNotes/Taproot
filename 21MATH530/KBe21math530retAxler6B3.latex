@@ -17,6 +17,7 @@
 \usepackage{setspace}
 
 \usepackage{graphicx}
+\usepackage[export]{adjustbox}% http://ctan.org/pkg/adjustbox, https://tex.stackexchange.com/a/145294/238240
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
 
@@ -134,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13084)}}    % original
-%\rhead{\textrmlf{Compiled }\#13084\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13087)}}    % original
+%\rhead{\textrmlf{Compiled }\#13087\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -181,11 +182,10 @@
 \DeclareMathOperator{\onull}{\text{null}}
 \DeclareMathOperator{\odim}{\text{dim}}
 
-% maximum image size
+% maximum image size https://tex.stackexchange.com/a/145294/238240
 \let\oldincludegraphics\includegraphics
 \renewcommand{\includegraphics}[2][]{%
   \oldincludegraphics[#1,max width=\linewidth]{#2}}
-\begin{document}
 
 \begin{document}
 

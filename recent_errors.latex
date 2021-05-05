@@ -17,6 +17,7 @@
 \usepackage{setspace}
 
 \usepackage{graphicx}
+\usepackage[export]{adjustbox}% http://ctan.org/pkg/adjustbox, https://tex.stackexchange.com/a/145294/238240
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
 
@@ -134,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13084)}}    % original
-%\rhead{\textrmlf{Compiled }\#13084\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13087)}}    % original
+%\rhead{\textrmlf{Compiled }\#13087\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -181,46 +182,31 @@
 \DeclareMathOperator{\onull}{\text{null}}
 \DeclareMathOperator{\odim}{\text{dim}}
 
-% maximum image size
+% maximum image size https://tex.stackexchange.com/a/145294/238240
 \let\oldincludegraphics\includegraphics
 \renewcommand{\includegraphics}[2][]{%
   \oldincludegraphics[#1,max width=\linewidth]{#2}}
-\begin{document}
 
 \begin{document}
 
 % DID YOU SET SPELL????
 
 \begin{verbatim}
-    Log for attempt at Tue May  4 08:40:27 PM PDT 2021 (13083)
-    Tue May  4 08:40:27 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6B3.org...
+    Log for attempt at Tue May  4 08:40:50 PM PDT 2021 (13086)
+    Tue May  4 08:40:50 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6B3.org...
 \end{verbatim}
 
-Error producing PDF. ! LaTeX Error: Can be used only in preamble.
+Error producing PDF. ! Package xkeyval Error:
+\texttt{max\ width\textquotesingle{}\ undefined\ in\ families}Gin'.
 
-See the LaTeX manual or LaTeX Companion for explanation. Type H for
+See the xkeyval package documentation for explanation. Type H for
 immediate help. \ldots{}
 
-l.190 \textbackslash begin\{document\}
+l.198 \ldots6d45e4f8f784fe1c072583fef2566acdf8ef.png\}
 
-Error at ``source'' (line 199, column 1): unexpected
+Error at ``source'' (line 198, column 1): unexpected
 \textbackslash includegraphics expecting \textbackslash end\{document\}
 \includegraphics{KBe21math530srcAxler6B3Supplement.png} \^{} Tue May 4
-08:40:30 PM PDT 2021 Converting recent\_errors.md\ldots{} Error
-producing PDF. ! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation. Type H for
-immediate help. \ldots{}
-
-l.190
-
-\begin{document}
-
-
-Error at "source" (line 198, column 16):
-unexpected end of input
-expecting \end{document}
-\end{document}
-               ^
+08:40:53 PM PDT 2021 Converting recent\_errors.md\ldots{}
 
 \end{document}
