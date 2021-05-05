@@ -135,8 +135,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13093)}}    % original
-%\rhead{\textrmlf{Compiled }\#13093\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13096)}}    % original
+%\rhead{\textrmlf{Compiled }\#13096\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -195,5 +195,7 @@
 \section{Exercise 3}\label{exercise-3}}
 
 \includegraphics{KBe21math530srcAxler6B3Supplement.png}
+
+werid
 
 \end{document}
