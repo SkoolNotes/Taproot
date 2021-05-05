@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13072)}}    % original
-%\rhead{\textrmlf{Compiled }\#13072\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13074)}}    % original
+%\rhead{\textrmlf{Compiled }\#13074\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -187,5 +187,7 @@
 
 \hypertarget{exercise-3}{%
 \section{Exercise 3}\label{exercise-3}}
+
+\includegraphics{KBe21math530srcAxler6B3Supplement.png}
 
 \end{document}
