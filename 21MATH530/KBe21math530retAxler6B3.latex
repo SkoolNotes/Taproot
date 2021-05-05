@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13067)}}    % original
-%\rhead{\textrmlf{Compiled }\#13067\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13068)}}    % original
+%\rhead{\textrmlf{Compiled }\#13068\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,6 +185,6 @@
 
 % DID YOU SET SPELL????
 
-
+Hello there
 
 \end{document}
