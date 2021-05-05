@@ -1,12 +1,25 @@
-        Log for attempt at Tue May  4 08:58:31 PM PDT 2021 (13112)
-        Tue May  4 08:58:31 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6B3.org...
+        Log for attempt at Tue May  4 09:03:24 PM PDT 2021 (13114)
+        Tue May  4 09:03:24 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler6B3.org...
 Error producing PDF.
-! LaTeX Error: File `' not found.
+! Paragraph ended before \Gin@iii was complete.
+<to be read again> 
+                   \par 
+l.199 
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.198 \includegraphics{
 
-        Tue May  4 08:58:34 PM PDT 2021 Converting recent_errors.md...
+Error at "source" (line 198, column 1):
+unexpected \includegraphics
+expecting \end{document}
+\includegraphics{KBe21math530srcAxler6B3Supplement.png}
+^
+        Tue May  4 09:03:26 PM PDT 2021 Converting recent_errors.md...
+Error producing PDF.
+! Undefined control sequence.
+l.200 ...ducing PDF. ! Paragraph ended before \Gin
+
+
+Error at "source" (line 208, column 1):
+unexpected \includegraphics
+expecting \end{document}
+\includegraphics{KBe21math530srcAxler6B3Supplement.png} \^{}
+^
