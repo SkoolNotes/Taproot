@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13127)}}    % original
-%\rhead{\textrmlf{Compiled }\#13127\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13128)}}    % original
+%\rhead{\textrmlf{Compiled }\#13128\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -191,6 +191,9 @@ first page.
 The basis: \includegraphics{KBe21math530retAxler6B3Basis.png}
 
 The vector: \includegraphics{KBe21math530retAxler6B3Vector.png}
+
+Change color in Grapher: Select an entry in the sidebar, then use Window
+\textgreater{} Show Inspector
 
 The working out: \includegraphics{KBe21math530srcAxler6B3Supplement.png}
 
