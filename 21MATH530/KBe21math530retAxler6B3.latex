@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13126)}}    % original
-%\rhead{\textrmlf{Compiled }\#13126\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13127)}}    % original
+%\rhead{\textrmlf{Compiled }\#13127\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -188,10 +188,10 @@
 uugh I spent an hour trying to get LaTeX to position the image on the
 first page.
 
-The Basis: \includegraphics{KBe21math530retAxler6B3Basis.png}
+The basis: \includegraphics{KBe21math530retAxler6B3Basis.png}
 
 The vector: \includegraphics{KBe21math530retAxler6B3Vector.png}
 
-\includegraphics{KBe21math530srcAxler6B3Supplement.png}
+The working out: \includegraphics{KBe21math530srcAxler6B3Supplement.png}
 
 \end{document}
