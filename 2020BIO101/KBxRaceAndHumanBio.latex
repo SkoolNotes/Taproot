@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13065)}}    % original
-%\rhead{\textrmlf{Compiled }\#13065\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13066)}}    % original
+%\rhead{\textrmlf{Compiled }\#13066\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -206,6 +206,7 @@ connection between science/medicine and ideas about race:}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
+\tightlist
 \item
   \textbf{What resource did you choose and what important ideas did you
   explore that you would hope could be known more widely?} I chose the
@@ -213,10 +214,26 @@ connection between science/medicine and ideas about race:}
   \href{https://www.youtube.com/watch?v=QOSPNVunyFQ}{Skin Color is an
   Illusion}. It talked about the important ideas surrounding different
   skin colors and their health implications in relation to vitamin D.
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
 \item
   \textbf{What was most surprising or interesting to you in particular
   and why?} I didn't know Darwin didn't pick up on the connection
   between geography and skin color. I always assumed he had.
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\tightlist
 \item
   \textbf{How should science and/or medicine address their role in
   perpetuating ideas about race and racism? (you can focus on the
