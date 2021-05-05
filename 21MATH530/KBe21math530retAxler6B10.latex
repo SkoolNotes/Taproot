@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13045)}}    % original
-%\rhead{\textrmlf{Compiled }\#13045\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13129)}}    % original
+%\rhead{\textrmlf{Compiled }\#13129\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -202,6 +202,8 @@ In general, during the Gram-Schmidt procedure, both \(e_j\) or \(-e_j\)
 preserve orthonormality and prefix span equality. Thus, there are \(m\)
 independant binary choices and thus \(2^m\) possibilities.
 
-But why does the vector space have to be real?
+\hypertarget{but-why-does-the-vector-space-have-to-be-real}{%
+\subsection{But why does the vector space have to be
+real?}\label{but-why-does-the-vector-space-have-to-be-real}}
 
 \end{document}
