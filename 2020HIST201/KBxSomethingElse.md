@@ -83,7 +83,23 @@ still ahve qestions? contact us
 
 #### Customers
 
+first name
+last name 
+adress 1
+adress 2
+city 
+
+
 #### Dealers
+
+
+
+
+
+
+
+
+
 
 
 

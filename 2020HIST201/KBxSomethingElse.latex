@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13132)}}    % original
-%\rhead{\textrmlf{Compiled }\#13132\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13133)}}    % original
+%\rhead{\textrmlf{Compiled }\#13133\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -268,6 +268,8 @@ still ahve qestions? contact us
 
 \hypertarget{customers}{%
 \paragraph{Customers}\label{customers}}
+
+first name last name adress 1 adress 2 city
 
 \hypertarget{dealers}{%
 \paragraph{Dealers}\label{dealers}}
