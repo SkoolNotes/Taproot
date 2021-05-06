@@ -14,5 +14,7 @@ Right handed Riemann Sum: $$\begin{aligned}
 # estimate area again
 
 $$\begin{aligned}
-  200 + 2700 + 1100 + 4000 + 200 = 8200
+  4(200 + 2700 + 1100 + 4000 + 200) = 32800
   \end{aligned}$$
+
+\*

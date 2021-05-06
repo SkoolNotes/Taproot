@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13141)}}    % original
-%\rhead{\textrmlf{Compiled }\#13141\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13142)}}    % original
+%\rhead{\textrmlf{Compiled }\#13142\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -198,7 +198,9 @@ Right handed Riemann Sum: \[\begin{aligned}
 \section{estimate area again}\label{estimate-area-again}}
 
 \[\begin{aligned}
-  200 + 2700 + 1100 + 4000 + 200 = 8200
+  4(200 + 2700 + 1100 + 4000 + 200) = 32800
   \end{aligned}\]
+
+*
 
 \end{document}
