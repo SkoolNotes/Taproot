@@ -56,6 +56,7 @@ horizontally instead of vertically) $$\begin{aligned}
   \frac{49\pi }{2} -\int_{-7}^{7}  a dx = \frac{49\pi }{3}\\
   \frac{49\pi }{2} -\left( 7a - -7a \right)  = \frac{49\pi }{3}\\
   \frac{49\pi }{6} = 14a\\
+  a = \frac{49\pi }{84}
   \end{aligned}$$
 
 # [TODO]{.todo .TODO} tractrix {#tractrix}
