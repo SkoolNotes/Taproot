@@ -52,7 +52,8 @@ $$\begin{aligned}
 Or, you could use David\'s method, which is just better (cut
 horizontally instead of vertically) $$\begin{aligned}
   \int_{-7}^{7} \sqrt{49-x^2} - a dx = \frac{49\pi }{3}\\
-  \int_{-7}^{7} \sqrt{49-x^2} dx -\int_{-7}^{7}  a dx = \frac{49\pi }{3}
+  \int_{-7}^{7} \sqrt{49-x^2} dx -\int_{-7}^{7}  a dx = \frac{49\pi }{3}\\
+  \frac{49\pi }{2} -\int_{-7}^{7}  a dx = \frac{49\pi }{3}\\
   \end{aligned}$$
 
 # [TODO]{.todo .TODO} tractrix {#tractrix}
