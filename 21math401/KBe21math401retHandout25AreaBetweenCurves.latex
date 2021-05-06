@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13144)}}    % original
-%\rhead{\textrmlf{Compiled }\#13144\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13145)}}    % original
+%\rhead{\textrmlf{Compiled }\#13145\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -205,7 +205,7 @@ Right handed Riemann Sum: \[\begin{aligned}
 \section{area between curves}\label{area-between-curves}}
 
 \[\begin{aligned}
-  \int_{0}^{10} 2200e^{0.024t} dx - \int_0^{10} 1360e^{0.018t} dx &=
+  \int_{0}^{10} 2200e^{0.024t} dx - \int_0^{10} 1360e^{0.018t} dx &= \frac{1}{0.024} 2200e^{0.024t} - \frac{1}{0.018} 1360e^{0.018t}\\
   \end{aligned}\]
 
 \end{document}
