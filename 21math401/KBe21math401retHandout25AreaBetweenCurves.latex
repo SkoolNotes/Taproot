@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13169)}}    % original
-%\rhead{\textrmlf{Compiled }\#13169\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13171)}}    % original
+%\rhead{\textrmlf{Compiled }\#13171\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -238,5 +238,8 @@ s.t.
 
 \hypertarget{tractrix}{%
 \section{tractrix}\label{tractrix}}
+
+At any moment, if the boat is at \((x, y)\) and the puller is at
+\((0, h)\), then the velocity of the boat is in the direction (
 
 \end{document}
