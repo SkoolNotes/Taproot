@@ -47,7 +47,7 @@ $$\begin{aligned}
   3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \frac{49\pi}{4}  &= 0\\
   \end{aligned}$$
 
-# tractrix
+# [TODO]{.todo .TODO} tractrix {#tractrix}
 
 At any moment, if the boat is at $(x, y)$ and the puller is at $(0, h)$,
 then the velocity of the boat is in the direction $$\begin{aligned}
