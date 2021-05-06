@@ -54,7 +54,8 @@ horizontally instead of vertically) $$\begin{aligned}
   \int_{-7}^{7} \sqrt{49-x^2} - a dx = \frac{49\pi }{3}\\
   \int_{-7}^{7} \sqrt{49-x^2} dx -\int_{-7}^{7}  a dx = \frac{49\pi }{3}\\
   \frac{49\pi }{2} -\int_{-7}^{7}  a dx = \frac{49\pi }{3}\\
-  \frac{49\pi }{2} -\left( ax \int_{-7}^{7}  a dx \right)  = \frac{49\pi }{3}\\
+  \frac{49\pi }{2} -\left( 7a - -7a \right)  = \frac{49\pi }{3}\\
+  \frac{49\pi }{2} - 14a   = \frac{49\pi }{3}\\
   \end{aligned}$$
 
 # [TODO]{.todo .TODO} tractrix {#tractrix}
