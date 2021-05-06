@@ -90,9 +90,34 @@ city
 stateProvince
 postal code
 
+#####  Transactions
+CTR
+CID
+LID
+DueDate
+AmountDue
+PayDate
+AmountPaid
+LateYN
+AmountPastDue
+InitBal
+CurBal
+Lastmod
+
+
 #### Dealers
-
-
+DealerName
+Address1
+Address2
+City
+StateProvice
+PostalCode
+Total Number of Deals
+Total Reserve Earned
+Total Reserve Paid
+Total Reserve Held
+Next Pay Date
+Projected Amount to Be Paid
 
 
 

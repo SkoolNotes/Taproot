@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13135)}}    % original
-%\rhead{\textrmlf{Compiled }\#13135\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13136)}}    % original
+%\rhead{\textrmlf{Compiled }\#13136\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -271,7 +271,17 @@ still ahve qestions? contact us
 
 first name last name adress 1 adress 2 city stateProvince postal code
 
+\hypertarget{transactions}{%
+\subparagraph{Transactions}\label{transactions}}
+
+CTR CID LID DueDate AmountDue PayDate AmountPaid LateYN AmountPastDue
+InitBal CurBal Lastmod
+
 \hypertarget{dealers}{%
 \paragraph{Dealers}\label{dealers}}
+
+DealerName Address1 Address2 City StateProvice PostalCode Total Number
+of Deals Total Reserve Earned Total Reserve Paid Total Reserve Held Next
+Pay Date Projected Amount to Be Paid
 
 \end{document}
