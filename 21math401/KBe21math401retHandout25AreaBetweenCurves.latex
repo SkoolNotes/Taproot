@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13162)}}    % original
-%\rhead{\textrmlf{Compiled }\#13162\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13163)}}    % original
+%\rhead{\textrmlf{Compiled }\#13163\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -230,7 +230,8 @@ s.t.
   2\int_{-7}^{x} \sqrt{7^2 - t^2} dt &+ \int_{7}^{x} \sqrt{7^2 - t^2} dt = 0\\
   2\left( \int_{0}^{x} \sqrt{7^2 - t^2} dt - \int_{0}^{-7} \sqrt{7^2 - t^2} dt \right)  &+\left( \int_{0}^{x} \sqrt{7^2 - t^2} dt - \int_{0}^{7} \sqrt{7^2 - t^2} dt \right)  = 0\\
   2\left( \int_{0}^{x} \sqrt{7^2 - t^2} dt + \int_{-7}^{0} \sqrt{7^2 - t^2} dt \right)  &+\left( \int_{0}^{x} \sqrt{7^2 - t^2} dt - \int_{0}^{7} \sqrt{7^2 - t^2} dt \right)  = 0\\
-  2\int_{0}^{x} \sqrt{7^2 - t^2} dt + 2\int_{-7}^{0} \sqrt{7^2 - t^2} dt \right)  &+\int_{0}^{x} \sqrt{7^2 - t^2} dt - \int_{0}^{7} \sqrt{7^2 - t^2} dt = 0\\
+  2\int_{0}^{x} \sqrt{7^2 - t^2} dt + 2\int_{-7}^{0} \sqrt{7^2 - t^2} dt  &+\int_{0}^{x} \sqrt{7^2 - t^2} dt - \int_{0}^{7} \sqrt{7^2 - t^2} dt = 0\\
+  3\int_{0}^{x} \sqrt{7^2 - t^2} dt + 2\int_{-7}^{0} \sqrt{7^2 - t^2} dt  &+\sqrt{7^2 - t^2} dt = 0\\
   \end{aligned}\]
 
 \end{document}
