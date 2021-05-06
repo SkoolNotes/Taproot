@@ -90,7 +90,7 @@ city
 stateProvince
 postal code
 
-#####  Transactions
+######  Transactions
 CTR
 CID
 LID
@@ -119,14 +119,14 @@ Total Reserve Held
 Next Pay Date
 Projected Amount to Be Paid
 
-
-
-
-
-
-
-
-
+###### Transactions
+LID
+DueDate
+AmountDue
+PayDate
+AmtPaidRcvd
+AmtRemaining
+Lastmod
 
 
 
