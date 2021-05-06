@@ -34,3 +34,7 @@ and 100 units.
 
 The problem of placing slices is the same if we only worry about the top
 half of the pizza. Thus, we can choose some $x$ for the first slice s.t.
+
+$$\begin{aligned}
+  \int_{-7}^{x} \sqrt{14^2 - x^2} dx =\int_{x}^{7}  dx
+  \end{aligned}$$
