@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13184)}}    % original
-%\rhead{\textrmlf{Compiled }\#13184\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13185)}}    % original
+%\rhead{\textrmlf{Compiled }\#13185\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -240,7 +240,7 @@ s.t.
 
 \[\begin{aligned}
   \int_{-7}^{7} \sqrt{49-x^2} - a dx = \frac{49\pi }{3}\\
-  \int_{-7}^{7} \sqrt{49-x^2} - a dx = \frac{49\pi }{3}
+  \int_{-7}^{7} \sqrt{49-x^2} dx -\int_{-7}^{7}  a dx = \frac{49\pi }{3}
   \end{aligned}\]
 
 \hypertarget{tractrix}{%
