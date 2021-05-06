@@ -50,6 +50,7 @@ $$\begin{aligned}
   \end{aligned}$$
 
 $$\begin{aligned}
+  \int_{-7}^{7} \sqrt{49-x^2} - a dx = \frac{49\pi }{3}\\
   \int_{-7}^{7} \sqrt{49-x^2} - a dx = \frac{49\pi }{3}
   \end{aligned}$$
 
