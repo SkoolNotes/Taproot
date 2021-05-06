@@ -57,4 +57,4 @@ then the velocity of the boat is in the direction $$\begin{aligned}
 # [TODO]{.todo .TODO} water displacement {#water-displacement}
 
 Plan: find a function $f(r)$ which represents the amount of water
-displaced for any radius
+displaced for any radius, then take the derivative and find roots.
