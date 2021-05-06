@@ -24,3 +24,8 @@ $$\begin{aligned}
   \implies &\quad \ \frac{1}{0.024} 2200e^{0.24} - \frac{1}{0.018} 1360e^{0.18} - \frac{1}{0.024} 2200 + \frac{1}{0.018} 1360
   &\approx  9964
   \end{aligned}$$
+
+# meaning of area
+
+The shaded region represents the profit made between producing 50 units
+and 100 units.
