@@ -20,5 +20,5 @@ $$\begin{aligned}
 # area between curves
 
 $$\begin{aligned}
-  \int_{0}^{10} 2200e^{0.024t} - 1360e^{0.018t} dx
+  \int_{0}^{10} 2200e^{0.024t} dx - \int_0^{10} 1360e^{0.018t} dx &=
   \end{aligned}$$
