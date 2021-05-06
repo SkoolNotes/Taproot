@@ -43,5 +43,5 @@ $$\begin{aligned}
   2\left( \int_{0}^{x} \sqrt{7^2 - t^2} dt + \int_{-7}^{0} \sqrt{7^2 - t^2} dt \right)  &+\left( \int_{0}^{x} \sqrt{7^2 - t^2} dt - \int_{0}^{7} \sqrt{7^2 - t^2} dt \right)  = 0\\
   2\int_{0}^{x} \sqrt{7^2 - t^2} dt + 2\int_{-7}^{0} \sqrt{7^2 - t^2} dt  &+\int_{0}^{x} \sqrt{7^2 - t^2} dt - \int_{0}^{7} \sqrt{7^2 - t^2} dt = 0\\
   3\int_{0}^{x} \sqrt{7^2 - t^2} dt + 2\int_{-7}^{0} \sqrt{7^2 - t^2} dt  &- \int_{0}^{7} \sqrt{7^2 - t^2} dt = 0\\
-  3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \int_{-7}^{0} \sqrt{7^2 - t^2} dt\int_{0}^{7} \sqrt{7^2 - t^2} dt = 0\\
+  3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \int_{-7}^{0} \sqrt{7^2 - t^2} dt &= 0\\
   \end{aligned}$$
