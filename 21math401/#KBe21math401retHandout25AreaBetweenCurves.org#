@@ -1,41 +1,34 @@
----
-title: Handout 25 Additional Answers
----
-
-```{=latex}
+#+TITLE: Handout 25 Additional Answers
+#+begin_export latex
 \setcounter{section}{11}
-```
-# estimate area
+#+end_export
+* estimate area
 
-Right handed Riemann Sum: $$\begin{aligned}
+  Right handed Riemann Sum:
+  \[\begin{aligned}
   0.5 + 4 + 10 + 13 + 10 + 0 = 37.5
-  \end{aligned}$$
+  \end{aligned}\]
+* estimate area again
 
-# estimate area again
-
-$$\begin{aligned}
+  \[\begin{aligned}
   4(200 + 2700 + 1100 + 4000 + 200) = 32800
-  \end{aligned}$$
+  \end{aligned}\]
 
-# area between curves
+* area between curves
 
-$$\begin{aligned}
+  \[\begin{aligned}
   \int_{0}^{10} 2200e^{0.024t} dx - \int_0^{10} 1360e^{0.018t} dx &= \frac{1}{0.024} 2200e^{0.024t} - \frac{1}{0.018} 1360e^{0.018t}\\
   \implies &\quad \ \frac{1}{0.024} 2200e^{0.24} - \frac{1}{0.018} 1360e^{0.18} - \frac{1}{0.024} 2200 + \frac{1}{0.018} 1360
   &\approx  9964
-  \end{aligned}$$
+  \end{aligned}\]
 
-# meaning of area
+* meaning of area
+  The shaded region represents the profit made between producing 50 units and 100 units.
 
-The shaded region represents the profit made between producing 50 units
-and 100 units.
+* TODO slicing pizza into three using parallel cuts
+  The problem of placing slices is the same if we only worry about the top half of the pizza. Thus, we can choose some $x$ for the first slice s.t.
 
-# [TODO]{.todo .TODO} slicing pizza into three using parallel cuts {#slicing-pizza-into-three-using-parallel-cuts}
-
-The problem of placing slices is the same if we only worry about the top
-half of the pizza. Thus, we can choose some $x$ for the first slice s.t.
-
-$$\begin{aligned}
+  \[\begin{aligned}
   2\int_{-7}^{x} \sqrt{7^2 - t^2} dt &= \int_{x}^{7} \sqrt{7^2 - t^2} dt\\
   2\int_{-7}^{x} \sqrt{7^2 - t^2} dt &- \int_{x}^{7} \sqrt{7^2 - t^2} dt = 0\\
   2\int_{-7}^{x} \sqrt{7^2 - t^2} dt &+ \int_{7}^{x} \sqrt{7^2 - t^2} dt = 0\\
@@ -46,27 +39,27 @@ $$\begin{aligned}
   3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \int_{-7}^{0} \sqrt{7^2 - t^2} dt &= 0\\
   3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \frac{49\pi}{4}  &= 0\\
   \text{Now, we need to use trigonometric substitution, apparently.}\\
-  x = a \sin \theta,
-  \end{aligned}$$
+  x = a \sin \theta, dx = 
+  \end{aligned}\]
 
-Or, you could use David\'s method, which is just better (cut
-horizontally instead of vertically) $$\begin{aligned}
+
+  Or, you could use David's method, which is just better (cut horizontally instead of vertically)
+  \[\begin{aligned}
   \int_{-7}^{7} \sqrt{49-x^2} - a dx = \frac{49\pi }{3}\\
   \int_{-7}^{7} \sqrt{49-x^2} dx -\int_{-7}^{7}  a dx = \frac{49\pi }{3}\\
   \frac{49\pi }{2} -\int_{-7}^{7}  a dx = \frac{49\pi }{3}\\
   \frac{49\pi }{2} -\left( 7a - -7a \right)  = \frac{49\pi }{3}\\
   \frac{49\pi }{6} = 14a\\
   a = \frac{49\pi }{84} = \frac{7\pi }{12}
-  \end{aligned}$$
+  \end{aligned}\]
 
-# [TODO]{.todo .TODO} tractrix {#tractrix}
 
-At any moment, if the boat is at $(x, y)$ and the puller is at $(0, h)$,
-then the velocity of the boat is in the direction $$\begin{aligned}
+* TODO tractrix
+  At any moment, if the boat is at $(x, y)$ and the puller is at $(0, h)$, then the velocity of the boat is in the direction
+  \[\begin{aligned}
   \frac{y-h}{x}
-  \end{aligned}$$
+  \end{aligned}\]
 
-# [TODO]{.todo .TODO} water displacement {#water-displacement}
+* TODO water displacement
 
-Plan: find a function $f(r)$ which represents the amount of water
-displaced for any radius, then take the derivative and find roots.
+  Plan: find a function $f(r)$ which represents the amount of water displaced for any radius, then take the derivative and find roots.
