@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13146)}}    % original
-%\rhead{\textrmlf{Compiled }\#13146\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13147)}}    % original
+%\rhead{\textrmlf{Compiled }\#13147\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -206,7 +206,7 @@ Right handed Riemann Sum: \[\begin{aligned}
 
 \[\begin{aligned}
   \int_{0}^{10} 2200e^{0.024t} dx - \int_0^{10} 1360e^{0.018t} dx &= \frac{1}{0.024} 2200e^{0.024t} - \frac{1}{0.018} 1360e^{0.018t}\\
-  \implies &\quad \ \frac{1}{0.024} 2200e^{0.024t} - \frac{1}{0.018} 1360e^{0.18} - \frac{1}{0.24} 2200 - \frac{1}{0.018} 1360
+  \implies &\quad \ \frac{1}{0.024} 2200e^{0.24} - \frac{1}{0.018} 1360e^{0.18} - \frac{1}{0.024} 2200 + \frac{1}{0.018} 1360
   \end{aligned}\]
 
 \end{document}
