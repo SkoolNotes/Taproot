@@ -82,13 +82,13 @@ still ahve qestions? contact us
 ## some more forms
 
 #### Customers
-
 first name
 last name 
 adress 1
 adress 2
 city 
-
+stateProvince
+postal code
 
 #### Dealers
 
