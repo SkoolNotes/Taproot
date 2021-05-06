@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13167)}}    % original
-%\rhead{\textrmlf{Compiled }\#13167\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13168)}}    % original
+%\rhead{\textrmlf{Compiled }\#13168\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -217,8 +217,8 @@ The shaded region represents the profit made between producing 50 units
 and 100 units.
 
 \hypertarget{slicing-pizza-into-three-using-parallel-cuts}{%
-\section{slicing pizza into three using parallel
-cuts}\label{slicing-pizza-into-three-using-parallel-cuts}}
+\section{\texorpdfstring{{TODO} slicing pizza into three using parallel
+cuts}{TODO slicing pizza into three using parallel cuts}}\label{slicing-pizza-into-three-using-parallel-cuts}}
 
 The problem of placing slices is the same if we only worry about the top
 half of the pizza. Thus, we can choose some \(x\) for the first slice
@@ -233,7 +233,7 @@ s.t.
   2\int_{0}^{x} \sqrt{7^2 - t^2} dt + 2\int_{-7}^{0} \sqrt{7^2 - t^2} dt  &+\int_{0}^{x} \sqrt{7^2 - t^2} dt - \int_{0}^{7} \sqrt{7^2 - t^2} dt = 0\\
   3\int_{0}^{x} \sqrt{7^2 - t^2} dt + 2\int_{-7}^{0} \sqrt{7^2 - t^2} dt  &- \int_{0}^{7} \sqrt{7^2 - t^2} dt = 0\\
   3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \int_{-7}^{0} \sqrt{7^2 - t^2} dt &= 0\\
-  3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \int_{-7}^{0} \sqrt{7^2 - t^2} dt &= 0\\
+  3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \frac{49\pi}{4}  &= 0\\
   \end{aligned}\]
 
 \end{document}

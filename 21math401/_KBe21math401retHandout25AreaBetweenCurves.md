@@ -30,7 +30,7 @@ $$\begin{aligned}
 The shaded region represents the profit made between producing 50 units
 and 100 units.
 
-# slicing pizza into three using parallel cuts
+# [TODO]{.todo .TODO} slicing pizza into three using parallel cuts {#slicing-pizza-into-three-using-parallel-cuts}
 
 The problem of placing slices is the same if we only worry about the top
 half of the pizza. Thus, we can choose some $x$ for the first slice s.t.
@@ -44,5 +44,5 @@ $$\begin{aligned}
   2\int_{0}^{x} \sqrt{7^2 - t^2} dt + 2\int_{-7}^{0} \sqrt{7^2 - t^2} dt  &+\int_{0}^{x} \sqrt{7^2 - t^2} dt - \int_{0}^{7} \sqrt{7^2 - t^2} dt = 0\\
   3\int_{0}^{x} \sqrt{7^2 - t^2} dt + 2\int_{-7}^{0} \sqrt{7^2 - t^2} dt  &- \int_{0}^{7} \sqrt{7^2 - t^2} dt = 0\\
   3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \int_{-7}^{0} \sqrt{7^2 - t^2} dt &= 0\\
-  3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \int_{-7}^{0} \sqrt{7^2 - t^2} dt &= 0\\
+  3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \frac{49\pi}{4}  &= 0\\
   \end{aligned}$$
