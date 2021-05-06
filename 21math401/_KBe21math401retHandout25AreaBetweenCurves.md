@@ -50,4 +50,6 @@ $$\begin{aligned}
 # tractrix
 
 At any moment, if the boat is at $(x, y)$ and the puller is at $(0, h)$,
-then the velocity of the boat is in the direction (
+then the velocity of the boat is in the direction $$\begin{aligned}
+  \frac{h-y}{x}
+  \end{aligned}$$
