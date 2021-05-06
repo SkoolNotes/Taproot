@@ -38,4 +38,5 @@ half of the pizza. Thus, we can choose some $x$ for the first slice s.t.
 $$\begin{aligned}
   2\int_{-7}^{x} \sqrt{7^2 - x^2} dx &= \int_{x}^{7} \sqrt{7^2 - x^2} dx\\
   2\int_{-7}^{x} \sqrt{7^2 - x^2} dx &- \int_{x}^{7} \sqrt{7^2 - x^2} dx = 0\\
+  2\int_{-7}^{x} \sqrt{7^2 - x^2} dx &+ \int_{7}^{x} \sqrt{7^2 - x^2} dx = 0\\
   \end{aligned}$$
