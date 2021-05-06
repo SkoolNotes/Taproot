@@ -8,5 +8,11 @@ title: Handout 25 Additional Answers
 # estimate area
 
 Right handed Riemann Sum: $$\begin{aligned}
-  0.5 + 4 + 10 + 13 + 10 + 0 =
+  0.5 + 4 + 10 + 13 + 10 + 0 = 37.5
+  \end{aligned}$$
+
+# estimate area again
+
+$$\begin{aligned}
+  200 + 2700 + 1100 + 4000 + 200 = 8200
   \end{aligned}$$
