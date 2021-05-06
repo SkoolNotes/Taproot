@@ -31,3 +31,6 @@ The shaded region represents the profit made between producing 50 units
 and 100 units.
 
 # slicing pizza into three using parallel cuts
+
+The problem of placing slices is the same if we only worry about the top
+half of the pizza. Thus, we can choose some $x$ for the first slice s.t.
