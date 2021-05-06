@@ -39,4 +39,5 @@ $$\begin{aligned}
   2\int_{-7}^{x} \sqrt{7^2 - t^2} dt &= \int_{x}^{7} \sqrt{7^2 - t^2} dt\\
   2\int_{-7}^{x} \sqrt{7^2 - t^2} dt &- \int_{x}^{7} \sqrt{7^2 - t^2} dt = 0\\
   2\int_{-7}^{x} \sqrt{7^2 - t^2} dt &+ \int_{7}^{x} \sqrt{7^2 - t^2} dt = 0\\
+  2\int_{0}^{x} \sqrt{7^2 - t^2} dt &+ \int_{7}^{x} \sqrt{7^2 - t^2} dt = 0\\
   \end{aligned}$$
