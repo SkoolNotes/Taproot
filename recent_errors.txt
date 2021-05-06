@@ -1,2 +1,4 @@
-        Log for attempt at Wed May  5 10:33:44 PM PDT 2021 (13137)
-        Wed May  5 10:33:44 PM PDT 2021 Converting 2020HIST201/KBxSomethingElse.md...
+        Log for attempt at Thu May  6 09:00:37 AM PDT 2021 (13138)
+        Thu May  6 09:00:37 AM PDT 2021 Converting 21math401/KBe21math401retHandout25AreaBetweenCurves.org...
+Error producing PDF.
+
