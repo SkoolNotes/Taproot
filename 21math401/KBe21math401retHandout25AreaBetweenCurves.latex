@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13175)}}    % original
-%\rhead{\textrmlf{Compiled }\#13175\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13176)}}    % original
+%\rhead{\textrmlf{Compiled }\#13176\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -249,5 +249,8 @@ At any moment, if the boat is at \((x, y)\) and the puller is at
 \hypertarget{water-displacement}{%
 \section{\texorpdfstring{{TODO} water
 displacement}{TODO water displacement}}\label{water-displacement}}
+
+Plan: find a function \(f(r)\) which represents the amount of water
+displaced for any radius
 
 \end{document}

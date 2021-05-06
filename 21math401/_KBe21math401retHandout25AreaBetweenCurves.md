@@ -55,3 +55,6 @@ then the velocity of the boat is in the direction $$\begin{aligned}
   \end{aligned}$$
 
 # [TODO]{.todo .TODO} water displacement {#water-displacement}
+
+Plan: find a function $f(r)$ which represents the amount of water
+displaced for any radius
