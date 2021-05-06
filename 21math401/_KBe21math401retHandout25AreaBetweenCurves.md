@@ -46,6 +46,7 @@ $$\begin{aligned}
   3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \int_{-7}^{0} \sqrt{7^2 - t^2} dt &= 0\\
   3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \frac{49\pi}{4}  &= 0\\
   \text{Now, we need to use trigonometric substitution, apparently.}
+
   \end{aligned}$$
 
 # [TODO]{.todo .TODO} tractrix {#tractrix}
