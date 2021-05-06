@@ -49,6 +49,10 @@ $$\begin{aligned}
   x =
   \end{aligned}$$
 
+$$\begin{aligned}
+  \int_{-7}^{7} \sqrt{49-x^2} - a dx = \frac{49\pi }{3}
+  \end{aligned}$$
+
 # [TODO]{.todo .TODO} tractrix {#tractrix}
 
 At any moment, if the boat is at $(x, y)$ and the puller is at $(0, h)$,

@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13181)}}    % original
-%\rhead{\textrmlf{Compiled }\#13181\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13182)}}    % original
+%\rhead{\textrmlf{Compiled }\#13182\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -236,6 +236,10 @@ s.t.
   3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \frac{49\pi}{4}  &= 0\\
   \text{Now, we need to use trigonometric substitution, apparently.}
   x =
+  \end{aligned}\]
+
+\[\begin{aligned}
+  \int_{-7}^{7} \sqrt{49-x^2} - a dx = \frac{49\pi }{3}
   \end{aligned}\]
 
 \hypertarget{tractrix}{%
