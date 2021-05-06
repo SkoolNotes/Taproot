@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13153)}}    % original
-%\rhead{\textrmlf{Compiled }\#13153\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13154)}}    % original
+%\rhead{\textrmlf{Compiled }\#13154\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -225,7 +225,7 @@ half of the pizza. Thus, we can choose some \(x\) for the first slice
 s.t.
 
 \[\begin{aligned}
-  2\int_{-7}^{x} \sqrt{14^2 - x^2} dx = \int_{x}^{7} \sqrt{14^2 - x^2} dx
+  2\int_{-7}^{x} \sqrt{7^2 - x^2} dx = \int_{x}^{7} \sqrt{7^2 - x^2} dx
   \end{aligned}\]
 
 \end{document}
