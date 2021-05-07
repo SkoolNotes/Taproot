@@ -18,6 +18,7 @@ Point of intersection:
 
 $$\begin{aligned}
    18 - 3 x = 4 x ^2 - x ^3
+   -x ^3 + 4 x ^2 + 3x - 18 = 0
    \end{aligned}$$
 
 ## area between curves
