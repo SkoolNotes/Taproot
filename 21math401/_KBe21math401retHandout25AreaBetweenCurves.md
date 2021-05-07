@@ -5,7 +5,16 @@ title: Handout 25 Additional Answers
 ```{=latex}
 \setcounter{section}{10}
 ```
-# area between curves
+# cubic and a line
+
+## show tangency
+
+$$\begin{aligned}
+   y = 4 x ^2 - x ^3 \\
+   y = 18 - 3 x \\
+   \end{aligned}$$
+
+## area between curves
 
 # estimate area
 
