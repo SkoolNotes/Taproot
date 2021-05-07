@@ -14,6 +14,12 @@ $$\begin{aligned}
    y = 18 - 3 x \\
    \end{aligned}$$
 
+Point of intersection:
+
+$$\begin{aligned}
+   18 - 3 x = 4 x ^2 - x ^3
+   \end{aligned}$$
+
 ## area between curves
 
 # estimate area
