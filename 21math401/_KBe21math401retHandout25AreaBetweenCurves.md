@@ -3,8 +3,10 @@ title: Handout 25 Additional Answers
 ---
 
 ```{=latex}
-\setcounter{section}{11}
+\setcounter{section}{10}
 ```
+# area between curves
+
 # estimate area
 
 Right handed Riemann Sum: $$\begin{aligned}

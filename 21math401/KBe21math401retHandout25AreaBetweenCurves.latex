@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13196)}}    % original
-%\rhead{\textrmlf{Compiled }\#13196\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13197)}}    % original
+%\rhead{\textrmlf{Compiled }\#13197\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,7 +185,13 @@
 
 % DID YOU SET SPELL????
 
-\setcounter{section}{11}
+\setcounter{section}{10}
+
+\hypertarget{cubic-and-a-line}{%
+\section{cubic and a line}\label{cubic-and-a-line}}
+
+\hypertarget{show-tangency}{%
+\subsection{show tangency}\label{show-tangency}}
 
 \hypertarget{estimate-area}{%
 \section{estimate area}\label{estimate-area}}
