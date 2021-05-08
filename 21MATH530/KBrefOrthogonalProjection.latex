@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13243)}}    % original
-%\rhead{\textrmlf{Compiled }\#13243\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13244)}}    % original
+%\rhead{\textrmlf{Compiled }\#13244\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -244,5 +244,9 @@ Suppose \(U\) is a finite-dimensional subspace of \(V\) and
 
   (because \(P_U v \in  U\))
 \end{enumerate}
+
+\hypertarget{this-concept-of-the-orth}{%
+\subsubsection{This concept of the
+orth}\label{this-concept-of-the-orth}}
 
 \end{document}

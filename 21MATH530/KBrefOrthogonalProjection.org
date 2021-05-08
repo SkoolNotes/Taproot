@@ -7,6 +7,8 @@
   For $v \in  V$, write $v = u + w$, where $u \in  U$ and $w \in  U^\bot$. Then $P_Uv = u$.
   #+end_quote
   In other words, $P_U \in \mathcal{L} (V)$ takes $v$ to the component of $v$ that is in $U$.
+
+  This concept is closely related to the [[file:KBrefOrthogonalDecomposition.org][Orthogonal Decomposition]]
 ** Results
 *** Axler6.54 calculating $P_U v$
 
@@ -31,3 +33,4 @@
 	 \end{aligned}\]
 
 	 (because $P_U v \in  U$)
+*** This concept of the orth
