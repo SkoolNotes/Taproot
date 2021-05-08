@@ -49,3 +49,5 @@ title: Orthogonal Complement
 
 This can be shown by seeing that splitting any vector in $V$ into a $U$
 part and a non-$U$ part leads to the non-$U$ being in $U^\bot$
+
+### Axler6.50 dimension of orthogonal complement

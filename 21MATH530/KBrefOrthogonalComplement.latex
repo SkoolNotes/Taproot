@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13219)}}    % original
-%\rhead{\textrmlf{Compiled }\#13219\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13220)}}    % original
+%\rhead{\textrmlf{Compiled }\#13220\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -262,5 +262,9 @@ V = U \oplus U^\bot
 This can be shown by seeing that splitting any vector in \(V\) into a
 \(U\) part and a non-\(U\) part leads to the non-\(U\) being in
 \(U^\bot\)
+
+\hypertarget{axler6.50-dimension-of-orthogonal-complement}{%
+\subsubsection{Axler6.50 dimension of orthogonal
+complement}\label{axler6.50-dimension-of-orthogonal-complement}}
 
 \end{document}
