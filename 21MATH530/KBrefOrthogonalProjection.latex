@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13234)}}    % original
-%\rhead{\textrmlf{Compiled }\#13234\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13235)}}    % original
+%\rhead{\textrmlf{Compiled }\#13235\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -209,9 +209,12 @@ of \(v\) that is in \(U\).
 \(P_U v\)}{Axler6.54 calculating P\_U v}}\label{axler6.54-calculating-p_u-v}}
 
 \[\begin{aligned}
-
-    Because orthogonal projections and stuff.
     P_U v = \frac{\langle  v, x \rangle}{\lVert x \rVert ^2} x
     \end{aligned}\]
+
+Because orthogonal decompositions and stuff
+
+\hypertarget{axler6.55-properties}{%
+\subsubsection{Axler6.55 properties}\label{axler6.55-properties}}
 
 \end{document}

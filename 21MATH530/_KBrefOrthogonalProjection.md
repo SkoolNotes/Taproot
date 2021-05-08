@@ -22,7 +22,9 @@ $v$ that is in $U$.
 ### Axler6.54 calculating $P_U v$
 
 $$\begin{aligned}
-
-    Because orthogonal projections and stuff.
     P_U v = \frac{\langle  v, x \rangle}{\lVert x \rVert ^2} x
     \end{aligned}$$
+
+Because orthogonal decompositions and stuff
+
+### Axler6.55 properties
