@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13253)}}    % original
-%\rhead{\textrmlf{Compiled }\#13253\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13254)}}    % original
+%\rhead{\textrmlf{Compiled }\#13254\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -211,7 +211,7 @@ real-world applications.
 
 Inequality is an equality only when \(u = P_U v\).
 
-\hypertarget{results}{%
-\subsection{Results}\label{results}}
+\hypertarget{an-example}{%
+\subsection{An example}\label{an-example}}
 
 \end{document}

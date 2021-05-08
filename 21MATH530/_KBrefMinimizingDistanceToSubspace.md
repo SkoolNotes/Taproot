@@ -26,4 +26,4 @@ $$\begin{aligned}
 
 Inequality is an equality only when $u = P_U v$.
 
-## Results
+## An example
