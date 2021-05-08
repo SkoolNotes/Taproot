@@ -15,3 +15,7 @@ title: Minimizing the Distance to a Subspace
 Because we often end up having to find the minimal $v - u$ where
 $u \in  U$, this result makes linear algebra applicable to numerous
 real-world applications.
+
+## Results
+
+## Proof
