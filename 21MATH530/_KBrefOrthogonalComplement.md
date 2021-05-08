@@ -67,4 +67,4 @@ By the dimension of a subspace addition (Axler3.78)
 > U = (U^\bot) ^\bot
 > \end{aligned}$$
 
-Because $U + U^\bot$ is a direct sum.
+Because $U \oplus U^\bot = V$ is a direct sum and equals $V$.

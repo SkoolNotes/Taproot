@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13224)}}    % original
-%\rhead{\textrmlf{Compiled }\#13224\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13225)}}    % original
+%\rhead{\textrmlf{Compiled }\#13225\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -290,6 +290,6 @@ U = (U^\bot) ^\bot
 \end{aligned}\]
 \end{quote}
 
-Because \(U + U^\bot\) is a direct sum.
+Because \(U \oplus U^\bot = V\) is a direct sum and equals \(V\).
 
 \end{document}
