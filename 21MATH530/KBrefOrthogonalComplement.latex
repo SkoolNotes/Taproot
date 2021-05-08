@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13205)}}    % original
-%\rhead{\textrmlf{Compiled }\#13205\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13206)}}    % original
+%\rhead{\textrmlf{Compiled }\#13206\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -205,5 +205,13 @@ U^\bot = \{ v \in V : \langle v, u \rangle = 0 \forall u \in  U \}
 \hypertarget{axler6.46-basic-properties}{%
 \subsubsection{Axler6.46 basic
 properties}\label{axler6.46-basic-properties}}
+
+\begin{enumerate}
+\item
+  complement is a subspace: if \(U\) is a subset of \(V\), then
+  \(U^\bot\) is a subspace of \(V\)
+
+  \textbf{**}
+\end{enumerate}
 
 \end{document}

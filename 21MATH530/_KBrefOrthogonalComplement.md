@@ -15,3 +15,8 @@ title: Orthogonal Complement
 ## results
 
 ### Axler6.46 basic properties
+
+1.  complement is a subspace: if $U$ is a subset of $V$, then $U^\bot$
+    is a subspace of $V$
+
+    **\*\***
