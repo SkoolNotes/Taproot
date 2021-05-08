@@ -46,3 +46,6 @@ title: Orthogonal Complement
 > $$\begin{aligned}
 > V = U \oplus U^\bot
 > \end{aligned}$$
+
+This can be shown by seeing that splitting any vector in $V$ into a $U$
+part and a non-$U$ part leads to the non-$U$ being in $U^\bot$
