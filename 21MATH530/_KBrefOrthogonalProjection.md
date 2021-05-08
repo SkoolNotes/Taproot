@@ -32,4 +32,4 @@ Because orthogonal decompositions and stuff
 Suppose $U$ is a finite-dimensional subspace of $V$ and $v \in  V$.
 Then,
 
-1.  $P_U \in \mathcal{L} (V)$
+1.  $P_U \in \mathcal{L}(V)$
