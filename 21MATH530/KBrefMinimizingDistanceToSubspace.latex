@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13254)}}    % original
-%\rhead{\textrmlf{Compiled }\#13254\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13255)}}    % original
+%\rhead{\textrmlf{Compiled }\#13255\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -213,5 +213,9 @@ Inequality is an equality only when \(u = P_U v\).
 
 \hypertarget{an-example}{%
 \subsection{An example}\label{an-example}}
+
+First define an inner product that will be our cost function. In this
+case, they use the integral of \(f(x) g(x)\) on the range
+\([ - \pi , \pi ]\)
 
 \end{document}
