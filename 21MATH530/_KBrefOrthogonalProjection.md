@@ -47,3 +47,7 @@ Then,
 7.  $\lVert P_U v \rVert \leq  \lVert v \rVert$
 
 8.  for every orthonormal basis $e_1, \ldots, e_m$ of $U$,
+
+    $$\begin{aligned}
+         P_U v = \langle  v, e_1 \rangle e_1, + \cdots + \langle v, e_m \rangle e_m
+         \end{aligned}$$
