@@ -51,3 +51,5 @@ Then,
     $$\begin{aligned}
          P_U v = \langle  v, e_1 \rangle e_1, + \cdots + \langle v, e_m \rangle e_m
          \end{aligned}$$
+
+    (because $P_U v \in  U$)
