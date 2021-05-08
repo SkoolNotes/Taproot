@@ -17,6 +17,9 @@ title: Orthogonal Projection
 In other words, $P_U \in \mathcal{L} (V)$ takes $v$ to the component of
 $v$ that is in $U$.
 
+This concept is closely related to the [Orthogonal
+Decomposition](KBrefOrthogonalDecomposition.org)
+
 ## Results
 
 ### Axler6.54 calculating $P_U v$
@@ -54,4 +57,4 @@ Then,
 
     (because $P_U v \in  U$)
 
-### This concept of the orth
+### Axler6.56 Minimizing the distance to a subspace
