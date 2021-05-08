@@ -1,1 +1,2 @@
-        Log for attempt at Sat May  8 11:26:17 AM PDT 2021 (13250)
+        Log for attempt at Sat May  8 11:26:54 AM PDT 2021 (13251)
+        Sat May  8 11:26:54 AM PDT 2021 Converting 21MATH530/KBrefMinimizingDistanceToSubspace.org...
