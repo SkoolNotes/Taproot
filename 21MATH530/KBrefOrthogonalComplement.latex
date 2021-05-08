@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13227)}}    % original
-%\rhead{\textrmlf{Compiled }\#13227\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13228)}}    % original
+%\rhead{\textrmlf{Compiled }\#13228\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -186,8 +186,8 @@
 % DID YOU SET SPELL????
 
 \hypertarget{axler6.45-orthogonal-complement-ubot}{%
-\section{\texorpdfstring{Axler6.45 orthogonal complement,
-\(U^\bot\)}{Axler6.45 orthogonal complement, U\^{}\textbackslash bot}}\label{axler6.45-orthogonal-complement-ubot}}
+\section{\texorpdfstring{Axler6.45 orthogonal complement, \(U^\bot\)
+{\textsc{def}}}{Axler6.45 orthogonal complement, U\^{}\textbackslash bot def}}\label{axler6.45-orthogonal-complement-ubot}}
 
 \begin{quote}
 if \(U\) is a subset of \(V\), then the orthogonal complement of \(U\),

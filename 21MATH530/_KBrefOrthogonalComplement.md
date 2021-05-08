@@ -5,7 +5,7 @@ title: Orthogonal Complement
 ```{=org}
 #+CONTEXT: Linear Algebra
 ```
-# Axler6.45 orthogonal complement, $U^\bot$
+# Axler6.45 orthogonal complement, $U^\bot$ [[def]{.smallcaps}]{.tag tag-name="def"} {#axler6.45-orthogonal-complement-ubot}
 
 > if $U$ is a subset of $V$, then the orthogonal complement of $U$,
 > denoted $U^\bot$, is the set of all vectors in $V$ that are orthogonal
