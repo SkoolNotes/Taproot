@@ -38,4 +38,8 @@ Then,
 
 3.  $P_U w = 0 \forall w \in  U^\bot$
 
-    **\*\***
+4.  $\orange P_U = U$
+
+5.  $\onull P_U = U^\bot$
+
+6.  $P_U ^2 = P_U$ (by \#2)
