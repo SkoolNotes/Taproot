@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13207)}}    % original
-%\rhead{\textrmlf{Compiled }\#13207\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13209)}}    % original
+%\rhead{\textrmlf{Compiled }\#13209\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -214,6 +214,8 @@ properties}\label{axler6.46-basic-properties}}
   \(\{0\}^\bot = V\)
 \item
   \(V ^\bot = \{0\}\)
+\item
+  If \(U\) is a subset of \(V\), then \(U \cap U^\bot\subseteq \{0\}\)
 \end{enumerate}
 
 \end{document}

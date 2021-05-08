@@ -22,3 +22,5 @@ title: Orthogonal Complement
 2.  $\{0\}^\bot = V$
 
 3.  $V ^\bot = \{0\}$
+
+4.  If $U$ is a subset of $V$, then $U \cap U^\bot\subseteq \{0\}$
