@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13214)}}    % original
-%\rhead{\textrmlf{Compiled }\#13214\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13215)}}    % original
+%\rhead{\textrmlf{Compiled }\#13215\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -241,6 +241,11 @@ properties}\label{axler6.46-basic-properties}}
 \item
   If \(U\) and \(W\) are subsets of \(V\) and \(U\subseteq W\) then
   \(W^\bot \subseteq U^\bot\)
+
+  \begin{enumerate}
+  \item
+    Everything in \(W^\bot\) is in \(U^\bot\), and more.
+  \end{enumerate}
 \end{enumerate}
 
 \end{document}

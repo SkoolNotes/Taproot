@@ -37,3 +37,5 @@ title: Orthogonal Complement
 
 5.  If $U$ and $W$ are subsets of $V$ and $U\subseteq W$ then
     $W^\bot \subseteq U^\bot$
+
+    1.  Everything in $W^\bot$ is in $U^\bot$, and more.
