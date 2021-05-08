@@ -28,3 +28,8 @@ $$\begin{aligned}
 Because orthogonal decompositions and stuff
 
 ### Axler6.55 properties
+
+Suppose $U$ is a finite-dimensional subspace of $V$ and $v \in  V$.
+Then,
+
+1.  $P_U \in \mathcal{L} (V)$

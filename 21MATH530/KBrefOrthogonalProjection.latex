@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13235)}}    % original
-%\rhead{\textrmlf{Compiled }\#13235\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13236)}}    % original
+%\rhead{\textrmlf{Compiled }\#13236\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -216,5 +216,13 @@ Because orthogonal decompositions and stuff
 
 \hypertarget{axler6.55-properties}{%
 \subsubsection{Axler6.55 properties}\label{axler6.55-properties}}
+
+Suppose \(U\) is a finite-dimensional subspace of \(V\) and
+\(v \in  V\). Then,
+
+\begin{enumerate}
+\item
+  \(P_U \in \mathcal{L} (V)\)
+\end{enumerate}
 
 \end{document}
