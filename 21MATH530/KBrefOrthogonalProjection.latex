@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13230)}}    % original
-%\rhead{\textrmlf{Compiled }\#13230\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13231)}}    % original
+%\rhead{\textrmlf{Compiled }\#13231\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,10 +185,9 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{axler6.53-orthogonal-projection-mathcalp_u}{%
-\section{\texorpdfstring{Axler6.53 orthogonal projection,
-\(\mathcal{P}_U\)
-{\textsc{def}}}{Axler6.53 orthogonal projection, \textbackslash mathcal\{P\}\_U def}}\label{axler6.53-orthogonal-projection-mathcalp_u}}
+\hypertarget{axler6.53-orthogonal-projection-p_u}{%
+\section{\texorpdfstring{Axler6.53 orthogonal projection, \(P_U\)
+{\textsc{def}}}{Axler6.53 orthogonal projection, P\_U def}}\label{axler6.53-orthogonal-projection-p_u}}
 
 \begin{quote}
 Suppose \(U\) is a finite-dimensional subspace of \(V\). The
@@ -197,6 +196,8 @@ Suppose \(U\) is a finite-dimensional subspace of \(V\). The
 
 For \(v \in  V\), write \(v = u + w\), where \(u \in  U\) and
 \(w \in  U^\bot\). Then \(P_Uv = u\).
+
+In other words, \(P_U\)
 \end{quote}
 
 \end{document}
