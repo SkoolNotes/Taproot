@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13204)}}    % original
-%\rhead{\textrmlf{Compiled }\#13204\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13205)}}    % original
+%\rhead{\textrmlf{Compiled }\#13205\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -198,5 +198,12 @@ orthogonal to every vector in \(U\):
 U^\bot = \{ v \in V : \langle v, u \rangle = 0 \forall u \in  U \}
 \end{aligned}\]
 \end{quote}
+
+\hypertarget{results}{%
+\subsection{results}\label{results}}
+
+\hypertarget{axler6.46-basic-properties}{%
+\subsubsection{Axler6.46 basic
+properties}\label{axler6.46-basic-properties}}
 
 \end{document}

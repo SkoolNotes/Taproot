@@ -11,3 +11,7 @@ title: Orthogonal Complement
 > $$\begin{aligned}
 > U^\bot = \{ v \in V : \langle v, u \rangle = 0 \forall u \in  U \}
 > \end{aligned}$$
+
+## results
+
+### Axler6.46 basic properties
