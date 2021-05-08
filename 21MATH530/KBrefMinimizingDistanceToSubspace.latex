@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13251)}}    % original
-%\rhead{\textrmlf{Compiled }\#13251\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13252)}}    % original
+%\rhead{\textrmlf{Compiled }\#13252\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -204,8 +204,8 @@ real-world applications.
 \subsection{Proof}\label{proof}}
 
 \[\begin{aligned}
-   \lVert v - P_U v \rVert ^2 &\leq  \lVert v - P_U v \rVert ^2 + \lVert P_U v - u \rVert ^2 \\
-   &= \lVert (v - P_U v) + (P_U v - u) \rVert ^2 \\
+   \lVert v - P_U v \rVert ^2 &\leq  \lVert v - P_U v \rVert ^2 + \lVert P_U v - u \rVert ^2  &\quad& \text{ by } 0 \leq  \lVert P_U v - u \rVert ^2\\
+   &= \lVert (v - P_U v) + (P_U v - u) \rVert ^2 &\quad& \text{ by the Pythagorean Theorem }\\
    &= \lVert v - u \rVert ^2
    \end{aligned}\]
 

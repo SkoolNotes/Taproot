@@ -19,8 +19,8 @@ real-world applications.
 ## Proof
 
 $$\begin{aligned}
-   \lVert v - P_U v \rVert ^2 &\leq  \lVert v - P_U v \rVert ^2 + \lVert P_U v - u \rVert ^2 \\
-   &= \lVert (v - P_U v) + (P_U v - u) \rVert ^2 \\
+   \lVert v - P_U v \rVert ^2 &\leq  \lVert v - P_U v \rVert ^2 + \lVert P_U v - u \rVert ^2  &\quad& \text{ by } 0 \leq  \lVert P_U v - u \rVert ^2\\
+   &= \lVert (v - P_U v) + (P_U v - u) \rVert ^2 &\quad& \text{ by the Pythagorean Theorem }\\
    &= \lVert v - u \rVert ^2
    \end{aligned}$$
 
