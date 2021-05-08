@@ -29,7 +29,11 @@ title: Orthogonal Complement
 
 3.  $V ^\bot = \{0\}$
 
+    1.  only zero orthogonal to every vector
+
 4.  If $U$ is a subset of $V$, then $U \cap U^\bot\subseteq \{0\}$
+
+    1.  only zero is orthogonal to itself
 
 5.  If $U$ and $W$ are subsets of $V$ and $U\subseteq W$ then
     $W^\bot \subseteq U^\bot$

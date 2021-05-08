@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13213)}}    % original
-%\rhead{\textrmlf{Compiled }\#13213\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13214)}}    % original
+%\rhead{\textrmlf{Compiled }\#13214\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -226,8 +226,18 @@ properties}\label{axler6.46-basic-properties}}
   \end{enumerate}
 \item
   \(V ^\bot = \{0\}\)
+
+  \begin{enumerate}
+  \item
+    only zero orthogonal to every vector
+  \end{enumerate}
 \item
   If \(U\) is a subset of \(V\), then \(U \cap U^\bot\subseteq \{0\}\)
+
+  \begin{enumerate}
+  \item
+    only zero is orthogonal to itself
+  \end{enumerate}
 \item
   If \(U\) and \(W\) are subsets of \(V\) and \(U\subseteq W\) then
   \(W^\bot \subseteq U^\bot\)
