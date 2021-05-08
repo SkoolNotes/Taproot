@@ -44,4 +44,6 @@ Then,
 
 6.  $P_U ^2 = P_U$ (by \\\#2 and \\\#4)
 
-    **\*\***
+7.  $\lVert P_U v \rVert \leq  \lVert v \rVert$
+
+8.  for every orthonormal basis $e_1, \ldots, e_m$ of $U$,
