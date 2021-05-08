@@ -2,6 +2,9 @@
 title: Orthogonal Complement
 ---
 
+```{=org}
+#+CONTEXT: Linear Algebra
+```
 # Axler6.45 orthogonal complement, $U^\bot$
 
 > if $U$ is a subset of $V$, then the orthogonal complement of $U$,
