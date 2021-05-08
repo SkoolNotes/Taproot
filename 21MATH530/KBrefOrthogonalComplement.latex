@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13203)}}    % original
-%\rhead{\textrmlf{Compiled }\#13203\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13204)}}    % original
+%\rhead{\textrmlf{Compiled }\#13204\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -188,5 +188,15 @@
 \hypertarget{axler6.45-orthogonal-complement-ubot}{%
 \section{\texorpdfstring{Axler6.45 orthogonal complement,
 \(U^\bot\)}{Axler6.45 orthogonal complement, U\^{}\textbackslash bot}}\label{axler6.45-orthogonal-complement-ubot}}
+
+\begin{quote}
+if \(U\) is a subset of \(V\), then the orthogonal complement of \(U\),
+denoted \(U^\bot\), is the set of all vectors in \(V\) that are
+orthogonal to every vector in \(U\):
+
+\[\begin{aligned}
+U^\bot = \{ v \in V : \langle v, u \rangle = 0 \forall u \in  U \}
+\end{aligned}\]
+\end{quote}
 
 \end{document}
