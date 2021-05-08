@@ -1,0 +1,16 @@
+#+TITLE: Orthogonal Complement
+* Axler6.45 orthogonal complement, $U^\bot$
+  #+begin_quote
+  if $U$ is a subset of $V$, then the orthogonal complement of $U$, denoted $U^\bot$, is the set of all vectors in $V$ that are orthogonal to every vector in $U$:
+
+  \[\begin{aligned}
+  U^\bot = \{ v \in V : \langle v, u \rangle = 0 \forall u \in  U \}
+  \end{aligned}\]
+
+  #+end_quote
+** results
+*** Axler6.46 basic properties
+**** complement is a subspace: if $U$ is a subset of $V$, then $U^\bot$ is a subspace of $V$
+**** $\{0\}^\bot = V$
+**** $V ^\bot = \{0\}$
+**** If $U$ is a subset of $V$, then $U \cap U^\bot $

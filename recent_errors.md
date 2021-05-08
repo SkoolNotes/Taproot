@@ -1,2 +1,1 @@
-        Log for attempt at Sat May  8 10:51:09 AM PDT 2021 (13207)
-        Sat May  8 10:51:09 AM PDT 2021 Converting 21MATH530/KBrefOrthogonalComplement.org...
+        Log for attempt at Sat May  8 10:52:19 AM PDT 2021 (13208)
