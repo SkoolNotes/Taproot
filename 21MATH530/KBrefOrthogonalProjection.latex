@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13231)}}    % original
-%\rhead{\textrmlf{Compiled }\#13231\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13232)}}    % original
+%\rhead{\textrmlf{Compiled }\#13232\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -197,7 +197,8 @@ Suppose \(U\) is a finite-dimensional subspace of \(V\). The
 For \(v \in  V\), write \(v = u + w\), where \(u \in  U\) and
 \(w \in  U^\bot\). Then \(P_Uv = u\).
 
-In other words, \(P_U\)
+In other words, \(P_U \in \mathcal{L} (V)\) takes \(v\) to the component
+of \(v\) that is in \(U\).
 \end{quote}
 
 \end{document}

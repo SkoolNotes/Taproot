@@ -14,4 +14,5 @@ title: Orthogonal Projection
 > For $v \in  V$, write $v = u + w$, where $u \in  U$ and
 > $w \in  U^\bot$. Then $P_Uv = u$.
 >
-> In other words, $P_U$
+> In other words, $P_U \in \mathcal{L} (V)$ takes $v$ to the component
+> of $v$ that is in $U$.
