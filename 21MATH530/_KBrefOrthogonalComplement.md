@@ -19,7 +19,13 @@ title: Orthogonal Complement
 1.  complement is a subspace: if $U$ is a subset of $V$, then $U^\bot$
     is a subspace of $V$
 
+    1.  zero is orthogonal to each vector, any vector that is the sum of
+        two fully orthogonal vectors or the scalar multiple of an
+        orthogonal vector will still be fully orthogonal.
+
 2.  $\{0\}^\bot = V$
+
+    1.  zero orthogonal to every vector
 
 3.  $V ^\bot = \{0\}$
 

@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13212)}}    % original
-%\rhead{\textrmlf{Compiled }\#13212\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13213)}}    % original
+%\rhead{\textrmlf{Compiled }\#13213\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -210,8 +210,20 @@ properties}\label{axler6.46-basic-properties}}
 \item
   complement is a subspace: if \(U\) is a subset of \(V\), then
   \(U^\bot\) is a subspace of \(V\)
+
+  \begin{enumerate}
+  \item
+    zero is orthogonal to each vector, any vector that is the sum of two
+    fully orthogonal vectors or the scalar multiple of an orthogonal
+    vector will still be fully orthogonal.
+  \end{enumerate}
 \item
   \(\{0\}^\bot = V\)
+
+  \begin{enumerate}
+  \item
+    zero orthogonal to every vector
+  \end{enumerate}
 \item
   \(V ^\bot = \{0\}\)
 \item
