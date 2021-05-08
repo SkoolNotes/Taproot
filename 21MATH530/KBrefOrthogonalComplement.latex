@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13220)}}    % original
-%\rhead{\textrmlf{Compiled }\#13220\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13221)}}    % original
+%\rhead{\textrmlf{Compiled }\#13221\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -266,5 +266,17 @@ This can be shown by seeing that splitting any vector in \(V\) into a
 \hypertarget{axler6.50-dimension-of-orthogonal-complement}{%
 \subsubsection{Axler6.50 dimension of orthogonal
 complement}\label{axler6.50-dimension-of-orthogonal-complement}}
+
+\hypertarget{axler6.51-orthogonal-complement-of-orthogonal-complement-is-itself}{%
+\subsubsection{Axler6.51 orthogonal complement of orthogonal complement
+is
+itself}\label{axler6.51-orthogonal-complement-of-orthogonal-complement-is-itself}}
+
+\begin{quote}
+Suppose \(U\) is a finite-dimensional subspace of \(V\). Then
+\[\begin{aligned}
+U = (U^\bot) ^\bot
+\end{aligned}\]
+\end{quote}
 
 \end{document}
