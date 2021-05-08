@@ -20,3 +20,10 @@
 ***** only zero is orthogonal to itself
 **** If $U$ and $W$ are subsets of $V$ and $U\subseteq W$ then $W^\bot \subseteq U^\bot$
 ***** Everything in $W^\bot$ is in $U^\bot$, and more.
+*** Axler6.47 direct sum of a subspace and its orthogonal complement
+	#+begin_quote
+	Suppose $U$ is a finite-dimensional subspace of $V$. Then,
+	\[\begin{aligned}
+    V = U \oplus U^\bot
+	\end{aligned}\]
+	#+end_quote

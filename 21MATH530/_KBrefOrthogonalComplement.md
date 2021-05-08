@@ -39,3 +39,10 @@ title: Orthogonal Complement
     $W^\bot \subseteq U^\bot$
 
     1.  Everything in $W^\bot$ is in $U^\bot$, and more.
+
+### Axler6.47 direct sum of a subspace and its orthogonal complement
+
+> Suppose $U$ is a finite-dimensional subspace of $V$. Then,
+> $$\begin{aligned}
+> V = U \oplus U^\bot
+> \end{aligned}$$
