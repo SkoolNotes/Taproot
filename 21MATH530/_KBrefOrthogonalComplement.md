@@ -52,6 +52,14 @@ part and a non-$U$ part leads to the non-$U$ being in $U^\bot$
 
 ### Axler6.50 dimension of orthogonal complement
 
+> Suppose $V$ is finite-dimensional and $U$ is a subpsace of $V$. Then,
+>
+> $$\begin{aligned}
+> \odim $U^\bot$ = $\odim V - \odim U$
+> \end{aligned}$$
+
+By the Fundamental Theorem of Linear Maps
+
 ### Axler6.51 orthogonal complement of orthogonal complement is itself
 
 > Suppose $U$ is a finite-dimensional subspace of $V$. Then

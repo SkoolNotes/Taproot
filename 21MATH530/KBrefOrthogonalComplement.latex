@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13221)}}    % original
-%\rhead{\textrmlf{Compiled }\#13221\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13222)}}    % original
+%\rhead{\textrmlf{Compiled }\#13222\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -266,6 +266,17 @@ This can be shown by seeing that splitting any vector in \(V\) into a
 \hypertarget{axler6.50-dimension-of-orthogonal-complement}{%
 \subsubsection{Axler6.50 dimension of orthogonal
 complement}\label{axler6.50-dimension-of-orthogonal-complement}}
+
+\begin{quote}
+Suppose \(V\) is finite-dimensional and \(U\) is a subpsace of \(V\).
+Then,
+
+\[\begin{aligned}
+\odim $U^\bot$ = $\odim V - \odim U$
+\end{aligned}\]
+\end{quote}
+
+By the Fundamental Theorem of Linear Maps
 
 \hypertarget{axler6.51-orthogonal-complement-of-orthogonal-complement-is-itself}{%
 \subsubsection{Axler6.51 orthogonal complement of orthogonal complement
