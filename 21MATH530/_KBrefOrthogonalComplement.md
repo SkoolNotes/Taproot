@@ -68,3 +68,5 @@ By the dimension of a subspace addition (Axler3.78)
 > \end{aligned}$$
 
 Because $U \oplus U^\bot = V$ is a direct sum and equals $V$.
+
+The actual proof is by double-inclusion.
