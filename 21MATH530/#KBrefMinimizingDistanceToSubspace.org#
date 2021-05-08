@@ -1,0 +1,19 @@
+#+TITLE: Minimizing the Distance to a Subspace
+#+CONTEXT: Linear Algebra
+* Axler6.56 Minimizing the distance to a subspace
+  #+begin_quote
+  Suppose $U$ is a finite-dimensional subspace of $V$, $v \in  V$, and $u \in  U$. Then,
+  \[\begin{aligned}
+  \lVert v - P_U v \rVert \leq  \lVert v - u \rVert
+  \end{aligned}\]
+  #+end_quote
+
+  Because we often end up having to find the minimal $v - u$ where $u \in  U$, this result makes linear algebra applicable to numerous real-world applications.
+
+** Proof
+   
+   \[\begin{aligned}
+   \lVert v - P_U v \rVert ^2 &\leq  \
+   \end{aligned}\]
+
+** Results
