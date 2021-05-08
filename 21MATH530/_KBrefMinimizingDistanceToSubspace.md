@@ -24,4 +24,6 @@ $$\begin{aligned}
    &= \lVert v - u \rVert ^2
    \end{aligned}$$
 
+Inequality is an equality only when $u = P_U v$.
+
 ## Results

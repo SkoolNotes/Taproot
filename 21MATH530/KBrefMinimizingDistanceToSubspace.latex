@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13252)}}    % original
-%\rhead{\textrmlf{Compiled }\#13252\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13253)}}    % original
+%\rhead{\textrmlf{Compiled }\#13253\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -208,6 +208,8 @@ real-world applications.
    &= \lVert (v - P_U v) + (P_U v - u) \rVert ^2 &\quad& \text{ by the Pythagorean Theorem }\\
    &= \lVert v - u \rVert ^2
    \end{aligned}\]
+
+Inequality is an equality only when \(u = P_U v\).
 
 \hypertarget{results}{%
 \subsection{Results}\label{results}}
