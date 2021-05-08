@@ -34,5 +34,6 @@ $[ - \pi , \pi ]$. Then, orthonormalize a basis of the polynomials up to
 degree 6 (using the Gram-Schmidt procedure) and take the orthonormal
 projection using the same inner product. This ends up with roughly
 $$\begin{aligned}
-   u(x) = 0:987862x - 0:155271x^3 + 0:00564312x^5
-   \end{aligned}$$
+   u(x) = 0.987862x - 0.155271x^3 + 0.00564312x^5
+   \end{aligned}$$ Which ends up being a better approximation for the
+range than the corresponding 5-th degree Taylor polynomial.
