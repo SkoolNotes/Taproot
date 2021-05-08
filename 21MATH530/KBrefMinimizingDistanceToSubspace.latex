@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13247)}}    % original
-%\rhead{\textrmlf{Compiled }\#13247\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13248)}}    % original
+%\rhead{\textrmlf{Compiled }\#13248\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -195,5 +195,9 @@ and \(u \in  U\). Then, \[\begin{aligned}
 \lVert v - P_U v \rVert \leq  \lVert v - u \rVert
 \end{aligned}\]
 \end{quote}
+
+Because we often end up having to find the minimal \(v - u\) where
+\(u \in  U\), this result makes linear algebra applicable to numerous
+real-world applications.
 
 \end{document}
