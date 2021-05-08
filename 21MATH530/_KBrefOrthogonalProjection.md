@@ -33,3 +33,9 @@ Suppose $U$ is a finite-dimensional subspace of $V$ and $v \in  V$.
 Then,
 
 1.  $P_U \in \mathcal{L}(V)$
+
+2.  $P_U u = u \forall u \in  U$
+
+3.  $P_U w = 0 \forall w \in  U^\bot$
+
+    **\*\***
