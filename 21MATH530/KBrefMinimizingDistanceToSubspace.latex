@@ -121,7 +121,7 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ Orthogonal Projection }
+\newcommand{\thelesson}{ Minimizing the Distance to a Subspace }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -185,74 +185,8 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{axler6.53-orthogonal-projection-p_u}{%
-\section{\texorpdfstring{Axler6.53 orthogonal projection, \(P_U\)
-{\textsc{def}}}{Axler6.53 orthogonal projection, P\_U def}}\label{axler6.53-orthogonal-projection-p_u}}
-
-\begin{quote}
-Suppose \(U\) is a finite-dimensional subspace of \(V\). The
-\emph{orthogonal projection} of \(V\) onto \(U\) is the operator
-\(P_U \in\mathcal{L} (V)\) defined as follows:
-
-For \(v \in  V\), write \(v = u + w\), where \(u \in  U\) and
-\(w \in  U^\bot\). Then \(P_Uv = u\).
-\end{quote}
-
-In other words, \(P_U \in \mathcal{L} (V)\) takes \(v\) to the component
-of \(v\) that is in \(U\).
-
-This concept is closely related to the
-\href{KBrefOrthogonalDecomposition.org}{Orthogonal Decomposition}
-
-\hypertarget{results}{%
-\subsection{Results}\label{results}}
-
-\hypertarget{axler6.54-calculating-p_u-v}{%
-\subsubsection{\texorpdfstring{Axler6.54 calculating
-\(P_U v\)}{Axler6.54 calculating P\_U v}}\label{axler6.54-calculating-p_u-v}}
-
-\[\begin{aligned}
-    P_U v = \frac{\langle  v, x \rangle}{\lVert x \rVert ^2} x
-    \end{aligned}\]
-
-Because orthogonal decompositions and stuff
-
-\hypertarget{axler6.55-properties}{%
-\subsubsection{Axler6.55 properties}\label{axler6.55-properties}}
-
-Suppose \(U\) is a finite-dimensional subspace of \(V\) and
-\(v \in  V\). Then,
-
-\begin{enumerate}
-\item
-  \(P_U \in \mathcal{L}(V)\)
-\item
-  \(P_U u = u \forall u \in  U\)
-\item
-  \(P_U w = 0 \forall w \in  U^\bot\)
-\item
-  \(\orange P_U = U\)
-\item
-  \(\onull P_U = U^\bot\)
-\item
-  \(P_U ^2 = P_U\) (by \textbackslash\#2 and \textbackslash\#4)
-\item
-  \(\lVert P_U v \rVert \leq  \lVert v \rVert\)
-\item
-  for every orthonormal basis \(e_1, \ldots, e_m\) of \(U\),
-
-  \[\begin{aligned}
-       P_U v = \langle  v, e_1 \rangle e_1, + \cdots + \langle v, e_m \rangle e_m
-       \end{aligned}\]
-
-  (because \(P_U v \in  U\))
-\end{enumerate}
-
 \hypertarget{axler6.56-minimizing-the-distance-to-a-subspace}{%
-\subsubsection{Axler6.56 Minimizing the distance to a
+\section{Axler6.56 Minimizing the distance to a
 subspace}\label{axler6.56-minimizing-the-distance-to-a-subspace}}
-
-See \href{KBrefMinimizingDistanceToSubspace.org}{Minimizing the distance
-to a subpsace}
 
 \end{document}

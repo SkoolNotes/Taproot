@@ -58,3 +58,6 @@ Then,
     (because $P_U v \in  U$)
 
 ### Axler6.56 Minimizing the distance to a subspace
+
+See [Minimizing the distance to a
+subpsace](KBrefMinimizingDistanceToSubspace.org)
