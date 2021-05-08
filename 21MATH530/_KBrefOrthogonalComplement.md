@@ -25,4 +25,5 @@ title: Orthogonal Complement
 
 4.  If $U$ is a subset of $V$, then $U \cap U^\bot\subseteq \{0\}$
 
-5.  If $U$ and $W$ are subsets of $V$ and $U\subseteq W$
+5.  If $U$ and $W$ are subsets of $V$ and $U\subseteq W$ then
+    $W^\bot \subseteq U^\bot$
