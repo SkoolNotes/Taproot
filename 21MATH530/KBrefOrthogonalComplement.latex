@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13222)}}    % original
-%\rhead{\textrmlf{Compiled }\#13222\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13223)}}    % original
+%\rhead{\textrmlf{Compiled }\#13223\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -276,7 +276,9 @@ Then,
 \end{aligned}\]
 \end{quote}
 
-By the Fundamental Theorem of Linear Maps
+By the
+\href{~/projects/Taproot/2020MATH530/KBrefFundamentalTheoremOfLinearMaps.org}{Fundamental
+Theorem of Linear Maps}
 
 \hypertarget{axler6.51-orthogonal-complement-of-orthogonal-complement-is-itself}{%
 \subsubsection{Axler6.51 orthogonal complement of orthogonal complement

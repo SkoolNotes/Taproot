@@ -58,7 +58,8 @@ part and a non-$U$ part leads to the non-$U$ being in $U^\bot$
 > \odim $U^\bot$ = $\odim V - \odim U$
 > \end{aligned}$$
 
-By the Fundamental Theorem of Linear Maps
+By the [Fundamental Theorem of Linear
+Maps](~/projects/Taproot/2020MATH530/KBrefFundamentalTheoremOfLinearMaps.org)
 
 ### Axler6.51 orthogonal complement of orthogonal complement is itself
 
