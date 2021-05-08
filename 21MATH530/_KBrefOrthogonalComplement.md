@@ -19,4 +19,6 @@ title: Orthogonal Complement
 1.  complement is a subspace: if $U$ is a subset of $V$, then $U^\bot$
     is a subspace of $V$
 
-    **\*\***
+2.  $\{0\}^\bot = V$
+
+3.  $V ^\bot = \{0\}$
