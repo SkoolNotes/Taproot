@@ -16,3 +16,13 @@ title: Orthogonal Projection
 
 In other words, $P_U \in \mathcal{L} (V)$ takes $v$ to the component of
 $v$ that is in $U$.
+
+## Results
+
+### Axler6.54 calculating $P_U v$
+
+$$\begin{aligned}
+
+    Because orthogonal projections and stuff.
+    P_U v = \frac{\langle  v, x \rangle}{\lVert x \rVert ^2} x
+    \end{aligned}$$
