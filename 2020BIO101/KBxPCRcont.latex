@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13301)}}    % original
-%\rhead{\textrmlf{Compiled }\#13301\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13302)}}    % original
+%\rhead{\textrmlf{Compiled }\#13302\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -216,6 +216,7 @@ PCR:}\label{describe-what-is-happening-during-each-cycle-of-the-pcr}}
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
+    Annealing allows the primers to bind to their respective sequences.
   \end{enumerate}
 \item
   Extension at approximately 72°C
