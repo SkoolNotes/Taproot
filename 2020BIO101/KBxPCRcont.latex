@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13318)}}    % original
-%\rhead{\textrmlf{Compiled }\#13318\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13319)}}    % original
+%\rhead{\textrmlf{Compiled }\#13319\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -252,10 +252,18 @@ noted):}\label{in-one-or-two-sentences-for-each-explain-why-the-following-mistak
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
-    Nucleotides are the building blocks of DNA. Without them,
+    Nucleotides are the building blocks of DNA. Without them, the DNA
+    could not be synthesized.
   \end{enumerate}
 \item
-  The denaturation phase temperature was set to 55°C.
+  \emph{The denaturation phase temperature was set to 55°C.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    A temperature of
+  \end{enumerate}
 \item
   The extension phase temperature was set to 4°C.
 \end{enumerate}
