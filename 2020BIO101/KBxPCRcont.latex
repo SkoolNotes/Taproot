@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13303)}}    % original
-%\rhead{\textrmlf{Compiled }\#13303\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13304)}}    % original
+%\rhead{\textrmlf{Compiled }\#13304\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -226,6 +226,7 @@ PCR:}\label{describe-what-is-happening-during-each-cycle-of-the-pcr}}
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
+    During the Extension phase, \emph{Taq} Polymerase
   \end{enumerate}
 \end{enumerate}
 

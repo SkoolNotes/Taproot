@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13030)}}    % original
-%\rhead{\textrmlf{Compiled }\#13030\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13304)}}    % original
+%\rhead{\textrmlf{Compiled }\#13304\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -203,10 +203,11 @@ integral & function & derivative \\
 & \(\sin^- x\) & \(\frac{1}{\sqrt{1-x^2}}\) \\
 & \(\tan^- x\) & \(\frac{1}{1+x^2}\) \\
 & \(\tan x\) & \(\sec ^2 x\) \\
-& \(\sec x\) & \(\sin x \cos^{-2}x = \tan x \sec x\) \\
-& \(\csc x\) & \(\cot x \csc x\) \\
+\(\ln \vert \sec x + \tan x \vert\) & \(\sec x\) &
+\(\sin x \cos^{-2}x = \tan x \sec x\) \\
+\(-\ln \lvert \csc x + \cot x \rvert\) & \(\csc x\) &
+\(\cot x \csc x\) \\
 \(\ln \vert\sin x\vert\) & \(\cot x\) & \\
-\(\ln \vert \sec x + \tan x \vert\) & \(\sec x\) & \\
 \(2 \sqrt{x}\) & \(\frac{1}{\sqrt{x}}\) & \\
 \bottomrule
 \end{longtable}
