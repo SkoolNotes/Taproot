@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13275)}}    % original
-%\rhead{\textrmlf{Compiled }\#13275\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13276)}}    % original
+%\rhead{\textrmlf{Compiled }\#13276\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -277,7 +277,7 @@ tractrix}{TODO tractrix}}\label{tractrix}}
 At any moment, if the boat is at \((x, y)\) and the puller is at
 \((0, h)\), then the velocity of the boat is in the direction
 \[\begin{aligned}
-  \frac{y-h}{x}
+  \frac{\Delta y}{\Delta x}
   \end{aligned}\]
 
 \hypertarget{water-displacement}{%
