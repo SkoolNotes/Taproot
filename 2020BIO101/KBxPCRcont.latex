@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13325)}}    % original
-%\rhead{\textrmlf{Compiled }\#13325\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13326)}}    % original
+%\rhead{\textrmlf{Compiled }\#13326\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -274,7 +274,7 @@ noted):}\label{in-one-or-two-sentences-for-each-explain-why-the-following-mistak
   \item
     Without a temperature of \textasciitilde72°C, Taq polymerase won't
     extend the primers. Being sourced from bacteria used to very high
-    temperatures, it is probably used to
+    temperatures, it is probably used to said temperatures.
   \end{enumerate}
 \end{enumerate}
 
