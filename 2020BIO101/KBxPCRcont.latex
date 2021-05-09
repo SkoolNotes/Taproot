@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13313)}}    % original
-%\rhead{\textrmlf{Compiled }\#13313\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13314)}}    % original
+%\rhead{\textrmlf{Compiled }\#13314\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -244,7 +244,7 @@ noted):}\label{in-one-or-two-sentences-for-each-explain-why-the-following-mistak
 \item
   \emph{A human DNA polymerase was used rather than Taq DNA polymerase.}
   1. Taq polymerase was isolated from temperature-tolerant bacteria, and
-  thus, it is thermostable.
+  thus, it is thermostable. Human DNA polymerase is not, and would
 \item
   Nucleotides were left out of the reaction.
 \item
