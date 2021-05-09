@@ -107,7 +107,9 @@ $$\begin{aligned}
 $$\begin{aligned}
     \int \frac{\sqrt{L^2-x^2}}{-x} dx &= - \int \frac{1}{x} \sqrt{L^2 - x^2} dx\\
      \text{Let } x = L \sin \theta, dx = L \cos  \theta d\theta \\
-    &= - \int \frac{1}{\sin \theta } \sqrt{L^2 - L ^2 \sin  ^2 \theta } dx
+    &= - \int \frac{1}{\sin \theta } \sqrt{L^2 - L ^2 \sin  ^2 \theta } dx\\
+    &= - \int \frac{1}{\sin \theta } L \sqrt{1 - \sin  ^2 \theta } dx\\
+    &= - \int \frac{1}{\sin \theta } L \sqrt{\cos  ^2 \theta } dx\\
    \end{aligned}$$
 
 # [TODO]{.todo .TODO} water displacement {#water-displacement}
