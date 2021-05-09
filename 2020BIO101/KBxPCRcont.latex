@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13260)}}    % original
-%\rhead{\textrmlf{Compiled }\#13260\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13297)}}    % original
+%\rhead{\textrmlf{Compiled }\#13297\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -203,6 +203,13 @@
   \tightlist
   \item
     Denaturation at approximately 95°C
+
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii}.}
+    \tightlist
+    \item
+      Denaturation splits the DNA strands,
+    \end{enumerate}
   \item
     Annealing at approximately 55°C
   \item
