@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13282)}}    % original
-%\rhead{\textrmlf{Compiled }\#13282\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13283)}}    % original
+%\rhead{\textrmlf{Compiled }\#13283\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -255,7 +255,8 @@ s.t.
   3\int_{0}^{x} \sqrt{7^2 - t^2} dt + 2\int_{-7}^{0} \sqrt{7^2 - t^2} dt  &- \int_{0}^{7} \sqrt{7^2 - t^2} dt = 0\\
   3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \int_{-7}^{0} \sqrt{7^2 - t^2} dt &= 0\\
   3\int_{0}^{x} \sqrt{7^2 - t^2} dt + \frac{49\pi}{4}  &= 0\\
-  \text{Now, we need to use trigonometric substitution, apparently.}\\
+  \end{aligned}\] Now, we need to use trigonometric substitution,
+apparently. \[\begin{aligned}
   x = a \sin \theta, dx = a \cos  \theta d \theta
   \end{aligned}\]
 
