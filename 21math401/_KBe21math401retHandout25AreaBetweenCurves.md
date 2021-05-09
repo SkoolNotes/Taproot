@@ -89,8 +89,14 @@ Where $\Delta x = -x$ and $\Delta y$ can be found using the Pythagorean
 Theorem
 
 $$\begin{aligned}
-  &L ^2 = \Delta y ^2 + x ^2
-  \implies &\quad\ \Delta y = \sqrt{L^2 + x ^2}
+  &L ^2 = \Delta y ^2 + x ^2\\
+  \implies & \Delta y = \sqrt{L^2 - x ^2}
+  \end{aligned}$$
+
+Thus, the boat is moving in the direction
+
+$$\begin{aligned}
+  \frac{\sqrt{L^2-x^2}}{ -x}
   \end{aligned}$$
 
 # [TODO]{.todo .TODO} water displacement {#water-displacement}
