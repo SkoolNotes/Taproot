@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13307)}}    % original
-%\rhead{\textrmlf{Compiled }\#13307\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13308)}}    % original
+%\rhead{\textrmlf{Compiled }\#13308\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -309,7 +309,7 @@ Thus, the boat is moving in the direction
    &= - \int \frac{L \cos  \theta }{L \sin  \theta } L \cos  \theta  d\theta \\
    &= - \int L \frac{\cos ^2 \theta}{\sin  \theta} d\theta\\
    &= - L \int \frac{1}{\sin \theta } d\theta  + L \int \sin  \theta  d\theta\\
-   &= - L
+   &= L \ln  \lvert \csc x + \cot  x \rvert - L \cos  \theta
    \end{aligned}\]
 
 \hypertarget{water-displacement}{%

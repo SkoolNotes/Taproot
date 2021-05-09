@@ -113,7 +113,7 @@ $$\begin{aligned}
    &= - \int \frac{L \cos  \theta }{L \sin  \theta } L \cos  \theta  d\theta \\
    &= - \int L \frac{\cos ^2 \theta}{\sin  \theta} d\theta\\
    &= - L \int \frac{1}{\sin \theta } d\theta  + L \int \sin  \theta  d\theta\\
-   &= - L
+   &= L \ln  \lvert \csc x + \cot  x \rvert - L \cos  \theta
    \end{aligned}$$
 
 # [TODO]{.todo .TODO} water displacement {#water-displacement}
