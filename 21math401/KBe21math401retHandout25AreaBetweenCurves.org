@@ -73,11 +73,18 @@
   \end{aligned}\]
   Since $a$ is the upper half of the center portion, the width of each slice is $2a = \frac{7 \pi}{6}$
 
-* TODO tractrix
+* tractrix
   At any moment, if the boat is at $(x, y)$ and the puller is at $(0, h)$, then the velocity of the boat is in the direction
   \[\begin{aligned}
   \frac{\Delta y}{\Delta x}
   \end{aligned}\]
+
+  Where $\Delta x = x$ and $\Delta y$ can be found using the Pythagorean Theorem
+
+  \[\begin{aligned}
+  L ^2 = \Delta y ^2 + x ^2
+  \end{aligned}\]
+
 
 * TODO water displacement
 
