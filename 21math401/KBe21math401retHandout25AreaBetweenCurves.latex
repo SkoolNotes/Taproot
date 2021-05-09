@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13279)}}    % original
-%\rhead{\textrmlf{Compiled }\#13279\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13280)}}    % original
+%\rhead{\textrmlf{Compiled }\#13280\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -283,8 +283,8 @@ Where \(\Delta x = -x\) and \(\Delta y\) can be found using the
 Pythagorean Theorem
 
 \[\begin{aligned}
-  &L ^2 = \Delta y ^2 + x ^2\\
-  \implies & \Delta y = \sqrt{L^2 - x ^2}
+  &&L ^2 &= \Delta y ^2 + x ^2\\
+  \implies && \Delta y &= \sqrt{L^2 - x ^2}
   \end{aligned}\]
 
 Thus, the boat is moving in the direction
