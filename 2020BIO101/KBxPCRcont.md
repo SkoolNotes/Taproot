@@ -25,7 +25,7 @@ source:  #index
 ##### In one or two sentences for each, explain why the following mistakes would lead to a failed PCR reaction (assume 30 cycles of the typical denaturation, annealing, and extension temperature sequence unless otherwise noted):
 
 1.   *A human DNA polymerase was used rather than Taq DNA polymerase.*
-	1.   Taq polymerase was isolated from temperature-tolerant bacteria, and thus, it is thermo
+	1.   Taq polymerase was isolated from temperature-tolerant bacteria, and thus, it is thermostable. 
 2.  Nucleotides were left out of the reaction.
 3.  The denaturation phase temperature was set to 55°C.
 4.  The extension phase temperature was set to 4°C.
