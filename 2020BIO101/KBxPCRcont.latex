@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13300)}}    % original
-%\rhead{\textrmlf{Compiled }\#13300\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13301)}}    % original
+%\rhead{\textrmlf{Compiled }\#13301\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -200,7 +200,7 @@ PCR:}\label{describe-what-is-happening-during-each-cycle-of-the-pcr}}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Denaturation at approximately 95°C
+  \emph{Denaturation at approximately 95°C}
 
   \begin{enumerate}
   \def\labelenumii{\arabic{enumii}.}
@@ -210,7 +210,13 @@ PCR:}\label{describe-what-is-happening-during-each-cycle-of-the-pcr}}
     `templates'.
   \end{enumerate}
 \item
-  Annealing at approximately 55°C
+  \emph{Annealing at approximately 55°C}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+  \end{enumerate}
 \item
   Extension at approximately 72°C
 \end{enumerate}
