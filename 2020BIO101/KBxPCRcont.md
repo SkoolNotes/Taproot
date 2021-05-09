@@ -19,7 +19,7 @@ source:  #index
 	1.  Annealing allows the primers to bind to their respective sequences on the earlier created 'templates.'
 	
 2.  *Extension at approximately 72°C*
-	1.  During the Extension phase, *Taq* Polymerase 
+	1.  During the Extension phase, *Taq* polymerase creates new strands of DNA by extending the primers. 
 
 
 ##### In one or two sentences for each, explain why the following mistakes would lead to a failed PCR reaction (assume 30 cycles of the typical denaturation, annealing, and extension temperature sequence unless otherwise noted):
