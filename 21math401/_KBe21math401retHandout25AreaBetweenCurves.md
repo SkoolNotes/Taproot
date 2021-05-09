@@ -17,6 +17,10 @@ $$\begin{aligned}
 
 ## area between curves
 
+$$\begin{aligned}
+    \int_{3}^{6} 18-3x - 4x^2 + x^3 dx &=
+   \end{aligned}$$
+
 # estimate area
 
 Right handed Riemann Sum: $$\begin{aligned}
