@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13202)}}    % original
-%\rhead{\textrmlf{Compiled }\#13202\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13263)}}    % original
+%\rhead{\textrmlf{Compiled }\#13263\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -195,7 +195,7 @@
 tangency}{TODO show tangency}}\label{show-tangency}}
 
 \[\begin{aligned}
-   y = 4 x ^2 - x ^3 \\
+   \frac{dy}{dx} = \frac{d}{dx}(4 x ^2 - x ^3) = 8 x - 3 x^2\\
    y = 18 - 3 x \\
    \end{aligned}\]
 
