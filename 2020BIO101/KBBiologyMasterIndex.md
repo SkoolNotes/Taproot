@@ -50,6 +50,7 @@ source: #index
 - [[KBhBIO101MutationsAllealsInheritance]]
 - [[KBhBIO101RaceAndGenetics]]
 - [[KBhBIO101SNP]]
+- [[KBxPCRcont]]
 
 ## Quiz Review Document
 * 10092020 [[KBhBIO101BioMoleculesQuizReview]]
