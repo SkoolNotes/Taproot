@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13309)}}    % original
-%\rhead{\textrmlf{Compiled }\#13309\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13310)}}    % original
+%\rhead{\textrmlf{Compiled }\#13310\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -243,7 +243,7 @@ noted):}\label{in-one-or-two-sentences-for-each-explain-why-the-following-mistak
 \tightlist
 \item
   \emph{A human DNA polymerase was used rather than Taq DNA polymerase.}
-  1. Taq polymerase was isolated from a temperature-tolerant
+  1. Taq polymerase was isolated from temperature-tolerant bacteria
 \item
   Nucleotides were left out of the reaction.
 \item
