@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13298)}}    % original
-%\rhead{\textrmlf{Compiled }\#13298\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13299)}}    % original
+%\rhead{\textrmlf{Compiled }\#13299\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -192,29 +192,27 @@
 \hypertarget{questions}{%
 \subsection{Questions}\label{questions}}
 
+\hypertarget{describe-what-is-happening-during-each-cycle-of-the-pcr}{%
+\paragraph{Describe what is happening during each cycle of the
+PCR:}\label{describe-what-is-happening-during-each-cycle-of-the-pcr}}
+
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Describe what is happening during each cycle of the PCR:
+  Denaturation at approximately 95°C
 
   \begin{enumerate}
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
-    Denaturation at approximately 95°C
-
-    \begin{enumerate}
-    \def\labelenumiii{\arabic{enumiii}.}
-    \tightlist
-    \item
-      Denaturation splits the DNA, creating single-stranded
-    \end{enumerate}
-  \item
-    Annealing at approximately 55°C
-  \item
-    Extension at approximately 72°C
+    Denaturation splits the DNA, creating single-strands which act as
+    `templates'.
   \end{enumerate}
+\item
+  Annealing at approximately 55°C
+\item
+  Extension at approximately 72°C
 \item
   In one or two sentences for each, explain why the following mistakes
   would lead to a failed PCR reaction (assume 30 cycles of the typical

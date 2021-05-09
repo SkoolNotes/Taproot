@@ -11,11 +11,11 @@ source:  #index
 
 ## Questions 
 
-1.  Describe what is happening during each cycle of the PCR:
-    1.  Denaturation at approximately 95°C
-		1.  Denaturation splits the DNA, creating single-stranded 
-    1.  Annealing at approximately 55°C
-    2.  Extension at approximately 72°C
+####  Describe what is happening during each cycle of the PCR:
+1.  Denaturation at approximately 95°C
+	1.  Denaturation splits the DNA, creating single-strands which act as 'templates'.
+1.  Annealing at approximately 55°C
+2.  Extension at approximately 72°C
 2.  In one or two sentences for each, explain why the following mistakes would lead to a failed PCR reaction (assume 30 cycles of the typical denaturation, annealing, and extension temperature sequence unless otherwise noted):
     1.   A human DNA polymerase was used rather than Taq DNA polymerase.
     2.  Nucleotides were left out of the reaction.
