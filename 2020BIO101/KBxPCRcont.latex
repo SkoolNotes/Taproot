@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13305)}}    % original
-%\rhead{\textrmlf{Compiled }\#13305\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13306)}}    % original
+%\rhead{\textrmlf{Compiled }\#13306\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -226,8 +226,8 @@ PCR:}\label{describe-what-is-happening-during-each-cycle-of-the-pcr}}
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
-    During the Extension phase, \emph{Taq} polymerase creates new
-    strands of DNA by extending the primers.
+    During the Extension phase, Taq polymerase creates new strands of
+    DNA by extending the primers.
   \end{enumerate}
 \end{enumerate}
 
@@ -242,7 +242,8 @@ noted):}\label{in-one-or-two-sentences-for-each-explain-why-the-following-mistak
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  A human DNA polymerase was used rather than Taq DNA polymerase.
+  \emph{A human DNA polymerase was used rather than Taq DNA polymerase.}
+  1. Taq
 \item
   Nucleotides were left out of the reaction.
 \item
