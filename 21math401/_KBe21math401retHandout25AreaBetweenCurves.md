@@ -114,7 +114,7 @@ $$\begin{aligned}
    &= - \int L \frac{\cos ^2 \theta}{\sin  \theta} d\theta\\
    &= - L \int \frac{1}{\sin \theta } d\theta  + L \int \sin  \theta  d\theta\\
    &= L \ln  \lvert \csc \theta  + \cot  \theta  \rvert - L \cos  \theta +C\\
-   &= L \ln  \lvert \csc \theta  + \cot  \theta  \rvert - L \cos  \theta +C
+   &= L \ln  \lvert \frac{49}{x^2}  + \frac{\sqrt{49-x^2}}{x^2} \rvert - L \cos  \theta +C
    \end{aligned}$$
 
 # [TODO]{.todo .TODO} water displacement {#water-displacement}
