@@ -110,7 +110,8 @@ $$\begin{aligned}
    &= - \int \frac{1}{L \sin \theta } \sqrt{L^2 - L ^2 \sin  ^2 \theta } dx\\
    &= - \int \frac{1}{L \sin \theta } L \sqrt{1 - \sin  ^2 \theta } dx\\
    &= - \int \frac{1}{L \sin \theta } L \sqrt{\cos  ^2 \theta } dx\\
-   &= - \int \frac{L \cos  \theta }{L \sin  \theta } dx\\
+   &= - \int \frac{L \cos  \theta }{L \sin  \theta } L \cos  \theta  d\theta \\
+   &= - \int L \cot \theta \cos  \theta d\theta
    \end{aligned}$$
 
 # [TODO]{.todo .TODO} water displacement {#water-displacement}
