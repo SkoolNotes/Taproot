@@ -1,1 +1,5 @@
-uwu
+# amazing
+
+$$\begin{aligned}
+  3 + 2 =
+  \end{aligned}$$
