@@ -34,7 +34,7 @@ source:  #index
 	1. A temperature of 55°C is not sufficient to denature the DNA strands. A temperature of ~95°C is needed.
 	
 4.  *The extension phase temperature was set to 4°C.*
-	1. Without a temperature of ~72°C
+	1. Without a temperature of ~72°C, Taq polymerase 
 
 #### Luke set up his first PCR reaction recently. After Luke's teacher ran his sample through the correct program on the thermal cycler, she analyzed the results. Strangely, she noticed that most of Luke's PCR product was **single-stranded** **rather than double-stranded DNA**, and that his **total yield of PCR product was** **lower than expected** (but he still had more material after thermocycling than before). Luke said he got distracted by a classmate while setting up the PCR, and might have left out one ingredient. **What do you think Luke left out of his PCR reaction and why? Your explanation should be linked to the strange results that the teacher noticed.**
 
