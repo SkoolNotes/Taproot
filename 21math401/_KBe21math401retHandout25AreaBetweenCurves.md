@@ -75,7 +75,8 @@ horizontally instead of vertically) $$\begin{aligned}
   \frac{49\pi }{2} -\left( 7a - -7a \right)  = \frac{49\pi }{3}\\
   \frac{49\pi }{6} = 14a\\
   a = \frac{49\pi }{84} = \frac{7\pi }{12}
-  \end{aligned}$$
+  \end{aligned}$$ Since $a$ is the upper half of the center portion, the
+width of each slice is $2a = \frac{7 \pi}{6}$
 
 # [TODO]{.todo .TODO} tractrix {#tractrix}
 
