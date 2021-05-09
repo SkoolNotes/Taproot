@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13317)}}    % original
-%\rhead{\textrmlf{Compiled }\#13317\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13318)}}    % original
+%\rhead{\textrmlf{Compiled }\#13318\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -246,7 +246,14 @@ noted):}\label{in-one-or-two-sentences-for-each-explain-why-the-following-mistak
   and thus, it is thermostable. Human DNA polymerase is not, and would
   be nonfunctional under the temperatures used in PCR.
 \item
-  Nucleotides were left out of the reaction.
+  \emph{Nucleotides were left out of the reaction.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Nucleotides are the building blocks of DNA. Without them,
+  \end{enumerate}
 \item
   The denaturation phase temperature was set to 55°C.
 \item

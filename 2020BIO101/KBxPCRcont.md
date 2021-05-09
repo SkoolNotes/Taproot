@@ -27,7 +27,8 @@ source:  #index
 1.   *A human DNA polymerase was used rather than Taq DNA polymerase.*
 	1.   Taq DNA polymerase was isolated from temperature-tolerant bacteria, and thus, it is thermostable. Human DNA polymerase is not, and would be nonfunctional under the temperatures used in PCR.
 	
-2.  Nucleotides were left out of the reaction.
+2. *Nucleotides were left out of the reaction.*
+	1. Nucleotides are the building blocks of DNA. Without them, 
 3.  The denaturation phase temperature was set to 55°C.
 4.  The extension phase temperature was set to 4°C.
 
