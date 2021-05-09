@@ -31,7 +31,7 @@ source:  #index
 	1. Nucleotides are the building blocks of DNA. Without them, the DNA could not be synthesized. 
 	
 3.  *The denaturation phase temperature was set to 55°C.*
-	1. A temperature of 
+	1. A temperature of 55°C is not sufficient to denature the DNA strands. A temperature of ~95°C is needed.
 	
 4.  The extension phase temperature was set to 4°C.
 

@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13319)}}    % original
-%\rhead{\textrmlf{Compiled }\#13319\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13320)}}    % original
+%\rhead{\textrmlf{Compiled }\#13320\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -262,7 +262,8 @@ noted):}\label{in-one-or-two-sentences-for-each-explain-why-the-following-mistak
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
-    A temperature of
+    A temperature of 55°C is not sufficient to denature the DNA strands.
+    A temperature of \textasciitilde95°C is needed.
   \end{enumerate}
 \item
   The extension phase temperature was set to 4°C.
