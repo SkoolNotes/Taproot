@@ -80,6 +80,8 @@ width of each slice is $2a = \frac{7 \pi}{6}$
 
 # tractrix
 
+## derivative
+
 At any moment, if the boat is at $(x, y)$ and the puller is at $(0, h)$,
 then the velocity of the boat is in the direction $$\begin{aligned}
   \frac{\Delta y}{\Delta x}
@@ -98,6 +100,8 @@ Thus, the boat is moving in the direction
 $$\begin{aligned}
   \frac{\sqrt{L^2-x^2}}{ -x}
   \end{aligned}$$
+
+## integral
 
 # [TODO]{.todo .TODO} water displacement {#water-displacement}
 

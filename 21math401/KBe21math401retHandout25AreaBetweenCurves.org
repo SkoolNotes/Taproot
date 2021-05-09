@@ -74,6 +74,9 @@
   Since $a$ is the upper half of the center portion, the width of each slice is $2a = \frac{7 \pi}{6}$
 
 * tractrix
+
+** derivative
+
   At any moment, if the boat is at $(x, y)$ and the puller is at $(0, h)$, then the velocity of the boat is in the direction
   \[\begin{aligned}
   \frac{\Delta y}{\Delta x}
@@ -92,7 +95,8 @@
   \frac{\sqrt{L^2-x^2}}{ -x}
   \end{aligned}\]
 
-** derivative
+** integral
+
 
 * TODO water displacement
 
