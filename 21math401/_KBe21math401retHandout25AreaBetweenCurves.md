@@ -18,7 +18,7 @@ $$\begin{aligned}
 ## area between curves
 
 $$\begin{aligned}
-    \int_{3}^{6} 18-3x - 4x^2 + x^3 dx &=
+    \int_{3}^{6} 18-3x - 4x^2 + x^3 dx &= \frac{1}{4}x^4 - \frac{1}{3}4x^3 - \frac{1}{2} 3x^2 + 18 x
    \end{aligned}$$
 
 # estimate area
