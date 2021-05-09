@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13263)}}    % original
-%\rhead{\textrmlf{Compiled }\#13263\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13264)}}    % original
+%\rhead{\textrmlf{Compiled }\#13264\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -195,8 +195,9 @@
 tangency}{TODO show tangency}}\label{show-tangency}}
 
 \[\begin{aligned}
-   \frac{dy}{dx} = \frac{d}{dx}(4 x ^2 - x ^3) = 8 x - 3 x^2\\
-   y = 18 - 3 x \\
+   \frac{dy}{dx} = \frac{d}{dx}(4 x ^2 - x ^3) = 8 x - 3 x^2&\Bigr|_3\\
+   &= 24 - 27 = -3\\
+   \frac{dy}{dx} = \frac{d}{dx}(18 - 3 x) = -3 \\
    \end{aligned}\]
 
 Point of intersection:

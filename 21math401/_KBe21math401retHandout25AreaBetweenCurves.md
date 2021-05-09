@@ -10,8 +10,9 @@ title: Handout 25 Additional Answers
 ## [TODO]{.todo .TODO} show tangency {#show-tangency}
 
 $$\begin{aligned}
-   \frac{dy}{dx} = \frac{d}{dx}(4 x ^2 - x ^3) = 8 x - 3 x^2\\
-   y = 18 - 3 x \\
+   \frac{dy}{dx} = \frac{d}{dx}(4 x ^2 - x ^3) = 8 x - 3 x^2&\Bigr|_3\\
+   &= 24 - 27 = -3\\
+   \frac{dy}{dx} = \frac{d}{dx}(18 - 3 x) = -3 \\
    \end{aligned}$$
 
 Point of intersection:
