@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13289)}}    % original
-%\rhead{\textrmlf{Compiled }\#13289\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13290)}}    % original
+%\rhead{\textrmlf{Compiled }\#13290\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -302,8 +302,8 @@ Thus, the boat is moving in the direction
 
 \[\begin{aligned}
     \int \frac{\sqrt{L^2-x^2}}{-x} dx &= - \int \frac{1}{x} \sqrt{L^2 - x^2} dx\\
-     \text{Let } x = \sin \theta, dx = \cos  \theta d\theta \\
-    &= - \int  dx
+     \text{Let } x = L \sin \theta, dx = L \cos  \theta d\theta \\
+    &= - \int \frac{1}{\sin \theta } \sqrt{L^2 - L ^2 \sin  ^2 \theta } dx
    \end{aligned}\]
 
 \hypertarget{water-displacement}{%
