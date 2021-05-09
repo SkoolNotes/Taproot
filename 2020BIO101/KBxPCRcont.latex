@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13320)}}    % original
-%\rhead{\textrmlf{Compiled }\#13320\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13321)}}    % original
+%\rhead{\textrmlf{Compiled }\#13321\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -266,7 +266,13 @@ noted):}\label{in-one-or-two-sentences-for-each-explain-why-the-following-mistak
     A temperature of \textasciitilde95°C is needed.
   \end{enumerate}
 \item
-  The extension phase temperature was set to 4°C.
+  \emph{The extension phase temperature was set to 4°C.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+  \end{enumerate}
 \end{enumerate}
 
 \hypertarget{luke-set-up-his-first-pcr-reaction-recently.-after-lukes-teacher-ran-his-sample-through-the-correct-program-on-the-thermal-cycler-she-analyzed-the-results.-strangely-she-noticed-that-most-of-lukes-pcr-product-was-single-stranded-rather-than-double-stranded-dna-and-that-his-total-yield-of-pcr-product-was-lower-than-expected-but-he-still-had-more-material-after-thermocycling-than-before.-luke-said-he-got-distracted-by-a-classmate-while-setting-up-the-pcr-and-might-have-left-out-one-ingredient.-what-do-you-think-luke-left-out-of-his-pcr-reaction-and-why-your-explanation-should-be-linked-to-the-strange-results-that-the-teacher-noticed.}{%
