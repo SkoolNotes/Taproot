@@ -103,6 +103,10 @@ $$\begin{aligned}
 
 ## integral
 
+$$\begin{aligned}
+    \int \frac{\sqrt{L^2-x^2}}{-x} dx &= - \int \frac{1}{x} \sqrt{L^2 - x^2} dx
+   \end{aligned}$$
+
 # [TODO]{.todo .TODO} water displacement {#water-displacement}
 
 Plan: find a function $f(r)$ which represents the amount of water
