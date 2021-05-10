@@ -22,6 +22,7 @@ source:  #index
 
 - rs6902875
 	- episodic memory
+	- https://pubmed.ncbi.nlm.nih.gov/25317765/
 
 
 
