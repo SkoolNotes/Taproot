@@ -13,7 +13,9 @@ source:  #index
 
 ## General
 
-### SNPs
+### SNiPs
+
+- CYP1A2 gene
 
 
 

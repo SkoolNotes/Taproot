@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13385)}}    % original
-%\rhead{\textrmlf{Compiled }\#13385\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13386)}}    % original
+%\rhead{\textrmlf{Compiled }\#13386\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -192,7 +192,13 @@
 \hypertarget{general}{%
 \subsection{General}\label{general}}
 
-\hypertarget{snps}{%
-\subsubsection{SNPs}\label{snps}}
+\hypertarget{snips}{%
+\subsubsection{SNiPs}\label{snips}}
+
+\begin{itemize}
+\tightlist
+\item
+  CYP1A2 gene
+\end{itemize}
 
 \end{document}
