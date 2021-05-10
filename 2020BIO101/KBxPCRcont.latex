@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13342)}}    % original
-%\rhead{\textrmlf{Compiled }\#13342\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13343)}}    % original
+%\rhead{\textrmlf{Compiled }\#13343\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -299,7 +299,8 @@ Luke most likely left out either his forward primers or reverse primers.
 This absence would lead to only one strand being a source of
 replication, as only one strand would have the primers. Thus, many
 single strands would form as the source of replication would not be able
-to be replicated -- only its partner strand would be.
+to be replicated -- only its partner strand would be. This would lead to
+the expected results
 
 ingrdients: - Taq: nope - primers: withought primers, no replication -
 template DNA: no, otherwise would have nothing. Actully, could just use
