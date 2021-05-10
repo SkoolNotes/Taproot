@@ -24,8 +24,7 @@ source:  #index
 	- episodic memory
 	- https://pubmed.ncbi.nlm.nih.gov/25317765/
 
-
-
-
-
+- rs4680
+	- pain tolerance, worrier/warrior 
+	- https://www.snpedia.com/index.php/Rs4680
 
