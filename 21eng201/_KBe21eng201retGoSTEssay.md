@@ -43,6 +43,9 @@ title: God of Small Things Essay
 
 13. chacko\'s cupboard of damaged balsa airplanes (113)
 
+14. cupboards were dangerous to open because clothes and books and shoes
+    would cascade down (chackos cupboards) (116)
+
 ### getting lost in cupboards
 
 1.  cupboards with built-in bedrooms (metaphor for punishment, 55)
