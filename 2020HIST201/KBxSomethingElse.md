@@ -111,6 +111,11 @@ DATES:
 - paydate
 - late?
 
+PAY:
+- amountDue
+- amountPaid
+- amountPastDue
+
 IDS:
 - ctr
 - cid
@@ -120,10 +125,6 @@ BAL:
 - initial bal, current bal
 
 
-PAY:
-- amountDue
-- amountPaid
-- amoundPastDue
 
 else: personal
 

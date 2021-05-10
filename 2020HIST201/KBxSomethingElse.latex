@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13380)}}    % original
-%\rhead{\textrmlf{Compiled }\#13380\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13381)}}    % original
+%\rhead{\textrmlf{Compiled }\#13381\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -280,11 +280,11 @@ Sorting
 
 DATES: - due date - paydate - late?
 
+PAY: - amountDue - amountPaid - amountPastDue
+
 IDS: - ctr - cid - lid
 
 BAL: - initial bal, current bal
-
-PAY: - amountDue - amountPaid - amoundPastDue
 
 else: personal
 
