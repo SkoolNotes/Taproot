@@ -27,7 +27,7 @@ People of the same haplotype are likely of same ancestry.
 ## the Reaction
 - Each student's PCR reaction will only amplify 500-800 nucleotide region
 - Find SNPs that have specific traits independently, because most SNPs are polygenic (they tell you info only if you discover many different SNPs, which is complicated and hard)
-- SNPs are sometimes discovered using Genome Wide Association Studies, which is challenging to deal with
+- SNPs are sometimes discovered using Genome Wide Association Studies, which is challenging to deal with because they may be flawed
 
 ***
 
