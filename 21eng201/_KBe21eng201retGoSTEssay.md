@@ -25,7 +25,9 @@ title: God of Small Things Essay
 5.  \'shut it when you\'ve finished it, baby kochamma said, and closed
     her face like a cupboard\' (15)
 
-6.  baby kochamma\'s ooty cupboards
+6.  baby kochamma\'s ooty cupboards, thermos flask in cupboard
+
+7.  swollen cupboards creaked - dampness
 
 ### getting lost in cupboards
 
