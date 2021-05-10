@@ -46,6 +46,9 @@ title: God of Small Things Essay
 14. cupboards were dangerous to open because clothes and books and shoes
     would cascade down (chackos cupboards) (116)
 
+15. glass-paned cupboard in comrade pallai\'s house with curtains to
+    hide the contents (126)
+
 ### getting lost in cupboards
 
 1.  cupboards with built-in bedrooms (metaphor for punishment, 55)
