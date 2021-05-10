@@ -42,8 +42,8 @@ source:  #index
 ingrdients: 
 - Taq
 - primers
-- template DNA
-- nucleotides
+- template DNA: no, otherwise would have nothing
+- nucleotides: cant be cus more material
 
 
 

@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13333)}}    % original
-%\rhead{\textrmlf{Compiled }\#13333\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13334)}}    % original
+%\rhead{\textrmlf{Compiled }\#13334\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -295,6 +295,7 @@ and why? Your explanation should be linked to the strange results that
 the teacher noticed.}*
 \end{quote}
 
-ingrdients: - Taq - primers - template DNA - nucleotides
+ingrdients: - Taq - primers - template DNA: no, otherwise would have
+nothing - nucleotides: cant be cus more material
 
 \end{document}
