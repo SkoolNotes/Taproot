@@ -117,7 +117,12 @@ BAL:
 DATES:
 - due date
 - paydate
-- 
+- late?
+
+PAY:
+- amountDue
+- amountPaid
+- amoundPastDue
 
 
 #### Dealers

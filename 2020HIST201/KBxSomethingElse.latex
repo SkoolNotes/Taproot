@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13377)}}    % original
-%\rhead{\textrmlf{Compiled }\#13377\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13378)}}    % original
+%\rhead{\textrmlf{Compiled }\#13378\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -282,7 +282,9 @@ IDS: - ctr - cid - lid
 
 BAL: - initial bal, current bal
 
-DATES: - due date - paydate -
+DATES: - due date - paydate - late?
+
+PAY: - amountDue - amountPaid - amoundPastDue
 
 \hypertarget{dealers}{%
 \paragraph{Dealers}\label{dealers}}
