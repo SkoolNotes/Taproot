@@ -19,6 +19,12 @@ title: God of Small Things Essay
 3.  \'he was never sure which cupboard he might have to open ...
     counting his keys\' train crossing man (31)
 
+4.  \'his mind was full of cupboards, cluttered with secret
+    pleasures\' (30)
+
+5.  \'shut it when you\'ve finished it, baby kochamma said, and closed
+    her face like a cupboard\' (15)
+
 ### getting lost in cupboards
 
 1.  cupboards with built-in bedrooms (metaphor for punishment, 55)
