@@ -36,6 +36,8 @@ title: God of Small Things Essay
 
 10. label cupboard full of labels (92), it was red apparently
 
+11. velutha has no keys to count or cupboards to lock (99)
+
 ### getting lost in cupboards
 
 1.  cupboards with built-in bedrooms (metaphor for punishment, 55)
