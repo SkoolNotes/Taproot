@@ -59,6 +59,11 @@ title: God of Small Things Essay
 
 1.  cupboards with built-in bedrooms (metaphor for punishment, 55)
 
+    1.  \'\[the twins\] only asked for punishments that fit their
+        crimes. Not ones that came like cupboards with built-in
+        bedrooms. Not the ones you spent your whole life in, wandering
+        through it\'s maze of shelves\'
+
 ## reversed containment
 
 ### river in the boat
