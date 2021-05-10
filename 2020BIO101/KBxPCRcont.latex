@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13340)}}    % original
-%\rhead{\textrmlf{Compiled }\#13340\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13341)}}    % original
+%\rhead{\textrmlf{Compiled }\#13341\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -297,7 +297,8 @@ the teacher noticed.}*
 
 Luke most likely left out either his forward primers or reverse primers.
 This absence would lead to only one strand being a source of
-replication, as only one strand would have the primers.
+replication, as only one strand would have the primers. Thus, many
+single strands would form
 
 ingrdients: - Taq: nope - primers: withought primers, no replication -
 template DNA: no, otherwise would have nothing. Actully, could just use
