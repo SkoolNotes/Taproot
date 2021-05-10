@@ -22,7 +22,7 @@ People of the same haplotype are likely of same ancestry.
 
 ## SNP Guidelines
 * No medical SNPs; so avoid SNPs that could be associated with heavy medical information
-* No SNPs that could potentially give 
+* No SNPs that could potentially give you PTSD
 
 ***
 
