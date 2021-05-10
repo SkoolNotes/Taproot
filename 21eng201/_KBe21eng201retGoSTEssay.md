@@ -38,6 +38,11 @@ title: God of Small Things Essay
 
 11. velutha has no keys to count or cupboards to lock (99)
 
+12. waking ammu from her velutha dream using a creaky cupboard
+    door (104)
+
+13. chacko\'s cupboard of damaged balsa airplanes (113)
+
 ### getting lost in cupboards
 
 1.  cupboards with built-in bedrooms (metaphor for punishment, 55)
