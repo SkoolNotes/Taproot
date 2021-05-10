@@ -40,13 +40,13 @@ source:  #index
 > After Luke's teacher ran his sample through the correct program on the thermal cycler, she analyzed the results. Strangely, she noticed that most of Luke's PCR product was **single-stranded** **rather than double-stranded DNA**, and that his **total yield of PCR product was** **lower than expected** (but he still had more material after thermocycling than before). Luke said he got distracted by a classmate while setting up the PCR, and might have left out one ingredient. **What do you think Luke left out of his PCR reaction and why? Your explanation should be linked to the strange results that the teacher noticed.***
 
 ingrdients: 
-- Taq
-- primers
-- template DNA: no, otherwise would have nothing
+- Taq: nope
+- primers: withought primers, no replication
+- template DNA: no, otherwise would have nothing. Actully, could just use primers?
 - nucleotides: cant be cus more material
 
 
-
+- buffer?
 
 
 
