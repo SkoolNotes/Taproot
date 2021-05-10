@@ -14,6 +14,8 @@ title: God of Small Things Essay
 
 1.  rat making trips to cupboard at doctors office (63)
 
+2.  \'room kept its secrets ... cupboards closed\' (43)
+
 ### getting lost in cupboards
 
 1.  cupboards with built-in bedrooms (metaphor for punishment, 55)
