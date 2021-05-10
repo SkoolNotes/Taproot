@@ -29,6 +29,8 @@ title: God of Small Things Essay
 
 7.  swollen cupboards creaked - dampness
 
+8.  Wisdom exercise notebooks book cupboard (74)
+
 ### getting lost in cupboards
 
 1.  cupboards with built-in bedrooms (metaphor for punishment, 55)
