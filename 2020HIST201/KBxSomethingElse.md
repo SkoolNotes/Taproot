@@ -106,6 +106,11 @@ Lastmod
 
 ###### Sorting
 
+DATES:
+- due date
+- paydate
+- late?
+
 IDS:
 - ctr
 - cid
@@ -114,10 +119,6 @@ IDS:
 BAL:
 - initial bal, current bal
 
-DATES:
-- due date
-- paydate
-- late?
 
 PAY:
 - amountDue
