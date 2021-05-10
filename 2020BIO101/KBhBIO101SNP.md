@@ -25,7 +25,7 @@ People of the same haplotype are likely of same ancestry.
 * No SNPs that could potentially give you PTSD
 
 ## the Reaction
-- TEach student
+- Each student's PCR reaction will only amplify 500-800 nucleotide region
 
 ***
 

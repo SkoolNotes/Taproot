@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13395)}}    % original
-%\rhead{\textrmlf{Compiled }\#13395\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13396)}}    % original
+%\rhead{\textrmlf{Compiled }\#13396\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -233,7 +233,8 @@ People of the same haplotype are likely of same ancestry.
 \begin{itemize}
 \tightlist
 \item
-  TEach student
+  Each student's PCR reaction will only amplify 500-800 nucleotide
+  region
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
