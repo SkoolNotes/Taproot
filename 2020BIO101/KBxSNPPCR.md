@@ -20,7 +20,8 @@ source:  #index
 		- encodes for the 1C variant,
 		- which encodes for slow caffeine metabolism
 
-
+- rs6902875
+	- episodic memory
 
 
 
