@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13387)}}    % original
-%\rhead{\textrmlf{Compiled }\#13387\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13388)}}    % original
+%\rhead{\textrmlf{Compiled }\#13388\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -209,6 +209,8 @@
     \tightlist
     \item
       encodes for the 1C variant,
+    \item
+      which encodes for slow caffeine metabolism
     \end{itemize}
   \end{itemize}
 \end{itemize}

@@ -17,7 +17,8 @@ source:  #index
 
 - CYP1A2 gene
 	- specifically, rs2069514
-		- encodes for the 1C variant, 
+		- encodes for the 1C variant,
+		- which encodes for slow caffeine metabolism
 
 
 
