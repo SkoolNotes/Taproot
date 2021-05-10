@@ -43,11 +43,17 @@ title: God of Small Things Essay
 
 13. chacko\'s cupboard of damaged balsa airplanes (113)
 
+    1.  \"Pickle Baron-dreams and the People\'s War joined the racks of
+        broken balsa planes\" in Chacko\'s cupboard (132)
+
 14. cupboards were dangerous to open because clothes and books and shoes
     would cascade down (chackos cupboards) (116)
 
 15. glass-paned cupboard in comrade pallai\'s house with curtains to
     hide the contents (126)
+
+    1.  whatever comrade pallai stored in his curtained cupboard, it
+        wasn\'t broken balsa airplanes
 
 ### getting lost in cupboards
 
