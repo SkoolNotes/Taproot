@@ -44,6 +44,8 @@ title: God of Small Things Essay
 10. cupboards were dangerous to open because clothes and books and shoes
     would cascade down (chackos cupboards) (116)
 
+### locks
+
 ### secrets inside cupboards
 
 1.  \'his mind was full of cupboards, cluttered with secret
