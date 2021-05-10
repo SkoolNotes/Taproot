@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13392)}}    % original
-%\rhead{\textrmlf{Compiled }\#13392\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13393)}}    % original
+%\rhead{\textrmlf{Compiled }\#13393\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -224,7 +224,7 @@ People of the same haplotype are likely of same ancestry.
   No medical SNPs; so avoid SNPs that could be associated with heavy
   medical information
 \item
-  No SNP
+  No SNPs that could potentially give
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
