@@ -16,6 +16,8 @@ source:  #index
 ### SNiPs
 
 - CYP1A2 gene
+	- specifically, rs2069514
+		- encodes for the 1C variant, 
 
 
 

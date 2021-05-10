@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13386)}}    % original
-%\rhead{\textrmlf{Compiled }\#13386\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13387)}}    % original
+%\rhead{\textrmlf{Compiled }\#13387\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -199,6 +199,18 @@
 \tightlist
 \item
   CYP1A2 gene
+
+  \begin{itemize}
+  \tightlist
+  \item
+    specifically, rs2069514
+
+    \begin{itemize}
+    \tightlist
+    \item
+      encodes for the 1C variant,
+    \end{itemize}
+  \end{itemize}
 \end{itemize}
 
 \end{document}
