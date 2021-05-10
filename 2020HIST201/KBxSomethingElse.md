@@ -124,6 +124,7 @@ PAY:
 - amountPaid
 - amoundPastDue
 
+else: personal
 
 #### Dealers
 DealerName
