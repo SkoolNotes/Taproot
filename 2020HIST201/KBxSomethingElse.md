@@ -81,6 +81,8 @@ still ahve qestions? contact us
 
 ## some more forms
 
+bubbles, then buttons that redireact
+
 #### Customers
 first name
 last name 
