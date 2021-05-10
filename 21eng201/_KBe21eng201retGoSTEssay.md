@@ -16,6 +16,8 @@ title: God of Small Things Essay
 
 ### getting lost in cupboards
 
+1.  cupboards with built-in bedrooms (metaphor for punishment, 55)
+
 ## reversed containment
 
 ### river in the boat
