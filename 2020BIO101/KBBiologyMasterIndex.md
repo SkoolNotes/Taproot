@@ -51,6 +51,7 @@ source: #index
 - [[KBhBIO101RaceAndGenetics]]
 - [[KBhBIO101SNP]]
 - [[KBxPCRcont]]
+- [[KBxSNPPCR]]
 
 ## Quiz Review Document
 * 10092020 [[KBhBIO101BioMoleculesQuizReview]]
