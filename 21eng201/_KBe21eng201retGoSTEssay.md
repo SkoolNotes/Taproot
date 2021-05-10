@@ -16,6 +16,9 @@ title: God of Small Things Essay
 
 2.  \'room kept its secrets ... cupboards closed\' (43)
 
+3.  \'he was never sure which cupboard he might have to open ...
+    counting his keys\' train crossing man (31)
+
 ### getting lost in cupboards
 
 1.  cupboards with built-in bedrooms (metaphor for punishment, 55)
