@@ -31,6 +31,9 @@ title: God of Small Things Essay
 
 8.  Wisdom exercise notebooks book cupboard (74)
 
+9.  pappachi\'s got mamachi\'s shears from her sewing cupboard to shred
+    ammu\'s boots
+
 ### getting lost in cupboards
 
 1.  cupboards with built-in bedrooms (metaphor for punishment, 55)
