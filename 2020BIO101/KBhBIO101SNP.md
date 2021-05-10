@@ -24,6 +24,9 @@ People of the same haplotype are likely of same ancestry.
 * No medical SNPs; so avoid SNPs that could be associated with heavy medical information
 * No SNPs that could potentially give you PTSD
 
+## the Reaction
+- TEach student
+
 ***
 
 ##  Polymerase Chain Reaction (PCR)
