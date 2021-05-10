@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13336)}}    % original
-%\rhead{\textrmlf{Compiled }\#13336\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13337)}}    % original
+%\rhead{\textrmlf{Compiled }\#13337\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -294,6 +294,8 @@ ingredient. \textbf{What do you think Luke left out of his PCR reaction
 and why? Your explanation should be linked to the strange results that
 the teacher noticed.}*
 \end{quote}
+
+Luke
 
 ingrdients: - Taq: nope - primers: withought primers, no replication -
 template DNA: no, otherwise would have nothing. Actully, could just use
