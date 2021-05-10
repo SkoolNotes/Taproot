@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13344)}}    % original
-%\rhead{\textrmlf{Compiled }\#13344\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13345)}}    % original
+%\rhead{\textrmlf{Compiled }\#13345\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -300,16 +300,6 @@ This absence would lead to only one strand being a source of
 replication, as only one strand would have the primers. Thus, many
 single strands would form as the source of replication would not be able
 to be replicated -- only its partner strand would be. Hence, Luke would
-end up with mostly single stranded DNA, and less
-
-ingrdients: - Taq: nope - primers: withought primers, no replication -
-template DNA: no, otherwise would have nothing. Actully, could just use
-primers? - nucleotides: cant be cus more material
-
-\begin{itemize}
-\tightlist
-\item
-  buffer?
-\end{itemize}
+end up with mostly single stranded DNA, and less product than expected.
 
 \end{document}

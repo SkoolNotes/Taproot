@@ -39,21 +39,7 @@ source:  #index
 #### Luke set up his first PCR reaction recently.
 > After Luke's teacher ran his sample through the correct program on the thermal cycler, she analyzed the results. Strangely, she noticed that most of Luke's PCR product was **single-stranded** **rather than double-stranded DNA**, and that his **total yield of PCR product was** **lower than expected** (but he still had more material after thermocycling than before). Luke said he got distracted by a classmate while setting up the PCR, and might have left out one ingredient. **What do you think Luke left out of his PCR reaction and why? Your explanation should be linked to the strange results that the teacher noticed.***
 
-
-Luke most likely left out either his forward primers or reverse primers. This absence would lead to only one strand being a source of replication, as only one strand would have the primers. Thus, many single strands would form as the source of replication would not be able to be replicated -- only its partner strand would be. Hence, Luke would end up with mostly single stranded DNA, and less 
-
-
-
-ingrdients: 
-- Taq: nope
-- primers: withought primers, no replication
-- template DNA: no, otherwise would have nothing. Actully, could just use primers?
-- nucleotides: cant be cus more material
-
-
-- buffer?
-
-
+Luke most likely left out either his forward primers or reverse primers. This absence would lead to only one strand being a source of replication, as only one strand would have the primers. Thus, many single strands would form as the source of replication would not be able to be replicated -- only its partner strand would be. Hence, Luke would end up with mostly single stranded DNA, and less product than expected.
 
 
 
