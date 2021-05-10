@@ -8,10 +8,10 @@ title: God of Small Things Essay
 
 ### cupboards to lock as a symbol of wealth
 
-1.  baby kochamma
+1.  baby kochamma with cupboards of thermos and insulin(14)
 
-    1.  \"Foreign returnees ... with keys to count, and cupboards to
-        lock\" (67)
+2.  \"Foreign returnees ... with keys to count, and cupboards to
+    lock\" (67)
 
 ### things inside cupboards
 
