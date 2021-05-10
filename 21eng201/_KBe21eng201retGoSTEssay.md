@@ -55,6 +55,8 @@ title: God of Small Things Essay
     1.  whatever comrade pallai stored in his curtained cupboard, it
         wasn\'t broken balsa airplanes
 
+### secrets inside cupboards
+
 ### getting lost in cupboards
 
 1.  cupboards with built-in bedrooms (metaphor for punishment, 55)
