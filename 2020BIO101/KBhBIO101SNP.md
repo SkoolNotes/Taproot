@@ -16,6 +16,14 @@ These could do absolutely nothing, but they could also create large trait differ
 
 _The DNA by mail kits are actually just looking for SNPs!_
 
+Multiple SNPs come together to form a "Haplotype"; they are SNPs that are fairly close together that frequently occur in sequence (like the chain of three SNPs A something something G something something T would be a haplotype.)
+
+People of the same haplotype are likely of same ancestry.
+
+## SNP Guidelines
+* No medical SNPs; so avoid SNPs that could be associated with heavy medical information
+* No SNP
+
 ***
 
 ##  Polymerase Chain Reaction (PCR)

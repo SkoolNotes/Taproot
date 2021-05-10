@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13131)}}    % original
-%\rhead{\textrmlf{Compiled }\#13131\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13392)}}    % original
+%\rhead{\textrmlf{Compiled }\#13392\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -207,6 +207,25 @@ These could do absolutely nothing, but they could also create large
 trait differences (sickle-cell is a SNP).
 
 \emph{The DNA by mail kits are actually just looking for SNPs!}
+
+Multiple SNPs come together to form a ``Haplotype''; they are SNPs that
+are fairly close together that frequently occur in sequence (like the
+chain of three SNPs A something something G something something T would
+be a haplotype.)
+
+People of the same haplotype are likely of same ancestry.
+
+\hypertarget{snp-guidelines}{%
+\subsection{SNP Guidelines}\label{snp-guidelines}}
+
+\begin{itemize}
+\tightlist
+\item
+  No medical SNPs; so avoid SNPs that could be associated with heavy
+  medical information
+\item
+  No SNP
+\end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
