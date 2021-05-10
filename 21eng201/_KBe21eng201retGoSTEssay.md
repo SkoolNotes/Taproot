@@ -27,29 +27,29 @@ title: God of Small Things Essay
 
 6.  baby kochamma\'s ooty cupboards, thermos flask in cupboard
 
-7.  swollen cupboards creaked - dampness
+7.  Wisdom exercise notebooks book cupboard (74)
 
-8.  Wisdom exercise notebooks book cupboard (74)
-
-9.  pappachi\'s got mamachi\'s shears from her sewing cupboard to shred
+8.  pappachi\'s got mamachi\'s shears from her sewing cupboard to shred
     ammu\'s boots (86)
 
-10. label cupboard full of labels (92), it was red apparently
+9.  label cupboard full of labels (92), it was red apparently
 
-11. velutha has no keys to count or cupboards to lock (99)
+10. velutha has no keys to count or cupboards to lock (99)
 
-12. waking ammu from her velutha dream using a creaky cupboard
-    door (104)
+11. swollen cupboards creaked - dampness
 
-13. chacko\'s cupboard of damaged balsa airplanes (113)
+    1.  waking ammu from her velutha dream using a creaky cupboard
+        door (104)
+
+12. chacko\'s cupboard of damaged balsa airplanes (113)
 
     1.  \"Pickle Baron-dreams and the People\'s War joined the racks of
         broken balsa planes\" in Chacko\'s cupboard (132)
 
-14. cupboards were dangerous to open because clothes and books and shoes
+13. cupboards were dangerous to open because clothes and books and shoes
     would cascade down (chackos cupboards) (116)
 
-15. glass-paned cupboard in comrade pallai\'s house with curtains to
+14. glass-paned cupboard in comrade pallai\'s house with curtains to
     hide the contents (126)
 
     1.  whatever comrade pallai stored in his curtained cupboard, it
