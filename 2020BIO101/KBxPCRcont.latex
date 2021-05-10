@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13338)}}    % original
-%\rhead{\textrmlf{Compiled }\#13338\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13339)}}    % original
+%\rhead{\textrmlf{Compiled }\#13339\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -295,7 +295,9 @@ and why? Your explanation should be linked to the strange results that
 the teacher noticed.}*
 \end{quote}
 
-Luke most likely left out
+Luke most likely left out either his forward primers or reverse primers.
+This absence would lead to only one strand being a source of
+replication,
 
 ingrdients: - Taq: nope - primers: withought primers, no replication -
 template DNA: no, otherwise would have nothing. Actully, could just use
