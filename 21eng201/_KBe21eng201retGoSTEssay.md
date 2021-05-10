@@ -32,7 +32,9 @@ title: God of Small Things Essay
 8.  Wisdom exercise notebooks book cupboard (74)
 
 9.  pappachi\'s got mamachi\'s shears from her sewing cupboard to shred
-    ammu\'s boots
+    ammu\'s boots (86)
+
+10. label cupboard full of labels (92), it was red apparently
 
 ### getting lost in cupboards
 
