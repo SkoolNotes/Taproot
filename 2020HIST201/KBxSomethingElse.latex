@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13381)}}    % original
-%\rhead{\textrmlf{Compiled }\#13381\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13382)}}    % original
+%\rhead{\textrmlf{Compiled }\#13382\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -282,9 +282,9 @@ DATES: - due date - paydate - late?
 
 PAY: - amountDue - amountPaid - amountPastDue
 
-IDS: - ctr - cid - lid
-
 BAL: - initial bal, current bal
+
+IDS: - ctr - cid - lid
 
 else: personal
 

@@ -116,15 +116,13 @@ PAY:
 - amountPaid
 - amountPastDue
 
+BAL:
+- initial bal, current bal
+
 IDS:
 - ctr
 - cid
 - lid
-
-BAL:
-- initial bal, current bal
-
-
 
 else: personal
 
