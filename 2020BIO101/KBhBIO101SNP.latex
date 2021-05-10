@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13396)}}    % original
-%\rhead{\textrmlf{Compiled }\#13396\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13397)}}    % original
+%\rhead{\textrmlf{Compiled }\#13397\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -235,6 +235,8 @@ People of the same haplotype are likely of same ancestry.
 \item
   Each student's PCR reaction will only amplify 500-800 nucleotide
   region
+\item
+  Find SNPs that have specific traits, but most SNPs are po
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}

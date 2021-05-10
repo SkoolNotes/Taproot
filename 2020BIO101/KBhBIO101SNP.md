@@ -26,6 +26,7 @@ People of the same haplotype are likely of same ancestry.
 
 ## the Reaction
 - Each student's PCR reaction will only amplify 500-800 nucleotide region
+- Find SNPs that have specific traits, but most SNPs are po
 
 ***
 
