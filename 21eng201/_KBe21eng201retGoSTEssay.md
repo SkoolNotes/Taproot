@@ -13,38 +13,38 @@ title: God of Small Things Essay
 2.  \"Foreign returnees ... with keys to count, and cupboards to
     lock\" (67)
 
+3.  velutha has no keys to count or cupboards to lock (99)
+
 ### things inside cupboards
 
 1.  rat making trips to cupboard at doctors office (63)
 
-2.  \'he was never sure which cupboard he might have to open ...
-    counting his keys\' train crossing man (31)
+2.  Wisdom exercise notebooks book cupboard (74)
 
-3.  baby kochamma\'s ooty cupboards, thermos flask in cupboard
-
-4.  Wisdom exercise notebooks book cupboard (74)
-
-5.  pappachi\'s got mamachi\'s shears from her sewing cupboard to shred
+3.  pappachi\'s got mamachi\'s shears from her sewing cupboard to shred
     ammu\'s boots (86)
 
-6.  label cupboard full of labels (92), it was red apparently
+4.  label cupboard full of labels (92), it was red apparently
 
-7.  velutha has no keys to count or cupboards to lock (99)
-
-8.  swollen cupboards creaked - dampness
+5.  swollen cupboards creaked - dampness
 
     1.  waking ammu from her velutha dream using a creaky cupboard
         door (104)
 
-9.  chacko\'s cupboard of damaged balsa airplanes (113)
+6.  chacko\'s cupboard of damaged balsa airplanes (113)
 
     1.  \"Pickle Baron-dreams and the People\'s War joined the racks of
         broken balsa planes\" in Chacko\'s cupboard (132)
 
-10. cupboards were dangerous to open because clothes and books and shoes
+7.  cupboards were dangerous to open because clothes and books and shoes
     would cascade down (chackos cupboards) (116)
 
 ### locks
+
+1.  \'he was never sure which cupboard he might have to open ...
+    counting his keys\' train crossing man (31)
+
+2.  baby kochamma\'s ooty cupboards, thermos flask in cupboard
 
 ### secrets inside cupboards
 
