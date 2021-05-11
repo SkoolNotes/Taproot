@@ -20,3 +20,9 @@ $$\begin{aligned}
   \end{aligned}$$
 
 Where $\Delta x = \frac{1}{n}$ and $x_i = -a + \frac{2ak}{n}$
+
+Expressed as an integral:
+
+$$\begin{aligned}
+   \int_{-a}^{a} \pi (a^2-x^2) dx
+  \end{aligned}$$
