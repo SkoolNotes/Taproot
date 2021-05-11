@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13417)}}    % original
-%\rhead{\textrmlf{Compiled }\#13417\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13418)}}    % original
+%\rhead{\textrmlf{Compiled }\#13418\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -249,6 +249,8 @@ for breaking down dopamine in the brain's prefrontal cortex
 the enzyme to function roughly 25\% as efficiently as the wild type. The
 result of wild-type versus rs4680 is commonly referred to as the warrior
 versus worrier hypothesis
-(\href{https://pubmed.ncbi.nlm.nih.gov/17008817/}{cite}).
+(\href{https://pubmed.ncbi.nlm.nih.gov/17008817/}{cite}). The worrier,
+the one with the rs4680 SNP has higher dopamine levels, and thus,
+supposedly, lower pain threshold
 
 \end{document}
