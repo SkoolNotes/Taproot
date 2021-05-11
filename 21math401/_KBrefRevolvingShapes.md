@@ -27,5 +27,6 @@ $$\begin{aligned}
    \int_{-a}^{a} \pi (a^2-x^2) dx &\to  \int \pi a^2 dx - \int \pi x^2 dx \\
    &= \pi a^2 x - \pi \frac{1}{3}x^3\\
    &\to \pi a^3 - \pi \frac{1}{3} a^3 + \pi a^3 + \pi \frac{1}{3} (-a)^3\\
-   &= 2\pi a^3 - \pi \frac{1}{3} a^3 + \pi a^3 + \pi \frac{1}{3} (-a)^3
+   &= 2\pi a^3 - \pi \frac{2}{3} a^3\\
+   &= \frac{4}{3} \pi a^3
   \end{aligned}$$
