@@ -45,9 +45,15 @@
 
   And we can take the integral of that from $0$ to $h$
 
-  \[\begin{aligned}
+  \[\xcancel{\begin{aligned}
   \int_{0}^{h}  \pi  \left(r-\frac{r}{h}y \right)  ^2 dy &\to \pi  \int \left(r - \frac{r}{h}y \right)  ^2 dx \\
   \text{Let } u = r-\frac{r}{h}y, du = -\frac{r}{h} dx\\
   &= \pi -\frac{h}{r} \int u ^2 du\\
-  &= -\pi \frac{h}{r} \frac{1}{3}u^3\\
+  &= -\pi \frac{h}{r} \frac{1}{3}u^3 +C\\
+  &= -\pi \frac{h}{r} \frac{1}{3} \left(r-\frac{r}{h}y \right)  ^3
+  \end{aligned}}\]
+
+
+  \[\begin{aligned}
+  \int_{0}^{h}  \pi  \left(r-\frac{r}{h}y \right)  ^2 dy &\to \pi  \int \left(r - \frac{r}{h}y \right)  ^2 dx \\
   \end{aligned}\]
