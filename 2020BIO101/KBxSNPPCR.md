@@ -15,6 +15,10 @@ source:  #index
 
 ### SNiPs
 
+- rs4680
+	- pain tolerance, worrier/warrior 
+	- https://www.snpedia.com/index.php/Rs4680
+
 - CYP1A2 gene
 	- specifically, rs2069514
 		- encodes for the 1C variant,
@@ -23,8 +27,4 @@ source:  #index
 - rs6902875
 	- episodic memory
 	- https://pubmed.ncbi.nlm.nih.gov/25317765/
-
-- rs4680
-	- pain tolerance, worrier/warrior 
-	- https://www.snpedia.com/index.php/Rs4680
 
