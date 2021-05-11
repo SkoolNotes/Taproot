@@ -44,7 +44,7 @@ $$\begin{aligned}
   &\approx  9964
   \end{aligned}$$
 
-The area represents the population
+The area represents the population over those ten years.
 
 # meaning of area
 
