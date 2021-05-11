@@ -32,7 +32,7 @@ source:  #index
 
 
 ### A  : : `rs4680`
-Also known as Val158Me, rs4680 is an extensively studied SNP located in the COMT gene. The COMT enzyme, encoded by the COMT gene, is responsible for breaking down dopamine in the brain's prefrontal cortex ([cite](https://www.snpedia.com/index.php/Rs4680)). rs4680 causes the enzyme to function roughly 25% as efficiently as the wild type. This 
+Also known as Val158Me, rs4680 is an extensively studied SNP located in the COMT gene. The COMT enzyme, encoded by the COMT gene, is responsible for breaking down dopamine in the brain's prefrontal cortex ([cite](https://www.snpedia.com/index.php/Rs4680)). rs4680 causes the enzyme to function roughly 25% as efficiently as the wild type. The result of this function 
 
 
 
