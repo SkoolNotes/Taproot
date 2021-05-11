@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13436)}}    % original
-%\rhead{\textrmlf{Compiled }\#13436\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13437)}}    % original
+%\rhead{\textrmlf{Compiled }\#13437\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -270,6 +270,8 @@ are vital in the metabolism of xenobiotics
 One such xenobiotic is caffeine, the processing of which is affected by
 1C and 1F type mutations on the CYP1A2 gene. Humans with 1F type
 mutations are known as `fast' caffeine metabolizers, whereas 1C type
-mutations are known as '
+mutations lead to `slow' caffeine metabolism. Those who carry at least
+one 1C type mutation will be slower at processing caffeine, and thus,
+will be more affected by it.
 
 \end{document}
