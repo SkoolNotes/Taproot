@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12770)}}    % original
-%\rhead{\textrmlf{Compiled }\#12770\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13466)}}    % original
+%\rhead{\textrmlf{Compiled }\#13466\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -440,5 +440,8 @@ Later on, the same chemical weapons he discovered were used by the Nazis
 
 It was also used to kill many of Haber's own family members in the gas
 chambers
+
+\hypertarget{reflection-thingy}{%
+\subsection{Reflection thingy}\label{reflection-thingy}}
 
 \end{document}
