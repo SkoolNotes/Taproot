@@ -36,4 +36,4 @@ $$\begin{aligned}
 Rotate $$\begin{aligned}
   y = -ax +b
   \end{aligned}$$ Around the y-axis. Then, each circle (which is layed
-out flat) has thickness $\Delta y$ and radius $x$
+out flat) has thickness $dy$ and radius $x$ or $\frac{y-b}{-a}$

@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13491)}}    % original
-%\rhead{\textrmlf{Compiled }\#13491\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13492)}}    % original
+%\rhead{\textrmlf{Compiled }\#13492\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -222,6 +222,6 @@ Expressed as an integral:
 Rotate \[\begin{aligned}
   y = -ax +b
   \end{aligned}\] Around the y-axis. Then, each circle (which is layed
-out flat) has thickness \(\Delta y\) and radius \(x\)
+out flat) has thickness \(dy\) and radius \(x\) or \(\frac{y-b}{-a}\)
 
 \end{document}
