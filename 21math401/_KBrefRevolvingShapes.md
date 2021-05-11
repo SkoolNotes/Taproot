@@ -51,5 +51,5 @@ $$\begin{aligned}
 And we can take the integral of that from $0$ to $h$
 
 $$\begin{aligned}
-   \int_{0}^{h}  \pi  \left(r-\frac{r}{h}y \right)  ^2 dy &=
+  \int_{0}^{h}  \pi  \left(r-\frac{r}{h}y \right)  ^2 dy &\to \pi  \int \left(r - \frac{r}{h}y \right)  ^2 dx \\
   \end{aligned}$$
