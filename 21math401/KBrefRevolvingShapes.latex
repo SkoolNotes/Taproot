@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13477)}}    % original
-%\rhead{\textrmlf{Compiled }\#13477\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13479)}}    % original
+%\rhead{\textrmlf{Compiled }\#13479\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -192,5 +192,9 @@ sphere}\label{an-example-semicircle-revolved-around-the-x-axis-to-create-a-spher
 We can make cuts perpendicular to the axis of rotation. In this case,
 you end up with a bunch of circular disks, where the height of each
 slice is your semicircle function.
+
+Thus, the volume of the disk is \[\begin{aligned}
+   \pi f^2(x_i) \Delta x = (a^2-x^2) \pi \Delta x
+  \end{aligned}\]
 
 \end{document}
