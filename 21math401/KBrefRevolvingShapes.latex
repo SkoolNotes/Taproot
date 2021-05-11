@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13496)}}    % original
-%\rhead{\textrmlf{Compiled }\#13496\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13497)}}    % original
+%\rhead{\textrmlf{Compiled }\#13497\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -231,13 +231,13 @@ The volume of the disk is then \[\begin{aligned}
 Or using \(r, h\) as the radius and height of the cone,
 
 \[\begin{aligned}
-   \pi  \left(1-\frac{r}{h}y \right)  ^2 dy
+   \pi  \left(r-\frac{r}{h}y \right)  ^2 dy
   \end{aligned}\]
 
 And we can take the integral of that from \(0\) to \(h\)
 
 \[\begin{aligned}
-   \int_{0}^{h}  \pi  \left(1-\frac{r}{h}y \right)  ^2 dy
+   \int_{0}^{h}  \pi  \left(r-\frac{r}{h}y \right)  ^2 dy &=
   \end{aligned}\]
 
 \end{document}

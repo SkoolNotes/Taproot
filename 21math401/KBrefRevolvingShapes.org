@@ -40,11 +40,11 @@
   Or using $r, h$ as the radius and height of the cone,
 
   \[\begin{aligned}
-   \pi  \left(1-\frac{r}{h}y \right)  ^2 dy
+   \pi  \left(r-\frac{r}{h}y \right)  ^2 dy
   \end{aligned}\]
 
   And we can take the integral of that from $0$ to $h$
 
   \[\begin{aligned}
-   \int_{0}^{h}  \pi  \left(1-\frac{r}{h}y \right)  ^2 dy
+   \int_{0}^{h}  \pi  \left(r-\frac{r}{h}y \right)  ^2 dy &=
   \end{aligned}\]
