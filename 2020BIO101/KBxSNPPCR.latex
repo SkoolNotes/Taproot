@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13413)}}    % original
-%\rhead{\textrmlf{Compiled }\#13413\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13414)}}    % original
+%\rhead{\textrmlf{Compiled }\#13414\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -247,6 +247,6 @@ the COMT gene. The COMT enzyme, encoded by the COMT gene, is responsible
 for breaking down dopamine in the brain's prefrontal cortex
 (\href{https://www.snpedia.com/index.php/Rs4680}{cite}). rs4680 causes
 the enzyme to function roughly 25\% as efficiently as the wild type. The
-result of this function
+result of wild-type versus rs4680 is commonly referred to as the
 
 \end{document}
