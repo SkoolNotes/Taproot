@@ -1,2 +1,1 @@
-        Log for attempt at Tue May 11 09:11:21 AM PDT 2021 (13477)
-        Tue May 11 09:11:21 AM PDT 2021 Converting 21math401/KBrefRevolvingShapes.org...
+        Log for attempt at Tue May 11 09:12:32 AM PDT 2021 (13478)
