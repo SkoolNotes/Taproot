@@ -27,7 +27,7 @@ $$\begin{aligned}
    \int_{0}^{4} \pi (2-\sqrt{x})^2 dx
   \end{aligned}$$
 
-# [TODO]{.todo .TODO} e {#e}
+# e
 
 # Weird balloon thing
 
