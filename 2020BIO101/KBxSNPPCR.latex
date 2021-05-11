@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13405)}}    % original
-%\rhead{\textrmlf{Compiled }\#13405\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13406)}}    % original
+%\rhead{\textrmlf{Compiled }\#13406\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -242,6 +242,7 @@
 \subsubsection{\texorpdfstring{A : :
 \texttt{rs4680}}{A : : rs4680}}\label{a-rs4680}}
 
-Also known as Val158Me, rs4680 is an extensively studied SNP
+Also known as Val158Me, rs4680 is an extensively studied SNP located in
+the COMT gene.
 
 \end{document}

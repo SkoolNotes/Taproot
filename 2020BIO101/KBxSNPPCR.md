@@ -32,7 +32,7 @@ source:  #index
 
 
 ### A  : : `rs4680`
-Also known as Val158Me, rs4680 is an extensively studied SNP
+Also known as Val158Me, rs4680 is an extensively studied SNP located in the COMT gene. 
 
 
 
