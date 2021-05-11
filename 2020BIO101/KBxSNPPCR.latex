@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13403)}}    % original
-%\rhead{\textrmlf{Compiled }\#13403\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13404)}}    % original
+%\rhead{\textrmlf{Compiled }\#13404\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -238,7 +238,8 @@
 \hypertarget{write-up}{%
 \subsection{Write-up}\label{write-up}}
 
-\hypertarget{rs4680}{%
-\subsubsection{\texorpdfstring{\texttt{rs4680}}{rs4680}}\label{rs4680}}
+\hypertarget{a-rs4680}{%
+\subsubsection{\texorpdfstring{A ::
+\texttt{rs4680}}{A :: rs4680}}\label{a-rs4680}}
 
 \end{document}
