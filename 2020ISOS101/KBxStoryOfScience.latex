@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13466)}}    % original
-%\rhead{\textrmlf{Compiled }\#13466\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13467)}}    % original
+%\rhead{\textrmlf{Compiled }\#13467\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -443,5 +443,8 @@ chambers
 
 \hypertarget{reflection-thingy}{%
 \subsection{Reflection thingy}\label{reflection-thingy}}
+
+My peer reviewer did not leave a significant quantity of actionable
+feedback. Most of the
 
 \end{document}
