@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13462)}}    % original
-%\rhead{\textrmlf{Compiled }\#13462\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13463)}}    % original
+%\rhead{\textrmlf{Compiled }\#13463\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -290,9 +290,9 @@ episodic memory was found. More specifically, rs9321334 and rs6902875
 were both nominally significantly associated
 (\href{https://www.jwatch.org/na36191/2014/11/12/exceptional-memory-performance-elders-linked-candidate}{cite}).
 The region harboring rs6902875 --- MOXD1 --- is required for the
-synthesis of norepinephrine, a neurotransmitter involved with cognition
-(\href{https://pubmed.ncbi.nlm.nih.gov/25317765/}{cite}). When
-participants with the APOE E4 allele were removed, rs6902875 became much
-more statistically significant.
+synthesis of norepinephrine, a neurotransmitter involved with cognition.
+When participants with the APOE E4 allele were removed, rs6902875 became
+much more statistically significant
+(\href{https://pubmed.ncbi.nlm.nih.gov/25317765/}{cite}).
 
 \end{document}
