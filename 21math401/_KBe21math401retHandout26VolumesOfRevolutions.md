@@ -7,4 +7,10 @@ title: Volumes of Revolutions
 ```
 # meta
 
-## see [Volumes of Revolutions](KBe21math401retHandout26VolumesOfRevolutions.org)
+## see [revolving shapes](KBrefRevolvingShapes.org)
+
+# sphere
+
+$$\begin{aligned}
+
+  \end{aligned}$$
