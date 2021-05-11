@@ -24,10 +24,14 @@ $$\begin{aligned}
 # weird cone in the other direction
 
 $$\begin{aligned}
-   \int_{0}^{4} \pi (2-\sqrt{x})^2 dx
+   \int_{0}^{4} \pi (2-\sqrt{x})^2 dy
   \end{aligned}$$
 
-# e
+# pyramid slice
+
+$$\begin{aligned}
+   \int_{0}^{2} 2y+2 dy
+  \end{aligned}$$
 
 # Weird balloon thing
 
