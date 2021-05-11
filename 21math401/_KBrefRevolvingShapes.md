@@ -59,5 +59,5 @@ $$\xcancel{\begin{aligned}
   \end{aligned}}$$
 
 $$\begin{aligned}
-  \int_{0}^{h}  \pi  \left(r-\frac{r}{h}y \right)  ^2 dy &\to \pi  \int r^2 +   \left(\frac{r}{h}y \right)  ^2 - 2 r ^2 \left(\frac{r}{h}y \right)  ^2 dx \\
+  \int_{0}^{h}  \pi  \left(r-\frac{r}{h}y \right)  ^2 dy &\to \pi  \int r^2 +   \left(\frac{r}{h}y \right)  ^2 - 2 r  \left(\frac{r}{h}y \right)  dx \\
   \end{aligned}$$
