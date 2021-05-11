@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13442)}}    % original
-%\rhead{\textrmlf{Compiled }\#13442\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13443)}}    % original
+%\rhead{\textrmlf{Compiled }\#13443\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -280,5 +280,7 @@ to decreased activity by the CYP1A2 enzyme (cite
 \hypertarget{c-rs6902875}{%
 \subsubsection{\texorpdfstring{C : :
 \texttt{rs6902875}}{C : : rs6902875}}\label{c-rs6902875}}
+
+Much less is about rs6902875.
 
 \end{document}
