@@ -52,6 +52,7 @@ And we can take the integral of that from $0$ to $h$
 
 $$\begin{aligned}
   \int_{0}^{h}  \pi  \left(r-\frac{r}{h}y \right)  ^2 dy &\to \pi  \int \left(r - \frac{r}{h}y \right)  ^2 dx \\
-  \text{Let } u = r-\frac{r}{h}y, du = -\frac{r}{h} dx
-  &= \pi -\frac{h}{r} \int u ^2 du
+  \text{Let } u = r-\frac{r}{h}y, du = -\frac{r}{h} dx\\
+  &= \pi -\frac{h}{r} \int u ^2 du\\
+  &= -\pi \frac{h}{r} \frac{1}{3}u^3\\
   \end{aligned}$$
