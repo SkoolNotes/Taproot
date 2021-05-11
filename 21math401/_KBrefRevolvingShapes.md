@@ -30,3 +30,9 @@ $$\begin{aligned}
    &= 2\pi a^3 - \pi \frac{2}{3} a^3\\
    &= \frac{4}{3} \pi a^3
   \end{aligned}$$
+
+# now lets try a cone
+
+Rotate $$\begin{aligned}
+
+  \end{aligned}$$
