@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13479)}}    % original
-%\rhead{\textrmlf{Compiled }\#13479\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13480)}}    % original
+%\rhead{\textrmlf{Compiled }\#13480\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -196,5 +196,7 @@ slice is your semicircle function.
 Thus, the volume of the disk is \[\begin{aligned}
    \pi f^2(x_i) \Delta x = (a^2-x^2) \pi \Delta x
   \end{aligned}\]
+
+This is kinda like a Riemann Sum.
 
 \end{document}
