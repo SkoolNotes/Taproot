@@ -44,6 +44,8 @@ $$\begin{aligned}
   &\approx  9964
   \end{aligned}$$
 
+The area represents the population
+
 # meaning of area
 
 The shaded region represents the profit made between producing 50 units
