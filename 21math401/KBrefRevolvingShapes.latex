@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13489)}}    % original
-%\rhead{\textrmlf{Compiled }\#13489\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13491)}}    % original
+%\rhead{\textrmlf{Compiled }\#13491\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -220,7 +220,8 @@ Expressed as an integral:
 \section{now lets try a cone}\label{now-lets-try-a-cone}}
 
 Rotate \[\begin{aligned}
-
-  \end{aligned}\]
+  y = -ax +b
+  \end{aligned}\] Around the y-axis. Then, each circle (which is layed
+out flat) has thickness \(\Delta y\) and radius \(x\)
 
 \end{document}

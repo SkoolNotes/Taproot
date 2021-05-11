@@ -34,5 +34,6 @@ $$\begin{aligned}
 # now lets try a cone
 
 Rotate $$\begin{aligned}
-
-  \end{aligned}$$
+  y = -ax +b
+  \end{aligned}$$ Around the y-axis. Then, each circle (which is layed
+out flat) has thickness $\Delta y$ and radius $x$
