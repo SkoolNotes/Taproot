@@ -31,7 +31,8 @@ source:  #index
 ## Write-up
 
 
-### A :: `rs4680`
+### A  : : `rs4680`
+Also known as Val158Me, rs4680 is an extensively studied SNP
 
 
 
