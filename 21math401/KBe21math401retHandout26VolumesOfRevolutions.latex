@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13513)}}    % original
-%\rhead{\textrmlf{Compiled }\#13513\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13514)}}    % original
+%\rhead{\textrmlf{Compiled }\#13514\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -222,5 +222,9 @@ direction}\label{weird-cone-in-the-other-direction}}
 
 \hypertarget{semisphere}{%
 \section{Semisphere}\label{semisphere}}
+
+\[\begin{aligned}
+   \int_{0}^{2} \pi (4-x^2) dx
+  \end{aligned}\]
 
 \end{document}
