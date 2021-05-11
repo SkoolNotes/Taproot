@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13439)}}    % original
-%\rhead{\textrmlf{Compiled }\#13439\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13440)}}    % original
+%\rhead{\textrmlf{Compiled }\#13440\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -273,6 +273,8 @@ mutations are known as `fast' caffeine metabolizers, whereas 1C type
 mutations lead to `slow' caffeine metabolism. Those who carry at least
 one 1C type mutation will be slower at processing caffeine, and thus,
 will be more affected by it. rs2069514 is one such 1C mutation, leading
-to decreased activity.
+to decreased activity (cite
+\href{https://www.snpedia.com/index.php/Rs2069514}{a},
+\href{https://www.snpedia.com/index.php/CYP1A2}{b}).
 
 \end{document}
