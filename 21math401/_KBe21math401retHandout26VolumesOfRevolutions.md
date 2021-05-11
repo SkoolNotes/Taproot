@@ -18,7 +18,7 @@ $$\begin{aligned}
 # Weird cone
 
 $$\begin{aligned}
-   \int_{0}^{2} \pi x dx
+   \int_{0}^{2} \pi x^4 dx
   \end{aligned}$$
 
 # weird cone in the other direction
