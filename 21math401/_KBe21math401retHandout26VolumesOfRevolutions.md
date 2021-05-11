@@ -16,3 +16,13 @@ $$\begin{aligned}
   \end{aligned}$$
 
 # Weird cone
+
+$$\begin{aligned}
+   \int_{-4}^{4} \pi x dx
+  \end{aligned}$$
+
+# weird cone in the other direction
+
+$$\begin{aligned}
+   \int_{0}^{4} \pi x dx
+  \end{aligned}$$

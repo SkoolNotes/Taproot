@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13507)}}    % original
-%\rhead{\textrmlf{Compiled }\#13507\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13509)}}    % original
+%\rhead{\textrmlf{Compiled }\#13509\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -207,6 +207,14 @@ shapes}}{see revolving shapes}}\label{see-revolving-shapes}}
 
 \[\begin{aligned}
    \int_{-4}^{4} \pi x dx
+  \end{aligned}\]
+
+\hypertarget{weird-cone-in-the-other-direction}{%
+\section{weird cone in the other
+direction}\label{weird-cone-in-the-other-direction}}
+
+\[\begin{aligned}
+   \int_{0}^{4} \pi x dx
   \end{aligned}\]
 
 \end{document}
