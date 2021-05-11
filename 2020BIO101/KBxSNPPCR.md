@@ -32,7 +32,7 @@ source:  #index
 
 
 ### A  : : `rs4680`
-Also known as Val158Me, rs4680 is an extensively studied SNP located in the COMT gene. The COMT enzyme, encoded by the COMT gene, is responsible for breaking down dopamine in the brain's prefrontal cortex ([cite](https://www.snpedia.com/index.php/Rs4680)). rs4680 causes the enzyme to function roughly 25% as efficiently as the wild type. The result of wild-type versus rs4680 is commonly referred to as the warrior versus worrier hypothesis ([cite](https://pubmed.ncbi.nlm.nih.gov/17008817/)). The worrier, the one with the rs4680 SNP has higher dopamine levels, and thus, supposedly, lower pain tolerance, more prone 
+Also known as Val158Me, rs4680 is an extensively studied SNP located in the COMT gene. The COMT enzyme, encoded by the COMT gene, is responsible for breaking down dopamine in the brain's prefrontal cortex ([cite](https://www.snpedia.com/index.php/Rs4680)). rs4680 causes the enzyme to function roughly 25% as efficiently as the wild type. The result of wild-type versus rs4680 is commonly referred to as the warrior versus worrier hypothesis ([cite](https://pubmed.ncbi.nlm.nih.gov/17008817/)). A worrier, one with the rs4680 SNP, has higher dopamine levels. Thus, supposedly, they should have lower pain tolerance, be more prone to stress, and more efficient at information processing.
 
 
 
