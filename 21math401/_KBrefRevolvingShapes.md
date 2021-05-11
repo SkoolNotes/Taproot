@@ -24,5 +24,6 @@ Where $\Delta x = \frac{1}{n}$ and $x_i = -a + \frac{2ak}{n}$
 Expressed as an integral:
 
 $$\begin{aligned}
-   \int_{-a}^{a} \pi (a^2-x^2) dx
+   \int_{-a}^{a} \pi (a^2-x^2) dx &\to  \int \pi a^2 dx - \int \pi x^2 dx \\
+   &= \pi a^2 x - \pi \frac{1}{3}x^3
   \end{aligned}$$
