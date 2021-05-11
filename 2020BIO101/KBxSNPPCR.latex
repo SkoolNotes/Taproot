@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13463)}}    % original
-%\rhead{\textrmlf{Compiled }\#13463\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13464)}}    % original
+%\rhead{\textrmlf{Compiled }\#13464\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -185,12 +185,11 @@
 
 % DID YOU SET SPELL????
 
-\#flo \#ref \#ret \#disorganized \#incomplete
+\#ret
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{general}{%
-\subsection{General}\label{general}}
+\%\%\#\# General
 
 \hypertarget{snips}{%
 \subsubsection{SNiPs}\label{snips}}
@@ -237,6 +236,8 @@
 
 \hypertarget{write-up}{%
 \subsection{Write-up}\label{write-up}}
+
+\%\%
 
 \hypertarget{a-rs4680}{%
 \subsubsection{\texorpdfstring{A : :
