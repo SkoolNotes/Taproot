@@ -12,5 +12,7 @@ title: Volumes of Revolutions
 # sphere
 
 $$\begin{aligned}
-
+   \int_{-2}^{2} \pi (4-x^2) dx
   \end{aligned}$$
+
+# Weird cone
