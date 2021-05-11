@@ -27,10 +27,10 @@ $$\begin{aligned}
    \int_{0}^{4} \pi (2-\sqrt{x})^2 dx
   \end{aligned}$$
 
-# e
+# [TODO]{.todo .TODO} e {#e}
 
 # Weird balloon thing
 
 $$\begin{aligned}
-   \int_{0}^{2} \pi (4-x^2) dx
+   \int_{0}^{2} \pi (4-x^2)^2 dx
   \end{aligned}$$
