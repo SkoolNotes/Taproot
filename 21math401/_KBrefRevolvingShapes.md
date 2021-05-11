@@ -1,0 +1,5 @@
+---
+title: Revolving Shapes
+---
+
+# an example: semicircle revolved around the x-axis to create a sphere
