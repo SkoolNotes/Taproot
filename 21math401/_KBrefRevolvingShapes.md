@@ -41,3 +41,9 @@ out flat) has thickness $dy$ and radius $x$ or $\frac{y-b}{-a}$
 The volume of the disk is then $$\begin{aligned}
   \pi  \left(\frac{y-b}{-a}\right)  ^2 dy
   \end{aligned}$$
+
+And we can take the integral of that from $0$ to $b$
+
+$$\begin{aligned}
+   \int_{0}^{b} \pi  \left(\frac{y-b}{-a}\right)  ^2 dy
+  \end{aligned}$$

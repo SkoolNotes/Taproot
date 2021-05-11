@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13493)}}    % original
-%\rhead{\textrmlf{Compiled }\#13493\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13494)}}    % original
+%\rhead{\textrmlf{Compiled }\#13494\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -226,6 +226,12 @@ out flat) has thickness \(dy\) and radius \(x\) or \(\frac{y-b}{-a}\)
 
 The volume of the disk is then \[\begin{aligned}
   \pi  \left(\frac{y-b}{-a}\right)  ^2 dy
+  \end{aligned}\]
+
+And we can take the integral of that from \(0\) to \(b\)
+
+\[\begin{aligned}
+   \int_{0}^{b} \pi  \left(\frac{y-b}{-a}\right)  ^2 dy
   \end{aligned}\]
 
 \end{document}
