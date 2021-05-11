@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13475)}}    % original
-%\rhead{\textrmlf{Compiled }\#13475\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13477)}}    % original
+%\rhead{\textrmlf{Compiled }\#13477\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -188,5 +188,9 @@
 \hypertarget{an-example-semicircle-revolved-around-the-x-axis-to-create-a-sphere}{%
 \section{an example: semicircle revolved around the x-axis to create a
 sphere}\label{an-example-semicircle-revolved-around-the-x-axis-to-create-a-sphere}}
+
+We can make cuts perpendicular to the axis of rotation. In this case,
+you end up with a bunch of circular disks, where the height of each
+slice is your semicircle function.
 
 \end{document}

@@ -3,3 +3,7 @@ title: Revolving Shapes
 ---
 
 # an example: semicircle revolved around the x-axis to create a sphere
+
+We can make cuts perpendicular to the axis of rotation. In this case,
+you end up with a bunch of circular disks, where the height of each
+slice is your semicircle function.
