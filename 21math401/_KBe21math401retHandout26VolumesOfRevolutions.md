@@ -29,7 +29,7 @@ $$\begin{aligned}
 
 # e
 
-# Semisphere
+# Weird balloon thing
 
 $$\begin{aligned}
    \int_{0}^{2} \pi (4-x^2) dx
