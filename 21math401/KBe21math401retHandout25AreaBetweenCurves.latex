@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13328)}}    % original
-%\rhead{\textrmlf{Compiled }\#13328\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13401)}}    % original
+%\rhead{\textrmlf{Compiled }\#13401\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -238,8 +238,8 @@ The shaded region represents the profit made between producing 50 units
 and 100 units.
 
 \hypertarget{slicing-pizza-into-three-using-parallel-cuts}{%
-\section{\texorpdfstring{{TODO} slicing pizza into three using parallel
-cuts}{TODO slicing pizza into three using parallel cuts}}\label{slicing-pizza-into-three-using-parallel-cuts}}
+\section{slicing pizza into three using parallel
+cuts}\label{slicing-pizza-into-three-using-parallel-cuts}}
 
 The problem of placing slices is the same if we only worry about the top
 half of the pizza. Thus, we can choose some \(x\) for the first slice
