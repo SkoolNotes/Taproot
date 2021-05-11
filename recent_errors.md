@@ -1,2 +1,1 @@
-        Log for attempt at Tue May 11 08:54:34 AM PDT 2021 (13472)
-        Tue May 11 08:54:34 AM PDT 2021 Converting 21math401/KBe21math401retHandout25AreaBetweenCurves.org...
+        Log for attempt at Tue May 11 09:00:28 AM PDT 2021 (13473)
