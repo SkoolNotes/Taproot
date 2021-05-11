@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13453)}}    % original
-%\rhead{\textrmlf{Compiled }\#13453\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13454)}}    % original
+%\rhead{\textrmlf{Compiled }\#13454\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -287,6 +287,7 @@ seniors (\href{https://www.snpedia.com/index.php/Rs6902875}{cite}).
 After genome-wide linkage analysis on 467 LLFS (Long Life Family Study)
 participants, a significant link between the 6q24 region and exceptional
 episodic memory was found. More specifically, rs9321334 and rs6902875
-were both nominally significant
+were both nominally significantly associated
+(\href{https://pubmed.ncbi.nlm.nih.gov/25317765/}{cite})).
 
 \end{document}
