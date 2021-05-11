@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13481)}}    % original
-%\rhead{\textrmlf{Compiled }\#13481\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13482)}}    % original
+%\rhead{\textrmlf{Compiled }\#13482\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -203,5 +203,7 @@ take the limit of the sum
 \[\begin{aligned}
    \lim_{n \to \infty} \sum_{k=1}^{n} \pi (a^2 - x_i^2) \Delta x
   \end{aligned}\]
+
+Where \(\Delta x = \frac{1}{n}\) and \(x_i = -a + \frac{2ak}{n}\)
 
 \end{document}

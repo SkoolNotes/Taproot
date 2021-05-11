@@ -12,3 +12,5 @@
   \[\begin{aligned}
    \lim_{n \to \infty} \sum_{k=1}^{n} \pi (a^2 - x_i^2) \Delta x
   \end{aligned}\]
+
+  Where $\Delta x = \frac{1}{n}$ and $x_i = -a + \frac{2ak}{n}$
