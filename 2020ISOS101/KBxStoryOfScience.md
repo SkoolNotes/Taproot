@@ -137,7 +137,7 @@ It was also used to kill many of Haber's own family members in the gas chambers
 
 ## Reflection thingy
 
-My peer reviewer did not leave a significant quantity of actionable constructive criticism. Most of the questions were answered with "yes." The feedback that I did act on was giving names to the categories of the text. I also, as suggested, changed the background imagery and the yin yang symbolism.
+My peer reviewer did not leave a significant quantity of actionable constructive criticism. Most of the questions were answered with "yes." The feedback that I did act on was giving names to the categories of the text. I also, as suggested, changed the background imagery and the yin yang symbolism. I think thiss feedback was valuable and made the final product better in the end.
 
 
 
