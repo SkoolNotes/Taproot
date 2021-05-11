@@ -1,2 +1,1 @@
-        Log for attempt at Tue May 11 09:44:48 AM PDT 2021 (13507)
-        Tue May 11 09:44:48 AM PDT 2021 Converting 21math401/KBe21math401retHandout26VolumesOfRevolutions.org...
+        Log for attempt at Tue May 11 09:45:59 AM PDT 2021 (13508)
