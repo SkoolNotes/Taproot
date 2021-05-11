@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13410)}}    % original
-%\rhead{\textrmlf{Compiled }\#13410\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13411)}}    % original
+%\rhead{\textrmlf{Compiled }\#13411\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -245,6 +245,7 @@
 Also known as Val158Me, rs4680 is an extensively studied SNP located in
 the COMT gene. The COMT enzyme, encoded by the COMT gene, is responsible
 for breaking down dopamine in the brain's prefrontal cortex
-(\href{https://www.snpedia.com/index.php/Rs4680}{cite}).
+(\href{https://www.snpedia.com/index.php/Rs4680}{cite}). rs4680 causes
+the enzyme to function roughly 25\% as efficiently as the wild type.
 
 \end{document}
