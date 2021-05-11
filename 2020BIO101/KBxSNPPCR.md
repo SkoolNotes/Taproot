@@ -28,3 +28,24 @@ source:  #index
 	- episodic memory
 	- https://pubmed.ncbi.nlm.nih.gov/25317765/
 
+## Write-up
+
+
+### `rs4680`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
