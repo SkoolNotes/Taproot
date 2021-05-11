@@ -12,4 +12,9 @@ Thus, the volume of the disk is $$\begin{aligned}
    \pi f^2(x_i) \Delta x = (a^2-x^2) \pi \Delta x
   \end{aligned}$$
 
-This is kinda like a Riemann Sum.
+This is kinda like a Riemann Sum, but with more stuff added on. We can
+take the limit of the sum
+
+$$\begin{aligned}
+   \lim_{n \to \infty} \sum_{k=1}^{n} \pi (a^2 - x_i^2) \Delta x
+  \end{aligned}$$
