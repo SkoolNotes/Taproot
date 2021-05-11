@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13457)}}    % original
-%\rhead{\textrmlf{Compiled }\#13457\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13458)}}    % original
+%\rhead{\textrmlf{Compiled }\#13458\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -289,6 +289,7 @@ participants, a significant link between the 6q24 region and exceptional
 episodic memory was found. More specifically, rs9321334 and rs6902875
 were both nominally significantly associated
 (\href{https://pubmed.ncbi.nlm.nih.gov/25317765/}{cite}). The region
-harboring rs6902875 is required for the synthesis of
+harboring rs6902875 --- MOXD1 --- is required for the synthesis of
+norepinephrine,
 
 \end{document}
