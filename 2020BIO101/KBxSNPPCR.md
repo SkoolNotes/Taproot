@@ -39,7 +39,7 @@ rs2069514 is a 1C type allele of the CYP1A2 gene ([cite](https://www.snpedia.com
 
 ### C : : `rs6902875`
 
-Much less is known about rs6902875, except that it is related to much significantly better episodic memory. This was tested specifically in seniors ([cite](https://www.snpedia.com/index.php/Rs6902875)). After genome-wide linkage analysis on 467 LLFS (Long Life Family Study) participants, a significant link between the 6q24 region and exceptional episodic memory was found. More specifically, rs9321334 and rs6902875 were both nominally significantly associated ([cite](https://pubmed.ncbi.nlm.nih.gov/25317765/)). The region harboring rs6902875 — MOXD1 — is required for the synthesis of norepinephrine, 
+Much less is known about rs6902875, except that it is related to much significantly better episodic memory. This was tested specifically in seniors ([cite](https://www.snpedia.com/index.php/Rs6902875)). After genome-wide linkage analysis on 467 LLFS (Long Life Family Study) participants, a significant link between the 6q24 region and exceptional episodic memory was found. More specifically, rs9321334 and rs6902875 were both nominally significantly associated ([cite](https://pubmed.ncbi.nlm.nih.gov/25317765/)). The region harboring rs6902875 — MOXD1 — is required for the synthesis of norepinephrine, a neurotransmitter involved with cognition.
 
 
 
