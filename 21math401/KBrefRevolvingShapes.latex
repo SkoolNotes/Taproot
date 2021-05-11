@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13498)}}    % original
-%\rhead{\textrmlf{Compiled }\#13498\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13499)}}    % original
+%\rhead{\textrmlf{Compiled }\#13499\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -238,6 +238,8 @@ And we can take the integral of that from \(0\) to \(h\)
 
 \[\begin{aligned}
   \int_{0}^{h}  \pi  \left(r-\frac{r}{h}y \right)  ^2 dy &\to \pi  \int \left(r - \frac{r}{h}y \right)  ^2 dx \\
+  \text{Let } u = r-\frac{r}{h}y, du = -\frac{r}{h} dx\\
+  &= \pi -\frac{h}{r} \int u ^2 du
   \end{aligned}\]
 
 \end{document}
