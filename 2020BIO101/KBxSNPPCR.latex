@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13427)}}    % original
-%\rhead{\textrmlf{Compiled }\#13427\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13428)}}    % original
+%\rhead{\textrmlf{Compiled }\#13428\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -262,6 +262,6 @@ in most conditions
 \subsubsection{\texorpdfstring{B : :
 \texttt{rs2069514}}{B : : rs2069514}}\label{b-rs2069514}}
 
-rs2069514 is a 1C type allele of the CYP1A2 gene.
+rs2069514 is a 1C type allele of the CYP1A2 gene. CYP1A2 is a member
 
 \end{document}
