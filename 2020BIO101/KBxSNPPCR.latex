@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13424)}}    % original
-%\rhead{\textrmlf{Compiled }\#13424\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13425)}}    % original
+%\rhead{\textrmlf{Compiled }\#13425\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -257,5 +257,9 @@ Conversely, the wild-type warriors should have higher pain tolerance, be
 less prone to stress, less exploratory, and less efficient at cognition
 in most conditions
 (\href{https://www.huffpost.com/entry/stress-management_b_2671591}{cite}).
+
+\hypertarget{b-rs2069514}{%
+\subsubsection{\texorpdfstring{B : :
+\texttt{rs2069514}}{B : : rs2069514}}\label{b-rs2069514}}
 
 \end{document}
