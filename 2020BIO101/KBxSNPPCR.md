@@ -39,7 +39,7 @@ rs2069514 is a 1C type allele of the CYP1A2 gene ([cite](https://www.snpedia.com
 
 ### C : : `rs6902875`
 
-Much less is known about rs6902875. 
+Much less is known about rs6902875, except that it is related to much better performance 
 
 
 
