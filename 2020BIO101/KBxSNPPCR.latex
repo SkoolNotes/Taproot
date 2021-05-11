@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13445)}}    % original
-%\rhead{\textrmlf{Compiled }\#13445\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13446)}}    % original
+%\rhead{\textrmlf{Compiled }\#13446\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -282,6 +282,7 @@ to decreased activity by the CYP1A2 enzyme (cite
 \texttt{rs6902875}}{C : : rs6902875}}\label{c-rs6902875}}
 
 Much less is known about rs6902875, except that it is related to much
-better performance
+better episodic memory. This is tested specifically in seniors
+(\href{https://www.snpedia.com/index.php/Rs6902875}{cite}).
 
 \end{document}
