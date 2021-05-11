@@ -1,6 +1,2 @@
-        Log for attempt at Mon May 10 10:39:36 PM PDT 2021 (13470)
-        Mon May 10 10:39:36 PM PDT 2021 Converting 2020ISOS101/KBxStoryOfScience.md...
-Error producing PDF.
-! Undefined control sequence.
-l.219   \({\displaystyle {\ce
-
+        Log for attempt at Tue May 11 08:52:50 AM PDT 2021 (13471)
+        Tue May 11 08:52:50 AM PDT 2021 Converting 21math401/KBe21math401retHandout25AreaBetweenCurves.org...
