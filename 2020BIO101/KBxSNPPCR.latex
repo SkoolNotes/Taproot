@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13429)}}    % original
-%\rhead{\textrmlf{Compiled }\#13429\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13430)}}    % original
+%\rhead{\textrmlf{Compiled }\#13430\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -264,6 +264,6 @@ in most conditions
 
 rs2069514 is a 1C type allele of the CYP1A2 gene
 (\href{https://www.snpedia.com/index.php/CYP1A2}{cite}). CYP1A2 is a
-cytochrome P450 mixed function oxidase enzyme
+cytochrome P450 mixed function oxidase enzyme, all
 
 \end{document}
