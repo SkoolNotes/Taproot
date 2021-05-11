@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13464)}}    % original
-%\rhead{\textrmlf{Compiled }\#13464\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13465)}}    % original
+%\rhead{\textrmlf{Compiled }\#13465\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -293,7 +293,7 @@ were both nominally significantly associated
 The region harboring rs6902875 --- MOXD1 --- is required for the
 synthesis of norepinephrine, a neurotransmitter involved with cognition.
 When participants with the APOE E4 allele were removed, rs6902875 became
-much more statistically significant
+much more statistically significant than rs9321334
 (\href{https://pubmed.ncbi.nlm.nih.gov/25317765/}{cite}).
 
 \end{document}
