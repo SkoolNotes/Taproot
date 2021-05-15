@@ -10,5 +10,6 @@ $$
   $$
 
 $$\begin{aligned}
-  4^{\frac{1}{2}}
+  4^{\frac{1}{2}} + a
+  a ^2 + \frac{1}{2} a ^3 - 2 a ^2
   \end{aligned}$$
