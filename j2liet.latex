@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13528)}}    % original
-%\rhead{\textrmlf{Compiled }\#13528\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13529)}}    % original
+%\rhead{\textrmlf{Compiled }\#13529\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -200,6 +200,7 @@
 \[\begin{aligned}
   4^{\frac{1}{2}} + a\\
   a ^2 + \frac{1}{2} a ^3 - 2 a ^2=\frac{a^3}{2} - a^2
+  \begin{pmatrix}1 & 2\end{pmatrix} + \begin{pmatrix}3 & 4\end{pmatrix}
   \end{aligned}\]
 
 \end{document}

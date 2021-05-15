@@ -12,4 +12,5 @@ $$
 $$\begin{aligned}
   4^{\frac{1}{2}} + a\\
   a ^2 + \frac{1}{2} a ^3 - 2 a ^2=\frac{a^3}{2} - a^2
+  \begin{pmatrix}1 & 2\end{pmatrix} + \begin{pmatrix}3 & 4\end{pmatrix}
   \end{aligned}$$
