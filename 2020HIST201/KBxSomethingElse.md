@@ -108,6 +108,22 @@ Lastmod
 
 ###### Sorting
 
+Account:
+first name
+last name
+ctr
+cid
+lid
+lastmod
+
+Location:
+adress 1
+adress 2
+city
+stateprovince
+postal code
+
+
 DATES:
 - due date
 - paydate
