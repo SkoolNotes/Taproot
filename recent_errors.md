@@ -1,32 +1,50 @@
-        Log for attempt at Sun May 23 09:27:15 AM PDT 2021 (13531)
-        Sun May 23 09:27:15 AM PDT 2021 Converting 2020HIST201/KBxSomethingElse.md...
-Could not find data file /usr/share/pandoc/data/templates/default.html
-        Sun May 23 09:27:18 AM PDT 2021 Converting 2020MATH401/KBCalculusMasterIndex.md...
-Could not find data file /usr/share/pandoc/data/templates/default.html
-        Sun May 23 09:27:20 AM PDT 2021 Converting 2020MATH401/KBxCalcMod5.md...
-Could not find data file /usr/share/pandoc/data/templates/default.html
-        Sun May 23 09:27:22 AM PDT 2021 Converting 21MATH530/KBrefAdjoints.org...
-Error producing PDF.
-! LaTeX Error: \symcalallowed only in math mode.
+        Log for attempt at Sun May 23 09:43:57 AM PDT 2021 (13532)
+        Sun May 23 09:43:57 AM PDT 2021 Converting j2liet.org...
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
+kpathsea: Running mktextfm HelveticaNeue
+/usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation H for HelveticaNeue.
+/usr/share/texmf-dist/web2c/mktexnam: Need to update /usr/share/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input HelveticaNeue
+This is METAFONT, Version 2.7182818 (TeX Live 2020/Arch Linux) (preloaded base=mf)
+
+kpathsea: Running mktexmf HelveticaNeue
+
+! I can't find file `HelveticaNeue'.
+<*> ... mag:=1; ; nonstopmode; input HelveticaNeue
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ... mag:=1; ; nonstopmode; input HelveticaNeue
+                                                  
+Transcript written on mfput.log.
+grep: HelveticaNeue.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input HelveticaNeue' failed to make HelveticaNeue.tfm.
+kpathsea: Appending font creation commands to missfont.log.
+
+kpathsea: Running mktextfm HelveticaNeue
+/usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation H for HelveticaNeue.
+/usr/share/texmf-dist/web2c/mktexnam: Need to update /usr/share/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input HelveticaNeue
+This is METAFONT, Version 2.7182818 (TeX Live 2020/Arch Linux) (preloaded base=mf)
+
+kpathsea: Running mktexmf HelveticaNeue
+
+! I can't find file `HelveticaNeue'.
+<*> ... mag:=1; ; nonstopmode; input HelveticaNeue
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ... mag:=1; ; nonstopmode; input HelveticaNeue
+                                                  
+Transcript written on mfput.log.
+grep: HelveticaNeue.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input HelveticaNeue' failed to make HelveticaNeue.tfm.
+kpathsea: Appending font creation commands to missfont.log.
+Error producing PDF.
+! Package fontspec Error: The font "HelveticaNeue" cannot be found.
+
+For immediate help type H <return>.
  ...                                              
                                                   
-l.63 Suppose \$T ∈ \mathcal
+l.90 \newfontfamily
 
-Could not find data file /usr/share/pandoc/data/templates/default.html
-        Sun May 23 09:27:24 AM PDT 2021 Converting 21MATH530/KBrefConjugateTranspose.org...
-Could not find data file /usr/share/pandoc/data/templates/default.html
-        Sun May 23 09:27:27 AM PDT 2021 Converting 21MATH530/KBrefNormalOperators.org...
-Error producing PDF.
-! Undefined control sequence.
-l.91 This implies that \(\onull
-
-Could not find data file /usr/share/pandoc/data/templates/default.html
-        Sun May 23 09:27:29 AM PDT 2021 Converting 21MATH530/KBrefOperatorsOverInnerProductSpaces.org...
-Could not find data file /usr/share/pandoc/data/templates/default.html
-        Sun May 23 09:27:31 AM PDT 2021 Converting 21MATH530/KBrefSelfAdjointOperators.org...
-Could not find data file /usr/share/pandoc/data/templates/default.html
-        Sun May 23 09:27:33 AM PDT 2021 Converting MISC/xcoursePrefs.md...
-Could not find data file /usr/share/pandoc/data/templates/default.html

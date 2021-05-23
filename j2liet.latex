@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13529)}}    % original
-%\rhead{\textrmlf{Compiled }\#13529\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13532)}}    % original
+%\rhead{\textrmlf{Compiled }\#13532\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -202,5 +202,12 @@
   a ^2 + \frac{1}{2} a ^3 - 2 a ^2=\frac{a^3}{2} - a^2
   \begin{pmatrix}1 & 2\end{pmatrix} + \begin{pmatrix}3 & 4\end{pmatrix}
   \end{aligned}\]
+
+\hypertarget{sync-test}{%
+\section{sync test}\label{sync-test}}
+
+\hypertarget{does-it-work-is-the-real-question}{%
+\subsection{does it work is the real
+question}\label{does-it-work-is-the-real-question}}
 
 \end{document}
