@@ -36,8 +36,8 @@
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-  pdftitle={Calculus Master Index},
-  pdfauthor={Exr0n},
+  pdftitle={Calc Mod 5 Planning},
+  pdfauthor={Huxley},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
@@ -49,67 +49,17 @@
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 
-\title{Calculus Master Index}
-\author{Exr0n}
+\title{Calc Mod 5 Planning}
+\author{Huxley}
 \date{}
 
 \begin{document}
 \maketitle
 
-\#source
-
-Everyone has calculus! \# Flows
-
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Huxley Marvit}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    {[}{[}KB20200824094500{]}{]}
-  \end{itemize}
-\item
-  \textbf{Houjun Liu} {[}{[}KBhMATH401SubIndex{]}{]}
-\item
-  \textbf{Zachary Sayyah}{[}{[}KB20200823154725{]}{]}
-\item
-  \textbf{Albert Huang}{[}{[}KBe2020math401index{]}{]}
-\end{itemize}
-
-\hypertarget{concepts}{%
-\section{Concepts}\label{concepts}}
-
-\hypertarget{limits}{%
-\subsection{Limits}\label{limits}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}eRefLHopitalRule{]}{]}
-\end{itemize}
+\#flo \#ref \#disorganized \#incomplete
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{self-evals}{%
-\section{Self Evals}\label{self-evals}}
-
-\begin{itemize}
-\tightlist
-\item
-  Huxley {[}{[}KBxMaffSSelfEval{]}{]}
-\end{itemize}
-
-\hypertarget{ted}{%
-\section{Ted}\label{ted}}
-
-is fun
-
-\begin{itemize}
-\tightlist
-\item
-  \textbf{MOD 5 PLANNING}{[}{[}KBxCalcMod5{]}{]}
-\end{itemize}
+\[{v\_{e}=\\sqrt{2\\times 9.8\\times 63,781,00}}\]
 
 \end{document}

@@ -36,8 +36,8 @@
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-  pdftitle={Calculus Master Index},
-  pdfauthor={Exr0n},
+  pdftitle={Huxley Course Pref Bin},
+  pdfauthor={Huxley},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
@@ -49,67 +49,71 @@
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 
-\title{Calculus Master Index}
-\author{Exr0n}
+\title{Huxley Course Pref Bin}
+\author{Huxley}
 \date{}
 
 \begin{document}
 \maketitle
 
-\#source
-
-Everyone has calculus! \# Flows
-
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Huxley Marvit}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    {[}{[}KB20200824094500{]}{]}
-  \end{itemize}
-\item
-  \textbf{Houjun Liu} {[}{[}KBhMATH401SubIndex{]}{]}
-\item
-  \textbf{Zachary Sayyah}{[}{[}KB20200823154725{]}{]}
-\item
-  \textbf{Albert Huang}{[}{[}KBe2020math401index{]}{]}
-\end{itemize}
-
-\hypertarget{concepts}{%
-\section{Concepts}\label{concepts}}
-
-\hypertarget{limits}{%
-\subsection{Limits}\label{limits}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}eRefLHopitalRule{]}{]}
-\end{itemize}
+\#flo \#ref \#ret \#disorganized \#incomplete
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{self-evals}{%
-\section{Self Evals}\label{self-evals}}
+\hypertarget{need}{%
+\subsection{Need:}\label{need}}
 
-\begin{itemize}
-\tightlist
-\item
-  Huxley {[}{[}KBxMaffSSelfEval{]}{]}
-\end{itemize}
+math, science, elective 1, elective 2,
 
-\hypertarget{ted}{%
-\section{Ted}\label{ted}}
+\hypertarget{interesting-courses}{%
+\subsection{Interesting courses}\label{interesting-courses}}
 
-is fun
+micro econ eviromental econ macro econ
 
-\begin{itemize}
-\tightlist
-\item
-  \textbf{MOD 5 PLANNING}{[}{[}KBxCalcMod5{]}{]}
-\end{itemize}
+xrt? advanced mech e?
+
+computer security computer vison
+
+\hypertarget{math-options}{%
+\subsection{Math options}\label{math-options}}
+
+multi lin alg stats\ldots? mathmatical modeling? quantum info and comp
+
+\hypertarget{science-options}{%
+\subsection{Science options}\label{science-options}}
+
+modern mechanics sensory neuro phys research
+
+https://docs.google.com/document/d/1QmBBJz4uJwx4efi3CDWUOK7i9KpowSc76Zad9lwmxcw/edit\#heading=h.gsuoptpcvto3
+https://docs.google.com/spreadsheets/d/1q5BaJ05ks7Iifx9FbI21HpGS4U5wOPT4K3ynR2l\_sXA/edit\#gid=0
+
+\hypertarget{fall}{%
+\subsection{Fall}\label{fall}}
+
+computer securiuty computer vison
+
+mathmatical modeling
+
+micro econ
+
+sensory neruo?
+
+\hypertarget{spring}{%
+\subsection{Spring}\label{spring}}
+
+quantum computing advaanced probability
+
+macro econ
+
+sensory neruo?
+
+\hypertarget{year}{%
+\subsection{Year}\label{year}}
+
+mvc lin alg aplied stats modern phys advanced mechanics
+
+math -- F: lin alg S: lin alg science -- F: modern physics S: modern
+physics elective -- F: computer security S: quantum computing elective
+-- F: mathematical modeling S: advanced probability
 
 \end{document}

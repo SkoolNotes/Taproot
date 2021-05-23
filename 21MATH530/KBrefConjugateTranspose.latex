@@ -36,8 +36,7 @@
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-  pdftitle={Calculus Master Index},
-  pdfauthor={Exr0n},
+  pdftitle={Conjugate Transpose},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
@@ -49,67 +48,46 @@
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 
-\title{Calculus Master Index}
-\author{Exr0n}
+\title{Conjugate Transpose}
+\author{}
 \date{}
 
 \begin{document}
 \maketitle
 
-\#source
+\hypertarget{axler7.8-conjugate-transpose}{%
+\section{\texorpdfstring{Axler7.8 conjugate transpose
+{\textsc{def}}}{Axler7.8 conjugate transpose def}}\label{axler7.8-conjugate-transpose}}
 
-Everyone has calculus! \# Flows
+\begin{quote}
+The \emph{conjugate transpose} of an \(m\)-by-\(n\) matrix is the
+\(n\)-by-\(m\) matrix obtained by taking the transpose then the complex
+conjugate of each entry.
+\end{quote}
 
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Huxley Marvit}
+If \(\mathbb{F} = \mathbb{R}\) then the conjugate transpose is just the
+transpose.
 
-  \begin{itemize}
-  \tightlist
-  \item
-    {[}{[}KB20200824094500{]}{]}
-  \end{itemize}
-\item
-  \textbf{Houjun Liu} {[}{[}KBhMATH401SubIndex{]}{]}
-\item
-  \textbf{Zachary Sayyah}{[}{[}KB20200823154725{]}{]}
-\item
-  \textbf{Albert Huang}{[}{[}KBe2020math401index{]}{]}
-\end{itemize}
+\hypertarget{axler7.10-the-matrix-of-t-adjoint}{%
+\section{\texorpdfstring{Axler7.10 The matrix of \(T^*\)
+(\href{KBrefAdjoints.org}{adjoint})}{Axler7.10 The matrix of T\^{}* (adjoint)}}\label{axler7.10-the-matrix-of-t-adjoint}}
 
-\hypertarget{concepts}{%
-\section{Concepts}\label{concepts}}
+\begin{quote}
+Let \(T \in  \mathcal{L}(V, W)\). Suppose \(e_1, \ldots, e_n\) is an
+orthonormal basis of \(V\) and \(f_1, \ldots, f_m\) is an orthonormal
+basis of \(W\). Then, \[\begin{aligned}
+\mathcal{M}(T^*, (f_1, \ldots, f_m), (e_1, \ldots, e_n))
+\end{aligned}\]
 
-\hypertarget{limits}{%
-\subsection{Limits}\label{limits}}
+is the \emph{conjugate transpose} of
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}eRefLHopitalRule{]}{]}
-\end{itemize}
+\[\begin{aligned}
+\mathcal{M}(T, (e_1, \ldots, e_n), (f_1, \dots, f_m))
+\end{aligned}\]
+\end{quote}
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{self-evals}{%
-\section{Self Evals}\label{self-evals}}
-
-\begin{itemize}
-\tightlist
-\item
-  Huxley {[}{[}KBxMaffSSelfEval{]}{]}
-\end{itemize}
-
-\hypertarget{ted}{%
-\section{Ted}\label{ted}}
-
-is fun
-
-\begin{itemize}
-\tightlist
-\item
-  \textbf{MOD 5 PLANNING}{[}{[}KBxCalcMod5{]}{]}
-\end{itemize}
+However, since \textbf{this only works with orthonormal bases}, Axler
+decided to focus on adjoints instead of conjugate transposes. (but they
+are the same thing under orthonormal bases).
 
 \end{document}

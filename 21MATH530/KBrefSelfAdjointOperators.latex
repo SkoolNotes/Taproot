@@ -1,0 +1,104 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Self-adjoint operators},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{Self-adjoint operators}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\hypertarget{axler7.11-self-adjoint-hermitian}{%
+\section{\texorpdfstring{Axler7.11 self-adjoint, Hermitian
+{\textsc{def}}}{Axler7.11 self-adjoint, Hermitian def}}\label{axler7.11-self-adjoint-hermitian}}
+
+\begin{quote}
+An operator \(T \in  \mathcal{L}(V)\) is called \emph{self-adjoint} if
+\(T = T^*\) aka it is \href{KBrefAdjoints.org}{adjoint} to itself. aka:
+\(T \in  \mathcal{L} (V)\) is self-adjoint iff \[\begin{aligned}
+ \langle Tv, w \rangle = \langle v, Tw \rangle
+\end{aligned}\]
+\end{quote}
+
+Because adjoint-ness is in some ways analygous to complex conjugation, a
+self-adjoint operator is somewhat analygous to real numbers (kinda like
+a number who equals its conjugates real, a map that equals its adjoint
+is "real")
+
+\hypertarget{results}{%
+\section{results}\label{results}}
+
+\hypertarget{axler7.13-eigenvalues-of-self-adjoint-operators-are-real}{%
+\subsection{Axler7.13 Eigenvalues of self-adjoint operators are
+real}\label{axler7.13-eigenvalues-of-self-adjoint-operators-are-real}}
+
+\begin{quote}
+Every eigenvalue of a self-adjoint operator is real.
+\end{quote}
+
+\hypertarget{axler7.14-over-mathbbc-only-the-0-operator-has-tv-being-orthogonal-to-v-for-all-v}{%
+\subsection{\texorpdfstring{Axler7.14 Over \(\mathbb{C}\), only the
+\(0\) operator has \(Tv\) being orthogonal to \(v\) for all
+\(v\)}{Axler7.14 Over \textbackslash mathbb\{C\}, only the 0 operator has Tv being orthogonal to v for all v}}\label{axler7.14-over-mathbbc-only-the-0-operator-has-tv-being-orthogonal-to-v-for-all-v}}
+
+For some \textbf{complex} vector space \(V\) and
+\(T \in  \mathcal{L}(V)\), if \[\begin{aligned}
+    \langle Tv, v \rangle = 0
+   \end{aligned}\] for all \(v \in  V\), then \(T = 0\).
+
+\hypertarget{axler7.15-and-axler7.16}{%
+\subsection{\texorpdfstring{{TODO} Axler7.15 and
+Axler7.16??}{TODO Axler7.15 and Axler7.16??}}\label{axler7.15-and-axler7.16}}
+
+\hypertarget{every-self-adjoint-operator-is-normal.}{%
+\subsection{\texorpdfstring{Every self-adjoint operator is
+\href{KBrefNormal.org}{normal}.}{Every self-adjoint operator is normal.}}\label{every-self-adjoint-operator-is-normal.}}
+
+\end{document}

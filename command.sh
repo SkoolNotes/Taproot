@@ -1,6 +1,6 @@
 #!/bin/zsh
 #taproot_path="../../Taproot/"
-taproot_backup_path="../backup-taproot"
+#taproot_backup_path="../backup-taproot"
 #BUILDNUMBER_FILE='buildID.txt'
 
 echo 'entered command.sh'
@@ -15,6 +15,7 @@ while true; do
 
 
     if [[ -n "$taproot_backup_path" ]]; then
+        echo "BACKING UP TAPROOT"
         here="$(pwd)"
         rsync -av --exclude '.git*' . "$taproot_backup_path" >> log.txt
         cd $taproot_backup_path

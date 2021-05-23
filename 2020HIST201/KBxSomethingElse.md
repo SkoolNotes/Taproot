@@ -97,7 +97,7 @@ CTR
 CID
 LID
 DueDate
-AmountDue
+ AmountDue
 PayDate
 AmountPaid
 LateYN

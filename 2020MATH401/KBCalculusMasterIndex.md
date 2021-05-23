@@ -27,3 +27,8 @@ Everyone has calculus!
 
 - Huxley [[KBxMaffSSelfEval]]
 
+# Ted
+is fun
+
+
+- **MOD 5 PLANNING**[[KBxCalcMod5]]
