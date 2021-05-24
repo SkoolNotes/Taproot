@@ -23,3 +23,5 @@ title: Nazi Geneticism
 ## catholics objected to interfering with reproduction and liberals \'decried the violation of individual rights\'
 
 ## eugenics was around in states in canada, switzerland, and the united states, among other places
+
+# nazism as
