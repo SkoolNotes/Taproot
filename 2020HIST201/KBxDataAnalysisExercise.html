@@ -70,10 +70,36 @@ html {
             <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>ML201</strong> Data Analysis Exercise </span></div>
         </div>
         <div id="center-viewport">
-            <p>#flo #ref #ret #disorganized #incomplete</p>
+            <p>#ref #ret</p>
             <div class="center">
             <hr />
             </div>
+            <p>For <strong>each</strong> of the four scenarios below, answer the following questions. Please explain where your targets/rewards would come from (#2), how you would make your inputs numerical (#3), and a bit of your reasoning on ethical issues (#6). Other questions do not need explanation.</p>
+            <ol>
+            <li><p>What type of machine learning problem (regression, classification, clustering, generation, reinforcement learning) do you think this is?</p></li>
+            <li><p>If this is a supervised problem, what will you use as your targets (aka labels)? If it is reinforcement learning, what will you use as your rewards? If it is unsupervised, just say “unsupervised”.</p></li>
+            <li><p>What processing do you need to do to your input data?</p></li>
+            <li><p>What type(s) of model(s) would you try? You may need to combine models. Remember to start with the simplest thing that might work! Types of models we’ve talked about are linear regression, decision trees, random forest, logistic regression, naive bayes, support vector machines, K-means, DBSCAN, hierarchical clustering, fully connected neural networks, convolutional neural networks, recurrent neural networks, generative adversarial networks, deep Q learning, and evolutionary methods.</p></li>
+            <li><p>What validation metric(s) would you use to decide how well you’re doing?</p></li>
+            <li><p>What ethical challenges do the data collection, creation, and/or use of this model create? If you feel there aren’t any, just say “None”.</p></li>
+            </ol>
+            <h3 id="scenarios">Scenarios:</h3>
+            <ol>
+            <li><p>You want your model to learn to play <a href="https://en.wikipedia.org/wiki/Frogger">Frogger</a>.</p></li>
+            <li><p>You would like a model to write tweets in the style of a particular author.</p></li>
+            <li><p>A company would like to be able to predict the next months’ sales for each of its products. You have a dataset that the company has collected for many years, with data for a particular product on a particular month in each row. Each row contains the number of sales for the month, the number of sales from the previous month, the average rating (1-5) of the product in the previous month, the number of reviews in the previous month, the product type (e.g. “toaster”, “coffee maker”, “rice cooker”), its price the previous month, and its price for the current month.</p></li>
+            <li><p>You would like to predict the presence of a certain disease using chest x-ray data. You have a lot of x-ray images, a small amount of which have been labeled as having the disease or not having the disease. The rest of the images are unknown as to whether or not the person has the disease.</p></li>
+            </ol>
+            <h3 id="example">Example:</h3>
+            <p>Here is an example answer, taken from <a href="http://archive.ics.uci.edu/ml/datasets/Abalone">http://archive.ics.uci.edu/ml/datasets/Abalone</a>:</p>
+            <p>Scenario: You want to predict the age of an abalone (a type of shellfish). You have a dataset that includes the age of the abalone, the sex (‘M’, ‘F’, and ‘I’), the length, the diameter, the height, and the weight.</p>
+            <ol>
+            <li><p>regression</p></li>
+            <li><p>age (included in dataset)</p></li>
+            <li><p>Length, diameter, height, and weight are numeric. I will scale them. For the sex feature, make it one-hot-encoded.</p></li>
+            <li><p>linear regression. maybe a fully connected neural network later</p></li>
+            <li><p>R^2</p></li>
+            </ol>
         </div>
 
         <script>
