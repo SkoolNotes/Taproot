@@ -12,7 +12,7 @@ There are scopes by which AI is like gun and scopes whereby they are humans.
 
 
 ***
-* **Does corporations that leverage AI regulated deployment of content have a responsibility for?**
+* **Does corporations that leverage AI regulated deployment of content have a responsibility for ?**
 * How does the licensing of AI products to tech firms like Microsoft raise issues of ownership and responsible deployment? When things go wrong, is the creator or licensee responsible?
 * Should there be international regulation w.r.t. AI use and deployment
 * """" for spacebourn projects
