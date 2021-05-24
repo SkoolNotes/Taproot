@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13617)}}    % original
-%\rhead{\textrmlf{Compiled }\#13617\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13618)}}    % original
+%\rhead{\textrmlf{Compiled }\#13618\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -316,7 +316,8 @@ explanation.
   \item
     Classification
   \item
-    Semi-supervised,
+    Semi-supervised, using the provided labels as well as generated
+    pseudo-labels
   \item
   \end{enumerate}
 \end{enumerate}
