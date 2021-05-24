@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13560)}}    % original
-%\rhead{\textrmlf{Compiled }\#13560\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13561)}}    % original
+%\rhead{\textrmlf{Compiled }\#13561\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -219,7 +219,6 @@ content have a responsibility for?}
   raise issues of ownership and responsible deployment? When things go
   wrong, is the creator or licensee responsible?
 \item
-  u
 \end{itemize}
 
 \end{document}
