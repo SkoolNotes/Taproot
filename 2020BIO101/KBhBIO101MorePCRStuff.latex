@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13634)}}    % original
-%\rhead{\textrmlf{Compiled }\#13634\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13635)}}    % original
+%\rhead{\textrmlf{Compiled }\#13635\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -213,6 +213,8 @@
     \item
       The chemical usually used to do this is a \textbf{detergent}, like
       soap
+    \item
+      Lipid bi-layer gets attracted to the hydrophobic tails, then
     \item
       Or, changing the pH of the solution may also be one method by
       which this could take place
