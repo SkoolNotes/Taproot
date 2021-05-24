@@ -47,7 +47,7 @@ source:  #index
 	3.  Down-sampling, grayscale?
 	4.  CNN
 	5.  F-score
-	6.  Model explaniability challenges, covered in our ethics presentation last semester.
+	6.  Model explainability challenges, covered in our ethics presentation last semester in ML.
 
 %%### Example:
 

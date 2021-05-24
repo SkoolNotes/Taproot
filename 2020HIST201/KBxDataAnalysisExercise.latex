@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13626)}}    % original
-%\rhead{\textrmlf{Compiled }\#13626\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13627)}}    % original
+%\rhead{\textrmlf{Compiled }\#13627\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -325,8 +325,8 @@ explanation.
   \item
     F-score
   \item
-    Model explaniability challenges, covered in our ethics presentation
-    last semester.
+    Model explainability challenges, covered in our ethics presentation
+    last semester in ML.
   \end{enumerate}
 \end{enumerate}
 
