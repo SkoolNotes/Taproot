@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13534)}}    % original
-%\rhead{\textrmlf{Compiled }\#13534\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13535)}}    % original
+%\rhead{\textrmlf{Compiled }\#13535\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -187,6 +187,7 @@
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-title: AI Ethics Research
+title: AI Ethics Research author: Houjun Liu course: ISOS101 source:
+{[}{[}KBISOSMasterIndex kJ{]}{]}
 
 \end{document}
