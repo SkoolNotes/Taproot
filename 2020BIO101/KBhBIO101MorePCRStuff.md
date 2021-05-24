@@ -5,7 +5,12 @@ course: BIO101
 author: Houjun Liu
 ---
 
-# Moere
+# More PCR Stuff
+#flo 
+
+* DNA Extraction
+* Background
+	* 
 
 
 
