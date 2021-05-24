@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13579)}}    % original
-%\rhead{\textrmlf{Compiled }\#13579\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13580)}}    % original
+%\rhead{\textrmlf{Compiled }\#13580\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -251,6 +251,7 @@ explanation.
   \item
     Regret
   \item
+    Botting in video games?
   \end{enumerate}
 \item
   You would like a model to write tweets in the style of a particular
