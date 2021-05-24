@@ -6,5 +6,4 @@ source: [[KBISOSMasterIndex]]
 ---
 
 
-# 
-
+# Responsibility of AI
