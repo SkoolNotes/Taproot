@@ -5,5 +5,4 @@ course: ISOS101
 source: [[KBISOSMasterIndex]]
 ---
 
-
 # Responsibility of AI
