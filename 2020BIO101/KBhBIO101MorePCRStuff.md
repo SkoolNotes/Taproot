@@ -21,7 +21,6 @@ author: Houjun Liu
 	* A **detergent** breaks the outside lipid layer and the nucleus
 	* Then, a **protease** chews up the enzyme and other random proteins 
 	* Finally, the whole thing's heated to make sure that the only thing left is the DNA 
-	* 
 
 
 

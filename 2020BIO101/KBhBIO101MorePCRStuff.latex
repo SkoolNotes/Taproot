@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13641)}}    % original
-%\rhead{\textrmlf{Compiled }\#13641\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13642)}}    % original
+%\rhead{\textrmlf{Compiled }\#13642\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -237,7 +237,6 @@
   \item
     Finally, the whole thing's heated to make sure that the only thing
     left is the DNA
-  \item
   \end{itemize}
 \end{itemize}
 
