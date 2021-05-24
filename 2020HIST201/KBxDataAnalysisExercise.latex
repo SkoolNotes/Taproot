@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13599)}}    % original
-%\rhead{\textrmlf{Compiled }\#13599\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13600)}}    % original
+%\rhead{\textrmlf{Compiled }\#13600\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -295,6 +295,8 @@ explanation.
     The number of sales for the month in the collected dataset
   \item
     Normalize average rating, OHE product type
+  \item
+    FNN
   \item
   \end{enumerate}
 \item
