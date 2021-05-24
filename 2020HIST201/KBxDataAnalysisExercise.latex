@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13602)}}    % original
-%\rhead{\textrmlf{Compiled }\#13602\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13603)}}    % original
+%\rhead{\textrmlf{Compiled }\#13603\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -300,13 +300,20 @@ explanation.
   \item
     R\^{}2
   \item
+    None
   \end{enumerate}
 \item
-  You would like to predict the presence of a certain disease using
-  chest x-ray data. You have a lot of x-ray images, a small amount of
-  which have been labeled as having the disease or not having the
+  \textbf{You would like to predict the presence of a certain disease
+  using chest x-ray data. You have a lot of x-ray images, a small amount
+  of which have been labeled as having the disease or not having the
   disease. The rest of the images are unknown as to whether or not the
-  person has the disease.
+  person has the disease.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+  \end{enumerate}
 \end{enumerate}
 
 \hypertarget{example}{%
