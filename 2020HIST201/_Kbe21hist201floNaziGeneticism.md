@@ -2,3 +2,10 @@
 title: Nazi Geneticism
 ---
 
+# source
+
+## <https://www.ushmm.org/information/exhibitions/online-exhibitions/deadly-medicine-creating-the-master-race>
+
+# overview
+
+## the genetically impure were sterelized
