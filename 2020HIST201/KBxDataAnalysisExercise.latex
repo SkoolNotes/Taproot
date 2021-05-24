@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13598)}}    % original
-%\rhead{\textrmlf{Compiled }\#13598\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13599)}}    % original
+%\rhead{\textrmlf{Compiled }\#13599\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -294,7 +294,8 @@ explanation.
   \item
     The number of sales for the month in the collected dataset
   \item
-    Normalize average rating, OHE product type,
+    Normalize average rating, OHE product type
+  \item
   \end{enumerate}
 \item
   You would like to predict the presence of a certain disease using
