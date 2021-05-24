@@ -16,6 +16,7 @@ Incomplete, due to file deletion.
 * Self Eval: [[KBMlSelfEval]] 
 * Final Exploration: [[KBWeightAgnosticNN]]
 * [[KBxSomethingElse]]
+* [[KBxDataAnalysisExercise]]
 
 
 

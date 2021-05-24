@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11741)}}    % original
-%\rhead{\textrmlf{Compiled }\#11741\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13567)}}    % original
+%\rhead{\textrmlf{Compiled }\#13567\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -201,6 +201,8 @@ Incomplete, due to file deletion.
   Final Exploration: {[}{[}KBWeightAgnosticNN{]}{]}
 \item
   {[}{[}KBxSomethingElse{]}{]}
+\item
+  {[}{[}KBxDataAnalysisExercise{]}{]}
 \end{itemize}
 
 \end{document}
