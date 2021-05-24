@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11983)}}    % original
-%\rhead{\textrmlf{Compiled }\#11983\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13533)}}    % original
+%\rhead{\textrmlf{Compiled }\#13533\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -302,6 +302,8 @@
   {[}{[}KBxStoryOfScience{]}{]}
 \item
   {[}{[}KBhISOS101StoryResearch{]}{]}
+\item
+  {[}{[}KBhISOSAIEthics{]}{]}
 \end{itemize}
 
 \end{document}

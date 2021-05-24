@@ -43,7 +43,4 @@ source: #index
 
 * [[KBxStoryOfScience]]
 * [[KBhISOS101StoryResearch]]
-
-
-
-	
+* [[KBhISOSAIEthics]]
