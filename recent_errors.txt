@@ -1,5 +1,5 @@
-        Log for attempt at Mon May 24 11:01:13 AM PDT 2021 (13554)
-        Mon May 24 11:01:13 AM PDT 2021 Converting 2020ISOS101/KBhISOSAIEthics.md...
+        Log for attempt at Mon May 24 11:17:03 AM PDT 2021 (13555)
+        Mon May 24 11:17:03 AM PDT 2021 Converting 2020ISOS101/KBhISOSAIEthics.md...
 
 kpathsea: Running mktextfm HelveticaNeue
 /usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation H for HelveticaNeue.

@@ -19,3 +19,4 @@ There are scopes by which AI is like gun and scopes whereby they are humans.
 
 ***
 
+* 
