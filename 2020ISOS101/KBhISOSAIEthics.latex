@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13547)}}    % original
-%\rhead{\textrmlf{Compiled }\#13547\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13548)}}    % original
+%\rhead{\textrmlf{Compiled }\#13548\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -207,6 +207,6 @@ AI are tools, so are guns; so guns may be a good proxy for the AI.
 There are scopes by which AI is like gun and scopes whereby they are
 humans.
 
-**
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}
