@@ -9,14 +9,14 @@ source:  #index
 
 ---
 
-For **each** of the four scenarios below, answer the following questions. Please explain where your targets/rewards would come from (#2), how you would make your inputs numerical (#3), and a bit of your reasoning on ethical issues (#6). Other questions do not need explanation.
+%%For **each** of the four scenarios below, answer the following questions. Please explain where your targets/rewards would come from (#2), how you would make your inputs numerical (#3), and a bit of your reasoning on ethical issues (#6). Other questions do not need explanation.
 
 1.  What type of machine learning problem (regression, classification, clustering, generation, reinforcement learning) do you think this is?
 2.  If this is a supervised problem, what will you use as your targets (aka labels)? If it is reinforcement learning, what will you use as your rewards? If it is unsupervised, just say "unsupervised".
 3.  What processing do you need to do to your input data?
 4.  What type(s) of model(s) would you try? You may need to combine models. Remember to start with the simplest thing that might work! Types of models we've talked about are linear regression, decision trees, random forest, logistic regression, naive bayes, support vector machines, K-means, DBSCAN, hierarchical clustering, fully connected neural networks, convolutional neural networks, recurrent neural networks, generative adversarial networks, deep Q learning, and evolutionary methods.
 5.  What validation metric(s) would you use to decide how well you're doing?
-6.  What ethical challenges do the data collection, creation, and/or use of this model create? If you feel there aren’t any, just say “None”.
+6.  What ethical challenges do the data collection, creation, and/or use of this model create? If you feel there aren’t any, just say “None”.%%
 
 ### Scenarios:
 
@@ -45,7 +45,7 @@ For **each** of the four scenarios below, answer the following questions. Please
 	1.  Classification
 	2.  
 
-### Example:
+%%### Example:
 
 Here is an example answer, taken from [http://archive.ics.uci.edu/ml/datasets/Abalone](http://archive.ics.uci.edu/ml/datasets/Abalone):
 
@@ -55,4 +55,4 @@ Scenario: You want to predict the age of an abalone (a type of shellfish). You h
 2.  age (included in dataset)
 3.  Length, diameter, height, and weight are numeric. I will scale them. For the sex feature, make it one-hot-encoded.
 4.  linear regression. maybe a fully connected neural network later
-5.  R^2
+5.  R^2%%

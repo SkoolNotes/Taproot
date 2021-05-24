@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13604)}}    % original
-%\rhead{\textrmlf{Compiled }\#13604\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13613)}}    % original
+%\rhead{\textrmlf{Compiled }\#13613\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -189,7 +189,7 @@
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-For \textbf{each} of the four scenarios below, answer the following
+\%\%For \textbf{each} of the four scenarios below, answer the following
 questions. Please explain where your targets/rewards would come from
 (\#2), how you would make your inputs numerical (\#3), and a bit of your
 reasoning on ethical issues (\#6). Other questions do not need
@@ -221,7 +221,8 @@ explanation.
   doing?
 \item
   What ethical challenges do the data collection, creation, and/or use
-  of this model create? If you feel there aren't any, just say ``None''.
+  of this model create? If you feel there aren't any, just say
+  ``None''.\%\%
 \end{enumerate}
 
 \hypertarget{scenarios}{%
@@ -318,8 +319,7 @@ explanation.
   \end{enumerate}
 \end{enumerate}
 
-\hypertarget{example}{%
-\subsubsection{Example:}\label{example}}
+\%\%\#\#\# Example:
 
 Here is an example answer, taken from
 \url{http://archive.ics.uci.edu/ml/datasets/Abalone}:
@@ -342,7 +342,7 @@ weight.
 \item
   linear regression. maybe a fully connected neural network later
 \item
-  R\^{}2
+  R\^{}2\%\%
 \end{enumerate}
 
 \end{document}
