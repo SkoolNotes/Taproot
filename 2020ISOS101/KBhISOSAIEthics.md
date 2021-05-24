@@ -20,4 +20,4 @@ There are scopes by which AI is like gun and scopes whereby they are humans.
 ***
 
 * How does the licensing of AI products to tech firms like Microsoft raise issues of ownership and responsible deployment? When things go wrong, is the creator or licensee responsible?
-* 
+* u
