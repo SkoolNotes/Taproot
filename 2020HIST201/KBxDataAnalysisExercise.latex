@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13592)}}    % original
-%\rhead{\textrmlf{Compiled }\#13592\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13593)}}    % original
+%\rhead{\textrmlf{Compiled }\#13593\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -272,18 +272,25 @@ explanation.
   \item
     Human evaluation
   \item
-    Could be used to fake twee
+    Could be used to fake tweets or impersonate people which has many
+    larger implications. Data harvesting might also be a problem.
   \end{enumerate}
 \item
-  A company would like to be able to predict the next months' sales for
-  each of its products. You have a dataset that the company has
-  collected for many years, with data for a particular product on a
+  \textbf{A company would like to be able to predict the next months'
+  sales for each of its products. You have a dataset that the company
+  has collected for many years, with data for a particular product on a
   particular month in each row. Each row contains the number of sales
   for the month, the number of sales from the previous month, the
   average rating (1-5) of the product in the previous month, the number
   of reviews in the previous month, the product type (e.g.~``toaster'',
   ``coffee maker'', ``rice cooker''), its price the previous month, and
-  its price for the current month.
+  its price for the current month.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+  \end{enumerate}
 \item
   You would like to predict the presence of a certain disease using
   chest x-ray data. You have a lot of x-ray images, a small amount of
