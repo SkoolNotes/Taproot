@@ -42,7 +42,8 @@ For **each** of the four scenarios below, answer the following questions. Please
 	5.  R^2
 	6. None
 4.  **You would like to predict the presence of a certain disease using chest x-ray data. You have a lot of x-ray images, a small amount of which have been labeled as having the disease or not having the disease. The rest of the images are unknown as to whether or not the person has the disease.**
-	1.  
+	1.  Classification
+	2.  
 
 ### Example:
 

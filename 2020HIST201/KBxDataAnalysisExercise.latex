@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13603)}}    % original
-%\rhead{\textrmlf{Compiled }\#13603\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13604)}}    % original
+%\rhead{\textrmlf{Compiled }\#13604\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -312,6 +312,8 @@ explanation.
   \begin{enumerate}
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
+  \item
+    Classification
   \item
   \end{enumerate}
 \end{enumerate}
