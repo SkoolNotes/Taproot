@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13576)}}    % original
-%\rhead{\textrmlf{Compiled }\#13576\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13577)}}    % original
+%\rhead{\textrmlf{Compiled }\#13577\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -246,6 +246,8 @@ explanation.
     the game, perhaps in addition to some extra normalized variables
     like time left and goals filled.
   \item
+    Perhaps deep Q learning with an RNN to be able to process different
+    obstacle speeds.
   \end{enumerate}
 \item
   You would like a model to write tweets in the style of a particular
