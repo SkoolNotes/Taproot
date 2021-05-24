@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13581)}}    % original
-%\rhead{\textrmlf{Compiled }\#13581\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13582)}}    % original
+%\rhead{\textrmlf{Compiled }\#13582\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -252,11 +252,17 @@ explanation.
     Regret
   \item
     Botting in video games, when the same techniques are applied to
-    multiplayer
+    multiplayer?
   \end{enumerate}
 \item
-  You would like a model to write tweets in the style of a particular
-  author.
+  \textbf{You would like a model to write tweets in the style of a
+  particular author.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+  \end{enumerate}
 \item
   A company would like to be able to predict the next months' sales for
   each of its products. You have a dataset that the company has
