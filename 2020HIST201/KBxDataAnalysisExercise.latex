@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13578)}}    % original
-%\rhead{\textrmlf{Compiled }\#13578\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13579)}}    % original
+%\rhead{\textrmlf{Compiled }\#13579\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -248,6 +248,8 @@ explanation.
   \item
     Perhaps deep Q learning with an RNN to be able to process different
     obstacle speeds.
+  \item
+    Regret
   \item
   \end{enumerate}
 \item

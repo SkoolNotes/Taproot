@@ -1,5 +1,5 @@
-        Log for attempt at Mon May 24 01:14:31 PM PDT 2021 (13578)
-        Mon May 24 01:14:31 PM PDT 2021 Converting 2020HIST201/KBxDataAnalysisExercise.md...
+        Log for attempt at Mon May 24 01:15:10 PM PDT 2021 (13579)
+        Mon May 24 01:15:10 PM PDT 2021 Converting 2020HIST201/KBxDataAnalysisExercise.md...
 
 kpathsea: Running mktextfm HelveticaNeue
 /usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation H for HelveticaNeue.
