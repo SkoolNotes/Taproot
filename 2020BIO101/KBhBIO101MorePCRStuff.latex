@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13638)}}    % original
-%\rhead{\textrmlf{Compiled }\#13638\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13639)}}    % original
+%\rhead{\textrmlf{Compiled }\#13639\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -230,7 +230,9 @@
   \begin{itemize}
   \tightlist
   \item
-    A detergent breaks the outsid
+    A \textbf{detergent} breaks the outside lipid layer and the nucleus
+  \item
+    Then, a \textbf{protease} chews up the enzyme and
   \end{itemize}
 \end{itemize}
 
