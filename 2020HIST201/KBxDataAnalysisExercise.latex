@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13574)}}    % original
-%\rhead{\textrmlf{Compiled }\#13574\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13575)}}    % original
+%\rhead{\textrmlf{Compiled }\#13575\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -244,7 +244,7 @@ explanation.
   \item
     The agent would be passed some input vector with a grid representing
     the game, perhaps in addition to some extra variables like time left
-    and
+    and goals filled.
   \end{enumerate}
 \item
   You would like a model to write tweets in the style of a particular
