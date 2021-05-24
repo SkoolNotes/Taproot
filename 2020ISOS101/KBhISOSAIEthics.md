@@ -11,5 +11,5 @@ source: [[KBISOSMasterIndex]]
 * Should you be able to sue company for malpractice?
 * Is guns a good proxy for AI?
 
-AI are tools, so are guns; so guns may be
+AI are tools, so are guns; so guns may be a good proxy for the AI.
 
