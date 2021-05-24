@@ -19,4 +19,4 @@ There are scopes by which AI is like gun and scopes whereby they are humans.
 
 ***
 
-* How does the licensing of AI products to tech firms lke Micro
+* How does the licensing of AI products to tech firms like Microsoft raise issues

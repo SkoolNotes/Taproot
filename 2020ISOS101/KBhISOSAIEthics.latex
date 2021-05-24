@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13556)}}    % original
-%\rhead{\textrmlf{Compiled }\#13556\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13557)}}    % original
+%\rhead{\textrmlf{Compiled }\#13557\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -215,7 +215,8 @@ content have a responsibility for?}
 \begin{itemize}
 \tightlist
 \item
-  How does the licensing of AI products to tech firms lke Micro
+  How does the licensing of AI products to tech firms like Microsoft
+  raise issues
 \end{itemize}
 
 \end{document}
