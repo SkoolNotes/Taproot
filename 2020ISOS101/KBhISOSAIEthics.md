@@ -6,3 +6,6 @@ source: [[KBISOSMasterIndex]]
 ---
 
 # Responsibility of AI
+* Should there be international regulation w.r.t. AI use and deployment
+* """" for spacebourn projects
+

@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13538)}}    % original
-%\rhead{\textrmlf{Compiled }\#13538\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13539)}}    % original
+%\rhead{\textrmlf{Compiled }\#13539\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -189,5 +189,13 @@
 
 \hypertarget{responsibility-of-ai}{%
 \section{Responsibility of AI}\label{responsibility-of-ai}}
+
+\begin{itemize}
+\tightlist
+\item
+  Should there be international regulation w.r.t. AI use and deployment
+\item
+  """" for spacebourn projects
+\end{itemize}
 
 \end{document}
