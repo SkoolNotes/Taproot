@@ -30,7 +30,8 @@ For **each** of the four scenarios below, answer the following questions. Please
 2.  **You would like a model to write tweets in the style of a particular author.**
 	1.  Generation
 	2.  Unsupervised
-	3.  Padding, byte pair encoding, tokenization,
+	3.  Padding, byte pair encoding, tokenization, ect.
+	4.  
 3.  A company would like to be able to predict the next months' sales for each of its products. You have a dataset that the company has collected for many years, with data for a particular product on a particular month in each row. Each row contains the number of sales for the month, the number of sales from the previous month, the average rating (1-5) of the product in the previous month, the number of reviews in the previous month, the product type (e.g. "toaster", "coffee maker", "rice cooker"), its price the previous month, and its price for the current month.
 4.  You would like to predict the presence of a certain disease using chest x-ray data. You have a lot of x-ray images, a small amount of which have been labeled as having the disease or not having the disease. The rest of the images are unknown as to whether or not the person has the disease.
 
