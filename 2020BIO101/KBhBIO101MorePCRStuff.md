@@ -18,7 +18,7 @@ author: Houjun Liu
 	* Then, DNA is separated from other proteins & debris
 		=> This is usually done with either enzymes or using heat 
 * How the QuickExtract possibly work
-	*  
+	* A detergent breaks the outsid
 
 
 
