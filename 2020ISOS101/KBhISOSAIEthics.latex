@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13561)}}    % original
-%\rhead{\textrmlf{Compiled }\#13561\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13562)}}    % original
+%\rhead{\textrmlf{Compiled }\#13562\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -190,18 +190,6 @@
 \hypertarget{responsibility-of-ai}{%
 \section{Responsibility of AI}\label{responsibility-of-ai}}
 
-\begin{itemize}
-\tightlist
-\item
-  Should there be international regulation w.r.t. AI use and deployment
-\item
-  """" for spacebourn projects
-\item
-  Should you be able to sue company for malpractice?
-\item
-  Is guns a good proxy for AI?
-\end{itemize}
-
 AI are tools, so are guns; so guns may be a good proxy for the AI.
 
 There are scopes by which AI is like gun and scopes whereby they are
@@ -213,12 +201,23 @@ content have a responsibility for?}
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \begin{itemize}
-\tightlist
 \item
   How does the licensing of AI products to tech firms like Microsoft
   raise issues of ownership and responsible deployment? When things go
   wrong, is the creator or licensee responsible?
 \item
+  Should there be international regulation w.r.t. AI use and deployment
+\item
+  """" for spacebourn projects
+\item
+  Should you be able to sue company for malpractice?
+\item
+  Is guns a good proxy for AI?
+\item
+  \begin{itemize}
+  \tightlist
+  \item
+  \end{itemize}
 \end{itemize}
 
 \end{document}
