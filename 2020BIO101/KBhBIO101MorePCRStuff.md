@@ -5,12 +5,13 @@ course: BIO101
 author: Houjun Liu
 ---
 
-# More PCR Stuff
+# DNA Extraction
 #flo 
 
 * DNA Extraction
-* Background
-	* 
+* Two main steps
+	* Breaknig the cells open chemically, by breaking the membrane of the cell
+	* (Of )
 
 
 

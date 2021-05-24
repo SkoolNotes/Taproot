@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13630)}}    % original
-%\rhead{\textrmlf{Compiled }\#13630\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13631)}}    % original
+%\rhead{\textrmlf{Compiled }\#13631\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -187,8 +187,8 @@
 \textbf{Source}:\thinspace
 {\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{more-pcr-stuff}{%
-\section{More PCR Stuff}\label{more-pcr-stuff}}
+\hypertarget{dna-extraction}{%
+\section{DNA Extraction}\label{dna-extraction}}
 
 \#flo
 
@@ -197,11 +197,15 @@
 \item
   DNA Extraction
 \item
-  Background
+  Two main steps
 
   \begin{itemize}
   \tightlist
   \item
+    Breaknig the cells open chemically, by breaking the membrane of the
+    cell
+  \item
+    (Of )
   \end{itemize}
 \end{itemize}
 
