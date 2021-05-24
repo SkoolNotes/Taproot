@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13623)}}    % original
-%\rhead{\textrmlf{Compiled }\#13623\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13624)}}    % original
+%\rhead{\textrmlf{Compiled }\#13624\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -319,7 +319,7 @@ explanation.
     Semi-supervised, using the provided labels as well as generated
     pseudo-labels
   \item
-    Down-sampling, grayscale,
+    Down-sampling, grayscale
   \item
     CNN
   \item
