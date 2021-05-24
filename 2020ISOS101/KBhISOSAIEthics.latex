@@ -120,8 +120,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ ISOS101 }
+\newcommand{\thelesson}{ AI Ethics Research }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -134,12 +134,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13535)}}    % original
-%\rhead{\textrmlf{Compiled }\#13535\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13536)}}    % original
+%\rhead{\textrmlf{Compiled }\#13536\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -184,10 +184,10 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBISOSMasterIndex}{\tiny\textulf{[[}\textbf{KBISOSMasterIndex}\textulf{]]}}}\thinspace
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-title: AI Ethics Research author: Houjun Liu course: ISOS101 source:
-{[}{[}KBISOSMasterIndex kJ{]}{]}
+\hypertarget{section}{%
+\section{}\label{section}}
 
 \end{document}
