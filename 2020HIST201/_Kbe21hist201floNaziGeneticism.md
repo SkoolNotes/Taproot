@@ -10,6 +10,8 @@ title: Nazi Geneticism
 
 ## the genetically impure were sterilized
 
-## science as salvation
+# science as salvation
 
-### Nazi Germany promoted the existing eugencists and used them to legitimize their work
+## Nazi Germany promoted the existing eugencists and used them to legitimize their work
+
+## proponents argued that costly welfare services were being wasted on the impure and that they were interfering with natural selection
