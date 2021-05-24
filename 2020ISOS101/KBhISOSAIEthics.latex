@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13539)}}    % original
-%\rhead{\textrmlf{Compiled }\#13539\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13540)}}    % original
+%\rhead{\textrmlf{Compiled }\#13540\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -196,6 +196,8 @@
   Should there be international regulation w.r.t. AI use and deployment
 \item
   """" for spacebourn projects
+\item
+  Should you be able to sue company for malpractice?
 \end{itemize}
 
 \end{document}
