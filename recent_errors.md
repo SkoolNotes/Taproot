@@ -1,5 +1,5 @@
-        Log for attempt at Tue May 25 11:01:57 AM PDT 2021 (13650)
-        Tue May 25 11:01:57 AM PDT 2021 Converting 2020JAP201/KBxJapFInalProj.md...
+        Log for attempt at Tue May 25 11:03:09 AM PDT 2021 (13651)
+        Tue May 25 11:03:09 AM PDT 2021 Converting 2020JAP201/KBxJapFInalProj.md...
 
 kpathsea: Running mktextfm HelveticaNeue
 /usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation H for HelveticaNeue.

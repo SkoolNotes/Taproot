@@ -11,6 +11,8 @@ source:  #index
 
 location: **別府**
 
+Spent most of my time reading through the examples and consolidating research.
+
 filtered research to include:
 
 -   Geographical or climatic features
@@ -25,6 +27,7 @@ filtered research to include:
 -   What you can see, do, and/or eat there
 	-   onsen food
 		-   onsen egg
+	-   hot springs, of course, but also hot sand baths
     
 -   Why you like it or recommend it
 	-   hot springs are very cool
