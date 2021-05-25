@@ -30,6 +30,7 @@ filtered research to include:
 	-   onsen food
 		-   onsen egg
 	-   hot springs, of course, but also hot sand baths and steam baths
+	-   and also, some theme parks
     
 -   Why you like it or recommend it
 	-   hot springs are very cool
