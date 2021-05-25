@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13645)}}    % original
-%\rhead{\textrmlf{Compiled }\#13645\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13646)}}    % original
+%\rhead{\textrmlf{Compiled }\#13646\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -198,10 +198,32 @@ include:
 \begin{itemize}
 \item
   Geographical or climatic features
+
+  \begin{itemize}
+  \tightlist
+  \item
+    hot springs!
+  \item
+    coverned in mist
+  \end{itemize}
 \item
   Famous places (名所、めいしょ) or products (名物、めいぶつ)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    many types of hot springs
+  \item
+    amazing pa
+  \end{itemize}
 \item
   What you can see, do, and/or eat there
+
+  \begin{itemize}
+  \tightlist
+  \item
+    onsen food
+  \end{itemize}
 \item
   Why you like it or recommend it
 \item
