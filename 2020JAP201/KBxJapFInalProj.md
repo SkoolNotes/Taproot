@@ -9,7 +9,7 @@ source:  #index
 
 ---
 
-
+location: **別府**
 
 
 
