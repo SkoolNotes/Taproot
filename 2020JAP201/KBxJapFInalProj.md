@@ -35,6 +35,7 @@ filtered research to include:
     
 -   Any other “fun facts"
 	-   over 100 hot springs!
+	-   produces more hot spring water than any other resort 
     
 
 
