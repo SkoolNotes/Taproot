@@ -18,10 +18,11 @@ include:
 -   Geographical or climatic features
 	-   hot springs!
 	-   coverned in mist
+	-   beutiful nature nearby
     
 -   Famous places (名所、めいしょ) or products (名物、めいぶつ)
 	-   many types of hot springs
-	-   amazing pa
+	-   amazing park
     
 -   What you can see, do, and/or eat there
 	-   onsen food
