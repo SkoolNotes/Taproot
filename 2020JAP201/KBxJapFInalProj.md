@@ -13,8 +13,6 @@ location: **別府**
 
 include:
 
-**
-
 -   Geographical or climatic features
 	-   hot springs!
 	-   coverned in mist
@@ -26,13 +24,15 @@ include:
     
 -   What you can see, do, and/or eat there
 	-   onsen food
+		-   onsen egg
     
 -   Why you like it or recommend it
+	-   hot springs are very cool
+	-   food is very good
     
 -   Any other “fun facts"
     
 
-**
 
 
 

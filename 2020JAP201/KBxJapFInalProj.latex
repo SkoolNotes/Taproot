@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13647)}}    % original
-%\rhead{\textrmlf{Compiled }\#13647\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13648)}}    % original
+%\rhead{\textrmlf{Compiled }\#13648\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -193,9 +193,8 @@ location: \textbf{別府}
 
 include:
 
-**
-
 \begin{itemize}
+\tightlist
 \item
   Geographical or climatic features
 
@@ -225,13 +224,25 @@ include:
   \tightlist
   \item
     onsen food
+
+    \begin{itemize}
+    \tightlist
+    \item
+      onsen egg
+    \end{itemize}
   \end{itemize}
 \item
   Why you like it or recommend it
+
+  \begin{itemize}
+  \tightlist
+  \item
+    hot springs are very cool
+  \item
+    food is very good
+  \end{itemize}
 \item
   Any other ``fun facts''
 \end{itemize}
-
-**
 
 \end{document}
