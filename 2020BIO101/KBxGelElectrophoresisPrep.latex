@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13656)}}    % original
-%\rhead{\textrmlf{Compiled }\#13656\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13657)}}    % original
+%\rhead{\textrmlf{Compiled }\#13657\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -189,6 +189,9 @@
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
+\hypertarget{prompt}{%
+\subsection{Prompt}\label{prompt}}
+
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
@@ -220,5 +223,7 @@
     stained gel (assume your PCR reaction was successful)?
   \end{enumerate}
 \end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}
