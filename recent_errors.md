@@ -1,5 +1,5 @@
-        Log for attempt at Mon May 24 02:53:36 PM PDT 2021 (13642)
-        Mon May 24 02:53:36 PM PDT 2021 Converting 2020BIO101/KBhBIO101MorePCRStuff.md...
+        Log for attempt at Tue May 25 10:49:58 AM PDT 2021 (13643)
+        Tue May 25 10:49:58 AM PDT 2021 Converting 2020JAP201/KBJapanese_Master_Index.md...
 
 kpathsea: Running mktextfm HelveticaNeue
 /usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation H for HelveticaNeue.
