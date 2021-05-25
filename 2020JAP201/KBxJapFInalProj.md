@@ -31,6 +31,7 @@ include:
 	-   food is very good
     
 -   Any other “fun facts"
+	-   over 100 hot springs!
     
 
 
