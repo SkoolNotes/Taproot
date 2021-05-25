@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13644)}}    % original
-%\rhead{\textrmlf{Compiled }\#13644\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13645)}}    % original
+%\rhead{\textrmlf{Compiled }\#13645\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -190,5 +190,24 @@
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 location: \textbf{別府}
+
+include:
+
+**
+
+\begin{itemize}
+\item
+  Geographical or climatic features
+\item
+  Famous places (名所、めいしょ) or products (名物、めいぶつ)
+\item
+  What you can see, do, and/or eat there
+\item
+  Why you like it or recommend it
+\item
+  Any other ``fun facts''
+\end{itemize}
+
+**
 
 \end{document}
