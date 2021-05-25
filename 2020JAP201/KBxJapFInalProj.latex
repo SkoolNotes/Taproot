@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13649)}}    % original
-%\rhead{\textrmlf{Compiled }\#13649\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13650)}}    % original
+%\rhead{\textrmlf{Compiled }\#13650\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -191,7 +191,7 @@
 
 location: \textbf{別府}
 
-include:
+filtered research to include:
 
 \begin{itemize}
 \tightlist
@@ -203,9 +203,9 @@ include:
   \item
     hot springs!
   \item
-    coverned in mist
+    covered in mist
   \item
-    beutiful nature nearby
+    beautiful nature nearby
   \end{itemize}
 \item
   Famous places (名所、めいしょ) or products (名物、めいぶつ)

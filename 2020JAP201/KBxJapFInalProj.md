@@ -11,12 +11,12 @@ source:  #index
 
 location: **別府**
 
-include:
+filtered research to include:
 
 -   Geographical or climatic features
 	-   hot springs!
-	-   coverned in mist
-	-   beutiful nature nearby
+	-   covered in mist
+	-   beautiful nature nearby
     
 -   Famous places (名所、めいしょ) or products (名物、めいぶつ)
 	-   many types of hot springs
