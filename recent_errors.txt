@@ -1,5 +1,54 @@
-        Log for attempt at Tue May 25 11:05:38 AM PDT 2021 (13654)
-        Tue May 25 11:05:38 AM PDT 2021 Converting 2020JAP201/KBxJapFInalProj.md...
+        Log for attempt at Tue May 25 04:14:32 PM PDT 2021 (13655)
+        Tue May 25 04:14:32 PM PDT 2021 Converting 2020BIO101/KBBiologyMasterIndex.md...
+
+kpathsea: Running mktextfm HelveticaNeue
+/usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation H for HelveticaNeue.
+/usr/share/texmf-dist/web2c/mktexnam: Need to update /usr/share/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input HelveticaNeue
+This is METAFONT, Version 2.7182818 (TeX Live 2020/Arch Linux) (preloaded base=mf)
+
+kpathsea: Running mktexmf HelveticaNeue
+
+! I can't find file `HelveticaNeue'.
+<*> ... mag:=1; ; nonstopmode; input HelveticaNeue
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ... mag:=1; ; nonstopmode; input HelveticaNeue
+                                                  
+Transcript written on mfput.log.
+grep: HelveticaNeue.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input HelveticaNeue' failed to make HelveticaNeue.tfm.
+kpathsea: Appending font creation commands to missfont.log.
+
+kpathsea: Running mktextfm HelveticaNeue
+/usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation H for HelveticaNeue.
+/usr/share/texmf-dist/web2c/mktexnam: Need to update /usr/share/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input HelveticaNeue
+This is METAFONT, Version 2.7182818 (TeX Live 2020/Arch Linux) (preloaded base=mf)
+
+kpathsea: Running mktexmf HelveticaNeue
+
+! I can't find file `HelveticaNeue'.
+<*> ... mag:=1; ; nonstopmode; input HelveticaNeue
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ... mag:=1; ; nonstopmode; input HelveticaNeue
+                                                  
+Transcript written on mfput.log.
+grep: HelveticaNeue.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input HelveticaNeue' failed to make HelveticaNeue.tfm.
+kpathsea: Appending font creation commands to missfont.log.
+Error producing PDF.
+! Package fontspec Error: The font "HelveticaNeue" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.90 \newfontfamily
+
+        Tue May 25 04:14:36 PM PDT 2021 Converting 2020BIO101/KBxGelElectrophoresisPrep.md...
 
 kpathsea: Running mktextfm HelveticaNeue
 /usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation H for HelveticaNeue.

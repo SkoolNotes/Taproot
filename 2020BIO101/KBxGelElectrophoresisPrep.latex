@@ -120,8 +120,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ BIO101 }
-\newcommand{\thelesson}{ Biology Master Index }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -139,7 +139,7 @@
 \rhead{
     \today
     }       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -185,142 +185,8 @@
 
 % DID YOU SET SPELL????
 
-\#source
+\#flo \#ref \#ret \#disorganized \#incomplete
 
-\hypertarget{introductions}{%
-\subsection{Introductions}\label{introductions}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}00-Topic-KB202008251020{]}{]} Day one, but not broken
-\item
-  Exr0n's notes {[}{[}KB20200825142200{]}{]}
-\item
-  {[}{[}KBhBIO101LetsDoBio{]}{]} Biology, day 1
-\item
-  {[}{[}KBhBIO101WhatsBio{]}{]} What\ldots{} is\ldots{} biology?
-\end{itemize}
-
-\hypertarget{trips-free-association-overview}{%
-\subsection{Trip's Free Association
-Overview}\label{trips-free-association-overview}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBFreeAssociationBioReviewHuxley{]}{]} Free Associate
-\end{itemize}
-
-\hypertarget{water}{%
-\subsection{Water}\label{water}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhBIO101Watah{]}{]} Alright! Let's talk about Water.
-\item
-  Huxley: {[}{[}KBWaterFreewrite{]}{]}
-\item
-  Exr0n: {[}{[}KBe20bio101retWaterFreewrite{]}{]}
-\end{itemize}
-
-\hypertarget{diet-finding}{%
-\subsection{Diet Finding}\label{diet-finding}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBBioDietStorage{]}{]}
-\item
-  {[}{[}KBe20bio201retDietFinderIndex{]}{]}
-\end{itemize}
-
-\hypertarget{unsorted}{%
-\subsection{Unsorted}\label{unsorted}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KB20200826090938{]}{]} Emergent Properties
-\item
-  {[}{[}KBhExpirementDesignBIO101{]}{]} Expirement design
-\item
-  {[}{[}KBe20bio101floTripBreakout{]}{]}
-\item
-  Macromolecules
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Jack --- {[}{[}KBhBIO101Macromolecules{]}{]}
-  \item
-    Hux ---{[}{[}KBMacromelecules{]}{]}
-  \end{itemize}
-\item
-  {[}{[}KBBIO101YelloSky{]}{]}
-\item
-  Exr0n's Flows {[}{[}20bio201floD3{]}{]}
-\item
-  Dylan's crappy notes {[}{[}KBd20200911notes{]}{]}
-\item
-  Central Dogma of Biology {[}{[}KBBIO101CentralDogma{]}{]}
-\item
-  Huxley's big project planning doc
-  {[}{[}KBBioPrimoridalSoupPlanning{]}{]}
-\item
-  Eukaryotic Gene Expression {[}{[}KBBIO101GeneExpression{]}{]}
-\item
-  Hammering in Epigenetics {[}{[}KBBIO101EpigeneticHammering{]}{]}
-\item
-  Self Eval {[}{[}KBxBioSelfEval2020{]}{]}
-\end{itemize}
-
-\hypertarget{amino-acids}{%
-\subsection{Amino Acids}\label{amino-acids}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhBIO101AminoAcids{]}{]}
-\end{itemize}
-
-\hypertarget{semester-2}{%
-\section{Semester 2}\label{semester-2}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhBIO101Day1{]}{]}
-\item
-  {[}{[}KBhBIO101MutationsAllealsInheritance{]}{]}
-\item
-  {[}{[}KBhBIO101RaceAndGenetics{]}{]}
-\item
-  {[}{[}KBhBIO101SNP{]}{]}
-\item
-  {[}{[}KBxPCRcont{]}{]}
-\item
-  {[}{[}KBxSNPPCR{]}{]}
-\item
-  {[}{[}KBhBIO101MorePCRStuff{]}{]}
-\item
-  {[}{[}KBxGelElectrophoresisPrep{]}{]}
-\end{itemize}
-
-\hypertarget{quiz-review-document}{%
-\subsection{Quiz Review Document}\label{quiz-review-document}}
-
-\begin{itemize}
-\tightlist
-\item
-  10092020 {[}{[}KBhBIO101BioMoleculesQuizReview{]}{]}
-\item
-  11302020 {[}{[}KBhBIO101CentralDogmaQuizReview{]}{]}
-\item
-  04262021 {[}{[}KBhBIO101MutationInheritanceQuizReview{]}{]}
-\item
-  09812731 {[}{[}KBxLittleMoreBIO{]}{]}
-\end{itemize}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \end{document}

@@ -53,6 +53,7 @@ source: #index
 - [[KBxPCRcont]]
 - [[KBxSNPPCR]]
 - [[KBhBIO101MorePCRStuff]]
+- [[KBxGelElectrophoresisPrep]]
 
 ## Quiz Review Document
 * 10092020 [[KBhBIO101BioMoleculesQuizReview]]
