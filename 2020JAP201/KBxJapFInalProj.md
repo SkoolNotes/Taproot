@@ -23,11 +23,13 @@ filtered research to include:
 -   Famous places (名所、めいしょ) or products (名物、めいぶつ)
 	-   many types of hot springs
 	-   amazing park
+	-   the "Hells of Beppu"
+	-   monkey park
     
 -   What you can see, do, and/or eat there
 	-   onsen food
 		-   onsen egg
-	-   hot springs, of course, but also hot sand baths
+	-   hot springs, of course, but also hot sand baths and steam baths
     
 -   Why you like it or recommend it
 	-   hot springs are very cool
