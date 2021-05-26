@@ -25,4 +25,4 @@ source: KBBiologyMasterIndex
 
 ***
 
-* The gelaneous/fatty tissue 
+* The fatty tissue helps the fish 
