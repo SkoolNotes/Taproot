@@ -38,8 +38,7 @@ source:  #index
 >	1.  **Write and submit** a brief  (1 paragraph) summary of what you've learned and include links to your sources.
 
 
-Agarose is made from red seaweed, and is md
-
+https://www.google.com/search?client=opera&q=agarose&sourceid=opera&ie=UTF-8&oe=UTF-8
 
 
 
