@@ -38,8 +38,8 @@ source:  #index
 >	1.  **Write and submit** a brief  (1 paragraph) summary of what you've learned and include links to your sources.
 
 
+https://en.wikipedia.org/wiki/Gel_electrophoresis?scrlybrkr=940ae169
 https://www.google.com/search?client=opera&q=agarose&sourceid=opera&ie=UTF-8&oe=UTF-8
-
 
 
 
