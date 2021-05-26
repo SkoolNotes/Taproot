@@ -26,3 +26,5 @@ source: KBBiologyMasterIndex
 ***
 
 * The fatty tissue helps the fish maintain mobility at low 
+
+sanger sequencing
