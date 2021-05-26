@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13672)}}    % original
-%\rhead{\textrmlf{Compiled }\#13672\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13674)}}    % original
+%\rhead{\textrmlf{Compiled }\#13674\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -210,5 +210,20 @@ organization}\label{levels-of-cell-organization}}
 \item
   Organism
 \end{itemize}
+
+\hypertarget{single-cell-sequencing}{%
+\subsubsection{Single Cell Sequencing}\label{single-cell-sequencing}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Isolate single cells
+\item
+  Capture RNA for each cell
+\item
+  Loud box?
+\item
+\end{enumerate}
 
 \end{document}

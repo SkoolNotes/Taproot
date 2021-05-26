@@ -15,4 +15,8 @@ source: KBBiologyMasterIndex
 - Organ system
 - Organism
 
-## Sin
+### Single Cell Sequencing
+1. Isolate single cells
+2. Capture RNA for each cell
+3. Loud box?
+4. 
