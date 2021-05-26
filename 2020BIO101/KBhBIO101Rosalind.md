@@ -23,4 +23,6 @@ source: KBBiologyMasterIndex
 
 (Remember that this is not a PCR reaction, b/c we are transcribing the all of the mRNA and not a segment.)
 
+***
 
+* The gelaneous/fatty tissue 
