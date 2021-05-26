@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13659)}}    % original
-%\rhead{\textrmlf{Compiled }\#13659\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13660)}}    % original
+%\rhead{\textrmlf{Compiled }\#13660\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -270,5 +270,26 @@
 
 \hypertarget{cw}{%
 \subsection{CW:}\label{cw}}
+
+\begin{quote}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Move through the
+  \href{https://learn.genetics.utah.edu/content/labs/gel/}{gel
+  electrophoresis interactive tutorial} (enjoy the goofy sound effects).
+\item
+  Using one or more sound sources, extend your learning about a specific
+  aspect of gel electrophoresis that interests you (e.g.~physical
+  properties of agarose, movement of biomolecules through agarose,
+  staining DNA, DNA size standard ladders, invention of the technique,
+  automation, alternative applications of electrophoresis, or another
+  topic of your choosing).~
+\item
+  \textbf{Write and submit} a brief~ (1 paragraph) summary of what
+  you've learned and include links to your sources.
+\end{enumerate}
+\end{quote}
 
 \end{document}
