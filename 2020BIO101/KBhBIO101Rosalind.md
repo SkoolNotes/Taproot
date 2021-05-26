@@ -19,4 +19,5 @@ source: KBBiologyMasterIndex
 1. Isolate single cells
 2. Capture RNA for each cell
 3. Loud box?
-4. 
+4. Cluster the outputs using a clustering mechanism
+
