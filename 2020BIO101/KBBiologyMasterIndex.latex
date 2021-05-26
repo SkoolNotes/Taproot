@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13655)}}    % original
-%\rhead{\textrmlf{Compiled }\#13655\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13668)}}    % original
+%\rhead{\textrmlf{Compiled }\#13668\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -306,6 +306,8 @@ Overview}\label{trips-free-association-overview}}
   {[}{[}KBhBIO101MorePCRStuff{]}{]}
 \item
   {[}{[}KBxGelElectrophoresisPrep{]}{]}
+\item
+  {[}{[}KBhBIO101Rosalind{]}{]}
 \end{itemize}
 
 \hypertarget{quiz-review-document}{%
