@@ -20,7 +20,7 @@ source:  #index
 --- 
 
 
-# Responses
+## Responses
 
 
 1. **What is the specific feature of DNA that causes it to move toward the positively charged side of the gel-running apparatus?**
@@ -31,5 +31,5 @@ source:  #index
 	1. I would expect to see a band, or a lot more DNA, in the bp length section of the segment that was multiplied with the PCR reaction. 
 
 
-
+## CW: 
 
