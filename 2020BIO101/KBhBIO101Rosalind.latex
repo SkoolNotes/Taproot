@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13675)}}    % original
-%\rhead{\textrmlf{Compiled }\#13675\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13676)}}    % original
+%\rhead{\textrmlf{Compiled }\#13676\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -226,5 +226,8 @@ organization}\label{levels-of-cell-organization}}
 \item
   Cluster the outputs using a clustering mechanism
 \end{enumerate}
+
+(Remember that this is not a PCR reaction, b/c we are transcribing the
+all of the mRNA and not a segment.)
 
 \end{document}
