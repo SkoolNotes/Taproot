@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13657)}}    % original
-%\rhead{\textrmlf{Compiled }\#13657\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13658)}}    % original
+%\rhead{\textrmlf{Compiled }\#13658\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -225,5 +225,47 @@
 \end{enumerate}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{responses}{%
+\section{Responses}\label{responses}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{What is the specific feature of DNA that causes it to move
+  toward the positively charged side of the gel-running apparatus?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    DNA fragments are negatively charged. Thus, they move toward the
+    positive charge.
+  \end{enumerate}
+\item
+  \textbf{Shorter DNA fragments travel farther along the gel than longer
+  DNA fragments. Why is this?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    DNA fragments have the same amount of charge regardless of their
+    mass. Thus, the fragments with less mass are more greatly effected.
+  \end{enumerate}
+\item
+  \textbf{When you analyze your specific PCR product using gel
+  electrophoresis, what do you expect to see in the final image of the
+  stained gel (assume your PCR reaction was successful)?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    I would expect to see a band, or a lot more DNA, in the bp length
+    section of the segment that was multiplied with the PCR reaction.
+  \end{enumerate}
+\end{enumerate}
 
 \end{document}

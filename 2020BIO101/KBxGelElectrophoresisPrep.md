@@ -20,7 +20,15 @@ source:  #index
 --- 
 
 
+# Responses
 
+
+1. **What is the specific feature of DNA that causes it to move toward the positively charged side of the gel-running apparatus?**
+	1.  DNA fragments are negatively charged. Thus, they move toward the positive charge.
+2.  **Shorter DNA fragments travel farther along the gel than longer DNA fragments. Why is this?**
+	1.  DNA fragments have the same amount of charge regardless of their mass. Thus, the fragments with less mass are more greatly effected.
+3.  **When you analyze your specific PCR product using gel electrophoresis, what do you expect to see in the final image of the stained gel (assume your PCR reaction was successful)?**
+	1. I would expect to see a band, or a lot more DNA, in the bp length section of the segment that was multiplied with the PCR reaction. 
 
 
 
