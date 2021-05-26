@@ -22,3 +22,5 @@ source: KBBiologyMasterIndex
 4. Cluster the outputs using a clustering mechanism
 
 (Remember that this is not a PCR reaction, b/c we are transcribing the all of the mRNA and not a segment.)
+
+
