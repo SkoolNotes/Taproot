@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13671)}}    % original
-%\rhead{\textrmlf{Compiled }\#13671\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13672)}}    % original
+%\rhead{\textrmlf{Compiled }\#13672\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -192,5 +192,23 @@
 Biodiversity}\label{form-and-function-in-biodiversity}}
 
 @alb's favourite thing: Axolotl
+
+\hypertarget{levels-of-cell-organization}{%
+\subsection{Levels of cell
+organization}\label{levels-of-cell-organization}}
+
+\begin{itemize}
+\tightlist
+\item
+  Cells
+\item
+  Tissues
+\item
+  Organ
+\item
+  Organ system
+\item
+  Organism
+\end{itemize}
 
 \end{document}
