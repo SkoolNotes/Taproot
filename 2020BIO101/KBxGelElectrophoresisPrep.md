@@ -40,7 +40,7 @@ source:  #index
 
 https://en.wikipedia.org/wiki/Gel_electrophoresis?scrlybrkr=940ae169
 https://www.google.com/search?client=opera&q=agarose&sourceid=opera&ie=UTF-8&oe=UTF-8
-
+https://en.wikipedia.org/wiki/Agar
 
 
 

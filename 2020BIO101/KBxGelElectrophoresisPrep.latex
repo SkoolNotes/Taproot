@@ -134,8 +134,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13664)}}    % original
-%\rhead{\textrmlf{Compiled }\#13664\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13665)}}    % original
+%\rhead{\textrmlf{Compiled }\#13665\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -294,5 +294,6 @@
 
 https://en.wikipedia.org/wiki/Gel\_electrophoresis?scrlybrkr=940ae169
 https://www.google.com/search?client=opera\&q=agarose\&sourceid=opera\&ie=UTF-8\&oe=UTF-8
+https://en.wikipedia.org/wiki/Agar
 
 \end{document}
