@@ -37,11 +37,11 @@ source:  #index
  2.  Using one or more sound sources, extend your learning about a specific aspect of gel electrophoresis that interests you (e.g. physical properties of agarose, movement of biomolecules through agarose, staining DNA, DNA size standard ladders, invention of the technique, automation, alternative applications of electrophoresis, or another topic of your choosing). 
 >	1.  **Write and submit** a brief  (1 paragraph) summary of what you've learned and include links to your sources.
 
-
+The rabbit hole begins..
 https://en.wikipedia.org/wiki/Gel_electrophoresis?scrlybrkr=940ae169
 https://www.google.com/search?client=opera&q=agarose&sourceid=opera&ie=UTF-8&oe=UTF-8
 https://en.wikipedia.org/wiki/Agar
-
+https://en.wikipedia.org/wiki/Agarose_gel_electrophoresis
 
 
 
