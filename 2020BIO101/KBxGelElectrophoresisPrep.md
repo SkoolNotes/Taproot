@@ -34,8 +34,8 @@ source:  #index
 ## CW: 
 
 > 1.  Move through the [gel electrophoresis interactive tutorial](https://learn.genetics.utah.edu/content/labs/gel/) (enjoy the goofy sound effects).
-> 2.  Using one or more sound sources, extend your learning about a specific aspect of gel electrophoresis that interests you (e.g. physical properties of agarose, movement of biomolecules through agarose, staining DNA, DNA size standard ladders, invention of the technique, automation, alternative applications of electrophoresis, or another topic of your choosing). 
-    1.  **Write and submit** a brief  (1 paragraph) summary of what you've learned and include links to your sources.
+ 2.  Using one or more sound sources, extend your learning about a specific aspect of gel electrophoresis that interests you (e.g. physical properties of agarose, movement of biomolecules through agarose, staining DNA, DNA size standard ladders, invention of the technique, automation, alternative applications of electrophoresis, or another topic of your choosing). 
+>	1.  **Write and submit** a brief  (1 paragraph) summary of what you've learned and include links to your sources.
 
 
 
