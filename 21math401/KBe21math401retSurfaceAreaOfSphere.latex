@@ -84,9 +84,13 @@
 
 \usepackage{mathspec}
 \setmainfont[
-  ItalicFont     = Helvetica-Italic,
-  BoldFont       = Helvetica-Bold,
-  BoldItalicFont = Helvetica-BoldItalic]{Helvetica}
+  ItalicFont      = NimbusSansNarrow,
+  BoldFont        = NimbusSansBold,
+  BoldItalicFont  = NimbusSans-BoldItalic]{NimbusSans}
+%\setmainfont[
+%  ItalicFont     = Helvetica-Italic,
+%  BoldFont       = Helvetica-Bold,
+%  BoldItalicFont = Helvetica-BoldItalic]{Helvetica}
 %\setmainfont[
 %  ItalicFont     = HelveticaNeue-Italic,
 %  BoldFont       = HelveticaNeue-Bold,
@@ -143,8 +147,8 @@ sphere }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13687)}}    % original
-%\rhead{\textrmlf{Compiled }\#13687\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13688)}}    % original
+%\rhead{\textrmlf{Compiled }\#13688\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
