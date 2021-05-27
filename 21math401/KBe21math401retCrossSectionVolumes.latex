@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13699)}}    % original
-%\rhead{\textrmlf{Compiled }\#13699\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13700)}}    % original
+%\rhead{\textrmlf{Compiled }\#13700\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -205,7 +205,7 @@
 \section{circular base with squares}\label{circular-base-with-squares}}
 
 \[\begin{aligned}
-   \int_{-a}^{a}  \left( 2\sqrt{a^2-x^2}\right)  ^2 dx
+   \int_{-a}^{a}  \left( 2\sqrt{a^2-x^2}\right)  ^2 dx &= 8\int_{0}^{a} a^2-x^2 dx
   \end{aligned}\]
 
 \end{document}
