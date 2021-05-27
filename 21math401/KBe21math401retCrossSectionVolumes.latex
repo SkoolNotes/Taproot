@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13698)}}    % original
-%\rhead{\textrmlf{Compiled }\#13698\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13699)}}    % original
+%\rhead{\textrmlf{Compiled }\#13699\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -201,6 +201,11 @@
 
 % DID YOU SET SPELL????
 
+\hypertarget{circular-base-with-squares}{%
+\section{circular base with squares}\label{circular-base-with-squares}}
 
+\[\begin{aligned}
+   \int_{-a}^{a}  \left( 2\sqrt{a^2-x^2}\right)  ^2 dx
+  \end{aligned}\]
 
 \end{document}
