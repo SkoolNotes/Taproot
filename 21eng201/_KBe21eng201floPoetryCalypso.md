@@ -14,4 +14,8 @@ title: Calypso Poem by Kamau Braithwaite
 
 ## some of the later stanzas really do fall apart, both rhyme scheme and structure
 
+## pattern of fast and slow sections
+
+## seems to loose structure the way the island life collapsed
+
 # reading + calypso music
