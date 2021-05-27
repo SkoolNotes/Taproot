@@ -9,3 +9,7 @@ $$\begin{aligned}
   \end{aligned}$$
 
 # circular base with isocelese right triangle with hypotonuse on the base
+
+\\\\frac{\\begin{aligned} ∫~-a~^a^
+`\frac{\left( \sqrt{a^2-x^2} \right) ^2}{4}`{=latex} dx
+\\end{aligned}\\\]
