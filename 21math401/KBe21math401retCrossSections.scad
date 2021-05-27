@@ -1,1171 +1,1771 @@
 union(){
     cube(size=0);
     translate(v=[0, 0.0]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.875, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.4375, center=true);
+            };
+            cube(size=[0.02, 1.75, 1.75]);
         };
     };
     translate(v=[0.02, 0.2821347195933179]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.7610836402033411, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.38054182010167054, center=true);
+            };
+            cube(size=[0.02, 1.5221672804066821, 1.5221672804066821]);
         };
     };
     translate(v=[0.04, 0.3979949748426484]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.7296105125786758, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3648052562893379, center=true);
+            };
+            cube(size=[0.02, 1.4592210251573516, 1.4592210251573516]);
         };
     };
     translate(v=[0.06, 0.48620983124572886]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.7112720843771356, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3556360421885678, center=true);
+            };
+            cube(size=[0.02, 1.4225441687542713, 1.4225441687542713]);
         };
     };
     translate(v=[0.08, 0.56]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.699464, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.349732, center=true);
+            };
+            cube(size=[0.02, 1.398928, 1.398928]);
         };
     };
     translate(v=[0.1, 0.6244997998398399]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6916251000800799, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34581255004003997, center=true);
+            };
+            cube(size=[0.02, 1.3832502001601599, 1.3832502001601599]);
         };
     };
     translate(v=[0.12000000000000001, 0.6823488843692794]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6864415578153604, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3432207789076802, center=true);
+            };
+            cube(size=[0.02, 1.3728831156307209, 1.3728831156307209]);
         };
     };
     translate(v=[0.14, 0.7351190379795646]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6831334810102179, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34156674050510893, center=true);
+            };
+            cube(size=[0.02, 1.3662669620204357, 1.3662669620204357]);
         };
     };
     translate(v=[0.16, 0.7838367176906169]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6811936411546916, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3405968205773458, center=true);
+            };
+            cube(size=[0.02, 1.3623872823093832, 1.3623872823093832]);
         };
     };
     translate(v=[0.18, 0.8292164976651151]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6802707511674424, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3401353755837212, center=true);
+            };
+            cube(size=[0.02, 1.3605415023348848, 1.3605415023348848]);
         };
     };
     translate(v=[0.19999999999999998, 0.8717797887081346]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6801101056459327, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34005505282296633, center=true);
+            };
+            cube(size=[0.02, 1.3602202112918653, 1.3602202112918653]);
         };
     };
     translate(v=[0.21999999999999997, 0.9119210492142398]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.68052047539288, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34026023769644, center=true);
+            };
+            cube(size=[0.02, 1.36104095078576, 1.36104095078576]);
         };
     };
     translate(v=[0.23999999999999996, 0.9499473669630334]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6813543165184833, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34067715825924166, center=true);
+            };
+            cube(size=[0.02, 1.3627086330369667, 1.3627086330369667]);
         };
     };
     translate(v=[0.25999999999999995, 0.986103442849684]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6824952785751579, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34124763928757895, center=true);
+            };
+            cube(size=[0.02, 1.3649905571503158, 1.3649905571503158]);
         };
     };
     translate(v=[0.27999999999999997, 1.020588065773846]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6838499671130771, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34192498355653855, center=true);
+            };
+            cube(size=[0.02, 1.3676999342261542, 1.3676999342261542]);
         };
     };
     translate(v=[0.3, 1.053565375285274]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6853423123573631, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34267115617868155, center=true);
+            };
+            cube(size=[0.02, 1.3706846247147262, 1.3706846247147262]);
         };
     };
     translate(v=[0.32, 1.0851727973000431]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6869096013499786, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3434548006749893, center=true);
+            };
+            cube(size=[0.02, 1.3738192026999572, 1.3738192026999572]);
         };
     };
     translate(v=[0.34, 1.1155267813907472]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6884996093046265, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34424980465231325, center=true);
+            };
+            cube(size=[0.02, 1.376999218609253, 1.376999218609253]);
         };
     };
     translate(v=[0.36000000000000004, 1.144727041700335]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6900684791498325, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34503423957491625, center=true);
+            };
+            cube(size=[0.02, 1.380136958299665, 1.380136958299665]);
         };
     };
     translate(v=[0.38000000000000006, 1.17285975291166]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6915791235441702, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3457895617720851, center=true);
+            };
+            cube(size=[0.02, 1.3831582470883403, 1.3831582470883403]);
         };
     };
     translate(v=[0.4000000000000001, 1.2000000000000002]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6930000000000001, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34650000000000003, center=true);
+            };
+            cube(size=[0.02, 1.3860000000000001, 1.3860000000000001]);
         };
     };
     translate(v=[0.4200000000000001, 1.2262136844775466]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6943041577612268, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3471520788806134, center=true);
+            };
+            cube(size=[0.02, 1.3886083155224536, 1.3886083155224536]);
         };
     };
     translate(v=[0.4400000000000001, 1.2515590277729616]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6954684861135194, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3477342430567597, center=true);
+            };
+            cube(size=[0.02, 1.3909369722270388, 1.3909369722270388]);
         };
     };
     translate(v=[0.46000000000000013, 1.276087771275942]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6964731143620292, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3482365571810146, center=true);
+            };
+            cube(size=[0.02, 1.3929462287240584, 1.3929462287240584]);
         };
     };
     translate(v=[0.48000000000000015, 1.2998461447417538]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6973009276291233, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34865046381456166, center=true);
+            };
+            cube(size=[0.02, 1.3946018552582466, 1.3946018552582466]);
         };
     };
     translate(v=[0.5000000000000001, 1.3228756555322954]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6979371722338523, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34896858611692616, center=true);
+            };
+            cube(size=[0.02, 1.3958743444677046, 1.3958743444677046]);
         };
     };
     translate(v=[0.5200000000000001, 1.345213737664019]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6983691311679907, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34918456558399535, center=true);
+            };
+            cube(size=[0.02, 1.3967382623359814, 1.3967382623359814]);
         };
     };
     translate(v=[0.5400000000000001, 1.3668942899873422]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.698585855006329, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3492929275031645, center=true);
+            };
+            cube(size=[0.02, 1.397171710012658, 1.397171710012658]);
         };
     };
     translate(v=[0.5600000000000002, 1.3879481258317978]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6985779370841011, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34928896854205055, center=true);
+            };
+            cube(size=[0.02, 1.3971558741682022, 1.3971558741682022]);
         };
     };
     translate(v=[0.5800000000000002, 1.4084033513166603]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6983373243416698, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3491686621708349, center=true);
+            };
+            cube(size=[0.02, 1.3966746486833397, 1.3966746486833397]);
         };
     };
     translate(v=[0.6000000000000002, 1.42828568570857]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6978571571457152, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3489285785728576, center=true);
+            };
+            cube(size=[0.02, 1.3957143142914303, 1.3957143142914303]);
         };
     };
     translate(v=[0.6200000000000002, 1.4476187343358058]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6971316328320971, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34856581641604856, center=true);
+            };
+            cube(size=[0.02, 1.3942632656641942, 1.3942632656641942]);
         };
     };
     translate(v=[0.6400000000000002, 1.466424222385869]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6961558888070657, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34807794440353285, center=true);
+            };
+            cube(size=[0.02, 1.3923117776141314, 1.3923117776141314]);
         };
     };
     translate(v=[0.6600000000000003, 1.4847221962373973]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6949259018813013, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34746295094065066, center=true);
+            };
+            cube(size=[0.02, 1.3898518037626026, 1.3898518037626026]);
         };
     };
     translate(v=[0.6800000000000003, 1.502531197679436]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6934384011602822, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3467192005801411, center=true);
+            };
+            cube(size=[0.02, 1.3868768023205644, 1.3868768023205644]);
         };
     };
     translate(v=[0.7000000000000003, 1.5198684153570665]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6916907923214669, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34584539616073345, center=true);
+            };
+            cube(size=[0.02, 1.3833815846429338, 1.3833815846429338]);
         };
     };
     translate(v=[0.7200000000000003, 1.5367498169838838]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6896810915080581, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34484054575402906, center=true);
+            };
+            cube(size=[0.02, 1.3793621830161162, 1.3793621830161162]);
         };
     };
     translate(v=[0.7400000000000003, 1.553190265228314]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6874078673858431, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34370393369292157, center=true);
+            };
+            cube(size=[0.02, 1.3748157347716863, 1.3748157347716863]);
         };
     };
     translate(v=[0.7600000000000003, 1.5692036196746426]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6848701901626788, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3424350950813394, center=true);
+            };
+            cube(size=[0.02, 1.3697403803253576, 1.3697403803253576]);
         };
     };
     translate(v=[0.7800000000000004, 1.5848028268526027]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6820675865736987, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34103379328684935, center=true);
+            };
+            cube(size=[0.02, 1.3641351731473974, 1.3641351731473974]);
         };
     };
     translate(v=[0.8000000000000004, 1.6]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.679, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3395, center=true);
+            };
+            cube(size=[0.02, 1.358, 1.358]);
         };
     };
     translate(v=[0.8200000000000004, 1.6148064899547563]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6756677550226219, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.33783387751131094, center=true);
+            };
+            cube(size=[0.02, 1.3513355100452438, 1.3513355100452438]);
         };
     };
     translate(v=[0.8400000000000004, 1.6292329483533043]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6720715258233478, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3360357629116739, center=true);
+            };
+            cube(size=[0.02, 1.3441430516466957, 1.3441430516466957]);
         };
     };
     translate(v=[0.8600000000000004, 1.643289384131718]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.668212307934141, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3341061539670705, center=true);
+            };
+            cube(size=[0.02, 1.336424615868282, 1.336424615868282]);
         };
     };
     translate(v=[0.8800000000000004, 1.6569852141766386]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6640913929116808, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3320456964558404, center=true);
+            };
+            cube(size=[0.02, 1.3281827858233617, 1.3281827858233617]);
         };
     };
     translate(v=[0.9000000000000005, 1.6703293088490068]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6597103455754966, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3298551727877483, center=true);
+            };
+            cube(size=[0.02, 1.3194206911509931, 1.3194206911509931]);
         };
     };
     translate(v=[0.9200000000000005, 1.6833300330000651]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6550709834999675, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.32753549174998375, center=true);
+            };
+            cube(size=[0.02, 1.310141966999935, 1.310141966999935]);
         };
     };
     translate(v=[0.9400000000000005, 1.6959952830123086]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6501753584938457, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.32508767924692283, center=true);
+            };
+            cube(size=[0.02, 1.3003507169876913, 1.3003507169876913]);
         };
     };
     translate(v=[0.9600000000000005, 1.7083325203250102]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.645025739837495, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3225128699187475, center=true);
+            };
+            cube(size=[0.02, 1.29005147967499, 1.29005147967499]);
         };
     };
     translate(v=[0.9800000000000005, 1.7203488018422313]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6396245990788845, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.31981229953944224, center=true);
+            };
+            cube(size=[0.02, 1.279249198157769, 1.279249198157769]);
         };
     };
     translate(v=[1.0000000000000004, 1.7320508075688776]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6339745962155612, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3169872981077806, center=true);
+            };
+            cube(size=[0.02, 1.2679491924311224, 1.2679491924311224]);
         };
     };
     translate(v=[1.0200000000000005, 1.743444865775801]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6280785671120994, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3140392835560497, center=true);
+            };
+            cube(size=[0.02, 1.2561571342241988, 1.2561571342241988]);
         };
     };
     translate(v=[1.0400000000000005, 1.754536975956905]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6219395120215474, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3109697560107737, center=true);
+            };
+            cube(size=[0.02, 1.2438790240430948, 1.2438790240430948]);
         };
     };
     translate(v=[1.0600000000000005, 1.765332829808589]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6155605850957054, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3077802925478527, center=true);
+            };
+            cube(size=[0.02, 1.2311211701914109, 1.2311211701914109]);
         };
     };
     translate(v=[1.0800000000000005, 1.7758378304338494]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6089450847830753, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.30447254239153765, center=true);
+            };
+            cube(size=[0.02, 1.2178901695661506, 1.2178901695661506]);
         };
     };
     translate(v=[1.1000000000000005, 1.7860571099491753]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.6020964450254124, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3010482225127062, center=true);
+            };
+            cube(size=[0.02, 1.2041928900508247, 1.2041928900508247]);
         };
     };
     translate(v=[1.1200000000000006, 1.7959955456514922]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.5950182271742538, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2975091135871269, center=true);
+            };
+            cube(size=[0.02, 1.1900364543485076, 1.1900364543485076]);
         };
     };
     translate(v=[1.1400000000000006, 1.8056577748842666]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.5877141125578667, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2938570562789333, center=true);
+            };
+            cube(size=[0.02, 1.1754282251157333, 1.1754282251157333]);
         };
     };
     translate(v=[1.1600000000000006, 1.8150482087261486]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.5801878956369256, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2900939478184628, center=true);
+            };
+            cube(size=[0.02, 1.1603757912738513, 1.1603757912738513]);
         };
     };
     translate(v=[1.1800000000000006, 1.8241710446117714]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.5724434776941143, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.28622173884705715, center=true);
+            };
+            cube(size=[0.02, 1.1448869553882286, 1.1448869553882286]);
         };
     };
     translate(v=[1.2000000000000006, 1.8330302779823364]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.5644848610088317, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.28224243050441583, center=true);
+            };
+            cube(size=[0.02, 1.1289697220176633, 1.1289697220176633]);
         };
     };
     translate(v=[1.2200000000000006, 1.8416297130530885]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.5563161434734557, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.27815807173672785, center=true);
+            };
+            cube(size=[0.02, 1.1126322869469114, 1.1126322869469114]);
         };
     };
     translate(v=[1.2400000000000007, 1.8499729727755487]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.5479415136122254, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2739707568061127, center=true);
+            };
+            cube(size=[0.02, 1.0958830272244509, 1.0958830272244509]);
         };
     };
     translate(v=[1.2600000000000007, 1.858063508064243]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.5393652459678785, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.26968262298393925, center=true);
+            };
+            cube(size=[0.02, 1.078730491935757, 1.078730491935757]);
         };
     };
     translate(v=[1.2800000000000007, 1.8659046063504965]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.5305916968247515, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.26529584841237575, center=true);
+            };
+            cube(size=[0.02, 1.061183393649503, 1.061183393649503]);
         };
     };
     translate(v=[1.3000000000000007, 1.8734993995195197]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.5216253002402399, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.26081265012011995, center=true);
+            };
+            cube(size=[0.02, 1.0432506004804798, 1.0432506004804798]);
         };
     };
     translate(v=[1.3200000000000007, 1.8808508712813998]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.5124705643592998, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2562352821796499, center=true);
+            };
+            cube(size=[0.02, 1.0249411287185997, 1.0249411287185997]);
         };
     };
     translate(v=[1.3400000000000007, 1.887961864021623]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.5031320679891884, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2515660339945942, center=true);
+            };
+            cube(size=[0.02, 1.0062641359783768, 1.0062641359783768]);
         };
     };
     translate(v=[1.3600000000000008, 1.8948350851723221]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.4936144574138388, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2468072287069194, center=true);
+            };
+            cube(size=[0.02, 0.9872289148276776, 0.9872289148276776]);
         };
     };
     translate(v=[1.3800000000000008, 1.901473113141493]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.48392244342925317, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.24196122171462658, center=true);
+            };
+            cube(size=[0.02, 0.9678448868585063, 0.9678448868585063]);
         };
     };
     translate(v=[1.4000000000000008, 1.9078784028338915]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.47406079858305394, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.23703039929152697, center=true);
+            };
+            cube(size=[0.02, 0.9481215971661079, 0.9481215971661079]);
         };
     };
     translate(v=[1.4200000000000008, 1.9140532907941725]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.4640343546029134, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2320171773014567, center=true);
+            };
+            cube(size=[0.02, 0.9280687092058268, 0.9280687092058268]);
         };
     };
     translate(v=[1.4400000000000008, 1.9200000000000002]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.4538479999999997, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.22692399999999985, center=true);
+            };
+            cube(size=[0.02, 0.9076959999999994, 0.9076959999999994]);
         };
     };
     translate(v=[1.4600000000000009, 1.9257206443303247]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.4435066778348373, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.22175333891741866, center=true);
+            };
+            cube(size=[0.02, 0.8870133556696747, 0.8870133556696747]);
         };
     };
     translate(v=[1.4800000000000009, 1.93121723273173]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.4330153836341346, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2165076918170673, center=true);
+            };
+            cube(size=[0.02, 0.8660307672682692, 0.8660307672682692]);
         };
     };
     translate(v=[1.5000000000000009, 1.9364916731037087]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.4223791634481452, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2111895817240726, center=true);
+            };
+            cube(size=[0.02, 0.8447583268962904, 0.8447583268962904]);
         };
     };
     translate(v=[1.520000000000001, 1.9415457759218557]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.41160311203907174, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.20580155601953587, center=true);
+            };
+            cube(size=[0.02, 0.8232062240781435, 0.8232062240781435]);
         };
     };
     translate(v=[1.540000000000001, 1.9463812576162978]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.40069237119185064, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.20034618559592532, center=true);
+            };
+            cube(size=[0.02, 0.8013847423837013, 0.8013847423837013]);
         };
     };
     translate(v=[1.560000000000001, 1.950999743721152]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.38965212813942374, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.19482606406971187, center=true);
+            };
+            cube(size=[0.02, 0.7793042562788475, 0.7793042562788475]);
         };
     };
     translate(v=[1.580000000000001, 1.9554027718094298]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.37848761409528475, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.18924380704764238, center=true);
+            };
+            cube(size=[0.02, 0.7569752281905695, 0.7569752281905695]);
         };
     };
     translate(v=[1.600000000000001, 1.9595917942265426]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.3672041028867282, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.1836020514433641, center=true);
+            };
+            cube(size=[0.02, 0.7344082057734564, 0.7344082057734564]);
         };
     };
     translate(v=[1.620000000000001, 1.9635681806344287]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.35580690968278517, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.17790345484139258, center=true);
+            };
+            cube(size=[0.02, 0.7116138193655703, 0.7116138193655703]);
         };
     };
     translate(v=[1.640000000000001, 1.9673332203772702]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.3443013898113645, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.17215069490568224, center=true);
+            };
+            cube(size=[0.02, 0.688602779622729, 0.688602779622729]);
         };
     };
     translate(v=[1.660000000000001, 1.9708881246788212]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.33269293766058883, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.16634646883029441, center=true);
+            };
+            cube(size=[0.02, 0.6653858753211777, 0.6653858753211777]);
         };
     };
     translate(v=[1.680000000000001, 1.9742340286804907]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.32098698565975414, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.16049349282987707, center=true);
+            };
+            cube(size=[0.02, 0.6419739713195083, 0.6419739713195083]);
         };
     };
     translate(v=[1.700000000000001, 1.977371993328519]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.30918900333573995, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.15459450166786998, center=true);
+            };
+            cube(size=[0.02, 0.6183780066714799, 0.6183780066714799]);
         };
     };
     translate(v=[1.720000000000001, 1.9803030071178502]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.2973044964410744, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.1486522482205372, center=true);
+            };
+            cube(size=[0.02, 0.5946089928821487, 0.5946089928821487]);
         };
     };
     translate(v=[1.740000000000001, 1.983027987699619]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.2853390061501898, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.1426695030750949, center=true);
+            };
+            cube(size=[0.02, 0.5706780123003796, 0.5706780123003796]);
         };
     };
     translate(v=[1.7600000000000011, 1.985547783358537]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.27329810832073087, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.13664905416036544, center=true);
+            };
+            cube(size=[0.02, 0.5465962166414617, 0.5465962166414617]);
         };
     };
     translate(v=[1.7800000000000011, 1.987863174365882]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.2611874128170585, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.13059370640852924, center=true);
+            };
+            cube(size=[0.02, 0.522374825634117, 0.522374825634117]);
         };
     };
     translate(v=[1.8000000000000012, 1.98997487421324]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.24901256289337936, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.12450628144668968, center=true);
+            };
+            cube(size=[0.02, 0.4980251257867587, 0.4980251257867587]);
         };
     };
     translate(v=[1.8200000000000012, 1.991883530731654]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.23677923463417228, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.11838961731708614, center=true);
+            };
+            cube(size=[0.02, 0.47355846926834455, 0.47355846926834455]);
         };
     };
     translate(v=[1.8400000000000012, 1.9935897271003382]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.22449313644983016, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.11224656822491508, center=true);
+            };
+            cube(size=[0.02, 0.4489862728996603, 0.4489862728996603]);
         };
     };
     translate(v=[1.8600000000000012, 1.9950939827486824]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.2121600086256582, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.1060800043128291, center=true);
+            };
+            cube(size=[0.02, 0.4243200172513164, 0.4243200172513164]);
         };
     };
     translate(v=[1.8800000000000012, 1.9963967541548449]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.19978562292257684, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.09989281146128842, center=true);
+            };
+            cube(size=[0.02, 0.3995712458451537, 0.3995712458451537]);
         };
     };
     translate(v=[1.9000000000000012, 1.997498435543818]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.18737578222809026, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.09368789111404513, center=true);
+            };
+            cube(size=[0.02, 0.3747515644561805, 0.3747515644561805]);
         };
     };
     translate(v=[1.9200000000000013, 1.9983993594874876]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.17493632025625538, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.08746816012812769, center=true);
+            };
+            cube(size=[0.02, 0.34987264051251077, 0.34987264051251077]);
         };
     };
     translate(v=[1.9400000000000013, 1.9990997974088236]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.16247310129558734, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.08123655064779367, center=true);
+            };
+            cube(size=[0.02, 0.3249462025911747, 0.3249462025911747]);
         };
     };
     translate(v=[1.9600000000000013, 1.999599959991998]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.14999202000400025, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.07499601000200012, center=true);
+            };
+            cube(size=[0.02, 0.2999840400080005, 0.2999840400080005]);
         };
     };
     translate(v=[1.9800000000000013, 1.999899997499875]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.13749900125006176, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.06874950062503088, center=true);
+            };
+            cube(size=[0.02, 0.2749980025001235, 0.2749980025001235]);
         };
     };
     translate(v=[2.0000000000000013, 2.0]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.12499999999999911, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.062499999999999556, center=true);
+            };
+            cube(size=[0.02, 0.24999999999999822, 0.24999999999999822]);
         };
     };
     translate(v=[2.0200000000000014, 1.999899997499875]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.11250100125006168, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.05625050062503084, center=true);
+            };
+            cube(size=[0.02, 0.22500200250012337, 0.22500200250012337]);
         };
     };
     translate(v=[2.0400000000000014, 1.999599959991998]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.10000802000400022, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.05000401000200011, center=true);
+            };
+            cube(size=[0.02, 0.20001604000800044, 0.20001604000800044]);
         };
     };
     translate(v=[2.0600000000000014, 1.9990997974088236]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.08752710129558716, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.04376355064779358, center=true);
+            };
+            cube(size=[0.02, 0.17505420259117432, 0.17505420259117432]);
         };
     };
     translate(v=[2.0800000000000014, 1.9983993594874874]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.07506432025625531, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.037532160128127656, center=true);
+            };
+            cube(size=[0.02, 0.15012864051251062, 0.15012864051251062]);
         };
     };
     translate(v=[2.1000000000000014, 1.997498435543818]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.06262578222809012, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.03131289111404506, center=true);
+            };
+            cube(size=[0.02, 0.12525156445618024, 0.12525156445618024]);
         };
     };
     translate(v=[2.1200000000000014, 1.9963967541548449]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.0502176229225767, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.02510881146128835, center=true);
+            };
+            cube(size=[0.02, 0.1004352458451534, 0.1004352458451534]);
         };
     };
     translate(v=[2.1400000000000015, 1.9950939827486822]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.03784600862565801, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.018923004312829006, center=true);
+            };
+            cube(size=[0.02, 0.07569201725131602, 0.07569201725131602]);
         };
     };
     translate(v=[2.1600000000000015, 1.993589727100338]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.025517136449830002, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.012758568224915001, center=true);
+            };
+            cube(size=[0.02, 0.051034272899660005, 0.051034272899660005]);
         };
     };
     translate(v=[2.1800000000000015, 1.9918835307316538]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.013237234634172257, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.0066186173170861284, center=true);
+            };
+            cube(size=[0.02, 0.026474469268344514, 0.026474469268344514]);
         };
     };
     translate(v=[2.2000000000000015, 1.9899748742132397]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.001012562893379032, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.000506281446689516, center=true);
+            };
+            cube(size=[0.02, 0.002025125786758064, 0.002025125786758064]);
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.2200000000000015, 1.9878631743658814]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.011150587182941707, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.0055752935914708535, center=true);
+                };
+                cube(size=[0.02, 0.022301174365883414, 0.022301174365883414]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.2400000000000015, 1.9855477833585369]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.023245891679269493, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.011622945839634746, center=true);
+                };
+                cube(size=[0.02, 0.046491783358538985, 0.046491783358538985]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.2600000000000016, 1.9830279876996186]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.03526699384981036, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.01763349692490518, center=true);
+                };
+                cube(size=[0.02, 0.07053398769962071, 0.07053398769962071]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.2800000000000016, 1.98030300711785]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.04720750355892611, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.023603751779463056, center=true);
+                };
+                cube(size=[0.02, 0.09441500711785222, 0.09441500711785222]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.3000000000000016, 1.9773719933285188]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.05906099666426046, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.02953049833213023, center=true);
+                };
+                cube(size=[0.02, 0.11812199332852091, 0.11812199332852091]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.3200000000000016, 1.9742340286804902]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.07082101434024624, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.03541050717012312, center=true);
+                };
+                cube(size=[0.02, 0.14164202868049247, 0.14164202868049247]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.3400000000000016, 1.9708881246788208]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.08248106233941144, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.04124053116970572, center=true);
+                };
+                cube(size=[0.02, 0.16496212467882287, 0.16496212467882287]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.3600000000000017, 1.9673332203772698]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.09403461018863601, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.04701730509431801, center=true);
+                };
+                cube(size=[0.02, 0.18806922037727203, 0.18806922037727203]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.3800000000000017, 1.9635681806344283]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.10547509031721525, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.052737545158607624, center=true);
+                };
+                cube(size=[0.02, 0.2109501806344305, 0.2109501806344305]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.4000000000000017, 1.9595917942265422]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.1167958971132722, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.0583979485566361, center=true);
+                };
+                cube(size=[0.02, 0.2335917942265444, 0.2335917942265444]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.4200000000000017, 1.9554027718094291]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.12799038590471568, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.06399519295235784, center=true);
+                };
+                cube(size=[0.02, 0.25598077180943135, 0.25598077180943135]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.4400000000000017, 1.9509997437211515]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.13905187186057677, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.06952593593028839, center=true);
+                };
+                cube(size=[0.02, 0.27810374372115354, 0.27810374372115354]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.4600000000000017, 1.946381257616297]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.14997362880814968, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.07498681440407484, center=true);
+                };
+                cube(size=[0.02, 0.29994725761629937, 0.29994725761629937]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.4800000000000018, 1.941545775921855]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.16074888796092868, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.08037444398046434, center=true);
+                };
+                cube(size=[0.02, 0.32149777592185735, 0.32149777592185735]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.5000000000000018, 1.936491673103708]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.17137083655185514, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.08568541827592757, center=true);
+                };
+                cube(size=[0.02, 0.3427416731037103, 0.3427416731037103]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.520000000000002, 1.9312172327317292]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.18183261636586567, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.09091630818293284, center=true);
+                };
+                cube(size=[0.02, 0.36366523273173135, 0.36366523273173135]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.540000000000002, 1.9257206443303239]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.19212732216516315, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.09606366108258158, center=true);
+                };
+                cube(size=[0.02, 0.3842546443303263, 0.3842546443303263]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.560000000000002, 1.9199999999999995]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.20224800000000087, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.10112400000000044, center=true);
+                };
+                cube(size=[0.02, 0.40449600000000174, 0.40449600000000174]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.580000000000002, 1.9140532907941716]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.2121876453970869, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.10609382269854345, center=true);
+                };
+                cube(size=[0.02, 0.4243752907941738, 0.4243752907941738]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.600000000000002, 1.9078784028338907]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.22193920141694645, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.11096960070847323, center=true);
+                };
+                cube(size=[0.02, 0.4438784028338929, 0.4438784028338929]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.620000000000002, 1.9014731131414921]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.23149555657074739, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.11574777828537369, center=true);
+                };
+                cube(size=[0.02, 0.46299111314149477, 0.46299111314149477]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.640000000000002, 1.8948350851723212]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.24084954258616176, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.12042477129308088, center=true);
+                };
+                cube(size=[0.02, 0.4816990851723235, 0.4816990851723235]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.660000000000002, 1.887961864021622]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.24999393201081233, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.12499696600540616, center=true);
+                };
+                cube(size=[0.02, 0.49998786402162465, 0.49998786402162465]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.680000000000002, 1.880850871281399]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.2589214356407008, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.1294607178203504, center=true);
+                };
+                cube(size=[0.02, 0.5178428712814016, 0.5178428712814016]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.700000000000002, 1.8734993995195186]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.26762469975976055, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.13381234987988028, center=true);
+                };
+                cube(size=[0.02, 0.5352493995195211, 0.5352493995195211]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.720000000000002, 1.8659046063504954]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.2760963031752489, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.13804815158762446, center=true);
+                };
+                cube(size=[0.02, 0.5521926063504978, 0.5521926063504978]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.740000000000002, 1.858063508064242]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.2843287540321221, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.14216437701606105, center=true);
+                };
+                cube(size=[0.02, 0.5686575080642442, 0.5686575080642442]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.760000000000002, 1.8499729727755476]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.292314486387775, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.1461572431938875, center=true);
+                };
+                cube(size=[0.02, 0.58462897277555, 0.58462897277555]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.780000000000002, 1.8416297130530874]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.3000458565265449, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.15002292826327246, center=true);
+                };
+                cube(size=[0.02, 0.6000917130530898, 0.6000917130530898]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.800000000000002, 1.833030277982335]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.30751513899116867, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.15375756949558433, center=true);
+                };
+                cube(size=[0.02, 0.6150302779823373, 0.6150302779823373]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.820000000000002, 1.8241710446117703]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.31471452230588626, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.15735726115294313, center=true);
+                };
+                cube(size=[0.02, 0.6294290446117725, 0.6294290446117725]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.840000000000002, 1.8150482087261475]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.321636104363075, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.1608180521815375, center=true);
+                };
+                cube(size=[0.02, 0.64327220872615, 0.64327220872615]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.860000000000002, 1.8056577748842653]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.32827188744213387, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.16413594372106693, center=true);
+                };
+                cube(size=[0.02, 0.6565437748842677, 0.6565437748842677]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.880000000000002, 1.7959955456514909]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.33461377282574656, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.16730688641287328, center=true);
+                };
+                cube(size=[0.02, 0.6692275456514931, 0.6692275456514931]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.900000000000002, 1.786057109949174]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.34065355497458827, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.17032677748729413, center=true);
+                };
+                cube(size=[0.02, 0.6813071099491765, 0.6813071099491765]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.920000000000002, 1.775837830433848]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.3463829152169252, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.1731914576084626, center=true);
+                };
+                cube(size=[0.02, 0.6927658304338504, 0.6927658304338504]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.940000000000002, 1.7653328298085877]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.35179341490429494, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.17589670745214747, center=true);
+                };
+                cube(size=[0.02, 0.7035868298085899, 0.7035868298085899]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.960000000000002, 1.7545369759569036]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.35687648797845295, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.17843824398922647, center=true);
+                };
+                cube(size=[0.02, 0.7137529759569059, 0.7137529759569059]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.980000000000002, 1.7434448657757995]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.3616234328879009, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.18081171644395044, center=true);
+                };
+                cube(size=[0.02, 0.7232468657758018, 0.7232468657758018]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.000000000000002, 1.732050807568876]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.36602540378443915, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.18301270189221958, center=true);
+                };
+                cube(size=[0.02, 0.7320508075688783, 0.7320508075688783]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.0200000000000022, 1.7203488018422297]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.37007340092111585, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.18503670046055792, center=true);
+                };
+                cube(size=[0.02, 0.7401468018422317, 0.7401468018422317]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.0400000000000023, 1.7083325203250084]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.37375826016250513, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.18687913008125256, center=true);
+                };
+                cube(size=[0.02, 0.7475165203250103, 0.7475165203250103]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.0600000000000023, 1.6959952830123068]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.37707064150615466, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.18853532075307733, center=true);
+                };
+                cube(size=[0.02, 0.7541412830123093, 0.7541412830123093]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.0800000000000023, 1.6833300330000636]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.3800010165000328, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.1900005082500164, center=true);
+                };
+                cube(size=[0.02, 0.7600020330000656, 0.7600020330000656]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.1000000000000023, 1.670329308849005]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.38253965442450355, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.19126982721225178, center=true);
+                };
+                cube(size=[0.02, 0.7650793088490071, 0.7650793088490071]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.1200000000000023, 1.6569852141766368]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.3846766070883193, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.19233830354415965, center=true);
+                };
+                cube(size=[0.02, 0.7693532141766386, 0.7693532141766386]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.1400000000000023, 1.6432893841317162]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.38640169206585895, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.19320084603292947, center=true);
+                };
+                cube(size=[0.02, 0.7728033841317179, 0.7728033841317179]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.1600000000000024, 1.6292329483533023]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.3877044741766521, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.19385223708832605, center=true);
+                };
+                cube(size=[0.02, 0.7754089483533042, 0.7754089483533042]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.1800000000000024, 1.6148064899547545]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.38857424497737825, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.19428712248868912, center=true);
+                };
+                cube(size=[0.02, 0.7771484899547565, 0.7771484899547565]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.2000000000000024, 1.5999999999999983]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.389, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.1945, center=true);
+                };
+                cube(size=[0.02, 0.778, 0.778]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.2200000000000024, 1.5848028268526007]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.3889704134263011, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.19448520671315056, center=true);
+                };
+                cube(size=[0.02, 0.7779408268526022, 0.7779408268526022]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.2400000000000024, 1.5692036196746406]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.38847380983732094, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.19423690491866047, center=true);
+                };
+                cube(size=[0.02, 0.7769476196746419, 0.7769476196746419]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.2600000000000025, 1.5531902652283118]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.3874981326141568, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.1937490663070784, center=true);
+                };
+                cube(size=[0.02, 0.7749962652283136, 0.7749962652283136]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.2800000000000025, 1.5367498169838818]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.38603090849194155, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.19301545424597077, center=true);
+                };
+                cube(size=[0.02, 0.7720618169838831, 0.7720618169838831]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.3000000000000025, 1.5198684153570643]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.3840592076785331, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.19202960383926654, center=true);
+                };
+                cube(size=[0.02, 0.7681184153570662, 0.7681184153570662]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.3200000000000025, 1.5025311976794338]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.38156959883971797, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.19078479941985899, center=true);
+                };
+                cube(size=[0.02, 0.7631391976794359, 0.7631391976794359]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.3400000000000025, 1.4847221962373949]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.37854809811869794, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.18927404905934897, center=true);
+                };
+                cube(size=[0.02, 0.7570961962373959, 0.7570961962373959]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.3600000000000025, 1.4664242223858666]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.37498011119293384, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.18749005559646692, center=true);
+                };
+                cube(size=[0.02, 0.7499602223858677, 0.7499602223858677]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.3800000000000026, 1.4476187343358033]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.3708503671679023, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.18542518358395116, center=true);
+                };
+                cube(size=[0.02, 0.7417007343358046, 0.7417007343358046]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.4000000000000026, 1.4282856857085675]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.36614284285428433, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.18307142142714217, center=true);
+                };
+                cube(size=[0.02, 0.7322856857085687, 0.7322856857085687]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.4200000000000026, 1.4084033513166576]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.3608406756583292, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.1804203378291646, center=true);
+                };
+                cube(size=[0.02, 0.7216813513166584, 0.7216813513166584]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.4400000000000026, 1.3879481258317952]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.35492606291589823, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.17746303145794912, center=true);
+                };
+                cube(size=[0.02, 0.7098521258317965, 0.7098521258317965]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.4600000000000026, 1.3668942899873393]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.3483801449936701, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.17419007249683505, center=true);
+                };
+                cube(size=[0.02, 0.6967602899873402, 0.6967602899873402]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.4800000000000026, 1.345213737664016]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.3411828688320083, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.17059143441600416, center=true);
+                };
+                cube(size=[0.02, 0.6823657376640166, 0.6823657376640166]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.5000000000000027, 1.3228756555322922]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.33331282776614657, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.16665641388307328, center=true);
+                };
+                cube(size=[0.02, 0.6666256555322931, 0.6666256555322931]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.5200000000000027, 1.2998461447417506]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.32474707237087586, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.16237353618543793, center=true);
+                };
+                cube(size=[0.02, 0.6494941447417517, 0.6494941447417517]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.5400000000000027, 1.2760877712759384]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.31546088563796937, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.15773044281898468, center=true);
+                };
+                cube(size=[0.02, 0.6309217712759387, 0.6309217712759387]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.5600000000000027, 1.2515590277729578]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.30542751388647915, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.15271375694323958, center=true);
+                };
+                cube(size=[0.02, 0.6108550277729583, 0.6108550277729583]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.5800000000000027, 1.2262136844775429]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.2946178422387714, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.1473089211193857, center=true);
+                };
+                cube(size=[0.02, 0.5892356844775428, 0.5892356844775428]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.6000000000000028, 1.1999999999999962]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.2829999999999979, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.14149999999999896, center=true);
+                };
+                cube(size=[0.02, 0.5659999999999958, 0.5659999999999958]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.6200000000000028, 1.1728597529116562]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.2705388764558284, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.1352694382279142, center=true);
+                };
+                cube(size=[0.02, 0.5410777529116568, 0.5410777529116568]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.640000000000003, 1.1447270417003308]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.2571955208501655, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.12859776042508275, center=true);
+                };
+                cube(size=[0.02, 0.514391041700331, 0.514391041700331]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.660000000000003, 1.1155267813907432]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.24292639069537136, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.12146319534768568, center=true);
+                };
+                cube(size=[0.02, 0.4858527813907427, 0.4858527813907427]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.680000000000003, 1.0851727973000387]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.2276823986500195, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.11384119932500975, center=true);
+                };
+                cube(size=[0.02, 0.455364797300039, 0.455364797300039]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.700000000000003, 1.0535653752852694]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.2114076876426343, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.10570384382131714, center=true);
+                };
+                cube(size=[0.02, 0.4228153752852686, 0.4228153752852686]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.720000000000003, 1.020588065773841]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.19403803288692045, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.09701901644346023, center=true);
+                };
+                cube(size=[0.02, 0.3880760657738409, 0.3880760657738409]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.740000000000003, 0.986103442849679]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.1754987214248393, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.08774936071241965, center=true);
+                };
+                cube(size=[0.02, 0.3509974428496786, 0.3509974428496786]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.760000000000003, 0.9499473669630281]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.1557016834815138, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.0778508417407569, center=true);
+                };
+                cube(size=[0.02, 0.3114033669630276, 0.3114033669630276]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.780000000000003, 0.9119210492142341]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.13454152460711694, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.06727076230355847, center=true);
+                };
+                cube(size=[0.02, 0.26908304921423387, 0.26908304921423387]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.800000000000003, 0.8717797887081288]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.1118898943540641, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.05594494717703205, center=true);
+                };
+                cube(size=[0.02, 0.2237797887081282, 0.2237797887081282]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.820000000000003, 0.8292164976651086]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.08758724883255409, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.043793624416277044, center=true);
+                };
+                cube(size=[0.02, 0.17517449766510818, 0.17517449766510818]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.840000000000003, 0.7838367176906101]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.06143035884530473, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.030715179422652367, center=true);
+                };
+                cube(size=[0.02, 0.12286071769060947, 0.12286071769060947]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.860000000000003, 0.7351190379795567]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.033152518989777335, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.016576259494888668, center=true);
+                };
+                cube(size=[0.02, 0.06630503797955467, 0.06630503797955467]);
             };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.880000000000003, 0.682348884369271]){
-            rotate(a=[0, 90, 0]){
-                cylinder(h=0.02, r=0.0023904421846346335, center=true);
+            intersection(){
+                rotate(a=[0, 90, 0]){
+                    cylinder(h=0.02, r=0.0011952210923173168, center=true);
+                };
+                cube(size=[0.02, 0.004780884369269267, 0.004780884369269267]);
             };
         };
     };
     translate(v=[3.900000000000003, 0.6244997998398307]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.03137510008008537, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.015687550040042686, center=true);
+            };
+            cube(size=[0.02, 0.06275020016017074, 0.06275020016017074]);
         };
     };
     translate(v=[3.920000000000003, 0.5599999999999897]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.06893600000000571, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.03446800000000286, center=true);
+            };
+            cube(size=[0.02, 0.13787200000001143, 0.13787200000001143]);
         };
     };
     translate(v=[3.940000000000003, 0.48620983124571654]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.11161808437714207, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.05580904218857104, center=true);
+            };
+            cube(size=[0.02, 0.22323616875428415, 0.22323616875428415]);
         };
     };
     translate(v=[3.960000000000003, 0.39799497484263274]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.16199451257868494, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.08099725628934247, center=true);
+            };
+            cube(size=[0.02, 0.3239890251573699, 0.3239890251573699]);
         };
     };
     translate(v=[3.980000000000003, 0.28213471959329584]){
-        rotate(a=[0, 90, 0]){
-            cylinder(h=0.02, r=0.22668164020335374, center=true);
+        intersection(){
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.11334082010167687, center=true);
+            };
+            cube(size=[0.02, 0.4533632804067075, 0.4533632804067075]);
         };
     };
 };
