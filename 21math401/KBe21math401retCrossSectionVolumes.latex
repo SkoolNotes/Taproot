@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13703)}}    % original
-%\rhead{\textrmlf{Compiled }\#13703\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13704)}}    % original
+%\rhead{\textrmlf{Compiled }\#13704\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -213,9 +213,8 @@
 the
 base}\label{circular-base-with-isocelese-right-triangle-with-hypotonuse-on-the-base}}
 
-\textbackslash\textbackslash frac\{\textbackslash begin\{aligned\}
-∫\textsubscript{-a}\textsuperscript{a}
-\frac{\left( \sqrt{a^2-x^2} \right) ^2}{4} dx
-\textbackslash end\{aligned\}\textbackslash{]}
+\[\begin{aligned}
+  \int_{-a}^{a}  \frac{ \sqrt{a^2-x^2} ^2}{4} dx
+  \end{aligned}\]
 
 \end{document}

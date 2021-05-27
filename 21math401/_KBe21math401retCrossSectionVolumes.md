@@ -10,6 +10,6 @@ $$\begin{aligned}
 
 # circular base with isocelese right triangle with hypotonuse on the base
 
-\\\\frac{\\begin{aligned} ∫~-a~^a^
-`\frac{\left( \sqrt{a^2-x^2} \right) ^2}{4}`{=latex} dx
-\\end{aligned}\\\]
+$$\begin{aligned}
+  \int_{-a}^{a}  \frac{ \sqrt{a^2-x^2} ^2}{4} dx
+  \end{aligned}$$
