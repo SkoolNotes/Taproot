@@ -1,4 +1,5 @@
 union(){
+    cube(size=0);
     translate(v=[0, 0.0, 0]){
         cube(size=[0.04, 1.75, 1.75]);
     };
