@@ -18,3 +18,9 @@
   \end{aligned}\]
 
   A test of *bold*, /italics/ +strikethrough+, and ~code~
+
+  #+begin_src cpp
+void amazing() {
+	printf("hello world!\n");
+}
+  #+end_src

@@ -16,3 +16,9 @@ $$\begin{aligned}
   \end{aligned}$$
 
 A test of **bold**, *italics* ~~strikethrough~~, and `code`
+
+``` {.cpp}
+void amazing() {
+    printf("hello world!\n");
+}
+```
