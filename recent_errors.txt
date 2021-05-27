@@ -1,2 +1,1 @@
-        Log for attempt at Thu May 27 01:19:51 PM PDT 2021 (13715)
-        Thu May 27 01:19:51 PM PDT 2021 Converting 21eng201/KBe21eng201floPoetryCalypso.org...
+        Log for attempt at Thu May 27 02:38:29 PM PDT 2021 (13716)
