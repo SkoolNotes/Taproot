@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13705)}}    % original
-%\rhead{\textrmlf{Compiled }\#13705\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13706)}}    % original
+%\rhead{\textrmlf{Compiled }\#13706\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -214,7 +214,7 @@ the
 base}\label{circular-base-with-isocelese-right-triangle-with-hypotonuse-on-the-base}}
 
 \[\begin{aligned}
-  \int_{-a}^{a}  \frac{ \sqrt{a^2-x^2} ^2}{4} dx &= \frac{1}{2}\int_{0}^{a} a^2-x^2 dx
+  \int_{-a}^{a}  \frac{2 \sqrt{a^2-x^2} ^2}{4} dx &= \int_{0}^{a} a^2-x^2 dx
   \end{aligned}\]
 
 \end{document}
