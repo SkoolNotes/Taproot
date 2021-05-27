@@ -1,1 +1,1 @@
-cube (size=3, center=true);
+cube(size=[10, 20, 10]);
