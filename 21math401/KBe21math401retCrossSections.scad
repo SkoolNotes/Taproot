@@ -1,1 +1,1 @@
-cube (size=3)
+cube (size=3, center=true);
