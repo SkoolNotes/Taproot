@@ -3,8 +3,6 @@ author: Albert Huang
 title: Circumfrence of a circle and Surface Area of a sphere
 ---
 
-cool
-
 # circumfrence
 
 Start with the arc length formula
