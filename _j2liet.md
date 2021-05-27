@@ -1,3 +1,7 @@
+---
+title: Title is amazing
+---
+
 # amazing
 
 $$\begin{aligned}

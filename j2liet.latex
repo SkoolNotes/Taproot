@@ -137,7 +137,7 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thelesson}{ Title is amazing }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13695)}}    % original
-%\rhead{\textrmlf{Compiled }\#13695\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13696)}}    % original
+%\rhead{\textrmlf{Compiled }\#13696\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
