@@ -11,5 +11,5 @@ $$\begin{aligned}
 # circular base with isocelese right triangle with hypotonuse on the base
 
 $$\begin{aligned}
-  \int_{-a}^{a}  \frac{2 \sqrt{a^2-x^2} ^2}{4} dx &= \int_{0}^{a} a^2-x^2 dx
+  \int_{-a}^{a}  2 \frac{\sqrt{a^2-x^2} ^2}{4} dx &= \int_{0}^{a} a^2-x^2 dx
   \end{aligned}$$
