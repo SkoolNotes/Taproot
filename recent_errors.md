@@ -1,5 +1,5 @@
-        Log for attempt at Wed May 26 11:21:12 PM PDT 2021 (13688)
-        Wed May 26 11:21:12 PM PDT 2021 Converting 21math401/KBe21math401retSurfaceAreaOfSphere.org...
+        Log for attempt at Wed May 26 11:23:57 PM PDT 2021 (13689)
+        Wed May 26 11:23:57 PM PDT 2021 Converting 21math401/KBe21math401retSurfaceAreaOfSphere.org...
 
 kpathsea: Running mktextfm NimbusSans
 /usr/share/texmf-dist/web2c/mktexnam: Could not map source abbreviation N for NimbusSans.
@@ -46,5 +46,5 @@ Error producing PDF.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.98 \newfontfamily
+l.100 \newfontfamily
 

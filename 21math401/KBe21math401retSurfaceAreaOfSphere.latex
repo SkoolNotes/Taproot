@@ -3,6 +3,8 @@
 
 \setlength\parindent{0pt}
 
+\usepackage[T1]{fontenc} % https://latex.org/forum/viewtopic.php?t=5540
+
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{amsfonts}
@@ -147,8 +149,8 @@ sphere }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13688)}}    % original
-%\rhead{\textrmlf{Compiled }\#13688\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13689)}}    % original
+%\rhead{\textrmlf{Compiled }\#13689\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
