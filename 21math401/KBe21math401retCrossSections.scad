@@ -1,3 +1,4 @@
+$fn = 180
 union(){
     cube(size=0);
     translate(v=[0, 0.0]){
