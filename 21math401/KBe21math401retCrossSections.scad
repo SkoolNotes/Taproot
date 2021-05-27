@@ -1,771 +1,1171 @@
 union(){
     cube(size=0);
     translate(v=[0, 0.0]){
-        cylinder(h=0.02, r=0.875, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.875, center=true);
+        };
     };
     translate(v=[0.02, 0.2821347195933179]){
-        cylinder(h=0.02, r=0.7610836402033411, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.7610836402033411, center=true);
+        };
     };
     translate(v=[0.04, 0.3979949748426484]){
-        cylinder(h=0.02, r=0.7296105125786758, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.7296105125786758, center=true);
+        };
     };
     translate(v=[0.06, 0.48620983124572886]){
-        cylinder(h=0.02, r=0.7112720843771356, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.7112720843771356, center=true);
+        };
     };
     translate(v=[0.08, 0.56]){
-        cylinder(h=0.02, r=0.699464, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.699464, center=true);
+        };
     };
     translate(v=[0.1, 0.6244997998398399]){
-        cylinder(h=0.02, r=0.6916251000800799, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6916251000800799, center=true);
+        };
     };
     translate(v=[0.12000000000000001, 0.6823488843692794]){
-        cylinder(h=0.02, r=0.6864415578153604, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6864415578153604, center=true);
+        };
     };
     translate(v=[0.14, 0.7351190379795646]){
-        cylinder(h=0.02, r=0.6831334810102179, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6831334810102179, center=true);
+        };
     };
     translate(v=[0.16, 0.7838367176906169]){
-        cylinder(h=0.02, r=0.6811936411546916, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6811936411546916, center=true);
+        };
     };
     translate(v=[0.18, 0.8292164976651151]){
-        cylinder(h=0.02, r=0.6802707511674424, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6802707511674424, center=true);
+        };
     };
     translate(v=[0.19999999999999998, 0.8717797887081346]){
-        cylinder(h=0.02, r=0.6801101056459327, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6801101056459327, center=true);
+        };
     };
     translate(v=[0.21999999999999997, 0.9119210492142398]){
-        cylinder(h=0.02, r=0.68052047539288, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.68052047539288, center=true);
+        };
     };
     translate(v=[0.23999999999999996, 0.9499473669630334]){
-        cylinder(h=0.02, r=0.6813543165184833, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6813543165184833, center=true);
+        };
     };
     translate(v=[0.25999999999999995, 0.986103442849684]){
-        cylinder(h=0.02, r=0.6824952785751579, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6824952785751579, center=true);
+        };
     };
     translate(v=[0.27999999999999997, 1.020588065773846]){
-        cylinder(h=0.02, r=0.6838499671130771, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6838499671130771, center=true);
+        };
     };
     translate(v=[0.3, 1.053565375285274]){
-        cylinder(h=0.02, r=0.6853423123573631, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6853423123573631, center=true);
+        };
     };
     translate(v=[0.32, 1.0851727973000431]){
-        cylinder(h=0.02, r=0.6869096013499786, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6869096013499786, center=true);
+        };
     };
     translate(v=[0.34, 1.1155267813907472]){
-        cylinder(h=0.02, r=0.6884996093046265, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6884996093046265, center=true);
+        };
     };
     translate(v=[0.36000000000000004, 1.144727041700335]){
-        cylinder(h=0.02, r=0.6900684791498325, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6900684791498325, center=true);
+        };
     };
     translate(v=[0.38000000000000006, 1.17285975291166]){
-        cylinder(h=0.02, r=0.6915791235441702, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6915791235441702, center=true);
+        };
     };
     translate(v=[0.4000000000000001, 1.2000000000000002]){
-        cylinder(h=0.02, r=0.6930000000000001, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6930000000000001, center=true);
+        };
     };
     translate(v=[0.4200000000000001, 1.2262136844775466]){
-        cylinder(h=0.02, r=0.6943041577612268, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6943041577612268, center=true);
+        };
     };
     translate(v=[0.4400000000000001, 1.2515590277729616]){
-        cylinder(h=0.02, r=0.6954684861135194, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6954684861135194, center=true);
+        };
     };
     translate(v=[0.46000000000000013, 1.276087771275942]){
-        cylinder(h=0.02, r=0.6964731143620292, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6964731143620292, center=true);
+        };
     };
     translate(v=[0.48000000000000015, 1.2998461447417538]){
-        cylinder(h=0.02, r=0.6973009276291233, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6973009276291233, center=true);
+        };
     };
     translate(v=[0.5000000000000001, 1.3228756555322954]){
-        cylinder(h=0.02, r=0.6979371722338523, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6979371722338523, center=true);
+        };
     };
     translate(v=[0.5200000000000001, 1.345213737664019]){
-        cylinder(h=0.02, r=0.6983691311679907, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6983691311679907, center=true);
+        };
     };
     translate(v=[0.5400000000000001, 1.3668942899873422]){
-        cylinder(h=0.02, r=0.698585855006329, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.698585855006329, center=true);
+        };
     };
     translate(v=[0.5600000000000002, 1.3879481258317978]){
-        cylinder(h=0.02, r=0.6985779370841011, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6985779370841011, center=true);
+        };
     };
     translate(v=[0.5800000000000002, 1.4084033513166603]){
-        cylinder(h=0.02, r=0.6983373243416698, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6983373243416698, center=true);
+        };
     };
     translate(v=[0.6000000000000002, 1.42828568570857]){
-        cylinder(h=0.02, r=0.6978571571457152, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6978571571457152, center=true);
+        };
     };
     translate(v=[0.6200000000000002, 1.4476187343358058]){
-        cylinder(h=0.02, r=0.6971316328320971, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6971316328320971, center=true);
+        };
     };
     translate(v=[0.6400000000000002, 1.466424222385869]){
-        cylinder(h=0.02, r=0.6961558888070657, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6961558888070657, center=true);
+        };
     };
     translate(v=[0.6600000000000003, 1.4847221962373973]){
-        cylinder(h=0.02, r=0.6949259018813013, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6949259018813013, center=true);
+        };
     };
     translate(v=[0.6800000000000003, 1.502531197679436]){
-        cylinder(h=0.02, r=0.6934384011602822, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6934384011602822, center=true);
+        };
     };
     translate(v=[0.7000000000000003, 1.5198684153570665]){
-        cylinder(h=0.02, r=0.6916907923214669, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6916907923214669, center=true);
+        };
     };
     translate(v=[0.7200000000000003, 1.5367498169838838]){
-        cylinder(h=0.02, r=0.6896810915080581, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6896810915080581, center=true);
+        };
     };
     translate(v=[0.7400000000000003, 1.553190265228314]){
-        cylinder(h=0.02, r=0.6874078673858431, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6874078673858431, center=true);
+        };
     };
     translate(v=[0.7600000000000003, 1.5692036196746426]){
-        cylinder(h=0.02, r=0.6848701901626788, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6848701901626788, center=true);
+        };
     };
     translate(v=[0.7800000000000004, 1.5848028268526027]){
-        cylinder(h=0.02, r=0.6820675865736987, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6820675865736987, center=true);
+        };
     };
     translate(v=[0.8000000000000004, 1.6]){
-        cylinder(h=0.02, r=0.679, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.679, center=true);
+        };
     };
     translate(v=[0.8200000000000004, 1.6148064899547563]){
-        cylinder(h=0.02, r=0.6756677550226219, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6756677550226219, center=true);
+        };
     };
     translate(v=[0.8400000000000004, 1.6292329483533043]){
-        cylinder(h=0.02, r=0.6720715258233478, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6720715258233478, center=true);
+        };
     };
     translate(v=[0.8600000000000004, 1.643289384131718]){
-        cylinder(h=0.02, r=0.668212307934141, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.668212307934141, center=true);
+        };
     };
     translate(v=[0.8800000000000004, 1.6569852141766386]){
-        cylinder(h=0.02, r=0.6640913929116808, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6640913929116808, center=true);
+        };
     };
     translate(v=[0.9000000000000005, 1.6703293088490068]){
-        cylinder(h=0.02, r=0.6597103455754966, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6597103455754966, center=true);
+        };
     };
     translate(v=[0.9200000000000005, 1.6833300330000651]){
-        cylinder(h=0.02, r=0.6550709834999675, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6550709834999675, center=true);
+        };
     };
     translate(v=[0.9400000000000005, 1.6959952830123086]){
-        cylinder(h=0.02, r=0.6501753584938457, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6501753584938457, center=true);
+        };
     };
     translate(v=[0.9600000000000005, 1.7083325203250102]){
-        cylinder(h=0.02, r=0.645025739837495, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.645025739837495, center=true);
+        };
     };
     translate(v=[0.9800000000000005, 1.7203488018422313]){
-        cylinder(h=0.02, r=0.6396245990788845, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6396245990788845, center=true);
+        };
     };
     translate(v=[1.0000000000000004, 1.7320508075688776]){
-        cylinder(h=0.02, r=0.6339745962155612, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6339745962155612, center=true);
+        };
     };
     translate(v=[1.0200000000000005, 1.743444865775801]){
-        cylinder(h=0.02, r=0.6280785671120994, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6280785671120994, center=true);
+        };
     };
     translate(v=[1.0400000000000005, 1.754536975956905]){
-        cylinder(h=0.02, r=0.6219395120215474, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6219395120215474, center=true);
+        };
     };
     translate(v=[1.0600000000000005, 1.765332829808589]){
-        cylinder(h=0.02, r=0.6155605850957054, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6155605850957054, center=true);
+        };
     };
     translate(v=[1.0800000000000005, 1.7758378304338494]){
-        cylinder(h=0.02, r=0.6089450847830753, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6089450847830753, center=true);
+        };
     };
     translate(v=[1.1000000000000005, 1.7860571099491753]){
-        cylinder(h=0.02, r=0.6020964450254124, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.6020964450254124, center=true);
+        };
     };
     translate(v=[1.1200000000000006, 1.7959955456514922]){
-        cylinder(h=0.02, r=0.5950182271742538, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.5950182271742538, center=true);
+        };
     };
     translate(v=[1.1400000000000006, 1.8056577748842666]){
-        cylinder(h=0.02, r=0.5877141125578667, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.5877141125578667, center=true);
+        };
     };
     translate(v=[1.1600000000000006, 1.8150482087261486]){
-        cylinder(h=0.02, r=0.5801878956369256, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.5801878956369256, center=true);
+        };
     };
     translate(v=[1.1800000000000006, 1.8241710446117714]){
-        cylinder(h=0.02, r=0.5724434776941143, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.5724434776941143, center=true);
+        };
     };
     translate(v=[1.2000000000000006, 1.8330302779823364]){
-        cylinder(h=0.02, r=0.5644848610088317, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.5644848610088317, center=true);
+        };
     };
     translate(v=[1.2200000000000006, 1.8416297130530885]){
-        cylinder(h=0.02, r=0.5563161434734557, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.5563161434734557, center=true);
+        };
     };
     translate(v=[1.2400000000000007, 1.8499729727755487]){
-        cylinder(h=0.02, r=0.5479415136122254, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.5479415136122254, center=true);
+        };
     };
     translate(v=[1.2600000000000007, 1.858063508064243]){
-        cylinder(h=0.02, r=0.5393652459678785, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.5393652459678785, center=true);
+        };
     };
     translate(v=[1.2800000000000007, 1.8659046063504965]){
-        cylinder(h=0.02, r=0.5305916968247515, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.5305916968247515, center=true);
+        };
     };
     translate(v=[1.3000000000000007, 1.8734993995195197]){
-        cylinder(h=0.02, r=0.5216253002402399, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.5216253002402399, center=true);
+        };
     };
     translate(v=[1.3200000000000007, 1.8808508712813998]){
-        cylinder(h=0.02, r=0.5124705643592998, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.5124705643592998, center=true);
+        };
     };
     translate(v=[1.3400000000000007, 1.887961864021623]){
-        cylinder(h=0.02, r=0.5031320679891884, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.5031320679891884, center=true);
+        };
     };
     translate(v=[1.3600000000000008, 1.8948350851723221]){
-        cylinder(h=0.02, r=0.4936144574138388, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.4936144574138388, center=true);
+        };
     };
     translate(v=[1.3800000000000008, 1.901473113141493]){
-        cylinder(h=0.02, r=0.48392244342925317, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.48392244342925317, center=true);
+        };
     };
     translate(v=[1.4000000000000008, 1.9078784028338915]){
-        cylinder(h=0.02, r=0.47406079858305394, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.47406079858305394, center=true);
+        };
     };
     translate(v=[1.4200000000000008, 1.9140532907941725]){
-        cylinder(h=0.02, r=0.4640343546029134, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.4640343546029134, center=true);
+        };
     };
     translate(v=[1.4400000000000008, 1.9200000000000002]){
-        cylinder(h=0.02, r=0.4538479999999997, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.4538479999999997, center=true);
+        };
     };
     translate(v=[1.4600000000000009, 1.9257206443303247]){
-        cylinder(h=0.02, r=0.4435066778348373, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.4435066778348373, center=true);
+        };
     };
     translate(v=[1.4800000000000009, 1.93121723273173]){
-        cylinder(h=0.02, r=0.4330153836341346, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.4330153836341346, center=true);
+        };
     };
     translate(v=[1.5000000000000009, 1.9364916731037087]){
-        cylinder(h=0.02, r=0.4223791634481452, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.4223791634481452, center=true);
+        };
     };
     translate(v=[1.520000000000001, 1.9415457759218557]){
-        cylinder(h=0.02, r=0.41160311203907174, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.41160311203907174, center=true);
+        };
     };
     translate(v=[1.540000000000001, 1.9463812576162978]){
-        cylinder(h=0.02, r=0.40069237119185064, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.40069237119185064, center=true);
+        };
     };
     translate(v=[1.560000000000001, 1.950999743721152]){
-        cylinder(h=0.02, r=0.38965212813942374, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.38965212813942374, center=true);
+        };
     };
     translate(v=[1.580000000000001, 1.9554027718094298]){
-        cylinder(h=0.02, r=0.37848761409528475, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.37848761409528475, center=true);
+        };
     };
     translate(v=[1.600000000000001, 1.9595917942265426]){
-        cylinder(h=0.02, r=0.3672041028867282, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.3672041028867282, center=true);
+        };
     };
     translate(v=[1.620000000000001, 1.9635681806344287]){
-        cylinder(h=0.02, r=0.35580690968278517, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.35580690968278517, center=true);
+        };
     };
     translate(v=[1.640000000000001, 1.9673332203772702]){
-        cylinder(h=0.02, r=0.3443013898113645, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.3443013898113645, center=true);
+        };
     };
     translate(v=[1.660000000000001, 1.9708881246788212]){
-        cylinder(h=0.02, r=0.33269293766058883, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.33269293766058883, center=true);
+        };
     };
     translate(v=[1.680000000000001, 1.9742340286804907]){
-        cylinder(h=0.02, r=0.32098698565975414, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.32098698565975414, center=true);
+        };
     };
     translate(v=[1.700000000000001, 1.977371993328519]){
-        cylinder(h=0.02, r=0.30918900333573995, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.30918900333573995, center=true);
+        };
     };
     translate(v=[1.720000000000001, 1.9803030071178502]){
-        cylinder(h=0.02, r=0.2973044964410744, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.2973044964410744, center=true);
+        };
     };
     translate(v=[1.740000000000001, 1.983027987699619]){
-        cylinder(h=0.02, r=0.2853390061501898, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.2853390061501898, center=true);
+        };
     };
     translate(v=[1.7600000000000011, 1.985547783358537]){
-        cylinder(h=0.02, r=0.27329810832073087, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.27329810832073087, center=true);
+        };
     };
     translate(v=[1.7800000000000011, 1.987863174365882]){
-        cylinder(h=0.02, r=0.2611874128170585, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.2611874128170585, center=true);
+        };
     };
     translate(v=[1.8000000000000012, 1.98997487421324]){
-        cylinder(h=0.02, r=0.24901256289337936, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.24901256289337936, center=true);
+        };
     };
     translate(v=[1.8200000000000012, 1.991883530731654]){
-        cylinder(h=0.02, r=0.23677923463417228, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.23677923463417228, center=true);
+        };
     };
     translate(v=[1.8400000000000012, 1.9935897271003382]){
-        cylinder(h=0.02, r=0.22449313644983016, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.22449313644983016, center=true);
+        };
     };
     translate(v=[1.8600000000000012, 1.9950939827486824]){
-        cylinder(h=0.02, r=0.2121600086256582, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.2121600086256582, center=true);
+        };
     };
     translate(v=[1.8800000000000012, 1.9963967541548449]){
-        cylinder(h=0.02, r=0.19978562292257684, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.19978562292257684, center=true);
+        };
     };
     translate(v=[1.9000000000000012, 1.997498435543818]){
-        cylinder(h=0.02, r=0.18737578222809026, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.18737578222809026, center=true);
+        };
     };
     translate(v=[1.9200000000000013, 1.9983993594874876]){
-        cylinder(h=0.02, r=0.17493632025625538, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.17493632025625538, center=true);
+        };
     };
     translate(v=[1.9400000000000013, 1.9990997974088236]){
-        cylinder(h=0.02, r=0.16247310129558734, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.16247310129558734, center=true);
+        };
     };
     translate(v=[1.9600000000000013, 1.999599959991998]){
-        cylinder(h=0.02, r=0.14999202000400025, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.14999202000400025, center=true);
+        };
     };
     translate(v=[1.9800000000000013, 1.999899997499875]){
-        cylinder(h=0.02, r=0.13749900125006176, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.13749900125006176, center=true);
+        };
     };
     translate(v=[2.0000000000000013, 2.0]){
-        cylinder(h=0.02, r=0.12499999999999911, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.12499999999999911, center=true);
+        };
     };
     translate(v=[2.0200000000000014, 1.999899997499875]){
-        cylinder(h=0.02, r=0.11250100125006168, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.11250100125006168, center=true);
+        };
     };
     translate(v=[2.0400000000000014, 1.999599959991998]){
-        cylinder(h=0.02, r=0.10000802000400022, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.10000802000400022, center=true);
+        };
     };
     translate(v=[2.0600000000000014, 1.9990997974088236]){
-        cylinder(h=0.02, r=0.08752710129558716, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.08752710129558716, center=true);
+        };
     };
     translate(v=[2.0800000000000014, 1.9983993594874874]){
-        cylinder(h=0.02, r=0.07506432025625531, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.07506432025625531, center=true);
+        };
     };
     translate(v=[2.1000000000000014, 1.997498435543818]){
-        cylinder(h=0.02, r=0.06262578222809012, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.06262578222809012, center=true);
+        };
     };
     translate(v=[2.1200000000000014, 1.9963967541548449]){
-        cylinder(h=0.02, r=0.0502176229225767, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.0502176229225767, center=true);
+        };
     };
     translate(v=[2.1400000000000015, 1.9950939827486822]){
-        cylinder(h=0.02, r=0.03784600862565801, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.03784600862565801, center=true);
+        };
     };
     translate(v=[2.1600000000000015, 1.993589727100338]){
-        cylinder(h=0.02, r=0.025517136449830002, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.025517136449830002, center=true);
+        };
     };
     translate(v=[2.1800000000000015, 1.9918835307316538]){
-        cylinder(h=0.02, r=0.013237234634172257, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.013237234634172257, center=true);
+        };
     };
     translate(v=[2.2000000000000015, 1.9899748742132397]){
-        cylinder(h=0.02, r=0.001012562893379032, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.001012562893379032, center=true);
+        };
     };
     mirror([0, 0, 1]){
         translate(v=[2.2200000000000015, 1.9878631743658814]){
-            cylinder(h=0.02, r=0.011150587182941707, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.011150587182941707, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.2400000000000015, 1.9855477833585369]){
-            cylinder(h=0.02, r=0.023245891679269493, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.023245891679269493, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.2600000000000016, 1.9830279876996186]){
-            cylinder(h=0.02, r=0.03526699384981036, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.03526699384981036, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.2800000000000016, 1.98030300711785]){
-            cylinder(h=0.02, r=0.04720750355892611, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.04720750355892611, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.3000000000000016, 1.9773719933285188]){
-            cylinder(h=0.02, r=0.05906099666426046, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.05906099666426046, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.3200000000000016, 1.9742340286804902]){
-            cylinder(h=0.02, r=0.07082101434024624, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.07082101434024624, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.3400000000000016, 1.9708881246788208]){
-            cylinder(h=0.02, r=0.08248106233941144, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.08248106233941144, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.3600000000000017, 1.9673332203772698]){
-            cylinder(h=0.02, r=0.09403461018863601, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.09403461018863601, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.3800000000000017, 1.9635681806344283]){
-            cylinder(h=0.02, r=0.10547509031721525, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.10547509031721525, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.4000000000000017, 1.9595917942265422]){
-            cylinder(h=0.02, r=0.1167958971132722, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.1167958971132722, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.4200000000000017, 1.9554027718094291]){
-            cylinder(h=0.02, r=0.12799038590471568, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.12799038590471568, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.4400000000000017, 1.9509997437211515]){
-            cylinder(h=0.02, r=0.13905187186057677, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.13905187186057677, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.4600000000000017, 1.946381257616297]){
-            cylinder(h=0.02, r=0.14997362880814968, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.14997362880814968, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.4800000000000018, 1.941545775921855]){
-            cylinder(h=0.02, r=0.16074888796092868, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.16074888796092868, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.5000000000000018, 1.936491673103708]){
-            cylinder(h=0.02, r=0.17137083655185514, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.17137083655185514, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.520000000000002, 1.9312172327317292]){
-            cylinder(h=0.02, r=0.18183261636586567, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.18183261636586567, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.540000000000002, 1.9257206443303239]){
-            cylinder(h=0.02, r=0.19212732216516315, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.19212732216516315, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.560000000000002, 1.9199999999999995]){
-            cylinder(h=0.02, r=0.20224800000000087, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.20224800000000087, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.580000000000002, 1.9140532907941716]){
-            cylinder(h=0.02, r=0.2121876453970869, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2121876453970869, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.600000000000002, 1.9078784028338907]){
-            cylinder(h=0.02, r=0.22193920141694645, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.22193920141694645, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.620000000000002, 1.9014731131414921]){
-            cylinder(h=0.02, r=0.23149555657074739, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.23149555657074739, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.640000000000002, 1.8948350851723212]){
-            cylinder(h=0.02, r=0.24084954258616176, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.24084954258616176, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.660000000000002, 1.887961864021622]){
-            cylinder(h=0.02, r=0.24999393201081233, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.24999393201081233, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.680000000000002, 1.880850871281399]){
-            cylinder(h=0.02, r=0.2589214356407008, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2589214356407008, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.700000000000002, 1.8734993995195186]){
-            cylinder(h=0.02, r=0.26762469975976055, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.26762469975976055, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.720000000000002, 1.8659046063504954]){
-            cylinder(h=0.02, r=0.2760963031752489, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2760963031752489, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.740000000000002, 1.858063508064242]){
-            cylinder(h=0.02, r=0.2843287540321221, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2843287540321221, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.760000000000002, 1.8499729727755476]){
-            cylinder(h=0.02, r=0.292314486387775, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.292314486387775, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.780000000000002, 1.8416297130530874]){
-            cylinder(h=0.02, r=0.3000458565265449, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3000458565265449, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.800000000000002, 1.833030277982335]){
-            cylinder(h=0.02, r=0.30751513899116867, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.30751513899116867, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.820000000000002, 1.8241710446117703]){
-            cylinder(h=0.02, r=0.31471452230588626, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.31471452230588626, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.840000000000002, 1.8150482087261475]){
-            cylinder(h=0.02, r=0.321636104363075, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.321636104363075, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.860000000000002, 1.8056577748842653]){
-            cylinder(h=0.02, r=0.32827188744213387, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.32827188744213387, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.880000000000002, 1.7959955456514909]){
-            cylinder(h=0.02, r=0.33461377282574656, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.33461377282574656, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.900000000000002, 1.786057109949174]){
-            cylinder(h=0.02, r=0.34065355497458827, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.34065355497458827, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.920000000000002, 1.775837830433848]){
-            cylinder(h=0.02, r=0.3463829152169252, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3463829152169252, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.940000000000002, 1.7653328298085877]){
-            cylinder(h=0.02, r=0.35179341490429494, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.35179341490429494, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.960000000000002, 1.7545369759569036]){
-            cylinder(h=0.02, r=0.35687648797845295, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.35687648797845295, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[2.980000000000002, 1.7434448657757995]){
-            cylinder(h=0.02, r=0.3616234328879009, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3616234328879009, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.000000000000002, 1.732050807568876]){
-            cylinder(h=0.02, r=0.36602540378443915, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.36602540378443915, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.0200000000000022, 1.7203488018422297]){
-            cylinder(h=0.02, r=0.37007340092111585, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.37007340092111585, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.0400000000000023, 1.7083325203250084]){
-            cylinder(h=0.02, r=0.37375826016250513, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.37375826016250513, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.0600000000000023, 1.6959952830123068]){
-            cylinder(h=0.02, r=0.37707064150615466, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.37707064150615466, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.0800000000000023, 1.6833300330000636]){
-            cylinder(h=0.02, r=0.3800010165000328, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3800010165000328, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.1000000000000023, 1.670329308849005]){
-            cylinder(h=0.02, r=0.38253965442450355, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.38253965442450355, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.1200000000000023, 1.6569852141766368]){
-            cylinder(h=0.02, r=0.3846766070883193, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3846766070883193, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.1400000000000023, 1.6432893841317162]){
-            cylinder(h=0.02, r=0.38640169206585895, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.38640169206585895, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.1600000000000024, 1.6292329483533023]){
-            cylinder(h=0.02, r=0.3877044741766521, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3877044741766521, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.1800000000000024, 1.6148064899547545]){
-            cylinder(h=0.02, r=0.38857424497737825, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.38857424497737825, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.2000000000000024, 1.5999999999999983]){
-            cylinder(h=0.02, r=0.389, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.389, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.2200000000000024, 1.5848028268526007]){
-            cylinder(h=0.02, r=0.3889704134263011, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3889704134263011, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.2400000000000024, 1.5692036196746406]){
-            cylinder(h=0.02, r=0.38847380983732094, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.38847380983732094, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.2600000000000025, 1.5531902652283118]){
-            cylinder(h=0.02, r=0.3874981326141568, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3874981326141568, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.2800000000000025, 1.5367498169838818]){
-            cylinder(h=0.02, r=0.38603090849194155, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.38603090849194155, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.3000000000000025, 1.5198684153570643]){
-            cylinder(h=0.02, r=0.3840592076785331, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3840592076785331, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.3200000000000025, 1.5025311976794338]){
-            cylinder(h=0.02, r=0.38156959883971797, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.38156959883971797, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.3400000000000025, 1.4847221962373949]){
-            cylinder(h=0.02, r=0.37854809811869794, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.37854809811869794, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.3600000000000025, 1.4664242223858666]){
-            cylinder(h=0.02, r=0.37498011119293384, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.37498011119293384, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.3800000000000026, 1.4476187343358033]){
-            cylinder(h=0.02, r=0.3708503671679023, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3708503671679023, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.4000000000000026, 1.4282856857085675]){
-            cylinder(h=0.02, r=0.36614284285428433, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.36614284285428433, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.4200000000000026, 1.4084033513166576]){
-            cylinder(h=0.02, r=0.3608406756583292, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3608406756583292, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.4400000000000026, 1.3879481258317952]){
-            cylinder(h=0.02, r=0.35492606291589823, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.35492606291589823, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.4600000000000026, 1.3668942899873393]){
-            cylinder(h=0.02, r=0.3483801449936701, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3483801449936701, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.4800000000000026, 1.345213737664016]){
-            cylinder(h=0.02, r=0.3411828688320083, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.3411828688320083, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.5000000000000027, 1.3228756555322922]){
-            cylinder(h=0.02, r=0.33331282776614657, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.33331282776614657, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.5200000000000027, 1.2998461447417506]){
-            cylinder(h=0.02, r=0.32474707237087586, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.32474707237087586, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.5400000000000027, 1.2760877712759384]){
-            cylinder(h=0.02, r=0.31546088563796937, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.31546088563796937, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.5600000000000027, 1.2515590277729578]){
-            cylinder(h=0.02, r=0.30542751388647915, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.30542751388647915, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.5800000000000027, 1.2262136844775429]){
-            cylinder(h=0.02, r=0.2946178422387714, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2946178422387714, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.6000000000000028, 1.1999999999999962]){
-            cylinder(h=0.02, r=0.2829999999999979, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2829999999999979, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.6200000000000028, 1.1728597529116562]){
-            cylinder(h=0.02, r=0.2705388764558284, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2705388764558284, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.640000000000003, 1.1447270417003308]){
-            cylinder(h=0.02, r=0.2571955208501655, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2571955208501655, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.660000000000003, 1.1155267813907432]){
-            cylinder(h=0.02, r=0.24292639069537136, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.24292639069537136, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.680000000000003, 1.0851727973000387]){
-            cylinder(h=0.02, r=0.2276823986500195, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2276823986500195, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.700000000000003, 1.0535653752852694]){
-            cylinder(h=0.02, r=0.2114076876426343, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.2114076876426343, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.720000000000003, 1.020588065773841]){
-            cylinder(h=0.02, r=0.19403803288692045, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.19403803288692045, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.740000000000003, 0.986103442849679]){
-            cylinder(h=0.02, r=0.1754987214248393, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.1754987214248393, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.760000000000003, 0.9499473669630281]){
-            cylinder(h=0.02, r=0.1557016834815138, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.1557016834815138, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.780000000000003, 0.9119210492142341]){
-            cylinder(h=0.02, r=0.13454152460711694, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.13454152460711694, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.800000000000003, 0.8717797887081288]){
-            cylinder(h=0.02, r=0.1118898943540641, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.1118898943540641, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.820000000000003, 0.8292164976651086]){
-            cylinder(h=0.02, r=0.08758724883255409, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.08758724883255409, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.840000000000003, 0.7838367176906101]){
-            cylinder(h=0.02, r=0.06143035884530473, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.06143035884530473, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.860000000000003, 0.7351190379795567]){
-            cylinder(h=0.02, r=0.033152518989777335, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.033152518989777335, center=true);
+            };
         };
     };
     mirror([0, 0, 1]){
         translate(v=[3.880000000000003, 0.682348884369271]){
-            cylinder(h=0.02, r=0.0023904421846346335, center=true);
+            rotate(a=[0, 90, 0]){
+                cylinder(h=0.02, r=0.0023904421846346335, center=true);
+            };
         };
     };
     translate(v=[3.900000000000003, 0.6244997998398307]){
-        cylinder(h=0.02, r=0.03137510008008537, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.03137510008008537, center=true);
+        };
     };
     translate(v=[3.920000000000003, 0.5599999999999897]){
-        cylinder(h=0.02, r=0.06893600000000571, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.06893600000000571, center=true);
+        };
     };
     translate(v=[3.940000000000003, 0.48620983124571654]){
-        cylinder(h=0.02, r=0.11161808437714207, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.11161808437714207, center=true);
+        };
     };
     translate(v=[3.960000000000003, 0.39799497484263274]){
-        cylinder(h=0.02, r=0.16199451257868494, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.16199451257868494, center=true);
+        };
     };
     translate(v=[3.980000000000003, 0.28213471959329584]){
-        cylinder(h=0.02, r=0.22668164020335374, center=true);
+        rotate(a=[0, 90, 0]){
+            cylinder(h=0.02, r=0.22668164020335374, center=true);
+        };
     };
 };
