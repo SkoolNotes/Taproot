@@ -19,3 +19,7 @@ title: Calypso Poem by Kamau Braithwaite
 ## seems to loose structure the way the island life collapsed
 
 # reading + calypso music
+
+## most lines go together with the music, but some lines are far shorter / should be combined
+
+## don\'t clash as much as I expected, the music gives the poem structure
