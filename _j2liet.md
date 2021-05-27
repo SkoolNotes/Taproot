@@ -15,6 +15,4 @@ $$\begin{aligned}
   \begin{pmatrix}1 & 2\end{pmatrix} + \begin{pmatrix}3 & 4\end{pmatrix}
   \end{aligned}$$
 
-# sync test
-
-## does it work is the real question
+A test of **bold**, *italics* ~~strikethrough~~, and `code`
