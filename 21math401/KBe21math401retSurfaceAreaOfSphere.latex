@@ -94,7 +94,7 @@
 \newfontfamily\NHLight[
   ItalicFont     = Helvetica-LightItalic,
   BoldFont       = Helvetica-UltraLight,
-  BoldItalicFont = Helvetica-UltraLightItalic]{Helvetica-Light}
+  BoldItalicFont = Helvetica-UltraLightItalic]{Helvetica}
 %\newfontfamily\NHLight[
 %  ItalicFont     = HelveticaNeue-LightItalic,
 %  BoldFont       = HelveticaNeue-UltraLight,
@@ -143,8 +143,8 @@ sphere }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13686)}}    % original
-%\rhead{\textrmlf{Compiled }\#13686\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13687)}}    % original
+%\rhead{\textrmlf{Compiled }\#13687\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date

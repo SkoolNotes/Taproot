@@ -1,5 +1,5 @@
-        Log for attempt at Wed May 26 11:10:31 PM PDT 2021 (13686)
-        Wed May 26 11:10:31 PM PDT 2021 Converting 21math401/KBe21math401retSurfaceAreaOfSphere.org...
+        Log for attempt at Wed May 26 11:16:22 PM PDT 2021 (13687)
+        Wed May 26 11:16:22 PM PDT 2021 Converting 21math401/KBe21math401retSurfaceAreaOfSphere.org...
 kpathsea:make_tex: Invalid filename `Helvetica-Italic/OT:language=dflt;', contains ':'
 kpathsea:make_tex: Invalid filename `Helvetica-Italic/OT:language=dflt;', contains ':'
 Error producing PDF.
