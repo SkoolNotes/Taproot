@@ -23,3 +23,5 @@ title: Calypso Poem by Kamau Braithwaite
 ## most lines go together with the music, but some lines are far shorter / should be combined
 
 ## don\'t clash as much as I expected, the music gives the poem structure
+
+## eliza sanders: cheery music seems to make it even darker
