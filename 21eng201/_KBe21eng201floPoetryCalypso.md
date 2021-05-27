@@ -10,4 +10,8 @@ title: Calypso Poem by Kamau Braithwaite
 
 ## 2 and 3 specifically clash
 
+# silent reading
+
+## some of the later stanzas really do fall apart, both rhyme scheme and structure
+
 # reading + calypso music
