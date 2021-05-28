@@ -13,7 +13,9 @@ source:  #index
 
 # SNP. Project. Write-up.
 
-Resources: [[KBxSNp
+Resources: 
+[[KBxSNPPCR]]
+[Instructions](https://docs.google.com/document/d/1SRQSvppoSJYlOfJvIKg3INx79Yzv5MmXcFcNG1-nIwE/edit)
 
 
 
