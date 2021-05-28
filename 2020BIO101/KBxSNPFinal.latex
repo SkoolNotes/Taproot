@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13788)}}    % original
-%\rhead{\textrmlf{Compiled }\#13788\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13789)}}    % original
+%\rhead{\textrmlf{Compiled }\#13789\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -213,5 +213,14 @@ Resources: {[}{[}KBxSNPPCR{]}{]}
 
 \hypertarget{part-one}{%
 \subsubsection{Part One}\label{part-one}}
+
+\begin{itemize}
+\tightlist
+\item
+  basics
+\item
+  function and regulation
+\item
+\end{itemize}
 
 \end{document}

@@ -19,7 +19,9 @@ Resources:
 
 ### Part One
 
-
+- basics
+- function and regulation
+- 
 
 
 
