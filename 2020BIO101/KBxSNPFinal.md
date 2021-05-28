@@ -13,8 +13,7 @@ source:  #index
 
 # SNP. Project. Write-up.
 
-
-
+Resources: [[KBxSNp
 
 
 
