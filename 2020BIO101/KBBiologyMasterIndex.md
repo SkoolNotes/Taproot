@@ -55,6 +55,7 @@ source: #index
 - [[KBhBIO101MorePCRStuff]]
 - [[KBxGelElectrophoresisPrep]]
 - [[KBhBIO101Rosalind]]
+- [[KBxSNPFinal]]
 
 ## Quiz Review Document
 * 10092020 [[KBhBIO101BioMoleculesQuizReview]]
