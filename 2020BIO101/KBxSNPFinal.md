@@ -21,7 +21,7 @@ Resources:
 
 - basics
 - function and regulation
-- 
+- SNP effect
 
 
 

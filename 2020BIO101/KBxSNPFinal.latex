@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13789)}}    % original
-%\rhead{\textrmlf{Compiled }\#13789\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13790)}}    % original
+%\rhead{\textrmlf{Compiled }\#13790\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -221,6 +221,7 @@ Resources: {[}{[}KBxSNPPCR{]}{]}
 \item
   function and regulation
 \item
+  SNP effect
 \end{itemize}
 
 \end{document}
