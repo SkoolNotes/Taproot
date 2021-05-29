@@ -52,5 +52,3 @@ The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme whic
 
 
 
-
-
