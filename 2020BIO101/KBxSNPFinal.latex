@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13808)}}    % original
-%\rhead{\textrmlf{Compiled }\#13808\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13809)}}    % original
+%\rhead{\textrmlf{Compiled }\#13809\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -236,6 +236,7 @@ S-adenosylmethionine to dopamine, epinephrine, and norepinephrine. This
 process, called O-methylation, leads to the degradation of the
 aforementioned neurotransmitters. The \emph{COMT} enzyme also effects
 the metabolism of exogenous substances, but that is irrelevant for the
-mutation at hand \href{https://www.ncbi.nlm.nih.gov/gene/1312}{ct}.
+mutation at hand
+\href{https://www.ncbi.nlm.nih.gov/gene/1312}{citation}.
 
 \end{document}
