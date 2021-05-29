@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13809)}}    % original
-%\rhead{\textrmlf{Compiled }\#13809\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13810)}}    % original
+%\rhead{\textrmlf{Compiled }\#13810\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -237,6 +237,7 @@ process, called O-methylation, leads to the degradation of the
 aforementioned neurotransmitters. The \emph{COMT} enzyme also effects
 the metabolism of exogenous substances, but that is irrelevant for the
 mutation at hand
-\href{https://www.ncbi.nlm.nih.gov/gene/1312}{citation}.
+\href{https://www.ncbi.nlm.nih.gov/gene/1312}{citation}. The \emph{COMT}
+gene itself is 27.22kb long and located on chromosome 22q11.2.
 
 \end{document}
