@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13803)}}    % original
-%\rhead{\textrmlf{Compiled }\#13803\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13804)}}    % original
+%\rhead{\textrmlf{Compiled }\#13804\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -234,6 +234,7 @@ neurotransmitters the brain's prefrontal cortex. More specifically, it
 acts as a catalyst for the transfer of a methyl group from
 S-adenosylmethionine to dopamine, epinephrine, and norepinephrine. This
 process, called O-methylation, leads to the degradation of the
-aforementioned neurotransmitters.
+aforementioned neurotransmitters. The \emph{COMT} enzyme also effects
+the metabolism of exogenous substances, but that
 
 \end{document}
