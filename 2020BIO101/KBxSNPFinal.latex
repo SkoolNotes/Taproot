@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13801)}}    % original
-%\rhead{\textrmlf{Compiled }\#13801\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13802)}}    % original
+%\rhead{\textrmlf{Compiled }\#13802\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -233,6 +233,7 @@ The \emph{COMT} gene, or catechol-O-methyltransferase, encodes the
 neurotransmitters the brain's prefrontal cortex. More specifically, it
 acts as a catalyst for the transfer of a methyl group from
 S-adenosylmethionine to dopamine, epinephrine, and norepinephrine. This
-process, called O-methylation,
+process, called O-methylation, leads to the degradation of the
+aforementioned neurotransmitters.
 
 \end{document}
