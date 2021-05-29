@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13812)}}    % original
-%\rhead{\textrmlf{Compiled }\#13812\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13813)}}    % original
+%\rhead{\textrmlf{Compiled }\#13813\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -241,6 +241,6 @@ mutation at hand
 gene itself is 27.22kb long and located on chromosome 22q11.2
 \href{https://pubmed.ncbi.nlm.nih.gov/1572656/}{citation}. It has
 ubiquitous expression in 27 tissues, including the placenta, the
-ardrenal
+adrenal,
 
 \end{document}
