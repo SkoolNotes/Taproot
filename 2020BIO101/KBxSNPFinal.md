@@ -26,7 +26,7 @@ Resources:
 
 ###### Writing!
 
-The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme which is responsible for breaking down dopamine in the brain's prefrontal cortex.
+The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme which is responsible for breaking down neurotransmitters the brain's prefrontal cortex.
 
 
 
