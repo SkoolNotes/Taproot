@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13815)}}    % original
-%\rhead{\textrmlf{Compiled }\#13815\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13816)}}    % original
+%\rhead{\textrmlf{Compiled }\#13816\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -243,5 +243,6 @@ gene itself is 27.22kb long and located on chromosome 22q11.2
 ubiquitous expression in 27 tissues, including the placenta, the
 adrenal, and the lung
 \href{https://www.ncbi.nlm.nih.gov/gene/1312\#gene-expression}{citation}.
+A c
 
 \end{document}
