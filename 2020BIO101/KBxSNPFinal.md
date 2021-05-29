@@ -26,7 +26,7 @@ Resources:
 
 ###### Writing!
 
-The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme which is responsible for breaking down neurotransmitters the brain's prefrontal cortex. More specifically, it acts as a catalyst for the transfer of a methyl group from S-adenosylmethionine to
+The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme which is responsible for breaking down neurotransmitters the brain's prefrontal cortex. More specifically, it acts as a catalyst for the transfer of a methyl group from S-adenosylmethionine to dopamine, epinephrine, and norepinephrine. This process, called O-methylation, 
 
 
 
