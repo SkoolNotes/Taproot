@@ -19,6 +19,7 @@ Resources:
 
 ### Part One
 
+###### Outline
 - basics
 - function and regulation
 - SNP effect
