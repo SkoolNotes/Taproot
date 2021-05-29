@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13796)}}    % original
-%\rhead{\textrmlf{Compiled }\#13796\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13797)}}    % original
+%\rhead{\textrmlf{Compiled }\#13797\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -228,6 +228,8 @@ Outline
 
 Writing!
 
-The \emph{COMT} gene, or catechol-O-methyltransferase,
+The \emph{COMT} gene, or catechol-O-methyltransferase, encodes the
+\emph{COMT} enzyme which is responsible for breaking down dopamine in
+the brain's prefrontal cortex.
 
 \end{document}
