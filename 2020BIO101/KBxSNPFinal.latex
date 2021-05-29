@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13798)}}    % original
-%\rhead{\textrmlf{Compiled }\#13798\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13799)}}    % original
+%\rhead{\textrmlf{Compiled }\#13799\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -230,6 +230,7 @@ Writing!
 
 The \emph{COMT} gene, or catechol-O-methyltransferase, encodes the
 \emph{COMT} enzyme which is responsible for breaking down
-neurotransmitters the brain's prefrontal cortex.
+neurotransmitters the brain's prefrontal cortex. More specifically, it
+acts as a catalyst for the transfer of
 
 \end{document}
