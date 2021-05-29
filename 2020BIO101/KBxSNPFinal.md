@@ -26,7 +26,7 @@ Resources:
 
 ###### Writing!
 
-The COMT gene, or catechol-O-methyltransferase
+The *COMT* gene, or catechol-O-methyltransferase
 
 
 

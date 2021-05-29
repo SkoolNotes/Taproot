@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13794)}}    % original
-%\rhead{\textrmlf{Compiled }\#13794\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13795)}}    % original
+%\rhead{\textrmlf{Compiled }\#13795\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -228,6 +228,6 @@ Outline
 
 Writing!
 
-The COMT gene, or catechol-O-methyltransferase
+The \emph{COMT} gene, or catechol-O-methyltransferase
 
 \end{document}
