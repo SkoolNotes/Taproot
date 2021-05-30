@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13824)}}    % original
-%\rhead{\textrmlf{Compiled }\#13824\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13825)}}    % original
+%\rhead{\textrmlf{Compiled }\#13825\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -244,6 +244,7 @@ ubiquitous expression in 27 tissues, including the placenta, the
 adrenal, and the lung
 \href{https://www.ncbi.nlm.nih.gov/gene/1312\#gene-expression}{citation}.
 Val158Me, also known as rs4680, is a common missense mutation swapping a
-guanine for an adenine. It has a frequency of
+guanine for an adenine. It has the frequency G=0.510915, and thus,
+A=0.489085.
 
 \end{document}
