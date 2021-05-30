@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13841)}}    % original
-%\rhead{\textrmlf{Compiled }\#13841\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13842)}}    % original
+%\rhead{\textrmlf{Compiled }\#13842\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -310,6 +310,10 @@ is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
   Analysis of Genetic Variation in Catechol-O-Methyltransferase (COMT):
   Effects on mRNA, Protein, and Enzyme Activity in Postmortem Human
   Brain}
+\item
+  \href{https://pubmed.ncbi.nlm.nih.gov/7703232/}{Kinetics of human
+  soluble and membrane-bound catechol O-methyltransferase: a revised
+  mechanism and description of the thermolabile variant of the enzyme}
 \item
 \end{itemize}
 
