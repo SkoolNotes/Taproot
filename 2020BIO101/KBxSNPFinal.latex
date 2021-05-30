@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13832)}}    % original
-%\rhead{\textrmlf{Compiled }\#13832\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13833)}}    % original
+%\rhead{\textrmlf{Compiled }\#13833\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -205,6 +205,8 @@
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
+\%\%
+
 \hypertarget{snp.-project.-write-up.}{%
 \section{SNP. Project. Write-up.}\label{snp.-project.-write-up.}}
 
@@ -226,7 +228,10 @@ Outline
   SNP effect
 \end{itemize}
 
-Writing!
+Writing!\%\%
+
+\hypertarget{part-one-1}{%
+\subsubsection{Part One!}\label{part-one-1}}
 
 The \emph{COMT} gene, or catechol-O-methyltransferase, encodes the
 \emph{COMT} enzyme which is responsible for breaking down
@@ -275,5 +280,8 @@ and attention tasks
 \href{https://pubmed.ncbi.nlm.nih.gov/17008817/}{citation}. The
 Val158Met mutation has also been linked to schizophrenia, but this claim
 is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
+
+\hypertarget{citations}{%
+\subsection{\#\#\#\# Citations:}\label{citations}}
 
 \end{document}
