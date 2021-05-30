@@ -44,7 +44,7 @@ The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme whic
 - [Kinetics of human soluble and membrane-bound catechol O-methyltransferase: a revised mechanism and description of the thermolabile variant of the enzyme](https://pubmed.ncbi.nlm.nih.gov/7703232/)
 - [Warriors versus worriers: the role of COMT gene variants](https://pubmed.ncbi.nlm.nih.gov/17008817/)
 - [Self Decode rs4680](https://selfdecode.com/snp/rs4680/)
-- 
+- [The effect of rs1076560 (DRD2) and rs4680 (COMT) on tardive dyskinesia and cognition in schizophrenia subjects](https://pubmed.ncbi.nlm.nih.gov/32931693/)
 
 
 

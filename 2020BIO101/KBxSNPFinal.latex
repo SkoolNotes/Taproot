@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13844)}}    % original
-%\rhead{\textrmlf{Compiled }\#13844\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13845)}}    % original
+%\rhead{\textrmlf{Compiled }\#13845\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -320,6 +320,9 @@ is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
 \item
   \href{https://selfdecode.com/snp/rs4680/}{Self Decode rs4680}
 \item
+  \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{The effect of
+  rs1076560 (DRD2) and rs4680 (COMT) on tardive dyskinesia and cognition
+  in schizophrenia subjects}
 \end{itemize}
 
 \end{document}
