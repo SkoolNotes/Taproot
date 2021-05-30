@@ -34,9 +34,10 @@ The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme whic
 ---
 
 #### Citations:
-(order of apearance)
+*(order of appearance)*
 
 - [NCBI COMT catechol-O-methyltransferase \[ _Homo sapiens_ (human) \]](https://www.ncbi.nlm.nih.gov/gene/1312) 
+- []()
 
 
 
