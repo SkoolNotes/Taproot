@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13842)}}    % original
-%\rhead{\textrmlf{Compiled }\#13842\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13843)}}    % original
+%\rhead{\textrmlf{Compiled }\#13843\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -314,6 +314,9 @@ is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
   \href{https://pubmed.ncbi.nlm.nih.gov/7703232/}{Kinetics of human
   soluble and membrane-bound catechol O-methyltransferase: a revised
   mechanism and description of the thermolabile variant of the enzyme}
+\item
+  \href{https://pubmed.ncbi.nlm.nih.gov/17008817/}{Warriors versus
+  worriers: the role of COMT gene variants}
 \item
 \end{itemize}
 
