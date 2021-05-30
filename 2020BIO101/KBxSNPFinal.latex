@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13827)}}    % original
-%\rhead{\textrmlf{Compiled }\#13827\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13828)}}    % original
+%\rhead{\textrmlf{Compiled }\#13828\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -245,6 +245,7 @@ adrenal, and the lung
 \href{https://www.ncbi.nlm.nih.gov/gene/1312\#gene-expression}{citation}.
 Val158Met, also known as rs4680, is a common missense mutation swapping
 a guanine for an adenine. It has the frequency G=0.510915, and thus,
-A=0.489085. Val158Met causes
+A=0.489085. Val158Met causes the \emph{COMT} enzyme to be roughly 25\%
+as effective compared to the wild type.
 
 \end{document}
