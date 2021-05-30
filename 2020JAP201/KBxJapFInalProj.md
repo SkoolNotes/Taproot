@@ -65,6 +65,8 @@ sentence modifiers or relative clauses
 4. Beppu has 8 hot spring sources, called the hells of beppu.
 5. In beppu their are over 2000 hot springs, so their is a kind of hot spring for everybody.
 6. Their are bathing hot springs, mud hot springs, sand hot springs, and viewing hot springs.
+7. These hot springs are only for viewing, not bathing.
+8. Their are also 
 
 
 bathing, mud, sand, viewing
