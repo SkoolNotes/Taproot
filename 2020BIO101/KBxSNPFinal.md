@@ -39,6 +39,7 @@ The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme whic
 - [NCBI COMT catechol-O-methyltransferase \[ _Homo sapiens_ (human) \]](https://www.ncbi.nlm.nih.gov/gene/1312) 
 - [Chromosomal mapping of the human catechol-O-methyltransferase gene to 22q11.1----q11.2](https://pubmed.ncbi.nlm.nih.gov/1572656/)
 - [Gene Expression -- NCBI COMT catechol-O-methyltransferase \[ _Homo sapiens_ (human) \]](https://www.ncbi.nlm.nih.gov/gene/1312#gene-expression)
+- [Lack of Association between rs4680 Polymorphism in Catechol-O-Methyltransferase Gene and Alcohol Use Disorder: A Meta-Analysis](https://www.hindawi.com/journals/dm/2020/8850859/)
 - 
 
 
