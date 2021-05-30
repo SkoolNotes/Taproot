@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13846)}}    % original
-%\rhead{\textrmlf{Compiled }\#13846\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13847)}}    % original
+%\rhead{\textrmlf{Compiled }\#13847\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -288,6 +288,6 @@ to include:
 potential form, \textasciitilde shi \textasciitilde shi form,
 \textasciitilde sou desu, \textasciitilde nara, giving and receiving
 verbs, giving advice, volitional form, sentence modifiers or relative
-clauses, etc).
+clauses
 
 \end{document}

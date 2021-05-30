@@ -46,7 +46,14 @@ filtered research to include:
 to include:
 
  
-potential form, ~shi ~shi form, ~sou desu, ~nara, giving and receiving verbs, giving advice, volitional form, sentence modifiers or relative clauses, etc).
+potential form,
+~shi ~shi form,
+~sou desu,
+~nara,
+giving and receiving verbs,
+giving advice, 
+volitional form, 
+sentence modifiers or relative clauses
 
 
 
