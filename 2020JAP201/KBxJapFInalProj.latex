@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13855)}}    % original
-%\rhead{\textrmlf{Compiled }\#13855\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13856)}}    % original
+%\rhead{\textrmlf{Compiled }\#13856\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -302,7 +302,8 @@ clauses
 \item
   Beppu's main attraction is its hot springs
 \item
-  It has some of the most beautiful hot springs in the world.
+  It has some of the most beautiful hot springs in the world, and it
+  produces more hot spring water than any other resort!
 \item
 \end{enumerate}
 

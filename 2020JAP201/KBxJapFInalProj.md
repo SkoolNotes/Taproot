@@ -61,7 +61,7 @@ sentence modifiers or relative clauses
 
 1. All of japan looks wonderful, but next time I go, I want to go to beppu.
 2. Beppu's main attraction is its hot springs 
-3. It has some of the most beautiful hot springs in the world.
+3. It has some of the most beautiful hot springs in the world, and it produces more hot spring water than any other resort!
 4. 
 
 
