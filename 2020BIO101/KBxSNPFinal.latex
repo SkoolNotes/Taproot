@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13840)}}    % original
-%\rhead{\textrmlf{Compiled }\#13840\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13841)}}    % original
+%\rhead{\textrmlf{Compiled }\#13841\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -305,6 +305,11 @@ is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
   Association between rs4680 Polymorphism in
   Catechol-O-Methyltransferase Gene and Alcohol Use Disorder: A
   Meta-Analysis}
+\item
+  \href{https://www.cell.com/ajhg/fulltext/S0002-9297(07)63786-0}{Functional
+  Analysis of Genetic Variation in Catechol-O-Methyltransferase (COMT):
+  Effects on mRNA, Protein, and Enzyme Activity in Postmortem Human
+  Brain}
 \item
 \end{itemize}
 
