@@ -59,7 +59,8 @@ sentence modifiers or relative clauses
 ##### Eng Outline
 
 
-
+1. All of japan looks wonderful, but next time I go, I want to go to beppu.
+2. Beppu's
 
 
 
