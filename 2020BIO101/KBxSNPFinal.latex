@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13831)}}    % original
-%\rhead{\textrmlf{Compiled }\#13831\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13832)}}    % original
+%\rhead{\textrmlf{Compiled }\#13832\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -248,7 +248,32 @@ a guanine for an adenine. It has the frequency G=0.510915, and thus,
 A=0.489085. Val158Met causes the \emph{COMT} enzyme to be roughly 25\%
 as effective compared to the wild type. Expression levels in mRNA,
 despite its reduced protein abundance, are not effected by Val158Met
-\href{https://www.hindawi.com/journals/dm/2020/8850859/}{citation}
-\href{}{}.
+\href{https://www.hindawi.com/journals/dm/2020/8850859/}{citation} \&
+\href{https://www.cell.com/ajhg/fulltext/S0002-9297(07)63786-0}{citation}.
+Thus, Val158Met must be located in a protein-coding region causing the
+\emph{COMT} enzyme to have lower protein integrity, explaining the
+discrepancy between mRNA expression and protein expression. This lower
+protein integrity is most likely manifested as diminished
+thermostability of the enzyme
+\href{https://pubmed.ncbi.nlm.nih.gov/7703232/}{citation}. The higher
+level effect of this reduced enzyme efficacy is greatly debated, and
+linked to many different phenotypes. At a broad level, lower \emph{COMT}
+activity leads to higher levels of catecholamines in the prefrontal
+cortex. The actual effect of these increased levels are not well
+understood. One proposed theory is the Warrior versus Worrier
+hypothesis, which outlines two groups of personality traits based upon
+the Val158Met mutation
+\href{https://pubmed.ncbi.nlm.nih.gov/17008817/}{citation}. The
+``Warrior'' group, defined as the wild type group with lower levels of
+catecholamines like dopamine, are said to have an advantage in
+processing aversive stimuli. They are also said to have higher pain
+tolerance, be less prone to stress, less exploratory, and ect. However,
+many of these claims are not well defined and bordering on pseudoscience
+\href{https://selfdecode.com/snp/rs4680/}{citation}. The ``Worrier''
+group, those with the mutation, are said to have an advantage in memory
+and attention tasks
+\href{https://pubmed.ncbi.nlm.nih.gov/17008817/}{citation}. The
+Val158Met mutation has also been linked to schizophrenia, but this claim
+is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
 
 \end{document}
