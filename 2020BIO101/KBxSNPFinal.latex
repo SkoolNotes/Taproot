@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13834)}}    % original
-%\rhead{\textrmlf{Compiled }\#13834\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13835)}}    % original
+%\rhead{\textrmlf{Compiled }\#13835\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -284,6 +284,11 @@ is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
 \hypertarget{citations}{%
 \paragraph{Citations:}\label{citations}}
 
--\href{https://www.ncbi.nlm.nih.gov/gene/1312}{}
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.ncbi.nlm.nih.gov/gene/1312}{COMT
+  catechol-O-methyltransferase {[} \emph{Homo sapiens} (human) {]}}
+\end{itemize}
 
 \end{document}
