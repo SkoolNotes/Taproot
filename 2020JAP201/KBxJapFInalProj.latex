@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13847)}}    % original
-%\rhead{\textrmlf{Compiled }\#13847\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13848)}}    % original
+%\rhead{\textrmlf{Compiled }\#13848\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -289,5 +289,8 @@ potential form, \textasciitilde shi \textasciitilde shi form,
 \textasciitilde sou desu, \textasciitilde nara, giving and receiving
 verbs, giving advice, volitional form, sentence modifiers or relative
 clauses
+
+\hypertarget{eng-outline}{%
+\subparagraph{Eng Outline}\label{eng-outline}}
 
 \end{document}
