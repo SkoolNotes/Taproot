@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13825)}}    % original
-%\rhead{\textrmlf{Compiled }\#13825\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13826)}}    % original
+%\rhead{\textrmlf{Compiled }\#13826\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -245,6 +245,6 @@ adrenal, and the lung
 \href{https://www.ncbi.nlm.nih.gov/gene/1312\#gene-expression}{citation}.
 Val158Me, also known as rs4680, is a common missense mutation swapping a
 guanine for an adenine. It has the frequency G=0.510915, and thus,
-A=0.489085.
+A=0.489085. Val158Me causes
 
 \end{document}
