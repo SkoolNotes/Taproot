@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13833)}}    % original
-%\rhead{\textrmlf{Compiled }\#13833\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13834)}}    % original
+%\rhead{\textrmlf{Compiled }\#13834\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -282,6 +282,8 @@ Val158Met mutation has also been linked to schizophrenia, but this claim
 is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
 
 \hypertarget{citations}{%
-\subsection{\#\#\#\# Citations:}\label{citations}}
+\paragraph{Citations:}\label{citations}}
+
+-\href{https://www.ncbi.nlm.nih.gov/gene/1312}{}
 
 \end{document}
