@@ -43,6 +43,7 @@ The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme whic
 - [Functional Analysis of Genetic Variation in Catechol-O-Methyltransferase (COMT): Effects on mRNA, Protein, and Enzyme Activity in Postmortem Human Brain](https://www.cell.com/ajhg/fulltext/S0002-9297(07)63786-0)
 - [Kinetics of human soluble and membrane-bound catechol O-methyltransferase: a revised mechanism and description of the thermolabile variant of the enzyme](https://pubmed.ncbi.nlm.nih.gov/7703232/)
 - [Warriors versus worriers: the role of COMT gene variants](https://pubmed.ncbi.nlm.nih.gov/17008817/)
+- [Self Decode rs4680](https://selfdecode.com/snp/rs4680/)
 - 
 
 
