@@ -111,6 +111,7 @@ sentence modifiers or relative clauses
 - ぜひ: by all means
 - こんど: next time
 - せかいじゅう: around the world
+- じごく: hell
 
 
 
