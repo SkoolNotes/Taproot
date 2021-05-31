@@ -7,6 +7,9 @@ Suppose $T \in  \mathcal{L}(V)$ and $\lambda \in \mathbb{F}$. Prove that $\lambd
 
 Given $\lambda$ is an eigenvalue of $T$, show that $\overline{\lambda}$ is an eigenvalue of $T^*$. This will imply both directions, since $\lambda = \overline{\overline{\lambda}}$ and $T = T^{*^*}$
 
+Suppose $\mathcal{M}(T)$ is the matrix of $T$ wrt some orthonormal basis. Then, the matrix $\mathcal{M}(T^*)$ of $T^*$ wrt the same orthonormal basis will equal the conjugate transpose of $\mathcal{M}(T)$.
+
+
 There exists some $v$ s.t.
 \[\begin{aligned}
 Tv = \lambda v
