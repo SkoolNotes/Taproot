@@ -72,6 +72,7 @@ sentence modifiers or relative clauses
 11. If you get tired of hot springs, you can check out the monkey park.
 12. The monkey park has around 1500 wild japanese macaques.
 13. Beppu also has wonderful firework shows, normally in late july. 
+14. Please come to beppu!
 
 
 
