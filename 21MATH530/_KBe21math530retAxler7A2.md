@@ -16,3 +16,7 @@ $\lambda = \overline{\overline{\lambda}}$ and $T = T^{*^*}$
 There exists some $v$ s.t. $$\begin{aligned}
 Tv = \lambda v
 \end{aligned}$$
+
+$$\begin{aligned}
+ \langle \lambda v \rangle = \langle Tv, w \rangle = \langle v, T^* w \rangle
+\end{aligned}$$
