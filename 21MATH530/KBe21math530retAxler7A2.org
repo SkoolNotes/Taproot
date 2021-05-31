@@ -1,4 +1,8 @@
 #+TITLE: Axler 7.A ex 2
+#+context: Math530
+
 #+begin_quote
 Suppose $T \in  \mathcal{L}(V)$ and $\lambda \in \mathbb{F}$. Prove that $\lambda$ is an eigenvalue of $T$ iff $\overline{\lambda}$ is an eigenvalue of $T^*$.
 #+end_quote
+
+* Forward Direction

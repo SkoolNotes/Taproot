@@ -136,7 +136,7 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
+\newcommand{\thecourse}{ Math530 }
 \newcommand{\thelesson}{ Axler 7.A ex 2 }
 
 \title{\textbf{\thecourse}\thelesson}
@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13931)}}    % original
-%\rhead{\textrmlf{Compiled }\#13931\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13932)}}    % original
+%\rhead{\textrmlf{Compiled }\#13932\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -206,5 +206,8 @@ Suppose \(T \in  \mathcal{L}(V)\) and \(\lambda \in \mathbb{F}\). Prove
 that \(\lambda\) is an eigenvalue of \(T\) iff \(\overline{\lambda}\) is
 an eigenvalue of \(T^*\).
 \end{quote}
+
+\hypertarget{forward-direction}{%
+\section{Forward Direction}\label{forward-direction}}
 
 \end{document}
