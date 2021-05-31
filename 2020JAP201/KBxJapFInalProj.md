@@ -113,7 +113,7 @@ sentence modifiers or relative clauses
 - せかいじゅう: around the world
 - じごく: hell
 - しゅるい: types
-- 
+- むしり: steaming 
 
 
 
