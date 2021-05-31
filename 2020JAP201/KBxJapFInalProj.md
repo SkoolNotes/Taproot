@@ -110,6 +110,7 @@ sentence modifiers or relative clauses
 - はなびたいかい: firework display
 - ぜひ: by all means
 - こんど: next time
+- せかいじゅう: around the world
 
 
 

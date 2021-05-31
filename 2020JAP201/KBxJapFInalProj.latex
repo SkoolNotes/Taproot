@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13923)}}    % original
-%\rhead{\textrmlf{Compiled }\#13923\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13924)}}    % original
+%\rhead{\textrmlf{Compiled }\#13924\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -393,6 +393,8 @@ clauses
   ぜひ: by all means
 \item
   こんど: next time
+\item
+  せかいじゅう: around the world
 \end{itemize}
 
 \end{document}
