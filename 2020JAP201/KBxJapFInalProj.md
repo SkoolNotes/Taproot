@@ -81,7 +81,7 @@ sentence modifiers or relative clauses
 
 ##### Japanese time
 
-日本はどこでもきれいですが、こんどに
+日本はどこでもきれいですが、こんどは、別府にいきたいんです。
 
 
 
