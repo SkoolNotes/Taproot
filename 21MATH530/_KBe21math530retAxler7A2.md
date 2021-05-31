@@ -9,6 +9,6 @@ title: Axler 7.A ex 2
 > that $\lambda$ is an eigenvalue of $T$ iff $\overline{\lambda}$ is an
 > eigenvalue of $T^*$.
 
-Given $\overline{\lambda}$ is an eigenvalue of $T^*$, show that
-$\lambda$ is an eigenvalue of $T$. This will imply both directions,
-since $\lambda = \overline{\overline{\lambda}}$ and $T = T^{*^*}$
+Given $\lambda$ is an eigenvalue of $T$, show that $\overline{\lambda}$
+is an eigenvalue of $T^*$. This will imply both directions, since
+$\lambda = \overline{\overline{\lambda}}$ and $T = T^{*^*}$
