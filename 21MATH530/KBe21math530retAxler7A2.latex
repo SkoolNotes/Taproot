@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13933)}}    % original
-%\rhead{\textrmlf{Compiled }\#13933\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13934)}}    % original
+%\rhead{\textrmlf{Compiled }\#13934\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -207,10 +207,8 @@ that \(\lambda\) is an eigenvalue of \(T\) iff \(\overline{\lambda}\) is
 an eigenvalue of \(T^*\).
 \end{quote}
 
-\hypertarget{forward-direction}{%
-\section{Forward Direction}\label{forward-direction}}
-
 Given \(\overline{\lambda}\) is an eigenvalue of \(T^*\), show that
-\(\lambda\) is an eigenvalue of \(T\).
+\(\lambda\) is an eigenvalue of \(T\). This will imply both directions,
+since \(\lambda = \overline{\overline{\lambda}}\)
 
 \end{document}
