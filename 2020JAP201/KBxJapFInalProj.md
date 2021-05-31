@@ -87,7 +87,8 @@ sentence modifiers or relative clauses
 4. 別府の地獄というゆうめいな温泉があります。
 5. にせんいじょうの温泉があって、いろいろなしゅるいがあります。
 6. ふつうの温泉がありますし、どろとすなの温泉もあります。
-7. いくつかの温泉がみるのみで、ちかづかない
+7. いくつかの温泉がみるのみで、ちかづかないでください。
+8. 
 
 
 
@@ -95,6 +96,7 @@ sentence modifiers or relative clauses
 ##### Vocab List
 - どろ: mud
 - すな: sand
+- ちかづく: to get close
 
 
 
