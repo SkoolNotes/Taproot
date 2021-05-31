@@ -60,7 +60,7 @@ sentence modifiers or relative clauses
 
 
 1. All of japan looks wonderful, but next time I go, I want to go to beppu.
-2. Beppu's main attraction is its hot springs 
+2. Beppu is very beautiful, but its main attraction is its hot springs 
 3. It has some of the most beautiful hot springs in the world, and it produces more hot spring water than any other resort!
 4. Beppu has 8 hot spring sources, called the hells of beppu.
 5. In beppu their are over 2000 hot springs, so their is a kind of hot spring for everybody.
@@ -69,7 +69,7 @@ sentence modifiers or relative clauses
 8. Their is also very famous hot spring food.
 9. This food is cooked using the hot springs. 
 10. Here is an onsen egg, a very famous type of onsen food.
-11. If you get tired of hot springs, 
+11. If you get tired of hot springs, you can chekc ouytttttttt
 
 
 bathing, mud, sand, viewing
