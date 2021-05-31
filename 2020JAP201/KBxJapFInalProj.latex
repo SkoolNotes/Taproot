@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13919)}}    % original
-%\rhead{\textrmlf{Compiled }\#13919\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13920)}}    % original
+%\rhead{\textrmlf{Compiled }\#13920\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -365,7 +365,7 @@ clauses
 \item
   千五百ぐらいのさるがいます。
 \item
-  別府のまた
+  別府のはなびたいかいもとてもゆうめいです。
 \end{enumerate}
 
 \hypertarget{vocab-list}{%
@@ -385,6 +385,8 @@ clauses
   ゆうめい: famous
 \item
   あきる: get tired of
+\item
+  はなびたいかい: firework display
 \end{itemize}
 
 \end{document}

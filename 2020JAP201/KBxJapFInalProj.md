@@ -94,7 +94,7 @@ sentence modifiers or relative clauses
 11. とてもおいしいですよ。
 12. 温泉にあきたら、高崎山自然動物園にいって、さるを見てください。
 13. 千五百ぐらいのさるがいます。
-14. 別府のまた
+14. 別府のはなびたいかいもとてもゆうめいです。
 
 
 
@@ -106,6 +106,7 @@ sentence modifiers or relative clauses
 - とくべつ: special
 - ゆうめい: famous
 - あきる: get tired of
+- はなびたいかい: firework display
 
 
 
