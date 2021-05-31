@@ -10,3 +10,6 @@ title: Axler 7.A ex 2
 > eigenvalue of $T^*$.
 
 # Forward Direction
+
+Given $\overline{\lambda}$ is an eigenvalue of $T^*$, show that
+$\lambda$ is an eigenvalue of $T$.
