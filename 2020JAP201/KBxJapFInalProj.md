@@ -90,7 +90,7 @@ sentence modifiers or relative clauses
 7. いくつかの温泉がみるのみで、ちかづかないでください。
 8. 食べものもとてもゆうめいです。
 9. とくべつな温泉蒸し料理があります。
-11. 
+10. これはゆうめいな
 
 
 
@@ -100,6 +100,7 @@ sentence modifiers or relative clauses
 - すな: sand
 - ちかづく: to get close
 - とくべつ: special
+- ゆうめい: famous
 
 
 

@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13906)}}    % original
-%\rhead{\textrmlf{Compiled }\#13906\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13907)}}    % original
+%\rhead{\textrmlf{Compiled }\#13907\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -357,6 +357,7 @@ clauses
 \item
   とくべつな温泉蒸し料理があります。
 \item
+  これはゆうめいな
 \end{enumerate}
 
 \hypertarget{vocab-list}{%
@@ -372,6 +373,8 @@ clauses
   ちかづく: to get close
 \item
   とくべつ: special
+\item
+  ゆうめい: famous
 \end{itemize}
 
 \end{document}
