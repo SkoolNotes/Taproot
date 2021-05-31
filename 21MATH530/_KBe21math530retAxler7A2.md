@@ -11,4 +11,4 @@ title: Axler 7.A ex 2
 
 Given $\overline{\lambda}$ is an eigenvalue of $T^*$, show that
 $\lambda$ is an eigenvalue of $T$. This will imply both directions,
-since $\lambda = \overline{\overline{\lambda}}$
+since $\lambda = \overline{\overline{\lambda}}$ and $T = T^{*^*}$
