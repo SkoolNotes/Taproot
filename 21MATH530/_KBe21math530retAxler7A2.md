@@ -18,6 +18,11 @@ basis. Then, the matrix $\mathcal{M}(T^*)$ of $T^*$ wrt the same
 orthonormal basis will equal the conjugate transpose of
 $\mathcal{M}(T)$.
 
+Eigenvalues lie on the diagonal of a matrix, so the conjugate transpose
+will have the effect of conjugating each eigenvalue. Thus, the
+eigenvalues of $\mathcal{M}(T)$ are conjugates of the eigenvalues of
+$\mathcal{M}(T^*)$.
+
 There exists some $v$ s.t. $$\begin{aligned}
 Tv = \lambda v
 \end{aligned}$$
