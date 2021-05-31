@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13939)}}    % original
-%\rhead{\textrmlf{Compiled }\#13939\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13940)}}    % original
+%\rhead{\textrmlf{Compiled }\#13940\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -217,7 +217,7 @@ Tv = \lambda v
 \end{aligned}\]
 
 \[\begin{aligned}
- \langle \lambda v \rangle = \langle Tv, w \rangle = \langle v, T^* w \rangle
+ \langle \lambda v, w \rangle = \langle Tv, w \rangle = \langle v, T^* w \rangle
 \end{aligned}\]
 
 \end{document}

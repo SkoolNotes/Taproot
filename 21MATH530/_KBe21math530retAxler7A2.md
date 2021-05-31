@@ -18,5 +18,5 @@ Tv = \lambda v
 \end{aligned}$$
 
 $$\begin{aligned}
- \langle \lambda v \rangle = \langle Tv, w \rangle = \langle v, T^* w \rangle
+ \langle \lambda v, w \rangle = \langle Tv, w \rangle = \langle v, T^* w \rangle
 \end{aligned}$$
