@@ -71,6 +71,7 @@ sentence modifiers or relative clauses
 10. Here is an onsen egg, a very famous type of onsen food.
 11. If you get tired of hot springs, you can check out the monkey park.
 12. The monkey park has around 1500 wild japanese macaques.
+13. 
 
 
 
