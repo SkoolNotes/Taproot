@@ -89,7 +89,8 @@ sentence modifiers or relative clauses
 6. ふつうの温泉がありますし、どろとすなの温泉もあります。
 7. いくつかの温泉がみるのみで、ちかづかないでください。
 8. 食べものもとてもゆうめいです。
-9. とくべつ温泉蒸し料理が
+9. とくべつな温泉蒸し料理があります。
+11. 
 
 
 
@@ -98,6 +99,7 @@ sentence modifiers or relative clauses
 - どろ: mud
 - すな: sand
 - ちかづく: to get close
+- とくべつ: special
 
 
 
