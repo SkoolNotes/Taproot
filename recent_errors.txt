@@ -1,5 +1,5 @@
-        Log for attempt at Sun May 30 05:44:51 PM PDT 2021 (13913)
-        Sun May 30 05:44:51 PM PDT 2021 Converting 2020JAP201/KBxJapFInalProj.md...
+        Log for attempt at Sun May 30 05:46:00 PM PDT 2021 (13914)
+        Sun May 30 05:46:00 PM PDT 2021 Converting 2020JAP201/KBxJapFInalProj.md...
 [WARNING] Missing character: There is no 別 (U+5225) in font Iosevka Aile Bold/OT:script=latn;langu
 [WARNING] Missing character: There is no 府 (U+5E9C) in font Iosevka Aile Bold/OT:script=latn;langu
 [WARNING] Missing character: There is no 名 (U+540D) in font Iosevka Aile Light/OT:script=latn;lang
@@ -292,6 +292,11 @@
 [WARNING] Missing character: There is no さ (U+3055) in font Iosevka Aile Light/OT:script=latn;lang
 [WARNING] Missing character: There is no い (U+3044) in font Iosevka Aile Light/OT:script=latn;lang
 [WARNING] Missing character: There is no 。 (U+3002) in font Iosevka Aile Light/OT:script=latn;lang
+[WARNING] Missing character: There is no 千 (U+5343) in font Iosevka Aile Light/OT:script=latn;lang
+[WARNING] Missing character: There is no 五 (U+4E94) in font Iosevka Aile Light/OT:script=latn;lang
+[WARNING] Missing character: There is no 百 (U+767E) in font Iosevka Aile Light/OT:script=latn;lang
+[WARNING] Missing character: There is no 以 (U+4EE5) in font Iosevka Aile Light/OT:script=latn;lang
+[WARNING] Missing character: There is no 上 (U+4E0A) in font Iosevka Aile Light/OT:script=latn;lang
 [WARNING] Missing character: There is no ど (U+3069) in font Iosevka Aile Light/OT:script=latn;lang
 [WARNING] Missing character: There is no ろ (U+308D) in font Iosevka Aile Light/OT:script=latn;lang
 [WARNING] Missing character: There is no す (U+3059) in font Iosevka Aile Light/OT:script=latn;lang
