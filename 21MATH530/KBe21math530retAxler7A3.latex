@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13948)}}    % original
-%\rhead{\textrmlf{Compiled }\#13948\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13949)}}    % original
+%\rhead{\textrmlf{Compiled }\#13949\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -204,9 +204,7 @@
 \begin{quote}
 Suppose \(T \in  \mathcal{L}(V)\) and \(U\) is a subspace of \(V\).
 Prove that \(U\) is invariant under \(T\) iff \(U^\bot\) is invariant
-under \[\begin{aligned}
-T^*
-\end{aligned}\]
+under \(T^*\).
 \end{quote}
 
 \end{document}
