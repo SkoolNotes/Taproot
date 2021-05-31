@@ -13,5 +13,9 @@ For all $u \in  U$, $Tu = u' \in  U$. Let $w = U^\perp$. Then, \$T^\*^w
  \langle u, T^*w \rangle = \langle Tu, w \rangle = \langle u', w \rangle
 \end{aligned}$$
 
+$$\begin{aligned}
+Tu \in  U &\iff
+\end{aligned}$$
+
 This implies that both directions, since $U = U^{\perp ^\perp }$ and
 $T = (T^*)^*$.

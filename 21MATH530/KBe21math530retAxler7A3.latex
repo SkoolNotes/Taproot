@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13957)}}    % original
-%\rhead{\textrmlf{Compiled }\#13957\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13958)}}    % original
+%\rhead{\textrmlf{Compiled }\#13958\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -210,6 +210,10 @@ under \(T^*\).
 For all \(u \in  U\), \(Tu = u' \in  U\). Let \(w = U^\perp\). Then,
 \$T\textsuperscript{*}w = \$ \[\begin{aligned}
  \langle u, T^*w \rangle = \langle Tu, w \rangle = \langle u', w \rangle
+\end{aligned}\]
+
+\[\begin{aligned}
+Tu \in  U &\iff
 \end{aligned}\]
 
 This implies that both directions, since \(U = U^{\perp ^\perp }\) and
