@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13897)}}    % original
-%\rhead{\textrmlf{Compiled }\#13897\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13898)}}    % original
+%\rhead{\textrmlf{Compiled }\#13898\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -349,10 +349,16 @@ clauses
 \item
   にせんいじょうの温泉があって、いろいろなしゅるいがあります。
 \item
-  温泉だけ
+  温泉がありますし、どろとすなの
 \end{enumerate}
 
 \hypertarget{vocab-list}{%
 \subparagraph{Vocab List}\label{vocab-list}}
+
+\begin{itemize}
+\tightlist
+\item
+  mud: どろ
+\end{itemize}
 
 \end{document}
