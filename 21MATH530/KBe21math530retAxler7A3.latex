@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13955)}}    % original
-%\rhead{\textrmlf{Compiled }\#13955\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13957)}}    % original
+%\rhead{\textrmlf{Compiled }\#13957\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -207,7 +207,10 @@ Prove that \(U\) is invariant under \(T\) iff \(U^\bot\) is invariant
 under \(T^*\).
 \end{quote}
 
-For all \(u \in  U\), \(Tu = u' \in  U\).
+For all \(u \in  U\), \(Tu = u' \in  U\). Let \(w = U^\perp\). Then,
+\$T\textsuperscript{*}w = \$ \[\begin{aligned}
+ \langle u, T^*w \rangle = \langle Tu, w \rangle = \langle u', w \rangle
+\end{aligned}\]
 
 This implies that both directions, since \(U = U^{\perp ^\perp }\) and
 \(T = (T^*)^*\).

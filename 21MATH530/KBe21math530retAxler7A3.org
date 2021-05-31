@@ -6,5 +6,10 @@ Suppose $T \in  \mathcal{L}(V)$ and $U$ is a subspace of $V$. Prove that $U$ is 
 #+end_quote
 
 For all $u \in  U$, $Tu = u' \in  U$.
+Let $w = U^\perp$. Then, $T^*w = $
+\[\begin{aligned}
+ \langle u, T^*w \rangle = \langle Tu, w \rangle = \langle u', w \rangle
+\end{aligned}\]
+
 
 This implies that both directions, since $U = U^{\perp ^\perp }$ and $T = (T^*)^*$.
