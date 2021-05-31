@@ -16,7 +16,7 @@ For all $u \in  U$, $Tu = u' \in  U$. Let $w = U^\perp$. Then, \$T^\*^w
 Let $u \in  U$ and $w \in  U^\perp$. Then,
 
 $$\begin{aligned}
-Tu \in U &\iff
+ \langle w, Tu \rangle = 0
 \end{aligned}$$
 
 This implies that both directions, since $U = U^{\perp ^\perp }$ and
