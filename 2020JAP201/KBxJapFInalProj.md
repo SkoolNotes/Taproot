@@ -92,9 +92,7 @@ sentence modifiers or relative clauses
 9. とくべつな温泉蒸し料理があります。
 10. これはゆうめいな温泉卵です。
 11. とてもおいしいですよ。
-12. 温泉にあきたら
-
-高崎山自然動物園
+12. 温泉にあきたら、高崎山自然動物園
 
 
 
@@ -105,6 +103,7 @@ sentence modifiers or relative clauses
 - ちかづく: to get close
 - とくべつ: special
 - ゆうめい: famous
+- あきる: get tired of
 
 
 

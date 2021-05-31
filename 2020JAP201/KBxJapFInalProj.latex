@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13910)}}    % original
-%\rhead{\textrmlf{Compiled }\#13910\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13911)}}    % original
+%\rhead{\textrmlf{Compiled }\#13911\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -361,10 +361,8 @@ clauses
 \item
   とてもおいしいですよ。
 \item
-  温泉にあきたら
+  温泉にあきたら、高崎山自然動物園
 \end{enumerate}
-
-高崎山自然動物園
 
 \hypertarget{vocab-list}{%
 \subparagraph{Vocab List}\label{vocab-list}}
@@ -381,6 +379,8 @@ clauses
   とくべつ: special
 \item
   ゆうめい: famous
+\item
+  あきる: get tired of
 \end{itemize}
 
 \end{document}
