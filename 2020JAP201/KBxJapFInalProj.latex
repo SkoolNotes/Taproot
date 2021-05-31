@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13879)}}    % original
-%\rhead{\textrmlf{Compiled }\#13879\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13880)}}    % original
+%\rhead{\textrmlf{Compiled }\#13880\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -335,6 +335,9 @@ clauses
 \hypertarget{japanese-time}{%
 \subparagraph{Japanese time}\label{japanese-time}}
 
-日本日本
+日本
+
+\hypertarget{vocab-list}{%
+\subparagraph{Vocab List}\label{vocab-list}}
 
 \end{document}
