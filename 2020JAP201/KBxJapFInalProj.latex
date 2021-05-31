@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13928)}}    % original
-%\rhead{\textrmlf{Compiled }\#13928\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13929)}}    % original
+%\rhead{\textrmlf{Compiled }\#13929\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -401,6 +401,8 @@ clauses
   しゅるい: types
 \item
   むしりょうり: steamed food
+\item
+  すえ: end (of the month)
 \end{itemize}
 
 \end{document}

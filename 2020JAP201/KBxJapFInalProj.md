@@ -114,6 +114,7 @@ sentence modifiers or relative clauses
 - じごく: hell
 - しゅるい: types
 - むしりょうり: steamed food
+- すえ: end (of the month)
 
 
 
