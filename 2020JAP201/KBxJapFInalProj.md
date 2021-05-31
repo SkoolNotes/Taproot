@@ -81,7 +81,7 @@ sentence modifiers or relative clauses
 
 ##### Japanese time
 
-日本は
+日本はどこでもきれいですが、こんどに
 
 
 
