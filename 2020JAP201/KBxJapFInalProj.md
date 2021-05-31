@@ -112,6 +112,8 @@ sentence modifiers or relative clauses
 - こんど: next time
 - せかいじゅう: around the world
 - じごく: hell
+- しゅるい: types
+- 
 
 
 
