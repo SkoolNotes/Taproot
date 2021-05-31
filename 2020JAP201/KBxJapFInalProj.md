@@ -82,7 +82,8 @@ sentence modifiers or relative clauses
 ##### Japanese time
 
 1. 日本はどこでもきれいですが、こんどは、別府にいきたいんです。
-2. 別府はとてもきれいですが、一ばん有名
+2. 別府はとてもきれいですが、一ばん有名なのは、温泉です。
+3. せ
 
 
 
