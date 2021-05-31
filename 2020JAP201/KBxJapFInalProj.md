@@ -67,7 +67,7 @@ sentence modifiers or relative clauses
 6. Their are bathing hot springs, mud hot springs, sand hot springs, and viewing hot springs.
 7. These hot springs are only for viewing, not bathing.
 8. Their is also very famous hot spring food.
-9. This food is c
+9. This food is cooked using the hot springs. 
 
 
 bathing, mud, sand, viewing
