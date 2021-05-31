@@ -69,7 +69,7 @@ sentence modifiers or relative clauses
 8. Their is also very famous hot spring food.
 9. This food is cooked using the hot springs. 
 10. Here is an onsen egg, a very famous type of onsen food.
-11. If you get tired of hot springs, you can chekc ouytttttttt
+11. If you get tired of hot springs,t
 
 
 bathing, mud, sand, viewing
