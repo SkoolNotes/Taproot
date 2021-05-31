@@ -22,11 +22,3 @@ Eigenvalues lie on the diagonal of a matrix, so the conjugate transpose
 will have the effect of conjugating each eigenvalue. Thus, the
 eigenvalues of $\mathcal{M}(T)$ are conjugates of the eigenvalues of
 $\mathcal{M}(T^*)$.
-
-There exists some $v$ s.t. $$\begin{aligned}
-Tv = \lambda v
-\end{aligned}$$
-
-$$\begin{aligned}
- \langle \lambda v, w \rangle = \langle Tv, w \rangle = \langle v, T^* w \rangle
-\end{aligned}$$

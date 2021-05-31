@@ -1,5 +1,6 @@
 #+TITLE: Axler 7.A ex 2
 #+context: Math530
+#+EXCLUDE_TAGS: noexport
 
 #+begin_quote
 Suppose $T \in  \mathcal{L}(V)$ and $\lambda \in \mathbb{F}$. Prove that $\lambda$ is an eigenvalue of $T$ iff $\overline{\lambda}$ is an eigenvalue of $T^*$.
@@ -11,10 +12,12 @@ Suppose $\mathcal{M}(T)$ is the matrix of $T$ wrt some orthonormal basis. Then, 
 
 Eigenvalues lie on the diagonal of a matrix, so the conjugate transpose will have the effect of conjugating each eigenvalue. Thus, the eigenvalues of $\mathcal{M}(T)$ are conjugates of the eigenvalues of $\mathcal{M}(T^*)$.
 
+*                                                                  :noexport:
 There exists some $v$ s.t.
 \[\begin{aligned}
 Tv = \lambda v
 \end{aligned}\]
+
 
 \[\begin{aligned}
  \langle \lambda v, w \rangle = \langle Tv, w \rangle = \langle v, T^* w \rangle

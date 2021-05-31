@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13944)}}    % original
-%\rhead{\textrmlf{Compiled }\#13944\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13945)}}    % original
+%\rhead{\textrmlf{Compiled }\#13945\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -221,13 +221,5 @@ Eigenvalues lie on the diagonal of a matrix, so the conjugate transpose
 will have the effect of conjugating each eigenvalue. Thus, the
 eigenvalues of \(\mathcal{M}(T)\) are conjugates of the eigenvalues of
 \(\mathcal{M}(T^*)\).
-
-There exists some \(v\) s.t. \[\begin{aligned}
-Tv = \lambda v
-\end{aligned}\]
-
-\[\begin{aligned}
- \langle \lambda v, w \rangle = \langle Tv, w \rangle = \langle v, T^* w \rangle
-\end{aligned}\]
 
 \end{document}
