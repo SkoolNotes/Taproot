@@ -64,7 +64,7 @@ source:  #index
 	- ect. 
 
 - private company rights to charge how they please?
-	- **liberal args go 
+	- **libertarian args go here**
 
 ### Flipside
 

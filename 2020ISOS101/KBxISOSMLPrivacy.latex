@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13998)}}    % original
-%\rhead{\textrmlf{Compiled }\#13998\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13999)}}    % original
+%\rhead{\textrmlf{Compiled }\#13999\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -350,7 +350,7 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
   \begin{itemize}
   \tightlist
   \item
-    **liberal args go
+    \textbf{libertarian args go here}
   \end{itemize}
 \end{itemize}
 
