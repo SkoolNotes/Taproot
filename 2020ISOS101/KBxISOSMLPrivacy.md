@@ -27,6 +27,7 @@ source:  #index
 - ML can break privacy without explicit data
 	- ML can de-anonymize anonymous activities
 		- ML based tracking systems make anonymity hard
+		- hashing isnt good enough
 - ML can construct human models
 
 ### Regulation!
