@@ -64,6 +64,10 @@ source:  #index
 	- though the individual might not want to share medical data,
 	- that same data on the large scale could save countless lives
 
+- garbage in, garbage out + black box
+	- not. good. 
+	- especially when AI will dominate descision making and analysiss
+
 - forced to give data by tragedy of the commons
 	- you want ml networks to portray your demographic accurately,
 	- and if you don't give data, it won't. In a world dominated by ml,

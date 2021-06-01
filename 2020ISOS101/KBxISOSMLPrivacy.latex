@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13993)}}    % original
-%\rhead{\textrmlf{Compiled }\#13993\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13994)}}    % original
+%\rhead{\textrmlf{Compiled }\#13994\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -346,6 +346,16 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
     though the individual might not want to share medical data,
   \item
     that same data on the large scale could save countless lives
+  \end{itemize}
+\item
+  garbage in, garbage out + black box
+
+  \begin{itemize}
+  \tightlist
+  \item
+    not. good.
+  \item
+    especially when AI will dominate descision making and analysiss
   \end{itemize}
 \item
   forced to give data by tragedy of the commons
