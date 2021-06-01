@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13975)}}    % original
-%\rhead{\textrmlf{Compiled }\#13975\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13976)}}    % original
+%\rhead{\textrmlf{Compiled }\#13976\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -204,6 +204,13 @@
 \#ref \#ret
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\tightlist
+\item
+  n: us foreing intel survelance
+\item
+\end{itemize}
 
 \hypertarget{page-o-notes}{%
 \section{Page o' notes}\label{page-o-notes}}
