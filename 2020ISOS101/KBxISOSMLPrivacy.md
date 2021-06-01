@@ -9,7 +9,9 @@ source:  #index
 
 ---
 
-- n: us foreing intel survelance
+- n: usa foreing intel survelance
+- j: edward snowden, apple data collection. consumer notification!
+- d: i
 - 
 
 
