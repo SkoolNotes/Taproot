@@ -20,5 +20,5 @@ $$\begin{aligned}
  \langle u, T^*w \rangle = 0
 \end{aligned}$$
 
-This implies that both directions, since $U = U^{\perp ^\perp }$ and
+This implies both directions, since $U = U^{\perp ^\perp }$ and
 $T = (T^*)^*$.
