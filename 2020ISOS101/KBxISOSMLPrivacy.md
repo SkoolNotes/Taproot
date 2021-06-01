@@ -31,7 +31,7 @@ source:  #index
 		- hashing ISN'T good enough
 	- same thing can be done even without ml
 		- location tracking easily de-anonymized by simple cross reference
-		- 
+		
 - ML can construct human models
 	- fundamentally about simulation intelligent behavior
 	- ML model of how you think and act
@@ -88,20 +88,6 @@ source:  #index
 	- where data collection is truly opt out, services replace it with paid
 	- economically worse off will be more likely to give data
 	- skews data collected? 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

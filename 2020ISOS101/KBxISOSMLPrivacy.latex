@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13999)}}    % original
-%\rhead{\textrmlf{Compiled }\#13999\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14000)}}    % original
+%\rhead{\textrmlf{Compiled }\#14000\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -256,7 +256,6 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
     \tightlist
     \item
       location tracking easily de-anonymized by simple cross reference
-    \item
     \end{itemize}
   \end{itemize}
 \item
