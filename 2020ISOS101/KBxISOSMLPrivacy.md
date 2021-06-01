@@ -29,9 +29,13 @@ source:  #index
 		- ML based tracking systems make anonymity hard
 - ML can construct human models
 
+### Regulation!
 
-
-
+- FTC (federal trade commision) coming down hard
+	- hitting facebook, google, ect.
+- CCPA, california conumer privacy act
+- GDPR, General Data Protection Regulation
+- 
 
 
 

@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13983)}}    % original
-%\rhead{\textrmlf{Compiled }\#13983\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13984)}}    % original
+%\rhead{\textrmlf{Compiled }\#13984\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -248,6 +248,28 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
       ML based tracking systems make anonymity hard
     \end{itemize}
   \end{itemize}
+\item
+  ML can construct human models
+\end{itemize}
+
+\hypertarget{regulation}{%
+\subsubsection{Regulation!}\label{regulation}}
+
+\begin{itemize}
+\tightlist
+\item
+  FTC (federal trade commision) coming down hard
+
+  \begin{itemize}
+  \tightlist
+  \item
+    hitting facebook, google, ect.
+  \end{itemize}
+\item
+  CCPA, california conumer privacy act
+\item
+  GDPR, General Data Protection Regulation
+\item
 \end{itemize}
 
 \end{document}
