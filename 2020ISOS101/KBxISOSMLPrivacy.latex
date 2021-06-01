@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13989)}}    % original
-%\rhead{\textrmlf{Compiled }\#13989\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13990)}}    % original
+%\rhead{\textrmlf{Compiled }\#13990\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -351,7 +351,21 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
   \begin{itemize}
   \tightlist
   \item
-    you want ml networks to portray your demographic acurat
+    you want ml networks to portray your demographic acuratley,
+  \item
+    andd if you dont give data, it won't. In a world dominated by ml,
+  \item
+    giving your data becomes nesesity
+  \end{itemize}
+\item
+  forced to give data by economic nessesity
+
+  \begin{itemize}
+  \tightlist
+  \item
+    where data collection is truly opt out, services replace it with
+    paid
+  \item
   \end{itemize}
 \end{itemize}
 
