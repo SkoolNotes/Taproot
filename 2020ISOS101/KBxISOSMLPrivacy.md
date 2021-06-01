@@ -18,7 +18,11 @@ source:  #index
 
 # Page o' notes
 
+### Machine learning broad level implications on privacy
 
+- ML requires big data
+	- machine learning has driven us into the "information age"
+	- getting lots of info -> invading privacy, generally
 
 
 
