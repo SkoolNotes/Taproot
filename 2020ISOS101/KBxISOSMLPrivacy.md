@@ -5,7 +5,12 @@ author:  Huxley
 source:  #index
 ---
 
-#flo #ref #ret 
-#disorganized #incomplete
+#ref #ret 
 
 ---
+
+
+# Page o' notes
+
+
+
