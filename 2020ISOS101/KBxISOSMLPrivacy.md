@@ -66,7 +66,7 @@ source:  #index
 
 - garbage in, garbage out + black box
 	- not. good. 
-	- especially when AI will dominate descision making and analysiss
+	- especially when AI will dominate decision making and analysis.
 
 - forced to give data by tragedy of the commons
 	- you want ml networks to portray your demographic accurately,
