@@ -25,8 +25,8 @@ source:  #index
 		- cause of most of these issues
 	- getting lots of info -> invading privacy, generally
 - ML can break privacy without explicit data
-	- ML can de-anonymize anonymouse activities
-		- based upon the info
+	- ML can de-anonymize anonymous activities
+		- ML based tracking systems make anominity hard
 
 
 

@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13981)}}    % original
-%\rhead{\textrmlf{Compiled }\#13981\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13982)}}    % original
+%\rhead{\textrmlf{Compiled }\#13982\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -240,12 +240,12 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
   \begin{itemize}
   \tightlist
   \item
-    ML can de-anonymize anonymouse activities
+    ML can de-anonymize anonymous activities
 
     \begin{itemize}
     \tightlist
     \item
-      based upon the info
+      ML based tracking systems make anominity hard
     \end{itemize}
   \end{itemize}
 \end{itemize}
