@@ -28,6 +28,9 @@ source:  #index
 	- ML can de-anonymize anonymous activities
 		- ML based tracking systems make anonymity hard
 		- hashing isnt good enough
+	- same thing can be done even without ml
+		- location tracking easily de-anonymized by simple cross reference
+		- 
 - ML can construct human models
 
 ### Regulation!

@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13985)}}    % original
-%\rhead{\textrmlf{Compiled }\#13985\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13986)}}    % original
+%\rhead{\textrmlf{Compiled }\#13986\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -248,6 +248,15 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
       ML based tracking systems make anonymity hard
     \item
       hashing isnt good enough
+    \end{itemize}
+  \item
+    same thing can be done even without ml
+
+    \begin{itemize}
+    \tightlist
+    \item
+      location tracking easily de-anonymized by simple cross reference
+    \item
     \end{itemize}
   \end{itemize}
 \item
