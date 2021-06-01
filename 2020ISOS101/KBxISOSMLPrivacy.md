@@ -11,7 +11,8 @@ source:  #index
 
 - n: usa foreing intel survelance
 - j: edward snowden, apple data collection. consumer notification!
-- d: i
+- d: digital polical ads + tracking
+- m: social media taking data in general
 - 
 
 
