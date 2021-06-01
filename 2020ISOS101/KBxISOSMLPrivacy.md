@@ -32,6 +32,8 @@ source:  #index
 		- location tracking easily de-anonymized by simple cross reference
 		- 
 - ML can construct human models
+	- ML model of how you think and act
+		- viewed as creepy
 
 ### Regulation!
 
