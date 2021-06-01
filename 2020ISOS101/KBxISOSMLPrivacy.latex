@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13991)}}    % original
-%\rhead{\textrmlf{Compiled }\#13991\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13992)}}    % original
+%\rhead{\textrmlf{Compiled }\#13992\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -274,6 +274,8 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
     \end{itemize}
   \item
     if it could predict your thoughts, what then?
+  \item
+    funddementally about simulation intelegant behaviour
   \end{itemize}
 \end{itemize}
 
