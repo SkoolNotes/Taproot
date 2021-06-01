@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13980)}}    % original
-%\rhead{\textrmlf{Compiled }\#13980\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13981)}}    % original
+%\rhead{\textrmlf{Compiled }\#13981\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -225,8 +225,28 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
   \tightlist
   \item
     machine learning has driven us into the ``information age''
+
+    \begin{itemize}
+    \tightlist
+    \item
+      cause of most of these issues
+    \end{itemize}
   \item
     getting lots of info -\textgreater{} invading privacy, generally
+  \end{itemize}
+\item
+  ML can break privacy without explicit data
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ML can de-anonymize anonymouse activities
+
+    \begin{itemize}
+    \tightlist
+    \item
+      based upon the info
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 

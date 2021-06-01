@@ -22,8 +22,11 @@ source:  #index
 
 - ML requires big data
 	- machine learning has driven us into the "information age"
+		- cause of most of these issues
 	- getting lots of info -> invading privacy, generally
-
+- ML can break privacy without explicit data
+	- ML can de-anonymize anonymouse activities
+		- based upon the info
 
 
 
