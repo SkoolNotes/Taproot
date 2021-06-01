@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13982)}}    % original
-%\rhead{\textrmlf{Compiled }\#13982\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13983)}}    % original
+%\rhead{\textrmlf{Compiled }\#13983\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -245,7 +245,7 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
     \begin{itemize}
     \tightlist
     \item
-      ML based tracking systems make anominity hard
+      ML based tracking systems make anonymity hard
     \end{itemize}
   \end{itemize}
 \end{itemize}

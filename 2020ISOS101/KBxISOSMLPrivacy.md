@@ -26,7 +26,8 @@ source:  #index
 	- getting lots of info -> invading privacy, generally
 - ML can break privacy without explicit data
 	- ML can de-anonymize anonymous activities
-		- ML based tracking systems make anominity hard
+		- ML based tracking systems make anonymity hard
+- ML can construct human models
 
 
 
