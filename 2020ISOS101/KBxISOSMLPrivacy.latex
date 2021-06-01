@@ -136,8 +136,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ ISOS101 }
-\newcommand{\thelesson}{ ISOS Master Index }
+\newcommand{\thecourse}{ ISOS201 }
+\newcommand{\thelesson}{ ISOS ML Privacy }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -155,7 +155,7 @@
 \rhead{
     \today
     }       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -201,127 +201,8 @@
 
 % DID YOU SET SPELL????
 
-\#source
-
-\hypertarget{isos-index}{%
-\section{ISOS Index}\label{isos-index}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhISOS101D1{]}{]} ISOS Day 1
-\item
-  Thoughts on Theaetetus
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Jack's Take: {[}{[}KBhISOS101Thaetetus{]}{]}
-  \item
-    Huxley's Take {[}{[}KBTheaetetus{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}KBPatternsofDiscoveryObservationhighlights{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBPatternsOfDiscoveryNotes{]}{]}
-  \item
-    Jack's Take: {[}{[}KBhISOS101PatternsOfDiscovery{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}KBGenderandtheBiologicalSciencesHighlights.pdf{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBGenderAndBioISOS{]}{]}
-  \item
-    Dylan's Take: {[}{[}KBdGenderAndBio{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}Strong Inference highlights 2019.pdf{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBStrongInferenceNotes{]}{]}
-  \item
-    Jack's Take: {[}{[}KBhISOS101StrongInference{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}Robustness.pdf{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBRobustness{]}{]}
-  \item
-    Jack's Take: {[}{[}KBhISOS101Robustness{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}KBhowdoweknowwerenotwrong.pdf{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBdwkwnwISOSNotes{]}{]}
-  \item
-    Jack's Take: {[}{[}KbhISOS101WeAreNotWrong{]}{]}
-  \end{itemize}
-\item
-  Thoughts on
-  \href{https://www.newyorker.com/magazine/2012/09/17/it-aint-necessarily-so}{It
-  Ain't Necessarily So}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBAintNesSoNotes{]}{]}
-  \end{itemize}
-\item
-  Thoughts on {[}{[}Econ is-isn't science.pdf{]}{]}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBIsEconScience{]}{]}
-  \end{itemize}
-\item
-  Thoughts on
-  \href{https://fivethirtyeight.com/features/science-isnt-broken/\#part4}{Science
-  isnt broke}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Huxley's Take: {[}{[}KBsciencenotbrokenotes{]}{]}
-  \end{itemize}
-\item
-  Self Eval's
-
-  \begin{itemize}
-  \tightlist
-  \item
-    {[}{[}KBxIsosSE{]}{]}
-  \end{itemize}
-\item
-  {[}{[}KBxSOMPREZTHING{]}{]}
-\end{itemize}
+\#flo \#ref \#ret \#disorganized \#incomplete
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBxStoryOfScience{]}{]}
-\item
-  {[}{[}KBhISOS101StoryResearch{]}{]}
-\item
-  {[}{[}KBhISOSAIEthics{]}{]}
-\item
-  {[}{[}KBxISOSMLPrivacy{]}{]}
-\end{itemize}
 
 \end{document}
