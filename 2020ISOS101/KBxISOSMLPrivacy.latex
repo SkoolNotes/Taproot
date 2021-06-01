@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13988)}}    % original
-%\rhead{\textrmlf{Compiled }\#13988\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13989)}}    % original
+%\rhead{\textrmlf{Compiled }\#13989\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -247,7 +247,7 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
     \item
       ML based tracking systems make anonymity hard
     \item
-      hashing isnt good enough
+      hashing ISN'T good enough
     \end{itemize}
   \item
     same thing can be done even without ml
@@ -283,18 +283,76 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
 \begin{itemize}
 \tightlist
 \item
-  FTC (federal trade commision) coming down hard
+  FTC (federal trade commission) coming down hard
 
   \begin{itemize}
   \tightlist
   \item
-    hitting facebook, google, ect.
+    hitting Facebook, google, ect.
   \end{itemize}
 \item
-  CCPA, california conumer privacy act
+  CCPA, California consumer privacy act
 \item
   GDPR, General Data Protection Regulation
 \item
+\end{itemize}
+
+\hypertarget{rights}{%
+\subsubsection{Rights}\label{rights}}
+
+\begin{itemize}
+\tightlist
+\item
+  right to be forgotten
+
+  \begin{itemize}
+  \tightlist
+  \item
+    opt out law by the consumer
+  \item
+    is this a right?
+  \end{itemize}
+\item
+  right to our data, as outlined in CCPA
+
+  \begin{itemize}
+  \tightlist
+  \item
+    again, really a right?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{flipside}{%
+\subsubsection{Flipside}\label{flipside}}
+
+\begin{itemize}
+\tightlist
+\item
+  if privacy-preserving techniques ultimately fail,
+
+  \begin{itemize}
+  \tightlist
+  \item
+    then what?
+  \end{itemize}
+\item
+  ML does a lot of good
+
+  \begin{itemize}
+  \tightlist
+  \item
+    though the individual might not want to share medical data,
+  \item
+    that same data on the large scale could save countless lives
+  \end{itemize}
+\item
+  forced to give data by tragedy of the commons
+
+  \begin{itemize}
+  \tightlist
+  \item
+    you want ml networks to portray your demographic acurat
+  \end{itemize}
 \end{itemize}
 
 \end{document}

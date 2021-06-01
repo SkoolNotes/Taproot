@@ -28,7 +28,7 @@ source:  #index
 - ML can break privacy without explicit data
 	- ML can de-anonymize anonymous activities
 		- ML based tracking systems make anonymity hard
-		- hashing isnt good enough
+		- hashing ISN'T good enough
 	- same thing can be done even without ml
 		- location tracking easily de-anonymized by simple cross reference
 		- 
@@ -39,17 +39,32 @@ source:  #index
 
 ### Regulation!
 
-- FTC (federal trade commision) coming down hard
-	- hitting facebook, google, ect.
-- CCPA, california conumer privacy act
+- FTC (federal trade commission) coming down hard
+	- hitting Facebook, google, ect.
+- CCPA, California consumer privacy act
 - GDPR, General Data Protection Regulation
 - 
 
+### Rights
+
+- right to be forgotten
+	- opt out law by the consumer
+	- is this a right?
+- right to our data, as outlined in CCPA
+	- again, really a right?
 
 
+### Flipside
 
+- if privacy-preserving techniques ultimately fail, 
+	- then what?
+	
+- ML does a lot of good
+	- though the individual might not want to share medical data,
+	- that same data on the large scale could save countless lives
 
-
+- forced to give data by tragedy of the commons
+	- you want ml networks to portray your demographic acurat
 
 
 
