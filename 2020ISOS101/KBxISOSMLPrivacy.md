@@ -51,9 +51,14 @@ source:  #index
 - right to be forgotten
 	- opt out law by the consumer
 	- is this a right?
+	
 - right to our data, as outlined in CCPA
 	- again, really a right?
-
+	
+- individualize experience moral?
+	- amazon adjusting prices,
+	- insurance companies not accepting 
+	- ect. 
 
 ### Flipside
 
