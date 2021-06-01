@@ -89,5 +89,23 @@ source:  #index
 	- economically worse off will be more likely to give data
 	- skews data collected? 
 
+## during discussion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
