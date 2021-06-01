@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13997)}}    % original
-%\rhead{\textrmlf{Compiled }\#13997\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13998)}}    % original
+%\rhead{\textrmlf{Compiled }\#13998\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -343,6 +343,14 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
     insurance companies not accepting
   \item
     ect.
+  \end{itemize}
+\item
+  private company rights to charge how they please?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    **liberal args go
   \end{itemize}
 \end{itemize}
 

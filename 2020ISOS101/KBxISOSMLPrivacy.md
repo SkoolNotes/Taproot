@@ -63,6 +63,9 @@ source:  #index
 	- insurance companies not accepting 
 	- ect. 
 
+- private company rights to charge how they please?
+	- **liberal args go 
+
 ### Flipside
 
 - if privacy-preserving techniques ultimately fail, 
