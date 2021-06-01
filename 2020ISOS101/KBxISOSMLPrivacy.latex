@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14001)}}    % original
-%\rhead{\textrmlf{Compiled }\#14001\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14002)}}    % original
+%\rhead{\textrmlf{Compiled }\#14002\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -415,5 +415,7 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
 
 \hypertarget{during-discussion}{%
 \subsection{during discussion}\label{during-discussion}}
+
+pri v sec -\textgreater{} pri v los
 
 \end{document}

@@ -92,7 +92,7 @@ source:  #index
 ## during discussion
 
 
-
+pri v sec -> pri v los
 
 
 
