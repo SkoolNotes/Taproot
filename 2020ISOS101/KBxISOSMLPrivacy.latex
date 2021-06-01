@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13978)}}    % original
-%\rhead{\textrmlf{Compiled }\#13978\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13979)}}    % original
+%\rhead{\textrmlf{Compiled }\#13979\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -205,18 +205,9 @@
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\begin{itemize}
-\tightlist
-\item
-  n: usa foreing intel survelance
-\item
-  j: edward snowden, apple data collection. consumer notification!
-\item
-  d: digital polical ads + tracking
-\item
-  m: social media taking data in general
-\item
-\end{itemize}
+\%\%- n: usa foreing intel survelance - j: edward snowden, apple data
+collection. consumer notification! - d: digital polical ads + tracking -
+m: social media taking data in general - h: human ml modeling \%\%
 
 \hypertarget{page-o-notes}{%
 \section{Page o' notes}\label{page-o-notes}}

@@ -9,14 +9,43 @@ source:  #index
 
 ---
 
-- n: usa foreing intel survelance
+%%- n: usa foreing intel survelance
 - j: edward snowden, apple data collection. consumer notification!
 - d: digital polical ads + tracking
 - m: social media taking data in general
-- 
-
+- h: human ml modeling
+%%
 
 # Page o' notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
