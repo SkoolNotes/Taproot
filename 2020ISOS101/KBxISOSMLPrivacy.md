@@ -24,6 +24,7 @@ source:  #index
 	- machine learning has driven us into the "information age"
 		- cause of most of these issues
 	- getting lots of info -> invading privacy, generally
+	
 - ML can break privacy without explicit data
 	- ML can de-anonymize anonymous activities
 		- ML based tracking systems make anonymity hard
@@ -34,6 +35,7 @@ source:  #index
 - ML can construct human models
 	- ML model of how you think and act
 		- viewed as creepy
+	- if it could predict your thoughts, what then?
 
 ### Regulation!
 
