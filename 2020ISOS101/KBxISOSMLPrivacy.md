@@ -64,13 +64,14 @@ source:  #index
 	- that same data on the large scale could save countless lives
 
 - forced to give data by tragedy of the commons
-	- you want ml networks to portray your demographic acuratley,
-	- andd if you dont give data, it won't. In a world dominated by ml,
-	- giving your data becomes nesesity
+	- you want ml networks to portray your demographic accurately,
+	- and if you don't give data, it won't. In a world dominated by ml,
+	- giving your data becomes necessity
 
-- forced to give data by economic nessesity
+- forced to give data by economic necessity
 	- where data collection is truly opt out, services replace it with paid
-	- 
+	- economically worse off will be more likely to give data
+	- skews data collected? 
 
 
 

@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13990)}}    % original
-%\rhead{\textrmlf{Compiled }\#13990\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13991)}}    % original
+%\rhead{\textrmlf{Compiled }\#13991\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -351,14 +351,14 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
   \begin{itemize}
   \tightlist
   \item
-    you want ml networks to portray your demographic acuratley,
+    you want ml networks to portray your demographic accurately,
   \item
-    andd if you dont give data, it won't. In a world dominated by ml,
+    and if you don't give data, it won't. In a world dominated by ml,
   \item
-    giving your data becomes nesesity
+    giving your data becomes necessity
   \end{itemize}
 \item
-  forced to give data by economic nessesity
+  forced to give data by economic necessity
 
   \begin{itemize}
   \tightlist
@@ -366,6 +366,9 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
     where data collection is truly opt out, services replace it with
     paid
   \item
+    economically worse off will be more likely to give data
+  \item
+    skews data collected?
   \end{itemize}
 \end{itemize}
 
