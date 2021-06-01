@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13996)}}    % original
-%\rhead{\textrmlf{Compiled }\#13996\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13997)}}    % original
+%\rhead{\textrmlf{Compiled }\#13997\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -297,6 +297,16 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
 \item
   GDPR, General Data Protection Regulation
 \item
+  how effective is regulation?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    can we really prevent it?
+  \item
+    one of the arguments: \textgreater{} ``if you make data collection
+    illegal, only criminals will have the data''
+  \end{itemize}
 \end{itemize}
 
 \hypertarget{rights}{%

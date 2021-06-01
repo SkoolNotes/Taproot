@@ -44,7 +44,10 @@ source:  #index
 	- hitting Facebook, google, ect.
 - CCPA, California consumer privacy act
 - GDPR, General Data Protection Regulation
-- 
+- how effective is regulation? 
+	- can we really prevent it?
+	- one of the arguments: 
+	> "if you make data collection illegal, only criminals will have the data"
 
 ### Rights
 
