@@ -161,8 +161,8 @@ https://docs.google.com/document/d/1NJTz4ov_3QtUYiPY4YtGkTQ5EadnAj6_HR32jy5GXAc/
 - どろ: mud 7
 - すな: sand 7
 - ちかづく: to get close 6 
-- とくべつ: special
-- ゆうめい: famous
+- とくべつ: special 9
+- ゆうめい: famous 4
 - あきる: get tired of
 - はなびたいかい: firework display
 - ぜひ: by all means
