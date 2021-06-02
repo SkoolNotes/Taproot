@@ -158,8 +158,8 @@ https://docs.google.com/document/d/1NJTz4ov_3QtUYiPY4YtGkTQ5EadnAj6_HR32jy5GXAc/
 
 
 ##### Vocab List
-- どろ: mud
-- すな: sand
+- どろ: mud 7
+- すな: sand 7
 - ちかづく: to get close
 - とくべつ: special
 - ゆうめい: famous
