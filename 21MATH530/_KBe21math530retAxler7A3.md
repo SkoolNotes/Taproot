@@ -13,7 +13,7 @@ For all $u \in  U$, $Tu = u' \in  U$. Let $w = U^\perp$. Then, \$T^\*^w
  \langle u, T^*w \rangle = \langle Tu, w \rangle = \langle u', w \rangle
 \end{aligned}$$
 
-Let $u \in  U$ and $w \in  U^\perp$. Then,
+For all pairs $u \in  U$ and $w \in  U^\perp$,
 
 $$\begin{aligned}
  \langle Tu, w \rangle = 0\\
