@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14005)}}    % original
-%\rhead{\textrmlf{Compiled }\#14005\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14006)}}    % original
+%\rhead{\textrmlf{Compiled }\#14006\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -207,5 +207,9 @@ True or false (and give a proof of your answer): The exists
 there is a basis of \(\mathcal{R}^3\) consisting of eigenvectors of
 \(T\).
 \end{quote}
+
+The real spectral theorem suggests that if a map is self-adjoint, it
+must have an orthogonal basis of eigenvalues. Thus, we can choose a map
+which
 
 \end{document}
