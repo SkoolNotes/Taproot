@@ -1,4 +1,2 @@
-        Log for attempt at Tue Jun  1 06:01:41 PM PDT 2021 (14019)
-        Tue Jun  1 06:01:41 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler7B7.org...
-Error producing PDF.
-
+        Log for attempt at Tue Jun  1 06:02:18 PM PDT 2021 (14020)
+        Tue Jun  1 06:02:18 PM PDT 2021 Converting 21MATH530/KBe21math530retAxler7B7.org...
