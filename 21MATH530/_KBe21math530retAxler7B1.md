@@ -9,9 +9,10 @@ title: Axler 7.B exercise 1
 The real spectral theorem suggests that if a map is self-adjoint, it
 must have an orthogonal basis of eigenvectors. Thus, we can choose a map
 which does not have an orthogonal basis of eigenvectors. For instance,
-choose the eigenpairs $$\begin{aligned}
+choose the non-orthogonal eigenpairs
+
+$$\begin{aligned}
 T(1, 0, 0) = (1, 0, 0)\\
 T(0, 1, 0) = (0, 2, 0)\\
 T(1, 1, 1) = (3, 3, 3)\\
-\end{aligned}$$ In other words, let $T \in  \mathcal{L}(\mathbb{R}^3)$
-be defined by
+\end{aligned}$$
