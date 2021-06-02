@@ -28,7 +28,7 @@ Good work, Huxley. I agree with all of your answers. Here are a few additional q
 
 For 1-2, there could be negative rewards for negative actions, like the frog dying or hitting some kind of obstacle.
 In 1-3, we could either have the RNN handle it, or pass in extra states ourselves like directionality or velocity.
-1-5, I am not to knowledgeable on Frogger mechanics but I do believe it is a completable game. Thus, we can find the maximum scores. We could also set a point goal for our agent to achieve, and use that as our maximum.
+1-5, I am not to knowledgeable on Frogger mechanics but I do believe it is a completable game with each action giving some number of possible points. Thus, we can find the maximum scores. We could also set a point goal for our agent to achieve, and use that as our maximum.
 3-3, those other inputs should most likely be normalized as well.
 3-4, a type of simple regression model could work as well.
 4-5, accuracy is used when true positives/negatives are valued more than false positives/negatives, which is not what we want in this scenario. F-score combines recall and precision with a harmonic mean, producing a result generally though of as better from what I have seen.
