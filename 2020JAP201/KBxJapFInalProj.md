@@ -145,9 +145,10 @@ https://docs.google.com/document/d/1NJTz4ov_3QtUYiPY4YtGkTQ5EadnAj6_HR32jy5GXAc/
 
 またm べっぷ のm はな びmたいかいもmとてもmゆうめいです。
 
+し ち が つ のm お わり にm あります。
 
 
-し ち が つ の お わり に あります。
+
 みなさん、 ぜひ べっぷ に きて ください。
 
 
