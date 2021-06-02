@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14081)}}    % original
-%\rhead{\textrmlf{Compiled }\#14081\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14082)}}    % original
+%\rhead{\textrmlf{Compiled }\#14082\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -228,5 +228,8 @@ As for problem 2 with the repeated values, intuitively speaking, given
 that each group of values is repeating some number as opposed to
 repeating the same collection of different numbers their must be one
 optimal group which repeats the highest number. As for the gradients,
+without either large kernels or some type of memory or hidden cell
+state, I don't know how to make filters what would check for the
+gradients consistent between sections. If you
 
 \end{document}
