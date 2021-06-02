@@ -6,7 +6,7 @@ author: Houjun Liu
 ---
 
 # Evolution
-*Any change in the heritable traits in a population over a long period of time.*
+*The unifying theory of all biology involving any change in the heritable traits in a population over a long period of time.*
 
 **Causes of of evolution**
 - different reproduction rates
@@ -15,4 +15,5 @@ author: Houjun Liu
 - Migration
 
 **Evidence for evolution**
-- Lab evidence of short-lifespan bacterial
+- Lab evidence of short-lifespan bacteria
+- 
