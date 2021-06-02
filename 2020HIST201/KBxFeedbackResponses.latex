@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14086)}}    % original
-%\rhead{\textrmlf{Compiled }\#14086\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14088)}}    % original
+%\rhead{\textrmlf{Compiled }\#14088\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -236,6 +236,9 @@ to this.
 To test my hypothesis for my model, I could always run different types
 of models for more than 2 epochs and see how they perform. Less layers
 might also work better because of overfitting, or simply because the
-features we are trying to pick up aren't that detailed.
+features we are trying to pick up aren't that detailed. Having larger
+filters then smaller filters makes sense, because we want to look for
+the larger features initially before processing them further with the
+smaller filters.
 
 \end{document}

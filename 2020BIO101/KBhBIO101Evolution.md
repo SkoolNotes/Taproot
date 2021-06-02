@@ -2,13 +2,17 @@
 title: Evolution
 source: KBBiologyMasterIndex
 course: BIO101
-author: Hou
+author: Houjun Liu
+---
 
+# Evolution
+*Any change in the heritable traits in a population over a long period of time.*
 
-*Any change in the heritable traits in a population over time.*
-
-**PRocess of evuloution**
+**Causes of of evolution**
 - different reproduction rates
-- Enviromental pressures
+- Environmental pressures
 - non-random mate choices
-- migration
+- Migration
+
+**Evidence for evolution**
+- Lab evidence of short-lifespan bacterial
