@@ -160,7 +160,7 @@ https://docs.google.com/document/d/1NJTz4ov_3QtUYiPY4YtGkTQ5EadnAj6_HR32jy5GXAc/
 ##### Vocab List
 - どろ: mud 7
 - すな: sand 7
-- ちかづく: to get close
+- ちかづく: to get close 6 
 - とくべつ: special
 - ゆうめい: famous
 - あきる: get tired of
