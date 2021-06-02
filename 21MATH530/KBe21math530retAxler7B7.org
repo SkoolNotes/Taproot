@@ -9,6 +9,7 @@ In 7.1, Axler asserts that $V$ is finite-dimensional.
 
 $T$ has a diagonal matrix w.r.t. an orthonormal basis of $V$.
 
+Let these entries equal $d_1, \ldots, d_n$. $T^k$ will have on it's diagonal $d_1^k, \ldots, d_n^k$. For each $d_n$
 \[\begin{aligned}
 T T^* = T^* T
 \end{aligned}\]

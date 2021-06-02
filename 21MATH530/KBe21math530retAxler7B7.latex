@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14030)}}    % original
-%\rhead{\textrmlf{Compiled }\#14030\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14032)}}    % original
+%\rhead{\textrmlf{Compiled }\#14032\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -224,6 +224,8 @@ T^9 &= T^8 \\
 T^9 T^{-7}  &= T^8 T^{-7}\\
 T^2 &= T
 \end{aligned}\] Suppose \(T\) is not invertible and not equal to zero.
-Then, \(T\) has
+Then, \(T\) has some zero entries on it's diagonal and some non-zero
+entries on it's diagonal. Let these entries equal \(d_1, \ldots, d_n\).
+\(T^k\) will have on it's diagonal \(d_1^k, \ldots, d_n^k\)
 
 \end{document}

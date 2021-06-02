@@ -23,4 +23,6 @@ T^9 &= T^8 \\
 T^9 T^{-7}  &= T^8 T^{-7}\\
 T^2 &= T
 \end{aligned}$$ Suppose $T$ is not invertible and not equal to zero.
-Then, $T$ has
+Then, $T$ has some zero entries on it\'s diagonal and some non-zero
+entries on it\'s diagonal. Let these entries equal $d_1, \ldots, d_n$.
+$T^k$ will have on it\'s diagonal $d_1^k, \ldots, d_n^k$
