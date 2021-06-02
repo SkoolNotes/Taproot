@@ -139,7 +139,7 @@ https://docs.google.com/document/d/1NJTz4ov_3QtUYiPY4YtGkTQ5EadnAj6_HR32jy5GXAc/
 おんせん たまご mという の はm おんせん の mみず のm なかにm ゆでる mたまご です。
 とても おいしい です よ。
 
-おんせん にm あきたらm たかさきやまm しぜんm どうぶつえんにm いってm さる をm みたら mどう です か。
+おんせん にm あきたらm たかさきやま-しぜん-どうぶつえんにm いってm さる をm みたら mどう です か。
 
 
 
