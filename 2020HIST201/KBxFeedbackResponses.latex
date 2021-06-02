@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14116)}}    % original
-%\rhead{\textrmlf{Compiled }\#14116\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14118)}}    % original
+%\rhead{\textrmlf{Compiled }\#14118\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -267,6 +267,7 @@ the maximum scores. We could also set a point goal for our agent to
 achieve, and use that as our maximum. 3-3, those other inputs should
 most likely be normalized as well. 3-4, a type of simple regression
 model could work as well. 4-5, accuracy is used when true
-positives/negatives are valued more false less important F-score com
+positives/negatives are valued more, where false less important F-score
+com
 
 \end{document}
