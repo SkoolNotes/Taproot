@@ -26,7 +26,8 @@ Good work, Huxley. I agree with all of your answers. Here are a few additional q
 
 
 
-For 1-2, there could be negative rewards
+For 1-2, there could be negative rewards for negative actions, like the frog dying or hitting some kind of obstacle.
+
 
 
 
