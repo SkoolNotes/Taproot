@@ -3,6 +3,8 @@
 Suppose $V$ is a complex inner product space and $T \in  \mathcal{L}(V)$ is a normal operator such that $T^9 = T^8$. Prove that $T$ is self-adjoint and $T^2 = T$.
 #+end_quote
 
+If $T = 0$, then $0^2 = 0$ and $0$ is self-adjoint. Thus, let $T \neq  0$.
+
 In 7.1, Axler asserts that $V$ is finite-dimensional.
 
 $T$ has a diagonal matrix w.r.t. an orthonormal basis of $V$.
@@ -17,3 +19,4 @@ T^9 &= T^8 \\
 T^9 T^{-7}  &= T^8 T^{-7}\\
 T^2 &= T
 \end{aligned}\]
+Suppose $T$ is not invertible. Then, $T$ has

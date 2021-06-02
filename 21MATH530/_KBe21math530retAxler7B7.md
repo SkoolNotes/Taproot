@@ -6,6 +6,9 @@ title: Axler 7.B exercise 7
 > $T \in  \mathcal{L}(V)$ is a normal operator such that $T^9 = T^8$.
 > Prove that $T$ is self-adjoint and $T^2 = T$.
 
+If $T = 0$, then $0^2 = 0$ and $0$ is self-adjoint. Thus, let
+$T \neq  0$.
+
 In 7.1, Axler asserts that $V$ is finite-dimensional.
 
 $T$ has a diagonal matrix w.r.t. an orthonormal basis of $V$.
@@ -19,4 +22,4 @@ $$\begin{aligned}
 T^9 &= T^8 \\
 T^9 T^{-7}  &= T^8 T^{-7}\\
 T^2 &= T
-\end{aligned}$$
+\end{aligned}$$ Suppose $T$ is not invertible. Then, $T$ has

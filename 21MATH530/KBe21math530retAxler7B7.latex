@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14027)}}    % original
-%\rhead{\textrmlf{Compiled }\#14027\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14029)}}    % original
+%\rhead{\textrmlf{Compiled }\#14029\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -207,6 +207,9 @@ Suppose \(V\) is a complex inner product space and
 Prove that \(T\) is self-adjoint and \(T^2 = T\).
 \end{quote}
 
+If \(T = 0\), then \(0^2 = 0\) and \(0\) is self-adjoint. Thus, let
+\(T \neq  0\).
+
 In 7.1, Axler asserts that \(V\) is finite-dimensional.
 
 \(T\) has a diagonal matrix w.r.t. an orthonormal basis of \(V\).
@@ -220,6 +223,6 @@ First, we will show that \(T^2 = T\). Suppose \(T\) is invertible. Then,
 T^9 &= T^8 \\
 T^9 T^{-7}  &= T^8 T^{-7}\\
 T^2 &= T
-\end{aligned}\]
+\end{aligned}\] Suppose \(T\) is not invertible. Then, \(T\) has
 
 \end{document}
