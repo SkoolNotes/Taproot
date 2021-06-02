@@ -143,10 +143,10 @@ https://docs.google.com/document/d/1NJTz4ov_3QtUYiPY4YtGkTQ5EadnAj6_HR32jy5GXAc/
 
 ここ にm さる がm せん ご ひゃく-ひきもm います。
 
+またm べっぷ のm はな びmたいかいもmとてもmゆうめいです。
 
 
 
-また、 べっぷ の はな びたいかいもとてもゆうめいです。
 し ち が つ の お わり に あります。
 みなさん、 ぜひ べっぷ に きて ください。
 
