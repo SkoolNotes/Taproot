@@ -17,3 +17,29 @@ As for problem 2 with the repeated values, intuitively speaking, given that each
 As for the gradients, without either large kernels or some type of memory or hidden cell state, I don't know how to make filters that would check for consistent gradients between sections. I would love to know the answer to this.
 
 To test my hypothesis for my model, I could always run different types of models for more than 2 epochs and see how they perform. Less layers might also work better because of overfitting, or simply because the features we are trying to pick up aren't that detailed. Having larger filters then smaller filters makes sense for this problem, because we want to look for the larger features initially before processing them further with the smaller filters.
+
+--- 
+
+
+
+Good work, Huxley. I agree with all of your answers. Here are a few additional questions for your consideration: 1-2. Would there be any negative rewards? 1-3. If your input is a single 2d grid, how does the game know whether a given object is moving left or right? That is, if the current state contains a row that is \[car\] \[frog\], how does the game distinguish between the car about to hit the frog, and the car passing by harmlessly? 1-5. I like this idea. How do you know what the maximum possible score is for a given state? 2-6. Tell me more about data harvesting. What ethical concerns does this present? 3-3. I think this will work fine, though I wonder: why only normalize rating and not other interval inputs, such as number of reviews? 3-4. I assume the F in FNN stands for fully-connected? If so, that will work, but is there something simpler you could try first? 4-5. Any reason why you picked f-score instead of precision, recall, or accuracy? 4-6. Any privacy issues here?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
