@@ -17,4 +17,4 @@ As for problem 2 with the repeated values, intuitively speaking, given that each
 As for the gradients, without either large kernels or some type of memory or hidden cell state, I don't know how to make filters what would check for the gradients consistent between sections. I would love to know the answer to this.
 
 
-To test my hypothesis for my model, I could always run different types of models for more than 2 epochs and see how they perform. 
+To test my hypothesis for my model, I could always run different types of models for more than 2 epochs and see how they perform. Less layers might work better 
