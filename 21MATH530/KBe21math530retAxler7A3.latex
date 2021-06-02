@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14041)}}    % original
-%\rhead{\textrmlf{Compiled }\#14041\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14073)}}    % original
+%\rhead{\textrmlf{Compiled }\#14073\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -206,11 +206,6 @@ Suppose \(T \in  \mathcal{L}(V)\) and \(U\) is a subspace of \(V\).
 Prove that \(U\) is invariant under \(T\) iff \(U^\bot\) is invariant
 under \(T^*\).
 \end{quote}
-
-For all \(u \in  U\), \(Tu = u' \in  U\). Let \(w = U^\perp\). Then,
-\$T\textsuperscript{*}w = \$ \[\begin{aligned}
- \langle u, T^*w \rangle = \langle Tu, w \rangle = \langle u', w \rangle
-\end{aligned}\]
 
 For all pairs \(u \in  U\) and \(w \in  U^\perp\),
 
