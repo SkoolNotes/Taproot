@@ -51,4 +51,4 @@ Comparing DNA between spcecis could show an idea of common ancestry.
 - RNA world Hypothesis => RNA started self replicating and kabamm
 - Metabolism Evolution 
 
-The Miller-Agieri experiment: fundamental earth molecule
+The Miller-Agieri experiment: fundamental earth molecule + heats and pressure => kabamm amino acids and DNA and other organic molecules.
