@@ -21,4 +21,11 @@ author: Houjun Liu
 ***
 
 ## Begin by defining evolution
+=> Descend with modification
+
+**Micro-evolution**: changes in alleal frequency within a population from one generation to the next
+
+**Macro-evolution**: descend of different special from a common ancestry over much longer timescales
+
+![[Pasted image 20210602132022.png]]
 

@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14096)}}    % original
-%\rhead{\textrmlf{Compiled }\#14096\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14099)}}    % original
+%\rhead{\textrmlf{Compiled }\#14099\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -220,5 +220,15 @@ bacteria - Fossels and and DNA evidence
 \hypertarget{begin-by-defining-evolution}{%
 \subsection{Begin by defining
 evolution}\label{begin-by-defining-evolution}}
+
+=\textgreater{} Descend with modification
+
+\textbf{Micro-evolution}: changes in alleal frequency within a
+population from one generation to the next
+
+\textbf{Macro-evolution}: descend of different special from a common
+ancestry over much longer timescales
+
+{[}{[}Pasted image 20210602132022.png{]}{]}
 
 \end{document}
