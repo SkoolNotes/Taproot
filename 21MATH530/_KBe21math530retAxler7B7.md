@@ -22,4 +22,5 @@ $$\begin{aligned}
 T^9 &= T^8 \\
 T^9 T^{-7}  &= T^8 T^{-7}\\
 T^2 &= T
-\end{aligned}$$ Suppose $T$ is not invertible. Then, $T$ has
+\end{aligned}$$ Suppose $T$ is not invertible and not equal to zero.
+Then, $T$ has

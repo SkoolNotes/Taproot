@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14029)}}    % original
-%\rhead{\textrmlf{Compiled }\#14029\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14030)}}    % original
+%\rhead{\textrmlf{Compiled }\#14030\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -223,6 +223,7 @@ First, we will show that \(T^2 = T\). Suppose \(T\) is invertible. Then,
 T^9 &= T^8 \\
 T^9 T^{-7}  &= T^8 T^{-7}\\
 T^2 &= T
-\end{aligned}\] Suppose \(T\) is not invertible. Then, \(T\) has
+\end{aligned}\] Suppose \(T\) is not invertible and not equal to zero.
+Then, \(T\) has
 
 \end{document}
