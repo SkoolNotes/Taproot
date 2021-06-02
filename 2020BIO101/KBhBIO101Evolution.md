@@ -52,3 +52,8 @@ Comparing DNA between spcecis could show an idea of common ancestry.
 - Metabolism Evolution 
 
 The Miller-Agieri experiment: fundamental earth molecule + heats and pressure => kabamm amino acids and DNA and other organic molecules.
+
+## Common Ancestry
+All life on earth is related by descent from a universal ancestor.
+
+There is a certain ancestor LUCA — which is the Last Universal Common 
