@@ -78,7 +78,6 @@ sentence modifiers or relative clauses
 
 
 
-
 ##### Japanese time
 
 1. 日本はどこでもきれいですが、こんどは、別府にいきたいんです。
@@ -98,6 +97,7 @@ sentence modifiers or relative clauses
 15. ぜひ別府にきてください。
 
 
+https://docs.google.com/document/d/1NJTz4ov_3QtUYiPY4YtGkTQ5EadnAj6_HR32jy5GXAc/edit?ts=60b6cfd7
 
 
 ##### Vocab List
