@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14080)}}    % original
-%\rhead{\textrmlf{Compiled }\#14080\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14081)}}    % original
+%\rhead{\textrmlf{Compiled }\#14081\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -227,6 +227,6 @@ if this is in fact the reason?
 As for problem 2 with the repeated values, intuitively speaking, given
 that each group of values is repeating some number as opposed to
 repeating the same collection of different numbers their must be one
-optimal group which repeats the highest number.
+optimal group which repeats the highest number. As for the gradients,
 
 \end{document}
