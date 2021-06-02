@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14121)}}    % original
-%\rhead{\textrmlf{Compiled }\#14121\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14123)}}    % original
+%\rhead{\textrmlf{Compiled }\#14123\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -269,6 +269,6 @@ most likely be normalized as well. 3-4, a type of simple regression
 model could work as well. 4-5, accuracy is used when true
 positives/negatives are valued more than false positives/negatives,
 which is not what we want in this scenario. F-score combines recall and
-precision
+precision with a harmonic mean,
 
 \end{document}

@@ -56,4 +56,4 @@ The Miller-Agieri experiment: fundamental earth molecule + heats and pressure =>
 ## Common Ancestry
 All life on earth is related by descent from a universal ancestor.
 
-There is a certain ancestor LUCA — which is the Last Universal Common 
+There is a certain ancestor LUCA — which is the Last Universal Common Ancestor.

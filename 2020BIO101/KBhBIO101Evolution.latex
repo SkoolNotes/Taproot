@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14122)}}    % original
-%\rhead{\textrmlf{Compiled }\#14122\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14123)}}    % original
+%\rhead{\textrmlf{Compiled }\#14123\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -288,5 +288,6 @@ molecules.
 All life on earth is related by descent from a universal ancestor.
 
 There is a certain ancestor LUCA --- which is the Last Universal Common
+Ancestor.
 
 \end{document}
