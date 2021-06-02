@@ -27,5 +27,4 @@ author: Houjun Liu
 
 **Macro-evolution**: descend of different special from a common ancestry over much longer timescales
 
-![[Pasted image 20210602132022.png]]
-
+_Remember: evolution happens over **deep time** — much longer than your monkey brain could feasibly preserved_
