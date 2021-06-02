@@ -12,5 +12,5 @@ which does not have an orthogonal basis of eigenvalues. For instance,
 choose the eigenvalues $$\begin{aligned}
 T(1, 0, 0) = (1, 0, 0)\\
 T(0, 1, 0) = (0, 2, 0)\\
-
-\end{aligned}$$
+T(1, 1, 1) = (3, 3, 3)\\
+\end{aligned}$$ In other words, let $T \in  \mathcal{L}(\mathbb{R}^3)$
