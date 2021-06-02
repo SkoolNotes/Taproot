@@ -48,6 +48,6 @@ Comparing DNA between spcecis could show an idea of common ancestry.
 ## Origin of Life
 (Before there was evolution)
 
-- **RNA world Hypothesis**
-- **Metabolism Evolution**
+- RNA world Hypothesis => RNA started self replicating and kabamm
+- Metabolism Evolution 
 
