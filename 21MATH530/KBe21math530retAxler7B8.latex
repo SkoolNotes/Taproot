@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14016)}}    % original
-%\rhead{\textrmlf{Compiled }\#14016\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14017)}}    % original
+%\rhead{\textrmlf{Compiled }\#14017\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -207,5 +207,9 @@ Give an example of an operator \(T\) on a complex vector space s.t.
 \end{quote}
 
 As opposed to \href{KBe21math530retAxler7B7.org}{a normal operator}.
+
+Let \(T \in  \mathcal{L}(\mathbb{C}^3)\) defined by \[\begin{aligned}
+T(x, y, z) = (y, z, 0)
+\end{aligned}\]
 
 \end{document}
