@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14077)}}    % original
-%\rhead{\textrmlf{Compiled }\#14077\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14078)}}    % original
+%\rhead{\textrmlf{Compiled }\#14078\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -224,7 +224,8 @@ be true? For example, you say that more convolutional layers might make
 things worse because we only have two epochs. How would you test to see
 if this is in fact the reason?
 
-As for problem 2 with the repeated values, given that the values are
-repeating
+As for problem 2 with the repeated values, given that each group of
+values is repeating some number as opposed to repeating the same
+collection of different numbers, their will be one
 
 \end{document}
