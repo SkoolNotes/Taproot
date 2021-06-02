@@ -29,4 +29,4 @@ author: Houjun Liu
 
 _Remember: evolution happens over **deep time** — much longer than your monkey brain could feasibly preserved_
 
-
+The size of civilization to now is about 10,000 years, which is 0.002 seconds if all human history is 1 minute.
