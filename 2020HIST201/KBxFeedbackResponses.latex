@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14076)}}    % original
-%\rhead{\textrmlf{Compiled }\#14076\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14077)}}    % original
+%\rhead{\textrmlf{Compiled }\#14077\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -223,5 +223,8 @@ experiments you could run that would prove some of your suppositions to
 be true? For example, you say that more convolutional layers might make
 things worse because we only have two epochs. How would you test to see
 if this is in fact the reason?
+
+As for problem 2 with the repeated values, given that the values are
+repeating
 
 \end{document}
