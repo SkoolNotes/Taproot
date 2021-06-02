@@ -43,4 +43,4 @@ Comparing DNA between spcecis could show an idea of common ancestry.
 - Result: resistant bacterial is left, and they prosper
 
 ### Fossil Example
-- Analyzing fossils over time
+- Analyzing fossils over time 

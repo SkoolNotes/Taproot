@@ -31,7 +31,7 @@ In 1-3, we could either have the RNN handle it, or pass in extra states ourselve
 1-5, I am not to knowledgeable on Frogger mechanics but I do believe it is a completable game. Thus, we can find the maximum scores. We could also set a point goal for our agent to achieve, and use that as our maximum.
 3-3, those other inputs should most likely be normalized as well.
 3-4, a type of simple regression model could work as well.
-4-5, F-score com
+4-5, accuracy is less important F-score com
 
 
 
