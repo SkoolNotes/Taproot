@@ -8,6 +8,8 @@ title: Axler 7.B exercise 7
 
 In 7.1, Axler asserts that $V$ is finite-dimensional.
 
+$T$ has a diagonal matrix w.r.t. an orthonormal basis of $V$.
+
 $$\begin{aligned}
 T T^* = T^* T
 \end{aligned}$$
