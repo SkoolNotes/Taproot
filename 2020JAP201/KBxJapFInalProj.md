@@ -132,7 +132,7 @@ https://docs.google.com/document/d/1NJTz4ov_3QtUYiPY4YtGkTQ5EadnAj6_HR32jy5GXAc/
 
 
 
-ふつう の おんせん が ある し、 ど ろ と す な の おんせん も あります。
+ふつう のm おんせん もm ある しm ど ろ とm す な のm おんせん もm あります。
 
 いくつ か の おんせん は みて も いい です が、 はいって（ はいって） はいけません。
 あつすぎる ん です から。
