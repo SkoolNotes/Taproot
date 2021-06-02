@@ -61,3 +61,4 @@ There is a certain ancestor LUCA — which is the Last Universal Common Ancestor
 ![[Pasted image 20210602134509.png]]
 
 
+
