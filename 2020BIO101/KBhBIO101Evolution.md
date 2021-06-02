@@ -33,4 +33,14 @@ The size of civilization to now is about 10,000 years, which is 0.002 seconds if
 
 ***
 
+### DNA Evidence for evolution
 Comparing DNA between spcecis could show an idea of common ancestry.
+
+**Evolution Experiment**
+
+- Take bacteria
+- Introduce a filter/challenge (antibiotic) 
+- Result: resistant bacterial is left, and they prosper
+
+### Fossil Example
+- Analyzing fossils over time

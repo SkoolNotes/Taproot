@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14111)}}    % original
-%\rhead{\textrmlf{Compiled }\#14111\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14114)}}    % original
+%\rhead{\textrmlf{Compiled }\#14114\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -237,6 +237,31 @@ seconds if all history is 1 minute.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-Compa
+\hypertarget{dna-evidence-for-evolution}{%
+\subsubsection{DNA Evidence for
+evolution}\label{dna-evidence-for-evolution}}
+
+Comparing DNA between spcecis could show an idea of common ancestry.
+
+\textbf{Evolution Experiment}
+
+\begin{itemize}
+\tightlist
+\item
+  Take bacteria
+\item
+  Introduce a filter/challenge (antibiotic)
+\item
+  Result: resistant bacterial is left, and they prosper
+\end{itemize}
+
+\hypertarget{fossil-example}{%
+\subsubsection{Fossil Example}\label{fossil-example}}
+
+\begin{itemize}
+\tightlist
+\item
+  Analyzing fossils over time
+\end{itemize}
 
 \end{document}
