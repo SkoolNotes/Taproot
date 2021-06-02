@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14006)}}    % original
-%\rhead{\textrmlf{Compiled }\#14006\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14007)}}    % original
+%\rhead{\textrmlf{Compiled }\#14007\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -210,6 +210,6 @@ there is a basis of \(\mathcal{R}^3\) consisting of eigenvectors of
 
 The real spectral theorem suggests that if a map is self-adjoint, it
 must have an orthogonal basis of eigenvalues. Thus, we can choose a map
-which
+which does not have an orthogonal basis of eigenvalues.
 
 \end{document}

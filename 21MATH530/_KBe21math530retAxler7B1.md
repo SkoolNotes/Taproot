@@ -8,4 +8,4 @@ title: Axler 7.B exercise 1
 
 The real spectral theorem suggests that if a map is self-adjoint, it
 must have an orthogonal basis of eigenvalues. Thus, we can choose a map
-which
+which does not have an orthogonal basis of eigenvalues.
