@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14092)}}    % original
-%\rhead{\textrmlf{Compiled }\#14092\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14096)}}    % original
+%\rhead{\textrmlf{Compiled }\#14096\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -216,5 +216,9 @@ Environmental pressures - non-random mate choices - Migration
 bacteria - Fossels and and DNA evidence
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{begin-by-defining-evolution}{%
+\subsection{Begin by defining
+evolution}\label{begin-by-defining-evolution}}
 
 \end{document}
