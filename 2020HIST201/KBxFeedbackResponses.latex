@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14103)}}    % original
-%\rhead{\textrmlf{Compiled }\#14103\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14105)}}    % original
+%\rhead{\textrmlf{Compiled }\#14105\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -261,7 +261,8 @@ issues here?
 For 1-2, there could be negative rewards for negative actions, like the
 frog dying or hitting some kind of obstacle. In 1-3, we could either
 have the RNN handle it, or pass in extra states ourselves like
-directionality or velocity. 1-5, I am not to knowlegable on frogger
-mechanics, we could set a point goal
+directionality or velocity. 1-5, I am not to knowledgeable on Frogger
+mechanics but I do believe it is a completable game, we could set a
+point goal
 
 \end{document}
