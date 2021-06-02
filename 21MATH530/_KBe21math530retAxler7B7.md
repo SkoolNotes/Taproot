@@ -13,3 +13,5 @@ $T$ has a diagonal matrix w.r.t. an orthonormal basis of $V$.
 $$\begin{aligned}
 T T^* = T^* T
 \end{aligned}$$
+
+Suppose $T$ is invertible. Then,
