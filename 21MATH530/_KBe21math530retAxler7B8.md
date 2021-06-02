@@ -10,3 +10,9 @@ As opposed to [a normal operator](KBe21math530retAxler7B7.org).
 Let $T \in  \mathcal{L}(\mathbb{C}^3)$ defined by $$\begin{aligned}
 T(x, y, z) = (y, z, 0)
 \end{aligned}$$
+
+Then
+
+$$\begin{aligned}
+T^2(x, y, z) = T(y, z, 0) = T(z, 0, 0) \neq (y, z, 0) = T
+\end{aligned}$$

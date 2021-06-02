@@ -9,3 +9,15 @@ Let $T \in  \mathcal{L}(\mathbb{C}^3)$ defined by
 \[\begin{aligned}
 T(x, y, z) = (y, z, 0)
 \end{aligned}\]
+
+Then
+
+\[\begin{aligned}
+T^2(x, y, z) = T(y, z, 0) = T(z, 0, 0) \neq (y, z, 0) = T
+\end{aligned}\]
+
+and yet
+
+\[\begin{aligned}
+T^8(x, y, z) = (0, 0, 0) = T^9(x, y, z)
+\end{aligned}\]
