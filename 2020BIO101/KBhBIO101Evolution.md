@@ -33,3 +33,4 @@ The size of civilization to now is about 10,000 years, which is 0.002 seconds if
 
 ***
 
+Comparing DNA between spcecis could show an idea of common ancestry.
