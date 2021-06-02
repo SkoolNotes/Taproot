@@ -27,7 +27,7 @@ Good work, Huxley. I agree with all of your answers. Here are a few additional q
 
 
 For 1-2, there could be negative rewards for negative actions, like the frog dying or hitting some kind of obstacle.
-In 1-3, 
+In 1-3, we could either have the RNN handle it, or pass in extra states ourselves like velocity
 
 
 
