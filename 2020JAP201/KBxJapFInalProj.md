@@ -141,7 +141,7 @@ https://docs.google.com/document/d/1NJTz4ov_3QtUYiPY4YtGkTQ5EadnAj6_HR32jy5GXAc/
 
 おんせん にm あきたらm たかさきやま-しぜん-どうぶつえんにm いってm さる をm みたら mどう です か。
 
-ここ にm さる がm せん ご ひゃくひきもm います。
+ここ にm さる がm せん ご ひゃく-ひきもm います。
 
 
 
