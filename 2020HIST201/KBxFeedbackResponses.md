@@ -32,7 +32,7 @@ In 1-3, we could either have the RNN handle it, or pass in extra states ourselve
 3-3, those other inputs should most likely be normalized as well.
 3-4, a type of simple regression model could work as well.
 4-5, accuracy is used when true positives/negatives are valued more than false positives/negatives, which is not what we want in this scenario. F-score combines recall and precision with a harmonic mean, producing a result generally though of as better from what I have seen.
-4-6, people don't want their medical images being 
+4-6, people don't want their medical info being seen. 
 
 
 
