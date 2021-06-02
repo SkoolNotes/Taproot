@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14032)}}    % original
-%\rhead{\textrmlf{Compiled }\#14032\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14033)}}    % original
+%\rhead{\textrmlf{Compiled }\#14033\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -212,7 +212,11 @@ If \(T = 0\), then \(0^2 = 0\) and \(0\) is self-adjoint. Thus, let
 
 In 7.1, Axler asserts that \(V\) is finite-dimensional.
 
-\(T\) has a diagonal matrix w.r.t. an orthonormal basis of \(V\).
+By the complex spectral theorem, \(T\) has a diagonal matrix w.r.t. an
+orthonormal basis of \(V\).
+
+Let these entries equal \(d_1, \ldots, d_n\). \(T^k\) will have on it's
+diagonal \(d_1^k, \ldots, d_n^k\). For each \(d_i\), \(d_i^8 = d_i^9\)
 
 \[\begin{aligned}
 T T^* = T^* T
@@ -225,7 +229,6 @@ T^9 T^{-7}  &= T^8 T^{-7}\\
 T^2 &= T
 \end{aligned}\] Suppose \(T\) is not invertible and not equal to zero.
 Then, \(T\) has some zero entries on it's diagonal and some non-zero
-entries on it's diagonal. Let these entries equal \(d_1, \ldots, d_n\).
-\(T^k\) will have on it's diagonal \(d_1^k, \ldots, d_n^k\)
+entries on it's diagonal.
 
 \end{document}

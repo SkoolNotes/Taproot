@@ -11,9 +11,11 @@ $T \neq  0$.
 
 In 7.1, Axler asserts that $V$ is finite-dimensional.
 
-$T$ has a diagonal matrix w.r.t. an orthonormal basis of $V$.
+By the complex spectral theorem, $T$ has a diagonal matrix w.r.t. an
+orthonormal basis of $V$.
 
-$$\begin{aligned}
+Let these entries equal $d_1, \ldots, d_n$. $T^k$ will have on it\'s
+diagonal $d_1^k, \ldots, d_n^k$. For each $d_n$ $$\begin{aligned}
 T T^* = T^* T
 \end{aligned}$$
 
@@ -24,5 +26,4 @@ T^9 T^{-7}  &= T^8 T^{-7}\\
 T^2 &= T
 \end{aligned}$$ Suppose $T$ is not invertible and not equal to zero.
 Then, $T$ has some zero entries on it\'s diagonal and some non-zero
-entries on it\'s diagonal. Let these entries equal $d_1, \ldots, d_n$.
-$T^k$ will have on it\'s diagonal $d_1^k, \ldots, d_n^k$
+entries on it\'s diagonal.
