@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14086)}}    % original
-%\rhead{\textrmlf{Compiled }\#14086\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14087)}}    % original
+%\rhead{\textrmlf{Compiled }\#14087\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -200,6 +200,10 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+title: Evolution source: KBBiologyMasterIndex course: BIO101 author: Hou
 
 \emph{Any change in the heritable traits in a population over time.}
 
