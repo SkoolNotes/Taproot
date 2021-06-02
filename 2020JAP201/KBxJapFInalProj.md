@@ -149,7 +149,7 @@ https://docs.google.com/document/d/1NJTz4ov_3QtUYiPY4YtGkTQ5EadnAj6_HR32jy5GXAc/
 
 
 
-みなさん、 ぜひ べっぷ に きて ください。
+みなさん、 ぜひm べっぷ にm きて mください。
 
 
 
