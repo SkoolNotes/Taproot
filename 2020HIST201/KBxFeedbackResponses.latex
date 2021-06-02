@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14082)}}    % original
-%\rhead{\textrmlf{Compiled }\#14082\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14083)}}    % original
+%\rhead{\textrmlf{Compiled }\#14083\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -230,6 +230,7 @@ repeating the same collection of different numbers their must be one
 optimal group which repeats the highest number. As for the gradients,
 without either large kernels or some type of memory or hidden cell
 state, I don't know how to make filters what would check for the
-gradients consistent between sections. If you
+gradients consistent between sections. I would love to know the answer
+to this.
 
 \end{document}
