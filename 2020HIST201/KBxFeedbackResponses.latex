@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14134)}}    % original
-%\rhead{\textrmlf{Compiled }\#14134\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14135)}}    % original
+%\rhead{\textrmlf{Compiled }\#14135\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -271,7 +271,7 @@ positives/negatives are valued more than false positives/negatives,
 which is not what we want in this scenario. F-score combines recall and
 precision with a harmonic mean, producing a result generally though of
 as better from what I have seen. 4-6, people don't want their medical
-info being seen. As for anonimnity, Privacy-preservation techniques
-could be employed, but those are often flawed.
+info being seen. As for anonymity, privacy-preservation techniques could
+be employed, but those are often flawed.
 
 \end{document}
