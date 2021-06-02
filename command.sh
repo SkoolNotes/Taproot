@@ -28,11 +28,14 @@ while true; do
 
         ./compile.sh
 
-        (git add -A >> log.txt && \
-        git reset -- log.txt >> log.txt && \
-        git commit -m "b$(cat buildID.txt): $(echo $changes | paste -sd ', ' -) $(printf "\n(\n")automated compilation $(cat buildID.txt))" >> log.txt && \
-        git push --quiet) && \
-        printf "Snapshotted and commited at $(date)\r" || printf "Sync Failed!!! $(date)"
+        git add -A >> log.txt && git reset -- log.txt >> log.txt
+        if (( $(cat buildID.txt) % 32 == 0 )); then
+            (git commit -m "b$(cat buildID.txt): $(echo $changes | paste -sd ', ' -) $(printf "\n(\n")automated compilation $(cat buildID.txt))" >> log.txt && \
+                git push --quiet) && \
+            printf "Snapshotted and commited at $(date)\r" || printf "Sync Failed!!! $(date)"
+        else
+            printf "Built $(cat buildID.txt) at $(date)\r"
+        fi
     else
         printf "Nothing to sync at $(date)                     \r"
     fi

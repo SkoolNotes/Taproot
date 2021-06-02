@@ -158,20 +158,39 @@ https://docs.google.com/document/d/1NJTz4ov_3QtUYiPY4YtGkTQ5EadnAj6_HR32jy5GXAc/
 
 
 ##### Vocab List
+- こんど: next time 1
+- せかいじゅう: around the world 3
+- ゆうめい: famous 4
+- じごく: hell 4
+- ちかづく: to get close 6 
+- しゅるい: types 5
 - どろ: mud 7
 - すな: sand 7
-- ちかづく: to get close 6 
+- むしりょうり: steamed food 8 
 - とくべつ: special 9
-- ゆうめい: famous 4
-- あきる: get tired of
+- あきる: get tired of 13
+- すえ: end (of the month) 13
+- はなびたいかい: firework display 15
+- ぜひ: by all means 17
+
+
+
+- こんど: next time 
+- せかいじゅう: around the world 
+- ゆうめい: famous 
+- じごく: hell 
+- ちかづく: to get close 
+- しゅるい: types 
+- どろ: mud 
+- すな: sand 
+- むしりょうり: steamed food 
+- とくべつ: special 
+- あきる: get tired of 
+- すえ: end (of the month)
 - はなびたいかい: firework display
 - ぜひ: by all means
-- こんど: next time
-- せかいじゅう: around the world
-- じごく: hell
-- しゅるい: types
-- むしりょうり: steamed food
-- すえ: end (of the month)
+
+
 
 ##### hiragana!
 1 . にっぽん は どこ でも きれい です が、 こんど は、 べっぷ に いきたい ん です。 
