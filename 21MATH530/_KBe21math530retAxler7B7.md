@@ -14,7 +14,8 @@ $$\begin{aligned}
 T T^* = T^* T
 \end{aligned}$$
 
-Suppose $T$ is invertible. Then, $$\begin{aligned}
+First, we will show that $T^2 = T$. Suppose $T$ is invertible. Then,
+$$\begin{aligned}
 T^9 &= T^8 \\
 T^9 T^{-7}  &= T^8 T^{-7}\\
 T^2 &= T
