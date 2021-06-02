@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14040)}}    % original
-%\rhead{\textrmlf{Compiled }\#14040\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14041)}}    % original
+%\rhead{\textrmlf{Compiled }\#14041\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -219,8 +219,9 @@ For all pairs \(u \in  U\) and \(w \in  U^\perp\),
  \langle u, T^*w \rangle = 0
 \end{aligned}\]
 
-This implies that the range of \(T^*\BigR|_{U^\perp} = U^\perp\), aka
-that \(T^*\) is invariant under \(U^\perp\)
+This implies that the range of
+\(T^*\BigR|_{U^\perp} \subseteq U^\perp\), aka that \(T^*\) is invariant
+under \(U^\perp\)
 
 This implies both directions, since \(U = U^{\perp ^\perp }\) and
 \(T = (T^*)^*\).

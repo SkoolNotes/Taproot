@@ -20,7 +20,8 @@ $$\begin{aligned}
  \langle u, T^*w \rangle = 0
 \end{aligned}$$
 
-This implies that the range of $T^*\BigR|_{U^\perp}$
+This implies that the range of $T^*\BigR|_{U^\perp} \subseteq U^\perp$,
+aka that $T^*$ is invariant under $U^\perp$
 
 This implies both directions, since $U = U^{\perp ^\perp }$ and
 $T = (T^*)^*$.
