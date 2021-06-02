@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14020)}}    % original
-%\rhead{\textrmlf{Compiled }\#14020\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14021)}}    % original
+%\rhead{\textrmlf{Compiled }\#14021\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -206,5 +206,9 @@ Suppose \(V\) is a complex inner product space and
 \(T \in  \mathcal{L}(V)\) is a normal operator such that \(T^9 = T^8\).
 Prove that \(T\) is selfadjoint and \(T^2 = T\).
 \end{quote}
+
+\[\begin{aligned}
+T T^* = T^* T
+\end{aligned}\]
 
 \end{document}
