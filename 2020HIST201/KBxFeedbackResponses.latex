@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14093)}}    % original
-%\rhead{\textrmlf{Compiled }\#14093\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14094)}}    % original
+%\rhead{\textrmlf{Compiled }\#14094\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -257,5 +257,7 @@ FNN stands for fully-connected? If so, that will work, but is there
 something simpler you could try first? 4-5. Any reason why you picked
 f-score instead of precision, recall, or accuracy? 4-6. Any privacy
 issues here?
+
+For 1-2, their could be negative rewards
 
 \end{document}

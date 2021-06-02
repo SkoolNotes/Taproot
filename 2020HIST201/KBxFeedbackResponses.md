@@ -26,7 +26,7 @@ Good work, Huxley. I agree with all of your answers. Here are a few additional q
 
 
 
-
+For 1-2, their could be negative rewards
 
 
 
