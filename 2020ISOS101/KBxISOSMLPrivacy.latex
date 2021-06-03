@@ -150,8 +150,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14002)}}    % original
-%\rhead{\textrmlf{Compiled }\#14002\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14176)}}    % original
+%\rhead{\textrmlf{Compiled }\#14176\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -417,5 +417,24 @@ privacy}\label{machine-learning-broad-level-implications-on-privacy}}
 \subsection{during discussion}\label{during-discussion}}
 
 pri v sec -\textgreater{} pri v los
+
+\hypertarget{reflec}{%
+\subsection{Reflec}\label{reflec}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\item
+  \textbf{What is the ethical issue/debate/controversy in question? In
+  other words, how does the topic relate to the question of how we
+  should live with science and technology?} Should abortion be legal?
+  How do we think about start of life with improving technology?
+\item
+  \textbf{Describe at least two different perspectives on the issue
+  (these could be complementary or opposing).} Abortion is murder, it
+  shoudn't be legal. People have a right to their own
+\item
+  \textbf{What seems to be at stake (e.g, philosophically, politically,
+  or intellectually)?}
+\end{enumerate}
 
 \end{document}
