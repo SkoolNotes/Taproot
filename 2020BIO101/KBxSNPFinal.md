@@ -47,14 +47,17 @@ The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme whic
 - [The effect of rs1076560 (DRD2) and rs4680 (COMT) on tardive dyskinesia and cognition in schizophrenia subjects](https://pubmed.ncbi.nlm.nih.gov/32931693/)
 
 
+### Feedback and revisions
 
+```
+This is looking good so far. It is based in solid research and you're clear about what's still unknown or uncertain. I'm noticing that you don't discuss any known regulators of COMT expression (transcription factors, environmental signals, etc). Try to work that in. If there are none reported, you can mention that in the write-up. I also think you can add a bit more clarity in the portion where you're discussing the integrity/stability of the mutant protein. You've said it leads to lower abundance. Is the decreased enzyme activity related direction to enzyme function or based on lower total abundance?
+```
 
+### Part Two!
 
+*infographic time.*
 
-
-
-
-
+- info to include
 
 
 
