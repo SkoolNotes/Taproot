@@ -97,17 +97,15 @@ pri v sec -> pri v los
 
 ## Reflec
 
-
-
 1) **What is the ethical issue/debate/controversy in question? In other words, how does the topic relate to the question of how we should live with science and technology?**
 Should abortion be legal? How do we think about start of life with improving technology?
 
 2) **Describe at least two different perspectives on the issue (these could be complementary or opposing).**
 Abortion is murder, it shoudn't be legal.
-People have a right to their own 
+People have a right to their own body.
 
 3) **What seems to be at stake (e.g, philosophically, politically, or intellectually)?**
-
+Abortion laws!
 
 
 
