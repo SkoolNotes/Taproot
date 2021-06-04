@@ -23,3 +23,5 @@ $$\begin{aligned}
 
 This value is corroborated to four decimal points using the slice
 generator, seen here:
+
+![](KBe21math401retCrossSectionSolidFinalB.png)

@@ -152,11 +152,11 @@ Cross Section }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14300)}}    % original
-%\rhead{\textrmlf{Compiled }\#14300\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14305)}}    % original
+%\rhead{\textrmlf{Compiled }\#14305\textrmlf{ on} \today }      % old date
 \rhead{
       \textrmlf{Compiled }
-  \#14300
+  \#14305
   \textrmlf{ }
   \textrmlf{on} 
     11 June 2021
@@ -222,5 +222,7 @@ semicircle as my cross section. The integral to calculate the volume is
 
 This value is corroborated to four decimal points using the slice
 generator, seen here:
+
+\includegraphics{KBe21math401retCrossSectionSolidFinalB.png}
 
 \end{document}
