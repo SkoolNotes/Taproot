@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14524)}}    % original
-%\rhead{\textrmlf{Compiled }\#14524\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14529)}}    % original
+%\rhead{\textrmlf{Compiled }\#14529\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -363,13 +363,13 @@ Thus, Val158Met must be located in a protein-coding region causing the
 \emph{COMT} enzyme to have lower protein integrity, explaining the
 discrepancy between mRNA expression and protein expression. This lower
 protein integrity is most likely manifested as diminished
-thermostability of the enzyme
-\href{https://pubmed.ncbi.nlm.nih.gov/7703232/}{citation}. The higher
-level effect of this reduced enzyme efficacy is greatly debated, and
-linked to many different phenotypes. At a broad level, lower \emph{COMT}
-activity leads to higher levels of catecholamines in the prefrontal
-cortex. The actual effect of these increased levels are not well
-understood. One proposed theory is the Warrior versus Worrier
+thermostability of the enzyme, in turn leading to its reduced
+effectiveness \href{https://pubmed.ncbi.nlm.nih.gov/7703232/}{citation}.
+The higher level effect of this reduced enzyme efficacy is greatly
+debated, and linked to many different phenotypes. At a broad level,
+lower \emph{COMT} activity leads to higher levels of catecholamines in
+the prefrontal cortex. The actual effect of these increased levels are
+not well understood. One proposed theory is the Warrior versus Worrier
 hypothesis, which outlines two groups of personality traits based upon
 the Val158Met mutation
 \href{https://pubmed.ncbi.nlm.nih.gov/17008817/}{citation}. The
