@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14400)}}    % original
-%\rhead{\textrmlf{Compiled }\#14400\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14432)}}    % original
+%\rhead{\textrmlf{Compiled }\#14432\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -305,7 +305,7 @@ Ancestor.
 \item
   Gene flow
 \item
-  Variations
+  Variations/Mutations
 \end{itemize}
 
 \hypertarget{natural-selection}{%
@@ -348,6 +348,8 @@ Flow}\label{genetic-drift-gene-flow}}
 
 \emph{Mechanisms of evolution without adaptation}
 
+\textbf{Genetic Drift}
+
 \begin{itemize}
 \tightlist
 \item
@@ -356,5 +358,39 @@ Flow}\label{genetic-drift-gene-flow}}
 \item
   Allele frequencies change based on random chance or events
 \end{itemize}
+
+Random bottlenecks (like, colonization) cause the next generation to
+randomly have a large alleal that's not at all competitive.
+
+\textbf{Gene Flow} Movement/migration of one individual with a dominante
+gene over takes the others/change genetic makeup.
+
+\hypertarget{mutations}{%
+\subsubsection{Mutations}\label{mutations}}
+
+{[}{[}KBhBIO101Mutations{]}{]}
+
+{[}{[}Pasted image 20210604104642.png{]}{]}
+
+\hypertarget{artificial-selection}{%
+\subsubsection{Artificial Selection}\label{artificial-selection}}
+
+A chuwawa + saint-benard mix.
+
+{[}{[}Pasted image 20210604104820.png{]}{]}
+
+\hypertarget{speciation}{%
+\subsection{Speciation}\label{speciation}}
+
+When does many many mutations build up into one new species?
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Establishing a barrier to gene flow
+\item
+  Genetic divergence accumulation until reproductive seperation
+\end{enumerate}
 
 \end{document}

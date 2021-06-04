@@ -65,7 +65,7 @@ There is a certain ancestor LUCA — which is the Last Universal Common Ancestor
 - Natural Selection
 - Genetic drift
 - Gene flow
-- Variations 
+- Variations/Mutations
 
 ### Natural Selection
 - Variatinon => for a certain trait, there are differences between individuals 
@@ -91,5 +91,30 @@ This could also produce harmful results (looking good also attracts predators.)
 ### Genetic Drift + Gene Flow
 *Mechanisms of evolution without adaptation*
 
+**Genetic Drift**
+
 - Traits are not selected because they are beneficial against environmental pressures
 - Allele frequencies change based on random chance or events
+
+Random bottlenecks (like, colonization) cause the next generation to randomly have a large alleal that's not at all competitive.
+
+**Gene Flow**
+Movement/migration of one individual with a dominante gene over takes the others/change genetic makeup.
+
+### Mutations
+[[KBhBIO101Mutations]]
+
+![[Pasted image 20210604104642.png]]
+
+### Artificial Selection
+A chuwawa + saint-benard mix.
+
+![[Pasted image 20210604104820.png]]
+
+## Speciation
+When does many many mutations build up into one new species?
+
+1. Establishing a barrier to gene flow
+2. Genetic divergence accumulation until reproductive seperation
+
+Variation => Natural Selection => Evolution => Speciation
