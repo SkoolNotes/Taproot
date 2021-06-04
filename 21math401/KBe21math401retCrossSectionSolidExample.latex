@@ -152,11 +152,11 @@ Cross Section }
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14330)}}    % original
-%\rhead{\textrmlf{Compiled }\#14330\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14468)}}    % original
+%\rhead{\textrmlf{Compiled }\#14468\textrmlf{ on} \today }      % old date
 \rhead{
       \textrmlf{Compiled }
-  \#14330
+  \#14468
   \textrmlf{ }
   \textrmlf{on} 
     11 June 2021
@@ -228,5 +228,9 @@ generator. The final model can be
 \color{Black} or seen here:
 
 \includegraphics{KBe21math401retCrossSectionSolidFinalB.png}
+
+\includegraphics{KBe21math401retCrossSectionSolidFinalB2.png}
+
+\includegraphics{KBe21math401retCrossSectionSolidFinalB3.png}
 
 \end{document}

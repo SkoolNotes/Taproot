@@ -29,3 +29,7 @@ generator. The final model can be
 `\color{Black}`{=latex} or seen here:
 
 ![](KBe21math401retCrossSectionSolidFinalB.png)
+
+![](KBe21math401retCrossSectionSolidFinalB2.png)
+
+![](KBe21math401retCrossSectionSolidFinalB3.png)
