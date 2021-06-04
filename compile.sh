@@ -29,12 +29,6 @@ task() {
     if [[ $formatname == "markdown" ]]; then
         #sed -E -e 's/!\[\[(.+\.(png|jpg))\]\]/![\1](\1)/g' -i '' $f
     fi
-    if [[ $formatname == "org" ]]; then
-        # t2proot only works with markdown
-        # manually convert existing files:
-        # for f in $allnames; do pandoc $f -s -o "$(dirname $f)/_$(basename "${f%.*}").md" &; done
-        pandoc $f -s -o "$(dirname $f)/_$(basename "${f%.*}").md"
-    fi
     echo pandoc -f $formatname -t pdf   $f --pdf-engine=xelatex --mathjax -s\
         --template=~/.pandoc/templates/default.latex -o "${f%.*}.pdf"\
         "${filter_list[@]/#/--lua-filter=}"\
@@ -52,6 +46,12 @@ task() {
     pandoc -f latex -t html "${f%.*}.latex" --pdf-engine=xelatex --mathjax -s\
         --template=~/.pandoc/templates/default.html  -o "${f%.*}.html"\
         --resource-path="$f:h" -V BUILDID=$buildid 2>>recent_errors.txt
+    if [[ $formatname == "org" ]]; then
+        # t2proot only works with markdown
+        # manually convert existing files:
+        # for f in $allnames; do pandoc $f -s -o "$(dirname $f)/_$(basename "${f%.*}").md" &; done
+        pandoc $f -s -o "$(dirname $f)/_$(basename "${f%.*}").md"
+    fi
     echo "$(date) Converted $f from $formatname to ${f%.*}.{pdf, latex, html}"
 }
 
