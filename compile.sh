@@ -35,6 +35,10 @@ task() {
         # for f in $allnames; do pandoc $f -s -o "$(dirname $f)/_$(basename "${f%.*}").md" &; done
         pandoc $f -s -o "$(dirname $f)/_$(basename "${f%.*}").md"
     fi
+    echo pandoc -f $formatname -t pdf   $f --pdf-engine=xelatex --mathjax -s\
+        --template=~/.pandoc/templates/default.latex -o "${f%.*}.pdf"\
+        "${filter_list[@]/#/--lua-filter=}"\
+        --resource-path="$f:h" -V BUILDID=$buildid 2>>recent_errors.txt
     pandoc -f $formatname -t pdf   $f --pdf-engine=xelatex --mathjax -s\
         --template=~/.pandoc/templates/default.latex -o "${f%.*}.pdf"\
         "${filter_list[@]/#/--lua-filter=}"\

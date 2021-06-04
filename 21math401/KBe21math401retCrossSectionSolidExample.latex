@@ -138,7 +138,8 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thelesson}{ Final Project B: Volume of a Solid with Known
+Cross Section }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -151,12 +152,16 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14284)}}    % original
-%\rhead{\textrmlf{Compiled }\#14284\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14300)}}    % original
+%\rhead{\textrmlf{Compiled }\#14300\textrmlf{ on} \today }      % old date
 \rhead{
-    \today
+      \textrmlf{Compiled }
+  \#14300
+  \textrmlf{ }
+  \textrmlf{on} 
+    11 June 2021
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -202,8 +207,20 @@
 
 % DID YOU SET SPELL????
 
-\begin{verbatim}
-    Log for attempt at Thu Jun  3 06:00:07 PM PDT 2021 (14283)
-\end{verbatim}
+I chose to use Reigon B (bounded by x=0, y=sqrt(x), and x=9) and the
+semicircle as my cross section. The integral to calculate the volume is
+\color{NavyBlue}the integral of \color{OliveGreen}the area of
+\color{Melon}each slice\color{Black}.
+
+\[\begin{aligned}
+ &\textcolor{NavyBlue}{\int_{0}^{9}} \textcolor{OliveGreen}{\pi} \textcolor{Melon}{r_x} \textcolor{OliveGreen}{^2} \textcolor{NavyBlue}{dx}\\
+ =&\textcolor{NavyBlue}{\int_{0}^{9}} \textcolor{OliveGreen}{\pi}  \textcolor{Melon}{\left(\frac{\sqrt{x}}{2}\right)}\textcolor{OliveGreen}{^2} \textcolor{NavyBlue}{dx}\\
+ =& \frac{\pi}{4}  \int_{0}^{9} x dx\\
+ =& \frac{\pi}{8} 9^2\\
+ =& \boxed{\frac{81\pi}{8}}\\
+\end{aligned}\]
+
+This value is corroborated to four decimal points using the slice
+generator, seen here:
 
 \end{document}
