@@ -14,6 +14,7 @@ author: Houjun Liu
 - non-random mate choices
 - Migration
 
+
 **Evidence for evolution**
 - Lab evidence of short-lifespan bacteria
 - Fossels and and DNA evidence
@@ -59,6 +60,19 @@ All life on earth is related by descent from a universal ancestor.
 There is a certain ancestor LUCA — which is the Last Universal Common Ancestor.
 
 ![[Pasted image 20210602134509.png]]
+
+## Mechanisms of evolution
+- Natural Selection
+- Genetic drift
+- Gene flow
+- Variations 
+
+### Natural Selection
+- Variatinon => for a certain trait, there are differences between individuals 
+- Heritability => differences that could be passed through generations
+- Reproductive advantage => ability to increase rate of reproduction/competition
+
+*Natural selection could change allele frequencies in a particular population over time.*
 
 
 
