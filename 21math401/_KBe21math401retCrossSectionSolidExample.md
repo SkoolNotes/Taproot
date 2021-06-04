@@ -22,6 +22,10 @@ $$\begin{aligned}
 \end{aligned}$$
 
 This value is corroborated to four decimal points using the slice
-generator, seen here:
+generator. The final model can be
+`\color{Blue}`{=latex}[downloaded](https://github.com/SkoolNotes/Taproot/blob/main/21math401/KBe21math401retCrossSectionSolidFinalB.scad)
+`\color{Black}`{=latex} and viewed in
+`\color{Blue}`{=latex}[OpenSCAD](https://openscad.org/downloads.html)
+`\color{Black}`{=latex} or seen here:
 
 ![](KBe21math401retCrossSectionSolidFinalB.png)
