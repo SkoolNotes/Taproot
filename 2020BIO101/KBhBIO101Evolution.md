@@ -74,5 +74,22 @@ There is a certain ancestor LUCA — which is the Last Universal Common Ancestor
 
 *Natural selection could change allele frequencies in a particular population over time.*
 
+After a longer time, eventually, natural selection will make new species.
 
+**Sexual selection: a special case**
+*The process of natural selection acting on an organism's ability to access mates/fertilization.*
 
+_Direct Benefits_
+-  Care, food, territory, etc.
+
+_Indirect Benefits_
+- Choosing of the most competent male
+- "Good genes" of ornamentation (looking pretty is costly)
+
+This could also produce harmful results (looking good also attracts predators.)
+
+### Genetic Drift + Gene Flow
+*Mechanisms of evolution without adaptation*
+
+- Traits are not selected because they are beneficial against environmental pressures
+- Allele frequencies change based on random chance or events

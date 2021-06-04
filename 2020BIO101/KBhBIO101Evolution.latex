@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14364)}}    % original
-%\rhead{\textrmlf{Compiled }\#14364\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14400)}}    % original
+%\rhead{\textrmlf{Compiled }\#14400\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -326,5 +326,35 @@ Ancestor.
 
 \emph{Natural selection could change allele frequencies in a particular
 population over time.}
+
+After a longer time, eventually, natural selection will make new
+species.
+
+\textbf{Sexual selection: a special case} \emph{The process of natural
+selection acting on an organism's ability to access
+mates/fertilization.}
+
+\emph{Direct Benefits} - Care, food, territory, etc.
+
+\emph{Indirect Benefits} - Choosing of the most competent male - ``Good
+genes'' of ornamentation (looking pretty is costly)
+
+This could also produce harmful results (looking good also attracts
+predators.)
+
+\hypertarget{genetic-drift-gene-flow}{%
+\subsubsection{Genetic Drift + Gene
+Flow}\label{genetic-drift-gene-flow}}
+
+\emph{Mechanisms of evolution without adaptation}
+
+\begin{itemize}
+\tightlist
+\item
+  Traits are not selected because they are beneficial against
+  environmental pressures
+\item
+  Allele frequencies change based on random chance or events
+\end{itemize}
 
 \end{document}
