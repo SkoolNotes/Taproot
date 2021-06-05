@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14580)}}    % original
-%\rhead{\textrmlf{Compiled }\#14580\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14603)}}    % original
+%\rhead{\textrmlf{Compiled }\#14603\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -353,7 +353,8 @@ due to environmental stimuli. Despite much research into COMT
 regulation, the actual processes are still mostly unknown
 \href{https://pubmed.ncbi.nlm.nih.gov/21095457/}{citation}. COMT has two
 promoters --- P2 functions constitutively, whereas P1 has tissue
-dependent regulation
+dependent regulation. This tissue specific regulation is most likely
+done by C/EBPalpha.
 \href{https://pubmed.ncbi.nlm.nih.gov/8672242/}{citation}. Val158Met,
 also known as rs4680, is a common missense mutation swapping a guanine
 for an adenine. It has the frequency G=0.510915, and thus, A=0.489085.
@@ -469,12 +470,36 @@ https://pubmed.ncbi.nlm.nih.gov/21095457/
     \begin{itemize}
     \tightlist
     \item
+      yeah
+    \item
+      yeah
+    \item
       reg
 
       \begin{itemize}
       \tightlist
       \item
         estrogen?
+      \item
+        brain develpoment
+      \item
+        eviromental
+      \item
+        P2:
+
+        \begin{itemize}
+        \tightlist
+        \item
+          constitutively
+        \end{itemize}
+      \item
+        P1:
+
+        \begin{itemize}
+        \tightlist
+        \item
+          tissue dependent, C/EBPalpha, ect.
+        \end{itemize}
       \end{itemize}
     \end{itemize}
   \item
