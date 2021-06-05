@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14529)}}    % original
-%\rhead{\textrmlf{Compiled }\#14529\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14580)}}    % original
+%\rhead{\textrmlf{Compiled }\#14580\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -351,7 +351,10 @@ adrenal, and the lung
 This expression is dynamically regulated during brain development and
 due to environmental stimuli. Despite much research into COMT
 regulation, the actual processes are still mostly unknown
-\href{https://pubmed.ncbi.nlm.nih.gov/21095457/}{citation}. Val158Met,
+\href{https://pubmed.ncbi.nlm.nih.gov/21095457/}{citation}. COMT has two
+promoters --- P2 functions constitutively, whereas P1 has tissue
+dependent regulation
+\href{https://pubmed.ncbi.nlm.nih.gov/8672242/}{citation}. Val158Met,
 also known as rs4680, is a common missense mutation swapping a guanine
 for an adenine. It has the frequency G=0.510915, and thus, A=0.489085.
 Val158Met causes the \emph{COMT} enzyme to be roughly 25\% as effective
@@ -409,6 +412,11 @@ https://pubmed.ncbi.nlm.nih.gov/21095457/
   Catechol-\emph{O}-Methyltransferase Gene: Its Regulation and
   Polymorphisms}
 \item
+  {[}Characterization of the rat catechol-O-methyltransferase gene
+  proximal promoter: identification of a nuclear protein-DNA interaction
+  that contributes to the tissue-specific regulation{]}
+  (https://pubmed.ncbi.nlm.nih.gov/8672242/)
+\item
   \href{https://www.hindawi.com/journals/dm/2020/8850859/}{Lack of
   Association between rs4680 Polymorphism in
   Catechol-O-Methyltransferase Gene and Alcohol Use Disorder: A
@@ -439,24 +447,40 @@ https://pubmed.ncbi.nlm.nih.gov/21095457/
 \emph{infographic time.}
 
 \begin{itemize}
-\tightlist
+\item
+  \textbf{Create an infographic that diagrams the various connections
+  between the gene/SNP genotypic variants and the known phenotypic
+  associations. This graphic should visually show the biological effects
+  of the gene/protein and studied genotypes on human traits/phenotypes.
+  It is also important to highlight the ways in which the environment
+  affects gene expression, protein function and/or phenotype (see the
+  example infographic for APOE below, which makes connections to diet
+  and traumatic brain injury). You can choose to visually organize
+  and/or lay out your graphic in a variety of formats, but make sure
+  that the following information is included:}
 \item
   info to include
 
   \begin{itemize}
   \tightlist
   \item
-    \textbf{Create an infographic that diagrams the various connections
-    between the gene/SNP genotypic variants and the known phenotypic
-    associations. This graphic should visually show the biological
-    effects of the gene/protein and studied genotypes on human
-    traits/phenotypes. It is also important to highlight the ways in
-    which the environment affects gene expression, protein function
-    and/or phenotype (see the example infographic for APOE below, which
-    makes connections to diet and traumatic brain injury). You can
-    choose to visually organize and/or lay out your graphic in a variety
-    of formats, but make sure that the following information is
-    included:}
+    \textbf{gene basics}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      reg
+
+      \begin{itemize}
+      \tightlist
+      \item
+        estrogen?
+      \end{itemize}
+    \end{itemize}
+  \item
+    \textbf{SNP variants to human phenotype relationships}
+  \item
+    \textbf{Gene-environment Interactions}
   \end{itemize}
 \end{itemize}
 
