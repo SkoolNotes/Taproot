@@ -94,7 +94,17 @@ https://pubmed.ncbi.nlm.nih.gov/21095457/
 			- P1: 
 				- tissue dependent, C/EBPalpha, ect.
 	- **SNP variants to human phenotype relationships**
+		- reduced COMT enzyme activity
+		- warrior worrier stuff
 	- **Gene-environment Interactions**
+		- above -> situations that better suite?
+		- gene / enviroment stuff? https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3447184/ 
+
+
+
+
+
+
 
 
 
