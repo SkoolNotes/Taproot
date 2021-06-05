@@ -65,7 +65,7 @@ https://pubmed.ncbi.nlm.nih.gov/21095457/
 - [Chromosomal mapping of the human catechol-O-methyltransferase gene to 22q11.1----q11.2](https://pubmed.ncbi.nlm.nih.gov/1572656/)
 - [Gene Expression -- NCBI COMT catechol-O-methyltransferase \[ _Homo sapiens_ (human) \]](https://www.ncbi.nlm.nih.gov/gene/1312#gene-expression)
 - [The Catechol-_O_\-Methyltransferase Gene: Its Regulation and Polymorphisms](https://pubmed.ncbi.nlm.nih.gov/21095457/)
-- [Characterization of the rat catechol-O-methyltransferase gene proximal promoter: identification of a nuclear protein-DNA interaction that contributes to the tissue-specific regulation] (https://pubmed.ncbi.nlm.nih.gov/8672242/)
+- [Characterization of the rat catechol-O-methyltransferase gene proximal promoter: identification of a nuclear protein-DNA interaction that contributes to the tissue-specific regulation](https://pubmed.ncbi.nlm.nih.gov/8672242/)
 - [Lack of Association between rs4680 Polymorphism in Catechol-O-Methyltransferase Gene and Alcohol Use Disorder: A Meta-Analysis](https://www.hindawi.com/journals/dm/2020/8850859/)
 - [Functional Analysis of Genetic Variation in Catechol-O-Methyltransferase (COMT): Effects on mRNA, Protein, and Enzyme Activity in Postmortem Human Brain](https://www.cell.com/ajhg/fulltext/S0002-9297(07)63786-0)
 - [Kinetics of human soluble and membrane-bound catechol O-methyltransferase: a revised mechanism and description of the thermolabile variant of the enzyme](https://pubmed.ncbi.nlm.nih.gov/7703232/)
@@ -83,8 +83,8 @@ https://pubmed.ncbi.nlm.nih.gov/21095457/
 
 - info to include
 	- **gene basics**
-		- yeah
-		- yeah
+		-   Gene info (gene size, location of SNP, SNP variants, SNP frequency)
+		-   Protein info (protein size, protein variants if known)
 		- reg
 			- estrogen?
 			- brain develpoment 
