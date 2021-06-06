@@ -9,7 +9,6 @@ source:  #index
 
 ---
 
-%%
 
 # SNP. Project. Write-up.
 
@@ -24,11 +23,11 @@ Resources:
 - function and regulation
 - SNP effect
 
-###### Writing!%%
+###### Writing!
 
 
-%%### Part One!%%
-%%
+### Part One!
+
 The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme which is responsible for breaking down neurotransmitters the brain's prefrontal cortex. More specifically, it acts as a catalyst for the transfer of a methyl group from S-adenosylmethionine to dopamine, epinephrine, and norepinephrine. This process, called O-methylation, leads to the degradation of the aforementioned neurotransmitters. The *COMT* enzyme also effects the metabolism of exogenous substances, but that is irrelevant for the mutation at hand [citation](https://www.ncbi.nlm.nih.gov/gene/1312). The *COMT* gene itself is 27.22kb long and located on chromosome 22q11.2 [citation](https://pubmed.ncbi.nlm.nih.gov/1572656/). It has ubiquitous expression in 27 tissues, including the placenta, the adrenal, and the lung [citation](https://www.ncbi.nlm.nih.gov/gene/1312#gene-expression). Val158Met, also known as rs4680, is a common missense mutation swapping a guanine for an adenine. It has the frequency G=0.510915, and thus, A=0.489085. Val158Met causes the *COMT* enzyme to be roughly 25% as effective compared to the wild type. Expression levels in mRNA, despite its reduced protein abundance, are not effected by Val158Met [citation](https://www.hindawi.com/journals/dm/2020/8850859/) & [citation](https://www.cell.com/ajhg/fulltext/S0002-9297(07)63786-0). Thus, Val158Met must be located in a protein-coding region causing the *COMT* enzyme to have lower protein integrity, explaining the discrepancy between mRNA expression and protein expression. This lower protein integrity is most likely manifested as diminished thermostability of the enzyme [citation](https://pubmed.ncbi.nlm.nih.gov/7703232/). The higher level effect of this reduced enzyme efficacy is greatly debated, and linked to many different phenotypes. At a broad level, lower *COMT* activity leads to higher levels of catecholamines in the prefrontal cortex. The actual effect of these increased levels are not well understood. One proposed theory is the Warrior versus Worrier hypothesis, which outlines two groups of personality traits based upon the Val158Met mutation [citation](https://pubmed.ncbi.nlm.nih.gov/17008817/). The "Warrior" group, defined as the wild type group with lower levels of catecholamines like dopamine, are said to have an advantage in processing aversive stimuli. They are also said to have higher pain tolerance, be less prone to stress, less exploratory, and ect. However, many of these claims are not well defined and bordering on pseudoscience [citation](https://selfdecode.com/snp/rs4680/). The "Worrier" group, those with the mutation, are said to have an advantage in memory and attention tasks [citation](https://pubmed.ncbi.nlm.nih.gov/17008817/). The Val158Met mutation has also been linked to schizophrenia, but this claim is debated [citation](https://pubmed.ncbi.nlm.nih.gov/32931693/).
 
 ---
@@ -45,7 +44,7 @@ The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme whic
 - [Warriors versus worriers: the role of COMT gene variants](https://pubmed.ncbi.nlm.nih.gov/17008817/)
 - [Self Decode rs4680](https://selfdecode.com/snp/rs4680/)
 - [The effect of rs1076560 (DRD2) and rs4680 (COMT) on tardive dyskinesia and cognition in schizophrenia subjects](https://pubmed.ncbi.nlm.nih.gov/32931693/)
-%%
+
 
 ### Feedback and revisions
 
@@ -76,10 +75,9 @@ The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme whic
 
 
 
-%%
-%%
-%%### Part Two!%%%%
-%%
+
+### Part Two!
+
 *infographic time.*
 
 - **Create an infographic that diagrams the various connections between the gene/SNP genotypic variants and the known phenotypic associations. This graphic should visually show the biological effects of the gene/protein and studied genotypes on human traits/phenotypes. It is also important to highlight the ways in which the environment affects gene expression, protein function and/or phenotype (see the example infographic for APOE below, which makes connections to diet and traumatic brain injury). You can choose to visually organize and/or lay out your graphic in a variety of formats, but make sure that the following information is included:**
@@ -105,13 +103,48 @@ The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme whic
 
 
 
-%%
 
 
 
 
 
-%%
-%%
+### Part *Three.*
+
+
+#### outlinin:
+prompt:
+In this section, you should try to provide some evolutionary insight on the SNP alleles that we see for your gene in the human population. You may focus on one particular allele if you see that it is better-researched. Using actual research into the evolution of the allele(s) and/or research about gene and gene variant functions, explain why/how the SNP allele(s) you studied were maintained in the human population (in over 1% of people studied). At some point the allele first appeared as a mutation but it subsequently spread into a relatively large proportion of people; why might that have been? 
+-   Although this section should be based on gene/SNP research and your understanding of evolution, your explanations may be somewhat speculative due to the difficulty in obtaining evidence for certain evolutionary predictions/hypotheses (because environmental pressures, migrations, and random events that influenced evolution likely happened long ago). That is okay; just show us that you’re using research-backed reasoning about your allele(s) and that you have an understanding of evolutionary mechanisms. 
+-   In terms of evolutionary mechanisms, you should be thinking about possible selective pressures that may have maintained certain alleles in the human population (and disfavored others). Note that evolution typically operates over long timescales, so the selective pressures that are most likely to have played a role were operating before civilizations, agriculture, etc (with some exceptions that may have evolved more “recently”, like lactase persistence, high-altitude adaptation, and disease resistances). 
+-   It’s also important to remember the possible contributions of mechanisms like gene flow and genetic drift in getting to the allele frequencies that we see today. It would be harder to detect whether/when these happened without complex analyses of sequences, but you can still acknowledge their possible impact and explain how these mechanisms operate.
+    
+allele: g -> a
+
+selection factors:
+
+
+research:
+
+> A comparison of human and mouse COMT confirms that the amino acid at the Val/Met locus is important for COMT activity and suggests that COMT activity has decreased during the course of evolution.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182110/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
