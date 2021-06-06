@@ -153,6 +153,23 @@ https://www.jstage.jst.go.jp/article/ase/121/3/121_130731/_html/-char/en
 
 
 
+#### We write.
+
+Not much is known about the evolution of the COMT\*L allele. In the sea of speculation, only two facts emerged: COMT activity has decreased during the course of recent evolution, and COMT\*L is a derived allele unique to humans [citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182110/) & [citation](https://www.jstage.jst.go.jp/article/ase/121/3/121_130731/_html/-char/en). For the following speculation, the phenotypes said to arise from different variations of the COMT gene will be assumed true. Speculating about evolution on the organism level is relatively straightforward: this organism evolved a patch of photosensitive skin so it could tell which way was up. This level of analysis breaks down when trying to explain altruism, and thus comes speculation on the gene level: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
