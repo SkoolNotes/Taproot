@@ -146,7 +146,9 @@ research:
 > A comparison of human and mouse COMT confirms that the amino acid at the Val/Met locus is important for COMT activity and suggests that COMT activity has decreased during the course of evolution.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182110/
 
+derived allele uniqe to humans
 
+https://www.jstage.jst.go.jp/article/ase/121/3/121_130731/_html/-char/en
 
 
 

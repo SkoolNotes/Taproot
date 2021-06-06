@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14770)}}    % original
-%\rhead{\textrmlf{Compiled }\#14770\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14790)}}    % original
+%\rhead{\textrmlf{Compiled }\#14790\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -589,5 +589,9 @@ Val/Met locus is important for COMT activity and suggests that COMT
 activity has decreased during the course of evolution.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182110/
 \end{quote}
+
+derived allele uniqe to humans
+
+https://www.jstage.jst.go.jp/article/ase/121/3/121\_130731/\_html/-char/en
 
 \end{document}
