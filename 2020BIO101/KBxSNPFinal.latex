@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14677)}}    % original
-%\rhead{\textrmlf{Compiled }\#14677\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14697)}}    % original
+%\rhead{\textrmlf{Compiled }\#14697\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -231,18 +231,15 @@ Outline
 
 Writing!\%\%
 
-\hypertarget{part-one}{%
-\subsubsection{Part One!}\label{part-one}}
-
-The \emph{COMT} gene, or catechol-O-methyltransferase, encodes the
-\emph{COMT} enzyme which is responsible for breaking down
-neurotransmitters the brain's prefrontal cortex. More specifically, it
-acts as a catalyst for the transfer of a methyl group from
-S-adenosylmethionine to dopamine, epinephrine, and norepinephrine. This
-process, called O-methylation, leads to the degradation of the
-aforementioned neurotransmitters. The \emph{COMT} enzyme also effects
-the metabolism of exogenous substances, but that is irrelevant for the
-mutation at hand
+\%\%\#\#\# Part One!\%\% \%\% The \emph{COMT} gene, or
+catechol-O-methyltransferase, encodes the \emph{COMT} enzyme which is
+responsible for breaking down neurotransmitters the brain's prefrontal
+cortex. More specifically, it acts as a catalyst for the transfer of a
+methyl group from S-adenosylmethionine to dopamine, epinephrine, and
+norepinephrine. This process, called O-methylation, leads to the
+degradation of the aforementioned neurotransmitters. The \emph{COMT}
+enzyme also effects the metabolism of exogenous substances, but that is
+irrelevant for the mutation at hand
 \href{https://www.ncbi.nlm.nih.gov/gene/1312}{citation}. The \emph{COMT}
 gene itself is 27.22kb long and located on chromosome 22q11.2
 \href{https://pubmed.ncbi.nlm.nih.gov/1572656/}{citation}. It has
@@ -323,7 +320,7 @@ is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
 \item
   \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{The effect of
   rs1076560 (DRD2) and rs4680 (COMT) on tardive dyskinesia and cognition
-  in schizophrenia subjects}
+  in schizophrenia subjects} \%\%
 \end{itemize}
 
 \hypertarget{feedback-and-revisions}{%
@@ -389,8 +386,6 @@ and attention tasks
 Val158Met mutation has also been linked to schizophrenia, but this claim
 is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
 
-https://pubmed.ncbi.nlm.nih.gov/21095457/
-
 \hypertarget{citations-1}{%
 \paragraph{Citations:}\label{citations-1}}
 
@@ -442,10 +437,7 @@ https://pubmed.ncbi.nlm.nih.gov/21095457/
   in schizophrenia subjects}
 \end{itemize}
 
-\hypertarget{part-two}{%
-\subsubsection{Part Two!}\label{part-two}}
-
-\emph{infographic time.}
+\%\% \%\% \%\%\#\#\# Part Two!\%\%\%\% \%\% \emph{infographic time.}
 
 \begin{itemize}
 \item
@@ -526,5 +518,9 @@ https://pubmed.ncbi.nlm.nih.gov/21095457/
     \end{itemize}
   \end{itemize}
 \end{itemize}
+
+\%\%
+
+\%\% \%\%
 
 \end{document}
