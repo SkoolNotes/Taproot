@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14848)}}    % original
-%\rhead{\textrmlf{Compiled }\#14848\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14880)}}    % original
+%\rhead{\textrmlf{Compiled }\#14880\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -609,6 +609,26 @@ different variations of the COMT gene will be assumed true. Speculating
 about evolution on the organism level is relatively straightforward:
 this organism evolved a patch of photosensitive skin so it could tell
 which way was up. This level of analysis breaks down when trying to
-explain altruism, and thus comes speculation on the gene level:
+explain altruism, and thus comes speculation on the gene level: these
+organisms evolved so they would ``lay down {[}their{]} life for two
+brothers or eight cousins'' - \emph{J.B.S. Haldane}. The evolution of
+COMT*L is not explained solely by either of these levels --- instead,
+its evolution operates on the population level.
+
+It can be assumed that given a constant environment without changing
+selection factors, their is an optimal mix of so called Warriors and
+Worriers. On top of the hypothetically constant selection pressures from
+the environment, the population itself creates its own selection
+pressures based upon the ratio of Warriors to Worriers. If there are too
+many Warriors, then a selection pressure favoring Worriers would arise,
+and vise versa, leading the population towards the optimal ratio of
+Warriors and Worriers. With heavy speculation, one could suggest that
+there exists a whole set of personality traits that are constantly being
+balanced across the population.
+
+Of course, environmental selection pressures are not constant. Hence,
+the question becomes, what type of environment shifts the optimal ratio
+of Warriors to Worriers? Thinking of evolution as a fitness landscape is
+a very useful
 
 \end{document}
