@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14965)}}    % original
-%\rhead{\textrmlf{Compiled }\#14965\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15003)}}    % original
+%\rhead{\textrmlf{Compiled }\#15003\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -202,14 +202,14 @@
 
 % DID YOU SET SPELL????
 
-\#ret \#incomplete
+\#ret \#ref
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{snp.-project.-write-up.}{%
-\section{SNP. Project. Write-up.}\label{snp.-project.-write-up.}}
+\hypertarget{snp-project-write-up}{%
+\section{SNP Project Write-up}\label{snp-project-write-up}}
 
-Resources: {[}{[}KBxSNPPCR{]}{]}
+\%\% Resources: {[}{[}KBxSNPPCR{]}{]}
 \href{https://docs.google.com/document/d/1SRQSvppoSJYlOfJvIKg3INx79Yzv5MmXcFcNG1-nIwE/edit}{Instructions}
 
 \hypertarget{init-planning}{%
@@ -229,8 +229,8 @@ Outline
 
 Writing!
 
-\hypertarget{part-one}{%
-\subsubsection{Part One!}\label{part-one}}
+\hypertarget{part-one-org}{%
+\subsubsection{Part One! org}\label{part-one-org}}
 
 The \emph{COMT} gene, or catechol-O-methyltransferase, encodes the
 \emph{COMT} enzyme which is responsible for breaking down
@@ -324,14 +324,18 @@ is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
   in schizophrenia subjects}
 \end{itemize}
 
-\hypertarget{feedback-and-revisions}{%
-\subsubsection{Feedback and revisions}\label{feedback-and-revisions}}
+\%\%
+
+\hypertarget{part-one}{%
+\subsubsection{Part One!}\label{part-one}}
+
+\%\% \#\#\# Feedback and revisions
 
 \begin{verbatim}
 This is looking good so far. It is based in solid research and you're clear about what's still unknown or uncertain. I'm noticing that you don't discuss any known regulators of COMT expression (transcription factors, environmental signals, etc). Try to work that in. If there are none reported, you can mention that in the write-up. I also think you can add a bit more clarity in the portion where you're discussing the integrity/stability of the mutant protein. You've said it leads to lower abundance. Is the decreased enzyme activity related direction to enzyme function or based on lower total abundance?
 \end{verbatim}
 
-The \emph{COMT} gene, or catechol-O-methyltransferase, encodes the
+\%\% The \emph{COMT} gene, or catechol-O-methyltransferase, encodes the
 \emph{COMT} enzyme which is responsible for breaking down
 neurotransmitters the brain's prefrontal cortex. More specifically, it
 acts as a catalyst for the transfer of a methyl group from
@@ -388,7 +392,7 @@ Val158Met mutation has also been linked to schizophrenia, but this claim
 is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
 
 \hypertarget{citations-1}{%
-\paragraph{Citations:}\label{citations-1}}
+\subparagraph{Citations:}\label{citations-1}}
 
 \emph{(order of appearance)}
 
@@ -438,10 +442,12 @@ is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
   in schizophrenia subjects}
 \end{itemize}
 
-\hypertarget{part-two}{%
-\subsubsection{Part Two!}\label{part-two}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\emph{infographic time.}
+\hypertarget{part-two}{%
+\subsubsection{Part Two}\label{part-two}}
+
+\%\% \emph{infographic time.}
 
 \begin{itemize}
 \item
@@ -523,24 +529,26 @@ is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
   \end{itemize}
 \end{itemize}
 
-\hypertarget{part-three.}{%
-\subsubsection{\texorpdfstring{Part
-\emph{Three.}}{Part Three.}}\label{part-three.}}
+\%\%
 
-\hypertarget{outlinin}{%
-\paragraph{outlinin:}\label{outlinin}}
+{[}{[}COMTVal158Metpt2it1.pdf{]}{]}
 
-prompt: In this section, you should try to provide some evolutionary
-insight on the SNP alleles that we see for your gene in the human
-population. You may focus on one particular allele if you see that it is
-better-researched. Using actual research into the evolution of the
-allele(s) and/or research about gene and gene variant functions, explain
-why/how the SNP allele(s) you studied were maintained in the human
-population (in over 1\% of people studied). At some point the allele
-first appeared as a mutation but it subsequently spread into a
-relatively large proportion of people; why might that have been? -
-Although this section should be based on gene/SNP research and your
-understanding of evolution, your explanations may be somewhat
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{part-three}{%
+\subsubsection{Part Three}\label{part-three}}
+
+\%\% \#\#\#\# outlinin: prompt: In this section, you should try to
+provide some evolutionary insight on the SNP alleles that we see for
+your gene in the human population. You may focus on one particular
+allele if you see that it is better-researched. Using actual research
+into the evolution of the allele(s) and/or research about gene and gene
+variant functions, explain why/how the SNP allele(s) you studied were
+maintained in the human population (in over 1\% of people studied). At
+some point the allele first appeared as a mutation but it subsequently
+spread into a relatively large proportion of people; why might that have
+been? - Although this section should be based on gene/SNP research and
+your understanding of evolution, your explanations may be somewhat
 speculative due to the difficulty in obtaining evidence for certain
 evolutionary predictions/hypotheses (because environmental pressures,
 migrations, and random events that influenced evolution likely happened
@@ -594,11 +602,10 @@ derived allele uniqe to humans
 
 https://www.jstage.jst.go.jp/article/ase/121/3/121\_130731/\_html/-char/en
 
-\hypertarget{we-write.}{%
-\paragraph{We write.}\label{we-write.}}
+\%\%
 
 Not much is known about the evolution of the COMT*L allele. In the sea
-of speculation, only two facts emerged: COMT activity has decreased
+of speculation, only two facts emerge: COMT activity has decreased
 during the course of recent evolution, and COMT*L is a derived allele
 unique to humans
 \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182110/}{citation}
@@ -608,20 +615,20 @@ For the following speculation, the phenotypes said to arise from
 different variations of the COMT gene will be assumed true. Speculating
 about evolution on the organism level is relatively straightforward:
 this organism evolved a patch of photosensitive skin so it could tell
-which way was up. This level of analysis breaks down when trying to
-explain altruism, and thus comes speculation on the gene level: these
-organisms evolved so they would ``lay down {[}their{]} life for two
-brothers or eight cousins'' - \emph{J.B.S. Haldane}. The evolution of
-COMT*L is not explained solely by either of these levels --- instead,
-its evolution operates on the population level.
+which way was up. However, this level of analysis breaks down when
+trying to explain altruism, and thus comes speculation on the gene
+level: these organisms evolved so they would ``lay down {[}their{]} life
+for two brothers or eight cousins'' - \emph{J.B.S. Haldane}. The
+evolution of COMT*L is not explained solely by either of these levels
+--- instead, its evolution operates on the population level.
 
 It can be assumed that given a constant environment without changing
-selection factors, their is an optimal mix of so called Warriors and
+selection factors, there is an optimal mix of so called Warriors and
 Worriers. On top of the hypothetically constant selection pressures from
 the environment, the population itself creates its own selection
 pressures based upon the ratio of Warriors to Worriers. If there are too
 many Warriors, then a selection pressure favoring Worriers would arise,
-and vise versa, leading the population towards the optimal ratio of
+and vice versa, leading the population towards the optimal ratio of
 Warriors and Worriers. With heavy speculation, one could suggest that
 there exists a whole set of personality traits that are constantly being
 balanced across the population.
@@ -633,11 +640,11 @@ evolution in terms of a fitness landscape. An organism can be stuck in a
 local minima and require some large mutation to jump out of it.
 Disregarding genetic drift, the only other mutations that would persist
 would be ones leading the species to the bottom of the local minima. In
-recent years, the theory of evolution has been extended into axis beyond
+recent years, the theory of evolution has been extended into axes beyond
 just the organism itself. A good book on the topic is
 \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1265888/}{Evolution
 in four dimensions: \emph{Genetic, epigenetic, behavioral, and symbolic
-variation in the history of life}}. Each of these axis have their own
+variation in the history of life}}. Each of these axes have their own
 fitness landscape associated with them. We can imagine an axis called,
 for lack of a better term, technological. This axis could include, of
 course, technology, but also human action and innovation. For example,
@@ -657,12 +664,13 @@ sometimes work for very complex problems. An Epsilon-Greedy algorithm is
 often used when dealing with unknown probability distributions, like
 trying to navigate an unknown fitness landscape. It acts just like a
 normal Greedy algorithm, except for some epsilon amount of time where it
-explores. Figuring out the value of this epsilon is a massive problem in
-computer science. In this case, Warriors would be the ones best suited
-for carrying out the normal Greedy function, and the Worriers would be
-the epsilon. Thus, when the population is still catching up to the
-limits of the current strategy --- when times are good --- Warriors will
-do better. When a new strategy is needed, Worriers will be needed.
+explores instead of carrying out the current best action. Figuring out
+the optimal value of this epsilon is a massive problem in computer
+science. In this case, Warriors would be the ones best suited for
+carrying out the normal Greedy function, and the Worriers would be the
+epsilon. Thus, when the population is still catching up to the limits of
+the current strategy --- when times are good --- Warriors will do
+better. When a new strategy is needed, Worriers will be needed.
 
 However, the fact that COMT activity has been decreasing over time is
 still not explained. I would propose that this decrease is due to the
@@ -672,8 +680,97 @@ the adjacent possible --- that which is almost achievable. As the
 possible grows, the adjacent possible grows faster. As the possible
 expands, the adjacent possible becomes much larger. As the adjacent
 possible becomes larger, there becomes more local minima to jump out of,
-and thus, the ratio of Warriors and Worriers shifts to more Worriers. Of
-course, this is all speculation, but until the circle of the possible
-grows larger, that is all we can do.
+and thus, the optimal ratio of Warriors and Worriers shifts to more
+Worriers. Of course, this is all speculation, but until the circle of
+possible grows larger, that is all we can do.
+
+\hypertarget{citations-2}{%
+\subparagraph{Citations}\label{citations-2}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182110/}{Functional
+  Analysis of Genetic Variation in Catechol-O-Methyltransferase
+  (\emph{COMT}): Effects on mRNA, Protein, and Enzyme Activity in
+  Postmortem Human Brain}
+\item
+  \href{https://www.jstage.jst.go.jp/article/ase/121/3/121_130731/_html/-char/en}{Correlation
+  of the COMT Val158Met polymorphism with latitude and a hunter-gather
+  lifestyle suggests culture--gene coevolution and selective pressure on
+  cognition genes due to climate}
+\item
+  \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1265888/}{Evolution
+  in four dimensions: \emph{Genetic, epigenetic, behavioral, and
+  symbolic variation in the history of life}}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{part-four-combined-citations}{%
+\subsubsection{Part Four: Combined
+Citations}\label{part-four-combined-citations}}
+
+\emph{(order of appearance)}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.ncbi.nlm.nih.gov/gene/1312}{NCBI COMT
+  catechol-O-methyltransferase {[} \emph{Homo sapiens} (human) {]}}
+\item
+  \href{https://pubmed.ncbi.nlm.nih.gov/1572656/}{Chromosomal mapping of
+  the human catechol-O-methyltransferase gene to 22q11.1----q11.2}
+\item
+  \href{https://www.ncbi.nlm.nih.gov/gene/1312\#gene-expression}{Gene
+  Expression -- NCBI COMT catechol-O-methyltransferase {[} \emph{Homo
+  sapiens} (human) {]}}
+\item
+  \href{https://pubmed.ncbi.nlm.nih.gov/21095457/}{The
+  Catechol-\emph{O}-Methyltransferase Gene: Its Regulation and
+  Polymorphisms}
+\item
+  \href{https://pubmed.ncbi.nlm.nih.gov/8672242/}{Characterization of
+  the rat catechol-O-methyltransferase gene proximal promoter:
+  identification of a nuclear protein-DNA interaction that contributes
+  to the tissue-specific regulation}
+\item
+  \href{https://www.hindawi.com/journals/dm/2020/8850859/}{Lack of
+  Association between rs4680 Polymorphism in
+  Catechol-O-Methyltransferase Gene and Alcohol Use Disorder: A
+  Meta-Analysis}
+\item
+  \href{https://www.cell.com/ajhg/fulltext/S0002-9297(07)63786-0}{Functional
+  Analysis of Genetic Variation in Catechol-O-Methyltransferase (COMT):
+  Effects on mRNA, Protein, and Enzyme Activity in Postmortem Human
+  Brain}
+\item
+  \href{https://pubmed.ncbi.nlm.nih.gov/7703232/}{Kinetics of human
+  soluble and membrane-bound catechol O-methyltransferase: a revised
+  mechanism and description of the thermolabile variant of the enzyme}
+\item
+  \href{https://pubmed.ncbi.nlm.nih.gov/17008817/}{Warriors versus
+  worriers: the role of COMT gene variants}
+\item
+  \href{https://selfdecode.com/snp/rs4680/}{Self Decode rs4680}
+\item
+  \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{The effect of
+  rs1076560 (DRD2) and rs4680 (COMT) on tardive dyskinesia and cognition
+  in schizophrenia subjects}
+\item
+  \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182110/}{Functional
+  Analysis of Genetic Variation in Catechol-O-Methyltransferase
+  (\emph{COMT}): Effects on mRNA, Protein, and Enzyme Activity in
+  Postmortem Human Brain}
+\item
+  \href{https://www.jstage.jst.go.jp/article/ase/121/3/121_130731/_html/-char/en}{Correlation
+  of the COMT Val158Met polymorphism with latitude and a hunter-gather
+  lifestyle suggests culture--gene coevolution and selective pressure on
+  cognition genes due to climate}
+\item
+  \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1265888/}{Evolution
+  in four dimensions: \emph{Genetic, epigenetic, behavioral, and
+  symbolic variation in the history of life}}
+\end{itemize}
 
 \end{document}
