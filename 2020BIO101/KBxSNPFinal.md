@@ -122,6 +122,24 @@ allele: g -> a
 
 selection factors:
 
+population makes it's own selection factors
+	need for warrior / worrier
+	
+organism, gene, population
+
+greedy epsilon, worrier as epsilon
+
+evolution on multiple levels
+like genetic, epigenetic, symbolic, cultural, ect
+
+fitness landscapes of organisms but also of tech
+
+
+
+worriers are better for jumping out of local minima
+warriors are better for carrying out the best strategy
+
+perhaps a collection of personality-ish traits that are all being balanced
 
 research:
 
