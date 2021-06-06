@@ -1,1 +1,2 @@
-        Log for attempt at Sun Jun  6 03:19:01 PM PDT 2021 (14912)
+        Log for attempt at Sun Jun  6 03:37:23 PM PDT 2021 (14944)
+        Sun Jun  6 03:37:23 PM PDT 2021 Converting 2020BIO101/KBxSNPFinal.md...
