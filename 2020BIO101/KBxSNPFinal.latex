@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14880)}}    % original
-%\rhead{\textrmlf{Compiled }\#14880\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14889)}}    % original
+%\rhead{\textrmlf{Compiled }\#14889\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -628,7 +628,10 @@ balanced across the population.
 
 Of course, environmental selection pressures are not constant. Hence,
 the question becomes, what type of environment shifts the optimal ratio
-of Warriors to Worriers? Thinking of evolution as a fitness landscape is
-a very useful
+of Warriors to Worriers? To answer this question, one must think of
+evolution in terms of a fitness landscape. An organism can be stuck in a
+local minima and require some large mutation to jump out of it.
+Disregarding genetic drift, the only other mutations that would persist
+would be ones leading the species to the bottom of the local minima.
 
 \end{document}

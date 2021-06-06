@@ -159,7 +159,7 @@ Not much is known about the evolution of the COMT\*L allele. In the sea of specu
 
 It can be assumed that given a constant environment without changing selection factors, their is an optimal mix of so called Warriors and Worriers. On top of the hypothetically constant selection pressures from the environment, the population itself creates its own selection pressures based upon the ratio of Warriors to Worriers. If there are too many Warriors, then a selection pressure favoring Worriers would arise, and vise versa, leading the population towards the optimal ratio of Warriors and Worriers. With heavy speculation, one could suggest that there exists a whole set of personality traits that are constantly being balanced across the population. 
 
-Of course, environmental selection pressures are not constant. Hence, the question becomes, what type of environment shifts the optimal ratio of Warriors to Worriers? Thinking of evolution as a fitness landscape is a very useful 
+Of course, environmental selection pressures are not constant. Hence, the question becomes, what type of environment shifts the optimal ratio of Warriors to Worriers? To answer this question, one must think of evolution in terms of a fitness landscape. An organism can be stuck in a local minima and require some large mutation to jump out of it. Disregarding genetic drift, the only other mutations that would persist would be ones leading the species to the bottom of the local minima. In recent years, the theory of evolution has been extended into axis beyond just 
 
 
 
