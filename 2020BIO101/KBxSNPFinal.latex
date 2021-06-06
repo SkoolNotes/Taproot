@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14944)}}    % original
-%\rhead{\textrmlf{Compiled }\#14944\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14965)}}    % original
+%\rhead{\textrmlf{Compiled }\#14965\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -657,9 +657,23 @@ sometimes work for very complex problems. An Epsilon-Greedy algorithm is
 often used when dealing with unknown probability distributions, like
 trying to navigate an unknown fitness landscape. It acts just like a
 normal Greedy algorithm, except for some epsilon amount of time where it
-explores. Figuring out the value of this epsilon is a massive problem is
+explores. Figuring out the value of this epsilon is a massive problem in
 computer science. In this case, Warriors would be the ones best suited
 for carrying out the normal Greedy function, and the Worriers would be
-the epsilon.
+the epsilon. Thus, when the population is still catching up to the
+limits of the current strategy --- when times are good --- Warriors will
+do better. When a new strategy is needed, Worriers will be needed.
+
+However, the fact that COMT activity has been decreasing over time is
+still not explained. I would propose that this decrease is due to the
+expansion of the adjacent possible. If one imagines the realm of all
+that is currently possible as a circle, a ring outside of that circle is
+the adjacent possible --- that which is almost achievable. As the
+possible grows, the adjacent possible grows faster. As the possible
+expands, the adjacent possible becomes much larger. As the adjacent
+possible becomes larger, there becomes more local minima to jump out of,
+and thus, the ratio of Warriors and Worriers shifts to more Worriers. Of
+course, this is all speculation, but until the circle of the possible
+grows larger, that is all we can do.
 
 \end{document}
