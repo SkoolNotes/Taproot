@@ -106,9 +106,9 @@ The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme whic
 
 
 %%
-
-
-![[COMTVal158Metpt2it1.pdf]]
+Submitted in a separate file. You can also check it out linked [here](https://www.figma.com/file/CADCiIWAFlqyFZu0Qayj62/COMT?node-id=0%3A1).
+%%![[Letter - 1 (1).jpg]]%%
+%%![[COMTVal158Metpt2it1.pdf]]%%
 
 ---
 
