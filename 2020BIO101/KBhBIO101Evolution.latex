@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15233)}}    % original
-%\rhead{\textrmlf{Compiled }\#15233\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15289)}}    % original
+%\rhead{\textrmlf{Compiled }\#15289\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -359,11 +359,23 @@ Flow}\label{genetic-drift-gene-flow}}
   Allele frequencies change based on random chance or events
 \end{itemize}
 
-Random bottlenecks (like, colonization) cause the next generation to
-randomly have a large alleal that's not at all competitive.
+Random bottlenecks (like, colonization, a typhoon) cause the next
+generation to randomly have a large alleal that's not at all
+competitive.
 
 \textbf{Gene Flow} Movement/migration of one individual with a dominante
 gene over takes the others/change genetic makeup.
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Genetic Drift}: one-way movement from larger population to
+  unestablished population causes (even recessive) genes to multiply
+\item
+  \textbf{Gene Flow}: potential for two-way movement in well-established
+  communities affecting population alleales (mostly dominant) by making
+  babies
+\end{itemize}
 
 \hypertarget{mutations}{%
 \subsubsection{Mutations}\label{mutations}}
@@ -388,7 +400,7 @@ When does many many mutations build up into one new species?
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Establishing a barrier to gene flow
+  Establishing a barrier to gene flow (like, a large ocean)
 \item
   Genetic divergence accumulation until reproductive seperation
 \end{enumerate}

@@ -96,10 +96,13 @@ This could also produce harmful results (looking good also attracts predators.)
 - Traits are not selected because they are beneficial against environmental pressures
 - Allele frequencies change based on random chance or events
 
-Random bottlenecks (like, colonization) cause the next generation to randomly have a large alleal that's not at all competitive.
+Random bottlenecks (like, colonization, a typhoon) cause the next generation to randomly have a large alleal that's not at all competitive.
 
 **Gene Flow**
 Movement/migration of one individual with a dominante gene over takes the others/change genetic makeup.
+
+- **Genetic Drift**: one-way movement from larger population to unestablished population causes (even recessive) genes to multiply
+- **Gene Flow**: potential for two-way movement in well-established communities affecting population alleales (mostly dominant) by making babies
 
 ### Mutations
 [[KBhBIO101Mutations]]
@@ -114,7 +117,7 @@ A chuwawa + saint-benard mix.
 ## Speciation
 When does many many mutations build up into one new species?
 
-1. Establishing a barrier to gene flow
+1. Establishing a barrier to gene flow (like, a large ocean)
 2. Genetic divergence accumulation until reproductive seperation
 
 Variation => Natural Selection => Evolution => Speciation
