@@ -121,6 +121,6 @@ Variation => Natural Selection => Evolution => Speciation
 
 ***
 
-**Fitness**: "how many offsprings can this organism reproduce and pass its DNA to?"
+**Fitness**: "how many offsprings can this organism reproduce and pass its DNA to?"  Evolution can take place when natural selection has occurred.
 
-Evolution can take place when natural selection has occurred.
+You could also create traits that's non benificial and gets weeded out.

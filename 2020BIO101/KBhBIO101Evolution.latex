@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15210)}}    % original
-%\rhead{\textrmlf{Compiled }\#15210\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15233)}}    % original
+%\rhead{\textrmlf{Compiled }\#15233\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -399,8 +399,9 @@ Variation =\textgreater{} Natural Selection =\textgreater{} Evolution
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \textbf{Fitness}: ``how many offsprings can this organism reproduce and
-pass its DNA to?''
+pass its DNA to?'' Evolution can take place when natural selection has
+occurred.
 
-Evolution can take place when natural selection has occurred.
+You could also create traits that's non benificial and gets weeded out.
 
 \end{document}
