@@ -118,3 +118,9 @@ When does many many mutations build up into one new species?
 2. Genetic divergence accumulation until reproductive seperation
 
 Variation => Natural Selection => Evolution => Speciation
+
+***
+
+**Fitness**: "how many offsprings can this organism reproduce and pass its DNA to?"
+
+Evolution can take place when natural selection has occurred.
