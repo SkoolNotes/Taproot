@@ -45,3 +45,4 @@ source: #index
 * [[KBhISOS101StoryResearch]]
 * [[KBhISOSAIEthics]]
 * [[KBxISOSMLPrivacy]]
+* [[KBxSOMWithAPerspective]]
