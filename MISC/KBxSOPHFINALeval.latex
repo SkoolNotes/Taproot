@@ -137,8 +137,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ NUV201 }
+\newcommand{\thelesson}{ Final self evals }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -151,12 +151,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15329)}}    % original
-%\rhead{\textrmlf{Compiled }\#15329\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15359)}}    % original
+%\rhead{\textrmlf{Compiled }\#15359\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -202,12 +202,113 @@
 
 % DID YOU SET SPELL????
 
-\#flo \#ref \#ret \#disorganized \#incomplete
+\#ret \#disorganized \#incomplete
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-{[}{[}KB20201March{]}{]}
+\hypertarget{isos}{%
+\subsection{ISOS}\label{isos}}
 
-{[}{[}KBxSOPHFINALeval{]}{]}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\tightlist
+\item
+  Think back on the three different projects you did this term: your
+  history of science presentation, story of science, and ethical issues
+  roundtable. Which are you proudest of, and why?
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii})}
+  \tightlist
+  \item
+    I am most proud of our history of science presentation. We decided
+    to do something different, something completely out of all of our
+    comfort zones, and we pulled it off. I learned a lot, got an
+    entirely new experience, and people in class loved it.
+  \end{enumerate}
+\item
+  Is there a habit of learning/habit of mind/student skill that this
+  term in ISOS made you want to improve in yourself
+  (e.g.~procrastination, using work periods, participating in
+  discussion, focusing on class, note-taking, chunking out projects)?
+  (Be kind to yourself! It's been a hard year, and learning/growing as a
+  scholar is a life-long process.)
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii})}
+  \tightlist
+  \item
+    Organizing outside of class meeting time and group work is
+    especially hard in the purely digital world. This is a skill that is
+    new to me, but I expect to have to use a lot more in our
+    increasingly technological reality. Thus, I would like to improve
+    it.
+  \end{enumerate}
+\item
+  How might you apply what you learned in ISOS this year (considering
+  both fall and spring) to being a scientist in your science classes or
+  to using scientific information to make informed choices as a citizen?
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii})}
+  \tightlist
+  \item
+    Learning about the extent of p-hacking was quite startling for me. I
+    will definitely take it into account when ingesting scientific
+    information in the future.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{japanese}{%
+\subsection{Japanese}\label{japanese}}
+
+Please reflect on your learning this past semester in the following
+areas.~ Write a few sentences for each question (\#1-3).~ You don't have
+to answer all the sub-questions; they are just suggestions.~ Please
+answer in English.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\tightlist
+\item
+  Highlights
+\end{enumerate}
+
+What were some of the highlights for you in Japanese this semester?~
+What work are you most proud of?~ What have you learned this semester?~
+How have you grown this semester, either academically or personally?
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  Challenges
+\end{enumerate}
+
+What area(s) challenged you the most this semester?~ How did you deal
+with these challenges?~ What can you do to improve in these areas?~ What
+can I do to help you improve?
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  Goals
+\end{enumerate}
+
+What were your goals for this semester?~ What are your goals for next
+semester?~ What topics or skills do you want to study next semester?~
+What are your long-term goals in Japanese?~ How can I help you reach
+those goals?
+
+Do you have any other questions, comments, or requests for me?
+
+皆さん、今学期（こんがっき）は大変（たいへん）お疲れ様（つかれさま）でした。待ちに待った夏休みを楽しんでください。また来年、それともまたね。
+
+Thank you for your heroic work this semester!~ Enjoy your well-deserved
+summer vacation.~ See you next year or---for those of you who are
+graduating---hope to see you again soon.
 
 \end{document}
