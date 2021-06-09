@@ -43,8 +43,9 @@ One of the most challenging projects for me this semester was the Doshisha Pen P
 
 What were your goals for this semester?  What are your goals for next semester?  What topics or skills do you want to study next semester?  What are your long-term goals in Japanese?  How can I help you reach those goals?
 
+
+My goal this semester was to try and become more 'fluent,' in the sense that the barrier between meaning and sentence in Japanese is reduced. I definitely feel like I achieved this, but I also feel like I increased the complexity of the sentences, and thus meaning, I am able to communicate. For next semester, I want to get better at speaking 
+
+
 Do you have any other questions, comments, or requests for me?
 
-皆さん、今学期（こんがっき）は大変（たいへん）お疲れ様（つかれさま）でした。待ちに待った夏休みを楽しんでください。また来年、それともまたね。
-
-Thank you for your heroic work this semester!  Enjoy your well-deserved summer vacation.  See you next year or—for those of you who are graduating—hope to see you again soon.
