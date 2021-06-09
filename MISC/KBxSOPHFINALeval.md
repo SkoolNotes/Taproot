@@ -22,9 +22,8 @@ source:  #index
 3) How might you apply what you learned in ISOS this year (considering both fall and spring) to being a scientist in your science classes or to using scientific information to make informed choices as a citizen?
 	1) Learning about the extent of p-hacking was quite startling for me. I will definitely take it into account when ingesting scientific information in the future.
 
+
 ## Japanese
-
-
 Please reflect on your learning this past semester in the following areas.  Write a few sentences for each question (#1-3).  You don’t have to answer all the sub-questions; they are just suggestions.  Please answer in English.
 
 1) Highlights
