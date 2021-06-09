@@ -64,7 +64,7 @@ My goal this semester was to try and become more 'fluent,' in the sense that the
 	-   Another large challenge was dealing with the many paywalls when doing research, which I do not have a solution for yet.
 
 -   Brainstorm what you could do to keep improving.
-	-   Of course, though not an interesting answer, practicing will help me improve. In fact, it already has. More specifically, I want to get better at tailoring my search engine searches to the information I want to get. I also found that crawling through linked sources of helpful articles often led to more helpful articles.
+	-   Of course, though not an interesting answer, practicing will help me improve. In fact, it already has. More specifically, I want to get better at tailoring my search engine searches to the information I want to get. I also found that crawling through linked sources of helpful articles often led to more helpful articles, which is a strategy I undervalued in the past. I want to practice this more as well.
 
 
 
