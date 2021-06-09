@@ -66,11 +66,20 @@ My goal this semester was to try and become more 'fluent,' in the sense that the
 -   Brainstorm what you could do to keep improving.
 	-   Of course, though not an interesting answer, practicing will help me improve. In fact, it already has. More specifically, I want to get better at tailoring my search engine searches to the information I want to get. I also found that crawling through linked sources of helpful articles often led to more helpful articles, which is a strategy I undervalued in the past. I want to practice this more as well.
 
+## ML
 
+Please write 1-2 sentences per question, or as much as you need to answer the question.
 
+Do not write your answers in the school website! If you reload the page by accident, your work is gone. Write them in Docs or Word or your favorite text editor and then copy them in.
 
+#### Questions
 
-
+1.  Share an example of a difficult problem you solved in one of your projects.
+	1.  During one of our first assignments, the CNN exploration, I thought it would be interesting to try and detect a gradient with manual filter setup. I coundn't figure out a good way to do this given the constraints of the assignment. After struggling for a while, I enventually came 
+2.  Of the concepts we discussed, which one(s) did you find most interesting or useful, and why?
+3.  What concepts did you find most challenging, and why?
+4.  What are some ways that you displayed good habits of mind or contributed to a good learning environment in the class?
+5.  What was the most useful or memorable piece of feedback you received this semester, and how did you act on it?
 
 
 

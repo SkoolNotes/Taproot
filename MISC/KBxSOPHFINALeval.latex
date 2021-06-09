@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15681)}}    % original
-%\rhead{\textrmlf{Compiled }\#15681\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15744)}}    % original
+%\rhead{\textrmlf{Compiled }\#15744\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -415,5 +415,48 @@ consistently.
     well.
   \end{itemize}
 \end{itemize}
+
+\hypertarget{ml}{%
+\subsection{ML}\label{ml}}
+
+Please write 1-2 sentences per question, or as much as you need to
+answer the question.
+
+Do not write your answers in the school website! If you reload the page
+by accident, your work is gone. Write them in Docs or Word or your
+favorite text editor and then copy them in.
+
+\hypertarget{questions}{%
+\paragraph{Questions}\label{questions}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Share an example of a difficult problem you solved in one of your
+  projects.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    During one of our first assignments, the CNN exploration, I thought
+    it would be interesting to try and detect a gradient with manual
+    filter setup. I coundn't figure out a good way to do this given the
+    constraints of the assignment. After struggling for a while, I
+    enventually came
+  \end{enumerate}
+\item
+  Of the concepts we discussed, which one(s) did you find most
+  interesting or useful, and why?
+\item
+  What concepts did you find most challenging, and why?
+\item
+  What are some ways that you displayed good habits of mind or
+  contributed to a good learning environment in the class?
+\item
+  What was the most useful or memorable piece of feedback you received
+  this semester, and how did you act on it?
+\end{enumerate}
 
 \end{document}
