@@ -31,11 +31,13 @@ Please reflect on your learning this past semester in the following areas.  Wri
 
 What were some of the highlights for you in Japanese this semester?  What work are you most proud of?  What have you learned this semester?  How have you grown this semester, either academically or personally?
 
-The work I was most proud of this semester was my Travel Project on Beppu. I felt like I could actually use Japanese to communicate my research and knowledge. Sometimes in language classes it's easy to get caught up in individual forms or sentence structures, 
+The work I was most proud of this semester was my Travel Project on Beppu. I felt like I could actually use Japanese to communicate my research and knowledge. Sometimes in language classes it's easy to get caught up in individual forms or sentence structures; during the Travel Project I got a chance to take a step back and use everything I've learned this semester together.
 
 2) Challenges
 
 What area(s) challenged you the most this semester?  How did you deal with these challenges?  What can you do to improve in these areas?  What can I do to help you improve?
+
+
 
 3) Goals
 
