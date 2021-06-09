@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15361)}}    % original
-%\rhead{\textrmlf{Compiled }\#15361\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15486)}}    % original
+%\rhead{\textrmlf{Compiled }\#15486\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -259,6 +259,8 @@
   \end{enumerate}
 \end{enumerate}
 
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
 \hypertarget{japanese}{%
 \subsection{Japanese}\label{japanese}}
 
@@ -277,6 +279,11 @@ answer in English.
 What were some of the highlights for you in Japanese this semester?~
 What work are you most proud of?~ What have you learned this semester?~
 How have you grown this semester, either academically or personally?
+
+The work I was most proud of this semester was my Travel Project on
+Beppu. I felt like I could actually use Japanese to communicate my
+research and knowledge. Sometimes in language classes it's easy to get
+caught up in individual forms or sentence structures,
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi})}
