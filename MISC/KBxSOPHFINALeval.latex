@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15775)}}    % original
-%\rhead{\textrmlf{Compiled }\#15775\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15800)}}    % original
+%\rhead{\textrmlf{Compiled }\#15800\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -465,7 +465,7 @@ favorite text editor and then copy them in.
     word still blows my mind.
   \end{enumerate}
 \item
-  What concepts did you find most challenging, and why?
+  \emph{What concepts did you find most challenging, and why?}
 
   \begin{enumerate}
   \def\labelenumii{\arabic{enumii}.}
@@ -475,14 +475,31 @@ favorite text editor and then copy them in.
     certainly a challenge. LSTM Networks have very complex architecture,
     and while I understand the abstract concepts, understanding all the
     smaller level components and extrapolating value from small
-    component level variation
+    component level variation is still something I struggle with.
   \end{enumerate}
 \item
-  What are some ways that you displayed good habits of mind or
-  contributed to a good learning environment in the class?
+  \emph{What are some ways that you displayed good habits of mind or
+  contributed to a good learning environment in the class?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    ML is something I'm genuinely very interested in, and I think / hope
+    that shows in my habits and work. While we don't have a lot of
+    non-breakout-room-in-class time, when we do I try to contribute to
+    discussions by asking questions which generally turn out to be
+    strange-ish or question assumptions.
+  \end{enumerate}
 \item
   What was the most useful or memorable piece of feedback you received
   this semester, and how did you act on it?
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+  \end{enumerate}
 \end{enumerate}
 
 \end{document}

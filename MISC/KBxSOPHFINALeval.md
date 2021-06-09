@@ -80,12 +80,15 @@ Do not write your answers in the school website! If you reload the page by accid
 2.  *Of the concepts we discussed, which one(s) did you find most interesting or useful, and why?*
 	1.  The concept of word vectors was incredibly cool to me. It's amazing that we can mathematically represent natural language, and meaning, with ML. Just the concept of being to subtract a word from another word still blows my mind.
 
-3.  What concepts did you find most challenging, and why?
-	1.  Trying to wrap my head around how exactly LSTM Networks work was certainly a challenge. LSTM Networks have very complex architecture, and while I understand the abstract concepts, understanding all the smaller level components and extrapolating value from small component level variation 
+3.  *What concepts did you find most challenging, and why?*
+	1.  Trying to wrap my head around how exactly LSTM Networks work was certainly a challenge. LSTM Networks have very complex architecture, and while I understand the abstract concepts, understanding all the smaller level components and extrapolating value from small component level variation is still something I struggle with.
 
 
-5.  What are some ways that you displayed good habits of mind or contributed to a good learning environment in the class?
+5. *What are some ways that you displayed good habits of mind or contributed to a good learning environment in the class?*
+	1. ML is something I'm genuinely very interested in, and I think / hope that shows in my habits and work. While we don't have a lot of non-breakout-room-in-class time, when we do I try to contribute to discussions by asking questions which generally turn out to be strange-ish or question assumptions. 
+
 6.  What was the most useful or memorable piece of feedback you received this semester, and how did you act on it?
+	1.  
 
 
 
