@@ -37,7 +37,7 @@ The work I was most proud of this semester was my Travel Project on Beppu. I fel
 
 What area(s) challenged you the most this semester?  How did you deal with these challenges?  What can you do to improve in these areas?  What can I do to help you improve?
 
-
+One of the most challenging projects for me this semester was the Doshisha Pen Pal E-mail assignment. It felt like one of the first "real world" assignments we did this year. To improve, I want to start using Japanese more in daily life. 
 
 3) Goals
 
