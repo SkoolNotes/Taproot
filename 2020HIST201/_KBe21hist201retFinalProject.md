@@ -19,3 +19,31 @@ title: History final project
 ## repair prevention seals + screws
 
 ## repair preventaion construction (hard to access batteries)
+
+# iphone
+
+## percieved obselescence
+
+### \"embrace the notch\"
+
+### repeated changes to bezels
+
+### repeated changes to camera configuration
+
+### repeated changes to colors
+
+## programmed obselescence
+
+### dropping support
+
+### bloatware
+
+## repair prevention
+
+### seals (glue)
+
+### Tri-point screw + pentalobe screw
+
+### battery replacement/integration
+
+### glued and hard-to-access connectors
