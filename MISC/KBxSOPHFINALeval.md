@@ -4,13 +4,9 @@ context: NUV201
 author:  Huxley
 source:  #index
 ---
-
 #ret  #disorganized #incomplete
 
 ---
-
-
-
 
 ## ISOS
 1) Think back on the three different projects you did this term: your history of science presentation, story of science, and ethical issues roundtable. Which are you proudest of, and why?
@@ -73,26 +69,33 @@ Please write 1-2 sentences per question, or as much as you need to answer the qu
 Do not write your answers in the school website! If you reload the page by accident, your work is gone. Write them in Docs or Word or your favorite text editor and then copy them in.
 
 #### Questions
-
 1.  *Share an example of a difficult problem you solved in one of your projects.*
 	1.  During one of our first assignments, the CNN exploration, I thought it would be interesting to try and detect a gradient with manual filter setup. I coundn't figure out a good way to do this given the constraints of the assignment. After struggling for a while, I eventually came to a "solution" where I would value the bottom right more and the top left less, so given a gradient going the right direction it would cancel itself out and return a positive value; however, this was not a very good solution. I would like to revisit the problem and work with more layers to try and get it working.
 
+---
+
 2.  *Of the concepts we discussed, which one(s) did you find most interesting or useful, and why?*
-	1.  The concept of word vectors was incredibly cool to me. It's amazing that we can mathematically represent natural language, and meaning, with ML. Just the concept of being to subtract a word from another word still blows my mind.
+	1.  The concept of word vectors was incredibly cool to me. It's amazing that we can mathematically represent natural language, and meaning, with ML. Just the concept of being able to subtract a word from another word still blows my mind.
+
+---
 
 3.  *What concepts did you find most challenging, and why?*
 	1.  Trying to wrap my head around how exactly LSTM Networks work was certainly a challenge. LSTM Networks have very complex architecture, and while I understand the abstract concepts, understanding all the smaller level components and extrapolating value from small component level variation is still something I struggle with.
+
+---
 
 
 5. *What are some ways that you displayed good habits of mind or contributed to a good learning environment in the class?*
 	1. ML is something I'm genuinely very interested in, and I think / hope that shows in my habits and work. While we don't have a lot of non-breakout-room-in-class time, when we do I try to contribute to discussions by asking questions which generally turn out to be strange-ish or question assumptions. 
 
-6.  What was the most useful or memorable piece of feedback you received this semester, and how did you act on it?
-	1.  
+---
+
+6.  *What was the most useful or memorable piece of feedback you received this semester, and how did you act on it?*
+	1.  While not a very large piece of feedback, asking if there was something simpler that I could use rather than an FNN was a memorable piece of feedback for me. It reminded me not to get caught up in all the cool things we have learned about and still approach problems from an analytical perspective.
 
 
 
-
+## Calc
 
 
 
