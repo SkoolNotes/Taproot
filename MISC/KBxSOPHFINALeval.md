@@ -74,12 +74,18 @@ Do not write your answers in the school website! If you reload the page by accid
 
 #### Questions
 
-1.  Share an example of a difficult problem you solved in one of your projects.
-	1.  During one of our first assignments, the CNN exploration, I thought it would be interesting to try and detect a gradient with manual filter setup. I coundn't figure out a good way to do this given the constraints of the assignment. After struggling for a while, I enventually came 
-2.  Of the concepts we discussed, which one(s) did you find most interesting or useful, and why?
+1.  *Share an example of a difficult problem you solved in one of your projects.*
+	1.  During one of our first assignments, the CNN exploration, I thought it would be interesting to try and detect a gradient with manual filter setup. I coundn't figure out a good way to do this given the constraints of the assignment. After struggling for a while, I eventually came to a "solution" where I would value the bottom right more and the top left less, so given a gradient going the right direction it would cancel itself out and return a positive value; however, this was not a very good solution. I would like to revisit the problem and work with more layers to try and get it working.
+
+2.  *Of the concepts we discussed, which one(s) did you find most interesting or useful, and why?*
+	1.  The concept of word vectors was incredibly cool to me. It's amazing that we can mathematically represent natural language, and meaning, with ML. Just the concept of being to subtract a word from another word still blows my mind.
+
 3.  What concepts did you find most challenging, and why?
-4.  What are some ways that you displayed good habits of mind or contributed to a good learning environment in the class?
-5.  What was the most useful or memorable piece of feedback you received this semester, and how did you act on it?
+	1.  Trying to wrap my head around how exactly LSTM Networks work was certainly a challenge. LSTM Networks have very complex architecture, and while I understand the abstract concepts, understanding all the smaller level components and extrapolating value from small component level variation 
+
+
+5.  What are some ways that you displayed good habits of mind or contributed to a good learning environment in the class?
+6.  What was the most useful or memorable piece of feedback you received this semester, and how did you act on it?
 
 
 
