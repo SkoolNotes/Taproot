@@ -44,8 +44,8 @@ One of the most challenging projects for me this semester was the Doshisha Pen P
 What were your goals for this semester?  What are your goals for next semester?  What topics or skills do you want to study next semester?  What are your long-term goals in Japanese?  How can I help you reach those goals?
 
 
-My goal this semester was to try and become more 'fluent,' in the sense that the barrier between meaning and sentence in Japanese is reduced. I definitely feel like I achieved this, but I also feel like I increased the complexity of the sentences, and thus meaning, I am able to communicate. For next semester, I want to get better at speaking 
+My goal this semester was to try and become more 'fluent,' in the sense that the barrier between meaning and sentence in Japanese is reduced. I definitely feel like I achieved this, but I also feel like I increased the complexity of the sentences, and thus meaning, I am able to communicate. For next semester, I want to get better at speaking consistently.
 
 
-Do you have any other questions, comments, or requests for me?
+
 
