@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15588)}}    % original
-%\rhead{\textrmlf{Compiled }\#15588\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15648)}}    % original
+%\rhead{\textrmlf{Compiled }\#15648\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -323,5 +323,63 @@ definitely feel like I achieved this, but I also feel like I increased
 the complexity of the sentences, and thus meaning, I am able to
 communicate. For next semester, I want to get better at speaking
 consistently.
+
+\hypertarget{biology}{%
+\subsection{Biology}\label{biology}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\tightlist
+\item
+  Reflect on the biology concepts you've learned about this school year,
+  from the structure and function of macromolecules to evolution and
+  everything in between. Write a brief paragraph that tries to weave
+  your biology learning into a coherent whole (i.e.~look for connections
+  between the main concepts we explored and weave them together in a way
+  that's meaningful to you).
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii})}
+  \tightlist
+  \item
+    We started off by reviewing the central dogma and talking about how
+    structure --- and lack thereof --- relates to function. We then
+    moved on to talking about cell replication with meiosis and mitosis,
+    and the replication of DNA which encodes the earlier analyzed
+    macromolecules. Following from this, we went to a broader level and
+    analyzed mutations as well as alleles and inheritance. We learned
+    about the different types of mutations, and different inheritance
+    patterns. We then went even more abstract, and talked about genetics
+    and the concept of race. For our penultiment learning, we did both a
+    high and low level of abstraction project, combining earlier
+    learnings. We analyzed SNP, which by definition are only mutations
+    of a single nucleotide, yet have massive abstract implications. We
+    dived into the lab side of SNP by learning about PCR
+  \end{enumerate}
+\end{enumerate}
+
+central dogma structure function meois and genetic inheretence engaging
+w/ research genetics and race SNP, PCRR gel electrophoresis
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  Earlier in the term, you engaged deeply with one particular scientific
+  paper. More recently, you reviewed many more papers for your SNP
+  project. Reflect on how your ability to engage with the scientific
+  literature has evolved over the course of the term:
+\end{enumerate}
+
+\begin{itemize}
+\tightlist
+\item
+  Describe the progress you've made so far.
+\item
+  Detail the challenges you're experiencing.
+\item
+  Brainstorm what you could do to keep improving.
+\end{itemize}
 
 \end{document}

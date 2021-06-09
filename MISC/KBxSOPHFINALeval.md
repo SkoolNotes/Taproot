@@ -48,4 +48,48 @@ My goal this semester was to try and become more 'fluent,' in the sense that the
 
 
 
+## Biology
+
+
+1) Reflect on the biology concepts you've learned about this school year, from the structure and function of macromolecules to evolution and everything in between. Write a brief paragraph that tries to weave your biology learning into a coherent whole (i.e. look for connections between the main concepts we explored and weave them together in a way that’s meaningful to you).
+	1) We started off by reviewing the central dogma and talking about how structure — and lack thereof — relates to function. We then moved on to talking about cell replication with meiosis and mitosis, and the replication of DNA which encodes the earlier analyzed macromolecules. Following from this, we went to a broader level and analyzed mutations as well as alleles and inheritance. We learned about the different types of mutations, and different inheritance patterns. We then went even more abstract, and talked about genetics and the concept of race. For our penultiment learning, we did both a high and low level of abstraction project, combining earlier learnings. We analyzed SNP, which by definition are only mutations of a single nucleotide, yet have massive abstract implications. We dived into the lab side of SNP by learning about PCR
+
+
+
+central dogma structure function
+meois and genetic inheretence
+engaging w/ research
+genetics and race
+SNP, PCRR 
+gel electrophoresis
+
+2) Earlier in the term, you engaged deeply with one particular scientific paper. More recently, you reviewed many more papers for your SNP project. Reflect on how your ability to engage with the scientific literature has evolved over the course of the term: 
+
+-   Describe the progress you’ve made so far. 
+-   Detail the challenges you’re experiencing. 
+-   Brainstorm what you could do to keep improving.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
