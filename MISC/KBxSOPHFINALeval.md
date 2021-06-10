@@ -108,7 +108,18 @@ Do not write your answers in the school website! If you reload the page by accid
 
 
 
+## SOM
 
+Write 5-10 sentences (can be bulleted) reflecting on:
+
+-   What was the most valuable or important thing(s) that you learned in SOM this term? 
+	-   I learned the importance of patience
+	-   I learned the importance of tactical silence
+	-   I learned about the start of life on earth
+-   How will you apply this information in your life moving forward?
+	-   I will practice patience 
+	-   I will practice tactical silence
+	-   I will live with more curiosity sated.
 
 
 
