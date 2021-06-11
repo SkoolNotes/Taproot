@@ -134,7 +134,12 @@ So basically, what we’re saying is that each of these approximation schemes ha
 
 ---
 
-
+- loops calc on covid
+- taylor series aproxmiations
+- rieman sums
+- evolutionary games
+- gravity
+- spinning spring
 
 
 
