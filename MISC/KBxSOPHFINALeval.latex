@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15914)}}    % original
-%\rhead{\textrmlf{Compiled }\#15914\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15948)}}    % original
+%\rhead{\textrmlf{Compiled }\#15948\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -546,6 +546,17 @@ favorite text editor and then copy them in.
 \tightlist
 \item
   How has our class influenced your worldview?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Calculus class was the first time I was introduced to ways of
+    ``solving'' the unsolvable, in the sense that we are able to
+    extrapolate to infinity and create arbitrarily accurate estimations
+    on otherwise unsolvable problems. In a way, calculus has restored my
+    faith in logical systems, showing me that despite Gödel's findings
+    there are ways to
+  \end{itemize}
 \item
   What is one thing you are proud of having learned in our class?
 \item

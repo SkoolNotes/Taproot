@@ -98,12 +98,18 @@ Do not write your answers in the school website! If you reload the page by accid
 ## Calc
 
 - How has our class influenced your worldview?
+	- Calculus class was the first time I was introduced to ways of "solving" the unsolvable, in the sense that we are able to extrapolate to infinity and create arbitrarily accurate estimations on otherwise unsolvable problems. In a way, calculus has restored my faith in logical systems, showing me that despite Gödel's findings there are ways to 
+
 - What is one thing you are proud of having learned in our class?
 - How have you grown as a learner in our class?
 - What role did collaboration play for you in our class?
 - What have you enjoyed about your experience in our class?
 - What would you change in our class?
 - 
+
+
+
+
 
 
 
