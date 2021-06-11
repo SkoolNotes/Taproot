@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16001)}}    % original
-%\rhead{\textrmlf{Compiled }\#16001\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16044)}}    % original
+%\rhead{\textrmlf{Compiled }\#16044\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -657,6 +657,17 @@ on the circumstance.
 \item
   spinning spring
 \end{itemize}
+
+\hypertarget{writing}{%
+\subsubsection{Writing?}\label{writing}}
+
+We started off the term working with loops, trying to think in terms in
+terms of CLDs. I focused on the concept of granularity in our loop
+diagrams, thinking about simplifying our loops so we could gain
+understanding without sacrificing accuracy. I also thought of ways to
+combine multiple granularity's with my nested CLD experiments. This
+first module for me was all about distilling --- distilling the loops,
+distilling the presentation, and distilling the concepts.
 
 \hypertarget{som}{%
 \subsection{SOM}\label{som}}

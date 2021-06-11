@@ -141,6 +141,15 @@ So basically, what we’re saying is that each of these approximation schemes ha
 - gravity
 - spinning spring
 
+### Writing? 
+
+We started off the term working with loops, trying to think in terms in terms of CLDs. I focused on the concept of granularity in our loop diagrams, thinking about simplifying our loops so we could gain understanding without sacrificing accuracy. I also thought of ways to combine multiple granularity's with my nested CLD experiments. This first module for me was all about distilling — distilling the loops, distilling the presentation, and distilling the concepts. 
+
+
+
+
+
+
 
 
 
