@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16160)}}    % original
-%\rhead{\textrmlf{Compiled }\#16160\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16192)}}    % original
+%\rhead{\textrmlf{Compiled }\#16192\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -209,6 +209,102 @@
 \hypertarget{final-exploration}{%
 \section{Final Exploration}\label{final-exploration}}
 
-Note: I tried to do some thing about
+Note: I did a dive into trying to label the axes of a word vector space,
+and I also tried to do some stuff with summarization models, but neither
+of those projects worked out within the time frame. Delegated to summer
+they go. Instead, here are my notes on
+
+\hypertarget{neuromorphic-computing}{%
+\subsection{Neuromorphic Computing!}\label{neuromorphic-computing}}
+
+\href{https://www.youtube.com/watch?v=-dl1FPrpw1A\&ab_channel=NeuroInspiredComputationalElementsWorkshop}{Cool
+talk}
+
+\begin{itemize}
+\tightlist
+\item
+  Talks about autonomous drone racing
+
+  \begin{itemize}
+  \tightlist
+  \item
+    only possible recently due to tech limitations
+  \item
+    Bird brain vs Drone ``brain''
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Parrot
+
+      \begin{itemize}
+      \item
+        50mW, 2.2G
+      \item
+        Can learn words
+      \item
+        Can nav new environments at 35km/h
+      \item
+        \begin{quote}
+        Can learn to manipulate cups for drinking
+        \end{quote}
+      \end{itemize}
+    \end{itemize}
+  \item
+    Drone
+
+    \begin{itemize}
+    \item
+      18000 mW, 40g
+    \item
+      Pre trained flying at walking pace
+    \item
+      \begin{quote}
+      Can't learn anything online
+      \end{quote}
+    \end{itemize}
+  \item
+    Main idea is the birds adaptability
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Can learn to ``really understand what a cup can be useful for''
+      despite it not being in its evolutionary past
+    \item
+      way beyond current autonomous drones
+    \end{itemize}
+  \item
+    We have a lot to learn from nature!
+  \end{itemize}
+\item
+  Deep learning is very power hungry
+
+  \begin{itemize}
+  \tightlist
+  \item
+    increasingly so -- grew by 300,000x in the last 6 years
+  \item
+    not on a trajectory to close the gap with the parrot!
+  \end{itemize}
+\item
+  Deep learning has slow generalization
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Training currently is mostly offline and batched
+  \item
+    example of a child looking at a few pictures of a cat: they can now
+    easily tell what is a cat, and can even recognize cartoons of a cat.
+  \end{itemize}
+\item
+  looking to the brain!
+
+  \begin{itemize}
+  \tightlist
+  \item
+  \end{itemize}
+\end{itemize}
 
 \end{document}
