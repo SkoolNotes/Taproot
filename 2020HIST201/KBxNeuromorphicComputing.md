@@ -18,6 +18,8 @@ Note: I did a dive into trying to label the axes of a word vector space, and I a
 
 [Cool talk](https://www.youtube.com/watch?v=-dl1FPrpw1A&ab_channel=NeuroInspiredComputationalElementsWorkshop)
 
+Notes on the talk: 
+
 
 - Talks about autonomous drone racing
 	- only possible recently due to tech limitations
@@ -86,7 +88,9 @@ Note: I did a dive into trying to label the axes of a word vector space, and I a
 		
 	- gains mostly in RNNs instead of feed forward
 		- like the brain
-	- 
+- 1000x gains, not percentage wise
+	- on a programmable chip!
+	- hardware is still very early 
 
 
 
