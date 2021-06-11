@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16044)}}    % original
-%\rhead{\textrmlf{Compiled }\#16044\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16095)}}    % original
+%\rhead{\textrmlf{Compiled }\#16095\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -667,7 +667,21 @@ diagrams, thinking about simplifying our loops so we could gain
 understanding without sacrificing accuracy. I also thought of ways to
 combine multiple granularity's with my nested CLD experiments. This
 first module for me was all about distilling --- distilling the loops,
-distilling the presentation, and distilling the concepts.
+distilling the presentation, and distilling the concepts. While the
+first module was primarily about going from meaning to math, the second
+and third modules were about going from math to meaning. We focused on
+approximations with the Taylor series, which allowed us to estimate the
+answer to problems with arbitrary accuracy. To me, this is one of the
+coolest concepts ever. I coined the term ``The Math of Good Enough'' and
+said that this was equal to math applied. This module made me think
+about the concept of ``truth'' in a whole new way. For module four, I
+spent a lot of time practicing different integration techniques. It felt
+like learning how to do magic tricks. The evolutionary games research
+project was one of the hardest and most interesting problems we solved
+this term. Working with evolutionary dynamics and the concept of
+Evolutionary Stable Strategies was new to me, and I realized that
+calculus techniques allowed us to find emergent property in entirely new
+ways. We then focused on
 
 \hypertarget{som}{%
 \subsection{SOM}\label{som}}
