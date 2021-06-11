@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16192)}}    % original
-%\rhead{\textrmlf{Compiled }\#16192\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16223)}}    % original
+%\rhead{\textrmlf{Compiled }\#16223\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -304,6 +304,75 @@ talk}
   \begin{itemize}
   \tightlist
   \item
+    they implemented neural networks with temporal states in each neuron
+
+    \begin{itemize}
+    \tightlist
+    \item
+      with some course of evolution
+    \end{itemize}
+  \item
+    current tools break down on these new models
+
+    \begin{itemize}
+    \tightlist
+    \item
+      arn't differentiable, cant do stochastic descent, ect.
+    \end{itemize}
+  \end{itemize}
+\item
+  motivates a different type of computing?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    memory elements is embedded in the synaptic neurons
+  \item
+    redefines what is efficient
+
+    \begin{itemize}
+    \tightlist
+    \item
+      conventional is forced into vectorized approach
+    \end{itemize}
+  \end{itemize}
+\item
+  their new chip doesn't have floating point numbers, multiply
+  accumulators, or off-chip DRAM
+
+  \begin{itemize}
+  \tightlist
+  \item
+    but they can do all this amazing stuff
+
+    \begin{itemize}
+    \tightlist
+    \item
+      highlights that they are genuinely operating in a totally
+      different paradigm
+    \end{itemize}
+  \end{itemize}
+\item
+  results!
+
+  \begin{itemize}
+  \tightlist
+  \item
+    sensing domain
+
+    \begin{itemize}
+    \tightlist
+    \item
+      in spiking event based paradigm
+    \item
+      IO no longer a bottleneck
+    \item
+      can natively send event from sensor to chip, can do gesture reg
+      with just 15mW for both the camera and chip combined
+    \item
+      early new live learning
+    \item
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 

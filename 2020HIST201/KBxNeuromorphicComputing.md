@@ -43,10 +43,27 @@ Note: I did a dive into trying to label the axes of a word vector space, and I a
 	- example of a child looking at a few pictures of a cat: they can now easily tell what is a cat, and can even recognize cartoons of a cat.
 
 - looking to the brain!
-	- 
+	- they implemented neural networks with temporal states in each neuron
+		- with some course of evolution
+	- current tools break down on these new models
+		- arn't differentiable, cant do stochastic descent, ect.
 
+- motivates a different type of computing?
+	- memory elements is embedded in the synaptic neurons
+	- redefines what is efficient
+		- conventional is forced into vectorized approach
 
-
+- their new chip doesn't have floating point numbers, multiply accumulators, or off-chip DRAM
+	- but they can do all this amazing stuff
+		- highlights that they are genuinely operating in a totally different paradigm
+		
+- results!
+	- sensing domain
+		- in spiking event based paradigm
+		- IO no longer a bottleneck
+		- can natively send event from sensor to chip, can do gesture reg with just 15mW for both the camera and chip combined
+		- early new live learning
+		- 
 
 
 
