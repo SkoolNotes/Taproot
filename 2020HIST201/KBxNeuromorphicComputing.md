@@ -63,8 +63,30 @@ Note: I did a dive into trying to label the axes of a word vector space, and I a
 		- IO no longer a bottleneck
 		- can natively send event from sensor to chip, can do gesture reg with just 15mW for both the camera and chip combined
 		- early new live learning
-		- 
+		- doing new things with touch
+		- and created odor recognition...? 
+			- 3000x more efficient than deep autoencoder
+	- robotics and drone space
+		- adaptive robotic arms that can learn real world forces like friction and remap itself 
+		- iCub scene understanding
+		- can use visual cues to and live learning for directionality
+		- event based camera input for horizon tracking with crazy specs
+		- super small 35 neuron network to achieve smooth MAV landings
+			- like some kind of insect brain
+	- abstract
+		- graph search can use inherent parallelism to be over 100x faster
+			- with "temporally propagated wavefronts"
+		- much better and faster similarity search
+		- can easily model heat diffusion 
+		- combinatorial optimization 40x faster, 2000x lower energy
+			- like real world train scheduling problems
+	- can map problem space onto energy and time gain for their new neuromorphic techniques
 
+		![[Screen Shot 2021-06-11 at 3.48.43 PM.png]]
+		
+	- gains mostly in RNNs instead of feed forward
+		- like the brain
+	- 
 
 
 

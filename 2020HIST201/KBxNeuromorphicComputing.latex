@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16223)}}    % original
-%\rhead{\textrmlf{Compiled }\#16223\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16241)}}    % original
+%\rhead{\textrmlf{Compiled }\#16241\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -356,7 +356,6 @@ talk}
   results!
 
   \begin{itemize}
-  \tightlist
   \item
     sensing domain
 
@@ -372,7 +371,79 @@ talk}
     \item
       early new live learning
     \item
+      doing new things with touch
+    \item
+      and created odor recognition\ldots?
+
+      \begin{itemize}
+      \tightlist
+      \item
+        3000x more efficient than deep autoencoder
+      \end{itemize}
     \end{itemize}
+  \item
+    robotics and drone space
+
+    \begin{itemize}
+    \tightlist
+    \item
+      adaptive robotic arms that can learn real world forces like
+      friction and remap itself
+    \item
+      iCub scene understanding
+    \item
+      can use visual cues to and live learning for directionality
+    \item
+      event based camera input for horizon tracking with crazy specs
+    \item
+      super small 35 neuron network to achieve smooth MAV landings
+
+      \begin{itemize}
+      \tightlist
+      \item
+        like some kind of insect brain
+      \end{itemize}
+    \end{itemize}
+  \item
+    abstract
+
+    \begin{itemize}
+    \tightlist
+    \item
+      graph search can use inherent parallelism to be over 100x faster
+
+      \begin{itemize}
+      \tightlist
+      \item
+        with ``temporally propagated wavefronts''
+      \end{itemize}
+    \item
+      much better and faster similarity search
+    \item
+      can easily model heat diffusion
+    \item
+      combinatorial optimization 40x faster, 2000x lower energy
+
+      \begin{itemize}
+      \tightlist
+      \item
+        like real world train scheduling problems
+      \end{itemize}
+    \end{itemize}
+  \item
+    can map problem space onto energy and time gain for their new
+    neuromorphic techniques
+
+    {[}{[}Screen Shot 2021-06-11 at 3.48.43 PM.png{]}{]}
+  \item
+    gains mostly in RNNs instead of feed forward
+
+    \begin{itemize}
+    \tightlist
+    \item
+      like the brain
+    \end{itemize}
+  \item
   \end{itemize}
 \end{itemize}
 
