@@ -35,8 +35,7 @@ The *COMT* gene, or catechol-O-methyltransferase, encodes the *COMT* enzyme whic
 #### Citations:
 *(order of appearance)*
 
-- [NCBI COMT catechol-O-methyltransferase \[ _Homo sapiens_ (human) \]](https://www.ncbi.nlm.nih.gov/gene/1312) 
-- [Chromosomal mapping of the human catechol-O-methyltransferase gene to 22q11.1----q11.2](https://pubmed.ncbi.nlm.nih.gov/1572656/)
+- [NCBI COMT catechol-O-methyltransferase \[ _Homo sapiens_ (human) \]](https://www.ncbi.nlm.nih.gov/gene/1312)  - [Chromosomal mapping of the human catechol-O-methyltransferase gene to 22q11.1----q11.2](https://pubmed.ncbi.nlm.nih.gov/1572656/)
 - [Gene Expression -- NCBI COMT catechol-O-methyltransferase \[ _Homo sapiens_ (human) \]](https://www.ncbi.nlm.nih.gov/gene/1312#gene-expression)
 - [Lack of Association between rs4680 Polymorphism in Catechol-O-Methyltransferase Gene and Alcohol Use Disorder: A Meta-Analysis](https://www.hindawi.com/journals/dm/2020/8850859/)
 - [Functional Analysis of Genetic Variation in Catechol-O-Methyltransferase (COMT): Effects on mRNA, Protein, and Enzyme Activity in Postmortem Human Brain](https://www.cell.com/ajhg/fulltext/S0002-9297(07)63786-0)
@@ -159,7 +158,7 @@ https://www.jstage.jst.go.jp/article/ase/121/3/121_130731/_html/-char/en
 
 Not much is known about the evolution of the COMT\*L allele. In the sea of speculation, only two facts emerge: COMT activity has decreased during the course of recent evolution, and COMT\*L is a derived allele unique to humans [citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182110/) & [citation](https://www.jstage.jst.go.jp/article/ase/121/3/121_130731/_html/-char/en). For the following speculation, the phenotypes said to arise from different variations of the COMT gene will be assumed true. Speculating about evolution on the organism level is relatively straightforward: this organism evolved a patch of photosensitive skin so it could tell which way was up. However, this level of analysis breaks down when trying to explain altruism, and thus comes speculation on the gene level: these organisms evolved so they would "lay down [their] life for two brothers or eight cousins" - *J.B.S. Haldane*. The evolution of COMT\*L is not explained solely by either of these levels — instead, its evolution operates on the population level.
 
-It can be assumed that given a constant environment without changing selection factors, there is an optimal mix of so called Warriors and Worriers. On top of the hypothetically constant selection pressures from the environment, the population itself creates its own selection pressures based upon the ratio of Warriors to Worriers. If there are too many Warriors, then a selection pressure favoring Worriers would arise, and vice versa, leading the population towards the optimal ratio of Warriors and Worriers. With heavy speculation, one could suggest that there exists a whole set of personality traits that are constantly being balanced across the population. 
+It can be assumed that given a constant environment without changing selection factors, there is an optimal mix of so called Warriors and Worriers. On top of the hypothetically constant selection pressures from the environment, the population itself creates its own selection pressures based upon the ratio of Warriors to Worriers. If there are too many Warriors, then a selection pressure favoring Worriers would arise, and vice versa, leading the population towards the optimal ratio of Warriors and Worriers. With heavy speculation, one could suggest that there exists a whole set of personality traits that are constantly being balanced across the population. Of course, these selection pressures would on top of the environmental selection pressures; a Worrier is more likely to do better in a famine where new ways to get resources need to created. A Worrier would be more likely to advocate for saving some grain for the future despite the fact that people are hungry now. A Warrior would do better in situations like getting chased by a predator, where they need to act well under stress and have high resilience.
 
 Of course, environmental selection pressures are not constant. Hence, the question becomes, what type of environment shifts the optimal ratio of Warriors to Worriers? To answer this question, one must think of evolution in terms of a fitness landscape. An organism can be stuck in a local minima and require some large mutation to jump out of it. Disregarding genetic drift, the only other mutations that would persist would be ones leading the species to the bottom of the local minima. In recent years, the theory of evolution has been extended into axes beyond just the organism itself. A good book on the topic is [Evolution in four dimensions: _Genetic, epigenetic, behavioral, and symbolic variation in the history of life_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1265888/). Each of these axes have their own fitness landscape associated with them. We can imagine an axis called, for lack of a better term, technological. This axis could include, of course, technology, but also human action and innovation. For example, traveling to this location through this new path, or hunting in this different patch of land instead of the old patch would be grouped into this axis. 
 
@@ -193,6 +192,20 @@ However, the fact that COMT activity has been decreasing over time is still not 
 - [Functional Analysis of Genetic Variation in Catechol-O-Methyltransferase (_COMT_): Effects on mRNA, Protein, and Enzyme Activity in Postmortem Human Brain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182110/)
 - [Correlation of the COMT Val158Met polymorphism with latitude and a hunter-gather lifestyle suggests culture–gene coevolution and selective pressure on cognition genes due to climate](https://www.jstage.jst.go.jp/article/ase/121/3/121_130731/_html/-char/en)
 - [Evolution in four dimensions: _Genetic, epigenetic, behavioral, and symbolic variation in the history of life_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1265888/) 
+
+%%
+### More Feedback
+
+> Huxley, Sorry, I should have been a bit more clear. I was asking you to revise the second paragraph of Part 3 to fully explain your reasoning there. If that's what you were trying to do in this comment, then yes I do think you can clarify further before incorporating it into the write-up: 1) Are you still using epsilon in the sense of the epsilon-greedy algorithm that you described, essentially "exploratory" behavior (in contrast to "exploitative" behavior)? If you're going to introduce this epsilon concept earlier in this Part (i.e. the second paragraph), you'd obviously need to define your terms. Or you could probably get your point across here without the analogy to the algorithm. 2) It sounds like you might be proposing that there is group selection at work in maintaining both alleles in the population. It also sounds a bit like you're invoking the idea of balancing selection. If you are indeed thinking along these lines, can you ground your explanations in relation to those concepts? If you're not familiar with those and this is a separate line of speculation, then the areas in your reasoning that could use more explanation are: -why it can be assumed that there is some optimal mix of "warriors" and "worriers." How does that relate to both individual and group fitness and how do you expect those to interact? -how the balancing mechanism that you're proposing at the population level would actually work, i.e. what is the selection pressure that would tip the scales toward one phenotype and then back to the other based on changing ratios.
+
+%%
+
+
+
+
+
+
+
 
 
 

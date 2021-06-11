@@ -138,7 +138,7 @@
 
 
 \newcommand{\thecourse}{ ML301 }
-\newcommand{\thelesson}{ Ml Master Index }
+\newcommand{\thelesson}{ Neuromorphic Computing }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -151,12 +151,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16158)}}    % original
-%\rhead{\textrmlf{Compiled }\#16158\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16160)}}    % original
+%\rhead{\textrmlf{Compiled }\#16160\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Huxleu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -202,28 +202,13 @@
 
 % DID YOU SET SPELL????
 
-\#ref \#incomplete
+\#flo \#ref \#ret \#incomplete
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-Incomplete, due to file deletion.
+\hypertarget{final-exploration}{%
+\section{Final Exploration}\label{final-exploration}}
 
-\begin{itemize}
-\tightlist
-\item
-  Data Processing: {[}{[}KBDataProcessingRett{]}{]}
-\item
-  Self Eval: {[}{[}KBMlSelfEval{]}{]}
-\item
-  Final Exploration: {[}{[}KBWeightAgnosticNN{]}{]}
-\item
-  {[}{[}KBxSomethingElse{]}{]}
-\item
-  {[}{[}KBxDataAnalysisExercise{]}{]}
-\item
-  {[}{[}KBxFeedbackResponses{]}{]}
-\item
-  {[}{[}KBxNeuromorphicComputing{]}{]}
-\end{itemize}
+Note: I tried to do some thing about
 
 \end{document}

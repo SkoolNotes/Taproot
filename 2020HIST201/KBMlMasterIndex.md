@@ -18,6 +18,8 @@ Incomplete, due to file deletion.
 * [[KBxSomethingElse]]
 * [[KBxDataAnalysisExercise]]
 * [[KBxFeedbackResponses]]
+* [[KBxNeuromorphicComputing]]
+
 
 
 

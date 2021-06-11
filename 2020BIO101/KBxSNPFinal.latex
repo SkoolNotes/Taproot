@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15014)}}    % original
-%\rhead{\textrmlf{Compiled }\#15014\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16151)}}    % original
+%\rhead{\textrmlf{Compiled }\#16151\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -291,8 +291,7 @@ is debated \href{https://pubmed.ncbi.nlm.nih.gov/32931693/}{citation}.
 \tightlist
 \item
   \href{https://www.ncbi.nlm.nih.gov/gene/1312}{NCBI COMT
-  catechol-O-methyltransferase {[} \emph{Homo sapiens} (human) {]}}
-\item
+  catechol-O-methyltransferase {[} \emph{Homo sapiens} (human) {]}} -
   \href{https://pubmed.ncbi.nlm.nih.gov/1572656/}{Chromosomal mapping of
   the human catechol-O-methyltransferase gene to 22q11.1----q11.2}
 \item
@@ -632,7 +631,13 @@ many Warriors, then a selection pressure favoring Worriers would arise,
 and vice versa, leading the population towards the optimal ratio of
 Warriors and Worriers. With heavy speculation, one could suggest that
 there exists a whole set of personality traits that are constantly being
-balanced across the population.
+balanced across the population. Of course, these selection pressures
+would on top of the environmental selection pressures; a Worrier is more
+likely to do better in a famine where new ways to get resources need to
+created. A Worrier would be more likely to advocate for saving some
+grain for the future despite the fact that people are hungry now. A
+Warrior would do better in situations like getting chased by a predator,
+where they need to act well under stress and have high resilience.
 
 Of course, environmental selection pressures are not constant. Hence,
 the question becomes, what type of environment shifts the optimal ratio
@@ -773,5 +778,35 @@ Citations}\label{part-four-combined-citations}}
   in four dimensions: \emph{Genetic, epigenetic, behavioral, and
   symbolic variation in the history of life}}
 \end{itemize}
+
+\%\% \#\#\# More Feedback
+
+\begin{quote}
+Huxley, Sorry, I should have been a bit more clear. I was asking you to
+revise the second paragraph of Part 3 to fully explain your reasoning
+there. If that's what you were trying to do in this comment, then yes I
+do think you can clarify further before incorporating it into the
+write-up: 1) Are you still using epsilon in the sense of the
+epsilon-greedy algorithm that you described, essentially ``exploratory''
+behavior (in contrast to ``exploitative'' behavior)? If you're going to
+introduce this epsilon concept earlier in this Part (i.e.~the second
+paragraph), you'd obviously need to define your terms. Or you could
+probably get your point across here without the analogy to the
+algorithm. 2) It sounds like you might be proposing that there is group
+selection at work in maintaining both alleles in the population. It also
+sounds a bit like you're invoking the idea of balancing selection. If
+you are indeed thinking along these lines, can you ground your
+explanations in relation to those concepts? If you're not familiar with
+those and this is a separate line of speculation, then the areas in your
+reasoning that could use more explanation are: -why it can be assumed
+that there is some optimal mix of ``warriors'' and ``worriers.'' How
+does that relate to both individual and group fitness and how do you
+expect those to interact? -how the balancing mechanism that you're
+proposing at the population level would actually work, i.e.~what is the
+selection pressure that would tip the scales toward one phenotype and
+then back to the other based on changing ratios.
+\end{quote}
+
+\%\%
 
 \end{document}
