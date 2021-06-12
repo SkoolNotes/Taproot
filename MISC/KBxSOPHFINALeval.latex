@@ -137,8 +137,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ NUV201 }
-\newcommand{\thelesson}{ Final self evals }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ \%--- }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -151,12 +151,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16124)}}    % original
-%\rhead{\textrmlf{Compiled }\#16124\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16289)}}    % original
+%\rhead{\textrmlf{Compiled }\#16289\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -202,64 +202,37 @@
 
 % DID YOU SET SPELL????
 
-\#ret \#disorganized \#incomplete
+title: Final self evals context: NUV201 author: Huxley source: \#index
+---\%\% \#ret
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{isos}{%
-\subsection{ISOS}\label{isos}}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi})}
-\tightlist
-\item
-  Think back on the three different projects you did this term: your
-  history of science presentation, story of science, and ethical issues
-  roundtable. Which are you proudest of, and why?
-
-  \begin{enumerate}
-  \def\labelenumii{\arabic{enumii})}
-  \tightlist
-  \item
-    I am most proud of our history of science presentation. We decided
-    to do something different, something completely out of all of our
-    comfort zones, and we pulled it off. I learned a lot, got an
-    entirely new experience, and people in class loved it.
-  \end{enumerate}
-\item
-  Is there a habit of learning/habit of mind/student skill that this
-  term in ISOS made you want to improve in yourself
-  (e.g.~procrastination, using work periods, participating in
-  discussion, focusing on class, note-taking, chunking out projects)?
-  (Be kind to yourself! It's been a hard year, and learning/growing as a
-  scholar is a life-long process.)
-
-  \begin{enumerate}
-  \def\labelenumii{\arabic{enumii})}
-  \tightlist
-  \item
-    Organizing outside of class meeting time and group work is
-    especially hard in the purely digital world. This is a skill that is
-    new to me, but I expect to have to use a lot more in our
-    increasingly technological reality. Thus, I would like to improve
-    it.
-  \end{enumerate}
-\item
-  How might you apply what you learned in ISOS this year (considering
-  both fall and spring) to being a scientist in your science classes or
-  to using scientific information to make informed choices as a citizen?
-
-  \begin{enumerate}
-  \def\labelenumii{\arabic{enumii})}
-  \tightlist
-  \item
-    Learning about the extent of p-hacking was quite startling for me. I
-    will definitely take it into account when ingesting scientific
-    information in the future.
-  \end{enumerate}
-\end{enumerate}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{0.06}}@{}}
+\toprule
+\endhead
+\%\% \#\# ISOS 1) Think back on the three different projects you did
+this term: your history of science presentation, story of science, and
+ethical issues roundtable. Which are you proudest of, and why? 1) I am
+most proud of our history of science presentation. We decided to do
+something different, something completely out of all of our comfort
+zones, and we pulled it off. I learned a lot, got an entirely new
+experience, and people in class loved it. \\
+2) Is there a habit of learning/habit of mind/student skill that this
+term in ISOS made you want to improve in yourself (e.g.~procrastination,
+using work periods, participating in discussion, focusing on class,
+note-taking, chunking out projects)? (Be kind to yourself! It's been a
+hard year, and learning/growing as a scholar is a life-long process.) 1)
+Organizing outside of class meeting time and group work is especially
+hard in the purely digital world. This is a skill that is new to me, but
+I expect to have to use a lot more in our increasingly technological
+reality. Thus, I would like to improve it. \\
+3) How might you apply what you learned in ISOS this year (considering
+both fall and spring) to being a scientist in your science classes or to
+using scientific information to make informed choices as a citizen? 1)
+Learning about the extent of p-hacking was quite startling for me. I
+will definitely take it into account when ingesting scientific
+information in the future. \\
+\bottomrule
+\end{longtable}
 
 \hypertarget{japanese}{%
 \subsection{Japanese}\label{japanese}}
@@ -542,21 +515,16 @@ favorite text editor and then copy them in.
 \hypertarget{calc}{%
 \subsection{Calc}\label{calc}}
 
+\%\% - How has our class influenced your worldview? - Calculus class was
+the first time I was introduced to ways of ``solving'' the unsolvable,
+in the sense that we are able to extrapolate to infinity and create
+arbitrarily accurate estimations on otherwise unsolvable problems. In a
+way, calculus has restored my faith in logical systems, showing me that
+despite Gödel's findings there are ways to find truth without actually
+knowing it.
+
 \begin{itemize}
 \tightlist
-\item
-  How has our class influenced your worldview?
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Calculus class was the first time I was introduced to ways of
-    ``solving'' the unsolvable, in the sense that we are able to
-    extrapolate to infinity and create arbitrarily accurate estimations
-    on otherwise unsolvable problems. In a way, calculus has restored my
-    faith in logical systems, showing me that despite Gödel's findings
-    there are ways to find truth without actually knowing it.
-  \end{itemize}
 \item
   What is one thing you are proud of having learned in our class?
 
@@ -610,7 +578,8 @@ favorite text editor and then copy them in.
     the current system where after each module, there is a day where
     students can further explore their topic or go explore another
     students topic without having to worry about deliverables. Could be
-    a fun thing to try out! \#\# Calc Portfolio Essay
+    a fun thing to try out! \%\%\\
+    \#\# Calc Portfolio Essay
   \end{itemize}
 \end{itemize}
 
