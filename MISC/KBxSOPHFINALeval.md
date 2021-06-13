@@ -1,13 +1,13 @@
-%%---
+---
 title:   Final self evals
 context: NUV201
 author:  Huxley
 source:  #index
----%%
-#ret  
+---
+#ret  #disorganized #incomplete
 
 ---
-%%
+
 ## ISOS
 1) Think back on the three different projects you did this term: your history of science presentation, story of science, and ethical issues roundtable. Which are you proudest of, and why?
 	1) I am most proud of our history of science presentation. We decided to do something different, something completely out of all of our comfort zones, and we pulled it off.  I learned a lot, got an entirely new experience, and people in class loved it.
@@ -96,7 +96,7 @@ Do not write your answers in the school website! If you reload the page by accid
 
 
 ## Calc
-%%
+
 - How has our class influenced your worldview?
 	- Calculus class was the first time I was introduced to ways of "solving" the unsolvable, in the sense that we are able to extrapolate to infinity and create arbitrarily accurate estimations on otherwise unsolvable problems. In a way, calculus has restored my faith in logical systems, showing me that despite Gödel's findings there are ways to find truth without actually knowing it.
 
@@ -114,7 +114,7 @@ Do not write your answers in the school website! If you reload the page by accid
 
 - What would you change in our class?
 	- It might be interesting to try out a slightly modified version of the current system where after each module, there is a day where students can further explore their topic or go explore another students topic without having to worry about deliverables. Could be a fun thing to try out!
-%%	
+	
 ## Calc Portfolio Essay
 
 So, we are stuck with our world. Of course, gravity doesn’t decay as the cube, and these guys aren't astronauts. We have these laws of the universe which just seem to exist, and we don't know why or even if there is a why. But the beauty of math is that we can not only imagine new worlds, but actually explore and create them in theoretical space. We can model them. 
