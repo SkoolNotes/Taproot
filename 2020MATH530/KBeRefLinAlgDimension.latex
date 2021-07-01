@@ -1,0 +1,224 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ Linear Algebra }
+\newcommand{\thelesson}{ Linear Algebra Dimensions }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2697)}}    % original
+%\rhead{\textrmlf{Compiled }\#2697\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2697\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=2020MATH530/KBe2020math530index.md}{\tiny\textulf{[[}\textbf{2020MATH530/KBe2020math530index.md}\textulf{]]}}}\thinspace
+
+\#source Axler2.C
+
+\#ref \#disorganized \#incomplete
+
+\hypertarget{definition-dimension}{%
+\section{\#definition dimension}\label{definition-dimension}}
+
+\begin{quote}
+The dimension of \(V\) (denoted \(\text{dim }V\) is the length of a
+basis in \(V\) - This relies on Axler2.35: Basis length does not depend
+on the basis Any two bases of a finite-dimensional vector space have the
+same length
+\end{quote}
+
+\hypertarget{results}{%
+\subsection{Results}\label{results}}
+
+\hypertarget{axler2.38-dimension-of-a-subspace}{%
+\subsection{Axler2.38 Dimension of a
+subspace}\label{axler2.38-dimension-of-a-subspace}}
+
+\begin{quote}
+If \(V\) is finite-dimensional and \(U\) is a subspace of \(V\), then
+\(\text{dim }U \le \text{dim }V\) - Intuitive. The basis of a subspace
+is shorter than the basis of the original vecspace, because otherwise
+it's span would be larger than the original vecspace (because bases are
+linearly independent + len lin-indep \(\le\) len span).
+\end{quote}
+
+\hypertarget{axler2.39-linearly-independent-list-of-the-right-length-is-a-basis}{%
+\subsection{Axler2.39 Linearly independent list of the right length is a
+basis}\label{axler2.39-linearly-independent-list-of-the-right-length-is-a-basis}}
+
+\begin{quote}
+All linearly independent lists of the length \(\text{dim }V\) are bases.
+- Intuitive. If it's already linearly independent meaning each element
+brings ``new information'', then if there's that many elements then
+there should be that much information.
+\end{quote}
+
+\hypertarget{axler2.43-dimension-of-a-sum}{%
+\subsection{Axler2.43 Dimension of a
+sum}\label{axler2.43-dimension-of-a-sum}}
+
+\begin{quote}
+If \(U_1\) and \(U_2\) are subspaces of a finite dimensional vecspace,
+then
+\[\text{dim}(U_1+U_2) = \text{dim }U_1 + \text{dim }U_2 - \text{dim}(U_1\cap U_2)\]
+- This inducts into something analogous to PIE!
+{[}{[}KBrefPrincipleInclusionExclusion{]}{]}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

@@ -1,0 +1,591 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3627)}}    % original
+%\rhead{\textrmlf{Compiled }\#3627\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3627\textrmlf{ on} \today}       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{silicon}{%
+\section{Silicon}\label{silicon}}
+
+\hypertarget{refirenry}{%
+\subsection{refirenry}\label{refirenry}}
+
+\hypertarget{from-sand}{%
+\subsubsection{from sand}\label{from-sand}}
+
+\hypertarget{melted}{%
+\subsubsection{melted}\label{melted}}
+
+\hypertarget{small-molten-crystal-seed-lower-into-a-vat}{%
+\subsubsection{small molten crystal "seed" lower into a
+vat}\label{small-molten-crystal-seed-lower-into-a-vat}}
+
+\hypertarget{crystal-forms}{%
+\subsubsection{crystal forms}\label{crystal-forms}}
+
+\hypertarget{pull-cylander-from-molten-reigon}{%
+\subsubsection{pull cylander from molten
+reigon}\label{pull-cylander-from-molten-reigon}}
+
+\hypertarget{ground-to-form-ingots}{%
+\subsubsection{ground to form ingots}\label{ground-to-form-ingots}}
+
+\hypertarget{sawed-with-diamond-blade-to-form-wafers}{%
+\subsubsection{sawed with diamond blade to form
+wafers}\label{sawed-with-diamond-blade-to-form-wafers}}
+
+\hypertarget{wafer-scrubbed}{%
+\subsubsection{wafer scrubbed}\label{wafer-scrubbed}}
+
+\hypertarget{edges-rounded-and-surfaces-ground-smooth-and-to-create-uniform-thickness}{%
+\subsubsection{edges rounded and surfaces ground smooth and to create
+uniform
+thickness}\label{edges-rounded-and-surfaces-ground-smooth-and-to-create-uniform-thickness}}
+
+\hypertarget{rinsed-and-etched-in-chemicals-to-remove-impurities}{%
+\subsubsection{rinsed and etched in "chemicals" to remove
+impurities}\label{rinsed-and-etched-in-chemicals-to-remove-impurities}}
+
+\hypertarget{final-polish-on-one-side-of-the-wafer}{%
+\subsubsection{final polish on one side of the
+wafer}\label{final-polish-on-one-side-of-the-wafer}}
+
+\hypertarget{all-so-that-there-are-no-scratches-or-contamination}{%
+\subsubsection{all so that there are no scratches or
+contamination}\label{all-so-that-there-are-no-scratches-or-contamination}}
+
+\hypertarget{then-measured-for-resistivity}{%
+\subsubsection{then, measured for
+resistivity}\label{then-measured-for-resistivity}}
+
+\begin{enumerate}
+\item
+  function of dopant concentratian
+\end{enumerate}
+
+\hypertarget{electron-beam-machine}{%
+\subsubsection{electron beam machine}\label{electron-beam-machine}}
+
+\begin{enumerate}
+\item
+  etches patterns onto chrome plated glass plates in clean room
+\end{enumerate}
+
+\hypertarget{glass-plates-become-masks-used-to-transfer-the-circuit-pattern-onto-the-wafer}{%
+\subsubsection{glass plates become masks used to transfer the circuit
+pattern onto the
+wafer}\label{glass-plates-become-masks-used-to-transfer-the-circuit-pattern-onto-the-wafer}}
+
+\hypertarget{usage-of-masks}{%
+\subsubsection{usage of masks}\label{usage-of-masks}}
+
+\begin{enumerate}
+\item
+  first mask creates divots
+\item
+  masks 4, 5 define source and drain reigons
+\item
+  mask 6 defines contact holes to allow aluminium to be inserted
+\item
+  mostly use 12-25 masks depending on complexity and type of circuit
+  (much more now)
+\end{enumerate}
+
+\hypertarget{decontamination}{%
+\subsubsection{decontamination}\label{decontamination}}
+
+\begin{enumerate}
+\item
+  bunny suits
+\item
+  very high purity materials
+\end{enumerate}
+
+\hypertarget{fabrication-techniques-4}{%
+\subsubsection{fabrication techniques
+(4)}\label{fabrication-techniques-4}}
+
+\begin{enumerate}
+\item
+  formation of thin layers of silicon dioxidn
+\item
+  introduction of dopants
+\item
+  deposition of thin layers of conducting/insulating materials
+\item
+  something?
+\end{enumerate}
+
+\hypertarget{cleaning}{%
+\subsubsection{cleaning}\label{cleaning}}
+
+\begin{enumerate}
+\item
+  hot acids to clean wafers, repeated throughout process
+\item
+  rinsed in deionized water and spun dry in filtered nitrogen gas
+\item
+  grow layer of silicon dioxide in a vertical furnace
+
+  \begin{enumerate}
+  \item
+    protects silicon substrate benieth from unwanted reactions
+
+    \begin{enumerate}
+    \item
+      pure oxygen used to grow silicon dioxide
+    \end{enumerate}
+  \end{enumerate}
+\item
+  etch stencil to silicon dioxide using photolithography
+\item
+  photoresist coated on wafers, then solvents inside the solution is
+  evaporated
+
+  \begin{enumerate}
+  \item
+    negative resist hardens when exposed
+  \item
+    positive resist changes and is removed when developed
+
+    \begin{enumerate}
+    \item
+      that's what is used in this run
+    \end{enumerate}
+  \end{enumerate}
+\item
+  computer controlled machine called stepper
+
+  \begin{enumerate}
+  \item
+    wafer positioned under selected mask pattern
+  \item
+    ultraviolet light projected onto photoresist
+  \end{enumerate}
+\item
+  etching
+
+  \begin{enumerate}
+  \item
+    wet etching can be bad
+
+    \begin{enumerate}
+    \item
+      can undercut photoresist
+    \end{enumerate}
+  \item
+    dry (plasma) etching
+
+    \begin{enumerate}
+    \item
+      use plasma to react away exposed silicon dioxide
+    \end{enumerate}
+  \end{enumerate}
+\item
+  removal of photoresist
+
+  \begin{enumerate}
+  \item
+    acid baths?
+  \item
+    hot oxygen?
+  \end{enumerate}
+\item
+  same thing repeated with each mask
+\end{enumerate}
+
+\hypertarget{ion-implanter}{%
+\subsubsection{ion implanter}\label{ion-implanter}}
+
+\begin{enumerate}
+\item
+  bombard with ions to implant dopants
+
+  \begin{enumerate}
+  \item
+    ions accelerated using magnetic fields
+  \item
+    etched silicon dioxide only allows ions on some areas
+  \item
+    embed opposite ions that are later diffused into the well to become
+    transistors
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{deposition-furnace}{%
+\subsubsection{deposition furnace}\label{deposition-furnace}}
+
+\begin{enumerate}
+\item
+  deposits something resistive to protect?
+\end{enumerate}
+
+\hypertarget{second-mask}{%
+\subsubsection{second mask}\label{second-mask}}
+
+\begin{enumerate}
+\item
+  used to define actual transistor reigons
+\item
+  wafers devolped to remove exposed photoresist
+\item
+  then plasma etched to remove free flourine
+\item
+  then photoresist removed
+\item
+  wafers in oxidization furnace
+\item
+  thick insulating layer of sicilon dioxide grown over where previous
+  was etched
+\item
+  called field oxide
+\end{enumerate}
+
+\hypertarget{uniform-electrical-dioxide-regrown}{%
+\subsubsection{uniform electrical dioxide
+regrown?}\label{uniform-electrical-dioxide-regrown}}
+
+\begin{enumerate}
+\item
+  gate electrons formed by depositing polysilicon
+
+  \begin{enumerate}
+  \item
+    many small grains of silicon doped with phospherus
+  \end{enumerate}
+\item
+  photolithography and next mask to etch gate electrodes
+\item
+  distance controlled carefully because it affects final speed of
+  transistor
+\end{enumerate}
+
+\hypertarget{more-masks-used-with-photoresist-and-cleaning-to-grower-further-complexity}{%
+\subsubsection{more masks used with photoresist and cleaning to grower
+further
+complexity}\label{more-masks-used-with-photoresist-and-cleaning-to-grower-further-complexity}}
+
+\hypertarget{annealing}{%
+\subsubsection{annealing}\label{annealing}}
+
+\begin{enumerate}
+\item
+  ion implantation defects repaired
+\end{enumerate}
+
+\hypertarget{thick-glass-layer}{%
+\subsubsection{thick glass layer}\label{thick-glass-layer}}
+
+\begin{enumerate}
+\item
+  insulates all pieces
+\end{enumerate}
+
+\hypertarget{glass-surface-planarized}{%
+\subsubsection{glass surface
+planarized}\label{glass-surface-planarized}}
+
+\begin{enumerate}
+\item
+  using chemical and mechanical processes
+\item
+  chemical mechanical planalization (CMP) not used much anymore
+\end{enumerate}
+
+\hypertarget{mask-6-define-contact-holes-for-metal-wiring}{%
+\subsubsection{mask 6: define contact holes for metal
+wiring}\label{mask-6-define-contact-holes-for-metal-wiring}}
+
+\hypertarget{plasma-etching-again-to-create-contact-holes}{%
+\subsubsection{plasma etching again to create contact
+holes}\label{plasma-etching-again-to-create-contact-holes}}
+
+\begin{enumerate}
+\item
+  looks like small dots under microscope
+\item
+  must be filled with metal plug to ensure solid elecric connection
+  (tungsten)
+\end{enumerate}
+
+\hypertarget{metal-etcher-polishes-away-extra-tungsten}{%
+\subsubsection{metal etcher polishes away extra
+tungsten}\label{metal-etcher-polishes-away-extra-tungsten}}
+
+\hypertarget{design}{%
+\subsection{design}\label{design}}
+
+\hypertarget{circuit-design}{%
+\subsubsection{circuit design}\label{circuit-design}}
+
+\hypertarget{organization-of-design-team}{%
+\subsubsection{organization of design
+team}\label{organization-of-design-team}}
+
+\begin{enumerate}
+\item
+  based on organization of the chip
+\item
+  establish microarchitecture that regulates sequences and timings
+\item
+  design divided into areas
+
+  \begin{enumerate}
+  \item
+    each unit given to logic designer
+  \item
+    each functional block given to circuit designer who works at
+    transistor level
+  \end{enumerate}
+\item
+  mask designer draws out blueprints on paper
+\end{enumerate}
+
+\hypertarget{transistors}{%
+\subsubsection{transistors}\label{transistors}}
+
+\begin{enumerate}
+\item
+  represents digital zero or one
+\item
+  C-MOS transistors
+
+  \begin{enumerate}
+  \item
+    complementary metal oxidized transistor
+  \item
+    n type transistor
+
+    \begin{enumerate}
+    \item
+      surrounded by n-type
+    \item
+      sandwhiching a p-type layer
+    \item
+      gate electrode is near but not connect to the p type reigon
+    \item
+      a positive charge in gate attracts electrons and allows electrons
+      to pass
+    \end{enumerate}
+  \item
+    both types can be made on the same chip using "complementary
+    manufacturing?"
+  \item
+    signals propogate through complex maze of switches
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{structure}{%
+\subsection{structure}\label{structure}}
+
+\hypertarget{cubic-atomic-structure}{%
+\subsubsection{cubic atomic structure}\label{cubic-atomic-structure}}
+
+\hypertarget{electrons-valence-shell}{%
+\subsubsection{4 electrons valence
+shell}\label{electrons-valence-shell}}
+
+\hypertarget{perfect-crystal-will-have-no-holes}{%
+\subsubsection{perfect crystal will have no
+holes}\label{perfect-crystal-will-have-no-holes}}
+
+\hypertarget{but-at-room-temperature-free-electrons-can-conduct}{%
+\subsubsection{but at room temperature, free electrons can
+conduct}\label{but-at-room-temperature-free-electrons-can-conduct}}
+
+\hypertarget{impurities-called-dopants}{%
+\subsection{impurities called dopants}\label{impurities-called-dopants}}
+
+\hypertarget{negative}{%
+\subsubsection{negative}\label{negative}}
+
+\begin{enumerate}
+\item
+  arsenic or phospherus
+\item
+  one more valence
+\item
+  n type crystal because negative free carriers
+\end{enumerate}
+
+\hypertarget{positive}{%
+\subsubsection{positive}\label{positive}}
+
+\begin{enumerate}
+\item
+  boron
+\item
+  missing electron acts like positive carrier, "hole"
+\end{enumerate}
+
+\hypertarget{silicon-can-be-either-good-or-poor-conductor-semiconductor}{%
+\subsubsection{silicon can be either good or poor conductor
+(semiconductor)}\label{silicon-can-be-either-good-or-poor-conductor-semiconductor}}
+
+\begin{enumerate}
+\item
+  controlled by concentration of dopant
+\end{enumerate}
+
+\end{document}

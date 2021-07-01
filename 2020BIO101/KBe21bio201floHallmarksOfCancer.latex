@@ -1,0 +1,537 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ flo - hallmarks of cancer (2011) reading }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7163)}}    % original
+%\rhead{\textrmlf{Compiled }\#7163\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7163\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{sources}{%
+\section{\texorpdfstring{sources
+{\textsc{source}}}{sources source}}\label{sources}}
+
+\hypertarget{assignment-httpsnuevaschool.instructure.comcourses3087assignments56036}{%
+\subsection{\texorpdfstring{assignment:
+\url{https://nuevaschool.instructure.com/courses/3087/assignments/56036}}{assignment: https://nuevaschool.instructure.com/courses/3087/assignments/56036}}\label{assignment-httpsnuevaschool.instructure.comcourses3087assignments56036}}
+
+\hypertarget{reading-hallmarks-of-cancer-pdf}{%
+\subsection{\texorpdfstring{reading:
+\href{KBsrcHallmarksOfCancer2011Reading.pdf}{Hallmarks of Cancer
+PDF}}{reading: Hallmarks of Cancer PDF}}\label{reading-hallmarks-of-cancer-pdf}}
+
+\hypertarget{flow}{%
+\section{Flow}\label{flow}}
+
+\hypertarget{abstract}{%
+\subsection{Abstract}\label{abstract}}
+
+\hypertarget{hallmarks-include}{%
+\subsubsection{hallmarks include}\label{hallmarks-include}}
+
+\begin{enumerate}
+\item
+  sustaining proliferative signaling
+\item
+  evading growth suppressors
+\item
+  resisting cell death
+\item
+  enabling replicative immortality
+\item
+  inducing ingiogenesis
+\item
+  activating invasion and metastasis
+\end{enumerate}
+
+\hypertarget{theese-hallmarks-are-newer}{%
+\subsubsection{theese hallmarks are
+newer}\label{theese-hallmarks-are-newer}}
+
+\begin{enumerate}
+\item
+  reprogramming of energy metabolism
+\item
+  evading immune destruction
+\end{enumerate}
+
+\hypertarget{underlying}{%
+\subsubsection{underlying}\label{underlying}}
+
+\begin{enumerate}
+\item
+  genome instability
+
+  \begin{enumerate}
+  \item
+    genetic diversity that expedites acquisition of hallmarks
+  \end{enumerate}
+\item
+  inflammation
+
+  \begin{enumerate}
+  \item
+    "fosters multiple hallmark functions"
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{introduction}{%
+\subsection{Introduction}\label{introduction}}
+
+\hypertarget{cancer-cells-evolve-into-cancer-cells-because-they-need-to-be-cancer-cells}{%
+\subsubsection{Cancer cells evolve into cancer cells because they need
+to be cancer
+cells??}\label{cancer-cells-evolve-into-cancer-cells-because-they-need-to-be-cancer-cells}}
+
+\begin{enumerate}
+\item
+  {TODO} why do tumors have "the need \ldots{} to acquire the traints
+  that enable them to become tumorigenic and ultimately malignant"?
+  {\textsc{question}}
+\end{enumerate}
+
+\hypertarget{tumors-are-not-simple-idle-insular-masses-of-proliferating-cancer-cells}{%
+\subsubsection{tumors are not simple / idle 'insular masses of
+proliferating cancer
+cells'}\label{tumors-are-not-simple-idle-insular-masses-of-proliferating-cancer-cells}}
+
+\hypertarget{recruited-normal-cells-or-stromal-cells-are-active-parts-of-the-tumor}{%
+\subsubsection{"recruited" normal cells (or 'stromal cells') are active
+parts of the
+tumor}\label{recruited-normal-cells-or-stromal-cells-are-active-parts-of-the-tumor}}
+
+\hypertarget{the-biology-of-tumors-can-no-longer-be-understood-simply-by-enumerating-the-traits-of-the-cancer-cells-but-instead-must-encompass-the-contributions-of-the-tumor-microenvironment-to-tumorigenesis.}{%
+\subsubsection{'the biology of tumors can no longer be understood simply
+by enumerating the traits of the cancer cells but instead must encompass
+the contributions of the "tumor microenvironment" to
+tumorigenesis.'}\label{the-biology-of-tumors-can-no-longer-be-understood-simply-by-enumerating-the-traits-of-the-cancer-cells-but-instead-must-encompass-the-contributions-of-the-tumor-microenvironment-to-tumorigenesis.}}
+
+\hypertarget{purpose-is-to-consider-new-hallmarks-that-have-been-found-or-note-that-old-ones-werent-as-general-as-we-thought}{%
+\subsubsection{purpose is to consider new hallmarks that have been found
+or note that old ones weren't as general as we
+thought}\label{purpose-is-to-consider-new-hallmarks-that-have-been-found-or-note-that-old-ones-werent-as-general-as-we-thought}}
+
+\hypertarget{section-an-emerging-hallmark-evading-immune-destruction}{%
+\subsection{section: 'An Emerging Hallmark: Evading Immune
+Destruction'}\label{section-an-emerging-hallmark-evading-immune-destruction}}
+
+\hypertarget{the-immune-system-usually-eradicates-the-formation-and-progression-of-incipient-neoplasias-late-stage-tumors-and-micrometastases-so-why-not-in-these-cancers}{%
+\subsubsection{the immune system usually eradicates the 'formation and
+progression of incipient neoplasias, late-stage tumors, and
+micrometastases', so why not in these
+cancers?}\label{the-immune-system-usually-eradicates-the-formation-and-progression-of-incipient-neoplasias-late-stage-tumors-and-micrometastases-so-why-not-in-these-cancers}}
+
+\hypertarget{long-standing-theory-of-immune-surveillance---something-went-interesting}{%
+\subsubsection{'long standing theory of immune surveillance'
+-\textgreater{} something went
+interesting}\label{long-standing-theory-of-immune-surveillance---something-went-interesting}}
+
+\begin{enumerate}
+\item
+  'cells and tissues are constantly monitored'
+\item
+  surveillance should elim cancer cells before they grow into tumors
+\item
+  thus, grown tumors have either hid from surveillance or limited the
+  'extent of immunological killing'
+\end{enumerate}
+
+\hypertarget{more-cancer-in-immunocompromised-individuals}{%
+\subsubsection{more cancer in immunocompromised
+individuals}\label{more-cancer-in-immunocompromised-individuals}}
+
+\begin{enumerate}
+\item
+  but these are virus-induced cancers
+
+  \begin{enumerate}
+  \item
+    so helping these people = reducing viral infilltration
+  \end{enumerate}
+\item
+  other cancers still evade the immune system
+\end{enumerate}
+
+\hypertarget{genetically-engineered-mice-and-clinical-epidemeology-suggest-that-the-immune-system-actually-hurts-cancer}{%
+\subsubsection{'genetically engineered mice and clinical epidemeology
+suggest that the immune system' actually hurts
+cancer}\label{genetically-engineered-mice-and-clinical-epidemeology-suggest-that-the-immune-system-actually-hurts-cancer}}
+
+\begin{enumerate}
+\item
+  mice that are engineered to lack some immune parts got cancer
+  faster/stronger/more
+
+  \begin{enumerate}
+  \item
+    these guys are important in fighting cancer
+
+    \begin{enumerate}
+    \item
+      CD8\^{}+ cytotoxic T lymphocytes (CTLs)
+    \item
+      CD4\^{}+ T\textsubscript{h1} helper T cells
+    \item
+      natural killer (NK) cells
+    \end{enumerate}
+  \item
+    'demonstrable increase in tumor incidence'
+  \item
+    lacking multiple -\textgreater{} 'more susceptible to cancer
+    development'
+  \item
+    'both the innate and adaptive cellular arms of the immune system are
+    able to contribute significantly to immune surveillance and thus
+    tumor eradication' {\textsc{conclusion}}
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{transplantation-experiments}{%
+\subsubsection{transplantation
+experiments}\label{transplantation-experiments}}
+
+\begin{enumerate}
+\item
+  cancer cells from immunodeficient mice have a bad time in normal mice
+\item
+  cancer cells from normal mice can initiate tumors in both types of
+  hosts
+\item
+  maybe some cancer cells are more easily detected and those would
+  normally die in normal hosts but live in comprimised hosts, but when
+  transplanted they meet a competent immune system and die
+  {\textsc{conclusion}}
+\item
+  Open question: do some carcinogens tend to induce more/less
+  immunogenic cancer cells? {\textsc{nextstep}}
+\end{enumerate}
+
+\hypertarget{the-immune-system-probably-includes-antitumoral-responses}{%
+\subsubsection{the immune system probably includes antitumoral
+responses}\label{the-immune-system-probably-includes-antitumoral-responses}}
+
+\begin{enumerate}
+\item
+  patients with colon and ovarian tumors who have lots of CTLs and NK
+  cells have better prognosis
+
+  \begin{enumerate}
+  \item
+    evidence is not as strong for other cancers {\textsc{nextstep}}
+  \end{enumerate}
+\item
+  immunosupressed organ recievers got cancer from the donor
+
+  \begin{enumerate}
+  \item
+    suggests doner had immune system which held cancer down until organ
+    was transplanted
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{still-the-epidemiology-of-chronically-immunosupressed-patients-does-not-indicate-significantly-increased-incidences-of-the-major-forms-of-nonviral-human-cancer}{%
+\subsubsection{\texorpdfstring{{TODO} 'still, the epidemiology of
+chronically immunosupressed patients does not indicate significantly
+increased incidences of the major forms of nonviral human
+cancer'}{TODO 'still, the epidemiology of chronically immunosupressed patients does not indicate significantly increased incidences of the major forms of nonviral human cancer'}}\label{still-the-epidemiology-of-chronically-immunosupressed-patients-does-not-indicate-significantly-increased-incidences-of-the-major-forms-of-nonviral-human-cancer}}
+
+\hypertarget{something-about-hiv-patients-who-lack-t-and-b-cells-and-how-they-should-still-be-able-to-fight-cancer-with-nk-cells-and-ctls}{%
+\subsubsection{\texorpdfstring{{TODO} something about HIV patients who
+lack T and B cells and how they should still be able to fight cancer
+with NK cells and
+CTLs}{TODO something about HIV patients who lack T and B cells and how they should still be able to fight cancer with NK cells and CTLs}}\label{something-about-hiv-patients-who-lack-t-and-b-cells-and-how-they-should-still-be-able-to-fight-cancer-with-nk-cells-and-ctls}}
+
+\hypertarget{that-was-oversimplified-as-the-tumor-might-also-be-actively-supressing-immune-responses}{%
+\subsubsection{that was oversimplified as the tumor might also be
+actively supressing immune
+responses}\label{that-was-oversimplified-as-the-tumor-might-also-be-actively-supressing-immune-responses}}
+
+\begin{enumerate}
+\item
+  may 'paralyze infiltrating CTLs and NK cells by secreting TGF-β or
+  other immunosuppressive factors'
+\item
+  'more subtle mechinisms .. recruitment of inflamatory cells that are
+  actively immunosuppressive'
+
+  \begin{enumerate}
+  \item
+    'regulatory T cells (Tregs) and myeloid-derived suppressor cells
+    (MDSCs)'
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{it-is-so-far-unclear-whether-the-immune-system-plays-a-large-enough-role-to-be-considered-a-hallmark-of-cancer}{%
+\subsubsection{it is so far unclear whether the immune system plays a
+large enough role to be considered a hallmark of
+cancer}\label{it-is-so-far-unclear-whether-the-immune-system-plays-a-large-enough-role-to-be-considered-a-hallmark-of-cancer}}
+
+\hypertarget{vocab}{%
+\section{Vocab}\label{vocab}}
+
+\hypertarget{neoplastic-disease}{%
+\subsection{neoplastic disease}\label{neoplastic-disease}}
+
+\hypertarget{anything-that-causes-tumor-growth-malignant-or-benign}{%
+\subsubsection{anything that causes tumor growth (malignant or
+benign)}\label{anything-that-causes-tumor-growth-malignant-or-benign}}
+
+\hypertarget{ostensibly}{%
+\subsection{ostensibly}\label{ostensibly}}
+
+\hypertarget{maybe-technically}{%
+\subsubsection{maybe 'technically'?'}\label{maybe-technically}}
+
+\hypertarget{tumor-microenvironment}{%
+\subsection{tumor microenvironment}\label{tumor-microenvironment}}
+
+\hypertarget{presumably-inflammation-recruited-normal-cells-and-other-stuff-that-helps-the-tumor-grow}{%
+\subsubsection{presumably inflammation, recruited normal cells, and
+other stuff that helps the tumor
+grow}\label{presumably-inflammation-recruited-normal-cells-and-other-stuff-that-helps-the-tumor-grow}}
+
+\hypertarget{pathogenisis}{%
+\subsection{pathogenisis}\label{pathogenisis}}
+
+\hypertarget{evolution-of-pathogen-cancer}{%
+\subsubsection{evolution of 'pathogen'
+(cancer)}\label{evolution-of-pathogen-cancer}}
+
+\hypertarget{ancillary-proposition}{%
+\subsection{ancillary proposition}\label{ancillary-proposition}}
+
+\hypertarget{maybe-the-starting-base-proposition}{%
+\subsubsection{maybe the starting / base
+proposition}\label{maybe-the-starting-base-proposition}}
+
+\hypertarget{insular-masses}{%
+\subsection{insular masses}\label{insular-masses}}
+
+\hypertarget{stagnant-or-something-simple}{%
+\subsubsection{stagnant or something,
+simple}\label{stagnant-or-something-simple}}
+
+\hypertarget{heterotypic-interactions}{%
+\subsection{heterotypic interactions}\label{heterotypic-interactions}}
+
+\hypertarget{many-types-of-interactions}{%
+\subsubsection{many types of
+interactions}\label{many-types-of-interactions}}
+
+\hypertarget{tumorigenisis}{%
+\subsection{tumorigenisis}\label{tumorigenisis}}
+
+\hypertarget{the-growth-development-of-a-tumor}{%
+\subsubsection{the growth / development of a
+tumor?}\label{the-growth-development-of-a-tumor}}
+
+\hypertarget{neoplasias}{%
+\subsection{neoplasias}\label{neoplasias}}
+
+\hypertarget{new-uncontrolled-growth-of-cells}{%
+\subsubsection{new uncontrolled growth of
+cells}\label{new-uncontrolled-growth-of-cells}}
+
+\hypertarget{micrometastases}{%
+\subsection{micrometastases}\label{micrometastases}}
+
+\hypertarget{clumps-of-cancer-cells-that-spread-around-the-body}{%
+\subsubsection{clumps of cancer cells that spread around the
+body}\label{clumps-of-cancer-cells-that-spread-around-the-body}}
+
+\hypertarget{etiology}{%
+\subsection{etiology}\label{etiology}}
+
+\hypertarget{study-of-cancer}{%
+\subsubsection{study of cancer?}\label{study-of-cancer}}
+
+\hypertarget{immunogenic}{%
+\subsection{immunogenic}\label{immunogenic}}
+
+\hypertarget{easily-detected-by-the-immune-system}{%
+\subsubsection{easily detected by the immune
+system}\label{easily-detected-by-the-immune-system}}
+
+\hypertarget{immunoediting}{%
+\subsection{immunoediting}\label{immunoediting}}
+
+\hypertarget{natural-selection-by-the-immune-system}{%
+\subsubsection{"natural selection" by the immune
+system}\label{natural-selection-by-the-immune-system}}
+
+\hypertarget{prognosis}{%
+\subsection{prognosis}\label{prognosis}}
+
+\hypertarget{a-prediction-of-the-outcome-of-a-cancer-or-disease-in-general-apparently}{%
+\subsubsection{a prediction of the outcome of a cancer (or disease in
+general,
+apparently)}\label{a-prediction-of-the-outcome-of-a-cancer-or-disease-in-general-apparently}}
+
+\end{document}

@@ -1,0 +1,305 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Upper Triangular Matrix }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9426)}}    % original
+%\rhead{\textrmlf{Compiled }\#9426\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#9426
+  \textrmlf{ on}
+      \today
+  }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{upper-triangular-matrix-1}{%
+\section{\texorpdfstring{upper triangular matrix
+{\textsc{def}}}{upper triangular matrix def}}\label{upper-triangular-matrix-1}}
+
+A matrix in which all entries below the
+\href{KBrefDiagonalOfAMatrix.org}{diagonal} are zero
+
+\[\begin{aligned}
+  \begin{pmatrix}\lambda_1 & &*\\&\ddots&\\0&&\lambda _n\end{pmatrix}
+  \end{aligned}\]
+
+\hypertarget{results}{%
+\subsection{results}\label{results}}
+
+\hypertarget{axler5.26-conditions-for-upper-triangular-matrix}{%
+\subsubsection{Axler5.26 Conditions for upper-triangular
+matrix}\label{axler5.26-conditions-for-upper-triangular-matrix}}
+
+\begin{quote}
+Suppose \(T ;i \mathcal{L} (V)\) and \(v_1, \ldots, v_n\) is a basis of
+\(V\). The following are equivalent:
+
+\begin{itemize}
+\tightlist
+\item
+  the matrix of \(T\) with respect to \(v_1, \ldots, v_n\) is upper
+  triangular
+\item
+  \(Tv_j \in \ospan(v_1, \ldots, v_j)\) for each \(j = 1, \ldots, n\)
+\item
+  The span of each prefix of the basis is invariant under \(T\).
+\end{itemize}
+\end{quote}
+
+\hypertarget{axler5.27-over-mathbbc-every-operator-has-an-upper-triangular-matrix}{%
+\subsubsection{\texorpdfstring{Axler5.27 Over \(\mathbb{C}\), every
+operator has an upper-triangular
+matrix}{Axler5.27 Over \textbackslash mathbb\{C\}, every operator has an upper-triangular matrix}}\label{axler5.27-over-mathbbc-every-operator-has-an-upper-triangular-matrix}}
+
+\begin{quote}
+Suppose \(V\) is a finite-dimensional complex vector space and
+\(T \in  \mathcal{L} (V)\). Then \(T\) has an upper-triangular matrix
+wrt some basis of \(V\).
+\end{quote}
+
+\begin{enumerate}
+\item
+  intuition
+
+  There are \(n\) eigenvalues (fundamental theorem of linear algebra)
+  and each one should have a corresponding eigenvector that can sweep
+  out a column? What happens when an eigenvalue has higher multiplicity?
+\item
+  proof
+
+  \begin{enumerate}
+  \item
+    induction on the dimension of \(V\). use the fact that the first
+    column can be found, then use the remaining basis vectors as a
+    smaller subspace and do the same thing?
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{axler5.30-determination-of-invertibility-from-upper-triangular-matrix}{%
+\subsubsection{Axler5.30 Determination of invertibility from
+upper-triangular
+matrix}\label{axler5.30-determination-of-invertibility-from-upper-triangular-matrix}}
+
+\begin{quote}
+Suppose \(T \in  \mathcal{L} (V)\) has an upper-tringular matrix wrt
+some basis of \(V\). Then, \(T\) is invertible iff all the entries on
+the diagonal of the upper-triangular matrix are nonzero.
+\end{quote}
+
+\begin{enumerate}
+\item
+  intuition
+
+  \begin{enumerate}
+  \item
+    if one of the diagonal vectors is zero, then there is an
+    injectivity/surjectivity problem and the operator is singular
+  \item
+    proof is by assuming all are nonzero and showing surjective, then by
+    contradiction.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{axler-5.32-determination-of-eigenvalues-from-upper-triangular-matrix}{%
+\subsubsection{Axler 5.32 Determination of eigenvalues from
+upper-triangular
+matrix}\label{axler-5.32-determination-of-eigenvalues-from-upper-triangular-matrix}}
+
+\begin{quote}
+Suppose \(T \in  \mathcal{L} (V)\) has an upper-triangular matrix wrt
+some basis of \(V\). Then the eigenvalues of \(T\) are precisely the
+entries on the diagonal of that upper-triangular matrix.
+\end{quote}
+
+\begin{enumerate}
+\item
+  proof
+
+  \[\begin{aligned}
+       \mathcal{M} (T) = \begin{pmatrix}\lambda _1 & & &*\\&\lambda _2&&\\&&\ddots&\\0&&&\lambda _n\end{pmatrix}\\
+       \mathcal{M} (T-\lambda I) = \begin{pmatrix}\lambda _1-\lambda  & & &*\\&\lambda _2-\lambda &&\\&&\ddots&\\0&&&\lambda _n-\lambda \end{pmatrix}
+       \end{aligned}\] And that second matrix is only singular when
+  \(\lambda \in \lambda _1, \ldots, \lambda _n\)
+\end{enumerate}
+
+\end{document}

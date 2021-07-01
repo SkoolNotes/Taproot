@@ -1,0 +1,248 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Module 2 Group Test Prelim }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4236)}}    % original
+%\rhead{\textrmlf{Compiled }\#4236\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4236\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{openstax-calc-vol-1-chap-2.4-ex-134}{%
+\section{Openstax Calc vol 1 chap 2.4 ex
+134}\label{openstax-calc-vol-1-chap-2.4-ex-134}}
+
+\[g(t) = \frac{1}{t}+1\] which is basically \(\frac{1}{x}\) shied up by
+one, so there is an \(\boxed{\text{infinite discontinuity at} x=0}\)
+
+\hypertarget{section}{%
+\section{136}\label{section}}
+
+There is a jump discontinuity at \(x=2\), because normally
+\(y=\frac{x}{x}\) simplifies to \(y=1\), but the sign flips at \(x=2\).
+
+\hypertarget{section-1}{%
+\section{142}\label{section-1}}
+
+\[f(y) = \frac{\sin(\pi y)}{\tan(\pi y)} = \frac{\cancel{\sin(\pi y)} \cos(\pi y)}{\cancel{\sin(\pi y)}}\]
+So there is a removable discontinuity at \(y=1\), because there is a
+discontinuity but it can be removed with algebra.
+
+\hypertarget{section-2}{%
+\section{148}\label{section-2}}
+
+\[\begin{aligned}e^{4k} = 4+3\\e^{4k}=7\\4k=\ln(7)\\k=\frac{\ln(7)}{4}\end{aligned}\]
+
+\hypertarget{section-3}{%
+\section{\texorpdfstring{{TODO} 174}{TODO 174}}\label{section-3}}
+
+Prove \(f(x)\) is continues everywhere, meaning show that
+\(\forall c\in \mathbb{R}\) \[\lim_{x\to c} f(x) = f(c)\] Because we can
+always evaluate \(f(x)\), the limit always exists.
+
+\hypertarget{pauls-online-math-notes-section-2-9-23}{%
+\section{Paul's online math notes Section 2-9:
+23}\label{pauls-online-math-notes-section-2-9-23}}
+
+The IVT states that when a function is continuous over a closed interval
+\([a, b]\), then for all
+\(\min\{f(a), f(b)\} \le y \le \max\{f(a), f(b)\}\) there exists some
+\(a \le c \le b\) s.t. \(f(c) = y\). In this case, we have
+\(f(4) = 193\) and \(f(8) = -511\). \(f(x)\) is a polynomial, so it is
+continuous over the range. Because our values stradle zero, there must
+be some value \(4 \le c \le 8\) s.t. \(f(c) = 0\).
+
+\hypertarget{boundedness-theorem}{%
+\section{Boundedness theorem}\label{boundedness-theorem}}
+
+Given a function \(f(x)\) that is continuous on a closed interval
+\([a, b]\), there exists some \(M \in \mathbb R\) s.t. \(f(c) \le M\)
+for all \(a \le c \le b\) aka \(M\) is an upper bound on \(f(x)\) over
+the interval \([a, b]\). There's also one that's less than all \(c\).
+Doesn't work for open intervals.
+
+\hypertarget{not-continuous-not-a-closed-interval}{%
+\subsection{\texorpdfstring{\((0, 1]\): not continuous, not a closed
+interval}{(0, 1{]}: not continuous, not a closed interval}}\label{not-continuous-not-a-closed-interval}}
+
+\hypertarget{not-a-closed-interval}{%
+\subsection{\texorpdfstring{\([0, 1)\): not a closed
+interval}{{[}0, 1): not a closed interval}}\label{not-a-closed-interval}}
+
+\hypertarget{not-a-closed-interval-1}{%
+\subsection{\texorpdfstring{\((0, 1]\): not a closed
+interval}{(0, 1{]}: not a closed interval}}\label{not-a-closed-interval-1}}
+
+\hypertarget{not-continuous-not-a-closed-interval-1}{%
+\subsection{\texorpdfstring{\((0, 1]\): not continuous, not a closed
+interval}{(0, 1{]}: not continuous, not a closed interval}}\label{not-continuous-not-a-closed-interval-1}}
+
+\hypertarget{fx-frac1x-not-continuous}{%
+\subsection{\texorpdfstring{\(f(x) = \frac{1}{x}\): not
+continuous}{f(x) = \textbackslash frac\{1\}\{x\}: not continuous}}\label{fx-frac1x-not-continuous}}
+
+\hypertarget{epilouge}{%
+\section{Epilouge}\label{epilouge}}
+
+Other than Problem 5, this took roughly 40 minutes. I still don't know
+how to do problem 5..
+
+\end{document}

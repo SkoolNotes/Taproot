@@ -1,0 +1,768 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Notes on The Quantum World by Kenneth W Ford }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9065)}}    % original
+%\rhead{\textrmlf{Compiled }\#9065\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#9065
+  \textrmlf{ on}
+      \today
+  }       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{beneath-the-surface-of-things}{%
+\section{beneath the surface of
+things}\label{beneath-the-surface-of-things}}
+
+\hypertarget{scale}{%
+\subsection{scale}\label{scale}}
+
+\hypertarget{wood-seems-solid-but-is-mostly-empty-space-atoms.-quantum-effects-are-noticable-on-even-smaller-scales}{%
+\subsubsection{wood seems solid, but is mostly empty space (atoms).
+Quantum effects are noticable on even smaller
+scales}\label{wood-seems-solid-but-is-mostly-empty-space-atoms.-quantum-effects-are-noticable-on-even-smaller-scales}}
+
+Atoms are like Propeller analogy: easy for something small and fast to
+get through, but hard for something large and slow.
+
+\hypertarget{unintuitive}{%
+\subsection{unintuitive}\label{unintuitive}}
+
+Small (quantum mechanics) and fast (special relativity) things behave
+unintuitively
+
+\hypertarget{particle-history}{%
+\subsection{particle history}\label{particle-history}}
+
+\hypertarget{electron-and-proton}{%
+\subsubsection{electron and proton}\label{electron-and-proton}}
+
+known to exist in 1926
+
+\hypertarget{photon}{%
+\subsubsection{photon}\label{photon}}
+
+no mass, created/detsroyed easily, was thought of as a funky 'almost
+particle' until it was discovered that they behave similarly to
+electrons and that electrons can be created/destroyed easily too
+
+\hypertarget{fundamental-discoveries-in-1924-1928}{%
+\subsection{fundamental discoveries in
+1924-1928}\label{fundamental-discoveries-in-1924-1928}}
+
+\hypertarget{matter-has-wave-properties}{%
+\subsubsection{matter has wave
+properties}\label{matter-has-wave-properties}}
+
+\hypertarget{fundamental-laws-are-probabliistic}{%
+\subsubsection{fundamental laws are
+probabliistic}\label{fundamental-laws-are-probabliistic}}
+
+\hypertarget{heisenburg-uncertainty}{%
+\subsubsection{heisenburg uncertainty}\label{heisenburg-uncertainty}}
+
+\hypertarget{discrete-electron-spin}{%
+\subsubsection{discrete electron spin}\label{discrete-electron-spin}}
+
+\hypertarget{every-particle-has-an-antiparticle}{%
+\subsubsection{every particle has an
+antiparticle}\label{every-particle-has-an-antiparticle}}
+
+\hypertarget{multiple-momentums-simultaneously}{%
+\subsubsection{multiple momentums
+simultaneously}\label{multiple-momentums-simultaneously}}
+
+\hypertarget{no-two-electrons-can-be-in-the-same-state-of-motion-at-the-same-time}{%
+\subsubsection{no two electrons can be in the same state of motion at
+the same
+time?}\label{no-two-electrons-can-be-in-the-same-state-of-motion-at-the-same-time}}
+
+\hypertarget{unlike-classical-mechanics-properties-and-actions-are-not-as-distinct-in-the-quantum-world}{%
+\subsection{unlike classical mechanics, properties and actions are not
+as distinct in the quantum
+world}\label{unlike-classical-mechanics-properties-and-actions-are-not-as-distinct-in-the-quantum-world}}
+
+\hypertarget{quantum-mechanics-wont-follow-common-sense-which-is-to-be-expected-because-common-sense-is-based-on-much-larger-things}{%
+\subsection{quantum mechanics won't follow common sense, which is to be
+expected because common sense is based on much larger
+things}\label{quantum-mechanics-wont-follow-common-sense-which-is-to-be-expected-because-common-sense-is-based-on-much-larger-things}}
+
+\hypertarget{subatomic-vs-fundamental-particles}{%
+\subsection{subatomic vs fundamental
+particles}\label{subatomic-vs-fundamental-particles}}
+
+\hypertarget{hundreds-of-subatomic-particles-but-only-a-few-are-fundamental}{%
+\subsubsection{hundreds of subatomic particles, but only a few are
+fundamental}\label{hundreds-of-subatomic-particles-but-only-a-few-are-fundamental}}
+
+\hypertarget{most-are-composite}{%
+\subsubsection{most are composite}\label{most-are-composite}}
+
+\hypertarget{just-like-how-there-are-hundreds-of-atoms-but-they-are-all-composed-of-electrons-protons-neutrons}{%
+\subsubsection{just like how there are hundreds of atoms but they are
+all composed of electrons, protons,
+neutrons}\label{just-like-how-there-are-hundreds-of-atoms-but-they-are-all-composed-of-electrons-protons-neutrons}}
+
+\hypertarget{there-are-24-fundamental-particles-excluding-the-higgs-boson-graviton-which-is-not-yet-proven-and-antiparticles.}{%
+\subsubsection{there are 24 fundamental particles excluding the higgs
+boson, graviton (which is not yet proven), and
+antiparticles.}\label{there-are-24-fundamental-particles-excluding-the-higgs-boson-graviton-which-is-not-yet-proven-and-antiparticles.}}
+
+\hypertarget{how-small-is-small-how-fast-is-fast-scale}{%
+\section{how small is small? How fast is fast?
+(scale)}\label{how-small-is-small-how-fast-is-fast-scale}}
+
+\hypertarget{convienent-units}{%
+\subsection{convienent units}\label{convienent-units}}
+
+\hypertarget{femtometer-fm-10-15-m}{%
+\subsubsection{\texorpdfstring{femtometer (fm,
+\(10^{-15} m\))}{femtometer (fm, 10\^{}\{-15\} m)}}\label{femtometer-fm-10-15-m}}
+
+\begin{enumerate}
+\item
+  roughly a proton diameter
+\item
+  6 miles is geometrically centered between the smallest particle probe
+  and the radius of the known universe.
+\item
+  smallest prob is \(10^{-18}\) meters. The plank length is \(10^{-35}\)
+  meters
+\end{enumerate}
+
+\hypertarget{speed-of-light-c-3-times-108-ms2}{%
+\subsubsection{\texorpdfstring{speed of light (c,
+\(3 \times 10^8 m/s^2\))}{speed of light (c, 3 \textbackslash times 10\^{}8 m/s\^{}2)}}\label{speed-of-light-c-3-times-108-ms2}}
+
+\begin{enumerate}
+\item
+  not as sped as distances are small
+\item
+  atoms and molecules vibrate roughly \(10^{-5} c\) or \(10^{-6} c\)
+\item
+  the lighter something is, the faster it can go, so its likely that the
+  rest-massless photon is the fastest
+\item
+  some theoretical tachyon business which can maybe go faster
+\end{enumerate}
+
+\hypertarget{time}{%
+\subsubsection{time}\label{time}}
+
+\begin{enumerate}
+\item
+  humans
+
+  \begin{enumerate}
+  \item
+    image flashed for a hundreth of a second (10 ms) can be precieved
+    but not a thousandth
+  \item
+    average human reaction time is 150-300ms
+  \end{enumerate}
+\item
+  time to cross diameter of a proton at sped of light = \(10^{-23}s\)
+\item
+  particles that live long enough to leave trails in the detector live
+  roughly \(10^{-10}\) to \(10^{-6}\)
+\item
+  longest living is proton for 15 min (10\textsuperscript{3})
+\end{enumerate}
+
+\hypertarget{mass}{%
+\subsubsection{mass}\label{mass}}
+
+\begin{enumerate}
+\item
+  mass is inertia, measured by how hard it is to accelerate them (change
+  their motion)
+\item
+  often measured as energy via \(E = mc^2\)
+
+  \begin{enumerate}
+  \item
+    proton = 938MeV is easier to say than \(1.67\times 10^{-27}kg\)
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{electron-volt-ev-energy-auired-by-an-electron-being-accelerated-through-an-electric-potential-of-1-volt}{%
+\subsubsection{electron volt (eV, energy auired by an electron being
+accelerated through an electric potential of 1
+volt)}\label{electron-volt-ev-energy-auired-by-an-electron-being-accelerated-through-an-electric-potential-of-1-volt}}
+
+\begin{enumerate}
+\item
+  roughly a photon of red light
+\item
+  particle accelerators are made to create high energy particles that
+  can then be converted to mass
+\item
+  modern accelerators go to roughly 1TeV, while protons move with only
+  1eV on the surface of the sun and weigh almost 1GeV.
+\end{enumerate}
+
+\hypertarget{charge-e-1.6times-10-19c}{%
+\subsubsection{\texorpdfstring{charge
+(\(e, 1.6\times 10^{-19}C\))}{charge (e, 1.6\textbackslash times 10\^{}\{-19\}C)}}\label{charge-e-1.6times-10-19c}}
+
+\begin{enumerate}
+\item
+  protons and electrons have the same magnitude of charge, deemed one
+  unit. quarks have fractional charges
+\item
+  open questions
+
+  \begin{enumerate}
+  \item
+    why is charge quantized/descrete
+  \item
+    what happens near charged particles? inf charge as dist → zero
+  \item
+    if particles are physically sized, why dont parts of the particle
+    repel itself
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{spin}{%
+\subsubsection{spin}\label{spin}}
+
+\begin{enumerate}
+\item
+  two types: spin and orbital motion
+\item
+  measured with angular momentum
+\item
+  fundamental particles don't have a descernible spin but do have an
+  angular momentum
+\item
+  \(\hbar = \frac{h}{2\pi} = 1.05\times 10^{-34} kgm^2/s\)
+\item
+  orbital angular momentum must be a multiple of \(\hbar\) and spin
+  angular momentum can be a multiple of \(\frac{1}{2}\hbar\)?
+\item
+  a particle type can have many spins, but the change in spin is often
+  so drastic that they are considered two different particles
+\end{enumerate}
+
+\hypertarget{fundamental-constants}{%
+\subsubsection{fundamental constants}\label{fundamental-constants}}
+
+\begin{enumerate}
+\item
+  most units are chosen arbitrarily based on earths size or something,
+  but there are two fundamental ones
+\item
+  plank's constant \(h\) defines the quantum scale\ldots{} larger \(h\)
+  would make the universe 'lumpier' or 'more pixelated'
+\item
+  the speed of light \(c\) is the fastest speed, or something.
+\item
+  there is expceted to be a third constant to form a complete basis, but
+  we haven't found one yet
+
+  \begin{enumerate}
+  \item
+    it would be a length or a time
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{meet-the-leptons}{%
+\section{meet the leptons}\label{meet-the-leptons}}
+
+\hypertarget{types-flavor-electron-muon-tau}{%
+\subsection{types (flavor) electron, muon,
+tau}\label{types-flavor-electron-muon-tau}}
+
+\hypertarget{conserve-charge-flavor-energy-momentum}{%
+\subsection{conserve \{charge, flavor, energy,
+momentum\}}\label{conserve-charge-flavor-energy-momentum}}
+
+\hypertarget{neutrinos-are-like-the-soul-of-its-particle---tiny-mass-but-same-flavor}{%
+\subsection{neutrinos are like the soul of its particle - tiny mass but
+same
+flavor}\label{neutrinos-are-like-the-soul-of-its-particle---tiny-mass-but-same-flavor}}
+
+\hypertarget{they-have-multiples-of-half-unit-spins-or-something}{%
+\subsection{they have multiples of half unit spins or
+something}\label{they-have-multiples-of-half-unit-spins-or-something}}
+
+\hypertarget{any-particles-can-be-created-as-long-as-everything-is-conserved}{%
+\subsection{any particles can be created as long as everything is
+conserved}\label{any-particles-can-be-created-as-long-as-everything-is-conserved}}
+
+\hypertarget{the-rest-of-the-extended-family}{%
+\section{the rest of the extended
+family}\label{the-rest-of-the-extended-family}}
+
+\hypertarget{quarks}{%
+\subsection{quarks}\label{quarks}}
+
+\hypertarget{six-of-them-in-groups-of-three}{%
+\subsubsection{six of them in groups of
+three}\label{six-of-them-in-groups-of-three}}
+
+\hypertarget{they-group-up-in-the-wild-to-make-up-other-composite-particles}{%
+\subsubsection{they group up in the wild to make up other composite
+particles}\label{they-group-up-in-the-wild-to-make-up-other-composite-particles}}
+
+\hypertarget{particles-have-integer-charge-but-quarks-come-in-one-third-multiples-of-charge}{%
+\subsubsection{particles have integer charge, but quarks come in
+one-third multiples of
+charge}\label{particles-have-integer-charge-but-quarks-come-in-one-third-multiples-of-charge}}
+
+\hypertarget{baryon-number}{%
+\subsubsection{baryon number}\label{baryon-number}}
+
+\begin{enumerate}
+\item
+  another type of 'charge' that is also conserved
+\item
+  protons and neutrons are both baryonic (meaning they have baryon
+  number?)
+\item
+  like leptons, the lightest baryon cannot decay because there is
+  nothing to decay into (the proton)
+\item
+  quarks have one-third baryon number also
+\end{enumerate}
+
+\hypertarget{antiquarks}{%
+\subsubsection{antiquarks}\label{antiquarks}}
+
+\begin{enumerate}
+\item
+  makes up meson with another singular quark (For a total baryon number
+  of 0)
+\item
+  antiquark particles are unstable
+\end{enumerate}
+
+\hypertarget{color}{%
+\subsubsection{color}\label{color}}
+
+\begin{enumerate}
+\item
+  red, green, blue, antired, antigreen, antiblue
+\item
+  all three or a normal with an anti is colorless..???
+
+  ended page 71
+\end{enumerate}
+
+\hypertarget{composite-particles}{%
+\subsection{composite particles}\label{composite-particles}}
+
+\hypertarget{baryons-vs-mesons}{%
+\subsubsection{baryons vs mesons}\label{baryons-vs-mesons}}
+
+\begin{enumerate}
+\item
+  baryons have half odd integral spins (1/2, 3/2, 5/2) while mesons have
+  integral spins
+\item
+  baryons are made of 3 quarks each while mesons are made up of a quark
+  and an antiquark
+\item
+  baryons are fermions and mesons are bosons. all are hadrons (strongly
+  interacting) bc quarks are strongly interacting
+\item
+  mesons have baryon number zero
+\end{enumerate}
+
+\hypertarget{some-baryons}{%
+\subsubsection{some baryons}\label{some-baryons}}
+
+\begin{enumerate}
+\item
+  lightest are proton and neutron (made up up and down quarks)
+\item
+  then heavier ones have strange quarks, and some even heavier have
+  charm and bottom quarks
+\item
+  have not found a baryon that contains a top quark yet
+\item
+  other than the proton, all 'baryons are unstable (radoactive)'
+\item
+  they all live a really short time (see the table) roughly \(10^{-10}\)
+  to \(10^{-19}\) seconds
+\end{enumerate}
+
+\hypertarget{some-mesons}{%
+\subsubsection{some mesons}\label{some-mesons}}
+
+\begin{enumerate}
+\item
+  the pion (lightest meson)
+
+  \begin{enumerate}
+  \item
+    Yukawa thought pions moving around gave rise to the strong nuclear
+    force, but now we think its quarks exchanging gluons
+  \item
+    there is a charged version of the pion which is made of a down quark
+    and an anti-up quark (written \(d\bar u\))
+  \item
+    the uncharged pion is made up of 'a mixture, pratly an up quark and
+    an anti-up quark, partly a down quark and an anti-down quark, so we
+    write its composition as \(u \bar u \& d \bar d\)' what the heck
+    {\textsc{question}}
+  \item
+    some different mesons have the same composition (neutral pion and
+    eta)
+  \item
+    mesons can decay entirely into leptons (while baryons cannot because
+    they must conserve their non-zero baryon number)
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{force-carriers}{%
+\subsection{force carriers}\label{force-carriers}}
+
+\hypertarget{physics-is-about-things-and-what-happens-to-them-and-those-particles-were-the-things.-these-are-what-happens}{%
+\subsubsection{physics is about things and what happens to them, and
+those particles were the things. these are what
+happens}\label{physics-is-about-things-and-what-happens-to-them-and-those-particles-were-the-things.-these-are-what-happens}}
+
+\hypertarget{all-are-bosons-integer-spins-and-there-are-no-conservation-laws-so-they-can-do-whatever-they-want}{%
+\subsubsection{all are bosons (integer spins) and there are no
+conservation laws so they can do whatever they
+want}\label{all-are-bosons-integer-spins-and-there-are-no-conservation-laws-so-they-can-do-whatever-they-want}}
+
+\begin{enumerate}
+\item
+  not even conservation of angular momentum/spin? {\textsc{question}}
+\end{enumerate}
+
+\hypertarget{there-are-six-particle-types-with-one-for-each-of-the-fundamental-forces-except-the-weak-force-which-has-three}{%
+\subsubsection{there are six particle types, with one for each of the
+fundamental forces except the weak force which has
+three}\label{there-are-six-particle-types-with-one-for-each-of-the-fundamental-forces-except-the-weak-force-which-has-three}}
+
+\begin{enumerate}
+\item
+  graviton (the weakest force) (but it is the one we see the most
+  because all the other forces can be negative are balanced (ex positive
+  and negative charges yet most matter is mostly neutral))
+
+  \begin{enumerate}
+  \item
+    its so weak that it doesn't really do anything in the subatomic
+    world (can be ignored)
+
+    \begin{enumerate}
+    \item
+      but maybe some weird quantum stuff makes it actually important on
+      smaller scales
+    \end{enumerate}
+  \item
+    not much to say apparently, it cant be v precisely measured bc its
+    so weak
+  \end{enumerate}
+\item
+  weak force carriers (W and Z)
+
+  \begin{enumerate}
+  \item
+    very massive but lacking physical size?? {\textsc{question}}
+  \item
+    they are actually three close siblings (much like the positive,
+    negative, and neutral versions of pions)
+  \item
+    discovered at proton synchotron at CERN
+  \end{enumerate}
+\item
+  photon
+
+  \begin{enumerate}
+  \item
+    proposed by Einstein in 1905, but not seen as a real particle until
+    the 1930s
+  \item
+    actually zero mass and zero size
+  \item
+    force carrier for electromagnitism
+  \item
+    electroweak theory
+
+    \begin{enumerate}
+    \item
+      says that electromagnetic and weak forces are the same thing but
+      on different scales
+    \item
+      suggests heaver force carrier means weaker force and shorter range
+    \item
+      except the electromagnetic force only cares about charged
+      particles while the weak force affects all particles
+    \end{enumerate}
+  \end{enumerate}
+\item
+  strong interaction gluons
+
+  \begin{enumerate}
+  \item
+    there are 8 of them, and 8 more antiparticles
+  \item
+    made up of two colors (red antiblue or blue antigreen) for
+    2\textsuperscript{3} = 8 combinations
+
+    \begin{enumerate}
+    \item
+      are colors allowed to repeat (red antired) and is it always
+      normal-anti (or is antired-green diff from green antired)
+      {\textsc{question}}
+    \end{enumerate}
+  \item
+    quarks change color when they interact with a gluon
+  \item
+    gluons can also directly exert force on one another (while photons
+    can only interact with eachother via charged particles)
+
+    \begin{enumerate}
+    \item
+      is there an example of this {\textsc{question}}
+    \end{enumerate}
+  \item
+    strong force holds quarks within the particle, and gets stronger as
+    distance increases
+  \item
+    you can break a quark out of an atom, but the energy will become
+    more quarks and antiquarks and you might get a pion out (bruh)
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{feynmann-diagrams}{%
+\subsection{feynmann diagrams}\label{feynmann-diagrams}}
+
+\hypertarget{start-with-something-like-a-spacetime-diagram}{%
+\subsubsection{start with something like a spacetime
+diagram}\label{start-with-something-like-a-spacetime-diagram}}
+
+\begin{enumerate}
+\item
+  the path tells us everything there is to know about a particle
+\item
+  but at events (ex. where the path changes directions) any number of
+  things might happen
+\item
+  subatomic events seem to be instant and unsurvivable (nothing goes in
+  and also comes out)
+\item
+  particles can also move backwards in time, apparently
+\end{enumerate}
+
+\hypertarget{features-of-the-feynmann-diagram}{%
+\subsubsection{features of the feynmann
+diagram}\label{features-of-the-feynmann-diagram}}
+
+\begin{enumerate}
+\item
+  every vertex has three points, with two fermion lines (particles) and
+  one boson line (force carrier)
+
+  \begin{enumerate}
+  \item
+    \textbf{every interaction in the universe is the result of two
+    fermions and a boson meeting in these triads}
+  \end{enumerate}
+\item
+  arrows denote anti-ness (a forwards-in-time positron is the same as a
+  backwards-in-time electron)
+\item
+  conservation laws are consistent at each vertex
+\item
+  composite particles don't interact with bosons, so we draw them as
+  their constituent quarks
+\end{enumerate}
+
+\hypertarget{gluon-exchange-between-quarks}{%
+\subsubsection{gluon exchange between
+quarks}\label{gluon-exchange-between-quarks}}
+
+\begin{enumerate}
+\item
+  gluon particles are determined by the quark pairs that they interact
+  with? so a gluon being released and then absorbed by a diff quark
+  essentially swaps the colors of the two quarks? {\textsc{question}}
+\item
+  is there a difference between a red quark sending a blue quark a red
+  antiblue gluon and a blue quark sending a red quark a red antiblue
+  glueon? {\textsc{question}}
+\item
+  quarks don't change their type (up down strange charm top bottom) when
+  getting glueoned
+\end{enumerate}
+
+\end{document}

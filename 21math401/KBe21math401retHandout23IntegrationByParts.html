@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title>  Integration By Parts </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong></strong> Integration By Parts </span></div>
+        </div>
+        <div id="center-viewport">
+            <h1 id="int-ln-x-dx"><span class="math inline">\(\int \ln x dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int \ln  x dx &amp;=\int 1 \ln  x dx \\
+              &amp;= x \ln  x -\int x \frac{1}{x} dx \\
+              &amp;= x \ln  x -\int 1 dx \\
+              &amp;= \boxed{x \ln  x - x}
+              \end{aligned}\]</span></p>
+            <h1 id="inttan--x-dx"><span class="math inline">\(\int\tan ^-x dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int\tan ^-x dx &amp;= x \tan^- x -\int x \frac{1}{x^2+1} dx \\
+              &amp;= x\tan ^- x - \frac{1}{2}\int \frac{du}{u}\\
+              &amp;= x\tan ^- x - \frac{1}{2}\ln  u + C\\
+              &amp;= x\tan ^- x - \frac{1}{2}\ln (x^2+1) +C
+              \end{aligned}\]</span></p>
+            <h1 id="int-xsec-2-x-dx"><span class="math inline">\(\int x\sec ^2 x dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int x\sec ^2 x dx &amp;= x\tan x -\int\tan x dx\\
+              &amp;= x\tan x + \ln | \cos  x | + C
+              \end{aligned}\]</span></p>
+            <h1 id="int-x2-e5x-dx"><span class="math inline">\(\int x^2 e^{5x} dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int x^2 e^{5x} dx &amp;= x^2 \frac{1}{5}e^{5x} - \int 2x \frac{1}{5}e^{5x} dx\\
+              &amp;= x^2 \frac{1}{5}e^{5x} - 2x \frac{1}{25}e^{5x} +\int 2 \frac{1}{25}e^{5x} dx\\
+              &amp;= \frac{1}{5} e^{5x} ( x^2 - \frac{2}{5}x + \frac{2}{25} ) +C
+              \end{aligned}\]</span></p>
+            <h1 id="int-x-2cos-x-dx-fx--int-2xsin-x-dx"><span class="math inline">\(\int x ^2\cos x  dx = f(x) -\int 2x\sin x dx\)</span></h1>
+            <p>Find <span class="math inline">\(f(x)\)</span> <span class="math display">\[\begin{aligned}
+              f(x) = x^2 \sin  x
+              \end{aligned}\]</span></p>
+            <h1 id="int-xcos-x-dx"><span class="math inline">\(\int x\cos x  dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int x \cos  x dx &amp;= x \sin  x -\int \sin  x dx \\
+              &amp;= x \sin  x + \cos  x + C
+              \end{aligned}\]</span></p>
+            <h1 id="int-x2sin-x-dx"><span class="math inline">\(\int x^2\sin x dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int x^2 \sin  x dx &amp;= - x \cos  x -\int - \cos  x dx \\
+              &amp;= - x \cos  x - \sin  x dx +C
+              \end{aligned}\]</span></p>
+            <h1 id="int-x3-ex2-dx"><span class="math inline">\(\int x^3 e^{x^2} dx\)</span></h1>
+            <p>Let <span class="math inline">\(u = x^2\)</span></p>
+            <p><span class="math display">\[\begin{aligned}
+              \int x^3 e^{x^2} dx &amp;=\int x^2 x e^{x^2} dx \\
+              &amp;=\int u \frac{1}{2}du e^u\\
+              &amp;= \frac{1}{2}\int u e^u du\\
+              &amp;= \frac{1}{2} u e^u - \frac{1}{2}\int e^u du\\
+              &amp;= \frac{1}{2} u e^u - \frac{1}{2} e^u  +C\\
+              &amp;= \frac{1}{2} x^2 e^{x^2} - \frac{1}{2} e^{x^2}
+              \end{aligned}\]</span></p>
+            <h1 id="int-x2-ln-x-dx"><span class="math inline">\(\int x^2 \ln x dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int x^2 \ln x dx &amp;= \frac{1}{3}x^3 \ln  x -\int \frac{1}{3} x^3 \frac{1}{x} dx\\
+              &amp;= \frac{1}{3}x^3 \ln  x - \int \frac{1}{3} x^2 dx\\
+              &amp;= \frac{1}{3}x^3 \ln  x - \frac{1}{9} x^3 +C
+              \end{aligned}\]</span></p>
+            <h1 id="int-cos-ln-x-dx"><span class="math inline">\(\int \cos \ln x dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int 1 \cos  \ln  x dx &amp;= x \cos  \ln  x + \int \sin  \ln  x dx\\
+              &amp;= x \cos  \ln  x + x \sin \ln  x - \int \cos \ln  x dx\\
+              2\int \cos  \ln  x dx &amp;= x \cos  \ln  x - x \sin \ln  x\\
+              \int \cos  \ln  x dx &amp;= \frac{1}{2}\left(  x \cos  \ln  x - x \sin \ln  x\right) +C
+              \end{aligned}\]</span></p>
+            <p>Or you could use <span class="math inline">\(u = \ln  x\)</span>, apparently.</p>
+            <h1 id="multiple-parts">multiple parts</h1>
+            <h2 id="e">e</h2>
+            <h2 id="int-e2x-cos-3x-dx"><span class="math inline">\(\int e^{2x} \cos 3x dx\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+               \int e^{2x} \cos 3x dx &amp;= \cos 3x \frac{1}{2}e^{2x} +\int 3 \sin 3x \frac{1}{2}e^{2x} dx\\
+               &amp;= \cos 3x \frac{1}{2}e^{2x} + 3\sin 3x \frac{1}{4}e^{2x} - \int 3 \cos 3x \frac{1}{4}e^{2x} dx\\
+               &amp;= \cos 3x \frac{1}{2}e^{2x} + 3\sin 3x \frac{1}{4}e^{2x} - \frac{9}{4} \int e^{2x} \cos 3x dx\\
+               \frac{13}{4} \int e^{2x} \cos 3x dx &amp;= \cos 3x \frac{1}{2}e^{2x} + 3 \sin 3x \frac{1}{4}e^{2x} +C\\
+               \int e^{2x} \cos 3x dx &amp;= \frac{4}{13} \left( \cos 3x \frac{1}{2}e^{2x} + 3 \sin 3x \frac{1}{4}e^{2x} \right) +C\\
+               &amp;=\frac{2}{13} e^{2x} \left( \cos 3x + \frac{3}{2} \sin 3x \right) +C
+               \end{aligned}\]</span></p>
+            <h2 id="evaluate-previous-from-0-fracpi6">evaluate previous from <span class="math inline">\([0, \frac{pi}{6}]\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+               \frac{3}{13}e^{ \frac{pi}{3} } - \frac{2}{13}
+               \end{aligned}\]</span></p>
+            <h1 id="int-sec3-x-dx"><span class="math inline">\(\int \sec^3 x dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int \sec ^3 x dx  &amp;=\int\sec x\sec ^2 x dx \\
+              &amp;=\sec x\tan x - \int\sec x\tan^2 x dx\\
+              &amp;=\sec x\tan x -\int\sec x (\sec ^2 x - 1) dx\\
+              &amp;=\sec x\tan x -\int \sec ^3 x dx - \int \sec x dx\\
+              2 \int \sec ^3 x dx &amp;= \sec x\tan x - \int \sec x dx\\
+              &amp;=\sec x\tan x - \ln  |\sec x +\tan x | +C
+              \int \sec ^3 x dx  &amp;= \frac{1}{2}\left( \sec x\tan x - \ln  |\sec x +\tan x |\right)  +C
+              \end{aligned}\]</span></p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

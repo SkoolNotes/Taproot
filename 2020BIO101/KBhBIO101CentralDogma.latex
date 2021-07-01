@@ -1,0 +1,295 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Central Dogma, Protein Synthesis }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9948)}}    % original
+%\rhead{\textrmlf{Compiled }\#9948\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#9948
+  \textrmlf{ on}
+      \today
+  }       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101NucleicAcidsDNARNA}{\tiny\textulf{[[}\textbf{KBhBIO101NucleicAcidsDNARNA}\textulf{]]}}}\thinspace
+
+\hypertarget{central-dogma}{%
+\section{Central Dogma}\label{central-dogma}}
+
+Central dogma is the concept that the instructions of protein synthesis
+comes from the DNA, and that DNA creates RNA creates Protein, RNA
+creates RNA, DNA creates DNA, but this flow path could not be reversed.
+
+We know a little bit more about central dogma now, and now have more
+concise operations for the processes defined in the central dogma,
+namely\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{DNA Polymerase} takes DNA and makes more DNA
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Duplicates cell DNA
+  \item
+    Could be hijacked during cell cycle to duplicate DNA viruses
+  \item
+    DNA viruses may also carry their DNA Polymerease to not wait for the
+    cell cycle
+  \end{itemize}
+\item
+  \textbf{RNA Polymerease} takes DNA and makes mRNA
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Have lower fidelity with an error about 1/100,000
+  \item
+    Hence why safety mechanism needed
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{protein-synthesis}{%
+\subsection{Protein Synthesis}\label{protein-synthesis}}
+
+See {[}{[}KBhBIO101ProteinSynthesis{]}{]}
+
+Eukarotic gene expression is regulated at many stages because mRNA is
+pretty error-prone and so there needs to be many different steps
+
+\begin{figure}
+\centering
+\includegraphics{preprocessing.png}
+\caption{preprocessing.png}
+\end{figure}
+
+\hypertarget{dna-replication}{%
+\subsection{DNA Replication}\label{dna-replication}}
+
+See {[}{[}KBhBIO101DNAReplication{]}{]}
+
+\hypertarget{rna-replication}{%
+\subsection{RNA Replication}\label{rna-replication}}
+
+See {[}{[}KBhBIO101RNAReplication{]}{]}
+
+\hypertarget{list-of-kool-proteins}{%
+\subsection{List of Kool Proteins}\label{list-of-kool-proteins}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}@{}}
+\toprule
+Name & Function \\
+\midrule
+\endhead
+RNA Polymerase & \emph{transcripts}: takes DNA and turns into mRNA \\
+DNA Polymerase & \emph{replicates}: takes DNA and makes more copy of
+it \\
+RNA-Dependent RNA Polymerase & \emph{replicates}: takes RNA and makes
+more copy of it. Basically only viruses use it. \\
+Promoter & \emph{signals}: DNA signal of the start of the DNA. \\
+Terminator & \emph{signals}: DNA signal of the end of the DNA. \\
+\bottomrule
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{central-dogma-in-a-paragraph}{%
+\section{Central Dogma in a
+Paragraph}\label{central-dogma-in-a-paragraph}}
+
+The ``silly'' explanation of the Central Dogma that's a bit problematic
+is the phrase ``DNA'' informs ``RNA'' informs ``Proteins''. But of
+course the enviromental variablity, mutatability, and the surprising
+lack of permanence of all parts of this system makes this not entirely
+fully accurate.
+
+DNA could of course replicate, that's how one makes new cells. But in
+addition to this, during the process of transcription, there are also
+enviromental variations to the performance of promoters, etc.
+
+\end{document}

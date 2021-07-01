@@ -1,0 +1,300 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ 20math530 }
+\newcommand{\thelesson}{ LinAlg flo 14 }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2754)}}    % original
+%\rhead{\textrmlf{Compiled }\#2754\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2754\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=2020MATH530/KBe2020math530floIndex.md}{\tiny\textulf{[[}\textbf{2020MATH530/KBe2020math530floIndex.md}\textulf{]]}}}\thinspace
+
+\#flo \#disorganized \#incomplete
+
+\hypertarget{administrative-bits}{%
+\section{Administrative bits}\label{administrative-bits}}
+
+\begin{itemize}
+\tightlist
+\item
+  Will present problems from 2.B and/or 2.C next week
+\item
+  Mini quiz, stop yourself after an hour
+\item
+  and give your subconscious a chance to think about things
+\item
+  \textbf{No need to say ``clearly'', ``obviously'', ``evidently''}
+\end{itemize}
+
+\hypertarget{icr-axler2.c}{%
+\section{\#icr Axler2.C}\label{icr-axler2.c}}
+
+\#source Axler Linear Algebra Done Right 2.C \#\# Polynomials are
+vectors - because you can add and scale them and they are kind of nice
+in general
+
+\hypertarget{the-box-under-2.38}{%
+\subsection{The box under 2.38}\label{the-box-under-2.38}}
+
+\begin{itemize}
+\tightlist
+\item
+  You can't understand a vector space just by knowing the vectors inside
+
+  \begin{itemize}
+  \tightlist
+  \item
+    you also need to know the field that you are in
+  \item
+    See 2.A ex5
+  \end{itemize}
+\item
+  The field that you are over changes your dimension: usually we think
+  of \(\mathbb{C}\) as a vector space over \(\mathbb{R}\), but in this
+  class we think of it as over \(\mathbb{C}\), which means
+  \(\text{dim }\mathbb{C} = 1\)
+\end{itemize}
+
+\hypertarget{axler2.41}{%
+\subsection{Axler2.41}\label{axler2.41}}
+
+\begin{itemize}
+\tightlist
+\item
+  It's my question! See {[}{[}KBe20math530floQuestions{]}{]}
+\end{itemize}
+
+\hypertarget{axler2.42}{%
+\subsection{Axler2.42}\label{axler2.42}}
+
+\begin{itemize}
+\tightlist
+\item
+  \#tip If it's a spanning list that's the right length, then it's a
+  basis and therefore linearly independent.
+\item
+  If it's a linearly independent list and it's the right length, then
+  it's a basis and therefore spanning.
+\end{itemize}
+
+\hypertarget{axler2.43-dimension-of-a-sum}{%
+\subsection{Axler2.43 Dimension of a
+Sum}\label{axler2.43-dimension-of-a-sum}}
+
+\hypertarget{an-example}{%
+\subsubsection{An Example}\label{an-example}}
+
+\begin{itemize}
+\tightlist
+\item
+  If you have two planes in 3 space, and they intersect at exactly one
+  line, then you can't just add the dimension of the two planes (2+2 = 4
+  which is more than 3 space can allow).
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If the planes are parallel, and both subspaces, then we know they
+    both go through the origin and thus are the same plane.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{some-tips}{%
+\subsubsection{Some tips}\label{some-tips}}
+
+\begin{itemize}
+\tightlist
+\item
+  Usually easiest to get a basis of a subspace by building on instead of
+  taking out
+
+  \begin{itemize}
+  \tightlist
+  \item
+    for example if you have a slanty plane in 3 space, and you start
+    with standard basis, then you won't even get the slanty plane.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{the-span-is-u_1u_2}{%
+\subsubsection{\texorpdfstring{The span is
+\(U_1+U_2\)}{The span is U\_1+U\_2}}\label{the-span-is-u_1u_2}}
+
+\begin{itemize}
+\tightlist
+\item
+  Because it's a double containment
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \(span \subset U_1+U_2\)
+  \item
+    \(v \in span \implies v = a_1u_1 + \ldots + a_mb_m + b_1v_1 + \dots\)
+  \item
+    For all \(u\). in the span, you can write it as something in \(U_1\)
+    + something in \(U_2\)
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

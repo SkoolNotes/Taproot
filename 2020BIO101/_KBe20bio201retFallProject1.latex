@@ -1,0 +1,1017 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Fall Project 1 Master Doc }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12270)}}    % original
+%\rhead{\textrmlf{Compiled }\#12270\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{preliminary-research}{%
+\section{Preliminary Research}\label{preliminary-research}}
+
+\hypertarget{sources}{%
+\subsection{Sources}\label{sources}}
+
+\url{https://www.frontiersin.org/articles/10.3389/fchem.2019.00540/full}
+
+\hypertarget{notes}{%
+\section{Notes}\label{notes}}
+
+\hypertarget{target-processes}{%
+\subsection{Target Processes}\label{target-processes}}
+
+\hypertarget{enzyme-catalysis}{%
+\subsubsection{Enzyme catalysis}\label{enzyme-catalysis}}
+
+catalyzing reactions with actions
+
+\hypertarget{protein-ligand-binding}{%
+\subsubsection{Protein-ligand binding}\label{protein-ligand-binding}}
+
+neurotransmitters (dopamine), protien is dopamine receptor how does the
+ligand bind the proper site to open the channel?
+
+\begin{itemize}
+\tightlist
+\item
+  ligand: how to pronounce?
+\end{itemize}
+
+\hypertarget{signal-transduction}{%
+\subsubsection{signal transduction}\label{signal-transduction}}
+
+bind to other protein to trigger chain of actions
+
+\begin{itemize}
+\tightlist
+\item
+  release calcium from intercellular stores
+\end{itemize}
+
+\hypertarget{allosteric-regulation}{%
+\subsubsection{allosteric regulation}\label{allosteric-regulation}}
+
+\begin{itemize}
+\tightlist
+\item
+  a reason why knowing the structure and pockets is important
+\item
+  predict allosteric cites
+
+  \begin{itemize}
+  \tightlist
+  \item
+    similar to non-competative inhibiton?
+  \item
+    but for dna binding protiens, like the dna transcription inhibitor
+  \end{itemize}
+\item
+  ligand binds allosteric site and activates the protien
+\end{itemize}
+
+\hypertarget{folding-simulation-methods}{%
+\subsection{Folding Simulation
+Methods}\label{folding-simulation-methods}}
+
+\hypertarget{all-atom-molecular-dynamics-md}{%
+\subsubsection{all-atom molecular dynamics
+(MD)}\label{all-atom-molecular-dynamics-md}}
+
+\begin{itemize}
+\tightlist
+\item
+  Obtains all desired information regarding the kinetics and
+  thermodynamics
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Time scale bottleneck
+
+  \begin{itemize}
+  \tightlist
+  \item
+    very slow (supercomputers -\textgreater{} microseconds of
+    simulation)
+  \item
+    require microsecond to milisecond time scales
+  \end{itemize}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    optimizations
+
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii}.}
+    \item
+      conformational sampling?
+
+      \begin{itemize}
+      \tightlist
+      \item
+        retains atomistic representation of the system
+      \end{itemize}
+    \item
+      overcome kinetic trapping and thourough sampling of conformational
+      space techniques
+
+      \begin{itemize}
+      \tightlist
+      \item
+        umbrella sampling
+      \item
+        multicanonical algorithms
+      \item
+        simulated tempering
+      \item
+        transition path sampling
+      \item
+        targeted molecular dynamics
+      \item
+        replica exchange method molecular dynamics (REMD)
+      \item
+        accelerated molecular dynamics (AMD)
+
+        \begin{itemize}
+        \tightlist
+        \item
+          see below
+        \end{itemize}
+      \end{itemize}
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{accelerated-molecular-dynamics-amd}{%
+\subsubsection{Accelerated molecular dynamics
+(AMD)}\label{accelerated-molecular-dynamics-amd}}
+
+epic
+
+\hypertarget{voltage-gated-ion-channels}{%
+\subsection{Voltage gated ion
+channels}\label{voltage-gated-ion-channels}}
+
+\hypertarget{overview}{%
+\subsubsection{overview}\label{overview}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  lives on cell membrane
+\item
+  role
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    allows ions in/out
+  \item
+    crucial in "excitable" cells, like neurons
+  \item
+    propogates elecrical signals directionally
+  \item
+    ion specific
+
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii}.}
+    \item
+      Na\^{}+
+    \item
+      K\^{}+
+    \item
+      Ca\textsuperscript{2+}
+    \item
+      Cl\^{}-
+    \end{enumerate}
+  \item
+    triggered by voltage across cell membrane
+  \end{enumerate}
+\item
+  parts
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    voltage sensor
+  \item
+    pore/conducting pathway
+  \item
+    gate
+  \end{enumerate}
+\item
+  \textbf{sodium/calcium channels}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    parts
+
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii}.}
+    \item
+      one polypeptide
+    \item
+      creates "four homologous domains"
+
+      \begin{enumerate}
+      \def\labelenumiv{\arabic{enumiv}.}
+      \tightlist
+      \item
+        each one consists of 6 membrane spanning alpha helices
+      \end{enumerate}
+    \item
+      the S4 helix {[}of each domain?{]} is the voltage sensing helix
+
+      \begin{enumerate}
+      \def\labelenumiv{\arabic{enumiv}.}
+      \item
+        This helix contains enough positive charges to feel an
+        electrostatic repelling force from the high charge outside the
+        cell.
+
+        \begin{enumerate}
+        \def\labelenumv{\arabic{enumv}.}
+        \item
+          lysine or arginine "residues in repeated motifs"
+        \item
+          in resting state, half of each S4 helix is in contact with the
+          cell cytosol
+        \item
+          upon depolarization, positive residues move towards surface of
+          membrane?
+        \item
+          movement triggers comformational change in the gate
+        \end{enumerate}
+      \end{enumerate}
+    \item
+      s6 domain
+
+      \begin{enumerate}
+      \def\labelenumiv{\arabic{enumiv}.}
+      \tightlist
+      \item
+        thought to mechanically block the ions from passing through the
+        channel
+      \end{enumerate}
+    \item
+      inactivation gate
+
+      \begin{enumerate}
+      \def\labelenumiv{\arabic{enumiv}.}
+      \item
+        structure
+
+        Another gate that stops ions from flowing, {[}giving the main
+        gate more to reset?{]}
+
+        \begin{enumerate}
+        \def\labelenumv{\arabic{enumv}.}
+        \item
+          modeled as a ball tethered to a flexible chain
+        \item
+          the chain is supposed to fold up on itself to pull the ball in
+          and block ion flow
+        \end{enumerate}
+      \end{enumerate}
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{mechanical-function}{%
+\subsubsection{mechanical function}\label{mechanical-function}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  sources
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    \url{https://www.pnas.org/content/112/1/124} {\textsc{source}}
+  \item
+    \url{https://www.sciencedirect.com/science/article/pii/S0076687918300156}
+    {\textsc{source}}
+  \end{enumerate}
+\item
+  explanation
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    structural overview
+
+    In each analogous subdomain, the segment S4 (of 6) (where the first
+    four are voltage sensing, S5, S6 form the pore, and the S4-S5 linker
+    is important but ellusive) is quite positively charged (3-7 positive
+    Rgroups like Agrinine?)
+  \item
+    salt bridge pattern rearranges?
+  \item
+    something about gating currents and inactivation
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{related-components}{%
+\subsubsection{related components}\label{related-components}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  membrane depolarization
+
+  The interior of the cell temporarily becomes more positive (less
+  negative) than the exterior
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    \url{https://en.wikipedia.org/wiki/Depolarization} {\textsc{source}}
+  \end{enumerate}
+\item
+  membrane potential
+
+  the "default" charge/voltage difference accross a cell membrane
+
+  \begin{itemize}
+  \tightlist
+  \item
+    the inside is usually more negative
+  \end{itemize}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    \url{https://en.wikipedia.org/wiki/Ball_and_chain_inactivation}
+    {\textsc{source}}
+  \end{enumerate}
+\item
+  graded potentials
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    a "smallish change in the membrane potential that is porportional to
+    the size of the stimulus"
+
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii}.}
+    \item
+      doesn't travel a long distance
+    \item
+      diminishes/fades away as its spreads
+    \end{enumerate}
+  \item
+    \url{https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/depolarization-hyperpolarization-and-action-potentials}
+    {\textsc{source}}
+  \end{enumerate}
+\item
+  action potential
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    always the same size
+  \item
+    binary (all or none)
+  \item
+    happens when depolarization increases the membrane voltage across a
+    threshold value (usually about -55mV)
+  \item
+    causes voltage gated Na\^{}+ channels to open
+  \item
+    voltage goes up quickl to around 40mV (positive)
+  \item
+    after some time, Na+ VGICs inactivate
+  \item
+    potassium channels stay open a little longer to bring the membrane
+    potential back
+  \item
+    sodium channels return to normal state (still closed, but can
+    respond to voltage again)
+  \item
+    "refactor period ensures that the action potential will only travel
+    forward down the axon, not backwards through the portion of the axon
+    that just underwent an action potential"
+  \end{enumerate}
+\item
+  Impulse speed
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    larger diameter axon
+
+    A greater diameter will allow the action potential to travel faster
+    because there are structures in the cytoplasm of each axon to block
+    the ions' travel. However, with a larger diameter, there are more
+    paths for the ion to travel though, even if the concentration is the
+    same? (because there is more volume to surface area? and a direction
+    is a point on surface area but the ion is a point in volume?)
+  \item
+    Mylelin sheath
+
+    Increases the distances between cations and anions on opposite sides
+    of the axon membrane, which decreases capacitence (yes physics
+    capacitence). So less charge can be tied to the membrane, so
+    depolarization happens faster (fewer charges need to move).
+
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii}.}
+    \tightlist
+    \item
+      \url{https://www.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/neuron-membrane-potentials-topic/v/effects-of-axon-diameter-and-myelination}
+      {\textsc{source}}
+    \end{enumerate}
+  \end{enumerate}
+\item
+  Salt bridge
+
+  When two oppositely charged R-groups are close enough together to
+  experience electrostatic attraction
+\end{enumerate}
+
+\hypertarget{sources-2}{%
+\subsubsection{\texorpdfstring{sources
+{\textsc{source}}}{sources source}}\label{sources-2}}
+
+\begin{itemize}
+\tightlist
+\item
+  \url{https://en.wikipedia.org/wiki/Voltage-gated_ion_channel}
+\item
+  \href{https://www.sciencedirect.com/science/article/pii/S0076687918300156}{Computational
+  Approaches to Studying Voltage-Gated Ion Channel Modulation by General
+  Anesthetics - ScienceDirect}
+\item
+  \href{https://ars.els-cdn.com/content/image/1-s2.0-S0092867419307342-fx1_lrg.jpg}{1-s2.0-S0092867419307342-fx1\textsubscript{lrg}.jpg
+  (996×996)}
+\item
+  \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266868/}{THE
+  CRYSTAL STRUCTURE OF A VOLTAGE-GATED SODIUM CHANNEL}
+\item
+  \href{https://www.pnas.org/content/112/1/124/tab-figures-data}{Free-energy
+  landscape of ion-channel voltage-sensor--domain activation \textbar{}
+  PNAS}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{https://www.pnas.org/content/pnas/112/1/124/F1.large.jpg}{F1.large.jpg
+    (1036×1280)}
+  \end{itemize}
+\item
+  \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2950829/}{Ion
+  Channel Voltage Sensors: Structure, Function, and Pathophysiology}
+\item
+  \href{https://www.sciencedirect.com/science/article/abs/pii/S0959440X16301506}{Voltage-gated
+  sodium channels viewed through a structural biology lens -
+  ScienceDirect}
+\item
+  \href{https://www.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/neuron-membrane-potentials-topic/v/effects-of-axon-diameter-and-myelination}{Effects
+  of axon diameter and myelination (video) \textbar{} Khan Academy}
+\item
+  \href{https://www.sciencedirect.com/science/article/pii/S0006349514007875}{Probing
+  α-310 Transitions in a Voltage-Sensing S4 Helix - ScienceDirect}
+\item
+  \href{https://www.cell.com/structure/fulltext/S0969-2126(15)00500-6?_returnURL=https\%3A\%2F\%2Flinkinghub.elsevier.com\%2Fretrieve\%2Fpii\%2FS0969212615005006\%3Fshowall\%3Dtrue}{Molecular
+  Interactions in the Voltage Sensor Controlling Gating Properties of
+  CaV Calcium Channels: Structure}
+\item
+  \href{https://www.sciencedirect.com/science/article/pii/S0092867419307342}{Resting-State
+  Structure and Gating Mechanism of a Voltage-Gated Sodium Channel -
+  ScienceDirect}
+\item
+  \href{https://www.pnas.org/content/109/2/E93}{Structural basis for
+  gating charge movement in the voltage sensor of a sodium channel
+  \textbar{} PNAS}
+\item
+  \href{https://science.sciencemag.org/content/362/6412/eaau2596?rss\%253D1=}{Structural
+  basis for the modulation of voltage-gated sodium channels by animal
+  toxins \textbar{} Science}
+\item
+  \href{https://pharmrev.aspetjournals.org/content/57/4/387.full}{Overview
+  of Molecular Relationships in the Voltage-Gated Ion Channel
+  Superfamily \textbar{} Pharmacological Reviews}
+\item
+  \href{https://physoc.onlinelibrary.wiley.com/doi/10.1113/expphysiol.2013.071969}{Structure
+  and function of voltage‐gated sodium channels at atomic resolution -
+  Catterall - 2014 - Experimental Physiology - Wiley Online Library}
+\item
+  \href{https://www.cell.com/cell/fulltext/S0092-8674(11)00997-4?_returnURL=https\%3A\%2F\%2Flinkinghub.elsevier.com\%2Fretrieve\%2Fpii\%2FS0092867411009974\%3Fshowall\%3Dtrue}{Crystal
+  Structure of the Mammalian GIRK2 K+ Channel and Gating Regulation by G
+  Proteins, PIP2, and Sodium: Cell}
+\item
+  \href{https://www.sciencedirect.com/science/article/pii/S2211124719301512}{The
+  Role of CaV2.1 Channel Facilitation in Synaptic Facilitation -
+  ScienceDirect}
+\item
+  \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3448954/}{The
+  sliding-helix voltage sensor}
+\item
+  \href{https://www.pnas.org/content/103/19/7292}{Voltage sensor
+  conformations in the open and closed states in rosetta structural
+  models of K+ channels \textbar{} PNAS}
+\item
+  \href{https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/voltage-gated-ion-channel\#:~:text=Voltage\%2Dgated\%20ion\%20channels\%20contain,domain\%20responsible\%20for\%20sensing\%20voltage.}{Voltage-Gated
+  Ion Channel - an overview \textbar{} ScienceDirect Topics}
+\end{itemize}
+
+\hypertarget{meetings}{%
+\section{Meetings}\label{meetings}}
+
+\hypertarget{oct-2020}{%
+\subsection{12 oct 2020}\label{oct-2020}}
+
+\begin{itemize}
+\tightlist
+\item
+  computational prediction modeling
+
+  \begin{itemize}
+  \tightlist
+  \item
+    trying to predict the crystal structure
+
+    \begin{itemize}
+    \tightlist
+    \item
+      why?
+
+      \begin{itemize}
+      \tightlist
+      \item
+        to analyze would this fit?
+      \item
+        does it work with this target
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  solving the structure
+
+  \begin{itemize}
+  \tightlist
+  \item
+    xray cristolography
+
+    \begin{itemize}
+    \tightlist
+    \item
+      gold standard
+    \item
+      now got the structure
+
+      \begin{itemize}
+      \tightlist
+      \item
+        what does that mean?
+      \item
+        can we simulate how it interacts?
+      \item
+        can you then do modeling on that to see if drug molecules work?
+        are useful
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  look at some concrete examples?
+\item
+  tell a biological story alongside with computational relevance piece
+\end{itemize}
+
+\hypertarget{protien-synthase}{%
+\subsubsection{protien synthase}\label{protien-synthase}}
+
+not as much simulation stuff
+
+\hypertarget{neurotransmitters}{%
+\subsubsection{neurotransmitters}\label{neurotransmitters}}
+
+dopamine sodium rushes in, electrochemical and concentration gradient
+recharge gradient by releasing potassium
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  nerst equation
+
+  electrochemical gradient as battery
+\item
+  goldman-katz equation
+
+  \begin{itemize}
+  \tightlist
+  \item
+    applied to neuro
+  \item
+    takes into account the concentrations of the 4 ions
+
+    \begin{itemize}
+    \tightlist
+    \item
+      how does the power of the battery work given those components?
+    \item
+      ligands and pH can change/denature protiens, but there are also
+      voltage gated channels
+    \end{itemize}
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{voltage-driven-things}{%
+\subsubsection{Voltage Driven Things}\label{voltage-driven-things}}
+
+\begin{itemize}
+\tightlist
+\item
+  Heartbeart
+\item
+  nervous system
+
+  \begin{itemize}
+  \tightlist
+  \item
+    how do voltage gated ion channels work?
+  \end{itemize}
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  things to know about
+
+  \begin{itemize}
+  \tightlist
+  \item
+    action potential
+  \item
+    voltage gated calcium channels open at depolarization threshold
+  \end{itemize}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    neurotransmitters
+
+    \begin{itemize}
+    \tightlist
+    \item
+      "calcium mediated exocitosis of neurotransmitter vesicles in the
+      synaptic terminal"
+    \item
+      calcium rushes somewhere to allow the neurotransmitters to leave
+      the cell
+    \end{itemize}
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{case-study}{%
+\subsubsection{Case study}\label{case-study}}
+
+\begin{itemize}
+\tightlist
+\item
+  why do we care? why is this useful
+\item
+  knowing the structure can lead to some useful information
+\item
+  how did it lead to some sort of accelerated understanding?
+\end{itemize}
+
+\hypertarget{prions}{%
+\subsubsection{prions}\label{prions}}
+
+\begin{itemize}
+\tightlist
+\item
+  how to pronounce?
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  CJD
+
+  \begin{itemize}
+  \tightlist
+  \item
+    is it inheritable?
+  \item
+    one case per million population
+  \end{itemize}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    Casues
+
+    \begin{itemize}
+    \tightlist
+    \item
+      the gene that causes CJD in 5-10\% of cases is PRNP
+    \item
+      87\% of cases are sporatic
+    \end{itemize}
+  \end{enumerate}
+\item
+  isoform
+
+  \begin{itemize}
+  \tightlist
+  \item
+    a different set of intons and exons
+  \item
+    splicosome takes pre-RNA and cuts out intons
+
+    \begin{itemize}
+    \tightlist
+    \item
+      even if the pre-RNA had 10 exons, the splicosome might take a
+      subset of those exons and remove the others
+    \end{itemize}
+  \item
+    An isoform is a variant of that subset, an abnormal isoform is one
+    that is "bad" and causes problems
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{oct-2020-1}{%
+\subsection{29 Oct 2020}\label{oct-2020-1}}
+
+uh nothing happened
+
+\hypertarget{nov-2020}{%
+\subsection{03 nov 2020}\label{nov-2020}}
+
+\hypertarget{apparently-i-can-just-turn-in-this-notes-document-and-the-detail-is-good-enough}{%
+\subsubsection{apparently I can just turn in this notes document, and
+the detail is good
+enough}\label{apparently-i-can-just-turn-in-this-notes-document-and-the-detail-is-good-enough}}
+
+\hypertarget{poster-plannning}{%
+\section{Poster Plannning}\label{poster-plannning}}
+
+\hypertarget{nerve-cell-action-potential-depolarization}{%
+\subsection{nerve cell, action potential,
+depolarization}\label{nerve-cell-action-potential-depolarization}}
+
+\hypertarget{resources}{%
+\subsubsection{resources}\label{resources}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/depolarization-hyperpolarization-and-action-potentials}{Khan
+  Academy on Depolarization, hyperpolarization, and action potentials +
+  some epic comments}
+\end{itemize}
+
+\hypertarget{membrane-potential-graph}{%
+\subsubsection{membrane potential
+graph}\label{membrane-potential-graph}}
+
+\hypertarget{structure-of-vgic-conformational-change-within-subunit}{%
+\subsection{structure of VGIC + conformational change within
+subunit}\label{structure-of-vgic-conformational-change-within-subunit}}
+
+\hypertarget{resources-1}{%
+\subsubsection{\texorpdfstring{resources
+{\textsc{source}}}{resources source}}\label{resources-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.sciencedirect.com/science/article/pii/S0076687918300156}{Computational
+  Approaches to Studying Voltage-Gated Ion Channel Modulation by General
+  Anesthetics - ScienceDirect}
+\end{itemize}
+
+\hypertarget{electrostatic-interactions-of-s4}{%
+\subsection{electrostatic interactions of
+S4}\label{electrostatic-interactions-of-s4}}
+
+\hypertarget{resources-2}{%
+\subsubsection{\texorpdfstring{resources
+{\textsc{source}}}{resources source}}\label{resources-2}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.pnas.org/content/112/1/124/tab-figures-data}{Free-energy
+  landscape of ion-channel voltage-sensor--domain activation \textbar{}
+  PNAS}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{https://www.pnas.org/content/pnas/112/1/124/F1.large.jpg}{F1.large.jpg
+    (1036×1280)}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{bottom-diagrams}{%
+\subsection{bottom diagrams}\label{bottom-diagrams}}
+
+\hypertarget{nav}{%
+\subsubsection{Nav}\label{nav}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  side view, all alpha domains
+\item
+  top view, all alpha domains
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    open/close?
+  \end{enumerate}
+\end{enumerate}
+
+\end{document}

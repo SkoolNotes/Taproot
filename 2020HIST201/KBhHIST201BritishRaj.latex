@@ -1,0 +1,301 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Bulliet British Raj }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5280)}}    % original
+%\rhead{\textrmlf{Compiled }\#5280\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5280\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{bulliet-british-raj}{%
+\section{Bulliet, British Raj}\label{bulliet-british-raj}}
+
+\begin{itemize}
+\tightlist
+\item
+  India became politically fragmented
+\item
+  EIC became dominant in Bengal though the avenging of Black Hole of
+  Calcatta + overthrowing of nawab
+\item
+  South Asia became the hotbed of colonialism
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Through a series of negotiations, persuation, and installation of
+    Nawabs, EIC gained strategic control over much of India
+  \item
+    Goals of british raj: remake india through British admin, British
+    social reform, British economic development, and British Technology.
+  \item
+    EIC Indian rule was inconsistent because CLAIM this is complicated!
+  \item
+    EIC control --- double edge sword. Created anglicized jobs, but
+    destroyed original artisanship + handywork.
+  \end{itemize}
+\item
+  Goals:
+
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi})}
+  \tightlist
+  \item
+    Create efficient government
+  \item
+    Disarm princes
+  \item
+    Christanizationificiation
+  \item
+    Revamp land holding claims
+  \end{enumerate}
+\item
+  Brought also British celebrations and expansion of social class,
+  property ownership, etc. to bolster EIC control.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Religious and tradition conflicted with Britian's requirement for
+    solders.
+  \item
+    Localized rebellions became empowered by the Indian British army
+    committing mutiny due to religious conflict.
+  \item
+    Woman's rights went to the dumps, so did the poor's rights. CLAIM:
+    this was due to the brits trying to establish a sense of superority.
+  \end{itemize}
+\item
+  British admin change after 1858 rev\ldots{}
+
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi})}
+  \tightlist
+  \item
+    British men held high-level administrative posts and controled
+    indian offocials. CLAIM: this is complicated! Not a mutiny --- more
+    soldiers and people; not a revolution --- there was nothing they are
+    representing themselves with.
+  \end{enumerate}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Lots of brits in the ICS, because they are damn racist.
+  \item
+    Britian consolidated rule after rebellion + centralized gov't
+  \end{itemize}
+
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi})}
+  \setcounter{enumi}{1}
+  \tightlist
+  \item
+    Britian invested in Indian infrastructure and industry. (which
+    promoted job growth)
+  \end{enumerate}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    =\textgreater Used elaborate shows of wealth to maintain a sense of
+    authority.
+  \end{itemize}
+
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi})}
+  \setcounter{enumi}{2}
+  \tightlist
+  \item
+    British government also promoted introduction of high tech ASAP to
+    India
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Railroad allowed india to become more connected + intergrated
+      while promoting british commerse \& investment.
+    \item
+      Trains also brought cholora, but it was quickly mitigated by
+      installing filtrated water.
+    \end{itemize}
+  \end{enumerate}
+\item
+  =\textgreater{} CLAIM: indian nationalism spawn from the establishment
+  of British India.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Nationalism spawn from the needs to reform the Indian society +
+    improve education.
+  \item
+    Rammohum Roy established schools promoting indian secular
+    nationalistic ideals while promoting social reforms to India.
+  \item
+    New nationalists came from the middle class --- CLAIM propped up by
+    increase in trade caused by Brits.
+  \end{itemize}
+\end{itemize}
+
+\end{document}

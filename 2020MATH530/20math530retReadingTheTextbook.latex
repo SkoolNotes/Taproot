@@ -1,0 +1,260 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ 20math530 }
+\newcommand{\thelesson}{ ret Reading The Textbook! }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBe2020math530refExr0nRetIndex}{\tiny\textulf{[[}\textbf{KBe2020math530refExr0nRetIndex}\textulf{]]}}}\thinspace
+
+\#ret
+
+\hypertarget{exercises}{%
+\subsection{Exercises}\label{exercises}}
+
+\hypertarget{a.2}{%
+\subsubsection{1.A.2}\label{a.2}}
+
+\[
+\begin{split}
+\left(\frac{-1+\sqrt{3}i}{2}\right)^3 =
+\left(\frac{-1+\sqrt{3}i}{2}\right)\left(\frac{-2-2\sqrt{3}i}{4}\right) =
+\frac{2+\cancel{2\sqrt{3}i-2\sqrt{3}i}-2*3*i^2}{8} = \frac{8}{8} = 1
+\end{split}
+\]
+
+\hypertarget{a.10}{%
+\subsubsection{1.A.10}\label{a.10}}
+
+\[
+\begin{aligned}
+(4, -3, 1, 7) + 2(x_1, x_2, x_3, x_4) = (5, 9, -6, 8)\\
+4+2x_1 &= 5,\\-3+2x_2 &= 9,\\1+2x_3 &= -6,\\7+2x_4 &= 8\\
+x &= (\frac{1}{2}, 6, \frac{-7}{2}, \frac{1}{2})\\
+\end{aligned}
+\] Not sure how to do this with matrices?
+
+\hypertarget{a.15}{%
+\subsubsection{1.A.15}\label{a.15}}
+
+\[
+\begin{split}
+\lambda(x+y)\\
+&=\lambda(x_1+y_1, x_2+y_2, x_3+y_3\ ...\ x_n+y_n)\\
+&=(\lambda(x_1+y_1), \lambda(x_2+y_2), \lambda(x_3+y_3)\  ...\ \lambda(x_n+y_n))\\
+&=(\lambda x_1 + \lambda y_1, \lambda x_2 + \lambda y_2, \lambda x_3 + \lambda y_3 \ ...\ \lambda x_n + \lambda y_n)\\
+&=(\lambda x_1, \lambda x_2, \lambda x_3\ ...\ \lambda x_n) + (\lambda y_1, \lambda y_2, \lambda y_3\ ...\ \lambda y_n)\\
+&= \lambda(x) + \lambda(y) = \lambda x + \lambda y
+\end{split}
+\]
+
+\hypertarget{matrices-for-solving-systems}{%
+\subsection{Matrices for Solving
+Systems}\label{matrices-for-solving-systems}}
+
+I'm not sure what I should notice, although it's interesting that they
+are all 2x2 matrices that are (or can be decomposed into) one number
+away from the identity. I think we mentioned that they were ``essential
+matrices'' or something?
+
+\hypertarget{geometric-interpretation-of-dot-product}{%
+\subsection{Geometric Interpretation of Dot
+Product}\label{geometric-interpretation-of-dot-product}}
+
+We talked about it in class, and learned it in physics, but a dot
+product \(A \cdot B\) can be interpreted as the magnitude of \(A\)'s
+projection onto \(B\) multiplied by the magnitude of \(B\).
+\(A \cdot B = |A||B|cos\theta\).
+
+\hypertarget{dot-product-on-vectors-as-a-group}{%
+\subsection{Dot Product on Vectors as a
+Group}\label{dot-product-on-vectors-as-a-group}}
+
+No.~Dot product returns a scalar, which means that this operation is
+distinctly not closed.
+
+After class on 3 Sep, Daniel mentioned that it might be a group if you
+define a modified dot product where you take the normal dot product and
+put it in the direction of the second vector. However, this doesn't work
+because the for any given \(N\)x\(1\) matrixe \(A\) the identity \(e\)
+has to satisfy \(A\cdot e = e \cdot A = A\). Thus, the definition that
+relies on the direction of the second operand will break when the
+identity is on one of the sides. \textbf{Because dot product relies on
+the angle between the two vectors, I think it would be difficult to find
+an angle for an identity vector that works with all other angles of
+vectors. I'm not sure how to formalize this\ldots{}} \#todo
+
+\hypertarget{inverse-of-a-matrix}{%
+\subsection{Inverse of a matrix}\label{inverse-of-a-matrix}}
+
+I tried this for the previous homework when we were to determine if 2x2
+matrices were groups under multiplication, but didn't end up getting
+anywhere. I will try again\ldots{}
+
+{[}{[}srcIdentityMatrixFormula.png{]}{]}
+
+I got something like \(w = \frac{1-\frac{bc}{bc-ad}}{a}\), which I don't
+think is correct. It's also been an hour and a half, so I think I'll
+have to leave this here for now. \#todo
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

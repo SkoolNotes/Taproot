@@ -1,0 +1,702 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Revolution in China Stearns }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13015)}}    % original
+%\rhead{\textrmlf{Compiled }\#13015\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{overview}{%
+\section{overview}\label{overview}}
+
+\hypertarget{fall-of-qing}{%
+\subsection{fall of Qing}\label{fall-of-qing}}
+
+\hypertarget{manchu-12-yo-boy-emperor-puyi-abducted-in-1912}{%
+\subsubsection{Manchu 12-yo boy emperor Puyi abducted in
+1912}\label{manchu-12-yo-boy-emperor-puyi-abducted-in-1912}}
+
+\hypertarget{power-vacuum-competed-for-by-regional-warlords-loose-alliance-of-students-politicians-secret-societes-japanese-communist-movement}{%
+\subsubsection{power vacuum competed for by 'regional warlords, loose
+alliance of students, politicians, secret societes, japanese, communist
+movement'}\label{power-vacuum-competed-for-by-regional-warlords-loose-alliance-of-students-politicians-secret-societes-japanese-communist-movement}}
+
+\hypertarget{internal-divisions-and-foreign-influences-paved-the-way-for-the-ult-victory-of-mao-zedong}{%
+\subsubsection{\texorpdfstring{internal divisions and foreign influences
+paved the way for the ult victory of Mao Zedong
+{\textsc{claim}}}{internal divisions and foreign influences paved the way for the ult victory of Mao Zedong claim}}\label{internal-divisions-and-foreign-influences-paved-the-way-for-the-ult-victory-of-mao-zedong}}
+
+\hypertarget{warlord-cliques}{%
+\subsection{warlord cliques}\label{warlord-cliques}}
+
+\hypertarget{dominated-chinese-politics-for-next-3-decades}{%
+\subsubsection{dominated chinese politics for next 3
+decades}\label{dominated-chinese-politics-for-next-3-decades}}
+
+\hypertarget{most-powerful-clique-was-in-north-china-headed-by-yuan-shikai}{%
+\subsubsection{most powerful clique was in north china headed by Yuan
+Shikai}\label{most-powerful-clique-was-in-north-china-headed-by-yuan-shikai}}
+
+\hypertarget{shanghai-and-canton-made-second-power-center-favored-politicians-like-sun-yat-sen}{%
+\subsubsection{Shanghai and Canton made second power center, favored
+politicians like Sun
+Yat-sen}\label{shanghai-and-canton-made-second-power-center-favored-politicians-like-sun-yat-sen}}
+
+\hypertarget{university-students-teachers-and-intellectuals}{%
+\subsection{university students, teachers, and
+intellectuals}\label{university-students-teachers-and-intellectuals}}
+
+\hypertarget{played-critical-roles-in-civilization-but-were-defenseless-in-force}{%
+\subsubsection{played critical roles in civilization but were
+defenseless in
+force}\label{played-critical-roles-in-civilization-but-were-defenseless-in-force}}
+
+\hypertarget{secret-societies}{%
+\subsection{secret societies}\label{secret-societies}}
+
+\hypertarget{envisioned-restoration-of-monarchical-rule-under-a-chinese-dynasty}{%
+\subsubsection{envisioned restoration of monarchical rule under a
+Chinese
+dynasty}\label{envisioned-restoration-of-monarchical-rule-under-a-chinese-dynasty}}
+
+\hypertarget{western-power-intervention-and-japan}{%
+\subsection{western power intervention and
+japan}\label{western-power-intervention-and-japan}}
+
+\hypertarget{wanted-to-capitalize-on-power-vacuum}{%
+\subsubsection{wanted to capitalize on power
+vacuum}\label{wanted-to-capitalize-on-power-vacuum}}
+
+\hypertarget{japan-from-mid-1890s-to-1945-end-of-wwi}{%
+\subsubsection{japan from mid-1890s to 1945 (end of
+WWI)}\label{japan-from-mid-1890s-to-1945-end-of-wwi}}
+
+\hypertarget{may-fourth-movement}{%
+\section{may fourth movement}\label{may-fourth-movement}}
+
+\hypertarget{sun-yat-sen-headed-revolutionary-allianceloose-combo-of-anti-qing-political-groups-that-started-the-1911-revolt}{%
+\subsection{Sun Yat-sen headed Revolutionary Alliance---loose combo of
+anti-Qing political groups that started the 1911
+revolt}\label{sun-yat-sen-headed-revolutionary-allianceloose-combo-of-anti-qing-political-groups-that-started-the-1911-revolt}}
+
+\hypertarget{claimed-mandate-of-heaven-but-warlords-had-true-power}{%
+\subsection{claimed mandate of heaven but warlords had true
+power}\label{claimed-mandate-of-heaven-but-warlords-had-true-power}}
+
+\hypertarget{set-up-a-parliament-and-elected-cabinets-but-had-minimal-actual-effect}{%
+\subsection{set up a Parliament and elected cabinets but had minimal
+actual
+effect}\label{set-up-a-parliament-and-elected-cabinets-but-had-minimal-actual-effect}}
+
+\hypertarget{sun-yat-sen-resigned-in-favor-of-yuan-shikai-in-1912-northern-warlord}{%
+\subsection{Sun Yat-sen resigned in favor of Yuan Shikai in 1912
+(northern
+warlord)}\label{sun-yat-sen-resigned-in-favor-of-yuan-shikai-in-1912-northern-warlord}}
+
+\hypertarget{yuan-shikai-pretended-to-be-democratic-but-built-up-military}{%
+\subsubsection{Yuan Shikai pretended to be democratic but built up
+military}\label{yuan-shikai-pretended-to-be-democratic-but-built-up-military}}
+
+\hypertarget{few-years-later-used-military-and-assassinations-to-remove-opposition}{%
+\subsubsection{few years later, used military and assassinations to
+remove
+opposition}\label{few-years-later-used-military-and-assassinations-to-remove-opposition}}
+
+\hypertarget{japan-and-wwi}{%
+\subsection{Japan and WWI}\label{japan-and-wwi}}
+
+\hypertarget{japan-took-german-concessions-in-china-after-wwi}{%
+\subsubsection{japan took german concessions in China after
+WWI}\label{japan-took-german-concessions-in-china-after-wwi}}
+
+\hypertarget{gave-yuan-the-21-demands-in-early-1915-which-would-reduce-china-to-a-dependant-protectorate}{%
+\subsubsection{gave Yuan the 21 demands in early 1915, which would
+reduce china to a 'dependant
+protectorate'}\label{gave-yuan-the-21-demands-in-early-1915-which-would-reduce-china-to-a-dependant-protectorate}}
+
+\hypertarget{yuan-was-indecisive-and-instead-rallied-support-for-himself-instead-of-responding}{%
+\subsubsection{Yuan was indecisive and instead rallied support for
+himself instead of
+responding}\label{yuan-was-indecisive-and-instead-rallied-support-for-himself-instead-of-responding}}
+
+\begin{enumerate}
+\item
+  a rival warlord took his support by being hostile to japan and Yuan
+  resigned in 1916
+\end{enumerate}
+
+\hypertarget{after-the-war-1919-japan-won-german-concessions}{%
+\subsubsection{after the war (1919), japan won german
+concessions}\label{after-the-war-1919-japan-won-german-concessions}}
+
+\begin{enumerate}
+\item
+  this made the students upset -\textgreater{} protests and mass
+  boycotts
+\end{enumerate}
+
+\hypertarget{democracy-and-individualism-popular-in-urban-youth}{%
+\subsection{democracy and individualism popular in urban
+youth}\label{democracy-and-individualism-popular-in-urban-youth}}
+
+\hypertarget{democratic-thinkers-toured-china}{%
+\subsubsection{democratic thinkers toured
+china}\label{democratic-thinkers-toured-china}}
+
+\hypertarget{novel-by-ba-jin-depicts-boy-ignoring-arranged-marriage}{%
+\subsubsection{novel by Ba Jin depicts boy ignoring arranged
+marriage}\label{novel-by-ba-jin-depicts-boy-ignoring-arranged-marriage}}
+
+\hypertarget{however-elections-and-stuff-didnt-work-because-warlords-were-in-control}{%
+\subsubsection{however, elections and stuff didnt work because warlords
+were in
+control}\label{however-elections-and-stuff-didnt-work-because-warlords-were-in-control}}
+
+\begin{enumerate}
+\item
+  so they decided more radical action was needed
+\end{enumerate}
+
+\hypertarget{bolshevik-victory-in-russia}{%
+\subsection{Bolshevik victory in
+Russia}\label{bolshevik-victory-in-russia}}
+
+\hypertarget{chinese-seriosuly-considered-marxism}{%
+\subsubsection{chinese seriosuly considered
+marxism}\label{chinese-seriosuly-considered-marxism}}
+
+\hypertarget{li-dazhao-decided-to-interpret-marxism-for-chinas-situation}{%
+\subsubsection{Li Dazhao decided to interpret marxism for china's
+situation}\label{li-dazhao-decided-to-interpret-marxism-for-chinas-situation}}
+
+\begin{enumerate}
+\item
+  he saw the pheasants as the vanguard of urban change
+\end{enumerate}
+
+\hypertarget{all-chinese-as-proletarian-and-bourgeois-was-the-industrialized-west-unification}{%
+\subsubsection{all chinese as proletarian, and bourgeois was the
+industrialized West
+(unification)}\label{all-chinese-as-proletarian-and-bourgeois-was-the-industrialized-west-unification}}
+
+\hypertarget{marxist-study-club-including-mao-zedong}{%
+\subsection{marxist study club (including Mao
+Zedong)}\label{marxist-study-club-including-mao-zedong}}
+
+\hypertarget{also-believed-in-authoritarian-state-that-intervened-helpfully-in-many-aspects-of-life}{%
+\subsubsection{also believed in authoritarian state that intervened
+helpfully in many aspects of
+life}\label{also-believed-in-authoritarian-state-that-intervened-helpfully-in-many-aspects-of-life}}
+
+\hypertarget{summer-of-1921}{%
+\subsection{summer of 1921}\label{summer-of-1921}}
+
+\hypertarget{a-handful-of-marxist-leaders-from-different-parts-of-china-met-secretly-in-shanghai}{%
+\subsubsection{a handful of marxist leaders from different parts of
+China met secretly in
+Shanghai}\label{a-handful-of-marxist-leaders-from-different-parts-of-china-met-secretly-in-shanghai}}
+
+\hypertarget{communist-party-of-china-born}{%
+\subsubsection{Communist party of China
+born}\label{communist-party-of-china-born}}
+
+\hypertarget{few-supporters-but-provided-new-ideology-over-confucianism}{%
+\subsubsection{few supporters but provided new ideology over
+confucianism}\label{few-supporters-but-provided-new-ideology-over-confucianism}}
+
+\hypertarget{seizure-of-power-by-the-guomindang-nationalist-party-sun-yat-sen}{%
+\section{Seizure of Power by the Guomindang (nationalist party, Sun
+Yat-sen)}\label{seizure-of-power-by-the-guomindang-nationalist-party-sun-yat-sen}}
+
+\hypertarget{promised-international-and-domestic-change-but-only-implemented-international-change}{%
+\subsection{promised international and domestic change, but only
+implemented international
+change}\label{promised-international-and-domestic-change-but-only-implemented-international-change}}
+
+\hypertarget{pushed-foreigners-out-but-didnt-implement-land-reform-which-is-what-the-pheasants-cared-about}{%
+\subsubsection{pushed foreigners out but didnt implement land reform
+which is what the pheasants cared
+about}\label{pushed-foreigners-out-but-didnt-implement-land-reform-which-is-what-the-pheasants-cared-about}}
+
+\hypertarget{slowly-forged-alliances-with-key-social-groups-and-built-an-army-in-south-of-china}{%
+\subsection{slowly forged alliances with 'key social groups' and built
+an army in south of
+china}\label{slowly-forged-alliances-with-key-social-groups-and-built-an-army-in-south-of-china}}
+
+\hypertarget{nationalists-used-communists-as-major-link-to-peasants-and-urban-workers}{%
+\subsection{nationalists used communists as major link to peasants and
+urban
+workers}\label{nationalists-used-communists-as-major-link-to-peasants-and-urban-workers}}
+
+\hypertarget{also-asked-soviets-for-help}{%
+\subsection{also asked soviets for
+help}\label{also-asked-soviets-for-help}}
+
+\hypertarget{soviet-military-academy}{%
+\subsection{soviet military academy}\label{soviet-military-academy}}
+
+\hypertarget{first-headed-by-chiang-kai-shek-who-didnt-like-the-communists}{%
+\subsubsection{first headed by Chiang Kai-shek who didnt like the
+communists}\label{first-headed-by-chiang-kai-shek-who-didnt-like-the-communists}}
+
+\hypertarget{but-he-had-to-wait-for-the-army-to-be-trained}{%
+\subsubsection{but he had to wait for the army to be
+trained}\label{but-he-had-to-wait-for-the-army-to-be-trained}}
+
+\hypertarget{after-sun-yat-sen-dies-in-1925-chaing-kai-shek-captures-and-bribes-warlords}{%
+\subsection{after Sun yat-sen dies in 1925, Chaing kai-shek captures and
+bribes
+warlords}\label{after-sun-yat-sen-dies-in-1925-chaing-kai-shek-captures-and-bribes-warlords}}
+
+\hypertarget{becomes-the-head-of-a-warlord-hierarchy-essentially-controlling-china}{%
+\subsubsection{becomes the head of a warlord hierarchy, essentially
+controlling
+china}\label{becomes-the-head-of-a-warlord-hierarchy-essentially-controlling-china}}
+
+\hypertarget{mao-and-the-peasant-option}{%
+\section{mao and the peasant option}\label{mao-and-the-peasant-option}}
+
+\hypertarget{mao-background}{%
+\subsection{mao background}\label{mao-background}}
+
+\hypertarget{father-was-a-prosperous-peasant-but-mao-rebelled-early}{%
+\subsubsection{father was a prosperous peasant, but mao rebelled
+early}\label{father-was-a-prosperous-peasant-but-mao-rebelled-early}}
+
+\hypertarget{believed-revolution-was-violent-and-peasants-needed-to-use-force-to-overthrow-landlords}{%
+\subsubsection{believed revolution was violent and peasants needed to
+use force to overthrow
+landlords}\label{believed-revolution-was-violent-and-peasants-needed-to-use-force-to-overthrow-landlords}}
+
+\hypertarget{after-chaing-seized-control-he-massacared-communists-in-shanghai-in-1927}{%
+\subsection{after Chaing seized control, he massacared communists in
+Shanghai in
+1927}\label{after-chaing-seized-control-he-massacared-communists-in-shanghai-in-1927}}
+
+\hypertarget{a-later-attack-to-communists-in-south-central-china-caused-mao-to-spearhead-a-long-march}{%
+\subsection{a later attack to communists in south central china caused
+Mao to spearhead a long
+march}\label{a-later-attack-to-communists-in-south-central-china-caused-mao-to-spearhead-a-long-march}}
+
+\hypertarget{k-followers-in-1934-thousands-of-miles-to-the-more-remote-northwest}{%
+\subsubsection{90k followers in 1934, thousands of miles to the more
+remote
+northwest}\label{k-followers-in-1934-thousands-of-miles-to-the-more-remote-northwest}}
+
+\hypertarget{created-a-new-communist-center}{%
+\subsubsection{created a new communist
+center}\label{created-a-new-communist-center}}
+
+\hypertarget{long-march-solidified-maos-leadership-of-the-chinese-communist-party-but-japanese-eroded-chaings-power-structure}{%
+\subsection{long march solidified Mao's leadership of the Chinese
+communist party, but japanese eroded Chaing's power
+structure}\label{long-march-solidified-maos-leadership-of-the-chinese-communist-party-but-japanese-eroded-chaings-power-structure}}
+
+\hypertarget{global-great-depression}{%
+\section{global great depression}\label{global-great-depression}}
+
+\hypertarget{a-decade-after-wwi-caused-many-international-crises}{%
+\subsection{a decade after WWI, caused many international
+crises}\label{a-decade-after-wwi-caused-many-international-crises}}
+
+\hypertarget{caused-by-problems-in-economic-systems-and-reliance-on-cheap-raw-goods}{%
+\subsection{caused by problems in economic systems and reliance on cheap
+raw
+goods}\label{caused-by-problems-in-economic-systems-and-reliance-on-cheap-raw-goods}}
+
+\hypertarget{causation}{%
+\subsection{causation}\label{causation}}
+
+\hypertarget{food-overproduction-drove-down-prices}{%
+\subsubsection{food overproduction drove down
+prices}\label{food-overproduction-drove-down-prices}}
+
+\begin{enumerate}
+\item
+  high prices during the war led to overconfident loans
+\item
+  runaway spiral of loans from the US to european countries + postwar
+  inflation?
+\item
+  optimized exploitation of colonies to produce coffee sugar rubber
+  production worsened the same cycle
+\end{enumerate}
+
+\hypertarget{poor-leadership}{%
+\subsubsection{poor leadership}\label{poor-leadership}}
+
+\begin{enumerate}
+\item
+  leaders were interested in their own debts being paid than
+  facilitating balanced econ growth
+\item
+  protectionism reduced market opportunities and made it worse
+\end{enumerate}
+
+\hypertarget{the-formal-advent-of-the-depression-october-1929}{%
+\subsection{the formal advent of the Depression (October
+1929)}\label{the-formal-advent-of-the-depression-october-1929}}
+
+\hypertarget{us-stock-market-crash-brings-everything-down}{%
+\subsubsection{us stock market crash brings everything
+down}\label{us-stock-market-crash-brings-everything-down}}
+
+\begin{enumerate}
+\item
+  bc the US gave out so many loans
+\item
+  people trying to cut losses made things worse
+\item
+  thus lower production levels and rising unemployment
+\item
+  reinforcing cycle from 1929 to 1933, even France and Italy drawn into
+  vortex by 1931
+\end{enumerate}
+
+\hypertarget{comparison}{%
+\subsection{comparison}\label{comparison}}
+
+\hypertarget{first-great-depression-of-the-industrial-age}{%
+\subsubsection{first great depression of the industrial
+age}\label{first-great-depression-of-the-industrial-age}}
+
+\hypertarget{also-it-was-in-the-mess-of-the-world-wars-which-made-it-worse}{%
+\subsubsection{also it was in the mess of the world wars which made it
+worse}\label{also-it-was-in-the-mess-of-the-world-wars-which-made-it-worse}}
+
+\hypertarget{and-it-lasted-nearly-a-decade}{%
+\subsubsection{and it lasted nearly a
+decade}\label{and-it-lasted-nearly-a-decade}}
+
+\hypertarget{social-impacts}{%
+\subsection{social impacts}\label{social-impacts}}
+
+\hypertarget{created-fears-of-loss-of-earnings-or-work}{%
+\subsubsection{created fears of loss of earnings or
+work}\label{created-fears-of-loss-of-earnings-or-work}}
+
+\hypertarget{confused-family-and-gender-roles}{%
+\subsubsection{confused family and gender
+roles}\label{confused-family-and-gender-roles}}
+
+\hypertarget{economic-hesitancy-caused-recessions-through-1939}{%
+\subsubsection{economic hesitancy caused recessions through
+1939}\label{economic-hesitancy-caused-recessions-through-1939}}
+
+\hypertarget{non-western-impacts}{%
+\subsection{non-western impacts}\label{non-western-impacts}}
+
+\hypertarget{export-economies-got-rekt-latain-america-japan}{%
+\subsubsection{export economies got rekt (latain america,
+japan)}\label{export-economies-got-rekt-latain-america-japan}}
+
+\hypertarget{western-responses-to-the-great-depression}{%
+\subsection{western responses to the great
+depression}\label{western-responses-to-the-great-depression}}
+
+\hypertarget{government-tariffs-spending-cuts-and-inflation-fear-worsened-the-problem}{%
+\subsubsection{government tariffs, spending cuts, and inflation fear
+worsened the
+problem}\label{government-tariffs-spending-cuts-and-inflation-fear-worsened-the-problem}}
+
+\hypertarget{people-turned-to-radicalism-both-left-and-right}{%
+\subsubsection{people turned to radicalism both left and
+right}\label{people-turned-to-radicalism-both-left-and-right}}
+
+\hypertarget{generally-parliaments-were-either-frozen-in-indecision-or-straight-up-overthrown}{%
+\subsubsection{generally, parliaments were either frozen in indecision
+or straight up
+overthrown}\label{generally-parliaments-were-either-frozen-in-indecision-or-straight-up-overthrown}}
+
+\hypertarget{eg.-france-got-frozen}{%
+\subsubsection{eg. france got frozen}\label{eg.-france-got-frozen}}
+
+\begin{enumerate}
+\item
+  parliment reacted sluggishly, popular front (comprised of liberal,
+  socialist, and communist parties) won election in 1936
+\item
+  but it too got second-thoughty and fell in 1938, but everything was
+  really a standstill
+\end{enumerate}
+
+\hypertarget{scandinavian-states-were-somewhat-socialist-and-neared-a-welfare-state-which-was-decent}{%
+\subsubsection{scandinavian states were somewhat socialist and neared a
+welfare state which was
+decent}\label{scandinavian-states-were-somewhat-socialist-and-neared-a-welfare-state-which-was-decent}}
+
+\hypertarget{british-innovation-television-improved-some-sectors-but-not-enough}{%
+\subsubsection{british innovation (television) improved some sectors but
+not
+enough}\label{british-innovation-television-improved-some-sectors-but-not-enough}}
+
+\hypertarget{the-new-deal}{%
+\subsection{the new deal}\label{the-new-deal}}
+
+\hypertarget{herbert-hoover-did-european-like-stuff-that-went-poorly}{%
+\subsubsection{herbert hoover did european-like stuff that went
+poorly}\label{herbert-hoover-did-european-like-stuff-that-went-poorly}}
+
+\hypertarget{franklin-roosevelt-and-the-new-deal-1930s-offered-more-direct-aid}{%
+\subsubsection{franklin roosevelt and the new deal (1930s) offered more
+direct
+aid}\label{franklin-roosevelt-and-the-new-deal-1930s-offered-more-direct-aid}}
+
+\begin{enumerate}
+\item
+  public works projects increased employment
+\item
+  social security system to form a social baseline
+\item
+  economic planning also helped
+\item
+  led to economic growth which was good, and restored faith in the US
+  system, prevented more radical movements
+\end{enumerate}
+
+\hypertarget{militarization-of-japan}{%
+\subsection{militarization of japan}\label{militarization-of-japan}}
+
+\hypertarget{authoritarian-military-rule-took-over-japan-and-had-conquered-chinese-manchuria-wo-civilian-government-backing-by-1931}{%
+\subsubsection{authoritarian military rule took over japan and had
+conquered Chinese Manchuria w/o civilian government backing by
+1931}\label{authoritarian-military-rule-took-over-japan-and-had-conquered-chinese-manchuria-wo-civilian-government-backing-by-1931}}
+
+\hypertarget{many-parties-and-ideas-generally-anti-western}{%
+\subsubsection{many parties and ideas, generally
+anti-western}\label{many-parties-and-ideas-generally-anti-western}}
+
+\hypertarget{in-may-1932-army-officers-murdered-the-prime-minister.-they-also-put-down-another-coup-attempt-in-1936-but-generally-prime-ministers-became-increasingly-militaristic}{%
+\subsubsection{in May 1932, army officers murdered the prime minister.
+they also put down another coup attempt in 1936, but generally prime
+ministers became increasingly
+militaristic}\label{in-may-1932-army-officers-murdered-the-prime-minister.-they-also-put-down-another-coup-attempt-in-1936-but-generally-prime-ministers-became-increasingly-militaristic}}
+
+\hypertarget{in-1937-a-small-scuffle-turned-into-a-large-scale-battle-when-japanese-generals-decided-to-defeat-chinas-armies-to-prevent-future-trouble}{%
+\subsubsection{in 1937, a small scuffle turned into a large scale battle
+when japanese generals decided to defeat China's armies to prevent
+future
+trouble}\label{in-1937-a-small-scuffle-turned-into-a-large-scale-battle-when-japanese-generals-decided-to-defeat-chinas-armies-to-prevent-future-trouble}}
+
+\hypertarget{by-1938-japan-controlled-a-large-ish-empire.-military-leaders-and-economic-leaders-liked-this-and-pressed-for-more-conquest-in-wwii}{%
+\subsubsection{by 1938 Japan controlled a large-ish empire. military
+leaders and economic leaders liked this and pressed for more conquest in
+WWII}\label{by-1938-japan-controlled-a-large-ish-empire.-military-leaders-and-economic-leaders-liked-this-and-pressed-for-more-conquest-in-wwii}}
+
+\hypertarget{civilians-were-like-bruh-the-entire-time-but-the-military-was-in-control}{%
+\subsubsection{civilians were like brUh the entire time but the military
+was in
+control}\label{civilians-were-like-bruh-the-entire-time-but-the-military-was-in-control}}
+
+\hypertarget{japanese-industrialization-and-recovery}{%
+\subsection{japanese industrialization and
+recovery}\label{japanese-industrialization-and-recovery}}
+
+\hypertarget{depression-hit-hard-but-active-government-policies-helped}{%
+\subsubsection{depression hit hard, but active government policies
+helped}\label{depression-hit-hard-but-active-government-policies-helped}}
+
+\begin{enumerate}
+\item
+  increased spending to boost employment and generally boosted economy
+\item
+  export boom and "virtual elimination of unemployment by 1936" after
+  the low point in 1931
+\item
+  lots of rapid industrialization stats
+\end{enumerate}
+
+\hypertarget{distinctive-industrial-policies}{%
+\subsubsection{distinctive industrial
+policies}\label{distinctive-industrial-policies}}
+
+\begin{enumerate}
+\item
+  mass patriotism, group loyalt, lifetime contracts
+\end{enumerate}
+
+\hypertarget{by-1937-japan-was-looking-industrialized-self-sustainable-and-generally-good}{%
+\subsubsection{by 1937, japan was looking industrialized, self
+sustainable, and generally
+good}\label{by-1937-japan-was-looking-industrialized-self-sustainable-and-generally-good}}
+
+\end{document}

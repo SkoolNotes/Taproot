@@ -1,0 +1,378 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Eukaryotic Gene Expression }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5588)}}    % original
+%\rhead{\textrmlf{Compiled }\#5588\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5588\textrmlf{ on} \today}       % new date
+\lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{flo-ret}{%
+\subsection{\#flo \#ret}\label{flo-ret}}
+
+\hypertarget{notes}{%
+\section{Notes}\label{notes}}
+
+\hypertarget{overview}{%
+\subsubsection{Overview}\label{overview}}
+
+\begin{itemize}
+\tightlist
+\item
+  Organisms turn genes on and off which is called Gene Expression
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This can be done in response to external and internal signals
+
+    \begin{itemize}
+    \tightlist
+    \item
+      These signals are based off of environmental factors
+    \end{itemize}
+  \item
+    This is also be done in order to specialize cells
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Certain cells need certain genes to preform their specific role
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\#\#\# Differential Gene Expression
+
+\begin{itemize}
+\tightlist
+\item
+  Human Cells can express about 20\% of it's protein coded genes at any
+  given time
+\item
+  Most cells contain the same genome
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Each cell type must use specific parts of this genome
+
+    \begin{itemize}
+    \tightlist
+    \item
+      This is called Differential gene expression
+    \end{itemize}
+  \item
+    Exception would be cells of the immune system
+  \end{itemize}
+\item
+  Due to the importance of gene expression when it has issues it can
+  affect the organism significantly
+\item
+  Process of Gene expression in a Eukaryotic cell
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Chromatin (DNA unpacking) --\textgreater{}
+  \item
+    RNA processing --\textgreater{}
+  \item
+    Transport to cytoplasm --\textgreater{}
+  \item
+    Translation --\textgreater{}
+  \item
+    Protein processing --\textgreater{}
+  \item
+    Transport to cellular destination--\textgreater{}
+  \end{itemize}
+\item
+  This process can often be equated to transcription for Prokaryote
+  cells
+\end{itemize}
+
+\hypertarget{regulation-of-chromatin-structure}{%
+\subsubsection{Regulation of Chromatin
+Structure}\label{regulation-of-chromatin-structure}}
+
+\begin{itemize}
+\tightlist
+\item
+  The chromatin structure itself allows for the regulation of gene
+  expression
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is partially due to the location of the promoter
+  \end{itemize}
+\item
+  Chemical modifications to the histone proteins can affect the
+  structure
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This in turn can affect gene expression
+  \item
+    Histone proteins are the proteins in which the DNA is wrapped
+  \item
+    There are many types of modifications that can take place
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Histone acetylation can tend to promote transcriptions by opening
+      up the chromatin
+    \item
+      Additional methyl groups tend to close up the chromatin and
+      decrease transcription
+    \end{itemize}
+  \item
+    DNA methylation occurs in most plants and animals as well as fungi
+  \item
+    Methylated DNA will stay methalated through cell divisions
+
+    \begin{itemize}
+    \tightlist
+    \item
+      This accounts for genomic imprinting
+    \item
+      These epigenetic markers can be inherited
+
+      \begin{itemize}
+      \tightlist
+      \item
+        There is continually more evidence for the importance of
+        epigentics in gene expression \#\#\# Regulation of Transcription
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  Chromatin changes are not permanent and can be reversed
+\item
+  The next step of gene expression regulation is in the transcription
+  factors
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These either allow for or inhibit transcription
+  \end{itemize}
+\item
+  These factors usually bind to proteins, but some of them bind to DNA
+\item
+  High levels of transcription factors created for specific genes are
+  associated with another protein thought creatively of as specific
+  transcription factors
+\item
+  Gene expression is dramatically increased or decreased by the binding
+  of specific transcription factors
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These are either activators or repressors
+  \end{itemize}
+\item
+  There are many transcription factors
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Repressors act in many different ways, but some bind directly to
+    control element DNA blocking activator binding
+  \item
+    Others interfere with the activator itself
+  \end{itemize}
+\item
+  Coordinated control of genes can need to happen when multiple genes
+  need to be expressed at the same time for something to function
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These can often be signaled from the outside with something like a
+    hormone
+  \end{itemize}
+\item
+  The activation of receptors on the surface of the cell can release
+  specific repressors and activators
+\end{itemize}
+
+\#\#\# Mechanisms of Post-Transcriptional Regulation - Transcription is
+not the only thing that regulates gene expression - How much of the
+protein is created once the RNA is received is also a factor - RNA can
+be interpreted in different ways with different things being introns and
+others being exons - This allows for the creation of multiple proteins
+from the same strand of RNA - RNA splicing is critical since it allows a
+lot of information to be fit on a single strand of RNA - Around 75-100\%
+of human genes with multiple exons undergo RNA splicing allowing for our
+genome to describe a lot of complexity without needing as many genes -
+Translation is another stage at which gene expression occurs - Some
+regulatory proteins can bock translation of an mRNA by preventing
+attachment to a ribisome - Length by which an mRNA is around is also
+crucial - This can vary greatly depending on the cell - Cells can mark
+proteins for destruction using something called ubiquitin
+
+\end{document}

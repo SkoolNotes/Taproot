@@ -1,0 +1,594 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ PHYS250 }
+\newcommand{\thelesson}{ Capacitors Lab Writeup }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4231)}}    % original
+%\rhead{\textrmlf{Compiled }\#4231\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4231\textrmlf{ on} \today}       % new date
+\lfoot{Albert Huang \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBe20phys250retCapacitorsLab}{\tiny\textulf{[[}\textbf{KBe20phys250retCapacitorsLab}\textulf{]]}}}\thinspace
+
+\#ret
+
+\hypertarget{purpose}{%
+\section{Purpose}\label{purpose}}
+
+To verify the relation between capacitance, resistance, voltage, and
+charge time of a simple capacitor circuit. The equation that will be
+verified is \[
+V_{cap} = V_{bat}\left(1-e^{-\frac{t}{\tau}}\right)
+\] where each variable has the following meaning:
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\begin{minipage}[b]{0.30\columnwidth}\raggedright
+Variable\strut
+\end{minipage} & \begin{minipage}[b]{0.21\columnwidth}\raggedright
+Units\strut
+\end{minipage} & \begin{minipage}[b]{0.40\columnwidth}\raggedright
+Description\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+\(t\)\strut
+\end{minipage} & \begin{minipage}[t]{0.21\columnwidth}\raggedright
+Seconds (s)\strut
+\end{minipage} & \begin{minipage}[t]{0.40\columnwidth}\raggedright
+Time elapsed since charging of the capacitor started. May be represented
+as \(t-t_0\), where \(t\) is the current absolute time and \(t_0\) is
+the absolute start time.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+\(V_{cap}\)\strut
+\end{minipage} & \begin{minipage}[t]{0.21\columnwidth}\raggedright
+Volts (V)\strut
+\end{minipage} & \begin{minipage}[t]{0.40\columnwidth}\raggedright
+Voltage across the capacitor after a given elapsed time\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+\(V_{bat}\)\strut
+\end{minipage} & \begin{minipage}[t]{0.21\columnwidth}\raggedright
+Volts (V)\strut
+\end{minipage} & \begin{minipage}[t]{0.40\columnwidth}\raggedright
+Voltage of the battery, assumed to be constant.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+\(\tau\)\strut
+\end{minipage} & \begin{minipage}[t]{0.21\columnwidth}\raggedright
+Seconds (s)\strut
+\end{minipage} & \begin{minipage}[t]{0.40\columnwidth}\raggedright
+``Time constant'' that scales the equation to the circuit. Equal to the
+product of the resistance and capacitance of the circuit (\(RC\)), and
+roughly equal to the number of seconds required to charge the capacitor
+to \(\frac{2}{3}\) of \(V_{bat}\).\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{quote}
+Table 1: The meanings of variables in the numerical model
+\end{quote}
+
+\hypertarget{voltage-over-time}{%
+\section{Voltage over Time}\label{voltage-over-time}}
+
+\hypertarget{equipment}{%
+\subsection{Equipment}\label{equipment}}
+
+\begin{itemize}
+\tightlist
+\item
+  Logger Pro probes
+\item
+  Logger Pro
+\item
+  Breadboard
+\item
+  Capacitors (22\(\mu\)F-1000\(\mu\)F)
+\item
+  Resistors (15\(\omega\)-100k\(\omega\))
+\item
+  3 volt battery pack
+\end{itemize}
+
+\hypertarget{procedure}{%
+\subsection{Procedure}\label{procedure}}
+
+A number of circuits were built, with the same structure but differing
+resistances and capacitances. The voltage across the capacitor and the
+current through the circuit were measured over time using a voltage and
+amperage probe with Logger Pro.
+
+\begin{figure}
+\centering
+\includegraphics{./KBe20phys250srcCapacitorLabCircuitSchematic.png}
+\caption{Circuit Schematic}
+\end{figure}
+
+Section 3 uses a different approach to analyze this data, and Section 4
+discusses the time constant as measured using a multimeter and
+stopwatch, all on the same basic circuit. The raw data can be found
+\href{https://nuevaschool.instructure.com/courses/2851/assignments/52558}{on
+Canvas}. Desmos was used to manually fit curves to the data, using a
+modified version of the model with \(t\) and \(t_0\) variables to
+truncate scrap data: \[
+V_{cap} = V_{bat}\left(1-e^{-\frac{t - t_0}{\tau}}\right)
+\] The scattered points near the x-axis are residuals between the curve
+fit and the collected data. The fit heuristic was to visually center the
+dots around the x-axis.
+
+\hypertarget{results}{%
+\subsection{Results}\label{results}}
+
+The results of the fits are summarized below:
+
+\begin{figure}
+\centering
+\includegraphics{./KBesrcCapacitor22microF100kO.png}
+\caption{Curve fit (blue) of the 100k\(\Omega\) 22\(\mu\)F circuit data
+(green). Residuals (red) were multiplied by 30.}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{./KBesrcCapacitorPoint047microF33ohm.png}
+\caption{\href{https://www.desmos.com/calculator/o3asuzdem0}{Curve fit
+(purple) of the 33\(\Omega\) 0.047\(\mu\)F data (blue). Residuals
+(black) scaled x60.}}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{./KBesrcCapacitor1000microF100ohm.png}
+\caption{\href{https://www.desmos.com/calculator/djrhxlddef}{Curve fit
+(black) of the 100\(\Omega\) 1000\(\mu\)F data (purple). Residuals
+(blue) scaled x30.}}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{./KBesrcCapacitor1000microF15ohm.png}
+\caption{\href{https://www.desmos.com/calculator/wr9bfzkbpl}{Curve fit
+(black) of the 15\(\Omega\) 1000\(\mu\)F data (purple). Residuals (red)
+scaled x30.}}
+\end{figure}
+
+\begin{longtable}[]{@{}rrrrr@{}}
+\toprule
+\(\Omega\) & F & Fit \(\tau\) (s) & Modeled \(\tau\) (s) & \%
+Error\tabularnewline
+\midrule
+\endhead
+100k\(\Omega\) & 22\(\mu\)F & 2.3860 \(\pm\) 0.01 & 2.2000 \(\pm\) 0.441
+& 8.45\%\tabularnewline
+33k\(\Omega\) & 0.047\(\mu\)F & 0.0017 \(\pm\) 0.0001 & 0.0016 \(\pm\)
+0.0003 & 12.83\%\tabularnewline
+100\(\Omega\) & 1000\(\mu\)F & 0.1058 \(\pm\) 0.001 & 0.1000 \(\pm\)
+0.020 & 4.40\%\tabularnewline
+15 \(\Omega\) & 1000\(\mu\)F & 0.0188 \(\pm\) 0.0001 & 0.0150 \(\pm\)
+0.003 & 24.67\%\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{quote}
+Table 2: Fit and calculated values of \(\tau\).
+\end{quote}
+
+\hypertarget{analysis}{%
+\subsection{Analysis}\label{analysis}}
+
+The curve fits included a parameter for \(\tau\), and the model predicts
+\(\tau = RC\). Thus, the values and uncertainties for resistance and
+capacitance of each circuit were multiplied and compared to the visual
+best fit \(\tau\) in the table above.
+
+Because each fit was done manually, the absolute error was difficult to
+estimate because there was no correct answer. Instead, error was taken
+as the precision at which the number was considered ``close enough'' by
+the human doing the curve fit. Depending on the size of the value (and
+scale of the Desmos slider), this results in an absolute error ranging
+from 0.1 units to 0.001 units.
+
+These uncertainties were propagated through calculations as follows: \[
+\begin{aligned}
+\delta (A+B) = \sqrt{\delta A^2 + \delta B^2}\\
+\frac{\delta (AB)}{AB} = \sqrt{\left(\frac{\delta A}{A}\right)^2 + \left(\frac{\delta B}{B}\right)^2}
+\end{aligned}
+\] for additive and multiplicative one operations respectively.
+
+The manufacturing tolerances of electronic components were taken into
+account as well. Resistor tolerances were based on the absolute
+difference between standard resistances and those measured by a
+multimeter. Capacitance tolerances were based on the tolerances of a
+similar capacitor for which the
+\href{http://www.paullinebarger.net/DS/Foai/Foai\%20\%5Bradial\%20thru-hole\%5D\%20CD110\%20Series.pdf}{data
+sheet} was available: the FOAI CD110 radial capacitor, which had
+capacitance tolerances of \(\pm\) 20\%.
+
+\hypertarget{conclusion}{%
+\subsection{Conclusion}\label{conclusion}}
+
+Assuming perfect capacitor manufacturing, the curve fit results fell
+within uncertainties of the model predicted \(\tau\) value for all
+circuits except the fit in Figure 1. This is likely due to the high
+uncertainties placed on smaller scale curve fits, especially the final
+trial. Furthermore, with the unexpectedly large 20\% uncertainties in
+capacitance all trials fell within the uncertainties of the experiment.
+Thus, the model predicted the charging behavior of capacitors over time
+accurately. For future iterations, numerical errors could have been
+better predicted if the specifications of the exact parts used to build
+the circuit were available. Additionally, more systematic curve fit
+heuristics could have been used such as RSME. The exact numerical
+analysis for this section can be found
+\textbf{\href{https://docs.google.com/spreadsheets/d/1Hw9ooz0CtAvTP9vtw1VT9pVyfsW39IojwwrQX94VJQY/edit?usp=sharing}{here}}.
+
+\hypertarget{integration-of-current}{%
+\section{Integration of Current}\label{integration-of-current}}
+
+\hypertarget{procedure-1}{%
+\subsection{Procedure}\label{procedure-1}}
+
+Another way to evaluate the model is to compare the amount of
+transferred charge. For this comparison, a modified equation is used:
+
+\[
+Q_{cap}=Q_{max}\left(1-e^{-\frac{t-t_{0}}{\tau}}\right)
+\]
+
+This is similar to the model used in the previous procedure, but voltage
+variables are replaced with charge. Current flow through the circuit is
+used as a proxy to calculate the amount of charge accumulated in the
+capacitor. As before, current is measured across a resistor using a
+digital probe and Logger Pro.
+
+The amount of charge on the capacitor was calculated by taking a Riemann
+sum of the momentary current measurements. In addition, the voltage
+measurements across the capacitor were used as another proxy to
+calculate the amount of charge on the capacitor.
+
+\hypertarget{results-1}{%
+\subsection{Results}\label{results-1}}
+
+The values of the three theoretically identical methods of calculating
+capacitor charge are shown below:
+
+\begin{figure}
+\centering
+\includegraphics{https://docs.google.com/spreadsheets/d/e/2PACX-1vRfxrZPfJZareibOZN-KammmgQDBDb5PVMBNmzCvUb_0tSn_TUNsLFQPM8ehfIKGEOaIhL86IoPFdb0/pubchart?oid=483417085\&format=image}
+\caption{Accumulated Charge Graph}
+\end{figure}
+
+In addition, the final accumulated charge calculated by the Riemann sum
+was 0.00319C, or the equivalent of 3.19V on the capacitor.
+
+\hypertarget{analysis-1}{%
+\subsection{Analysis}\label{analysis-1}}
+
+As the graph shows, both proxies of charge on the capacitor generally
+agree with the model but come up with smaller values of charge. Notably,
+the two experimental proxies don't agree with each other either,
+suggesting some systematic error is at play.
+
+One culprit may be misaligned data: if the Riemann sum calculation began
+after charging, then the entire sum would be skewed low. However, the
+sum plot is not a vertical translation of the theoretical value, which
+suggests the effect of this issue is minimal or canceled. Another issue
+may be miscalibrated sensors: if each amperage measurement was off by
+\(10^{-5}\)A, the cumulative affect would drag down the total as time
+went on. The effect of this drift can be counteracted by taking the
+average of readings when no charge should be flowing, multiplying by the
+number of data points, and subtracting the total from the final charge
+value. However, the calculated drift was an order of magnitude greater
+than the total accumulated charge, so the author did not numerically
+sanitize against this drift.
+
+Although the intermediate charge values do not match the model, the
+final accumulated charge is sensical: 3.19 volts is close to the
+expected 3.2 volts. The same errors mentioned previously contribute to
+this difference, but the accuracy of the result suggests that the effect
+was canceled.
+
+The Farad Definition line (red) in Figure 6 has blips for unkown
+reasons. When the battery was off, the probe measured voltages on the
+order of \(10^{-9}\) for a few ticks before measuring a faulty value, so
+a similar stepping phenomenon may be occuring in the voltage
+meauserement.
+
+\hypertarget{conclusion-1}{%
+\subsection{Conclusion}\label{conclusion-1}}
+
+The Riemann sums of measured current align with the model and expected
+charge calculated by the voltage on the capacitor and the definition of
+the Farad. Thus, the model accurately predicts experimental behavior,
+suggesting that it is correct. Although the graphs differed slightly,
+these may be attributed to the subjective curve fit metric, sensor
+inaccuracies while measuring small flows of current, or sensor
+calibration inaccuracies. Future analysis could be more accurate by
+calculating the false zero point of the sensor, using various tick times
+to find the most effective range for that sensor, and having more
+accurate values for uncertainty for circuit components and the digital
+probe.
+
+Source analysis
+\href{https://docs.google.com/spreadsheets/d/1eDmGRePGh8PVv2aKhVhv-TNJc3_n8H7HUrAMvxOG1Vs/edit?usp=sharing}{\textbf{here}}.
+
+\hypertarget{time-constant-with-various-components}{%
+\section{Time Constant with Various
+Components}\label{time-constant-with-various-components}}
+
+\hypertarget{equipment-1}{%
+\subsection{Equipment}\label{equipment-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Breadboard
+\item
+  Capacitors (100\(\mu\)F-1000\(\mu\)F)
+\item
+  Resistors (99.8k\(\Omega\)-1M\(\Omega\))
+\item
+  3 volt battery pack
+\item
+  Multimeter
+\item
+  Stopwatch
+\end{itemize}
+
+\hypertarget{procedure-2}{%
+\subsection{Procedure}\label{procedure-2}}
+
+Most of the analysis for data collected as a class was done on the
+``charge rate constant'' (\texttt{time/RC}) of each circuit, defined as:
+
+\[
+\frac{t}{RC}
+\]
+
+The same circuit as above was built by various experimentalists, with
+multimeter probes on the two sides legs of the capacitor:
+
+\begin{figure}
+\centering
+\includegraphics{./KBe20phys250srcCapacitorLabCircuitSchematic.png}
+\caption{Circuit Schematic}
+\end{figure}
+
+The physical manifestation of which looked like:
+
+\begin{figure}
+\centering
+\includegraphics{./KBe20phys250srcCapacitorLabCircuit.png}
+\caption{Circuit used in experiment: red and black aligator clips
+attached to multimeter, battery attatched to the power rails.}
+\end{figure}
+
+Starting with discharged capacitors, a battery was connected to the
+circuit and used to charge the capacitor. The time taken for the voltage
+across the capacitor to reach 2 \(\pm\) 0.01 volts was measured for
+various resistor and capacitor combinations.
+
+\hypertarget{results-2}{%
+\subsection{Results}\label{results-2}}
+
+\texttt{time/RC} is a unitless scalar that represents how quickly it
+takes to charge any capacitor for a given voltage. Voltage data was not
+collected during the experiment, so the voltage is assumed to be
+constant across trials. If our model of capacitor charge rate is
+correct, we expect \texttt{time/RC} to be constant across trials. The
+actual data was skewed right:
+
+\begin{figure}
+\centering
+\includegraphics{https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=587065174\&format=image}
+\caption{Histogram of time/RC}
+\end{figure}
+
+By comparing the \texttt{time/RC} and different properties of each
+circuit, reasoning for the outliers may be deduced. The visualization of
+the histogram is reflected in each of the following charts by the
+density of points in a column.
+
+First, the \texttt{time/RC} values were compared with the resistance of
+the circuit:
+
+\begin{figure}
+\centering
+\includegraphics{https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=1655543849\&format=image}
+\caption{time/RC vs Resistance}
+\end{figure}
+
+Although some outliers came from circuits with high resistance, the most
+skewed ones came from those with least resistance. The same can be said
+of capacitance:
+
+\begin{figure}
+\centering
+\includegraphics{https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=1866933099\&format=image}
+\caption{time/RC vs Capacitance}
+\end{figure}
+
+Finally, the comparison with time taken to charge the capacitor shows
+the strongest correlation, which is to be expected because according to
+the model, this value is the product of the previous two trends.
+
+\begin{figure}
+\centering
+\includegraphics{https://docs.google.com/spreadsheets/d/e/2PACX-1vTdonVC_CHgEAoezSnGLXLRFZMhR0_IfTl8anSSMXwEDUR4iNzQbhVJGY8PyUq2e946cMuQbj5TSex_/pubchart?oid=716778401\&format=image}
+\caption{time/RC vs Time to Charge}
+\end{figure}
+
+\hypertarget{analysis-2}{%
+\subsection{Analysis}\label{analysis-2}}
+
+On explanation for the data skew is reaction time: for lower values of
+\(\tau\), the capacitor plateaus faster near 2V and thus the time keeper
+may not react as quickly. Components with smaller ratings also need
+tighter tolerances to achieve the same relative tolerances, so smaller
+capacitors may have relatively higher manufactured variability. The
+source analysis for these conclusions can be found
+\href{https://docs.google.com/spreadsheets/d/1Xf3b3GKpNSIkuoEZTTcMQ2gjTIVnO4eHE5aJD3GEjqg/edit?usp=sharing}{\textbf{here}}.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

@@ -1,0 +1,786 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Causes of WWI Essay Outline }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10525)}}    % original
+%\rhead{\textrmlf{Compiled }\#10525\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#10525
+  \textrmlf{ on}
+      \today
+  }       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{prompt}{%
+\section{prompt}\label{prompt}}
+
+\begin{quote}
+The political scientist Kenneth Waltz argues that the causes of war can
+be analyzed at three different levels: the individual human level, the
+state level, and the international system level. Those who view things
+from the first level believe that war is best explained by
+``selfishness,'' ``misdirected aggressive impulses,'' or ``stupidity''
+within the human psyche.
+
+Those who favor the second level believe there are hostile or aggressive
+or revisionist states who, because of their form of government or other
+domestic issues, behave in a warlike manner while other states simply
+want to keep the peace (the status quo).
+
+Those who favor the third level believe that the international system
+itself, because it is an anarchy with ``no system of law enforceable''
+between states, and in which each state acts according to its own
+interest and reserves the right to use force to achieve its aims, makes
+war inevitable.
+
+Analyze World War 1 according to one (or a blend) of these levels of
+analysis. Which best explains the general causes of the war as well as
+the specific sequence of events (\textbf{including events that prolonged
+the war beyond the initial outbreak})?
+
+Essays should cite from the Palmer reading, and, if you want to aim for
+the exemplary evidence standard, any of these
+\href{https://drive.google.com/drive/folders/1KTggTDz3Yl7fT9MxwG4l25qMPNyiUioe?usp=sharing}{primary
+sources as well}.
+
+Other Submission guidelines: 3 pages, size 12 font, double-spaced.
+Citations should be in-line and formatted as (Authorname Pagenumber)
+i.e. (Kennedy 12). Include a Works Cited page in MLA format for the
+secondary sources. Primary sources do not need to be included in the
+Works Cited page, but their authorship and date and other relevant
+information should be introduced in your text when you cite them.
+
+Tips: See the essay rubric guide below for questions to ask yourself as
+you write and revise.
+\href{https://docs.google.com/document/d/1cHuvVjKQbwUmRgRh2qbgk76dbMBoOcCgaBAasiznj6U/edit?usp=sharing}{History
+essay rubric guide}
+\end{quote}
+
+\hypertarget{standards-targets}{%
+\section{standards targets}\label{standards-targets}}
+
+\hypertarget{knowledge-of-history-reference-specific-events-places-dates-and-people-with-a-clear-sense-of-chronology}{%
+\subsection{\texorpdfstring{{TODO} knowledge of history: reference
+specific events, places, dates, and people with a clear sense of
+chronology}{TODO knowledge of history: reference specific events, places, dates, and people with a clear sense of chronology}}\label{knowledge-of-history-reference-specific-events-places-dates-and-people-with-a-clear-sense-of-chronology}}
+
+\hypertarget{understanding-patterns-define-an-array-of-historical-trends-religious-political-social-economic-cultural}{%
+\subsection{\texorpdfstring{{TODO} understanding patterns: define an
+array of historical trends \{ religious?, political, social, economic,
+cultural
+\}}{TODO understanding patterns: define an array of historical trends \{ religious?, political, social, economic, cultural \}}}\label{understanding-patterns-define-an-array-of-historical-trends-religious-political-social-economic-cultural}}
+
+\hypertarget{understanding-patterns-show-how-the-trends-affect-each-other}{%
+\subsection{\texorpdfstring{{TODO} understanding patterns: show how the
+trends affect each
+other}{TODO understanding patterns: show how the trends affect each other}}\label{understanding-patterns-show-how-the-trends-affect-each-other}}
+
+\hypertarget{argument-and-argumentation-address-the-prompt-explain-events-with-a-nuanced-and-precise-sense-of-cause-and-effect}{%
+\subsection{\texorpdfstring{{TODO} argument and argumentation: address
+the prompt, explain events with a nuanced and precise sense of cause and
+effect}{TODO argument and argumentation: address the prompt, explain events with a nuanced and precise sense of cause and effect}}\label{argument-and-argumentation-address-the-prompt-explain-events-with-a-nuanced-and-precise-sense-of-cause-and-effect}}
+
+\hypertarget{argument-connects-to-broader-trends-and-specific-moments}{%
+\subsection{\texorpdfstring{{TODO} argument connects to broader trends
+and specific
+moments}{TODO argument connects to broader trends and specific moments}}\label{argument-connects-to-broader-trends-and-specific-moments}}
+
+\hypertarget{needs-a-so-what-to-demonstrate-its-relevance}{%
+\subsection{\texorpdfstring{{TODO} needs a "so what" to demonstrate it's
+relevance}{TODO needs a "so what" to demonstrate it's relevance}}\label{needs-a-so-what-to-demonstrate-its-relevance}}
+
+\hypertarget{use-of-evidence-use-specific-evidence-from-the-widest-array-of-sources-to-support-points-in-every-paragraph}{%
+\subsection{\texorpdfstring{{TODO} use of evidence: use specific
+evidence from the 'widest array of sources' to support points in every
+paragraph}{TODO use of evidence: use specific evidence from the 'widest array of sources' to support points in every paragraph}}\label{use-of-evidence-use-specific-evidence-from-the-widest-array-of-sources-to-support-points-in-every-paragraph}}
+
+\hypertarget{written-expression-use-precise-terminology-and-express-nuanced-thoughts-make-clear-introconclusion-and-body-paragraph-structure-clarified-in-thesis}{%
+\subsection{written expression: use precise terminology and express
+nuanced thoughts, make clear intro/conclusion, and body paragraph
+structure clarified in
+thesis}\label{written-expression-use-precise-terminology-and-express-nuanced-thoughts-make-clear-introconclusion-and-body-paragraph-structure-clarified-in-thesis}}
+
+\hypertarget{events-that-prolonged-the-war-after-its-outbreak}{%
+\subsection{\texorpdfstring{{TODO} \textbf{events} that prolonged the
+war after it's
+outbreak}{TODO events that prolonged the war after it's outbreak}}\label{events-that-prolonged-the-war-after-its-outbreak}}
+
+\hypertarget{evidence}{%
+\section{evidence}\label{evidence}}
+
+\hypertarget{primary-sources}{%
+\subsection{primary sources}\label{primary-sources}}
+
+\hypertarget{german-historian-heinrich-von-treitschke-1834-1896-glorified-warfare-quoted-in-politics-1899-1900-14-years-before-the-war}{%
+\subsubsection{German historian Heinrich von Treitschke (1834-1896)
+glorified warfare quoted in Politics (1899-1900) (14 years before the
+war)}\label{german-historian-heinrich-von-treitschke-1834-1896-glorified-warfare-quoted-in-politics-1899-1900-14-years-before-the-war}}
+
+\begin{enumerate}
+\item
+  war is the only way out for 'an afflicted people'
+\item
+  forgo the ego and join the greater good (greatness of war)
+\item
+  those who appeal to peace / Christianity are cowards ('the leader
+  should wield the sword')
+\item
+  (peace is reactionary -\textgreater{} bad) -\textgreater{} (banishing
+  war -\textgreater{} banishing progress)
+\end{enumerate}
+
+\hypertarget{german-general-and-influential-military-writer-friedrich-von-bernhardi-1849-1930-in-germany-and-the-next-war-1911}{%
+\subsubsection{\texorpdfstring{German general and influential military
+writer Friedrich von Bernhardi (1849-1930) in \emph{Germany and the Next
+War}
+(1911)}{German general and influential military writer Friedrich von Bernhardi (1849-1930) in Germany and the Next War (1911)}}\label{german-general-and-influential-military-writer-friedrich-von-bernhardi-1849-1930-in-germany-and-the-next-war-1911}}
+
+\begin{enumerate}
+\item
+  'war is the father of all things', concept of war being necessary for
+  all advancement of society
+\item
+  concept of 'the mighty must do what the mighty must' (international
+  anarchy)
+\item
+  flourishing nations need more land and thus 'conquest becomes a law of
+  necessity'
+\item
+  'the right of conquest is universally acknowledged'\ldots{} 'right to
+  annexation'
+\item
+  'might is at once the supreme right', basically war is necessary,
+  correct, and natural
+\item
+  conclusion: exclusion of war 'must be demonstrably untenable'
+\end{enumerate}
+
+\hypertarget{french-writer-ronald-dorgeles-1885-1973-recalls-the-mood-in-paris-at-the-outbreak-of-the-war}{%
+\subsubsection{French writer Ronald Dorgeles (1885-1973) recalls the
+mood in {[}Paris at the outbreak of the
+war}\label{french-writer-ronald-dorgeles-1885-1973-recalls-the-mood-in-paris-at-the-outbreak-of-the-war}}
+
+\begin{enumerate}
+\item
+  stunned -\textgreater{} 'What? War, was it? Well, then, let's go!'
+\item
+  people were ready and excited, 'but this time it was better than a
+  song'
+\item
+  excited by seeing cavalry and foot soldiers marching off to battle
+\item
+  even the socialist workers 'seeing their old dreams of peace crumble'
+  would cry 'To Berlin!' (even they are pro-war)
+\item
+  'Frenchmen' national identity brought people of socioeconomic and
+  political diversity together
+\item
+  hindsight: was the fight and death worth it if 50 years later everyone
+  was friendly
+\end{enumerate}
+
+\hypertarget{poems-from-dudes-in-the-trenches}{%
+\subsubsection{poems from dudes in the
+trenches}\label{poems-from-dudes-in-the-trenches}}
+
+\begin{enumerate}
+\item
+  it sucks
+\end{enumerate}
+
+\hypertarget{the-book-dude}{%
+\subsection{the book dude}\label{the-book-dude}}
+
+\hypertarget{level-1}{%
+\subsubsection{level 1}\label{level-1}}
+
+\begin{enumerate}
+\item
+  ethnically diverse citizens (serbian nationalists, among others) want
+  to not be part of austria hungary
+\end{enumerate}
+
+\hypertarget{level-2}{%
+\subsubsection{level 2}\label{level-2}}
+
+\begin{enumerate}
+\item
+  germany rose up, making france and russia concerned (is this
+  innevitable)
+\item
+  leaders expected war to come, so that may have made it more
+  innevitable
+\end{enumerate}
+
+\hypertarget{level-3}{%
+\subsubsection{level 3}\label{level-3}}
+
+\begin{enumerate}
+\item
+  game theoretic prisoner's dilemma style cost matrix
+\item
+  no common power to hold states accountable to the both-defend policy
+\item
+  security dilemma
+\end{enumerate}
+
+\hypertarget{outline}{%
+\section{outline}\label{outline}}
+
+\hypertarget{intro}{%
+\subsection{\texorpdfstring{{TODO} Intro}{TODO Intro}}\label{intro}}
+
+\hypertarget{thesis}{%
+\subsection{\texorpdfstring{{TODO} Thesis}{TODO Thesis}}\label{thesis}}
+
+\hypertarget{e}{%
+\subsubsection{\texorpdfstring{\textbf{e}}{e}}\label{e}}
+
+\hypertarget{bp1-citizens-start-the-war}{%
+\subsection{BP1: citizens start the
+war}\label{bp1-citizens-start-the-war}}
+
+\hypertarget{germany-wants-a-spot-in-the-sun}{%
+\subsubsection{germany wants a spot in the
+sun}\label{germany-wants-a-spot-in-the-sun}}
+
+The rapid economic development of Germany {[}cite tables{]} in
+{[}years{]} inflated the German national identity and instilled fear in
+its neighbors. Spot in the sun {[}cite palmer, authorship, year{]}
+
+\hypertarget{primary-sources-1}{%
+\subsubsection{primary sources}\label{primary-sources-1}}
+
+These writers further inflated the national identity and glorified
+warfare, creating a populous that is itching to fight.
+
+\hypertarget{security-dilemma-people-think-war-is-coming-level-3-influence}{%
+\subsubsection{security dilemma =\textgreater{} people think war is
+coming (level 3
+influence)}\label{security-dilemma-people-think-war-is-coming-level-3-influence}}
+
+Troops are amassed on both sides in a vicious cycle, an example of the
+so called 'security dilemma' (level 3 mechanisms catalyze the war)
+
+\hypertarget{bad-news-bears-in-the-balkans-sets-it-off}{%
+\subsubsection{bad news bears in the Balkans (sets it
+off)}\label{bad-news-bears-in-the-balkans-sets-it-off}}
+
+\hypertarget{bp2-governments-keep-the-war}{%
+\subsection{\texorpdfstring{{TODO} BP2: governments keep the
+war}{TODO BP2: governments keep the war}}\label{bp2-governments-keep-the-war}}
+
+\hypertarget{mutinies}{%
+\subsubsection{mutinies}\label{mutinies}}
+
+\hypertarget{government-ideas}{%
+\subsubsection{government ideas}\label{government-ideas}}
+
+\hypertarget{bp3-greater-power-couldve-stopped-the-reaction-at-any-time}{%
+\subsection{\texorpdfstring{{TODO} BP3: greater power could've stopped
+the reaction at any
+time}{TODO BP3: greater power could've stopped the reaction at any time}}\label{bp3-greater-power-couldve-stopped-the-reaction-at-any-time}}
+
+\hypertarget{germany-was-scared-of-us-involvement}{%
+\subsubsection{\texorpdfstring{{TODO} germany was scared of US
+involvement}{TODO germany was scared of US involvement}}\label{germany-was-scared-of-us-involvement}}
+
+\hypertarget{mad-would-change-the-reward-matrix-cult-of-the-offensive---cult-of-the-defensive}{%
+\subsubsection{\texorpdfstring{{TODO} MAD would change the reward matrix
+(cult of the offensive -\textgreater{} cult of the
+defensive)}{TODO MAD would change the reward matrix (cult of the offensive -\textgreater{} cult of the defensive)}}\label{mad-would-change-the-reward-matrix-cult-of-the-offensive---cult-of-the-defensive}}
+
+\hypertarget{conclusion}{%
+\subsection{\texorpdfstring{{TODO}
+Conclusion}{TODO Conclusion}}\label{conclusion}}
+
+\hypertarget{outline2-barley-boogaloo}{%
+\section{outline2 barley boogaloo}\label{outline2-barley-boogaloo}}
+
+\hypertarget{intro-1}{%
+\subsection{intro}\label{intro-1}}
+
+At the turn of the twentieth century, Europe was locked in an arms race
+caused by international political and economic incentives. As tensions
+grew, cultural strifes inevitably intensified and ultimately sparked the
+war.
+
+\hypertarget{thesis-1}{%
+\subsection{\texorpdfstring{{DONE}
+thesis}{DONE thesis}}\label{thesis-1}}
+
+Although a lack of enforcement of international order and ballooning
+militaries both incentivized and enabled WWI, the necessary spark was
+provided by individual civilian interests.
+
+\hypertarget{bp1-level-3-security-dilemmacult-of-the-offensive-puts-everyone-on-edge}{%
+\subsection{\texorpdfstring{{DONE} BP1: level 3 security dilemma/cult of
+the offensive puts everyone on
+edge}{DONE BP1: level 3 security dilemma/cult of the offensive puts everyone on edge}}\label{bp1-level-3-security-dilemmacult-of-the-offensive-puts-everyone-on-edge}}
+
+Reinforcing international incentives such as the security dilemma and
+cult of the offensive put each of the international powers on edge,
+bringing the European powers closer to war.
+
+\hypertarget{industrialization---bigger-militaries}{%
+\subsubsection{industrialization -\textgreater{} bigger
+militaries}\label{industrialization---bigger-militaries}}
+
+As a united Germany industrialized, both its population and industrial
+might grew to rival the French and British powers of the time. For
+instance, in 1880--nine years after Germany was officially unified--the
+German empire produced only 8.5\% of the world's manufacturing output
+while Britain produce 22.9\% of it. By 1913, deep into the security
+dilemma and one year before the war, Germany had surpassed British
+production and nearly doubled that of France's (Kennedy, Table 18).
+
+Contries tend to grow their military as they industrialize, if only for
+defensive purposes. As Germany doubled it's military population over
+three decades to challenge century-long British and French domination,
+nearby countries grew wary. As surpassed power and a failing empire,
+France and Russia grew wary of the newfound power between them. They
+allied with Britain in 1904 and 1907 respectively for fear of a coming
+war.
+
+\hypertarget{the-security-dilemma}{%
+\subsubsection{the security dilemma}\label{the-security-dilemma}}
+
+As countries formed aliances and grew their militaries, opposing parties
+were forced to keep up in the arms race. This so called "security
+dilemma" doubled the number of military and navel personel worldwide in
+the 30 years between the German unification and the war, and nearly
+tripled the global warship tonnage (Kennedy, Table 19-20). A level two
+perspcetive would explain this aggression with Germany's expansionistic
+ideals, but even Britain's liberal parliamentary democracy quadrupled
+it's naval tonnage.
+
+\hypertarget{cult-of-the-offensive}{%
+\subsubsection{cult of the offensive}\label{cult-of-the-offensive}}
+
+Leaders at the time believed that preempting war would allow a fast and
+decisive victory. Even simplifying the outcomes to two countries and
+four possibilites, where each country either attacks or defends, greedy
+actors will choose to preempt war. As a result, each country prepared to
+invade it's neighboors, and European tensions grew.
+
+\hypertarget{mutually-assured-destruction}{%
+\subsubsection{mutually assured
+destruction}\label{mutually-assured-destruction}}
+
+In fact, had a there been an international disencentive such as Mutually
+Assured Destruction, the relative ordering of possibilites and therefore
+the cost matrix would've prevented all out war between such parties. For
+example, in a nuclear scenerio where any attacked country can retaliate
+with their own warheads, the utility of each scenerio would be ordered
+as follows:
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Utility & Our Actions & Their Actions \\
+\midrule
+\endhead
+4 & Defend & Defend \\
+3 & Attack & Defend \\
+2 & Attack & Attack \\
+1 & Defend & Attack \\
+\bottomrule
+\end{longtable}
+
+And in a two party system,
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Top,Left & Attack & Defend \\
+\midrule
+\endhead
+Attack & 2, 2 & 1, 3 \\
+Defend & 3, 1 & 4, 4 \\
+\bottomrule
+\end{longtable}
+
+Although it may seem less risky for any given party to attack, the
+utility of both defend increases as weapons get stronger until both
+parties opt for a defense strategy under MAD. Modern mutually assured
+destruction has so far prevented all out war, and a lack of such
+disincentives made war more likely in the early 1900s.
+
+\hypertarget{bp2-upset-war-hungry-people-are-required-to-spark-the-war}{%
+\subsection{\texorpdfstring{{TODO} BP2: upset / war-hungry people are
+required to spark the
+war}{TODO BP2: upset / war-hungry people are required to spark the war}}\label{bp2-upset-war-hungry-people-are-required-to-spark-the-war}}
+
+As a side effect of this global militarization, the populous glorified
+and anticipated war. This level three influence on the level one psyche
+inflamed nationalist ideals across Europe and primed a now-ticking
+explosive.
+
+Popular works from the years leading up to the war describe how natural
+and necessary war is. For instance, German general and influential
+military writer Friedrich von Bernhardi (1849-1930) wrote in
+\emph{Germany and the Next War} (1911) that "War is a biological
+necessity of the first importance," and "The right of conquest is
+universally acknowledged." (CITE) As both a high-ranking general and a
+best-selling author, Bernhardi was in a unique position to influence the
+public opinion about war. His aggressive stance is not surprising given
+his military background, and his work was instrumental to priming
+Germany for battle. A nation cannot go to war without the support of the
+populous, as the citizens at large provide the troops, taxes, and labor
+to sustain warfare. Such vehement arguments swayed public opinion and
+opened the possibility of large-scale battle.
+
+A level two viewpoint may counter that Germany was naturally
+expansionist, but similar widespread sentiment in France suggests
+government structure and ideology were not a sufficient influence on
+public opinion. French writer Ronald Dorgeles (1885-1973) recalls the
+mood in Paris at the outbreak of war, writing "Suddenly a heroic wind
+lifted their heads. What? War, was it? Well then, let's go!" (CITE) The
+French parliamentary constitutional government had been weakened by
+civil unrest and would hardly have been able to force a uncooperative
+populous to war, but even the left-wing activists agreed in August of
+1914 to refrain from calling strikes during the duration of the war in
+the Union Sacrée or Sacred Union. (CITE needed? :question:
+\url{https://journals.sagepub.com/doi/abs/10.1177/026569147800800402?journalCode=ehqa})
+Thus, French actions could not have been primarily governmental
+influence, and such countries went to war due to level three influences
+on public opinion.
+
+An exclusively level one viewpoint may counter that German writers like
+Heinrich von Treitschke had been espousing and glorifying war decades
+before the rapid German industrialization beginning in 1970. However,
+the shift was more recent in other countries. For instance, Dorgeles
+notes the ideological one-eighty that socialist workers take upon
+hearing of war. "seeing their old dreams of peace crumble, {[}socialism
+workers{]} would stream out into the boulevards \ldots{} {[}but{]} they
+would cry 'To Berlin!,' not 'Down with war!'" (CITE) Although Germany's
+actions may be a result of it's level two structure, the level three
+influence on level one psyche is required to explain the actions of
+other states.
+
+\hypertarget{serbs-in-austria-want-to-make-yugoslavia-also-bosnia}{%
+\subsubsection{serbs in austria want to make yugoslavia (also
+bosnia?)}\label{serbs-in-austria-want-to-make-yugoslavia-also-bosnia}}
+
+As countries militarized and nationalist views grew, would ethnic and
+religious divisions intensify until something inevitably sparked war. In
+the case of WWI, the weakest link was the religious divide in
+Austria-Hungary. Over the course of a number of "Balkan crises," the
+Eastern Orthodox Serbs and Bosnians in southern Austria-Hungary grew
+discontent with the Roman Catholic Dual Monarchy that ruled the Habsburg
+empire--soon to be Austria-Hungary. As the Ottoman empire declined, the
+Serbs marked Bosnia as their own and were infuriated when Austria
+annexed Bosnia in 1908. When a the Balkan wars saw Austria cut Serbia
+off from the sea, Serbs both independent and Austrian grew exasperated
+and desperate. (Reader page 6 CITE) This chain of events was driven by
+recent level three influences: the ongoing security-dilemma-induced arms
+race had Germany's neighbors scrambling for land and power. States and
+citizens alike were expecting war, and looking to gain as much of an
+upper hand as possible before it broke out.
+
+level 3 -\textgreater{} level 1: individual actions cause stuff try to
+cite something external about expectations causing stuffs
+
+These level three influences also shifted the general psyche to become
+more war-like, pushing a few individuals near the top of the bell curve
+past a critical point. Cultural cracks plauge numerous states, but these
+
+\hypertarget{conclusion-1}{%
+\subsection{\texorpdfstring{{TODO}
+conclusion}{TODO conclusion}}\label{conclusion-1}}
+
+As power dynamics shifted around the turn of the twentieth century, the
+defined scarcity of state goals--such as the British ambition of having
+the largest navy--set off a chain of events that led ultimately and
+innevitably to global war. Without a change of level three incentives,
+such as a global mediator or mutually assured destruction, shifting
+power dynamics and the cult of the offensive will lead inescapably to
+security-dilemma-induced arms race and growing tensions which cause
+nationalist viewponts and breed rash individuals. Thus, international
+disincentives like mutually assured destruction are key to keeping
+political and economic incentives from inflaming ideological divides and
+causing warfare.
+
+\hypertarget{todos}{%
+\section{todos}\label{todos}}
+
+\hypertarget{read-primary-sources.}{%
+\subsection{\texorpdfstring{{DONE} read
+\href{https://drive.google.com/drive/folders/1KTggTDz3Yl7fT9MxwG4l25qMPNyiUioe?usp=sharing}{primary
+sources}.}{DONE read primary sources.}}\label{read-primary-sources.}}
+
+\hypertarget{review-evidencenotes}{%
+\subsection{\texorpdfstring{{DONE} review
+evidence/notes}{DONE review evidence/notes}}\label{review-evidencenotes}}
+
+\hypertarget{questions-5-april-2021}{%
+\subsection{questions 5 april 2021}\label{questions-5-april-2021}}
+
+\hypertarget{how-much-of-bad-news-bears-in-the-balkans-is-needed}{%
+\subsubsection{\texorpdfstring{{DONE} how much of bad news bears in the
+balkans is needed
+{\textsc{question}}}{DONE how much of bad news bears in the balkans is needed question}}\label{how-much-of-bad-news-bears-in-the-balkans-is-needed}}
+
+\begin{enumerate}
+\item
+  bosnia
+\end{enumerate}
+
+\hypertarget{can-i-cite-external-sources-tables-n-stuff}{%
+\subsubsection{\texorpdfstring{{DONE} can I cite external sources /
+tables n stuff
+{\textsc{question}}}{DONE can I cite external sources / tables n stuff question}}\label{can-i-cite-external-sources-tables-n-stuff}}
+
+\begin{enumerate}
+\item
+  yes
+\end{enumerate}
+
+\hypertarget{how-to-cite-stuff-in-class}{%
+\subsubsection{\texorpdfstring{{DONE} how to cite stuff in class?
+{\textsc{question}}}{DONE how to cite stuff in class? question}}\label{how-to-cite-stuff-in-class}}
+
+\begin{enumerate}
+\item
+  people just trying to outlast others -- need explicit or analyze from
+  shipping?
+\item
+  idea of war on others turf
+\end{enumerate}
+
+\hypertarget{what-are-you-looking-for-in-the-intro-conclusion}{%
+\subsubsection{\texorpdfstring{{DONE} what are you looking for in the
+intro / conclusion?
+{\textsc{question}}}{DONE what are you looking for in the intro / conclusion? question}}\label{what-are-you-looking-for-in-the-intro-conclusion}}
+
+\begin{enumerate}
+\item
+  intro - need background? or just thesis? avoid fluff?
+\item
+  conclusion: what do you know now? why is this cool? whats not obvious
+  from the thesis?
+\end{enumerate}
+
+\hypertarget{questions-7-april-2021}{%
+\subsection{questions 7 april 2021}\label{questions-7-april-2021}}
+
+\hypertarget{what-trends-are-there}{%
+\subsubsection{\texorpdfstring{{DONE} what trends are
+there?}{DONE what trends are there?}}\label{what-trends-are-there}}
+
+just connect stuff. no set list of trends. link different domains
+
+\hypertarget{need-to-talk-about-post-war-stuff}{%
+\subsubsection{\texorpdfstring{{DONE} need to talk about post war
+stuff?}{DONE need to talk about post war stuff?}}\label{need-to-talk-about-post-war-stuff}}
+
+\hypertarget{check-thesis-does-it-work-for-body-paragraphs}{%
+\subsubsection{\texorpdfstring{{DONE} check thesis? does it work for
+body
+paragraphs?}{DONE check thesis? does it work for body paragraphs?}}\label{check-thesis-does-it-work-for-body-paragraphs}}
+
+is last paragraph level 2 or level 1? phrase as a 'all human nature
+thing', imagine how it would happen in liberal democracies
+
+\hypertarget{length}{%
+\subsubsection{\texorpdfstring{{DONE}
+length?}{DONE length?}}\label{length}}
+
+\hypertarget{so-what}{%
+\subsubsection{\texorpdfstring{{DONE} so
+what?}{DONE so what?}}\label{so-what}}
+
+\hypertarget{come-up-with-general-frame}{%
+\subsection{\texorpdfstring{{DONE} come up with general
+frame}{DONE come up with general frame}}\label{come-up-with-general-frame}}
+
+\hypertarget{come-up-with-argument-body-paragraphs}{%
+\subsection{\texorpdfstring{{DONE} come up with argument, body
+paragraphs}{DONE come up with argument, body paragraphs}}\label{come-up-with-argument-body-paragraphs}}
+
+\hypertarget{outline-write-edit-for-standards}{%
+\subsection{\texorpdfstring{{TODO} \{ outline, write, edit \} for
+standards}{TODO \{ outline, write, edit \} for standards}}\label{outline-write-edit-for-standards}}
+
+\end{document}

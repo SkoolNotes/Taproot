@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -120,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3628)}}    % original
+%\rhead{\textrmlf{Compiled }\#3628\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3628\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -134,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -160,18 +164,14 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\ifthenelse{ \equal{KBhMATH401SubIndex}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=KBhMATH401SubIndex}{\tiny\textulf{[[}\textbf{KBhMATH401SubIndex}\textulf{]]}}}
-
-\#disorganized
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhMATH401SubIndex}{\tiny\textulf{[[}\textbf{KBhMATH401SubIndex}\textulf{]]}}}\thinspace
 
 \hypertarget{limits}{%
 \section{Limits}\label{limits}}
 
-\hypertarget{some-vocab}{%
-\subsection{Some Vocab}\label{some-vocab}}
+\hypertarget{warming-up}{%
+\subsection{Warming up}\label{warming-up}}
 
 Here's a function
 
@@ -194,75 +194,79 @@ We know that it has
 \hypertarget{the-limit-notation}{%
 \subsection{The Limit Notation}\label{the-limit-notation}}
 
-\definition["What is $y$ approaching when $x$ approaches $a$ from the right ($+$)?"]{Right Single-Sided Limit}{$\lim_{x\to a^+} f(x)$}
-
-\definition["What is $y$ approaching when $x$ approaches $a$ from the left ($-$)?"]{Left Single-Sided Limit}{$\lim_{x\to a^-} f(x)$}
-
-\textbf{Watch!} If both the left and right single-sided limit exists and
-is the same, the Double-Sided Limit exists.
-
-\definition["What is $y$ approaching when $x$ approaches $a$?" This exists only if $\lim_{x\to a^-} f(x)=\lim_{x\to a^+} f(x)$ ]{Left Single-Sided Limit}{$\lim_{x\to a} f(x)$}
-
-\textbf{Vocab!} When the Double-Sided Limit does not exist, it is called
-\emph{DOES NOT EXIST!}. It is not! \(\cancel{undefined}\)
+See {[}{[}KBhMATH401TheLimitNotation{]}{]}
 
 \hypertarget{computing-limits-algebraically}{%
 \subsection{Computing Limits
 Algebraically}\label{computing-limits-algebraically}}
 
-Let's do a problem solve for \(\lim_{x\to 2} \frac{(x^2-4)}{(x-2)}\)
+See {[}{[}KBMATH401ComputingLimits{]}{]}
+
+\hypertarget{types-of-discontinuity}{%
+\subsection{Types of Discontinuity}\label{types-of-discontinuity}}
+
+See {[}{[}KBhMATH401Discontinuity{]}{]}
+
+\hypertarget{error-and-epsilon-delta-proofs}{%
+\subsection{Error and Epsilon Delta
+Proofs}\label{error-and-epsilon-delta-proofs}}
+
+See {[}{[}KbhMATH401EpsilonDeltaProofs{]}{]}
+
+\hypertarget{cn10062020-continuity}{%
+\subsection{CN10062020 Continuity}\label{cn10062020-continuity}}
+
+\#disorganized \#flo
+
+\(\lim_{x \to a} f(x) \neq f(a)\).
+
+Sometimes
+
+*A function is continuous at \(x=a\) if ALL OF the following three
+conditions:\$
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  First, notice the fact this function will have a hole at \(x=2\). This
-  is especially important because after we simplify we will loose this
-  hole.
+  \(\lim_{x\to a} f(x)\) exists
 \item
-  Ok, now let's simply.
-  \(\frac{(x^2-4)}{(x-2)} = \frac{(x+2)(\cancel{(x-2)})}{(\cancel{x-2})} = (x+2)\)
+  \(f(a)\) exists
 \item
-  Great! So, we know that this function behaves linearly with simply a
-  hole at 2.
-\item
-  Doing the double-sided limits\ldots{}
-
-  \begin{itemize}
-  \item
-    Evaluating \(\lim_{x\to2^+}\), the value will be \(4\) because
-    \(2+2=4\).
-  \item
-    Evaluating\\
-  \item
-    Infinite Discountinuity (verticle asymtote)
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Double Sided Limit does not exist
-    \end{itemize}
-  \item
-    Jump Discontinuity
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Double Sided Limit does exist
-    \item
-      Function defined
-    \end{itemize}
-  \item
-    Point Discountinuity
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Double Side Limit exists
-    \item
-      Function is not defined
-    \end{itemize}
-  \end{itemize}
+  \(\lim_{x\to a} f(x) = f(a)\)
 \end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{threestepslimit.png}
+\caption{threestepslimit.png}
+\end{figure}
+
+\definition{Removable discontinuity}{Removeable discontinuity are often holes. They are discontinuities that, with an additional definition, one could remove.}
+
+For instance, \(f(x) = \frac{x^2-x-2}{x-2}\) has a hole at \(x=2\), but
+if we defined a value for \(x=2\), our lovely discontinuity is
+immediately removed.
+
+\defintion{Infitinite discontinuity}{Functions that approch infinity}
+
+If you think about it, if you try to fix the discontinuity, you will be
+tracing all the way up the infinity
+
+\definition{Jump discontinuity}{"Staircase" functions that causes jump}
+
+Like\ldots{}
+
+\begin{figure}
+\centering
+\includegraphics{jumpdisc.png}
+\caption{jumpdisc.png}
+\end{figure}
+
+As you could see, if you try to fix the discontinuity, this would result
+in vertical lines, which is illegal in functions.
+
+\textbf{Continuous-from-right}: \(f(a) = \lim{x \to a^+} f(x)\)
+\textbf{Continuous-from-left}: \(f(a) = \lim{x \to a^-} f(x)\)
 
 \end{document}

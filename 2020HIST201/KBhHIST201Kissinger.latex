@@ -1,0 +1,271 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Diplomacy - Kissinger }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1612)}}    % original
+%\rhead{\textrmlf{Compiled }\#1612\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1612\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{diplomacy-kissinger}{%
+\section{Diplomacy, Kissinger}\label{diplomacy-kissinger}}
+
+The Document: {[}{[}KBe20hist201srcKissingerAnnotated{]}{]}
+
+CLAIM: European balance of power system emerged after medieval collapse
+
+\hypertarget{european-power-balance}{%
+\subsection{European Power Balance}\label{european-power-balance}}
+
+\textbf{Development into model of ``universality'' =\textgreater{} one
+emperor, one church}
+
+\hypertarget{the-holy-roman-empire}{%
+\subsubsection{The Holy Roman Empire}\label{the-holy-roman-empire}}
+
+{[}{[}KBhHIST201HolyRomanEmpire1500s{]}{]}
+
+\hypertarget{system-of-raison-de-etat}{%
+\subsubsection{System of Raison De
+'Etat}\label{system-of-raison-de-etat}}
+
+As a mean to fend off an every-growing HRE threatening France, Cardinal
+Richaleu came up with a system named {[}{[}KBhHIST201RaisonDeEtat{]}{]}
+that promises to be a better system of government.
+
+\hypertarget{england-the-mediator}{%
+\subsection{England, the Mediator}\label{england-the-mediator}}
+
+{[}{[}KBhHIST201EnglandMediator{]}{]}
+
+\hypertarget{kissingers-take-home-messages}{%
+\subsection{Kissinger's Take Home
+Messages}\label{kissingers-take-home-messages}}
+
+And I quote:
+
+"""
+
+\begin{itemize}
+\tightlist
+\item
+  Power is difficult to access
+\item
+  Equilibrium best achieved if they are in common interest
+\item
+  Balance of power inhibits capacity to overthrow order
+\item
+  Agreement on shared values inhibits desire to overthrow order
+\item
+  Power without legitamacy tempts dangerous strength tests
+\item
+  Legitimacy without power tempts empty power tests
+\end{itemize}
+
+"""
+
+\textbf{Kissinger sees himself as American Richlieu.}
+
+End result of Raison d'etat
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Others form a coalition against the ruthless nation =\textgreater{}
+  balance of power is eventually achieved
+\item
+  Unipolar dominance of a world system/world hegemony =\textgreater{}
+  too dominant to fight back against
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+McNeill
+
+\begin{itemize}
+\tightlist
+\item
+  Consolidation for political power (310-311)
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Administrative centralization: italian city-state strategies to govern
+  countries
+\item
+  Seizing Church power and property during the Reformation: Catholics
+  trade away political power to re-affirm their religious
+\item
+  Development of military technology becomes too expensive to do rurally
+  to larger factories in a city: standing army cannot be tracked in a
+  local level
+\end{enumerate}
+
+The renessance brings two things: either harness renissance energy to do
+innovation or harness reformation energy to unify Europe --- if someone
+has the ability to have warfare.
+
+\end{document}

@@ -14,34 +14,63 @@
         min-width: 100%;
         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
         font-weight: 300;
+        background-color: #fafafa;
     }
     
     #center-viewport {
         margin: 0 auto;
-        max-width: 800px;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
     }
 
     img {
+        max-height: 40vh;
+        width: auto;
         max-width: 100%;
     }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
 </style>
 </head>
 <body>
-<!--  -->
-  <!--<div class="navbar navbar-static-top">-->
-    <!--<div class="navbar-inner">-->
-      <!--<div class="container">-->
-        <!--<span class="doc-title"> <strong>2020math401</strong> Exr0n’s Homework </span>-->
-        <!--<ul class="nav pull-right doc-info">-->
-          <!---->
-          <!---->
-        <!--</ul>-->
-      <!--</div>-->
-    <!--</div>-->
-  <!--</div>-->
-  <!---->
+    <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+        <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>2020math401</strong> Exr0n’s Homework </span></div>
+    </div>
   <div id="center-viewport">
-      <p><span><strong>Source</strong>: <a href="http://taproot.shabang.cf/relay?request=KBe2020math401index"><span><strong>[[</strong></span><strong>KBe2020math401index</strong><span><strong>]]</strong></span></a></span></p>
+      <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBe2020math401index"><span><strong>[[</strong></span><strong>KBe2020math401index</strong><span><strong>]]</strong></span></a></span></p>
       <table>
       <thead>
       <tr class="header">
@@ -66,6 +95,27 @@
       <hr />
   </div>
 
-
+  <script>
+      $(document).ready(function() {
+          // Generate clickable links
+          let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+              <!--let docPointer = x.match(/(\w)*/);-->
+              let docPointer = x.match(/KB\w*/);
+              if (docPointer) {
+                  let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                  return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+              } else {
+                  console.log(`Cannot parse , returning...`);
+                  return x;
+              }
+          })
+          $("#center-viewport").html(content);
+          $("img").each(function() {  
+              let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+              console.log(src);
+              $(this).attr("src", src);
+          });
+      });
+  </script>
 </body>
 </html>

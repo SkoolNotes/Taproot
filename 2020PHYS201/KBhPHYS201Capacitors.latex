@@ -1,0 +1,328 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ PHYS201 }
+\newcommand{\thelesson}{ Capacitors }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3786)}}    % original
+%\rhead{\textrmlf{Compiled }\#3786\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3786\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu, Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhPHYS201CircuitsIndex}{\tiny\textulf{[[}\textbf{KBhPHYS201CircuitsIndex}\textulf{]]}}}\thinspace
+
+\#ref
+
+\hypertarget{capacitors-vs.-batteries}{%
+\section{Capacitors vs.~Batteries}\label{capacitors-vs.-batteries}}
+
+\textbf{Batteries} =\textgreater{} Converting \(PE_{chem}\)
+=\textgreater{} Eletrical energy
+
+\textbf{Capacitors} =\textgreater{} Converting \(PE_{elec}\)
+=\textgreater{} Eletrical energy
+
+When you are discharging a battery, they remain at constant voltage
+until they are used up, at which point the voltage drop like a plate.
+
+When you are discharging a capacitor, there is a linear fall in voltage
+that is constant.
+
+Charge remaining: capacitance times voltage
+
+\hypertarget{energy-on-a-capacitor}{%
+\section{Energy on a Capacitor}\label{energy-on-a-capacitor}}
+
+A little bit \#disorganized
+
+Energy stored on a capacitor: \(E=\frac{V_c * Q}{2}\).
+
+Charge on a capacitor: \(Q = C \times V_c\)
+
+Farads: \(F = \frac{C}{V}\)
+
+So, putting this together, the energy stored on a capacitor would
+be\ldots{}
+
+\definition[as $Q=C \times V_c$]{Energy stored in a capacitor}{$E=\frac{V \times Q}{2} = \frac{CV^2}{2}$}
+
+\(Q_{cap} \propto V\). In fact \(Q_{cap} = C \times V_c\).
+
+\hypertarget{capacitors-interacting-with-resistance}{%
+\section{Capacitors interacting with
+Resistance}\label{capacitors-interacting-with-resistance}}
+
+As you increase the {[}{[}KBhPHYS201ResistanceConductivity{]}{]}, the a
+capacitor of the same capacitance would charge slower. (\emph{``Less
+charge flows in''})
+
+As you fix the Resistance, the capacitor of a higher capacitance would
+charge slower. (\emph{``Need more change to fill''})
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-09-30 at 10.42.44 AM.png}
+\caption{Screen Shot 2020-09-30 at 10.42.44 AM.png}
+\end{figure}
+
+\emph{Charging time} is in fairly good agreement with \emph{resistance
+times capacitance}.
+
+So\ldots{} \#disorganized
+
+Experimentally, ``Charging time'', \(\tau\) \(\approx R \times C\).
+
+Let's check the units!
+
+\begin{itemize}
+\item
+  \(V = IR\)
+\item
+  \(R = \frac{V}{I}\)
+\item
+  So \(R = \omega = \frac{V * s}{Q}\)
+\item
+  \(Q = CV\)
+\item
+  So \(\frac{Q}{V} = C\)
+\end{itemize}
+
+Hence,
+\(R \times C = \frac{\cancel{V} \times s}{\cancel{Q}} = \cancel{\frac{Q}{V}}\),
+indeed, has a unit Seconds!
+
+\hypertarget{equations-modeling-charging-a-capacitor}{%
+\section{Equations modeling charging a
+capacitor}\label{equations-modeling-charging-a-capacitor}}
+
+\definition[where $R$ is the resistance, $C$ is the capacitance]{Time Constant Tau}{$RC = \tau$ — time constant to be able to change the capacitor to a useful voltage; aka how much does the capacitor need to noticeably charge/discharge.}
+
+Now that we have this value, we could also represent the full charge
+process using the equations as follows:
+
+\definition[where $V_b$ is the battery voltage, $t$ is time elapsed, $R$ is resistance, and $C$ is the capacitance]{Current in circuit as you charge a capacitor}{$I(t) = \frac{V_b}{R} \times e^{\frac{-t}{RC}}$}
+
+As you start to charge a capacitor, the current starts at
+\(\frac{V_b}{R}\) --- current just without the resistor. Then, it will
+slowly drop down to 0.
+
+\definition[where $V_b$ is the battery voltage, $t$ is time elapsed, $R$ is resistance, and $C$ is the capacitance]{Voltage before and after a capacitor as you charge a capacitor}{$V(t) = V_b \times (1 - e^{\frac{-t}{RC}})$}
+
+\#disorganized
+
+\hypertarget{capacitors-in-series-and-parallel}{%
+\section{Capacitors in series and
+parallel}\label{capacitors-in-series-and-parallel}}
+
+Helpful to see: {[}{[}KBhPHYS201CombiningResistors{]}{]}
+
+\hypertarget{capacitors-in-parallel}{%
+\subsection{Capacitors in Parallel}\label{capacitors-in-parallel}}
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-07 at 10.20.06 AM.png}
+\caption{Screen Shot 2020-10-07 at 10.20.06 AM.png}
+\end{figure}
+
+\(Q_{tot} = Q_1 + Q_2\).
+
+And, because of the fact that \(C = \frac{Q}{V}\),
+\(V\times C_{eq} = V \times C_1 + V \times C_2\)
+
+Dividing \(V\) out of the previous equations \(C_{eq} = C_1 + C_2\).
+
+\textbf{Capacitors in parallel act like resistors in series.}
+
+\hypertarget{capacitors-in-series}{%
+\subsection{Capacitors in Series}\label{capacitors-in-series}}
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-07 at 10.23.08 AM.png}
+\caption{Screen Shot 2020-10-07 at 10.23.08 AM.png}
+\end{figure}
+
+Because of the fact that the middle wire does not carry any changes, it
+is ``neutral'' and simply polarized --- making \(Q_1\) equaling \(Q_2.\)
+
+Why is this? If the middle bit is neutral, the \(Q^+\) on one end would
+equal to the \(Q^-\) on the other. Correspondingly, the other side of
+the plates of the capacitor would have the opposite of the same values
+\(Q^-\) and \(Q^+\) on the neutral middle plate.
+
+By the transitive property, \(Q_1 = Q_2\).
+
+Because \(V_1 + V_2 = V_b\) --- see
+{[}{[}KBhPHYS201CombiningResistors{]}{]} \& \(C = \frac{Q}{V}\) ,
+\(\frac{Q_1}{V} + \frac{Q_2}{V} = \frac{Q_{tot}}{V}\).
+
+Given \(Q_1 = Q_2\).
+
+So
+
+\hypertarget{construction-of-capacitors}{%
+\subsection{Construction of
+Capacitors}\label{construction-of-capacitors}}
+
+A diagram of the plates inside a polar capacitor before being rolled up.
+
+\includegraphics{./Pastedimage20201007131933.png}
+
+\end{document}

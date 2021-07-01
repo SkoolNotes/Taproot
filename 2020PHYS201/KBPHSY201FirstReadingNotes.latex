@@ -1,0 +1,414 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ PHYS201 }
+\newcommand{\thelesson}{ Zachary First Reading Notes }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8704)}}    % original
+%\rhead{\textrmlf{Compiled }\#8704\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#8704
+  \textrmlf{ on}
+      \today
+  }       % new date
+\lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhPHYS201QuantumWorldBookNotesIndex}{\tiny\textulf{[[}\textbf{KBhPHYS201QuantumWorldBookNotesIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{how-to-deal-with-large-and-small}{%
+\section{How to Deal with Large and
+Small}\label{how-to-deal-with-large-and-small}}
+
+\begin{itemize}
+\tightlist
+\item
+  Scientific notation is required to deal with large and small
+  quantities
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is required in much of particle physics since particles tend to
+    be very small and fast
+  \end{itemize}
+\item
+  People also tend to create more fitting units for a specific
+  application
+\end{itemize}
+
+\hypertarget{units}{%
+\subsection{Units}\label{units}}
+
+\textbf{Fentometers} are used as a unit of measurement in the atomic
+world. They're \(10^{15}m\).
+
+For \textbf{speed} we use fractions of the speed of light c
+\textasciitilde{}\(3*10^{8}m/s\)
+
+\textbf{Volts} are used for charge.
+
+\textbf{Particle Masses} can also be expressed in eV units. Particle
+masses are actually pretty large with the eV unit.
+
+\textbf{Planck Size} is about \(10^{-35}m\)
+
+\textbf{Angular Momentum} can be measured in h-bars which are Planck's
+constant divided by 2π
+
+\hypertarget{relative-scales-distance}{%
+\subsection{Relative Scales Distance}\label{relative-scales-distance}}
+
+\begin{itemize}
+\tightlist
+\item
+  The nucleus takes up a very small amount of a particle
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Comparison drawn here is a basketball in an airport for a large
+    nucleus and a golf ball for smaller ones
+  \end{itemize}
+\item
+  Electrons occupy in a probability distribution the rest of the space
+  more or less
+\item
+  The only viable way to measure distances that small are through
+  scattering experiments involving shooting electrons at say a proton
+  and observing the scatter pattern
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The diameter of 1 proton is approximately 1 fermi
+  \end{itemize}
+\item
+  We live in a relative distance average
+\item
+  Short Wavelengths can also be observed to estimate the size of such
+  small particles
+\item
+  The Planck size is the smallest meaningful distance before spacetime
+  breaks down into quantum foam
+\end{itemize}
+
+\hypertarget{relative-scales-speed}{%
+\subsection{Relative Scales Speed}\label{relative-scales-speed}}
+
+\begin{itemize}
+\tightlist
+\item
+  The fastest anything can go so far as we know is the speed of light
+\item
+  It's hard to get anything close to the speed of light, but for stuff
+  like particle accelerators and cosmic rays it isn't super uncommon to
+  get close
+\item
+  Mass being the reluctance to accelerate means that the mass-less
+  photon should be the fastest particle requiring no energy to reach the
+  speed of light. For anything to go faster would be difficult.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    However, physicists have studied the Tachyon which is theoretically
+    capable of doing so but has not been discovered and also creates
+    strange circumstances
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{relative-scales-time}{%
+\subsection{Relative Scales Time}\label{relative-scales-time}}
+
+\begin{itemize}
+\tightlist
+\item
+  The longest known time is the lifespan of the universe
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is currently estimated to be about 13.7 billion years
+  \end{itemize}
+\item
+  The speed of light is the natural link between distance and time
+  measurements
+\end{itemize}
+
+\hypertarget{relative-scales-mass}{%
+\subsection{Relative Scales Mass}\label{relative-scales-mass}}
+
+\begin{itemize}
+\tightlist
+\item
+  Mass is a measure of inertia meaning how hard something is to
+  accelerate
+\item
+  We measure particle's speed by measuring their resistance to
+  acceleration with knowledge of their speed
+\item
+  With particle masses it becomes more sensical to use MeV instead of kg
+  since the units make more sense
+\end{itemize}
+
+\hypertarget{relative-scales-energy}{%
+\subsection{Relative Scales Energy}\label{relative-scales-energy}}
+
+\begin{itemize}
+\tightlist
+\item
+  Energy and its conservation make it perhaps one of the most important
+  things in physics
+\item
+  Kinetic energy and mass energy are the most important types when it
+  comes to particles
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Rest mas is different from mass
+  \end{itemize}
+\item
+  Mass represents a highly concentrated form of energy
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A little mass leads to a lot of energy while a lot of energy can
+    yield a little mass
+  \end{itemize}
+\item
+  In the subatomic world mass and energy are typically both measured
+  using the electron volt
+\end{itemize}
+
+\hypertarget{relative-scales-charge}{%
+\subsection{Relative Scales Charge}\label{relative-scales-charge}}
+
+\begin{itemize}
+\tightlist
+\item
+  Electric charge is that thing that makes a particle attractive to
+  another type of particle
+\item
+  If the Gluons are overcome by the repulsion of the protons a nucleus
+  will break apart
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is why there is a cap for how large an atom can be
+    realistically since it would require too much energy to keep
+    together than the gluons can offer
+  \end{itemize}
+\item
+  Negative and positive is entirely arbitrary they are just opposites
+\end{itemize}
+
+\hypertarget{relative-scales-spin}{%
+\subsection{Relative Scales Spin}\label{relative-scales-spin}}
+
+\begin{itemize}
+\tightlist
+\item
+  Spin occurs with anything from the largest galaxies down to the
+  smallest particles
+\item
+  Angular momentum is used to measure both orbital motion and rotation
+  on one's own axis
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Fundemental particles have measurable angular momentum, but a rate
+    of rotation cannot be specified
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Planck's constant divided by 2π is the fundamental quantum unit of
+      rotation
+    \end{itemize}
+  \end{itemize}
+\item
+  Difference in spin is drastic enough for us to call particles with
+  different spin new particles
+\item
+  All electrons have the same spin
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Spin is quantized and things such as electrons are either ``up'' or
+    ``down''
+  \end{itemize}
+\end{itemize}
+
+\end{document}

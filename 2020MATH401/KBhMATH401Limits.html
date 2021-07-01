@@ -1,98 +1,142 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="pandoc" />
-  <title> MATH401 Limits </title>
-  <style type="text/css">code{white-space: pre;}</style>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" type="text/javascript"></script>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-<style>
-    html {
-        min-height: 100%;
-        min-width: 100%;
-        font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-        font-weight: 300;
-    }
-    
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title> MATH401 Limits </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
     #center-viewport {
         margin: 0 auto;
-        max-width: 800px;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
     }
 
     img {
+        max-height: 40vh;
+        width: auto;
         max-width: 100%;
     }
-</style>
-</head>
-<body>
-<!--  -->
-  <!--<div class="navbar navbar-static-top">-->
-    <!--<div class="navbar-inner">-->
-      <!--<div class="container">-->
-        <!--<span class="doc-title"> <strong>MATH401</strong> Limits </span>-->
-        <!--<ul class="nav pull-right doc-info">-->
-          <!---->
-          <!---->
-        <!--</ul>-->
-      <!--</div>-->
-    <!--</div>-->
-  <!--</div>-->
-  <!---->
-  <div id="center-viewport">
-      <p><span><strong>Source</strong>: <a href="http://taproot.shabang.cf/relay?request=KBhMATH401SubIndex"><span><strong>[[</strong></span><strong>KBhMATH401SubIndex</strong><span><strong>]]</strong></span></a></span></p>
-      <p>#disorganized</p>
-      <h1 id="limits">Limits</h1>
-      <h2 id="some-vocab">Some Vocab</h2>
-      <p>Here’s a function</p>
-      <p><span class="math inline">\(y = \frac{1}{x}\)</span>.</p>
-      <p>We know that it has</p>
-      <ul>
-      <li><p>Domain <span class="math inline">\(D (-\infty, 0)(0, \infty)\)</span></p></li>
-      <li><p>Range <span class="math inline">\(R (-\infty, 0)(0, \infty)\)</span></p></li>
-      <li><p><span class="math inline">\(As\ x\to\infty,\ y\to0\)</span></p></li>
-      <li><p>Function is <em>odd</em>, that is, <span class="math inline">\(f(-x) = -f(x)\)</span></p></li>
-      </ul>
-      <h2 id="the-limit-notation">The Limit Notation</h2>
-      <p>Definition <span class="math inline">\(\cdot\)</span> [ <strong>Right Single-Sided Limit</strong> <span><span class="math inline">\(\lim_{x\to a^+} f(x)\)</span></span> ] <span><br />
-      <span>"What is <span class="math inline">\(y\)</span> approaching when <span class="math inline">\(x\)</span> approaches <span class="math inline">\(a\)</span> from the right (<span class="math inline">\(+\)</span>)?"</span></span></p>
-      <p>Definition <span class="math inline">\(\cdot\)</span> [ <strong>Left Single-Sided Limit</strong> <span><span class="math inline">\(\lim_{x\to a^-} f(x)\)</span></span> ] <span><br />
-      <span>"What is <span class="math inline">\(y\)</span> approaching when <span class="math inline">\(x\)</span> approaches <span class="math inline">\(a\)</span> from the left (<span class="math inline">\(-\)</span>)?"</span></span></p>
-      <p><strong>Watch!</strong> If both the left and right single-sided limit exists and is the same, the Double-Sided Limit exists.</p>
-      <p>Definition <span class="math inline">\(\cdot\)</span> [ <strong>Left Single-Sided Limit</strong> <span><span class="math inline">\(\lim_{x\to a} f(x)\)</span></span> ] <span><br />
-      <span>"What is <span class="math inline">\(y\)</span> approaching when <span class="math inline">\(x\)</span> approaches <span class="math inline">\(a\)</span>?" This exists only if <span class="math inline">\(\lim_{x\to a^-} f(x)=\lim_{x\to a^+} f(x)\)</span> </span></span></p>
-      <p><strong>Vocab!</strong> When the Double-Sided Limit does not exist, it is called <em>DOES NOT EXIST!</em>. It is not! <span class="math inline">\(\cancel{undefined}\)</span></p>
-      <h2 id="computing-limits-algebraically">Computing Limits Algebraically</h2>
-      <p>Let’s do a problem solve for <span class="math inline">\(\lim_{x\to 2} \frac{(x^2-4)}{(x-2)}\)</span></p>
-      <ol>
-      <li><p>First, notice the fact this function will have a hole at <span class="math inline">\(x=2\)</span>. This is especially important because after we simplify we will loose this hole.</p></li>
-      <li><p>Ok, now let’s simply. <span class="math inline">\(\frac{(x^2-4)}{(x-2)} = \frac{(x+2)(\cancel{(x-2)})}{(\cancel{x-2})} = (x+2)\)</span></p></li>
-      <li><p>Great! So, we know that this function behaves linearly with simply a hole at 2.</p></li>
-      <li><p>Doing the double-sided limits…</p>
-      <ul>
-      <li><p>Evaluating <span class="math inline">\(\lim_{x\to2^+}\)</span>, the value will be <span class="math inline">\(4\)</span> because <span class="math inline">\(2+2=4\)</span>.</p></li>
-      <li><p>Evaluating<br />
-      </p></li>
-      <li><p>Infinite Discountinuity (verticle asymtote)</p>
-      <ul>
-      <li><p>Double Sided Limit does not exist</p></li>
-      </ul></li>
-      <li><p>Jump Discontinuity</p>
-      <ul>
-      <li><p>Double Sided Limit does exist</p></li>
-      <li><p>Function defined</p></li>
-      </ul></li>
-      <li><p>Point Discountinuity</p>
-      <ul>
-      <li><p>Double Side Limit exists</p></li>
-      <li><p>Function is not defined</p></li>
-      </ul></li>
-      </ul></li>
-      </ol>
-  </div>
 
+    a {
+        font-size: 8px; color: darkgreen
+    }
 
-</body>
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>MATH401</strong> Limits </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhMATH401SubIndex"><span><strong>[[</strong></span><strong>KBhMATH401SubIndex</strong><span><strong>]]</strong></span></a></span></p>
+            <h1 id="limits">Limits</h1>
+            <h2 id="warming-up">Warming up</h2>
+            <p>Here’s a function</p>
+            <p><span class="math inline">\(y = \frac{1}{x}\)</span>.</p>
+            <p>We know that it has</p>
+            <ul>
+            <li><p>Domain <span class="math inline">\(D (-\infty, 0)(0, \infty)\)</span></p></li>
+            <li><p>Range <span class="math inline">\(R (-\infty, 0)(0, \infty)\)</span></p></li>
+            <li><p><span class="math inline">\(As\ x\to\infty,\ y\to0\)</span></p></li>
+            <li><p>Function is <em>odd</em>, that is, <span class="math inline">\(f(-x) = -f(x)\)</span></p></li>
+            </ul>
+            <h2 id="the-limit-notation">The Limit Notation</h2>
+            <p>See <span>[</span><span>[</span>KBhMATH401TheLimitNotation<span>]</span><span>]</span></p>
+            <h2 id="computing-limits-algebraically">Computing Limits Algebraically</h2>
+            <p>See <span>[</span><span>[</span>KBMATH401ComputingLimits<span>]</span><span>]</span></p>
+            <h2 id="types-of-discontinuity">Types of Discontinuity</h2>
+            <p>See <span>[</span><span>[</span>KBhMATH401Discontinuity<span>]</span><span>]</span></p>
+            <h2 id="error-and-epsilon-delta-proofs">Error and Epsilon Delta Proofs</h2>
+            <p>See <span>[</span><span>[</span>KbhMATH401EpsilonDeltaProofs<span>]</span><span>]</span></p>
+            <h2 id="cn10062020-continuity">CN10062020 Continuity</h2>
+            <p>#disorganized #flo</p>
+            <p><span class="math inline">\(\lim_{x \to a} f(x) \neq f(a)\)</span>.</p>
+            <p>Sometimes</p>
+            <p>*A function is continuous at <span class="math inline">\(x=a\)</span> if ALL OF the following three conditions:$</p>
+            <ol>
+            <li><p><span class="math inline">\(\lim_{x\to a} f(x)\)</span> exists</p></li>
+            <li><p><span class="math inline">\(f(a)\)</span> exists</p></li>
+            <li><p><span class="math inline">\(\lim_{x\to a} f(x) = f(a)\)</span></p></li>
+            </ol>
+            <p><img src="threestepslimit.png" alt="image" /></p>
+            <p>Definition <span class="math inline">\(\cdot\)</span> [ <strong>Removable discontinuity</strong> <span>Removeable discontinuity are often holes. They are discontinuities that, with an additional definition, one could remove.</span> ] <span><br />
+            </span></p>
+            <p>For instance, <span class="math inline">\(f(x) = \frac{x^2-x-2}{x-2}\)</span> has a hole at <span class="math inline">\(x=2\)</span>, but if we defined a value for <span class="math inline">\(x=2\)</span>, our lovely discontinuity is immediately removed.</p>
+            <p>If you think about it, if you try to fix the discontinuity, you will be tracing all the way up the infinity</p>
+            <p>Definition <span class="math inline">\(\cdot\)</span> [ <strong>Jump discontinuity</strong> <span>"Staircase" functions that causes jump</span> ] <span><br />
+            </span></p>
+            <p>Like…</p>
+            <p><img src="jumpdisc.png" alt="image" /></p>
+            <p>As you could see, if you try to fix the discontinuity, this would result in vertical lines, which is illegal in functions.</p>
+            <p><strong>Continuous-from-right</strong>: <span class="math inline">\(f(a) = \lim{x \to a^+} f(x)\)</span> <strong>Continuous-from-left</strong>: <span class="math inline">\(f(a) = \lim{x \to a^-} f(x)\)</span></p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
 </html>

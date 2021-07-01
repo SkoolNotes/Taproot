@@ -1,0 +1,279 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title> PHYS201 Nuclear Physics </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>PHYS201</strong> Nuclear Physics </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBPhysicsMasterIndex"><span><strong>[[</strong></span><strong>KBPhysicsMasterIndex</strong><span><strong>]]</strong></span></a></span></p>
+            <h1 id="nuclear-physics">Nuclear Physics</h1>
+            <p>First of all, recall <span>[</span><span>[</span>KBhPHYS201ColoumbsLaw<span>]</span><span>]</span>. Given the force between two particles is <span class="math inline">\(\frac{kQ^2}{R^2}\)</span>, we could hand-wavily calculate the <em>work</em> between two particles if we know how much they travel near/far from each other. Through this, we could show that nuclear forces (through nuclear distance, proton=&gt;electron) are much larger than that of the chemical forces (atom/atom, electron=&gt;electron).</p>
+            <p>#compilefromnote</p>
+            <p>Remember: <span class="math inline">\(A_{nucl} = \frac{1}{10^{10}} A_{atom}\)</span></p>
+            <h2 id="radioactivity">Radioactivity</h2>
+            <p>Radiation is the emition of waves — lights, heat, etc. etc. We call something “radioactive” if it emits ionizing radiation: that it has enough energy to liberate an electron from an atom.</p>
+            <h3 id="geiger-counter">Geiger Counter</h3>
+            <p>#inserthowgeigercountersowrk</p>
+            <p>Because of the fact that Geiger counters require time to discharge, there is a certain rate called “dead time” during which Geiger counters simply sit and do nothing. As such, we have to account for this lossy “deadtime” of Geiger counters by relating the two values with the following equation</p>
+            <p><span class="math inline">\(T = \frac{M}{1-(M/L)}\)</span>, where <span class="math inline">\(M\)</span> is the measured rate of radiation and <span class="math inline">\(L\)</span> is the “dead time” — the upper limit of the Geiger counter in question.</p>
+            <h3 id="radio-charge-types">Radio Charge Types</h3>
+            <ul>
+            <li><p><span class="math inline">\(\alpha\)</span>: positively charged + relatively massive (low <span class="math inline">\(\frac{q}{m}\)</span>)</p></li>
+            <li><p><span class="math inline">\(\beta\)</span>: negatively charged + relatively high charge (high <span class="math inline">\(\frac{q}{m}\)</span>)</p></li>
+            <li><p><span class="math inline">\(\gamma\)</span>: neutral</p></li>
+            </ul>
+            <p>This could be seen by how these three types of charge curve into a magnetic field.</p>
+            <p><img src="alphabetagamma.png" alt="image" /></p>
+            <p>Why? Apply right hand rule 1.5.</p>
+            <h3 id="creating-a-ray">Creating a ray</h3>
+            <p>“Split a nucleus, somehow”</p>
+            <p><strong>Alpha Decay</strong>:</p>
+            <p><img src="alphadecay.png" alt="image" /></p>
+            <p>During alpha decay, a massive nucleolus spits out a Helium-resulting part of itself to get rid of 2 protons and 2 neutrons. So, formally…</p>
+            <p><img src="alphadecaybetter.png" alt="image" /></p>
+            <p><strong>Gamma Decay</strong></p>
+            <p>Instead of splitting part of the nucleus, gamma decay spits an electrically excited (so… chemistry, charged, energy level, that stuff) atom into a normal, non-excited atom and also emits a photon.</p>
+            <p><img src="gammadecaybetter.png" alt="image" /></p>
+            <p><img src="gammadecay.png" alt="image" /></p>
+            <p>And now, the most confusing one…</p>
+            <p><strong>Beta Decay</strong> There’s two types of beta decay: “beta-minus” decay and “beta-plus” decay. When folks talk about just “beta-decay”, they are talking about beta-minus decay.</p>
+            <p>An element decays from the parent element into a different nucleus.</p>
+            <p><em>Beta minus decay</em></p>
+            <p><img src="betaminusdecay.png" alt="image" /></p>
+            <p>In this case, the nucleus gained a proton and lost a neutron.</p>
+            <p>What happened? A neutron in the nucleus turned into a positive proton and a negative electron. The newly-formed electron comes flying out as a “beta-minus” particle. Also, this process creates an “antineutrino”, which is a tiny, charge-less element that will become important later.</p>
+            <p><em>Beta plus decay</em></p>
+            <p><img src="betaplusdecay.png" alt="image" /></p>
+            <p>This is the opposite of beta-minus decay. The element takes one of its protons, splits it to a positron (a positive electron, this is antimatter), a neutrino, and a neutron.</p>
+            <p>Wait… But <em>how</em>?</p>
+            <p><img src="betadecaybackwards.png" alt="image" /></p>
+            <p>Beta-minus decay makes sense, because it would been energetically favorable as a neutron is <em>slightly</em> more massive and hence will loose some of the mass during beta-minus decay. But, during beta-plus decay, the reactants are less massive than the product (!!) — so thermally it won’t really work out.</p>
+            <p><img src="betadecayisreallybackwards.png" alt="image" /></p>
+            <p>So, in order to actually create beta-plus decay, you have to shove the protons, antimatter, etc. together really fast with some kinetic energy. Or, this could happen spontaneously as long as the mass of the daughter atom is smaller than the mass of the parent (as in… as long as mass of daughter + mass of anti electron + mass of neutrino &lt; mass of parent, this should work.)</p>
+            <p>To make sense of this, stop thinking that atoms’ masses could be deducted by just counting the number of neutrons+protons.</p>
+            <p><em>Electron capture</em></p>
+            <p><img src="electroncapture.png" alt="image" /></p>
+            <p>In this case, you will gain one neutron by simply capturing an electron out of thin air (the electron cloud) and merge it with a proton to form a neutron and an antineutrino.</p>
+            <p>So, together…</p>
+            <p><img src="betadecayformal.png" alt="image" /></p>
+            <p><em>Positron Capture</em></p>
+            <p>This basically does not happen; it basically should work in a similar manner as does electron capture but the opposite.</p>
+            <p><img src="positironcapture.png" alt="image" /></p>
+            <p>You will need lots of pressure to squish two positive things together (Electrons + Protons) to fuse.</p>
+            <h3 id="absorbtion-of-radioactivity">Absorbtion of Radioactivity</h3>
+            <p><img src="absorbtion.png" alt="image" /></p>
+            <p>As the thickness of the absorber increases, the relative intensity of radiation exponentially, asymtotically decreases.</p>
+            <p>This is similar to the equatino of a dischanging capacitor; namely <span class="math inline">\(e^(\frac{-time}{\tau})\)</span></p>
+            <p>Instead of a smooth curve, we will decay by 2. We wil use it like a half life calculation:</p>
+            <p><span class="math inline">\(int = 0.5^{\frac{t}{T}}\)</span>, where <span class="math inline">\(T\)</span> is the thickness required to absorb 50%, and <span class="math inline">\(t\)</span> the thickness of the material. <span class="math inline">\(int\)</span> should be the relative intensity of the material — a percentage (0&lt;=R&lt;=1) that represents how much of the original, unhindered charge is disturbed.</p>
+            <p><img src="halflife.png" alt="image" /></p>
+            <p>Relative intensity + half life problem 3:</p>
+            <p><img src="halflifeproctice.png" alt="image" /></p>
+            <h3 id="stopping-rays">Stopping Rays</h3>
+            <p><span class="math inline">\(\alpha\)</span>, <span class="math inline">\(\beta\)</span>, and <span class="math inline">\(\gamma\)</span> rays are strong in that order — alpha rays could be stopped with less insulation than beta than gamma. HOWEVER, this is given that they all have the same <em>energy</em>. Different rays of the same energy would apply like this, but otherwise the energy matters especially for betas.</p>
+            <h3 id="atomic-stability">Atomic Stability</h3>
+            <p><strong>Please remember: most nuclei are stable!! Basically everyday things does not give you any meaningful amount of radiation.</strong></p>
+            <p><img src="stablenuclei.png" alt="image" /></p>
+            <p>For relatively low protoned atoms, (<span class="math inline">\(p &lt; 30\)</span>), stable nuclei is when <span class="math inline">\(N \approx p\)</span>. For larger atoms, <span class="math inline">\(N \approx &lt; 1.5P\)</span>.</p>
+            <p>Vocab! Nucleon: neutron + proton.</p>
+            <p>The standard deviation of <span class="math inline">\(N\)</span> counts is the <span class="math inline">\(\sqrt(N)\)</span> if there is a uniformly random distribution.</p>
+            <h2 id="fission-and-fusion">Fission and Fusion</h2>
+            <p>Changes though <strong>fission</strong> (one nucleaus become two pieces, probably due to the partent absorbing a neutron, a.k.a. more equal parts of alpha decay) or <strong>fusion</strong> (two nuclei joining together to form one)</p>
+            <p>Due to conservation of energy, not every fission/fusion releases energy. If fission of A =&gt; B C releases energy, fusion of B+C =&gt; A wil not.</p>
+            <p><img src="./Pasted image 20210118092740.png" alt="image" /></p>
+            <p>You could think of the energy released as part of fission as the potential energy of a system.</p>
+            <p>The bottom row of “mass number” is nucleons w.r.t. the most common izotope</p>
+            <p><img src="./Pasted image 20210118093104.png" alt="image" /></p>
+            <p>Iron is a terriable way of getting some energy out of a atom because it has the lowest ever potential energy</p>
+            <p>Nuclear processes usually end up with Iron; like…</p>
+            <ul>
+            <li><p>If you are on the “blue”/“left” region, you release energy by fusioning into iron (add stuff up until you get to stable iron.)</p></li>
+            <li><p>If you are on the “yellow”/“right” region, you release energy by fissioning into iron (split until you get to iron)</p></li>
+            </ul>
+            <div class="center">
+            <hr />
+            </div>
+            <p>But actually this is kind of a lie. It is actully a contour of all different izotopes, measured in “binding” energy and not PE. The <strong>binding energy</strong> is how forcibly the nucleaus are bound together — the more tighly bound, the more energy it would require to break the binding.</p>
+            <p>Also, Binding Energy is measured in MeV, which convents to Joules with <span class="math inline">\(1 MeV = 1.6 \times 10^{-13} J\)</span>.</p>
+            <p>Nuclear fission is triggered by smushing a neutron into an atom.</p>
+            <p>For instance…</p>
+            <p><span>[</span><span>[</span>Pasted image 20210118094127.png<span>]</span><span>]</span></p>
+            <h1 id="data-shape">Data Shape</h1>
+            <table>
+            <tbody>
+            <tr class="odd">
+            <td style="text-align: left;">Thickness</td>
+            <td style="text-align: left;">Count Rates</td>
+            <td style="text-align: left;">Count Time</td>
+            <td style="text-align: left;">Result: Normalized Count Rate</td>
+            </tr>
+            <tr class="even">
+            <td style="text-align: left;"></td>
+            <td style="text-align: left;"></td>
+            <td style="text-align: left;"></td>
+            <td style="text-align: left;"></td>
+            </tr>
+            </tbody>
+            </table>
+            <p>This will, of course, result in a graph of thickness vs. count rate.</p>
+            <p>Goal: finding the best T and the +/- range that would fit the rates</p>
+            <p><span>[</span><span>[</span>Pasted image 20210120111507.png<span>]</span><span>]</span></p>
+            <h2 id="what-is-best-fit">What is “best fit”</h2>
+            <p><span>[</span><span>[</span>Pasted image 20210120112247.png<span>]</span><span>]</span></p>
+            <p>When data is uncertain, best fit should minimize <span class="math inline">\(\sum \frac{D_i-M_i}{\sigma_i}^2\)</span>. Think as “how many standard deviations away” is the uncertainty. This is also called “pearson’s statistic”</p>
+            <p>With this piece of information, at different discrete values of T, we could have a graph of T vs. S. At the minimum of that curve, that’s the best fit!</p>
+            <p>Smin should be about # of datapoints - # of parametres</p>
+            <p>If Smin &lt;&lt; # dp - # params, you did something wrong.</p>
+            <p>If Smin &gt;&gt; # dp - # params, sigma were probably underestimated/not the only sources of error</p>
+            <h1 id="lab">Lab</h1>
+            <ol>
+            <li><p>Apply deadtime correction to both rate and unceartainty in the rate</p></li>
+            <li><p>Subtract (background, <em>no need to correct deadtime here</em>, propergate error)</p></li>
+            <li><p>Divide measured rates by the rate with no absorber to figure the relative rates. Propergate error. This should be 1ish</p></li>
+            <li></li>
+            </ol>
+            <div class="center">
+            <hr />
+            </div>
+            <p>2 types of nuclear energy generator</p>
+            <ol>
+            <li><p>Pressurized water reactor =&gt; Pressured, superheated water superheats nearby water to steam</p></li>
+            <li><p>Boiling water reactor =&gt; Reactor directly heat</p></li>
+            </ol>
+            <p>Pressured water reactor has control SCRAM rods above, because steam is not dried within the reactor. Boiling water reactors have control rods below, because the output steam’s dryer is above and hence control rods needs to be place below.</p>
+            <p>The fuel rods contain UO2,with about 3% being U. The rest is the radioactive slowly decaying common 238U. Uranium ore comes out as 0.7% 235U, but we need that to be 3% b/c fissioning 238U is not helpful, so a process called “enrichment” helps purify the Uranium and rid of 238 to leave only 235.</p>
+            <p>Raw fuel isn’t super radioactive. But, once the fuel is insterted, a neutron gets shot in and the recator starts. Control rods could be inserted in to stop teh reaction. #why</p>
+            <p>Spent fuel is radioactive. Raw U238 does not go through much decay (see… 4.8 Billion Years), but what comes out of the fissioning process is two random elements that could be quite radioactive.</p>
+            <p>Also, Plutonium, a result of Uranium fission, also is toxic chemically and emits alpha rays. This could be used as a nuclear weapon in the “emits alpha rays” sense but also used as a slightly more inefficient way of creating lots of heat. Hence, this is fiercely protected.</p>
+            <p>After fission stops, 5-10 megawatts still gets generated. This, if not cooled by 8g/s of water, will result in zicalloy interaction and hydrogas formation due to chemistry. And that will brow up (and the thing that blows up includes plutonium!).</p>
+            <p>The radiation from spent fuel glows blue, because it travels faster than light travels in water so specific rays comes out</p>
+            <p>In order for the radiation to decay down into standard radiation, one would need to store 10,000+ years for 10% original radiation. However, reprocessving techniques could lower that to around 200 years</p>
+            <p>Nuclear Radiation ionizez atoms and molecules, which mess things up chemically</p>
+            <div class="center">
+            <hr />
+            </div>
+            <p>1 Bq per second means that the source disintgrates once per seciond. 1 currie means that the source disntergrates at 3.7 * 10^10 bq</p>
+            <p>1rad: a material absorbed 0.01 J per kg of absorbing material.</p>
+            <p>Effective dose (rem) = rad * QF (quality factor). For most cases, quality factor is 1 for most common radiation. For neutrons and alpha particles, it is 3 and up to 20 respectively, but the former could only be seen in the middle of a recator or if a bomb just went off and the latter could be block by some sheets of clothing</p>
+            <p>Rad/Rem/Siverts =&gt; Measure of <em>absorbtion of energy</em> per kilogram over time Bq/Currie =&gt; Measure of Emission and source strength</p>
+            <p>Bottom line: don’t worry about the siverts you recieve… unless you eat a radioactive source, because then its emitting in you</p>
+            <p>Radiation absorbtion results</p>
+            <table>
+            <tbody>
+            <tr class="odd">
+            <td style="text-align: left;">Severts number</td>
+            <td style="text-align: left;">Effect</td>
+            </tr>
+            <tr class="even">
+            <td style="text-align: left;">Sv immediately</td>
+            <td style="text-align: left;">% chance of cancer during lifetime, no immediate effect</td>
+            </tr>
+            <tr class="odd">
+            <td style="text-align: left;">-5 Sv immediately</td>
+            <td style="text-align: left;">% chance of death</td>
+            </tr>
+            <tr class="even">
+            <td style="text-align: left;">+ Sv immediatlely</td>
+            <td style="text-align: left;">Bye bye birdy, 30 days</td>
+            </tr>
+            <tr class="odd">
+            <td style="text-align: left;"></td>
+            <td style="text-align: left;"></td>
+            </tr>
+            </tbody>
+            </table>
+            <p>Note: food sterialized by radioactivity is not radioactive…</p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

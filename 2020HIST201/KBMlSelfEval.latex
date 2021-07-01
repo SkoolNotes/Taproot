@@ -1,0 +1,253 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+%\setmainfont[
+%   ItalicFont     = HelveticaNeue-Italic,
+%   BoldFont       = HelveticaNeue-Bold,
+%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight[
+%   ItalicFont     = HelveticaNeue-LightItalic,
+%   BoldFont       = HelveticaNeue-UltraLight,
+%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+\setmainfont[
+   ItalicFont     = Iosevka-Aile-Italic,
+   BoldFont       = Iosevka-Aile-Bold,
+   BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+\newfontfamily\NHLight[
+   ItalicFont     = Iosevka-Aile-Light-Italic,
+   BoldFont       = Iosevka-Aile-Light,
+   BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ML301 }
+\newcommand{\thelesson}{ Ml Self Eval }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6143)}}    % original
+%\rhead{\textrmlf{Compiled }\#6143\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6143\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\#ret
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{verbatim}
+If you want to get a head start on your self evaluation before it is available on the school website, here are the questions.
+
+Please write 1-2 sentences per question, or as much as you need to answer the question.
+
+Do not write your answers in the school website! If you reload the page by accident, your work is gone. Write them in Docs or Word or your favorite text editor and then copy them in.
+\end{verbatim}
+
+Questions - Share an example of a difficult problem you solved in one of
+your projects. - A difficult problem for me that I `solved' was the very
+last problem in the Neural Networks assignment: making the model perform
+better. While sounding simple enough, the process I went about doing
+this was essentially guess and check; it was a type of computer science
+problem that was almost entirely new to me. In fact, I don't know if it
+can quite be considered a science yet --- perhaps this is what the
+transition stage from an `art' to a `science' looks like?
+
+\begin{itemize}
+\tightlist
+\item
+  Of the concepts we discussed, which one(s) did you find most
+  interesting or useful, and why?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    More broadly speaking, a concept that we have discussed in proxy is
+    the sheer power and beauty of emergent properties. One of the
+    reasons that makes ML so interesting and so unique (at least to me)
+    is that it deals with harnessing this power of emergent property to
+    form a type of intelligence.
+  \end{itemize}
+\item
+  What concepts did you find most challenging, and why?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Convolution Neural Networks confused me quite a bit, as I didn't
+    have a strong understanding of how basic Neural Networks worked
+    going in. This made me miss the importance of the differences of a
+    CNN; after the fact, I now have an altered outlook on how I should
+    approach learning about specialized topics.
+  \end{itemize}
+\item
+  What are some ways that you displayed good habits of mind or
+  contributed to a good learning environment in the class?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    I am genuinely interested in ML. I spent a lot of my time working
+    with a good friend; my belief is that approaching learning this way
+    will naturally lead to good habits of mind.
+  \end{itemize}
+\item
+  What was the most useful or memorable piece of feedback you received
+  this semester, and how did you act on it?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    One of the most memorable pieces of feedback was this: ``However,
+    the exercise isn't merely a coding exercise --- it's also to answer
+    the question.'' I coudn't belief that I had gotten so caught up in
+    the code that I missed the point of the question! --- It was a good
+    reminder to step back and untangle myself from the weeds every once
+    in a while.
+  \end{itemize}
+\end{itemize}
+
+\end{document}

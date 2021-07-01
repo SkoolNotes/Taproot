@@ -1,0 +1,438 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ 20eng201 }
+\newcommand{\thelesson}{ Heart Of Darkness Part 1 debrief }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhENG201HeartOfHardness}{\tiny\textulf{[[}\textbf{KBhENG201HeartOfHardness}\textulf{]]}}}\thinspace
+
+\#flo
+
+\hypertarget{breakouts}{%
+\section{Breakouts}\label{breakouts}}
+
+\begin{itemize}
+\item
+  \begin{quote}
+  What is the heart of darkness?
+  \end{quote}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    africa, congo river
+  \item
+    savage = darkness
+  \item
+    anthropomorphized the continent?
+  \end{itemize}
+\item
+  \begin{quote}
+  Where do we see scientific racism?
+  \end{quote}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Phrenology, head and then mental state changes
+
+    \begin{itemize}
+    \tightlist
+    \item
+      implies Africa is so horrible that its traumatic
+    \item
+      size of skull used for racism
+    \end{itemize}
+  \item
+    Described in parts instead of individuals
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Not a specific human, but rather masses of limbs
+    \end{itemize}
+  \end{itemize}
+\item
+  \begin{quote}
+  What narrative techniques does Conrad use to distance readers from the
+  plot?
+  \end{quote}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Frame based story
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Modernism (don't know if what we are told is accurate)
+    \item
+      Contrast with frankenstein frames: we always have quotes
+    \end{itemize}
+  \item
+    Narrator disagrees with Marlow?
+  \item
+    Past tense
+  \item
+    Marlow has two modes: one that's dreamy and abstract for describing
+    the nature and the blacks, while the other is normal-ish for talking
+    to whites.
+  \item
+    Jumpy narrative
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Doesn't always distinguish between thoughts and events
+    \item
+      Passage of time isn't clear
+    \item
+      Fog
+    \end{itemize}
+  \item
+    No names other than Kurtz
+
+    \begin{itemize}
+    \tightlist
+    \item
+      descriptions, but no other actual names
+    \end{itemize}
+  \item
+    Marlow emotions
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Marlow stops talking when it gets too intense, pausing before
+      resuming
+    \end{itemize}
+  \end{itemize}
+\item
+  Racism
+
+  \begin{itemize}
+  \tightlist
+  \item
+    So ingrained in the characters and society in the book that it feels
+    natural in the context of the book, but when talking about it in our
+    social context the whole thing feels very racist
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{discussion}{%
+\section{Discussion}\label{discussion}}
+
+\hypertarget{map}{%
+\subsection{Map}\label{map}}
+
+\hypertarget{return-to-africa-de-evolution}{%
+\subsection{Return to Africa =
+de-evolution}\label{return-to-africa-de-evolution}}
+
+\begin{itemize}
+\tightlist
+\item
+  Pg. 24 ``i felt i was becoming scinetifically interesting''
+\end{itemize}
+
+\hypertarget{breakouts-again}{%
+\section{Breakouts again}\label{breakouts-again}}
+
+\begin{itemize}
+\item
+  \begin{quote}
+  What do we know about Kurtz
+  \end{quote}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Highly effective at collecting ivory
+  \item
+    Seen as a genius or superhuman
+  \item
+    Holds power and strength
+  \item
+    In charge of a trading post
+  \item
+    Local figurehead
+  \item
+    Pioneer into the heart of darkness
+  \item
+    People are upset that he's so good
+  \item
+    Mostly heard about through rumors
+  \item
+    Rumored sick
+  \end{itemize}
+\item
+  \begin{quote}
+  Painting pg. 29-30
+  \end{quote}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Impressionist? Not too modern or surreal but not too many things
+    going on at once
+  \item
+    European expansion into africa
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Blindfolded and carrying a torch into the darkness
+    \item
+      blindfold - don't know whats going into
+    \item
+      torch to civilize the natives
+    \end{itemize}
+  \item
+    She's a woman?
+
+    \begin{itemize}
+    \tightlist
+    \item
+      The position of a european women
+    \item
+      He thinks they should be kept ignorant of the situation and of all
+      the darkness in the world
+    \item
+      Women bring light but are kept ignorant of the darkness?
+    \item
+      The company is willfully blinding itself to the dehumanization
+    \end{itemize}
+  \item
+    darkness -\textgreater{} torchlight -\textgreater{} makes her
+    sinister (light reflecting on her face) although she was originally
+    stately
+  \item
+    Seems sinister to an outsider, but the woman doesn't think she's
+    sinister
+  \item
+    Acting as a beacon to other people, blindly leading
+  \item
+    Why did Kurtz paint it?
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Kurtz is a beacon?
+    \item
+      Why does Kurtz see himself as blindfolded (juxtaposition with
+      other's description)
+    \item
+      If he identifies with the painting, why did he paint a woman?
+    \end{itemize}
+  \item
+    Draped?
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Not pants
+    \item
+      Statue of liberty
+    \item
+      Justice
+    \end{itemize}
+  \item
+    Juxtoposition between light and dark
+  \end{itemize}
+\item
+  \begin{quote}
+  Religious Vocab
+  \end{quote}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Painting
+  \item
+    philanthropy
+  \item
+    Saints
+  \item
+    Devil/God knows
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Seen as blasphemy during the time
+    \end{itemize}
+  \item
+    River has/is a devil/god
+  \item
+    Devils of stuff that compel the whites
+  \item
+    Inferno
+  \item
+    River as snake
+  \item
+    Other small references
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

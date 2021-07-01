@@ -1,0 +1,258 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ WWI Strategies }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6818)}}    % original
+%\rhead{\textrmlf{Compiled }\#6818\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6818\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201WWIActualWar}{\tiny\textulf{[[}\textbf{KBhHIST201WWIActualWar}\textulf{]]}}}\thinspace
+
+\hypertarget{wwi-strategies}{%
+\section{WWI Strategies}\label{wwi-strategies}}
+
+German's war plan (The Schlieffen Plan): rely on the railway to fight
+upon two fronts. First, rapidly defeat the French in a cyclic fashion;
+then, shuttle individuals to the slower Russian front.
+
+When implementing part 1 of the plan, the Germans were took by surprise
+when the Russians pushed into Germany. Furthermore, the French later
+quickly got reinforcements from England. While German communication was
+cut off intermittantly, the French and English conversatinos were
+uninterrupted. Because of the machine gun, which made foot soilders kind
+of useless, the war turned into a stalemate with no one being able to
+advance. The germans tried to take Russia; they killed a lot of people,
+but no hope was given up. The English/French tried to take Turkey, lots
+of people died, but still nothing.
+
+\begin{itemize}
+\tightlist
+\item
+  General Pétain had to fight and defend the Verdun area with minimum
+  resources; both German and French armies suffered great casulties, but
+  eventually the Germans gave up.
+\item
+  The Allied offensive tried to use a stupid amount of weaponary and
+  people to move through the front, however, it was to very little gain.
+\item
+  The allies did not observe the international rules preventing
+  noncontraband imports for countries at war; hence, they slowly
+  abolished the economic rules and leveraged this to create a naval
+  blocade to starve german economy.
+\item
+  The US tried to protest this, because they did business with Germany;
+  however, when the US entered the war on behalf of the Allies, they
+  ditched that and enforced the same regulatinos.
+\item
+  The Germans, citing the English abuse of naval law, started
+  torpeedoing anything they see next to English waters with a submarine.
+\item
+  Once a British ship was torpeedoed by Germany, 118 American lives were
+  lost.
+\item
+  Woodrow Wilson threatened that another such act would be reconized as
+  ``deliberately unfriendly'' behavior by the Germans, which caused them
+  to stop torpeedoing by much for 2 years.
+\item
+  The Germans threw a lot of resources on naval fighting in hopes of
+  preventing the blocade from starving them. Although they took out a
+  lot of British men, they did not successfully undermind the British
+  sea dominance.
+\item
+  Against the will of most italians, the Allies secretly bought the
+  support of Italy by promising them land and larger colonies.
+\item
+  The Germans equally tried to stir the nationalistic ideals of poland
+  and ukraine and Ireland and bought the sultan to proclaim holy war.
+  Nothing amounted to much.
+\item
+  The German Zimmermann telegram tried to leverage Mexico as a line of
+  defense against the United States --- that if the US attacked germany,
+  Mexico would attack the US. This shocked US public opionion.
+\item
+  Instead of appealing to route nationalism, allies appealed to
+  nationalistic discontent.
+\item
+  Appealing to the Jews and the Armenians, the British government
+  dragged them into the conflict and disrupted the ottoman empire.
+\item
+  The allies then took German colonies.
+\item
+  Allied with the British, Japan also forced China to make a series of
+  consessions that protected the Nortern China region from the Germans.
+\item
+  Woodrow wilson, although personally allied with England and France,
+  kept out of the war and tried to bring peace without a victory.
+\item
+  CLAIM: Russia was the first victim in the war. The troops mutinied and
+  the government abdicated to create a provisional russian goverment.
+\end{itemize}
+
+\end{document}

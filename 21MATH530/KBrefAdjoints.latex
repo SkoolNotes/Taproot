@@ -1,0 +1,141 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Adjoint},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{Adjoint}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\hypertarget{adjoint-t}{%
+\section{\texorpdfstring{adjoint, \(T^*\)
+{\textsc{def}}}{adjoint, T\^{}* def}}\label{adjoint-t}}
+
+\begin{quote}
+Suppose \$T ∈ \mathcal L(V, W). The \emph{adjoint} of \(T\) is the
+function \(T^* : W \to  V\) s.t. \[\begin{aligned}
+ \langle Tv, w \rangle = \langle v, T^* w \rangle
+\end{aligned}\]
+\end{quote}
+
+Apparently there's another meaning for 'adjoint' in linear algebra too,
+but it's not covered here.
+
+This definition makes sense because of the
+\href{KBrefLinearFunctional.org}{Riesz Representation Theorem}\ldots{}
+:question:
+
+Adjoints are kind of like complex conjugates, as seen in
+\href{KBrefConjugateTranspose.org}{Axler 7.10}
+
+\hypertarget{results}{%
+\section{results}\label{results}}
+
+\hypertarget{useful-technique-flip-t-from-one-side-of-an-inner-product-to-become-t-on-the-other-side}{%
+\subsection{\texorpdfstring{Useful technique: 'flip \(T^*\) from one
+side of an inner product to become \(T\) on the other
+side'}{Useful technique: 'flip T\^{}* from one side of an inner product to become T on the other side'}}\label{useful-technique-flip-t-from-one-side-of-an-inner-product-to-become-t-on-the-other-side}}
+
+You can always do this by definition of adjoint.
+
+\hypertarget{axler7.5-the-adjoint-is-a-linear-map}{%
+\subsection{Axler7.5 the adjoint is a linear
+map}\label{axler7.5-the-adjoint-is-a-linear-map}}
+
+\begin{quote}
+If \(T \in   \mathcal{L} (V, W)\), then \(T^* \in  \mathcal{L} (W, V)\).
+\end{quote}
+
+\hypertarget{axler7.6-properties-of-the-adjoint}{%
+\subsection{Axler7.6 Properties of the
+adjoint}\label{axler7.6-properties-of-the-adjoint}}
+
+\hypertarget{st-s-t-for-all-s-t-in-mathcallv-w}{%
+\subsubsection{\texorpdfstring{\((S+T)^* = S^* + T^*\) for all
+\(S, T \in  \mathcal{L}(V, W)\)}{(S+T)\^{}* = S\^{}* + T\^{}* for all S, T \textbackslash in  \textbackslash mathcal\{L\}(V, W)}}\label{st-s-t-for-all-s-t-in-mathcallv-w}}
+
+\hypertarget{lambda-t-overlinelambda-t-for-all-lambda-in-mathbbf-and-t-in-mathcall-v-w}{%
+\subsubsection{\texorpdfstring{\((\lambda T)^* = \overline{\lambda}  T^*\)
+for all \(\lambda \in  \mathbb{F}\) and
+\(T \in  \mathcal{L} (V, W)\)}{(\textbackslash lambda T)\^{}* = \textbackslash overline\{\textbackslash lambda\}  T\^{}* for all \textbackslash lambda \textbackslash in  \textbackslash mathbb\{F\} and T \textbackslash in  \textbackslash mathcal\{L\} (V, W)}}\label{lambda-t-overlinelambda-t-for-all-lambda-in-mathbbf-and-t-in-mathcall-v-w}}
+
+\hypertarget{t-t-for-all-t-in-lv-w}{%
+\subsubsection{\texorpdfstring{\((T^*)^* = T\) for all
+\(T \in  L(V, W)\)}{(T\^{}*)\^{}* = T for all T \textbackslash in  L(V, W)}}\label{t-t-for-all-t-in-lv-w}}
+
+\hypertarget{i-i}{%
+\subsubsection{\texorpdfstring{\(I^* = I\)}{I\^{}* = I}}\label{i-i}}
+
+\hypertarget{st-ts-for-all-t-in-mathcall-v-w-and-s-in-mathcall-w-u-where-u-is-an-inner-product-space-over-mathbbf}{%
+\subsubsection{\texorpdfstring{\((ST)^* = T*S*\) for all
+\(T \in \mathcal{L} (V, W)\) and \(S \in  \mathcal{L} (W, U)\) where
+\(U\) is an inner product space over
+\(\mathbb{F}\)}{(ST)\^{}* = T*S* for all T \textbackslash in \textbackslash mathcal\{L\} (V, W) and S \textbackslash in  \textbackslash mathcal\{L\} (W, U) where U is an inner product space over \textbackslash mathbb\{F\}}}\label{st-ts-for-all-t-in-mathcall-v-w-and-s-in-mathcall-w-u-where-u-is-an-inner-product-space-over-mathbbf}}
+
+\hypertarget{axler7.7-null-space-and-range-of-t}{%
+\subsection{\texorpdfstring{Axler7.7 null space and range of
+\(T^*\)}{Axler7.7 null space and range of T\^{}*}}\label{axler7.7-null-space-and-range-of-t}}
+
+Suppose \(T \in  \mathcal{L}(V, W)\). Then,
+
+\hypertarget{onull-t-orange-tbot}{%
+\subsubsection{\texorpdfstring{\(\onull T^* = (\orange T)^\bot\)}{\textbackslash onull T\^{}* = (\textbackslash orange T)\^{}\textbackslash bot}}\label{onull-t-orange-tbot}}
+
+\hypertarget{orange-t-onull-tbot}{%
+\subsubsection{\texorpdfstring{\(\orange T^* = (\onull T)^\bot\)}{\textbackslash orange T\^{}* = (\textbackslash onull T)\^{}\textbackslash bot}}\label{orange-t-onull-tbot}}
+
+\hypertarget{onull-t-orange-tbot-1}{%
+\subsubsection{\texorpdfstring{\(\onull T = (\orange T^*)^\bot\)}{\textbackslash onull T = (\textbackslash orange T\^{}*)\^{}\textbackslash bot}}\label{onull-t-orange-tbot-1}}
+
+\hypertarget{orange-t-onull-tbot-1}{%
+\subsubsection{\texorpdfstring{\(\orange T = (\onull T^*)^\bot\)}{\textbackslash orange T = (\textbackslash onull T\^{}*)\^{}\textbackslash bot}}\label{orange-t-onull-tbot-1}}
+
+\end{document}

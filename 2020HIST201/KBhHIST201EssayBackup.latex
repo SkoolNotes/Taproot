@@ -1,0 +1,272 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Kennedy Essay Backup }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201KennedyEssay}{\tiny\textulf{[[}\textbf{KBhHIST201KennedyEssay}\textulf{]]}}}\thinspace
+
+Paul Kennedy's \textit{The Rise and Fall of the Great Powers} presents a
+theory in which he proposed that Europe's model of small nation-states
+helped encourage competition and diversification that prevents
+governmental overextension and domination that, according to Kennedy,
+leads to eventual downfall. In proving his overall thesis, Kennedy made
+a claim addressing the reason why China closed its maritime trade after
+the 1433 expedition of Zheng He --- claiming that a conservative
+following of Confucian principles and effective governmental obstinance
+in Ming China's part lead to their eventual downfall in trade. In an
+attempt to justify his arguments, Kennedy cited a lack of
+\texttt{reconsideration\textquotesingle{}\textquotesingle{}\ in\ rebuilding\ trade\ and\ naval\ forces\ even\ when,\ according\ to\ his\ work,\ circumstances\ became\ clear\ to\ rebuild\ trade;\ he\ alleges\ that,\ instead\ of\ economic\ or\ domestic\ incentives,\ the\ Ming\ government\ refused\ to\ reopen\ due\ to\ its}conservative
+Confucian'\,' nature. In Kennedy's claim arguing that the conservative
+Confucian views caused Ming's closing of maritime trade, he presents a
+faulty argument that ignores both the ineffectiveness of unnecessarily
+reopening maritime trade and the discord in the infighting-plagued Ming
+government; through his argument, Kennedy also misinterpreted Confucian
+philosophy central to his argument for it, instead of an ideological ban
+on trade, actually favors market circulation and advises governments not
+to encourage price racketeering.
+
+One main flaw in Kennedy's argument of the conservative Confucian cause
+of the closing of maritime trade lies in the work's lack of
+consideration to longer-term effects of reopening maritime trade under
+the Ming's situation. In his argument, Kennedy claims that stopping
+maritime activity
+\texttt{does\ not\ appear\ to\ have\ been\ reconsidered\ when\ the\ disadvantanges\ ...\ became\ clear:\ ...\ the\ Chinese\ coastline\ and\ even\ cities\ ...\ were\ being\ attacked\ by\ Japanese\ pirates\textquotesingle{}\textquotesingle{}\ -\/-\/-\ implying\ that\ there\ must\ be\ an\ alterer\ motive\ in\ not\ resuming\ maritime\ activity\ even\ in\ a\ situation\ that,\ hints\ Kennedy,\ is\ in\ dire\ need\ of\ redecision.\ Center\ to\ the\ this\ claim,\ however,\ is\ the\ notion\ that\ while\ there\ be\ no\ reason\ not\ to\ reopen\ trade,\ Ming\ China\ failed\ to\ do\ so.\ Unsurprisingly,\ this\ is\ untrue:\ after\ some\ political\ struggle,\ China\ in\ fact\ \textbackslash{}textit\{did\}\ attempt\ an\ reopening\ of\ trade\ that,\ contrary\ to\ what\ Kennedy\ hints\ in\ his\ argument,\ did\ not\ rapidly\ resolve\ the\ economic\ situation\ in\ Ming\ china\ in\ both\ short\ and\ long\ term.\ As\ Kennedy\ mentioned,\ the\ closing\ of\ trade\ and\ subsequent\ deflation\ lead\ to\ rapid\ merchant\ attacks\ on\ coastal\ China\ -\/-\/-\ especially\ in\ the\ coastal,\ trade-dependent\ region\ of\ Fujian.\ Yet,\ contrary\ to\ what\ Kennedy\ presented,\ the\ Ming\ government\ indeed}reversed
+course {[}on trade{]}'`, invalidating Kennedy's initial argument.
+Kennedy failed to recognize the actual broader implications of simple
+trade reopening that, indeed, actually lead to why China's economy
+ultimately imploded. The Ming government reopened trade
+\texttt{not\ only\ because\ it\ recognized\ its\ inability\ to\ stop\ smuggling,\ or\ because\ it\ had\ begun\ to\ appreciate\ how\ much\ Fujian\textquotesingle{}s\ populace\ depended\ on\ trade.\ Beijing\ had\ come\ to\ realize\ that\ the\ nation\ desperately\ needed\ the\ merchants\textquotesingle{}\ most\ important\ good:\ silver.\textquotesingle{}\textquotesingle{}\ Silver,\ due\ to\ its\ relative\ stability,\ was\ a\ major\ asset\ at\ the\ time\ to\ the\ Ming\ government\ due\ to\ the\ disastrous\ hyperinflation/deflation\ cycles\ caused\ by\ repeated\ issuing\ of\ novel\ coins\ by\ each\ Emperor.\ Although\ this\ initial\ reopening\ of\ a\ silver-based\ economy\ proved\ to\ be\ reasonably\ successful\ in\ the\ short\ run,\ the\ Spanish\ discovery\ of\ the\ Potosí\ mine\ would\ actually\ ignite\ the\ broader\ economic\ downfall\ that\ Kennedy\ appears\ to\ associate\ with\ a\ simple\ ban\ on\ trade:}In
+1642, so much silver has been produced that its value is falling even as
+the mines slacken \ldots{} Like the Spanish king, the Ming emperor backs
+his military ventures with Spanish silver, which his subjects must use
+to pay their taxes. When the value of silver falls, the government runs
+out of money.'' Contrary to Kennedy's claims, the Ming economy did not
+fail due to a supposed lack of ``reconsideration'\,' on trade; it did
+reconsider trading quite extensively, and instead imploded centuries
+later due to a worldwide deflation caused by an influx of Spanish
+silver.
+
+Through his argument, Kennedy did --- in fact --- acknowledge one reason
+that he claimed is a
+\texttt{plausible\textquotesingle{}\textquotesingle{}\ reason\ for\ a\ closing\ of\ trade:\ the\ Mongols.\ Kennedy\ claims\ that\ maintaining}a
+large navy was an expensive luxury.'\,' But, immediately following that
+claim, Kennedy follows up with a seemingly contradicting statement
+calling the Ming government to
+\texttt{reconsider\textquotesingle{}\textquotesingle{}\ their\ anti-maritime\ decision\ due\ to\ the\ Japanese\ attacks\ aforementioned.\ Through\ this,\ Kennedy\ not\ only\ blindsided\ his\ own\ argument,\ but\ created\ another\ flaw\ in\ his\ argument\ by\ ignoring\ the\ longstanding\ political\ struggle\ for\ which\ the\ Mongolian\ attacks\ are,\ in\ fact,\ a\ scapegoat.\ Zheng\ He\textquotesingle{}s\ voyages}had
+become a target in political infighting --- one bureaucratic faction
+championing them, \ldots{} {[}and{]} another trying to take down the
+first by decrying their expense.'\,' With two bureaucratic factions
+championing opposing causes --- sacrificing Zheng He as a means to an
+end --- it is not surprising that one of the two would take an obvious
+and understandable cause of the Mongols as an argument against the
+expeditions through
+\texttt{decrying\textquotesingle{}\textquotesingle{}\ the\ expense.\ The\ cancellation\ of\ the\ voyages\ by\ Yongle\textquotesingle{}s\ son\ is,\ simply,\ a\ show\ of\ strength\ to\ the\ other}faction'`:
+power consolidation masqueraded as sensible economic policy. The Mongol
+attacks, cited by those opposing Zheng He's voyages as economic
+luxuriation, were in fact a perennial problem: the Ming was given
+Mandate after overturning
+\texttt{the\ Mongol-lead\ Yuan\textquotesingle{}\textquotesingle{},\ was\ -\/-\/-\ as\ Kennedy\ correctly\ noted\ -\/-\/-\ attacked\ (CITENEEDED)\ by\ Mongol\ invasions\ through\ its\ rule,\ and\ indeed\ was\ later\ overturned\ by\ the\ Manchus}who
+had taken north \ldots{} {[}since{]} during Song times'`. Attacks of
+China from the north were constant and rampant, making it less than
+evident that an elevation would cause China to destroy such a large
+naval investment. Although there may exist many theories hypothesizing
+the reason why the naval forces are destroyed --- infighting chief among
+which --- the attacks from the North are more common then Kennedy
+claimed it to be: not periodic and acute enough to warrant the
+destruction of such vast naval forces and an subsequent
+``reconsideration'' afterwards as Kennedy had claimed.
+
+Center to Kennedy's argument is his claim that the
+\texttt{sheer\ conservatism\textquotesingle{}\textquotesingle{}\ in\ Ming\textquotesingle{}s\ Confucian\ government\ brought\ the\ downfall\ to\ expeditions\ of\ Zheng\ He\ -\/-\/-\ a\ claim\ that\ both\ egregiously\ misinterpreted\ the\ Confucian\ viewpoint\ on\ trade\ and\ paints\ an\ unfair\ caricature\ of\ the\ Ming\ government.}In
+{[}the Ming's{]} `Restoration' atmosphere,'\,' claims Kennedy,
+\texttt{the\ all-important\ officialdom\ was\ concerned\ to\ preserve\ and\ recapture\ the\ past,\ not\ to\ create\ a\ brighter\ future.\textquotesingle{}\textquotesingle{}\ In\ this\ argument,\ Kennedy\ hints\ that\ a\ preservation\ of\ the}past'\,'
+--- whichever model of the past that may be --- would necessarily bring
+not only a full, unmitigated dismissal of present technologies, but also
+a unexplainable dismissal of any possibility of improvement. If, per
+Kennedy's claims, the
+\texttt{sheer\ ...\ Confucian\ bureaucracy\ ...\ {[}was{]}\ a\ key\ element\ in\ China\textquotesingle{}s\ retreat\textquotesingle{}\textquotesingle{}\ from\ all\ trade\ activities,\ then\ the\ conservative\ past\ that\ Kennedy\ claims\ China\ is\ emulating\ would\ need\ a\ stance\ greatly\ antagonistic\ to\ trade\ to\ warrant\ a\ full}destruction
+of all sea-going vessels'\,' (CITENEEDED) and dramatic shutdown.
+However, the views of the Confucian scholars in the 81 AD Han Salt and
+Iron Debate disagrees:
+\texttt{the\ purpose\ of\ merchants\ is\ circulation\ and\ the\ purpose\ of\ artisans\ is\ making\ tools.\ These\ matters\ should\ not\ become\ a\ major\ concern\ of\ the\ government.\textquotesingle{}\textquotesingle{}\ Through\ his\ claim,\ Kennedy\ candidly\ misinterpreted\ the\ Confucian\ viewpoint.\ Instead\ of\ a\ complete\ shutdown\ of\ trade,\ Confucian\ scholars\ claim\ that\ a\ well-ran\ government\ should\ not\ be\ \textbackslash{}textit\{concerned\}\ with\ controlling\ trade\ themselves\ -\/-\/-\ natural\ trade\ (i.e.\ creation\ and\ circulation),\ not\ monopolies\ and\ limits,\ should\ be\ encouraged.\ The\ Confucian\ view\ against\ merchants\ is\ not\ one\ that\ forbids\ their\ existence,\ but\ a\ view\ where}quick
+traders and unscrupulous officials {[}that{]} buy when goods are cheat
+to make high profits'\,' --- in other words, arbitraging and
+racketeering --- is discouraged. Through the Salt and Iron debates,
+Confucian scholars are trying to convince a struggling Han dynasty from
+imposing a strict trade limitation. The traditional Confucian views that
+Kennedy claim Ming China is desperately attempting to emulate in fact
+does not correlate with the Ming government's action of limitation,
+rendering Kennedy's claims invalid.
+
+In Kennedy's claim that traditional Confucian views brought the Ming
+government to stop all maritime trade, the author presents a problematic
+claim that not only ignores both the ineffectiveness of trade opening
+and the discord in the Ming leadership but also misinterpreted Confucian
+philosophy central to his argument. Kennedy, through his faulty and
+somewhat forced argumentation, applies a simplification to the rich and
+nuanced Ming governmental system that simply is not warranted. Although
+this calls for a reevaluation of his comparative analysis between
+European and Oriental cultures in terms of competition, Kennedy's
+primary arguments surrounding Europe in itself remains valid.
+
+\end{document}

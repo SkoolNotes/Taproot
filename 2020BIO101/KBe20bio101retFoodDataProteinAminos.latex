@@ -1,0 +1,267 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ 20bio101 }
+\newcommand{\thelesson}{ Food Data Protein Amino Acids }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBe20bio201retDietFinderIndex}{\tiny\textulf{[[}\textbf{KBe20bio201retDietFinderIndex}\textulf{]]}}}\thinspace
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \begin{quote}
+  How many grams of protein do you want/need per day? What sources are
+  you using for this determination?
+  \end{quote}
+\end{enumerate}
+
+It seems like 0.8 g per kg of human male is the accepted RDI.
+\href{https://www.health.harvard.edu/blog/how-much-protein-do-you-need-every-day-201506188096}{Harvard
+Health Blog},
+\href{https://www.verywellfit.com/how-to-calculate-how-much-protein-you-need-3955709}{verywell
+fit},
+\href{https://www.healthline.com/nutrition/how-much-protein-per-day}{healthline}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\item
+  \begin{quote}
+  What is your preferred animal:plant protein ration and why? (essential
+  amino acids, environmental)
+  \end{quote}
+\end{enumerate}
+
+I don't have a strong preference on what my preferred ratio is,
+especially because I don't pay too much attention to what I eat. I don't
+particularly like eating food, and I don't particularly like eating
+meat, so I think I could go for a more environmentally friendly ratio,
+because even ``overdosing'' on some amino acids to hit the rarer ones
+RDI would be less environmentally impactful than eating more meat.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\item
+  \begin{quote}
+  Using https://www.myfooddata.com (Links to an external site.), build a
+  single day meal plan that achieves your goals. \#todo-exr0n
+  \end{quote}
+\end{enumerate}
+
+From the
+\href{https://github.com/SkoolNotes/diet-finder8000superplus}{script}
+
+\begin{verbatim}
+Phenylalanine 81.2080685572291 %
+Valine 124.11991193514258 %
+Leucine 94.13009551708133 %
+Isoleucine 121.33660481656196 %
+Lysine 98.99885464164082 %
+Threonine 117.22718754701687 %
+Tryptophan 136.44759141786292 %
+Methionine 76.60724610188446 %
+Histidine 93.59079200960244 %
+You better goddamn eat 205.162743g o' broccoli
+You better goddamn eat 90.416268g o' mustard
+You better goddamn eat 369.057053g o' butter stick
+You better goddamn eat 16.536808g o' whole milk
+You better goddamn eat 161.597425g o' whole eggs
+\end{verbatim}
+
+\includegraphics{KBe20bio201retFoodDataProteinAminosDiet1.png}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\item
+  \begin{quote}
+  Cross check the https://www.myfooddata.com (Links to an external
+  site.) essential amino acid values/food with the tables in the slides
+  (Links to an external site.). Do they seem consistent? Provide
+  evidence for you answer.
+  \end{quote}
+\end{enumerate}
+
+Well, we used the RDI from an external dataset. The my food data website
+said that this was the data they used, but the RDI values were somewhat
+different. However, the values the script comes up with are pretty
+similar to the website, although our RDI seems to be higher than the
+website.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\item
+  \begin{quote}
+  Were there any essential amino acids, vitamins, or minerals needs that
+  were challenging to satisfy during your meal planning? What are some
+  foods particularly high in that vitamin or mineral?
+  \end{quote}
+\end{enumerate}
+
+Tryptophan and Methionine, which seems to be mostly taken care of by
+milk and eggs.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

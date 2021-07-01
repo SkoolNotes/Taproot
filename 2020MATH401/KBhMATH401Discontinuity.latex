@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3240)}}    % original
+%\rhead{\textrmlf{Compiled }\#3240\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3240\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -192,5 +194,14 @@ defined
 \textbf{Double Sided Limit}: exists \textbf{Function}: not defined
 
 \(f(x)=\frac{x^6-1}{x^{10}-1}\ where\ x=1\)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Division by 0/infinite discontinutiy =\textgreater{} undefined
+
+Hole =\textgreater{} not defined
+
+Sq. Root Functions =\textgreater{} not defined when x=\{negative
+number\}
 
 \end{document}

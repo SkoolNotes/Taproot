@@ -1,0 +1,293 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Eigenvalues and Eigenvectors }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8210)}}    % original
+%\rhead{\textrmlf{Compiled }\#8210\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8210\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{sources}{%
+\section{\texorpdfstring{sources
+{\textsc{source}}}{sources source}}\label{sources}}
+
+\hypertarget{linear-algebra-done-right-axler-5.a}{%
+\subsection{linear algebra done right (Axler
+5.A)}\label{linear-algebra-done-right-axler-5.a}}
+
+\hypertarget{motivation}{%
+\section{motivation}\label{motivation}}
+
+The simplest non-trivial invariant subspaces are one-dimensional. Let
+\(U\) be a one-dimensional invariant subspace under \(T\), then
+\[ Tu \in U : u \in U \] Because \(U = \text{span} (u)\), this implies
+\[ Tu = \lambda u \] which defines an eigenvalue (\(\lambda\)) and
+eigenvector(\(u\)) pair.
+
+\hypertarget{eigenvalue}{%
+\section{\texorpdfstring{eigenvalue
+{\textsc{def}}}{eigenvalue def}}\label{eigenvalue}}
+
+\begin{quote}
+Suppose \(T \in \mathcal L(V)\). A number \(\lambda \in \mathbb F\) is
+called an \emph{eigenvalue} of \(T\) if there exists \(v \in V\) s.t.
+\(v \neq 0\) and \(Tv = \lambda v\).
+\end{quote}
+
+\hypertarget{results}{%
+\subsection{results}\label{results}}
+
+\hypertarget{axler5.6-equivalent-conditions}{%
+\subsubsection{Axler5.6 equivalent
+conditions}\label{axler5.6-equivalent-conditions}}
+
+When \(V\) is finite-dimensional, \(T \in \mathcal L(V)\) and
+\(\lambda \in F\),
+
+\begin{enumerate}
+\item
+  \(T - \lambda I\) is not ijnective
+\item
+  \(T - \lambda I\) is not surjective
+\item
+  \(T - \lambda I\) is not invertible
+\item
+  we don't want \(T - \lambda I\) to be invertible because we want it to
+  be zero (rearranging the prev equation) {\textsc{intuit}}
+\end{enumerate}
+
+\hypertarget{eigenvector}{%
+\section{\texorpdfstring{eigenvector
+{\textsc{def}}}{eigenvector def}}\label{eigenvector}}
+
+\begin{quote}
+Suppose \(T\) ∈ \mathcal L(V)\$ and \(\lambda \in \mathbb F\) is an
+eigenvalue of \(T\). A vector \(v \in V\) is called an
+\emph{eigenvector} of \(T\) corresponding to \(\lambda\) if \(v \neq 0\)
+and \(Tv = \lambda v\).
+\end{quote}
+
+\hypertarget{intuit}{%
+\subsection{\texorpdfstring{intuit
+{\textsc{intuit}}}{intuit intuit}}\label{intuit}}
+
+\(v\) can't be zero because that would be trivial. Otherwise, this is
+just terminology based on the prev definition: if it gets scaled but
+stays in the same space, then its called an eigenvector. Note that each
+eigenvalue \(\lambda\) has a whole \(\text{span}v\) of associated
+eigenvectors.
+
+\hypertarget{results-1}{%
+\subsection{results}\label{results-1}}
+
+\hypertarget{equivalent-condition}{%
+\subsubsection{equivalent condition}\label{equivalent-condition}}
+
+\begin{quote}
+Because \(Tv = \lambda v\) iff \(\left(T-\lambda I\right)v = 0\)
+(algebra), a vector \(v \in V\) with \(v \neq 0\) is an eigenvector of
+\(T\) corresponding to \(\lambda\) iff
+\(v \in \text{null}\left(T-\lambda I\right)\)
+\end{quote}
+
+\hypertarget{axler5.10-linearly-independent-eigenvectors}{%
+\subsubsection{axler5.10 linearly independent
+eigenvectors}\label{axler5.10-linearly-independent-eigenvectors}}
+
+\begin{quote}
+Let \$T ∈ \mathcal L(V). Suppose \(\lambda_1, \ldots, \lambda_m\) are
+distinct eigenvalues of \(T\) and \(v_1, \ldots, v_m\) are corresponding
+eigenvectors. Then \(v_1,ldots, v_m\) is linearly independent.
+\end{quote}
+
+\begin{enumerate}
+\item
+  intuit {\textsc{intuit}}
+
+  If some list of eigenvalues is distinct, then the corresponding
+  eigenvectors will be linearly independent because if any subset linear
+  combination could add to another, then something would be funny about
+  linearity?
+\end{enumerate}
+
+\hypertarget{axler5.11-maximum-number-of-eigenvalues}{%
+\subsubsection{axler5.11 maximum number of
+eigenvalues}\label{axler5.11-maximum-number-of-eigenvalues}}
+
+\begin{quote}
+Suppose \(V\) is finitēdimensional. Then each operator on \(V\) has at
+most \(\text{dim } V\) distinct eigenvalues.
+\end{quote}
+
+This follows directly from axler5.10, since all eigenvectors would need
+to fit into a linearly indep list and a linearly independent list of
+length more than \(\text{dim }V\) is not possible. \hfill ▪
+
+\end{document}

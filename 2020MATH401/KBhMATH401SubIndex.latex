@@ -5,6 +5,8 @@
 
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
 
 \usepackage[normalem]{ulem}
 
@@ -12,10 +14,17 @@
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
+\usepackage{setspace}
 
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
 
 \usepackage{enumitem}
 \setlistdepth{9}
@@ -31,6 +40,9 @@
 \setlist[itemize,9]{label=\textbullet}
 
 \renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -72,13 +84,13 @@
 
 \usepackage{mathspec}
 \setmainfont[
-   ItalicFont     = HelveticaNeue-Italic,
-   BoldFont       = HelveticaNeue-Bold,
-   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
 \newfontfamily\NHLight[
-   ItalicFont     = HelveticaNeue-LightItalic,
-   BoldFont       = HelveticaNeue-UltraLight,
-   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -122,9 +134,13 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11233)}}    % original
+%\rhead{\textrmlf{Compiled }\#11233\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -136,14 +152,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -159,10 +175,16 @@
     \end{center}
 }
 
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
+\textbf{Source}:\thinspace
 {\href{http://taproot.shabang.cf/relay?request=KBCalculusMasterIndex}{\tiny\textulf{[[}\textbf{KBCalculusMasterIndex}\textulf{]]}}}\thinspace
 
 \begin{itemize}
@@ -180,6 +202,20 @@
   Differences
 \item
   {[}{[}KBhMATH401Limits{]}{]}
+\item
+  {[}{[}KbhMATH401e{]}{]}
+\item
+  {[}{[}KBhMATH401Derivatives{]}{]}
+\item
+  {[}{[}KBhMATH401Intergrals{]}{]}
+\item
+  {[}{[}KBhMATH401TaylorSeriesApprox{]}{]}
+\item
+  {[}{[}KBhMATH401SequencesAndSeries{]}{]}
+\item
+  {[}{[}KBhMATH401SeriesConvergence{]}{]}
+\item
+  {[}{[}KBhMATH401APCalc{]}{]}
 \end{itemize}
 
 \end{document}

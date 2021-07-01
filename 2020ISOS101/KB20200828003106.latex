@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2285)}}    % original
+%\rhead{\textrmlf{Compiled }\#2285\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2285\textrmlf{ on} \today}       % new date
 \lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -172,6 +174,10 @@
 \tightlist
 \item
   {[}{[}KB20200828003333{]}{]} Theaetetus reading.
+\item
+  {[}{[}KB20200912233524{]}{]} Gender and Biological sciences
+\item
+  {[}{[}KBAreWeRight{]}{]} Are we right about climate change
 \end{itemize}
 
 \end{document}

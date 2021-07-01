@@ -1,0 +1,247 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+%\setmainfont[
+%   ItalicFont     = HelveticaNeue-Italic,
+%   BoldFont       = HelveticaNeue-Bold,
+%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight[
+%   ItalicFont     = HelveticaNeue-LightItalic,
+%   BoldFont       = HelveticaNeue-UltraLight,
+%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+\setmainfont[
+   ItalicFont     = Iosevka-Aile-Italic,
+   BoldFont       = Iosevka-Aile-Bold,
+   BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+\newfontfamily\NHLight[
+   ItalicFont     = Iosevka-Aile-Light-Italic,
+   BoldFont       = Iosevka-Aile-Light,
+   BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ISOS201 }
+\newcommand{\thelesson}{ ISOS Self Eval }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6163)}}    % original
+%\rhead{\textrmlf{Compiled }\#6163\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6163\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\#ret
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\tightlist
+\item
+  We read difficult texts in this class. What techniques did you use for
+  getting the most out of readings and for formulating useful discussion
+  points?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    I approached the readings without assuming that what I was reading
+    was `thruthful.' This led me to analyse the texts more deeply, and
+    forced me to only accept ideas that I had thought through. For
+    discussion points, I tried to approach them with curiosity and ask
+    one of many genuine questions that I was left with after doing the
+    reading.
+  \end{itemize}
+\item
+  Our class is dependent on students engaging in discussions. What kind
+  of role do you play in discussion, and what helps you be better at
+  that role? What goals do you have for yourself in next semester's
+  discussions?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    I would like to think I provide unique viewpoints to the discussion.
+    Sometimes, unique viewpoints which reveal assumptions don't allow
+    the class to progress through the material at the desired pace. Next
+    semester, I hope to find a balance.
+  \end{itemize}
+\item
+  What kind of role did you play in your group project, the Bad Science
+  presentation? What goals do you have for yourself in future group
+  projects?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    I played the role of a person working equally with their friends. We
+    all contributed, we all had fun, and we all learned. I would like to
+    continue this in the future.
+  \end{itemize}
+\item
+  How might you apply what you learned in ISOS this fall to being a
+  scientist in your science classes or to using scientific information
+  to make informed choices as a citizen?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    I am now a Postmodernist. There is no subjective truth. Nothing is
+    real. Seriously speaking, I think that not recognizing ones own
+    assumptions or taking some truth for granted is incredibly
+    dangerous, and ISOS is a class that helps us avoid this danger. More
+    specifically, perhaps the most interesting idea we have discussed is
+    the idea of robustness, and how we can view ideas as a sort of
+    interconnected web; as this web moves away from being linear and
+    becomes increasingly interconnected, one idea in the web being
+    proved `false' is much less destructive and can be remedied much
+    more quickly. This is a way I will try to design my own systems in
+    the future.
+  \end{itemize}
+\end{itemize}
+
+\end{document}

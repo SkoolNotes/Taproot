@@ -1,0 +1,119 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Huxley Course Pref Bin},
+  pdfauthor={Huxley},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{Huxley Course Pref Bin}
+\author{Huxley}
+\date{}
+
+\begin{document}
+\maketitle
+
+\#flo \#ref \#ret \#disorganized \#incomplete
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{need}{%
+\subsection{Need:}\label{need}}
+
+math, science, elective 1, elective 2,
+
+\hypertarget{interesting-courses}{%
+\subsection{Interesting courses}\label{interesting-courses}}
+
+micro econ eviromental econ macro econ
+
+xrt? advanced mech e?
+
+computer security computer vison
+
+\hypertarget{math-options}{%
+\subsection{Math options}\label{math-options}}
+
+multi lin alg stats\ldots? mathmatical modeling? quantum info and comp
+
+\hypertarget{science-options}{%
+\subsection{Science options}\label{science-options}}
+
+modern mechanics sensory neuro phys research
+
+https://docs.google.com/document/d/1QmBBJz4uJwx4efi3CDWUOK7i9KpowSc76Zad9lwmxcw/edit\#heading=h.gsuoptpcvto3
+https://docs.google.com/spreadsheets/d/1q5BaJ05ks7Iifx9FbI21HpGS4U5wOPT4K3ynR2l\_sXA/edit\#gid=0
+
+\hypertarget{fall}{%
+\subsection{Fall}\label{fall}}
+
+computer securiuty computer vison
+
+mathmatical modeling
+
+micro econ
+
+sensory neruo?
+
+\hypertarget{spring}{%
+\subsection{Spring}\label{spring}}
+
+quantum computing advaanced probability
+
+macro econ
+
+sensory neruo?
+
+\hypertarget{year}{%
+\subsection{Year}\label{year}}
+
+mvc lin alg aplied stats modern phys advanced mechanics
+
+math -- F: lin alg S: lin alg science -- F: modern physics S: modern
+physics elective -- F: computer security S: quantum computing elective
+-- F: mathematical modeling S: advanced probability
+
+\end{document}

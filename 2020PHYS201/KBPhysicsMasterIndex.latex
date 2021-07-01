@@ -17,6 +17,8 @@
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
 
+\usepackage{lastpage}
+
 \usepackage{enumitem}
 \setlistdepth{9}
 
@@ -72,13 +74,21 @@
 
 \usepackage{mathspec}
 \setmainfont[
-   ItalicFont     = HelveticaNeue-Italic,
-   BoldFont       = HelveticaNeue-Bold,
-   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
 \newfontfamily\NHLight[
-   ItalicFont     = HelveticaNeue-LightItalic,
-   BoldFont       = HelveticaNeue-UltraLight,
-   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -122,9 +132,16 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8602)}}    % original
+%\rhead{\textrmlf{Compiled }\#8602\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#8602
+  \textrmlf{ on}
+      \today
+  }       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -136,14 +153,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -162,13 +179,23 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
 \begin{itemize}
 \tightlist
 \item
   {[}{[}KBhPHYS201GettingStarted{]}{]} Getting started with Physics
+\item
+  Exr0n Ret Index {[}{[}exr0n20phys201retIndex{]}{]}
+\end{itemize}
+
+\hypertarget{electronics}{%
+\section{Electronics}\label{electronics}}
+
+\hypertarget{electrostatics}{%
+\subsection{Electrostatics}\label{electrostatics}}
+
+\begin{itemize}
+\tightlist
 \item
   {[}{[}KBhPHYS201IntroToElectrostaticsLN{]}{]} Intro to Electrostatics
 \item
@@ -180,7 +207,17 @@
 \item
   {[}{[}physQuestions{]}{]}
 \item
-  Exr0n Ret Index {[}{[}exr0n20phys201retIndex{]}{]}
+  {[}{[}KBe20phys201flo5vandegraph{]}{]}
+\item
+  Voltage and Current with Gravity annotated docs
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}exr0n20phys201retIntroVoltageWithGravity.pdf{]}{]}
+  \item
+    {[}{[}KBe20phys201srcVoltageCurrentGravity2.pdf{]}{]}
+  \end{itemize}
 \item
   PHET Simulation w/ Eletric Field
 
@@ -189,6 +226,101 @@
   \item
     Jack {[}{[}KBhPHYS201PHETElectricFields{]}{]}
   \end{itemize}
+\end{itemize}
+
+\hypertarget{circuits}{%
+\subsection{Circuits}\label{circuits}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBhPHYS201Capacitors{]}{]}
+\item
+  {[}{[}KBhPHYS201CircuitsIndex{]}{]} Circuits!
+\end{itemize}
+
+\hypertarget{capacitors}{%
+\subsubsection{Capacitors}\label{capacitors}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBhPHYS201Capacitors{]}{]}
+\item
+  {[}{[}KBe20phys250retCapacitenceResistanceQuestion{]}{]}
+\item
+  {[}{[}KBe20phys250retCapacitorsLab{]}{]}
+\item
+  {[}{[}KBe20Phys201refCapacitorSeriesParralel{]}{]}
+\end{itemize}
+
+\hypertarget{silicon-things}{%
+\subsection{Silicon Things}\label{silicon-things}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBhPHYS201Silicon{]}{]}
+\item
+  Base Conversion {[}{[}KBhPHYS201DigitalLogic{]}{]}
+\end{itemize}
+
+\hypertarget{magnetism}{%
+\section{Magnetism}\label{magnetism}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBhPHYS201MagneticSolids{]}{]}
+\end{itemize}
+
+\hypertarget{nuclear-physics}{%
+\section{Nuclear Physics}\label{nuclear-physics}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBhPHYS201NuclearPhysics{]}{]}
+\end{itemize}
+
+\hypertarget{relativity}{%
+\section{Relativity}\label{relativity}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBhPHYS201SpecialRelativity{]}{]}
+\end{itemize}
+
+\hypertarget{quantum-mechanics}{%
+\section{Quantum Mechanics}\label{quantum-mechanics}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBhPHYS201QuantumMechanics{]}{]}
+\item
+  {[}{[}KBhPHYS201QuantumWorldBook{]}{]}
+\item
+  {[}{[}KBhPHYS201QuantumWorldBookNotesIndex{]}{]}
+\end{itemize}
+
+\hypertarget{references}{%
+\section{References}\label{references}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBPHYS201ZachsPhysicsNotesForTest{]}{]} Physics quiz Notes
+\end{itemize}
+
+\hypertarget{misc}{%
+\section{Misc}\label{misc}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBxPhysSelvEval2020{]}{]}
 \end{itemize}
 
 \end{document}

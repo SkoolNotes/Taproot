@@ -1,0 +1,289 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2604)}}    % original
+%\rhead{\textrmlf{Compiled }\#2604\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2604\textrmlf{ on} \today}       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+****--- title: How do we know that we arn't wrong? author: Houjun Liu
+source: KBISOSMasterIndex course: ISOS101 ---
+
+\hypertarget{hdwdnwanw}{%
+\section{HDWDNWANW}\label{hdwdnwanw}}
+
+\#flo \#disorganized
+
+\begin{itemize}
+\tightlist
+\item
+  Prominent scientists could be wrong!
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Consensus formed during the 20th century about a long of scientific
+    discovery, for most thought that the important questions have been
+    answered
+  \item
+    So, consensus does not mean correctness
+  \end{itemize}
+\item
+  Climate science unusual because of political motivations
+\item
+  One way to test hypothesis is to do a review of the state of that
+  field
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This was originally trivial, but gets much harder nowadays
+  \item
+    Too many papers published for one to read efficiently
+  \end{itemize}
+\item
+  Now, Knowledge = Scientific Consensus =\textgreater{} only over the
+  simple \emph{realities} of a hypothesis
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Claims with scientific consensus are rounded on verified new
+    realities
+  \item
+    Claims of current causes is not prediction of the future
+  \end{itemize}
+\item
+  So, why do people think that people disagree on scientifically confirm
+  consensus?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    People are conflating scientific evidence with political decisions
+  \item
+    Climate science heavily predicated upon future effects, which is not
+    always easy and effective
+  \item
+    Scientists have sometimes failed to explain themselves beyond their
+    communities
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Actually, scientists sometimes thought that the mere worry about
+      dissemination is wasting time
+    \item
+      ``Popularizers'' are dismissed
+    \end{itemize}
+  \item
+    Scientists commenting on contested issue often called
+    ``politicizing''
+  \item
+    Organization sometimes propergating alternative views
+  \end{itemize}
+\item
+  How do we know that we arn't wrong?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    There is actually no singular scientific method!
+  \item
+    No one answer and standard method of science
+  \item
+    Scientists use a variety of methods \& philosophers proposed various
+    helpful criteria:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Inductive and deductive reasoning =\textgreater{} generalizing
+      from examples ``100 white swans means that all swans are white.
+      10000 white swans? I am more sure now''
+    \item
+      Hypo-deductive model =\textgreater{} proving hypothesis ``if I
+      wash my hands after doing an autopsy, I won't hurt babies''
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Easy to get trapped in ``affirming the consequent''
+        =\textgreater{} autopsies don't cause died babies, dead people
+        germs do. However, people for a while seriously thought that
+        cadaveric matter in and of itself causes dead babies/dead
+        people.
+      \end{itemize}
+    \item
+      Falsificationism =\textgreater{} you could never proof something
+      true; you could only prove it false
+    \item
+      Consillience of Evidence =\textgreater{} look for multiple
+      independent lines of evidence that allow a fact to be shown
+    \item
+      Inference to the best explanation =\textgreater{} getting a lot of
+      evidence and choosing from it simply the ``best available.''
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\end{document}

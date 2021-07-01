@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title>  Handout 21: u-substitution </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong></strong> Handout 21: u-substitution </span></div>
+        </div>
+        <div id="center-viewport">
+            <h1 id="meta">meta</h1>
+            <p>This homework took ~3h whilst discussing with peers… I really need to practice this type of algebra.</p>
+            <h1 id="int-fracsqrtx-1x-dx"><span class="math inline">\(\int \frac{\sqrt{x-1}}{x} dx\)</span></h1>
+            <p>Let <span class="math inline">\(u= \sqrt{x-1}\)</span>, <span class="math inline">\(du = \frac{1}{2\sqrt{x-1}}dx\)</span> <span class="math display">\[\begin{aligned}
+              \int \frac{\sqrt{x-1}}{x} dx &amp;= \int \frac{u}{u^2+1} 2u du\\
+              &amp;= 2\int \frac{(u^2+1)-1}{u^2+1}du\\
+              &amp;= 2\int \frac{\cancel{u^2+1}}{\cancel{u^2+1}} + \frac{-1}{u^2+1}du\\
+              &amp;= 2\int 1 du- \frac{1}{u^2+1} +C\\
+              &amp;= 2\int 1du-\tan^- u +C\\
+              &amp;= 2u - \tan^- u +C\\
+              &amp;= \boxed{2\sqrt{x-1} - \tan^-\left( \sqrt{x-1}\right)  +C}\\
+              \end{aligned}\]</span></p>
+            <p><strong>Polynomial long division?</strong></p>
+            <p><strong>When you have a square root with a sum/difference inside, there’s not much you can do. So, your best bet is to substitute either the stuff inside the root as <span class="math inline">\(u\)</span> or the entire radical as <span class="math inline">\(u\)</span>.</strong></p>
+            <h1 id="int-fracx2x21-dx"><span class="math inline">\(\int \frac{x^2}{x^2+1} dx\)</span></h1>
+            <p>Let <span class="math inline">\(u = x^2+1\)</span>, <span class="math inline">\(du = 2x dx\)</span> <span class="math display">\[\begin{aligned}
+              \int \frac{x^3}{x^2+1} dx &amp;= \frac{1}{2} \int \frac{u-1}{u} du\\
+              &amp;= \frac{1}{2} \left( u - \int \frac{1}{u} du \right) +C\\
+              &amp;= \frac{1}{2} \left( u - \ln u \right) +C\\
+              &amp;= \boxed{\frac{1}{2} \left( x^2+1 - \ln (x^2+1) \right) +C}
+              \end{aligned}\]</span> <strong>JUST SPLIT THE FRACTION</strong></p>
+            <p><strong>AND LOOK FOR TANsr X</strong></p>
+            <h1 id="int-fracx-4x2-dx"><span class="math inline">\(\int \frac{x-4}{x^2} dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int \frac{x-4}{x^2} dx &amp;= \int \frac{x}{x^2} \frac{4}{x^2} dx\\
+              &amp;= \int \frac{1}{x} dx + 4 \int \frac{1}{x^2} dx\\
+              &amp;= \boxed{\ln x - \frac{4}{x} +C}
+              \end{aligned}\]</span></p>
+            <h1 id="int-x1ex22x-dx"><span class="math inline">\(\int (x+1)e^{x^2+2x} dx\)</span></h1>
+            <p>Let <span class="math inline">\(u = x^2+2x\)</span>, <span class="math inline">\(du = x+1 dx\)</span> <span class="math display">\[\begin{aligned}
+              \int (x+1)e^{x^2+2x} dx &amp;= \frac{1}{2}\int e^u du\\
+              &amp;= \frac{1}{2}e^u\\
+              &amp;= \boxed{\frac{1}{2}e^{x^2+2x} +C}
+              \end{aligned}\]</span></p>
+            <h1 id="int-tan2x-1-dx"><span class="math inline">\(\int \tan^2x +1 dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int \tan^2x +1 dx &amp;= \int \sec^2x -1 +1 dx \\
+              &amp;= \int \sec^2x dx \\
+              \text{Let } u = x, du = dx\\
+              &amp;= \int \sec^2u du \\
+              &amp;= \tan u +C\\
+              &amp;= \boxed{\tan x +C}
+              \end{aligned}\]</span></p>
+            <h1 id="int-frac6x2-4x-dx"><span class="math inline">\(\int \frac{6x^2-4}{x} dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int \frac{6x^2-4}{x} dx &amp;= \int \frac{6x^2}{x} dx - 4 \int \frac{1}{x} dx\\
+              &amp;= \int 3x dx - 4 \ln |x| +C\\
+              &amp;= \boxed{3x^2 - 4 \ln  |x| +C}
+              \end{aligned}\]</span></p>
+            <h1 id="int-fracex-1ex-dx"><span class="math inline">\(\int \frac{e^x-1}{e^x} dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int \frac{e^x-1}{e^x} dx &amp;= \int 1 - \frac{1}{e^x} dx\\
+              &amp;= \int 1 - e^{-x} dx\\
+              &amp;= x + e^{-x} +C\\
+              &amp;= \boxed{e^{-x} + x +C}
+              \end{aligned}\]</span></p>
+            <h1 id="int-fracsec-2-xcsc-x-sin-x-dx"><span class="math inline">\(\int \frac{\sec ^2 x}{\csc x} \sin x dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int \frac{\sec ^2 x}{\csc x} \sin x dx &amp;= \int \tan^2 x dx \\
+              &amp;= \int \sec^2x - 1 dx\\
+              &amp;= \int \sec^2 x dx - \int 1 dx \\
+              &amp;= \boxed{\tan x - x +C}
+              \end{aligned}\]</span></p>
+            <h1 id="int-sin-x-cos-x-dx"><span class="math inline">\(\int \sin x \cos x dx\)</span></h1>
+            <p>Let <span class="math inline">\(u = \sin x\)</span>, then <span class="math inline">\(du = \cos x dx\)</span></p>
+            <p><span class="math display">\[\begin{aligned}
+              \int \sin x \cos x dx &amp;= \int u du\\
+              &amp;= \frac{1}{2}u^2\\
+              &amp;= \boxed{\frac{1}{2}\sin ^2x +C}
+              \end{aligned}\]</span></p>
+            <p><strong>Product of $sin  $ and $cos  $, so we can use a double angle formula</strong></p>
+            <p><span class="math display">\[\begin{aligned}
+              \int \sin x\cos x dx &amp;= \int \frac{1}{2}\sin 2x dx \\
+              &amp;= \frac{1}{2} \int \sin 2x dx \\
+              &amp;= -\frac{1}{4} \cos 2x
+              \end{aligned}\]</span></p>
+            <h1 id="int-frace2-ln-sin-xe2ln-cos-xe2-ln-tan-x-e2-ln-1-dx"><span class="math inline">\(\int \frac{e^{2 \ln \sin x}+e^{2\ln \cos x}}{e^{2 \ln \tan x} + e^{2 \ln 1}} dx\)</span></h1>
+            <p><span class="math display">\[\begin{aligned}
+              \int \frac{e^{2 \ln \sin x}+e^{2\ln \cos x}}{e^{2 \ln \tan x} + e^{2 \ln 1}} dx &amp;= \int \frac{\sin^2 x + \cos ^2 x}{\tan^2x + 1} dx\\
+              &amp;= \int \frac{1}{\tan^2x + 1} dx \\
+              &amp;= \int \frac{1}{\sec ^2x} dx \\
+              &amp;= \int \cos ^2x dx\\
+              &amp;= \int \frac{1}{2}(\cos 2x + 1) dx\\
+              &amp;= \frac{1}{2} \int \cos 2x + 1 dx\\
+              &amp;= \frac{1}{2} \left( \int \cos 2x dx + \int 1 dx\right) \\
+              \end{aligned}\]</span> Let <span class="math inline">\(u = 2x\)</span>, <span class="math inline">\(du = 2dx\)</span></p>
+            <p><span class="math display">\[\begin{aligned}
+              \frac{1}{2}\int \cos 2x dx + \frac{x}{2} + C &amp;= \frac{1}{4}\int \cos u du + \frac{x}{2} + C\\
+              &amp;= \frac{1}{4} \sin u + \frac{x}{2} + C\\
+              &amp;= \boxed{\frac{1}{4} \sin 2x + \frac{x}{2} +C }
+              \end{aligned}\]</span></p>
+            <h1 id="int-fracsec-x-tan-x1sec-2x-dx"><span class="math inline">\(\int \frac{\sec x \tan x}{1+\sec ^2x} dx\)</span></h1>
+            <p>Let <span class="math inline">\(u = \sec  x\)</span>, <span class="math inline">\(du = \sec x \tan x dx\)</span></p>
+            <p><span class="math display">\[\begin{aligned}
+              \int \frac{\sec x\tan x}{1+\sec^2 x} dx &amp;= \int \frac{du}{1+u^2} dx \\
+              &amp;= \int \frac{1}{1+u^2} du\\
+              &amp;= \tan ^- u +C\\
+              &amp;= \boxed{\tan ^- \sec x +C}
+              \end{aligned}\]</span></p>
+            <h1 id="int-x2-ex3dx"><span class="math inline">\(\int x^2 e^{x^3}dx\)</span></h1>
+            <p>Let <span class="math inline">\(u = x^3\)</span>, <span class="math inline">\(du = 3x^2dx\)</span></p>
+            <p><span class="math display">\[\begin{aligned}
+              \int x^2 e^{x^3} dx &amp;= \frac{1}{3}\int e^u du\\
+              &amp;= \frac{1}{3} e^u +C\\
+              &amp;= \boxed{\frac{1}{3}e^{x^3} +C}
+              \end{aligned}\]</span></p>
+            <h1 id="int-fracesqrtxsqrtx-dx"><span class="math inline">\(\int \frac{e^{\sqrt{x}}}{\sqrt{x}} dx\)</span></h1>
+            <p>Let <span class="math inline">\(u=\sqrt{x}\)</span>, <span class="math inline">\(du = \frac{1}{2\sqrt{x}}dx\)</span></p>
+            <p><span class="math display">\[\begin{aligned}
+              \int \frac{e^{\sqrt{x}}}{\sqrt{x}} dx &amp;= 2\int e^udu\\
+              &amp;= 2 e^u +C\\
+              &amp;= \boxed{2e^{\sqrt{x}}+C}
+              \end{aligned}\]</span></p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2680)}}    % original
+%\rhead{\textrmlf{Compiled }\#2680\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2680\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -168,12 +170,61 @@
 \begin{longtable}[]{@{}ll@{}}
 \toprule
 \endhead
-Intro & {[}{[}KBe2020math530flo1{]}{]}\tabularnewline
-Flows & {[}{[}KBe2020math530floIndex{]}{]}\tabularnewline
-Homework & {[}{[}KBe2020math530refExr0nRetIndex{]}{]}\tabularnewline
-Etymology & {[}{[}KBe2020math530floLinalgEtymology{]}{]}\tabularnewline
-Numbers & {[}{[}KBe2020math530floNumbers{]}{]}\tabularnewline
-Groups & {[}{[}KBe2020math530refGroups{]}{]}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Intro\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBe2020math530flo1{]}{]}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Questions\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBe20math530floQuestions{]}{]}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Flows\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBe2020math530floIndex{]}{]}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Homework\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBe2020math530refExr0nRetIndex{]}{]}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Etymology\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBe2020math530floLinalgEtymology{]}{]}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Numbers\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBe2020math530floNumbers{]}{]}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Groups\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBe2020math530refGroups{]}{]}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Fields\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBe20math530refField{]}{]}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Vectorspaces, subspaces, sums of spaces\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBe20math530refVectorSpace{]}{]} \#incomplete\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Bases\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBeRefLinAlgBases{]}{]}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Dimension\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+{[}{[}KBeRefLinAlgDimension{]}{]}\strut
+\end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
 

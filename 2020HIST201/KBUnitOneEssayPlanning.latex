@@ -1,0 +1,293 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Unit One Essay Planning }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1962)}}    % original
+%\rhead{\textrmlf{Compiled }\#1962\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1962\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{here-we-go-again.}{%
+\section{Here we go again.}\label{here-we-go-again.}}
+
+\hypertarget{prompt}{%
+\subsection{Prompt}\label{prompt}}
+
+\begin{verbatim}
+Essay option 1: In the early modern period, three of the four major power centers of the world unified under multi-ethnic, multi-religious empires (the Qing in East Asia, the Mughals in South Asia, and the Ottomans in the Middle East), while Europe remained politically fragmented into multiple, competitive independent states. Why was no European power able to unify their local state system the way the Asian land empires did? In a well-organized essay, answer this question by comparing Europe to any two of the above empires. Your essay should cite evidence from a variety of secondary sources from the unit pdf. A strong essay will use the sources as evidence for both specific historical events that demonstrate your thesis as well as for broader concepts and trends. All sources from the Unit 1 reader are fair game, including what we read before the last essay. 
+
+Essentially, why coudnt they centralize? Compare and contrast essay. 
+
+Essay option 2: According to Charles Tilly’s “bellicist” theory of state formation, states form to protect a territory from external threats. In the process of doing this (war-making), they develop the tools to eliminate internal rivals as well (state-making), and in order to fund these endeavours, they develop institutions like taxation to raise revenue from their territory (extraction). In order to maximize the wealth available for extraction and prevent property owners from needing private armies to protect themselves, the state establishes rule of law to protect property rights (protection). Using this theory as a starting point, compare state formation in two or three of the four regions we have studied (Europe, India, China, and the Middle East/North Africa): your goal should be to highlight an interesting contrast and pose a causal explanation for this contrast. Your essay should cite evidence from a broad variety of secondary sources from the unit pdf. A strong essay will use the sources as evidence for both specific historical events that demonstrate your thesis as well as for broader concepts and trends. All sources from the Unit 1 reader are fair game, including what we read before the last essay.
+
+
+\end{verbatim}
+
+\hypertarget{possible-topics}{%
+\subsection{Possible topics}\label{possible-topics}}
+
+\begin{itemize}
+\tightlist
+\item
+  Broa
+\item
+  Bellicist theory is \textbf{INCOMPLETE} (duhn duhn dunnnnn!)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Bellicist theory is about war, and discounts other forms of danger.
+    Should be danger (and maybe some accompanying changes instead of
+    war.
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Three paragraphs, three examples where other forms of danger
+      required state-making
+    \item
+      End with some conclusion about the concept of models / theories?
+    \end{itemize}
+  \item
+    To think about: what other things require state-making besides
+    war-making?
+  \item
+    Easy essay if I can get evidence
+  \end{itemize}
+\item
+  How does Bellicist theory incorporate trade?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Is this managed by the state?
+  \item
+    Only talks about interactions with other states if they are war.
+  \item
+    Does trade require state-made organization?
+  \end{itemize}
+\end{itemize}
+
+==\textless1AM-jots!\textgreater==
+
+Bellicist theory is incomplete
+
+\begin{itemize}
+\tightlist
+\item
+  Other forms of danger besides war require state-making
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Plauge
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Look at ottoman orthodox vs european new ways
+    \end{itemize}
+  \item
+    Ideological
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Religon?
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Religon is effective way to control people, but religion can get
+        threatened.
+      \end{itemize}
+    \end{itemize}
+  \item
+    Income / profit
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Silver inflation from Spain and stuff
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+Bellicist theory: war making doesnt directly lead to statemaking. War
+making leads to need for statemaking which leads to statemaking or
+collapse.
+
+This is an imporant distinction that must be made \{becuaseeeeeee\}
+
+it allows us to say things that threaten the state lead to state making,
+effectively :)
+
+The nesscecity for the state leads to its creating. Ie. if the state
+gets hit, and its power is decreased, the cause of the hit can still be
+counted as an equivalent to war-making.
+
+==\textless/1AM-jots!\textgreater==
+
+\end{document}

@@ -1,0 +1,287 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Products of Vector Spaces (Axler3.E) }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6790)}}    % original
+%\rhead{\textrmlf{Compiled }\#6790\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6790\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{product-of-vector-spaces}{%
+\section{\texorpdfstring{product of vector spaces
+{\textsc{def}}}{product of vector spaces def}}\label{product-of-vector-spaces}}
+
+\begin{quote}
+Suppose \(V_1, \ldots, V_m\) are vector spaces over \(\mathbb F\)
+
+\begin{itemize}
+\tightlist
+\item
+  The \emph{product}
+  \(V_1 \times \cdots \times V_m = \left\{(v_1, \ldots, v_m) : v_1 \in V_1, \ldots, v_m \in V_m\right\}\)
+\item
+  Addition on \(V_1 \times \cdots \times V_m\) is defined as
+  \[ (u_1, \ldots, u_m) + (v_1, \ldots, v_m) = (u_1+v_1, \ldots, u_m+v_m) \]
+\item
+  Scalar multiplication on \(V_1 \times \cdots \times V_m\) is defined
+  by
+  \[ \lambda (v_1, \ldots, v_m) = (\lambda v_1, \ldots, \lambda v_m) \]
+\end{itemize}
+\end{quote}
+
+\hypertarget{careful}{%
+\subsection{careful}\label{careful}}
+
+\hypertarget{product-of-multiple-vector-spaces-not-just-two}{%
+\subsubsection{product of multiple vector spaces (not just
+two)}\label{product-of-multiple-vector-spaces-not-just-two}}
+
+\begin{enumerate}
+\item
+  similar to how sums/direct sums are not just sums of a pair but rather
+  sums of a list
+\end{enumerate}
+
+\hypertarget{properties}{%
+\subsection{properties}\label{properties}}
+
+\hypertarget{addition-has-to-be-over-applicable-products}{%
+\subsubsection{addition has to be over applicable
+products}\label{addition-has-to-be-over-applicable-products}}
+
+\(v_i \in V_i + u_i \in U_i\) must exist for each \(1 \le i \le m\) for
+the sum
+\((V_i \times \cdots \times V_m) + (U_i \times \cdots \times U_m)\)
+
+\hypertarget{results}{%
+\subsection{results}\label{results}}
+
+\hypertarget{axler3.73-product-of-vector-spaces-is-a-vector-space}{%
+\subsubsection{Axler3.73 product of vector spaces is a vector
+space}\label{axler3.73-product-of-vector-spaces-is-a-vector-space}}
+
+If vector spaces in a product are over \(\mathbb F\), then their product
+is a vector space over \(\mathbb F\).
+
+\begin{enumerate}
+\item
+  Proof {\textsc{proof}}
+
+  \begin{enumerate}
+  \item
+    commutativity, associativity inherited from \(\mathbb F\)
+  \item
+    additive identity, additive inverse, multiplicative identity
+    inherited separataely from each space (they don't interact)
+  \item
+    distributive should be inherited?
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{axler3.76-dimension-of-a-product-is-the-sum-of-dimensions}{%
+\subsubsection{Axler3.76 Dimension of a product is the sum of
+dimensions}\label{axler3.76-dimension-of-a-product-is-the-sum-of-dimensions}}
+
+Because you can concatenate the bases from each and fill the others with
+zero to form the basis of the product
+
+\hypertarget{products-of-direct-sums}{%
+\section{products of direct sums}\label{products-of-direct-sums}}
+
+\hypertarget{a-map-gamma-u_1-times-cdots-times-u_m-to-u_1-cdots-u_m-s.t.-gammau_1-ldots-u_m-u_1-cdots-u_m-is-surjective-by-definition-and-injectivebijective-iff-u1-um-is-a-direct-sum}{%
+\subsection{\texorpdfstring{A map
+\(\Gamma : U_1 \times \cdots \times U_m \to U_1 + \cdots + \U_m\) s.t.
+\(\Gamma(u_1, \ldots, u_m) = u_1 + \cdots + u_m\) is surjective by
+definition, and injective/bijective iff U\textsubscript{1} + ⋯ +
+U\textsubscript{m} is a direct
+sum}{A map \textbackslash Gamma : U\_1 \textbackslash times \textbackslash cdots \textbackslash times U\_m \textbackslash to U\_1 + \textbackslash cdots + \textbackslash U\_m s.t. \textbackslash Gamma(u\_1, \textbackslash ldots, u\_m) = u\_1 + \textbackslash cdots + u\_m is surjective by definition, and injective/bijective iff U1 + ⋯ + Um is a direct sum}}\label{a-map-gamma-u_1-times-cdots-times-u_m-to-u_1-cdots-u_m-s.t.-gammau_1-ldots-u_m-u_1-cdots-u_m-is-surjective-by-definition-and-injectivebijective-iff-u1-um-is-a-direct-sum}}
+
+Basically if it is a direct sum, then nothing can interact with
+eachother and therefore the map will be injective. If it is injective,
+then nothing interacts and it must be a direct sum.
+
+\hypertarget{a-sum-is-a-direct-sum-iff-the-dimensions-add-up}{%
+\section{A sum is a direct sum iff the dimensions add
+up}\label{a-sum-is-a-direct-sum-iff-the-dimensions-add-up}}
+
+\hypertarget{a-sum-u_1-cdots-u_m-is-a-direct-sum-iff-textdim-u_1-cdots-u_m-textdim-u_1-cdots-textdim-u_m}{%
+\subsection{\texorpdfstring{A sum \(U_1 + \cdots + U_m\) is a direct sum
+iff
+\(\text{dim} (U_1 + \cdots + U_m) == \text{dim} U_1 + \cdots + \text{dim} U_m\)}{A sum U\_1 + \textbackslash cdots + U\_m is a direct sum iff \textbackslash text\{dim\} (U\_1 + \textbackslash cdots + U\_m) == \textbackslash text\{dim\} U\_1 + \textbackslash cdots + \textbackslash text\{dim\} U\_m}}\label{a-sum-u_1-cdots-u_m-is-a-direct-sum-iff-textdim-u_1-cdots-u_m-textdim-u_1-cdots-textdim-u_m}}
+
+\hypertarget{intuition}{%
+\subsection{intuition}\label{intuition}}
+
+\hypertarget{if-the-dimensions-didnt-add-up-then-something-was-canceled-somewhere.-since-they-do-everything-contributed}{%
+\subsubsection{if the dimensions didn't add up, then something was
+canceled somewhere. Since they do, everything
+contributed}\label{if-the-dimensions-didnt-add-up-then-something-was-canceled-somewhere.-since-they-do-everything-contributed}}
+
+\end{document}

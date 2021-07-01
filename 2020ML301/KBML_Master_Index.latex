@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1742)}}    % original
+%\rhead{\textrmlf{Compiled }\#1742\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1742\textrmlf{ on} \today}       % new date
 \lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -174,6 +176,7 @@
 
 {[}{[}KBML\_Day\_One{]}{]} Day one
 {[}{[}KBTypes\_of\_Machine\_Learning{]}{]} Types of ML
-{[}{[}KBLinierRegression{]}{]}
+{[}{[}KBLinierRegression{]}{]} {[}{[}KBValidation{]}{]}
+{[}{[}KBValidationPB{]}{]}
 
 \end{document}

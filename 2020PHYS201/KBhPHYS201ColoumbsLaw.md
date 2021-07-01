@@ -7,7 +7,7 @@ source: KBhPHYS201IntroToElectrostaticsLN
 
 # Coulomb's Law
 
-![Screen Shot 2020-08-24 at 7.40.48 PM.png](./2020PHYS201/Screen Shot 2020-08-24 at 7.40.48 PM.png)
+![Screen Shot 2020-08-24 at 7.40.48 PM.png](./Screen Shot 2020-08-24 at 7.40.48 PM.png)
 
 * Electrical forces gets stronger as charge increases
 * Electrical forces gets weaker as charge decreases
@@ -40,7 +40,7 @@ Special care must be taken for solving these problems w.r.t. to both vector dire
 
 ## Here's something! DNA Replication
 
-![Screen Shot 2020-08-24 at 8.20.15 PM.png](./2020PHYS201/Screen Shot 2020-08-24 at 8.20.15 PM.png)
+![Screen Shot 2020-08-24 at 8.20.15 PM.png](./Screen Shot 2020-08-24 at 8.20.15 PM.png)
 
 The question is… Between these four atoms, _how many do we need to calculate to find if these two repel or attract?_
 

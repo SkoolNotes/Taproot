@@ -1,0 +1,381 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Algebra with Integrals }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11431)}}    % original
+%\rhead{\textrmlf{Compiled }\#11431\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{general-trends}{%
+\section{general trends}\label{general-trends}}
+
+\hypertarget{split-fractions}{%
+\subsection{split fractions}\label{split-fractions}}
+
+Always consider splitting sums of fractions \[\begin{aligned}
+   \int \frac{a+b}{c} dx = \int \frac{a}{c} dx +\int \frac{b}{c} dx
+   \end{aligned}\]
+
+\hypertarget{pull-out-constant-factors}{%
+\subsection{pull out constant factors}\label{pull-out-constant-factors}}
+
+\[\begin{aligned}
+   \int af(x) dx = a \int f(x) dx
+   \end{aligned}\]
+
+\hypertarget{additive}{%
+\section{additive}\label{additive}}
+
+\[\begin{aligned}
+  \int f(x) + g(x) dx = \int f(x) dx  + \int g(x) dx
+  \end{aligned}\]
+
+\hypertarget{change-of-lower-bound}{%
+\section{change of lower bound}\label{change-of-lower-bound}}
+
+\[\begin{aligned}
+  \int_{a}^{b} f(x) dx + \int_{b}^{c} f(x) dx = \int_{a}^{c} f(x) dx\\
+  \implies \int_{a}^{x} f(t) dt = \int_{b}^{x} f(t) dt - \int_{a}^{b} f(t) dt
+  \end{aligned}\]
+
+\hypertarget{fundamental-theorem-of-calculus}{%
+\section{\texorpdfstring{\href{KBrefFundamentalTheoremOfCalculus.org}{fundamental
+theorem of
+calculus}}{fundamental theorem of calculus}}\label{fundamental-theorem-of-calculus}}
+
+\[\begin{aligned}
+  \int_{}^{} f'(x) dx = f(x) + C\\
+  \frac{d}{dx} \int_{}^{} f(x) dx = f(x)\\
+  \frac{d}{dx} \int_{a}^{x} f(t) dt = f(x)
+  \end{aligned}\]
+
+(second one doesn't have a \(+C\) because the derivative sends that to
+zero)
+
+\hypertarget{net-change-theorem}{%
+\section{net change theorem}\label{net-change-theorem}}
+
+\[\begin{aligned}
+  \int_{a}^{b} f'(x) dx = f(b) - f(a)\\
+  \frac{d}{dx}\int_{a}^{x} f(x) dx = f(x)\\
+  \int_{a}^{x} f'(x) dx = f(x) - f(a)\\
+  \end{aligned}\]
+
+\hypertarget{variable-bounds}{%
+\section{variable bounds}\label{variable-bounds}}
+
+\[\begin{aligned}
+  \frac{d}{dx}\int_{a}^{p(x)} f(x) dx = f(p(x))p'(x)\\
+  \int_{p(x)}^{q(x)} f(t)dt = \int_{0}^{q(x)} f(t)dt - \int_{0}^{p(x)} f(t)dt
+  \end{aligned}\]
+
+An example
+
+\[\begin{aligned}
+  k(x) = \int_{x^2}^{e^x} \sqrt{\sin t} dt = \int_{0}^{e^x} \sqrt{\sin t}dt - \int_{0}^{x^2} \sqrt{\sin t} dt\\
+  k'(x) = \sqrt{\sin e^x}e^x - 2x\sqrt{\sin x^2}
+  \end{aligned}\]
+
+\hypertarget{mean-value-theorem-for-integrals}{%
+\section{mean value theorem (for
+integrals)}\label{mean-value-theorem-for-integrals}}
+
+There exists some point \(c\) over an integrable interval \([a, b]\)
+s.t. \[\begin{aligned}
+  f(c) = \frac{1}{b-a}\int_{a}^{b} f(x) dx
+  \end{aligned}\]
+
+\hypertarget{integration-rules}{%
+\section{integration rules}\label{integration-rules}}
+
+\hypertarget{power-rule-for-integrals}{%
+\subsection{power rule for integrals}\label{power-rule-for-integrals}}
+
+\[\begin{aligned}
+   \int x^n dx = \frac{x^{n+1}}{n+1} +C
+   \end{aligned}\]
+
+\hypertarget{k-angle-formulas-for-sinusoids}{%
+\subsection{k-angle formulas for
+sinusoids}\label{k-angle-formulas-for-sinusoids}}
+
+\[\begin{aligned}
+   \int \sin kx dx &= - \frac{\cos kx}{k}\\
+   \int \cos kx dx &= \frac{\sin kx}{k}
+   \end{aligned}\]
+
+\hypertarget{for-sin-2x-or-cos-2x}{%
+\subsubsection{\texorpdfstring{for \(\sin ^2x\) or
+\(\cos ^2x\),}{for \textbackslash sin \^{}2x or \textbackslash cos \^{}2x,}}\label{for-sin-2x-or-cos-2x}}
+
+Try to get a double angle using the \(\cos 2x\) identities.
+
+\hypertarget{for-a-product-of-sin-x-cos-x-or-similar}{%
+\subsubsection{\texorpdfstring{for a product of \(\sin x \cos  x\) or
+similar,}{for a product of \textbackslash sin x \textbackslash cos  x or similar,}}\label{for-a-product-of-sin-x-cos-x-or-similar}}
+
+Use the double angle identity for \(\sin 2x = 2 \sin x \cos  x\).
+
+\hypertarget{for-sec-x-and-tan-x}{%
+\subsubsection{\texorpdfstring{for \(\sec x\) and
+\(\tan x\),}{for \textbackslash sec x and \textbackslash tan x,}}\label{for-sec-x-and-tan-x}}
+
+We know their derivatives contain themselves, so we can look for
+something cyclic.
+
+For example,
+
+\[\begin{aligned}
+    \int \sec x dx &= \int \sec x \frac{\sec  x + \tan  x}{\sec x+\tan x} dx \\
+    &= \int \frac{\sec ^2x + \sec x \tan x}{\sec x+\tan x} dx \\
+    \end{aligned}\]
+
+Let \(u = \sec x+\tan x\), \(du = \sec x\tan x + \sec ^2x\)
+
+\[\begin{aligned}
+    \int \sec x dx &= \int \frac{du}{u} dx \\
+    &= \int \frac{1}{u} du\\
+    &= \ln | u | \\
+    &= \ln | \sec x+\tan x|
+    \end{aligned}\]
+
+\hypertarget{u-substitution-on-products-chain-rule}{%
+\subsection{u-substitution (on products, chain
+rule)}\label{u-substitution-on-products-chain-rule}}
+
+if it happens to work: \[\begin{aligned}
+   \int f'(g(x)) g'(x)dx = f(g(x)) + C
+   \end{aligned}\]
+
+an example:
+
+\[\begin{aligned}
+   \int 2x \sin (x^2) dx\\
+   \end{aligned}\] Let \(u = x^2\) and \(du = frac{du}{dx} dx = 2x dx\)
+
+\[\begin{aligned}
+   \int \sin x^2 2x dx &= \int \sin u du\\
+   &= -\cos (u) +C\\
+   &= -\cos (x^2) +C
+   \end{aligned}\]
+
+\hypertarget{integration-by-parts-on-products-product-rule}{%
+\subsection{integration by parts (on products, product
+rule)}\label{integration-by-parts-on-products-product-rule}}
+
+\[\begin{aligned}
+   &\frac{d}{dx}f(x)g(x) &=& f'(x)g(x) + g'(x)f(x)\\
+   &\int \frac{d}{dx}f(x)g(x) dx &=& \int  f'(x)g(x) + g'(x)f(x) dx\\
+   &f(x)g(x)+C &=& \int f'(x)g(x) dx + \int g'(x)f(x) dx\\
+   \implies & \int f'(x)g(x) dx &=& f(x)g(x) - \int g'(x)f(x) dx +C
+   \end{aligned}\]
+
+\hypertarget{tips}{%
+\subsubsection{tips}\label{tips}}
+
+\begin{enumerate}
+\item
+  can use \(1\) as the other part of the product
+\end{enumerate}
+
+\hypertarget{a-graphical-representation}{%
+\subsubsection{\texorpdfstring{{TODO} a graphical
+representation}{TODO a graphical representation}}\label{a-graphical-representation}}
+
+Imagine graphing \(f(g(x))\) as a function of \(f(x)\) and \(g(x)\).
+Then, for some interval on \(g(x)\), the bounding rectangle has area
+\(fg(x)\), the area under the curve is \(\int TODO dx\)
+
+\hypertarget{tabular-technique}{%
+\subsubsection{tabular technique}\label{tabular-technique}}
+
+Just syntactic sugar for integral by parts repeatedly (eg. when you have
+a power function \(x^n\) multiplied by eg. \(a^bx\)). It has to be a
+case where one of the functions has a derivative that goes to zero (a
+power function).
+
+Take repeated derivatives on the left (with the power function) and take
+repeated integrals to the right. Match up the entries in the table, and
+alternate negatives and positives to expand the integration by parts
+relatively quickly.
+
+\end{document}

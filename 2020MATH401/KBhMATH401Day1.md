@@ -21,7 +21,7 @@ source: KBhMATH401SubIndex
 * One graded assignments every two weeks or so
 
 Textbooks:
-![Screen Shot 2020-08-24 at 1.11.22 PM.png] #brokelink (/Users/houliu/Downloads/Screen Shot 2020-08-24 at 1.11.22 PM.png)
+![Screen Shot 2020-08-24 at 1.11.22 PM.png](./Screen Shot 2020-08-24 at 1.11.22 PM.png)
 
 ***
 

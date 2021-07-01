@@ -1,0 +1,339 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ENG201 }
+\newcommand{\thelesson}{ English graded discussion prep }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1983)}}    % original
+%\rhead{\textrmlf{Compiled }\#1983\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1983\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhENG201HeartOfHardness}{\tiny\textulf{[[}\textbf{KBhENG201HeartOfHardness}\textulf{]]}}}\thinspace
+
+\hypertarget{english-graded-discussion-prep}{%
+\section{English graded discussion
+prep}\label{english-graded-discussion-prep}}
+
+\hypertarget{quote-bin}{%
+\subsection{Quote bin}\label{quote-bin}}
+
+\textbf{Page Numbers}: 16, 42, 43, 44, 46, 47, 51, 60
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Begin here:
+
+\hypertarget{jacks-intro-0-1}{%
+\subsection{Jack's Intro 0-1}\label{jacks-intro-0-1}}
+
+How does Marlow's inner perspective come into dialog with the darkness
+along his journey?
+
+Can we look beyond his perspective of the darkness?
+
+This asks two questions. What does Marlow's language reveal to us about
+his journey and how, ultimately, does his internalities reveals?
+
+Two stances: Marlow Brings Darkness, or Marlow Sees Darkness
+
+\hypertarget{the-discussion}{%
+\subsection{The Discussion}\label{the-discussion}}
+
+The leader's job is to ``moderate'' the two others; others, DO NOT
+ADVANCE THE ARGUMENT. Let the leader do it.
+
+Bounce off ideas, and repeat/reply/clarify/ask questions. Feel free to
+bud in.
+
+\hypertarget{ryans-opening-marlows-perspective-brings-darkness-1-5}{%
+\subsubsection{Ryan's Opening --- Marlow's Perspective brings Darkness
+1-5}\label{ryans-opening-marlows-perspective-brings-darkness-1-5}}
+
+\begin{itemize}
+\tightlist
+\item
+  Initially, Ryan believes that it is difficult to see beyond Marlow's
+  perspective
+\item
+  Story is from his perspective =\textgreater{} so, of course, its
+  Marlow that welds the darkness!
+\item
+  However, it is possible to gauge the darkness by analyzing the dialog
+  with other characters to find their perspectives to find out what they
+  say
+\item
+  Issue! only perspectives we get is through European colonists is
+  ultimately biased
+
+  \begin{itemize}
+  \tightlist
+  \item
+    We mostly get European views
+  \item
+    And the two times a native speaks, its\ldots{}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      ``Eat 'im''
+    \item
+      "and Mistah Kurtz, He Dead
+    \end{itemize}
+  \item
+    Because we only have two instances --- and they are gramatically
+    incoherent sentences --- can't accurately gauge the darkness through
+    non-marlow
+  \item
+    Mention Acheobe
+  \end{itemize}
+\end{itemize}
+
+\textbf{CONFLIGHT! line} There is possibility to gauge darkness of land
+through simply analyzing the environment to take it as it is from
+objective language of Marlow.
+
+\hypertarget{zach-darkness-already-present-5-9}{%
+\subsubsection{Zach --- Darkness already present
+5-9}\label{zach-darkness-already-present-5-9}}
+
+\begin{itemize}
+\tightlist
+\item
+  Both his environment and himself is dark
+\item
+  Surroundings are already dark b/c of Europeans
+\item
+  Find quotes about
+
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi}.}
+  \tightlist
+  \item
+    People dying; people chained together
+  \item
+    How that influence marlow's view, before and after
+  \end{enumerate}
+\item
+  Provide transition: there are unseen dark properties of his
+  environment that he does not see; why?
+\item
+  \textbf{Some analysis} It does not really seem to darken Marlow ---
+  why is he not affected? Oh! Right! Because\ldots{} MARLOW IS A BLOODY
+  RACIST!
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Undereacts to black people dying next to him
+  \item
+    Compared to to like\ldots{} Kurtz dying, or his Helmsmen dying ---
+    lots of ceremony and discussion
+  \end{itemize}
+\item
+  Marlow bloody racist =\textgreater{} dosen't see some darkness
+\end{itemize}
+
+\textbf{CONFLIGHT!} Maybe Marlow's racist lens could be looked at from
+the opposite way! Darkness is, actually, everywhere\ldots{}
+
+\hypertarget{jack-the-darkness-was-always-there-bc-europeans-but-marlows-perspective-also-is-a-contributor-to-it.-9-12}{%
+\subsubsection{Jack --- the darkness was always there (b/c Europeans),
+but Marlow's perspective also is a contributor to it.
+9-12}\label{jack-the-darkness-was-always-there-bc-europeans-but-marlows-perspective-also-is-a-contributor-to-it.-9-12}}
+
+\begin{itemize}
+\tightlist
+\item
+  Darkness is \textbf{everywhere} --- even on the Thems (pg 5) --- but
+  Marlow could only percieve the darkness that he choose to percieve.
+  Marlow does not bring darkness, and Marlow does not see Darknss in
+  Africa. Darkness is everywhere and it is just what Marlow's perception
+  illustrates
+\item
+  Hell example 43 --- language of hell, except language actually just
+  show reality
+\item
+  pg 50 --- he chose to not see darkne
+\item
+  ``The earth seemed unearthly. we are accustomed \ldots{} but here---
+  you could look at a thing mostrous and free'': indeed, Marlow
+  admitting that perception shaped his senses --- racist marlow labels
+  africa as moster, and chooses to see it here.
+\item
+  Then realized that, if there were to be an example, a place to show
+  the objective example of the darkness, we could get another
+  perspective potentially through convos he has with other people to
+  pick up on things that they have said
+\end{itemize}
+
+Saliant points for Jack:
+
+\begin{itemize}
+\tightlist
+\item
+  Thems: 5
+\item
+  Hell: 43/44
+\item
+  Cannibals: 49 bottom
+\item
+\end{itemize}
+
+\end{document}

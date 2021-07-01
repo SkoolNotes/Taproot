@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title>  Handout 19 responses: fundamental theorem of calculus </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong></strong> Handout 19 responses: fundamental theorem of calculus </span></div>
+        </div>
+        <div id="center-viewport">
+            <h1 id="let-fx-int_0x-ft-dt">Let <span class="math inline">\(F(x) = \int_{0}^{x} f(t) dt\)</span></h1>
+            <h2 id="complete-the-table">complete the table</h2>
+            <table>
+            <tbody>
+            <tr class="odd">
+            <td style="text-align: left;">x</td>
+            <td style="text-align: left;">0</td>
+            <td style="text-align: left;">1</td>
+            <td style="text-align: left;">2</td>
+            <td style="text-align: left;">3</td>
+            <td style="text-align: left;">4</td>
+            </tr>
+            <tr class="even">
+            <td style="text-align: left;">F(x)</td>
+            <td style="text-align: left;"><span class="math inline">\(0\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\frac{4}{3}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\frac{8}{3}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\frac{4}{3}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(0\)</span></td>
+            </tr>
+            </tbody>
+            </table>
+            <h2 id="sketch-the-function">sketch the function</h2>
+            <p><img src="KBe21math401ret19src1b.png" alt="image" /></p>
+            <h1 id="gx-int_2x-ft-dt"><span class="math inline">\(G(x) = \int_{2}^{x} f(t) dt\)</span></h1>
+            <h2 id="complete-the-table-1">complete the table</h2>
+            <table>
+            <tbody>
+            <tr class="odd">
+            <td style="text-align: left;">x</td>
+            <td style="text-align: left;">0</td>
+            <td style="text-align: left;">1</td>
+            <td style="text-align: left;">2</td>
+            <td style="text-align: left;">3</td>
+            <td style="text-align: left;">4</td>
+            </tr>
+            <tr class="even">
+            <td style="text-align: left;">G(x)</td>
+            <td style="text-align: left;"><span class="math inline">\(-\frac{8}{3}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(-\frac{4}{3}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(0\)</span></td>
+            <td style="text-align: left;">-<span class="math inline">\(\frac{4}{3}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(-\frac{8}{3}\)</span></td>
+            </tr>
+            </tbody>
+            </table>
+            <h2 id="sketch-the-function-1">sketch the function</h2>
+            <p><img src="KBe21math401ret19src2b.png" alt="image" /></p>
+            <h1 id="hx-int_4x-ft-dt"><span class="math inline">\(H(x) = \int_4^x f(t) dt\)</span></h1>
+            <h2 id="complete-the-table-2">complete the table</h2>
+            <table>
+            <tbody>
+            <tr class="odd">
+            <td style="text-align: left;">x</td>
+            <td style="text-align: left;">0</td>
+            <td style="text-align: left;">1</td>
+            <td style="text-align: left;">2</td>
+            <td style="text-align: left;">3</td>
+            <td style="text-align: left;">4</td>
+            </tr>
+            <tr class="even">
+            <td style="text-align: left;">H(x)</td>
+            <td style="text-align: left;"><span class="math inline">\(0\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\frac{4}{3}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\frac{8}{3}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\frac{4}{3}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(0\)</span></td>
+            </tr>
+            </tbody>
+            </table>
+            <h2 id="sketch-the-function-2">sketch the function</h2>
+            <p>same as 1b</p>
+            <h1 id="complete-the-table-3">complete the table</h1>
+            <table>
+            <tbody>
+            <tr class="odd">
+            <td style="text-align: left;"></td>
+            <td style="text-align: left;"><span class="math inline">\(F(x)\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(G(x)\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(H(x)\)</span></td>
+            </tr>
+            <tr class="even">
+            <td style="text-align: left;">maximum</td>
+            <td style="text-align: left;">4n+2</td>
+            <td style="text-align: left;"></td>
+            <td style="text-align: left;"></td>
+            </tr>
+            <tr class="odd">
+            <td style="text-align: left;">minimum</td>
+            <td style="text-align: left;">4n</td>
+            <td style="text-align: left;"></td>
+            <td style="text-align: left;"></td>
+            </tr>
+            <tr class="even">
+            <td style="text-align: left;">increases</td>
+            <td style="text-align: left;"><span class="math inline">\(4n, 4n+2\)</span></td>
+            <td style="text-align: left;"></td>
+            <td style="text-align: left;"></td>
+            </tr>
+            <tr class="odd">
+            <td style="text-align: left;">decreases</td>
+            <td style="text-align: left;"><span class="math inline">\(4n-2, 4n\)</span></td>
+            <td style="text-align: left;"></td>
+            <td style="text-align: left;"></td>
+            </tr>
+            </tbody>
+            </table>
+            <p>The other columns are the same, because <span class="math inline">\(H(x) = F(x)\)</span> and <span class="math inline">\(G(x) = H(x)-\frac{8}{3}\)</span>.</p>
+            <h1 id="why-does-it-work-over-the-entire-domain">why does it work over the entire domain?</h1>
+            <p>The argument for each cell is the same: it should work across the domain because those are the points where the derivative of <span class="math inline">\(F(x)\)</span> (which is <span class="math inline">\(f(x)\)</span>) is zero and function is periodic.</p>
+            <p><span class="math inline">\(F(x)\)</span> increases when <span class="math inline">\(f(x)\)</span> is positive.</p>
+            <h1 id="family-of-functions">family of functions</h1>
+            <p>Changing the ’zero point’ of the derivative just shifts the graph up and down, by up to the range of the function.</p>
+            <h1 id="sketching-more-functions">sketching more functions</h1>
+            <h2 id="f_1x-int_x0-ft-dt"><span class="math inline">\(F_1(x) = \int_{x}^{0} f(t) dt\)</span></h2>
+            <p><span class="math inline">\(F(x)\)</span> but reflected across the x-axis (negated)</p>
+            <h2 id="f_2x-int_0x-f-t-dt"><span class="math inline">\(F_2(x) = \int_{0}^{x} f(-t) dt\)</span></h2>
+            <p><span class="math inline">\(f\)</span> is an odd function so <span class="math inline">\(f(-t) = -f(t)\)</span> so <span class="math inline">\(F_2 = F_1\)</span></p>
+            <h2 id="f_3x-int_02x-ft-dt"><span class="math inline">\(F_3(x) = \int_{0}^{2x} f(t) dt\)</span></h2>
+            <p><span class="math inline">\(F_3(x) = F(2x)\)</span> which is a parent function transformation which compresses the graph along the x-axis.</p>
+            <h2 id="f_4x-int_0x-ft-dt"><span class="math inline">\(F_4(x) = \int_{0}^{x} f(|t|) dt\)</span></h2>
+            <p>For <span class="math inline">\(x \ge 0\)</span>, <span class="math inline">\(F_4(x) = F(x)\)</span>. However, for <span class="math inline">\(x &lt; 0\)</span>, the function will be the negative of the <span class="math inline">\(x\geq 0\)</span> case because the integral is from right to left.</p>
+            <p><img src="KBe21math401ret19src7d.png" alt="image" /></p>
+            <h2 id="f_5x-int_0x-ft-dt"><span class="math inline">\(F_5(x) = \int_{0}^{x} |f(t)| dt\)</span></h2>
+            <p>Instead of being a periodic function, this function will be even (all the decreasing parts of <span class="math inline">\(F(x)\)</span> become increasing with the same shape)</p>
+            <p><img src="KBe21math401ret19src7e.png" alt="image" /></p>
+            <h1 id="derivatives-of-integral-functions">derivatives of integral functions</h1>
+            <h2 id="fx-int_-1x2-sint3-1-dt"><span class="math inline">\(F(x) = \int_{-1}^{x^2} \sin(t^3-1) dt\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+               f(x) &amp;= \int_{-1}^{x} \sin(t^3-1) dt\\
+               F(x) &amp;= f(x^2)\\
+               \frac{d}{dx}F(x) &amp;= \frac{d}{dx}f(x^2)\\
+               &amp;= f&#39;(x^2)(2x)\\
+               &amp;= 2x \sin (x^{2^3}-1)
+               \end{aligned}\]</span></p>
+            <h2 id="fx-int_02x-lnt-3-dt"><span class="math inline">\(F(x) = \int_{0}^{2x} \ln(t-3) dt\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+               \frac{d}{dx}\left( \int_{0}^{2x} \ln(t-3) dt\right) &amp;= 2 \frac{d}{dx}\int_{0}^{2x} \ln(t-3)dt\\
+               &amp;= 2 \ln(2x-3)
+               \end{aligned}\]</span></p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

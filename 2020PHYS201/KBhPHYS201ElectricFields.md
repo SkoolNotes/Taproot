@@ -64,7 +64,7 @@ See [[KBhPHYS201Voltage]]
 ## An now, something interesting
 Take, a neutral conductor.
 
-![Screen Shot 2020-08-24 at 9.44.46 PM.png](./2020PHYS201/Screen Shot 2020-08-24 at 9.44.46 PM.png)
+[Screen Shot 2020-08-24 at 9.44.46 PM.png](./Screen Shot 2020-08-24 at 9.44.46 PM.png)
 
 At the point of the cursor, there would be an electric field cause by the central charge going outwards; at which point the following will happen…
 

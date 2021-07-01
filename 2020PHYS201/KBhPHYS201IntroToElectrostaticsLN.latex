@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3786)}}    % original
+%\rhead{\textrmlf{Compiled }\#3786\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3786\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -270,5 +272,24 @@ To see how we could do this, and how it relates to electrostatics, see
 \section{Electric Fields}\label{electric-fields}}
 
 See {[}{[}KBhPHYS201ElectricFields{]}{]} Electric Fields.
+
+\hypertarget{applications-of-electrostatics}{%
+\section{Applications of
+Electrostatics}\label{applications-of-electrostatics}}
+
+\hypertarget{van-de-graff-generator}{%
+\subsection{Van de Graff Generator}\label{van-de-graff-generator}}
+
+See {[}{[}KBhPHYS201VanDeGraff{]}{]}
+
+\hypertarget{lazer-printers}{%
+\subsection{Lazer Printers}\label{lazer-printers}}
+
+See {[}{[}KBhPHYS201LazerPrinters{]}{]}
+
+\hypertarget{resistance-and-current}{%
+\section{Resistance and Current}\label{resistance-and-current}}
+
+See {[}{[}KBhPHYS201ResistanceConductivity{]}{]}
 
 \end{document}

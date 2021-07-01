@@ -1,0 +1,93 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Conjugate Transpose},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{Conjugate Transpose}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\hypertarget{axler7.8-conjugate-transpose}{%
+\section{\texorpdfstring{Axler7.8 conjugate transpose
+{\textsc{def}}}{Axler7.8 conjugate transpose def}}\label{axler7.8-conjugate-transpose}}
+
+\begin{quote}
+The \emph{conjugate transpose} of an \(m\)-by-\(n\) matrix is the
+\(n\)-by-\(m\) matrix obtained by taking the transpose then the complex
+conjugate of each entry.
+\end{quote}
+
+If \(\mathbb{F} = \mathbb{R}\) then the conjugate transpose is just the
+transpose.
+
+\hypertarget{axler7.10-the-matrix-of-t-adjoint}{%
+\section{\texorpdfstring{Axler7.10 The matrix of \(T^*\)
+(\href{KBrefAdjoints.org}{adjoint})}{Axler7.10 The matrix of T\^{}* (adjoint)}}\label{axler7.10-the-matrix-of-t-adjoint}}
+
+\begin{quote}
+Let \(T \in  \mathcal{L}(V, W)\). Suppose \(e_1, \ldots, e_n\) is an
+orthonormal basis of \(V\) and \(f_1, \ldots, f_m\) is an orthonormal
+basis of \(W\). Then, \[\begin{aligned}
+\mathcal{M}(T^*, (f_1, \ldots, f_m), (e_1, \ldots, e_n))
+\end{aligned}\]
+
+is the \emph{conjugate transpose} of
+
+\[\begin{aligned}
+\mathcal{M}(T, (e_1, \ldots, e_n), (f_1, \dots, f_m))
+\end{aligned}\]
+\end{quote}
+
+However, since \textbf{this only works with orthonormal bases}, Axler
+decided to focus on adjoints instead of conjugate transposes. (but they
+are the same thing under orthonormal bases).
+
+\end{document}

@@ -1,0 +1,511 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3138)}}    % original
+%\rhead{\textrmlf{Compiled }\#3138\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3138\textrmlf{ on} \today}       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+-\/-\/- author: Exr0n title: 20hist201 Unit 1 Essay Outline source:
+context: 20hist201 -\/-\/-
+
+\href{./KBe20hist201Unit1Essay.md}{file:./KBe20hist201Unit1Essay.md}
+
+e\#+TITLE: 20hist201 Unit 1 Essay Outline e\#+AUTHOR: Exr0n e\#+CONTEXT:
+20hist201
+
+This is attempt 9
+
+\hypertarget{writing}{%
+\section{Writing}\label{writing}}
+
+See \emph{KBe20hist201retUnit1EssayDraft}
+
+\hypertarget{thesis-ideas-intro}{%
+\section{Thesis Ideas + intro}\label{thesis-ideas-intro}}
+
+``kennedy said that the ming and the ottomans suffered the same
+downfall, and while they did both ultamately struggle due to spanish
+silver inflation and european traders, the inflationary loop started
+with emperors in ming china while the ottomans just kinda got stomped +
+janissaries weren't vere patriotic''
+
+Although the economies of both the Ottoman and Ming empires suffered due
+to spiraling inflation and European trade, their misfortunes were not as
+similar as Kennedy suggests: the Ottomans' overstretched military was
+undermined by Europeans trading silver while the Mings' internal
+inflationary spiral forced trade with and ultimately destruction by
+Europeans.
+
+\begin{itemize}
+\tightlist
+\item
+  Ottoman military structure: cavalry with fixed wages and jannisarries
+  with guns
+\item
+  wokou and smuggling silver trade
+\end{itemize}
+
+\hypertarget{body-1-choice-a}{%
+\section{Body 1 Choice A}\label{body-1-choice-a}}
+
+\hypertarget{topic}{%
+\subsection{Topic}\label{topic}}
+
+Kennedy said the ming and the ottomans suffered the same downfall due to
+centralization and economic troubles.
+
+\hypertarget{evidence}{%
+\subsection{Evidence}\label{evidence}}
+
+\begin{itemize}
+\tightlist
+\item
+  "{[}The ottomans{]} were to falter {[}...{]} strikingly similar Ming
+  decline" (Kennedy 11)
+\item
+  "The system as a whole, like that of Ming China, increasingly suffered
+  from some of the defects of being centralized, despotic, and severely
+  orthodox in it's attitude toward initiative dissent, and commerce."
+  (Kennedy 11)
+\end{itemize}
+
+\hypertarget{dislike-trade-similarities}{%
+\subsubsection{"dislike trade"
+similarities}\label{dislike-trade-similarities}}
+
+\begin{itemize}
+\tightlist
+\item
+  "Merchants ant entrepreneurs (nearly all of whom were foreigners), who
+  earlier had been encouraged, now found themselves subject to
+  unpredictable taxes and outright seizures of property" (Kennedy 12)
+\item
+  "The mandarins {[}had{]} a suspicion of trader" (Kennedy 8)
+\item
+  "{[}The mandarins{]} dislike of commerce and private capital
+  {[}...{]}" (Kennedy 8)
+\end{itemize}
+
+\hypertarget{body-1-choice-b}{%
+\section{Body 1 Choice B}\label{body-1-choice-b}}
+
+\hypertarget{topic-1}{%
+\subsection{Topic}\label{topic-1}}
+
+Both the Ming and Ottoman empires suffered from viscious cycles of
+economic weakness and civil unrest.
+
+\hypertarget{evidence-1}{%
+\subsection{Evidence}\label{evidence-1}}
+
+\hypertarget{ming}{%
+\subsubsection{Ming}\label{ming}}
+
+\begin{enumerate}
+\item
+  Mann inflation ming: civil unrest
+
+  \begin{itemize}
+  \tightlist
+  \item
+    "The entirely unsurprising result was a delirium of smuggling (if
+    business is outlawed, only outlaws will do business)." (Mann 128)
+  \item
+    1557 wokou struck back, "overwhelming all the resistence, the wokou
+    'abducted more than a thousdand people and burned more than a
+    thousand homes.'" (Mann 133)
+  \end{itemize}
+\item
+  Mann ming trade: unstable economy
+
+  \begin{itemize}
+  \tightlist
+  \item
+    "'Coins recieved in the morning couldn't be used by evening,'
+    explained a central-China gazetteer 1606." (Mann 137)
+  \item
+    "the preferred money flipped arbitrarily from one Song emperor to
+    another." (Mann 138)
+  \item
+    "To evaluate the {[}silvers'{]} purity, they used
+    {[}silvermasters{]}, who charged a fee for the evaluation and
+    routinely cheated all parties." (Mann 138)
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{ottomans}{%
+\subsubsection{Ottomans}\label{ottomans}}
+
+\begin{enumerate}
+\item
+  Military Economics
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The Ottoman military was originally made of cavlary, who
+    administered land and fought traditionally on horses, and
+    Jannasaries, who fought on foot with modern technology and lived off
+    wages. (Bulliet 490-1)
+  \item
+    As the number and cost of the Janissary corps grew, "the turkish
+    cavalry, which continued to disdain firearms, diminished". Then, the
+    government tried to get rid of them by slowly reducing the number of
+    landholding cavalrymen. (Bulliet 491)
+  \item
+    The Ottoman government tried to save funds in the seventeenth
+    century by abolishing the devshirme system, but the net increase in
+    Janassaries and their "steady deterioration as a military force more
+    than offset these savings". (Bulliet 491)
+  \end{itemize}
+\item
+  Civil unrest
+
+  \begin{itemize}
+  \tightlist
+  \item
+    "As the central government recovered control of the land, more and
+    more cavalrymen joined the ranks of dispossesed troopers. Students
+    and professors in the {[}religious colleges{]} similarly found it
+    impossible to live on fixed stipends." (Bulliet 491)
+  \item
+    "revolts that devastated Anatolia between 1590 and 1610 {[}caused
+    by{]} former landholding cavalrymen, short-term soldiers released at
+    the end of a campaign, peasants overburnedened by emergency taxes,
+    and even impoverished students of religion" (Bulliet 491)
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{body-2}{%
+\section{Body 2}\label{body-2}}
+
+\hypertarget{topic-2}{%
+\subsection{Topic}\label{topic-2}}
+
+Europeans used soft power to force the Ottoman empire into trading
+agreements that caused cripling inflation and corruption.
+
+\hypertarget{evidence-2}{%
+\subsection{Evidence}\label{evidence-2}}
+
+\hypertarget{trade-agreements}{%
+\subsubsection{Trade Agreements}\label{trade-agreements}}
+
+\begin{itemize}
+\tightlist
+\item
+  "The penetration of European {[}trade{]} and the eventual domination
+  of Ottoman commerce by Europeans {[}was{]} facilitated by a series of
+  commercial treaties, known as the Capitulations." (Cleaveland 50)
+\item
+  The first treaty allowed French merchants to trade freely in Ottoman
+  ports with minimal taxes, and allowed them to be punished under French
+  instead of Ottoman-Islamic law. (Cleaveland 50)
+\item
+  The treaties were originally negotiated to facilitate trade with the
+  militarily dominant Ottomans, but when the balance of hard power
+  shifted in favor of Europe, the foreign merchants were able to
+  "exploit the Capitulations to the disadvantage of the Ottomans".
+  (Cleveland 50)
+\item
+  "By granting the various consuls juristiction over their nationals
+  within the Ottoman Empire, the Capitulations accorded the consuls
+  extraordinary powers that they abused with increasing frequency."
+  (Cleveland 50)
+\item
+  "the said bailiff and consul shall be recieved and maintained in
+  proper authority so that each one of them may in his locality, and
+  without being hindered by any judge, cadi, soubashi, or other,
+  according to his faith and law, hear, udge, and determine all causes,
+  suits, and differences, both civil and criminal, which might arise
+  between merchants and other subjects of the King..." (Hurewitz 2-3)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Unsigned Draft of First Capitulation (1535) that "demonstrates the
+    sort of privileges sought by Europeans" (Cleveland 60)
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{inflation---government-weakening}{%
+\subsubsection{Inflation -\textgreater{} government
+weakening}\label{inflation---government-weakening}}
+
+\begin{itemize}
+\tightlist
+\item
+  "{[}The{]} wave of inflation worked its way east, contributing to
+  social disorder in the Ottoman Empire. European traders had more money
+  available than Ottoman merchants and could outbid them for scarce
+  commodities." The sudden devaluation of currency caused those living
+  off fixed wages, especially the students and cavalry, to lose their
+  livelihoods and revolt. (Bulliet 494)
+\item
+  "{[}Due to the inflation{]}, some {[}cavalry landholders{]} saw their
+  purchasing power decline so much that they could not report for
+  military service." This played into the government hands because the
+  government wanted to decrease it's reliance on the outdated
+  cavalrymen.(Bulliet 491)
+\item
+  In the late sixteenth century Ottoman raw materials were increasingly
+  traded for European products, which benefited merchants greatly but
+  hurt the government. As inflation skyrocketed, the state could no
+  longer pay it's military and "The Ottoman system {[}was{]}
+  undermined." (Cleaveland 49)
+\item
+  "The shortage of revenue and the rise of inflation had a devastating
+  effect on the large numbers of state employees on fixed salaries and
+  created an atmosphere that fostered bribery and other forms of
+  corruption." (Cleveland 50)
+\item
+  \textbf{The now unemployed cavalrymen helped fuel the civil unrest
+  ultamately weakening the military and government from the inside.}
+\end{itemize}
+
+\hypertarget{body-3}{%
+\section{Body 3}\label{body-3}}
+
+\hypertarget{topic-3}{%
+\subsection{Topic}\label{topic-3}}
+
+China opened up to European trade to reverse it's existing deflationary
+spiral, creating a European dependence on Chinese trade that ultamately
+incentivised it's destruction.
+
+\hypertarget{evidence-3}{%
+\subsection{Evidence}\label{evidence-3}}
+
+\hypertarget{silver-deflation}{%
+\subsubsection{Silver deflation}\label{silver-deflation}}
+
+\begin{itemize}
+\tightlist
+\item
+  Paraphrase: grain price dropped despite poor havests due to the
+  deflation of silver. "As the price of grain falls, tillers of the soil
+  recieve lower returns on their labors, and thus less land is put into
+  cultivation." (DBQ doc 3, Wang Xijue, Ming dynasty court official,
+  report to the emperor, 1593)
+\end{itemize}
+
+\hypertarget{trade-to-alliveate}{%
+\subsubsection{Trade to alliveate}\label{trade-to-alliveate}}
+
+\begin{itemize}
+\tightlist
+\item
+  "The unexpected discovery of silver-bearing foreigners in the
+  Philippines was, from the Chinese point of view, a godsend. The
+  galleons that brought over Spanish silver were ships full of
+  \emph{money}" (Mann 139)
+\item
+  "The Spanish have silver mountains, which they mint into silver coins.
+  {[}...{]} Chinese silk yarn worth 100 bars of silver can be sold in
+  the Philippines at a price of 200 to 300 bars of silver there." (Doc
+  7, He Qiao yuan, Ming dynasty court official, report to the emperor on
+  the possibility of repealing the 1626 ban on foreign trade, 1630)
+\end{itemize}
+
+\hypertarget{conclusion}{%
+\section{Conclusion}\label{conclusion}}
+
+China's new link with Europe ultamately resulted in Europe targeting and
+destroying China with hard power
+
+\hypertarget{sources}{%
+\section{Sources}\label{sources}}
+
+\begin{itemize}
+\tightlist
+\item
+  Doc 8: Charles D'Avenant, an English scholar, ``An Essay on the
+  East-India Trade'' regarding the debate
+\end{itemize}
+
+on a bill in Parliament to restrict Indian textiles, 1697.
+
+\begin{itemize}
+\tightlist
+\item
+  Doc 7: He Qiao yuan, Ming dynasty court official, report to the
+  emperor on the possibility of repealing the 1626 ban on foreign trade,
+  1630
+\item
+  Doc 3: Wang Xijue, Ming dynasty court official, report to the emperor,
+  1593
+\item
+  Kissinger Diplomacy TODO
+\item
+  Charles C. Mann, 1493: Uncovering the New World Columbus Created, TODO
+\item
+  Bulliet, "The earth and it's peoples", TODO
+\item
+  William L. Cleveland, The modern middle east, TODO
+\item
+  J. C. Hurewitz, The Middle East and North Africa in World Politics: A
+  Documentary Record, vol. 1: European Expansion, 1535-1914 (New Haven,
+  Conn.: Yale University Press, 1975), pp. 2-3.
+\end{itemize}
+
+\end{document}

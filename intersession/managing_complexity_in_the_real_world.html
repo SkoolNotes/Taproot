@@ -1,0 +1,299 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title>  flo–managing complexity in the real world </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong></strong> flo–managing complexity in the real world </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>:</p>
+            <h1 id="his-intro-background">his intro / background</h1>
+            <h2 id="used-to-be-very-into-econ">used to be very into econ</h2>
+            <h2 id="worked-at-world-bank-bc-he-thought-it-was-a-good-place-to-meet-people-who-were-interested-in-math-and-econ-and-help-the-world">worked at world bank bc he thought it was a good place to meet people who were interested in math and econ and help the world</h2>
+            <h2 id="was-sent-to-a-country-forgot-during-communism-capitalism-transition-and-saw-that-the-forced-capitalist-policies-were-not-working">was sent to a country (forgot) during communism-&gt;capitalism transition and saw that the forced capitalist policies were not working</h2>
+            <h2 id="went-into-management-because-that-allowed-him-to-actually-help">went into management because that allowed him to actually help</h2>
+            <h2 id="sante-fe-institute">sante fe institute</h2>
+            <h3 id="centeripece-for-a-global-movement-to-involve-complexity-in-sciences-accross-disciplines">centeripece for a global movement to involve complexity in sciences accross disciplines</h3>
+            <h3 id="from-los-alamos-national-labs">from los alamos national labs</h3>
+            <h3 id="universal-relationships">’universal relationships’</h3>
+            <h3 id="lots-of-nobel-prizes">lots of nobel prizes</h3>
+            <h3 id="applications-of-graph-theory-and-network-theory-and-lots-of-econ">applications of graph theory and network theory, and lots of econ</h3>
+            <ol>
+            <li><p>understanding when societies are going to have a revolution, finiance, energy grid</p></li>
+            </ol>
+            <h1 id="other-related-areas-interdisciplinary">other related areas / interdisciplinary</h1>
+            <h2 id="do-individuals-matter-in-history">do individuals matter in history</h2>
+            <h2 id="impacts-on-marketing-based-on-faith-studies">impacts on marketing based on faith studies?</h2>
+            <h1 id="overview">Overview</h1>
+            <h2 id="this-intersession-is-interdisciplinary-fixing-of-economics">this intersession is "interdisciplinary fixing of economics"</h2>
+            <h1 id="warmup">Warmup</h1>
+            <h2 id="insectivora-macroscelidea-avg-mass-vs-avg-bmr-guess-avg-bmr-for-pholidota-given-avg-mass">insectivora, macroscelidea avg mass vs avg BMR, guess avg bmr for pholidota given avg mass</h2>
+            <h3 id="i-just-took-the-ratios-and-took-a-high-and-low">I just took the ratios and took a high and low</h3>
+            <h3 id="a-few-strategies-for-solving-the-problem">a few strategies for solving the problem</h3>
+            <ol>
+            <li><p>look for a common ratio (assume 0 mass = 0 BMR)</p></li>
+            <li><p>fit a line</p></li>
+            <li><p>it’s actually not a linear relation, and the answer is relatively unexpected (much lower ratio)</p></li>
+            </ol>
+            <h2 id="the-monkey-business-illusion-ball-passing---miss-other-stuff">the monkey business illusion (ball passing -&gt; miss other stuff)</h2>
+            <h3 id="when-you-get-attached-to-a-tool-you-miss-loads-of-other-things">when you get attached to a tool, you miss loads of other things</h3>
+            <h1 id="universality">universality</h1>
+            <h2 id="examples">examples</h2>
+            <h3 id="common-limit-theorem">common limit theorem</h3>
+            <ol>
+            <li><p>lots of common processes produce gauseian distributions</p>
+            <ol>
+            <li><p>thus, there is a "universality" in the normal distribution</p></li>
+            </ol></li>
+            </ol>
+            <h3 id="other-theorem-something-with-gauss">other theorem? (something with gauss)</h3>
+            <ol>
+            <li><p>if things are often normal distributions, then statistics kind of works (because that’s what it’s all based on)</p></li>
+            </ol>
+            <h3 id="all-mamals-average-the-same-number-of-heartbeats">all mamals average the same number of heartbeats</h3>
+            <ol>
+            <li><p>small animals have fast hearts and die sooner, vice versa</p></li>
+            </ol>
+            <h3 id="metabolic-rate-first-warm-up-problem">metabolic rate (first warm up problem)</h3>
+            <ol>
+            <li><p>log log linear -&gt; constant rate of savings? SUBLINEAR SCALING</p></li>
+            <li><p>constant increase in efficiency</p></li>
+            <li><p>roughly 3/4 or 2/3 exponent</p></li>
+            <li><p>exponent can be derived by networks (circulatory system)</p>
+            <ol>
+            <li><p>where can this be applied?</p>
+            <ol>
+            <li><p>many city statistics</p>
+            <ol>
+            <li><p>15% boost/saving for every size double for amount of gas stations, boost in gdp, # of patents, new AIDs cases, etc</p></li>
+            </ol></li>
+            </ol></li>
+            </ol></li>
+            </ol>
+            <h1 id="city">city</h1>
+            <h2 id="superlinear-scaling---city-should-grow">superlinear scaling -&gt; city should grow</h2>
+            <h2 id="results">results</h2>
+            <h3 id="finite-time-singularity-when-the-growth-curve-goes-vertical..-what-does-that-mean.-maybe-environmental-collapse">finite time singularity? when the growth curve goes vertical.. what does that mean. maybe environmental collapse</h3>
+            <h3 id="trying-to-increase-gdp-and-decrease-crimeaids-by-growing-wont-really-work-because-both-scale-in-the-same-way">trying to increase GDP and decrease crime/AIDs by growing won’t really work because both scale in the same way</h3>
+            <h1 id="complexity">complexity</h1>
+            <h2 id="core">core</h2>
+            <h3 id="taking-a-general-tool-and-applying-it-elsewhere">taking a general tool and applying it elsewhere</h3>
+            <h2 id="methodology">methodology</h2>
+            <h3 id="start-with-a-data-rich-domain-and-find-the-generative-mechinism-then-apply-to-the-data-sparse">start with a data rich domain and find the generative mechinism, then apply to the data sparse</h3>
+            <h2 id="definition-of-complexity">definition of complexity</h2>
+            <h3 id="difficult-to-come-up-with-a-concrete-definition">difficult to come up with a concrete definition</h3>
+            <h3 id="handwavey-systems-of-networked-adaptive-agents-are-complex">handwavey: systems of networked adaptive agents are complex</h3>
+            <ol>
+            <li><p>networked</p>
+            <ol>
+            <li><p>networks have ’finite’ sides (classifications of nodes)</p></li>
+            <li><p>complexity perspective: they provide an analyzable structure at the mezzo-level of granularity</p>
+            <ol>
+            <li><p>ways networks are analyzed</p>
+            <ol>
+            <li><p>degree of a node</p></li>
+            <li><p>betweenness centrality</p></li>
+            <li><p>eigenvector complexity?</p></li>
+            <li><p>avg path length</p></li>
+            <li><p>degree distribution</p></li>
+            <li><p>clustering</p></li>
+            <li><p>community structure</p></li>
+            </ol></li>
+            </ol></li>
+            </ol></li>
+            <li><p>agents</p>
+            <ol>
+            <li><p>assume that all companies or consumers are equal and if they differ, then they differ along one variable</p></li>
+            <li><p>agents are actually different though?</p></li>
+            </ol></li>
+            <li><p>adpativity</p>
+            <ol>
+            <li><p>such as evolutionarily inspired adaptation</p>
+            <ol>
+            <li><p>genetic algorithms / evolutionary algorithms</p></li>
+            <li><p>often used to come up with a pretty good answer for a hard (NP complete or more difficult) problem</p></li>
+            </ol></li>
+            </ol></li>
+            </ol>
+            <h1 id="random-questions">random questions</h1>
+            <h2 id="other-structures">other structures?</h2>
+            <h3 id="many-complex-systems-have-network-structures">many complex systems have network structures</h3>
+            <h3 id="celular-automata">celular automata</h3>
+            <h3 id="almost-everything-is-a-network-but-they-mean-network-like-everyone-knows-everyone-else">almost everything is a network, but they mean network like everyone knows everyone else</h3>
+            <ol>
+            <li><p>it’s a nice assumption if you want to use calculus, but sometimes its a poor model</p></li>
+            <li><p>somewhere along the way, textbooks inverted it</p></li>
+            <li><p>try to find the underlying mechinism and build models that reflect it</p></li>
+            </ol>
+            <h2 id="does-economics-stop-new-things-from-cropping-up">does economics stop new things from cropping up?</h2>
+            <h3 id="not-cooridantedly-but-if-you-edit-a-journal-you-will-prefer-to-publish-papers-that-exapand-existing-techniques-instead-of-brand-new-ones">not cooridantedly, but if you edit a journal you will prefer to publish papers that exapand existing techniques instead of brand new ones</h3>
+            <h2 id="evolutionary-economics">evolutionary ’economics’</h2>
+            <h3 id="multiple-equilibriums-will-be-bounced-between-bc-there-is-always-variation-that-comes-from-new-mutations">multiple equilibriums will be bounced between bc there is always variation that comes from new mutations</h3>
+            <h3 id="economics-tries-to-pin-systems-to-a-perfect-equilibrium-but-with-this-complexity-stuff-you-actually-bounce-between-them">economics tries to pin systems to a ’perfect’ equilibrium but with this complexity stuff you actually bounce between them</h3>
+            <h1 id="classic-economic-curtain-view">classic economic curtain view</h1>
+            <h2 id="pull-a-curtain-on-the-state-of-the-economy-between-equilibriums-and-just-figure-out-where-the-next-one-is">pull a curtain on the state of the economy between equilibriums and just figure out where the next one is</h2>
+            <h2 id="however-the-actual-policy-that-we-care-about-is-heavily-affected-by-the-transitions-thus-we-actually-care">however, the actual policy that we care about is heavily affected by the transitions, thus we actually care</h2>
+            <h2 id="case-study-russian-economic-contraction">case study: russian economic contraction</h2>
+            <h3 id="the-2008-recession-was-5-and-came-back-in-4-years.-in-russia-there-was-a-40-contraction-and-society-really-started-to-break-down">the 2008 recession was 5% and came back in 4 years. In russia, there was a 40% contraction and society really started to break down</h3>
+            <h3 id="jeffery-somebody-wanted-mass-privatization">jeffery somebody wanted mass privatization</h3>
+            <ol>
+            <li><p>government should value each company and make shares and give them out</p></li>
+            <li><p>doesn’t account for dynamic something processes and didn’t account for heterogenety</p></li>
+            <li><p>what happened? villagers sold their shares which kept getting resold</p></li>
+            <li><p>this is the problem with the curtain view: the transitions are the difficult parts that policy needs to hold up through</p></li>
+            <li><p>dengxiaopeng economic experiments were more effective than the mass shock transition</p>
+            <ol>
+            <li><p>nomaclotora system? easier to get promoted if you run an experiment and it works</p></li>
+            <li><p>similar to how social credit experiments are being rolled out</p></li>
+            <li><p>it’s like an evolutionary algorithm to search a complex landscape</p></li>
+            </ol></li>
+            </ol>
+            <h1 id="how-does-this-change-the-way-we-think-about-policy">how does this change the way we think about policy</h1>
+            <h2 id="for-privitization-keep-in-mind-how-agents-change-and-make-decisions">for privitization, keep in mind how agents change and make decisions?</h2>
+            <h3 id="the-only-systems-where-game-theory-works-is-when-everyone-making-the-decision-is-a-game-theorist">the only systems where game theory works is when everyone making the decision is a game theorist</h3>
+            <h2 id="for-science-education-how-do-we-influence-the-agents-to-make-more-risk-adverse-or-better-decisions">for science education, how do we influence the agents to make more risk adverse or better decisions?</h2>
+            <h3 id="teaching-people-about-economics-makes-them-behave-more-game-theory-rationally">teaching people about economics makes them behave more game theory rationally</h3>
+            <h1 id="not-perfect-knowledge-so-what">not perfect knowledge, so what?</h1>
+            <h2 id="agents-are-different-in-many-ways-not-just-one-very-controlled-variable">agents are different in many ways (not just one very controlled variable)</h2>
+            <h2 id="agents-dont-have-perfect-information">agents don’t have perfect information</h2>
+            <h2 id="so-complex-systems-behave-differently">so, complex systems behave differently</h2>
+            <h3 id="cities-are-complex">cities are complex</h3>
+            <h3 id="firms-are-complex">firms are complex</h3>
+            <h3 id="industries">industries</h3>
+            <h3 id="markets">markets</h3>
+            <h3 id="individuals-brains">individuals (brains)</h3>
+            <h2 id="emergent-properties">emergent properties</h2>
+            <h3 id="difficult-to-predict-in-a-reductionist-mindset">difficult to predict in a reductionist mindset</h3>
+            <h3 id="however-we-organize-knowledge-from-a-reductionist-mindset.-this-is-already-a-mistake">however, we organize knowledge from a reductionist mindset. This is already a mistake</h3>
+            <h3 id="phase-transitions">phase transitions</h3>
+            <ol>
+            <li><p>nature of a system changes rapidly</p></li>
+            <li><p>it’s difficult to undo the change</p></li>
+            <li><p>such as bear vs bull market in economics</p></li>
+            </ol>
+            <h1 id="modern-research">modern research</h1>
+            <h2 id="collective-intelligence">collective intelligence</h2>
+            <h3 id="overview-1">overview</h3>
+            <ol>
+            <li><p>used to have a very reductionist model (either group is one individual or boundedly rational; or everyone in it is universally networked and can make good collective decisions)</p></li>
+            <li><p>based on how individuals learn / communicate, you can get good or bad decisions</p></li>
+            <li><p>monkeys often organized themselves near critical points where it’s easy to provoke internal war</p>
+            <ol>
+            <li><p>makes sense if you believe in group level selection, bc if there is a famine, then everyone will spread around and maybe one group will survive</p></li>
+            <li><p>if this is a data rich domain, how can it be applied? Should we organize our teens so that they easily split and explore more areas?</p></li>
+            </ol></li>
+            </ol>
+            <h2 id="using-complexity-science-to-understand-online-hate-speach">using complexity science to understand online hate speach</h2>
+            <h3 id="german-data-where-people-badge-themselves-as-either-reconquesta-germania-or-reconquestia-internetta">german data where people badge themselves as either ’reconquesta germania’ or ’reconquestia internetta?’</h3>
+            <h3 id="conversations-were-analysed-using-nlp-and-researchers-tried-to-understand-what-strategies-worked-to-slow-spread-of-hate-or-speed-it-up">conversations were analysed using NLP and researchers tried to understand what strategies worked to slow spread of hate or speed it up</h3>
+            <h2 id="scaling-and-universiality-in-urban-economic-diversification">scaling and universiality in urban economic diversification</h2>
+            <h3 id="simon-yule-distribution-formed-by-a-preferntial-attachement-mechinism">simon yule distribution? formed by a preferntial attachement mechinism?</h3>
+            <ol>
+            <li><p>if you use nix codes to do a frequency distribution</p></li>
+            <li><p>count the number of businesses in the most populous, second most populous, etc. then it forms the simon yule distribution, but the ordering was different.</p>
+            <ol>
+            <li><p>thus, could there be some hidden mechinism that requires a specific relative distribution of diversity to grow?</p></li>
+            </ol></li>
+            </ol>
+            <h1 id="further-reading-resources">further reading resources</h1>
+            <h2 id="google-complexity-economics">google complexity economics</h2>
+            <h3 id="bryan-arthur-dohan-framer-aeon-magazine">bryan arthur, dohan? framer, aeon? magazine</h3>
+            <h2 id="complexityexplorer-website">complexityexplorer website</h2>
+            <h1 id="when-something-goes-wrong-did-i-pretend-a-complex-system-was-simple">when something goes wrong, did i pretend a complex system was simple?</h1>
+            <h2 id="think-about-the-moon-trip">think about the moon trip</h2>
+            <h3 id="how-much-have-we-spent-on-the-moon-vs-the-war-against-poverty">how much have we spent on the moon vs the war against poverty?</h3>
+            <h3 id="spent-a-lot-of-money-but-the-problem-wasnt-solved">spent a lot of money but the problem wasn’t solved</h3>
+            <h3 id="poverty-or-medical-projects-tend-not-to-work-because-the-underlying-systems-are-complex">poverty or medical projects tend not to work because the underlying systems are complex</h3>
+            <h1 id="education-depertmant-kerry-kao">education depertmant kerry kao?</h1>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

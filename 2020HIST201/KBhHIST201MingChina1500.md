@@ -35,3 +35,24 @@ See [[KBhHIST201ChinasDecline1500]] China's Economic Decline in the 1500s
 
 ## China's Woes
 See [[KBhHIST201ChinaWoes1500]]China's Woes in the 1500s
+
+## CN 09302020
+
+#flo #disorganized 
+
+* Problem: china conqurs you
+
+So... Either:
+
+1. Retreat and defend the southern heartland
+2. Larger barbarians leads larger people => then... Sinufication
+
+
+KangXi the renaissance man
+
+* Showed himself as a Manchu who rids and works to the Manchus
+* Showed himself as a well-read guy to the Chinese
+
+Reminder: **trade resumed!!**
+
+

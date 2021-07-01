@@ -1,0 +1,363 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ lin alg flo 20 }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4779)}}    % original
+%\rhead{\textrmlf{Compiled }\#4779\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4779\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{new-schedule-today}{%
+\section{new schedule today :/}\label{new-schedule-today}}
+
+\hypertarget{systems-of-equations-matrix-equations-and-vectors}{%
+\section{Systems of equations, matrix equations, and
+vectors}\label{systems-of-equations-matrix-equations-and-vectors}}
+
+\hypertarget{in-class-work-see-.kbe20math530srcnull_space_and_column_space_intro.pdf}{%
+\section{\texorpdfstring{in class work! See
+\url{./KBe20math530srcNull_space_and_column_space_intro.pdf}}{in class work! See ./KBe20math530srcNull\_space\_and\_column\_space\_intro.pdf}}\label{in-class-work-see-.kbe20math530srcnull_space_and_column_space_intro.pdf}}
+
+\hypertarget{abeginpmatrix1001endpmatrix}{%
+\subsection{\texorpdfstring{\(A=\begin{pmatrix}1&0\\0&1\end{pmatrix}\)}{A=\textbackslash begin\{pmatrix\}1\&0\textbackslash\textbackslash0\&1\textbackslash end\{pmatrix\}}}\label{abeginpmatrix1001endpmatrix}}
+
+\hypertarget{how-many-solutions-x-satisfy-ax0}{%
+\subsubsection{\texorpdfstring{How many solutions \(x\) satisfy
+\(Ax=0\)?}{How many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0}}
+
+The only solution is x=0, because \(Ax = x\).
+
+\hypertarget{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set}{%
+\subsubsection{When the answer is "infinitely many" what tools might we
+have to describe the size of that
+set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set}}
+
+N/A
+
+\hypertarget{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.}{%
+\subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
+there for the equation \(Ax=b\) for any
+\(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.}}
+
+There can be infintely many vaules of \(b\)..? The vector space is dim 2
+
+\hypertarget{abeginpmatrix100010endpmatrix}{%
+\subsection{\texorpdfstring{\(A=\begin{pmatrix}1&0&0\\0&1&0\end{pmatrix}\)}{A=\textbackslash begin\{pmatrix\}1\&0\&0\textbackslash\textbackslash0\&1\&0\textbackslash end\{pmatrix\}}}\label{abeginpmatrix100010endpmatrix}}
+
+\hypertarget{how-many-solutions-x-satisfy-ax0-1}{%
+\subsubsection{\texorpdfstring{How many solutions \(x\) satisfy
+\(Ax=0\)?}{How many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0-1}}
+
+Infinitely many (anything of the form
+\(\begin{pmatrix}0\\0\\x\end{pmatrix}\))
+
+\hypertarget{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-1}{%
+\subsubsection{When the answer is "infinitely many" what tools might we
+have to describe the size of that
+set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-1}}
+
+A column in the matrix is zero? Maybe the columns are linearly
+dependent. Input is dim 1
+
+\hypertarget{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-1}{%
+\subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
+there for the equation \(Ax=b\) for any
+\(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-1}}
+
+Infinite with \(\text{dim} 2\)?
+
+\hypertarget{a-beginpmatrix100100endpmatrix}{%
+\subsection{\texorpdfstring{\(A = \begin{pmatrix}1&0\\0&1\\0&0\end{pmatrix}\)}{A = \textbackslash begin\{pmatrix\}1\&0\textbackslash\textbackslash0\&1\textbackslash\textbackslash0\&0\textbackslash end\{pmatrix\}}}\label{a-beginpmatrix100100endpmatrix}}
+
+\hypertarget{how-many-solutions-x-satisfy-ax0-2}{%
+\subsubsection{\texorpdfstring{How many solutions \(x\) satisfy
+\(Ax=0\)?}{How many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0-2}}
+
+Only one value of \(x\) makes the product zero.
+
+\hypertarget{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-2}{%
+\subsubsection{When the answer is "infinitely many" what tools might we
+have to describe the size of that
+set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-2}}
+
+n/a
+
+\hypertarget{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-2}{%
+\subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
+there for the equation \(Ax=b\) for any
+\(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-2}}
+
+column vector has dimension 3, but the vector space has dim 2
+
+\hypertarget{a-beginpmatrix100010000endpmatrix}{%
+\subsection{\texorpdfstring{\(A = \begin{pmatrix}1&0&0\\0&1&0\\0&0&0\end{pmatrix}\)}{A = \textbackslash begin\{pmatrix\}1\&0\&0\textbackslash\textbackslash0\&1\&0\textbackslash\textbackslash0\&0\&0\textbackslash end\{pmatrix\}}}\label{a-beginpmatrix100010000endpmatrix}}
+
+\hypertarget{how-many-solutions-x-satisfy-ax0-3}{%
+\subsubsection{\texorpdfstring{How many solutions \(x\) satisfy
+\(Ax=0\)?}{How many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0-3}}
+
+infinite, same vectors as subproblem 2
+
+\hypertarget{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-3}{%
+\subsubsection{When the answer is "infinitely many" what tools might we
+have to describe the size of that
+set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-3}}
+
+dimension 2? column vectors in the matrix are linearly dependent.
+
+\hypertarget{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-3}{%
+\subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
+there for the equation \(Ax=b\) for any
+\(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-3}}
+
+infinite, dim 2 (but each vector is dim 3)
+
+\hypertarget{a-beginpmatrix100010010endpmatrix}{%
+\subsection{\texorpdfstring{\(A = \begin{pmatrix}1&0&0\\0&1&0\\0&1&0\end{pmatrix}\)}{A = \textbackslash begin\{pmatrix\}1\&0\&0\textbackslash\textbackslash0\&1\&0\textbackslash\textbackslash0\&1\&0\textbackslash end\{pmatrix\}}}\label{a-beginpmatrix100010010endpmatrix}}
+
+\hypertarget{how-many-solutions-x-satisfy-ax0-4}{%
+\subsubsection{\texorpdfstring{How many solutions \(x\) satisfy
+\(Ax=0\)?}{How many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0-4}}
+
+infinite, vectors of the form \(\begin{pmatrix}0\\a\\-a\end{pmatrix}\)
+(columns linearly dependent)
+
+\hypertarget{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-4}{%
+\subsubsection{When the answer is "infinitely many" what tools might we
+have to describe the size of that
+set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-4}}
+
+dimension 2 subspace of \(\mathbb F^3\)
+
+\hypertarget{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-4}{%
+\subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
+there for the equation \(Ax=b\) for any
+\(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-4}}
+
+infinite, dim2 subspace of \(\mathbb F^3\)
+
+\hypertarget{a-beginpmatrix000003000endpmatrix}{%
+\subsection{\texorpdfstring{\(A = \begin{pmatrix}0&0&0\\0&0&3\\0&0&0\end{pmatrix}\)}{A = \textbackslash begin\{pmatrix\}0\&0\&0\textbackslash\textbackslash0\&0\&3\textbackslash\textbackslash0\&0\&0\textbackslash end\{pmatrix\}}}\label{a-beginpmatrix000003000endpmatrix}}
+
+\hypertarget{how-many-solutions-x-satisfy-ax0-5}{%
+\subsubsection{\texorpdfstring{How many solutions \(x\) satisfy
+\(Ax=0\)?}{How many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0-5}}
+
+infinite, vectors of the form \(\begin{pmatrix}a\\b\\0\end{pmatrix}\)
+(columns linearly dependent)
+
+\hypertarget{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-5}{%
+\subsubsection{When the answer is "infinitely many" what tools might we
+have to describe the size of that
+set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-5}}
+
+dim 2 subspace of \(\mathbb F^3\)
+
+\hypertarget{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-5}{%
+\subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
+there for the equation \(Ax=b\) for any
+\(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-5}}
+
+output has dim 1
+
+\hypertarget{a-beginpmatrix12-11-1033-2endpmatrix}{%
+\subsection{\texorpdfstring{\(A = \begin{pmatrix}1&2&-1\\1&-1&0\\3&3&-2\end{pmatrix}\)}{A = \textbackslash begin\{pmatrix\}1\&2\&-1\textbackslash\textbackslash1\&-1\&0\textbackslash\textbackslash3\&3\&-2\textbackslash end\{pmatrix\}}}\label{a-beginpmatrix12-11-1033-2endpmatrix}}
+
+\hypertarget{how-many-solutions-x-satisfy-ax0-6}{%
+\subsubsection{\texorpdfstring{How many solutions \(x\) satisfy
+\(Ax=0\)?}{How many solutions x satisfy Ax=0?}}\label{how-many-solutions-x-satisfy-ax0-6}}
+
+Seems like the rows are linearly independent, so it should be just 1
+solution \(x=0\)? infinite, vectors of the form
+\(\begin{pmatrix}a\\b\\0\end{pmatrix}\) (columns linearly dependent)
+
+\hypertarget{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-6}{%
+\subsubsection{When the answer is "infinitely many" what tools might we
+have to describe the size of that
+set?}\label{when-the-answer-is-infinitely-many-what-tools-might-we-have-to-describe-the-size-of-that-set-6}}
+
+dim 0
+
+\hypertarget{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-6}{%
+\subsubsection{\texorpdfstring{How many possible outcomes \(b\) are
+there for the equation \(Ax=b\) for any
+\(x\).}{How many possible outcomes b are there for the equation Ax=b for any x.}}\label{how-many-possible-outcomes-b-are-there-for-the-equation-axb-for-any-x.-6}}
+
+output should be dim 3
+
+\hypertarget{then-we-talked-about-some-stuff}{%
+\section{Then we talked about some
+stuff}\label{then-we-talked-about-some-stuff}}
+
+\hypertarget{see-.kbrefhomogeneousequations.org-and-.kbrefcolumnspace.org}{%
+\subsection{\texorpdfstring{see \url{./KBrefHomogeneousEquations.org}
+and
+\url{./KBrefColumnSpace.org}}{see ./KBrefHomogeneousEquations.org and ./KBrefColumnSpace.org}}\label{see-.kbrefhomogeneousequations.org-and-.kbrefcolumnspace.org}}
+
+\hypertarget{the-null-space-is-the-stuff-that-gets-sent-to-zero-responses-to-subpart-1}{%
+\subsection{\texorpdfstring{The null space is the stuff that gets sent
+to zero (responses to subpart 1)
+{\textsc{definition}}~{\textsc{toexpand}}}{The null space is the stuff that gets sent to zero (responses to subpart 1) definition~toexpand}}\label{the-null-space-is-the-stuff-that-gets-sent-to-zero-responses-to-subpart-1}}
+
+See \href{KBrefNullSpace.org}{Null Spaces}
+
+\end{document}

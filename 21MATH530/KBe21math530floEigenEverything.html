@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title>  </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong></strong> </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>:</p>
+            <h1 id="eigenvalues">eigenvalues</h1>
+            <p>eigenvalue: multiplied by a scalar? a subspace that, when put through a linear map, only gets scaled.</p>
+            <p><span class="math display">\[Tv = \lambda v\]</span></p>
+            <p>Where <span class="math inline">\(v \neq 0\)</span>. (we ignore it because its no fun to send zero to zero, and bc the span is empty).</p>
+            <p><strong>T must be an operator!</strong> Otherwise the matrix sizes don’t work out when subtracting <span class="math inline">\(\lambda I\)</span>.</p>
+            <p>where <span class="math inline">\(v\)</span> is the eigenvector and <span class="math inline">\(\lambda\)</span> is the eigenvalue. The equation is often rewritten as:</p>
+            <p><span class="math display">\[\begin{aligned}
+              Tv - \lambda v &amp;= 0
+              Tv - \lambda Iv &amp;= 0
+              (T-\lambda I) v &amp;= 0
+              \end{aligned}\]</span></p>
+            <p>We want <span class="math inline">\(T-\lambda I\)</span> to be singular, because we want the null space to include <span class="math inline">\(v\)</span>. So we subtract <span class="math inline">\(\lambda\)</span> from the <span class="math inline">\(I\)</span> diagonal of <span class="math inline">\(T\)</span> and then find values of <span class="math inline">\(v\)</span> which are equal to zero?</p>
+            <p>now this can be factored and roots can be found. also it’s an operator.</p>
+            <h2 id="axler-5.6-equivalent-conditions">Axler 5.6 equivalent conditions</h2>
+            <p>Only when <span class="math inline">\(V\)</span> is finite dimensional!</p>
+            <h3 id="t-lambda-i-is-not-injective-because-both-v-0-are-in-the-null-space."><span class="math inline">\(T-\lambda I\)</span> is not injective, because both <span class="math inline">\(v, 0\)</span> are in the null space.</h3>
+            <h3 id="t-lambda-i-is-also-not-surjective-or-invertible-bc-finite-dim-operator."><span class="math inline">\(T-\lambda I\)</span> is also not surjective or invertible bc finite dim operator.</h3>
+            <h1 id="an-example">an example</h1>
+            <p>Given the matrix <span class="math inline">\(\begin{pmatrix}3&amp;1\\0&amp;2\end{pmatrix}\)</span>, find the eigenvalues and eigenvectors.</p>
+            <p>Now that we have that other fomulation, we can just subtract <span class="math inline">\(\lambda I\)</span> from <span class="math inline">\(T\)</span> to get <span class="math display">\[\begin{pmatrix}3-\lambda &amp;1\\0&amp;2-lambda \end{pmatrix}\]</span></p>
+            <p>Then, we just need to find whether it is non-invertible aka singular aka determinant.</p>
+            <p><span class="math display">\[(3-\lambda)(2-\lambda) = 0\]</span> The solutions are <span class="math inline">\(\lambda = 2 \text{ or } 3\)</span>. These are the eigenvalues.</p>
+            <p>Now just plug in <span class="math inline">\(\lambda\)</span> and find the null space using RREF. The null space for <span class="math inline">\(\lambda = 3\)</span> has null space <span class="math inline">\(\text{span}(x, 0)\)</span>, so we just pick one of those vectors (ex. <span class="math inline">\((1, 0)\)</span>) to be the eigenvector.</p>
+            <h2 id="review-of-terms">review of terms</h2>
+            <h3 id="span1-0-is-an-invariant-subspace.-also-whatever-you-get-for-lambda-2"><span class="math inline">\(span(1, 0)\)</span> is an invariant subspace. (also whatever you get for <span class="math inline">\(\lambda = 2\)</span></h3>
+            <h3 id="any-vector-in-an-invariant-subspace-is-an-eigenvector">any vector in an invariant subspace is an eigenvector</h3>
+            <h3 id="the-eigenvalues-are-2-3">the eigenvalues are <span class="math inline">\(2, 3\)</span></h3>
+            <h2 id="general-idea">general idea</h2>
+            <p>the point of eigenvectors is to figure out where other vectors go by looking at pieces that only get streched or shrunk.</p>
+            <h1 id="depends-on">depends on</h1>
+            <h2 id="finding-roots-is-helpful">finding roots is helpful</h2>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

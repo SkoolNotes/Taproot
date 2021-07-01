@@ -71,14 +71,22 @@
 }
 
 \usepackage{mathspec}
+%\setmainfont[
+%   ItalicFont     = HelveticaNeue-Italic,
+%   BoldFont       = HelveticaNeue-Bold,
+%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight[
+%   ItalicFont     = HelveticaNeue-LightItalic,
+%   BoldFont       = HelveticaNeue-UltraLight,
+%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
 \setmainfont[
-   ItalicFont     = HelveticaNeue-Italic,
-   BoldFont       = HelveticaNeue-Bold,
-   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+   ItalicFont     = Iosevka-Aile-Italic,
+   BoldFont       = Iosevka-Aile-Bold,
+   BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
 \newfontfamily\NHLight[
-   ItalicFont     = HelveticaNeue-LightItalic,
-   BoldFont       = HelveticaNeue-UltraLight,
-   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+   ItalicFont     = Iosevka-Aile-Light-Italic,
+   BoldFont       = Iosevka-Aile-Light,
+   BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -122,7 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6587)}}    % original
+%\rhead{\textrmlf{Compiled }\#6587\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6587\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +146,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -172,8 +182,32 @@ Here 'em:
 
 \begin{figure}
 \centering
-\includegraphics{./2020MATH401/Screen Shot 2020-09-02 at 1.55.13 PM.png}
+\includegraphics{./Screen Shot 2020-09-02 at 1.55.13 PM.png}
 \caption{Screen Shot 2020-09-02 at 1.55.13 PM.png}
 \end{figure}
+
+\hypertarget{trig-limits-squeeze-theorem}{%
+\subsection{Trig Limits + Squeeze
+Theorem!}\label{trig-limits-squeeze-theorem}}
+
+\begin{figure}
+\centering
+\includegraphics{./Screen Shot 2020-09-11 at 1.20.05 PM.png}
+\caption{Screen Shot 2020-09-11 at 1.20.05 PM.png}
+\end{figure}
+
+\textbf{Very logical theorem --- if two things ``enveloping functions''
+approach the same value, and the function in the middle will approach
+the same value}
+
+\#disorganized
+
+\begin{itemize}
+\tightlist
+\item
+  Dampening oscellation
+\item
+  Could be modeled with \(\frac{\sin x}{x}\)
+\end{itemize}
 
 \end{document}

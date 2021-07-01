@@ -1,0 +1,288 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Retroviruses }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5473)}}    % original
+%\rhead{\textrmlf{Compiled }\#5473\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5473\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101Viruses}{\tiny\textulf{[[}\textbf{KBhBIO101Viruses}\textulf{]]}}}\thinspace
+
+\hypertarget{retroviruses}{%
+\section{Retroviruses}\label{retroviruses}}
+
+\textbf{Viruses that have the ability to intergrate into the chromosomes
+of the host cell}
+
+\hypertarget{retroviruses-infection}{%
+\subsection{Retroviruses, infection}\label{retroviruses-infection}}
+
+Normal {[}{[}KBhBIO101ViralInfection{]}{]} infection stuff happen, but
+then\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  As the virus is uncoated, it uses an enzyme called ``reverse
+  transcriptaese'' to turn ssRNA to cDNA, and finally into dsDNA
+  (template strand DNA).
+\item
+  And, ready for this? The virus then uses an enzyme called
+  \textbf{intergraese} to thread the viral dsDNA into the cell's normal
+  nucleaus
+\end{itemize}
+
+A bonus for HIV (which is a Retrovirus) --- it utilities
+\textbf{protease} to cut HIV's polyproteins into individual parts ready
+for budding.
+
+\hypertarget{retroviruses-late-stage}{%
+\subsection{Retroviruses, Late Stage}\label{retroviruses-late-stage}}
+
+The proviral region (the part that makes virus) newly inserted to the
+cell's DNA is transcribed slowly when normal
+{[}{[}KBhBIO101CentralDogma{]}{]} comes across it to synthesize
+proteins. In this case, this virus would spread through cell duplication
+
+When the cell is undergoing {[}{[}KBhBIO101CellCycle{]}{]}, the proviral
+area is replicated and exported as usual, making descendents of the cell
+also have the proviral region. This property makes these viruses
+especially hard to get rid of, which is why we still can't cure HIV.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+To make these activities happen, the virus needs two enzymes ---
+\textbf{Reverse Transcriptaese} + \textbf{Intergraese}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Reverse Transcriptase}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Transcript RNA to double-stranded RNA
+  \item
+    Take double-stranded RNA to turn into DNA
+  \end{itemize}
+\item
+  \textbf{Integrase}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Force insert the DNA into the genome of the host cell
+  \end{itemize}
+\end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-12 at 11.22.35 PM.png}
+\caption{Screen Shot 2020-10-12 at 11.22.35 PM.png}
+\end{figure}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{preventing-retroviruses}{%
+\subsection{Preventing Retroviruses}\label{preventing-retroviruses}}
+
+There are a few different drugs that prevent a few different steps of
+the retroviral infection process
+
+\begin{itemize}
+\tightlist
+\item
+  Prevent {[}{[}KBhBIO101ViralEntry{]}{]} \texttt{gp120}, \texttt{gp41},
+  \texttt{CCR5}
+\item
+  Prevent reverse transcription --- turn viral ssRNA to dsDNA
+  \texttt{RT}
+\item
+  Prevent intergration via \textbf{intergrease} \texttt{IN}
+\item
+  Prevent viron maturation (namely, \textbf{protease} function)
+  \texttt{PR}
+\end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{stophiv.png}
+\caption{stophiv.png}
+\end{figure}
+
+Most advanced treatment: HAART (Highly-Active Anti-Retroviral Therapy)
+
+\begin{itemize}
+\tightlist
+\item
+  Cocktail drug works together for inhibition
+\item
+  Two drugs to stop intergration, one to stop protease (viron
+  maturation)
+\item
+  Could develop resistance
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

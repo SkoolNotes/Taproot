@@ -1,0 +1,260 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ISOS201 }
+\newcommand{\thelesson}{ Gender and Biology ISOS Reading }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\#flo
+
+\hypertarget{gender-and-the-biological-sciences}{%
+\section{\texorpdfstring{\[Gender\ and\ the\ Biological\ Sciences\]}{Gender\textbackslash{} and\textbackslash{} the\textbackslash{} Biological\textbackslash{} Sciences}}\label{gender-and-the-biological-sciences}}
+
+\begin{verbatim}
+\end{verbatim}
+
+\begin{quote}
+Feminist critiques of science provide fertile ground for any
+investigation of the ways in which social influences may shape the
+content of science.
+\end{quote}
+
+Oh jeez, this is gonna be a fun discussion
+
+Argue that sexist bio is an excuse for the suppression of women.
+
+\textbf{Kathleen's Hierarchy of sciences:} Physics -\textgreater{}
+Biology -\textgreater{} Social sciences (or reversed, it's unclear)
+
+Argues that feminist critiques of ``the social sciences are dismissed
+out of hand by philosophers of science on the ground that the social
+sciences arn't science anyways,'' then says: ``it is, however, not quite
+so easy to dismiss biology as pseudo science.'' Despite the fact that
+she \emph{just drew a distinction between biology and social sciences.}
+
+Calls case study of outdated model of fertilization process -- says that
+sexism has blinded scientists to the truth, the previous model being the
+``Sleeping Beauty/Prince Charming'' model. \textgreater{} The egg waits
+patiently {[}\ldots{]} the sperm heroically battles {[}\ldots{]} (yatta
+yatta)
+
+this model ``appeared as early as 1795.'' In 1895, electron microscopy
+on sea urchins revealed that the egg grows "finger like projections
+{[}{[}\ldots{]}{]} but this has been largely ignored until recently.
+
+The original model appeared 100 years earlier, of course it was widely
+know in 1895. The new model barely changed the previous model. What does
+``largely ignored'' even mean? To my knowledge, this isn't a very hotly
+debated or discussed topic. Is that what she means by ignoring it?
+
+She goes on to say that the new theory is still controversial, and they
+don't know if it's entirely correct!
+
+Of course people stuck with teaching the old model then! And the
+electron microscope was invented in 1931! She claims this was discovered
+using electron microscopy in 1895!
+
+wtaf is this reading?
+
+Gives examples of clearly incorrect biological explanations of why men
+are more intelligent that women form specific scientists, and uses them
+to generalize all of male biologists. \emph{Nice.}
+
+Drawings that updated skeletons to be gender specific were ``favored for
+just that (the fact that they reflected cultural ideals of masculinity)
+over drawings that were in some sense more accurate.''
+
+What exactly does ``in some sense more accurate'' mean?
+
+\begin{quote}
+A science based upon women would be an improvement over the current
+science, according to standpoint epistemology.
+\end{quote}
+
+Essentially argues that between two choices, scientific theory cannot
+guarantee that one is true. Yeah, that's the point.
+
+Argues that since theories are based upon one another, and since
+original theories were created in deeply sexist times, the sexist
+theories persevere regardless of the current state of cultural sexism.
+
+This is reasonable, but we scientists do backtrack significantly when
+new evidence is presented. It's not as if these sexists theories have
+tainted modern theories forever.
+
+\hypertarget{reflection}{%
+\subsection{Reflection}\label{reflection}}
+
+Well, that was certainly interesting.
+
+\hypertarget{discussion-point}{%
+\subsubsection{Discussion Point:}\label{discussion-point}}
+
+I wonder what the author means by ``in some sense more accurate'' when
+referring to the conflicting skeletal models on page 198.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+All I have to say about this reading. Holy hell.
+
+\end{document}

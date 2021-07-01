@@ -1,0 +1,210 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+%\setmainfont[
+%   ItalicFont     = HelveticaNeue-Italic,
+%   BoldFont       = HelveticaNeue-Bold,
+%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight[
+%   ItalicFont     = HelveticaNeue-LightItalic,
+%   BoldFont       = HelveticaNeue-UltraLight,
+%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+\setmainfont[
+   ItalicFont     = Iosevka-Aile-Italic,
+   BoldFont       = Iosevka-Aile-Bold,
+   BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+\newfontfamily\NHLight[
+   ItalicFont     = Iosevka-Aile-Light-Italic,
+   BoldFont       = Iosevka-Aile-Light,
+   BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Bio Self Eval }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6311)}}    % original
+%\rhead{\textrmlf{Compiled }\#6311\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6311\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\#ret
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{verbatim}
+Hi All, 
+
+Please share with me what aspects of biology class content you found particularly interesting and think you will remember forever. 
+ 
+
+Please reflect on your study habits and your ability to navigate this style of teaching.
+
+What did you do well and what could you have done better? What are examples of ways you overcame some struggles?
+\end{verbatim}
+
+Biology class felt like getting plunged into a sea of knowledge. It was
+not easy to understand everything we were getting taught to the level
+that I would like to. To deal with this, I would often spend time going
+back over the presentations and doing research on the topics.
+
+Another struggle was figuring out how to sort the knowledge I gained in
+my deep dive. To learn about my deep dive topic, I would simply do
+research online, letting my curiosity drive where I would go next. Of
+course research must be driven by curiosity, but when researching for a
+project, the research is also guided by the end goal of the project.
+Trying to funnel the learning that I gained driven purely by curiosity
+into a project was a challenge, and I ended up only being able to
+include a small fraction of what I learned in my final project.
+
+Regardless, even if I didn't get to include all of my learning in my
+final project, I still learned a lot and enjoyed doing so.
+
+\end{document}

@@ -1,0 +1,315 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Evaluating definite integrals }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13028)}}    % original
+%\rhead{\textrmlf{Compiled }\#13028\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{int_12-fracefrac1xx2-dx}{%
+\section{\texorpdfstring{\(\int_{1}^{2} \frac{e^{\frac{1}{x}}}{x^2} dx\)}{\textbackslash int\_\{1\}\^{}\{2\} \textbackslash frac\{e\^{}\{\textbackslash frac\{1\}\{x\}\}\}\{x\^{}2\} dx}}\label{int_12-fracefrac1xx2-dx}}
+
+\[\begin{aligned}
+  \int - e^{u} du &= - e^u +C\\
+  &= -e^{\frac{1}{2}} + e^{\frac{1}{1}}\\
+  &= e-e^{\frac{1}{2}}\\
+  \end{aligned}\]
+
+\hypertarget{int_01-r-efracr2-dr}{%
+\section{\texorpdfstring{\(\int_{0}^{1} r e^{\frac{r}{2}} dr\)}{\textbackslash int\_\{0\}\^{}\{1\} r e\^{}\{\textbackslash frac\{r\}\{2\}\} dr}}\label{int_01-r-efracr2-dr}}
+
+\[\begin{aligned}
+  \int_{0}^{1} r e^{\frac{r}{2}} dx &\implies r 2e^{\frac{r}{2}} - \int 2e^{\frac{r}{2}}dr\\
+  &=  2r e^{\frac{r}{2}} - \int 2 e^{\frac{r}{2}}dr\\
+  &=  2r e^{\frac{r}{2}} - 4 e^{\frac{r}{2}}\\
+  &= 2r e^{\frac{r}{2}} - 4 e^{\frac{r}{2}}\\
+  &\implies 2e^{\frac{1}{2}} - 4e^{\frac{1}{2}} - (- 4)\\
+  &= 4 - 2e^{\frac{1}{2}}
+  \end{aligned}\]
+
+\hypertarget{int_49-frac-ln-ysqrty-dy}{%
+\section{\texorpdfstring{\(\int_{4}^{9} \frac{ \ln  y}{\sqrt{y}} dy\)}{\textbackslash int\_\{4\}\^{}\{9\} \textbackslash frac\{ \textbackslash ln  y\}\{\textbackslash sqrt\{y\}\} dy}}\label{int_49-frac-ln-ysqrty-dy}}
+
+\[\begin{aligned}
+  \int \frac{\ln y}{\sqrt{y}} dy &= 2 \ln y \sqrt{y}- \int 2 \frac{1}{y} \sqrt{y} dy\\
+  &=  2 \ln y \sqrt{y}- \int 2 \frac{1}{\sqrt{y}} dy\\
+  &=  2 \ln y \sqrt{y}- 2 \int y^{-\frac{1}{2}} dy\\
+  &=  2 \ln  y \sqrt{y} - 4 \sqrt{y} +C\\
+  &=  2 \sqrt{y}(\ln  y - 2) +C\\
+  \implies&\ \quad 6( \ln  9 - 2) - 4 ( \ln 4 - 2)
+  \end{aligned}\]
+
+\hypertarget{int_0sqrtpi-cos-sqrtx-dx}{%
+\section{\texorpdfstring{\(\int_{0}^{\sqrt{\pi}} \cos \sqrt{x} dx\)}{\textbackslash int\_\{0\}\^{}\{\textbackslash sqrt\{\textbackslash pi\}\} \textbackslash cos \textbackslash sqrt\{x\} dx}}\label{int_0sqrtpi-cos-sqrtx-dx}}
+
+Let \(u = \sqrt{x}\), \(du = \frac{1}{2 \sqrt{x}} dx\), \(dx = 2 u du\)
+\[\begin{aligned}
+  \int_{0}^{ \sqrt{\pi} } \cos \sqrt{x} dx &= 2\int u \cos u  du\\
+  &= 2u \sin  u - 2\int \sin u du\\
+  &= 2 u \sin  u + 2 \cos  u\\
+  &= 2 \sqrt{x} \sin  \sqrt{x} + 2 \cos  \sqrt{x}\\
+  \implies  & \ \ \ \ 2 \pi^{\frac{1}{4}} \sin \pi^{\frac{1}{4}} + 2 \cos \pi ^{\frac{1}{4}}-2
+  \end{aligned}\]
+
+\hypertarget{int_1e-sin-ln-x-dx}{%
+\section{\texorpdfstring{\(\int_{1}^{e} \sin  \ln  x dx\)}{\textbackslash int\_\{1\}\^{}\{e\} \textbackslash sin  \textbackslash ln  x dx}}\label{int_1e-sin-ln-x-dx}}
+
+\[\begin{aligned}
+  \int_{1}^{e} \sin  \ln  x dx &= x \sin  \ln  x - \int x \frac{1}{x} \cos \ln x dx\\
+  &= x \sin  \ln  x - \int \cos \ln  x dx\\
+  &= x \sin  \ln  x -\left( x \cos  \ln  x + \int \cancel{x \frac{1}{x}} \sin  \ln  x dx\right)\\
+  &= x \sin  \ln  x - x \cos  \ln  x -\int \sin \ln x dx\\
+  2\int \sin  \ln  x dx  &= x \sin  \ln  x - x \cos  \ln  x\\
+ \int \sin  \ln  x dx &= \frac{1}{2}x (\sin  \ln  x - \cos  \ln  x)\\
+ \implies &\ \ \ \ \frac{1}{2}e (\sin 1 - \cos  1) - \frac{1}{2} ( \sin  0 - \cos  0)\\
+ &= \frac{e}{2} ( \sin  1 - \cos  1 ) + \frac{1}{2}
+  \end{aligned}\]
+
+\hypertarget{int_01-fracx3sqrt4x-dx}{%
+\section{\texorpdfstring{\(\int_{0}^{1} \frac{x^3}{\sqrt{4+x}} dx\)}{\textbackslash int\_\{0\}\^{}\{1\} \textbackslash frac\{x\^{}3\}\{\textbackslash sqrt\{4+x\}\} dx}}\label{int_01-fracx3sqrt4x-dx}}
+
+Let \(u = 4 + x^2\), \(du = 2xdx\)
+
+\[\begin{aligned}
+  \int \frac{x^3}{\sqrt{4+x}} dx &=\frac{1}{2}\int  \frac{(u-4)}{\sqrt{u}}du\\
+  &= \frac{1}{2}\int \sqrt{u} dx - 2\int \frac{1}{\sqrt{u}} dx
+  \end{aligned}\]
+
+\hypertarget{additional-problems}{%
+\section{(additional problems)}\label{additional-problems}}
+
+\hypertarget{int-sin2-x-dx}{%
+\subsection{\texorpdfstring{\(\int \sin^2 x dx\)}{\textbackslash int \textbackslash sin\^{}2 x dx}}\label{int-sin2-x-dx}}
+
+\[\begin{aligned}
+   \int \sin  ^2 x dx &= - \sin  x \cos  x +\int \cos  ^2 x dx\\
+   &= - \sin  x \cos  x +\int 1 dx -\int  \sin  ^2 x dx\\
+   2\int \sin ^2 x dx &= - \sin  x \cos  x + x\\
+   \int \sin ^2 x dx  &= \frac{1}{2} (x-\sin  x \cos  x)
+   \end{aligned}\]
+
+\hypertarget{int-cos2-x-dx}{%
+\subsection{\texorpdfstring{\(\int \cos^2 x  dx\)}{\textbackslash int \textbackslash cos\^{}2 x  dx}}\label{int-cos2-x-dx}}
+
+\[\begin{aligned}
+   \int \cos  ^2 x dx &= \cos  x \sin  x + \int \sin^2 x dx\\
+   &= \cos x \sin  x + \int 1 dx - \int \cos^2 x dx\\
+   2\int \cos  ^2 x dx &= \cos  x \sin  x + x\\
+   \int \cos  ^2 x dx &= \frac{1}{2}\cos  x \sin  x + \frac{x}{2}+C
+   \end{aligned}\]
+
+\hypertarget{int-sin2-xcos2-x-dx}{%
+\subsection{\texorpdfstring{\(\int \sin^2 x\cos^2 x dx\)}{\textbackslash int \textbackslash sin\^{}2 x\textbackslash cos\^{}2 x dx}}\label{int-sin2-xcos2-x-dx}}
+
+\[\begin{aligned}
+   \sin  2 x = 2 \sin  x \cos  x\\
+   \int \sin  ^2 x \cos  ^2 x dx &= \frac{1}{4}\int \sin  ^2 2 x dx\\
+   \text{Let } u &= 2x, du = 2 dx\\
+   &= \frac{1}{8}\int \sin  ^2 u du\\
+   &= \frac{1}{8} \frac{1}{2}  (u-\sin  u \cos  u)\\
+   &= \frac{1}{16} (2x - \sin  2x \cos  2x)+C
+   \end{aligned}\]
+
+\hypertarget{int-sin3-x-dx}{%
+\subsection{\texorpdfstring{\(\int \sin^3 x dx\)}{\textbackslash int \textbackslash sin\^{}3 x dx}}\label{int-sin3-x-dx}}
+
+\[\begin{aligned}
+   \int \sin  ^3 x  dx &=\int \sin  x (1 - \cos  ^2 x) dx\\
+   &=\int \sin  x dx  -\int \cos ^2 x \sin  x dx\\
+   \text{Let }& u = \cos  x, du = - \sin  x dx\\
+   &=\int \sin  x dx  +\int u ^2 du\\
+   &= - \cos  x + \frac{1}{3} u ^3 +C\\
+   &= \frac{1}{3} \cos  ^3 x - \cos  x +C
+   \end{aligned}\]
+
+\hypertarget{int-cos-3-x-dx}{%
+\subsection{\texorpdfstring{\(\int \cos ^3 x dx\)}{\textbackslash int \textbackslash cos \^{}3 x dx}}\label{int-cos-3-x-dx}}
+
+\[\begin{aligned}
+   \int \cos  ^3 x dx &=\int \cos  x (1 - \sin  ^2 x) dx \\
+   &=\int \cos  x - \sin  ^2 x \cos  x dx \\
+   &= \sin  x -\int u ^2 du\\
+   &= \sin  x - \frac{1}{3} u ^3 +C\\
+   &= \sin  x - \frac{1}{3} \sin  ^3 x +C
+   \end{aligned}\]
+
+\end{document}

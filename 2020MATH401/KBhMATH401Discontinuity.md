@@ -25,3 +25,12 @@ $f(x)=\frac{x^2+2}{x^2-4}\ where\ x=2$
 **Function**: not defined
 
 $f(x)=\frac{x^6-1}{x^{10}-1}\ where\ x=1$
+
+***
+
+Division by 0/infinite discontinutiy => undefined
+
+Hole => not defined
+
+Sq. Root Functions => not defined when x={negative number}
+

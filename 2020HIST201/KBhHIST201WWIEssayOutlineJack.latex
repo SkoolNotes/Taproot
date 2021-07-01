@@ -1,0 +1,354 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ History Essay Planning }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6844)}}    % original
+%\rhead{\textrmlf{Compiled }\#6844\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6844\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201WWI}{\tiny\textulf{[[}\textbf{KBhHIST201WWI}\textulf{]]}}}\thinspace
+
+\hypertarget{essay-template}{%
+\section{Essay Template}\label{essay-template}}
+
+\hypertarget{general-information}{%
+\subsection{General Information}\label{general-information}}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Due Date & Topic & Important Documents\tabularnewline
+\midrule
+\endhead
+Monday, Jan 28th & Causes of WWI & Basically Palmer ch.~17
+only??\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{prompt}{%
+\subsection{Prompt}\label{prompt}}
+
+The political scientist Kenneth Waltz argues that the causes of war can
+be analyzed at three different levels: the individual human level, the
+state level, and the international system level. Those who view things
+from the first level believe that war is best explained by
+``selfishness,'' ``misdirected aggressive impulses,'' or ``stupidity''
+within the human psyche. Those who favor the second level believe there
+are hostile or aggressive or revisionist states who, because of their
+form of government or other domestic issues, behave in a warlike manner
+while other states simply want to keep the peace (the status quo). Those
+who favor the third level believe that the international system itself,
+because it is an anarchy with ``no system of law enforceable'' between
+states, and in which each state acts according to its own interest and
+reserves the right to use force to achieve its aims, makes war
+inevitable.
+
+\textbf{Analyze World War 1 according to one (or a blend) of these
+levels of analysis. Make an argument that combines an explanation of the
+general causes of the war with the specific sequence of events
+(including events that prolonged the war beyond the initial outbreak).}
+
+\hypertarget{thought-bucket}{%
+\subsection{Thought Bucket}\label{thought-bucket}}
+
+\begin{itemize}
+\tightlist
+\item
+  Formation of alliances?
+\item
+  The wish for peace is a cause or an effect?
+\item
+  Goverments
+\end{itemize}
+
+Self-interested \sout{coorporation} compromises with other parties
+causes war.
+
+\hypertarget{quotes-bin}{%
+\subsection{Quotes bin}\label{quotes-bin}}
+
+\begin{itemize}
+\tightlist
+\item
+  ``He formed a military alliance with Austria-Hungary, to which Italy
+  was added in 1882. Bismarck signed a `reinsurance' treaty with Russia
+  also. Since Russia and Austria were enemies (because ofthe Balkans),
+  to be allied to both at the same time took considerable diplomatic
+  finesse.'' AA
+\item
+  ``They had long prided themselves on a `splendid isolation,' going
+  their own way, disdaining the kind of dependency that alliance with
+  others always brings'' AB
+\item
+  ``The older Triple Alliance faced a newer Triple Entente, the latter
+  somewhat the looser, since the British refused to make any formal
+  military commitments.'' AC
+\item
+  ``In 1904 the British and French governments agreed to forget Fashoda
+  and the accumulated bad feeling of the preceding 25 years. \ldots{}
+  There was no specific alliance; neither side said what it would do in
+  the event ofwar; it was only a close understanding, an entente
+  cordiale.'' AD
+\item
+  ``They would call an international conference, at which Russia would
+  favor Austrian annexation of Bosnia, and Austria would support the
+  opening of the Straits to Russian warships. Austria, without waiting
+  for a conference, proclaimed the annexation ofBosnia without more
+  ado\ldots{} Isvolsky was never able to realize his plans for
+  Constantinople. His partners in the Triple Entente, Britain and
+  France, refused to back him.'' AE
+\item
+  ``An agreement of the great powers, to keep the peace, conjured up an
+  independent kingdom in Albania. This confirmed the Austrian policy,
+  kept Serbia from the sea, and aroused vehement outcries in both Serbia
+  and Russia. But Russia again backed down. Serbian expansionism was
+  again frustrated and inflamed.'' AF
+\item
+  ``Arthur Zim- mermann, dispatched a telegram to the German minister at
+  Mexico City, telling him what to say to the Mexican president. He was
+  to say that if the United States went to war with Germany. Germany
+  would form an alliance with Mexico and if possible Japan, enabling
+  Mexico to get back its `lost territories.' \ldots{} Zimmermann's
+  telegram was intercepted and decoded by the British, and passed on to
+  them to Washington. Printed in the newspapers, it shocked public
+  opinion in the United States.'' AG
+\item
+  ``By the end of 1917 the submarine was no more than a nuisance. For
+  the Germans the great plan produced the anticipated penalty without
+  the reward---its net result was only to add America to their
+  enemies.'' AH
+\item
+  ``The Germans, issuing their famous `blank check,' encouraged the
+  Austrians to be firm. The Austrians, thus reassured, dispatched a
+  drastic ultimatum to Serbia'' AI
+\item
+  ``France, terrified at the possibility ofbeing some day caught alone
+  in a warwith Germany and determined to keep Russia as an ally at any
+  cost, in effect gave a blank check to Russia.'' AJ
+\item
+  ``The first victim ofthe First World War, among governments, was the
+  Russian empire'' AK
+\end{itemize}
+
+\hypertarget{claim-synthesis}{%
+\subsection{Claim Synthesis}\label{claim-synthesis}}
+
+\emph{Compromises for peace will inflame tensions}
+
+\begin{itemize}
+\tightlist
+\item
+  AA Bismarck tried to double ensure his country by forming two-sided
+  alliances that failed
+\item
+  AF the creation of the independent Albanian kingdom meant to keep
+  peace further inflamed tensions
+\end{itemize}
+
+\emph{Preemptive use of absolute force will lead to the victimization of
+the user}
+
+\begin{itemize}
+\tightlist
+\item
+  AI Germans encouraged austria-hungry to use full force, bringing war
+\item
+  AJ Russians got also issued a blank check for Russia to fight, which
+  actually lead Russia to be victimized during the war (AK)
+\end{itemize}
+
+\emph{Subversive deals with opposition will cause systemic collapse}
+
+\begin{itemize}
+\tightlist
+\item
+  AE Capitulation between Austria and Russia ended up screwing Russia
+  over
+\item
+  AG attempts to coax Mexico for security + to end the stalemate
+  foreshadowed the involvement of the US in the war
+\end{itemize}
+
+(um\ldots{} Raison freaking detat again! Or maybe
+{[}{[}KBhHIST201Realism{]}{]})
+
+\textbf{Instead of leveraging a more passive strategy of defense to
+maintain peace, European nations in the early 19th century chose a more
+active role for national security though compromising peacekeeping
+agreements, preemptive use of absolute force, and subversive deals with
+opposition that resulted in the disruption of preset balances of power
+and lead to World War I.}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+There is always
+\href{https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf}{UCLA
+Writing Lab}
+
+\end{document}

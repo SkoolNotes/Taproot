@@ -1,0 +1,459 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ 20eng201 }
+\newcommand{\thelesson}{ Bird dreaming Baobab Debrief }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBENG201INDEX}{\tiny\textulf{[[}\textbf{KBENG201INDEX}\textulf{]]}}}\thinspace
+
+\begin{itemize}
+\tightlist
+\item
+  Mozambique central east Africa
+\item
+  early 17th century settled by Portuguese
+
+  \begin{itemize}
+  \tightlist
+  \item
+    brought Catholosism
+  \end{itemize}
+\item
+  Breakout Questions:
+\end{itemize}
+
+\begin{verbatim}
+1) What kind of symbolism does the bird man hold?  And what is the significance of his keeping of birds?
+
+2)  What effect or sentiment does Couto create by using vague pronouns to describe the Bird-Man, such as “that black”? 
+
+3)  What is the symbolism of the baobab flower petals? 
+
+4) How does the white neighborhood’s perception of the birds change their opinion on the actual bird man? 
+
+5)  In the last paragraph, while the tree is being burned, Couto’s verb choice doesn’t relate to burning at all, why does he do this?
+
+6) Why exactly are the white people so afraid of the bird man? 
+
+7)  Do the white colonizers' rejection of the birds in the story reflect colonizers' rejection of traditional rituals and cultural practices of Africans? 
+
+8)  How does the birdman escape prison? 
+    - Maybe the bird man represents a culture instead of a person?
+    - So he would not have a name
+
+9)  What are the implications of the boy (Tiago) becoming the birdman? 
+
+10)  Do the Portuguese see the birdman as a threat? 
+
+11) The Baobab is supposed to be able to commit suicide by fire, but the settlers end up burning the tree with one of their children inside. What is the significance of this?
+
+12) Why did the author choose birds?
+\end{verbatim}
+
+Our focus: 1-3 1. \textgreater{} What kind of symbolism does the bird
+man hold? And what is the significance of his keeping of birds? 1.
+Conscience of the settlers, bird man is a metaphor for ``deep down we
+are all human and nice'' 2. Innocent 3. Foreigner but also a native 4.
+He is like a bird on the ground, that isn't his home anymore 5. Seen as
+``corrupting the children'' by existing 6. ``The bird seller, by
+overstepping himself in such a fashion, was leading the world towards
+other awareness.'' Knowledge bad (pg 7.9) 2. \textgreater{} What effect
+or sentiment does Couto create by using vague pronouns to describe the
+Bird-Man, such as ``that black''? 1. Nobody can understand what he's
+doing and why? Don't know too much about him so uncertainty and
+misunderstanding is represented. 2. Dehumanization tactic (not given a
+name) 3. \textgreater{} What is the symbolism of the baobab flower
+petals? 1. Well being of the bird man / baobab tree, red for blood. Bird
+man is replaced by the kid so the tree is okay again? 1. Flowers were
+crushed by people coming to burn the tree (pg 10) 4. General symbolism
+1. Birds represent freedom 1. Bird man sold birds in cages that ``didn't
+even look like a prison'', but the birds were caged by the Portuguese
+once sold.
+
+\begin{itemize}
+\item
+  \begin{quote}
+  Why doesn't the bird man have a name?
+  \end{quote}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Maybe he is a metaphor or allegory, represents the entire culture
+  \item
+    Maybe used as a dehumanization tactic
+  \end{itemize}
+\item
+  The bird man
+
+  \begin{itemize}
+  \tightlist
+  \item
+    inspires fear
+  \item
+    connects with creation stores
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Pied Piper
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Children all follow a figure who might be a danger
+      \item
+        Strange man to children and animals
+      \end{itemize}
+    \item
+      Genesis
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Adam and Eve name the animals, create the systems
+      \item
+        VS Birdman's cages are flimsy
+      \end{itemize}
+    \end{itemize}
+  \item
+    Magic
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Disappears from prison
+    \item
+      Maybe came from a different place
+    \end{itemize}
+  \end{itemize}
+\item
+  Baobab tree (very symbolic)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Tree of life
+  \item
+    Looks like upside down roots
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Creates a fruit
+    \item
+      can hold lots of water
+    \end{itemize}
+  \item
+    Might've been the tree of knowledege
+  \item
+    Portuguese name that means ``may God protect''
+  \item
+    Historic
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Predates drifted continents, humanity
+    \item
+      Therefore baobab predates race and racism
+    \end{itemize}
+  \end{itemize}
+\item
+  Ending
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Burning of the tree
+  \item
+    Tiago seems to become the tree?
+  \item
+    Tiago becomes the bird man?
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Then is the original bird man even a native?
+    \item
+      Future generations should or will recognize the importance of
+      native culture?
+    \item
+      Author is white, but was born in Africa
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Children were innocent of the negative ideology, maybe Tiago
+        represents the author's generation
+      \item
+        Maybe the children will grow up to respect the native culture
+        and be more connected to the land
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  Birds
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Played a role in freeing the bird man from prison?
+  \item
+    Juxtaposing birds and children
+
+    \begin{itemize}
+    \tightlist
+    \item
+      ``the birds shouted and the children chirped''
+    \item
+      ``joyfulness was exchanged''
+    \end{itemize}
+  \item
+    come from ``deep within'' Africa, which is where the colonizers want
+    to go
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Symbolic of the interior land
+    \item
+      Symbolic of the order the colonizers want to impose
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Birds and children resist the new order
+      \end{itemize}
+    \end{itemize}
+  \item
+    But why birds?
+
+    \begin{itemize}
+    \tightlist
+    \item
+      All the birds here are unique and foreign to the settlers
+    \item
+      A large variety of birds, can represent individuals and all the
+      people who are getting conquered
+    \item
+      Associated words
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Joyful
+      \item
+        Colorful
+      \item
+        Flight / free spirited
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  Fire
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Punishment
+  \item
+    Both destructive and life giving
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Pheonix
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Transformation
+      \item
+        Rebirth
+      \item
+        Tiago as the Pheonix
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  \begin{quote}
+  \begin{enumerate}
+  \def\labelenumi{\arabic{enumi})}
+  \setcounter{enumi}{4}
+  \tightlist
+  \item
+    In the last paragraph, while the tree is being burned, Couto's verb
+    choice doesn't relate to burning at all, why does he do this?
+  \end{enumerate}
+  \end{quote}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ``licked'', ``growing'', ``dreaming'', ``seduction of ash''
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

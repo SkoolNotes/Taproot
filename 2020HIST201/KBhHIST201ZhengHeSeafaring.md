@@ -57,3 +57,13 @@ Hugely built ships:
 The exact causes and reasons why this happened is still speculated. According to [[KBhHIST201MannMing]] (C. Mann's) 1500s Ming, this ending of the expedition marked a point at which China turned inwards from a trade perspective. 
 
 See [[KBhHIST201ChinasDeclineWRTZhengHe]] China's Decline w.r.t. Zheng He
+
+
+#disorganized
+
+* European => war power
+* Zheng He => huge ships but mostly for trade
+* China establishes tribute relations by getting others to acknoledge China's superority and legitamacy => China's version of a trade treaty instead of actually trade ("trade" = "helping + tribune")
+* Read: Cook Zheng He
+* Decline of Zheng He could also be sacrafise between enuachs vs. scholars
+* No reason for China to have huge ships if they could just travel to indonesia to get all the goods in the world

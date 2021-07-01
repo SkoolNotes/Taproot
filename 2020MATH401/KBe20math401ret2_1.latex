@@ -1,0 +1,248 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ math 401 ret 2\textsubscript{1} }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3650)}}    % original
+%\rhead{\textrmlf{Compiled }\#3650\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3650\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\#source openstax calculus volume 1 section 2.4 exercises
+
+\hypertarget{section}{%
+\section{131}\label{section}}
+
+\[
+  x \le 0 \implies \boxed{\text{infinite}}
+  \]
+
+\hypertarget{section-1}{%
+\section{132}\label{section-1}}
+
+\[
+  \boxed{\text{no discontinuities}}
+  \]
+
+\hypertarget{section-2}{%
+\section{140}\label{section-2}}
+
+\[
+  \boxed{\text{Infinite discontinuity }} \left(\frac{-1}{0}\right)
+  \]
+
+\hypertarget{section-3}{%
+\section{141}\label{section-3}}
+
+\[
+  \boxed{\text{Continuous}} \left(\frac{\cancel{(2u-1)}(3u+2)}{\cancel{2u-1}}\right)
+  \]
+
+\hypertarget{section-4}{%
+\section{145}\label{section-4}}
+
+\[
+  3x+2 = 2x-3 \implies \boxed{x = -5}
+  \]
+
+\hypertarget{section-5}{%
+\section{150}\label{section-5}}
+
+\[
+  \boxed{\text{The function is not continuous at }x = 2}
+  \]
+
+\hypertarget{section-6}{%
+\section{152}\label{section-6}}
+
+\hypertarget{a}{%
+\subsection{a}\label{a}}
+
+\[\cos t = t^3\]
+
+\hypertarget{b}{%
+\subsection{b}\label{b}}
+
+Let \(f(x) = \cos x\) and \(g(x) = x^3\). For \(a = 0\) and
+\(b = \frac{\pi}{2}\): \[
+   \begin{aligned}
+   f(a) &= 1\\
+   g(a) &= 0\\
+   f(b) &= 0\\
+   g(b) &= \frac{\pi^3}{8} > 1\\
+   \end{aligned}
+   \] Because these functions each traverse \(0 \le y \le 1\) over the
+interval \(0 \le x \le \frac{\pi}{2}\) in opposite directions and are
+continuous over that range, they must cross somewhere in that range.
+
+\hypertarget{c}{%
+\subsection{c}\label{c}}
+
+\[
+   \boxed{x = 0.8655 \pm 0.005}
+   \]
+
+\hypertarget{section-7}{%
+\section{164}\label{section-7}}
+
+\[\boxed{\text{It's true.}}\]
+
+\end{document}

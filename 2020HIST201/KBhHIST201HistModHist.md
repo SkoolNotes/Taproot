@@ -10,7 +10,6 @@ author: Houjun Liu
 
 Watson's Model: scale from... 
 
-
 | Independence                     | ..                               | ..                                              | Full Order            |
 |:--------------------------------:|:--------------------------------:|:-----------------------------------------------:|:---------------------:|
 | Indipendence States (no control) | Hegemony (some external control) | Dominion (some external, some internal control) | Empire (full control) |
@@ -60,3 +59,18 @@ To reach **world hegemony** (become the world leader) — change the world order
 3. **Protection**: The act of eliminating potential threats to its population.
 4. **Extraction**: The act of securing the means to execute the previous three activities, such as the collection of taxes or revenue.
  
+#flo  #disorganized 
+
+Merchantilist Empires => Merchants => Trade
+
+* Portchugal and Spain focused on land aqusition
+	* King and queen doing conquring
+	* Little privatization and more of a territarialist model
+* Dutch, French, and British empires focused more on actual trading
+	* Companies with charters 
+		* But! Has own army
+		* Coinage
+		* and Court 
+		* (all vested on the authority of the government)
+	* Mostly private investors and a capitalist model 
+

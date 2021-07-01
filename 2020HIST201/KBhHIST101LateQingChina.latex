@@ -1,0 +1,425 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST101 }
+\newcommand{\thelesson}{ Late Qing China }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5607)}}    % original
+%\rhead{\textrmlf{Compiled }\#5607\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5607\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{late-qing-china}{%
+\section{Late Qing China}\label{late-qing-china}}
+
+\#flo
+
+\textbf{The Qing dynasty's failure is centered upon the early Industrial
+Rev.}
+
+\hypertarget{failures-of-the-qing-court}{%
+\subsection{Failures of the Qing
+court}\label{failures-of-the-qing-court}}
+
+\begin{itemize}
+\tightlist
+\item
+  Considered the British as a lowly subject and dismissed their claims
+  to increase trade and communication
+\item
+  Created a high trade deficit through the oblivious to trade through
+  Confucian philosophy
+\end{itemize}
+
+\hypertarget{the-opium-wars}{%
+\subsection{The Opium Wars}\label{the-opium-wars}}
+
+\begin{itemize}
+\tightlist
+\item
+  The British used opium as compensation for the trade deficit between
+  Britian=\textgreater China and China=\textgreater Britian
+\item
+  When Chinese officials began controlling the trade of opionum, it was
+  both to late and also was handled with mixed results due to difference
+  in opionion.
+\item
+  When sudden enforcement of trade occured, the British felt like it was
+  an insult to the British crown and proceeded to wage war against the
+  navally-weak China.
+\item
+  After loosing the opionum war, the Qing court had to agree to a series
+  of supplicating agreements that ended with hurtful consiquences and
+  CLAIM without realizing destroyed the foreign policies of China.
+\end{itemize}
+
+\hypertarget{beginnings-of-unrest}{%
+\subsection{Beginnings of Unrest}\label{beginnings-of-unrest}}
+
+\begin{itemize}
+\tightlist
+\item
+  The Taiping Movement
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Taiping movement threatened the Qing government's (a.k.a. British)
+    trading of opium, but supported the spead of Christianity (albeit
+    the flavor where the emperor is Jesus' yonger brother.)
+  \item
+    Power struggle in the Taiping regieme lead to internal collapse a
+    few years later.
+  \item
+    Manchu weakness forced them to give the Chinese-Chinese army more
+    power to quell the movement
+  \end{itemize}
+\end{itemize}
+
+\textbf{In 1858, Anglo-French forces invaded Beijing, storming the
+summer palace, took over the Chinese tax system, and eventually
+basically established the Qing rule as a colony of the west.}
+
+\begin{itemize}
+\tightlist
+\item
+  Kidnapped Chinese people to serve as indentured servants in the west.
+\item
+  Confusion officials called for ``self-strengthening'', usually to
+  little results due to the argricultural-dependent Qing state.
+\end{itemize}
+
+\hypertarget{japan-vs.-china}{%
+\subsection{Japan vs.~China}\label{japan-vs.-china}}
+
+\begin{itemize}
+\tightlist
+\item
+  The Chinese succeded Taiwan to Japan
+\item
+  Lead the Western nations to fear for the collapse of the profitable
+  Qing dynasty
+\item
+  In turn, the \textbf{Scramble for consessions} occured where contries
+  fervantly attempted to establish special trading licenses.
+\item
+  The uninvolved US issued ``open door notes'' to all contries, calling
+  on opening China as a free trade zone.
+\end{itemize}
+
+\hypertarget{the-empress-dowagers-vs.-herself-vs.-the-europeans}{%
+\subsection{The Empress Dowagers vs.~Herself vs.~The
+Europeans}\label{the-empress-dowagers-vs.-herself-vs.-the-europeans}}
+
+\begin{itemize}
+\tightlist
+\item
+  The empress dowager's mismanagement of funds are CLAIM a symptom of
+  the Qing court weakness.
+\item
+  Kang Youwei urged the emperor to issue many edicts of westernization,
+  but was quickly crushed by the empress dowager cixi.
+\item
+  Conservatives seized the control of the Qing court, which resulted in
+  more anger and mutiny throughout the country (but, interestingly,
+  against western regions.)
+\end{itemize}
+
+\hypertarget{boxer-rebellion-and-the-final-countdown}{%
+\subsubsection{Boxer Rebellion and the Final
+Countdown}\label{boxer-rebellion-and-the-final-countdown}}
+
+\begin{itemize}
+\tightlist
+\item
+  The Boxer rebellion urged the whole country to dispose of any
+  foreigners there may be for they believed that the foreigners were the
+  root of Qing dynasty's problems.
+\item
+  The empress eventually supported their decision, causing the
+  \textbf{8-nation army} to invade and her to fleed to the countryside.
+  After this, the e.d. decided to support westernization.
+\item
+  Urge for the adoption of constitutional monarchy created centers of
+  opposition to the Qing imperial system.
+\item
+  Sun Zhongshan, after being found out to promote the overthrowing of
+  the Chinese governement, fled to Japan and established his concept of
+  revolution.
+\item
+  Qiu Jin --- a woman revolutionary who studied in Japan and went back
+  to China for the revolutionary cause. She was later executed for
+  treasion.
+\end{itemize}
+
+\hypertarget{cn1202020}{%
+\section{CN1202020}\label{cn1202020}}
+
+\textbf{China vs.~Imperialism}
+
+The Dynastic Cycle\ldots{}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  New Empire
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Peace
+  \item
+    Order
+  \end{itemize}
+\item
+  Old Empire
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Corruption
+  \item
+    Incompetence
+  \item
+    Downfaall
+  \end{itemize}
+\item
+  Conflict
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Natural Disasters
+  \item
+    Invasions
+  \end{itemize}
+\end{enumerate}
+
+Repeat!
+
+The British acquired a large amount of tea, silk, and vermillion from
+China, but imported basically only Opium.
+
+\begin{itemize}
+\tightlist
+\item
+  Opium =\textgreater{} unproductivity
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Weakened the productivity of China
+  \item
+    Offset the trade deficit with Britian
+  \end{itemize}
+\end{itemize}
+
+\textbf{Opium is technically illegal}, so the whole operation is largely
+smuggling.
+
+\textbf{Taiping Rebellion}
+
+\begin{itemize}
+\tightlist
+\item
+  CLAIM @sushu: much more scary than even the Opium war
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Took a large part of the country
+  \item
+    Got control of a large part of grain and wheat production
+  \end{itemize}
+\item
+  洪秀全 --- Taiping Rebellion
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Thinks that he is Jesus' old brother
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Had a fever dream of visiting ``father''
+    \item
+      After hearing about Christian philosophy, ret-cons the dream into
+    \end{itemize}
+  \item
+    Is a failed scholar who did not work for the government
+  \item
+    Harnessed peasant discontent + cut South China away
+  \end{itemize}
+\item
+  To rapidly quell the Taiping rebellion\ldots{}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Granted more army and power to the provincial government
+  \item
+    Decentralized control, which caused problems down the line
+  \end{itemize}
+\end{itemize}
+
+\end{document}

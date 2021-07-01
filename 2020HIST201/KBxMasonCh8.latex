@@ -1,0 +1,323 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Mason Chapter Eight }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5606)}}    % original
+%\rhead{\textrmlf{Compiled }\#5606\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5606\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\#flo \#ref \#disorganized \#incomplete \#todo: re-read this one.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{anoda-wahn}{%
+\section{Anoda wahn}\label{anoda-wahn}}
+
+\begin{itemize}
+\tightlist
+\item
+  ending of 19th century, European powers
+
+  \begin{itemize}
+  \item
+    \begin{quote}
+    engaged in a competitive struggle to extend their influence around
+    the world.
+    \end{quote}
+  \end{itemize}
+\item
+  Large inequality in land ownership
+\item
+  scramble for africa occured
+\end{itemize}
+
+\hypertarget{european-expansionism-before-the-nineteenth-century}{%
+\subsection{EUROPEAN EXPANSIONISM BEFORE THE NINETEENTH
+CENTURY}\label{european-expansionism-before-the-nineteenth-century}}
+
+\begin{itemize}
+\tightlist
+\item
+  def:
+
+  \begin{itemize}
+  \item
+    \begin{quote}
+    the process by which one state, with supe- rior military strength
+    and more advanced technology, imposes its control over the land,
+    resources, and population of a less developed region."
+    \end{quote}
+  \end{itemize}
+\item
+  other stuff
+\end{itemize}
+
+\hypertarget{the-motivations-for-imperialism}{%
+\subsection{THE MOTIVATIONS FOR
+IMPERIALISM}\label{the-motivations-for-imperialism}}
+
+\begin{itemize}
+\tightlist
+\item
+  primary motive for imperialist expansion was economic
+\item
+  Industrial Rev stimulated the market and such
+\item
+  economic depression in Europe from 1873 to mid 1890s
+\item
+  tried to do protectionism and put taxes on foreign trade, sending them
+  deeper into a depression
+\item
+  European states formed ``sheltered markets'' free from the
+  restrictions
+\item
+  Imperialism was very expensive, large investments, led to formation of
+  armys and soldiers
+\item
+  imperialism was the final stage of capitalism, according to lenin, and
+  thus it would lead to the downfall of capitalism
+\item
+  and some other stuff?
+\end{itemize}
+
+\hypertarget{the-scramble-for-africa}{%
+\subsection{THE SCRAMBLE FOR AFRICA}\label{the-scramble-for-africa}}
+
+\begin{itemize}
+\tightlist
+\item
+  roughly 15-20 years
+\item
+  bunch of dates and numbers!
+\item
+  defeated the boers, led to the creation of the british union
+\item
+  british mke the apartheid, a policy for racial seperation which
+  exploited the black population
+\end{itemize}
+
+\hypertarget{the-colonization-of-asia}{%
+\subsection{THE COLONIZATION OF ASIA}\label{the-colonization-of-asia}}
+
+\begin{itemize}
+\tightlist
+\item
+  Europe left only Japan alone
+\item
+  india had alot of resources
+
+  \begin{itemize}
+  \tightlist
+  \item
+    cotton, tea, opium
+  \end{itemize}
+\item
+  took control of india
+\item
+  china got beat up by japan, russia, and the british
+\item
+  (and the US)
+\item
+  led to the collapse of the Qing
+\end{itemize}
+
+\hypertarget{patterns-of-colonial-rule}{%
+\subsection{PATTERNS OF COLONIAL RULE}\label{patterns-of-colonial-rule}}
+
+\begin{itemize}
+\tightlist
+\item
+  uh
+\end{itemize}
+
+\hypertarget{the-legacy-and-consequences-of-european-imperialism}{%
+\subsection{THE LEGACY AND CONSEQUENCES OF EUROPEAN
+IMPERIALISM}\label{the-legacy-and-consequences-of-european-imperialism}}
+
+\begin{itemize}
+\tightlist
+\item
+  European contries controled 7\% of the planet by land surface in 1500
+\item
+  in 1800, they had 35\%
+\item
+  1914, they got 84\%
+\item
+  stuff is now based around europe
+\item
+  whenever someone achieved independance, they would normally fail to
+  establish a working project
+\item
+  people hated the europeans
+\item
+  this hurt trade and such
+\item
+  europe brought ideas of democracy and such to the colonies, which then
+  strted to want freedom (more?)
+\item
+  lost a whole bunch of colonies
+\item
+\end{itemize}
+
+\end{document}

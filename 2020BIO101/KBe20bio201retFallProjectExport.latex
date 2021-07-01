@@ -1,0 +1,258 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ "Fall Project Resources: Voltage Gated Sodium
+Channels" }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5846)}}    % original
+%\rhead{\textrmlf{Compiled }\#5846\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5846\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+Link to the original project:
+\url{https://taproot.shabang.cf/2020BIO101/KBe20bio101retFallProject1export1.png}
+
+\hypertarget{sources}{%
+\section{Sources}\label{sources}}
+
+\begin{itemize}
+\tightlist
+\item
+  \url{https://en.wikipedia.org/wiki/Voltage-gated_ion_channel}
+\item
+  \href{https://www.sciencedirect.com/science/article/pii/S0076687918300156}{Computational
+  Approaches to Studying Voltage-Gated Ion Channel Modulation by General
+  Anesthetics - ScienceDirect}
+\item
+  \href{https://ars.els-cdn.com/content/image/1-s2.0-S0092867419307342-fx1_lrg.jpg}{1-s2.0-S0092867419307342-fx1\textsubscript{lrg}.jpg
+  (996×996)}
+\item
+  \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266868/}{THE
+  CRYSTAL STRUCTURE OF A VOLTAGE-GATED SODIUM CHANNEL}
+\item
+  \href{https://www.pnas.org/content/112/1/124/tab-figures-data}{Free-energy
+  landscape of ion-channel voltage-sensor--domain activation \textbar{}
+  PNAS}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{https://www.pnas.org/content/pnas/112/1/124/F1.large.jpg}{F1.large.jpg
+    (1036×1280)}
+  \end{itemize}
+\item
+  \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2950829/}{Ion
+  Channel Voltage Sensors: Structure, Function, and Pathophysiology}
+\item
+  \href{https://www.sciencedirect.com/science/article/abs/pii/S0959440X16301506}{Voltage-gated
+  sodium channels viewed through a structural biology lens -
+  ScienceDirect}
+\item
+  \href{https://www.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/neuron-membrane-potentials-topic/v/effects-of-axon-diameter-and-myelination}{Effects
+  of axon diameter and myelination (video) \textbar{} Khan Academy}
+\item
+  \href{https://www.sciencedirect.com/science/article/pii/S0006349514007875}{Probing
+  α-310 Transitions in a Voltage-Sensing S4 Helix - ScienceDirect}
+\item
+  \href{https://www.cell.com/structure/fulltext/S0969-2126(15)00500-6?_returnURL=https\%3A\%2F\%2Flinkinghub.elsevier.com\%2Fretrieve\%2Fpii\%2FS0969212615005006\%3Fshowall\%3Dtrue}{Molecular
+  Interactions in the Voltage Sensor Controlling Gating Properties of
+  CaV Calcium Channels: Structure}
+\item
+  \href{https://www.sciencedirect.com/science/article/pii/S0092867419307342}{Resting-State
+  Structure and Gating Mechanism of a Voltage-Gated Sodium Channel -
+  ScienceDirect}
+\item
+  \href{https://www.pnas.org/content/109/2/E93}{Structural basis for
+  gating charge movement in the voltage sensor of a sodium channel
+  \textbar{} PNAS}
+\item
+  \href{https://science.sciencemag.org/content/362/6412/eaau2596?rss\%253D1=}{Structural
+  basis for the modulation of voltage-gated sodium channels by animal
+  toxins \textbar{} Science}
+\item
+  \href{https://pharmrev.aspetjournals.org/content/57/4/387.full}{Overview
+  of Molecular Relationships in the Voltage-Gated Ion Channel
+  Superfamily \textbar{} Pharmacological Reviews}
+\item
+  \href{https://physoc.onlinelibrary.wiley.com/doi/10.1113/expphysiol.2013.071969}{Structure
+  and function of voltage‐gated sodium channels at atomic resolution -
+  Catterall - 2014 - Experimental Physiology - Wiley Online Library}
+\item
+  \href{https://www.cell.com/cell/fulltext/S0092-8674(11)00997-4?_returnURL=https\%3A\%2F\%2Flinkinghub.elsevier.com\%2Fretrieve\%2Fpii\%2FS0092867411009974\%3Fshowall\%3Dtrue}{Crystal
+  Structure of the Mammalian GIRK2 K+ Channel and Gating Regulation by G
+  Proteins, PIP2, and Sodium: Cell}
+\item
+  \href{https://www.sciencedirect.com/science/article/pii/S2211124719301512}{The
+  Role of CaV2.1 Channel Facilitation in Synaptic Facilitation -
+  ScienceDirect}
+\item
+  \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3448954/}{The
+  sliding-helix voltage sensor}
+\item
+  \href{https://www.pnas.org/content/103/19/7292}{Voltage sensor
+  conformations in the open and closed states in rosetta structural
+  models of K+ channels \textbar{} PNAS}
+\item
+  \href{https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/voltage-gated-ion-channel\#:~:text=Voltage\%2Dgated\%20ion\%20channels\%20contain,domain\%20responsible\%20for\%20sensing\%20voltage.}{Voltage-Gated
+  Ion Channel - an overview \textbar{} ScienceDirect Topics}
+\end{itemize}
+
+\end{document}

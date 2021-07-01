@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title> SOM201 Som Prez Thing </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>SOM201</strong> Som Prez Thing </span></div>
+        </div>
+        <div id="center-viewport">
+            <p>#ret</p>
+            <div class="center">
+            <hr />
+            </div>
+            <p>reqs: like, 15 slides? idk man</p>
+            <p>start of life</p>
+            <p>modern life</p>
+            <p>future life</p>
+            <ul>
+            <li><p>hard to define life</p>
+            <ul>
+            <li><p>hard to draw the line</p></li>
+            <li><p>we are gonna go broad so we don’t need to</p></li>
+            </ul></li>
+            </ul>
+            <p>starts with the big bang, but we are going to jump pretty far past that</p>
+            <p>to the early, cooled earth</p>
+            <p>how did life actully start</p>
+            <p>couple theories</p>
+            <p>just gonna go over one</p>
+            <p>edge of these puddles, stuff like rna</p>
+            <p>so this rna-like substance would bind, and form it’s counterpart, then at low tide it would dissociate</p>
+            <p>3.8 billion years ago, prokayryotes</p>
+            <p>3 billion years ago, photosyntesis. evolved indipendantly over fifty times</p>
+            <p>flash forward to 2.4 billion years ago, cyanobacteria rule the earth and they cause the “great oxidation event”</p>
+            <p>2 billion years ago, their’s the first instance of Eukaryotic cells</p>
+            <p>530 million years ago, first vertebrate appears</p>
+            <p>7 million years ago, first “humans” appear</p>
+            <p>and, here we are today</p>
+            <p>the next question is the future, where we will gadully become more integrated with technolgy. we don’t know where it will take us</p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

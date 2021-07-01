@@ -1,0 +1,347 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO201 }
+\newcommand{\thelesson}{ The Quiz! }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12208)}}    % original
+%\rhead{\textrmlf{Compiled }\#12208\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\#ref \#ret
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{begin}{%
+\section{begin!}\label{begin}}
+
+Honor Code
+
+I, Huxley Marvit, affirm that I will only utilize the internet during
+this assessment for the purpose of accessing my class notes and
+documents linked on the class Canvas site. I will close all other
+internet browser windows before beginning the assessment. I will not use
+any other resources, including using search engines to look up terms. I
+will not discuss the assessment with anyone but Jehnna, including after
+it's completed. If I am confused about wording or terminology used on
+the assessment, I will reference the allowed materials and/or ask Jehnna
+to clarify by sending a private zoom message to her. I agree that I will
+learn best by authentically engaging with the assessment rather than
+searching for answers on the internet or from my friends. I understand
+that I will be offered a reassessment opportunity if I need it. I affirm
+that I, Huxley Marvit, have read this honor code and will abide by it.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{section}{%
+\subsection{1}\label{section}}
+
+\hypertarget{a}{%
+\subparagraph{A}\label{a}}
+
+mom: pp, dad: PP pP -\textgreater{} P In any combination, their would
+not be two mutant PAH alleles. Thus, the child would have a 0\% chance
+of having the disorder.
+
+\hypertarget{b}{%
+\subparagraph{B}\label{b}}
+
+child: pP, partner: pp
+
+pp, (p1p1) -\textgreater{} p pp, (p1p2) -\textgreater{} p Pp, (Pp1)
+-\textgreater{} P Pp, (Pp2) -\textgreater{} P
+
+50\% chance of having PKU disorder
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{A promoter mutation that reduces expression of PAH protein to
+  50\% of normal levels.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Given that ``classic PKU'' results from near complete loss of PAH
+    function, a 50\% loss would most likely be classified as ``mild
+    PKU''
+  \end{enumerate}
+\item
+  \textbf{A missense mutation that changes an amino acid in the PAH
+  enzyme's active site, preventing any phenylalanine from binding
+  there.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    This would completely inhibit PAH function, leading to ``classic
+    PKU''
+  \end{enumerate}
+\item
+  \textbf{A frameshift mutation very early in the coding sequence of the
+  PAH gene.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    A frameshift mutation early on would cause almost the entire
+    sequence to be translated incorrectly. Most likely, this would lead
+    to near complete loss of function, and thus, ``classic PKU''
+  \end{enumerate}
+\item
+  \textbf{A missense mutation that changes an amino acid in an
+  allosteric site (an enzyme site that is not directly involved in
+  breaking down phenylalanine), leading to a 40\% reduction in the rate
+  of enzyme activity.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    40\% reduction is not near-complete, and would most likely be
+    classified as ``mild PKU''
+  \end{enumerate}
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{section-1}{%
+\subsection{2}\label{section-1}}
+
+\hypertarget{a-1}{%
+\subparagraph{A}\label{a-1}}
+
+Most woman have two X chromosomes, whereas most men have a X chromosome
+and a Y chromosome. Since hemophilia is located on the X chromosome, in
+men, it doesn't have a chance to be dominated.
+
+\hypertarget{b-1}{%
+\subparagraph{B}\label{b-1}}
+
+For the woman to be healthy and have any hemophilia-associated alleles,
+they must have a singular recessive mutation.
+
+Somatic cells, carrying 23 pairs of chromosomes, have all the genetic
+information which is all copied by mitosis. Thus, they will contain the
+hemophilia-associated allele.
+
+Meiosis produces haploid cells with only 23 singular 2-chromatid
+chromosomes. Thus, only half would have the mutant x chromosome.
+
+\hypertarget{c}{%
+\subparagraph{C}\label{c}}
+
+woman: xX, man: XY
+
+For their child to be male, the man has to pass down his Y, leaving
+options:
+
+xY, XY.
+
+Thus, their is a 50\% chance of hemophilia.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{section-2}{%
+\subsection{3}\label{section-2}}
+
+\hypertarget{a-2}{%
+\subparagraph{A}\label{a-2}}
+
+Given that p53 is a negative regulator, it most likely has a loss of
+function mutation, making it less effective at doing its job of pausing
+cell cycle progression when needed and initiating cell death. When p53
+is less effective, an uncontrolled overgrowth of cells is more likely to
+occur.
+
+\hypertarget{b-2}{%
+\subparagraph{B}\label{b-2}}
+
+Given that RET is a positive regulator, MEN2 mutations would most likely
+cause a gain of function. The RET protein would be more prone to
+signaling for cell progression, pushing cell division forward before
+everything is necessarily ready. This would increase the likelihood of
+cancer.
+
+\end{document}

@@ -1,0 +1,249 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage[T1]{fontenc} % https://latex.org/forum/viewtopic.php?t=5540
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont{Iosevka Aile Light}
+%\setmainfont[
+%  ItalicFont      = NimbusSansNarrow,
+%  BoldFont        = NimbusSansBold,
+%  BoldItalicFont  = NimbusSans-BoldItalic]{NimbusSans}
+%\setmainfont[
+%  ItalicFont     = Helvetica-Italic,
+%  BoldFont       = Helvetica-Bold,
+%  BoldItalicFont = Helvetica-BoldItalic]{Helvetica}
+%\setmainfont[
+%  ItalicFont     = HelveticaNeue-Italic,
+%  BoldFont       = HelveticaNeue-Bold,
+%  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight{Iosevka Aile Thin}
+%\newfontfamily\NHLight[
+%  ItalicFont     = Helvetica-LightItalic,
+%  BoldFont       = Helvetica-UltraLight,
+%  BoldItalicFont = Helvetica-UltraLightItalic]{Helvetica}
+%\newfontfamily\NHLight[
+%  ItalicFont     = HelveticaNeue-LightItalic,
+%  BoldFont       = HelveticaNeue-UltraLight,
+%  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Calypso Poem by Kamau Braithwaite }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13715)}}    % original
+%\rhead{\textrmlf{Compiled }\#13715\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{listening}{%
+\section{listening}\label{listening}}
+
+\hypertarget{many-lines-follow-the-calypso-pattern}{%
+\subsection{many lines follow the calypso
+pattern}\label{many-lines-follow-the-calypso-pattern}}
+
+\hypertarget{but-some-clash}{%
+\subsection{but some clash}\label{but-some-clash}}
+
+\hypertarget{and-3-specifically-clash}{%
+\subsection{2 and 3 specifically clash}\label{and-3-specifically-clash}}
+
+\hypertarget{silent-reading}{%
+\section{silent reading}\label{silent-reading}}
+
+\hypertarget{some-of-the-later-stanzas-really-do-fall-apart-both-rhyme-scheme-and-structure}{%
+\subsection{some of the later stanzas really do fall apart, both rhyme
+scheme and
+structure}\label{some-of-the-later-stanzas-really-do-fall-apart-both-rhyme-scheme-and-structure}}
+
+\hypertarget{pattern-of-fast-and-slow-sections}{%
+\subsection{pattern of fast and slow
+sections}\label{pattern-of-fast-and-slow-sections}}
+
+\hypertarget{seems-to-loose-structure-the-way-the-island-life-collapsed}{%
+\subsection{seems to loose structure the way the island life
+collapsed}\label{seems-to-loose-structure-the-way-the-island-life-collapsed}}
+
+\hypertarget{reading-calypso-music}{%
+\section{reading + calypso music}\label{reading-calypso-music}}
+
+\hypertarget{most-lines-go-together-with-the-music-but-some-lines-are-far-shorter-should-be-combined}{%
+\subsection{most lines go together with the music, but some lines are
+far shorter / should be
+combined}\label{most-lines-go-together-with-the-music-but-some-lines-are-far-shorter-should-be-combined}}
+
+\hypertarget{dont-clash-as-much-as-i-expected-the-music-gives-the-poem-structure}{%
+\subsection{don't clash as much as I expected, the music gives the poem
+structure}\label{dont-clash-as-much-as-i-expected-the-music-gives-the-poem-structure}}
+
+\hypertarget{eliza-sanders-cheery-music-seems-to-make-it-even-darker}{%
+\subsection{eliza sanders: cheery music seems to make it even
+darker}\label{eliza-sanders-cheery-music-seems-to-make-it-even-darker}}
+
+\end{document}

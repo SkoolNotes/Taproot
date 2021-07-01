@@ -1,0 +1,270 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ Physics }
+\newcommand{\thelesson}{ Computer Speed by Capacitance and Resistance }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2121)}}    % original
+%\rhead{\textrmlf{Compiled }\#2121\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2121\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=2020PHYS201/exr0n20phys201retIndex.md}{\tiny\textulf{[[}\textbf{2020PHYS201/exr0n20phys201retIndex.md}\textulf{]]}}}\thinspace
+
+\hypertarget{homework-question}{%
+\section{Homework Question}\label{homework-question}}
+
+\begin{quote}
+To carry signals on silicon chips, metal conductors are created. These
+are usually in the form of rectangular strips as seen in the highly
+magnified image below. Many of the conductors in this image appear to be
+connected to nothing, but they are making contact to structures and
+conductors in lower layer(s). Some are short, but others may run the
+entire length of the chip.
+\end{quote}
+
+\begin{figure}
+\centering
+\includegraphics{KBsrcComputerInternalsAsCapacitors.png}
+\caption{KBsrcComputerInternalsAsCapacitors.png}
+\end{figure}
+
+\begin{quote}
+``Signals'' are of course nothing other than changing voltages. So
+imagine that at one point on the chip, a switch is closed that connects
+two conductors to the opposite ends of a battery. The question is, how
+long does it take for the other end of the conductors to reach a
+substantial fraction of the battery voltage?
+\end{quote}
+
+\begin{quote}
+Assume the conductors are L meters long, H meters high, W meters wide,
+and are separated by S meters. The gap between the conductors is filled
+with an insulator having relative dielectric constant \(\kappa\).
+\end{quote}
+
+\begin{quote}
+Write an expression for the resistance of each conductor in terms of the
+above quantities, and the resistivity of the conductor material,
+\(\rho\).
+\end{quote}
+
+\[R = \frac{L\rho}{HW}\]
+
+\begin{quote}
+Write an expression for the capacitance of the two conductors, assuming
+they form a parallel-plate capacitor.
+\end{quote}
+
+\[C = \frac{\kappa \epsilon_0 LH}{S}\]
+
+The area should be \(LH\) and not \(HW\), because while charge collects
+in the opposite corners when there is no field \(E\) (in
+electrostatics), charge will collect on the face near the other wire in
+this case because we have a E field (the whole point of a capacitor).
+
+\begin{quote}
+Combine these to estimate the time it takes for the far end of the
+conductors to rise to an appreciable fraction of the battery voltage. Do
+any of the parameters listed above cancel out?
+\end{quote}
+
+\[
+\begin{aligned}
+\tau = RC = \frac{L\rho}{\cancel{H}W} \frac{\kappa \epsilon_0 L\cancel{H}}{S} \text{in} \frac{m^2\Omega m\frac{C^2}{Nm^2}}{m^2} = \frac{\cancel{m^2}\Omega m C^2}{m^2N\cancel{m^2}} = \frac{\cancel{m^2}kg\ \cancel{m^2}\ m \cancel{C^2}}{\cancel{m^2}N\cancel{m^2}\cancel{C^2}s} = \frac{kg\ m}{\frac{kg\ m}{s^2}s} = s\\
+\end{aligned}
+\]
+
+\begin{quote}
+Assume the conductive strips are made of aluminum, L = 250 μm, k = 2,
+and H = W = S = 20 nanometers, \(\rho = 2.65\times10^{−8}\). What is
+your calculation of the time constant? Be careful with units, and check
+to make sure that your answer is in seconds. What does the time constant
+have to do with how many signals or voltage changes can be sent per
+second?
+\end{quote}
+
+\[\tau
+= \rho\kappa\epsilon_0\frac{L^2}{WS} = 7.33\times10^{-11}
+\]
+
+where \(\tau\) is the ``time constant'', which will show up alot:
+{[}{[}KBrefPhysTimeConstant{]}{]}
+
+\hypertarget{icr-in-class-review}{%
+\section{\#icr in class review}\label{icr-in-class-review}}
+
+The voltage that we expect to see across the ends of the conductors:
+{[}{[}srcWiresAsCapacitorsSlowSignal.png{]}{]}
+
+\hypertarget{why-does-capacitence-make-it-go-slower}{%
+\subsection{why does capacitence make it go
+slower?}\label{why-does-capacitence-make-it-go-slower}}
+
+\begin{itemize}
+\tightlist
+\item
+  Because you are able to fit more charge onto the wire, which means you
+  have to put more charge to get the signal to go all the way down the
+  wire
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

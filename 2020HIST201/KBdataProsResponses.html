@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title> ML301 Data Processing Responses </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>ML301</strong> Data Processing Responses </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request="><span><strong>[[</strong></span><strong></strong><span><strong>]]</strong></span></a></span></p>
+            <p>#ret</p>
+            <hr />
+            <p>Original Submission: <span>[</span><span>[</span>KBDataProcessingRett<span>]</span><span>]</span></p>
+            <h1 id="comment-response">Comment Response</h1>
+            <ul>
+            <li><p>2b. How do you convert from the 1-10 rating scale to positive/negative/neutral?</p>
+            <ul>
+            <li><p>You would have to pick ranges that define what is positive/negative/neutral</p></li>
+            </ul></li>
+            <li><p>2c. Given that the reviews vary greatly in their length, is one of these preferred over the other?</p>
+            <ul>
+            <li><p>BOW doesn’t work well when length varies. TFIDF, however, does.</p></li>
+            </ul></li>
+            <li><p>2e. Why not accuracy, precision, or recall?</p>
+            <ul>
+            <li><p>Those would all work as well. I just decided to list one possible validation metric as opposed to all of them.</p></li>
+            </ul></li>
+            <li><p>3a. This could work, but I think you will find this problem more straightforward as a different kind of problem.</p>
+            <ul>
+            <li><p>I guess this problem could be done as a clustering problem, representing each movie as a location in a multidimensional space then placing users in the space and clustering.</p></li>
+            </ul></li>
+            <li><p>3b. Semi-supervised usually refers to models where we have some labels, and we generate additional labels. Where do our labels come from? How do we generate the additional ones?</p>
+            <ul>
+            <li><p>The original labels would most likely be generated. As time progresses, we get labels back from the users that are interacting with our model’s recommendations.</p></li>
+            </ul></li>
+            <li><p>3c. Be more specific: which features would you use which techniques on? For example, you could use bag of words or OHE on the names of the stars, but you’d get pretty different results depending on which one you picked.</p>
+            <ul>
+            <li><p>OHE: name of stars, genre. BOW or TFID: title.</p></li>
+            </ul></li>
+            <li><p>3e. A user not watching a recommendation is not necessarily good signal on whether it’s a good recommendation (i.e. I might really like a movie, and just not have time to watch it right now). Conversely, a user watching a movie is not necessarily signal that it was a good recommendation (maybe I watched it because you recommended it, but I hated it).</p>
+            <ul>
+            <li><p>This depends on the goal of the recommendation. If you get a good recommendation and don’t watch it, was it really a good recommendation? If the goal is simply to increase watch time, and thus increase the number of ads viewed, then yes watching or not watching is a good metric. Think click-bait. Of course, this has to be weighed against the long term effects of the recommendation.</p></li>
+            </ul></li>
+            <li><p>3f. I know you are kidding (I hope so, at least!), but the whole point of us learning about ethics is precisely so that they do not crumble in the face of capitalism!</p>
+            <ul>
+            <li><p>I think maybe we should shift the goal to rebuilding the already crumbled ethics…</p></li>
+            </ul></li>
+            <li><p>4b. Where do these labels come from?</p>
+            <ul>
+            <li><p>From the friends you asked.</p></li>
+            </ul></li>
+            <li><p>4c/d. Why WPIE/NN? Is there a simpler approach we might try first?</p>
+            <ul>
+            <li><p>BOW, TFIDF, or word vectors would work, but Facebook’s method itself would most likely work better. As for the type of model, Decision Trees and Random Forests would work.</p></li>
+            </ul></li>
+            <li><p>4e. Why not accuracy, precision, or recall?</p>
+            <ul>
+            <li><p>Again, just decided to list one validation metric. Accuracy, precision, and recall would also work.</p></li>
+            </ul></li>
+            </ul>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

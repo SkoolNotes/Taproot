@@ -1,0 +1,369 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ lb's NLP glossary }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12264)}}    % original
+%\rhead{\textrmlf{Compiled }\#12264\textrmlf{ on} \today }      % old date
+\rhead{
+      \textrmlf{Compiled }
+  \#12264
+  \textrmlf{ }
+    \textrmlf{on} 02 April 2021
+    }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{problem-types}{%
+\section{problem types}\label{problem-types}}
+
+\hypertarget{seq2seq}{%
+\subsection{seq2seq}\label{seq2seq}}
+
+Given an input sequence, generate an output sequence of tokens.
+
+\hypertarget{question-answering-qa}{%
+\subsection{question answering (QA)}\label{question-answering-qa}}
+
+given a question, find or generate an answer
+
+\hypertarget{free-form-question-answering}{%
+\subsubsection{free form question
+answering}\label{free-form-question-answering}}
+
+generate answer text given a question (and optionally, context)
+
+\hypertarget{open-domain-question-answering-openqa-odqa}{%
+\subsubsection{open domain question answering (OpenQA,
+ODQA)}\label{open-domain-question-answering-openqa-odqa}}
+
+the model is only given a question (no context)
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  closed book question answering (CBQA)
+
+  the model answers the question directly
+\item
+  open book question answering
+
+  the model answers using information from a knowledge base, knowledge
+  graph, corpus, or other info source
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    distantly supervised open-domain question-answering (DS-QA)
+
+    find answers in collections of unlabeled text (open book question
+    answering on a corpus)
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{reading-comprehension-rc}{%
+\subsection{reading comprehension (RC)}\label{reading-comprehension-rc}}
+
+close reading to understand a short (paragraph) of natural text, usually
+to answer questions
+
+\hypertarget{information-retrieval-ir}{%
+\subsection{information retrieval (IR)}\label{information-retrieval-ir}}
+
+given a question, the task of finding relevant paragraphs from a corpus
+(ex. by the retriever to pass to the reader)
+
+\hypertarget{internal-representation}{%
+\section{internal representation}\label{internal-representation}}
+
+\hypertarget{knowledge-graph-kg}{%
+\subsection{knowledge graph (KG)}\label{knowledge-graph-kg}}
+
+a set of entities and relationships between them, ex. 'barak obama' 'in'
+'us presidents', and 'barak obama' 'in' 'fathers'. details are highly
+implementation dependent
+
+\hypertarget{corpus}{%
+\subsection{corpus}\label{corpus}}
+
+raw, natural text. for example, the wikipedia corpus is the raw wikitext
+of wikipedia (maybe without links, etc. but human text.)
+
+\hypertarget{model-architectures}{%
+\section{model architectures}\label{model-architectures}}
+
+\hypertarget{retriever-reader}{%
+\subsection{retriever-reader}\label{retriever-reader}}
+
+The model consists of a retriever model and a reader model.
+
+\hypertarget{retriever}{%
+\subsubsection{retriever}\label{retriever}}
+
+Smaller model that scans the corpus for relevant paragraphs to pass to
+the reader
+
+\hypertarget{reader}{%
+\subsubsection{reader}\label{reader}}
+
+Larger model that does reading comprehension on the input context and
+the question. It may predict the answer span, or generate a free-form
+response, etc.
+
+\hypertarget{mlp-multi-layer-perceptron}{%
+\subsection{MLP (multi-layer
+perceptron)}\label{mlp-multi-layer-perceptron}}
+
+Bog standard feed forward neural network,
+\href{https://en.wikipedia.org/wiki/Multilayer_perceptron}{wikipedia}
+
+\hypertarget{techniques}{%
+\section{techniques}\label{techniques}}
+
+\hypertarget{answer-re-ranking}{%
+\subsection{answer re-ranking}\label{answer-re-ranking}}
+
+Store a bunch of possible answers in memory, and re-rank them (as new
+information (more paragraphs) are processed, or by considering other
+passages that came up with the same answer). Then, the answer will have
+to agree with multiple paragraphs.
+
+\hypertarget{strength-based-re-ranking}{%
+\subsubsection{strength-based
+re-ranking}\label{strength-based-re-ranking}}
+
+find sources that corroborate an answer by seeing how many passages say
+any given answer is likely, and how much the passage supports that
+answer
+
+\hypertarget{coverage-based-re-ranking}{%
+\subsubsection{coverage-based
+re-ranking}\label{coverage-based-re-ranking}}
+
+for each answer, concat contexts that gave that answer and see if the
+expanded context answers the question better 'could entail the
+question?' via match-lstm (or other means)
+
+\hypertarget{sources}{%
+\subsubsection{sources}\label{sources}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \href{papers/suyan2021floWangEvidenceAggregationAnswerRerankingODQA.org}{Wang
+  et al.~evidence aggregation for answer reranking in odqa}
+\end{enumerate}
+
+\hypertarget{term-frequency-inverse-document-frequency-tf-idf}{%
+\subsection{term frequency, inverse document frequency
+(TF-IDF)}\label{term-frequency-inverse-document-frequency-tf-idf}}
+
+Used for scoring how related a document is to a word. good for IR and
+keyword extraction
+
+Product of term frequency (how often a term appears in a document) and
+inverse document frequency (how often that term appears in other
+documents).
+
+\hypertarget{term-frequency}{%
+\subsubsection{term frequency}\label{term-frequency}}
+
+Number of times a word appears in a document, normalized either by the
+number of occurrences of the most common word or by length of the
+document.
+
+\hypertarget{inverse-document-frequency}{%
+\subsubsection{inverse document
+frequency}\label{inverse-document-frequency}}
+
+log((Number of documents) / (number of documents containing the word))
+
+Between 0 and 1, with 0 meaning a common word and \textasciitilde1
+meaning a very rare word
+
+\hypertarget{sources-1}{%
+\subsubsection{sources}\label{sources-1}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \url{https://monkeylearn.com/blog/what-is-tf-idf/}
+\end{enumerate}
+
+\end{document}

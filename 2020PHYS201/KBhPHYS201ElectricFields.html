@@ -1,23 +1,23 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="pandoc" />
-  <title> PHYS201 Electric fields </title>
-  <style type="text/css">code{white-space: pre;}</style>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" type="text/javascript"></script>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-<style>
-    html {
-        min-height: 100%;
-        min-width: 100%;
-        font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-        font-weight: 300;
-        background-color: #fafafa;
-    }
-    
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title> PHYS201 Electric fields </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
     #center-viewport {
         margin: 0 auto;
         padding-left: 20px;
@@ -64,84 +64,87 @@
         margin: 0;
     }
 
-</style>
-</head>
-<body>
-    <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
-        <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>PHYS201</strong> Electric fields </span></div>
-    </div>
-  <div id="center-viewport">
-      <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhPHYS201IntroToElectrostaticsLN"><span><strong>[[</strong></span><strong>KBhPHYS201IntroToElectrostaticsLN</strong><span><strong>]]</strong></span></a></span></p>
-      <h1 id="electric-fields">Electric Fields</h1>
-      <hr />
-      <h2 id="calculation-cheatsheet"><strong>Calculation CheatSheet!</strong></h2>
-      <p>To recall, Coulomb’s Law <span>[</span><span>[</span>KBhPHYS201ColoumbsLaw<span>]</span><span>]</span> looks like <span class="math inline">\(F_{attraction} = k\frac{Q_1Q_2}{R^2}\)</span>, which is eerily similar to the Force of Gravity, <span class="math inline">\(F_{grav} = G\frac{M_2M_2}{R^2}\)</span>.</p>
-      <p>And so, by the some token, we could also redefine electric force by splitting the function in the same way as with gravity fields:</p>
-      <p>Definition <span class="math inline">\(\cdot\)</span> [ <strong>Electric Field</strong> <span><span class="math inline">\(E = \frac{k \times Q_2}{R^2}\)</span></span> ] <span><br />
-      </span></p>
-      <p>Definition <span class="math inline">\(\cdot\)</span> [ <strong>Electric Force</strong> <span><span class="math inline">\(F_{attraction} = E Q_1\)</span></span> ] <span><br />
-      <span>where <span class="math inline">\(E\)</span> is <span class="math inline">\(Q_2\)</span>’s electric field</span></span></p>
-      <p>Unsurprisingly, the units for <em>Electric Field</em> is <span class="math inline">\(\frac{N}{C}\)</span>, and no, before you get excited, there is nothing it equals.</p>
-      <hr />
-      <h2 id="directionality-of-electric-fields">Directionality of Electric Fields</h2>
-      <p>With masses (and w.r.t. <span>[</span><span>[</span>KBh_PHYS201_GravitationalFields<span>]</span><span>]</span> gravitational fields), it’s easy. Masses always <em>attracts</em> because negative mass doesn’t exist (<em>yet</em>). But, with an electric field, figuring out directions is harder.</p>
-      <p>So, we have two choices to dealing with directions:</p>
-      <ol>
-      <li><p>Electric field of any <span class="math inline">\(Q\)</span> has two values, one “attract field” and one “repel field”</p></li>
-      <li><p>Drawing a single vector <span class="math inline">\(\vec{E}\)</span>, but remember that the direction of the vector depends on what’s dropped in it</p></li>
-      </ol>
-      <p>USE OPTION <strong>2</strong>.</p>
-      <p>In this manner, when we say, “this atom has a electric field vector in this direction”, we mean two things</p>
-      <ol>
-      <li><p>When a positive test change is dropped onto that vector, it will experience force in the same direction as the vector</p></li>
-      <li><p>When a negative "" "" "`‘,’’" "" "" the opposite direction as the vector</p></li>
-      </ol>
-      <h2 id="illustrating-electric-fields">Illustrating Electric Fields</h2>
-      <p>There are two ways of illustrating electric fields — either drawing an infinite amount of vectors (that’s a lot of vectors), or drawing lines originating from the main particle lining up all the vectors (Think! The original Japanese flag.)</p>
-      <p>See <span>[</span><span>[</span>KBhPHYS201IllustratingElectricFields<span>]</span><span>]</span> illustrating electric fields.</p>
-      <h2 id="electric-field-interactions">Electric Field Interactions</h2>
-      <p>See <span>[</span><span>[</span>KBhPHYS201ElectricFieldInteractions<span>]</span><span>]</span> Electric Field Interactions.</p>
-      <h2 id="conductors-electric-field-interactions">Conductors + Electric Field Interactions</h2>
-      <p>To get our modern world, <strong>Conductors</strong> — metals and other elements in which electrons could move freely — are an important item to study and model. Lots of problems involve interactions between electrons + electric fields being placed in and around conductors.</p>
-      <p>See <span>[</span><span>[</span>KBhPHYS201ConductorsEquilibrium<span>]</span><span>]</span></p>
-      <h2 id="gravity-and-voltage">Gravity and Voltage</h2>
-      <p>In addition to the measurements of field strength with <span class="math inline">\(\frac{N}{C}\)</span>, there is a unit called Volts (<span class="math inline">\(V\)</span>), measuring the amount of energy in an electric field.</p>
-      <p>See <span>[</span><span>[</span>KBhPHYS201Voltage<span>]</span><span>]</span></p>
-      <h2 id="an-now-something-interesting">An now, something interesting</h2>
-      <p>Take, a neutral conductor.</p>
-      <p><img src="./2020PHYS201/Screen Shot 2020-08-24 at 9.44.46 PM.png" alt="image" /></p>
-      <p>At the point of the cursor, there would be an electric field cause by the central charge going outwards; at which point the following will happen…</p>
-      <ol>
-      <li><p>The red (positive) charge attracts electrons to the inside of the tube</p></li>
-      <li><p>These newly electrons set up their own electric fields equal and opposite to the electric field by the central electron (because of the Electric Field Deux. Gravitational Field thing)</p></li>
-      </ol>
-      <p>So, the conductor has a net electric field of 0. It’s static.</p>
-      <p>Because of the fact that the neutral conductor had both 1) and 2) going on, there is no tangent changes to the conductor (<strong>think!</strong> rule 2 aforementioned), and only field lines that are perpendicular (emitted by the red, positive charge), will be passed out.</p>
-      <h2 id="pressure-of-a-field-voltage">Pressure of a field: voltage</h2>
-      <p><span>[</span><span>[</span>KBe20phys201refVoltage<span>]</span><span>]</span></p>
-      <p>Annotated document: <span>[</span><span>[</span>SRCelectrostaticsPacket1annotatedExr0n.pdf<span>]</span><span>]</span></p>
-  </div>
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>PHYS201</strong> Electric fields </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhPHYS201IntroToElectrostaticsLN"><span><strong>[[</strong></span><strong>KBhPHYS201IntroToElectrostaticsLN</strong><span><strong>]]</strong></span></a></span></p>
+            <h1 id="electric-fields">Electric Fields</h1>
+            <hr />
+            <h2 id="calculation-cheatsheet"><strong>Calculation CheatSheet!</strong></h2>
+            <p>To recall, Coulomb’s Law <span>[</span><span>[</span>KBhPHYS201ColoumbsLaw<span>]</span><span>]</span> looks like <span class="math inline">\(F_{attraction} = k\frac{Q_1Q_2}{R^2}\)</span>, which is eerily similar to the Force of Gravity, <span class="math inline">\(F_{grav} = G\frac{M_2M_2}{R^2}\)</span>.</p>
+            <p>And so, by the some token, we could also redefine electric force by splitting the function in the same way as with gravity fields:</p>
+            <p>Definition <span class="math inline">\(\cdot\)</span> [ <strong>Electric Field</strong> <span><span class="math inline">\(E = \frac{k \times Q_2}{R^2}\)</span></span> ] <span><br />
+            </span></p>
+            <p>Definition <span class="math inline">\(\cdot\)</span> [ <strong>Electric Force</strong> <span><span class="math inline">\(F_{attraction} = E Q_1\)</span></span> ] <span><br />
+            <span>where <span class="math inline">\(E\)</span> is <span class="math inline">\(Q_2\)</span>’s electric field</span></span></p>
+            <p>Unsurprisingly, the units for <em>Electric Field</em> is <span class="math inline">\(\frac{N}{C}\)</span>, and no, before you get excited, there is nothing it equals.</p>
+            <hr />
+            <h2 id="directionality-of-electric-fields">Directionality of Electric Fields</h2>
+            <p>With masses (and w.r.t. <span>[</span><span>[</span>KBh_PHYS201_GravitationalFields<span>]</span><span>]</span> gravitational fields), it’s easy. Masses always <em>attracts</em> because negative mass doesn’t exist (<em>yet</em>). But, with an electric field, figuring out directions is harder.</p>
+            <p>So, we have two choices to dealing with directions:</p>
+            <ol>
+            <li><p>Electric field of any <span class="math inline">\(Q\)</span> has two values, one “attract field” and one “repel field”</p></li>
+            <li><p>Drawing a single vector <span class="math inline">\(\vec{E}\)</span>, but remember that the direction of the vector depends on what’s dropped in it</p></li>
+            </ol>
+            <p>USE OPTION <strong>2</strong>.</p>
+            <p>In this manner, when we say, “this atom has a electric field vector in this direction”, we mean two things</p>
+            <ol>
+            <li><p>When a positive test change is dropped onto that vector, it will experience force in the same direction as the vector</p></li>
+            <li><p>When a negative "" "" "`‘,’’" "" "" the opposite direction as the vector</p></li>
+            </ol>
+            <h2 id="illustrating-electric-fields">Illustrating Electric Fields</h2>
+            <p>There are two ways of illustrating electric fields — either drawing an infinite amount of vectors (that’s a lot of vectors), or drawing lines originating from the main particle lining up all the vectors (Think! The original Japanese flag.)</p>
+            <p>See <span>[</span><span>[</span>KBhPHYS201IllustratingElectricFields<span>]</span><span>]</span> illustrating electric fields.</p>
+            <h2 id="electric-field-interactions">Electric Field Interactions</h2>
+            <p>See <span>[</span><span>[</span>KBhPHYS201ElectricFieldInteractions<span>]</span><span>]</span> Electric Field Interactions.</p>
+            <h2 id="conductors-electric-field-interactions">Conductors + Electric Field Interactions</h2>
+            <p>To get our modern world, <strong>Conductors</strong> — metals and other elements in which electrons could move freely — are an important item to study and model. Lots of problems involve interactions between electrons + electric fields being placed in and around conductors.</p>
+            <p>See <span>[</span><span>[</span>KBhPHYS201ConductorsEquilibrium<span>]</span><span>]</span></p>
+            <h2 id="gravity-and-voltage">Gravity and Voltage</h2>
+            <p>In addition to the measurements of field strength with <span class="math inline">\(\frac{N}{C}\)</span>, there is a unit called Volts (<span class="math inline">\(V\)</span>), measuring the amount of energy in an electric field.</p>
+            <p>See <span>[</span><span>[</span>KBhPHYS201Voltage<span>]</span><span>]</span></p>
+            <h2 id="an-now-something-interesting">An now, something interesting</h2>
+            <p>Take, a neutral conductor.</p>
+            <p><a href="./Screen%20Shot%202020-08-24%20at%209.44.46%20PM.png">Screen Shot 2020-08-24 at 9.44.46 PM.png</a></p>
+            <p>At the point of the cursor, there would be an electric field cause by the central charge going outwards; at which point the following will happen…</p>
+            <ol>
+            <li><p>The red (positive) charge attracts electrons to the inside of the tube</p></li>
+            <li><p>These newly electrons set up their own electric fields equal and opposite to the electric field by the central electron (because of the Electric Field Deux. Gravitational Field thing)</p></li>
+            </ol>
+            <p>So, the conductor has a net electric field of 0. It’s static.</p>
+            <p>Because of the fact that the neutral conductor had both 1) and 2) going on, there is no tangent changes to the conductor (<strong>think!</strong> rule 2 aforementioned), and only field lines that are perpendicular (emitted by the red, positive charge), will be passed out.</p>
+            <h2 id="pressure-of-a-field-voltage">Pressure of a field: voltage</h2>
+            <p><span>[</span><span>[</span>KBe20phys201refVoltage<span>]</span><span>]</span></p>
+            <p>Annotated document: <span>[</span><span>[</span>SRCelectrostaticsPacket1annotatedExr0n.pdf<span>]</span><span>]</span></p>
+        </div>
 
-  <script>
-      $(document).ready(function() {
-          // Generate clickable links
-          let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/(\w)*/);
-              if (docPointer) {
-                  let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
-                  return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
-              } else {
-                  console.log(`Cannot parse , returning...`);
-                  return x;
-              }
-          })
-          $("#center-viewport").html(content);
-          $("img").each(function() {  
-              let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
-              console.log(src);
-              $(this).attr("src", src);
-          });
-      });
-  </script>
-</body>
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
 </html>

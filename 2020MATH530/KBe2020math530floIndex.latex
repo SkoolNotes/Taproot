@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4372)}}    % original
+%\rhead{\textrmlf{Compiled }\#4372\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4372\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -165,10 +167,51 @@
 \textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
+Master Index: {[}{[}KBe2020math530index{]}{]}
+
 Homework index: {[}{[}KBe2020math530refExr0nRetIndex{]}{]}
 
-{[}{[}KBe2020math530flo1{]}{]} {[}{[}KBe2020math530flo2{]}{]}
-{[}{[}KBe2020math530flo3{]}{]} {[}{[}20math530flo4{]}{]}
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBe2020math530flo1{]}{]}
+\item
+  {[}{[}KBe2020math530flo2{]}{]}
+\item
+  {[}{[}KBe2020math530flo3{]}{]}
+\item
+  {[}{[}KBe20math530flo4{]}{]}
+\item
+  {[}{[}KBe20math530flo5{]}{]}
+\item
+  {[}{[}KBe20math530flo6{]}{]}
+\item
+  {[}{[}KBe20math530flo7{]}{]}
+\item
+  {[}{[}Kbe20math530flo8{]}{]}
+\item
+  {[}{[}KBe20math530flo9{]}{]}
+\item
+  {[}{[}KBe20math530flo10{]}{]}
+\item
+  {[}{[}KBe20math530flo11{]}{]}
+\item
+  {[}{[}KBe20math530flo12{]}{]}
+\item
+  {[}{[}KBe20math530flo13{]}{]}
+\item
+  {[}{[}KBe20math530flo14{]}{]}
+\item
+  {[}{[}KBe20math530flo15{]}{]}
+\item
+  {[}{[}KBe20math530flo16{]}{]}
+\item
+  {[}{[}KBe20math530flo17{]}{]}
+\item
+  {[}{[}KBe20math530flo18{]}{]}
+\item
+  {[}{[}KBe20math530flo19{]}{]} (thursday, no school tuesday)
+\end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

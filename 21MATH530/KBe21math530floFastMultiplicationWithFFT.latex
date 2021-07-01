@@ -1,0 +1,783 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Fast multiplication with fast fourier
+transforms }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11569)}}    % original
+%\rhead{\textrmlf{Compiled }\#11569\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{base-knowlege}{%
+\section{base knowlege}\label{base-knowlege}}
+
+\hypertarget{primitive-root-of-unity}{%
+\subsection{primitive root of unity}\label{primitive-root-of-unity}}
+
+\hypertarget{a-number-r-is-a-primitive-nth-root-of-unity-iff-n-is-the-smallest-counting-number-for-which-rn-1.}{%
+\subsubsection{\texorpdfstring{a number \(r\) is a primitive \$n\$th
+root of unity iff \(n\) is the smallest counting number for which
+\(r^n = 1\).}{a number r is a primitive \$n\$th root of unity iff n is the smallest counting number for which r\^{}n = 1.}}\label{a-number-r-is-a-primitive-nth-root-of-unity-iff-n-is-the-smallest-counting-number-for-which-rn-1.}}
+
+\hypertarget{httpsmathworld.wolfram.comprimitiverootofunity.html}{%
+\subsubsection{\texorpdfstring{\url{https://mathworld.wolfram.com/PrimitiveRootofUnity.html}
+{\textsc{source}}}{https://mathworld.wolfram.com/PrimitiveRootofUnity.html source}}\label{httpsmathworld.wolfram.comprimitiverootofunity.html}}
+
+\hypertarget{convolution-theorem}{%
+\subsection{convolution theorem}\label{convolution-theorem}}
+
+\hypertarget{depends-fundamentally-on-the-convolution-theorem-which-provides-an-efficient-way-to-compute-the-cyclic-convolution-of-two-sequences.-it-states-that-the-cyclic-convolution-of-two-vectors-can-be-found-by-taking-the-discreate-fourier-transform-of-each-of-them-multiplying-the-resulting-vectors-element-by-element-and-then-taking-the-inverse-discrete-fourier-transform.}{%
+\subsubsection{'depends fundamentally on the convolution theorem, which
+provides an efficient way to compute the cyclic convolution of two
+sequences. It states that the cyclic convolution of two vectors can be
+found by taking the discreate fourier transform of each of them,
+multiplying the resulting vectors element by element, and then taking
+the inverse discrete fourier
+transform.'}\label{depends-fundamentally-on-the-convolution-theorem-which-provides-an-efficient-way-to-compute-the-cyclic-convolution-of-two-sequences.-it-states-that-the-cyclic-convolution-of-two-vectors-can-be-found-by-taking-the-discreate-fourier-transform-of-each-of-them-multiplying-the-resulting-vectors-element-by-element-and-then-taking-the-inverse-discrete-fourier-transform.}}
+
+\hypertarget{sources}{%
+\section{sources}\label{sources}}
+
+\hypertarget{explanation-of-multiplication-algorithm}{%
+\subsection{\texorpdfstring{\href{http://numbers.computation.free.fr/Constants/Algorithms/fft.html}{explanation
+of multiplication
+algorithm}}{explanation of multiplication algorithm}}\label{explanation-of-multiplication-algorithm}}
+
+\hypertarget{paper-explaining-the-multiplication-ando-emerencia-s1283936}{%
+\subsection{\texorpdfstring{\href{https://www.google.com/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=\&ved=2ahUKEwjtqdjE57jvAhV_HzQIHeAwALsQFjAFegQIEhAD\&url=http\%3A\%2F\%2Fwww.cs.rug.nl\%2F~ando\%2Fpdfs\%2FAndo_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf\&usg=AOvVaw1Sf0WR5er7An2U2vjzypZy}{paper
+explaining the multiplication ANDO EMERENCIA
+(S1283936)}}{paper explaining the multiplication ANDO EMERENCIA (S1283936)}}\label{paper-explaining-the-multiplication-ando-emerencia-s1283936}}
+
+\hypertarget{fft-medium-blog-post}{%
+\subsection{\texorpdfstring{\href{https://medium.com/@aiswaryamathur/understanding-fast-fourier-transform-from-scratch-to-solve-polynomial-multiplication-8018d511162f}{FFT
+Medium Blog Post}}{FFT Medium Blog Post}}\label{fft-medium-blog-post}}
+
+\hypertarget{wikipedia-on-schonhage-strassen-multiplication-algo}{%
+\subsection{\texorpdfstring{\href{https://en.wikipedia.org/wiki/Sch\%C3\%B6nhage\%E2\%80\%93Strassen_algorithm}{wikipedia
+on schonhage-strassen (multiplication
+algo)}}{wikipedia on schonhage-strassen (multiplication algo)}}\label{wikipedia-on-schonhage-strassen-multiplication-algo}}
+
+\hypertarget{uses-of-fft}{%
+\section{uses of FFT}\label{uses-of-fft}}
+
+\hypertarget{convert-mixed-signals-into-constituent-sinusoids}{%
+\subsection{convert mixed signals into constituent
+sinusoids}\label{convert-mixed-signals-into-constituent-sinusoids}}
+
+\hypertarget{multiply-polynomials-using-convolution-theorem}{%
+\subsection{multiply polynomials using convolution
+theorem}\label{multiply-polynomials-using-convolution-theorem}}
+
+\hypertarget{reduce-matrix-dimensionality}{%
+\subsection{reduce matrix
+dimensionality}\label{reduce-matrix-dimensionality}}
+
+\hypertarget{audio-processing-eg.-bass-boost-or-radio-denoising-for-eg.-wifi}{%
+\subsection{audio processing (eg. bass boost, or radio denoising for eg.
+wifi)}\label{audio-processing-eg.-bass-boost-or-radio-denoising-for-eg.-wifi}}
+
+\hypertarget{mri-machines-scan-certain-parts-using-different-overlapping-sinusoidal-magnitudes-of-magnetic-field}{%
+\subsection{MRI machines? scan certain parts using different overlapping
+sinusoidal magnitudes of magnetic
+field}\label{mri-machines-scan-certain-parts-using-different-overlapping-sinusoidal-magnitudes-of-magnetic-field}}
+
+\hypertarget{microscope-or-astronomy-image-decomposition}{%
+\subsection{microscope or astronomy image
+decomposition}\label{microscope-or-astronomy-image-decomposition}}
+
+\hypertarget{connection-to-heisenberg-uncertainty-principle-httpswww.youtube.comwatchvmbnnxbom5s4}{%
+\subsection{\texorpdfstring{connection to Heisenberg uncertainty
+principle
+(\url{https://www.youtube.com/watch?v=MBnnXbOM5S4})}{connection to Heisenberg uncertainty principle (https://www.youtube.com/watch?v=MBnnXbOM5S4)}}\label{connection-to-heisenberg-uncertainty-principle-httpswww.youtube.comwatchvmbnnxbom5s4}}
+
+\hypertarget{the-fourier-transform-graph-says-something-about-correlation}{%
+\subsubsection{the fourier transform graph says something about
+correlation}\label{the-fourier-transform-graph-says-something-about-correlation}}
+
+\begin{enumerate}
+\item
+  eg. for a pure signal (sine 5Hz), a winding frequency of \(\xi=5.01\)
+  will come out pretty high on the almost-fourier-transform graph, aka
+  it is closely correlated
+\item
+  since the actual fourier transform isn't divided by signal length,
+  longer signals will lead to higher (and steeper) peaks
+\item
+  these steeper peaks represent more certainty, and a shorter signal
+  means fewer cycles means the signal has less time to balance itself
+  out means the almost-fourier-transform will have shallower and wider
+  peak means less certainty
+\end{enumerate}
+
+\hypertarget{can-also-use-the-norm-of-the-fourier-transform-to-capture-both-x-and-y-bc-complex}{%
+\subsubsection{can also use the norm of the fourier transform (to
+capture both x and y bc
+complex)}\label{can-also-use-the-norm-of-the-fourier-transform-to-capture-both-x-and-y-bc-complex}}
+
+\hypertarget{when-using-doppler-radar-in-which-a-single-pulse-detects-position-normally-and-velocity-using-doppler-shift-this-trade-off-the-uncertainty-principle-shows-up}{%
+\subsubsection{when using Doppler radar (in which a single pulse detects
+position normally and velocity using Doppler shift), this trade off the
+uncertainty principle shows
+up}\label{when-using-doppler-radar-in-which-a-single-pulse-detects-position-normally-and-velocity-using-doppler-shift-this-trade-off-the-uncertainty-principle-shows-up}}
+
+\begin{enumerate}
+\item
+  since longer radar pulse introduce distance uncertainty and shorter
+  radar pulses have the frequency uncertainty implied by the fourier
+  transform as correlation above
+\end{enumerate}
+
+\hypertarget{particle-as-a-wave---relativistic-doppler-effect-ends-up-having-something-similar}{%
+\subsubsection{particle as a wave -\textgreater{} relativistic doppler
+effect ends up having something
+similar}\label{particle-as-a-wave---relativistic-doppler-effect-ends-up-having-something-similar}}
+
+\hypertarget{b1b-video-httpswww.youtube.comwatchvspunpyf58by}{%
+\section{\texorpdfstring{3b1b video
+\url{https://www.youtube.com/watch?v=spUNpyF58BY}}{3b1b video https://www.youtube.com/watch?v=spUNpyF58BY}}\label{b1b-video-httpswww.youtube.comwatchvspunpyf58by}}
+
+\hypertarget{unmixing-waves}{%
+\subsection{unmixing waves}\label{unmixing-waves}}
+
+\hypertarget{the-added-up-ones-seem-needlessly-complex-for-such-a-little-amount-of-info}{%
+\subsubsection{the added up ones seem needlessly complex for such a
+little amount of
+info}\label{the-added-up-ones-seem-needlessly-complex-for-such-a-little-amount-of-info}}
+
+\hypertarget{rotating-the-wave-around-a-circle}{%
+\subsection{rotating the wave around a
+circle}\label{rotating-the-wave-around-a-circle}}
+
+\hypertarget{aka-wave-around-the-circle-is-polar-coords-length-magnitude-of-wave-at-that-point-offset-phase-some-angular-velocity-the-rotation-frequency}{%
+\subsubsection{aka: wave around the circle is polar coords: length =
+magnitude of wave at that point, offset = phase + some angular velocity
+(the 'rotation'
+frequency)}\label{aka-wave-around-the-circle-is-polar-coords-length-magnitude-of-wave-at-that-point-offset-phase-some-angular-velocity-the-rotation-frequency}}
+
+\hypertarget{there-are-two-frequencies-1.-the-frequency-at-which-the-vector-goes-around-the-circle-winding-frequency-and-2.-the-original-and-true-frequency-of-the-wave}{%
+\subsubsection{there are two frequencies: 1. the frequency at which the
+vector goes around the circle 'winding frequency', and 2. the original
+and 'true' frequency of the
+wave}\label{there-are-two-frequencies-1.-the-frequency-at-which-the-vector-goes-around-the-circle-winding-frequency-and-2.-the-original-and-true-frequency-of-the-wave}}
+
+\hypertarget{when-the-frequencies-match-all-the-high-points-are-on-the-right-and-low-points-are-on-the-left-question-is-how-can-we-quantify-this-specialness}{%
+\subsubsection{when the frequencies match, all the high points are on
+the right and low points are on the left\ldots{} question is how can we
+quantify this
+specialness}\label{when-the-frequencies-match-all-the-high-points-are-on-the-right-and-low-points-are-on-the-left-question-is-how-can-we-quantify-this-specialness}}
+
+\hypertarget{center-of-mass-as-a-function-of-the-winding-frequency}{%
+\subsubsection{center of mass as a function of the winding
+frequency}\label{center-of-mass-as-a-function-of-the-winding-frequency}}
+
+\begin{enumerate}
+\item
+  frequency of zero is high, and then it wobbles for a while until a
+  frequency matches
+\end{enumerate}
+
+\hypertarget{central-construct}{%
+\subsection{central construct}\label{central-construct}}
+
+\hypertarget{original-plot-intensity-time}{%
+\subsubsection{original plot (intensity \textbar{}
+time)}\label{original-plot-intensity-time}}
+
+\hypertarget{winding-chart-wound-signal-signal-winding-frequency}{%
+\subsubsection{winding chart (wound signal \textbar{} signal, winding
+frequency)}\label{winding-chart-wound-signal-signal-winding-frequency}}
+
+\hypertarget{center-of-mass-plot-x-coord-winding-frequency}{%
+\subsubsection{center-of-mass plot (x coord \textbar{} winding
+frequency)}\label{center-of-mass-plot-x-coord-winding-frequency}}
+
+\begin{enumerate}
+\item
+  the spike at zero only happens because the original freq doesn't
+  oscillate about zero
+\end{enumerate}
+
+\hypertarget{he-calls-this-the-almost-fourier-transform}{%
+\subsection{he calls this the 'almost Fourier
+transform'}\label{he-calls-this-the-almost-fourier-transform}}
+
+\hypertarget{additive-you-can-take-the-almost-fourier-transform-first-or-you-can-take-the-sum-first-and-you-will-get-the-same-center-of-mass-plot-out}{%
+\subsubsection{additive: you can take the almost fourier transform first
+or you can take the sum first and you will get the same center-of-mass
+plot
+out}\label{additive-you-can-take-the-almost-fourier-transform-first-or-you-can-take-the-sum-first-and-you-will-get-the-same-center-of-mass-plot-out}}
+
+\begin{enumerate}
+\item
+  pause and ponder: multiple arrows going around the circle, tip to tail
+\end{enumerate}
+
+\hypertarget{formalizing-the-center-of-mass}{%
+\subsection{formalizing the 'center of
+mass'}\label{formalizing-the-center-of-mass}}
+
+\hypertarget{complex-numbers-works-well-for-2d-plane-and-rotation-can-be-described-by}{%
+\subsubsection{complex numbers: works well for 2d plane and rotation can
+be described
+by}\label{complex-numbers-works-well-for-2d-plane-and-rotation-can-be-described-by}}
+
+\[\begin{aligned}
+    e^{2\pi i t}
+    \end{aligned}\] by multiplying that \(t\) by a scalar, you can
+change the frequency: \[\begin{aligned}
+    e^{2\pi i f t }
+    \end{aligned}\]
+
+\hypertarget{actual-formalization}{%
+\subsubsection{actual formalization}\label{actual-formalization}}
+
+\begin{enumerate}
+\item
+  convention: rotate in clockwise direction
+
+  \[\begin{aligned}
+       e^{-2\pi ift}
+       \end{aligned}\]
+\item
+  let the original function be called \(g(t)\), then scale by that for
+  the 'vector following the original graph magnitude'
+
+  \[\begin{aligned}
+       g(t) e^{-2\pi ift}
+       \end{aligned}\]
+\item
+  tracking 'center of mass': sample points and average them
+
+  if \(N\) is the number of points that you sample and \(t_k\) is the
+  k-th sampled point, \[\begin{aligned}
+      \frac{1}{N}\sum_{i=1}^{N} g(t_k) e^{-2\pi i f t_k}
+       \end{aligned}\]
+\item
+  and if we want a more accurate sample, just take the limit to infinity
+
+  \[\begin{aligned}
+      \lim_{N \to\infty }\frac{1}{N} \sum_{i=1}^{N} g(t_k) e^{-2\pi i f t_k}
+       \end{aligned}\]
+\item
+  which is really the same as taking the integral
+
+  \[\begin{aligned}
+       \frac{1}{t_2-t_1}\int_{t_1}^{t_2} g(t) e^{-2\pi ift} dt
+       \end{aligned}\]
+\item
+  but we don't actually need to divide by the time interval
+
+  \[\begin{aligned}
+       \int_{t_1}^{t_2} g(t) e^{-2\pi ift} dt
+       \end{aligned}\]
+
+  This means that when a frequency persists for a long time, it gets
+  scaled more
+\end{enumerate}
+
+\hypertarget{reducible-on-fft}{%
+\section{\texorpdfstring{\href{https://www.youtube.com/watch?v=h7apO7q16V0}{Reducible
+on FFT}}{Reducible on FFT}}\label{reducible-on-fft}}
+
+\hypertarget{intro-its-important-and-beautiful}{%
+\subsection{intro: its important and
+beautiful}\label{intro-its-important-and-beautiful}}
+
+\hypertarget{start-with-multiplying-polynomials}{%
+\subsection{start with multiplying
+polynomials}\label{start-with-multiplying-polynomials}}
+
+\hypertarget{represent-by-list-of-coefficients-in-ascending-order-index-degree-of-term-polynomial-representation}{%
+\subsubsection{represent by list of coefficients in ascending order
+(index = degree of term) (polynomial
+representation)}\label{represent-by-list-of-coefficients-in-ascending-order-index-degree-of-term-polynomial-representation}}
+
+\hypertarget{another-option-two-point-representation}{%
+\subsubsection{another option: two-point
+representation}\label{another-option-two-point-representation}}
+
+\begin{enumerate}
+\item
+  extension: any degree \(n\) polynomial can be represented by \(n+1\)
+  points uniquely
+\item
+  proof: write as a system of equations, matrixify, and we know that the
+  matrix will be invertible
+\item
+  its a bijection, lets call it the value representation
+\end{enumerate}
+
+\hypertarget{now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-those-points-to-get-d_1-d_2-1-points-on-the-product-polynomial-and-then-solve-for-the-actual-equation}{%
+\subsubsection{\texorpdfstring{now to multiply, we can just take enough
+points on each polynomial and multiply those points to get
+\(d_1 + d_2 + 1\) points on the product polynomial, and then solve for
+the actual
+equation}{now to multiply, we can just take enough points on each polynomial and multiply those points to get d\_1 + d\_2 + 1 points on the product polynomial, and then solve for the actual equation}}\label{now-to-multiply-we-can-just-take-enough-points-on-each-polynomial-and-multiply-those-points-to-get-d_1-d_2-1-points-on-the-product-polynomial-and-then-solve-for-the-actual-equation}}
+
+\hypertarget{only-od-operations}{%
+\subsubsection{only O(d) operations}\label{only-od-operations}}
+
+\hypertarget{now-we-need-a-function-take-coefficients-to-values-and-values-to-coefficients-this-box-is-the-fast-fourier-transform}{%
+\subsubsection{now, we need a function take coefficients to values and
+values to coefficients, this box is the fast fourier
+transform}\label{now-we-need-a-function-take-coefficients-to-values-and-values-to-coefficients-this-box-is-the-fast-fourier-transform}}
+
+\hypertarget{forward-direction-evaluation}{%
+\subsection{forward direction:
+evaluation}\label{forward-direction-evaluation}}
+
+\hypertarget{naive-evaluating-each-point-takes-od-operations-which-means-the-total-eval-will-be-d2-which-is-no-better}{%
+\subsubsection{\texorpdfstring{naive: evaluating each point takes O(d)
+operations which means the total eval will be \(d^2\), which is no
+better}{naive: evaluating each point takes O(d) operations which means the total eval will be d\^{}2, which is no better}}\label{naive-evaluating-each-point-takes-od-operations-which-means-the-total-eval-will-be-d2-which-is-no-better}}
+
+\hypertarget{simpler-problem}{%
+\subsubsection{simpler problem}\label{simpler-problem}}
+
+\begin{enumerate}
+\item
+  suppose \(f(x) = x^2\), then picking points that are symmetric (bc
+  even function) means you only have to evaluate half of them
+\item
+  can also do something similar for odd functions. so when you split a
+  general polynomial into even terms and odd terms, then we can just
+  eval each and get double the results
+\end{enumerate}
+
+\hypertarget{he-calls-them-p_ex2-and-p_ox2-and-they-are-polynomials-of-x2-so-deg-2}{%
+\subsubsection{\texorpdfstring{he calls them \(P_e(x^2)\) and
+\(P_o(x^2)\), and they are polynomials of \(x^2\) so deg 2??
+{\textsc{toexpand}}}{he calls them P\_e(x\^{}2) and P\_o(x\^{}2), and they are polynomials of x\^{}2 so deg 2?? toexpand}}\label{he-calls-them-p_ex2-and-p_ox2-and-they-are-polynomials-of-x2-so-deg-2}}
+
+\hypertarget{so-now-we-recurse}{%
+\subsubsection{so now we recurse}\label{so-now-we-recurse}}
+
+\begin{enumerate}
+\item
+  now it will be \(O(n \log  n)\)
+\end{enumerate}
+
+\hypertarget{a-problem-we-need-to-choose-positivenegative-pairs-but-since-the-recursed-ones-are-squared-then-everything-will-be-positive}{%
+\subsubsection{a problem: we need to choose positive/negative pairs but
+since the recursed ones are squared, then everything will be
+positive}\label{a-problem-we-need-to-choose-positivenegative-pairs-but-since-the-recursed-ones-are-squared-then-everything-will-be-positive}}
+
+\begin{enumerate}
+\item
+  how to solve this problem\ldots{} work over the complex numbers!
+\item
+  now what initial points do we want to choose\ldots{} an example shows
+  that it should be \(x^n = 1\) for a fourth degree polynomial
+\item
+  so we want roots of unity, for some \(n \leq d+1\) and \(n = 2^k\)
+\item
+  how to write it:
+
+  \[\begin{aligned}
+       \omega = e^{\frac{2\pi i}{n}}
+       \end{aligned}\]
+
+  Then each root of unity can be expressed as a power of \(\omega\)
+
+  evaluate P(x) at \[\begin{aligned}
+       [1, \omega , \omega ^2, \ldots, \omega ^{n-1}]
+       \end{aligned}\]
+\item
+  why these
+
+  \begin{enumerate}
+  \item
+    positive-negative paired: the point across the circle is the pair
+  \item
+    when squared, the n roots of unity become the n/2 roots of unity,
+    which still have points across the circle
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{recursion-time}{%
+\subsubsection{recursion time}\label{recursion-time}}
+
+\begin{enumerate}
+\item
+  base case: n = 1 -\textgreater{} P(1)
+\item
+  recurse
+
+  \begin{enumerate}
+  \item
+    split into even/odd degree terms
+  \item
+    recurse to get \(y_e, y_o\)
+  \item
+    some math ( \(x_j = \omega ^j\),
+    \(-\omega ^j = \omega ^{j+\frac{n}{2}}\),
+    \(y_e[j] = P_e(\omega ^{2j}), y_o[j] = P_o(\omega ^{2j})\) ) shows
+    \(P(\omega ^j) = y_e[j] + \omega ^j y_o[j], P(\omega ^{j+\frac{n}{2}}) = y_e[j] - \omega ^j y_o[j]\)
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{its-clean-to-use-d-is-a-power-of-two-but-there-are-impls-that-can-handle-others-also}{%
+\subsubsection{\texorpdfstring{its clean to use \(d\) is a power of two,
+but there are impls that can handle others
+also}{its clean to use d is a power of two, but there are impls that can handle others also}}\label{its-clean-to-use-d-is-a-power-of-two-but-there-are-impls-that-can-handle-others-also}}
+
+\hypertarget{backward-direction-interpolation}{%
+\subsection{backward direction:
+interpolation}\label{backward-direction-interpolation}}
+
+\hypertarget{step-back}{%
+\subsubsection{step back}\label{step-back}}
+
+\begin{enumerate}
+\item
+  evaluation was a matrix vector product, and using the \(k\)-th roots
+  of unity allows us to simplify the product
+\item
+  interpolation is just the inverse of the DFT matrix
+\end{enumerate}
+
+\hypertarget{inverse-fft}{%
+\subsubsection{inverse FFT}\label{inverse-fft}}
+
+\begin{enumerate}
+\item
+  given polynomial evaluated at roots of unity, get the coefficients
+  back out
+\item
+  after inverting the matrix, you find that each corresponding
+  \(\omega\) became \(\frac{1}{n}\omega^{-1}\)
+\item
+  so now we define the inverse fft as just the fft but with new inputs:
+  define \(\omega = \frac{1}{n}e^{\frac{-2\pi i}{n}}\)
+\end{enumerate}
+
+\hypertarget{recap}{%
+\subsection{recap:}\label{recap}}
+
+\hypertarget{polynomial-multiplication-is-sped-in-value-representation}{%
+\subsubsection{polynomial multiplication is sped in value
+representation}\label{polynomial-multiplication-is-sped-in-value-representation}}
+
+\hypertarget{evaluation-at---pairs-allows-splitting-the-computation}{%
+\subsubsection{evaluation at +/- pairs allows splitting the
+computation}\label{evaluation-at---pairs-allows-splitting-the-computation}}
+
+\hypertarget{evaluation-at-complex-n-th-roots-of-unity-allows-proper-recursion}{%
+\subsubsection{\texorpdfstring{evaluation at complex \(n\)-th roots of
+unity allows proper
+recursion}{evaluation at complex n-th roots of unity allows proper recursion}}\label{evaluation-at-complex-n-th-roots-of-unity-allows-proper-recursion}}
+
+\hypertarget{backwards-direction-is-the-same-thing-with-matrix-inverse}{%
+\subsubsection{backwards direction is the same thing with matrix
+inverse}\label{backwards-direction-is-the-same-thing-with-matrix-inverse}}
+
+\hypertarget{fft-video-by-steve-brunton}{%
+\section{FFT video by steve brunton}\label{fft-video-by-steve-brunton}}
+
+\hypertarget{begin-with-the-dft-vandermonde-matrix.-naive-calculation-is-n2-since-there-are-n2-terms}{%
+\subsection{\texorpdfstring{begin with the DFT (vandermonde) matrix.
+naive calculation is \(N^2\), since there are \(N^2\)
+terms}{begin with the DFT (vandermonde) matrix. naive calculation is N\^{}2, since there are N\^{}2 terms}}\label{begin-with-the-dft-vandermonde-matrix.-naive-calculation-is-n2-since-there-are-n2-terms}}
+
+\hypertarget{spends-a-bunch-of-time-talking-about-n2-is-way-worse-than-n-log-n-eg.-4khz-times-10-sec}{%
+\subsection{\texorpdfstring{spends a bunch of time talking about \(N^2\)
+is way worse than \(N \log  N\), eg.
+\(4KHz \times 10 sec\)}{spends a bunch of time talking about N\^{}2 is way worse than N \textbackslash log  N, eg. 4KHz \textbackslash times 10 sec}}\label{spends-a-bunch-of-time-talking-about-n2-is-way-worse-than-n-log-n-eg.-4khz-times-10-sec}}
+
+\hypertarget{uses}{%
+\subsection{uses}\label{uses}}
+
+\hypertarget{derivatives---partial-differential-equations}{%
+\subsubsection{derivatives -\textgreater{} partial differential
+equations}\label{derivatives---partial-differential-equations}}
+
+\hypertarget{data-de-noising-remove-certain-frequencies}{%
+\subsubsection{data de-noising (remove certain
+frequencies)}\label{data-de-noising-remove-certain-frequencies}}
+
+\hypertarget{data-analysis}{%
+\subsubsection{data analysis}\label{data-analysis}}
+
+\hypertarget{audioimage-compression---wavelet-transform}{%
+\subsubsection{audio/image compression \textless- wavelet
+transform}\label{audioimage-compression---wavelet-transform}}
+
+\hypertarget{polynomial-multiplication}{%
+\subsubsection{polynomial
+multiplication}\label{polynomial-multiplication}}
+
+\hypertarget{dft-video}{%
+\subsection{DFT video}\label{dft-video}}
+
+\hypertarget{discrete-locations---a-vector-of-data-beginpmatrixf_1-f_2-ldots-f_nendpmatrix}{%
+\subsubsection{\texorpdfstring{discrete locations -\textgreater{} a
+vector of data
+\(\begin{pmatrix}f_1, f_2, \ldots, f_n\end{pmatrix}\)}{discrete locations -\textgreater{} a vector of data \textbackslash begin\{pmatrix\}f\_1, f\_2, \textbackslash ldots, f\_n\textbackslash end\{pmatrix\}}}\label{discrete-locations---a-vector-of-data-beginpmatrixf_1-f_2-ldots-f_nendpmatrix}}
+
+\hypertarget{what-we-want}{%
+\subsubsection{what we want}\label{what-we-want}}
+
+\[\begin{aligned}
+    \begin{pmatrix}\hat{f}_0 \\ \hat{f}_1 \\ \hat{f}_2 \\ \vdots \\ \hat{f}_{n-1}\end{pmatrix} =
+    \begin{pmatrix}&&&&&\\&&&&&\\&&&&&\\&&&&&\\&&&&&\end{pmatrix}
+    \begin{pmatrix}f_0 \\ f_1\\f_2\\\vdots \\f_{n-1}\end{pmatrix}
+    \end{aligned}\]
+
+For each \(1 \leq  k \leq n\), \[\begin{aligned}
+    \hat{f} _k =\sum_{j=0}^{n-1} f_j e^{\frac{-i 2\pi k}{n}}\\
+    f _k = \frac{1}{n}\sum_{j=0}^{n-1} \hat{f} _j e^{\frac{i 2\pi k}{n}}\\
+    \end{aligned}\]
+
+The omegas, he calls 'fundamental frequencies' \[\begin{aligned}
+    \omega _n = e^{-2\pi \frac{i}{n}}
+    \end{aligned}\]
+
+\hypertarget{now-matrixify}{%
+\subsubsection{now matrixify}\label{now-matrixify}}
+
+\[\begin{aligned}
+    \begin{pmatrix}\hat{f}_1 \\ \hat{f}_2 \\ \hat{f}_3 \\ \vdots \\ \hat{f}_n\end{pmatrix} =
+    \begin{pmatrix}
+    1 & 1 & 1 & \cdots & 1 \\
+    1 & \omega & \omega ^2 & \cdots & \omega ^{n-1}\\
+    1 & \omega^2 & \omega ^4 & \cdots & \omega ^{2(n-1)}\\
+    \vdots & \vdots & \vdots & \ddots & \vdots \\
+    1 & \omega^{n-1} & \omega ^{2(n-1)} & \cdots & \omega ^{n(n-1)}\\
+    \end{pmatrix}
+    \begin{pmatrix}f_1 \\ f_2\\f_3\\\vdots \\f_n\end{pmatrix}
+    \end{aligned}\]
+
+\hypertarget{meeting}{%
+\section{meeting}\label{meeting}}
+
+\hypertarget{more-focuses-while-cutting-back}{%
+\subsection{more focuses while cutting
+back}\label{more-focuses-while-cutting-back}}
+
+\hypertarget{linear-algebra}{%
+\subsubsection{linear algebra}\label{linear-algebra}}
+
+\hypertarget{additional-verbal-explanation-for-people-who-havent-seen-3b1b-before}{%
+\subsubsection{additional verbal explanation for people who haven't seen
+3b1b
+before}\label{additional-verbal-explanation-for-people-who-havent-seen-3b1b-before}}
+
+\hypertarget{any-periodic-function-as-a-linear-combination}{%
+\subsubsection{\texorpdfstring{any periodic function as a \emph{linear
+combination}}{any periodic function as a linear combination}}\label{any-periodic-function-as-a-linear-combination}}
+
+\begin{enumerate}
+\item
+  space of periodic functions
+\item
+  show its a vector space
+\item
+  show its a basis
+\item
+  simple concepts, but sophisticated context
+\item
+  talk about normal fourier transform, not just discrete
+\end{enumerate}
+
+\hypertarget{maybe-focus-on-periodic-functions}{%
+\subsubsection{maybe focus on periodic
+functions}\label{maybe-focus-on-periodic-functions}}
+
+\begin{enumerate}
+\item
+  space of continouous functions is also a vector space
+\item
+  the fourier transform is classically about perodic functions
+\end{enumerate}
+
+\hypertarget{careful-definitions}{%
+\subsubsection{careful definitions}\label{careful-definitions}}
+
+\begin{enumerate}
+\item
+  non-infinite period
+\item
+  what do you need to add to keep it closed under addition?
+\item
+  with finite-length sums
+\end{enumerate}
+
+\end{document}

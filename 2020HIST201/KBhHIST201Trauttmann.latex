@@ -1,0 +1,555 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Trauttmann }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3999)}}    % original
+%\rhead{\textrmlf{Compiled }\#3999\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3999\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{trauttmann}{%
+\section{Trauttmann}\label{trauttmann}}
+
+\begin{itemize}
+\tightlist
+\item
+  India affected by the successful expansion of Islam
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Created globalized multiculturalism
+  \item
+    Expanded Indian ideas and invention to Europe
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Chess
+    \item
+      Folktale collection
+    \item
+      \emph{Panchatantra} animal fables
+    \item
+      Literally Zero
+    \item
+      And, Arabic Numerals (\#what)
+    \end{itemize}
+  \end{itemize}
+\item
+  Europeans interact with India
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Indian very strange for Europeans
+  \item
+    Created legacies and mysteries about India
+  \item
+    CLAIM: Images/representations were dreamlike
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Misrepresentation goes back to greco-Roman times
+    \item
+      Viewed India as a land of strange people + desirable luxuries
+    \end{itemize}
+  \item
+    Originally leveraged the Muslims as the point of trade, but later
+    developed desire to handle trade w/ India independently
+
+    \begin{itemize}
+    \tightlist
+    \item
+      One attempt to do that failed very badly, i.e.~Colombus. We all
+      know where he ended up.
+    \item
+      India was thought as sprawled throughout Asia, as in\ldots{}
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{indiaiseverywhere.png}
+\caption{indiaiseverywhere.png}
+\end{figure}
+
+\begin{itemize}
+\tightlist
+\item
+  Portugal in India
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Created the first effective voyages in the Indian direction
+  \item
+    Traveled around Africa to reach the coast of India, dominating
+    Euro-asian trade
+  \item
+    Created treaties with local governments
+  \item
+    Established seaborne trade domination by requiring trading licenses
+  \item
+    Supplied local governments with resources
+
+    \begin{itemize}
+    \tightlist
+    \item
+      American crops: potatos and corn
+    \item
+      Luxuries: tobacco and pineapple
+    \item
+      Other foods: tomatos and chilli
+    \end{itemize}
+  \item
+    Also, brought Catholic Christanity with them; who could have
+    guessed?
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Converted Indians
+    \item
+      Established Roman Pope's supermicy over already Existant Thomas
+      Christians
+    \item
+      Employed two strategies
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Please the Indians: adopted the form of a brahmin renouncer
+      \item
+        Force the Indians: instituted Inquisition to force orthodoxy
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  Porchugual vs.~Spain
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Squabble squabble squabble
+  \item
+    Eventually the\ldots{} Pope? settled the issue: awarding Portugal
+    every to the east of Brazil and Spain everything to the west
+  \end{itemize}
+\item
+  Merchant Companies
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Novel trading strategies
+  \item
+    Created companies with independent armies that traded
+  \item
+    Promoted merchantilists monopolies on a region/a good
+  \item
+    Entered into political relationships to establish power = control
+  \item
+    Lead companies to rule Indian territory
+  \end{itemize}
+\item
+  The Brits
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Competition spawned from rivalry between England and France
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Wiping French rule in Canada
+    \item
+      Amercian independence w/ assistance by france
+    \item
+      Establishing Bengal terrirory in India
+    \end{itemize}
+  \item
+    CLAIM: fighting, and winning BEI.C vs.~FEI.C established Britian's
+    Empire in India
+  \item
+    Fought and implicated Indian allies
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Indian princes leased independently-governed trading posts
+      (``factories'') to help either one side or the other
+    \item
+      Eventually BEI.C army defeated Mughal army in 1757, and
+      effectively achieved independence in Bengal by installing a new
+      governor
+    \item
+      Delhi Emperor allowed BEI.C to be the political and millitary
+      admin (\emph{diwani}) of the region
+    \end{itemize}
+  \item
+    Goals of doing this
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Failed with trading with the Dutch example
+    \item
+      Struggles with the French to acquire new territory
+    \item
+      Turns BEI.C from small company to one with huge rule and control
+    \item
+      Company rule lasted from 1765-1858 when India is officially ruled
+      by the crown
+    \end{itemize}
+  \item
+    Ruling strategy
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Not army based, and instead evolved from trading companies
+    \item
+      Goal of rulers is to eventually retire to England + consider
+      Britain their home
+    \item
+      Resisted the idea of colonization, otherwise may create the
+      Amercia problem
+    \item
+      Prevented admission of non-company Europeans, including
+      missionaries
+    \item
+      A few thousand Europeans controlling lots more indians
+    \item
+      Most Europeans born and schooled in Britain and sent as adults
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Working under the direction of the headquarters
+      \item
+        Retained British identity and ideology
+      \end{itemize}
+    \item
+      Controlled large Indian army
+
+      \begin{itemize}
+      \tightlist
+      \item
+        CLAIM: Success was more because of Indian manpower than of
+        military tech
+      \item
+        Men were well-drilled
+      \item
+        Created new organizational structures
+      \item
+        Also, allied with Indian rulers
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Gave independent control at the price of giving up control of
+          foreign affairs + men for army
+        \item
+          Each region had a ``resident'' which informed and influenced
+          strategic decisions
+        \end{itemize}
+      \end{itemize}
+    \end{itemize}
+  \item
+    1857 Mutiny
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Causes
+
+      \begin{itemize}
+      \tightlist
+      \item
+        The Enfield rifle cartridge wsa greased with animal fat
+        =\textgreater{} offended the Hindu + Muslim
+      \item
+        Policy of ``Lapse'' =\textgreater{} dissolving princely states
+        without direct heir
+      \end{itemize}
+    \item
+      Felt like that the religion was under attack
+    \item
+      Mutiny spread across India, but it was eventually quelled after a
+      year because it was not unified
+    \item
+      CLAIM: this showed that the Indians were discontent with British
+      rule
+    \item
+      Aftermath
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Mutineers were punished harshly
+      \item
+        Mughal Empire formally abolished w/ the king exiled to Burmar
+      \item
+        In Nov 1, 1858, the Queen assumed control of India
+        =\textgreater{} direct parlimentary control
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Assured that indian religions will not be interferred with
+        \item
+          Rights and territories of princely states won't either
+        \item
+          Reorganized to increase Britons in the Indian army
+        \item
+          Harsh feelings divided India, CLAIM: leading it to gather the
+          new goal of turning India into a US/Europe nation state
+        \end{itemize}
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  India and Europe
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Initially worked under a interference policy
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Goal was not to take over
+    \item
+      All had the shared goal of making money for the Company
+    \item
+      Minimal government for the goal of law-and-order
+    \end{itemize}
+  \item
+    Jesuits spreader Christianity =\textgreater{} Beschi very
+    successful. BEI.C eventually prohibited it.
+  \item
+    Family and civil disputes settled based on religious court; criminal
+    and contract law were made uniform =\textgreater{} law that hinged
+    on religion remained a problem until this day
+  \item
+    Company took the stance of minimal interference in land revenue,
+    too!
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Created policy of settling revenue in obligation to
+      \emph{zamindars}
+    \end{itemize}
+  \item
+    CLAIM: minimal interference came under pressure during attempted
+    Indian reform to European values
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Newly settled land identity on individual cultivator
+    \item
+      Government reached every cultivator directory + not through
+      landlords
+    \item
+      New reformation movements Utilitarinasm =\textgreater{}
+      governmental reform, and evangelical movement =\textgreater{}
+      social reform
+    \end{itemize}
+  \item
+    This reforamtion ebbed and flowed: Britian, after 1857 rebellion,
+    decided that they overdid it and tuned down the reformation
+  \item
+    European reform of India
+
+    \begin{itemize}
+    \tightlist
+    \item
+      New family + kinship rules
+    \item
+      Brought the idea of popular soverenty as a cool governmental model
+    \item
+      Higher respect for learning, science, and technology
+      =\textgreater{} turning India from the centre of learning to not
+      and to respecting learning again due to THE INDUSTRIAL REVOLUTION
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Textiles! (destructing handicraft along with it)
+      \item
+        Railway!
+      \item
+        Historiography of India!
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\end{document}

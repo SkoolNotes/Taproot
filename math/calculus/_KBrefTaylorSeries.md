@@ -1,0 +1,20 @@
+---
+author: Exr0n
+title: Taylor Series
+---
+
+# Talyor Series [[def]{.smallcaps}]{.tag tag-name="def"} {#talyor-series}
+
+A Taylor series is a (possibly infinite) polynomial that approximates a
+function around a neighborhood (often, 0).
+
+The function has to be differentiable as many times as there are terms
+in the approximation. If the function is differentiable forever, then
+you can compute the value exactly using an infinite sum.
+
+For some function $f(x)$, the Taylor series approximation near $c$ is as
+follows:
+
+$$\begin{aligned}
+  f(x) = f(c) + f'(c)(x-c) + \frac{f''(c)}{2!}(x-c)^2 + \cdots + \left( \frac{d^n}{dx^n} f(c) \right)  (x-c)^n
+  \end{aligned}$$

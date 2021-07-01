@@ -78,7 +78,7 @@
       <li><p>How we other people</p></li>
       </ul>
       <h2 id="essential-questions-of-english-10">Essential Questions of English 10</h2>
-      <p><img src="./2020ENG201/Screen Shot 2020-08-25 at 1.29.30 PM.png" alt="image" /></p>
+      <p><img src="./Screen Shot 2020-08-25 at 1.29.30 PM.png" alt="image" /></p>
       <p>And now, an <strong>assignment</strong> to begin the year:</p>
       <h1 id="four-questions">Four Questions</h1>
       <ul>
@@ -109,7 +109,7 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/(\w)*/);
+              let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;

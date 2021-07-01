@@ -108,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 2020math401 }
-\newcommand{\thelesson}{ Calculus Index with Nas }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,8 +122,10 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
-\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3629)}}    % original
+%\rhead{\textrmlf{Compiled }\#3629\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3629\textrmlf{ on} \today}       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -162,19 +164,53 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=KBCalculusMasterIndex}{\tiny\textulf{[[}\textbf{KBCalculusMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{questions}{%
+\subsection{Questions}\label{questions}}
+
+{[}{[}eRefCalcQuestions{]}{]}
+
+\hypertarget{flows}{%
+\subsection{Flows}\label{flows}}
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
+Day & Link\tabularnewline
+\midrule
 \endhead
-Concepts and Notation &
-{[}{[}KBe2020math401refCalcConceptsNotation{]}{]}\tabularnewline
-Introduction & {[}{[}KBe2020math401flo1{]}{]}\tabularnewline
-Flow Index & {[}{[}KBe2020math401floDailyIndex{]}{]}\tabularnewline
-Assignments & {[}{[}KBe2020math401refExr0nRetIndex{]}{]}\tabularnewline
+1 & {[}{[}KBe2020math401flo1{]}{]}\tabularnewline
+2 & {[}{[}KBe2020math401flo2{]}{]}\tabularnewline
+3 & {[}{[}eFloCalcD3{]}{]}\tabularnewline
+5 & {[}{[}KBe20math401flo5{]}{]}\tabularnewline
 \bottomrule
 \end{longtable}
+
+\hypertarget{homework}{%
+\subsection{Homework}\label{homework}}
+
+\begin{longtable}[]{@{}rll@{}}
+\toprule
+HW & Due Date & Link\tabularnewline
+\midrule
+\endhead
+0 & 2020-08-27 & {[}{[}KBe2020math401ret0MyIntro{]}{]}\tabularnewline
+1\_1 & 2020-09-01 & {[}{[}RETcalc1\_1.pdf{]}{]}\tabularnewline
+Easy\_1 & 2020-09-03 & {[}{[}eFloCalcD3{]}{]} (continued
+classwork)\tabularnewline
+1\_2 & 2020-09-08 & {[}{[}20math401retHW1\_2.pdf{]}{]}\tabularnewline
+1\_3t & AbiW & {[}{[}KBe20math401ret1\_3t.pdf{]}{]}\tabularnewline
+1\_3 & 2020-09-15 & {[}{[}KBe20math401ret1\_3.pdf{]}{]}\tabularnewline
+Easy\_3 & 2020-09-17 & {[}{[}KBe20math401retLight3{]}{]}\tabularnewline
+1\_4 & 2020-09-22 & {[}{[}KBe20math401ret1\_4{]}{]}\tabularnewline
+Easy\_4 & 2020-09-24 & {[}{[}KBe20math401retEasy4{]}{]}\tabularnewline
+1\_5 & 2020-09-30 & {[}{[}KBe20math401ret1\_5{]}{]}\tabularnewline
+2\_1 & 2020-10-20 & {[}{[}KBe20math401ret2\_1{]}{]}\tabularnewline
+\bottomrule
+\end{longtable}
+
+Concepts and Notation \textbar{}
+{[}{[}KBe2020math401refCalcConceptsNotation{]}{]} Introduction
+\textbar{} {[}{[}KBe2020math401flo1{]}{]}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

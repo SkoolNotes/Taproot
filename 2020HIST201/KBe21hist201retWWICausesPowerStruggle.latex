@@ -1,0 +1,521 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ germany, france, and russia }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10218)}}    % original
+%\rhead{\textrmlf{Compiled }\#10218\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#10218
+  \textrmlf{ on}
+      \today
+  }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{httpsdocs.google.compresentationd1dynxeyot3w2fxbv4wwq--wb5kuead5wzths5rc5igfseditslideid.g7934c51b3d_0_50}{%
+\section{\texorpdfstring{\url{https://docs.google.com/presentation/d/1dyNxeyOT3w2FXbv4WwQ--WB5kuead5wzThS5Rc5IGfs/edit\#slide=id.g7934c51b3d_0_50}
+{\textsc{source}}}{https://docs.google.com/presentation/d/1dyNxeyOT3w2FXbv4WwQ-\/-WB5kuead5wzThS5Rc5IGfs/edit\#slide=id.g7934c51b3d\_0\_50 source}}\label{httpsdocs.google.compresentationd1dynxeyot3w2fxbv4wwq--wb5kuead5wzths5rc5igfseditslideid.g7934c51b3d_0_50}}
+
+\hypertarget{germany-and-russia-are-both-looking-each-other-with-paranoia}{%
+\section{germany and russia are both looking each other with
+paranoia}\label{germany-and-russia-are-both-looking-each-other-with-paranoia}}
+
+\hypertarget{because-germany-industrialized-fast-and-russia-has-lots-of-people}{%
+\section{because germany industrialized fast and russia has lots of
+people}\label{because-germany-industrialized-fast-and-russia-has-lots-of-people}}
+
+\hypertarget{from-1880-to-1913-germanys-manufacturing-output-share-of-the-world-doubles-table-18}{%
+\section{from 1880 to 1913, germany's manufacturing output share (of the
+world) doubles (table
+18)}\label{from-1880-to-1913-germanys-manufacturing-output-share-of-the-world-doubles-table-18}}
+
+\hypertarget{table-19-everybody-is-amassing-military-and-nobody-can-be-sure-that-the-others-arent-going-to-attack-security-dilemma}{%
+\section{\texorpdfstring{table 19: everybody is amassing military, and
+nobody can be sure that the others aren't going to attack
+(\href{KBrefSecurityDilemma.org}{security
+dilemma})}{table 19: everybody is amassing military, and nobody can be sure that the others aren't going to attack (security dilemma)}}\label{table-19-everybody-is-amassing-military-and-nobody-can-be-sure-that-the-others-arent-going-to-attack-security-dilemma}}
+
+\hypertarget{table-20-great-britain-builds-up-its-navy-and-is-scared-of-germany-because-theyve-gone-from-88k-to-1.3m-tons}{%
+\section{table 20: great britain builds up it's navy (and is scared of
+germany because they've gone from 88k to 1.3M
+tons)}\label{table-20-great-britain-builds-up-its-navy-and-is-scared-of-germany-because-theyve-gone-from-88k-to-1.3m-tons}}
+
+\hypertarget{dreadnaughts-germany-comes-up-with-a-ship-that-makes-all-others-obsolete-and-an-expensive-arms-race-insues}{%
+\subsection{dreadnaughts: germany comes up with a ship that makes all
+others obsolete, and an expensive arms race
+insues}\label{dreadnaughts-germany-comes-up-with-a-ship-that-makes-all-others-obsolete-and-an-expensive-arms-race-insues}}
+
+\hypertarget{we-cant-be-sure-what-peoples-motives-were-can-only-look-at-old-correspondences-and-journals}{%
+\subsection{we can't be sure what people's motives were, can only look
+at old correspondences and
+journals}\label{we-cant-be-sure-what-peoples-motives-were-can-only-look-at-old-correspondences-and-journals}}
+
+\hypertarget{alliances-map}{%
+\section{alliances map}\label{alliances-map}}
+
+\hypertarget{french-and-british-are-teamed-which-is-strange-because-theyd-been-fighting}{%
+\subsection{french and british are teamed (which is strange because
+they'd been
+fighting)}\label{french-and-british-are-teamed-which-is-strange-because-theyd-been-fighting}}
+
+\hypertarget{although-maybe-it-makes-sense-geographically-and-they-are-both-afraid-of-germany}{%
+\subsubsection{although maybe it makes sense geographically, and they
+are both afraid of
+germany}\label{although-maybe-it-makes-sense-geographically-and-they-are-both-afraid-of-germany}}
+
+\hypertarget{austria-hungary-is-very-culturally-diverse-which-makes-alliances-awkward}{%
+\subsection{austria-hungary is very culturally diverse, which makes
+alliances
+awkward}\label{austria-hungary-is-very-culturally-diverse-which-makes-alliances-awkward}}
+
+\hypertarget{italy-might-want-italians-back-from-austria}{%
+\subsubsection{italy might want italians back from
+austria}\label{italy-might-want-italians-back-from-austria}}
+
+\hypertarget{generally-austrian-civilians-may-not-want-to-fight-for-austria}{%
+\subsubsection{generally austrian civilians may not want to fight for
+austria}\label{generally-austrian-civilians-may-not-want-to-fight-for-austria}}
+
+\hypertarget{alliances-map-again-but-changes}{%
+\section{alliances map again (but
+changes)}\label{alliances-map-again-but-changes}}
+
+\hypertarget{italy-is-on-the-allied-side-now}{%
+\subsection{italy is on the allied side
+now}\label{italy-is-on-the-allied-side-now}}
+
+\hypertarget{the-ottoman-empire-bulgaria-too-have-joined-germany}{%
+\subsection{the ottoman empire (bulgaria too) have joined
+germany}\label{the-ottoman-empire-bulgaria-too-have-joined-germany}}
+
+\hypertarget{ottomans-have-beef-with-both-the-austrians-and-russians}{%
+\subsubsection{ottomans have beef with both the austrians and
+russians}\label{ottomans-have-beef-with-both-the-austrians-and-russians}}
+
+\hypertarget{colonial-shenanigans-in-north-africa}{%
+\section{colonial shenanigans in north
+africa}\label{colonial-shenanigans-in-north-africa}}
+
+\hypertarget{british-and-french-almost-fought-over-north-africa}{%
+\subsection{british and french almost fought over north
+africa}\label{british-and-french-almost-fought-over-north-africa}}
+
+\hypertarget{they-marched-their-armies-around-and-stared-at-eachother-for-a-bit-and-almost-had-a-big-african-war}{%
+\subsection{they marched their armies around and stared at eachother for
+a bit and almost had a big african
+war}\label{they-marched-their-armies-around-and-stared-at-eachother-for-a-bit-and-almost-had-a-big-african-war}}
+
+\hypertarget{bad-news-bears-in-the-balkans}{%
+\section{bad news bears in the
+Balkans}\label{bad-news-bears-in-the-balkans}}
+
+\hypertarget{ottoman-empire-falling-apart}{%
+\subsection{ottoman empire falling
+apart}\label{ottoman-empire-falling-apart}}
+
+\hypertarget{austrians-want-to-scoop-up-bits-of-the-austrian-empire}{%
+\subsection{austrians want to scoop up bits of the austrian
+empire}\label{austrians-want-to-scoop-up-bits-of-the-austrian-empire}}
+
+\hypertarget{serbia-nationalists-in-austria-want-independence}{%
+\subsection{serbia nationalists in austria want
+independence}\label{serbia-nationalists-in-austria-want-independence}}
+
+\hypertarget{power-vacuum-in-austriarussias-backyard}{%
+\subsection{power vacuum in austria/russia's
+backyard}\label{power-vacuum-in-austriarussias-backyard}}
+
+\hypertarget{archduke-gets-killed-and-a-buch-of-preemptive-wars-are-declared}{%
+\subsection{archduke gets killed and a buch of preemptive wars are
+declared}\label{archduke-gets-killed-and-a-buch-of-preemptive-wars-are-declared}}
+
+\hypertarget{flo-balkan-crisis-from-palmer-661-664}{%
+\subsection{flo balkan crisis from palmer
+661-664}\label{flo-balkan-crisis-from-palmer-661-664}}
+
+\hypertarget{general-crises-in-the-balkans}{%
+\subsubsection{general crises in the
+balkans}\label{general-crises-in-the-balkans}}
+
+\begin{enumerate}
+\item
+  geographic background
+
+  \begin{enumerate}
+  \item
+    ottoman empire, almost dissolved, 'still held a band of territory
+    from Constantinople westward to the Adriatic'
+  \item
+    south lay an indpendent greece, north had bulgarea and romania
+  \item
+    small and landlocked serbia and bosnia-herzegovinia to the west
+
+    \begin{enumerate}
+    \item
+      belonged legally to turkey but occupied and adminstered by austria
+      since 1878
+    \end{enumerate}
+  \item
+    within the austro-hungarian empire next to bosnia on the north and
+    west was croatia and slovenia
+  \end{enumerate}
+\item
+  cultural division
+
+  \begin{enumerate}
+  \item
+    altho Serbs, Bosnians, Croats, and Slovens all basically spoke
+    Serbo-Croation, Serbs and Bosnians wrote eastern/Cyrillic while the
+    Croats and Slovenes wrote with the western/roman alphabet
+  \item
+    caused by diff in religion: Slovenes and Croats were Roman Catholic,
+    and affiliated with the west. Serbs and 'many Bosnians' were Eastern
+    Orthodox and closer to Russia
+  \item
+    also many Muslim Slaves in Bosnia converted 'during the Ottoman
+    domination'
+  \end{enumerate}
+\item
+  upset slavs
+
+  \begin{enumerate}
+  \item
+    "During the Slavic Revival, which emphasized language, many of these
+    peoples felt like one people, the Yugoslavs (South Slavs)"
+  \item
+    Dual Monarchy formed in 1867 -\textgreater{} Slavs of the Hasburg
+    empire subordinate to German Austrians and Hungarian Magyars
+  \item
+    radical Slav nationalists fed up of dual monachry by 1900, wanted
+    indpendent Yugoslavia
+  \item
+    'Concretely, this meant that an element of the Austro-Hungarian
+    population (the Croatian and Slovenian nationalists) wanted to get
+    out and join with Serbia across the border).
+  \end{enumerate}
+\item
+  events that set things off 'brought to a boil in 1908 by'
+
+  \begin{enumerate}
+  \item
+    Young Turks carried through a revolution, 'obliged the sultan to
+    restore the liberal parliamentary constitution of 1876', and tried
+    to stop the dissolution of the Ottoman Empire by trying to get
+    delegates from Bulgaria and Bosnia to set in the new Ottoman
+    Parliament
+  \item
+    Russia temporarily gave up on the Far East and wanted control of
+    Constantinople
+  \item
+    Austria wanted full annexation of Bosnia to discourage 'Pan-Yugoslav
+    ideas?'
+  \item
+    young Turks strengthened Ottoman Empire, then Austria would not get
+    Bosnia, and Russians not Constantinople (Austria/Russia don't want
+    Ottoman Empire strengthened)
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{first-balkan-crisis}{%
+\subsubsection{first balkan crisis}\label{first-balkan-crisis}}
+
+\begin{enumerate}
+\item
+  austrian and russian foreign ministers secretly agreed in 1908 at
+  Buchlau to call an international confrence
+
+  \begin{enumerate}
+  \item
+    where russia would favor austrian annexation of bosnia, and austria
+    would support the opening of the Straits to Russian warships
+  \end{enumerate}
+\item
+  Austria immediately 'proclaimed the annexation of Bosnia without more
+  ado'
+
+  \begin{enumerate}
+  \item
+    -\textgreater{} infuriated the Serbs, who wanted Bosnia
+  \end{enumerate}
+\item
+  later that year (1908), Bulgaria became independent and Crete joined
+  Greece.
+
+  \begin{enumerate}
+  \item
+    russians never got constantinople, russia's allies (britain and and
+    france) didn't back them
+  \end{enumerate}
+\item
+  basically, slavs got stepped on
+\end{enumerate}
+
+\hypertarget{cult-of-the-offensive-prisoners-dilemma-style}{%
+\section{cult of the offensive (prisoners dilemma
+style)}\label{cult-of-the-offensive-prisoners-dilemma-style}}
+
+\hypertarget{a-popular-theory-for-why-wwi-started}{%
+\subsection{a popular theory for why WWI
+started}\label{a-popular-theory-for-why-wwi-started}}
+
+\hypertarget{timeline}{%
+\subsection{timeline}\label{timeline}}
+
+\hypertarget{heir-assassinated}{%
+\subsubsection{heir assassinated}\label{heir-assassinated}}
+
+\hypertarget{austria-hungary-gets-upset-and-issues-ultimatums}{%
+\subsubsection{austria-hungary gets upset and issues
+ultimatums}\label{austria-hungary-gets-upset-and-issues-ultimatums}}
+
+\hypertarget{serbia-doesnt-agree-and-austria-declares-war}{%
+\subsubsection{serbia doesn't agree and austria declares
+war}\label{serbia-doesnt-agree-and-austria-declares-war}}
+
+\hypertarget{russia-backs-serbia-and-declares-war-on-austria-hungary}{%
+\subsubsection{russia backs serbia and declares war on austria
+hungary}\label{russia-backs-serbia-and-declares-war-on-austria-hungary}}
+
+\hypertarget{germany-declares-war-on-russia-and-france-preemptively}{%
+\subsubsection{germany declares war on russia, and france
+(preemptively)}\label{germany-declares-war-on-russia-and-france-preemptively}}
+
+\hypertarget{everyone-reciprocates-japan-comes-in-from-nowhere}{%
+\subsubsection{everyone reciprocates, japan comes in from
+nowhere}\label{everyone-reciprocates-japan-comes-in-from-nowhere}}
+
+\hypertarget{cult-of-the-offensive}{%
+\subsection{cult of the offensive}\label{cult-of-the-offensive}}
+
+\hypertarget{leaders-believed-that-new-technologies-favored-the-offensive}{%
+\subsubsection{leaders believed that new technologies favored the
+offensive}\label{leaders-believed-that-new-technologies-favored-the-offensive}}
+
+\hypertarget{formalizing-the-problem}{%
+\subsubsection{formalizing the problem}\label{formalizing-the-problem}}
+
+\begin{enumerate}
+\item
+  states can preempt or defend
+\item
+  outcomes
+
+  \begin{enumerate}
+  \item
+    best: i preempt, you defend (surprised)
+  \item
+    both defend (peace)
+  \item
+    both preempt (war)
+  \item
+    i defend, you preempt (bad news bears for me)
+  \item
+    \textbf{assumption is that preemption is better than defenese}
+  \end{enumerate}
+\item
+  preempting vs defending is the prisoners dilemma
+\end{enumerate}
+
+\hypertarget{from-any-one-perspective-preempting-is-always-better-than-defending-regardless-of-the-other-person}{%
+\subsubsection{from any one perspective, preempting is always better
+than defending regardless of the other
+person}\label{from-any-one-perspective-preempting-is-always-better-than-defending-regardless-of-the-other-person}}
+
+\hypertarget{how-could-this-have-been-avoided}{%
+\subsubsection{how could this have been
+avoided}\label{how-could-this-have-been-avoided}}
+
+\begin{enumerate}
+\item
+  third party to hold everyone accountable/defensive
+\item
+  mutually assured destruction
+\item
+  existing alliances
+\item
+  a balancer like the US could have mediated
+\end{enumerate}
+
+\end{document}

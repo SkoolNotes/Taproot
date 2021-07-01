@@ -1,0 +1,256 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Flo 23 (19 Nov 2020, skipped a bunch of
+proofs) }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5231)}}    % original
+%\rhead{\textrmlf{Compiled }\#5231\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5231\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{row-reduced-echelon-form}{%
+\section{Row Reduced Echelon Form}\label{row-reduced-echelon-form}}
+
+Null space is the same (because algebra). Then turn it into a system of
+equations and use those equations to find the null space.
+
+\hypertarget{factoring-a-vector}{%
+\section{Factoring a vector}\label{factoring-a-vector}}
+
+Say we have
+\(\begin{pmatrix}-2x_3-4x_4\\-4x_3-7x_4\\x_3\\x_4\end{pmatrix}\). Then
+you can write it as the linear combination
+\[\begin{pmatrix}-2x_3\\-4x_3\\x_3\\0\end{pmatrix}+\begin{pmatrix}-4x_4\\-7x_4\\0\\x_4\end{pmatrix} = x_3\begin{pmatrix}-2\\-4\\1\\0\end{pmatrix}+x_4\begin{pmatrix}-4\\-7\\0\\1\end{pmatrix}\]
+
+\hypertarget{icr-3.c}{%
+\section{\texorpdfstring{\#icr 3.C
+{\textsc{icr}}}{\#icr 3.C icr}}\label{icr-3.c}}
+
+\hypertarget{matrix-definition}{%
+\subsection{Matrix Definition}\label{matrix-definition}}
+
+Old news (but lots of subscripts)
+
+\hypertarget{making-a-matrix-from-a-map}{%
+\subsection{Making a matrix from a
+map}\label{making-a-matrix-from-a-map}}
+
+Based on maps being uniquely determined
+
+\hypertarget{matrix-addition-and-scalar-multiplication}{%
+\subsection{Matrix addition and scalar
+multiplication}\label{matrix-addition-and-scalar-multiplication}}
+
+Not news
+
+\hypertarget{the-matrix-for-the-derivative-map-finite}{%
+\subsection{The matrix for the derivative map
+(finite)}\label{the-matrix-for-the-derivative-map-finite}}
+
+\[T \in \mathcal L\left(\mathcal P_5\left(\mathbb R\right), \mathcal P_4\left(\mathbb R\right)\right)\]
+Start with standard bases:
+\(\mathcal P_5 \rightarrow 1, x, x^2, x^3, x^4, x^5\),
+\(\mathcal P_4 \rightarrow 1, x, x^2, x^3, x^4\) Now lets define the
+map: \[\begin{align*}
+   T 1 &= 0\\
+   T x &= 1\\
+   T x^2 &= 2x\\
+   T x^3 &= 3x^2\\
+   T x^4 &= 4x^3\\
+   T x^5 &= 5x^4\\
+   \end{align*}\]
+
+And then we write each output as a linear combo of the basis of
+\(\mathcal P_4\) then we can define the matrix:
+
+\[ \begin{pmatrix}
+   0&1&0&0&0&0\\
+   0&0&2&0&0&0\\
+   0&0&0&3&0&0\\
+   0&0&0&0&4&0\\
+   0&0&0&0&0&5\\
+   \end{pmatrix} \begin{pmatrix}
+   a_0\\a_1\\a_2\\a_3\\a_4\\a_5
+   \end{pmatrix} \]
+
+Note that the matrix is \(5\times 6\) because we are going from
+dimension \(6 \to 5\) (and the second dimension gets "consumed" in the
+multiplication)
+
+\hypertarget{axler3.40-dimension-of-the-matrix-vector-space}{%
+\subsection{\texorpdfstring{Axler3.40 dimension of the matrix vector
+space
+{\textsc{icr}}}{Axler3.40 dimension of the matrix vector space icr}}\label{axler3.40-dimension-of-the-matrix-vector-space}}
+
+Put a one in every location which forms a basis.
+
+\hypertarget{axler3.49-column-of-matrix-product-equals-matrix-times-column}{%
+\subsection{\texorpdfstring{Axler3.49 column of matrix product equals
+matrix times column
+{\textsc{icr}}}{Axler3.49 column of matrix product equals matrix times column icr}}\label{axler3.49-column-of-matrix-product-equals-matrix-times-column}}
+
+Makes sense if you draw it out.. basically a column in the product
+\(AC\) will have used all of \(A\) but only the one column in \(C\).
+\[(AC)_{\cdot, k} = A(C_{\cdot, k})\] and
+\[(AC)_{j, \cdot} = (A_{j, \cdot})C\]
+
+\end{document}

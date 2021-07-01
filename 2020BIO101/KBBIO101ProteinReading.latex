@@ -1,0 +1,421 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Biology Reading Protein Notes }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6605)}}    % original
+%\rhead{\textrmlf{Compiled }\#6605\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6605\textrmlf{ on} \today}       % new date
+\lfoot{Zachary Sayyah \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
+
+\#ret \#flo
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{proteins}{%
+\section{Proteins}\label{proteins}}
+
+\hypertarget{structures}{%
+\subsection{Structures}\label{structures}}
+
+\begin{itemize}
+\tightlist
+\item
+  Proteins account for 50\% of the dray mass of most cells
+\item
+  Enzymes are mostly proteins
+\item
+  Very structurally complex
+
+  \begin{itemize}
+  \tightlist
+  \item
+    They are constructed from the same 20 sets of amino acids
+  \end{itemize}
+\item
+  A polypeptide is a polymer of amino acids
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A protein is made up of one or more polypeptides
+  \end{itemize}
+\item
+  A protein must serve a biological function to be a protein
+
+  \begin{itemize}
+  \tightlist
+  \item
+    It also must be folded and coiled into a specific 3 dimensional
+    structure
+  \end{itemize}
+\item
+  There are many types of proteins
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Enzymatic proteins
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Selective acceleration of chemical reactions
+    \item
+      Digestive enzymes are an example that catalyze the hydrolysis of
+      bonds in food
+    \end{itemize}
+  \item
+    Defensive proteins
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Protect against disease
+    \item
+      Antibodies are an example and inactivate as well as help destroy
+      viruses and bacteria
+    \end{itemize}
+  \item
+    Storage proteins
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Storage of amino acids
+    \item
+      Casein is an example which is in milk and is the major source of
+      amino acids for baby mammals
+    \end{itemize}
+  \item
+    Transport proteins
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Transport of substances
+    \item
+      Hemoglobin is an example that transports oxygen from the lungs to
+      other parts of the body.
+    \end{itemize}
+  \item
+    Hormonal proteins
+
+    \begin{itemize}
+    \tightlist
+    \item
+      COordination of an organism's activities
+    \item
+      Insulin is an example as it causes other tissues to take up
+      glucose thus regulating the blood sugar concentration
+    \end{itemize}
+  \item
+    Receptor proteins
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Response of cell to chemical stimuli
+    \item
+      Responsible for stuff like detecting signaling molecules released
+      by other nerve cells
+    \end{itemize}
+  \item
+    Contractile and motor proteins
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Meant for movement
+    \item
+      Responsible for stuff like flagella
+    \end{itemize}
+  \item
+    Structural proteins
+
+    \begin{itemize}
+    \tightlist
+    \item
+      They are used as support
+    \item
+      Keratin is an example
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\#\#\# Amino Acids
+
+\begin{itemize}
+\tightlist
+\item
+  All amino acids share a common structure
+
+  \begin{itemize}
+  \tightlist
+  \item
+    It is an organic molecule with both an amino group and a carboxyl
+    group
+
+    \begin{itemize}
+    \tightlist
+    \item
+      An amino group is two Hydrogens bonded with a nitrogen and a
+      carboxyl group is an oxygen double bonded with a carbon and an OH
+      bonded with the same carbon
+    \end{itemize}
+  \item
+    The side chain determines the unique characteristics of the
+    particular amino acid
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{protein-structure}{%
+\subsubsection{Protein Structure}\label{protein-structure}}
+
+\begin{itemize}
+\tightlist
+\item
+  The specific function of a protein is a result of their shape
+\item
+  There is now easier sequencing of proteins, but originally it was very
+  difficult
+\item
+  The protein may spontaneously fold once constructed
+\item
+  Proteins share three superimposed levels of structure, known as
+  primary, secondary, and tertiary structure
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A fourth Quaternary structure arises once when a protein is made of
+    two or more polypeptide chains
+  \end{itemize}
+\item
+  Primary structure
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A sequence of amino acids
+  \end{itemize}
+\item
+  Secondary strucutre
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These are coils and folds formed by hydrogen bonds from partial
+    charges
+  \item
+    An example would be a helix and pleated sheet
+  \end{itemize}
+\item
+  Tertiary structure
+
+  \begin{itemize}
+  \tightlist
+  \item
+    It is the overall shape of a polypeptide resulting from interactions
+    between the side chains
+  \end{itemize}
+\item
+  Quaternary structure
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is the overall protein structure resulting from the polypeptide
+    sub-units
+  \end{itemize}
+\item
+  Primary structure is very fundamental and even a slight change can
+  cause large consequences
+\item
+  Chemical conditions can alter a proteins shape
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Denaturing is when a protein becomes mishapen and therefore
+    biologically inactive
+  \end{itemize}
+\item
+  Many proteins have been sequenced
+\item
+  Misfolded proteins are the causes of many diseases
+\item
+  Crystallography is a technique for obtaining the 3d shape of a protein
+\item
+  Nucleic acids are made of polynucleotides which are made of
+  nucleotides
+\end{itemize}
+
+\end{document}

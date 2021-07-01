@@ -9,7 +9,7 @@ author: Houjun Liu
 
 ## First, a geography thing.
 
-![Screen Shot 2020-09-02 at 8.37.26 PM.png](./2020PHYS201/Screen Shot 2020-09-02 at 8.37.26 PM.png)
+![Screen Shot 2020-09-02 at 8.37.26 PM.png](./Screen Shot 2020-09-02 at 8.37.26 PM.png)
 
 In a topological map, you could probably guess that the **steepest path downwards/upwards is perpendicular to the lines.**
 

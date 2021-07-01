@@ -1,0 +1,378 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ WWI happens }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9947)}}    % original
+%\rhead{\textrmlf{Compiled }\#9947\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#9947
+  \textrmlf{ on}
+      \today
+  }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{when-the-war-began-people-realized-offense-wasnt-actually-dominant}{%
+\section{when the war began, people realized offense wasn't actually
+dominant}\label{when-the-war-began-people-realized-offense-wasnt-actually-dominant}}
+
+\hypertarget{defense-was-actually-easier-than-offenese}{%
+\subsection{defense was actually easier than
+offenese}\label{defense-was-actually-easier-than-offenese}}
+
+\hypertarget{why-not-stop-why-didnt-they-cut-their-losses}{%
+\section{why not stop (why didn't they cut their
+losses)}\label{why-not-stop-why-didnt-they-cut-their-losses}}
+
+\hypertarget{pride}{%
+\subsection{pride}\label{pride}}
+
+\hypertarget{sunk-cost-fallacy---both-sides-thought-they-might-just-be-able-to-win}{%
+\subsection{\texorpdfstring{sunk cost fallacy - both sides thought they
+might \emph{just} be able to
+win}{sunk cost fallacy - both sides thought they might just be able to win}}\label{sunk-cost-fallacy---both-sides-thought-they-might-just-be-able-to-win}}
+
+\hypertarget{maybe-if-one-government-can-outlast-another-if-enemy-is-about-to-collapse-then-itll-be-over-soon}{%
+\subsubsection{maybe if one government can outlast another (if enemy is
+about to collapse) then it'll be over
+soon}\label{maybe-if-one-government-can-outlast-another-if-enemy-is-about-to-collapse-then-itll-be-over-soon}}
+
+\hypertarget{people-had-been-expecting-it}{%
+\subsection{people had been expecting
+it}\label{people-had-been-expecting-it}}
+
+\hypertarget{this-idea-that-the-people-who-back-down-first-will-loose}{%
+\subsection{this idea that the people who back down first will
+loose}\label{this-idea-that-the-people-who-back-down-first-will-loose}}
+
+\hypertarget{defending-still-seems-riskier}{%
+\subsection{defending still seems
+riskier}\label{defending-still-seems-riskier}}
+
+\hypertarget{preempting-being-better-assumes-element-of-surprise-but-everyone-was-expecting-it}{%
+\subsection{preempting being better assumes element of surprise, but
+everyone was expecting
+it}\label{preempting-being-better-assumes-element-of-surprise-but-everyone-was-expecting-it}}
+
+\hypertarget{prefer-that-the-war-happens-on-someone-elses-turf}{%
+\subsection{prefer that the war happens on someone else's
+turf}\label{prefer-that-the-war-happens-on-someone-elses-turf}}
+
+\hypertarget{defense-is-relatively-easy}{%
+\section{defense is relatively easy}\label{defense-is-relatively-easy}}
+
+\hypertarget{machine-guns-and-trenches-are-too-effective-for-cutting-down-foot-soldiers}{%
+\subsection{machine guns and trenches are too effective for cutting down
+foot
+soldiers}\label{machine-guns-and-trenches-are-too-effective-for-cutting-down-foot-soldiers}}
+
+\hypertarget{no-tanks-to-deal-with-barbed-wire-and-machine-gun-fire}{%
+\subsection{no tanks to deal with barbed wire and machine gun
+fire}\label{no-tanks-to-deal-with-barbed-wire-and-machine-gun-fire}}
+
+\hypertarget{tanks}{%
+\section{tanks}\label{tanks}}
+
+\hypertarget{too-little-too-late}{%
+\subsection{too little, too late}\label{too-little-too-late}}
+
+\hypertarget{unfortunately-europeans-learn-the-wrong-lesson-and-people-leave-thinking-defense-is-better}{%
+\subsection{unfortunately, europeans learn the wrong lesson and people
+leave thinking defense is
+better}\label{unfortunately-europeans-learn-the-wrong-lesson-and-people-leave-thinking-defense-is-better}}
+
+\hypertarget{ships}{%
+\section{ships}\label{ships}}
+
+\hypertarget{british-and-german-dreadnaughts-dont-really-do-anything-for-the-entire-war-except-one-battle}{%
+\subsection{british and german dreadnaughts don't really do anything for
+the entire war (except one
+battle)}\label{british-and-german-dreadnaughts-dont-really-do-anything-for-the-entire-war-except-one-battle}}
+
+\hypertarget{not-about-navies-fighting-each-other-but-rather-about-navies-blockading-eachother}{%
+\subsection{not about navies fighting each other, but rather about
+navies blockading
+eachother}\label{not-about-navies-fighting-each-other-but-rather-about-navies-blockading-eachother}}
+
+\hypertarget{submarines}{%
+\section{submarines}\label{submarines}}
+
+\hypertarget{bad-news-bears-for-the-british-bc-britain-relies-on-imports-and-esp-civilian-ships}{%
+\subsection{bad news bears for the british (bc britain relies on
+imports) and esp civilian
+ships}\label{bad-news-bears-for-the-british-bc-britain-relies-on-imports-and-esp-civilian-ships}}
+
+\hypertarget{total-war-ignoring-international-laws-civilian-lives-are-discounted}{%
+\subsection{total war: ignoring international laws, civilian lives are
+discounted}\label{total-war-ignoring-international-laws-civilian-lives-are-discounted}}
+
+\hypertarget{race-to-outlast-the-other-country}{%
+\section{race to outlast the other
+country}\label{race-to-outlast-the-other-country}}
+
+\hypertarget{if-we-can-last-one-day-longer-then-we-win}{%
+\subsection{'if we can last one day longer, then we
+win'}\label{if-we-can-last-one-day-longer-then-we-win}}
+
+\hypertarget{mutinies-everywhere}{%
+\subsection{mutinies everywhere}\label{mutinies-everywhere}}
+
+\hypertarget{leveraging-ethnic-diversity}{%
+\section{leveraging ethnic
+diversity}\label{leveraging-ethnic-diversity}}
+
+\hypertarget{british-ask-arabs-in-the-ottoman-empire-to-help}{%
+\subsection{british ask arabs in the ottoman empire to
+help}\label{british-ask-arabs-in-the-ottoman-empire-to-help}}
+
+\hypertarget{germans-ask-poles-in-russia-to-help}{%
+\subsection{germans ask poles in russia to
+help}\label{germans-ask-poles-in-russia-to-help}}
+
+\hypertarget{germans-try-to-get-mexico-to-help-zimmerman-telegram-but-the-us-finds-out-and-gets-upset-oop}{%
+\subsection{germans try to get mexico to help (zimmerman telegram) but
+the US finds out and gets upset
+(oop)}\label{germans-try-to-get-mexico-to-help-zimmerman-telegram-but-the-us-finds-out-and-gets-upset-oop}}
+
+\hypertarget{germanys-goals}{%
+\section{germany's goals}\label{germanys-goals}}
+
+\hypertarget{create-states-between-germany-and-russia}{%
+\subsection{create states between germany and
+russia}\label{create-states-between-germany-and-russia}}
+
+\hypertarget{want-war-reparations-from-france-even-though-they-declared-war-on-france-first}{%
+\subsection{want war reparations from france (even though they declared
+war on france
+first)}\label{want-war-reparations-from-france-even-though-they-declared-war-on-france-first}}
+
+\hypertarget{want-to-increase-power-of-their-colonies}{%
+\subsection{want to increase power of their
+colonies}\label{want-to-increase-power-of-their-colonies}}
+
+\hypertarget{us-involevment}{%
+\section{US involevment}\label{us-involevment}}
+
+\hypertarget{churchill-was-upset-that-the-americans-didnt-act-sooner}{%
+\subsection{churchill was upset that the americans didn't act
+sooner}\label{churchill-was-upset-that-the-americans-didnt-act-sooner}}
+
+\hypertarget{should-the-us-have-entered-the-war-earlier}{%
+\subsection{should the US have entered the war
+earlier}\label{should-the-us-have-entered-the-war-earlier}}
+
+\hypertarget{maybe-the-victory-wouldnt-have-been-so-decisive-if-earlier}{%
+\subsubsection{maybe the victory wouldn't have been so decisive if
+earlier}\label{maybe-the-victory-wouldnt-have-been-so-decisive-if-earlier}}
+
+\hypertarget{people-didnt-want-to-fight-willson-was-proudly-reelected-for-not-putting-america-into-war}{%
+\subsubsection{people didn't want to fight, willson was proudly
+reelected for not putting america into
+war}\label{people-didnt-want-to-fight-willson-was-proudly-reelected-for-not-putting-america-into-war}}
+
+\hypertarget{not-as-much-powerstanding-military-was-ready-yet-barely-any-taxes-at-the-time}{%
+\subsubsection{not as much power/standing military was ready yet (barely
+any taxes at the
+time)}\label{not-as-much-powerstanding-military-was-ready-yet-barely-any-taxes-at-the-time}}
+
+\hypertarget{why-did-the-us-want-to-join-the-war-later}{%
+\subsection{why did the US want to join the war
+later}\label{why-did-the-us-want-to-join-the-war-later}}
+
+\hypertarget{ideological-barrier-drops}{%
+\subsubsection{ideological barrier
+drops}\label{ideological-barrier-drops}}
+
+\hypertarget{public-opinion-sways}{%
+\subsubsection{public opinion sways}\label{public-opinion-sways}}
+
+\hypertarget{military-size-politics-arent-determinative}{%
+\section{military size / politics aren't
+determinative}\label{military-size-politics-arent-determinative}}
+
+\hypertarget{allied-powers-were-much-richer-but-still-was-pretty-even-until-us-joined}{%
+\subsection{allied powers were much richer, but still was pretty even
+until US
+joined}\label{allied-powers-were-much-richer-but-still-was-pretty-even-until-us-joined}}
+
+\end{document}

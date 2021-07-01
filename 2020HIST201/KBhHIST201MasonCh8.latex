@@ -1,0 +1,376 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Mason Chapter 8 }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5512)}}    % original
+%\rhead{\textrmlf{Compiled }\#5512\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5512\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{mason-ch-8}{%
+\section{Mason, Ch 8}\label{mason-ch-8}}
+
+\#flo \#disorganized
+
+=\textgreater{} Imperialism: advanced contry control weak one
+
+\begin{itemize}
+\item
+  Imperialism: driven by compettion + diplomacy.
+\item
+  Europeans had massive land control at the height of imperialism.
+\item
+  But! Imperialism was short; African nationalism sprung up quickly.
+\end{itemize}
+
+\hypertarget{rise-of-imperialism}{%
+\subsection{Rise of Imperialism}\label{rise-of-imperialism}}
+
+\textbf{CLAIM: Reasons for african scramble: national pride, stsrategic
+competition, new markets, raw material, and labor!} =\textgreater{} Used
+colonies as effective tax-evasion zones free of tariffs
+
+\begin{itemize}
+\item
+  European depression from 1873-1890 became the drive for overseas
+  imperialistic ventures.
+\item
+  Also, Europeans felt taking over other countries is also humanitarian.
+\item
+  Self-imposed tariffs lead to ``economic protectionism, which furthered
+  the decline in trade
+\item
+  Thayer Mahan recognized the importance of having a navy to
+  colonization (Big Brit Navy =\textgreater{} Big Brit Colony); so,
+  Amercia and Germany beefed up tehir navy and began a series of
+  naval-based conquests.
+\item
+  \textbf{Social darwinism}: the survival of the fittest applies to
+  natinos --- hence advocates for imperilasm
+\item
+  Spread of imperialism began from spain =\textgreater{} French
+  =\textgreater{} dutch =\textgreater{} England.
+\item
+  communists claimed that imperialism is the natural consiquence of
+  capitalism
+\item
+  First to colonize is the first to rebel. Case and point: Amercia.
+\end{itemize}
+
+\hypertarget{the-history}{%
+\subsubsection{The History}\label{the-history}}
+
+\begin{itemize}
+\tightlist
+\item
+  Africa was largely unexplored before the 19th century --- before,
+  africa was only ``expoited'' by means of slave trade.
+\item
+  Construction of the Suez canal created a boom in shipping.
+\item
+  Belgian king Leopold's assigment of journalist Henry Stanley
+  established the Congo Free State.
+\item
+  Alarmed, other nations joined in and established guidelines for how to
+  divide the continent into effective sizes.
+\item
+  2 countries spared from the scramble: Ethiopia, a native empire, and
+  Liberia: a colony for freed american slaves.
+\item
+  the dutch Boers and the british fought over who cotrolled South Africa
+  and surrounding diamond mines. Eventually, the brits won.
+\end{itemize}
+
+\hypertarget{asia}{%
+\subsection{Asia}\label{asia}}
+
+\begin{itemize}
+\tightlist
+\item
+  Britian Asian colonization: India! Rich source of manpower and
+  resources.
+\item
+  The French took Vietnam, but strong nationalism drove them out in the
+  1950s.
+\item
+  Pressure from all fronts lead china to establish interlocking treaties
+  that gave europeans de facto control to key trade regions.
+  =\textgreater{} CLAIM: this eventually lead to the death of China, the
+  Empire
+\end{itemize}
+
+\hypertarget{models-and-results-of-imperialism}{%
+\subsection{Models and Results of
+Imperialism}\label{models-and-results-of-imperialism}}
+
+\begin{itemize}
+\tightlist
+\item
+  European colonizations usually started with Nationally chartered
+  exploratory companies (think: BEIC); evenutally, goverments take over.
+\item
+  through imperialism, European culture became the dominant viewpoint in
+  much of the southern hemisphere.
+\item
+  Cities show up, and so did production of cash crops + a cash economy.
+\item
+  European education stimulated literacy.
+\item
+  European colonization created weak governments when independence
+  finally was achieved.
+\item
+  Direct effect of imperialism: land holdings and timezones.
+\item
+  After the rapid de-colonization in the 20th century, the Third World
+  was established and CLAIM: was pivital during the cold war.
+\item
+  European thinking lead to European nationalist ideals, which CLAIM:
+  contributed to the downfall of European colonies.
+\end{itemize}
+
+\hypertarget{cn11302020}{%
+\subsection{CN11302020}\label{cn11302020}}
+
+\#flo
+
+\begin{itemize}
+\tightlist
+\item
+  About the \textbf{scramble for Africa} and the imperialist movement
+\item
+  Today: all of Imperialism!
+\item
+  The Scramble for Africa, w.r..t the congo
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Hand Cutting! A mechnasism to meet the quota of cartridge use and as
+    a a mechanism of defense
+  \end{itemize}
+\item
+  IR Caused science and tech advancements
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Steel + the steam engine =\textgreater{} the core driver of
+    technology - Think! The Effel tower: the celebration of the 1889
+    world's fair to create a celebration of steel
+  \item
+    The telegraph --- communication across continents =\textgreater{}
+    Post office would be delivered as part of the mail
+  \item
+    Standardized oil and the natural rubber
+  \item
+    1870s-1876 --- electricity and the telephone: enabled real-time
+    communication
+  \item
+    1884 --- Standardization of time, and created the official prime
+    meridian at Greenwitch
+  \item
+    American timezones was messy and city-based, which was later
+    standardized
+  \item
+    Rhodisia
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Connected telegraph between two different regions --- cape town to
+      chairo
+    \end{itemize}
+  \item
+    Archeology/Paleotogy/Museums/Science
+
+    \begin{itemize}
+    \tightlist
+    \item
+      1812 --- establishment of the Elgin marbles from Greece
+    \item
+      1829 --- Institute for Archeologoical Correspodence: create the
+      basis of first organized science
+    \item
+      1830 --- Establishment and justification of racial divide w.r.t.
+      ``self study'' and ``scientific exploration''
+    \item
+      1859 --- Darwin (about here is where scientific racism started,
+      ala ``development of men'')
+    \item
+      1898 --- cell theory
+    \item
+      1840 --- dinasoures!
+    \item
+      1864 --- establishment of the concept of the Eugenics and the
+      process of forced sterialization
+    \item
+      1869 --- the Periodic tables
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+``The White-Man's Burden'' --- the idea that the white man is racially
+superior and should go into the ``less developed'' region and bring the
+people into civilization
+
+\end{document}

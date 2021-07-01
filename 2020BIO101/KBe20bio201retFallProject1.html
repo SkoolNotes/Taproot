@@ -1,0 +1,448 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title>  Fall Project 1 Master Doc </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong></strong> Fall Project 1 Master Doc </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>:</p>
+            <h1 id="preliminary-research">Preliminary Research</h1>
+            <h2 id="sources">Sources</h2>
+            <p><a href="https://www.frontiersin.org/articles/10.3389/fchem.2019.00540/full">https://www.frontiersin.org/articles/10.3389/fchem.2019.00540/full</a></p>
+            <h1 id="notes">Notes</h1>
+            <h2 id="target-processes">Target Processes</h2>
+            <h3 id="enzyme-catalysis">Enzyme catalysis</h3>
+            <p>catalyzing reactions with actions</p>
+            <h3 id="protein-ligand-binding">Protein-ligand binding</h3>
+            <p>neurotransmitters (dopamine), protien is dopamine receptor how does the ligand bind the proper site to open the channel?</p>
+            <ul>
+            <li><p>ligand: how to pronounce?</p></li>
+            </ul>
+            <h3 id="signal-transduction">signal transduction</h3>
+            <p>bind to other protein to trigger chain of actions</p>
+            <ul>
+            <li><p>release calcium from intercellular stores</p></li>
+            </ul>
+            <h3 id="allosteric-regulation">allosteric regulation</h3>
+            <ul>
+            <li><p>a reason why knowing the structure and pockets is important</p></li>
+            <li><p>predict allosteric cites</p>
+            <ul>
+            <li><p>similar to non-competative inhibiton?</p></li>
+            <li><p>but for dna binding protiens, like the dna transcription inhibitor</p></li>
+            </ul></li>
+            <li><p>ligand binds allosteric site and activates the protien</p></li>
+            </ul>
+            <h2 id="folding-simulation-methods">Folding Simulation Methods</h2>
+            <h3 id="all-atom-molecular-dynamics-md">all-atom molecular dynamics (MD)</h3>
+            <ul>
+            <li><p>Obtains all desired information regarding the kinetics and thermodynamics</p></li>
+            </ul>
+            <ol>
+            <li><p>Time scale bottleneck</p>
+            <ul>
+            <li><p>very slow (supercomputers -&gt; microseconds of simulation)</p></li>
+            <li><p>require microsecond to milisecond time scales</p></li>
+            </ul>
+            <ol>
+            <li><p>optimizations</p>
+            <ol>
+            <li><p>conformational sampling?</p>
+            <ul>
+            <li><p>retains atomistic representation of the system</p></li>
+            </ul></li>
+            <li><p>overcome kinetic trapping and thourough sampling of conformational space techniques</p>
+            <ul>
+            <li><p>umbrella sampling</p></li>
+            <li><p>multicanonical algorithms</p></li>
+            <li><p>simulated tempering</p></li>
+            <li><p>transition path sampling</p></li>
+            <li><p>targeted molecular dynamics</p></li>
+            <li><p>replica exchange method molecular dynamics (REMD)</p></li>
+            <li><p>accelerated molecular dynamics (AMD)</p>
+            <ul>
+            <li><p>see below</p></li>
+            </ul></li>
+            </ul></li>
+            </ol></li>
+            </ol></li>
+            </ol>
+            <h3 id="accelerated-molecular-dynamics-amd">Accelerated molecular dynamics (AMD)</h3>
+            <p>epic</p>
+            <h2 id="voltage-gated-ion-channels">Voltage gated ion channels</h2>
+            <h3 id="overview">overview</h3>
+            <ol>
+            <li><p>lives on cell membrane</p></li>
+            <li><p>role</p>
+            <ol>
+            <li><p>allows ions in/out</p></li>
+            <li><p>crucial in "excitable" cells, like neurons</p></li>
+            <li><p>propogates elecrical signals directionally</p></li>
+            <li><p>ion specific</p>
+            <ol>
+            <li><p>Na^+</p></li>
+            <li><p>K^+</p></li>
+            <li><p>Ca<sup>2+</sup></p></li>
+            <li><p>Cl^-</p></li>
+            </ol></li>
+            <li><p>triggered by voltage across cell membrane</p></li>
+            </ol></li>
+            <li><p>parts</p>
+            <ol>
+            <li><p>voltage sensor</p></li>
+            <li><p>pore/conducting pathway</p></li>
+            <li><p>gate</p></li>
+            </ol></li>
+            <li><p><strong>sodium/calcium channels</strong></p>
+            <ol>
+            <li><p>parts</p>
+            <ol>
+            <li><p>one polypeptide</p></li>
+            <li><p>creates "four homologous domains"</p>
+            <ol>
+            <li><p>each one consists of 6 membrane spanning alpha helices</p></li>
+            </ol></li>
+            <li><p>the S4 helix <span>[</span>of each domain?<span>]</span> is the voltage sensing helix</p>
+            <ol>
+            <li><p>This helix contains enough positive charges to feel an electrostatic repelling force from the high charge outside the cell.</p>
+            <ol>
+            <li><p>lysine or arginine "residues in repeated motifs"</p></li>
+            <li><p>in resting state, half of each S4 helix is in contact with the cell cytosol</p></li>
+            <li><p>upon depolarization, positive residues move towards surface of membrane?</p></li>
+            <li><p>movement triggers comformational change in the gate</p></li>
+            </ol></li>
+            </ol></li>
+            <li><p>s6 domain</p>
+            <ol>
+            <li><p>thought to mechanically block the ions from passing through the channel</p></li>
+            </ol></li>
+            <li><p>inactivation gate</p>
+            <ol>
+            <li><p>structure</p>
+            <p>Another gate that stops ions from flowing, <span>[</span>giving the main gate more to reset?<span>]</span></p>
+            <ol>
+            <li><p>modeled as a ball tethered to a flexible chain</p></li>
+            <li><p>the chain is supposed to fold up on itself to pull the ball in and block ion flow</p></li>
+            </ol></li>
+            </ol></li>
+            </ol></li>
+            </ol></li>
+            </ol>
+            <h3 id="mechanical-function">mechanical function</h3>
+            <ol>
+            <li><p>sources</p>
+            <ol>
+            <li><p><a href="https://www.pnas.org/content/112/1/124">https://www.pnas.org/content/112/1/124</a> <span><span class="smallcaps">source</span></span></p></li>
+            <li><p><a href="https://www.sciencedirect.com/science/article/pii/S0076687918300156">https://www.sciencedirect.com/science/article/pii/S0076687918300156</a> <span><span class="smallcaps">source</span></span></p></li>
+            </ol></li>
+            <li><p>explanation</p>
+            <ol>
+            <li><p>structural overview</p>
+            <p>In each analogous subdomain, the segment S4 (of 6) (where the first four are voltage sensing, S5, S6 form the pore, and the S4-S5 linker is important but ellusive) is quite positively charged (3-7 positive Rgroups like Agrinine?)</p></li>
+            <li><p>salt bridge pattern rearranges?</p></li>
+            <li><p>something about gating currents and inactivation</p></li>
+            </ol></li>
+            </ol>
+            <h3 id="related-components">related components</h3>
+            <ol>
+            <li><p>membrane depolarization</p>
+            <p>The interior of the cell temporarily becomes more positive (less negative) than the exterior</p>
+            <ol>
+            <li><p><a href="https://en.wikipedia.org/wiki/Depolarization">https://en.wikipedia.org/wiki/Depolarization</a> <span><span class="smallcaps">source</span></span></p></li>
+            </ol></li>
+            <li><p>membrane potential</p>
+            <p>the "default" charge/voltage difference accross a cell membrane</p>
+            <ul>
+            <li><p>the inside is usually more negative</p></li>
+            </ul>
+            <ol>
+            <li><p><a href="https://en.wikipedia.org/wiki/Ball_and_chain_inactivation">https://en.wikipedia.org/wiki/Ball_and_chain_inactivation</a> <span><span class="smallcaps">source</span></span></p></li>
+            </ol></li>
+            <li><p>graded potentials</p>
+            <ol>
+            <li><p>a "smallish change in the membrane potential that is porportional to the size of the stimulus"</p>
+            <ol>
+            <li><p>doesn’t travel a long distance</p></li>
+            <li><p>diminishes/fades away as its spreads</p></li>
+            </ol></li>
+            <li><p><a href="https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/depolarization-hyperpolarization-and-action-potentials">https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/depolarization-hyperpolarization-and-action-potentials</a> <span><span class="smallcaps">source</span></span></p></li>
+            </ol></li>
+            <li><p>action potential</p>
+            <ol>
+            <li><p>always the same size</p></li>
+            <li><p>binary (all or none)</p></li>
+            <li><p>happens when depolarization increases the membrane voltage across a threshold value (usually about -55mV)</p></li>
+            <li><p>causes voltage gated Na^+ channels to open</p></li>
+            <li><p>voltage goes up quickl to around 40mV (positive)</p></li>
+            <li><p>after some time, Na+ VGICs inactivate</p></li>
+            <li><p>potassium channels stay open a little longer to bring the membrane potential back</p></li>
+            <li><p>sodium channels return to normal state (still closed, but can respond to voltage again)</p></li>
+            <li><p>"refactor period ensures that the action potential will only travel forward down the axon, not backwards through the portion of the axon that just underwent an action potential"</p></li>
+            </ol></li>
+            <li><p>Impulse speed</p>
+            <ol>
+            <li><p>larger diameter axon</p>
+            <p>A greater diameter will allow the action potential to travel faster because there are structures in the cytoplasm of each axon to block the ions’ travel. However, with a larger diameter, there are more paths for the ion to travel though, even if the concentration is the same? (because there is more volume to surface area? and a direction is a point on surface area but the ion is a point in volume?)</p></li>
+            <li><p>Mylelin sheath</p>
+            <p>Increases the distances between cations and anions on opposite sides of the axon membrane, which decreases capacitence (yes physics capacitence). So less charge can be tied to the membrane, so depolarization happens faster (fewer charges need to move).</p>
+            <ol>
+            <li><p><a href="https://www.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/neuron-membrane-potentials-topic/v/effects-of-axon-diameter-and-myelination">https://www.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/neuron-membrane-potentials-topic/v/effects-of-axon-diameter-and-myelination</a> <span><span class="smallcaps">source</span></span></p></li>
+            </ol></li>
+            </ol></li>
+            <li><p>Salt bridge</p>
+            <p>When two oppositely charged R-groups are close enough together to experience electrostatic attraction</p></li>
+            </ol>
+            <h3 id="sources-2">sources <span><span class="smallcaps">source</span></span></h3>
+            <ul>
+            <li><p><a href="https://en.wikipedia.org/wiki/Voltage-gated_ion_channel">https://en.wikipedia.org/wiki/Voltage-gated_ion_channel</a></p></li>
+            <li><p><a href="https://www.sciencedirect.com/science/article/pii/S0076687918300156">Computational Approaches to Studying Voltage-Gated Ion Channel Modulation by General Anesthetics - ScienceDirect</a></p></li>
+            <li><p><a href="https://ars.els-cdn.com/content/image/1-s2.0-S0092867419307342-fx1_lrg.jpg">1-s2.0-S0092867419307342-fx1<sub>lrg</sub>.jpg (996×996)</a></p></li>
+            <li><p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266868/">THE CRYSTAL STRUCTURE OF A VOLTAGE-GATED SODIUM CHANNEL</a></p></li>
+            <li><p><a href="https://www.pnas.org/content/112/1/124/tab-figures-data">Free-energy landscape of ion-channel voltage-sensor–domain activation PNAS</a></p>
+            <ul>
+            <li><p><a href="https://www.pnas.org/content/pnas/112/1/124/F1.large.jpg">F1.large.jpg (1036×1280)</a></p></li>
+            </ul></li>
+            <li><p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2950829/">Ion Channel Voltage Sensors: Structure, Function, and Pathophysiology</a></p></li>
+            <li><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0959440X16301506">Voltage-gated sodium channels viewed through a structural biology lens - ScienceDirect</a></p></li>
+            <li><p><a href="https://www.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/neuron-membrane-potentials-topic/v/effects-of-axon-diameter-and-myelination">Effects of axon diameter and myelination (video) Khan Academy</a></p></li>
+            <li><p><a href="https://www.sciencedirect.com/science/article/pii/S0006349514007875">Probing α-310 Transitions in a Voltage-Sensing S4 Helix - ScienceDirect</a></p></li>
+            <li><p><a href="https://www.cell.com/structure/fulltext/S0969-2126(15)00500-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212615005006%3Fshowall%3Dtrue">Molecular Interactions in the Voltage Sensor Controlling Gating Properties of CaV Calcium Channels: Structure</a></p></li>
+            <li><p><a href="https://www.sciencedirect.com/science/article/pii/S0092867419307342">Resting-State Structure and Gating Mechanism of a Voltage-Gated Sodium Channel - ScienceDirect</a></p></li>
+            <li><p><a href="https://www.pnas.org/content/109/2/E93">Structural basis for gating charge movement in the voltage sensor of a sodium channel PNAS</a></p></li>
+            <li><p><a href="https://science.sciencemag.org/content/362/6412/eaau2596?rss%253D1=">Structural basis for the modulation of voltage-gated sodium channels by animal toxins Science</a></p></li>
+            <li><p><a href="https://pharmrev.aspetjournals.org/content/57/4/387.full">Overview of Molecular Relationships in the Voltage-Gated Ion Channel Superfamily Pharmacological Reviews</a></p></li>
+            <li><p><a href="https://physoc.onlinelibrary.wiley.com/doi/10.1113/expphysiol.2013.071969">Structure and function of voltage‐gated sodium channels at atomic resolution - Catterall - 2014 - Experimental Physiology - Wiley Online Library</a></p></li>
+            <li><p><a href="https://www.cell.com/cell/fulltext/S0092-8674(11)00997-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867411009974%3Fshowall%3Dtrue">Crystal Structure of the Mammalian GIRK2 K+ Channel and Gating Regulation by G Proteins, PIP2, and Sodium: Cell</a></p></li>
+            <li><p><a href="https://www.sciencedirect.com/science/article/pii/S2211124719301512">The Role of CaV2.1 Channel Facilitation in Synaptic Facilitation - ScienceDirect</a></p></li>
+            <li><p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3448954/">The sliding-helix voltage sensor</a></p></li>
+            <li><p><a href="https://www.pnas.org/content/103/19/7292">Voltage sensor conformations in the open and closed states in rosetta structural models of K+ channels PNAS</a></p></li>
+            <li><p><a href="https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/voltage-gated-ion-channel#:~:text=Voltage%2Dgated%20ion%20channels%20contain,domain%20responsible%20for%20sensing%20voltage.">Voltage-Gated Ion Channel - an overview ScienceDirect Topics</a></p></li>
+            </ul>
+            <h1 id="meetings">Meetings</h1>
+            <h2 id="oct-2020">12 oct 2020</h2>
+            <ul>
+            <li><p>computational prediction modeling</p>
+            <ul>
+            <li><p>trying to predict the crystal structure</p>
+            <ul>
+            <li><p>why?</p>
+            <ul>
+            <li><p>to analyze would this fit?</p></li>
+            <li><p>does it work with this target</p></li>
+            </ul></li>
+            </ul></li>
+            </ul></li>
+            <li><p>solving the structure</p>
+            <ul>
+            <li><p>xray cristolography</p>
+            <ul>
+            <li><p>gold standard</p></li>
+            <li><p>now got the structure</p>
+            <ul>
+            <li><p>what does that mean?</p></li>
+            <li><p>can we simulate how it interacts?</p></li>
+            <li><p>can you then do modeling on that to see if drug molecules work? are useful</p></li>
+            </ul></li>
+            </ul></li>
+            </ul></li>
+            <li><p>look at some concrete examples?</p></li>
+            <li><p>tell a biological story alongside with computational relevance piece</p></li>
+            </ul>
+            <h3 id="protien-synthase">protien synthase</h3>
+            <p>not as much simulation stuff</p>
+            <h3 id="neurotransmitters">neurotransmitters</h3>
+            <p>dopamine sodium rushes in, electrochemical and concentration gradient recharge gradient by releasing potassium</p>
+            <ol>
+            <li><p>nerst equation</p>
+            <p>electrochemical gradient as battery</p></li>
+            <li><p>goldman-katz equation</p>
+            <ul>
+            <li><p>applied to neuro</p></li>
+            <li><p>takes into account the concentrations of the 4 ions</p>
+            <ul>
+            <li><p>how does the power of the battery work given those components?</p></li>
+            <li><p>ligands and pH can change/denature protiens, but there are also voltage gated channels</p></li>
+            </ul></li>
+            </ul></li>
+            </ol>
+            <h3 id="voltage-driven-things">Voltage Driven Things</h3>
+            <ul>
+            <li><p>Heartbeart</p></li>
+            <li><p>nervous system</p>
+            <ul>
+            <li><p>how do voltage gated ion channels work?</p></li>
+            </ul></li>
+            </ul>
+            <ol>
+            <li><p>things to know about</p>
+            <ul>
+            <li><p>action potential</p></li>
+            <li><p>voltage gated calcium channels open at depolarization threshold</p></li>
+            </ul>
+            <ol>
+            <li><p>neurotransmitters</p>
+            <ul>
+            <li><p>"calcium mediated exocitosis of neurotransmitter vesicles in the synaptic terminal"</p></li>
+            <li><p>calcium rushes somewhere to allow the neurotransmitters to leave the cell</p></li>
+            </ul></li>
+            </ol></li>
+            </ol>
+            <h3 id="case-study">Case study</h3>
+            <ul>
+            <li><p>why do we care? why is this useful</p></li>
+            <li><p>knowing the structure can lead to some useful information</p></li>
+            <li><p>how did it lead to some sort of accelerated understanding?</p></li>
+            </ul>
+            <h3 id="prions">prions</h3>
+            <ul>
+            <li><p>how to pronounce?</p></li>
+            </ul>
+            <ol>
+            <li><p>CJD</p>
+            <ul>
+            <li><p>is it inheritable?</p></li>
+            <li><p>one case per million population</p></li>
+            </ul>
+            <ol>
+            <li><p>Casues</p>
+            <ul>
+            <li><p>the gene that causes CJD in 5-10% of cases is PRNP</p></li>
+            <li><p>87% of cases are sporatic</p></li>
+            </ul></li>
+            </ol></li>
+            <li><p>isoform</p>
+            <ul>
+            <li><p>a different set of intons and exons</p></li>
+            <li><p>splicosome takes pre-RNA and cuts out intons</p>
+            <ul>
+            <li><p>even if the pre-RNA had 10 exons, the splicosome might take a subset of those exons and remove the others</p></li>
+            </ul></li>
+            <li><p>An isoform is a variant of that subset, an abnormal isoform is one that is "bad" and causes problems</p></li>
+            </ul></li>
+            </ol>
+            <h2 id="oct-2020-1">29 Oct 2020</h2>
+            <p>uh nothing happened</p>
+            <h2 id="nov-2020">03 nov 2020</h2>
+            <h3 id="apparently-i-can-just-turn-in-this-notes-document-and-the-detail-is-good-enough">apparently I can just turn in this notes document, and the detail is good enough</h3>
+            <h1 id="poster-plannning">Poster Plannning</h1>
+            <h2 id="nerve-cell-action-potential-depolarization">nerve cell, action potential, depolarization</h2>
+            <h3 id="resources">resources</h3>
+            <ul>
+            <li><p><a href="https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/depolarization-hyperpolarization-and-action-potentials">Khan Academy on Depolarization, hyperpolarization, and action potentials + some epic comments</a></p></li>
+            </ul>
+            <h3 id="membrane-potential-graph">membrane potential graph</h3>
+            <h2 id="structure-of-vgic-conformational-change-within-subunit">structure of VGIC + conformational change within subunit</h2>
+            <h3 id="resources-1">resources <span><span class="smallcaps">source</span></span></h3>
+            <ul>
+            <li><p><a href="https://www.sciencedirect.com/science/article/pii/S0076687918300156">Computational Approaches to Studying Voltage-Gated Ion Channel Modulation by General Anesthetics - ScienceDirect</a></p></li>
+            </ul>
+            <h2 id="electrostatic-interactions-of-s4">electrostatic interactions of S4</h2>
+            <h3 id="resources-2">resources <span><span class="smallcaps">source</span></span></h3>
+            <ul>
+            <li><p><a href="https://www.pnas.org/content/112/1/124/tab-figures-data">Free-energy landscape of ion-channel voltage-sensor–domain activation PNAS</a></p>
+            <ul>
+            <li><p><a href="https://www.pnas.org/content/pnas/112/1/124/F1.large.jpg">F1.large.jpg (1036×1280)</a></p></li>
+            </ul></li>
+            </ul>
+            <h2 id="bottom-diagrams">bottom diagrams</h2>
+            <h3 id="nav">Nav</h3>
+            <ol>
+            <li><p>side view, all alpha domains</p></li>
+            <li><p>top view, all alpha domains</p>
+            <ol>
+            <li><p>open/close?</p></li>
+            </ol></li>
+            </ol>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

@@ -29,4 +29,6 @@ File `type`s should be one of the following:
 `ret` | Something to be exported to the outside world, such as an assignment to be graded.
 `index` | The "default" file for any topic. Should link to everything else. **Don't add a `{title}`!**
 
+Don't forget to add a tag demarcating the file type in addition to the type in the name!
+
 ---

@@ -1,0 +1,419 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Mason Chapter Five }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5452)}}    % original
+%\rhead{\textrmlf{Compiled }\#5452\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5452\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\#flo \#disorganized \#incomplete
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{marks}{%
+\section{Marks?}\label{marks}}
+
+no it's Marx.
+
+\begin{itemize}
+\tightlist
+\item
+  1848, communist maanifesto time
+\item
+  led to the soviet union
+\end{itemize}
+
+\hypertarget{carl-marks}{%
+\subsection{Carl Marks}\label{carl-marks}}
+
+\begin{itemize}
+\tightlist
+\item
+  Father advocated for constitutionalism
+\item
+  moved around a bunch
+\item
+  see pg 22 for summary
+\end{itemize}
+
+\hypertarget{the-manifesto.}{%
+\subsection{The manifesto.}\label{the-manifesto.}}
+
+\begin{itemize}
+\tightlist
+\item
+  Joins a secret society for communism
+\item
+  in the manifesto:
+
+  \begin{itemize}
+  \item
+    \begin{quote}
+    Marx and Engels argued that history should not be un- derstood as a
+    story of great individuals or of conflict among states but of social
+    classes and their struggles with each other.
+    \end{quote}
+  \item
+    ends with
+
+    \begin{itemize}
+    \item
+      \begin{quote}
+      ``Let the ruling classes tremble at a communist revolu- tion. The
+      proletarians have nothing to lose but their chains. They have a
+      world to win. Proletarians of all countries, unite!''
+      \end{quote}
+    \end{itemize}
+  \end{itemize}
+\item
+  Marx was super poor
+\item
+  Engels:
+
+  \begin{itemize}
+  \item
+    \begin{quote}
+    \hypertarget{philosophers-have-so-far-explained-the-world-in-various-ways-the-point-however-is-to-change-it.}{%
+    \subsubsection{``Philosophers have so far explained the world in
+    various ways: the point, however, is to change
+    it.''}\label{philosophers-have-so-far-explained-the-world-in-various-ways-the-point-however-is-to-change-it.}}
+    \end{quote}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{the-theory}{%
+\subsection{the theory}\label{the-theory}}
+
+\begin{itemize}
+\item
+  atempted to create a scientific theory of hist and econ
+\item
+  about means of production
+\item
+  those who control the means of production control the society
+\item
+  religion is
+
+  \begin{itemize}
+  \item
+    \begin{quote}
+    is simply a tool of the dominant class to keep the lower classes in
+    their place in this world, with the expectation of a better
+    existence in the hereafter. Religion, in the words of Engels, is the
+    ``opiate of the masses.
+    \end{quote}
+  \end{itemize}
+\item
+  Marx was very deterministic?
+\item
+  all historty is about and driven by class struggles
+\item
+  \begin{quote}
+  All societies begin in the primitive-communal stage, move through a
+  system of slavery (the dominant class being the slave owners), then
+  feudalism, then capitalism, and eventually communism, at which point
+  classes would no longer exist.
+  \end{quote}
+\item ~
+  \hypertarget{believed-that-this-was-inevitable-in-every-society}{%
+  \subsection{Believed that this was inevitable in every
+  society}\label{believed-that-this-was-inevitable-in-every-society}}
+\item
+  says that capatilism sows the seads of its own destruction
+
+  \begin{itemize}
+  \tightlist
+  \item
+    workers only get paid a fraction of the value they produce
+  \item
+    thus, they cant afford what they produce
+  \item
+    leads to accumulation of goods that people cannot buy
+  \item
+    which leads to peridoc crisis
+  \item
+    and forces entrepaneus to scale back and lay off workers
+  \item
+    which leads to increasingly bad econonic crises and the
+    ``immerseration'' of the workers
+  \item
+    eventually the workers will just revolt ---
+  \item
+    is this true? woudnt the market just adjust?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{the-idea-weird-flow-man}{%
+\subsection{the idea? weird flow man}\label{the-idea-weird-flow-man}}
+
+\begin{itemize}
+\item
+  \begin{quote}
+  when the workers own the means of pro- duction, the entire economic
+  substructure will collapse and re-form, as will the superstructure of
+  society.
+  \end{quote}
+\item
+  adam smith talks about private vice creating public virute
+\item
+  marx says that the communist enviroment will foster people who dont
+  engage in this private vice
+\item
+  and thus, the communal aspect works
+\item
+  communism fosters the creation of a ``new man'', which will build a
+  ``new society''
+\item
+  \begin{quote}
+  When social classes disappear, so too will poverty, exploitation, re-
+  sentment, greed, and crime, so that there will be no need for a police
+  force. Indeed, because government simply perpetuates the supremacy of
+  the dominant class, without social classes there will be no need for
+  government at all. The state, according to Engels, will simply
+  ``wither away.''
+  \end{quote}
+\item
+  along with the states will be natinal boundries, and then the whole
+  planet will all start hugging eachother
+\end{itemize}
+
+\hypertarget{the-idea-but-later}{%
+\subsection{the idea, but later}\label{the-idea-but-later}}
+
+\begin{itemize}
+\tightlist
+\item
+  product of enlightenment and such
+\item
+  idea of economic determinism is still largely present today
+\item
+  bunch people adopted it
+\item
+  to see this, see pg 33
+\end{itemize}
+
+\hypertarget{actual-manifesto}{%
+\subsection{Actual manifesto}\label{actual-manifesto}}
+
+\begin{itemize}
+\item
+  \begin{quote}
+  class conflict---the idea that the social order is divided into
+  classes based on conflicting economic interests.
+  \end{quote}
+\item
+  i dont have time to annotate whoooops
+\end{itemize}
+
+\hypertarget{nationalism}{%
+\subsection{Nationalism?}\label{nationalism}}
+
+\begin{itemize}
+\item
+  dates and things, nationalist ideals begin. see pg 32
+\item
+  the concept of a nation was new, as it was derived from the
+  enlightenment
+
+  \begin{itemize}
+  \item
+    about shared `things' -- political goals, idealogy, race, ect.
+  \item
+    \begin{quote}
+    A people has to feel these common ties to be a nation.
+    \end{quote}
+  \end{itemize}
+\item
+  nationalism is a form of seperatism, therefore the states dont like it
+\item
+  \begin{quote}
+  Often, this nationalism took a very different form, called
+  irredentism, which is the demand for territory belonging to another
+  state. This top-down nationalism, used by national leaders making
+  irredentist claims, fostered the creation of unified states in Germany
+  and Italy.
+  \end{quote}
+\item
+\item
+  \begin{quote}
+  PRELUDE TO UNIFICATION: THE CRIMEAN WAR
+  \end{quote}
+\item
+  \emph{foreshadowing the first world war}
+\item
+  and then, unity!(?)
+\item
+  revolutionry nationlism vs controlled nationalism (liberal, with a
+  constitutional monarchy)
+\item
+  \begin{quote}
+  led his thousand ``Redshirts'' in a seizure of power
+  \end{quote}
+\item
+  oh boy
+\item
+  welp, lotta dates.
+\end{itemize}
+
+\end{document}

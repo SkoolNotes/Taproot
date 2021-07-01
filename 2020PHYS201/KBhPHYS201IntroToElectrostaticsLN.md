@@ -57,3 +57,16 @@ To see how we could do this, and how it relates to electrostatics, see [[KBhPHYS
 # Electric Fields
 
 See [[KBhPHYS201ElectricFields]] Electric Fields. 
+
+# Applications of Electrostatics 
+## Van de Graff Generator
+
+See [[KBhPHYS201VanDeGraff]]
+
+## Lazer Printers
+
+See [[KBhPHYS201LazerPrinters]]
+    
+# Resistance and Current
+
+See [[KBhPHYS201ResistanceConductivity]]

@@ -1,0 +1,244 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Organizing Organelle Based on Membranes }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3542)}}    % original
+%\rhead{\textrmlf{Compiled }\#3542\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3542\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101EukaryoticOrganells}{\tiny\textulf{[[}\textbf{KBhBIO101EukaryoticOrganells}\textulf{]]}}}\thinspace
+
+\hypertarget{organizing-organelles-based-on-membranes}{%
+\section{Organizing Organelles Based on
+Membranes}\label{organizing-organelles-based-on-membranes}}
+
+By organizing {[}{[}KBhBIO101EukaryoticOrganells{]}{]} based on whether
+or not they have membranes, it helps us gauge the evolutionary history
+of cells.
+
+\hypertarget{membranous-organelles}{%
+\subsection{Membranous Organelles}\label{membranous-organelles}}
+
+These have membranes! They have their own plasma, regulates their own
+macromolecule consumption, hormones, etc. Based on
+{[}{[}KBhBIO101Endosymbiotic{]}{]} endosymbiotic theory,
+double-memranous organelles may perhaps be the organelles that were
+originally independent prokaryotic cells that evolve to coexist with
+Eukarotes; by the same token, single-membraneous organelles may be
+fragements of prokaryotic cells.
+
+\hypertarget{double-membranes}{%
+\subsubsection{Double Membranes}\label{double-membranes}}
+
+\begin{itemize}
+\tightlist
+\item
+  Mitochrondria =\textgreater{} store ATP and extract energy from ATP
+\item
+  Chloroplasts =\textgreater{} Does photosynthesis
+\end{itemize}
+
+\hypertarget{double-membranes-evolved-later}{%
+\subsubsection{Double Membranes, Evolved
+Later}\label{double-membranes-evolved-later}}
+
+\begin{itemize}
+\tightlist
+\item
+  Endoplasmic reticulum =\textgreater{} forms the network of
+  transferring proteins and other elements
+\item
+  Golgi body/Gioli apparatus =\textgreater{} packs, sorts, and modifies
+  proteins and other elements throughout the cell
+\end{itemize}
+
+\hypertarget{single-membranes}{%
+\subsubsection{Single Membranes}\label{single-membranes}}
+
+\begin{itemize}
+\tightlist
+\item
+  Vesticles
+\item
+  Lysomoes =\textgreater{} breaking stuff down and garbage dumps
+\item
+  Vacuoles =\textgreater{} storing water, nutrients, waste
+\end{itemize}
+
+\hypertarget{non-membranous-organells}{%
+\subsection{Non-Membranous Organells}\label{non-membranous-organells}}
+
+These organelles does not process their own plasma, and they are mostly
+part of the cytoskeleton of a cell.
+
+\begin{itemize}
+\tightlist
+\item
+  Ribosomes =\textgreater{} protein synthesizer in the cell
+\item
+  Centrosome =\textgreater{} forms flangella, cilla, and handles cells
+  divisions
+\item
+  Plastids =\textgreater{} creates colours displayed in the chromoplasts
+\end{itemize}
+
+\end{document}

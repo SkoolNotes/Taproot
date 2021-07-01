@@ -1,0 +1,280 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Viruses }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5490)}}    % original
+%\rhead{\textrmlf{Compiled }\#5490\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5490\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101Diseases}{\tiny\textulf{[[}\textbf{KBhBIO101Diseases}\textulf{]]}}}\thinspace
+
+\hypertarget{viruses}{%
+\section{Viruses}\label{viruses}}
+
+\definition{Viruses}{Acellular Macromolecular Assemblies}
+
+Viruses\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  \ldots contain protein coat called \textbf{capsid}
+\item
+  \ldots use DNA or RNA, but not both
+\item
+  \ldots are obligate parasites that could only replicate within host
+\end{itemize}
+
+Assembled and mature viral particles =\textgreater{} \textbf{virions}.
+They usually have three different parts
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Capsid --- the protein coat
+\item
+  Genetic material --- what they are transmitting/replicating
+\item
+  Occationally outside lipid layer
+\end{enumerate}
+
+=\textgreater{} Viruses exist on the nanometre scale, but they are
+difference in share and size
+
+\hypertarget{structure-of-viruses}{%
+\subsection{Structure of Viruses}\label{structure-of-viruses}}
+
+See {[}{[}KBhBIO101StructureOfViruses{]}{]}
+
+\hypertarget{types-of-viruses}{%
+\subsection{Types of Viruses}\label{types-of-viruses}}
+
+Two types of viruses: the prokaryote-frequenting \textbf{DNA viruses}
+which replicates themselves using DNA and the eukaryote-frequenting
+\textbf{RNA viruses} which replicates themselves using RNA.
+
+See {[}{[}KBhBIO101TypesOfViruses{]}{]}
+
+\hypertarget{virus-lifecycle-infectivity}{%
+\subsection{Virus Lifecycle +
+Infectivity}\label{virus-lifecycle-infectivity}}
+
+How do viruses infect people? Basically, they come into your body,
+hijack the {[}{[}KBhBIO101CentralDogma{]}{]} system of your body, and
+leverage it to create more copies of itself.
+
+To see more about this, head on over to
+{[}{[}KBhBIO101ViralInfection{]}{]}. This is important and cool.
+
+\hypertarget{viral-genetic-shift-viral-genetic-drift}{%
+\subsection{Viral Genetic Shift + Viral Genetic
+Drift}\label{viral-genetic-shift-viral-genetic-drift}}
+
+Viruses modulate themselves, which make them particularly hard to deal
+with as their DNA may change every so often to the bewilderment of the
+immune system.
+
+There are two ways by which this happens --- genetic Shift and Genetic
+Drift. See {[}{[}KBhBIO101ViralGeneticModulationMutation{]}{]}
+
+\hypertarget{retroviruses}{%
+\subsection{Retroviruses}\label{retroviruses}}
+
+Viruses are special types of viruses that not only infect people, but
+also hijack cell DNA by inserting their own genetic code into them. They
+are particularly terrible because they cause the infected cell and its
+offsprings to inadventantly create more copies of the virus slowly as
+daily {[}{[}KBhBIO101CentralDogma{]}{]} happens.
+
+See {[}{[}KBhBIO101Retroviruses{]}{]}
+
+\hypertarget{viruses-damaging-host}{%
+\subsection{Viruses damaging host}\label{viruses-damaging-host}}
+
+Viruses are terrible because they damage the infected host
+cells/tissues, namely by\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  Reducing gene expression capacity (hogging up the
+  {[}{[}KBhBIO101CentralDogma{]}{]} channels to achieve higher
+  probability of replication)
+\item
+  Depleting cellular resources (needing to transcribe a thing that eat
+  you)
+\item
+  Causing cell lysis (to explode, which is bad)
+\item
+  Promoting tumorigenisis --- cancer (damaging promoters, among others)
+\item
+  Creating damaging immunological response (over-compensate to kill
+  viruses a la Ebola)
+\end{itemize}
+
+\hypertarget{preventing-viruses}{%
+\subsection{Preventing Viruses}\label{preventing-viruses}}
+
+See {[}{[}KBhBIO101AntiViralDrugs{]}{]}
+
+\end{document}

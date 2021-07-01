@@ -1,0 +1,274 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ENG201 }
+\newcommand{\thelesson}{ The Congo Free State }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhENG201HeartOfHardness}{\tiny\textulf{[[}\textbf{KBhENG201HeartOfHardness}\textulf{]]}}}\thinspace
+
+\hypertarget{the-congo-free-state-some-background}{%
+\section{The Congo Free State, some
+Background}\label{the-congo-free-state-some-background}}
+
+\hypertarget{leopolds-conolisation}{%
+\subsection{Leopold's Conolisation}\label{leopolds-conolisation}}
+
+\begin{itemize}
+\tightlist
+\item
+  Belgian emperor
+\item
+  Lead first European development efforts into the Congo Basin
+\item
+  Privatization of Public State allowed direct control
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Congo Free State was a privately held state under the seat of the
+    Belgian monarch, not the seat of the Belgian government
+  \item
+    Used the guise of Philanthropy and spreading Christian message +
+    approved by big state governments (US, most European monarchies,
+    etc.)
+  \end{itemize}
+\item
+  Under Europe's transformation to parliament \textgreater{} monarch,
+  Leopold used Congo as a place where he could re-establish his absolute
+  authority
+\end{itemize}
+
+\hypertarget{forced-labour}{%
+\subsection{Forced Labour}\label{forced-labour}}
+
+``The second holocaust'' =\textgreater{} Rubber prices increases
+dramatically, leading Congo rubber to be very valuable
+
+\begin{itemize}
+\tightlist
+\item
+  Held up females in villages and forced men to work to free their wives
+\item
+  Arm Cutting
+
+  \begin{itemize}
+  \tightlist
+  \item
+    To show that there was not bullet wasted in the army, the Royal
+    Guard had to show the severed hand of each dead victim to his senior
+    officer. If someone missed, the officer would sometimes cut off
+    someone's hand to compensate.
+  \item
+    To punish individuals who escaped or did not pour enough rubber,
+    arms were cut off too
+  \end{itemize}
+\item
+  And so, Birth Rates fell and famine ensued
+\end{itemize}
+
+\hypertarget{effects-of-colonization}{%
+\subsection{Effects of colonization}\label{effects-of-colonization}}
+
+\begin{itemize}
+\tightlist
+\item
+  Protests about the harsh working conditions
+\item
+  Between 10 and 23 million people died during \emph{Leopold's rule,
+  from 1885 to 1908}.
+\item
+  Africans lost their right to land ownership anywhere except within
+  their own villages
+\item
+  Colonial administrators also kidnapped orphaned children from
+  communities and transported them to ``child colonies'' to work or
+  train as soldiers. Estimates suggest more than 50\% died there.
+\item
+  Villages were burned and leveled to make way for rubber plantations
+\item
+  Rubber quotas were set impossibly high, the punishment for not meeting
+  requirments was to have hands chopped off.
+\item
+  Small wars occured where villages attacked neighboring communities to
+  gather hands in order to escape the rubber quota.
+\item
+  Constant starvation, war, and disease led to large declines in
+  population
+\item
+  Millions of congolese were forced to harvest rubber, build railroads
+  and mine for ore
+\end{itemize}
+
+\hypertarget{stats}{%
+\subsection{Stats!}\label{stats}}
+
+\begin{itemize}
+\tightlist
+\item
+  Population of the Congo state declined from 20 million =\textgreater{}
+  8 million after much widespread brutality in labor forces
+\item
+  estimates that the forced labor system led to the deaths of 50\% of
+  the population
+\end{itemize}
+
+\end{document}

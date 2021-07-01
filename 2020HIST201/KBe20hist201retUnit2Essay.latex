@@ -1,0 +1,576 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ E Unit 2 Essay Planning + Outline }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4689)}}    % original
+%\rhead{\textrmlf{Compiled }\#4689\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4689\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{prompt}{%
+\section{Prompt}\label{prompt}}
+
+\begin{quote}
+Option 1: "The concept of the balance of power was simply an extension
+of conventional wisdom. Its primary goal was to prevent domination by
+one state and to preserve the international order; it was not designed
+to prevent conflicts, but to limit them. To the hard-headed statesmen of
+the eighteenth century, the elimination of conflict (or of ambition or
+of greed) was utopian; the solution was to harness or counterpoise the
+inherent flaws of human nature to produce the best possible long-term
+outcome."
+
+Henry Kissinger, Diplomacy
+
+From one point of view, balance of power politics in the early modern
+period succeeded spectacularly, preventing a single European power from
+conquering the whole continent, although Napoleon almost succeeded. From
+another point of view, it exported great power conflict to the rest of
+the world, turning Africa, the Middle East, Asia, and the Americas into
+battlegrounds for rivalling European states. In the end, did the
+European balance of power succeed in its goal to, as Kissinger puts it,
+limit conflict and produce the ``best possible outcome'' from flawed
+human nature? Or did it magnify conflict and increase the likelihood of
+global war? Answer this question in a well organized essay using
+examples from multiple global regions. (Kissinger, Mason, Roberts)
+\end{quote}
+
+\hypertarget{outline}{%
+\section{Outline}\label{outline}}
+
+\hypertarget{intro}{%
+\subsection{Intro}\label{intro}}
+
+\hypertarget{background-info}{%
+\subsubsection{Background Info}\label{background-info}}
+
+\begin{enumerate}
+\item
+  Raison d'etat
+
+  In the 16th century, as the Reformations saw the church lose its
+  political standing over Europe, the emerging states of Europe needed
+  some philosophy to balance power amongst them and prevent unification,
+  which they imagined to require innevitable and brutal conflict. The
+  statesmen of the time, following the example of Cardinal de Richelieu,
+  First minister of France from 1624 to 1642 (Kissinger 58), settled on
+  the policy of \emph{Raison d'etat}: the idea that a group of states
+  each pursuing its own selfish interests would create a balance of
+  power, with weaker states banding together in times of need and no one
+  state gaining a significant upper hand.
+\item
+  Mercantalism
+
+  At roughly the same time, the concept of mercantalism, or the idea
+  that economic transactions are zero sum games that the government must
+  control and play, cropped up. Proponents such as Jean-Baptiste
+  Colbert, minister of finance and minister of marine and colonies for
+  France from 1661 to 1683, saw mercantalism as a component of Raison
+  d'etat's \textless punctuation, apostrophe?\textgreater{} selfish
+  furthering of the state. While Raison d'etat primarily concerned
+  negotiations with and attitudes towards neighboring states,
+  mercantalism had colonial implications. This dual philosophy of
+  looking to gain the upper hand both militarily and economically,
+  termed "balance of power politics" was supposed to keep peace and
+  limit conflict in Europe. However, it ultamately magnified conflict
+  both on the European subcontinent and in various colonial endevours.
+\end{enumerate}
+
+\hypertarget{thesis}{%
+\subsubsection{Thesis}\label{thesis}}
+
+Although Europe managed to remain disjoint and disunited, conflict based
+politics and the related mecentalist mindset hardly limited conflict or
+produced a desireable \textless WC\textgreater{} outcome: Raison d'etat
+is a viscious cycle that prolonged wars in Europe, exported conflict and
+oppression to India and the Caribbean, and forces itself upon
+territories it encounters.
+
+\hypertarget{richelieu-raison-detat}{%
+\subsection{Richelieu + Raison d'etat}\label{richelieu-raison-detat}}
+
+Raison d'etat--the basis \textless WC\textgreater{} for 'balance of
+power politics'--countered unification by prolonging wars and levaraging
+suffering, creating unessesary conflict for a not-so-rosy
+\textless WC\textgreater{} continuation of power struggle
+\textless rephrase\textgreater{} that other states could respond only
+with their own selfish strategies \textless phrasing\textgreater. When
+Richelieu came to power in 1624, France was surrounded by Habsburg lands
+and the Holy Roman Empire still posed a military threat. However, when
+the Holy Roman Emperor refused peace terms with the Protestant princes
+on religious grounds, Richelieu was determined to take advantage of the
+fighting (Kissinger 61). As Henery Kissinger, American politician and
+diplomat explained in \emph{Diplomacy}, "In order to prolong the war and
+exhaust the belligrants, Richelieu subsidized the enemeies of his
+enemies, bribed, {[}and{]} formented insurrections," (Kissinger 62)
+\textless quote integration?\textgreater{}
+
+\hypertarget{in-order-to-prolong-the-war-and-exhaust-the-belligrants-richelieu-subsidized-the-enemeies-of-his-enemies-bribed-formented-insurrections-etc-kissinger-62}{%
+\subsubsection{"In order to prolong the war and exhaust the belligrants,
+Richelieu subsidized the enemeies of his enemies, bribed, formented
+insurrections, {[}etc{]}" (Kissinger
+62)}\label{in-order-to-prolong-the-war-and-exhaust-the-belligrants-richelieu-subsidized-the-enemeies-of-his-enemies-bribed-formented-insurrections-etc-kissinger-62}}
+
+By defenestrating \textless wc: too memey?\textgreater{} morality and
+focusing on political interests, Richelieu chose to protect France in
+the international game of prisoners dilemma \textless phrasing: game? of
+prisoner's dilemma\textgreater. Richelieu continued to act exclusively
+in the interest of the state, standing by while Germany was devastated
+and fighting on the side of the Protestant princes with to exploit
+France's growing power (Kissinger 62).
+
+\hypertarget{france-stood-on-the-sidelines-while-germany-was-devastated-kissinger-62}{%
+\subsubsection{"France stood on the sidelines while Germany was
+devastated" (Kissinger
+62)}\label{france-stood-on-the-sidelines-while-germany-was-devastated-kissinger-62}}
+
+By taking advantage of existing conflict, letting Europe bleed until it
+was time to extract, France expanded its power until it could not be
+ignored. The balance of power that Richelieu expected could only come
+when neighbooring states banded together to stop a stroger power from
+taking over, with each state constantly reassessing its relationships
+with its neighbors. In other words, as soon as one state adopts Raison
+d'etat, all the neighboring states must do so as well or risk being
+crushed by the aggressor. In this way, Raison d'etat not only promotes
+war and death, it also proliferates by forcing the hand of others. In
+essence, Raison d'etat exploits the tragedy of the commons and create
+hostility between all parties--seeking a fragile balance of power built
+on conflict and shifting loyalties. \textless TODO: summarize, maybe a
+little more?\textgreater{}
+
+\hypertarget{he-seeks-peace-by-means-of-war-quote-on-kissinger-64-footnote-10}{%
+\subsubsection{"He seeks peace by means of war" (Quote on Kissinger 64,
+footnote
+10)}\label{he-seeks-peace-by-means-of-war-quote-on-kissinger-64-footnote-10}}
+
+\hypertarget{richelieu-believed-the-end-justified-the-means-kissinger-64}{%
+\subsubsection{"{[}Richelieu believed{]} the end justified the means"
+(Kissinger
+64)}\label{richelieu-believed-the-end-justified-the-means-kissinger-64}}
+
+\hypertarget{india}{%
+\subsection{India}\label{india}}
+
+Not only did balance of power poltics prolong \textless WC\textgreater{}
+conflict \textless WC\textgreater{} in Europe, it also created an air of
+rivalary that brought other reigons, such as India, into the fray.
+Because Raison d'etat only creates a balance of power when other states
+are participating, expansion to other territories can lead only to
+conflict and domination.
+
+\hypertarget{these-armed-forces-of-the-merchant-companies-now-became-war-making-entities-that-drew-indian-governments-and-their-armies-into-the-commercial-and-national-struggle-between-the-british-and-the-french.-trauttmann-176}{%
+\subsubsection{"These armed forces of the merchant companies now became
+war-making entities that drew Indian governments and their armies into
+the commercial and national struggle between the British and the
+French." (Trauttmann
+176)}\label{these-armed-forces-of-the-merchant-companies-now-became-war-making-entities-that-drew-indian-governments-and-their-armies-into-the-commercial-and-national-struggle-between-the-british-and-the-french.-trauttmann-176}}
+
+The colonial domination of India began with fortified trading posts
+owned by the French and British East Indian companies. As the rivalary
+between the British and French grew, their respcetive merchant companies
+were subliminally pressured to be more aggressive, turn more profit, and
+generally outpace the counterpart. When the opportunity to expand their
+respective operations arose, the trading companies began fighting
+battles, negotiating terms, and ruling large swaths of land in India.
+The British gained a solid foothold in 1757 when the British East India
+Company army defeated the Mughal governer of Bengal at Plassey in 1757
+(Trauttman 176). It was in this way that the profit incentivised
+companies became, as American historian Thomas Trauttmann put it,
+"war-making entities" that "drew Indian governments into the commercial
+and national struggle between the British and the French" (Trauttmann
+176).
+
+\hypertarget{these-princely-states-each-had-a-british-resident-who-kept-them-apprised-of-british-policy-and-often-interfered-with-the-internal-goverance-and-the-sucession-to-the-kingdom.-trauttmann-179}{%
+\subsubsection{\texorpdfstring{\sout{"These 'princely states' \ldots{}
+each had a British 'resident' who kept them apprised of British policy,
+and often interfered with the internal goverance and the sucession to
+the kingdom." (Trauttmann
+179)}}{"These 'princely states' \ldots{} each had a British 'resident' who kept them apprised of British policy, and often interfered with the internal goverance and the sucession to the kingdom." (Trauttmann 179)}}\label{these-princely-states-each-had-a-british-resident-who-kept-them-apprised-of-british-policy-and-often-interfered-with-the-internal-goverance-and-the-sucession-to-the-kingdom.-trauttmann-179}}
+
+\hypertarget{the-mutinies-of-1806-and-1857-had-elemnts-of-feeling-that-religion-was-under-attack-trauttmann-179}{%
+\subsubsection{"{[}The mutinies of 1806 and 1857{]} had elemnts of
+feeling that religion was under attack" (Trauttmann
+179)}\label{the-mutinies-of-1806-and-1857-had-elemnts-of-feeling-that-religion-was-under-attack-trauttmann-179}}
+
+As the British tightend it's grasp on India and drove the French out, it
+further assimilated the native power structure and peoples into it's
+military \textless rephrase\textgreater. The mercentalist ambitions of
+the company strove to extract profit from each interaction, failing to
+keep its soldiers happy. The mutanies that resulted, especially in 1806
+and 1857, were sparked by the feeling that religion was under attack
+(Trauttmann 179). As the rebellion spread, the British struggled to
+quell the conflict that resulted from the mercantalist inspired,
+extraction oriented approach to rule.
+
+\hypertarget{the-aftermath-of-the-failed-rebellion-was-a-complex-mixture-of-repression-ond-canciliation-by-the-british.-the-mutineers-themselves-were-harshly-and-publically-punished-some-of-them-being-tied-to-the-ends-of-cannon-and-blown-in-half.-trauttmann-181}{%
+\subsubsection{"The aftermath of the failed Rebellion was a complex
+mixture of repression ond canciliation by the British. The mutineers
+themselves \ldots{} were harshly and publically punished, some of them
+being tied to the ends of cannon and blown in half." (Trauttmann
+181)}\label{the-aftermath-of-the-failed-rebellion-was-a-complex-mixture-of-repression-ond-canciliation-by-the-british.-the-mutineers-themselves-were-harshly-and-publically-punished-some-of-them-being-tied-to-the-ends-of-cannon-and-blown-in-half.-trauttmann-181}}
+
+After the rebellion was extinguished, the Company used the remaining
+loyal troops to further repress the uprising, with some mutineers being
+tied to the ends of cannons and blown in half (Trauttmann 181). The
+mercantilist mindset and French rivalary drove the British to maximize
+extraction of value from India, repressing the people and creating
+conflict along the way. Raison d'etat was meant to limit conflict and
+prevent the inhumane domination of a territory by a single power, yet
+the British did exactly that to India in the process. Because India saw
+it's trade relation with Europe as a positive sum game instead of
+through the mercantalist lense, and because it did not participate in
+Raison d'etat, it was trampled by the states vying for power and
+suffered as a result. This serves as an example of how Raison d'etat
+brings down a healthy relationship and enforces conflict: an aggressive
+state forces others to fight it, or risk destruction themselves. Thus,
+Raison d'etat and mercantalism only achieves a balance of power by
+incentivising conflict and threatening destruction.
+
+\hypertarget{salt-hedge-how-to-cite}{%
+\subsubsection{\texorpdfstring{{TODO} salt hedge? How to
+cite?}{TODO salt hedge? How to cite?}}\label{salt-hedge-how-to-cite}}
+
+\hypertarget{but-the-immediate-cause-of-british-rule-in-india-was-the-worldwide-struggle-of-england-and-france-which-the-english-and-french-east-india-companies-joined-in-trauttmann-177}{%
+\subsubsection{"But the immediate cause of British rule in India was the
+worldwide struggle of England and France, which the English and French
+East India Companies joined in," (Trauttmann
+177)}\label{but-the-immediate-cause-of-british-rule-in-india-was-the-worldwide-struggle-of-england-and-france-which-the-english-and-french-east-india-companies-joined-in-trauttmann-177}}
+
+\hypertarget{india-had-been-irresistably-sucked-into-the-worldwide-conflict-between-british-and-french-power-roberts-642}{%
+\subsubsection{"India had been irresistably sucked into the worldwide
+conflict between British and French power" (Roberts
+642)}\label{india-had-been-irresistably-sucked-into-the-worldwide-conflict-between-british-and-french-power-roberts-642}}
+
+\hypertarget{caribbean}{%
+\subsection{Caribbean}\label{caribbean}}
+
+Like India, colonial rivalaries brought European exploitation and
+conflict to the Caribbean, wiped out the native population, created
+demand for slaves, and brought more profit seeking Europeans to continue
+the cycle.
+
+When the Spanish later established colonies on the larger Caribbean
+islands, they were only there to gain some slight imperial advantages
+over their enemies back in Europe. As in India, the native inhabitants
+of the Caribbean were unable to resist the weapons and disease brought
+be the Europeans, and were subsequently trampled by the ambitions of
+Raison d'etat and the mercantalist agenda. However, the promise of new
+lands and rivalry between nations took the exploitation of the Caribbean
+multiple steps further. As British Historian J. M. Roberts explains,
+"The spanish occupation of the larger Caribbean islands \ldots{}
+attracted the attention of the English, French, and Dutch" (Roberts
+650).
+
+\hypertarget{the-spanish-occupation-of-the-larger-caribbean-islands-attracted-the-attention-of-the-english-french-and-dutch-roberts-650}{%
+\subsubsection{"The spanish occupation of the larger Caribbean islands
+\ldots{} attracted the attention of the English, French and Dutch"
+(Roberts
+650)}\label{the-spanish-occupation-of-the-larger-caribbean-islands-attracted-the-attention-of-the-english-french-and-dutch-roberts-650}}
+
+The selfish hunger for power endorsed by Raison d'etat brought the first
+Europeans to the Caribbean, and the fear of domination by those early
+settlers brought the rest of the Europeans too. Once settled, the
+mercantalist mindset and rivalary of European nations brought the
+backstabbing conflict to everyday Caribbean life. In fact, England's new
+tobacco colonies became of great importance not only because of the
+revenue that the mercantalist mindset so sought, but also because the
+"provided fresh opportunities for interloping in the trade of the
+Spanish empire" (Roberts 651).
+
+\hypertarget{tobacco-colonies-in-the-new-world-rapidly-became-of-great-importance-to-england-not-only-because-of-the-customs-revenue-they-supplied-but-also-because-they-provided-fresh-opportunities-for-interloping-in-the-trade-of-the-spanish-empire.-roberts-651}{%
+\subsubsection{"{[}Tobacco colonies in the new world{]} rapidly became
+of great importance to England, not only because of the customs revenue
+they supplied, but also because {[}they{]} provided fresh opportunities
+for interloping in the trade of the Spanish empire." (Roberts
+651)}\label{tobacco-colonies-in-the-new-world-rapidly-became-of-great-importance-to-england-not-only-because-of-the-customs-revenue-they-supplied-but-also-because-they-provided-fresh-opportunities-for-interloping-in-the-trade-of-the-spanish-empire.-roberts-651}}
+
+The Europeans stayed and expanded their exploitative opperation in the
+Caribbean because mercantalist dictated that they had to extract as much
+profit as possible, and because Raison d'etat feared that others would
+take advantage if they did not.
+
+\hypertarget{production-was-for-a-long-time-held-back-by-a-shortage-of-labor-as-the-native-populations-of-the-islands-succumbed-to-european-ill-treatment-and-disease.-roberts-650}{%
+\subsubsection{"Production was for a long time held back by a shortage
+of labor, as the native populations of the islands succumbed to European
+ill-treatment and disease." (Roberts
+650)}\label{production-was-for-a-long-time-held-back-by-a-shortage-of-labor-as-the-native-populations-of-the-islands-succumbed-to-european-ill-treatment-and-disease.-roberts-650}}
+
+Even when the original capacity for profit of the islands were
+saturated, the mercantalist mindset demanded more production. Instead of
+resting after wiping out the natives and turning a new land into a
+production factory, the default mindset focused on ever more profit.
+Roberts summarizes "production was for a long time held back by a
+shortage of labor, as the native populations of the islands succumed to
+European ill-treatment and disease." (Roberts 650) Raison d'etat was not
+satisfied with taking over a foreign land and decimamating the
+population--the focus of the sentiment was always to increase
+production--and if the natives died to the Europeans then the Europeans
+would have to import a new workforce to abuse from elsewhere. The common
+thread through this intercontinental exploitation is the Raison d'etat
+induced rivalary between the states of Europe and the profit hungry
+mercantalist mindset that saw no limits. The Spanish landed in the
+Caribbean to extract profit from new lands. Other European states
+arrived to conflict the Spanish and balance out power. The European
+states stayed in fear of other states taking advantage of the situation,
+and they brought slaves in to out-produce their European rivals.
+Ironically, Raison d'etat was meant to strike a balance of power and
+prevent domination of a single power, yet India and the Caribbean were
+both trampled and suffered the ill effects of domination. The power
+struggle created by Raison d'etat sucked the Caribbean into the
+conflict, and after destroying the native population, the European
+countries were still locked in the viscious cycle of Raison d'etat.
+\textless that's a tautalogy, better summary sentence\textgreater{}
+
+\hypertarget{lots-of-slaves-6k-slaves-in-1643-but-50k-in-1660-roberts-651}{%
+\subsubsection{Lots of slaves: 6k slaves in 1643 but 50k in 1660
+(Roberts
+651)}\label{lots-of-slaves-6k-slaves-in-1643-but-50k-in-1660-roberts-651}}
+
+\hypertarget{where-colonial-fronteers-met-and-policing-was-poor-and-there-were-great-prizes-to-be-won-the-area-became-the-classical-indeed-legendary-hunting-ground-of-pirates.-roberts-652}{%
+\subsubsection{"where colonial fronteers met and policing was poor and
+there were great prizes to be won, {[}the area{]} became the classical,
+indeed, legendary hunting ground of pirates." (Roberts
+652)}\label{where-colonial-fronteers-met-and-policing-was-poor-and-there-were-great-prizes-to-be-won-the-area-became-the-classical-indeed-legendary-hunting-ground-of-pirates.-roberts-652}}
+
+\hypertarget{conclusion}{%
+\subsection{Conclusion}\label{conclusion}}
+
+\hypertarget{summarize}{%
+\subsubsection{Summarize}\label{summarize}}
+
+In Europe, states exercising balance of power politics caused states to
+view every interaction as a battle, promoting conflict and creating
+rivalary with hard power, soft power, and economic mercantalasim. The
+cynical \textless WC beligrant? not benevolent\textgreater{}
+international relations of states practicing Raison d'etat also forced
+the aggressive attitude upon surrounding states, as those who didn't
+fight back would be trampled. This rivalary not only consumed Europe but
+also spilled over into the various overseas colonies of its states,
+where natives were trampled and their land exploited in fear of another
+European power gaining the upper hand. \textless too much summary? it's
+three sentences..\textgreater{}
+
+\hypertarget{direct-impact}{%
+\subsubsection{Direct Impact}\label{direct-impact}}
+
+While the original supporters of balance of power politics may have seen
+this as a foolproof, trustless system to prevent domination of one
+European power over the rest of Europe, no such consideration was given
+to the colonized locations--although European states remained relatively
+intact, conflict was ultamately magnified both within Europe and in the
+rest of the world.
+
+\hypertarget{larger-connections}{%
+\subsubsection{larger connections}\label{larger-connections}}
+
+Thus, while Raison d'etat may have been the best option for any
+individual European state, it was beneficial for neither the individuals
+fighting mercantalist wars or optimizing extraction from remote
+colonies, nor for colonized countries that weren't on the same page
+about\textless wc\textgreater{} Raison d'etat and it's aggressive
+intentions.
+
+\hypertarget{editing}{%
+\section{Editing}\label{editing}}
+
+Link:
+\url{https://docs.google.com/document/d/152S-sC2tw8GyYGGW-uLJuS_A7vrrcxnLA76auaqI-vE/edit?usp=sharing}
+
+\hypertarget{wc}{%
+\subsection{WC}\label{wc}}
+
+\hypertarget{need-more-synonyms-for-balance-of-power-politics}{%
+\subsubsection{\texorpdfstring{{DONE} Need more synonyms for "balance of
+power
+politics"}{DONE Need more synonyms for "balance of power politics"}}\label{need-more-synonyms-for-balance-of-power-politics}}
+
+No.
+
+\hypertarget{how-to-introduce-secondary-sources-like-kissinger-and-trauttmann}{%
+\subsection{how to introduce secondary sources? like kissinger and
+trauttmann}\label{how-to-introduce-secondary-sources-like-kissinger-and-trauttmann}}
+
+\hypertarget{india-docs-are-primary-sources-in-google-drive}{%
+\subsubsection{\texorpdfstring{india docs are primary sources in google
+drive
+{\textsc{answer}}}{india docs are primary sources in google drive answer}}\label{india-docs-are-primary-sources-in-google-drive}}
+
+Robert Clive in India docs 1.pdf
+
+\hypertarget{book-names-in-quotes-or-italics}{%
+\subsection{\texorpdfstring{book names in \sout{quotes} or
+italics?}{book names in quotes or italics?}}\label{book-names-in-quotes-or-italics}}
+
+\hypertarget{how-to-cite-external-facts}{%
+\subsection{how to cite external
+facts?}\label{how-to-cite-external-facts}}
+
+\hypertarget{great-salt-hedge-sushu-class}{%
+\subsubsection{great salt hedge, sushu
+class}\label{great-salt-hedge-sushu-class}}
+
+\begin{enumerate}
+\item
+  - Salt Hedge: Sushu, name of ppt, 2020 {\textsc{answer}}
+\end{enumerate}
+
+\end{document}

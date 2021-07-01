@@ -1,0 +1,292 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Mutations }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12123)}}    % original
+%\rhead{\textrmlf{Compiled }\#12123\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101MutationsAllealsInheritance}{\tiny\textulf{[[}\textbf{KBhBIO101MutationsAllealsInheritance}\textulf{]]}}}\thinspace
+
+\hypertarget{mutations}{%
+\section{Mutations}\label{mutations}}
+
+Mutations are one way by which totally random, not controlled for, and
+fully spontaneous genetic modifications happen to literally anywhere in
+any cell's DNA during {[}{[}KBhBIO101CellReproduction{]}{]}.
+Specifically, it involves an environmental factor or the sheer entropy
+of things to directly, or indirectly (by causing/creating a oopsie
+during {[}{[}KBhBIO101DNAReplication{]}{]}) \emph{mutate} the resulting
+supposed-to-be-exact copy of DNA.
+
+\begin{figure}
+\centering
+\includegraphics{./Pasted image 20210331134011.png}
+\caption{Pasted image 20210331134011.png}
+\end{figure}
+
+Lot's of things cause mutations!
+\includegraphics{Pasted image 20210423132309.png}
+
+To figure out how mutations work, you first need to know how DNA looks
+like, so here goes a\ldots{}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\emph{\textbf{Special Programming!} How does DNA work?}
+
+There are two rought typos of codons on DNA, namely:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Pyrimides} - cytosine + thymine. Single ring. Which are
+  usually paired with\ldots{}
+\item
+  \textbf{Purines} - adenine + guanine. Double ring.
+\end{itemize}
+
+So if a mutation replaces adenine and guanine, it would has less of an
+effect because a double ring is still matched with a single ring. But if
+an adenine is replaced by thymine, we could have a bigger issue because
+double-double ring is much longer than a traditional single/double
+match.
+
+Thank you for coming to this assembly. You could leave now. ***
+
+\hypertarget{mutation-vocab}{%
+\subsection{Mutation Vocab}\label{mutation-vocab}}
+
+\textbf{Trait}: characteristic of organism influnenced by its genes \&
+modified by its enviroment
+
+\textbf{Phenotype}: a collective subset of all the traits (``that looks
+different from wild type'') in an organism
+
+\hypertarget{and-now-an-example}{%
+\subsection{And now, an example}\label{and-now-an-example}}
+
+\includegraphics{Pasted image 20210423131153.png}
+
+Mutant hemoglobin could\ldots{} 1) with one mutation, cause a slight
+change in the RBC but cause resistance to malaria 2) with two mutation,
+cause sickle-cell.
+
+Remember that DNA codes for proteins, so mutations in DNA will cause
+different proteins BUT not necessarily different traits. In the case of
+1-chromasome sickle-cell mutation, a protein is changed but the result
+is not nocessarily a different RBC.
+
+\hypertarget{types-of-mutations}{%
+\subsection{Types of Mutations}\label{types-of-mutations}}
+
+There are many types/methods by which DNA mutate. These different types
+dictate when they happen ({[}{[}KBhBIO101Meiosis{]}{]} or
+{[}{[}KBhBIO101Mitosis{]}{]}?), how severe they are, and also their
+frequency. See\ldots{} {[}{[}KBhBIO101TypesOfMutations{]}{]}
+
+\hypertarget{impacts-of-mutations}{%
+\subsection{Impacts of mutations}\label{impacts-of-mutations}}
+
+Mutations does one of two things, which are both pretty obvious: they
+either cause a \textbf{loss of function} for the organism/cell or
+\textbf{gain of function} for the organism/cell (you either loose
+something or gain something\ldots{} duh).
+
+\textbf{Loss of function mutations} - Complete loss of a proteins -
+Reduction of a protein's ability to function
+
+\textbf{Gain of function mutations} - Increase the function of a protein
+- Aquire new protein function - Expression of protein in new
+location/time
+
+\textbf{Neutral function} Does nothing :(
+
+\hypertarget{protein-pathways}{%
+\subsection{Protein Pathways}\label{protein-pathways}}
+
+Most DNA/proteins trigger in a pathway --- in that an environment factor
+does not directly trigger a protein action; instead, a \emph{sequence}
+of actions from the surface down happen and mutation in any of that
+sequence of proteins may cause a difference in function.
+
+\end{document}

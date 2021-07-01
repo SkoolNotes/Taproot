@@ -1,0 +1,499 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Roberts Ch. 5 }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3910)}}    % original
+%\rhead{\textrmlf{Compiled }\#3910\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3910\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{roberts-ch.-5}{%
+\section{Roberts Ch. 5}\label{roberts-ch.-5}}
+
+\#disorganized
+
+\hypertarget{india}{%
+\subsection{India}\label{india}}
+
+\begin{itemize}
+\tightlist
+\item
+  England challenged the ``Indian Ocean supremacy''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    England had before sought to enter spice trade of India, but had
+    issues trying to do so
+  \item
+    Had French interference when trying to do business in India
+  \item
+    For a century held only Fort St.~George and Bombay
+  \item
+    Conducted trade in Coffee and Textiles
+  \end{itemize}
+\item
+  Coffee!
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Establishment of coffee-houses of London brought popularity of the
+    drink
+  \item
+    Tea drinking was also growing at the time
+  \end{itemize}
+\item
+  Company growth
+
+  \begin{itemize}
+  \tightlist
+  \item
+    East India Co.~1689 defeat pivoted direction to use non-force
+    strategies
+  \item
+    Collapse of Mughals after 1707 brought energy and land to the
+    British Trade
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Increased polarity between the Marathas Hindus and the Mughals
+      caused distress
+    \item
+      Sikhs formed their own sect of Hinduism, detaching from both true
+      Hindu ideology and Islamic ideology
+    \item
+      1730s Persian invasion caused loss in territory
+    \end{itemize}
+  \item
+    Britian did not invade the Indian region until much later than the
+    1740s =\textgreater{} CLAIM: because it considered trade very
+    important
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Finally decided to take action due to CLAIM: hostility towards the
+      French
+    \item
+      Ownership of station at Calcutta provided access to riches part of
+      India
+    \item
+      Wanted not to interfere with Indian politics, and instead employ
+      the Mughal model of acceptance-and-profit
+    \end{itemize}
+  \item
+    British vs French conflict
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Supported opposite Indian princes
+    \item
+      Brought armed struggle between French and British forces
+    \item
+      French governor Dupleix controlled brilliantly, but was recalled
+    \item
+      Provincial government of Bengal attacked + captured Calcutta
+    \item
+      East India Co.'s army recaptured the city + recaptured both
+      territory of he French and of the governors
+    \item
+      Recapturing opened the way to British monopoly in India +
+      diminishing of French dominance
+    \end{itemize}
+  \item
+    British Raj
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Britian proper sent an army to India, legetimizing the corporate
+      armies of the Co.
+    \item
+      Taking over Mughal government services @sushu
+
+      \begin{itemize}
+      \tightlist
+      \item
+        TAX FARMING: government gives a person right to collect taxes
+      \end{itemize}
+    \item
+      The Co.~formally became ruler of Bengal in 1764
+
+      \begin{itemize}
+      \tightlist
+      \item
+        French bases became scattered/useless
+      \item
+        Peace of 1763 left only 5 French trading posts
+      \item
+        1769 Compagnie des Indies dissolved
+      \end{itemize}
+    \item
+      Took Cerlon from Dutch year after \#verify?
+    \item
+      Growth =\textgreater{} Decline
+
+      \begin{itemize}
+      \tightlist
+      \item
+        The company turned a bit too territorialist
+      \item
+        Gave employees too many opportunities to cheat/bribe, and not
+        enough profit for the company itself
+      \item
+        British government began nationalizing
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Set up system of ``dual control'' in 1784 =\textgreater{}
+          lasted until 1858
+        \end{itemize}
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  Britian successful because of the tax-and-spend cycle
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Heavy tax to citizen
+  \item
+    Use tax to fund expansion
+  \item
+    Citizens get benefit of expansion + don't mind high taxes
+  \end{itemize}
+\item
+  Obviously, this works only if your contry is merchatilist where
+\end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{britsacquireinda.png}
+\caption{britsacquireinda.png}
+\end{figure}
+
+\begin{itemize}
+\item
+  Roberts =\textgreater{} empirization is because of increased
+  commercial opportunity
+\item
+  Trauttmann =\textgreater{} empirization is due to the faliture of the
+  silent Dutch model
+\item
+  Salt hedge
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Salt in + opium out
+  \item
+    400 miles (SF:Chicago)
+  \item
+    Controlled the economy
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{carribeans}{%
+\subsection{Carribeans}\label{carribeans}}
+
+\begin{itemize}
+\tightlist
+\item
+  Brazil and Carribeans boomed due to sugar crops
+\item
+  Main crops: tobacco, hardwood, coffee
+\item
+  Spanish influence on Caribbean agriculture
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Began with growth of fruit + cattle
+  \item
+    Sugar and Rice was then introduced, but production was slow
+  \end{itemize}
+\item
+  European settlements later appeared with the usual suspects
+  =\textgreater{} Netherlands, England, French * England established 2
+  colonies =\textgreater{} St.~Christopher + Barbados * St.~Christopher
+  =\textgreater{} 3000, Barbados =\textgreater{} 2000
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Early successes due to tobacco: ``tobacco colonies''
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Supplied great customs values to England
+    \item
+      Left the French with 7,000 and England, 50,000 in the island
+    \end{itemize}
+  \item
+    Introduction of sugar crops lead to shift towards Slave trade
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Tobacco economical if cultivated in small quantities
+    \item
+      Sugar needed large plantation
+    \item
+      =\textgreater{} Contributed to the overall demographic change in
+      North America
+    \end{itemize}
+  \item
+    Spanish control now vested on its control of the slave trade
+  \end{itemize}
+\item
+  Eventually, North Amercia emerged to be a bigger economy than that of
+  new Spain
+\end{itemize}
+
+\hypertarget{impacts}{%
+\subsection{Impacts}\label{impacts}}
+
+\begin{itemize}
+\tightlist
+\item
+  Colonies had extracted varied economic benefit from their colonies
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Spanish =\textgreater{} Silver from South America: broke the world
+    economy
+  \item
+    England =\textgreater{} Stimulated European exports + manufacturing:
+    leading people to flow from Europe to Africa to Asia
+  \item
+    CLAIM: colonization of Americas brought huge, incalculable economic
+    benefits
+  \end{itemize}
+\item
+  The Western hemisphere is decidedly European
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Organized under European legal system
+  \item
+    Christanized
+  \end{itemize}
+\end{itemize}
+
+\begin{quote}
+Europeans did not just conquer; they exterminated local cultures and
+peoples and replaced them with their own.
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  The older Amercian cultures cut off from populating other parts of the
+  world
+\item
+  CLAIM: the European dominance was a sign to ``Asian Nationalists''
+  (Japan??) as the sign of European injustice
+\item
+  Americas suffered some species going extinct, and yet others massively
+  planted
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Plants
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Potato
+    \item
+      Sweet potato
+    \item
+      Maize
+    \end{itemize}
+  \item
+    Domesticated Animals
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Pigs
+    \item
+      Sheep
+    \item
+      Chicken
+    \end{itemize}
+  \item
+    =\textgreater{} ``Colombian exchange''
+  \end{itemize}
+\end{itemize}
+
+\end{document}

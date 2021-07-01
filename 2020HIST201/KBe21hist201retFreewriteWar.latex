@@ -1,0 +1,300 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ 29 March 2021 war freewrite }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9792)}}    % original
+%\rhead{\textrmlf{Compiled }\#9792\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#9792
+  \textrmlf{ on}
+      \today
+  }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{why-does-war-happen}{%
+\section{why does war happen}\label{why-does-war-happen}}
+
+\hypertarget{when-people-disagree-and-resort-to-force}{%
+\subsection{when people disagree and resort to
+force}\label{when-people-disagree-and-resort-to-force}}
+
+\hypertarget{why-cant-countries-just-take-each-other-to-court}{%
+\subsubsection{why cant countries just take each other to
+court?}\label{why-cant-countries-just-take-each-other-to-court}}
+
+\hypertarget{want-more-greed-scarcity}{%
+\subsection{want more (greed +
+scarcity)}\label{want-more-greed-scarcity}}
+
+\hypertarget{easiest-way-to-get-stuff-might-be-to-take-it-from-someone-else}{%
+\subsubsection{easiest way to get stuff might be to take it from someone
+else}\label{easiest-way-to-get-stuff-might-be-to-take-it-from-someone-else}}
+
+\hypertarget{power-is-almost-by-definition-scarce-and-other-relative-measures}{%
+\subsubsection{power is almost by definition scarce, and other relative
+measures}\label{power-is-almost-by-definition-scarce-and-other-relative-measures}}
+
+\hypertarget{what-would-be-required-to-put-an-end-to-war}{%
+\section{what would be required to put an end to
+war}\label{what-would-be-required-to-put-an-end-to-war}}
+
+\hypertarget{in-most-small-groups-its-possible-to-find-a-shared-goal.-however-on-a-national-level-we-often-dont-plan-that-far-ahead-so-we-dont-really-work-towards-complex-shared-goals}{%
+\subsection{in most small groups, its possible to find a shared goal.
+however, on a national level we often don't plan that far ahead so we
+don't really work towards complex shared
+goals}\label{in-most-small-groups-its-possible-to-find-a-shared-goal.-however-on-a-national-level-we-often-dont-plan-that-far-ahead-so-we-dont-really-work-towards-complex-shared-goals}}
+
+\hypertarget{emergence-towers-wait-but-why}{%
+\subsection{emergence towers (wait but
+why)}\label{emergence-towers-wait-but-why}}
+
+\hypertarget{justmoral-leaders}{%
+\subsection{just/moral leaders}\label{justmoral-leaders}}
+
+\hypertarget{sufficient-mutually-assured-destruction}{%
+\subsection{sufficient mutually assured
+destruction}\label{sufficient-mutually-assured-destruction}}
+
+\hypertarget{total-domination}{%
+\subsection{total domination}\label{total-domination}}
+
+\hypertarget{uncooporative-populus-if-people-dont-want-to-fightmutiny}{%
+\subsection{uncooporative populus (if people don't want to
+fight/mutiny)}\label{uncooporative-populus-if-people-dont-want-to-fightmutiny}}
+
+\hypertarget{is-there-such-a-thing-as-a-just-or-good-ethical-righteous-war-whywhynot}{%
+\section{is there such a thing as a just (or good, ethical, righteous)
+war;
+why/whynot}\label{is-there-such-a-thing-as-a-just-or-good-ethical-righteous-war-whywhynot}}
+
+\hypertarget{for-there-to-be-a-just-war-there-must-be-a-common-good.}{%
+\subsection{for there to be a just war, there must be a common
+'good'.}\label{for-there-to-be-a-just-war-there-must-be-a-common-good.}}
+
+\hypertarget{however-is-goodness-relative-there-seem-to-be-some-things-which-are-generally-considered-good-by-most-people-but-its-unclear-that-those-are-necessarily-always-good-for-everyone.}{%
+\subsection{however, is goodness relative? there seem to be some things
+which are generally considered good by most people, but its unclear that
+those are necessarily always good for
+everyone.}\label{however-is-goodness-relative-there-seem-to-be-some-things-which-are-generally-considered-good-by-most-people-but-its-unclear-that-those-are-necessarily-always-good-for-everyone.}}
+
+\hypertarget{if-there-is-something-that-all-parties-agree-are-good-then-that-would-be-a-just-war}{%
+\subsection{if there is something that all parties agree are good, then
+that would be a just
+war?}\label{if-there-is-something-that-all-parties-agree-are-good-then-that-would-be-a-just-war}}
+
+\hypertarget{maybe-there-is-a-real-ground-truth-good-but-we-cant-know-what-it-is}{%
+\subsection{maybe there is a real ground-truth good, but we can't know
+what it
+is}\label{maybe-there-is-a-real-ground-truth-good-but-we-cant-know-what-it-is}}
+
+\hypertarget{wwii-allied-powers-agreed-that-the-holocaust-was-bad-but-the-nazis-thought-they-were-doing-the-right-thing}{%
+\subsection{WWII: allied powers agreed that the holocaust was bad, but
+the nazis thought they were doing the right
+thing}\label{wwii-allied-powers-agreed-that-the-holocaust-was-bad-but-the-nazis-thought-they-were-doing-the-right-thing}}
+
+\hypertarget{violence-is-not-always-bad.-extend-subjective-experience}{%
+\subsection{violence is not always bad. extend subjective
+experience}\label{violence-is-not-always-bad.-extend-subjective-experience}}
+
+\hypertarget{war-isnt-just-but-one-side-may-be-in-the-moral-correct}{%
+\subsection{war isn't just but one side may be in the moral
+correct}\label{war-isnt-just-but-one-side-may-be-in-the-moral-correct}}
+
+\hypertarget{all-violence-is-unjust-there-is-always-a-more-peaceful-way}{%
+\subsection{all violence is unjust? there is always a more peaceful
+way}\label{all-violence-is-unjust-there-is-always-a-more-peaceful-way}}
+
+\hypertarget{abstract-wars}{%
+\subsection{abstract wars}\label{abstract-wars}}
+
+\hypertarget{its-difficult-to-measure-the-value-of-a-life-soldiers-vs-civilians-citizens-vs-those-of-other-countries}{%
+\subsection{its difficult to measure the value of a life (soldiers vs
+civilians, citizens vs those of other
+countries)}\label{its-difficult-to-measure-the-value-of-a-life-soldiers-vs-civilians-citizens-vs-those-of-other-countries}}
+
+\hypertarget{countries-might-go-against-their-own-morals-for-the-greater-good}{%
+\subsection{countries might go against their own morals for the 'greater
+good'}\label{countries-might-go-against-their-own-morals-for-the-greater-good}}
+
+\end{document}

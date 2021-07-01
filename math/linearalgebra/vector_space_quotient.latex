@@ -1,0 +1,272 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6802)}}    % original
+%\rhead{\textrmlf{Compiled }\#6802\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6802\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{sum-of-a-vector-and-a-subspace}{%
+\section{\texorpdfstring{sum of a vector and a subspace
+{\textsc{def}}}{sum of a vector and a subspace def}}\label{sum-of-a-vector-and-a-subspace}}
+
+\hypertarget{for-v-in-v-and-u-subset-v-vu-vu-u-in-u-aka-shift-everything-by-v}{%
+\subsection{\texorpdfstring{for \(v \in V\) and \(U \subset V\),
+\(v+U = \{ v+u : u \in U\}\) (aka shift everything by
+\(v\))}{for v \textbackslash in V and U \textbackslash subset V, v+U = \textbackslash\{ v+u : u \textbackslash in U\textbackslash\} (aka shift everything by v)}}\label{for-v-in-v-and-u-subset-v-vu-vu-u-in-u-aka-shift-everything-by-v}}
+
+\hypertarget{affine-subset-parallel}{%
+\section{\texorpdfstring{affine subset, parallel
+{\textsc{def}}}{affine subset, parallel def}}\label{affine-subset-parallel}}
+
+\hypertarget{an-affine-subset-of-v-is-a-subset-of-v-that-is-shifted-by-a-vector-in-v}{%
+\subsection{\texorpdfstring{an affine subset of \(V\) is a subset of
+\(V\) that is "shifted" by a vector in
+\(V\)}{an affine subset of V is a subset of V that is "shifted" by a vector in V}}\label{an-affine-subset-of-v-is-a-subset-of-v-that-is-shifted-by-a-vector-in-v}}
+
+\hypertarget{all-affine-subsets-from-a-subspace-are-said-to-be-parallel-to-that-subspace}{%
+\subsection{all affine subsets from a subspace are said to be parallel
+to that
+subspace}\label{all-affine-subsets-from-a-subspace-are-said-to-be-parallel-to-that-subspace}}
+
+\hypertarget{quotient-space}{%
+\section{\texorpdfstring{quotient space
+{\textsc{def}}}{quotient space def}}\label{quotient-space}}
+
+\hypertarget{a-quotient-space-vu-where-u-subset-v-is-the-set-of-affine-subsets-parallel-to-u-all-shifts}{%
+\subsection{\texorpdfstring{A quotient space \(V/U\) where
+\(U \subset V\) is the set of affine subsets parallel to \(U\) (all
+shifts)}{A quotient space V/U where U \textbackslash subset V is the set of affine subsets parallel to U (all shifts)}}\label{a-quotient-space-vu-where-u-subset-v-is-the-set-of-affine-subsets-parallel-to-u-all-shifts}}
+
+\hypertarget{result}{%
+\subsection{result}\label{result}}
+
+\hypertarget{two-affine-subsets-parallel-to-u-are-equal-or-disjoint-axler3.85}{%
+\subsubsection{\texorpdfstring{two affine subsets parallel to \(U\) are
+equal or disjoint
+(Axler3.85)}{two affine subsets parallel to U are equal or disjoint (Axler3.85)}}\label{two-affine-subsets-parallel-to-u-are-equal-or-disjoint-axler3.85}}
+
+\begin{enumerate}
+\item
+  intuition
+
+  \begin{enumerate}
+  \item
+    if they are 'parallel', then they must be equal (inf intersection)
+    or disjoint (zero intersection)
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{the-quotient-space-is-a-vector-space}{%
+\subsubsection{the quotient space is a vector
+space}\label{the-quotient-space-is-a-vector-space}}
+
+\hypertarget{quotient-map-pi}{%
+\subsubsection{\texorpdfstring{quotient map, \(\pi\)
+{\textsc{def}}}{quotient map, \textbackslash pi def}}\label{quotient-map-pi}}
+
+\begin{enumerate}
+\item
+  The quotient map \(\pi : V \to V/U\) is defined by
+  \(\pi(v)=v+U \forall v\)
+\item
+  basically it gives a quotient space from a vector (syntactic sugar)
+\end{enumerate}
+
+\hypertarget{dimension-of-a-quotient-space}{%
+\subsubsection{dimension of a quotient
+space}\label{dimension-of-a-quotient-space}}
+
+\begin{enumerate}
+\item
+  \(\text{dim}V/U = \text{dim} V - \text{dim} U\)
+\end{enumerate}
+
+\hypertarget{squiggle-t-the-condensed-map}{%
+\section{\texorpdfstring{squiggle \(T\) (the condensed
+map)}{squiggle T (the condensed map)}}\label{squiggle-t-the-condensed-map}}
+
+\hypertarget{for-t-in-mathcal-lv-w-tsquiggle-vtextnullt-to-w-s.t.-tsquigglevtextnull-t-tv}{%
+\subsection{\texorpdfstring{for \(T \in \mathcal L(V, W)\),
+\(Tsquiggle : V/(\text{null}T) \to W\) s.t.
+\(Tsquiggle(v+\text{null T}) = Tv\)}{for T \textbackslash in \textbackslash mathcal L(V, W), Tsquiggle : V/(\textbackslash text\{null\}T) \textbackslash to W s.t. Tsquiggle(v+\textbackslash text\{null T\}) = Tv}}\label{for-t-in-mathcal-lv-w-tsquiggle-vtextnullt-to-w-s.t.-tsquigglevtextnull-t-tv}}
+
+\hypertarget{basically-it-takes-an-affine-subset-that-encodes-the-important-part-of-the-input-takes-v-from-piv-and-maps-it-to-w}{%
+\subsection{\texorpdfstring{basically it takes an affine subset that
+encodes the important part of the input (takes \(v\) from \(\pi(v)\))
+and maps it to
+\(W\)}{basically it takes an affine subset that encodes the important part of the input (takes v from \textbackslash pi(v)) and maps it to W}}\label{basically-it-takes-an-affine-subset-that-encodes-the-important-part-of-the-input-takes-v-from-piv-and-maps-it-to-w}}
+
+\hypertarget{makes-an-isomorphism-to-textrange-t}{%
+\subsection{\texorpdfstring{makes an isomorphism to
+\(\text{range} T\)}{makes an isomorphism to \textbackslash text\{range\} T}}\label{makes-an-isomorphism-to-textrange-t}}
+
+\end{document}

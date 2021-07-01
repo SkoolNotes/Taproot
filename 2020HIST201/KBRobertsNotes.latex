@@ -1,0 +1,303 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST202 }
+\newcommand{\thelesson}{ Roberts Notes }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\#flo
+
+\hypertarget{the-penguin}{%
+\section{The Penguin}\label{the-penguin}}
+
+1500 new age was beginning
+
+\begin{verbatim}
+\end{verbatim}
+
+Europeans became the ``Masters'' of the world, and unintentionally
+connected the world
+
+Created the theme of unity in history for the last two or three
+centuries
+
+\hypertarget{the-age-of-independent-or-nearly-independent-civilizations-has-come-to-a-close.}{%
+\subsection{\textgreater{} The age of independent or nearly independent
+civilizations has come to a
+close.}\label{the-age-of-independent-or-nearly-independent-civilizations-has-come-to-a-close.}}
+
+\begin{quote}
+a great change in Europe was the staring point of modern history
+\end{quote}
+
+Europe \textbar{} why it hit different - Wealthiest part of humankind -
+Massive expansion - Wow, I am unbelievably tired. I need to get more
+sleep.
+
+\hypertarget{freewrite-uhoh.}{%
+\subsection{Freewrite: uhoh\ldots.}\label{freewrite-uhoh.}}
+
+\begin{verbatim}
+It’s 1600 and you are a young warlord somewhere in Central Asia. After a long and bloody set of wars, you’ve united all the tribes of your own linguistic culture into a great army -- gaining oaths of loyalty from the various chieftains. 
+Last year, you led this army in a campaign that successfully conquered five border regions: two of these border regions speak the same language as your people, but have a different religion. Two regions share your religion, but are from a different linguistic/cultural group. One region has both a different religion and a different language.
+One of your advisers urges you to adopt a unification policy: you will establish your language and culture as the standard for the whole empire. One advises a decentralized approach: let each region be ruled by a lord of its own language/culture. 
+Your empire is still surrounded by enemies, some of whom share the religion and language of your border regions. Likewise, the era of civil war has only just past: for now, your army is still in control, but rival lords could join in rebellion against you.
+Whose advice do you follow? What are the benefits AND risks of your chosen approach?
+\end{verbatim}
+
+Decentralization. Assuming that the enemies which surround you are not
+the enemies of those you conquered, letting them be independent will
+make them less likely to want to crush you.
+
+The value of individual cultures an tech is lost when you completely
+change their culture\ldots?
+
+Centralized systems tend to do worse -- harder to communicate allocate
+resources, get things done (because more bureaucracy
+
+People are less likely to revolt if you leave them be, ish
+
+More cultures = more tries at success. One innovation from one region
+(or standpoint of interacting with the world) will help everyone. Having
+more aproaches makes these innovations more likely. ``Human capital?''
+``cultural capital?''
+
+As for rival lords, the question is will your army be less powerful if
+you take the decentralized approach
+
+If you are decentralized, and allow each region to keep its culture,
+they will probably want to keep you over a new ruler which could force
+them to change. This will aid you in keeping control.
+
+\hypertarget{emperor-activity}{%
+\subsection{Emperor Activity}\label{emperor-activity}}
+
+Worst --\textbar-- Best
+
+\begin{itemize}
+\tightlist
+\item
+  Aurangzeb
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Absolute power
+  \item
+    Super religious
+  \item
+    Very distressful
+  \item
+    Removed religious toleration
+  \item
+    Destroyed a bunch of Hindu temples
+  \end{itemize}
+\item
+  Shah Jahan
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Removed religious tolerance
+  \item
+    Didn't do a lot
+  \item
+    Way to much money in court
+  \item
+    A \emph{lot} of taxes
+  \end{itemize}
+\item
+  Akbar
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Stabilized the regime
+  \item
+    Let Hindus rule with him
+  \item
+    Promoted religious tolerance
+  \item
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{qing-advice-activity}{%
+\subsubsection{Qing Advice Activity}\label{qing-advice-activity}}
+
+\begin{verbatim}
+“Yet it was not the coming of the European which ended the great period of Mughal empire; that was merely coincidental, though it was important that newcomers were there to reap the advantages. The diversity of the subcontinent and the failure of its rulers to find ways to tap indigenous popular loyalty are probably the main explanation. India remained a continent of exploitative ruling elites and productive peasants upon whom they battened.”
+What advice might Kangxi and Qianlong of the Qing Empire have given to the late Mughals (Shah Jahan, Aurangzeb) to address these problems?
+\end{verbatim}
+
+\begin{itemize}
+\tightlist
+\item
+  Take the Ming approach of being the ``head of all religions, but
+  belong{[}ing{]} to none''
+\item
+  ``Be more just,'' says Stephanie.
+\end{itemize}
+
+\end{document}

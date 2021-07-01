@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title> 20hist201 Kennedy Chapter 1 Part 2 </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>20hist201</strong> Kennedy Chapter 1 Part 2 </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBe2020hist201refClassResources"><span><strong>[[</strong></span><strong>KBe2020hist201refClassResources</strong><span><strong>]]</strong></span></a></span></p>
+            <p>Annotated doc: <span>[</span><span>[</span>20hist201srcKennedyCh1Pt2AnnotatedExr0n.pdf<span>]</span><span>]</span></p>
+            <ol>
+            <li><p>Facts</p>
+            <ol>
+            <li><p>Europe was decentralized because of geography and free trade -&gt; no major tech gap</p></li>
+            <li><p>Europe explored for profit and intended to stay, while the Chinese merely visited</p></li>
+            <li><p>Europe developed superior technology, maybe because of a state of constant fear.</p></li>
+            </ol></li>
+            <li><p>Claims</p>
+            <ol>
+            <li><p>Decentralized power allowed Europe to rise to the top</p></li>
+            <li><p>Decentralized rule -&gt; No monopoly -&gt; Free trade -&gt; arms race -&gt; no major tech gap -&gt; nobody can overpower everyone -&gt; stay decentralized</p></li>
+            <li><p>Arms race -&gt; “political plurality”? and good navy</p></li>
+            <li><p>Europe’s gunships were the turning point</p></li>
+            <li><p>expansion + trade increased knowledge and technology</p></li>
+            </ol></li>
+            <li><p>Questions</p>
+            <ol>
+            <li><p>Why didn’t other powers try to expand, esp. over seas?</p></li>
+            <li><p>If clashing improves tech, why didn’t Europe’s improvements incentivise their attackers to improve?</p></li>
+            </ol></li>
+            </ol>
+            <hr />
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

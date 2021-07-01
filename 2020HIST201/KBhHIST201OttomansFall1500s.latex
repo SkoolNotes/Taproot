@@ -109,7 +109,7 @@
 
 
 \newcommand{\thecourse}{ HIST201 }
-\newcommand{\thelesson}{ The Ottomans' Fall in the 1500s }
+\newcommand{\thelesson}{ The Ottomans' Fall in the 1499s }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1635)}}    % original
+%\rhead{\textrmlf{Compiled }\#1635\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1635\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -168,10 +170,33 @@
 \hypertarget{the-ottomans-fall}{%
 \section{The Ottomans' Fall}\label{the-ottomans-fall}}
 
+\hypertarget{problems-with-silver-kbhhist201problemswithsilver}{%
+\subsection{Problems with Silver
+{[}{[}KBhHIST201ProblemsWithSilver{]}{]}}\label{problems-with-silver-kbhhist201problemswithsilver}}
+
+@{[}{[}KBhHIST201BullietCh19{]}{]} Bulliet Chapter 19
+
 \begin{itemize}
 \tightlist
 \item
-  ``Natural consequences of earlier Turkish successes''
+  Affected landowners
+\item
+  Could not build stronger millitary
+\item
+  Caused the weakening of calvalrymen + increase in reliance on POWs
+\end{itemize}
+
+\hypertarget{overconservatism}{%
+\subsection{Overconservatism}\label{overconservatism}}
+
+@{[}{[}KBhHIST201KennedyCh1{]}{]} Kenedy, Chapter 1
+
+\begin{quote}
+``Natural consequences of earlier Turkish successes''
+\end{quote}
+
+\begin{itemize}
+\tightlist
 \item
   Got Romanitus --- expanded too much to the point of unmanagability
   =\textgreater{} ``Strategical Overextension''
@@ -187,25 +212,167 @@
   \item
     Emperor had to much power
   \item
-    Country became over-conservative
+    Country became over-conservative \#why
   \item
     Bureaucracy became too heavy
-  \item
-    Heavy internal plundering
+  \end{itemize}
+\item
+  Heavy internal plundering
 
-    \begin{itemize}
-    \tightlist
-    \item
-      High taxes
-    \item
-      Seizures of property
-    \item
-      Depopulated towns
-    \item
-      Unorderly soldiers
-    \item
-      Bribery
-    \end{itemize}
+  \begin{itemize}
+  \tightlist
+  \item
+    High taxes
+  \item
+    Seizures of property
+  \item
+    Depopulated towns
+  \item
+    Unorderly soldiers
+  \item
+    Bribery
+  \end{itemize}
+\end{itemize}
+
+@{[}{[}KBhHIST201BullietCh19{]}{]} Bulliet Chapter 19
+
+\begin{quote}
+``Religious laws \ldots{} constrained the ottomans from reforming the
+tax system''
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  Levied surtaxes
+\item
+  Caused rebellions + banditry
+\item
+  POWS took advantage of influence to gain the ability to marry and do
+  business, but overall caused deterioation of the qualitiy of the
+  millitary (less professionals, more POWs)
+\end{itemize}
+
+\hypertarget{declining-government}{%
+\subsection{Declining government}\label{declining-government}}
+
+@{[}{[}KBhHIST201BullietCh19{]}{]}
+
+\hypertarget{sultans-kept-to-themselves}{%
+\subsubsection{Sultans kept to
+themselves}\label{sultans-kept-to-themselves}}
+
+\begin{itemize}
+\tightlist
+\item
+  Prevented male relatives from leaving the palace
+\item
+  \emph{Females gained larger rule} + chief administrators oversaw the
+  actual government \textbf{important!}: CLAIM --- sterotipically,
+  muslim culture had fears of woman in politics
+\end{itemize}
+
+\hypertarget{dismantling-original-systems}{%
+\subsubsection{Dismantling original
+systems}\label{dismantling-original-systems}}
+
+\begin{itemize}
+\tightlist
+\item
+  Land grants for millitary services disappeared
+\item
+  Abolished devshirme system which selected POW officers
+\item
+  Tax farming became allowed
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Tax collectors are allowed to pre-paid tax and collect any amount to
+    recouperate
+  \item
+    Caused local administration to suffer due to the above
+  \end{itemize}
+\item
+  Corruption within the government lead them to give power to tax
+  collectors
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Causing them to control the incomes and expenses of a regions
+  \item
+    Which turns them into large private landowners
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{the-armies-kept-deteriorating}{%
+\subsubsection{The armies kept
+deteriorating}\label{the-armies-kept-deteriorating}}
+
+\begin{itemize}
+\tightlist
+\item
+  Resorted to hiring substitutes
+\item
+  Also relied partially on trained seasonal recruits
+\end{itemize}
+
+\hypertarget{european-trade-capitulations}{%
+\subsubsection{European trade
+capitulations}\label{european-trade-capitulations}}
+
+\begin{itemize}
+\tightlist
+\item
+  Europeans took control of Ottomans' overseas trade ``Capitulations''
+  --- special trade agreements
+
+  \begin{itemize}
+  \tightlist
+  \item
+    European domination of Ottoman seaborne trade
+  \item
+    Muslim merchants are trading at a disadvantage due to this
+    domination
+  \end{itemize}
+\item
+  Few Ottoman statesmen observed the change, but they are generally
+  disregarded
+\item
+  ``Tulip Craze'' =\textgreater{} European integration
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Early sign of destruction shown with the Ottomans' craze on Tulips
+  \item
+    European cultures integrated into the Ottoman culture --- clothing,
+    books, furtinutes
+  \item
+    At \emph{gala soirees}, Janissaries revolted, causing the abdication
+    of Sultan Ahmed III
+  \end{itemize}
+\item
+  Eventually, Janissary commanders became independent rulers, causing a
+  slip of control
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\tightlist
+\item
+  Rural disorder also caused new economic opportunities
+
+  \begin{itemize}
+  \tightlist
+  \item
+    CLAIM: ottoman's lack of control brings other European costal
+    regions to resume originally Ottoman controlled trades
+  \item
+    Local farmers shifted growth to cash crops (tobacco, cotton, oil,
+    etc.)
   \end{itemize}
 \end{itemize}
 

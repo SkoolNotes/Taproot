@@ -1,0 +1,412 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ 20math530 }
+\newcommand{\thelesson}{ Linear Algebra class Flo 4 }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBe2020math530floIndex}{\tiny\textulf{[[}\textbf{KBe2020math530floIndex}\textulf{]]}}}\thinspace
+
+\begin{itemize}
+\tightlist
+\item
+  Vector spaces and fields are like groups
+
+  \begin{itemize}
+  \tightlist
+  \item
+    With 2 operations
+  \end{itemize}
+\item
+  Vector
+
+  \begin{itemize}
+  \tightlist
+  \item
+    direction and magnitude
+  \item
+    numbers with an order
+
+    \begin{itemize}
+    \tightlist
+    \item
+      list = ordered set
+    \item
+      \(N\)x\(1\) matrix
+    \end{itemize}
+  \item
+    A vector is not just an \(N\)x\(1\) matrix. \textbf{A vector exists
+    in a vector space}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      might be full of physics vectors, matrices, or polynomials
+    \end{itemize}
+  \end{itemize}
+\item
+  Field
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Addition and multiplication might be different
+
+    \begin{itemize}
+    \tightlist
+    \item
+      might be related to normal addition/multiplication
+    \item
+      might by any binary operation
+    \item
+      Addition is ``primary'' operation, multiplication is ``secondary''
+
+      \begin{itemize}
+      \tightlist
+      \item
+        addition is really good (more group like)
+      \item
+        multiplication needs to exclude the additive identity (because
+        it can't have an inverse)
+      \end{itemize}
+    \item
+      questions
+
+      \begin{itemize}
+      \tightlist
+      \item
+        multiplication is repeated addition?
+
+        \begin{itemize}
+        \tightlist
+        \item
+          not necessarily
+        \end{itemize}
+      \item
+        binary expressions?
+      \item
+        associative?
+
+        \begin{itemize}
+        \tightlist
+        \item
+          both yes
+        \end{itemize}
+      \end{itemize}
+    \item
+      1.3 demonstrates that the complex numbers are a field
+
+      \begin{itemize}
+      \tightlist
+      \item
+        commutativity
+      \item
+        associativity
+      \item
+        identities
+      \item
+        additive inverse
+      \item
+        multiplicative inverse except additive identity
+      \item
+        distributive
+      \end{itemize}
+    \end{itemize}
+  \item
+    usually means Reals or Complex
+
+    \begin{itemize}
+    \tightlist
+    \item
+      integers mod 3 are a field
+
+      \begin{itemize}
+      \tightlist
+      \item
+        \#bonushw show integers mod 3 are a field
+      \end{itemize}
+    \end{itemize}
+  \item
+    higher dimensions
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \(R^2\) is a Cartesian plane, \(R^4\) is a space
+    \end{itemize}
+  \item
+    operations
+
+    \begin{itemize}
+    \tightlist
+    \item
+      addition is really nice (element wise)
+    \item
+      scalar multiplication is easy enough
+    \item
+      vector vector multiplication is hard to find
+    \end{itemize}
+  \end{itemize}
+\item
+  two square roots of \(i\)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    fundamental theorem of algebra
+
+    \begin{itemize}
+    \tightlist
+    \item
+      (important)
+    \end{itemize}
+  \item
+    So, \(i\) should have two square roots
+  \item
+    Powers of \(i\) go in a circle (90 degrees rotation)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Complex number rotation gives a preferred direction
+    \item
+      So that's why the quadrants are numbered in that direction
+    \end{itemize}
+  \item
+    One can be found geometrically
+    {[}{[}20math530srcSquareRootI.png{]}{]}
+  \item
+    We could also try it algebraically
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \((a+bi)^2=i=a^2-b^2+2abi\)
+    \item
+      so \(a^2-b^2 = 0\) and \(2ab = 1\)
+    \end{itemize}
+  \end{itemize}
+\item
+  dot product
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How much of \(\vec{A}\) is in the direction of \(\vec{B}\)
+    multiplied by the magnitude of \(\vec{B}\)
+  \item
+    \(\vec{A} \cdot \vec{B} = |A||B| cos \theta\)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \#bonushw prove that \^{}\^{}
+    \end{itemize}
+  \item
+    Identity: \(\frac{\vec{A}\cdot\vec{B}}{|A||B|} = cos \theta\)
+  \end{itemize}
+\item
+  cross product
+
+  \begin{itemize}
+  \tightlist
+  \item
+    only works on 3x1 matrices
+  \item
+    steps
+
+    \begin{itemize}
+    \tightlist
+    \item
+      determinant
+    \item
+      \(i\), \(j\), \(k\) are the unit vectors
+    \item
+      \[\begin{bmatrix}2\\1\\0\end{bmatrix}\begin{bmatrix}1\\2\\-1\end{bmatrix} =
+        \left|\begin{bmatrix}i &j &k\\2 &1 &0\\1 &2 &-1\end{bmatrix}\right| = i\left|\begin{bmatrix}1&0\\2&-1\end{bmatrix}\right|-j\left|\begin{bmatrix}2&0\\1&-1\end{bmatrix}\right| + k\left|\begin{bmatrix}2&1\\1&2\end{bmatrix}\right| = \begin{bmatrix}-1\\2\\3\end{bmatrix}\]
+    \end{itemize}
+  \end{itemize}
+\item
+  dropping zero: \(0a = (0+0)a = 0a+0a \Rightarrow 0a = 0\), so the
+  additive identity can't have a multiplicative inverse (everything
+  multiplied it will just be the additive identity)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}20math530srcFieldsMultiplyCannotBeGroup.png{]}{]}
+  \end{itemize}
+\item
+  determinant
+
+  \begin{itemize}
+  \tightlist
+  \item
+    measures the ``size'' of a matrix, denoted absolute value (relevant
+    to inverse of a matrix multiplication)
+  \end{itemize}
+\item
+  \#todo \#exr0n \#future prove identities are unique
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

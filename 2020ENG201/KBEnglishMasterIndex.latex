@@ -5,6 +5,7 @@
 
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{amsfonts}
 
 \usepackage[normalem]{ulem}
 
@@ -16,6 +17,11 @@
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
 
 \usepackage{enumitem}
 \setlistdepth{9}
@@ -31,6 +37,9 @@
 \setlist[itemize,9]{label=\textbullet}
 
 \renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -72,13 +81,21 @@
 
 \usepackage{mathspec}
 \setmainfont[
-   ItalicFont     = HelveticaNeue-Italic,
-   BoldFont       = HelveticaNeue-Bold,
-   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
 \newfontfamily\NHLight[
-   ItalicFont     = HelveticaNeue-LightItalic,
-   BoldFont       = HelveticaNeue-UltraLight,
-   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -122,9 +139,16 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9507)}}    % original
+%\rhead{\textrmlf{Compiled }\#9507\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#9507
+  \textrmlf{ on}
+      \today
+  }       % new date
 \lfoot{Houjun Liu, Exr0n \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -136,14 +160,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -159,19 +183,23 @@
     \end{center}
 }
 
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
 \#source
 
+\hypertarget{topics-for-english-10-kbe2020eng201refenglishtopics}{%
+\section{\texorpdfstring{\textbf{Topics for English 10}
+{[}{[}KBe2020eng201refEnglishTopics{]}{]}}{Topics for English 10 {[}{[}KBe2020eng201refEnglishTopics{]}{]}}}\label{topics-for-english-10-kbe2020eng201refenglishtopics}}
+
 \begin{itemize}
 \tightlist
-\item
-  \textbf{Topics for English 10}
-  {[}{[}KBe2020eng201refEnglishTopics{]}{]}
 \item
   \textbf{Cololianlism, imperialsim, globalization Think-Pair-Share}
   {[}{[}KBe-2020eng201floD1Breakout{]}{]}
@@ -185,85 +213,75 @@
   \item
     Zach's take: {[}{[}KBDayoneEnglishZachary{]}{]}
   \item
-    Huxley's take: {[}{[}KBEngDayOne{]}{]}
+    Huxley's take: {[}{[}KBEngDayOne{]}{]} \# Short Stories
   \end{itemize}
 \item
-  Short Stories
+  Readings: {[}{[}KBFall2020English10Short StoriesPacket.pdf{]}{]}
+\item
+  \textbf{The I Is Never Alone}
 
   \begin{itemize}
   \tightlist
   \item
-    Readings: {[}{[}KBFall2020English10Short StoriesPacket.pdf{]}{]}
-  \item
-    \textbf{The I Is Never Alone}
+    Albert:
 
     \begin{itemize}
     \tightlist
     \item
-      Albert:
-
-      \begin{itemize}
-      \tightlist
-      \item
-        {[}{[}KB2NotesonTheIIsNeverAlone{]}{]} The I is Never Along,
-        notes
-      \item
-        {[}{[}KBe2020eng201floImperalismNotes{]}{]} The I Is Never Alone
-        + Imperialism
-      \end{itemize}
+      {[}{[}KB2NotesonTheIIsNeverAlone{]}{]} The I is Never Along, notes
     \item
-      Jack:
-
-      \begin{itemize}
-      \tightlist
-      \item
-        {[}{[}KBhENG201TheIIsNeverAlone{]}{]} The I is Never Alone,
-        Jack's Thoughts
-      \end{itemize}
-    \item
-      Zach
-    \item
-      Hux:
-
-      \begin{itemize}
-      \tightlist
-      \item
-        {[}{[}KBTheIIsNeverAloneEnglishReadingNotes{]}{]}
-      \end{itemize}
+      {[}{[}KBe2020eng201floImperalismNotes{]}{]} The I Is Never Alone +
+      Imperialism
     \end{itemize}
   \item
-    \textbf{Baobab + Colonialism}
+    Jack:
 
     \begin{itemize}
     \tightlist
     \item
-      Huxley: {[}{[}KBColonialismShortStory{]}{]}
-    \item
-      Huxley: {[}{[}KBBaobabNotes{]}{]}
-    \item
-      Exr0n
+      {[}{[}KBhENG201TheIIsNeverAlone{]}{]} The I is Never Alone, Jack's
+      Thoughts
     \end{itemize}
   \item
-    Elizabeth Bishop Poems
+    Zach
+  \item
+    Hux:
 
     \begin{itemize}
     \tightlist
     \item
-      Huxley: {[}{[}KBElizabethBishop{]}{]}
+      {[}{[}KBTheIIsNeverAloneEnglishReadingNotes{]}{]}
     \end{itemize}
   \end{itemize}
 \item
-  \textbf{Close Reading + Assessment 1}
+  \textbf{Baobab + Colonialism}
 
   \begin{itemize}
   \tightlist
   \item
-    {[}{[}KBhENG201CloseReading{]}{]}
+    Huxley: {[}{[}KBColonialismShortStory{]}{]}
   \item
-    {[}{[}KBWhatIsCloseReading{]}{]}
+    Huxley: {[}{[}KBBaobabNotes{]}{]}
   \item
-    {[}{[}KBhENG201CloseReadingAss1{]}{]}
+    Exr0n {[}{[}20eng201floBaobabDebrief{]}{]}
   \end{itemize}
+\item
+  Elizabeth Bishop Poems
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Huxley: {[}{[}KBElizabethBishop{]}{]} \# \textbf{Close Reading +
+    Assessment 1}
+  \end{itemize}
+\item
+  {[}{[}KBhENG201CloseReading{]}{]}
+\item
+  {[}{[}KBWhatIsCloseReading{]}{]}
+\item
+  {[}{[}KBhENG201CloseReadingAss1{]}{]}
+\item
+  Exr0n {[}{[}KBe20eng201retA1index{]}{]}
 \item
   Thoughts on Imperialism and Colonialism
 
@@ -274,42 +292,106 @@
   \end{itemize}
 \end{itemize}
 
+\href{https://www.gutenberg.org/files/219/219-h/219-h.htm}{Digital
+Version}
+
+\hypertarget{heart-of-darkness}{%
+\section{\texorpdfstring{\textbf{Heart of
+Darkness}}{Heart of Darkness}}\label{heart-of-darkness}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBhENG201HeartOfHardness{]}{]} Heart of Darkness Index
+\item
+  {[}{[}KBheartday1{]}{]} Huxley, I am assuming?
+\item
+  {[}{[}KBxHoDDiscussionNotes{]}{]}
+\end{itemize}
+
+\hypertarget{heart-of-darkness-essay}{%
+\subsection{Heart of Darkness Essay}\label{heart-of-darkness-essay}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBxHoDEssay{]}{]}
+\item
+  {[}{[}KBe20eng201retHeartOfDarknessEssay{]}{]}
+\end{itemize}
+
+\hypertarget{things-fall-apart}{%
+\section{\texorpdfstring{\textbf{Things Fall
+Apart}}{Things Fall Apart}}\label{things-fall-apart}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBhENG201ThingsFallApart{]}{]}
+\end{itemize}
+
+Eco-Poetry {[}{[}KBhENG201EcoPoetry{]}{]}
+
+{[}{[}KBhENG201PoetryCloseReadingAnalysis{]}{]}
+
+\hypertarget{a-small-place}{%
+\section{A Small Place}\label{a-small-place}}
+
+\begin{itemize}
+\tightlist
+\item
+  Huxley Pastiche Planning {[}{[}KBxPastichePlanning{]}{]}
+\end{itemize}
+
+\hypertarget{self-evals}{%
+\section{Self Evals}\label{self-evals}}
+
+\begin{itemize}
+\tightlist
+\item
+  Hux's {[}{[}KBxEngSelfEval{]}{]}
+\end{itemize}
+
 \hypertarget{annotated-docs}{%
 \subsection{Annotated Docs}\label{annotated-docs}}
 
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\endhead
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-Notes on \texttt{The\ I\ Is\ Never\ Alone}\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KB2NotesonTheIIsNeverAlone{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-\emph{The I Is Never Alone} + imperialism notes\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe2020eng201floImperalismNotes{]}{]}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
-\emph{The Bird-Dreaming Baobab} pass 0\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
-{[}{[}KBe2020eng201floBirdDreamingBaobab0.pdf{]}{]}\strut
-\end{minipage}\tabularnewline
-\bottomrule
-\end{longtable}
+\textbar--------------------------------------------\textbar---------------------------------------------\textbar{}
+\textbar{} Document \textbar{} Link \textbar{}
+\textbar--------------------------------------------\textbar---------------------------------------------\textbar{}
+\textbar{} Notes on \texttt{The\ I\ Is\ Never\ Alone} \textbar{}
+{[}{[}KB2NotesonTheIIsNeverAlone{]}{]} \textbar{} \textbar{} \emph{The I
+Is Never Alone} + imperialism notes \textbar{}
+{[}{[}KBe2020eng201floImperalismNotes{]}{]} \textbar{} \textbar{}
+\emph{The Bird-Dreaming Baobab} pass 0 \textbar{}
+{[}{[}KBe2020eng201floBirdDreamingBaobab0.pdf{]}{]} \textbar{}
+\textbar--------------------------------------------\textbar---------------------------------------------\textbar{}
 
-\hypertarget{module.exports-ret-index}{%
-\subsection{\texorpdfstring{\texttt{module.exports} (ret
-index)}{module.exports (ret index)}}\label{module.exports-ret-index}}
+\hypertarget{semester-2}{%
+\section{Semester 2}\label{semester-2}}
 
-\begin{longtable}[]{@{}lll@{}}
-\toprule
-Author & Assignment & Link\tabularnewline
-\midrule
-\endhead
-Exr0n & Csoe Reading Paragraph (Assessment \#1) &
-{[}{[}exr0n20eng201retA1Index{]}{]}\tabularnewline
-\bottomrule
-\end{longtable}
+\hypertarget{ma1}{%
+\subsection{MA1}\label{ma1}}
+
+\begin{itemize}
+\tightlist
+\item
+  Huxley {[}{[}KBxInClassCloseReadingGOST1{]}{]}
+\end{itemize}
+
+\hypertarget{ma2}{%
+\subsection{MA2}\label{ma2}}
+
+\begin{itemize}
+\tightlist
+\item
+  Huxley {[}{[}KBxGoSTCulminationPlanning{]}{]}
+\end{itemize}
+
+\hypertarget{eco-poetry}{%
+\subsection{Eco Poetry}\label{eco-poetry}}
+
+{[}{[}KBxEcoPoetryDiscussionPrep{]}{]}
+
+{[}{[}KBxEcoPoetryFinal{]}{]}
 
 \end{document}

@@ -1,0 +1,325 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{ Flo 10 }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBe2020math530floIndex}{\tiny\textulf{[[}\textbf{KBe2020math530floIndex}\textulf{]]}}}\thinspace
+
+\#flo
+
+\hypertarget{span}{%
+\section{Span}\label{span}}
+
+\hypertarget{smallestlargest-containing-subspaces}{%
+\subsection{Smallest/largest containing
+subspaces}\label{smallestlargest-containing-subspaces}}
+
+\begin{itemize}
+\tightlist
+\item
+  Spans are not the largest vector space that contains the given vectors
+  {[}{[}Pasted image 20200924131215.png{]}{]}
+\item
+  The span of that vector is a line. It's a subspace. But it's not the
+  biggest, because there's also R\^{}2
+\end{itemize}
+
+\hypertarget{spans-tend-to-be-infinite}{%
+\subsection{Spans tend to be infinite}\label{spans-tend-to-be-infinite}}
+
+\begin{itemize}
+\tightlist
+\item
+  Usually a span has infinitely many vectors (unless you're in a weird
+  field (modulo) or have the zero span)
+\item
+  In the span of just one vector, you can multiply by any scalar which
+  there tends to be infinite of {[}{[}Pasted image
+  20200924131215.png{]}{]}
+\item
+  The span of that vector is a line. It's a subspace. But it's not the
+  biggest, because there's also R\^{}2
+\item
+  It only won't be infinite if your span is the span of \(()\) (empty
+  list)
+\end{itemize}
+
+\hypertarget{given-a-linearly-independent-set-of-vectors-would-the-span-equal-to-the-vector-space}{%
+\subsection{Given a linearly independent set of vectors, would the span
+equal to the vector
+space?}\label{given-a-linearly-independent-set-of-vectors-would-the-span-equal-to-the-vector-space}}
+
+\begin{itemize}
+\tightlist
+\item
+  No? It's unclear which vector space is being referred to.
+\end{itemize}
+
+\hypertarget{span-of-vectors-example-2.6}{%
+\subsection{Span of vectors (example
+2.6)}\label{span-of-vectors-example-2.6}}
+
+\begin{itemize}
+\tightlist
+\item
+  When it's two vectors, you'd expect the span to be a 2d plane unless
+  the vectors are parallel
+
+  \begin{itemize}
+  \tightlist
+  \item
+    In other words, if they are linear combinations or scalar multiples
+    of one another
+  \item
+    A linear combination on one other vector is the same as a scalar
+    multiple
+  \item
+    in 2space they have to not be colinear, in 3space they have to not
+    be coplanar.
+  \item
+    They have to be linearly independent
+  \end{itemize}
+\item
+  That probably generalizes to higher and lower dimensions
+\end{itemize}
+
+\hypertarget{adding-a-vector-doesnt-make-the-span-smaller}{%
+\subsection{Adding a vector doesn't make the span
+smaller}\label{adding-a-vector-doesnt-make-the-span-smaller}}
+
+\begin{itemize}
+\tightlist
+\item
+  Because you can just do what you had originally and make it's
+  coefficient zero
+\end{itemize}
+
+\hypertarget{size-of-spanssubspaces}{%
+\subsection{Size of spans/subspaces}\label{size-of-spanssubspaces}}
+
+\begin{itemize}
+\tightlist
+\item
+  You can't really just count the number of vectors, because say a line
+  and a plane both have infinite points
+\item
+  But we still want a plane to be larger than a line and a space to be
+  larger than a plane
+\item
+  So one way we compare is to say \(A\) is larger than \(B\) if \(B\) is
+  strictly contained within \(A\)
+\item
+  something like ``dimensionality'', maybe the minimum number of vectors
+  needed for their span to be equal to the space
+\end{itemize}
+
+\hypertarget{span-is-the-smallest-containing-subspace}{%
+\section{2.7 Span is the smallest containing
+subspace}\label{span-is-the-smallest-containing-subspace}}
+
+\begin{itemize}
+\tightlist
+\item
+  First the proof shows that the span is a subspace
+\item
+  Then, because the span only neds to contain each vector and be a
+  subspace, any subspace containing those vectors will at least contain
+  the span.
+\end{itemize}
+
+\hypertarget{linear-dependence}{%
+\section{Linear Dependence}\label{linear-dependence}}
+
+\begin{itemize}
+\tightlist
+\item
+  When one of the vectors provides no ``new information'' aka can be
+  constructed by a linear combination of vectors you already had
+\item
+  It's a property of a set of vectors, not just one vector. A single
+  vector is always linearly independent on its own, because there's
+  nothing else to depend on.
+\item
+  The span of the zero vector \((0)\) is linearly dependent on itself,
+  and you already don't really get anything. So we usually talk about it
+  as a span of no vectors \(()\)
+\end{itemize}
+
+\hypertarget{rotation-matrices}{%
+\section{Rotation matrices}\label{rotation-matrices}}
+
+\begin{itemize}
+\tightlist
+\item
+  Find a formula
+\item
+  Prove the formula
+\item
+  maybe draw a picture
+\item
+  {[}{[}KBE2020math501floMatriciesAsTransformations{]}{]}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

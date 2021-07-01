@@ -71,14 +71,22 @@
 }
 
 \usepackage{mathspec}
+%\setmainfont[
+%   ItalicFont     = HelveticaNeue-Italic,
+%   BoldFont       = HelveticaNeue-Bold,
+%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight[
+%   ItalicFont     = HelveticaNeue-LightItalic,
+%   BoldFont       = HelveticaNeue-UltraLight,
+%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
 \setmainfont[
-   ItalicFont     = HelveticaNeue-Italic,
-   BoldFont       = HelveticaNeue-Bold,
-   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+   ItalicFont     = Iosevka-Aile-Italic,
+   BoldFont       = Iosevka-Aile-Bold,
+   BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
 \newfontfamily\NHLight[
-   ItalicFont     = HelveticaNeue-LightItalic,
-   BoldFont       = HelveticaNeue-UltraLight,
-   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+   ItalicFont     = Iosevka-Aile-Light-Italic,
+   BoldFont       = Iosevka-Aile-Light,
+   BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -108,7 +116,7 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ MUS201 }
+\newcommand{\thecourse}{ MUS150 }
 \newcommand{\thelesson}{ Critical Listening Journal }
 
 \title{\textbf{\thecourse}\thelesson}
@@ -122,7 +130,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6143)}}    % original
+%\rhead{\textrmlf{Compiled }\#6143\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6143\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +146,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -396,6 +406,713 @@
   Simple bass riff
 \item
   Guitar ``wobble''
+\end{itemize}
+
+\hypertarget{section-4}{%
+\section{09082020}\label{section-4}}
+
+\textbf{Multi-Love}
+
+\begin{itemize}
+\tightlist
+\item
+  Synth filled intro
+\item
+  Drum sequence enteres after the intro music
+\item
+  Complicated drum sequence emphasizes music
+\item
+  Filtered and EQed music texture
+\end{itemize}
+
+\textbf{Fake Love}
+
+\begin{itemize}
+\tightlist
+\item
+  Most of melody from the vocals
+\item
+  Background ``walla-walla'' limited to the background music
+\item
+  Drum beat seems to be limited to the kick machine
+\item
+  Baseline very subtle in the background
+\item
+  Synth tinge in the background
+\end{itemize}
+
+\textbf{Beautiful Now}
+
+\begin{itemize}
+\tightlist
+\item
+  EDM! + vocal machine intro
+\item
+  Baseline actually supplied by\ldots{} a high-pitched synth?
+\item
+  EDM + Trap style interlude
+\item
+  Vocals never clear, used as mostly texture and melody
+\end{itemize}
+
+\textbf{Lying has to Stop}
+
+\begin{itemize}
+\tightlist
+\item
+  Background filter wobble creates interesting, melodic effect
+\item
+  Vocals come in, with a similar wobble as the one noted above
+\item
+  Vocals heavily filtered, and as vocals as well
+\item
+  Guitar with creative filters + EQ creates a similar unbalanced effect
+\end{itemize}
+
+\textbf{Coffee}
+
+\begin{itemize}
+\tightlist
+\item
+  Interesting video?
+\item
+  Close up vocals
+\item
+  Retro flavor
+\end{itemize}
+
+\hypertarget{section-5}{%
+\section{09102020}\label{section-5}}
+
+\textbf{Juice}
+
+\begin{itemize}
+\tightlist
+\item
+  Vocals as melody again
+\item
+  Wobbling synth and claps + white noise as precussion
+\item
+  Baseline contributed by syncth, feels like Marshmello?
+\item
+  Bird and nature sonds as decoration
+\item
+  Various non-traditional precussion techniques
+\item
+  Chinese drums?
+\end{itemize}
+
+\textbf{onett}
+
+\begin{itemize}
+\tightlist
+\item
+  White noise and textured beginning
+\item
+  Base track
+\item
+  Chill and again nature sounds
+\end{itemize}
+
+\textbf{Chess Bling}
+
+\begin{itemize}
+\tightlist
+\item
+  Trap + Electro vibes?
+\item
+  Mechanical flute and traditional hip hop backing
+\item
+  Pauses and gaps in baseline
+\end{itemize}
+
+.Paak's \textbf{Lockdown} ;)
+
+\begin{itemize}
+\tightlist
+\item
+  Paak's signature voice\ldots{}
+\item
+  Drum as the background + subtle baseline
+\item
+  Filtered background noice + textured TV footage
+\item
+  Traditional hiphop + soul tcehniques in background
+\item
+  ``Siren'' as a part of the baseline
+\end{itemize}
+
+\hypertarget{section-6}{%
+\section{09152020}\label{section-6}}
+
+\textbf{Fingerprints}
+
+\begin{itemize}
+\tightlist
+\item
+  Chill vibes with solo loops
+\item
+  Simple vocals
+\item
+  Simple, acoustic drum sequence
+\item
+  Electronic Flute accutrimonts
+\end{itemize}
+
+\textbf{Cucumber Water??}
+
+\begin{itemize}
+\tightlist
+\item
+  Drum focused
+\item
+  Electronic chiptone as melody
+\item
+  Transitioned to rap lyrics, but still set to electro\\
+\item
+  Finishing with again chiptune music
+\end{itemize}
+
+(That's a remix)
+
+\textbf{Crunch + Unfinished}
+
+\begin{itemize}
+\tightlist
+\item
+  80s drum machines
+\item
+  Musical focused background
+\item
+  Background music and beat sequences
+\end{itemize}
+
+\hypertarget{section-7}{%
+\section{09172020}\label{section-7}}
+
+\textbf{Reassurance} - Precussion Heavy + bassy - Effects and creative
+vocals - Heavily filtered base - Syncth accenturated vocals
+
+\textbf{Super Ink Burst}
+
+\begin{itemize}
+\tightlist
+\item
+  Feeling of\ldots{} Regional music?
+\item
+  Hip hop inspired backgrounds
+\item
+  Also, random rap vocals in the background?
+\end{itemize}
+
+\textbf{745}
+
+\begin{itemize}
+\tightlist
+\item
+  Trap + Rap
+\item
+  Heavy baseline
+\item
+  Traditional drum machininigo
+\end{itemize}
+
+\textbf{Animal}
+
+\begin{itemize}
+\tightlist
+\item
+  House, poppy, background
+\item
+  Traditinoal house background
+\item
+  Modulated vocals
+\end{itemize}
+
+\hypertarget{section-8}{%
+\section{09222020}\label{section-8}}
+
+\textbf{\ldots And the World Laughs With You}
+
+\begin{itemize}
+\tightlist
+\item
+  Synth pop + retro vocals?
+\item
+  White noise as percussion
+\end{itemize}
+
+\textbf{Six days}
+
+\begin{itemize}
+\tightlist
+\item
+  Wavetable vibes
+\item
+  Lots of patching into echo
+\item
+  Heavily filtered vocals
+\item
+  Indian drums
+\end{itemize}
+
+\textbf{No Idea}
+
+\begin{itemize}
+\tightlist
+\item
+  Interesting\ldots{} flute? intro?
+\item
+  ``Gansta walk'' type music
+\item
+  Typically base heavy
+\end{itemize}
+
+\textbf{Lovely Rita}
+
+\begin{itemize}
+\tightlist
+\item
+  Classic Beatles guitar vibes
+\item
+  Unfiltered basic vocals
+\item
+  Melotical backing vocals
+\item
+  Piano riff as transition
+\end{itemize}
+
+\hypertarget{section-9}{%
+\section{09242020}\label{section-9}}
+
+\textbf{Facing the Sea}
+
+\begin{itemize}
+\tightlist
+\item
+  Creative drum pattern
+\item
+  Signature vocals highlight the tune of the music
+\item
+  Sudden transition to dubstep style music
+\item
+  During vocals, traditional but still slightly (house?) pattern
+\end{itemize}
+
+\hypertarget{section-10}{%
+\section{10082020}\label{section-10}}
+
+\textbf{Ritual Union}
+
+\begin{itemize}
+\tightlist
+\item
+  Balese instruments?
+\item
+  Impactful background drum beat + claps
+\item
+  Uniquely musical vocals --- lead synth is\ldots{} vocals?
+\item
+  A little unmixed?
+\item
+  Background wobble adds depth to base track
+\end{itemize}
+
+\textbf{Genevive - Unfinished}
+
+\begin{itemize}
+\tightlist
+\item
+  House feeling?
+\item
+  Vocals EQed to be waay far away
+\item
+  Drum beats ducks to base
+\item
+  House florishes
+\item
+  Break in music emphasizes drum pattern
+\end{itemize}
+
+\textbf{4 leaf clover}
+
+\begin{itemize}
+\tightlist
+\item
+  Floor to the floor beats
+\item
+  Vocals slightly off tune
+\end{itemize}
+
+\textbf{Two Songs by Thundercat}
+
+\begin{itemize}
+\tightlist
+\item
+  Folksy?
+\item
+  Slow and mellow
+\item
+  Acoustic instruments (but that's a tinydesk thing.)
+\item
+  Naturals and truth full vocals
+\item
+  Funky music
+\end{itemize}
+
+\hypertarget{section-11}{%
+\section{11032020}\label{section-11}}
+
+\textbf{Plastic}
+
+\begin{itemize}
+\tightlist
+\item
+  Chill sounding background
+\item
+  Smooth vocals
+\item
+  Interesting background elements flowing in
+\end{itemize}
+
+\textbf{Brain Dance}
+
+\begin{itemize}
+\tightlist
+\item
+  A little folksy
+\item
+  Old school techno techniques
+\item
+  Reggae feeling with Guitar Rock elements
+\end{itemize}
+
+\textbf{Kalimba Funk}
+
+\begin{itemize}
+\tightlist
+\item
+  As titled --- funk elements with Kalima/local music+drums
+\item
+  Interesting blend of genras
+\end{itemize}
+
+\textbf{Camines de Senegal}
+
+\begin{itemize}
+\tightlist
+\item
+  Traditional drumline that seems dubsteppy
+\item
+  Akward combination that serves to create trippy effect
+\end{itemize}
+
+\textbf{Massage Situation}
+
+\begin{itemize}
+\tightlist
+\item
+  EP/Vinyl vibes
+\item
+  Heavy destruction in the background
+\item
+  Clapping and dubsteppy music without the actual dubstep/rap
+\end{itemize}
+
+\# 11102020
+
+\textbf{Mulasses}
+
+\begin{itemize}
+\tightlist
+\item
+  I guess we are in the randomness era =\textgreater{} Random
+  beats/baseline
+\item
+  Clean lead vocals
+\item
+  Occationally slipping into rap
+\end{itemize}
+
+\textbf{JEWELZ}
+
+\begin{itemize}
+\tightlist
+\item
+  A little weird vocals, with the formant filter
+\item
+  Still the signature .Paak vocal vocal pattern
+\item
+  Formant has slight destruction
+\end{itemize}
+
+\textbf{Super Bounce}
+
+\begin{itemize}
+\item
+  Traditional funky music
+\item
+  A little funky beat
+\item ~
+  \hypertarget{section-12}{%
+  \section{11172020}\label{section-12}}
+\end{itemize}
+
+\textbf{Apartment}
+
+\begin{itemize}
+\tightlist
+\item
+  Simple lounge music
+\item
+  Cleanly cut vocals
+\item
+  Drum pattern in the background adds a lot to the sound structure
+\item
+  Guitar riff in the end mixes soulful music with a bit of rock
+\end{itemize}
+
+\textbf{Khmlwugh}
+
+\begin{itemize}
+\tightlist
+\item
+  Elevator music?
+\item
+  Something dosen't feel quite right =\textgreater{} slightly dissonent
+  vocals
+\item
+  Vocals slightly dissonent
+\item
+  ``Fake'' Ending with pitched vocals + synth hold + siren pitch add a
+  playful/dissonent sound texture
+\end{itemize}
+
+\textbf{Klapp Klapp}
+
+\begin{itemize}
+\tightlist
+\item
+  Rock and punk backing, but! clean vocals?
+\item
+  Floor to the floor drum/clap combo
+\item
+  Fun synth sequence in the background adds electric flavour
+\end{itemize}
+
+\textbf{Chess Bling}
+
+\begin{itemize}
+\tightlist
+\item
+  Heavily duplicated vocals in background adds additional texture
+\item
+  Electric flute mixes traditional instrumentation with electro flow
+\item
+  Bold usage of silence
+\end{itemize}
+
+\hypertarget{section-13}{%
+\section{12012020}\label{section-13}}
+
+\textbf{You}
+
+\begin{itemize}
+\tightlist
+\item
+  Creative use of the background precussion to create an innovative
+  sequence
+\item
+  Synth serves are a more decorative element instead of the main idea of
+  the song
+\item
+  Lyrics also strangely precussive and serves also to decorative the
+  precussion of the song
+\end{itemize}
+
+\textbf{Necessary Evil}
+
+\begin{itemize}
+\tightlist
+\item
+  Vocals have the sound of reggae
+\item
+  Usage of tribalistic elements in the background percussion
+\item
+  Heavy echo + texured eq on the vocalso
+\item
+  Sudden distortion like Rock music
+\end{itemize}
+
+\textbf{Sense}
+
+\begin{itemize}
+\tightlist
+\item
+  Folk sounding background music
+\item
+  Traditionally pitch-bendy folk sound signature
+\item
+  Standard
+\end{itemize}
+
+\hypertarget{section-14}{%
+\section{12032020}\label{section-14}}
+
+\textbf{cz}
+
+\begin{itemize}
+\tightlist
+\item
+  Powerful synths to start
+\item
+  ``clikcy'' beats in the backgroundo
+\end{itemize}
+
+\textbf{Tough as Nails}
+
+\begin{itemize}
+\tightlist
+\item
+  Nails as precussion
+\item
+  Strong bass
+\item
+  Vocals trough formant + vocoder
+\item
+  Strong musical backgroundo
+\end{itemize}
+
+\textbf{Clouds}
+
+\begin{itemize}
+\tightlist
+\item
+  Strong current vocals and drum sequence
+\item
+  Strong bass drop
+\item
+  Clicky synths
+\end{itemize}
+
+\textbf{15 Step}
+
+\begin{itemize}
+\tightlist
+\item
+  Quick sampler lead synths and drum sequence
+\item
+  Synthesized clapps and drum sequence sets the pace
+\item
+  Incorporation of traditional rock drumming with hi-tech/techno synth
+\item
+  Destortion creates a sense of unbalance in the end
+\end{itemize}
+
+\hypertarget{section-15}{%
+\section{12082020}\label{section-15}}
+
+\textbf{Isn't It So Convenient}
+
+\begin{itemize}
+\tightlist
+\item
+  Strong and constant percussion in the background
+\item
+  Basic but effective counter-melody
+\end{itemize}
+
+\textbf{Pan de Floor}
+
+\begin{itemize}
+\tightlist
+\item
+  strong drum sequence ---marching band feeling?
+\item
+  House/dance EDM??? 2010s vibes
+\item
+  Whole song as edm/sequenced synth + house/dance EDM lead
+\item
+  Random samples as elements of precussion
+\item
+  Lazer sound effects for no reason =\textgreater{} what does it add?
+\end{itemize}
+
+\textbf{Rover}
+
+\begin{itemize}
+\tightlist
+\item
+  drums + bass + lead: simple
+\item
+  Male and female lead slightly disonent
+\item
+  Unique sound signature
+\end{itemize}
+
+\hypertarget{section-16}{%
+\section{12152020}\label{section-16}}
+
+\textbf{Dissonance}
+
+\begin{itemize}
+\tightlist
+\item
+  Disonant vocals (ha!)
+\item
+  Combining folk tonals with trap and electric musical effects
+\end{itemize}
+
+\textbf{Homebound/Energy}
+
+\begin{itemize}
+\tightlist
+\item
+  Actuall more disonent
+\item
+  Rap elements combined with traditional music elements
+\end{itemize}
+
+\textbf{If No, When?}
+
+\begin{itemize}
+\tightlist
+\item
+  Utilizing autotune/vocoder as a music element!
+\item
+  Very clean, systemic vocals
+\end{itemize}
+
+\textbf{Chess Bling}
+
+\begin{itemize}
+\tightlist
+\item
+  Combining synthesized elements with traditional folk vocals
+\item
+  Beautiful, textured lyrics
+\item
+  Creative uses of pauses
+\end{itemize}
+
+\textbf{Big Body Sheka}
+
+\begin{itemize}
+\tightlist
+\item
+  Indian music elements?
+\item
+  Choppy percussive musical elements
+\end{itemize}
+
+\textbf{Rosetta}
+
+\begin{itemize}
+\tightlist
+\item
+  ``whop!''
+\item
+  Wobbly elements adds unique texture to music
 \end{itemize}
 
 \end{document}

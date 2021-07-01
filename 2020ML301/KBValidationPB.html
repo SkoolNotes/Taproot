@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title> ML301 Validation Part B </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>ML301</strong> Validation Part B </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request="><span><strong>[[</strong></span><strong></strong><span><strong>]]</strong></span></a></span></p>
+            <hr />
+            <h1 id="part-a">Part A</h1>
+            <ul>
+            <li><p>What are the best and worst possible scores it could get?</p>
+            <ul>
+            <li><p>When using f1 score, the best possible score would be 1, and the worst would be 0.</p></li>
+            </ul></li>
+            <li><p>Why do you think the model is getting the score you’re seeing?</p>
+            <ul>
+            <li><p>The score I’m seeing is 1. This is expected, as I am testing a decision tree on the iris data it was trained on.</p></li>
+            </ul></li>
+            <li><p>How do the scores between the training and testing sets compare?</p>
+            <ul>
+            <li><p>I would assume that the testing set score would have a lower f1 score than the training set, as the model is specifically fitted for the training data.</p></li>
+            </ul></li>
+            </ul>
+            <h1 id="part-b">Part B</h1>
+            <p>Please answer the following questions and briefly explain your answer:</p>
+            <ul>
+            <li><p>Thinking about the R^2 metric used for evaluating regression, answer the following questions:</p>
+            <ul>
+            <li><p>What is the best highest possible score you could get?</p>
+            <ul>
+            <li><p>The highest possible score is 1, representing a perfect fit. In order to achieve an R^2 of 1, the error must be 0.</p></li>
+            </ul></li>
+            <li><p>If your model simply predicted the average value of the training set no matter what the input was, what score would you get on a test set whose average matched that of the training set?</p>
+            <ul>
+            <li><p>The score would be 0, as the denominator and numerator would be equal. This would result in the equation 1-1, which equals 0.</p></li>
+            </ul></li>
+            <li><p>What is the lowest score that you can get?</p>
+            <ul>
+            <li><p>Negative infinity.</p></li>
+            </ul></li>
+            </ul></li>
+            <li><p>When using accuracy to measure your model’s performance on a classification problem:</p>
+            <ul>
+            <li><p>What is the best possible score you could get?</p>
+            <ul>
+            <li><ol>
+            <li><p>In a scenario with x samples, an entirely correct classification would lead to x/x, which is 1.</p></li>
+            </ol></li>
+            </ul></li>
+            <li><p>If your model always predicted the same class no matter what the input, what score would you get on a test set where 85% of the items were in that class?</p>
+            <ul>
+            <li><p>85%</p></li>
+            </ul></li>
+            </ul></li>
+            <li><p>What is the worst possible score you can get on a dataset that only has two classes?</p>
+            <ul>
+            <li><ol>
+            <li><p>Every sample could be sorted incorrectly as long as there is more than one class.</p></li>
+            </ol></li>
+            </ul></li>
+            <li><p>A model gets a recall score of 0 for class A on a test set with classes A, B, and C. If you take one of the test items that is in class A and have this model predict what class it is, what will it predict?</p>
+            <ul>
+            <li><p>A recall score of 0 for class A means that every item in class A was labeled incorrectly. When given another sample in class A, the model will predict either class B or class C.</p></li>
+            </ul></li>
+            <li><p>A model gets a precision score of 1 for class A on a test set with classes A, B, and C. If you take one of the test items that is in class A and have your model predict what class it is, what will it predict?</p>
+            <ul>
+            <li><p>The model could predict any of the three classes. A precision value is only effected by true positive and false positive rate, meaning that when given a sample in class A, predicting C or B would not lower class A’s precision.</p></li>
+            </ul></li>
+            <li><p>If a model with classes A and B has an AUC score of 1 and you give it an item from the test set that is in class A, what class will it predict and what probability will it give for that class?</p>
+            <ul>
+            <li><p>It will predict class A, and give a probability of 100%. This is because an AUC score of 1 represents a perfect model.</p></li>
+            </ul></li>
+            <li><p>If a model with classes A and B has an AUC score of 0 and you give it an item from the test set that is in class A, what class will it predict and what probability will it give for that class?</p>
+            <ul>
+            <li><p>This means that the model is always perfectly incorrect. If you were to give it a sample from class B, it will always pick class A, and vise versa. The model would still give a probability of 100%.</p></li>
+            </ul></li>
+            </ul>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

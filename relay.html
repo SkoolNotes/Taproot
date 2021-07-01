@@ -47,7 +47,7 @@
         <div id="master-indexes" style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap">
         </div>
     </div>
-    <div style="position: absolute; z-index: 1000; bottom: 10px; font-size: 10px">(c)2020-2021 Houjun Liu, Huxley Marvit, Zachary Sayyah, Albert Huang. Build <span id="buildid"></span></div>
+    <div style="position: absolute; z-index: 1000; bottom: 10px; font-size: 10px">(c)2020-2021 Houjun Liu, Huxley Marvit, Zachary Sayyah, Albert Huang, Dylan Wallace. Build <span id="buildid"></span></div>
     <script>
         let r = Math.random().toString(36).substring(7);
         $(document).ready(function() {
@@ -69,7 +69,7 @@
                         $('#backtrack').val("00-Topic-"+request);
                         $('#backtrack').trigger('change');
                     } else 
-                        window.location.href = $('#backtrack :selected').text()+"?"+r;
+                        window.location.replace($('#backtrack :selected').text()+"?"+r);
                 });
                 if (request) {
                     $('#backtrack').val(request);

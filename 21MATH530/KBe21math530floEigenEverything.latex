@@ -1,0 +1,272 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8152)}}    % original
+%\rhead{\textrmlf{Compiled }\#8152\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8152\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{eigenvalues}{%
+\section{eigenvalues}\label{eigenvalues}}
+
+eigenvalue: multiplied by a scalar? a subspace that, when put through a
+linear map, only gets scaled.
+
+\[ Tv = \lambda v \]
+
+Where \(v \neq 0\). (we ignore it because its no fun to send zero to
+zero, and bc the span is empty).
+
+\textbf{T must be an operator!} Otherwise the matrix sizes don't work
+out when subtracting \(\lambda I\).
+
+where \(v\) is the eigenvector and \(\lambda\) is the eigenvalue. The
+equation is often rewritten as:
+
+\[
+  \begin{aligned}
+  Tv - \lambda v &= 0
+  Tv - \lambda Iv &= 0
+  (T-\lambda I) v &= 0
+  \end{aligned} \]
+
+We want \(T-\lambda I\) to be singular, because we want the null space
+to include \(v\). So we subtract \(\lambda\) from the \(I\) diagonal of
+\(T\) and then find values of \(v\) which are equal to zero?
+
+now this can be factored and roots can be found. also it's an operator.
+
+\hypertarget{axler-5.6-equivalent-conditions}{%
+\subsection{Axler 5.6 equivalent
+conditions}\label{axler-5.6-equivalent-conditions}}
+
+Only when \(V\) is finite dimensional!
+
+\hypertarget{t-lambda-i-is-not-injective-because-both-v-0-are-in-the-null-space.}{%
+\subsubsection{\texorpdfstring{\(T-\lambda I\) is not injective, because
+both \(v, 0\) are in the null
+space.}{T-\textbackslash lambda I is not injective, because both v, 0 are in the null space.}}\label{t-lambda-i-is-not-injective-because-both-v-0-are-in-the-null-space.}}
+
+\hypertarget{t-lambda-i-is-also-not-surjective-or-invertible-bc-finite-dim-operator.}{%
+\subsubsection{\texorpdfstring{\(T-\lambda I\) is also not surjective or
+invertible bc finite dim
+operator.}{T-\textbackslash lambda I is also not surjective or invertible bc finite dim operator.}}\label{t-lambda-i-is-also-not-surjective-or-invertible-bc-finite-dim-operator.}}
+
+\hypertarget{an-example}{%
+\section{an example}\label{an-example}}
+
+Given the matrix \(\begin{pmatrix}3&1\\0&2\end{pmatrix}\), find the
+eigenvalues and eigenvectors.
+
+Now that we have that other fomulation, we can just subtract
+\(\lambda I\) from \(T\) to get
+\[ \begin{pmatrix}3-\lambda &1\\0&2-lambda \end{pmatrix} \]
+
+Then, we just need to find whether it is non-invertible aka singular aka
+determinant.
+
+\[ (3-\lambda)(2-\lambda) = 0 \] The solutions are
+\(\lambda = 2 \text{ or } 3\). These are the eigenvalues.
+
+Now just plug in \(\lambda\) and find the null space using RREF. The
+null space for \(\lambda = 3\) has null space \(\text{span}(x, 0)\), so
+we just pick one of those vectors (ex. \((1, 0)\)) to be the
+eigenvector.
+
+\hypertarget{review-of-terms}{%
+\subsection{review of terms}\label{review-of-terms}}
+
+\hypertarget{span1-0-is-an-invariant-subspace.-also-whatever-you-get-for-lambda-2}{%
+\subsubsection{\texorpdfstring{\(span(1, 0)\) is an invariant subspace.
+(also whatever you get for
+\(\lambda = 2\)}{span(1, 0) is an invariant subspace. (also whatever you get for \textbackslash lambda = 2}}\label{span1-0-is-an-invariant-subspace.-also-whatever-you-get-for-lambda-2}}
+
+\hypertarget{any-vector-in-an-invariant-subspace-is-an-eigenvector}{%
+\subsubsection{any vector in an invariant subspace is an
+eigenvector}\label{any-vector-in-an-invariant-subspace-is-an-eigenvector}}
+
+\hypertarget{the-eigenvalues-are-2-3}{%
+\subsubsection{\texorpdfstring{the eigenvalues are
+\(2, 3\)}{the eigenvalues are 2, 3}}\label{the-eigenvalues-are-2-3}}
+
+\hypertarget{general-idea}{%
+\subsection{general idea}\label{general-idea}}
+
+the point of eigenvectors is to figure out where other vectors go by
+looking at pieces that only get streched or shrunk.
+
+\hypertarget{depends-on}{%
+\section{depends on}\label{depends-on}}
+
+\hypertarget{finding-roots-is-helpful}{%
+\subsection{finding roots is helpful}\label{finding-roots-is-helpful}}
+
+\end{document}

@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title> BIO101 TATA Binding Protein </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>BIO101</strong> TATA Binding Protein </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBhBIO101DNATranscription"><span><strong>[[</strong></span><strong>KBhBIO101DNATranscription</strong><span><strong>]]</strong></span></a></span></p>
+            <h1 id="tata-binding">TATA Binding</h1>
+            <p>“DNA is long. How our cells know where to start transcribing?”</p>
+            <p>First, promoters exist to demarcate the start and the directionality of transcription. In bacterias, this tipically means that there are two regions that bind to the sigma subunit of the RNA polymerase, but in eukareotes, this is much more complicated and involves something called…</p>
+            <p>:confetti: the TATA box! :confetti:</p>
+            <p>Before the start of the transcription site, the TATA box exists with a sequence of usually T-A-T-A-(A/T)-A-(A/T) that the <strong>TATA binding protein</strong> recognizes and binds to.</p>
+            <h2 id="tata-binding-protein">TATA Binding Protein</h2>
+            <p>This TATA binding protein will then serve as the landmark for the actual RNA polymerease to find the promoter. Surprisingly, the TATA binding protein is not gentle with the DNA: grabbing onto it and bending it sharply to start transcription.</p>
+            <h2 id="helpers-to-tata">Helpers to TATA</h2>
+            <p>TATA is part of a larger transcription factor called TFIID. TFIID, upon binding, calls for other transcription factor to bind, creating a big’ol protein to decide whether or not transtription will happen.</p>
+            <p>These factors sometimes promote the start of transcription, others inhibit the strate of transcription. TATA always is the anchoring point that calls all of these together to start the process.</p>
+            <h2 id="so-hows-the-tata-sequence-recognized">So, How’s the TATA sequence recognized?</h2>
+            <p>The TATA protein has a string of lysing and argenine, which inteacts with the phosphate group of the DNA &amp; glues the proton to the DNA. The protein also uses special amino acids to interact w/ DNA bases.</p>
+            <p>The simmetric nature of the two halves of the TATA binding proteins means that it’s able to recognize the proper binding sequence and jam itself into the DNA.</p>
+            <p>It is thought that a gene duplication mutation from a long time ago created this protein after two copies of the same gene is combined.</p>
+            <h2 id="sca17">SCA17</h2>
+            <p>Sometimes, the transcription of the TBP goes wrong and create a repeat in the CAG/CAA factors in the TBP; with an average of over 41 repeats.</p>
+            <p>This results in an abundance of glutamite, which means that this will result in symptoms of psycoatric problems like involuntary movements, dementia, and ataxia (not being able to control movement.)</p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

@@ -1,0 +1,672 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Story of Science: Computational Complexity
+Theory }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12253)}}    % original
+%\rhead{\textrmlf{Compiled }\#12253\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Albert H \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{sources}{%
+\section{sources}\label{sources}}
+
+\hypertarget{gentle-introductions}{%
+\subsection{gentle introductions}\label{gentle-introductions}}
+
+\hypertarget{httpsen.wikipedia.orgwikicomputational_complexity_theory}{%
+\subsubsection{\texorpdfstring{\url{https://en.wikipedia.org/wiki/Computational_complexity_theory}}{https://en.wikipedia.org/wiki/Computational\_complexity\_theory}}\label{httpsen.wikipedia.orgwikicomputational_complexity_theory}}
+
+\hypertarget{httpscomplexityzoo.netpetting_zoo}{%
+\subsubsection{\texorpdfstring{\url{https://complexityzoo.net/Petting_Zoo}}{https://complexityzoo.net/Petting\_Zoo}}\label{httpscomplexityzoo.netpetting_zoo}}
+
+\hypertarget{httpswww.simonsfoundation.org20131213richard-karp}{%
+\subsubsection{\texorpdfstring{\url{https://www.simonsfoundation.org/2013/12/13/richard-karp/}}{https://www.simonsfoundation.org/2013/12/13/richard-karp/}}\label{httpswww.simonsfoundation.org20131213richard-karp}}
+
+\hypertarget{overview}{%
+\section{overview}\label{overview}}
+
+\hypertarget{computational-complexity-theory-studies-how-difficult-a-problem-is}{%
+\subsection{computational complexity theory studies how "difficult" a
+problem
+is}\label{computational-complexity-theory-studies-how-difficult-a-problem-is}}
+
+\hypertarget{importantly-not-how-good-an-algorithm-is-this-field-deals-with-all-algorithms-that-solve-a-given-problem}{%
+\subsubsection{importantly, not how "good" an algorithm is\ldots{} this
+field deals with all algorithms that solve a given
+problem}\label{importantly-not-how-good-an-algorithm-is-this-field-deals-with-all-algorithms-that-solve-a-given-problem}}
+
+\hypertarget{key-concepts}{%
+\subsection{key concepts}\label{key-concepts}}
+
+\hypertarget{types-of-problems}{%
+\subsubsection{types of problems}\label{types-of-problems}}
+
+\hypertarget{turing-machines}{%
+\subsubsection{Turing machines}\label{turing-machines}}
+
+\hypertarget{reducibility}{%
+\subsubsection{reducibility}\label{reducibility}}
+
+\hypertarget{complexity-classes}{%
+\subsubsection{complexity classes}\label{complexity-classes}}
+
+\hypertarget{hierarchy}{%
+\subsubsection{hierarchy}\label{hierarchy}}
+
+\hypertarget{key-problems}{%
+\subsection{key problems}\label{key-problems}}
+
+\hypertarget{p-vs-np}{%
+\subsubsection{P vs NP}\label{p-vs-np}}
+
+\hypertarget{richard-karp-the-actual-assignment}{%
+\section{richard karp (the actual
+assignment)}\label{richard-karp-the-actual-assignment}}
+
+\hypertarget{overview-1}{%
+\subsection{overview}\label{overview-1}}
+
+\hypertarget{basically-see-httpswww.simonsfoundation.org20131213richard-karp}{%
+\subsubsection{\texorpdfstring{basically, see
+\url{https://www.simonsfoundation.org/2013/12/13/richard-karp/}}{basically, see https://www.simonsfoundation.org/2013/12/13/richard-karp/}}\label{basically-see-httpswww.simonsfoundation.org20131213richard-karp}}
+
+\hypertarget{storyboard-richard-karp-life}{%
+\subsection{\texorpdfstring{{TODO} storyboard richard karp
+life}{TODO storyboard richard karp life}}\label{storyboard-richard-karp-life}}
+
+\hypertarget{vocab-and-definitions}{%
+\section{\texorpdfstring{vocab and definitions
+{\textsc{def}}}{vocab and definitions def}}\label{vocab-and-definitions}}
+
+\hypertarget{dtm-deterministic-turing-machine}{%
+\subsection{DTM, deterministic Turing
+machine}\label{dtm-deterministic-turing-machine}}
+
+A Turing machine with one infinite tape and a state function that has
+exactly one output for each (tape value, machine state) input. (Not a
+formal definition).
+
+\hypertarget{complexity-classes-1}{%
+\section{complexity classes}\label{complexity-classes-1}}
+
+\hypertarget{p}{%
+\subsection{P}\label{p}}
+
+Problems that can be solved in polynomial time using a deterministic
+Turing machine (DTM). These problems are generally considered
+"tractable" by the Cobham-Edmonds thesis.
+
+In practice, problems with large-degree solutions usually have
+smaller-degree solutions discovered later, so the division between P and
+other problems 'has turned out to be somewhat "natural"'.
+
+Examples: \{ graph reachability (whether two nodes are in the same
+component), 2SAT (SCC :)), matrix multiplication \}
+
+\hypertarget{np}{%
+\subsection{NP}\label{np}}
+
+Problems that can be checked "yes" in polynomial time. For example,
+graph isomorphism.
+
+\hypertarget{whats-up-with-conp-checkin-no}{%
+\subsubsection{\texorpdfstring{whats up with coNP? checkin "no"??
+{\textsc{toexpand}}}{whats up with coNP? checkin "no"?? toexpand}}\label{whats-up-with-conp-checkin-no}}
+
+\hypertarget{np-complete}{%
+\subsection{NP-complete}\label{np-complete}}
+
+Problems that are complete for NP, aka. problems in NP that all other NP
+problems can be reduced to in polynomial time. One example is
+CircuitSAT: any NP problem can be reduced to CircuitSAT and any problem
+that CircuitSAT can be reduced to is also NP-complete. Showing that
+CircuitSAT or any other NP-complete problem can be solved in polynomial
+time implies that P = NP.
+
+Examples: TSP, SAT
+
+\hypertarget{ph-polynomial-hierarchy}{%
+\subsection{\texorpdfstring{PH (polynomial hierarchy?)
+{\textsc{toexpand}}}{PH (polynomial hierarchy?) toexpand}}\label{ph-polynomial-hierarchy}}
+
+Defined as the union of a set of recursively defined classes\ldots{}
+something? Something about P and NP and oracles about NP and coNP. This
+is the thing that would collapse, I guess. Eg, why people don't think
+Graph Isomorphism is NP-complete.
+
+\hypertarget{pspace}{%
+\subsection{PSPACE}\label{pspace}}
+
+Restricts space instead of time. This class is very large, and includes
+the entirety of NP (brute force check all possible proofs) and also PP
+and P\textsuperscript{\#P}, apparently.
+
+Notable PSPACE-complete examples: QBF (or QSAT), deciding the winner of
+eg. Go.
+
+\hypertarget{exp}{%
+\subsection{EXP}\label{exp}}
+
+run-time bounded by \(2^{p(n)}\) where \(p\) is a polynomial (ig). EXP
+is generally big enough: it contains PSPACE, the polynomial hierarchy
+(PH), and 'most problems we ever hope to attack'. Of course, there are
+bigger ones.
+
+\hypertarget{ac0-nc0-nc}{%
+\subsection{\texorpdfstring{AC\textsuperscript{0},
+NC\textsuperscript{0}, NC}{AC0, NC0, NC}}\label{ac0-nc0-nc}}
+
+small classes that have to do with circuit complexity.. generally the
+represent problems that can be solved quickly with massive parallelism.
+
+\hypertarget{l}{%
+\subsection{L}\label{l}}
+
+Logarithmic space (logarithmic spaces on the Turing machine tape). This
+is nice because space is usually limited. L is contained within P
+because something about deterministic Turing machines?.
+
+\hypertarget{ppoly}{%
+\subsection{P/poly}\label{ppoly}}
+
+polynomial time algorithms that solve a problem given an advice string
+which is at most polynomial in length and a function only of the input
+size. P/exp would make all problems trivial (provide a lookup table),
+but P/poly is actually interesting, ig. P/poly contains P, so
+\(NP \notin P/poly\) would imply \(P \neq NP\).
+
+\hypertarget{bpp}{%
+\subsection{BPP}\label{bpp}}
+
+Randomized algorithms where the error rate is 'bounded by a constant'.
+Error rate could be improved by running the algorithm more times and
+taking a majority vote.
+
+AKS primality test made a previously randomized algorithm deterministic,
+which was a 'key example of derandomization'. People apparently think
+that P = BPP (and this is an important open problem).
+
+\hypertarget{flows}{%
+\section{flows}\label{flows}}
+
+\hypertarget{wikipedia-computational-complexity-theory}{%
+\subsection{Wikipedia computational complexity
+theory}\label{wikipedia-computational-complexity-theory}}
+
+\hypertarget{computational-problems}{%
+\subsubsection{computational problems}\label{computational-problems}}
+
+\begin{enumerate}
+\item
+  problem instances
+
+  A problem describes the problem. the actual "numbers" that describe a
+  specific problem is called a problem instance. sorting a list is a
+  problem, sorting \emph{this} list is a problem instance.
+\item
+  representing problem instances
+
+  formally strings of characters from alphabets. The input size is the
+  length of the string. Different representations can be chosen but it
+  should be trivial (fast) to convert from one to the other.
+\item
+  decision problems (most basic type)
+
+  Generally, given an input, the output is either yes (accept) or no
+  (reject). For example, deciding whether a graph is connected or not.
+
+  \begin{enumerate}
+  \item
+    it can be thought of as a "formal language" {\textsc{toexpand}}
+  \end{enumerate}
+\item
+  function problems
+
+  Very general: a function problem 'is a computational problem where a
+  single output (of a total function) is expected for every input, but
+  the output is more complex than that of a decision problem'. Basically
+  calculate a non-binary function.
+
+  Examples: traveling salesman, integer factorization.
+
+  However, all function problems can be modeled as decision problems:
+  For some function \(f(*args) \to ans\), it can be modeled as the
+  decision problem of whether \((*args, ans)\) is a valid output.
+
+  \begin{enumerate}
+  \item
+    but does this really work? how can a decision TM be used to compute
+    the function output efficiently? {\textsc{toexpand}}
+  \end{enumerate}
+\item
+  size of an instance
+
+  Size is usually the length of the input. The complexity is a function
+  of the input size, usually representing the worst case time or space
+  (or any other complexity measure) required for any input size.
+\end{enumerate}
+
+\hypertarget{machine-models-and-complexity-measures}{%
+\subsubsection{machine models and complexity
+measures}\label{machine-models-and-complexity-measures}}
+
+\begin{enumerate}
+\item
+  Turing machine
+
+  standard Turing machine stuff. its very general. Many types of turing
+  machines (probabilistic, non-deterministic, quantum, etc) are used to
+  define different complexity classes.
+\item
+  other machine models {\textsc{toexpand}}
+
+  Other non-standard Turing machines are used, but the idea is that they
+  aren't actually any better, somehow?
+\item
+  Complexity Measures
+
+  Usually time or space, but any complexity measure that satisfies
+  Blum's complexity axioms can be used. Examples include: communication
+  complexity, circuit complexity.
+
+  Also constant factors don't really matter. And its usually the worst
+  case.
+
+  Importantly, complexity measures are also a function of the type of
+  Turing machine used, since some Turing machines are better in some
+  scenarios.
+
+  \begin{enumerate}
+  \item
+    blums complexity axioms {\textsc{toexpand}}
+  \end{enumerate}
+\item
+  best/worst/average case
+
+  We generally talk about worst case complexity, but some algorithms
+  have good average-case which is good enough (eg. quicksort).
+  Generally, best-case \textless{} average-case \textless{} amortized
+  analysis \textless{} worst-case.
+\item
+  upper and lower bounds for problems
+
+  Importantly, this is \textbf{not an upper or lower bound for an
+  algorithm}. Instead, for problems in general, it's relatively easy to
+  decide an upper bound (which is just the worst case complexity of any
+  correct algorithm), but a lower bound is difficult (since it must
+  involve algorithms that haven't been discovered yet).
+\end{enumerate}
+
+\hypertarget{complexity-classes-2}{%
+\subsubsection{complexity classes}\label{complexity-classes-2}}
+
+\begin{enumerate}
+\item
+  dependencies
+
+  Complexity classes are a function of the following factors
+
+  \begin{enumerate}
+  \item
+    problem type
+
+    \{ decision, function, counting, optimization, promise, etc \}
+  \item
+    computation model
+
+    \{ deterministic Turing machine, non-deterministic, Boolean
+    circuits, quantum TM, monotone circuits, etc \}
+  \item
+    bounded resources
+
+    \{ polynomial time, logarithmic space, constant depth \}
+  \end{enumerate}
+\item
+  an example definition
+
+  \begin{quote}
+  The set of decision problems solvable by a deterministic Turing
+  machine within time f(n). (This complexity class is known as
+  DTIME(f(n)).)
+  \end{quote}
+
+  However, using a concrete function \(f(n)\) is often
+  computational-model-dependent, but the Cobham-Edmonds thesis states
+  that 'the time complexities in any two reasonable general models of
+  computation are polynomial related.'
+
+  This suggests that all if we want to be machine-independent, all
+  polynomial problems are roughly the same and belong in the same class:
+  P (for decision problems) and FP (for function problems).
+
+  \begin{enumerate}
+  \item
+    why are there different classes if decision and function problems
+    are the same-ish? dunno {\textsc{toexpand}}
+  \end{enumerate}
+\item
+  important complexity classes
+
+  A nice list here but the complexity petting zoo is more friendly.
+\item
+  Hierarchy theorems {\textsc{toexpand}}
+
+  We would like to establish a strict containment hierarchy within
+  classes (but between different eg. polynomial functions). This does
+  that, apparently?
+\item
+  Reduction
+
+  Many problems can be turned into other problems in their class, which
+  provides an upper bound on the difficulty of the problem.
+
+  There are many types of reductions, but the most common type is the
+  polynomial-time reduction which means the reduction takes polynomial
+  time. If you take a non-polynomial reduction to turn a problem into a
+  polynomial problem, then you haven't proven anything.
+
+  \begin{enumerate}
+  \item
+    hardness and completeness
+
+    A problem \(X\) is hard for a class \(C\) if every problem in \(C\)
+    can be reduced to \(X\). A problem \(X\) is complete for \(C\) if it
+    is hard for \(C\) it is in \(C\). NP-complete problems are the "most
+    difficult problems in NP" because other problems can be reduced to
+    them.
+
+    Being able to reduce a hard problem to another problem shows that
+    that other problem is just as hard, by contradiction. Similarly,
+    being able to reduce a hard problem to a known easy one collapses
+    the hierarchy.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{important-open-problems}{%
+\subsubsection{important open problems}\label{important-open-problems}}
+
+\begin{enumerate}
+\item
+  P vs NP
+
+  If any NP-complete problem can be reduced (polynomially) to a P
+  problem, then many NP problems would be solvable in polynomial time.
+  There are many NP problems that we would like to solve efficiently, so
+  this would be a big deal.
+
+  In fact, many of the other 'important open problems' are important
+  because they would show that \(P \neq  NP\).
+\item
+  NP-indeterminate problems (in NP but not in P nor NP-complete)
+  {\textsc{toexpand}}
+
+  some theorem shows that if P neq NP then there are NP-indeterminate
+  problems. If we show that there are none, then that proves P = NP.
+  Some unclassified problems (graph isomorphism problem, integer
+  factorization problem) being NP-complete would 'collapse the
+  polynomial hierarchy.' ?????
+\item
+  separations between other complexity classes
+
+  There are many classes that are improper subsets of each other. If any
+  of those relations can be shown to be a proper subset, then classes on
+  either side would be unequal. For example, many such relations exist
+  between P and NP and showing that one of those relations is a proper
+  subset relation would prove that P != NP. Or, proving that two classes
+  (eg. P, PSPACE) are equal would squish all classes in between into one
+  (in this case, showing that P = NP).
+\end{enumerate}
+
+\hypertarget{intractability}{%
+\subsubsection{Intractability}\label{intractability}}
+
+Meaning "not handleable". The Cobham-Edmonds thesis suggests that all
+polynomial problems are tractable. However, in the real world, specific
+numbers matter (\(N^{15}\) is much worse than \(0.0001^N\))
+
+\hypertarget{continuous-complexity-theory}{%
+\subsubsection{\texorpdfstring{continuous complexity theory
+{\textsc{toexpand}}}{continuous complexity theory toexpand}}\label{continuous-complexity-theory}}
+
+Something about continuous functions or analog logic.
+
+\hypertarget{history}{%
+\subsubsection{History}\label{history}}
+
+\begin{enumerate}
+\item
+  Many foundations laid, eg. Turing machine in 1936 which allowed for
+  analysis of various algorithms.
+\item
+  First systematic study attributed to Juris Hartmanis and Richard E.
+  Stearns in "On the Computational Complexity of Algorithms" (1965)
+\item
+  Edmonds (Cobham-Edmonds thesis) suggests polynomial problems are
+  "good" (1965)
+\item
+  other studies of problems with bounded resources in the previous few
+  years
+\item
+  Blum axioms for complexity measures (1967), and the "speed-up theorem"
+\item
+  1971 Stephen Cook and Leonid Levin proved existance of practically
+  relevant NP-complete problems
+\item
+  Richard Karp (1972) showed 21 relevant and NP-complete problems (op)
+
+  \begin{enumerate}
+  \item
+    oldest of four children, born to jewish family in Dorchester, Boston
+  \item
+    mother got harvard degree at age 57 and father wanted to go on to
+    medschool after Harvard but became a math teacher bc he couldn't
+    afford med school
+  \item
+    went to harvard, some career jumps, mostly CS professor at UC
+    Berkeley
+  \item
+    leads a number of societies and organizations, including
+    International Computer Science Institute, Simons Institute for the
+    Theory of Computing
+  \item
+    and also got a bunch of prizes for his work on NP-complete problems
+  \item
+    Edmonds-Karp algorithm for max flow with Jack Edmonds 1971
+  \item
+    landmark NP-completeness paper in 1972
+
+    \begin{enumerate}
+    \item
+      showed 21 problems that SAT can be reduced to
+    \item
+      a nice tree of reducibility + some previous work mentioned in the
+      paper
+    \end{enumerate}
+  \item
+    1973 Hopcroft-karp algorithm with john hopcroft for bipartite graph
+    max matchings
+  \item
+    some other work later on
+  \end{enumerate}
+\end{enumerate}
+
+\end{document}

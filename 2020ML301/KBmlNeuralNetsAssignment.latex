@@ -1,0 +1,527 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ML301 }
+\newcommand{\thelesson}{ Neural Nets Assignment }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5514)}}    % original
+%\rhead{\textrmlf{Compiled }\#5514\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5514\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\#ref \#ret
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{opt-3}{%
+\section{Opt 3 +}\label{opt-3}}
+
+Looked at the
+\href{https://github.com/ml4a/ml4a-guides/blob/master/notebooks/convolutional_neural_networks.ipynb}{Convolutional
+Neural Network Notebook}
+
+\begin{itemize}
+\tightlist
+\item
+  What type of data are they using?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    They are using images as their input data.
+  \end{itemize}
+\item
+  What conversions (if any) had to be done to the data before it could
+  be put into the neural network?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    For the basic neural network, they reshape the data to be individual
+    vectors, make them float32, normalize the data, then convert the
+    vectors to binary class matrices via one hot encoding. For the CNN,
+    they repeat the previous steps except without reshaping the data
+    into unrolled input vectors.
+  \end{itemize}
+\item
+  What is the output of the neural network, both in terms of what it
+  looks like to the computer (e.g.~integers in the range {[}0-2{]}) and
+  how humans should interpret it (e.g.~the type of iris)?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The output should be an array of probabilities for each category,
+    which can be interpreted as, at a given index in the array, the
+    item's probabilities for belonging in each category.
+  \end{itemize}
+\item
+  How many hidden layers does the network have, and what type are they
+  (e.g.~fully connected, convolutional, recurrent, LSTM, sparse, etc.)?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    For the final iteration of the CNN, the model has four hidden layers
+    --- two convolutional, and two dense.
+  \end{itemize}
+\item
+  What activation function(s) does it use?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The CNN used ReLU and softmax.
+  \end{itemize}
+\item
+  What loss or cost function is it using?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The model's loss function is categorical crossentropy
+  \end{itemize}
+\item
+  What kind of validation (if any) are they using?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The model uses accuracy as it's validation metric.
+  \end{itemize}
+\item
+  What other validation methods might work for this type of problem?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Any validation that works for classification problems, such as
+    recall, f-measure, or precision.
+  \end{itemize}
+\item
+  Why do you think the authors may have chosen this architecture for
+  their network?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    They started with a small network to help illustrate the concepts
+    more clearly, then gradually added more layers. They used a CNN so
+    the model would be able to perform feature based recognition.
+  \end{itemize}
+\item
+  Are there any changes you might try, if you were going to improve on
+  their model?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    I will try to add some more layers, as well as some more dropout.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{opt-3-pt.-2}{%
+\section{Opt 3 pt.~2!}\label{opt-3-pt.-2}}
+
+\hypertarget{iteration-one-more-regularization}{%
+\subsection{Iteration One: More
+Regularization}\label{iteration-one-more-regularization}}
+
+Tried to add more regularization with this model setup:
+
+\begin{verbatim}
+model = Sequential()
+model.add(Conv2D(128, (3, 3), padding='same', input_shape=(32,32,3)))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(Conv2D(64, (3, 3), padding='same'))
+model.add(Activation('relu'))
+model.add(Dropout(0.25))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(Conv2D(64, (3, 3), padding='same'))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(Flatten())
+model.add(Dense(256))
+model.add(Activation('relu'))
+model.add(Dropout(0.25))
+model.add(Dense(100))
+model.add(Activation('relu'))
+model.add(Dropout(0.25))
+model.add(Dense(num_classes))
+model.add(Activation('softmax'))
+model.summary()
+\end{verbatim}
+
+After \emph{hours} of training, the model produced these results:
+
+\begin{verbatim}
+Test loss: 0.930192768573761
+Test accuracy: 0.7660999894142151
+Training loss: 0.057676762342453
+Training accuracy: 0.9868000149726868
+\end{verbatim}
+
+Which is roughly \emph{one percent worse.}
+
+great.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{i2-better-placed-regularization}{%
+\subsection{I2: Better Placed
+Regularization}\label{i2-better-placed-regularization}}
+
+Once realizing I wasn't on a GPU, and trying out this new model setup:
+
+\begin{verbatim}
+model = Sequential()
+model.add(Conv2D(128, (3, 3), padding='same', input_shape=(32,32,3)))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(Dropout(0.25)) ## CHANGED ##
+model.add(Conv2D(64, (3, 3), padding='same'))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(Dropout(0.25))
+model.add(Conv2D(64, (3, 3), padding='same'))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(Flatten())
+model.add(Dense(256))
+model.add(Activation('relu'))
+model.add(Dropout(0.25)) ## CHANGED ##
+model.add(Dense(100))
+model.add(Activation('relu'))
+model.add(Dropout(0.25)) ## CHANGED ##
+model.add(Dense(num_classes))
+model.add(Activation('softmax'))
+model.summary()
+\end{verbatim}
+
+It produced these results:
+
+\begin{verbatim}
+Test loss: 0.7443265914916992
+Test accuracy: 0.7879999876022339
+Training loss: 0.08786039799451828
+Training accuracy: 0.9797599911689758
+\end{verbatim}
+
+Which, when compared with the original results:
+
+\begin{verbatim}
+Test loss: 0.9660877988576889
+Test accuracy: 0.779
+Training loss: 0.024635728995651005
+Training accuracy: 0.99504
+\end{verbatim}
+
+Is better!
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{i3-more-of-that}{%
+\subsection{I3: More of That}\label{i3-more-of-that}}
+
+Dialed up dropout again\ldots{}
+
+\begin{verbatim}
+model = Sequential()
+model.add(Conv2D(128, (3, 3), padding='same', input_shape=(32,32,3)))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(Dropout(0.25))
+model.add(Conv2D(64, (3, 3), padding='same'))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(Dropout(0.35)) ## CHANGED ##
+model.add(Conv2D(64, (3, 3), padding='same'))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(Flatten())
+model.add(Dense(256))
+model.add(Activation('relu'))
+model.add(Dropout(0.35)) ## CHANGED ##
+model.add(Dense(100))
+model.add(Activation('relu'))
+model.add(Dropout(0.25))
+model.add(Dense(num_classes))
+model.add(Activation('softmax'))
+model.summary()
+\end{verbatim}
+
+\begin{verbatim}
+Test loss: 0.6344813704490662
+Test accuracy: 0.7918000221252441
+Training loss: 0.20304201543331146
+Training accuracy: 0.9369400143623352
+\end{verbatim}
+
+Which gave an even better score!
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{i4-more-layers}{%
+\subsection{I4: More Layers}\label{i4-more-layers}}
+
+\begin{verbatim}
+model = Sequential()
+model.add(Conv2D(128, (3, 3), padding='same', input_shape=(32,32,3)))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+
+model.add(Dropout(0.25)) ## CHANGED ##
+model.add(Conv2D(128, (3, 3), padding='same', input_shape=(32,32,3))) ## CHANGED ##
+model.add(Activation('relu')) ## CHANGED ##
+model.add(MaxPooling2D(pool_size=(2, 2))) ## CHANGED ##
+
+model.add(Dropout(0.35))
+model.add(Conv2D(64, (3, 3), padding='same'))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(Dropout(0.35))
+model.add(Conv2D(64, (3, 3), padding='same'))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(Flatten())
+model.add(Dense(256))
+model.add(Activation('relu'))
+model.add(Dropout(0.35))
+model.add(Dense(100))
+model.add(Activation('relu'))
+model.add(Dropout(0.25))
+model.add(Dense(num_classes))
+model.add(Activation('softmax'))
+model.summary()
+\end{verbatim}
+
+\begin{verbatim}
+Test loss: 0.5848628878593445
+Test accuracy: 0.8004999756813049
+Training loss: 0.34681835770606995
+Training accuracy: 0.878600001335144
+\end{verbatim}
+
+Our test accuracy and training accuracy are approaching each other.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{i9-more-more-layers}{%
+\subsection{I(9?): More More Layers}\label{i9-more-more-layers}}
+
+\begin{verbatim}
+model = Sequential()
+model.add(Conv2D(128, (3, 3), padding='same', input_shape=(32,32,3)))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+
+model.add(Dropout(0.25))
+model.add(Conv2D(128, (3, 3), padding='same', input_shape=(32,32,3)))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+
+model.add(Dropout(0.35)) ## CHANGED ##
+model.add(Conv2D(128, (3, 3), padding='same', input_shape=(32,32,3))) ## CHANGED ##
+model.add(Activation('relu')) ## CHANGED ##
+model.add(MaxPooling2D(pool_size=(2, 2))) ## CHANGED ##
+
+model.add(Dropout(0.35))
+model.add(Conv2D(64, (3, 3), padding='same'))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(Dropout(0.35))
+model.add(Conv2D(64, (3, 3), padding='same'))
+model.add(Activation('relu'))
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(Flatten())
+model.add(Dense(256))
+model.add(Activation('relu'))
+model.add(Dropout(0.35))
+
+model.add(Dense(256)) ## CHANGED ##
+model.add(Activation('relu')) ## CHANGED ##
+model.add(Dropout(0.35)) ## CHANGED ##
+
+model.add(Dense(100))
+model.add(Activation('relu'))
+model.add(Dropout(0.25))
+model.add(Dense(num_classes))
+model.add(Activation('softmax'))
+model.summary()
+\end{verbatim}
+
+\begin{verbatim}
+Test loss: 0.5869606137275696
+Test accuracy: 0.8033999800682068
+Training loss: 0.4103561043739319
+Training accuracy: 0.8682600259780884
+\end{verbatim}
+
+After quite some more experimenting, these were around the best results
+I could get. I achieved this by adding two new layers, and a significant
+amount more dropout from the original model. However, this process was
+mostly guess and check. I assume that as I get more practice with this
+kind of work and gain a deeper understanding, I will get better at
+iterating more quickly and more effectively. Right now, however, I don't
+know how those skills would manifest.
+
+\end{document}

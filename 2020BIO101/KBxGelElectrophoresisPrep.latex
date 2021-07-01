@@ -1,0 +1,301 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO201 }
+\newcommand{\thelesson}{ Gel electrophoresis prep }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13666)}}    % original
+%\rhead{\textrmlf{Compiled }\#13666\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\#ref \#ret
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{prompt}{%
+\subsection{Prompt}\label{prompt}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Read through
+  \href{https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/biotechnology/a/gel-electrophoresis}{this
+  brief article (Links to an external site.)} about the process of gel
+  electrophoresis.
+\item
+  Read the next lab protocol
+  (\href{https://docs.google.com/document/d/1Cr_bvcfKP42KCDmol_jTWAJKdojJhf7pMqpu18kyKho/edit?usp=sharing}{lab
+  3 gel electrophoresis (Links to an external site.)}) and note any
+  questions you have so that you can ask them in class before we start.
+\item
+  \textbf{Submit brief responses to the following}:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    What is the specific feature of DNA that causes it to move toward
+    the positively charged side of the gel-running apparatus?~
+  \item
+    Shorter DNA fragments travel farther along the gel than longer DNA
+    fragments. Why is this?
+  \item
+    When you analyze your specific PCR product using gel
+    electrophoresis, what do you expect to see in the final image of the
+    stained gel (assume your PCR reaction was successful)?
+  \end{enumerate}
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{responses}{%
+\subsection{Responses}\label{responses}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{What is the specific feature of DNA that causes it to move
+  toward the positively charged side of the gel-running apparatus?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    DNA fragments are negatively charged. Thus, they move toward the
+    positive charge.
+  \end{enumerate}
+\item
+  \textbf{Shorter DNA fragments travel farther along the gel than longer
+  DNA fragments. Why is this?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    DNA fragments have the same amount of charge regardless of their
+    mass. Thus, the fragments with less mass are more greatly effected.
+  \end{enumerate}
+\item
+  \textbf{When you analyze your specific PCR product using gel
+  electrophoresis, what do you expect to see in the final image of the
+  stained gel (assume your PCR reaction was successful)?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    I would expect to see a band, or a lot more DNA, in the bp length
+    section of the segment that was multiplied with the PCR reaction.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{cw}{%
+\subsection{CW:}\label{cw}}
+
+\begin{quote}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Move through the
+  \href{https://learn.genetics.utah.edu/content/labs/gel/}{gel
+  electrophoresis interactive tutorial} (enjoy the goofy sound effects).
+\item
+  Using one or more sound sources, extend your learning about a specific
+  aspect of gel electrophoresis that interests you (e.g.~physical
+  properties of agarose, movement of biomolecules through agarose,
+  staining DNA, DNA size standard ladders, invention of the technique,
+  automation, alternative applications of electrophoresis, or another
+  topic of your choosing).~
+\item
+  \textbf{Write and submit} a brief~ (1 paragraph) summary of what
+  you've learned and include links to your sources.
+\end{enumerate}
+\end{quote}
+
+The rabbit hole begins..
+https://en.wikipedia.org/wiki/Gel\_electrophoresis?scrlybrkr=940ae169
+https://www.google.com/search?client=opera\&q=agarose\&sourceid=opera\&ie=UTF-8\&oe=UTF-8
+https://en.wikipedia.org/wiki/Agar
+https://en.wikipedia.org/wiki/Agarose\_gel\_electrophoresis
+
+\end{document}

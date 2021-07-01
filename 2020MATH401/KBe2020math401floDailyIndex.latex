@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -106,8 +108,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ 2020math401 }
-\newcommand{\thelesson}{ Daily Index }
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -121,7 +123,7 @@
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
 \rhead{\textrmlf{Compiled} \today}
-\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
 
@@ -161,20 +163,6 @@
 
 % DID YOU SET SPELL????
 
-\ifthenelse{ \equal{}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
-
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-Day & Link\tabularnewline
-\midrule
-\endhead
-1 & {[}{[}KBe2020math401flo1{]}{]}\tabularnewline
-2 & {[}{[}KBe2020math401flo2{]}{]}\tabularnewline
-\bottomrule
-\end{longtable}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+Empty files are not fun
 
 \end{document}

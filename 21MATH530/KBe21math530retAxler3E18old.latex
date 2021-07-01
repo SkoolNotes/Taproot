@@ -1,0 +1,312 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Axler 3.E ex18 }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10041)}}    % original
+%\rhead{\textrmlf{Compiled }\#10041\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#10041
+  \textrmlf{ on}
+      \today
+  }       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{problem-axler-3.e-exercise-18}{%
+\section{Problem: Axler 3.E exercise
+18}\label{problem-axler-3.e-exercise-18}}
+
+\begin{quote}
+Suppose \(T \in \mathcal L(V, W)\) and \(U\) is a subspace of \(V\). Let
+π denote the quotient map from \(V\) onto \(V/U\). Prove that there
+exists \(S \in \mathcal L(V/U, W)\) such that \(T = S \circ \pi\) if and
+only if \(U \subseteq \text{null }T\).
+\end{quote}
+
+Intuitively, if we mod out part of the \(\text{null }T\), then we should
+still be able to have a map that does what \(T\) would do. If we are
+able to do what \(T\) would do, then when modding out \(U\) we only
+removed part of \(\text{null }T\) and lost no information.
+
+\hypertarget{forward-direction}{%
+\section{Forward Direction}\label{forward-direction}}
+
+Intuitively, we can treat \(S \circ \pi\) as a single map and take a
+basis of \(V\) to the same place that \(T\) would, and the maps would be
+equal.
+
+\sout{If \(V\) is finite dimensional, suppose \(v_1, \ldots, v_n\) is a
+basis of \(V\) and \(v_1, \ldots, v_k\) is a basis of \(U\)
+(\(k = \text{dim } U\) and \(n = \text{dim }V\)).} \sout{For each
+\(k < j \le n\), \(\pi v_j \neq 0\), and we can control where \(S\)
+should send it. Let \(S\) be defined by:} \[ S( \pi v_j) = T v_j \]
+\sout{Then, \(S \circ \pi\) will send each vector in \(U\) to 0 and each
+other vector where \(T\) would send it. Because
+\(U \subseteq \text{null }T\), \(S \circ \pi = T\).}
+
+\sout{This argument does not work for infinite dimensional vector
+spaces. Instead, perhaps we can send anything not in \(U\) to where
+\(T\) would send it and show that the resulting \(S\) is linear? I'm not
+convinced by the following argument:}
+
+\sout{Let \(S : V/U \to W\) s.t. \(S(\pi v) = Tv\). Then,
+\(S \circ \pi = T\).}
+
+\sout{For \(S\) to be linear, it needs to be additive and homogenous.
+For \(u, v \in V\) and \(\lambda \in \mathbb F\),} \sout{.
+\[ S\pi u + S\pi v = Tu + Tv = T(u+v) = S(\pi u + \pi v) \] .} \sout{.
+\[ \lambda S \pi u = \lambda T u = T(\lambda u) = S (\lambda \pi u) \]
+.}
+
+\sout{In other words, \(T\) is linear thus \(S \circ \pi\) is also
+linear.}
+
+Let \(S\) be a relation between \(V/U\) and \(W\) defined by \[
+S(U+v) = Tv
+\]
+
+If \(S\) is well defined (every element in \(V/U\) is mapped to exactly
+one place), then \(S\) will inherit additivity and homogeneity from
+\(T\) and \(S \circ \pi\) will equal \(T\).
+
+Let \(v \in V\) and \(v' \in V/U\) s.t. \(v' = \pi v\) (\(v'\) is where
+\(\pi\) takes \(v\)). Then, to show that \(S\) is well defined, we must
+show that \(v\) has atleast one and at most one image through
+\(S \circ \pi\).
+
+Because \(\pi v\) is well defined, and \(U+v\) was arbitrary in the
+definition of \(S\), each \(v\) must have atleast one image in \(W\).
+
+Take \(S\) to be an arbitrary linear map. The only restriction on \(S\)
+that could cause \(S(U+v) \neq Tv\) is \(S(0) = 0\) (this statement is
+not watertight). Thus, \(S\) is defined if \(\forall U+v = U = 0\),
+\(Tv = 0\). Equivalently, \(S\) is defined if
+\(U \subseteq \text{null }T\), which is given in the problem.
+
+Thus, \(S\) is well defined. To show that it inherits additivity and
+homogeneity: \[
+S(U+u) + S(U+v) = Tu + Tv = T(u+v) = S(U+u + U+v) = S(U+(u+v))
+\] \[
+\lambda\left(S(U+v)\right) = \lambda Tv = T(\lambda v) = S(U+(\lambda v))
+\]
+
+Thus, \(S\) is linear, and \(S \circ \pi = T\) if
+\(U \subseteq \text{null }T\).
+
+\hypertarget{define-su-v-t-v}{%
+\subsection{define S(U + v) = T v}\label{define-su-v-t-v}}
+
+\hypertarget{check-that-it-is-well-defined}{%
+\subsubsection{check that it is well
+defined}\label{check-that-it-is-well-defined}}
+
+\begin{enumerate}
+\item
+  every element is sent to exactly one place
+\end{enumerate}
+
+\hypertarget{check-that-linearity-is-inhereted-from-t}{%
+\subsubsection{check that linearity is inhereted from
+T}\label{check-that-linearity-is-inhereted-from-t}}
+
+\hypertarget{reverse-direction-by-contrapositive}{%
+\section{Reverse Direction by
+Contrapositive}\label{reverse-direction-by-contrapositive}}
+
+Intuitively, if we lost information, then we can't reconstruct what
+\(T\) would do.
+
+Assume \(U \nsubseteq \text{null }T\). There exists \(v \in U\) s.t.
+\(Tv \neq 0\). This is some of the "information" that was "lost".
+Because \(v \in U\), \[ \pi v = U + v = U \] Because \(U\) is the
+additive identity (\(0\)) in \(V/U\), and because linear maps take zero
+to zero, \(S \in \mathcal L(V/U, W)\) must take \(\pi v = 0\) to zero.
+Thus, either \(S(\pi v) \neq Tv\) or \(S\) is not a linear map, both of
+which are contradictions.
+
+This shows that if \(U \nsubseteq \text{null }T\), then
+\(S \notin \mathcal L(V/U, W)\) or \(T \neq S \circ \pi\). Thus, if
+\(S \in \mathcal L(V/U, W)\) and \(T = S \circ \pi\), then
+\(U \subseteq \text{null }T\).
+
+\end{document}

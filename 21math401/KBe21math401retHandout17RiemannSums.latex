@@ -1,0 +1,360 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Handout 17 Riemann Sums }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9572)}}    % original
+%\rhead{\textrmlf{Compiled }\#9572\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#9572
+  \textrmlf{ on}
+      \today
+  }       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{reading}{%
+\section{Reading}\label{reading}}
+
+\setcounter{subsubsection}{7}
+
+\hypertarget{definition-of-a-definite-integral}{%
+\subsection{Definition of a Definite
+Integral}\label{definition-of-a-definite-integral}}
+
+For each interval \([x_i, x_{i+1}]\), we choose \(x_i^*\) in the
+interval to be the position of the minimum (for lower bound) or maximum
+(upper bound) value.
+
+\hypertarget{problems}{%
+\section{Problems}\label{problems}}
+
+\hypertarget{exr1.3}{%
+\subsection{exr1.3}\label{exr1.3}}
+
+Using the left edge: -8.4375
+
+Summation notation for left edge approximation: \[\begin{aligned}
+   \sum_{i=0}^n \underbrace{\frac{b-a}{n}}_{\text{ width }} \underbrace{f\left(a+\frac{b-a}{n}i\right)}_\text{ height }
+   \end{aligned}\]
+
+\hypertarget{exr1.4-in-class}{%
+\subsection{exr1.4 (in class)}\label{exr1.4-in-class}}
+
+0.21875 using the left estimate
+
+\hypertarget{exr1.5}{%
+\subsection{exr1.5}\label{exr1.5}}
+
+\hypertarget{left-estimate}{%
+\subsubsection{left estimate}\label{left-estimate}}
+
+34.7 feet (add all except last number and divide by two, because we are
+stopping at 3.0 seconds in.)
+
+\hypertarget{right-estimate}{%
+\subsubsection{right estimate}\label{right-estimate}}
+
+44.8 feet (add the last number and drop the zero from the beginning)
+
+\hypertarget{middle-estimate}{%
+\subsubsection{middle estimate}\label{middle-estimate}}
+
+Not enough information to do it for \(\Delta x = 0.5\), so I will use
+\(n=3\) aka \(\Delta x = 1\)
+
+\[\begin{aligned}
+    6.2 + 14.9 + 19.4 = 40.5 \text{ feet }
+    \end{aligned}\]
+
+\hypertarget{exr1.6}{%
+\subsection{exr1.6}\label{exr1.6}}
+
+\hypertarget{int_01-sqrtx21dx}{%
+\subsubsection{\texorpdfstring{\(\int_0^1 \sqrt{x^2+1}dx\)}{\textbackslash int\_0\^{}1 \textbackslash sqrt\{x\^{}2+1\}dx}}\label{int_01-sqrtx21dx}}
+
+\(\sqrt{x^2+1}\) is the length the hypotenuse of a triangle with
+leg-lengths 1 and \(x\). Because \(x\) is continuous, this is like the
+area of a right triangle with leg-lengths 1 and 1, which is
+\boxed{\frac{1}{2}}.
+
+\begin{enumerate}
+\item
+  {TODO} Wolfram Alpha doesn't agree though
+
+  Probably because as you take approximations, there will be overlap, so
+  the actual value is bigger than I think it is.
+
+  I also don't know how to take the anti-chain-rule, so I don't know how
+  to integrate the function symbolically.
+\end{enumerate}
+
+\hypertarget{int_03-x-1dx}{%
+\subsubsection{\texorpdfstring{\(\int_0^3 (x-1)dx\)}{\textbackslash int\_0\^{}3 (x-1)dx}}\label{int_03-x-1dx}}
+
+Not sure area wise, but the anti-derivative is guess-able:
+
+\[\begin{aligned}
+    \frac{d}{dx}\left( \frac{x^2}{2} -x\right) = x-1
+    \end{aligned}\]
+
+\[\begin{aligned}
+    \frac{3^2}{2}-3 = 1.5
+    \end{aligned}\]
+
+\hypertarget{exr1.7}{%
+\subsection{exr1.7}\label{exr1.7}}
+
+\hypertarget{right-endpoint-approx-for-yx2}{%
+\subsubsection{\texorpdfstring{right endpoint approx for
+\(y=x^2\)}{right endpoint approx for y=x\^{}2}}\label{right-endpoint-approx-for-yx2}}
+
+\[\begin{aligned}
+    \sum_{i=1}^{n+1} \Delta x f(i \Delta x) = \sum_{i=1}^{n+1} \frac{1}{n} \left( \frac{i}{n}\right) ^2
+    \end{aligned}\] where \(\Delta x = \frac{1}{n}\)
+
+\hypertarget{general-form-for-left-side-riemann-sum}{%
+\subsubsection{general form for left-side riemann
+sum}\label{general-form-for-left-side-riemann-sum}}
+
+See exr1.3
+
+\hypertarget{exr1.11}{%
+\subsection{exr1.11}\label{exr1.11}}
+
+\[\begin{aligned}
+   \int_\pi^{2\pi} \cos(x)dx = \lim_{n\to \infty} \sum_{i=0}^n \frac{\pi}{n}\cos\left( \pi + \frac{i\pi}{n}\right)
+   \end{aligned}\]
+
+\hypertarget{exr1.12}{%
+\subsection{exr1.12}\label{exr1.12}}
+
+\hypertarget{section}{%
+\subsubsection{1}\label{section}}
+
+\[\begin{aligned}
+    \lim_{n \to \infty} \sum_{k=0}^n \Delta x \sqrt{4+(1+k\Delta x)^2} \text{ where }\Delta x = \frac{2}{n}
+    \end{aligned}\]
+
+\hypertarget{section-1}{%
+\subsubsection{2}\label{section-1}}
+
+\[\begin{aligned}
+    \lim_{n \to  \infty} \sum_{k=0}^n \Delta x(2+k\Delta x)^2 + \frac{1}{2+k\Delta x} \text{ where } \Delta x = \frac{3}{n}
+    \end{aligned}\]
+
+\hypertarget{exr1.13}{%
+\subsection{exr1.13}\label{exr1.13}}
+
+\hypertarget{section-2}{%
+\subsubsection{1}\label{section-2}}
+
+\[\begin{aligned}
+    \int_0^1 \frac{e^x}{1+x} dx
+    \end{aligned}\]
+
+\hypertarget{section-3}{%
+\subsubsection{2}\label{section-3}}
+
+\[\begin{aligned}
+    \int_2^5 x\sqrt{1+x^3}dx
+    \end{aligned}\]
+
+\hypertarget{section-4}{%
+\subsubsection{3}\label{section-4}}
+
+\[\begin{aligned}
+    \int_1^3 \frac{x}{x^2+4}dx
+    \end{aligned}\]
+
+\hypertarget{exr1.14}{%
+\subsection{exr1.14}\label{exr1.14}}
+
+Graphically, it's the right triangle from origin to B minus the one from
+origin to A. Algebraically,
+
+\[\begin{aligned}
+   \frac{d}{dx}\frac{1}{2}x^2 = x\\
+&\implies \int_a^b xdx = \frac{1}{2}b^2 + c - \left(\frac{1}{2} a^2 + c\right) = \frac{b^2-a^2}{2}
+   \end{aligned}\]
+
+\end{document}

@@ -1,0 +1,230 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7157)}}    % original
+%\rhead{\textrmlf{Compiled }\#7157\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7157\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+A quotient space is similar to a modulo because both take some subpart
+of the structure and smoosh it to zero.
+
+\hypertarget{looking-at-vu}{%
+\section{looking at V/U}\label{looking-at-vu}}
+
+\hypertarget{set-of-affine-subsets-vu-v-v}{%
+\subsection{set of affine subsets (\$\textbackslash\{ v+U : v ∈ V
+\textbackslash\})}\label{set-of-affine-subsets-vu-v-v}}
+
+\hypertarget{modding-out-by-u-a-subspace-means-it-gets-collapsed-to-zero}{%
+\subsection{"modding out by U" (a subspace) means it gets collapsed to
+zero}\label{modding-out-by-u-a-subspace-means-it-gets-collapsed-to-zero}}
+
+\hypertarget{could-just-call-the-line-zero-or-carry-the-entire-thing-as-an-element}{%
+\subsubsection{could just "call the line zero" or carry the entire thing
+as an
+element}\label{could-just-call-the-line-zero-or-carry-the-entire-thing-as-an-element}}
+
+\hypertarget{these-are-not-subspaces-because-most-of-them-dont-include-zero}{%
+\subsubsection{these are NOT subspaces because most of them don't
+include
+zero!}\label{these-are-not-subspaces-because-most-of-them-dont-include-zero}}
+
+\hypertarget{vu-is-isomorphic-to-the-perpendicular-line}{%
+\subsection{V/U is isomorphic to the perpendicular
+line}\label{vu-is-isomorphic-to-the-perpendicular-line}}
+
+\hypertarget{if-two-vetors-end-up-on-the-same-affine-subset-then-when-you-subtract-them-their-difference-is-an-element-of-u-and-thus-the-same-as-zero}{%
+\subsection{if two vetors end up on the same affine subset, then when
+you subtract them, their difference is an element of U and thus the same
+as
+zero}\label{if-two-vetors-end-up-on-the-same-affine-subset-then-when-you-subtract-them-their-difference-is-an-element-of-u-and-thus-the-same-as-zero}}
+
+\hypertarget{now-looking-at-modulo}{%
+\section{now looking at modulo}\label{now-looking-at-modulo}}
+
+\hypertarget{z-7-is-similar-because-when-you-subtract-two-that-end-up-in-the-same-group-the-difference-is-an-element-of-the-modulus-and-the-diff-is-thus-zero}{%
+\subsection{\texorpdfstring{\mathbb Z \% 7 is similar because when you
+subtract two that end up in the same 'group', the difference is an
+'element' of the modulus and the diff is thus
+zero}{ Z \% 7 is similar because when you subtract two that end up in the same 'group', the difference is an 'element' of the modulus and the diff is thus zero}}\label{z-7-is-similar-because-when-you-subtract-two-that-end-up-in-the-same-group-the-difference-is-an-element-of-the-modulus-and-the-diff-is-thus-zero}}
+
+\hypertarget{question-can-we-mod-one-element-in-r2-to-get-the-same-line-collapsing-thing}{%
+\subsection{\texorpdfstring{{TODO} question: can we mod one element in
+\mathbb R\textsuperscript{2} to get the same 'line collapsing'
+thing?}{TODO question: can we mod one element in  R2 to get the same 'line collapsing' thing?}}\label{question-can-we-mod-one-element-in-r2-to-get-the-same-line-collapsing-thing}}
+
+\hypertarget{not-really-right-because-modulo-is-skippy-while-space-division-is-a-whole-space}{%
+\subsubsection{not really, right? because modulo is skippy while space
+division is a whole
+space}\label{not-really-right-because-modulo-is-skippy-while-space-division-is-a-whole-space}}
+
+\end{document}

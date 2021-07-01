@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title>  </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong></strong> </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>:</p>
+            <h1 id="find-taylor-series">find taylor series</h1>
+            <h2 id="y-cosx"><span class="math inline">\(y = \cos(x)\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+                P_n(x) &amp;= f(0) &amp;+&amp; \frac{d}{dx}f(0)x &amp;+&amp; \frac{\frac{d^2}{d^2x}f(0)}{2!}x^2 &amp;+&amp; \frac{\frac{d^3}{d^3x}f(0)}{3!}x^3 &amp;+&amp; \cdots\\
+                    &amp;= \cos(0) &amp;-&amp;\sin(0)x &amp;+&amp; \frac{-\cos(0)}{2!}x^2 &amp;+&amp; \frac{\sin(0)}{3!}x^3 &amp;+&amp; \cdots\\
+                    &amp;= 1 &amp;-&amp; 0 x &amp;-&amp; \frac{1}{2!}x^2 &amp;+&amp; \frac{0}{3!}x^3 &amp;+&amp; \cdots\\
+                    &amp;= 1 &amp;&amp; &amp;-&amp; \frac{1}{2!}x^2 &amp;&amp; &amp;+&amp; \frac{1}{4!} x^4 + \cdots\\
+                    &amp;= \sum_{k=0} \frac{(-1)^k}{(2k)!}x^{2k}
+               \end{aligned}\]</span></p>
+            <h2 id="y-ex"><span class="math inline">\(y = e^x\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+               P_n(x) &amp;= f(0) &amp;+&amp; \frac{d}{dx}f(0)x &amp;+&amp; \frac{\frac{d^2}{d^2x}f(0)}{2!}x^2 &amp;+&amp; \frac{\frac{d^3}{d^3x}f(0)}{3!}x^3 &amp;+&amp; \cdots\\
+                      &amp;= e^0 &amp;+&amp; e^0x &amp;+&amp; \frac{e^0}{2!}x^2 &amp;+&amp; \frac{e^0}{3!}x^3 &amp;+&amp; \cdots\\
+                      &amp;= 1 &amp;+&amp; x &amp;+&amp; \frac{1}{2!}x^2 &amp;+&amp; \frac{1}{3!}x^3 &amp;+&amp; \cdots\\
+                      &amp;= \sum_{k=0} \frac{x^k}{k!}
+               \end{aligned}\]</span></p>
+            <h2 id="y-sqrt-x-centered-at-x1"><span class="math inline">\(y = \sqrt x\)</span> centered at <span class="math inline">\(x=1\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+               P_n(x) &amp;= f(1) &amp;+&amp; \frac{d}{dx}f(1)(x-1) &amp;+&amp; \frac{\frac{d^2}{d^2x}f(1)}{2!}(x-1)^2 &amp;+&amp; \frac{\frac{d^3}{d^3x}f(1)}{3!}(x-1)^3 &amp;+&amp; \cdots\\
+                      &amp;= 1 &amp;+&amp; \frac{1}{2}(x-1) &amp;+&amp; \frac{\frac{1}{2}\frac{-1}{2}}{2!}(x-1)^2 &amp;+&amp; \frac{\frac{1}{2}\frac{-1}{2}\frac{-3}{2}}{3!}(x-1)^3 &amp;+&amp; \cdots\\
+               \end{aligned}\]</span> I don’t know how to write it using summation notation though..</p>
+            <h1 id="prove-approximations">prove approximations</h1>
+            <h2 id="frac11-x-1-x-x2-x3-cdots"><span class="math inline">\(\frac{1}{1-x} = 1 + x + x^2 + x^3 + \cdots\)</span></h2>
+            <p>Proof by geometric series</p>
+            <h2 id="frac11x-1---x-x2---x3-cdots"><span class="math inline">\(\frac{1}{1+x} = 1 - x + x^2 - x^3 + \cdots\)</span></h2>
+            <p>Plug <span class="math inline">\(-x\)</span> for <span class="math inline">\(x\)</span> in the previous equation.</p>
+            <h2 id="frac11x2-1---x2-x4---x6-cdots"><span class="math inline">\(\frac{1}{1+x^2} = 1 - x^2 + x^4 - x^6 + \cdots\)</span></h2>
+            <p>Plug <span class="math inline">\(x^2\)</span> for <span class="math inline">\(x\)</span> in the previous equation.</p>
+            <h1 id="more-finding-of-polynomial">more finding of polynomial</h1>
+            <h2 id="y-ln-1x"><span>TODO</span> $ y = ln (1+x)$</h2>
+            <h2 id="y-tan--x"><span>TODO</span> <span class="math inline">\(y = \tan^- x\)</span></h2>
+            <h2 id="y-1xk"><span class="math inline">\(y = (1+x)^k\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+               P_n(x) &amp;= f(0) &amp;+&amp; \frac{d}{dx}f(0)x &amp;+&amp; \frac{\frac{d^2}{d^2x}f(0)}{2!}x^2 &amp;+&amp; \frac{\frac{d^3}{d^3x}f(0)}{3!}x^3 &amp;+&amp; \cdots\\
+                      &amp;= 1 + k(1)^k &amp;+&amp; k(k-1)(1)^{k-1}x &amp;+&amp; \frac{k(k-1)(k-2)(1)^{k-2}}{2!}x^2 &amp;+&amp; \frac{k(k-1)(k-2)(k-3)(1)^{k-3}}{3!}x^3 &amp;+&amp; \cdots\\
+                      &amp;= 1 + k &amp;+&amp; k(k-1)x &amp;+&amp; \frac{k(k-1)(k-2)}{2!}x^2 &amp;+&amp; \frac{k(k-1)(k-2)(k-3)}{3!}x^3 &amp;+&amp; \cdots\\
+                      &amp;= 1 + k &amp;+&amp; \frac{k!}{(k-1)!}x &amp;+&amp; \frac{\frac{k!}{(k-2)!}}{2!}x^2 &amp;+&amp; \frac{\frac{k!}{(k-3)!}}{3!}x^3 &amp;+&amp; \cdots\\
+                      &amp;= 1 + k &amp;+&amp; \frac{k!x}{(k-1)!} &amp;+&amp; \frac{k!}{(k-2)!2!}x^2 &amp;+&amp; \frac{k!}{(k-3)!3!}x^3 &amp;+&amp; \cdots\\
+                      &amp;= {k \choose 0} + {k \choose 1}x &amp;+&amp; {k \choose 2}x^2 &amp;+&amp; {k \choose 3}x^3 &amp;+&amp; \cdots\\
+                      &amp;= \sum_{i=0} {k \choose i} x^i
+                \end{aligned}\]</span></p>
+            <h1 id="find-sum-of-series-by-recognizing-taylor-series-approximations-of-some-functions">find sum of series by recognizing Taylor Series approximations of some functions</h1>
+            <h2 id="frac92-frac273-frac814-cdots"><span class="math inline">\(3 + \frac{9}{2!} + \frac{27}{3!} + \frac{81}{4!} + \cdots\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+               3 &amp;+&amp; \frac{9}{2!} &amp;+&amp; \frac{27}{3!} &amp;+&amp; \frac{81}{4!} = e^3 - 1
+               \end{aligned}\]</span></p>
+            <h2 id="ln-2-fracln-2-22-fracln-3-23-cdots"><span class="math inline">\(1-\ln 2 + \frac{\ln ^2 2}{2!} + \frac{\ln ^3 2}{3!} + \cdots\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+               1-\ln 2 + \frac{\ln ^2 2}{2!} + \frac{\ln ^3 2}{3!} + \cdots = e^{-\ln 2} = \frac{1}{2}
+                \end{aligned}\]</span></p>
+            <h2 id="sum_k0infty-frac-1k-pi2k142k12k1"><span class="math inline">\(\sum_{k=0}^\infty \frac{(-1)^k \pi^{2k+1}}{4^{2k+1}(2k+1)!}\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+            \sum_{k=0}^\infty \frac{(-1)^k \pi^{2k+1}}{4^{2k+1}(2k+1)!} =
+            \sum_{k=0}^\infty \frac{(-1)^k \left(\frac{\pi}{4}^{2k+1}\right)}{(2k+1)!} =
+            \sin \frac{\pi}{4} = \frac{\sqrt 2}{2}
+            \end{aligned}\]</span></p>
+            <h1 id="evaluate-limits-using-taylor-series-approx">evaluate limits using taylor series approx</h1>
+            <h2 id="limlimits_xto-0-fracsin-x---x-frac16-x3x5"><span class="math inline">\(\lim\limits_{x\to 0} \frac{\sin x - x + \frac{1}{6} x^3}{x^5}\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+                \lim\limits_{x\to 0} \frac{\sin x - x + \frac{1}{6} x^3}{x^5}\\
+                =&amp; \lim\limits_{x\to 0} \frac{\cancel x-\frac{x^3}{6}+\frac{x^5}{5!} + \cdots \cancel{- x} + \frac{x^3}{6}}{x^5}\\
+                =&amp; \lim\limits_{x\to 0} \frac{\cancel{-\frac{x^3}{6}+}\frac{x^5}{5!} + \cdots \cancel{+ \frac{x^3}{6}}}{x^5}\\
+                =&amp; \lim\limits_{x\to 0} \frac{\frac{\cancel{x^5}}{5!} + \cdots}{x^5}\\
+                =&amp; \lim\limits_{x\to 0} \frac{1}{5!} + \frac{x^7}{x^5 7!} + \frac{x^9}{x^5 9!} \cdots\\
+                =&amp; \frac{1}{5!}
+               \end{aligned}\]</span></p>
+            <h2 id="limlimits_xto-0fracx-tan--xx3"><span>TODO</span> <span class="math inline">\(\lim\limits_{x\to 0}\frac{x-\tan^- x}{x^3}\)</span></h2>
+            <h1 id="find-taylor-series-approximations">find taylor series approximations</h1>
+            <h2 id="y-ex-e-x"><span class="math inline">\(y = e^x + e^{-x}\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+               e^x + e^{-x}\\
+               =&amp; 1 + x + \frac{x^2}{2!} \frac{x^3}{3!} + \cdots + 1 - x + \frac{x^2}{2!} - \frac{x^3}{3!}\\
+               =&amp; 1 + 1 + x - x + \frac{x^2}{2!} + \frac{x^2}{2!} + \frac{x^3}{3!} - \frac{x^3}{3^1} + \cdots\\
+               =&amp; 2\left(1 + \frac{x^2}{2!} + \frac{x^4}{4!} + \cdots \right)\\
+               =&amp; 2\sum_{k=0}\frac{x^{2k}}{(2k)!}
+               \end{aligned}\]</span></p>
+            <h2 id="y-sin-pi-x"><span class="math inline">\(y = \sin (\pi x)\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+               \sin (\pi x) = \sum_{k=0} \frac{(-1)^k (\pi x)^{2k+1}}{(2k+1)!}
+
+               \end{aligned}\]</span> (just plug it in)</p>
+            <h2 id="y-sin2-x"><span>TODO</span> <span class="math inline">\(y = \sin^2 x\)</span></h2>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

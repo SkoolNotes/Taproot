@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1562)}}    % original
+%\rhead{\textrmlf{Compiled }\#1562\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1562\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -177,7 +179,7 @@
 pre-modern times.
 \end{quote}
 
-See {[}{[}KBhHIST201EuropeOnTheBrink{]}{]}
+See {[}{[}KBhHIST201Europe1500s{]}{]}
 
 \hypertarget{the-early-global-players}{%
 \subsection{The Early Global Players}\label{the-early-global-players}}

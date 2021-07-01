@@ -1,0 +1,307 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8028)}}    % original
+%\rhead{\textrmlf{Compiled }\#8028\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8028\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{linear-approximations}{%
+\section{linear approximations}\label{linear-approximations}}
+
+\hypertarget{cube-root}{%
+\subsection{cube root}\label{cube-root}}
+
+\hypertarget{approximation}{%
+\subsubsection{approximation}\label{approximation}}
+
+\[ (1+x)^{\frac{1}{3}} \to \frac{1}{3} (1+x)^{\frac{-2}{3}} \] at
+\(x = 0\) is \[ \frac{1}{3} (1+0) ^ {\text{...}} = \frac{1}{3} \] so the
+linear approximation is \[ y \approx m(x-0)+f(0) = \frac{1}{3}x+1 \]
+
+\hypertarget{estimations}{%
+\subsubsection{estimations}\label{estimations}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+value & estimate \\ \addlinespace
+\midrule
+\endhead
+0.05 & 1.016666 \\ \addlinespace
+-0.25 & 0.916666 \\ \addlinespace
+\bottomrule
+\end{longtable}
+
+These will be overestimates because the graph is concave down in this
+reigon.
+
+\hypertarget{sinx}{%
+\subsection{sin(x)}\label{sinx}}
+
+\hypertarget{approximation-1}{%
+\subsubsection{approximation}\label{approximation-1}}
+
+\[ y \approx \frac{d}{dx} \sin x \Bigr|_0 (x-0) + \sin 0 = x \]
+
+\hypertarget{estimates}{%
+\subsubsection{estimates}\label{estimates}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+value & estimate \\ \addlinespace
+\midrule
+\endhead
+-0.1 & -0.1 \\ \addlinespace
+0.1 & 0.1 \\ \addlinespace
+\bottomrule
+\end{longtable}
+
+The first estimate will be an underestimate because \(\sin x\) is
+concave up in that reigon. The opposite is true for the second estimate.
+
+\hypertarget{unknown-function-only-some-points-known}{%
+\subsection{unknown function (only some points
+known}\label{unknown-function-only-some-points-known}}
+
+\hypertarget{approximation-2}{%
+\subsubsection{approximation}\label{approximation-2}}
+
+\[ y \approx \frac{d}{dx} f(x) \Bigr|_c (x-c) + f(c) \] plugging in
+\(c = 1\), \[ y \approx 5(x-1)-4 \]
+
+\hypertarget{estimations-1}{%
+\subsubsection{estimations}\label{estimations-1}}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+value & estimate \\ \addlinespace
+\midrule
+\endhead
+1.2 & -3 \\ \addlinespace
+\bottomrule
+\end{longtable}
+
+This will be an underestimate because the second derivative is positive
+and the graph is thus concave up.
+
+\hypertarget{differentials}{%
+\section{differentials}\label{differentials}}
+
+For a function \(y = f(x)\), \(dy\) and \(dx\) are diferentials and the
+relationship is
+\(dy = f'(x) dx = \frac{L(a+\Delta a)-L(a)}{\cancel{dx}} \cancel{dx}\).
+
+For a function written \(f(x) = \text{(something)}\), the differentials
+are \(df\) and \(dx\) and the relationship is the same:
+\(df = f'(x) dx\).
+
+\hypertarget{cube-error}{%
+\subsection{cube error}\label{cube-error}}
+
+\hypertarget{differential}{%
+\subsubsection{differential}\label{differential}}
+
+\[\begin{split}df &= f'(x) dx\\ &= 3x^2 dx\end{split}\]
+
+\hypertarget{volume-error}{%
+\subsubsection{volume error}\label{volume-error}}
+
+If I understand the use of differentials corretly, then \(x\) is the
+measured value (\(2\)) and \(dx\) is the uncertainty (delta x), or
+\(0.2 \text{ft}\). Then, the change in the volume (change in fuction or
+\(df\)) would be \(3(2)^2 (0.2) = 2.4\)
+
+\hypertarget{max-error-for-some-epsilon}{%
+\subsubsection{\texorpdfstring{max error for some
+\(\epsilon\)}{max error for some \textbackslash epsilon}}\label{max-error-for-some-epsilon}}
+
+\[
+    \begin{aligned}
+    df &\approx 3x^2 dx\\
+    dx &\approx \frac{df}{3x^2}\\
+       &\approx \frac{1}{3(2)^2}\\
+       &\approx \frac{1}{12} \text{ ft} = 1 \text{in}
+    \end{aligned}
+    \]
+
+\hypertarget{sphere-measuring}{%
+\subsection{sphere measuring}\label{sphere-measuring}}
+
+\[
+   \begin{aligned}
+   f(r) &= \frac{4}{3}\pi r^3\\
+   \frac{df}{dr} &= 4\pi r^2\\
+   df &= 4\pi r^2 (dr)\\
+   &= 4\pi 21^2 (0.05) = \pm88.4 \pi \text{ cm}^3
+   \end{aligned}
+   \]
+
+\end{document}

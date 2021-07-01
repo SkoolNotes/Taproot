@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1663)}}    % original
+%\rhead{\textrmlf{Compiled }\#1663\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1663\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -230,5 +232,40 @@ the 1500s
 \subsection{China's Woes}\label{chinas-woes}}
 
 See {[}{[}KBhHIST201ChinaWoes1500{]}{]}China's Woes in the 1500s
+
+\hypertarget{cn-09302020}{%
+\subsection{CN 09302020}\label{cn-09302020}}
+
+\#flo \#disorganized
+
+\begin{itemize}
+\tightlist
+\item
+  Problem: china conqurs you
+\end{itemize}
+
+So\ldots{} Either:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Retreat and defend the southern heartland
+\item
+  Larger barbarians leads larger people =\textgreater{} then\ldots{}
+  Sinufication
+\end{enumerate}
+
+KangXi the renaissance man
+
+\begin{itemize}
+\tightlist
+\item
+  Showed himself as a Manchu who rids and works to the Manchus
+\item
+  Showed himself as a well-read guy to the Chinese
+\end{itemize}
+
+Reminder: \textbf{trade resumed!!}
 
 \end{document}

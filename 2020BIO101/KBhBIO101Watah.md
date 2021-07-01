@@ -7,7 +7,7 @@ source: KBBiologyMasterIndex
 
 # Alright, let's talk about water.
 
-![Watah!](./2020BIO101/Screen Shot 2020-08-24 at 10.08.34 PM.png)
+![Watah!](./Screen Shot 2020-08-24 at 10.08.34 PM.png)
 
 ## Intra-Molecular water bonds
 
@@ -16,6 +16,8 @@ source: KBBiologyMasterIndex
 * The difference >0.4 <1.7 makes these bonds **polar covalent**
 
 See [[KBhBIO101BondingReview]], bonding review
+
+[[Test]]
 
 ## Why is ice less dense? 
 * Freezing usually bring new ordering of molecules to make it paced
@@ -45,3 +47,4 @@ See also [[KBhBIO101PropsOfWater]] Properties of Water
 * Sticky => strong bonds that help water hold together + resist change in temperature (hence why AlcaholLand cannot exist).
     * Varing te (incomplete #todo-houjun @jemoka)
 * Is universal solvent
+

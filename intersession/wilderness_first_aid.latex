@@ -1,0 +1,828 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+%\setmainfont[
+%   ItalicFont     = HelveticaNeue-Italic,
+%   BoldFont       = HelveticaNeue-Bold,
+%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight[
+%   ItalicFont     = HelveticaNeue-LightItalic,
+%   BoldFont       = HelveticaNeue-UltraLight,
+%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+\setmainfont[
+   ItalicFont     = Iosevka-Aile-Italic,
+   BoldFont       = Iosevka-Aile-Bold,
+   BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+\newfontfamily\NHLight[
+   ItalicFont     = Iosevka-Aile-Light-Italic,
+   BoldFont       = Iosevka-Aile-Light,
+   BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Flo--wilderness first aid }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6484)}}    % original
+%\rhead{\textrmlf{Compiled }\#6484\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6484\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{diff-between-normal-first-aid-and-wilderness-first-aid}{%
+\section{diff between normal first aid and wilderness first
+aid}\label{diff-between-normal-first-aid-and-wilderness-first-aid}}
+
+\hypertarget{when-you-are-2-hours-away-from-a-hospital}{%
+\subsection{when you are 2 hours away from a
+hospital}\label{when-you-are-2-hours-away-from-a-hospital}}
+
+\hypertarget{either-far-or-will-tike-a-while-to-get-there}{%
+\subsubsection{either far or will tike a while to get
+there}\label{either-far-or-will-tike-a-while-to-get-there}}
+
+\hypertarget{requires}{%
+\section{requires}\label{requires}}
+
+\hypertarget{improv}{%
+\subsection{improv}\label{improv}}
+
+\hypertarget{thinking-on-the-fly}{%
+\subsection{thinking on the fly}\label{thinking-on-the-fly}}
+
+\hypertarget{treating-without-100-diagnosis}{%
+\subsection{treating without 100\%
+diagnosis}\label{treating-without-100-diagnosis}}
+
+\hypertarget{think-about-what-body-systems-are-being-impacted}{%
+\subsection{think about what body systems are being
+impacted}\label{think-about-what-body-systems-are-being-impacted}}
+
+\hypertarget{body-systems}{%
+\section{body systems}\label{body-systems}}
+
+\hypertarget{respiratory-system}{%
+\subsection{respiratory system}\label{respiratory-system}}
+
+\hypertarget{nose-mouth-airway-lungs-diaphragm}{%
+\subsubsection{nose, mouth, airway, lungs,
+diaphragm}\label{nose-mouth-airway-lungs-diaphragm}}
+
+\hypertarget{things-that-could-go-wrong}{%
+\subsubsection{things that could go
+wrong}\label{things-that-could-go-wrong}}
+
+\begin{enumerate}
+\item
+  liquid in the lungs
+\item
+  puncture to the lungs (rib or external)
+\item
+  choking on something or anything that blocks your airway
+\item
+  allergies and asthma - anaphalaxis
+\end{enumerate}
+
+\hypertarget{cardiovascular-system}{%
+\subsection{cardiovascular system}\label{cardiovascular-system}}
+
+\hypertarget{heart-vessels}{%
+\subsubsection{heart, vessels}\label{heart-vessels}}
+
+\hypertarget{things-that-could-go-wrong-1}{%
+\subsubsection{things that could go
+wrong}\label{things-that-could-go-wrong-1}}
+
+\begin{enumerate}
+\item
+  bleeding
+
+  \begin{enumerate}
+  \item
+    some blood vessels are important (corodal, femeral arteries)
+  \end{enumerate}
+\item
+  heart damage
+\item
+  blood clot / swelling
+\item
+  infection
+\end{enumerate}
+
+\hypertarget{musculoskeletal-system}{%
+\subsection{musculoskeletal system}\label{musculoskeletal-system}}
+
+\hypertarget{things-that-could-go-wrong-2}{%
+\subsubsection{things that could go
+wrong}\label{things-that-could-go-wrong-2}}
+
+\begin{enumerate}
+\item
+  sprain, strain, twisted ankle, jammed finger
+\item
+  break
+\end{enumerate}
+
+\hypertarget{these-other-ones-arent-going-to-be-focusod-on-as-much}{%
+\subsection{these other ones aren't going to be focusod on as
+much}\label{these-other-ones-arent-going-to-be-focusod-on-as-much}}
+
+\hypertarget{integumetntary-system}{%
+\subsubsection{integumetntary system}\label{integumetntary-system}}
+
+\hypertarget{nervous-system}{%
+\subsubsection{nervous system}\label{nervous-system}}
+
+\hypertarget{digestive-system}{%
+\subsubsection{digestive system}\label{digestive-system}}
+
+\hypertarget{urinary-system}{%
+\subsubsection{urinary system}\label{urinary-system}}
+
+\hypertarget{reproductive-system}{%
+\subsubsection{reproductive system}\label{reproductive-system}}
+
+\hypertarget{endocrine-system}{%
+\subsubsection{endocrine system}\label{endocrine-system}}
+
+\hypertarget{lymphaticimmune-system}{%
+\subsubsection{lymphatic/immune system}\label{lymphaticimmune-system}}
+
+\hypertarget{patient-assessment}{%
+\section{patient assessment}\label{patient-assessment}}
+
+\hypertarget{scene-saftey-and-sizeup}{%
+\subsection{scene saftey and sizeup}\label{scene-saftey-and-sizeup}}
+
+\hypertarget{is-this-a-safe-situation-for-you-to-go-into}{%
+\subsubsection{is this a safe situation for you to go
+into?}\label{is-this-a-safe-situation-for-you-to-go-into}}
+
+\hypertarget{if-you-get-hurt-or-sick-then-you-become-a-second-patient}{%
+\subsubsection{if you get hurt or sick, then you become a second
+patient}\label{if-you-get-hurt-or-sick-then-you-become-a-second-patient}}
+
+\hypertarget{unsafe-things-like}{%
+\subsubsection{unsafe things like}\label{unsafe-things-like}}
+
+\begin{enumerate}
+\item
+  a rock falling, bees, a clif, etc
+\end{enumerate}
+
+\hypertarget{personal-protective-equipment}{%
+\subsubsection{personal protective
+equipment}\label{personal-protective-equipment}}
+
+\begin{enumerate}
+\item
+  gloves? goggles?
+\end{enumerate}
+
+\hypertarget{abcs-to-address-urgent-issues}{%
+\subsection{ABCs (to address urgent
+issues)}\label{abcs-to-address-urgent-issues}}
+
+\hypertarget{airway}{%
+\subsubsection{Airway}\label{airway}}
+
+\begin{enumerate}
+\item
+  problems
+
+  \begin{enumerate}
+  \item
+    obstructed?
+  \item
+    damage to the lungs?
+  \end{enumerate}
+\item
+  ways to see (bad)
+
+  \begin{enumerate}
+  \item
+    choking
+  \item
+    coughing
+  \item
+    wheezing
+  \item
+    swelling
+  \end{enumerate}
+\item
+  ways to see (good)
+
+  \begin{enumerate}
+  \item
+    speaking / screaming (their airway is clear)
+  \item
+    chest rise / fall (esp if laying down)
+  \item
+    \textbf{pay attention to if this stops happening}
+  \end{enumerate}
+\item
+  resolve it
+
+  \begin{enumerate}
+  \item
+    heimlich maneuver (IF THEY ARE NOT COUGHING)
+  \item
+    if coughing, KEEP COUGHING, pat on back
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{breathing}{%
+\subsubsection{Breathing}\label{breathing}}
+
+\begin{enumerate}
+\item
+  problems
+
+  \begin{enumerate}
+  \item
+    quality of breath (hyperventilation bad)
+  \item
+    a tightening sound may indicate constriction of airway
+  \end{enumerate}
+\item
+  ways to deal
+
+  \begin{enumerate}
+  \item
+    for allergies / asthma - epipen/inhaler
+
+    \begin{enumerate}
+    \item
+      they should administer it themselves if able
+    \item
+      tripod position - lean them forwards or sitting up
+    \item
+      a bag valve mask
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{circulation}{%
+\subsubsection{Circulation}\label{circulation}}
+
+\begin{enumerate}
+\item
+  problems
+
+  \begin{enumerate}
+  \item
+    puncture wounds or losing blood
+  \end{enumerate}
+\item
+  look for
+
+  \begin{enumerate}
+  \item
+    pulse
+
+    \begin{enumerate}
+    \item
+      close pulses will be stronger, so a strong radial (wrist) pulse is
+      good
+    \end{enumerate}
+  \end{enumerate}
+\item
+  ways to deal
+
+  \begin{enumerate}
+  \item
+    IF HEART NOT BEATING (no pulse) cpr - chest compressions
+  \item
+    major bleed
+
+    \begin{enumerate}
+    \item
+      direct, well aimed pressure
+    \item
+      presssure dressing
+
+      \begin{enumerate}
+      \item
+        pack gauze on wound then wrap as tight as possible WITHOUT
+        cutting off bloodflow
+      \end{enumerate}
+    \item
+      stuff the wound
+    \item
+      turniquet
+
+      \begin{enumerate}
+      \item
+        you won't really come across a situation where this is the best
+        option
+      \item
+        only happens in a severed or nearly severed limb (if its
+        dangling/detatched)
+      \item
+        the patient will lose a limb
+      \end{enumerate}
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{is-there-anything-that-will-be-a-threat-in-five-minutes}{%
+\subsubsection{Is there anything that will be a threat in five
+minutes?}\label{is-there-anything-that-will-be-a-threat-in-five-minutes}}
+
+\hypertarget{figuring-out-what-is-going-on}{%
+\subsection{figuring out what is going
+on}\label{figuring-out-what-is-going-on}}
+
+\hypertarget{overview}{%
+\subsubsection{overview}\label{overview}}
+
+\begin{enumerate}
+\item
+  'make a diagnosis' or as close to one as possible
+\end{enumerate}
+
+\hypertarget{historysample}{%
+\subsubsection{history/SAMPLE}\label{historysample}}
+
+\begin{enumerate}
+\item
+  ask questions
+
+  \begin{enumerate}
+  \item
+    what happened?
+  \item
+    are you sick? did you eat something?
+  \item
+    get the story of the day
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{head-to-toe}{%
+\subsubsection{head to toe}\label{head-to-toe}}
+
+\begin{enumerate}
+\item
+  overview
+
+  \begin{enumerate}
+  \item
+    look and listen to see what's going on
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{vital-signs}{%
+\subsubsection{vital signs}\label{vital-signs}}
+
+\begin{enumerate}
+\item
+  overview
+
+  \begin{enumerate}
+  \item
+    cues about how the body is doing
+  \end{enumerate}
+\item
+  is
+
+  \begin{enumerate}
+  \item
+    heart rate
+
+    \begin{enumerate}
+    \item
+      typcally 60-100 for resting
+    \item
+      might be up if they are hurt or panicked
+    \end{enumerate}
+  \item
+    respratory rate
+  \item
+    blood pressure (unlikely to have the equipment)
+  \item
+    pupils? bad if
+
+    \begin{enumerate}
+    \item
+      head injury - maybe diff pupil size
+    \item
+      not responding to light
+    \item
+      really large
+    \end{enumerate}
+  \item
+    mental state
+
+    \begin{enumerate}
+    \item
+      how conscious are they
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{fix-it}{%
+\subsection{fix it}\label{fix-it}}
+
+\hypertarget{wound}{%
+\subsubsection{wound}\label{wound}}
+
+\hypertarget{breakstrain}{%
+\subsubsection{break/strain}\label{breakstrain}}
+
+\hypertarget{sickness}{%
+\subsubsection{sickness}\label{sickness}}
+
+\hypertarget{evacuation}{%
+\subsubsection{evacuation}\label{evacuation}}
+
+\hypertarget{this-vs-that}{%
+\section{this vs that?}\label{this-vs-that}}
+
+\hypertarget{break-vs-muscle-strain}{%
+\subsection{break vs muscle strain}\label{break-vs-muscle-strain}}
+
+\hypertarget{is-it-stable-or-not-can-you-walk-on-it-can-you-get-yourself-out}{%
+\subsubsection{is it stable or not? can you walk on it / can you get
+yourself
+out?}\label{is-it-stable-or-not-can-you-walk-on-it-can-you-get-yourself-out}}
+
+\hypertarget{a-closed-break-is-not-so-bad-but-an-open-break-is-very-bad}{%
+\subsection{a closed break is not so bad but an open break is very
+bad}\label{a-closed-break-is-not-so-bad-but-an-open-break-is-very-bad}}
+
+\hypertarget{situations}{%
+\section{situations}\label{situations}}
+
+\hypertarget{minor-wound-scrape}{%
+\subsection{minor wound / scrape}\label{minor-wound-scrape}}
+
+\hypertarget{proirites}{%
+\subsubsection{proirites}\label{proirites}}
+
+\begin{enumerate}
+\item
+  infection
+
+  \begin{enumerate}
+  \item
+    area may be red, warm, throbbing, smell, leaking puss
+  \item
+    how to clean a wound
+
+    \begin{enumerate}
+    \item
+      first remove debris (dirt, pebbles) (tebridement)
+    \item
+      flush with clean water (pressure behind water is good)
+    \item
+      disinfectant (alchohol or peroxide)
+
+      \begin{enumerate}
+      \item
+        dont put alchohol directly on an open wound (may dry it out)
+      \item
+        use it around the wound on the skin
+      \item
+        dab with alchohol splashed gauze (dont wipe)
+      \item
+        thin layer for creams and ointments
+      \end{enumerate}
+    \end{enumerate}
+  \item
+    bandage it if:
+
+    \begin{enumerate}
+    \item
+      may get dirty again
+    \item
+      if it might bleed again
+    \item
+      maybe for comfort
+    \item
+      otherwise, open air is better
+    \end{enumerate}
+  \end{enumerate}
+\item
+  bleeding control
+\end{enumerate}
+
+\hypertarget{anklejoint-assesment}{%
+\subsection{ankle/joint assesment}\label{anklejoint-assesment}}
+
+\hypertarget{elevated-vitals-swelling-says-ankle-got-stuck-between-rocks-and-got-twisted}{%
+\subsubsection{elevated vitals, swelling, says ankle got stuck between
+rocks and got
+twisted}\label{elevated-vitals-swelling-says-ankle-got-stuck-between-rocks-and-got-twisted}}
+
+\hypertarget{maybebreak-strain-sprain-roll-etc}{%
+\subsubsection{maybe:break, strain, sprain, roll,
+etc}\label{maybebreak-strain-sprain-roll-etc}}
+
+\begin{enumerate}
+\item
+  break
+
+  \begin{enumerate}
+  \item
+    bone damage
+  \end{enumerate}
+\item
+  strain / sprain
+
+  \begin{enumerate}
+  \item
+    tendon or ligament damage
+  \end{enumerate}
+\item
+  how to tell the difference
+
+  \begin{enumerate}
+  \item
+    something in the middle of a limb, it's probably a break
+  \item
+    something at a joint, it's usually a strain or sprain
+  \item
+    breaks are point tender, strains/sprains are area tender
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{ask-can-it-be-moved}{%
+\subsubsection{ask: can it be moved?}\label{ask-can-it-be-moved}}
+
+\hypertarget{swollen-area-pain-not-much-movement-from-an-ankle-roll-implies-sprain}{%
+\subsubsection{swollen, area pain, not much movement, from an ankle roll
+implies
+sprain}\label{swollen-area-pain-not-much-movement-from-an-ankle-roll-implies-sprain}}
+
+\begin{enumerate}
+\item
+  should use a splint (stop the movement, hold tight in a comfortable
+  location)
+\item
+  can also use compression (stretchy bandage)
+\item
+  ice pack to help with swelling, or advil
+\end{enumerate}
+
+\hypertarget{to-get-out}{%
+\subsubsection{to get out}\label{to-get-out}}
+
+\begin{enumerate}
+\item
+  is it stable? can she walk?
+\item
+  if not, call for the team with the litter/stretcher ('call for help
+  with evacuation')
+\item
+  maybe use a sitting litter (put arms around someone and carry them
+  out)
+\end{enumerate}
+
+\hypertarget{environmental-illness-very-hot-or-very-cold}{%
+\subsection{environmental illness (very hot or very
+cold)}\label{environmental-illness-very-hot-or-very-cold}}
+
+\hypertarget{symptoms}{%
+\subsubsection{symptoms}\label{symptoms}}
+
+\begin{enumerate}
+\item
+  shivering
+\item
+  slurred speach
+\item
+  weird walking / hand fumbles
+\item
+  mumbles, stumbles, fumbles, grumbles
+\item
+  \textbf{get out of wet clothing}
+\item
+  layers / blankets
+\item
+  have them move (not sweaty but warm)
+\item
+  warm or maybe sugary drink
+\end{enumerate}
+
+\hypertarget{dehydration-hyperthermia}{%
+\subsection{dehydration / hyperthermia}\label{dehydration-hyperthermia}}
+
+\hypertarget{heat-exhaustion}{%
+\subsubsection{heat exhaustion}\label{heat-exhaustion}}
+
+\hypertarget{symptoms-1}{%
+\subsubsection{symptoms}\label{symptoms-1}}
+
+\begin{enumerate}
+\item
+  if they feel hot
+\item
+  haven't had enough water
+\item
+  not able to regulate heat
+\item
+  dizzy/lightheaded
+\item
+  stumbling or spacey
+\item
+  stop sweating is very bad
+\end{enumerate}
+
+\hypertarget{hyponutremia}{%
+\subsubsection{hyponutremia}\label{hyponutremia}}
+
+\begin{enumerate}
+\item
+  make sure they eat something (or get electrolytes) while drinking
+  water
+\end{enumerate}
+
+\hypertarget{heat-stroke}{%
+\subsubsection{heat stroke}\label{heat-stroke}}
+
+\begin{enumerate}
+\item
+  rare (deasert with no water for days)
+\end{enumerate}
+
+\hypertarget{if-you-got-lost}{%
+\section{if you got lost}\label{if-you-got-lost}}
+
+\hypertarget{it-depends}{%
+\subsection{it depends}\label{it-depends}}
+
+\hypertarget{what-happened-to-get-you-lost}{%
+\subsubsection{what happened to get you
+lost}\label{what-happened-to-get-you-lost}}
+
+\hypertarget{dont-go-offtrail-have-a-compass-and-map.-tell-someone-where-you-are-going-and-when-you-will-be-back}{%
+\subsubsection{don't go offtrail, have a compass and map. tell someone
+where you are going and when you will be
+back!}\label{dont-go-offtrail-have-a-compass-and-map.-tell-someone-where-you-are-going-and-when-you-will-be-back}}
+
+\hypertarget{can-you-backtrack-safely-as-that-will-be-the-best-bet}{%
+\subsubsection{can you backtrack safely, as that will be the best
+bet}\label{can-you-backtrack-safely-as-that-will-be-the-best-bet}}
+
+\begin{enumerate}
+\item
+  don't wander because you may get more lost
+\end{enumerate}
+
+\hypertarget{get-to-higher-ground-visibly}{%
+\subsubsection{get to higher ground
+visibly}\label{get-to-higher-ground-visibly}}
+
+\hypertarget{shock-position}{%
+\section{shock position}\label{shock-position}}
+
+\hypertarget{use-for-keeping-blood-in-people}{%
+\subsection{use for keeping blood in
+people}\label{use-for-keeping-blood-in-people}}
+
+\end{document}

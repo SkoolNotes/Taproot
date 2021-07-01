@@ -1,0 +1,298 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Proteins }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3550)}}    % original
+%\rhead{\textrmlf{Compiled }\#3550\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3550\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101AminoAcids}{\tiny\textulf{[[}\textbf{KBhBIO101AminoAcids}\textulf{]]}}}\thinspace
+
+\hypertarget{proteins}{%
+\section{Proteins}\label{proteins}}
+
+All cell uses \emph{rybozome} to force {[}{[}KBhBIO101AminoAcids{]}{]}
+together to make proteins. And yes, if you have a high energy source
+that would not require ATP from itself (make life from not life), you
+could get proteans to fold.
+
+\hypertarget{protean-shapes}{%
+\subsection{Protean Shapes}\label{protean-shapes}}
+
+Proteins, when unfolded, is a long chain of amino acids. When they are
+folded in different configurations, you get a working protean.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+The functions of proteins are varied because the primary sequence can be
+varied, effectively building any shape protein to do its specific
+function
+
+\textbf{Form = function} is the idea that the shape or form a protein
+takes through the combination of primary, secondary, tertiary, or
+quaternary structure determines how it will then function. Any changes
+to the structure will have some impact on its function and the more the
+structure is affected the more the function is likely to impacted.
+
+Functions =\textgreater{} defense, movement, structure, transport, cell
+to cell signaling, etc.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+``The Protean Folding Problem'' =\textgreater{} can we find the fold of
+the protean just by the unfolded amino acids?
+
+\hypertarget{protean-primary-structure}{%
+\subsubsection{Protean primary
+structure}\label{protean-primary-structure}}
+
+The linear order of amino acids --- staring from the amino terminus (N,
+exposes the \emph{Amine} end) and moving to carbonxy terminusi (C,
+exposes the \emph{Carboxy} terminus).
+
+Average protean is about 300 amino acids long.
+
+\hypertarget{protean-secondary-structure}{%
+\subsubsection{Protean secondary
+structure}\label{protean-secondary-structure}}
+
+Folding a protean without concern to the amino acid side chains. The
+folding is only concerned with being stabilized with dipole attraction
+to hydrogen.
+
+Two main secondary structures: the alpha helix and beta sheet.
+
+\begin{figure}
+\centering
+\includegraphics{/Users/houliu/Documents/School Work/2020-2021/KnowledgeBase/2020BIO101/Screen Shot 2020-09-21 at 3.15.49 PM.png}
+\caption{Screen Shot 2020-09-21 at 3.15.49 PM.png}
+\end{figure}
+
+\textbf{No ionic attractions between backbone because after the
+dehydration reaction (polymerization), the positive and negative of the
+two ends of the backbone of the amino acid is combined to cancel out the
+charge}
+
+Proline (p) is a little weird: Side chain bonded with the H2N+ as well
+as the carbon =\textgreater{} ``the helix breaker'': most likely cause a
+bend instead of a structured area due to its unusual circular bonding.
+
+\hypertarget{protein-tertiary-structure}{%
+\subsubsection{Protein Tertiary
+Structure}\label{protein-tertiary-structure}}
+
+Bonds in the 3D Structures
+
+\begin{itemize}
+\tightlist
+\item
+  Non-polar sidechains: Vandervaull's Forces (a.k.a LDF)
+\item
+  Ionic sidechains: what bonds do you think?
+\item
+  Disulfide bonds: cysteine animo acids will bond their sulfur together
+\item
+  Polar sidechains: hydrogen bonds
+\end{itemize}
+
+All of these bonds, together, makes the 3D geometry of the protean.
+
+\textbf{Proteins fold in order of attraction strength.}
+
+\begin{itemize}
+\tightlist
+\item
+  Proteas ``whiggle'' --- brounian motion
+\item
+  This is also a part of the difficulty in folding protean
+\end{itemize}
+
+\hypertarget{protein-quaternary-structure}{%
+\subsubsection{Protein Quaternary
+Structure}\label{protein-quaternary-structure}}
+
+Exists only for certain proteins which independently locks together.
+
+Hemoglobin does this! It contains multiple sets of side chains that
+needs folding once again.
+
+\hypertarget{shooting-images-of-proteins}{%
+\subsection{Shooting images of
+proteins}\label{shooting-images-of-proteins}}
+
+\begin{itemize}
+\tightlist
+\item
+  NMR spectroscopy
+\item
+  X-rays
+\end{itemize}
+
+\#flo \#disorganized
+
+\hypertarget{enzymes}{%
+\subsection{Enzymes}\label{enzymes}}
+
+A specific type of proteins that's\ldots{} kinda fun!
+{[}{[}KBhBIO101Enzymes{]}{]}
+
+\end{document}

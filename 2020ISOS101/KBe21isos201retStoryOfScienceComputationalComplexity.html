@@ -1,0 +1,265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title>  Story of Science: Computational Complexity Theory </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong></strong> Story of Science: Computational Complexity Theory </span></div>
+        </div>
+        <div id="center-viewport">
+            <h1 id="sources">sources</h1>
+            <h2 id="gentle-introductions">gentle introductions</h2>
+            <h3 id="httpsen.wikipedia.orgwikicomputational_complexity_theory"><a href="https://en.wikipedia.org/wiki/Computational_complexity_theory">https://en.wikipedia.org/wiki/Computational_complexity_theory</a></h3>
+            <h3 id="httpscomplexityzoo.netpetting_zoo"><a href="https://complexityzoo.net/Petting_Zoo">https://complexityzoo.net/Petting_Zoo</a></h3>
+            <h3 id="httpswww.simonsfoundation.org20131213richard-karp"><a href="https://www.simonsfoundation.org/2013/12/13/richard-karp/">https://www.simonsfoundation.org/2013/12/13/richard-karp/</a></h3>
+            <h1 id="overview">overview</h1>
+            <h2 id="computational-complexity-theory-studies-how-difficult-a-problem-is">computational complexity theory studies how "difficult" a problem is</h2>
+            <h3 id="importantly-not-how-good-an-algorithm-is-this-field-deals-with-all-algorithms-that-solve-a-given-problem">importantly, not how "good" an algorithm is… this field deals with all algorithms that solve a given problem</h3>
+            <h2 id="key-concepts">key concepts</h2>
+            <h3 id="types-of-problems">types of problems</h3>
+            <h3 id="turing-machines">Turing machines</h3>
+            <h3 id="reducibility">reducibility</h3>
+            <h3 id="complexity-classes">complexity classes</h3>
+            <h3 id="hierarchy">hierarchy</h3>
+            <h2 id="key-problems">key problems</h2>
+            <h3 id="p-vs-np">P vs NP</h3>
+            <h1 id="richard-karp-the-actual-assignment">richard karp (the actual assignment)</h1>
+            <h2 id="overview-1">overview</h2>
+            <h3 id="basically-see-httpswww.simonsfoundation.org20131213richard-karp">basically, see <a href="https://www.simonsfoundation.org/2013/12/13/richard-karp/">https://www.simonsfoundation.org/2013/12/13/richard-karp/</a></h3>
+            <h2 id="storyboard-richard-karp-life"><span>TODO</span> storyboard richard karp life</h2>
+            <h1 id="vocab-and-definitions">vocab and definitions <span><span class="smallcaps">def</span></span></h1>
+            <h2 id="dtm-deterministic-turing-machine">DTM, deterministic Turing machine</h2>
+            <p>A Turing machine with one infinite tape and a state function that has exactly one output for each (tape value, machine state) input. (Not a formal definition).</p>
+            <h1 id="complexity-classes-1">complexity classes</h1>
+            <h2 id="p">P</h2>
+            <p>Problems that can be solved in polynomial time using a deterministic Turing machine (DTM). These problems are generally considered "tractable" by the Cobham-Edmonds thesis.</p>
+            <p>In practice, problems with large-degree solutions usually have smaller-degree solutions discovered later, so the division between P and other problems ’has turned out to be somewhat "natural"’.</p>
+            <p>Examples: { graph reachability (whether two nodes are in the same component), 2SAT (SCC :)), matrix multiplication }</p>
+            <h2 id="np">NP</h2>
+            <p>Problems that can be checked "yes" in polynomial time. For example, graph isomorphism.</p>
+            <h3 id="whats-up-with-conp-checkin-no">whats up with coNP? checkin "no"?? <span><span class="smallcaps">toexpand</span></span></h3>
+            <h2 id="np-complete">NP-complete</h2>
+            <p>Problems that are complete for NP, aka. problems in NP that all other NP problems can be reduced to in polynomial time. One example is CircuitSAT: any NP problem can be reduced to CircuitSAT and any problem that CircuitSAT can be reduced to is also NP-complete. Showing that CircuitSAT or any other NP-complete problem can be solved in polynomial time implies that P = NP.</p>
+            <p>Examples: TSP, SAT</p>
+            <h2 id="ph-polynomial-hierarchy">PH (polynomial hierarchy?) <span><span class="smallcaps">toexpand</span></span></h2>
+            <p>Defined as the union of a set of recursively defined classes… something? Something about P and NP and oracles about NP and coNP. This is the thing that would collapse, I guess. Eg, why people don’t think Graph Isomorphism is NP-complete.</p>
+            <h2 id="pspace">PSPACE</h2>
+            <p>Restricts space instead of time. This class is very large, and includes the entirety of NP (brute force check all possible proofs) and also PP and P<sup>#P</sup>, apparently.</p>
+            <p>Notable PSPACE-complete examples: QBF (or QSAT), deciding the winner of eg. Go.</p>
+            <h2 id="exp">EXP</h2>
+            <p>run-time bounded by <span class="math inline">\(2^{p(n)}\)</span> where <span class="math inline">\(p\)</span> is a polynomial (ig). EXP is generally big enough: it contains PSPACE, the polynomial hierarchy (PH), and ’most problems we ever hope to attack’. Of course, there are bigger ones.</p>
+            <h2 id="ac0-nc0-nc">AC<sup>0</sup>, NC<sup>0</sup>, NC</h2>
+            <p>small classes that have to do with circuit complexity.. generally the represent problems that can be solved quickly with massive parallelism.</p>
+            <h2 id="l">L</h2>
+            <p>Logarithmic space (logarithmic spaces on the Turing machine tape). This is nice because space is usually limited. L is contained within P because something about deterministic Turing machines?.</p>
+            <h2 id="ppoly">P/poly</h2>
+            <p>polynomial time algorithms that solve a problem given an advice string which is at most polynomial in length and a function only of the input size. P/exp would make all problems trivial (provide a lookup table), but P/poly is actually interesting, ig. P/poly contains P, so <span class="math inline">\(NP \notin P/poly\)</span> would imply <span class="math inline">\(P \neq NP\)</span>.</p>
+            <h2 id="bpp">BPP</h2>
+            <p>Randomized algorithms where the error rate is ’bounded by a constant’. Error rate could be improved by running the algorithm more times and taking a majority vote.</p>
+            <p>AKS primality test made a previously randomized algorithm deterministic, which was a ’key example of derandomization’. People apparently think that P = BPP (and this is an important open problem).</p>
+            <h1 id="flows">flows</h1>
+            <h2 id="wikipedia-computational-complexity-theory">Wikipedia computational complexity theory</h2>
+            <h3 id="computational-problems">computational problems</h3>
+            <ol>
+            <li><p>problem instances</p>
+            <p>A problem describes the problem. the actual "numbers" that describe a specific problem is called a problem instance. sorting a list is a problem, sorting <em>this</em> list is a problem instance.</p></li>
+            <li><p>representing problem instances</p>
+            <p>formally strings of characters from alphabets. The input size is the length of the string. Different representations can be chosen but it should be trivial (fast) to convert from one to the other.</p></li>
+            <li><p>decision problems (most basic type)</p>
+            <p>Generally, given an input, the output is either yes (accept) or no (reject). For example, deciding whether a graph is connected or not.</p>
+            <ol>
+            <li><p>it can be thought of as a "formal language" <span><span class="smallcaps">toexpand</span></span></p></li>
+            </ol></li>
+            <li><p>function problems</p>
+            <p>Very general: a function problem ’is a computational problem where a single output (of a total function) is expected for every input, but the output is more complex than that of a decision problem’. Basically calculate a non-binary function.</p>
+            <p>Examples: traveling salesman, integer factorization.</p>
+            <p>However, all function problems can be modeled as decision problems: For some function <span class="math inline">\(f(*args) \to ans\)</span>, it can be modeled as the decision problem of whether <span class="math inline">\((*args, ans)\)</span> is a valid output.</p>
+            <ol>
+            <li><p>but does this really work? how can a decision TM be used to compute the function output efficiently? <span><span class="smallcaps">toexpand</span></span></p></li>
+            </ol></li>
+            <li><p>size of an instance</p>
+            <p>Size is usually the length of the input. The complexity is a function of the input size, usually representing the worst case time or space (or any other complexity measure) required for any input size.</p></li>
+            </ol>
+            <h3 id="machine-models-and-complexity-measures">machine models and complexity measures</h3>
+            <ol>
+            <li><p>Turing machine</p>
+            <p>standard Turing machine stuff. its very general. Many types of turing machines (probabilistic, non-deterministic, quantum, etc) are used to define different complexity classes.</p></li>
+            <li><p>other machine models <span><span class="smallcaps">toexpand</span></span></p>
+            <p>Other non-standard Turing machines are used, but the idea is that they aren’t actually any better, somehow?</p></li>
+            <li><p>Complexity Measures</p>
+            <p>Usually time or space, but any complexity measure that satisfies Blum’s complexity axioms can be used. Examples include: communication complexity, circuit complexity.</p>
+            <p>Also constant factors don’t really matter. And its usually the worst case.</p>
+            <p>Importantly, complexity measures are also a function of the type of Turing machine used, since some Turing machines are better in some scenarios.</p>
+            <ol>
+            <li><p>blums complexity axioms <span><span class="smallcaps">toexpand</span></span></p></li>
+            </ol></li>
+            <li><p>best/worst/average case</p>
+            <p>We generally talk about worst case complexity, but some algorithms have good average-case which is good enough (eg. quicksort). Generally, best-case &lt; average-case &lt; amortized analysis &lt; worst-case.</p></li>
+            <li><p>upper and lower bounds for problems</p>
+            <p>Importantly, this is <strong>not an upper or lower bound for an algorithm</strong>. Instead, for problems in general, it’s relatively easy to decide an upper bound (which is just the worst case complexity of any correct algorithm), but a lower bound is difficult (since it must involve algorithms that haven’t been discovered yet).</p></li>
+            </ol>
+            <h3 id="complexity-classes-2">complexity classes</h3>
+            <ol>
+            <li><p>dependencies</p>
+            <p>Complexity classes are a function of the following factors</p>
+            <ol>
+            <li><p>problem type</p>
+            <p>{ decision, function, counting, optimization, promise, etc }</p></li>
+            <li><p>computation model</p>
+            <p>{ deterministic Turing machine, non-deterministic, Boolean circuits, quantum TM, monotone circuits, etc }</p></li>
+            <li><p>bounded resources</p>
+            <p>{ polynomial time, logarithmic space, constant depth }</p></li>
+            </ol></li>
+            <li><p>an example definition</p>
+            <blockquote>
+            <p>The set of decision problems solvable by a deterministic Turing machine within time f(n). (This complexity class is known as DTIME(f(n)).)</p>
+            </blockquote>
+            <p>However, using a concrete function <span class="math inline">\(f(n)\)</span> is often computational-model-dependent, but the Cobham-Edmonds thesis states that ’the time complexities in any two reasonable general models of computation are polynomial related.’</p>
+            <p>This suggests that all if we want to be machine-independent, all polynomial problems are roughly the same and belong in the same class: P (for decision problems) and FP (for function problems).</p>
+            <ol>
+            <li><p>why are there different classes if decision and function problems are the same-ish? dunno <span><span class="smallcaps">toexpand</span></span></p></li>
+            </ol></li>
+            <li><p>important complexity classes</p>
+            <p>A nice list here but the complexity petting zoo is more friendly.</p></li>
+            <li><p>Hierarchy theorems <span><span class="smallcaps">toexpand</span></span></p>
+            <p>We would like to establish a strict containment hierarchy within classes (but between different eg. polynomial functions). This does that, apparently?</p></li>
+            <li><p>Reduction</p>
+            <p>Many problems can be turned into other problems in their class, which provides an upper bound on the difficulty of the problem.</p>
+            <p>There are many types of reductions, but the most common type is the polynomial-time reduction which means the reduction takes polynomial time. If you take a non-polynomial reduction to turn a problem into a polynomial problem, then you haven’t proven anything.</p>
+            <ol>
+            <li><p>hardness and completeness</p>
+            <p>A problem <span class="math inline">\(X\)</span> is hard for a class <span class="math inline">\(C\)</span> if every problem in <span class="math inline">\(C\)</span> can be reduced to <span class="math inline">\(X\)</span>. A problem <span class="math inline">\(X\)</span> is complete for <span class="math inline">\(C\)</span> if it is hard for <span class="math inline">\(C\)</span> it is in <span class="math inline">\(C\)</span>. NP-complete problems are the "most difficult problems in NP" because other problems can be reduced to them.</p>
+            <p>Being able to reduce a hard problem to another problem shows that that other problem is just as hard, by contradiction. Similarly, being able to reduce a hard problem to a known easy one collapses the hierarchy.</p></li>
+            </ol></li>
+            </ol>
+            <h3 id="important-open-problems">important open problems</h3>
+            <ol>
+            <li><p>P vs NP</p>
+            <p>If any NP-complete problem can be reduced (polynomially) to a P problem, then many NP problems would be solvable in polynomial time. There are many NP problems that we would like to solve efficiently, so this would be a big deal.</p>
+            <p>In fact, many of the other ’important open problems’ are important because they would show that <span class="math inline">\(P \neq  NP\)</span>.</p></li>
+            <li><p>NP-indeterminate problems (in NP but not in P nor NP-complete) <span><span class="smallcaps">toexpand</span></span></p>
+            <p>some theorem shows that if P neq NP then there are NP-indeterminate problems. If we show that there are none, then that proves P = NP. Some unclassified problems (graph isomorphism problem, integer factorization problem) being NP-complete would ’collapse the polynomial hierarchy.’ ?????</p></li>
+            <li><p>separations between other complexity classes</p>
+            <p>There are many classes that are improper subsets of each other. If any of those relations can be shown to be a proper subset, then classes on either side would be unequal. For example, many such relations exist between P and NP and showing that one of those relations is a proper subset relation would prove that P != NP. Or, proving that two classes (eg. P, PSPACE) are equal would squish all classes in between into one (in this case, showing that P = NP).</p></li>
+            </ol>
+            <h3 id="intractability">Intractability</h3>
+            <p>Meaning "not handleable". The Cobham-Edmonds thesis suggests that all polynomial problems are tractable. However, in the real world, specific numbers matter (<span class="math inline">\(N^{15}\)</span> is much worse than <span class="math inline">\(0.0001^N\)</span>)</p>
+            <h3 id="continuous-complexity-theory">continuous complexity theory <span><span class="smallcaps">toexpand</span></span></h3>
+            <p>Something about continuous functions or analog logic.</p>
+            <h3 id="history">History</h3>
+            <ol>
+            <li><p>Many foundations laid, eg. Turing machine in 1936 which allowed for analysis of various algorithms.</p></li>
+            <li><p>First systematic study attributed to Juris Hartmanis and Richard E. Stearns in "On the Computational Complexity of Algorithms" (1965)</p></li>
+            <li><p>Edmonds (Cobham-Edmonds thesis) suggests polynomial problems are "good" (1965)</p></li>
+            <li><p>other studies of problems with bounded resources in the previous few years</p></li>
+            <li><p>Blum axioms for complexity measures (1967), and the "speed-up theorem"</p></li>
+            <li><p>1971 Stephen Cook and Leonid Levin proved existance of practically relevant NP-complete problems</p></li>
+            <li><p>Richard Karp (1972) showed 21 relevant and NP-complete problems (op)</p>
+            <ol>
+            <li><p>oldest of four children, born to jewish family in Dorchester, Boston</p></li>
+            <li><p>mother got harvard degree at age 57 and father wanted to go on to medschool after Harvard but became a math teacher bc he couldn’t afford med school</p></li>
+            <li><p>went to harvard, some career jumps, mostly CS professor at UC Berkeley</p></li>
+            <li><p>leads a number of societies and organizations, including International Computer Science Institute, Simons Institute for the Theory of Computing</p></li>
+            <li><p>and also got a bunch of prizes for his work on NP-complete problems</p></li>
+            <li><p>Edmonds-Karp algorithm for max flow with Jack Edmonds 1971</p></li>
+            <li><p>landmark NP-completeness paper in 1972</p>
+            <ol>
+            <li><p>showed 21 problems that SAT can be reduced to</p></li>
+            <li><p>a nice tree of reducibility + some previous work mentioned in the paper</p></li>
+            </ol></li>
+            <li><p>1973 Hopcroft-karp algorithm with john hopcroft for bipartite graph max matchings</p></li>
+            <li><p>some other work later on</p></li>
+            </ol></li>
+            </ol>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

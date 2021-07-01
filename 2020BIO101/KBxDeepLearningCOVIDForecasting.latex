@@ -1,0 +1,374 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13016)}}    % original
+%\rhead{\textrmlf{Compiled }\#13016\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+title: Bio Engaging with research project context: BIO201 author: Huxley
+source: ---
+
+\#ref \#ret
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{0.06}}@{}}
+\toprule
+\endhead
+\#\# Record of understanding: \\
+\texttt{The\ writing\ style\ here\ is\ more\ similar\ to\ my\ notes,\ which\ I\ personally\ use\ as\ a\ record\ of\ my\ understanding.\ If\ you\ would\ like\ this\ to\ be\ written\ up\ more\ formally,\ please\ let\ me\ know!} \\
+\#\#\# 1. \textbf{Paper Title:} \textgreater{} A COVID-19 pandemic
+AI-based system with deep learning forecasting and automatic statistical
+data acquisition: Development and Implementation Study \\
+\#\#\# 2. \textbf{What question or phenomenon was being investigated in
+this study and why?} - COVID is a large problem, almost all of the AI
+studies around it are region specific or centered around a single
+country - CPAIS (COVID-19 Pandemic AI System) aims to solve this by
+automatically compiling databases to form a worldwide dateset -
+Including governmental responses - allows heatmap viz of different
+policies in different countries, - and predictive modeling, ofc. \\
+\#\#\# 3. \textbf{What background information did you need to understand
+in order to understand the question, main experiment, main finding, and
+significance? (i.e.~what did you find yourself digging into in the
+introduction or through outside sources; what was the most relevant
+background info?)} \\
+\#\#\#\#\# ARIMA: \emph{Auto Regressive Integrated Moving Average} -
+Type of Auto Regressive (AR, not Augmented Reality) model - used for
+processes which change over time (economics, web traffic, ect.) - Very
+similar to ARMA, but with a more complex stochastic term - Uses time
+series data - ie. use differences between values rather than the actual
+value - p, d, q - p: order of AR term, or time lag - d: ``degree of
+differencing'' - q: order of MA term, or size of moving average
+window \\
+\textgreater{} \textbf{Predicted Y\_t = Constant + Linear combination
+Lags of Y (upto p lags) + Linear Combination of Lagged forecast errors
+(upto q lags)} -
+\href{https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python}{Good
+article} \\
+\#\#\#\#\# MLP: \emph{Multilayer Perceptron Neural Networks} - Just a
+feed forward network, but with hidden layers. Pretty ambiguous term,
+left relatively ambiguous in the paper. - Fancy name for a vanilla
+neural net - They highlight: designed to solve non-linearly separable
+problems - with sigmoid - They used
+\href{https://github.com/trnnick/nnfor}{nnfor}, which means they used
+R. \\
+\#\#\#\#\# MAE (vs RMSE): - Mean Absolute Error, which I haven't used
+before, is like RMSE (root mean square error) but less punishing for
+bigger errors. \\
+\#\#\#\#\# MAPE: \emph{Mean Absolute Percentage Error} \\
+- aka Mean Absolute Percentage Deviation - loss function, used for
+measuring forecast accuracy. - average of percentage errors - generally
+not good.. \\
+\#\#\# 4. What was the main thing the researchers found out and how did
+they do so?\ldots{} \\
+1. what were the main (1-2) experiments? 1. Dateset gen and renewal: 1.
+using crawler on source 2. integrating the data into existing database
+3. statistical analysis with predefined procedure 1. The experimentation
+comes in at this step with different deep learning models and techniques
+2. \textbf{Main Models:} 1. LSTM: \emph{long term short term memory} 1.
+A type of recurrent neural network which uses a `cell state' and forget
+gates to have both long and short term memory 2. better forecast
+accuracy than other models 2. ARIMA: \emph{Auto Regressive Integrated
+Moving Average} 1. \textgreater{} statistical learning model with time
+series regression \\
+2. what data did they generate? 1. Generated a worldwide automatically
+updating dateset for COVID-19 with their automation technology 2. And
+also, generated consistent forecasting data of the next 14 days 3.
+Finally, generated data on the correlation of government policies and
+COVID-19 \\
+3. what does that data mean? 1. The dateset, innit of itself, means
+nothing. 2. the forecasting data means what we can expect for the next
+two weeks 3. the correlation data \textbf{\emph{can}} mean what
+governmental policies work best for dealing with COVID-19 \\
+\#\#\# 5. What was the significance or larger impact of the main
+finding? \\
+- the dateset itself is useful for the entire world doing data analysis
+- the forecasting data can help with rapid policy changes and
+preparations. Being able to see two weeks into the future, especially at
+the beginning of the pandemic, was and is incredibly useful. - they also
+made ways to visualize the data, as human understanding is ultimately
+the most important at this point - they didn't make very substantive
+claims about governmental policies - instead, they mostly made a very
+useful tool for data viz, prediction, and comparison. In the actual
+experimentation with the types of models, as expected, LSTMs did better.
+- they were experimenting with ARIMA, but ultimately, LSTMs win
+again. \\
+\#\# Reflection Questions \\
+1. \textbf{What paper did you choose and why did you choose it?} 1.
+\textgreater{} A COVID-19 pandemic AI-based system with deep learning
+forecasting and automatic statistical data acquisition: Development and
+Implementation Study 2. I was interested in doing some similar things
+earlier, so this paper caught my eye. \\
+\bottomrule
+\end{longtable}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  \textbf{How did you go about trying to understand the paper that you
+  chose? What was your reading/understanding process like and why did
+  you employ that strategy?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Generally speaking, my strategy was to get background on the topic
+    (normally by reading the abstract) and then follow my curiosity
+    throughout the paper. When their was something I didn't know about
+    or understand, I would look for more info on that first in the paper
+    then in outside resources.
+  \item
+    I read the abstract of the paper, then learned about the terms I
+    didn't understand from the \emph{Introduction} and \emph{Materials
+    and Methods} sections. I also used the handy cmd-f functionality to
+    search through the document. However, a lot of my time was spent
+    looking at other articles online for deeper explanations. I then
+    jumped into the data at the bottom, then read through the
+    \emph{Discussion} and such.
+  \item
+    This seemed like the best way to go about understanding a paper with
+    a topic that I was already somewhat familiar with yet had a lot of
+    new terms.
+  \end{enumerate}
+
+  \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\item
+  \textbf{What did you find challenging about trying to understand your
+  paper? Although the task may have felt generally challenging, try to
+  get specific here.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Specifically to this paper, trying to understand ARIMA was by far
+    the most complex part.
+  \item
+    The actual format and layout of the paper felt pretty familiar, and
+    wasn't hard to navigate.
+  \end{enumerate}
+
+  \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\item
+  \textbf{What do you think you could try next time that might improve
+  your process?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    I'm still debating how to order looking at data and discussion /
+    conclusions. I spent a while looking at data before the discussion,
+    then I went back to the data after I had finished reading. I don't
+    want to bias my understanding of the data, but I also don't want to
+    waste a lot of time looking at data without much background to
+    understand it. Next time, I think I will try looking at the data
+    after and seeing if my thoughts are clouded by the discussion.
+  \end{enumerate}
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\tightlist
+\item
+  \textbf{What type of previous experience do you have with reading
+  papers from the scientific literature (either review articles or
+  primary research)?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    I do a lot of projects in my free time, which often lead to me
+    having to read papers for info. Just last night, actually, I spent a
+    few hours reading scientific papers on different spike detection
+    algorithms as well as Kalman filters.
+  \end{enumerate}
+\end{enumerate}
+
+\end{document}

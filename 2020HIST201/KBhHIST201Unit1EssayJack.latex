@@ -1,0 +1,433 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Unit 1 Essay Planning }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2381)}}    % original
+%\rhead{\textrmlf{Compiled }\#2381\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2381\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{unit-1-essay}{%
+\section{Unit 1 Essay}\label{unit-1-essay}}
+
+\hypertarget{general-information}{%
+\subsection{General Information}\label{general-information}}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\begin{minipage}[b]{0.10\columnwidth}\raggedright
+Due Date\strut
+\end{minipage} & \begin{minipage}[b]{0.53\columnwidth}\raggedright
+Topic\strut
+\end{minipage} & \begin{minipage}[b]{0.28\columnwidth}\raggedright
+Important Documents\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.10\columnwidth}\raggedright
+Oct 12th\strut
+\end{minipage} & \begin{minipage}[t]{0.53\columnwidth}\raggedright
+Hegemony and competition in the early modern world\strut
+\end{minipage} & \begin{minipage}[t]{0.28\columnwidth}\raggedright
+Kennedy, Mann, and Friends\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{prompt}{%
+\subsection{Prompt}\label{prompt}}
+
+Economic: The Ottomans, the Ming and Qing Empires, the Mughals and the
+European kingdoms all responded to the globalization of commerce in the
+early modern period in dramatically different ways. \textbf{Why did they
+respond differently to the globalization of commerce and what were the
+consequences?} Comparing at least two of the regions above. Gelvin
+(World systems), Mann (silver), Kennedy and Arrighi might be good
+general frameworks, while Bulliet (Ottomans), Gilbert (Mughals) and
+McNeill (Europe) can provide some specifics.
+
+\hypertarget{documents-corner}{%
+\subsection{Documents Corner}\label{documents-corner}}
+
+\begin{itemize}
+\tightlist
+\item
+  @{[}{[}KBhHIST201HomogenosceneLN{]}{]} Current day, emphasis was
+  placed around those in native American regions who were anti-Spanish,
+  yet a large majority of the individuals who really brought
+  globalization were Spanish
+\item
+  @{[}{[}KBhHIST201MannMing{]}{]} China's currency began to show strain
+  as Bronze prices increase whist China deals with a botching reopening
+  plan after closing the economy after Zheng He. See
+  {[}{[}KBhHIST201ChinasDeclineWRTReopening{]}{]} and
+  {[}{[}KBhHIST201ChinasDeclineWRTZhengHe{]}{]}
+\item
+  @{[}{[}KBhHIST201Ottomans1500{]}{]} Enjoys control of the silk read;
+  Huge landmass; Large army (and, large cannons + siege trains); Strong
+  Navy! =\textgreater{} deployed frequently in the Black Sea,
+  Constantinople, North Africa
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Enjoyed physical control: Strategic link between Europe + Asia at
+    the Daranelles strait
+  \end{itemize}
+\item
+  @{[}{[}KBhHIST201ProblemsWithSilver{]}{]} --- major globalization
+\end{itemize}
+
+\hypertarget{evidence-bin}{%
+\subsection{Evidence bin}\label{evidence-bin}}
+
+\begin{itemize}
+\tightlist
+\item
+  The Holy Roman Empire
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ``A ruler committed to such absolute values found it impossible to
+    compromise, let alone to manipulate, his bargaining position.''
+  \item
+    Conservatism lead them directly to not compromise, getting the lower
+    hand
+  \end{itemize}
+\item
+  The Ottomans
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \ldots Established trade agreements ``Such trade agreements, called
+    capitulations, led to European domination of Ottoman seaborne trade.
+    \ldots{} Far from seeing Europe as the enemy that would eventually
+    dismantle the empire, the Istanbul elite experimented with European
+    clothing and furniture styles''
+  \item
+    New styles infiltrated the government causing a lack of response or
+    even capitulation
+  \end{itemize}
+\item
+  The French
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ``Though privately religious, Richlieu viewed his duties as minister
+    in entirely secular terms. \ldots{} `The state has no immortality,
+    its salvation is now or never.' In other words, states do not
+    receive credit in any world for doing what is right; they are only
+    rewarded for being strong enough to do what is necessary.''
+  \item
+    French took the stance of absolute logic and assertion of contr
+  \end{itemize}
+\item
+  Ming
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Tried to assert control --- ``Northwestern Foreigners are
+    recalcitrant and their greed knows no bounds. I do not think our
+    present trade with them will ensure us a century of peace. \ldots{}
+    As to the foreigners in the southeast, their goods are useful to us
+    just as ours are to them. To use what one has to exchange for what
+    one does not have is what trade is all about. Moreover, these
+    foreigners trade with China under the name of tributary
+    contributions. That means China's authority is established and the
+    foreigners are submissive''
+  \item
+    Pick and choose the outcomes only to establish authority
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{claim-synthesis}{%
+\subsection{Claim Synthesis}\label{claim-synthesis}}
+
+\hypertarget{development-phase-how-and-so-what}{%
+\subsubsection{Development phase -- How and
+So-What}\label{development-phase-how-and-so-what}}
+
+\begin{itemize}
+\tightlist
+\item
+  Orthodoxy on religion =\textgreater{} non-compromise
+\item
+  New styles infiltrated the government =\textgreater{} a lack of
+  response or even capitulation =\textgreater{} overeliance on
+  multicultralism
+\item
+  Absolute logic and assertion =\textgreater{} overpower and
+  compensation
+\item
+  Assertion of control =\textgreater{} internal collapse =\textgreater{}
+  over-reliance on globalization
+\end{itemize}
+
+Musing:
+
+\begin{itemize}
+\tightlist
+\item
+  Attempting to reach world hegemony in a multiculturalistic state will
+  cause eventual economic infiltration and a loss of identity, whereas
+  reliance on unification and control to achieve hegemony will result in
+  economic implosion and loss of control.
+\item
+  So\ldots{} Per Arrigi
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A ``territorialist model'' =\textgreater{} economic implosion
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Ming w/ the Mann
+    \end{itemize}
+  \item
+    A ``capitalist model'' =\textgreater{} economic infiltration
+  \end{itemize}
+\end{itemize}
+
+\textbf{If you too multicultural, you may end up loosing your economic
+control. Empires are trying to include all these cultures in one
+territory.}
+
+The Ottomans, for instance, Established trade agreements ``Such trade
+agreements, called capitulations, led to European domination of Ottoman
+seaborne trade. \ldots{} Far from seeing Europe as the enemy that would
+eventually dismantle the empire, the Istanbul elite experimented with
+European clothing and furniture styles'' =\textgreater{} new styles
+infiltrated the government causing a lack of response or even
+capitulation (Bulliet)
+
+\textbf{If you tried to overly unify your cultural identity, you may end
+up loosing your civil control.}
+
+Mughals =\textgreater{} tried model of unity --- loosing support of
+Hindu nobels ``The combination of anti-Hindu policy and sentiment at
+court and the reduction in the value of subsidies or land grants to
+Maratha mansab dars turned Shivaji into not merely a rebel but a
+rival.'' =\textgreater{} causing the series of decline that the Mughals
+saw initiated with the Maratha rebelion.
+
+\textbf{If you try to, instead, exercise balance and raíson de'etat,
+happiness to everyone!}
+
+English example =\textgreater{} ``England's policy was based on throwing
+its weight as the occasion required to the weaker and more threatened
+side to redress the equilibrium. \ldots{} England was the one European
+country whose raison d 'etat did not require it to expand in Europe.
+Perceiving its national interest to be in the preservation of the
+European balance''
+
+And yes, there is a point where Raison de etat turns into
+territorialism. But, that becomes no longer Raison de etat, that's a
+tour de force: " Richelieu's raison d'etat threatens self- destructive
+tours de force\ldots. But Louis XN gained no peace of mind from
+security; he saw in it an opportunity for conquest. In his overzealous
+pursuit of raison d'etat, LouisXN alarmed the rest of Europe and brought
+together an anti-French coalition which, in the end, thwarted his
+design."
+
+\hypertarget{defluffifying}{%
+\subsection{Defluffifying}\label{defluffifying}}
+
+\begin{itemize}
+\tightlist
+\item
+  If you too multicultural, you may end up loosing your economic
+  control. Empires are trying to include all these cultures in one
+  territory.
+\item
+  If you tried to overly unify your cultural identity, you may end up
+  loosing your civil control
+\item
+  If you try to, instead, exercise balance and raíson de'etat, happiness
+  to everyone!
+\end{itemize}
+
+So what? So be the third thing.
+
+Now, defluffify by re-writing the three points + so what in as little
+words as possible.
+
+\textbf{When attempting to reach world system hegemony, over-extension
+of multiculturalism will bring forth a lack of economic control whereas
+over-unification of cultural identity will cause losses in civic
+control; to achieve hegemony without losses in control, a state has to
+exercise principles of raíson de 'etat in a position of moderation
+instead of dominance.}
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-02 at 10.11.57 AM.png}
+\caption{Screen Shot 2020-10-02 at 10.11.57 AM.png}
+\end{figure}
+
+\end{document}

@@ -1,0 +1,440 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage[T1]{fontenc} % https://latex.org/forum/viewtopic.php?t=5540
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont{Iosevka Aile Light}
+%\setmainfont[
+%  ItalicFont      = NimbusSansNarrow,
+%  BoldFont        = NimbusSansBold,
+%  BoldItalicFont  = NimbusSans-BoldItalic]{NimbusSans}
+%\setmainfont[
+%  ItalicFont     = Helvetica-Italic,
+%  BoldFont       = Helvetica-Bold,
+%  BoldItalicFont = Helvetica-BoldItalic]{Helvetica}
+%\setmainfont[
+%  ItalicFont     = HelveticaNeue-Italic,
+%  BoldFont       = HelveticaNeue-Bold,
+%  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight{Iosevka Aile Thin}
+%\newfontfamily\NHLight[
+%  ItalicFont     = Helvetica-LightItalic,
+%  BoldFont       = Helvetica-UltraLight,
+%  BoldItalicFont = Helvetica-UltraLightItalic]{Helvetica}
+%\newfontfamily\NHLight[
+%  ItalicFont     = HelveticaNeue-LightItalic,
+%  BoldFont       = HelveticaNeue-UltraLight,
+%  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ISOS201 }
+\newcommand{\thelesson}{ ISOS ML Privacy }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}14180)}}    % original
+%\rhead{\textrmlf{Compiled }\#14180\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\#ref \#ret
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\%\%- n: usa foreing intel survelance - j: edward snowden, apple data
+collection. consumer notification! - d: digital polical ads + tracking -
+m: social media taking data in general - h: human ml modeling \%\%
+
+\hypertarget{page-o-notes}{%
+\section{Page o' notes}\label{page-o-notes}}
+
+\hypertarget{machine-learning-broad-level-implications-on-privacy}{%
+\subsubsection{Machine learning broad level implications on
+privacy}\label{machine-learning-broad-level-implications-on-privacy}}
+
+\begin{itemize}
+\tightlist
+\item
+  ML requires big data
+
+  \begin{itemize}
+  \tightlist
+  \item
+    machine learning has driven us into the ``information age''
+
+    \begin{itemize}
+    \tightlist
+    \item
+      cause of most of these issues
+    \end{itemize}
+  \item
+    getting lots of info -\textgreater{} invading privacy, generally
+  \end{itemize}
+\item
+  ML can break privacy without explicit data
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ML can de-anonymize anonymous activities
+
+    \begin{itemize}
+    \tightlist
+    \item
+      ML based tracking systems make anonymity hard
+    \item
+      hashing ISN'T good enough
+    \end{itemize}
+  \item
+    same thing can be done even without ml
+
+    \begin{itemize}
+    \tightlist
+    \item
+      location tracking easily de-anonymized by simple cross reference
+    \end{itemize}
+  \end{itemize}
+\item
+  ML can construct human models
+
+  \begin{itemize}
+  \tightlist
+  \item
+    fundamentally about simulation intelligent behavior
+  \item
+    ML model of how you think and act
+
+    \begin{itemize}
+    \tightlist
+    \item
+      viewed as creepy
+    \end{itemize}
+  \item
+    if it could predict your thoughts, what then?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{regulation}{%
+\subsubsection{Regulation!}\label{regulation}}
+
+\begin{itemize}
+\tightlist
+\item
+  FTC (federal trade commission) coming down hard
+
+  \begin{itemize}
+  \tightlist
+  \item
+    hitting Facebook, google, ect.
+  \end{itemize}
+\item
+  CCPA, California consumer privacy act
+\item
+  GDPR, General Data Protection Regulation
+\item
+  how effective is regulation?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    can we really prevent it?
+  \item
+    one of the arguments: \textgreater{} ``if you make data collection
+    illegal, only criminals will have the data''
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{rights}{%
+\subsubsection{Rights}\label{rights}}
+
+\begin{itemize}
+\tightlist
+\item
+  right to be forgotten
+
+  \begin{itemize}
+  \tightlist
+  \item
+    opt out law by the consumer
+  \item
+    is this a right?
+  \end{itemize}
+\item
+  right to our data, as outlined in CCPA
+
+  \begin{itemize}
+  \tightlist
+  \item
+    again, really a right?
+  \end{itemize}
+\item
+  individualize experience moral?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    amazon adjusting prices,
+  \item
+    insurance companies not accepting
+  \item
+    ect.
+  \end{itemize}
+\item
+  private company rights to charge how they please?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{libertarian args go here}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{flipside}{%
+\subsubsection{Flipside}\label{flipside}}
+
+\begin{itemize}
+\tightlist
+\item
+  if privacy-preserving techniques ultimately fail,
+
+  \begin{itemize}
+  \tightlist
+  \item
+    then what?
+  \end{itemize}
+\item
+  ML does a lot of good
+
+  \begin{itemize}
+  \tightlist
+  \item
+    though the individual might not want to share medical data,
+  \item
+    that same data on the large scale could save countless lives
+  \end{itemize}
+\item
+  garbage in, garbage out + black box
+
+  \begin{itemize}
+  \tightlist
+  \item
+    not. good.
+  \item
+    especially when AI will dominate decision making and analysis.
+  \end{itemize}
+\item
+  forced to give data by tragedy of the commons
+
+  \begin{itemize}
+  \tightlist
+  \item
+    you want ml networks to portray your demographic accurately,
+  \item
+    and if you don't give data, it won't. In a world dominated by ml,
+  \item
+    giving your data becomes necessity
+  \end{itemize}
+\item
+  forced to give data by economic necessity
+
+  \begin{itemize}
+  \tightlist
+  \item
+    where data collection is truly opt out, services replace it with
+    paid
+  \item
+    economically worse off will be more likely to give data
+  \item
+    skews data collected?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{during-discussion}{%
+\subsection{during discussion}\label{during-discussion}}
+
+pri v sec -\textgreater{} pri v los
+
+\hypertarget{reflec}{%
+\subsection{Reflec}\label{reflec}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\item
+  \textbf{What is the ethical issue/debate/controversy in question? In
+  other words, how does the topic relate to the question of how we
+  should live with science and technology?} Should abortion be legal?
+  How do we think about start of life with improving technology?
+\item
+  \textbf{Describe at least two different perspectives on the issue
+  (these could be complementary or opposing).} Abortion is murder, it
+  shoudn't be legal. People have a right to their own body.
+\item
+  \textbf{What seems to be at stake (e.g, philosophically, politically,
+  or intellectually)?} Abortion laws!
+\end{enumerate}
+
+\end{document}

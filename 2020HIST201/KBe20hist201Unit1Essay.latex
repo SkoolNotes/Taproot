@@ -1,0 +1,567 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ 20hist201 }
+\newcommand{\thelesson}{ Unit 1 Essay Planning - Exr0n }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2639)}}    % original
+%\rhead{\textrmlf{Compiled }\#2639\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2639\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=2020HIST201/KBHistoryMasterIndex.md}{\tiny\textulf{[[}\textbf{2020HIST201/KBHistoryMasterIndex.md}\textulf{]]}}}\thinspace
+
+\#flo \#disorganized \#incomplete
+
+\hypertarget{prompt}{%
+\section{Prompt}\label{prompt}}
+
+\hypertarget{planning}{%
+\section{Planning}\label{planning}}
+
+\begin{itemize}
+\item
+  bulliet, maybe a little bit of gelvin for ottoman silver
+\item
+  gelvin talks about silver trade a little, 17th century collapse was
+  because silver
+\item
+  mann talks about silver on spain
+\item
+  why did china react the way they did and how did it affect them?
+\item
+  as you look at differing responses, might pull in how silver trade
+  relates to creatinog of trade based vs territory based empires
+
+  \begin{itemize}
+  \tightlist
+  \item
+    or similarities and differences and those become the paragraphs
+  \item
+    maybe everyone reacted differently and some were screwwed less
+    because silver but more blank (centralization, conservatism)
+  \end{itemize}
+\item
+  ways different
+
+  \begin{itemize}
+  \tightlist
+  \item
+    differnt trade treaties
+  \item
+    maybe silver made different impacts on their economic system
+  \end{itemize}
+\item
+  next steps
+
+  \begin{itemize}
+  \tightlist
+  \item
+    think about how ottoman vs ming silver reaction differed
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{literally-all-the-things}{%
+\section{Literally All the Things}\label{literally-all-the-things}}
+
+\hypertarget{ottomans}{%
+\subsection{Ottomans}\label{ottomans}}
+
+\hypertarget{ottoman-military-replaced-cavalry-with-janissaries-to-save-money-and-be-more-effective-but-it-backfired}{%
+\subsubsection{Ottoman military replaced cavalry with Janissaries to
+save money and be more effective, but it
+backfired}\label{ottoman-military-replaced-cavalry-with-janissaries-to-save-money-and-be-more-effective-but-it-backfired}}
+
+\#source bulliet - Ottoman military was originally made of cavalry and
+Janissaries - Cavalry were paid with land, while Janissaries were paid
+with money. Janissaries were also more effective under devshirme - to
+regain land, government squeezed out cavalry - Inflation from south
+american silver also caused fixed currency peoples to struggle - all
+this led to revolt (cavalry + suddenly poor people) - Janissaries took
+advantage to make ``Janissication'' hereditary and marry/start
+businesses - Revolts + Ended up costing more -\textgreater{} government
+struggling
+
+\hypertarget{ottomans-didnt-produce-their-own-metals-so-it-all-got-traded-away}{%
+\subsubsection{Ottomans didn't produce their own metals, so it all got
+traded
+away}\label{ottomans-didnt-produce-their-own-metals-so-it-all-got-traded-away}}
+
+\#source bulliet - European silver created a wave of inflation, where
+european traders had more silver than ottoman internal merchants -
+Safavid Iran also needed precious metals so they traded with the
+ottomans for it, which meant the ottomans had even hard money - Some use
+of copper coins which were inflation resistant?
+
+\hypertarget{penetration-of-european-merchant-capital}{%
+\subsubsection{``penetration of European merchant
+capital''}\label{penetration-of-european-merchant-capital}}
+
+\#source cleveland - ottoman merchants traded raw materials for european
+manufactured products - benefited merchants, hurt government revenues -
+lack of raw materials caused inflation - This meant government couldn't
+pay military
+
+\hypertarget{capitulations}{%
+\subsubsection{Capitulations}\label{capitulations}}
+
+\#source cleveland - treaties originally meant to encourage
+international trade - later exploited by european merchants with
+stronger military to back them up
+
+\hypertarget{first-capitulation}{%
+\paragraph{First Capitulation}\label{first-capitulation}}
+
+\begin{itemize}
+\tightlist
+\item
+  Signed with france in 1536
+
+  \begin{itemize}
+  \tightlist
+  \item
+    french merchants could trade with low taxes, etc in ottoman ports
+  \item
+    merchants would be punished under french law
+  \end{itemize}
+\item
+  See example: \#source primary-franc-ottoman-treaty
+\end{itemize}
+
+\hypertarget{government-weakening}{%
+\subsubsection{Government weakening}\label{government-weakening}}
+
+\#source cleveland - Caused by inflation - government workers were on a
+fixed wage - when in inflation happened, they were not paid enough -
+were more likely to take bribes and ``other forms of corruption'' - lead
+to declining military -\textgreater{} embarrassing treaties
+-\textgreater{} Treaty of Küchük Kay-narja (1774) -\textgreater{} Russia
+meddling with ottoman politics - ``technological advantage lost''
+
+\hypertarget{ming}{%
+\subsection{Ming}\label{ming}}
+
+\hypertarget{smuggled-silver}{%
+\subsubsection{Smuggled Silver}\label{smuggled-silver}}
+
+\#source mann homogenocene - The conflict - Spanish government wanted
+all silver in spain - trading silver and gold in china was more
+profitable than anywhere else - disagreement - Official sources say 25\%
+silver was smuggled to china - Historians assumed no more 10\% - New
+research argues that smuggling took maybe half of silver to china -
+implications - was the economy driven by european expansion or chinese
+demand? \#\#\# Money Troubles \#source mann ming trade - unreliable
+state currency lead to merchants using hunks of silver - bronze coins
+too cheap and not enough to go around - paper money easily inflated -
+new emperors kept outlawing old coins and creating new ones that
+immediately destabilized - merchants started using small silver ingots
+
+\hypertarget{silver-as-money}{%
+\paragraph{Silver as money}\label{silver-as-money}}
+
+\begin{itemize}
+\tightlist
+\item
+  Bowls 1-4 inches in diameter
+\item
+  purity certified by ``kanyinshi''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    who regularly cheated all parties
+  \end{itemize}
+\item
+  money not issued by government
+
+  \begin{itemize}
+  \tightlist
+  \item
+    privatized money
+  \item
+    very not conservative
+  \end{itemize}
+\item
+  basically all transactions + taxes silver by 1570
+\end{itemize}
+
+\hypertarget{lack-of-silver}{%
+\paragraph{Lack of Silver}\label{lack-of-silver}}
+
+\begin{itemize}
+\tightlist
+\item
+  Chinese silver mines ran dry, needed source from other places
+
+  \begin{itemize}
+  \tightlist
+  \item
+    japan, kinda
+  \item
+    wokou, traded a bit of silver for many goods (much silk and
+    porcelain)
+  \end{itemize}
+\item
+  wokou silver -\textgreater{} business people -\textgreater{} taxes
+  -\textgreater{} government -\textgreater{} military -\textgreater{}
+  attacks on wokou
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ``The ming government was at war with its own money supply''
+  \end{itemize}
+\item
+  Thus, the government had to allow the Fujianese traders
+
+  \begin{itemize}
+  \tightlist
+  \item
+    they went around, and found boats of money in the Philippines
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{silver-trade-primary-sources}{%
+\subsubsection{silver trade primary
+sources}\label{silver-trade-primary-sources}}
+
+\#source silver trade dbq - Doc2: lots of silver was traded through the
+Philippines - Doc3: silver is scarce (economic deflation) - Doc4:
+portuguese trade silver for goods in China, goods for silver in japan -
+Doc5: more strict economics with silver currency - Doc6: spanish silver
+production - \textbf{silver mine discovered in 1545} - by spanish
+records, 326000000 coins - \textbf{does not include smuggling!} - Doc7:
+ming official asks to repeal trade ban for much profit - Doc8: England
+trades china silver for ``luxary items'' that are of no use, but can't
+stop because someone else would take over trade and just sell to them at
+higher price.
+
+\hypertarget{kennedy-bashing-on-people}{%
+\subsection{Kennedy Bashing on People}\label{kennedy-bashing-on-people}}
+
+\hypertarget{ming-1}{%
+\subsubsection{Ming}\label{ming-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  ``sheer conservatism of the Confucian bureaucracy''
+\item
+  ``did not reassess'' when people appeared off the coast
+\item
+  ``dislike of commerce and private capital''
+\item
+  restricted technology (canals, clocks, printing)
+\item
+  spent money on land and education instead of technology
+\end{itemize}
+
+\hypertarget{ottomans-1}{%
+\subsubsection{Ottomans}\label{ottomans-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  ``falter, to turn inward, and to lose the chance of world domination''
+\item
+  strategical overextension
+\item
+  many enemy states around (after crazy fast expansion)
+\item
+  incompetent sultans in succession
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ``an idiot sultan could paralyze the ottoman empire in the way that
+    a pope or holy roman emperor could never do for all europe''
+  \end{itemize}
+\item
+  lack of expansion after 1550 caused Janissaries to turn to internal
+  plunder
+\item
+  merchants (many foreign) may be seized
+\end{itemize}
+
+\hypertarget{similarities-in-kennedys-eyes}{%
+\subsubsection{Similarities in Kennedy's
+eyes}\label{similarities-in-kennedys-eyes}}
+
+\begin{itemize}
+\tightlist
+\item
+  conservative
+\item
+  stopped military expansion/exploration
+\item
+  incompetent leaders
+\item
+  doesn't like merchants
+\end{itemize}
+
+\hypertarget{outlining}{%
+\section{Outlining}\label{outlining}}
+
+\hypertarget{thesis-ideas}{%
+\subsection{Thesis Ideas}\label{thesis-ideas}}
+
+``kennedy said that the ming and the ottomans suffered the same
+downfall, and while they did both ultamately struggle due to spanish
+silver inflation and european traders, the inflationary loop started
+with emperors in ming china while the ottomans just kinda got stomped +
+janissaries weren't vere patriotic''
+
+Although the economies of both the Ottoman and Ming empires suffered due
+to spiraling inflation and European trade, their misfortunes were not as
+similar as Kennedy suggests: the Ottomans' overstretched military was
+undermined by Europeans trading silver while the Mings' internal
+inflation spiral forced trade with and ultimately destruction by
+Europeans.
+
+\hypertarget{body-1-choice-a}{%
+\subsection{Body 1 (choice A)}\label{body-1-choice-a}}
+
+\hypertarget{topic}{%
+\subsubsection{Topic}\label{topic}}
+
+Kennedy said the ming and the ottomans suffered the same downfall due to
+centralization and economic troubles.
+
+\hypertarget{evidence}{%
+\subsubsection{Evidence}\label{evidence}}
+
+\begin{itemize}
+\tightlist
+\item
+  ``{[}the ottomans{]} were to falter {[}\ldots{]} strikingly similar
+  Ming decline'' (Kennedy 11)
+\item
+  ``The system as a whole, like that of Ming China, increasingly
+  suffered from some of the defects of being centralized, despotic, and
+  severely orthodox in it's attitude toward initiative dissent, and
+  commerce.'' (Kennedy 11)
+\item
+  ``dislike trade'' similarities
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ``Merchants ant entrepreneurs (nearly all of whom were foreigners),
+    who earlier had been encouraged, now found themselves subject to
+    unpredictable taxes and outright seizures of property'' (Kennedy 12)
+  \item
+    ``The mandarins {[}had{]} a suspicion of trader'' (Kennedy 8)
+  \item
+    ``{[}The mandarins{]} dislike of commerce and private capital
+    {[}\ldots{]}'' (Kennedy 8)
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{body-1-choice-b}{%
+\subsection{Body 1 (choice B)}\label{body-1-choice-b}}
+
+\hypertarget{topic-1}{%
+\subsubsection{Topic}\label{topic-1}}
+
+Both the Ming and Ottoman empires suffered from economies weakened by
+instability and revolt caused by inflation.
+
+\hypertarget{evidence-1}{%
+\subsubsection{Evidence}\label{evidence-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  "
+\end{itemize}
+
+\hypertarget{body-2}{%
+\subsection{Body 2}\label{body-2}}
+
+\hypertarget{topic-2}{%
+\subsubsection{Topic}\label{topic-2}}
+
+\hypertarget{evidence-2}{%
+\subsubsection{Evidence}\label{evidence-2}}
+
+\hypertarget{body-3}{%
+\subsection{Body 3}\label{body-3}}
+
+\hypertarget{topic-3}{%
+\subsubsection{Topic}\label{topic-3}}
+
+\hypertarget{evidence-3}{%
+\subsubsection{Evidence}\label{evidence-3}}
+
+\hypertarget{sources}{%
+\section{Sources}\label{sources}}
+
+\begin{itemize}
+\tightlist
+\item
+  Bulliet Ottomans
+\item
+  Mann ming trade
+\item
+  Mann homogenocene
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

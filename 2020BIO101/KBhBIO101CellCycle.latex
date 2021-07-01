@@ -1,0 +1,311 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ The Cell Cycle }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}12080)}}    % original
+%\rhead{\textrmlf{Compiled }\#12080\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101CellLifecycle}{\tiny\textulf{[[}\textbf{KBhBIO101CellLifecycle}\textulf{]]}}}\thinspace
+
+\hypertarget{the-cell-cycle}{%
+\section{The Cell Cycle}\label{the-cell-cycle}}
+
+The cell cycle is roughly three parts which is really 5 parts which is
+really 9 parts.
+
+The three main parts are:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Interphase} --- G1, S, G2: systems preperation for mitosis
+\item
+  \textbf{Mitosis} --- Separation of the duplicated chromosomes
+\item
+  \textbf{Cytokinesis} --- the splitting of the cell itself. Really part
+  of mitosis
+\end{itemize}
+
+\hypertarget{features-of-the-cell-cycle}{%
+\subsection{Features of the Cell
+Cycle}\label{features-of-the-cell-cycle}}
+
+\textbf{\emph{Most} cell division results in genetically identical
+daughter cell}
+
+Each cell, once specialised, chooses what parts of their chromasome to
+unwrap + permanently wrap.
+
+Difference in transcription results in different phenotypes.
+
+Sperm + Egg (imcomplete cells) combine together to form a ``zygote''
+=\textgreater{} a single cell. Each person is from a zygote.
+
+\href{https://docs.google.com/document/d/1TIrgR9VSV3attTK_QP-AOCs33mMoBP0Cz7DQXysKoD0/edit}{Paul's
+Cell Cycle Primer}
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-11-09 at 3.16.12 PM.png}
+\caption{Screen Shot 2020-11-09 at 3.16.12 PM.png}
+\end{figure}
+
+\hypertarget{the-phrases}{%
+\subsection{The Phrases}\label{the-phrases}}
+
+\hypertarget{g1-rest-phase-gap-1}{%
+\subsubsection{G1 =\textgreater{} Rest Phase, Gap
+1}\label{g1-rest-phase-gap-1}}
+
+This is the phase which is the ``daily life of a cell''. There are two
+major checkpoints in this phase which, upon it is reached, sets the rest
+of the cell cycle into motion.
+
+\begin{itemize}
+\tightlist
+\item
+  May hit s.a. to volume checkpoint =\textgreater{} if ratio too big,
+  the cell is too big
+\item
+  May hit diffusion checkpoint =\textgreater{} larger cells would need
+  to work harder to transport things to the centre
+\end{itemize}
+
+At this phase, the organelles in the cytoplasm also replicates in
+preparation for the S phase.
+
+\hypertarget{s-s-phase-duplicate-dna.-150-mins}{%
+\subsubsection{S =\textgreater{} S Phase, duplicate DNA. 150
+mins}\label{s-s-phase-duplicate-dna.-150-mins}}
+
+In this process, all of the DNA that is in the nucleus will be
+{[}{[}KBhBIO101DNAReplication{]}{]}ed in order to actually split the
+cell in half.
+
+\hypertarget{g2-rest-phrase-gap-2.}{%
+\subsubsection{G2 =\textgreater{} Rest Phrase, Gap
+2.}\label{g2-rest-phrase-gap-2.}}
+
+The pairs of DNA begins bundling and condensing; the DNA is also checked
+upon and verified for consistency and dumped based the needs of the
+cell.
+
+At this point, the enzymes needed to assist Mitosis is also synthesized.
+
+\hypertarget{m-mitosis}{%
+\subsubsection{M =\textgreater{} Mitosis!}\label{m-mitosis}}
+
+Mitosis is the process by which non-sex (somatic) cells actually divide.
+It consists of four parts --- prophase, metaphase, anaphase, telophase
+--- and a final seperation called cytokenisis. See
+{[}{[}KBhBIO101Mitosis{]}{]}.
+
+\textbf{or\ldots{}}
+
+\hypertarget{m-meiosis}{%
+\subsubsection{M =\textgreater{} Meiosis!}\label{m-meiosis}}
+
+Mitosis is the process by which sex cells (gametes) divide. It consists
+of four parts --- prophase, metaphase, anaphase, telophase --- and
+cytokinesis but TWICE! This process also has clever mechanisms to ensure
+genetic diversity. See yourself: {[}{[}KBhBIO101Meiosis{]}{]}
+
+\hypertarget{cell-cycle-regulation}{%
+\subsection{Cell cycle regulation}\label{cell-cycle-regulation}}
+
+Purpose of regulation: \textbf{Cells must meet certain conditions before
+moving onto the next phase.}
+
+Cell regulators are proteins that manage and sheperard the process of
+cell division. They respond to molecular signals throughout the cell and
+check for internal signals like DNA damage to control the rate and
+progress of cell division.
+
+See {[}{[}KBhBIO101CellCycleRegulation{]}{]}
+
+\hypertarget{how-about-meiosis}{%
+\subsection{How about Meiosis?}\label{how-about-meiosis}}
+
+{[}{[}KBhBIO101Meiosis{]}{]} ~
+
+\end{document}

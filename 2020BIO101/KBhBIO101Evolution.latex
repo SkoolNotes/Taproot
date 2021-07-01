@@ -1,0 +1,419 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage[T1]{fontenc} % https://latex.org/forum/viewtopic.php?t=5540
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont{Iosevka Aile Light}
+%\setmainfont[
+%  ItalicFont      = NimbusSansNarrow,
+%  BoldFont        = NimbusSansBold,
+%  BoldItalicFont  = NimbusSans-BoldItalic]{NimbusSans}
+%\setmainfont[
+%  ItalicFont     = Helvetica-Italic,
+%  BoldFont       = Helvetica-Bold,
+%  BoldItalicFont = Helvetica-BoldItalic]{Helvetica}
+%\setmainfont[
+%  ItalicFont     = HelveticaNeue-Italic,
+%  BoldFont       = HelveticaNeue-Bold,
+%  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight{Iosevka Aile Thin}
+%\newfontfamily\NHLight[
+%  ItalicFont     = Helvetica-LightItalic,
+%  BoldFont       = Helvetica-UltraLight,
+%  BoldItalicFont = Helvetica-UltraLightItalic]{Helvetica}
+%\newfontfamily\NHLight[
+%  ItalicFont     = HelveticaNeue-LightItalic,
+%  BoldFont       = HelveticaNeue-UltraLight,
+%  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Evolution }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15289)}}    % original
+%\rhead{\textrmlf{Compiled }\#15289\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{evolution}{%
+\section{Evolution}\label{evolution}}
+
+\emph{The unifying theory of all biology involving any change in the
+heritable traits in a population over a long period of time.}
+
+\textbf{Causes of of evolution} - different reproduction rates -
+Environmental pressures - non-random mate choices - Migration
+
+\textbf{Evidence for evolution} - Lab evidence of short-lifespan
+bacteria - Fossels and and DNA evidence
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{begin-by-defining-evolution}{%
+\subsection{Begin by defining
+evolution}\label{begin-by-defining-evolution}}
+
+=\textgreater{} Descend with modification
+
+\textbf{Micro-evolution}: changes in alleal frequency within a
+population from one generation to the next
+
+\textbf{Macro-evolution}: descend of different special from a common
+ancestry over much longer timescales
+
+\emph{Remember: evolution happens over \textbf{deep time} --- much
+longer than your monkey brain could feasibly preserved}
+
+The size of civilization to now is about 10,000 years, which is 0.002
+seconds if all history is 1 minute.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{dna-evidence-for-evolution}{%
+\subsubsection{DNA Evidence for
+evolution}\label{dna-evidence-for-evolution}}
+
+Comparing DNA between spcecis could show an idea of common ancestry.
+
+\textbf{Evolution Experiment}
+
+\begin{itemize}
+\tightlist
+\item
+  Take bacteria
+\item
+  Introduce a filter/challenge (antibiotic)
+\item
+  Result: resistant bacterial is left, and they prosper
+\end{itemize}
+
+\hypertarget{fossil-example}{%
+\subsubsection{Fossil Example}\label{fossil-example}}
+
+\begin{itemize}
+\tightlist
+\item
+  Analyzing fossils over time
+\end{itemize}
+
+\hypertarget{origin-of-life}{%
+\subsection{Origin of Life}\label{origin-of-life}}
+
+(Before there was evolution)
+
+\begin{itemize}
+\tightlist
+\item
+  RNA world Hypothesis =\textgreater{} RNA started self replicating and
+  kabamm
+\item
+  Metabolism Evolution
+\end{itemize}
+
+The Miller-Agieri experiment: fundamental earth molecule + heats and
+pressure =\textgreater{} kabamm amino acids and DNA and other organic
+molecules.
+
+\hypertarget{common-ancestry}{%
+\subsection{Common Ancestry}\label{common-ancestry}}
+
+All life on earth is related by descent from a universal ancestor.
+
+There is a certain ancestor LUCA --- which is the Last Universal Common
+Ancestor.
+
+{[}{[}Pasted image 20210602134509.png{]}{]}
+
+\hypertarget{mechanisms-of-evolution}{%
+\subsection{Mechanisms of evolution}\label{mechanisms-of-evolution}}
+
+\begin{itemize}
+\tightlist
+\item
+  Natural Selection
+\item
+  Genetic drift
+\item
+  Gene flow
+\item
+  Variations/Mutations
+\end{itemize}
+
+\hypertarget{natural-selection}{%
+\subsubsection{Natural Selection}\label{natural-selection}}
+
+\begin{itemize}
+\tightlist
+\item
+  Variatinon =\textgreater{} for a certain trait, there are differences
+  between individuals
+\item
+  Heritability =\textgreater{} differences that could be passed through
+  generations
+\item
+  Reproductive advantage =\textgreater{} ability to increase rate of
+  reproduction/competition
+\end{itemize}
+
+\emph{Natural selection could change allele frequencies in a particular
+population over time.}
+
+After a longer time, eventually, natural selection will make new
+species.
+
+\textbf{Sexual selection: a special case} \emph{The process of natural
+selection acting on an organism's ability to access
+mates/fertilization.}
+
+\emph{Direct Benefits} - Care, food, territory, etc.
+
+\emph{Indirect Benefits} - Choosing of the most competent male - ``Good
+genes'' of ornamentation (looking pretty is costly)
+
+This could also produce harmful results (looking good also attracts
+predators.)
+
+\hypertarget{genetic-drift-gene-flow}{%
+\subsubsection{Genetic Drift + Gene
+Flow}\label{genetic-drift-gene-flow}}
+
+\emph{Mechanisms of evolution without adaptation}
+
+\textbf{Genetic Drift}
+
+\begin{itemize}
+\tightlist
+\item
+  Traits are not selected because they are beneficial against
+  environmental pressures
+\item
+  Allele frequencies change based on random chance or events
+\end{itemize}
+
+Random bottlenecks (like, colonization, a typhoon) cause the next
+generation to randomly have a large alleal that's not at all
+competitive.
+
+\textbf{Gene Flow} Movement/migration of one individual with a dominante
+gene over takes the others/change genetic makeup.
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Genetic Drift}: one-way movement from larger population to
+  unestablished population causes (even recessive) genes to multiply
+\item
+  \textbf{Gene Flow}: potential for two-way movement in well-established
+  communities affecting population alleales (mostly dominant) by making
+  babies
+\end{itemize}
+
+\hypertarget{mutations}{%
+\subsubsection{Mutations}\label{mutations}}
+
+{[}{[}KBhBIO101Mutations{]}{]}
+
+{[}{[}Pasted image 20210604104642.png{]}{]}
+
+\hypertarget{artificial-selection}{%
+\subsubsection{Artificial Selection}\label{artificial-selection}}
+
+A chuwawa + saint-benard mix.
+
+{[}{[}Pasted image 20210604104820.png{]}{]}
+
+\hypertarget{speciation}{%
+\subsection{Speciation}\label{speciation}}
+
+When does many many mutations build up into one new species?
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Establishing a barrier to gene flow (like, a large ocean)
+\item
+  Genetic divergence accumulation until reproductive seperation
+\end{enumerate}
+
+Variation =\textgreater{} Natural Selection =\textgreater{} Evolution
+=\textgreater{} Speciation
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Fitness}: ``how many offsprings can this organism reproduce and
+pass its DNA to?'' Evolution can take place when natural selection has
+occurred.
+
+You could also create traits that's non benificial and gets weeded out.
+
+\end{document}

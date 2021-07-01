@@ -163,7 +163,7 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=README}{\tiny\textulf{[[}\textbf{README}\textulf{]]}}}\thinspace
 
 \hypertarget{howdy}{%
 \section{Howdy}\label{howdy}}
@@ -257,6 +257,9 @@ The ``default'' file for any topic. Should link to everything else.
 \end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
+
+Don't forget to add a tag demarcating the file type in addition to the
+type in the name!
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

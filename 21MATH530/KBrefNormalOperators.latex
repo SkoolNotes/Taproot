@@ -1,0 +1,112 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Normal Operators},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{Normal Operators}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\hypertarget{axler7.18-normal}{%
+\section{\texorpdfstring{Axler7.18 normal
+{\textsc{def}}}{Axler7.18 normal def}}\label{axler7.18-normal}}
+
+Not to be confused with \href{KBrefNormal.org}{normal vectors}, which
+have \href{KBrefNorm.org}{norm} 1.
+
+\begin{quote}
+\begin{itemize}
+\tightlist
+\item
+  An operator on an inner product space is called \emph{normal} if it
+  commutes with its adjoint.
+\item
+  aka: \(T \in  \mathcal{L}(V)\) is \emph{normal} if
+\end{itemize}
+
+\[\begin{aligned}
+TT^* = T^*T
+\end{aligned}\]
+\end{quote}
+
+Every \href{KBrefSelfAdjointOperators.org}{self adjoint} operator is
+normal, because \(TT = TT\)
+
+\hypertarget{results}{%
+\section{results}\label{results}}
+
+\hypertarget{axler7.20-t-is-normal-iff-lvert-tv-rvert-lvert-t-v-rvert-for-all-v}{%
+\subsection{\texorpdfstring{Axler7.20 \(T\) is normal iff
+\(\lVert Tv \rVert = \lVert T^* v \rVert\) for all
+\(v\)}{Axler7.20 T is normal iff \textbackslash lVert Tv \textbackslash rVert = \textbackslash lVert T\^{}* v \textbackslash rVert for all v}}\label{axler7.20-t-is-normal-iff-lvert-tv-rvert-lvert-t-v-rvert-for-all-v}}
+
+This implies that \(\onull T = \onull T^*\) for all normal operators
+\(T\)..
+
+\hypertarget{axler7.21-for-t-normal-t-and-t-have-the-same-eigenvectors}{%
+\subsection{\texorpdfstring{Axler7.21 For \(T\) normal, \(T\) and
+\(T^*\) have the same
+eigenvectors}{Axler7.21 For T normal, T and T\^{}* have the same eigenvectors}}\label{axler7.21-for-t-normal-t-and-t-have-the-same-eigenvectors}}
+
+\begin{quote}
+And the corresponding eigenvalues are conjugates of one another.
+\end{quote}
+
+\hypertarget{axler7.22-normal-operators-have-orthogonal-eigenvectors}{%
+\subsection{Axler7.22 Normal operators have orthogonal
+eigenvectors}\label{axler7.22-normal-operators-have-orthogonal-eigenvectors}}
+
+\begin{quote}
+Suppose \(T \in  \mathcal{L}(V)\) is normal. Then eigenvectors of \(T\)
+corresponding to disticnct eigenvalues are orthogonal.
+\end{quote}
+
+\end{document}

@@ -32,3 +32,17 @@ Estar…
 ## Express what to do
 * *Deber + inf* => You gotta
 * *Necesitas + inf* => You need to
+
+"Recibe una examinen medico **una vez cada** seis meses."
+
+## Verbs that are Special
+
+Poder => Pud*
+
+Estar => Estu*
+
+Poner => Pus*
+
+Querer => Quis*
+
+Tener => Tuv*

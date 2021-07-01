@@ -1,0 +1,239 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ 20math530 }
+\newcommand{\thelesson}{ Mini Quiz: Subspace Addition forms Groups? }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBe2020math530refExr0nRetIndex}{\tiny\textulf{[[}\textbf{KBe2020math530refExr0nRetIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{problem}{%
+\section{Problem}\label{problem}}
+
+\begin{quote}
+Do subspaces form a group under subspace addition?
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  Properties for a group: {[}{[}KBe2020math530refGroups{]}{]}
+\item
+  Closed, Identity, Inverses, Associative
+\end{itemize}
+
+\hypertarget{working-it-out}{%
+\section{Working it out}\label{working-it-out}}
+
+I don't actually remember the exact definition of subspace addition. If
+I remember correctly from the proof of Axler exercise 1.C.14, the sum of
+two subspaces is the subspace where each vector is the sum of two
+vectors in the original two subspaces?
+
+\hypertarget{closed}{%
+\subsection{Closed}\label{closed}}
+
+I don't remember if it was guaranteed to be a subspace, but it must have
+the identity (because the constituents both had the identity), it is
+closed under scalar multiplication (because you could take the sum
+apart, multiply the bits from each smaller subspace which are closed
+under scalar multiplication, and then put them back together again). I
+think it is closed under addition because both parts are closed under
+addition. This is by no means a rigorous proof, but it is as close as I
+can get without knowing the actual definition of a subspace sum, and I
+think its reasonably convincing.
+
+\hypertarget{identity}{%
+\subsection{Identity}\label{identity}}
+
+If the above is true, then subspaces are closed under subspace addition.
+The identity subspace would be the one with only the field additive
+identity, because there is only one element so the resulting subspace
+sum has the same number of elements as the other original subspace, and
+because the identity vector plus any vector of the other subspace will
+be that other vector by definition.
+
+\hypertarget{inverse}{%
+\subsection{Inverse}\label{inverse}}
+
+Because the subspace sum is all of the possible outputs when adding each
+vector in the two subspaces, if a subspace has two or more unique
+elements then it's not possible to have an inverse subspace: it would
+not be possible to create a subspace and force the parings such that the
+resulting subpsace sum is the degenerate one (\({0}\)).
+
+\hypertarget{checking}{%
+\section{Checking}\label{checking}}
+
+Now I will look back at the textbook to see what the formal definition
+of subspace sum is and if my previous conclusions were valid. The quiz
+assignment says to avoid help from classes or websites, so I am not sure
+if I am allowed to look at the textbook. If not, please grade me on the
+previous sections only.
+
+It seems like my notion of subspace sums is roughly correct, so I am
+pretty sure that \[
+\fbox{ No, subspaces do not form a group under subspace addition due to a lack of inverses. }
+\]
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

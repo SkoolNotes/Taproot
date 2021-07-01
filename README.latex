@@ -6,6 +6,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage[normalem]{ulem}
+
 \usepackage{cancel}
 
 \usepackage{ifthen}
@@ -120,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1966)}}    % original
+%\rhead{\textrmlf{Compiled }\#1966\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1966\textrmlf{ on} \today}       % new date
 \lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -134,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -160,23 +164,28 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\ifthenelse{ \equal{}{} }
-{}
-{\textbf{Source}: \href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}
+\begin{figure}
+\centering
+\includegraphics{./meta/taproot_logo_redorange.png}
+\caption{Taproot Logo}
+\end{figure}
 
 \hypertarget{welcome}{%
 \section{Welcome}\label{welcome}}
 
 Howdy :wave:, welcome to Taproot. Take a look around, either in person
-or from our \href{taproot.shabang.cf}{handy web portal}.
+or from our \href{https://taproot.shabang.cf}{handy web portal}.
 
 \hypertarget{philosophy}{%
 \subsection{Philosophy}\label{philosophy}}
 
 Zettelkasten, maybe. But basically, create a repository of knowledge
 that should be easy to refer back to and effective for relearning
-things.
+things. We strive to create atomic, self contained notes that link to
+other references. Think a more granular Wikipedia
 
 \hypertarget{structure}{%
 \subsection{Structure}\label{structure}}
@@ -201,10 +210,16 @@ Thanks for stopping by!
 
 A ``taproot'' is a ``large, central, and dominant root from which other
 roots sprout laterally''
-(\href{https://en.wikipedia.org/wiki/Taproot\#:~:text=A\%20taproot\%20is\%20a\%20large,other\%20roots\%20sprout\%20laterally.}{Wikipedia}).
-Also, it's a food!
+(\href{https://en.wikipedia.org/wiki/Taproot}{Wikipedia}). Also, it's a
+food!
 
-Created by Houjun Liu, Huxley Marvit, Zachary Sayyah, Albert Huang.
+\begin{enumerate}
+\def\labelenumi{(\alph{enumi})}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  2020-2021 Houjun Liu, Huxley Marvit, Zachary Sayyah, Albert Huang
+\end{enumerate}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 

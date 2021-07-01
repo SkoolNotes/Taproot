@@ -1,0 +1,462 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+%\setmainfont[
+%   ItalicFont     = HelveticaNeue-Italic,
+%   BoldFont       = HelveticaNeue-Bold,
+%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight[
+%   ItalicFont     = HelveticaNeue-LightItalic,
+%   BoldFont       = HelveticaNeue-UltraLight,
+%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+\setmainfont[
+   ItalicFont     = Iosevka-Aile-Italic,
+   BoldFont       = Iosevka-Aile-Bold,
+   BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+\newfontfamily\NHLight[
+   ItalicFont     = Iosevka-Aile-Light-Italic,
+   BoldFont       = Iosevka-Aile-Light,
+   BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6522)}}    % original
+%\rhead{\textrmlf{Compiled }\#6522\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6522\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{rand-ideas-in-other-sciences}{%
+\section{rand ideas in other
+sciences}\label{rand-ideas-in-other-sciences}}
+
+\hypertarget{theory-of-matter}{%
+\subsection{theory of matter}\label{theory-of-matter}}
+
+\hypertarget{big-bang-theory}{%
+\subsection{big bang theory}\label{big-bang-theory}}
+
+\hypertarget{newtons-laws}{%
+\subsection{newtons laws}\label{newtons-laws}}
+
+\hypertarget{conservation-of-matter-energy}{%
+\subsection{conservation of matter /
+energy}\label{conservation-of-matter-energy}}
+
+\hypertarget{cell-theory}{%
+\subsection{cell theory}\label{cell-theory}}
+
+\hypertarget{evolution}{%
+\subsection{evolution}\label{evolution}}
+
+\hypertarget{math}{%
+\subsection{math}\label{math}}
+
+\hypertarget{finding-relationships-abstract-things}{%
+\subsubsection{finding relationships (abstract
+things)}\label{finding-relationships-abstract-things}}
+
+\hypertarget{what-do-those-grand-theories-do}{%
+\section{what do those grand theories
+do?}\label{what-do-those-grand-theories-do}}
+
+\hypertarget{describe-invariant-relationships-like-emc2}{%
+\subsection{\texorpdfstring{describe invariant relationships like
+E=mc\textsuperscript{2}}{describe invariant relationships like E=mc2}}\label{describe-invariant-relationships-like-emc2}}
+
+\hypertarget{define-limits-on-what-is-possible-and-what-isnt}{%
+\subsection{define limits on what is possible and what
+isn't}\label{define-limits-on-what-is-possible-and-what-isnt}}
+
+\hypertarget{emergent-properties-from-computational-systems-that-are-difficult-to-predict}{%
+\subsection{emergent properties from computational systems that are
+difficult to
+predict}\label{emergent-properties-from-computational-systems-that-are-difficult-to-predict}}
+
+\hypertarget{how-does-computing-let-us-do-similar-things-to-laws-and-theories-in-science}{%
+\section{how does computing let us do similar things to laws and
+theories in
+science?}\label{how-does-computing-let-us-do-similar-things-to-laws-and-theories-in-science}}
+
+\hypertarget{computational-complexity-theory}{%
+\section{computational complexity
+theory}\label{computational-complexity-theory}}
+
+\hypertarget{how-long-it-takes-to-compute-the-answer-as-a-function-of-the-input-size}{%
+\subsection{how long it takes to compute the answer as a function of the
+input
+size}\label{how-long-it-takes-to-compute-the-answer-as-a-function-of-the-input-size}}
+
+\hypertarget{overview-of-presentation}{%
+\subsection{overview of presentation}\label{overview-of-presentation}}
+
+\hypertarget{methods-for-determining-computational-complexity}{%
+\subsubsection{methods for determining computational
+complexity}\label{methods-for-determining-computational-complexity}}
+
+\hypertarget{wide-variation-in-complexity-of-diff-problems}{%
+\subsubsection{wide variation in complexity of diff
+problems}\label{wide-variation-in-complexity-of-diff-problems}}
+
+\hypertarget{computationally-hard-problems-are-very-difficult}{%
+\subsubsection{computationally hard problems are very
+difficult}\label{computationally-hard-problems-are-very-difficult}}
+
+\hypertarget{some-problems-have-not-yet-been-proven}{%
+\subsubsection{some problems have not yet been
+proven}\label{some-problems-have-not-yet-been-proven}}
+
+\hypertarget{problems-have-been-grouped-into-equivalence-classes}{%
+\subsubsection{problems have been grouped into equivalence
+classes}\label{problems-have-been-grouped-into-equivalence-classes}}
+
+\hypertarget{big-o-notation}{%
+\section{big O notation}\label{big-o-notation}}
+
+\hypertarget{approximate-run-time-not-exact}{%
+\subsection{approximate run time (not
+exact)}\label{approximate-run-time-not-exact}}
+
+\hypertarget{how-the-time-scaleschanges}{%
+\subsection{how the time
+scales/changes}\label{how-the-time-scaleschanges}}
+
+\hypertarget{examples}{%
+\section{examples}\label{examples}}
+
+\hypertarget{complexity-to-add-n-numebers-or-convert-each-char-in-a-string-to-upper-case}{%
+\subsection{complexity to add N numebers or convert each char in a
+string to upper
+case}\label{complexity-to-add-n-numebers-or-convert-each-char-in-a-string-to-upper-case}}
+
+\hypertarget{linear}{%
+\subsubsection{linear}\label{linear}}
+
+\hypertarget{sorting}{%
+\subsection{sorting}\label{sorting}}
+
+\hypertarget{n-log-n}{%
+\subsubsection{n log n}\label{n-log-n}}
+
+\hypertarget{pixels}{%
+\subsection{pixels}\label{pixels}}
+
+\hypertarget{opixels}{%
+\subsubsection{O(pixels)}\label{opixels}}
+
+\hypertarget{traveling-salesman}{%
+\subsection{traveling salesman}\label{traveling-salesman}}
+
+\hypertarget{n-brute-force}{%
+\subsubsection{N! brute force}\label{n-brute-force}}
+
+\begin{enumerate}
+\item
+  very bad
+\item
+  structure and interpretation of computer programs
+  {\textsc{source}}~{\textsc{recommended}}
+\end{enumerate}
+
+\hypertarget{programs-are-complex-more-words-than-war-and-peace}{%
+\section{programs are complex (more words than war and
+peace)}\label{programs-are-complex-more-words-than-war-and-peace}}
+
+\hypertarget{programming-can-become-faster-by-developing-tools}{%
+\section{programming can become faster by developing
+tools}\label{programming-can-become-faster-by-developing-tools}}
+
+\hypertarget{languages-compilers-debuggers-editors-libraries-methodologies-code-repos}{%
+\subsection{languages, compilers, debuggers, editors, libraries,
+methodologies, code
+repos}\label{languages-compilers-debuggers-editors-libraries-methodologies-code-repos}}
+
+\hypertarget{missing-grand-idea-evaluating-languages-scientificly}{%
+\section{missing grand idea: evaluating languages
+scientificly}\label{missing-grand-idea-evaluating-languages-scientificly}}
+
+\hypertarget{people-adopt-languages-in-a-bandwagon-ey-way}{%
+\subsection{people adopt languages in a bandwagon-ey
+way}\label{people-adopt-languages-in-a-bandwagon-ey-way}}
+
+\hypertarget{people-compared-lisp-and-java-and-found-that-lisp-tended-to-be-faster-faster-to-write-and-shorter}{%
+\subsection{people compared lisp and java and found that lisp tended to
+be faster, faster to write, and
+shorter}\label{people-compared-lisp-and-java-and-found-that-lisp-tended-to-be-faster-faster-to-write-and-shorter}}
+
+\hypertarget{inspire-human-reasoning-skills-from-computation}{%
+\section{inspire human reasoning skills from
+computation}\label{inspire-human-reasoning-skills-from-computation}}
+
+\hypertarget{computational-thinking-by-jeannette-wing}{%
+\subsection{computational thinking by jeannette
+wing}\label{computational-thinking-by-jeannette-wing}}
+
+\hypertarget{the-internet---communications-network-that-interconnects-almost-every-computer-on-earth}{%
+\section{the internet - communications network that interconnects almost
+every computer on
+earth}\label{the-internet---communications-network-that-interconnects-almost-every-computer-on-earth}}
+
+\hypertarget{design-goals}{%
+\subsection{design goals}\label{design-goals}}
+
+\hypertarget{highspeed}{%
+\subsubsection{highspeed}\label{highspeed}}
+
+\hypertarget{reliable-decentralized}{%
+\subsubsection{reliable / decentralized}\label{reliable-decentralized}}
+
+\hypertarget{many-types-of-computers}{%
+\subsubsection{many types of computers}\label{many-types-of-computers}}
+
+\hypertarget{many-types-of-networking-tech}{%
+\subsubsection{many types of networking
+tech}\label{many-types-of-networking-tech}}
+
+\hypertarget{no-appilation-knowledge-of-network-tech}{%
+\subsubsection{no appilation knowledge of network
+tech}\label{no-appilation-knowledge-of-network-tech}}
+
+\hypertarget{no-appliation-knowledge-of-networking-topology}{%
+\subsubsection{no appliation knowledge of networking
+topology}\label{no-appliation-knowledge-of-networking-topology}}
+
+\hypertarget{many-applications}{%
+\subsubsection{many applications}\label{many-applications}}
+
+\hypertarget{simple-application-interface}{%
+\subsubsection{simple application
+interface}\label{simple-application-interface}}
+
+\hypertarget{anonymity}{%
+\subsubsection{anonymity}\label{anonymity}}
+
+\hypertarget{security}{%
+\subsubsection{security}\label{security}}
+
+\hypertarget{design-solution}{%
+\subsection{design solution}\label{design-solution}}
+
+\hypertarget{packet-switching-over-circuit-switching-wires-dont-move}{%
+\subsubsection{packet switching over circuit switching (wires don't
+move)}\label{packet-switching-over-circuit-switching-wires-dont-move}}
+
+\hypertarget{some-redundancy}{%
+\subsubsection{some redundancy}\label{some-redundancy}}
+
+\hypertarget{common-packet-protocol}{%
+\subsubsection{common packet protocol}\label{common-packet-protocol}}
+
+\hypertarget{routing-algorithms}{%
+\subsubsection{routing algorithms}\label{routing-algorithms}}
+
+\hypertarget{network-connections-look-like-files-streams-of-bytes}{%
+\subsubsection{network connections look like files (streams of
+bytes)}\label{network-connections-look-like-files-streams-of-bytes}}
+
+\hypertarget{multilevel-networking-architecture}{%
+\subsubsection{multilevel networking
+architecture}\label{multilevel-networking-architecture}}
+
+\begin{enumerate}
+\item
+  encapsulation
+\item
+  application layer, transport, internet, link, actual hardware
+\item
+  serialization
+\end{enumerate}
+
+\hypertarget{artificial-intelligence}{%
+\section{artificial intelligence}\label{artificial-intelligence}}
+
+\hypertarget{intelligence-is-multi-faceted}{%
+\subsection{intelligence is
+multi-faceted}\label{intelligence-is-multi-faceted}}
+
+\hypertarget{human-intelligence-is-only-one-of-many-forms}{%
+\subsection{human intelligence is only one of many
+forms}\label{human-intelligence-is-only-one-of-many-forms}}
+
+\hypertarget{search-is-fundamental}{%
+\subsection{search is fundamental}\label{search-is-fundamental}}
+
+\hypertarget{automate-reasoning-by-automating-logic}{%
+\subsection{automate reasoning by automating
+logic}\label{automate-reasoning-by-automating-logic}}
+
+\hypertarget{intelligence-knowledge-reasoning}{%
+\subsection{intelligence = knowledge +
+reasoning}\label{intelligence-knowledge-reasoning}}
+
+\hypertarget{agents-are-based-on-their-environment-specific}{%
+\subsection{agents are based on their environment
+(specific)}\label{agents-are-based-on-their-environment-specific}}
+
+\hypertarget{turing-test}{%
+\subsection{turing test}\label{turing-test}}
+
+\hypertarget{not-as-difficult-as-one-may-think}{%
+\subsubsection{not as difficult as one may
+think}\label{not-as-difficult-as-one-may-think}}
+
+\hypertarget{search}{%
+\section{search}\label{search}}
+
+\hypertarget{starting-ending-configurationsstates}{%
+\subsection{starting / ending
+configurations/states}\label{starting-ending-configurationsstates}}
+
+\hypertarget{operatiors-that-transform-from-one-to-another}{%
+\subsection{operatiors that transform from one to
+another}\label{operatiors-that-transform-from-one-to-another}}
+
+\end{document}

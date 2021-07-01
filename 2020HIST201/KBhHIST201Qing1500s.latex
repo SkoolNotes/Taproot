@@ -1,0 +1,380 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Manchus }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{qing}{%
+\section{Qing}\label{qing}}
+
+\#flo \#disorganized
+
+\begin{itemize}
+\tightlist
+\item
+  The Manchus!
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Powerful army took China
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Professional military organized under 8 banners
+    \item
+      Took Beijing
+    \item
+      Restored order
+    \item
+      Proclaimed that the mandate passed to them
+    \end{itemize}
+  \item
+    Assured that Chinese culture would continue, but those who resisted
+    are punished
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Yangzhou refused to surrender
+    \item
+      So Manchus took the city and instantiated the purge
+    \end{itemize}
+  \end{itemize}
+\item
+  Hairstyle submission
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Forced Chinese men to submit to a Manchu hairstyle
+  \item
+    Present symbol of Manchu rule
+  \item
+    Took a whole generation to solidify rule
+  \end{itemize}
+\item
+  Three great emperors
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Kangxi Emperor
+
+    \begin{itemize}
+    \tightlist
+    \item
+      One of the most effective rulers of China
+    \item
+      Held the throne for 60 years
+    \item
+      Financials
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Froze tax assessment in 1712
+      \item
+        Made tax increase no longer a threat
+      \end{itemize}
+    \item
+      Regions
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Extended the empire northward + establish borders with Korea +
+        Russia
+      \item
+        Lead campaigns against Mongols and occupied Tibet
+      \end{itemize}
+    \item
+      CLAIM: why he was great
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Great guy
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Dilligent
+        \item
+          Good judge of character + warrented honest answers
+        \item
+          Did not fight Ming loyalists as long as they break no laws
+        \end{itemize}
+      \item
+        Promoted liberal arts
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Held examinations to promote scholars
+        \item
+          Patronized art, philosophy, and poetry
+        \item
+          Interested in Western learning
+
+          \begin{itemize}
+          \tightlist
+          \item
+            Learned through Jesuit missionaries
+          \item
+            Jesuits saw worship as a ceremony and not rites
+          \item
+            However, was not fully accepted by the Emperor after the
+            early 18th century
+          \end{itemize}
+        \end{itemize}
+      \end{itemize}
+    \end{itemize}
+  \item
+    Yongzheng Emperor
+
+    \begin{itemize}
+    \tightlist
+    \item
+      More guarded and suspicious than Kangxi
+    \item
+      Anti-corruption efforts
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Expanded secret memorial system
+      \item
+        A new tax reform that prevented tax evasion
+      \end{itemize}
+    \end{itemize}
+  \item
+    Qianlong Emperor
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Reigned for 60 years
+    \item
+      Emulated Kangxi
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Intensified Qing involvement in Tibet
+      \item
+        Expanded into Turkestan
+      \item
+        Patron of culture and arts
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Compiled collection of Chinese work
+        \item
+          Supressed anti-Manchu, anti-Confucion, and heretics by burning
+          them
+        \end{itemize}
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  Extended Chinese model of leadership + united the Chinese Mongols
+  Uighurs and Tibetans
+\item
+  18s Century
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Happy times
+  \item
+    Prosperous and peaceful
+  \item
+    Conservatively confusion
+  \item
+    Two great novels written
+  \end{itemize}
+\item
+  Beginning of decline
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Governmert did not keep pace with rapid population growth
+  \item
+    Qianlong became fond of his bodyguards, who embezzled silver
+
+    \begin{itemize}
+    \tightlist
+    \item
+      CLAIM: this is an early sign of decline
+    \end{itemize}
+  \item
+    Continuous military campains eventually lead to near bankrupcy
+  \end{itemize}
+\end{itemize}
+
+\end{document}

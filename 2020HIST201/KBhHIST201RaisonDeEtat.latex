@@ -1,0 +1,249 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Raison d'etat }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1636)}}    % original
+%\rhead{\textrmlf{Compiled }\#1636\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1636\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201HolyRomanEmpire1500s}{\tiny\textulf{[[}\textbf{KBhHIST201HolyRomanEmpire1500s}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201Kissinger}{\tiny\textulf{[[}\textbf{KBhHIST201Kissinger}\textulf{]]}}}\thinspace
+
+\hypertarget{raison-detat}{%
+\section{Raison d'etat}\label{raison-detat}}
+
+\begin{quote}
+Each state depended on the other. The well being of the state justified
+whatever means were employed to further it. The national interest
+supplanted the medieval notion of a universal morality. ---
+KBhHIST201Kissinger
+\end{quote}
+
+A method of ``sensible government'' that promises to set aside personal
+ideological differences for the betterment of the country as a whole.
+
+This makes politics non-secular, which means\ldots{} Nonsecular wars
+less violent than holy wars because CLAIM
+{[}{[}KBhHIST201Kissinger{]}{]}: they did not involve emotion
+
+\hypertarget{exhibit-a-france}{%
+\subsection{Exhibit A: France!}\label{exhibit-a-france}}
+
+{[}{[}KBhHIST201FrenchRichelieuAndRaisonDeEtat{]}{]}
+
+\hypertarget{exhibit-b-federick-the-great}{%
+\subsection{Exhibit B: Federick the
+Great}\label{exhibit-b-federick-the-great}}
+
+CLAIM @{[}{[}KBhHIST201Kissinger{]}{]}: Federick the Great's decision to
+invade Silesia was pure strategy move
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Conquest made Prussia a ``\emph{bona-fide} Great Power''
+\item
+  Prussia joined by France, Spain, etc. in war of 1740-1748
+\item
+  In 1756-1763, switched sides
+\end{enumerate}
+
+CLAIM @{[}{[}KBhHIST201Kissinger{]}{]}: the side-switching was a pure
+result of calculations of benefit
+
+\hypertarget{failure-and-overextension}{%
+\subsection{Failure and Overextension}\label{failure-and-overextension}}
+
+CLAIM @{[}{[}KBhHIST201Kissinger{]}{]} --- too much power without
+morality is no good, for instance
+
+\hypertarget{exhibit-b-still-france}{%
+\subsubsection{Exhibit B: Still France!}\label{exhibit-b-still-france}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Louis XIV}, under the guidance of
+  {[}{[}KBhHIST201FrenchRichelieuAndRaisonDeEtat{]}{]}, gone trigger
+  happy on the expansion
+\item
+  Ultimately, this is detrimental
+
+  \begin{itemize}
+  \tightlist
+  \item
+    When most states starts being fully rational and not at all moral,
+    this becomes less fun
+  \item
+    If no one else is expanding, a country will keep taking advantage of
+    others, which\ldots{} does not make you a lot of friends
+  \end{itemize}
+\end{itemize}
+
+\begin{quote}
+Under Raison d'etat, ``The stronger would seek to dominate, and the
+weaker would resist by forming coalitions to augment their individual
+strengths''
+\end{quote}
+
+\end{document}

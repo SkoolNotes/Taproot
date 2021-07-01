@@ -1,0 +1,324 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title> ML301 Neural Nets Assignment </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>ML301</strong> Neural Nets Assignment </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request="><span><strong>[[</strong></span><strong></strong><span><strong>]]</strong></span></a></span></p>
+            <p>#ref #ret</p>
+            <hr />
+            <h1 id="opt-3">Opt 3 +</h1>
+            <p>Looked at the <a href="https://github.com/ml4a/ml4a-guides/blob/master/notebooks/convolutional_neural_networks.ipynb">Convolutional Neural Network Notebook</a></p>
+            <ul>
+            <li><p>What type of data are they using?</p>
+            <ul>
+            <li><p>They are using images as their input data.</p></li>
+            </ul></li>
+            <li><p>What conversions (if any) had to be done to the data before it could be put into the neural network?</p>
+            <ul>
+            <li><p>For the basic neural network, they reshape the data to be individual vectors, make them float32, normalize the data, then convert the vectors to binary class matrices via one hot encoding. For the CNN, they repeat the previous steps except without reshaping the data into unrolled input vectors.</p></li>
+            </ul></li>
+            <li><p>What is the output of the neural network, both in terms of what it looks like to the computer (e.g. integers in the range <span>[</span>0-2<span>]</span>) and how humans should interpret it (e.g. the type of iris)?</p>
+            <ul>
+            <li><p>The output should be an array of probabilities for each category, which can be interpreted as, at a given index in the array, the item’s probabilities for belonging in each category.</p></li>
+            </ul></li>
+            <li><p>How many hidden layers does the network have, and what type are they (e.g. fully connected, convolutional, recurrent, LSTM, sparse, etc.)?</p>
+            <ul>
+            <li><p>For the final iteration of the CNN, the model has four hidden layers — two convolutional, and two dense.</p></li>
+            </ul></li>
+            <li><p>What activation function(s) does it use?</p>
+            <ul>
+            <li><p>The CNN used ReLU and softmax.</p></li>
+            </ul></li>
+            <li><p>What loss or cost function is it using?</p>
+            <ul>
+            <li><p>The model’s loss function is categorical crossentropy</p></li>
+            </ul></li>
+            <li><p>What kind of validation (if any) are they using?</p>
+            <ul>
+            <li><p>The model uses accuracy as it’s validation metric.</p></li>
+            </ul></li>
+            <li><p>What other validation methods might work for this type of problem?</p>
+            <ul>
+            <li><p>Any validation that works for classification problems, such as recall, f-measure, or precision.</p></li>
+            </ul></li>
+            <li><p>Why do you think the authors may have chosen this architecture for their network?</p>
+            <ul>
+            <li><p>They started with a small network to help illustrate the concepts more clearly, then gradually added more layers. They used a CNN so the model would be able to perform feature based recognition.</p></li>
+            </ul></li>
+            <li><p>Are there any changes you might try, if you were going to improve on their model?</p>
+            <ul>
+            <li><p>I will try to add some more layers, as well as some more dropout.</p></li>
+            </ul></li>
+            </ul>
+            <h1 id="opt-3-pt.-2">Opt 3 pt. 2!</h1>
+            <h2 id="iteration-one-more-regularization">Iteration One: More Regularization</h2>
+            <p>Tried to add more regularization with this model setup:</p>
+            <pre><code>model = Sequential()
+            model.add(Conv2D(128, (3, 3), padding=&#39;same&#39;, input_shape=(32,32,3)))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+            model.add(Conv2D(64, (3, 3), padding=&#39;same&#39;))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(Dropout(0.25))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+            model.add(Conv2D(64, (3, 3), padding=&#39;same&#39;))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+            model.add(Flatten())
+            model.add(Dense(256))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(Dropout(0.25))
+            model.add(Dense(100))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(Dropout(0.25))
+            model.add(Dense(num_classes))
+            model.add(Activation(&#39;softmax&#39;))
+            model.summary()</code></pre>
+            <p>After <em>hours</em> of training, the model produced these results:</p>
+            <pre><code>Test loss: 0.930192768573761
+            Test accuracy: 0.7660999894142151
+            Training loss: 0.057676762342453
+            Training accuracy: 0.9868000149726868</code></pre>
+            <p>Which is roughly <em>one percent worse.</em></p>
+            <p>great.</p>
+            <hr />
+            <h2 id="i2-better-placed-regularization">I2: Better Placed Regularization</h2>
+            <p>Once realizing I wasn’t on a GPU, and trying out this new model setup:</p>
+            <pre><code>model = Sequential()
+            model.add(Conv2D(128, (3, 3), padding=&#39;same&#39;, input_shape=(32,32,3)))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+            model.add(Dropout(0.25)) ## CHANGED ##
+            model.add(Conv2D(64, (3, 3), padding=&#39;same&#39;))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+            model.add(Dropout(0.25))
+            model.add(Conv2D(64, (3, 3), padding=&#39;same&#39;))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+            model.add(Flatten())
+            model.add(Dense(256))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(Dropout(0.25)) ## CHANGED ##
+            model.add(Dense(100))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(Dropout(0.25)) ## CHANGED ##
+            model.add(Dense(num_classes))
+            model.add(Activation(&#39;softmax&#39;))
+            model.summary()</code></pre>
+            <p>It produced these results:</p>
+            <pre><code>Test loss: 0.7443265914916992
+            Test accuracy: 0.7879999876022339
+            Training loss: 0.08786039799451828
+            Training accuracy: 0.9797599911689758</code></pre>
+            <p>Which, when compared with the original results:</p>
+            <pre><code>Test loss: 0.9660877988576889
+            Test accuracy: 0.779
+            Training loss: 0.024635728995651005
+            Training accuracy: 0.99504</code></pre>
+            <p>Is better!</p>
+            <hr />
+            <h2 id="i3-more-of-that">I3: More of That</h2>
+            <p>Dialed up dropout again…</p>
+            <pre><code>model = Sequential()
+            model.add(Conv2D(128, (3, 3), padding=&#39;same&#39;, input_shape=(32,32,3)))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+            model.add(Dropout(0.25))
+            model.add(Conv2D(64, (3, 3), padding=&#39;same&#39;))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+            model.add(Dropout(0.35)) ## CHANGED ##
+            model.add(Conv2D(64, (3, 3), padding=&#39;same&#39;))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+            model.add(Flatten())
+            model.add(Dense(256))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(Dropout(0.35)) ## CHANGED ##
+            model.add(Dense(100))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(Dropout(0.25))
+            model.add(Dense(num_classes))
+            model.add(Activation(&#39;softmax&#39;))
+            model.summary()</code></pre>
+            <pre><code>Test loss: 0.6344813704490662
+            Test accuracy: 0.7918000221252441
+            Training loss: 0.20304201543331146
+            Training accuracy: 0.9369400143623352</code></pre>
+            <p>Which gave an even better score!</p>
+            <hr />
+            <h2 id="i4-more-layers">I4: More Layers</h2>
+            <pre><code>model = Sequential()
+            model.add(Conv2D(128, (3, 3), padding=&#39;same&#39;, input_shape=(32,32,3)))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+
+            model.add(Dropout(0.25)) ## CHANGED ##
+            model.add(Conv2D(128, (3, 3), padding=&#39;same&#39;, input_shape=(32,32,3))) ## CHANGED ##
+            model.add(Activation(&#39;relu&#39;)) ## CHANGED ##
+            model.add(MaxPooling2D(pool_size=(2, 2))) ## CHANGED ##
+
+            model.add(Dropout(0.35))
+            model.add(Conv2D(64, (3, 3), padding=&#39;same&#39;))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+            model.add(Dropout(0.35))
+            model.add(Conv2D(64, (3, 3), padding=&#39;same&#39;))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+            model.add(Flatten())
+            model.add(Dense(256))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(Dropout(0.35))
+            model.add(Dense(100))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(Dropout(0.25))
+            model.add(Dense(num_classes))
+            model.add(Activation(&#39;softmax&#39;))
+            model.summary()</code></pre>
+            <pre><code>Test loss: 0.5848628878593445
+            Test accuracy: 0.8004999756813049
+            Training loss: 0.34681835770606995
+            Training accuracy: 0.878600001335144</code></pre>
+            <p>Our test accuracy and training accuracy are approaching each other.</p>
+            <hr />
+            <h2 id="i9-more-more-layers">I(9?): More More Layers</h2>
+            <pre><code>model = Sequential()
+            model.add(Conv2D(128, (3, 3), padding=&#39;same&#39;, input_shape=(32,32,3)))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+
+            model.add(Dropout(0.25))
+            model.add(Conv2D(128, (3, 3), padding=&#39;same&#39;, input_shape=(32,32,3)))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+
+            model.add(Dropout(0.35)) ## CHANGED ##
+            model.add(Conv2D(128, (3, 3), padding=&#39;same&#39;, input_shape=(32,32,3))) ## CHANGED ##
+            model.add(Activation(&#39;relu&#39;)) ## CHANGED ##
+            model.add(MaxPooling2D(pool_size=(2, 2))) ## CHANGED ##
+
+            model.add(Dropout(0.35))
+            model.add(Conv2D(64, (3, 3), padding=&#39;same&#39;))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+            model.add(Dropout(0.35))
+            model.add(Conv2D(64, (3, 3), padding=&#39;same&#39;))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(MaxPooling2D(pool_size=(2, 2)))
+            model.add(Flatten())
+            model.add(Dense(256))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(Dropout(0.35))
+
+            model.add(Dense(256)) ## CHANGED ##
+            model.add(Activation(&#39;relu&#39;)) ## CHANGED ##
+            model.add(Dropout(0.35)) ## CHANGED ##
+
+            model.add(Dense(100))
+            model.add(Activation(&#39;relu&#39;))
+            model.add(Dropout(0.25))
+            model.add(Dense(num_classes))
+            model.add(Activation(&#39;softmax&#39;))
+            model.summary()</code></pre>
+            <pre><code>Test loss: 0.5869606137275696
+            Test accuracy: 0.8033999800682068
+            Training loss: 0.4103561043739319
+            Training accuracy: 0.8682600259780884</code></pre>
+            <p>After quite some more experimenting, these were around the best results I could get. I achieved this by adding two new layers, and a significant amount more dropout from the original model. However, this process was mostly guess and check. I assume that as I get more practice with this kind of work and gain a deeper understanding, I will get better at iterating more quickly and more effectively. Right now, however, I don’t know how those skills would manifest.</p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

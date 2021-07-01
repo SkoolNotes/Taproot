@@ -1,0 +1,267 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Viral Replication }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5457)}}    % original
+%\rhead{\textrmlf{Compiled }\#5457\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5457\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101ViralInfection}{\tiny\textulf{[[}\textbf{KBhBIO101ViralInfection}\textulf{]]}}}\thinspace
+
+\hypertarget{viral-replication}{%
+\section{Viral Replication}\label{viral-replication}}
+
+This is the process by which the genetic material virus (and by proxy
+its whole) is replicated through hijacking the host cell's
+{[}{[}KBhBIO101CentralDogma{]}{]} processes. To investigate this, we ask
+two questions:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{How are viral mRNAs produced from the viral genome?}
+  =\textgreater{} virus will hijack the ribosomes in the host cells. So,
+  it is more important to ask how the mRNAs are produced to tell
+  ribosomes what to do
+\item
+  \textbf{What serves as the template for viral genome replication}
+  =\textgreater{} replication will need a polymeraese; but the source
+  and mechanism is dependent on viral genome structure/composition
+\end{itemize}
+
+\textbf{For DNA Viruses\ldots{}}
+
+\emph{How are viral mRNAs produced from the viral genome?}
+
+\begin{itemize}
+\tightlist
+\item
+  Viral DNA enters, through RNA polymerase II in the host cell, mRNA is
+  produced
+\item
+  mRNAs then read by ribosomes, and there we go
+\end{itemize}
+
+\emph{What serves as the templates for viral genome replication?}
+
+\begin{itemize}
+\tightlist
+\item
+  Viral DNA serves as template for host cell DNA polymerase
+\item
+  Viral genome copied repeatedly
+\item
+  Virus, then, \textbf{will be replicated within the nucleus} due to it
+  needing the host polymerase to copy DNA
+\end{itemize}
+
+Except! Poxvirade viruses carry their own polymerase, so they replicate
+in the cytoplasm by simply entering and releasing the polymerease.
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-10-12 at 11.09.46 PM.png}
+\caption{Screen Shot 2020-10-12 at 11.09.46 PM.png}
+\end{figure}
+
+\textbf{RNA Viruses}
+
+\emph{How are viral mRNAs produced from the viral genome?}
+
+Depends on what {[}{[}KBhBIO101SenseAndAntisense{]}{]} the viral RNA is,
+there are different processes
+
+\begin{itemize}
+\tightlist
+\item
+  If the virus is carrying +SS RNA, they do not need to produce anything
+  because that is directly translatable by the host ribosomes
+\item
+  If the virus is carrying -SS RNA (which is useless by itself as it is
+  the template RNA, making it harder to detect), they would trigger the
+  process of RNA replication either using their own RNA-dependent RNA
+  polymerease or using that of the host cells
+\item
+  If the virus is carrying both, it will infect with both +-stranded and
+  --stranded RNA, but the latter requires conversion
+\end{itemize}
+
+\emph{What serves as the templates for viral genome replication?}
+
+\begin{itemize}
+\tightlist
+\item
+  with dsRNA; takes +ssRNA and makes -ssRMA; combining the two to
+  produce dsRNA
+\item
+  with +ssRNA, takes +ssRNA and makes temporary -ssRNA which makes more
+  +ssRNA
+\item
+  with -ssRNA, takes -ssRNA, and makes temporary +ssRNA, which makes
+  -ssRNA
+\end{itemize}
+
+Instead of waiting for the RNA-dependent-RNA polymerease of the cell,
+viruses sometimes decide to just bring-your-own-polymerease to catalyze
+this process.
+
+\end{document}

@@ -1,0 +1,227 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Inner Product Space }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11052)}}    % original
+%\rhead{\textrmlf{Compiled }\#11052\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{inner-product-space-1}{%
+\section{\texorpdfstring{inner product space
+{\textsc{def}}}{inner product space def}}\label{inner-product-space-1}}
+
+\begin{quote}
+An \emph{inner product space} is a vector space \(V\) along with an
+\href{KBrefInnerProduct.org}{inner product} on \(V\).
+
+When \(V = \FF ^n\), assume the inner product is the Euclidean inner
+product \[\begin{aligned}
+\langle (w_1, \ldots, w_n), (z_1, \ldots, z_n) \rangle = w_1 \overline{z_1} + \cdots w_n \overline{z_n}
+\end{aligned}\]
+\end{quote}
+
+\hypertarget{results}{%
+\section{results}\label{results}}
+
+\hypertarget{axler6.7-properties}{%
+\subsection{Axler6.7 properties}\label{axler6.7-properties}}
+
+\hypertarget{for-each-fixed-u-in-v-the-function-that-takes-v-to-langle-v-u-rangle-is-a-linear-map-from-v-to-ff}{%
+\subsubsection{\texorpdfstring{For each fixed \(u \in V\), the function
+that takes \(v\) to \(\langle v, u \rangle\) is a linear map from \(V\)
+to
+\(\FF\)}{For each fixed u \textbackslash in V, the function that takes v to \textbackslash langle v, u \textbackslash rangle is a linear map from V to \textbackslash FF}}\label{for-each-fixed-u-in-v-the-function-that-takes-v-to-langle-v-u-rangle-is-a-linear-map-from-v-to-ff}}
+
+\hypertarget{langle-0-u-rangle-0-langle-u-0-rangle-forall-u-in-v}{%
+\subsubsection{\texorpdfstring{\(\langle 0, u \rangle = 0 = \langle u, 0 \rangle \forall u \in V\)}{\textbackslash langle 0, u \textbackslash rangle = 0 = \textbackslash langle u, 0 \textbackslash rangle \textbackslash forall u \textbackslash in V}}\label{langle-0-u-rangle-0-langle-u-0-rangle-forall-u-in-v}}
+
+\hypertarget{langle-u-vw-rangle-langle-uv-rangle-langle-u-w-rangle-for-all-u-v-w-in-v}{%
+\subsubsection{\texorpdfstring{\(\langle u, v+w \rangle = \langle u,v \rangle + \langle u, w \rangle\)
+for all
+\(u, v, w \in  V\)}{\textbackslash langle u, v+w \textbackslash rangle = \textbackslash langle u,v \textbackslash rangle + \textbackslash langle u, w \textbackslash rangle for all u, v, w \textbackslash in  V}}\label{langle-u-vw-rangle-langle-uv-rangle-langle-u-w-rangle-for-all-u-v-w-in-v}}
+
+\hypertarget{langle-u-lambda-v-rangle-overlinelambdalangle-uv-rangle-for-all-lambda-in-ff-and-u-v-in-v}{%
+\subsubsection{\texorpdfstring{\(\langle u, \lambda v \rangle = \overline{\lambda}\langle u,v \rangle\)
+for all \(\lambda \in \FF\) and
+\(u, v \in  V\)}{\textbackslash langle u, \textbackslash lambda v \textbackslash rangle = \textbackslash overline\{\textbackslash lambda\}\textbackslash langle u,v \textbackslash rangle for all \textbackslash lambda \textbackslash in \textbackslash FF and u, v \textbackslash in  V}}\label{langle-u-lambda-v-rangle-overlinelambdalangle-uv-rangle-for-all-lambda-in-ff-and-u-v-in-v}}
+
+\end{document}

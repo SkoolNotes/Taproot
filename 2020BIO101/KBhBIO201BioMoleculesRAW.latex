@@ -1,0 +1,736 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Biomolecules RAW }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3490)}}    % original
+%\rhead{\textrmlf{Compiled }\#3490\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3490\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101BioMoleculesQuizReview}{\tiny\textulf{[[}\textbf{KBhBIO101BioMoleculesQuizReview}\textulf{]]}}}\thinspace
+
+\hypertarget{biomolecules-quiz-review-raw}{%
+\section{Biomolecules quiz review,
+raw}\label{biomolecules-quiz-review-raw}}
+
+\hypertarget{carbohydrates}{%
+\subsection{Carbohydrates}\label{carbohydrates}}
+
+\begin{itemize}
+\tightlist
+\item
+  Set 1, carbs. See Luke De's video + {[}{[}KBhBIO101Carbs{]}{]}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Glucose vs.~fructose} --- both monosacharrides, one is a
+    6-carbon ring and one is a 5-carbon ring
+  \item
+    \emph{Mono vs.~di. vs.~polysaccharide} --- carbohydrates made out of
+    a single, double, and multiple monomer (single-unit) carbohydrates
+  \item
+    \emph{Starch vs.~glycogen vs.~cellulose} --- lots of alpha glucose
+    in less branches, lots of alpha glucose in more branches, lots of
+    beta glucose in organized lattice respectively.
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Starch --- plant food reserve
+    \item
+      Glycogen --- animal energy reserve
+    \item
+      Cellulose --- cell wall in plants
+    \end{itemize}
+  \end{itemize}
+\item
+  Set 2, lipids. See Luke De's video + {[}{[}KBhBIO101Lipids{]}{]}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Triglyceride vs.~fatty acid vs.~phosophilid} see
+    {[}{[}KBhBIO101StructuresofCarbs{]}{]}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Glycerol =\textgreater{} a fatty acid
+    \item
+      Triglyceride =\textgreater{} three of 'em above
+    \item
+      Phospholipid =\textgreater{} two fatty acid + phosphate head
+    \end{itemize}
+  \item
+    \emph{Saturated vs unsaturated fatty acids} see also
+    {[}{[}KBhBIO101StructuresofCarbs{]}{]}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Saturated Fats =\textgreater{} no double bonds in the carbon chain
+      of fatty acids --- think! butter
+    \item
+      Unsaturated Fats =\textgreater{} double bonds in the carbon chain
+      of fatty acids --- think! olive oil
+    \end{itemize}
+  \end{itemize}
+\item
+  Identify functional groups
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Amino acid groups --- see {[}{[}KBhBIO101AminoAcids{]}{]}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      carboxyl/carboxylic acid --- H-O-C=O (left side of backbone)
+      {[}{[}Screen Shot 2020-10-12 at 2.29.28 PM{]}{]}
+    \item
+      carbonyl --- C=O --- part of carboxyl
+    \item
+      amide --- RC(=O)NR′R″ (frequently shown in side chains of amino
+      acids --- see
+      \href{https://en.wikipedia.org/wiki/Amide\#/media/File:Amide-general.png}{Amine})
+    \item
+      amino/amine --- H3N+ (right side of backbone)
+    \item
+      hydroxyl --- OH group. Need I say more?
+    \item
+      ester --- take a carboxylic acid and replace the hydrogen with
+      anything else \#ASK. =\textgreater{} What join fatty acid chains
+      with the glycerol to make trigrcyeride
+    \item
+      ether --- R-O-R structure. =\textgreater{} glycocidic bonds are
+      formed by ether bonds
+    \item
+      alcohol group (H-O-R) as part of the carboxyl
+    \end{itemize}
+  \end{itemize}
+\item
+  Monomers vs Polymers {[}{[}KBhBIO101StructuresofCarbs{]}{]}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Monomer --- single molecule (such as a monosacchride) that could be
+    chained together to make polymers
+  \item
+    Polymers --- complex molecues built from monomers
+  \item
+    Building polymers --- dehydration reaction --- taking out water
+    molecules
+  \item
+    Destructing polymers --- hydration reaction --- adding in water
+    molecules
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{cell-structures}{%
+\subsection{Cell Structures}\label{cell-structures}}
+
+\begin{itemize}
+\tightlist
+\item
+  Prokaryotic vs.~Eukaryotic
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Prokaryotic cells --- often in single-cellular cells, has a cell
+    wall, and contained in capsules
+  \item
+    Eukaryotic cells --- in multicellular cell elements, contains a
+    plasma membranes and nucleus
+  \end{itemize}
+\item
+  Compare and contrast a typical animal cell with a typical plant cell.
+  Be able to label diagrams of each. (See\ldots{} problem set 1)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Animal Cell
+
+    \begin{itemize}
+    \tightlist
+    \item
+      No cell wall
+    \item
+      No chloroplast
+    \item
+      Has Cytoplasm
+    \item
+      Has Ribosomes
+    \item
+      Has Mitochondria
+    \item
+      No plastids --- organelle pigments
+    \item
+      Has Cilla --- Hair-like items on the outer surface
+    \end{itemize}
+  \item
+    Plant Cell
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Has cell wall
+    \item
+      Has chloroplast --- photosynthesis
+    \item
+      Has cytoplasm
+    \item
+      Has Ribosomes
+    \item
+      Has Mitochondria
+    \item
+      Has plastics --- organelle pigments
+    \item
+      Mostly has no Cilla
+    \end{itemize}
+  \end{itemize}
+\item
+  Endosymbiotic theory
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Endosymbiotic theory states that organelles within our current
+    eukaryotic cells --- the mitochondria and chloroplasts --- are
+    originally prokaryotic cells in their own right. This is because
+    they divide independently through binary fission, and also contains
+    circular DNA that is independent of the main cell itself.
+  \end{itemize}
+\item
+  Organizing organelles based on membranes \#ASK
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Used as a gauge to sort the evolutional history of cells
+  \item
+    Membranous organelles --- possess own plasma =\textgreater{}
+    regulates own macromolecure consumption, hormones, etc. Perhaps
+    original prokarotic cells
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Double membranes, evolved later
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Endoplasmic reticulum =\textgreater{} forms the network of
+        transferring proteins and other elements
+      \item
+        Golgi body/Gioli apparatus =\textgreater{} packs, sorts, and
+        modifies proteins and other elements throughout the cell
+      \end{itemize}
+    \item
+      Double membranes, prokarotic orginially
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Mitochrondria =\textgreater{} store ATP and extract energy from
+        ATP
+      \item
+        Chloroplasts =\textgreater{} Does photosynthesis
+      \end{itemize}
+    \item
+      Single membranes =\textgreater{} probably originally fragments of
+      prokaryotic cells
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Vesticles
+      \item
+        Lysomoes =\textgreater{} breaking stuff down and garbage dumps
+      \item
+        Vacuoles =\textgreater{} storing water, nutrients, waste
+      \end{itemize}
+    \end{itemize}
+  \item
+    Non-membranous organelles --- does not posess own plasma
+    =\textgreater{} mostly part of the cytoskeleton of a cell
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Ribosomes =\textgreater{} protein synthesizer in the cell
+    \item
+      Centrosome =\textgreater{} forms flangella, cilla, and handles
+      cells divisions
+    \item
+      Plastids =\textgreater{} creates colours displayed in the
+      chromoplasts
+    \end{itemize}
+  \end{itemize}
+\item
+  Cell Components. Basicall all of these exist only in Eukareotic cells
+
+  \begin{itemize}
+  \tightlist
+  \item
+    chloroplast and mitochondria
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Chloroplast --- found in plants + does photosynthesis
+    \item
+      Mitochondria --- found in animals + store ATP and extract energy
+      from ATP
+    \end{itemize}
+  \item
+    cell wall and plasma membrane
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Cell Wall --- found in plants =\textgreater{} surround the cell:
+      hard
+    \item
+      Plasma membrane --- found in animals =\textgreater{} surround the
+      cell: soft {[}{[}KBhBIO101Lipids{]}{]}
+    \end{itemize}
+  \item
+    rough endoplasmic reticulum (ER) and smooth ER
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Rough ER --- covered by ribosomes and folds
+      {[}{[}KBhBIO101Proteins{]}{]}
+    \item
+      Smooth ER --- not covered by ribosomes and makes
+      {[}{[}KBhBIO101Lipids{]}{]}
+    \end{itemize}
+  \item
+    cytosol, cytoplasm and cytoskeleton
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Cytosol =\textgreater{} liquid found inside cells; the
+      ``cytoplasm'' floats within it
+    \item
+      Cytoplasm =\textgreater{} all the stuff within the cell
+    \item
+      Cytoskeleton =\textgreater{} complex network of proteins + fibres
+      that organize the rest of the cell
+    \end{itemize}
+  \item
+    nucleus and nucleolus
+
+    \begin{itemize}
+    \tightlist
+    \item
+      nucleus =\textgreater{} centre of the cell, stores DNA
+    \item
+      nucleolus =\textgreater{} largest part of the nucleous that makes
+      ribosomes
+    \end{itemize}
+  \item
+    lysosomes and food vacuoles
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Lysosomes =\textgreater{} vesticles that contains enzymes that
+      breaks down biomolecules
+    \item
+      Food Vacoules =\textgreater{} vesticels that stores food and other
+      resources
+    \end{itemize}
+  \item
+    cytoskeleton and microtubules
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Cytoskeleton =\textgreater{} complex network of proteins + fibres
+      that organize the rest of the cell
+    \item
+      Microtubulues =\textgreater{} Polymers of tubulin protein that
+      provides the main structure of eukarotic cells
+    \end{itemize}
+  \item
+    flagella and cilia
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Flagella =\textgreater{} a bacteria's tail --- allow them to move
+      and also act as an sensory organ. longer than a cilla, and moves
+      in sinosoidial pattern.
+    \item
+      Cilium =\textgreater{} a cell's ``hair'' --- provides sensory and
+      communications functions. Motil cilla could move about to ``grab''
+      things, and non-motile cilla can't move. more abundant that the
+      flagella, and moves in circular pattern if they do move, and moves
+      in circular pattern if they do move
+    \end{itemize}
+  \item
+    Ribosomes and Golgi apparatus
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Ribosomes =\textgreater{} synthesizes proteins
+    \item
+      Golgi apparatus =\textgreater{} packs, modifying, and moving
+      proteins
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{plasma-membrane-structure-transport}{%
+\subsection{Plasma Membrane Structure +
+transport}\label{plasma-membrane-structure-transport}}
+
+\begin{itemize}
+\tightlist
+\item
+  Lipid structure and substructures: {[}{[}KBhBIO101Lipids{]}{]}
+\item
+  Functions of cell membrane
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Phosophilid structures {[}{[}KBhBIO101StructuresOfLipids{]}{]}
+  \item
+    Transmembrane proteins {[}{[}KbhBIO101CellTransport{]}{]}
+  \item
+    Hydrophobic + hydrophillic parts of a phosophilid
+    {[}{[}KBhBIO101StructuresOfLipids{]}{]} +
+    {[}{[}KBhBIO101FluidMosaic{]}{]}
+  \end{itemize}
+\item
+  Passive + active transport {[}{[}KbhBIO101CellTransport{]}{]}
+\item
+  Cell transport process
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Simple diffusion =\textgreater{} things just spread out from high
+    concentration to low concentrations
+  \item
+    Passive diffusion =\textgreater{} non-polar molecules needed ``fall
+    in'' through the phosolipid bi-layer
+  \item
+    Facilitated diffusion =\textgreater{} specific polar molecules go
+    along the gradient to get into the cell through transporter
+    proteins. Osmosis is the facilitated diffusion, just of water +
+    auquaporin.
+  \item
+    Phagocytosis =\textgreater{} take a piece of the membrane with you
+    to form a vesticle to introduce large solid elements, recycling the
+    membrane after done --- ``cell eating''
+  \item
+    Pinocytosis =\textgreater{} take a piece of the membrane with you to
+    form a vesticle to introduce large area of the ``outside'' in ---
+    fluid and solid and all, recycling the membrane after done ---
+    ``cell drinking''
+  \item
+    Endocytosis =\textgreater{} Phagocytosis + Pinocytosis
+  \item
+    Extocytosis =\textgreater{} opposite of endocytosis
+  \end{itemize}
+\item
+  Defining\ldots{}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Isotonic =\textgreater{} inside and outside have the same level of
+    ``osmolarity'': probablility for osmosis to happen through a
+    semipermiable membrane
+  \item
+    Hypertonic =\textgreater{} inside has less osmolarity than the
+    outside: water/other elems will flow out of the cell
+  \item
+    Hypotonic =\textgreater{} outside has less osmolarity than the
+    inside: water/other elems will flow into the cell
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{proteins-structures-and-function}{%
+\subsection{Proteins Structures and
+Function}\label{proteins-structures-and-function}}
+
+\begin{itemize}
+\tightlist
+\item
+  Overall structure, monomers/building blocks, functions, and examples
+  of proteins =\textgreater{} {[}{[}KBhBIO101Proteins{]}{]}
+\item
+  ``peptide'' =\textgreater{} a chain of amino-acids
+\item
+  Polymerization via dehydration
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Take two amino acids, take the H-O out of the alcahol, take the H
+    out of the Amine. Fill the hole with the other one
+  \end{itemize}
+\item
+  Protein structure
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Primary structure, secondary structure =\textgreater{}
+    {[}{[}KBhBIO101Proteins{]}{]}
+  \item
+    Amino acids, N \& C terminus =\textgreater{}
+    {[}{[}KBhBIO101AminoAcids{]}{]}. N terminus (Amine), C terminus
+    (Carbolixic.)
+  \item
+    Secondary structure --- H bonds between H-O, H-N
+  \item
+    Tertiary structure =\textgreater{} see the
+    {[}{[}KBhBIO101Proteins{]}{]} articles
+  \end{itemize}
+\item
+  The functions of proteins are varied because the primary sequence can
+  be varied, effectively building any shape protein to do its specific
+  function
+\item
+  Form = function is the idea that the shape or form a protein takes
+  through the combination of primary, secondary, tertiary, or quaternary
+  structure determines how it will then function. Any changes to the
+  structure will have some impact on its function and the more the
+  structure is affected the more the function is likely to impacted
+\item
+  Functions =\textgreater{} defense, movement, structure, transport,
+  cell to cell signaling, etc.
+\end{itemize}
+
+\hypertarget{cell-structure}{%
+\subsection{Cell Structure}\label{cell-structure}}
+
+\begin{itemize}
+\tightlist
+\item
+  Enzymes? {[}{[}KBhBIO101Enzymes{]}{]}
+\end{itemize}
+
+OK, so. Apparently Paul just answered the rest of his questions.
+
+And I quote
+
+"""
+
+\textbf{Enzymes are catalysts. They speed reaction rates but do not
+affect the change in free energy of the reaction (the difference in
+potential energy between reactants and products).}
+
+\begin{itemize}
+\item
+  Activation energy is the amount of kinetic energy required to reach
+  the transition state of a reaction.
+\item
+  Enzymes speed up a reaction by lowering the activation energy, often
+  with the help of cofactors or coenzymes.
+\item
+  \textbf{Enzymes lower the activation energy by some combination
+  of\ldots{}}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Orienting the reactions substrate(s) to promote more effective
+    collisions (and therefore reactions
+  \item
+    Stressing or straining bonds to temporarily and/or slightly lower
+    the strength of attraction to allow the bond to break more easily
+  \item
+    Involving amino acid R-groups or sidechains in creating the
+    transition state between reactants and products
+  \end{itemize}
+\end{itemize}
+
+Enzymes have active sites that bring substrates together and may change
+shape to stabilize the transition state; known as Induced Fit upon
+binding active site and slight change in enzyme shape.
+
+Most enzymes are proteins, and thus their activity can be directly
+influenced by modifications or environmental factors, such as
+temperature and pH, that alter their three-dimensional structure.
+
+Enzyme activity may be regulated/inhibited by molecules that compete
+with substrates to occupy the active site (competitive inhibitor) or
+alter enzyme shape so that substrates become unable to enter the active
+site (non-competitive inhibitor).
+
+"""
+
+\end{document}

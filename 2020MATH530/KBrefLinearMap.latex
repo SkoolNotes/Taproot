@@ -1,0 +1,298 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ linear map }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4009)}}    % original
+%\rhead{\textrmlf{Compiled }\#4009\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4009\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{definition}{%
+\section{Definition}\label{definition}}
+
+\#definition Axler3.2 Linear Map \#aka linear transformation A
+\emph{linear map} from \(V\) to \(W\) is a function \(T : V \to W\) with
+the following properties:
+
+\hypertarget{additivity}{%
+\subsection{Additivity}\label{additivity}}
+
+\[T(u+v) = Tu + Tv \forall u, v \in V\]
+
+\hypertarget{homogenity}{%
+\subsection{Homogenity}\label{homogenity}}
+
+\[T(\lambda v) = \lambda(T v) \forall \lambda \in \mathbb{F}, v\in V\]
+
+\hypertarget{other-notation}{%
+\section{Other Notation}\label{other-notation}}
+
+\hypertarget{set-of-maps}{%
+\subsection{Set of Maps}\label{set-of-maps}}
+
+\#definition Axler3.3 \(\mathcal{L}(V, W)\)
+
+\begin{quote}
+The set of all linear maps from \(V\) to \(W\) is denoted
+\(\mathcal{L}(V, W)\).
+\end{quote}
+
+\hypertarget{examples}{%
+\section{Examples}\label{examples}}
+
+\hypertarget{zero-0}{%
+\subsection{\texorpdfstring{zero (\(0\))}{zero (0)}}\label{zero-0}}
+
+Zero is a function \(0 : V \to W\) s.t. \(0v = 0 \forall v \in V\). (It
+takes all vectors in \(V\) and maps them to the additive identity of
+\(W\))
+
+\hypertarget{identity-i}{%
+\subsection{\texorpdfstring{identity
+(\(I\))}{identity (I)}}\label{identity-i}}
+
+The identity maps each from one vector space to itself (in the same
+vector space): \[I \in \mathcal{L}(V, V), v\in V : Iv = v\]
+
+\hypertarget{differentiation-d}{%
+\subsection{\texorpdfstring{differentiation
+(\(D\))}{differentiation (D)}}\label{differentiation-d}}
+
+\[D \in \mathcal{L}\left(\mathcal{P}(\mathbb{R}), \mathcal{P}(\mathbb{R})\right) : Dp = p'\]
+Basically stating that for two polynomials
+\(a, b \in \mathcal{P}(\mathbb{R})\), \(a'+b' = (a+b)'\) and with a
+constant \(\lambda \in \mathcal{R}\) \((\lambda a)' = \lambda a'\).
+
+\hypertarget{integration}{%
+\subsection{integration}\label{integration}}
+
+\hypertarget{multiplication-by-x2}{%
+\subsection{\texorpdfstring{multiplication by
+\(x^2\)}{multiplication by x\^{}2}}\label{multiplication-by-x2}}
+
+\[T \in \mathcal{L}\left(\mathcal{P}(\mathbb{R}), \mathcal{P}(\mathbb{R})\right) : (Tp)(x) = x^2p(x)\]
+is a linear map
+
+\hypertarget{backward-shift}{%
+\subsection{backward shift}\label{backward-shift}}
+
+\(F^\infty\) is the vector space of all sequences of elements in
+\(\mathbb{F}\).
+\[T \in \mathcal{L}\left(\mathbb{F}^\infty, \mathbb{F}^\infty\right) : T(x_1, x_2, x_3, \ldots) = (x_2, x_3, \ldots)\]
+
+\hypertarget{mathbbfn-to-mathbbfm}{%
+\subsection{\texorpdfstring{\(\mathbb{F}^n \to \mathbb{F}^m\)}{\textbackslash mathbb\{F\}\^{}n \textbackslash to \textbackslash mathbb\{F\}\^{}m}}\label{mathbbfn-to-mathbbfm}}
+
+Given a "coefficent matrix"
+\(A : A_{j,k}\in\mathbb{F} \forall j=1,\ldots,m; \forall k=1,\ldots,n\),
+define \(T \in \mathcal{L}(\mathbb{F}^n, \mathbb{F}^m)\):
+\[T(x_1, \ldots, x_n) = (A_{1,1}x_1 + A_{1,2}x_2 + \cdots + A_{1,n}x_n,\ A_{2,1}x_1 + \cdots + A_{2, n}x_n,\ \ldots,\ A_{m, 1}x_1 + \cdots + A_{m, n} x_n)\]
+Notice that this is equivalent to taking \(A\) as a \(m\times n\) matrix
+and dot producting it with the \(n \times 1\) matrix
+\(\begin{bmatrix}x_1 \\ x_2 \\ \vdots \\ x_n\end{bmatrix}\).
+
+\hypertarget{results}{%
+\section{Results}\label{results}}
+
+\hypertarget{axler3.5-linear-maps-and-basis-of-domain}{%
+\subsection{Axler3.5 Linear maps and basis of
+domain}\label{axler3.5-linear-maps-and-basis-of-domain}}
+
+If \(v_1, \ldots, v_n\) is a basis of \(V\) and
+\(w_1, \ldots, w_n \in W\), then there exists a unique linear map
+\(T : V\to W\) s.t. \[T v_j = w_j \forall j \in 1, \ldots, n\] \#aka
+given a basis \(v\) of \(V\), there is a unique linear map that maps
+\(v\) to each \(w \in W\).
+
+\hypertarget{careful}{%
+\subsubsection{\#careful}\label{careful}}
+
+\begin{enumerate}
+\item
+  same dimension
+
+  \(V\) and \(W\) are both of dimension \(n\).
+\item
+  same field
+
+  We defined \(V\) and \(W\) to both be vector spaces over the same
+  field \(\mathbb{F}\) which is either \(\mathbb{R}\) or \(\mathbb{C}\).
+\item
+  \(v\) is a basis
+
+  \(v_1, \ldots, v_n\) must be a basis of \(V\) (because that fact is
+  used in the proof)
+\end{enumerate}
+
+\hypertarget{questions}{%
+\subsubsection{Questions}\label{questions}}
+
+\begin{enumerate}
+\item
+  {DONE} \#question what does it mean that "\(T\) is uniquely determined
+  on \(\text{span}(v_1, \ldots, v_n)\)? {\textsc{question}}
+
+  There's no ambiguity and so we know exactly which map it's refering
+  to, and thus it is uniquely determined.
+\end{enumerate}
+
+\end{document}

@@ -1,0 +1,318 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ Journal club }
+\newcommand{\thelesson}{ Grace Meeting Notes }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5594)}}    % original
+%\rhead{\textrmlf{Compiled }\#5594\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5594\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{graces-meeting-notes}{%
+\section{Grace's Meeting Notes}\label{graces-meeting-notes}}
+
+\begin{itemize}
+\tightlist
+\item
+  Interested in memory
+\item
+  Synapses are influencing each other =\textgreater{} allows cluster
+  processing =\textgreater{} provide more insight
+\item
+  Understanding brains+memory is key to understanding human behavior
+  =\textgreater{} excited about the mechanisms of the brain
+\item
+  Memory is interesting b/c its complex and we don't know about
+  =\textgreater{} personal and culture narratives are critical
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\tightlist
+\item
+  Like to talk about the causal pathways found
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Figs 1, 8, 3
+  \item
+    Personally want to focus on the background, observation, and
+    pathways
+  \item
+    General structure of presentation: Figures 1,8,3 between the
+    structure of \{Big pic, \{hypo, result, pathway\}, implication\}
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\tightlist
+\item
+  Scientific story --- what we talk about last time: the story of the
+  LTP induced intra-synaptic PAP outflow cross talk
+\item
+  Knew how signal strength could be changed + changes the likelyhood of
+  neuron cross-talk =\textgreater{} astroglia actually have an active
+  role in memory encoding
+\item
+  Paper complicates the preexisting definition of long term potentiation
+  + pulls in novel information --- that LTP is not just LTP but also
+  influnces how other neurons fire
+\item
+  New Figures!!
+
+  \begin{itemize}
+  \tightlist
+  \item
+    (old) 1, 8, 3
+  \item
+    Figures 6C (nearby neurons are excited) and 8H (glutamate is
+    dispersed more) =\textgreater{} impact of the extra glutamate
+    release
+  \end{itemize}
+\item
+  Master ordering of figures
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Intro
+  \item
+    Discovery
+
+    \begin{itemize}
+    \tightlist
+    \item
+      1D --- astroglia shrinking when LTP happened
+    \end{itemize}
+  \item
+    Effect
+
+    \begin{itemize}
+    \tightlist
+    \item
+      6C + 6H --- why this would matter
+    \end{itemize}
+  \item
+    Pathway
+
+    \begin{itemize}
+    \tightlist
+    \item
+      3D --- AQP4 astroglia changed the most when LTP, so that's causing
+      it?
+    \end{itemize}
+  \item
+    Process
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Redrawn 8D
+    \end{itemize}
+  \item
+    Backup
+
+    \begin{itemize}
+    \tightlist
+    \item
+      1F --- In backup to show control metric
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+{[}{[}Screen Shot 2020-11-19 at 12.00.25 PM.png{]}{]}
+
+Background stuff
+
+\begin{itemize}
+\tightlist
+\item
+  LTP: system how repeated firing of a synapse cause synapse to fire
+\item
+  Glumate: involved in making neurons excited
+\item
+  fEPSP: avg. amount of firing in a population of neurons
+\item
+  VF: volume fraction
+\item
+  MKCC1: protein --- for neural remodeling
+\item
+  Astroglia:
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Personal Story --- new way of conceptualizing memory.
+
+\begin{itemize}
+\tightlist
+\item
+  Memory Drives different behaviors --- LTP is an interesting method of
+  getting at how enviroments directly alter actions
+\item
+  Direct pathway to what is experienced and the behavior
+\end{itemize}
+
+\end{document}

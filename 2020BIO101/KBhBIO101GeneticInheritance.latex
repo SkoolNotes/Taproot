@@ -1,0 +1,290 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Types of Genetic Inheritance }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}11886)}}    % original
+%\rhead{\textrmlf{Compiled }\#11886\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhBIO101MutationsAllealsInheritance}{\tiny\textulf{[[}\textbf{KBhBIO101MutationsAllealsInheritance}\textulf{]]}}}\thinspace
+
+\hypertarget{genetic-inheritance}{%
+\section{Genetic Inheritance}\label{genetic-inheritance}}
+
+How to deal with \textbf{Heterozygus} (two different alleals of one
+gene) genes
+
+\begin{itemize}
+\tightlist
+\item
+  Mendelian: dominant vs recessive versions of genes (Mendel's pea
+  plants)
+\item
+  Incomplete dominance (snap dragons)
+\item
+  Codominance (human blood types)
+\item
+  Polygenic inheritance (human height \& skin color)
+\item
+  Epistasis (dog coat color)
+\item
+  Sex-linked inheritance (color-blindness)
+\end{itemize}
+
+\hypertarget{mendelian-inheritance}{%
+\subsection{Mendelian Inheritance}\label{mendelian-inheritance}}
+
+\textbf{If two alleal for a gene differ, one could dominate the
+phenotype.}
+
+\begin{itemize}
+\tightlist
+\item
+  In order to see the recessive gene, a plant needs two copies of their
+  traits.
+\item
+  In order to see the dominant gene, the plant only need one copy of the
+  trait
+\end{itemize}
+
+But\ldots.. What's actualyl happening?
+
+\includegraphics{Pasted image 20210426132223.png}
+
+The ``recessive'' gene usually is a gene that does not code for the
+functional enzyme. Hence, if you have one alleal with the functional
+DNA, even if the other alleal is broken, a functional enzyme is created
+and hence the individual will ``express'' this trait. It is \emph{only}
+with both copies being broken that the enzyme that create that trait
+will not exist and hence can't function.
+
+\hypertarget{incomplete-dominance}{%
+\subsection{Incomplete Dominance}\label{incomplete-dominance}}
+
+Both alleals ale visible in the phenotype, and so neither is dominant
+really. Think about the genetic explanation of inherintance above. In
+the case of ``incomplete dominance'', not enough enzymes is created to
+fully express a trait (like ``red pigment'') such that the resulting
+organism will have an ``incompletely'' dominant trait.
+
+\includegraphics{Pasted image 20210426132605.png}
+
+\hypertarget{codominance}{%
+\subsection{Codominance}\label{codominance}}
+
+Both alleals are \emph{fully present}. For instance, in blood types, the
+AB alleals will result in their codominance to created AB blood. This is
+different from incomplete dominance in that that is simply a half-mix.
+
+\hypertarget{polygenic-dominance}{%
+\subsection{Polygenic Dominance}\label{polygenic-dominance}}
+
+Where a trait exists on the gradient of the combination multiple genes
+than results in a phenotype.
+
+\hypertarget{epistasis}{%
+\subsection{Epistasis}\label{epistasis}}
+
+Alleals that could only be expressed if another alleal is already
+expressed. For instance, the \texttt{Ee} gene in labrador retrivers
+control whether a pigment could be deposited. So, if a dog has
+\texttt{ee} gene, it will have golden coat whether or not the black-ness
+\texttt{Bb} gene is expressed b/c the lack of colour expression.
+
+\includegraphics{Pasted image 20210426133425.png}
+
+\hypertarget{sex-linked-inheritance}{%
+\subsection{Sex-Linked Inheritance}\label{sex-linked-inheritance}}
+
+\begin{itemize}
+\tightlist
+\item
+  Two X chromasomes: most women
+\item
+  XY chromasomes: most man
+\end{itemize}
+
+Because men usually only have one X chromasome, even if a sex-linked
+mutation carries recessively, they do not have a chance of being
+dominated. Examples of these include red-green colour blindness.
+
+\end{document}

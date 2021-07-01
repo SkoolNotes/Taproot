@@ -1,0 +1,349 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Handout 19 responses: fundamental theorem of
+calculus }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9869)}}    % original
+%\rhead{\textrmlf{Compiled }\#9869\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#9869
+  \textrmlf{ on}
+      \today
+  }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{let-fx-int_0x-ft-dt}{%
+\section{\texorpdfstring{Let
+\(F(x) = \int_{0}^{x} f(t) dt\)}{Let F(x) = \textbackslash int\_\{0\}\^{}\{x\} f(t) dt}}\label{let-fx-int_0x-ft-dt}}
+
+\hypertarget{complete-the-table}{%
+\subsection{complete the table}\label{complete-the-table}}
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+\endhead
+x & 0 & 1 & 2 & 3 & 4 \\
+F(x) & \(0\) & \(\frac{4}{3}\) & \(\frac{8}{3}\) & \(\frac{4}{3}\) &
+\(0\) \\
+\bottomrule
+\end{longtable}
+
+\hypertarget{sketch-the-function}{%
+\subsection{sketch the function}\label{sketch-the-function}}
+
+\includegraphics{KBe21math401ret19src1b.png}
+
+\hypertarget{gx-int_2x-ft-dt}{%
+\section{\texorpdfstring{\(G(x) = \int_{2}^{x} f(t) dt\)}{G(x) = \textbackslash int\_\{2\}\^{}\{x\} f(t) dt}}\label{gx-int_2x-ft-dt}}
+
+\hypertarget{complete-the-table-1}{%
+\subsection{complete the table}\label{complete-the-table-1}}
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+\endhead
+x & 0 & 1 & 2 & 3 & 4 \\
+G(x) & \(-\frac{8}{3}\) & \(-\frac{4}{3}\) & \(0\) & -\(\frac{4}{3}\) &
+\(-\frac{8}{3}\) \\
+\bottomrule
+\end{longtable}
+
+\hypertarget{sketch-the-function-1}{%
+\subsection{sketch the function}\label{sketch-the-function-1}}
+
+\includegraphics{KBe21math401ret19src2b.png}
+
+\hypertarget{hx-int_4x-ft-dt}{%
+\section{\texorpdfstring{\(H(x) = \int_4^x f(t) dt\)}{H(x) = \textbackslash int\_4\^{}x f(t) dt}}\label{hx-int_4x-ft-dt}}
+
+\hypertarget{complete-the-table-2}{%
+\subsection{complete the table}\label{complete-the-table-2}}
+
+\begin{longtable}[]{@{}llllll@{}}
+\toprule
+\endhead
+x & 0 & 1 & 2 & 3 & 4 \\
+H(x) & \(0\) & \(\frac{4}{3}\) & \(\frac{8}{3}\) & \(\frac{4}{3}\) &
+\(0\) \\
+\bottomrule
+\end{longtable}
+
+\hypertarget{sketch-the-function-2}{%
+\subsection{sketch the function}\label{sketch-the-function-2}}
+
+same as 1b
+
+\hypertarget{complete-the-table-3}{%
+\section{complete the table}\label{complete-the-table-3}}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+\endhead
+& \(F(x)\) & \(G(x)\) & \(H(x)\) \\
+maximum & 4n+2 & & \\
+minimum & 4n & & \\
+increases & \(4n, 4n+2\) & & \\
+decreases & \(4n-2, 4n\) & & \\
+\bottomrule
+\end{longtable}
+
+The other columns are the same, because \(H(x) = F(x)\) and
+\(G(x) = H(x)-\frac{8}{3}\).
+
+\hypertarget{why-does-it-work-over-the-entire-domain}{%
+\section{why does it work over the entire
+domain?}\label{why-does-it-work-over-the-entire-domain}}
+
+The argument for each cell is the same: it should work across the domain
+because those are the points where the derivative of \(F(x)\) (which is
+\(f(x)\)) is zero and function is periodic.
+
+\(F(x)\) increases when \(f(x)\) is positive.
+
+\hypertarget{family-of-functions}{%
+\section{family of functions}\label{family-of-functions}}
+
+Changing the 'zero point' of the derivative just shifts the graph up and
+down, by up to the range of the function.
+
+\hypertarget{sketching-more-functions}{%
+\section{sketching more functions}\label{sketching-more-functions}}
+
+\hypertarget{f_1x-int_x0-ft-dt}{%
+\subsection{\texorpdfstring{\(F_1(x) = \int_{x}^{0} f(t) dt\)}{F\_1(x) = \textbackslash int\_\{x\}\^{}\{0\} f(t) dt}}\label{f_1x-int_x0-ft-dt}}
+
+\(F(x)\) but reflected across the x-axis (negated)
+
+\hypertarget{f_2x-int_0x-f-t-dt}{%
+\subsection{\texorpdfstring{\(F_2(x) = \int_{0}^{x} f(-t) dt\)}{F\_2(x) = \textbackslash int\_\{0\}\^{}\{x\} f(-t) dt}}\label{f_2x-int_0x-f-t-dt}}
+
+\(f\) is an odd function so \(f(-t) = -f(t)\) so \(F_2 = F_1\)
+
+\hypertarget{f_3x-int_02x-ft-dt}{%
+\subsection{\texorpdfstring{\(F_3(x) = \int_{0}^{2x} f(t) dt\)}{F\_3(x) = \textbackslash int\_\{0\}\^{}\{2x\} f(t) dt}}\label{f_3x-int_02x-ft-dt}}
+
+\(F_3(x) = F(2x)\) which is a parent function transformation which
+compresses the graph along the x-axis.
+
+\hypertarget{f_4x-int_0x-ft-dt}{%
+\subsection{\texorpdfstring{\(F_4(x) = \int_{0}^{x} f(|t|) dt\)}{F\_4(x) = \textbackslash int\_\{0\}\^{}\{x\} f(\textbar t\textbar) dt}}\label{f_4x-int_0x-ft-dt}}
+
+For \(x \ge 0\), \(F_4(x) = F(x)\). However, for \(x < 0\), the function
+will be the negative of the \(x\geq 0\) case because the integral is
+from right to left.
+
+\includegraphics{KBe21math401ret19src7d.png}
+
+\hypertarget{f_5x-int_0x-ft-dt}{%
+\subsection{\texorpdfstring{\(F_5(x) = \int_{0}^{x} |f(t)| dt\)}{F\_5(x) = \textbackslash int\_\{0\}\^{}\{x\} \textbar f(t)\textbar{} dt}}\label{f_5x-int_0x-ft-dt}}
+
+Instead of being a periodic function, this function will be even (all
+the decreasing parts of \(F(x)\) become increasing with the same shape)
+
+\includegraphics{KBe21math401ret19src7e.png}
+
+\hypertarget{derivatives-of-integral-functions}{%
+\section{derivatives of integral
+functions}\label{derivatives-of-integral-functions}}
+
+\hypertarget{fx-int_-1x2-sint3-1-dt}{%
+\subsection{\texorpdfstring{\(F(x) = \int_{-1}^{x^2} \sin(t^3-1) dt\)}{F(x) = \textbackslash int\_\{-1\}\^{}\{x\^{}2\} \textbackslash sin(t\^{}3-1) dt}}\label{fx-int_-1x2-sint3-1-dt}}
+
+\[\begin{aligned}
+   f(x) &= \int_{-1}^{x} \sin(t^3-1) dt\\
+   F(x) &= f(x^2)\\
+   \frac{d}{dx}F(x) &= \frac{d}{dx}f(x^2)\\
+   &= f'(x^2)(2x)\\
+   &= 2x \sin (x^{2^3}-1)
+   \end{aligned}\]
+
+\hypertarget{fx-int_02x-lnt-3-dt}{%
+\subsection{\texorpdfstring{\(F(x) = \int_{0}^{2x} \ln(t-3) dt\)}{F(x) = \textbackslash int\_\{0\}\^{}\{2x\} \textbackslash ln(t-3) dt}}\label{fx-int_02x-lnt-3-dt}}
+
+\[\begin{aligned}
+   \frac{d}{dx}\left( \int_{0}^{2x} \ln(t-3) dt\right) &= 2 \frac{d}{dx}\int_{0}^{2x} \ln(t-3)dt\\
+   &= 2 \ln(2x-3)
+   \end{aligned}\]
+
+\end{document}

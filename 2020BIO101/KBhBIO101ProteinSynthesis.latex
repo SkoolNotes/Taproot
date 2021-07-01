@@ -1,0 +1,281 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Protein Synthesis }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5328)}}    % original
+%\rhead{\textrmlf{Compiled }\#5328\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5328\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBBIO101CentralDogma}{\tiny\textulf{[[}\textbf{KBBIO101CentralDogma}\textulf{]]}}}\thinspace
+
+\hypertarget{protein-synthesis}{%
+\section{Protein Synthesis}\label{protein-synthesis}}
+
+Let's make a protein tegether!
+
+\hypertarget{before-we-begin-some-background}{%
+\subsection{Before we begin, some
+background}\label{before-we-begin-some-background}}
+
+\textbf{Genetic Code} =\textgreater{} ``nucleotide code'' found in the
+DNA that helps make protein. There are two parts of this: translation
+and transcription.
+
+\begin{itemize}
+\item
+  The process of \textbf{Transcription} involves taking the DNA,
+  separating it, and copying its corresponding pairs to RNA
+\item
+  The process of \textbf{Translation} involves taking the RNA and making
+  proteins.
+\item
+  \emph{Non-coding sequence}: metadata for DNA for the processors
+\item
+  \emph{Coding sequence}: DNA content for amino-acid production
+\end{itemize}
+
+Occasionally, the RNA is what we want to end up with, so then obviously
+we no longer need the process of Translation.
+
+\hypertarget{transcription-converting-dna-to-mrna}{%
+\subsection{Transcription =\textgreater{} converting DNA to
+mRNA}\label{transcription-converting-dna-to-mrna}}
+
+The process of transcription is the process by which DNA is converted to
+messenger RNA, a type of RNA that travels to the ribosome to create a
+protein. This process is dependent on the enzyme \textbf{RNA
+Polymerease}, which is the primary driver that handles DNA
+transcription.
+
+See {[}{[}KBhBIO101DNATranscription{]}{]}
+
+\hypertarget{mrna-processing-splicing-mrna}{%
+\subsection{mRNA processing =\textgreater{} splicing
+mRNA}\label{mrna-processing-splicing-mrna}}
+
+After the transcribed mRNA is finished, Eukaryotes only will need to go
+through one additional process called ``mRNA processing'' that both
+remove the non-protein-synthesizing Introns of the mRNA sequence, and
+mark the mRNA for maturity.
+
+Notably, \textbf{Prokaryotes does not do this!} Prokarotes' coding
+sequence always makes a full protein, so we just start at promoter and
+end at terminator and make a protein!
+
+See {[}{[}KBhBIO101mRNAPreprocessing{]}{]}
+
+\hypertarget{translation-rna-directed-polypeptide-synthesis}{%
+\subsubsection{Translation =\textgreater{} RNA-directed polypeptide
+synthesis}\label{translation-rna-directed-polypeptide-synthesis}}
+
+And now, this is what we are here for. Now that we have a constructed
+and mature mRNA, let's make a protein!
+
+See {[}{[}KBhBIO101Translation{]}{]}
+
+Mature mRNA sent to ribosome. mRNA must travel to the cytoplasm in the
+Eukarotes to catch the RNA, whereas in prokarotes they don't have to go
+anywhere.
+
+Ribosomes has two units: 50S unit + 30S unit =\textgreater{} they come
+together whenever a mRNA needs it. Each contained specialized rRNA +
+tTRNA to catalyze attachment of and carry amino acids + adapt the
+incoming mRNA respectively.
+
+\textbf{Note! The beginning of mRNA is not translated.} There a portion
+on the 5' end of the mRNA (starts with AGGAGG) --- about 170 nuclotides
+in humans, and shorter in bacteria --- that's called UTR (untranslated
+region.) This region helps ribosomes bind to it + stablize the binds.
+
+\begin{itemize}
+\tightlist
+\item
+  3 protein factors IF1, IF2, IF3 forms a complex for transcription by
+  binding to a subunit on the ribosome
+\item
+  Methionine-carrying tRNA binds to the start of the mRNA, which forms
+  the initiation complex. This is typically removed after translation if
+  not coded for (f M-A amino acid pair coded for, methonine removed; but
+  if M-L pairs coded for, methonine not removed.)
+\item
+  A-site: translates mRNA to tRNA --- anti-codon pairs
+\item
+  P-site: amino acid dumped from tRNA to the actual chain being built
+\item
+  Spent tRNA ejected to the E-site, which is then recycled
+\item
+  Catalyst tRNA combines with rRNA to catalyze amino acid peptide bond
+\item
+  Each codon (group of 3 units in tRNA), matches a specific
+  {[}{[}KBhBIO101AminoAcids{]}{]}
+\end{itemize}
+
+Smaller ribosome unit grabs, larger attaches + forms amino acid
+
+After the amino acids are assembled, it's time for
+{[}{[}KBe2020bio101refProteinFolding{]}{]}. See also
+{[}{[}KBhBIO101Proteins{]}{]}.
+
+=\textgreater{} Shaperones fold proteins, and if its finds proteins
+impossible to fold, it flags it using ubiquitin to send to the garbage
+
+\end{document}

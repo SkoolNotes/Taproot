@@ -1,0 +1,336 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ prep for first individual assesment }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4104)}}    % original
+%\rhead{\textrmlf{Compiled }\#4104\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4104\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{definitions}{%
+\section{Definitions}\label{definitions}}
+
+\hypertarget{group}{%
+\subsection{\texorpdfstring{{DONE} group}{DONE group}}\label{group}}
+
+A set and binary operation that satisfies Group Properties
+
+\begin{itemize}
+\tightlist
+\item
+  Closed
+\item
+  Identity
+\item
+  Inverse
+\item
+  Associative
+\end{itemize}
+
+\hypertarget{field}{%
+\subsection{\texorpdfstring{{DONE} field}{DONE field}}\label{field}}
+
+A set and two binary operations: the primary (addition) and secondary
+(multiplication) that "mostly" satisfies group properties for both
+operations, and are \textbf{commutative and distributive}. It must be a
+group under the primary operation and a group under the secondary
+operation except without a secondary inverse for the primary indentity.
+
+\hypertarget{non-singular-matrices}{%
+\subsection{\texorpdfstring{{DONE} non-singular
+matrices}{DONE non-singular matrices}}\label{non-singular-matrices}}
+
+singular matrix: has no inverse. non-singular matrix: has an inverse aka
+determinant non zero
+
+\hypertarget{connections}{%
+\section{Connections}\label{connections}}
+
+\hypertarget{connect-direct-sum-and-linear-independence}{%
+\subsection{\texorpdfstring{{DONE} connect direct sum and linear
+independence}{DONE connect direct sum and linear independence}}\label{connect-direct-sum-and-linear-independence}}
+
+the sum of two spaces is direct if their basises are linearly
+independent
+
+\hypertarget{matrices-to-represent-complex-numbers}{%
+\subsection{\texorpdfstring{{DONE} matrices to represent complex
+numbers}{DONE matrices to represent complex numbers}}\label{matrices-to-represent-complex-numbers}}
+
+The negative one matrix is \(\begin{bmatrix}-1&0\\0&-1\end{bmatrix}\)
+and we want the square root of that. It turns out that
+\(\begin{bmatrix}0&-1\\1&0\end{bmatrix}\) satisfies this, and in fact,
+any complex number \(a + bi\) can be represented as
+\(\begin{bmatrix}a&-b\\b&a\end{bmatrix}\). These matrices are
+commutative under multiplication (like complex numbers should be), have
+their complex conjugates equal to their transposes, and a bunch of other
+nice properties. Also related to rotation matrices. \#source
+\url{https://www.nagwa.com/en/explainers/152196980513/}
+
+\hypertarget{computation}{%
+\section{Computation}\label{computation}}
+
+\hypertarget{find-the-determinant-of-matrices}{%
+\subsection{\texorpdfstring{{DONE} Find the determinant of
+matrices}{DONE Find the determinant of matrices}}\label{find-the-determinant-of-matrices}}
+
+\[\left|\begin{matrix}a&b\\c&d\end{matrix}\right| = ad-bc\]
+
+\hypertarget{compute-cross-product}{%
+\subsection{\texorpdfstring{{DONE} compute cross
+product}{DONE compute cross product}}\label{compute-cross-product}}
+
+\[
+   \begin{pmatrix}a\\b\\c\end{pmatrix}\times\begin{pmatrix}d\\e\\f\end{pmatrix} = \left|\begin{matrix}i&j&k\\a&b&c\\d&e&f\end{matrix}\right| = i \left|\begin{matrix}b&c\\e&f\end{matrix}\right|+ j\left|\begin{matrix}c&a\\f&d\end{matrix}\right| + k\left|\begin{matrix}a&b\\d&e\end{matrix}\right| = bf-ce, cd-fa, ae - bd
+   \]
+
+\hypertarget{find-equations-of-lines-and-planes-using-cross-product-and-dot-product}{%
+\subsection{\texorpdfstring{{TODO} Find equations of lines and planes
+using cross product and dot
+product}{TODO Find equations of lines and planes using cross product and dot product}}\label{find-equations-of-lines-and-planes-using-cross-product-and-dot-product}}
+
+Use the cross product to find an orthagonal vector \(\vec p\). The plane
+is all vectors that are orthagonal to \(\vec p\), which is to say that
+the dot product is zero
+(\(\left\{ \vec{u} : \vec{u}\cdot\vec{p} = 0 \right\}\))
+
+\hypertarget{derivations}{%
+\section{Derivations}\label{derivations}}
+
+\hypertarget{properties-of-the-determinant}{%
+\subsection{\texorpdfstring{{DONE} properties of the
+determinant}{DONE properties of the determinant}}\label{properties-of-the-determinant}}
+
+\hypertarget{zero-when-matrix-has-no-inverse-singular}{%
+\subsubsection{zero when matrix has no inverse
+(singular)}\label{zero-when-matrix-has-no-inverse-singular}}
+
+\hypertarget{det--1-for-rotation-matrices}{%
+\subsubsection{det = -1 for rotation
+matrices?}\label{det--1-for-rotation-matrices}}
+
+\hypertarget{inverse-of-a-2x2-matrix}{%
+\subsection{\texorpdfstring{{DONE} inverse of a 2x2
+matrix}{DONE inverse of a 2x2 matrix}}\label{inverse-of-a-2x2-matrix}}
+
+\[ \begin{bmatrix}a&b\\c&d\end{bmatrix}\begin{bmatrix}e&f\\g&h\end{bmatrix} = \begin{bmatrix}1&0\\0&1\end{bmatrix} \]
+\[ \begin{aligned} ae+bg = 1\\ ce+dg = 0\\ af+bh = 0\\ cf+dh = 1\\ \end{aligned} \]
+Then you do some algebra to get \[
+   \begin{aligned}
+   e = \frac{d}{ad-bc}\\
+   g = \frac{-c}{ad-bc}\\
+   f = \frac{-b}{ad-bc}\\
+   h = \frac{a}{ad-bc}\\
+   \end{aligned}
+   \]
+
+\hypertarget{rotation-matrices}{%
+\subsection{\texorpdfstring{{DONE} rotation
+matrices}{DONE rotation matrices}}\label{rotation-matrices}}
+
+Don't try to algebra it. Use polar coordinates and the angle sum trig
+identities: \[\begin{aligned}
+   \sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta\\
+   \cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta
+   \end{aligned}\]
+
+anyways, you get
+\(\begin{bmatrix}\cos\theta&\sin\theta\\-\sin\theta&\cos\theta\end{bmatrix}\).
+
+\hypertarget{review-quizzes}{%
+\section{review quizzes}\label{review-quizzes}}
+
+\hypertarget{first-quiz}{%
+\subsection{\texorpdfstring{{DONE} first
+quiz}{DONE first quiz}}\label{first-quiz}}
+
+\hypertarget{see-find-equations-of-lines-and-planes-using-cross-product-and-dot-product}{%
+\subsubsection{see "find equations of lines and planes using cross
+product and dot
+product"}\label{see-find-equations-of-lines-and-planes-using-cross-product-and-dot-product}}
+
+\hypertarget{rotation-matrices-1}{%
+\subsubsection{rotation matrices}\label{rotation-matrices-1}}
+
+\hypertarget{cross-product}{%
+\subsubsection{cross product}\label{cross-product}}
+
+\hypertarget{mini-take-home-quiz}{%
+\subsection{\texorpdfstring{{DONE} mini take home
+quiz}{DONE mini take home quiz}}\label{mini-take-home-quiz}}
+
+no feedback
+
+\hypertarget{linear-independence-quiz}{%
+\subsection{\texorpdfstring{{DONE} linear independence
+quiz}{DONE linear independence quiz}}\label{linear-independence-quiz}}
+
+teacher gave no problems
+
+\hypertarget{quick-linear-quiz-linear-independence-and-bases}{%
+\subsection{\texorpdfstring{{DONE} quick linear quiz (linear
+independence and
+bases)}{DONE quick linear quiz (linear independence and bases)}}\label{quick-linear-quiz-linear-independence-and-bases}}
+
+no feedback, I think that quiz was pretty solid..
+
+\end{document}

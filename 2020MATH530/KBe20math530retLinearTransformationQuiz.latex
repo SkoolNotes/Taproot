@@ -1,0 +1,336 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ LInear Transformation Quiz }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5051)}}    % original
+%\rhead{\textrmlf{Compiled }\#5051\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5051\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{definitions}{%
+\section{Definitions}\label{definitions}}
+
+\hypertarget{linear-map}{%
+\subsection{Linear Map}\label{linear-map}}
+
+A linear map is a function/map from one vector space to another such
+that it satisfies the properties of additivity and homogeneity.
+Notationally, a linear map \(T \in \mathcal L(V, W)\) satisfies
+\(T(a) + T(b) = T(a+b) : a, b \in V\) and
+\(\lambda Ta = T(\lambda a) : \lambda \in \mathbb F, a \in V\)
+
+\hypertarget{null-space}{%
+\subsection{Null Space}\label{null-space}}
+
+The null space of a linear map is the space of vectors that are sent to
+0 by \(T\), aka \(\{v : v \in V \land Tv = 0\}\)
+
+\hypertarget{column-space}{%
+\subsection{Column Space}\label{column-space}}
+
+The column space of a linear map is the subspace of the codomain that is
+an output to the map, aka \(\{w : Tv = w, v\in V, w\in W\}\)
+
+\hypertarget{homogeneous-system-of-equations}{%
+\subsection{Homogeneous system of
+equations}\label{homogeneous-system-of-equations}}
+
+A system of equations where all the right hand sides are \(0\).
+
+\hypertarget{injective}{%
+\subsection{Injective}\label{injective}}
+
+When each element in the column space of a map is mapped to by exactly
+one element in the domain, aka when \(Tu = Tv \implies u = v\).
+
+\hypertarget{surjective}{%
+\subsection{Surjective}\label{surjective}}
+
+When every element in the codomain is mapped to, aka the column space is
+the codomain, aka \(W = \{Tv : v \in V\}\).
+
+\hypertarget{fundamental-theorem-of-linear-maps}{%
+\section{Fundamental theorem of linear
+maps}\label{fundamental-theorem-of-linear-maps}}
+
+In a map \(T \in \mathcal L(U, V)\) where \(U\) is finite dimensional,
+\(\text{dim }U = \text{dim range }T + \text{dim null }T\). Intuitively,
+the dimension of the input space is the dimension of everything that
+gets sent to zero plus everything that doesn't get sent to zero.
+
+\hypertarget{why-is-the-range-also-called-the-column-space}{%
+\section{Why is the range also called the "column
+space"?}\label{why-is-the-range-also-called-the-column-space}}
+
+When a linear map is thought of as a matrix, (which Jana promises is
+always possible), everything that can be mapped to is a linear
+combination of the columns. Why columns instead of rows? The convention
+we use is to multiply operation matrices on the left, and the way matrix
+multiplication works means that when a \(n \times 1\) matrix is
+multiplied each element ends up as the coefficient for a column in a
+linear combination. Thus, all possible \(n \times 1\) matrices when
+taken as input to the operation matrix will create the span of the
+columns.
+
+\hypertarget{prove-that-for-presumably-a-linear-map-t-in-mathcal-lv-w-the-null-space-is-a-subspace-of-v.}{%
+\section{\texorpdfstring{Prove that for (presumably a linear map)
+\(T \in \mathcal L(V, W)\) the null space is a subspace of
+\(V\).}{Prove that for (presumably a linear map) T \textbackslash in \textbackslash mathcal L(V, W) the null space is a subspace of V.}}\label{prove-that-for-presumably-a-linear-map-t-in-mathcal-lv-w-the-null-space-is-a-subspace-of-v.}}
+
+\hypertarget{contains-zero}{%
+\subsection{Contains Zero}\label{contains-zero}}
+
+Let \(v = T0\). \[
+   T0 = T(0+0) = T0 + T0 = v + v \implies v = 0
+   \] thus linear maps send zero to zero. Thus zero is in the null
+space.
+
+\hypertarget{additivity}{%
+\subsection{Additivity}\label{additivity}}
+
+For vectors \(a, b \in \text{null }T\) if \(Ta = 0\) and \(Tb = 0\),
+then \[Ta + Tb = 0 + 0 = 0 \text{ and } Ta+Tb = T(a+b) = 0\] thus
+\(a+b\) is in the null space and the null space is closed under
+addition.
+
+\hypertarget{homogeneity}{%
+\subsection{Homogeneity}\label{homogeneity}}
+
+If \(a \in \text{null }T\) (aka \(Ta = 0\)) and
+\(\lambda \in \mathbb F\), then
+\[\lambda Ta = \lambda 0 = 0 \text{ and } \lambda Ta = T(\lambda a)\]
+thus \(\lambda a\) is in the null space and the null space is closed
+under scalar multiplication.
+
+Thus the null space is a vector space and a subspace of \(V\).
+
+\hypertarget{prove-that-t-in-mathcal-lv-w-is-injective-iff-textnullt-0}{%
+\section{\texorpdfstring{Prove that \(T \in \mathcal L(V, W)\) is
+injective iff
+\(\text{null}(T) = 0\)}{Prove that T \textbackslash in \textbackslash mathcal L(V, W) is injective iff \textbackslash text\{null\}(T) = 0}}\label{prove-that-t-in-mathcal-lv-w-is-injective-iff-textnullt-0}}
+
+\hypertarget{in-the-forwards-direction}{%
+\subsection{In the forwards direction}\label{in-the-forwards-direction}}
+
+\(T\) being injective means \(Tu = Tv \implies u = v\), so only one
+vector \(v \in V\) satisfies \(Tv = 0\). Because linear maps take zero
+to zero (result 4.1 in the previous proof), that vector \(v\) must be
+zero. Thus, \(\text{null }T = 0\).
+
+\hypertarget{in-the-reverse-direction}{%
+\subsection{In the reverse direction}\label{in-the-reverse-direction}}
+
+Intuitively: if any information is lost, then some of it must be lost to
+zero because zero is an element in every vector space and information
+should be lost "linearly" meaning "evenly".
+
+Given that \(\text{null }T = 0\), suppose we have \(u, v \in V\) s.t.
+\(Tu = Tv\). Then \[0 = Tu - Tv = T(u-v)\] \[
+   \begin{aligned}
+   \therefore& u-v \in \text{null }T\\
+   \therefore& u-v = 0\\
+   \therefore& u = v
+   \end{aligned}
+   \] Thus \(Tu = Tv \implies u = v\) aka \(T\) is injective.
+
+\hypertarget{prove-that-for-any-t-in-mathcal-lv-w-there-is-a-subspace-u-of-v-such-that-u-bigoplus-textnull-t-v}{%
+\section{\texorpdfstring{Prove that for any \(T \in \mathcal L(V, W)\),
+there is a subspace \(U\) of \(V\) such that
+\(U \bigoplus \text{null }T = V\)}{Prove that for any T \textbackslash in \textbackslash mathcal L(V, W), there is a subspace U of V such that U \textbackslash bigoplus \textbackslash text\{null \}T = V}}\label{prove-that-for-any-t-in-mathcal-lv-w-there-is-a-subspace-u-of-v-such-that-u-bigoplus-textnull-t-v}}
+
+This is not a complete proof because I ran out of time. I sketched out
+the high level framework for how I was planning on proving this.
+
+\hypertarget{proposed-set}{%
+\subsection{Proposed Set}\label{proposed-set}}
+
+A the sum of two subspaces being a direct sub is equivalent to their
+intersection = 0. Let \[U = \{v : v \in V, Tv \neq 0\} \cup 0\]. Notice
+that this is a subset of \(V\) and intersects \(\text{null }T\) at \(0\)
+exactly. Now, we show that it is a subspace of \(V\), then that the
+direct sum is equal to \(V\) with double containment.
+
+\hypertarget{subspace-therefore-direct-sum}{%
+\subsection{\texorpdfstring{Subspace \(\therefore\) direct
+sum}{Subspace \textbackslash therefore direct sum}}\label{subspace-therefore-direct-sum}}
+
+\hypertarget{contains-zero-1}{%
+\subsubsection{Contains zero}\label{contains-zero-1}}
+
+\(U\) contains zero by definition.
+
+\hypertarget{closed-under-addition}{%
+\subsubsection{Closed under addition}\label{closed-under-addition}}
+
+\hypertarget{closed-under-scalar-multiplication}{%
+\subsubsection{Closed under scalar
+multiplication}\label{closed-under-scalar-multiplication}}
+
+\hypertarget{direct-sum-is-equal-to-v}{%
+\subsection{\texorpdfstring{Direct sum is equal to
+\(V\)}{Direct sum is equal to V}}\label{direct-sum-is-equal-to-v}}
+
+Either dimension stuff or double containment: all vectors \(v \in V\)
+have either \(Tv = 0\) or \(Tv \neq 0\) so the sum contains \(V\), and
+\(V\) contains the sum because both summands were subspaces.
+
+\end{document}

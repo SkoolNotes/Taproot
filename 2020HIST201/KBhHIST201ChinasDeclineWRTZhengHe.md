@@ -35,6 +35,10 @@ Researchers speculate different causes of ending…
 * Assets needed could be found easily through good-ol-fashioned trade
 * Seafaring was costly, and did not help the Northern Mongol invasions (duh)
 
+Mann kind of agree with these people, but he mostly thinks that [[KBhHIST201ChinasDeclineWRTCurrency]] China's Decline w.r.t. Currency is the main issue.
+
+Sidenote: "party A says, party B says, I say" is a very common order.
+
 ## China never had a free market??
 * Along with Zheng He's mission, overseas trade was banned @fact
 * However, it was reversed again (see the source [[KBhHIST201ChinasDecline1500]]), confusingly 

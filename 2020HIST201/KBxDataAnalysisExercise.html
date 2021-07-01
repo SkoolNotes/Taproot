@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title> ML201 Data Analysis Exercise </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>ML201</strong> Data Analysis Exercise </span></div>
+        </div>
+        <div id="center-viewport">
+            <p>#ref #ret</p>
+            <div class="center">
+            <hr />
+            </div>
+            <p>%%For <strong>each</strong> of the four scenarios below, answer the following questions. Please explain where your targets/rewards would come from (#2), how you would make your inputs numerical (#3), and a bit of your reasoning on ethical issues (#6). Other questions do not need explanation.</p>
+            <ol>
+            <li><p>What type of machine learning problem (regression, classification, clustering, generation, reinforcement learning) do you think this is?</p></li>
+            <li><p>If this is a supervised problem, what will you use as your targets (aka labels)? If it is reinforcement learning, what will you use as your rewards? If it is unsupervised, just say “unsupervised”.</p></li>
+            <li><p>What processing do you need to do to your input data?</p></li>
+            <li><p>What type(s) of model(s) would you try? You may need to combine models. Remember to start with the simplest thing that might work! Types of models we’ve talked about are linear regression, decision trees, random forest, logistic regression, naive bayes, support vector machines, K-means, DBSCAN, hierarchical clustering, fully connected neural networks, convolutional neural networks, recurrent neural networks, generative adversarial networks, deep Q learning, and evolutionary methods.</p></li>
+            <li><p>What validation metric(s) would you use to decide how well you’re doing?</p></li>
+            <li><p>What ethical challenges do the data collection, creation, and/or use of this model create? If you feel there aren’t any, just say “None”.%%</p></li>
+            </ol>
+            <h3 id="scenarios">Scenarios:</h3>
+            <ol>
+            <li><p><strong>You want your model to learn to play <a href="https://en.wikipedia.org/wiki/Frogger">Frogger</a>.</strong></p>
+            <ol>
+            <li><p>Reinforcement learning</p></li>
+            <li><p>Points, as given by the game.</p></li>
+            <li><p>The agent would be passed some input vector with a grid representing the game, perhaps in addition to some extra normalized variables like time left and goals filled.</p></li>
+            <li><p>Perhaps deep Q learning with an RNN to be able to process different obstacle speeds.</p></li>
+            <li><p>Regret</p></li>
+            <li><p>Botting in video games, when the same techniques are applied to multiplayer?</p></li>
+            </ol></li>
+            <li><p><strong>You would like a model to write tweets in the style of a particular author.</strong></p>
+            <ol>
+            <li><p>Generation</p></li>
+            <li><p>Unsupervised</p></li>
+            <li><p>Padding, byte pair encoding, tokenization, ect.</p></li>
+            <li><p>GAN, RNN / LSTM for generator, RNN for discriminator</p></li>
+            <li><p>Human evaluation</p></li>
+            <li><p>Could be used to fake tweets or impersonate people which has many larger implications. Data harvesting might also be a problem.</p></li>
+            </ol></li>
+            <li><p><strong>A company would like to be able to predict the next months’ sales for each of its products. You have a dataset that the company has collected for many years, with data for a particular product on a particular month in each row. Each row contains the number of sales for the month, the number of sales from the previous month, the average rating (1-5) of the product in the previous month, the number of reviews in the previous month, the product type (e.g. “toaster”, “coffee maker”, “rice cooker”), its price the previous month, and its price for the current month.</strong></p>
+            <ol>
+            <li><p>Regression</p></li>
+            <li><p>The number of sales for the month in the collected dataset</p></li>
+            <li><p>Normalize average rating, OHE product type</p></li>
+            <li><p>FNN</p></li>
+            <li><p>R^2</p></li>
+            <li><p>None</p></li>
+            </ol></li>
+            <li><p><strong>You would like to predict the presence of a certain disease using chest x-ray data. You have a lot of x-ray images, a small amount of which have been labeled as having the disease or not having the disease. The rest of the images are unknown as to whether or not the person has the disease.</strong></p>
+            <ol>
+            <li><p>Classification</p></li>
+            <li><p>Semi-supervised, using the provided labels as well as generated pseudo-labels</p></li>
+            <li><p>Down-sampling, grayscale?</p></li>
+            <li><p>CNN</p></li>
+            <li><p>F-score</p></li>
+            <li><p>Model explainability challenges, covered in our ethics presentation last semester in ML.</p></li>
+            </ol></li>
+            </ol>
+            <p>%%### Example:</p>
+            <p>Here is an example answer, taken from <a href="http://archive.ics.uci.edu/ml/datasets/Abalone">http://archive.ics.uci.edu/ml/datasets/Abalone</a>:</p>
+            <p>Scenario: You want to predict the age of an abalone (a type of shellfish). You have a dataset that includes the age of the abalone, the sex (‘M’, ‘F’, and ‘I’), the length, the diameter, the height, and the weight.</p>
+            <ol>
+            <li><p>regression</p></li>
+            <li><p>age (included in dataset)</p></li>
+            <li><p>Length, diameter, height, and weight are numeric. I will scale them. For the sex feature, make it one-hot-encoded.</p></li>
+            <li><p>linear regression. maybe a fully connected neural network later</p></li>
+            <li><p>R^2%%</p></li>
+            </ol>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

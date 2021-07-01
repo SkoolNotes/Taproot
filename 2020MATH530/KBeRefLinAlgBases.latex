@@ -1,0 +1,254 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ Linear Algebra }
+\newcommand{\thelesson}{ Bases }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2747)}}    % original
+%\rhead{\textrmlf{Compiled }\#2747\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2747\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=2020MATH530/KBe2020math530index.md}{\tiny\textulf{[[}\textbf{2020MATH530/KBe2020math530index.md}\textulf{]]}}}\thinspace
+
+\#source Axler ``Linear Algebra Done Right'' chapter 2.B
+
+\#flo \#ref \#disorganized \#incomplete
+
+\hypertarget{bases}{%
+\section{Bases}\label{bases}}
+
+\hypertarget{summary}{%
+\subsection{Summary}\label{summary}}
+
+If it spans, and it's linearly independent, it's a basis!
+
+\hypertarget{axler2.27-definition-basis}{%
+\subsection{Axler2.27 \#definition
+basis}\label{axler2.27-definition-basis}}
+
+\begin{quote}
+A \emph{basis} of \(V\) is a list of vectors in \(V\) that is linearly
+independent and spans \(V\). - Basically a linearly independent spanning
+list, or the ``minimum'' amount of information contained in a vector
+space
+\end{quote}
+
+\hypertarget{other-results}{%
+\subsubsection{Other Results}\label{other-results}}
+
+\begin{itemize}
+\tightlist
+\item
+  Axler2.29 ``criterion for a basis''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A list is a basis if and only if each vector in \(V\) can be written
+    as exactly one linear combination of the list
+  \end{itemize}
+\item
+  Axler2.31 all spanning lists contain a basis
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Intuitive. A spanning list might not be linearly independent, but
+    some subset of it must be.
+  \end{itemize}
+\item
+  Axler2.32 Any finite dimensional vector space has a basis
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Intuitive. It has a spanning list
+  \item
+    Also, no infinite dimensional vector space has a basis, by
+    definition
+  \end{itemize}
+\item
+  Axler2.33 Linearly indepedent lists can be extended to a basis
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Intuitive. Do this by adding in vectors that ``bring new
+    information''
+  \end{itemize}
+\item
+  Axler2.34 Every subspace of \(V\) is part of a direct sum of \(V\)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Intuitive. Kind of like saying there's an additive complement to
+    every subspace of \(V\)
+  \item
+    Any vector space can be thought of the span of it's basis. Because
+    \(V\) has a basis, and one of \(U\)'s basises can be written as a
+    subsequence of \(V\)'s basis, that basis can be expanded and the
+    expanded elements spanned to form the complement vecspace.
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

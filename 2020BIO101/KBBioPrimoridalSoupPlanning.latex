@@ -1,0 +1,409 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+%\setmainfont[
+%   ItalicFont     = HelveticaNeue-Italic,
+%   BoldFont       = HelveticaNeue-Bold,
+%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight[
+%   ItalicFont     = HelveticaNeue-LightItalic,
+%   BoldFont       = HelveticaNeue-UltraLight,
+%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+\setmainfont[
+   ItalicFont     = Iosevka-Aile-Italic,
+   BoldFont       = Iosevka-Aile-Bold,
+   BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+\newfontfamily\NHLight[
+   ItalicFont     = Iosevka-Aile-Light-Italic,
+   BoldFont       = Iosevka-Aile-Light,
+   BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO201 }
+\newcommand{\thelesson}{ Primordial soup vid planning doc }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6298)}}    % original
+%\rhead{\textrmlf{Compiled }\#6298\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6298\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\#ref \#ret \#disorganized \#incomplete
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{larger-themes}{%
+\section{Larger themes}\label{larger-themes}}
+
+Video? perhaps like Melody sheep?
+https://www.youtube.com/watch?v=ThDYazipjSI
+
+heavy blender
+
+\hypertarget{general-research}{%
+\section{General research}\label{general-research}}
+
+start with: How did life start?
+
+content: theories of how life started,
+
+explain miller-urey
+
+end with we are not alone in the universe explanation:
+
+life is inevitable
+
+\hypertarget{deeper-research}{%
+\subsection{deeper research}\label{deeper-research}}
+
+\begin{itemize}
+\tightlist
+\item
+  Volcanic clay
+
+  \begin{itemize}
+  \tightlist
+  \item
+    In simulated ancient seawater, clay forms a hydrogel -- a mass of
+    microscopic spaces capable of soaking up liquids like a sponge.
+    https://www.sciencedaily.com/releases/2013/11/131105132027.htm
+  \item
+    chemicals confined in those spaces could have carried out the
+    complex reactions that formed proteins, DNA and eventually all the
+    machinery that makes a living cell work. Clay hydrogels could have
+    confined and protected those chemical processes until the membrane
+    that surrounds living cells developed.
+  \item
+    theorists have shown that cytoplasm -- the interior environment of a
+    cell -- behaves much like a hydrogel.
+  \item
+    Unlike surfactants, lipids are difficult to synthesize. Surfactants
+    may transform into lipids. Apatite has been reported to be capable
+    of catalyzing the formation of a proto-lipid {[}58{]}.
+    https://www.intechopen.com/books/clay-minerals-in-nature-their-characterization-modification-and-application/role-of-clay-minerals-in-chemical-evolution-and-the-origin-of-life
+  \item
+    Clay minerals might function as a primordial cell {[}4{]}. When clay
+    minerals are deposited on the ocean floor (or dried), the particles
+    form a pile, enclosing small spaces (Figure 6). It is conceivable
+    that the small spaces behave like cells. Further, when clay minerals
+    are dispersed in water, bubbles form in water or the surface of
+    water, while the clay particles gather at the boundary between water
+    and air, as shown in Figure 7 {[}57{]}. In such a case, clay
+    minerals make a cell-like spherule.
+  \end{itemize}
+\end{itemize}
+
+clay deposits and a type of hydrogel with form sponge like pockets
+
+these pockets could have acted as early cells
+
+cytoplasm behaves a lot like a hydrogel
+
+some of the common minerals found in clay can help the formation of
+proto lipids
+
+pockets in clay deposits would be the perfect environment for early cell
+formation
+
+\begin{itemize}
+\tightlist
+\item
+  Deep sea vents
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Deep under the Earth's seas, there are vents where seawater comes
+    into contact with minerals from the planet's crust, reacting to
+    create a warm, alkaline (high on the pH scale) environment
+    containing hydrogen. The process creates mineral-rich chimneys with
+    alkaline and acidic fluids, providing a source of energy that
+    facilitates chemical reactions between hydrogen and carbon dioxide
+    to form increasingly complex organic compounds.
+    https://www.sciencedaily.com/releases/2019/11/191104112437.htm\#:\textasciitilde:text=Summary\%3A,vents
+    rather than shallow pools.\&text=Some of the world's
+    oldest,originated in such underwater vents.
+  \item
+    The researchers found that molecules with longer carbon chains
+    needed heat in order to form themselves into a vesicle (protocell).
+    An alkaline solution helped the fledgling vesicles keep their
+    electric charge. A saltwater environment also proved helpful, as the
+    fat molecules banded together more tightly in a salty fluid, forming
+    more stable vesicles
+  \item
+    The researchers also point out that deep-sea hydrothermal vents are
+    not unique to Earth.
+  \item
+    Authors of the new theory argue the environmental conditions in
+    porous hydrothermal vents --- where heated, mineral-laden seawater
+    spews from cracks in the ocean crust --- created a gradient in
+    positively charged protons that served as a ``battery'' to fuel the
+    creation of organic molecules and proto-cells. Later, primitive
+    cellular pumps gradually evolved the ability to use a different type
+    of gradient --- the difference in sodium particles inside and
+    outside the cell --- as a battery to power the construction of
+    complex molecules like proteins.
+    https://www.livescience.com/26173-hydrothermal-vent-life-origins.html
+  \item
+    thriving on a chemical soup rich in hydrogen, carbon dioxide, and
+    sulfur, spewing from the geysers
+    https://www.whoi.edu/press-room/news-release/study-tests-theory-that-life-originated-at-deep-sea-vents/
+  \end{itemize}
+\end{itemize}
+
+warm, alkaline enviroment
+
+alkaline and acidic fluids provide source of energy
+
+creates a gradient that can be harnessed for energy
+
+complex reactions between hydrogen and carbon dioxide
+
+super rich in minerals
+
+\begin{itemize}
+\item
+  tides of ponds
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Researchers report that shallow bodies of water, on the order of 10
+    centimeters deep, could have held high concentrations of what many
+    scientists believe to be a key ingredient for jump-starting life on
+    Earth: nitrogen.
+    https://news.mit.edu/2019/earth-earliest-life-ponds-not-oceans-0412
+  \item
+    Atmospheric nitrogen consists of two nitrogen molecules, linked via
+    a strong triple bond, that can only be broken by an extremely
+    energetic event --- namely, lightning. ``Lightning is like a really
+    intense bomb going off,'' Ranjan says. ``It produces enough energy
+    that it breaks that triple bond in our atmospheric nitrogen gas, to
+    produce nitrogenous oxides that can then rain down into water
+    bodies.''
+  \item
+    In the ocean, ultraviolet light and dissolved iron would have made
+    nitrogenous oxides far less available for synthesizing living
+    organisms. In shallow ponds, however, life would have had a better
+    chance to take hold. That's mainly because ponds have much less
+    volume over which compounds can be diluted. As a result, nitrogenous
+    oxides would have built up to much higher concentrations in ponds.
+  \item
+    In environments any deeper or larger, nitrogenous oxides would
+    simply have been too diluted, precluding any participation in
+    origin-of-life chemistry.
+  \item
+    {[}about rna{]} Having bonded in pairs at low tide, these newly
+    formed molecular strands would then dissociate at high tide, when
+    salt concentrations were reduced, providing what Lathe terms a
+    self-replicating system.
+    https://www.scientificamerican.com/article/moon-life-tides/\#:\textasciitilde:text=The
+    ocean tides mirror life itself.\&text=Life emerged some 700
+    million,tides were much more extreme.
+  \end{itemize}
+\item
+  fixed nitrogen is essential for life
+\item
+  lighting
+\item
+  dissolved iron the oceans
+\item
+  high concentration of nitrogen in ponds
+\item
+  otherwise would be to diluted
+\item
+  rns would dissaocitate and reasociate at different tides
+\item
+  at home in the universe
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The chance that a single chemical is self replicating is very low
+  \item
+    however, this chemical is much more likely to another chemical
+  \item
+    as the number of chemicals and complexity increases, the likelihood
+    that these chemicals will become cyclic increases exponentially\\
+  \item
+    life doesnt just become likely, it becomes inevitable.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{outline}{%
+\section{Outline}\label{outline}}
+
+Life is amazing, incredibly complex, the question becomes, how did it
+start?
+
+Three theories:
+
+volcanic clay deep sea vents tides of ponds
+
+But there's more than just theories:
+
+miller-urey experiment
+
+TRANSITION IDEA: While the results of this experiment seem profound,
+looking at this same scenario from a mathematical perspective reveals
+startling new conclusions
+
+At home in the universe
+
+Life, is -- inevitable.
+
+Sponsered by shabang studios!
+
+\hypertarget{script}{%
+\section{Script}\label{script}}
+
+Song: https://artlist.io/song/12965/fallen
+
+\end{document}

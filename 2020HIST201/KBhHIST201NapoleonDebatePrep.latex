@@ -1,0 +1,403 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Napoleon Debate Prep Sources }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}3700)}}    % original
+%\rhead{\textrmlf{Compiled }\#3700\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#3700\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{napoleon-debate-prep-sources}{%
+\section{Napoleon Debate Prep
+Sources}\label{napoleon-debate-prep-sources}}
+
+\hypertarget{dec-of-rights-of-man-and-the-citizen}{%
+\subsection{Dec of Rights of Man and the
+Citizen}\label{dec-of-rights-of-man-and-the-citizen}}
+
+\emph{Created in conjunction of John Locke's Second Treatise, American
+Dec of I, and US Constitution}
+
+\begin{itemize}
+\tightlist
+\item
+  Ignorance, neglect, or contempt of human rights =\textgreater{} sole
+  causes of the French decline
+\item
+  Declares that "" must be unalianable rights
+\item
+  National Assemble recgonizes that, (under the authority of
+  god)\ldots{}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Men are born and need to continue to be free; classes are only
+    founded upon utility
+  \item
+    Political associations is created for the preservation of man's
+    rights of liberty, property, security, and resistance to oppression
+  \item
+    The Nation \emph{per se} not ANY INDIVIDUAL or ANY BODY of men.
+    (their caps, not mine) are the source of soverty
+  \item
+    Political liberty means that people could do whatever that does not
+    harm others + limit others liberties
+  \item
+    Law should only prohibit what's harmful to society. Extra-juditial
+    requirements should not be imposed
+  \item
+    Law is the will of the community, and it should be equally
+    ajudicated for all ``without any distinction than that created by
+    virtunes and talents.''
+  \item
+    No one should be arrested/held in confiement unless prescribed by
+    the law
+  \item
+    Th law should imposed no penties that is not absolutely necessiary;
+    no one should be punished unless trialed by law
+  \item
+    Everyone is presumed innocent until convinction
+  \item
+    No one should be molested on his opionions, not even his religious
+    opionis --- unless that disrupts public order
+  \item
+    Unstrstrained communication of thoughts is the most precious
+  \item
+    Public force for security should be instituted for the benifit of
+    all in community, not the guy who manages it
+  \item
+    Taxes should be equally divided upon ability
+  \item
+    Every citizen has the right (through him or through his
+    representative) to voice his opinions about the collection and
+    distribution of taxes
+  \item
+    Every community has the right to demand individuals of conduct
+    review? \#ASK
+  \item
+    Every community without seperation of power needs a constitution
+  \item
+    No one should be deprived of property
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{robespierre-republic-of-virtue}{%
+\subsection{Robespierre, Republic of
+Virtue}\label{robespierre-republic-of-virtue}}
+
+Jacobins like Robespierre supported the use of terror due to their
+believe that terror was instrumental to rescue the Revolution from
+destruction. Sobspierre throught himself as the model of good virtunes,
+citizenship, and patriotism.
+
+\begin{itemize}
+\tightlist
+\item
+  Argued that the goal is ``peaceful enjoyment of liberty and equality;
+  reign of eternal justice w/ laws in everyone''
+\item
+  Model of perfect society
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Low and cruel passions curbed
+  \item
+    Ambition will be desire to serve the nation
+  \item
+    Distinction grow out of equality
+  \item
+    Circular chain of responsibility, where everyone expands by
+    communication of rebulican sentiments
+  \end{itemize}
+\item
+  =\textgreater{} ``To fufill the intentions of nature and the destiny
+  of humanity, realize the promise of philosophy, quit of reign of crime
+  and tyranny''
+\item
+  Believes that aristocracy is not good enough; want a
+  democratic/republican goverment
+\item
+  People regulate themselves with public affairs, and not a small group
+\item
+  Believes that, to achieve all of this, the French must go to war
+  against tyranny
+
+  \begin{itemize}
+  \tightlist
+  \item
+    =\textgreater{} use of terror! ``virtue, without which terror is
+    destructive; terror, without which virtue is impotent''
+  \item
+    Believes that the ``vicious and the rich'' will use ``slander and
+    hypocrisy'' to achieve their means
+  \item
+    Thinks that the Mercenary writers are, hence, the most dangerous of
+    the people
+  \item
+    Wishes to send people to the traditional gathering of aristocracy to
+    quell loyalism, through\ldots{}
+
+    \begin{enumerate}
+    \def\labelenumi{\arabic{enumi}.}
+    \tightlist
+    \item
+      Prohibiting counter-revolutionary writers
+    \item
+      Punishment of traitors and conspirators, incl.~deputies and admins
+    \item
+      Appointment of patriotic generals + dismissal of all others
+    \item
+      Laws for the people
+    \end{enumerate}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{napoleon}{%
+\subsection{Napoleon}\label{napoleon}}
+
+Used a combination of actual, but also psycological war
+
+\begin{itemize}
+\tightlist
+\item
+  Believes that he himself will lead Italian soldiers to salvation,
+  honor, glory
+\item
+  Brainwashes his solders to fight for the french Republic, using the
+  king as scapegoat
+\item
+  Asked solders respect those who he liberate
+\item
+  ``Waging war as generous enemies, and wish to only crush tyrants who
+  enslave''
+\item
+  Believes that fascianism, imagination, and BRANDING rule the wrold
+\item
+  Believes that powerful leaders are ultimately the ones who need to
+  know how to do everything
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Need to lead with force, activity, resolve to die
+  \item
+    Win over the people w. respect of religion
+  \end{itemize}
+\item
+  Power extends from reputation
+\item
+  Morale + opinion are half of the battle
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Make troops appear very numerous
+  \item
+    Make enemy's troops few and unloyal
+  \end{itemize}
+\item
+  Religion is owning to the Emperor + in defense of his throne
+\item
+  Circled back to the fact that emperor derives power from emperor
+\item
+  Gives conquered contries a constitution and common code
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Wishes that changes would cause strength to monarchy
+  \item
+    Enforces rule and reputation throughout Europe
+  \item
+    Urges kings to rule constitutionally + with the public opionion
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{de-christianization-in-the-district-of-saint-quetin}{%
+\subsection{De-christianization in the District of
+Saint-Quetin}\label{de-christianization-in-the-district-of-saint-quetin}}
+
+\begin{itemize}
+\tightlist
+\item
+  Believes that the christian institution is a ``throne of terror''
+\item
+  Reason and philosophy should overtake it
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Cities need to remove crosses on churches, chapels, cemeteries, or
+  public places
+\item
+  Crosses should be replaced with national coat and colors
+\item
+  All the metal items taken should be inventoried in addition to linen,
+  surplicies, chasubles used in worship
+\end{enumerate}
+
+\end{document}

@@ -1,0 +1,337 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ Single Nucleotide Polymorphism }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13399)}}    % original
+%\rhead{\textrmlf{Compiled }\#13399\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBBiologyMasterIndex}{\tiny\textulf{[[}\textbf{KBBiologyMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{snp}{%
+\section{SNP}\label{snp}}
+
+\textbf{Single Nucleotipe Polymorphism}: pairs of single-base pair
+variations of genes that are not uncommon (\textgreater1\%), and hence
+not quite considered a mutation.
+
+SNPs could be in any part of the genome: sometimes in a gene, but more
+often in a non-coding region.
+
+\begin{figure}
+\centering
+\includegraphics{./Pasted image 20210505134813.png}
+\caption{Pasted image 20210505134813.png}
+\end{figure}
+
+These could do absolutely nothing, but they could also create large
+trait differences (sickle-cell is a SNP).
+
+\emph{The DNA by mail kits are actually just looking for SNPs!}
+
+Multiple SNPs come together to form a ``Haplotype''; they are SNPs that
+are fairly close together that frequently occur in sequence (like the
+chain of three SNPs A something something G something something T would
+be a haplotype.)
+
+People of the same haplotype are likely of same ancestry.
+
+\hypertarget{snp-guidelines}{%
+\subsection{SNP Guidelines}\label{snp-guidelines}}
+
+\begin{itemize}
+\tightlist
+\item
+  No medical SNPs; so avoid SNPs that could be associated with heavy
+  medical information
+\item
+  No SNPs that could potentially give you PTSD
+\end{itemize}
+
+\hypertarget{the-reaction}{%
+\subsection{the Reaction}\label{the-reaction}}
+
+\begin{itemize}
+\tightlist
+\item
+  Each student's PCR reaction will only amplify 500-800 nucleotide
+  region
+\item
+  Find SNPs that have specific traits independently, because most SNPs
+  are polygenic (they tell you info only if you discover many different
+  SNPs, which is complicated and hard)
+\item
+  SNPs are sometimes discovered using Genome Wide Association Studies,
+  which is challenging to deal with because they may be flawed
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{polymerase-chain-reaction-pcr}{%
+\subsection{Polymerase Chain Reaction
+(PCR)}\label{polymerase-chain-reaction-pcr}}
+
+\emph{A reaction by which the DNA replication process is attempted to be
+replicated out of the cell in preparation to sequence one's DNA}
+
+\textbf{PCR provides a way of creating \emph{lots} of copies of a
+\emph{small} strand of DNA}
+
+\hypertarget{reaction-need}{%
+\subsubsection{Reaction Need}\label{reaction-need}}
+
+\begin{itemize}
+\tightlist
+\item
+  The DNA Portion (duh)
+\item
+  A buffer to host the liquid
+\item
+  Primers - Bit of RNA to help DNA polymerase get going
+\item
+  DNA Polymerase - The Enzyme to Copy the DNA =\textgreater{} Typically,
+  the TAQ Polymerease is used because it is from a bacterial that's
+  quite resistant to heat
+\item
+  DNA Nucleotides - to build the replicated DNA
+\end{itemize}
+
+\hypertarget{steps}{%
+\subsubsection{Steps}\label{steps}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Denaturation
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Cook the DNA (``denature it''/heat it) to seperate the two strands
+    of the DNA
+  \end{enumerate}
+\item
+  Annealing
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Cool the Cooked DNA, and dump in the primers
+  \item
+    The specific temperature in this step is important because it
+    controlls where the primer binds, and hence which part of the DNA
+    you want to amplify
+  \end{enumerate}
+\item
+  DNA Synthesis =\textgreater{} make more copies of the DNA
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    This needs a slightly higher temperature than annealing, but which
+    one depends on what polymerase you used
+  \end{enumerate}
+\item
+  Go to step 1
+\end{enumerate}
+
+Note: the DNA polymerase may run over, so we just keep repeating this
+and it will slowly become more successful as the DNA polymerease repeats
+its work repeatedly.
+
+BTW: if you read carefully, you will realize that you made TWO DNA
+double-strands out of a single double strand. So exponential growth
+baybee and then you could get lots of copies of that region.
+
+\hypertarget{but-why}{%
+\subsubsection{But, why?}\label{but-why}}
+
+In order to have enough copies for gel electroprorisis (like, the
+rRT-PCR COVID test) or, for things like crime forensics, you need many
+copies of the same DNA for a clearly detectable result for analysis that
+may have a high threshold.
+
+\end{document}

@@ -1,0 +1,754 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ flo--managing complexity in the real world }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6743)}}    % original
+%\rhead{\textrmlf{Compiled }\#6743\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6743\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{his-intro-background}{%
+\section{his intro / background}\label{his-intro-background}}
+
+\hypertarget{used-to-be-very-into-econ}{%
+\subsection{used to be very into econ}\label{used-to-be-very-into-econ}}
+
+\hypertarget{worked-at-world-bank-bc-he-thought-it-was-a-good-place-to-meet-people-who-were-interested-in-math-and-econ-and-help-the-world}{%
+\subsection{worked at world bank bc he thought it was a good place to
+meet people who were interested in math and econ and help the
+world}\label{worked-at-world-bank-bc-he-thought-it-was-a-good-place-to-meet-people-who-were-interested-in-math-and-econ-and-help-the-world}}
+
+\hypertarget{was-sent-to-a-country-forgot-during-communism-capitalism-transition-and-saw-that-the-forced-capitalist-policies-were-not-working}{%
+\subsection{was sent to a country (forgot) during
+communism-\textgreater capitalism transition and saw that the forced
+capitalist policies were not
+working}\label{was-sent-to-a-country-forgot-during-communism-capitalism-transition-and-saw-that-the-forced-capitalist-policies-were-not-working}}
+
+\hypertarget{went-into-management-because-that-allowed-him-to-actually-help}{%
+\subsection{went into management because that allowed him to actually
+help}\label{went-into-management-because-that-allowed-him-to-actually-help}}
+
+\hypertarget{sante-fe-institute}{%
+\subsection{sante fe institute}\label{sante-fe-institute}}
+
+\hypertarget{centeripece-for-a-global-movement-to-involve-complexity-in-sciences-accross-disciplines}{%
+\subsubsection{centeripece for a global movement to involve complexity
+in sciences accross
+disciplines}\label{centeripece-for-a-global-movement-to-involve-complexity-in-sciences-accross-disciplines}}
+
+\hypertarget{from-los-alamos-national-labs}{%
+\subsubsection{from los alamos national
+labs}\label{from-los-alamos-national-labs}}
+
+\hypertarget{universal-relationships}{%
+\subsubsection{'universal
+relationships'}\label{universal-relationships}}
+
+\hypertarget{lots-of-nobel-prizes}{%
+\subsubsection{lots of nobel prizes}\label{lots-of-nobel-prizes}}
+
+\hypertarget{applications-of-graph-theory-and-network-theory-and-lots-of-econ}{%
+\subsubsection{applications of graph theory and network theory, and lots
+of
+econ}\label{applications-of-graph-theory-and-network-theory-and-lots-of-econ}}
+
+\begin{enumerate}
+\item
+  understanding when societies are going to have a revolution, finiance,
+  energy grid
+\end{enumerate}
+
+\hypertarget{other-related-areas-interdisciplinary}{%
+\section{other related areas /
+interdisciplinary}\label{other-related-areas-interdisciplinary}}
+
+\hypertarget{do-individuals-matter-in-history}{%
+\subsection{do individuals matter in
+history}\label{do-individuals-matter-in-history}}
+
+\hypertarget{impacts-on-marketing-based-on-faith-studies}{%
+\subsection{impacts on marketing based on faith
+studies?}\label{impacts-on-marketing-based-on-faith-studies}}
+
+\hypertarget{overview}{%
+\section{Overview}\label{overview}}
+
+\hypertarget{this-intersession-is-interdisciplinary-fixing-of-economics}{%
+\subsection{this intersession is "interdisciplinary fixing of
+economics"}\label{this-intersession-is-interdisciplinary-fixing-of-economics}}
+
+\hypertarget{warmup}{%
+\section{Warmup}\label{warmup}}
+
+\hypertarget{insectivora-macroscelidea-avg-mass-vs-avg-bmr-guess-avg-bmr-for-pholidota-given-avg-mass}{%
+\subsection{insectivora, macroscelidea avg mass vs avg BMR, guess avg
+bmr for pholidota given avg
+mass}\label{insectivora-macroscelidea-avg-mass-vs-avg-bmr-guess-avg-bmr-for-pholidota-given-avg-mass}}
+
+\hypertarget{i-just-took-the-ratios-and-took-a-high-and-low}{%
+\subsubsection{I just took the ratios and took a high and
+low}\label{i-just-took-the-ratios-and-took-a-high-and-low}}
+
+\hypertarget{a-few-strategies-for-solving-the-problem}{%
+\subsubsection{a few strategies for solving the
+problem}\label{a-few-strategies-for-solving-the-problem}}
+
+\begin{enumerate}
+\item
+  look for a common ratio (assume 0 mass = 0 BMR)
+\item
+  fit a line
+\item
+  it's actually not a linear relation, and the answer is relatively
+  unexpected (much lower ratio)
+\end{enumerate}
+
+\hypertarget{the-monkey-business-illusion-ball-passing---miss-other-stuff}{%
+\subsection{the monkey business illusion (ball passing -\textgreater{}
+miss other
+stuff)}\label{the-monkey-business-illusion-ball-passing---miss-other-stuff}}
+
+\hypertarget{when-you-get-attached-to-a-tool-you-miss-loads-of-other-things}{%
+\subsubsection{when you get attached to a tool, you miss loads of other
+things}\label{when-you-get-attached-to-a-tool-you-miss-loads-of-other-things}}
+
+\hypertarget{universality}{%
+\section{universality}\label{universality}}
+
+\hypertarget{examples}{%
+\subsection{examples}\label{examples}}
+
+\hypertarget{common-limit-theorem}{%
+\subsubsection{common limit theorem}\label{common-limit-theorem}}
+
+\begin{enumerate}
+\item
+  lots of common processes produce gauseian distributions
+
+  \begin{enumerate}
+  \item
+    thus, there is a "universality" in the normal distribution
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{other-theorem-something-with-gauss}{%
+\subsubsection{other theorem? (something with
+gauss)}\label{other-theorem-something-with-gauss}}
+
+\begin{enumerate}
+\item
+  if things are often normal distributions, then statistics kind of
+  works (because that's what it's all based on)
+\end{enumerate}
+
+\hypertarget{all-mamals-average-the-same-number-of-heartbeats}{%
+\subsubsection{all mamals average the same number of
+heartbeats}\label{all-mamals-average-the-same-number-of-heartbeats}}
+
+\begin{enumerate}
+\item
+  small animals have fast hearts and die sooner, vice versa
+\end{enumerate}
+
+\hypertarget{metabolic-rate-first-warm-up-problem}{%
+\subsubsection{metabolic rate (first warm up
+problem)}\label{metabolic-rate-first-warm-up-problem}}
+
+\begin{enumerate}
+\item
+  log log linear -\textgreater{} constant rate of savings? SUBLINEAR
+  SCALING
+\item
+  constant increase in efficiency
+\item
+  roughly 3/4 or 2/3 exponent
+\item
+  exponent can be derived by networks (circulatory system)
+
+  \begin{enumerate}
+  \item
+    where can this be applied?
+
+    \begin{enumerate}
+    \item
+      many city statistics
+
+      \begin{enumerate}
+      \item
+        15\% boost/saving for every size double for amount of gas
+        stations, boost in gdp, \# of patents, new AIDs cases, etc
+      \end{enumerate}
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{city}{%
+\section{city}\label{city}}
+
+\hypertarget{superlinear-scaling---city-should-grow}{%
+\subsection{superlinear scaling -\textgreater{} city should
+grow}\label{superlinear-scaling---city-should-grow}}
+
+\hypertarget{results}{%
+\subsection{results}\label{results}}
+
+\hypertarget{finite-time-singularity-when-the-growth-curve-goes-vertical..-what-does-that-mean.-maybe-environmental-collapse}{%
+\subsubsection{finite time singularity? when the growth curve goes
+vertical.. what does that mean. maybe environmental
+collapse}\label{finite-time-singularity-when-the-growth-curve-goes-vertical..-what-does-that-mean.-maybe-environmental-collapse}}
+
+\hypertarget{trying-to-increase-gdp-and-decrease-crimeaids-by-growing-wont-really-work-because-both-scale-in-the-same-way}{%
+\subsubsection{trying to increase GDP and decrease crime/AIDs by growing
+won't really work because both scale in the same
+way}\label{trying-to-increase-gdp-and-decrease-crimeaids-by-growing-wont-really-work-because-both-scale-in-the-same-way}}
+
+\hypertarget{complexity}{%
+\section{complexity}\label{complexity}}
+
+\hypertarget{core}{%
+\subsection{core}\label{core}}
+
+\hypertarget{taking-a-general-tool-and-applying-it-elsewhere}{%
+\subsubsection{taking a general tool and applying it
+elsewhere}\label{taking-a-general-tool-and-applying-it-elsewhere}}
+
+\hypertarget{methodology}{%
+\subsection{methodology}\label{methodology}}
+
+\hypertarget{start-with-a-data-rich-domain-and-find-the-generative-mechinism-then-apply-to-the-data-sparse}{%
+\subsubsection{start with a data rich domain and find the generative
+mechinism, then apply to the data
+sparse}\label{start-with-a-data-rich-domain-and-find-the-generative-mechinism-then-apply-to-the-data-sparse}}
+
+\hypertarget{definition-of-complexity}{%
+\subsection{definition of complexity}\label{definition-of-complexity}}
+
+\hypertarget{difficult-to-come-up-with-a-concrete-definition}{%
+\subsubsection{difficult to come up with a concrete
+definition}\label{difficult-to-come-up-with-a-concrete-definition}}
+
+\hypertarget{handwavey-systems-of-networked-adaptive-agents-are-complex}{%
+\subsubsection{handwavey: systems of networked adaptive agents are
+complex}\label{handwavey-systems-of-networked-adaptive-agents-are-complex}}
+
+\begin{enumerate}
+\item
+  networked
+
+  \begin{enumerate}
+  \item
+    networks have 'finite' sides (classifications of nodes)
+  \item
+    complexity perspective: they provide an analyzable structure at the
+    mezzo-level of granularity
+
+    \begin{enumerate}
+    \item
+      ways networks are analyzed
+
+      \begin{enumerate}
+      \item
+        degree of a node
+      \item
+        betweenness centrality
+      \item
+        eigenvector complexity?
+      \item
+        avg path length
+      \item
+        degree distribution
+      \item
+        clustering
+      \item
+        community structure
+      \end{enumerate}
+    \end{enumerate}
+  \end{enumerate}
+\item
+  agents
+
+  \begin{enumerate}
+  \item
+    assume that all companies or consumers are equal and if they differ,
+    then they differ along one variable
+  \item
+    agents are actually different though?
+  \end{enumerate}
+\item
+  adpativity
+
+  \begin{enumerate}
+  \item
+    such as evolutionarily inspired adaptation
+
+    \begin{enumerate}
+    \item
+      genetic algorithms / evolutionary algorithms
+    \item
+      often used to come up with a pretty good answer for a hard (NP
+      complete or more difficult) problem
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{random-questions}{%
+\section{random questions}\label{random-questions}}
+
+\hypertarget{other-structures}{%
+\subsection{other structures?}\label{other-structures}}
+
+\hypertarget{many-complex-systems-have-network-structures}{%
+\subsubsection{many complex systems have network
+structures}\label{many-complex-systems-have-network-structures}}
+
+\hypertarget{celular-automata}{%
+\subsubsection{celular automata}\label{celular-automata}}
+
+\hypertarget{almost-everything-is-a-network-but-they-mean-network-like-everyone-knows-everyone-else}{%
+\subsubsection{almost everything is a network, but they mean network
+like everyone knows everyone
+else}\label{almost-everything-is-a-network-but-they-mean-network-like-everyone-knows-everyone-else}}
+
+\begin{enumerate}
+\item
+  it's a nice assumption if you want to use calculus, but sometimes its
+  a poor model
+\item
+  somewhere along the way, textbooks inverted it
+\item
+  try to find the underlying mechinism and build models that reflect it
+\end{enumerate}
+
+\hypertarget{does-economics-stop-new-things-from-cropping-up}{%
+\subsection{does economics stop new things from cropping
+up?}\label{does-economics-stop-new-things-from-cropping-up}}
+
+\hypertarget{not-cooridantedly-but-if-you-edit-a-journal-you-will-prefer-to-publish-papers-that-exapand-existing-techniques-instead-of-brand-new-ones}{%
+\subsubsection{not cooridantedly, but if you edit a journal you will
+prefer to publish papers that exapand existing techniques instead of
+brand new
+ones}\label{not-cooridantedly-but-if-you-edit-a-journal-you-will-prefer-to-publish-papers-that-exapand-existing-techniques-instead-of-brand-new-ones}}
+
+\hypertarget{evolutionary-economics}{%
+\subsection{evolutionary 'economics'}\label{evolutionary-economics}}
+
+\hypertarget{multiple-equilibriums-will-be-bounced-between-bc-there-is-always-variation-that-comes-from-new-mutations}{%
+\subsubsection{multiple equilibriums will be bounced between bc there is
+always variation that comes from new
+mutations}\label{multiple-equilibriums-will-be-bounced-between-bc-there-is-always-variation-that-comes-from-new-mutations}}
+
+\hypertarget{economics-tries-to-pin-systems-to-a-perfect-equilibrium-but-with-this-complexity-stuff-you-actually-bounce-between-them}{%
+\subsubsection{economics tries to pin systems to a 'perfect' equilibrium
+but with this complexity stuff you actually bounce between
+them}\label{economics-tries-to-pin-systems-to-a-perfect-equilibrium-but-with-this-complexity-stuff-you-actually-bounce-between-them}}
+
+\hypertarget{classic-economic-curtain-view}{%
+\section{classic economic curtain
+view}\label{classic-economic-curtain-view}}
+
+\hypertarget{pull-a-curtain-on-the-state-of-the-economy-between-equilibriums-and-just-figure-out-where-the-next-one-is}{%
+\subsection{pull a curtain on the state of the economy between
+equilibriums and just figure out where the next one
+is}\label{pull-a-curtain-on-the-state-of-the-economy-between-equilibriums-and-just-figure-out-where-the-next-one-is}}
+
+\hypertarget{however-the-actual-policy-that-we-care-about-is-heavily-affected-by-the-transitions-thus-we-actually-care}{%
+\subsection{however, the actual policy that we care about is heavily
+affected by the transitions, thus we actually
+care}\label{however-the-actual-policy-that-we-care-about-is-heavily-affected-by-the-transitions-thus-we-actually-care}}
+
+\hypertarget{case-study-russian-economic-contraction}{%
+\subsection{case study: russian economic
+contraction}\label{case-study-russian-economic-contraction}}
+
+\hypertarget{the-2008-recession-was-5-and-came-back-in-4-years.-in-russia-there-was-a-40-contraction-and-society-really-started-to-break-down}{%
+\subsubsection{the 2008 recession was 5\% and came back in 4 years. In
+russia, there was a 40\% contraction and society really started to break
+down}\label{the-2008-recession-was-5-and-came-back-in-4-years.-in-russia-there-was-a-40-contraction-and-society-really-started-to-break-down}}
+
+\hypertarget{jeffery-somebody-wanted-mass-privatization}{%
+\subsubsection{jeffery somebody wanted mass
+privatization}\label{jeffery-somebody-wanted-mass-privatization}}
+
+\begin{enumerate}
+\item
+  government should value each company and make shares and give them out
+\item
+  doesn't account for dynamic something processes and didn't account for
+  heterogenety
+\item
+  what happened? villagers sold their shares which kept getting resold
+\item
+  this is the problem with the curtain view: the transitions are the
+  difficult parts that policy needs to hold up through
+\item
+  dengxiaopeng economic experiments were more effective than the mass
+  shock transition
+
+  \begin{enumerate}
+  \item
+    nomaclotora system? easier to get promoted if you run an experiment
+    and it works
+  \item
+    similar to how social credit experiments are being rolled out
+  \item
+    it's like an evolutionary algorithm to search a complex landscape
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{how-does-this-change-the-way-we-think-about-policy}{%
+\section{how does this change the way we think about
+policy}\label{how-does-this-change-the-way-we-think-about-policy}}
+
+\hypertarget{for-privitization-keep-in-mind-how-agents-change-and-make-decisions}{%
+\subsection{for privitization, keep in mind how agents change and make
+decisions?}\label{for-privitization-keep-in-mind-how-agents-change-and-make-decisions}}
+
+\hypertarget{the-only-systems-where-game-theory-works-is-when-everyone-making-the-decision-is-a-game-theorist}{%
+\subsubsection{the only systems where game theory works is when everyone
+making the decision is a game
+theorist}\label{the-only-systems-where-game-theory-works-is-when-everyone-making-the-decision-is-a-game-theorist}}
+
+\hypertarget{for-science-education-how-do-we-influence-the-agents-to-make-more-risk-adverse-or-better-decisions}{%
+\subsection{for science education, how do we influence the agents to
+make more risk adverse or better
+decisions?}\label{for-science-education-how-do-we-influence-the-agents-to-make-more-risk-adverse-or-better-decisions}}
+
+\hypertarget{teaching-people-about-economics-makes-them-behave-more-game-theory-rationally}{%
+\subsubsection{teaching people about economics makes them behave more
+game theory
+rationally}\label{teaching-people-about-economics-makes-them-behave-more-game-theory-rationally}}
+
+\hypertarget{not-perfect-knowledge-so-what}{%
+\section{not perfect knowledge, so
+what?}\label{not-perfect-knowledge-so-what}}
+
+\hypertarget{agents-are-different-in-many-ways-not-just-one-very-controlled-variable}{%
+\subsection{agents are different in many ways (not just one very
+controlled
+variable)}\label{agents-are-different-in-many-ways-not-just-one-very-controlled-variable}}
+
+\hypertarget{agents-dont-have-perfect-information}{%
+\subsection{agents don't have perfect
+information}\label{agents-dont-have-perfect-information}}
+
+\hypertarget{so-complex-systems-behave-differently}{%
+\subsection{so, complex systems behave
+differently}\label{so-complex-systems-behave-differently}}
+
+\hypertarget{cities-are-complex}{%
+\subsubsection{cities are complex}\label{cities-are-complex}}
+
+\hypertarget{firms-are-complex}{%
+\subsubsection{firms are complex}\label{firms-are-complex}}
+
+\hypertarget{industries}{%
+\subsubsection{industries}\label{industries}}
+
+\hypertarget{markets}{%
+\subsubsection{markets}\label{markets}}
+
+\hypertarget{individuals-brains}{%
+\subsubsection{individuals (brains)}\label{individuals-brains}}
+
+\hypertarget{emergent-properties}{%
+\subsection{emergent properties}\label{emergent-properties}}
+
+\hypertarget{difficult-to-predict-in-a-reductionist-mindset}{%
+\subsubsection{difficult to predict in a reductionist
+mindset}\label{difficult-to-predict-in-a-reductionist-mindset}}
+
+\hypertarget{however-we-organize-knowledge-from-a-reductionist-mindset.-this-is-already-a-mistake}{%
+\subsubsection{however, we organize knowledge from a reductionist
+mindset. This is already a
+mistake}\label{however-we-organize-knowledge-from-a-reductionist-mindset.-this-is-already-a-mistake}}
+
+\hypertarget{phase-transitions}{%
+\subsubsection{phase transitions}\label{phase-transitions}}
+
+\begin{enumerate}
+\item
+  nature of a system changes rapidly
+\item
+  it's difficult to undo the change
+\item
+  such as bear vs bull market in economics
+\end{enumerate}
+
+\hypertarget{modern-research}{%
+\section{modern research}\label{modern-research}}
+
+\hypertarget{collective-intelligence}{%
+\subsection{collective intelligence}\label{collective-intelligence}}
+
+\hypertarget{overview-1}{%
+\subsubsection{overview}\label{overview-1}}
+
+\begin{enumerate}
+\item
+  used to have a very reductionist model (either group is one individual
+  or boundedly rational; or everyone in it is universally networked and
+  can make good collective decisions)
+\item
+  based on how individuals learn / communicate, you can get good or bad
+  decisions
+\item
+  monkeys often organized themselves near critical points where it's
+  easy to provoke internal war
+
+  \begin{enumerate}
+  \item
+    makes sense if you believe in group level selection, bc if there is
+    a famine, then everyone will spread around and maybe one group will
+    survive
+  \item
+    if this is a data rich domain, how can it be applied? Should we
+    organize our teens so that they easily split and explore more areas?
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{using-complexity-science-to-understand-online-hate-speach}{%
+\subsection{using complexity science to understand online hate
+speach}\label{using-complexity-science-to-understand-online-hate-speach}}
+
+\hypertarget{german-data-where-people-badge-themselves-as-either-reconquesta-germania-or-reconquestia-internetta}{%
+\subsubsection{german data where people badge themselves as either
+'reconquesta germania' or 'reconquestia
+internetta?'}\label{german-data-where-people-badge-themselves-as-either-reconquesta-germania-or-reconquestia-internetta}}
+
+\hypertarget{conversations-were-analysed-using-nlp-and-researchers-tried-to-understand-what-strategies-worked-to-slow-spread-of-hate-or-speed-it-up}{%
+\subsubsection{conversations were analysed using NLP and researchers
+tried to understand what strategies worked to slow spread of hate or
+speed it
+up}\label{conversations-were-analysed-using-nlp-and-researchers-tried-to-understand-what-strategies-worked-to-slow-spread-of-hate-or-speed-it-up}}
+
+\hypertarget{scaling-and-universiality-in-urban-economic-diversification}{%
+\subsection{scaling and universiality in urban economic
+diversification}\label{scaling-and-universiality-in-urban-economic-diversification}}
+
+\hypertarget{simon-yule-distribution-formed-by-a-preferntial-attachement-mechinism}{%
+\subsubsection{simon yule distribution? formed by a preferntial
+attachement
+mechinism?}\label{simon-yule-distribution-formed-by-a-preferntial-attachement-mechinism}}
+
+\begin{enumerate}
+\item
+  if you use nix codes to do a frequency distribution
+\item
+  count the number of businesses in the most populous, second most
+  populous, etc. then it forms the simon yule distribution, but the
+  ordering was different.
+
+  \begin{enumerate}
+  \item
+    thus, could there be some hidden mechinism that requires a specific
+    relative distribution of diversity to grow?
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{further-reading-resources}{%
+\section{further reading resources}\label{further-reading-resources}}
+
+\hypertarget{google-complexity-economics}{%
+\subsection{google complexity
+economics}\label{google-complexity-economics}}
+
+\hypertarget{bryan-arthur-dohan-framer-aeon-magazine}{%
+\subsubsection{bryan arthur, dohan? framer, aeon?
+magazine}\label{bryan-arthur-dohan-framer-aeon-magazine}}
+
+\hypertarget{complexityexplorer-website}{%
+\subsection{complexityexplorer
+website}\label{complexityexplorer-website}}
+
+\hypertarget{when-something-goes-wrong-did-i-pretend-a-complex-system-was-simple}{%
+\section{when something goes wrong, did i pretend a complex system was
+simple?}\label{when-something-goes-wrong-did-i-pretend-a-complex-system-was-simple}}
+
+\hypertarget{think-about-the-moon-trip}{%
+\subsection{think about the moon trip}\label{think-about-the-moon-trip}}
+
+\hypertarget{how-much-have-we-spent-on-the-moon-vs-the-war-against-poverty}{%
+\subsubsection{how much have we spent on the moon vs the war against
+poverty?}\label{how-much-have-we-spent-on-the-moon-vs-the-war-against-poverty}}
+
+\hypertarget{spent-a-lot-of-money-but-the-problem-wasnt-solved}{%
+\subsubsection{spent a lot of money but the problem wasn't
+solved}\label{spent-a-lot-of-money-but-the-problem-wasnt-solved}}
+
+\hypertarget{poverty-or-medical-projects-tend-not-to-work-because-the-underlying-systems-are-complex}{%
+\subsubsection{poverty or medical projects tend not to work because the
+underlying systems are
+complex}\label{poverty-or-medical-projects-tend-not-to-work-because-the-underlying-systems-are-complex}}
+
+\hypertarget{education-depertmant-kerry-kao}{%
+\section{education depertmant kerry
+kao?}\label{education-depertmant-kerry-kao}}
+
+\end{document}

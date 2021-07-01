@@ -1,0 +1,308 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ 20math530 }
+\newcommand{\thelesson}{ flo 11 }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2592)}}    % original
+%\rhead{\textrmlf{Compiled }\#2592\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2592\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBe2020math530floIndex}{\tiny\textulf{[[}\textbf{KBe2020math530floIndex}\textulf{]]}}}\thinspace
+
+\#flo
+
+\hypertarget{polynomials}{%
+\section{Polynomials}\label{polynomials}}
+
+\begin{itemize}
+\tightlist
+\item
+  See {[}{[}KBrefPolynomial{]}{]}
+\end{itemize}
+
+\hypertarget{polynomial}{%
+\subsection{0 polynomial}\label{polynomial}}
+
+\begin{itemize}
+\tightlist
+\item
+  Has degree \(-infty\)
+\item
+  Degrees are usually positive, except for the \(0\) degree
+\item
+  ``that's too hard, and we're not going to do it here''
+\end{itemize}
+
+\hypertarget{identically-zero}{%
+\subsection{Identically zero}\label{identically-zero}}
+
+\begin{itemize}
+\tightlist
+\item
+  Like \(0\) or \(0 x^0\)
+\item
+  Most polynomials are sometimes zero, but polynomials that are
+  ``identically zero'' means that it's always zero (instead of just
+  sometimes zero)
+\end{itemize}
+
+\hypertarget{mathcalp_mf}{%
+\subsection{\texorpdfstring{\(\mathcal{P}_m(F)\)}{\textbackslash mathcal\{P\}\_m(F)}}\label{mathcalp_mf}}
+
+\begin{itemize}
+\tightlist
+\item
+  Polynomials with coefficients in \(F\) whose highest degree is \(m\)
+\item
+  It can't be ``whose degree is exactly \(m\)'' because otherwise you
+  won't have the identity and it won't be closed under addition (in the
+  case where coefficient sum \(a_m + b_m = 0\))
+\end{itemize}
+
+\hypertarget{its-a-finite-dimensional-vector-space}{%
+\subsubsection{It's a finite dimensional vector
+space}\label{its-a-finite-dimensional-vector-space}}
+
+\begin{itemize}
+\tightlist
+\item
+  \[a_0z^0+...+a_mz^m + b_0z^0 + ... + b_mz^m = (a_0+b_0)z^0 + ... + (a_m+b_m)z^m\]
+\end{itemize}
+
+\hypertarget{proof-of-2.16}{%
+\subsection{Proof of 2.16}\label{proof-of-2.16}}
+
+\begin{itemize}
+\tightlist
+\item
+  Structure: proof by contradiction
+\end{itemize}
+
+\hypertarget{linear-independence}{%
+\section{Linear Independence}\label{linear-independence}}
+
+\begin{itemize}
+\tightlist
+\item
+  ``non-trivial'' means ``simplest possible'', which has usually got the
+  most zeros
+\item
+  See {[}{[}KB20math530refLinearIndependence{]}{]}
+\end{itemize}
+
+\hypertarget{linear-dependence-lemma-2.21}{%
+\subsection{2.21 Linear Dependence Lemma
+2.21}\label{linear-dependence-lemma-2.21}}
+
+\#toexpand - it's saying that any linearly independent list has a vector
+inside that doesn't ``contribute anything'', and that if you remove it
+you'l have the same span. Implicitly, maybe through induction?) if you
+remove a dependent vector enough times then you get a linearly
+independent list. - The list \((1, 1, 1), (2, 2, 2), (3, 3, 3)\) is
+really dependent, but \((0), (0), (0)\) is the most dependent (you have
+to remove all to get independence).
+
+\begin{itemize}
+\tightlist
+\item
+  how
+\item
+  to
+\item
+  pagebreak
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{exercise-2.a.1}{%
+\section{Exercise 2.A.1}\label{exercise-2.a.1}}
+
+\hypertarget{lemma}{%
+\subsection{Lemma}\label{lemma}}
+
+\begin{quote}
+If vectors \(v_1, v_2, v_3, v_4\) span \(V\), then the list
+\[v_1-v_2, v_2-v_3, v_3-v_4, v_4\] also spans \(V\).
+\end{quote}
+
+\hypertarget{proof}{%
+\subsection{Proof}\label{proof}}
+
+We prove the lemma by showing that any vector \(v \in V\) can be written
+in the form \(a_1v_1 + a_2v_2 + a_3+v_3 + a_4v_4\) can also be written
+as a linear combination of the form \[
+b_1 (v_1-v_2) + b_2 (v_2-v_3) + b_3(v_3-v_4) + b_4v_4
+\]
+
+If we set \[
+\begin{aligned}
+b_1 &= a_1\\
+b_2 &= a_1 + a_2\\
+b_3 &= a_1 + a_2 + a_3\\
+b_4 &= a_1 + a_2 + a_3 + a_4\\
+\end{aligned}
+\] then the two combinations will be equivalent:
+
+\(\begin{aligned} &a_1(v_1-v_2) + (a_1+a_2)(v_2-v_3) + (a_1+a_2+a_3)(v_3-v_4) + (a_1+a_2+a_3+a_4)v_4\\ = &a_1v_1 \cancel{- a_1v_2 + a_1v_2} +a_2v_2 \cancel{- (a_1+a_2)v_3 + (a_1+a_2)v_3} +a_3v_3 - \cancel{(a_1+a_2+a_3)v_4 + (a_1+a_2+a_3)v_4} + a_4v_4\\ = a_1v_1 + a_2v_2 + a_3v_3 + a_4 v_4 \end{aligned}\)
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

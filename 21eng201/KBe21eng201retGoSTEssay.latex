@@ -1,0 +1,303 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ God of Small Things Essay }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13373)}}    % original
+%\rhead{\textrmlf{Compiled }\#13373\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{brainstorm}{%
+\section{brainstorm}\label{brainstorm}}
+
+\hypertarget{cupboards}{%
+\subsection{cupboards}\label{cupboards}}
+
+\hypertarget{cupboards-to-lock-as-a-symbol-of-wealth}{%
+\subsubsection{cupboards to lock as a symbol of
+wealth}\label{cupboards-to-lock-as-a-symbol-of-wealth}}
+
+\begin{enumerate}
+\item
+  baby kochamma with cupboards of thermos and insulin(14)
+\item
+  "Foreign returnees \ldots{} with keys to count, and cupboards to lock"
+  (67)
+\item
+  velutha has no keys to count or cupboards to lock (99)
+\end{enumerate}
+
+\hypertarget{things-inside-cupboards}{%
+\subsubsection{things inside cupboards}\label{things-inside-cupboards}}
+
+\begin{enumerate}
+\item
+  rat making trips to cupboard at doctors office (63)
+\item
+  Wisdom exercise notebooks book cupboard (74)
+\item
+  pappachi's got mamachi's shears from her sewing cupboard to shred
+  ammu's boots (86)
+\item
+  label cupboard full of labels (92), it was red apparently
+\item
+  swollen cupboards creaked - dampness
+
+  \begin{enumerate}
+  \item
+    waking ammu from her velutha dream using a creaky cupboard door
+    (104)
+  \end{enumerate}
+\item
+  chacko's cupboard of damaged balsa airplanes (113)
+
+  \begin{enumerate}
+  \item
+    "Pickle Baron-dreams and the People's War joined the racks of broken
+    balsa planes" in Chacko's cupboard (132)
+  \end{enumerate}
+\item
+  cupboards were dangerous to open because clothes and books and shoes
+  would cascade down (chackos cupboards) (116)
+\end{enumerate}
+
+\hypertarget{locks}{%
+\subsubsection{locks}\label{locks}}
+
+\begin{enumerate}
+\item
+  'he was never sure which cupboard he might have to open \ldots{}
+  counting his keys' train crossing man (31)
+\item
+  baby kochamma's ooty cupboards, thermos flask in cupboard
+\end{enumerate}
+
+\hypertarget{secrets-inside-cupboards}{%
+\subsubsection{secrets inside
+cupboards}\label{secrets-inside-cupboards}}
+
+\begin{enumerate}
+\item
+  'his mind was full of cupboards, cluttered with secret pleasures' (30)
+\item
+  'shut it when you've finished it, baby kochamma said, and closed her
+  face like a cupboard' (15)
+\item
+  'room kept its secrets \ldots{} cupboards closed' (43)
+\item
+  glass-paned cupboard in comrade pallai's house with curtains to hide
+  the contents (126)
+
+  \begin{enumerate}
+  \item
+    whatever comrade pallai stored in his curtained cupboard, it wasn't
+    broken balsa airplanes
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{getting-lost-in-cupboards}{%
+\subsubsection{getting lost in
+cupboards}\label{getting-lost-in-cupboards}}
+
+\begin{enumerate}
+\item
+  cupboards with built-in bedrooms (metaphor for punishment, 55)
+
+  \begin{enumerate}
+  \item
+    '{[}the twins{]} only asked for punishments that fit their crimes.
+    Not ones that came like cupboards with built-in bedrooms. Not the
+    ones you spent your whole life in, wandering through it's maze of
+    shelves'
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{reversed-containment}{%
+\subsection{reversed containment}\label{reversed-containment}}
+
+\hypertarget{river-in-the-boat}{%
+\subsubsection{river in the boat}\label{river-in-the-boat}}
+
+\hypertarget{cupboards-with-built-in-bedrooms}{%
+\subsubsection{cupboards with built-in
+bedrooms}\label{cupboards-with-built-in-bedrooms}}
+
+\end{document}

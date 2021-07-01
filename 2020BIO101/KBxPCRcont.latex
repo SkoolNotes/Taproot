@@ -1,0 +1,306 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO201 }
+\newcommand{\thelesson}{ PCR Problem Sheet }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13346)}}    % original
+%\rhead{\textrmlf{Compiled }\#13346\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\#ret
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{questions}{%
+\subsection{Questions}\label{questions}}
+
+\hypertarget{describe-what-is-happening-during-each-cycle-of-the-pcr}{%
+\paragraph{Describe what is happening during each cycle of the
+PCR:}\label{describe-what-is-happening-during-each-cycle-of-the-pcr}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \emph{Denaturation at approximately 95°C}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Denaturation splits the DNA, creating single-strands which act as
+    `templates.'
+  \end{enumerate}
+\item
+  \emph{Annealing at approximately 55°C}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Annealing allows the primers to bind to their respective sequences
+    on the earlier created `templates.'
+  \end{enumerate}
+\item
+  \emph{Extension at approximately 72°C}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    During the Extension phase, Taq polymerase creates new strands of
+    DNA by extending the primers.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{in-one-or-two-sentences-for-each-explain-why-the-following-mistakes-would-lead-to-a-failed-pcr-reaction-assume-30-cycles-of-the-typical-denaturation-annealing-and-extension-temperature-sequence-unless-otherwise-noted}{%
+\subparagraph{In one or two sentences for each, explain why the
+following mistakes would lead to a failed PCR reaction (assume 30 cycles
+of the typical denaturation, annealing, and extension temperature
+sequence unless otherwise
+noted):}\label{in-one-or-two-sentences-for-each-explain-why-the-following-mistakes-would-lead-to-a-failed-pcr-reaction-assume-30-cycles-of-the-typical-denaturation-annealing-and-extension-temperature-sequence-unless-otherwise-noted}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \emph{A human DNA polymerase was used rather than Taq DNA polymerase.}
+  1. Taq DNA polymerase was isolated from temperature-tolerant bacteria,
+  and thus, it is thermostable. Human DNA polymerase is not, and would
+  be nonfunctional under the temperatures used in PCR.
+\item
+  \emph{Nucleotides were left out of the reaction.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Nucleotides are the building blocks of DNA. Without them, the DNA
+    could not be synthesized.
+  \end{enumerate}
+\item
+  \emph{The denaturation phase temperature was set to 55°C.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    A temperature of 55°C is not sufficient to denature the DNA strands.
+    A temperature of \textasciitilde95°C is needed.
+  \end{enumerate}
+\item
+  \emph{The extension phase temperature was set to 4°C.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Without a temperature of \textasciitilde72°C, Taq polymerase won't
+    extend the primers. Being sourced from bacteria used to very high
+    temperatures, the Taq polymerase most likely functions best under
+    said temperatures.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{luke-set-up-his-first-pcr-reaction-recently.}{%
+\paragraph{Luke set up his first PCR reaction
+recently.}\label{luke-set-up-his-first-pcr-reaction-recently.}}
+
+\begin{quote}
+After Luke's teacher ran his sample through the correct program on the
+thermal cycler, she analyzed the results. Strangely, she noticed that
+most of Luke's PCR product was \textbf{single-stranded} \textbf{rather
+than double-stranded DNA}, and that his \textbf{total yield of PCR
+product was} \textbf{lower than expected} (but he still had more
+material after thermocycling than before). Luke said he got distracted
+by a classmate while setting up the PCR, and might have left out one
+ingredient. \textbf{What do you think Luke left out of his PCR reaction
+and why? Your explanation should be linked to the strange results that
+the teacher noticed.}*
+\end{quote}
+
+Luke most likely left out either his forward primers or reverse primers.
+This absence would lead to only one strand being a source of
+replication, as only one strand would have the primers. Thus, many
+single strands would form as the source of replication would not be able
+to be replicated -- only its partner strand would be. Hence, Luke would
+end up with mostly single stranded DNA, and less product than expected.
+
+\end{document}

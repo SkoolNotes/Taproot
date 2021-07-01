@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title>  Handout 16 Problems </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong></strong> Handout 16 Problems </span></div>
+        </div>
+        <div id="center-viewport">
+            <h1 id="complete-the-representation">Complete the Representation</h1>
+            <table>
+            <thead>
+            <tr class="header">
+            <th style="text-align: left;">Function</th>
+            <th style="text-align: left;">First four terms</th>
+            <th style="text-align: left;">Generalized</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr class="odd">
+            <td style="text-align: left;"><span class="math inline">\(\frac{1}{1-2x}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(1+2x+4x^2+8x^3+\cdots\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\sum_{k=0} 2^k x^k\)</span></td>
+            </tr>
+            <tr class="even">
+            <td style="text-align: left;"><span class="math inline">\(\cos(3x)\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(1-\frac{9x^2}{2!}+\frac{81x^4}{4!}-\frac{729x^6}{6!}+\cdots\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\sum_{k=0} \frac{(-1)^k (3x)^{2k}}{2k!}\)</span></td>
+            </tr>
+            <tr class="odd">
+            <td style="text-align: left;"><span class="math inline">\(\frac{e^x}{e^2}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\frac{1}{e^2} + \frac{x}{e^2} + \frac{x^2}{e^2 2!} + \cdots\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\sum_{k=0} \frac{x^k}{e^2 k!}\)</span></td>
+            </tr>
+            <tr class="even">
+            <td style="text-align: left;"><span class="math inline">\(\sin(x^2)\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(x^2-\frac{x^6}{3!} + \frac{x^{10}}{5!} + \frac{x^{14}}{7!} + \cdots\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\sum_{k=0} \frac{(-1)^k x^{2^{2k+1}}}{(2k+1)!}\)</span></td>
+            </tr>
+            <tr class="odd">
+            <td style="text-align: left;"><span class="math inline">\(\frac{1}{1+x^4}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(1 - x^4 + x^8 - x^{16} + \cdots\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\sum_{k=0} (-x^4)^k\)</span></td>
+            </tr>
+            <tr class="even">
+            <td style="text-align: left;"><span class="math inline">\(e^{\left((x-1)^2\right)}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(1+(x-1)^2 + \frac{(x-1)^4}{2!} + \frac{(x-1)^6}{3!} + \cdots\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\sum_{k=0} \frac{(x-1)^{2k}}{k!}\)</span></td>
+            </tr>
+            <tr class="odd">
+            <td style="text-align: left;"><span class="math inline">\(\frac{\cos(x)-1}{x^2}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(-\frac{1}{2!} + \frac{x^2}{4!} - \frac{x^4}{ 6!} + \cdots\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\sum_{k=1} \frac{(-1)^k x^{2(k-1)}}{(2k)!}\)</span></td>
+            </tr>
+            <tr class="even">
+            <td style="text-align: left;"><span class="math inline">\(2x \ln (1+2x)\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\((2x)(2x)-\frac{(2x)(2x)^2}{2} + \frac{(2x)(2x)^3}{3} - \frac{(2x)(2x)^4}{4} + \cdots\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\sum_{k=1}\frac{2x(-1)^{k-1}(2x)^k}{k}\)</span></td>
+            </tr>
+            <tr class="odd">
+            <td style="text-align: left;"><span class="math inline">\(\frac{2x}{1+x^2}\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(2x - 2x^3 + 2x^5 - 2x^7 + \cdots\)</span></td>
+            <td style="text-align: left;"><span class="math inline">\(\sum_{k=0}2x (-1)^k x^{2k}\)</span></td>
+            </tr>
+            </tbody>
+            </table>
+            <h1 id="page-3">page 3</h1>
+            <h2 id="a-skipped">a: skipped</h2>
+            <h2 id="find-maclaurin-series-for-fx-where-fx-sum_k0-frac2xk1k1">find maclaurin series for <span class="math inline">\(f&#39;(x)\)</span> where <span class="math inline">\(f(x) = \sum_{k=0} \frac{(2x)^{k+1}}{k+1}\)</span></h2>
+            <p><span class="math display">\[\xcancel{\frac{d}{dx} \frac{(2x)^{n+1}}{n+1} = \frac{\cancel{(n+1)^2} (2x)^n (2)}{\cancel{(n+1)^2}} = 2(2x)^n}\]</span></p>
+            <p>Instead of using the quotient rule, <span class="math inline">\(\frac{1}{k+1}\)</span> is a constant for each term so we can just use the chain and power rules:</p>
+            <p><span class="math display">\[\begin{aligned}
+               \frac{d}{dx} \frac{(2x)^{k+1}}{k+1} = \frac{1}{k+1}\frac{d}{dx}(2x)^{k+1} = \frac{1}{\cancel{k+1}}\cancel{(k+1)}(2x)^k(2) = 2(2x)^k
+               \end{aligned}\]</span></p>
+            <p>So, our series is just <span class="math display">\[\begin{aligned}
+               \sum_{k=0} 2(2x)^k = 2 + 4x + 8x^2 + 16x^3 + \cdots
+               \end{aligned}\]</span></p>
+            <h2 id="estimate-fleft-frac13right">estimate <span class="math inline">\(f&#39;\left(-\frac{1}{3}\right)\)</span></h2>
+            <p>When only using the first 4 terms: <span class="math display">\[\begin{aligned}
+               2 + 4\frac{-1}{3} + 8 \left(\frac{-1}{3}\right)^2 + 16 \left(\frac{-1}{3}\right)^2 = \frac{10}{3}
+               \end{aligned}\]</span></p>
+            <p>For the entire sequence:</p>
+            <p><span class="math display">\[\begin{aligned}
+               \sum_{k=0} 2\left(\frac{-2}{3}\right)^k = 2 \sum_{k=0}\left(-\frac{2}{3}\right)^k = \frac{2}{1--\frac{2}{3}} = \frac{2}{\frac{5}{3}} = \frac{6}{5}
+               \end{aligned}\]</span></p>
+            <p>because the series is geometric.</p>
+            <h1 id="page-4">page 4</h1>
+            <h2 id="find-1-fracx23fracx45-fracx67cdots">find <span class="math inline">\(1-\frac{x^2}{3!}+\frac{x^4}{5!}-\frac{x^6}{7!}+\cdots\)</span></h2>
+            <p>That series is just the taylor series for <span class="math display">\[\begin{aligned}
+               f(x) = \frac{\sin x}{x}
+               \end{aligned}\]</span> So the derivative at zero is zero, and the second derivative: <span class="math display">\[\begin{aligned}
+            \frac{d}{dx} \frac{x \cos x - \sin x}{x^2} =
+            \frac{x^2 \left( -x \sin x \cancel{+ \cos x - \cos x} \right) - \left( x \cos x - \sin x \right)(2x) }{x^4}\\
+            = \frac{-x^3 \sin x - 2x\left( x \cos x - \sin x \right) }{x^4}
+               \end{aligned}\]</span> is undefined at zero. However, the top of the fraction will be negative (<span class="math inline">\(x^3 \sin x\)</span> is like <span class="math inline">\(x^4\)</span> when <span class="math inline">\(x \approx 0\)</span> and <span class="math inline">\(x \cos x - \sin x = x ( \cos x - \frac{\sin x}{x}\)</span>), so the second derivative is zero at <span class="math inline">\(x\)</span>. (Checked with desmos). Thus, the function has a local maximum at <span class="math inline">\(x = 0\)</span>.</p>
+            <h2 id="show-approximation-at-x1-is-within-epsilon-frac1100-with-1-frac13">show approximation at <span class="math inline">\(x=1\)</span> is within <span class="math inline">\(\epsilon &lt; \frac{1}{100}\)</span> with <span class="math inline">\(1-\frac{1}{3!}\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+               f(1) - \left(1-\frac{1}{3!}\right) &amp;= \frac{1^4}{5!} - \frac{1^6}{7!} + \cdots\\
+               &amp;= \frac{1}{5!} - \frac{1}{7!} + \cdots\\
+               &amp;&lt; \frac{1}{5!} = \frac{1}{120} &lt; \frac{1}{100}
+               \end{aligned}\]</span></p>
+            <h2 id="solution-to-the-differential-equation-xy-y-cos-x">solution to the differential equation <span class="math inline">\(xy&#39; +y = \cos x\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+               xy&#39; + y = \cos x \implies y &amp;= \cos x - xy&#39;\\
+               &amp;= \cos x -  \cancel x \frac{x \cos x - \sin x}{x^{\cancel 2}}\\
+               &amp;= \cos x - \frac{x \cos x - \sin x}{x}\\
+               &amp;= \cos x - \frac{\cancel x \cos x}{\cancel x} + \frac{\sin x}{x}\\
+               &amp;= \cancel{\cos x - \cos x} + \frac{\sin x}{x}\\
+               y &amp;= \frac{\sin x}{x}
+               \end{aligned}\]</span></p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

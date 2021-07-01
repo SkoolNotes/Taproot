@@ -1,0 +1,301 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ PHYS201 }
+\newcommand{\thelesson}{ Combining Resistors Method }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhPHYS201CircuitCalculations}{\tiny\textulf{[[}\textbf{KBhPHYS201CircuitCalculations}\textulf{]]}}}\thinspace
+
+\hypertarget{combining-resistors-method}{%
+\section{Combining Resistors Method}\label{combining-resistors-method}}
+
+The {[}{[}KBhPHYS201KirkoffsLaws{]}{]} Kirkoff's Laws themselves often
+requiring solving \textgreater6x6 matrixes to solve equations quickly.
+Which is hard.
+
+\hypertarget{series}{%
+\subsection{Series}\label{series}}
+
+If you have two resisters\ldots{}
+
+-----\textbar\textbar\textbar-----\textbar\textbar\textbar-----
+
+With the first having a resistance of \(A\Omega\) and the second
+\(B\Omega\).
+
+The total resistance would simply be \((A+B)\Omega\).
+
+\begin{itemize}
+\tightlist
+\item
+  Same as equivalent of ``electricity!'' go through the first then the
+  second
+\end{itemize}
+
+\#disorganized
+
+\hypertarget{parallel}{%
+\subsection{Parallel}\label{parallel}}
+
+Smaller area \textbar-----\textbar\textbar\textbar------ \textbar{}
+Bigger area \textbar===\textbar\textbar\textbar====
+
+\(R_2 = R_1 \times \frac{A_1}{A_2}\)
+
+\(R_{eq} = R_1 \times \frac{A_1}{A_1+A_2}\)
+
+\(\frac{1}{R_{eq}} = \frac{A_1+A_2}{A_1R_1}\)
+
+\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{A_2}{A_1R_1}\)
+
+\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R2}\)
+
+Resistance equation for series :pointup:
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\#disorganized
+
+Calculate resistsance
+
+\hypertarget{combine-resistors-method}{%
+\subsection{``Combine Resistors''
+Method}\label{combine-resistors-method}}
+
+\begin{figure}
+\centering
+\includegraphics{./Screen Shot 2020-09-14 at 11.02.45 AM.png}
+\caption{Screen Shot 2020-09-14 at 11.02.45 AM.png}
+\end{figure}
+
+\hypertarget{parallel-resistors-as-single-resistors}{%
+\subsubsection{Parallel Resistors as Single
+Resistors}\label{parallel-resistors-as-single-resistors}}
+
+Per the previous resisters rules, that
+\(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R2}\), we could treat the
+\(20 \Omega\) and \(30 \Omega\) in parallel as a single resistor of
+\(12 \Omega\).
+
+Now the circut becomes even simpler:
+
+\begin{figure}
+\centering
+\includegraphics{./Screen Shot 2020-09-14 at 11.05.49 AM.png}
+\caption{Screen Shot 2020-09-14 at 11.05.49 AM.png}
+\end{figure}
+
+\hypertarget{sequence-resistors-as-single-resistors}{%
+\subsubsection{Sequence Resistors as Single
+Resistors}\label{sequence-resistors-as-single-resistors}}
+
+Per the sequence resisters rules, that total resistance is
+\((A+B)\Omega\), we could combine these three resistors as a
+\(37 \Omega\) resistor.
+
+\hypertarget{combined-current}{%
+\subsubsection{Combined Current}\label{combined-current}}
+
+We know that \(12V / 37\Omega = 0.324 Amps\) is the current that returns
+to the battery and what the battery starts with, for if we treat the
+circuit as a single resistor, the 12 volts would only be working
+against.
+
+From there, once we have a current for beginning and end, we could work
+our way up backwards by calculating the final voltage.
+
+\begin{itemize}
+\tightlist
+\item
+  Multiples battries can't be solved with the combined resistor method
+\item
+  So, first guess the current flow
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Each batteries' current will flow back to itself
+  \item
+    When currents meet, they will combine
+  \end{itemize}
+\item
+  Use currents identified before + Kirkoff's second law
+\item
+  Use Kirkoff's first law to find loops (and hence equations) that,
+  together, \textbf{covers all components}
+\item
+  If resulting currents is negative, that means that you drew the
+  current in the wrong direction, or you are charging a battery
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Either way, if the signs are preserved to solve the rest of the
+    equation, you should be fine numerically
+  \item
+    Just update your graph to reflect the actual currents' directions
+  \end{itemize}
+\end{itemize}
+
+LED longer leg is positive
+
+\end{document}

@@ -1,0 +1,316 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage[T1]{fontenc} % https://latex.org/forum/viewtopic.php?t=5540
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont{Iosevka Aile Light}
+%\setmainfont[
+%  ItalicFont      = NimbusSansNarrow,
+%  BoldFont        = NimbusSansBold,
+%  BoldItalicFont  = NimbusSans-BoldItalic]{NimbusSans}
+%\setmainfont[
+%  ItalicFont     = Helvetica-Italic,
+%  BoldFont       = Helvetica-Bold,
+%  BoldItalicFont = Helvetica-BoldItalic]{Helvetica}
+%\setmainfont[
+%  ItalicFont     = HelveticaNeue-Italic,
+%  BoldFont       = HelveticaNeue-Bold,
+%  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight{Iosevka Aile Thin}
+%\newfontfamily\NHLight[
+%  ItalicFont     = Helvetica-LightItalic,
+%  BoldFont       = Helvetica-UltraLight,
+%  BoldItalicFont = Helvetica-UltraLightItalic]{Helvetica}
+%\newfontfamily\NHLight[
+%  ItalicFont     = HelveticaNeue-LightItalic,
+%  BoldFont       = HelveticaNeue-UltraLight,
+%  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ History final project }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}15428)}}    % original
+%\rhead{\textrmlf{Compiled }\#15428\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{mechanisms-of-planned-obscelescence}{%
+\section{mechanisms of planned
+obscelescence}\label{mechanisms-of-planned-obscelescence}}
+
+\hypertarget{contrived-durability-key-parts-made-out-of-eg.-plastic}{%
+\subsection{contrived durability (key parts made out of eg.
+plastic)}\label{contrived-durability-key-parts-made-out-of-eg.-plastic}}
+
+\hypertarget{percieved-obselescence-colors-shape-changes}{%
+\subsection{percieved obselescence: colors + shape
+changes}\label{percieved-obselescence-colors-shape-changes}}
+
+\hypertarget{systemic-obselescence-ports-standards-being-changed}{%
+\subsection{systemic obselescence: ports / standards being
+changed}\label{systemic-obselescence-ports-standards-being-changed}}
+
+\hypertarget{programmed-obselescence-dropping-support-for-old-versions}{%
+\subsection{programmed obselescence: dropping support for old
+versions}\label{programmed-obselescence-dropping-support-for-old-versions}}
+
+\hypertarget{bloatware-obselescence-requiring-vastly-more-hardware-to-make-old-devices-slow}{%
+\subsection{bloatware obselescence: requiring vastly more hardware to
+make old devices
+slow}\label{bloatware-obselescence-requiring-vastly-more-hardware-to-make-old-devices-slow}}
+
+\hypertarget{legal-obselescence-eg.-emissions-limits-on-cars}{%
+\subsection{legal obselescence: eg. emissions limits on
+cars}\label{legal-obselescence-eg.-emissions-limits-on-cars}}
+
+\hypertarget{repair-prevention-seals-screws}{%
+\subsection{repair prevention seals +
+screws}\label{repair-prevention-seals-screws}}
+
+\hypertarget{repair-preventaion-construction-hard-to-access-batteries}{%
+\subsection{repair preventaion construction (hard to access
+batteries)}\label{repair-preventaion-construction-hard-to-access-batteries}}
+
+\hypertarget{iphone}{%
+\section{iphone}\label{iphone}}
+
+\href{https://media.idownloadblog.com/wp-content/uploads/2017/11/iPhone-X-iFixit-teardown-003.jpg}{phone
+internal image}
+
+\hypertarget{percieved-obselescence}{%
+\subsection{percieved obselescence}\label{percieved-obselescence}}
+
+\hypertarget{embrace-the-notch}{%
+\subsubsection{"embrace the notch"}\label{embrace-the-notch}}
+
+\hypertarget{repeated-changes-to-bezels}{%
+\subsubsection{repeated changes to
+bezels}\label{repeated-changes-to-bezels}}
+
+\hypertarget{repeated-changes-to-camera-configuration}{%
+\subsubsection{repeated changes to camera
+configuration}\label{repeated-changes-to-camera-configuration}}
+
+\hypertarget{repeated-changes-to-colors}{%
+\subsubsection{repeated changes to
+colors}\label{repeated-changes-to-colors}}
+
+\hypertarget{programmed-obselescence}{%
+\subsection{programmed obselescence}\label{programmed-obselescence}}
+
+\hypertarget{dropping-support}{%
+\subsubsection{dropping support}\label{dropping-support}}
+
+\hypertarget{bloatware}{%
+\subsubsection{bloatware}\label{bloatware}}
+
+\hypertarget{repair-prevention}{%
+\subsection{repair prevention}\label{repair-prevention}}
+
+\hypertarget{seals-glue}{%
+\subsubsection{seals (glue)}\label{seals-glue}}
+
+\hypertarget{tri-point-screw-pentalobe-screw}{%
+\subsubsection{\texorpdfstring{\href{https://en.wikipedia.org/wiki/List_of_screw_drives\#/media/File:Screw_Head_-_Tri-point.svg}{Tri-point
+screw} +
+\href{https://commons.wikimedia.org/wiki/File:Pentalobular.svg}{pentalobe
+screw}}{Tri-point screw + pentalobe screw}}\label{tri-point-screw-pentalobe-screw}}
+
+\hypertarget{battery-replacementintegration}{%
+\subsubsection{battery
+replacement/integration}\label{battery-replacementintegration}}
+
+\hypertarget{glued-and-hard-to-access-connectors}{%
+\subsubsection{glued and hard-to-access
+connectors}\label{glued-and-hard-to-access-connectors}}
+
+\hypertarget{arguments-for-these-types-of-obselescence}{%
+\section{arguments for these types of
+obselescence}\label{arguments-for-these-types-of-obselescence}}
+
+\hypertarget{its-okay-if-battery-fades-bc-tech-develops-so-quickly}{%
+\subsection{its okay if battery fades, bc tech develops so
+quickly}\label{its-okay-if-battery-fades-bc-tech-develops-so-quickly}}
+
+\hypertarget{constant-purchasing-allows-tech-to-develop-faster}{%
+\subsection{constant purchasing allows tech to develop
+faster}\label{constant-purchasing-allows-tech-to-develop-faster}}
+
+\hypertarget{sources}{%
+\section{sources}\label{sources}}
+
+\hypertarget{httpsdurabilitymatters.complanned-obsolescencetext1.-contrived20durabilitywhen20parts20break20down20intentionally.}{%
+\subsection{\texorpdfstring{\url{https://durabilitymatters.com/planned-obsolescence/\#}:\textasciitilde:text=1.-,Contrived\%20Durability,when\%20parts\%20break\%20down\%20intentionally.}{https://durabilitymatters.com/planned-obsolescence/\#:\textasciitilde:text=1.-,Contrived\%20Durability,when\%20parts\%20break\%20down\%20intentionally.}}\label{httpsdurabilitymatters.complanned-obsolescencetext1.-contrived20durabilitywhen20parts20break20down20intentionally.}}
+
+\hypertarget{httpswww.bbc.comfuturearticle20160612-heres-the-truth-about-the-planned-obsolescence-of-tech}{%
+\subsection{\texorpdfstring{\url{https://www.bbc.com/future/article/20160612-heres-the-truth-about-the-planned-obsolescence-of-tech}}{https://www.bbc.com/future/article/20160612-heres-the-truth-about-the-planned-obsolescence-of-tech}}\label{httpswww.bbc.comfuturearticle20160612-heres-the-truth-about-the-planned-obsolescence-of-tech}}
+
+\end{document}

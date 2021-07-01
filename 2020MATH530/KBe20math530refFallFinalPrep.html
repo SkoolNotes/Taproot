@@ -1,0 +1,232 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title>  Final Prep (review) </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong></strong> Final Prep (review) </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>:</p>
+            <h1 id="definitions">Definitions</h1>
+            <h2 id="algebraic-structures">Algebraic Structures</h2>
+            <h3 id="group">Group</h3>
+            <p>A set of items and an operation that satisfy closure, identity, inverse, assocativity</p>
+            <h3 id="field">Field</h3>
+            <p>A group and another "secondary" operation that the set is almost a group under (except the additive identity will have no multiplicative inverse).</p>
+            <h3 id="vector-space">Vector Space</h3>
+            <p>A field and a set of vectors that can be added together or multiplied by scalars from the field, <strong>with the following five properties:</strong></p>
+            <ul>
+            <li><p>commutativity</p></li>
+            <li><p>assocativity</p></li>
+            <li><p>additive identity</p></li>
+            <li><p>additive inverse</p></li>
+            <li><p>distributive property</p></li>
+            </ul>
+            <h3 id="subspace">Subspace</h3>
+            <p>A subset of a vector space that is itself a vector space. Only need to show that it:</p>
+            <ol>
+            <li><p>Includes the additive identity (0)</p></li>
+            <li><p>Is closed under addition</p></li>
+            <li><p>Is closed under scalar multiplication</p></li>
+            </ol>
+            <p><strong>The subspace must use the same addition and scalar multiplication of its "superspace"</strong></p>
+            <h3 id="sum">Sum</h3>
+            <p>A sum of (<strong>multiple</strong>) <strong>subsets</strong> is all vectors that can be written as the sum of one vector from each sub <strong>set</strong> (or zero).</p>
+            <h3 id="direct-sum">Direct Sum</h3>
+            <p>If each element in a sum of (<strong>multiple</strong>) subspaces can be written in only one way (with one summand from each subspace).</p>
+            <ol>
+            <li><p>Results</p>
+            <ol>
+            <li><p>Condition for a direct sum</p>
+            <p><strong>The only way to write zero as sum of one element from each summand space is all zeros iff the sum is a direct sum.</strong></p></li>
+            <li><p>Condition for a direct sum of two subspaces</p>
+            <p>The intersection of the two subspaces is zero iff the sum is a direct sum.</p></li>
+            </ol></li>
+            </ol>
+            <h3 id="linear-combination">Linear Combination</h3>
+            <p>A linear combination is the sum of some list of vectors with each one multiplied by a coefficient from <span class="math inline">\(\mathbb F\)</span></p>
+            <h3 id="linear-independence">Linear (In)Dependence</h3>
+            <p><strong>A list of vectors is linearly independent if the only coefficients in a linear combination equal to zero are all zeros. (The only <span class="math inline">\(a_1, \ldots, a_n\)</span> s.t. <span class="math inline">\(a_1v_1 + \cdots +a_nv_n = 0\)</span> is <span class="math inline">\(0, \ldots, 0\)</span>)</strong> Equivalent: A vector is linearly dependent in a list (and that list is linearly dependent) if it can be written as a linear combination of other vectors in the list. Any list that is not linearly dependent is linearly independent.</p>
+            <h3 id="span">Span</h3>
+            <p>The span of a list is all linear combinations of that list</p>
+            <h3 id="basis">Basis</h3>
+            <p>The basis of a vector space is a linearly indepnedent list of the elements in that vector space that spans the vector space (whose span is the vector space). A list of vetors is a basis if there is exactly one way to write every vector as a linear combination of the basis.</p>
+            <ol>
+            <li><p>Results</p>
+            <ol>
+            <li><p>All bases of a vector space are the same length</p></li>
+            <li><p>A linearly indpendent or spanning list of the right length is a basis (buy one get one free)</p></li>
+            </ol></li>
+            </ol>
+            <h3 id="dimension">Dimension</h3>
+            <p>The dimension of a subspace is the length of it’s basis. If the basis does not exist (infinitely long), then the space is infinite dimensional.</p>
+            <h3 id="elementry-matrix">Elementry Matrix</h3>
+            <p>A matrix that applies exactly one valid "row operation": multiply a row, add one row to another, swap row orders.</p>
+            <h3 id="nonsingular-invertible-matrix">Nonsingular / invertible matrix</h3>
+            <p>A non-singular matrix is a matrix that has an inverse, and whose determinant is not zero.</p>
+            <h2 id="linear-transformations">Linear Transformations</h2>
+            <h3 id="linearity">Linearity</h3>
+            <p>A transformation is linear if it satisfies additivity (adding inside/outside same) and homogeneity (scalar multiplying inside/outside same).</p>
+            <h3 id="injective">Injective</h3>
+            <p>When the outputs being the same implies the inputs were the same. (Mapping is one to one; each element is mapped to atmost once).</p>
+            <h3 id="surjective">Surjective</h3>
+            <p>When every element in the codomain is in the range (Mapping is onto the codomain; each element mapped to atleast once).</p>
+            <h3 id="linear-map">Linear Map</h3>
+            <p>A map from one vector space to another that is linear (satisfies additivity and homogeniety)</p>
+            <ol>
+            <li><p>Properties</p>
+            <ol>
+            <li><p>Linear maps from one space to another is a subspace</p></li>
+            <li><p>Algebraic Properties</p>
+            <ol>
+            <li><p>Associative: <span class="math inline">\(T_1 \left(T_2 T_3 \right) = \left(T_1 T_2 \right) T_3\)</span></p></li>
+            <li><p>Identity: <span class="math inline">\(IT = TI = T\)</span></p></li>
+            <li><p>Distributive: <span class="math inline">\(\left(S_1+S_2\right)T = TS_1 + TS_2\)</span></p>
+            <p>And the same for the other side, but you have to be careful about whether maps can be multiplied (composed).</p></li>
+            </ol></li>
+            </ol></li>
+            <li><p>Product of Linear Map</p>
+            <p>The product <span class="math inline">\(ST\)</span> of two linear maps <span class="math inline">\(T \in \mathcal L(U, V)\)</span> and <span class="math inline">\(S \in \mathcal L(V, W)\)</span> is the linear map <span class="math inline">\(S(T(u))\)</span> for <span class="math inline">\(u \in U\)</span>.</p></li>
+            </ol>
+            <h3 id="image-range-column-spac">Image (range, column spac)</h3>
+            <p>Every vector that can be a result of a linear map.</p>
+            <ol>
+            <li><p>Properties</p>
+            <ol>
+            <li><p>CHANGES AFTER RREF!</p></li>
+            <li><p>Surjectivity is the same as the column space being the domain (input space?)</p></li>
+            </ol></li>
+            </ol>
+            <h3 id="kernel-null-space">Kernel (null space)</h3>
+            <p>Every vector that the linear map sends to zero.</p>
+            <ol>
+            <li><p>Properties</p>
+            <ol>
+            <li><p>Always includes zero</p></li>
+            <li><p>Doesn’t change after RREF</p></li>
+            <li><p>Injectivity is the same as the null space being zero</p></li>
+            </ol></li>
+            </ol>
+            <h3 id="homogenous-system">Homogenous System</h3>
+            <p>A homogenous system is a system of equations where all the right sides are zero. A homogenous system always has (the trivial) solution (of zeros).</p>
+            <h3 id="isomorphism">Isomorphism</h3>
+            <p>An isomorphism is a bijective map from one vector space to another. Two vector spaces are isomorphic if there exists such a map There exists such a map iff the two vector spaces are the same dimension.</p>
+            <h3 id="operator">Operator</h3>
+            <p>A linear map from one vector space to itself</p>
+            <ol>
+            <li><p>Properties</p>
+            <p>An operator on a finite dimensional vector space is injective iff it is surjective.</p></li>
+            </ol>
+            <h1 id="important-things">Important Things</h1>
+            <h2 id="linear-dependence-lemma">Linear Dependence Lemma</h2>
+            <p><strong>If a list is linearly dependent, then exists one element in the list can be written as a linear combination of the other elements, and the span of the remaining elements is the same as the span of the whole list (that element didn’t add anything).</strong></p>
+            <h2 id="length-of-a-linearly-independent-list-le-length-of-a-spanning-list">Length of a linearly independent list <span class="math inline">\(\le\)</span> length of a spanning list</h2>
+            <h2 id="spanning-list-contains-linearly-independent-list-extends-to-a-basis">(Spanning list contains; linearly independent list extends to) a basis</h2>
+            <h2 id="fundamental-theorem-of-linear-maps">Fundamental Theorem of Linear Maps</h2>
+            <p>If <span class="math inline">\(T\)</span> is a map from a <strong>finite dimensional</strong> vector space <span class="math inline">\(V\)</span>, then <span class="math inline">\(\text{range }T\)</span> is finite dimensional and <span class="math inline">\(\text{dim range }T + \text{dim null }T = \text{dim )V\)</span></p>
+            <h2 id="io-dimension-vs-injectivity-surjectivity">I/O Dimension vs injectivity, surjectivity</h2>
+            <h3 id="a-map-to-a-larger-vector-space-is-not-surjective">A map to a larger vector space is not surjective</h3>
+            <h3 id="a-map-to-a-smaller-vector-space-is-not-injective">A map to a smaller vector space is not injective</h3>
+            <h2 id="direct-sum-and-linear-independence">Direct Sum and Linear Independence</h2>
+            <p>A sum is direct if the bases of the summands are linearly independent.</p>
+            <h1 id="questions">Questions!!</h1>
+            <h2 id="from-the-template">From the template</h2>
+            <h3 id="what-is-an-identity-transformation">What is an "identity transformation"?</h3>
+            <h3 id="what-is-the-geometric-interpretation-of-the-determinant">What is the geometric interpretation of the determinant?</h3>
+            <h3 id="what-is-the-definition-of-linearity-how-do-you-apply-it">What is the definition of "linearity"? How do you Apply it?</h3>
+            <h3 id="what-is-the-rank-nullity-theorem">What is the rank nullity theorem?</h3>
+            <h3 id="what-is-the-connection-between-rangenull-space-and-nonsingularity">What is the connection between range/null space and nonsingularity?</h3>
+            <p>In order for a map/matrix to be invertible, its rows and columns must be linearly independent?</p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

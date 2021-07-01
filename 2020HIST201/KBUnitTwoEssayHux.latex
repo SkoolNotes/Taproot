@@ -1,0 +1,408 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Unit Two Essay }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}4889)}}    % original
+%\rhead{\textrmlf{Compiled }\#4889\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#4889\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\#ref \#ret \#disorganized \#incomplete
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{unit.-two.-essay.}{%
+\section{Unit. Two. Essay.}\label{unit.-two.-essay.}}
+
+\textbf{les go.}
+
+\hypertarget{prompt}{%
+\subsection{prompt:}\label{prompt}}
+
+\begin{verbatim}
+Option 1: "[For] the philosophers of the period...the concept of the balance of power was simply an extension of conventional wisdom. Its primary goal was to prevent domination by one state and to preserve the international order; it was not designed to prevent conflicts, but to limit them. To the hard- headed statesmen of the eighteenth century, the elimination of conflict (or of ambition or of greed) was utopian; the solution was to harness or counterpoise the inherent flaws of human nature to produce the best possible long-term outcome." 
+Henry Kissinger, Diplomacy 
+
+From one point of view, balance of power politics in the early modern period succeeded spectacularly, ending unlimited wars of religion/ideology in favor of wars for the national interest (raison d’etat), and preventing a single European power from conquering the whole continent. From another point of view, it exported great power conflict to the rest of the world, turning Africa, the Middle East, Asia, and the Americas into battlegrounds for rivalling European states. In the end, did the European balance of power succeed in limiting conflict and producing the “best possible outcome” from flawed human nature? Or did it magnify conflict and increase the likelihood of global war?  Answer this question in a well organized essay using examples from multiple global regions.
+
+Option 2: The European great powers of the early modern period (1500-1815) generally followed mercantilist economic policy. Mercantilists, like Jean-Baptiste Colbert, saw trade as a form of warfare; your rival’s gain was necessarily your loss. If your subjects purchased goods from your rival at a greater rate than the reverse, money would flow from your country to your rival and empower them. Thus, they argued that the national interest of a state (raison d’etat) should determine its economic policy and the state should use all the tools at its disposal, such as tariffs, monopolies, colonization, attacks on rival merchants, invasion of resource rich areas, takeover of rival colonies etc. to protect and increase its power. Free-market liberals, like Adam Smith, argued that this was a deeply inefficient and wrongheaded view of economics: all would benefit, they argued, if people were free to purchase goods from whichever merchant sold them cheapest, whether that merchant was from their country or from a foreign country. Could free market ideas have triumphed over mercantilism in this time period? Why or why not? Develop a thesis to answer this question, using specific examples from multiple geographic regions.
+
+Note: Your essay should cite evidence from a variety of secondary sources from the Unit 2 Reader. 
+
+Submission guidelines: 3-4 pages, size 12 font, double-spaced. Citations should be in-line and formatted as (Authorname Pagenumber) i.e. (Kennedy 12). Include a Works Cited page in MLA format for the secondary sources. 
+
+Tips: See the essay rubric guide below for questions to ask yourself as you write and revise. 
+History essay rubric guide
+\end{verbatim}
+
+\hypertarget{general-ideas}{%
+\subsection{General ideas:}\label{general-ideas}}
+
+\hypertarget{opt-2}{%
+\subsubsection{Opt 2:}\label{opt-2}}
+
+Look at the free market / mercantilism
+
+Where free market fails / succeeds and where mercantalism fails /
+succeeds
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Go either way:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    free market would have worked becuase it is a better system
+  \item
+    free market doesnt work when others are not free market
+  \item
+    free market is to drastic of an ideology for it to have taken effect
+  \end{enumerate}
+\end{enumerate}
+
+use places where one excels over the other
+
+find examples (or in the negative) in texts
+
+this aspect of the free market workes well, it was applied here
+
+OR:
+
+The free market could not work due to the enlightenment
+
+Enlightenment philosiphy: reductionist, everything can be reduced to
+ideals. top down.
+
+Free market completely uproots that with the idea of emergent properties
+
+Body paragraphs\ldots?
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  prove enlightnement is top down \textbar{} prove free market is bottom
+  up \textbar{} ?
+\item
+  Other ideas which got rejected for the same reasons?
+\end{enumerate}
+
+Free market vs resan detat? are they different?
+
+\hypertarget{more-planning}{%
+\paragraph{More planning?}\label{more-planning}}
+
+Modern day, free market economys dominate -- free market won
+
+In \{the time period\}, mercantalism and resan detant dominated.
+
+Why was this the case?
+
+Mercantalism, the primary way resan detant is implimented, and what led
+to the balance of power dynamic, is fundementaly based upon the concept
+that wealth \{trade?\} is a zero sum game
+
+This concept, however, is incorrect. With free market trade, wealth can
+actully be \emph{generated} \{through trade\}, and this \{realization?
+property?\} is what allowed free market systems to dominate.
+
+Thesis: Free market systems were unable to triumph do the common belief
+that trade was a zero sum game.
+
+This lack of understanding arose out of the enlightenment?
+
+Resan detant works by the state acting in its own self intrest, which
+manifests in mercantilism, the strategy of minimizing imports and
+maximizing exports. It also manifests in war, but to a much lesser
+extent.
+
+An emergent property, `Balance of Power,' arises out of a collection of
+these states all participating in resan detant.
+
+This is all built upon the concept that trade, and by extenstion, wealth
+and power? is a zero sum game.
+
+\hypertarget{need-to-prove}{%
+\subparagraph{Need to prove}\label{need-to-prove}}
+
+\begin{itemize}
+\tightlist
+\item
+  Mercantalism is based in the idea that \{trade?\} is a zero sum game
+\item
+  Free market can generate wealth
+\item
+  An internally free market system is viable, and forces other to join
+  it?
+\end{itemize}
+
+\hypertarget{outline}{%
+\paragraph{Outline}\label{outline}}
+
+\begin{itemize}
+\tightlist
+\item
+  Intro: lay out thesis
+\item
+  Lay out how the system works and define terms? Resan detant
+  -\textgreater{} mercantalism -\textgreater{} balance of power
+\item
+  Mercantalism \{and other aspects of the system?\} are based on the
+  idea that \{trade? wealth?\} is a zero sum game
+
+  \begin{itemize}
+  \tightlist
+  \item
+    wealth is zero sum as measured by bullion,
+
+    \begin{itemize}
+    \tightlist
+    \item
+      wealth is confused with bullion, according to Adam smith
+    \item
+      In reality, welth when seperted from bullion can be generated
+      through free market trade, making it not a zero sum game.
+    \end{itemize}
+  \end{itemize}
+\item
+  Free market can generate wealth
+\item
+  Conclustion
+\end{itemize}
+
+somehow indicate wasnts a free market?
+
+\hypertarget{qoutes}{%
+\paragraph{Qoutes?}\label{qoutes}}
+
+\hypertarget{how-the-system-works}{%
+\subparagraph{How the system works}\label{how-the-system-works}}
+
+\begin{itemize}
+\item
+  ``Since the middle of the seventeenth century, European monarchies had
+  consciously pursued a policy of the balance of power, a system of
+  shifting international alliances that prevented any one country from
+  becoming too powerful. Wars were fought not so much for ideology or
+  nationalism but to maintain the balance of power ; consequently, these
+  conflicts were relatively restrained.'' - david, 16
+\item
+  ``strictly and closely regulated society of Canada or at home in
+  Europe. By 1700, some colonies had already shown a tendency to grasp
+  whatever freedom from royal control was available to them.'' - idk,
+  656
+\end{itemize}
+
+\hypertarget{mercantalism}{%
+\subparagraph{Mercantalism}\label{mercantalism}}
+
+\begin{itemize}
+\item
+  ``Since the seventeenth century, economic policy was guided by
+  mercantilist theory, which held that the wealth of a nation could best
+  be enhanced by the accumulation of precious metals like silver and
+  gold.'' - david, 16
+\item
+  ``Near the end of the eighteenth century, the theory of mercantilism,
+  with its em- phasis on precious metals and government regulation, came
+  under chal- lenge both by alternative economic theories, such as Adam
+  Smith's theory of a free market economy (see below), and by the
+  bourgeoisie themselves.'' - david, 16
+\item
+  ``This whole system, both domestic and international, was seriously
+  challenged at the end of the eighteenth century and the beginning of
+  the nineteenth, first by the ideas of the Enlightenment \ldots{}
+  mercantilism would all be threatened with extinction at the turn of
+  the nineteenth century.'' david, 16-17
+\end{itemize}
+
+\hypertarget{free-market-better}{%
+\subparagraph{Free market better}\label{free-market-better}}
+
+\begin{itemize}
+\item
+  ``In his nine-hundred-page opus, The Wealth of Nations, Smith
+  discussed how self- interest could work for the common good. By giving
+  free rein to individ- ual greed and the private accumulation of
+  wealth, the''invisible hand" of the market would benefit society in
+  the end, a formula sometimes charac- terized by the seemingly
+  paradoxical aphorism ``private vice yields public virtue.''" - david,
+  20
+\item
+  ``These ideas shattered the prevalent doctrines of protectionism and
+  mercantilism and became the basis for what would develop into capi-
+  talism.'' - david, 20
+\item
+  ``Over the long run, Indian entrepreneurs, importing English machinery
+  at first, created a machine-based textile industry in India that has
+  since undercut the textile industry of England. Thus the long-term
+  effect has been a spread of the new technology that, under conditions
+  of free trade, favored India's entrepreneurial know-how and its low
+  industrial wages.'' - last reading, 188
+\end{itemize}
+
+\end{document}

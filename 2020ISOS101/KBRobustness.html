@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title> Robustness Notes </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'><strong></strong> Robustness Notes </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request="><span><strong>[[</strong></span><strong></strong><span><strong>]]</strong></span></a></span></p>
+            <hr />
+            <p>#flo</p>
+            <pre><code></code></pre>
+            <h1 id="robustness-reliabilty-overdetermination"><span class="math display">\[Robustness,\ Reliabilty,\ Overdetermination\]</span></h1>
+            <pre><code></code></pre>
+            <p>Starts with quote about how philosophy should emulate the scientific method.</p>
+            <p>This is incorrect. Philosophy is about building a logical framework of understanding. Science is about finding things out about the real world through experimentation. These two subjects and approaches are <strong>fundamentally</strong> incompatible (Godel’s theory, perception bias, forgot the name of the theory but extended simulation theory).</p>
+            <blockquote>
+            <p>Our truth is the intersection of independent lies.</p>
+            </blockquote>
+            <p>This is certainly a thought provoking quote, but once again, I am unsure it is true.</p>
+            <h2 id="common-features-and-concepts-of-robustness">Common Features and Concepts of Robustness</h2>
+            <p>Robustness analysis</p>
+            <p>Eh, more of the same.</p>
+            <blockquote>
+            <p>With independent alternative ways of deriving a result the result is always surer than its weakest derivation.</p>
+            </blockquote>
+            <p>All about dealing with fallacies and inconsistency.</p>
+            <p>When an error occurs, it corrupts everything it’s connected to until you reach something with independent support.</p>
+            <p><em>Using alternative methods of proving to provide independent support and ‘wall off’ the spread of inconsistency.</em></p>
+            <h2 id="robustness-objectification-and-realism">Robustness, Objectification, and Realism</h2>
+            <p>Overlap of sensory modalities are what allow us to say an object is robust? ie. not an illusion.</p>
+            <p>Rebuts drugs and hallucinigens/natios by saying they arn’t consistent across people or time. This is iffy….</p>
+            <pre><code></code></pre>
+            <h2 id="discussion-point"><span class="math display">\[Discussion\ Point\]</span></h2>
+            <pre><code></code></pre>
+            <p>I’m genuinely curious about the meaning of the quote: “Our truth is the intersection of independent lies” - Levins Perhaps this is referring to how our world is constructed of assumptions, and the overlap of these assumptions are what we take to be truth? I’m not at all sure if this is correct, and would love to be enlightened.</p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

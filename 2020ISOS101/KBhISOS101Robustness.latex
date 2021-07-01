@@ -1,0 +1,286 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ISOS101 }
+\newcommand{\thelesson}{ Robustness }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBISOSMasterIndex}{\tiny\textulf{[[}\textbf{KBISOSMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{robustness}{%
+\section{Robustness}\label{robustness}}
+
+\#flo \#disorganized
+
+\begin{itemize}
+\tightlist
+\item
+  Aristotle as seed of idea triangulation
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The idea of confirming a phenomenon through multiple ways of
+    observation
+  \item
+    Not a thing that people talk about much, but present in many
+    philosophies
+  \end{itemize}
+\item
+  Robustness Analysis
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Based on concept of triangulation
+  \item
+    Basic steps
+
+    \begin{enumerate}
+    \def\labelenumi{\arabic{enumi}.}
+    \tightlist
+    \item
+      Analyze a variety of independent derivations
+
+      \begin{itemize}
+      \tightlist
+      \item
+        This could mean a lot of things, like
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Different senses of the same thing
+        \item
+          Different procidures to sense the same thing
+        \item
+          Different assumptions to verify the same thing
+        \item
+          Different tests of the same thing
+        \end{itemize}
+      \end{itemize}
+    \item
+      Look for identical conclusions from these different derivations
+    \item
+      Analyze the scope and conditions from which these derivations
+      exist
+    \item
+      Analyze any failures of the invariance
+    \end{enumerate}
+  \item
+    If, under step 4, there be things that are invariant and within the
+    margin of falure, the analysis is ``robust''
+  \end{itemize}
+\item
+  Common theme across all types of robust analysis
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Distinction between the material and the unmaterial
+  \item
+    Each verification process is independent
+  \item
+    Robustness evaluated on the basis of ``changeability'' --- that is,
+    if under different circumstances, theories are unmutating, they are
+    more robusta
+  \end{itemize}
+\item
+  Robustness prevents the ``weakest link problem''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    With multiple derivations under different assumptions, problems
+    could be spotted independently
+  \item
+    Thus, if one point in one senario theory breaks down, you either
+    notice it very quickly or the theory is not entirely disproven
+    although less robust
+  \item
+    If one arm is simply weakened, still the others could support the
+    theory and the special case could further lead to scientific
+    discovery
+  \end{itemize}
+\item
+  Failures of robustness analysis --- ``illusions of robustness''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Supposedly independent tests acutally dependent
+  \item
+    For instance, IQ tests are not actually quite that independent of
+    social factors
+  \item
+    Not very easy to detect underlying causes of dependence
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Factors could be reinforcing
+    \item
+      Each may hide the others being actually dependen
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\end{document}

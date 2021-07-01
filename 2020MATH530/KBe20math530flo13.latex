@@ -1,0 +1,375 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ 20math530 }
+\newcommand{\thelesson}{ Linalg Flow 13 }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}2592)}}    % original
+%\rhead{\textrmlf{Compiled }\#2592\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#2592\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=2020MATH530/KBe2020math530floIndex.md}{\tiny\textulf{[[}\textbf{2020MATH530/KBe2020math530floIndex.md}\textulf{]]}}}\thinspace
+
+\#flo \#disorganized \#incomplete
+
+\hypertarget{bases}{%
+\section{Bases}\label{bases}}
+
+\begin{itemize}
+\tightlist
+\item
+  \#icr {[}{[}KBeRefLinAlgBases{]}{]}
+\item
+  (plural of `basis')
+\item
+  the \emph{standard basis} of
+  \(\mathbb{F}^n = (1, 0, 0, \ldots 0), (0, 1, 0, \ldots, 0), \ldots, (0, 0, 0, \ldots, 1)\)
+\end{itemize}
+
+\hypertarget{axler2.31}{%
+\subsection{Axler2.31}\label{axler2.31}}
+
+\begin{itemize}
+\tightlist
+\item
+  The first step is a shortcut: the only way the first vector could be
+  dependent is if it's zero
+
+  \begin{itemize}
+  \tightlist
+  \item
+    but as you go on, you are more and more ``likely'' to have
+    redundancy
+  \end{itemize}
+\item
+  How to check the third vector?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Calculate the formula for the plane of the first two (cross product
+    to get something orthogonal)
+  \item
+    Then, take the dot product to see if the third vector is
+    perpendicular to the orthogonal and therefore in the plane.
+
+    \begin{itemize}
+    \tightlist
+    \item
+      (the third one is in the plane if the dot product with the
+      orthogonal is zero)
+    \end{itemize}
+  \end{itemize}
+\item
+  This is a more ``concrete'' ? version of the linear dependence lemma
+  (see it in {[}{[}KBe20math530flo11{]}{]})
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The linear dependence lemma starts from the end, where as this
+    algorithm starts from the beginning
+  \item
+    it basically says ``there will be one you can get rid of'' while
+    this one tells you which:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      for the sake of the algorithm, throw away the one that comes
+      later.
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{axler2.34}{%
+\subsection{Axler2.34}\label{axler2.34}}
+
+\begin{itemize}
+\tightlist
+\item
+  You can start with a whole space and knock out of the basis, or a
+  subspace and extend the basis
+\item
+  to show that it's a direct sum
+
+  \begin{itemize}
+  \tightlist
+  \item
+    show that the sum works
+
+    \begin{itemize}
+    \tightlist
+    \item
+      because we expanded to make the list a basis of \(V\), it must
+      span \(V\) so all vectors are contained within.
+    \end{itemize}
+  \item
+    show that the intersection works
+
+    \begin{itemize}
+    \tightlist
+    \item
+      we know that \(v\) is in both \(U\) and \(W\), so we can subtract
+      the equations and get that the sum is zero
+    \item
+      and because the list is a basis, it is linearly independent, so
+      all the coefficients are zero, so \(v\) must be \(0\)
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{connections-of-linear-independence}{%
+\section{Connections of Linear
+Independence}\label{connections-of-linear-independence}}
+
+\#toexpand \#incomplete \#icr of the recent test \#\# Linear
+Independence and Systems of Equations - A system of equations's
+coefficients written as vectors has one solution if and only if the
+vectors are linearly independent - A worked example: \[
+\begin{aligned}
+3x-y+z = 5\\
+x + 2y + z = 0\\
+4x+y+2z = 2
+\end{aligned}
+\] becomes \[
+\begin{aligned}
+\begin{bmatrix}
+3&-1&1\\
+1&2&1\\
+4&1&1\\
+\end{bmatrix}
+\begin{bmatrix}
+x\\
+y\\
+z\\
+\end{bmatrix}
+= 
+\begin{bmatrix}
+5\\0\\2
+\end{bmatrix}
+\end{aligned}
+\]
+
+When the system above is graphed, the third plane is parallel to the
+line of intersection between the first two. This means that the vectors
+(the rows of the components of the vectors in \(\mathbb{R}^3\))are
+linearly dependent?
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{linear combinations of the column vectors}
+\item
+  \textbf{The fact that this system is not uniquely determined is a fact
+  of the left side.} It doesn't matter what the numbers on the right of
+  the system are. There will be \(\infty\) solutions if the solution
+  column is in plane of the column vectors, or in the span of the list.
+\item
+  Column vectors are coplanar if the row vectors are linearly dependent.
+\end{itemize}
+
+\hypertarget{a-homogeneous-system}{%
+\section{A homogeneous system}\label{a-homogeneous-system}}
+
+\begin{itemize}
+\tightlist
+\item
+  When everything on the right of the systems are zero
+\end{itemize}
+
+\#todo-exr0n move to linalg questions - questions - standard basis of
+polynomials - \(z^0, z^1, z^2, \ldots, z^n\) - system of equations of
+polynomials - less obvious - turn your polynomial space into a more
+standard vector space and then use that?
+
+\hypertarget{linear-independence-and-direct-sums}{%
+\subsection{Linear Independence and Direct
+Sums}\label{linear-independence-and-direct-sums}}
+
+\begin{itemize}
+\tightlist
+\item
+  In a direct sum, every vector in that sum can only be represented in
+  one way
+\item
+  for linear independence the span of the list is only represented as
+  one linear combination of the list (esp.~0, which is the definition of
+  linear independence)
+\end{itemize}
+
+\hypertarget{referencing}{%
+\section{Referencing}\label{referencing}}
+
+\begin{itemize}
+\tightlist
+\item
+  Say either the number or the title, or both.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    title is useful, number is specific
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

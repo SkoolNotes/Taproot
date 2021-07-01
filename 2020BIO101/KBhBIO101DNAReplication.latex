@@ -1,0 +1,327 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ BIO101 }
+\newcommand{\thelesson}{ DNA Replication }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10250)}}    % original
+%\rhead{\textrmlf{Compiled }\#10250\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#10250
+  \textrmlf{ on}
+      \today
+  }       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBBIO101CentralDogma}{\tiny\textulf{[[}\textbf{KBBIO101CentralDogma}\textulf{]]}}}\thinspace
+
+\hypertarget{dna-replication}{%
+\section{DNA Replication}\label{dna-replication}}
+
+DNA replication is known to be ``semi-conservative'' --- meaning that it
+is a process that pairs a synthesized half of the DNA with an original
+half of the DNA (i.e.~takes the ORIGINAL template strand + makes the NEW
+coding strand \& takes the ORIGINAL coding strand + makes the NEW
+template strand.)
+
+Because \textbf{polymerases copy uni-directionally} =\textgreater{} DNA
+polyemrease move along the 3' to 5' DNA to create a copy 5' to 3'.
+Meaning, the polymerize is able to add nucleotide onto the 3' end of the
+DNA.
+
+As mentioned before, \textbf{DNA Polymerease} is the enzyme that
+catalyzes this process of DNA replication.
+
+\hypertarget{the-process-of-dna-replication}{%
+\subsection{The Process of DNA
+Replication}\label{the-process-of-dna-replication}}
+
+\hypertarget{dna-unzipping}{%
+\subsubsection{DNA Unzipping}\label{dna-unzipping}}
+
+=\textgreater{} DNA is unzipped at the origin of replication The parent
+DNA strand serves as a template for the new strand; when it is unzipped,
+the nucleotides are exposed for complementary base pairing.
+\textbf{Helicase} is the enzyme that unzips the DNA molecule, breaking
+the hydrogen bonds between nucleotides to expose them for complementary
+base pairing
+
+\hypertarget{dna-priming}{%
+\subsubsection{DNA priming}\label{dna-priming}}
+
+DNA polymersease will REQUIRE a double-stranded area to begin work from,
+so \textbf{Primase} synthesize already double-stranded RNA primers that
+DNA polymerease could bootstrap to the single-stranded DNA to begin the
+replication process (think: create-react-app)
+
+\hypertarget{dna-flexing-whats-the-actual-word}{%
+\subsubsection{DNA ``flexing'' (what's the actual
+word?)}\label{dna-flexing-whats-the-actual-word}}
+
+The primed DNA is broken and rejoined in order to reduce strain caused
+by unzipping. Topoisomerase is responsible for relieving
+unwinding-induced.
+
+\hypertarget{the-actual-process-of-replication}{%
+\subsubsection{The actual process of
+replication}\label{the-actual-process-of-replication}}
+
+In this step, DNA polymerease does we came here to do.
+
+Because DNA polymerase could only add nucleotides 5' to 3', there is two
+types of styles of copying depending on which of the two strands are
+being copied.
+
+\begin{itemize}
+\tightlist
+\item
+  In the \textbf{leading} strand (3' to 5'), polymerase will run
+  alongside the helicase for they are opening and replicating on the
+  same direction
+\item
+  In the \textbf{lagging} strand (5' to 3'), polymerase will wait until
+  the helicate opens a little segment, and rushes forward and move
+  backwards
+\end{itemize}
+
+\emph{NOTE: the lagging strand\ldots{} 1) takes longer to transcribe 2)
+is done in small chunks (each ``rush forward''). Each chunk is called an
+ogazaki fragment --- this is why there was that
+{[}{[}KBhBIO101mRNAPreprocessing{]}{]} process during transcription
+because that would help correct any errors in joining these fragments}
+
+\begin{figure}
+\centering
+\includegraphics{leadinglagging.png}
+\caption{leadinglagging.png}
+\end{figure}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\emph{A quick break\ldots{}}
+
+But where does the materials (the nucleotide necessary to make new DNA +
+primer RNA come from?)
+
+Remember that this whole process happens in the nucleus. There's
+apparently just a crap tonne of random nucleotide floating around in the
+nucleus, so simple chemical attraction is good enough. ***
+
+\hypertarget{dna-proofreading}{%
+\subsubsection{DNA Proofreading}\label{dna-proofreading}}
+
+DNA polymerse will detect unfitting bonds and remove leftover RNA primer
+bootstrap units to repair them in a process called ``proofreading.'' DNA
+polimersease is assisted with ``glue'' ligase to help the DNA
+polymerease pick out and replace problematic/unneeded nucleotides and
+perhaps their neighbors. This is where the Ogazaki fragments get joined.
+
+Steps of DNA replication, in Paul's words:
+
+\begin{verbatim}
+- Many proteins work together in DNA replication and repair. 
+The process of DNA replication is semiconservative, such that takes place through complementary base pairing of a template strand of parent DNA. 
+
+- The process of replication begins at the origin of replication, forming a replication fork. The enzyme, helicase, unwinds DNA exposing template strands, primase synthesizes RNA primers to begin the process
+
+- Topoisomerase breaks, swivels, and rejoins the parent DNA to relieve strain caused by unwinding. 
+
+- DNA polymerase is the enzyme that catalyzes the process of complementary base pairing of nucleotides to the template strand. 
+
+- New nucleotide strands always for in the 5’ to 3’ direction, therefore the leading strand forms continuously but the lagging strand is formed in Okazaki fragments (still in the 5’ to 3’ direction) and connected by the enzyme ligase. 
+
+- DNA polymerase is able to proofread pairing, and along with mismatch repair enzymes, DNA is carefully check and repair DNA. 
+
+- The end of a DNA molecule are called telomeres (not in circular genome e.g. bacteria), and shorten during each replication (Hayflick limit). Noncoding, repeating units of nucleotides act as protection from losing essential genetic information by shorting. 
+\end{verbatim}
+
+\begin{figure}
+\centering
+\includegraphics{copying 1.png}
+\caption{copying 1.png}
+\end{figure}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

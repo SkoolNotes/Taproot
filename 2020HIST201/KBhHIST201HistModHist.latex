@@ -122,7 +122,9 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1670)}}    % original
+%\rhead{\textrmlf{Compiled }\#1670\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1670\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage}
 
@@ -136,14 +138,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -305,5 +307,45 @@ self-government as it grows and requires more and more attention
   \textbf{Extraction}: The act of securing the means to execute the
   previous three activities, such as the collection of taxes or revenue.
 \end{enumerate}
+
+\#flo \#disorganized
+
+Merchantilist Empires =\textgreater{} Merchants =\textgreater{} Trade
+
+\begin{itemize}
+\tightlist
+\item
+  Portchugal and Spain focused on land aqusition
+
+  \begin{itemize}
+  \tightlist
+  \item
+    King and queen doing conquring
+  \item
+    Little privatization and more of a territarialist model
+  \end{itemize}
+\item
+  Dutch, French, and British empires focused more on actual trading
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Companies with charters
+
+    \begin{itemize}
+    \tightlist
+    \item
+      But! Has own army
+    \item
+      Coinage
+    \item
+      and Court
+    \item
+      (all vested on the authority of the government)
+    \end{itemize}
+  \item
+    Mostly private investors and a capitalist model
+  \end{itemize}
+\end{itemize}
 
 \end{document}

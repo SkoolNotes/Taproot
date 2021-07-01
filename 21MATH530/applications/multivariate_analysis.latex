@@ -1,0 +1,278 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6811)}}    % original
+%\rhead{\textrmlf{Compiled }\#6811\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6811\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{multivariate-analysis}{%
+\section{multivariate analysis}\label{multivariate-analysis}}
+
+\hypertarget{terms}{%
+\subsection{terms}\label{terms}}
+
+\hypertarget{null-hypothesis}{%
+\subsubsection{null hypothesis}\label{null-hypothesis}}
+
+\hypertarget{dependence---if-one-set-of-variables-can-predict-another}{%
+\subsubsection{dependence - if one set of variables can predict
+another}\label{dependence---if-one-set-of-variables-can-predict-another}}
+
+\hypertarget{interdependent-analysis---intercorrelations-for-underlying-understanding}{%
+\subsubsection{interdependent analysis - intercorrelations for
+underlying
+understanding}\label{interdependent-analysis---intercorrelations-for-underlying-understanding}}
+
+\hypertarget{metric-vs-non-metric---a-metric-variable-is-numeric}{%
+\subsubsection{metric vs non metric - a metric variable is
+numeric}\label{metric-vs-non-metric---a-metric-variable-is-numeric}}
+
+\hypertarget{then-a-bunch-of-methods-for-dependence-analysis}{%
+\subsection{then a bunch of methods for dependence
+analysis}\label{then-a-bunch-of-methods-for-dependence-analysis}}
+
+\hypertarget{pick-by-matching-which-ones-match-your-inputoutput-variable-types-and-numbers}{%
+\subsubsection{pick by matching which ones match your input/output
+variable types and
+numbers}\label{pick-by-matching-which-ones-match-your-inputoutput-variable-types-and-numbers}}
+
+\hypertarget{interdependent-multivariate-analysis}{%
+\subsection{interdependent multivariate
+analysis}\label{interdependent-multivariate-analysis}}
+
+\hypertarget{factor-analysis}{%
+\subsubsection{factor analysis}\label{factor-analysis}}
+
+\begin{enumerate}
+\item
+  understand which variables highly correlate to others
+
+  \begin{enumerate}
+  \item
+    common factor analysis - extracts factors that correlate
+  \item
+    principal component analysis - extract factors that have the largest
+    impact
+  \end{enumerate}
+\item
+  clusterananlysis
+\item
+  multidimensional scaling
+
+  \begin{enumerate}
+  \item
+    obtain tabluar data from a weighted graph structure?
+  \end{enumerate}
+\item
+  corresponding analysis
+
+  \begin{enumerate}
+  \item
+    like factor analysis or something?
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{important-matrices}{%
+\subsection{important matrices}\label{important-matrices}}
+
+\hypertarget{data-matrix}{%
+\subsubsection{data matrix}\label{data-matrix}}
+
+\hypertarget{usscp}{%
+\subsubsection{USSCP}\label{usscp}}
+
+\begin{enumerate}
+\item
+  data matrix multiplied by the transpose
+\end{enumerate}
+
+\hypertarget{some-other-thing-csscp}{%
+\subsubsection{some other thing CSSCP}\label{some-other-thing-csscp}}
+
+\hypertarget{covariance-matrix-c}{%
+\subsubsection{covariance matrix (C)}\label{covariance-matrix-c}}
+
+\hypertarget{correlation-matrix-r}{%
+\subsubsection{correlation matrix (R)}\label{correlation-matrix-r}}
+
+\begin{enumerate}
+\item
+  variables normalized for mean 0 and stddev 1
+\end{enumerate}
+
+\hypertarget{applications}{%
+\subsection{applications}\label{applications}}
+
+\hypertarget{lots-of-fields}{%
+\subsubsection{lots of fields}\label{lots-of-fields}}
+
+\end{document}

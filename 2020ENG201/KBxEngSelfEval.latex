@@ -1,0 +1,263 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+%\setmainfont[
+%   ItalicFont     = HelveticaNeue-Italic,
+%   BoldFont       = HelveticaNeue-Bold,
+%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight[
+%   ItalicFont     = HelveticaNeue-LightItalic,
+%   BoldFont       = HelveticaNeue-UltraLight,
+%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+\setmainfont[
+   ItalicFont     = Iosevka-Aile-Italic,
+   BoldFont       = Iosevka-Aile-Bold,
+   BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+\newfontfamily\NHLight[
+   ItalicFont     = Iosevka-Aile-Light-Italic,
+   BoldFont       = Iosevka-Aile-Light,
+   BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ENG201 }
+\newcommand{\thelesson}{ English Self Eval }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6194)}}    % original
+%\rhead{\textrmlf{Compiled }\#6194\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6194\textrmlf{ on} \today}       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
+
+\#ret
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{verbatim}
+Please take your listening log from mid-semester conferences and re-read your reflection for this course. Copy and paste it into the web-based eval and write 150-250 words in response to that about your continued areas of strength and your progress towards your goals.
+
+If students did not write a reflection and/or did not set a goal for their listening log, they were asked to respond to the following questions: 
+\end{verbatim}
+
+\begin{itemize}
+\tightlist
+\item
+  What did you learn about writing this semester? How have you grown as
+  a writer?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    I've gained a lot of tacit knowledge about writing; I feel as if
+    there is less of a barrier between my thoughts and the words on the
+    (digital) paper.
+  \end{itemize}
+\item
+  Describe your writing process and how it has evolved over the
+  semester?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    For most work in English class, I generally start just by thinking
+    for a while. I create quite extensive outlines, starting with fluid
+    and undeveloped ideas; through research and more thinking, I move to
+    an outline describing my idea flow. I gather a ``Quote Bin''
+    containing evidence, and begin writing. Throughout the course of the
+    semester, the time spent writing has shrank relative to the time
+    spent outlining.
+  \end{itemize}
+\item
+  Describe the progress you've made in your ability to understand a
+  text, to identify important moments, to annotate them, and to create
+  good questions to bring to class?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This semester, I've tried to move from close reading to derive
+    possible meanings to close reading to understand the broader
+    concepts of the text. I have tried to not close read simply for the
+    sake of close reading, but rather to use close reading as a tool for
+    understanding the text at a broader level. This philosophy has
+    helped me do all the skills listed above.
+  \end{itemize}
+\item
+  What aspect of your performance in English class are you most proud
+  about this semester (writing process, discussion skills, close
+  reading, a specific assignment)?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    When in quarantine this long, it's hard not to just let the days
+    slip by without really experiencing or engaging in them. While it
+    sounds mundane, I'm proud of being mentally present to every English
+    class, and never just ``sitting through'' them.
+  \end{itemize}
+\item
+  What are your goals in English for next semester? Set at least two
+  specific goals and describe how you will meet them.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    I've been getting a lot of value out of group projects, just having
+    people to bounce ideas off of and learn from. This type of
+    interaction is much more limited nowadays; next semester, I would
+    like to engage in more of them.
+  \item
+    For writing pieces, I often entirely change what I am writing about
+    multiple times because I'm not happy with the ideas in them. I end
+    up scrapping a lot of work and a lot of time. Next semester, I would
+    like to reduce this work and time lost.
+  \end{itemize}
+\end{itemize}
+
+\end{document}

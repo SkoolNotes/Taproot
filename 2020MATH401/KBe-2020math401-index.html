@@ -93,6 +93,10 @@
       <td style="text-align: left;">3</td>
       <td style="text-align: left;"><span>[</span><span>[</span>eFloCalcD3<span>]</span><span>]</span></td>
       </tr>
+      <tr class="even">
+      <td style="text-align: left;">5</td>
+      <td style="text-align: left;"><span>[</span><span>[</span><span>]</span><span>]</span></td>
+      </tr>
       </tbody>
       </table>
       <h2 id="homework">Homework</h2>
@@ -120,6 +124,11 @@
       <td style="text-align: left;">2020-09-03</td>
       <td style="text-align: left;"><span>[</span><span>[</span>eFloCalcD3<span>]</span><span>]</span> (continued classwork)</td>
       </tr>
+      <tr class="even">
+      <td style="text-align: right;">1_3</td>
+      <td style="text-align: left;">2020-09-13</td>
+      <td style="text-align: left;"><span>[</span><span>[</span>KBe20math401ret1_3.pdf<span>]</span><span>]</span></td>
+      </tr>
       </tbody>
       </table>
       <hr />
@@ -129,7 +138,7 @@
       $(document).ready(function() {
           // Generate clickable links
           let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
-              let docPointer = x.match(/(\w)*/);
+              let docPointer = x.match(/KB\w*/);
               if (docPointer) {
                   let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
                   return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;

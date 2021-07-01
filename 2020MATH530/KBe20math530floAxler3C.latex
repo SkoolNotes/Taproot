@@ -1,0 +1,248 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Axler 3.C Flow because CanVaS PoStInG is cool }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5224)}}    % original
+%\rhead{\textrmlf{Compiled }\#5224\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5224\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{axler3.30-def-matrix-a_jk}{%
+\section{\texorpdfstring{Axler3.30 \#def matrix \(A_{j,k}\)
+{\textsc{def}}}{Axler3.30 \#def matrix A\_\{j,k\} def}}\label{axler3.30-def-matrix-a_jk}}
+
+A \(m\time n\) matrix is a rectangle of numbers with \(m\) rows and
+\(n\) columns. And other stuff you would expect
+
+\hypertarget{axler3.32-def-matrix-of-a-linear-map-mathcal-mt}{%
+\section{\texorpdfstring{Axler3.32 \#def matrix of a linear map,
+\(\mathcal M(T)\)
+{\textsc{def}}}{Axler3.32 \#def matrix of a linear map, \textbackslash mathcal M(T) def}}\label{axler3.32-def-matrix-of-a-linear-map-mathcal-mt}}
+
+\begin{quote}
+Suppose \(T \in \mathcal L(V, W)\) and \(v_1, \ldots, v_n\) is a basis
+of \(V\) and \(w_1, \ldots, w_m\) is a basis of \(W\). The \emph{matrix
+of \$T\$} with respect to these bases is the \(m\times n\) matrix
+\(\mathcal M\left(\mathcal T, \left(v_1, \ldots, v_n\right), \left(w_1, \ldots, w_m\right)\right)\)
+whose entries \(A_{j,k}\) are defined by
+\[Tv_k = A_{1, k}w_1 + \cdots + A_{m, k}w_m\].
+\end{quote}
+
+Note that for each output \(Tv_k\) is a linear combination of a column.
+
+\hypertarget{algebra-things}{%
+\section{Algebra things}\label{algebra-things}}
+
+\hypertarget{axler3.35-def-matrix-sum}{%
+\subsection{\texorpdfstring{Axler3.35 \#def Matrix Sum
+{\textsc{def}}}{Axler3.35 \#def Matrix Sum def}}\label{axler3.35-def-matrix-sum}}
+
+Pointwise addition, pretty straight forward. \textbf{Only works on
+matrices of the same size!}
+
+\hypertarget{axler-3.36-the-matrix-sum-of-linear-maps}{%
+\subsection{Axler 3.36 The matrix sum of linear
+maps}\label{axler-3.36-the-matrix-sum-of-linear-maps}}
+
+Basically matrices that are linear maps also satisfie additivity of
+linear maps (Given
+\(S, T \in \mathcal L(V, W), \mathcal M(S) + \mathcal M(T) = \mathcal M(S+T)\))
+
+\hypertarget{axler3.37-and-axler3.38-same-for-scalar-multiplication}{%
+\subsection{Axler3.37 and Axler3.38 (same for scalar
+multiplication)}\label{axler3.37-and-axler3.38-same-for-scalar-multiplication}}
+
+Its the same for scalar multiplication, yay
+
+\hypertarget{notation-axler3.39-mathbb-fmn}{%
+\section{\texorpdfstring{Notation Axler3.39 \(\mathbb F^{m,n}\)
+{\textsc{notation}}}{Notation Axler3.39 \textbackslash mathbb F\^{}\{m,n\} notation}}\label{notation-axler3.39-mathbb-fmn}}
+
+\(F^{m, n}\) is the set of all \(m\times n\) matrices with entries in
+\(\mathbb F\).
+
+\hypertarget{axler3.40-textdim-mathbb-fmn-mn}{%
+\section{\texorpdfstring{Axler3.40
+\(\text{dim }\mathbb F^{m,n} = mn\)}{Axler3.40 \textbackslash text\{dim \}\textbackslash mathbb F\^{}\{m,n\} = mn}}\label{axler3.40-textdim-mathbb-fmn-mn}}
+
+\(\mathbb F^{m,n}\) is itself a vector space with dimension \(mn\).
+(Each basis vector being a matrix with a single one at \(i, j\) for each
+pair of \(i, j\))?
+
+\hypertarget{axler3.44-a_jcdot-a_cdot-k}{%
+\section{\texorpdfstring{Axler3.44 \(A_{j,\cdot}\),
+\(A_{\cdot, k}\)}{Axler3.44 A\_\{j,\textbackslash cdot\}, A\_\{\textbackslash cdot, k\}}}\label{axler3.44-a_jcdot-a_cdot-k}}
+
+The dot just means "everything in that row/column".
+
+\hypertarget{axler3.49-column-of-matri-product-equal-matrix-times-column}{%
+\section{Axler3.49 Column of matri product equal matrix times
+column}\label{axler3.49-column-of-matri-product-equal-matrix-times-column}}
+
+For \(m\times n\) matrix \(A\) and \(n\times p\) matrix \(C\),
+\[(AC)_{\cdot, k} = AC_{\cdot, k}\].
+
+\hypertarget{and-many-other-ways-to-think-about-matrix-multplication}{%
+\section{And many other ways to think about matrix
+multplication}\label{and-many-other-ways-to-think-about-matrix-multplication}}
+
+\end{document}

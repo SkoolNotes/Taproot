@@ -1,0 +1,476 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+%\setmainfont[
+%   ItalicFont     = HelveticaNeue-Italic,
+%   BoldFont       = HelveticaNeue-Bold,
+%   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight[
+%   ItalicFont     = HelveticaNeue-LightItalic,
+%   BoldFont       = HelveticaNeue-UltraLight,
+%   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+\setmainfont[
+   ItalicFont     = Iosevka-Aile-Italic,
+   BoldFont       = Iosevka-Aile-Bold,
+   BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+\newfontfamily\NHLight[
+   ItalicFont     = Iosevka-Aile-Light-Italic,
+   BoldFont       = Iosevka-Aile-Light,
+   BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6566)}}    % original
+%\rhead{\textrmlf{Compiled }\#6566\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#6566\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{introductions}{%
+\section{introductions}\label{introductions}}
+
+\hypertarget{grace-pan-harvard-class-2020}{%
+\subsection{grace pan, harvard class
+2020}\label{grace-pan-harvard-class-2020}}
+
+\hypertarget{social-studies}{%
+\subsection{social studies}\label{social-studies}}
+
+\hypertarget{econ-philosophy-political-science}{%
+\subsubsection{econ, philosophy, political
+science}\label{econ-philosophy-political-science}}
+
+\hypertarget{thesis-on-shanghai-change-from-communism-to-capitalism}{%
+\subsubsection{thesis on shanghai change from communism to
+capitalism}\label{thesis-on-shanghai-change-from-communism-to-capitalism}}
+
+\hypertarget{masters-student-at-columbia-university-in-econ-policy-management}{%
+\subsection{masters student at columbia university in econ policy
+management}\label{masters-student-at-columbia-university-in-econ-policy-management}}
+
+\hypertarget{benificial-to-think-about-leadership-from-earlier-on}{%
+\subsection{benificial to think about leadership from earlier
+on}\label{benificial-to-think-about-leadership-from-earlier-on}}
+
+\hypertarget{prefecthead-prefect-at-harvard-westlake-la-school}{%
+\subsection{prefect/head prefect at harvard westlake? LA
+school}\label{prefecthead-prefect-at-harvard-westlake-la-school}}
+
+\hypertarget{funzies}{%
+\subsection{funzies}\label{funzies}}
+
+\hypertarget{ballroomlatin-dancing}{%
+\subsubsection{ballroom/latin dancing}\label{ballroomlatin-dancing}}
+
+\hypertarget{ping-pong}{%
+\subsubsection{ping pong}\label{ping-pong}}
+
+\hypertarget{constantly-comparescontrasts-what-people-say-verbally-and-extracts-own-conclusions}{%
+\subsection{constantly compares/contrasts what people say verbally and
+extracts own
+conclusions}\label{constantly-comparescontrasts-what-people-say-verbally-and-extracts-own-conclusions}}
+
+\hypertarget{goes-around-and-says-things}{%
+\subsection{goes around and says things
+:/}\label{goes-around-and-says-things}}
+
+\hypertarget{what-type-of-leader-are-you}{%
+\section{what type of leader are
+you}\label{what-type-of-leader-are-you}}
+
+\hypertarget{a-list---emotional-impact}{%
+\subsection{a list - emotional impact}\label{a-list---emotional-impact}}
+
+\hypertarget{artisan---creativity-is-reward-process-itself}{%
+\subsection{artisan - creativity is reward (process
+itself)}\label{artisan---creativity-is-reward-process-itself}}
+
+\hypertarget{game-changer---break-boundaries-and-create-new-things}{%
+\subsection{game changer - break boundaries and create new
+things}\label{game-changer---break-boundaries-and-create-new-things}}
+
+\hypertarget{sensitive-souls---pour-feelings-into-art-explore-experiences-and-achieve-catharsis}{%
+\subsection{sensitive souls - pour feelings into art, explore
+experiences and achieve
+catharsis}\label{sensitive-souls---pour-feelings-into-art-explore-experiences-and-achieve-catharsis}}
+
+\hypertarget{activists---right-wrongs-and-change-the-world}{%
+\subsection{activists - right wrongs and change the
+world}\label{activists---right-wrongs-and-change-the-world}}
+
+\hypertarget{responses}{%
+\subsubsection{responses}\label{responses}}
+
+\begin{enumerate}
+\item
+  everyone is an a-lister
+\end{enumerate}
+
+\hypertarget{overview-finally}{%
+\section{overview, finally}\label{overview-finally}}
+
+\hypertarget{why-leadership}{%
+\subsection{why leadership}\label{why-leadership}}
+
+\hypertarget{why-do-we-need-leaders}{%
+\subsubsection{why do we need leaders?}\label{why-do-we-need-leaders}}
+
+\begin{enumerate}
+\item
+  ppl need some central ponit of contact
+\item
+  hope or something (god)
+\end{enumerate}
+
+\hypertarget{how}{%
+\subsubsection{how}\label{how}}
+
+\begin{enumerate}
+\item
+  deep understanding of what you are actually doing
+\item
+  hard work, set an example
+\end{enumerate}
+
+\hypertarget{what-do-they-do}{%
+\subsubsection{what do they do?}\label{what-do-they-do}}
+
+\begin{enumerate}
+\item
+  set an example
+\item
+  set a direction
+\item
+  critical thinking - how do you actually get there (diff skillset from
+  setting the direction)
+\end{enumerate}
+
+\hypertarget{martain-luther-king}{%
+\subsection{martain luther king}\label{martain-luther-king}}
+
+\hypertarget{he-shared-his-belief-and-people-showed-up-for-their-own-beliefs}{%
+\subsubsection{he shared his belief, and people showed up for their own
+beliefs}\label{he-shared-his-belief-and-people-showed-up-for-their-own-beliefs}}
+
+\begin{enumerate}
+\item
+  i have a dream not i have a plan
+\item
+  follow those who lead not for them, but for ourselves (simon sinek)
+\end{enumerate}
+
+\hypertarget{communicating-with-impact}{%
+\subsection{communicating with impact}\label{communicating-with-impact}}
+
+\hypertarget{paperclips-exercise}{%
+\subsubsection{paperclips exercise}\label{paperclips-exercise}}
+
+\begin{enumerate}
+\item
+  how many uses for a paperclip?
+
+  \begin{enumerate}
+  \item
+    paperclip
+  \item
+    chain
+  \item
+    belt
+  \item
+    lock pick
+  \item
+    colorful art thing
+  \item
+    insulated wire
+  \item
+    use the rubber coating to tie something
+  \item
+    bend into a mask nose support
+  \item
+    push the pin on your phone sim card tray
+  \item
+    fish stuff out from keyboard
+  \item
+    improvised needle
+  \item
+    pen holder
+  \item
+    keep your magnet away from other things
+  \item
+    bend into conductor for motor
+  \item
+    use as something around an axle
+  \item
+    fidget
+  \item
+    stick figures
+  \item
+    trading for a house
+  \item
+    melt into aluminum alloy
+  \item
+    close a chip bag or bag
+  \item
+    searing things together
+  \item
+    earings skin or something?
+  \item
+    utinsil
+  \item
+    decision spinner
+  \item
+    scalpel
+  \item
+    tweesers
+  \item
+    stencil
+  \item
+    clothes hanger
+  \item
+    clay tool / internal support
+  \end{enumerate}
+\item
+  conclusions
+
+  \begin{enumerate}
+  \item
+    given the same info, you get different conclusions
+  \item
+    need to 1. get your message across, and 2. be receptive towards new
+    ideas
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{clapping-exercise}{%
+\subsubsection{clapping exercise}\label{clapping-exercise}}
+
+\begin{enumerate}
+\item
+  darrow will clap a song, figure out what it is
+\item
+  the curse of knowledge
+
+  \begin{enumerate}
+  \item
+    getting info across can be frustrating to everyone
+  \item
+    it was happy birthday bc thats the only song everyone knows\ldots{}
+    i gave up bc i thought i wouldn't know it so maybe don't do that
+  \item
+    if something isn't working communication wise, try a different
+    method and stuff
+  \item
+    rational analysis - what info do I have that they don't, or what is
+    a difference in our identities/backgrounds so that I can communicate
+    correctly
+
+    \begin{enumerate}
+    \item
+      ask what they don't understand or ask the other person to say what
+      they heard in their own words
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{negotiation}{%
+\subsection{negotiation}\label{negotiation}}
+
+\hypertarget{communication-when-your-partner-has-a-conflict-of-interest-anytime-you-are-trying-to-influence-or-persuade-another-person}{%
+\subsubsection{communication when your partner has a conflict of
+interest, anytime you are trying to influence or persuade another
+person}\label{communication-when-your-partner-has-a-conflict-of-interest-anytime-you-are-trying-to-influence-or-persuade-another-person}}
+
+\hypertarget{comprimise-vs-no-comprimise}{%
+\subsubsection{comprimise vs no
+comprimise?}\label{comprimise-vs-no-comprimise}}
+
+\begin{enumerate}
+\item
+  on one hand, the compromise wont make anyone happy
+\item
+  delegate some tasks to some people because they know better
+\item
+  find a common goal and work from there
+\end{enumerate}
+
+\hypertarget{monty-python-name-of-brian-negotion}{%
+\subsubsection{monty python name of brian
+negotion}\label{monty-python-name-of-brian-negotion}}
+
+\begin{enumerate}
+\item
+  relationship might bring more money in the future
+\item
+  tax bracket, or maybe his own supplier will rase the price
+\item
+  breadcast the message that the person is fair, invite other buyers to
+  also come in
+\item
+  seller has more than just the short term interest of selling the one
+  item
+\item
+  intentions may be hidden or counterintuitive, your job when
+  negotiating is to determine what interests are at stake {\textsc{sum}}
+\end{enumerate}
+
+\hypertarget{takeaways}{%
+\section{takeaways}\label{takeaways}}
+
+\hypertarget{types-of-leaders-framework-leadership-position-vs-ppl-who-lead-curse-of-knowledge-people-follow-leaders-for-themselves-so-have-a-vision-not-a-plan}{%
+\subsection{types of leaders framework, leadership position vs ppl who
+lead, curse of knowledge, people follow leaders for themselves, so have
+a vision not a
+plan}\label{types-of-leaders-framework-leadership-position-vs-ppl-who-lead-curse-of-knowledge-people-follow-leaders-for-themselves-so-have-a-vision-not-a-plan}}
+
+\hypertarget{pangrace00-at-gmail}{%
+\subsection{pangrace00 at gmail}\label{pangrace00-at-gmail}}
+
+\end{document}

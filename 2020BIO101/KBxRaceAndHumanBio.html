@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title>  </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong></strong> </span></div>
+        </div>
+        <div id="center-viewport">
+            <table>
+            <tbody>
+            <tr class="odd">
+            <td style="text-align: left;">title: HW: Race and human biology/genetics</td>
+            </tr>
+            <tr class="even">
+            <td style="text-align: left;">context: BIO201</td>
+            </tr>
+            <tr class="odd">
+            <td style="text-align: left;">author: Huxley</td>
+            </tr>
+            <tr class="even">
+            <td style="text-align: left;">source: #index</td>
+            </tr>
+            </tbody>
+            </table>
+            <p>#ret</p>
+            <div class="center">
+            <hr />
+            </div>
+            <p><strong>QUESTIONS:</strong></p>
+            <p><strong>Reflect on what you learned from this resource about the connection between science/medicine and ideas about race:</strong></p>
+            <ol>
+            <li><p><strong>What resource did you choose and what important ideas did you explore that you would hope could be known more widely?</strong> I chose the final Ted Talk, <a href="https://www.youtube.com/watch?v=QOSPNVunyFQ">Skin Color is an Illusion</a>. It talked about the important ideas surrounding different skin colors and their health implications in relation to vitamin D.</p></li>
+            </ol>
+            <div class="center">
+            <hr />
+            </div>
+            <ol>
+            <li><p><strong>What was most surprising or interesting to you in particular and why?</strong> I didn’t know Darwin didn’t pick up on the connection between geography and skin color. I always assumed he had.</p></li>
+            </ol>
+            <div class="center">
+            <hr />
+            </div>
+            <ol>
+            <li><p><strong>How should science and/or medicine address their role in perpetuating ideas about race and racism? (you can focus on the specific issue you explored or think more broadly here). If your resource didn’t feel focused enough to answer this question, fell free to instead tell me more here about what you learned and how it connects to the genetics stuff we’ve been learning in class.</strong> I don’t view the entirety of <code>science</code> or <code>medicine</code> as entities. Science cannot act. I would argue instead that <code>science</code> is a way of viewing the world, and perhaps the knowledge collected from this lens. People can get it wrong, but the concept of <code>science</code> or <code>medicine</code> is not the problem. Instead, <code>science</code> is being wielded poorly. Frankly, fundamentally, the problem lies in larger issues and biases. Supposed <code>science</code> has and will continue to be twisted into whatever before being presented to the media.</p></li>
+            </ol>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

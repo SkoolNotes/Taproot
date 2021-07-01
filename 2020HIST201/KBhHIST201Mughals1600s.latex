@@ -1,0 +1,541 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Mughals in the 1600s }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}1653)}}    % original
+%\rhead{\textrmlf{Compiled }\#1653\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#1653\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{mughals-in-the-1600s}{%
+\section{Mughals in the 1600s}\label{mughals-in-the-1600s}}
+
+\#flo \#disorganized
+
+\begin{itemize}
+\item
+  Akbar's rule of the Mughals
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Tried to align his subject's interests to the Mughal's interest
+  \item
+    Goal was to maintain adequate compensation and preventing officials
+    form unjust enrichment by overtaxing the peasants who could then not
+    work on government projects
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Directed administration to award land revenue salary instead of
+      assigning land
+    \item
+      Value of government official based on cost w.r.t. operating
+      military men
+
+      \begin{itemize}
+      \tightlist
+      \item
+        a local commander = 500 men
+      \item
+        a provincial government = 5000 men
+      \end{itemize}
+    \item
+      First model of separation of powers between government and
+      military
+    \item
+      Prevented financial corruptiona
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Made constant transfers and deferrals
+      \item
+        Prevented passing on of wealth to offspring
+      \end{itemize}
+    \item
+      His minister, Todar Mal, made tax collection proportional to value
+      generation
+
+      \begin{itemize}
+      \tightlist
+      \item
+        So bad crop year could pay less tax
+      \item
+        Prevented overluxuriation and benefitted peseants
+      \end{itemize}
+    \end{itemize}
+  \item
+    Favored appointement of native born over foreign --- due to pledges
+    of loyalty to Mughal state: promoting religious indignity
+  \end{itemize}
+\item
+  CLAIM: Melded together Mughal and indigenous elites
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Encouraged intermarriage
+  \item
+    Reformes aimed at selling Mughal to other people
+  \item
+    All official appointments are treated as gifts from the emperor
+  \item
+    Gave grants to Muslim and Hindu cultural institutions
+  \item
+    Supported the arts and sciences
+  \end{itemize}
+\item
+  Akbar made empire popular by pimping it up
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Improved living quaters
+  \item
+    Regulation of school
+  \item
+    System of laws
+  \item
+    Challenged the patriarchy and improved the role of woman
+  \item
+    Discouraged child marriages and encouraged remarrying of widowns
+  \end{itemize}
+\item
+  Intended all of his social reform to support his object of
+  \emph{sulh-i-kul} =\textgreater{} universal harmony. (Not a fan of
+  \emph{raison d'etat, I see})
+\item
+  The Porchuguese
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Acted as middlemen between Venitians, Arabs, and Turks
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Traded spices and cotton
+    \item
+      Served as foundation of Western medicines
+    \item
+      De Gama's Explorations
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Invaded port of good hope in Africa
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Disguised as Muslim traders
+        \item
+          When about to be kicked out, fought and burned the city
+        \end{itemize}
+      \item
+        Zamorin also got scammed by de Gama too
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Convinced that he was a pirate
+        \item
+          Did not drive off, and permitted to trade
+        \item
+          Kidnapped some local fishermen for crew along the way
+        \end{itemize}
+      \end{itemize}
+    \item
+      Evenutally, setup a larger network of trade
+    \end{itemize}
+  \end{itemize}
+\item
+  Mughals saw the Porchuguese, and wanted to curtail them
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Resorted to a model of compromise =\textgreater{} "Gave free passage
+    to ships in exchange for pilgrims on their way to Mecca
+  \item
+    Porchuguese, Dutch, and English collectively tried te "interfere in
+    international shiping
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Seisure of a ship by practicing Hindu
+    \end{itemize}
+  \item
+    Mughals eventually partnered with english and dutch to try to
+    curtail the porchuguese and create competiton
+  \item
+    English and Dutch both adopted the porchuguese model
+  \item
+    Mugals tried to create strategic partnership with European cultures
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Ordered christian symbolism to be painted
+    \item
+      Europeans impressed with Mugal style that Mogul became associated
+      with power
+    \end{itemize}
+  \end{itemize}
+\item
+  Aurangzeb's rule
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Orthodox muslim
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Took religious values over tradition
+    \item
+      Dismaltiled Mughal's multicultralism
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Banned music and dance
+      \item
+        Enforced islam codes of pubilc conduct via censors
+      \item
+        Halt constructions of new Hindu temples
+      \item
+        Attack established structuers
+      \item
+        Reimposed the jizya payment in leu of state service that is
+        demanded from non-muslims
+      \item
+        Enforced system of jizya payments that had to be done while
+        chanting about inferoity
+      \item
+        Opposed appointing hindus to highest ranks
+      \end{itemize}
+    \item
+      Hindus and other non-muslim cultural icons lamented this
+    \item
+      Shah Janan's army campaigns increased tax revenue to meet higher
+      expectations
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Hindu agricultural exploration fell hardest
+      \item
+        Shivaji contradicted the Mughal court
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Which means, he got quickly struck down
+        \item
+          Escaped the court, and went to the Marathas
+        \item
+          1674-1680 started invading Mughals in gurilla campaigns
+        \item
+          Which, is a self-deprecating loop --- causing Auranzb to
+          invest even MORE moneyon fighting
+
+          \begin{itemize}
+          \tightlist
+          \item
+            Created the Marathas empire
+          \end{itemize}
+        \end{itemize}
+      \item
+        Muhammed Akbar opposed his fathers rules
+
+        \begin{itemize}
+        \tightlist
+        \item
+          Fled to Arabia
+        \item
+          Tortured and killed son of Shiviaji
+        \end{itemize}
+      \end{itemize}
+    \item
+      Also started a struggle with the Briting East India Company
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Started complaining of higher taxes
+      \item
+        Interpreted their license to say that they would only need to
+        pay taxes at major international ports
+      \item
+        In defense, the company declared war against the Mughals
+      \item
+        The Mughals retailated by destroying corporate stations
+      \item
+        Eventually forced negotiations to sink Muslim ships bound for
+        Mecca
+      \item
+        Eventually forced back into trade negotiations after a larger
+        fine
+      \item
+        This incident humiliated both the Mughals and the company ---
+        displeasing European directors
+      \end{itemize}
+    \item
+      Fights of independence broke out amoung the Marathas and the
+      Hindu-predominant north between 1674-1680
+    \end{itemize}
+  \item
+    In the end, Aurangzeb ended his life noting ``I don't know who I am,
+    nor what I have been doing''
+  \item
+    Marathas won great parts of Mughal territory
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Empire's rulers force to pay tribute to Marathas
+    \item
+      Others paid a largely symbolic to the Mughals
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\#disorganized \#flo
+
+\begin{itemize}
+\tightlist
+\item
+  India is very hard to rule in a very centralized way
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Deccan plateu to the south
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Hard to conquer
+    \item
+      Have to re-conquer because people did not respect his rule
+    \end{itemize}
+  \item
+    Gangatic plain to the north
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Easy to conquer
+    \end{itemize}
+  \item
+    Rajputs
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Small city-states with isolated rules
+    \item
+      With independent principalities
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+And now, we are comparing palaces?
+
+\begin{itemize}
+\tightlist
+\item
+  Chende constructed to match people's religions
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Instead of meeting people in the impressively Han seat of power,
+    meet at a more relaxed place
+  \item
+    Both asserted power in the main palace and appeased ethnicity in the
+    summer palace
+  \end{itemize}
+\item
+  Agra constructed to be a mix of religions
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Instead of meeting people in the strictly Muslim seat of power, meet
+    at a more\ldots. fortified place
+  \item
+    Both asserted power in to Tokata and appeased ethnicity in the
+    summer palace
+  \end{itemize}
+\end{itemize}
+
+\end{document}

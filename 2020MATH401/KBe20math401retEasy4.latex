@@ -1,0 +1,277 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{}
+\newcommand{\thelesson}{ Calc easy 4 }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBe2020math401index}{\tiny\textulf{[[}\textbf{KBe2020math401index}\textulf{]]}}}\thinspace
+
+\hypertarget{problems-on-slide-38}{%
+\section{Problems on slide 38}\label{problems-on-slide-38}}
+
+\hypertarget{problem-36}{%
+\subsection{Problem 36}\label{problem-36}}
+
+\[
+\begin{aligned}
+\lim_{x\to 0}\sqrt{x^3+x^2} sin\frac{\pi}{x}=0
+\\& -1 \le sin\frac{\pi}{x} \le 1 \\&\therefore -\left| x \sqrt{x+1} \right| \le x \sqrt{x+1} sin \frac{\pi}{x}\lt \left| x \sqrt{x+1}\right|
+\end{aligned}
+\] \includegraphics{./Pastedimage20200923221014.png} \[
+\begin{aligned}
+\lim_{x\to 0} -\left|x\sqrt{x+1}\right| = -\left|0\sqrt{1}\right| = 0\\
+\lim_{x\to 0} \left|x\sqrt{x+1}\right| = -\left|0\sqrt{1}\right| = 0\\
+\therefore \lim_{x\to 0} = \sqrt{x^3+x^2}\sin\frac{\pi}{x} = \boxed{0}
+\end{aligned}
+\]
+
+\hypertarget{problem-37}{%
+\subsection{Problem 37}\label{problem-37}}
+
+\[
+\begin{aligned}
+\lim_{x\to 4}4x-9 = 4(4)-9 = 16-9 = 7\\
+\lim_{x\to 4}x^2-4x+7 = 4^2 - 4(4) + 7 = 7\\
+4x-9 \le f(x) \le x^2 - 4x+7\\
+\therefore \lim_{x\to 4}f(x) = \boxed{7}
+\end{aligned}
+\]
+
+\hypertarget{problem-38}{%
+\subsection{Problem 38}\label{problem-38}}
+
+\[
+\begin{aligned}
+\lim_{x\to 1}2x = 2(1) = 2\\
+\lim_{x\to 1}x^4-x^2+2 = 1 - 1 + 2 = 2\\
+2x \le g(x) \le x^2 - x^2 + 2\\
+\therefore \lim_{x\to 1}g(x) = \boxed{2}
+\end{aligned}
+\]
+
+\hypertarget{problem-39}{%
+\subsection{Problem 39}\label{problem-39}}
+
+This one is doable by just saying that
+\(\lim\limits_{x\to 0}x^4cos\frac{2}{x} = \lim\limits_{x\to 0} x^4 \lim\limits_{x\to 0}cos\frac{2}{x} = 0\left(\lim\limits_{x\to 0} cos\frac{2}{x}\right) = 0\).
+
+But we can also do it properly: \[
+\begin{aligned}
+-1 \le cos\frac{2}{x}\le 1\\
+\therefore -x^4 \le x^4 cos\frac{2}{x} \le x^4\\
+\lim_{x\to 0} -x^4 = 0 = \lim_{x\to 0} x^4 \\
+\therefore \lim_{x\to 0}x^4cos\frac{2}{x} = \boxed{0}
+\end{aligned}
+\]
+
+\hypertarget{problem-40}{%
+\subsection{Problem 40}\label{problem-40}}
+
+\begin{itemize}
+\tightlist
+\item
+  inspired by
+  \href{https://github.com/perfectblue/ctf-writeups/tree/master/2020/csaw-quals-2020/take-it-easy}{GUESS
+  GOD}
+\end{itemize}
+
+So originally you notice that \(\sqrt{0}\) is just \(0\) so the thing is
+going to be zero in the end either way
+
+But we can guess god our way to the nice functions using this graph
+
+\includegraphics{./Pastedimage20200923222859.png}
+
+So we know from earlier that \(-1 \le sin\frac{\pi}{x} \le 1\) and like
+taking a psotivie numebr to a power is not gonn make it negative so like
+\(e^{sin\frac{\pi}{x}}\) is gonna be more den \(0\)
+
+oh and also because the sin power thingjust makes it fluctuate - we can
+prolly ignore that entire term and just try \(\sqrt{x}\)
+
+except sike it's too low it needs to be bigger
+
+\begin{itemize}
+\tightlist
+\item
+  maybe just multpily by \(e\) liek \(\sqrt{x}e\)
+\end{itemize}
+
+great so now we have an upper bound and the lower bound is zero so that
+works except maybe we can make a :sunglasses:-er one? - guess god strats
+maybe it's the lower bound of the \(\sin{\frac{\pi}{x}}\) exponent so
+like \(\sqrt{x}e^{-1}\) and yup thats' work guess god strat always wins
+
+Here's the actual ``writeup'' \[
+\begin{aligned}
+-1 \le sin{\frac{\pi}{x}} \le 1\\
+\therefore& e^{-1} \le e^{sin{\frac{\pi}{x}}} \le e^1\\
+\therefore& \sqrt{x}e^{-1} \le \sqrt{x}e^{sin\frac{\pi}{x}} \le \sqrt{x} e\\
+\lim_{x\to 0^+} \sqrt{x}e^{-1} = \sqrt{0}e^{-1} = 0\\
+\lim_{x\to 0^+} \sqrt{x}e = \sqrt{0}e = 0\\
+\therefore& \lim_{x\to 0^+}\sqrt{x}e^{sin\frac{\pi}{x}} = \boxed{0}
+\end{aligned}
+\] thanks for coming to my ted talk
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}

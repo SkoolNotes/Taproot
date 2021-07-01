@@ -1,0 +1,234 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Collaborative Matrix Equations and RREF }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5118)}}    % original
+%\rhead{\textrmlf{Compiled }\#5118\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5118\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{when-is-it-possible-to-transform-the-coefficient-matrix-into-the-identity-matrix}{%
+\section{When is it possible to transform the coefficient matrix into
+the identity
+matrix?}\label{when-is-it-possible-to-transform-the-coefficient-matrix-into-the-identity-matrix}}
+
+When the matrix is square and has an inverse.
+
+\hypertarget{what-should-rref-be}{%
+\section{What should RREF be?}\label{what-should-rref-be}}
+
+If we are trying to get "as close as possible" to the identity, then we
+should prioritize the top left corner. So, for a non-square matrix RREF
+is the matrix where the top or left square is the identity matrix and
+everything else is zero, or failing the zeros everything else is as many
+zeros as possible, or failing that just anything. If the top/left square
+cannot be the identity matrix, then fill in as large an identity matrix
+as possible. Here are some examples in order of best to worst.
+
+\hypertarget{largest-square-identity-intact}{%
+\subsection{Largest square identity
+intact:}\label{largest-square-identity-intact}}
+
+\[
+   \begin{pmatrix}1&0&0&0\\0&1&0&0\\0&0&1&0\end{pmatrix} >
+   \begin{pmatrix}1&0&0&0\\0&1&0&0\\0&0&1&1\end{pmatrix} >
+   \begin{pmatrix}1&0&0&1\\0&1&0&0\\0&0&1&0\end{pmatrix} >
+   \begin{pmatrix}1&0&0&0\\0&1&0&1\\0&0&1&1\end{pmatrix} >
+   \begin{pmatrix}1&0&0&1\\0&1&0&1\\0&0&1&1\end{pmatrix} >
+   \]
+
+\hypertarget{maximize-identity-square}{%
+\subsection{Maximize identity square:}\label{maximize-identity-square}}
+
+\[
+   \begin{pmatrix}1&0&0&0\\0&1&0&0\\0&0&2&0\end{pmatrix} >
+   \begin{pmatrix}1&0&0&0\\0&1&0&0\\0&1&1&0\end{pmatrix} >
+   \begin{pmatrix}1&1&0&0\\0&1&0&0\\0&0&1&0\end{pmatrix} >
+   \begin{pmatrix}0&1&0&0\\0&1&0&0\\0&0&1&0\end{pmatrix}
+   \]
+
+\hypertarget{find-the-column-space-and-null-space-of-the-matrices}{%
+\section{Find the column space and null space of the
+matrices?}\label{find-the-column-space-and-null-space-of-the-matrices}}
+
+\hypertarget{beginpmatrix1212011-20endpmatrix}{%
+\subsection{\texorpdfstring{\(\begin{pmatrix}1&2&1\\2&0&1\\1&-2&0\end{pmatrix}\)}{\textbackslash begin\{pmatrix\}1\&2\&1\textbackslash\textbackslash2\&0\&1\textbackslash\textbackslash1\&-2\&0\textbackslash end\{pmatrix\}}}\label{beginpmatrix1212011-20endpmatrix}}
+
+RREF:
+\(\begin{pmatrix}1&0&\frac{1}{2}\\0&1&\frac{1}{4}\\0&0&0\end{pmatrix}\)
+Column space: vectors of the form \((x, y, 0) : x, y \in \mathbb F\).
+Null space: vectors of the form \((4x, 2x, -x)\).
+
+\hypertarget{beginpmatrix1-10311endpmatrix}{%
+\subsection{\texorpdfstring{\(\begin{pmatrix}1&-1\\0&3\\1&1\end{pmatrix}\)}{\textbackslash begin\{pmatrix\}1\&-1\textbackslash\textbackslash0\&3\textbackslash\textbackslash1\&1\textbackslash end\{pmatrix\}}}\label{beginpmatrix1-10311endpmatrix}}
+
+RREF: \(\begin{pmatrix}1&0\\0&1\\0&0\end{pmatrix}\) Column space:
+vectors of the form \((x, y, 0)\). Null space: 0.
+
+\hypertarget{beginpmatrix10242-101endpmatrix}{%
+\subsection{\texorpdfstring{\(\begin{pmatrix}1&0&2&4\\2&-1&0&1\end{pmatrix}\)}{\textbackslash begin\{pmatrix\}1\&0\&2\&4\textbackslash\textbackslash2\&-1\&0\&1\textbackslash end\{pmatrix\}}}\label{beginpmatrix10242-101endpmatrix}}
+
+RREF: \(\begin{pmatrix}1&0&2&4\\0&1&4&7\end{pmatrix}\) Column space:
+vectors of the form \((x, y)\). Null space: \((w, x, y, z)\) where
+\(x = -2y - 4 z\) and \(y = -4y -7z\).
+
+\end{document}

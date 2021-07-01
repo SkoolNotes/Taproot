@@ -1,0 +1,488 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ HIST201 }
+\newcommand{\thelesson}{ Communism }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}5607)}}    % original
+%\rhead{\textrmlf{Compiled }\#5607\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#5607\textrmlf{ on} \today}       % new date
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBhHIST201MasonCh5}{\tiny\textulf{[[}\textbf{KBhHIST201MasonCh5}\textulf{]]}}}\thinspace
+
+\hypertarget{communism}{%
+\section{Communism (!!!)}\label{communism}}
+
+Communism is a derivative branch of socialism --- that society should be
+built bottom-up with resources shared --- which is in itself a form of
+{[}{[}KBhHIST201Nationalism{]}{]}
+
+\hypertarget{the-communist-manifesto}{%
+\subsection{The Communist Manifesto}\label{the-communist-manifesto}}
+
+\begin{itemize}
+\tightlist
+\item
+  Written by two German exiles (Karl Marx + Friedrich Engels)
+\item
+  Called for worldwide \emph{Worker's Revolution} =\textgreater{}
+  overthrow capitalism + establish fully public property
+\item
+  Marked the emergence of socialism that, CLAIM, would become a powerful
+  force for change in Europe
+\end{itemize}
+
+\hypertarget{spread-of-socialism}{%
+\subsubsection{Spread of socialism}\label{spread-of-socialism}}
+
+\begin{itemize}
+\tightlist
+\item
+  By 1883, Marxist societies spread all over Europe
+\item
+  Russia was seized in the 1917 communist revolutions =\textgreater{}
+  First Marxist country started (USSR)
+\end{itemize}
+
+\hypertarget{maxist-ideologies}{%
+\subsection{Maxist Ideologies}\label{maxist-ideologies}}
+
+CLAIM: a product of the Englignment and in fact has been around for a
+while.
+
+\begin{itemize}
+\tightlist
+\item
+  Reflect Enlightenment scientific, historical, and human condition
+  believes
+\item
+  Inspired by the French Rev + ``Liberte, egalite, fratenete''
+\end{itemize}
+
+\hypertarget{the-guy}{%
+\subsubsection{The Guy}\label{the-guy}}
+
+\begin{itemize}
+\item
+  Born in 1818 in Prussia to Jewish parents
+\item
+  father was a lawyer + studied enlightenment philosophers such as Kant
+  and Voltaire
+\item
+  Advocate for Prussian Constitutionalism
+\item
+  Educated in Germany + recieved Dr.~of Phil at Jena
+\item
+  Edited the \emph{Rheininsche Zeitung}, but was shut down due to its
+  outspoken nature
+\item
+  Exiled to Paris with wife + met Friedrich Engels, but both were later
+  exiled from France and so they moved to Brussles
+\end{itemize}
+
+\textbf{Marx's Short Trip Around the World}
+
+\begin{itemize}
+\tightlist
+\item
+  Marx returned to Prussia temporarily + took a more moderate stance
+  advocating for democracy
+\item
+  When 1848's Summer brought the King of Prussia to cut back on the
+  democracy, Marx became more radical
+\item
+  Eventually, he was banished again --- first to France, and
+  subsequently London
+\end{itemize}
+
+Only involve in activism was the People's Spring; lived in poverty +
+subsisted on bread and potateos.
+
+\textbf{Death}
+
+Suffered from ``chronic mental depression'' for he saw little hope for
+the proletariat Advocated for a war to overthrow Russia, conservatism,
+etc. This, of course, did happen, but that's called WWI
+
+\hypertarget{the-manifesto}{%
+\subsubsection{The Manifesto}\label{the-manifesto}}
+
+Created after the Marx and Engels joined the \emph{Communist League},
+promoting a more extreme sect of socialism.
+
+Published the Manifesto in Jan 1848, a 23 page phamplet outlining the
+sect's vision.
+
+The opening lines of the document claimed that a ``specter'' of
+Communism is ``Haunting'' Europe, and that the traditional \emph{Holy
+Alliance} (pope, Russian tsar, and ministers of Austria and France) were
+aiming to rid of the specter
+
+\textbf{Historical Materialism, Class Conflict, and Proletarian
+Revolution} is at the heart of Marxist theory. That ``history should not
+be understood as \ldots{} {[}that{]} of great individuals but of social
+classes and their struggles.''
+
+Class struggle w.r.t. capitalism is that between the bourgeoisie (owners
+of capital) and the proletariat (workers/producers of capital.) Claims +
+calls to action a overthrowing of the bourgeoisie by the proletariat to
+create an egalitarian and classless society
+
+Marx and Engels thought the Paris' June Days as an imminent sign of
+revolution.
+
+\hypertarget{the-first-international}{%
+\subsection{The First International}\label{the-first-international}}
+
+A antecedent of what became the Communist Party of the Soviet Union.
+
+The organization rapidly expanded and grew to about 800,000 adherents by
+1849, but CLAIM: failed due to the infighting caused by yet another
+Paris Revolution + increased acceptance to reform instead of revolution.
+
+\hypertarget{f.i.-failures}{%
+\subsubsection{F.I. Failures}\label{f.i.-failures}}
+
+Marx and Engels thinks that a ``dictatorship of the proletariat'' was
+the first step towards full-on communism, making them support the Paris
+Commune + its violence. But! the First International contradicted their
+opinion leading to internal debate.
+
+\textbf{English Reform Bill} and the other systems of reform around the
+time gave renewed hope on the possibility of reform.
+
+\hypertarget{marxist-theory-at-a-glance}{%
+\subsection{Marxist Theory, at a
+glance}\label{marxist-theory-at-a-glance}}
+
+Marx think that Industrial Rev-brought machines makes people's lives
+worse b/c is performs the division of labor and hence is used as an
+additional instrument of the capitalist. By leveraging machines + wages,
+capitalists are getting richer and richer though making the poor poorer.
+``Instead of selling a product, the laborer must sell part of his own
+being as property.''
+
+As machines create undifferentiated labor, the price of individual
+dropped and productivity increased.
+
+In general, Marx believed that the \emph{means of subsistence} should be
+regularly provided + covered by average income.
+
+Most important work are in the \emph{Communist Manifesto} and \emph{Das
+Kapital} =\textgreater{} provided a ``scientific'' approach to history +
+economics that reflects 19th century lit trends w/ the development of
+realism.
+
+Believes that there are branches of socialism that was too Utopian and
+less ``scientific'' as his.
+
+\hypertarget{historical-materialism}{%
+\subsubsection{Historical Materialism}\label{historical-materialism}}
+
+That all things have a material basis, and so does historical
+development. Believed that history could be analyzed through the
+analysis of the \emph{means of production} of a place.
+
+\textbf{Means of Production}
+
+\begin{itemize}
+\tightlist
+\item
+  Land in a feudal society
+\item
+  Factories in a capitalistic society
+\end{itemize}
+
+Believes that the owners of the \emph{means of production} is also the
+dominators of society.
+
+\hypertarget{societal-substructures}{%
+\subsubsection{Societal Substructures}\label{societal-substructures}}
+
+The owners of the \emph{means of production} control systems in society
+called \emph{societal substructures}. Among these substructures are
+economy, political system, relationships, culture, religion, and, this
+is cool, \textbf{human freaking consciousness}. In other words, all
+these things are controlled by those who are in control of the means of
+production.
+
+According to the duo, all of these substructures are instruments that
+the dominant uses to keep the lower classes in their place.
+
+\hypertarget{historical-pathways}{%
+\subsubsection{Historical Pathways}\label{historical-pathways}}
+
+Marx thinks that every society is traveling along predetermined
+pathways, that societies\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  Begin with a communal stage
+\item
+  Move into slavery (with master-slave-dominance)
+\item
+  Then into feudalism (with lord-subject-dominance)
+\item
+  and into capitalism (with owner-worker dominance)
+\item
+  and finally into communism (yay!)
+\end{itemize}
+
+Each of these pathways creates its \emph{dialectic} --- that each states
+sowed the seeds of the next and of its own destruction. \textbf{Class
+consciousness} develop in a community overtime --- where each lower
+class realize that they have nothing to gain and resort to revolution.
+
+Based on this believe, Marx thinks that capitalism is on its way out in
+places like England, France, and Germany.
+
+\hypertarget{economic-determinism}{%
+\subsubsection{Economic determinism}\label{economic-determinism}}
+
+If you could get ahold of the economy, you control much of other things
+in society.
+
+\hypertarget{communistic-utopia}{%
+\subsection{Communistic Utopia}\label{communistic-utopia}}
+
+\begin{quote}
+when the workers own the means of pro- duction, the entire economic
+substructure will collapse and re-form, as will the superstructure of
+society. Social classes will disappear
+\end{quote}
+
+Believes that capitalism has provided the background onto which
+everyone's basic needs could be satisfied if even distribution of goods
+were supplied.
+
+Creates a meritocracy of sorts where earnings are distributed based on
+abilities, needs, and contribution. =\textgreater{} each person
+contributes their specialization and get what they need generally in
+return.
+
+Believes that, once implemented, human nature will change no longer
+yearn for capitalistic shows of wealth (say, a yacht) and instead will
+foster cooperation and solidarity.
+
+Through this, poverty will also be gone. And so apparently crime, greed,
+and competition will too ``wither away'' according to Engels. This would
+later contribute to the lack of necessity for states, and eventually
+we'd be a whole happy planet of happy people.
+
+\hypertarget{in-soviet-russia-and-elsewhere}{%
+\subsection{In Soviet Russia and
+elsewhere}\label{in-soviet-russia-and-elsewhere}}
+
+Pre-1905 Russia had little political freedom. Russian exiles in
+Switzerland took advantage of communistic ideals and formed the basis of
+Marxism in Russia --- an attempted repositioning of Russia to fix its
+despotic problems.
+
+WWI weakened the Russian state, and, in 1917, the Communist
+\emph{Bolshevik} lead by Lenin seized power.
+
+Lenin established a new set of protocols based on Marxist ideas named
+Marxism-Leninism --- uniting the Communist factions until collapse in
+1991.
+
+WWII weakened Chinese, Eastern European, NK, South Asia, and Cubans
+states, and they all decided to give communism a go to various degrees
+of success.
+
+\hypertarget{cn-11182020}{%
+\subsection{CN 11182020}\label{cn-11182020}}
+
+\#disorganized \#flo
+
+\begin{itemize}
+\tightlist
+\item
+  Gig working is cheaper, until machines happened:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Looms =\textgreater{} Power Loom --- machines could no longer fit in
+    a ``cottage''
+  \item
+    Transitioned from local economy to being consolidated in cities
+  \end{itemize}
+\item
+  After the establishment of minimum work age (10), progressive
+  schooling occurred =\textgreater{} ``what are we to do with
+  non-working kids with working parents?''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Elementary school designed to create a national citizen
+  \end{itemize}
+\item
+  IR: \textbf{the market is dictated by the machine}
+\item
+  Marx: repositioning perspective around labor
+\end{itemize}
+
+\begin{quote}
+No ethical consumption in capitalism
+\end{quote}
+
+\end{document}

@@ -1,0 +1,359 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ML201 }
+\newcommand{\thelesson}{ Data Analysis Exercise }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13627)}}    % original
+%\rhead{\textrmlf{Compiled }\#13627\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
+\lfoot{Huxley \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\#ref \#ret
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\%\%For \textbf{each} of the four scenarios below, answer the following
+questions. Please explain where your targets/rewards would come from
+(\#2), how you would make your inputs numerical (\#3), and a bit of your
+reasoning on ethical issues (\#6). Other questions do not need
+explanation.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  What type of machine learning problem (regression, classification,
+  clustering, generation, reinforcement learning) do you think this is?
+\item
+  If this is a supervised problem, what will you use as your targets
+  (aka labels)? If it is reinforcement learning, what will you use as
+  your rewards? If it is unsupervised, just say ``unsupervised''.
+\item
+  What processing do you need to do to your input data?
+\item
+  What type(s) of model(s) would you try? You may need to combine
+  models. Remember to start with the simplest thing that might work!
+  Types of models we've talked about are linear regression, decision
+  trees, random forest, logistic regression, naive bayes, support vector
+  machines, K-means, DBSCAN, hierarchical clustering, fully connected
+  neural networks, convolutional neural networks, recurrent neural
+  networks, generative adversarial networks, deep Q learning, and
+  evolutionary methods.
+\item
+  What validation metric(s) would you use to decide how well you're
+  doing?
+\item
+  What ethical challenges do the data collection, creation, and/or use
+  of this model create? If you feel there aren't any, just say
+  ``None''.\%\%
+\end{enumerate}
+
+\hypertarget{scenarios}{%
+\subsubsection{Scenarios:}\label{scenarios}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{You want your model to learn to play
+  \href{https://en.wikipedia.org/wiki/Frogger}{Frogger}.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Reinforcement learning
+  \item
+    Points, as given by the game.
+  \item
+    The agent would be passed some input vector with a grid representing
+    the game, perhaps in addition to some extra normalized variables
+    like time left and goals filled.
+  \item
+    Perhaps deep Q learning with an RNN to be able to process different
+    obstacle speeds.
+  \item
+    Regret
+  \item
+    Botting in video games, when the same techniques are applied to
+    multiplayer?
+  \end{enumerate}
+\item
+  \textbf{You would like a model to write tweets in the style of a
+  particular author.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Generation
+  \item
+    Unsupervised
+  \item
+    Padding, byte pair encoding, tokenization, ect.
+  \item
+    GAN, RNN / LSTM for generator, RNN for discriminator
+  \item
+    Human evaluation
+  \item
+    Could be used to fake tweets or impersonate people which has many
+    larger implications. Data harvesting might also be a problem.
+  \end{enumerate}
+\item
+  \textbf{A company would like to be able to predict the next months'
+  sales for each of its products. You have a dataset that the company
+  has collected for many years, with data for a particular product on a
+  particular month in each row. Each row contains the number of sales
+  for the month, the number of sales from the previous month, the
+  average rating (1-5) of the product in the previous month, the number
+  of reviews in the previous month, the product type (e.g.~``toaster'',
+  ``coffee maker'', ``rice cooker''), its price the previous month, and
+  its price for the current month.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Regression
+  \item
+    The number of sales for the month in the collected dataset
+  \item
+    Normalize average rating, OHE product type
+  \item
+    FNN
+  \item
+    R\^{}2
+  \item
+    None
+  \end{enumerate}
+\item
+  \textbf{You would like to predict the presence of a certain disease
+  using chest x-ray data. You have a lot of x-ray images, a small amount
+  of which have been labeled as having the disease or not having the
+  disease. The rest of the images are unknown as to whether or not the
+  person has the disease.}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Classification
+  \item
+    Semi-supervised, using the provided labels as well as generated
+    pseudo-labels
+  \item
+    Down-sampling, grayscale?
+  \item
+    CNN
+  \item
+    F-score
+  \item
+    Model explainability challenges, covered in our ethics presentation
+    last semester in ML.
+  \end{enumerate}
+\end{enumerate}
+
+\%\%\#\#\# Example:
+
+Here is an example answer, taken from
+\url{http://archive.ics.uci.edu/ml/datasets/Abalone}:
+
+Scenario: You want to predict the age of an abalone (a type of
+shellfish). You have a dataset that includes the age of the abalone, the
+sex (`M', `F', and `I'), the length, the diameter, the height, and the
+weight.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  regression
+\item
+  age (included in dataset)
+\item
+  Length, diameter, height, and weight are numeric. I will scale them.
+  For the sex feature, make it one-hot-encoded.
+\item
+  linear regression. maybe a fully connected neural network later
+\item
+  R\^{}2\%\%
+\end{enumerate}
+
+\end{document}

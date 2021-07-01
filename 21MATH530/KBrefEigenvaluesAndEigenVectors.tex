@@ -1,0 +1,108 @@
+% Created 2021-03-01 Mon 20:24
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Exr0n}
+\date{\today}
+\title{Eigenvalues and Eigenvectors}
+\hypersetup{
+ pdfauthor={Exr0n},
+ pdftitle={Eigenvalues and Eigenvectors},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 28.0.50 (Org mode 9.4.4)},
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\section{sources\hfill{}\textsc{source}}
+\label{sec:orgd9d4380}
+\subsection{linear algebra done right (Axler 5.A)}
+\label{sec:orgc63f2b9}
+\section{motivation}
+\label{sec:orgcdb27ca}
+The simplest non-trivial invariant subspaces are one-dimensional. Let \(U\) be a one-dimensional invariant subspace under \(T\), then
+\[ Tu \in U : u \in U \]
+Because \(U = \text{span} (u)\), this implies
+\[ Tu = \lambda u \]
+which defines an eigenvalue (\(\lambda\)) and eigenvector(\(u\)) pair.
+\section{eigenvalue\hfill{}\textsc{def}}
+\label{sec:org9eba0e0}
+\begin{quote}
+Suppose \(T \in \mathcal L(V)\). A number \(\lambda \in \mathbb F\) is called an \emph{eigenvalue} of \(T\) if there exists \(v \in V\) s.t. \(v \neq 0\) and \(Tv = \lambda v\).
+\end{quote}
+\subsection{results}
+\label{sec:org101607c}
+\subsubsection{Axler5.6 equivalent conditions}
+\label{sec:org8897f11}
+When \(V\) is finite-dimensional, \(T \in \mathcal L(V)\) and \(\lambda \in F\),
+
+\begin{enumerate}
+\item \(T - \lambda I\) is not ijnective
+\label{sec:orgc5fb3eb}
+
+\item \(T - \lambda I\) is not surjective
+\label{sec:org1d75bce}
+
+\item \(T - \lambda I\) is not invertible
+\label{sec:org9ba9ec4}
+
+\item we don't want \(T - \lambda I\) to be invertible because we want it to be zero  (rearranging the prev equation)\hfill{}\textsc{intuit}
+\label{sec:org3701f3d}
+\end{enumerate}
+
+\section{eigenvector\hfill{}\textsc{def}}
+\label{sec:org7688363}
+\begin{quote}
+Suppose \(T\) \(\in\) \mathcal L(V)\$ and \(\lambda \in \mathbb F\) is an eigenvalue of \(T\). A vector \(v \in V\) is called an \emph{eigenvector} of \(T\) corresponding to \(\lambda\) if \(v \neq 0\) and \(Tv = \lambda v\).
+\end{quote}
+
+\subsection{intuit\hfill{}\textsc{intuit}}
+\label{sec:org31b311c}
+\(v\) can't be zero because that would be trivial. Otherwise, this is just terminology based on the prev definition: if it gets scaled but stays in the same space, then its called an eigenvector. Note that each eigenvalue \(\lambda\) has a whole \(\text{span}v\) of associated eigenvectors.
+
+\subsection{results}
+\label{sec:org166db38}
+
+\subsubsection{equivalent condition}
+\label{sec:orgbe3c8f4}
+\begin{quote}
+Because \(Tv = \lambda v\) iff \(\left(T-\lambda I\right)v = 0\) (algebra), a vector \(v \in V\) with \(v \neq 0\) is an eigenvector of \(T\) corresponding to \(\lambda\) iff \(v \in \text{null}\left(T-\lambda I\right)\)
+\end{quote}
+
+
+\subsubsection{axler5.10 linearly independent eigenvectors}
+\label{sec:org065d8e3}
+\begin{quote}
+Let \$T \(\in\) \mathcal L(V). Suppose \(\lambda_1, \ldots, \lambda_m\) are distinct eigenvalues of \(T\) and \(v_1, \ldots, v_m\) are corresponding eigenvectors. Then \(v_1,ldots, v_m\) is linearly independent.
+\end{quote}
+
+\begin{enumerate}
+\item intuit\hfill{}\textsc{intuit}
+\label{sec:orgeca7fb8}
+If some list of eigenvalues is distinct, then the corresponding eigenvectors will be linearly independent because if any subset linear combination could add to another, then something would be funny about linearity?
+\end{enumerate}
+
+
+\subsubsection{axler5.11 maximum number of eigenvalues}
+\label{sec:org0c5e028}
+\begin{quote}
+Suppose \(V\) is finitēdimensional. Then each operator on \(V\) has at most \(\text{dim } V\) distinct eigenvalues.
+\end{quote}
+This follows directly from axler5.10, since all eigenvectors would need to fit into a linearly indep list and a linearly independent list of length more than \(\text{dim }V\) is not possible.
+\hfill \blacksquare
+\end{document}

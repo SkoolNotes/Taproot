@@ -17,6 +17,8 @@
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
 
+\usepackage{lastpage}
+
 \usepackage{enumitem}
 \setlistdepth{9}
 
@@ -72,13 +74,21 @@
 
 \usepackage{mathspec}
 \setmainfont[
-   ItalicFont     = HelveticaNeue-Italic,
-   BoldFont       = HelveticaNeue-Bold,
-   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
 \newfontfamily\NHLight[
-   ItalicFont     = HelveticaNeue-LightItalic,
-   BoldFont       = HelveticaNeue-UltraLight,
-   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -122,9 +132,17 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-\rhead{\textrmlf{Compiled} \today}
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8738)}}    % original
+%\rhead{\textrmlf{Compiled }\#8738\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#8738
+  \textrmlf{ on}
+      \today
+  }       % new date
+\lfoot{Houjun Liu, Exr0n, Huxley Marvit, Zachary
+Sayyah \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
 \titleformat{\section}
@@ -136,14 +154,14 @@
 
 \titleformat{\subsection}
 {\large}
-{}
-{0em}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
 {\textbf}
 
 \titleformat{\subsubsection}
-{}
-{}
-{0em}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
 {\textbf}
 
 \setlength{\parskip}{0.45em}
@@ -162,10 +180,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace 
-{\href{http://taproot.shabang.cf/relay?request=}{\tiny\textulf{[[}\textbf{}\textulf{]]}}}\thinspace
 
-\#source
+\#ref \#source
 
 \hypertarget{the-history-index}{%
 \section{The History Index}\label{the-history-index}}
@@ -173,10 +189,15 @@
 \hypertarget{course-content}{%
 \subsection{Course Content}\label{course-content}}
 
+\hypertarget{introduction}{%
+\subsection{Introduction}\label{introduction}}
+
 \begin{itemize}
 \tightlist
 \item
   {[}{[}GHMW Unit 1.pdf{]}{]} Readings
+\item
+  {[}{[}GHMW Unit 2.pdf{]}{]} Also Readings
 \item
   {[}{[}KBhHIST201GHIntro{]}{]} Global History, Intro. Non-Sushu people
   will not find this helpful
@@ -203,6 +224,16 @@
     {[}{[}KBhHIST201Watson{]}{]} Sushu's Reading as Presented in Class,
     by Jack
   \end{itemize}
+\end{itemize}
+
+\hypertarget{unit-1}{%
+\subsection{Unit 1}\label{unit-1}}
+
+\hypertarget{kennedy}{%
+\subsubsection{Kennedy}\label{kennedy}}
+
+\begin{itemize}
+\tightlist
 \item
   Kennedy, Chapter 1
 
@@ -218,6 +249,13 @@
   \end{itemize}
 \item
   Textbook models of History {[}{[}KBhHIST201HistModHist{]}{]}
+\end{itemize}
+
+\hypertarget{ming}{%
+\subsubsection{Ming}\label{ming}}
+
+\begin{itemize}
+\tightlist
 \item
   Mann, Ming
 
@@ -225,7 +263,42 @@
   \tightlist
   \item
     Jack --- {[}{[}KBhHIST201MannMing{]}{]}
+  \item
+    Alb - {[}{[}retExr0nMannMingTrade{]}{]}
   \end{itemize}
+\end{itemize}
+
+\hypertarget{qing}{%
+\subsubsection{Qing}\label{qing}}
+
+\begin{itemize}
+\tightlist
+\item
+  Jack's Qing Index {[}{[}KBhHIST201Qing1500s{]}{]}
+\end{itemize}
+
+\hypertarget{mughals}{%
+\subsubsection{Mughals}\label{mughals}}
+
+\begin{itemize}
+\tightlist
+\item
+  Jack's Mughals notes {[}{[}KBhHIST201Mughals1600s{]}{]}
+\item
+  Exr0n Mughals reading ret {[}{[}KBe20hist201MughalsReadings{]}{]}
+\end{itemize}
+
+\hypertarget{ottomans}{%
+\subsubsection{Ottomans}\label{ottomans}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBrefOttomanEmpire{]}{]}
+\item
+  \href{https://www.youtube.com/watch?v=SZ8UWobHA3M}{History Summarized:
+  The Ottoman Empire}:
+  {[}{[}Kbe20hist201floSummarizedOttomanEmpireVideo{]}{]}
 \item
   Bulliet 19
 
@@ -233,7 +306,220 @@
   \tightlist
   \item
     Huxley: {[}{[}KBBullietCh19{]}{]}
+  \item
+    Ottomans: {[}{[}KBOttomansMilitary{]}{]}
+  \item
+    Jack: {[}{[}KBhHIST201BullietCh19{]}{]}
   \end{itemize}
+\item
+  Reading Flows
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBGelvinCh3{]}{]}
+  \item
+    {[}{[}KBRobertsNotes{]}{]}
+  \item
+    {[}{[}KBMcNeill{]}{]}
+  \item
+    {[}{[}KBKissinger{]}{]} -- does not exist
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{europe}{%
+\subsubsection{Europe}\label{europe}}
+
+\begin{itemize}
+\tightlist
+\item
+  Kissinger's Europe
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBhHIST201Kissinger{]}{]}
+  \item
+    {[}{[}KBrefRaisondetat{]}{]}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{unit-2}{%
+\subsection{Unit 2}\label{unit-2}}
+
+\hypertarget{the-enlightment-french-rev}{%
+\subsubsection{The Enlightment + French
+Rev}\label{the-enlightment-french-rev}}
+
+{[}{[}KBhHIST201EnlightenmentFrenchRev{]}{]}
+
+{[}{[}KBhHIST201NapoleonDebatePrep{]}{]}
+
+\hypertarget{reading-flos-refs}{%
+\subsubsection{Reading Flos + Refs}\label{reading-flos-refs}}
+
+\#disorganized
+
+\begin{itemize}
+\tightlist
+\item
+  Mason ch 1 + 2 {[}{[}KBhHIST201MasonCh1n2{]}{]}
+\item
+  Roberts {[}{[}KBhHIST201RobertsCh5{]}{]}
+\item
+  Colbert and Smith {[}{[}KBhHIST201ColbertAndSmith{]}{]}
+\item
+  Trauttmann {[}{[}KBhHIST201Trauttmann{]}{]}
+\end{itemize}
+
+\hypertarget{unit-3-the-isms-industrialization-revolution-marxism-imperialism}{%
+\subsection{Unit 3: the Isms \{Industrialization, Revolution, Marxism
+Imperialism\}}\label{unit-3-the-isms-industrialization-revolution-marxism-imperialism}}
+
+\hypertarget{compiled-refs}{%
+\subsubsection{Compiled Refs}\label{compiled-refs}}
+
+\textbf{The Isms} - {[}{[}KBhHIST201LiberalismAndNationalism{]}{]}:
+{[}{[}KBhHIST201Nationalism{]}{]} and {[}{[}KBhHIST201Liberalism{]}{]} -
+The {[}{[}KBhHIST201IndustrialRevolution{]}{]} + its
+{[}{[}KBhHIST201ImpactsofIR{]}{]}
+
+\hypertarget{reading-flos}{%
+\subsubsection{Reading Flos}\label{reading-flos}}
+
+\begin{itemize}
+\tightlist
+\item
+  Mason + Kennedy {[}{[}KBhHIST201MasonAndKennedy{]}{]}
+\item
+  MasonChapter5 {[}{[}KBhHIST201MasonCh5{]}{]}
+\item
+  MasonChapter5\&7x {[}{[}KBxHIST201MasonCh5n7{]}{]}
+\item
+  Japan and the westx {[}{[}KBxJapanandtheWest{]}{]}
+\item
+  Bulliet: British Raj {[}{[}KBhHIST201BritishRaj{]}{]}
+\item
+  Mason Ch 8 {[}{[}KBhHIST201MasonCh8{]}{]}
+\item
+  Ropp on China {[}{[}KBxRoppChina{]}{]}
+\item
+  Ropp-late Late China {[}{[}KBhHIST101LateQingChina{]}{]}
+\item
+  Gelvyn Ch. 5 {[}{[}KBhHIST201GelvinChapter5{]}{]}
+\end{itemize}
+
+\hypertarget{class-flos}{%
+\subsubsection{Class Flos}\label{class-flos}}
+
+\begin{itemize}
+\tightlist
+\item
+  Sushu's Rapid Fire Japan {[}{[}KBhHIST201JapanClassFlo{]}{]}
+\end{itemize}
+
+\hypertarget{unit-4-wwi-w.r.t.-early-european-bop}{%
+\subsection{Unit 4: WWI w.r.t. Early European
+BOP}\label{unit-4-wwi-w.r.t.-early-european-bop}}
+
+\begin{itemize}
+\tightlist
+\item
+  Palmer Chapter 17 {[}{[}BhHIST201PalmerCh17{]}{]}
+\item
+  CN2021011 {[}{[}KBhHIST201WWI{]}{]}
+\end{itemize}
+
+\hypertarget{essays}{%
+\subsection{Essays}\label{essays}}
+
+\begin{itemize}
+\tightlist
+\item
+  Essay 1
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBhHIST201KennedyStillHoldsUp{]}{]}
+  \item
+    {[}{[}KBe20hist201retKennedyEssay{]}{]}
+  \item
+    {[}{[}KBEssay1PlanningAttemp2{]}{]}
+  \item
+    {[}{[}KBdHistMAKennedyOutline{]}{]}
+  \end{itemize}
+\item
+  Unit One Essay
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBxUnitOneEssayPlanning{]}{]}
+  \item
+    {[}{[}KBhHIST201Unit1EssayJack{]}{]}
+  \item
+    {[}{[}KBe20hist201Unit1Essay{]}{]}
+  \end{itemize}
+\item
+  French Rev Essay
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBhHIST201Unit2EssayJack{]}{]}
+  \item
+    {[}{[}KBUnitTwoEssayHux{]}{]}
+  \item
+    {[}{[}KBe20hist201retUnit2Essay.pdf{]}{]}
+  \end{itemize}
+\item
+  IndustrialRev Essay
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBhHIST201Unit3EssayJack{]}{]}
+  \item
+    {[}{[}KBxUnit3EssayPlanning{]}{]} @jack why did u delete my thing?
+    @hux no I didn't?
+  \end{itemize}
+\item
+  WWI Essay
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBhHIST201WWIEssayOutlineJack{]}{]}\\
+  \end{itemize}
+\item
+  Russian Revolution
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBhHIST201RussianRevolution{]}{]}
+  \end{itemize}
+\item
+  WWII
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBhHIST201WWII{]}{]}
+  \end{itemize}
+\item
+  From WWII to Cold War
+
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}{[}KBhHIST201ColdWar{]}{]}
+  \item
+    {[}{[}KBhHIST201ColdWarEssayPlanningJack{]}{]}
+  \end{itemize}
+\item
+  Self Evals {[}{[}KBxHistSelfEval2020{]}{]}
 \end{itemize}
 
 \hypertarget{meta-references}{%
@@ -243,6 +529,41 @@
 \tightlist
 \item
   {[}{[}20hist201refTechniques{]}{]}
+\end{itemize}
+
+\hypertarget{semester-two}{%
+\subsection{Semester Two}\label{semester-two}}
+
+\textbf{UNIT FOUR READER} {[}{[}GHMW Unit 4.pdf{]}{]}
+
+\begin{itemize}
+\item
+  {[}{[}KBxDayOne{]}{]}
+\item
+  {[}{[}KBxPalmerCh17{]}{]}
+\item
+  {[}{[}KBhHIST201WWI{]}{]}
+\item
+  {[}{[}KBxWeimarRepublic{]}{]}
+\item
+  {[}{[}KBxMason10{]}{]}
+\item
+  {[}{[}KBxFascism{]}{]}
+\item
+  {[}{[}KBhHIST201CrisisOfLibDemo{]}{]}
+\end{itemize}
+
+\hypertarget{essays-1}{%
+\subsubsection{Essays}\label{essays-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBxWW1EssayPlanning{]}{]}
+\item
+  {[}{[}KBxPopExibhit{]}{]}
+\item
+  {[}{[}KBxColdWarDevelopingWorldPlanning{]}{]}
 \end{itemize}
 
 \end{document}

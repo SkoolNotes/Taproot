@@ -1,0 +1,498 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+   ItalicFont     = HelveticaNeue-Italic,
+   BoldFont       = HelveticaNeue-Bold,
+   BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+   ItalicFont     = HelveticaNeue-LightItalic,
+   BoldFont       = HelveticaNeue-UltraLight,
+   BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{ ENG201 }
+\newcommand{\thelesson}{ Heart of Darkness (index) }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+\rhead{\textrmlf{Compiled} \today}
+\lfoot{Houjun Liu, Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{}
+{0em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{}
+{}
+{0em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+{\href{http://taproot.shabang.cf/relay?request=KBEnglishMasterIndex}{\tiny\textulf{[[}\textbf{KBEnglishMasterIndex}\textulf{]]}}}\thinspace
+
+\hypertarget{heart-of-darkness}{%
+\section{Heart of Darkness}\label{heart-of-darkness}}
+
+Not the Heart of Hardness.
+
+\href{https://docs.google.com/presentation/d/1a9mxL5Pot8sbcIYP1mLiFqhQrYEOa60eIyHp3ftTLGo}{Alexa
+and Nueva folks, the Slides.}
+
+Ok. Now that that's out of the way, let's deal with this ``Bloody
+Racist'' book. To understand this work fully, one must understand Congo,
+its govermental systems, and the Scramble for Africa (Africa's
+cakeification by Europeans).
+
+\hypertarget{about-the-author}{%
+\subsection{About the Author}\label{about-the-author}}
+
+\begin{itemize}
+\tightlist
+\item
+  Born in conquered location
+\item
+  wrote HoD in english (not native tougue)
+\item
+  became a sailor
+\end{itemize}
+
+\hypertarget{scramble-for-africa}{%
+\subsection{Scramble for africa}\label{scramble-for-africa}}
+
+\begin{itemize}
+\tightlist
+\item
+  Europe goes after things in africa
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ivory
+  \item
+    gold
+  \item
+    labor
+  \item
+    diamonds
+  \item
+    land
+  \item
+    food
+  \item
+    rubber
+  \end{itemize}
+\item
+  \href{https://www.youtube.com/watch?v=EKE92ucqBfc}{Visualization}
+  \#\#\# The Slave Trade
+\item
+  Taken away:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Male, 13-43
+  \item
+    Woman
+  \item
+    Children
+  \item
+    Left behind: babies and elderly
+  \end{itemize}
+\item
+  Effects
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Population drops
+  \item
+    No more labor force
+  \end{itemize}
+\item
+  non diverse economy
+\item
+  colonized countries are dependant on the empire
+\item
+  lack of infrastructure
+\item
+  discrimination and racism
+\end{itemize}
+
+\hypertarget{presense-in-africa}{%
+\subsubsection{Presense in Africa}\label{presense-in-africa}}
+
+\begin{itemize}
+\tightlist
+\item
+  Biggest colonies: france and england \#\#\#\# Started on the coast
+\item
+  Because they needed steamships and quinine (tonic water) to go into
+  the center
+\end{itemize}
+
+\hypertarget{naming-heart-of-darkness}{%
+\subsubsection{Naming: heart of
+darkness}\label{naming-heart-of-darkness}}
+
+\begin{itemize}
+\tightlist
+\item
+  Civilization
+\item
+  Skin color
+\end{itemize}
+
+\hypertarget{berlin-congress}{%
+\subsubsection{Berlin Congress}\label{berlin-congress}}
+
+\begin{itemize}
+\tightlist
+\item
+  Countries got together and divied up africa amongst themselves
+\end{itemize}
+
+\hypertarget{congo-free-state}{%
+\subsubsection{Congo Free State}\label{congo-free-state}}
+
+\begin{itemize}
+\tightlist
+\item
+  King leopold II believed that a country needed a colony to be cool
+
+  \begin{itemize}
+  \tightlist
+  \item
+    created international association of the congo
+  \item
+    promised to promote humanitarian things
+  \item
+    ``skillful and cunnnin diplomacy''
+  \item
+    slash vines for rubber and get it on yourself then scrape it off
+
+    \begin{itemize}
+    \tightlist
+    \item
+      this kills the vines which means you have to keep moving
+    \item
+      rubber used for bikes and cars
+    \item
+      Pay tax or get mutilated / killed
+    \end{itemize}
+  \item
+    \href{https://www.youtube.com/watch?v=FhPZZqp9cp8}{Humanitarian
+    atrocities videos} \#\#\#
+    \href{http://loki.stockton.edu/~kinsellt/projects/hod/history.html}{History
+    of Congo Region}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{critical-theory}{%
+\subsection{Critical Theory}\label{critical-theory}}
+
+An approach to contentualize a text + see through to something. Think:
+``a feminist lens'' --- Critical Race Theory, Queer Theory, Maxist
+Theory, Feminist Theory, Post-Colonial Theory, Colonial Theory, Cultral
+Studies, etc. etc.
+
+And, here's the rub: \textbf{History is Written by the Victors} --- an
+important part of the analysis of the \emph{Heart of Darkness} is to
+recognize its story in a Colonial Lens.
+
+\href{https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/literary_theory_and_schools_of_criticism/}{The
+Various Lit Theories}
+
+\hypertarget{colonial-theory}{%
+\subsubsection{Colonial Theory}\label{colonial-theory}}
+
+\begin{itemize}
+\tightlist
+\item
+  View through the Colonizer
+\item
+  ``Written by the victors''
+\end{itemize}
+
+\hypertarget{congos-colonial-history}{%
+\subsection{Congo's Colonial History}\label{congos-colonial-history}}
+
+\hypertarget{a-timeline}{%
+\subsubsection{A timeline!}\label{a-timeline}}
+
+\begin{figure}
+\centering
+\includegraphics{Screen Shot 2020-09-08 at 2.00.47 PM.png}
+\caption{Timeline}
+\end{figure}
+
+\hypertarget{some-background-on-the-congo-free-state}{%
+\subsubsection{Some background on the Congo Free
+State}\label{some-background-on-the-congo-free-state}}
+
+The {[}{[}KBhENG201CongoFreeState{]}{]}
+
+\hypertarget{reflections}{%
+\subsection{Reflections}\label{reflections}}
+
+{[}{[}KBhENG201Page0t17{]}{]} {[}{[}KBe20eng201part1{]}{]}
+
+\hypertarget{why-are-we-reading-it}{%
+\subsection{Why are we reading it?}\label{why-are-we-reading-it}}
+
+For answers to the essential question, of course!
+{[}{[}KBhENG201AlexaD1{]}{]}
+
+\begin{itemize}
+\tightlist
+\item
+  How do literature, language, and storytelling both perpetuate and
+  dismantle the tools of the colonizer?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Could be a text that attempts to dismatle racism =\textgreater{}
+    ``loot at the damage that Europeans did''
+  \item
+    Could be a text that attempts to propergate racism
+  \end{itemize}
+\item
+  How does colonialism shift notions of race, equity, socio-economic
+  status, natural resources, religion for the colonizer, colonized, and
+  the reader?
+\end{itemize}
+
+\hypertarget{objectives}{%
+\subsection{Objectives}\label{objectives}}
+
+\textbf{Central to Know}
+
+\begin{itemize}
+\item
+  Basics of plot and character development
+\item
+  Conrad's style and key lit devices
+\item
+  History of colonialism in Africa
+\item
+  King Leopold took ``Ethiopia'', and sectioned it off
+\item
+  Spain and Portugal agreement =\textgreater{} ``spain has Americas,
+  protugal has africa''
+\end{itemize}
+
+\textbf{Important to Know}
+
+\begin{itemize}
+\tightlist
+\item
+  Engagement with Essential Questions
+\item
+  Conrad's background
+\end{itemize}
+
+\textbf{Nice to Know}
+
+\begin{itemize}
+\tightlist
+\item
+  Modernism + Heart of Darkness's relationship to lit history
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{``The sunken eyes looked up \ldots{} vacant \ldots{} a kind of
+blind, white flicker in the depths of the orbs, which died out slowly.
+\ldots{} I found nothing else \ldots{} but to offer him \ldots{}
+biscuits. The fingers closed slowly on it and held --- there was no
+other movement and no other glance.''}
+
+``Deadness in the eyes'' =\textgreater{} \{the soul, the witness, sense,
+knowledge\} =\textgreater{} ``the fool is blind''
+
+\begin{itemize}
+\tightlist
+\item
+  His eyes =\textgreater{} the sunken eyes
+\item
+  His fingers =\textgreater{} the fingers
+\end{itemize}
+
+Ambiguity and dehumanization of fingers
+
+\begin{itemize}
+\tightlist
+\item
+  Frequent talk about the feature
+\item
+  No descriptions as a whole
+\item
+  Description of the \emph{non-black} parts of the body only
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Notices and grapples with the darkness
+  \item
+    ``White Eyes, Hands, etc'' =\textgreater{} notices the whiteness
+  \item
+    Dehumanization
+  \end{itemize}
+\item
+  Porchugal invented a faster boat
+\item
+  Brits and Franchies and Dutch had more nefarious goal
+\end{itemize}
+
+\hypertarget{graded-discussion}{%
+\subsection{Graded Discussion}\label{graded-discussion}}
+
+{[}{[}KBENG201GradedDiscussionPrep{]}{]}
+
+\hypertarget{essays}{%
+\subsection{Essays}\label{essays}}
+
+M.A.~HoD Lit Analysis
+
+\begin{itemize}
+\tightlist
+\item
+  Jack's Take: {[}{[}KBENG201HoDLitAnalysisEssay{]}{]}
+\end{itemize}
+
+\end{document}

@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title>  Handout 17 Riemann Sums Additional Exercises </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong></strong> Handout 17 Riemann Sums Additional Exercises </span></div>
+        </div>
+        <div id="center-viewport">
+            <h1 id="exercises">Exercises</h1>
+            <h2 id="interpreting-in-terms-of-area">interpreting in terms of area</h2>
+            <p><img src="./KBe21math401srcHandout17AdditionalExercises.jpg" alt="image" /></p>
+            <h2 id="subtracting-integrals">subtracting integrals</h2>
+            <p>I expect <span class="math display">\[\begin{aligned}
+               \int_1^2f(x)dx = \int_1^5f(x)dx - \int_2^5f(x)dx = -3-4 = -7
+               \end{aligned}\]</span></p>
+            <p>In fact, I expect <span class="math display">\[\begin{aligned}
+               \int_a^bf(x)dx + \int_b^cf(x)dx = \int_a^cf(x)dx
+               \end{aligned}\]</span></p>
+            <h2 id="show-int_ab-x2dx-fracb3-a33">show <span class="math inline">\(\int_a^b x^2dx = \frac{b^3-a^3}{3}\)</span></h2>
+            <p>(see attached pages)</p>
+            <p>Keep in mind <span class="math display">\[\begin{aligned}
+               \sum_{k=1}^n af(x) = a\sum_{k=1}^n f(x)\\
+               \sum_{k=1}^n \left( a+f(x)\right)  = an + \sum_{k=1}^{n} f(x)
+               \end{aligned}\]</span></p>
+            <p><span class="math display">\[\begin{aligned}
+               \int_a^b x^2 dx &amp;= \lim_{n\to \infty} \sum_{k=1}^n \left( \frac{b-a}{n} \left( a+k\frac{b-a}{n}\right) ^2\right)\\
+               &amp;= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=1}^n \left( a+k\frac{b-a}{n}\right) ^2\\
+               &amp;= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=1}^n \left( a^2+\left( k\frac{b-a}{n}\right) ^2 + 2ak\frac{b-a}{n}\right) \\
+               &amp;= \lim_{n\to \infty} \frac{b-a}{n} \sum_{k=1}^n a^2+\sum_{k=1}^n \left( k\frac{b-a}{n}\right) ^2 +\sum_{k=1}^n  2ak\frac{b-a}{n} \\
+               &amp;= \lim_{n\to \infty} \frac{b-a}{n} \left( a^2n +\sum_{k=1}^n k^2\left(\frac{b-a}{n}\right)^2 +2a\frac{b-a}{n}\sum_{k=1}^n k\right)  \\
+               &amp;= \lim_{n\to \infty} \frac{b-a}{n} \left( a^2n + \left(\frac{b-a}{n}\right)^2\sum_{k=1}^n k^2 +2a\frac{b-a}{n}\sum_{k=1}^n k\right)  \\
+               &amp;= \lim_{n\to \infty} \frac{b-a}{n} \left( a^2n + \left(\frac{b-a}{n}\right)^2 \frac{n(n+1)(2n+1)}{6} +2a\frac{b-a}{n}\frac{n(n+1)}{2}\right)  \\
+               &amp;= \lim_{n\to \infty} (b-a) \left( a^2 + \left(\frac{b-a}{n}\right)^2 \frac{(n+1)(2n+1)}{6} +\cancel{2}a\frac{b-a}{n}\frac{(n+1)}{\cancel{2}}\right)  \\
+               &amp;= \lim_{n\to \infty} (b-a) \left( a^2 + \frac{(b-a)^2}{n^2} \left( n\frac{(2n+1)}{6} + \frac{(2n+1)}{6}\right) +a\frac{b-a}{n}(n+1)\right)  \\
+               &amp;= \lim_{n\to \infty} (b-a) \left( a^2 + \frac{(b-a)^2}{n^2} \left( n\frac{(2n+1)}{6} + \frac{(2n+1)}{6}\right) +a\cancel{n}\frac{b-a}{\cancel{n}}+a\frac{b-a}{n}\right)  \\
+               &amp;= \lim_{n\to \infty} (b-a) \left( a^2 + \frac{(b-a)^2}{n^2} \left( n\frac{(2n+1)}{6} + \frac{(2n+1)}{6}\right) +a(b-a) +\cancelto{0}{a\frac{b-a}{n}}\right)  \\
+               &amp;= \lim_{n\to \infty} (b-a) \left( a^2 + \frac{(b-a)^2}{n^{\cancel{2}} } \cancel{n} \frac{(2n+1)}{6} + \cancelto{0}{\frac{(b-a)^2}{n^2} \frac{(2n+1)}{6}} +a(b-a) \right)  \\
+               &amp;= \lim_{n\to \infty} (b-a) \left( a^2 + \frac{(b-a)^2}{n} \frac{(2n+1)}{6} + a(b-a) \right)  \\
+               &amp;= \lim_{n\to \infty} (b-a) \left( a^2 + \frac{\cancel{n}}{3}\frac{(b-a)^2}{\cancel{n}} + \cancelto{0}{\frac{1}{6}\frac{(b-a)^2}{n}} + a(b-a) \right)  \\
+               &amp;= \lim_{n\to \infty} (b-a) \left( a^2 + \frac{(b-a)^2}{3} + a(b-a) \right)  \\
+               &amp;= a^2(b-a) + \frac{b^2+a^2-2ab}{3}(b-a) + a(b-a)^2 \\
+               &amp;= \frac{1}{3}\left( 3a^2(b-a) + b^2(b-a)+a^2(b-a)-2ab(b-a) + 3a(b-a)^2\right) \\
+               &amp;= \frac{1}{3}\left( 3a^2b -3a^3 + b^3 - ab^2 + a^2b - a^3 - 2ab^2 + 2a^2b + 3a(b^2+a^2-2ab)\right) \\
+               &amp;= \frac{1}{3}\left( 3a^2b -3a^3 + b^3 - ab^2 + a^2b - a^3 - 2ab^2 + 2a^2b + 3ab^2+3a^3-6a^2b\right) \\
+               &amp;= \frac{1}{3}\left( 3a^2b-6a^2b -3a^3- a^3+ 3a^3 + b^3 + a^2b+ 2a^2b - ab^2 - 2ab^2  + 3ab^2 \right) \\
+               &amp;= \frac{1}{3}\left( -3a^2b + 3a^2b - a^3 + b^3 \right) \\
+               &amp;= \frac{1}{3}\left(b^3 - a^3 \right) \\
+               &amp;= \frac{b^3 - a^3 }{3} \\
+               \end{aligned}\]</span></p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>

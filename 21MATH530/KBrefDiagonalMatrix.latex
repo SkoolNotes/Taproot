@@ -1,0 +1,295 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Diagonal Matrix and Diagonalizability }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9879)}}    % original
+%\rhead{\textrmlf{Compiled }\#9879\textrmlf{ on} \today }      % old date
+\rhead{
+    \textrmlf{Compiled }
+  \#9879
+  \textrmlf{ on}
+      \today
+  }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+
+\hypertarget{diagonal-matrix}{%
+\section{\texorpdfstring{diagonal matrix
+{\textsc{def}}}{diagonal matrix def}}\label{diagonal-matrix}}
+
+\begin{quote}
+A \emph{diagonal matrix} is a square matrix that is zero everywhere
+except possibly along the \href{KBrefDiagonalOfAMatrix.org}{diagonal}.
+\end{quote}
+
+\hypertarget{results}{%
+\subsection{results}\label{results}}
+
+\hypertarget{every-diagonal-matrix-is-upper-triangular}{%
+\subsubsection{every diagonal matrix is upper
+triangular}\label{every-diagonal-matrix-is-upper-triangular}}
+
+\hypertarget{diagonalizable}{%
+\section{\texorpdfstring{diagonalizable
+{\textsc{def}}}{diagonalizable def}}\label{diagonalizable}}
+
+\begin{quote}
+An operator \(T \in  \mathcal{L} (V)\) is called \emph{diagonalizable}
+if the operator has a diagonal matrix with respect to some basis of
+\(V\).
+\end{quote}
+
+\hypertarget{results-1}{%
+\subsection{results}\label{results-1}}
+
+\hypertarget{axler5.41-conditions-equivalent-to-diagonalizability}{%
+\subsubsection{Axler5.41 conditions equivalent to
+diagonalizability}\label{axler5.41-conditions-equivalent-to-diagonalizability}}
+
+\begin{quote}
+Suppose \(V\) is finite-dimensional and \(T \in  \mathcal{L} (V)\). Let
+\(\lambda_1, \ldots, \lambda_m\) denote the distinct eigenvalues of
+\(T\). Then the following are equivalent:
+
+\begin{enumerate}
+\tightlist
+\item
+  \(T\) is diagonalizable
+\item
+  \(V\) has a basis consisting of eigenvalues of \(T\)
+\item
+  there exist 1-dimensional subspaces \(U_1, \ldots, U_n\) of \(V\),
+  each invariant under \(T\), s.t.
+\end{enumerate}
+
+\[\begin{aligned}
+V = U_1 \oplus \cdots \oplus U_n
+\end{aligned}\]
+
+\begin{enumerate}
+\tightlist
+\item
+  \(V = E(\lambda_1, T) \oplus \cdots \oplus E(\lambda_m, T)\) (\(V\) is
+  the (direct) sum of eigenspaces)
+\item
+  \(\odim V = \odim E(\lambda_1, T) + \cdots + \odim E(\lambda_m, T)\)
+\end{enumerate}
+\end{quote}
+
+\hypertarget{axler5.44-enough-eigenvalues-implies-diagonalizability}{%
+\subsubsection{Axler5.44 Enough eigenvalues implies
+diagonalizability}\label{axler5.44-enough-eigenvalues-implies-diagonalizability}}
+
+\begin{quote}
+If \(T\in \mathcal{L} (V)\) has \(\odim V\) distinct eigenvalues, then
+\(T\) is diagonalizable.
+\end{quote}
+
+\begin{enumerate}
+\item
+  intuition
+
+  Because distinct eigenvalues correspond to linearly independent
+  eigenvectors, so there will be enough linearly independent eigenvecs
+  to form a basis and thus a diagonal matrix.
+
+  In fact, we just need the geometric multiplicities to add up (a result
+  Axler promises in later chapters)
+\end{enumerate}
+
+\hypertarget{relationship-to-non-diagonal-matrix-in-class-31-march-2021}{%
+\subsubsection{Relationship to non-diagonal matrix (in class 31 March
+2021)}\label{relationship-to-non-diagonal-matrix-in-class-31-march-2021}}
+
+Suppose \(A\) is the original map (not diagonal), and that \(P\) is the
+matrix where each column is an eigenvector written in terms of the
+original basis (standard basis, usually). Then \[\begin{aligned}
+    AP = PD
+    \end{aligned}\] where \(D\) is the diagonal matrix.
+
+\begin{enumerate}
+\item
+  this (or a conjugation??) forms a similarity transform, which is a
+  type of equivalence relation
+\end{enumerate}
+
+\end{document}
