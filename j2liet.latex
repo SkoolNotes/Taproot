@@ -21,6 +21,7 @@
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
+\usepackage{xcolor}
 
 \usepackage{lastpage}
 
@@ -150,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}13696)}}    % original
-%\rhead{\textrmlf{Compiled }\#13696\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16385)}}    % original
+%\rhead{\textrmlf{Compiled }\#16385\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -264,6 +265,14 @@ A test of \textbf{bold}, \emph{italics} \sout{strikethrough}, and
 \begin{Highlighting}[]
 \DataTypeTok{void}\NormalTok{ amazing}\OperatorTok{()} \OperatorTok{\{}
 \NormalTok{    printf}\OperatorTok{(}\StringTok{"hello world!}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\OperatorTok{);}
+\OperatorTok{\}}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{fn}\NormalTok{ main() }\OperatorTok{\{}
+    \PreprocessorTok{println!}\NormalTok{(}\StringTok{"Hello world!"}\NormalTok{)}\OperatorTok{;}
 \OperatorTok{\}}
 \end{Highlighting}
 \end{Shaded}

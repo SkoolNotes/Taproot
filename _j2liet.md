@@ -21,8 +21,14 @@ $$\begin{aligned}
 
 A test of **bold**, *italics* ~~strikethrough~~, and `code`
 
-``` {.cpp}
+``` cpp
 void amazing() {
     printf("hello world!\n");
+}
+```
+
+``` rust
+fn main() {
+    println!("Hello world!");
 }
 ```

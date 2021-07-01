@@ -25,3 +25,9 @@ void amazing() {
 	printf("hello world!\n");
 }
   #+end_src
+
+  #+begin_src rust
+fn main() {
+    println!("Hello world!");
+}
+  #+end_src
