@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16385)}}    % original
-%\rhead{\textrmlf{Compiled }\#16385\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16390)}}    % original
+%\rhead{\textrmlf{Compiled }\#16390\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -239,6 +239,10 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+
+\[\begin{aligned}
+ \sum_{j=0}^{n} \frac{1}{j} + 2x = 3
+\end{aligned}\]
 
 \hypertarget{amazing}{%
 \section{amazing}\label{amazing}}

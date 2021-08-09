@@ -2,6 +2,10 @@
 title: Title is amazing
 ---
 
+$$\begin{aligned}
+ \sum_{j=0}^{n} \frac{1}{j} + 2x = 3
+\end{aligned}$$
+
 # amazing
 
 $$\begin{aligned}
