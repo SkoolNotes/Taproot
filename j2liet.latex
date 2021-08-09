@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16433)}}    % original
-%\rhead{\textrmlf{Compiled }\#16433\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16481)}}    % original
+%\rhead{\textrmlf{Compiled }\#16481\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -259,7 +259,7 @@
 \[\begin{aligned}
   4^{\frac{1}{2}} + a\\
   a ^2 + \frac{1}{2} a ^3 - 2 a ^2=\frac{a^3}{2} - a^2
-  \begin{pmatrix}1 & 2\end{pmatrix} + \begin{pmatrix}3 & 4\end{pmatrix}
+  \begin{pmatrix}1 & 2\end{pmatrix} + \begin{pmatrix}3 & 4\end{pmatrix} = 
   \end{aligned}\]
 
 A test of \textbf{bold}, \emph{italics} \sout{strikethrough}, and
