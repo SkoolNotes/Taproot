@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16481)}}    % original
-%\rhead{\textrmlf{Compiled }\#16481\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16513)}}    % original
+%\rhead{\textrmlf{Compiled }\#16513\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -289,40 +289,5 @@ A test of \textbf{bold}, \emph{italics} \sout{strikethrough}, and
   \end{aligned}\]
 
 epic
-
-\hypertarget{cool}{%
-\subsection{cool}\label{cool}}
-
-\hypertarget{things}{%
-\subsection{things}\label{things}}
-
-\hypertarget{amazin}{%
-\subsubsection{amazin}\label{amazin}}
-
-\hypertarget{chill}{%
-\subsection{chill}\label{chill}}
-
-\hypertarget{cool-1}{%
-\subsubsection{cool}\label{cool-1}}
-
-\begin{enumerate}
-\item
-  epic
-
-  \begin{enumerate}
-  \item
-    amazing
-
-    \begin{enumerate}
-    \item
-      stuff
-
-      \begin{enumerate}
-      \item
-        things
-      \end{enumerate}
-    \end{enumerate}
-  \end{enumerate}
-\end{enumerate}
 
 \end{document}

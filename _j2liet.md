@@ -44,21 +44,3 @@ $$\begin{aligned}
   \end{aligned}$$
 
 epic
-
-## cool
-
-## things
-
-### amazin
-
-## chill
-
-### cool
-
-1.  epic
-
-    1.  amazing
-
-        1.  stuff
-
-            1.  things
