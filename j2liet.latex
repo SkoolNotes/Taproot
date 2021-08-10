@@ -151,8 +151,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16513)}}    % original
-%\rhead{\textrmlf{Compiled }\#16513\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16554)}}    % original
+%\rhead{\textrmlf{Compiled }\#16554\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -243,6 +243,12 @@
 \[\begin{aligned}
  \sum_{j=0}^{n} \frac{1}{j} + 2x = 3
 \end{aligned}\]
+
+( ) \( 3 + 2 =  \)
+
+\(3 - 2 =1\)
+
+\$ π\textsuperscript{2} - 3 \$
 
 \hypertarget{amazing}{%
 \section{amazing}\label{amazing}}

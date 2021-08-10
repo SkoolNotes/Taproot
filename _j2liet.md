@@ -6,6 +6,12 @@ $$\begin{aligned}
  \sum_{j=0}^{n} \frac{1}{j} + 2x = 3
 \end{aligned}$$
 
+( ) $ 3 + 2 =  $
+
+$3 - 2 =1$
+
+\$ π^2^ - 3 \$
+
 # amazing
 
 $$\begin{aligned}
