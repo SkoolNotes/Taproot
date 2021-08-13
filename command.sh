@@ -11,8 +11,7 @@ while true; do
     echo "\n\n\nLog for attempt at $(date)" >> log.txt
     git pull >> log.txt
 
-    changes="$(git status --porcelain | cut -c4-)"
-
+    changes="$(git status --porcelain | cut -c2 | tr -d '\n ')"
 
     if [[ -n "$taproot_backup_path" ]]; then
         echo "BACKING UP TAPROOT"
