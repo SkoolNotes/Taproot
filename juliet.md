@@ -1,15 +1,42 @@
 
-why doesn't this cause an error?
-```cpp
-int main()
-{
-    printf("error?\n");
-}
-```
+# are you readyyyyyy
 
-# heading test
+for the 2021-2020 school yearrrrrrrrr
 
-And you get some \LaTeX!
 
-wooooo
+    amazing
+    epico   
 
+    so like, shrug if i know how to install open sans or nimbus sans narrow
+
+    epico
+    e
+    bruhhhhhhhhhhhhhhh
+
+    *stuff* and /things/ _underline_ **bold** *italic*
+
+    bruhhhhhhhhhhhhhhh
+    eeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    oeeeeeeesnathoeusnthaosenuthasoenuthasnoethusnatoheusnathoeusntahoeu
+    eeeeeeeeeeeeeesanthoesuntahoesnuthasonethusnth
+    esnathoesuntahoesunthasonetuhsnatoheusnathoeusnthaoesunth
+    saontehusantoheusnthaoesunthaosenuth
+
+    what the hell man
+    sanotehusnatoheusnthaoesnuthsanoethusnatoehu
+    santoheusntahoesnuthaoseunth
+    santoehsuntahoesnuthaoesunth
+    asnoethusanotehusnatoheusnt
+    okie its open sans time
+    SNACKARY DID NOT BELIEVE IN ME BUT OPEN SANS IS THE LIFE 
+    sanoethusnatoehusntahoesunth
+    asntoheusntahoesnuthasonethu
+    workity borkit?????
+    taoehunthaonethuntaoheunthaoentuhnatoehuntaoehuntahoeunthaontehuntaoheunthaeounth
+    asonetuhanotehurthaonkjbnq;jhkrotbnekbqrjchknqtjbkrqjbkrb
+    ourieioureioerioerieorireoruoeuioeruoerioeu
+    IT WOSENTHRQTJhkNTOESNUHQJKNTBr
+    why is it serifed 
+    it literally says sans in the NAMEEEEEEEEEEEEEEEEEEEeee
+    monotonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn

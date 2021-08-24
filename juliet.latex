@@ -3,8 +3,12 @@
 
 \setlength\parindent{0pt}
 
+\usepackage[T1]{fontenc} % https://latex.org/forum/viewtopic.php?t=5540
+
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{gensymb}
 
 \usepackage[normalem]{ulem}
 
@@ -12,10 +16,18 @@
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
+\usepackage{setspace}
 
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
+\usepackage{xcolor}
+
+\usepackage{lastpage}
+
+\usepackage{physics}
+\usepackage{siunitx}
+\sisetup{per-mode=symbol}
 
 \usepackage{enumitem}
 \setlistdepth{9}
@@ -31,6 +43,9 @@
 \setlist[itemize,9]{label=\textbullet}
 
 \renewlist{itemize}{itemize}{9}
+
+\usepackage{mathdots}
+\usepackage{tikz}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -71,22 +86,36 @@
 }
 
 \usepackage{mathspec}
+%\setmainfont{Open Sans}
+%\setmainfont[
+%  ItalicFont      = NimbusSansNarrow,
+%  BoldFont        = NimbusSansBold,
+%  BoldItalicFont  = NimbusSans-BoldItalic]{NimbusSans}
+%\setmainfont[
+%  ItalicFont     = HelveticaItalic,
+%  BoldFont       = Helvetica-Bold,
+%  BoldItalicFont = Helvetica-BoldItalic]{Helvetica}
 \setmainfont[
-  ItalicFont     = HelveticaNeue-Italic,
-  BoldFont       = HelveticaNeue-Bold,
-  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+  ItalicFont     = OpenSans-Italic,
+  BoldFont       = OpenSans-Bold,
+  BoldItalicFont = OpenSans-BoldItalic]{Monoton-Regular}
+%\setmainfont[
+%  ItalicFont     = HelveticaNeue-Italic,
+%  BoldFont       = HelveticaNeue-Bold,
+%  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight{Open Sans Condensed}
+%\newfontfamily\NHLight[
+%  ItalicFont     = Helvetica-LightItalic,
+%  BoldFont       = Helvetica-UltraLight,
+%  BoldItalicFont = Helvetica-UltraLightItalic]{Helvetica}
+%\newfontfamily\NHLight[
+%  ItalicFont     = HelveticaNeue-LightItalic,
+%  BoldFont       = HelveticaNeue-UltraLight,
+%  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
 \newfontfamily\NHLight[
-  ItalicFont     = HelveticaNeue-LightItalic,
-  BoldFont       = HelveticaNeue-UltraLight,
-  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
-% \setmainfont[
-%    ItalicFont     = Iosevka-Aile-Italic,
-%    BoldFont       = Iosevka-Aile-Bold,
-%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
-% \newfontfamily\NHLight[
-%    ItalicFont     = Iosevka-Aile-Light-Italic,
-%    BoldFont       = Iosevka-Aile-Light,
-%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+  ItalicFont     = OpenSans-LightItalic,
+  BoldFont       = OpenSans-Regular,
+  BoldItalicFont = OpenSans-Italic]{OpenSans-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -130,50 +159,14 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}6603)}}    % original
-%\rhead{\textrmlf{Compiled }\#6603\textrmlf{ on} \today }      % old date
-\rhead{\textrmlf{Compiled }\#6603\textrmlf{ on} \today}       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16608)}}    % original
+%\rhead{\textrmlf{Compiled }\#16608\textrmlf{ on} \today }      % old date
+\rhead{
+    \today
+    }       % new date
 \lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage}
+\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
-\usepackage{color}
-\usepackage{fancyvrb}
-\newcommand{\VerbBar}{|}
-\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
-\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
-% Add ',fontsize=\small' for more characters per line
-\newenvironment{Shaded}{}{}
-\newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
-\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
-\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{#1}}
-\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
-\newcommand{\BuiltInTok}[1]{#1}
-\newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
-\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{#1}}}
-\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
-\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{#1}}
-\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
-\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{#1}}
-\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
-\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{#1}}}
-\newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
-\newcommand{\ExtensionTok}[1]{#1}
-\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
-\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{#1}}
-\newcommand{\ImportTok}[1]{#1}
-\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
-\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
-\newcommand{\NormalTok}[1]{#1}
-\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{#1}}
-\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{#1}}
-\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{#1}}
-\newcommand{\RegionMarkerTok}[1]{#1}
-\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
-\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{#1}}
-\newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
-\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{#1}}
-\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
-\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
 
 \titleformat{\section}
 {\Large}
@@ -207,26 +200,58 @@
     \end{center}
 }
 
+% exr0n linear algebra mathops
+\DeclareMathOperator{\orange}{\text{range}}
+\DeclareMathOperator{\ospan}{\text{span}}
+\DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
+
 \begin{document}
 
 % DID YOU SET SPELL????
 
-why doesn't this cause an error?
+\hypertarget{are-you-readyyyyyy}{%
+\section{are you readyyyyyy}\label{are-you-readyyyyyy}}
 
-\begin{Shaded}
-\begin{Highlighting}[]
-\DataTypeTok{int}\NormalTok{ main()}
-\NormalTok{\{}
-\NormalTok{    printf(}\StringTok{"error?}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{);}
-\NormalTok{\}}
-\end{Highlighting}
-\end{Shaded}
+for the 2021-2020 school yearrrrrrrrr
 
-\hypertarget{heading-test}{%
-\section{heading test}\label{heading-test}}
+\begin{verbatim}
+amazing
+epico   
 
-And you get some \LaTeX!
+so like, shrug if i know how to install open sans or nimbus sans narrow
 
-wooooo
+epico
+e
+bruhhhhhhhhhhhhhhh
+
+*stuff* and /things/ _underline_ **bold** *italic*
+
+bruhhhhhhhhhhhhhhh
+eeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+oeeeeeeesnathoeusnthaosenuthasoenuthasnoethusnatoheusnathoeusntahoeu
+eeeeeeeeeeeeeesanthoesuntahoesnuthasonethusnth
+esnathoesuntahoesunthasonetuhsnatoheusnathoeusnthaoesunth
+saontehusantoheusnthaoesunthaosenuth
+
+what the hell man
+sanotehusnatoheusnthaoesnuthsanoethusnatoehu
+santoheusntahoesnuthaoseunth
+santoehsuntahoesnuthaoesunth
+asnoethusanotehusnatoheusnt
+okie its open sans time
+SNACKARY DID NOT BELIEVE IN ME BUT OPEN SANS IS THE LIFE 
+sanoethusnatoehusntahoesunth
+asntoheusntahoesnuthasonethu
+workity borkit?????
+taoehunthaonethuntaoheunthaoentuhnatoehuntaoehuntahoeunthaontehuntaoheunthaeounth
+asonetuhanotehurthaonkjbnq;jhkrotbnekbqrjchknqtjbkrqjbkrb
+ourieioureioerioerieorireoruoeuioeruoerioeu
+IT WOSENTHRQTJhkNTOESNUHQJKNTBr
+why is it serifed 
+it literally says sans in the NAMEEEEEEEEEEEEEEEEEEEeee
+monotonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+\end{verbatim}
 
 \end{document}

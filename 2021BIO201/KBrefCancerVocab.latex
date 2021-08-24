@@ -1,0 +1,327 @@
+\documentclass[
+]{article}
+
+\setlength\parindent{0pt}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{cancel}
+
+\usepackage{ifthen}
+\usepackage{trimspaces}
+
+\usepackage{graphicx}
+\usepackage{xesearch}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+
+\UndoBoundary{[, ], \_}
+\SearchList{startbrac}{}{*[?}
+\SearchList{endbrac}{}{*]?}
+\SearchList{kbtag}{\color{ForestGreen}{\href{http://taproot.shabang.cf/relay?request=#1}{\tiny\textulf{[[}\textbf{#1}\textulf{]]}}}\color{black}}{*KB?}
+
+
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\graphicspath{ {./} }
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{makecell}
+\usepackage{bookmark}
+
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\usepackage{mathspec}
+\setmainfont[
+  ItalicFont     = HelveticaNeue-Italic,
+  BoldFont       = HelveticaNeue-Bold,
+  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+\newfontfamily\NHLight[
+  ItalicFont     = HelveticaNeue-LightItalic,
+  BoldFont       = HelveticaNeue-UltraLight,
+  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
+% \setmainfont[
+%    ItalicFont     = Iosevka-Aile-Italic,
+%    BoldFont       = Iosevka-Aile-Bold,
+%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
+% \newfontfamily\NHLight[
+%    ItalicFont     = Iosevka-Aile-Light-Italic,
+%    BoldFont       = Iosevka-Aile-Light,
+%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+
+\newcommand\textrmlf[1]{{\NHLight#1}}
+\newcommand\textitlf[1]{{\NHLight\itshape#1}}
+\let\textbflf\textrm
+\newcommand\textulf[1]{{\NHLight\bfseries#1}}
+\newcommand\textuitlf[1]{{\NHLight\bfseries\itshape#1}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Cancer Terms }
+
+\title{\textbf{\thecourse}\thelesson}
+
+\pagestyle{fancy}
+
+\fancyfoot{}
+
+\makeatletter
+\trim@spaces@in \thecourse
+\trim@spaces@in \thelesson
+\makeatother
+\lhead{\textbf{\thecourse} \thelesson}
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}7405)}}    % original
+%\rhead{\textrmlf{Compiled }\#7405\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#7405\textrmlf{ on} \today}       % new date
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
+\rfoot{\textrmlf{Page} \thepage}
+
+
+\titleformat{\section}
+{\Large}
+{\textrmlf{\thesection} {|}}
+{0.3em}
+{\textbf}
+
+
+\titleformat{\subsection}
+{\large}
+{\textrmlf{\thesubsection} {|}}
+{0.2em}
+{\textbf}
+
+\titleformat{\subsubsection}
+{\large}
+{\textrmlf{\thesubsubsection} {|}}
+{0.1em}
+{\textbf}
+
+\setlength{\parskip}{0.45em}
+
+\newcounter{definitionct}
+\newcommand{\definition}[3][]{
+    \stepcounter{definitionct}
+    \begin{center}
+        Definition \arabic{definitionct} \(\cdot\) [ \textbf{#2} \textrmlf{#3} ]
+        \ifthenelse{ \equal{#1}{} }
+            {}
+            {\\ \textrmlf{#1}}
+    \end{center}
+}
+
+\begin{document}
+
+% DID YOU SET SPELL????
+\textbf{Source}:\thinspace 
+
+\hypertarget{benign-tumor}{%
+\section{Benign tumor}\label{benign-tumor}}
+
+\hypertarget{a-tumor-that-is-not-dangerouscancerous}{%
+\subsection{a tumor that is not
+dangerous/cancerous}\label{a-tumor-that-is-not-dangerouscancerous}}
+
+\hypertarget{not-spreading-or-growing-too-fast}{%
+\subsubsection{not spreading or growing too
+fast}\label{not-spreading-or-growing-too-fast}}
+
+\hypertarget{carcinogenesis}{%
+\section{Carcinogenesis}\label{carcinogenesis}}
+
+\hypertarget{causing-a-cancerous-mutation}{%
+\subsection{causing a cancerous
+mutation}\label{causing-a-cancerous-mutation}}
+
+\hypertarget{typically-an-environmental-compound}{%
+\subsection{typically an environmental
+compound}\label{typically-an-environmental-compound}}
+
+\hypertarget{what-does-ionizing-radiation-have-to-do-with-this-causing-molecular-level-structural-damage-and-thus-cancer}{%
+\subsection{\texorpdfstring{{TODO} what does ionizing radiation have to
+do with this causing molecular level structural damage and thus cancer?
+{\textsc{question}}}{TODO what does ionizing radiation have to do with this causing molecular level structural damage and thus cancer? question}}\label{what-does-ionizing-radiation-have-to-do-with-this-causing-molecular-level-structural-damage-and-thus-cancer}}
+
+\hypertarget{in-situ-cancer}{%
+\section{in situ cancer}\label{in-situ-cancer}}
+
+\hypertarget{growing-where-it-started-not-moving}{%
+\subsection{growing where it started (not
+moving)}\label{growing-where-it-started-not-moving}}
+
+\hypertarget{in-contrast-to-metastatic-cancer}{%
+\subsection{in contrast to metastatic
+cancer}\label{in-contrast-to-metastatic-cancer}}
+
+\hypertarget{metastatic-cancer}{%
+\section{metastatic cancer}\label{metastatic-cancer}}
+
+\hypertarget{cancer-gains-the-ability-to-invade-new-tissues}{%
+\subsection{cancer gains the ability to invade new
+tissues}\label{cancer-gains-the-ability-to-invade-new-tissues}}
+
+\hypertarget{invasive-cancer}{%
+\section{invasive cancer}\label{invasive-cancer}}
+
+\hypertarget{cancer-that-impacts-the-function-of-the-organ-or-goes-somewhere-new}{%
+\subsection{cancer that impacts the function of the organ or goes
+somewhere
+new}\label{cancer-that-impacts-the-function-of-the-organ-or-goes-somewhere-new}}
+
+\hypertarget{a-cancer-can-be-invasive-but-not-metastatic}{%
+\subsection{a cancer can be invasive but not
+metastatic}\label{a-cancer-can-be-invasive-but-not-metastatic}}
+
+\hypertarget{oncogenesis}{%
+\section{oncogenesis}\label{oncogenesis}}
+
+\hypertarget{the-creation-of-cancer-after-the-mutation}{%
+\subsection{the creation of cancer (after the
+mutation)}\label{the-creation-of-cancer-after-the-mutation}}
+
+\hypertarget{mutagenesis}{%
+\section{mutagenesis}\label{mutagenesis}}
+
+\hypertarget{the-mutation-of-a-gene-that-might-cause-cancer}{%
+\subsection{the mutation of a gene that might cause
+cancer}\label{the-mutation-of-a-gene-that-might-cause-cancer}}
+
+\hypertarget{protease}{%
+\section{protease}\label{protease}}
+
+\hypertarget{a-protien-that-eats-other-protiens}{%
+\subsection{a protien that eats other
+protiens}\label{a-protien-that-eats-other-protiens}}
+
+\hypertarget{caspase}{%
+\section{caspase}\label{caspase}}
+
+\hypertarget{a-family-of-protiens-that-control-cell-death-apoptosis}{%
+\subsection{a family of protiens that control cell death
+(apoptosis)}\label{a-family-of-protiens-that-control-cell-death-apoptosis}}
+
+\hypertarget{autophagy}{%
+\section{autophagy}\label{autophagy}}
+
+\hypertarget{the-process-by-which-a-cell-eats-itself}{%
+\subsection{the process by which a cell eats
+itself}\label{the-process-by-which-a-cell-eats-itself}}
+
+\hypertarget{blebbing}{%
+\section{blebbing}\label{blebbing}}
+
+\hypertarget{a-cell-that-is-eating-itself-creates-waste-vescicles}{%
+\subsection{a cell that is eating itself creates "waste
+vescicles"?}\label{a-cell-that-is-eating-itself-creates-waste-vescicles}}
+
+\hypertarget{necrotic-cells}{%
+\section{necrotic cells}\label{necrotic-cells}}
+
+\hypertarget{explode-and-release-tissue-into-the-microenvironment-releasing-inflammatory-signals}{%
+\subsection{explode and release tissue into the microenvironment,
+releasing inflammatory
+signals}\label{explode-and-release-tissue-into-the-microenvironment-releasing-inflammatory-signals}}
+
+\hypertarget{generally-bad-does-more-damage-than-good}{%
+\subsection{generally bad (does more damage than
+good?)}\label{generally-bad-does-more-damage-than-good}}
+
+\hypertarget{worse-than-autophagy-apoptosis-bc-it-might-give-other-cells-ideas}{%
+\subsection{worse than autophagy / apoptosis bc it might "give other
+cells
+ideas"}\label{worse-than-autophagy-apoptosis-bc-it-might-give-other-cells-ideas}}
+
+\hypertarget{other-programmed-cell-death-types-are-clean-in-that-they-put-everything-in-waste-vescicles-and-etc}{%
+\subsubsection{other programmed cell death types are "clean", in that
+they put everything in waste vescicles and
+etc}\label{other-programmed-cell-death-types-are-clean-in-that-they-put-everything-in-waste-vescicles-and-etc}}
+
+\hypertarget{cell-death}{%
+\section{cell death}\label{cell-death}}
+
+\hypertarget{can-be-attributed-to}{%
+\subsection{can be attributed to}\label{can-be-attributed-to}}
+
+\hypertarget{apoptosis}{%
+\subsubsection{apoptosis}\label{apoptosis}}
+
+\hypertarget{necrothesis}{%
+\subsubsection{necrothesis}\label{necrothesis}}
+
+\hypertarget{autophagy-1}{%
+\subsubsection{autophagy}\label{autophagy-1}}
+
+\hypertarget{karyotype}{%
+\section{karyotype}\label{karyotype}}
+
+\hypertarget{counting-the-number-appearence-of-chromosomes}{%
+\subsection{counting the number / appearence of
+chromosomes}\label{counting-the-number-appearence-of-chromosomes}}
+
+\hypertarget{angiogenesis}{%
+\section{angiogenesis}\label{angiogenesis}}
+
+\hypertarget{the-creation-of-blood-vessels}{%
+\subsection{the creation of blood
+vessels}\label{the-creation-of-blood-vessels}}
+
+\end{document}

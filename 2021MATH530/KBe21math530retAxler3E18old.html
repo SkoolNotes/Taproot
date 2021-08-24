@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta name="generator" content="pandoc" />
+                        <title>  Axler 3.E ex18 </title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <style>
+html {
+    min-height: 100%;
+    min-width: 100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #fafafa;
+}
+
+    #center-viewport {
+        margin: 0 auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 1200px;
+        padding-bottom: 20px;
+    }
+
+    img {
+        max-height: 40vh;
+        width: auto;
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 8px; color: darkgreen
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        margin-top: 20px;
+        display: inline-block;
+        /* border-bottom: 2px rgba(191, 60, 60, 0.4) solid; */
+    }
+
+    h2 {
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+        </style>
+    </head>
+    <body>
+        <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong></strong> Axler 3.E ex18 </span></div>
+        </div>
+        <div id="center-viewport">
+            <p><strong>Source</strong>:</p>
+            <h1 id="problem-axler-3.e-exercise-18">Problem: Axler 3.E exercise 18</h1>
+            <blockquote>
+            <p>Suppose <span class="math inline">\(T \in \mathcal L(V, W)\)</span> and <span class="math inline">\(U\)</span> is a subspace of <span class="math inline">\(V\)</span>. Let π denote the quotient map from <span class="math inline">\(V\)</span> onto <span class="math inline">\(V/U\)</span>. Prove that there exists <span class="math inline">\(S \in \mathcal L(V/U, W)\)</span> such that <span class="math inline">\(T = S \circ \pi\)</span> if and only if <span class="math inline">\(U \subseteq \text{null }T\)</span>.</p>
+            </blockquote>
+            <p>Intuitively, if we mod out part of the <span class="math inline">\(\text{null }T\)</span>, then we should still be able to have a map that does what <span class="math inline">\(T\)</span> would do. If we are able to do what <span class="math inline">\(T\)</span> would do, then when modding out <span class="math inline">\(U\)</span> we only removed part of <span class="math inline">\(\text{null }T\)</span> and lost no information.</p>
+            <h1 id="forward-direction">Forward Direction</h1>
+            <p>Intuitively, we can treat <span class="math inline">\(S \circ \pi\)</span> as a single map and take a basis of <span class="math inline">\(V\)</span> to the same place that <span class="math inline">\(T\)</span> would, and the maps would be equal.</p>
+            <p><del>If <span class="math inline">\(V\)</span> is finite dimensional, suppose <span class="math inline">\(v_1, \ldots, v_n\)</span> is a basis of <span class="math inline">\(V\)</span> and <span class="math inline">\(v_1, \ldots, v_k\)</span> is a basis of <span class="math inline">\(U\)</span> (<span class="math inline">\(k = \text{dim } U\)</span> and <span class="math inline">\(n = \text{dim }V\)</span>).</del> <del>For each <span class="math inline">\(k &lt; j \le n\)</span>, <span class="math inline">\(\pi v_j \neq 0\)</span>, and we can control where <span class="math inline">\(S\)</span> should send it. Let <span class="math inline">\(S\)</span> be defined by:</del> <span class="math display">\[S( \pi v_j) = T v_j\]</span> <del>Then, <span class="math inline">\(S \circ \pi\)</span> will send each vector in <span class="math inline">\(U\)</span> to 0 and each other vector where <span class="math inline">\(T\)</span> would send it. Because <span class="math inline">\(U \subseteq \text{null }T\)</span>, <span class="math inline">\(S \circ \pi = T\)</span>.</del></p>
+            <p><del>This argument does not work for infinite dimensional vector spaces. Instead, perhaps we can send anything not in <span class="math inline">\(U\)</span> to where <span class="math inline">\(T\)</span> would send it and show that the resulting <span class="math inline">\(S\)</span> is linear? I’m not convinced by the following argument:</del></p>
+            <p><del>Let <span class="math inline">\(S : V/U \to W\)</span> s.t. <span class="math inline">\(S(\pi v) = Tv\)</span>. Then, <span class="math inline">\(S \circ \pi = T\)</span>.</del></p>
+            <p><del>For <span class="math inline">\(S\)</span> to be linear, it needs to be additive and homogenous. For <span class="math inline">\(u, v \in V\)</span> and <span class="math inline">\(\lambda \in \mathbb F\)</span>,</del> <del>. <span class="math display">\[S\pi u + S\pi v = Tu + Tv = T(u+v) = S(\pi u + \pi v)\]</span> .</del> <del>. <span class="math display">\[\lambda S \pi u = \lambda T u = T(\lambda u) = S (\lambda \pi u)\]</span> .</del></p>
+            <p><del>In other words, <span class="math inline">\(T\)</span> is linear thus <span class="math inline">\(S \circ \pi\)</span> is also linear.</del></p>
+            <p>Let <span class="math inline">\(S\)</span> be a relation between <span class="math inline">\(V/U\)</span> and <span class="math inline">\(W\)</span> defined by <span class="math display">\[S(U+v) = Tv\]</span></p>
+            <p>If <span class="math inline">\(S\)</span> is well defined (every element in <span class="math inline">\(V/U\)</span> is mapped to exactly one place), then <span class="math inline">\(S\)</span> will inherit additivity and homogeneity from <span class="math inline">\(T\)</span> and <span class="math inline">\(S \circ \pi\)</span> will equal <span class="math inline">\(T\)</span>.</p>
+            <p>Let <span class="math inline">\(v \in V\)</span> and <span class="math inline">\(v&#39; \in V/U\)</span> s.t. <span class="math inline">\(v&#39; = \pi v\)</span> (<span class="math inline">\(v&#39;\)</span> is where <span class="math inline">\(\pi\)</span> takes <span class="math inline">\(v\)</span>). Then, to show that <span class="math inline">\(S\)</span> is well defined, we must show that <span class="math inline">\(v\)</span> has atleast one and at most one image through <span class="math inline">\(S \circ \pi\)</span>.</p>
+            <p>Because <span class="math inline">\(\pi v\)</span> is well defined, and <span class="math inline">\(U+v\)</span> was arbitrary in the definition of <span class="math inline">\(S\)</span>, each <span class="math inline">\(v\)</span> must have atleast one image in <span class="math inline">\(W\)</span>.</p>
+            <p>Take <span class="math inline">\(S\)</span> to be an arbitrary linear map. The only restriction on <span class="math inline">\(S\)</span> that could cause <span class="math inline">\(S(U+v) \neq Tv\)</span> is <span class="math inline">\(S(0) = 0\)</span> (this statement is not watertight). Thus, <span class="math inline">\(S\)</span> is defined if <span class="math inline">\(\forall U+v = U = 0\)</span>, <span class="math inline">\(Tv = 0\)</span>. Equivalently, <span class="math inline">\(S\)</span> is defined if <span class="math inline">\(U \subseteq \text{null }T\)</span>, which is given in the problem.</p>
+            <p>Thus, <span class="math inline">\(S\)</span> is well defined. To show that it inherits additivity and homogeneity: <span class="math display">\[S(U+u) + S(U+v) = Tu + Tv = T(u+v) = S(U+u + U+v) = S(U+(u+v))\]</span> <span class="math display">\[\lambda\left(S(U+v)\right) = \lambda Tv = T(\lambda v) = S(U+(\lambda v))\]</span></p>
+            <p>Thus, <span class="math inline">\(S\)</span> is linear, and <span class="math inline">\(S \circ \pi = T\)</span> if <span class="math inline">\(U \subseteq \text{null }T\)</span>.</p>
+            <h2 id="define-su-v-t-v">define S(U + v) = T v</h2>
+            <h3 id="check-that-it-is-well-defined">check that it is well defined</h3>
+            <ol>
+            <li><p>every element is sent to exactly one place</p></li>
+            </ol>
+            <h3 id="check-that-linearity-is-inhereted-from-t">check that linearity is inhereted from T</h3>
+            <h1 id="reverse-direction-by-contrapositive">Reverse Direction by Contrapositive</h1>
+            <p>Intuitively, if we lost information, then we can’t reconstruct what <span class="math inline">\(T\)</span> would do.</p>
+            <p>Assume <span class="math inline">\(U \nsubseteq \text{null }T\)</span>. There exists <span class="math inline">\(v \in U\)</span> s.t. <span class="math inline">\(Tv \neq 0\)</span>. This is some of the "information" that was "lost". Because <span class="math inline">\(v \in U\)</span>, <span class="math display">\[\pi v = U + v = U\]</span> Because <span class="math inline">\(U\)</span> is the additive identity (<span class="math inline">\(0\)</span>) in <span class="math inline">\(V/U\)</span>, and because linear maps take zero to zero, <span class="math inline">\(S \in \mathcal L(V/U, W)\)</span> must take <span class="math inline">\(\pi v = 0\)</span> to zero. Thus, either <span class="math inline">\(S(\pi v) \neq Tv\)</span> or <span class="math inline">\(S\)</span> is not a linear map, both of which are contradictions.</p>
+            <p>This shows that if <span class="math inline">\(U \nsubseteq \text{null }T\)</span>, then <span class="math inline">\(S \notin \mathcal L(V/U, W)\)</span> or <span class="math inline">\(T \neq S \circ \pi\)</span>. Thus, if <span class="math inline">\(S \in \mathcal L(V/U, W)\)</span> and <span class="math inline">\(T = S \circ \pi\)</span>, then <span class="math inline">\(U \subseteq \text{null }T\)</span>.</p>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                // Generate clickable links
+                let content = $("#center-viewport").html().replace(/<span>\[<\/span><span>\[<\/span>\w*?<span>]<\/span><span>]/gi, function(x) {
+                    <!--let docPointer = x.match(/(\w)*/);-->
+                        <!--let docPointer = x.match(/KB\w*/);-->
+                    docPointer = [ x.replace(/\<\/?[a-z]+\>/g, '').slice(2, -2) ]
+
+                    if (docPointer) {
+                        let url = `https://taproot.shabang.cf/relay?request=${docPointer[0]}`;
+                        return `<a href="${url}"><span>[[</span><span>${docPointer[0]}</span><span>]]</span></a>`;
+                    } else {
+                        console.log(`Cannot parse , returning...`);
+                        return x;
+                    }
+                })
+                $("#center-viewport").html(content);
+                $("img").each(function() {  
+                    let src = this.src.replace(/.*?\/Users\/houliu\/Documents\/School%20Work\/2020-2021\/KnowledgeBase\//gi, "https://taproot.shabang.cf/");
+                    console.log(src);
+                    $(this).attr("src", src);
+                });
+            });
+        </script>
+    </body>
+</html>
