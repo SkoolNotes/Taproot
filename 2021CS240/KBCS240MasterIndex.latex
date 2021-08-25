@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ CS240 }
+\newcommand{\thelesson}{ CS240 Master Index }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16610)}}    % original
-%\rhead{\textrmlf{Compiled }\#16610\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16637)}}    % original
+%\rhead{\textrmlf{Compiled }\#16637\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -210,36 +210,16 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{are-you-readyyyyyy}{%
-\section{are you readyyyyyy}\label{are-you-readyyyyyy}}
+\hypertarget{cs240-master-index}{%
+\section{CS240 master index}\label{cs240-master-index}}
 
-for the 2021-2020 school yearrrrrrrrr
+\hypertarget{day-1}{%
+\subsection{Day 1}\label{day-1}}
 
-amazing epico
-
-so like, shrug if i know how to install open sans or nimbus sans narrow
-
-epico e bruhhhhhhhhhhhhhhh
-
-\emph{stuff} and /things/ \emph{underline} \textbf{bold} \emph{italic}
-
-bruhhhhhhhhhhhhhhh eeeeeeeeeeeeeeeeeeee
-eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-oeeeeeeesnathoeusnthaosenuthasoenuthasnoethusnatoheusnathoeusntahoeu
-eeeeeeeeeeeeeesanthoesuntahoesnuthasonethusnth
-esnathoesuntahoesunthasonetuhsnatoheusnathoeusnthaoesunth
-saontehusantoheusnthaoesunthaosenuth
-
-what the hell man sanotehusnatoheusnthaoesnuthsanoethusnatoehu
-santoheusntahoesnuthaoseunth santoehsuntahoesnuthaoesunth
-asnoethusanotehusnatoheusnt okie its open sans time SNACKARY DID NOT
-BELIEVE IN ME BUT OPEN SANS IS THE LIFE sanoethusnatoehusntahoesunth
-asntoheusntahoesnuthasonethu workity borkit?????
-taoehunthaonethuntaoheunthaoentuhnatoehuntaoehuntahoeunthaontehuntaoheunthaeounth
-asonetuhanotehurthaonkjbnq;jhkrotbnekbqrjchknqtjbkrqjbkrb
-ourieioureioerioerieorireoruoeuioeruoerioeu IT
-WOSENTHRQTJhkNTOESNUHQJKNTBr why is it serifed it literally says sans in
-the NAMEEEEEEEEEEEEEEEEEEEeee monotonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-MILDLY A SCAM BC MARKDOWN TREATS INDENTED STUFF AS CODEBLOCKKKKKK
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBhCS240Day1{]}{]}
+\end{itemize}
 
 \end{document}

@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ CS240 }
+\newcommand{\thelesson}{ Day One }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16610)}}    % original
-%\rhead{\textrmlf{Compiled }\#16610\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16640)}}    % original
+%\rhead{\textrmlf{Compiled }\#16640\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,37 +209,18 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBCS240MasterIndex}{\tiny\textulf{[[}\textbf{KBCS240MasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{are-you-readyyyyyy}{%
-\section{are you readyyyyyy}\label{are-you-readyyyyyy}}
+\hypertarget{begin-computer-security}{%
+\section{Begin! Computer Security}\label{begin-computer-security}}
 
-for the 2021-2020 school yearrrrrrrrr
+White hat. for sure. yeah. that one.
 
-amazing epico
+Most people seem new to comp sec\ldots{}
 
-so like, shrug if i know how to install open sans or nimbus sans narrow
-
-epico e bruhhhhhhhhhhhhhhh
-
-\emph{stuff} and /things/ \emph{underline} \textbf{bold} \emph{italic}
-
-bruhhhhhhhhhhhhhhh eeeeeeeeeeeeeeeeeeee
-eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-oeeeeeeesnathoeusnthaosenuthasoenuthasnoethusnatoheusnathoeusntahoeu
-eeeeeeeeeeeeeesanthoesuntahoesnuthasonethusnth
-esnathoesuntahoesunthasonetuhsnatoheusnathoeusnthaoesunth
-saontehusantoheusnthaoesunthaosenuth
-
-what the hell man sanotehusnatoheusnthaoesnuthsanoethusnatoehu
-santoheusntahoesnuthaoseunth santoehsuntahoesnuthaoesunth
-asnoethusanotehusnatoheusnt okie its open sans time SNACKARY DID NOT
-BELIEVE IN ME BUT OPEN SANS IS THE LIFE sanoethusnatoehusntahoesunth
-asntoheusntahoesnuthasonethu workity borkit?????
-taoehunthaonethuntaoheunthaoentuhnatoehuntaoehuntahoeunthaontehuntaoheunthaeounth
-asonetuhanotehurthaonkjbnq;jhkrotbnekbqrjchknqtjbkrqjbkrb
-ourieioureioerioerieorireoruoeuioeruoerioeu IT
-WOSENTHRQTJhkNTOESNUHQJKNTBr why is it serifed it literally says sans in
-the NAMEEEEEEEEEEEEEEEEEEEeee monotonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-MILDLY A SCAM BC MARKDOWN TREATS INDENTED STUFF AS CODEBLOCKKKKKK
+\begin{verbatim}
+this is a qoute!
+\end{verbatim}
 
 \end{document}

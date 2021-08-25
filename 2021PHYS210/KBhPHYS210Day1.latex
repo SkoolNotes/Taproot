@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ PHYS210 }
+\newcommand{\thelesson}{ Physics Day 1 }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16610)}}    % original
-%\rhead{\textrmlf{Compiled }\#16610\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16630)}}    % original
+%\rhead{\textrmlf{Compiled }\#16630\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,36 +210,26 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{are-you-readyyyyyy}{%
-\section{are you readyyyyyy}\label{are-you-readyyyyyy}}
+\hypertarget{physics-210-day-1}{%
+\section{Physics 210 Day 1}\label{physics-210-day-1}}
 
-for the 2021-2020 school yearrrrrrrrr
+\hypertarget{trivia-with-mark}{%
+\subsection{Trivia with Mark}\label{trivia-with-mark}}
 
-amazing epico
+\begin{verbatim}
+===========>
+<===========
+===========>
+\end{verbatim}
 
-so like, shrug if i know how to install open sans or nimbus sans narrow
+Bustor-phedonic scan.
 
-epico e bruhhhhhhhhhhhhhhh
+\begin{verbatim}
+===========>
+===========>
+===========>
+\end{verbatim}
 
-\emph{stuff} and /things/ \emph{underline} \textbf{bold} \emph{italic}
-
-bruhhhhhhhhhhhhhhh eeeeeeeeeeeeeeeeeeee
-eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-oeeeeeeesnathoeusnthaosenuthasoenuthasnoethusnatoheusnathoeusntahoeu
-eeeeeeeeeeeeeesanthoesuntahoesnuthasonethusnth
-esnathoesuntahoesunthasonetuhsnatoheusnathoeusnthaoesunth
-saontehusantoheusnthaoesunthaosenuth
-
-what the hell man sanotehusnatoheusnthaoesnuthsanoethusnatoehu
-santoheusntahoesnuthaoseunth santoehsuntahoesnuthaoesunth
-asnoethusanotehusnatoheusnt okie its open sans time SNACKARY DID NOT
-BELIEVE IN ME BUT OPEN SANS IS THE LIFE sanoethusnatoehusntahoesunth
-asntoheusntahoesnuthasonethu workity borkit?????
-taoehunthaonethuntaoheunthaoentuhnatoehuntaoehuntahoeunthaontehuntaoheunthaeounth
-asonetuhanotehurthaonkjbnq;jhkrotbnekbqrjchknqtjbkrqjbkrb
-ourieioureioerioerieorireoruoeuioeruoerioeu IT
-WOSENTHRQTJhkNTOESNUHQJKNTBr why is it serifed it literally says sans in
-the NAMEEEEEEEEEEEEEEEEEEEeee monotonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-MILDLY A SCAM BC MARKDOWN TREATS INDENTED STUFF AS CODEBLOCKKKKKK
+Rastor scan.
 
 \end{document}
