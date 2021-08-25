@@ -9,6 +9,20 @@ source: KBCS240MasterIndex
 
 **Not attacking people**. :( /s
 
+=> Upcoming Internship that Wes is securing?
 
+## Wes' Expectations
+* Have fun
+* Embrace frustration
+* Be supportive
+* Use resources
+* Ask for help!
 
+**Hard deadline**: time deadlines
 
+**Submission guidelines for alternative projects**
+
+- Explanation
+- Results of work
+- Data
+- DOCUMENTATION

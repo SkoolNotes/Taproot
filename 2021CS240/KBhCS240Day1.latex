@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16638)}}    % original
-%\rhead{\textrmlf{Compiled }\#16638\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16657)}}    % original
+%\rhead{\textrmlf{Compiled }\#16657\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -216,5 +216,40 @@
 \section{CS240 Day 1}\label{cs240-day-1}}
 
 \textbf{Not attacking people}. :( /s
+
+=\textgreater{} Upcoming Internship that Wes is securing?
+
+\hypertarget{wes-expectations}{%
+\subsection{Wes' Expectations}\label{wes-expectations}}
+
+\begin{itemize}
+\tightlist
+\item
+  Have fun
+\item
+  Embrace frustration
+\item
+  Be supportive
+\item
+  Use resources
+\item
+  Ask for help!
+\end{itemize}
+
+\textbf{Hard deadline}: time deadlines
+
+\textbf{Submission guidelines for alternative projects}
+
+\begin{itemize}
+\tightlist
+\item
+  Explanation
+\item
+  Results of work
+\item
+  Data
+\item
+  DOCUMENTATION
+\end{itemize}
 
 \end{document}

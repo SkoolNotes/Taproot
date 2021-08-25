@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16640)}}    % original
-%\rhead{\textrmlf{Compiled }\#16640\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16657)}}    % original
+%\rhead{\textrmlf{Compiled }\#16657\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -217,10 +217,28 @@
 
 White hat. for sure. yeah. that one.
 
-Most people seem new to comp sec\ldots{}
+\begin{verbatim}
+Most people seem new to comp sec...
+\end{verbatim}
 
 \begin{verbatim}
-this is a qoute!
+evalutate own work so u cant be taken advantage of, and learn how you learn
+and also try to learn about comp sec!
+\end{verbatim}
+
+\begin{verbatim}
+this is an example
+**BOLD**
+\end{verbatim}
+
+\hypertarget{submission}{%
+\subsubsection{Submission:}\label{submission}}
+
+explain how to run it! explain with comments! self score for every one
+otherwise it will not be graded
+
+\begin{verbatim}
+dont hack you own laptops!
 \end{verbatim}
 
 \end{document}
