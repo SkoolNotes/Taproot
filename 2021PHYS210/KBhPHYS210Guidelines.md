@@ -7,7 +7,7 @@ author: Houjun Liu
 
 # Research Guidelines
 ## Chain fountain
-_Figure out what people are using for chain fountains, and buy lots of it** Also buy a chain tool to work with chains.
+_Figure out what people are using for chain fountains, and buy lots of it_ Also buy a chain tool to work with chains.
 
 **Things to do**
 
@@ -19,5 +19,10 @@ _Figure out what people are using for chain fountains, and buy lots of it** Also
 
 [supplm.1]
 
-## Magnets!
+[[KBhPHYS210ChainFountainIndex]]
+
+## Magnets
+[supplm.2]
+
+TBD and TODO
 

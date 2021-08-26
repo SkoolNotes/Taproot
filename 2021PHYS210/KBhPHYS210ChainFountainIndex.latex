@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ PHYS210 }
+\newcommand{\thelesson}{ Chain Fountain Index }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16736)}}    % original
-%\rhead{\textrmlf{Compiled }\#16736\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16726)}}    % original
+%\rhead{\textrmlf{Compiled }\#16726\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,109 +209,12 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBhPHYS210Guidelines}{\tiny\textulf{[[}\textbf{KBhPHYS210Guidelines}\textulf{]]}}}\thinspace
 
-\hypertarget{types-of-numbers}{%
-\subsection{Types of Numbers}\label{types-of-numbers}}
+\hypertarget{chain-fountain-index}{%
+\section{Chain Fountain Index}\label{chain-fountain-index}}
 
-algebra:
-
-\begin{verbatim}
-algebra is doing stuff to things
-\end{verbatim}
-
-\begin{itemize}
-\tightlist
-\item
-  idea of a number changes -- 500yago they didnt know about negs
-\end{itemize}
-
-natural numbers are the most natural, apparently 0 not in natural, 0 in
-whole
-
-\(\mathbb{z}\) for integers, counting in german
-
-rational numbers: a/b \(a,b \mathbb{e} \mathbb{z}\)
-
-real numbers: infinite all the way down way more real numbers than
-rational numbers
-
-\begin{itemize}
-\tightlist
-\item
-  Zero: important for groups -- starting point on number lines. true
-  neutral, \textbf{Additive Identity}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    **Multiplicative Identity*: 1
-  \item
-    identity lets it keep it's identity? when the op doesn't change
-  \end{itemize}
-\item
-  negs: so we can deal with negs? so we can undo addition
-\end{itemize}
-
-\begin{verbatim}
-subtraction is a lie! add negs
-subtraction on the natural numbers is not closed
-\end{verbatim}
-
-\begin{verbatim}
-closed: can make a number not in the set
-\end{verbatim}
-
-\hypertarget{groups}{%
-\subsection{Groups}\label{groups}}
-
-\begin{verbatim}
-any set of mathematical elemements under one operation such that there is an identity each element has an inverse
-\end{verbatim}
-
-\begin{itemize}
-\tightlist
-\item
-  they do not need to be \textbf{communitive}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    a+b = b+a
-  \end{itemize}
-\item
-  \textbf{associativity}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    (a+b)+c=a+(b+c)
-  \item
-    order doesnt matter
-  \item
-    most things we are doing will be associative
-  \item
-    nice number systems are almost always associative
-  \end{itemize}
-\end{itemize}
-
-can add dimensions, like complex adding more leads to quaternions or
-hamiltonians, then to sadonians?
-
-\hypertarget{matrices}{%
-\subsection{Matrices}\label{matrices}}
-
-\begin{itemize}
-\tightlist
-\item
-  can be called an array
-\item
-  2d can use rows and columns as coords
-\end{itemize}
-
-\hypertarget{operations}{%
-\paragraph{operations:}\label{operations}}
-
-addition: only if same dimensions, loop through indicies dot: cross:
-first row by first column
+\textbf{Linear density}: mass per unit length
 
 \end{document}
