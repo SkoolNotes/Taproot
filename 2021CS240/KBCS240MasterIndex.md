@@ -8,3 +8,8 @@ source: #index
 
 ## Day 1
 - [[KBhCS240Day1]]
+- [[KBxDayOneCompSec]]
+- [[KBxLegalityInCompSec]]
+- 
+
+

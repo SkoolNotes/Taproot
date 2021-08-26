@@ -1,3 +1,1 @@
-        Log for attempt at Thu Aug 26 09:27:01 AM PDT 2021 (16736)
-        Thu Aug 26 09:27:01 AM PDT 2021 Converting 21MATH530/KBxLInAlgDayTwo.md...
-[WARNING] Missing character: There is no e ("65) in font msbm10!
+        Log for attempt at Thu Aug 26 12:42:26 PM PDT 2021 (16768)

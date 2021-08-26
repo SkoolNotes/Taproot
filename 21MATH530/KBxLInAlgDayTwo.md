@@ -50,6 +50,9 @@ any set of mathematical elemements under one operation such that there is an ide
 
 can add dimensions, like complex
 adding more leads to quaternions or hamiltonians, then to sadonians?
+```ad-tip
+called the cayley dickson construction, or smt
+```
 
 
 ## Matrices
@@ -61,16 +64,60 @@ adding more leads to quaternions or hamiltonians, then to sadonians?
 
 addition: only if same dimensions, loop through indicies
 dot:
-cross: first row by first column 
+cross:
+wrong!
+first row by first column with addition to make first entry, first row by second column for second entry
+loop through indicies like addition
+
+
+#### vectors:
+
+special case of matrix
+
+column vec
+( 
+	1,
+	2 
+)
+
+row vec
+( 1, 2 ) 
+
+cannot add diff dimensions
+
+#### representations
+
+can draw up to 3, ish
+geometric is just arrow on graph to coords
+
+adding vecs on the graph is just tip to tail, then first tip to last tail for resultant
+	just like phys
+
+```none
+(
+	a1
+	a2
+	.
+	.
+	.
+	an
+)
+```
+
+is a vector of  $\mathbb{r}^n$
+
+
+```ad-question
+matrix multiplication identity?
+multiplication on group? multiplication on to collum vectors
+```
 
 
 
 
 
 
-
-
-
+[]()
 
 
 
