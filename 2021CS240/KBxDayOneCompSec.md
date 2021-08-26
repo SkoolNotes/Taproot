@@ -22,6 +22,7 @@ and also try to learn about comp sec!
 ```ad-example
 this is an example
 **BOLD**
+*italics* 
 
 ```
 

@@ -2,7 +2,7 @@
 title: Physics Day 1
 author: Houjun Liu
 course: PHYS210
-source: #index 
+source: #index
 ---
 
 # Physics 210 Day 1

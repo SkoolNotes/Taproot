@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ CS240 }
-\newcommand{\thelesson}{ Day One }
+\newcommand{\thecourse}{ PHYS360 }
+\newcommand{\thelesson}{ Physics 360 Day 1 }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16688)}}    % original
-%\rhead{\textrmlf{Compiled }\#16688\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16685)}}    % original
+%\rhead{\textrmlf{Compiled }\#16685\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,36 +210,24 @@
 
 % DID YOU SET SPELL????
 \textbf{Source}:\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBCS240MasterIndex}{\tiny\textulf{[[}\textbf{KBCS240MasterIndex}\textulf{]]}}}\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBPHYS360MasterIndex}{\tiny\textulf{[[}\textbf{KBPHYS360MasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{begin-computer-security}{%
-\section{Begin! Computer Security}\label{begin-computer-security}}
+\hypertarget{three-factors-that-determine-gravity}{%
+\section{Three factors that determine
+gravity}\label{three-factors-that-determine-gravity}}
 
-White hat. for sure. yeah. that one.
+This will work for two point masses (so, like, electrons)
 
-\begin{verbatim}
-Most people seem new to comp sec...
-\end{verbatim}
+\(F_g = \frac{M_1 M_2 G}{R^2}\)
 
-\begin{verbatim}
-evalutate own work so u cant be taken advantage of, and learn how you learn
-and also try to learn about comp sec!
-\end{verbatim}
-
-\begin{verbatim}
-this is an example
-**BOLD**
-*italics* 
-\end{verbatim}
-
-\hypertarget{submission}{%
-\subsubsection{Submission:}\label{submission}}
-
-explain how to run it! explain with comments! self score for every one
-otherwise it will not be graded
-
-\begin{verbatim}
-dont hack you own laptops!
-\end{verbatim}
+\begin{itemize}
+\tightlist
+\item
+  Your mass \(M_1\)
+\item
+  Your thing's mass \(M_2\)
+\item
+  Distance between y'all \(R^2\)
+\end{itemize}
 
 \end{document}

@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ CS240 }
-\newcommand{\thelesson}{ Day One }
+\newcommand{\thecourse}{ PHYS210 }
+\newcommand{\thelesson}{ Physics Research Master Index }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16688)}}    % original
-%\rhead{\textrmlf{Compiled }\#16688\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16693)}}    % original
+%\rhead{\textrmlf{Compiled }\#16693\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,37 +209,17 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBCS240MasterIndex}{\tiny\textulf{[[}\textbf{KBCS240MasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{begin-computer-security}{%
-\section{Begin! Computer Security}\label{begin-computer-security}}
+\hypertarget{physics-research-master-index}{%
+\section{Physics Research Master
+Index}\label{physics-research-master-index}}
 
-White hat. for sure. yeah. that one.
-
-\begin{verbatim}
-Most people seem new to comp sec...
-\end{verbatim}
-
-\begin{verbatim}
-evalutate own work so u cant be taken advantage of, and learn how you learn
-and also try to learn about comp sec!
-\end{verbatim}
-
-\begin{verbatim}
-this is an example
-**BOLD**
-*italics* 
-\end{verbatim}
-
-\hypertarget{submission}{%
-\subsubsection{Submission:}\label{submission}}
-
-explain how to run it! explain with comments! self score for every one
-otherwise it will not be graded
-
-\begin{verbatim}
-dont hack you own laptops!
-\end{verbatim}
+\begin{itemize}
+\tightlist
+\item
+  Day 1: {[}{[}KBhPHYS210Day1{]}{]}
+\item
+  Large Guidelines {[}{[}KBhPHYS210Guidelines{]}{]}
+\end{itemize}
 
 \end{document}

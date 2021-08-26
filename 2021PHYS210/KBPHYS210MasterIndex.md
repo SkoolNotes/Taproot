@@ -7,4 +7,7 @@ course: PHYS210
 
 
 # Physics Research Master Index
-Day 1: [[KBhPHYS210Day1]]
+- Day 1: [[KBhPHYS210Day1]]
+- Large Guidelines [[KBhPHYS210Guidelines]]
+
+
