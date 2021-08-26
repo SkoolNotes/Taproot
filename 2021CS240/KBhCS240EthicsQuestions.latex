@@ -146,7 +146,7 @@
 
 
 \newcommand{\thecourse}{ CS240 }
-\newcommand{\thelesson}{ Ethics }
+\newcommand{\thelesson}{ Ethics Questions }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16782)}}    % original
-%\rhead{\textrmlf{Compiled }\#16782\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16792)}}    % original
+%\rhead{\textrmlf{Compiled }\#16792\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -212,11 +212,8 @@
 \textbf{Source}:\thinspace
 {\href{http://taproot.shabang.cf/relay?request=KBCS240MasterIndex}{\tiny\textulf{[[}\textbf{KBCS240MasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{ethics}{%
-\section{Ethics!}\label{ethics}}
-
 \hypertarget{berdanido}{%
-\subsection{Berdanido}\label{berdanido}}
+\section{Berdanido}\label{berdanido}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -275,14 +272,18 @@
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\tightlist
 \item
   What are the ethical choices people faced? What, if any, actions would
-  you consider unethical? Why?
+  you consider unethical? Why? ``Force'' (Nob) leveraged going under
+  undercover to trick individuals to flip for the DEA. I don't
+  necessarily believe that this act is \emph{ethical}, but it I
+  nevertheless don't believe that he could have done anything different
+  given his job as an DEA agent.
 \item
   What, if any, actions in this story do you think should be illegal?
   What actions are actually illegal? Specify laws that might be
-  relevant, even if no one was caught or prosecuted.
+  relevant, even if no one was caught or prosecuted. I think the process
+  of working in this
 \item
   What things do you think the people involved could have done to
   achieve their goals while staying within legal and ethical bounds?

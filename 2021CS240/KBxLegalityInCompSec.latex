@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16767)}}    % original
-%\rhead{\textrmlf{Compiled }\#16767\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16783)}}    % original
+%\rhead{\textrmlf{Compiled }\#16783\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -212,6 +212,50 @@
 
 \hypertarget{legal-smhegal}{%
 \section{Legal Smhegal}\label{legal-smhegal}}
+
+\textbf{stories}:
+\href{https://groups.csail.mit.edu/mac/classes/6.805/articles/morris-worm.html}{the
+worm} \href{https://www.wired.com/2015/04/silk-road-1/}{silk road}
+
+\#\#\# The Robert Morris Internet Worm
+
+released a self replicating, self propogating worm which exploited the
+sendmail program slowed down a bunch of stuff, spread like wildfire he
+got convicted pretty hard
+
+\begin{verbatim}
+ why did he release it...?
+\end{verbatim}
+
+\hypertarget{questions}{%
+\paragraph{Questions}\label{questions}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  What are the ethical choices people faced? What, if any, actions would
+  you consider unethical? Why?
+\item
+  What, if any, actions in this story do you think should be illegal?
+  What actions are actually illegal? Specify laws that might be
+  relevant, even if no one was caught or prosecuted.
+\item
+  What things do you think the people involved could have done to
+  achieve their goals while staying within legal and ethical bounds?
+\item
+  What would you consider appropriate punishment? If relevant to your
+  story, how does that compare to the punishments that were handed down?
+\item
+  What are the technical lessons that can be learned to improve
+  security?
+\end{enumerate}
+
+\hypertarget{silk-road}{%
+\subsubsection{Silk Road}\label{silk-road}}
+
+\hypertarget{questions-1}{%
+\paragraph{Questions}\label{questions-1}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}

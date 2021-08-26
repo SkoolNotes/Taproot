@@ -1,1 +1,2 @@
-        Log for attempt at Thu Aug 26 12:42:26 PM PDT 2021 (16768)
+        Log for attempt at Thu Aug 26 02:01:41 PM PDT 2021 (16800)
+        Thu Aug 26 02:01:41 PM PDT 2021 Converting 21hist301/KBxWhatDoesItMeanToBeAmerican.md...
