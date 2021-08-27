@@ -146,7 +146,7 @@
 
 
 \newcommand{\thecourse}{ CS240 }
-\newcommand{\thelesson}{ CS240 Master Index }
+\newcommand{\thelesson}{ Personal Ethics Ruless }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16854)}}    % original
-%\rhead{\textrmlf{Compiled }\#16854\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16851)}}    % original
+%\rhead{\textrmlf{Compiled }\#16851\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,34 +209,28 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-
-\hypertarget{cs240-master-index}{%
-\section{CS240 master index}\label{cs240-master-index}}
-
-\hypertarget{day-1}{%
-\subsection{Day 1}\label{day-1}}
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBCS240MasterIndex}{\tiny\textulf{[[}\textbf{KBCS240MasterIndex}\textulf{]]}}}\thinspace
 
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBhCS240Day1{]}{]}
+  Don't cause personal harm to self or others
 \item
-  {[}{[}KBxDayOneCompSec{]}{]}
+  Plan everything, write everything down, detail all changes
 \item
-  {[}{[}KBxLegalityInCompSec{]}{]}
+  Disclose information responsibly with appropriate, official channels
 \item
-  {[}{[}KBhCS240EthicsQuestions{]}{]}
-\end{itemize}
-
-\hypertarget{personal-ethics}{%
-\subsection{Personal Ethics}\label{personal-ethics}}
-
-\begin{itemize}
-\tightlist
+  (from the original list) Don't act offensively for financial gain
+  except where the act of an attack itself is agreed to by the
+  proprietor of the system to directly bring financial gain under
+  applicable law
 \item
-  {[}{[}KBhCS240PersonalEthics{]}{]}
+  If something is in a gray zone, ask, research, until its not in a gray
+  zone
 \item
-  {[}{[}KBhCS240Rubric{]}{]}
+  Don't hide information found unless the act of releasing it will break
+  another rule
 \end{itemize}
 
 \end{document}

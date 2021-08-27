@@ -33,6 +33,7 @@ I think the process of working in this is definitely de-jure not illegal, becaus
 I believe that the legal bounds were met. However, the bounds of ethics is harder to meet here because what they do essentially has to include some ethically challenging areas. One potential route may include seeking stronger security systems and attempting to passively observe and indite the actions instead of attempting to trick those into action.
 
 5.  What would you consider appropriate punishment? If relevant to your story, how does that compare to the punishments that were handed down?
-The punishment is likely appropriate as handed down: double life sentence. However, due to the designation of the owner of the website as a "kingpin", he is being held in a maximum security prison2
+The punishment is likely appropriate as handed down: double life sentence. However, due to the designation of the owner of the website as a "kingpin", he is being held in a maximum security prison through it is likely that he had much lower flight risk than others in a similar position.
 
 7.  What are the technical lessons that can be learned to improve security?
+Attempt to segregate usernames! It seems like the arrest and breakthrough came when his username was digitally linked with that of another which eventually lead to a much earlier fourm post that contained his email. This was not a breach that needed anything but social engineering, which is something that eventually the creator of this site fell to.

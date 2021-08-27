@@ -146,7 +146,7 @@
 
 
 \newcommand{\thecourse}{ CS240 }
-\newcommand{\thelesson}{ CS240 Master Index }
+\newcommand{\thelesson}{ Rubric }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16854)}}    % original
-%\rhead{\textrmlf{Compiled }\#16854\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16863)}}    % original
+%\rhead{\textrmlf{Compiled }\#16863\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,34 +209,26 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBCS240MasterIndex}{\tiny\textulf{[[}\textbf{KBCS240MasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{cs240-master-index}{%
-\section{CS240 master index}\label{cs240-master-index}}
+\hypertarget{rubric}{%
+\section{Rubric!}\label{rubric}}
 
-\hypertarget{day-1}{%
-\subsection{Day 1}\label{day-1}}
+For this semester, I want to thrive to create systems that were
+reproducible, documented, and easy to use.
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhCS240Day1{]}{]}
-\item
-  {[}{[}KBxDayOneCompSec{]}{]}
-\item
-  {[}{[}KBxLegalityInCompSec{]}{]}
-\item
-  {[}{[}KBhCS240EthicsQuestions{]}{]}
-\end{itemize}
+Foundational: Comments and docstrings written to increase user
+understanding. README is created with basic, over-arching information of
+the product.
 
-\hypertarget{personal-ethics}{%
-\subsection{Personal Ethics}\label{personal-ethics}}
+Proficient: A perspective is paid to the ease of use and API of the
+product or service. More extensive comments and docstrings complement
+README to create a usable environment and package.
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhCS240PersonalEthics{]}{]}
-\item
-  {[}{[}KBhCS240Rubric{]}{]}
-\end{itemize}
+Exemplary: Package created with extensive documentation, guidance in a
+format and size appropriate to the scale of the project; docstrings and
+comments complement and helps developers contribute to and interact with
+the codebase.
 
 \end{document}

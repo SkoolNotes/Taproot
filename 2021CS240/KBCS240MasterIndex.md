@@ -10,6 +10,10 @@ source: #index
 - [[KBhCS240Day1]]
 - [[KBxDayOneCompSec]]
 - [[KBxLegalityInCompSec]]
-- 
+- [[KBhCS240EthicsQuestions]]
+
+## Personal Ethics
+- [[KBhCS240PersonalEthics]]
+- [[KBhCS240Rubric]]
 
 

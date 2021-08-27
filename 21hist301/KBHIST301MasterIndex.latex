@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16797)}}    % original
-%\rhead{\textrmlf{Compiled }\#16797\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16864)}}    % original
+%\rhead{\textrmlf{Compiled }\#16864\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -215,6 +215,7 @@
 \item
   {[}{[}KBxWhatDoesItMeanToBeAmerican{]}{]}
 \item
+  {[}{[}KBxHannahJones{]}{]}
 \end{itemize}
 
 \end{document}
