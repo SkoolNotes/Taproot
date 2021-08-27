@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16928)}}    % original
-%\rhead{\textrmlf{Compiled }\#16928\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16945)}}    % original
+%\rhead{\textrmlf{Compiled }\#16945\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -220,7 +220,49 @@
 \textbf{People don't like that part of history} =\textgreater{} leads to
 not talking about it.
 
-\hypertarget{lenses-discussion}{%
-\section{Lenses Discussion}\label{lenses-discussion}}
+\hypertarget{identifiers}{%
+\section{Identifiers}\label{identifiers}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{I am Chinese}
+\item
+  \textbf{I am Male}
+\item
+  \textbf{I am Tall(ish?)}
+\item
+  \textbf{I am a student}
+\item
+  \textbf{I am an immigrant}
+\item
+  \textbf{I am a developer}
+\item
+  \textbf{I am a clojurist}
+\item
+  \textbf{I am curious}
+\item
+  \textbf{I am empathetic}
+\item
+  \textbf{I am intense}
+\item
+  I am a lover of data and science
+\item
+  I am resourceful (am I?)
+\item
+  I am a swimmer
+\item
+  I am a foodie
+\item
+  I am happy
+\item
+  I am energetic
+\item
+  I am a Vimmer
+\item
+  I am a designer
+\item
+  I am a swimmer
+\end{itemize}
 
 \end{document}

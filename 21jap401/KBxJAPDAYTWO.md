@@ -21,7 +21,10 @@ source:  #index
 	- not that many
 
 
+te, te te means in order
 
+tari tari more flxible desribe a catageory
+always end in shimasu!
 
 
 
