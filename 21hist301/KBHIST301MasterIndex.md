@@ -4,11 +4,12 @@ author: comp
 context: HIST301
 ---
 
-- [[KBxWhatDoesItMeanToBeAmerican]]
+- [[KBxWhatDoesItMeanToBeAmerican]] 
 - [[KBxHannahJones1619Project]]
+- [[KBx1619ProjectTookOver2020]]
 
-
-
+Barry!
+- [[KBhHIST301Lenses]]
 
 
 

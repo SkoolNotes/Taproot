@@ -4,6 +4,7 @@ author: huxley
 context: hist301
 ---
 
+#inclass
 
 # so, what does it mean?
 

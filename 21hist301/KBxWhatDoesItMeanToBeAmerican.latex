@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16824)}}    % original
-%\rhead{\textrmlf{Compiled }\#16824\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16897)}}    % original
+%\rhead{\textrmlf{Compiled }\#16897\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -209,6 +209,8 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+
+\#inclass
 
 \hypertarget{so-what-does-it-mean}{%
 \section{so, what does it mean?}\label{so-what-does-it-mean}}

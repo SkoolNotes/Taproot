@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ HIST301 }
-\newcommand{\thelesson}{ hist master index }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16923)}}    % original
-%\rhead{\textrmlf{Compiled }\#16923\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16922)}}    % original
+%\rhead{\textrmlf{Compiled }\#16922\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{comp \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -213,13 +213,7 @@
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBxWhatDoesItMeanToBeAmerican{]}{]}
-\item
-  {[}{[}KBxHannahJones1619Project{]}{]}
-\item
-  {[}{[}KBx1619ProjectTookOver2020{]}{]}
+  {[}{[}KBxJAPDAYTWO{]}{]}
 \end{itemize}
-
-Barry! - {[}{[}KBhHIST301
 
 \end{document}

@@ -146,7 +146,7 @@
 
 
 \newcommand{\thecourse}{ HIST301 }
-\newcommand{\thelesson}{ hist master index }
+\newcommand{\thelesson}{ Leses Discussion }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16923)}}    % original
-%\rhead{\textrmlf{Compiled }\#16923\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16928)}}    % original
+%\rhead{\textrmlf{Compiled }\#16928\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{comp \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,17 +209,18 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBHIST301MasterIndex}{\tiny\textulf{[[}\textbf{KBHIST301MasterIndex}\textulf{]]}}}\thinspace
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBxWhatDoesItMeanToBeAmerican{]}{]}
-\item
-  {[}{[}KBxHannahJones1619Project{]}{]}
-\item
-  {[}{[}KBx1619ProjectTookOver2020{]}{]}
-\end{itemize}
+\#book Wild Swans book
 
-Barry! - {[}{[}KBhHIST301
+\hypertarget{lenses}{%
+\section{Lenses}\label{lenses}}
+
+\textbf{People don't like that part of history} =\textgreater{} leads to
+not talking about it.
+
+\hypertarget{lenses-discussion}{%
+\section{Lenses Discussion}\label{lenses-discussion}}
 
 \end{document}
