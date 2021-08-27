@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ ENG301 }
-\newcommand{\thelesson}{ master index }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16989)}}    % original
-%\rhead{\textrmlf{Compiled }\#16989\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16991)}}    % original
+%\rhead{\textrmlf{Compiled }\#16991\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,9 +210,23 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{american-lit}{%
-\section{American lit!}\label{american-lit}}
+\#ref \#ret
 
-{[}{[}KBxDayOneEng301{]}{]} {[}{[}KBxThereTherePromptsAndQuestions{]}{]}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{lets-go}{%
+\section{Let's go?}\label{lets-go}}
+
+\begin{verbatim}
+**Directions:** Choose ONE of the following prompts and respond in a well-developed, organized, clear two- to three-page essay. Remember to include a bold yet concise thesis statement and to support it with ample evidence and analysis from throughout the text.
+
+**Prompts**:
+
+1.   In his Prologue, Orange claims that “we are the memories we don’t remember, which live in us, which we feel” (10). Choose one character from the novel, and explain how he/she embodies, revises, or refutes this claim. Be sure to explain/define the quotation and how it connects to the character you are discussing.
+2.   Orange posits the concept of the “Urban Indian” in his Prologue (11). Define this concept and explain how one of the novel’s characters navigates this modern identity alongside his/her ancestral roots. 
+3.   Discuss the Interlude section of the novel. What is its function in the book? How does it connect to the various narratives and the work as a whole?
+4.   Choose one character from the novel and discuss why his or her narrative is 1st, 2nd, or 3rd person. What effect does the form of narrative have on how we read, understand, and know the character? 
+5.   Create your own prompt (_requires a check-in with your teacher_). When designing your topic, please consider whether it is arguable in a paper of this length.
+\end{verbatim}
 
 \end{document}

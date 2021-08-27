@@ -12,3 +12,7 @@ course: PHYS360
 
 - [[KBhPHYS360Day1]]
 
+
+## The Projectile Motion Chapter
+First, on energy: [[KBhPHYS360Energy]]
+

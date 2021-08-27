@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ ENG301 }
-\newcommand{\thelesson}{ master index }
+\newcommand{\thecourse}{ PHYS360 }
+\newcommand{\thelesson}{ Energy, a review! }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16989)}}    % original
-%\rhead{\textrmlf{Compiled }\#16989\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16992)}}    % original
+%\rhead{\textrmlf{Compiled }\#16992\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,10 +209,74 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBPHYS360MasterIndex}{\tiny\textulf{[[}\textbf{KBPHYS360MasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{american-lit}{%
-\section{American lit!}\label{american-lit}}
+So let's talk about energy!
 
-{[}{[}KBxDayOneEng301{]}{]} {[}{[}KBxThereTherePromptsAndQuestions{]}{]}
+\hypertarget{types-of-energy}{%
+\section{Types of Energy}\label{types-of-energy}}
+
+\begin{itemize}
+\tightlist
+\item
+  Potential Energy \(PE_{grav}=mgh\) (which is work (force times
+  distance) for moving stuff up \(\vec{F} \cdot \vec{h}\))
+\item
+  Kinetic Energy \(KE_{translational} = \frac{1}{2}mv^2\) +
+  \(KE_{rotational} = \frac{1}{2}I \omega^2\)
+\end{itemize}
+
+Where\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  \(I\): moment of inertia
+\item
+  \(\omega\): rotational velocity
+\end{itemize}
+
+\hypertarget{potential-energy}{%
+\section{Potential Energy}\label{potential-energy}}
+
+Potential energy exists because of a force field. There is an object
+``propping'' it up pending release of energy.
+
+=\textgreater{} Where did \(\Delta PE = W = mg \Delta h\) come from?
+
+So, define \(PE = -W_{AB}\). ``Potential energy of A to B.'' Gravity
+will do a certain amount of work from one point to anther, it will do
+the opposite the other way.
+
+In order for Work to be accomplished, an object has to be actually
+moved.
+
+\hypertarget{work}{%
+\section{Work}\label{work}}
+
+\(W = \vec{F} \cdot \vec{d}\), where \(\vec{F}\) force and \(\vec{d}\)
+change of distance that the force manifest.
+
+=\textgreater{} \(W = |\vec{F}|\cos{\theta} \times |\vec{d}|\)
+
+which, =\textgreater{} \(W = |\vec{d}|\cos{\theta} \times |\vec{F}|\)
+
+so, essentially, work is either displacement times parallel as part of
+force, or visa versa.
+
+Why?
+
+\hypertarget{the-dot-product-a-review}{%
+\subsection{The Dot Product, a review}\label{the-dot-product-a-review}}
+
+The Dot product is a measure of the ``pararllelity'' of \(\vec{F}\) with
+\(\vec{D}\).\\
+=\textgreater{} Dot product: the component of the first vector parallel
+to the second vector multiplied to the magnitude of d.
+
+\(\vec{A} \cdot \vec{B} = |\vec{A}||\vec{B}|\cos{\theta}\)
+
+Calculating
 
 \end{document}
