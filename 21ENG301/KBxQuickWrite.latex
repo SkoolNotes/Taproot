@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS360 }
-\newcommand{\thelesson}{ Energy, a review! }
+\newcommand{\thecourse}{ ENG301 }
+\newcommand{\thelesson}{ Quick Write! }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16999)}}    % original
-%\rhead{\textrmlf{Compiled }\#16999\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17009)}}    % original
+%\rhead{\textrmlf{Compiled }\#17009\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,97 +209,27 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBPHYS360MasterIndex}{\tiny\textulf{[[}\textbf{KBPHYS360MasterIndex}\textulf{]]}}}\thinspace
 
-So let's talk about energy!
+\#flo \#ret \#disorganized \#inclass
 
-\hypertarget{types-of-energy}{%
-\section{Types of Energy}\label{types-of-energy}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\begin{itemize}
-\tightlist
-\item
-  Potential Energy \(PE_{grav}=mgh\) (which is work (force times
-  distance) for moving stuff up \(\vec{F} \cdot \vec{h}\))
-\item
-  Kinetic Energy \(KE_{translational} = \frac{1}{2}mv^2\) +
-  \(KE_{rotational} = \frac{1}{2}I \omega^2\)
-\end{itemize}
+\hypertarget{qw1}{%
+\section{qw1}\label{qw1}}
 
-Where\ldots{}
-
-\begin{itemize}
-\tightlist
-\item
-  \(I\): moment of inertia
-\item
-  \(\omega\): rotational velocity
-\end{itemize}
-
-\hypertarget{work}{%
-\section{Work}\label{work}}
-
-\(W = \vec{F} \cdot \vec{d}\), where \(\vec{F}\) force and \(\vec{d}\)
-change of distance that the force manifest.
-
-=\textgreater{} \(W = |\vec{F}|\cos{\theta} \times |\vec{d}|\)
-
-which, =\textgreater{} \(W = |\vec{d}|\cos{\theta} \times |\vec{F}|\)
-
-so, essentially, work is either displacement times parallel as part of
-force, or visa versa.
-
-Why?
-
-\hypertarget{the-dot-product-a-review}{%
-\subsection{The Dot Product, a review}\label{the-dot-product-a-review}}
-
-\hypertarget{what-is-it}{%
-\subsubsection{What is it}\label{what-is-it}}
-
-The Dot product is a measure of the ``pararllelity'' of \(\vec{F}\) with
-\(\vec{D}\).
-
-=\textgreater{} Dot product: the component of the first vector parallel
-to the second vector multiplied to the magnitude of d.
-
-\(\vec{A} \cdot \vec{B} = |\vec{A}||\vec{B}|\cos{\theta}\)
-
-\hypertarget{calculating-it}{%
-\subsubsection{Calculating it}\label{calculating-it}}
-
-Given two vectors
-
-\begin{itemize}
-\tightlist
-\item
-  \(\vec{V_1} = <a_x, a_y, a_z>\)
-\item
-  \(\vec{V_2} = <b_x, b_y, b_z>\)
-\end{itemize}
-
-The dot product is\ldots{}
-
-\(\vec{V1} \times \vec{V2} = a_x b_x + a_y b_y + a_z b_z\)
-
-\hypertarget{potential-energy}{%
-\section{Potential Energy}\label{potential-energy}}
-
-Potential energy exists because of a force field. There is an object
-``propping'' it up pending release of energy.
-
-\hypertarget{where-did-delta-pe-w-mg-delta-h-come-from}{%
-\subsection{\texorpdfstring{Where did \(\Delta PE = W = mg \Delta h\)
-come
-from?}{Where did \textbackslash Delta PE = W = mg \textbackslash Delta h come from?}}\label{where-did-delta-pe-w-mg-delta-h-come-from}}
-
-So, define \(PE = -W_{AB}\). Which is ``potential energy of A to B.''
-Gravity will do a certain amount of work from one point to anther, it
-will do the opposite the other way.
-
-\(\Delta PE_g = -W_{AB} = -\vec{F} \cdot \vec{d}\)
-
-\(\Delta PE_g = -((-mg) \cdot \Delta h)\) The negative again! \$~is
+Is it about beacon of hope even in dark times? As in, there is always
+hope? Or is it darker, talking about how joyful activities are
+disconnected from the events of the real world? Singing as escapism, and
+joy as falsehood. Relates to There There\ldots{} the meetup was was the
+celebration? Singing as community, or singing as communication, or
+singing as art? Hope never dies, or hope never matters? Or hope is
+crushed like in There There. Good example being Edwin if I remember
+correctly. Singing as joyful, and dark times as the opposite, emotions
+or states can exist in parallel? Talking about cultures existing in
+parallel despite not matching there surroundings? \textbf{ABOUT} the
+dark times -- is singing inherently joyful? Is joy or art itself
+corrupted by the darkness? Is singing the way to deal with the dark
+times? ``Also'' signing, so signing doesn't fit into the dark times.
+Thus, darkness can be contained? About dark times yet not dark times.
 
 \end{document}

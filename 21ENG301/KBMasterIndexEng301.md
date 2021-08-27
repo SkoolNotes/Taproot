@@ -8,6 +8,7 @@ context: ENG301
 
 [[KBxDayOneEng301]]
 [[KBxThereTherePromptsAndQuestions]]
+[[KBxQuickWrite]]
 
 
 

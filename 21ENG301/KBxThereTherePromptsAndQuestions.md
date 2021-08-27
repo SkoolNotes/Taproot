@@ -5,7 +5,7 @@ author:
 source:  #index
 ---
 
-#ref #ret 
+#ref #ret #inclass
 
 ---
 
@@ -25,7 +25,42 @@ source:  #index
 5.   Create your own prompt (_requires a check-in with your teacher_). When designing your topic, please consider whether it is arguable in a paper of this length.
 ```
 
+---
 
+there's gonna be a diagnostic essay
+but no assessed discussion
+
+### mac and cheese time
+
+has to do with our content, and aproach! 
+
+- mac and cheese activity was stylistic analysis
+- we were talking about what it means to be american ~= what it means to be mac and cheese? - rohan
+	- Q about def or identity
+	- what is NOT
+		- ie powder on noodles is not mac and cheese
+- what is "proper"
+	- problematic concept!
+- lived experiences shape perceptions? - riyanna
+
+```ad-qoute
+mac and cheese is a text - *sarah*
+```
+
+- exclusion and elitist
+- people in power vs majority vs... consensus?
+- ooh, mia asks if there is merit to exclusion 
+- i kinda dont want to take notes on this sorry
+
+-                                                                                                                                                                                                                                                                         
+
+
+
+
+
+
+
+---
 
 
 
