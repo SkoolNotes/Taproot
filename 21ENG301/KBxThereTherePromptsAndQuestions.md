@@ -52,8 +52,12 @@ mac and cheese is a text - *sarah*
 - ooh, mia asks if there is merit to exclusion 
 - i kinda dont want to take notes on this sorry
 
--                                                                                                                                                                                                                                                                         
-
+- notes on beyonce?
+	- parental adivosry
+	- i cant see man
+	- i need glasses
+	- wtf is happening
+	- 
 
 
 

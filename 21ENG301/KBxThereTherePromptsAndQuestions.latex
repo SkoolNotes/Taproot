@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17024)}}    % original
-%\rhead{\textrmlf{Compiled }\#17024\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17030)}}    % original
+%\rhead{\textrmlf{Compiled }\#17030\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -285,6 +285,20 @@ mac and cheese is a text - *sarah*
 \item
   i kinda dont want to take notes on this sorry
 \item
+  notes on beyonce?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    parental adivosry
+  \item
+    i cant see man
+  \item
+    i need glasses
+  \item
+    wtf is happening
+  \item
+  \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}

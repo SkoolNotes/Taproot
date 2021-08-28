@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS210 }
-\newcommand{\thelesson}{ Physics Research Master Index }
+\newcommand{\thecourse}{ PHYS250 }
+\newcommand{\thelesson}{ Modern Physics Master Index }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17031)}}    % original
-%\rhead{\textrmlf{Compiled }\#17031\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17034)}}    % original
+%\rhead{\textrmlf{Compiled }\#17034\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,10 +210,15 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{physics-research-master-index}{%
-\section{Physics Research Master
-Index}\label{physics-research-master-index}}
+\hypertarget{modern-physics-master-index}{%
+\section{Modern Physics Master
+Index}\label{modern-physics-master-index}}
 
-Day 1: {[}{[}KBhPHYS210Day1{]}{]}
+\#flo \#uncompiled
+
+\hypertarget{day-1}{%
+\subsection{Day 1}\label{day-1}}
+
+{[}{[}KBdPHYS250Day1{]}{]}
 
 \end{document}

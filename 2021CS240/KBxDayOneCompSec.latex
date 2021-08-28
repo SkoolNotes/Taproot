@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16688)}}    % original
-%\rhead{\textrmlf{Compiled }\#16688\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17031)}}    % original
+%\rhead{\textrmlf{Compiled }\#17031\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -229,7 +229,6 @@ and also try to learn about comp sec!
 \begin{verbatim}
 this is an example
 **BOLD**
-*italics* 
 \end{verbatim}
 
 \hypertarget{submission}{%
