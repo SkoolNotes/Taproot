@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17120)}}    % original
-%\rhead{\textrmlf{Compiled }\#17120\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17124)}}    % original
+%\rhead{\textrmlf{Compiled }\#17124\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -220,9 +220,12 @@ Assignment}}{The Assignment}}\label{the-assignment}}
 
 {[}{[}Screen Shot 2021-08-28 at 6.12.09 PM.png{]}{]}
 
-Tell us why you decided to sign up for this class.
-
-Read 1.A from the textbook. We will discuss any questions on Monday!~
+\begin{itemize}
+\item[$\square$]
+  Tell us why you decided to sign up for this class.
+\item[$\square$]
+  Read 1.A from the textbook. We will discuss any questions on Monday!~
+\end{itemize}
 
 Which of the number systems we discussed are groups under addition?
 Under multiplication?
@@ -231,12 +234,5 @@ Is there a multiplication for 3 by 1 vectors that satisfies all group
 requirements?
 
 Is there an identity for multiplication on 2 by 2 matrices?
-
-\begin{itemize}
-\item
-  {[} {]}
-\item
-  It's wrong! It's wrong! There is a dog. Their is a dog.
-\end{itemize}
 
 \end{document}
