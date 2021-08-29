@@ -7,4 +7,7 @@ source: #index
 # HIST 301 Master Index
 
 ## Day 1
-- Dylan: [[KBdHIST301Day1]]
+
+### HW
+- Dylan: [[]]
+## Day 2

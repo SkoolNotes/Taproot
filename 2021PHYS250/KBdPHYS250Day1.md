@@ -5,6 +5,7 @@ author: Dylan Wallace
 source: KBPHYS250MasterIndex
 ---
 
+
 # Experiments
 Basically, we just rubbed a bunch of things on each other and checked the resulting charge with an electrometer.
 
@@ -40,7 +41,7 @@ Might not be complete.
 ### Quantification
 - Coulomb's Law
 	- Given two point charges, Q1 and Q2, and a distance r
-	- $F = k \frac{q_1q_2}{r^2}$
+	- $F = k \frac{q_1 q_2}{r^2}$
 		- $k$ is $8.99\times 10^{9}Nm^{2}C^{-2}$
 		- $r$ is in meters
 		- $q_1$, $q_2$ in Coulombs ($C$)
@@ -48,17 +49,18 @@ Might not be complete.
 		- if $F < 0$, then force is attraction
 	- Sample Problem: Find distance ($r$) given $q_1$, $q_2$, and $F$
 $$
-\begin{flalign}
-q_1 = 50uC = 50\times 10^{-6}C &&
-q_2 = 1uC = 1\times 10^{-6}C &&
-F_12 = 2N &&
-k = 8.99\times 10^{9}Nm^{2}C^{-2} &&
-F = k \frac{q_1q_2}{r^2} &&
-r^2 = k \frac{q_1q_2}{F} = 8.99\times 10^{9}Nm^{2}C^{-2} \cdot 50\times 10^{-12}C^{2} \div 2N &&
-= 224.75 \times 10^{-3}m &&
-r = \sqrt{224.75 \times 10^{-3}}m &&
-= 474\times 10^{-3}m
-\end{flalign}
+\begin{aligned}
+q_1 &= 50uC &= 50\times 10^{-6}C \\
+q_2 &= 1uC &= 1\times 10^{-6}C \\
+F_{12} &= 2N \\
+k &= 8.99\times 10^{9}Nm^{2}C^{-2} \\
+F &= k \frac{q_1q_2}{r^2} \\
+r^2 &= k \frac{q_1q_2}{F} &= 8.99\times 10^{9}Nm^{2}C^{-2} \cdot 50\times 10^{-12}C^{2} \div 2N \\
+&= 224.75 \times 10^{-3}m \\
+r &= \sqrt{224.75 \times 10^{-3}}m \\
+&= 474\times 10^{-3}m
+\end{aligned}
 $$
+
 	- In more complicated setups, certain things such as acceleration won't be constant because it is determinant on force, which is determined by distance from other charges.
 		- This complicates things so don't expect it to be simple.

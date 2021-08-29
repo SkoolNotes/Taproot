@@ -84,7 +84,25 @@ is this, we are *only* the memories? we are *partly* the memories?
 
 
 actions vs past and culture
-"It's important that he dress like an Indian, dance like an indian
+"It's important that he dress like an Indian, dance like an Indian, even if it is an act, even if he feels like a fraud the whole time, because the only way to be Indian in this world is to look and act like an Indian." -- defined by action not by memory?
+
+relates to the idea of authenticy? identity
+
+
+really, it's about ways of addressing the past
+
+```ad-question
+are we defined by our ancestors actions and experiences? and if so, how? 
+and then, how do we address or think about ourselvs in the context of the past?
+```
+
+
+
+
+
+
+
+
 
 
 
