@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17210)}}    % original
-%\rhead{\textrmlf{Compiled }\#17210\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17269)}}    % original
+%\rhead{\textrmlf{Compiled }\#17269\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -300,6 +300,21 @@ hamiltonians, then to sadonians?
 \begin{verbatim}
 called the cayley dickson construction, or smt
 \end{verbatim}
+
+\hypertarget{axioms}{%
+\paragraph{axioms:}\label{axioms}}
+
+\begin{itemize}
+\tightlist
+\item
+  there exists an identity
+\item
+  each element has an inverse
+\item
+  it's closed
+\item
+  associativity
+\end{itemize}
 
 \hypertarget{matrices}{%
 \subsection{Matrices}\label{matrices}}

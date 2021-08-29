@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17185)}}    % original
-%\rhead{\textrmlf{Compiled }\#17185\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17280)}}    % original
+%\rhead{\textrmlf{Compiled }\#17280\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -237,12 +237,85 @@ cool and I enjoy Nueva math classes a lot.
 will discuss any questions on
 Monday!~}}{Read 1.A from the textbook. We will discuss any questions on Monday!~}}\label{read-1.a-from-the-textbook.-we-will-discuss-any-questions-on-monday}}
 
-Which of the number systems we discussed are groups under addition?
-Under multiplication?
+q: is division also a lie? q: do tuples all need the same type? why call
+them n-tuples instead of lists? q: why is it called liniear algebra? the
+explanation that it doesnt deal with geo doesnt explain it
 
-Is there a multiplication for 3 by 1 vectors that satisfies all group
-requirements?
+\hypertarget{which-of-the-number-systems-we-discussed-are-groups-under-addition-under-multiplication}{%
+\subsubsection{\texorpdfstring{\textbf{Which of the number systems we
+discussed are groups under addition? Under
+multiplication?}}{Which of the number systems we discussed are groups under addition? Under multiplication?}}\label{which-of-the-number-systems-we-discussed-are-groups-under-addition-under-multiplication}}
 
-Is there an identity for multiplication on 2 by 2 matrices?
+\begin{itemize}
+\tightlist
+\item
+  natural
+
+  \begin{itemize}
+  \tightlist
+  \item
+    + N: no identity
+  \item
+    * N: no inverse
+  \end{itemize}
+\item
+  whole
+
+  \begin{itemize}
+  \tightlist
+  \item
+    + N: no inverse
+  \item
+    * N: no inverse
+  \end{itemize}
+\item
+  integers
+
+  \begin{itemize}
+  \tightlist
+  \item
+    + Y
+  \item
+    * N: no inverse
+  \end{itemize}
+\item
+  rational
+
+  \begin{itemize}
+  \tightlist
+  \item
+    + Y
+  \item
+    * Y
+  \end{itemize}
+\item
+  real
+
+  \begin{itemize}
+  \tightlist
+  \item
+    + Y
+  \item
+    + Y
+  \end{itemize}
+\item
+  complex
+
+  \begin{itemize}
+  \tightlist
+  \item
+    + Y
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{is-there-a-multiplication-for-3-by-1-vectors-that-satisfies-all-group-requirements}{%
+\subsubsection{\texorpdfstring{\textbf{Is there a multiplication for 3
+by 1 vectors that satisfies all group
+requirements?}}{Is there a multiplication for 3 by 1 vectors that satisfies all group requirements?}}\label{is-there-a-multiplication-for-3-by-1-vectors-that-satisfies-all-group-requirements}}
+
+\hypertarget{is-there-an-identity-for-multiplication-on-2-by-2-matrices}{%
+\subsubsection{\texorpdfstring{\textbf{Is there an identity for
+multiplication on 2 by 2
+matrices?}}{Is there an identity for multiplication on 2 by 2 matrices?}}\label{is-there-an-identity-for-multiplication-on-2-by-2-matrices}}
 
 \end{document}

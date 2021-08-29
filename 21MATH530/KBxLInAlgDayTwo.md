@@ -54,6 +54,12 @@ adding more leads to quaternions or hamiltonians, then to sadonians?
 called the cayley dickson construction, or smt
 ```
 
+#### axioms: 
+- there exists an identity
+- each element has an inverse
+- it's closed
+- associativity
+
 
 ## Matrices
 

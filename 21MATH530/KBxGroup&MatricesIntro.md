@@ -14,9 +14,6 @@ source:  #index
 ![[Screen Shot 2021-08-28 at 6.12.09 PM.png]]
 
 
-
-
-
 ### **Tell us why you decided to sign up for this class.**
 
 I spend most of my free time doing programming projects with my friends, and recently I've been doing a lot of Machine Learning. My 'excuse' for taking linear algebra is that in my more recent ML projects I've had to go lower level and I'm being held back by my understanding of linear algebra and statistics, but frankly linear algebra just sounds really cool and I enjoy Nueva math classes a lot.
@@ -24,16 +21,37 @@ I spend most of my free time doing programming projects with my friends, and rec
 
 ###  **Read 1.A from the textbook. We will discuss any questions on Monday! **
 
+q: is division also a lie?
+q: do tuples all need the same type? why call them n-tuples instead of lists?
+q: why is it called liniear algebra? the explanation that it doesnt deal with geo doesnt explain it 
 
 
 
 
+### **Which of the number systems we discussed are groups under addition? Under multiplication?**
 
-Which of the number systems we discussed are groups under addition? Under multiplication?
+- natural
+	- \+ N: no identity
+	- \* N: no inverse
+- whole
+	- \+ N: no inverse
+	- \* N: no inverse
+- integers
+	- \+ Y
+	- \* N: no inverse
+- rational
+	- \+ Y
+	- \* Y
+- real 
+	- \+ Y
+	- \+ Y
+- complex
+	- \+ Y
 
-Is there a multiplication for 3 by 1 vectors that satisfies all group requirements?
 
-Is there an identity for multiplication on 2 by 2 matrices?
+### **Is there a multiplication for 3 by 1 vectors that satisfies all group requirements?**
+
+### **Is there an identity for multiplication on 2 by 2 matrices?**
 
 
 
