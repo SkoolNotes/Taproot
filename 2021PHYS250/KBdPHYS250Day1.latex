@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17074)}}    % original
-%\rhead{\textrmlf{Compiled }\#17074\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17075)}}    % original
+%\rhead{\textrmlf{Compiled }\#17075\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -330,7 +330,8 @@ the resulting charge with an electrometer.
       if \(F < 0\), then force is attraction
     \end{itemize}
   \item
-    Sample Problem \[
+    Sample Problem: Find distance (\(r\)) given \(q_1\), \(q_2\), and
+    \(F\) \[
     \begin{equation}
     \begin{aligned}
     q_1 = 50uC = 50\times 10^{-6}C \\

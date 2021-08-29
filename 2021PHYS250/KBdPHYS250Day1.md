@@ -44,7 +44,7 @@ Basically, we just rubbed a bunch of things on each other and checked the result
 		- $q_1$, $q_2$ in Coulombs ($C$)
 		- if $F > 0$, then force is repulsion
 		- if $F < 0$, then force is attraction
-	- Sample Problem
+	- Sample Problem: Find distance ($r$) given $q_1$, $q_2$, and $F$
 $$
 \begin{equation}
 \begin{aligned}
