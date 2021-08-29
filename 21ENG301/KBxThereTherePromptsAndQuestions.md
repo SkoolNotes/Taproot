@@ -65,9 +65,21 @@ mac and cheese is a text - *sarah*
 
 ### ok back to it
 
-
+most intresting:
 
 1.   In his Prologue, Orange claims that “we are the memories we don’t remember, which live in us, which we feel” (10). Choose one character from the novel, and explain how he/she embodies, revises, or refutes this claim. Be sure to explain/define the quotation and how it connects to the character you are discussing.
+
+i disagree. I am not my ancestors actions? even though i am there genes? 
+
+
+
+
+
+
+
+
+
+
 
 
 
