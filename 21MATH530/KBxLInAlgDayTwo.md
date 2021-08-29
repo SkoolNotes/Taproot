@@ -119,10 +119,5 @@ multiplication on group? multiplication on to collum vectors
 ```
 
 
-
-
-
-
-
-
-
+Homework:
+- [[KBxGroupAndMatricesIntro]]
