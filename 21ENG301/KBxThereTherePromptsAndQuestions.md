@@ -71,6 +71,8 @@ most intresting:
 
 i disagree. I am not my ancestors actions? even though i am there genes? 
 
+memories we dont remeber -> ancestors experiences
+
 
 
 
