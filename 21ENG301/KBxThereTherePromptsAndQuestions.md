@@ -77,12 +77,14 @@ i disagree. I am not my ancestors actions? even though i am there genes?
 
 memories we dont remeber -> ancestors experiences
 
+experience propogation? ie. ancestor feels this which effects us in this way? memories shape the way the current world is even if we dont know the memories? 
+we "feel" what is... what is is a product of previous actions which are memories that we dont own and thus dont remeber?
+
+is this, we are *only* the memories? we are *partly* the memories? 
 
 
-
-
-
-
+actions vs past and culture
+"It's important that he dress like an Indian, dance like an indian
 
 
 

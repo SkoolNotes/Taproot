@@ -22,6 +22,8 @@ Basically, we just rubbed a bunch of things on each other and checked the result
 # Homework
 ## Lecture Notes
 
+Might not be complete.
+
 ### Electrostatics Basics
 - There are Insulators and Conductors
 	- Insulators: Don't share electrons
@@ -47,14 +49,14 @@ Basically, we just rubbed a bunch of things on each other and checked the result
 	- Sample Problem: Find distance ($r$) given $q_1$, $q_2$, and $F$
 $$
 \begin{flalign}
-q_1 = 50uC = 50\times 10^{-6}C \\
-q_2 = 1uC = 1\times 10^{-6}C \\
-F_12 = 2N \\
-k = 8.99\times 10^{9}Nm^{2}C^{-2} \\
-F = k \frac{q_1q_2}{r^2} \\
-r^2 = k \frac{q_1q_2}{F} = 8.99\times 10^{9}Nm^{2}C^{-2} \cdot 50\times 10^{-12}C^{2} \div 2N \\
-= 224.75 \times 10^{-3}m \\
-r = \sqrt{224.75 \times 10^{-3}}m \\
+q_1 = 50uC = 50\times 10^{-6}C &&
+q_2 = 1uC = 1\times 10^{-6}C &&
+F_12 = 2N &&
+k = 8.99\times 10^{9}Nm^{2}C^{-2} &&
+F = k \frac{q_1q_2}{r^2} &&
+r^2 = k \frac{q_1q_2}{F} = 8.99\times 10^{9}Nm^{2}C^{-2} \cdot 50\times 10^{-12}C^{2} \div 2N &&
+= 224.75 \times 10^{-3}m &&
+r = \sqrt{224.75 \times 10^{-3}}m &&
 = 474\times 10^{-3}m
 \end{flalign}
 $$
