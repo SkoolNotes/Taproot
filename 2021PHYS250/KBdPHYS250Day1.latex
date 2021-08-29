@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17075)}}    % original
-%\rhead{\textrmlf{Compiled }\#17075\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17080)}}    % original
+%\rhead{\textrmlf{Compiled }\#17080\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -332,8 +332,7 @@ the resulting charge with an electrometer.
   \item
     Sample Problem: Find distance (\(r\)) given \(q_1\), \(q_2\), and
     \(F\) \[
-    \begin{equation}
-    \begin{aligned}
+    \begin{flalign}
     q_1 = 50uC = 50\times 10^{-6}C \\
     q_2 = 1uC = 1\times 10^{-6}C \\
     F_12 = 2N \\
@@ -343,8 +342,7 @@ the resulting charge with an electrometer.
     = 224.75 \times 10^{-3}m \\
     r = \sqrt{224.75 \times 10^{-3}}m \\
     = 474\times 10^{-3}m
-    \end{aligned}
-    \end{equation}
+    \end{flalign}
     \]
   \item
     In more complicated setups, certain things such as acceleration

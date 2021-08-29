@@ -46,8 +46,7 @@ Basically, we just rubbed a bunch of things on each other and checked the result
 		- if $F < 0$, then force is attraction
 	- Sample Problem: Find distance ($r$) given $q_1$, $q_2$, and $F$
 $$
-\begin{equation}
-\begin{aligned}
+\begin{flalign}
 q_1 = 50uC = 50\times 10^{-6}C \\
 q_2 = 1uC = 1\times 10^{-6}C \\
 F_12 = 2N \\
@@ -57,8 +56,7 @@ r^2 = k \frac{q_1q_2}{F} = 8.99\times 10^{9}Nm^{2}C^{-2} \cdot 50\times 10^{-12}
 = 224.75 \times 10^{-3}m \\
 r = \sqrt{224.75 \times 10^{-3}}m \\
 = 474\times 10^{-3}m
-\end{aligned}
-\end{equation}
+\end{flalign}
 $$
 	- In more complicated setups, certain things such as acceleration won't be constant because it is determinant on force, which is determined by distance from other charges.
 		- This complicates things so don't expect it to be simple.
