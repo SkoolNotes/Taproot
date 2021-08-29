@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17124)}}    % original
-%\rhead{\textrmlf{Compiled }\#17124\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17184)}}    % original
+%\rhead{\textrmlf{Compiled }\#17184\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -221,9 +221,21 @@ Assignment}}{The Assignment}}\label{the-assignment}}
 {[}{[}Screen Shot 2021-08-28 at 6.12.09 PM.png{]}{]}
 
 \begin{itemize}
-\item[$\square$]
-  Tell us why you decided to sign up for this class.
-\item[$\square$]
+\tightlist
+\item
+  \textbf{Tell us why you decided to sign up for this class.}
+\end{itemize}
+
+I spend most of my free time doing programming projects with my friends,
+and recently I've been doing a lot of Machine Learning. My `excuse' for
+taking linear algebra is that in my more recent ML projects I've had to
+go lower level and I'm being held back by my understanding of linear
+algebra and statistics, but frankly linear algebra just sounds really
+cool and I enjoy Nueva math classes a lot.
+
+\begin{itemize}
+\tightlist
+\item
   Read 1.A from the textbook. We will discuss any questions on Monday!~
 \end{itemize}
 
