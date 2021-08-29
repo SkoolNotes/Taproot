@@ -19,7 +19,7 @@ real numbers: infinite all the way down
 way more real numbers than rational numbers
 
 - Zero: important for groups -- starting point on number lines. true neutral, **Additive Identity**
-	- **Multiplicative Identity*: 1
+	- **Multiplicative Identity**: 1
 	- identity lets it keep it's identity? when the op doesn't change
 - negs: so we can deal with negs? so we can undo addition
 ```ad-tip
@@ -113,11 +113,6 @@ multiplication on group? multiplication on to collum vectors
 ```
 
 
-
-
-
-
-[]()
 
 
 

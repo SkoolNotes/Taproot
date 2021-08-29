@@ -4,9 +4,10 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta http-equiv="Content-Style-Type" content="text/css" />
         <meta name="generator" content="pandoc" />
-                        <title> MATH530 Introduction to Groups and Matrices </title>
+                        <title> MATH520 MVC Day 1 HW </title>
         <style type="text/css">code{white-space: pre;}</style>
-                                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                                        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
         <style>
 html {
@@ -67,21 +68,36 @@ html {
     </head>
     <body>
         <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
-            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>MATH530</strong> Introduction to Groups and Matrices </span></div>
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>MATH520</strong> MVC Day 1 HW </span></div>
         </div>
         <div id="center-viewport">
-            <p>#ref #ret</p>
-            <div class="center">
-            <hr />
-            </div>
-            <h1 id="the-assignment"><a href="https://nuevaschool.instructure.com/courses/3718/assignments/61005">The Assignment</a></h1>
-            <p><span>[</span><span>[</span>Screen Shot 2021-08-28 at 6.12.09 PM.png<span>]</span><span>]</span></p>
-            <h3 id="tell-us-why-you-decided-to-sign-up-for-this-class."><strong>Tell us why you decided to sign up for this class.</strong></h3>
-            <p>I spend most of my free time doing programming projects with my friends, and recently I’ve been doing a lot of Machine Learning. My ‘excuse’ for taking linear algebra is that in my more recent ML projects I’ve had to go lower level and I’m being held back by my understanding of linear algebra and statistics, but frankly linear algebra just sounds really cool and I enjoy Nueva math classes a lot.</p>
-            <h3 id="read-1.a-from-the-textbook.-we-will-discuss-any-questions-on-monday"><strong>Read 1.A from the textbook. We will discuss any questions on Monday! </strong></h3>
-            <p>Which of the number systems we discussed are groups under addition? Under multiplication?</p>
-            <p>Is there a multiplication for 3 by 1 vectors that satisfies all group requirements?</p>
-            <p>Is there an identity for multiplication on 2 by 2 matrices?</p>
+            <h1 id="problem-1">Problem 1</h1>
+            <p>Differentiate (with respect to x)</p>
+            <h2 id="a"><span class="math inline">\((a)\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+            y &amp;= x^2 + x^{74} - \ln{x} - \log_{3}{x} + 51^x - e^x + \sin{x} - \cos{x} \\
+            \frac{d}{dx}[y] &amp;= 2x + 74x^{73} - \frac{1}{x} - \frac{1}{x\ln{(3)}} + ln{(51)}*51^x - e^x + \cos{x} + \sin{x} \\
+            \end{aligned}\]</span></p>
+            <h2 id="b"><span class="math inline">\((b)\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+            g(x) &amp;= x^{32} - 7x^{12} + x^{-8} - e^x + 12 \sqrt[7]{x + 1} + (\cos{x})^6 \\
+            \frac{d}{dx}[g(x)] &amp;= 32x^{31} - 84x^{11} - 8x^{-7} - e^x + \frac{12}{7\sqrt[7]{(x + 1)^6}} - 6\sin{x}\cos{x}^5 \\
+            \end{aligned}\]</span></p>
+            <h2 id="c"><span class="math inline">\((c)\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+            f(x) &amp;= 7 + x^2 + 6x^3 + 3\sqrt[4]{x} + \frac{1}{x} - \ln{x} + 5^x \\
+            \frac{d}{dx}[f(x)] &amp;= 2x + 18x^2 + \frac{3}{4\sqrt[4]{x^3}} - \frac{1}{x} + \ln{(5)}5^x \\
+            \end{aligned}\]</span></p>
+            <h2 id="d"><span class="math inline">\((d)\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+            f(x) &amp;= 3x(x^2 + 1)^3 + \cos{(\sin{x})} + \frac{x^9 + x^4}{2x + 5} \\
+            \frac{d}{dx}[f(x)] &amp;= 3(x^2 + 1)^3 + 18x^2(x^2 + 1)^2 + -\cos{(x)}\sin{(\sin{x})} + \frac{45x^8 + 6x^4 + 10x^3}{4x^4 + 10x + 25} \\
+            \end{aligned}\]</span></p>
+            <h2 id="e"><span class="math inline">\((e)\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+            f(x) &amp;= x(x^2 + 2) - \sin{(x^4 - x^{90})} + e^\sin{(x)} + \ln{(\cos{(x^2)})} \\
+            \frac{d}{dx}[f(x)} &amp;= (3x^2 + 2) - (4x^3 - 90x^{89})\cos{(x^4 - x^{90})} + 
+            \end{aligned}\]</span></p>
         </div>
 
         <script>

@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ MATH520 }
+\newcommand{\thelesson}{ MVC Day 1 HW }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17210)}}    % original
-%\rhead{\textrmlf{Compiled }\#17210\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17216)}}    % original
+%\rhead{\textrmlf{Compiled }\#17216\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -210,151 +210,59 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{types-of-numbers}{%
-\subsection{Types of Numbers}\label{types-of-numbers}}
+\hypertarget{problem-1}{%
+\section{Problem 1}\label{problem-1}}
 
-algebra:
+Differentiate (with respect to x)
 
-\begin{verbatim}
-algebra is doing stuff to things
-\end{verbatim}
+\hypertarget{a}{%
+\subsection{\texorpdfstring{\((a)\)}{(a)}}\label{a}}
 
-\begin{itemize}
-\tightlist
-\item
-  idea of a number changes -- 500yago they didnt know about negs
-\end{itemize}
+\[
+\begin{aligned}
+y &= x^2 + x^{74} - \ln{x} - \log_{3}{x} + 51^x - e^x + \sin{x} - \cos{x} \\
+\frac{d}{dx}[y] &= 2x + 74x^{73} - \frac{1}{x} - \frac{1}{x\ln{(3)}} + ln{(51)}*51^x - e^x + \cos{x} + \sin{x} \\
+\end{aligned}
+\]
 
-natural numbers are the most natural, apparently 0 not in natural, 0 in
-whole
+\hypertarget{b}{%
+\subsection{\texorpdfstring{\((b)\)}{(b)}}\label{b}}
 
-\(\mathbb{z}\) for integers, counting in german
+\[
+\begin{aligned}
+g(x) &= x^{32} - 7x^{12} + x^{-8} - e^x + 12 \sqrt[7]{x + 1} + (\cos{x})^6 \\
+\frac{d}{dx}[g(x)] &= 32x^{31} - 84x^{11} - 8x^{-7} - e^x + \frac{12}{7\sqrt[7]{(x + 1)^6}} - 6\sin{x}\cos{x}^5 \\
+\end{aligned}
+\]
 
-rational numbers: a/b \(a,b \mathbb{e} \mathbb{z}\)
+\hypertarget{c}{%
+\subsection{\texorpdfstring{\((c)\)}{(c)}}\label{c}}
 
-real numbers: infinite all the way down way more real numbers than
-rational numbers
+\[
+\begin{aligned}
+f(x) &= 7 + x^2 + 6x^3 + 3\sqrt[4]{x} + \frac{1}{x} - \ln{x} + 5^x \\
+\frac{d}{dx}[f(x)] &= 2x + 18x^2 + \frac{3}{4\sqrt[4]{x^3}} - \frac{1}{x} + \ln{(5)}5^x \\
+\end{aligned}
+\]
 
-\begin{itemize}
-\tightlist
-\item
-  Zero: important for groups -- starting point on number lines. true
-  neutral, \textbf{Additive Identity}
+\hypertarget{d}{%
+\subsection{\texorpdfstring{\((d)\)}{(d)}}\label{d}}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    \textbf{Multiplicative Identity}: 1
-  \item
-    identity lets it keep it's identity? when the op doesn't change
-  \end{itemize}
-\item
-  negs: so we can deal with negs? so we can undo addition
-\end{itemize}
+\[
+\begin{aligned}
+f(x) &= 3x(x^2 + 1)^3 + \cos{(\sin{x})} + \frac{x^9 + x^4}{2x + 5} \\
+\frac{d}{dx}[f(x)] &= 3(x^2 + 1)^3 + 18x^2(x^2 + 1)^2 + -\cos{(x)}\sin{(\sin{x})} + \frac{45x^8 + 6x^4 + 10x^3}{4x^4 + 10x + 25} \\
+\end{aligned}
+\]
 
-\begin{verbatim}
-subtraction is a lie! add negs
-subtraction on the natural numbers is not closed
-\end{verbatim}
+\hypertarget{e}{%
+\subsection{\texorpdfstring{\((e)\)}{(e)}}\label{e}}
 
-\begin{verbatim}
-closed: can make a number not in the set
-\end{verbatim}
-
-\hypertarget{groups}{%
-\subsection{Groups}\label{groups}}
-
-\begin{verbatim}
-any set of mathematical elemements under one operation such that there is an identity each element has an inverse
-\end{verbatim}
-
-\begin{itemize}
-\tightlist
-\item
-  they do not need to be \textbf{communitive}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    a+b = b+a
-  \end{itemize}
-\item
-  \textbf{associativity}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    (a+b)+c=a+(b+c)
-  \item
-    order doesnt matter
-  \item
-    most things we are doing will be associative
-  \item
-    nice number systems are almost always associative
-  \end{itemize}
-\end{itemize}
-
-can add dimensions, like complex adding more leads to quaternions or
-hamiltonians, then to sadonians?
-
-\begin{verbatim}
-called the cayley dickson construction, or smt
-\end{verbatim}
-
-\hypertarget{matrices}{%
-\subsection{Matrices}\label{matrices}}
-
-\begin{itemize}
-\tightlist
-\item
-  can be called an array
-\item
-  2d can use rows and columns as coords
-\end{itemize}
-
-\hypertarget{operations}{%
-\paragraph{operations:}\label{operations}}
-
-addition: only if same dimensions, loop through indicies dot: cross:
-wrong! first row by first column with addition to make first entry,
-first row by second column for second entry loop through indicies like
-addition
-
-\hypertarget{vectors}{%
-\paragraph{vectors:}\label{vectors}}
-
-special case of matrix
-
-column vec ( 1, 2 )
-
-row vec ( 1, 2 )
-
-cannot add diff dimensions
-
-\hypertarget{representations}{%
-\paragraph{representations}\label{representations}}
-
-can draw up to 3, ish geometric is just arrow on graph to coords
-
-adding vecs on the graph is just tip to tail, then first tip to last
-tail for resultant just like phys
-
-\begin{verbatim}
-(
-    a1
-    a2
-    .
-    .
-    .
-    an
-)
-\end{verbatim}
-
-is a vector of \(\mathbb{r}^n\)
-
-\begin{verbatim}
-matrix multiplication identity?
-multiplication on group? multiplication on to collum vectors
-\end{verbatim}
+\[
+\begin{aligned}
+f(x) &= x(x^2 + 2) - \sin{(x^4 - x^{90})} + e^\sin{(x)} + \ln{(\cos{(x^2)})} \\
+\frac{d}{dx}[f(x)} &= (3x^2 + 2) - (4x^3 - 90x^{89})\cos{(x^4 - x^{90})} + 
+\end{aligned}
+\]
 
 \end{document}

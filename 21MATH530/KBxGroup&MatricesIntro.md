@@ -17,12 +17,17 @@ source:  #index
 
 
 
-- **Tell us why you decided to sign up for this class.**
+### **Tell us why you decided to sign up for this class.**
 
 I spend most of my free time doing programming projects with my friends, and recently I've been doing a lot of Machine Learning. My 'excuse' for taking linear algebra is that in my more recent ML projects I've had to go lower level and I'm being held back by my understanding of linear algebra and statistics, but frankly linear algebra just sounds really cool and I enjoy Nueva math classes a lot.
 
 
-- Read 1.A from the textbook. We will discuss any questions on Monday! 
+###  **Read 1.A from the textbook. We will discuss any questions on Monday! **
+
+
+
+
+
 
 Which of the number systems we discussed are groups under addition? Under multiplication?
 
