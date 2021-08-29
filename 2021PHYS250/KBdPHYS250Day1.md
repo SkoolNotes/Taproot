@@ -39,20 +39,26 @@ Basically, we just rubbed a bunch of things on each other and checked the result
 - Coulomb's Law
 	- Given two point charges, Q1 and Q2, and a distance r
 	- $F = k \frac{q_1q_2}{r^2}$
-		- k is 8.99 * 10^9 Nm^2C^-2
-		- r is in meters
-		- q1, q2 in Coulombs (C)
-		- if F>0: force is repulsion
-		- if F<0: force is attraction
+		- $k$ is $8.99\times 10^{9}Nm^{2}C^{-2}$
+		- $r$ is in meters
+		- $q_1$, $q_2$ in Coulombs ($C$)
+		- if $F > 0$, then force is repulsion
+		- if $F < 0$, then force is attraction
 	- Sample Problem
-		$q_1 = 50uC = 50\times 10^-6C$
-		$q_2 = 1uC = 1\times 10^-6C$
-		$F_12 = 2N$ ()
-		k = 8.99*10^9Nm^2C^-2
-		F = k * (q1q2/r^2)
-		r^2 = k * (q1q2/F) = 8.99*10^9Nm^2C^-2 * 50*10^-12C^2 / 2N
-		= 224.75 * 10^-3 m
-		r = sqrt(224.75 * 10^-3)m 
-		= 474*10^-3m
+$$
+\begin{equation}
+\begin{aligned}
+q_1 = 50uC = 50\times 10^{-6}C \\
+q_2 = 1uC = 1\times 10^{-6}C \\
+F_12 = 2N \\
+k = 8.99\times 10^{9}Nm^{2}C^{-2} \\
+F = k \frac{q_1q_2}{r^2} \\
+r^2 = k \frac{q_1q_2}{F} = 8.99\times 10^{9}Nm^{2}C^{-2} \cdot 50\times 10^{-12}C^{2}\div 2N \\
+= 224.75 \times 10^{-3}m \\
+r = \sqrt{224.75 \times 10^{-3}}m \\
+= 474\times 10^{-3}m
+\end{aligned}
+\end{equation}
+$$
 	- In more complicated setups, certain things such as acceleration won't be constant because it is determinant on force, which is determined by distance from other charges.
 		- This complicates things so don't expect it to be simple.

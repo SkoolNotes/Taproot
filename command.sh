@@ -28,8 +28,8 @@ while true; do
         ./compile.sh
 
         git add -A >> log.txt && git reset -- log.txt >> log.txt
-        if (( $(cat buildID.txt) % 32 == 0 )); then
-            (git commit -m "b$(cat buildID.txt): $(echo $changes | paste -sd ', ' -) $(printf "\n(\n")automated compilation $(cat buildID.txt))" >> log.txt && \
+        if (( $(cat buildID.txt) % 1 == 0 )); then
+            (git commit -m "b$(cat buildID.txt): $(git status --porcelain | cut -c4- | awk -F. '{ print $1 }' - | uniq) $(printf "\n(\n")automated compilation $(cat buildID.txt))" >> log.txt && \
                 git push --quiet) && \
             printf "Snapshotted and commited at $(date)\r" || printf "Sync Failed!!! $(date)"
         else
