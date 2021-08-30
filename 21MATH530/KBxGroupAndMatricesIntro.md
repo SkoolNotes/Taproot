@@ -25,7 +25,7 @@ I spend most of my free time doing programming projects with my friends, and rec
 
 ###  **read 1.a from the textbook. we will discuss any questions on monday! **
 
-q: is division also a lie?
+q: is division also a lie? yes!
 q: do tuples all need the same type? why call them n-tuples instead of lists?
 q: why is it called liniear algebra? the explanation that it doesnt deal with geo doesnt explain it 
 

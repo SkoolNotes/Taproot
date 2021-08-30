@@ -13,5 +13,6 @@ source:  #index
 
 [[KBxLInAlgDayTwo]]
 [[KBxGroupAndMatricesIntro]]
+[[KBxLinAlgDayThree]]
 
 

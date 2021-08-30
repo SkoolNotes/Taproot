@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ HIST301 }
-\newcommand{\thelesson}{ HIST301 Master Index }
+\newcommand{\thecourse}{ MATH530 }
+\newcommand{\thelesson}{ Introduction to Groups and Matrices }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17458)}}    % original
-%\rhead{\textrmlf{Compiled }\#17458\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17471)}}    % original
+%\rhead{\textrmlf{Compiled }\#17471\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,30 +210,148 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{hist-301-master-index}{%
-\section{HIST 301 Master Index}\label{hist-301-master-index}}
+\#ref \#ret
 
-\hypertarget{day-1}{%
-\subsection{Day 1}\label{day-1}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{hw}{%
-\subsubsection{HW}\label{hw}}
+\hypertarget{the-assignment}{%
+\section{\texorpdfstring{\href{https://nuevaschool.instructure.com/courses/3718/assignments/61005}{The
+Assignment}}{The Assignment}}\label{the-assignment}}
+
+{[}{[}Screen Shot 2021-08-28 at 6.12.09 PM.png{]}{]} {[}{[}8-28-21, 9:32
+PM Microsoft Lens.pdf{]}{]}
+
+\begin{verbatim}
+For some reason the pdf isn't rendering, so I'll attach it as an additional file. Apologies for the handwriting..
+\end{verbatim}
+
+\hypertarget{tell-us-why-you-decided-to-sign-up-for-this-class.}{%
+\subsubsection{\texorpdfstring{\textbf{Tell us why you decided to sign
+up for this
+class.}}{Tell us why you decided to sign up for this class.}}\label{tell-us-why-you-decided-to-sign-up-for-this-class.}}
+
+I spend most of my free time doing programming projects with my friends,
+and recently I've been doing a lot of Machine Learning. My `excuse' for
+taking linear algebra is that in my more recent ML projects I've had to
+go lower level and I'm being held back by my understanding of linear
+algebra and statistics, but frankly linear algebra just sounds really
+cool and I enjoy Nueva math classes a lot.
+
+\hypertarget{read-1.a-from-the-textbook.-we-will-discuss-any-questions-on-monday}{%
+\subsubsection{\texorpdfstring{\textbf{read 1.a from the textbook. we
+will discuss any questions on
+monday!~}}{read 1.a from the textbook. we will discuss any questions on monday!~}}\label{read-1.a-from-the-textbook.-we-will-discuss-any-questions-on-monday}}
+
+q: is division also a lie? yes! q: do tuples all need the same type? why
+call them n-tuples instead of lists? q: why is it called liniear
+algebra? the explanation that it doesnt deal with geo doesnt explain it
+
+\hypertarget{which-of-the-number-systems-we-discussed-are-groups-under-addition-under-multiplication}{%
+\subsubsection{\texorpdfstring{\textbf{Which of the number systems we
+discussed are groups under addition? Under
+multiplication?}}{Which of the number systems we discussed are groups under addition? Under multiplication?}}\label{which-of-the-number-systems-we-discussed-are-groups-under-addition-under-multiplication}}
 
 \begin{itemize}
 \tightlist
 \item
-  Dylan: {[}{[}KBdHIST301HWIndigenousPeoplesHistory{]}{]}
+  natural
+
+  \begin{itemize}
+  \tightlist
+  \item
+    + N: no identity
+  \item
+    * N: no inverse
+  \end{itemize}
 \item
-  Huxley: {[}{[}KBxIndigenousPeoplesHistoftheUS{]}{]}
+  whole
+
+  \begin{itemize}
+  \tightlist
+  \item
+    + N: no inverse
+  \item
+    * N: no inverse
+  \end{itemize}
+\item
+  integers
+
+  \begin{itemize}
+  \tightlist
+  \item
+    + Y
+  \item
+    * N: no inverse
+  \end{itemize}
+\item
+  rational
+
+  \begin{itemize}
+  \tightlist
+  \item
+    + Y
+  \item
+    * Y
+  \end{itemize}
+\item
+  real
+
+  \begin{itemize}
+  \tightlist
+  \item
+    + Y
+  \item
+    * Y
+  \end{itemize}
+\item
+  complex
+
+  \begin{itemize}
+  \tightlist
+  \item
+    + Y
+  \item
+    * Y
+  \end{itemize}
 \end{itemize}
 
-\hypertarget{day-2}{%
-\subsection{Day 2}\label{day-2}}
+\hypertarget{is-there-a-multiplication-for-3-by-1-vectors-that-satisfies-all-group-requirements}{%
+\subsubsection{\texorpdfstring{\textbf{Is there a multiplication for 3
+by 1 vectors that satisfies all group
+requirements?}}{Is there a multiplication for 3 by 1 vectors that satisfies all group requirements?}}\label{is-there-a-multiplication-for-3-by-1-vectors-that-satisfies-all-group-requirements}}
 
-\begin{itemize}
-\tightlist
-\item
-  Dylan:
-\end{itemize}
+Y -- Multiply equal indices.
+
+E.g. \$
+
+\begin{bmatrix} 1 & 2 & 3 \end{bmatrix}
+
+\$ \$
+
+\begin{bmatrix} 2 & 2 & 2 \end{bmatrix}
+
+=
+
+\begin{bmatrix} 1*2 & 2*2 & 3*2 \end{bmatrix}
+
+=
+
+\begin{bmatrix} 2 & 4 & 6 \end{bmatrix}
+
+\$
+
+\hypertarget{is-there-an-identity-for-multiplication-on-2-by-2-matrices}{%
+\subsubsection{\texorpdfstring{\textbf{Is there an identity for
+multiplication on 2 by 2
+matrices?}}{Is there an identity for multiplication on 2 by 2 matrices?}}\label{is-there-an-identity-for-multiplication-on-2-by-2-matrices}}
+
+Y -- \$
+
+\begin{bmatrix} 1 & 0 \\ 0 & 1  \end{bmatrix}
+
+\$
+
+0s cancel the multiplications where the operation index doesn't match
+the sum of the matrix indices.
 
 \end{document}

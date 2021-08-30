@@ -7,7 +7,7 @@ source: #KBdHIST301MasterIndex
 # Notes
 
 ## Prologue
-- Usually conquest of America is viewed from a Western (Eurocentric) perspective, but we should look at it also from a Native American perspective
+- Usually conquest of America is viewed from a Western (Eurocentric) perspective, but we should look at it also from a **Native American perspective**
 - This isn't easy because Native Americans didn't really write stuff down
 - Text will look at how we might actually do this
 
@@ -29,7 +29,7 @@ source: #KBdHIST301MasterIndex
 - Large European companies start settling in areas
 
 ### European settlements lead to importing of European objects
-- Trading system created
+- **Trading system created**
 - Some European manufacturers made items for Indians or took Indian items and made them into European objects
 - Raw materials were important; metal items were valued by what they were made from rather than function
 - Indians only started using European goods as they were intended after large colonies were settled
@@ -66,3 +66,9 @@ source: #KBdHIST301MasterIndex
 
 ## Conclusion
 **Native Americans were dynamic and adapted to changing environment**
+
+# Summary of Reading
+
+* Trading in North America was extremely important for **both European settlers and Native Americans**
+	* Trading in North America **influenced environment, politics, and social dynamics**
+* Also disease lmao

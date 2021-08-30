@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ HIST301 }
-\newcommand{\thelesson}{ HIST301 Master Index }
+\newcommand{\thecourse}{ MATH530 }
+\newcommand{\thelesson}{ temp -- lin alg day 3 }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17458)}}    % original
-%\rhead{\textrmlf{Compiled }\#17458\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17472)}}    % original
+%\rhead{\textrmlf{Compiled }\#17472\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,31 +209,28 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBxLinAlgMasterIndex}{\tiny\textulf{[[}\textbf{KBxLinAlgMasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{hist-301-master-index}{%
-\section{HIST 301 Master Index}\label{hist-301-master-index}}
+\#flo \#disorganized
 
-\hypertarget{day-1}{%
-\subsection{Day 1}\label{day-1}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{hw}{%
-\subsubsection{HW}\label{hw}}
+\hypertarget{chapter-clap-review-clap}{%
+\section{chapter :clap: review :clap:}\label{chapter-clap-review-clap}}
 
-\begin{itemize}
-\tightlist
-\item
-  Dylan: {[}{[}KBdHIST301HWIndigenousPeoplesHistory{]}{]}
-\item
-  Huxley: {[}{[}KBxIndigenousPeoplesHistoftheUS{]}{]}
-\end{itemize}
+{[}{[}KBxGroupAndMatricesIntro{]}{]}
 
-\hypertarget{day-2}{%
-\subsection{Day 2}\label{day-2}}
+\begin{verbatim}
+field: group with + and * 
+eg. complex #, real #
+F: field -- usually real and/or complex
+\end{verbatim}
 
-\begin{itemize}
-\tightlist
-\item
-  Dylan:
-\end{itemize}
+don't need to worry about distributivity!
+
+we are gonna use a lotta fields and not a lot of groups
+
+figure it out in low d then just aplly to high d
 
 \end{document}

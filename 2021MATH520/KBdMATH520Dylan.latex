@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ HIST301 }
-\newcommand{\thelesson}{ HIST301 Master Index }
+\newcommand{\thecourse}{ MATH520 }
+\newcommand{\thelesson}{ MVC Dylan }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17458)}}    % original
-%\rhead{\textrmlf{Compiled }\#17458\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17454)}}    % original
+%\rhead{\textrmlf{Compiled }\#17454\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -210,30 +210,8 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{hist-301-master-index}{%
-\section{HIST 301 Master Index}\label{hist-301-master-index}}
-
-\hypertarget{day-1}{%
-\subsection{Day 1}\label{day-1}}
-
-\hypertarget{hw}{%
-\subsubsection{HW}\label{hw}}
-
-\begin{itemize}
-\tightlist
-\item
-  Dylan: {[}{[}KBdHIST301HWIndigenousPeoplesHistory{]}{]}
-\item
-  Huxley: {[}{[}KBxIndigenousPeoplesHistoftheUS{]}{]}
-\end{itemize}
-
-\hypertarget{day-2}{%
-\subsection{Day 2}\label{day-2}}
-
-\begin{itemize}
-\tightlist
-\item
-  Dylan:
-\end{itemize}
+I will most likely follow Jack's footsteps in not taking many notes.
+I'll probably use Taproot for homework mostly. I will also try to scan
+any worksheets for use later.
 
 \end{document}
