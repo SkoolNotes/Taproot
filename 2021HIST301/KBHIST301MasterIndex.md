@@ -10,5 +10,6 @@ source: #index
 
 ### HW
 - Dylan: [[KBdHIST301HWIndigenousPeoplesHistory]]
+- Huxley: [[KBxIndigenousPeoplesHistoftheUS]]
 
 ## Day 2
