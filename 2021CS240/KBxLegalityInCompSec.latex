@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16783)}}    % original
-%\rhead{\textrmlf{Compiled }\#16783\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17344)}}    % original
+%\rhead{\textrmlf{Compiled }\#17344\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -236,6 +236,13 @@ got convicted pretty hard
 \item
   What are the ethical choices people faced? What, if any, actions would
   you consider unethical? Why?
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Of course, Morris when releasing the worm in first place, but also
+  \end{enumerate}
 \item
   What, if any, actions in this story do you think should be illegal?
   What actions are actually illegal? Specify laws that might be
