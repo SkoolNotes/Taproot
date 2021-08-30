@@ -59,7 +59,7 @@ _noun_
 	- controlled them with christian missionaries and alchohal?
 - eatin food....
 
-[[KBxNotesonIndigenousPeoplesHist]]
+[[KBxNotesonHannahJones]]
 
 
 

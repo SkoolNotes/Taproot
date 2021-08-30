@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17403)}}    % original
-%\rhead{\textrmlf{Compiled }\#17403\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17568)}}    % original
+%\rhead{\textrmlf{Compiled }\#17568\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -237,6 +237,8 @@
   {[}{[}KBhCS240PersonalEthics{]}{]}
 \item
   {[}{[}KBhCS240Rubric{]}{]}
+\item
+  {[}{[}KBxCS240Rubric{]}{]}
 \end{itemize}
 
 \end{document}

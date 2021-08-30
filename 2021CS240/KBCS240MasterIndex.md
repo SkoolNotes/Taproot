@@ -15,3 +15,4 @@ source: #index
 ## Personal Ethics
 - [[KBhCS240PersonalEthics]]
 - [[KBhCS240Rubric]]
+- [[KBxCS240Rubric]]

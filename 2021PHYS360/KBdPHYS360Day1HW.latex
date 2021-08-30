@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ HIST301 }
-\newcommand{\thelesson}{ temp -- hist day 2 }
+\newcommand{\thecourse}{ PHYS360 }
+\newcommand{\thelesson}{ Adv Mech Day 1 HW }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17537)}}    % original
-%\rhead{\textrmlf{Compiled }\#17537\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17568)}}    % original
+%\rhead{\textrmlf{Compiled }\#17568\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Dylan Wallace \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,18 +209,12 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBPHYS360MasterIndex}{\tiny\textulf{[[}\textbf{KBPHYS360MasterIndex}\textulf{]]}}}\thinspace
 
-\#flo \#inclass
+\hypertarget{section-a}{%
+\section{Section A}\label{section-a}}
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{critical-clap-race-clap-theory}{%
-\subsection{critical :clap: race :clap:
-theory}\label{critical-clap-race-clap-theory}}
-
-\begin{verbatim}
-- What would you descirbe as Hannah-Jones's goal in her introduction?
-- Is Hannah-Jones creating the prgessive narrative that Cowie is calling for or is the 1619 prioject an example of anti-patriotism on the left?
-\end{verbatim}
+Given everything,
 
 \end{document}

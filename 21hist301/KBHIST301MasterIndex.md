@@ -7,7 +7,7 @@ context: HIST301
 - [[KBxWhatDoesItMeanToBeAmerican]] 
 - [[KBxHannahJones1619Project]]
 - [[KBx1619ProjectTookOver2020]]
-- [[KBxNotesonIndigenousPeoplesHist]]
+- [[KBxNotesonHannahJones]]
 - [[KBxIndigenousPeoplesHistoftheUS]]
 
 Barry!
