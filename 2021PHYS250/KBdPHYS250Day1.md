@@ -67,4 +67,6 @@ $$
 
 ### Vector Fields
 - Fields of vectors
-	- Vector magnitude is in $NC^{-1}$
+	- Vector magnitude is in $NC^{-1}$ (Newtons per Coulomb)
+	- Behave in interesting ways i guess i dunno
+	- Calculate using a hypothetical proton

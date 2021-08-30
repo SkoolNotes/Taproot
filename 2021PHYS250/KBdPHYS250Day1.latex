@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17503)}}    % original
-%\rhead{\textrmlf{Compiled }\#17503\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17514)}}    % original
+%\rhead{\textrmlf{Compiled }\#17514\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -369,7 +369,11 @@ Might not be complete.
   \begin{itemize}
   \tightlist
   \item
-    Vector magnitude is in \(NC^{-1}\)
+    Vector magnitude is in \(NC^{-1}\) (Newtons per Coulomb)
+  \item
+    Behave in interesting ways i guess i dunno
+  \item
+    Calculate using a hypothetical proton
   \end{itemize}
 \end{itemize}
 

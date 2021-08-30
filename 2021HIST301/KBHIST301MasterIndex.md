@@ -14,3 +14,4 @@ source: #index
 
 ## Day 2
 - Dylan: [[KBdHIST301Day2]]
+- Huxley: [[KBxNotesonIndigenousPeoplesHist]]

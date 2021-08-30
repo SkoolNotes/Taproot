@@ -9,7 +9,6 @@ course: PHYS250
 #flo  #uncompiled
 
 ## Day 1
-
 - Dylan: [[KBdPHYS250Day1]]
 
 [[KBxInsulators]]
