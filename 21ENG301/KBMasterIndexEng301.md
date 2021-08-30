@@ -1,32 +1,15 @@
 ---
-title: master index
-author: Huxley Marvit
-context: ENG301
+title: English 11 Master Index
+course: ENG301
+source: #index
 ---
 
 # American lit!
 
-[[KBxDayOneEng301]]
-[[KBxThereTherePromptsAndQuestions]]
-[[KBxQuickWrite]]
+## Day one stuff
+- [[KBxDayOneEng301]]
+- [[KBxThereTherePromptsAndQuestions]]
+- [[KBxQuickWrite]]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## There There Discussion
+- [[KBhENG301ThereThereDiscussion]] 

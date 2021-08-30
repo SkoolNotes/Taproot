@@ -145,7 +145,7 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ CS240 }
+\newcommand{\thecourse}{ cs240 }
 \newcommand{\thelesson}{ legality in computer security }
 
 \title{\textbf{\thecourse}\thelesson}
@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17408)}}    % original
-%\rhead{\textrmlf{Compiled }\#17408\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17411)}}    % original
+%\rhead{\textrmlf{Compiled }\#17411\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -293,9 +293,9 @@ bunch of stuff, spread like wildfire he got convicted pretty hard
   \item
     The punishment given -- 3 years probation, 400 hours community
     service, and a fine of \$10,050 -- seems a little much to me.
-    Changing those 400 hours to having Morris prevent future attacks
-    would be more reasonable given that he has proven himself to be
-    capable of sending attacks.
+    Changing those 400 hours to having Morris help prevent future
+    attacks would be more reasonable given that he has proven himself to
+    be capable of sending attacks.
   \end{enumerate}
 \item
   \textbf{What are the technical lessons that can be learned to improve
@@ -368,17 +368,18 @@ bunch of stuff, spread like wildfire he got convicted pretty hard
   \item
     I wonder, could DPR simply have moved somewhere where this trading
     would be legal? I guess not, because the goal was not to create a
-    drug trade but to ``step toward freedom,'' because in DPR's eyes the
-    current system wasn't free. I doubt changing the system by going
-    through the system would have led to the results DPR desired, and
-    I'm sure DPR knew that. Thus, when the infrastructure to radically
-    change the law is not set in place by the law, sidestepping the
-    legal system becomes the inherent solution. As for ethical bounds, I
-    am not qualified to comment, but I will do so anyways! DPR genuinely
-    believes in his cause, and his network could have been a step in the
-    right direction. Or it could have simply been something that ruined
-    a massive quantity of lives. Without knowing, I can't classify DPR's
-    actions from a utilitarian perspective.
+    drug trade but to ``step toward universal freedom,'' because in
+    DPR's eyes the current system wasn't free. I doubt changing the
+    system by going through the system would have led to the results DPR
+    desired, and I'm sure DPR knew that. Thus, when the infrastructure
+    to radically change the law is not set in place by the law,
+    sidestepping the legal system becomes the inherent solution. As for
+    ethical bounds, I am not qualified to comment, but I will do so
+    anyways! DPR genuinely believes in his cause, and his network could
+    have been a step in the right direction. Or it could have simply
+    been something that ruined a massive quantity of lives. Without
+    knowing, I can't classify DPR's actions from a utilitarian
+    perspective.
   \end{enumerate}
 \item
   \textbf{What would you consider appropriate punishment? If relevant to

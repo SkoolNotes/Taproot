@@ -146,7 +146,7 @@
 
 
 \newcommand{\thecourse}{ ENG301 }
-\newcommand{\thelesson}{ English 11 Master Index }
+\newcommand{\thelesson}{ There There Discussion }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17433)}}    % original
-%\rhead{\textrmlf{Compiled }\#17433\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17440)}}    % original
+%\rhead{\textrmlf{Compiled }\#17440\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,30 +209,27 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBMasterIndexEng301}{\tiny\textulf{[[}\textbf{KBMasterIndexEng301}\textulf{]]}}}\thinspace
 
-\hypertarget{american-lit}{%
-\section{American lit!}\label{american-lit}}
+\hypertarget{there-there-discussion-prep}{%
+\section{There There Discussion
+Prep}\label{there-there-discussion-prep}}
 
-\hypertarget{day-one-stuff}{%
-\subsection{Day one stuff}\label{day-one-stuff}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBxDayOneEng301{]}{]}
-\item
-  {[}{[}KBxThereTherePromptsAndQuestions{]}{]}
-\item
-  {[}{[}KBxQuickWrite{]}{]}
-\end{itemize}
-
-\hypertarget{there-there-discussion}{%
-\subsection{There There Discussion}\label{there-there-discussion}}
+Significance of ``head'' =\textgreater{} sense of \textbf{identity}.
 
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBhENG301ThereThereDiscussion{]}{]}
+  Difference between ubunaty vs.~uniformatiy
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Head is a sense of identity
+  \item
+    Head
+  \end{itemize}
 \end{itemize}
 
 \end{document}

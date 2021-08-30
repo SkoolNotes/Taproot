@@ -1,7 +1,7 @@
 ---
 title: legality in computer security
 author: huxley narvit
-context: CS240
+context: cs240
 ---
 
 #ret 
@@ -36,7 +36,7 @@ context: CS240
 	1.  Morris's goals are quite unclear to me, besides just sheer curiosity about how his worm would fare in the real world. Satisfying this curiosity without releasing the worm into the real world is not an easy task. Morris could have tried to run some type of simulation, or fixed his program to make sure it didn't break machines then install a fail safe, but at the end of the day the question was about the real world and a true test. 
 
 4.  **What would you consider appropriate punishment? If relevant to your story, how does that compare to the punishments that were handed down?**
-	1.  The punishment given -- 3 years probation, 400 hours community service, and a fine of $10,050 -- seems a little much to me. Changing those 400 hours to having Morris prevent future attacks would be more reasonable given that he has proven himself to be capable of sending attacks. 
+	1.  The punishment given -- 3 years probation, 400 hours community service, and a fine of $10,050 -- seems a little much to me. Changing those 400 hours to having Morris help prevent future attacks would be more reasonable given that he has proven himself to be capable of sending attacks. 
 	
 5. **What are the technical lessons that can be learned to improve security?**
 	1. Communication networks between devices are scary and need to be checked closely lest more self-replicating worms wreak havoc.
@@ -54,7 +54,7 @@ context: CS240
 	1.  While I am not educated nearly enough to have informed opinions on the topic, legalizing the drug trade seems like a good idea to me. It allows for safer usage, actual regulation, and isn't conducive to the creation of organized crime networks. While DPR broke many laws with his network, there has also been discussion of the law enforcement agencies conducting unlawful investigations like looking for and seizing evidence without a search warrant. While unlawful searches should, by definition, be illegal, the ethics of it are also not entirely clear to me. There is an argument to be made about not waiting to cut through all the bureaucracy when you believe innocent people are getting hurt and you have the ability to stop it.
 
 3.  **What things do you think the people involved could have done to achieve their goals while staying within legal and ethical bounds?**
-	1.  I wonder, could DPR simply have moved somewhere where this trading would be legal? I guess not, because the goal was not to create a drug trade but to "step toward freedom," because in DPR's eyes the current system wasn't free. I doubt changing the system by going through the system would have led to the results DPR desired, and I'm sure DPR knew that. Thus, when the infrastructure to radically change the law is not set in place by the law, sidestepping the legal system becomes the inherent solution. As for ethical bounds, I am not qualified to comment, but I will do so anyways! DPR genuinely believes in his cause, and his network could have been a step in the right direction. Or it could have simply been something that ruined a massive quantity of lives. Without knowing, I can't classify DPR's actions from a utilitarian perspective.
+	1.  I wonder, could DPR simply have moved somewhere where this trading would be legal? I guess not, because the goal was not to create a drug trade but to "step toward universal freedom," because in DPR's eyes the current system wasn't free. I doubt changing the system by going through the system would have led to the results DPR desired, and I'm sure DPR knew that. Thus, when the infrastructure to radically change the law is not set in place by the law, sidestepping the legal system becomes the inherent solution. As for ethical bounds, I am not qualified to comment, but I will do so anyways! DPR genuinely believes in his cause, and his network could have been a step in the right direction. Or it could have simply been something that ruined a massive quantity of lives. Without knowing, I can't classify DPR's actions from a utilitarian perspective.
 	
 4.  **What would you consider appropriate punishment? If relevant to your story, how does that compare to the punishments that were handed down?**
 	1.  DPR was sentenced to life in prison. From the perspective of a legal system, any sidestep this large does warrant a lifetime in prison regardless of the actual content of the actions. From the perspective of a human, I can't say if it was appropriate for the same reasons as the question above.
