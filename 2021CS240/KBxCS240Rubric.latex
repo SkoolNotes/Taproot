@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS360 }
-\newcommand{\thelesson}{ Adv Mech Day 1 HW }
+\newcommand{\thecourse}{ CS240 }
+\newcommand{\thelesson}{ huxley's comps sec rubric }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17599)}}    % original
-%\rhead{\textrmlf{Compiled }\#17599\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17600)}}    % original
+%\rhead{\textrmlf{Compiled }\#17600\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Dylan Wallace \(\cdot\) \textbf{2020-2021}}
+\lfoot{huxley marvit \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,60 +209,41 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBPHYS360MasterIndex}{\tiny\textulf{[[}\textbf{KBPHYS360MasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{section-a}{%
-\section{Section A}\label{section-a}}
+\#ret \#hw
 
-First, we will simplify the problem to a single dimension. We can do
-this because the object is only moving in a single direction and won't
-change its direction at any point. Therefore, all vectors will act like
-scalars or will be replaced by scalars for the moment. Also, the initial
-starting point for the object will be at \(<0>\). Given that:
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\[
-\begin{aligned}
-F &= m\cdot a \\
-W &= \int_{0}^{d} F \,dx \\
-&= \int_{0}^{d} m\cdot a \,dx \\
-\text{Mass is constant so we can extract that from the integral:} \\
-&= m\cdot \int_{0}^{d} a \,dx \\
-\text{Because acceleration is the derivative of velocity, the next step is trivial:} \\
-&= m\cdot \frac{1}{2}\int_{0}^{d} 2a \,dx \\
-&= m\cdot \frac{1}{2}v_f^2 \\
-&= \frac{1}{2}mv_f^2 \\
-\end{aligned}
-\]
+\hypertarget{the-assignment}{%
+\section{The assignment}\label{the-assignment}}
 
-\hypertarget{section-b}{%
-\section{Section B}\label{section-b}}
+\begin{verbatim}
+Think of something you'd like to learn, practice, or work on in this class, that isn't covered by the existing rubric. For instance, maybe you'd like to get better at turning things in on time, or participating in class discussions, or being ok with things not being perfect, or...you get the idea.
 
-We will define \(d_{2x}\) as the final distance, and \(d_{1x}\) as the
-initial distance that the object hypothetically would have traveled
-given constant force. Given this:
+Create a rubric for this category, with foundational, proficient, and exemplary standards, and descriptions of how you will know when you have demonstrated each of these standards. Submit the standards and descriptions for this assignment.
 
-\[
-\begin{aligned}
-\delKE_{x} &= \int_{d_{1x}}^{d_{2x}} F \,dx \\
-&= \int_{d_{1x}}^{d_{2x}} ma \,dx \\
-&= m\cdot \int_{d_{1x}}^{d_{2x}} a \,dx
-&= \frac{1}{2}m\cdot [v_{f}^2]_{d_{1x}}^{d_{2x}} \\
-\text{By definition, we can replace the result of the integral with} v_{2x}^2 - v_{1x}^2 \\
-&= \frac{1}{2}m\cdot (v_{2x}^2 - v_{2x}^2) \\
-&= \frac{1}{2}mv_{2x}^2 - \frac{1}{2}mv_{1x}^2 \\
-\end{aligned}
-\]
+This rubric category will be included on each of your assignments and worth 10% of your final grade. Yes, really.
+\end{verbatim}
 
-\hypertarget{section-c}{%
-\section{Section C}\label{section-c}}
+My grades do not motivate me to learn. My curiosity and interest do.
+When I need to worry about my grades, I learn significantly less and I
+don't have nearly as much fun doing so. Thus, I will do the reflection
+on what I'd want to work on, and also install a fail-safe as follows:
 
-\$\$
+\hypertarget{meta}{%
+\subsubsection{Meta}\label{meta}}
 
-\begin{aligned}
+For this semester, I would like to be assessed on genuine and
+generalizable understanding of the topics we cover. And, of course,
+whether or not my name includes Huxley.
 
-\end{aligned}
+\hypertarget{foundational}{%
+\subsubsection{Foundational}\label{foundational}}
 
-\$\$
+Turns in homework with satisfactory answers and/or name includes Huxley.
+
+\#\#\# Proficient
+
+\#\#\# Exemplary
 
 \end{document}
