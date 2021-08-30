@@ -10,4 +10,9 @@ course: PHYS250
 
 ## Day 1
 
-[[KBdPHYS250Day1]]
+- Dylan: [[KBdPHYS250Day1]]
+
+[[KBxInsulators]]
+
+
+## Day 2

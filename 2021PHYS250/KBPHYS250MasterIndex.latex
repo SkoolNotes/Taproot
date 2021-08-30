@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17034)}}    % original
-%\rhead{\textrmlf{Compiled }\#17034\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17504)}}    % original
+%\rhead{\textrmlf{Compiled }\#17504\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -219,6 +219,15 @@ Index}\label{modern-physics-master-index}}
 \hypertarget{day-1}{%
 \subsection{Day 1}\label{day-1}}
 
-{[}{[}KBdPHYS250Day1{]}{]}
+\begin{itemize}
+\tightlist
+\item
+  Dylan: {[}{[}KBdPHYS250Day1{]}{]}
+\end{itemize}
+
+{[}{[}KBxInsulators{]}{]}
+
+\hypertarget{day-2}{%
+\subsection{Day 2}\label{day-2}}
 
 \end{document}

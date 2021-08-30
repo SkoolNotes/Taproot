@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17471)}}    % original
-%\rhead{\textrmlf{Compiled }\#17471\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17482)}}    % original
+%\rhead{\textrmlf{Compiled }\#17482\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -291,7 +291,7 @@ multiplication?}}{Which of the number systems we discussed are groups under addi
   \item
     + Y
   \item
-    * Y
+    * Y : wrong! no inverse for 0. ish\ldots{}
   \end{itemize}
 \item
   real
@@ -311,7 +311,7 @@ multiplication?}}{Which of the number systems we discussed are groups under addi
   \item
     + Y
   \item
-    * Y
+    * Y missing zero!
   \end{itemize}
 \end{itemize}
 
@@ -353,5 +353,7 @@ Y -- \$
 
 0s cancel the multiplications where the operation index doesn't match
 the sum of the matrix indices.
+
+expand to 1s along the diagonal
 
 \end{document}

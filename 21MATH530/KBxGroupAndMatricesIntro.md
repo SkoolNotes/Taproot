@@ -44,13 +44,14 @@ q: why is it called liniear algebra? the explanation that it doesnt deal with ge
 	- \* N: no inverse
 - rational
 	- \+ Y
-	- \* Y
+	- \* Y : wrong! no inverse for 0. ish...
 - real 
 	- \+ Y
 	- \* Y
 - complex
 	- \+ Y
 	- \* Y
+missing zero!
 
 
 ### **Is there a multiplication for 3 by 1 vectors that satisfies all group requirements?**
@@ -71,6 +72,7 @@ $
 
 0s cancel the multiplications where the operation index doesn't match the sum of the matrix indices.
 
+expand to 1s along the diagonal
 
 
 

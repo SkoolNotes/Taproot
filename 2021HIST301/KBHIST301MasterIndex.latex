@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17458)}}    % original
-%\rhead{\textrmlf{Compiled }\#17458\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17478)}}    % original
+%\rhead{\textrmlf{Compiled }\#17478\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -233,7 +233,7 @@
 \begin{itemize}
 \tightlist
 \item
-  Dylan:
+  Dylan: {[}{[}KBdHIST301Day2{]}{]}
 \end{itemize}
 
 \end{document}

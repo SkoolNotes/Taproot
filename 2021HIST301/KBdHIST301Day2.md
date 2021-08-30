@@ -1,10 +1,11 @@
 ---
+author: Dylan Wallace
 title: HIST301 Day 2
 course: HIST301
 source: #KBdHIST301MasterIndex
 ---
 
-# Reading Notes in Hindsight
+# Reading Reflections
 
 ## Argument
 * Native American perspective beneficial
@@ -31,3 +32,4 @@ source: #KBdHIST301MasterIndex
 
 ## Connections?
 * Talking about disease is common across previous reading
+

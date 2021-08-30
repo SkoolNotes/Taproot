@@ -1,4 +1,5 @@
 ---
+author: Dylan Wallace
 title: HIST301 Indigenous People's History HW
 course: HIST301
 source: #KBdHIST301MasterIndex

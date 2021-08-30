@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17108)}}    % original
-%\rhead{\textrmlf{Compiled }\#17108\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17503)}}    % original
+%\rhead{\textrmlf{Compiled }\#17503\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -355,6 +355,21 @@ Might not be complete.
     \item
       This complicates things so don't expect it to be simple.
     \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{vector-fields}{%
+\subsubsection{Vector Fields}\label{vector-fields}}
+
+\begin{itemize}
+\tightlist
+\item
+  Fields of vectors
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Vector magnitude is in \(NC^{-1}\)
   \end{itemize}
 \end{itemize}
 

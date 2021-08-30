@@ -64,3 +64,7 @@ $$
 
 	- In more complicated setups, certain things such as acceleration won't be constant because it is determinant on force, which is determined by distance from other charges.
 		- This complicates things so don't expect it to be simple.
+
+### Vector Fields
+- Fields of vectors
+	- Vector magnitude is in $NC^{-1}$

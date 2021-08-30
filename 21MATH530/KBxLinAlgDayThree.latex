@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17472)}}    % original
-%\rhead{\textrmlf{Compiled }\#17472\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17493)}}    % original
+%\rhead{\textrmlf{Compiled }\#17493\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -232,5 +232,46 @@ don't need to worry about distributivity!
 we are gonna use a lotta fields and not a lot of groups
 
 figure it out in low d then just aplly to high d
+
+addition -\textgreater{} commutative in f1, extrapolate to fn
+
+\begin{verbatim}
+inhereted comutitivity!
+\end{verbatim}
+
+3d vis on 2d means losing info, thus point has a line of points that all
+fall there
+
+additive and multiplicative identity need to be separate!
+
+any group with zero will not be groups under *!
+Q*=(Q\textbackslash\{0\}, *) pluck out zero
+
+\hypertarget{associativity-check-with-integers}{%
+\subsubsection{associativity check, with
+integers!}\label{associativity-check-with-integers}}
+
+let \(a,b,c \in Z\)
+
+goal: \(a+(b+c)=(a+b)+c\)
+
+\(a + (b+c) = ( 1+1+1+1+...+1) = ( 1+1+1+1+...+1) + ( 1+1+1+1+...+1) + ( 1+1+1+1+...+1)\)
+
+and then scoot over?
+
+\#review
+
+\hypertarget{x1-matrices}{%
+\subsubsection{* 3x1 matrices}\label{x1-matrices}}
+
+\begin{itemize}
+\tightlist
+\item
+  equal indicies
+\end{itemize}
+
+no * everything by 1 cus ai !+ ia :(
+
+dot and cross product
 
 \end{document}

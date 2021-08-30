@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ PHYS250 }
+\newcommand{\thelesson}{ Eletrostatics Investigation }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16762)}}    % original
-%\rhead{\textrmlf{Compiled }\#16762\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17504)}}    % original
+%\rhead{\textrmlf{Compiled }\#17504\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,6 +210,18 @@
 
 % DID YOU SET SPELL????
 
+\#flo \#disorganized \#inclass
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
 electricity! continue later..
+
+\hypertarget{continued-later.}{%
+\subsection{Continued, later.}\label{continued-later.}}
+
+unit of len?: newtons/coulomb -\textgreater{} \(\frac{N}{C}\)
+
+no right len to draw, only relative in proportion to the \^{}2 of the
+charge \^{}sffsfsf
 
 \end{document}

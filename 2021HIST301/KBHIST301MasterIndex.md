@@ -13,4 +13,4 @@ source: #index
 - Huxley: [[KBxIndigenousPeoplesHistoftheUS]]
 
 ## Day 2
-- Dylan: 
+- Dylan: [[KBdHIST301Day2]]

@@ -9,10 +9,8 @@ source:  #index
 
 ---
 
-
-
 [[KBxLInAlgDayTwo]]
 [[KBxGroupAndMatricesIntro]]
-[[KBxLinAlgDayThree]]
+[[KBxChapter1aReview]]
 
 
