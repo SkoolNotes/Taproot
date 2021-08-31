@@ -35,7 +35,7 @@ $$
 &= m\cdot \int_{d_{1x}}^{d_{2x}} a \,dx
 &= \frac{1}{2}m\cdot [v_{f}^2]_{d_{1x}}^{d_{2x}} \\
 \text{By definition, we can replace the result of the integral with } v_{2x}^2 - v_{1x}^2 \\
-&= \frac{1}{2}m\cdot (v_{2x}^2 - v_{2x}^2) \\
+&= \frac{1}{2}m\cdot (v_{2x}^2 - v_{1x}^2) \\
 &= \frac{1}{2}mv_{2x}^2 - \frac{1}{2}mv_{1x}^2 \\
 \end{aligned}
 $$

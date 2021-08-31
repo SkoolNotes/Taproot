@@ -60,6 +60,3 @@ f(x) &= 2x^5 - 10x^4 - 70x^3 \\
 &= -\frac{23775}{7} \\
 \end{aligned}
 $$
-
-
-# Problem 7

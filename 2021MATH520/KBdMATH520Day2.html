@@ -4,7 +4,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta http-equiv="Content-Style-Type" content="text/css" />
         <meta name="generator" content="pandoc" />
-                        <title> PHYS360 Adv Mech Day 1 HW </title>
+                        <title> MATH520 MVC Day 2 </title>
         <style type="text/css">code{white-space: pre;}</style>
                                         <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
                         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -68,47 +68,26 @@ html {
     </head>
     <body>
         <div style="position: sticky; position: -webkit-sticky; top: 0; height: 30px; width: 100%; background-color: #BF3C3C; margin-bottom: 20px;z-index: 10000; color: white;   display: flex; flex-direction: column; justify-content: center;">
-            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>PHYS360</strong> Adv Mech Day 1 HW </span></div>
+            <div><span style='cursor: pointer; font-family: "Courier New", Courier, monospace; font-weight: 700; margin-left: 20px' onclick="window.location.href='https://taproot.shabang.cf/'">Taproot</span><span style='cursor: default; font-family: "Courier New", Courier, monospace; font-weight: 300 !important; margin-right: 20px; float:right'> <strong>MATH520</strong> MVC Day 2 </span></div>
         </div>
         <div id="center-viewport">
-            <p><strong>Source</strong>: <span><a href="http://taproot.shabang.cf/relay?request=KBPHYS360MasterIndex"><span><strong>[[</strong></span><strong>KBPHYS360MasterIndex</strong><span><strong>]]</strong></span></a></span></p>
-            <h1 id="section-a">Section A</h1>
-            <p>First, we will simplify the problem to a single dimension. We can do this because the object is only moving in a single direction and won’t change its direction at any point. Therefore, all vectors will act like scalars or will be replaced by scalars for the moment. Also, the initial starting point for the object will be at <span class="math inline">\(\)</span>. Given that:</p>
+            <h1 id="arc-length">Arc length</h1>
             <p><span class="math display">\[\begin{aligned}
-            F = m\cdot a \\
-            W = \int_{0}^{d} F \,dx \\
-            = \int_{0}^{d} m\cdot a \,dx \\
-            \text{Mass is constant so we can extract that from the integral:} \\
-            = m\cdot \int_{0}^{d} a \,dx \\
-            \text{Because acceleration is the derivative of velocity, the next step is trivial:} \\
-            = m\cdot \frac{1}{2}\int_{0}^{d} 2a \,dx \\
-            = m\cdot \frac{1}{2}v_f^2 \\
-            = \frac{1}{2}mv_f^2 \\
+            dr = \sqrt{dx^2 + dy^2} \\
+            = \sqrt{dx^2 + dy^2}\cdot \frac{dx}{dx} \\
+            = \sqrt{\frac{dx^2 + dy^2}{dx^2}}\cdot dx \\
+            = \sqrt{1 + \frac{dy^2}{dx^2}} dx \\
+            = \sqrt{(\frac{dy}{dx})^2 + 1} dx \\
+            \text{Next, we will integrate to find the arc length as a whole.}
+            L(x_0, x_1) = \int_{x_0}^{x_1} dr \\
+            = \int_{x_0}^{x_1} \sqrt{(\frac{dy}{dx})^2 + 1} \,dx \\
+            \text{Given that the arc length is of function } f\text{:} \\
+            = \int_{x_0}^{x_1} \sqrt{f&#39;{x}^2 + 1} \,dx \\
+            \text{In the case of the arc length of } f(x) = x^2 \text{ from 5 to 20:} \\
+            L(5, 20) &amp;= \int_{5}^{20} \sqrt{4x^2 + 1} \,dx \\
+            = [\frac{1}{2}\sqrt{4x^2 + 1}x + \sinh^{-1}{2x}]_{5}^{20} \\
+            = 375.346 \\
             \end{aligned}\]</span></p>
-            <h1 id="section-b">Section B</h1>
-            <p>We will define <span class="math inline">\(d_{2x}\)</span> as the final distance, and <span class="math inline">\(d_{1x}\)</span> as the initial distance that the object hypothetically would have traveled given constant force. Given this:</p>
-            <p><span class="math display">\[\begin{aligned}
-            \delta KE_{x} &amp;= \int_{d_{1x}}^{d_{2x}} F \,dx \\
-            &amp;= \int_{d_{1x}}^{d_{2x}} ma \,dx \\
-            &amp;= m\cdot \int_{d_{1x}}^{d_{2x}} a \,dx
-            &amp;= \frac{1}{2}m\cdot [v_{f}^2]_{d_{1x}}^{d_{2x}} \\
-            \text{By definition, we can replace the result of the integral with } v_{2x}^2 - v_{1x}^2 \\
-            &amp;= \frac{1}{2}m\cdot (v_{2x}^2 - v_{1x}^2) \\
-            &amp;= \frac{1}{2}mv_{2x}^2 - \frac{1}{2}mv_{1x}^2 \\
-            \end{aligned}\]</span></p>
-            <h1 id="section-c">Section C</h1>
-            <p>We extrapolate from previous sections.</p>
-            <p><span class="math display">\[\begin{aligned}
-            W &amp;= \int \vec{F}\cdot d\vec{r} \\
-            &amp;= \int F_{x} \,dx + \int F_{y} \,dy + \int F_{z} \,dz \\
-            \text{We can just use our 1D formulas from the other sections.} \\
-            \text{I trust you to be forgiving enough to let me reuse them.} \\
-            &amp;= KE_{x} + KE_{y} + KE_{z} \\
-            &amp;= (KE_{xf} + KE_{yf} + KE_{zf}) - (KE_{xo} + KE_{yo} + KE_{zo}) \\
-            &amp;= (\frac{1}{2}mv_{xf}^2 + \frac{1}{2}mv_{yf}^2 + \frac{1}{2}mv_{zf}^2) - (\frac{1}{2}mv_{xo}^2 + \frac{1}{2}mv_{yo}^2 + \frac{1}{2}mv_{zo}^2) \\
-            &amp;= \frac{1}{2}mv_{f}^2 - \frac{1}{2}mv_{o}^2
-            \end{aligned}\]</span></p>
-            <h1 id="calculus-is-scary">Calculus is scary</h1>
         </div>
 
         <script>

@@ -22,3 +22,5 @@ title: Semester 2 flo 1
 ### suppose $V$ is finite-dimensional, $U$ is a supspace of $V$, and $S \in \mathcal L(U, V)$. Prove there exists an invertible operator $T \in \mathcal L(V)$ s.t. $Tu = Su$ for every $u \in U$ iff $S$ is injective
 
 ### maybe $S$ needs to be an operator on $\mathcal L(U)$?
+
+![[IMG_1417.jpg]]
