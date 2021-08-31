@@ -146,7 +146,7 @@
 
 
 \newcommand{\thecourse}{ CS240 }
-\newcommand{\thelesson}{ CS240 Master Index }
+\newcommand{\thelesson}{ Code of Conduct }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17618)}}    % original
-%\rhead{\textrmlf{Compiled }\#17618\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17625)}}    % original
+%\rhead{\textrmlf{Compiled }\#17625\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,37 +210,20 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{cs240-master-index}{%
-\section{CS240 master index}\label{cs240-master-index}}
+\#ret
 
-\hypertarget{day-1}{%
-\subsection{Day 1}\label{day-1}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhCS240Day1{]}{]}
-\item
-  {[}{[}KBxDayOneCompSec{]}{]}
-\item
-  {[}{[}KBxLegalityInCompSec{]}{]}
-\item
-  {[}{[}KBhCS240EthicsQuestions{]}{]}
-\end{itemize}
-
-\hypertarget{personal-ethics}{%
-\subsection{Personal Ethics}\label{personal-ethics}}
+I'm not a believer in deontological ethics, so my code of conduct is as
+follows:
 
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBhCS240PersonalEthics{]}{]}
+  Try to minimize pain in the world
 \item
-  {[}{[}KBhCS240Rubric{]}{]}
-\item
-  {[}{[}KBxCS240Rubric{]}{]}
-\item
-  {[}{[}KBxCS240CodeofConduct{]}{]}
+  Don't act selfishly or be blinded by financial incentives and
+  therefore not follow the initial rule.
 \end{itemize}
 
 \end{document}

@@ -11,6 +11,10 @@ course: PHYS360
 **Day 1**
 
 - [[KBhPHYS360Day1]]
+- HW
+	- Dylan: [[KBdPHYS360Day1HW]]
+
+**Day 2**
 
 
 ## The Projectile Motion Chapter

@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17264)}}    % original
-%\rhead{\textrmlf{Compiled }\#17264\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17632)}}    % original
+%\rhead{\textrmlf{Compiled }\#17632\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -241,6 +241,8 @@ f(x) &= 7 + x^2 + 6x^3 + 3\sqrt[4]{x} + \frac{1}{x} - \ln{x} + 5^x \\
 Sketch the function \(f(x) = 2x^5 - 10x^4 - 70x^3\), and label
 \((x, y)\) of intercepts, maxima, and minima.
 
+{[}{[}KBdMATH520Day1HWProblem2.jpg{]}{]}
+
 \hypertarget{problem-5}{%
 \section{Problem 5}\label{problem-5}}
 
@@ -282,5 +284,8 @@ f(x) &= 2x^5 - 10x^4 - 70x^3 \\
 &= -\frac{23775}{7} \\
 \end{aligned}
 \]
+
+\hypertarget{problem-7}{%
+\section{Problem 7}\label{problem-7}}
 
 \end{document}

@@ -26,6 +26,8 @@ $$
 # Problem 2
 Sketch the function $f(x) = 2x^5 - 10x^4 - 70x^3$, and label $(x, y)$ of intercepts, maxima, and minima.
 
+![[KBdMATH520Day1HWProblem2.jpg]]
+
 # Problem 5
 Find antiderivatives
 
@@ -58,3 +60,6 @@ f(x) &= 2x^5 - 10x^4 - 70x^3 \\
 &= -\frac{23775}{7} \\
 \end{aligned}
 $$
+
+
+# Problem 7
