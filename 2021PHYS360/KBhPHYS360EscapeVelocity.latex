@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17823)}}    % original
-%\rhead{\textrmlf{Compiled }\#17823\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17832)}}    % original
+%\rhead{\textrmlf{Compiled }\#17832\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -230,8 +230,16 @@ Often, this is written as\ldots{}
 this and multiplying it to \(\vec{r}\) is to resolve the need to rid if
 the direction.
 
-\hypertarget{calculating-the-escape-velocity}{%
-\section{Calculating the Escape
-Velocity}\label{calculating-the-escape-velocity}}
+\hypertarget{potential-energy}{%
+\section{Potential Energy}\label{potential-energy}}
+
+\textbf{Whenever we talk about ``energy'', we are really talking about
+the CHANGE in energy.}
+
+Potential Energy Location:
+
+\begin{verbatim}
+* ... ... ... \infty
+\end{verbatim}
 
 \end{document}

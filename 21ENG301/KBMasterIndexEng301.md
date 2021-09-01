@@ -4,20 +4,20 @@ course: ENG301
 source: #index
 ---
 
-# American lit!
+It's time for... American lit!
 
-## Day one stuff
+# Day one stuff
 - [[KBxDayOneEng301]]
 - [[KBxThereTherePromptsAndQuestions]]
 - [[KBxQuickWrite]]
 
-## There There Discussion
+# There There
+
+## Discussion
 - [[KBhENG301ThereThereDiscussion]] 
 
 ## Rowlandson 
 - [[KBxRowlandson]]
 
-
-
-
-
+## Essay
+- [[KBhThereThereEssayPrep]] 

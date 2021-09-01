@@ -17,13 +17,18 @@ Defined by $$\begin{aligned}
 
 ## features
 
-### approaches a parabola-like shape in the +y
+### approaches a parabola-like shape above the y-axis
 
-### approaches a parabola-like shape in the -y if $c > 0$
+### approaches a parabola-like shape below the x-axis if $c > 0$
 
 ### has a cross-over in a triangle shape
 
 1.  gets bigger when $c$ gets bigger
+
+### it looks like a dorito that scales with the value of $c$
+
+1.  as $c$ approaches zero from the positive direction, the swollowtail
+    gets smaller
 
 # Lissajous Figures
 

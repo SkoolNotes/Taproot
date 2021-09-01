@@ -1,0 +1,8 @@
+---
+title: Business Model Canvases
+---
+
+-   what sectors are interesting
+-   is layout important or can I do it as a text document
+
+# 

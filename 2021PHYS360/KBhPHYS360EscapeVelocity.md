@@ -16,8 +16,13 @@ Often, this is written as...
 
 $\vec{F_g} = \frac{-G M_1 M_2}{r^3} \vec{r}$. It is $r^2$, but doing this and multiplying it to $\vec{r}$ is to resolve the need to rid if the direction.
 
-# Calculating the Escape Velocity
 
+# Potential Energy
+**Whenever we talk about "energy", we are really talking about the CHANGE in energy.**
 
+Potential Energy Location:
+```
+* ... ... ... \infty
+```
 
 

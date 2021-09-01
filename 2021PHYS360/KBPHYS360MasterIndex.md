@@ -20,3 +20,5 @@ course: PHYS360
 ## The Projectile Motion Chapter
 First, on energy: [[KBhPHYS360Energy]]
 
+- [[KBhPHYS360EscapeVelocity]] 
+- [[KBhPHYS360CenterOfMass]] 

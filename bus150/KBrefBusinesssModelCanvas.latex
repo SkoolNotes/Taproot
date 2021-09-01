@@ -146,7 +146,7 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ Assignment 2: parameterization continued }
+\newcommand{\thelesson}{ Business Model Canvases }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17848)}}    % original
-%\rhead{\textrmlf{Compiled }\#17848\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17845)}}    % original
+%\rhead{\textrmlf{Compiled }\#17845\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Albert H \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,75 +210,15 @@
 
 % DID YOU SET SPELL????
 
-\href{https://www.desmos.com/calculator/hhb49omfkj}{Desmos graphs}
-
-\setcounter{section}{7}
-
-\hypertarget{swallowtail-catastrophe-curves}{%
-\section{swallowtail catastrophe
-curves}\label{swallowtail-catastrophe-curves}}
-
-Defined by \[\begin{aligned}
-  x &= 2ct - 4t^3\\
-  y &= -ct^2 + 3 t^4
-  \end{aligned}\]
-
-\hypertarget{features}{%
-\subsection{features}\label{features}}
-
-\hypertarget{approaches-a-parabola-like-shape-above-the-y-axis}{%
-\subsubsection{approaches a parabola-like shape above the
-y-axis}\label{approaches-a-parabola-like-shape-above-the-y-axis}}
-
-\hypertarget{approaches-a-parabola-like-shape-below-the-x-axis-if-c-0}{%
-\subsubsection{\texorpdfstring{approaches a parabola-like shape below
-the x-axis if
-\(c > 0\)}{approaches a parabola-like shape below the x-axis if c \textgreater{} 0}}\label{approaches-a-parabola-like-shape-below-the-x-axis-if-c-0}}
-
-\hypertarget{has-a-cross-over-in-a-triangle-shape}{%
-\subsubsection{has a cross-over in a triangle
-shape}\label{has-a-cross-over-in-a-triangle-shape}}
-
-\begin{enumerate}
+\begin{itemize}
+\tightlist
 \item
-  gets bigger when \(c\) gets bigger
-\end{enumerate}
-
-\hypertarget{it-looks-like-a-dorito-that-scales-with-the-value-of-c}{%
-\subsubsection{\texorpdfstring{it looks like a dorito that scales with
-the value of
-\(c\)}{it looks like a dorito that scales with the value of c}}\label{it-looks-like-a-dorito-that-scales-with-the-value-of-c}}
-
-\begin{enumerate}
+  what sectors are interesting
 \item
-  as \(c\) approaches zero from the positive direction, the swollowtail
-  gets smaller
-\end{enumerate}
+  is layout important or can I do it as a text document
+\end{itemize}
 
-\hypertarget{lissajous-figures}{%
-\section{Lissajous Figures}\label{lissajous-figures}}
-
-Defined by \[\begin{aligned}
-  x &= a \sin (nt)\\
-  y &= b \cos  t
-  \end{aligned}\]
-
-\hypertarget{features-1}{%
-\subsection{features}\label{features-1}}
-
-\hypertarget{spring-like-coil-shape-almost-like-standing-waves-with-tighter-loops-at-the-ends}{%
-\subsubsection{spring-like coil shape (almost like standing waves) with
-tighter "loops" at the
-ends}\label{spring-like-coil-shape-almost-like-standing-waves-with-tighter-loops-at-the-ends}}
-
-\hypertarget{a-b-control-the-size-of-the-coil-default--1-le-x-y-le-1-because-of-range-of-sin-cos}{%
-\subsubsection{\texorpdfstring{\(a, b\) control the size of the coil
-(default \(-1 \le x, y \le 1\) because of range of
-\(\sin, \cos\)}{a, b control the size of the coil (default -1 \textbackslash le x, y \textbackslash le 1 because of range of \textbackslash sin, \textbackslash cos}}\label{a-b-control-the-size-of-the-coil-default--1-le-x-y-le-1-because-of-range-of-sin-cos}}
-
-\hypertarget{number-of-y-intercepts-is-n1-except-in-the-degenerate-cases-n-le-0}{%
-\subsubsection{\texorpdfstring{number of y-intercepts is \(n+1\) except
-in the degenerate cases
-\(n \le 0\)}{number of y-intercepts is n+1 except in the degenerate cases n \textbackslash le 0}}\label{number-of-y-intercepts-is-n1-except-in-the-degenerate-cases-n-le-0}}
+\hypertarget{section}{%
+\section{}\label{section}}
 
 \end{document}
