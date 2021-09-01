@@ -5,4 +5,7 @@ source: #index
 ---
 
 # Master Index
-- **Vocabulary**: 
+- **Vocabulary**: [[KBdCHIN401Vocabulary]]
+
+## Day 3
+[[]]
