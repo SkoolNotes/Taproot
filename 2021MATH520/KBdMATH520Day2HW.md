@@ -66,6 +66,28 @@ $$
 ### $(b)$
 $$
 \begin{aligned}
-A &= \int_{-2}^{-1} 
+A &= \int_{-1}^{-2} f(x) \,dx \\
+&= \int_{-1}^{-2} 2x^5 - 10x^4 - 70x^3 \,dx \\
+&= [\frac{1}{3}x^6 - 2x^5 - \frac{35}{2}x^4]_{-1}^{-2} \\
+&= \frac{359}{2} \\
+\end{aligned}
+$$
+
+### $(c)$
+The area would be infinite, as after $x=9$, the function is constantly increasing and not approaching a number.
+
+# Arc Length
+## #1
+$$
+\begin{aligned}
+A &= \int_{0}^{2} dr \\
+&= \int_{0}^{2} \sqrt{f'(x)^2 + 1} \,dx \\
+&= \int_{0}^{2} \sqrt{(\frac{3}{2}x^{\frac{1}{2}})^2 + 1} \,dx \\
+&= \int_{0}^{2} \sqrt{\frac{9}{4}x + 1} \,dx \\
+&= \frac{8}{27}\cdot \int_{0}^{2} \frac{27}{8}\sqrt{\frac{9}{4}x + 1} \,dx \\
+&= \frac{8}{27}\cdot \int_{0}^{2} \frac{3}{2}\cdot \frac{9}{4}\sqrt{\frac{9}{4}x + 1} \,dx \\
+&= \frac{8}{27} [(\frac{9}{4}x + 1)^{\frac{3}{2}}]_{0}^{2} \\
+&= \frac{8}{27} ((\frac{11}{2})^{\frac{3}{2}} - 1) \\
+&= \frac{8}{27} (\sqrt{\frac{1331}{8}} - 1) \\
 \end{aligned}
 $$
