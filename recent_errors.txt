@@ -1,2 +1,1 @@
-        Log for attempt at Wed Sep  1 09:42:19 AM PDT 2021 (17792)
-        Wed Sep  1 09:42:19 AM PDT 2021 Converting 21hist301/KBhHIST301IndianPersp.md...
+        Log for attempt at Wed Sep  1 12:50:47 PM PDT 2021 (17824)

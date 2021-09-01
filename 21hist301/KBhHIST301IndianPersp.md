@@ -41,3 +41,14 @@ Tries to trace the interactions of indigenous populations and Europeans in the e
 Buffalo population greatly increased as the native population decreased, becasue they were less hunted. Urban centers collapsed before Europeans got there. It is almost certain due to the large population size prior to the arrival of the Europeans.
 
 Pandemics are hard to trace. Europeans resistance to disease were heightened by the fact that it created more people.
+
+# Intersection
+- All authors attempted to treat Native perspectives
+- Point of history is to objectify the point of history: what happened and why
+
+That there is **pros** && **cons**. Natives are gaining more technology; something that the Europeans brought up either simplified their life... or enriched their quality of life.
+
+But! *But!* Clay says. They are overshadowed by the cons.
+
+96%, ultimately, died from disease.
+
