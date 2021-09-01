@@ -3,9 +3,12 @@
 
 \setlength\parindent{0pt}
 
+\usepackage[T1]{fontenc} % https://latex.org/forum/viewtopic.php?t=5540
+
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{amsfonts}
+\usepackage{gensymb}
 
 \usepackage[normalem]{ulem}
 
@@ -13,13 +16,16 @@
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
+\usepackage{setspace}
 
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
+\usepackage{xcolor}
 
 \usepackage{lastpage}
 
+\usepackage{physics}
 \usepackage{siunitx}
 \sisetup{per-mode=symbol}
 
@@ -80,22 +86,36 @@
 }
 
 \usepackage{mathspec}
+%\setmainfont{Open Sans}
+%\setmainfont[
+%  ItalicFont      = NimbusSansNarrow,
+%  BoldFont        = NimbusSansBold,
+%  BoldItalicFont  = NimbusSans-BoldItalic]{NimbusSans}
+%\setmainfont[
+%  ItalicFont     = HelveticaItalic,
+%  BoldFont       = Helvetica-Bold,
+%  BoldItalicFont = Helvetica-BoldItalic]{Helvetica}
 \setmainfont[
-  ItalicFont     = HelveticaNeue-Italic,
-  BoldFont       = HelveticaNeue-Bold,
-  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+  ItalicFont     = OpenSans-Italic,
+  BoldFont       = OpenSans-Bold,
+  BoldItalicFont = OpenSans-BoldItalic]{OpenSans-Regular}
+%\setmainfont[
+%  ItalicFont     = HelveticaNeue-Italic,
+%  BoldFont       = HelveticaNeue-Bold,
+%  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight{Open Sans Condensed}
+%\newfontfamily\NHLight[
+%  ItalicFont     = Helvetica-LightItalic,
+%  BoldFont       = Helvetica-UltraLight,
+%  BoldItalicFont = Helvetica-UltraLightItalic]{Helvetica}
+%\newfontfamily\NHLight[
+%  ItalicFont     = HelveticaNeue-LightItalic,
+%  BoldFont       = HelveticaNeue-UltraLight,
+%  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
 \newfontfamily\NHLight[
-  ItalicFont     = HelveticaNeue-LightItalic,
-  BoldFont       = HelveticaNeue-UltraLight,
-  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
-% \setmainfont[
-%    ItalicFont     = Iosevka-Aile-Italic,
-%    BoldFont       = Iosevka-Aile-Bold,
-%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
-% \newfontfamily\NHLight[
-%    ItalicFont     = Iosevka-Aile-Light-Italic,
-%    BoldFont       = Iosevka-Aile-Light,
-%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+  ItalicFont     = OpenSans-LightItalic,
+  BoldFont       = OpenSans-Regular,
+  BoldItalicFont = OpenSans-Italic]{OpenSans-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -139,14 +159,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9948)}}    % original
-%\rhead{\textrmlf{Compiled }\#9948\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17688)}}    % original
+%\rhead{\textrmlf{Compiled }\#17688\textrmlf{ on} \today }      % old date
 \rhead{
-    \textrmlf{Compiled }
-  \#9948
-  \textrmlf{ on}
-      \today
-  }       % new date
+    \today
+    }       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
@@ -187,6 +204,7 @@
 \DeclareMathOperator{\orange}{\text{range}}
 \DeclareMathOperator{\ospan}{\text{span}}
 \DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
 
 \begin{document}
 
@@ -360,7 +378,11 @@ interaction.
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.50}}@{}}
 \toprule
-Particle & Wat \\
+\begin{minipage}[b]{\linewidth}\raggedright
+Particle
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Wat
+\end{minipage} \\
 \midrule
 \endhead
 Leptons & Fundimental one-half spin particles, experience strong

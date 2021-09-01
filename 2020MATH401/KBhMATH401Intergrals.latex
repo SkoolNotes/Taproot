@@ -5,7 +5,6 @@
 
 \usepackage{amsmath}
 \usepackage{amssymb}
-\usepackage{amsfonts}
 
 \usepackage[normalem]{ulem}
 
@@ -17,11 +16,6 @@
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
-
-\usepackage{lastpage}
-
-\usepackage{siunitx}
-\sisetup{per-mode=symbol}
 
 \usepackage{enumitem}
 \setlistdepth{9}
@@ -37,9 +31,6 @@
 \setlist[itemize,9]{label=\textbullet}
 
 \renewlist{itemize}{itemize}{9}
-
-\usepackage{mathdots}
-\usepackage{tikz}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -139,16 +130,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}10039)}}    % original
-%\rhead{\textrmlf{Compiled }\#10039\textrmlf{ on} \today }      % old date
-\rhead{
-    \textrmlf{Compiled }
-  \#10039
-  \textrmlf{ on}
-      \today
-  }       % new date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8387)}}    % original
+%\rhead{\textrmlf{Compiled }\#8387\textrmlf{ on} \today }      % old date
+\rhead{\textrmlf{Compiled }\#8387\textrmlf{ on} \today}       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
-\rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
+\rfoot{\textrmlf{Page} \thepage}
 
 
 \titleformat{\section}
@@ -183,15 +169,10 @@
     \end{center}
 }
 
-% exr0n linear algebra mathops
-\DeclareMathOperator{\orange}{\text{range}}
-\DeclareMathOperator{\ospan}{\text{span}}
-\DeclareMathOperator{\onull}{\text{null}}
-
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace
+\textbf{Source}:\thinspace 
 {\href{http://taproot.shabang.cf/relay?request=KBhMATH401SubIndex}{\tiny\textulf{[[}\textbf{KBhMATH401SubIndex}\textulf{]]}}}\thinspace
 
 \hypertarget{intergration}{%
@@ -201,26 +182,27 @@ Antiderivatives table
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
-Function & Antidervative \\
+Function & Antidervative \\ \addlinespace
 \midrule
 \endhead
-\(x^n\) & \(\frac{x^{n+1}}{n+1}+c, x\neq-1\) \\
-\(af(x)\) & \(a*(f(x)dx)\) \\
-\(\frac{1}{x}\) & \(\ln(\|x\|)\) \\
-\(sin(at)\) & \(-\frac{cos(t)}{a}\) \\
-\(cos(at)\) & \(\frac{sin(t)}{a}\) \\
-\(e^a\) & \(e^a\) \\
-\(a^x\) & \(\frac{a^x}{\ln{a}}\) \\
-\(\frac{1}{1+(ax)^2}\) & \(tan^-1(ax)\) \\
-\(\frac{a}{\sqrt{k^2-(ax)^2}}\) & \(sin^-1(\frac{ax}{k})\) \\
-\(\frac{-1}{\sqrt{k^2-(ax)^2}}\) & \(cos^-1(\frac{ax}{k})\) \\
-\(ln(x)\) & \(xln(x)-x\) \textless= remember this \\
-\(\int f(x)g'(x) dx\) & \(f(x)g(x)-\int f'(x)g(x) dx\) \\
-Arc Length of function \(f(x)\) & \(\sqrt{1+f'(x)^2} dx\) \\
+\(x^n\) & \(\frac{x^{n+1}}{n+1}+c, x\neq-1\) \\ \addlinespace
+\(af(x)\) & \(a*(f(x)dx)\) \\ \addlinespace
+\(\frac{1}{x}\) & \(\ln(\|x\|)\) \\ \addlinespace
+\(sin(at)\) & \(-\frac{cos(t)}{a}\) \\ \addlinespace
+\(cos(at)\) & \(\frac{sin(t)}{a}\) \\ \addlinespace
+\(e^a\) & \(e^a\) \\ \addlinespace
+\(\frac{1}{1+(ax)^2}\) & \(tan^-1(ax)\) \\ \addlinespace
+\(\frac{a}{\sqrt{k^2-(ax)^2}}\) &
+\(sin^-1(\frac{ax}{k})\) \\ \addlinespace
+\(\frac{-1}{\sqrt{k^2-(ax)^2}}\) &
+\(cos^-1(\frac{ax}{k})\) \\ \addlinespace
+\(ln(x)\) & \(xln(x)-x\) \\ \addlinespace
+\(\int f(x)g'(x) dx\) & \(f(x)g(x)-\int f'(x)g(x) dx\) \\ \addlinespace
+Arc Length of function \(f(x)\) &
+\(\sqrt{1+f'(x)^2} dx\) \\ \addlinespace
 Arc length of polar function \(x(t), y(t)\) &
-\(\sqrt{x'(t)^2 + y'(t)^2}(dt)\) \\
-\(r(\theta)\) & \(\int_a^B (r(\theta)^2)d\theta\) \\
-\(sec^2(x)\) & \(tan(x)\) \\
+\(\sqrt{x'(t)^2 + y'(t)^2}(dt)\) \\ \addlinespace
+\(r(\theta)\) & \(\int_a^B (r(\theta)^2)d\theta\) \\ \addlinespace
 \bottomrule
 \end{longtable}
 
@@ -228,24 +210,15 @@ Also, fun other things
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
-Function & Other Function \\
+Function & Other Function \\ \addlinespace
 \midrule
 \endhead
-\(\cos{2\theta}\) & \(1-2sin^2\theta\) \\
-\(\cos{2\theta}\) & \(2cos^2\theta-1\) \\
-\(sec^2x-1\) & \(tan^2x\) \\
+\(sin^2\theta\) & \(\frac{1}{2}(1-cos2\theta)\) \\ \addlinespace
 \bottomrule
 \end{longtable}
 
-\hypertarget{some-limits-too}{%
-\subsection{Some Limits Too!}\label{some-limits-too}}
-
-\(\lim_{\theta \to \infty} tan^{-1} (\theta) = \frac{\pi}{2}\)
-
 With the reverse product rule, try to make f(x) the simpler derivative,
 and g(x) the simpler antiderivative
-
-{[}{[}Pasted image 20210328150621.png{]}{]}
 
 \hypertarget{useful-thing}{%
 \subsection{Useful thing}\label{useful-thing}}

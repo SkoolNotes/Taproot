@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ HIST201 }
-\newcommand{\thelesson}{ WWII }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Assignment 2: parameterization continued }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17686)}}    % original
-%\rhead{\textrmlf{Compiled }\#17686\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17681)}}    % original
+%\rhead{\textrmlf{Compiled }\#17681\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Albert H \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,58 +209,65 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBHistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHistoryMasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{wwii}{%
-\section{WWII}\label{wwii}}
+\href{https://www.desmos.com/calculator/hhb49omfkj}{Desmos graphs}
 
-European nations had a real antipathy to war --- so nations tried to
-avoid to get into dragged into another war.
+\setcounter{section}{7}
 
-\begin{itemize}
-\tightlist
+\hypertarget{swallowtail-catastrophe-curves}{%
+\section{swallowtail catastrophe
+curves}\label{swallowtail-catastrophe-curves}}
+
+Defined by \[\begin{aligned}
+  x &= 2ct - 4t^3\\
+  y &= -ct^2 + 3 t^4
+  \end{aligned}\]
+
+\hypertarget{features}{%
+\subsection{features}\label{features}}
+
+\hypertarget{approaches-a-parabola-like-shape-in-the-y}{%
+\subsubsection{approaches a parabola-like shape in the
++y}\label{approaches-a-parabola-like-shape-in-the-y}}
+
+\hypertarget{approaches-a-parabola-like-shape-in-the--y-if-c-0}{%
+\subsubsection{\texorpdfstring{approaches a parabola-like shape in the
+-y if
+\(c > 0\)}{approaches a parabola-like shape in the -y if c \textgreater{} 0}}\label{approaches-a-parabola-like-shape-in-the--y-if-c-0}}
+
+\hypertarget{has-a-cross-over-in-a-triangle-shape}{%
+\subsubsection{has a cross-over in a triangle
+shape}\label{has-a-cross-over-in-a-triangle-shape}}
+
+\begin{enumerate}
 \item
-  Germany did not really want war
-\item
-  Europe did not really like the treaty of versallis
-\item
-  Hitler's diplomatic strategy was also based on appeasement
-\end{itemize}
+  gets bigger when \(c\) gets bigger
+\end{enumerate}
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{lissajous-figures}{%
+\section{Lissajous Figures}\label{lissajous-figures}}
 
-\hypertarget{holocoust-id-cards}{%
-\subsection{Holocoust ID Cards}\label{holocoust-id-cards}}
+Defined by \[\begin{aligned}
+  x &= a \sin (nt)\\
+  y &= b \cos  t
+  \end{aligned}\]
 
-``Some Catholic friends helped her family obtain
-\href{https://encyclopedia.ushmm.org/narrative/7723/en}{false papers}
-and rented them a house in a nearby village.''
+\hypertarget{features-1}{%
+\subsection{features}\label{features-1}}
 
-\begin{itemize}
-\tightlist
-\item
-  Identity documents and identity forgery is a common part of the
-  process of hiding
-\end{itemize}
+\hypertarget{spring-like-coil-shape-almost-like-standing-waves-with-tighter-loops-at-the-ends}{%
+\subsubsection{spring-like coil shape (almost like standing waves) with
+tighter "loops" at the
+ends}\label{spring-like-coil-shape-almost-like-standing-waves-with-tighter-loops-at-the-ends}}
 
-\hypertarget{medical-involvement}{%
-\subsection{Medical involvement}\label{medical-involvement}}
+\hypertarget{a-b-control-the-size-of-the-coil-default--1-le-x-y-le-1-because-of-range-of-sin-cos}{%
+\subsubsection{\texorpdfstring{\(a, b\) control the size of the coil
+(default \(-1 \le x, y \le 1\) because of range of
+\(\sin, \cos\)}{a, b control the size of the coil (default -1 \textbackslash le x, y \textbackslash le 1 because of range of \textbackslash sin, \textbackslash cos}}\label{a-b-control-the-size-of-the-coil-default--1-le-x-y-le-1-because-of-range-of-sin-cos}}
 
-Medicatically trained scientists --- psycologists, genetisists, and
-antropologists --- supported and implemented the biological basis for
-the Nazi reasoning of genocide and eugenics.
-
-Because Natism advocated for eugetnics and supported their research,
-they were happy to welcome them.
-
-Scientists dreamed to create the pefect society by controlling the
-gentic makeup of the population.
-
-American Eugenicists even supported the earlier efforts of eugenics:
-that the German state had the ``bold'' step to commit eugetics to rid of
-the ill was actualyl praised.
-
-Catholic oppositions blocked sterializations proposed in Great Britian
+\hypertarget{number-of-y-intercepts-is-n1-except-in-the-degenerate-cases-n-le-0}{%
+\subsubsection{\texorpdfstring{number of y-intercepts is \(n+1\) except
+in the degenerate cases
+\(n \le 0\)}{number of y-intercepts is n+1 except in the degenerate cases n \textbackslash le 0}}\label{number-of-y-intercepts-is-n1-except-in-the-degenerate-cases-n-le-0}}
 
 \end{document}

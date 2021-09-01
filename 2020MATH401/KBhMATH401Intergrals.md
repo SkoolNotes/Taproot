@@ -16,7 +16,6 @@ Antiderivatives table
 | $sin(at)$                                 | $-\frac{cos(t)}{a}$              |
 | $cos(at)$                                 | $\frac{sin(t)}{a}$               |
 | $e^a$                                     | $e^a$                            |
-| $a^x$                                     | $\frac{a^x}{\ln{a}}$                            |
 | $\frac{1}{1+(ax)^2}$                      | $tan^-1(ax)$                     |
 | $\frac{a}{\sqrt{k^2-(ax)^2}}$             | $sin^-1(\frac{ax}{k})$           |
 | $\frac{-1}{\sqrt{k^2-(ax)^2}}$            | $cos^-1(\frac{ax}{k})$           |

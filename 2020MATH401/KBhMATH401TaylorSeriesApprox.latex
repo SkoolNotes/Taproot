@@ -5,7 +5,6 @@
 
 \usepackage{amsmath}
 \usepackage{amssymb}
-\usepackage{amsfonts}
 
 \usepackage[normalem]{ulem}
 
@@ -19,9 +18,6 @@
 \usepackage[dvipsnames]{xcolor}
 
 \usepackage{lastpage}
-
-\usepackage{siunitx}
-\sisetup{per-mode=symbol}
 
 \usepackage{enumitem}
 \setlistdepth{9}
@@ -37,9 +33,6 @@
 \setlist[itemize,9]{label=\textbullet}
 
 \renewlist{itemize}{itemize}{9}
-
-\usepackage{mathdots}
-\usepackage{tikz}
 
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -139,11 +132,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9948)}}    % original
-%\rhead{\textrmlf{Compiled }\#9948\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}8796)}}    % original
+%\rhead{\textrmlf{Compiled }\#8796\textrmlf{ on} \today }      % old date
 \rhead{
     \textrmlf{Compiled }
-  \#9948
+  \#8796
   \textrmlf{ on}
       \today
   }       % new date
@@ -182,11 +175,6 @@
             {\\ \textrmlf{#1}}
     \end{center}
 }
-
-% exr0n linear algebra mathops
-\DeclareMathOperator{\orange}{\text{range}}
-\DeclareMathOperator{\ospan}{\text{span}}
-\DeclareMathOperator{\onull}{\text{null}}
 
 \begin{document}
 

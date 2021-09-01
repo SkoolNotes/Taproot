@@ -3,9 +3,12 @@
 
 \setlength\parindent{0pt}
 
+\usepackage[T1]{fontenc} % https://latex.org/forum/viewtopic.php?t=5540
+
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{amsfonts}
+\usepackage{gensymb}
 
 \usepackage[normalem]{ulem}
 
@@ -13,13 +16,16 @@
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
+\usepackage{setspace}
 
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
+\usepackage{xcolor}
 
 \usepackage{lastpage}
 
+\usepackage{physics}
 \usepackage{siunitx}
 \sisetup{per-mode=symbol}
 
@@ -80,22 +86,36 @@
 }
 
 \usepackage{mathspec}
+%\setmainfont{Open Sans}
+%\setmainfont[
+%  ItalicFont      = NimbusSansNarrow,
+%  BoldFont        = NimbusSansBold,
+%  BoldItalicFont  = NimbusSans-BoldItalic]{NimbusSans}
+%\setmainfont[
+%  ItalicFont     = HelveticaItalic,
+%  BoldFont       = Helvetica-Bold,
+%  BoldItalicFont = Helvetica-BoldItalic]{Helvetica}
 \setmainfont[
-  ItalicFont     = HelveticaNeue-Italic,
-  BoldFont       = HelveticaNeue-Bold,
-  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+  ItalicFont     = OpenSans-Italic,
+  BoldFont       = OpenSans-Bold,
+  BoldItalicFont = OpenSans-BoldItalic]{OpenSans-Regular}
+%\setmainfont[
+%  ItalicFont     = HelveticaNeue-Italic,
+%  BoldFont       = HelveticaNeue-Bold,
+%  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight{Open Sans Condensed}
+%\newfontfamily\NHLight[
+%  ItalicFont     = Helvetica-LightItalic,
+%  BoldFont       = Helvetica-UltraLight,
+%  BoldItalicFont = Helvetica-UltraLightItalic]{Helvetica}
+%\newfontfamily\NHLight[
+%  ItalicFont     = HelveticaNeue-LightItalic,
+%  BoldFont       = HelveticaNeue-UltraLight,
+%  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
 \newfontfamily\NHLight[
-  ItalicFont     = HelveticaNeue-LightItalic,
-  BoldFont       = HelveticaNeue-UltraLight,
-  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
-% \setmainfont[
-%    ItalicFont     = Iosevka-Aile-Italic,
-%    BoldFont       = Iosevka-Aile-Bold,
-%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
-% \newfontfamily\NHLight[
-%    ItalicFont     = Iosevka-Aile-Light-Italic,
-%    BoldFont       = Iosevka-Aile-Light,
-%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+  ItalicFont     = OpenSans-LightItalic,
+  BoldFont       = OpenSans-Regular,
+  BoldItalicFont = OpenSans-Italic]{OpenSans-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -139,14 +159,11 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9948)}}    % original
-%\rhead{\textrmlf{Compiled }\#9948\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17686)}}    % original
+%\rhead{\textrmlf{Compiled }\#17686\textrmlf{ on} \today }      % old date
 \rhead{
-    \textrmlf{Compiled }
-  \#9948
-  \textrmlf{ on}
-      \today
-  }       % new date
+    \today
+    }       % new date
 \lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
@@ -187,6 +204,7 @@
 \DeclareMathOperator{\orange}{\text{range}}
 \DeclareMathOperator{\ospan}{\text{span}}
 \DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
 
 \begin{document}
 
@@ -280,7 +298,7 @@ your region?
   the old nationalist aim ofrestoring China to its former glory and
   greatness in international relations; it also conveyed the aspiration
   ofthe Communist leaders to obtain recognition from non-Communist
-  states, based on the ``principles of equality''" AD
+  states, based on the ``principles of equality'''' AD
 \item
   ``The PRC explicitly warned the Soviet Union against assuming legal
   ``responsibilities in lieu of China. Even now, decades after the
@@ -317,7 +335,7 @@ your region?
   ``The French ambassador had the strong impression that the PRC wanted
   to give the mutual relationship a ``new importance.'' The Chinese had
   extended a hand, and they believed it was now up to the French to
-  accept it." AI
+  accept it.'' AI
 \item
   ``{[}Mao's{]} statement signified a departure from his earlier
   thinking on intermediate zones, which envisioned a Europe divided in
@@ -411,7 +429,7 @@ your region?
   ``The situation in Indochina had deteriorated further; the relations
   ofGreat Britain and the United States---France's two competitors for
   global influence---with the Southeast Asian countries had worsened in
-  parallel.''" AU
+  parallel.'''' AU
 \item
   ``De Gaulle parted from Faure with the comment that he would go
   through with French recognition of the PRC if his conversations in
@@ -419,7 +437,7 @@ your region?
   Johnson did not go well.'' AV
 \item
   ``DeGaulle instructed deBeaumarchais \ldots{} only''to define a
-  procedure: \emph{the simpler the better}"" AW
+  procedure: \emph{the simpler the better}''\,'' AW
 \item
   ``Zhou proposed a fourth procedure in case France was not able to
   agree to the One-China prin ciple. In that case, Li should state the
@@ -446,10 +464,10 @@ your region?
     ``He stated that China was the world's largest country, that it was
     no longer under the control ofthe Soviet Union, that its Communist
     government was a fact of life, and that all ``political realities''
-    of Asia" L4A
+    of Asia'' L4A
   \item
     ``Thus, he continued, it would be absolutely ``impossible'' to
-    envision a solution to the problems ofEast Asia without China" L4B
+    envision a solution to the problems ofEast Asia without China'' L4B
   \item
     ``de Gaulle also stressed that recognition of the PRC entailed
     approval of neither its institutions nor its policies'' L4C
@@ -577,7 +595,7 @@ representation.
 \item
   AI the french ambassidor had the impression that ``The Chinese had
   extended a hand, and they believed it was now up to the French to
-  accept it.''"
+  accept it.''''
 \item
   L1B cuban missle crisis showed that american/russia did not want to
   make world go kaboom, so medium states feel better to persue
@@ -879,7 +897,7 @@ mentality as a tool to persue a realist sense of partnership
   October.''
 \item
   ``explaining that the French government considered the time ``ripe''
-  to recognize the Chinese government."
+  to recognize the Chinese government.''
 \item
   ``The goal of Zhou's seven-week tour to ten Middle Eastern and African
   countries \ldots{} was to improve bilateral contacts but also,
@@ -888,7 +906,7 @@ mentality as a tool to persue a realist sense of partnership
 \item
   ``During the meal on 20 August, Faure asked point-blank for an
   invitation to visit China in October for the purpose ofmeeting Chinese
-  leaders and ``visiting peoples communes.''"
+  leaders and ``visiting peoples communes.''''
 \item
   ``France had not been against recognition in principle, but de
   Gaulle's decision to reach out to the PRC happened against the
@@ -909,7 +927,7 @@ mentality as a tool to persue a realist sense of partnership
 \item
   ``The report thus suggested using the ``Cuban method'' of making a
   public agreement on recognition in principle, accompanied by a secret
-  agreement regarding the nature of diplomatic relations."
+  agreement regarding the nature of diplomatic relations.''
 \item
   ``Faure replied that the circumstances seemed to have changed in
   recent times in favor ofrecognition: the Algeria problem had been
@@ -922,7 +940,7 @@ mentality as a tool to persue a realist sense of partnership
   the Chinese leaders believed that only three non-Communist powers in
   the world \ldots{} had some sympathy for the PRC \ldots{} although the
   Chinese leaders were convinced that only France had ``escaped the
-  American feudalization.''"
+  American feudalization.''''
 \end{itemize}
 
 \hypertarget{the-dump}{%

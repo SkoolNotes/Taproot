@@ -3,9 +3,12 @@
 
 \setlength\parindent{0pt}
 
+\usepackage[T1]{fontenc} % https://latex.org/forum/viewtopic.php?t=5540
+
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{amsfonts}
+\usepackage{gensymb}
 
 \usepackage[normalem]{ulem}
 
@@ -13,13 +16,16 @@
 
 \usepackage{ifthen}
 \usepackage{trimspaces}
+\usepackage{setspace}
 
 \usepackage{graphicx}
 \usepackage{xesearch}
 \usepackage[dvipsnames]{xcolor}
+\usepackage{xcolor}
 
 \usepackage{lastpage}
 
+\usepackage{physics}
 \usepackage{siunitx}
 \sisetup{per-mode=symbol}
 
@@ -80,22 +86,36 @@
 }
 
 \usepackage{mathspec}
+%\setmainfont{Open Sans}
+%\setmainfont[
+%  ItalicFont      = NimbusSansNarrow,
+%  BoldFont        = NimbusSansBold,
+%  BoldItalicFont  = NimbusSans-BoldItalic]{NimbusSans}
+%\setmainfont[
+%  ItalicFont     = HelveticaItalic,
+%  BoldFont       = Helvetica-Bold,
+%  BoldItalicFont = Helvetica-BoldItalic]{Helvetica}
 \setmainfont[
-  ItalicFont     = HelveticaNeue-Italic,
-  BoldFont       = HelveticaNeue-Bold,
-  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+  ItalicFont     = OpenSans-Italic,
+  BoldFont       = OpenSans-Bold,
+  BoldItalicFont = OpenSans-BoldItalic]{OpenSans-Regular}
+%\setmainfont[
+%  ItalicFont     = HelveticaNeue-Italic,
+%  BoldFont       = HelveticaNeue-Bold,
+%  BoldItalicFont = HelveticaNeue-BoldItalic]{HelveticaNeue}
+%\newfontfamily\NHLight{Open Sans Condensed}
+%\newfontfamily\NHLight[
+%  ItalicFont     = Helvetica-LightItalic,
+%  BoldFont       = Helvetica-UltraLight,
+%  BoldItalicFont = Helvetica-UltraLightItalic]{Helvetica}
+%\newfontfamily\NHLight[
+%  ItalicFont     = HelveticaNeue-LightItalic,
+%  BoldFont       = HelveticaNeue-UltraLight,
+%  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
 \newfontfamily\NHLight[
-  ItalicFont     = HelveticaNeue-LightItalic,
-  BoldFont       = HelveticaNeue-UltraLight,
-  BoldItalicFont = HelveticaNeue-UltraLightItalic]{HelveticaNeue-Light}
-% \setmainfont[
-%    ItalicFont     = Iosevka-Aile-Italic,
-%    BoldFont       = Iosevka-Aile-Bold,
-%    BoldItalicFont = Iosevka-Aile-Bold-Italic]{Iosevka}
-% \newfontfamily\NHLight[
-%    ItalicFont     = Iosevka-Aile-Light-Italic,
-%    BoldFont       = Iosevka-Aile-Light,
-%    BoldItalicFont = Iosevka-Aile-Light-Italic]{Iosevka-Light}
+  ItalicFont     = OpenSans-LightItalic,
+  BoldFont       = OpenSans-Regular,
+  BoldItalicFont = OpenSans-Italic]{OpenSans-Light}
 
 \newcommand\textrmlf[1]{{\NHLight#1}}
 \newcommand\textitlf[1]{{\NHLight\itshape#1}}
@@ -125,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ HIST201 }
-\newcommand{\thelesson}{ Russian Revolution }
+\newcommand{\thecourse}{ MATH520 }
+\newcommand{\thelesson}{ MVC Day 2 HW }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -139,15 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}9795)}}    % original
-%\rhead{\textrmlf{Compiled }\#9795\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17696)}}    % original
+%\rhead{\textrmlf{Compiled }\#17696\textrmlf{ on} \today }      % old date
 \rhead{
-    \textrmlf{Compiled }
-  \#9795
-  \textrmlf{ on}
-      \today
-  }       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+    \today
+    }       % new date
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -187,25 +204,35 @@
 \DeclareMathOperator{\orange}{\text{range}}
 \DeclareMathOperator{\ospan}{\text{span}}
 \DeclareMathOperator{\onull}{\text{null}}
+\DeclareMathOperator{\odim}{\text{dim}}
 
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBHIST201HistoryMasterIndex}{\tiny\textulf{[[}\textbf{KBHIST201HistoryMasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{russian-revolution}{%
-\section{Russian Revolution}\label{russian-revolution}}
+\hypertarget{review-sheet}{%
+\section{Review Sheet}\label{review-sheet}}
 
-Europe Happened. There is competition and still the urge of European
-hegemony that is present in Europe, and from that urge there stemmed the
-need for central leadership in each country. Of course, communistic
-states can't really have a strong central leadership, so Lenin justified
-it basically by saying that ``the populous are dumb''. Establishing this
-expectiation simply makes the state more willing to excercise their
-sense of superiority.
+\hypertarget{problem-1}{%
+\subsection{Problem 1}\label{problem-1}}
 
-One may argue that Lenin never wanted actual marxist control --- he
-simply was a dictatorship.
+\hypertarget{b}{%
+\subsubsection{\texorpdfstring{\((b)\)}{(b)}}\label{b}}
+
+\[
+\begin{aligned}
+g(x) &= x^{32} - 7x^{12} + x^{-8} - e^x + 12\sqrt[7]{x + 1} + (\cos{x})^6 \\
+g'(x) &= 32x^{31} - 84x^{11} - 8x^{-9} - e^x + \frac{12}{\sqrt[7]{x + 1}^6} + 6\sin{(x)}(\cos{x})^5
+\end{aligned}
+\]
+
+\hypertarget{d}{%
+\subsubsection{\texorpdfstring{\((d)\)}{(d)}}\label{d}}
+
+\[
+\begin{aligned}
+f(x) = 3x(x^2 + 1)^3 
+\end{aligned}
+\]
 
 \end{document}
