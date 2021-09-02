@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18078)}}    % original
-%\rhead{\textrmlf{Compiled }\#18078\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18081)}}    % original
+%\rhead{\textrmlf{Compiled }\#18081\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -258,6 +258,13 @@ benifit in both directions -- understanding one helps us understand the other an
   \item
     to mul row by x: take identity, swap out y index 1 with x
   \item
+    can just add, but not on the other side?
+
+    \begin{itemize}
+    \tightlist
+    \item
+      some type of decomp?
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 

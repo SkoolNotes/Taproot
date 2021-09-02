@@ -39,7 +39,8 @@ benifit in both directions -- understanding one helps us understand the other an
 
 - system of equations with matricies, what do we multiply by
 	- to mul row by x: take identity, swap out y index 1 with x
-	- 
+	- can just add, but not on the other side?
+		- some type of decomp?
 
 
 

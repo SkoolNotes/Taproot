@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS360 }
-\newcommand{\thelesson}{ Advanced Mechanics Master Index }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Gravitational Potential and Center of Mass }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18101)}}    % original
-%\rhead{\textrmlf{Compiled }\#18101\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18112)}}    % original
+%\rhead{\textrmlf{Compiled }\#18112\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,44 +210,20 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{advanced-mechanics-master-index}{%
-\section{Advanced Mechanics Master
-Index}\label{advanced-mechanics-master-index}}
+\hypertarget{escape-velocity-and-gravitational-potential-energy}{%
+\section{Escape Velocity and Gravitational Potential
+Energy}\label{escape-velocity-and-gravitational-potential-energy}}
 
-\#flo \#uncompiled
+\hypertarget{newtons-universal-gravitation-law}{%
+\subsection{Newton's Universal Gravitation
+Law}\label{newtons-universal-gravitation-law}}
 
-\textbf{Day 1}
+\begin{equation}
+\vec{F_g} = - \frac{GM_1M_2}{r^2} \hat{r}
+\end{equation}
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhPHYS360Day1{]}{]}
-\item
-  HW
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Dylan: {[}{[}KBdPHYS360Day1HW{]}{]}
-  \end{itemize}
-\end{itemize}
-
-\textbf{Day 2}
-
-\hypertarget{the-projectile-motion-chapter}{%
-\subsection{The Projectile Motion
-Chapter}\label{the-projectile-motion-chapter}}
-
-First, on energy: {[}{[}KBhPHYS360Energy{]}{]}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhPHYS360EscapeVelocity{]}{]}
-\item
-  {[}{[}KBhPHYS360CenterOfMass{]}{]}
-\item
-  {[}{[}KBhPHYS360GravitationMass{]}{]}
-\end{itemize}
+where, \(\vec{F_g}\) is the force of gravity on \(M_2\); \(M_1\) and
+\(M_2\) are two point masses; \(G\) the universal gravitation constant;
+\(\vec{r}\)
 
 \end{document}

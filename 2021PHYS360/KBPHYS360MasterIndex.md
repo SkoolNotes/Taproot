@@ -22,3 +22,4 @@ First, on energy: [[KBhPHYS360Energy]]
 
 - [[KBhPHYS360EscapeVelocity]] 
 - [[KBhPHYS360CenterOfMass]] 
+- [[KBhPHYS360GravitationMass]] 

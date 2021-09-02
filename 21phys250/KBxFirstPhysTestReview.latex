@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ PHYS360 }
-\newcommand{\thelesson}{ Advanced Mechanics Master Index }
+\newcommand{\thecourse}{ PHYS250 }
+\newcommand{\thelesson}{ First Phys Test Review }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18101)}}    % original
-%\rhead{\textrmlf{Compiled }\#18101\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18100)}}    % original
+%\rhead{\textrmlf{Compiled }\#18100\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,44 +210,72 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{advanced-mechanics-master-index}{%
-\section{Advanced Mechanics Master
-Index}\label{advanced-mechanics-master-index}}
+\#flo
 
-\#flo \#uncompiled
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\textbf{Day 1}
+\hypertarget{the-cat-and-mary}{%
+\subsection{The cat, and Mary}\label{the-cat-and-mary}}
+
+seperation is one meter and charge is +/- one coulomb, the force is
+around 9 bil newtons cat woudnt feel great\ldots{}
+
+\begin{verbatim}
+why use this ungodly amount to define a coulomb?
+\end{verbatim}
+
+open question
+
+F=kq1q1/r\^{}2 F\textgreater0 like charges F\textless0 opposite charges
+
+equations gives you a scalar, not directions. tells you if they attract
+or repel
+
+electrons inside a conductor slosh around like a fluid
+
+\hypertarget{if-the-charges-on-a-conductor-are-stationary-or-static}{%
+\subsection{If the charges on a conductor are stationary or
+static}\label{if-the-charges-on-a-conductor-are-stationary-or-static}}
+
+electrons try to reach equilibrium for them to be still, there must be
+no forces -\textgreater{} no e-field
+
+\hypertarget{electric-fields}{%
+\subsection{electric fields}\label{electric-fields}}
 
 \begin{itemize}
 \tightlist
 \item
-  {[}{[}KBhPHYS360Day1{]}{]}
-\item
-  HW
+  are perpendicular to the surface, and ``skin deep''
 
   \begin{itemize}
   \tightlist
   \item
-    Dylan: {[}{[}KBdPHYS360Day1HW{]}{]}
+    charge is zero when u go in
+
+    \begin{itemize}
+    \tightlist
+    \item
+      except when charge is flowing
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 
-\textbf{Day 2}
+\begin{verbatim}
+if charges are moving, all bets are off
+\end{verbatim}
 
-\hypertarget{the-projectile-motion-chapter}{%
-\subsection{The Projectile Motion
-Chapter}\label{the-projectile-motion-chapter}}
+fields curve near the end when fields on top arnt there to cancel
 
-First, on energy: {[}{[}KBhPHYS360Energy{]}{]}
+treat parrelel planes as infinite
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhPHYS360EscapeVelocity{]}{]}
-\item
-  {[}{[}KBhPHYS360CenterOfMass{]}{]}
-\item
-  {[}{[}KBhPHYS360GravitationMass{]}{]}
-\end{itemize}
+\hypertarget{the-pufferfish}{%
+\subsection{the pufferfish}\label{the-pufferfish}}
+
+gauss, the second. gauss, the first, is in a drawer at lick
+
+\begin{verbatim}
+when your're dead you don't need friends
+\end{verbatim}
 
 \end{document}
