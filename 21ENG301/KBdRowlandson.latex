@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ There There Diagnostic Essay }
+\newcommand{\thecourse}{ ENG301 }
+\newcommand{\thelesson}{ Rowlandson Notes (Dylan) }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17920)}}    % original
-%\rhead{\textrmlf{Compiled }\#17920\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17913)}}    % original
+%\rhead{\textrmlf{Compiled }\#17913\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Dylan Wallace \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,131 +210,34 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{general-information}{%
-\section{General Information}\label{general-information}}
+Interesting:
+https://teachingamericanhistory.org/library/document/the-sovereignty-and-goodness-of-god/
 
-\begin{longtable}[]{@{}lll@{}}
-\toprule
-Due Date & Topic & Important Documents \\
-\midrule
-\endhead
-9/20 & Themes Prevalient in There There & There There by Tommy Orange \\
-\bottomrule
-\end{longtable}
-
-\hypertarget{prompt}{%
-\section{Prompt}\label{prompt}}
-
-One of\ldots{}
-
-\begin{quote}
-In his Prologue, Orange claims that "we are the memories we don't
-remember, which live in us, which we feel" (10). Choose one character
-from the novel, and explain how he/she embodies, revises, or refutes
-this claim. Be sure to explain/define the quotation and how it connects
-to the character you are discussing.
-\end{quote}
-
-\begin{quote}
-Choose one character from the novel and discuss why his or her narrative
-is 1st, 2nd, or 3rd person. What effect does the form of narrativehave
-on how we read, understand, know the character?
-\end{quote}
-
-\hypertarget{processing-the-prompt}{%
-\subsection{Processing the prompt}\label{processing-the-prompt}}
+\hypertarget{flow}{%
+\section{Flow}\label{flow}}
 
 \begin{itemize}
 \tightlist
 \item
-  Define "memories we don't remember" and "to feel"
+  So\ldots{} This is from the perspective of the Settlers?
 \item
-  Analyze a character and discuss how they embody/revise/refuse the
-  above
-\end{itemize}
-
-\hypertarget{quotes-bin}{%
-\section{Quotes Bin}\label{quotes-bin}}
-
-\hypertarget{raw-quotes}{%
-\subsection{Raw Quotes}\label{raw-quotes}}
-
-\begin{itemize}
-\tightlist
+  Very hostile voice towards \emph{Indians}. Describes them taking
+  children and women, shooting people, and burning houses.
 \item
-  "It was no wonder it was getting worse. You can't sell life is OK when
-  its not." (98)
+  Author gets captured
 \item
-  "Jacquie's last relapse had not left burn holes in her life\ldots She
-  was sober again, and ten s" (99)
-\end{itemize}
-
-\hypertarget{sorts}{%
-\subsection{Sorts}\label{sorts}}
-
-\hypertarget{instances-of-recalling-of-memory}{%
-\subsubsection{Instances of recalling of
-memory}\label{instances-of-recalling-of-memory}}
-
-\hypertarget{instances-of-pain}{%
-\subsubsection{Instances of pain}\label{instances-of-pain}}
-
-\hypertarget{instances-of-non-pain-feeling}{%
-\subsubsection{Instances of non-pain
-feeling}\label{instances-of-non-pain-feeling}}
-
-\hypertarget{claim-synthesis}{%
-\section{Claim Synthesis}\label{claim-synthesis}}
-
-\hypertarget{development}{%
-\subsection{Development}\label{development}}
-
-\begin{itemize}
-\tightlist
-\item
-  \emph{Claim}
+  Demonizes captors:
+  \texttt{Now\ away\ we\ must\ go\ with\ those\ Barbarous\ Creatures}
 
   \begin{itemize}
   \tightlist
   \item
-    Why does the claim address the prompt?
-  \item
-    How does the evidence support the claim?
-
-    \begin{itemize}
-    \tightlist
-    \item
-      1
-    \item
-      2
-    \item
-      3
-    \end{itemize}
-  \item
-    So what?
+    I don't blame her lmao
   \end{itemize}
+\item
 \end{itemize}
 
-\hypertarget{defluffication}{%
-\section{Defluffication}\label{defluffication}}
-
-\emph{Chosen Thesis Claim}
-
-\begin{itemize}
-\item
-  Point a
-\item
-  Point b
-\item
-  Point c
-
-  So what? SO WHAT
-
-  \textbf{Restated Claim}
-\end{itemize}
-
-There's always the
-\href{https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf}{UCLA
-Writing Lab}.
+\hypertarget{summary}{%
+\section{Summary}\label{summary}}
 
 \end{document}

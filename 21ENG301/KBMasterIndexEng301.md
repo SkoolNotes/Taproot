@@ -18,6 +18,7 @@ It's time for... American lit!
 
 ## Rowlandson 
 - [[KBxRowlandson]]
+- [[KBdROwlandson]]
 
 ## Essay
 - [[KBhThereThereEssayPrep]] 

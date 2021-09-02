@@ -6,6 +6,38 @@ title: "Assignment 2: parameterization continued"
 [Desmos graphs](https://www.desmos.com/calculator/hhb49omfkj)
 
 ```{=latex}
+\setcounter{section}{3}
+```
+# witch of Maria Agnesi
+
+Let $B$ be the center of the orange circle with radius $a$, let $D$ be
+the closest point to $C$ on the x-axis, and let $Q$ be the closest point
+to $A$ on the y-axis.
+
+## $x(t)$
+
+$$\begin{aligned}
+    \tan \theta &= \frac{\overline{CD}}{\overline{OD}}\\
+    \cot  \theta &= \frac{\overline{OD}}{\overline{CD}}\\
+    \overline{CD} \cot  \theta &= \overline{OD} \\
+    2a \cot  \theta &= x
+   \end{aligned}$$
+
+## $y(t)$
+
+First, note that the distances $$\begin{aligned}
+   \overline{AB} = \overline{BO} = a\\
+   \end{aligned}$$
+
+$$\begin{aligned}
+   \angle AOB &= 90-\theta \\
+   \angle OAB &= 90-\theta && \quad\text{(isocelese triangle)}\\
+   \angle ABO &= 2\theta \\
+   \end{aligned}$$
+
+# something
+
+```{=latex}
 \setcounter{section}{7}
 ```
 # swallowtail catastrophe curves

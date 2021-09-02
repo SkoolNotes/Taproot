@@ -37,6 +37,21 @@ One of...
 
 # Quotes Bin
 
+## Raw Quotes
+
+-   \"It was no wonder it was getting worse. You can\'t sell life is OK
+    when its not.\" (98)
+-   \"Jacquie\'s last relapse had not left burn holes in her life...She
+    was sober again, and ten s\" (99)
+
+## Sorts
+
+### Instances of recalling of memory
+
+### Instances of pain
+
+### Instances of non-pain feeling
+
 # Claim Synthesis
 
 ## Development
@@ -54,12 +69,14 @@ One of...
 *Chosen Thesis Claim*
 
 -   Point a
+
 -   Point b
+
 -   Point c
 
-So what? SO WHAT
+    So what? SO WHAT
 
-**Restated Claim**
+    **Restated Claim**
 
 There\'s always the [UCLA Writing
 Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf).

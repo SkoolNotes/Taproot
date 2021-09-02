@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17848)}}    % original
-%\rhead{\textrmlf{Compiled }\#17848\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17919)}}    % original
+%\rhead{\textrmlf{Compiled }\#17919\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -211,6 +211,41 @@
 % DID YOU SET SPELL????
 
 \href{https://www.desmos.com/calculator/hhb49omfkj}{Desmos graphs}
+
+\setcounter{section}{3}
+
+\hypertarget{witch-of-maria-agnesi}{%
+\section{witch of Maria Agnesi}\label{witch-of-maria-agnesi}}
+
+Let \(B\) be the center of the orange circle with radius \(a\), let
+\(D\) be the closest point to \(C\) on the x-axis, and let \(Q\) be the
+closest point to \(A\) on the y-axis.
+
+\hypertarget{xt}{%
+\subsection{\texorpdfstring{\(x(t)\)}{x(t)}}\label{xt}}
+
+\[\begin{aligned}
+    \tan \theta &= \frac{\overline{CD}}{\overline{OD}}\\
+    \cot  \theta &= \frac{\overline{OD}}{\overline{CD}}\\
+    \overline{CD} \cot  \theta &= \overline{OD} \\
+    2a \cot  \theta &= x
+   \end{aligned}\]
+
+\hypertarget{yt}{%
+\subsection{\texorpdfstring{\(y(t)\)}{y(t)}}\label{yt}}
+
+First, note that the distances \[\begin{aligned}
+   \overline{AB} = \overline{BO} = a\\
+   \end{aligned}\]
+
+\[\begin{aligned}
+   \angle AOB &= 90-\theta \\
+   \angle OAB &= 90-\theta && \quad\text{(isocelese triangle)}\\
+   \angle ABO &= 2\theta \\
+   \end{aligned}\]
+
+\hypertarget{something}{%
+\section{something}\label{something}}
 
 \setcounter{section}{7}
 
