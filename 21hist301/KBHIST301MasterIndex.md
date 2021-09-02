@@ -15,3 +15,7 @@ Barry!
 - [[KBhHIST301IndianPersp]] 
 
 
+# Dylan - Chelsea
+- **See [[2021HIST301/KBHIST301MasterIndex]] for more docs**
+
+

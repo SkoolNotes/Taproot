@@ -26,8 +26,11 @@ $$\begin{aligned}
 ## $y(t)$
 
 First, note that the distances $$\begin{aligned}
-   \overline{AB} = \overline{BO} = a\\
+   \overline{AB} &= \overline{BO} = a\\
+   \overline{PD} &= \overline{QO} = \overline{QB} + \overline{BO} = \overline{QB} + a = y\\
    \end{aligned}$$
+
+Using some geometry:
 
 $$\begin{aligned}
    \angle AOB &= 90-\theta \\
@@ -35,7 +38,21 @@ $$\begin{aligned}
    \angle ABO &= 2\theta \\
    \end{aligned}$$
 
-# something
+Which implies:
+
+$$\begin{aligned}
+   \overline{QB} &= a \cos (2\theta )\\
+   &= -a \cos  (2 \theta )  \\
+   &= -a \left( 1 - 2 \sin ^2 \theta \right)  \\
+   &= -a + 2a \sin  ^2 \theta 
+   \end{aligned}$$
+
+By going back to the original distance relations, we have
+$$\begin{aligned}
+   y &= \overline{QB} + a \\
+   &= \cancel{a - a} + 2a \sin  ^2 \theta 
+   &= 2 a \sin  ^2 \theta 
+   \end{aligned}$$
 
 ```{=latex}
 \setcounter{section}{7}
@@ -76,3 +93,33 @@ Defined by $$\begin{aligned}
 ### $a, b$ control the size of the coil (default $-1 \le x, y \le 1$ because of range of $\sin, \cos$
 
 ### number of y-intercepts is $n+1$ except in the degenerate cases $n \le 0$
+
+```{=latex}
+\setcounter{section}{10}
+```
+# cycloid
+
+Suppose instead that the circle slides along the surface and the point
+rotates at one radian per radian traveled. Let\'s start with the radian
+rotation...
+
+$$\begin{aligned}
+  x(t) &= &r\sin t\\
+  y(t) &= r + &r\cos t\\
+  \end{aligned}$$
+
+Then, we just have to move the origin as well:
+
+$$\begin{aligned}
+  x(t) &= t + r \sin  t\\
+  y(t) &= r + r \cos t
+  \end{aligned}$$
+
+# first order derivative
+
+I think I did not come to this conclusion on my own on 30 Aug. because I
+didn\'t realize we could assume we had $y(x)$. $$\begin{aligned}
+  y &= y(x(t))\\
+  \frac{dy}{dt} &= y'(x(t)) x'(t) = \frac{dy}{dx} \frac{dx}{dt} && \quad \text{(chain rule)}\\
+  \frac{dy}{dx} &= \frac{\frac{dy}{dt}}{\frac{dx}{dt}}
+  \end{aligned}$$

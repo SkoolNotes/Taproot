@@ -83,14 +83,27 @@ html {
                \end{aligned}\]</span></p>
             <h2 id="yt"><span class="math inline">\(y(t)\)</span></h2>
             <p>First, note that the distances <span class="math display">\[\begin{aligned}
-               \overline{AB} = \overline{BO} = a\\
+               \overline{AB} &amp;= \overline{BO} = a\\
+               \overline{PD} &amp;= \overline{QO} = \overline{QB} + \overline{BO} = \overline{QB} + a = y\\
                \end{aligned}\]</span></p>
+            <p>Using some geometry:</p>
             <p><span class="math display">\[\begin{aligned}
                \angle AOB &amp;= 90-\theta \\
                \angle OAB &amp;= 90-\theta &amp;&amp; \quad\text{(isocelese triangle)}\\
                \angle ABO &amp;= 2\theta \\
                \end{aligned}\]</span></p>
-            <h1 id="something">something</h1>
+            <p>Which implies:</p>
+            <p><span class="math display">\[\begin{aligned}
+               \overline{QB} &amp;= a \cos (2\theta )\\
+               &amp;= -a \cos  (2 \theta )  \\
+               &amp;= -a \left( 1 - 2 \sin ^2 \theta \right)  \\
+               &amp;= -a + 2a \sin  ^2 \theta 
+               \end{aligned}\]</span></p>
+            <p>By going back to the original distance relations, we have <span class="math display">\[\begin{aligned}
+               y &amp;= \overline{QB} + a \\
+               &amp;= \cancel{a - a} + 2a \sin  ^2 \theta 
+               &amp;= 2 a \sin  ^2 \theta 
+               \end{aligned}\]</span></p>
             <h1 id="swallowtail-catastrophe-curves">swallowtail catastrophe curves</h1>
             <p>Defined by <span class="math display">\[\begin{aligned}
               x &amp;= 2ct - 4t^3\\
@@ -116,6 +129,23 @@ html {
             <h3 id="spring-like-coil-shape-almost-like-standing-waves-with-tighter-loops-at-the-ends">spring-like coil shape (almost like standing waves) with tighter "loops" at the ends</h3>
             <h3 id="a-b-control-the-size-of-the-coil-default--1-le-x-y-le-1-because-of-range-of-sin-cos"><span class="math inline">\(a, b\)</span> control the size of the coil (default <span class="math inline">\(-1 \le x, y \le 1\)</span> because of range of <span class="math inline">\(\sin, \cos\)</span></h3>
             <h3 id="number-of-y-intercepts-is-n1-except-in-the-degenerate-cases-n-le-0">number of y-intercepts is <span class="math inline">\(n+1\)</span> except in the degenerate cases <span class="math inline">\(n \le 0\)</span></h3>
+            <h1 id="cycloid">cycloid</h1>
+            <p>Suppose instead that the circle slides along the surface and the point rotates at one radian per radian traveled. Let’s start with the radian rotation…</p>
+            <p><span class="math display">\[\begin{aligned}
+              x(t) &amp;= &amp;r\sin t\\
+              y(t) &amp;= r + &amp;r\cos t\\
+              \end{aligned}\]</span></p>
+            <p>Then, we just have to move the origin as well:</p>
+            <p><span class="math display">\[\begin{aligned}
+              x(t) &amp;= t + r \sin  t\\
+              y(t) &amp;= r + r \cos t
+              \end{aligned}\]</span></p>
+            <h1 id="first-order-derivative">first order derivative</h1>
+            <p>I think I did not come to this conclusion on my own on 30 Aug. because I didn’t realize we could assume we had <span class="math inline">\(y(x)\)</span>. <span class="math display">\[\begin{aligned}
+              y &amp;= y(x(t))\\
+              \frac{dy}{dt} &amp;= y&#39;(x(t)) x&#39;(t) = \frac{dy}{dx} \frac{dx}{dt} &amp;&amp; \quad \text{(chain rule)}\\
+              \frac{dy}{dx} &amp;= \frac{\frac{dy}{dt}}{\frac{dx}{dt}}
+              \end{aligned}\]</span></p>
         </div>
 
         <script>

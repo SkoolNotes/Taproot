@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ There There Diagnostic Essay }
+\newcommand{\thecourse}{ HIST301 }
+\newcommand{\thelesson}{ Pilgrims and Puritans }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17952)}}    % original
-%\rhead{\textrmlf{Compiled }\#17952\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17946)}}    % original
+%\rhead{\textrmlf{Compiled }\#17946\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Dylan Wallace \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,135 +209,31 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBHIST301MasterIndex}{\tiny\textulf{[[}\textbf{KBHIST301MasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{general-information}{%
-\section{General Information}\label{general-information}}
+\#flo
 
-\begin{longtable}[]{@{}lll@{}}
-\toprule
-Due Date & Topic & Important Documents \\
-\midrule
-\endhead
-9/20 & Themes Prevalent in There There & There There by Tommy Orange \\
-\bottomrule
-\end{longtable}
-
-\hypertarget{prompt}{%
-\section{Prompt}\label{prompt}}
-
-One of\ldots{}
-
-\begin{quote}
-In his Prologue, Orange claims that "we are the memories we don't
-remember, which live in us, which we feel" (10). Choose one character
-from the novel, and explain how he/she embodies, revises, or refutes
-this claim. Be sure to explain/define the quotation and how it connects
-to the character you are discussing.
-\end{quote}
-
-\begin{quote}
-Choose one character from the novel and discuss why his or her narrative
-is 1st, 2nd, or 3rd person. What effect does the form of narrative have
-on how we read, understand, know the character?
-\end{quote}
-
-\hypertarget{processing-the-prompt}{%
-\subsection{Processing the prompt}\label{processing-the-prompt}}
+\hypertarget{first-section}{%
+\section{First section}\label{first-section}}
 
 \begin{itemize}
 \tightlist
 \item
-  Define "memories we don't remember" and "to feel"
+  Pilgrims weren't entirely religious fanatics
 \item
-  Analyze a character and discuss how they embody/revise/refuse the
-  above
-\end{itemize}
-
-\hypertarget{quotes-bin}{%
-\section{Quotes Bin}\label{quotes-bin}}
-
-\hypertarget{raw-quotes}{%
-\subsection{Raw Quotes}\label{raw-quotes}}
-
-\begin{itemize}
-\tightlist
-\item
-  "It was no wonder it was getting worse. You can't sell life is OK when
-  its not." (98)
-\item
-  "Jacquie's last relapse had not left burn holes in her life\ldots She
-  was sober again, and ten days is the same as a year when you want to
-  drink all the time." (99)
-\item
-  "But home for Jaquie and her sister was a locked station
-\end{itemize}
-
-\hypertarget{quote-development}{%
-\subsection{Quote Development}\label{quote-development}}
-
-\hypertarget{instances-of-recalling-of-memory}{%
-\subsubsection{Instances of recalling of
-memory}\label{instances-of-recalling-of-memory}}
-
-\hypertarget{instances-of-pain}{%
-\subsubsection{Instances of pain}\label{instances-of-pain}}
-
-\hypertarget{instances-of-non-pain-feeling}{%
-\subsubsection{Instances of non-pain
-feeling}\label{instances-of-non-pain-feeling}}
-
-\hypertarget{claim-synthesis}{%
-\section{Claim Synthesis}\label{claim-synthesis}}
-
-\hypertarget{development}{%
-\subsection{Development}\label{development}}
-
-\begin{itemize}
-\tightlist
-\item
-  \emph{Claim}
+  Difference between Pilgrims and Puritans
 
   \begin{itemize}
   \tightlist
   \item
-    Why does the claim address the prompt?
+    \textbf{Pilgrims}: Mayflower, 1620
   \item
-    How does the evidence support the claim?
-
-    \begin{itemize}
-    \tightlist
-    \item
-      1
-    \item
-      2
-    \item
-      3
-    \end{itemize}
-  \item
-    So what?
+    \textbf{Puritans}: Arbella, 1630
   \end{itemize}
+\item
+  Only from 1691 with merging of Massachusetts did Puritans and Pilgrims
+  become single settlement
 \end{itemize}
-
-\hypertarget{defluffication}{%
-\section{Defluffication}\label{defluffication}}
-
-\emph{Chosen Thesis Claim}
-
-\begin{itemize}
-\item
-  Point a
-\item
-  Point b
-\item
-  Point c
-
-  So what? SO WHAT
-
-  \textbf{Restated Claim}
-\end{itemize}
-
-There's always the
-\href{https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf}{UCLA
-Writing Lab}.
 
 \end{document}

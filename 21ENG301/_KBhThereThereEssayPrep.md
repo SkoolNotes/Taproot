@@ -11,9 +11,9 @@ title: There There Diagnostic Essay
 ```
 # General Information
 
-  Due Date   Topic                              Important Documents
-  ---------- ---------------------------------- -----------------------------
-  9/20       Themes Prevalient in There There   There There by Tommy Orange
+  Due Date   Topic                             Important Documents
+  ---------- --------------------------------- -----------------------------
+  9/20       Themes Prevalent in There There   There There by Tommy Orange
 
 # Prompt
 
@@ -27,7 +27,7 @@ One of...
 
 > Choose one character from the novel and discuss why his or her
 > narrative is 1st, 2nd, or 3rd person. What effect does the form of
-> narrativehave on how we read, understand, know the character?
+> narrative have on how we read, understand, know the character?
 
 ## Processing the prompt
 
@@ -42,9 +42,11 @@ One of...
 -   \"It was no wonder it was getting worse. You can\'t sell life is OK
     when its not.\" (98)
 -   \"Jacquie\'s last relapse had not left burn holes in her life...She
-    was sober again, and ten s\" (99)
+    was sober again, and ten days is the same as a year when you want to
+    drink all the time.\" (99)
+-   \"But home for Jaquie and her sister was a locked station
 
-## Sorts
+## Quote Development
 
 ### Instances of recalling of memory
 
