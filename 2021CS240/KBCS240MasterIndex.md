@@ -17,3 +17,8 @@ source: #index
 - [[KBhCS240Rubric]]
 - [[KBxCS240Rubric]]
 - [[KBxCS240CodeofConduct]]
+
+## Threat modeling
+- 
+
+

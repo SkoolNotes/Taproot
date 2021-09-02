@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18112)}}    % original
-%\rhead{\textrmlf{Compiled }\#18112\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18144)}}    % original
+%\rhead{\textrmlf{Compiled }\#18144\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -224,6 +224,30 @@ Law}\label{newtons-universal-gravitation-law}}
 
 where, \(\vec{F_g}\) is the force of gravity on \(M_2\); \(M_1\) and
 \(M_2\) are two point masses; \(G\) the universal gravitation constant;
-\(\vec{r}\)
+\(r\) the magnitude of the vector from \(M_1\) to \(M_2\) and
+\(\hat{r}\) the unit vector in the \(\vec{r}\) direction.
+
+Also, introduce the following variables:
+
+\begin{itemize}
+\tightlist
+\item
+  \(M_e\) for the mass of the earth
+\item
+  \(g\) for the acceleration of gravity on the surface of the Earth
+\end{itemize}
+
+\hypertarget{equation-for-gravitational-potential-energy}{%
+\subsection{Equation for Gravitational Potential
+Energy}\label{equation-for-gravitational-potential-energy}}
+
+The general equation for work is as follows:
+
+\begin{equation}
+W = \frac{dF}{dx} dx
+\end{equation}
+
+The total gravitational potential energy induced by performing work to
+move the object from
 
 \end{document}
