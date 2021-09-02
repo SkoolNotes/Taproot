@@ -11,10 +11,10 @@ source:  #KBMasterIndexEng301
 
 # Rowlandson
 
-## qoute
+https://teachingamericanhistory.org/library/document/the-sovereignty-and-goodness-of-god/
 
 
-## notes
+
 
 
 

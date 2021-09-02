@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17305)}}    % original
-%\rhead{\textrmlf{Compiled }\#17305\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17880)}}    % original
+%\rhead{\textrmlf{Compiled }\#17880\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -258,7 +258,7 @@ subtraction on the natural numbers is not closed
 \end{verbatim}
 
 \begin{verbatim}
-closed: can make a number not in the set
+closed: can't make a number not in the set
 \end{verbatim}
 
 \hypertarget{groups}{%

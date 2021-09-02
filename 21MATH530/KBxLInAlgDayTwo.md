@@ -28,7 +28,7 @@ subtraction on the natural numbers is not closed
 ```
 
 ```ad-def
-closed: can make a number not in the set
+closed: can't make a number not in the set
 ```
 
 
