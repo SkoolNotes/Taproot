@@ -62,8 +62,34 @@ One of...
     slowly formed into images, then memories. She saw the big hole
     first. Then her daughter\'s emaciated body.\" (105)
 -   \"The trister spider, Veho, her mom used to used to tell her and
-    Opah about ... the white man who came and made the old world watch
-    with his eyes.
+    Opah about, he was always stealing eyes to see better ... the white
+    man who came and made the old world watch with his eyes ... Until
+    your eyes are drained and you can\'t see behind you and there\'s
+    nothnig ahead, and the nedele, the bottle, or the pipe is the only
+    thing in sight that makes any sense.\" (106)
+-   \"She wanted a drink. She wanted to drink. She needed a
+    meeting.\" (107)
+-   \"She put a cough drop into her mouth so casually that you could
+    tell she probably ate a lot of cough drops and smoked a lot of
+    cigaretts, and never quite beat the caugh, but beat it enough while
+    she was sucking on a cough drop, so ate them constantly\" (109)
+-   \"There\'s an ache when you keep yourself from breathing. A relief
+    when you come up for air. It was the same when you drank after
+    telling yourself you wouldn\'t. Both broke at a point. Both gave and
+    took.\" (116)
+-   \"Drinking had never been fun. It was kind of a solemn duty. It took
+    the edge off, and it allowed her to say and do whatever she wanted
+    without feeling bad about it.\" (152)
+-   \"If she\'d ever found spider legs in her leg, she probably would
+    have ended it right there and then. She sudden feels so overwhelmed
+    by all of it that she gets tired ... She feels grateful when it
+    does, because most of the time her thoughts keep her up.\" (154)
+-   \"Jaquie looks down at Orvil. Her arms are shaking. Loother comes
+    over and puts an arm around Jaquie ... \'He\'s white,\' Loother
+    says.\" (280)
+-   \"She should watch the sunrise. How long had it been since she\'d
+    done that? Instead she closes the curtains and turns on the
+    TV\" (254)
 
 ## Quote Development
 
