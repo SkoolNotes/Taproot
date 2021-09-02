@@ -27,4 +27,14 @@ source: KBHIST301MasterIndex
 
 # Puritans
 - Puritans were protestants and believed in individual process for enlightenment
-- 
+- Initially thought they would come to new world and find the promised land
+- Piquot War => Sign of God's mercy?
+- America and utopianism go hand and hand
+- Jeremiad literature
+	- Started by Puritans
+	- List complaints about community, then prompts change and presents incentives
+
+# Pilgrims
+- Were more merciful with Indians
+- Saw English-speaking Indian dude as sign from God
+- Bradford dude wrote a lot about colony history

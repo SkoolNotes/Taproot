@@ -30,4 +30,12 @@ source: KBHIST301MasterIndex
 - Spanish converted people into Catholics
 
 
-# 
+# French
+- Worked with natives for fur
+- New Orleans built in delta
+
+# English
+- Private merchants (companies) came
+- Religious dissidents
+- Weren't originally trying to convert
+	- Went for settlement first

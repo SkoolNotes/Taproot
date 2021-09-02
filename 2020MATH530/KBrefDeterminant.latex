@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ MATH530 }
-\newcommand{\thelesson}{ Linear Algebra Master Index }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18054)}}    % original
-%\rhead{\textrmlf{Compiled }\#18054\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18069)}}    % original
+%\rhead{\textrmlf{Compiled }\#18069\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Exr0n \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,11 +210,26 @@
 
 % DID YOU SET SPELL????
 
-\#ref
+\hypertarget{determinant}{%
+\section{\texorpdfstring{Determinant
+{\textsc{def}}}{Determinant def}}\label{determinant}}
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+Represents the "size" of a matrix (area of parallelogram).
 
-{[}{[}KBxLInAlgDayTwo{]}{]} {[}{[}KBxGroupAndMatricesIntro{]}{]}
-{[}{[}KBxChapter1aReview{]}{]} {[}{[}KBxFirstTestReview{]}{]}
+For larger (eg. 3x3) matrices, can wrap rows instead of flipping signs
+(because swapping columns in 2x2 determinant equals flipping sign).
+
+\[\begin{aligned}
+  \left| \begin{matrix}a&b&c\\d&e&f\\g&h&j\end{matrix} \right| &= a\left| \begin{matrix}e&f\\h&j\end{matrix} \right|  + b \left| \begin{matrix}f&d\\j&g\end{matrix}  \right| + c \left| \begin{matrix}d&e\\g&h\end{matrix}\right|\\
+  &= a\left| \begin{matrix}e&f\\h&j\end{matrix} \right|  - b \left| \begin{matrix}d&f\\g&j\end{matrix}  \right| + c \left| \begin{matrix}d&e\\g&h\end{matrix}\right|\\
+  \end{aligned}\]
+
+\hypertarget{properties}{%
+\subsection{Properties}\label{properties}}
+
+\hypertarget{multiplicative}{%
+\subsubsection{Multiplicative}\label{multiplicative}}
+
+\[|A||B| = |AB|\]
 
 \end{document}

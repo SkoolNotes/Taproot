@@ -146,7 +146,7 @@
 
 
 \newcommand{\thecourse}{ MATH530 }
-\newcommand{\thelesson}{ Linear Algebra Master Index }
+\newcommand{\thelesson}{ First Test Review }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18054)}}    % original
-%\rhead{\textrmlf{Compiled }\#18054\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18078)}}    % original
+%\rhead{\textrmlf{Compiled }\#18078\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -210,11 +210,55 @@
 
 % DID YOU SET SPELL????
 
-\#ref
+\#flo \#disorganized \#inclass
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-{[}{[}KBxLInAlgDayTwo{]}{]} {[}{[}KBxGroupAndMatricesIntro{]}{]}
-{[}{[}KBxChapter1aReview{]}{]} {[}{[}KBxFirstTestReview{]}{]}
+\hypertarget{test-clap-review}{%
+\section{Test :clap: review 👏}\label{test-clap-review}}
+
+\href{https://nuevaschool.instructure.com/courses/3718/assignments/61290}{homework}
+
+dot product -\textgreater{} scalar, thus not closed!
+
+we will learn about the determinant before the cross product
+
+\hypertarget{system-of-equations}{%
+\subsubsection{system of equations}\label{system-of-equations}}
+
+don't do substitution when doing lin alg can represent system of
+equations with a matrix -- can solve with matricies matrix of coef * the
+vars advantage: cleaner, easier to enter into a computer
+
+parralel systems
+
+\begin{verbatim}
+benifit in both directions -- understanding one helps us understand the other and vise versa
+\end{verbatim}
+
+\hypertarget{questions}{%
+\subsubsection{questions}\label{questions}}
+
+\begin{itemize}
+\item
+  \textbar a\textbar{} \textbar b\textbar{} costheta
+\item
+  dot product to calc magnitude
+
+  \begin{itemize}
+  \tightlist
+  \item
+    dot by itself then sqrt
+  \end{itemize}
+\item
+  system of equations with matricies, what do we multiply by
+
+  \begin{itemize}
+  \tightlist
+  \item
+    to mul row by x: take identity, swap out y index 1 with x
+  \item
+  \end{itemize}
+\end{itemize}
 
 \end{document}

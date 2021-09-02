@@ -146,7 +146,7 @@
 
 
 \newcommand{\thecourse}{ MATH530 }
-\newcommand{\thelesson}{ Linear Algebra Master Index }
+\newcommand{\thelesson}{ Day Four -- temp }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18054)}}    % original
-%\rhead{\textrmlf{Compiled }\#18054\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18050)}}    % original
+%\rhead{\textrmlf{Compiled }\#18050\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -210,11 +210,8 @@
 
 % DID YOU SET SPELL????
 
-\#ref
+\#flo \#disorganized \#inclass
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-{[}{[}KBxLInAlgDayTwo{]}{]} {[}{[}KBxGroupAndMatricesIntro{]}{]}
-{[}{[}KBxChapter1aReview{]}{]} {[}{[}KBxFirstTestReview{]}{]}
 
 \end{document}
