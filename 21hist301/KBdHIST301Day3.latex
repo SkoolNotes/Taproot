@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ MATH530 }
-\newcommand{\thelesson}{ Linear Algebra Master Index }
+\newcommand{\thecourse}{ HIST301 }
+\newcommand{\thelesson}{ History Notes Day 3 }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18048)}}    % original
-%\rhead{\textrmlf{Compiled }\#18048\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18047)}}    % original
+%\rhead{\textrmlf{Compiled }\#18047\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Dylan Wallace \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,12 +209,90 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBHIST301MasterIndex}{\tiny\textulf{[[}\textbf{KBHIST301MasterIndex}\textulf{]]}}}\thinspace
 
-\#ref
+\hypertarget{colonization-in-america}{%
+\section{Colonization in America}\label{colonization-in-america}}
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\hypertarget{spanish-colonization---god-gold-glory}{%
+\subsection{Spanish Colonization - ``God, Gold \&
+Glory''}\label{spanish-colonization---god-gold-glory}}
 
-{[}{[}KBxLInAlgDayTwo{]}{]} {[}{[}KBxGroupAndMatricesIntro{]}{]}
-{[}{[}KBxChapter1aReview{]}{]} {[}{[}KBxDayFour{]}{]}
+\begin{itemize}
+\tightlist
+\item
+  Columbus
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Spanish came looking for good way to get to India, arrived in
+    America
+  \item
+    Columbus' arrival lead to 3 million estimated direct deaths
+  \end{itemize}
+\item
+  Cortez
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Conquest of Aztecs
+  \item
+    Exploited Natives
+  \end{itemize}
+\item
+  Discovery of Silver
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Spanish wealth
+  \end{itemize}
+\item
+  St Augustine FL
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Oldest settlement in US
+  \end{itemize}
+\item
+  Settlements
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Spanish were a sea power
+  \item
+    Settlements on coasts
+  \item
+    Lima and Mexico City were capitals of Incas and Aztecs
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Exploited connections
+    \end{itemize}
+  \item
+    Mission, Presidio, Pueblo
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \textbf{Mission}: Church kind of thing
+    \item
+      \textbf{Presidio}:
+    \item
+      \textbf{Pueblo}: Town
+    \end{itemize}
+  \end{itemize}
+\item
+  Spanish converted people into Catholics
+\end{itemize}
+
+\hypertarget{section}{%
+\section{}\label{section}}
 
 \end{document}

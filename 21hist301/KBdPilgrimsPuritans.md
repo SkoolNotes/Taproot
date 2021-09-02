@@ -24,3 +24,7 @@ source: KBHIST301MasterIndex
 	- Wasn't really based on anything
 	- Didn't find any utopias or anything so decided to build their own
 - Bunch of religious separatists moved to America
+
+# Puritans
+- Puritans were protestants and believed in individual process for enlightenment
+- 
