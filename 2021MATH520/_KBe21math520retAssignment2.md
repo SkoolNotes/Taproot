@@ -123,3 +123,18 @@ didn\'t realize we could assume we had $y(x)$. $$\begin{aligned}
   \frac{dy}{dt} &= y'(x(t)) x'(t) = \frac{dy}{dx} \frac{dx}{dt} && \quad \text{(chain rule)}\\
   \frac{dy}{dx} &= \frac{\frac{dy}{dt}}{\frac{dx}{dt}}
   \end{aligned}$$
+
+# second order derivative
+
+$$\begin{aligned}
+  x &= f(t)\\
+  y &= g(t) = g(f(t))\\
+  \end{aligned}$$
+
+$$\begin{aligned}
+  \frac{dy}{dt} &= \frac{dy}{dx}\frac{dx}{dt}\\
+  \frac{d^2y}{dt^2} &= \frac{dy}{dx} \frac{d}{dt}\frac{dx}{dt} + \frac{dx}{dt} \frac{d}{dt}\frac{dy}{dx}\\
+  &= \frac{dy}{dx} \frac{d^2x}{dt^2} + \frac{dx}{dt} \frac{d^2y}{dt^2}
+  \frac{dy}{dx} = \frac{\frac{dy}{dt}}{\frac{dx}{dt}}\\
+  \frac{d^2y}{dx^2} = \frac{\frac{dx}{dt}\frac{d}{dx}\frac{dy}{dt} - \frac{dy}{dt} \frac{d}{dx}\frac{dx}{dt}}{}
+  \end{aligned}$$

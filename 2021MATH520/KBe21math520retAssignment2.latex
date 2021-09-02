@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17951)}}    % original
-%\rhead{\textrmlf{Compiled }\#17951\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17960)}}    % original
+%\rhead{\textrmlf{Compiled }\#17960\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -361,6 +361,22 @@ didn't realize we could assume we had \(y(x)\). \[\begin{aligned}
   y &= y(x(t))\\
   \frac{dy}{dt} &= y'(x(t)) x'(t) = \frac{dy}{dx} \frac{dx}{dt} && \quad \text{(chain rule)}\\
   \frac{dy}{dx} &= \frac{\frac{dy}{dt}}{\frac{dx}{dt}}
+  \end{aligned}\]
+
+\hypertarget{second-order-derivative}{%
+\section{second order derivative}\label{second-order-derivative}}
+
+\[\begin{aligned}
+  x &= f(t)\\
+  y &= g(t) = g(f(t))\\
+  \end{aligned}\]
+
+\[\begin{aligned}
+  \frac{dy}{dt} &= \frac{dy}{dx}\frac{dx}{dt}\\
+  \frac{d^2y}{dt^2} &= \frac{dy}{dx} \frac{d}{dt}\frac{dx}{dt} + \frac{dx}{dt} \frac{d}{dt}\frac{dy}{dx}\\
+  &= \frac{dy}{dx} \frac{d^2x}{dt^2} + \frac{dx}{dt} \frac{d^2y}{dt^2}
+  \frac{dy}{dx} = \frac{\frac{dy}{dt}}{\frac{dx}{dt}}\\
+  \frac{d^2y}{dx^2} = \frac{\frac{dx}{dt}\frac{d}{dx}\frac{dy}{dt} - \frac{dy}{dt} \frac{d}{dx}\frac{dx}{dt}}{}
   \end{aligned}\]
 
 \end{document}
