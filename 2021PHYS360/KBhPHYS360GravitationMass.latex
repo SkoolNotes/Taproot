@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18304)}}    % original
-%\rhead{\textrmlf{Compiled }\#18304\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18334)}}    % original
+%\rhead{\textrmlf{Compiled }\#18334\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -336,11 +336,11 @@ Taking \(G = 6.674 \times 10^{-11} m^3 \frac{m^3}{kg\ s^2}\),
 \hypertarget{center-of-mass}{%
 \section{Center of Mass}\label{center-of-mass}}
 
-\hypertarget{finding-an-function-for-the-position-of-center-of-mass}{%
-\subsection{Finding an Function for the Position of Center of
-Mass}\label{finding-an-function-for-the-position-of-center-of-mass}}
+\hypertarget{finding-an-expression-for-the-position-of-the-center-of-mass}{%
+\subsection{Finding an Expression for the Position of the Center of
+Mass}\label{finding-an-expression-for-the-position-of-the-center-of-mass}}
 
-The net force of the system is described as:
+The net force of a system is described as:
 
 \begin{equation}
 \sum^n_{i=1} \vec{F_{net,i}} = (\sum^n_{i=1} m_i) \ddot{\vec{r_{CM}}}
@@ -369,5 +369,45 @@ For this evaluation, we will also set \(\sum^n_{i=1} m_i = M\), define
 \sum^n_{i=1} m_i \vec{r_i} &= M \vec{r_{CM}} \\
 \frac{1}{M} \sum^n_{i=1} m_i \vec{r_i} &= \vec{r_{CM}}
 \end{align}
+
+As such, the position \(\vec{r_{CM}}\) of the center of mass \(CM\) is
+therefore:
+
+\begin{equation}
+\vec{r_{CM}} = \frac{1}{M} \sum^n_{i=1} m_i \vec{r_i}
+\end{equation}
+
+Where, \(M\) is the total mass of the system, \(m_i\) the mass of
+component \(i\) of the system, and \(\vec{r_i}\) the position of
+\(m_i\).
+
+\hypertarget{simplifying-to-ignore-internal-forces}{%
+\subsection{Simplifying to ignore internal
+forces}\label{simplifying-to-ignore-internal-forces}}
+
+Per the definition of internal force, it does \emph{not} result in work
+performed on the system, meaning that the system as a whole would not
+have moved a distance.
+
+Because of the fact that
+\(\vec{r_{CM}} = \frac{1}{M} \sum^n_{i=1} m_i \vec{r_i}\) as derived
+{\emph{above}}, \(\vec{r_{CM}}\) changes when the system as a whole
+moves. However, internal forces does not do this, meaning the existence
+of internal forces does not change \(\vec{r_{CM}}\).
+
+This fact allows for a simplification of the equation:
+
+\begin{equation}
+\sum^n_{i=1} \vec{F_{net,i}} = (\sum^n_{i=1} m_i) \ddot{\vec{r_{CM}}}
+\end{equation}
+
+to:
+
+\begin{equation}
+\sum^m_{j=1} \vec{F_{ext,j}} = M \ddot{\vec{r_{CM}}}
+\end{equation}
+
+by applying \(\sum^n_{i=1} m_i = M\) as per aforementioned and the
+external forces argument above.
 
 \end{document}

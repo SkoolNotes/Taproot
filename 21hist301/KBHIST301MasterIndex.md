@@ -10,6 +10,7 @@ context: HIST301
 - [[KBxNotesonHannahJones]]
 - [[KBxIndigenousPeoplesHistoftheUS]]
 - [[KBxIndigenousPeoplesHistoftheUSNotes]]
+- [[KBxSlaveryandFreedomTheAmericanParadox]]
 
 Barry!
 - [[KBhHIST301Lenses]]

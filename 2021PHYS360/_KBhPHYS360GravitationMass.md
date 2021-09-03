@@ -128,9 +128,9 @@ $M_e = 5.97 \times 10^{24} kg$, and $R_e = 6.371 \times 10^6 km$...
 ```
 # Center of Mass
 
-## Finding an Function for the Position of Center of Mass
+## Finding an Expression for the Position of the Center of Mass
 
-The net force of the system is described as:
+The net force of a system is described as:
 
 ```{=latex}
 \begin{equation}
@@ -163,3 +163,44 @@ and apply Newton\'s second law:
 \frac{1}{M} \sum^n_{i=1} m_i \vec{r_i} &= \vec{r_{CM}}
 \end{align}
 ```
+As such, the position $\vec{r_{CM}}$ of the center of mass $CM$ is
+therefore:
+
+```{=latex}
+\begin{equation}
+\vec{r_{CM}} = \frac{1}{M} \sum^n_{i=1} m_i \vec{r_i}
+\end{equation}
+```
+Where, $M$ is the total mass of the system, $m_i$ the mass of component
+$i$ of the system, and $\vec{r_i}$ the position of $m_i$.
+
+## Simplifying to ignore internal forces
+
+Per the definition of internal force, it does *not* result in work
+performed on the system, meaning that the system as a whole would not
+have moved a distance.
+
+Because of the fact that
+$\vec{r_{CM}} = \frac{1}{M} \sum^n_{i=1} m_i \vec{r_i}$ as derived
+[*above*]{.spurious-link
+target="*Finding an Expression for the Position of the Center of Mass"},
+$\vec{r_{CM}}$ changes when the system as a whole moves. However,
+internal forces does not do this, meaning the existence of internal
+forces does not change $\vec{r_{CM}}$.
+
+This fact allows for a simplification of the equation:
+
+```{=latex}
+\begin{equation}
+\sum^n_{i=1} \vec{F_{net,i}} = (\sum^n_{i=1} m_i) \ddot{\vec{r_{CM}}}
+\end{equation}
+```
+to:
+
+```{=latex}
+\begin{equation}
+\sum^m_{j=1} \vec{F_{ext,j}} = M \ddot{\vec{r_{CM}}}
+\end{equation}
+```
+by applying $\sum^n_{i=1} m_i = M$ as per aforementioned and the
+external forces argument above.
