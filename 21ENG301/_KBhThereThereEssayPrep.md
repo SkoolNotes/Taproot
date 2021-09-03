@@ -39,57 +39,64 @@ One of...
 
 ## Raw Quotes
 
--   \"It was no wonder it was getting worse. You can\'t sell life is OK
-    when its not.\" (98)
+-   \"For how many years had there been federally funded programs trying
+    to prevent suicide with billboards and hotlines? It was no wonder it
+    was getting worse. You can\'t sell life is OK when its not.\" (98)
+    AA AA => system rejects suicidal pain
 -   \"Jacquie\'s last relapse had not left burn holes in her life...She
     was sober again, and ten days is the same as a year when you want to
-    drink all the time.\" (99)
+    drink all the time.\" (99) AB AB => drinking as a form of slowing
+    time
 -   \"But home for Jaquie and her sister was a locked station wagon in
-    an empty parking lot. Home was a long ride on a bus.\" (99)
--   \"The night was cool but didn\'t move\" (100)
+    an empty parking lot. Home was a long ride on a bus.\" (99) AC AC =>
+    lack of static location of belonging
+-   \"The night was cool but didn\'t move\" (100) AD AD => pain as a
+    pressure
 -   \"Mostly she just wanted to be in the water. To go under and open
     her eyes, look at her hands, watch the bubbles rise in that bluest
-    light.\" (100)
+    light.\" (100) AF AF
 -   \"In this case Jaquie was the spider, and the minifridge was the
-    web. Home was to drink. To drink was the trap.\" (101)
+    web. Home was to drink. To drink was the trap.\" (101) AG AG
 -   \"The first speaker, a man who looked like he might be more
-    comfortable on a street corner than a conference.\" (103)
+    comfortable on a street corner than a conference.\" (103) AH AH
 -   \"Jaquie was out of the room...as she ran, her named badge jangled
     ... she closed the door with her back and slid down, collapsed and
-    sobbed against it.\" (105)
+    sobbed against it.\" (105) AI AI
 -   \"She pressed her eyes into her knees and bursts of purple, black,
     green, and pink splotches bloomed there, behind her eyes, then
     slowly formed into images, then memories. She saw the big hole
-    first. Then her daughter\'s emaciated body.\" (105)
+    first. Then her daughter\'s emaciated body.\" (105) AJ AJ
 -   \"The trister spider, Veho, her mom used to used to tell her and
     Opah about, he was always stealing eyes to see better ... the white
     man who came and made the old world watch with his eyes ... Until
     your eyes are drained and you can\'t see behind you and there\'s
     nothnig ahead, and the nedele, the bottle, or the pipe is the only
-    thing in sight that makes any sense.\" (106)
+    thing in sight that makes any sense.\" (106) AK AK
 -   \"She wanted a drink. She wanted to drink. She needed a
-    meeting.\" (107)
+    meeting.\" (107) AL AL
 -   \"She put a cough drop into her mouth so casually that you could
     tell she probably ate a lot of cough drops and smoked a lot of
     cigaretts, and never quite beat the caugh, but beat it enough while
-    she was sucking on a cough drop, so ate them constantly\" (109)
+    she was sucking on a cough drop, so ate them constantly\" (109) AM
+    AM
 -   \"There\'s an ache when you keep yourself from breathing. A relief
     when you come up for air. It was the same when you drank after
     telling yourself you wouldn\'t. Both broke at a point. Both gave and
-    took.\" (116)
+    took.\" (116) AN AN
 -   \"Drinking had never been fun. It was kind of a solemn duty. It took
     the edge off, and it allowed her to say and do whatever she wanted
-    without feeling bad about it.\" (152)
+    without feeling bad about it.\" (152) AO AO
 -   \"If she\'d ever found spider legs in her leg, she probably would
     have ended it right there and then. She sudden feels so overwhelmed
     by all of it that she gets tired ... She feels grateful when it
-    does, because most of the time her thoughts keep her up.\" (154)
+    does, because most of the time her thoughts keep her up.\" (154) AP
+    AP
 -   \"Jaquie looks down at Orvil. Her arms are shaking. Loother comes
     over and puts an arm around Jaquie ... \'He\'s white,\' Loother
-    says.\" (280)
+    says.\" (280) AQ AQ
 -   \"She should watch the sunrise. How long had it been since she\'d
     done that? Instead she closes the curtains and turns on the
-    TV\" (254)
+    TV\" (254) AR AR
 
 ## Quote Development
 

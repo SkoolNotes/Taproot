@@ -62,15 +62,43 @@ but [jefferson] did share fletcher's distrust of men who were free in the name w
 - problem: freeing slaves -> half a mil "idle poor"
 	- the idea: slaves were acustomed to compulsory labor and would not work withough it
 - jefferson wanted to teach his slaves as part of his plan for freeing them
-- 
+
+- cimarrons and stuff, 
+	- they didn't like the spanish, teamed with peopled
+	- robbed em
+	
+-  virginia made englishmen out of all kinds of people?
+	-  natives had all the rights of others
+		-  slave or not?
+- virginia actully killed alot of the people when went there
+	- via disease
+- market was not going well
+- virginia kept inheriting immigrants
+- described as "a sinke to drayen England of her filth and scum"
+- rebelion happened!
+- virginia inhereted englands social problem
+	- solution: restrict liberties of those who did not have the proper badge of freedom
+- then, laws set in place to allow people to keep their servants for as long as possible
+- 1670, voting was limited to landholers and housholders
+- solution put an end to the process of turning natives into englishmen?
+	- the rights of the enlglismen were preserved buy destroing the rights of the africans
+	
+- slavery "came" to virginia unthinkingly
+	- people just bought the cheapest option
+	- laws were passed to discriminate
+	- 
+
+- argues that all the good came out of slavery
+
+```ad-qoute
+thus began the american paradox of slavery and freedon, intertwined and interdependent, right rights of englishmen supported on the wrongs of Africans. 
+```
 
 
 
 
 
-
-
-
+#review the end... unclear on it
 
 
 

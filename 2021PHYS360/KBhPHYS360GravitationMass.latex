@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18368)}}    % original
-%\rhead{\textrmlf{Compiled }\#18368\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18369)}}    % original
+%\rhead{\textrmlf{Compiled }\#18369\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -433,6 +433,8 @@ that the center of mass of this object is located at point
 \((-0.7, 2.3, 2.8)\).
 
 This center of mass is then plotted visually in
+\href{https://www.geogebra.org/calculator/mcbexbqm}{an interactive
+GeoGebra graph}. A render of which is shown below:
 
 \includegraphics{Calculating_the_Center_of_Mass/2021-09-02_21-52-06_screenshot.png}
 

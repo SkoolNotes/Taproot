@@ -221,7 +221,9 @@ target="*Finding an Expression for the Position of the Center of Mass"},
 we deduct that the center of mass of this object is located at point
 $(-0.7, 2.3, 2.8)$.
 
-This center of mass is then plotted visually in
+This center of mass is then plotted visually in [an interactive GeoGebra
+graph](https://www.geogebra.org/calculator/mcbexbqm). A render of which
+is shown below:
 
 ```{=org}
 #+DOWNLOADED: screenshot @ 2021-09-02 21:52:06
