@@ -13,5 +13,6 @@ source:  #index
 [[KBxGroupAndMatricesIntro]]
 [[KBxChapter1aReview]]
 [[KBxFirstTestReview]]
+[[KBxChapter1B]]
 
 

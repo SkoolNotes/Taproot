@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ MATH530 }
-\newcommand{\thelesson}{ Linear Algebra Master Index }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Mi Palabra Favorita }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18418)}}    % original
-%\rhead{\textrmlf{Compiled }\#18418\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18432)}}    % original
+%\rhead{\textrmlf{Compiled }\#18432\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,12 +210,6 @@
 
 % DID YOU SET SPELL????
 
-\#ref
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-{[}{[}KBxLInAlgDayTwo{]}{]} {[}{[}KBxGroupAndMatricesIntro{]}{]}
-{[}{[}KBxChapter1aReview{]}{]} {[}{[}KBxFirstTestReview{]}{]}
-{[}{[}KBxChapter1B{]}{]}
+Mi palabra favorita es posiblemente la palabra "reto".
 
 \end{document}

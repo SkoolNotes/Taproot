@@ -42,30 +42,30 @@ One of...
 -   \"For how many years had there been federally funded programs trying
     to prevent suicide with billboards and hotlines? It was no wonder it
     was getting worse. You can\'t sell life is OK when its not.\" (98)
-    AA AA => system rejects suicidal pain
+    AA AA => the system rejects suicidal pain
 -   \"Jacquie\'s last relapse had not left burn holes in her life...She
     was sober again, and ten days is the same as a year when you want to
     drink all the time.\" (99) AB AB => drinking as a form of slowing
     time
 -   \"But home for Jaquie and her sister was a locked station wagon in
-    an empty parking lot. Home was a long ride on a bus.\" (99) AC AC =>
-    lack of static location of belonging
--   \"The night was cool but didn\'t move\" (100) AD AD => pain as a
-    pressure
--   \"Mostly she just wanted to be in the water. To go under and open
-    her eyes, look at her hands, watch the bubbles rise in that bluest
-    light.\" (100) AF AF
+    an empty parking lot. Home was a long ride on a bus....Home was the
+    three of them anywhere safe for the night.\" (99) AC AC => lack of
+    static location of belonging and identity based on movement
+-   \"The night air was cool but didn\'t move\" (100) AD AD => pain as a
+    pressure manifest in the atmosphere holding Jaquie down
+-   \"She didn't know how to swim. Mostly she just wanted to be in the
+    water ... Mostly she just wanted to be in the water. To go under and
+    open her eyes, look at her hands, watch the bubbles rise in that
+    bluest light.\" (100) AF AF => unlike the atmosphere, water moves
+    (bubles rise) but Jaquie can\'t swim
 -   \"In this case Jaquie was the spider, and the minifridge was the
-    web. Home was to drink. To drink was the trap.\" (101) AG AG
--   \"The first speaker, a man who looked like he might be more
-    comfortable on a street corner than a conference.\" (103) AH AH
--   \"Jaquie was out of the room...as she ran, her named badge jangled
-    ... she closed the door with her back and slid down, collapsed and
-    sobbed against it.\" (105) AI AI
+    web. Home was to drink. To drink was the trap.\" (101) AG AG => home
+    is a trap, belonging is a trap
 -   \"She pressed her eyes into her knees and bursts of purple, black,
     green, and pink splotches bloomed there, behind her eyes, then
     slowly formed into images, then memories. She saw the big hole
-    first. Then her daughter\'s emaciated body.\" (105) AJ AJ
+    first. Then her daughter\'s emaciated body.\" (105) AJ AJ =>
+    memories
 -   \"The trister spider, Veho, her mom used to used to tell her and
     Opah about, he was always stealing eyes to see better ... the white
     man who came and made the old world watch with his eyes ... Until
