@@ -23,24 +23,50 @@ two point masses; $G$ the universal gravitation constant; $r$ the
 magnitude of the vector $\vec{r}$ from $M_1$ to $M_2$ and $\hat{r}$ the
 unit vector in the $\vec{r}$ direction.
 
-Also, introduce the following variables:
-
--   $M_e$ for the mass of the Earth
--   $g$ for the acceleration of gravity on the surface of the Earth
-
 ## Equation for Gravitational Potential Energy
+
+### Needed Definitions
+
+To begin, we need to modify the [*Newton\'s Universal Gravitation
+Law*]{.spurious-link target="*Newton's Universal Gravitation Law"} to
+fit the parameters of the scenario. Namely, we need to treat both Earth
+and our object as point masses, and assign $M_1$ to be Earth and $M_2$
+to be our object.
+
+Also, it is necessary to define the coordinate system: that our object,
+$M_2$, is defined to be to the *left///more negative* side of the
+coordinate compared to the location occupied by the Earth, $M_e=M_1$
+(as, per the problem, the \"zero\" point is set at $r = \infty$.)
+
+With this assumption, we could therefore claim $\vec{r}$ to be pointing
+from the origin to the *negative* side of the axis, rendering it
+represented by the value $-1$ for this system.
+
+Hence, with the necessary variable substitutions as highlighted before,
+we arrive at the following equation:
+
+```{=latex}
+\begin{equation}
+\vec{F_{em}}(r) = \frac{GM_eM_2}{r^2}
+\end{equation}
+```
+### Deducing Gravitational Potential energy
 
 The general equation for work is as follows:
 
 ```{=latex}
 \begin{equation}
-W = \frac{dF}{dx} dx
+W = F(x) dx
 \end{equation}
 ```
-To begin, we need to modify the [*Newton\'s Universal Gravitation
-Law*]{.spurious-link target="*Newton's Universal Gravitation Law"} to
-fit the parameters of the senario. Namely, we need to treat both Earth
-and our object as point masses, and assign $M_1$ to be Earth and $M_2$
-to be our object.
+In this case, as we will be deducing the total gravitational potential
+energy as per the setup above, we need to be integrating upon
+$\vec{F_{em}}(r) dr$. Hence, the integral --- with bounds $[0,\infty]$
+--- is therefore:
 
-Also, it is necessary to define the coordinate system: th
+```{=latex}
+\begin{equation}
+W = \int_0^\infty{\frac{GM_eM_2}{r^2} dr}
+\end{equation}
+```
+Determining the total energy

@@ -75,16 +75,19 @@ html {
             <h2 id="newtons-universal-gravitation-law">Newton’s Universal Gravitation Law</h2>
             <p><span class="math display">\[\vec{F_g} = - \frac{GM_1M_2}{r^2} \hat{r}\]</span></p>
             <p>where, <span class="math inline">\(\vec{F_g}\)</span> is the force of gravity on <span class="math inline">\(M_2\)</span>; <span class="math inline">\(M_1\)</span> and <span class="math inline">\(M_2\)</span> are two point masses; <span class="math inline">\(G\)</span> the universal gravitation constant; <span class="math inline">\(r\)</span> the magnitude of the vector <span class="math inline">\(\vec{r}\)</span> from <span class="math inline">\(M_1\)</span> to <span class="math inline">\(M_2\)</span> and <span class="math inline">\(\hat{r}\)</span> the unit vector in the <span class="math inline">\(\vec{r}\)</span> direction.</p>
-            <p>Also, introduce the following variables:</p>
-            <ul>
-            <li><p><span class="math inline">\(M_e\)</span> for the mass of the Earth</p></li>
-            <li><p><span class="math inline">\(g\)</span> for the acceleration of gravity on the surface of the Earth</p></li>
-            </ul>
             <h2 id="equation-for-gravitational-potential-energy">Equation for Gravitational Potential Energy</h2>
+            <h3 id="needed-definitions">Needed Definitions</h3>
+            <p>To begin, we need to modify the <span><em>Newton’s Universal Gravitation Law</em></span> to fit the parameters of the scenario. Namely, we need to treat both Earth and our object as point masses, and assign <span class="math inline">\(M_1\)</span> to be Earth and <span class="math inline">\(M_2\)</span> to be our object.</p>
+            <p>Also, it is necessary to define the coordinate system: that our object, <span class="math inline">\(M_2\)</span>, is defined to be to the <em>left///more negative</em> side of the coordinate compared to the location occupied by the Earth, <span class="math inline">\(M_e=M_1\)</span> (as, per the problem, the "zero" point is set at <span class="math inline">\(r = \infty\)</span>.)</p>
+            <p>With this assumption, we could therefore claim <span class="math inline">\(\vec{r}\)</span> to be pointing from the origin to the <em>negative</em> side of the axis, rendering it represented by the value <span class="math inline">\(-1\)</span> for this system.</p>
+            <p>Hence, with the necessary variable substitutions as highlighted before, we arrive at the following equation:</p>
+            <p><span class="math display">\[\vec{F_{em}}(r) = \frac{GM_eM_2}{r^2}\]</span></p>
+            <h3 id="deducing-gravitational-potential-energy">Deducing Gravitational Potential energy</h3>
             <p>The general equation for work is as follows:</p>
-            <p><span class="math display">\[W = \frac{dF}{dx} dx\]</span></p>
-            <p>To begin, we need to modify the <span><em>Newton’s Universal Gravitation Law</em></span> to fit the parameters of the senario. Namely, we need to treat both Earth and our object as point masses, and assign <span class="math inline">\(M_1\)</span> to be Earth and <span class="math inline">\(M_2\)</span> to be our object.</p>
-            <p>Also, it is necessary to define the coordinate system: th</p>
+            <p><span class="math display">\[W = F(x) dx\]</span></p>
+            <p>In this case, as we will be deducing the total gravitational potential energy as per the setup above, we need to be integrating upon <span class="math inline">\(\vec{F_{em}}(r) dr\)</span>. Hence, the integral — with bounds <span class="math inline">\([0,\infty]\)</span> — is therefore:</p>
+            <p><span class="math display">\[W = \int_0^\infty{\frac{GM_eM_2}{r^2} dr}\]</span></p>
+            <p>Determining the total energy</p>
         </div>
 
         <script>
