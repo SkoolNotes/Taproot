@@ -111,8 +111,44 @@ of isolating $\vec{V}$, the velocity vector.
 
 ```{=latex}
 \begin{align}
--\frac{1}{2}M_2 \vec{V}^2 &=& \frac{-GM_eM_2}{R_e}
-\vec{V}^2 &=& 2*\frac{GM_e}{R_e}
-\vec{V}^2 &=& 2*\frac{GM_e}{R_e}
+-\frac{1}{2}M_2 \vec{V}^2 &=& \frac{-GM_eM_2}{R_e} \\
+\vec{V}^2 &=& 2\frac{GM_e}{R_e} \\
+\vec{V} &=& \sqrt{2\frac{GM_e}{R_e}} 
 \end{align}
 ```
+### Calculating Escape Velocity
+
+Taking $G = 6.674 \times 10^{-11} m^3 \frac{m^3}{kg\ s^2}$,
+$M_e = 5.97 \times 10^{24} kg$, and $R_e = 6.371 \times 10^6 km$...
+
+```{=latex}
+\begin{equation}
+|\vec{V}| \approx 1.119 \times 10^4 \frac{m}{s} = 2.503 \times 10^4 \frac{M}{h}
+\end{equation}
+```
+# Center of Mass
+
+## Finding an Function for the Position of Center of Mass
+
+The net force of the system is described as:
+
+```{=latex}
+\begin{equation}
+\sum^n_{i=1} \vec{F_{net,i}} = (\sum^n_{i=1} m_i) \ddot{\vec{r_{CM}}}
+\end{equation}
+```
+where, $\vec{F_{net,i}}$ is the net force on $m_i$, $\vec{r_{CM}}$ the
+position vector of the center of mass $CM$.
+
+In order to isolate $\vec{r_{CM}}$, the equation above must be
+integrated twice w.r.t. time, namely:
+
+```{=latex}
+\begin{equation}
+\int \sum^n_{i=1} \vec{F_{net,i}} dt = \int (\sum^n_{i=1} m_i) \ddot{\vec{r_{CM}}} dt
+\end{equation}
+```
+For this evaluation, we will also set $\sum^n_{i=1} m_i = M$ while
+applying Newton\'s second law.
+
+\\

@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18240)}}    % original
-%\rhead{\textrmlf{Compiled }\#18240\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18272)}}    % original
+%\rhead{\textrmlf{Compiled }\#18272\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -316,9 +316,49 @@ The final calculations after substitution is therefore simply a matter
 of isolating \(\vec{V}\), the velocity vector.
 
 \begin{align}
--\frac{1}{2}M_2 \vec{V}^2 &=& \frac{-GM_eM_2}{R_e}
-\vec{V}^2 &=& 2*\frac{GM_e}{R_e}
-\vec{V}^2 &=& 2*\frac{GM_e}{R_e}
+-\frac{1}{2}M_2 \vec{V}^2 &=& \frac{-GM_eM_2}{R_e} \\
+\vec{V}^2 &=& 2\frac{GM_e}{R_e} \\
+\vec{V} &=& \sqrt{2\frac{GM_e}{R_e}} 
 \end{align}
+
+\hypertarget{calculating-escape-velocity}{%
+\subsubsection{Calculating Escape
+Velocity}\label{calculating-escape-velocity}}
+
+Taking \(G = 6.674 \times 10^{-11} m^3 \frac{m^3}{kg\ s^2}\),
+\(M_e = 5.97 \times 10^{24} kg\), and
+\(R_e = 6.371 \times 10^6 km\)\ldots{}
+
+\begin{equation}
+|\vec{V}| \approx 1.119 \times 10^4 \frac{m}{s} = 2.503 \times 10^4 \frac{M}{h}
+\end{equation}
+
+\hypertarget{center-of-mass}{%
+\section{Center of Mass}\label{center-of-mass}}
+
+\hypertarget{finding-an-function-for-the-position-of-center-of-mass}{%
+\subsection{Finding an Function for the Position of Center of
+Mass}\label{finding-an-function-for-the-position-of-center-of-mass}}
+
+The net force of the system is described as:
+
+\begin{equation}
+\sum^n_{i=1} \vec{F_{net,i}} = (\sum^n_{i=1} m_i) \ddot{\vec{r_{CM}}}
+\end{equation}
+
+where, \(\vec{F_{net,i}}\) is the net force on \(m_i\), \(\vec{r_{CM}}\)
+the position vector of the center of mass \(CM\).
+
+In order to isolate \(\vec{r_{CM}}\), the equation above must be
+integrated twice w.r.t. time, namely:
+
+\begin{equation}
+\int \sum^n_{i=1} \vec{F_{net,i}} dt = \int (\sum^n_{i=1} m_i) \ddot{\vec{r_{CM}}} dt
+\end{equation}
+
+For this evaluation, we will also set \(\sum^n_{i=1} m_i = M\) while
+applying Newton's second law.
+
+\textbackslash{}
 
 \end{document}
