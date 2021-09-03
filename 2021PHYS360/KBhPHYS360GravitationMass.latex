@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18206)}}    % original
-%\rhead{\textrmlf{Compiled }\#18206\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18240)}}    % original
+%\rhead{\textrmlf{Compiled }\#18240\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -240,7 +240,7 @@ both Earth and our object as point masses, and assign \(M_1\) to be
 Earth and \(M_2\) to be our object.
 
 Also, it is necessary to define the coordinate system: that our object,
-\(M_2\), is defined to be to the \emph{left///more negative} side of the
+\(M_2\), is defined to be to the left/more negative side of the
 coordinate compared to the location occupied by the Earth, \(M_e=M_1\)
 (as, per the problem, the "zero" point is set at \(r = \infty\).)
 
@@ -267,13 +267,58 @@ W = F(x) dx
 
 In this case, as we will be deducing the total gravitational potential
 energy as per the setup above, we need to be integrating upon
-\(\vec{F_{em}}(r) dr\). Hence, the integral --- with bounds
-\([0,\infty]\) --- is therefore:
+\(\vec{F_{em}}(r) dr\). Hence, the integral is therefore:
 
 \begin{equation}
-W = \int_0^\infty{\frac{GM_eM_2}{r^2} dr}
+W = \int{\frac{GM_eM_2}{r^2} dr}
 \end{equation}
 
-Determining the total energy
+Determining the total gravitation potential energy will therefore
+involve evaluating the integral:
+
+\begin{eqnarray}
+W &=& \int{\frac{GM_eM_2}{r^2} dr} \\
+W &=& GM_eM_2 \int{\frac{1}{r^2} dr} \\
+W &=& GM_eM_2 \int{r^{-2} dr} \\
+W &=& \frac{-GM_eM_2}{r}
+\end{eqnarray}
+
+\hypertarget{escape-velocity}{%
+\subsection{Escape Velocity}\label{escape-velocity}}
+
+To deduct the escape velocity of the Earth, our object \(M_2\) must do
+enough work such that the work Earth exerts upon it --- {\emph{as
+deducted above}} --- is canceled out.
+
+\hypertarget{calculation-setup}{%
+\subsubsection{Calculation Setup}\label{calculation-setup}}
+
+Hence, to figure the escape velocity, we must deduct the kinetic energy
+needed to perform the exact work deducted above in the opposite
+direction. That,
+
+\begin{equation}
+-\frac{1}{2}M_2 \vec{V}^2 = \frac{-GM_eM_2}{r}
+\end{equation}
+
+Notably, the negative sign before the kinetic energy equation
+corresponds to the fact that the work is done in an opposite direction
+as that done by Earth's gravitational potential energy.
+
+Also, as the object to escape Earth's gravitation is starting at the
+surface of Earth, \(r = R_e\), the radius of the earth.
+
+\hypertarget{deducing-escape-velocity}{%
+\subsubsection{Deducing Escape
+Velocity}\label{deducing-escape-velocity}}
+
+The final calculations after substitution is therefore simply a matter
+of isolating \(\vec{V}\), the velocity vector.
+
+\begin{align}
+-\frac{1}{2}M_2 \vec{V}^2 &=& \frac{-GM_eM_2}{R_e}
+\vec{V}^2 &=& 2*\frac{GM_e}{R_e}
+\vec{V}^2 &=& 2*\frac{GM_e}{R_e}
+\end{align}
 
 \end{document}

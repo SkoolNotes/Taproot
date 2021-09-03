@@ -78,16 +78,34 @@ html {
             <h2 id="equation-for-gravitational-potential-energy">Equation for Gravitational Potential Energy</h2>
             <h3 id="needed-definitions">Needed Definitions</h3>
             <p>To begin, we need to modify the <span><em>Newton’s Universal Gravitation Law</em></span> to fit the parameters of the scenario. Namely, we need to treat both Earth and our object as point masses, and assign <span class="math inline">\(M_1\)</span> to be Earth and <span class="math inline">\(M_2\)</span> to be our object.</p>
-            <p>Also, it is necessary to define the coordinate system: that our object, <span class="math inline">\(M_2\)</span>, is defined to be to the <em>left///more negative</em> side of the coordinate compared to the location occupied by the Earth, <span class="math inline">\(M_e=M_1\)</span> (as, per the problem, the "zero" point is set at <span class="math inline">\(r = \infty\)</span>.)</p>
+            <p>Also, it is necessary to define the coordinate system: that our object, <span class="math inline">\(M_2\)</span>, is defined to be to the left/more negative side of the coordinate compared to the location occupied by the Earth, <span class="math inline">\(M_e=M_1\)</span> (as, per the problem, the "zero" point is set at <span class="math inline">\(r = \infty\)</span>.)</p>
             <p>With this assumption, we could therefore claim <span class="math inline">\(\vec{r}\)</span> to be pointing from the origin to the <em>negative</em> side of the axis, rendering it represented by the value <span class="math inline">\(-1\)</span> for this system.</p>
             <p>Hence, with the necessary variable substitutions as highlighted before, we arrive at the following equation:</p>
             <p><span class="math display">\[\vec{F_{em}}(r) = \frac{GM_eM_2}{r^2}\]</span></p>
             <h3 id="deducing-gravitational-potential-energy">Deducing Gravitational Potential energy</h3>
             <p>The general equation for work is as follows:</p>
             <p><span class="math display">\[W = F(x) dx\]</span></p>
-            <p>In this case, as we will be deducing the total gravitational potential energy as per the setup above, we need to be integrating upon <span class="math inline">\(\vec{F_{em}}(r) dr\)</span>. Hence, the integral — with bounds <span class="math inline">\([0,\infty]\)</span> — is therefore:</p>
-            <p><span class="math display">\[W = \int_0^\infty{\frac{GM_eM_2}{r^2} dr}\]</span></p>
-            <p>Determining the total energy</p>
+            <p>In this case, as we will be deducing the total gravitational potential energy as per the setup above, we need to be integrating upon <span class="math inline">\(\vec{F_{em}}(r) dr\)</span>. Hence, the integral is therefore:</p>
+            <p><span class="math display">\[W = \int{\frac{GM_eM_2}{r^2} dr}\]</span></p>
+            <p>Determining the total gravitation potential energy will therefore involve evaluating the integral:</p>
+            <p><span class="math display">\[\begin{aligned}
+            W &amp;=&amp; \int{\frac{GM_eM_2}{r^2} dr} \\
+            W &amp;=&amp; GM_eM_2 \int{\frac{1}{r^2} dr} \\
+            W &amp;=&amp; GM_eM_2 \int{r^{-2} dr} \\
+            W &amp;=&amp; \frac{-GM_eM_2}{r}\end{aligned}\]</span></p>
+            <h2 id="escape-velocity">Escape Velocity</h2>
+            <p>To deduct the escape velocity of the Earth, our object <span class="math inline">\(M_2\)</span> must do enough work such that the work Earth exerts upon it — <span><em>as deducted above</em></span> — is canceled out.</p>
+            <h3 id="calculation-setup">Calculation Setup</h3>
+            <p>Hence, to figure the escape velocity, we must deduct the kinetic energy needed to perform the exact work deducted above in the opposite direction. That,</p>
+            <p><span class="math display">\[-\frac{1}{2}M_2 \vec{V}^2 = \frac{-GM_eM_2}{r}\]</span></p>
+            <p>Notably, the negative sign before the kinetic energy equation corresponds to the fact that the work is done in an opposite direction as that done by Earth’s gravitational potential energy.</p>
+            <p>Also, as the object to escape Earth’s gravitation is starting at the surface of Earth, <span class="math inline">\(r = R_e\)</span>, the radius of the earth.</p>
+            <h3 id="deducing-escape-velocity">Deducing Escape Velocity</h3>
+            <p>The final calculations after substitution is therefore simply a matter of isolating <span class="math inline">\(\vec{V}\)</span>, the velocity vector.</p>
+            <p><span class="math display">\[\begin{aligned}
+            -\frac{1}{2}M_2 \vec{V}^2 &amp;=&amp; \frac{-GM_eM_2}{R_e}
+            \vec{V}^2 &amp;=&amp; 2*\frac{GM_e}{R_e}
+            \vec{V}^2 &amp;=&amp; 2*\frac{GM_e}{R_e}\end{aligned}\]</span></p>
         </div>
 
         <script>
