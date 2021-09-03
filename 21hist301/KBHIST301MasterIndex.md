@@ -9,6 +9,7 @@ context: HIST301
 - [[KBx1619ProjectTookOver2020]]
 - [[KBxNotesonHannahJones]]
 - [[KBxIndigenousPeoplesHistoftheUS]]
+- [[KBxIndigenousPeoplesHistoftheUSNotes]]
 
 Barry!
 - [[KBhHIST301Lenses]]

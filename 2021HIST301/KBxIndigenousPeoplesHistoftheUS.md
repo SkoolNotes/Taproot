@@ -15,10 +15,10 @@ source:  #2021HIST301/KBHIST301MasterIndex
 Author: historian, read a lot of stuff, said that none of them gave him the perspective he got from experience
 had a rough childhood
 
+
 ```ad-qoute
 *We are here to educate, not forgive. We are here to enlighten, not accuse.* - Willie Johns
 ```
-
 
 - people did bad things
 	- learning and knowing the hist is "both a nessesity and a responsibility to the ancestors and descendatns of all parties."
@@ -35,7 +35,7 @@ had a rough childhood
 	- wait isnt that how land works?
 
 ```ad-def
-**Man·i·fest Des·ti·ny**
+**Man·i·fest Des·tin·y**
 
 _noun_
 

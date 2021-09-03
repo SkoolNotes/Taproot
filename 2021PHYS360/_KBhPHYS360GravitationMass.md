@@ -20,12 +20,12 @@ title: Gravitational Potential and Center of Mass
 ```
 where, $\vec{F_g}$ is the force of gravity on $M_2$; $M_1$ and $M_2$ are
 two point masses; $G$ the universal gravitation constant; $r$ the
-magnitude of the vector from $M_1$ to $M_2$ and $\hat{r}$ the unit
-vector in the $\vec{r}$ direction.
+magnitude of the vector $\vec{r}$ from $M_1$ to $M_2$ and $\hat{r}$ the
+unit vector in the $\vec{r}$ direction.
 
 Also, introduce the following variables:
 
--   $M_e$ for the mass of the earth
+-   $M_e$ for the mass of the Earth
 -   $g$ for the acceleration of gravity on the surface of the Earth
 
 ## Equation for Gravitational Potential Energy
@@ -37,5 +37,10 @@ The general equation for work is as follows:
 W = \frac{dF}{dx} dx
 \end{equation}
 ```
-The total gravitational potential energy induced by performing work to
-move the object from
+To begin, we need to modify the [*Newton\'s Universal Gravitation
+Law*]{.spurious-link target="*Newton's Universal Gravitation Law"} to
+fit the parameters of the senario. Namely, we need to treat both Earth
+and our object as point masses, and assign $M_1$ to be Earth and $M_2$
+to be our object.
+
+Also, it is necessary to define the coordinate system: th

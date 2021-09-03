@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ HIST301 }
-\newcommand{\thelesson}{ Hannah Jones Notes }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16898)}}    % original
-%\rhead{\textrmlf{Compiled }\#16898\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18145)}}    % original
+%\rhead{\textrmlf{Compiled }\#18145\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,8 +209,16 @@
 \begin{document}
 
 % DID YOU SET SPELL????
-\textbf{Source}:\thinspace
-{\href{http://taproot.shabang.cf/relay?request=KBHIST301MasterIndex}{\tiny\textulf{[[}\textbf{KBHIST301MasterIndex}\textulf{]]}}}\thinspace
+
+\begin{longtable}[]{@{}l@{}}
+\toprule
+\endhead
+title: Hannah Jones Notes \\
+context: HIST301 \\
+author: Huxley Marvit \\
+source: KBHIST301MasterIndex \\
+\bottomrule
+\end{longtable}
 
 \#flo \#ref \#disorganized \#annote
 
