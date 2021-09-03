@@ -204,3 +204,32 @@ to:
 ```
 by applying $\sum^n_{i=1} m_i = M$ as per aforementioned and the
 external forces argument above.
+
+# Calculating the Center of Mass
+
+For an system with the following points, calculate its center of mass:
+
+  Component Vector   Mass
+  ------------------ ------
+  (1,-4,1)           1kg
+  (-3,-2,6)          2kg
+  (2,5,-3)           3kg
+  (-2,4,6)           4kg
+
+Applying the expression for the center of mass [*above*]{.spurious-link
+target="*Finding an Expression for the Position of the Center of Mass"},
+we deduct that the center of mass of this object is located at point
+$(-0.7, 2.3, 2.8)$.
+
+This center of mass is then plotted visually in
+
+```{=org}
+#+DOWNLOADED: screenshot @ 2021-09-02 21:52:06
+```
+```{=org}
+#+ATTR_HTML: width="500px"
+```
+```{=org}
+#+ATTR_ORG: :width 500
+```
+![](Calculating_the_Center_of_Mass/2021-09-02_21-52-06_screenshot.png)

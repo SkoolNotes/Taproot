@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18334)}}    % original
-%\rhead{\textrmlf{Compiled }\#18334\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18368)}}    % original
+%\rhead{\textrmlf{Compiled }\#18368\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -409,5 +409,31 @@ to:
 
 by applying \(\sum^n_{i=1} m_i = M\) as per aforementioned and the
 external forces argument above.
+
+\hypertarget{calculating-the-center-of-mass}{%
+\section{Calculating the Center of
+Mass}\label{calculating-the-center-of-mass}}
+
+For an system with the following points, calculate its center of mass:
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+Component Vector & Mass \\
+\midrule
+\endhead
+(1,-4,1) & 1kg \\
+(-3,-2,6) & 2kg \\
+(2,5,-3) & 3kg \\
+(-2,4,6) & 4kg \\
+\bottomrule
+\end{longtable}
+
+Applying the expression for the center of mass {\emph{above}}, we deduct
+that the center of mass of this object is located at point
+\((-0.7, 2.3, 2.8)\).
+
+This center of mass is then plotted visually in
+
+\includegraphics{Calculating_the_Center_of_Mass/2021-09-02_21-52-06_screenshot.png}
 
 \end{document}

@@ -25,7 +25,52 @@ free ships make free goods
 
 - cardinal doctrine
 	- goods were produced by slave labor
+	
+```ad-important
+"americans bought their indepenndence with slave labor"
+```
+
+- racism, liberty only applies to light skinned people, but doesn't fully account for the paradox? 
+- "the man who depended on another for his living could never be truly free"
+- jefferson
+	- hated debt
+		- becuase it limiteed his freedom of action
+		- he could not free his slaves as long as he was in debt
+```ad-comment
+his animosity towards hamilton was because of hamiltons pro-British foreign policy, which would tighten the hold of british creditors 
+and his domestic policy, which would place the government in the debt of native american creditors 
+```
+- jeffery, jeffery ison
+	- almost obsessive about debt
+	- country of debtors was ripe for tyranny
+	- the citizens of a republic must be free from the control of other men and that they could be free only if they were econollically free 
+		- by virtue of owning land on which to support themselves
+	- didn't like artificers!
+- people belived that people in the dregs of society arrived at that position through their own vice and misconduct
+- andrew fletcher
+	- big libery guy, also big slave guy
+	- didnt like the church for setting up hospitals cus it permitted the non working man to live
+	- all the non-working men were proposed to be maid into to slaves to men of property 
+	- argues that it is in the masters best intrest to treat slaves well, unless slaves are behaving poorly
+		- jesus...
+		
+```ad-qoute
+but [jefferson] did share fletcher's distrust of men who were free in the name while their empty bellies made them thieves
+```
+- made them slaves to anybody who would feem them?
+- jefferson did not want the "idle poor" to be reduced to slavery
+- problem: freeing slaves -> half a mil "idle poor"
+	- the idea: slaves were acustomed to compulsory labor and would not work withough it
+- jefferson wanted to teach his slaves as part of his plan for freeing them
 - 
+
+
+
+
+
+
+
+
 
 
 
