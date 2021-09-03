@@ -103,9 +103,9 @@ html {
             <h3 id="deducing-escape-velocity">Deducing Escape Velocity</h3>
             <p>The final calculations after substitution is therefore simply a matter of isolating <span class="math inline">\(\vec{V}\)</span>, the velocity vector.</p>
             <p><span class="math display">\[\begin{aligned}
-            -\frac{1}{2}M_2 \vec{V}^2 &amp;=&amp; \frac{-GM_eM_2}{R_e} \\
-            \vec{V}^2 &amp;=&amp; 2\frac{GM_e}{R_e} \\
-            \vec{V} &amp;=&amp; \sqrt{2\frac{GM_e}{R_e}} \end{aligned}\]</span></p>
+            -\frac{1}{2}M_2 \vec{V}^2 &amp;= \frac{-GM_eM_2}{R_e} \\
+            \vec{V}^2 &amp;= 2\frac{GM_e}{R_e} \\
+            \vec{V} &amp;= \sqrt{2\frac{GM_e}{R_e}} \end{aligned}\]</span></p>
             <h3 id="calculating-escape-velocity">Calculating Escape Velocity</h3>
             <p>Taking <span class="math inline">\(G = 6.674 \times 10^{-11} m^3 \frac{m^3}{kg\ s^2}\)</span>, <span class="math inline">\(M_e = 5.97 \times 10^{24} kg\)</span>, and <span class="math inline">\(R_e = 6.371 \times 10^6 km\)</span>…</p>
             <p><span class="math display">\[|\vec{V}| \approx 1.119 \times 10^4 \frac{m}{s} = 2.503 \times 10^4 \frac{M}{h}\]</span></p>
@@ -115,9 +115,16 @@ html {
             <p><span class="math display">\[\sum^n_{i=1} \vec{F_{net,i}} = (\sum^n_{i=1} m_i) \ddot{\vec{r_{CM}}}\]</span></p>
             <p>where, <span class="math inline">\(\vec{F_{net,i}}\)</span> is the net force on <span class="math inline">\(m_i\)</span>, <span class="math inline">\(\vec{r_{CM}}\)</span> the position vector of the center of mass <span class="math inline">\(CM\)</span>.</p>
             <p>In order to isolate <span class="math inline">\(\vec{r_{CM}}\)</span>, the equation above must be integrated twice w.r.t. time, namely:</p>
-            <p><span class="math display">\[\int \sum^n_{i=1} \vec{F_{net,i}} dt = \int (\sum^n_{i=1} m_i) \ddot{\vec{r_{CM}}} dt\]</span></p>
-            <p>For this evaluation, we will also set <span class="math inline">\(\sum^n_{i=1} m_i = M\)</span> while applying Newton’s second law.</p>
-            <p>\</p>
+            <p><span class="math display">\[\int \int \sum^n_{i=1} \vec{F_{net,i}} dt dt = \int \int (\sum^n_{i=1} m_i) \ddot{\vec{r_{CM}}} dt dt\]</span></p>
+            <p>For this evaluation, we will also set <span class="math inline">\(\sum^n_{i=1} m_i = M\)</span>, define <span class="math inline">\(\vec{a_i}\)</span> as acceleration of <span class="math inline">\(m_i\)</span>, <span class="math inline">\(\vec{r_i}\)</span> as position of <span class="math inline">\(m_i\)</span>, and apply Newton’s second law:</p>
+            <p><span class="math display">\[\begin{aligned}
+            \int \int \sum^n_{i=1} \vec{F_{net,i}} dt dt &amp;= \int \int (\sum^n_{i=1} m_i) \ddot{\vec{r_{CM}}} dt dt \\
+            \int (\sum^n_{i=1} m_i \int \vec{a_i} dt) dt &amp;= \int (M \int \ddot{\vec{r_{CM}}} dt) dt \\
+            \int (\sum^n_{i=1} m_i \int \frac{d^2\vec{r_i}}{dt^2} dt) dt &amp;= \int (M \int \frac{d^2\vec{r_{CM}}}{dt^2} dt) dt \\
+            \int (\sum^n_{i=1} m_i \frac{d\vec{r_i}}{dt}) dt &amp;= \int M \frac{d\vec{r_{CM}}}{dt} dt \\
+            \sum^n_{i=1} m_i \int \frac{d\vec{r_i}}{dt} dt &amp;= M \int \frac{d\vec{r_{CM}}}{dt} dt \\
+            \sum^n_{i=1} m_i \vec{r_i} &amp;= M \vec{r_{CM}} \\
+            \frac{1}{M} \sum^n_{i=1} m_i \vec{r_i} &amp;= \vec{r_{CM}}\end{aligned}\]</span></p>
         </div>
 
         <script>
