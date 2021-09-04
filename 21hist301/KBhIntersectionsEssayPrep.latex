@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ MATH530 }
-\newcommand{\thelesson}{ Chapter 1.B }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Indigenous Intersection Essay Prep }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18620)}}    % original
-%\rhead{\textrmlf{Compiled }\#18620\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18624)}}    % original
+%\rhead{\textrmlf{Compiled }\#18624\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,145 +210,106 @@
 
 % DID YOU SET SPELL????
 
-\#flo \#ref \#hw
+\hypertarget{general-information}{%
+\section{General Information}\label{general-information}}
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Due Date & Topic & Important Documents \\
+\midrule
+\endhead
+????? & Synthesis Essay: Indigenous Intersections & - Facing East \\
+& & - Follow the corn \\
+& & - White's Middle Ground \\
+& & - Atlantic on Mann's 1941 \\
+\bottomrule
+\end{longtable}
 
-\hypertarget{def-of-a-vector-space}{%
-\section{def of a vector space}\label{def-of-a-vector-space}}
+\hypertarget{prompt}{%
+\section{Prompt}\label{prompt}}
+
+\textbf{Indigenous intersections with European culture}
+
+\begin{enumerate}
+\tightlist
+\item
+  What is an idea, theme, or commonality that connects the resources to
+  each other?
+\item
+  What is your own thesis concerning this idea, theme, or commonality?
+\item
+  How can my thesis be supported by evidence from various sources?
+  Revisit your
+\end{enumerate}
+
+sources and notes -- do they support your thesis?
+
+\hypertarget{quotes-processing}{%
+\section{Quotes Processing}\label{quotes-processing}}
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{Props of addition and scalar multiplication in F\^{}N}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    +: comutative, associative, identiy
-
-    \begin{itemize}
-    \tightlist
-    \item
-      every element has an additive inverse
-    \end{itemize}
-  \item
-    *: associative, identity
-  \item
-    addition and scalar multiplication, connected by distributive props
-  \end{itemize}
+  "Only after the establishment of large-scale European colonies---and
+  the much bigger and more predictable patterns of trade they allowed---
+  did Indians begin to use imported goods in ways that resembled the
+  pur- poses for which they had been designed." (Facing 43)
 \item
-  let \emph{V} be a set with an addition and scalar multiplication that
-  satisfy the props,
+  "The news things were \textbf{\textbf{always}} in some practical way
 \end{itemize}
 
-\begin{verbatim}
-**addition, scalar multiplication**
-- addition: assigns an element u+v in V to each pair of elements u, v in V
-- scalar multiplication: lv with l in f and v in V
-\end{verbatim}
+\hypertarget{claim-synthesis}{%
+\section{Claim Synthesis}\label{claim-synthesis}}
 
-\begin{verbatim}
-**vector space**
-is V with addition and SCMUL with:
-
-- commutativitity
-- associativity
-- additive idenitity
-- additive inverse
-- multiplicative identity
-- distibutive properties
-\end{verbatim}
+\hypertarget{development}{%
+\subsection{Development}\label{development}}
 
 \begin{itemize}
 \tightlist
 \item
-  no multiplicative inverse?
+  \emph{Claim}
 
   \begin{itemize}
   \tightlist
   \item
-    is this how you solve the 0 issue?
-  \end{itemize}
-\item
-  vec, point
-
-  \begin{itemize}
-  \tightlist
+    Why does the claim address the prompt?
   \item
-    elements of vec space are called vecs or points
-  \end{itemize}
-\item
-  simplest vec space: \(\{0\}\)
-\item
-  f\^{}infin is the set of all seqencues of elements of F
-
-  \begin{itemize}
-  \tightlist
-  \item
-    additive identity: seqnece of all zeros
-  \end{itemize}
-\item
-  vector space can include a set of functions? not quite..
-
-  \begin{itemize}
-  \tightlist
-  \item
-    let S be a set, and F\^{}S be the set of functions from S to F
-  \item
-    what?? \#review
-  \end{itemize}
-\item
-  let S be the interval {[}0,1{]} and F=R
-
-  \begin{itemize}
-  \tightlist
-  \item
-    R\^{}{[}\textbackslash0, \textbackslash1{]} is the set of real
-    valued function on the interval {[}0,1{]}
-  \item
-    ??
-  \end{itemize}
-\item
-  F\^{}N -\textgreater{} F\^{}\{1,2,\ldots,n\}
-\item
-  F\^{}infin -\textgreater{} F\^{}\{1,2,\ldots\}
-\item
-  vector spaces need unique additive inverse
-
-  \begin{itemize}
-  \tightlist
-  \item
-    0'=0'+0=0+0'=0
+    How does the evidence support the claim?
 
     \begin{itemize}
     \tightlist
     \item
-      nicer than my proof
+      1
+    \item
+      2
+    \item
+      3
     \end{itemize}
-  \end{itemize}
-\item
-  unique additive inverse
-
-  \begin{itemize}
-  \tightlist
   \item
-    w=w+0=w+(v+w')=(w+v)=(w+v)+w'=0+w'=w'
+    So what?
   \end{itemize}
 \end{itemize}
 
-\begin{verbatim}
-V denotes a vector space over F
-\end{verbatim}
+\hypertarget{defluffication}{%
+\section{Defluffication}\label{defluffication}}
 
-\begin{verbatim}
-1. no multiplicative inverse required?
-2. what does the set of functions from S to F mean?
-\end{verbatim}
+\emph{Chosen Thesis Claim}
 
-\hypertarget{exercises}{%
-\subsection{exercises}\label{exercises}}
+\begin{itemize}
+\item
+  Point a
+\item
+  Point b
+\item
+  Point c
 
-homework: {[}{[}KBxSolvingSystems{]}{]}
+  So what? SO WHAT
+
+  \textbf{Restated Claim}
+\end{itemize}
+
+There's always the
+\href{https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf}{UCLA
+Writing Lab}.
 
 \end{document}

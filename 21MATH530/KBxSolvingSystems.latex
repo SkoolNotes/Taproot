@@ -146,7 +146,7 @@
 
 
 \newcommand{\thecourse}{ MATH530 }
-\newcommand{\thelesson}{ Chapter 1.B }
+\newcommand{\thelesson}{ Solving Systems Homework }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18620)}}    % original
-%\rhead{\textrmlf{Compiled }\#18620\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18618)}}    % original
+%\rhead{\textrmlf{Compiled }\#18618\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -210,145 +210,40 @@
 
 % DID YOU SET SPELL????
 
-\#flo \#ref \#hw
+\#ret \#hw
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{def-of-a-vector-space}{%
-\section{def of a vector space}\label{def-of-a-vector-space}}
+\hypertarget{solving-systems}{%
+\section{Solving Systems}\label{solving-systems}}
 
-\begin{itemize}
-\tightlist
-\item
-  \textbf{Props of addition and scalar multiplication in F\^{}N}
+Read 1.B! Have questions. Try a couple exercises. \%\%notes:
+{[}{[}KBxChapter1B{]}{]}\%\%
 
-  \begin{itemize}
-  \tightlist
-  \item
-    +: comutative, associative, identiy
+Also, keep thinking about the group work questions from today:
 
-    \begin{itemize}
-    \tightlist
-    \item
-      every element has an additive inverse
-    \end{itemize}
-  \item
-    *: associative, identity
-  \item
-    addition and scalar multiplication, connected by distributive props
-  \end{itemize}
-\item
-  let \emph{V} be a set with an addition and scalar multiplication that
-  satisfy the props,
-\end{itemize}
+*What is the relationship between cross product and the magnitude of a
+vector?
 
-\begin{verbatim}
-**addition, scalar multiplication**
-- addition: assigns an element u+v in V to each pair of elements u, v in V
-- scalar multiplication: lv with l in f and v in V
-\end{verbatim}
+*How does cosine relate to dot product? Can you prove it? (HINT: think
+about the previous problem and the Law of Cosines.)
 
-\begin{verbatim}
-**vector space**
-is V with addition and SCMUL with:
+*Do your best to solve the following matrix equation using matrix
+multiplications that correspond to row operations for systems,
+specifically multiplying a row by a scalar, adding two rows, and
+swapping the order of rows. You'll have to think about how to do these
+things with matrices! It may help to keep in mind what a SOLVED matrix
+equation looks like (in particular, what does the 3x3 matrix of
+coefficients look like?).
 
-- commutativitity
-- associativity
-- additive idenitity
-- additive inverse
-- multiplicative identity
-- distibutive properties
-\end{verbatim}
+\$
 
-\begin{itemize}
-\tightlist
-\item
-  no multiplicative inverse?
+\begin{bmatrix} 
+    a & b & c \\
+    c & d & d\\
+    e & f & g \\
+    \end{bmatrix}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    is this how you solve the 0 issue?
-  \end{itemize}
-\item
-  vec, point
-
-  \begin{itemize}
-  \tightlist
-  \item
-    elements of vec space are called vecs or points
-  \end{itemize}
-\item
-  simplest vec space: \(\{0\}\)
-\item
-  f\^{}infin is the set of all seqencues of elements of F
-
-  \begin{itemize}
-  \tightlist
-  \item
-    additive identity: seqnece of all zeros
-  \end{itemize}
-\item
-  vector space can include a set of functions? not quite..
-
-  \begin{itemize}
-  \tightlist
-  \item
-    let S be a set, and F\^{}S be the set of functions from S to F
-  \item
-    what?? \#review
-  \end{itemize}
-\item
-  let S be the interval {[}0,1{]} and F=R
-
-  \begin{itemize}
-  \tightlist
-  \item
-    R\^{}{[}\textbackslash0, \textbackslash1{]} is the set of real
-    valued function on the interval {[}0,1{]}
-  \item
-    ??
-  \end{itemize}
-\item
-  F\^{}N -\textgreater{} F\^{}\{1,2,\ldots,n\}
-\item
-  F\^{}infin -\textgreater{} F\^{}\{1,2,\ldots\}
-\item
-  vector spaces need unique additive inverse
-
-  \begin{itemize}
-  \tightlist
-  \item
-    0'=0'+0=0+0'=0
-
-    \begin{itemize}
-    \tightlist
-    \item
-      nicer than my proof
-    \end{itemize}
-  \end{itemize}
-\item
-  unique additive inverse
-
-  \begin{itemize}
-  \tightlist
-  \item
-    w=w+0=w+(v+w')=(w+v)=(w+v)+w'=0+w'=w'
-  \end{itemize}
-\end{itemize}
-
-\begin{verbatim}
-V denotes a vector space over F
-\end{verbatim}
-
-\begin{verbatim}
-1. no multiplicative inverse required?
-2. what does the set of functions from S to F mean?
-\end{verbatim}
-
-\hypertarget{exercises}{%
-\subsection{exercises}\label{exercises}}
-
-homework: {[}{[}KBxSolvingSystems{]}{]}
+\$
 
 \end{document}

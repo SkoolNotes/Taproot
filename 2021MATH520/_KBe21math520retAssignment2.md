@@ -150,10 +150,3 @@ $$\begin{aligned}
   \end{aligned}$$
 
 why should the $\dot x$ in the bottom be cubed?
-
-$$\xcancel{
-  
-  \frac{dy}{dx} = \frac{\frac{dy}{dt}}{\frac{dx}{dt}}\\
-  \frac{d^2y}{dx^2} = \frac{\frac{dx}{dt}\frac{d}{dx}\frac{dy}{dt} - \frac{dy}{dt} \frac{d}{dx}\frac{dx}{dt}}{}
-  
-  }$$

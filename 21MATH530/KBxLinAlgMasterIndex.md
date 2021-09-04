@@ -14,5 +14,6 @@ source:  #index
 [[KBxChapter1aReview]]
 [[KBxFirstTestReview]]
 [[KBxChapter1B]]
+[[KBxSolvingSystems]]
 
 

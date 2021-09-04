@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18496)}}    % original
-%\rhead{\textrmlf{Compiled }\#18496\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18622)}}    % original
+%\rhead{\textrmlf{Compiled }\#18622\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -390,12 +390,5 @@ stuck\ldots{} lets try working backwards:
   \end{aligned}\]
 
 why should the \(\dot x\) in the bottom be cubed?
-
-\[\xcancel{
-  
-  \frac{dy}{dx} = \frac{\frac{dy}{dt}}{\frac{dx}{dt}}\\
-  \frac{d^2y}{dx^2} = \frac{\frac{dx}{dt}\frac{d}{dx}\frac{dy}{dt} - \frac{dy}{dt} \frac{d}{dx}\frac{dx}{dt}}{}
-  
-  }\]
 
 \end{document}
