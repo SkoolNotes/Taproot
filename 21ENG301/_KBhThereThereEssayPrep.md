@@ -29,12 +29,6 @@ One of...
 > narrative is 1st, 2nd, or 3rd person. What effect does the form of
 > narrative have on how we read, understand, know the character?
 
-## Processing the prompt
-
--   Define \"we are\", \"to feel\", \"memories\", and \"remember\"
--   Analyze a character and discuss how they embody/revise/refuse the
-    above
-
 # Quotes Bin
 
 ## Raw Quotes
@@ -80,44 +74,63 @@ One of...
 -   \"She should watch the sunrise. How long had it been since she\'d
     done that? Instead she closes the curtains and turns on the
     TV\" (254) AR
+-   \"If she\'d ever found spider legs in her leg, she probably would
+    have ended it right there and then. She sudden feels so overwhelmed
+    by all of it that she gets tired ... She feels grateful when it
+    does, because most of the time her thoughts keep her up.\" (154) AP
 
 ## Quote Development
 
-### Quote sorting
+### Society\'s drugs dulls pain (No I)
 
-1.  Eyes as bearers of memory
+-   AB => drinking as a form of slowing time
+-   AO => drinking as something dulling and \"solemn\"
+-   AP => Thankful for spent indifference
+-   AR => systemic entertainment by the society (TV) favored by Jaquie
+    over natural beauty
 
-    -   AJ => dark memories as something her body (knee) forced into her
-        mind (eyes)
-    -   AK => the white men draining the eyes (memories?) of natives to
-        include only drugs or alcahol
+### False sense of belonging is dangerous (No we)
 
-2.  Society\'s air creates pressures
+-   AK => the white men draining the eyes (memories?) of natives to
+    include only drugs or alcahol
+-   AJ => dark memories as something her body (knee) forced into her
+    mind (eyes)
+-   AC => lack of static location of belonging and identity based on
+    movement
+-   AG => home is a trap, belonging is a trap
 
-    -   AF => unlike the atmosphere, water moves (bubles rise) but
-        Jaquie can\'t swim
-    -   AD => pain as a pressure manifest in the atmosphere holding
-        Jaquie down
-    -   AN => air as something addictive, that provides temporary relief
-        that also takes something from you
+### Pressures of society holds Jaquie down (No you)
 
-3.  Society\'s drugs dulls pain
+-   AD => pain as a pressure manifest in the atmosphere holding Jaquie
+    down, nonchalantly (cool, chill, invisible. Also it\'s freaking air)
+-   AF => unlike the atmosphere, Jaquie want to see --- with her eyes
+    --- the moving water (bubles rise) but Jaquie can\'t swim
+-   AN => air as something addictive, that provides temporary relief
+    that also takes something from you
 
-    -   AB => drinking as a form of slowing time
-    -   AO => drinking as something dulling and \"solemn\"
-    -   AR => systemic entertainment by the society (TV) favored by
-        Jaquie over natural beauty
+### Misc and waste
 
-4.  Epic bottle of waste
-
-    -   AM => Jaqueline\'s actions reveal about her smoking habits, and
-        it manifests visually through cough
-    -   AC => lack of static location of belonging and identity based on
-        movement
-    -   AA => the system rejects the pain that drive one to suicide
-    -   AG => home is a trap, belonging is a trap
+-   AM => Jaqueline\'s actions reveal about her smoking habits, and it
+    manifests visually through cough
+-   AA => the system rejects the pain that drive one to suicide
 
 # Claim Synthesis
+
+  Symbol    Representation
+  --------- --------------------
+  Alcohol   Disenfranchisement
+  Eyes      Memory/Knowledge
+  Body      Heritage
+  Home      Tradition
+  Water     Freedom
+  Air       Restraint
+
+\*In Tommy Orange\'s novel *There There*, the character of Jacquie is
+dulled --- though the imbibement of disenfranchising alcohol --- of her
+individual identity, intimidated --- through instances of
+
+By progressively dulling Jacquie of her individual identity,
+intimidating her group identity --- through
 
 ## Development
 
