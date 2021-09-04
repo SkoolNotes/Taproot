@@ -11,8 +11,6 @@ source:  #KBxLinAlgMasterIndex
 
 
 # def of a vector space
-
-
 - 
 
 
