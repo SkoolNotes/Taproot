@@ -108,7 +108,7 @@ One of...
 -   AN => air as something addictive, that provides temporary relief
     that also takes something from you
 
-### Misc and waste
+### Wastepaper Basket
 
 -   AM => Jaqueline\'s actions reveal about her smoking habits, and it
     manifests visually through cough
@@ -125,36 +125,11 @@ One of...
   Water     Freedom
   Air       Restraint
 
-\*In Tommy Orange\'s novel *There There*, the character of Jacquie is
-dulled --- though the imbibement of disenfranchising alcohol --- of her
-individual identity, intimidated --- through instances of
-
-By progressively dulling Jacquie of her individual identity,
-intimidating her group identity --- through
-
-## Development
-
--   *Claim*
-    -   Why does the claim address the prompt?
-    -   How does the evidence support the claim?
-        -   1
-        -   2
-        -   3
-    -   So what?
-
-# Defluffication
-
-*Chosen Thesis Claim*
-
--   Point a
-
--   Point b
-
--   Point c
-
-    So what? SO WHAT
-
-    **Restated Claim**
-
-There\'s always the [UCLA Writing
-Lab](https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf).
+**In Tommy Orange\'s novel *There There*, the author\'s artful
+third-person narration of Jacquie\'s character externalizes the systems
+in society which strips the character of Jacquie of her individual
+identity, group belonging, and critical capacity though the
+disenfranchisement of independent action, antagonizing of attached
+heritage, and suppression of analytical freedom respectively: creating a
+multifaceted grappling of the historical forces of oppression that
+plagues upon Native Americans in modern society.**
