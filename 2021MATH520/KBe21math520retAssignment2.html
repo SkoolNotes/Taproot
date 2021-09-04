@@ -154,10 +154,23 @@ html {
             <p><span class="math display">\[\begin{aligned}
               \frac{dy}{dt} &amp;= \frac{dy}{dx}\frac{dx}{dt}\\
               \frac{d^2y}{dt^2} &amp;= \frac{dy}{dx} \frac{d}{dt}\frac{dx}{dt} + \frac{dx}{dt} \frac{d}{dt}\frac{dy}{dx}\\
-              &amp;= \frac{dy}{dx} \frac{d^2x}{dt^2} + \frac{dx}{dt} \frac{d^2y}{dt^2}
+              &amp;= \frac{dy}{dx} \frac{d^2x}{dt^2} + \frac{dx}{dt} \frac{d^2y}{dxdt (??)}\\
+              \end{aligned}\]</span></p>
+            <p><span class="math display">\[\begin{aligned}
+              \frac{d^2x}{dt^2} &amp;= \frac{d}{dt} \frac{dx}{dt} 
+              \end{aligned}\]</span></p>
+            <p>um… that seems like it didn’t actually do anything. I’m kind of stuck… lets try working backwards:</p>
+            <p><span class="math display">\[\begin{aligned}
+              \frac{d^2y}{dx^2} &amp;= \frac{\dot x \ddot y - \dot y \ddot x}{(\dot x)^3} \\
+              &amp;= \dot x \frac{d}{dx} \left( \frac{\dot{y}}{\dot{x}} \right)  \\
+              \end{aligned}\]</span></p>
+            <p>why should the <span class="math inline">\(\dot x\)</span> in the bottom be cubed?</p>
+            <p><span class="math display">\[\xcancel{
+              
               \frac{dy}{dx} = \frac{\frac{dy}{dt}}{\frac{dx}{dt}}\\
               \frac{d^2y}{dx^2} = \frac{\frac{dx}{dt}\frac{d}{dx}\frac{dy}{dt} - \frac{dy}{dt} \frac{d}{dx}\frac{dx}{dt}}{}
-              \end{aligned}\]</span></p>
+              
+              }\]</span></p>
         </div>
 
         <script>

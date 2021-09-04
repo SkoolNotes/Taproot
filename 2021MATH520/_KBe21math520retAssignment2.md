@@ -134,7 +134,26 @@ $$\begin{aligned}
 $$\begin{aligned}
   \frac{dy}{dt} &= \frac{dy}{dx}\frac{dx}{dt}\\
   \frac{d^2y}{dt^2} &= \frac{dy}{dx} \frac{d}{dt}\frac{dx}{dt} + \frac{dx}{dt} \frac{d}{dt}\frac{dy}{dx}\\
-  &= \frac{dy}{dx} \frac{d^2x}{dt^2} + \frac{dx}{dt} \frac{d^2y}{dt^2}
+  &= \frac{dy}{dx} \frac{d^2x}{dt^2} + \frac{dx}{dt} \frac{d^2y}{dxdt (??)}\\
+  \end{aligned}$$
+
+$$\begin{aligned}
+  \frac{d^2x}{dt^2} &= \frac{d}{dt} \frac{dx}{dt} 
+  \end{aligned}$$
+
+um... that seems like it didn\'t actually do anything. I\'m kind of
+stuck... lets try working backwards:
+
+$$\begin{aligned}
+  \frac{d^2y}{dx^2} &= \frac{\dot x \ddot y - \dot y \ddot x}{(\dot x)^3} \\
+  &= \dot x \frac{d}{dx} \left( \frac{\dot{y}}{\dot{x}} \right)  \\
+  \end{aligned}$$
+
+why should the $\dot x$ in the bottom be cubed?
+
+$$\xcancel{
+  
   \frac{dy}{dx} = \frac{\frac{dy}{dt}}{\frac{dx}{dt}}\\
   \frac{d^2y}{dx^2} = \frac{\frac{dx}{dt}\frac{d}{dx}\frac{dy}{dt} - \frac{dy}{dt} \frac{d}{dx}\frac{dx}{dt}}{}
-  \end{aligned}$$
+  
+  }$$
