@@ -2,6 +2,7 @@
 title: MVC Day 1 HW
 source: #KBdMATH520MasterIndex
 course: MATH520
+author: Dylan Wallace
 ---
 
 # Problem 1

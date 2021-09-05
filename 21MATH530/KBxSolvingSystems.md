@@ -46,8 +46,9 @@ $
 $
 
 
-![[why.pdf]]
+%%![[why.pdf]]%%
 
+![[Pasted image 20210904215239.png]]
 
 
 
