@@ -27,7 +27,47 @@ $$
 ### $(a)$
 $$
 \begin{aligned}
-\text{Assuming room temperature } (20\degree C) \\
-\text{
+V &= 24.0Lmol^{-1} \\
+V(t) &= 24t \\
+R(t) &= \sqrt[3]{\frac{3}{4}V(t)} \\
+&= \sqrt[3]{18t} \\
+t &= 3 \\
+V(3) &= 72L \\
+R(3) &= 3\sqrt[3]{2} * 10cm &= 30\sqrt[3]{2} cm\\
+V'(t) &= 24 \\
+R'(t) &= \frac{18}{\sqrt[3]{18t}^2} \\
+V'(3) &= 24 Ls^{-1} \\
+R'(3) &= \frac{18}{\sqrt[3]{18(3)}^2} \\
+&= \frac{18}{6\sqrt[3]{2}} * 10cms^{-1} &= \frac{30}{\sqrt[3]{2}} cms^{-1}\\
+\end{aligned}
+$$
+
+### $(b)$
+Assuming that the question is asking how much time would have passed when the radius is 3m:
+$$
+\begin{aligned}
+3m &= 30 * 10 cm \\
+R(t) &= 30 \\
+\sqrt[3]{18t} &= 30 \\
+18t &= 30^3 \\
+t &= \frac{30^3}{18} \\
+&= 1500
+\end{aligned}
+$$
+
+## Problem 5
+### $(e)$
+$$
+\begin{aligned}
+\int (4y - y^2 + 4y^3 + 1)^{-2/3} (12y^2 - 2y + 4) \,dy \\
+&= 3 \int \frac{1}{3} (4y - y^2 + 4y^3 + 1)^{-2/3} (12y^2 - 2y + 4) \,dy \\
+&= 3(4y - 4^2 + 4y^3 + 1)^{1/3} + C \\
+\end{aligned}
+$$
+
+### $(f)$
+$$
+\begin{aligned}
+\int 2x \cos{(x)} \,dx &= 
 \end{aligned}
 $$
