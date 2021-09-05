@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18620)}}    % original
-%\rhead{\textrmlf{Compiled }\#18620\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18645)}}    % original
+%\rhead{\textrmlf{Compiled }\#18645\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -348,6 +348,46 @@ V denotes a vector space over F
 
 \hypertarget{exercises}{%
 \subsection{exercises}\label{exercises}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  prove that -(-v) = v
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    -(-v) = -1(-1v) = (-1*(-1))v = 1v = v
+  \end{enumerate}
+\item
+  ab = 0, prove that a or b = 0
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    a=0/v = 0, v=0/a = 0
+  \end{enumerate}
+\item
+  empty set is not a vector space, it fails to satisfy only of the reqs.
+  which one?
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    no additive idenity
+
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii}.}
+    \tightlist
+    \item
+      ``there exists an element 0 in v'' no there doesn't.
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
 
 homework: {[}{[}KBxSolvingSystems{]}{]}
 

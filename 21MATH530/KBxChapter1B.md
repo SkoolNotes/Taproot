@@ -71,7 +71,13 @@ V denotes a vector space over F
 ```
 
 ## exercises
-
+1. prove that -(-v) = v
+	1. -(-v) = -1(-1v) = (-1\*(-1))v  = 1v = v
+2. ab = 0, prove that a or b = 0
+	1. a=0/v = 0, v=0/a = 0
+4. empty set is not a vector space, it fails to satisfy only of the reqs. which one?
+	1. no additive idenity
+		1. "there exists an element 0 in v" no there doesn't. 
 
 
 
