@@ -58,9 +58,44 @@ sources and notes -- do they support your thesis?
     incapacitated than the rest, the everyday work of raising crops,
     gathering wild plants, fetching water and firewood, hunting meat,
     and harvesting fish virtually ceased.\" (Richter 61)
--   \"Nice distinctions be- tween restoration for victims and
-    bloodthirsty revenge must frequendy have blurred.\" (Richter 66)
--   
+-   \"Nice distinctions between restoration for victims and bloodthirsty
+    revenge must frequendy have blurred.\" (Richter 66)
+-   \"In all of this, eastern Native people were anything but passive
+    victims unable to change.\" (Richter 66)
+-   \"The mourning-war pattern seems unquestionably old in eastern North
+    Amer- ica, but it assumed explosive new forms and vastly expanded
+    scope under the demographic pressures of the seventeenth century.\"
+    (Richter 66)
+-   \"As Nathan Huggins once said ofAfrican American history, \'it is
+    exactly this triumph of the human spirit over adversity that is the
+    great story.\' The same is true for Native American history from the
+    early seventeenth century onward.\" (Richter 68)
+-   \"There were elaborate markets in each city and a far-flung trade
+    network that used routes established by the Toltecs.\"
+    (Dunbar-Ortiz 7)
+-   \"Native peoples were colonized and deposed of their territories as
+    distinct peoples--- hundreds of nations---not as a racial or ethnic
+    group.\" (Dunbar-Ortiz 2)
+-   \"Indigenous survival as peoples is due to centuries of resistance
+    and storytelling passed through the generations, and I sought to
+    demonstrate that this survival is dynamic, not passive.\"
+    (Dunbar-Ortiz 2)
+-   \"Being pressed for tribute through violent attacks, peasants
+    rebelled and there were uprisings all over Mexico. Cortes's
+    recruitment of resistant communities all over Mexico as allies aided
+    in toppling the central regime.\" (Dunbar-Ortiz 7)
+-   \"Averaging thirty feet wide, these roads followed straight courses,
+    even through difficult terrain such as hills and rock formations.
+    The highways connected some seventy-five communities.\"
+    (Dunbar-Ortiz 8)
+-   \"Cahokia supported a population oftens of thousands, larger than
+    that of London during the same period.\" (Dunbar-Ortiz 9)
+-   \"the practice of herbal medicine and even sur- gery and dentistry,
+    and most importantly both hygienic and ritual bathing, kept diseases
+    at bay\" (Dunbar-Ortiz 9)
+-   \"According to the value system that drove consensus building and
+    decision making in these societies, the community's interest over-
+    rode individual interests.\" (Dunbar-Ortiz 10)
 
 # Claim Synthesis
 

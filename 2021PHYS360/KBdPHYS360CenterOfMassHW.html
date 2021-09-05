@@ -75,6 +75,25 @@ html {
             <h1 id="problem-1">Problem 1</h1>
             <h2 id="a"><span class="math inline">\((1a)\)</span></h2>
             <p><span class="math display">\[\begin{aligned}
+            PE &amp;= -W \\
+            \text{Work is force over distance. We will have distance be equal to }r. \\
+            W &amp;= \vec{F} * r \\
+            \text{In our case, force is not constant (and can be treated as a scalar} \\
+            \text{as it is in only 1 direction):} \\
+            W &amp;= \int_0^r F(x) \,dx \\
+            \end{aligned}\]</span> We know that the force applied to a point mass <span class="math inline">\(m\)</span> by the gravitational field of the earth (with mass <span class="math inline">\(M_e\)</span>) with distance <span class="math inline">\(x\)</span> is modeled by <span class="math display">\[F(x) = \frac{GmM_e}{x^2}\]</span>. Therefore, our work integral can be modified to be <span class="math display">\[\begin{aligned}
+            W &amp;= \int_0^r \frac{GmM_e}{x^2}\,dx \\
+            &amp;= GmM_e \int_0^r \frac{1}{x^2} \,dx \\
+            &amp;= GmM_e [-\frac{1}{x}]_0^r \\
+            &amp;= -\frac{GmM_e}{r} \\
+            PE &amp;= \frac{GmM_e}{r}
+            \end{aligned}\]</span></p>
+            <h2 id="b"><span class="math inline">\((1b)\)</span></h2>
+            <p><span class="math display">\[\begin{aligned}
+            KE &amp;= \frac{1}{2}mv^2 \\
+            KE &amp;= PE \\
+            frac{1}{2}mv^2 &amp;= \frac{GmM_e}{r} \\
+            v &amp;= \sqrt{\frac{2GM_e}{r}}
             \end{aligned}\]</span></p>
         </div>
 
