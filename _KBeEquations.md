@@ -14,4 +14,6 @@ title: Equations to memorize
 
 ## $a^3+b^3 = (a+b)(a^2+b^2-ab)$
 
+### $a^3 - b ^3 = (a-b) (a^2+b^2+ab)$
+
 ## $(a+b)^3 = a^3+b^3+a^2b+b^2a$

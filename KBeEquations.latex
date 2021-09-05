@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18667)}}    % original
-%\rhead{\textrmlf{Compiled }\#18667\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18740)}}    % original
+%\rhead{\textrmlf{Compiled }\#18740\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -227,6 +227,9 @@
 
 \hypertarget{a3b3-aba2b2-ab}{%
 \subsection{\texorpdfstring{\(a^3+b^3 = (a+b)(a^2+b^2-ab)\)}{a\^{}3+b\^{}3 = (a+b)(a\^{}2+b\^{}2-ab)}}\label{a3b3-aba2b2-ab}}
+
+\hypertarget{a3---b-3-a-b-a2b2ab}{%
+\subsubsection{\texorpdfstring{\(a^3 - b ^3 = (a-b) (a^2+b^2+ab)\)}{a\^{}3 - b \^{}3 = (a-b) (a\^{}2+b\^{}2+ab)}}\label{a3---b-3-a-b-a2b2ab}}
 
 \hypertarget{ab3-a3b3a2bb2a}{%
 \subsection{\texorpdfstring{\((a+b)^3 = a^3+b^3+a^2b+b^2a\)}{(a+b)\^{}3 = a\^{}3+b\^{}3+a\^{}2b+b\^{}2a}}\label{ab3-a3b3a2bb2a}}

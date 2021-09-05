@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ Indigenous Intersection Essay Prep }
+\newcommand{\thecourse}{ PHYS360 }
+\newcommand{\thelesson}{ Adv Mech Center Of Mass HW }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18752)}}    % original
-%\rhead{\textrmlf{Compiled }\#18752\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18749)}}    % original
+%\rhead{\textrmlf{Compiled }\#18749\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Dylan Wallace \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -209,135 +209,18 @@
 \begin{document}
 
 % DID YOU SET SPELL????
+\textbf{Source}:\thinspace
+{\href{http://taproot.shabang.cf/relay?request=KBPHYS360MasterIndex}{\tiny\textulf{[[}\textbf{KBPHYS360MasterIndex}\textulf{]]}}}\thinspace
 
-\hypertarget{general-information}{%
-\section{General Information}\label{general-information}}
+\hypertarget{problem-1}{%
+\section{Problem 1}\label{problem-1}}
 
-\begin{longtable}[]{@{}lll@{}}
-\toprule
-Due Date & Topic & Important Documents \\
-\midrule
-\endhead
-????? & Synthesis Essay: Indigenous Intersections & - Facing East \\
-& & - Follow the corn \\
-& & - White's Middle Ground \\
-& & - Atlantic on Mann's 1941 \\
-\bottomrule
-\end{longtable}
+\hypertarget{a}{%
+\subsection{\texorpdfstring{\((1a)\)}{(1a)}}\label{a}}
 
-\hypertarget{prompt}{%
-\section{Prompt}\label{prompt}}
-
-\textbf{Indigenous intersections with European culture}
-
-\begin{enumerate}
-\tightlist
-\item
-  What is an idea, theme, or commonality that connects the resources to
-  each other?
-\item
-  What is your own thesis concerning this idea, theme, or commonality?
-\item
-  How can my thesis be supported by evidence from various sources?
-  Revisit your
-\end{enumerate}
-
-sources and notes -- do they support your thesis?
-
-\hypertarget{quotes-processing}{%
-\section{Quotes Processing}\label{quotes-processing}}
-
-\begin{itemize}
-\tightlist
-\item
-  "Words like 'invasion' and 'conquest' may now trip more easily
-  fromourtongues thanquaintphrases like "the transit of civilization,
-  'yet the ``master narrative'' of early America remains essentially
-  European- focused." (Richter 8)
-\item
-  "Only after the establishment of large-scale European colonies---and
-  the much bigger and more predictable patterns of trade they allowed---
-  did Indians begin to use imported goods in ways that resembled the
-  pur- poses for which they had been designed." (Richter 43)
-\item
-  "The news things were \textbf{\textbf{always}} in some practical way
-  superior to the old --- lighter, sharper, more durable --- but they
-  were used in very familiar contexts." (Richter 44)
-\item
-  "Something as basic as firemaking was radically simplified not just by
-  axes that made firewood more readily obtainable but by flint and still
-  'strike-a-lights'" (Richter 44)
-\item
-  "The vastly increased supply did not so much devalue what was once
-  rare as create an innovative cultural phenomenon rooted in
-  unprecedented abundance" (Richter 46)
-\item
-  "But all of this Indian abundance depended on a kind of mobility and
-  flexible use ofthe landscape thatwould prove incompatible with the
-  colo- nists' ways ofinteracting with the environment." (Richter 57)
-\item
-  "With literally everyone sick, and the able-bodied adults more
-  incapacitated than the rest, the everyday work of raising crops,
-  gathering wild plants, fetching water and firewood, hunting meat, and
-  harvesting fish virtually ceased." (Richter 61)
-\item
-  "Nice distinctions be- tween restoration for victims and bloodthirsty
-  revenge must frequendy have blurred." (Richter 66)
-\item
-\end{itemize}
-
-\hypertarget{claim-synthesis}{%
-\section{Claim Synthesis}\label{claim-synthesis}}
-
-\hypertarget{development}{%
-\subsection{Development}\label{development}}
-
-\begin{itemize}
-\tightlist
-\item
-  \emph{Claim}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Why does the claim address the prompt?
-  \item
-    How does the evidence support the claim?
-
-    \begin{itemize}
-    \tightlist
-    \item
-      1
-    \item
-      2
-    \item
-      3
-    \end{itemize}
-  \item
-    So what?
-  \end{itemize}
-\end{itemize}
-
-\hypertarget{defluffication}{%
-\section{Defluffication}\label{defluffication}}
-
-\emph{Chosen Thesis Claim}
-
-\begin{itemize}
-\item
-  Point a
-\item
-  Point b
-\item
-  Point c
-
-  So what? SO WHAT
-
-  \textbf{Restated Claim}
-\end{itemize}
-
-There's always the
-\href{https://wp.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_What-How-So-What-Thesis-revised-5-4-15-RZ.pdf}{UCLA
-Writing Lab}.
+\[
+\begin{aligned}
+\end{aligned}
+\]
 
 \end{document}

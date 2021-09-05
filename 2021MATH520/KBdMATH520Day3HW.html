@@ -117,7 +117,28 @@ html {
             \end{aligned}\]</span></p>
             <h3 id="f-1"><span class="math inline">\((f)\)</span></h3>
             <p><span class="math display">\[\begin{aligned}
-            \int 2x \cos{(x)} \,dx &amp;= 
+            \int 2x \cos{(x)} \,dx &amp;= 2x \sin{(x)} - \int 2 \sin{(x)} \,dx \\
+            &amp;= 2x \sin{(x)} - 2 \int \sin{(x)} \,dx \\
+            &amp;= 2x \sin{(x)} + 2 \cos{(x)} \\
+            \end{aligned}\]</span></p>
+            <h1 id="arc-length">Arc Length</h1>
+            <h2 id="problem-2">Problem 2</h2>
+            <p><span class="math display">\[\begin{aligned}
+            f(x) &amp;= \frac{x^2}{8} - \ln{x} \\
+            f&#39;(x) &amp;= \frac{1}{4}x - \frac{1}{x} \\
+            L &amp;= \int_1^2 \sqrt{1 + f&#39;(x)^2} \,dx \\
+            &amp;= \int_1^2 \sqrt{1 + (\frac{1}{16}x^2 - \frac{1}{2} + \frac{1}{x^2})} \,dx \\
+            &amp;= \int_1^2 \sqrt{\frac{1}{16}x^2 + \frac{1}{2} + \frac{1}{x^2}} \,dx \\
+            &amp;= [\frac{\sqrt{\frac{(x^2 + 4)^2}{x^2}}(x^3 + 8x\log{(x)})}{8(x^2 + 4)}]_1^2 \\
+            &amp;= \frac{3}{8} + \log{2} \\
+            \end{aligned}\]</span></p>
+            <h2 id="problem-8">Problem 8</h2>
+            <p><span class="math display">\[\begin{aligned}
+            f(x) &amp;= x^2 \\
+            f&#39;(x) &amp;= 2x \\
+            f&#39;(x) &amp;= 6 \\
+            2x &amp;= 6 \\
+            x &amp;= 3 \\
             \end{aligned}\]</span></p>
         </div>
 

@@ -68,6 +68,33 @@ $$
 ### $(f)$
 $$
 \begin{aligned}
-\int 2x \cos{(x)} \,dx &= 
+\int 2x \cos{(x)} \,dx &= 2x \sin{(x)} - \int 2 \sin{(x)} \,dx \\
+&= 2x \sin{(x)} - 2 \int \sin{(x)} \,dx \\
+&= 2x \sin{(x)} + 2 \cos{(x)} \\
+\end{aligned}
+$$
+
+# Arc Length
+## Problem 2
+$$
+\begin{aligned}
+f(x) &= \frac{x^2}{8} - \ln{x} \\
+f'(x) &= \frac{1}{4}x - \frac{1}{x} \\
+L &= \int_1^2 \sqrt{1 + f'(x)^2} \,dx \\
+&= \int_1^2 \sqrt{1 + (\frac{1}{16}x^2 - \frac{1}{2} + \frac{1}{x^2})} \,dx \\
+&= \int_1^2 \sqrt{\frac{1}{16}x^2 + \frac{1}{2} + \frac{1}{x^2}} \,dx \\
+&= [\frac{\sqrt{\frac{(x^2 + 4)^2}{x^2}}(x^3 + 8x\log{(x)})}{8(x^2 + 4)}]_1^2 \\
+&= \frac{3}{8} + \log{2} \\
+\end{aligned}
+$$
+
+## Problem 8
+$$
+\begin{aligned}
+f(x) &= x^2 \\
+f'(x) &= 2x \\
+f'(x) &= 6 \\
+2x &= 6 \\
+x &= 3 \\
 \end{aligned}
 $$
