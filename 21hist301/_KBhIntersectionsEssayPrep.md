@@ -75,7 +75,7 @@ sources and notes -- do they support your thesis?
     survive in unprecedented circumstances. In all of this, eastern
     Native people were anything but passive victims unable to change.\"
     (Richter 66) AK
--   \"As Nathan Huggins once said ofAfrican American history, \'it is
+-   \"As Nathan Huggins once said of African American history, \'it is
     exactly this triumph of the human spirit over adversity that is the
     great story.\' The same is true for Native American history from the
     early seventeenth century onward.\" (Richter 68) AM
@@ -150,6 +150,8 @@ sources and notes -- do they support your thesis?
 
 # Claim Synthesis
 
+## Quote Organization
+
 ### On the culture of sex
 
 -   CE European constructions of sex does not manifest in that of the NM
@@ -162,30 +164,28 @@ sources and notes -- do they support your thesis?
 ### On the prevalence of technology
 
 -   AH NM technology was incompatible with European ways
--   AE Richter claims that European technology was always better and was
-    a drop-in replacement for NM tech
 -   BA infrastructured and trade flourished as established by the
     Toltecs, BF cities of Cahokia was large and well-supported
+-   AE Richter claims that European technology was always better and was
+    a drop-in replacement for NM tech
 
 ### On the importance of narrative
 
 -   AC claims that it is necessary to create a common narrative that
     blends the diversity into one
--   AB Richter claims impossibility of recovering an Americacentric
-    narrative b/c cannot see through \"their\" (NM\'s) eyes
 -   BB each NM group was a distict nation and not just one large group,
     and BC storytelling serves at the heart of the continuaunce of
     tradition
+-   AB Richter claims impossibility of recovering an Americacentric
+    narrative b/c cannot see through \"their\" (NM\'s) eyes
 
-## Development
+## The Claim
 
--   *Claim*
-    -   Why does the claim address the prompt?
-    -   How does the evidence support the claim?
-        -   1
-        -   2
-        -   3
-    -   So what?
+****Treatment towards the culture of sex, growth of technology and
+importance of narrative in early American society by both White and
+Richter reflects the often Eurocentric misappropriations --- under the
+pretense of attempting to illustrate a natively American perspective ---
+of the agency of Native American action.****
 
 ------------------------------------------------------------------------
 
