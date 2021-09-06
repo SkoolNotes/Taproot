@@ -130,6 +130,11 @@ sources and notes -- do they support your thesis?
     ability of traders and coureurs de bois to create the ties to
     Algonquian society on which their trade, and perhaps their lives,
     depended.\" (White 68) CH
+-   \"People lived long and well with abundant ceremonial and
+    recreational periods.\" (Dunbar-Ortiz 16) DA
+-   \"Settler observers in all parts of the Americas marveled at the
+    frequent bathing even in winter in cold climates.\"
+    (Dunbar-Ortiz 16) DB
 
 ## Quote Sorting
 
@@ -144,7 +149,7 @@ sources and notes -- do they support your thesis?
 -   BB each NM group was a distict nation and not just one large group
 -   AK NM societies shattered by change, and was active in adapting to
     the change
--   AM frames NM struggle as one of sprit over adverrsity
+-   AM frames NM struggle as one of sprit over adversity
 -   BC claims that survival is due to dynamic, nonpassive, storytelling
 
 ### Discussion of Technology
@@ -167,13 +172,15 @@ sources and notes -- do they support your thesis?
 -   AJ simply replenishing of war captives often blurred with revenge
 -   BD due to agressive requests for tribune through attacks, preseants
     rebelled through stirring by Cortes
--   BG good (better then european CITE?) hygine kept normal diseases at
-    bay
+-   BG claims that good hygiene kept normal diseases at bay
 -   CD amoung many \"groups\" there lacked punishment for adultery
 -   CF the seeming act of prostitution was defined in a way that
     conflicted with the actual event
 -   CH Jesuit preaching disrupted the way by which society was conducted
     around sex
+-   DA claims NM living was long and well, with a healthy life balaince
+-   DB that even European settlers marveled at the frequent bathing of
+    NM
 
 ### Discussion of Culture
 
@@ -192,8 +199,6 @@ sources and notes -- do they support your thesis?
     \"cultural phenomenon\"
 
 # Claim Synthesis
-
-The centering of NM analysis from a
 
 ## Development
 
