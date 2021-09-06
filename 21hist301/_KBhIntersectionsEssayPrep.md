@@ -36,6 +36,14 @@ sources and notes -- do they support your thesis?
     fromourtongues thanquaintphrases like \"the transit of civilization,
     \'yet the "master narrative" of early America remains essentially
     European- focused.\" (Richter 8)
+-   \"The paucity ofhistoricalsources and the enormous distances in time
+    and culture that yawn between the twenty-first and seventeenth
+    centuries make it impossible to see the world through her eyes. \"
+    (Richter 9)
+-   \"At this point in our fractious nation's experience, it seems more
+    than necessary and desirable to find frames of reference capable of
+    embracing the common, if often excruciating, origins of the
+    continent\'s diverse peoples.\" (Richter 10)
 -   \"Only after the establishment of large-scale European
     colonies---and the much bigger and more predictable patterns of
     trade they allowed--- did Indians begin to use imported goods in

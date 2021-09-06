@@ -11,22 +11,18 @@ source: KBPHYS360MasterIndex
 $$
 \begin{aligned}
 PE &= -W \\
-\text{Work is force over distance. We will have distance be equal to }r. \\
-W &= \vec{F} * r \\
-\text{In our case, force is not constant (and can be treated as a scalar} \\
-\text{as it is in only 1 direction):} \\
-W &= \int_0^r F(x) \,dx \\
+W &= \int_{R_e}^\infty F(r) \,dr \\
 \end{aligned}
 $$
-We know that the force applied to a point mass $m$ by the gravitational field of the earth (with mass $M_e$) with distance $x$ is modeled by $$F(x) = \frac{GmM_e}{x^2}$$.
+We know that the force applied to a point mass $m$ by the gravitational field of the earth (with mass $M_e$) with distance $x$ is modeled by $$F(r) = \frac{GmM_e}{r^2}$$.
 Therefore, our work integral can be modified to be
 $$
 \begin{aligned}
-W &= \int_0^r \frac{GmM_e}{x^2}\,dx \\
-&= GmM_e \int_0^r \frac{1}{x^2} \,dx \\
-&= GmM_e [-\frac{1}{x}]_0^r \\
-&= -\frac{GmM_e}{r} \\
-PE &= \frac{GmM_e}{r}
+W &= \int_{R_e}^\infty \frac{GmM_e}{r^2}\,dr \\
+&= GmM_e \int_{R_e}^\infty \frac{1}{r^2} \,dr \\
+&= GmM_e [-\frac{1}{r}]_{R_e}^\infty \\
+&= -\frac{GmM_e}{R_e} \\
+PE &= \frac{GmM_e}{R_e}
 \end{aligned}
 $$
 
@@ -35,7 +31,26 @@ $$
 \begin{aligned}
 KE &= \frac{1}{2}mv^2 \\
 KE &= PE \\
-frac{1}{2}mv^2 &= \frac{GmM_e}{r} \\
-v &= \sqrt{\frac{2GM_e}{r}}
+frac{1}{2}mv^2 &= \frac{GmM_e}{R_e} \\
+v &= \sqrt{\frac{2GM_e}{R_e}}
+\end{aligned}
+$$
+
+## $(1c)$
+$$
+\begin{aligned}
+\end{aligned}
+$$
+
+# Problem 2
+$$
+\begin{aligned}
+\sum_{i=1}^{n} \vec{F}_{net,i} &= (\sum_{i=1}^{n} m_i) \ddot{\vec{r}}_{CM} \\
+\sum_{i=1}^{n} m_i \ddot{\vec{r}}_{i} &= (\sum_{i=1}^{n} m_i) \ddot{\vec{r}}_{CM} \\
+\int \int \sum_{i=1}^{n} m_i \ddot{\vec{r}}_{i} \,dt\,dt &= \int \int (\sum_{i=1}^{n} m_i) \ddot{\vec{r}}_{CM} \,dt\,dt \\
+\int \sum_{i=1}^{n} m_i \dot{\vec{r}}_{i} \,dt &= \int (\sum_{i=1}^{n} m_i) \dot{\vec{r}}_{CM} \,dt \\
+\sum_{i=1}^{n} m_i \vec{r}_{i} &= (\sum_{i=1}^{n} m_i) \vec{r}_{CM}
+
+
 \end{aligned}
 $$
