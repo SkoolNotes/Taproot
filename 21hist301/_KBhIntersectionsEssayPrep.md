@@ -117,9 +117,11 @@ sources and notes -- do they support your thesis?
 -   \"She could leave her husband and return to her own family whenever
     she chose. Among many groups adultery was not harshly punished\"
     (White 62) CD
--   \"European conceptions of marriage, adultery, and prostitution just
-    could not encompass the actual variety of sexual relations in the
-    pays d\'en haut.\" (White 63) CE
+-   \"adultery a meaningless category. And, indeed, it was the
+    categories themselves that were the problem. European conceptions of
+    marriage, adultery, and prostitution just could not encompass the
+    actual variety of sexual relations in the pays d\'en haut.\"
+    (White 63) CE
 -   \"Prostitution had little to do with that term as commonly
     understood ... Sex accompanied a general agreement to do the work
     commonly expected of women in Algonquian society\" (White 65) CF
@@ -129,55 +131,7 @@ sources and notes -- do they support your thesis?
 -   \"Jesuit influence threatened not only sexual activity but also the
     ability of traders and coureurs de bois to create the ties to
     Algonquian society on which their trade, and perhaps their lives,
-    depended.\" (White 68) CH
--   \"People lived long and well with abundant ceremonial and
-    recreational periods.\" (Dunbar-Ortiz 16) DA
--   \"Settler observers in all parts of the Americas marveled at the
-    frequent bathing even in winter in cold climates.\"
-    (Dunbar-Ortiz 16) DB
-
-## Quote Sorting
-
-### Discussion of Narrative
-
--   AA narrative regarding early European American is vastly softened
-    but nevertheless Eurocentric
--   AB Richter claims impossiblity of recovering an Americacentric
-    narrative b/c cannot see through \"their\" (NM\'s) eyes
--   AC claims that it is necessary to create a common narrative that
-    blends the diversity into one
--   BB each NM group was a distict nation and not just one large group
--   AK NM societies shattered by change, and was active in adapting to
-    the change
--   AM frames NM struggle as one of sprit over adversity
--   BC claims that survival is due to dynamic, nonpassive, storytelling
-
-### Discussion of Technology
-
--   AE Richter claims that European technology was better and was a
-    drop-in replacement for NM tech
--   AF claims that European technology \"does it better in a variety of
-    situations\"
--   AH NM technology was incompatible with European ways
--   BA infrastructured and trade flourished as established by the
-    Toltecs
--   BE native infrastructure was strong, connecting roads and
-    communities
--   BF cities of Cahokia was large and well-supported
-
-### Discussion of Behavior
-
--   AI sickness incapacitated the abled-bodied and cripped normal
-    activities
--   AJ simply replenishing of war captives often blurred with revenge
--   BD due to agressive requests for tribune through attacks, preseants
-    rebelled through stirring by Cortes
--   BG claims that good hygiene kept normal diseases at bay
--   CD amoung many \"groups\" there lacked punishment for adultery
--   CF the seeming act of prostitution was defined in a way that
-    conflicted with the actual event
--   CH Jesuit preaching disrupted the way by which society was conducted
-    around sex
+    depended.\" (White 68) actual event
 -   DA claims NM living was long and well, with a healthy life balaince
 -   DB that even European settlers marveled at the frequent bathing of
     NM
@@ -188,17 +142,40 @@ sources and notes -- do they support your thesis?
 -   CB there was systems governing and de-personalising intercourse
 -   CC french descriptions of relationships were complicated by fantasy
     and social crititism (and a divine grace argument a la Jansenism)
--   CE European constructions of sex does not manifest in that of the NM
-    tradition
 
 ### Discussion of Trade
 
 -   AD **only** after the establishment of flourishing European trading
     could the Indians use goods as they intended
--   AJ European economic disruption created abundance and created a
-    \"cultural phenomenon\"
 
 # Claim Synthesis
+
+### On the culture of sex
+
+-   CE European constructions of sex does not manifest in that of the NM
+    tradition
+-   CH But, the application of these philosophies were nevertheless
+    effective and damaging: CG that there is a figure who\'s power
+    centers around abstinence was appealing, Jesuit preaching disrupted
+    the way by which society was conducted around sex
+
+### On the prevalence of technology
+
+-   AH NM technology was incompatible with European ways
+-   AE Richter claims that European technology was always better and was
+    a drop-in replacement for NM tech
+-   BA infrastructured and trade flourished as established by the
+    Toltecs, BF cities of Cahokia was large and well-supported
+
+### On the importance of narrative
+
+-   AC claims that it is necessary to create a common narrative that
+    blends the diversity into one
+-   AB Richter claims impossibility of recovering an Americacentric
+    narrative b/c cannot see through \"their\" (NM\'s) eyes
+-   BB each NM group was a distict nation and not just one large group,
+    and BC storytelling serves at the heart of the continuaunce of
+    tradition
 
 ## Development
 
