@@ -104,6 +104,24 @@ sources and notes -- do they support your thesis?
 -   \"According to the value system that drove consensus building and
     decision making in these societies, the community's interest over-
     rode individual interests.\" (Dunbar-Ortiz 10)
+-   \"To understand sexual relations between Algonquians and Europeans,
+    we must remove the combination of sexual fantasy, social criticism,
+    and Jansenism with which the French often veiled their
+    descriptions.\" (White 61)
+-   \"She could leave her husband and return to her own family whenever
+    she chose. Among many groups adultery was not harshly
+    punished\" (62)
+-   \"European conceptions of marriage, adultery, and prostitution just
+    could not encompass the actual variety of sexual relations in the
+    pays d\'en haut.\" (63)
+-   \"Jesuit influence threatened not only sexual activity but also the
+    ability of traders and coureurs de bois to create the ties to
+    Algonquian society on which their trade, and perhaps their lives,
+    depended.\" (68)
+-   \"Jesuits and higher French officials, however, were unenthusiastic
+    about marriage both because it gave voyageurs and *coureurs de bois*
+    an independent hold in the pays d'en haut and also for racist
+    reasons.\" (69)
 
 # Claim Synthesis
 

@@ -31,7 +31,7 @@ $$
 \begin{aligned}
 KE &= \frac{1}{2}mv^2 \\
 KE &= PE \\
-frac{1}{2}mv^2 &= \frac{GmM_e}{R_e} \\
+\frac{1}{2}mv^2 &= \frac{GmM_e}{R_e} \\
 v &= \sqrt{\frac{2GM_e}{R_e}}
 \end{aligned}
 $$
@@ -39,6 +39,9 @@ $$
 ## $(1c)$
 $$
 \begin{aligned}
+v &= \sqrt{\frac{2GM_e}{R_e}} \\
+&= \sqrt{\frac{2\cdot 6.674 \cdot 10^{-11} \cdot 5.972 × 10^{24}}{6,371^{2}}} \\
+&= 
 \end{aligned}
 $$
 
@@ -48,9 +51,23 @@ $$
 \sum_{i=1}^{n} \vec{F}_{net,i} &= (\sum_{i=1}^{n} m_i) \ddot{\vec{r}}_{CM} \\
 \sum_{i=1}^{n} m_i \ddot{\vec{r}}_{i} &= (\sum_{i=1}^{n} m_i) \ddot{\vec{r}}_{CM} \\
 \int \int \sum_{i=1}^{n} m_i \ddot{\vec{r}}_{i} \,dt\,dt &= \int \int (\sum_{i=1}^{n} m_i) \ddot{\vec{r}}_{CM} \,dt\,dt \\
-\int \sum_{i=1}^{n} m_i \dot{\vec{r}}_{i} \,dt &= \int (\sum_{i=1}^{n} m_i) \dot{\vec{r}}_{CM} \,dt \\
-\sum_{i=1}^{n} m_i \vec{r}_{i} &= (\sum_{i=1}^{n} m_i) \vec{r}_{CM}
-
-
+\int \sum_{i=1}^{n} m_i \dot{\vec{r}}_{i} \,dt + C_1 &= \int (\sum_{i=1}^{n} m_i) \dot{\vec{r}}_{CM} \,dt + C_1 \\
+\sum_{i=1}^{n} m_i \vec{r}_{i} + C_1t + C_2 &= (\sum_{i=1}^{n} m_i) \vec{r}_{CM} + C_1t + C_2 \\
+\text{Both constants are the same constant on both sides of the equation so they will cancel out.} \\
+\text{The sum of all mass is just }M. \\
+\vec{r}_{CM} &= \frac{1}{M} \sum_{i=1}^{n} m_i \vec{r}_{i} \\
 \end{aligned}
 $$
+
+# Problem 3
+Any force within a system will have an opposite force applied as well (Newton's 3rd law). Therefore, forces within a system will cancel out and will have no effect on the center of mass.
+
+# Problem 4
+$$
+\begin{aligned}
+\vec{v} &= \frac{<1, −4, 1> + 2<−3, −2, 6> + 3<2, 5, −3> + 4<−2, 4, 6>}{1 + 2 + 3 + 4} \\
+&= <-0.7, 2.3, 2.8> \\
+\end{aligned}
+$$
+
+![[Screen Shot 2021-09-05 at 7.09.00 PM.png]]
