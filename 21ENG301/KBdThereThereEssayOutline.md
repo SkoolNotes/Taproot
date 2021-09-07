@@ -12,7 +12,7 @@ Orange theorizes the concept of the “Urban Indian” in his Prologue (11). Def
 # Outline
 
 - Thesis
-	- **Orange uses**
+	- **Orange characterizes Tony's  interaction with his identity by **
 - What is an Urban Indian?
 	- "Urbanity" section in Prologue
 	- Indians that were forced into an unfamiliar lifestyle and forced to lose their identity in favor of the status quo identity
@@ -26,7 +26,7 @@ Orange theorizes the concept of the “Urban Indian” in his Prologue (11). Def
 			- Drome causing Tony to be stupid => Stereotypes about Indians being stupid???
 		- However, Tony claims that he has overcame the Drome
 			- "all the ways I made it so far despite how it has fucked with me since the day I found it there on the TV"
-- MF DOOM passage
+- MF DOOM passage (May Remove)
 	- "And it helped because the Drome’s what gives me my soul, and the Drome is a face worn through."
 		- Tony has internalized the Drome as part of his identity (i.e. came to terms with it)
 	- MF DOOM background

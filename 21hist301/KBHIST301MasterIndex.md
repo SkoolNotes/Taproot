@@ -15,7 +15,7 @@ context: HIST301
 Barry!
 - [[KBhHIST301Lenses]]
 - [[KBhHIST301IndianPersp]] 
-
+- [[KBhHIST301ColonialAmerica]] 
 
 # Dylan - Chelsea
 - **See [[2021HIST301/KBHIST301MasterIndex]] for more docs**
