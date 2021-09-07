@@ -1,2 +1,1 @@
-        Log for attempt at Tue Sep  7 09:07:58 AM PDT 2021 (19104)
-        Tue Sep  7 09:07:58 AM PDT 2021 Converting 21hist301/KBhHIST301ColonialAmerica.org...
+        Log for attempt at Tue Sep  7 10:35:27 AM PDT 2021 (19136)

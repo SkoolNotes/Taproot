@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}16952)}}    % original
-%\rhead{\textrmlf{Compiled }\#16952\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19135)}}    % original
+%\rhead{\textrmlf{Compiled }\#19135\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -220,6 +220,8 @@
   {[}{[}KBxDayOneMathMod55{]}{]}
 \item
   {[}{[}KBxTheElevatorProblem{]}{]}
+\item
+  {[}{[}KBxLakeProb{]}{]}
 \end{itemize}
 
 \end{document}
