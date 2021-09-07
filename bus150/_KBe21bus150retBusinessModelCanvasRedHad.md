@@ -83,3 +83,9 @@ title: RedHat Business Model Canvas
 ## create a cohesive ecosystem
 
 ## maintain forks and thus ownership
+
+## liscence so that only individual consumers can use your products for free
+
+### make enterprise pricing a requirement for enterprise customers
+
+## open source as a service

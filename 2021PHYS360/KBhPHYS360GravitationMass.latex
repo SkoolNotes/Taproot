@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19168)}}    % original
-%\rhead{\textrmlf{Compiled }\#19168\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19170)}}    % original
+%\rhead{\textrmlf{Compiled }\#19170\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -373,7 +373,15 @@ For this evaluation, we will also set \(\sum^n_{i=1} m_i = M\), define
 In the case of the first integral application, the constant of
 integration --- \(C_1\) --- is defined to be zero due to the fact that,
 were it to be nonzero, the center of mass would be traveling at a faster
-rate
+rate than that of the object. As the object increases in speed, the
+center of mass would therefore increase in speed as well more than the
+object: leading it to travel away from the object, which would be
+absurd.
+
+In the latter case, the constant of integration --- \(C_2\) --- is
+equally defined as zero due to the fact that, were the value to be
+nonzero, the center of mass would perhaps be consistently ahead or
+behind from the object, which would equally be absurd.
 
 Collecting all constants, and as the initial velocities and positions
 are defined as 0, we could set \(C=0\). As such, the position

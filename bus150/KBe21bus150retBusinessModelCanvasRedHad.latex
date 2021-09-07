@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19164)}}    % original
-%\rhead{\textrmlf{Compiled }\#19164\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19173)}}    % original
+%\rhead{\textrmlf{Compiled }\#19173\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -341,5 +341,17 @@ ecosystem}\label{create-a-cohesive-ecosystem}}
 \hypertarget{maintain-forks-and-thus-ownership}{%
 \subsection{maintain forks and thus
 ownership}\label{maintain-forks-and-thus-ownership}}
+
+\hypertarget{liscence-so-that-only-individual-consumers-can-use-your-products-for-free}{%
+\subsection{liscence so that only individual consumers can use your
+products for
+free}\label{liscence-so-that-only-individual-consumers-can-use-your-products-for-free}}
+
+\hypertarget{make-enterprise-pricing-a-requirement-for-enterprise-customers}{%
+\subsubsection{make enterprise pricing a requirement for enterprise
+customers}\label{make-enterprise-pricing-a-requirement-for-enterprise-customers}}
+
+\hypertarget{open-source-as-a-service}{%
+\subsection{open source as a service}\label{open-source-as-a-service}}
 
 \end{document}

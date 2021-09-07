@@ -109,9 +109,11 @@ For this evaluation, we will also set $\sum^n_{i=1} m_i = M$, define $\vec{a_i}$
 \frac{1}{M} \sum^n_{i=1} m_i \vec{r_i} + C_2  &= \vec{r_{CM}}
 \end{align}
 
-In the case of the first integral application, the constant of integration --- $C_1$ --- is defined to be zero due to the fact that, were it to be nonzero, the center of mass would be traveling at a faster rate
+In the case of the first integral application, the constant of integration --- $C_1$ --- is defined to be zero due to the fact that, were it to be nonzero, the center of mass would be traveling at a faster rate than that of the object. As the object increases in speed, the center of mass would therefore increase in speed as well more than the object: leading it to travel away from the object, which would be absurd.
 
-Collecting all constants, and as the initial velocities and positions are defined as 0, we could set $C=0$. As such, the position $\vec{r_{CM}}$ of the center of mass $CM$ is therefore:
+In the latter case, the constant of integration --- $C_2$ --- is equally defined as zero due to the fact that, were the value to be nonzero, the center of mass would perhaps be consistently ahead or behind from the object, which would equally be absurd.
+
+Collecting all constants, as both constants of integration is defined to be at zero, we could set $C=0$. As such, the position $\vec{r_{CM}}$ of the center of mass $CM$ is therefore:
 
 \begin{equation}
 \vec{r_{CM}} = \frac{1}{M} \sum^n_{i=1} m_i \vec{r_i}
