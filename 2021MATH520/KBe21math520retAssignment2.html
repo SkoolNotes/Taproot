@@ -94,8 +94,7 @@ html {
                \end{aligned}\]</span></p>
             <p>Which implies:</p>
             <p><span class="math display">\[\begin{aligned}
-               \overline{QB} &amp;= a \cos (2\theta )\\
-               &amp;= -a \cos  (2 \theta )  \\
+               \overline{QB} &amp;= -a \cos  (2 \theta )  \\
                &amp;= -a \left( 1 - 2 \sin ^2 \theta \right)  \\
                &amp;= -a + 2a \sin  ^2 \theta 
                \end{aligned}\]</span></p>
@@ -104,6 +103,14 @@ html {
                &amp;= \cancel{a - a} + 2a \sin  ^2 \theta 
                &amp;= 2 a \sin  ^2 \theta 
                \end{aligned}\]</span></p>
+            <h1 id="parameterization-of-an-elipse">parameterization of an elipse</h1>
+            <p><a href="https://www.desmos.com/calculator/wcu1okhjyz">https://www.desmos.com/calculator/wcu1okhjyz</a></p>
+            <p><span class="math display">\[\begin{aligned}
+              x(t) = a \sqrt{c} \sin  t\\
+              y(t) = b \sqrt{c} \cos  t
+              \end{aligned}\]</span></p>
+            <h1 id="mystery-curve">mystery curve</h1>
+            <p>it’s just <span class="math inline">\((a \cos  t, b \sin  t)\)</span> because of how the right triangle aligns with the axes.</p>
             <h1 id="swallowtail-catastrophe-curves">swallowtail catastrophe curves</h1>
             <p>Defined by <span class="math display">\[\begin{aligned}
               x &amp;= 2ct - 4t^3\\
@@ -165,6 +172,12 @@ html {
               &amp;= \dot x \frac{d}{dx} \left( \frac{\dot{y}}{\dot{x}} \right)  \\
               \end{aligned}\]</span></p>
             <p>why should the <span class="math inline">\(\dot x\)</span> in the bottom be cubed?</p>
+            <h2 id="in-class-review">in class review</h2>
+            <p><span class="math display">\[\begin{aligned}
+               \frac{d}{dx} \frac{dy}{dx} = \frac{d}{dx} \left( \frac{\frac{dy}{dt}}{\frac{dx}{dt}} \right) = \frac{d}{dx} u = \frac{\frac{du}{dt}}{\frac{dx}{dt}}\\
+               = \frac{\frac{d}{dt}u}{\frac{dx}{dt}} = \frac{\frac{d}{dt} \frac{\dot{y}}{\dot{x}} }{\dot{x}}\\
+               = \frac{ \frac{\dot{x}\ddot{y}-\dot{y}\ddot{x}}{\dot{x}}}{\dot{x}}
+               \end{aligned}\]</span></p>
         </div>
 
         <script>

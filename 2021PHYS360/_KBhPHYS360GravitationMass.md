@@ -157,14 +157,20 @@ and apply Newton\'s second law:
 \int \int \sum^n_{i=1} \vec{F_{net,i}} dt dt &= \int \int (\sum^n_{i=1} m_i) \ddot{\vec{r_{CM}}} dt dt \\
 \int (\sum^n_{i=1} m_i \int \vec{a_i} dt) dt &= \int (M \int \ddot{\vec{r_{CM}}} dt) dt \\
 \int (\sum^n_{i=1} m_i \int \frac{d^2\vec{r_i}}{dt^2} dt) dt &= \int (M \int \frac{d^2\vec{r_{CM}}}{dt^2} dt) dt \\
-\int (\sum^n_{i=1} m_i \frac{d\vec{r_i}}{dt}) dt &= \int M \frac{d\vec{r_{CM}}}{dt} dt \\
-\sum^n_{i=1} m_i \int \frac{d\vec{r_i}}{dt} dt &= M \int \frac{d\vec{r_{CM}}}{dt} dt \\
-\sum^n_{i=1} m_i \vec{r_i} &= M \vec{r_{CM}} \\
-\frac{1}{M} \sum^n_{i=1} m_i \vec{r_i} &= \vec{r_{CM}}
+\int (\sum^n_{i=1} m_i \frac{d\vec{r_i}}{dt}) dt &= \int M \frac{d\vec{r_{CM}}}{dt} + C_1 dt \\
+\sum^n_{i=1} m_i \int \frac{d\vec{r_i}}{dt} dt &= M \int \frac{d\vec{r_{CM}}}{dt} + C_1 dt \\
+\sum^n_{i=1} m_i \vec{r_i} + C_2 &= M \vec{r_{CM}} \\
+\frac{1}{M} \sum^n_{i=1} m_i \vec{r_i} + C_2  &= \vec{r_{CM}}
 \end{align}
 ```
-As such, the position $\vec{r_{CM}}$ of the center of mass $CM$ is
-therefore:
+In the case of the first integral application, the constant of
+integration --- $C_1$ --- is defined to be zero due to the fact that,
+were it to be nonzero, the center of mass would be traveling at a faster
+rate
+
+Collecting all constants, and as the initial velocities and positions
+are defined as 0, we could set $C=0$. As such, the position
+$\vec{r_{CM}}$ of the center of mass $CM$ is therefore:
 
 ```{=latex}
 \begin{equation}

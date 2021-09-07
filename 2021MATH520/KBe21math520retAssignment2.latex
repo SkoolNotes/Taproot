@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18622)}}    % original
-%\rhead{\textrmlf{Compiled }\#18622\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19154)}}    % original
+%\rhead{\textrmlf{Compiled }\#19154\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -250,8 +250,7 @@ Using some geometry:
 Which implies:
 
 \[\begin{aligned}
-   \overline{QB} &= a \cos (2\theta )\\
-   &= -a \cos  (2 \theta )  \\
+   \overline{QB} &= -a \cos  (2 \theta )  \\
    &= -a \left( 1 - 2 \sin ^2 \theta \right)  \\
    &= -a + 2a \sin  ^2 \theta 
    \end{aligned}\]
@@ -262,6 +261,23 @@ By going back to the original distance relations, we have
    &= \cancel{a - a} + 2a \sin  ^2 \theta 
    &= 2 a \sin  ^2 \theta 
    \end{aligned}\]
+
+\hypertarget{parameterization-of-an-elipse}{%
+\section{parameterization of an
+elipse}\label{parameterization-of-an-elipse}}
+
+\url{https://www.desmos.com/calculator/wcu1okhjyz}
+
+\[\begin{aligned}
+  x(t) = a \sqrt{c} \sin  t\\
+  y(t) = b \sqrt{c} \cos  t
+  \end{aligned}\]
+
+\hypertarget{mystery-curve}{%
+\section{mystery curve}\label{mystery-curve}}
+
+it's just \((a \cos  t, b \sin  t)\) because of how the right triangle
+aligns with the axes.
 
 \setcounter{section}{7}
 
@@ -390,5 +406,14 @@ stuck\ldots{} lets try working backwards:
   \end{aligned}\]
 
 why should the \(\dot x\) in the bottom be cubed?
+
+\hypertarget{in-class-review}{%
+\subsection{in class review}\label{in-class-review}}
+
+\[\begin{aligned}
+   \frac{d}{dx} \frac{dy}{dx} = \frac{d}{dx} \left( \frac{\frac{dy}{dt}}{\frac{dx}{dt}} \right) = \frac{d}{dx} u = \frac{\frac{du}{dt}}{\frac{dx}{dt}}\\
+   = \frac{\frac{d}{dt}u}{\frac{dx}{dt}} = \frac{\frac{d}{dt} \frac{\dot{y}}{\dot{x}} }{\dot{x}}\\
+   = \frac{ \frac{\dot{x}\ddot{y}-\dot{y}\ddot{x}}{\dot{x}}}{\dot{x}}
+   \end{aligned}\]
 
 \end{document}

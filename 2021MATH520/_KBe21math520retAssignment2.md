@@ -41,8 +41,7 @@ $$\begin{aligned}
 Which implies:
 
 $$\begin{aligned}
-   \overline{QB} &= a \cos (2\theta )\\
-   &= -a \cos  (2 \theta )  \\
+   \overline{QB} &= -a \cos  (2 \theta )  \\
    &= -a \left( 1 - 2 \sin ^2 \theta \right)  \\
    &= -a + 2a \sin  ^2 \theta 
    \end{aligned}$$
@@ -53,6 +52,20 @@ $$\begin{aligned}
    &= \cancel{a - a} + 2a \sin  ^2 \theta 
    &= 2 a \sin  ^2 \theta 
    \end{aligned}$$
+
+# parameterization of an elipse
+
+<https://www.desmos.com/calculator/wcu1okhjyz>
+
+$$\begin{aligned}
+  x(t) = a \sqrt{c} \sin  t\\
+  y(t) = b \sqrt{c} \cos  t
+  \end{aligned}$$
+
+# mystery curve
+
+it\'s just $(a \cos  t, b \sin  t)$ because of how the right triangle
+aligns with the axes.
 
 ```{=latex}
 \setcounter{section}{7}
@@ -150,3 +163,11 @@ $$\begin{aligned}
   \end{aligned}$$
 
 why should the $\dot x$ in the bottom be cubed?
+
+## in class review
+
+$$\begin{aligned}
+   \frac{d}{dx} \frac{dy}{dx} = \frac{d}{dx} \left( \frac{\frac{dy}{dt}}{\frac{dx}{dt}} \right) = \frac{d}{dx} u = \frac{\frac{du}{dt}}{\frac{dx}{dt}}\\
+   = \frac{\frac{d}{dt}u}{\frac{dx}{dt}} = \frac{\frac{d}{dt} \frac{\dot{y}}{\dot{x}} }{\dot{x}}\\
+   = \frac{ \frac{\dot{x}\ddot{y}-\dot{y}\ddot{x}}{\dot{x}}}{\dot{x}}
+   \end{aligned}$$

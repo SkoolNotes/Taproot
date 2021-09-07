@@ -1,1 +1,2 @@
-        Log for attempt at Tue Sep  7 10:35:27 AM PDT 2021 (19136)
+        Log for attempt at Tue Sep  7 02:18:08 PM PDT 2021 (19168)
+        Tue Sep  7 02:18:08 PM PDT 2021 Converting 2021PHYS360/KBhPHYS360GravitationMass.org...
