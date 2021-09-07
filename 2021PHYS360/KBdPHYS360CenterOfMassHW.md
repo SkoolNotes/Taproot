@@ -40,8 +40,9 @@ $$
 $$
 \begin{aligned}
 v &= \sqrt{\frac{2GM_e}{R_e}} \\
-&= \sqrt{\frac{2\cdot 6.674 \cdot 10^{-11} \cdot 5.972 × 10^{24}}{6,371^{2}}} \\
-&= 
+&= \sqrt{\frac{2\cdot 6.674 \cdot 10^{-11} \cdot 5.972 × 10^{24}}{6.371\cdot 10^{6}}} \\
+&= 11185.7 m/s \\
+&= 25020.1 mph \\
 \end{aligned}
 $$
 
@@ -53,8 +54,12 @@ $$
 \int \int \sum_{i=1}^{n} m_i \ddot{\vec{r}}_{i} \,dt\,dt &= \int \int (\sum_{i=1}^{n} m_i) \ddot{\vec{r}}_{CM} \,dt\,dt \\
 \int \sum_{i=1}^{n} m_i \dot{\vec{r}}_{i} \,dt + C_1 &= \int (\sum_{i=1}^{n} m_i) \dot{\vec{r}}_{CM} \,dt + C_1 \\
 \sum_{i=1}^{n} m_i \vec{r}_{i} + C_1t + C_2 &= (\sum_{i=1}^{n} m_i) \vec{r}_{CM} + C_1t + C_2 \\
-\text{Both constants are the same constant on both sides of the equation so they will cancel out.} \\
-\text{The sum of all mass is just }M. \\
+\end{aligned}
+$$
+Both constants are the same constant on both sides of the equation so they will cancel out.
+The sum of all mass is just $M$.
+$$
+\begin{aligned}
 \vec{r}_{CM} &= \frac{1}{M} \sum_{i=1}^{n} m_i \vec{r}_{i} \\
 \end{aligned}
 $$

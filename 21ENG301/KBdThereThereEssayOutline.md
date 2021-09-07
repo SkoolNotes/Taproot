@@ -5,13 +5,19 @@ title: There There Essay Outline
 
 # Prompt
 
-```Orange theorizes the concept of the “Urban Indian” in his Prologue (11). Define this concept and explain how one of the novel’s characters navigates this modern identity alongside his/her ancestral roots.
+```
+Orange theorizes the concept of the “Urban Indian” in his Prologue (11). Define this concept and explain how one of the novel’s characters navigates this modern identity alongside his/her ancestral roots.
 ```
 
 # Outline
 
+- Thesis
+	- **Orange uses**
 - What is an Urban Indian?
-	- 
+	- "Urbanity" section in Prologue
+	- Indians that were forced into an unfamiliar lifestyle and forced to lose their identity in favor of the status quo identity
+	- Attached to their cultural past and their history
+	- This is going to be a hard concept to communicate exactly into words in the essay
 - Talk about Tony Loneman and the Drome
 	- Face is a consequence of urban Indian life and its many hardships
 		- Disconnect from culture and socioeconomic pressure leads many Urban Indians to alcohol addiction
