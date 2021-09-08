@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19327)}}    % original
-%\rhead{\textrmlf{Compiled }\#19327\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19346)}}    % original
+%\rhead{\textrmlf{Compiled }\#19346\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -250,16 +250,16 @@ Modeling}\label{seven-questions-to-threat-modeling}}
 \item
   Who are we protecting it from, and what are their motivations?
 \item
-  What are the resources of attackers?
-\item
-  What are our resources to deploy to prevent these attacks?
-\item
   What methods of attack do we prevent? What are types of attacks that
   we don't prevent?
 \item
   What are the possible effects of these attacks? ("What types of
   attacks do we prevent, and how does that play on what we are
   protecting?")
+\item
+  What are the resources of attackers?
+\item
+  What are our resources?
 \item
   What should we do?
 \end{itemize}
@@ -286,17 +286,144 @@ Goal is \emph{not} protecting Facebook itself.
 \subsubsection{Who are we protecting it from, and what are their
 motivations?}\label{who-are-we-protecting-it-from-and-what-are-their-motivations}}
 
+\begin{enumerate}
+\item
+  Protecting From\ldots{}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Profiteers who are looking to exploit vulnerable populations (e.g.
+    scam artists, quacks)
+  \item
+    Well-meaning but misinformed users
+  \item
+    Trolls trying to get emotional reactions for funzies
+  \item
+    Insurance companies who might change user premiums
+  \end{itemize}
+\item
+  Not Protecting From\ldots{}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Facebook employees
+  \item
+    Hackers who are not Facebook users (i.e. national states)
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{what-methods-of-attacks-do-we-prevent}{%
+\subsubsection{What methods of attacks do we
+prevent?}\label{what-methods-of-attacks-do-we-prevent}}
+
 \begin{itemize}
 \tightlist
 \item
-  Profiteers who are looking to exploit vulnerable populations (e.g.
-  scam artists, quacks)
+  Selling or trading drugs/equipment on Facebook
 \item
-  Well-meaning but misinformed users
+  Misinformation, either malicious or well-intentioned, that leads to
+  physical harm
 \item
-  Trolls
+  Bullying
 \item
-  Insurance companies who might change user premiums
+  Privacy leaks: somehow, someone's data from these groups leaks:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    By malicious actors\ldots{}
+  \item
+    By Facebook itself\ldots{}
+  \item
+    By users themselves\ldots{}
+  \end{itemize}
 \end{itemize}
+
+\hypertarget{what-are-the-possible-effects-of-these-attacks}{%
+\subsubsection{What are the possible effects of these
+attacks?}\label{what-are-the-possible-effects-of-these-attacks}}
+
+\begin{enumerate}
+\tightlist
+\item
+  Physical harm to users
+\item
+  Loss of trust in the platform (Facebook)
+\end{enumerate}
+
+\hypertarget{what-are-their-resources-of-the-attackers}{%
+\subsubsection{What are their resources of the
+attackers?}\label{what-are-their-resources-of-the-attackers}}
+
+Believe that attackers' resources are limited:
+
+\begin{itemize}
+\tightlist
+\item
+  Profiteers will only spend resources if the reward is worth it, so
+  very little
+\item
+  Well-meaning users will spend little resources, or none if educated
+\item
+  Trolls will find an easier target to attack
+\item
+  Insurance companies are a question mark: lots of resources for high
+  reward
+\end{itemize}
+
+\hypertarget{what-are-our-resources}{%
+\subsubsection{What are our resources?}\label{what-are-our-resources}}
+
+Surprisingly limited, in some cases:
+
+\begin{itemize}
+\tightlist
+\item
+  3 engineers, no PM, and half a data scientist
+\item
+  No medical experiences
+\end{itemize}
+
+But surprisingly large:
+
+\begin{itemize}
+\tightlist
+\item
+  Multi-bullion dollar company
+\item
+  Dedicated security, misinformation, bullying, and illegal sales teams
+\item
+  Secret weapons: group admins and a direct line to Mark Zuckerberg
+\end{itemize}
+
+\hypertarget{what-should-we-do}{%
+\subsubsection{What should we do?}\label{what-should-we-do}}
+
+\begin{enumerate}
+\tightlist
+\item
+  Align closely with the Groups team as a whole
+\item
+  Partner with dedicated teams
+\item
+  Build/own ONLY the things that the group specifically care about
+
+  \begin{enumerate}
+  \tightlist
+  \item
+    Sellling =\textgreater{} Illegal Sales Team
+  \item
+    Misinformation =\textgreater{} Misinformation Team
+  \item
+    Bullying =\textgreater{} Well-being Team
+  \item
+    Privacy\ldots{} a point of focus
+  \end{enumerate}
+\end{enumerate}
+
+Hence, the first feature is allowing real-name users to post
+anonymously.
 
 \end{document}

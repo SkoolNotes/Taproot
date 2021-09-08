@@ -85,10 +85,10 @@ html {
             <ul>
             <li><p>Specifically, what are we protecting?</p></li>
             <li><p>Who are we protecting it from, and what are their motivations?</p></li>
-            <li><p>What are the resources of attackers?</p></li>
-            <li><p>What are our resources to deploy to prevent these attacks?</p></li>
             <li><p>What methods of attack do we prevent? What are types of attacks that we don’t prevent?</p></li>
             <li><p>What are the possible effects of these attacks? ("What types of attacks do we prevent, and how does that play on what we are protecting?")</p></li>
+            <li><p>What are the resources of attackers?</p></li>
+            <li><p>What are our resources?</p></li>
             <li><p>What should we do?</p></li>
             </ul>
             <h2 id="actual-threat-modeling-for-facebook-health-communities">Actual Threat Modeling for Facebook Health Communities</h2>
@@ -98,12 +98,70 @@ html {
             <p>Goal is to protect the users of these groups from physical and emotional harm.</p>
             <p>Goal is <em>not</em> protecting Facebook itself.</p>
             <h3 id="who-are-we-protecting-it-from-and-what-are-their-motivations">Who are we protecting it from, and what are their motivations?</h3>
+            <ol>
+            <li><p>Protecting From…</p>
             <ul>
             <li><p>Profiteers who are looking to exploit vulnerable populations (e.g. scam artists, quacks)</p></li>
             <li><p>Well-meaning but misinformed users</p></li>
-            <li><p>Trolls</p></li>
+            <li><p>Trolls trying to get emotional reactions for funzies</p></li>
             <li><p>Insurance companies who might change user premiums</p></li>
+            </ul></li>
+            <li><p>Not Protecting From…</p>
+            <ul>
+            <li><p>Facebook employees</p></li>
+            <li><p>Hackers who are not Facebook users (i.e. national states)</p></li>
+            </ul></li>
+            </ol>
+            <h3 id="what-methods-of-attacks-do-we-prevent">What methods of attacks do we prevent?</h3>
+            <ul>
+            <li><p>Selling or trading drugs/equipment on Facebook</p></li>
+            <li><p>Misinformation, either malicious or well-intentioned, that leads to physical harm</p></li>
+            <li><p>Bullying</p></li>
+            <li><p>Privacy leaks: somehow, someone’s data from these groups leaks:</p>
+            <ul>
+            <li><p>By malicious actors…</p></li>
+            <li><p>By Facebook itself…</p></li>
+            <li><p>By users themselves…</p></li>
+            </ul></li>
             </ul>
+            <h3 id="what-are-the-possible-effects-of-these-attacks">What are the possible effects of these attacks?</h3>
+            <ol>
+            <li><p>Physical harm to users</p></li>
+            <li><p>Loss of trust in the platform (Facebook)</p></li>
+            </ol>
+            <h3 id="what-are-their-resources-of-the-attackers">What are their resources of the attackers?</h3>
+            <p>Believe that attackers’ resources are limited:</p>
+            <ul>
+            <li><p>Profiteers will only spend resources if the reward is worth it, so very little</p></li>
+            <li><p>Well-meaning users will spend little resources, or none if educated</p></li>
+            <li><p>Trolls will find an easier target to attack</p></li>
+            <li><p>Insurance companies are a question mark: lots of resources for high reward</p></li>
+            </ul>
+            <h3 id="what-are-our-resources">What are our resources?</h3>
+            <p>Surprisingly limited, in some cases:</p>
+            <ul>
+            <li><p>3 engineers, no PM, and half a data scientist</p></li>
+            <li><p>No medical experiences</p></li>
+            </ul>
+            <p>But surprisingly large:</p>
+            <ul>
+            <li><p>Multi-bullion dollar company</p></li>
+            <li><p>Dedicated security, misinformation, bullying, and illegal sales teams</p></li>
+            <li><p>Secret weapons: group admins and a direct line to Mark Zuckerberg</p></li>
+            </ul>
+            <h3 id="what-should-we-do">What should we do?</h3>
+            <ol>
+            <li><p>Align closely with the Groups team as a whole</p></li>
+            <li><p>Partner with dedicated teams</p></li>
+            <li><p>Build/own ONLY the things that the group specifically care about</p>
+            <ol>
+            <li><p>Sellling =&gt; Illegal Sales Team</p></li>
+            <li><p>Misinformation =&gt; Misinformation Team</p></li>
+            <li><p>Bullying =&gt; Well-being Team</p></li>
+            <li><p>Privacy… a point of focus</p></li>
+            </ol></li>
+            </ol>
+            <p>Hence, the first feature is allowing real-name users to post anonymously.</p>
         </div>
 
         <script>

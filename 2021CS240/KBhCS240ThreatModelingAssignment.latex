@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ CS240 }
-\newcommand{\thelesson}{ CS240 Master Index }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{ Threat Modeling Assignment }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19351)}}    % original
-%\rhead{\textrmlf{Compiled }\#19351\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19357)}}    % original
+%\rhead{\textrmlf{Compiled }\#19357\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2021-2022}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,48 +210,17 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{cs240-master-index}{%
-\section{CS240 master index}\label{cs240-master-index}}
+The assignment is centered around
+\href{https://www.condution.com/}{Condution}, an open-source task
+management platform. Data processing and querying is done on-device, but
+raw user tables and data is stored in a remote PosgreSQL server that's
+either officially hosted and supported or optionally on-prem hosted by
+the user.
 
-\hypertarget{day-1}{%
-\subsection{Day 1}\label{day-1}}
+\hypertarget{what-are-we-protecting}{%
+\section{What are we protecting?}\label{what-are-we-protecting}}
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhCS240Day1{]}{]}
-\item
-  {[}{[}KBxDayOneCompSec{]}{]}
-\item
-  {[}{[}KBxLegalityInCompSec{]}{]}
-\item
-  {[}{[}KBhCS240EthicsQuestions{]}{]}
-\end{itemize}
-
-\hypertarget{personal-ethics}{%
-\subsection{Personal Ethics}\label{personal-ethics}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhCS240PersonalEthics{]}{]}
-\item
-  {[}{[}KBhCS240Rubric{]}{]}
-\item
-  {[}{[}KBxCS240Rubric{]}{]}
-\item
-  {[}{[}KBxCS240CodeofConduct{]}{]}
-\end{itemize}
-
-\hypertarget{threat-modeling}{%
-\subsection{\#\# Threat modeling}\label{threat-modeling}}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhCS240ThreatModeling{]}{]}
-\item
-  {[}{[}KBxThreatModeling{]}{]}
-\end{itemize}
+Because of the open-source nature of Condution, and the fact that all
+processing code
 
 \end{document}

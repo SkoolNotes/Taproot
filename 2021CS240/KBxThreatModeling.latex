@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{ CS240 }
-\newcommand{\thelesson}{ CS240 Master Index }
+\newcommand{\thecourse}{  }
+\newcommand{\thelesson}{}
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19351)}}    % original
-%\rhead{\textrmlf{Compiled }\#19351\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19360)}}    % original
+%\rhead{\textrmlf{Compiled }\#19360\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -210,48 +210,78 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{cs240-master-index}{%
-\section{CS240 master index}\label{cs240-master-index}}
+\#flo \#ref \#ret \#disorganized \#incomplete
 
-\hypertarget{day-1}{%
-\subsection{Day 1}\label{day-1}}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\begin{itemize}
+\hypertarget{voice-assistant}{%
+\subsection{Voice assistant}\label{voice-assistant}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  {[}{[}KBhCS240Day1{]}{]}
-\item
-  {[}{[}KBxDayOneCompSec{]}{]}
-\item
-  {[}{[}KBxLegalityInCompSec{]}{]}
-\item
-  {[}{[}KBhCS240EthicsQuestions{]}{]}
-\end{itemize}
+  What are we protecting?
 
-\hypertarget{personal-ethics}{%
-\subsection{Personal Ethics}\label{personal-ethics}}
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    User privacy and data
+  \item
+    User mental space
 
-\begin{itemize}
-\tightlist
-\item
-  {[}{[}KBhCS240PersonalEthics{]}{]}
-\item
-  {[}{[}KBhCS240Rubric{]}{]}
-\item
-  {[}{[}KBxCS240Rubric{]}{]}
-\item
-  {[}{[}KBxCS240CodeofConduct{]}{]}
-\end{itemize}
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii}.}
+    \tightlist
+    \item
+      advertising
+    \end{enumerate}
+  \item
+    Peace of mind
+  \item
+    Product and brand
+  \item
+    Protect external agendas
 
-\hypertarget{threat-modeling}{%
-\subsection{\#\# Threat modeling}\label{threat-modeling}}
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii}.}
+    \tightlist
+    \item
+      brand ecosystem
+    \end{enumerate}
+  \item
+    User entry points
 
-\begin{itemize}
-\tightlist
+    \begin{enumerate}
+    \def\labelenumiii{\arabic{enumiii}.}
+    \tightlist
+    \item
+    \end{enumerate}
+  \end{enumerate}
 \item
-  {[}{[}KBhCS240ThreatModeling{]}{]}
+  Who are we protecting it from, and what are their motivations?
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Data miners
+  \item
+    Advertisers
+  \item
+    Foreign state actors
+  \end{enumerate}
 \item
-  {[}{[}KBxThreatModeling{]}{]}
-\end{itemize}
+  What methods of attacks do we prevent?
+\item
+  What are the possible effects of these attacks?
+\item
+  What are their resources?
+\item
+  What are our resources?
+\item
+  What should we do?
+\end{enumerate}
 
 \end{document}
